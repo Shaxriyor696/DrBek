@@ -1,0 +1,1635 @@
+{
+ "id": "ch73",
+ "topicId": "13",
+ "order": 6,
+ "titleUz": "Energetika va metabolizm tezligi",
+ "titleOriginal": "Energetics and Metabolic Rate",
+ "subtitle": "*Energetics and Metabolic Rate* — XIII bo'lim, PDF 847–853",
+ "contentVersion": "2026-11-14.1",
+ "status": "in_review",
+ "translationStatus": "machine_assisted",
+ "source": {
+  "bookId": "guyton-hall-14",
+  "chapter": 73,
+  "unit": "XIII",
+  "pdfPages": [
+   847,
+   853
+  ],
+  "printedPages": [
+   842,
+   848
+  ],
+  "notesFile": "guyton-notes/ch73-energetics-and-metabolic-rate.md",
+  "summaryFile": "guyton-notes/summaries/ch73.md"
+ },
+ "pdfPages": [
+  847,
+  853
+ ],
+ "printedPages": [
+  842,
+  848
+ ],
+ "outline": [],
+ "objectives": [
+  "ATF — energiya valyutasi",
+  "Fosfokreatin — qo'shimcha energiya ombori va \"ATF buferi\"",
+  "Anaerob va aerob energiya",
+  "Hujayra energiyasidan foydalanishning umumiy sxemasi (73-1-rasm)",
+  "Hujayrada energiya ajralishini boshqarish",
+  "Metabolizm tezligi",
+  "Metabolizm tezligini o'lchash",
+  "Energiya sarfining tarkibiy qismlari",
+  "Bazal metabolizm tezligi (BMR)",
+  "BMR ga ta'sir qiluvchi omillar",
+  "Jismoniy faollik uchun energiya",
+  "Ovqatning termogen ta'siri",
+  "Titramasdan termogenez — simpatik qo'zg'alish roli"
+ ],
+ "blocks": {
+  "simple": [
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Asosiy g'oya",
+    "id": "ch73-s-0-asosiy-goya",
+    "bid": "ch73-u0"
+   },
+   {
+    "type": "paragraph",
+    "text": "Uglevod, yog' va oqsil energiyasi hujayra funksiyalariga deyarli faqat ATF (yoki GTF) orqali yetkaziladi — ATF hujayraning \"energiya valyutasi\". Fosfokreatin ATF zaxirasi va buferi vazifasini bajaradi. Hujayradagi energiya ajralishi tezligini asosan ADF konsentratsiyasi, ya'ni hujayra faolligi boshqaradi. Tanada ajralgan energiyaning deyarli hammasi oxir-oqibat issiqlikka aylanadi, shuning uchun metabolizm tezligi issiqlik ajralishi bilan ifodalanadi.",
+    "bid": "ch73-u1"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "ATF — energiya valyutasi",
+    "id": "ch73-s-2-atf-energiya-valyutasi",
+    "bid": "ch73-u2"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Har bir ikkita yuqori energiyali fosfat bog'ida standart sharoitda ~7300 kal/mol (7,3 kkal), fiziologik sharoitda 12 000 kal/mol gacha erkin energiya bor. Bu tanadagi deyarli har qanday reaksiya bosqichi uchun yetarli; ko'p reaksiyalar uning bir necha yuz kaloriyasini ishlatadi, qolgani issiqlik bo'lib yo'qoladi (2-bob).",
+      "depth": 0
+     },
+     {
+      "text": "**ATF hosil bo'lishi:** (1) uglevodlar (asosan glyukoza, oz fruktoza) — sitoplazmada anaerob glikoliz va mitoxondriyada aerob limon kislota (Krebs) sikli; (2) yog' kislotalari — mitoxondriyada beta-oksidlanish; (3) oqsillar — aminokislotalarga gidroliz, so'ng limon kislota sikli oraliq mahsulotlari, asetil-KoA va CO2 ga.",
+      "depth": 0
+     },
+     {
+      "text": "**ATF sarflanadigan jarayonlar:**",
+      "depth": 0
+     },
+     {
+      "text": "*Sintez va o'sish:* peptid bog'lari hosil qilish (har bir bog' 500–5000 kal/mol saqlaydi, lekin uni hosil qilish uchun 4 ta yuqori energiyali bog' — 48 000 kal sarflanadi, 3-bob). Laktatdan glyukoza, asetil-KoA dan yog' kislotalari, xolesterin, fosfolipidlar, gormonlar va deyarli barcha moddalar sintezi. Hatto ammiakdan mochevina hosil qilish ham ATF talab qiladi — ammiak juda zaharli bo'lgani uchun bu foydali.",
+      "depth": 1
+     },
+     {
+      "text": "*Mushak qisqarishi:* miozin ferment sifatida ATF ni ADF ga parchalaydi. Tinch holatda oz, maksimal qisqarishning qisqa davrlarida kamida 150 baravar ko'p (6-bob).",
+      "depth": 1
+     },
+     {
+      "text": "*Membranadan faol transport:* elektrolitlar, glyukoza, aminokislotalar, asetoasetatni elektrokimyoviy gradiyentga qarshi tashish (4, 28, 66-boblar).",
+      "depth": 1
+     },
+     {
+      "text": "*Bez sekretsiyasi:* moddalarni konsentratsiyalash va sekret organik moddalarini sintezlash.",
+      "depth": 1
+     },
+     {
+      "text": "*Nerv o'tkazuvchanligi:* impuls energiyasi membranadagi ion konsentratsiya farqlaridan (ichkarida K+ ko'p, tashqarida Na+ ko'p); har bir harakat potensialida oz K+ chiqadi, Na+ kiradi, so'ng ATF bilan ishlaydigan faol transport ularni qaytaradi.",
+      "depth": 1
+     }
+    ],
+    "bid": "ch73-u3"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Fosfokreatin — qo'shimcha energiya ombori va \"ATF buferi\"",
+    "id": "ch73-s-4-fosfokreatin-qoshimcha-energiya-ombori-va-atf-buferi",
+    "bid": "ch73-u4"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Hujayrada ATF dan 3–8 baravar ko'p. Yuqori energiyali bog'i standart sharoitda ~8500, tanada (37°C, past konsentratsiyalar) 13 000 kal/mol gacha — ATF bog'idan biroz ko'p.",
+      "depth": 0
+     },
+     {
+      "text": "ATF dan farqli ravishda oziq va funksional tizimlar o'rtasida bevosita bog'lovchi bo'la olmaydi, lekin ATF bilan energiyani o'zaro almashadi: fosfokreatin + ADF ⇌ ATF + kreatin.",
+      "depth": 0
+     },
+     {
+      "text": "ATF ortiqcha bo'lsa fosfokreatin sintezlanadi; ATF sarflana boshlasa fosfokreatin energiyasi tez ATF ga o'tadi. Bog' energiyasi ATF nikidan 1000–1500 kal/mol ko'p bo'lgani uchun reaksiya ATF hosil bo'lishiga tez suriladi. Fosfokreatin qolgan ekan, ATF konsentratsiyasi deyarli doimiy yuqori turadi — bu muhim, chunki deyarli barcha metabolik reaksiyalar tezligi shu doimiylikka bog'liq.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch73-u5"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Anaerob va aerob energiya",
+    "id": "ch73-s-6-anaerob-va-aerob-energiya",
+    "bid": "ch73-u6"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Anaerob** — kislorodsiz, **aerob** — faqat oksidlanish orqali olinadigan energiya. Kislorodsiz energiya beradigan yagona sezilarli ozuqa — uglevodlar (glyukoza yoki glikogenning piruvatgacha glikolizi).",
+      "depth": 0
+     },
+     {
+      "text": "1 mol glyukoza piruvatgacha → 2 mol ATF; glikogendagi 1 mol glyukoza → 3 mol ATF, chunki hujayraga kirgan erkin glyukoza avval 1 ATF bilan fosforlanishi kerak, glikogendan kelgani esa allaqachon fosforlangan. Shuning uchun anaerob sharoitda eng yaxshi manba — hujayradagi glikogen.",
+      "depth": 0
+     },
+     {
+      "text": "**Gipoksiyada:** nafas to'xtasa, o'pka va gemoglobindagi kislorod metabolizmni atigi ~2 daqiqa ta'minlaydi; yana ~1 daqiqa glikogenning piruvat → laktatga glikolizidan energiya olinadi (laktat hujayradan chiqadi, 68-bob).",
+      "depth": 0
+     },
+     {
+      "text": "**Kuchli qisqa faollikda:** oksidlanish juda sekin javob beradi, shuning uchun qo'shimcha energiya anaerob manbalardan: (1) mushakdagi tayyor ATF (maksimal ~5 mmol/L hujayra ichi suyuqligi — maksimal qisqarishni ~1 soniya ta'minlaydi); (2) fosfokreatin (3–8 baravar ko'p, lekin hammasi bilan ham maksimal qisqarish 5–10 soniya); (3) glikogenning laktatgacha glikolizi — oksidlanishdan ancha tez. 5–10 soniyadan uzoq, lekin 1–2 daqiqadan qisqa kuchli faollik energiyasining ko'pi anaerob glikolizdan; mushak glikogeni kamayadi, qonda laktat oshadi.",
+      "depth": 0
+     },
+     {
+      "text": "Mashqdan keyin oksidlanish yordamida laktatning ~4/5 qismi glyukozaga qayta aylanadi (asosan jigarda, so'ng qon bilan mushakka qaytib glikogen bo'ladi), qolgani piruvat sifatida limon kislota siklida oksidlanadi.",
+      "depth": 0
+     },
+     {
+      "text": "**Kislorod qarzi:** og'ir mashqdan keyin bir necha daqiqadan 1 soatgacha qo'shimcha kislorod sarflanadi: (1) laktatni glyukozaga qaytarish; (2) AMF va ADF ni ATF ga qaytarish; (3) kreatin va fosfatdan fosfokreatinni tiklash; (4) gemoglobin va miogloblin bilan bog'langan kislorodni normallashtirish; (5) o'pkadagi kislorodni normal darajaga ko'tarish. Kislorod qarzi to'plash qobiliyati ko'p sport turlarida muhim (85-bob).",
+      "depth": 0
+     }
+    ],
+    "bid": "ch73-u7"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Hujayra energiyasidan foydalanishning umumiy sxemasi (73-1-rasm)",
+    "id": "ch73-s-8-hujayra-energiyasidan-foydalanishning-umumiy-sxemasi-73-1-ra",
+    "bid": "ch73-u8"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Glikogen va glyukoza anaerob, uglevod, yog', oqsil va boshqa moddalardan hosil bo'lgan birikmalar aerob yo'l bilan ATF beradi. ATF fosfokreatin bilan qaytar muvozanatda; hujayra zaxira energiyasining ko'pi fosfokreatinda.",
+      "depth": 0
+     },
+     {
+      "text": "ATF sintez va o'sish, mushak qisqarishi, bez sekretsiyasi, nerv o'tkazuvchanligi, faol so'rilish va boshqa faoliyatlarga sarflanadi.",
+      "depth": 0
+     },
+     {
+      "text": "Talab oksidlanish imkoniyatidan oshsa, avval fosfokreatin, so'ng tezda glikogenning anaerob parchalanishi ishlatiladi. Oksidlanish keskin energiya portlashini bera olmaydi, lekin sekin sarfda zaxiralar (asosan yog') bor ekan, cheksiz davom etadi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch73-u9"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Hujayrada energiya ajralishini boshqarish",
+    "id": "ch73-s-10-hujayrada-energiya-ajralishini-boshqarish",
+    "bid": "ch73-u10"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Ferment reaksiyalari tezligi:** ferment avval substrat bilan bo'sh birikib, uning bog'lanish kuchlarini o'zgartiradi. **Mikaelis-Menten tenglamasi:** tezlik = K1 × [Ferment] × [Substrat] / (K2 + [Substrat]) (73-2-rasm).",
+      "depth": 0
+     },
+     {
+      "text": "**Substrat ko'p bo'lsa** tezlik deyarli faqat ferment konsentratsiyasiga bog'liq (ferment 1→2→4→8 oshsa, tezlik mutanosib oshadi). Misol: qandli diabetda kanalchalarga juda ko'p glyukoza tushganda tashuvchi fermentlar to'yingan, qayta so'rilish glyukoza emas, tashuvchilar miqdori bilan cheklanadi.",
+      "depth": 0
+     },
+     {
+      "text": "**Substrat kam bo'lsa** tezlik substrat va ferment konsentratsiyasiga to'g'ri mutanosib (ichak va kanalchalarda past konsentratsiyali moddalar so'rilishi).",
+      "depth": 0
+     },
+     {
+      "text": "**Ketma-ket reaksiyalar:** umumiy tezlikni eng sekin bosqich — **tezlikni cheklovchi bosqich** belgilaydi.",
+      "depth": 0
+     },
+     {
+      "text": "**ADF — energiya ajralishining asosiy boshqaruvchisi:** tinch holatda hujayrada ADF juda kam, shuning uchun ADF ni substrat sifatida talab qiladigan barcha oksidlanish va boshqa energiya beruvchi yo'llar sekin. Hujayra har qanday faoliyatda ATF ni ADF ga aylantiradi; ADF faollik darajasiga mutanosib oshib, oziqdan energiya ajralish tezligini avtomatik oshiradi. Faoliyat to'xtasa, ADF tez ATF ga aylanib, energiya ajralishi to'xtaydi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch73-u11"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Metabolizm tezligi",
+    "id": "ch73-s-12-metabolizm-tezligi",
+    "bid": "ch73-u12"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Metabolizm** — barcha hujayralardagi barcha kimyoviy reaksiyalar; **metabolizm tezligi** odatda issiqlik ajralish tezligi bilan ifodalanadi.",
+      "depth": 0
+     },
+     {
+      "text": "**Issiqlik — deyarli barcha energiyaning oxirgi mahsuloti:** ATF hosil bo'lishida oziq energiyasining o'rtacha 35% i issiqlikka aylanadi; ATF dan funksional tizimlarga o'tishda yana yo'qotiladi, shuning uchun eng yaxshi sharoitda ham oziq energiyasining ko'pi bilan **27%** i funksional tizimlarga yetadi. U ham oxir-oqibat issiqlikka aylanadi: oqsillar doimo almashinib, peptid bog'lari energiyasi parchalanishda issiqlik bo'ladi; mushak energiyasi to'qima yopishqoqligini yengishga sarflanib, ishqalanish issiqligiga aylanadi; yurak arteriyalarni cho'zib saqlagan potensial energiya qon qatlamlari va tomir devori ishqalanishida issiqlikka aylanadi.",
+      "depth": 0
+     },
+     {
+      "text": "Yagona sezilarli istisno — tanadan tashqarida ish bajarish (masalan, yukni ko'tarish yoki zinapoyaga chiqish — tortishishga qarshi potensial energiya). Tashqi ish bo'lmasa, barcha energiya tana issiqligiga aylanadi.",
+      "depth": 0
+     },
+     {
+      "text": "**Kaloriya:** 1 kaloriya (kichik \"k\") — 1 g suvni 1°C isitish uchun kerak issiqlik. Tana energiyasi uchun juda kichik, shuning uchun **Kaloriya** (katta \"K\", kilokaloriya = 1000 kal) ishlatiladi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch73-u13"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Metabolizm tezligini o'lchash",
+    "id": "ch73-s-14-metabolizm-tezligini-olchash",
+    "bid": "ch73-u14"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**To'g'ridan-to'g'ri kalorimetriya:** tashqi ish bo'lmasa, tanadan ajralgan issiqlik o'lchanadi. Odam issiqlik o'tkazmaydigan kamerada; havo sovuq suv vannasidagi quvurlardan o'tkazilib, harorati doimiy saqlanadi; suv vannasining issiqlik olishi tana issiqlik ajralishiga teng. Qiyin, faqat tadqiqotda.",
+      "depth": 0
+     },
+     {
+      "text": "**Bilvosita kalorimetriya — kislorodning energiya ekvivalenti:** tana energiyasining >95% i kislorodning oziq bilan reaksiyasidan. 1 litr O2 bilan: glyukoza 5,01 Kal, kraxmal 5,06, yog' 4,70, oqsil 4,60 Kal — deyarli teng. O'rtacha ratsion uchun ~**4,825 Kal/L** (kislorodning energiya ekvivalenti). Faqat uglevod yoqilsa hisob ~4% kam, asosan yog' bo'lsa ~4% ko'p chiqadi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch73-u15"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Energiya sarfining tarkibiy qismlari",
+    "id": "ch73-s-16-energiya-sarfining-tarkibiy-qismlari",
+    "bid": "ch73-u16"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Vazni barqaror sog'lom kattada kirim = sarf. Sarf: (1) asosiy metabolik funksiyalar (bazal metabolizm); (2) jismoniy faollik (mashqsiz va ixtiyoriy mashq); (3) ovqatni hazm qilish, so'rish va qayta ishlash; (4) tana haroratini saqlash.",
+      "depth": 0
+     },
+     {
+      "text": "70 kg erkak kun bo'yi yotsa ~1650 Kal; ovqatlanish va hazm yana ≥200 Kal qo'shadi (~1850 Kal). Kun bo'yi stulda o'tirsa 2000–2250 Kal. Juda kam harakatli odamga ~2000 Kal/kun.",
+      "depth": 0
+     },
+     {
+      "text": "73-3-rasm (kuniga ~3000 Kal iste'mol qiluvchi 70 kg odam): tinch holat energiya sarfi ~60%, jismoniy faollik termogenezi (mashq va mashqsiz) ~32%, ovqatning termik ta'siri ~8%.",
+      "depth": 0
+     },
+     {
+      "text": "Kundalik jismoniy faollik odatda umumiy sarfning ~25% i, lekin juda farq qiladi. Zinapoyaga chiqish uxlashdan ~17 baravar ko'p energiya talab qiladi. Og'ir mehnatda 24 soatda 6000–7000 Kal gacha (faoliyatsiz holatdan 3,5 baravar).",
+      "depth": 0
+     }
+    ],
+    "bid": "ch73-u17"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Bazal metabolizm tezligi (BMR)",
+    "id": "ch73-s-18-bazal-metabolizm-tezligi-bmr",
+    "bid": "ch73-u18"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Yashash uchun zarur minimal energiya; ko'pchilik kam harakatli odamlarda kunlik sarfning 50–70%.",
+      "depth": 0
+     },
+     {
+      "text": "O'lchash shartlari: (1) kamida 12 soat ovqat yemagan; (2) tinch tungi uyqudan keyin; (3) 1 soat davomida og'ir faollik yo'q; (4) barcha ruhiy va jismoniy qo'zg'atuvchilar bartaraf etilgan; (5) havo harorati qulay, 20–27°C (68–80°F); (6) test paytida harakat yo'q. Kislorod sarfi o'lchanadi.",
+      "depth": 0
+     },
+     {
+      "text": "O'rtacha 70 kg erkakda ~65–70 Kal/soat. Ko'p qismini MNS, yurak, buyrak va boshqa a'zolar sarflaydi, lekin odamlar orasidagi farq asosan skelet mushagi miqdori va tana o'lchamiga bog'liq: tinch holatda ham skelet mushagi BMR ning 20–30% i. Shuning uchun BMR Kal/soat/m² tana yuzasi (bo'y va vazndan hisoblanadi) bilan ifodalanadi.",
+      "depth": 0
+     },
+     {
+      "text": "Yosh bilan BMR kamayadi (73-4-rasm) — asosan mushak yo'qolishi va metabolizmi past yog' to'qimasi bilan almashinishi. Ayollarda biroz past — qisman mushak foizi kamroq, yog' ko'proq.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch73-u19"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "BMR ga ta'sir qiluvchi omillar",
+    "id": "ch73-s-20-bmr-ga-tasir-qiluvchi-omillar",
+    "bid": "ch73-u20"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Qalqonsimon bez gormoni:** maksimal tiroksin sekretsiyasida metabolizm normadan 50–100% oshadi; to'liq yo'qolsa normaning 40–60% iga tushadi (77-bob). Sovuq iqlimda sekretsiya oshadi, issiqda kamayadi — arktika aholisida BMR tropiklardagidan 10–20% yuqori.",
+      "depth": 0
+     },
+     {
+      "text": "**Testosteron:** metabolizmni ~10–15% oshiradi, asosan skelet mushagi massasini oshiruvchi anabolik ta'siri orqali. Ayol jinsiy gormonlari ozgina, odatda ahamiyatsiz.",
+      "depth": 0
+     },
+     {
+      "text": "**O'sish gormoni:** hujayra metabolizmini qo'zg'atib va mushak massasini oshirib; yetishmovchiligi bor kattalarda rekombinant gormon BMR ni ~20% oshiradi.",
+      "depth": 0
+     },
+     {
+      "text": "**Isitma:** sababidan qat'i nazar har 10°C ga reaksiyalarni o'rtacha ~120% oshiradi (74-bob).",
+      "depth": 0
+     },
+     {
+      "text": "**Uyqu:** metabolizm 10–15% kamayadi — mushak tonusi va MNS faolligi pasayishi.",
+      "depth": 0
+     },
+     {
+      "text": "**Ovqat yetishmasligi:** uzoq davom etsa 20–30% kamaytiradi. Ko'p kasalliklarning oxirgi bosqichida inanitsiya metabolizmni shunchalik kamaytiradiki, o'lim oldidan harorat bir necha daraja tushishi mumkin.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch73-u21"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Jismoniy faollik uchun energiya",
+    "id": "ch73-s-22-jismoniy-faollik-uchun-energiya",
+    "bid": "ch73-u22"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Metabolizmni eng keskin oshiruvchi omil — og'ir mashq. Bitta mushak maksimal qisqarishning qisqa davrida tinch holatdan 100 baravar ko'p issiqlik chiqarishi mumkin; butun tana bir necha soniya ~50 baravar, yaxshi mashq qilgan odamda uzoqroq mashqda ~20 baravar.",
+      "depth": 0
+     },
+     {
+      "text": "**73-1-jadval (70 kg, Kal/soat):** uxlash 65; uyg'oq yotish 77; tinch o'tirish 100; bo'shashib turish 105; kiyinish-yechinish 118; tez yozish (mashinkada) 140; sekin yurish (4,2 km/soat) 200; duradgorlik, metall ishlov, sanoat bo'yoqchiligi 240; yog'och arralash 480; suzish 500; yugurish (8,5 km/soat) 570; zinapoyadan tez chiqish 1100.",
+      "depth": 0
+     },
+     {
+      "text": "Bu komponent kaloriya ehtiyojidagi farqlarning eng muhim sababi. Ovqat ko'p, faollik past sanoatlashgan mamlakatlarda kirim ko'pincha sarfdan oshib, yog' sifatida saqlanadi — semizlikning oldini olish uchun faollik muhim.",
+      "depth": 0
+     },
+     {
+      "text": "Kam harakatli odamlarda ham mushak tonusi, tana holatini saqlash va boshqa mashqsiz faoliyat (o'z-o'zidan harakatlar) kunlik sarfning ~7% i; kasb, odatlar (piyoda yurish, lift o'rniga zina, qimirlab turish) va bo'sh vaqtga qarab juda farq qiladi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch73-u23"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Ovqatning termogen ta'siri",
+    "id": "ch73-s-24-ovqatning-termogen-tasiri",
+    "bid": "ch73-u24"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Ovqatdan keyin hazm, so'rilish va saqlash reaksiyalari metabolizmni oshiradi. Uglevod yoki yog'ga boy ovqatdan keyin ~4%; oqsilga boy ovqatdan keyin 1 soat ichida ko'tarila boshlab, ~30% gacha oshadi va 3–12 soat davom etadi — **oqsilning o'ziga xos dinamik ta'siri**. Umumiy kunlik sarfning ~8% i.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch73-u25"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Titramasdan termogenez — simpatik qo'zg'alish roli",
+    "id": "ch73-s-26-titramasdan-termogenez-simpatik-qozgalish-roli",
+    "bid": "ch73-u26"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Jismoniy ish va ovqatning termik ta'siri asosan harorat boshqaruviga qaratilmagan. Titrash — sovuqqa javoban boshqariladigan issiqlik hosil qilish (74-bob).",
+      "depth": 0
+     },
+     {
+      "text": "**Titramasdan termogenez:** simpatik tizim noradrenalin va adrenalin ajratib, metabolik faollik va issiqlikni oshiradi.",
+      "depth": 0
+     },
+     {
+      "text": "**Qo'ng'ir yog'**: ko'p mitoxondriya va bitta katta tomchi o'rniga ko'p mayda yog' tomchilari. Oksidlovchi fosforlanish asosan \"ajratilgan\" (uncoupled): simpatik qo'zg'alishda mitoxondriyalar ko'p issiqlik, deyarli ATF siz hosil qiladi.",
+      "depth": 0
+     },
+     {
+      "text": "Chaqaloqda qo'ng'ir yog' ko'p; maksimal simpatik qo'zg'alish metabolizmni 100% dan ko'p oshiradi. Kattalarda (qo'ng'ir yog' deyarli yo'q) ehtimol <15%, sovuqqa moslashgandan keyin sezilarli oshishi mumkin.",
+      "depth": 0
+     },
+     {
+      "text": "Semizlikka qarshi bufer bo'lishi mumkin: doimiy ortiqcha kaloriya iste'mol qiluvchi semiz odamlarda simpatik faollik oshgan; mexanizm noaniq, qisman leptin oshishi gipotalamusdagi POMC neyronlarini faollashtirishi orqali. Simpatik qo'zg'alish termogenezni oshirib, ortiqcha vazn yig'ilishini cheklaydi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch73-u27"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Klinik nuqtalar",
+    "id": "ch73-s-28-klinik-nuqtalar",
+    "bid": "ch73-u28"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Gipoksiyada hayot zaxirasi: ~2 daqiqa saqlangan O2 + ~1 daqiqa glikoliz.",
+      "depth": 0
+     },
+     {
+      "text": "Gipertireoz va gipotireozda BMR o'zgarishi; isitmada metabolizm oshishi; ochlik va terminal holatlarda metabolizm va harorat pasayishi.",
+      "depth": 0
+     },
+     {
+      "text": "Diabetda tashuvchilar to'yinishi (Mikaelis-Menten misoli).",
+      "depth": 0
+     },
+     {
+      "text": "Qo'ng'ir yog' va simpatik termogenez — chaqaloqlarda issiqlik, kattalarda semizlikka qarshi bufer.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch73-u29"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Bog'liqlik",
+    "id": "ch73-s-30-bogliqlik",
+    "bid": "ch73-u30"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "2–3-boblar (ATF, oqsil sintezi), 4, 28, 66-boblar (faol transport), 6-bob (mushak qisqarishi), 68–70-boblar (almashinuvlar), 72-bob (energiya muvozanati, semizlik), 74-bob (harorat, titrash, isitma), 77-bob (tiroksin), 85-bob (sport fiziologiyasi, kislorod qarzi).",
+      "depth": 0
+     }
+    ],
+    "bid": "ch73-u31"
+   }
+  ],
+  "full": [
+   {
+    "type": "paragraph",
+    "text": "Carbohydrates, fats, and proteins can all be used by cells to synthesize large quantities of adenosine triphosphate (ATP), which is used as an energy source for almost all other cellular functions. For this reason, ATP has been called an energy “currency” in cell metabolism. Indeed, the transfer of energy from foodstuffs to most functional systems of the cells can be performed only through this medium of ATP (or the similar nucleotide guanosine triphosphate [GTP]). Many of the attributes of ATP are presented in Chapter 2.",
+    "pdfPage": 847,
+    "boxed": true,
+    "bid": "ch73-f0"
+   },
+   {
+    "type": "paragraph",
+    "text": "An attribute of ATP that makes it highly valuable as an energy currency is the large quantity of free energy (≈7300 calories—or 7.3 Calories [kilocalories]—per mole under standard conditions, but as much as 12,000 calo ries under physiological conditions) vested in each of its two high-energy phosphate bonds. The amount of energy in each bond, when liberated by decomposition of ATP, is enough to cause almost any step of any chemical reaction in the body to take place if appropriate energy transfer is achieved. Some chemical reactions that require ATP ener gy use only a few hundred of the available 12,000 calories, and the remainder of this energy is lost in the form of heat.",
+    "pdfPage": 847,
+    "boxed": true,
+    "bid": "ch73-f1"
+   },
+   {
+    "type": "paragraph",
+    "text": "In previous chapters, we discussed the transfer of energy from various foods to ATP. To summa rize, ATP is produced through the following processes: 1. \u0007_Combustion of carbohydrates_—mainly glucose, but also smaller amounts of other sugars such as fructose; this combustion occurs in the cell cytoplasm through the anaerobic process of _glycolysis_ and in the cell mito chondria through the aerobic _citric acid (Krebs) cycle._ 2. \u0007_Combustion of fatty acids_ in the cell mitochondria by _beta-oxidation._ 3. \u0007_Combustion of proteins_, which requires hydrolysis to their component amino acids and degradation of the amino acids to intermediate compounds of the citric acid cycle and then to acetyl coenzyme A and carbon dioxide. ATP Energizes the Synthesis of Cellular Components. Among the most important intracellular processes that require ATP energy is the formation of peptide linkages between amino acids during synthesis of proteins. The different peptide linkages, depending on which types of amino acids are linked, require from 500 to 5000 calories of energy per mole. Recall from Chapter 3 that four highenergy phosphate bonds are expended during the cascade of reactions required to form each peptide linkage. This expenditure provides a total of 48,000 calories of energy, far more than the 500 to 5000 calories eventually stored in each of the peptide linkages.",
+    "pdfPage": 847,
+    "lead": "ATP Is Generated by Combustion of Carbohydrates, Fats, and Proteins.",
+    "boxed": true,
+    "bid": "ch73-f2"
+   },
+   {
+    "type": "paragraph",
+    "text": "ATP energy is also used for synthesizing glucose from lactic acid and for synthesizing fatty acids from acetyl co enzyme A. In addition, ATP energy is used for the synthe sis of cholesterol, phospholipids, the hormones, and almost all other substances of the body. Even the urea excreted by the kidneys requires ATP for its formation from ammonia. One might wonder why energy is expended to form urea, which is simply discarded by the body. However, remem bering the extreme toxicity of ammonia in the body fluids, one can see the value of this reaction, which keeps the am monia concentration of the body fluids at a low level.",
+    "pdfPage": 847,
+    "boxed": true,
+    "bid": "ch73-f3"
+   },
+   {
+    "type": "paragraph",
+    "text": "Muscle contraction will not occur without energy from ATP. Myosin, one of the important contractile proteins of the muscle fiber, acts as an enzyme to cause breakdown of ATP into adenosine diphosphate (ADP), thus releasing the energy required to cause contraction. Only a small amount of ATP is normally degraded in muscles when muscle contraction is not occur ring, but this rate of ATP usage can rise to at least 150 times the resting level during short bursts of maximal contrac tion. The mechanism by which ATP energy is used to cause muscle contraction is discussed in Chapter 6.",
+    "pdfPage": 847,
+    "lead": "ATP Energizes Muscle Contraction.",
+    "boxed": true,
+    "bid": "ch73-f4"
+   },
+   {
+    "type": "paragraph",
+    "text": "In Chapters 4, 28, and 66, active transport of electrolytes and various nutrients across cell membranes and from the re nal tubules and gastrointestinal tract into the blood is dis cussed. We noted that active transport of most electrolytes and substances such as glucose, amino acids, and acetoac etate can occur against an electrochemical gradient, even though the natural diffusion of the substances would be in the opposite direction. Energy provided by ATP is required to oppose the electrochemical gradient.",
+    "pdfPage": 847,
+    "lead": "ATP Energizes Active Transport Across Membranes.",
+    "boxed": true,
+    "bid": "ch73-f5"
+   },
+   {
+    "type": "paragraph",
+    "text": "The same princi ples apply to glandular secretion as to the absorption of substances against concentration gradients because energy is required to concentrate substances as they are secreted by the glandular cells. In addition, energy is required to synthesize the organic compounds to be secreted.",
+    "pdfPage": 847,
+    "lead": "ATP Energizes Glandular Secretion.",
+    "boxed": true,
+    "bid": "ch73-f6"
+   },
+   {
+    "type": "paragraph",
+    "text": "The energy used during propagation of nerve impulses is derived from the potential energy stored in the form of concentration dif ferences of ions across the neuronal cell membranes. That is, a high concentration of potassium inside the neuron and a low concentration outside the neuron constitute a type of energy storage. Likewise, a high concentration of sodium on the outside of the membrane and a low con centration on the inside represent another store of energy. The energy needed to pass each action potential along the fiber membrane is derived from this energy storage, with small amounts of potassium transferring out of the cell and sodium into the cell during each of the action potentials. However, active transport systems energized by ATP then retransport the ions back through the membrane to their former positions.",
+    "pdfPage": 847,
+    "lead": "ATP Energizes Nerve Conduction.",
+    "boxed": true,
+    "pdfPageEnd": 848,
+    "bid": "ch73-f7"
+   },
+   {
+    "type": "paragraph",
+    "text": "Despite the paramount importance of ATP as a coupling agent for energy transfer, this substance is not the most abundant store of high-energy phosphate bonds in the cells. _Phosphocreatine_, which also contains high-energy phosphate bonds, is three to eight times more abundant than ATP. Also, the high-energy bond (∼) of phosphocreatine contains about 8500 calories per mole under standard conditions and as many as 13,000 calories per mole under conditions in the body (37°C and low concentrations of the reactants). This amount is slightly greater than the 12,000 calories per mole in each of the two high-energy phosphate bonds of ATP. The formula for creatinine phosphate is the following:",
+    "pdfPage": 848,
+    "boxed": true,
+    "bid": "ch73-f8"
+   },
+   {
+    "type": "paragraph",
+    "text": "Unlike ATP, phosphocreatine cannot act as a direct coupling agent for energy transfer between the foods and the functional cellular systems, but it can transfer energy interchangeably with ATP. When extra amounts of ATP are available in the cell, much of its energy is used to syn thesize phosphocreatine, thus building up this storehouse of energy. Then, when the ATP begins to be used up, the energy in the phosphocreatine is transferred rapidly back to ATP and then to the functional systems of the cells. This reversible interrelation between ATP and phosphocreatine is demonstrated by the following equation:",
+    "pdfPage": 848,
+    "boxed": true,
+    "bid": "ch73-f9"
+   },
+   {
+    "type": "paragraph",
+    "text": "The higher energy level of the high-energy phosphate bond in phosphocreatine (1000–1500 calories per mole greater than that in ATP) causes the reaction between phosphocreatine and ADP to proceed rapidly toward the formation of new ATP whenever the slightest amount of ATP expends its energy elsewhere. Therefore, the slightest usage of ATP by the cells calls forth the energy from the phosphocreatine to synthesize new ATP. This effect keeps the concentration of ATP at an almost constant high level as long as any phosphocreatine remains. For this reason, we can call the ATP-phosphocreatine system an ATP “buffer” system. One can readily understand the importance of keeping the concentration of ATP nearly constant because the rates of almost all the metabolic reactions in the body depend on this constancy.",
+    "pdfPage": 848,
+    "boxed": true,
+    "bid": "ch73-f10"
+   },
+   {
+    "type": "paragraph",
+    "text": "_Anaerobic energy_ means energy that can be derived from foods without the simultaneous utilization of oxygen; _aero bic energy_ means energy that can be derived from foods only by oxidative metabolism. In Chapters 68 through 70, we noted that carbohydrates, fats, and proteins can all be oxidized to cause synthesis of ATP. However, _carbohydrates are the only significant foods that can be used to provide energy without utilization of oxygen_; this energy release oc curs during glycolytic breakdown of glucose or glycogen to pyruvic acid. For each mole of glucose that is split into pyruvic acid, 2 moles of ATP are formed. However, when stored glycogen in a cell is split to pyruvic acid, each mole of glucose in the glycogen gives rise to 3 moles of ATP. The reason for this difference is that free glucose entering the cell must be phosphorylated by using 1 mole of ATP before it can begin to be split; this is not true of glucose derived from glycogen because it comes from the glycogen already in the phosphorylated state, without the additional expend iture of ATP. _Thus, the best source of energy under anaerobic conditions is the stored glycogen of the cells_.",
+    "pdfPage": 848,
+    "boxed": true,
+    "bid": "ch73-f11"
+   },
+   {
+    "type": "paragraph",
+    "text": "One of the prime examples of anaerobic energy utilization occurs in acute hypoxia. When a person stops breathing, a small amount of oxygen is already stored in the lungs and an ad ditional amount is stored in the hemoglobin of the blood. This oxygen is sufficient to keep the metabolic processes functioning for only about 2 minutes. Continued life be yond this time requires an additional source of energy. This energy can be derived for another minute or so from glyco lysis—that is, the glycogen of the cells splitting into pyruvic acid, and the pyruvic acid becoming lactic acid, which dif fuses out of the cells, as described in Chapter 68.",
+    "pdfPage": 848,
+    "lead": "Anaerobic Energy Utilization During Hypoxia.",
+    "boxed": true,
+    "bid": "ch73-f12"
+   },
+   {
+    "type": "paragraph",
+    "text": "Skeletal muscles can perform extreme feats of strength for a few seconds but are much less capable during prolonged activ ity. Most of the extra energy required during these bursts of activity cannot come from the oxidative processes because they are too slow to respond. Instead, the extra energy comes from anaerobic sources: (1) ATP already present in the muscle cells, (2) phosphocreatine in the cells, and (3) anaerobic energy released by glycolytic breakdown of gly cogen to lactic acid.",
+    "pdfPage": 848,
+    "lead": "Anaerobic Energy Utilization During Strenuous Bursts of Activity Is Derived Mainly From Glycolysis.",
+    "boxed": true,
+    "bid": "ch73-f13"
+   },
+   {
+    "type": "paragraph",
+    "text": "The maximum amount of ATP in muscle is only about 5 mmol/L of intracellular fluid, and this amount can maintain maximum muscle contraction for no more than a second or so. The amount of phosphocreatine in the cells is three to eight times this amount, but even by using all the phos phocreatine, maximum contraction can be maintained for only 5 to 10 seconds.",
+    "pdfPage": 848,
+    "boxed": true,
+    "bid": "ch73-f14"
+   },
+   {
+    "type": "paragraph",
+    "text": "Release of energy by glycolysis can occur much more rapidly than can oxidative release of energy. Consequently, most of the extra energy required during strenuous activity that lasts for more than 5 to 10 seconds but less than 1 to 2 minutes is derived from anaerobic glycolysis. As a result, the glycogen content of muscles during strenuous bouts of exercise is reduced, whereas the lactic acid concentration of the blood rises. After the exercise is over, oxidative metabo lism is used to reconvert about four fifths of the lactic acid into glucose; the remainder becomes pyruvic acid and is de graded and oxidized in the citric acid cycle. The reconver sion to glucose occurs principally in the liver cells, and the glucose is then transported in the blood back to the mus cles, where it is stored once more in the form of glycogen.",
+    "pdfPage": 848,
+    "boxed": true,
+    "pdfPageEnd": 849,
+    "bid": "ch73-f15"
+   },
+   {
+    "type": "paragraph",
+    "text": "After a period of strenuous exercise, a person continues to breathe hard and to consume large amounts of oxygen for at least a few minutes and sometimes for as long as 1 hour thereafter. This addi tional oxygen is used to (1) reconvert the lactic acid that has accumulated during exercise back into glucose, (2) reconvert adenosine monophosphate and ADP to ATP, (3) reconvert creatine and phosphate to phosphocreatine, (4) re-establish normal concentrations of oxygen bound with hemoglobin and myoglobin, and (5) raise the concentration of oxygen in the lungs to its normal level. This extra consumption of oxy gen after exercise is called _repaying the oxygen debt_.",
+    "pdfPage": 849,
+    "lead": "Extra Consumption of Oxygen Repays the Oxygen Debt After Completion of Strenuous Exercise.",
+    "boxed": true,
+    "bid": "ch73-f16"
+   },
+   {
+    "type": "paragraph",
+    "text": "The principle of oxygen debt is discussed further in Chapter 85 in relation to sports physiology. The ability of a person to build up an oxygen debt is especially important in many types of athletics.",
+    "pdfPage": 849,
+    "boxed": true,
+    "bid": "ch73-f17"
+   },
+   {
+    "type": "paragraph",
+    "text": "With the background of the past few chapters and of the pre ceding discussion, we can now synthesize a composite picture of overall energy utilization by the cells, as shown in **Figure 73-1**. This figure demonstrates the anaerobic utilization of glycogen and glucose to form ATP and the aerobic utilization of com pounds derived from carbohydrates, fats, proteins, and other substances to form additional ATP. In turn, ATP is in reversible equilibrium with phosphocreatine in the cells, and because larg er quantities of phosphocreatine than of ATP are present in the cells, much of the cells’ stored energy is in this energy storehouse.",
+    "pdfPage": 849,
+    "boxed": true,
+    "bid": "ch73-f18"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-73-01",
+    "bid": "ch73-f19"
+   },
+   {
+    "type": "paragraph",
+    "text": "Energy from ATP can be used by the different function ing systems of the cells to provide for synthesis and growth, muscle contraction, glandular secretion, nerve impulse conduction, active absorption, and other cellular activi ties. If greater amounts of energy are demanded for cellular activities than can be provided by oxidative metabolism, the phosphocreatine storehouse is used first, followed rap idly by anaerobic breakdown of glycogen. Thus, oxidative metabolism cannot deliver bursts of extreme energy to the cells nearly as rapidly as the anaerobic processes can, but at slower rates of usage, the oxidative processes can continue as long as energy stores (mainly fat) exist.",
+    "pdfPage": 849,
+    "boxed": true,
+    "bid": "ch73-f20"
+   },
+   {
+    "type": "paragraph",
+    "text": "Before dis cussing the control of energy release in the cell, it is necessary to consider the basic principles of _rate control_ of enzymati cally catalyzed chemical reactions, which are the types of re actions that occur almost universally throughout the body.",
+    "pdfPage": 849,
+    "lead": "Rate Control of Enzyme-Catalyzed Reactions.",
+    "boxed": true,
+    "bid": "ch73-f21"
+   },
+   {
+    "type": "paragraph",
+    "text": "The mechanism by which an enzyme catalyzes a chemical reaction is, first, for the enzyme to combine loosely with one of the substrates of the reaction. This loose combination alters the bonding forces on the substrate sufficiently so that it can react with other substances. Therefore, the rate of the overall chemi cal reaction is determined by the concentration of the enzyme and the concentration of the substrate that binds with the en zyme. The basic equation expressing this concept is as follows:",
+    "pdfPage": 849,
+    "boxed": true,
+    "bid": "ch73-f22"
+   },
+   {
+    "type": "paragraph",
+    "text": "This equation is called the _Michaelis-Menten equation_. **Figure 73-2** shows the application of this equation.",
+    "pdfPage": 849,
+    "boxed": true,
+    "bid": "ch73-f23"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-73-02",
+    "bid": "ch73-f24"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 73-2** shows that _when the substrate concentration is high_, as shown in the right half of the figure, the rate of a chemical reaction is determined almost entirely by the concentration of the enzyme. Thus, as the enzyme concentration increases from an arbitrary value of 1 up to 2, 4, or 8, the rate of the reaction increases proportionately, as demonstrated by the rising levels of the curves. For exam ple, when large quantities of glucose enter the renal tubules in a person with diabetes mellitus—that is, the substrate glucose is in great excess in the tubules—further increases in tubular glucose have little effect on glucose reabsorption, because the transport enzymes are saturated. Under these conditions, the rate of reabsorption of the glucose is limited by the concentration of the transport enzymes in the proxi mal tubular cells, not by the concentration of the glucose.",
+    "pdfPage": 849,
+    "lead": "Role of Enzyme Concentration in Regulation of Metabolic Reactions.",
+    "boxed": true,
+    "bid": "ch73-f25"
+   },
+   {
+    "type": "paragraph",
+    "text": "Note also in **Figure 73-2** that when the substrate concentration becomes low enough that only a small portion of the enzyme is required in the reaction, the rate of the reaction becomes directly proportional to the substrate concentration, as well as the enzyme concen tration. This is the relationship seen in the absorption of substances from the intestinal tract and renal tubules when their concentrations are low.",
+    "pdfPage": 850,
+    "lead": "Role of Substrate Concentration in Regulation of Metabolic Reactions.",
+    "boxed": true,
+    "bid": "ch73-f26"
+   },
+   {
+    "type": "paragraph",
+    "text": "Almost all chemical reactions of the body occur in series, with the product of one reaction acting as a substrate for the next reaction, and so on. Therefore, the overall rate of a complex series of chemical reactions is determined mainly by the rate of reaction of the slowest step in the series, which is called the _rate-limiting step_ in the entire series.",
+    "pdfPage": 850,
+    "lead": "Rate Limitation in a Series of Reactions.",
+    "boxed": true,
+    "bid": "ch73-f27"
+   },
+   {
+    "type": "paragraph",
+    "text": "Under _resting_ conditions, the concentration of ADP in the cells is extremely slight, and thus the chemical reactions that depend on ADP as one of the substrates are quite slow. They include all the oxidative metabolic path ways that release energy from food, as well as essentially all other pathways for the release of energy in the body. Thus, _ADP is a major rate-limiting factor_ for almost all energy metabolism of the body.",
+    "pdfPage": 850,
+    "lead": "ADP Concentration as a Rate-Controlling Factor in Energy Release.",
+    "boxed": true,
+    "bid": "ch73-f28"
+   },
+   {
+    "type": "paragraph",
+    "text": "When the cells become active, regardless of the type of activity, ATP is converted into ADP, increasing the concen tration of ADP in direct proportion to the degree of activity of the cell. This ADP then automatically increases the rates of all the reactions for the metabolic release of energy from food. Thus, by this simple process, the amount of energy released in the cell is controlled by the degree of activity of the cell. In the absence of cellular activity, the release of energy stops because all the ADP soon becomes ATP.",
+    "pdfPage": 850,
+    "boxed": true,
+    "bid": "ch73-f29"
+   },
+   {
+    "type": "paragraph",
+    "text": "The _metabolism_ of the body simply means all the chemical reactions in all the cells of the body, and the _metabolic rate_ is normally expressed in terms of the rate of heat liberation during chemical reactions.",
+    "pdfPage": 850,
+    "boxed": true,
+    "bid": "ch73-f30"
+   },
+   {
+    "type": "paragraph",
+    "text": "In discussing many of the metabolic reactions in the preceding chapters, we noted that not all the energy in foods is transferred to ATP; instead, a large portion of this energy becomes heat. On average, 35% of the energy in foods becomes heat during ATP formation. Additional energy becomes heat as it is transferred from ATP to the functional systems of the cells, so even under optimal conditions, no more than 27% of all the energy from food is finally used by the functional systems.",
+    "pdfPage": 850,
+    "lead": "Heat Is the End Product of Almost All the Energy Released in the Body.",
+    "boxed": true,
+    "bid": "ch73-f31"
+   },
+   {
+    "type": "paragraph",
+    "text": "Even when 27% of the energy reaches the functional sys tems of the cells, most of this energy eventually becomes heat. For example, when proteins are synthesized, large portions of ATP are used to form the peptide linkages, and this action stores energy in these linkages. However, con tinuous turnover of proteins also occurs—some are being degraded while others are being formed. When proteins are degraded, the energy stored in the peptide linkages is released in the form of heat into the body.",
+    "pdfPage": 850,
+    "boxed": true,
+    "bid": "ch73-f32"
+   },
+   {
+    "type": "paragraph",
+    "text": "Another example is the energy used for muscle activity. Much of this energy simply overcomes the viscosity of the muscles or of the tissues so that the limbs can move. This viscous movement causes friction within the tissues, which generates heat.",
+    "pdfPage": 850,
+    "boxed": true,
+    "bid": "ch73-f33"
+   },
+   {
+    "type": "paragraph",
+    "text": "Consider also the energy expended by the heart in pumping blood. The blood distends the arterial system, and this distention represents a reservoir of potential energy. As the blood flows through peripheral vessels, the friction of different layers of blood flowing over one another and the friction of blood against the walls of the vessels turn all this energy into heat.",
+    "pdfPage": 850,
+    "boxed": true,
+    "bid": "ch73-f34"
+   },
+   {
+    "type": "paragraph",
+    "text": "Essentially all the energy expended by the body is even tually converted into heat. The only significant exception occurs when the muscles are used to perform some form of work outside the body. For example, when the muscles elevate an object to a height or propel the body up steps, a type of potential energy is created by raising a mass against gravity. However, when external expenditure of energy is not taking place, all the energy released by the metabolic processes eventually becomes body heat.",
+    "pdfPage": 850,
+    "boxed": true,
+    "bid": "ch73-f35"
+   },
+   {
+    "type": "paragraph",
+    "text": "To discuss the metabolic rate of the body and related subjects quantitatively, it is necessary to use some unit for expressing the quantity of energy released from different foods or expended by different functional processes of the body. Most often, the _Calorie_ is the unit used for this purpose. Recall that 1 _calorie_—spelled with a small “c” and often called a _gram calorie_—is the quantity of heat required to raise the temperature of 1 gram of wa ter 1°C. The calorie is much too small a unit to use when referring to energy in the body. Consequently, the Calo rie—spelled with a capital “C” and often called a _kilocalorie_, which is equivalent to 1000 calories—is the unit ordinarily used when discussing energy metabolism.",
+    "pdfPage": 850,
+    "lead": "The Calorie.",
+    "boxed": true,
+    "bid": "ch73-f36"
+   },
+   {
+    "type": "paragraph",
+    "text": "If a person is not performing any external work, the whole-body metabolic rate can be determined by simply measuring the total quantity of heat liberated from the body in a given time.",
+    "pdfPage": 850,
+    "lead": "Direct Calorimetry Measures Heat Liberated From the Body.",
+    "boxed": true,
+    "bid": "ch73-f37"
+   },
+   {
+    "type": "paragraph",
+    "text": "In determining the metabolic rate by direct calorimetry, one measures the quantity of heat liberated from the body in a large, specially constructed _calorimeter_. The subject is placed in an air chamber that is so well insulated that no heat can leak through the walls of the chamber. Heat formed by the subject’s body warms the air of the chamber. However, the air temperature within the chamber is maintained at a constant level by forcing the air through pipes in a cool wa ter bath. The rate of heat gain by the water bath, which can be measured with an accurate thermometer, is equal to the rate at which heat is liberated by the subject’s body.",
+    "pdfPage": 850,
+    "boxed": true,
+    "pdfPageEnd": 851,
+    "bid": "ch73-f38"
+   },
+   {
+    "type": "paragraph",
+    "text": "Direct calorimetry is physically difficult to perform and is used only for research purposes.",
+    "pdfPage": 851,
+    "boxed": true,
+    "bid": "ch73-f39"
+   },
+   {
+    "type": "paragraph",
+    "text": "Because more than 95% of the energy expended in the body is derived from reactions of oxygen with the different foods, the whole-body metabolic rate can also be calculated with a high degree of accuracy from the rate of oxygen utilization. When 1 liter of oxygen is metabolized with glucose, 5.01 Calories of energy are released; when metabolized with starches, 5.06 Calories are released; with fat, 4.70 Calories; and with protein, 4.60 Calories.",
+    "pdfPage": 851,
+    "lead": "Indirect Calorimetry—The “Energy Equivalent” of Oxygen.",
+    "boxed": true,
+    "bid": "ch73-f40"
+   },
+   {
+    "type": "paragraph",
+    "text": "These figures clearly demonstrate that the quantities of energy liberated per liter of oxygen consumed are nearly equivalent when different types of food are metabolized. For the average diet, the _quantity of energy liberated per lit er of oxygen used in the body averages about 4.825 Calories_, which is called the _energy equivalent_ of oxygen. By using this energy equivalent, one can calculate with a high degree of precision the rate of heat liberation in the body from the quantity of oxygen used in a given period.",
+    "pdfPage": 851,
+    "boxed": true,
+    "bid": "ch73-f41"
+   },
+   {
+    "type": "paragraph",
+    "text": "If a person metabolizes only carbohydrates during the period of the metabolic rate determination, the calculated quantity of energy liberated, based on the value for the average energy equivalent of oxygen (4.825 Calories/L), would be about 4% too little. Conversely, if the person ob tains most energy from fat, the calculated value would be about 4% too great.",
+    "pdfPage": 851,
+    "boxed": true,
+    "bid": "ch73-f42"
+   },
+   {
+    "type": "paragraph",
+    "text": "As discussed in Chapter 72, energy intake is balanced with energy output in healthy adults who maintain a stable body weight. In the average American diet, about 45% of daily energy intake is derived from carbohydrates, 40% from fats, and 15% from proteins. Energy output can also be parti tioned into several measurable components, including en ergy used for (1) performing essential metabolic functions of the body (the “basal” metabolic rate); (2) performing various physical activities, including nonexercise physical activity and physical activity associated with volitional ex ercise; (3) digesting, absorbing, and processing food; and (4) maintaining body temperature.",
+    "pdfPage": 851,
+    "boxed": true,
+    "bid": "ch73-f43"
+   },
+   {
+    "type": "paragraph",
+    "text": "An average man who weighs 70 kilograms and lies in bed all day uses about 1650 Calories of energy. The process of eating and digesting food increases the amount of energy used each day by an additional 200 or more Calories, so the same man lying in bed and eating a reasonable diet requires a dietary intake of about 1850 Calories per day. If he sits in a chair all day without exercising, his total energy require ment reaches 2000 to 2250 Calories. Therefore, the daily energy requirement for a very sedentary man performing only essential functions is about 2000 Calories.",
+    "pdfPage": 851,
+    "boxed": true,
+    "bid": "ch73-f44"
+   },
+   {
+    "type": "paragraph",
+    "text": "The amount of energy used to perform daily physical activities is normally about 25% of the total energy ex penditure, but it can vary markedly in different individu als, depending on the type and amount of physical activity performed. For example, walking up stairs requires about 17 times as much energy as lying in bed asleep. In general, over a 24-hour period, a person performing heavy labor can achieve a maximal rate of energy utilization as great as 6000 to 7000 Calories, or as much as 3.5 times the energy used under conditions of no physical activity.",
+    "pdfPage": 851,
+    "boxed": true,
+    "bid": "ch73-f45"
+   },
+   {
+    "type": "paragraph",
+    "text": "Even when a person is at complete rest, considerable en ergy is required to perform all the chemical reactions of the body. This minimum level of energy required to exist is called the _basal metabolic rate_ (BMR) and accounts for about 50% to 70% of the daily energy expenditure in most sedentary persons (**Figure 73-3**).",
+    "pdfPage": 851,
+    "boxed": true,
+    "bid": "ch73-f46"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-73-03",
+    "bid": "ch73-f47"
+   },
+   {
+    "type": "paragraph",
+    "text": "Because the level of physical activity is highly variable among different persons, measurement of the BMR pro vides a useful means of comparing one person’s metabolic rate with that of another. The usual method for determin ing BMR is to measure the rate of oxygen utilization over a given period under the following conditions: 1. \u0007The person must not have eaten food for at least 12 hours. 2. \u0007The BMR is determined after a night of restful sleep. 3. \u0007No strenuous activity is performed for at least 1 hour before the test. 4. \u0007All psychic and physical factors that cause excite ment must be eliminated. 5. \u0007The temperature of the air must be comfortable and between 68°F and 80°F. 6. \u0007No physical activity is permitted during the test. The BMR normally averages about 65 to 70 Calories per hour in an average 70-kilogram man. Although much of the BMR is accounted for by essential activities of the central nervous system, heart, kidneys, and other organs, _varia tions_ in BMR among different persons are related mainly to differences in the amount of skeletal muscle and body size.",
+    "pdfPage": 851,
+    "boxed": true,
+    "bid": "ch73-f48"
+   },
+   {
+    "type": "paragraph",
+    "text": "Skeletal muscle, even under resting conditions, ac counts for 20% to 30% of the BMR. For this reason, BMR is usually corrected for differences in body size by express ing it as Calories per hour per square meter of body sur face area, calculated from height and weight. The average values for males and females of different ages are shown in **Figure 73-4**.",
+    "pdfPage": 851,
+    "boxed": true,
+    "pdfPageEnd": 852,
+    "bid": "ch73-f49"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-73-04",
+    "bid": "ch73-f50"
+   },
+   {
+    "type": "paragraph",
+    "text": "Much of the decline in BMR with increasing age is prob ably related to loss of muscle mass and replacement of mus cle with adipose tissue, which has a lower rate of metabo lism. Likewise, slightly lower BMRs in women, compared with men, are due partly to the lower percentage of muscle mass and higher percentage of adipose tissue in women. However, other factors can influence the BMR, as is dis cussed next.",
+    "pdfPage": 852,
+    "boxed": true,
+    "bid": "ch73-f51"
+   },
+   {
+    "type": "paragraph",
+    "text": "When the thyroid gland secretes maximal amounts of thyroxine, the metabolic rate sometimes rises 50% to 100% above normal. Conversely, total loss of thyroid secretion decreases the metabolic rate to 40% to 60% of normal. As discussed in Chapter 77, thyroxine increases the chemical reaction rates of many cells in the body and therefore increases meta bolic rate. Adaptation of the thyroid gland—with increased secretion in cold climates and decreased secretion in hot climates—contributes to the differences in BMRs among people living in different geographical zones. For example, people living in arctic regions have BMRs that are 10% to 20% higher than those of persons living in tropical regions. Male Sex Hormone Increases Metabolic Rate. The male sex hormone testosterone can increase the metabolic rate about 10% to 15%. The female sex hormones may increase the BMR a small amount, but usually not enough to be sig nificant. Much of this effect of the male sex hormone is re lated to its anabolic effect to increase skeletal muscle mass.",
+    "pdfPage": 852,
+    "lead": "Thyroid Hormone Increases Metabolic Rate.",
+    "boxed": true,
+    "bid": "ch73-f52"
+   },
+   {
+    "type": "paragraph",
+    "text": "Growth hormone can increase the metabolic rate by stimulat ing cellular metabolism and by increasing skeletal muscle mass. In adults with growth hormone deficiency, replace ment therapy with recombinant growth hormone increases the basal metabolic rate by about 20%.",
+    "pdfPage": 852,
+    "lead": "Growth Hormone Increases Metabolic Rate.",
+    "boxed": true,
+    "bid": "ch73-f53"
+   },
+   {
+    "type": "paragraph",
+    "text": "Fever, regardless of its cause, increases the chemical reactions of the body by an average of about 120% for every 10°C rise in temperature. This is discussed in more detail in Chapter 74.",
+    "pdfPage": 852,
+    "lead": "Fever Increases Metabolic Rate.",
+    "boxed": true,
+    "bid": "ch73-f54"
+   },
+   {
+    "type": "paragraph",
+    "text": "The metabolic rate decreases 10% to 15% below normal during sleep. This de crease is due to two principal factors: (1) decreased tone of the skeletal musculature during sleep; and (2) decreased activity of the central nervous system.",
+    "pdfPage": 852,
+    "lead": "Sleep Decreases Metabolic Rate.",
+    "boxed": true,
+    "bid": "ch73-f55"
+   },
+   {
+    "type": "paragraph",
+    "text": "Prolonged mal nutrition can decrease the metabolic rate 20% to 30%, pre sumably because of the paucity of food substances in the cells. In the final stages of many disease conditions, the ina nition that accompanies the disease causes a marked de crease in metabolic rate to the extent that the body tem perature may fall several degrees shortly before death.",
+    "pdfPage": 852,
+    "lead": "Malnutrition Decreases Metabolic Rate.",
+    "boxed": true,
+    "bid": "ch73-f56"
+   },
+   {
+    "type": "paragraph",
+    "text": "The factor that most dramatically increases metabolic rate is strenuous exercise. Short bursts of maximal muscle contraction in a single muscle can liberate as much as 100 times its normal resting amount of heat for a few seconds. For the entire body, maximal muscle exercise can increase the overall heat production of the body for a few seconds to about 50 times normal, or to about 20 times normal for more sustained exercise in a well-trained individual.",
+    "pdfPage": 852,
+    "boxed": true,
+    "bid": "ch73-f57"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Table 73-1** shows the energy expenditure during different types of physical activity for a 70-kilogram man. Because of the great variation in the amount of physical activity among indi viduals, this component of energy expenditure is the most im portant reason for the differences in caloric intake required to maintain energy balance. However, in industrialized countries where food supplies are generally plentiful and the level of phys ical activity is often low, caloric intake often periodically exceeds energy expenditure, and the excess energy is stored mainly as fat. This underscores the importance of maintaining a proper level of physical activity to prevent excess fat stores and obesity.",
+    "pdfPage": 852,
+    "boxed": true,
+    "bid": "ch73-f58"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-tab-73-01",
+    "bid": "ch73-f59"
+   },
+   {
+    "type": "paragraph",
+    "text": "Even in sedentary individuals who perform little or no daily exercise or physical work, significant energy is spent on spon taneous physical activity required to maintain muscle tone and body posture and on other nonexercise activities. Together, these nonexercise activities typically account for about 7% of a sedentary person’s daily energy usage. However, this percent age can vary markedly among different people depending on their occupation, habits (e.g. walking to work, using the stairs rather than elevators, fidgeting), and leisure time activities.",
+    "pdfPage": 852,
+    "boxed": true,
+    "bid": "ch73-f60"
+   },
+   {
+    "type": "paragraph",
+    "text": "After a meal is ingested, the metabolic rate increases as a result of the different chemical reactions associated with digestion, absorption, and storage of food in the body. This increase is called the _thermogenic effect of food_ because these processes require energy and generate heat.",
+    "pdfPage": 852,
+    "boxed": true,
+    "bid": "ch73-f61"
+   },
+   {
+    "type": "paragraph",
+    "text": "After a meal that contains a large quantity of carbohy drates or fats, the metabolic rate usually increases about 4%. However, after a meal high in protein, the metabolic rate usually begins rising within an hour, reaching a maxi mum of about 30% above normal, and this rate lasts for 3 to 12 hours. This effect of protein on the metabolic rate is called the _specific dynamic action of protein_. The thermo genic effect of food accounts for about 8% of the total daily energy expenditure in many persons.",
+    "pdfPage": 852,
+    "boxed": true,
+    "bid": "ch73-f62"
+   },
+   {
+    "type": "paragraph",
+    "text": "Although physical work and the thermogenic effect of food cause liberation of heat, these mechanisms are not aimed primarily at regulation of body temperature. Shivering provides a regulated means of producing heat by increas ing muscle activity in response to cold stress, as discussed in Chapter 74. Another mechanism, _nonshivering thermo genesis_, can also produce heat in response to cold stress. This type of thermogenesis is stimulated by sympathetic nervous system activation, which releases norepinephrine and epinephrine, which in turn increase metabolic activity and heat generation.",
+    "pdfPage": 852,
+    "boxed": true,
+    "pdfPageEnd": 853,
+    "bid": "ch73-f63"
+   },
+   {
+    "type": "paragraph",
+    "text": "In certain types of fat tissue, called _brown fat_, sym pathetic nervous stimulation causes liberation of large amounts of heat. This type of fat contains large numbers of mitochondria and many small globules of fat instead of one large fat globule. In these cells, the process of oxidative phosphorylation in the mitochondria is mainly “uncou pled.” That is, when the cells are stimulated by the sympa thetic nerves, the mitochondria produce a large amount of heat but almost no ATP, so almost all the released oxidative energy immediately becomes heat.",
+    "pdfPage": 853,
+    "boxed": true,
+    "bid": "ch73-f64"
+   },
+   {
+    "type": "paragraph",
+    "text": "A neonate has a considerable amount of brown fat, and maximal sympathetic stimulation can increase the child’s metabolism more than 100%. The magnitude of this type of thermogenesis in an adult human, who has virtually no brown fat, is probably less than 15%, although this might increase significantly after cold adaptation.",
+    "pdfPage": 853,
+    "boxed": true,
+    "bid": "ch73-f65"
+   },
+   {
+    "type": "paragraph",
+    "text": "Nonshivering thermogenesis may also serve as a buffer against obesity. Recent studies indicate that sympathetic nervous system activity is increased in obese persons who have a persistent excess caloric intake. The mechanism re sponsible for sympathetic activation in obese persons is un certain, but it may be mediated partly through the effects of increased leptin, which activates pro-opiomelanocortin neurons in the hypothalamus. Sympathetic stimulation, by increasing thermogenesis, helps to limit excess weight gain.",
+    "pdfPage": 853,
+    "boxed": true,
+    "bid": "ch73-f66"
+   }
+  ]
+ },
+ "glossary": [
+  {
+   "id": "ch73-t-atf-hosil-bolishi",
+   "termUz": "ATF hosil bo'lishi",
+   "original": null,
+   "contextUz": "ATF hosil bo'lishi: (1) uglevodlar (asosan glyukoza, oz fruktoza) — sitoplazmada anaerob glikoliz va mitoxondriyada aerob limon kislota (Krebs) sikli; (2) yog' kislotalari — mitoxondriyada beta-oksidlanish; (3) oqsillar — aminokislotalarga gidroliz, so'ng limon kislota sikli oraliq mahsulotlari, asetil-KoA va CO2 ga.",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-atf-sarflanadigan-jarayonlar",
+   "termUz": "ATF sarflanadigan jarayonlar",
+   "original": null,
+   "contextUz": "ATF sarflanadigan jarayonlar: *Sintez va o'sish:* peptid bog'lari hosil qilish (har bir bog' 500–5000 kal/mol saqlaydi, lekin uni hosil qilish uchun 4 ta yuqori energiyali bog' — 48 000 kal sarflanadi, 3-bob).",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-anaerob",
+   "termUz": "Anaerob",
+   "original": null,
+   "contextUz": "Anaerob — kislorodsiz, aerob — faqat oksidlanish orqali olinadigan energiya.",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-aerob",
+   "termUz": "aerob",
+   "original": null,
+   "contextUz": "Anaerob — kislorodsiz, aerob — faqat oksidlanish orqali olinadigan energiya.",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-gipoksiyada",
+   "termUz": "Gipoksiyada",
+   "original": null,
+   "contextUz": "Gipoksiyada: nafas to'xtasa, o'pka va gemoglobindagi kislorod metabolizmni atigi ~2 daqiqa ta'minlaydi; yana ~1 daqiqa glikogenning piruvat → laktatga glikolizidan energiya olinadi (laktat hujayradan chiqadi, 68-bob).",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-kuchli-qisqa-faollikda",
+   "termUz": "Kuchli qisqa faollikda",
+   "original": null,
+   "contextUz": "Kuchli qisqa faollikda: oksidlanish juda sekin javob beradi, shuning uchun qo'shimcha energiya anaerob manbalardan: (1) mushakdagi tayyor ATF (maksimal ~5 mmol/L hujayra ichi suyuqligi — maksimal qisqarishni ~1 soniya ta'minlaydi); (2) fosfokreatin (3–8 baravar ko'p, lekin hammasi bilan ham maksimal qisqarish 5–10 soniya); (3) glikogenning laktatgacha glikolizi — oksidlanishdan ancha tez.",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-kislorod-qarzi",
+   "termUz": "Kislorod qarzi",
+   "original": null,
+   "contextUz": "Kislorod qarzi: og'ir mashqdan keyin bir necha daqiqadan 1 soatgacha qo'shimcha kislorod sarflanadi: (1) laktatni glyukozaga qaytarish; (2) AMF va ADF ni ATF ga qaytarish; (3) kreatin va fosfatdan fosfokreatinni tiklash; (4) gemoglobin va miogloblin bilan bog'langan kislorodni normallashtirish; (5) o'pkadagi kislorodni normal darajaga ko'tarish.",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-ferment-reaksiyalari-tezligi",
+   "termUz": "Ferment reaksiyalari tezligi",
+   "original": null,
+   "contextUz": "Ferment reaksiyalari tezligi: ferment avval substrat bilan bo'sh birikib, uning bog'lanish kuchlarini o'zgartiradi.",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-mikaelis-menten-tenglamasi",
+   "termUz": "Mikaelis-Menten tenglamasi",
+   "original": null,
+   "contextUz": "Mikaelis-Menten tenglamasi: tezlik = K1 × [Ferment] × [Substrat] / (K2 + [Substrat]) (73-2-rasm).",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-substrat-kop-bolsa",
+   "termUz": "Substrat ko'p bo'lsa",
+   "original": null,
+   "contextUz": "Substrat ko'p bo'lsa tezlik deyarli faqat ferment konsentratsiyasiga bog'liq (ferment 1→2→4→8 oshsa, tezlik mutanosib oshadi).",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-substrat-kam-bolsa",
+   "termUz": "Substrat kam bo'lsa",
+   "original": null,
+   "contextUz": "Substrat kam bo'lsa tezlik substrat va ferment konsentratsiyasiga to'g'ri mutanosib (ichak va kanalchalarda past konsentratsiyali moddalar so'rilishi).",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-ketma-ket-reaksiyalar",
+   "termUz": "Ketma-ket reaksiyalar",
+   "original": null,
+   "contextUz": "Ketma-ket reaksiyalar: umumiy tezlikni eng sekin bosqich — tezlikni cheklovchi bosqich belgilaydi.",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-tezlikni-cheklovchi-bosqich",
+   "termUz": "tezlikni cheklovchi bosqich",
+   "original": null,
+   "contextUz": "Ketma-ket reaksiyalar: umumiy tezlikni eng sekin bosqich — tezlikni cheklovchi bosqich belgilaydi.",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-adf-energiya-ajralishining-asosiy-boshqaruvchisi",
+   "termUz": "ADF — energiya ajralishining asosiy boshqaruvchisi",
+   "original": null,
+   "contextUz": "ADF — energiya ajralishining asosiy boshqaruvchisi: tinch holatda hujayrada ADF juda kam, shuning uchun ADF ni substrat sifatida talab qiladigan barcha oksidlanish va boshqa energiya beruvchi yo'llar sekin.",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-metabolizm",
+   "termUz": "Metabolizm",
+   "original": null,
+   "contextUz": "Metabolizm — barcha hujayralardagi barcha kimyoviy reaksiyalar; metabolizm tezligi odatda issiqlik ajralish tezligi bilan ifodalanadi.",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-metabolizm-tezligi",
+   "termUz": "metabolizm tezligi",
+   "original": null,
+   "contextUz": "Metabolizm — barcha hujayralardagi barcha kimyoviy reaksiyalar; metabolizm tezligi odatda issiqlik ajralish tezligi bilan ifodalanadi.",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-issiqlik-deyarli-barcha-energiyaning-oxirgi-mahsuloti",
+   "termUz": "Issiqlik — deyarli barcha energiyaning oxirgi mahsuloti",
+   "original": null,
+   "contextUz": "Issiqlik — deyarli barcha energiyaning oxirgi mahsuloti: ATF hosil bo'lishida oziq energiyasining o'rtacha 35% i issiqlikka aylanadi; ATF dan funksional tizimlarga o'tishda yana yo'qotiladi, shuning uchun eng yaxshi sharoitda ham oziq energiyasining ko'pi bilan 27% i funksional tizimlarga yetadi.",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-27",
+   "termUz": "27%",
+   "original": null,
+   "contextUz": "Issiqlik — deyarli barcha energiyaning oxirgi mahsuloti: ATF hosil bo'lishida oziq energiyasining o'rtacha 35% i issiqlikka aylanadi; ATF dan funksional tizimlarga o'tishda yana yo'qotiladi, shuning uchun eng yaxshi sharoitda ham oziq energiyasining ko'pi bilan 27% i funksional tizimlarga yetadi.",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-kaloriya",
+   "termUz": "Kaloriya",
+   "original": null,
+   "contextUz": "Kaloriya: 1 kaloriya (kichik \"k\") — 1 g suvni 1°C isitish uchun kerak issiqlik.",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-togridan-togri-kalorimetriya",
+   "termUz": "To'g'ridan-to'g'ri kalorimetriya",
+   "original": null,
+   "contextUz": "To'g'ridan-to'g'ri kalorimetriya: tashqi ish bo'lmasa, tanadan ajralgan issiqlik o'lchanadi.",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-bilvosita-kalorimetriya-kislorodning-energiya-ekvivalenti",
+   "termUz": "Bilvosita kalorimetriya — kislorodning energiya ekvivalenti",
+   "original": null,
+   "contextUz": "Bilvosita kalorimetriya — kislorodning energiya ekvivalenti: tana energiyasining >95% i kislorodning oziq bilan reaksiyasidan.",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-4-825-kal-l",
+   "termUz": "4,825 Kal/L",
+   "original": "kislorodning energiya ekvivalenti",
+   "contextUz": "O'rtacha ratsion uchun ~4,825 Kal/L (kislorodning energiya ekvivalenti).",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-qalqonsimon-bez-gormoni",
+   "termUz": "Qalqonsimon bez gormoni",
+   "original": null,
+   "contextUz": "Qalqonsimon bez gormoni: maksimal tiroksin sekretsiyasida metabolizm normadan 50–100% oshadi; to'liq yo'qolsa normaning 40–60% iga tushadi (77-bob).",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-testosteron",
+   "termUz": "Testosteron",
+   "original": null,
+   "contextUz": "Testosteron: metabolizmni ~10–15% oshiradi, asosan skelet mushagi massasini oshiruvchi anabolik ta'siri orqali.",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-osish-gormoni",
+   "termUz": "O'sish gormoni",
+   "original": null,
+   "contextUz": "O'sish gormoni: hujayra metabolizmini qo'zg'atib va mushak massasini oshirib; yetishmovchiligi bor kattalarda rekombinant gormon BMR ni ~20% oshiradi.",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-isitma",
+   "termUz": "Isitma",
+   "original": null,
+   "contextUz": "Isitma: sababidan qat'i nazar har 10°C ga reaksiyalarni o'rtacha ~120% oshiradi (74-bob).",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-uyqu",
+   "termUz": "Uyqu",
+   "original": null,
+   "contextUz": "Uyqu: metabolizm 10–15% kamayadi — mushak tonusi va MNS faolligi pasayishi.",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-ovqat-yetishmasligi",
+   "termUz": "Ovqat yetishmasligi",
+   "original": null,
+   "contextUz": "Ovqat yetishmasligi: uzoq davom etsa 20–30% kamaytiradi.",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-73-1-jadval-70-kg-kal-soat",
+   "termUz": "73-1-jadval (70 kg, Kal/soat)",
+   "original": null,
+   "contextUz": "73-1-jadval (70 kg, Kal/soat): uxlash 65; uyg'oq yotish 77; tinch o'tirish 100; bo'shashib turish 105; kiyinish-yechinish 118; tez yozish (mashinkada) 140; sekin yurish (4,2 km/soat) 200; duradgorlik, metall ishlov, sanoat bo'yoqchiligi 240; yog'och arralash 480; suzish 500; yugurish (8,5 km/soat) 570; zinapoyadan tez chiqish 1100.",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-oqsilning-oziga-xos-dinamik-tasiri",
+   "termUz": "oqsilning o'ziga xos dinamik ta'siri",
+   "original": null,
+   "contextUz": "Uglevod yoki yog'ga boy ovqatdan keyin ~4%; oqsilga boy ovqatdan keyin 1 soat ichida ko'tarila boshlab, ~30% gacha oshadi va 3–12 soat davom etadi — oqsilning o'ziga xos dinamik ta'siri.",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-titramasdan-termogenez",
+   "termUz": "Titramasdan termogenez",
+   "original": null,
+   "contextUz": "Titramasdan termogenez: simpatik tizim noradrenalin va adrenalin ajratib, metabolik faollik va issiqlikni oshiradi.",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch73-t-qongir-yog",
+   "termUz": "Qo'ng'ir yog'",
+   "original": null,
+   "contextUz": "Qo'ng'ir yog': ko'p mitoxondriya va bitta katta tomchi o'rniga ko'p mayda yog' tomchilari.",
+   "lessonId": "ch73",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  }
+ ],
+ "bookDefinitions": [
+  {
+   "pdfPage": 849,
+   "printedPage": "844",
+   "text": "This extra consumption of oxygen after exercise is called repaying the oxygen debt"
+  },
+  {
+   "pdfPage": 849,
+   "printedPage": "844",
+   "text": "The basic equation expressing this concept is as follows: Rate of reaction = K1 × [Enzyme] × [Substrate] K2 + [Substrate] This equation is called the Michaelis-Menten equation"
+  },
+  {
+   "pdfPage": 850,
+   "printedPage": "845",
+   "text": "Therefore, the overall rate of a complex series of chemical reactions is determined mainly by the rate of reaction of the slowest step in the series, which is called the rate-limiting step in the entire series"
+  },
+  {
+   "pdfPage": 851,
+   "printedPage": "846",
+   "text": "For the average diet, the quantity of energy liberated per liter of oxygen used in the body averages about 4.825 Calories, which is called the energy equivalent of oxygen"
+  },
+  {
+   "pdfPage": 851,
+   "printedPage": "846",
+   "text": "This minimum level of energy required to exist is called the basal metabolic rate (BMR) and accounts for about 50% to 70% of the daily energy expenditure in most sedentary persons (Figure 73-3)"
+  },
+  {
+   "pdfPage": 852,
+   "printedPage": "847",
+   "text": "This increase is called the thermogenic effect of food because these processes require energy and generate heat"
+  },
+  {
+   "pdfPage": 852,
+   "printedPage": "847",
+   "text": "This effect of protein on the metabolic rate is called the specific dynamic action of protein"
+  }
+ ],
+ "keyNumbers": [
+  {
+   "pdfPage": 847,
+   "printedPage": "842",
+   "text": "An attribute of ATP that makes it highly valuable as an energy currency is the large quantity of free energy (≈7300 calories—or 7.3 Calories [kilocalories]—per mole under standard conditions, but as much as 12,000 calories under physiological conditions) vested in each of its two high-energy phosphate bonds"
+  },
+  {
+   "pdfPage": 847,
+   "printedPage": "842",
+   "text": "Some chemical reactions that require ATP energy use only a few hundred of the available 12,000 calories, and the remainder of this energy is lost in the form of heat"
+  },
+  {
+   "pdfPage": 847,
+   "printedPage": "842",
+   "text": "The different peptide linkages, depending on which types of amino acids are linked, require from 500 to 5000 calories of energy per mole"
+  },
+  {
+   "pdfPage": 847,
+   "printedPage": "842",
+   "text": "This expenditure provides a total of 48,000 calories of energy, far more than the 500 to 5000 calories eventually stored in each of the peptide linkages"
+  },
+  {
+   "pdfPage": 847,
+   "printedPage": "842",
+   "text": "Only a small amount of ATP is normally degraded in muscles when muscle contraction is not occurring, but this rate of ATP usage can rise to at least 150 times the resting level during short bursts of maximal contraction"
+  },
+  {
+   "pdfPage": 848,
+   "printedPage": "843",
+   "text": "Phosphocreatine, which also contains high-energy phosphate bonds, is three to eight times more abundant than ATP. Also, the high-energy bond (∼) of phosphocreatine contains about 8500 calories per mole under standard conditions and as many as 13,000 calories per mole under conditions in the body (37°C and low concentrations of the reactants)"
+  },
+  {
+   "pdfPage": 848,
+   "printedPage": "843",
+   "text": "This reversible interrelation between ATP and phosphocreatine is demonstrated by the following equation: Phosphocreatine + ADP ATP + Creatine The higher energy level of the high-energy phosphate bond in phosphocreatine (1000–1500 calories per mole greater than that in ATP) causes the reaction between phosphocreatine and ADP to proceed rapidly toward the formation of new ATP whenever the slightest amount of ATP expends its energy elsewhere"
+  },
+  {
+   "pdfPage": 848,
+   "printedPage": "843",
+   "text": "This oxygen is sufficient to keep the metabolic processes functioning for only about 2 minutes"
+  },
+  {
+   "pdfPage": 848,
+   "printedPage": "843",
+   "text": "The maximum amount of ATP in muscle is only about 5 mmol/L of intracellular fluid, and this amount can maintain maximum muscle contraction for no more than a second or so"
+  },
+  {
+   "pdfPage": 848,
+   "printedPage": "843",
+   "text": "The amount of phosphocreatine in the cells is three to eight times this amount, but even by using all the phosphocreatine, maximum contraction can be maintained for only 5 to 10 seconds"
+  },
+  {
+   "pdfPage": 848,
+   "printedPage": "843",
+   "text": "Consequently, most of the extra energy required during strenuous activity that lasts for more than 5 to 10 seconds but less than 1 to 2 minutes is derived from anaerobic glycolysis"
+  },
+  {
+   "pdfPage": 850,
+   "printedPage": "845",
+   "text": "On average, 35% of 896 the energy in foods becomes heat during ATP formation"
+  },
+  {
+   "pdfPage": 850,
+   "printedPage": "845",
+   "text": "Additional energy becomes heat as it is transferred from ATP to the functional systems of the cells, so even under optimal conditions, no more than 27% of all the energy from food is finally used by the functional systems"
+  },
+  {
+   "pdfPage": 850,
+   "printedPage": "845",
+   "text": "Even when 27% of the energy reaches the functional systems of the cells, most of this energy eventually becomes heat"
+  },
+  {
+   "pdfPage": 850,
+   "printedPage": "845",
+   "text": "Recall that 1 calorie—spelled with a small “c” and often called a gram calorie—is the quantity of heat required to raise the temperature of 1 gram of water 1°C. The calorie is much too small a unit to use when referring to energy in the body"
+  },
+  {
+   "pdfPage": 850,
+   "printedPage": "845",
+   "text": "Consequently, the Calorie—spelled with a capital “C” and often called a kilocalorie, which is equivalent to 1000 calories—is the unit ordinarily used when discussing energy metabolism"
+  },
+  {
+   "pdfPage": 851,
+   "printedPage": "846",
+   "text": "When 1 liter of oxygen is metabolized with glucose, 5.01 Calories of energy are released; when metabolized with starches, 5.06 Calories are released; with fat, 4.70 Calories; and with protein, 4.60 Calories"
+  },
+  {
+   "pdfPage": 851,
+   "printedPage": "846",
+   "text": "For the average diet, the quantity of energy liberated per liter of oxygen used in the body averages about 4.825 Calories, which is called the energy equivalent of oxygen"
+  },
+  {
+   "pdfPage": 851,
+   "printedPage": "846",
+   "text": "If a person metabolizes only carbohydrates during the period of the metabolic rate determination, the calculated quantity of energy liberated, based on the value for the average energy equivalent of oxygen (4.825 Calories/L), would be about 4% too little"
+  },
+  {
+   "pdfPage": 851,
+   "printedPage": "846",
+   "text": "Conversely, if the person obtains most energy from fat, the calculated value would be about 4% too great"
+  },
+  {
+   "pdfPage": 851,
+   "printedPage": "846",
+   "text": "In the average American diet, about 45% of daily energy intake is derived from carbohydrates, 40% from fats, and 15% from proteins"
+  },
+  {
+   "pdfPage": 851,
+   "printedPage": "846",
+   "text": "Overall Energy Requirements for Daily Activities An average man who weighs 70 kilograms and lies in bed all day uses about 1650 Calories of energy"
+  },
+  {
+   "pdfPage": 851,
+   "printedPage": "846",
+   "text": "The process of eating and digesting food increases the amount of energy used each day by an additional 200 or more Calories, so the same man lying in bed and eating a reasonable diet requires a dietary intake of about 1850 Calories per day"
+  },
+  {
+   "pdfPage": 851,
+   "printedPage": "846",
+   "text": "If he sits in a chair all day without exercising, his total energy requirement reaches 2000 to 2250 Calories"
+  },
+  {
+   "pdfPage": 851,
+   "printedPage": "846",
+   "text": "Therefore, the daily energy requirement for a very sedentary man performing only essential functions is about 2000 Calories"
+  },
+  {
+   "pdfPage": 851,
+   "printedPage": "846",
+   "text": "The amount of energy used to perform daily physical activities is normally about 25% of the total energy expenditure, but it can vary markedly in different individuals, depending on the type and amount of physical activity Daily energy expenditure (calories/day) Indirect Calorimetry—The “Energy Equivalent” of Oxygen"
+  },
+  {
+   "pdfPage": 851,
+   "printedPage": "846",
+   "text": "Because more than 95% of the energy expended 3000 2250 Excercise and nonexercise physical activity thermogenesis (32%) UNIT XIII constant level by forcing the air through pipes in a cool water bath"
+  },
+  {
+   "pdfPage": 851,
+   "printedPage": "846",
+   "text": "Thermic effect of food (8%) 1500 750 Arousal Sleeping metabolic rate Resting energy expenditure (60%) 0 Figure 73-3"
+  },
+  {
+   "pdfPage": 851,
+   "printedPage": "846",
+   "text": "Average daily energy expenditure and components of energy usage in a 70-kg person in energy balance and ingesting approximately 3000 Calories per day. performed"
+  },
+  {
+   "pdfPage": 851,
+   "printedPage": "846",
+   "text": "For example, walking up stairs requires about 17 times as much energy as lying in bed asleep"
+  },
+  {
+   "pdfPage": 851,
+   "printedPage": "846",
+   "text": "In general, over a 24-hour period, a person performing heavy labor can achieve a maximal rate of energy utilization as great as 6000 to 7000 Calories, or as much as 3.5 times the energy used under conditions of no physical activity"
+  },
+  {
+   "pdfPage": 851,
+   "printedPage": "846",
+   "text": "This minimum level of energy required to exist is called the basal metabolic rate (BMR) and accounts for about 50% to 70% of the daily energy expenditure in most sedentary persons (Figure 73-3)"
+  },
+  {
+   "pdfPage": 851,
+   "printedPage": "846",
+   "text": "The BMR normally averages about 65 to 70 Calories per hour in an average 70-kilogram man"
+  },
+  {
+   "pdfPage": 851,
+   "printedPage": "846",
+   "text": "Skeletal muscle, even under resting conditions, accounts for 20% to 30% of the BMR. For this reason, BMR is usually corrected for differences in body size by expressing it as Calories per hour per square meter of body surface area, calculated from height and weight"
+  },
+  {
+   "pdfPage": 852,
+   "printedPage": "847",
+   "text": "Prolonged malnutrition can decrease the metabolic rate 20% to 30%, presumably because of the paucity of food substances in the cells"
+  },
+  {
+   "pdfPage": 852,
+   "printedPage": "847",
+   "text": "When the thyroid gland secretes maximal amounts of thyroxine, the metabolic rate sometimes rises 50% to 100% above normal"
+  },
+  {
+   "pdfPage": 852,
+   "printedPage": "847",
+   "text": "Conversely, total loss of thyroid secretion decreases the metabolic rate to 40% to 60% of normal"
+  },
+  {
+   "pdfPage": 852,
+   "printedPage": "847",
+   "text": "For example, people living in arctic regions have BMRs that are 10% to 20% higher than those of persons living in tropical regions"
+  },
+  {
+   "pdfPage": 852,
+   "printedPage": "847",
+   "text": "The male sex hormone testosterone can increase the metabolic rate about 10% to 15%"
+  },
+  {
+   "pdfPage": 852,
+   "printedPage": "847",
+   "text": "In adults with growth hormone deficiency, replacement therapy with recombinant growth hormone increases the basal metabolic rate by about 20%"
+  },
+  {
+   "pdfPage": 852,
+   "printedPage": "847",
+   "text": "Fever, regardless of its cause, increases the chemical reactions of the body by an average of about 120% for every 10°C rise in temperature"
+  },
+  {
+   "pdfPage": 852,
+   "printedPage": "847",
+   "text": "The metabolic rate decreases 10% to 15% below normal during sleep"
+  },
+  {
+   "pdfPage": 852,
+   "printedPage": "847",
+   "text": "Short bursts of maximal muscle contraction in a single muscle can liberate as much as 100 times its normal resting amount of heat for a few seconds"
+  },
+  {
+   "pdfPage": 852,
+   "printedPage": "847",
+   "text": "For the entire body, maximal muscle exercise can increase the overall heat production of the body for a few seconds to about 50 times normal, or to about 20 times normal for more sustained exercise in a well-trained individual"
+  },
+  {
+   "pdfPage": 852,
+   "printedPage": "847",
+   "text": "Together, these nonexercise activities typically account for about 7% of a sedentary person’s daily energy usage"
+  },
+  {
+   "pdfPage": 852,
+   "printedPage": "847",
+   "text": "After a meal that contains a large quantity of carbohydrates or fats, the metabolic rate usually increases about 4%"
+  },
+  {
+   "pdfPage": 852,
+   "printedPage": "847",
+   "text": "However, after a meal high in protein, the metabolic rate usually begins rising within an hour, reaching a maximum of about 30% above normal, and this rate lasts for 3 to 12 hours"
+  },
+  {
+   "pdfPage": 852,
+   "printedPage": "847",
+   "text": "The thermogenic effect of food accounts for about 8% of the total daily energy expenditure in many persons"
+  },
+  {
+   "pdfPage": 853,
+   "printedPage": "848",
+   "text": "A neonate has a considerable amount of brown fat, and maximal sympathetic stimulation can increase the child’s metabolism more than 100%"
+  },
+  {
+   "pdfPage": 853,
+   "printedPage": "848",
+   "text": "The magnitude of this type of thermogenesis in an adult human, who has virtually no brown fat, is probably less than 15%, although this might increase significantly after cold adaptation."
+  }
+ ],
+ "figureIds": [
+  "gh14-fig-73-01",
+  "gh14-fig-73-02",
+  "gh14-fig-73-03",
+  "gh14-fig-73-04",
+  "gh14-tab-73-01"
+ ],
+ "estMinutes": 27,
+ "counts": {
+  "figures": 5,
+  "figuresIncluded": 5,
+  "terms": 32,
+  "words": 5354,
+  "unplacedInSummary": 5
+ },
+ "review": {
+  "reviewedBy": null,
+  "reviewedAt": null
+ },
+ "importedAt": "2026-11-14T13:59:02+00:00"
+}

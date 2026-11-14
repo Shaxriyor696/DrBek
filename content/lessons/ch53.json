@@ -1,0 +1,3434 @@
+{
+ "id": "ch53",
+ "topicId": "10",
+ "order": 4,
+ "titleUz": "Eshitish sezgisi",
+ "titleOriginal": "The Sense of Hearing",
+ "subtitle": "*The Sense of Hearing* — X bo'lim, PDF 628–638",
+ "contentVersion": "2026-11-14.1",
+ "status": "in_review",
+ "translationStatus": "machine_assisted",
+ "source": {
+  "bookId": "guyton-hall-14",
+  "chapter": 53,
+  "unit": "X",
+  "pdfPages": [
+   628,
+   638
+  ],
+  "printedPages": [
+   623,
+   633
+  ],
+  "notesFile": "guyton-notes/ch53-the-sense-of-hearing.md",
+  "summaryFile": "guyton-notes/summaries/ch53.md"
+ },
+ "pdfPages": [
+  628,
+  638
+ ],
+ "printedPages": [
+  623,
+  633
+ ],
+ "outline": [
+  {
+   "level": 1,
+   "title": "TYMPANIC MEMBRANE AND THE OSSICULAR SYSTEM",
+   "pdfPage": 628,
+   "printedPage": "623",
+   "id": "ch53-h-tympanic-membrane-and-the-ossicular-system"
+  },
+  {
+   "level": 2,
+   "title": "CONDUCTION OF SOUND FROM THE TYMPANIC MEMBRANE TO THE COCHLEA",
+   "pdfPage": 628,
+   "printedPage": "623",
+   "id": "ch53-h-conduction-of-sound-from-the-tympanic-membrane-to-the-cochle"
+  },
+  {
+   "level": 3,
+   "title": "“Impedance Matching” by the Ossicular System",
+   "pdfPage": 629,
+   "printedPage": "624",
+   "id": "ch53-h-impedance-matching-by-the-ossicular-system"
+  },
+  {
+   "level": 3,
+   "title": "Attenuation of Sound by Contraction of the Tensor Tympani and Stapedius Muscles",
+   "pdfPage": 629,
+   "printedPage": "624",
+   "id": "ch53-h-attenuation-of-sound-by-contraction-of-the-tensor-tympani-an"
+  },
+  {
+   "level": 2,
+   "title": "TRANSMISSION OF SOUND THROUGH BONE",
+   "pdfPage": 629,
+   "printedPage": "624",
+   "id": "ch53-h-transmission-of-sound-through-bone"
+  },
+  {
+   "level": 1,
+   "title": "COCHLEA",
+   "pdfPage": 629,
+   "printedPage": "624",
+   "id": "ch53-h-cochlea"
+  },
+  {
+   "level": 2,
+   "title": "FUNCTIONAL ANATOMY OF THE COCHLEA",
+   "pdfPage": 629,
+   "printedPage": "624",
+   "id": "ch53-h-functional-anatomy-of-the-cochlea"
+  },
+  {
+   "level": 3,
+   "title": "Basilar Membrane and Resonance in the Cochlea",
+   "pdfPage": 630,
+   "printedPage": "625",
+   "id": "ch53-h-basilar-membrane-and-resonance-in-the-cochlea"
+  },
+  {
+   "level": 2,
+   "title": "TRANSMISSION OF SOUND WAVES IN THE COCHLEA—“TRAVELING WAVE”",
+   "pdfPage": 630,
+   "printedPage": "625",
+   "id": "ch53-h-transmission-of-sound-waves-in-the-cochlea-traveling-wave"
+  },
+  {
+   "level": 3,
+   "title": "Vibration Patterns of the Basilar Membrane for Different Sound Frequencies",
+   "pdfPage": 630,
+   "printedPage": "625",
+   "id": "ch53-h-vibration-patterns-of-the-basilar-membrane-for-different-sou"
+  },
+  {
+   "level": 3,
+   "title": "Vibration Amplitude Pattern of the Basilar Membrane",
+   "pdfPage": 631,
+   "printedPage": "626",
+   "id": "ch53-h-vibration-amplitude-pattern-of-the-basilar-membrane"
+  },
+  {
+   "level": 2,
+   "title": "FUNCTION OF THE ORGAN OF CORTI",
+   "pdfPage": 631,
+   "printedPage": "626",
+   "id": "ch53-h-function-of-the-organ-of-corti"
+  },
+  {
+   "level": 3,
+   "title": "Excitation of the Hair Cells",
+   "pdfPage": 632,
+   "printedPage": "627",
+   "id": "ch53-h-excitation-of-the-hair-cells"
+  },
+  {
+   "level": 3,
+   "title": "Auditory Signals Are Transmitted Mainly by the Inner Hair Cells",
+   "pdfPage": 632,
+   "printedPage": "627",
+   "id": "ch53-h-auditory-signals-are-transmitted-mainly-by-the-inner-hair-ce"
+  },
+  {
+   "level": 3,
+   "title": "Hair Cell Receptor Potentials and Excitation of Auditory Nerve Fibers",
+   "pdfPage": 633,
+   "printedPage": "628",
+   "id": "ch53-h-hair-cell-receptor-potentials-and-excitation-of-auditory-ner"
+  },
+  {
+   "level": 2,
+   "title": "DETERMINATION OF SOUND FREQUENCY—THE “PLACE” PRINCIPLE",
+   "pdfPage": 633,
+   "printedPage": "628",
+   "id": "ch53-h-determination-of-sound-frequency-the-place-principle"
+  },
+  {
+   "level": 2,
+   "title": "DETERMINATION OF LOUDNESS",
+   "pdfPage": 633,
+   "printedPage": "628",
+   "id": "ch53-h-determination-of-loudness"
+  },
+  {
+   "level": 3,
+   "title": "Detection of Changes in Loudness—The Power Law",
+   "pdfPage": 634,
+   "printedPage": "629",
+   "id": "ch53-h-detection-of-changes-in-loudness-the-power-law"
+  },
+  {
+   "level": 3,
+   "title": "Decibel Unit",
+   "pdfPage": 634,
+   "printedPage": "629",
+   "id": "ch53-h-decibel-unit"
+  },
+  {
+   "level": 3,
+   "title": "Threshold for Hearing Sound at Different Frequencies",
+   "pdfPage": 634,
+   "printedPage": "629",
+   "id": "ch53-h-threshold-for-hearing-sound-at-different-frequencies"
+  },
+  {
+   "level": 3,
+   "title": "Frequency Range of Hearing",
+   "pdfPage": 634,
+   "printedPage": "629",
+   "id": "ch53-h-frequency-range-of-hearing"
+  },
+  {
+   "level": 1,
+   "title": "CENTRAL AUDITORY MECHANISMS",
+   "pdfPage": 634,
+   "printedPage": "629",
+   "id": "ch53-h-central-auditory-mechanisms"
+  },
+  {
+   "level": 2,
+   "title": "AUDITORY NERVOUS PATHWAYS",
+   "pdfPage": 634,
+   "printedPage": "629",
+   "id": "ch53-h-auditory-nervous-pathways"
+  },
+  {
+   "level": 2,
+   "title": "FUNCTION OF THE CEREBRAL CORTEX IN HEARING",
+   "pdfPage": 635,
+   "printedPage": "630",
+   "id": "ch53-h-function-of-the-cerebral-cortex-in-hearing"
+  },
+  {
+   "level": 3,
+   "title": "Sound Frequency Perception in the Primary Auditory Cortex",
+   "pdfPage": 635,
+   "printedPage": "630",
+   "id": "ch53-h-sound-frequency-perception-in-the-primary-auditory-cortex"
+  },
+  {
+   "level": 3,
+   "title": "Discrimination of Sound “Patterns” by the Auditory Cortex",
+   "pdfPage": 636,
+   "printedPage": "631",
+   "id": "ch53-h-discrimination-of-sound-patterns-by-the-auditory-cortex"
+  },
+  {
+   "level": 2,
+   "title": "DETERMINATION OF THE DIRECTION FROM WHICH SOUND COMES",
+   "pdfPage": 636,
+   "printedPage": "631",
+   "id": "ch53-h-determination-of-the-direction-from-which-sound-comes"
+  },
+  {
+   "level": 3,
+   "title": "Neural Mechanisms for Detecting Sound Direction",
+   "pdfPage": 637,
+   "printedPage": "632",
+   "id": "ch53-h-neural-mechanisms-for-detecting-sound-direction"
+  }
+ ],
+ "objectives": [
+  "Tashqi va o'rta quloq",
+  "Koxleya tuzilishi",
+  "Korti organi",
+  "Chastotani aniqlash",
+  "Balandlikni (loudness) aniqlash",
+  "Markaziy eshitish yo'llari (Fig 53-9)",
+  "Eshitish po'stlog'i (Fig 53-10)",
+  "Tovush yo'nalishini aniqlash",
+  "Markazdan pastga signallar (centrifugal)",
+  "Karlik turlari"
+ ],
+ "blocks": {
+  "simple": [
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Asosiy g'oya",
+    "id": "ch53-s-0-asosiy-goya",
+    "bid": "ch53-u0"
+   },
+   {
+    "type": "paragraph",
+    "text": "Tovush quyidagi yo'l bilan uzatiladi:",
+    "bid": "ch53-u1"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Nog'ora parda va eshitish suyakchalari tovushni koxleyaga uzatadi (impedansni moslash, ~22 marta kuch).",
+      "depth": 0
+     },
+     {
+      "text": "Koxleyada bazilyar membrana bo'ylab \"yuguruvchi to'lqin\" hosil bo'ladi. Har bir chastota o'z rezonans joyida eng katta amplitudaga ega bo'ladi (**place principle**).",
+      "depth": 0
+     },
+     {
+      "text": "Korti organining soch hujayralari mexanik tebranishni elektr signalga aylantiradi. Bunda endolimfaning +80 mV endokoxlear potensiali yordam beradi.",
+      "depth": 0
+     },
+     {
+      "text": "Signal miya ustunidagi yadrolar orqali chakka bo'lagidagi eshitish po'stlog'iga boradi.",
+      "depth": 0
+     },
+     {
+      "text": "Yo'nalish ikki quloq orasidagi vaqt va intensivlik farqidan aniqlanadi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch53-u2"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Tashqi va o'rta quloq",
+    "id": "ch53-s-3-tashqi-va-orta-quloq",
+    "bid": "ch53-u3"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Suyakchalar:** bolg'acha (malleus) dastasi nog'ora parda markaziga yopishgan; sandon (incus) bilan bog'langan; sandon uzangichaga (stapes) ulangan. Uzangicha asosi oval darchada turadi.",
+      "depth": 0
+     },
+     {
+      "text": "**Tensor tympani** bolg'acha dastasini tortib, nog'ora pardani taranglashtiradi. Taranglik bo'lmasa, tebranish suyakchalarga uzatilmaydi.",
+      "depth": 0
+     },
+     {
+      "text": "**Richag tizimi:** bolg'acha va sandon tayanch nuqtasi nog'ora parda chetida bo'lgan yagona richagdek ishlaydi. Uzangicha nog'ora parda ichkariga harakatlansa itaradi, tashqariga harakatlansa tortadi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch53-u4"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "Impedansni moslash",
+    "id": "ch53-s-5-impedansni-moslash",
+    "bid": "ch53-u5"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Harakat va kuch:** uzangicha amplitudasi bolg'acha dastasinikining atigi 3/4 qismi. Richag masofani kamaytiradi, kuchni esa ~1.3 marta oshiradi.",
+      "depth": 0
+     },
+     {
+      "text": "**Yuza nisbati:** nog'ora parda ~55 mm², uzangicha asosi ~3.2 mm², ya'ni ~17 marta farq.",
+      "depth": 0
+     },
+     {
+      "text": "**Jami:** 17 × 1.3 ≈ **22 marta** ko'proq kuch koxlear suyuqlikka tushadi. Suyuqlik inersiyasi havonikidan katta bo'lgani uchun bu zarur.",
+      "depth": 0
+     },
+     {
+      "text": "**Samaradorlik:** 300–3000 Hz da moslashuv mukammalning 50–75% ini tashkil qiladi.",
+      "depth": 0
+     },
+     {
+      "text": "**Suyakchalarsiz:** tovush havo orqali oval darchaga borishi mumkin, lekin sezgirlik 15–20 dB past bo'ladi (o'rtacha ovozdan zo'rg'a eshitiladigan ovozgacha).",
+      "depth": 0
+     }
+    ],
+    "bid": "ch53-u6"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "Akustik refleks (tovushni susaytirish)",
+    "id": "ch53-s-7-akustik-refleks-tovushni-susaytirish",
+    "bid": "ch53-u7"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Ishga tushishi:** kuchli tovushdan 40–80 ms o'tib **stapedius** va qisman tensor tympani qisqaradi. Ular qarama-qarshi tortadi va suyakchalar tizimi qattiqlashadi.",
+      "depth": 0
+     },
+     {
+      "text": "**Ta'siri:** <1000 Hz past chastotalar 30–40 dB ga susayadi (baland ovoz va shivir farqidek).",
+      "depth": 0
+     },
+     {
+      "text": "**Vazifalari:**",
+      "depth": 0
+     },
+     {
+      "text": "Koxleyani zararli tebranishdan himoya qilish.",
+      "depth": 1
+     },
+     {
+      "text": "Shovqinli muhitda past chastotali fon shovqinini niqoblash va >1000 Hz dagi nutq axborotiga diqqat qilish.",
+      "depth": 1
+     },
+     {
+      "text": "O'z ovoziga sezgirlikni kamaytirish (nutq boshlanganda kollateral signal yuboriladi).",
+      "depth": 1
+     }
+    ],
+    "bid": "ch53-u8"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "Suyak orqali o'tkazuvchanlik",
+    "id": "ch53-s-9-suyak-orqali-otkazuvchanlik",
+    "bid": "ch53-u9"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Mexanizm:** koxleya chakka suyagining suyak labirintida joylashgan. Kalla tebransa, koxlear suyuqlik ham tebranadi.",
+      "depth": 0
+     },
+     {
+      "text": "**Amaliyot:** kamerton yoki vibrator so'rg'ichsimon o'siqqa (mastoid) qo'yilsa eshitiladi.",
+      "depth": 0
+     },
+     {
+      "text": "**Cheklov:** oddiy havodagi tovush energiyasi suyak orqali eshitish uchun yetarli emas.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch53-u10"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Koxleya tuzilishi",
+    "id": "ch53-s-11-koxleya-tuzilishi",
+    "bid": "ch53-u11"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Uch kanal:**",
+      "depth": 0
+     },
+     {
+      "text": "**Scala vestibuli** va **scala media** orasida Reissner (vestibulyar) membranasi bor.",
+      "depth": 1
+     },
+     {
+      "text": "**Scala media** va **scala tympani** orasida bazilyar membrana bor.",
+      "depth": 1
+     },
+     {
+      "text": "**Korti organi** bazilyar membrana ustida joylashgan va soch hujayralarini o'z ichiga oladi.",
+      "depth": 0
+     },
+     {
+      "text": "**Reissner membranasi** juda yupqa, tovush o'tishiga to'sqinlik qilmaydi. Shuning uchun akustik jihatdan scala vestibuli va scala media bitta kamera hisoblanadi. Uning vazifasi scala media ichidagi maxsus suyuqlikni saqlash.",
+      "depth": 0
+     },
+     {
+      "text": "**Oval darcha:** uzangicha asosi bo'shroq halqasimon boylam bilan bog'langan va ichkari-tashqari harakatlanadi.",
+      "depth": 0
+     },
+     {
+      "text": "**Yumaloq darcha:** koxleya suyak bilan o'ralgan, shuning uchun oval darcha ichkariga kirsa, yumaloq darcha tashqariga bo'rtadi.",
+      "depth": 0
+     },
+     {
+      "text": "**Helikotrema:** uchidagi teshik, scala vestibuli va scala tympani shu yerda tutashadi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch53-u12"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "Bazilyar membrana va rezonans",
+    "id": "ch53-s-13-bazilyar-membrana-va-rezonans",
+    "bid": "ch53-u13"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Tolalar:** 20 000–30 000 bazilyar tola. Modiolusga qattiq birikkan, distal uchi erkin, garmon tilchalari kabi tebranadi.",
+      "depth": 0
+     },
+     {
+      "text": "**Asosdan uchgacha o'zgarish:**",
+      "depth": 0
+     },
+     {
+      "text": "Uzunlik 0.04 mm dan 0.5 mm gacha (12 marta) ortadi.",
+      "depth": 1
+     },
+     {
+      "text": "Diametr kamayadi, shu sababli qattiqlik >100 marta kamayadi.",
+      "depth": 1
+     },
+     {
+      "text": "**Natija:**",
+      "depth": 0
+     },
+     {
+      "text": "**Asosda** (oval darcha yonida) yuqori chastotalar rezonans beradi.",
+      "depth": 1
+     },
+     {
+      "text": "**Uchda** (helikotrema) past chastotalar rezonans beradi. Sabab: tolalar yumshoqroq va ko'proq suyuqlik massasi (\"loading\") tebranadi.",
+      "depth": 1
+     }
+    ],
+    "bid": "ch53-u14"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "Yuguruvchi to'lqin (traveling wave)",
+    "id": "ch53-s-15-yuguruvchi-tolqin-traveling-wave",
+    "bid": "ch53-u15"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Hosil bo'lishi:** uzangicha itarganda asosdagi membrana yumaloq darcha tomon egiladi. Tolalardagi elastik taranglik helikotrema tomon yuguruvchi to'lqinni boshlaydi (arteriyadagi bosim to'lqini yoki hovuz yuzasidagi to'lqin kabi).",
+      "depth": 0
+     },
+     {
+      "text": "**So'nishi:** to'lqin o'z rezonans joyiga yetganda kuchayadi, energiyasi tarqaladi va so'nadi.",
+      "depth": 0
+     },
+     {
+      "text": "Yuqori chastota qisqa masofa yuradi.",
+      "depth": 1
+     },
+     {
+      "text": "O'rta chastota taxminan yarmigacha boradi.",
+      "depth": 1
+     },
+     {
+      "text": "Juda past chastota butun membrana bo'ylab yuradi.",
+      "depth": 1
+     },
+     {
+      "text": "**Tezlik:** to'lqin boshida tez, keyin sekinlashadi (elastiklik koeffitsienti kamayadi). Shu tufayli yuqori chastotalar bir-biridan ajraladi. Aks holda ular birinchi ~1 mm da to'planib qolardi.",
+      "depth": 0
+     },
+     {
+      "text": "**Amplituda xaritasi (Fig 53-5):** 8000 Hz da maksimum asos yaqinida, <200 Hz da helikotrema yonida.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch53-u16"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Korti organi",
+    "id": "ch53-s-17-korti-organi",
+    "bid": "ch53-u17"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Ichki soch hujayralari:** bitta qator, ~3500 ta, ~12 µm.",
+      "depth": 0
+     },
+     {
+      "text": "**Tashqi soch hujayralari:** 3–4 qator, ~12 000 ta, ~8 µm.",
+      "depth": 0
+     },
+     {
+      "text": "**Innervatsiya:**",
+      "depth": 0
+     },
+     {
+      "text": "Koxlear nerv uchlarining **90–95%** ichki soch hujayralarida tugaydi.",
+      "depth": 1
+     },
+     {
+      "text": "Tolalar modiolusdagi **spiral gangliy**ga boradi.",
+      "depth": 1
+     },
+     {
+      "text": "~30 000 akson koxlear nerv orqali yuqori medullaga kiradi.",
+      "depth": 1
+     }
+    ],
+    "bid": "ch53-u18"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "Soch hujayralarining qo'zg'alishi",
+    "id": "ch53-s-19-soch-hujayralarining-qozgalishi",
+    "bid": "ch53-u19"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Stereotsiliyalar:** tektorial membrananing gel qatlamiga tegib turadi yoki botib kiradi. Vestibulyar soch hujayralariga o'xshaydi (ch56).",
+      "depth": 0
+     },
+     {
+      "text": "Bir tomonga egilsa, depolyarizatsiya bo'ladi.",
+      "depth": 1
+     },
+     {
+      "text": "Teskari tomonga egilsa, giperpolyarizatsiya bo'ladi.",
+      "depth": 1
+     },
+     {
+      "text": "**Bikr blok:** soch hujayralarining tashqi uchlari **retikulyar lamina**ga mahkamlangan. Lamina Korti tayoqchalari orqali bazilyar tolalarga tutashgan, uchalasi bitta bikr blok bo'lib harakatlanadi.",
+      "depth": 0
+     },
+     {
+      "text": "Bazilyar membrana yuqoriga harakatlansa, lamina yuqoriga va modiolus tomon og'adi.",
+      "depth": 1
+     },
+     {
+      "text": "Pastga harakatlansa, pastga va tashqariga og'adi.",
+      "depth": 1
+     },
+     {
+      "text": "Natijada sochlar tektorial membranaga nisbatan siljiydi (shearing).",
+      "depth": 1
+     },
+     {
+      "text": "**Ichki va tashqi hujayralar roli:**",
+      "depth": 0
+     },
+     {
+      "text": "Signallarning ~90% ichki hujayralardan keladi.",
+      "depth": 1
+     },
+     {
+      "text": "Ammo tashqi hujayralar shikastlansa, eshitish ancha pasayadi.",
+      "depth": 1
+     },
+     {
+      "text": "Tashqi hujayralar ichki hujayralarning chastotaga sezgirligini sozlaydi (\"tuning\").",
+      "depth": 1
+     },
+     {
+      "text": "Miya ustunidan tashqi hujayralarga ko'p retrograd tola keladi. Ularni stimulyatsiya qilish tashqi hujayralarni qisqartiradi va bikrligini o'zgartirishi mumkin.",
+      "depth": 1
+     }
+    ],
+    "bid": "ch53-u20"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "Retseptor potensiali (Fig 53-7)",
+    "id": "ch53-s-21-retseptor-potensiali-fig-53-7",
+    "bid": "ch53-u21"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Tuzilish:** har hujayrada ~100 stereotsiliya bor, modiolusdan uzoqlashgan sari uzunlashadi. Qisqaroqlarining uchi qo'shni uzunroqqa ingichka \"tip link\" iplar bilan bog'langan.",
+      "depth": 0
+     },
+     {
+      "text": "**Depolyarizatsiya:**",
+      "depth": 0
+     },
+     {
+      "text": "Uzunlar tomonga egilganda tip link tortiladi va 200–300 kation kanali ochiladi.",
+      "depth": 1
+     },
+     {
+      "text": "Endolimfadan **K⁺ kiradi** va depolyarizatsiya boshlanadi.",
+      "depth": 1
+     },
+     {
+      "text": "Kuchlanishga bog'liq Ca²⁺ kanallari ochiladi, Ca²⁺ kirib depolyarizatsiyani kuchaytiradi.",
+      "depth": 1
+     },
+     {
+      "text": "**Repolyarizatsiya:** Ca²⁺ ga sezgir K⁺ kanallari orqali K⁺ chiqadi.",
+      "depth": 0
+     },
+     {
+      "text": "**Natija:** egilish scala vestibuli tomon bo'lsa depolyarizatsiya, teskari tomon bo'lsa giperpolyarizatsiya. O'zgaruvchan retseptor potensiali hosil bo'ladi va soch hujayralari **glutamat** chiqaradi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch53-u22"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "Endokoxlear potensial",
+    "id": "ch53-s-23-endokoxlear-potensial",
+    "bid": "ch53-u23"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Perilimfa** (scala vestibuli va tympani) subaraxnoidal bo'shliq bilan tutashgan, deyarli likvorning o'zi.",
+      "depth": 0
+     },
+     {
+      "text": "**Endolimfa** (scala media):",
+      "depth": 0
+     },
+     {
+      "text": "**Stria vascularis** sekretsiya qiladi.",
+      "depth": 1
+     },
+     {
+      "text": "**K⁺ yuqori, Na⁺ past** (perilimfaga teskari).",
+      "depth": 1
+     },
+     {
+      "text": "**Endolimfa va perilimfa orasida doimo +80 mV** bor, ichkarisi musbat. Uni stria vascularis K⁺ sekretsiyasi hosil qiladi.",
+      "depth": 0
+     },
+     {
+      "text": "**Soch hujayrasi potensiali:**",
+      "depth": 0
+     },
+     {
+      "text": "Ichki muhiti perilimfaga nisbatan −70 mV.",
+      "depth": 1
+     },
+     {
+      "text": "Endolimfaga nisbatan esa yuqori yuzasida **−150 mV**.",
+      "depth": 1
+     },
+     {
+      "text": "Bu katta farq hujayrani juda sezgir qiladi.",
+      "depth": 1
+     }
+    ],
+    "bid": "ch53-u24"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Chastotani aniqlash",
+    "id": "ch53-s-25-chastotani-aniqlash",
+    "bid": "ch53-u25"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Place principle:**",
+      "depth": 0
+     },
+     {
+      "text": "Past chastota uchda, yuqori chastota asosda faollashtiradi.",
+      "depth": 1
+     },
+     {
+      "text": "Koxleyadan po'stloqqacha fazoviy tartib saqlanadi; muayyan neyronlar muayyan chastotaga javob beradi.",
+      "depth": 1
+     },
+     {
+      "text": "**Volley (frequency) principle:**",
+      "depth": 0
+     },
+     {
+      "text": "20–200 Hz ni place bilan ajratish qiyin, chunki helikotrema hammasiga javob beradi.",
+      "depth": 1
+     },
+     {
+      "text": "20 Hz dan 1500–2000 Hz gacha nerv impulslari tovush chastotasiga sinxron \"zalp\" beradi, koxlear yadrolar ularni farqlaydi.",
+      "depth": 1
+     },
+     {
+      "text": "Koxleyaning apikal yarmi yo'q qilinsa ham past chastota farqlash to'liq yo'qolmaydi.",
+      "depth": 1
+     }
+    ],
+    "bid": "ch53-u26"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Balandlikni (loudness) aniqlash",
+    "id": "ch53-s-27-balandlikni-loudness-aniqlash",
+    "bid": "ch53-u27"
+   },
+   {
+    "type": "list",
+    "ordered": true,
+    "items": [
+     {
+      "text": "**Kuchliroq tebranish:** soch hujayralari nerv uchlarini tezroq qo'zg'atadi.",
+      "depth": 0
+     },
+     {
+      "text": "**Spatial summation:** rezonans sohasining chetlaridagi hujayralar ham qo'zg'aladi, ko'proq tola jalb qilinadi.",
+      "depth": 0
+     },
+     {
+      "text": "**Tashqi soch hujayralari:** faqat kuchli tebranishda faollashadi va \"tovush baland\" degan ma'lumot beradi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch53-u28"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Power law:** sezgi tovush intensivligining **kub ildizi**ga proporsional.",
+      "depth": 0
+     },
+     {
+      "text": "Shivirdan eng kuchli shovqingacha energiya ~1 trillion marta, bazilyar membrana amplitudasi 1 million marta ortadi.",
+      "depth": 1
+     },
+     {
+      "text": "Ammo idrok ~10 000 marta o'zgaradi. Shkala \"siqilgan\".",
+      "depth": 1
+     },
+     {
+      "text": "**Detsibel:**",
+      "depth": 0
+     },
+     {
+      "text": "10 marta energiya = 1 bel; 0.1 bel = 1 dB.",
+      "depth": 1
+     },
+     {
+      "text": "1 dB energiyaning 1.26 marta ortishiga teng.",
+      "depth": 1
+     },
+     {
+      "text": "Muloqot oralig'ida quloq ~1 dB o'zgarishni zo'rg'a farqlaydi.",
+      "depth": 1
+     },
+     {
+      "text": "**Eshitish bo'sag'asi (Fig 53-8):**",
+      "depth": 0
+     },
+     {
+      "text": "3000 Hz da eng sezgir: 1 din/sm² dan −70 dB past bosimda, ya'ni 10⁻⁷ µW/sm² da eshitiladi.",
+      "depth": 1
+     },
+     {
+      "text": "100 Hz uchun 10 000 marta kuchliroq tovush kerak.",
+      "depth": 1
+     },
+     {
+      "text": "**Chastota diapazoni:**",
+      "depth": 0
+     },
+     {
+      "text": "Yoshlarda **20–20 000 Hz**.",
+      "depth": 1
+     },
+     {
+      "text": "−60 dB da faqat 500–5000 Hz; to'liq diapazon faqat kuchli tovushda.",
+      "depth": 1
+     },
+     {
+      "text": "Qariyalarda ~50–8000 Hz yoki undan kam.",
+      "depth": 1
+     }
+    ],
+    "bid": "ch53-u29"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Markaziy eshitish yo'llari (Fig 53-9)",
+    "id": "ch53-s-30-markaziy-eshitish-yollari-fig-53-9",
+    "bid": "ch53-u30"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Yo'l bosqichlari:**",
+      "depth": 0
+     },
+     {
+      "text": "Spiral gangliy → yuqori medulladagi dorsal va ventral **koxlear yadrolar** (hammasi sinaps qiladi).",
+      "depth": 1
+     },
+     {
+      "text": "Asosan qarama-qarshi, qisman o'z tomonidagi **yuqori oliva yadrosi**.",
+      "depth": 1
+     },
+     {
+      "text": "**Lateral lemniscus** (bir qismi uning yadrosida tugaydi).",
+      "depth": 1
+     },
+     {
+      "text": "**Pastki do'mboqcha** (deyarli hammasi sinaps qiladi).",
+      "depth": 1
+     },
+     {
+      "text": "**Medial tizzasimon yadro** (hammasi sinaps qiladi).",
+      "depth": 1
+     },
+     {
+      "text": "Eshitish radiatsiyasi → **eshitish po'stlog'i** (yuqori chakka pushtasi).",
+      "depth": 1
+     },
+     {
+      "text": "**Muhim jihatlar:**",
+      "depth": 0
+     },
+     {
+      "text": "**Ikki tomonlama uzatish:** har ikki quloq signallari ikkala tomonga boradi, qarama-qarshi tomon ustun. Kesishish uch joyda: trapetsiyasimon tana, lateral lemniscus yadrolari komissurasi, pastki do'mboqchalar komissurasi.",
+      "depth": 1
+     },
+     {
+      "text": "**Kollateral tolalar:**",
+      "depth": 1
+     },
+     {
+      "text": "Retikulyar faollashtiruvchi tizimga boradi; kuchli tovush butun nerv tizimini uyg'otadi.",
+      "depth": 2
+     },
+     {
+      "text": "Serebellum chuvalchangiga ham boradi; kutilmagan shovqinda darhol faollashadi.",
+      "depth": 2
+     },
+     {
+      "text": "**Fazoviy (tonotopik) tartib:** koxlear yadrolarda 3 ta, pastki do'mboqchada 2 ta, po'stloqda bitta aniq va kamida 5 ta noaniq xarita.",
+      "depth": 1
+     },
+     {
+      "text": "**Razryad chastotalari:**",
+      "depth": 0
+     },
+     {
+      "text": "Koxlear nerv tolalari ≥1000/s gacha razryad beradi; chastota asosan balandlikka bog'liq.",
+      "depth": 1
+     },
+     {
+      "text": "2000–4000 Hz gacha tovush to'lqiniga sinxron (har to'lqinda emas).",
+      "depth": 1
+     },
+     {
+      "text": "Miya ustunida sinxronlik faqat <200 Hz da saqlanadi; pastki do'mboqchadan yuqorida deyarli yo'qoladi.",
+      "depth": 1
+     },
+     {
+      "text": "Ya'ni axborot koxlear yadrolardayoq ajratila boshlaydi.",
+      "depth": 1
+     }
+    ],
+    "bid": "ch53-u31"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Eshitish po'stlog'i (Fig 53-10)",
+    "id": "ch53-s-32-eshitish-postlogi-fig-53-10",
+    "bid": "ch53-u32"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Joylashuvi:** asosan yuqori chakka pushtasining supratemporal tekisligida; chakka bo'lagi lateral yuzasi, insula va tepa operkulumiga ham tarqaladi.",
+      "depth": 0
+     },
+     {
+      "text": "**Bo'limlari:**",
+      "depth": 0
+     },
+     {
+      "text": "**Birlamchi po'stloq** medial tizzasimon tanadan bevosita qo'zg'aladi.",
+      "depth": 1
+     },
+     {
+      "text": "**Assotsiatsiya (ikkilamchi) po'stloq** birlamchi po'stloqdan va talamik assotsiatsiya sohalaridan qo'zg'aladi.",
+      "depth": 1
+     },
+     {
+      "text": "**Tonotopik xaritalar:**",
+      "depth": 0
+     },
+     {
+      "text": "Kamida 6 ta; ko'pchiligida past chastota oldinda, yuqori chastota orqada.",
+      "depth": 1
+     },
+     {
+      "text": "Har bir xarita alohida xususiyatni ajratadi: balandlik (pitch), yo'nalish, tovushning to'satdan boshlanishi, shovqin va sof ton farqi.",
+      "depth": 1
+     },
+     {
+      "text": "**Chastota sozlanishining o'tkirlashuvi:**",
+      "depth": 0
+     },
+     {
+      "text": "Po'stloq neyronlari koxlear yadrolardagidan ancha tor chastota oralig'iga javob beradi.",
+      "depth": 1
+     },
+     {
+      "text": "Sabab: yo'l bo'ylab **lateral inhibitsiya**.",
+      "depth": 1
+     },
+     {
+      "text": "**Assotsiatsiya neyronlari:** chastotalarni bir-biri bilan va boshqa sezgilar bilan bog'laydi. Tepa qismi somatosensor area II bilan qisman ustma-ust tushadi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch53-u33"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "Po'stloq shikastlanishi",
+    "id": "ch53-s-34-postloq-shikastlanishi",
+    "bid": "ch53-u34"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Ikki tomonlama to'liq olib tashlash (mushuk, maymun):**",
+      "depth": 0
+     },
+     {
+      "text": "Tovushni sezish va qo'pol reaksiya saqlanadi.",
+      "depth": 1
+     },
+     {
+      "text": "Ton va ayniqsa tovush ketma-ketligi (pattern) ni farqlash yo'qoladi va qayta o'rganilmaydi.",
+      "depth": 1
+     },
+     {
+      "text": "**Odamda:**",
+      "depth": 0
+     },
+     {
+      "text": "**Ikki tomonlama birlamchi po'stloq** yo'qolsa, sezgirlik ancha pasayadi.",
+      "depth": 1
+     },
+     {
+      "text": "**Bir tomonlama** yo'qolsa, qarama-qarshi quloqda eshitish biroz pasayadi, lekin karlik yo'q (kesishmalar tufayli). Biroq manbani lokalizatsiya qilish buziladi.",
+      "depth": 1
+     },
+     {
+      "text": "**Faqat assotsiatsiya sohasi** shikastlansa, eshitish va tonlarni farqlash saqlanadi, lekin ma'no tushunilmaydi. Masalan, **Wernicke sohasi** (yuqori chakka pushtasining orqa qismi) shikastida so'zlar eshitiladi va takrorlanadi, ammo ma'nosi tushunilmaydi (ch58).",
+      "depth": 1
+     }
+    ],
+    "bid": "ch53-u35"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Tovush yo'nalishini aniqlash",
+    "id": "ch53-s-36-tovush-yonalishini-aniqlash",
+    "bid": "ch53-u36"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Gorizontal yo'nalish:**",
+      "depth": 0
+     },
+     {
+      "text": "**Vaqt farqi:** ikki quloqqa kirish orasidagi farq; <3000 Hz da yaxshi va ancha aniq.",
+      "depth": 1
+     },
+     {
+      "text": "**Intensivlik farqi:** yuqori chastotalarda yaxshi, chunki bosh to'siq bo'ladi.",
+      "depth": 1
+     },
+     {
+      "text": "**Old/orqa va yuqori/past:** asosan **quloq suprasi** (pinna) shakli orqali, u yo'nalishga qarab ma'lum chastotalarni kuchaytiradi.",
+      "depth": 0
+     },
+     {
+      "text": "**Neyron mexanizmi:**",
+      "depth": 0
+     },
+     {
+      "text": "Ikki tomonlama eshitish po'stlog'i yo'qolsa, yo'nalishni aniqlash deyarli butunlay yo'qoladi. Tahlil esa **yuqori oliva yadrolari**da boshlanadi.",
+      "depth": 1
+     },
+     {
+      "text": "**Lateral yuqori oliva:** intensivlik farqini taqqoslaydi.",
+      "depth": 1
+     },
+     {
+      "text": "**Medial yuqori oliva:**",
+      "depth": 1
+     },
+     {
+      "text": "Neyronlari ikki dendritli: o'ng dendrit o'ng quloqdan, chap dendrit chap quloqdan signal oladi.",
+      "depth": 2
+     },
+     {
+      "text": "Har neyron muayyan vaqt kechikishiga sezgir; yadro bir chetidan ikkinchisiga qisqa kechikishdan uzunga qarab tartiblangan.",
+      "depth": 2
+     },
+     {
+      "text": "Natijada fazoviy xarita hosil bo'ladi va po'stloqqa uzatiladi.",
+      "depth": 2
+     },
+     {
+      "text": "Yo'nalish signallari ton signallaridan boshqa yo'l va boshqa po'stloq joyi orqali o'tadi. \"Yo'nalish\" sifati yuqori olivada ajratiladi.",
+      "depth": 1
+     }
+    ],
+    "bid": "ch53-u37"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Markazdan pastga signallar (centrifugal)",
+    "id": "ch53-s-38-markazdan-pastga-signallar-centrifugal",
+    "bid": "ch53-u38"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Yo'nalish:** har bosqichda po'stloqdan koxleyagacha retrograd yo'llar bor. Oxirgisi yuqori olivadan Korti organi soch hujayralariga boradi; ular inhibitor.",
+      "depth": 0
+     },
+     {
+      "text": "**Ta'siri:** olivani stimulyatsiya qilish Korti organining muayyan sohasida sezgirlikni 15–20 dB kamaytiradi.",
+      "depth": 0
+     },
+     {
+      "text": "**Ma'nosi:** diqqatni muayyan tovushga qaratish, masalan, orkestrdagi bitta cholg'uni tinglash.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch53-u39"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Karlik turlari",
+    "id": "ch53-s-40-karlik-turlari",
+    "bid": "ch53-u40"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Nerv (sensorinevral) karlik:**",
+      "depth": 0
+     },
+     {
+      "text": "Koxleya, eshitish nervi yoki markaziy yo'llar shikastlanadi.",
+      "depth": 1
+     },
+     {
+      "text": "Koxleya yoki nerv to'liq yo'q qilinsa, karlik doimiy.",
+      "depth": 1
+     },
+     {
+      "text": "**O'tkazuvchan karlik:**",
+      "depth": 0
+     },
+     {
+      "text": "Tovushni o'tkazuvchi tuzilmalar shikastlanadi, masalan, nog'ora parda va suyakchalar yemirilishi yoki ankilozi (fibroz yoki ohaklanish).",
+      "depth": 1
+     },
+     {
+      "text": "Koxleya va nerv butun bo'lsa, suyak orqali eshitish saqlanadi.",
+      "depth": 1
+     },
+     {
+      "text": "**Audiometr:**",
+      "depth": 0
+     },
+     {
+      "text": "Quloqchin va toza ton generatori; 0 dB = normal quloqning bo'sag'asi.",
+      "depth": 1
+     },
+     {
+      "text": "Masalan, normaldan 30 dB yuqorida eshitsa, shu chastotada 30 dB yo'qotish.",
+      "depth": 1
+     },
+     {
+      "text": "8–10 chastota tekshiriladi va audiogramma chiziladi.",
+      "depth": 1
+     },
+     {
+      "text": "Havo orqali o'tkazuvchanlik uchun quloqchin, suyak orqali o'tkazuvchanlik uchun mastoidga vibrator ishlatiladi.",
+      "depth": 1
+     },
+     {
+      "text": "**Nerv karligi audiogrammasi (Fig 53-11):**",
+      "depth": 0
+     },
+     {
+      "text": "Havo va suyak o'tkazuvchanligi ikkalasi ham pasaygan.",
+      "depth": 1
+     },
+     {
+      "text": "**Qarilik:** asosan yuqori chastotalar pasayadi (koxleya asosi shikasti); deyarli barcha qariyalarda biroz kuzatiladi.",
+      "depth": 1
+     },
+     {
+      "text": "**Uzoq kuchli shovqin** (rok-guruh, reaktiv dvigatel): past chastotalar pasayadi, chunki past chastotali tovushlar odatda balandroq va zararliroq.",
+      "depth": 1
+     },
+     {
+      "text": "**Ototoksik dorilar** (streptomitsin, gentamitsin, kanamitsin, xloramfenikol): barcha chastotalar pasayadi.",
+      "depth": 1
+     },
+     {
+      "text": "**O'rta quloq o'tkazuvchan karligi (Fig 53-12):**",
+      "depth": 0
+     },
+     {
+      "text": "Sabablari: takroriy infeksiyadan keyingi fibroz yoki irsiy **otoskleroz**.",
+      "depth": 1
+     },
+     {
+      "text": "Suyak o'tkazuvchanligi normal, havo o'tkazuvchanligi barcha chastotalarda, ayniqsa pastlarida pasaygan.",
+      "depth": 1
+     },
+     {
+      "text": "**Uzangicha ankilozi:** suyakcha o'tkazuvchanligi to'liq yo'qoladi. Uzangicha olib tashlanib, teflon yoki metall protez qo'yilsa, deyarli normal eshitish tiklanadi.",
+      "depth": 1
+     }
+    ],
+    "bid": "ch53-u41"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Klinik nuqtalar",
+    "id": "ch53-s-42-klinik-nuqtalar",
+    "bid": "ch53-u42"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Akustik refleks:** koxleyani himoya qiladi.",
+      "depth": 0
+     },
+     {
+      "text": "**Sensorinevral karlik:** qarilikda yuqori chastotalar; shovqindan zararlanish; ototoksik antibiotiklar (aminoglikozidlar).",
+      "depth": 0
+     },
+     {
+      "text": "**O'tkazuvchan karlik:** otoskleroz bo'lsa, stapedektomiya va protez.",
+      "depth": 0
+     },
+     {
+      "text": "**Audiogramma:** havo va suyak o'tkazuvchanligini taqqoslash karlik turini ajratadi.",
+      "depth": 0
+     },
+     {
+      "text": "**Wernicke sohasi shikasti:** so'z ma'nosini tushunmaslik.",
+      "depth": 0
+     },
+     {
+      "text": "**Bir tomonlama po'stloq shikasti:** tovush lokalizatsiyasi buziladi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch53-u43"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Bog'liqlik",
+    "id": "ch53-s-44-bogliqlik",
+    "bid": "ch53-u44"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**ch56:** vestibulyar soch hujayralari.",
+      "depth": 0
+     },
+     {
+      "text": "**ch47:** power law, lateral inhibitsiya.",
+      "depth": 0
+     },
+     {
+      "text": "**ch48:** Pacinian va intensivlik.",
+      "depth": 0
+     },
+     {
+      "text": "**ch58:** Wernicke sohasi, nutq.",
+      "depth": 0
+     },
+     {
+      "text": "**ch60:** retikulyar faollashtiruvchi tizim.",
+      "depth": 0
+     },
+     {
+      "text": "**ch57:** serebellum.",
+      "depth": 0
+     },
+     {
+      "text": "**ch15:** to'lqin o'tkazilishi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch53-u45"
+   }
+  ],
+  "full": [
+   {
+    "type": "paragraph",
+    "text": "This chapter describes the mechanisms whereby the ear receives sound waves, discriminates their frequencies, and transmits auditory information into the central ner vous system, where its meaning is deciphered.",
+    "pdfPage": 628,
+    "bid": "ch53-f0"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "TYMPANIC MEMBRANE AND THE OSSICULAR SYSTEM",
+    "pdfPage": 628,
+    "id": "ch53-h-tympanic-membrane-and-the-ossicular-system",
+    "bid": "ch53-f1"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "CONDUCTION OF SOUND FROM THE TYMPANIC MEMBRANE TO THE COCHLEA",
+    "pdfPage": 628,
+    "id": "ch53-h-conduction-of-sound-from-the-tympanic-membrane-to-the-cochle",
+    "bid": "ch53-f2"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 53-1** shows the _tympanic membrane_ (commonly called the _eardrum_) and the _ossicles_, which conduct sound from the tympanic membrane through the middle ear to the _cochlea_ (the inner ear). Attached to the tympanic membrane is the _handle_ of the _malleus_. The malleus is bound to the _incus_ by minute ligaments, so whenever the malleus moves, the incus moves with it. The opposite end of the incus articulates with the stem of the _stapes_, and the _faceplate_ of the stapes lies against the _membranous laby rinth_ of the cochlea in the opening of the _oval window_.",
+    "pdfPage": 628,
+    "bid": "ch53-f3"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-53-01",
+    "bid": "ch53-f4"
+   },
+   {
+    "type": "paragraph",
+    "text": "The tip end of the handle of the malleus is attached to the center of the tympanic membrane, and this point of attachment is constantly pulled by the _tensor tympani muscle_, which keeps the tympanic membrane tensed. This tension allows sound vibrations on _any_ portion of the tympanic membrane to be transmitted to the ossicles, which would not occur if the membrane were lax.",
+    "pdfPage": 628,
+    "bid": "ch53-f5"
+   },
+   {
+    "type": "paragraph",
+    "text": "The ossicles of the middle ear are suspended by liga ments in such a way that the combined malleus and incus act as a single lever, having its fulcrum approximately at the border of the tympanic membrane.",
+    "pdfPage": 628,
+    "bid": "ch53-f6"
+   },
+   {
+    "type": "paragraph",
+    "text": "The articulation of the incus with the stapes causes the stapes to (1) push forward on the oval window and on the cochlear fluid on the other side of window every time the tympanic membrane moves inward; and (2) pull backward on the fluid every time the malleus moves outward.",
+    "pdfPage": 628,
+    "pdfPageEnd": 629,
+    "bid": "ch53-f7"
+   },
+   {
+    "type": "paragraph",
+    "text": "The amplitude of movement of the stapes faceplate with each sound vibration is only three-fourths as much as the ampli tude of the handle of the malleus. Therefore, the ossicular lever system does not increase the movement distance of the stapes, as is commonly believed. Instead, the system ac tually reduces the distance but increases the _force_ of move ment about 1.3 times. In addition, the surface area of the tympanic membrane is about 55 square millimeters, where as the surface area of the stapes averages 3.2 square millim eters. This 17-fold difference times the 1.3-fold ratio of the lever system causes about 22 times as much _total force_ to be exerted on the fluid of the cochlea as is exerted by the sound waves against the tympanic membrane. Because fluid has far greater inertia than air does, increased amounts of force are necessary to cause vibration in the fluid. Therefore, the tympanic membrane and ossicular system provide _imped ance matching_ between the sound waves in air and the sound vibrations in the fluid of the cochlea. The impedance matching is about 50% to 75% of perfect for sound frequen cies between 300 and 3000 cycles/sec, which allows utiliza tion of most of the energy in the incoming sound waves.",
+    "pdfPage": 629,
+    "lead": "“Impedance Matching” by the Ossicular System.",
+    "anchor": "ch53-h-impedance-matching-by-the-ossicular-system",
+    "bid": "ch53-f8"
+   },
+   {
+    "type": "paragraph",
+    "text": "In the absence of the ossicular system and tympanic membrane, sound waves can still travel directly through the air of the middle ear and enter the cochlea at the oval window. However, the sensitivity for hearing is then 15 to 20 decibels less than for ossicular transmission—equivalent to a decrease from a medium to a barely perceptible voice level.",
+    "pdfPage": 629,
+    "bid": "ch53-f9"
+   },
+   {
+    "type": "paragraph",
+    "text": "When loud sounds are transmitted through the ossicular system and from there into the central nervous system, a reflex occurs af ter a latent period of only 40 to 80 milliseconds to cause contraction of the _stapedius muscle_ and, to a lesser extent, the _tensor tympani muscle_. The tensor tympani muscle pulls the handle of the malleus inward while the stape dius muscle pulls the stapes outward. These two forces oppose each other and thereby cause the entire ossicular system to develop increased rigidity, thus greatly reducing the ossicular conduction of low-frequency sound, mainly frequencies below 1000 cycles/sec.",
+    "pdfPage": 629,
+    "lead": "Attenuation of Sound by Contraction of the Tensor Tympani and Stapedius Muscles.",
+    "anchor": "ch53-h-attenuation-of-sound-by-contraction-of-the-tensor-tympani-an",
+    "bid": "ch53-f10"
+   },
+   {
+    "type": "paragraph",
+    "text": "This _attenuation reflex_ can reduce the intensity of lower frequency sound transmission by 30 to 40 decibels, which is about the same difference as that between a loud voice and a whisper. The function of this mechanism is believed to be twofold—to _protect_ the cochlea from dam aging vibrations caused by excessively loud sound and to _mask_ low-frequency sounds in loud environments. Mask ing usually removes a major share of the background noise and allows a person to concentrate on sounds above 1000 cycles/sec, where most of the pertinent information in voice communication is transmitted.",
+    "pdfPage": 629,
+    "bid": "ch53-f11"
+   },
+   {
+    "type": "paragraph",
+    "text": "Another function of the tensor tympani and stapedius muscles is to decrease a person’s hearing sensitivity to his or her own speech. This effect is activated by collateral nerve signals transmitted to these muscles at the same time that the brain activates the voice mechanism.",
+    "pdfPage": 629,
+    "bid": "ch53-f12"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "TRANSMISSION OF SOUND THROUGH BONE",
+    "pdfPage": 629,
+    "id": "ch53-h-transmission-of-sound-through-bone",
+    "bid": "ch53-f13"
+   },
+   {
+    "type": "paragraph",
+    "text": "Because the inner ear, the _cochlea_, is embedded in a bony cavity in the temporal bone, called the _bony labyrinth_, vibra tions of the entire skull can cause fluid vibrations in the cochlea. Therefore, under appropriate conditions, a tuning fork or an electronic vibrator placed on any bony protuber ance of the skull, but especially on the mastoid process near the ear, causes the person to hear the sound. However, the energy available even in loud sound in the air is not sufficient to cause hearing via bone conduction unless a special electro mechanical sound-amplifying device is applied to the bone.",
+    "pdfPage": 629,
+    "bid": "ch53-f14"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "COCHLEA",
+    "pdfPage": 629,
+    "id": "ch53-h-cochlea",
+    "bid": "ch53-f15"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "FUNCTIONAL ANATOMY OF THE COCHLEA",
+    "pdfPage": 629,
+    "id": "ch53-h-functional-anatomy-of-the-cochlea",
+    "bid": "ch53-f16"
+   },
+   {
+    "type": "paragraph",
+    "text": "The cochlea is a system of coiled tubes, shown in **Figure 53-1** and in cross section in **Figure 53-2**. It con sists of three tubes coiled side by side: (1) the _scala ves tibuli;_ (2) the _scala media;_ and (3) the _scala tympani._ The scala vestibuli and scala media are separated from each other by _Reissner’s membrane_ (also called the _vestibular membrane_), shown in **Figure 53-2**B; the scala tympani and scala media are separated from each other by the _basilar membrane_. On the surface of the basilar mem brane lies the _organ of Corti_, which contains a series of electromechanically sensitive cells, the _hair cells_. They are the receptive end organs that generate nerve impulses in response to sound vibrations.",
+    "pdfPage": 629,
+    "bid": "ch53-f17"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-53-02",
+    "bid": "ch53-f18"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 53-3** diagrams the functional parts of the uncoiled cochlea for conduction of sound vibrations. First, note that Reissner’s membrane is missing from this figure. This membrane is so thin and so easily moved that it does not obstruct the passage of sound vibrations from the scala vestibuli into the scala media. Therefore, as far as fluid conduction of sound is concerned, the scala vestibuli and scala media are considered to be a single chamber. As discussed later, Reissner’s membrane maintains a special kind of fluid in the scala media that is required for normal function of the sound-receptive hair cells.",
+    "pdfPage": 629,
+    "bid": "ch53-f19"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-53-03",
+    "bid": "ch53-f20"
+   },
+   {
+    "type": "paragraph",
+    "text": "Sound vibrations enter the scala vestibuli from the faceplate of the stapes at the oval window. The faceplate covers this window and is connected with the window’s edges by a loose annular ligament so that it can move inward and outward with the sound vibrations. Inward movement causes the fluid to move forward in the scala vestibuli and scala media, and outward movement causes the fluid to move backward.",
+    "pdfPage": 629,
+    "bid": "ch53-f21"
+   },
+   {
+    "type": "paragraph",
+    "text": "The basilar membrane is a fibrous membrane that sepa rates the scala media from the scala tympani. It contains 20,000 to 30,000 _basilar fibers_ that project from the bony center of the cochlea, the _modiolus_, toward the outer wall. These fibers are stiff, elastic, reedlike structures that are fixed at their basal ends in the central bony structure of the cochlea (the modiolus) but are not fixed at their distal ends, except that the distal ends are embedded in the loose basilar membrane. Because the fibers are stiff and free at one end, they can vibrate like the reeds of a harmonica.",
+    "pdfPage": 630,
+    "lead": "Basilar Membrane and Resonance in the Cochlea.",
+    "anchor": "ch53-h-basilar-membrane-and-resonance-in-the-cochlea",
+    "bid": "ch53-f22"
+   },
+   {
+    "type": "paragraph",
+    "text": "The _lengths_ of the basilar fibers _increase_ progressively, beginning at the oval window and going from the base of the cochlea to the apex, increasing from a length of about 0.04 millimeter near the oval and round windows to 0.5 millimeter at the tip of the cochlea (the “_helicotrema_”), a 12-fold increase in length. The _diameters_ of the fibers, however, _decrease_ from the oval window to the helicotrema, so their overall stiff ness decreases more than 100-fold. As a result, the stiff, short fibers near the oval window of the cochlea vibrate best at a very high frequency, whereas the long, limber fibers near the tip of the cochlea vibrate best at a low frequency.",
+    "pdfPage": 630,
+    "bid": "ch53-f23"
+   },
+   {
+    "type": "paragraph",
+    "text": "Thus, _high-frequency resonance_ of the basilar mem brane occurs near the base, where the sound waves enter the cochlea through the oval window. However, _low-frequency resonance_ occurs near the helicotrema, mainly because of the less stiff fibers but also because of increased “loading” with extra masses of fluid that must vibrate along the cochlear tubules.",
+    "pdfPage": 630,
+    "bid": "ch53-f24"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "TRANSMISSION OF SOUND WAVES IN THE COCHLEA—“TRAVELING WAVE”",
+    "pdfPage": 630,
+    "id": "ch53-h-transmission-of-sound-waves-in-the-cochlea-traveling-wave",
+    "bid": "ch53-f25"
+   },
+   {
+    "type": "paragraph",
+    "text": "When the foot of the stapes moves inward against the _oval_ window, the _round_ window must bulge outward because the cochlea is bounded on all sides by bony walls. The ini tial effect of a sound wave entering at the oval window is to cause the basilar membrane at the base of the cochlea to bend in the direction of the round window. However, the elastic tension that is built up in the basilar fibers as they bend toward the round window initiates a fluid wave that “travels” along the basilar membrane toward the helico trema. **Figure 53-4A** shows movement of a high-frequency wave down the basilar membrane, **Figure 53-4B** shows a medium-frequency wave, and **Figure 53-4C** shows a very low-frequency wave. Movement of the wave along the basi lar membrane is comparable to the movement of a pressure wave along the arterial walls, discussed in Chapter 15; it is also comparable to a wave that travels along the surface of a pond.",
+    "pdfPage": 630,
+    "bid": "ch53-f26"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-53-04",
+    "bid": "ch53-f27"
+   },
+   {
+    "type": "paragraph",
+    "text": "Note in **Figure 53-4** the different patterns of transmission for sound waves of dif ferent frequencies. Each wave is relatively weak at the outset but becomes strong when it reaches the portion of the basilar membrane that has a natural resonant fre quency equal to the respective sound frequency. At this point, the basilar membrane can vibrate back and forth with such ease that the energy in the wave is dissipated. Consequently, the wave dies at this point and fails to travel the remaining distance along the basilar membrane.",
+    "pdfPage": 630,
+    "lead": "Vibration Patterns of the Basilar Membrane for Different Sound Frequencies.",
+    "anchor": "ch53-h-vibration-patterns-of-the-basilar-membrane-for-different-sou",
+    "bid": "ch53-f28"
+   },
+   {
+    "type": "paragraph",
+    "text": "Thus, a high-frequency sound wave travels only a short distance along the basilar membrane before it reaches its resonant point and dies, a medium-frequency sound wave travels about halfway and then dies, and a very lowfrequency sound wave travels the entire distance along the membrane.",
+    "pdfPage": 631,
+    "bid": "ch53-f29"
+   },
+   {
+    "type": "paragraph",
+    "text": "Another feature of the traveling wave is that it travels fast along the initial portion of the basilar membrane but becomes progressively slower as it goes farther into the cochlea. The cause of this difference is the high coefficient of elasticity of the basilar fibers near the oval window and a progressively decreasing coefficient farther along the mem brane. This rapid initial transmission of the wave allows the high-frequency sounds to travel far enough into the cochlea to spread out and separate from one another on the basilar membrane. Without this rapid initial transmission, all the high-frequency waves would be bunched together within the first millimeter or so of the basilar membrane, and their frequencies could not be discriminated.",
+    "pdfPage": 631,
+    "bid": "ch53-f30"
+   },
+   {
+    "type": "paragraph",
+    "text": "The dashed curves of **Figure 53-5A** show the position of a sound wave on the basilar membrane when the stapes is (a) all the way inward, (b) has moved back to the neutral point, (c) is all the way outward, and (d) has moved back again to the neutral point but is mov ing inward. The shaded area around these different waves shows the extent of vibration of the basilar membrane during a complete vibratory cycle. This is the _amplitude pattern of vibration_ of the basilar membrane for this par ticular sound frequency.",
+    "pdfPage": 631,
+    "lead": "Vibration Amplitude Pattern of the Basilar Membrane.",
+    "anchor": "ch53-h-vibration-amplitude-pattern-of-the-basilar-membrane",
+    "bid": "ch53-f31"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-53-05",
+    "bid": "ch53-f32"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 53-5B** shows the amplitude patterns of vibra tion for different frequencies, demonstrating that the maximum amplitude for sound at 8000 cycles/sec occurs near the base of the cochlea, whereas that for frequencies less than 200 cycles/sec is all the way at the tip of the basi lar membrane near the helicotrema, the minute opening whereby the scala tympani and scala vestibuli communi cate (**Figure 53-2**).",
+    "pdfPage": 631,
+    "bid": "ch53-f33"
+   },
+   {
+    "type": "paragraph",
+    "text": "The principal method whereby sound frequencies are discriminated from one another is based on the “place” of maximum stimulation of the nerve fibers from the organ of Corti lying on the basilar membrane, as explained in the next section.",
+    "pdfPage": 631,
+    "bid": "ch53-f34"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "FUNCTION OF THE ORGAN OF CORTI",
+    "pdfPage": 631,
+    "id": "ch53-h-function-of-the-organ-of-corti",
+    "bid": "ch53-f35"
+   },
+   {
+    "type": "paragraph",
+    "text": "The organ of Corti, shown in **Figure 53-2** and **Figure 53-6**, is the receptor organ that generates nerve impulses in response to vibration of the basilar membrane. Note that the organ of Corti lies on the surface of the basilar fibers and basilar membrane. The actual sensory recep tors in the organ of Corti are two specialized types of nerve cells called _hair cells_—a single row of _internal_ (or “inner”) _hair cells_, numbering about 3500 and measuring about 12 micrometers in diameter, and three or four rows of _external_ (or “outer”) _hair cells_, numbering about 12,000 and having diameters of only about 8 micrometers. The bases and sides of the hair cells synapse with a network of cochlear nerve endings. Between 90% and 95% of these endings terminate on the inner hair cells, emphasizing their special importance for detection of sound.",
+    "pdfPage": 631,
+    "bid": "ch53-f36"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-53-06",
+    "bid": "ch53-f37"
+   },
+   {
+    "type": "paragraph",
+    "text": "The nerve fibers stimulated by the hair cells lead to the _spiral ganglion of Corti_, which lies in the modiolus (cen ter) of the cochlea. The spiral ganglion neuronal cells send axons—a total of about 30,000—into the _cochlear nerve_ and then into the central nervous system at the level of the upper medulla. The relation of the organ of Corti to the spiral ganglion and to the cochlear nerve is shown in **Figure 53-2**.",
+    "pdfPage": 631,
+    "bid": "ch53-f38"
+   },
+   {
+    "type": "paragraph",
+    "text": "Note in **Figure 53-6** that minute hairs, or _stereocilia_, project upward from the hair cells and either touch or are embedded in the surface gel coating of the _tectorial membrane_, which lies above the stereocilia in the scala media. These hair cells are similar to the hair cells found in the macula and cristae ampul laris of the vestibular apparatus, discussed in Chapter 56. Bending of the hairs in one direction depolarizes the hair cells, and bending in the opposite direction hyperpolar izes them. This in turn excites the auditory nerve fibers synapsing with their bases.",
+    "pdfPage": 632,
+    "lead": "Excitation of the Hair Cells.",
+    "anchor": "ch53-h-excitation-of-the-hair-cells",
+    "bid": "ch53-f39"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 53-7A** shows the mechanism whereby vibra tion of the basilar membrane excites the hair endings. The outer ends of the hair cells are fixed tightly in a rigid struc ture composed of a flat plate, called the _reticular lamina_, supported by triangular _rods of Corti_, which are attached tightly to the basilar fibers. The basilar fibers, the rods of Corti, and the reticular lamina move as a rigid unit.",
+    "pdfPage": 632,
+    "bid": "ch53-f40"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-53-07",
+    "bid": "ch53-f41"
+   },
+   {
+    "type": "paragraph",
+    "text": "Upward movement of the basilar fiber rocks the retic ular lamina upward and _inward_ toward the modiolus. Then, when the basilar membrane moves downward, the reticular lamina rocks downward and _outward_. The inward and outward motion causes the hairs on the hair cells to shear back and forth against the tectorial mem brane. Thus, the hair cells are excited whenever the basilar membrane vibrates.",
+    "pdfPage": 632,
+    "bid": "ch53-f42"
+   },
+   {
+    "type": "paragraph",
+    "text": "Even though there are three to four times as many outer hair cells as inner hair cells, about 90% of the auditory nerve fibers are stimulated by the inner cells rather than by the outer cells. Nonetheless, if the outer cells are damaged while the inner cells remain fully func tional, a large amount of hearing loss occurs. Therefore, it has been proposed that the outer hair cells in some way control the sensitivity of the inner hair cells at different sound pitches, a phenomenon called “_tuning_” of the re ceptor system. In support of this concept, a large number of retrograde nerve fibers pass from the brain stem to the vicinity of the outer hair cells. Stimulating these nerve fib ers can actually cause shortening of the outer hair cells and possibly also change their degree of stiffness. These effects suggest a retrograde nervous mechanism for con trol of the ear’s sensitivity to different sound pitches, acti vated through the outer hair cells.",
+    "pdfPage": 632,
+    "lead": "Auditory Signals Are Transmitted Mainly by the Inner Hair Cells.",
+    "pdfPageEnd": 633,
+    "anchor": "ch53-h-auditory-signals-are-transmitted-mainly-by-the-inner-hair-ce",
+    "bid": "ch53-f43"
+   },
+   {
+    "type": "paragraph",
+    "text": "The stereocilia (i.e., the “hairs” pro truding from the ends of the hair cells) are stiff structures because each has a rigid protein framework. Each hair cell has about 100 stereocilia on its apical border. These ste reocilia become progressively longer on the side of the hair cell away from the modiolus. The tops of the shorter ste reocilia are attached by thin filaments to the back sides of their adjacent longer stereocilia. Therefore, whenever the cilia are bent in the direction of the longer ones, the tips of the smaller stereocilia are tugged outward from the surface of the hair cell. This causes a mechanical transduction that opens 200 to 300 cation-conducting channels, allowing for the rapid movement of positively charged potassium ions from the surrounding scala media fluid into the stereocilia, which causes depolarization of the hair cell membrane (see **Figure 53-7B**). The depolarization opens voltage-sensitive calcium channels and causes influx of calcium ions, which augments the depolarization. Repolarization of the hair cell occurs mainly by exit of potassium ions through cal cium ion–sensitive potassium channels.",
+    "pdfPage": 633,
+    "lead": "Hair Cell Receptor Potentials and Excitation of Auditory Nerve Fibers.",
+    "anchor": "ch53-h-hair-cell-receptor-potentials-and-excitation-of-auditory-ner",
+    "bid": "ch53-f44"
+   },
+   {
+    "type": "paragraph",
+    "text": "Thus, when the basilar fibers bend toward the scala vestibuli, the hair cells depolarize, and in the opposite direction they hyperpolarize, thereby generating an alter nating hair cell receptor potential that, in turn, stimulates the cochlear nerve endings that synapse with the bases of the hair cells. It is believed that the rapidly acting neu rotransmitter glutamate is released by the hair cells at these synapses during depolarization.",
+    "pdfPage": 633,
+    "bid": "ch53-f45"
+   },
+   {
+    "type": "paragraph",
+    "text": "To explain even more fully the electrical potentials generated by the hair cells, we need to explain another electrical phenomenon called the _endo cochlear potential_. The scala media is filled with a fluid called _endolymph_, in contradistinction to the _perilymph_ present in the scala vestibuli and scala tympani. The scala vestibuli and scala tympani communicate directly with the subarachnoid space around the brain, so the perilymph is almost identical to cerebrospinal fluid. Conversely, the endolymph that fills the scala media is an entirely different fluid secreted by the _stria vascularis_, a highly vascular area on the outer wall of the scala media. Endolymph contains a high concentration of potassium and a low concentration of sodium, which is exactly opposite to the contents of perilymph.",
+    "pdfPage": 633,
+    "lead": "Endocochlear Potential.",
+    "boxed": true,
+    "bid": "ch53-f46"
+   },
+   {
+    "type": "paragraph",
+    "text": "An electrical potential of about +80 millivolts exists all the time between endolymph and perilymph, with posi tivity inside the scala media and negativity outside. This is called the _endocochlear potential_, and it is generated by continual secretion of positive potassium ions into the sca la media by the stria vascularis.",
+    "pdfPage": 633,
+    "boxed": true,
+    "bid": "ch53-f47"
+   },
+   {
+    "type": "paragraph",
+    "text": "The importance of the endocochlear potential is that the tops of the hair cells project through the reticular lamina and are bathed by the endolymph of the scala media, whereas per ilymph bathes the lower bodies of the hair cells. Furthermore, the hair cells have a negative intracellular potential of −70 millivolts with respect to the perilymph but −150 millivolts with respect to the endolymph at their upper surfaces, where the hairs project through the reticular lamina and into the endolymph. It is believed that this high electrical potential at the tips of the stereocilia sensitizes the cell an extra amount, thereby increasing its ability to respond to the slightest sound.",
+    "pdfPage": 633,
+    "boxed": true,
+    "bid": "ch53-f48"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "DETERMINATION OF SOUND FREQUENCY—THE “PLACE” PRINCIPLE",
+    "pdfPage": 633,
+    "id": "ch53-h-determination-of-sound-frequency-the-place-principle",
+    "bid": "ch53-f49"
+   },
+   {
+    "type": "paragraph",
+    "text": "From earlier discussions in this chapter, it is apparent that low-frequency sounds cause maximal activation of the basilar membrane near the apex of the cochlea, and high-frequency sounds activate the basilar membrane near the base of the cochlea. Intermediate-frequency sounds activate the mem brane at intermediate distances between the two extremes. Furthermore, there is spatial organization of the nerve fibers in the cochlear pathway, all the way from the cochlea to the cerebral cortex. Recording of signals in the auditory tracts of the brain stem and in the auditory receptive fields of the cere bral cortex shows that specific brain neurons are activated by specific sound frequencies. Therefore, the _major_ method used by the nervous system to detect different sound frequen cies is to determine the positions along the basilar membrane that are stimulated the most, called the _place principle_ for the determination of sound frequency.",
+    "pdfPage": 633,
+    "bid": "ch53-f50"
+   },
+   {
+    "type": "paragraph",
+    "text": "Referring again to **Figure 53-5**, one can see that the distal end of the basilar membrane at the helicotrema is stimulated by all sound frequencies below 200 cycles/sec. Therefore, it has been difficult to understand from the place principle how one can differentiate between low sound fre quencies in the range of 200 down to 20 cycles/sec. These low frequencies have been postulated to be discriminated mainly by the so-called _volley_ or _frequency principle_. That is, low-frequency sounds, from 20 to 1500 to 2000 cycles/ sec, can cause volleys of nerve impulses synchronized at the same frequencies, and these volleys are transmitted by the cochlear nerve into the cochlear nuclei of the brain. It is further suggested that the cochlear nuclei can distinguish the different frequencies of the volleys. In fact, destruction of the entire apical half of the cochlea, which destroys the basilar membrane where all lower frequency sounds are normally detected, does not totally eliminate discrimina tion of the lower frequency sounds.",
+    "pdfPage": 633,
+    "bid": "ch53-f51"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "DETERMINATION OF LOUDNESS",
+    "pdfPage": 633,
+    "id": "ch53-h-determination-of-loudness",
+    "bid": "ch53-f52"
+   },
+   {
+    "type": "paragraph",
+    "text": "Loudness is determined by the auditory system in at least three ways.",
+    "pdfPage": 633,
+    "bid": "ch53-f53"
+   },
+   {
+    "type": "paragraph",
+    "text": "First, as the sound becomes louder, the amplitude of vibration of the basilar membrane and hair cells also increases so that the hair cells excite the nerve endings at more rapid rates.",
+    "pdfPage": 633,
+    "bid": "ch53-f54"
+   },
+   {
+    "type": "paragraph",
+    "text": "Second, as the amplitude of vibration increases, it causes more and more of the hair cells on the fringes of the resonating portion of the basilar membrane to become stimulated, thus causing _spatial summation_ of impulses— that is, transmission through many nerve fibers rather than through only a few.",
+    "pdfPage": 634,
+    "bid": "ch53-f55"
+   },
+   {
+    "type": "paragraph",
+    "text": "Third, the outer hair cells do not become stimulated significantly until vibration of the basilar membrane reaches high intensity, and stimulation of these cells pre sumably apprises the nervous system that the sound is loud.",
+    "pdfPage": 634,
+    "bid": "ch53-f56"
+   },
+   {
+    "type": "paragraph",
+    "text": "As pointed out in Chapter 47, a person interprets changes in intensity of sensory stimuli approximately in propor tion to an inverse power function of the actual intensity. In the case of sound, the interpreted sensation changes approximately in proportion to the cube root of the ac tual sound intensity. To express this concept in another way, the ear can discriminate differences in sound inten sity from the softest whisper to the loudest possible noise, representing an _approximately 1 trillion times_ increase in sound energy or 1 million times increase in amplitude of movement of the basilar membrane. Yet, the ear inter prets this much difference in sound level as approximately a 10,000-fold change. Thus, the scale of intensity is greatly “compressed” by the sound perception mechanisms of the auditory system, which allows a person to interpret dif ferences in sound intensities over a far wider range than would be possible were it not for compression of the in tensity scale.",
+    "pdfPage": 634,
+    "lead": "Detection of Changes in Loudness—The Power Law.",
+    "anchor": "ch53-h-detection-of-changes-in-loudness-the-power-law",
+    "bid": "ch53-f57"
+   },
+   {
+    "type": "paragraph",
+    "text": "Because of the extreme changes in sound intensities that the ear can detect and discriminate, sound intensities are usually expressed in terms of the logarithm of their actual intensities. A 10-fold increase in sound en ergy is called 1 _bel_, and 0.1 bel is called 1 _decibel_. One decibel represents an actual increase in sound energy of 1.26 times. Another reason for using the decibel system to express changes in loudness is that in the usual sound intensity range for communication, the ears can barely distinguish an approximately 1-decibel _change_ in sound intensity.",
+    "pdfPage": 634,
+    "lead": "Decibel Unit.",
+    "anchor": "ch53-h-decibel-unit",
+    "bid": "ch53-f58"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 53-8** shows the pressure thresholds at which sounds of different frequencies can barely be heard by the ear. This figure demonstrates that a 3,000 cy cles/sec sound can be heard even when its intensity is as low as 70 decibels below 1 dyne/cm2 sound pressure level, which is one ten-millionth microwatt per square centim eter. Conversely, a 100 cycles/sec sound can be detected only if its intensity is 10,000 times as great as this.",
+    "pdfPage": 634,
+    "lead": "Threshold for Hearing Sound at Different Frequencies.",
+    "anchor": "ch53-h-threshold-for-hearing-sound-at-different-frequencies",
+    "bid": "ch53-f59"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-53-08",
+    "bid": "ch53-f60"
+   },
+   {
+    "type": "paragraph",
+    "text": "The frequencies of sound that a young person can hear are between 20 and 20,000 cycles/sec. However, referring again to **Figure 53-8**, we see that the sound range depends to a great extent on loudness. If the loudness is 60 decibels below 1 dyne/cm2 sound pressure level, the sound range is 500 to 5000 cy cles/sec; only with intense sounds can the complete range of 20 to 20,000 cycles be achieved. In old age, this fre quency range is usually shortened to 50 to 8,000 cycles/ sec or less, as discussed later in this chapter.",
+    "pdfPage": 634,
+    "lead": "Frequency Range of Hearing.",
+    "anchor": "ch53-h-frequency-range-of-hearing",
+    "bid": "ch53-f61"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "CENTRAL AUDITORY MECHANISMS",
+    "pdfPage": 634,
+    "id": "ch53-h-central-auditory-mechanisms",
+    "bid": "ch53-f62"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "AUDITORY NERVOUS PATHWAYS",
+    "pdfPage": 634,
+    "id": "ch53-h-auditory-nervous-pathways",
+    "bid": "ch53-f63"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 53-9** shows the major auditory pathways. Nerve fibers from the _spiral ganglion of Corti_ enter the _dorsal_ and _ventral cochlear nuclei_ located in the upper part of the medulla. At this point, all the fibers synapse, and secondorder neurons pass mainly to the opposite side of the brain stem to terminate in the _superior olivary nucleus_. A few second-order fibers also pass to the superior olivary nucleus on the same side.",
+    "pdfPage": 634,
+    "bid": "ch53-f64"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-53-09",
+    "bid": "ch53-f65"
+   },
+   {
+    "type": "paragraph",
+    "text": "From the superior olivary nucleus, the auditory path way passes upward through the _lateral lemniscus_. Some of the fibers terminate in the _nucleus of the lateral lem niscus_, but many fibers bypass this nucleus and travel on to the inferior colliculus, where all or almost all the audi tory fibers synapse. From there, the pathway passes to the _medial geniculate nucleus_, where all the fibers do synapse. Finally, the pathway proceeds via _auditory radiation_ to the _auditory cortex_, located mainly in the superior gyrus of the temporal lobe.",
+    "pdfPage": 634,
+    "bid": "ch53-f66"
+   },
+   {
+    "type": "paragraph",
+    "text": "Several important points should be noted. First, signals from both ears are transmitted through the pathways of both sides of the brain, with a preponderance of transmis sion in the contralateral pathway. In at least three places in the brain stem, crossing over occurs between the two pathways: (1) in the trapezoid body; (2) in the commissure between the two nuclei of the lateral lemnisci; and (3) in the commissure connecting the two inferior colliculi.",
+    "pdfPage": 634,
+    "bid": "ch53-f67"
+   },
+   {
+    "type": "paragraph",
+    "text": "Second, many collateral fibers from the auditory tracts pass directly into the _reticular activating system of the brain stem_. This system projects diffusely upward in the brain stem and downward into the spinal cord and activates the entire nervous system in response to loud sounds. Other collaterals go to the _vermis of the cerebel lum_, which is also activated instantaneously in the event of a sudden noise.",
+    "pdfPage": 634,
+    "pdfPageEnd": 635,
+    "bid": "ch53-f68"
+   },
+   {
+    "type": "paragraph",
+    "text": "Third, a high degree of spatial orientation is maintained in the fiber tracts from the cochlea all the way to the cor tex. In fact, there are _three spatial patterns_ for termination of the different sound frequencies in the cochlear nuclei, _two patterns_ in the inferior colliculi, _one precise pattern_ for discrete sound frequencies in the auditory cortex, and _at least five other less precise patterns_ in the auditory cor tex and auditory association areas.",
+    "pdfPage": 635,
+    "bid": "ch53-f69"
+   },
+   {
+    "type": "paragraph",
+    "text": "Single nerve fibers entering the cochlear nuclei from the auditory nerve can fire at rates up to at least 1000/ sec, with the rate being determined mainly by the loud ness of the sound. At sound frequencies up to 2000 to 4000 cycles/sec, the auditory nerve impulses are often synchro nized with the sound waves, but they do not necessarily occur with every wave.",
+    "pdfPage": 635,
+    "lead": "Firing Rates at Different Levels of the Auditory Pathways.",
+    "boxed": true,
+    "bid": "ch53-f70"
+   },
+   {
+    "type": "paragraph",
+    "text": "In the auditory tracts of the brain stem, the firing is usually no longer synchronized with the sound frequency, except at sound frequencies below 200 cycles/sec. Above the level of the inferior colliculi, even this synchronization is mainly lost. These findings demonstrate that the sound signals are not transmitted unchanged directly from the ear to the higher levels of the brain; instead, information from the sound signals begins to be dissected from the impulse traffic at levels as low as the cochlear nuclei. We will have more to say about this subject later, especially in relation to perception of direction from which sound comes.",
+    "pdfPage": 635,
+    "boxed": true,
+    "bid": "ch53-f71"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "FUNCTION OF THE CEREBRAL CORTEX IN HEARING",
+    "pdfPage": 635,
+    "id": "ch53-h-function-of-the-cerebral-cortex-in-hearing",
+    "bid": "ch53-f72"
+   },
+   {
+    "type": "paragraph",
+    "text": "The projection area of auditory signals to the cerebral cor tex is shown in **Figure 53-10**, which demonstrates that the auditory cortex lies principally on the _supratempo ral plane of the superior temporal gyrus_ but also extends onto the _lateral side of the temporal lobe_, over much of the _insular cortex_, and even onto the lateral portion of the _parietal operculum_.",
+    "pdfPage": 635,
+    "bid": "ch53-f73"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-53-10",
+    "bid": "ch53-f74"
+   },
+   {
+    "type": "paragraph",
+    "text": "Two separate subdivisions are shown in **Figure 5310**—the _primary auditory cortex_ and the _auditory asso ciation cortex_ (also called the _secondary auditory cortex_). The primary auditory cortex is directly excited by projec tions from the medial geniculate body, whereas the audi tory association areas are excited secondarily by impulses from the primary auditory cortex, as well as by some pro jections from thalamic association areas adjacent to the medial geniculate body.",
+    "pdfPage": 635,
+    "bid": "ch53-f75"
+   },
+   {
+    "type": "paragraph",
+    "text": "At least six _tonotopic maps_ have been described in the primary auditory cortex and auditory association areas. In each of these maps, high-frequency sounds excite neurons at one end of the map, whereas low-frequency sounds excite neurons at the opposite end. In most maps, the low-frequency sounds are located ante riorly, as shown in **Figure 53-10**, and the high-frequency sounds are located posteriorly. This setup is not true for all the maps.",
+    "pdfPage": 635,
+    "lead": "Sound Frequency Perception in the Primary Auditory Cortex.",
+    "anchor": "ch53-h-sound-frequency-perception-in-the-primary-auditory-cortex",
+    "bid": "ch53-f76"
+   },
+   {
+    "type": "paragraph",
+    "text": "Why does the auditory cortex have so many different tonotopic maps? The answer, presumably, is that each of the separate areas dissects out some specific feature of the sounds. For example, one of the large maps in the pri mary auditory cortex almost certainly discriminates the sound frequencies and gives the person the psychic sen sation of sound pitches. Another map is probably used to detect the direction from which the sound comes. Other auditory cortex areas detect special qualities, such as the sudden onset of sounds, or perhaps special modulations, such as noise versus pure frequency sounds.",
+    "pdfPage": 635,
+    "pdfPageEnd": 636,
+    "bid": "ch53-f77"
+   },
+   {
+    "type": "paragraph",
+    "text": "The frequency range to which each individual neuron in the auditory cortex responds is much narrower than that in the cochlear and brain stem relay nuclei. Referring to **Figure 53-5B**, note that the basilar membrane near the base of the cochlea is stimulated by sounds of all frequen cies and, in the cochlear nuclei, this same breadth of sound representation is found. Yet, by the time the excitation has reached the cerebral cortex, most sound-responsive neurons respond only to a narrow range of frequencies rather than to a broad range. Therefore, somewhere along the pathway, processing mechanisms “sharpen” the fre quency response. This sharpening effect is believed to be caused mainly by lateral inhibition, discussed in Chapter 47 in relation to mechanisms for transmitting informa tion in nerves. That is, stimulation of the cochlea at one frequency inhibits sound frequencies on both sides of this primary frequency; this inhibition is caused by collateral fibers angling off the primary signal pathway and exert ing inhibitory influences on adjacent pathways. This same effect is important in sharpening patterns of somesthetic images, visual images, and other types of sensations.",
+    "pdfPage": 636,
+    "bid": "ch53-f78"
+   },
+   {
+    "type": "paragraph",
+    "text": "Many of the neurons in the auditory cortex, _especially in the auditory association cortex_, do not respond only to specific sound frequencies in the ear. It is believed that these neurons “associate” different sound frequen cies with one another or associate sound information with information from other sensory areas of the cortex.",
+    "pdfPage": 636,
+    "bid": "ch53-f79"
+   },
+   {
+    "type": "paragraph",
+    "text": "Indeed, the parietal portion of the auditory association cortex partly overlaps somatosensory area II, which could provide an opportunity for the association of auditory information with somatosensory information.",
+    "pdfPage": 636,
+    "bid": "ch53-f80"
+   },
+   {
+    "type": "paragraph",
+    "text": "Complete bilateral removal of the auditory cortex does not prevent a cat or monkey from detecting sounds or reacting in a crude manner to sounds. However, it does greatly reduce or sometimes even abolish the animal’s ability to discriminate different sound pitches and espe cially _patterns of sound_. For example, an animal that has been trained to recognize a combination or sequence of tones, one following the other in a particular pattern, los es this ability when the auditory cortex is destroyed; fur thermore, the animal cannot relearn this type of response. Therefore, the auditory cortex is especially important in the discrimination of _tonal_ and _sequential sound patterns_.",
+    "pdfPage": 636,
+    "lead": "Discrimination of Sound “Patterns” by the Auditory Cortex.",
+    "anchor": "ch53-h-discrimination-of-sound-patterns-by-the-auditory-cortex",
+    "bid": "ch53-f81"
+   },
+   {
+    "type": "paragraph",
+    "text": "Destruction of both primary auditory cortices in the human being greatly reduces one’s sensitivity for hear ing. Destruction of one side only slightly reduces hearing in the opposite ear; it does not cause deafness in the ear because of many crossover connections from side to side in the auditory neural pathway. However, it does affect one’s ability to localize the source of a sound because comparative signals in both cortices are required for sound localization.",
+    "pdfPage": 636,
+    "bid": "ch53-f82"
+   },
+   {
+    "type": "paragraph",
+    "text": "Lesions that affect the auditory association areas but not the primary auditory cortex do not decrease a per son’s ability to hear and differentiate sound tones or even to interpret at least simple patterns of sound. However, the person is often unable to interpret the _meaning_ of the sound heard. For example, lesions in the posterior portion of the superior temporal gyrus, which is called _Wernicke’s area_ and is part of the auditory association cortex, often make it impossible for a person to interpret the meanings of words even though he or she hears them perfectly well and can even repeat them. These functions of the auditory association areas and their relation to the overall intellec tual functions of the brain are discussed in Chapter 58.",
+    "pdfPage": 636,
+    "bid": "ch53-f83"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "DETERMINATION OF THE DIRECTION FROM WHICH SOUND COMES",
+    "pdfPage": 636,
+    "id": "ch53-h-determination-of-the-direction-from-which-sound-comes",
+    "bid": "ch53-f84"
+   },
+   {
+    "type": "paragraph",
+    "text": "A person determines the horizontal direction from which sound comes by two principal means: (1) the time lag between the entry of sound into one ear and its entry into the opposite ear; and (2) the difference between the inten sities of the sounds in the two ears.",
+    "pdfPage": 636,
+    "bid": "ch53-f85"
+   },
+   {
+    "type": "paragraph",
+    "text": "The first mechanism functions best at frequencies below 3000 cycles/sec, and the second mechanism oper ates best at higher frequencies because the head is a greater sound barrier at these frequencies. The time lag mechanism discriminates direction much more exactly than the intensity mechanism because it does not depend on extraneous factors but only on the exact interval of time between two acoustical signals. If a person is look ing straight toward the source of the sound, the sound reaches both ears at exactly the same instant, whereas if the right ear is closer to the sound than the left ear is, the sound signals from the right ear enter the brain ahead of those from the left ear.",
+    "pdfPage": 636,
+    "pdfPageEnd": 637,
+    "bid": "ch53-f86"
+   },
+   {
+    "type": "paragraph",
+    "text": "These two mechanisms cannot tell whether the sound is emanating from in front of or behind the person or from above or below. This discrimination is achieved mainly by the _pinnae_ (the visible outer part), which act as funnels to direct the sound into the two ears. The shape of the pinna changes the _quality_ of the sound entering the ear, depending on the direction from which the sound comes. It changes the quality by emphasizing specific sound fre quencies from the different directions.",
+    "pdfPage": 637,
+    "bid": "ch53-f87"
+   },
+   {
+    "type": "paragraph",
+    "text": "Destruction of the auditory cortex on both sides of the brain causes loss of almost all ability to detect the direction from which sound comes. Yet, the neural analyses for this detec tion process begin in the _superior olivary nuclei_ in the brain stem, even though the neural pathways all the way from these nuclei to the cortex are required for interpretation of the signals. The mechanism is believed to be the following.",
+    "pdfPage": 637,
+    "lead": "Neural Mechanisms for Detecting Sound Direction.",
+    "anchor": "ch53-h-neural-mechanisms-for-detecting-sound-direction",
+    "bid": "ch53-f88"
+   },
+   {
+    "type": "paragraph",
+    "text": "The superior olivary nucleus is divided into two sec tions: (1) the _medial superior olivary nucleus;_ and (2) the _lateral superior olivary nucleus_. The lateral nucleus is con cerned with detecting the direction from which the sound is coming, presumably by simply comparing the _difference in intensities of the sound_ reaching the two ears and send ing an appropriate signal to the auditory cortex to esti mate the direction.",
+    "pdfPage": 637,
+    "bid": "ch53-f89"
+   },
+   {
+    "type": "paragraph",
+    "text": "The _medial superior olivary nucleus_, however, has a specific mechanism for _detecting the time lag between acoustical signals entering the two ears_. This nucleus con tains large numbers of neurons that have two major den drites, one projecting to the right and the other to the left. The acoustical signal from the right ear impinges on the right dendrite, and the signal from the left ear impinges on the left dendrite. The intensity of excitation of each neuron is highly sensitive to a specific time lag between the two acoustical signals from the two ears. The neurons near one border of the nucleus respond maximally to a short time lag, whereas those near the opposite border respond to a long time lag; those in between respond to intermediate time lags.",
+    "pdfPage": 637,
+    "bid": "ch53-f90"
+   },
+   {
+    "type": "paragraph",
+    "text": "Thus, a spatial pattern of neuronal stimulation develops in the medial superior olivary nucleus, with sound from directly in front of the head stimulating one set of olivary neurons maximally and sounds from different side angles stimulating other sets of neurons on opposite sides. This spatial orientation of signals is then transmitted to the auditory cortex, where sound direction is determined by the locus of the maximally stimulated neurons. All these signals for determining sound direction are believed to be transmitted through a different pathway and excite a different locus in the cerebral cortex from the transmis sion pathway and termination locus for tonal patterns of sound.",
+    "pdfPage": 637,
+    "bid": "ch53-f91"
+   },
+   {
+    "type": "paragraph",
+    "text": "This mechanism for detection of sound direction indi cates again how specific information in sensory signals is dissected out as the signals pass through different levels of neuronal activity. In this case, the “quality” of sound direc tion is separated from the “quality” of sound tones at the level of the superior olivary nuclei.",
+    "pdfPage": 637,
+    "bid": "ch53-f92"
+   },
+   {
+    "type": "paragraph",
+    "text": "Retrograde pathways have been demonstrated at each level of the auditory nervous system from the brain cortex to the cochlea in the ear. The final pathway is mainly from the su perior olivary nucleus to the sound-receptor hair cells in the organ of Corti.",
+    "pdfPage": 637,
+    "boxed": true,
+    "bid": "ch53-f93"
+   },
+   {
+    "type": "paragraph",
+    "text": "These retrograde fibers are inhibitory. Indeed, direct stimulation of discrete points in the olivary nucleus has been shown to inhibit specific areas of the organ of Corti, reducing their sound sensitivities by 15 to 20 decibels. One can readily understand how this mechanism could allow someone to direct their attention to sounds of particular qualities while rejecting sounds of other qualities. This characteristic is readily demonstrated when one listens to a single instrument in a symphony orchestra.",
+    "pdfPage": 637,
+    "boxed": true,
+    "bid": "ch53-f94"
+   },
+   {
+    "type": "paragraph",
+    "text": "Deafness is usually divided into two types: (1) that caused by impairment of the cochlea, the auditory nerve, or the central nervous system circuits from the ear, which is usually classi fied as “nerve deafness,” and (2) that caused by impairment of the physical structures of the ear that conduct sound itself to the cochlea, which is usually called “conduction deafness.”",
+    "pdfPage": 637,
+    "boxed": true,
+    "bid": "ch53-f95"
+   },
+   {
+    "type": "paragraph",
+    "text": "If either the cochlea or the auditory nerve is destroyed, the person becomes permanently deaf. However, if the cochlea and nerve are still intact but the tympanumossicular system has been destroyed or ankylosed (“frozen” in place by fibrosis or calcification), sound waves can still be conducted into the cochlea by means of bone conduction from a sound generator applied to the skull over the ear.",
+    "pdfPage": 637,
+    "boxed": true,
+    "bid": "ch53-f96"
+   },
+   {
+    "type": "paragraph",
+    "text": "To determine the nature of hearing dis abilities, an audiometer is used. This instrument is an earphone connected to an electronic oscillator capable of emitting pure tones ranging from low frequencies to high frequencies, and it is calibrated so that zero-intensity-level sound at each frequency is the loudness that can barely be heard by the normal ear. A calibrated volume control can increase the loudness above the zero level. If the loudness must be increased to 30 decibels above normal before it can be heard, the person is said to have a _hearing loss_ of 30 decibels at that particular frequency.",
+    "pdfPage": 637,
+    "lead": "Audiometer.",
+    "boxed": true,
+    "bid": "ch53-f97"
+   },
+   {
+    "type": "paragraph",
+    "text": "In performing a hearing test using an audiometer, one tests about 8 to 10 frequencies covering the auditory spec trum, and the hearing loss is determined for each of these frequencies. Then the so-called _audiogram_ is plotted, as shown in **Figure 53-11 and 53-12**, depicting hearing loss at each of the frequencies in the auditory spectrum. The au diometer, in addition to being equipped with an earphone for testing air conduction by the ear, is equipped with a mechanical vibrator for testing bone conduction from the mastoid process of the skull into the cochlea.",
+    "pdfPage": 637,
+    "boxed": true,
+    "bid": "ch53-f98"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-53-11",
+    "bid": "ch53-f99"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-53-12",
+    "bid": "ch53-f100"
+   },
+   {
+    "type": "paragraph",
+    "text": "In nerve deafness, which includes damage to the cochlea, the auditory nerve, or the central nervous system circuits from the ear, the per son has loss of ability to hear sound as tested by both air conduction and bone conduction. An audiogram depict ing partial nerve deafness is shown in **Figure 53-11**. In this figure, the deafness is mainly for high-frequency sound. Such deafness could be caused by damage to the base of the cochlea. This type of deafness occurs to some extent in almost all older people.",
+    "pdfPage": 637,
+    "lead": "Audiogram in Nerve Deafness.",
+    "pdfPageEnd": 638,
+    "bid": "ch53-f101"
+   },
+   {
+    "type": "paragraph",
+    "text": "Other patterns of nerve deafness frequently occur as follows: (1) deafness for low-frequency sounds caused by excessive and prolonged exposure to very loud sounds (e.g., a rock band or a jet airplane engine) because low-frequency sounds are usually louder and more damaging to the organ of Corti; and (2) deafness for all frequencies caused by drug sensitivity of the organ of Corti—in particular, sensitivity to some antibiotics such as streptomycin, gentamicin, kana mycin, and chloramphenicol.",
+    "pdfPage": 638,
+    "boxed": true,
+    "bid": "ch53-f102"
+   },
+   {
+    "type": "paragraph",
+    "text": "A common type of deafness is caused by fibrosis in the mid dle ear after repeated infection or by fibrosis that occurs in the hereditary disease called _otosclerosis_. In either case, the sound waves cannot be transmitted easily through the ossi cles from the tympanic membrane to the oval window. **Fig ure 53-12** shows an audiogram from a person with “middle ear air conduction deafness.” In this case, bone conduction is essentially normal, but conduction through the ossicular system is greatly depressed at all frequencies, but more so at low frequencies. In some cases of conduction deafness, the faceplate of the stapes becomes “ankylosed” by bone overgrowth to the edges of the oval window. Here, the per son becomes totally deaf for ossicular conduction but can regain almost normal hearing by the surgical removal of the stapes and its replacement with a minute Teflon or metal prosthesis that transmits the sound from the incus to the oval window.",
+    "pdfPage": 638,
+    "lead": "Audiogram for Middle Ear Conduction Deafness.",
+    "boxed": true,
+    "bid": "ch53-f103"
+   }
+  ]
+ },
+ "glossary": [
+  {
+   "id": "ch53-t-place-principle",
+   "termUz": "place principle",
+   "original": null,
+   "contextUz": "Har bir chastota o'z rezonans joyida eng katta amplitudaga ega bo'ladi (place principle).",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-suyakchalar",
+   "termUz": "Suyakchalar",
+   "original": null,
+   "contextUz": "Suyakchalar: bolg'acha (malleus) dastasi nog'ora parda markaziga yopishgan; sandon (incus) bilan bog'langan; sandon uzangichaga (stapes) ulangan.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-tensor-tympani",
+   "termUz": "Tensor tympani",
+   "original": null,
+   "contextUz": "Tensor tympani bolg'acha dastasini tortib, nog'ora pardani taranglashtiradi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-richag-tizimi",
+   "termUz": "Richag tizimi",
+   "original": null,
+   "contextUz": "Richag tizimi: bolg'acha va sandon tayanch nuqtasi nog'ora parda chetida bo'lgan yagona richagdek ishlaydi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-harakat-va-kuch",
+   "termUz": "Harakat va kuch",
+   "original": null,
+   "contextUz": "Harakat va kuch: uzangicha amplitudasi bolg'acha dastasinikining atigi 3/4 qismi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-yuza-nisbati",
+   "termUz": "Yuza nisbati",
+   "original": null,
+   "contextUz": "Yuza nisbati: nog'ora parda ~55 mm², uzangicha asosi ~3.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-jami",
+   "termUz": "Jami",
+   "original": null,
+   "contextUz": "Jami: 17 × 1.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-22-marta",
+   "termUz": "22 marta",
+   "original": null,
+   "contextUz": "3 ≈ 22 marta ko'proq kuch koxlear suyuqlikka tushadi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-samaradorlik",
+   "termUz": "Samaradorlik",
+   "original": null,
+   "contextUz": "Samaradorlik: 300–3000 Hz da moslashuv mukammalning 50–75% ini tashkil qiladi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-suyakchalarsiz",
+   "termUz": "Suyakchalarsiz",
+   "original": null,
+   "contextUz": "Suyakchalarsiz: tovush havo orqali oval darchaga borishi mumkin, lekin sezgirlik 15–20 dB past bo'ladi (o'rtacha ovozdan zo'rg'a eshitiladigan ovozgacha).",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-ishga-tushishi",
+   "termUz": "Ishga tushishi",
+   "original": null,
+   "contextUz": "Ishga tushishi: kuchli tovushdan 40–80 ms o'tib stapedius va qisman tensor tympani qisqaradi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-stapedius",
+   "termUz": "stapedius",
+   "original": null,
+   "contextUz": "Ishga tushishi: kuchli tovushdan 40–80 ms o'tib stapedius va qisman tensor tympani qisqaradi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-tasiri",
+   "termUz": "Ta'siri",
+   "original": null,
+   "contextUz": "Ta'siri: <1000 Hz past chastotalar 30–40 dB ga susayadi (baland ovoz va shivir farqidek).",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-vazifalari",
+   "termUz": "Vazifalari",
+   "original": null,
+   "contextUz": "Vazifalari: Koxleyani zararli tebranishdan himoya qilish.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-mexanizm",
+   "termUz": "Mexanizm",
+   "original": null,
+   "contextUz": "Mexanizm: koxleya chakka suyagining suyak labirintida joylashgan.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-amaliyot",
+   "termUz": "Amaliyot",
+   "original": null,
+   "contextUz": "Amaliyot: kamerton yoki vibrator so'rg'ichsimon o'siqqa (mastoid) qo'yilsa eshitiladi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-cheklov",
+   "termUz": "Cheklov",
+   "original": null,
+   "contextUz": "Cheklov: oddiy havodagi tovush energiyasi suyak orqali eshitish uchun yetarli emas.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-uch-kanal",
+   "termUz": "Uch kanal",
+   "original": null,
+   "contextUz": "Uch kanal: Scala vestibuli va scala media orasida Reissner (vestibulyar) membranasi bor.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-scala-vestibuli",
+   "termUz": "Scala vestibuli",
+   "original": null,
+   "contextUz": "Uch kanal: Scala vestibuli va scala media orasida Reissner (vestibulyar) membranasi bor.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-scala-media",
+   "termUz": "scala media",
+   "original": null,
+   "contextUz": "Uch kanal: Scala vestibuli va scala media orasida Reissner (vestibulyar) membranasi bor.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-scala-tympani",
+   "termUz": "scala tympani",
+   "original": null,
+   "contextUz": "Scala media va scala tympani orasida bazilyar membrana bor.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-korti-organi",
+   "termUz": "Korti organi",
+   "original": null,
+   "contextUz": "Korti organi bazilyar membrana ustida joylashgan va soch hujayralarini o'z ichiga oladi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-reissner-membranasi",
+   "termUz": "Reissner membranasi",
+   "original": null,
+   "contextUz": "Reissner membranasi juda yupqa, tovush o'tishiga to'sqinlik qilmaydi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-oval-darcha",
+   "termUz": "Oval darcha",
+   "original": null,
+   "contextUz": "Oval darcha: uzangicha asosi bo'shroq halqasimon boylam bilan bog'langan va ichkari-tashqari harakatlanadi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-yumaloq-darcha",
+   "termUz": "Yumaloq darcha",
+   "original": null,
+   "contextUz": "Yumaloq darcha: koxleya suyak bilan o'ralgan, shuning uchun oval darcha ichkariga kirsa, yumaloq darcha tashqariga bo'rtadi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-helikotrema",
+   "termUz": "Helikotrema",
+   "original": null,
+   "contextUz": "Helikotrema: uchidagi teshik, scala vestibuli va scala tympani shu yerda tutashadi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-tolalar",
+   "termUz": "Tolalar",
+   "original": null,
+   "contextUz": "Tolalar: 20 000–30 000 bazilyar tola.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-asosdan-uchgacha-ozgarish",
+   "termUz": "Asosdan uchgacha o'zgarish",
+   "original": null,
+   "contextUz": "Asosdan uchgacha o'zgarish: Uzunlik 0.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-natija",
+   "termUz": "Natija",
+   "original": null,
+   "contextUz": "Natija: Asosda (oval darcha yonida) yuqori chastotalar rezonans beradi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-asosda",
+   "termUz": "Asosda",
+   "original": "oval darcha yonida",
+   "contextUz": "Natija: Asosda (oval darcha yonida) yuqori chastotalar rezonans beradi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-uchda",
+   "termUz": "Uchda",
+   "original": "helikotrema",
+   "contextUz": "Uchda (helikotrema) past chastotalar rezonans beradi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-hosil-bolishi",
+   "termUz": "Hosil bo'lishi",
+   "original": null,
+   "contextUz": "Hosil bo'lishi: uzangicha itarganda asosdagi membrana yumaloq darcha tomon egiladi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-sonishi",
+   "termUz": "So'nishi",
+   "original": null,
+   "contextUz": "So'nishi: to'lqin o'z rezonans joyiga yetganda kuchayadi, energiyasi tarqaladi va so'nadi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-tezlik",
+   "termUz": "Tezlik",
+   "original": null,
+   "contextUz": "Tezlik: to'lqin boshida tez, keyin sekinlashadi (elastiklik koeffitsienti kamayadi).",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-amplituda-xaritasi-fig-53-5",
+   "termUz": "Amplituda xaritasi (Fig 53-5)",
+   "original": null,
+   "contextUz": "Amplituda xaritasi (Fig 53-5): 8000 Hz da maksimum asos yaqinida, <200 Hz da helikotrema yonida.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-ichki-soch-hujayralari",
+   "termUz": "Ichki soch hujayralari",
+   "original": null,
+   "contextUz": "Ichki soch hujayralari: bitta qator, ~3500 ta, ~12 µm.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-tashqi-soch-hujayralari",
+   "termUz": "Tashqi soch hujayralari",
+   "original": null,
+   "contextUz": "Tashqi soch hujayralari: 3–4 qator, ~12 000 ta, ~8 µm.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-innervatsiya",
+   "termUz": "Innervatsiya",
+   "original": null,
+   "contextUz": "Innervatsiya: Koxlear nerv uchlarining 90–95% ichki soch hujayralarida tugaydi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-90-95",
+   "termUz": "90–95%",
+   "original": null,
+   "contextUz": "Innervatsiya: Koxlear nerv uchlarining 90–95% ichki soch hujayralarida tugaydi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-spiral-gangliy",
+   "termUz": "spiral gangliy",
+   "original": null,
+   "contextUz": "Tolalar modiolusdagi spiral gangliyga boradi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-stereotsiliyalar",
+   "termUz": "Stereotsiliyalar",
+   "original": null,
+   "contextUz": "Stereotsiliyalar: tektorial membrananing gel qatlamiga tegib turadi yoki botib kiradi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-bikr-blok",
+   "termUz": "Bikr blok",
+   "original": null,
+   "contextUz": "Bikr blok: soch hujayralarining tashqi uchlari retikulyar laminaga mahkamlangan.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-retikulyar-lamina",
+   "termUz": "retikulyar lamina",
+   "original": null,
+   "contextUz": "Bikr blok: soch hujayralarining tashqi uchlari retikulyar laminaga mahkamlangan.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-ichki-va-tashqi-hujayralar-roli",
+   "termUz": "Ichki va tashqi hujayralar roli",
+   "original": null,
+   "contextUz": "Ichki va tashqi hujayralar roli: Signallarning ~90% ichki hujayralardan keladi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-tuzilish",
+   "termUz": "Tuzilish",
+   "original": null,
+   "contextUz": "Tuzilish: har hujayrada ~100 stereotsiliya bor, modiolusdan uzoqlashgan sari uzunlashadi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-depolyarizatsiya",
+   "termUz": "Depolyarizatsiya",
+   "original": null,
+   "contextUz": "Depolyarizatsiya: Uzunlar tomonga egilganda tip link tortiladi va 200–300 kation kanali ochiladi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-k-kiradi",
+   "termUz": "K⁺ kiradi",
+   "original": null,
+   "contextUz": "Endolimfadan K⁺ kiradi va depolyarizatsiya boshlanadi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-repolyarizatsiya",
+   "termUz": "Repolyarizatsiya",
+   "original": null,
+   "contextUz": "Repolyarizatsiya: Ca²⁺ ga sezgir K⁺ kanallari orqali K⁺ chiqadi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-glutamat",
+   "termUz": "glutamat",
+   "original": null,
+   "contextUz": "O'zgaruvchan retseptor potensiali hosil bo'ladi va soch hujayralari glutamat chiqaradi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-perilimfa",
+   "termUz": "Perilimfa",
+   "original": "scala vestibuli va tympani",
+   "contextUz": "Perilimfa (scala vestibuli va tympani) subaraxnoidal bo'shliq bilan tutashgan, deyarli likvorning o'zi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-endolimfa",
+   "termUz": "Endolimfa",
+   "original": "scala media",
+   "contextUz": "Endolimfa (scala media): Stria vascularis sekretsiya qiladi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-stria-vascularis",
+   "termUz": "Stria vascularis",
+   "original": null,
+   "contextUz": "Endolimfa (scala media): Stria vascularis sekretsiya qiladi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-k-yuqori-na-past",
+   "termUz": "K⁺ yuqori, Na⁺ past",
+   "original": "perilimfaga teskari",
+   "contextUz": "K⁺ yuqori, Na⁺ past (perilimfaga teskari).",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-endolimfa-va-perilimfa-orasida-doimo-80-mv",
+   "termUz": "Endolimfa va perilimfa orasida doimo +80 mV",
+   "original": null,
+   "contextUz": "Endolimfa va perilimfa orasida doimo +80 mV bor, ichkarisi musbat.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-soch-hujayrasi-potensiali",
+   "termUz": "Soch hujayrasi potensiali",
+   "original": null,
+   "contextUz": "Soch hujayrasi potensiali: Ichki muhiti perilimfaga nisbatan −70 mV.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-150-mv",
+   "termUz": "−150 mV",
+   "original": null,
+   "contextUz": "Endolimfaga nisbatan esa yuqori yuzasida −150 mV.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-volley-frequency-principle",
+   "termUz": "Volley (frequency) principle",
+   "original": null,
+   "contextUz": "Volley (frequency) principle: 20–200 Hz ni place bilan ajratish qiyin, chunki helikotrema hammasiga javob beradi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-kuchliroq-tebranish",
+   "termUz": "Kuchliroq tebranish",
+   "original": null,
+   "contextUz": "Kuchliroq tebranish: soch hujayralari nerv uchlarini tezroq qo'zg'atadi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-spatial-summation",
+   "termUz": "Spatial summation",
+   "original": null,
+   "contextUz": "Spatial summation: rezonans sohasining chetlaridagi hujayralar ham qo'zg'aladi, ko'proq tola jalb qilinadi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-power-law",
+   "termUz": "Power law",
+   "original": null,
+   "contextUz": "Power law: sezgi tovush intensivligining kub ildiziga proporsional.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-kub-ildizi",
+   "termUz": "kub ildizi",
+   "original": null,
+   "contextUz": "Power law: sezgi tovush intensivligining kub ildiziga proporsional.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-detsibel",
+   "termUz": "Detsibel",
+   "original": null,
+   "contextUz": "Detsibel: 10 marta energiya = 1 bel; 0.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-eshitish-bosagasi-fig-53-8",
+   "termUz": "Eshitish bo'sag'asi (Fig 53-8)",
+   "original": null,
+   "contextUz": "Eshitish bo'sag'asi (Fig 53-8): 3000 Hz da eng sezgir: 1 din/sm² dan −70 dB past bosimda, ya'ni 10⁻⁷ µW/sm² da eshitiladi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-chastota-diapazoni",
+   "termUz": "Chastota diapazoni",
+   "original": null,
+   "contextUz": "Chastota diapazoni: Yoshlarda 20–20 000 Hz.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-20-20-000-hz",
+   "termUz": "20–20 000 Hz",
+   "original": null,
+   "contextUz": "Chastota diapazoni: Yoshlarda 20–20 000 Hz.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-yol-bosqichlari",
+   "termUz": "Yo'l bosqichlari",
+   "original": null,
+   "contextUz": "Yo'l bosqichlari: Spiral gangliy → yuqori medulladagi dorsal va ventral koxlear yadrolar (hammasi sinaps qiladi).",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-koxlear-yadrolar",
+   "termUz": "koxlear yadrolar",
+   "original": "hammasi sinaps qiladi",
+   "contextUz": "Yo'l bosqichlari: Spiral gangliy → yuqori medulladagi dorsal va ventral koxlear yadrolar (hammasi sinaps qiladi).",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-yuqori-oliva-yadrosi",
+   "termUz": "yuqori oliva yadrosi",
+   "original": null,
+   "contextUz": "Asosan qarama-qarshi, qisman o'z tomonidagi yuqori oliva yadrosi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-lateral-lemniscus",
+   "termUz": "Lateral lemniscus",
+   "original": "bir qismi uning yadrosida tugaydi",
+   "contextUz": "Lateral lemniscus (bir qismi uning yadrosida tugaydi).",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-pastki-domboqcha",
+   "termUz": "Pastki do'mboqcha",
+   "original": "deyarli hammasi sinaps qiladi",
+   "contextUz": "Pastki do'mboqcha (deyarli hammasi sinaps qiladi).",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-medial-tizzasimon-yadro",
+   "termUz": "Medial tizzasimon yadro",
+   "original": "hammasi sinaps qiladi",
+   "contextUz": "Medial tizzasimon yadro (hammasi sinaps qiladi).",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-eshitish-postlogi",
+   "termUz": "eshitish po'stlog'i",
+   "original": "yuqori chakka pushtasi",
+   "contextUz": "Eshitish radiatsiyasi → eshitish po'stlog'i (yuqori chakka pushtasi).",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-muhim-jihatlar",
+   "termUz": "Muhim jihatlar",
+   "original": null,
+   "contextUz": "Muhim jihatlar: Ikki tomonlama uzatish: har ikki quloq signallari ikkala tomonga boradi, qarama-qarshi tomon ustun.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-ikki-tomonlama-uzatish",
+   "termUz": "Ikki tomonlama uzatish",
+   "original": null,
+   "contextUz": "Muhim jihatlar: Ikki tomonlama uzatish: har ikki quloq signallari ikkala tomonga boradi, qarama-qarshi tomon ustun.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-kollateral-tolalar",
+   "termUz": "Kollateral tolalar",
+   "original": null,
+   "contextUz": "Kollateral tolalar: Retikulyar faollashtiruvchi tizimga boradi; kuchli tovush butun nerv tizimini uyg'otadi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-fazoviy-tonotopik-tartib",
+   "termUz": "Fazoviy (tonotopik) tartib",
+   "original": null,
+   "contextUz": "Fazoviy (tonotopik) tartib: koxlear yadrolarda 3 ta, pastki do'mboqchada 2 ta, po'stloqda bitta aniq va kamida 5 ta noaniq xarita.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-razryad-chastotalari",
+   "termUz": "Razryad chastotalari",
+   "original": null,
+   "contextUz": "Razryad chastotalari: Koxlear nerv tolalari ≥1000/s gacha razryad beradi; chastota asosan balandlikka bog'liq.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-joylashuvi",
+   "termUz": "Joylashuvi",
+   "original": null,
+   "contextUz": "Joylashuvi: asosan yuqori chakka pushtasining supratemporal tekisligida; chakka bo'lagi lateral yuzasi, insula va tepa operkulumiga ham tarqaladi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-bolimlari",
+   "termUz": "Bo'limlari",
+   "original": null,
+   "contextUz": "Bo'limlari: Birlamchi po'stloq medial tizzasimon tanadan bevosita qo'zg'aladi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-birlamchi-postloq",
+   "termUz": "Birlamchi po'stloq",
+   "original": null,
+   "contextUz": "Bo'limlari: Birlamchi po'stloq medial tizzasimon tanadan bevosita qo'zg'aladi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-assotsiatsiya-ikkilamchi-postloq",
+   "termUz": "Assotsiatsiya (ikkilamchi) po'stloq",
+   "original": null,
+   "contextUz": "Assotsiatsiya (ikkilamchi) po'stloq birlamchi po'stloqdan va talamik assotsiatsiya sohalaridan qo'zg'aladi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-tonotopik-xaritalar",
+   "termUz": "Tonotopik xaritalar",
+   "original": null,
+   "contextUz": "Tonotopik xaritalar: Kamida 6 ta; ko'pchiligida past chastota oldinda, yuqori chastota orqada.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-chastota-sozlanishining-otkirlashuvi",
+   "termUz": "Chastota sozlanishining o'tkirlashuvi",
+   "original": null,
+   "contextUz": "Chastota sozlanishining o'tkirlashuvi: Po'stloq neyronlari koxlear yadrolardagidan ancha tor chastota oralig'iga javob beradi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-lateral-inhibitsiya",
+   "termUz": "lateral inhibitsiya",
+   "original": null,
+   "contextUz": "Sabab: yo'l bo'ylab lateral inhibitsiya.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-assotsiatsiya-neyronlari",
+   "termUz": "Assotsiatsiya neyronlari",
+   "original": null,
+   "contextUz": "Assotsiatsiya neyronlari: chastotalarni bir-biri bilan va boshqa sezgilar bilan bog'laydi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-ikki-tomonlama-toliq-olib-tashlash-mushuk-maymun",
+   "termUz": "Ikki tomonlama to'liq olib tashlash (mushuk, maymun)",
+   "original": null,
+   "contextUz": "Ikki tomonlama to'liq olib tashlash (mushuk, maymun): Tovushni sezish va qo'pol reaksiya saqlanadi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-odamda",
+   "termUz": "Odamda",
+   "original": null,
+   "contextUz": "Odamda: Ikki tomonlama birlamchi po'stloq yo'qolsa, sezgirlik ancha pasayadi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-ikki-tomonlama-birlamchi-postloq",
+   "termUz": "Ikki tomonlama birlamchi po'stloq",
+   "original": null,
+   "contextUz": "Odamda: Ikki tomonlama birlamchi po'stloq yo'qolsa, sezgirlik ancha pasayadi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-bir-tomonlama",
+   "termUz": "Bir tomonlama",
+   "original": null,
+   "contextUz": "Bir tomonlama yo'qolsa, qarama-qarshi quloqda eshitish biroz pasayadi, lekin karlik yo'q (kesishmalar tufayli).",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-faqat-assotsiatsiya-sohasi",
+   "termUz": "Faqat assotsiatsiya sohasi",
+   "original": null,
+   "contextUz": "Faqat assotsiatsiya sohasi shikastlansa, eshitish va tonlarni farqlash saqlanadi, lekin ma'no tushunilmaydi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-wernicke-sohasi",
+   "termUz": "Wernicke sohasi",
+   "original": "yuqori chakka pushtasining orqa qismi",
+   "contextUz": "Masalan, Wernicke sohasi (yuqori chakka pushtasining orqa qismi) shikastida so'zlar eshitiladi va takrorlanadi, ammo ma'nosi tushunilmaydi (ch58).",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-gorizontal-yonalish",
+   "termUz": "Gorizontal yo'nalish",
+   "original": null,
+   "contextUz": "Gorizontal yo'nalish: Vaqt farqi: ikki quloqqa kirish orasidagi farq; <3000 Hz da yaxshi va ancha aniq.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-vaqt-farqi",
+   "termUz": "Vaqt farqi",
+   "original": null,
+   "contextUz": "Gorizontal yo'nalish: Vaqt farqi: ikki quloqqa kirish orasidagi farq; <3000 Hz da yaxshi va ancha aniq.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-intensivlik-farqi",
+   "termUz": "Intensivlik farqi",
+   "original": null,
+   "contextUz": "Intensivlik farqi: yuqori chastotalarda yaxshi, chunki bosh to'siq bo'ladi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-old-orqa-va-yuqori-past",
+   "termUz": "Old/orqa va yuqori/past",
+   "original": null,
+   "contextUz": "Old/orqa va yuqori/past: asosan quloq suprasi (pinna) shakli orqali, u yo'nalishga qarab ma'lum chastotalarni kuchaytiradi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-quloq-suprasi",
+   "termUz": "quloq suprasi",
+   "original": "pinna",
+   "contextUz": "Old/orqa va yuqori/past: asosan quloq suprasi (pinna) shakli orqali, u yo'nalishga qarab ma'lum chastotalarni kuchaytiradi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-neyron-mexanizmi",
+   "termUz": "Neyron mexanizmi",
+   "original": null,
+   "contextUz": "Neyron mexanizmi: Ikki tomonlama eshitish po'stlog'i yo'qolsa, yo'nalishni aniqlash deyarli butunlay yo'qoladi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-yuqori-oliva-yadrolari",
+   "termUz": "yuqori oliva yadrolari",
+   "original": null,
+   "contextUz": "Tahlil esa yuqori oliva yadrolarida boshlanadi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-lateral-yuqori-oliva",
+   "termUz": "Lateral yuqori oliva",
+   "original": null,
+   "contextUz": "Lateral yuqori oliva: intensivlik farqini taqqoslaydi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-medial-yuqori-oliva",
+   "termUz": "Medial yuqori oliva",
+   "original": null,
+   "contextUz": "Medial yuqori oliva: Neyronlari ikki dendritli: o'ng dendrit o'ng quloqdan, chap dendrit chap quloqdan signal oladi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-yonalish",
+   "termUz": "Yo'nalish",
+   "original": null,
+   "contextUz": "Yo'nalish: har bosqichda po'stloqdan koxleyagacha retrograd yo'llar bor.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-manosi",
+   "termUz": "Ma'nosi",
+   "original": null,
+   "contextUz": "Ma'nosi: diqqatni muayyan tovushga qaratish, masalan, orkestrdagi bitta cholg'uni tinglash.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-nerv-sensorinevral-karlik",
+   "termUz": "Nerv (sensorinevral) karlik",
+   "original": null,
+   "contextUz": "Nerv (sensorinevral) karlik: Koxleya, eshitish nervi yoki markaziy yo'llar shikastlanadi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-otkazuvchan-karlik",
+   "termUz": "O'tkazuvchan karlik",
+   "original": null,
+   "contextUz": "O'tkazuvchan karlik: Tovushni o'tkazuvchi tuzilmalar shikastlanadi, masalan, nog'ora parda va suyakchalar yemirilishi yoki ankilozi (fibroz yoki ohaklanish).",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-audiometr",
+   "termUz": "Audiometr",
+   "original": null,
+   "contextUz": "Audiometr: Quloqchin va toza ton generatori; 0 dB = normal quloqning bo'sag'asi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-nerv-karligi-audiogrammasi-fig-53-11",
+   "termUz": "Nerv karligi audiogrammasi (Fig 53-11)",
+   "original": null,
+   "contextUz": "Nerv karligi audiogrammasi (Fig 53-11): Havo va suyak o'tkazuvchanligi ikkalasi ham pasaygan.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-qarilik",
+   "termUz": "Qarilik",
+   "original": null,
+   "contextUz": "Qarilik: asosan yuqori chastotalar pasayadi (koxleya asosi shikasti); deyarli barcha qariyalarda biroz kuzatiladi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-uzoq-kuchli-shovqin",
+   "termUz": "Uzoq kuchli shovqin",
+   "original": "rok-guruh, reaktiv dvigatel",
+   "contextUz": "Uzoq kuchli shovqin (rok-guruh, reaktiv dvigatel): past chastotalar pasayadi, chunki past chastotali tovushlar odatda balandroq va zararliroq.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-ototoksik-dorilar",
+   "termUz": "Ototoksik dorilar",
+   "original": "streptomitsin, gentamitsin, kanamitsin, xloramfenikol",
+   "contextUz": "Ototoksik dorilar (streptomitsin, gentamitsin, kanamitsin, xloramfenikol): barcha chastotalar pasayadi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-orta-quloq-otkazuvchan-karligi-fig-53-12",
+   "termUz": "O'rta quloq o'tkazuvchan karligi (Fig 53-12)",
+   "original": null,
+   "contextUz": "O'rta quloq o'tkazuvchan karligi (Fig 53-12): Sabablari: takroriy infeksiyadan keyingi fibroz yoki irsiy otoskleroz.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-otoskleroz",
+   "termUz": "otoskleroz",
+   "original": null,
+   "contextUz": "O'rta quloq o'tkazuvchan karligi (Fig 53-12): Sabablari: takroriy infeksiyadan keyingi fibroz yoki irsiy otoskleroz.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-uzangicha-ankilozi",
+   "termUz": "Uzangicha ankilozi",
+   "original": null,
+   "contextUz": "Uzangicha ankilozi: suyakcha o'tkazuvchanligi to'liq yo'qoladi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-akustik-refleks",
+   "termUz": "Akustik refleks",
+   "original": null,
+   "contextUz": "Akustik refleks: koxleyani himoya qiladi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-sensorinevral-karlik",
+   "termUz": "Sensorinevral karlik",
+   "original": null,
+   "contextUz": "Sensorinevral karlik: qarilikda yuqori chastotalar; shovqindan zararlanish; ototoksik antibiotiklar (aminoglikozidlar).",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-audiogramma",
+   "termUz": "Audiogramma",
+   "original": null,
+   "contextUz": "Audiogramma: havo va suyak o'tkazuvchanligini taqqoslash karlik turini ajratadi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-wernicke-sohasi-shikasti",
+   "termUz": "Wernicke sohasi shikasti",
+   "original": null,
+   "contextUz": "Wernicke sohasi shikasti: so'z ma'nosini tushunmaslik.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-bir-tomonlama-postloq-shikasti",
+   "termUz": "Bir tomonlama po'stloq shikasti",
+   "original": null,
+   "contextUz": "Bir tomonlama po'stloq shikasti: tovush lokalizatsiyasi buziladi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-ch56",
+   "termUz": "ch56",
+   "original": null,
+   "contextUz": "ch56: vestibulyar soch hujayralari.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-ch47",
+   "termUz": "ch47",
+   "original": null,
+   "contextUz": "ch47: power law, lateral inhibitsiya.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-ch48",
+   "termUz": "ch48",
+   "original": null,
+   "contextUz": "ch48: Pacinian va intensivlik.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-ch58",
+   "termUz": "ch58",
+   "original": null,
+   "contextUz": "ch58: Wernicke sohasi, nutq.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-ch60",
+   "termUz": "ch60",
+   "original": null,
+   "contextUz": "ch60: retikulyar faollashtiruvchi tizim.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-ch57",
+   "termUz": "ch57",
+   "original": null,
+   "contextUz": "ch57: serebellum.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch53-t-ch15",
+   "termUz": "ch15",
+   "original": null,
+   "contextUz": "ch15: to'lqin o'tkazilishi.",
+   "lessonId": "ch53",
+   "topicId": "10",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  }
+ ],
+ "bookDefinitions": [
+  {
+   "pdfPage": 628,
+   "printedPage": "623",
+   "text": "TYMPANIC MEMBRANE AND THE OSSICULAR SYSTEM CONDUCTION OF SOUND FROM THE TYMPANIC MEMBRANE TO THE COCHLEA Figure 53-1 shows the tympanic membrane (commonly called the eardrum) and the ossicles, which conduct sound from the tympanic membrane through the middle ear to the cochlea (the inner ear)"
+  },
+  {
+   "pdfPage": 629,
+   "printedPage": "624",
+   "text": "TRANSMISSION OF SOUND THROUGH BONE Because the inner ear, the cochlea, is embedded in a bony cavity in the temporal bone, called the bony labyrinth, vibrations of the entire skull can cause fluid vibrations in the cochlea"
+  },
+  {
+   "pdfPage": 629,
+   "printedPage": "624",
+   "text": "The scala vestibuli and scala media are separated from each other by Reissner’s membrane (also called the vestibular membrane), shown in Figure 53-2B; the scala tympani and scala media are separated from each other by the basilar membrane"
+  },
+  {
+   "pdfPage": 632,
+   "printedPage": "627",
+   "text": "The outer ends of the hair cells are fixed tightly in a rigid structure composed of a flat plate, called the reticular lamina, supported by triangular rods of Corti, which are attached tightly to the basilar fibers"
+  },
+  {
+   "pdfPage": 633,
+   "printedPage": "628",
+   "text": "To explain even more fully the electrical potentials generated by the hair cells, we need to explain another electrical phenomenon called the endo cochlear potential"
+  },
+  {
+   "pdfPage": 633,
+   "printedPage": "628",
+   "text": "This is called the endocochlear potential, and it is generated by continual secretion of positive potassium ions into the scala media by the stria vascularis. 668 The importance of the endocochlear potential is that the tops of the hair cells project through the reticular lamina and are bathed by the endolymph of the scala media, whereas perilymph bathes the lower bodies of the hair cells"
+  },
+  {
+   "pdfPage": 633,
+   "printedPage": "628",
+   "text": "Therefore, the major method used by the nervous system to detect different sound frequencies is to determine the positions along the basilar membrane that are stimulated the most, called the place principle for the determination of sound frequency"
+  },
+  {
+   "pdfPage": 634,
+   "printedPage": "629",
+   "text": "A 10-fold increase in sound energy is called 1 bel, and 0.1 bel is called 1 decibel"
+  },
+  {
+   "pdfPage": 635,
+   "printedPage": "630",
+   "text": "Two separate subdivisions are shown in Figure 53- 10—the primary auditory cortex and the auditory association cortex (also called the secondary auditory cortex)"
+  },
+  {
+   "pdfPage": 636,
+   "printedPage": "631",
+   "text": "For example, lesions in the posterior portion of the superior temporal gyrus, which is called Wernicke’s area and is part of the auditory association cortex, often make it impossible for a person to interpret the meanings of words even though he or she hears them perfectly well and can even repeat them"
+  }
+ ],
+ "keyNumbers": [
+  {
+   "pdfPage": 629,
+   "printedPage": "624",
+   "text": "Instead, the system actually reduces the distance but increases the force of movement about 1.3 times"
+  },
+  {
+   "pdfPage": 629,
+   "printedPage": "624",
+   "text": "This 17-fold difference times the 1.3-fold ratio of the lever system causes about 22 times as much total force to be exerted on the fluid of the cochlea as is exerted by the sound waves against the tympanic membrane"
+  },
+  {
+   "pdfPage": 629,
+   "printedPage": "624",
+   "text": "The impedance matching is about 50% to 75% of perfect for sound frequencies between 300 and 3000 cycles/sec, which allows utilization of most of the energy in the incoming sound waves"
+  },
+  {
+   "pdfPage": 629,
+   "printedPage": "624",
+   "text": "However, the sensitivity for hearing is then 15 to 20 decibels less than for ossicular transmission—equivalent to a decrease from a medium to a barely perceptible voice level"
+  },
+  {
+   "pdfPage": 629,
+   "printedPage": "624",
+   "text": "When loud sounds are transmitted through the ossicular system and from there into the central nervous system, a reflex occurs after a latent period of only 40 to 80 milliseconds to cause contraction of the stapedius muscle and, to a lesser extent, the tensor tympani muscle"
+  },
+  {
+   "pdfPage": 629,
+   "printedPage": "624",
+   "text": "This attenuation reflex can reduce the intensity of lower frequency sound transmission by 30 to 40 decibels, which is about the same difference as that between a loud voice and a whisper"
+  },
+  {
+   "pdfPage": 630,
+   "printedPage": "625",
+   "text": "The lengths of the basilar fibers increase progressively, beginning at the oval window and going from the base of the cochlea to the apex, increasing from a length of about 0.04 millimeter near the oval and round windows to 0.5 millimeter at the tip of the cochlea (the “helicotrema”), a 12-fold increase in length"
+  },
+  {
+   "pdfPage": 630,
+   "printedPage": "625",
+   "text": "The diameters of the fibers, however, decrease from the oval window to the helicotrema, so their overall stiffness decreases more than 100-fold"
+  },
+  {
+   "pdfPage": 631,
+   "printedPage": "626",
+   "text": "The actual sensory receptors in the organ of Corti are two specialized types of nerve cells called hair cells—a single row of internal (or “inner”) hair cells, numbering about 3500 and measuring about 12 micrometers in diameter, and three or four rows of external (or “outer”) hair cells, numbering about 12,000 and having diameters of only about 8 micrometers"
+  },
+  {
+   "pdfPage": 631,
+   "printedPage": "626",
+   "text": "Between 90% and 95% of these endings terminate on the inner hair cells, emphasizing their special importance for detection of sound"
+  },
+  {
+   "pdfPage": 632,
+   "printedPage": "627",
+   "text": "Even though there are three to four times as many outer hair cells as inner hair cells, about 90% of the auditory nerve fibers are stimulated by the inner cells rather than by the outer cells"
+  },
+  {
+   "pdfPage": 633,
+   "printedPage": "628",
+   "text": "An electrical potential of about +80 millivolts exists all the time between endolymph and perilymph, with positivity inside the scala media and negativity outside"
+  },
+  {
+   "pdfPage": 633,
+   "printedPage": "628",
+   "text": "Furthermore, the hair cells have a negative intracellular potential of −70 millivolts with respect to the perilymph but −150 millivolts with respect to the endolymph at their upper surfaces, where the hairs project through the reticular lamina and into the endolymph"
+  },
+  {
+   "pdfPage": 634,
+   "printedPage": "629",
+   "text": "To express this concept in another way, the ear can discriminate differences in sound intensity from the softest whisper to the loudest possible noise, representing an approximately 1 trillion times increase in sound energy or 1 million times increase in amplitude of movement of the basilar membrane"
+  },
+  {
+   "pdfPage": 634,
+   "printedPage": "629",
+   "text": "Yet, the ear interprets this much difference in sound level as approximately a 10,000-fold change"
+  },
+  {
+   "pdfPage": 634,
+   "printedPage": "629",
+   "text": "A 10-fold increase in sound energy is called 1 bel, and 0.1 bel is called 1 decibel"
+  },
+  {
+   "pdfPage": 634,
+   "printedPage": "629",
+   "text": "One decibel represents an actual increase in sound energy of 1.26 times"
+  },
+  {
+   "pdfPage": 634,
+   "printedPage": "629",
+   "text": "This figure demonstrates that a 3,000 cycles/sec sound can be heard even when its intensity is as low as 70 decibels below 1 dyne/cm2 sound pressure level, which is one ten-millionth microwatt per square centimeter"
+  },
+  {
+   "pdfPage": 634,
+   "printedPage": "629",
+   "text": "Conversely, a 100 cycles/sec sound can be detected only if its intensity is 10,000 times as great as this"
+  },
+  {
+   "pdfPage": 637,
+   "printedPage": "632",
+   "text": "Indeed, direct stimulation of discrete points in the olivary nucleus has been shown to inhibit specific areas of the organ of Corti, reducing their sound sensitivities by 15 to 20 decibels"
+  },
+  {
+   "pdfPage": 637,
+   "printedPage": "632",
+   "text": "If the loudness must be increased to 30 decibels above normal before it can be heard, the person is said to have a hearing loss of 30 decibels at that particular frequency"
+  }
+ ],
+ "figureIds": [
+  "gh14-fig-53-01",
+  "gh14-fig-53-02",
+  "gh14-fig-53-03",
+  "gh14-fig-53-04",
+  "gh14-fig-53-05",
+  "gh14-fig-53-06",
+  "gh14-fig-53-07",
+  "gh14-fig-53-08",
+  "gh14-fig-53-09",
+  "gh14-fig-53-10",
+  "gh14-fig-53-11",
+  "gh14-fig-53-12"
+ ],
+ "estMinutes": 35,
+ "counts": {
+  "figures": 12,
+  "figuresIncluded": 12,
+  "terms": 124,
+  "words": 6932,
+  "unplacedInSummary": 12
+ },
+ "review": {
+  "reviewedBy": null,
+  "reviewedAt": null
+ },
+ "importedAt": "2026-11-14T13:59:02+00:00"
+}

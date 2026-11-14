@@ -1,0 +1,407 @@
+{
+ "lessonId": "ch58",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 58,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "manual",
+ "translator": "Claude (DrStudy sessiyasi)",
+ "model": null,
+ "createdAt": "2026-11-14T18:34:06.244Z",
+ "updatedAt": "2026-11-14T18:34:06.244Z",
+ "coverage": {
+  "translated": 127,
+  "total": 127
+ },
+ "note": "Kitob matnining to‘liq o‘zbekcha tarjimasi (qisqartirilmagan). Ekspert tekshiruvidan o‘tmagan.",
+ "blocks": {
+  "ch58-f0": {
+   "text": "Bosh miyaning barcha qismlari orasida bosh miya po‘stlog‘ining funksiyalari haqida eng kam aniq ma’lumotga ega ekanimiz kinoyali, vaholanki u nerv tizimining eng katta va, ehtimol, eng ko‘p o‘rganilgan qismidir. Biroq biz bosh miya po‘stlog‘ining turli qismlari shikastlanishi yoki qo‘zg‘atilishining ta’sirlarini bilamiz. Ushbu bobning birinchi qismida po‘stloqning ma’lum funksiyalari muhokama qilinadi, so‘ngra fikrlash jarayonlari, xotira, sezgi axborotini tahlil qilish va hokazolarda ishtirok etuvchi neyron mexanizmlarining asosiy nazariyalari qisqacha bayon qilinadi."
+  },
+  "ch58-f1": {
+   "text": "Bosh miya po‘stlog‘ining fiziologik anatomiyasi"
+  },
+  "ch58-f2": {
+   "text": "Bosh miya po‘stlog‘ining funksional qismi — katta miyaning barcha pushtalari yuzasini qoplagan yupqa neyronlar qavati. Bu qavatning qalinligi atigi 2–5 millimetr, umumiy maydoni esa taxminan 0,25 kvadrat metr. Butun bosh miya po‘stlog‘ida 80 _milliarddan_ ortiq neyron bor, deb hisoblangan."
+  },
+  "ch58-f3": {
+   "text": "**Rasm 58-1** da bosh miya po‘stlog‘i neyron yuzasining turli xil neyronlarning ketma-ket qavatlaridan iborat tipik gistologik tuzilishi ko‘rsatilgan. Neyronlarning aksariyati uch turga mansub: (1) _donador_ (_yulduzsimon_ deb ham ataladi); (2) _urchuqsimon (fuziform);_ va (3) _piramidal_ — oxirgisi o‘ziga xos piramida shakli uchun shunday nomlangan."
+  },
+  "ch58-f5": {
+   "text": "_Donador_ neyronlarning aksonlari odatda qisqa, shuning uchun ular asosan nerv signallarini po‘stloqda faqat qisqa masofalarga uzatuvchi interneyronlar vazifasini bajaradi. Ularning ba’zilari qo‘zg‘atuvchi bo‘lib, asosan qo‘zg‘atuvchi neyromediator _glutamatni_ ajratadi, boshqalari esa tormozlovchi bo‘lib, asosan tormozlovchi neyromediator _gamma-aminomoy kislotasini_ (GAMK, GABA) ajratadi. Po‘stloqning sezgi sohalarida, shuningdek sezgi va harakat sohalari orasidagi assotsiativ sohalarda bu donador hujayralar ko‘p to‘plangan; bu sezgi va assotsiativ sohalar ichida kiruvchi sezgi signallarining po‘stloq ichida yuqori darajada qayta ishlanishidan dalolat beradi."
+  },
+  "ch58-f6": {
+   "text": "_Piramidal_ va _urchuqsimon hujayralar_ po‘stloqdan chiquvchi deyarli barcha tolalarni beradi. Urchuqsimon hujayralardan kattaroq va ko‘p sonliroq bo‘lgan piramidal hujayralar orqa miyagacha boruvchi uzun, yirik nerv tolalarining manbaidir. Piramidal hujayralar, shuningdek, bosh miyaning bir yirik qismidan boshqasiga o‘tuvchi yirik po‘stloq osti assotsiativ tola tutamlarining aksariyatini ham beradi."
+  },
+  "ch58-f7": {
+   "text": "**Rasm 58-1** ning o‘ng tomonida bosh miya po‘stlog‘ining turli qavatlaridagi nerv tolalarining tipik tuzilishi ko‘rsatilgan. Ayniqsa po‘stloqning qo‘shni sohalari orasida cho‘zilgan ko‘p sonli _gorizontal tolalarga_ e’tibor bering, shuningdek po‘stloqdan bosh miyaning quyi sohalariga va ulardan po‘stloqqa, ba’zilari esa orqa miyagacha yoki uzun assotsiativ tutamlar orqali bosh miya po‘stlog‘ining uzoq sohalarigacha boruvchi _vertikal tolalarga_ ham e’tibor bering."
+  },
+  "ch58-f8": {
+   "text": "Bosh miya po‘stlog‘ining muayyan qavatlarining funksiyalari 48- va 52-boblarda muhokama qilingan. Takrorlash uchun eslaylik: tanadan keluvchi muayyan sezgi signallarining aksariyati po‘stloqning IV qavatida tugaydi. Chiqish signallarining aksariyati po‘stloqni V va VI qavatlarda joylashgan neyronlar orqali tark etadi: miya ustuni va orqa miyaga boruvchi juda yirik tolalar odatda V qavatdan, talamusga boruvchi juda ko‘p sonli tolalar esa VI qavatdan boshlanadi. I, II va III qavatlar po‘stloq ichidagi assotsiativ funksiyalarning aksariyatini bajaradi; ayniqsa II va III qavatlardagi ko‘p sonli neyronlar qo‘shni po‘stloq sohalari bilan qisqa gorizontal bog‘lanishlar hosil qiladi."
+  },
+  "ch58-f9": {
+   "text": "Bosh miya po‘stlog‘ining talamus va boshqa quyi markazlar bilan anatomik va funksional munosabatlari"
+  },
+  "ch58-f10": {
+   "text": "Bosh miya po‘stlog‘ining barcha sohalari bosh miyaning chuqurroq tuzilmalari bilan keng ikki tomonlama efferent va afferent bog‘lanishlarga ega. Bosh miya po‘stlog‘i va talamus o‘rtasidagi munosabatni ta’kidlash muhim. Talamus po‘stloq bilan birga shikastlanganda bosh miya funksiyasining yo‘qolishi faqat po‘stloq shikastlangandagidan ancha katta bo‘ladi, chunki po‘stloqning deyarli barcha faolligi uchun talamusning po‘stloqni qo‘zg‘atishi zarur."
+  },
+  "ch58-f11": {
+   "text": "**Rasm 58-2** da talamusning muayyan qismlari bilan bog‘langan bosh miya po‘stlog‘i sohalari ko‘rsatilgan. Bu bog‘lanishlar _ikki_ yo‘nalishda ishlaydi: talamusdan po‘stloqqa va so‘ngra po‘stloqdan talamusning deyarli o‘sha sohasiga qaytib. Bundan tashqari, talamus bilan bog‘lanishlar kesilganda tegishli po‘stloq sohasining funksiyalari deyarli butunlay yo‘qoladi. Shuning uchun po‘stloq talamus bilan yaqin hamkorlikda ishlaydi va uni anatomik ham, funksional ham talamus bilan deyarli yagona birlik deb hisoblash mumkin; shu sababli talamus va po‘stloq birgalikda ba’zan _talamokortikal tizim_ deb ataladi. Sezgi retseptorlari va sezgi a’zolaridan po‘stloqqa boruvchi deyarli barcha yo‘llar talamus orqali o‘tadi; asosiy istisno — hid bilishning ba’zi sezgi yo‘llari."
+  },
+  "ch58-f13": {
+   "text": "Po‘stloqning muayyan sohalarining funksiyalari"
+  },
+  "ch58-f14": {
+   "text": "**Rasm 58-3** — uyg‘oq bemorlarda po‘stloqni elektr bilan qo‘zg‘atish yoki po‘stlog‘ining qismlari olib tashlangan bemorlarni nevrologik tekshirish asosida aniqlangan bosh miya po‘stlog‘i turli sohalarining ba’zi funksiyalari xaritasi. Elektr bilan qo‘zg‘atilgan bemorlar qo‘zg‘atish uyg‘otgan fikrlarini aytib berishgan, ba’zan esa harakatlarni his qilishgan. Vaqti-vaqti bilan ular o‘z-o‘zidan tovush yoki hatto so‘z chiqarishgan yoki qo‘zg‘atishning boshqa biror belgisini namoyon qilishgan."
+  },
+  "ch58-f16": {
+   "text": "Ko‘plab turli manbalardan olingan katta hajmdagi axborotni birlashtirish **Rasm 58-4** da ko‘rsatilgan umumiyroq xaritani beradi. Bu rasmda po‘stloqning asosiy birlamchi va ikkilamchi premotor va qo‘shimcha harakat sohalari, shuningdek somatik sezgi, ko‘rish va eshitish uchun asosiy birlamchi va ikkilamchi sezgi sohalari ko‘rsatilgan; ularning barchasi oldingi boblarda muhokama qilingan. Birlamchi harakat sohalari alohida muskul harakatlarini yuzaga keltirish uchun muayyan muskullar bilan bevosita bog‘langan. Birlamchi sezgi sohalari periferik sezgi a’zolaridan bosh miyaga uzatiladigan muayyan sezgilarni — ko‘rish, eshitish yoki somatik sezgilarni aniqlaydi."
+  },
+  "ch58-f18": {
+   "text": "Ikkilamchi sohalar birlamchi sohalardagi signallarga ma’no beradi. Masalan, qo‘shimcha va premotor sohalar harakat faoliyatining “shakllarini” ta’minlash uchun birlamchi harakat po‘stlog‘i va bazal gangliylar bilan birga ishlaydi. Sezgi tomonida birlamchi sohalardan bir necha santimetr masofada joylashgan ikkilamchi sezgi sohalari muayyan sezgi signallarining ma’nosini tahlil qila boshlaydi, masalan: (1) qo‘ldagi narsaning shakli yoki teksturasini talqin qilish; (2) rang, yorug‘lik intensivligi, chiziqlar va burchaklar yo‘nalishi va ko‘rishning boshqa jihatlarini talqin qilish; va (3) eshitish signallaridagi tovush ohanglari va ohanglar ketma-ketligining ma’nosini talqin qilish."
+  },
+  "ch58-f19": {
+   "text": "**Rasm 58-4** da birlamchi va ikkilamchi harakat va sezgi sohalarining qat’iy toifalariga to‘g‘ri kelmaydigan bosh miya po‘stlog‘ining bir nechta katta sohalari ham ko‘rsatilgan. Bu sohalar _assotsiativ sohalar_ deb ataladi, chunki ular harakat va sezgi po‘stloqlarining ko‘plab sohalaridan, shuningdek po‘stloq osti tuzilmalaridan signallarni bir vaqtda qabul qiladi va tahlil qiladi. Shunga qaramay, assotsiativ sohalarning ham o‘z ixtisoslashuvlari bor. Muhim assotsiativ sohalarga quyidagilar kiradi: (1) _tepa-ensa-chakka assotsiativ sohasi,_ (2) _prefrontal assotsiativ soha_ va (3) _limbik assotsiativ soha_."
+  },
+  "ch58-f20": {
+   "text": "Tepa-ensa-chakka assotsiativ sohasi"
+  },
+  "ch58-f21": {
+   "text": "Tepa-ensa-chakka assotsiativ sohasi oldinda somatosensor po‘stloq, orqada ko‘ruv po‘stlog‘i va lateralda eshitish po‘stlog‘i bilan chegaralangan katta tepa va ensa po‘stloq bo‘shlig‘ida joylashgan. Kutilganidek, u atrofdagi barcha sezgi sohalaridan keluvchi signallar uchun yuqori darajadagi talqiniy ma’noni ta’minlaydi. Biroq tepa-ensa-chakka assotsiativ sohasining ham o‘z funksional kichik sohalari bor; ular **Rasm 58-5** da ko‘rsatilgan."
+  },
+  "ch58-f23": {
+   "text": "_Orqa tepa po‘stlog‘ida_ boshlanib, _yuqori ensa po‘stlog‘iga_ cho‘zilgan soha tananing barcha qismlarining, shuningdek tana atrofining fazoviy koordinatalarini uzluksiz tahlil qiladi. Bu soha orqa ensa po‘stlog‘idan ko‘rish sezgi axborotini va bir vaqtda oldingi tepa po‘stlog‘idan somatosensor axborotni oladi. Bu axborotning barchasidan u ko‘rish, eshitish va tana atrofining koordinatalarini hisoblaydi.",
+   "lead": "Tananing fazoviy koordinatalarini tahlil qilish."
+  },
+  "ch58-f24": {
+   "text": "Tilni tushunishning asosiy sohasi — _Vernike sohasi_ — _birlamchi eshitish po‘stlog‘ining orqasida, chakka bo‘lagi yuqori pushtasining orqa qismida_ joylashgan. Bu sohani keyinroq batafsilroq muhokama qilamiz; u yuqori intellektual funksiya uchun butun bosh miyaning eng muhim sohalaridan biri, chunki bu intellektual funksiyalarning aksariyati tilga asoslangan.",
+   "lead": "Vernike sohasi tilni tushunish uchun muhim."
+  },
+  "ch58-f25": {
+   "text": "Tilni tushunish sohasidan orqada, asosan ensa bo‘lagining oldingi-lateral sohasida ko‘rish assotsiativ sohasi joylashgan; u kitobdan o‘qilgan so‘zlar orqali yetkaziladigan ko‘rish axborotini Vernike sohasiga — tilni tushunish sohasiga yetkazib beradi. Bu _burchakli pushta sohasi_ ko‘z bilan idrok etilgan so‘zlarga ma’no berish uchun zarur. U bo‘lmasa, odam eshitish orqali tilni hamon a’lo darajada tushunishi mumkin, ammo o‘qish orqali tushuna olmaydi; burchakli pushtaning shikastlanishi _agrafiya_ (yoza olmaslik) va _aleksiya_ (o‘qiy olmaslik) ga olib kelishi mumkin — bu holatda odam so‘zlarni o‘qiy, yoza yoki harflab ayta olmaydi.",
+   "lead": "Burchakli pushta sohasi ko‘rish orqali qabul qilinadigan tilni (o‘qishni) dastlabki qayta ishlash uchun zarur."
+  },
+  "ch58-f26": {
+   "text": "_Oldingi ensa bo‘lagi va orqa chakka bo‘lagining eng lateral qismlarida narsalarni nomlash sohasi joylashgan._ Nomlar asosan eshitish orqali, narsalarning jismoniy tabiati esa asosan ko‘rish orqali o‘rganiladi. O‘z navbatida, nomlar eshitish va ko‘rish orqali tilni tushunish uchun zarur (_bu funksiyalar_ eshitish “nomlar” sohasidan bevosita yuqorida va ko‘rish orqali so‘zlarni qayta ishlash sohasidan oldinda joylashgan _Vernike sohasida bajariladi_).",
+   "lead": "Narsalarni nomlash sohasi."
+  },
+  "ch58-f27": {
+   "text": "Prefrontal assotsiativ soha"
+  },
+  "ch58-f28": {
+   "text": "57-bobda muhokama qilinganidek, prefrontal assotsiativ soha harakatlarning murakkab shakllari va ketma-ketliklarini rejalashtirish uchun harakat po‘stlog‘i bilan yaqin hamkorlikda ishlaydi. Bu funksiyaga yordam berish uchun u tepa-ensa-chakka assotsiativ sohasini prefrontal assotsiativ soha bilan bog‘lovchi ulkan po‘stloq osti nerv tolalari tutami orqali kuchli kirish signallarini oladi. Bu tutam orqali prefrontal po‘stloq oldindan tahlil qilingan ko‘p sezgi axborotini, ayniqsa samarali harakatlarni rejalashtirish uchun zarur bo‘lgan tananing fazoviy koordinatalari haqidagi axborotni oladi. Prefrontal sohadan harakat boshqaruv tizimiga chiquvchi signallarning ko‘p qismi harakatni rejalashtirish uchun bazal gangliylar–talamus qaytar aloqa zanjirining dumli yadro qismi orqali o‘tadi; bu zanjir harakatni qo‘zg‘atishning ko‘plab ketma-ket va parallel komponentlarini ta’minlaydi."
+  },
+  "ch58-f29": {
+   "text": "_Prefrontal assotsiativ soha_ shuningdek _“fikrlash” jarayonlarini amalga oshirish uchun zarur_. Bu xususiyat, ehtimol, prefrontal po‘stloqqa harakat faoliyatlarini rejalashtirish imkonini beruvchi o‘sha qobiliyatlarning ba’zilaridan kelib chiqadi. U bosh miyaning keng sohalaridan keluvchi harakatga oid va harakatga oid bo‘lmagan axborotni qayta ishlay oladi va shu sababli harakatga oid fikrlash bilan bir qatorda harakatga oid bo‘lmagan fikrlashni ham amalga oshira oladiganga o‘xshaydi. Aslida prefrontal assotsiativ soha ko‘pincha shunchaki _fikrlarni rivojlantirish (chuqurlashtirish)_ uchun muhim deb ta’riflanadi va u bosh miyaga kirib kelayotgan yangi fikrlarni birlashtirish uchun ishlatiladigan “ishchi xotirani” qisqa muddatga saqlaydi, deyiladi."
+  },
+  "ch58-f30": {
+   "text": "**Rasm 58-5** da ko‘rsatilgan _Broka sohasi_ qisman orqa-lateral prefrontal po‘stloqda, qisman premotor sohada joylashgan. Aynan shu yerda alohida so‘zlar yoki hatto qisqa iboralarni ifodalash uchun rejalar va harakat shakllari boshlanadi va bajariladi. Bu soha, shuningdek, bobning keyingi qismida batafsilroq muhokama qilganimizdek, chakka assotsiativ po‘stlog‘idagi Vernike tilni tushunish markazi bilan yaqin hamkorlikda ishlaydi.",
+   "lead": "Broka sohasi so‘z hosil qilish uchun neyron zanjirlarini ta’minlaydi."
+  },
+  "ch58-f31": {
+   "text": "Ayniqsa qiziqarli kashfiyot quyidagicha: odam bir tilni o‘rganib bo‘lgach, yangi tilni o‘rgansa, bosh miyada yangi til saqlanadigan soha birinchi til saqlanadigan sohadan biroz uzoqroqda joylashadi. Agar ikkala til bir vaqtda o‘rganilsa, ular bosh miyaning bir sohasida birga saqlanadi."
+  },
+  "ch58-f32": {
+   "text": "Limbik assotsiativ soha"
+  },
+  "ch58-f33": {
+   "text": "**Rasm 58-4** va **Rasm 58-5** da yana bir assotsiativ soha — _limbik assotsiativ soha_ ko‘rsatilgan. Bu soha chakka bo‘lagining oldingi qutbida, peshona bo‘lagining ventral qismida va har bir katta miya yarim sharining medial yuzasida bo‘ylama yoriq chuqurida yotgan belbog‘ pushtasida joylashgan. U asosan _xulq-atvor, hissiyotlar_ va _motivatsiya_ bilan bog‘liq. 59-bobda muhokama qilamizki, limbik po‘stloq ancha kengroq tizim — bosh miyaning o‘rta-bazal sohalaridagi murakkab neyron tuzilmalar majmuasini o‘z ichiga olgan _limbik tizimning_ bir qismidir. Bu limbik tizim bosh miyaning boshqa sohalarini faollashtirish uchun hissiy undovlarning aksariyatini ta’minlaydi va hatto o‘rganish jarayonining o‘zi uchun ham motivatsion undovni ta’minlaydi."
+  },
+  "ch58-f34": {
+   "text": "Yuzlarni tanish sohasi"
+  },
+  "ch58-f35": {
+   "text": "_Prozopagnoziya_ deb ataladigan qiziqarli bosh miya buzilishi — yuzlarni taniy olmaslik. Bu holat ikkala ensa bo‘lagining medial pastki yuzalarida va chakka bo‘laklarining medioventral yuzalari bo‘ylab keng shikastlanishi bo‘lgan odamlarda yuzaga keladi (**Rasm 58-6**). Ajablanarlisi shundaki, bu yuzlarni tanish sohalarining yo‘qolishi bosh miya funksiyasida boshqa deyarli hech qanday buzilishga olib kelmaydi."
+  },
+  "ch58-f37": {
+   "text": "Nima uchun bosh miya po‘stlog‘ining shunchalik katta qismi yuzlarni tanishdek oddiy vazifaga ajratilgan, degan savol tug‘ilishi mumkin. Biroq kundalik vazifalarimizning aksariyati boshqa odamlar bilan munosabatlarni o‘z ichiga oladi, shuning uchun bu intellektual funksiyaning ahamiyatini ko‘rish mumkin."
+  },
+  "ch58-f38": {
+   "text": "Bu yuzlarni tanish sohasining ensa qismi ko‘ruv po‘stlog‘iga tutashgan, chakka qismi esa, 59-bobda ko‘rganimizdek, hissiyotlar, bosh miyaning faollashuvi va odamning atrof-muhitga xulq-atvor javobini boshqarish bilan bog‘liq bo‘lgan limbik tizim bilan yaqin bog‘langan."
+  },
+  "ch58-f39": {
+   "text": "Orqa yuqori chakka bo‘lagining keng qamrovli talqin funksiyasi — “Vernike sohasi” (umumiy talqin sohasi)"
+  },
+  "ch58-f40": {
+   "text": "Somatik, ko‘rish va eshitish assotsiativ sohalarining hammasi yuqori chakka bo‘lagining orqa qismida — chakka, tepa va ensa bo‘laklari birlashadigan joyda uchrashadi (**Rasm 58-7**). Turli sezgi talqin sohalarining bu qo‘shilish sohasi ayniqsa bosh miyaning _dominant_ tomonida — deyarli barcha o‘naqay odamlarda _chap tomonda_ — yuqori darajada rivojlangan va u biz _intellekt_ deb ataydigan bosh miya funksiyasining yuqori tushunish darajalari uchun bosh miya po‘stlog‘ining har qanday boshqa qismidan ko‘ra eng katta yagona rolni o‘ynaydi. Shuning uchun bu soha deyarli global ahamiyatga ega sohani anglatuvchi turli nomlar bilan atalgan: _umumiy talqin sohasi,_ _gnostik soha,_ _bilish_ sohasi, _uchlamchi assotsiativ soha_ va hokazo. U intellektual jarayonlardagi alohida ahamiyatini birinchi bo‘lib tasvirlagan nevrolog sharafiga _Vernike sohasi_ nomi bilan eng yaxshi tanilgan."
+  },
+  "ch58-f42": {
+   "text": "Vernike sohasi og‘ir shikastlangandan keyin odam juda yaxshi eshitishi va hatto turli so‘zlarni tanishi mumkin, ammo bu so‘zlarni izchil fikrga tartibga sola olmaydi. Xuddi shunday, odam bosma sahifadagi so‘zlarni o‘qiy olishi mumkin, ammo yetkazilayotgan fikrni taniy olmaydi."
+  },
+  "ch58-f43": {
+   "text": "Ongli odamda Vernike sohasini elektr bilan qo‘zg‘atish ba’zan juda murakkab fikrni keltirib chiqaradi, ayniqsa qo‘zg‘atuvchi elektrod bosh miyaga talamusning tegishli bog‘lovchi sohalariga yaqinlashadigan darajada chuqur kiritilganda. Boshdan kechirilishi mumkin bo‘lgan fikrlar turlariga bolalikdan eslab qolingan murakkab ko‘rish manzaralari, muayyan musiqa asari kabi eshitish gallyutsinatsiyalari yoki hatto muayyan odam aytgan gap kiradi. Shu sababli Vernike sohasining faollashuvi, alohida xotiralarning aksariyati boshqa joyda saqlangan bo‘lsa ham, bir nechta sezgi modalligini o‘z ichiga olgan murakkab xotira shakllarini chaqirib chiqara oladi, deb hisoblanadi. Bu fikr Vernike sohasining sezgi tajribalarining turli shakllarining murakkab ma’nolarini talqin qilishdagi ahamiyatiga mos keladi."
+  },
+  "ch58-f44": {
+   "text": "_Burchakli pushta_ — orqa tepa bo‘lagining eng pastki qismi; u Vernike sohasidan bevosita orqada joylashgan va orqa tomonda ensa bo‘lagining ko‘rish sohalari bilan ham qo‘shilib ketadi. Agar chakka bo‘lagidagi Vernike sohasi saqlanib qolgani holda bu soha yemirilsa, odam eshitish tajribalarini odatdagidek talqin qila oladi, ammo ko‘ruv po‘stlog‘idan Vernike sohasiga o‘tuvchi ko‘rish tajribalari oqimi asosan to‘siladi. Shuning uchun odam so‘zlarni ko‘ra olishi va hatto ular so‘z ekanini bilishi mumkin, ammo ularning ma’nosini talqin qila olmasligi mumkin. Bu holat _aleksiya_ yoki _so‘z ko‘rligi_ deb ataladi. _“Disleksiya”_ atamasi to‘liq so‘z ko‘rligini emas, balki yozma tilni o‘rganishdagi _qiyinchilikni_ tavsiflash uchun ishlatiladi.",
+   "lead": "Burchakli pushta — ko‘rish axborotini talqin qilish."
+  },
+  "ch58-f45": {
+   "text": "Dominant yarim shar tushunchasi"
+  },
+  "ch58-f46": {
+   "text": "Vernike sohasi va burchakli pushtaning umumiy talqin funksiyalari, shuningdek nutq va harakatni boshqarish sohalarining funksiyalari odatda bir katta miya yarim sharida ikkinchisiga qaraganda ancha yuqori rivojlangan bo‘ladi. Shuning uchun bu yarim shar _dominant yarim shar_ deb ataladi. Barcha odamlarning taxminan 95% ida chap yarim shar dominant hisoblanadi."
+  },
+  "ch58-f47": {
+   "text": "Hatto tug‘ilish paytida ham chaqaloqlarning yarmidan ko‘pida keyinchalik Vernike sohasiga aylanadigan po‘stloq sohasi chap yarim sharda o‘ngdagidan 50% gacha kattaroq bo‘ladi. Shuning uchun bosh miyaning chap tomoni nega o‘ng tomon ustidan dominant bo‘lib qolishini tushunish oson. Biroq agar biror sababga ko‘ra bu chap tomon sohasi juda erta bolalikda shikastlansa yoki olib tashlansa, odatda bosh miyaning qarama-qarshi tomoni dominant xususiyatlarni rivojlantiradi."
+  },
+  "ch58-f48": {
+   "text": "Bir yarim sharning ikkinchisi ustidan dominant bo‘lish qobiliyatini quyidagi nazariya tushuntirishi mumkin. “Ong”ning diqqati bir vaqtda bitta asosiy fikrga qaratilganga o‘xshaydi. Ehtimol, tug‘ilishda chap orqa chakka bo‘lagi odatda o‘ngdagidan biroz kattaroq bo‘lgani sababli, normal holatda chap tomondan o‘ng tomonga qaraganda ko‘proq foydalanila boshlanadi. Shundan keyin diqqatni yaxshiroq rivojlangan sohaga qaratish moyilligi tufayli birinchi bo‘lib boshlagan katta miya yarim sharida o‘rganish sur’ati tez ortadi, qarama-qarshi, kamroq ishlatiladigan tomonda esa o‘rganish kamroq rivojlangan bo‘lib qoladi. Shuning uchun normal holatda chap tomon o‘ng tomon ustidan dominant bo‘ladi."
+  },
+  "ch58-f49": {
+   "text": "Barcha odamlarning taxminan 95% ida chap chakka bo‘lagi va burchakli pushta dominant bo‘ladi, qolgan 5% ida esa yo ikkala tomon bir vaqtda rivojlanib, ikki tomonlama funksiyaga ega bo‘ladi, yoki kamdan-kam hollarda faqat o‘ng tomon yuqori darajada rivojlanib, to‘liq dominantlikka erishadi."
+  },
+  "ch58-f50": {
+   "text": "Bobning keyingi qismida muhokama qilinganidek, oraliq peshona bo‘lagida juda lateral joylashgan premotor nutq sohasi (Broka sohasi) ham deyarli doimo bosh miyaning chap tomonida dominant bo‘ladi. Bu nutq sohasi hiqildoq muskullari, nafas muskullari va og‘iz muskullarini bir vaqtda qo‘zg‘atish orqali so‘zlarni hosil qilish uchun javobgar."
+  },
+  "ch58-f51": {
+   "text": "Qo‘l panjalarini boshqaruvchi harakat sohalari ham odamlarning taxminan 90% ida bosh miyaning chap tomonida dominant bo‘ladi, shu sababli ko‘pchilik odamlar o‘naqay bo‘ladi."
+  },
+  "ch58-f52": {
+   "text": "Chakka bo‘lagi va burchakli pushtaning talqin sohalari, shuningdek ko‘plab harakat sohalari odatda faqat chap yarim sharda yuqori darajada rivojlangan bo‘lsa-da, bu sohalar ikkala yarim shardan sezgi axborotini oladi va ikkala yarim shardagi harakat faoliyatini ham boshqara oladi. Buning uchun ular ikki yarim shar o‘rtasidagi aloqa uchun asosan _qadoqsimon tanadagi (korpus kallozumdagi)_ tola yo‘llaridan foydalanadi. Bu yagona, o‘zaro axborot almashinuvchi tuzilish bosh miyaning ikki tomoni o‘rtasidagi o‘zaro xalaqitning oldini oladi; bunday xalaqit aqliy fikrlarni ham, harakat javoblarini ham parokanda qilishi mumkin edi."
+  },
+  "ch58-f53": {
+   "text": "Vernike sohasi funksiyasida va intellektual funksiyalarda tilning roli"
+  },
+  "ch58-f54": {
+   "text": "Sezgi tajribamizning katta qismi bosh miyaning xotira sohalarida saqlanishidan va boshqa intellektual maqsadlar uchun qayta ishlanishidan oldin o‘zining til ekvivalentiga aylantiriladi. Masalan, kitob o‘qiganimizda biz bosma so‘zlarning ko‘rish tasvirlarini emas, balki so‘zlarning o‘zini yoki ular yetkazgan fikrlarni, ko‘pincha til shaklida saqlaymiz."
+  },
+  "ch58-f55": {
+   "text": "Dominant yarim sharning tilni talqin qiluvchi sezgi sohasi — Vernike sohasi; bu soha chakka bo‘lagining birlamchi va ikkilamchi eshitish sohalari bilan yaqin bog‘langan. Bu yaqin munosabat, ehtimol, til bilan ilk tanishuv eshitish orqali bo‘lishidan kelib chiqadi. Keyinchalik hayotda o‘qish vositasida tilni ko‘rish orqali idrok etish rivojlanganda, yozma so‘zlar yetkazadigan ko‘rish axboroti, ehtimol, ko‘rish assotsiativ sohasi bo‘lgan burchakli pushta orqali dominant chakka bo‘lagining allaqachon rivojlangan Vernike tilni talqin qilish sohasiga yo‘naltiriladi."
+  },
+  "ch58-f56": {
+   "text": "Dominant bo‘lmagan yarim shardagi tepa-ensa-chakka po‘stlog‘ining funksiyalari"
+  },
+  "ch58-f57": {
+   "text": "Katta yoshli odamning dominant yarim sharidagi Vernike sohasi yemirilganda, odam odatda til yoki og‘zaki simvolizm bilan bog‘liq deyarli barcha intellektual funksiyalarni — o‘qish qobiliyatini, matematik amallarni bajarish qobiliyatini va hatto mantiqiy masalalarni o‘ylab yechish qobiliyatini yo‘qotadi. Ko‘plab boshqa turdagi talqin qobiliyatlari, ulardan ba’zilari qarama-qarshi yarim sharning chakka bo‘lagi va burchakli pushta sohalaridan foydalanadi, saqlanib qoladi."
+  },
+  "ch58-f58": {
+   "text": "Dominant bo‘lmagan yarim shari shikastlangan bemorlarda o‘tkazilgan psixologik tadqiqotlar bu yarim shar musiqani, og‘zaki bo‘lmagan ko‘rish tajribalarini (ayniqsa ko‘rish shakllarini), odam va uning atrofi o‘rtasidagi fazoviy munosabatlarni, “tana tili” va odamlar ovozi intonatsiyalarining ahamiyatini hamda, ehtimol, oyoq-qo‘llar va qo‘l panjalaridan foydalanish bilan bog‘liq ko‘plab somatik tajribalarni tushunish va talqin qilish uchun ayniqsa muhim bo‘lishi mumkinligini ko‘rsatgan. Shunday qilib, biz “dominant” yarim shar haqida gapirsak-da, bu dominantlik asosan tilga asoslangan intellektual funksiyalar uchundir; dominant bo‘lmagan deb ataladigan yarim shar aslida intellektning ba’zi boshqa turlari uchun dominant bo‘lishi mumkin."
+  },
+  "ch58-f59": {
+   "text": "Prefrontal assotsiativ sohalarning yuqori intellektual (“ijro etuvchi”) funksiyalari"
+  },
+  "ch58-f60": {
+   "text": "Ko‘p yillar davomida prefrontal po‘stloq insonda “yuqori intellekt”ning joyi deb o‘rgatib kelindi, asosan maymunlar va odamlar bosh miyasi o‘rtasidagi asosiy farq inson prefrontal sohalarining keskin ustunligi bo‘lgani uchun. Biroq prefrontal po‘stloq yuqori intellektual funksiyalarda bosh miyaning boshqa qismlaridan muhimroq ekanini ko‘rsatishga urinishlar muvaffaqiyatli bo‘lmagan. Haqiqatan ham, dominant yarim shardagi orqa yuqori chakka bo‘lagidagi tilni tushunish sohasi (Vernike sohasi) va unga qo‘shni burchakli pushta sohasining yemirilishi intellektga prefrontal sohalarning yemirilishidan ancha ko‘proq zarar yetkazadi."
+  },
+  "ch58-f61": {
+   "text": "Biroq prefrontal sohalarning o‘ziga xos, kamroq aniqlanadigan, ammo muhim intellektual funksiyalari bor. Prefrontal po‘stlog‘i shikastlangan bemorlarda harakat funksiyalari normal bo‘lishi va ular hatto ba’zi intellekt testlarini normal bajarishi mumkin. Biroq ular normal kundalik hayotda samarali faoliyat yurita olmaydi. Bu funksiyalarni prefrontal sohalari shikastlangan bemorlarda nima yuz berishini tasvirlash orqali quyidagicha tushuntirish mumkin."
+  },
+  "ch58-f62": {
+   "text": "Bir necha o‘n yil oldin, psixiatrik holatlarni davolash uchun zamonaviy dorilar paydo bo‘lishidan oldin, ba’zi bemorlar bosh miyaning prefrontal sohalari va bosh miyaning qolgan qismi o‘rtasidagi neyron bog‘lanishlarni _prefrontal lobotomiya_ deb ataladigan muolaja orqali kesish yo‘li bilan og‘ir psixotik depressiyadan sezilarli yengillik olishlari mumkinligi aniqlangan. Bu muolaja boshning har ikki tomonida lateral peshona suyagidagi kichik teshik orqali to‘mtoq, yupqa tig‘li pichoqni kiritib, bosh miyani prefrontal bo‘laklarning orqa chetidan yuqoridan pastga qarab kesish orqali bajarilgan. Bu bemorlarda o‘tkazilgan keyingi tadqiqotlar quyidagi ruhiy o‘zgarishlarni ko‘rsatgan: 1. Bemorlar murakkab muammolarni hal qilish qobiliyatini yo‘qotgan. 2. Ular murakkab maqsadlarga erishish uchun ketma-ket vazifalarni bir-biriga ulay olmay qolgan. 3. Ular bir vaqtda bir nechta parallel vazifani bajarishni o‘rgana olmay qolgan. 4. Ularning tajovuzkorlik darajasi, ba’zan sezilarli darajada pasaygan va ular ko‘pincha intilishni yo‘qotgan. 5. Ularning ijtimoiy javoblari ko‘pincha vaziyatga mos bo‘lmagan, ko‘pincha axloqning yo‘qolishi va jinsiy faoliyat hamda ajratish (defekatsiya-siydik) bilan bog‘liq holda tortinchoqlikning kamligi kuzatilgan. 6. Bemorlar hamon gapira va tilni tushuna olgan, ammo hech qanday uzun fikrlar zanjirini oxiriga yetkaza olmagan va ularning kayfiyati shirinsuxanlikdan g‘azabga, quvonchdan telbalikka tez o‘zgarib turgan. 7. Bemorlar, shuningdek, butun umri davomida bajarib kelgan harakat funksiyasining odatiy shakllarining aksariyatini hamon bajara olgan, ammo ko‘pincha maqsadsiz. Bu ma’lumotlardan prefrontal assotsiativ sohalar funksiyasi haqida izchil tushuncha yaratishga harakat qilaylik."
+  },
+  "ch58-f63": {
+   "text": "Tajovuzkorlikning pasayishi va nomaqbul ijtimoiy javoblar, ehtimol, bosh miyaning pastki yuzasidagi peshona bo‘laklarining ventral qismlarining yo‘qolishidan kelib chiqadi. Yuqorida tushuntirilganidek va **Rasm 58-4** hamda **Rasm 58-5** da ko‘rsatilganidek, bu soha prefrontal assotsiativ po‘stloqning emas, balki limbik assotsiativ po‘stloqning bir qismidir. Bu limbik soha xulq-atvorni boshqarishga yordam beradi; bu 59-bobda batafsil muhokama qilinadi.",
+   "lead": "Tajovuzkorlikning pasayishi va nomaqbul ijtimoiy javoblar."
+  },
+  "ch58-f64": {
+   "text": "Ushbu bobning avvalida prefrontal assotsiativ sohalar bosh miyaning keng sohalaridan axborotni chaqirib olish va bu axborotdan maqsadlarga erishish uchun chuqurroq fikrlash shakllarini hosil qilishda foydalanish qobiliyatiga ega ekanini bilib oldik.",
+   "lead": "Maqsadlar sari olg‘a borolmaslik yoki ketma-ket fikrlarni oxiriga yetkaza olmaslik."
+  },
+  "ch58-f65": {
+   "text": "Prefrontal po‘stlog‘i bo‘lmagan odamlar hamon fikrlay olsa-da, ular bir necha soniya yoki ko‘pi bilan bir daqiqa chamasidan uzoqroq mantiqiy ketma-ketlikda izchil fikrlashni kam namoyon qiladi. Shunday qilib, prefrontal po‘stlog‘i bo‘lmagan odamlar _fikrlashning asosiy mavzusidan osongina chalg‘iydi,_ prefrontal po‘stlog‘i ishlaydigan odamlar esa chalg‘ituvchi omillardan qat’i nazar o‘z fikriy maqsadlarini oxiriga yetkazishga o‘zlarini majbur qila oladi."
+  },
+  "ch58-f66": {
+   "text": "Prefrontal sohalarga nisbat berilgan yana bir funksiya — _fikrni chuqurlashtirish (rivojlantirish),_ ya’ni shunchaki ko‘plab axborot manbalaridan yig‘ilgan turli fikrlarning chuqurligi va mavhumligining ortishi. Psixologik testlar shuni ko‘rsatganki, prefrontal lobektomiya qilingan quyi hayvonlarga ketma-ket sezgi axboroti bo‘laklari taqdim etilganda, ular bu bo‘laklarni hatto vaqtinchalik xotirada ham kuzatib bora olmaydi — ehtimol, ular shunchalik oson chalg‘iydiki, xotirada saqlanish yuz berishi uchun fikrlarni yetarlicha uzoq ushlab tura olmaydi.",
+   "lead": "Prefrontal sohalar tomonidan fikrni chuqurlashtirish, bashorat qilish va yuqori intellektual funksiyalarni bajarish — “ishchi xotira” tushunchasi."
+  },
+  "ch58-f67": {
+   "text": "Prefrontal sohalarning ko‘plab axborot bo‘laklarini bir vaqtda kuzatib borish va bu axborotni keyingi fikrlar uchun kerak bo‘lganda bir zumda eslash qobiliyati “bosh miyaning ishchi xotirasi” deb ataladi; u biz yuqori intellekt bilan bog‘laydigan bosh miyaning ko‘plab funksiyalarini tushuntirishi mumkin. Haqiqatan ham, tadqiqotlar prefrontal sohalar vaqtinchalik xotiraning turli turlarini saqlash uchun alohida segmentlarga bo‘linganini ko‘rsatgan, masalan, bir soha narsa yoki tana qismining shakli va ko‘rinishini saqlash uchun, boshqasi esa harakatni saqlash uchun."
+  },
+  "ch58-f68": {
+   "text": "Ishchi xotiraning bu barcha vaqtinchalik bo‘laklarini birlashtirish orqali biz quyidagilarni bajarish qobiliyatiga ega bo‘lamiz: (1) bashorat qilish; (2) kelajakni rejalashtirish; (3) kiruvchi sezgi signallariga javoban harakatni kechiktirish, toki eng yaxshi javob yo‘li hal qilinguncha sezgi axborotini tortib ko‘rish mumkin bo‘lsin; (4) harakat amallarini bajarishdan oldin ularning oqibatlarini o‘ylab ko‘rish; (5) murakkab matematik, huquqiy yoki falsafiy masalalarni yechish; (6) noyob kasalliklarni tashxislashda barcha axborot yo‘llarini o‘zaro bog‘lash; va (7) faoliyatlarimizni axloqiy qonunlarga muvofiq boshqarish."
+  },
+  "ch58-f69": {
+   "text": "Nevrologik testlar odamning boshqalar bilan muloqot qilish qobiliyatini osongina baholay olgani sababli, biz muloqot bilan bog‘liq sezgi va harakat tizimlari haqida bosh miya po‘stlog‘i funksiyasining boshqa har qanday qismiga qaraganda ko‘proq bilamiz. Shuning uchun **Rasm 58-8** dagi neyron yo‘llarining anatomik xaritalari yordamida po‘stloqning muloqotdagi funksiyasini ko‘rib chiqamiz. Bu tahlildan sezgi tahlili va harakatni boshqarish tamoyillari bu san’atga qanday qo‘llanilishi darhol ko‘rinadi."
+  },
+  "ch58-f71": {
+   "text": "Muloqotning ikki jihati bor — quloqlar va ko‘zlarni o‘z ichiga olgan _sezgi_ (tilni qabul qilish) jihati hamda ovoz chiqarish va uni boshqarishni o‘z ichiga olgan _harakat_ (tilni ifodalash) jihati."
+  },
+  "ch58-f72": {
+   "text": "Bobning avvalida ta’kidlaganimizdek, po‘stloqning _eshitish_ yoki _ko‘rish assotsiativ sohalari_ qismlarining yemirilishi og‘zaki yoki yozma so‘zni tushuna olmaslikka olib kelishi mumkin. Bu ta’sirlar mos ravishda _eshitish retseptiv afaziyasi_ va _ko‘rish retseptiv afaziyasi_, yoki ko‘proq _so‘z karligi_ va _so‘z ko‘rligi_ (_aleksiya_ deb ham ataladi) deb ataladi."
+  },
+  "ch58-f73": {
+   "text": "Ba’zi odamlar og‘zaki so‘zni yoki yozma so‘zni tushuna oladi, ammo _ifodalangan fikrni talqin qila olmaydi._ Bu holat ko‘pincha _dominant yarim shardagi orqa yuqori chakka pushtasidagi_ _Vernike sohasi_ shikastlanganda yoki yemirilganda yuzaga keladi. Shuning uchun afaziyaning bu turi _Vernike afaziyasi_ deb ataladi.",
+   "lead": "Vernike afaziyasi va global afaziya."
+  },
+  "ch58-f74": {
+   "text": "Vernike sohasidagi shikastlanish keng tarqalgan bo‘lib, (1) orqaga burchakli pushta sohasiga, (2) pastga chakka bo‘lagining pastki sohalariga va (3) yuqoriga Silviy egatining yuqori chetiga cho‘zilsa, odam tilni tushunish yoki muloqot qilish bo‘yicha deyarli butunlay “aqlan ojiz” bo‘lib qolishi ehtimoli katta va shuning uchun unda _global afaziya_ bor, deyiladi."
+  },
+  "ch58-f75": {
+   "text": "",
+   "lead": "Muloqotning harakat jihatlari"
+  },
+  "ch58-f76": {
+   "text": "Nutq jarayoni aqliy faoliyatning ikki asosiy bosqichini o‘z ichiga oladi: (1) ongda ifodalanadigan fikrlarni shakllantirish va ishlatiladigan so‘zlarni tanlash; so‘ngra (2) ovoz chiqarishni harakat jihatdan boshqarish va ovoz chiqarishning haqiqiy amalining o‘zi."
+  },
+  "ch58-f77": {
+   "text": "Fikrlarni shakllantirish va hatto so‘zlarni tanlashning aksariyati bosh miyaning sezgi assotsiativ sohalarining funksiyasidir. Bu qobiliyat uchun ham yuqori chakka pushtasining orqa qismidagi Vernike sohasi eng muhimdir. Shuning uchun Vernike afaziyasi yoki global afaziyasi bo‘lgan odam yetkazilishi kerak bo‘lgan fikrlarni shakllantira olmaydi. Yoki, agar shikastlanish kamroq og‘ir bo‘lsa, odam fikrlarni shakllantira olishi mumkin, ammo fikrni ifodalash uchun tegishli so‘zlar ketma-ketligini tuza olmaydi. Odam ba’zan hatto so‘zlarni ravon gapiradi, ammo so‘zlar chalkash bo‘ladi."
+  },
+  "ch58-f78": {
+   "text": "Ba’zan odam nima demoqchi ekanini hal qila oladi, ammo ovoz tizimini shovqin o‘rniga so‘zlar chiqarishga majbur qila olmaydi. _Harakat afaziyasi_ deb ataladigan bu ta’sir bosh miya po‘stlog‘ining _prefrontal_ va _premotor_ yuz sohalarida — taxminan 95% hollarda chap yarim sharda — joylashgan _Broka nutq sohasining_ shikastlanishidan kelib chiqadi (**Rasm 58-5** va **Rasm 58-8**). Hiqildoq, lablar, og‘iz, nafas tizimi va nutqning boshqa yordamchi muskullarini boshqarish uchun _mohirona harakat shakllari_ hammasi shu sohadan boshlanadi.",
+   "lead": "Broka sohasining yo‘qolishi harakat (motor) afaziyasiga olib keladi."
+  },
+  "ch58-f79": {
+   "text": "Nihoyat, artikulyatsiya amali bor; bu ketma-ket tovushlarning intonatsiyasi, vaqti va intensivligining tez o‘zgarishlari uchun javobgar bo‘lgan og‘iz, til, hiqildoq, ovoz boylamlari va hokazolarning muskul harakatlarini anglatadi. _Harakat po‘stlog‘ining yuz va hiqildoq sohalari_ bu muskullarni faollashtiradi, _miyacha, bazal gangliylar_ va _sezgi po‘stlog‘i_ esa 56- va 57-boblarda tasvirlangan bazal gangliylar va miyacha qaytar aloqa mexanizmlaridan keng foydalanib, muskul qisqarishlarining ketma-ketligi va intensivligini boshqarishga yordam beradi. Bu sohalarning har qandayining yemirilishi aniq gapira olmaslikning to‘liq yoki qisman shakliga olib kelishi mumkin.",
+   "lead": "Artikulyatsiya."
+  },
+  "ch58-f80": {
+   "text": "**Rasm 58-8** da muloqotning ikki asosiy yo‘li ko‘rsatilgan. Rasmning yuqori yarmida eshitish va gapirishda ishtirok etuvchi yo‘l ko‘rsatilgan. Bu ketma-ketlik quyidagicha: (1) so‘zlarni kodlovchi tovush signallarining birlamchi eshitish sohasida qabul qilinishi; (2) so‘zlarning Vernike sohasida talqin qilinishi; (3) aytiladigan fikrlar va so‘zlarning ham Vernike sohasida aniqlanishi; (4) signallarning Vernike sohasidan Broka sohasiga _yoysimon tutam (fasciculus arcuatus)_ orqali uzatilishi; (5) so‘z hosil qilishni boshqarish uchun Broka sohasida mohirona harakat dasturlarining faollashuvi; va (6) nutq muskullarini boshqarish uchun harakat po‘stlog‘iga tegishli signallarning uzatilishi."
+  },
+  "ch58-f81": {
+   "text": "Rasmning pastki qismida o‘qish va so‘ngra javoban gapirishdagi o‘xshash bosqichlar tasvirlangan. So‘zlar uchun dastlabki qabul qiluvchi soha birlamchi eshitish sohasida emas, balki birlamchi ko‘rish sohasida. So‘ngra axborot _burchakli pushta sohasida_ talqinning dastlabki bosqichlaridan o‘tadi va nihoyat Vernike sohasida to‘liq tanish darajasiga yetadi. Shu yerdan boshlab ketma-ketlik og‘zaki so‘zga javoban gapirishdagi bilan bir xil."
+  },
+  "ch58-f82": {
+   "text": "Qadoqsimon tana va oldingi bitishma fikrlar, xotiralar, ko‘nikmalar va boshqa axborotni ikki katta miya yarim shari o‘rtasida uzatadi"
+  },
+  "ch58-f83": {
+   "text": "_Qadoqsimon tanadagi_ tolalar ikki katta miya yarim sharining po‘stloq sohalarining aksariyati o‘rtasida mo‘l ikki tomonlama neyron bog‘lanishlarni ta’minlaydi; bundan chakka bo‘laklarining oldingi qismlari mustasno — bu chakka sohalari, jumladan ayniqsa _bodomsimon tana (amigdala),_ _oldingi bitishma (comissura anterior)_ orqali o‘tuvchi tolalar bilan o‘zaro bog‘langan."
+  },
+  "ch58-f84": {
+   "text": "Qadoqsimon tana va oldingi bitishmaning funksiyalaridan biri — bir yarim shar po‘stlog‘ida saqlangan axborotni qarama-qarshi yarim sharning tegishli po‘stloq sohalariga yetkazish. Quyidagi muhim misollar ikki yarim shar o‘rtasidagi bunday hamkorlikni ko‘rsatadi. 1. Qadoqsimon tanani kesish dominant yarim shardagi Vernike sohasidan bosh miyaning qarama-qarshi tomonidagi harakat po‘stlog‘iga axborot uzatilishini to‘sadi. Shuning uchun chap yarim sharda joylashgan Vernike sohasining intellektual funksiyalari chap qo‘l panjasi va qo‘lning ixtiyoriy harakat funksiyalarini boshlab beruvchi o‘ng harakat po‘stlog‘i ustidan nazoratni yo‘qotadi, garchi chap qo‘l panjasi va qo‘lning odatiy ongsiz harakatlari normal bo‘lsa-da. 2. Qadoqsimon tanani kesish o‘ng yarim shardan chap dominant yarim shardagi Vernike sohasiga somatik va ko‘rish axborotining uzatilishiga to‘sqinlik qiladi. Shuning uchun tananing chap tomonidan keluvchi somatik va ko‘rish axboroti ko‘pincha bosh miyaning bu umumiy talqin sohasiga yetib bormaydi va shu sababli qaror qabul qilishda ishlatilishi mumkin emas. 3. Nihoyat, qadoqsimon tanasi to‘liq kesilgan odamlarda bosh miyaning ikkita alohida ongli qismi bo‘ladi. Masalan, qadoqsimon tanasi kesilgan o‘smir bolada faqat bosh miyasining chap yarmi yozma so‘zni ham, og‘zaki so‘zni ham tushuna olgan, chunki chap tomon dominant yarim shar edi. Aksincha, bosh miyaning o‘ng tomoni yozma so‘zni tushuna olgan, ammo og‘zaki so‘zni tushuna olmagan. Bundan tashqari, o‘ng po‘stloq yozma so‘zga javoban harakat javobini chaqira olgan, chap po‘stloq esa javob nima uchun bajarilganini hech qachon bilmagan. Bosh miyaning o‘ng tomonida hissiy javob uyg‘otilganda ta’sir butunlay boshqacha bo‘lgan: bu holda bosh miyaning chap tomonida ham ongsiz hissiy javob yuzaga kelgan. Bu javob, shubhasiz, bosh miyaning ikki tomonidagi hissiyotlar sohalari — oldingi chakka po‘stloqlari va qo‘shni sohalar — kesilmagan oldingi bitishma orqali bir-biri bilan hamon aloqada bo‘lgani uchun yuzaga kelgan. Masalan, bosh miyasining o‘ng yarmi ko‘rishi uchun “o‘p” buyrug‘i yozilganda, bola darhol va to‘liq hissiyot bilan: “Hech qachon!” degan. Bu javob chap yarim shardagi Vernike sohasi va nutq harakat sohalarining ishlashini talab qilgan, chunki “Hech qachon!” so‘zlarini aytish uchun bu chap tomondagi sohalar zarur edi. Biroq nima uchun bunday deganini so‘rashganda, bola buni tushuntira olmagan. Shunday qilib, bosh miyaning ikki yarmi ong, xotirada saqlash, muloqot va harakat faoliyatlarini boshqarish uchun mustaqil qobiliyatlarga ega. Ikki tomonning yuzaki ongsiz darajada hamkorlikda ishlashi uchun qadoqsimon tana zarur, oldingi bitishma esa bosh miyaning ikki tomonining hissiy javoblarini birlashtirishda muhim qo‘shimcha rol o‘ynaydi."
+  },
+  "ch58-f85": {
+   "text": "Fikrlar, ong va xotira"
+  },
+  "ch58-f86": {
+   "text": "Ong, fikrlar, xotira va o‘rganishni muhokama qilishdagi eng qiyin muammomiz shundaki, biz fikrning neyron mexanizmlarini bilmaymiz va xotira mexanizmlari haqida kam narsa bilamiz. Biz bilamizki, bosh miya po‘stlog‘ining katta qismlarining yemirilishi odamning fikrlashiga to‘sqinlik qilmaydi, ammo fikrlarning _chuqurligini_ va atrof-muhitni anglash _darajasini_ ham kamaytiradi."
+  },
+  "ch58-f87": {
+   "text": "Har bir fikr, albatta, bosh miya po‘stlog‘i, talamus, limbik tizim va miya ustuni retikulyar formatsiyasining ko‘plab qismlaridagi bir vaqtdagi signallarni o‘z ichiga oladi. Ba’zi oddiy fikrlar, ehtimol, deyarli butunlay quyi markazlarga bog‘liq; og‘riq haqidagi fikr, ehtimol, yaxshi misoldir, chunki inson po‘stlog‘ini elektr bilan qo‘zg‘atish kamdan-kam hollarda yengil og‘riqdan ortiq narsani chaqiradi, gipotalamus, bodomsimon tana va o‘rta miyaning ma’lum sohalarini qo‘zg‘atish esa chidab bo‘lmas og‘riqni keltirib chiqarishi mumkin. Aksincha, bosh miya po‘stlog‘ining keng ishtirokini talab qiladigan fikr shakli turi — ko‘rish, chunki ko‘ruv po‘stlog‘ining yo‘qolishi ko‘rish shakli yoki rangini idrok eta olmaslikka to‘liq olib keladi."
+  },
+  "ch58-f88": {
+   "text": "Fikrning neyron faolligi nuqtai nazaridan vaqtinchalik ta’rifini quyidagicha shakllantirishimiz mumkin. Fikr nerv tizimining ko‘plab qismlarining bir vaqtdagi qo‘zg‘alish “shaklidan” kelib chiqadi; bunda, ehtimol, eng muhimi bosh miya po‘stlog‘i, talamus, limbik tizim va miya ustunining yuqori retikulyar formatsiyasi ishtirok etadi. Bu nazariya fikrlarning _yaxlitlik (holistik) nazariyasi_ deb ataladi va soddalashtirib aytganda, butun uning qismlari yig‘indisidan kattaroq ekanini anglatadi. Limbik tizim, talamus va retikulyar formatsiyaning qo‘zg‘algan sohalari fikrning umumiy tabiatini belgilaydi, unga rohat, norozilik, og‘riq, qulaylik, sezgining qo‘pol modalliklari, tananing yirik sohalariga lokalizatsiya va boshqa umumiy xususiyatlarni beradi, deb hisoblanadi. Biroq bosh miya po‘stlog‘ining muayyan qo‘zg‘algan sohalari fikrning alohida xususiyatlarini belgilaydi, masalan: (1) sezgilarning tana yuzasida va narsalarning ko‘rish maydonlarida aniq lokalizatsiyasi, (2) ipak teksturasining sezilishi, (3) beton blokli devorning to‘rtburchak naqshini ko‘rish orqali tanish va (4) odamning ma’lum bir lahzani umumiy anglashiga kiruvchi boshqa individual xususiyatlar. _Ongni_, ehtimol, atrof-muhitimiz yoki ketma-ket fikrlarimizni anglashimizning uzluksiz oqimi sifatida tasvirlash mumkin."
+  },
+  "ch58-f89": {
+   "text": "Xotira — sinaptik faollashuv (fasilitatsiya) va sinaptik tormozlanishning roli"
+  },
+  "ch58-f90": {
+   "text": "Xotiralar bosh miyada oldingi neyron faolligi natijasida neyronlar o‘rtasidagi sinaptik uzatishning asosiy sezgirligini o‘zgartirish orqali saqlanadi. Yangi yoki faollashgan yo‘llar _xotira izlari_ (engrammalar) deb ataladi. Ular muhim, chunki izlar bir marta hosil bo‘lgach, xotiralarni qayta tiklash uchun fikrlovchi ong tomonidan tanlab faollashtirilishi mumkin."
+  },
+  "ch58-f91": {
+   "text": "Quyi hayvonlarda o‘tkazilgan tajribalar xotira izlari nerv tizimining barcha darajalarida yuzaga kelishi mumkinligini ko‘rsatgan. Hatto orqa miya reflekslari ham orqa miyaning takroriy faollashuviga javoban hech bo‘lmaganda biroz o‘zgarishi mumkin va bu refleks o‘zgarishlari xotira jarayonining bir qismidir. Shuningdek, uzoq muddatli xotiralar bosh miyaning quyi markazlarida sinaptik o‘tkazuvchanlikning o‘zgarishidan kelib chiqadi. Biroq biz intellektual jarayonlar bilan bog‘laydigan xotiraning aksariyati bosh miya po‘stlog‘idagi xotira izlariga asoslangan."
+  },
+  "ch58-f92": {
+   "text": "Biz ko‘pincha xotiralarni oldingi fikrlar yoki tajribalarning _musbat_ eslanishi deb o‘ylasak-da, xotiralarimizning katta qismi, ehtimol, musbat emas, balki _manfiydir._ Ya’ni bosh miyamiz barcha sezgi a’zolarimizdan keluvchi sezgi axboroti bilan to‘lib-toshgan. Agar ongimiz bu axborotning barchasini eslab qolishga urinsa, bosh miyaning xotira sig‘imi tezda to‘lib ketar edi. Baxtimizga, bosh miya ahamiyatsiz axborotni e’tiborsiz qoldirish qobiliyatiga ega. Bu qobiliyat bunday turdagi axborot uchun sinaptik yo‘llarning _tormozlanishidan_ kelib chiqadi; natijadagi ta’sir _odatlanish (habituatsiya)_ deb ataladi va u _manfiy_ xotiraning bir turidir.",
+   "lead": "Musbat va manfiy xotira — sinaptik uzatishning “sensibilizatsiyasi” yoki “odatlanishi”."
+  },
+  "ch58-f93": {
+   "text": "Aksincha, og‘riq yoki rohat kabi muhim oqibatlarga olib keluvchi kiruvchi axborot uchun bosh miya xotira izlarini kuchaytirish va saqlashning boshqacha avtomatik qobiliyatiga ega — bu _musbat_ xotira. U sinaptik yo‘llarning _faollashuvidan (fasilitatsiyasidan)_ kelib chiqadi va bu jarayon _xotira sensibilizatsiyasi_ deb ataladi. Keyinroq muhokama qilganimizdek, bosh miyaning bazal limbik sohalaridagi maxsus sohalar axborot muhim yoki ahamiyatsiz ekanini aniqlaydi va fikrni _sensibilizatsiyalangan_ xotira izi sifatida saqlash yoki uni bostirish haqida ongsiz qaror qabul qiladi."
+  },
+  "ch58-f94": {
+   "text": "Biz bilamizki, ba’zi xotiralar atigi bir necha soniya, boshqalari esa soatlar, kunlar, oylar yoki yillar davom etadi. Xotiralarning bu turlarini muhokama qilish uchun xotiralarni quyidagilarga ajratuvchi umumiy tasnifdan foydalanishimiz mumkin: (1) _qisqa muddatli xotira_ — uzoqroq muddatli xotiralarga aylantirilmasa, soniyalar yoki ko‘pi bilan daqiqalar davom etadigan xotiralar; (2) _oraliq uzoq muddatli xotiralar_ — kunlardan haftalargacha davom etib, keyin so‘nib ketadi; va (3) _uzoq muddatli xotira_ — bir marta saqlangach, yillar o‘tib yoki hatto butun umr davomida eslanishi mumkin.",
+   "lead": "Xotiralarning tasnifi."
+  },
+  "ch58-f95": {
+   "text": "Xotiralarning bu umumiy tasnifidan tashqari, biz avvalroq (prefrontal bo‘laklar bilan bog‘liq holda) “ishchi xotira” deb ataladigan yana bir xotira turini muhokama qildik; u asosan intellektual mulohaza davomida ishlatiladigan, ammo muammoning har bir bosqichi hal qilingach tugaydigan qisqa muddatli xotirani o‘z ichiga oladi."
+  },
+  "ch58-f96": {
+   "text": "Xotiralar ko‘pincha saqlanadigan axborot turiga qarab tasniflanadi. Bu tasniflardan biri xotirani _deklarativ xotira_ va _ko‘nikma xotirasiga_ quyidagicha ajratadi: 1. _Deklarativ xotira_ asosan yaxlit fikrning turli tafsilotlari xotirasini anglatadi, masalan, quyidagilar xotirasini o‘z ichiga olgan muhim tajriba xotirasi: (1) atrof-muhit; (2) vaqt munosabatlari; (3) tajribaning sabablari; (4) tajribaning ma’nosi; va (5) odam ongida qolgan xulosalar. 2. _Ko‘nikma xotirasi_ ko‘pincha odam tanasining harakat faoliyatlari bilan bog‘liq, masalan, tennis to‘pini urish uchun rivojlangan barcha ko‘nikmalar, jumladan quyidagilarning avtomatik xotiralari: (1) to‘pni ko‘rish, (2) to‘pning raketkaga nisbatan joylashuvi va tezligini hisoblash va (3) to‘pni istalgandek urish uchun zarur bo‘lgan tana, qo‘llar va raketka harakatlarini tezda aniqlash — bu ko‘nikmalarning barchasi o‘yinni oldindan o‘rganish asosida bir zumda faollashadi — so‘ngra oldingi zarba tafsilotlarini unutib, o‘yinning keyingi zarbasiga o‘tish."
+  },
+  "ch58-f97": {
+   "text": "Qisqa muddatli xotiraning tipik namunasi — telefon raqamidagi 7–10 ta raqamni (yoki 7–10 ta boshqa alohida faktni) bir necha soniyadan bir necha daqiqagacha eslab qolish; u faqat odam raqamlar yoki faktlar haqida o‘ylashda davom etguncha saqlanadi."
+  },
+  "ch58-f98": {
+   "text": "Ko‘plab fiziologlar bu qisqa muddatli xotira _aylanma (reverberatsiyalovchi) neyronlar zanjirida_ vaqtinchalik xotira izi atrofida qayta-qayta aylanib yuruvchi nerv signallaridan kelib chiqadigan uzluksiz neyron faolligi tufayli yuzaga keladi, deb taxmin qilgan. Bu nazariyani hali isbotlashning iloji bo‘lmagan. Qisqa muddatli xotiraning yana bir ehtimoliy izohi — _presinaptik faollashuv yoki tormozlanish_; u oxirgi nerv tolachalari keyingi neyron bilan sinaps hosil qilishidan bevosita oldin ularda joylashgan sinapslarda yuz beradi. Bunday oxirlarda ajraladigan neyromediator kimyoviy moddalar ko‘pincha soniyalardan bir necha daqiqagacha davom etuvchi faollashuv yoki tormozlanishni keltirib chiqaradi. Bu turdagi zanjirlar qisqa muddatli xotiraga olib kelishi mumkin."
+  },
+  "ch58-f99": {
+   "text": "Oraliq uzoq muddatli xotira"
+  },
+  "ch58-f100": {
+   "text": "Oraliq uzoq muddatli xotiralar ko‘p daqiqalar yoki hatto haftalar davom etishi mumkin. Agar xotira izlari yanada doimiyroq bo‘lishi uchun yetarlicha faollashtirilmasa, ular oxir-oqibat yo‘qoladi; faollashtirilsa, ular _uzoq muddatli xotiralar_ sifatida tasniflanadi. Hayvonlarda o‘tkazilgan tajribalar oraliq uzoq muddatli turdagi xotiralar sinapsning presinaptik oxirlarida yoki postsinaptik membranasida vaqtinchalik kimyoviy yoki fizik o‘zgarishlar yoki ikkalasidan kelib chiqishi mumkinligini ko‘rsatgan; bu o‘zgarishlar bir necha daqiqadan bir necha haftagacha saqlanishi mumkin. Bu mexanizmlar shunchalik muhimki, ular alohida tavsifga loyiq."
+  },
+  "ch58-f101": {
+   "text": "Presinaptik oxirlar yoki postsinaptik neyron membranalaridagi kimyoviy o‘zgarishlarga asoslangan xotira"
+  },
+  "ch58-f102": {
+   "text": "**Rasm 58-9** da ayniqsa Erik Kandel va uning hamkasblari tomonidan o‘rganilgan, yirik _Aplysia_ shilliqqurtida bir necha daqiqadan 3 haftagacha davom etuvchi xotiralarni keltirib chiqarishi mumkin bo‘lgan xotira mexanizmi ko‘rsatilgan. **Rasm 58-9** da ikkita sinaptik oxir bor. Sezuvchi kirish neyronidan keluvchi bitta oxir to‘g‘ridan-to‘g‘ri qo‘zg‘atilishi kerak bo‘lgan neyron yuzasida tugaydi va _sezuvchi oxir_ deb ataladi. Sezuvchi oxir yuzasida joylashgan boshqa oxir — _presinaptik oxir_ — _faollashtiruvchi (fasilitator) oxir_ deb ataladi. Sezuvchi oxir faollashtiruvchi oxirni qo‘zg‘atmasdan takroran qo‘zg‘atilganda, signal uzatilishi avval kuchli bo‘ladi, ammo takroriy qo‘zg‘atish bilan u tobora susayib, uzatish deyarli to‘xtaguncha kamayadi. Bu hodisa, yuqorida tushuntirilganidek, _odatlanishdir._ Bu neyron zanjirining ahamiyatsiz takroriy hodisalarga javobini yo‘qotishiga sabab bo‘luvchi _manfiy_ xotira turidir."
+  },
+  "ch58-f104": {
+   "text": "Aksincha, agar zararli (noxush) qo‘zg‘atuvchi sezuvchi oxir qo‘zg‘atilayotgan paytda faollashtiruvchi oxirni ham qo‘zg‘atsa, postsinaptik neyronga uzatilayotgan signal tobora kuchsizlanish o‘rniga uzatish yengilligi tobora kuchayib boradi. U faollashtiruvchi oxirni qayta qo‘zg‘atmasdan ham daqiqalar, soatlar, kunlar yoki kuchliroq mashq bilan taxminan 3 haftagacha kuchli bo‘lib qoladi. Shunday qilib, zararli qo‘zg‘atuvchi sezuvchi oxir orqali o‘tuvchi xotira yo‘lini keyingi kunlar yoki haftalar davomida _faollashgan_ holatga keltiradi. Ayniqsa qiziqarlisi shundaki, hatto odatlanish yuz bergandan keyin ham bu yo‘lni atigi bir nechta zararli qo‘zg‘atuvchi bilan yana faollashgan yo‘lga aylantirish mumkin."
+  },
+  "ch58-f105": {
+   "text": "Oraliq xotiraning molekulyar mexanizmi"
+  },
+  "ch58-f106": {
+   "text": "Molekulyar darajada sezuvchi oxirdagi odatlanish ta’siri oxir membranasidagi kalsiy kanallarining asta-sekin yopilishidan kelib chiqadi, garchi bu kalsiy kanallari yopilishining sababi to‘liq ma’lum bo‘lmasa-da. Shunga qaramay, odatlangan oxirga normaldagidan ancha kam miqdorda kalsiy ionlari diffuziyalanib kira oladi va shuning uchun sezuvchi oxir mediatoridan ancha kam ajraladi, chunki kalsiyning kirishi mediator ajralishining asosiy qo‘zg‘atuvchisidir (46-bobda muhokama qilinganidek).",
+   "lead": "Odatlanish mexanizmi."
+  },
+  "ch58-f107": {
+   "text": "Faollashuv holatida molekulyar mexanizmning hech bo‘lmaganda bir qismi quyidagicha deb hisoblanadi: 1. Faollashtiruvchi presinaptik oxirni sezuvchi oxir qo‘zg‘atilayotgan paytda qo‘zg‘atish sezuvchi oxir yuzasidagi faollashtiruvchi sinapsda _serotonin_ ajralishiga olib keladi. 2. Serotonin sezuvchi oxir membranasidagi _serotonin retseptorlariga_ ta’sir qiladi va bu retseptorlar membrana ichida _adenilatsiklaza_ fermentini faollashtiradi. So‘ngra adenilatsiklaza yana sezuvchi presinaptik oxir ichida _siklik adenozinmonofosfat_ (sAMF, cAMP) hosil bo‘lishiga sabab bo‘ladi. 3. sAMF _proteinkinazani_ faollashtiradi; u sezuvchi sinaptik oxir membranasidagi kaliy kanallarining tarkibiy qismi bo‘lgan oqsilning fosforillanishiga olib keladi; bu esa o‘z navbatida kaliy o‘tkazuvchanligi uchun kanallarni to‘sadi. To‘silish daqiqalardan bir necha haftagacha davom etishi mumkin. 4. Kaliy o‘tkazuvchanligining yo‘qligi sinaptik oxirda harakat potensialining keskin uzayishiga olib keladi, chunki harakat potensialidan tez tiklanish uchun kaliy ionlarining oxirdan tashqariga oqishi zarur. 5. Uzaygan harakat potensiali kalsiy kanallarining uzoq muddat faollashuviga sabab bo‘ladi va juda ko‘p miqdordagi kalsiy ionlarining sezuvchi sinaptik oxirga kirishiga imkon beradi. Bu kalsiy ionlari sinaps tomonidan mediator ajralishini keskin oshiradi va shu bilan keyingi neyronga sinaptik uzatishni sezilarli darajada faollashtiradi. Shunday qilib, juda bilvosita yo‘l bilan, sezuvchi oxir qo‘zg‘atilayotgan paytda faollashtiruvchi oxirni qo‘zg‘atishning assotsiativ ta’siri sezuvchi oxirning qo‘zg‘aluvchan sezgirligini uzoq muddat oshiradi va bu xotira izini hosil qiladi.",
+   "lead": "Faollashuv (fasilitatsiya) mexanizmi."
+  },
+  "ch58-f108": {
+   "text": "_Aplysia_ shilliqqurtida o‘tkazilgan qo‘shimcha tadqiqotlar sinaptik xotiraning yana bir mexanizmini taxmin qilishga imkon berdi. Bu tadqiqotlar shuni ko‘rsatdiki, alohida manbalardan keluvchi va bitta neyronga ta’sir qiluvchi qo‘zg‘atuvchilar tegishli sharoitlarda presinaptik neyron membranasida emas, balki _postsinaptik neyron membranasi xususiyatlarida_ uzoq muddatli o‘zgarishlarni keltirib chiqarishi mumkin, ammo bu asosan bir xil xotira ta’sirlariga olib keladi."
+  },
+  "ch58-f109": {
+   "text": "Oraliq uzoq muddatli xotiraning uzoqroq davom etuvchi turlari va haqiqiy uzoq muddatli xotira o‘rtasida aniq chegara yo‘q. Farq darajadagi farqdir. Biroq uzoq muddatli xotira odatda sinapslardagi faqat kimyoviy o‘zgarishlardan emas, balki haqiqiy _tuzilmaviy o‘zgarishlardan_ kelib chiqadi, deb hisoblanadi va bu o‘zgarishlar signal o‘tkazilishini kuchaytiradi yoki bostiradi. Yana uzoq muddatli xotiraning ehtimoliy mexanizmlarini tushunishga katta yordam bergan sodda hayvonlarda (ularning nerv tizimlarini o‘rganish ancha oson) o‘tkazilgan tajribalarni eslaylik."
+  },
+  "ch58-f110": {
+   "text": "Uzoq muddatli xotira shakllanishi davomida sinapslarda tuzilmaviy o‘zgarishlar yuz beradi"
+  },
+  "ch58-f111": {
+   "text": "Umurtqasiz hayvonlardan olingan elektron mikroskopik suratlar uzoq muddatli xotira izlari shakllanishi davomida ko‘plab sinapslarda bir nechta jismoniy tuzilmaviy o‘zgarishlarni ko‘rsatgan. Agar presinaptik neyronda oqsil sintezini to‘suvchi dori berilsa, tuzilmaviy o‘zgarishlar yuz bermaydi va doimiy xotira izi ham rivojlanmaydi. Shuning uchun haqiqiy uzoq muddatli xotiraning shakllanishi sinapslarni nerv signallarini uzatish sezgirligini o‘zgartiradigan tarzda jismonan qayta tuzishga bog‘liq ekanga o‘xshaydi."
+  },
+  "ch58-f112": {
+   "text": "Quyidagi muhim tuzilmaviy o‘zgarishlar yuz beradi: 1. Mediator moddani sekretsiya qilish uchun pufakchalar ajralish joylarining ko‘payishi 2. Ajraladigan mediator pufakchalari sonining ortishi 3. Presinaptik oxirlar sonining ortishi 4. Kuchliroq signallarni uzatishga imkon beruvchi dendrit tikanchalari tuzilishidagi o‘zgarishlar. Shunday qilib, haqiqiy uzoq muddatli xotira izlari hosil bo‘lishi davomida sinapslarning signallarni uzatish bo‘yicha tuzilmaviy qobiliyati bir necha xil yo‘llar bilan ortadiganga o‘xshaydi."
+  },
+  "ch58-f113": {
+   "text": "O‘rganish davomida neyronlar soni va ularning bog‘lanishlari ko‘pincha sezilarli darajada o‘zgaradi"
+  },
+  "ch58-f114": {
+   "text": "Hayotning dastlabki bir necha haftasi, oylari va, ehtimol, hatto bir yili yoki undan ko‘proq vaqti davomida bosh miyaning turli qismlari boshqa neyronlar bilan bog‘lanishlar hosil qilish uchun ko‘plab akson tarmoqlarini chiqaradigan ko‘p sonli yangi neyronlarni hosil qiladi. Agar yangi aksonlar tegishli neyronlar, muskul hujayralari yoki bez hujayralari bilan bog‘lana olmasa, yangi aksonlar bir necha hafta ichida degeneratsiyaga uchraydi. Shunday qilib, neyron bog‘lanishlari soni qo‘zg‘atilgan hujayralardan retrograd ajraladigan muayyan _nerv o‘sish omillari_ bilan belgilanadi. Bundan tashqari, bog‘lanish yetarli bo‘lmaganda akson tarmoqlarini chiqarayotgan butun neyron oxir-oqibat yo‘qolib ketishi mumkin."
+  },
+  "ch58-f115": {
+   "text": "Shuning uchun tug‘ilgandan ko‘p o‘tmay inson nerv tizimining tegishli qismlaridagi neyronlarning yakuniy soni va ularning bog‘lanishlarini “foydalan yoki yo‘qot” tamoyili boshqaradi. Bu o‘rganishning bir turidir. Masalan, yangi tug‘ilgan hayvonning bir ko‘zi tug‘ilgandan keyin ko‘p haftalar davomida yopib qo‘yilsa, bosh miya ko‘ruv po‘stlog‘ining navbatlashuvchi tasmalaridagi neyronlar — odatda yopilgan ko‘z bilan bog‘langan neyronlar — degeneratsiyaga uchraydi va yopilgan ko‘z umrining qolgan qismida qisman yoki butunlay ko‘r bo‘lib qoladi. Yaqin vaqtgacha katta yoshli odamlar va hayvonlarda xotira zanjirlaridagi neyronlar sonini o‘zgartirish orqali juda kam “o‘rganish” amalga oshadi, deb hisoblangan; biroq so‘nggi tadqiqotlar hatto kattalar ham bu mexanizmdan hech bo‘lmaganda ma’lum darajada foydalanishini ko‘rsatadi."
+  },
+  "ch58-f116": {
+   "text": "Xotiraning konsolidatsiyasi"
+  },
+  "ch58-f117": {
+   "text": "Qisqa muddatli xotira haftalar yoki yillar o‘tib eslanishi mumkin bo‘lgan uzoq muddatli xotiraga aylanishi uchun u “konsolidatsiyalanishi” (mustahkamlanishi) kerak. Ya’ni qisqa muddatli xotira takroran faollashtirilsa, sinapslarda uzoq muddatli xotira turi uchun javobgar bo‘lgan kimyoviy, fizik va anatomik o‘zgarishlarni boshlab beradi. Bu jarayon minimal konsolidatsiya uchun 5–10 daqiqa, neyronlarda matritsali RNK va oqsillar sintezini talab qiluvchi kuchli konsolidatsiya uchun esa 1 soat yoki undan ko‘proq vaqt talab qiladi. Masalan, agar bosh miyaga kuchli sezgi taassuroti tushsa-yu, lekin bir daqiqa chamasi ichida elektr bilan chaqirilgan bosh miya tutqanog‘i kuzatilsa, sezgi tajribasi eslab qolinmaydi. Xuddi shunday, bosh miya chayqalishi, to‘satdan chuqur umumiy anesteziya berish yoki bosh miyaning dinamik funksiyasini vaqtincha to‘suvchi boshqa har qanday ta’sir konsolidatsiyaga to‘sqinlik qilishi mumkin."
+  },
+  "ch58-f118": {
+   "text": "Konsolidatsiya va uning yuz berishi uchun zarur bo‘lgan vaqtni, ehtimol, keyingi bo‘limda tasvirlanganidek, qisqa muddatli xotirani takrorlash hodisasi bilan tushuntirish mumkin."
+  },
+  "ch58-f119": {
+   "text": "Tadqiqotlar bir xil axborotni ongda qayta-qayta takrorlash qisqa muddatli xotiraning uzoq muddatli xotiraga o‘tish darajasini tezlashtirishi va kuchaytirishi, shuning uchun konsolidatsiyani tezlashtirishi va kuchaytirishini ko‘rsatgan. Bosh miya yangi topilgan axborotni, ayniqsa ongning e’tiborini tortgan yangi axborotni takrorlashga tabiiy moyillikka ega. Shuning uchun vaqt o‘tishi bilan sezgi tajribalarining muhim xususiyatlari xotira omborlarida tobora mustahkamroq qotib boradi. Bu hodisa nima uchun odam chuqur o‘rganilgan kam hajmdagi axborotni faqat yuzaki o‘rganilgan katta hajmdagi axborotdan ancha yaxshiroq eslab qolishini tushuntiradi. U, shuningdek, nima uchun to‘liq bedor odam xotiralarni aqliy charchoq holatidagi odamdan ancha yaxshiroq konsolidatsiya qila olishini ham tushuntiradi.",
+   "lead": "Takrorlash qisqa muddatli xotiraning uzoq muddatli xotiraga o‘tishini kuchaytiradi."
+  },
+  "ch58-f120": {
+   "text": "Konsolidatsiyaning eng muhim xususiyatlaridan biri — yangi xotiralar axborotning turli sinflariga _kodlanadi._ Bu jarayon davomida xotira omborlaridan o‘xshash turdagi axborot chiqarib olinadi va yangi axborotni qayta ishlashga yordam berish uchun ishlatiladi. Yangi va eski o‘xshashliklar va farqlar uchun taqqoslanadi va saqlash jarayonining bir qismi yangi axborotni qayta ishlanmagan holda saqlash o‘rniga aynan shu o‘xshashlik va farqlar haqidagi axborotni saqlashdan iborat. Shunday qilib, konsolidatsiya davomida yangi xotiralar bosh miyada tasodifiy emas, balki bir xil turdagi boshqa xotiralar bilan bevosita bog‘liq holda saqlanadi. Bu jarayon keyinchalik kerakli axborotni topish uchun xotira omborida “qidira” olish uchun zarur.",
+   "lead": "Konsolidatsiya davomida yangi xotiralar kodlanadi."
+  },
+  "ch58-f121": {
+   "text": "Xotirada gippokamp va bosh miyaning boshqa sohalarining roli"
+  },
+  "ch58-f122": {
+   "text": "Gippokamp — chakka bo‘lagi po‘stlog‘ining eng medial qismi bo‘lib, u avval bosh miya ostida medial tomonga, so‘ngra yuqoriga lateral qorinchaning pastki ichki yuzasiga buklanadi. Bir nechta bemorda epilepsiyani davolash uchun ikkala gippokamp olib tashlangan. Bu muolaja odamning gippokamplar olib tashlanishidan oldin bosh miyada saqlangan axborot uchun xotirasiga jiddiy ta’sir qilmaydi. Biroq olib tashlangandan keyin bu odamlar _og‘zaki va ramziy turdagi_ xotiralarni (deklarativ xotira turlarini) uzoq muddatli xotirada yoki hatto bir necha daqiqadan uzoqroq davom etuvchi oraliq xotirada saqlash qobiliyatiga deyarli ega bo‘lmaydi. Shuning uchun bu odamlar intellektning asosi bo‘lgan axborot turlarining yangi uzoq muddatli xotiralarini hosil qila olmaydi. Bu holat _anterograd amneziya_ deb ataladi.",
+   "lead": "Anterograd amneziya — gippokamp shikastlanishidan keyin yangi deklarativ uzoq muddatli xotiralarni hosil qila olmaslik."
+  },
+  "ch58-f123": {
+   "text": "Ammo nima uchun gippokamplar bosh miyaga yangi xotiralarni saqlashda yordam berishda shunchalik muhim? Ehtimoliy javob shuki, gippokamplar, 59-bobda tushuntirilganidek, limbik tizimning “mukofot” va “jazo” sohalaridan chiquvchi eng muhim yo‘llardan biridir. Og‘riq yoki nafrat uyg‘otuvchi sezgi qo‘zg‘atuvchilari yoki fikrlar limbik _jazo markazlarini_ qo‘zg‘atadi, rohat, baxt yoki mukofot hissini uyg‘otuvchi qo‘zg‘atuvchilar esa limbik _mukofot markazlarini_ qo‘zg‘atadi. Bularning barchasi birgalikda odamning fon kayfiyati va motivatsiyalarini ta’minlaydi. Bu motivatsiyalar orasida bosh miyaning yoqimli yoki yoqimsiz tajribalar va fikrlarni eslab qolishga undovi ham bor. Ayniqsa gippokamplar va kamroq darajada yana bir limbik tuzilma — talamusning dorsal medial yadrolari mukofot yoki jazo asosida fikrlarimizdan qaysilari xotiraga loyiq darajada muhim ekani haqida qaror qabul qilishda ayniqsa muhim ekani isbotlangan."
+  },
+  "ch58-f124": {
+   "text": "Retrograd amneziya yuz berganda amneziyaga sabab bo‘lgan jarohat yoki kasallikdan oldin o‘rganilgan hodisalar va axborotga xotira orqali kirish imkoniyati yo‘qoladi.",
+   "lead": "Retrograd amneziya — gippokamp yoki talamus shikastlanishidan keyin o‘tmishdagi xotiralarni eslay olmaslik."
+  },
+  "ch58-f125": {
+   "text": "Gippokampi shikastlangan ba’zi odamlarda anterograd amneziya bilan birga ma’lum darajada retrograd amneziya ham yuzaga keladi; bu amneziyaning bu ikki turi hech bo‘lmaganda qisman bog‘liq ekanini va gippokamp shikastlanishi ikkalasini ham keltirib chiqarishi mumkinligini ko‘rsatadi. Biroq talamusning ba’zi sohalaridagi shikastlanish sezilarli anterograd amneziyasiz aynan retrograd amneziyaga olib kelishi mumkin. Buning ehtimoliy izohi shundaki, talamus odamga xotira omborlarida “qidirish” va shu bilan xotiralarni “o‘qib olish”ga yordam berishda rol o‘ynashi mumkin. Ya’ni xotira jarayoni nafaqat xotiralarni saqlashni, balki keyinchalik xotirani qidirib topish qobiliyatini ham talab qiladi. Talamusning bu jarayondagi ehtimoliy funksiyasi 59-bobda batafsilroq muhokama qilinadi."
+  },
+  "ch58-f126": {
+   "text": "Gippokampi shikastlangan odamlarda odatda og‘zaki ifoda yoki ramziy intellekt turlarini talab qilmaydigan jismoniy ko‘nikmalarni o‘rganishda qiyinchilik bo‘lmaydi. Masalan, bu odamlar ko‘plab sport turlarida talab qilinadigan tez qo‘l va jismoniy ko‘nikmalarni hamon o‘rgana oladi. Bu turdagi o‘rganish _ko‘nikma o‘rganish_ yoki _refleks o‘rganish_ deb ataladi; u ongda ramziy takrorlashga emas, balki talab qilinadigan vazifalarni jismonan qayta-qayta takrorlashga bog‘liq.",
+   "lead": "Gippokamplar refleks o‘rganishda muhim emas."
+  }
+ },
+ "figures": {
+  "gh14-fig-58-01": "Bosh miya po‘stlog‘ining tuzilishi; quyidagi qavatlar ko‘rsatilgan: I — molekulyar qavat; II — tashqi donador qavat; III — piramidal hujayralar qavati; IV — ichki donador qavat; V — yirik piramidal hujayralar qavati; va VI — urchuqsimon yoki polimorf hujayralar qavati. (Ranson SW, Clark SL: Anatomy of the Nervous System. Philadelphia: WB Saunders, 1959 dan o‘zgartirilgan.)",
+  "gh14-fig-58-02": "Talamusning muayyan qismlari bilan bog‘langan bosh miya po‘stlog‘i sohalari. N. — nerv.",
+  "gh14-fig-58-03": "Neyrojarrohlik operatsiyalari paytida po‘stloqni elektr bilan qo‘zg‘atish va po‘stloq sohalari yemirilgan bemorlarni nevrologik tekshirish orqali aniqlangan inson bosh miya po‘stlog‘ining funksional sohalari. (Penfield W, Rasmussen T: The Cerebral Cortex of Man: A Clinical Study of Localization of Function. New York: Hafner, 1968 dan o‘zgartirilgan.)",
+  "gh14-fig-58-04": "Bosh miya po‘stlog‘ining asosiy assotsiativ sohalari, shuningdek birlamchi va ikkilamchi harakat va sezgi sohalarining joylashuvi.",
+  "gh14-fig-58-05": "Bosh miya po‘stlog‘idagi muayyan funksional sohalar xaritasi; ayniqsa barcha odamlarning 95% ida chap yarim sharda joylashgan tilni tushunish va nutqni hosil qilish uchun Vernike va Broka sohalari ko‘rsatilgan.",
+  "gh14-fig-58-06": "Bosh miyaning pastki yuzasida, medial ensa va chakka bo‘laklarida joylashgan yuzlarni tanish sohalari. (Geschwind N: Specializations of the human brain. Sci Am 241:180, 1979 dan o‘zgartirilgan.)",
+  "gh14-fig-58-07": "Somatik, eshitish va ko‘rish assotsiativ sohalarining sezgi tajribasini talqin qilishning umumiy mexanizmiga birlashishi. Bularning barchasi chakka bo‘lagining orqa-yuqori qismida joylashgan Vernike sohasiga ham axborot yetkazadi. Peshona bo‘lagidagi prefrontal soha va Broka nutq sohasiga ham e’tibor bering.",
+  "gh14-fig-58-08": "Bosh miya yo‘llari: (yuqorida) eshitilgan so‘zni idrok etish va so‘ngra o‘sha so‘zni aytish hamda (pastda) yozma so‘zni idrok etish va so‘ngra o‘sha so‘zni aytish. (Geschwind N: Specializations of the human brain. Sci Am 241:180, 1979 dan o‘zgartirilgan.)",
+  "gh14-fig-58-09": "_Aplysia_ shilliqqurtida aniqlangan xotira tizimi. cAMP (sAMF) — siklik adenozinmonofosfat."
+ }
+}

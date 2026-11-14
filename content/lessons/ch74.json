@@ -1,0 +1,2644 @@
+{
+ "id": "ch74",
+ "topicId": "13",
+ "order": 7,
+ "titleUz": "Tana haroratining boshqarilishi va isitma",
+ "titleOriginal": "Body Temperature Regulation and Fever",
+ "subtitle": "*Body Temperature Regulation and Fever* — XIII bo'lim, PDF 854–865",
+ "contentVersion": "2026-11-14.1",
+ "status": "in_review",
+ "translationStatus": "machine_assisted",
+ "source": {
+  "bookId": "guyton-hall-14",
+  "chapter": 74,
+  "unit": "XIII",
+  "pdfPages": [
+   854,
+   865
+  ],
+  "printedPages": [
+   849,
+   860
+  ],
+  "notesFile": "guyton-notes/ch74-body-temperature-regulation-and-fever.md",
+  "summaryFile": "guyton-notes/summaries/ch74.md"
+ },
+ "pdfPages": [
+  854,
+  865
+ ],
+ "printedPages": [
+  849,
+  860
+ ],
+ "outline": [
+  {
+   "level": 1,
+   "title": "Normal Body Temperatures",
+   "pdfPage": 854,
+   "printedPage": "849",
+   "id": "ch74-h-normal-body-temperatures"
+  },
+  {
+   "level": 2,
+   "title": "Body Core Temperature and Skin Temperature",
+   "pdfPage": 854,
+   "printedPage": "849",
+   "id": "ch74-h-body-core-temperature-and-skin-temperature"
+  },
+  {
+   "level": 2,
+   "title": "Normal Core Temperature",
+   "pdfPage": 854,
+   "printedPage": "849",
+   "id": "ch74-h-normal-core-temperature"
+  },
+  {
+   "level": 1,
+   "title": "Body Temperature is Controlled by Balancing Heat Production and Heat Loss",
+   "pdfPage": 854,
+   "printedPage": "849",
+   "id": "ch74-h-body-temperature-is-controlled-by-balancing-heat-production-"
+  },
+  {
+   "level": 2,
+   "title": "Heat Production",
+   "pdfPage": 854,
+   "printedPage": "849",
+   "id": "ch74-h-heat-production"
+  },
+  {
+   "level": 2,
+   "title": "Heat Loss",
+   "pdfPage": 855,
+   "printedPage": "850",
+   "id": "ch74-h-heat-loss"
+  },
+  {
+   "level": 3,
+   "title": "Insulator System of the Body",
+   "pdfPage": 855,
+   "printedPage": "850",
+   "id": "ch74-h-insulator-system-of-the-body"
+  },
+  {
+   "level": 3,
+   "title": "Blood Flow to the Skin From the Body Core Provides Heat Transfer",
+   "pdfPage": 855,
+   "printedPage": "850",
+   "id": "ch74-h-blood-flow-to-the-skin-from-the-body-core-provides-heat-tran"
+  },
+  {
+   "level": 4,
+   "title": "Control of Heat Conduction to the Skin by the Sympathetic Nervous System",
+   "pdfPage": 855,
+   "printedPage": "850",
+   "id": "ch74-h-control-of-heat-conduction-to-the-skin-by-the-sympathetic-ne"
+  },
+  {
+   "level": 3,
+   "title": "Basic Physics of Heat Loss From the Skin Surface",
+   "pdfPage": 855,
+   "printedPage": "850",
+   "id": "ch74-h-basic-physics-of-heat-loss-from-the-skin-surface"
+  },
+  {
+   "level": 4,
+   "title": "Radiation Causes Heat Loss in the Form of Infrared Rays",
+   "pdfPage": 855,
+   "printedPage": "850",
+   "id": "ch74-h-radiation-causes-heat-loss-in-the-form-of-infrared-rays"
+  },
+  {
+   "level": 4,
+   "title": "Conductive Heat Loss Occurs by Direct Contact With an Object",
+   "pdfPage": 856,
+   "printedPage": "851",
+   "id": "ch74-h-conductive-heat-loss-occurs-by-direct-contact-with-an-object"
+  },
+  {
+   "level": 4,
+   "title": "Convective Heat Loss Results From Air Movement",
+   "pdfPage": 856,
+   "printedPage": "851",
+   "id": "ch74-h-convective-heat-loss-results-from-air-movement"
+  },
+  {
+   "level": 4,
+   "title": "Cooling Effect of Wind",
+   "pdfPage": 856,
+   "printedPage": "851",
+   "id": "ch74-h-cooling-effect-of-wind"
+  },
+  {
+   "level": 4,
+   "title": "Conduction and Convection of Heat From a Person Suspended in Water",
+   "pdfPage": 856,
+   "printedPage": "851",
+   "id": "ch74-h-conduction-and-convection-of-heat-from-a-person-suspended-in"
+  },
+  {
+   "level": 3,
+   "title": "Evaporation",
+   "pdfPage": 856,
+   "printedPage": "851",
+   "id": "ch74-h-evaporation"
+  },
+  {
+   "level": 4,
+   "title": "Evaporation is a Necessary Cooling Mechanism at Very High Air Temperatures",
+   "pdfPage": 856,
+   "printedPage": "851",
+   "id": "ch74-h-evaporation-is-a-necessary-cooling-mechanism-at-very-high-ai"
+  },
+  {
+   "level": 4,
+   "title": "Clothing Reduces Conductive and Convective Heat Loss",
+   "pdfPage": 856,
+   "printedPage": "851",
+   "id": "ch74-h-clothing-reduces-conductive-and-convective-heat-loss"
+  },
+  {
+   "level": 3,
+   "title": "Sweating and Its Regulation by the Autonomic Nervous System",
+   "pdfPage": 857,
+   "printedPage": "852",
+   "id": "ch74-h-sweating-and-its-regulation-by-the-autonomic-nervous-system"
+  },
+  {
+   "level": 4,
+   "title": "Mechanism of Sweat Secretion",
+   "pdfPage": 857,
+   "printedPage": "852",
+   "id": "ch74-h-mechanism-of-sweat-secretion"
+  },
+  {
+   "level": 4,
+   "title": "Acclimatization of the Sweating Mechanism to Heat—The Role of Aldosterone",
+   "pdfPage": 858,
+   "printedPage": "853",
+   "id": "ch74-h-acclimatization-of-the-sweating-mechanism-to-heat-the-role-o"
+  },
+  {
+   "level": 1,
+   "title": "Regulation of Body Temperature—Role of the Hypothalamus",
+   "pdfPage": 858,
+   "printedPage": "853",
+   "id": "ch74-h-regulation-of-body-temperature-role-of-the-hypothalamus"
+  },
+  {
+   "level": 2,
+   "title": "ROLE OF THE ANTERIOR HYPOTHALAMIC-PREOPTIC AREA IN THERMOSTATIC DETECTION OF TEMPERATURE",
+   "pdfPage": 858,
+   "printedPage": "853",
+   "id": "ch74-h-role-of-the-anterior-hypothalamic-preoptic-area-in-thermosta"
+  },
+  {
+   "level": 2,
+   "title": "DETECTION OF TEMPERATURE BY RECEPTORS IN THE SKIN AND DEEP BODY TISSUES",
+   "pdfPage": 859,
+   "printedPage": "854",
+   "id": "ch74-h-detection-of-temperature-by-receptors-in-the-skin-and-deep-b"
+  },
+  {
+   "level": 2,
+   "title": "POSTERIOR HYPOTHALAMUS INTEGRATES CENTRAL AND PERIPHERAL TEMPERATURE SENSORY SIGNALS",
+   "pdfPage": 859,
+   "printedPage": "854",
+   "id": "ch74-h-posterior-hypothalamus-integrates-central-and-peripheral-tem"
+  },
+  {
+   "level": 2,
+   "title": "NEURONAL EFFECTOR MECHANISMS THAT DECREASE OR INCREASE BODY TEMPERATURE",
+   "pdfPage": 859,
+   "printedPage": "854",
+   "id": "ch74-h-neuronal-effector-mechanisms-that-decrease-or-increase-body-"
+  },
+  {
+   "level": 3,
+   "title": "TemperatureDecreasing Mechanisms When the Body Is Too Hot",
+   "pdfPage": 859,
+   "printedPage": "854",
+   "id": "ch74-h-temperaturedecreasing-mechanisms-when-the-body-is-too-hot"
+  },
+  {
+   "level": 3,
+   "title": "TemperatureIncreasing Mechanisms When the Body Is Too Cold",
+   "pdfPage": 859,
+   "printedPage": "854",
+   "id": "ch74-h-temperatureincreasing-mechanisms-when-the-body-is-too-cold"
+  },
+  {
+   "level": 4,
+   "title": "Hypothalamic Stimulation of Shivering",
+   "pdfPage": 860,
+   "printedPage": "855",
+   "id": "ch74-h-hypothalamic-stimulation-of-shivering"
+  },
+  {
+   "level": 4,
+   "title": "Sympathetic “Chemical” Excitation of Heat Production",
+   "pdfPage": 860,
+   "printedPage": "855",
+   "id": "ch74-h-sympathetic-chemical-excitation-of-heat-production"
+  },
+  {
+   "level": 4,
+   "title": "Increased Thyroxine Output as a LongTerm Cause of Increased Heat Production",
+   "pdfPage": 860,
+   "printedPage": "855",
+   "id": "ch74-h-increased-thyroxine-output-as-a-longterm-cause-of-increased-"
+  },
+  {
+   "level": 2,
+   "title": "“SET POINT” FOR TEMPERATURE CONTROL",
+   "pdfPage": 861,
+   "printedPage": "856",
+   "id": "ch74-h-set-point-for-temperature-control"
+  },
+  {
+   "level": 3,
+   "title": "Feedback Gain for Body Temperature Control",
+   "pdfPage": 861,
+   "printedPage": "856",
+   "id": "ch74-h-feedback-gain-for-body-temperature-control"
+  },
+  {
+   "level": 3,
+   "title": "Skin Temperature Can Slightly Alter the Set Point for Core Temperature Control",
+   "pdfPage": 861,
+   "printedPage": "856",
+   "id": "ch74-h-skin-temperature-can-slightly-alter-the-set-point-for-core-t"
+  },
+  {
+   "level": 2,
+   "title": "BEHAVIORAL CONTROL OF BODY TEMPERATURE",
+   "pdfPage": 862,
+   "printedPage": "857",
+   "id": "ch74-h-behavioral-control-of-body-temperature"
+  },
+  {
+   "level": 1,
+   "title": "ABNORMALITIES OF BODY TEMPERATURE REGULATION",
+   "pdfPage": 862,
+   "printedPage": "857",
+   "id": "ch74-h-abnormalities-of-body-temperature-regulation"
+  },
+  {
+   "level": 2,
+   "title": "Fever",
+   "pdfPage": 862,
+   "printedPage": "857",
+   "id": "ch74-h-fever"
+  },
+  {
+   "level": 3,
+   "title": "Resetting the Hypothalamic TemperatureRegulating Center in Febrile Diseases—Effect of Pyrogens",
+   "pdfPage": 862,
+   "printedPage": "857",
+   "id": "ch74-h-resetting-the-hypothalamic-temperatureregulating-center-in-f"
+  },
+  {
+   "level": 4,
+   "title": "Mechanism of Action of Pyrogens in Causing Fever—Role of Cytokines",
+   "pdfPage": 863,
+   "printedPage": "858",
+   "id": "ch74-h-mechanism-of-action-of-pyrogens-in-causing-fever-role-of-cyt"
+  },
+  {
+   "level": 4,
+   "title": "Fever Caused by Brain Lesions",
+   "pdfPage": 863,
+   "printedPage": "858",
+   "id": "ch74-h-fever-caused-by-brain-lesions"
+  }
+ ],
+ "objectives": [
+  "Normal harorat",
+  "Issiqlik hosil bo'lishi",
+  "Tananing izolyatsiya tizimi",
+  "Teri qon oqimi — issiqlik uzatish",
+  "Teridan issiqlik yo'qotish fizikasi (74-4-rasm)",
+  "Terlash va uning boshqarilishi",
+  "Hansirash (panting) bilan issiqlik yo'qotish",
+  "Gipotalamusning roli",
+  "Teri va chuqur to'qimalardagi retseptorlar",
+  "Haroratni pasaytiruvchi mexanizmlar (tana juda issiq)",
+  "Haroratni oshiruvchi mexanizmlar (tana juda sovuq)",
+  "\"Belgilangan nuqta\" (set point)",
+  "Xulq-atvor orqali boshqarish",
+  "Mahalliy teri harorat reflekslari",
+  "Isitma",
+  "Isitmali holat xususiyatlari",
+  "Issiq urishi (heatstroke)",
+  "Qattiq sovuq ta'siri"
+ ],
+ "blocks": {
+  "simple": [
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Asosiy g'oya",
+    "id": "ch74-s-0-asosiy-goya",
+    "bid": "ch74-u0"
+   },
+   {
+    "type": "paragraph",
+    "text": "Chuqur to'qimalar (\"yadro\") harorati isitmali kasallikdan tashqari ±0,6°C (±1°F) aniqlikda doimiy turadi; yalang'och odam quruq havoda 13°C (55°F) dan 54°C (130°F) gacha bo'lgan muhitda ham yadro haroratini deyarli o'zgartirmaydi. Harorat issiqlik hosil bo'lishi va yo'qotilishi muvozanati bilan belgilanadi; uni asosan gipotalamus (oldingi gipotalamus-preoptik soha sezuvchi, orqa gipotalamus integratsiya qiluvchi) \"belgilangan nuqta\" (~37,1°C) atrofida boshqaradi. Isitma — pirogenlar ta'sirida shu nuqtaning ko'tarilishi.",
+    "bid": "ch74-u1"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Normal harorat",
+    "id": "ch74-s-2-normal-harorat",
+    "bid": "ch74-u2"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Teri harorati muhit bilan ko'tarilib-tushadi; u terining issiqlik yo'qotish qobiliyati uchun muhim.",
+      "depth": 0
+     },
+     {
+      "text": "Yagona \"normal\" yadro harorati yo'q: sog'lom odamlarda og'izda o'lchanganda <36°C (97°F) dan >37,5°C (99,5°F) gacha. O'rtacha og'izda 36,7–37,0°C (98,0–98,6°F), to'g'ri ichakda ~0,6°C (1°F) yuqori (74-1-rasm).",
+      "depth": 0
+     },
+     {
+      "text": "Og'ir mashqda vaqtincha 38,3–40°C (101–104°F) gacha ko'tarilishi, qattiq sovuqda 35,6°C (96°F) dan pastga tushishi mumkin.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch74-u3"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Issiqlik hosil bo'lishi",
+    "id": "ch74-s-4-issiqlik-hosil-bolishi",
+    "bid": "ch74-u4"
+   },
+   {
+    "type": "paragraph",
+    "text": "Metabolizmning asosiy qo'shimcha mahsuloti (73-bob). Omillar: (1) barcha hujayralarning bazal metabolizmi; (2) mushak faolligi, jumladan titrash; (3) tiroksin (kamroq o'sish gormoni va testosteron); (4) adrenalin, noradrenalin va simpatik qo'zg'alish; (5) hujayra harorati oshganda kimyoviy faollik oshishi; (6) ovqatni hazm qilish, so'rish va saqlash (termogen ta'sir).",
+    "bid": "ch74-u5"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Issiqlikning ko'pi chuqur a'zolarda (jigar, miya, yurak) va faollikda skelet mushaklarida hosil bo'ladi, so'ng teriga o'tib, muhitga yo'qotiladi. Yo'qotish tezligi: (1) yadrodan teriga o'tkazish va (2) teridan muhitga uzatish tezligiga bog'liq.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch74-u6"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Tananing izolyatsiya tizimi",
+    "id": "ch74-s-7-tananing-izolyatsiya-tizimi",
+    "bid": "ch74-u7"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Teri, teri osti to'qimasi va ayniqsa teri osti yog'i — issiqlik izolyatori. Yog' boshqa to'qimalarga qaraganda issiqlikni 3 baravar yomon o'tkazadi.",
+      "depth": 0
+     },
+     {
+      "text": "Teriga qon oqmasa, erkak tanasining izolyatsiyasi oddiy kostyumning ~3/4 qismiga teng; ayollarda bundan ham yaxshi. Bu teri harorati muhitga yaqinlashsa ham yadro haroratini saqlaydi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch74-u8"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Teri qon oqimi — issiqlik uzatish",
+    "id": "ch74-s-9-teri-qon-oqimi-issiqlik-uzatish",
+    "bid": "ch74-u9"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Teri ostida ko'p tomirlar, ayniqsa teri kapillyarlaridan qon oladigan uzluksiz **venoz chigal** bor. Eng ochiq joylarda (qo'l, oyoq panjalari, quloqlar) chigalga mayda arteriyalardan qalin mushakli **arteriovenoz anastomozlar** orqali ham qon keladi (74-2-rasm).",
+      "depth": 0
+     },
+     {
+      "text": "Teri venoz chigaliga qon oqimi deyarli noldan yurak chiqishining 30% igacha o'zgaradi. To'liq vazokonstriksiyadan to'liq vazodilatatsiyaga o'tishda issiqlik o'tkazuvchanligi ~8 baravar oshadi (74-3-rasm) — teri boshqariladigan \"issiqlik radiatori\".",
+      "depth": 0
+     },
+     {
+      "text": "Arteriolalar va arteriovenoz anastomozlar torayishi deyarli butunlay **simpatik nerv tizimi** orqali yadro va muhit haroratiga javoban boshqariladi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch74-u10"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Teridan issiqlik yo'qotish fizikasi (74-4-rasm)",
+    "id": "ch74-s-11-teridan-issiqlik-yoqotish-fizikasi-74-4-rasm",
+    "bid": "ch74-u11"
+   },
+   {
+    "type": "paragraph",
+    "text": "Xona haroratida o'tirgan yalang'och odamda:",
+    "bid": "ch74-u12"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Nurlanish (~60%):** asosan 5–20 µm to'lqin uzunlikdagi infraqizil nurlar (yorug'likdan 10–30 baravar uzun). Barcha jismlar nurlantiradi; tana muhitdan issiqroq bo'lsa, beradigani oladiganidan ko'p.",
+      "depth": 0
+     },
+     {
+      "text": "**Narsalarga o'tkazish (~3%):** stul, karavot kabi qattiq jismlarga.",
+      "depth": 0
+     },
+     {
+      "text": "**Havoga o'tkazish (~15%):** issiqlik — molekulalar harakatining kinetik energiyasi; havo teridan sovuq bo'lsa unga o'tadi. Teri yonidagi havo teri haroratiga tenglashsa yo'qotish to'xtaydi, shuning uchun isigan havo ketib, yangisi kelishi — **konveksiya** — kerak. Isigan havo ko'tarilgani uchun ozgina konveksiya doim bor.",
+      "depth": 0
+     },
+     {
+      "text": "**Shamol:** teri yonidagi havo tez almashadi. Past tezlikda sovutish shamol tezligining kvadrat ildiziga taxminan mutanosib (6,4 km/soat shamol 1,6 km/soatdan ~2 baravar samarali).",
+      "depth": 0
+     },
+     {
+      "text": "**Suvda:** suvning solishtirma issiqlik sig'imi havodan bir necha ming baravar katta va o'tkazuvchanligi ancha yuqori; teri yonida izolyatsiyalovchi qatlam hosil bo'lmaydi. Suv tana haroratidan past bo'lsa, yo'qotish havodagidan ko'p baravar katta.",
+      "depth": 0
+     },
+     {
+      "text": "**Bug'lanish (~22%):** har gramm suv bug'langanda 0,58 Kal yo'qotiladi. Terlamaganda ham teri va o'pkadan kuniga 600–700 ml sezilmas bug'lanish (16–19 Kal/soat); uni harorat uchun boshqarib bo'lmaydi, terni esa terlash tezligi orqali boshqarish mumkin.",
+      "depth": 0
+     },
+     {
+      "text": "**Yuqori haroratda bug'lanish yagona yo'l:** muhit teridan issiq bo'lsa, tana nurlanish va o'tkazish orqali issiqlik *oladi*; faqat bug'lanish yordam beradi. Tug'ma ter bezlari yo'q odamlar sovuqni normal ko'taradi, lekin tropikada issiq urishidan o'lishi mumkin.",
+      "depth": 0
+     },
+     {
+      "text": "**Kiyim:** to'qima orasida havo ushlab, teri yonidagi \"shaxsiy\" havo qatlamini qalinlashtiradi va konveksiyani kamaytiradi. Oddiy kostyum yo'qotishni ~yarmiga, arktika kiyimi 1/6 gacha kamaytiradi. Teridan kiyimga o'tadigan issiqlikning ~yarmi nurlanish, shuning uchun kiyim ichini kumush yoki oltin kabi yupqa metall bilan qoplash issiqlikni qaytarib, izolyatsiyani ancha oshiradi (arktika kiyimi vaznini ~yarmiga kamaytirish mumkin). Kiyim ho'llansa samaradorlik deyarli yo'qoladi — suv issiqlik uzatishni 20 baravar va undan ko'p oshiradi; arktikada kiyimni ho'llamaslik va hatto vaqtincha qizib terlamaslik juda muhim.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch74-u13"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Terlash va uning boshqarilishi",
+    "id": "ch74-s-14-terlash-va-uning-boshqarilishi",
+    "bid": "ch74-u14"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Oldingi gipotalamus-preoptik sohani elektr yoki issiqlik bilan qo'zg'atish terlatadi. Impulslar avtonom yo'llar orqali orqa miyaga, so'ng simpatik chiqish orqali teriga boradi.",
+      "depth": 0
+     },
+     {
+      "text": "Ter bezlari **xolinergik** tolalar bilan innervatsiyalanadi (simpatik nervlar tarkibida, atsetilxolin ajratadi; 61-bob). Adrenergik innervatsiyasi yo'q bo'lsa-da, qondagi adrenalin va noradrenalin ham ma'lum darajada qo'zg'atadi — mashqda muhim.",
+      "depth": 0
+     },
+     {
+      "text": "**Tuzilishi (74-5-rasm):** (1) chuqur, teri ostidagi o'ralgan sekretor qism; (2) derma va epidermis orqali chiqadigan yo'l qismi.",
+      "depth": 0
+     },
+     {
+      "text": "**Birlamchi (prekursor) sekret:** o'ralgan qism epiteliysining faol mahsuloti; xolinergik simpatik tolalar qo'zg'atadi. Tarkibi plazmaga o'xshash, lekin oqsilsiz: Na+ ~142, Cl− ~104 mEq/L.",
+      "depth": 0
+     },
+     {
+      "text": "**Yo'lda o'zgarishi:** Na+ va Cl− ning ko'pi qayta so'riladi; darajasi terlash tezligiga bog'liq.",
+      "depth": 0
+     },
+     {
+      "text": "*Sekin terlashda:* deyarli barcha Na+ va Cl− so'riladi (har biri ~5 mEq/L gacha); osmotik bosim tushib, suvning ko'pi ham so'riladi, shuning uchun mochevina, laktat, K+ juda konsentrlangan.",
+      "depth": 1
+     },
+     {
+      "text": "*Kuchli terlashda:* yo'l NaCl ning yarmidan sal ko'prog'ini so'radi; moslashmagan odamda Na+ va Cl− maksimal ~50–60 mEq/L (plazmaning yarmidan kam). Suv kam so'riladi; mochevina plazmadagidan ~2, laktat ~4, K+ ~1,2 baravar.",
+      "depth": 1
+     },
+     {
+      "text": "**Issiqqa moslashish va aldosteron:** moslashmagan odam soatiga kamdan-kam 1 l dan ko'p terlaydi; 1–6 hafta issiqda bo'lgach maksimal terlash 2–3 l/soat gacha oshadi — bazal issiqlik hosil bo'lishidan 10 baravardan ko'p issiqlikni chiqaradi. Bu ter bezi hujayralarining o'zgarishidan. Terdagi NaCl yanada kamayadi — hujayradan tashqari suyuqlikdagi NaCl ozgina kamayishi aldosteron sekretsiyasini oshiradi. Moslashmagan odam kuchli terlaganda dastlabki kunlarda kuniga 15–30 g tuz yo'qotadi, 4–6 haftadan keyin 3–5 g/kun.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch74-u15"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Hansirash (panting) bilan issiqlik yo'qotish",
+    "id": "ch74-s-16-hansirash-panting-bilan-issiqlik-yoqotish",
+    "bid": "ch74-u16"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Ko'p hayvonlarda teri yung bilan qoplangan va ter bezlari kam, shuning uchun hansirash ishlatiladi. Uni gipotalamus termoregulyator markazlari \"yoqadi\"; jarayonni ko'prikdagi pnevmotaksik markaz bilan bog'liq hansirash markazi boshqaradi.",
+      "depth": 0
+     },
+     {
+      "text": "Tez nafas olish yuqori nafas yo'llariga ko'p tashqi havo keltiradi; shilliq qavatdan, ayniqsa tildagi so'lakdan bug'lanish qonni sovutadi. Har nafas juda sayoz bo'lgani uchun alveolalarga asosan traxeyadan o'lik bo'shliq havosi kiradi, alveolyar ventilyatsiya qon gazlari talabidan oshmaydi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch74-u17"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Gipotalamusning roli",
+    "id": "ch74-s-18-gipotalamusning-roli",
+    "bid": "ch74-u18"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Quruq havoda 13–54°C (55–130°F) muhitda yalang'och odam yadro haroratini 36,1–37,8°C (97–100°F) oralig'ida saqlaydi (74-6-rasm). Harorat deyarli butunlay nerv teskari aloqasi orqali, asosan gipotalamus markazlari orqali boshqariladi.",
+      "depth": 0
+     },
+     {
+      "text": "**Oldingi gipotalamus-preoptik soha — termostatik sezgich:** ko'p issiqqa sezgir neyronlar va ularning ~1/3 qismicha sovuqqa sezgir neyronlar. Issiqqa sezgir neyronlar 10°C oshishda razryadni 2–10 baravar oshiradi; sovuqqa sezgirlar harorat tushganda faollashadi.",
+      "depth": 0
+     },
+     {
+      "text": "Preoptik soha isitilsa, butun teri darhol ko'p terlaydi, teri tomirlari kengayadi va ortiqcha issiqlik hosil bo'lishi tormozlanadi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch74-u19"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Teri va chuqur to'qimalardagi retseptorlar",
+    "id": "ch74-s-20-teri-va-chuqur-toqimalardagi-retseptorlar",
+    "bid": "ch74-u20"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Terida sovuq retseptorlari issiq retseptorlaridan ko'p (ko'p joyda 10 baravar) — periferik sezish asosan sovuqni aniqlaydi (49-bob). Molekulyar mexanizmi to'liq aniq emas; somatosensor neyronlar va epidermis hujayralaridagi **TRP (transient receptor potential)** kation kanallari keng harorat oralig'ini sezishda vositachi bo'lishi mumkin.",
+      "depth": 0
+     },
+     {
+      "text": "Butun teri sovusa refleks bilan: (1) kuchli titrash qo'zg'atiladi; (2) terlash (bo'lsa) tormozlanadi; (3) teri vazokonstriksiyasi.",
+      "depth": 0
+     },
+     {
+      "text": "**Chuqur retseptorlar:** asosan orqa miya, qorin a'zolari va qorin hamda ko'krak yuqori qismidagi yirik venalar atrofida; yadro haroratini sezadi, lekin ular ham asosan sovuqni aniqlaydi. Ikkalasi ham asosan **gipotermiyaning** oldini olishga qaratilgan.",
+      "depth": 0
+     },
+     {
+      "text": "**Orqa gipotalamus** (ikki tomonlama, so'rg'ichsimon tanalar darajasida) periferik va preoptik signallarni birlashtirib, issiqlik hosil qiluvchi va saqlovchi reaksiyalarni boshqaradi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch74-u21"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Haroratni pasaytiruvchi mexanizmlar (tana juda issiq)",
+    "id": "ch74-s-22-haroratni-pasaytiruvchi-mexanizmlar-tana-juda-issiq",
+    "bid": "ch74-u22"
+   },
+   {
+    "type": "list",
+    "ordered": true,
+    "items": [
+     {
+      "text": "**Teri tomirlari kengayishi:** orqa gipotalamusdagi vazokonstriktor simpatik markazlar tormozlanadi; teriga issiqlik o'tishi 8 baravargacha oshadi.",
+      "depth": 0
+     },
+     {
+      "text": "**Terlash:** yadro harorati 37,1°C (98,8°F) kritik darajadan oshganda bug'lanish bilan issiqlik yo'qotish keskin oshadi; yana 1°C oshish bazal issiqlik hosil bo'lishidan 10 baravar ko'p issiqlikni chiqaradigan terlash beradi (74-7-rasm).",
+      "depth": 0
+     },
+     {
+      "text": "**Issiqlik hosil bo'lishining kamayishi:** titrash va kimyoviy termogenez kuchli tormozlanadi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch74-u23"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Haroratni oshiruvchi mexanizmlar (tana juda sovuq)",
+    "id": "ch74-s-24-haroratni-oshiruvchi-mexanizmlar-tana-juda-sovuq",
+    "bid": "ch74-u24"
+   },
+   {
+    "type": "list",
+    "ordered": true,
+    "items": [
+     {
+      "text": "**Butun teri vazokonstriksiyasi:** orqa gipotalamus simpatik markazlari qo'zg'aladi.",
+      "depth": 0
+     },
+     {
+      "text": "**Piloereksiya:** simpatik qo'zg'alish soch follikulalaridagi arrector pili mushaklarini qisqartiradi (\"g'oz terisi\"). Odamda ahamiyatsiz, hayvonlarda qalin izolyatsiyalovchi havo qatlamini ushlaydi.",
+      "depth": 0
+     },
+     {
+      "text": "**Termogenezni oshirish:** titrash, simpatik qo'zg'alish va tiroksin sekretsiyasi orqali.",
+      "depth": 0
+     },
+     {
+      "text": "**Titrash:** orqa gipotalamusning dorsomedial qismida, uchinchi qorincha devori yaqinida **titrashning birlamchi harakat markazi** bor. Odatda preoptik issiqlik markazi uni tormozlaydi, teri va orqa miyadan sovuq signallari esa qo'zg'atadi. Harorat kritik darajadan bir oz tushsa faollashadi. Signallar ikki tomonlama yo'llar bilan miya ustuni, orqa miya lateral ustunlari orqali oldingi motoneyronlarga boradi; ular ritmik emas va o'zi silkinish bermaydi — butun skelet mushaklari tonusini oshiradi. Tonus kritik darajadan oshganda titrash boshlanadi; ehtimol mushak urchug'i cho'zilish refleksining teskari aloqa tebranishidan (55-bob). Maksimal titrashda issiqlik hosil bo'lishi 4–5 baravar oshadi.",
+      "depth": 0
+     },
+     {
+      "text": "**Simpatik \"kimyoviy\" termogenez (titramasdan termogenez):** simpatik qo'zg'alish yoki qondagi noradrenalin/adrenalin hujayra metabolizmini tez oshiradi, qisman oksidlovchi fosforlanishni ajratib (ATF siz issiqlik). Darajasi to'qimadagi **qo'ng'ir yog'** miqdoriga deyarli to'g'ri mutanosib. Qo'ng'ir yog' simpatik nervlarga boy; noradrenalin mitoxondriyadagi **ajratuvchi oqsil 1 (UCP1, termogenin)** ekspressiyasini oshiradi. Moslashish kuchli ta'sir qiladi: bir necha hafta sovuqda bo'lgan kalamushlar o'tkir sovuqqa 100–500% issiqlik oshishi bilan javob beradi (moslashmagan ~1/3 qismicha); bu ovqat qabulini ham oshiradi. Kattalarda (qo'ng'ir yog' deyarli yo'q) kamdan-kam 10–15% dan oshadi; chaqaloqlarda kuraklararo sohada oz qo'ng'ir yog' bor va termogenez 100% oshishi mumkin — yangi tug'ilganlar harorati uchun muhim.",
+      "depth": 0
+     },
+     {
+      "text": "**Tiroksin — uzoq muddatli mexanizm:** oldingi gipotalamus-preoptik soha sovusa, gipotalamus **tireotropin-rilizing gormon** ishlab chiqaradi → portal venalar orqali oldingi gipofiz → **TTG** → qalqonsimon bezdan tiroksin (77-bob). Tiroksin ajratuvchi oqsilni faollashtiradi va butun tanada metabolizmni oshiradi. Bez gipertrofiyasi va yangi sekretsiya darajasi uchun bir necha hafta sovuq kerak. Hayvonlarda bir necha hafta qattiq sovuq bezni 20–40% kattalashtiradi. Odamda ahamiyati miqdoran noma'lum; arktikada bir necha oy turgan harbiylarda va ba'zi inuitlarda bazal metabolizm yuqori. Sovuqning bezga doimiy ta'siri sovuq iqlimda toksik buqoq ko'pligini tushuntirishi mumkin.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch74-u25"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "\"Belgilangan nuqta\" (set point)",
+    "id": "ch74-s-26-belgilangan-nuqta-set-point",
+    "bid": "ch74-u26"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Taxminan 37,1°C (98,8°F) yadro haroratida issiqlik yo'qotish va hosil bo'lishi keskin o'zgaradi: yuqorida yo'qotish ko'p bo'lib harorat tushadi, pastda hosil bo'lish ko'p bo'lib ko'tariladi. Barcha mexanizmlar haroratni shu nuqtaga qaytarishga intiladi.",
+      "depth": 0
+     },
+     {
+      "text": "**Teskari aloqa kuchaytirish koeffitsiyenti:** (muhit harorati o'zgarishi / yadro harorati o'zgarishi) − 1 (1-bob). Muhit 25–30°C o'zgarganda tana ~1°C o'zgaradi, shuning uchun koeffitsiyent ~27 (28/1 − 1) — biologik tizim uchun juda yuqori (baroretseptor tizimi <2).",
+      "depth": 0
+     },
+     {
+      "text": "**Teri harorati belgilangan nuqtani biroz o'zgartiradi:** nuqtani asosan preoptik issiqlik retseptorlari belgilaydi, lekin teri va chuqur to'qimalar signallari uni siljitadi. Teri sovusa terlash nuqtasi ko'tariladi: masalan, teri >33°C bo'lganda 36,7°C, teri 29°C bo'lganda 37,4°C (74-8-rasm). Teri sovuq bo'lganda terlashni tormozlash foydali, aks holda ortiqcha issiqlik yo'qoladi. Titrashda ham xuddi shunday: sovuq teri gipotalamus harorati hali normadan issiq bo'lsa ham titrash ostonasiga olib keladi (74-9-rasm) — sovuq teri ichki harorat tushishini \"oldindan sezib\" oldini oladi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch74-u27"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Xulq-atvor orqali boshqarish",
+    "id": "ch74-s-28-xulq-atvor-orqali-boshqarish",
+    "bid": "ch74-u28"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Ong ostidagi mexanizmlardan ham kuchliroq. Ichki harorat oshsa miyadan qizib ketish hissi, sovusa teri va chuqur retseptorlardan noqulay sovuq hissi paydo bo'ladi; odam issiq xonaga o'tadi yoki yaxshi kiyinadi. Qattiq sovuq muhitda yagona chinakam samarali mexanizm.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch74-u29"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Mahalliy teri harorat reflekslari",
+    "id": "ch74-s-30-mahalliy-teri-harorat-reflekslari",
+    "bid": "ch74-u30"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Oyoq issiq chiroq ostida — mahalliy vazodilatatsiya va yengil terlash; sovuq suvda — vazokonstriksiya va terlash to'xtashi. Sabablari: haroratning tomirlarga bevosita ta'siri va teri → orqa miya → shu teri sohasiga qaytuvchi mahalliy reflekslar. Ularning kuchi markaziy boshqaruv bilan ham belgilanadi (gipotalamus signali × mahalliy signal).",
+      "depth": 0
+     },
+     {
+      "text": "**Orqa miya bo'yin qismida simpatik chiqishdan yuqorida kesilsa:** gipotalamus teri qon oqimi va terlashni boshqara olmaydi; mahalliy reflekslar juda kuchsiz. Harorat asosan bemorning bosh sohasidagi issiq-sovuq hissiga ko'ra xulq (kiyim, muhit tanlash) bilan boshqariladi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch74-u31"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Isitma",
+    "id": "ch74-s-32-isitma",
+    "bid": "ch74-u32"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Odatdagi normadan yuqori harorat; miya anomaliyalari yoki harorat markazlariga ta'sir qiluvchi toksik moddalar sabab bo'ladi: bakterial yoki virus infeksiyalari, miya o'smalari, issiq urishiga olib keluvchi muhit sharoitlari (74-10-rasm).",
+      "depth": 0
+     },
+     {
+      "text": "**Pirogenlar:** ko'p oqsillar, ularning parchalanish mahsulotlari va boshqa moddalar, ayniqsa bakteriya membranasidan ajraladigan **lipopolisaxarid toksinlar**, gipotalamus termostatining belgilangan nuqtasini ko'taradi. Nuqta ko'tarilgach barcha isituvchi mexanizmlar (issiqlik saqlash va hosil qilish) ishga tushadi va bir necha soatda harorat yangi nuqtaga yaqinlashadi (74-11-rasm).",
+      "depth": 0
+     },
+     {
+      "text": "**Sitokinlarning roli:** ba'zi pirogenlar gipotalamusga bevosita va darhol ta'sir qiladi; boshqalari (ko'p bakterial pirogenlar, ayniqsa gramm-manfiy bakteriyalar endotoksinlari) bilvosita, bir necha soatlik yashirin davr bilan. Bakteriya va mahsulotlari leykotsitlar, to'qima makrofaglari va yirik donador killer limfotsitlar tomonidan fagotsitoz qilinadi (34-bob); ular sitokinlar ajratadi. Eng muhimi — **interleykin-1 (IL-1)**, leykotsitar yoki endogen pirogen: gipotalamusga yetib, ba'zan 8–10 daqiqada haroratni sezilarli oshiradi. Grammning o'n milliondan biri endotoksin isitma beradi; buning uchun bir necha nanogramm IL-1 yetarli.",
+      "depth": 0
+     },
+     {
+      "text": "IL-1 avval **prostaglandinlar, asosan PGE2** (yoki shunga o'xshash modda) hosil bo'lishini qo'zg'atadi, u gipotalamusda isitma reaksiyasini chaqiradi. Prostaglandin sintezi dorilar bilan bloklansa isitma yo'qoladi yoki kamayadi. **Aspirin** araxidon kislotadan prostaglandin hosil bo'lishini to'sib, haroratni tushiradi — **antipiretiklar**.",
+      "depth": 0
+     },
+     {
+      "text": "**Miya shikastlaridan isitma:** gipotalamus sohasida operatsiya deyarli doim kuchli isitma beradi (kamdan-kam gipotermiya). Gipotalamusni bosuvchi miya o'smasi ham uzoq yuqori harorat beradi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch74-u33"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Isitmali holat xususiyatlari",
+    "id": "ch74-s-34-isitmali-holat-xususiyatlari",
+    "bid": "ch74-u34"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Qaltirash (chills):** belgilangan nuqta to'satdan ko'tarilsa (to'qima parchalanishi, pirogenlar, suvsizlanish), harorat unga bir necha soatda yetadi. Qon harorati nuqtadan past bo'lgani uchun isituvchi javoblar ishlaydi: odam harorati normadan baland bo'lsa ham qattiq sovqotadi, teri vazokonstriksiyadan sovuq, titraydi (vazokonstriksiya, piloereksiya, adrenalin sekretsiyasi, titrash). Harorat yangi nuqtaga (masalan 39,4°C / 103°F) yetgach qaltirash to'xtaydi; omil bor ekan, harorat yuqori nuqtada odatdagidek boshqariladi.",
+      "depth": 0
+     },
+     {
+      "text": "**Krizis (\"flush\"):** sabab bartaraf etilsa nuqta tushadi (balki normaga); harorat hali 39,4°C, lekin gipotalamus 37°C ni ushlashga harakat qiladi — kuchli terlash va hamma joyda vazodilatatsiyadan teri to'satdan issiq bo'ladi. Antibiotiklardan oldingi davrda krizis intiqlik bilan kutilgan — undan keyin harorat tushishi kutilgan.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch74-u35"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Issiq urishi (heatstroke)",
+    "id": "ch74-s-36-issiq-urishi-heatstroke",
+    "bid": "ch74-u36"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Chidash mumkin bo'lgan yuqori harorat havoning quruq yoki namligiga bog'liq. Quruq havo va kuchli konveksiyada bir necha soat 54°C (130°F) ga chidash mumkin. 100% namlikda yoki suvda muhit ~34,4°C (94°F) dan oshsa tana harorati ko'tarila boshlaydi. Og'ir ishda kritik muhit harorati 29,4–32,2°C (85–90°F) gacha tushishi mumkin.",
+      "depth": 0
+     },
+     {
+      "text": "Tana harorati 40,6–42,2°C (105–108°F) dan oshsa issiq urishi ehtimoli katta: bosh aylanishi, qorin noqulayligi, ba'zan qusish, ba'zan alahsirash, harorat tushirilmasa hushdan ketish. Ter bilan suyuqlik va elektrolit yo'qotishdan qisman qon aylanish shoki bilan og'irlashadi. Giperpireksiya to'qimalarni, ayniqsa miyani qattiq shikastlaydi; bir necha daqiqa juda yuqori harorat ham o'limga olib kelishi mumkin.",
+      "depth": 0
+     },
+     {
+      "text": "**Davolash:** ba'zilar darhol sovuq suv vannasini tavsiya qiladi (nazoratsiz titrash issiqlikni oshirishi mumkin, ba'zan mushak relaksanti beriladi). Boshqalar terini gubka yoki purkash bilan ho'llab, ustidan salqin havo puflashni tezroq va amaliyroq deb hisoblaydi.",
+      "depth": 0
+     },
+     {
+      "text": "**Zararli ta'sirlar:** giperpireksiyadan o'lganlarda butun tanada, ayniqsa miyada mahalliy qon quyilishlar va hujayralarning parenximatoz degeneratsiyasi. Neyronlar halok bo'lsa hech qachon tiklanmaydi. Jigar, buyrak va boshqa a'zolar shikastlanishi ham bir necha kundan keyin o'limga olib kelishi mumkin.",
+      "depth": 0
+     },
+     {
+      "text": "**Issiqqa moslashish:** tropikadagi askarlar, Janubiy Afrikaning ~3 km chuqurlikdagi oltin konlari ishchilari (harorat tana haroratiga, namlik 100% ga yaqin). Har kuni bir necha soat og'ir ish bilan issiqda bo'lgan odam 1–3 haftada moslashadi: maksimal terlash ~2 baravar oshadi, plazma hajmi oshadi, ter va siydik bilan tuz yo'qotish deyarli nolga tushadi (oxirgi ikkisi aldosteron oshishidan).",
+      "depth": 0
+     }
+    ],
+    "bid": "ch74-u37"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Qattiq sovuq ta'siri",
+    "id": "ch74-s-38-qattiq-sovuq-tasiri",
+    "bid": "ch74-u38"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Muzli suvda 20–30 daqiqa qolgan odam davolanmasa yurak to'xtashi yoki fibrillyatsiyasidan o'ladi; bu paytda ichki harorat ~25°C (77°F). Tashqi issiqlik bilan tez isitilsa ko'pincha qutqarish mumkin.",
+      "depth": 0
+     },
+     {
+      "text": "**Past haroratda boshqaruvning yo'qolishi:** ~29,4°C (85°F) dan pastda gipotalamus haroratni boshqara olmaydi; ~34,4°C (94°F) dan pastda ham ancha buziladi. Sabablari: har 5,6°C (10°F) pasayishda hujayra kimyoviy issiqlik hosil qilishi ~2 baravar kamayadi; uyquchanlik (keyin koma) MNS issiqlik boshqaruvini susaytiradi va titrashni to'xtatadi.",
+      "depth": 0
+     },
+     {
+      "text": "**Sovuq urishi (frostbite):** ayniqsa quloq yumshoqlari va qo'l-oyoq barmoqlari muzlaydi. Hujayralarda ko'p muz kristallari hosil bo'lsa doimiy shikast (qon aylanish buzilishi, to'qima shikasti); erigach ko'pincha gangrena va jarrohlik olib tashlash.",
+      "depth": 0
+     },
+     {
+      "text": "**Sovuqdan vazodilatatsiya:** to'qima muzlashga yaqin sovusa, tomir devori silliq mushagi falajlanib, to'satdan kengayadi (teri qizaradi) — iliq qon keltirib sovuq urishining oldini oladi. Odamda doim sovuqda yashovchi hayvonlarga qaraganda kam rivojlangan.",
+      "depth": 0
+     },
+     {
+      "text": "**Sun'iy gipotermiya:** kuchli sedativ bilan gipotalamus reaktivligi susaytirilib, muz yoki sovutuvchi ko'rpalar bilan sovutiladi; doimiy salqin suv yoki spirt sepib, bir necha kundan bir haftagacha 32,2°C (90°F) dan past ushlash mumkin. Yurak jarrohligida ishlatilgan: to'qima shikastlanmaydi, yurak sekinlashadi, hujayra metabolizmi keskin pasayadi va hujayralar qon oqimisiz 30 daqiqadan 1 soatdan ko'proq yashaydi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch74-u39"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Klinik nuqtalar",
+    "id": "ch74-s-40-klinik-nuqtalar",
+    "bid": "ch74-u40"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Tug'ma ter bezlari yo'qligi — issiq urishi xavfi.",
+      "depth": 0
+     },
+     {
+      "text": "Moslashmagan odamda ko'p terlashda katta tuz yo'qotish.",
+      "depth": 0
+     },
+     {
+      "text": "Isitma: IL-1 → PGE2 → belgilangan nuqta ko'tarilishi; aspirin antipiretik.",
+      "depth": 0
+     },
+     {
+      "text": "Gipotalamus operatsiyasi yoki o'smasi — uzoq isitma.",
+      "depth": 0
+     },
+     {
+      "text": "Issiq urishi, sovuq urishi, muzli suvda o'lim mexanizmi, sun'iy gipotermiya.",
+      "depth": 0
+     },
+     {
+      "text": "Bo'yin darajasida orqa miya kesilishida harorat boshqaruvi buziladi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch74-u41"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Bog'liqlik",
+    "id": "ch74-s-42-bogliqlik",
+    "bid": "ch74-u42"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "1-bob (teskari aloqa kuchaytirish), 34-bob (immun hujayralar), 49-bob (harorat retseptorlari), 55-bob (cho'zilish refleksi), 59-bob (gipotalamus), 61-bob (avtonom nerv tizimi), 72-bob (sovuq va ovqat qabuli), 73-bob (metabolizm, qo'ng'ir yog'), 77-bob (tiroksin), 78-bob (aldosteron), 85-bob (sportda issiqlik).",
+      "depth": 0
+     }
+    ],
+    "bid": "ch74-u43"
+   }
+  ],
+  "full": [
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "NORMAL BODY TEMPERATURES",
+    "pdfPage": 854,
+    "id": "ch74-h-normal-body-temperatures",
+    "bid": "ch74-f0"
+   },
+   {
+    "type": "paragraph",
+    "text": "The temperature of the deep tissues of the body—the “core” of the body—usually remains very constant, within ±1°F (±0.6°C), except when a person has a febrile illness. In deed, a nude person can be exposed to temperatures as low as 55°F or as high as 130°F in _dry_ air and still maintain an almost constant core temperature. The mechanisms for regulating body temperature represent a beautifully designed control system. In this chapter we discuss this system as it operates in health and in disease.",
+    "pdfPage": 854,
+    "lead": "Body Core Temperature and Skin Temperature.",
+    "anchor": "ch74-h-body-core-temperature-and-skin-temperature",
+    "bid": "ch74-f1"
+   },
+   {
+    "type": "paragraph",
+    "text": "The _skin temperature,_ in contrast to the _core tempera ture,_ rises and falls with the temperature of the surround ings. The skin temperature is important when we refer to the skin’s ability to lose heat to the surroundings.",
+    "pdfPage": 854,
+    "bid": "ch74-f2"
+   },
+   {
+    "type": "paragraph",
+    "text": "No single core tempera ture can be considered normal because measurements in many healthy people have shown a _range_ of normal tem peratures measured orally, as shown in **Figure 74-1**, from less than 97°F (36°C) to greater than 99.5°F (37.5°C). The average normal core temperature is generally considered to be between 98.0°F and 98.6°F when measured orally and about 1°F higher when measured rectally.",
+    "pdfPage": 854,
+    "lead": "Normal Core Temperature.",
+    "anchor": "ch74-h-normal-core-temperature",
+    "bid": "ch74-f3"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-74-01",
+    "bid": "ch74-f4"
+   },
+   {
+    "type": "paragraph",
+    "text": "The body temperature increases during exercise and varies with temperature extremes of the surroundings because the temperature regulatory mechanisms are not perfect. When excessive heat is produced in the body by strenuous exercise, the temperature can rise temporarily to as high as 101°F to 104°F. Conversely, when the body is exposed to extreme cold, the temperature can fall below 96°F.",
+    "pdfPage": 854,
+    "bid": "ch74-f5"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "BODY TEMPERATURE IS CONTROLLED BY BALANCING HEAT PRODUCTION AND HEAT LOSS",
+    "pdfPage": 854,
+    "id": "ch74-h-body-temperature-is-controlled-by-balancing-heat-production-",
+    "bid": "ch74-f6"
+   },
+   {
+    "type": "paragraph",
+    "text": "When the rate of heat production in the body is greater than the rate at which heat is being lost, heat builds up in the body, and the body temperature rises. Conversely, when heat loss is greater, both body heat and body tem perature decrease. Most of the remainder of this chapter is concerned with this balance between heat production and heat loss and the mechanisms by which the body con trols this production and loss.",
+    "pdfPage": 854,
+    "bid": "ch74-f7"
+   },
+   {
+    "type": "paragraph",
+    "text": "Heat production is a principal by-product of metabo lism. In Chapter 73, which summarizes body energet ics, we discuss the different factors that determine the rate of heat production, called the _metabolic rate of the body_. The most important of these factors are listed again here: (1) basal rate of metabolism of all the cells of the body; (2) extra rate of metabolism caused by muscle activity, including muscle contractions caused by shiv ering; (3) extra metabolism caused by the effect of thy roxine (and, to a lesser extent, other hormones, such as growth hormone and testosterone) on the cells; (4) extra metabolism caused by the effect of epinephrine, norepinephrine, and sympathetic stimulation on the cells; (5) extra metabolism caused by increased chemi cal activity in the cells, especially when the cell tem perature increases; and (6) extra metabolism needed for digestion, absorption, and storage of food (thermogenic effect of food).",
+    "pdfPage": 854,
+    "bid": "ch74-f8"
+   },
+   {
+    "type": "paragraph",
+    "text": "Most of the heat produced in the body is generated in the deep organs, especially the liver, brain, and heart, and in the skeletal muscles during physical activity. This heat is then transferred from the deeper organs and tissues to the skin, where it is lost to the air and other surroundings. Therefore, the rate at which heat is lost is determined almost entirely by two factors: (1) how rapidly heat can be conducted from where it is produced in the body core to the skin and (2) how rapidly heat can then be transferred from the skin to the surroundings. Let us begin by dis cussing the system that insulates the core from the skin surface.",
+    "pdfPage": 855,
+    "bid": "ch74-f9"
+   },
+   {
+    "type": "heading",
+    "level": 4,
+    "text": "Insulator System of the Body",
+    "pdfPage": 855,
+    "id": "ch74-h-insulator-system-of-the-body",
+    "bid": "ch74-f10"
+   },
+   {
+    "type": "paragraph",
+    "text": "The skin, the subcutaneous tissues, and especially the fat of the subcutaneous tissues act together as a heat insula tor for the body. The fat is important because it conducts heat only _one-third_ as readily as other tissues. When no blood is flowing from the heated internal organs to the skin, the insulating properties of the normal male body are about equal to three-quarters the insulating proper ties of a usual suit of clothes. In women, this insulation is even better.",
+    "pdfPage": 855,
+    "bid": "ch74-f11"
+   },
+   {
+    "type": "paragraph",
+    "text": "The insulation beneath the skin is an effective means of maintaining normal internal core temperature, even though it allows the temperature of the skin to approach the temperature of the surroundings.",
+    "pdfPage": 855,
+    "bid": "ch74-f12"
+   },
+   {
+    "type": "heading",
+    "level": 4,
+    "text": "Blood Flow to the Skin From the Body Core Provides Heat Transfer",
+    "pdfPage": 855,
+    "id": "ch74-h-blood-flow-to-the-skin-from-the-body-core-provides-heat-tran",
+    "bid": "ch74-f13"
+   },
+   {
+    "type": "paragraph",
+    "text": "Blood vessels are distributed profusely beneath the skin. Especially important is a continuous venous plexus that is supplied by inflow of blood from the skin capillaries, shown in **Figure 74-2**. In the most exposed areas of the body—the hands, feet, and ears—blood is also supplied to the plexus directly from the small arteries through highly muscular _arteriovenous anastomoses_.",
+    "pdfPage": 855,
+    "bid": "ch74-f14"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-74-02",
+    "bid": "ch74-f15"
+   },
+   {
+    "type": "paragraph",
+    "text": "The rate of blood flow into the skin venous plexus can vary tremendously, from barely above zero to as great as 30% of the total cardiac output. A high rate of skin flow causes heat to be conducted from the body core to the skin with great efficiency, whereas reduction in the rate of skin flow can decrease heat conduction from the core to very little.",
+    "pdfPage": 855,
+    "bid": "ch74-f16"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 74-3** shows quantitatively the effect of environ mental air temperature on conductance of heat from the core to the skin surface and then conductance into the air, demonstrating an approximate eightfold increase in heat conductance between the fully vasoconstricted state and the fully vasodilated state.",
+    "pdfPage": 855,
+    "bid": "ch74-f17"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-74-03",
+    "bid": "ch74-f18"
+   },
+   {
+    "type": "paragraph",
+    "text": "Therefore, the skin is an effective _controlled “heat radi ator” system_, and the flow of blood to the skin is a most effective mechanism for heat transfer from the body core to the skin.",
+    "pdfPage": 855,
+    "bid": "ch74-f19"
+   },
+   {
+    "type": "paragraph",
+    "text": "Heat conduction to the skin by the blood is controlled by the degree of vasoconstric tion of the arterioles and the arteriovenous anastomoses that supply blood to the venous plexus of the skin. This vasoconstriction is controlled almost entirely by the sym pathetic nervous system in response to changes in body core temperature and changes in environmental tempera ture. This is discussed later in the chapter in connection with control of body temperature by the hypothalamus.",
+    "pdfPage": 855,
+    "lead": "Control of Heat Conduction to the Skin by the Sympathetic Nervous System.",
+    "anchor": "ch74-h-control-of-heat-conduction-to-the-skin-by-the-sympathetic-ne",
+    "bid": "ch74-f20"
+   },
+   {
+    "type": "heading",
+    "level": 4,
+    "text": "Basic Physics of Heat Loss From the Skin Surface",
+    "pdfPage": 855,
+    "id": "ch74-h-basic-physics-of-heat-loss-from-the-skin-surface",
+    "bid": "ch74-f21"
+   },
+   {
+    "type": "paragraph",
+    "text": "The various methods by which heat is lost from the skin to the surroundings are shown in **Figure 74-4**. They include _radiation, conduction_, and _evaporation_, which are explained next.",
+    "pdfPage": 855,
+    "bid": "ch74-f22"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-74-04",
+    "bid": "ch74-f23"
+   },
+   {
+    "type": "paragraph",
+    "text": "As shown in **Figure 74-4**, in a nude person sitting inside at normal room temperature, about 60% of total heat loss is by radiation.",
+    "pdfPage": 855,
+    "lead": "Radiation Causes Heat Loss in the Form of Infrared Rays.",
+    "anchor": "ch74-h-radiation-causes-heat-loss-in-the-form-of-infrared-rays",
+    "bid": "ch74-f24"
+   },
+   {
+    "type": "paragraph",
+    "text": "Most infrared heat rays (a type of electromagnetic ray) that radiate from the body have wavelengths of 5 to",
+    "pdfPage": 855,
+    "bid": "ch74-f25"
+   },
+   {
+    "type": "paragraph",
+    "text": "20 micrometers, 10 to 30 times the wavelengths of light rays. All objects that are not at absolute zero temperature radiate such rays. The human body radiates heat rays in all directions. Heat rays are also being radiated from the walls of rooms and other objects toward the body. If the temperature of the body is greater than the temperature of the surroundings, a greater quantity of heat is radiated from the body than is radiated to the body.",
+    "pdfPage": 856,
+    "bid": "ch74-f26"
+   },
+   {
+    "type": "paragraph",
+    "text": "As shown in **Figure 74-4**, only minute quanti ties of heat, about 3%, are normally lost from the body by direct conduction from the surface of the body to _solid objects,_ such as a chair or a bed. Loss of heat by _conduc tion to air_, however, represents a sizable proportion of the body’s heat loss (≈15%), even under normal conditions.",
+    "pdfPage": 856,
+    "lead": "Conductive Heat Loss Occurs by Direct Contact With an Object.",
+    "anchor": "ch74-h-conductive-heat-loss-occurs-by-direct-contact-with-an-object",
+    "bid": "ch74-f27"
+   },
+   {
+    "type": "paragraph",
+    "text": "Heat is actually the kinetic energy of molecular motion, and the molecules of the skin are continually undergoing vibratory motion. Much of the energy of this motion can be transferred to the air if the air is colder than the skin, thus increasing the velocity of the air molecules’ motion. Once the temperature of the air adjacent to the skin equals the temperature of the skin, no further loss of heat occurs in this way because now an equal amount of heat is conducted from the air to the body. Therefore, conduc tion of heat from the body to the air is self-limited _unless the heated air moves away from the skin_, so new, unheated air is continually brought in contact with the skin, a phe nomenon called _air convection_.",
+    "pdfPage": 856,
+    "bid": "ch74-f28"
+   },
+   {
+    "type": "paragraph",
+    "text": "Heat from the skin is first _conducted_ to the air and then carried away by the convection air currents.",
+    "pdfPage": 856,
+    "lead": "Convective Heat Loss Results From Air Movement.",
+    "anchor": "ch74-h-convective-heat-loss-results-from-air-movement",
+    "bid": "ch74-f29"
+   },
+   {
+    "type": "paragraph",
+    "text": "A small amount of convection almost always occurs around the body because of the tendency for air adja cent to the skin to rise as it becomes heated. Therefore, in a nude person seated in a comfortable room without gross air movement, about 15% of his or her total heat loss occurs by conduction to the air and then by air convec tion away from the body.",
+    "pdfPage": 856,
+    "bid": "ch74-f30"
+   },
+   {
+    "type": "paragraph",
+    "text": "When the body is exposed to wind, the layer of air immediately adjacent to the skin is replaced by new air much more rapidly than is normal, and heat loss by convection increases accordingly. The cooling effect of wind at low velocities is about propor tional to the _square root of the wind velocity_. For example, a wind of 4 miles per hour is about twice as effective for cooling as a wind of 1 mile per hour.",
+    "pdfPage": 856,
+    "lead": "Cooling Effect of Wind.",
+    "anchor": "ch74-h-cooling-effect-of-wind",
+    "bid": "ch74-f31"
+   },
+   {
+    "type": "paragraph",
+    "text": "Water has a specific heat several thousand times as great as that of air, so each unit portion of water adjacent to the skin can absorb far greater quan tities of heat than can be absorbed by air. Also, heat con ductivity in water is very great in comparison with that in air. Consequently, it is impossible for the body to heat a thin layer of water next to the body to form an “insulator zone” as occurs in air. Therefore, if the temperature of the water is below body temperature the rate of heat loss to water is usually many times greater than the rate of heat loss to air.",
+    "pdfPage": 856,
+    "lead": "Conduction and Convection of Heat From a Person Suspended in Water.",
+    "anchor": "ch74-h-conduction-and-convection-of-heat-from-a-person-suspended-in",
+    "bid": "ch74-f32"
+   },
+   {
+    "type": "paragraph",
+    "text": "When water evaporates from the body surface, 0.58 Calo rie (kilocalorie) of heat is lost for each gram of water that evaporates. Even when a person is not sweating, water still evaporates _insensibly_ from the skin and lungs at a rate of about 600 to 700 ml/day. This insensible evaporation causes continual heat loss at a rate of 16 to 19 Calories per hour. Insensible evaporation through the skin and lungs cannot be controlled for purposes of temperature regulation because it results from continual diffusion of water molecules through the skin and respiratory sur faces. However, loss of heat by _evaporation of sweat_ can be controlled by regulating the rate of sweating, which is discussed later in this chapter.",
+    "pdfPage": 856,
+    "bid": "ch74-f33"
+   },
+   {
+    "type": "paragraph",
+    "text": "As long as skin tempera ture is greater than the temperature of the surroundings, heat can be lost by radiation and conduction. However, when the temperature of the surroundings becomes greater than that of the skin, instead of losing heat, the body gains heat by both radiation and conduction. Under these conditions, _the only means by which the body can rid itself of heat is by evaporation_.",
+    "pdfPage": 856,
+    "lead": "Evaporation is a Necessary Cooling Mechanism at Very High Air Temperatures.",
+    "anchor": "ch74-h-evaporation-is-a-necessary-cooling-mechanism-at-very-high-ai",
+    "bid": "ch74-f34"
+   },
+   {
+    "type": "paragraph",
+    "text": "Therefore, anything that prevents adequate evapora tion when the surrounding temperature is higher than the skin temperature will cause the internal body temperature to rise. This phenomenon occurs occasionally in human beings who are born with congenital absence of sweat glands. These people can tolerate cold temperatures as well as normal people can, but they can become severely stressed and die of heatstroke in tropical zones because, without the evaporative refrigeration system, they cannot prevent a rise in body temperature when the air tempera ture is greater than that of the body.",
+    "pdfPage": 856,
+    "bid": "ch74-f35"
+   },
+   {
+    "type": "paragraph",
+    "text": "Clothing entraps air next to the skin in the weave of the cloth, thereby increasing the thickness of the so-called",
+    "pdfPage": 856,
+    "lead": "Clothing Reduces Conductive and Convective Heat Loss.",
+    "anchor": "ch74-h-clothing-reduces-conductive-and-convective-heat-loss",
+    "bid": "ch74-f36"
+   },
+   {
+    "type": "paragraph",
+    "text": "_private zone_ of air adjacent to the skin and decreasing the flow of convection air currents. Consequently, the rate of heat loss from the body by conduction and convection is greatly depressed. A usual suit of clothes decreases the rate of heat loss to about half that from the nude body, but arctic-type clothing can decrease this heat loss to as little as one sixth.",
+    "pdfPage": 857,
+    "bid": "ch74-f37"
+   },
+   {
+    "type": "paragraph",
+    "text": "About half the heat transmitted from the skin to the clothing is radiated to the clothing instead of being con ducted across the small intervening space. Therefore, coating the inside of clothing with a thin layer of metal, such as silver or gold, which reflects radiant heat back to the body, makes the insulating properties of clothing far more effective than otherwise. By using this technique, clothing for use in the arctic can be decreased in weight by about half.",
+    "pdfPage": 857,
+    "bid": "ch74-f38"
+   },
+   {
+    "type": "paragraph",
+    "text": "The effectiveness of clothing in maintaining body temperature is almost completely lost when the cloth ing becomes wet because the high conductivity of water increases the rate of heat transmission through cloth 20fold or more. Therefore, one of the most important factors for protecting the body against cold in arctic regions is extreme caution against allowing the clothing to become wet. Indeed, one must be careful not to become over heated even temporarily because sweating in one’s clothes makes them much less effective thereafter as an insulator.",
+    "pdfPage": 857,
+    "bid": "ch74-f39"
+   },
+   {
+    "type": "heading",
+    "level": 4,
+    "text": "Sweating and Its Regulation by the Autonomic Nervous System",
+    "pdfPage": 857,
+    "id": "ch74-h-sweating-and-its-regulation-by-the-autonomic-nervous-system",
+    "bid": "ch74-f40"
+   },
+   {
+    "type": "paragraph",
+    "text": "Stimulation of the anterior hypothalamus-preoptic area in the brain either electrically or by excess heat causes sweat ing. The nerve impulses from this area that cause sweating are transmitted in the autonomic pathways to the spinal cord and then through sympathetic outflow to the skin.",
+    "pdfPage": 857,
+    "bid": "ch74-f41"
+   },
+   {
+    "type": "paragraph",
+    "text": "It should be recalled from the discussion of the auto nomic nervous system in Chapter 61 that the sweat glands are innervated by _cholinergic_ nerve fibers (fibers that secrete acetylcholine but that run in the sympathetic nerves along with the adrenergic fibers). These glands can also be stimulated to some extent by epinephrine or norepinephrine circulating in the blood, even though the glands themselves do not have adrenergic innervation. This mechanism is important during exercise, when these hormones are secreted by the adrenal medullae and the body needs to lose excessive amounts of heat produced by the active muscles.",
+    "pdfPage": 857,
+    "bid": "ch74-f42"
+   },
+   {
+    "type": "paragraph",
+    "text": "In **Figure 74-5**, the sweat gland is shown to be a tubular structure consist ing of two parts: (1) a deep subdermal _coiled portion_ that secretes the sweat, and (2) a _duct portion_ that passes out ward through the dermis and epidermis of the skin. As is true of so many other glands, the secretory portion of the sweat gland secretes a fluid called the _primary secretion_ or _precursor secretion_; the concentrations of constituents in the fluid are then modified as the fluid flows through the duct.",
+    "pdfPage": 857,
+    "lead": "Mechanism of Sweat Secretion.",
+    "anchor": "ch74-h-mechanism-of-sweat-secretion",
+    "bid": "ch74-f43"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-74-05",
+    "bid": "ch74-f44"
+   },
+   {
+    "type": "paragraph",
+    "text": "The precursor secretion is an active secretory product of the epithelial cells lining the coiled portion of the sweat gland. Cholinergic sympathetic nerve fibers ending on or near the glandular cells elicit the secretion.",
+    "pdfPage": 857,
+    "bid": "ch74-f45"
+   },
+   {
+    "type": "paragraph",
+    "text": "The composition of the precursor secretion is simi lar to that of plasma, except that it does not contain plasma proteins. The concentration of sodium is about 142 mEq/L, and that of chloride is about 104 mEq/L, with much smaller concentrations of the other solutes of plasma. As this precursor solution flows through the duct portion of the gland, it is modified by reab sorption of most of the sodium and chloride ions. The degree of this reabsorption depends on the rate of sweating.",
+    "pdfPage": 857,
+    "bid": "ch74-f46"
+   },
+   {
+    "type": "paragraph",
+    "text": "When the sweat glands are stimulated only slightly, the precursor fluid passes through the duct slowly. In this case, essentially all the sodium and chloride ions are reab sorbed, and the concentration of each falls to as low as 5 mEq/L. This process reduces the osmotic pressure of the sweat fluid to such a low level that most of the water is also reabsorbed, which concentrates most of the other constituents. Therefore, at low rates of sweating, such constituents as urea, lactic acid, and potassium ions are usually very concentrated.",
+    "pdfPage": 857,
+    "bid": "ch74-f47"
+   },
+   {
+    "type": "paragraph",
+    "text": "Conversely, when the sweat glands are strongly stimulated by the sympathetic nervous system, large amounts of precur sor secretion are formed, and the duct may reabsorb only slightly more than half the sodium chloride; the concentra tions of sodium and chloride ions are then (in an _unacclima tized_ person) a maximum of about 50 to 60 mEq/L, slightly less than half the concentrations in plasma. Furthermore, the sweat flows through the glandular tubules so rapidly that lit tle of the water is reabsorbed. Therefore, the other dissolved constituents of sweat are only moderately increased in con centration; urea is about twice that in the plasma, lactic acid about 4 times, and potassium about 1.2 times.",
+    "pdfPage": 858,
+    "bid": "ch74-f48"
+   },
+   {
+    "type": "paragraph",
+    "text": "A significant loss of sodium chloride occurs in the sweat when a person is unacclimatized to heat. Much less electrolyte loss occurs, despite increased sweating capac ity, once a person has become acclimatized.",
+    "pdfPage": 858,
+    "bid": "ch74-f49"
+   },
+   {
+    "type": "paragraph",
+    "text": "Although a normal, unacclimatized person seldom produces more than about 1 liter of sweat per hour, when this person is exposed to hot weather for 1 to 6 weeks, he or she begins to sweat more profusely, often increasing maximum sweat pro duction to as much as 2 to 3 L/hr. Evaporation of this much sweat can remove heat from the body at a rate _more than 10 times_ the normal basal rate of heat production. This increased effectiveness of the sweating mechanism is caused by a change in the internal sweat gland cells to increase their sweating capability.",
+    "pdfPage": 858,
+    "lead": "Acclimatization of the Sweating Mechanism to Heat—The Role of Aldosterone.",
+    "anchor": "ch74-h-acclimatization-of-the-sweating-mechanism-to-heat-the-role-o",
+    "bid": "ch74-f50"
+   },
+   {
+    "type": "paragraph",
+    "text": "Also associated with acclimatization is a further decrease in the concentration of sodium chloride in the sweat, which allows progressively better conservation of body salt. Most of this effect is caused by _increased secre tion of aldosterone_ by the adrenocortical glands, which results from a slight decrease in sodium chloride concen tration in the extracellular fluid and plasma. An _unaccli matized_ person who sweats profusely often loses 15 to 30 grams of salt each day for the first few days. After 4 to 6 weeks of acclimatization, the loss is usually 3 to 5 g/day.",
+    "pdfPage": 858,
+    "bid": "ch74-f51"
+   },
+   {
+    "type": "paragraph",
+    "text": "Many animals have little ability to lose heat from the sur faces of their bodies, for two reasons: (1) the surfaces are often covered with fur, and (2) the skin of most animals is not supplied with sweat glands, which prevents most of the evaporative loss of heat from the skin. A substitute mecha nism, the _panting_ mechanism, is used by many animals as a means of dissipating heat.",
+    "pdfPage": 858,
+    "boxed": true,
+    "bid": "ch74-f52"
+   },
+   {
+    "type": "paragraph",
+    "text": "The phenomenon of panting is “turned on” by the ther moregulator centers of the brain. That is, when the blood becomes overheated, the hypothalamus initiates neuro genic signals to decrease the body temperature. One of these signals initiates panting. The actual panting process is controlled by a _panting center_ that is associated with the pneumotaxic respiratory center located in the pons.",
+    "pdfPage": 858,
+    "boxed": true,
+    "bid": "ch74-f53"
+   },
+   {
+    "type": "paragraph",
+    "text": "When an animal pants, it breathes in and out rapidly, and thus large quantities of new air from the exterior come in contact with the upper portions of the respiratory pas sages. This mechanism cools the blood in the respiratory passage mucosa as a result of water evaporation from the mucosal surfaces, especially evaporation of saliva from the tongue. Yet, panting does not increase the alveolar ventila tion more than is required for proper control of the blood gases because each breath is extremely shallow; therefore, most of the air that enters the alveoli is dead-space air mainly from the trachea and not from the atmosphere.",
+    "pdfPage": 858,
+    "boxed": true,
+    "bid": "ch74-f54"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "REGULATION OF BODY TEMPERATURE—ROLE OF THE HYPOTHALAMUS",
+    "pdfPage": 858,
+    "id": "ch74-h-regulation-of-body-temperature-role-of-the-hypothalamus",
+    "bid": "ch74-f55"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 74-6** shows what happens to the body “core” tem perature of a nude person after a few hours’ exposure to _dry_ air ranging from 30°F to 160°F. The precise dimensions of this curve depend on the wind movement of the air, the amount of moisture in the air, and even the nature of the surroundings. In general, a nude person in dry air between 55°F and 130°F is capable of maintaining a normal body core temperature somewhere between 97°F and 100°F.",
+    "pdfPage": 858,
+    "bid": "ch74-f56"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-74-06",
+    "bid": "ch74-f57"
+   },
+   {
+    "type": "paragraph",
+    "text": "The temperature of the body is regulated almost entirely by nervous feedback mechanisms, and almost all these mechanisms operate through _temperatureregulating centers_ located in the _hypothalamus_. For these feedback mechanisms to operate, there must also be tem perature detectors to determine when body temperature becomes either too high or too low.",
+    "pdfPage": 858,
+    "bid": "ch74-f58"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "ROLE OF THE ANTERIOR HYPOTHALAMIC- PREOPTIC AREA IN THERMOSTATIC DETECTION OF TEMPERATURE",
+    "pdfPage": 858,
+    "id": "ch74-h-role-of-the-anterior-hypothalamic-preoptic-area-in-thermosta",
+    "bid": "ch74-f59"
+   },
+   {
+    "type": "paragraph",
+    "text": "The anterior hypothalamic-preoptic area contains large numbers of heat-sensitive neurons, as well as about onethird as many cold-sensitive neurons. These neurons are believed to function as temperature sensors for control ling body temperature. The heat-sensitive neurons increase their firing rate 2- to 10-fold in response to a 10°-C increase in body temperature. The cold-sensitive neurons, by con trast, increase their firing rate when body temperature falls.",
+    "pdfPage": 858,
+    "bid": "ch74-f60"
+   },
+   {
+    "type": "paragraph",
+    "text": "When the preoptic area is heated, the skin all over the body immediately breaks out in a profuse sweat, whereas the skin blood vessels over the entire body become greatly dilated. This response is an immediate reaction to cause the body to lose heat, thereby helping to return the body tem perature toward the normal level. In addition, any excess body heat production is inhibited. Therefore, it is clear that the hypothalamic-preoptic area has the capability to serve as a thermostatic body temperature control center.",
+    "pdfPage": 859,
+    "bid": "ch74-f61"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "DETECTION OF TEMPERATURE BY RECEPTORS IN THE SKIN AND DEEP BODY TISSUES",
+    "pdfPage": 859,
+    "id": "ch74-h-detection-of-temperature-by-receptors-in-the-skin-and-deep-b",
+    "bid": "ch74-f62"
+   },
+   {
+    "type": "paragraph",
+    "text": "Although the signals generated by the temperature recep tors of the hypothalamus are extremely powerful in con trolling body temperature, receptors in other parts of the body play additional roles in temperature regulation. This is especially true of temperature receptors in the skin and in a few specific deep tissues of the body.",
+    "pdfPage": 859,
+    "bid": "ch74-f63"
+   },
+   {
+    "type": "paragraph",
+    "text": "Recall from the discussion of sensory receptors in Chapter 49 that the skin is endowed with both _cold_ and _warmth_ receptors. The skin has far more cold receptors than warmth receptors—in fact, 10 times as many in many parts of the skin. Therefore, peripheral detection of temperature mainly concerns detecting cool and cold instead of warm temperatures.",
+    "pdfPage": 859,
+    "bid": "ch74-f64"
+   },
+   {
+    "type": "paragraph",
+    "text": "Although the molecular mechanisms for sensing changes in temperature are not well understood, experi mental studies suggest that the _transient receptor poten tial family of cation channels,_ found in somatosensory neurons and epidermal cells, may mediate thermal sensa tion over a wide range of skin temperatures.",
+    "pdfPage": 859,
+    "bid": "ch74-f65"
+   },
+   {
+    "type": "paragraph",
+    "text": "When the skin is chilled over the entire body, imme diate reflex effects are invoked and begin to increase the temperature of the body in several ways: (1) by provid ing a strong stimulus to cause shivering, with a resul tant increase in the rate of body heat production; (2) by inhibiting sweating, if this is already occurring; and (3) by promoting skin vasoconstriction to diminish loss of body heat from the skin.",
+    "pdfPage": 859,
+    "bid": "ch74-f66"
+   },
+   {
+    "type": "paragraph",
+    "text": "Deep body temperature receptors are found mainly in the _spinal cord_, in the _abdominal viscera_, and in or around the _great veins_ in the upper abdomen and thorax. These deep receptors function differently from the skin recep tors because they are exposed to the body core tempera ture rather than the body surface temperature. Yet, like the skin temperature receptors, they detect mainly cold rather than warmth. It is probable that both the skin and the deep body receptors are concerned with preventing _hypothermia_—that is, preventing low body temperature.",
+    "pdfPage": 859,
+    "bid": "ch74-f67"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "POSTERIOR HYPOTHALAMUS INTEGRATES CENTRAL AND PERIPHERAL TEMPERATURE SENSORY SIGNALS",
+    "pdfPage": 859,
+    "id": "ch74-h-posterior-hypothalamus-integrates-central-and-peripheral-tem",
+    "bid": "ch74-f68"
+   },
+   {
+    "type": "paragraph",
+    "text": "Even though many temperature sensory signals arise in peripheral receptors, these signals contribute to body temperature control mainly through the hypothalamus. The area of the hypothalamus that they stimulate is located bilaterally in the posterior hypothalamus approximately at the level of the mammillary bodies. The temperature sensory signals from the anterior hypothalamic-preoptic area are also transmitted into this posterior hypothalamic area. Here the signals from the preoptic area and the sig nals from elsewhere in the body are combined and inte grated to control the heat-producing and heat-conserving reactions of the body.",
+    "pdfPage": 859,
+    "bid": "ch74-f69"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "NEURONAL EFFECTOR MECHANISMS THAT DECREASE OR INCREASE BODY TEMPERATURE",
+    "pdfPage": 859,
+    "id": "ch74-h-neuronal-effector-mechanisms-that-decrease-or-increase-body-",
+    "bid": "ch74-f70"
+   },
+   {
+    "type": "paragraph",
+    "text": "When the hypothalamic temperature centers detect that the body temperature is either too high or too low, they institute appropriate temperature-decreasing or temperature-increasing procedures. The reader is prob ably familiar with most of these procedures from personal experience, but special features are described in the fol lowing sections.",
+    "pdfPage": 859,
+    "bid": "ch74-f71"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "Temperature-Decreasing Mechanisms When the Body Is Too Hot",
+    "pdfPage": 859,
+    "id": "ch74-h-temperature-decreasing-mechanisms-when-the-body-is-too-hot",
+    "bid": "ch74-f72"
+   },
+   {
+    "type": "paragraph",
+    "text": "The temperature control system uses three important mechanisms to reduce body heat when the body tempera ture becomes too great: 1. \u0007_Vasodilation of skin blood vessels._ In almost all areas of the body, the skin blood vessels become intensely dilated. This dilation is caused by inhibition of the sympathetic centers in the posterior hypothalamus that cause vasoconstriction. Full vasodilation can increase the rate of heat transfer to the skin as much as eightfold. 2. \u0007_Sweating._ The effect of increased body temperature to cause sweating is demonstrated by the blue curve in **Figure 74-7**, which shows a sharp increase in the rate of evaporative heat loss resulting from sweat ing when the body core temperature rises above the critical level of 37.1°C (98.8°F). An additional 1°C increase in body temperature causes enough sweat ing to remove 10 times the basal rate of body heat production. 3. \u0007_Decrease in heat production._ The mechanisms that cause excess heat production, such as shivering and chemical thermogenesis, are strongly inhibited.",
+    "pdfPage": 859,
+    "bid": "ch74-f73"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-74-07",
+    "bid": "ch74-f74"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "Temperature-Increasing Mechanisms When the Body Is Too Cold",
+    "pdfPage": 859,
+    "id": "ch74-h-temperature-increasing-mechanisms-when-the-body-is-too-cold",
+    "bid": "ch74-f75"
+   },
+   {
+    "type": "paragraph",
+    "text": "When the body is too cold, the temperature control sys tem institutes procedures opposite of those when the body is too hot: 1. \u0007_Skin vasoconstriction throughout the body._ This va soconstriction is caused by stimulation of the pos terior hypothalamic sympathetic centers. 2. \u0007_Piloerection._ Piloerection means hairs “standing on end.” Sympathetic stimulation causes the arrector pili muscles attached to the hair follicles to contract, which brings the hairs to an upright stance and pro duces “_goose bumps_” on the skin at the base of the hairs. This mechanism is not important in human beings, but in many animals, upright projection of the hairs allows them to entrap a thick layer of “in sulator air” next to the skin, so transfer of heat to the surroundings is greatly depressed. 3. \u0007_Increase in thermogenesis (heat production)._ Heat production by the metabolic systems is increased by promoting shivering, sympathetic excitation of heat production, and thyroxine secretion. These meth ods of increasing heat require additional explana tion, which is provided in the following sections.",
+    "pdfPage": 859,
+    "pdfPageEnd": 860,
+    "bid": "ch74-f76"
+   },
+   {
+    "type": "paragraph",
+    "text": "Located in the dorsomedial portion of the posterior hypothalamus near the wall of the third ventricle is an area called the _primary motor center for shivering_. This area is normally inhibited by signals from the heat center in the anterior hypothalamic-preoptic area but is excited by cold signals from the skin and spinal cord. Therefore, as shown by the sudden increase in “heat production” (see the red curve in **Figure 74-7**), this center becomes activated when the body temperature falls even a fraction of a degree below a critical temperature level. It then transmits signals that cause shivering through bilateral tracts down the brain stem, into the lateral columns of the spinal cord, and fi nally to the anterior motor neurons. These signals are nonrhythmic and do not cause the actual muscle shak ing. Instead, they increase the tone of the skeletal muscles throughout the body by facilitating the activity of the an terior motor neurons. When the tone rises above a cer tain critical level, shivering begins. This reaction probably results from feedback oscillation of the muscle spindle stretch reflex mechanism, which is discussed in Chapter 55. _During maximum shivering, body heat production can rise to four to five times normal_.",
+    "pdfPage": 860,
+    "lead": "Hypothalamic Stimulation of Shivering.",
+    "anchor": "ch74-h-hypothalamic-stimulation-of-shivering",
+    "bid": "ch74-f77"
+   },
+   {
+    "type": "paragraph",
+    "text": "As noted in Chapter 73, an increase in either sym pathetic stimulation or circulating norepinephrine and epi nephrine in the blood can rapidly increase the rate of cellular metabolism. This effect is called _chemical thermogenesis_, or _nonshivering thermogenesis_. It results at least partially from the ability of norepinephrine and epinephrine to _uncouple_ oxidative phosphorylation, which means that excess food stuffs are oxidized and thereby release energy in the form of heat but do not cause adenosine triphosphate to be formed.",
+    "pdfPage": 860,
+    "lead": "Sympathetic “Chemical” Excitation of Heat Production.",
+    "anchor": "ch74-h-sympathetic-chemical-excitation-of-heat-production",
+    "bid": "ch74-f78"
+   },
+   {
+    "type": "paragraph",
+    "text": "The degree of chemical thermogenesis that occurs in an animal is almost directly proportional to the amount of _brown fat_ in the animal’s tissues. This type of fat contains large numbers of special mitochondria where uncoupled oxidation occurs, as described in Chapter 73. Brown fat is richly supplied with sympathetic nerves that release norepinephrine, which stimulates tissue expression of _mitochondrial uncoupling protein 1_ (_UCP1,_ also called _thermogenin_) and increases thermogenesis.",
+    "pdfPage": 860,
+    "bid": "ch74-f79"
+   },
+   {
+    "type": "paragraph",
+    "text": "Acclimatization greatly affects the intensity of chemi cal thermogenesis; some animals, such as rats, that have been exposed to a cold environment for several weeks exhibit a 100% to 500% increase in heat production when acutely exposed to cold, in contrast to the unacclimatized animal, which responds with an increase of perhaps onethird as much. This increased thermogenesis also leads to a corresponding increase in food intake.",
+    "pdfPage": 860,
+    "bid": "ch74-f80"
+   },
+   {
+    "type": "paragraph",
+    "text": "In adult human beings, who have almost no brown fat, it is rare for chemical thermogenesis to increase the rate of heat production more than 10% to 15%. However, in infants, who _do_ have a small amount of brown fat in their interscapu lar space, chemical thermogenesis can increase the rate of heat production 100%, which is probably an important factor in maintaining normal body temperature in neonates.",
+    "pdfPage": 860,
+    "bid": "ch74-f81"
+   },
+   {
+    "type": "paragraph",
+    "text": "Cooling the anterior hypothalamic-preoptic area also increases production of the neurosecretory hormone _thyrotropin-releasing hormone_ by the hypothalamus. This hormone is carried by way of the hypothalamic portal veins to the anterior pituitary gland, where it stimulates secretion of _thyroidstimulating hormone_.",
+    "pdfPage": 860,
+    "lead": "Increased Thyroxine Output as a Long-Term Cause of Increased Heat Production.",
+    "bid": "ch74-f82"
+   },
+   {
+    "type": "paragraph",
+    "text": "Thyroid-stimulating hormone in turn stimulates increased output of _thyroxine_ by the thyroid gland, as explained in Chapter 77. The increased thyroxine acti vates uncoupling protein and increases the rate of cellular metabolism throughout the body, which is yet another mechanism of _chemical thermogenesis_. This increase in metabolism does not occur immediately but requires several weeks’ exposure to cold to make the thyroid gland hypertrophy and reach its new level of thyroxine secretion.",
+    "pdfPage": 860,
+    "bid": "ch74-f83"
+   },
+   {
+    "type": "paragraph",
+    "text": "Exposure of animals to extreme cold for several weeks can cause their thyroid glands to increase in size 20% to 40%. However, human beings seldom allow themselves to be exposed to the same degree of cold as that to which many animals are often subjected. Therefore, we still do not know, quantitatively, how important the thyroid mechanism of adaptation to cold is in the human being.",
+    "pdfPage": 861,
+    "bid": "ch74-f84"
+   },
+   {
+    "type": "paragraph",
+    "text": "Isolated measurements have shown that metabolic rates increase in military personnel residing for several months in the arctic; some of the Inuit, the indigenous people who inhabit the Arctic regions of Alaska, Canada, or Greenland, also have abnormally high basal metabolic rates. Further, the continuous stimulatory effect of cold on the thyroid gland may explain the much higher inci dence of toxic thyroid goiters in people who live in cold climates than in those who live in warm climates.",
+    "pdfPage": 861,
+    "bid": "ch74-f85"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "“SET POINT” FOR TEMPERATURE CONTROL",
+    "pdfPage": 861,
+    "id": "ch74-h-set-point-for-temperature-control",
+    "bid": "ch74-f86"
+   },
+   {
+    "type": "paragraph",
+    "text": "In the example of **Figure 74-7**, it is clear that at a critical body core temperature of about 37.1°C (98.8°F), drastic changes occur in the rates of both heat loss and heat pro duction. At temperatures above this level, the rate of heat loss is greater than that of heat production, so the body temperature falls and approaches the 37.1°C level. At tem peratures below this level, the rate of heat production is greater than that of heat loss, so the body temperature rises and again approaches the 37.1°C level. This crucial temperature level is called the “set point” of the tempera ture control mechanism—that is, all the temperature con trol mechanisms continually attempt to bring the body temperature back to this set point level.",
+    "pdfPage": 861,
+    "bid": "ch74-f87"
+   },
+   {
+    "type": "paragraph",
+    "text": "As discussed in Chapter 1, feedback gain is a measure of the effectiveness of a control system. In the case of body temperature control, it is important for the internal core temperature to change as little as possible, even though the environmental temperature might change greatly from day to day or even hour to hour. The _feedback gain_ of the temperature control system is equal to the ratio of the change in environmental temperature to the change in body core temperature minus 1.0 (see Chapter 1 for this formula). Experiments have shown that the body temperature of humans changes about 1°C for each 25°to 30°C-change in environmental temperature. Therefore, the feedback gain of the total mechanism for body tem perature control averages about 27 (28/1.0 − 1.0 = 27), which is an extremely high gain for a biological control system (the baroreceptor arterial pressure control system, by comparison, has a feedback gain of <2).",
+    "pdfPage": 861,
+    "lead": "Feedback Gain for Body Temperature Control.",
+    "anchor": "ch74-h-feedback-gain-for-body-temperature-control",
+    "bid": "ch74-f88"
+   },
+   {
+    "type": "heading",
+    "level": 4,
+    "text": "Skin Temperature Can Slightly Alter the Set Point for Core Temperature Control",
+    "pdfPage": 861,
+    "id": "ch74-h-skin-temperature-can-slightly-alter-the-set-point-for-core-t",
+    "bid": "ch74-f89"
+   },
+   {
+    "type": "paragraph",
+    "text": "The critical temperature set point in the hypothalamus above which sweating begins and below which shivering begins is determined mainly by the degree of activity of the heat temperature receptors in the anterior hypothalamicpreoptic area. However, temperature signals from the peripheral areas of the body, especially from the skin and certain deep body tissues (e.g., spinal cord and abdomi nal viscera), also contribute slightly to body temperature regulation by altering the set point of the hypothalamic temperature control center. This effect is shown in **Fig ures 74-8** and **74-9**.",
+    "pdfPage": 861,
+    "bid": "ch74-f90"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 74-8** demonstrates the effect of different skin temperatures on the set point for sweating, showing that the set point increases as skin temperature decreases. Thus, for the person represented in this figure, the hypo thalamic set point increased from 36.7°C when the skin temperature was higher than 33°C to a set point of 37.4°C when the skin temperature had fallen to 29°C. Therefore, when the skin temperature was high, sweating began at a lower hypothalamic temperature than when the skin tem perature was low. One can readily understand the value of such a system because it is important that sweating be inhibited when the skin temperature is low; otherwise, the combined effect of low skin temperature and sweating could cause far too much loss of body heat.",
+    "pdfPage": 861,
+    "bid": "ch74-f91"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-74-08",
+    "bid": "ch74-f92"
+   },
+   {
+    "type": "paragraph",
+    "text": "A similar effect occurs in shivering, as shown in **Fig ure 74-9**. That is, when the skin becomes cold, it drives the hypothalamic centers to the shivering threshold even when the hypothalamic temperature is still on the hot side of normal. Here again, one can understand the value of the control system because a cold skin temperature would soon lead to a deeply depressed body temperature unless heat production were increased. Thus, a cold skin tem perature actually “anticipates” a fall in internal body tem perature and prevents it.",
+    "pdfPage": 861,
+    "bid": "ch74-f93"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "BEHAVIORAL CONTROL OF BODY TEMPERATURE",
+    "pdfPage": 862,
+    "id": "ch74-h-behavioral-control-of-body-temperature",
+    "bid": "ch74-f94"
+   },
+   {
+    "type": "paragraph",
+    "text": "Aside from the subconscious mechanisms for body tem perature control, the body has another temperaturecontrol mechanism that is even more potent—_behavioral control of temperature_.",
+    "pdfPage": 862,
+    "bid": "ch74-f95"
+   },
+   {
+    "type": "paragraph",
+    "text": "Whenever the internal body temperature becomes too high, signals from the temperature-controlling areas in the brain give the person a psychic sensation of being overheated. Conversely, whenever the body becomes too cold, signals from the skin and probably also from some deep body recep tors elicit the feeling of cold discomfort. Therefore, the person makes appropriate environmental adjustments to re-establish comfort, such as moving into a heated room or wearing wellinsulated clothing in freezing weather. Behavioral control of temperature is the only really effective mechanism to main tain body heat control in severely cold environments.",
+    "pdfPage": 862,
+    "bid": "ch74-f96"
+   },
+   {
+    "type": "paragraph",
+    "text": "When a person places a foot under a hot lamp and leaves it there for a short time, _local vasodilation_ and mild _local sweating_ occur. Conversely, placing the foot in cold water causes local vasoconstriction and local cessation of sweat ing. These reactions are caused by local effects of tempera ture directly on the blood vessels and also by local cord re flexes conducted from skin receptors to the spinal cord and back to the same skin area and the sweat glands. The inten sity of these local effects is, in addition, controlled by the central brain temperature controller, so their overall effect is proportional to the hypothalamic heat control signal _times_ the local signal. Such reflexes can help prevent excessive heat exchange from locally cooled or heated portions of the body.",
+    "pdfPage": 862,
+    "boxed": true,
+    "bid": "ch74-f97"
+   },
+   {
+    "type": "paragraph",
+    "text": "If the spinal cord is severed in the neck above the sympathetic outflow from the cord, regula tion of body temperature becomes extremely poor because the hypothalamus can no longer control either skin blood flow or the degree of sweating anywhere in the body. This is true even though the local temperature reflexes originating in the skin, spinal cord, and intra-abdominal receptors still exist. These reflexes are extremely weak in comparison with hypothalamic control of body temperature.",
+    "pdfPage": 862,
+    "lead": "Regulation of Internal Body Temperature Is Impaired by Cutting the Spinal Cord.",
+    "boxed": true,
+    "bid": "ch74-f98"
+   },
+   {
+    "type": "paragraph",
+    "text": "In people with this condition, body temperature must be regulated principally by the patient’s psychic response to cold and hot sensations in the head region—that is, by behavioral control of clothing and by moving into an ap propriate warm or cold environment.",
+    "pdfPage": 862,
+    "boxed": true,
+    "bid": "ch74-f99"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "ABNORMALITIES OF BODY TEMPERATURE REGULATION",
+    "pdfPage": 862,
+    "id": "ch74-h-abnormalities-of-body-temperature-regulation",
+    "bid": "ch74-f100"
+   },
+   {
+    "type": "paragraph",
+    "text": "Fever, which means a body temperature above the usual range of normal, can be caused by abnormalities in the brain or by toxic substances that affect the temperatureregulating centers. Some causes of fever (and also of subnormal body temperatures) are presented in **Figure 74-10**. They include bacterial or viral infections, brain tumors, and environmental conditions that may termi nate in heatstroke.",
+    "pdfPage": 862,
+    "bid": "ch74-f101"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-74-10",
+    "bid": "ch74-f102"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "Resetting the Hypothalamic Temperature- Regulating Center in Febrile Diseases— Effect of Pyrogens",
+    "pdfPage": 862,
+    "id": "ch74-h-resetting-the-hypothalamic-temperature-regulating-center-in-",
+    "bid": "ch74-f103"
+   },
+   {
+    "type": "paragraph",
+    "text": "Many proteins, breakdown products of proteins, and certain other substances, especially lipopolysaccharide toxins released from bacterial cell membranes, can cause the set point of the hypothalamic thermostat to rise. Sub stances that cause this effect are called _pyrogens_.",
+    "pdfPage": 862,
+    "bid": "ch74-f104"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-74-09",
+    "bid": "ch74-f105"
+   },
+   {
+    "type": "paragraph",
+    "text": "Pyrogens released from toxic bacteria or those released from degenerating body tissues cause fever dur ing disease conditions. When the set point of the hypo thalamic temperature-regulating center becomes higher than normal, all the mechanisms for raising the body temperature are brought into play, including heat con servation and increased heat production. Within a few hours after the set point has been increased, the body temperature also approaches this level, as shown in **Fig ure 74-11**.",
+    "pdfPage": 863,
+    "bid": "ch74-f106"
+   },
+   {
+    "type": "paragraph",
+    "text": "Experiments in animals have shown that some pyrogens, when injected into the hypothala mus, can act directly and immediately on the hypotha lamic temperature-regulating center to increase its set point. Other pyrogens function indirectly and may re quire several hours of latency before causing their effects. This is true of many of the bacterial pyrogens, especially the _endotoxins_ from gram-negative bacteria.",
+    "pdfPage": 863,
+    "lead": "Mechanism of Action of Pyrogens in Causing Fever—Role of Cytokines.",
+    "anchor": "ch74-h-mechanism-of-action-of-pyrogens-in-causing-fever-role-of-cyt",
+    "bid": "ch74-f107"
+   },
+   {
+    "type": "paragraph",
+    "text": "When bacteria or breakdown products of bacteria are present in the tissues or in the blood, they are _phago cytized by the blood leukocytes, by tissue macrophages_, and _by large granular killer lymphocytes_, as discussed in Chapter 34. All these cells digest the bacterial products and then release cytokines, a diverse group of peptidesignaling molecules involved in the innate and adaptive immune responses. One of the most important of these cytokines in causing fever is _interleukin-1 (IL-1),_ also called _leukocyte pyrogen_ or _endogenous pyrogen_. IL-1 is released from macrophages into the body fluids and, upon reaching the hypothalamus, almost immediately activates the processes to produce fever, sometimes increasing the body temperature a noticeable amount in only 8 to 10 minutes. _As little as one ten-millionth of a gram of endo toxin lipopolysaccharide_ from bacteria, acting in concert with the blood leukocytes, tissue macrophages, and killer lymphocytes, can cause fever. The amount of IL-1 that is formed in response to lipopolysaccharide to cause fever is only a few nanograms.",
+    "pdfPage": 863,
+    "bid": "ch74-f108"
+   },
+   {
+    "type": "paragraph",
+    "text": "Several experiments have suggested that IL-1 causes fever by first inducing formation of one of the prosta glandins, mainly prostaglandin E2, or a similar substance, which acts in the hypothalamus to elicit the fever reaction. When prostaglandin formation is blocked by drugs, the fever is either completely abrogated or at least reduced. In fact, this may be the explanation for the manner in which aspirin reduces fever because aspirin impedes the forma tion of prostaglandins from arachidonic acid. Drugs such as aspirin that reduce fever are called _antipyretics_.",
+    "pdfPage": 863,
+    "bid": "ch74-f109"
+   },
+   {
+    "type": "paragraph",
+    "text": "When a brain surgeon operates in the region of the hypothalamus, severe fever almost always occurs; rarely, the opposite effect, hypother mia, occurs, demonstrating both the potency of the hypo thalamic mechanisms for body temperature control and the ease with which abnormalities of the hypothalamus can alter the set point of temperature control. Another condition that frequently causes prolonged high tempera ture is compression of the hypothalamus by a brain tumor.",
+    "pdfPage": 863,
+    "lead": "Fever Caused by Brain Lesions.",
+    "anchor": "ch74-h-fever-caused-by-brain-lesions",
+    "bid": "ch74-f110"
+   },
+   {
+    "type": "paragraph",
+    "text": "When the set point of the hypothalamic temperature-control center is suddenly changed from the normal level to higher than normal (as a result of tissue de struction, pyrogenic substances, or dehydration), the body temperature usually takes several hours to reach the new temperature set point.",
+    "pdfPage": 863,
+    "lead": "Chills.",
+    "boxed": true,
+    "bid": "ch74-f111"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 74-11** demonstrates the effect of suddenly in creasing the temperature set point to a level of 103°F. Be cause the blood temperature is now less than the set point of the hypothalamic temperature controller, the usual re sponses that cause elevation of body temperature occur. During this period, the person experiences chills and feels extremely cold, even though his or her body temperature may already be above normal. Also, the skin becomes cold because of vasoconstriction and the person shivers. Chills can continue until the body temperature reaches the hy pothalamic set point of 103°F. Then the person no longer experiences chills but instead feels neither cold nor hot. As long as the factor that is causing the higher set point of the hypothalamic temperature controller is present, the body temperature is regulated more or less in the normal man ner, but at the high temperature set point level.",
+    "pdfPage": 863,
+    "boxed": true,
+    "bid": "ch74-f112"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-74-11",
+    "bid": "ch74-f113"
+   },
+   {
+    "type": "paragraph",
+    "text": "If the factor that is causing the high temperature is removed, the set point of the hypothalamic temperature controller will be reduced to a lower value— perhaps even back to the normal level, as shown in **Figure 74-11**. In this case, the body temperature is still 103°F, but the hypothalamus is attempting to regulate the temperature to 98.6°F. This situation is analogous to excessive heating of the anterior hypothalamic-preoptic area, which causes intense sweating and the sudden development of hot skin because of vasodilation everywhere. This sudden change of events in a febrile state is known as the “crisis” or, more appropriately, the “flush.” In the days before the advent of antibiotics, the crisis was always anxiously awaited because once this occurred, the doctor assumed that the patient’s temperature would soon begin falling.",
+    "pdfPage": 863,
+    "lead": "Crisis, or “Flush.”",
+    "boxed": true,
+    "bid": "ch74-f114"
+   },
+   {
+    "type": "paragraph",
+    "text": "The upper limit of air temperature that one can stand de pends to a great extent on whether the air is dry or wet. If the air is dry and sufficient convection air currents are flowing to promote rapid evaporation from the body, a per son can withstand several hours of air temperature at 130°F. Conversely, if the air is 100% humidified or if the body is in water, the body temperature begins to rise whenever the environmental temperature rises above about 94°F. If the person is performing heavy work, the critical _environmen tal temperature_ above which heatstroke is likely to occur may be as low as 85°F to 90°F.",
+    "pdfPage": 864,
+    "boxed": true,
+    "bid": "ch74-f115"
+   },
+   {
+    "type": "paragraph",
+    "text": "When the body temperature rises beyond a critical tem perature, into the range of 105°F to 108°F, _heatstroke_ is like ly to develop. The symptoms include dizziness, abdominal distress, sometimes accompanied by vomiting, sometimes delirium, and eventually loss of consciousness if the body temperature is not soon decreased. These symptoms are often exacerbated by a degree of _circulatory shock_ brought on by excessive loss of fluid and electrolytes in the sweat.",
+    "pdfPage": 864,
+    "boxed": true,
+    "bid": "ch74-f116"
+   },
+   {
+    "type": "paragraph",
+    "text": "The hyperpyrexia is also exceedingly damaging to the body tissues, especially the brain, and is responsible for many of the effects. In fact, even a few minutes of very high body temperature can sometimes be fatal. For this reason, some authorities recommend immediate treatment of heat stroke by placing the person in a cold-water bath. Because a cold-water bath often induces uncontrollable shivering, with a considerable increase in the rate of heat produc tion, a muscle relaxant may be administered in some cases. Others have suggested that sponge or spray cooling of the skin along with blowing cool air over the moist skin may be more effective and more practical for rapidly decreasing the body core temperature.",
+    "pdfPage": 864,
+    "boxed": true,
+    "bid": "ch74-f117"
+   },
+   {
+    "type": "paragraph",
+    "text": "The pathologi cal findings in a person who dies of hyperpyrexia are local hemorrhages and parenchymatous degeneration of cells throughout the entire body, but especially in the brain. Once neuronal cells are destroyed, they can never be re placed. Also, damage to the liver, kidneys, and other organs can often be severe enough that failure of one or more of these organs eventually causes death, but sometimes not until several days after the heatstroke occurs.",
+    "pdfPage": 864,
+    "lead": "Harmful Effects of High Temperature.",
+    "boxed": true,
+    "bid": "ch74-f118"
+   },
+   {
+    "type": "paragraph",
+    "text": "It can be extremely important to acclimatize people to extreme heat. Examples of people requiring acclimatization are soldiers on duty in the tropics and miners working in the 2-mile-deep gold mines of South Africa, where the temperature approaches body tempera ture and the humidity approaches 100%. A person exposed to heat for several hours each day while performing a rea sonably heavy workload will develop increased tolerance to hot and humid conditions in 1 to 3 weeks.",
+    "pdfPage": 864,
+    "lead": "Acclimatization to Heat.",
+    "boxed": true,
+    "bid": "ch74-f119"
+   },
+   {
+    "type": "paragraph",
+    "text": "Among the most important physiological changes that occur during this acclimatization process are an approxi mately twofold increase in the maximum rate of sweating, an increase in plasma volume, and diminished loss of salt in the sweat and urine to almost none; the last two effects result from increased secretion of aldosterone by the adrenal glands.",
+    "pdfPage": 864,
+    "boxed": true,
+    "bid": "ch74-f120"
+   },
+   {
+    "type": "paragraph",
+    "text": "Unless treated immediately, a person exposed to ice wa ter for 20 to 30 minutes ordinarily dies because of heart standstill or heart fibrillation. By that time, the internal body temperature will have fallen to about 77°F. If warmed rapidly by the application of external heat, the person’s life can often be saved.",
+    "pdfPage": 864,
+    "boxed": true,
+    "bid": "ch74-f121"
+   },
+   {
+    "type": "paragraph",
+    "text": "As noted in **Figure 74-10**, once the body temperature has fallen below about 85°F, the ability of the hypothalamus to regulate temperature is lost; it is greatly impaired even when the body temperature falls below about 94°F. Part of the reason for this diminished temperature regulation is that the rate of chemical heat production in each cell is depressed almost twofold for each 10°F decrease in body temperature. Also, sleepiness develops (later followed by coma), which depresses the activity of the central nervous system heat control mechanisms and prevents shivering.",
+    "pdfPage": 864,
+    "lead": "Loss of Temperature Regulation at Low Temperatures.",
+    "boxed": true,
+    "bid": "ch74-f122"
+   },
+   {
+    "type": "paragraph",
+    "text": "When the body is exposed to extremely low temperatures, surface areas can freeze, which is a phenom enon called _frostbite_. Frostbite occurs especially in the lobes of the ears and in the digits of the hands and feet. If the freeze has been sufficient to cause extensive formation of ice crystals in the cells, permanent damage usually results, such as permanent circulatory impairment and local tissue damage. Gangrene often follows thawing, and the frostbit ten areas must be removed surgically.",
+    "pdfPage": 864,
+    "lead": "Frostbite.",
+    "boxed": true,
+    "bid": "ch74-f123"
+   },
+   {
+    "type": "paragraph",
+    "text": "When the temperature of tissues falls almost to freezing, the smooth muscle in the vascular wall becomes paralyzed because of the cold, and sudden vasodilation occurs, often manifested by a flush of the skin. This mechanism helps prevent frost bite by delivering warm blood to the skin. This mechanism is far less developed in humans than in most animals that live in the cold all the time.",
+    "pdfPage": 864,
+    "lead": "Cold-Induced Vasodilation Is a Final Protection Against Frostbite at Almost Freezing Temperatures.",
+    "boxed": true,
+    "bid": "ch74-f124"
+   },
+   {
+    "type": "paragraph",
+    "text": "It is easy to decrease the tem perature of a person by first administering a strong sedative to depress the reactivity of the hypothalamic temperature controller and then cooling the person with ice or cooling blankets until the temperature falls. The temperature can then be maintained below 90°F for several days to a week or more by continual sprinkling of cool water or alcohol on the body. Such artificial cooling has been used during heart surgery so that the heart can be stopped artificially for many minutes at a time. Cooling to this extent does not cause tissue damage, but it does slow the heart and greatly depresses cell metabolism so that the body’s cells can sur vive 30 minutes to more than 1 hour without blood flow during the surgical procedure.",
+    "pdfPage": 864,
+    "lead": "Artificial Hypothermia.",
+    "boxed": true,
+    "bid": "ch74-f125"
+   }
+  ]
+ },
+ "glossary": [
+  {
+   "id": "ch74-t-venoz-chigal",
+   "termUz": "venoz chigal",
+   "original": null,
+   "contextUz": "Teri ostida ko'p tomirlar, ayniqsa teri kapillyarlaridan qon oladigan uzluksiz venoz chigal bor.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-arteriovenoz-anastomozlar",
+   "termUz": "arteriovenoz anastomozlar",
+   "original": null,
+   "contextUz": "Eng ochiq joylarda (qo'l, oyoq panjalari, quloqlar) chigalga mayda arteriyalardan qalin mushakli arteriovenoz anastomozlar orqali ham qon keladi (74-2-rasm).",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-simpatik-nerv-tizimi",
+   "termUz": "simpatik nerv tizimi",
+   "original": null,
+   "contextUz": "Arteriolalar va arteriovenoz anastomozlar torayishi deyarli butunlay simpatik nerv tizimi orqali yadro va muhit haroratiga javoban boshqariladi.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-nurlanish-60",
+   "termUz": "Nurlanish (~60%)",
+   "original": null,
+   "contextUz": "Nurlanish (~60%): asosan 5–20 µm to'lqin uzunlikdagi infraqizil nurlar (yorug'likdan 10–30 baravar uzun).",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-narsalarga-otkazish-3",
+   "termUz": "Narsalarga o'tkazish (~3%)",
+   "original": null,
+   "contextUz": "Narsalarga o'tkazish (~3%): stul, karavot kabi qattiq jismlarga.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-havoga-otkazish-15",
+   "termUz": "Havoga o'tkazish (~15%)",
+   "original": null,
+   "contextUz": "Havoga o'tkazish (~15%): issiqlik — molekulalar harakatining kinetik energiyasi; havo teridan sovuq bo'lsa unga o'tadi.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-konveksiya",
+   "termUz": "konveksiya",
+   "original": null,
+   "contextUz": "Teri yonidagi havo teri haroratiga tenglashsa yo'qotish to'xtaydi, shuning uchun isigan havo ketib, yangisi kelishi — konveksiya — kerak.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-shamol",
+   "termUz": "Shamol",
+   "original": null,
+   "contextUz": "Shamol: teri yonidagi havo tez almashadi.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-suvda",
+   "termUz": "Suvda",
+   "original": null,
+   "contextUz": "Suvda: suvning solishtirma issiqlik sig'imi havodan bir necha ming baravar katta va o'tkazuvchanligi ancha yuqori; teri yonida izolyatsiyalovchi qatlam hosil bo'lmaydi.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-buglanish-22",
+   "termUz": "Bug'lanish (~22%)",
+   "original": null,
+   "contextUz": "Bug'lanish (~22%): har gramm suv bug'langanda 0,58 Kal yo'qotiladi.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-yuqori-haroratda-buglanish-yagona-yol",
+   "termUz": "Yuqori haroratda bug'lanish yagona yo'l",
+   "original": null,
+   "contextUz": "Yuqori haroratda bug'lanish yagona yo'l: muhit teridan issiq bo'lsa, tana nurlanish va o'tkazish orqali issiqlik *oladi*; faqat bug'lanish yordam beradi.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-kiyim",
+   "termUz": "Kiyim",
+   "original": null,
+   "contextUz": "Kiyim: to'qima orasida havo ushlab, teri yonidagi \"shaxsiy\" havo qatlamini qalinlashtiradi va konveksiyani kamaytiradi.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-xolinergik",
+   "termUz": "xolinergik",
+   "original": null,
+   "contextUz": "Ter bezlari xolinergik tolalar bilan innervatsiyalanadi (simpatik nervlar tarkibida, atsetilxolin ajratadi; 61-bob).",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-tuzilishi-74-5-rasm",
+   "termUz": "Tuzilishi (74-5-rasm)",
+   "original": null,
+   "contextUz": "Tuzilishi (74-5-rasm): (1) chuqur, teri ostidagi o'ralgan sekretor qism; (2) derma va epidermis orqali chiqadigan yo'l qismi.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-birlamchi-prekursor-sekret",
+   "termUz": "Birlamchi (prekursor) sekret",
+   "original": null,
+   "contextUz": "Birlamchi (prekursor) sekret: o'ralgan qism epiteliysining faol mahsuloti; xolinergik simpatik tolalar qo'zg'atadi.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-yolda-ozgarishi",
+   "termUz": "Yo'lda o'zgarishi",
+   "original": null,
+   "contextUz": "Yo'lda o'zgarishi: Na+ va Cl− ning ko'pi qayta so'riladi; darajasi terlash tezligiga bog'liq.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-issiqqa-moslashish-va-aldosteron",
+   "termUz": "Issiqqa moslashish va aldosteron",
+   "original": null,
+   "contextUz": "Issiqqa moslashish va aldosteron: moslashmagan odam soatiga kamdan-kam 1 l dan ko'p terlaydi; 1–6 hafta issiqda bo'lgach maksimal terlash 2–3 l/soat gacha oshadi — bazal issiqlik hosil bo'lishidan 10 baravardan ko'p issiqlikni chiqaradi.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-oldingi-gipotalamus-preoptik-soha-termostatik-sezgich",
+   "termUz": "Oldingi gipotalamus-preoptik soha — termostatik sezgich",
+   "original": null,
+   "contextUz": "Oldingi gipotalamus-preoptik soha — termostatik sezgich: ko'p issiqqa sezgir neyronlar va ularning ~1/3 qismicha sovuqqa sezgir neyronlar.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-trp-transient-receptor-potential",
+   "termUz": "TRP (transient receptor potential)",
+   "original": null,
+   "contextUz": "Molekulyar mexanizmi to'liq aniq emas; somatosensor neyronlar va epidermis hujayralaridagi TRP (transient receptor potential) kation kanallari keng harorat oralig'ini sezishda vositachi bo'lishi mumkin.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-chuqur-retseptorlar",
+   "termUz": "Chuqur retseptorlar",
+   "original": null,
+   "contextUz": "Chuqur retseptorlar: asosan orqa miya, qorin a'zolari va qorin hamda ko'krak yuqori qismidagi yirik venalar atrofida; yadro haroratini sezadi, lekin ular ham asosan sovuqni aniqlaydi.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-gipotermiyaning",
+   "termUz": "gipotermiyaning",
+   "original": null,
+   "contextUz": "Ikkalasi ham asosan gipotermiyaning oldini olishga qaratilgan.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-orqa-gipotalamus",
+   "termUz": "Orqa gipotalamus",
+   "original": "ikki tomonlama, so'rg'ichsimon tanalar darajasida",
+   "contextUz": "Orqa gipotalamus (ikki tomonlama, so'rg'ichsimon tanalar darajasida) periferik va preoptik signallarni birlashtirib, issiqlik hosil qiluvchi va saqlovchi reaksiyalarni boshqaradi.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-teri-tomirlari-kengayishi",
+   "termUz": "Teri tomirlari kengayishi",
+   "original": null,
+   "contextUz": "Teri tomirlari kengayishi: orqa gipotalamusdagi vazokonstriktor simpatik markazlar tormozlanadi; teriga issiqlik o'tishi 8 baravargacha oshadi.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-terlash",
+   "termUz": "Terlash",
+   "original": null,
+   "contextUz": "Terlash: yadro harorati 37,1°C (98,8°F) kritik darajadan oshganda bug'lanish bilan issiqlik yo'qotish keskin oshadi; yana 1°C oshish bazal issiqlik hosil bo'lishidan 10 baravar ko'p issiqlikni chiqaradigan terlash beradi (74-7-rasm).",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-issiqlik-hosil-bolishining-kamayishi",
+   "termUz": "Issiqlik hosil bo'lishining kamayishi",
+   "original": null,
+   "contextUz": "Issiqlik hosil bo'lishining kamayishi: titrash va kimyoviy termogenez kuchli tormozlanadi.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-butun-teri-vazokonstriksiyasi",
+   "termUz": "Butun teri vazokonstriksiyasi",
+   "original": null,
+   "contextUz": "Butun teri vazokonstriksiyasi: orqa gipotalamus simpatik markazlari qo'zg'aladi.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-piloereksiya",
+   "termUz": "Piloereksiya",
+   "original": null,
+   "contextUz": "Piloereksiya: simpatik qo'zg'alish soch follikulalaridagi arrector pili mushaklarini qisqartiradi (\"g'oz terisi\").",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-termogenezni-oshirish",
+   "termUz": "Termogenezni oshirish",
+   "original": null,
+   "contextUz": "Termogenezni oshirish: titrash, simpatik qo'zg'alish va tiroksin sekretsiyasi orqali.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-titrash",
+   "termUz": "Titrash",
+   "original": null,
+   "contextUz": "Titrash: orqa gipotalamusning dorsomedial qismida, uchinchi qorincha devori yaqinida titrashning birlamchi harakat markazi bor.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-titrashning-birlamchi-harakat-markazi",
+   "termUz": "titrashning birlamchi harakat markazi",
+   "original": null,
+   "contextUz": "Titrash: orqa gipotalamusning dorsomedial qismida, uchinchi qorincha devori yaqinida titrashning birlamchi harakat markazi bor.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-simpatik-kimyoviy-termogenez-titramasdan-termogenez",
+   "termUz": "Simpatik \"kimyoviy\" termogenez (titramasdan termogenez)",
+   "original": null,
+   "contextUz": "Simpatik \"kimyoviy\" termogenez (titramasdan termogenez): simpatik qo'zg'alish yoki qondagi noradrenalin/adrenalin hujayra metabolizmini tez oshiradi, qisman oksidlovchi fosforlanishni ajratib (ATF siz issiqlik).",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-qongir-yog",
+   "termUz": "qo'ng'ir yog'",
+   "original": null,
+   "contextUz": "Darajasi to'qimadagi qo'ng'ir yog' miqdoriga deyarli to'g'ri mutanosib.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-ajratuvchi-oqsil-1-ucp1-termogenin",
+   "termUz": "ajratuvchi oqsil 1 (UCP1, termogenin)",
+   "original": null,
+   "contextUz": "Qo'ng'ir yog' simpatik nervlarga boy; noradrenalin mitoxondriyadagi ajratuvchi oqsil 1 (UCP1, termogenin) ekspressiyasini oshiradi.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-tiroksin-uzoq-muddatli-mexanizm",
+   "termUz": "Tiroksin — uzoq muddatli mexanizm",
+   "original": null,
+   "contextUz": "Tiroksin — uzoq muddatli mexanizm: oldingi gipotalamus-preoptik soha sovusa, gipotalamus tireotropin-rilizing gormon ishlab chiqaradi → portal venalar orqali oldingi gipofiz → TTG → qalqonsimon bezdan tiroksin (77-bob).",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-tireotropin-rilizing-gormon",
+   "termUz": "tireotropin-rilizing gormon",
+   "original": null,
+   "contextUz": "Tiroksin — uzoq muddatli mexanizm: oldingi gipotalamus-preoptik soha sovusa, gipotalamus tireotropin-rilizing gormon ishlab chiqaradi → portal venalar orqali oldingi gipofiz → TTG → qalqonsimon bezdan tiroksin (77-bob).",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-ttg",
+   "termUz": "TTG",
+   "original": null,
+   "contextUz": "Tiroksin — uzoq muddatli mexanizm: oldingi gipotalamus-preoptik soha sovusa, gipotalamus tireotropin-rilizing gormon ishlab chiqaradi → portal venalar orqali oldingi gipofiz → TTG → qalqonsimon bezdan tiroksin (77-bob).",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-teskari-aloqa-kuchaytirish-koeffitsiyenti",
+   "termUz": "Teskari aloqa kuchaytirish koeffitsiyenti",
+   "original": "muhit harorati o'zgarishi / yadro harorati o'zgarishi",
+   "contextUz": "Teskari aloqa kuchaytirish koeffitsiyenti: (muhit harorati o'zgarishi / yadro harorati o'zgarishi) − 1 (1-bob).",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-teri-harorati-belgilangan-nuqtani-biroz-ozgartiradi",
+   "termUz": "Teri harorati belgilangan nuqtani biroz o'zgartiradi",
+   "original": null,
+   "contextUz": "Teri harorati belgilangan nuqtani biroz o'zgartiradi: nuqtani asosan preoptik issiqlik retseptorlari belgilaydi, lekin teri va chuqur to'qimalar signallari uni siljitadi.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-orqa-miya-boyin-qismida-simpatik-chiqishdan-yuqorida-kesilsa",
+   "termUz": "Orqa miya bo'yin qismida simpatik chiqishdan yuqorida kesilsa",
+   "original": null,
+   "contextUz": "Orqa miya bo'yin qismida simpatik chiqishdan yuqorida kesilsa: gipotalamus teri qon oqimi va terlashni boshqara olmaydi; mahalliy reflekslar juda kuchsiz.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-pirogenlar",
+   "termUz": "Pirogenlar",
+   "original": null,
+   "contextUz": "Pirogenlar: ko'p oqsillar, ularning parchalanish mahsulotlari va boshqa moddalar, ayniqsa bakteriya membranasidan ajraladigan lipopolisaxarid toksinlar, gipotalamus termostatining belgilangan nuqtasini ko'taradi.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-lipopolisaxarid-toksinlar",
+   "termUz": "lipopolisaxarid toksinlar",
+   "original": null,
+   "contextUz": "Pirogenlar: ko'p oqsillar, ularning parchalanish mahsulotlari va boshqa moddalar, ayniqsa bakteriya membranasidan ajraladigan lipopolisaxarid toksinlar, gipotalamus termostatining belgilangan nuqtasini ko'taradi.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-sitokinlarning-roli",
+   "termUz": "Sitokinlarning roli",
+   "original": null,
+   "contextUz": "Sitokinlarning roli: ba'zi pirogenlar gipotalamusga bevosita va darhol ta'sir qiladi; boshqalari (ko'p bakterial pirogenlar, ayniqsa gramm-manfiy bakteriyalar endotoksinlari) bilvosita, bir necha soatlik yashirin davr bilan.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-interleykin-1-il-1",
+   "termUz": "interleykin-1 (IL-1)",
+   "original": null,
+   "contextUz": "Eng muhimi — interleykin-1 (IL-1), leykotsitar yoki endogen pirogen: gipotalamusga yetib, ba'zan 8–10 daqiqada haroratni sezilarli oshiradi.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-prostaglandinlar-asosan-pge2",
+   "termUz": "prostaglandinlar, asosan PGE2",
+   "original": "yoki shunga o'xshash modda",
+   "contextUz": "IL-1 avval prostaglandinlar, asosan PGE2 (yoki shunga o'xshash modda) hosil bo'lishini qo'zg'atadi, u gipotalamusda isitma reaksiyasini chaqiradi.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-aspirin",
+   "termUz": "Aspirin",
+   "original": null,
+   "contextUz": "Aspirin araxidon kislotadan prostaglandin hosil bo'lishini to'sib, haroratni tushiradi — antipiretiklar.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-antipiretiklar",
+   "termUz": "antipiretiklar",
+   "original": null,
+   "contextUz": "Aspirin araxidon kislotadan prostaglandin hosil bo'lishini to'sib, haroratni tushiradi — antipiretiklar.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-miya-shikastlaridan-isitma",
+   "termUz": "Miya shikastlaridan isitma",
+   "original": null,
+   "contextUz": "Miya shikastlaridan isitma: gipotalamus sohasida operatsiya deyarli doim kuchli isitma beradi (kamdan-kam gipotermiya).",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-qaltirash-chills",
+   "termUz": "Qaltirash (chills)",
+   "original": null,
+   "contextUz": "Qaltirash (chills): belgilangan nuqta to'satdan ko'tarilsa (to'qima parchalanishi, pirogenlar, suvsizlanish), harorat unga bir necha soatda yetadi.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-krizis-flush",
+   "termUz": "Krizis (\"flush\")",
+   "original": null,
+   "contextUz": "Krizis (\"flush\"): sabab bartaraf etilsa nuqta tushadi (balki normaga); harorat hali 39,4°C, lekin gipotalamus 37°C ni ushlashga harakat qiladi — kuchli terlash va hamma joyda vazodilatatsiyadan teri to'satdan issiq bo'ladi.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-davolash",
+   "termUz": "Davolash",
+   "original": null,
+   "contextUz": "Davolash: ba'zilar darhol sovuq suv vannasini tavsiya qiladi (nazoratsiz titrash issiqlikni oshirishi mumkin, ba'zan mushak relaksanti beriladi).",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-zararli-tasirlar",
+   "termUz": "Zararli ta'sirlar",
+   "original": null,
+   "contextUz": "Zararli ta'sirlar: giperpireksiyadan o'lganlarda butun tanada, ayniqsa miyada mahalliy qon quyilishlar va hujayralarning parenximatoz degeneratsiyasi.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-issiqqa-moslashish",
+   "termUz": "Issiqqa moslashish",
+   "original": null,
+   "contextUz": "Issiqqa moslashish: tropikadagi askarlar, Janubiy Afrikaning ~3 km chuqurlikdagi oltin konlari ishchilari (harorat tana haroratiga, namlik 100% ga yaqin).",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-past-haroratda-boshqaruvning-yoqolishi",
+   "termUz": "Past haroratda boshqaruvning yo'qolishi",
+   "original": null,
+   "contextUz": "Past haroratda boshqaruvning yo'qolishi: ~29,4°C (85°F) dan pastda gipotalamus haroratni boshqara olmaydi; ~34,4°C (94°F) dan pastda ham ancha buziladi.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-sovuq-urishi-frostbite",
+   "termUz": "Sovuq urishi (frostbite)",
+   "original": null,
+   "contextUz": "Sovuq urishi (frostbite): ayniqsa quloq yumshoqlari va qo'l-oyoq barmoqlari muzlaydi.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-sovuqdan-vazodilatatsiya",
+   "termUz": "Sovuqdan vazodilatatsiya",
+   "original": null,
+   "contextUz": "Sovuqdan vazodilatatsiya: to'qima muzlashga yaqin sovusa, tomir devori silliq mushagi falajlanib, to'satdan kengayadi (teri qizaradi) — iliq qon keltirib sovuq urishining oldini oladi.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch74-t-suniy-gipotermiya",
+   "termUz": "Sun'iy gipotermiya",
+   "original": null,
+   "contextUz": "Sun'iy gipotermiya: kuchli sedativ bilan gipotalamus reaktivligi susaytirilib, muz yoki sovutuvchi ko'rpalar bilan sovutiladi; doimiy salqin suv yoki spirt sepib, bir necha kundan bir haftagacha 32,2°C (90°F) dan past ushlash mumkin.",
+   "lessonId": "ch74",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  }
+ ],
+ "bookDefinitions": [
+  {
+   "pdfPage": 854,
+   "printedPage": "849",
+   "text": "In Chapter 73, which summarizes body energetics, we discuss the different factors that determine the rate of heat production, called the metabolic rate of the body"
+  },
+  {
+   "pdfPage": 857,
+   "printedPage": "852",
+   "text": "As is true of so many other glands, the secretory portion of the sweat gland secretes a fluid called the primary secretion or precursor secretion; the concentrations of constituents in the fluid are then modified as the fluid flows through the duct. 904 Epidermis Pore Duct Absorption, mainly sodium and chloride ions Dermis private zone of air adjacent to the skin and decreasing the flow of convection air currents"
+  },
+  {
+   "pdfPage": 860,
+   "printedPage": "855",
+   "text": "Located in the dorsomedial portion of the posterior hypothalamus near the wall of the third ventricle is an area called the primary motor center for shivering"
+  },
+  {
+   "pdfPage": 860,
+   "printedPage": "855",
+   "text": "This effect is called chemical thermogenesis, or nonshivering thermogenesis"
+  },
+  {
+   "pdfPage": 861,
+   "printedPage": "856",
+   "text": "This crucial temperature level is called the “set point” of the temperature control mechanism—that is, all the temperature control mechanisms continually attempt to bring the body temperature back to this set point level"
+  },
+  {
+   "pdfPage": 862,
+   "printedPage": "857",
+   "text": "Substances that cause this effect are called pyrogens. 909"
+  },
+  {
+   "pdfPage": 863,
+   "printedPage": "858",
+   "text": "Drugs such as aspirin that reduce fever are called antipyretics. operates in the region of the hypothalamus, severe fever almost always occurs; rarely, the opposite effect, hypothermia, occurs, demonstrating both the potency of the hypothalamic mechanisms for body temperature control and the ease with which abnormalities of the hypothalamus can alter the set point of temperature control"
+  },
+  {
+   "pdfPage": 863,
+   "printedPage": "858",
+   "text": "This sudden change of events in a febrile state is known as the “crisis” or, more appropriately, the “flush.” In the days before the advent of antibiotics, the crisis was always anxiously awaited because once this occurred, the doctor assumed that the patient’s temperature would soon begin falling."
+  }
+ ],
+ "keyNumbers": [
+  {
+   "pdfPage": 854,
+   "printedPage": "849",
+   "text": "The temperature of the deep tissues of the body—the “core” of the body—usually remains very constant, within ±1°F (±0.6°C), except when a person has a febrile illness"
+  },
+  {
+   "pdfPage": 854,
+   "printedPage": "849",
+   "text": "Indeed, a nude person can be exposed to temperatures as low as 55°F or as high as 130°F in dry air and still maintain an almost constant core temperature"
+  },
+  {
+   "pdfPage": 854,
+   "printedPage": "849",
+   "text": "No single core tempera- ture can be considered normal because measurements in many healthy people have shown a range of normal temperatures measured orally, as shown in Figure 74-1, from less than 97°F (36°C) to greater than 99.5°F (37.5°C)"
+  },
+  {
+   "pdfPage": 854,
+   "printedPage": "849",
+   "text": "The average normal core temperature is generally considered to be between 98.0°F and 98.6°F when measured orally and about 1°F higher when measured rectally"
+  },
+  {
+   "pdfPage": 855,
+   "printedPage": "850",
+   "text": "The rate of blood flow into the skin venous plexus can vary tremendously, from barely above zero to as great as 30% of the total cardiac output"
+  },
+  {
+   "pdfPage": 855,
+   "printedPage": "850",
+   "text": "As shown in Figure 74-4, in a nude person sitting inside at normal room temperature, about 60% of total heat loss is by radiation"
+  },
+  {
+   "pdfPage": 856,
+   "printedPage": "851",
+   "text": "As shown in Figure 74-4, only minute quanti- ties of heat, about 3%, are normally lost from the body by direct conduction from the surface of the body to solid objects, such as a chair or a bed"
+  },
+  {
+   "pdfPage": 856,
+   "printedPage": "851",
+   "text": "Loss of heat by conduction to air, however, represents a sizable proportion of the body’s heat loss (≈15%), even under normal conditions"
+  },
+  {
+   "pdfPage": 856,
+   "printedPage": "851",
+   "text": "Therefore, in a nude person seated in a comfortable room without gross air movement, about 15% of his or her total heat loss occurs by conduction to the air and then by air convection away from the body"
+  },
+  {
+   "pdfPage": 856,
+   "printedPage": "851",
+   "text": "When the body is exposed to wind, the layer of air immediately adjacent to the skin is replaced by new air much more rapidly than is normal, Evaporation (22%) Walls Radiation (60%) heat waves Conduction to air (15%) Air currents (convection) Conduction to objects (3%) Figure 74-4"
+  },
+  {
+   "pdfPage": 856,
+   "printedPage": "851",
+   "text": "Even when a person is not sweating, water still evaporates insensibly from the skin and lungs at a rate of about 600 to 700 ml/day"
+  },
+  {
+   "pdfPage": 856,
+   "printedPage": "851",
+   "text": "This insensible evaporation causes continual heat loss at a rate of 16 to 19 Calories per hour"
+  },
+  {
+   "pdfPage": 856,
+   "printedPage": "851",
+   "text": "Clothing entraps air next to the skin in the weave of the cloth, thereby increasing the thickness of the so-called 903 UNIT XIII 20 micrometers, 10 to 30 times the wavelengths of light rays"
+  },
+  {
+   "pdfPage": 857,
+   "printedPage": "852",
+   "text": "The effectiveness of clothing in maintaining body temperature is almost completely lost when the clothing becomes wet because the high conductivity of water increases the rate of heat transmission through cloth 20- fold or more"
+  },
+  {
+   "pdfPage": 857,
+   "printedPage": "852",
+   "text": "The concentration of sodium is about 142 mEq/L, and that of chloride is about 104 mEq/L, with much smaller concentrations of the other solutes of plasma"
+  },
+  {
+   "pdfPage": 857,
+   "printedPage": "852",
+   "text": "In this case, essentially all the sodium and chloride ions are reabsorbed, and the concentration of each falls to as low as 5 mEq/L. This process reduces the osmotic pressure of the sweat fluid to such a low level that most of the water is also reabsorbed, which concentrates most of the other constituents"
+  },
+  {
+   "pdfPage": 858,
+   "printedPage": "853",
+   "text": "Although a normal, unacclimatized person seldom produces more than about 1 liter of sweat per hour, when this person is exposed to hot weather for 1 to 6 weeks, he or she begins to sweat more profusely, often increasing maximum sweat production to as much as 2 to 3 L/hr"
+  },
+  {
+   "pdfPage": 858,
+   "printedPage": "853",
+   "text": "Evaporation of this much sweat can remove heat from the body at a rate more than 10 times the normal basal rate of heat production"
+  },
+  {
+   "pdfPage": 858,
+   "printedPage": "853",
+   "text": "An unacclimatized person who sweats profusely often loses 15 to 30 grams of salt each day for the first few days"
+  },
+  {
+   "pdfPage": 858,
+   "printedPage": "853",
+   "text": "After 4 to 6 weeks of acclimatization, the loss is usually 3 to 5 g/day. passage mucosa as a result of water evaporation from the mucosal surfaces, especially evaporation of saliva from the tongue"
+  },
+  {
+   "pdfPage": 858,
+   "printedPage": "853",
+   "text": "REGULATION OF BODY TEMPERATURE—ROLE OF THE HYPOTHALAMUS Figure 74-6 shows what happens to the body “core” temperature of a nude person after a few hours’ exposure to dry air ranging from 30°F to 160°F. The precise dimensions of this curve depend on the wind movement of the air, the amount of moisture in the air, and even the nature of the surroundings"
+  },
+  {
+   "pdfPage": 858,
+   "printedPage": "853",
+   "text": "In general, a nude person in dry air between 55°F and 130°F is capable of maintaining a normal body core temperature somewhere between 97°F and 100°F. The temperature of the body is regulated almost entirely by nervous feedback mechanisms, and almost all these mechanisms operate through temperature- regulating centers located in the hypothalamus"
+  },
+  {
+   "pdfPage": 858,
+   "printedPage": "853",
+   "text": "The heat-sensitive neurons increase their firing rate 2-to 10-fold in response to a 10°-C increase in body temperature"
+  },
+  {
+   "pdfPage": 858,
+   "printedPage": "853",
+   "text": "Therefore, the other dissolved constituents of sweat are only moderately increased in concentration; urea is about twice that in the plasma, lactic acid about 4 times, and potassium about 1.2 times"
+  },
+  {
+   "pdfPage": 859,
+   "printedPage": "854",
+   "text": "The skin has far more cold receptors than warmth receptors—in fact, 10 times as many in many parts of the skin"
+  },
+  {
+   "pdfPage": 859,
+   "printedPage": "854",
+   "text": "The effect of increased body temperature to cause sweating is demonstrated by the blue curve in Figure 74-7, which shows a sharp increase in the rate of evaporative heat loss resulting from sweating when the body core temperature rises above the critical level of 37.1°C (98.8°F)"
+  },
+  {
+   "pdfPage": 859,
+   "printedPage": "854",
+   "text": "An additional 1°C increase in body temperature causes enough sweating to remove 10 times the basal rate of body heat production. 3.\t\u0007Decrease in heat production"
+  },
+  {
+   "pdfPage": 860,
+   "printedPage": "855",
+   "text": "Acclimatization greatly affects the intensity of chemical thermogenesis; some animals, such as rats, that have been exposed to a cold environment for several weeks exhibit a 100% to 500% increase in heat production when acutely exposed to cold, in contrast to the unacclimatized animal, which responds with an increase of perhaps onethird as much"
+  },
+  {
+   "pdfPage": 860,
+   "printedPage": "855",
+   "text": "In adult human beings, who have almost no brown fat, it is rare for chemical thermogenesis to increase the rate of heat production more than 10% to 15%"
+  },
+  {
+   "pdfPage": 860,
+   "printedPage": "855",
+   "text": "However, in infants, who do have a small amount of brown fat in their interscapular space, chemical thermogenesis can increase the rate of heat production 100%, which is probably an important factor in maintaining normal body temperature in neonates"
+  },
+  {
+   "pdfPage": 861,
+   "printedPage": "856",
+   "text": "UNIT XIII Metabolism and Temperature Regulation “SET POINT” FOR TEMPERATURE CONTROL In the example of Figure 74-7, it is clear that at a critical body core temperature of about 37.1°C (98.8°F), drastic changes occur in the rates of both heat loss and heat production"
+  },
+  {
+   "pdfPage": 861,
+   "printedPage": "856",
+   "text": "At temperatures above this level, the rate of heat loss is greater than that of heat production, so the body temperature falls and approaches the 37.1°C level"
+  },
+  {
+   "pdfPage": 861,
+   "printedPage": "856",
+   "text": "At temperatures below this level, the rate of heat production is greater than that of heat loss, so the body temperature rises and again approaches the 37.1°C level"
+  },
+  {
+   "pdfPage": 861,
+   "printedPage": "856",
+   "text": "Experiments have shown that the body temperature of humans changes about 1°C for each 25°- to 30°C-change in environmental temperature"
+  },
+  {
+   "pdfPage": 861,
+   "printedPage": "856",
+   "text": "Skin Temperature Can Slightly Alter the Set Point for Core Temperature Control The critical temperature set point in the hypothalamus above which sweating begins and below which shivering begins is determined mainly by the degree of activity of the 908 90 Evaporative heat loss (calories/second) Exposure of animals to extreme cold for several weeks can cause their thyroid glands to increase in size 20% to 40%"
+  },
+  {
+   "pdfPage": 861,
+   "printedPage": "856",
+   "text": "Further, the continuous stimulatory effect of cold on the thyroid gland may explain the much higher incidence of toxic thyroid goiters in people who live in cold climates than in those who live in warm climates. 80 33°C to 39°C 70 60 50 Skin temperature Sweating 40 32°C 31°C 30 30°C 20 10 Set point 29°C Insensible evaporation 0 36.0 36.2 36.4 36.6 36.8 37.0 37.2 37.4 Internal head temperature (°C) Figure 74-8"
+  },
+  {
+   "pdfPage": 861,
+   "printedPage": "856",
+   "text": "Thus, for the person represented in this figure, the hypothalamic set point increased from 36.7°C when the skin temperature was higher than 33°C to a set point of 37.4°C when the skin temperature had fallen to 29°C. Therefore, when the skin temperature was high, sweating began at a lower hypothalamic temperature than when the skin temperature was low"
+  },
+  {
+   "pdfPage": 863,
+   "printedPage": "858",
+   "text": "IL-1 is released from macrophages into the body fluids and, upon reaching the hypothalamus, almost immediately activates the processes to produce fever, sometimes increasing the body temperature a noticeable amount in only 8 to 10 minutes"
+  },
+  {
+   "pdfPage": 863,
+   "printedPage": "858",
+   "text": "Figure 74-11 demonstrates the effect of suddenly increasing the temperature set point to a level of 103°F. Because the blood temperature is now less than the set point of the hypothalamic temperature controller, the usual responses that cause elevation of body temperature occur"
+  },
+  {
+   "pdfPage": 863,
+   "printedPage": "858",
+   "text": "Chills can continue until the body temperature reaches the hypothalamic set point of 103°F. Then the person no longer experiences chills but instead feels neither cold nor hot"
+  },
+  {
+   "pdfPage": 863,
+   "printedPage": "858",
+   "text": "In this case, the body temperature is still 103°F, but the hypothalamus is attempting to regulate the temperature to 98.6°F. This situation is analogous to excessive heating of the anterior hypothalamic-preoptic area, which causes intense sweating and the sudden development of hot skin because of vasodilation everywhere"
+  },
+  {
+   "pdfPage": 864,
+   "printedPage": "859",
+   "text": "Chapter 74 Body Temperature Regulation and Fever Heatstroke Exposure of the Body to Extreme Cold Unless treated immediately, a person exposed to ice water for 20 to 30 minutes ordinarily dies because of heart standstill or heart fibrillation"
+  },
+  {
+   "pdfPage": 864,
+   "printedPage": "859",
+   "text": "By that time, the internal body temperature will have fallen to about 77°F. If warmed rapidly by the application of external heat, the person’s life can often be saved"
+  },
+  {
+   "pdfPage": 864,
+   "printedPage": "859",
+   "text": "As noted in Figure 74-10, once the body temperature has fallen below about 85°F, the ability of the hypothalamus to regulate temperature is lost; it is greatly impaired even when the body temperature falls below about 94°F. Part of the reason for this diminished temperature regulation is that the rate of chemical heat production in each cell is depressed almost twofold for each 10°F decrease in body temperature"
+  },
+  {
+   "pdfPage": 864,
+   "printedPage": "859",
+   "text": "The temperature can then be maintained below 90°F for several days to a week or more by continual sprinkling of cool water or alcohol on the body"
+  },
+  {
+   "pdfPage": 864,
+   "printedPage": "859",
+   "text": "Cooling to this extent does not cause tissue damage, but it does slow the heart and greatly depresses cell metabolism so that the body’s cells can survive 30 minutes to more than 1 hour without blood flow during the surgical procedure."
+  }
+ ],
+ "figureIds": [
+  "gh14-fig-74-01",
+  "gh14-fig-74-02",
+  "gh14-fig-74-03",
+  "gh14-fig-74-04",
+  "gh14-fig-74-05",
+  "gh14-fig-74-06",
+  "gh14-fig-74-07",
+  "gh14-fig-74-08",
+  "gh14-fig-74-09",
+  "gh14-fig-74-10",
+  "gh14-fig-74-11"
+ ],
+ "estMinutes": 39,
+ "counts": {
+  "figures": 11,
+  "figuresIncluded": 11,
+  "terms": 56,
+  "words": 7741,
+  "unplacedInSummary": 11
+ },
+ "review": {
+  "reviewedBy": null,
+  "reviewedAt": null
+ },
+ "importedAt": "2026-11-14T13:59:02+00:00"
+}

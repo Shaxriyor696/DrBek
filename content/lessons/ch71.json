@@ -1,0 +1,1466 @@
+{
+ "id": "ch71",
+ "topicId": "13",
+ "order": 4,
+ "titleUz": "Jigar",
+ "titleOriginal": "The Liver",
+ "subtitle": "*The Liver* — XIII bo'lim (Metabolizm va harorat boshqaruvi), PDF 825–830",
+ "contentVersion": "2026-11-14.1",
+ "status": "in_review",
+ "translationStatus": "machine_assisted",
+ "source": {
+  "bookId": "guyton-hall-14",
+  "chapter": 71,
+  "unit": "XIII",
+  "pdfPages": [
+   825,
+   830
+  ],
+  "printedPages": [
+   820,
+   825
+  ],
+  "notesFile": "guyton-notes/ch71-the-liver.md",
+  "summaryFile": "guyton-notes/summaries/ch71.md"
+ },
+ "pdfPages": [
+  825,
+  830
+ ],
+ "printedPages": [
+  820,
+  825
+ ],
+ "outline": [],
+ "objectives": [
+  "Fiziologik anatomiya",
+  "Qon va limfa tizimi",
+  "Jigar massasining boshqaruvi — regeneratsiya",
+  "Makrofag tizimi — qonni tozalash",
+  "Metabolik funksiyalar",
+  "Boshqa metabolik funksiyalar",
+  "Bilirubin — klinik diagnostika vositasi",
+  "Sariqlik (jaundice)"
+ ],
+ "blocks": {
+  "simple": [
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Asosiy g'oya",
+    "id": "ch71-s-0-asosiy-goya",
+    "bid": "ch71-u0"
+   },
+   {
+    "type": "paragraph",
+    "text": "Jigar alohida a'zo bo'lsa ham, o'zaro bog'liq ko'p vazifalarni bajaradi: (1) qonni filtrlash va saqlash; (2) uglevod, oqsil, yog', gormon va begona kimyoviy moddalar almashinuvi; (3) o't hosil qilish; (4) vitamin va temirni saqlash; (5) ivish omillarini hosil qilish. Bu funksiyalarning muhimligi jigar kasalliklarida ayniqsa yaqqol ko'rinadi.",
+    "bid": "ch71-u1"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Fiziologik anatomiya",
+    "id": "ch71-s-2-fiziologik-anatomiya",
+    "bid": "ch71-u2"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Tanadagi eng katta a'zo: tana vaznining ~2% i, kattalarda ~1,5 kg.",
+      "depth": 0
+     },
+     {
+      "text": "Funksional birligi — **jigar bo'lakchasi (lobule)**: uzunligi bir necha mm, diametri 0,8–2 mm silindr; jigarda 50 000–100 000 ta.",
+      "depth": 0
+     },
+     {
+      "text": "Bo'lakcha **markaziy vena** atrofida qurilgan (→ jigar venalari → pastki kovak vena). Jigar hujayra plastinkalari markaziy venadan g'ildirak kegaylari kabi tarqaladi; har bir plastinka odatda ikki hujayra qalinligida.",
+      "depth": 0
+     },
+     {
+      "text": "Qo'shni hujayralar orasida **o't kapillyarlari (kanalchalari)** bo'lib, bo'lakchalar orasidagi fibroz to'siqlardagi o't yo'llariga quyiladi.",
+      "depth": 0
+     },
+     {
+      "text": "To'siqlarda **portal venulalar** (oshqozon-ichak venoz qoni, darvoza vena orqali) bor. Qon ulardan plastinkalar orasidagi yassi, tarmoqlangan **sinusoidlarga**, so'ng markaziy venaga oqadi; shu tufayli jigar hujayralari doimo portal qon bilan yuviladi.",
+      "depth": 0
+     },
+     {
+      "text": "**Jigar arteriolalari** ham to'siqlarda; ular to'siq to'qimasini qon bilan ta'minlaydi va ko'pi bevosita sinusoidlarga, ko'pincha to'siqdan ~1/3 masofada quyiladi.",
+      "depth": 0
+     },
+     {
+      "text": "Sinusoidlarni jigar hujayralaridan tashqari ikki xil hujayra qoplaydi: (1) oddiy endotelial hujayralar; (2) yirik **Kupffer hujayralari** (retikuloendotelial hujayralar) — bakteriya va begona moddalarni fagotsitoz qiladigan rezident makrofaglar.",
+      "depth": 0
+     },
+     {
+      "text": "Sinusoid endoteliysida juda katta teshiklar bor (ba'zilari ~1 µm). Endoteliy va jigar hujayralari orasida tor **Disse bo'shliqlari (perisinusoidal bo'shliqlar)** bor; ular to'siqlardagi limfa tomirlari bilan bog'langan, ortiqcha suyuqlik limfa orqali olinadi. Katta teshiklar tufayli plazma moddalari, hatto plazma oqsillarining ko'p qismi ham bu bo'shliqlarga erkin o'tadi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch71-u3"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Qon va limfa tizimi",
+    "id": "ch71-s-4-qon-va-limfa-tizimi",
+    "bid": "ch71-u4"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Qon oqimi:** darvoza venadan ~1050 ml/min, jigar arteriyasidan ~300 ml/min, jami ~1350 ml/min — tinch holatdagi yurak chiqishining 27%.",
+      "depth": 0
+     },
+     {
+      "text": "Darvoza vena bosimi ~9 mm Hg, jigar venasi ~0 mm Hg. Shuncha katta oqimga atigi 9 mm Hg farq yetarli, demak sinusoidlar qarshiligi juda past.",
+      "depth": 0
+     },
+     {
+      "text": "**Jigar sirrozi:** parenxima hujayralari halok bo'lib, fibroz to'qimaga almashadi; bu to'qima tomirlar atrofida qisqarib, portal qon oqimiga katta qarshilik beradi. Ko'pincha surunkali alkogolizm yoki jigarda yog' to'planishi va yallig'lanish — **alkogolsiz steatogepatit (NASH)** sababli. Yengilroq shakli — **alkogolsiz yog'li jigar kasalligi (NAFLD)** — AQSh kabi sanoatlashgan mamlakatlarda jigar kasalligining eng ko'p sababi, odatda semizlik va 2-tur diabet bilan bog'liq. Sirroz yana uglerod tetraxlorid kabi zaharlar, infeksion gepatit kabi virus kasalliklari, o't yo'llari tiqilishi va infeksiyalaridan keyin ham rivojlanadi.",
+      "depth": 0
+     },
+     {
+      "text": "**Portal tizimning to'satdan tiqilishi** (masalan, darvoza venada yirik tromb): ichak va taloqdan qon qaytishi qiyinlashadi → portal gipertenziya, ichak devori kapillyar bosimi normadan 15–20 mm Hg ga oshadi. Tiqilish bartaraf etilmasa, bemor bir necha soatda ichak bo'shlig'i va devoriga ko'p suyuqlik yo'qotib halok bo'lishi mumkin.",
+      "depth": 0
+     },
+     {
+      "text": "**Qon ombori:** jigar cho'ziluvchan; normal qon hajmi ~450 ml (umumiy qon hajmining ~10%). O'ng bo'lmacha bosimi oshib, jigarga teskari bosim tushsa, qo'shimcha 0,5–1 l qon saqlanishi mumkin (ayniqsa periferik dimlanishli yurak yetishmovchiligida, 22-bob). Qon hajmi ortiqcha bo'lganda saqlaydi, kamayganda qo'shimcha qon beradi.",
+      "depth": 0
+     },
+     {
+      "text": "**Limfa oqimi juda yuqori:** sinusoidlar juda o'tkazuvchan bo'lgani uchun jigar limfasida oqsil ~6 g/dl (plazmadan biroz kam). Tinch holatdagi butun tana limfasining taxminan yarmi jigarda hosil bo'ladi.",
+      "depth": 0
+     },
+     {
+      "text": "**Assit:** jigar venalari bosimi normadan atigi 3–7 mm Hg oshsa, ko'p suyuqlik limfaga va jigar kapsulasi yuzasidan to'g'ridan-to'g'ri qorin bo'shlig'iga sizib chiqadi. Bu deyarli sof plazma (normal plazma oqsilining 80–90%). Kovak vena bosimi 10–15 mm Hg bo'lganda jigar limfa oqimi 20 baravargacha oshadi va jigar yuzasidan \"terlash\" qorin bo'shlig'ida ko'p erkin suyuqlik — assit hosil qiladi. Portal oqim tiqilishi butun oshqozon-ichak portal tizimida kapillyar bosimni oshirib, ichak devori shishi va seroza orqali transudatsiyaga ham olib keladi, bu ham assit beradi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch71-u5"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Jigar massasining boshqaruvi — regeneratsiya",
+    "id": "ch71-s-6-jigar-massasining-boshqaruvi-regeneratsiya",
+    "bid": "ch71-u6"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Jigar qisman gepatektomiya yoki o'tkir shikastlanishdan keyin, agar virus infeksiyasi yoki yallig'lanish bo'lmasa, o'zini ajoyib tarzda tiklaydi. 70% gacha olib tashlansa, qolgan bo'laklar kattalashib, asl hajmini tiklaydi; kalamushlarda bu atigi 5–7 kun oladi.",
+      "depth": 0
+     },
+     {
+      "text": "Regeneratsiyada gepatotsitlar bir-ikki marta bo'linadi, asl hajmga yetgach tinch holatga qaytadi.",
+      "depth": 0
+     },
+     {
+      "text": "**Gepatotsit o'sish omili (HGF)** muhim ko'rinadi; uni gepatotsitlar emas, jigar va boshqa to'qimalardagi mezenximal hujayralar ishlab chiqaradi. Qisman gepatektomiyadan keyin qondagi HGF 20 baravardan ko'p oshadi, lekin mitogen javob odatda faqat jigarda bo'ladi, ya'ni HGF faqat shikastlangan a'zoda faollashsa kerak. Epidermal o'sish omili, o'sma nekroz omili va interleykin-6 ham ishtirok etishi mumkin.",
+      "depth": 0
+     },
+     {
+      "text": "To'xtatish: gepatotsitlar ajratadigan **transformatsiyalovchi o'sish omili-β (TGF-β)** jigar hujayrasi proliferatsiyasining kuchli ingibitori va regeneratsiyaning asosiy to'xtatuvchisi deb taxmin qilinadi.",
+      "depth": 0
+     },
+     {
+      "text": "Jigar o'sishi tana o'lchamiga bog'liq noma'lum signal bilan aniq boshqariladi, optimal jigar/tana vazni nisbati saqlanadi. Fibroz, yallig'lanish yoki virusli jigar kasalliklarida regeneratsiya qattiq buziladi va funksiya yomonlashadi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch71-u7"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Makrofag tizimi — qonni tozalash",
+    "id": "ch71-s-8-makrofag-tizimi-qonni-tozalash",
+    "bid": "ch71-u8"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Ichak kapillyarlaridan o'tgan qon ko'p bakteriya oladi: darvoza vena qoni ekilganda deyarli doim ichak tayoqchalari o'sadi, tizimli qonda esa juda kamdan-kam.",
+      "depth": 0
+     },
+     {
+      "text": "Kupffer hujayrasi bakteriyaga bir lahza tegsa, 0,01 soniyadan kamroq vaqtda bakteriya hujayra ichiga o'tib, hazm bo'lguncha qoladi. Ichakdan portal qonga tushgan bakteriyalarning ehtimol 1% dan kamrog'i jigardan tizimli qonga o'ta oladi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch71-u9"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Metabolik funksiyalar",
+    "id": "ch71-s-10-metabolik-funksiyalar",
+    "bid": "ch71-u10"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Uglevodlar (68-bobdan):**",
+    "bid": "ch71-u11"
+   },
+   {
+    "type": "list",
+    "ordered": true,
+    "items": [
+     {
+      "text": "Ko'p glikogen saqlash.",
+      "depth": 0
+     },
+     {
+      "text": "Galaktoza va fruktozani glyukozaga aylantirish.",
+      "depth": 0
+     },
+     {
+      "text": "Glyukoneogenez.",
+      "depth": 0
+     },
+     {
+      "text": "Uglevod almashinuvi oraliq mahsulotlaridan ko'p birikmalar hosil qilish.",
+      "depth": 0
+     },
+     {
+      "text": "**Glyukoza buferi funksiyasi:** ortiqcha glyukozani glikogen sifatida olib, glyukoza tushganda qonga qaytaradi. Jigar funksiyasi yomon odamda uglevodli ovqatdan keyin glyukoza normaldagidan 2–3 baravar ko'proq ko'tariladi.",
+      "depth": 0
+     },
+     {
+      "text": "Glyukoneogenez faqat glyukoza normadan tushganda sezilarli bo'ladi; aminokislotalar va triglitserid glitserini glyukozaga aylanadi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch71-u12"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Yog'lar (69-bobdan):**",
+    "bid": "ch71-u13"
+   },
+   {
+    "type": "list",
+    "ordered": true,
+    "items": [
+     {
+      "text": "Energiya uchun yog' kislotalarini oksidlash.",
+      "depth": 0
+     },
+     {
+      "text": "Ko'p xolesterin, fosfolipid va ko'pchilik lipoproteinlarni sintezlash.",
+      "depth": 0
+     },
+     {
+      "text": "Oqsil va uglevodlardan yog' sintezlash.",
+      "depth": 0
+     },
+     {
+      "text": "Yog' glitserin va yog' kislotalariga ajraladi; beta-oksidlanish asetil-KoA beradi va u limon kislota siklida oksidlanadi. Beta-oksidlanish barcha hujayralarda bo'ladi, lekin jigarda ayniqsa tez.",
+      "depth": 0
+     },
+     {
+      "text": "Jigar barcha asetil-KoA ni ishlata olmaydi: ikki molekula kondensatsiyalanib **asetoasetat** hosil qiladi; u yaxshi eriydi, boshqa to'qimalarga tashilib, yana asetil-KoA ga aylanadi va oksidlanadi.",
+      "depth": 0
+     },
+     {
+      "text": "Jigarda sintezlangan xolesterinning ~80% i **o't tuzlariga** aylanadi va o'tga ajratiladi; qolgani lipoproteinlar bilan to'qimalarga tashiladi. Fosfolipidlar ham jigarda sintezlanib, lipoproteinlarda tashiladi; ikkalasi ham membranalar va hujayra tuzilmalari uchun kerak.",
+      "depth": 0
+     },
+     {
+      "text": "Uglevod va oqsillardan deyarli barcha yog' sintezi jigarda bo'ladi, so'ng lipoproteinlar bilan yog' to'qimasiga tashiladi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch71-u14"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Oqsillar (70-bobdan):** jigarning bu hissasisiz organizm bir necha kundan ortiq yashay olmaydi.",
+    "bid": "ch71-u15"
+   },
+   {
+    "type": "list",
+    "ordered": true,
+    "items": [
+     {
+      "text": "Aminokislotalarni dezaminlash (energiya yoki uglevod/yog'ga aylantirishdan oldin shart; buyrakda ham oz bo'ladi, lekin kam ahamiyatli).",
+      "depth": 0
+     },
+     {
+      "text": "Ammiakni chiqarish uchun mochevina hosil qilish. Ammiak dezaminlanishda va ichakda bakteriyalar tomonidan ham hosil bo'lib so'riladi. Jigar mochevina hosil qilmasa, plazma ammiaki tez oshadi → jigar komasi va o'lim. Darvoza vena va kovak vena orasida shunt paydo bo'lib, jigar qon oqimi keskin kamaysa ham qonda ammiak haddan oshadi.",
+      "depth": 0
+     },
+     {
+      "text": "Plazma oqsillarini hosil qilish: gamma-globulinlarning bir qismidan tashqari deyarli barchasi, ya'ni plazma oqsillarining ~90% i. Qolgan gamma-globulinlar (antitelolar) asosan limfa to'qimasidagi plazma hujayralarida. Maksimal tezlik 15–50 g/kun, shuning uchun hatto yarmi yo'qolsa ham 1–2 haftada tiklanadi. Plazma oqsillari kamaysa, jigar hujayralari tez bo'linadi, jigar kattalashadi va oqsil chiqarishi ko'payadi. Surunkali kasallikda (sirroz) albumin juda pasayib, umumiy shish va assit beradi (30-bob).",
+      "depth": 0
+     },
+     {
+      "text": "Aminokislotalarning o'zaro aylanishi va ulardan boshqa birikmalar sintezi. Barcha almashinadigan aminokislotalar jigarda sintezlanadi: kerakli keto kislota hosil qilinib, unga transaminlanish orqali amino guruh beriladi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch71-u16"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Boshqa metabolik funksiyalar",
+    "id": "ch71-s-17-boshqa-metabolik-funksiyalar",
+    "bid": "ch71-u17"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Vitaminlar ombori:** eng ko'p A vitamini (10 oygacha yetishmovchilikni oldini oladi), shuningdek D (3–4 oy) va B12 (kamida 1 yil, balki bir necha yil).",
+      "depth": 0
+     },
+     {
+      "text": "**Temir ferritin shaklida:** gemoglobindagidan tashqari tanadagi temirning eng katta qismi jigarda ferritin sifatida saqlanadi. Gepatotsitlarda ko'p **apoferritin** bor, u temir bilan qaytar birikadi. Temir ortiqcha bo'lsa ferritin hosil bo'ladi, kamaysa temir chiqariladi. Apoferritin-ferritin tizimi qon temiri buferi va ombori (33-bob).",
+      "depth": 0
+     },
+     {
+      "text": "**Ivish omillari:** fibrinogen, protrombin, akselerator globulin, VII omil va boshqalar. Ularning bir nechtasi, ayniqsa protrombin hamda VII, IX, X omillar uchun **K vitamini** kerak; u bo'lmasa bu moddalar keskin kamayib, ivish deyarli to'xtaydi.",
+      "depth": 0
+     },
+     {
+      "text": "**Dori, gormon va boshqa moddalarni chiqarish:** sulfanilamidlar, penitsillin, ampitsillin, eritromitsin kabi dorilarni zararsizlantiradi yoki o'tga chiqaradi. Tiroksin va deyarli barcha steroid gormonlar (estrogen, kortizol, aldosteron) jigarda o'zgartiriladi yoki chiqariladi; jigar shikastlansa bu gormonlar to'planib, gormonal tizimlar haddan faollashishi mumkin.",
+      "depth": 0
+     },
+     {
+      "text": "Kalsiyni chiqarishning asosiy yo'llaridan biri — jigar orqali o'tga, so'ng najas bilan.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch71-u18"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Bilirubin — klinik diagnostika vositasi",
+    "id": "ch71-s-19-bilirubin-klinik-diagnostika-vositasi",
+    "bid": "ch71-u19"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "O't hosil bo'lishi va o't tuzlarining hazmdagi roli 65–66-boblarda. O't bilan ko'p moddalar chiqariladi, shulardan biri yashil-sariq pigment **bilirubin** — gemoglobin parchalanishining asosiy oxirgi mahsuloti.",
+      "depth": 0
+     },
+     {
+      "text": "**Hosil bo'lishi (71-2-rasm):** eritrotsitlar (~120 kun) mo'rt bo'lib yoriladi, gemoglobinni to'qima makrofaglari (retikuloendotelial tizim) fagotsitoz qiladi. Gemoglobin globin va gemga ajraladi; gem halqasi ochilib (gem oksigenaza), (1) erkin temir (transferrin bilan tashiladi) va (2) to'rtta pirrol yadrosidan iborat to'g'ri zanjir hosil bo'ladi. Avval **biliverdin**, u tez **erkin (konyugatsiyalanmagan) bilirubinga** qaytariladi va plazmaga chiqadi.",
+      "depth": 0
+     },
+     {
+      "text": "Konyugatsiyalanmagan bilirubin darhol plazma albumini bilan mahkam bog'lanib tashiladi. Bir necha soatda jigar hujayrasiga so'riladi, albumindan ajraladi va konyugatsiyalanadi: ~80% glyukuron kislota bilan (**bilirubin glyukuronid**), ~10% sulfat bilan, ~10% boshqa moddalar bilan. So'ng faol transport bilan o't kapillyarlariga, keyin ichakka chiqariladi.",
+      "depth": 0
+     },
+     {
+      "text": "**Urobilinogen:** ichakda konyugatsiyalangan bilirubinning ~yarmi bakteriyalar ta'sirida yaxshi eriydigan urobilinogenga aylanadi. Bir qismi qonga qayta so'riladi; ko'pi jigar orqali yana ichakka chiqariladi, ~5% buyrak orqali siydikka o'tadi. Siydikda havoda **urobilinga**, najasda **sterkobilinga** oksidlanadi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch71-u20"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Sariqlik (jaundice)",
+    "id": "ch71-s-21-sariqlik-jaundice",
+    "bid": "ch71-u21"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "To'qimalar, teri va chuqur to'qimalarning sarg'ayishi; odatda hujayradan tashqari suyuqlikda konyugatsiyalanmagan yoki konyugatsiyalangan bilirubin ko'pligidan.",
+      "depth": 0
+     },
+     {
+      "text": "Normal plazma bilirubini ~0,5 mg/dl (deyarli hammasi konyugatsiyalanmagan). Patologiyada 40 mg/dl gacha ko'tarilishi mumkin. Teri odatda ~3 baravar oshganda (>1,5 mg/dl) sarg'aya boshlaydi.",
+      "depth": 0
+     },
+     {
+      "text": "Ikki asosiy sabab: (1) eritrotsitlar ko'p parchalanishi — **gemolitik sariqlik**; (2) o't yo'llari tiqilishi yoki jigar hujayralari shikastlanishi — **obstruktiv sariqlik**.",
+      "depth": 0
+     },
+     {
+      "text": "**Gemolitik sariqlik:** jigar chiqarish funksiyasi buzilmagan, lekin bilirubin hosil bo'lish tezligiga yetisha olmaydi → plazmada erkin bilirubin oshadi. Ichakda urobilinogen hosil bo'lishi ham keskin oshadi, ko'pi so'rilib, siydik bilan chiqadi.",
+      "depth": 0
+     },
+     {
+      "text": "**Obstruktiv sariqlik:** umumiy o't yo'lini tosh yoki saraton bekitganda yoki gepatitda jigar hujayralari shikastlanganda. Bilirubin hosil bo'lishi normal, konyugatsiya ham odatdagidek, lekin u ichakka o'ta olmaydi; konyugatsiyalangan bilirubin, ehtimol dimlangan o't kanalchalari yorilib, o't to'g'ridan-to'g'ri jigar limfasiga quyilishi orqali qonga qaytadi. Shuning uchun plazmadagi bilirubinning ko'pi konyugatsiyalangan bo'ladi.",
+      "depth": 0
+     },
+     {
+      "text": "**Farqlash:** laborator testlar (**van den Bergh reaksiyasi**): gemolitikda deyarli hammasi konyugatsiyalanmagan, obstruktivda asosan konyugatsiyalangan.",
+      "depth": 0
+     },
+     {
+      "text": "To'liq obstruksiyada bilirubin ichakka yetmaydi → urobilinogen hosil bo'lmaydi → siydikda urobilinogen testi to'liq manfiy; najas sterkobilin yo'qligidan **loy rangida** bo'ladi.",
+      "depth": 1
+     },
+     {
+      "text": "Buyrak yaxshi eriydigan konyugatsiyalangan bilirubinni oz miqdorda chiqara oladi, albuminga bog'langan konyugatsiyalanmaganini esa yo'q. Og'ir obstruktiv sariqlikda siydikda konyugatsiyalangan bilirubin paydo bo'ladi: siydik chayqatilsa ko'pigi to'q sariq bo'ladi.",
+      "depth": 1
+     },
+     {
+      "text": "Bu fiziologiyani bilish va bir necha oddiy test bilan gemolitik va jigar kasalliklarining turlarini hamda og'irligini ko'pincha farqlash mumkin.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch71-u22"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Klinik nuqtalar",
+    "id": "ch71-s-23-klinik-nuqtalar",
+    "bid": "ch71-u23"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Sirroz (alkogol, NASH, toksinlar, gepatit, o't yo'li tiqilishi) → portal gipertenziya, assit, gipoalbuminemiya, shish.",
+      "depth": 0
+     },
+     {
+      "text": "O'tkir portal vena trombozi bir necha soatda o'limga olib kelishi mumkin.",
+      "depth": 0
+     },
+     {
+      "text": "Yurak yetishmovchiligida jigar dimlanishi (0,5–1 l qon).",
+      "depth": 0
+     },
+     {
+      "text": "Jigar yetishmovchiligi yoki porto-kaval shunt → giperammoniyemiya, jigar komasi.",
+      "depth": 0
+     },
+     {
+      "text": "K vitamini yetishmovchiligi yoki jigar kasalligi → ivish buzilishi.",
+      "depth": 0
+     },
+     {
+      "text": "Jigar shikastlanishida steroid gormonlar to'planishi.",
+      "depth": 0
+     },
+     {
+      "text": "Gemolitik va obstruktiv sariqlikni bilirubin turi, siydikdagi urobilinogen va najas rangi bilan farqlash.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch71-u24"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Bog'liqlik",
+    "id": "ch71-s-25-bogliqlik",
+    "bid": "ch71-u25"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "15-bob (portal qon aylanishi), 22-bob (yurak yetishmovchiligi), 25 va 30-boblar (shish, assit), 33-bob (eritrotsit, temir, bilirubin), 37-bob (ivish), 65–66-boblar (o'tning hazmdagi roli), 68–70-boblar (almashinuvlar), 72-bob (vitaminlar).",
+      "depth": 0
+     }
+    ],
+    "bid": "ch71-u26"
+   }
+  ],
+  "full": [
+   {
+    "type": "paragraph",
+    "text": "Although the liver is a discrete organ, it performs many different interrelating functions. The critical interrelated functions of the liver become especially evident when abnormalities of the liver occur. This chapter summarizes some of the major functions of the liver, including the fol lowing: (1) filtration and storage of blood; (2) metabolism of carbohydrates, proteins, fats, hormones, and foreign chemicals; (3) formation of bile; (4) storage of vitamins and iron; and (5) formation of coagulation factors.",
+    "pdfPage": 825,
+    "bid": "ch71-f0"
+   },
+   {
+    "type": "paragraph",
+    "text": "The liver is the largest organ in the body, contributing about 2% of the total body weight, or about 1.5 kilograms (3.3 pounds) in the average adult human. The basic functional unit of the liver is the _liver lobule_, which is a cylindric struc ture several millimeters in length and 0.8 to 2 millimeters in diameter. The human liver contains 50,000 to 100,000 individual lobules.",
+    "pdfPage": 825,
+    "boxed": true,
+    "bid": "ch71-f1"
+   },
+   {
+    "type": "paragraph",
+    "text": "The liver lobule, shown in cut-away format in **Figure 71-1**, is constructed around a _central vein_ that empties into the hepatic veins and then into the vena cava. The lobule is composed principally of many liver _cellular plates_ (two of which are shown in **Figure 71-1**) that radiate from the cen tral vein like spokes in a wheel. Each hepatic plate is usu ally two cells thick, and between the adjacent cells lie small _bile canaliculi_ that empty into _bile ducts_ in the fibrous septa separating the adjacent liver lobules.",
+    "pdfPage": 825,
+    "boxed": true,
+    "bid": "ch71-f2"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-71-01",
+    "bid": "ch71-f3"
+   },
+   {
+    "type": "paragraph",
+    "text": "In the septa are small _portal venules_ that receive their blood mainly from the venous outflow of the gastrointesti nal tract via the portal vein. From these venules blood flows into flat, branching _hepatic sinusoids_ that lie between the hepatic plates and then into the central vein. Thus, the he patic cells are exposed continuously to portal venous blood.",
+    "pdfPage": 825,
+    "boxed": true,
+    "bid": "ch71-f4"
+   },
+   {
+    "type": "paragraph",
+    "text": "_Hepatic arterioles_ are also present in the interlobular septa. These arterioles supply arterial blood to the septal tissues between the adjacent lobules, and many of the small arterioles also empty directly into the hepatic sinusoids, most frequently emptying into those located about one third the distance from the interlobular septa, as shown in **Figure 71-1.**",
+    "pdfPage": 825,
+    "boxed": true,
+    "bid": "ch71-f5"
+   },
+   {
+    "type": "paragraph",
+    "text": "In addition to the hepatic cells, the venous sinusoids are lined by two other cell types: (1) typical _endothelial cells_ and (2) large _Kupffer cells_ (also called _reticuloendothelial cells_), which are resident macrophages that line the sinu soids and are capable of phagocytizing bacteria and other foreign matter in the hepatic sinus blood.",
+    "pdfPage": 825,
+    "boxed": true,
+    "bid": "ch71-f6"
+   },
+   {
+    "type": "paragraph",
+    "text": "The endothelial lining of the sinusoids has extremely large pores, some of which are almost 1 micrometer in di ameter. Beneath this lining, lying between the endothelial cells and the hepatic cells, are narrow tissue spaces called the _spaces of Disse_, also known as the _perisinusoidal spaces_. The millions of spaces of Disse connect with lymphatic vessels in the interlobular septa. Therefore, excess fluid in these spaces is removed through the lymphatics. Because of the large pores in the endothelium, substances in the plasma move freely into the spaces of Disse. Even large por tions of the plasma proteins diffuse freely into these spaces.",
+    "pdfPage": 825,
+    "boxed": true,
+    "bid": "ch71-f7"
+   },
+   {
+    "type": "paragraph",
+    "text": "The function of the hepatic vascular system is discussed in Chapter 15 in connection with the portal veins and can be summarized as follows.",
+    "pdfPage": 825,
+    "boxed": true,
+    "bid": "ch71-f8"
+   },
+   {
+    "type": "paragraph",
+    "text": "About 1050 ml/min of blood flow from the por tal vein into the liver sinusoids, and an additional 300 ml/ min flow into the sinusoids from the hepatic artery, with the total averaging about 1350 ml/min, which is 27% of the resting cardiac output.",
+    "pdfPage": 825,
+    "lead": "The Liver Has High Blood Flow and Low Vascular Resistance.",
+    "boxed": true,
+    "bid": "ch71-f9"
+   },
+   {
+    "type": "paragraph",
+    "text": "The pressure in the portal vein leading into the liver averages about 9 mm Hg, and the pressure in the hepatic vein leading from the liver into the vena cava normally av erages about 0 mm Hg. This small pressure difference, only 9 mm Hg, shows that the resistance to blood flow through the hepatic sinusoids is normally very low, especially when one considers that about 1350 ml/min of blood flow by this route.",
+    "pdfPage": 825,
+    "boxed": true,
+    "bid": "ch71-f10"
+   },
+   {
+    "type": "paragraph",
+    "text": "When liver parenchymal cells are destroyed, they are replaced with fibrous tissue that eventually con tracts around the blood vessels, thereby greatly impeding the flow of portal blood through the liver. This disease process is known as _cirrhosis of the liver_. It results most commonly from chronic alcoholism or from excess fat ac cumulation in the liver and subsequent liver inflammation, a condition called _nonalcoholic steatohepatitis,_ or NASH. A less severe form of fat accumulation and inflammation of the liver, _nonalcoholic fatty liver disease_ (NAFLD), is the most common cause of liver disease in many industrialized countries, including the United States, and is usually asso ciated with obesity and type 2 diabetes.",
+    "pdfPage": 825,
+    "lead": "Cirrhosis of the Liver Greatly Increases Resistance to Blood Flow.",
+    "boxed": true,
+    "bid": "ch71-f11"
+   },
+   {
+    "type": "paragraph",
+    "text": "Cirrhosis can also follow ingestion of poisons such as carbon tetrachloride, viral diseases such as infectious hepa titis, obstruction of the bile ducts, and infectious processes in the bile ducts.",
+    "pdfPage": 826,
+    "boxed": true,
+    "bid": "ch71-f12"
+   },
+   {
+    "type": "paragraph",
+    "text": "The portal system is also occasionally blocked by a large clot that develops in the portal vein or its major branches. When the portal system is suddenly blocked, the return of blood from the intestines and spleen through the liver por tal blood flow system to the systemic circulation is imped ed. This impedance results in _portal hypertension,_ with the capillary pressure in the intestinal wall increasing to 15 to 20 mm Hg above normal. If the obstruction is not relieved, the patient may die within a few hours because of excessive loss of fluid from the capillaries into the lumens and walls of the intestines.",
+    "pdfPage": 826,
+    "boxed": true,
+    "bid": "ch71-f13"
+   },
+   {
+    "type": "paragraph",
+    "text": "Because the liver is an expandable organ, large quantities of blood can be stored in its blood vessels. Its normal blood volume, including that in the hepatic veins and hepatic sinuses, is about 450 ml, or almost 10% of the body’s total blood vol ume. When high pressure in the right atrium causes back pressure in the liver, the liver expands, and 0.5 to 1 liter of extra blood is occasionally stored in the hepatic veins and sinuses. This storage of extra blood occurs especially in cases of cardiac failure with peripheral congestion, which is discussed in Chapter 22. Thus, in effect, the liver is a large, expandable, venous organ capable of acting as a valuable blood reservoir in times of excess blood volume and capa ble of supplying extra blood in times of diminished blood volume.",
+    "pdfPage": 826,
+    "lead": "The Liver Functions as a Blood Reservoir.",
+    "boxed": true,
+    "bid": "ch71-f14"
+   },
+   {
+    "type": "paragraph",
+    "text": "Because the pores in the hepatic sinusoids are very perme able compared with capillaries in other tissues, they allow ready passage of both fluid and proteins into the spaces of Disse. Therefore, the lymph draining from the liver usually has a protein concentration of about 6 g/dl, which is only slightly less than the protein concentration of plasma. In addition, the high permeability of the liver sinusoid epithe lium allows large quantities of lymph to form. Therefore, about half of all the lymph formed in the body under rest ing conditions arises in the liver.",
+    "pdfPage": 826,
+    "boxed": true,
+    "bid": "ch71-f15"
+   },
+   {
+    "type": "paragraph",
+    "text": "When the pressure in the he patic veins rises only 3 to 7 mm Hg above normal, exces sive amounts of fluid begin to transude into the lymph and leak through the outer surface of the liver capsule directly into the abdominal cavity. This fluid is almost pure plasma, containing 80% to 90% as much protein as normal plasma. At vena caval pressures of 10 to 15 mm Hg, hepatic lymph flow increases to as much as 20 times normal, and the “sweating” from the surface of the liver can be so great that it causes large amounts of free fluid in the abdominal cavity, which is called _ascites_. Blockage of portal flow through the liver also causes high capillary pressures in the entire por tal vascular system of the gastrointestinal tract, resulting in edema of the gut wall and transudation of fluid through the serosa of the gut into the abdominal cavity. This can also cause ascites.",
+    "pdfPage": 826,
+    "lead": "High Hepatic Vascular Pressures Can Cause Fluid Transudation Into the Abdominal Cavity From the Liver and Portal Capillaries—Ascites.",
+    "boxed": true,
+    "bid": "ch71-f16"
+   },
+   {
+    "type": "paragraph",
+    "text": "The liver possesses a remarkable ability to restore itself after significant hepatic tissue loss from either partial hepatec tomy or acute liver injury, as long as the injury is uncompli cated by viral infection or inflammation. Partial hepatec tomy, in which up to 70% of the liver is removed, causes the remaining lobes to enlarge and restore the liver to its original size. This regeneration is remarkably rapid and re quires only 5 to 7 days in rats. During liver regeneration, hepatocytes are estimated to replicate once or twice, and after the original size and volume of the liver are achieved, the hepatocytes revert to their usual quiescent state.",
+    "pdfPage": 826,
+    "boxed": true,
+    "bid": "ch71-f17"
+   },
+   {
+    "type": "paragraph",
+    "text": "Control of this rapid regeneration of the liver is not well understood, but _hepatocyte growth factor_ (HGF) appears to be important in causing liver cell division and growth. HGF is produced by mesenchymal cells in the liver and in other tissues, but not by hepatocytes. Blood levels of HGF rise more than 20-fold after partial hepatectomy, but mitogenic responses are usually found only in the liver after these op erations, suggesting that HGF may be activated only in the affected organ. Other growth factors (especially _epidermal growth factor_) and cytokines such as _tumor necrosis factor_ and _interleukin 6_ may also be involved in stimulating regen eration of liver cells.",
+    "pdfPage": 826,
+    "boxed": true,
+    "bid": "ch71-f18"
+   },
+   {
+    "type": "paragraph",
+    "text": "After the liver has returned to its original size, the pro cess of hepatic cell division is terminated. Again, the factors involved are not well understood, although _transforming growth factor-β_, a cytokine secreted by hepatic cells, is a potent inhibitor of liver cell proliferation and has been sug gested as the main terminator of liver regeneration.",
+    "pdfPage": 826,
+    "boxed": true,
+    "bid": "ch71-f19"
+   },
+   {
+    "type": "paragraph",
+    "text": "Physiological experiments indicate that liver growth is closely regulated by some unknown signal related to body size, so an optimal liver to body weight ratio is maintained for optimal metabolic function. In liver diseases associated with fibrosis, inflammation, or viral infections, however, the regenerative process of the liver is severely impaired and liver function deteriorates.",
+    "pdfPage": 827,
+    "boxed": true,
+    "bid": "ch71-f20"
+   },
+   {
+    "type": "paragraph",
+    "text": "Blood flowing through the intestinal capillaries picks up many bacteria from the intestines. Indeed, a sample of blood taken from the portal veins before it enters the liver almost always grows colon bacilli when cultured, whereas growth of colon bacilli from blood in the systemic circula tion is extremely rare.",
+    "pdfPage": 827,
+    "boxed": true,
+    "bid": "ch71-f21"
+   },
+   {
+    "type": "paragraph",
+    "text": "Special high-speed motion pictures of the action of _Kupffer cells_, the large phagocytic macrophages that line the hepatic venous sinuses, have demonstrated that these cells efficiently cleanse blood as it passes through the si nuses; when a bacterium comes into momentary contact with a Kupffer cell, in less than 0.01 second the bacterium passes inward through the wall of the Kupffer cell to be come permanently lodged therein until it is digested. Prob ably less than 1% of the bacteria entering the portal blood from the intestines succeeds in passing through the liver into the systemic circulation.",
+    "pdfPage": 827,
+    "boxed": true,
+    "bid": "ch71-f22"
+   },
+   {
+    "type": "paragraph",
+    "text": "The liver is a large, chemically reactant pool of cells that have a high rate of metabolism. These cells share substrates and energy from one metabolic system to another, process and synthesize multiple substances that are transported to other areas of the body, and perform myriad other meta bolic functions. For these reasons, a major share of the en tire discipline of biochemistry is devoted to the metabolic reactions in the liver. In this chapter, we summarize the major metabolic functions that are especially important in understanding the integrated physiology of the body.",
+    "pdfPage": 827,
+    "boxed": true,
+    "bid": "ch71-f23"
+   },
+   {
+    "type": "paragraph",
+    "text": "In carbohydrate metabolism, the liver performs the follow ing functions, as summarized from Chapter 68: 1. Storage of large amounts of glycogen 2. Conversion of galactose and fructose to glucose 3. Gluconeogenesis 4. \u0007Formation of many chemical compounds from in termediate products of carbohydrate metabolism The liver is especially important for maintaining a nor mal blood glucose concentration. Storage of glycogen al lows the liver to remove excess glucose from the blood, store it, and then return it to the blood when the blood glu cose concentration begins to fall too low, which is called the _glucose buffer function_ of the liver. In a person with poor liv er function, blood glucose concentration after a meal rich in carbohydrates may rise two to three times as much as in a person with normal liver function.",
+    "pdfPage": 827,
+    "boxed": true,
+    "bid": "ch71-f24"
+   },
+   {
+    "type": "paragraph",
+    "text": "_Gluconeogenesis_ in the liver is also important in main taining a normal blood glucose concentration because glu coneogenesis occurs to a significant extent only when the glucose concentration falls below normal. Large amounts of amino acids and glycerol from triglycerides are then converted into glucose, thereby helping to maintain a rela tively normal blood glucose concentration.",
+    "pdfPage": 827,
+    "boxed": true,
+    "bid": "ch71-f25"
+   },
+   {
+    "type": "paragraph",
+    "text": "Although most cells of the body metabolize fat, certain aspects of fat metabolism occur mainly in the liver. In fat metabolism, the liver performs the following specific func tions, as summarized from Chapter 69: 1. \u0007Oxidation of fatty acids to supply energy for other body functions 2. \u0007Synthesis of large quantities of cholesterol, phospho lipids, and most lipoproteins 3. \u0007Synthesis of fat from proteins and carbohydrates To derive energy from neutral fats, the fat is first split into glycerol and fatty acids. The fatty acids are then split by _betaoxidation_ into two-carbon acetyl radicals that form _acetyl coenzyme A_ (acetyl-CoA). Acetyl-CoA can enter the citric acid cycle and be oxidized to liberate large amounts of ener gy. Beta-oxidation can take place in all cells of the body, but it occurs especially rapidly in the hepatic cells. The liver can not use all the acetyl-CoA that is formed; instead, it is con verted by the condensation of two molecules of acetyl-CoA into _acetoacetic acid,_ a highly soluble acid that passes from the hepatic cells into the extracellular fluid and is then trans ported throughout the body to be absorbed by other tissues. These tissues reconvert the acetoacetic acid into acetyl-CoA and then oxidize it in the usual manner. Thus, the liver is responsible for a major part of the metabolism of fats.",
+    "pdfPage": 827,
+    "boxed": true,
+    "bid": "ch71-f26"
+   },
+   {
+    "type": "paragraph",
+    "text": "About 80% of the cholesterol synthesized in the liver is converted into bile salts, which are secreted into the bile; the remainder is transported in the lipoproteins and car ried by the blood to the tissue cells of the body. Phospho lipids are likewise synthesized in the liver and transported principally in the lipoproteins. Both cholesterol and phos pholipids are used by the cells to form membranes, intra cellular structures, and multiple chemical substances that are important to cellular function.",
+    "pdfPage": 827,
+    "boxed": true,
+    "bid": "ch71-f27"
+   },
+   {
+    "type": "paragraph",
+    "text": "Almost all the fat synthesis in the body from carbohy drates and proteins also occurs in the liver. After fat is syn thesized in the liver, it is transported in the lipoproteins to the adipose tissue to be stored.",
+    "pdfPage": 827,
+    "boxed": true,
+    "bid": "ch71-f28"
+   },
+   {
+    "type": "paragraph",
+    "text": "The body cannot dispense with the liver’s contribution to pro tein metabolism for more than a few days without death ensu ing. The most important functions of the liver in protein me tabolism, as summarized from Chapter 70, are the following: 1. \u0007Deamination of amino acids 2. \u0007Formation of urea for removal of ammonia from the body fluids 3. \u0007Formation of plasma proteins 4. \u0007Interconversions of the various amino acids and synthesis of other compounds from amino acids Deamination of amino acids is required before they can be used for energy or converted into carbohydrates or fats. A small amount of deamination can occur in the other tis sues of the body, especially in the kidneys, but it is much less important than the deamination of amino acids by the liver.",
+    "pdfPage": 827,
+    "boxed": true,
+    "bid": "ch71-f29"
+   },
+   {
+    "type": "paragraph",
+    "text": "Formation of urea by the liver removes ammonia from the body fluids. Large amounts of ammonia are formed by the deamination process, and additional amounts are con tinually formed in the gut by bacteria and then absorbed into the blood. Therefore, if the liver does not form urea, the plasma ammonia concentration rises rapidly and re sults in _hepatic coma_ and death. Indeed, even greatly de creased blood flow through the liver—as occurs occasion ally when a shunt develops between the portal vein and the vena cava—can cause excessive ammonia in the blood, an extremely toxic condition.",
+    "pdfPage": 827,
+    "boxed": true,
+    "pdfPageEnd": 828,
+    "bid": "ch71-f30"
+   },
+   {
+    "type": "paragraph",
+    "text": "Essentially all the plasma proteins, with the exception of part of the gamma globulins, are formed by the hepatic cells, accounting for about 90% of all the plasma proteins. The remaining gamma globulins are the antibodies formed mainly by plasma cells in the lymph tissue of the body. The liver can form plasma proteins at a maximum rate of 15 to 50 g/day. Therefore, even if as much as half the plasma proteins are lost from the body, they can be replenished in 1 or 2 weeks. Plasma protein depletion causes rapid mitosis of the he patic cells and growth of the liver to a larger size; these ef fects are coupled with rapid output of plasma proteins until the plasma concentration returns to normal. With chronic liver disease (e.g., cirrhosis), plasma proteins, such as albu min, may fall to very low levels, causing generalized edema and ascites, as explained in Chapter 30.",
+    "pdfPage": 828,
+    "boxed": true,
+    "bid": "ch71-f31"
+   },
+   {
+    "type": "paragraph",
+    "text": "Among the most important functions of the liver is its ability to synthesize certain amino acids and other impor tant chemical compounds from amino acids. For example, the so-called nonessential amino acids can all be synthe sized in the liver. To perform this function, a keto acid hav ing the same chemical composition (except at the keto oxy gen) as that of the amino acid to be formed is synthesized. An amino radical is then transferred through several stages of _transamination_ from an available amino acid to the keto acid to take the place of the keto oxygen.",
+    "pdfPage": 828,
+    "boxed": true,
+    "bid": "ch71-f32"
+   },
+   {
+    "type": "paragraph",
+    "text": "The liver has a particular propensity for storing vitamins and has long been known as an excellent source of certain vitamins in the treatment of patients. The vitamin stored in greatest quantity in the liver is vitamin A, but large quantities of vi tamin D and vitamin B12 are normally stored there as well. Sufficient quantities of vitamin A can be stored to prevent vitamin A deficiency for as long as 10 months. Sufficient quantities of vitamin D can be stored to prevent deficiency for 3 to 4 months, and enough vitamin B12 can be stored to last for at least 1 year and perhaps for several years.",
+    "pdfPage": 828,
+    "lead": "The Liver Is a Storage Site for Vitamins.",
+    "boxed": true,
+    "bid": "ch71-f33"
+   },
+   {
+    "type": "paragraph",
+    "text": "Except for the iron in the hemoglobin of the blood, by far the greatest proportion of iron in the body is stored in the liver in the form of _fer ritin_. The hepatic cells contain large amounts of a protein called _apoferritin_, which is capable of combining revers ibly with iron. Therefore, when iron is available in the body fluids in extra quantities, it combines with apoferritin to form ferritin and is stored in this form in the hepatic cells until needed elsewhere. When the iron in the circulating body fluids reaches a low level, the ferritin releases the iron. Thus, the apoferritin-ferritin system of the liver acts as a _blood iron buffer,_ as well as an iron storage medium. Other functions of the liver in relation to iron metabolism and red blood cell formation are considered in Chapter 33.",
+    "pdfPage": 828,
+    "lead": "The Liver Stores Iron as Ferritin.",
+    "boxed": true,
+    "bid": "ch71-f34"
+   },
+   {
+    "type": "paragraph",
+    "text": "coagulation process include _fibrinogen, prothrombin, ac celerator globulin, factor VII_, and several other important factors. Vitamin K is required by the metabolic processes of the liver for the formation of several of these substances, especially prothrombin and factors VII, IX, and X. In the absence of vitamin K, the concentrations of all these sub stances decrease markedly and almost prevent blood co agulation.",
+    "pdfPage": 828,
+    "boxed": true,
+    "bid": "ch71-f35"
+   },
+   {
+    "type": "paragraph",
+    "text": "The liver is well known for its ability to detoxify or excrete many drugs into the bile, including sul fonamides, penicillin, ampicillin, and erythromycin.",
+    "pdfPage": 828,
+    "lead": "The Liver Removes or Excretes Drugs, Hormones, and Other Substances.",
+    "boxed": true,
+    "bid": "ch71-f36"
+   },
+   {
+    "type": "paragraph",
+    "text": "Several of the hormones secreted by the endocrine glands are also either chemically altered or excreted by the liver, including thyroxine and essentially all the steroid hor mones, such as estrogen, cortisol, and aldosterone. Liver damage can lead to excess accumulation of one or more of these hormones in the body fluids and therefore cause overactivity of the hormonal systems.",
+    "pdfPage": 828,
+    "boxed": true,
+    "bid": "ch71-f37"
+   },
+   {
+    "type": "paragraph",
+    "text": "Finally, one of the major routes for excreting calcium from the body is secretion by the liver into the bile, which then passes into the gut and is lost in the feces.",
+    "pdfPage": 828,
+    "boxed": true,
+    "bid": "ch71-f38"
+   },
+   {
+    "type": "paragraph",
+    "text": "Formation of bile by the liver and the function of bile salts in the digestive and absorptive processes of the intestinal tract are discussed in Chapters 65 and 66. In addition, many substances are excreted in the bile and then eliminated in the feces. One of these substances is the greenish-yellow pigment _bilirubin_, which is a major end product of hemo globin degradation, as pointed out in Chapter 33. However, bilirubin also provides _an exceedingly valuable tool for di agnosing both hemolytic blood diseases and various types of liver diseases_. Therefore, while referring to **Figure 71-2**, let us explain this.",
+    "pdfPage": 828,
+    "boxed": true,
+    "bid": "ch71-f39"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-71-02",
+    "bid": "ch71-f40"
+   },
+   {
+    "type": "paragraph",
+    "text": "Briefly, when the red blood cells have lived out their life span (on average, 120 days) and have become too fragile to exist in the circulatory system, their cell membranes rupture, and the released hemoglobin is phagocytized by tissue macrophages (also called the _reticuloendothelial sys tem_) throughout the body. The hemoglobin is first split into _globin_ and _heme_, and the heme ring is opened to give (1) free iron, which is transported in the blood by transferrin, and (2) a straight chain of four pyrrole nuclei, which is the substrate from which bilirubin will eventually be formed. The first substance formed is _biliverdin,_ but this substance is rapidly reduced to _free bilirubin,_ also called _unconjugated bilirubin,_ which is gradually released from the macrophag es into the plasma. This form of bilirubin immediately combines strongly with plasma albumin and is transported in this combination throughout the blood and interstitial fluids.",
+    "pdfPage": 828,
+    "boxed": true,
+    "bid": "ch71-f41"
+   },
+   {
+    "type": "paragraph",
+    "text": "Within hours, the unconjugated bilirubin is absorbed through the hepatic cell membrane. In passing to the in side of the liver cells, it is released from the plasma albumin and soon thereafter conjugated about 80% with glucuronic acid to form _bilirubin glucuronide_, about 10% with sulfate to form _bilirubin sulfate_, and about 10% with a multitude of other substances. In these forms, the bilirubin is excreted from the hepatocytes by an active transport process into the bile canaliculi and then into the intestines.",
+    "pdfPage": 828,
+    "boxed": true,
+    "bid": "ch71-f42"
+   },
+   {
+    "type": "paragraph",
+    "text": "Once in the intes tine, about half of the “conjugated” bilirubin is converted by bacterial action into _urobilinogen,_ which is highly soluble. Some of the urobilinogen is reabsorbed through the intesti nal mucosa back into the blood, and most is re-excreted by the liver back into the gut, but about 5% is excreted by the kidneys into the urine. After exposure to air in the urine, urobilinogen becomes oxidized to _urobilin;_ alternatively, in the feces, it becomes altered and oxidized to form _stercobi lin._ These interrelations of bilirubin and the other bilirubin products are shown in **Figure 71-2.**",
+    "pdfPage": 829,
+    "lead": "Formation and Fate of Urobilinogen.",
+    "boxed": true,
+    "bid": "ch71-f43"
+   },
+   {
+    "type": "paragraph",
+    "text": "_Jaundice_ refers to a yellowish tint to the body tissues, including a yellowness of the skin and deep tissues. The usual cause of jaundice is large quantities of bilirubin in the extracellular flu ids—either unconjugated or conjugated bilirubin. The normal plasma concentration of bilirubin, which is almost entirely the unconjugated form, averages 0.5 mg/dl of plasma. In certain abnormal conditions, this amount can rise to as high as 40 mg/ dl, and much of it can become the conjugated type. The skin usually begins to appear jaundiced when the concentration rises to about three times normal—that is, above 1.5 mg/dl.",
+    "pdfPage": 829,
+    "boxed": true,
+    "bid": "ch71-f44"
+   },
+   {
+    "type": "paragraph",
+    "text": "The common causes of jaundice are (1) increased de struction of red blood cells, with rapid release of bilirubin into the blood, and (2) obstruction of the bile ducts or damage to the liver cells so that even the usual amounts of bilirubin cannot be excreted into the gastrointestinal tract. These two types of jaundice are called, respectively, _hemo lytic jaundice_ and _obstructive jaundice._",
+    "pdfPage": 829,
+    "boxed": true,
+    "bid": "ch71-f45"
+   },
+   {
+    "type": "paragraph",
+    "text": "In hemolytic jaundice, the excretory function of the liver is not impaired, but red blood cells are hemolyzed so rapidly that the hepatic cells simply cannot excrete the bil irubin as quickly as it is formed. Therefore, plasma concen tration of free bilirubin rises to above-normal levels. Like wise, the rate of formation of _urobilinogen_ in the intestine is greatly increased, and much of this urobilinogen is absorbed into the blood and later excreted in the urine.",
+    "pdfPage": 829,
+    "lead": "Blood Cells.",
+    "boxed": true,
+    "bid": "ch71-f46"
+   },
+   {
+    "type": "paragraph",
+    "text": "In obstructive jaundice that is caused either by obstruction of the bile ducts (which most often occurs when a gallstone or cancer blocks the com mon bile duct) or by damage to the hepatic cells (which oc curs in _hepatitis_), the rate of bilirubin formation is normal, but the bilirubin formed cannot pass from the blood into the intestines. The unconjugated bilirubin still enters the liver cells and becomes conjugated in the usual way. This conjugated bilirubin is then returned to the blood, probably by rupture of the congested bile canaliculi and direct emp tying of the bile into the lymph leaving the liver. Thus, _most_",
+    "pdfPage": 829,
+    "lead": "Obstructive Jaundice Is Caused by Obstruction of Bile Ducts or Liver Disease.",
+    "boxed": true,
+    "bid": "ch71-f47"
+   },
+   {
+    "type": "paragraph",
+    "text": "_of the bilirubin in the plasma becomes the conjugated type_ rather than the unconjugated type in obstructive jaundice.",
+    "pdfPage": 830,
+    "boxed": true,
+    "bid": "ch71-f48"
+   },
+   {
+    "type": "paragraph",
+    "text": "Chemical laboratory tests can be used to differentiate between unconjugated and conjugated bili rubin in the plasma. In hemolytic jaundice, almost all the bilirubin is in the “unconjugated” form; in obstructive jaun dice, it is mainly in the “conjugated” form. A test called the _van den Bergh reaction_ can be used to differentiate between the two.",
+    "pdfPage": 830,
+    "lead": "Diagnostic Differences Between Hemolytic and Obstructive Jaundice.",
+    "boxed": true,
+    "bid": "ch71-f49"
+   },
+   {
+    "type": "paragraph",
+    "text": "When total obstruction of bile flow occurs, no bilirubin can reach the intestines to be converted into urobilinogen by bacteria. Therefore, no urobilinogen is reabsorbed into the blood, and none can be excreted by the kidneys into the urine. Consequently, in _total_ obstructive jaundice, tests for urobilinogen in the urine are completely negative. Also, stools become clay-colored owing to a lack of stercobilin and other bile pigments.",
+    "pdfPage": 830,
+    "boxed": true,
+    "bid": "ch71-f50"
+   },
+   {
+    "type": "paragraph",
+    "text": "Another major difference between unconjugated and conjugated bilirubin is that the kidneys can excrete small quantities of the highly soluble conjugated bilirubin but not the albumin-bound unconjugated bilirubin. Therefore, in severe obstructive jaundice, significant quantities of conju gated bilirubin appear in the urine. This phenomenon can be demonstrated simply by shaking the urine and observing the foam, which turns an intense yellow. Thus, by understanding the physiology of bilirubin excretion by the liver and by the use of a few simple tests, it is often possible to differentiate among multiple types of hemolytic diseases and liver dis eases, as well as to determine the severity of the disease.",
+    "pdfPage": 830,
+    "boxed": true,
+    "bid": "ch71-f51"
+   }
+  ]
+ },
+ "glossary": [
+  {
+   "id": "ch71-t-jigar-bolakchasi-lobule",
+   "termUz": "jigar bo'lakchasi (lobule)",
+   "original": null,
+   "contextUz": "Funksional birligi — jigar bo'lakchasi (lobule): uzunligi bir necha mm, diametri 0,8–2 mm silindr; jigarda 50 000–100 000 ta.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-markaziy-vena",
+   "termUz": "markaziy vena",
+   "original": null,
+   "contextUz": "Bo'lakcha markaziy vena atrofida qurilgan (→ jigar venalari → pastki kovak vena).",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-ot-kapillyarlari-kanalchalari",
+   "termUz": "o't kapillyarlari (kanalchalari)",
+   "original": null,
+   "contextUz": "Qo'shni hujayralar orasida o't kapillyarlari (kanalchalari) bo'lib, bo'lakchalar orasidagi fibroz to'siqlardagi o't yo'llariga quyiladi.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-portal-venulalar",
+   "termUz": "portal venulalar",
+   "original": "oshqozon-ichak venoz qoni, darvoza vena orqali",
+   "contextUz": "To'siqlarda portal venulalar (oshqozon-ichak venoz qoni, darvoza vena orqali) bor.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-sinusoidlarga",
+   "termUz": "sinusoidlarga",
+   "original": null,
+   "contextUz": "Qon ulardan plastinkalar orasidagi yassi, tarmoqlangan sinusoidlarga, so'ng markaziy venaga oqadi; shu tufayli jigar hujayralari doimo portal qon bilan yuviladi.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-jigar-arteriolalari",
+   "termUz": "Jigar arteriolalari",
+   "original": null,
+   "contextUz": "Jigar arteriolalari ham to'siqlarda; ular to'siq to'qimasini qon bilan ta'minlaydi va ko'pi bevosita sinusoidlarga, ko'pincha to'siqdan ~1/3 masofada quyiladi.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-kupffer-hujayralari",
+   "termUz": "Kupffer hujayralari",
+   "original": "retikuloendotelial hujayralar",
+   "contextUz": "Sinusoidlarni jigar hujayralaridan tashqari ikki xil hujayra qoplaydi: (1) oddiy endotelial hujayralar; (2) yirik Kupffer hujayralari (retikuloendotelial hujayralar) — bakteriya va begona moddalarni fagotsitoz qiladigan rezident makrofaglar.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-disse-boshliqlari-perisinusoidal-boshliqlar",
+   "termUz": "Disse bo'shliqlari (perisinusoidal bo'shliqlar)",
+   "original": null,
+   "contextUz": "Endoteliy va jigar hujayralari orasida tor Disse bo'shliqlari (perisinusoidal bo'shliqlar) bor; ular to'siqlardagi limfa tomirlari bilan bog'langan, ortiqcha suyuqlik limfa orqali olinadi.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-qon-oqimi",
+   "termUz": "Qon oqimi",
+   "original": null,
+   "contextUz": "Qon oqimi: darvoza venadan ~1050 ml/min, jigar arteriyasidan ~300 ml/min, jami ~1350 ml/min — tinch holatdagi yurak chiqishining 27%.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-jigar-sirrozi",
+   "termUz": "Jigar sirrozi",
+   "original": null,
+   "contextUz": "Jigar sirrozi: parenxima hujayralari halok bo'lib, fibroz to'qimaga almashadi; bu to'qima tomirlar atrofida qisqarib, portal qon oqimiga katta qarshilik beradi.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-alkogolsiz-steatogepatit-nash",
+   "termUz": "alkogolsiz steatogepatit (NASH)",
+   "original": null,
+   "contextUz": "Ko'pincha surunkali alkogolizm yoki jigarda yog' to'planishi va yallig'lanish — alkogolsiz steatogepatit (NASH) sababli.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-alkogolsiz-yogli-jigar-kasalligi-nafld",
+   "termUz": "alkogolsiz yog'li jigar kasalligi (NAFLD)",
+   "original": null,
+   "contextUz": "Yengilroq shakli — alkogolsiz yog'li jigar kasalligi (NAFLD) — AQSh kabi sanoatlashgan mamlakatlarda jigar kasalligining eng ko'p sababi, odatda semizlik va 2-tur diabet bilan bog'liq.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-portal-tizimning-tosatdan-tiqilishi",
+   "termUz": "Portal tizimning to'satdan tiqilishi",
+   "original": "masalan, darvoza venada yirik tromb",
+   "contextUz": "Portal tizimning to'satdan tiqilishi (masalan, darvoza venada yirik tromb): ichak va taloqdan qon qaytishi qiyinlashadi → portal gipertenziya, ichak devori kapillyar bosimi normadan 15–20 mm Hg ga oshadi.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-qon-ombori",
+   "termUz": "Qon ombori",
+   "original": null,
+   "contextUz": "Qon ombori: jigar cho'ziluvchan; normal qon hajmi ~450 ml (umumiy qon hajmining ~10%).",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-limfa-oqimi-juda-yuqori",
+   "termUz": "Limfa oqimi juda yuqori",
+   "original": null,
+   "contextUz": "Limfa oqimi juda yuqori: sinusoidlar juda o'tkazuvchan bo'lgani uchun jigar limfasida oqsil ~6 g/dl (plazmadan biroz kam).",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-assit",
+   "termUz": "Assit",
+   "original": null,
+   "contextUz": "Assit: jigar venalari bosimi normadan atigi 3–7 mm Hg oshsa, ko'p suyuqlik limfaga va jigar kapsulasi yuzasidan to'g'ridan-to'g'ri qorin bo'shlig'iga sizib chiqadi.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-gepatotsit-osish-omili-hgf",
+   "termUz": "Gepatotsit o'sish omili (HGF)",
+   "original": null,
+   "contextUz": "Gepatotsit o'sish omili (HGF) muhim ko'rinadi; uni gepatotsitlar emas, jigar va boshqa to'qimalardagi mezenximal hujayralar ishlab chiqaradi.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-transformatsiyalovchi-osish-omili-tgf",
+   "termUz": "transformatsiyalovchi o'sish omili-β (TGF-β)",
+   "original": null,
+   "contextUz": "To'xtatish: gepatotsitlar ajratadigan transformatsiyalovchi o'sish omili-β (TGF-β) jigar hujayrasi proliferatsiyasining kuchli ingibitori va regeneratsiyaning asosiy to'xtatuvchisi deb taxmin qilinadi.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-uglevodlar-68-bobdan",
+   "termUz": "Uglevodlar (68-bobdan)",
+   "original": null,
+   "contextUz": "Uglevodlar (68-bobdan):",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-glyukoza-buferi-funksiyasi",
+   "termUz": "Glyukoza buferi funksiyasi",
+   "original": null,
+   "contextUz": "Glyukoza buferi funksiyasi: ortiqcha glyukozani glikogen sifatida olib, glyukoza tushganda qonga qaytaradi.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-yoglar-69-bobdan",
+   "termUz": "Yog'lar (69-bobdan)",
+   "original": null,
+   "contextUz": "Yog'lar (69-bobdan):",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-asetoasetat",
+   "termUz": "asetoasetat",
+   "original": null,
+   "contextUz": "Jigar barcha asetil-KoA ni ishlata olmaydi: ikki molekula kondensatsiyalanib asetoasetat hosil qiladi; u yaxshi eriydi, boshqa to'qimalarga tashilib, yana asetil-KoA ga aylanadi va oksidlanadi.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-ot-tuzlariga",
+   "termUz": "o't tuzlariga",
+   "original": null,
+   "contextUz": "Jigarda sintezlangan xolesterinning ~80% i o't tuzlariga aylanadi va o'tga ajratiladi; qolgani lipoproteinlar bilan to'qimalarga tashiladi.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-oqsillar-70-bobdan",
+   "termUz": "Oqsillar (70-bobdan)",
+   "original": null,
+   "contextUz": "Oqsillar (70-bobdan): jigarning bu hissasisiz organizm bir necha kundan ortiq yashay olmaydi.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-vitaminlar-ombori",
+   "termUz": "Vitaminlar ombori",
+   "original": null,
+   "contextUz": "Vitaminlar ombori: eng ko'p A vitamini (10 oygacha yetishmovchilikni oldini oladi), shuningdek D (3–4 oy) va B12 (kamida 1 yil, balki bir necha yil).",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-temir-ferritin-shaklida",
+   "termUz": "Temir ferritin shaklida",
+   "original": null,
+   "contextUz": "Temir ferritin shaklida: gemoglobindagidan tashqari tanadagi temirning eng katta qismi jigarda ferritin sifatida saqlanadi.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-apoferritin",
+   "termUz": "apoferritin",
+   "original": null,
+   "contextUz": "Gepatotsitlarda ko'p apoferritin bor, u temir bilan qaytar birikadi.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-ivish-omillari",
+   "termUz": "Ivish omillari",
+   "original": null,
+   "contextUz": "Ivish omillari: fibrinogen, protrombin, akselerator globulin, VII omil va boshqalar.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-k-vitamini",
+   "termUz": "K vitamini",
+   "original": null,
+   "contextUz": "Ularning bir nechtasi, ayniqsa protrombin hamda VII, IX, X omillar uchun K vitamini kerak; u bo'lmasa bu moddalar keskin kamayib, ivish deyarli to'xtaydi.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-dori-gormon-va-boshqa-moddalarni-chiqarish",
+   "termUz": "Dori, gormon va boshqa moddalarni chiqarish",
+   "original": null,
+   "contextUz": "Dori, gormon va boshqa moddalarni chiqarish: sulfanilamidlar, penitsillin, ampitsillin, eritromitsin kabi dorilarni zararsizlantiradi yoki o'tga chiqaradi.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-bilirubin",
+   "termUz": "bilirubin",
+   "original": null,
+   "contextUz": "O't bilan ko'p moddalar chiqariladi, shulardan biri yashil-sariq pigment bilirubin — gemoglobin parchalanishining asosiy oxirgi mahsuloti.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-hosil-bolishi-71-2-rasm",
+   "termUz": "Hosil bo'lishi (71-2-rasm)",
+   "original": null,
+   "contextUz": "Hosil bo'lishi (71-2-rasm): eritrotsitlar (~120 kun) mo'rt bo'lib yoriladi, gemoglobinni to'qima makrofaglari (retikuloendotelial tizim) fagotsitoz qiladi.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-biliverdin",
+   "termUz": "biliverdin",
+   "original": null,
+   "contextUz": "Avval biliverdin, u tez erkin (konyugatsiyalanmagan) bilirubinga qaytariladi va plazmaga chiqadi.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-erkin-konyugatsiyalanmagan-bilirubinga",
+   "termUz": "erkin (konyugatsiyalanmagan) bilirubinga",
+   "original": null,
+   "contextUz": "Avval biliverdin, u tez erkin (konyugatsiyalanmagan) bilirubinga qaytariladi va plazmaga chiqadi.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-bilirubin-glyukuronid",
+   "termUz": "bilirubin glyukuronid",
+   "original": null,
+   "contextUz": "Bir necha soatda jigar hujayrasiga so'riladi, albumindan ajraladi va konyugatsiyalanadi: ~80% glyukuron kislota bilan (bilirubin glyukuronid), ~10% sulfat bilan, ~10% boshqa moddalar bilan.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-urobilinogen",
+   "termUz": "Urobilinogen",
+   "original": null,
+   "contextUz": "Urobilinogen: ichakda konyugatsiyalangan bilirubinning ~yarmi bakteriyalar ta'sirida yaxshi eriydigan urobilinogenga aylanadi.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-urobilinga",
+   "termUz": "urobilinga",
+   "original": null,
+   "contextUz": "Siydikda havoda urobilinga, najasda sterkobilinga oksidlanadi.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-sterkobilinga",
+   "termUz": "sterkobilinga",
+   "original": null,
+   "contextUz": "Siydikda havoda urobilinga, najasda sterkobilinga oksidlanadi.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-gemolitik-sariqlik",
+   "termUz": "gemolitik sariqlik",
+   "original": null,
+   "contextUz": "Ikki asosiy sabab: (1) eritrotsitlar ko'p parchalanishi — gemolitik sariqlik; (2) o't yo'llari tiqilishi yoki jigar hujayralari shikastlanishi — obstruktiv sariqlik.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-obstruktiv-sariqlik",
+   "termUz": "obstruktiv sariqlik",
+   "original": null,
+   "contextUz": "Ikki asosiy sabab: (1) eritrotsitlar ko'p parchalanishi — gemolitik sariqlik; (2) o't yo'llari tiqilishi yoki jigar hujayralari shikastlanishi — obstruktiv sariqlik.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-farqlash",
+   "termUz": "Farqlash",
+   "original": null,
+   "contextUz": "Farqlash: laborator testlar (van den Bergh reaksiyasi): gemolitikda deyarli hammasi konyugatsiyalanmagan, obstruktivda asosan konyugatsiyalangan.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-van-den-bergh-reaksiyasi",
+   "termUz": "van den Bergh reaksiyasi",
+   "original": null,
+   "contextUz": "Farqlash: laborator testlar (van den Bergh reaksiyasi): gemolitikda deyarli hammasi konyugatsiyalanmagan, obstruktivda asosan konyugatsiyalangan.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch71-t-loy-rangida",
+   "termUz": "loy rangida",
+   "original": null,
+   "contextUz": "To'liq obstruksiyada bilirubin ichakka yetmaydi → urobilinogen hosil bo'lmaydi → siydikda urobilinogen testi to'liq manfiy; najas sterkobilin yo'qligidan loy rangida bo'ladi.",
+   "lessonId": "ch71",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  }
+ ],
+ "bookDefinitions": [
+  {
+   "pdfPage": 825,
+   "printedPage": "820",
+   "text": "Beneath this lining, lying between the endothelial cells and the hepatic cells, are narrow tissue spaces called the spaces of Disse, also known as the perisinusoidal spaces"
+  },
+  {
+   "pdfPage": 825,
+   "printedPage": "820",
+   "text": "This disease process is known as cirrhosis of the liver"
+  },
+  {
+   "pdfPage": 826,
+   "printedPage": "821",
+   "text": "At vena caval pressures of 10 to 15 mm Hg, hepatic lymph flow increases to as much as 20 times normal, and the “sweating” from the surface of the liver can be so great that it causes large amounts of free fluid in the abdominal cavity, which is called ascites"
+  },
+  {
+   "pdfPage": 827,
+   "printedPage": "822",
+   "text": "Storage of glycogen allows the liver to remove excess glucose from the blood, store it, and then return it to the blood when the blood glucose concentration begins to fall too low, which is called the glucose buffer function of the liver"
+  },
+  {
+   "pdfPage": 828,
+   "printedPage": "823",
+   "text": "Briefly, when the red blood cells have lived out their life span (on average, 120 days) and have become too fragile to exist in the circulatory system, their cell membranes rupture, and the released hemoglobin is phagocytized by tissue macrophages (also called the reticuloendothelial system) throughout the body"
+  },
+  {
+   "pdfPage": 829,
+   "printedPage": "824",
+   "text": "These two types of jaundice are called, respectively, hemolytic jaundice and obstructive jaundice"
+  },
+  {
+   "pdfPage": 830,
+   "printedPage": "825",
+   "text": "A test called the van den Bergh reaction can be used to differentiate between the two"
+  }
+ ],
+ "keyNumbers": [
+  {
+   "pdfPage": 825,
+   "printedPage": "820",
+   "text": "Physiologic Anatomy of the Liver The liver is the largest organ in the body, contributing about 2% of the total body weight, or about 1.5 kilograms (3.3 pounds) in the average adult human"
+  },
+  {
+   "pdfPage": 825,
+   "printedPage": "820",
+   "text": "About 1050 ml/min of blood flow from the por- tal vein into the liver sinusoids, and an additional 300 ml/ min flow into the sinusoids from the hepatic artery, with the total averaging about 1350 ml/min, which is 27% of the resting cardiac output"
+  },
+  {
+   "pdfPage": 825,
+   "printedPage": "820",
+   "text": "The pressure in the portal vein leading into the liver averages about 9 mm Hg, and the pressure in the hepatic vein leading from the liver into the vena cava normally averages about 0 mm Hg"
+  },
+  {
+   "pdfPage": 825,
+   "printedPage": "820",
+   "text": "This small pressure difference, only 9 mm Hg, shows that the resistance to blood flow through the hepatic sinusoids is normally very low, especially when one considers that about 1350 ml/min of blood flow by this route"
+  },
+  {
+   "pdfPage": 826,
+   "printedPage": "821",
+   "text": "Therefore, the lymph draining from the liver usually has a protein concentration of about 6 g/dl, which is only slightly less than the protein concentration of plasma"
+  },
+  {
+   "pdfPage": 826,
+   "printedPage": "821",
+   "text": "This impedance results in portal hypertension, with the capillary pressure in the intestinal wall increasing to 15 to 20 mm Hg above normal"
+  },
+  {
+   "pdfPage": 826,
+   "printedPage": "821",
+   "text": "Its normal blood volume, including that in the hepatic veins and hepatic sinuses, is about 450 ml, or almost 10% of the body’s total blood volume"
+  },
+  {
+   "pdfPage": 826,
+   "printedPage": "821",
+   "text": "Thus, in effect, the liver is a large, expandable, venous organ capable of acting as a valuable blood reservoir in times of excess blood volume and capable of supplying extra blood in times of diminished blood volume. 872 patic veins rises only 3 to 7 mm Hg above normal, excessive amounts of fluid begin to transude into the lymph and leak through the outer surface of the liver capsule directly into the abdominal cavity"
+  },
+  {
+   "pdfPage": 826,
+   "printedPage": "821",
+   "text": "This fluid is almost pure plasma, containing 80% to 90% as much protein as normal plasma"
+  },
+  {
+   "pdfPage": 826,
+   "printedPage": "821",
+   "text": "At vena caval pressures of 10 to 15 mm Hg, hepatic lymph flow increases to as much as 20 times normal, and the “sweating” from the surface of the liver can be so great that it causes large amounts of free fluid in the abdominal cavity, which is called ascites"
+  },
+  {
+   "pdfPage": 826,
+   "printedPage": "821",
+   "text": "Partial hepatectomy, in which up to 70% of the liver is removed, causes the remaining lobes to enlarge and restore the liver to its original size"
+  },
+  {
+   "pdfPage": 826,
+   "printedPage": "821",
+   "text": "This regeneration is remarkably rapid and requires only 5 to 7 days in rats"
+  },
+  {
+   "pdfPage": 826,
+   "printedPage": "821",
+   "text": "Blood levels of HGF rise more than 20-fold after partial hepatectomy, but mitogenic responses are usually found only in the liver after these operations, suggesting that HGF may be activated only in the affected organ"
+  },
+  {
+   "pdfPage": 827,
+   "printedPage": "822",
+   "text": "Probably less than 1% of the bacteria entering the portal blood from the intestines succeeds in passing through the liver into the systemic circulation"
+  },
+  {
+   "pdfPage": 827,
+   "printedPage": "822",
+   "text": "About 80% of the cholesterol synthesized in the liver is converted into bile salts, which are secreted into the bile; the remainder is transported in the lipoproteins and carried by the blood to the tissue cells of the body"
+  },
+  {
+   "pdfPage": 828,
+   "printedPage": "823",
+   "text": "Essentially all the plasma proteins, with the exception of part of the gamma globulins, are formed by the hepatic cells, accounting for about 90% of all the plasma proteins"
+  },
+  {
+   "pdfPage": 828,
+   "printedPage": "823",
+   "text": "The liver can form plasma proteins at a maximum rate of 15 to 50 g/day"
+  },
+  {
+   "pdfPage": 828,
+   "printedPage": "823",
+   "text": "Briefly, when the red blood cells have lived out their life span (on average, 120 days) and have become too fragile to exist in the circulatory system, their cell membranes rupture, and the released hemoglobin is phagocytized by tissue macrophages (also called the reticuloendothelial system) throughout the body"
+  },
+  {
+   "pdfPage": 828,
+   "printedPage": "823",
+   "text": "In passing to the inside of the liver cells, it is released from the plasma albumin and soon thereafter conjugated about 80% with glucuronic acid to form bilirubin glucuronide, about 10% with sulfate to form bilirubin sulfate, and about 10% with a multitude of other substances"
+  },
+  {
+   "pdfPage": 829,
+   "printedPage": "824",
+   "text": "Some of the urobilinogen is reabsorbed through the intestinal mucosa back into the blood, and most is re-excreted by the liver back into the gut, but about 5% is excreted by the kidneys into the urine"
+  },
+  {
+   "pdfPage": 829,
+   "printedPage": "824",
+   "text": "The normal plasma concentration of bilirubin, which is almost entirely the unconjugated form, averages 0.5 mg/dl of plasma"
+  },
+  {
+   "pdfPage": 829,
+   "printedPage": "824",
+   "text": "In certain abnormal conditions, this amount can rise to as high as 40 mg/ dl, and much of it can become the conjugated type"
+  },
+  {
+   "pdfPage": 829,
+   "printedPage": "824",
+   "text": "The skin usually begins to appear jaundiced when the concentration rises to about three times normal—that is, above 1.5 mg/dl"
+  }
+ ],
+ "figureIds": [
+  "gh14-fig-71-01",
+  "gh14-fig-71-02"
+ ],
+ "estMinutes": 22,
+ "counts": {
+  "figures": 2,
+  "figuresIncluded": 2,
+  "terms": 43,
+  "words": 4314,
+  "unplacedInSummary": 2
+ },
+ "review": {
+  "reviewedBy": null,
+  "reviewedAt": null
+ },
+ "importedAt": "2026-11-14T13:59:02+00:00"
+}

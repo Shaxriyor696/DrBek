@@ -1,0 +1,3723 @@
+{
+ "id": "ch43",
+ "topicId": "07",
+ "order": 6,
+ "titleUz": "Nafas yetishmovchiligi: patofiziologiya, diagnostika, kislorod terapiyasi",
+ "titleOriginal": "Respiratory Insufficiency—Pathophysiology, Diagnosis, Oxygen Therapy",
+ "subtitle": "*Respiratory Insufficiency—Pathophysiology, Diagnosis, Oxygen Therapy* — VII bo'lim, PDF 518–526",
+ "contentVersion": "2026-11-14.1",
+ "status": "in_review",
+ "translationStatus": "machine_assisted",
+ "source": {
+  "bookId": "guyton-hall-14",
+  "chapter": 43,
+  "unit": "VII",
+  "pdfPages": [
+   518,
+   526
+  ],
+  "printedPages": [
+   513,
+   521
+  ],
+  "notesFile": "guyton-notes/ch43-respiratory-insufficiencypathophysiology-diagnosis-oxygen-th.md",
+  "summaryFile": "guyton-notes/summaries/ch43.md"
+ },
+ "pdfPages": [
+  518,
+  526
+ ],
+ "printedPages": [
+  513,
+  521
+ ],
+ "outline": [
+  {
+   "level": 1,
+   "title": "Useful Methods for Studying Respiratory Abnormalities",
+   "pdfPage": 518,
+   "printedPage": "513",
+   "id": "ch43-h-useful-methods-for-studying-respiratory-abnormalities"
+  },
+  {
+   "level": 2,
+   "title": "Study of Blood Gases and Blood ph",
+   "pdfPage": 518,
+   "printedPage": "513",
+   "id": "ch43-h-study-of-blood-gases-and-blood-ph"
+  },
+  {
+   "level": 3,
+   "title": "Determination of Blood pH",
+   "pdfPage": 518,
+   "printedPage": "513",
+   "id": "ch43-h-determination-of-blood-ph"
+  },
+  {
+   "level": 3,
+   "title": "Determination of Blood CO2",
+   "pdfPage": 518,
+   "printedPage": "513",
+   "id": "ch43-h-determination-of-blood-co2"
+  },
+  {
+   "level": 3,
+   "title": "Determination of Blood Po2",
+   "pdfPage": 518,
+   "printedPage": "513",
+   "id": "ch43-h-determination-of-blood-po2"
+  },
+  {
+   "level": 2,
+   "title": "MEASUREMENT OF MAXIMUM EXPIRATORY FLOW",
+   "pdfPage": 519,
+   "printedPage": "514",
+   "id": "ch43-h-measurement-of-maximum-expiratory-flow"
+  },
+  {
+   "level": 3,
+   "title": "Abnormalities of the Maximum Expiratory Flow-Volume Curve",
+   "pdfPage": 519,
+   "printedPage": "514",
+   "id": "ch43-h-abnormalities-of-the-maximum-expiratory-flow-volume-curve"
+  },
+  {
+   "level": 2,
+   "title": "FORCED EXPIRATORY VITAL CAPACITY AND FORCED EXPIRATORY VOLUME",
+   "pdfPage": 520,
+   "printedPage": "515",
+   "id": "ch43-h-forced-expiratory-vital-capacity-and-forced-expiratory-volum"
+  },
+  {
+   "level": 1,
+   "title": "PATHOPHYSIOLOGY OF SPECIFIC PULMONARY ABNORMALITIES",
+   "pdfPage": 520,
+   "printedPage": "515",
+   "id": "ch43-h-pathophysiology-of-specific-pulmonary-abnormalities"
+  },
+  {
+   "level": 2,
+   "title": "Chronic Pulmonary Emphysema",
+   "pdfPage": 520,
+   "printedPage": "515",
+   "id": "ch43-h-chronic-pulmonary-emphysema"
+  },
+  {
+   "level": 2,
+   "title": "PNEUMONIA—LUNG INFLAMMATION AND FLUID IN ALVEOLI",
+   "pdfPage": 521,
+   "printedPage": "516",
+   "id": "ch43-h-pneumonia-lung-inflammation-and-fluid-in-alveoli"
+  },
+  {
+   "level": 2,
+   "title": "Atelectasis—Collapse of the Alveoli",
+   "pdfPage": 522,
+   "printedPage": "517",
+   "id": "ch43-h-atelectasis-collapse-of-the-alveoli"
+  },
+  {
+   "level": 3,
+   "title": "Airway Obstruction Causes Lung Collapse",
+   "pdfPage": 522,
+   "printedPage": "517",
+   "id": "ch43-h-airway-obstruction-causes-lung-collapse"
+  },
+  {
+   "level": 3,
+   "title": "Lack of “Surfactant” as a Cause of Lung Collapse",
+   "pdfPage": 522,
+   "printedPage": "517",
+   "id": "ch43-h-lack-of-surfactant-as-a-cause-of-lung-collapse"
+  },
+  {
+   "level": 2,
+   "title": "ASTHMA—SPASMODIC CONTRACTION OF SMOOTH MUSCLES IN BRONCHIOLES",
+   "pdfPage": 523,
+   "printedPage": "518",
+   "id": "ch43-h-asthma-spasmodic-contraction-of-smooth-muscles-in-bronchiole"
+  },
+  {
+   "level": 2,
+   "title": "Tuberculosis",
+   "pdfPage": 523,
+   "printedPage": "518",
+   "id": "ch43-h-tuberculosis"
+  },
+  {
+   "level": 1,
+   "title": "Hypoxia and Oxygen Therapy",
+   "pdfPage": 523,
+   "printedPage": "518",
+   "id": "ch43-h-hypoxia-and-oxygen-therapy"
+  },
+  {
+   "level": 2,
+   "title": "Inadequate Tissue Capability to Use Oxygen",
+   "pdfPage": 524,
+   "printedPage": "519",
+   "id": "ch43-h-inadequate-tissue-capability-to-use-oxygen"
+  },
+  {
+   "level": 2,
+   "title": "Effects of Hypoxia on the Body",
+   "pdfPage": 524,
+   "printedPage": "519",
+   "id": "ch43-h-effects-of-hypoxia-on-the-body"
+  },
+  {
+   "level": 2,
+   "title": "OXYGEN THERAPY IN DIFFERENT TYPES OF HYPOXIA",
+   "pdfPage": 524,
+   "printedPage": "519",
+   "id": "ch43-h-oxygen-therapy-in-different-types-of-hypoxia"
+  },
+  {
+   "level": 2,
+   "title": "Cyanosis",
+   "pdfPage": 524,
+   "printedPage": "519",
+   "id": "ch43-h-cyanosis"
+  },
+  {
+   "level": 1,
+   "title": "Hypercapnia—Excess Carbon Dioxide in the Body Fluids",
+   "pdfPage": 525,
+   "printedPage": "520",
+   "id": "ch43-h-hypercapnia-excess-carbon-dioxide-in-the-body-fluids"
+  },
+  {
+   "level": 2,
+   "title": "Dyspnea",
+   "pdfPage": 525,
+   "printedPage": "520",
+   "id": "ch43-h-dyspnea"
+  },
+  {
+   "level": 1,
+   "title": "Artificial Respiration",
+   "pdfPage": 525,
+   "printedPage": "520",
+   "id": "ch43-h-artificial-respiration"
+  },
+  {
+   "level": 2,
+   "title": "Resuscitator",
+   "pdfPage": 525,
+   "printedPage": "520",
+   "id": "ch43-h-resuscitator"
+  },
+  {
+   "level": 2,
+   "title": "Tank Respirator (the “Iron Lung”)",
+   "pdfPage": 525,
+   "printedPage": "520",
+   "id": "ch43-h-tank-respirator-the-iron-lung"
+  },
+  {
+   "level": 2,
+   "title": "Effect of the Resuscitator and the Tank Respirator on Venous Return",
+   "pdfPage": 526,
+   "printedPage": "521",
+   "id": "ch43-h-effect-of-the-resuscitator-and-the-tank-respirator-on-venous"
+  }
+ ],
+ "objectives": [
+  "Diagnostik usullar",
+  "Surunkali o'pka emfizemasi",
+  "Pnevmoniya",
+  "Atelektaz (alveolalar kollapsi)",
+  "Astma",
+  "Sil (tuberkulyoz)",
+  "Gipoksiya turlari va O₂ terapiyasi",
+  "Sianoz",
+  "Giperkapniya (organizm suyuqliklarida ortiqcha CO₂)",
+  "Hansirash (dispnoe)",
+  "Sun'iy nafas"
+ ],
+ "blocks": {
+  "simple": [
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Asosiy g'oya",
+    "id": "ch43-s-0-asosiy-goya",
+    "bid": "ch43-u0"
+   },
+   {
+    "type": "paragraph",
+    "text": "\"Nafas yetishmovchiligi\" degan tashxisning o'zi yetarli emas, chunki sabablari turlicha:",
+    "bid": "ch43-u1"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "ventilyatsiya yetishmasligi;",
+      "depth": 0
+     },
+     {
+      "text": "membrana orqali diffuziya buzilishi;",
+      "depth": 0
+     },
+     {
+      "text": "gazlarning qonda tashilishi buzilishi;",
+      "depth": 0
+     },
+     {
+      "text": "to'qimaning O₂ dan foydalana olmasligi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch43-u2"
+   },
+   {
+    "type": "paragraph",
+    "text": "Har bir sababning davosi boshqacha. Bob quyidagilarni ko'rib chiqadi: diagnostik usullar (qon gazlari, maksimal nafas chiqarish oqimi, FEV₁/FVC), asosiy kasalliklar (emfizema, pnevmoniya, atelektaz, astma, sil), gipoksiya turlari va O₂ terapiyasi qachon foyda berishi, sianoz, giperkapniya, hansirash va sun'iy nafas.",
+    "bid": "ch43-u3"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Diagnostik usullar",
+    "id": "ch43-s-4-diagnostik-usullar",
+    "bid": "ch43-u4"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "Qon gazlari va pH",
+    "id": "ch43-s-5-qon-gazlari-va-ph",
+    "bid": "ch43-u5"
+   },
+   {
+    "type": "paragraph",
+    "text": "Bir necha tomchi qondan bir daqiqa ichida o'lchanadi, ko'pincha uchala o'lchov bitta apparatda bajariladi:",
+    "bid": "ch43-u6"
+   },
+   {
+    "type": "table",
+    "header": [
+     "O'lchov",
+     "Usul"
+    ],
+    "rows": [
+     [
+      "**pH**",
+      "miniatyura **shisha elektrod**; kuchlanish pH ni bevosita ko'rsatadi"
+     ],
+     [
+      "**PCO₂**",
+      "shisha elektrod yupqa plastik membrana bilan o'ralgan, oraliqda ma'lum konsentratsiyali NaHCO₃ eritmasi. Qondan CO₂ eritmaga diffuziyalanadi. pH o'lchanadi va **Genderson-Gasselbax tenglamasi** (pH = 6,1 + log HCO₃⁻/CO₂) bilan CO₂ hisoblanadi"
+     ],
+     [
+      "**PO₂**",
+      "**polyarografiya**: ~1 mm² li manfiy platina elektrod, eritmaga nisbatan −0,6 V dan ko'p farq. O₂ elektrodda cho'kadi, tok O₂ konsentratsiyasiga proporsional. Oqsillar elektrodni \"zaharlamasligi\" uchun plastik membrana ajratib turadi"
+     ]
+    ],
+    "bid": "ch43-u7"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "Maksimal nafas chiqarish oqimi",
+    "id": "ch43-s-8-maksimal-nafas-chiqarish-oqimi",
+    "bid": "ch43-u8"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Kuchli nafas chiqarishda oqim ma'lum maksimumga yetadi va kuch qo'shilsa ham oshmaydi.",
+      "depth": 0
+     },
+     {
+      "text": "**Sababi:** ko'krakdan berilgan bosim alveolalarni ham, **bronxiolalarni ham** siqadi. Kuch ortsa, alveolyar bosim ortadi, lekin bronxiola kollapsi va qarshilik ham teng darajada ortadi.",
+      "depth": 0
+     },
+     {
+      "text": "**Hajmga bog'liqligi:**",
+      "depth": 0
+     },
+     {
+      "text": "Katta o'pka hajmida bronxlarni tashqaridan elastik tortish ochiq ushlaydi.",
+      "depth": 1
+     },
+     {
+      "text": "Hajm kichrayganda ular oson yopiladi va maksimal oqim pasayadi.",
+      "depth": 1
+     },
+     {
+      "text": "Sog'lom odamda maksimal oqim **>400 l/min**.",
+      "depth": 1
+     }
+    ],
+    "bid": "ch43-u9"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Oqim-hajm egri chizig'i anomaliyalari (rasm 43-2):**",
+    "bid": "ch43-u10"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-43-02",
+    "bid": "ch43-u11"
+   },
+   {
+    "type": "table",
+    "header": [
+     "",
+     "Siqilgan (restriktiv) o'pka",
+     "Havo yo'li obstruksiyasi"
+    ],
+    "rows": [
+     [
+      "TLC",
+      "↓",
+      "↑"
+     ],
+     [
+      "RV",
+      "↓",
+      "↑"
+     ],
+     [
+      "Maksimal oqim",
+      "normaga yetmaydi (o'pka to'liq kengaymaydi)",
+      "keskin ↓"
+     ],
+     [
+      "Sabablar",
+      "o'pka fibrozi (**sil, silikoz**), ko'krak qafasi deformatsiyasi (**kifoz, skolioz, fibroz plevrit**)",
+      "**astma**, emfizemaning ayrim bosqichlari"
+     ]
+    ],
+    "bid": "ch43-u12"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Obstruksiyada nafas chiqarish nafas olishdan qiyin bo'lishining sababi:**",
+    "bid": "ch43-u13"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Nafas chiqarish uchun zarur musbat ko'krak bosimi havo yo'llarini yopadi.",
+      "depth": 0
+     },
+     {
+      "text": "Nafas olishdagi manfiy plevral bosim esa ularni ochib tortadi.",
+      "depth": 0
+     },
+     {
+      "text": "Natijada havo oson kiradi, lekin **tutilib qoladi**. Oylar va yillar davomida TLC va RV ortadi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch43-u14"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "Majburiy tiriklik sig'imi (FVC) va FEV₁",
+    "id": "ch43-s-15-majburiy-tiriklik-sigimi-fvc-va-fev",
+    "bid": "ch43-u15"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Bajarilishi:** maksimal nafas olib (TLC gacha), spirometrga iloji boricha tez va to'liq nafas chiqariladi.",
+      "depth": 0
+     },
+     {
+      "text": "**FEV₁** birinchi soniyada chiqarilgan hajm.",
+      "depth": 0
+     },
+     {
+      "text": "**FEV₁/FVC%:** | Holat | Qiymat | |---|---| | Normal | **80%** | | Qisman obstruksiya | **47%** (FVC esa deyarli o'zgarmagan) | | Og'ir obstruksiya (o'tkir astma) | **<20%** |",
+      "depth": 0
+     }
+    ],
+    "bid": "ch43-u16"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Surunkali o'pka emfizemasi",
+    "id": "ch43-s-17-surunkali-opka-emfizemasi",
+    "bid": "ch43-u17"
+   },
+   {
+    "type": "paragraph",
+    "text": "\"Emfizema\" so'zma-so'z \"o'pkada ortiqcha havo\" degani. Amalda ko'p yillik **chekish** natijasida yuzaga keladigan murakkab obstruktiv va destruktiv jarayon tushuniladi.",
+    "bid": "ch43-u18"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Patogenez:**",
+    "bid": "ch43-u19"
+   },
+   {
+    "type": "list",
+    "ordered": true,
+    "items": [
+     {
+      "text": "**Surunkali infeksiya:** tutun va boshqa ta'sirlovchilar himoya mexanizmlarini buzadi.",
+      "depth": 0
+     },
+     {
+      "text": "**Nikotin** kipriklarni qisman falajlaydi, shilliq oson chiqmaydi.",
+      "depth": 1
+     },
+     {
+      "text": "Shilliq ajralishi ortadi.",
+      "depth": 1
+     },
+     {
+      "text": "**Alveolyar makrofaglar** tormozlanadi va infeksiyaga qarshi kurash susayadi.",
+      "depth": 1
+     },
+     {
+      "text": "Infeksiya, ortiqcha shilliq va bronxiola epiteliysining yallig'lanish shishi ko'plab mayda havo yo'llarida **surunkali obstruksiya** hosil qiladi.",
+      "depth": 0
+     },
+     {
+      "text": "Nafas chiqarish ayniqsa qiyinlashadi, havo alveolalarda tutilib, ularni haddan tashqari cho'zadi. Infeksiya bilan birga alveola devorlarining **50–80%** i yemiriladi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch43-u20"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Fiziologik oqibatlari:**",
+    "bid": "ch43-u21"
+   },
+   {
+    "type": "list",
+    "ordered": true,
+    "items": [
+     {
+      "text": "**Bronxiola obstruksiyasi:** havo yo'li qarshiligi va nafas ishi keskin ortadi, ayniqsa nafas chiqarishda (tashqi siqilish bronxiolalarni ham siqadi).",
+      "depth": 0
+     },
+     {
+      "text": "**Alveola devorlari yo'qolishi:** diffuziya sig'imi keskin kamayadi. Qonni oksigenlash va CO₂ ni chiqarish qobiliyati pasayadi.",
+      "depth": 0
+     },
+     {
+      "text": "**Notekis obstruksiya:**",
+      "depth": 0
+     },
+     {
+      "text": "ba'zi qismlarda **V̇A/Q̇ juda past** (fiziologik shunt, qon yomon aeratsiyalanadi);",
+      "depth": 1
+     },
+     {
+      "text": "boshqalarida **juda yuqori** (fiziologik o'lik bo'shliq, ventilyatsiya isrof).",
+      "depth": 1
+     },
+     {
+      "text": "Ikkalasi bitta o'pkada uchraydi.",
+      "depth": 1
+     },
+     {
+      "text": "**Kapillyarlar kamayishi:** o'pka tomir qarshiligi ortadi, **o'pka gipertenziyasi**, o'ng yurakka yuk va ko'pincha **o'ng yurak yetishmovchiligi**.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch43-u22"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Kechishi:** ko'p yillar davomida sekin rivojlanadi. Ko'p alveolalar gipoventilyatsiyasi va devorlar yo'qolishi **gipoksiya va giperkapniya** beradi. Yillab davom etadigan og'ir havo tanqisligi bilan kechadi va oxir-oqibat o'limga olib keladi; matn bu holatni \"chekish uchun yuqori bahu\" deb ataydi.",
+    "bid": "ch43-u23"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Pnevmoniya",
+    "id": "ch43-s-24-pnevmoniya",
+    "bid": "ch43-u24"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Ta'rif:** alveolalarning bir qismi yoki hammasi suyuqlik va qon hujayralari bilan to'lgan har qanday yallig'lanish holati.",
+      "depth": 0
+     },
+     {
+      "text": "**Bakterial pnevmoniya**ning eng ko'p qo'zg'atuvchisi **pnevmokokk**.",
+      "depth": 0
+     },
+     {
+      "text": "**Mexanizm:**",
+      "depth": 0
+     },
+     {
+      "text": "Alveolada infeksiya boshlanadi.",
+      "depth": 1
+     },
+     {
+      "text": "Membrana yallig'lanib, juda g'ovak bo'ladi; suyuqlik, eritrotsit va leykotsitlar alveolaga chiqadi.",
+      "depth": 1
+     },
+     {
+      "text": "Infeksiya alveoladan alveolaga tarqaladi.",
+      "depth": 1
+     },
+     {
+      "text": "Butun bo'laklar, hatto butun o'pka **\"konsolidatsiya\"**ga uchraydi, ya'ni suyuqlik va hujayra qoldiqlari bilan to'ladi.",
+      "depth": 1
+     },
+     {
+      "text": "**Gaz almashinuviga ta'siri:** (1) respirator membrana yuzasi kamayadi; (2) **V̇A/Q̇ kamayadi**. Natija: **gipoksemiya va giperkapniya**.",
+      "depth": 0
+     },
+     {
+      "text": "**Rasm 43-6 (bir o'pka zararlangan):**",
+      "depth": 0
+     },
+     {
+      "text": "O'pka arteriyasi qoni 60% to'yingan.",
+      "depth": 1
+     },
+     {
+      "text": "Aeratsiyalangan o'pkadan qaytgan qon 97%, zararlangan o'pkadan 60%.",
+      "depth": 1
+     },
+     {
+      "text": "Aortada ½ × 97 + ½ × 60, ya'ni **o'rtacha ~78%**: normadan ancha past.",
+      "depth": 1
+     }
+    ],
+    "bid": "ch43-u25"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-43-06",
+    "bid": "ch43-u26"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Atelektaz (alveolalar kollapsi)",
+    "id": "ch43-s-27-atelektaz-alveolalar-kollapsi",
+    "bid": "ch43-u27"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Sabablar:** (1) havo yo'lining to'liq obstruksiyasi; (2) **surfaktant yetishmasligi**.",
+    "bid": "ch43-u28"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "Obstruksiya tufayli atelektaz",
+    "id": "ch43-s-29-obstruksiya-tufayli-atelektaz",
+    "bid": "ch43-u29"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Ko'p mayda bronxlar shilliq bilan to'siladi yoki katta bronx katta shilliq tiqini, yot jism yoki o'sma bilan yopiladi.",
+      "depth": 0
+     },
+     {
+      "text": "To'siq ortidagi havo daqiqalar yoki soatlar ichida kapillyar qoni tomonidan so'riladi.",
+      "depth": 0
+     },
+     {
+      "text": "O'pka to'qimasi yumshoq bo'lsa, alveolalar shunchaki yopiladi.",
+      "depth": 1
+     },
+     {
+      "text": "O'pka fibroz tufayli qattiq bo'lsa, alveolada **juda manfiy bosim** hosil bo'ladi. U kapillyarlardan suyuqlik tortib, alveolalar **shish suyuqligi** bilan to'ladi. Butun o'pka atelektazida (**massiv kollaps**) deyarli doim shunday bo'ladi.",
+      "depth": 1
+     }
+    ],
+    "bid": "ch43-u30"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Qon oqimiga ta'siri (rasm 43-7):**",
+    "bid": "ch43-u31"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-43-07",
+    "bid": "ch43-u32"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Kollaps tomirlarni siqadi va buklaydi.",
+      "depth": 0
+     },
+     {
+      "text": "Gipoksiya qo'shimcha **gipoksik vazokonstriksiya** chaqiradi (39-bob).",
+      "depth": 0
+     },
+     {
+      "text": "Natijada qonning **5/6** qismi aeratsiyalangan o'pkadan, faqat **1/6** qismi kollapsga uchragan o'pkadan o'tadi.",
+      "depth": 0
+     },
+     {
+      "text": "Aortada 5/6 × 97 + 1/6 × 60 ≈ **91%**, ya'ni butun bir o'pka ventilyatsiyasi yo'qolgan bo'lsa ham desaturatsiya yengil.",
+      "depth": 0
+     },
+     {
+      "text": "**Pnevmoniya bilan solishtirish:** pnevmoniyada qon oqimi normal qolgani uchun aorta saturatsiyasi 78% gacha tushadi. Atelektazda vazokonstriksiya qonni sog'lom o'pkaga yo'naltirgani uchun 91%.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch43-u33"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "Surfaktant yetishmasligi",
+    "id": "ch43-s-34-surfaktant-yetishmasligi",
+    "bid": "ch43-u34"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Surfaktant sirt tarangligini **2–10 marta** kamaytiradi (38-bob).",
+      "depth": 0
+     },
+     {
+      "text": "**Gialin membrana kasalligi** (yangi tug'ilganlarning respirator distress sindromi), ko'pincha chala tug'ilganlarda: surfaktant keskin kam, sirt tarangligi bir necha marta yuqori. O'pka kollapsga yoki suyuqlik bilan to'lishga moyil bo'ladi. Katta qismlar atelektazga uchrasa, chaqaloq bo'g'ilib o'lishi mumkin.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch43-u35"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Astma",
+    "id": "ch43-s-36-astma",
+    "bid": "ch43-u36"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Ta'rif:** bronxiola silliq mushaklarining spastik qisqarishi; bronxiolalar qisman yopiladi va nafas juda qiyinlashadi.",
+      "depth": 0
+     },
+     {
+      "text": "**Tarqalishi:**",
+      "depth": 0
+     },
+     {
+      "text": "AQShda aholining **7–8%** i (ba'zi guruhlarda, masalan ispan bo'lmagan qora tanlilarda ko'proq).",
+      "depth": 1
+     },
+     {
+      "text": "Dunyoda JSST bahosi **>235 million**, ba'zi baholar **339 million** gacha.",
+      "depth": 1
+     },
+     {
+      "text": "**Sababi:** havodagi yot moddalarga bronxiolalarning qisqarish **gipersezuvchanligi**.",
+      "depth": 0
+     },
+     {
+      "text": "**30 yoshgacha** bemorlarning ~**70%** ida allergik, ayniqsa o'simlik changiga.",
+      "depth": 1
+     },
+     {
+      "text": "Keksalarda deyarli doim **noallergik ta'sirlovchilar** (masalan smog).",
+      "depth": 1
+     }
+    ],
+    "bid": "ch43-u37"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Allergik mexanizm:**",
+    "bid": "ch43-u38"
+   },
+   {
+    "type": "list",
+    "ordered": true,
+    "items": [
+     {
+      "text": "Allergik odam ko'p **IgE** hosil qiladi (35-bob). Bu antitanalar bronxiola va mayda bronxlar yonidagi o'pka interstitsiyasidagi **mast hujayralar**ga yopishgan.",
+      "depth": 0
+     },
+     {
+      "text": "Sezgir chang nafas bilan kiradi va mast hujayralardagi IgE bilan reaksiyaga kirishadi.",
+      "depth": 0
+     },
+     {
+      "text": "Mast hujayralar quyidagilarni chiqaradi: **gistamin**, **anafilaksiyaning sekin ta'sir qiluvchi moddasi (leykotrienlar)**, **eozinofil xemotaktik omili**, **bradikinin**.",
+      "depth": 0
+     },
+     {
+      "text": "Ularning, ayniqsa leykotrienlarning, birgalikdagi ta'siri:",
+      "depth": 0
+     },
+     {
+      "text": "mayda bronxiolalar devorida **mahalliy shish** va bo'shliqqa **quyuq shilliq** ajralishi;",
+      "depth": 1
+     },
+     {
+      "text": "**bronxiola silliq mushagi spazmi**.",
+      "depth": 1
+     },
+     {
+      "text": "Havo yo'li qarshiligi keskin ortadi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch43-u39"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Nafas chiqarish qiyin bo'lishining sababi:** nafas chiqarish kuchi bronxiolalarni tashqaridan siqadi. Ular allaqachon qisman yopiq bo'lgani uchun obstruksiya ayniqsa og'irlashadi. Bemor ko'pincha yetarlicha nafas oladi, lekin chiqara olmaydi.",
+    "bid": "ch43-u40"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Klinik o'lchovlar:** maksimal nafas chiqarish tezligi keskin kamaygan; vaqt bo'yicha nafas chiqarish hajmi (FEV₁) kamaygan; hansirash (\"havo tanqisligi\").",
+    "bid": "ch43-u41"
+   },
+   {
+    "type": "paragraph",
+    "text": "**O'tkir xurujda** FRC va RV keskin ortadi. **Yillar davomida** ko'krak qafasi doimiy kengayadi (**\"bochkasimon ko'krak\"**), FRC va RV doimiy ortgan holda qoladi.",
+    "bid": "ch43-u42"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Sil (tuberkulyoz)",
+    "id": "ch43-s-43-sil-tuberkulyoz",
+    "bid": "ch43-u43"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Mexanizm:** sil tayoqchasi o'ziga xos to'qima reaksiyasini chaqiradi:",
+      "depth": 0
+     },
+     {
+      "text": "infeksiyalangan to'qimaga makrofaglar kiradi;",
+      "depth": 1
+     },
+     {
+      "text": "o'choq fibroz to'qima bilan **\"devor bilan o'raladi\"** va **tuberkula** hosil bo'ladi (34-bob). Bu himoya jarayoni, tarqalishni cheklaydi.",
+      "depth": 1
+     },
+     {
+      "text": "Davolanmagan bemorlarning ~**3%** ida o'rash muvaffaqiyatsiz bo'ladi. Tayoqchalar butun o'pkaga tarqalib, to'qimani kuchli yemiradi va katta **abssess bo'shliqlari (kavernalar)** hosil qiladi.",
+      "depth": 0
+     },
+     {
+      "text": "**Kech bosqichda** ko'p fibroz sohalar va funksional to'qima kamayishi kuzatiladi. Oqibatlari:",
+      "depth": 0
+     },
+     {
+      "text": "Nafas mushaklari ishi ortadi; tiriklik sig'imi va nafas sig'imi kamayadi (restriktiv).",
+      "depth": 1
+     },
+     {
+      "text": "Membrana yuzasi kamayadi va qalinligi ortadi, diffuziya sig'imi pasayadi.",
+      "depth": 1
+     },
+     {
+      "text": "Ventilyatsiya-perfuziya nisbati buziladi.",
+      "depth": 1
+     }
+    ],
+    "bid": "ch43-u44"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Gipoksiya turlari va O₂ terapiyasi",
+    "id": "ch43-s-45-gipoksiya-turlari-va-o-terapiyasi",
+    "bid": "ch43-u45"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "Gipoksiya tasnifi",
+    "id": "ch43-s-46-gipoksiya-tasnifi",
+    "bid": "ch43-u46"
+   },
+   {
+    "type": "list",
+    "ordered": true,
+    "items": [
+     {
+      "text": "**O'pkada qonning yetarli oksigenlanmasligi (tashqi sabablar):**",
+      "depth": 0
+     },
+     {
+      "text": "a. atmosferada O₂ yetishmasligi;",
+      "depth": 1
+     },
+     {
+      "text": "b. gipoventilyatsiya (nerv-mushak kasalliklari).",
+      "depth": 1
+     },
+     {
+      "text": "**O'pka kasalligi:**",
+      "depth": 0
+     },
+     {
+      "text": "a. havo yo'li qarshiligi ortishi yoki kompliansi kamayishi tufayli gipoventilyatsiya;",
+      "depth": 1
+     },
+     {
+      "text": "b. V̇A/Q̇ buzilishi (fiziologik o'lik bo'shliq yoki shunt ortishi);",
+      "depth": 1
+     },
+     {
+      "text": "c. respirator membrana diffuziyasining kamayishi.",
+      "depth": 1
+     },
+     {
+      "text": "**Venoz-arterial (o'ngdan chapga) yurak shuntlari.**",
+      "depth": 0
+     },
+     {
+      "text": "**To'qimalarga O₂ ning qon bilan yetarli tashilmasligi:**",
+      "depth": 0
+     },
+     {
+      "text": "a. anemiya yoki anomal gemoglobin;",
+      "depth": 1
+     },
+     {
+      "text": "b. umumiy qon aylanish yetishmovchiligi;",
+      "depth": 1
+     },
+     {
+      "text": "c. mahalliy qon aylanish yetishmovchiligi (periferik, miya, koronar tomirlar);",
+      "depth": 1
+     },
+     {
+      "text": "d. to'qima shishi.",
+      "depth": 1
+     },
+     {
+      "text": "**To'qimaning O₂ dan foydalana olmasligi:**",
+      "depth": 0
+     },
+     {
+      "text": "a. hujayra oksidlanish fermentlarining zaharlanishi;",
+      "depth": 1
+     },
+     {
+      "text": "b. toksiklik, vitamin yetishmovchiligi va boshqalar tufayli metabolik quvvat pasayishi.",
+      "depth": 1
+     }
+    ],
+    "bid": "ch43-u47"
+   },
+   {
+    "type": "paragraph",
+    "text": "**To'qimaning O₂ dan foydalana olmasligi:**",
+    "bid": "ch43-u48"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Klassik misol **sianid bilan zaharlanish**: sianid **sitoxrom oksidaza**ni bloklaydi. O₂ yetarli bo'lsa ham to'qima undan foydalana olmaydi.",
+      "depth": 0
+     },
+     {
+      "text": "Oksidlanish fermentlari yetishmasligi ham shunday ta'sir qiladi.",
+      "depth": 0
+     },
+     {
+      "text": "**Beriberi** (B vitamini yetishmovchiligi): to'qima O₂ dan foydalanishi va CO₂ hosil qilishining bir necha bosqichi buziladi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch43-u49"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Gipoksiyaning ta'siri:** og'ir bo'lsa, butun tanada hujayra o'limi. Yengilroq bo'lsa: (1) aqliy faoliyat susayadi, komagacha borishi mumkin; (2) mushaklarning ish qobiliyati pasayadi (44-bob).",
+    "bid": "ch43-u50"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "O₂ terapiyasi",
+    "id": "ch43-s-51-o-terapiyasi",
+    "bid": "ch43-u51"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Berish usullari:** (1) bemorning boshi O₂ bilan boyitilgan havoli **\"chodir\"**ga qo'yiladi; (2) **niqob** orqali toza yoki yuqori konsentratsiyali O₂; (3) **burun ichi naychasi**.",
+    "bid": "ch43-u52"
+   },
+   {
+    "type": "table",
+    "header": [
+     "Gipoksiya turi",
+     "O₂ terapiyasining samarasi"
+    ],
+    "rows": [
+     [
+      "**Atmosfera gipoksiyasi**",
+      "**100% samarali**: nafas olinadigan gazdagi O₂ kamligini to'liq tuzatadi"
+     ],
+     [
+      "**Gipoventilyatsiya**",
+      "juda foydali: 100% O₂ bilan har nafasda alveolaga **5 marta** ko'p O₂ kiradi. Lekin **ortiqcha CO₂ ga foyda yo'q**"
+     ],
+     [
+      "**Diffuziya buzilishi**",
+      "juda foydali: alveolyar PO₂ ~100 dan **600 mm Hg** gacha ko'tariladi, diffuziya gradiyenti 60 dan **560 mm Hg** gacha (>800%) ortadi. O'pka shishida (rasm 43-8) qon O₂ ni **3–4 marta** tezroq oladi"
+     ],
+     [
+      "**Anemiya, anomal Hb, qon aylanish yetishmovchiligi, fiziologik shunt**",
+      "kam foyda: alveolada O₂ normal, muammo tashishda. Biroq erigan holda **7–30%** qo'shimcha O₂ tashilishi mumkin, bu hayot va o'lim o'rtasidagi farq bo'lishi mumkin"
+     ],
+     [
+      "**To'qima O₂ dan foydalana olmasligi** (sianid va boshqalar)",
+      "**foyda yo'q**: O₂ yetkaziladi, lekin fermentlar ishlatolmaydi"
+     ]
+    ],
+    "bid": "ch43-u53"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-43-08",
+    "bid": "ch43-u54"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Sianoz",
+    "id": "ch43-s-55-sianoz",
+    "bid": "ch43-u55"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Ta'rif:** terining ko'karishi. Teri tomirlarida, ayniqsa kapillyarlarda, ko'p **deoksigenlangan gemoglobin** bo'ladi. U to'q ko'k-binafsha rang beradi.",
+      "depth": 0
+     },
+     {
+      "text": "**Chegara:** arterial qonda **>5 g/100 ml** deoksigenlangan Hb.",
+      "depth": 0
+     },
+     {
+      "text": "**Anemiyada** deyarli hech qachon bo'lmaydi: 100 ml qonda 5 g deoksigenlanadigan Hb yo'q.",
+      "depth": 0
+     },
+     {
+      "text": "**Polisitemiya vera**da tez-tez uchraydi: Hb juda ko'p, hatto normal sharoitda ham.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch43-u56"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Giperkapniya (organizm suyuqliklarida ortiqcha CO₂)",
+    "id": "ch43-s-57-giperkapniya-organizm-suyuqliklarida-ortiqcha-co",
+    "bid": "ch43-u57"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Gipoksiya bilan birga qachon keladi:**",
+    "bid": "ch43-u58"
+   },
+   {
+    "type": "table",
+    "header": [
+     "Gipoksiya sababi",
+     "Giperkapniya"
+    ],
+    "rows": [
+     [
+      "Havoda O₂ kam, Hb kam, fermentlar zaharlanishi",
+      "**yo'q** (faqat O₂ mavjudligi yoki ishlatilishi buzilgan)"
+     ],
+     [
+      "Diffuziya buzilishi (membrana yoki to'qima)",
+      "odatda **jiddiy emas**: CO₂ 20 marta tez diffuziyalanadi. Giperkapniya boshlansa, ventilyatsiyani qo'zg'atib uni tuzatadi (lekin gipoksiyani tuzatmaydi)"
+     ],
+     [
+      "**Gipoventilyatsiya**",
+      "**ha**: CO₂ almashinuvi O₂ niki kabi buziladi"
+     ],
+     [
+      "**Qon aylanish yetishmovchiligi**",
+      "to'qima giperkapniyasi bor, lekin gipoksiyadan kam: qonning CO₂ tashish sig'imi O₂ nikidan **3 martadan** ko'p"
+     ]
+    ],
+    "bid": "ch43-u59"
+   },
+   {
+    "type": "paragraph",
+    "text": "**PCO₂ darajalari:**",
+    "bid": "ch43-u60"
+   },
+   {
+    "type": "table",
+    "header": [
+     "Alveolyar PCO₂",
+     "Holat"
+    ],
+    "rows": [
+     [
+      "60–75 mm Hg",
+      "odam maksimal tez va chuqur nafas oladi, **og'ir hansirash**"
+     ],
+     [
+      "80–100 mm Hg",
+      "**letargiya**, yarim koma"
+     ],
+     [
+      "120–150 mm Hg",
+      "**anesteziya va o'lim**"
+     ]
+    ],
+    "bid": "ch43-u61"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Ayovsiz doira:** yuqori PCO₂ endi nafasni qo'zg'atmaydi, aksincha **tormozlaydi**. CO₂ ortadi, nafas kamayadi, yana CO₂ ortadi va tez nafas o'limiga olib keladi.",
+    "bid": "ch43-u62"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Hansirash (dispnoe)",
+    "id": "ch43-s-63-hansirash-dispnoe",
+    "bid": "ch43-u63"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Ta'rif:** havoga ehtiyojni qondirish uchun yetarlicha ventilyatsiya qila olmaslik bilan bog'liq ruhiy azob, \"havo tanqisligi\".",
+      "depth": 0
+     },
+     {
+      "text": "**Uch omil:**",
+      "depth": 0
+     },
+     {
+      "text": "**Nafas gazlari anomaliyasi**, ayniqsa **giperkapniya**; gipoksiya ancha kamroq.",
+      "depth": 1
+     },
+     {
+      "text": "**Nafas mushaklarining ishi:** gazlar normal bo'lsa ham, buning uchun kuchli nafas olish kerak bo'lsa, hansirash seziladi.",
+      "depth": 1
+     },
+     {
+      "text": "**Ruhiy holat.**",
+      "depth": 1
+     },
+     {
+      "text": "Ko'pchilik 1–2 daqiqa nafasni ushlagach og'ir hansirash sezadi. Mashq qilganlar nafas olish istagini >10 daqiqa bosa oladi (42-bob).",
+      "depth": 0
+     },
+     {
+      "text": "**Neyrogen (emotsional) dispnoe:** nafas funksiyalari va gazlar normal. Nafas haqida o'ylashning o'zi biroz chuqurroq nafas olishga undaydi. Kichik yoki gavjum xonaga kirganda havo yetmasligidan qo'rqadigan odamlarda kuchayadi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch43-u64"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Sun'iy nafas",
+    "id": "ch43-s-65-suniy-nafas",
+    "bid": "ch43-u65"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "Reanimator (resuscitator)",
+    "id": "ch43-s-66-reanimator-resuscitator",
+    "bid": "ch43-u66"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Tuzilishi:** O₂ yoki havo ballon; vaqti-vaqti bilan **musbat bosim** (ba'zi apparatlarda manfiy ham) beruvchi mexanizm; yuz niqobi yoki **endotraxeal naycha** ulagichi.",
+      "depth": 0
+     },
+     {
+      "text": "Musbat bosim davrida havo o'pkaga haydaladi, qolgan davrda o'pkadan passiv chiqadi.",
+      "depth": 0
+     },
+     {
+      "text": "Eski apparatlar ortiqcha bosim bilan o'pkani shikastlagan. Hozir bosim chegarasi sozlanadi: normal o'pkada **12–15 sm H₂O**, komplians past o'pkada yuqoriroq.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch43-u67"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "Bak respiratori (\"temir o'pka\")",
+    "id": "ch43-s-68-bak-respiratori-temir-opka",
+    "bid": "ch43-u68"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Bemor tanasi bakda, boshi havo o'tkazmaydigan yumshoq yoqa orqali tashqarida.",
+      "depth": 0
+     },
+     {
+      "text": "Motorli **charm diafragma** bak ichidagi bosimni o'zgartiradi:",
+      "depth": 0
+     },
+     {
+      "text": "ichkariga harakatlanganda **musbat bosim**, nafas chiqarish (0 dan +5 sm H₂O);",
+      "depth": 1
+     },
+     {
+      "text": "tashqariga harakatlanganda **manfiy bosim**, nafas olish (−10 dan −20 sm H₂O).",
+      "depth": 1
+     },
+     {
+      "text": "Zamonaviy tibbiyotda musbat bosimli mexanik ventilyatorlar tufayli **deyarli eskirgan**.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch43-u69"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "Venoz qaytishga ta'siri",
+    "id": "ch43-s-70-venoz-qaytishga-tasiri",
+    "bid": "ch43-u70"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Ikkala usulda ham o'pka ichidagi bosim tanadagi boshqa joylardan yuqori bo'ladi. Periferik venalardan ko'krak va yurakka qon oqishi qiyinlashadi.",
+      "depth": 0
+     },
+     {
+      "text": "Ortiqcha bosim **yurak minutlik hajmini** kamaytiradi, ba'zan o'lim darajasigacha.",
+      "depth": 0
+     },
+     {
+      "text": "O'pkada **>30 mm Hg** musbat bosim bir necha daqiqadan ortiq davom etsa, venoz qaytish yetarli bo'lmagani sababli o'limga olib kelishi mumkin.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch43-u71"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Klinik nuqtalar",
+    "id": "ch43-s-72-klinik-nuqtalar",
+    "bid": "ch43-u72"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**FEV₁/FVC <80%**: obstruksiya (astma, SOO'K). **TLC va RV kamaygan**: restriksiya (fibroz, kifoskolioz).",
+      "depth": 0
+     },
+     {
+      "text": "**Emfizema**: shunt va o'lik bo'shliq birga; o'pka gipertenziyasi va o'ng yurak yetishmovchiligi.",
+      "depth": 0
+     },
+     {
+      "text": "**Pnevmoniya** (saturatsiya ~78%) va **atelektaz** (~91%) farqi gipoksik vazokonstriksiyaga bog'liq.",
+      "depth": 0
+     },
+     {
+      "text": "**Astmada** nafas chiqarish qiyin; asosiy mediatorlar leykotrienlar.",
+      "depth": 0
+     },
+     {
+      "text": "**Gipoventilyatsiyada O₂ berish**: gipoksiyani tuzatadi, giperkapniyani tuzatmaydi.",
+      "depth": 0
+     },
+     {
+      "text": "**Sianid zaharlanishi**da O₂ befoyda.",
+      "depth": 0
+     },
+     {
+      "text": "**Anemiyada sianoz yo'q**, polisitemiyada bor.",
+      "depth": 0
+     },
+     {
+      "text": "**PCO₂ >120 mm Hg**: CO₂ narkozi va o'lim.",
+      "depth": 0
+     },
+     {
+      "text": "**Mexanik ventilyatsiya**: yuqori musbat bosim yurak minutlik hajmini kamaytiradi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch43-u73"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Bog'liqlik",
+    "id": "ch43-s-74-bogliqlik",
+    "bid": "ch43-u74"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**31-bob:** Genderson-Gasselbax, kislota-ishqor.",
+      "depth": 0
+     },
+     {
+      "text": "**34-bob:** sil, makrofaglar.",
+      "depth": 0
+     },
+     {
+      "text": "**35-bob:** IgE, mast hujayralar.",
+      "depth": 0
+     },
+     {
+      "text": "**38-bob:** spirometriya, surfaktant, havo yo'li qarshiligi.",
+      "depth": 0
+     },
+     {
+      "text": "**39-bob:** gipoksik vazokonstriksiya, o'pka shishi.",
+      "depth": 0
+     },
+     {
+      "text": "**40-bob:** diffuziya, V/Q, shunt va o'lik bo'shliq.",
+      "depth": 0
+     },
+     {
+      "text": "**41-bob:** gemoglobin, CO va O₂ tashilishi.",
+      "depth": 0
+     },
+     {
+      "text": "**42-bob:** nafas boshqaruvi, CO₂ ta'siri.",
+      "depth": 0
+     },
+     {
+      "text": "**44-bob:** balandlik gipoksiyasi.",
+      "depth": 0
+     },
+     {
+      "text": "**33-bob:** anemiya, polisitemiya.",
+      "depth": 0
+     },
+     {
+      "text": "**21-bob:** venoz qaytish.",
+      "depth": 0
+     },
+     {
+      "text": "**84-bob:** chaqaloq RDS.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch43-u75"
+   }
+  ],
+  "full": [
+   {
+    "type": "paragraph",
+    "text": "Diagnosis and treatment of most respiratory disorders depend heavily on understanding the basic physiological principles of respiration and gas exchange. Some respira tory diseases result from inadequate ventilation. Others are caused by abnormalities of diffusion through the pul monary membrane or abnormal blood transport of gases between the lungs and tissues. Therapy is often entirely different for these diseases, so it is not satisfactory simply to make a diagnosis of “respiratory insufficiency.”",
+    "pdfPage": 518,
+    "bid": "ch43-f0"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "USEFUL METHODS FOR STUDYING RESPIRATORY ABNORMALITIES",
+    "pdfPage": 518,
+    "id": "ch43-h-useful-methods-for-studying-respiratory-abnormalities",
+    "bid": "ch43-f1"
+   },
+   {
+    "type": "paragraph",
+    "text": "In the previous few chapters, we discussed several meth ods for studying respiratory abnormalities, including measuring vital capacity, tidal air, functional residual capacity, dead space, physiologic shunt, and physiological dead space. This array of measurements is only part of the armamentarium of the clinical pulmonary physiologist. Some other tools are described here.",
+    "pdfPage": 518,
+    "bid": "ch43-f2"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "STUDY OF BLOOD GASES AND BLOOD pH",
+    "pdfPage": 518,
+    "id": "ch43-h-study-of-blood-gases-and-blood-ph",
+    "bid": "ch43-f3"
+   },
+   {
+    "type": "paragraph",
+    "text": "Among the most fundamental of all tests of pulmonary performance are determinations of the blood partial pres sure of oxygen (Po2), carbon dioxide (CO2), and pH. It is often important to make these measurements rapidly as an aid in determining appropriate therapy for acute respi ratory distress or acute abnormalities of acid–base bal ance. The following simple and rapid methods have been developed to make these measurements within minutes, using no more than a few drops of blood.",
+    "pdfPage": 518,
+    "bid": "ch43-f4"
+   },
+   {
+    "type": "paragraph",
+    "text": "Blood pH is measured us ing a glass pH electrode of the type commonly used in chemical laboratories. However, the electrodes used for this purpose are miniaturized. The voltage generated by the glass electrode is a direct measure of pH and is gener ally read directly from a voltmeter scale, or it is recorded on a chart.",
+    "pdfPage": 518,
+    "lead": "Determination of Blood pH.",
+    "anchor": "ch43-h-determination-of-blood-ph",
+    "bid": "ch43-f5"
+   },
+   {
+    "type": "paragraph",
+    "text": "A glass electrode pH me ter can also be used to determine blood CO2. When a weak solution of sodium bicarbonate is exposed to CO2 gas, the CO2 dissolves in the solution until an equilib rium state is reached. In this equilibrium state, the pH of the solution is a function of the CO2 and bicarbo nate ion (HCO3−) concentrations in accordance with the Henderson-Hasselbalch equation explained in Chapter 31:",
+    "pdfPage": 518,
+    "lead": "Determination of Blood CO2.",
+    "anchor": "ch43-h-determination-of-blood-co2",
+    "bid": "ch43-f6"
+   },
+   {
+    "type": "paragraph",
+    "text": "When the glass electrode is used to measure CO2 in blood, a miniature glass electrode is surrounded by a thin plastic membrane. A solution of sodium bicarbon ate of known concentration is in the space between the electrode and plastic membrane. Blood is then super fused onto the outer surface of the plastic membrane, allowing CO2 to diffuse from the blood into the bicar bonate solution. Only a drop or so of blood is required. Next, the pH is measured by the glass electrode, and the CO2 is calculated using the formula that was previously provided.",
+    "pdfPage": 518,
+    "bid": "ch43-f7"
+   },
+   {
+    "type": "paragraph",
+    "text": "The concentration of O2 in a fluid can be measured by a technique called _po larography_. Electric current is made to flow between a small negative electrode and the solution. If the volt age of the electrode is more than −0.6 volt different from the voltage of the solution, O2 will deposit on the electrode. Furthermore, the rate of current flow through the electrode will be directly proportional to the concentration of O2 (and therefore to PO2 as well). In practice, a negative platinum electrode with a sur face area of about 1 square millimeter is used, and this electrode is separated from the blood by a thin plastic membrane that allows diffusion of O2 but not diffusion of proteins or other substances that will “poison” the electrode.",
+    "pdfPage": 518,
+    "lead": "Determination of Blood Po2.",
+    "anchor": "ch43-h-determination-of-blood-po2",
+    "bid": "ch43-f8"
+   },
+   {
+    "type": "paragraph",
+    "text": "Often, all three of the measuring devices for pH, CO2, and Po2 are built into the same apparatus, and all these measurements can be made within a minute or so using a single droplet-sized sample of blood. Thus, changes in the blood gas levels and pH can be followed almost moment by moment at the bedside.",
+    "pdfPage": 518,
+    "bid": "ch43-f9"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "MEASUREMENT OF MAXIMUM EXPIRATORY FLOW",
+    "pdfPage": 519,
+    "id": "ch43-h-measurement-of-maximum-expiratory-flow",
+    "bid": "ch43-f10"
+   },
+   {
+    "type": "paragraph",
+    "text": "In many respiratory diseases, particularly in asthma, the resistance to airflow becomes especially great during expiration, sometimes causing tremendous difficulty in breathing. This condition has led to the concept called _maximum expiratory flow_, which can be defined as fol lows. When a person expires with great force, the expi ratory airflow reaches a maximum flow beyond which the flow cannot be increased any more, even with greatly increased additional force. This is the maximum expira tory flow. The maximum expiratory flow is much greater when the lungs are filled with a large volume of air than when they are almost empty. These principles can be understood by referring to **Figure 43-1**.",
+    "pdfPage": 519,
+    "bid": "ch43-f11"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-43-01",
+    "bid": "ch43-f12"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 43-1A** shows the effect of increased pressure applied to the outsides of the alveoli and air passageways caused by compressing the chest cage. The arrows indi cate that the same pressure compresses the outsides of the alveoli and bronchioles. Therefore, not only does this pressure force air from the alveoli toward the bronchioles, but it also tends to collapse the bronchioles at the same time, which will oppose movement of air to the exterior. Once the bronchioles have almost completely collapsed, further expiratory force can still increase the alveolar pres sure greatly, but it also increases the degree of bronchiolar collapse and airway resistance by an equal amount, thus preventing further increase in flow. Therefore, beyond a critical degree of expiratory force, a maximum expiratory flow has been reached.",
+    "pdfPage": 519,
+    "bid": "ch43-f13"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 43-1B** shows the effect of different degrees of lung collapse (and therefore also of bronchiolar collapse)",
+    "pdfPage": 519,
+    "bid": "ch43-f14"
+   },
+   {
+    "type": "paragraph",
+    "text": "on the maximum expiratory flow. The curve recorded in this section shows the maximum expiratory flow at all levels of lung volume after a healthy person first inhales as much air as possible and then expires with maximum expiratory effort until he or she can expire at no greater rate. Note that the person quickly reaches a _maximum expiratory airflow_ of more than 400 L/min. However, regardless of how much additional expiratory effort the person exerts, this is still the maximum flow rate that he or she can achieve.",
+    "pdfPage": 519,
+    "bid": "ch43-f15"
+   },
+   {
+    "type": "paragraph",
+    "text": "Note also that as the lung volume becomes smaller, the maximum expiratory flow rate also becomes less. The main reason for this phenomenon is that in the enlarged lung, the bronchi and bronchioles are held open partially by way of elastic pull on their outsides by lung structural elements. However, as the lung becomes smaller, these structures are relaxed so that the bronchi and bronchioles are collapsed more easily by external chest pressure, thus progressively reducing the maximum expiratory flow rate as well.",
+    "pdfPage": 519,
+    "bid": "ch43-f16"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 43-2** shows the normal maximum expiratory flow-volume curve, along with two additional flow-volume curves recorded in two types of lung dis eases: constricted lungs and partial airway obstruction. Note that the _constricted lungs_ have both reduced total lung capacity (TLC) and reduced residual volume (RV). Furthermore, because the lung cannot expand to a nor mal maximum volume, even with the greatest possible ex piratory effort, the maximal expiratory flow cannot rise to equal that of the normal curve. Constricted lung diseases include fibrotic diseases of the lung, such as _tuberculosis_ and _silicosis_, and diseases that constrict the chest cage, such as _kyphosis, scoliosis_, and _fibrotic pleurisy_.",
+    "pdfPage": 519,
+    "lead": "Abnormalities of the Maximum Expiratory Flow-Volume Curve.",
+    "anchor": "ch43-h-abnormalities-of-the-maximum-expiratory-flow-volume-curve",
+    "bid": "ch43-f17"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-43-02",
+    "bid": "ch43-f18"
+   },
+   {
+    "type": "paragraph",
+    "text": "In diseases with _airway obstruction_, it is usually much more difficult to expire than to inspire because the closing tendency of the airways is greatly increased by the extra positive pressure required in the chest to cause expiration. By contrast, the extra negative pleural pressure that occurs during inspiration actually “pulls” the airways open at the same time that it expands the alveoli. Therefore, air tends to enter the lung easily but then becomes trapped in the lungs. Over a period of months or years, this effect increases both the TLC and RV, as shown by the green curve in **Figure 43-2**. Also, because of the obstruction of the airways, and because they collapse more easily than normal airways, the maximum expiratory flow rate is greatly reduced.",
+    "pdfPage": 519,
+    "pdfPageEnd": 520,
+    "bid": "ch43-f19"
+   },
+   {
+    "type": "paragraph",
+    "text": "The classic disease that causes severe airway obstruc tion is _asthma_. Serious airway obstruction also occurs in some stages of _emphysema_.",
+    "pdfPage": 520,
+    "bid": "ch43-f20"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "FORCED EXPIRATORY VITAL CAPACITY AND FORCED EXPIRATORY VOLUME",
+    "pdfPage": 520,
+    "id": "ch43-h-forced-expiratory-vital-capacity-and-forced-expiratory-volum",
+    "bid": "ch43-f21"
+   },
+   {
+    "type": "paragraph",
+    "text": "Another useful clinical pulmonary test, and one that is also easy to perform, is to record the _forced expiratory vital capacity_ (FVC) on a spirometer. Such a recording is shown in **Figure 43-3A** for a person with normal lungs and in **Figure 43-3B** for a person with partial airway obstruction. In performing the FVC maneuver, the per son first inspires maximally to the TLC and then exhales into the spirometer with maximum expiratory effort as rapidly and as completely as possible. The total distance of the downslope of the lung volume record represents the FVC, as shown in the figure.",
+    "pdfPage": 520,
+    "bid": "ch43-f22"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-43-03",
+    "bid": "ch43-f23"
+   },
+   {
+    "type": "paragraph",
+    "text": "Now, study the difference between the two records for (1) normal lungs and (2) _partial_ airway obstruction. The total volume changes of the FVCs are not greatly differ ent, indicating only a moderate difference in basic lung volumes in the two persons. There is, however, a _major difference in the amounts of air that these persons can expire each second_, especially during the first second. Therefore, it is customary to compare the _recorded forced expiratory volume during the first second_ (FEV1) with the normal value. In the normal person (see **Figure 43-3A**), the percentage of the FVC that is expired in the first sec ond divided by the total FVC (FEV1/FVC%) is 80%. How ever, note in **Figure 43-3B** that with airway obstruction, this value decreases to only 47%. In persons with serious airway obstruction, as often occurs with acute asthma, this value can decrease to less than 20%.",
+    "pdfPage": 520,
+    "bid": "ch43-f24"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "PATHOPHYSIOLOGY OF SPECIFIC PULMONARY ABNORMALITIES",
+    "pdfPage": 520,
+    "id": "ch43-h-pathophysiology-of-specific-pulmonary-abnormalities",
+    "bid": "ch43-f25"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "CHRONIC PULMONARY EMPHYSEMA",
+    "pdfPage": 520,
+    "id": "ch43-h-chronic-pulmonary-emphysema",
+    "bid": "ch43-f26"
+   },
+   {
+    "type": "paragraph",
+    "text": "The term _pulmonary emphysema_ literally means excess air in the lungs. However, this term is usually used to describe a complex obstructive and destructive process of the lungs caused by many years of smoking. It results from the following major pathophysiological changes in the lungs: 1. \u0007_Chronic infection,_ caused by inhaling smoke or other substances that irritate the bronchi and bron chioles. The chronic infection seriously deranges the normal protective mechanisms of the airways, including partial paralysis of the cilia of the res piratory epithelium, an effect caused by nicotine. As a result, mucus cannot be moved easily out of the passageways. Also, stimulation of excess mu cus secretion occurs, which further exacerbates the condition. There is also inhibition of the alveolar macrophages, so they become less effective in com bating infection. 2. \u0007The infection, excess mucus, and inflammatory edema of the bronchiolar epithelium together cause _chronic obstruction_ of many of the smaller airways. 3. \u0007The obstruction of the airways makes it especially difficult to expire, thus causing _entrapment of air in the alveoli_ and overstretching them. This effect, combined with the lung infection, causes _marked destruction of as much as 50% to 80% of the alveolar walls._ Therefore, the final picture of the emphyse matous lung is that shown in **Figure 43-4** (_top_) and **43-5.** The physiological effects of chronic emphysema are variable, depending on the severity of the disease and the relative degrees of bronchiolar obstruction versus lung parenchymal destruction. The different abnormalities include the following: 1. \u0007The bronchiolar obstruction _increases airway resist ance_ and results in greatly increased work of breath ing. It is especially difficult for the person to move air through the bronchioles during expiration be cause the compressive force on the outside of the lung not only compresses the alveoli but also com presses the bronchioles, which further increases their resistance during expiration. 2. \u0007The marked loss of alveolar walls greatly _decreases the diffusing capacity_ of the lung. This reduces the ability of the lungs to oxygenate the blood and re move CO2 from the blood. 3. \u0007The obstructive process is frequently much worse in some parts of the lungs than in other parts, so some portions of the lungs are well ventilated, whereas other portions are poorly ventilated. This situa tion often causes _extremely abnormal ventilationperfusion ratios,_ with a very low",
+    "pdfPage": 520,
+    "pdfPageEnd": 521,
+    "bid": "ch43-f27"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-43-04",
+    "bid": "ch43-f28"
+   },
+   {
+    "type": "paragraph",
+    "text": ". Q in some parts _(physiological shunt),_ resulting in poor aera tion of the blood, and a very high",
+    "pdfPage": 521,
+    "bid": "ch43-f29"
+   },
+   {
+    "type": "paragraph",
+    "text": ". Q in other parts _(physiological dead space),_ resulting in wasted ventilation, with both effects occurring in the same lungs. 4. \u0007Loss of large portions of the alveolar walls also decreases the number of pulmonary capillaries through which blood can pass. As a result, the pul monary vascular resistance often increases marked ly, causing _pulmonary hypertension,_ which in turn overloads the right side of the heart and frequently causes _right-sided heart failure._ Chronic emphysema usually progresses slowly over many years. Both hypoxia and hypercapnia develop because of hypoventilation of many alveoli plus loss of alveolar walls. The net result of all these effects is severe, prolonged, devastating _air hunger_ that can last for years until the hypoxia and hypercapnia cause death—a high penalty to pay for smoking.",
+    "pdfPage": 521,
+    "bid": "ch43-f30"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "PNEUMONIA—LUNG INFLAMMATION AND FLUID IN ALVEOLI",
+    "pdfPage": 521,
+    "id": "ch43-h-pneumonia-lung-inflammation-and-fluid-in-alveoli",
+    "bid": "ch43-f31"
+   },
+   {
+    "type": "paragraph",
+    "text": "The term _pneumonia_ includes any inflammatory condi tion of the lung in which some or all of the alveoli are filled with fluid and blood cells, as shown in **Figure 43-5**. A common type of pneumonia is _bacterial pneu monia_, caused most frequently by _pneumococci_. This dis ease begins with infection in the alveoli; the pulmonary membrane becomes inflamed and highly porous so that fluid and even red and white blood cells leak out of the blood into the alveoli. Thus, the infected alveoli become progressively filled with fluid and cells, and the infection spreads by extension of bacteria or virus from alveolus to alveolus. Eventually, large areas of the lungs, sometimes whole lobes or even a whole lung, become “consolidated,” which means that they are filled with fluid and cellular debris.",
+    "pdfPage": 521,
+    "bid": "ch43-f32"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-43-05",
+    "bid": "ch43-f33"
+   },
+   {
+    "type": "paragraph",
+    "text": "In persons with pneumonia, the gas exchange func tions of the lungs decline in different stages of the dis ease. In early stages, the pneumonia process might well be localized to only one lung, with alveolar ventilation being reduced while blood flow through the lung contin ues normally. This condition causes two major pulmonary abnormalities: (1) reduction in the total available surface area of the respiratory membrane; and (2) a decreased ventilation-perfusion ratio. Both these effects cause _hypoxemia_ (low blood O2) and _hypercapnia_ (high blood CO2).",
+    "pdfPage": 521,
+    "pdfPageEnd": 522,
+    "bid": "ch43-f34"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 43-6** shows the effect of the decreased ventilation-perfusion ratio in pneumonia. The blood passing through the aerated lung becomes 97% saturated with O2, whereas that passing through the unaerated lung is about 60% saturated. Therefore, the average saturation of the blood pumped by the left heart into the aorta is only about 78%, which is far below normal.",
+    "pdfPage": 522,
+    "bid": "ch43-f35"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-43-06",
+    "bid": "ch43-f36"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "ATELECTASIS—COLLAPSE OF THE ALVEOLI",
+    "pdfPage": 522,
+    "id": "ch43-h-atelectasis-collapse-of-the-alveoli",
+    "bid": "ch43-f37"
+   },
+   {
+    "type": "paragraph",
+    "text": "Atelectasis means collapse of the alveoli. It can occur in localized areas of a lung or in an entire lung. Common causes of atelectasis are (1) total obstruction of the airway and (2) lack of surfactant in the fluids lining the alveoli.",
+    "pdfPage": 522,
+    "bid": "ch43-f38"
+   },
+   {
+    "type": "paragraph",
+    "text": "The airway obstruction type of atelectasis usually results from the fol lowing: (1) blockage of many small bronchi with mucus; or (2) obstruction of a major bronchus by a large mucous plug or some solid object, such as a tumor. The air en trapped beyond the block is absorbed within minutes to hours by the blood flowing in the pulmonary capillaries. If the lung tissue is pliable enough, this will lead simply to collapse of the alveoli. However, if the lung is rigid be cause of fibrotic tissue and cannot collapse, absorption of air from the alveoli creates very negative pressures within the alveoli, which pull fluid out of the pulmonary capil laries into the alveoli, thus causing the alveoli to fill com pletely with edema fluid. This process almost always is the effect that occurs when an entire lung becomes atelectat ic, a condition called _massive collapse of the lung_.",
+    "pdfPage": 522,
+    "lead": "Airway Obstruction Causes Lung Collapse.",
+    "anchor": "ch43-h-airway-obstruction-causes-lung-collapse",
+    "bid": "ch43-f39"
+   },
+   {
+    "type": "paragraph",
+    "text": "The effects on overall pulmonary function caused by massive collapse (atelectasis) of an entire lung are shown in **Figure 43-7**. Collapse of the lung tissue not only occludes the alveoli but also almost always _increases the resistance to blood flow_ through the pul monary vessels of the collapsed lung. This resistance increase occurs partially because of the lung collapse, which compresses and folds the vessels as the volume of the lung decreases. In addition, hypoxia in the col lapsed alveoli causes additional vasoconstriction, as explained in Chapter 39.",
+    "pdfPage": 522,
+    "bid": "ch43-f40"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-43-07",
+    "bid": "ch43-f41"
+   },
+   {
+    "type": "paragraph",
+    "text": "Because of the vascular constriction, blood flow through the atelectatic lung is greatly reduced. Fortu nately, most of the blood is routed through the ven tilated lung and therefore becomes well aerated. In the situation shown in **Figure 43-7**, five-sixths of the blood passes through the aerated lung, and only onesixth passes through the unaerated lung. As a result, the overall ventilation-perfusion ratio is only moder ately compromised, so the aortic blood has only mild O2 desaturation, despite total loss of ventilation in an entire lung.",
+    "pdfPage": 522,
+    "bid": "ch43-f42"
+   },
+   {
+    "type": "paragraph",
+    "text": "The secretion and function of _surfactant_ in the alveoli were discussed in Chapter 38. Surfactant is secreted by special alveolar epithelial cells into the fluids that coat the inside surface of the alveoli. The surfactant in turn decreases the surface tension in the alveoli by 2- to 10-fold, which nor mally plays a major role in preventing alveolar collapse. However, in several conditions, such as in _hyaline mem brane disease_ (also called _respiratory distress syndrome_), which often occurs in newborn premature babies, the quantity of surfactant secreted by the alveoli is so greatly depressed that the surface tension of the alveolar fluid be comes several times greater than normal. This surfactant deficiency causes a serious tendency for the lungs of these babies to collapse or to become filled with fluid. As ex plained in Chapter 38, many of these infants die of suffoca tion when large portions of the lungs become atelectatic.",
+    "pdfPage": 522,
+    "lead": "Lack of “Surfactant” as a Cause of Lung Collapse.",
+    "anchor": "ch43-h-lack-of-surfactant-as-a-cause-of-lung-collapse",
+    "bid": "ch43-f43"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "ASTHMA—SPASMODIC CONTRACTION OF SMOOTH MUSCLES IN BRONCHIOLES",
+    "pdfPage": 523,
+    "id": "ch43-h-asthma-spasmodic-contraction-of-smooth-muscles-in-bronchiole",
+    "bid": "ch43-f44"
+   },
+   {
+    "type": "paragraph",
+    "text": "Asthma is characterized by spastic contraction of the smooth muscle in the bronchioles, which partially obstructs the bronchioles and causes extremely difficult breathing. The prevalence of asthma has been increasing and affects 7% to 8% of all people in the United States, with even higher rates in some groups such as non-Hispanic blacks. The World Health Organization estimates that over 235 million people worldwide suffer from asthma, although some estimates of asthma prevalence are as high as 339 million people.",
+    "pdfPage": 523,
+    "bid": "ch43-f45"
+   },
+   {
+    "type": "paragraph",
+    "text": "The usual cause of asthma is contractile hypersensitiv ity of the bronchioles in response to foreign substances in the air. In about 70% of patients younger than 30 years, the asthma is caused by allergic hypersensitivity, especially sensitivity to plant pollens. In older people, the cause is almost always hypersensitivity to nonallergenic types of irritants in the air, such as irritants in smog.",
+    "pdfPage": 523,
+    "bid": "ch43-f46"
+   },
+   {
+    "type": "paragraph",
+    "text": "The typical allergic person tends to form abnormally large amounts of immunoglobulin E (IgE) antibodies, and these antibodies cause allergic reactions when they react with the specific antigens that have caused them to develop in the first place, as explained in Chapter 35. In persons with asthma, these _antibodies are mainly attached to mast cells_ that are present in the lung intersti tium in close association with the bronchioles and small bronchi. When an asthmatic person breathes in pollen to which he or she is sensitive (i.e., to which the person has developed IgE antibodies), the pollen reacts with the mast cell–attached antibodies and causes the mast cells to release several different substances. Among them are the following: (1) _histamine_; (2) _slow-reacting substance of anaphylaxis_ (which is a mixture of leukotrienes); (3) _eosinophilic chemotactic factor_; and (4) _bradykinin_. The combined effects of all these factors, especially the slowreacting substance of anaphylaxis, are to produce the following: (1) localized edema in the walls of the small bronchioles, as well as secretion of thick mucus into the bronchiolar lumens; and (2) spasm of the bronchiolar smooth muscle. Therefore, the airway resistance increases greatly.",
+    "pdfPage": 523,
+    "bid": "ch43-f47"
+   },
+   {
+    "type": "paragraph",
+    "text": "As discussed earlier in this chapter, the bronchiolar diameter becomes reduced more during expiration than during inspiration in persons with asthma as a result of bronchiolar collapse during expiratory effort that com presses the outsides of the bronchioles. Because the bronchioles of the asthmatic lungs are already partially occluded, further occlusion resulting from the external pressure creates especially severe obstruction during expiration. That is, the asthmatic person often can inspire quite adequately but has great difficulty expiring. Clini cal measurements show (1) greatly reduced maximum expiratory rate, and (2) reduced timed expiratory volume. Also, all this together results in _dyspnea_, or “air hunger,” discussed later in this chapter.",
+    "pdfPage": 523,
+    "bid": "ch43-f48"
+   },
+   {
+    "type": "paragraph",
+    "text": "The _functional residual capacity_ and _residual volume_ of the lung become especially increased during an acute asthma attack because of the difficulty in expiring air from the lungs. Also, over a period of years, the chest cage becomes permanently enlarged, causing a so-called _barrel chest_, and both the functional residual capacity and lung residual volume become permanently increased.",
+    "pdfPage": 523,
+    "bid": "ch43-f49"
+   },
+   {
+    "type": "paragraph",
+    "text": "In tuberculosis, the tubercle bacilli cause a peculiar tissue reaction in the lungs, including (1) invasion of the infected tissue by macrophages, and (2) “wall ing off” of the lesion by fibrous tissue to form the socalled _tubercle_. This walling-off process helps limit further transmission of the tubercle bacilli in the lungs and therefore is part of the protective process against extension of the infection. However, in about 3% of people in whom tuberculosis develops, if the disease is not treated, the walling-off process fails, and tuber cle bacilli spread throughout the lungs, often causing extreme destruction of lung tissue, with formation of large abscess cavities.",
+    "pdfPage": 523,
+    "bid": "ch43-f50"
+   },
+   {
+    "type": "paragraph",
+    "text": "Thus, tuberculosis in its late stages is characterized by many areas of fibrosis throughout the lungs, as well as by reduced total amount of functional lung tissue. These effects cause the following: (1) _increased “work”_ on the part of the respiratory muscles to cause pulmonary ventilation and _reduced vital capacity and breathing capacity_; (2) _reduced total respiratory membrane surface area_ and _increased thick ness of the respiratory membrane_, causing progressively _diminished pulmonary diffusing capacity_; and (3) _abnormal ventilation-perfusion ratio_ in the lungs, further reducing overall pulmonary diffusion of O2 and CO2.",
+    "pdfPage": 523,
+    "bid": "ch43-f51"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "HYPOXIA AND OXYGEN THERAPY",
+    "pdfPage": 523,
+    "id": "ch43-h-hypoxia-and-oxygen-therapy",
+    "bid": "ch43-f52"
+   },
+   {
+    "type": "paragraph",
+    "text": "Almost any of the conditions discussed in the past few sections of this chapter can cause serious cellular hypoxia throughout the body. Sometimes O2 therapy is of great value, other times it is of moderate value, and at still other times it is of almost no value. Therefore, it is important to understand the different types of hypoxia, and then we can discuss the physiological principles of oxygen therapy. The following is a descriptive classification of the causes of hypoxia: 1. \u0007Inadequate oxygenation of the blood in the lungs because of extrinsic reasons a. \u0007Deficiency of O2 in the atmosphere b. \u0007Hypoventilation (neuromuscular disorders) 2. \u0007Pulmonary disease a. \u0007Hypoventilation caused by increased airway re sistance or decreased pulmonary compliance b. \u0007Abnormal alveolar ventilation-perfusion ratio",
+    "pdfPage": 523,
+    "bid": "ch43-f53"
+   },
+   {
+    "type": "paragraph",
+    "text": "(including increased physiological dead space or increased physiological shunt) c. \u0007Diminished respiratory membrane diffusion",
+    "pdfPage": 523,
+    "bid": "ch43-f54"
+   },
+   {
+    "type": "paragraph",
+    "text": "3. \u0007Venous-to-arterial shunts (right-to-left cardiac shunts) 4. \u0007Inadequate O2 transport to the tissues by the blood a. \u0007Anemia or abnormal hemoglobin b. \u0007General circulatory deficiency c. \u0007Localized circulatory deficiency (peripheral, cer ebral, coronary vessels) d. \u0007Tissue edema 5. \u0007Inadequate tissue capability of using O2 a. \u0007Poisoning of cellular oxidation enzymes b. \u0007Diminished cellular metabolic capacity for using oxygen because of toxicity, vitamin deficiency, or other factors This classification of the types of hypoxia is mainly selfevident from the discussions earlier in the chapter. Only one type of hypoxia in the classification needs further elaboration—the hypoxia caused by inadequate capability of the body’s tissue cells to use O2.",
+    "pdfPage": 524,
+    "bid": "ch43-f55"
+   },
+   {
+    "type": "paragraph",
+    "text": "The classic cause of inability of the tissues to use O2 is _cyanide poisoning_, in which the action of the enzyme _cytochrome oxidase_ is blocked by cyanide to such an extent that the tissues simply cannot use O2, even when plenty is avail able. Also, deficiencies of some of the _tissue cellular oxi dative enzymes_ or of other elements in the tissue oxidative system can lead to this type of hypoxia. A special example occurs in the disease _beriberi_, in which several important steps in tissue utilization of oxygen and the formation of CO2 are compromised because of _vitamin B deficiency_.",
+    "pdfPage": 524,
+    "lead": "Inadequate Tissue Capability to Use Oxygen.",
+    "anchor": "ch43-h-inadequate-tissue-capability-to-use-oxygen",
+    "bid": "ch43-f56"
+   },
+   {
+    "type": "paragraph",
+    "text": "Hypoxia, if severe enough, can cause death of cells throughout the body, but in less severe degrees, it mainly causes (1) depressed mental activity, sometimes culminating in coma, and (2) reduced work capacity of the muscles. These effects are specifically discussed in Chapter 44 in relation to highaltitude physiology.",
+    "pdfPage": 524,
+    "lead": "Effects of Hypoxia on the Body.",
+    "anchor": "ch43-h-effects-of-hypoxia-on-the-body",
+    "bid": "ch43-f57"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "OXYGEN THERAPY IN DIFFERENT TYPES OF HYPOXIA",
+    "pdfPage": 524,
+    "id": "ch43-h-oxygen-therapy-in-different-types-of-hypoxia",
+    "bid": "ch43-f58"
+   },
+   {
+    "type": "paragraph",
+    "text": "O2 can be administered by the following: (1) placing the patient’s head in a “tent” that contains air fortified with O2; (2) allowing the patient to breathe pure O2 or high concentrations of O2 from a mask; or (3) administering O2 through an intranasal tube.",
+    "pdfPage": 524,
+    "bid": "ch43-f59"
+   },
+   {
+    "type": "paragraph",
+    "text": "Recalling the basic physiological principles of the dif ferent types of hypoxia, one can readily decide when O2 therapy will be of value and, if so, how valuable.",
+    "pdfPage": 524,
+    "bid": "ch43-f60"
+   },
+   {
+    "type": "paragraph",
+    "text": "In _atmospheric hypoxia_, O2 therapy can completely correct the depressed O2 level in the inspired gases and, therefore, provide 100% effective therapy.",
+    "pdfPage": 524,
+    "bid": "ch43-f61"
+   },
+   {
+    "type": "paragraph",
+    "text": "In _hypoventilation hypoxia_, a person breathing 100% O2 can move five times as much O2 into the alveoli with each breath as when breathing normal air. Therefore, here again, O2 therapy can be extremely beneficial. However, this O2 therapy provides no benefit for the excess blood CO2 also caused by the hypoventilation.",
+    "pdfPage": 524,
+    "bid": "ch43-f62"
+   },
+   {
+    "type": "paragraph",
+    "text": "In _hypoxia caused by impaired alveolar membrane dif fusion_, essentially the same result occurs as in hypoventi lation hypoxia because O2 therapy can increase the Po2 in the lung alveoli from the normal value of about 100 mm Hg to as high as 600 mm Hg. This action raises the O2 pressure gradient for diffusion of oxygen from the alveoli to the blood from the normal value of 60 mm Hg to as high as 560 mm Hg, an increase of more than 800%. This highly beneficial effect of O2 therapy in diffusion hypoxia is demonstrated in **Figure 43-8**, which shows that the pulmonary blood in this patient with pulmonary edema picks up O2 three to four times as rapidly as would occur with no therapy.",
+    "pdfPage": 524,
+    "bid": "ch43-f63"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-43-08",
+    "bid": "ch43-f64"
+   },
+   {
+    "type": "paragraph",
+    "text": "In _hypoxia caused by anemia, abnormal hemoglobin transport of O_2, _circulatory deficiency_, _or physiological shunt_, O2 therapy is of much less value because normal O2 is already available in the alveoli. Instead, the problem is that one or more of the mechanisms for transporting oxygen from the lungs to the tissues are deficient. Even so, a small amount of extra O2, between 7% and 30%, can be _transported in the dissolved state_ in the blood when alveo lar O2 is increased to maximum, even though the amount transported by the hemoglobin is hardly altered. This small amount of extra O2 may be the difference between life and death.",
+    "pdfPage": 524,
+    "bid": "ch43-f65"
+   },
+   {
+    "type": "paragraph",
+    "text": "In the different types of _hypoxia caused by inadequate tissue use of O_2, there is no abnormality of O2 pickup by the lungs or of transport to the tissues. Instead, the tis sue metabolic enzyme system is simply incapable of using the O2 that is delivered. Therefore, O2 therapy provides no measurable benefit.",
+    "pdfPage": 524,
+    "bid": "ch43-f66"
+   },
+   {
+    "type": "paragraph",
+    "text": "The term _cyanosis_ means blueness of the skin; its cause is excessive amounts of deoxygenated hemoglobin in the skin blood vessels, especially in the capillaries. This deox ygenated hemoglobin has an intense dark blue–purple color that is transmitted through the skin.",
+    "pdfPage": 524,
+    "bid": "ch43-f67"
+   },
+   {
+    "type": "paragraph",
+    "text": "In general, definite cyanosis appears whenever the _arte rial blood_ contains more than 5 grams of deoxygenated hemoglobin in each 100 ml of blood. A person with _ane mia_ almost never becomes cyanotic because there is not enough hemoglobin for 5 grams to be deoxygenated in 100 ml of arterial blood. Conversely, in a person with excess red blood cells, as in _polycythemia vera_, the great excess of available hemoglobin that can become deoxy genated leads frequently to cyanosis, even under other wise normal conditions.",
+    "pdfPage": 524,
+    "pdfPageEnd": 525,
+    "bid": "ch43-f68"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "HYPERCAPNIA—EXCESS CARBON DIOXIDE IN THE BODY FLUIDS",
+    "pdfPage": 525,
+    "id": "ch43-h-hypercapnia-excess-carbon-dioxide-in-the-body-fluids",
+    "bid": "ch43-f69"
+   },
+   {
+    "type": "paragraph",
+    "text": "One might suspect, on first thought, that any respiratory condition that causes hypoxia would also cause hypercap nia. However, hypercapnia usually occurs in association with hypoxia only when the hypoxia is caused by _hypoven tilation_ or _circulatory deficiency_ for the following reasons.",
+    "pdfPage": 525,
+    "bid": "ch43-f70"
+   },
+   {
+    "type": "paragraph",
+    "text": "Hypoxia caused by _too little O_2 _in the air, too little hemo globin_, or _poisoning of the oxidative enzymes_ involves only the availability of O2 or use of O2 by the tissues. Therefore, it is readily understandable that hypercapnia is _not_ associ ated with these types of hypoxia.",
+    "pdfPage": 525,
+    "bid": "ch43-f71"
+   },
+   {
+    "type": "paragraph",
+    "text": "In hypoxia resulting from poor diffusion through the pulmonary membrane or the tissues, serious hypercapnia usually does not occur at the same time because CO2 dif fuses 20 times as rapidly as O2. If hypercapnia does begin to occur, this immediately stimulates pulmonary ventila tion, which corrects the hypercapnia but not necessarily the hypoxia.",
+    "pdfPage": 525,
+    "bid": "ch43-f72"
+   },
+   {
+    "type": "paragraph",
+    "text": "Conversely, in hypoxia caused by hypoventilation, CO2 transfer between the alveoli and the atmosphere is affected as much as O2 transfer. Hypercapnia then occurs along with the hypoxia. In circulatory deficiency, dimin ished flow of blood decreases CO2 removal from the tis sues, resulting in tissue hypercapnia in addition to tissue hypoxia. However, the transport capacity of the blood for CO2 is more than three times that for O2, and thus the resulting tissue hypercapnia is much less than the tissue hypoxia.",
+    "pdfPage": 525,
+    "bid": "ch43-f73"
+   },
+   {
+    "type": "paragraph",
+    "text": "When the alveolar Pco2 rises above about 60 to 75 mm Hg, an otherwise normal person by then is breath ing about as rapidly and deeply as he or she can, and air hunger, also called _dyspnea_, becomes severe.",
+    "pdfPage": 525,
+    "bid": "ch43-f74"
+   },
+   {
+    "type": "paragraph",
+    "text": "If the Pco2 rises to 80 to 100 mm Hg, the person becomes lethargic and sometimes even semicomatose. Anesthesia and death can result when the Pco2 rises to 120 to 150 mm Hg. At these higher levels of Pco2, the excess CO2 now begins to depress respiration rather than stimulate it, thus causing a vicious circle: (1) more CO2, (2) further decrease in respiration, (3) then more CO2, and so forth—culminating rapidly in a respiratory death.",
+    "pdfPage": 525,
+    "bid": "ch43-f75"
+   },
+   {
+    "type": "paragraph",
+    "text": "_Dyspnea_ means mental anguish associated with inability to ventilate enough to satisfy the demand for air. A com mon synonym is _air hunger_.",
+    "pdfPage": 525,
+    "bid": "ch43-f76"
+   },
+   {
+    "type": "paragraph",
+    "text": "At least three factors often enter into the development of the sensation of dyspnea: (1) abnormality of respiratory gases in the body fluids, especially hypercapnia and, to a much less extent, hypoxia; (2) the amount of work that must be performed by the respiratory muscles to provide adequate ventilation; and (3) state of mind.",
+    "pdfPage": 525,
+    "bid": "ch43-f77"
+   },
+   {
+    "type": "paragraph",
+    "text": "A person becomes especially dyspneic from excess buildup of CO2 in the body fluids. At times, however, the levels of both CO2 and O2 in the body fluids are normal but, to attain this normality of the respiratory gases, the person has to breathe forcefully. In these cases, the force ful activity of the respiratory muscles frequently gives the person a sensation of dyspnea.",
+    "pdfPage": 525,
+    "bid": "ch43-f78"
+   },
+   {
+    "type": "paragraph",
+    "text": "Most people have the sensation of severe dyspnea after only 1 to 2 minutes of voluntary breath-holding (apnea). However, as discussed in Chapter 42, some individuals can train themselves to suppress respiratory urges for more than 10 minutes, despite buildup of CO2 and very low O2 in the body fluids.",
+    "pdfPage": 525,
+    "bid": "ch43-f79"
+   },
+   {
+    "type": "paragraph",
+    "text": "Finally, dyspnea may be experienced because of an abnormal state of mind, even though the person’s respira tory functions, as well as CO2 and O2 in the body fluids, may be normal. This condition is called _neurogenic dys pnea_ or _emotional dyspnea_. For example, almost anyone momentarily thinking about the act of breathing may sud denly start taking breaths a little more deeply than ordi narily because of a feeling of mild dyspnea. This feeling is greatly enhanced in people who have a psychological fear of not being able to receive a sufficient quantity of air, such as when entering a small or crowded room.",
+    "pdfPage": 525,
+    "bid": "ch43-f80"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "ARTIFICIAL RESPIRATION",
+    "pdfPage": 525,
+    "id": "ch43-h-artificial-respiration",
+    "bid": "ch43-f81"
+   },
+   {
+    "type": "paragraph",
+    "text": "Many types of respiratory resuscitators are available, and each has its own characteristic principles of operation. The resuscitator shown in **Figure 43-9A** consists of a tank supply of O2 or air, a mechanism for applying intermittent positive pressure and, with some machines, negative pressure as well, and a mask that fits over the face of the patient or a connector for joining the equipment to an endotracheal tube. This apparatus forces air through the mask or endotracheal tube into the lungs of the patient during the positive-pressure cycle of the re suscitator and then usually allows the air to flow passively out of the lungs during the remainder of the cycle.",
+    "pdfPage": 525,
+    "lead": "Resuscitator.",
+    "anchor": "ch43-h-resuscitator",
+    "bid": "ch43-f82"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-43-09",
+    "bid": "ch43-f83"
+   },
+   {
+    "type": "paragraph",
+    "text": "Earlier resuscitators often caused damage to the lungs because of excessive positive pressure. Their usage was at one time greatly decried. However, resuscitators now have adjustable positive-pressure limits that are com monly set at 12 to 15 cm H2O pressure for normal lungs, but sometimes much higher for noncompliant lungs.",
+    "pdfPage": 525,
+    "bid": "ch43-f84"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 43-9B** shows the tank respirator with a patient’s body inside the tank and the head protruding through a flexible but airtight collar. At the end of the tank, opposite the patient’s head, a motor-driven leather diaphragm moves back and forth with sufficient excursion to raise and lower the pressure inside the tank. As the leather diaphragm moves inward, positive pressure develops around the body and causes expiration; as the diaphragm moves outward, negative pressure causes inspiration. Check valves on the respira tor control the positive and negative pressures. Ordinar ily, these pressures are adjusted so that the negative pres sure that causes inspiration falls to −10 to −20 cm H2O, and the positive pressure rises to 0 to +5 cm H2O.",
+    "pdfPage": 525,
+    "lead": "Tank Respirator (the “Iron Lung”).",
+    "pdfPageEnd": 526,
+    "anchor": "ch43-h-tank-respirator-the-iron-lung",
+    "bid": "ch43-f85"
+   },
+   {
+    "type": "paragraph",
+    "text": "Use of the tank respirator is now largely obsolete in modern medicine with the development of superior mechanical ventilators that push air into the airways with positive pressure.",
+    "pdfPage": 526,
+    "bid": "ch43-f86"
+   },
+   {
+    "type": "paragraph",
+    "text": "When air is forced into the lungs under positive pressure by a resuscitator, or when the pressure around the patient’s body is _reduced_ by the tank respira tor, the pressure inside the lungs becomes greater than pressure everywhere else in the body. Flow of blood into the chest and heart from the peripheral veins becomes impeded. As a result, use of excessive pressures with the resuscitator or tank respirator can reduce the cardiac out put, sometimes to lethal levels. For example, continuous exposure for more than a few minutes to more than 30mm Hg positive pressure in the lungs can cause death be cause of inadequate venous return to the heart.",
+    "pdfPage": 526,
+    "lead": "Effect of the Resuscitator and the Tank Respirator on Venous Return.",
+    "anchor": "ch43-h-effect-of-the-resuscitator-and-the-tank-respirator-on-venous",
+    "bid": "ch43-f87"
+   }
+  ]
+ },
+ "glossary": [
+  {
+   "id": "ch43-t-ph",
+   "termUz": "pH",
+   "original": null,
+   "contextUz": "O'lchov Usul pH miniatyura shisha elektrod; kuchlanish pH ni bevosita ko'rsatadi PCO₂ shisha elektrod yupqa plastik membrana bilan o'ralgan, oraliqda ma'lum konsentratsiyali NaHCO₃ eritmasi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-shisha-elektrod",
+   "termUz": "shisha elektrod",
+   "original": null,
+   "contextUz": "O'lchov Usul pH miniatyura shisha elektrod; kuchlanish pH ni bevosita ko'rsatadi PCO₂ shisha elektrod yupqa plastik membrana bilan o'ralgan, oraliqda ma'lum konsentratsiyali NaHCO₃ eritmasi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-pco",
+   "termUz": "PCO₂",
+   "original": null,
+   "contextUz": "O'lchov Usul pH miniatyura shisha elektrod; kuchlanish pH ni bevosita ko'rsatadi PCO₂ shisha elektrod yupqa plastik membrana bilan o'ralgan, oraliqda ma'lum konsentratsiyali NaHCO₃ eritmasi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-genderson-gasselbax-tenglamasi",
+   "termUz": "Genderson-Gasselbax tenglamasi",
+   "original": "pH = 6,1 + log HCO₃⁻/CO₂",
+   "contextUz": "pH o'lchanadi va Genderson-Gasselbax tenglamasi (pH = 6,1 + log HCO₃⁻/CO₂) bilan CO₂ hisoblanadi PO₂ polyarografiya: ~1 mm² li manfiy platina elektrod, eritmaga nisbatan −0,6 V dan ko'p farq.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-po",
+   "termUz": "PO₂",
+   "original": null,
+   "contextUz": "pH o'lchanadi va Genderson-Gasselbax tenglamasi (pH = 6,1 + log HCO₃⁻/CO₂) bilan CO₂ hisoblanadi PO₂ polyarografiya: ~1 mm² li manfiy platina elektrod, eritmaga nisbatan −0,6 V dan ko'p farq.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-polyarografiya",
+   "termUz": "polyarografiya",
+   "original": null,
+   "contextUz": "pH o'lchanadi va Genderson-Gasselbax tenglamasi (pH = 6,1 + log HCO₃⁻/CO₂) bilan CO₂ hisoblanadi PO₂ polyarografiya: ~1 mm² li manfiy platina elektrod, eritmaga nisbatan −0,6 V dan ko'p farq.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-sababi",
+   "termUz": "Sababi",
+   "original": null,
+   "contextUz": "Sababi: ko'krakdan berilgan bosim alveolalarni ham, bronxiolalarni ham siqadi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-bronxiolalarni-ham",
+   "termUz": "bronxiolalarni ham",
+   "original": null,
+   "contextUz": "Sababi: ko'krakdan berilgan bosim alveolalarni ham, bronxiolalarni ham siqadi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-hajmga-bogliqligi",
+   "termUz": "Hajmga bog'liqligi",
+   "original": null,
+   "contextUz": "Hajmga bog'liqligi: Katta o'pka hajmida bronxlarni tashqaridan elastik tortish ochiq ushlaydi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-400-l-min",
+   "termUz": ">400 l/min",
+   "original": null,
+   "contextUz": "Sog'lom odamda maksimal oqim >400 l/min.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-oqim-hajm-egri-chizigi-anomaliyalari-rasm-43-2",
+   "termUz": "Oqim-hajm egri chizig'i anomaliyalari (rasm 43-2)",
+   "original": null,
+   "contextUz": "Oqim-hajm egri chizig'i anomaliyalari (rasm 43-2):",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-sil-silikoz",
+   "termUz": "sil, silikoz",
+   "original": null,
+   "contextUz": "Siqilgan (restriktiv) o'pka Havo yo'li obstruksiyasi TLC ↓ ↑ RV ↓ ↑ Maksimal oqim normaga yetmaydi (o'pka to'liq kengaymaydi) keskin ↓ Sabablar o'pka fibrozi (sil, silikoz), ko'krak qafasi deformatsiyasi (kifoz, skolioz, fibroz plevrit) astma, emfizemaning ayrim bosqichlari",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-kifoz-skolioz-fibroz-plevrit",
+   "termUz": "kifoz, skolioz, fibroz plevrit",
+   "original": null,
+   "contextUz": "Siqilgan (restriktiv) o'pka Havo yo'li obstruksiyasi TLC ↓ ↑ RV ↓ ↑ Maksimal oqim normaga yetmaydi (o'pka to'liq kengaymaydi) keskin ↓ Sabablar o'pka fibrozi (sil, silikoz), ko'krak qafasi deformatsiyasi (kifoz, skolioz, fibroz plevrit) astma, emfizemaning ayrim bosqichlari",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-astma",
+   "termUz": "astma",
+   "original": null,
+   "contextUz": "Siqilgan (restriktiv) o'pka Havo yo'li obstruksiyasi TLC ↓ ↑ RV ↓ ↑ Maksimal oqim normaga yetmaydi (o'pka to'liq kengaymaydi) keskin ↓ Sabablar o'pka fibrozi (sil, silikoz), ko'krak qafasi deformatsiyasi (kifoz, skolioz, fibroz plevrit) astma, emfizemaning ayrim bosqichlari",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-obstruksiyada-nafas-chiqarish-nafas-olishdan-qiyin-bolishini",
+   "termUz": "Obstruksiyada nafas chiqarish nafas olishdan qiyin bo'lishining sababi",
+   "original": null,
+   "contextUz": "Obstruksiyada nafas chiqarish nafas olishdan qiyin bo'lishining sababi:",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-tutilib-qoladi",
+   "termUz": "tutilib qoladi",
+   "original": null,
+   "contextUz": "Natijada havo oson kiradi, lekin tutilib qoladi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-bajarilishi",
+   "termUz": "Bajarilishi",
+   "original": null,
+   "contextUz": "Bajarilishi: maksimal nafas olib (TLC gacha), spirometrga iloji boricha tez va to'liq nafas chiqariladi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-fev",
+   "termUz": "FEV₁",
+   "original": null,
+   "contextUz": "FEV₁ birinchi soniyada chiqarilgan hajm.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-fev-fvc",
+   "termUz": "FEV₁/FVC%",
+   "original": null,
+   "contextUz": "FEV₁/FVC%: | Holat | Qiymat | |---|---| | Normal | 80% | | Qisman obstruksiya | 47% (FVC esa deyarli o'zgarmagan) | | Og'ir obstruksiya (o'tkir astma) | <20% |",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-80",
+   "termUz": "80%",
+   "original": null,
+   "contextUz": "FEV₁/FVC%: | Holat | Qiymat | |---|---| | Normal | 80% | | Qisman obstruksiya | 47% (FVC esa deyarli o'zgarmagan) | | Og'ir obstruksiya (o'tkir astma) | <20% |",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-47",
+   "termUz": "47%",
+   "original": "FVC esa deyarli o'zgarmagan",
+   "contextUz": "FEV₁/FVC%: | Holat | Qiymat | |---|---| | Normal | 80% | | Qisman obstruksiya | 47% (FVC esa deyarli o'zgarmagan) | | Og'ir obstruksiya (o'tkir astma) | <20% |",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-20",
+   "termUz": "<20%",
+   "original": null,
+   "contextUz": "FEV₁/FVC%: | Holat | Qiymat | |---|---| | Normal | 80% | | Qisman obstruksiya | 47% (FVC esa deyarli o'zgarmagan) | | Og'ir obstruksiya (o'tkir astma) | <20% |",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-chekish",
+   "termUz": "chekish",
+   "original": null,
+   "contextUz": "Amalda ko'p yillik chekish natijasida yuzaga keladigan murakkab obstruktiv va destruktiv jarayon tushuniladi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-patogenez",
+   "termUz": "Patogenez",
+   "original": null,
+   "contextUz": "Patogenez:",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-surunkali-infeksiya",
+   "termUz": "Surunkali infeksiya",
+   "original": null,
+   "contextUz": "Surunkali infeksiya: tutun va boshqa ta'sirlovchilar himoya mexanizmlarini buzadi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-nikotin",
+   "termUz": "Nikotin",
+   "original": null,
+   "contextUz": "Nikotin kipriklarni qisman falajlaydi, shilliq oson chiqmaydi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-alveolyar-makrofaglar",
+   "termUz": "Alveolyar makrofaglar",
+   "original": null,
+   "contextUz": "Alveolyar makrofaglar tormozlanadi va infeksiyaga qarshi kurash susayadi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-surunkali-obstruksiya",
+   "termUz": "surunkali obstruksiya",
+   "original": null,
+   "contextUz": "Infeksiya, ortiqcha shilliq va bronxiola epiteliysining yallig'lanish shishi ko'plab mayda havo yo'llarida surunkali obstruksiya hosil qiladi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-50-80",
+   "termUz": "50–80%",
+   "original": null,
+   "contextUz": "Infeksiya bilan birga alveola devorlarining 50–80% i yemiriladi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-fiziologik-oqibatlari",
+   "termUz": "Fiziologik oqibatlari",
+   "original": null,
+   "contextUz": "Fiziologik oqibatlari:",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-bronxiola-obstruksiyasi",
+   "termUz": "Bronxiola obstruksiyasi",
+   "original": null,
+   "contextUz": "Bronxiola obstruksiyasi: havo yo'li qarshiligi va nafas ishi keskin ortadi, ayniqsa nafas chiqarishda (tashqi siqilish bronxiolalarni ham siqadi).",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-alveola-devorlari-yoqolishi",
+   "termUz": "Alveola devorlari yo'qolishi",
+   "original": null,
+   "contextUz": "Alveola devorlari yo'qolishi: diffuziya sig'imi keskin kamayadi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-notekis-obstruksiya",
+   "termUz": "Notekis obstruksiya",
+   "original": null,
+   "contextUz": "Notekis obstruksiya: ba'zi qismlarda V̇A/Q̇ juda past (fiziologik shunt, qon yomon aeratsiyalanadi); boshqalarida juda yuqori (fiziologik o'lik bo'shliq, ventilyatsiya isrof).",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-v-a-q-juda-past",
+   "termUz": "V̇A/Q̇ juda past",
+   "original": "fiziologik shunt, qon yomon aeratsiyalanadi",
+   "contextUz": "Notekis obstruksiya: ba'zi qismlarda V̇A/Q̇ juda past (fiziologik shunt, qon yomon aeratsiyalanadi); boshqalarida juda yuqori (fiziologik o'lik bo'shliq, ventilyatsiya isrof).",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-juda-yuqori",
+   "termUz": "juda yuqori",
+   "original": "fiziologik o'lik bo'shliq, ventilyatsiya isrof",
+   "contextUz": "Notekis obstruksiya: ba'zi qismlarda V̇A/Q̇ juda past (fiziologik shunt, qon yomon aeratsiyalanadi); boshqalarida juda yuqori (fiziologik o'lik bo'shliq, ventilyatsiya isrof).",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-kapillyarlar-kamayishi",
+   "termUz": "Kapillyarlar kamayishi",
+   "original": null,
+   "contextUz": "Kapillyarlar kamayishi: o'pka tomir qarshiligi ortadi, o'pka gipertenziyasi, o'ng yurakka yuk va ko'pincha o'ng yurak yetishmovchiligi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-opka-gipertenziyasi",
+   "termUz": "o'pka gipertenziyasi",
+   "original": null,
+   "contextUz": "Kapillyarlar kamayishi: o'pka tomir qarshiligi ortadi, o'pka gipertenziyasi, o'ng yurakka yuk va ko'pincha o'ng yurak yetishmovchiligi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-ong-yurak-yetishmovchiligi",
+   "termUz": "o'ng yurak yetishmovchiligi",
+   "original": null,
+   "contextUz": "Kapillyarlar kamayishi: o'pka tomir qarshiligi ortadi, o'pka gipertenziyasi, o'ng yurakka yuk va ko'pincha o'ng yurak yetishmovchiligi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-kechishi",
+   "termUz": "Kechishi",
+   "original": null,
+   "contextUz": "Kechishi: ko'p yillar davomida sekin rivojlanadi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-gipoksiya-va-giperkapniya",
+   "termUz": "gipoksiya va giperkapniya",
+   "original": null,
+   "contextUz": "Ko'p alveolalar gipoventilyatsiyasi va devorlar yo'qolishi gipoksiya va giperkapniya beradi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-tarif",
+   "termUz": "Ta'rif",
+   "original": null,
+   "contextUz": "Ta'rif: alveolalarning bir qismi yoki hammasi suyuqlik va qon hujayralari bilan to'lgan har qanday yallig'lanish holati.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-bakterial-pnevmoniya",
+   "termUz": "Bakterial pnevmoniya",
+   "original": null,
+   "contextUz": "Bakterial pnevmoniyaning eng ko'p qo'zg'atuvchisi pnevmokokk.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-pnevmokokk",
+   "termUz": "pnevmokokk",
+   "original": null,
+   "contextUz": "Bakterial pnevmoniyaning eng ko'p qo'zg'atuvchisi pnevmokokk.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-mexanizm",
+   "termUz": "Mexanizm",
+   "original": null,
+   "contextUz": "Mexanizm: Alveolada infeksiya boshlanadi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-konsolidatsiya",
+   "termUz": "\"konsolidatsiya\"",
+   "original": null,
+   "contextUz": "Butun bo'laklar, hatto butun o'pka \"konsolidatsiya\"ga uchraydi, ya'ni suyuqlik va hujayra qoldiqlari bilan to'ladi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-gaz-almashinuviga-tasiri",
+   "termUz": "Gaz almashinuviga ta'siri",
+   "original": null,
+   "contextUz": "Gaz almashinuviga ta'siri: (1) respirator membrana yuzasi kamayadi; (2) V̇A/Q̇ kamayadi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-v-a-q-kamayadi",
+   "termUz": "V̇A/Q̇ kamayadi",
+   "original": null,
+   "contextUz": "Gaz almashinuviga ta'siri: (1) respirator membrana yuzasi kamayadi; (2) V̇A/Q̇ kamayadi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-gipoksemiya-va-giperkapniya",
+   "termUz": "gipoksemiya va giperkapniya",
+   "original": null,
+   "contextUz": "Natija: gipoksemiya va giperkapniya.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-rasm-43-6-bir-opka-zararlangan",
+   "termUz": "Rasm 43-6 (bir o'pka zararlangan)",
+   "original": null,
+   "contextUz": "Rasm 43-6 (bir o'pka zararlangan): O'pka arteriyasi qoni 60% to'yingan.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-ortacha-78",
+   "termUz": "o'rtacha ~78%",
+   "original": null,
+   "contextUz": "Aortada ½ × 97 + ½ × 60, ya'ni o'rtacha ~78%: normadan ancha past.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-sabablar",
+   "termUz": "Sabablar",
+   "original": null,
+   "contextUz": "Sabablar: (1) havo yo'lining to'liq obstruksiyasi; (2) surfaktant yetishmasligi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-surfaktant-yetishmasligi",
+   "termUz": "surfaktant yetishmasligi",
+   "original": null,
+   "contextUz": "Sabablar: (1) havo yo'lining to'liq obstruksiyasi; (2) surfaktant yetishmasligi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-juda-manfiy-bosim",
+   "termUz": "juda manfiy bosim",
+   "original": null,
+   "contextUz": "O'pka fibroz tufayli qattiq bo'lsa, alveolada juda manfiy bosim hosil bo'ladi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-shish-suyuqligi",
+   "termUz": "shish suyuqligi",
+   "original": null,
+   "contextUz": "U kapillyarlardan suyuqlik tortib, alveolalar shish suyuqligi bilan to'ladi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-massiv-kollaps",
+   "termUz": "massiv kollaps",
+   "original": null,
+   "contextUz": "Butun o'pka atelektazida (massiv kollaps) deyarli doim shunday bo'ladi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-qon-oqimiga-tasiri-rasm-43-7",
+   "termUz": "Qon oqimiga ta'siri (rasm 43-7)",
+   "original": null,
+   "contextUz": "Qon oqimiga ta'siri (rasm 43-7):",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-gipoksik-vazokonstriksiya",
+   "termUz": "gipoksik vazokonstriksiya",
+   "original": null,
+   "contextUz": "Gipoksiya qo'shimcha gipoksik vazokonstriksiya chaqiradi (39-bob).",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-5-6",
+   "termUz": "5/6",
+   "original": null,
+   "contextUz": "Natijada qonning 5/6 qismi aeratsiyalangan o'pkadan, faqat 1/6 qismi kollapsga uchragan o'pkadan o'tadi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-1-6",
+   "termUz": "1/6",
+   "original": null,
+   "contextUz": "Natijada qonning 5/6 qismi aeratsiyalangan o'pkadan, faqat 1/6 qismi kollapsga uchragan o'pkadan o'tadi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-91",
+   "termUz": "91%",
+   "original": null,
+   "contextUz": "Aortada 5/6 × 97 + 1/6 × 60 ≈ 91%, ya'ni butun bir o'pka ventilyatsiyasi yo'qolgan bo'lsa ham desaturatsiya yengil.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-pnevmoniya-bilan-solishtirish",
+   "termUz": "Pnevmoniya bilan solishtirish",
+   "original": null,
+   "contextUz": "Pnevmoniya bilan solishtirish: pnevmoniyada qon oqimi normal qolgani uchun aorta saturatsiyasi 78% gacha tushadi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-2-10-marta",
+   "termUz": "2–10 marta",
+   "original": null,
+   "contextUz": "Surfaktant sirt tarangligini 2–10 marta kamaytiradi (38-bob).",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-gialin-membrana-kasalligi",
+   "termUz": "Gialin membrana kasalligi",
+   "original": "yangi tug'ilganlarning respirator distress sindromi",
+   "contextUz": "Gialin membrana kasalligi (yangi tug'ilganlarning respirator distress sindromi), ko'pincha chala tug'ilganlarda: surfaktant keskin kam, sirt tarangligi bir necha marta yuqori.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-tarqalishi",
+   "termUz": "Tarqalishi",
+   "original": null,
+   "contextUz": "Tarqalishi: AQShda aholining 7–8% i (ba'zi guruhlarda, masalan ispan bo'lmagan qora tanlilarda ko'proq).",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-7-8",
+   "termUz": "7–8%",
+   "original": null,
+   "contextUz": "Tarqalishi: AQShda aholining 7–8% i (ba'zi guruhlarda, masalan ispan bo'lmagan qora tanlilarda ko'proq).",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-235-million",
+   "termUz": ">235 million",
+   "original": null,
+   "contextUz": "Dunyoda JSST bahosi >235 million, ba'zi baholar 339 million gacha.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-339-million",
+   "termUz": "339 million",
+   "original": null,
+   "contextUz": "Dunyoda JSST bahosi >235 million, ba'zi baholar 339 million gacha.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-gipersezuvchanligi",
+   "termUz": "gipersezuvchanligi",
+   "original": null,
+   "contextUz": "Sababi: havodagi yot moddalarga bronxiolalarning qisqarish gipersezuvchanligi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-30-yoshgacha",
+   "termUz": "30 yoshgacha",
+   "original": null,
+   "contextUz": "30 yoshgacha bemorlarning ~70% ida allergik, ayniqsa o'simlik changiga.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-70",
+   "termUz": "70%",
+   "original": null,
+   "contextUz": "30 yoshgacha bemorlarning ~70% ida allergik, ayniqsa o'simlik changiga.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-noallergik-tasirlovchilar",
+   "termUz": "noallergik ta'sirlovchilar",
+   "original": "masalan smog",
+   "contextUz": "Keksalarda deyarli doim noallergik ta'sirlovchilar (masalan smog).",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-allergik-mexanizm",
+   "termUz": "Allergik mexanizm",
+   "original": null,
+   "contextUz": "Allergik mexanizm:",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-ige",
+   "termUz": "IgE",
+   "original": null,
+   "contextUz": "Allergik odam ko'p IgE hosil qiladi (35-bob).",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-mast-hujayralar",
+   "termUz": "mast hujayralar",
+   "original": null,
+   "contextUz": "Bu antitanalar bronxiola va mayda bronxlar yonidagi o'pka interstitsiyasidagi mast hujayralarga yopishgan.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-gistamin",
+   "termUz": "gistamin",
+   "original": null,
+   "contextUz": "Mast hujayralar quyidagilarni chiqaradi: gistamin, anafilaksiyaning sekin ta'sir qiluvchi moddasi (leykotrienlar), eozinofil xemotaktik omili, bradikinin.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-anafilaksiyaning-sekin-tasir-qiluvchi-moddasi-leykotrienlar",
+   "termUz": "anafilaksiyaning sekin ta'sir qiluvchi moddasi (leykotrienlar)",
+   "original": null,
+   "contextUz": "Mast hujayralar quyidagilarni chiqaradi: gistamin, anafilaksiyaning sekin ta'sir qiluvchi moddasi (leykotrienlar), eozinofil xemotaktik omili, bradikinin.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-eozinofil-xemotaktik-omili",
+   "termUz": "eozinofil xemotaktik omili",
+   "original": null,
+   "contextUz": "Mast hujayralar quyidagilarni chiqaradi: gistamin, anafilaksiyaning sekin ta'sir qiluvchi moddasi (leykotrienlar), eozinofil xemotaktik omili, bradikinin.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-bradikinin",
+   "termUz": "bradikinin",
+   "original": null,
+   "contextUz": "Mast hujayralar quyidagilarni chiqaradi: gistamin, anafilaksiyaning sekin ta'sir qiluvchi moddasi (leykotrienlar), eozinofil xemotaktik omili, bradikinin.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-mahalliy-shish",
+   "termUz": "mahalliy shish",
+   "original": null,
+   "contextUz": "Ularning, ayniqsa leykotrienlarning, birgalikdagi ta'siri: mayda bronxiolalar devorida mahalliy shish va bo'shliqqa quyuq shilliq ajralishi; bronxiola silliq mushagi spazmi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-quyuq-shilliq",
+   "termUz": "quyuq shilliq",
+   "original": null,
+   "contextUz": "Ularning, ayniqsa leykotrienlarning, birgalikdagi ta'siri: mayda bronxiolalar devorida mahalliy shish va bo'shliqqa quyuq shilliq ajralishi; bronxiola silliq mushagi spazmi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-bronxiola-silliq-mushagi-spazmi",
+   "termUz": "bronxiola silliq mushagi spazmi",
+   "original": null,
+   "contextUz": "Ularning, ayniqsa leykotrienlarning, birgalikdagi ta'siri: mayda bronxiolalar devorida mahalliy shish va bo'shliqqa quyuq shilliq ajralishi; bronxiola silliq mushagi spazmi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-nafas-chiqarish-qiyin-bolishining-sababi",
+   "termUz": "Nafas chiqarish qiyin bo'lishining sababi",
+   "original": null,
+   "contextUz": "Nafas chiqarish qiyin bo'lishining sababi: nafas chiqarish kuchi bronxiolalarni tashqaridan siqadi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-klinik-olchovlar",
+   "termUz": "Klinik o'lchovlar",
+   "original": null,
+   "contextUz": "Klinik o'lchovlar: maksimal nafas chiqarish tezligi keskin kamaygan; vaqt bo'yicha nafas chiqarish hajmi (FEV₁) kamaygan; hansirash (\"havo tanqisligi\").",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-otkir-xurujda",
+   "termUz": "O'tkir xurujda",
+   "original": null,
+   "contextUz": "O'tkir xurujda FRC va RV keskin ortadi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-yillar-davomida",
+   "termUz": "Yillar davomida",
+   "original": null,
+   "contextUz": "Yillar davomida ko'krak qafasi doimiy kengayadi (\"bochkasimon ko'krak\"), FRC va RV doimiy ortgan holda qoladi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-bochkasimon-kokrak",
+   "termUz": "\"bochkasimon ko'krak\"",
+   "original": null,
+   "contextUz": "Yillar davomida ko'krak qafasi doimiy kengayadi (\"bochkasimon ko'krak\"), FRC va RV doimiy ortgan holda qoladi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-devor-bilan-oraladi",
+   "termUz": "\"devor bilan o'raladi\"",
+   "original": null,
+   "contextUz": "Mexanizm: sil tayoqchasi o'ziga xos to'qima reaksiyasini chaqiradi: infeksiyalangan to'qimaga makrofaglar kiradi; o'choq fibroz to'qima bilan \"devor bilan o'raladi\" va tuberkula hosil bo'ladi (34-bob).",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-tuberkula",
+   "termUz": "tuberkula",
+   "original": null,
+   "contextUz": "Mexanizm: sil tayoqchasi o'ziga xos to'qima reaksiyasini chaqiradi: infeksiyalangan to'qimaga makrofaglar kiradi; o'choq fibroz to'qima bilan \"devor bilan o'raladi\" va tuberkula hosil bo'ladi (34-bob).",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-3",
+   "termUz": "3%",
+   "original": null,
+   "contextUz": "Davolanmagan bemorlarning ~3% ida o'rash muvaffaqiyatsiz bo'ladi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-abssess-boshliqlari-kavernalar",
+   "termUz": "abssess bo'shliqlari (kavernalar)",
+   "original": null,
+   "contextUz": "Tayoqchalar butun o'pkaga tarqalib, to'qimani kuchli yemiradi va katta abssess bo'shliqlari (kavernalar) hosil qiladi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-kech-bosqichda",
+   "termUz": "Kech bosqichda",
+   "original": null,
+   "contextUz": "Kech bosqichda ko'p fibroz sohalar va funksional to'qima kamayishi kuzatiladi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-opkada-qonning-yetarli-oksigenlanmasligi-tashqi-sabablar",
+   "termUz": "O'pkada qonning yetarli oksigenlanmasligi (tashqi sabablar)",
+   "original": null,
+   "contextUz": "O'pkada qonning yetarli oksigenlanmasligi (tashqi sabablar): a.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-opka-kasalligi",
+   "termUz": "O'pka kasalligi",
+   "original": null,
+   "contextUz": "O'pka kasalligi: a.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-venoz-arterial-ongdan-chapga-yurak-shuntlari",
+   "termUz": "Venoz-arterial (o'ngdan chapga) yurak shuntlari.",
+   "original": null,
+   "contextUz": "Venoz-arterial (o'ngdan chapga) yurak shuntlari. To'qimalarga O₂ ning qon bilan yetarli tashilmasligi: a.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-toqimalarga-o-ning-qon-bilan-yetarli-tashilmasligi",
+   "termUz": "To'qimalarga O₂ ning qon bilan yetarli tashilmasligi",
+   "original": null,
+   "contextUz": " To'qimalarga O₂ ning qon bilan yetarli tashilmasligi: a.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-toqimaning-o-dan-foydalana-olmasligi",
+   "termUz": "To'qimaning O₂ dan foydalana olmasligi",
+   "original": null,
+   "contextUz": "To'qimaning O₂ dan foydalana olmasligi: a.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-sianid-bilan-zaharlanish",
+   "termUz": "sianid bilan zaharlanish",
+   "original": null,
+   "contextUz": "Klassik misol sianid bilan zaharlanish: sianid sitoxrom oksidazani bloklaydi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-sitoxrom-oksidaza",
+   "termUz": "sitoxrom oksidaza",
+   "original": null,
+   "contextUz": "Klassik misol sianid bilan zaharlanish: sianid sitoxrom oksidazani bloklaydi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-beriberi",
+   "termUz": "Beriberi",
+   "original": "B vitamini yetishmovchiligi",
+   "contextUz": "Beriberi (B vitamini yetishmovchiligi): to'qima O₂ dan foydalanishi va CO₂ hosil qilishining bir necha bosqichi buziladi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-gipoksiyaning-tasiri",
+   "termUz": "Gipoksiyaning ta'siri",
+   "original": null,
+   "contextUz": "Gipoksiyaning ta'siri: og'ir bo'lsa, butun tanada hujayra o'limi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-berish-usullari",
+   "termUz": "Berish usullari",
+   "original": null,
+   "contextUz": "Berish usullari: (1) bemorning boshi O₂ bilan boyitilgan havoli \"chodir\"ga qo'yiladi; (2) niqob orqali toza yoki yuqori konsentratsiyali O₂; (3) burun ichi naychasi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-chodir",
+   "termUz": "\"chodir\"",
+   "original": null,
+   "contextUz": "Berish usullari: (1) bemorning boshi O₂ bilan boyitilgan havoli \"chodir\"ga qo'yiladi; (2) niqob orqali toza yoki yuqori konsentratsiyali O₂; (3) burun ichi naychasi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-niqob",
+   "termUz": "niqob",
+   "original": null,
+   "contextUz": "Berish usullari: (1) bemorning boshi O₂ bilan boyitilgan havoli \"chodir\"ga qo'yiladi; (2) niqob orqali toza yoki yuqori konsentratsiyali O₂; (3) burun ichi naychasi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-burun-ichi-naychasi",
+   "termUz": "burun ichi naychasi",
+   "original": null,
+   "contextUz": "Berish usullari: (1) bemorning boshi O₂ bilan boyitilgan havoli \"chodir\"ga qo'yiladi; (2) niqob orqali toza yoki yuqori konsentratsiyali O₂; (3) burun ichi naychasi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-atmosfera-gipoksiyasi",
+   "termUz": "Atmosfera gipoksiyasi",
+   "original": null,
+   "contextUz": "Gipoksiya turi O₂ terapiyasining samarasi Atmosfera gipoksiyasi 100% samarali: nafas olinadigan gazdagi O₂ kamligini to'liq tuzatadi Gipoventilyatsiya juda foydali: 100% O₂ bilan har nafasda alveolaga 5 marta ko'p O₂ kiradi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-100-samarali",
+   "termUz": "100% samarali",
+   "original": null,
+   "contextUz": "Gipoksiya turi O₂ terapiyasining samarasi Atmosfera gipoksiyasi 100% samarali: nafas olinadigan gazdagi O₂ kamligini to'liq tuzatadi Gipoventilyatsiya juda foydali: 100% O₂ bilan har nafasda alveolaga 5 marta ko'p O₂ kiradi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-gipoventilyatsiya",
+   "termUz": "Gipoventilyatsiya",
+   "original": null,
+   "contextUz": "Gipoksiya turi O₂ terapiyasining samarasi Atmosfera gipoksiyasi 100% samarali: nafas olinadigan gazdagi O₂ kamligini to'liq tuzatadi Gipoventilyatsiya juda foydali: 100% O₂ bilan har nafasda alveolaga 5 marta ko'p O₂ kiradi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-5-marta",
+   "termUz": "5 marta",
+   "original": null,
+   "contextUz": "Gipoksiya turi O₂ terapiyasining samarasi Atmosfera gipoksiyasi 100% samarali: nafas olinadigan gazdagi O₂ kamligini to'liq tuzatadi Gipoventilyatsiya juda foydali: 100% O₂ bilan har nafasda alveolaga 5 marta ko'p O₂ kiradi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-ortiqcha-co-ga-foyda-yoq",
+   "termUz": "ortiqcha CO₂ ga foyda yo'q",
+   "original": null,
+   "contextUz": "Lekin ortiqcha CO₂ ga foyda yo'q Diffuziya buzilishi juda foydali: alveolyar PO₂ ~100 dan 600 mm Hg gacha ko'tariladi, diffuziya gradiyenti 60 dan 560 mm Hg gacha (>800%) ortadi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-diffuziya-buzilishi",
+   "termUz": "Diffuziya buzilishi",
+   "original": null,
+   "contextUz": "Lekin ortiqcha CO₂ ga foyda yo'q Diffuziya buzilishi juda foydali: alveolyar PO₂ ~100 dan 600 mm Hg gacha ko'tariladi, diffuziya gradiyenti 60 dan 560 mm Hg gacha (>800%) ortadi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-600-mm-hg",
+   "termUz": "600 mm Hg",
+   "original": null,
+   "contextUz": "Lekin ortiqcha CO₂ ga foyda yo'q Diffuziya buzilishi juda foydali: alveolyar PO₂ ~100 dan 600 mm Hg gacha ko'tariladi, diffuziya gradiyenti 60 dan 560 mm Hg gacha (>800%) ortadi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-560-mm-hg",
+   "termUz": "560 mm Hg",
+   "original": null,
+   "contextUz": "Lekin ortiqcha CO₂ ga foyda yo'q Diffuziya buzilishi juda foydali: alveolyar PO₂ ~100 dan 600 mm Hg gacha ko'tariladi, diffuziya gradiyenti 60 dan 560 mm Hg gacha (>800%) ortadi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-3-4-marta",
+   "termUz": "3–4 marta",
+   "original": null,
+   "contextUz": "O'pka shishida (rasm 43-8) qon O₂ ni 3–4 marta tezroq oladi Anemiya, anomal Hb, qon aylanish yetishmovchiligi, fiziologik shunt kam foyda: alveolada O₂ normal, muammo tashishda.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-anemiya-anomal-hb-qon-aylanish-yetishmovchiligi-fiziologik-s",
+   "termUz": "Anemiya, anomal Hb, qon aylanish yetishmovchiligi, fiziologik shunt",
+   "original": null,
+   "contextUz": "O'pka shishida (rasm 43-8) qon O₂ ni 3–4 marta tezroq oladi Anemiya, anomal Hb, qon aylanish yetishmovchiligi, fiziologik shunt kam foyda: alveolada O₂ normal, muammo tashishda.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-7-30",
+   "termUz": "7–30%",
+   "original": null,
+   "contextUz": "Biroq erigan holda 7–30% qo'shimcha O₂ tashilishi mumkin, bu hayot va o'lim o'rtasidagi farq bo'lishi mumkin To'qima O₂ dan foydalana olmasligi (sianid va boshqalar) foyda yo'q: O₂ yetkaziladi, lekin fermentlar ishlatolmaydi",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-toqima-o-dan-foydalana-olmasligi",
+   "termUz": "To'qima O₂ dan foydalana olmasligi",
+   "original": "sianid va boshqalar",
+   "contextUz": "Biroq erigan holda 7–30% qo'shimcha O₂ tashilishi mumkin, bu hayot va o'lim o'rtasidagi farq bo'lishi mumkin To'qima O₂ dan foydalana olmasligi (sianid va boshqalar) foyda yo'q: O₂ yetkaziladi, lekin fermentlar ishlatolmaydi",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-foyda-yoq",
+   "termUz": "foyda yo'q",
+   "original": null,
+   "contextUz": "Biroq erigan holda 7–30% qo'shimcha O₂ tashilishi mumkin, bu hayot va o'lim o'rtasidagi farq bo'lishi mumkin To'qima O₂ dan foydalana olmasligi (sianid va boshqalar) foyda yo'q: O₂ yetkaziladi, lekin fermentlar ishlatolmaydi",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-deoksigenlangan-gemoglobin",
+   "termUz": "deoksigenlangan gemoglobin",
+   "original": null,
+   "contextUz": "Teri tomirlarida, ayniqsa kapillyarlarda, ko'p deoksigenlangan gemoglobin bo'ladi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-chegara",
+   "termUz": "Chegara",
+   "original": null,
+   "contextUz": "Chegara: arterial qonda >5 g/100 ml deoksigenlangan Hb.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-5-g-100-ml",
+   "termUz": ">5 g/100 ml",
+   "original": null,
+   "contextUz": "Chegara: arterial qonda >5 g/100 ml deoksigenlangan Hb.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-anemiyada",
+   "termUz": "Anemiyada",
+   "original": null,
+   "contextUz": "Anemiyada deyarli hech qachon bo'lmaydi: 100 ml qonda 5 g deoksigenlanadigan Hb yo'q.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-polisitemiya-vera",
+   "termUz": "Polisitemiya vera",
+   "original": null,
+   "contextUz": "Polisitemiya verada tez-tez uchraydi: Hb juda ko'p, hatto normal sharoitda ham.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-gipoksiya-bilan-birga-qachon-keladi",
+   "termUz": "Gipoksiya bilan birga qachon keladi",
+   "original": null,
+   "contextUz": "Gipoksiya bilan birga qachon keladi:",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-yoq",
+   "termUz": "yo'q",
+   "original": "faqat O₂ mavjudligi yoki ishlatilishi buzilgan",
+   "contextUz": "Gipoksiya sababi Giperkapniya Havoda O₂ kam, Hb kam, fermentlar zaharlanishi yo'q (faqat O₂ mavjudligi yoki ishlatilishi buzilgan) Diffuziya buzilishi (membrana yoki to'qima) odatda jiddiy emas: CO₂ 20 marta tez diffuziyalanadi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-jiddiy-emas",
+   "termUz": "jiddiy emas",
+   "original": null,
+   "contextUz": "Gipoksiya sababi Giperkapniya Havoda O₂ kam, Hb kam, fermentlar zaharlanishi yo'q (faqat O₂ mavjudligi yoki ishlatilishi buzilgan) Diffuziya buzilishi (membrana yoki to'qima) odatda jiddiy emas: CO₂ 20 marta tez diffuziyalanadi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-ha",
+   "termUz": "ha",
+   "original": null,
+   "contextUz": "Giperkapniya boshlansa, ventilyatsiyani qo'zg'atib uni tuzatadi (lekin gipoksiyani tuzatmaydi) Gipoventilyatsiya ha: CO₂ almashinuvi O₂ niki kabi buziladi Qon aylanish yetishmovchiligi to'qima giperkapniyasi bor, lekin gipoksiyadan kam: qonning CO₂ tashish sig'imi O₂ nikidan 3 martadan ko'p",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-qon-aylanish-yetishmovchiligi",
+   "termUz": "Qon aylanish yetishmovchiligi",
+   "original": null,
+   "contextUz": "Giperkapniya boshlansa, ventilyatsiyani qo'zg'atib uni tuzatadi (lekin gipoksiyani tuzatmaydi) Gipoventilyatsiya ha: CO₂ almashinuvi O₂ niki kabi buziladi Qon aylanish yetishmovchiligi to'qima giperkapniyasi bor, lekin gipoksiyadan kam: qonning CO₂ tashish sig'imi O₂ nikidan 3 martadan ko'p",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-3-martadan",
+   "termUz": "3 martadan",
+   "original": null,
+   "contextUz": "Giperkapniya boshlansa, ventilyatsiyani qo'zg'atib uni tuzatadi (lekin gipoksiyani tuzatmaydi) Gipoventilyatsiya ha: CO₂ almashinuvi O₂ niki kabi buziladi Qon aylanish yetishmovchiligi to'qima giperkapniyasi bor, lekin gipoksiyadan kam: qonning CO₂ tashish sig'imi O₂ nikidan 3 martadan ko'p",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-pco-darajalari",
+   "termUz": "PCO₂ darajalari",
+   "original": null,
+   "contextUz": "PCO₂ darajalari:",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-ogir-hansirash",
+   "termUz": "og'ir hansirash",
+   "original": null,
+   "contextUz": "Alveolyar PCO₂ Holat 60–75 mm Hg odam maksimal tez va chuqur nafas oladi, og'ir hansirash 80–100 mm Hg letargiya, yarim koma 120–150 mm Hg anesteziya va o'lim",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-letargiya",
+   "termUz": "letargiya",
+   "original": null,
+   "contextUz": "Alveolyar PCO₂ Holat 60–75 mm Hg odam maksimal tez va chuqur nafas oladi, og'ir hansirash 80–100 mm Hg letargiya, yarim koma 120–150 mm Hg anesteziya va o'lim",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-anesteziya-va-olim",
+   "termUz": "anesteziya va o'lim",
+   "original": null,
+   "contextUz": "Alveolyar PCO₂ Holat 60–75 mm Hg odam maksimal tez va chuqur nafas oladi, og'ir hansirash 80–100 mm Hg letargiya, yarim koma 120–150 mm Hg anesteziya va o'lim",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-ayovsiz-doira",
+   "termUz": "Ayovsiz doira",
+   "original": null,
+   "contextUz": "Ayovsiz doira: yuqori PCO₂ endi nafasni qo'zg'atmaydi, aksincha tormozlaydi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-tormozlaydi",
+   "termUz": "tormozlaydi",
+   "original": null,
+   "contextUz": "Ayovsiz doira: yuqori PCO₂ endi nafasni qo'zg'atmaydi, aksincha tormozlaydi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-uch-omil",
+   "termUz": "Uch omil",
+   "original": null,
+   "contextUz": "Uch omil: Nafas gazlari anomaliyasi, ayniqsa giperkapniya; gipoksiya ancha kamroq.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-nafas-gazlari-anomaliyasi",
+   "termUz": "Nafas gazlari anomaliyasi",
+   "original": null,
+   "contextUz": "Uch omil: Nafas gazlari anomaliyasi, ayniqsa giperkapniya; gipoksiya ancha kamroq.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-giperkapniya",
+   "termUz": "giperkapniya",
+   "original": null,
+   "contextUz": "Uch omil: Nafas gazlari anomaliyasi, ayniqsa giperkapniya; gipoksiya ancha kamroq.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-nafas-mushaklarining-ishi",
+   "termUz": "Nafas mushaklarining ishi",
+   "original": null,
+   "contextUz": "Nafas mushaklarining ishi: gazlar normal bo'lsa ham, buning uchun kuchli nafas olish kerak bo'lsa, hansirash seziladi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-ruhiy-holat",
+   "termUz": "Ruhiy holat.",
+   "original": null,
+   "contextUz": "Ruhiy holat. Ko'pchilik 1–2 daqiqa nafasni ushlagach og'ir hansirash sezadi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-neyrogen-emotsional-dispnoe",
+   "termUz": "Neyrogen (emotsional) dispnoe",
+   "original": null,
+   "contextUz": "Neyrogen (emotsional) dispnoe: nafas funksiyalari va gazlar normal.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-tuzilishi",
+   "termUz": "Tuzilishi",
+   "original": null,
+   "contextUz": "Tuzilishi: O₂ yoki havo ballon; vaqti-vaqti bilan musbat bosim (ba'zi apparatlarda manfiy ham) beruvchi mexanizm; yuz niqobi yoki endotraxeal naycha ulagichi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-musbat-bosim",
+   "termUz": "musbat bosim",
+   "original": "ba'zi apparatlarda manfiy ham",
+   "contextUz": "Tuzilishi: O₂ yoki havo ballon; vaqti-vaqti bilan musbat bosim (ba'zi apparatlarda manfiy ham) beruvchi mexanizm; yuz niqobi yoki endotraxeal naycha ulagichi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-endotraxeal-naycha",
+   "termUz": "endotraxeal naycha",
+   "original": null,
+   "contextUz": "Tuzilishi: O₂ yoki havo ballon; vaqti-vaqti bilan musbat bosim (ba'zi apparatlarda manfiy ham) beruvchi mexanizm; yuz niqobi yoki endotraxeal naycha ulagichi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-12-15-sm-h-o",
+   "termUz": "12–15 sm H₂O",
+   "original": null,
+   "contextUz": "Hozir bosim chegarasi sozlanadi: normal o'pkada 12–15 sm H₂O, komplians past o'pkada yuqoriroq.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-charm-diafragma",
+   "termUz": "charm diafragma",
+   "original": null,
+   "contextUz": "Motorli charm diafragma bak ichidagi bosimni o'zgartiradi: ichkariga harakatlanganda musbat bosim, nafas chiqarish (0 dan +5 sm H₂O); tashqariga harakatlanganda manfiy bosim, nafas olish (−10 dan −20 sm H₂O).",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-manfiy-bosim",
+   "termUz": "manfiy bosim",
+   "original": null,
+   "contextUz": "Motorli charm diafragma bak ichidagi bosimni o'zgartiradi: ichkariga harakatlanganda musbat bosim, nafas chiqarish (0 dan +5 sm H₂O); tashqariga harakatlanganda manfiy bosim, nafas olish (−10 dan −20 sm H₂O).",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-deyarli-eskirgan",
+   "termUz": "deyarli eskirgan",
+   "original": null,
+   "contextUz": "Zamonaviy tibbiyotda musbat bosimli mexanik ventilyatorlar tufayli deyarli eskirgan.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-yurak-minutlik-hajmini",
+   "termUz": "yurak minutlik hajmini",
+   "original": null,
+   "contextUz": "Ortiqcha bosim yurak minutlik hajmini kamaytiradi, ba'zan o'lim darajasigacha.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-30-mm-hg",
+   "termUz": ">30 mm Hg",
+   "original": null,
+   "contextUz": "O'pkada >30 mm Hg musbat bosim bir necha daqiqadan ortiq davom etsa, venoz qaytish yetarli bo'lmagani sababli o'limga olib kelishi mumkin.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-fev-fvc-80",
+   "termUz": "FEV₁/FVC <80%",
+   "original": null,
+   "contextUz": "FEV₁/FVC <80%: obstruksiya (astma, SOO'K).",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-tlc-va-rv-kamaygan",
+   "termUz": "TLC va RV kamaygan",
+   "original": null,
+   "contextUz": "TLC va RV kamaygan: restriksiya (fibroz, kifoskolioz).",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-emfizema",
+   "termUz": "Emfizema",
+   "original": null,
+   "contextUz": "Emfizema: shunt va o'lik bo'shliq birga; o'pka gipertenziyasi va o'ng yurak yetishmovchiligi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-pnevmoniya",
+   "termUz": "Pnevmoniya",
+   "original": "saturatsiya ~78%",
+   "contextUz": "Pnevmoniya (saturatsiya ~78%) va atelektaz (~91%) farqi gipoksik vazokonstriksiyaga bog'liq.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-atelektaz",
+   "termUz": "atelektaz",
+   "original": "~91%",
+   "contextUz": "Pnevmoniya (saturatsiya ~78%) va atelektaz (~91%) farqi gipoksik vazokonstriksiyaga bog'liq.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-astmada",
+   "termUz": "Astmada",
+   "original": null,
+   "contextUz": "Astmada nafas chiqarish qiyin; asosiy mediatorlar leykotrienlar.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-gipoventilyatsiyada-o-berish",
+   "termUz": "Gipoventilyatsiyada O₂ berish",
+   "original": null,
+   "contextUz": "Gipoventilyatsiyada O₂ berish: gipoksiyani tuzatadi, giperkapniyani tuzatmaydi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-sianid-zaharlanishi",
+   "termUz": "Sianid zaharlanishi",
+   "original": null,
+   "contextUz": "Sianid zaharlanishida O₂ befoyda.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-anemiyada-sianoz-yoq",
+   "termUz": "Anemiyada sianoz yo'q",
+   "original": null,
+   "contextUz": "Anemiyada sianoz yo'q, polisitemiyada bor.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-pco-120-mm-hg",
+   "termUz": "PCO₂ >120 mm Hg",
+   "original": null,
+   "contextUz": "PCO₂ >120 mm Hg: CO₂ narkozi va o'lim.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch43-t-mexanik-ventilyatsiya",
+   "termUz": "Mexanik ventilyatsiya",
+   "original": null,
+   "contextUz": "Mexanik ventilyatsiya: yuqori musbat bosim yurak minutlik hajmini kamaytiradi.",
+   "lessonId": "ch43",
+   "topicId": "07",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  }
+ ],
+ "bookDefinitions": [
+  {
+   "pdfPage": 525,
+   "printedPage": "520",
+   "text": "This condition is called neurogenic dyspnea or emotional dyspnea"
+  }
+ ],
+ "keyNumbers": [
+  {
+   "pdfPage": 519,
+   "printedPage": "514",
+   "text": "Note that the person quickly reaches a maximum expiratory airflow of more than 400 L/min"
+  },
+  {
+   "pdfPage": 520,
+   "printedPage": "515",
+   "text": "In the normal person (see Figure 43-3A), the percentage of the FVC that is expired in the first second divided by the total FVC (FEV1/FVC%) is 80%"
+  },
+  {
+   "pdfPage": 520,
+   "printedPage": "515",
+   "text": "However, note in Figure 43-3B that with airway obstruction, this value decreases to only 47%"
+  },
+  {
+   "pdfPage": 520,
+   "printedPage": "515",
+   "text": "In persons with serious airway obstruction, as often occurs with acute asthma, this value can decrease to less than 20%"
+  },
+  {
+   "pdfPage": 520,
+   "printedPage": "515",
+   "text": "Therefore, it is customary to compare the recorded forced expiratory volume during the first second (FEV1) with the 4 Maximum inspiration FEV1 Lung volume change (liters) 3 2 A 0 1 3 3 4 5 6 7 FEV1 2 0 2 Airway Obstruction 4 FEV1/FVC% FVC = 47% 1 B FVC FEV1/FVC% = 80% 1 0 Normal 0 1 2 3 4 Seconds 5 6 7 Figure 43-3"
+  },
+  {
+   "pdfPage": 520,
+   "printedPage": "515",
+   "text": "This effect, combined with the lung infection, causes marked destruction of as much as 50% to 80% of the alveolar walls"
+  },
+  {
+   "pdfPage": 522,
+   "printedPage": "517",
+   "text": "The surfactant in turn decreases the surface tension in the alveoli by 2- to 10-fold, which normally plays a major role in preventing alveolar collapse"
+  },
+  {
+   "pdfPage": 522,
+   "printedPage": "517",
+   "text": "Pulmonary arterial blood 60% saturated with O2 Pulmonary arterial blood 60% saturated with O2 Pneumonia Left pulmonary veins 60% saturated Right pulmonary veins 97% saturated Aorta: Blood 1/2 = 97% 1/2 = 60% Mean saturation = 78% Figure 43-6"
+  },
+  {
+   "pdfPage": 522,
+   "printedPage": "517",
+   "text": "Atelectasis Left pulmonary veins 60% saturated: flow 1/5 normal Right pulmonary veins 97% saturated Aorta: Blood 5/6 = 97% 1/6 = 60% Mean saturation = 91% Figure 43-7"
+  },
+  {
+   "pdfPage": 522,
+   "printedPage": "517",
+   "text": "The blood passing through the aerated lung becomes 97% saturated with O2, whereas that passing through the unaerated lung is about 60% saturated"
+  },
+  {
+   "pdfPage": 522,
+   "printedPage": "517",
+   "text": "Therefore, the average saturation of the blood pumped by the left heart into the aorta is only about 78%, which is far below normal."
+  },
+  {
+   "pdfPage": 523,
+   "printedPage": "518",
+   "text": "The prevalence of asthma has been increasing and affects 7% to 8% of all people in the United States, with even higher rates in some groups such as non-Hispanic blacks"
+  },
+  {
+   "pdfPage": 523,
+   "printedPage": "518",
+   "text": "The World Health Organization estimates that over 235 million people worldwide suffer from asthma, although some estimates of asthma prevalence are as high as 339 million people"
+  },
+  {
+   "pdfPage": 523,
+   "printedPage": "518",
+   "text": "In about 70% of patients younger than 30 years, the asthma is caused by allergic hypersensitivity, especially sensitivity to plant pollens"
+  },
+  {
+   "pdfPage": 523,
+   "printedPage": "518",
+   "text": "However, in about 3% of people in whom tuberculosis develops, if the disease is not treated, the walling-off process fails, and tubercle bacilli spread throughout the lungs, often causing extreme destruction of lung tissue, with formation of large abscess cavities"
+  },
+  {
+   "pdfPage": 524,
+   "printedPage": "519",
+   "text": "In atmospheric hypoxia, O2 therapy can completely correct the depressed O2 level in the inspired gases and, therefore, provide 100% effective therapy"
+  },
+  {
+   "pdfPage": 524,
+   "printedPage": "519",
+   "text": "In hypoventilation hypoxia, a person breathing 100% O2 can move five times as much O2 into the alveoli with each breath as when breathing normal air"
+  },
+  {
+   "pdfPage": 524,
+   "printedPage": "519",
+   "text": "In hypoxia caused by impaired alveolar membrane diffusion, essentially the same result occurs as in hypoventilation hypoxia because O2 therapy can increase the Po2 in the lung alveoli from the normal value of about 100 mm Hg to as high as 600 mm Hg"
+  },
+  {
+   "pdfPage": 524,
+   "printedPage": "519",
+   "text": "This action raises the O2 pressure gradient for diffusion of oxygen from the alveoli to the blood from the normal value of 60 mm Hg to as high as 560 mm Hg, an increase of more than 800%"
+  },
+  {
+   "pdfPage": 524,
+   "printedPage": "519",
+   "text": "Even so, a small amount of extra O2, between 7% and 30%, can be transported in the dissolved state in the blood when alveolar O2 is increased to maximum, even though the amount transported by the hemoglobin is hardly altered"
+  },
+  {
+   "pdfPage": 524,
+   "printedPage": "519",
+   "text": "In general, definite cyanosis appears whenever the arterial blood contains more than 5 grams of deoxygenated 547"
+  },
+  {
+   "pdfPage": 525,
+   "printedPage": "520",
+   "text": "UNIT VII Respiration hemoglobin in each 100 ml of blood"
+  },
+  {
+   "pdfPage": 525,
+   "printedPage": "520",
+   "text": "A person with anemia almost never becomes cyanotic because there is not enough hemoglobin for 5 grams to be deoxygenated in 100 ml of arterial blood"
+  },
+  {
+   "pdfPage": 525,
+   "printedPage": "520",
+   "text": "In hypoxia resulting from poor diffusion through the pulmonary membrane or the tissues, serious hypercapnia usually does not occur at the same time because CO2 diffuses 20 times as rapidly as O2"
+  },
+  {
+   "pdfPage": 525,
+   "printedPage": "520",
+   "text": "When the alveolar Pco2 rises above about 60 to 75 mm Hg, an otherwise normal person by then is breathing about as rapidly and deeply as he or she can, and air hunger, also called dyspnea, becomes severe"
+  },
+  {
+   "pdfPage": 525,
+   "printedPage": "520",
+   "text": "If the Pco2 rises to 80 to 100 mm Hg, the person becomes lethargic and sometimes even semicomatose"
+  },
+  {
+   "pdfPage": 525,
+   "printedPage": "520",
+   "text": "Anesthesia and death can result when the Pco2 rises to 120 to 150 mm Hg"
+  },
+  {
+   "pdfPage": 525,
+   "printedPage": "520",
+   "text": "Most people have the sensation of severe dyspnea after only 1 to 2 minutes of voluntary breath-holding (apnea)"
+  },
+  {
+   "pdfPage": 525,
+   "printedPage": "520",
+   "text": "However, as discussed in Chapter 42, some individuals can train themselves to suppress respiratory urges for more than 10 minutes, despite buildup of CO2 and very low O2 in the body fluids"
+  },
+  {
+   "pdfPage": 525,
+   "printedPage": "520",
+   "text": "However, resuscitators now have adjustable positive- pressure limits that are commonly set at 12 to 15 cm H2O pressure for normal lungs, but sometimes much higher for noncompliant lungs"
+  }
+ ],
+ "figureIds": [
+  "gh14-fig-43-01",
+  "gh14-fig-43-02",
+  "gh14-fig-43-03",
+  "gh14-fig-43-04",
+  "gh14-fig-43-05",
+  "gh14-fig-43-06",
+  "gh14-fig-43-07",
+  "gh14-fig-43-08",
+  "gh14-fig-43-09"
+ ],
+ "estMinutes": 28,
+ "counts": {
+  "figures": 9,
+  "figuresIncluded": 9,
+  "terms": 160,
+  "words": 5584,
+  "unplacedInSummary": 5
+ },
+ "review": {
+  "reviewedBy": null,
+  "reviewedAt": null
+ },
+ "importedAt": "2026-11-14T14:08:26+00:00"
+}

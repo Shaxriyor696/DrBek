@@ -1,0 +1,532 @@
+{
+ "generatedAt": "2026-11-14T14:08:26+00:00",
+ "contentVersion": "2026-11-14.1",
+ "topics": [
+  {
+   "topicId": "01",
+   "bookUnit": "I",
+   "chapters": [
+    1,
+    2,
+    3
+   ],
+   "sourceSections": {
+    "expected": 146,
+    "found": 124,
+    "reviewed": 0,
+    "published": 0
+   },
+   "figures": {
+    "expected": 40,
+    "included": 40,
+    "needsReview": 0,
+    "missing": 0,
+    "reviewed": 0
+   },
+   "summaryUz": {
+    "chapters": 3,
+    "found": 3
+   },
+   "questions": 0,
+   "missing": []
+  },
+  {
+   "topicId": "02",
+   "bookUnit": "II",
+   "chapters": [
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "sourceSections": {
+    "expected": 172,
+    "found": 159,
+    "reviewed": 0,
+    "published": 0
+   },
+   "figures": {
+    "expected": 64,
+    "included": 64,
+    "needsReview": 0,
+    "missing": 0,
+    "reviewed": 0
+   },
+   "summaryUz": {
+    "chapters": 5,
+    "found": 5
+   },
+   "questions": 0,
+   "missing": []
+  },
+  {
+   "topicId": "03",
+   "bookUnit": "III",
+   "chapters": [
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "sourceSections": {
+    "expected": 184,
+    "found": 168,
+    "reviewed": 0,
+    "published": 0
+   },
+   "figures": {
+    "expected": 76,
+    "included": 76,
+    "needsReview": 0,
+    "missing": 0,
+    "reviewed": 0
+   },
+   "summaryUz": {
+    "chapters": 5,
+    "found": 5
+   },
+   "questions": 0,
+   "missing": []
+  },
+  {
+   "topicId": "04",
+   "bookUnit": "IV",
+   "chapters": [
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+   ],
+   "sourceSections": {
+    "expected": 419,
+    "found": 390,
+    "reviewed": 0,
+    "published": 0
+   },
+   "figures": {
+    "expected": 121,
+    "included": 120,
+    "needsReview": 1,
+    "missing": 0,
+    "reviewed": 0
+   },
+   "summaryUz": {
+    "chapters": 11,
+    "found": 11
+   },
+   "questions": 0,
+   "missing": [
+    {
+     "item": "Table 17-1",
+     "pdfPage": 197,
+     "reason": "full page fallback, needs manual crop"
+    }
+   ]
+  },
+  {
+   "topicId": "05",
+   "bookUnit": "V",
+   "chapters": [
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+   ],
+   "sourceSections": {
+    "expected": 306,
+    "found": 285,
+    "reviewed": 0,
+    "published": 0
+   },
+   "figures": {
+    "expected": 133,
+    "included": 130,
+    "needsReview": 3,
+    "missing": 0,
+    "reviewed": 0
+   },
+   "summaryUz": {
+    "chapters": 8,
+    "found": 8
+   },
+   "questions": 0,
+   "missing": [
+    {
+     "item": "Table 28-1",
+     "pdfPage": 330,
+     "reason": "full page fallback, needs manual crop"
+    },
+    {
+     "item": "Table 32-2",
+     "pdfPage": 408,
+     "reason": "full page fallback, needs manual crop"
+    },
+    {
+     "item": "Table 32-6",
+     "pdfPage": 414,
+     "reason": "full page fallback, needs manual crop"
+    }
+   ]
+  },
+  {
+   "topicId": "06",
+   "bookUnit": "VI",
+   "chapters": [
+    33,
+    34,
+    35,
+    36,
+    37
+   ],
+   "sourceSections": {
+    "expected": 201,
+    "found": 167,
+    "reviewed": 0,
+    "published": 0
+   },
+   "figures": {
+    "expected": 36,
+    "included": 34,
+    "needsReview": 1,
+    "missing": 1,
+    "reviewed": 0
+   },
+   "summaryUz": {
+    "chapters": 5,
+    "found": 5
+   },
+   "questions": 0,
+   "missing": [
+    {
+     "item": "Figure 35-6",
+     "pdfPage": 445,
+     "reason": "crop not found automatically"
+    },
+    {
+     "item": "Figure 37-1",
+     "pdfPage": 458,
+     "reason": "full page fallback, needs manual crop"
+    }
+   ]
+  },
+  {
+   "topicId": "07",
+   "bookUnit": "VII",
+   "chapters": [
+    38,
+    39,
+    40,
+    41,
+    42,
+    43
+   ],
+   "sourceSections": {
+    "expected": 157,
+    "found": 144,
+    "reviewed": 0,
+    "published": 0
+   },
+   "figures": {
+    "expected": 67,
+    "included": 67,
+    "needsReview": 0,
+    "missing": 0,
+    "reviewed": 0
+   },
+   "summaryUz": {
+    "chapters": 6,
+    "found": 6
+   },
+   "questions": 0,
+   "missing": []
+  },
+  {
+   "topicId": "08",
+   "bookUnit": "VIII",
+   "chapters": [
+    44,
+    45
+   ],
+   "sourceSections": {
+    "expected": 38,
+    "found": 31,
+    "reviewed": 0,
+    "published": 0
+   },
+   "figures": {
+    "expected": 10,
+    "included": 8,
+    "needsReview": 2,
+    "missing": 0,
+    "reviewed": 0
+   },
+   "summaryUz": {
+    "chapters": 2,
+    "found": 2
+   },
+   "questions": 0,
+   "missing": [
+    {
+     "item": "Figure 44-4",
+     "pdfPage": 532,
+     "reason": "full page fallback, needs manual crop"
+    },
+    {
+     "item": "Table 44-1",
+     "pdfPage": 528,
+     "reason": "full page fallback, needs manual crop"
+    }
+   ]
+  },
+  {
+   "topicId": "09",
+   "bookUnit": "IX",
+   "chapters": [
+    46,
+    47,
+    48,
+    49
+   ],
+   "sourceSections": {
+    "expected": 166,
+    "found": 148,
+    "reviewed": 0,
+    "published": 0
+   },
+   "figures": {
+    "expected": 58,
+    "included": 58,
+    "needsReview": 0,
+    "missing": 0,
+    "reviewed": 0
+   },
+   "summaryUz": {
+    "chapters": 4,
+    "found": 4
+   },
+   "questions": 0,
+   "missing": []
+  },
+  {
+   "topicId": "10",
+   "bookUnit": "X",
+   "chapters": [
+    50,
+    51,
+    52,
+    53,
+    54
+   ],
+   "sourceSections": {
+    "expected": 157,
+    "found": 151,
+    "reviewed": 0,
+    "published": 0
+   },
+   "figures": {
+    "expected": 65,
+    "included": 65,
+    "needsReview": 0,
+    "missing": 0,
+    "reviewed": 0
+   },
+   "summaryUz": {
+    "chapters": 5,
+    "found": 5
+   },
+   "questions": 0,
+   "missing": []
+  },
+  {
+   "topicId": "11",
+   "bookUnit": "XI",
+   "chapters": [
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62
+   ],
+   "sourceSections": {
+    "expected": 250,
+    "found": 223,
+    "reviewed": 0,
+    "published": 0
+   },
+   "figures": {
+    "expected": 77,
+    "included": 76,
+    "needsReview": 0,
+    "missing": 1,
+    "reviewed": 0
+   },
+   "summaryUz": {
+    "chapters": 8,
+    "found": 8
+   },
+   "questions": 0,
+   "missing": [
+    {
+     "item": "Table 61-2",
+     "pdfPage": 729,
+     "reason": "crop not found automatically"
+    }
+   ]
+  },
+  {
+   "topicId": "12",
+   "bookUnit": "XII",
+   "chapters": [
+    63,
+    64,
+    65,
+    66,
+    67
+   ],
+   "sourceSections": {
+    "expected": 174,
+    "found": 154,
+    "reviewed": 0,
+    "published": 0
+   },
+   "figures": {
+    "expected": 42,
+    "included": 42,
+    "needsReview": 0,
+    "missing": 0,
+    "reviewed": 0
+   },
+   "summaryUz": {
+    "chapters": 5,
+    "found": 5
+   },
+   "questions": 0,
+   "missing": []
+  },
+  {
+   "topicId": "13",
+   "bookUnit": "XIII",
+   "chapters": [
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74
+   ],
+   "sourceSections": {
+    "expected": 63,
+    "found": 50,
+    "reviewed": 0,
+    "published": 0
+   },
+   "figures": {
+    "expected": 45,
+    "included": 45,
+    "needsReview": 0,
+    "missing": 0,
+    "reviewed": 0
+   },
+   "summaryUz": {
+    "chapters": 7,
+    "found": 7
+   },
+   "questions": 0,
+   "missing": []
+  },
+  {
+   "topicId": "14",
+   "bookUnit": "XIV",
+   "chapters": [
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84
+   ],
+   "sourceSections": {
+    "expected": 404,
+    "found": 377,
+    "reviewed": 0,
+    "published": 0
+   },
+   "figures": {
+    "expected": 124,
+    "included": 121,
+    "needsReview": 2,
+    "missing": 1,
+    "reviewed": 0
+   },
+   "summaryUz": {
+    "chapters": 10,
+    "found": 10
+   },
+   "questions": 0,
+   "missing": [
+    {
+     "item": "Table 75-3",
+     "pdfPage": 875,
+     "reason": "full page fallback, needs manual crop"
+    },
+    {
+     "item": "Figure 76-1",
+     "pdfPage": 879,
+     "reason": "crop not found automatically"
+    },
+    {
+     "item": "Figure 76-6",
+     "pdfPage": 883,
+     "reason": "full page fallback, needs manual crop"
+    }
+   ]
+  },
+  {
+   "topicId": "15",
+   "bookUnit": "XV",
+   "chapters": [
+    85
+   ],
+   "sourceSections": {
+    "expected": 0,
+    "found": 0,
+    "reviewed": 0,
+    "published": 0
+   },
+   "figures": {
+    "expected": 13,
+    "included": 13,
+    "needsReview": 0,
+    "missing": 0,
+    "reviewed": 0
+   },
+   "summaryUz": {
+    "chapters": 1,
+    "found": 1
+   },
+   "questions": 0,
+   "missing": []
+  }
+ ]
+}

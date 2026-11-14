@@ -1,0 +1,2030 @@
+{
+ "id": "ch04",
+ "topicId": "02",
+ "order": 1,
+ "titleUz": "Moddalarning hujayra membranasi orqali tashilishi",
+ "titleOriginal": "Transport of Substances Through Cell Membranes",
+ "subtitle": "*Transport of Substances Through Cell Membranes* · II bo'lim · PDF 51–62 (kitob 46–57)",
+ "contentVersion": "2026-11-14.1",
+ "status": "in_review",
+ "translationStatus": "machine_assisted",
+ "source": {
+  "bookId": "guyton-hall-14",
+  "chapter": 4,
+  "unit": "II",
+  "pdfPages": [
+   51,
+   62
+  ],
+  "printedPages": [
+   46,
+   57
+  ],
+  "notesFile": "guyton-notes/ch04-transport-of-substances-through-cell-membranes.md",
+  "summaryFile": "guyton-notes/summaries/ch04.md"
+ },
+ "pdfPages": [
+  51,
+  62
+ ],
+ "printedPages": [
+  46,
+  57
+ ],
+ "outline": [
+  {
+   "level": 1,
+   "title": "THE CELL MEMBRANE IS A LIPID BILAYER WITH CELL MEMBRANE TRANSPORT PROTEINS",
+   "pdfPage": 51,
+   "printedPage": "46",
+   "id": "ch04-h-the-cell-membrane-is-a-lipid-bilayer-with-cell-membrane-tran"
+  },
+  {
+   "level": 2,
+   "title": "“Diffusion” Versus “Active Transport”",
+   "pdfPage": 52,
+   "printedPage": "47",
+   "id": "ch04-h-diffusion-versus-active-transport"
+  },
+  {
+   "level": 1,
+   "title": "DIFFUSION",
+   "pdfPage": 52,
+   "printedPage": "47",
+   "id": "ch04-h-diffusion"
+  },
+  {
+   "level": 2,
+   "title": "DIFFUSION THROUGH THE CELL MEMBRANE",
+   "pdfPage": 52,
+   "printedPage": "47",
+   "id": "ch04-h-diffusion-through-the-cell-membrane"
+  },
+  {
+   "level": 3,
+   "title": "Diffusion of Lipid-Soluble Substances Through the Lipid Bilayer",
+   "pdfPage": 52,
+   "printedPage": "47",
+   "id": "ch04-h-diffusion-of-lipid-soluble-substances-through-the-lipid-bila"
+  },
+  {
+   "level": 3,
+   "title": "Diffusion of Water and Other Lipid-Insoluble Molecules Through Protein Channels",
+   "pdfPage": 52,
+   "printedPage": "47",
+   "id": "ch04-h-diffusion-of-water-and-other-lipid-insoluble-molecules-throu"
+  },
+  {
+   "level": 2,
+   "title": "DIFFUSION THROUGH PROTEIN PORES AND CHANNELS—SELECTIVE PERMEABILITY AND “GATING” OF CHANNELS",
+   "pdfPage": 53,
+   "printedPage": "48",
+   "id": "ch04-h-diffusion-through-protein-pores-and-channels-selective-perme"
+  },
+  {
+   "level": 3,
+   "title": "Selective Permeability of Protein Channels",
+   "pdfPage": 53,
+   "printedPage": "48",
+   "id": "ch04-h-selective-permeability-of-protein-channels"
+  },
+  {
+   "level": 3,
+   "title": "Gating of Protein Channels",
+   "pdfPage": 54,
+   "printedPage": "49",
+   "id": "ch04-h-gating-of-protein-channels"
+  },
+  {
+   "level": 3,
+   "title": "Open-State Versus Closed-State of Gated Channels",
+   "pdfPage": 54,
+   "printedPage": "49",
+   "id": "ch04-h-open-state-versus-closed-state-of-gated-channels"
+  },
+  {
+   "level": 3,
+   "title": "Patch Clamp Method for Recording Ion Current Flow Through Single Channels",
+   "pdfPage": 54,
+   "printedPage": "49",
+   "id": "ch04-h-patch-clamp-method-for-recording-ion-current-flow-through-si"
+  },
+  {
+   "level": 2,
+   "title": "FACILITATED DIFFUSION REQUIRESMEMBRANE CARRIER PROTEINS",
+   "pdfPage": 55,
+   "printedPage": "50",
+   "id": "ch04-h-facilitated-diffusion-requiresmembrane-carrier-proteins"
+  },
+  {
+   "level": 2,
+   "title": "FACTORS THAT AFFECT NET RATE OF DIFFUSION",
+   "pdfPage": 56,
+   "printedPage": "51",
+   "id": "ch04-h-factors-that-affect-net-rate-of-diffusion"
+  },
+  {
+   "level": 3,
+   "title": "Net Diffusion Rate Is Proportional to the Concentration Difference Across a Membrane",
+   "pdfPage": 56,
+   "printedPage": "51",
+   "id": "ch04-h-net-diffusion-rate-is-proportional-to-the-concentration-diff"
+  },
+  {
+   "level": 3,
+   "title": "Membrane Electrical Potential and Diffusion ofIons—The “Nernst Potential”",
+   "pdfPage": 56,
+   "printedPage": "51",
+   "id": "ch04-h-membrane-electrical-potential-and-diffusion-ofions-the-nerns"
+  },
+  {
+   "level": 3,
+   "title": "Effect of a Pressure Difference Across the Membrane",
+   "pdfPage": 57,
+   "printedPage": "52",
+   "id": "ch04-h-effect-of-a-pressure-difference-across-the-membrane"
+  },
+  {
+   "level": 2,
+   "title": "OSMOSIS ACROSS SELECTIVELY PERMEABLE MEMBRANES—“NETDIFFUSION” OF WATER",
+   "pdfPage": 57,
+   "printedPage": "52",
+   "id": "ch04-h-osmosis-across-selectively-permeable-membranes-netdiffusion-"
+  },
+  {
+   "level": 3,
+   "title": "Osmotic Pressure",
+   "pdfPage": 57,
+   "printedPage": "52",
+   "id": "ch04-h-osmotic-pressure"
+  },
+  {
+   "level": 4,
+   "title": "Importance of Number of Osmotic Particles (Molar Concentration) in Determining Osmotic Pressure",
+   "pdfPage": 58,
+   "printedPage": "53",
+   "id": "ch04-h-importance-of-number-of-osmotic-particles-molar-concentratio"
+  },
+  {
+   "level": 4,
+   "title": "Osmolality—The Osmole",
+   "pdfPage": 58,
+   "printedPage": "53",
+   "id": "ch04-h-osmolality-the-osmole"
+  },
+  {
+   "level": 4,
+   "title": "Relationship of Osmolality to Osmotic Pressure",
+   "pdfPage": 58,
+   "printedPage": "53",
+   "id": "ch04-h-relationship-of-osmolality-to-osmotic-pressure"
+  },
+  {
+   "level": 4,
+   "title": "The Term Osmolarity",
+   "pdfPage": 58,
+   "printedPage": "53",
+   "id": "ch04-h-the-term-osmolarity"
+  },
+  {
+   "level": 1,
+   "title": "ACTIVE TRANSPORT OF SUBSTANCES THROUGH MEMBRANES",
+   "pdfPage": 58,
+   "printedPage": "53",
+   "id": "ch04-h-active-transport-of-substances-through-membranes"
+  },
+  {
+   "level": 2,
+   "title": "Primary Active Transport and Secondary Active Transport",
+   "pdfPage": 59,
+   "printedPage": "54",
+   "id": "ch04-h-primary-active-transport-and-secondary-active-transport"
+  },
+  {
+   "level": 2,
+   "title": "PRIMARY ACTIVE TRANSPORT",
+   "pdfPage": 59,
+   "printedPage": "54",
+   "id": "ch04-h-primary-active-transport"
+  },
+  {
+   "level": 3,
+   "title": "Sodium-Potassium Pump Transports Sodium Ions Out of Cells and Potassium Ions into Cells",
+   "pdfPage": 59,
+   "printedPage": "54",
+   "id": "ch04-h-sodium-potassium-pump-transports-sodium-ions-out-of-cells-an"
+  },
+  {
+   "level": 4,
+   "title": "The Na+-K+ Pump Is Important for Controlling Cell Volume",
+   "pdfPage": 59,
+   "printedPage": "54",
+   "id": "ch04-h-the-na-k-pump-is-important-for-controlling-cell-volume"
+  },
+  {
+   "level": 4,
+   "title": "Electrogenic Nature of the Na+-K+ Pump",
+   "pdfPage": 60,
+   "printedPage": "55",
+   "id": "ch04-h-electrogenic-nature-of-the-na-k-pump"
+  },
+  {
+   "level": 3,
+   "title": "Primary Active Transport of Calcium Ions",
+   "pdfPage": 60,
+   "printedPage": "55",
+   "id": "ch04-h-primary-active-transport-of-calcium-ions"
+  },
+  {
+   "level": 3,
+   "title": "Primary Active Transport of Hydrogen Ions",
+   "pdfPage": 60,
+   "printedPage": "55",
+   "id": "ch04-h-primary-active-transport-of-hydrogen-ions"
+  },
+  {
+   "level": 3,
+   "title": "Energetics of Primary Active Transport",
+   "pdfPage": 60,
+   "printedPage": "55",
+   "id": "ch04-h-energetics-of-primary-active-transport"
+  },
+  {
+   "level": 2,
+   "title": "SECONDARY ACTIVE TRANSPORT—CO-TRANSPORT AND COUNTER-TRANSPORT",
+   "pdfPage": 60,
+   "printedPage": "55",
+   "id": "ch04-h-secondary-active-transport-co-transport-and-counter-transpor"
+  },
+  {
+   "level": 3,
+   "title": "Co-Transport of Glucose and Amino Acids Along with Sodium Ions",
+   "pdfPage": 61,
+   "printedPage": "56",
+   "id": "ch04-h-co-transport-of-glucose-and-amino-acids-along-with-sodium-io"
+  },
+  {
+   "level": 3,
+   "title": "Sodium Counter-Transport of Calcium and Hydrogen Ions",
+   "pdfPage": 61,
+   "printedPage": "56",
+   "id": "ch04-h-sodium-counter-transport-of-calcium-and-hydrogen-ions"
+  },
+  {
+   "level": 2,
+   "title": "ACTIVE TRANSPORT THROUGH CELLULAR SHEETS",
+   "pdfPage": 62,
+   "printedPage": "57",
+   "id": "ch04-h-active-transport-through-cellular-sheets"
+  }
+ ],
+ "objectives": [
+  "ECF va ICF tarkibi (Fig. 4-1, p.51)",
+  "Diffuziya",
+  "Sof diffuziya tezligiga ta'sir etuvchi omillar (Fig. 4-9)",
+  "Osmos",
+  "Faol transport",
+  "Hujayra qatlami orqali transport (Fig. 4-15, p.62)"
+ ],
+ "blocks": {
+  "simple": [
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Asosiy g'oya",
+    "id": "ch04-s-0-asosiy-goya",
+    "bid": "ch04-u0"
+   },
+   {
+    "type": "paragraph",
+    "text": "ECF va ICF tarkibi keskin farq qiladi va bu farqni membrana yaratadi. Lipid ikki qavati suvda eruvchi moddalarga to'siq; o'tish yo'llari — lipid orqali (yog'da eruvchilar), **kanal oqsillari** va **tashuvchi oqsillar**. Ikki asosiy jarayon: **diffuziya** (kinetik energiya, gradient bo'ylab) va **faol transport** (gradientga qarshi, qo'shimcha energiya).",
+    "bid": "ch04-u1"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "ECF va ICF tarkibi (Fig. 4-1, p.51)",
+    "id": "ch04-s-2-ecf-va-icf-tarkibi-fig-4-1-p-51",
+    "bid": "ch04-u2"
+   },
+   {
+    "type": "table",
+    "header": [
+     "",
+     "ECF",
+     "ICF"
+    ],
+    "rows": [
+     [
+      "Na⁺",
+      "142 mEq/L",
+      "10"
+     ],
+     [
+      "K⁺",
+      "4",
+      "140"
+     ],
+     [
+      "Ca²⁺",
+      "2,4",
+      "0,0001"
+     ],
+     [
+      "Mg²⁺",
+      "1,2",
+      "58"
+     ],
+     [
+      "Cl⁻",
+      "103",
+      "4"
+     ],
+     [
+      "HCO₃⁻",
+      "24",
+      "10"
+     ],
+     [
+      "Fosfatlar",
+      "4",
+      "75"
+     ],
+     [
+      "SO₄²⁻",
+      "1",
+      "2"
+     ],
+     [
+      "Glyukoza",
+      "90 mg/dl",
+      "0–20"
+     ],
+     [
+      "Aminokislotalar",
+      "30 mg/dl",
+      "200"
+     ],
+     [
+      "Lipidlar",
+      "0,5 g/dl",
+      "2–95"
+     ],
+     [
+      "PO₂",
+      "35 mm Hg",
+      "20"
+     ],
+     [
+      "PCO₂",
+      "46",
+      "50"
+     ],
+     [
+      "pH",
+      "7,4",
+      "7,0"
+     ],
+     [
+      "Oqsillar",
+      "2 g/dl",
+      "16"
+     ]
+    ],
+    "bid": "ch04-u3"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-04-01",
+    "bid": "ch04-u4"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Diffuziya (p.52–55)",
+    "pdfPages": [
+     52,
+     55
+    ],
+    "id": "ch04-s-5-diffuziya-p-52-55",
+    "bid": "ch04-u5"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Molekulalar soniyasiga minglab marta to'qnashib tartibsiz harakatlanadi (\"issiqlik\").",
+      "depth": 0
+     },
+     {
+      "text": "**Oddiy diffuziya** — tashuvchisiz: (1) lipid qavati orqali — tezlik yog'da eruvchanlikka proporsional (O₂, N₂, CO₂, spirtlar; O₂ hujayra ichiga \"membranasi yo'qdek\" kiradi); (2) suvli kanallar orqali.",
+      "depth": 0
+     },
+     {
+      "text": "Suv: **akvaporinlar** (≥13 tur; bitta qatorda o'tkazadi, gidratlangan ionlarni o'tkazmaydi; AQP-2 zichligi fiziologik o'zgaradi — 28, 76-boblar). Eritrotsit membranasidan har soniyada hujayra hajmidan ~100 marta ko'p suv har yo'nalishda o'tadi. Mochevina diametri suvdan 20% katta, lekin ~1000 marta sekin o'tadi.",
+      "depth": 0
+     },
+     {
+      "text": "**Kanallar** xossalari: (1) tanlovchanlik, (2) darvoza (gating).",
+      "depth": 0
+     },
+     {
+      "text": "**K⁺ kanali** (Fig. 4-4): 4 subbirlik, **selektiv filtr** karbonil kislorodlari bilan qoplangan — K⁺ gidrat qobig'ini tashlaydi; Na⁺ juda kichik, kislorodlar bilan yaqin ta'sirlasha olmaydi → K⁺ Na⁺ dan ~1000 marta oson o'tadi.",
+      "depth": 1
+     },
+     {
+      "text": "**Na⁺ kanali** 0,3–0,5 nm; filtri kuchli manfiy zaryadli aminokislotalar bilan (Fig. 4-5).",
+      "depth": 1
+     },
+     {
+      "text": "**Voltaj darvozasi**: ichki manfiylik Na⁺ ning tashqi darvozasini yopiq tutadi; depolyarizatsiyada ochiladi (aksion potensial asosi). K⁺ darvozalari ichki uchida, ichki tomon musbat bo'lganda ochiladi (AP ni tugatadi).",
+      "depth": 1
+     },
+     {
+      "text": "**Ligand darvozasi**: **atsetilxolin reseptori** — ~0,65 nm manfiy zaryadli teshik, kichik kationlarni o'tkazadi (sinaps, nerv-muskul).",
+      "depth": 1
+     },
+     {
+      "text": "Kanal \"hammasi yoki hech narsa\" tarzida ochiladi-yopiladi (ms ulushlari); **patch-clamp** (1–2 µm uchli mikropipetka) bilan bitta kanal toki yoziladi (Fig. 4-6).",
+      "depth": 1
+     },
+     {
+      "text": "**Yengillashtirilgan diffuziya** (tashuvchi vositasida): tezlik **Vmax** ga yetadi (tashuvchining konformatsiya o'zgarish tezligi cheklaydi; Fig. 4-7, 4-8); ikki yo'nalishda ham. Glyukoza va ko'p aminokislotalar. **GLUT** oilasi (≥14); **GLUT4** insulin bilan 10–20 baravar faollashadi (79-bob).",
+      "depth": 0
+     }
+    ],
+    "bid": "ch04-u6"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-04-04",
+    "bid": "ch04-u7"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-04-05",
+    "bid": "ch04-u8"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-04-06",
+    "bid": "ch04-u9"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-04-07",
+    "bid": "ch04-u10"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-04-08",
+    "bid": "ch04-u11"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-04-03",
+    "placement": "by_page_range",
+    "bid": "ch04-u12"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Sof diffuziya tezligiga ta'sir etuvchi omillar (Fig. 4-9)",
+    "id": "ch04-s-13-sof-diffuziya-tezligiga-tasir-etuvchi-omillar-fig-4-9",
+    "bid": "ch04-u13"
+   },
+   {
+    "type": "list",
+    "ordered": true,
+    "items": [
+     {
+      "text": "Konsentratsiya farqi: tezlik ∝ (Co − Ci).",
+      "depth": 0
+     },
+     {
+      "text": "Elektr potensial — **Nernst tenglamasi** (37°C, bir valentli ion): EMF (mV) = ±61 × log(C1/C2).",
+      "depth": 0
+     },
+     {
+      "text": "Bosim farqi (kapillyarlarda ichkarida ~20 mm Hg ko'p).",
+      "depth": 0
+     }
+    ],
+    "bid": "ch04-u14"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-04-09",
+    "bid": "ch04-u15"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Osmos (p.57–58)",
+    "pdfPages": [
+     57,
+     58
+    ],
+    "id": "ch04-s-16-osmos-p-57-58",
+    "bid": "ch04-u16"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Suvning konsentratsiya farqi tufayli sof harakati. To'xtatish uchun kerakli bosim — **osmotik bosim** (Fig. 4-10, 4-11).",
+      "depth": 0
+     },
+     {
+      "text": "Osmotik bosim zarrachalar **soniga** bog'liq, massaga emas (kichik zarra tezroq, kinetik energiya bir xil: k = mv²/2).",
+      "depth": 0
+     },
+     {
+      "text": "**Osmol** — 1 g-molekulyar og'irlik osmotik faol modda: 180 g glyukoza = 1 osm; 58,5 g NaCl = 2 osm.",
+      "depth": 0
+     },
+     {
+      "text": "Tana suyuqliklari osmolyalligi ~**300 mOsm/kg** suv.",
+      "depth": 0
+     },
+     {
+      "text": "37°C da 1 osm/L = **19 300 mm Hg**; 1 mOsm/L = 19,3 mm Hg; hisoblangan 5790, o'lchangan ~5500 mm Hg (ionlararo tortishuv; koeffitsient 0,93).",
+      "depth": 0
+     },
+     {
+      "text": "**Osmolyallik** (osm/kg suv) va **osmolyarlik** (osm/L eritma) — suyultirilgan eritmalarda farq <1%; amalda osmolyarlik o'lchanadi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch04-u17"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-04-10",
+    "bid": "ch04-u18"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-04-11",
+    "bid": "ch04-u19"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Faol transport (p.58–61)",
+    "pdfPages": [
+     58,
+     61
+    ],
+    "id": "ch04-s-20-faol-transport-p-58-61",
+    "bid": "ch04-u20"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Na⁺, K⁺, Ca²⁺, Fe, H⁺, Cl⁻, I⁻, urat, qandlar, ko'p aminokislotalar.",
+      "depth": 0
+     },
+     {
+      "text": "**Birlamchi** — energiya bevosita ATP dan; **ikkilamchi** — boshqa ion (asosan Na⁺) gradientida saqlangan energiyadan.",
+      "depth": 0
+     },
+     {
+      "text": "**Na⁺-K⁺ nasosi** (Fig. 4-12): α subbirlik (MW ~100 000) — ichkarida 3 Na⁺ bog'lash joyi, tashqarida 2 K⁺ joyi, ATPaza faolligi; β (~55 000). 3 Na⁺ chiqariladi, 2 K⁺ kiritiladi, 1 ATP. Teskari ishlab ATP sintezlashi ham mumkin. Nerv hujayralarida energiya ehtiyojining 60–70% shu nasosga.",
+      "depth": 0
+     },
+     {
+      "text": "**Hujayra hajmini nazorat**: ichkaridagi chiqib keta olmaydigan manfiy oqsillar kationlarni va suvni tortadi; nasos sof ion chiqarib suvni ham chiqaradi; hujayra shishsa — nasos faollashadi. Nasossiz hujayralar yorilguncha shishadi.",
+      "depth": 1
+     },
+     {
+      "text": "**Elektrogen**: har siklda bitta musbat zaryad tashqariga → ichki manfiylik.",
+      "depth": 1
+     },
+     {
+      "text": "**Ca²⁺ nasoslari**: sitozol Ca²⁺ ECF dan ~10 000 marta kam; membranadagi (tashqariga) va organellalarga (sarkoplazmatik to'r, mitoxondriya) nasoslar.",
+      "depth": 0
+     },
+     {
+      "text": "**H⁺ nasosi**: oshqozon **parietal hujayralari** — H⁺ konsentratsiyasini million marta oshiradi (HCl); buyrakning distal naychalari va kortikal yig'uvchi naychalaridagi **interkalyar hujayralar** — ~900 baravar gradientga qarshi (31-bob).",
+      "depth": 0
+     },
+     {
+      "text": "**Energetika**: Energiya (kal/osm) = 1400 × log(C1/C2): 10 baravar — 1400 kal, 100 baravar — 2800 kal. Buyrak naychasi va bez hujayralari energiyasining 90% gacha shunga sarflaydi.",
+      "depth": 0
+     },
+     {
+      "text": "**Ikkilamchi faol transport**:",
+      "depth": 0
+     },
+     {
+      "text": "**Ko-transport** (bir yo'nalishda): Na⁺–glyukoza (tashuvchi glyukoza ham bog'langandagina konformatsiyani o'zgartiradi; ichak va buyrak epiteliysi — 28, 66-boblar), Na⁺–aminokislotalar (≥5 tashuvchi); K⁺, Cl⁻, HCO₃⁻, fosfat, yod, temir, urat.",
+      "depth": 1
+     },
+     {
+      "text": "**Qarshi transport** (Fig. 4-14): **Na⁺–Ca²⁺** (deyarli barcha membranalarda), **Na⁺–H⁺** (ayniqsa proksimal naycha; konsentratsiyalashda kuchsiz, lekin juda ko'p H⁺ tashiydi — 31-bob).",
+      "depth": 1
+     }
+    ],
+    "bid": "ch04-u21"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-04-12",
+    "bid": "ch04-u22"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-04-14",
+    "bid": "ch04-u23"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-04-13",
+    "placement": "by_page_range",
+    "bid": "ch04-u24"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Hujayra qatlami orqali transport (Fig. 4-15, p.62)",
+    "id": "ch04-s-25-hujayra-qatlami-orqali-transport-fig-4-15-p-62",
+    "bid": "ch04-u25"
+   },
+   {
+    "type": "paragraph",
+    "text": "Ichak, buyrak naychasi, ekzokrin bezlar, o't pufagi, xoroid chigal epiteliysi: lyuminal tomonda Na⁺ va suv diffuziya bilan kiradi (cho'tkasimon hoshiya); **bazolateral** membranada Na⁺ faol chiqariladi → gradient → suv osmos bilan ergashadi. Hujayralar lyuminal qutbda zich birikmalar bilan bog'langan. Ozuqalarning so'rilishi va filtratning qayta so'rilishi shu tamoyilda.",
+    "bid": "ch04-u26"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-04-15",
+    "bid": "ch04-u27"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Bog'liqlik",
+    "id": "ch04-s-28-bogliqlik",
+    "bid": "ch04-u28"
+   },
+   {
+    "type": "paragraph",
+    "text": "Membrana tuzilishi → 2-bob; Nernst va membrana potensiali → 5-bob; atsetilxolin kanali → 7, 46-boblar; buyrak transporti → 28-bob; H⁺ sekretsiyasi → 31-bob; ichak so'rilishi → 66-bob; insulin va GLUT4 → 79-bob.",
+    "bid": "ch04-u29"
+   }
+  ],
+  "full": [
+   {
+    "type": "paragraph",
+    "text": "**Figure 4-1** lists the approximate concentrations of important electrolytes and other substances in the _extracellular fluid_ and _intracellular fluid._ Note that the extracellular fluid contains a large amount of _sodium_ but only a small amount of _potassium._ The opposite is true of the intracellular fluid. Also, the extracellular fluid contains a large amount of _chloride_ ions, whereas the intracellular fluid contains very little of these ions. However, the concentrations of _phosphates_ and _proteins_ in the intracellular fluid are considerably greater than those in the extracellular fluid. These differences are extremely important to the life of the cell. The purpose of this chapter is to explain how the differences are brought about by the cell membrane transport mechanisms.",
+    "pdfPage": 51,
+    "bid": "ch04-f0"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-04-01",
+    "bid": "ch04-f1"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "THE CELL MEMBRANE IS A LIPID BILAYER WITH CELL MEMBRANE TRANSPORT PROTEINS",
+    "pdfPage": 51,
+    "id": "ch04-h-the-cell-membrane-is-a-lipid-bilayer-with-cell-membrane-tran",
+    "bid": "ch04-f2"
+   },
+   {
+    "type": "paragraph",
+    "text": "The structure of the membrane covering the outside of every cell of the body is discussed in Chapter 2 and illustrated in **Figure 2-3** and **Figure 4-2**. This membrane consists almost entirely of a _lipid bilayer_ with large numbers of protein molecules in the lipid, many of which penetrate all the way through the membrane.",
+    "pdfPage": 51,
+    "bid": "ch04-f3"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-04-02",
+    "bid": "ch04-f4"
+   },
+   {
+    "type": "paragraph",
+    "text": "The lipid bilayer is not miscible with the extracellular fluid or the intracellular fluid. Therefore, it constitutes a barrier against movement of water molecules and watersoluble substances between the extracellular and intracellular fluid compartments. However, as shown in **Figure 4-2** by the leftmost arrow, lipid-soluble substances can diffuse directly through the lipid substance.",
+    "pdfPage": 51,
+    "bid": "ch04-f5"
+   },
+   {
+    "type": "paragraph",
+    "text": "The membrane protein molecules interrupt the continuity of the lipid bilayer, constituting an alternative pathway through the cell membrane. Many of these penetrating proteins can function as _transport proteins._ Some proteins have watery spaces all the way through the molecule and allow free movement of water, as well as selected ions or molecules; these proteins are called _channel proteins._ Other proteins, called _carrier proteins,_ bind with molecules or ions that are to be transported, and conformational changes in the protein molecules then move the substances through the interstices of the protein to the other side of the membrane. Channel proteins and carrier proteins are usually selective for the types of molecules or ions that are allowed to cross the membrane.",
+    "pdfPage": 51,
+    "pdfPageEnd": 52,
+    "bid": "ch04-f6"
+   },
+   {
+    "type": "paragraph",
+    "text": "Transport through the cell membrane, either directly through the lipid bilayer or through the proteins, occurs via one of two basic processes, _diffusion_ or _active transport._",
+    "pdfPage": 52,
+    "lead": "“Diffusion” Versus “Active Transport.”",
+    "anchor": "ch04-h-diffusion-versus-active-transport",
+    "bid": "ch04-f7"
+   },
+   {
+    "type": "paragraph",
+    "text": "Although many variations of these basic mechanisms exist, _diffusion_ means random molecular movement of substances molecule by molecule, either through intermolecular spaces in the membrane or in combination with a carrier protein. The energy that causes diffusion is the energy of the normal kinetic motion of matter.",
+    "pdfPage": 52,
+    "bid": "ch04-f8"
+   },
+   {
+    "type": "paragraph",
+    "text": "In contrast, _active transport_ means movement of ions or other substances across the membrane in combination with a carrier protein in such a way that the carrier protein causes the substance to move against an energy gradient, such as from a low-concentration state to a highconcentration state. This movement requires an additional source of energy besides kinetic energy. A more detailed explanation of the basic physics and physical chemistry of these two processes is provided later in this chapter.",
+    "pdfPage": 52,
+    "bid": "ch04-f9"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "DIFFUSION",
+    "pdfPage": 52,
+    "id": "ch04-h-diffusion",
+    "bid": "ch04-f10"
+   },
+   {
+    "type": "paragraph",
+    "text": "All molecules and ions in the body fluids, including water molecules and dissolved substances, are in constant motion, with each particle moving in its separate way. The motion of these particles is what physicists call “heat”— the greater the motion, the higher the temperature—and the motion never ceases, except at absolute zero temperature. When a moving molecule, A, approaches a stationary molecule, B, the electrostatic and other nuclear forces of molecule A repel molecule B, transferring some of the energy of motion of molecule A to molecule B. Consequently, molecule B gains kinetic energy of motion, whereas molecule A slows down, losing some of its kinetic energy. As shown in **Figure 4-3**, a single molecule in a solution bounces among the other molecules—first in one direction, then another, then another, and so forth— randomly bouncing thousands of times each second. This continual movement of molecules among one another in liquids or gases is called _diffusion._",
+    "pdfPage": 52,
+    "bid": "ch04-f11"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-04-03",
+    "bid": "ch04-f12"
+   },
+   {
+    "type": "paragraph",
+    "text": "Ions diffuse in the same manner as whole molecules, and even suspended colloid particles diffuse in a similar manner, except that the colloids diffuse far less rapidly than molecular substances because of their large size.",
+    "pdfPage": 52,
+    "bid": "ch04-f13"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "DIFFUSION THROUGH THE CELL MEMBRANE",
+    "pdfPage": 52,
+    "id": "ch04-h-diffusion-through-the-cell-membrane",
+    "bid": "ch04-f14"
+   },
+   {
+    "type": "paragraph",
+    "text": "Diffusion through the cell membrane is divided into two subtypes, called _simple diffusion_ and _facilitated diffusion._ Simple diffusion means that kinetic movement of molecules or ions occurs through a membrane opening or through intermolecular spaces without interaction with carrier proteins in the membrane. The rate of diffusion is determined by the amount of substance available, the velocity of kinetic motion, and the number and sizes of openings in the membrane through which the molecules or ions can move.",
+    "pdfPage": 52,
+    "bid": "ch04-f15"
+   },
+   {
+    "type": "paragraph",
+    "text": "Facilitated diffusion requires interaction of a carrier protein. The carrier protein aids passage of molecules or ions through the membrane by binding chemically with them and shuttling them through the membrane in this form.",
+    "pdfPage": 52,
+    "bid": "ch04-f16"
+   },
+   {
+    "type": "paragraph",
+    "text": "Simple diffusion can occur through the cell membrane by two pathways: (1) through the interstices of the lipid bilayer if the diffusing substance is lipid-soluble; and (2) through watery channels that penetrate all the way through some of the large transport proteins, as shown to the left in **Figure 4-2**.",
+    "pdfPage": 52,
+    "bid": "ch04-f17"
+   },
+   {
+    "type": "paragraph",
+    "text": "The _lipid solubility_ of a substance is an important factor for determining how rapidly it diffuses through the lipid bilayer. For example, the lipid solubilities of oxygen, nitrogen, carbon dioxide, and alcohols are high, and all these substances can dissolve directly in the lipid bilayer and diffuse through the cell membrane in the same manner that diffusion of water solutes occurs in a watery solution. The rate of diffusion of each of these substances through the membrane is directly proportional to its lipid solubility. Especially large amounts of oxygen can be transported in this way; therefore, oxygen can be delivered to the interior of the cell almost as though the cell membrane did not exist.",
+    "pdfPage": 52,
+    "lead": "Diffusion of Lipid-Soluble Substances Through the Lipid Bilayer.",
+    "anchor": "ch04-h-diffusion-of-lipid-soluble-substances-through-the-lipid-bila",
+    "bid": "ch04-f18"
+   },
+   {
+    "type": "paragraph",
+    "text": "Even though water is highly insoluble in the membrane lipids, it readily passes through channels in protein molecules that penetrate all the way through the membrane. Many of the body’s cell membranes contain protein “pores” called _aquaporins_ that selectively permit rapid passage of water through the membrane. The aquaporins are highly specialized, and there are at least 13 different types in various cells of mammals.",
+    "pdfPage": 52,
+    "lead": "Diffusion of Water and Other Lipid-Insoluble Mole-cules Through Protein Channels.",
+    "bid": "ch04-f19"
+   },
+   {
+    "type": "paragraph",
+    "text": "The rapidity with which water molecules can diffuse through most cell membranes is astounding. For example, the total amount of water that diffuses in each direction through the red blood cell membrane during each second is about 100 times as great as the volume of the red blood cell.",
+    "pdfPage": 52,
+    "pdfPageEnd": 53,
+    "bid": "ch04-f20"
+   },
+   {
+    "type": "paragraph",
+    "text": "Other lipid-insoluble molecules can pass through the protein pore channels in the same way as water molecules if they are water-soluble and small enough. However, as they become larger, their penetration falls off rapidly. For example, the diameter of the urea molecule is only 20% greater than that of water, yet its penetration through the cell membrane pores is about 1000 times less than that of water. Even so, given the astonishing rate of water penetration, this amount of urea penetration still allows rapid transport of urea through the membrane within minutes.",
+    "pdfPage": 53,
+    "bid": "ch04-f21"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "DIFFUSION THROUGH PROTEIN PORES AND CHANNELS—SELECTIVE PERMEABILITY AND “GATING” OF CHANNELS",
+    "pdfPage": 53,
+    "id": "ch04-h-diffusion-through-protein-pores-and-channels-selective-perme",
+    "bid": "ch04-f22"
+   },
+   {
+    "type": "paragraph",
+    "text": "Computerized three-dimensional reconstructions of protein pores and channels have demonstrated tubular pathways all the way from the extracellular to the intracellular fluid. Therefore, substances can move by simple diffusion directly along these pores and channels from one side of the membrane to the other.",
+    "pdfPage": 53,
+    "bid": "ch04-f23"
+   },
+   {
+    "type": "paragraph",
+    "text": "Pores are composed of integral cell membrane proteins that form open tubes through the membrane and are always open. However, the diameter of a pore and its electrical charges provide selectivity that permits only certain molecules to pass through. For example, _aquaporins_ permit rapid passage of water through cell membranes but exclude other molecules. Aquaporins have a narrow pore that permits water molecules to diffuse through the membrane in single file. The pore is too narrow to permit passage of any hydrated ions. As discussed in Chapters 28 and 76, the density of some aquaporins (e.g., aquaporin-2) in cell membranes is not static but is altered in different physiological conditions.",
+    "pdfPage": 53,
+    "bid": "ch04-f24"
+   },
+   {
+    "type": "paragraph",
+    "text": "The protein channels are distinguished by two important characteristics: (1) they are often _selectively permeable_ to certain substances; and (2) many of the channels can be opened or closed by _gates_ that are regulated by electrical signals _(voltage-gated channels)_ or chemicals that bind to the channel proteins _(ligand-gated channels)._ Thus, ion channels are flexible dynamic structures, and subtle conformational changes influence gating and ion selectivity.",
+    "pdfPage": 53,
+    "bid": "ch04-f25"
+   },
+   {
+    "type": "paragraph",
+    "text": "Many protein channels are highly selective for transport of one or more specific ions or molecules. This selectivity results from specific characteristics of the channel, such as its diameter, shape, and the nature of the electrical charges and chemical bonds along its inside surfaces.",
+    "pdfPage": 53,
+    "lead": "Selective Permeability of Protein Channels.",
+    "anchor": "ch04-h-selective-permeability-of-protein-channels",
+    "bid": "ch04-f26"
+   },
+   {
+    "type": "paragraph",
+    "text": "_Potassium channels_ permit passage of potassium ions across the cell membrane about 1000 times more readily than they permit passage of sodium ions. This high degree of selectivity cannot be explained entirely by the molecular diameters of the ions because potassium ions are slightly larger than sodium ions. Using x-ray crystallography, potassium channels were found to have a _tetrameric structure_ consisting of four identical protein subunits surrounding a central pore (**Figure 4-4**). At the top of the channel pore are _pore loops_ that form a narrow _selectivity filter_. Lining the selectivity filter are _carbonyl oxygens._ When hydrated potassium ions enter the selectivity filter, they interact with the carbonyl oxygens and shed most of their bound water molecules, permitting the dehydrated potassium ions to pass through the channel. The carbonyl oxygens are too far apart, however, to enable them to interact closely with the smaller sodium ions, which are therefore effectively excluded by the selectivity filter from passing through the pore.",
+    "pdfPage": 53,
+    "bid": "ch04-f27"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-04-04",
+    "bid": "ch04-f28"
+   },
+   {
+    "type": "paragraph",
+    "text": "Different selectivity filters for the various ion channels are believed to determine, in large part, the specificity of various channels for cations or anions or for particular ions, such as sodium (Na+), potassium (K+), and calcium (Ca2+), that gain access to the channels.",
+    "pdfPage": 53,
+    "bid": "ch04-f29"
+   },
+   {
+    "type": "paragraph",
+    "text": "One of the most important of the protein channels, the _sodium channel,_ is only 0.3 to 0.5 nanometer in diameter, but the ability of sodium channels to discriminate sodium ions among other competing ions in the surrounding fluids is crucial for proper cellular function.",
+    "pdfPage": 53,
+    "bid": "ch04-f30"
+   },
+   {
+    "type": "paragraph",
+    "text": "The narrowest part of the sodium channel’s open pore, the _selectivity filter_, is lined with _strongly negatively charged_ amino acid residues, as shown in the top panel of **Figure 4-5**. These strong negative charges can pull small _dehydrated_ sodium ions away from their hydrating water molecules into these channels, although the ions do not need to be fully dehydrated to pass through the channels. Once in the channel, the sodium ions diffuse in either direction according to the usual laws of diffusion. Thus, the sodium channel is highly selective for passage of sodium ions.",
+    "pdfPage": 54,
+    "bid": "ch04-f31"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-04-05",
+    "bid": "ch04-f32"
+   },
+   {
+    "type": "paragraph",
+    "text": "Gating of protein channels provides a means of controlling ion permeability of the channels. This mechanism is shown in both panels of **Figure 4-5** for selective gating of sodium and potassium ions. Some of the gates are thought to be gatelike extensions of the transport protein molecule, which can close the opening of the channel or can be lifted away from the opening by a conformational change in the shape of the protein molecule.",
+    "pdfPage": 54,
+    "lead": "Gating of Protein Channels.",
+    "anchor": "ch04-h-gating-of-protein-channels",
+    "bid": "ch04-f33"
+   },
+   {
+    "type": "paragraph",
+    "text": "The opening and closing of gates are controlled in two principal ways: 1. \u0007_Voltage gating._ In the case of voltage gating, the molecular conformation of the gate or its chemical bonds responds to the electrical potential across the cell membrane. For example, in the top panel of **Figure 4-5**, a strong negative charge on the inside of the cell membrane may cause the outside sodium gates to remain tightly closed. Conversely, when the inside of the membrane loses its negative charge, these gates open suddenly and allow sodium to pass inward through the sodium pores. This process is the basic mechanism for eliciting action potentials in nerves that are responsible for nerve signals. In the bottom panel of **Figure 4-5**, the potassium gates are on the intracellular ends of the potassium channels, and they open when the inside of the cell membrane becomes positively charged. The opening of these gates is partly responsible for terminating the action potential, a process discussed in Chapter 5. 2. \u0007_Chemical (ligand) gating._ Some protein channel gates are opened by the binding of a chemical substance (a ligand) with the protein, which causes a conformational or chemical bonding change in the protein molecule that opens or closes the gate. One of the most important instances of chemical gating is the effect of the neurotransmitter acetylcholine on the _acetylcholine receptor_ which serves as a ligand-gated ion channel_._ Acetylcholine opens the gate of this channel, providing a negatively charged pore about 0.65 nanometer in diameter that allows uncharged molecules or positive ions smaller than this diameter to pass through. This gate is exceedingly important for the transmission of nerve signals from one nerve cell to another (see Chapter 46) and from nerve cells to muscle cells to cause muscle contraction (see Chapter 7).",
+    "pdfPage": 54,
+    "bid": "ch04-f34"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 4-6A** shows two recordings of electrical current flowing through a single sodium channel when there was an approximately 25-millivolt potential gradient across the membrane. Note that the channel conducts current in an all-or-none fashion. That is, the gate of the channel snaps open and then snaps closed, with each open state lasting for only a fraction of a millisecond, up to several milliseconds, demonstrating the rapidity with which changes can occur during the opening and closing of the protein gates. At one voltage potential, the channel may remain closed all the time or almost all the time, whereas at another voltage, it may remain open either all or most of the time. At in-between voltages, as shown in the figure, the gates tend to snap open and closed intermittently, resulting in an average current flow somewhere between the minimum and maximum.",
+    "pdfPage": 54,
+    "lead": "Open-State Versus Closed-State of Gated Channels.",
+    "anchor": "ch04-h-open-state-versus-closed-state-of-gated-channels",
+    "bid": "ch04-f35"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-04-06",
+    "bid": "ch04-f36"
+   },
+   {
+    "type": "paragraph",
+    "text": "The patch clamp method for recording ion current flow through single protein channels is illustrated in **Figure 4-6B**. A micropipette with a tip diameter of only 1 or 2 micrometers is abutted against the outside of a cell membrane. Suction is then applied inside the pipette to pull the membrane against the tip of the pipette, which creates a seal where the edges of the pipette touch the cell membrane. The result is a minute membrane “patch” at the tip of the pipette through which electrical current flow can be recorded.",
+    "pdfPage": 54,
+    "lead": "Patch Clamp Method for Recording Ion Current Flow Through Single Channels.",
+    "anchor": "ch04-h-patch-clamp-method-for-recording-ion-current-flow-through-si",
+    "bid": "ch04-f37"
+   },
+   {
+    "type": "paragraph",
+    "text": "Alternatively, as shown at the bottom right in **Figure 4-6B**, the small cell membrane patch at the end of the pipette can be torn away from the cell. The pipette with its sealed patch is then inserted into a free solution, which allows the concentrations of ions both inside the micropipette and in the outside solution to be altered as desired. Also, the voltage between the two sides of the membrane can be set, or “clamped,” to a given voltage.",
+    "pdfPage": 54,
+    "pdfPageEnd": 55,
+    "bid": "ch04-f38"
+   },
+   {
+    "type": "paragraph",
+    "text": "It has been possible to make such patches small enough so that only a single channel protein is found in the membrane patch being studied. By varying the concentrations of different ions, as well as the voltage across the membrane, one can determine the transport characteristics of the single channel, along with its gating properties.",
+    "pdfPage": 55,
+    "bid": "ch04-f39"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "FACILITATED DIFFUSION REQUIRES MEMBRANE CARRIER PROTEINS",
+    "pdfPage": 55,
+    "id": "ch04-h-facilitated-diffusion-requires-membrane-carrier-proteins",
+    "bid": "ch04-f40"
+   },
+   {
+    "type": "paragraph",
+    "text": "Facilitated diffusion is also called _carrier-mediated diffusion_ because a substance transported in this manner diffuses through the membrane with the help of a specific carrier protein. That is, the carrier _facilitates_ diffusion of the substance to the other side.",
+    "pdfPage": 55,
+    "bid": "ch04-f41"
+   },
+   {
+    "type": "paragraph",
+    "text": "Facilitated diffusion differs from simple diffusion in the following important way. Although the rate of simple diffusion through an open channel increases proportionately with the concentration of the diffusing substance, in facilitated diffusion the rate of diffusion approaches a maximum, called Vmax, as the concentration of the diffusing substance increases. This difference between simple diffusion and facilitated diffusion is demonstrated in **Figure 4-7**. The figure shows that as the concentration of the diffusing substance increases, the rate of simple diffusion continues to increase proportionately but, in the case of facilitated diffusion, the rate of diffusion cannot rise higher than the Vmax level.",
+    "pdfPage": 55,
+    "bid": "ch04-f42"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-04-07",
+    "bid": "ch04-f43"
+   },
+   {
+    "type": "paragraph",
+    "text": "What is it that limits the rate of facilitated diffusion? A probable answer is the mechanism illustrated in **Figure 4-8**. This Figure shows a carrier protein with a pore large enough to transport a specific molecule partway through. It also shows a binding receptor on the inside of the protein carrier. The molecule to be transported enters the pore and becomes bound. Then, in a fraction of a second, a conformational or chemical change occurs in the carrier protein, so that the pore now opens to the opposite side of the membrane. Because the binding force of the receptor is weak, the thermal motion of the attached molecule causes it to break away and be released on the opposite side of the membrane. The rate at which molecules can be transported by this mechanism can never be greater than the rate at which the carrier protein molecule can undergo change back and forth between its two states. Note specifically, though, that this mechanism allows the transported molecule to move—that is, diffuse—in either direction through the membrane.",
+    "pdfPage": 55,
+    "bid": "ch04-f44"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-04-08",
+    "bid": "ch04-f45"
+   },
+   {
+    "type": "paragraph",
+    "text": "Among the many substances that cross cell membranes by facilitated diffusion are _glucose_ and most of the _amino acids._ In the case of glucose, at least 14 members of a family of membrane proteins (called _GLUT_) that transport glucose molecules have been discovered in various tissues. Some of these GLUT proteins transport other monosaccharides that have structures similar to that of glucose, including galactose and fructose. One of these, glucose transporter 4 (GLUT4), is activated by insulin, which can increase the rate of facilitated diffusion of glucose as much as 10- to 20-fold in insulin-sensitive tissues. This is the principal mechanism whereby insulin controls glucose use in the body, as discussed in Chapter 79.",
+    "pdfPage": 56,
+    "bid": "ch04-f46"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "FACTORS THAT AFFECT NET RATE OF DIFFUSION",
+    "pdfPage": 56,
+    "id": "ch04-h-factors-that-affect-net-rate-of-diffusion",
+    "bid": "ch04-f47"
+   },
+   {
+    "type": "paragraph",
+    "text": "By now, it is evident that many substances can diffuse through the cell membrane. What is usually important is the _net_ rate of diffusion of a substance in the desired direction. This net rate is determined by several factors.",
+    "pdfPage": 56,
+    "bid": "ch04-f48"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 4-9A** shows a cell membrane with a high concentration of a substance on the outside and a low concentration of a substance on the inside. The rate at which the substance diffuses _inward_ is proportional to the concentration of molecules on the _outside_ because this concentration determines how many molecules strike the outside of the membrane each second. Conversely, the rate at which molecules diffuse _outward_ is proportional to their concentration _inside_ the membrane. Therefore, the rate of net diffusion into the cell is proportional to the concentration on the outside _minus_ the concentration on the inside:",
+    "pdfPage": 56,
+    "lead": "Net Diffusion Rate Is Proportional to the Concen-tration Difference Across a Membrane.",
+    "bid": "ch04-f49"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-04-09",
+    "bid": "ch04-f50"
+   },
+   {
+    "type": "paragraph",
+    "text": "in which Co is the concentration outside and Ci is the concentration inside the cell.",
+    "pdfPage": 56,
+    "bid": "ch04-f51"
+   },
+   {
+    "type": "paragraph",
+    "text": "If an electrical potential is applied across the membrane, as shown in **Figure 4-9B**, the electrical charges of the ions cause them to move through the membrane even though no concentration difference exists to cause movement. Thus, in the left panel of **Figure 4-9B**, the concentration of _negative_ ions is the same on both sides of the membrane, but a positive charge has been applied to the right side of the membrane, and a negative charge has been applied to the left, creating an electrical gradient across the membrane. The positive charge attracts the negative ions, whereas the negative charge repels them. Therefore, net diffusion occurs from left to right. After some time, large quantities of negative ions have moved to the right, creating the condition shown in the right panel of **Figure 4-9B**, in which a concentration difference of the ions has developed in the direction opposite to the electrical potential difference. The concentration difference now tends to move the ions to the left, whereas the electrical difference tends to move them to the right. When the concentration difference rises high enough, the two effects balance each other. At normal body temperature (98.6°F; 37°C), the electrical difference that will balance a given concentration difference of _univalent_ ions—such as Na+ ions—can be determined from the following formula, called the _Nernst equation:_ in which EMF is the electromotive force (voltage) between side 1 and side 2 of the membrane, C1 is the concentration on side 1, and C2 is the concentration on side 2. This equation is extremely important in understanding the transmission of nerve impulses and is discussed in Chapter 5.",
+    "pdfPage": 56,
+    "lead": "Membrane Electrical Potential and Diffusion of Ions—The “Nernst Potential.”",
+    "pdfPageEnd": 57,
+    "bid": "ch04-f52"
+   },
+   {
+    "type": "paragraph",
+    "text": "At times, a considerable pressure difference develops between the two sides of a diffusible membrane. This pressure difference occurs, for example, at the blood capillary membranes in all tissues of the body. The pressure in many capillaries is about 20 mm Hg greater inside than outside.",
+    "pdfPage": 57,
+    "lead": "Effect of a Pressure Difference Across the Membrane.",
+    "anchor": "ch04-h-effect-of-a-pressure-difference-across-the-membrane",
+    "bid": "ch04-f53"
+   },
+   {
+    "type": "paragraph",
+    "text": "Pressure actually means the sum of all the forces of the different molecules striking a unit surface area at a given instant. Therefore, having a higher pressure on one side of a membrane than on the other side means that the sum of all the forces of the molecules striking the channels on that side of the membrane is greater than on the other side. In most cases, this situation is caused by greater numbers of molecules striking the membrane per second on one side than on the other side. The result is that increased amounts of energy are available to cause a net movement of molecules from the high-pressure side toward the low-pressure side. This effect is demonstrated in **Figure 4-9C**, which shows a piston developing high pressure on one side of a pore, thereby causing more molecules to strike the pore on this side and, therefore, more molecules to diffuse to the other side.",
+    "pdfPage": 57,
+    "bid": "ch04-f54"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "OSMOSIS ACROSS SELECTIVELY PERMEABLE MEMBRANES—“NET DIFFUSION” OF WATER",
+    "pdfPage": 57,
+    "id": "ch04-h-osmosis-across-selectively-permeable-membranes-net-diffusion",
+    "bid": "ch04-f55"
+   },
+   {
+    "type": "paragraph",
+    "text": "By far, the most abundant substance that diffuses through the cell membrane is water. Enough water ordinarily diffuses in each direction through the red blood cell membrane per second to equal about _100 times the volume of the cell itself._ Yet, the amount that normally diffuses in the two directions is balanced so precisely that zero net movement of water occurs. Therefore, the volume of the cell remains constant. However, under certain conditions, a _concentration difference for water_ can develop across a membrane. When this concentration difference for water develops, net movement of water does occur across the cell membrane, causing the cell to swell or shrink, depending on the direction of the water movement. This process of net movement of water caused by a concentration difference of water is called _osmosis._",
+    "pdfPage": 57,
+    "bid": "ch04-f56"
+   },
+   {
+    "type": "paragraph",
+    "text": "To illustrate osmosis, let us assume the conditions shown in **Figure 4-10**, with pure water on one side of the cell membrane and a solution of sodium chloride on the other side. Water molecules pass through the cell membrane with ease, whereas sodium and chloride ions pass through only with difficulty. Therefore, sodium chloride solution is actually a mixture of permeant water molecules and nonpermeant sodium and chloride ions, and the membrane is said to be _selectively permeable_ to water but much less so to sodium and chloride ions. Yet, the presence of the sodium and chloride has displaced some of the water molecules on the side of the membrane where these ions are present and, therefore, has reduced the concentration of water molecules to less than that of pure water. As a result, in the example shown in **Figure 4-10**, more water molecules strike the channels on the left side, where there is pure water, than on the right side, where the water concentration has been reduced. Thus, net movement of water occurs from left to right—that is, _osmosis_ occurs from the pure water into the sodium chloride solution.",
+    "pdfPage": 57,
+    "bid": "ch04-f57"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-04-10",
+    "bid": "ch04-f58"
+   },
+   {
+    "type": "paragraph",
+    "text": "If in **Figure 4-10** pressure were applied to the sodium chloride solution, osmosis of water into this solution would be slowed, stopped, or even reversed. The amount of pressure required to stop osmosis is called the _osmotic pressure_ of the sodium chloride solution.",
+    "pdfPage": 57,
+    "bid": "ch04-f59"
+   },
+   {
+    "type": "paragraph",
+    "text": "The principle of a pressure difference opposing osmosis is demonstrated in **Figure 4-11**, which shows a selectively permeable membrane separating two columns of fluid, one containing pure water and the other containing a solution of water and any solute that will not penetrate the membrane. Osmosis of water from chamber B into chamber A causes the levels of the fluid columns to become farther and farther apart, until eventually a pressure difference develops between the two sides of the membrane that is great enough to oppose the osmotic effect. The pressure difference across the membrane at this point is equal to the osmotic pressure of the solution that contains the nondiffusible solute.",
+    "pdfPage": 57,
+    "bid": "ch04-f60"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-04-11",
+    "bid": "ch04-f61"
+   },
+   {
+    "type": "paragraph",
+    "text": "The osmotic pressure exerted by particles in a solution, whether they are molecules or ions, is determined by the number of particles per unit volume of fluid, not by the mass of the particles. The reason for this is that each particle in a solution, regardless of its mass, exerts, on average, the same amount of pressure against the membrane. That is, large particles, which have greater mass (m) than small particles, move at a slower velocity (v). The small particles move at higher velocities in such a way that their average kinetic energies (k), as determined by the following equation, are the same for each small particle as for each large particle. Consequently, the factor that determines the osmotic pressure of a solution is the concentration of the solution in terms of the number of particles (which is the same as its _molar concentration_ if it is a nondissociated molecule), not in terms of mass of the solute.",
+    "pdfPage": 58,
+    "lead": "Importance of Number of Osmotic Particles (Molar Concentration) in Determining Osmotic Pressure.",
+    "anchor": "ch04-h-importance-of-number-of-osmotic-particles-molar-concentratio",
+    "bid": "ch04-f62"
+   },
+   {
+    "type": "paragraph",
+    "text": "To express the concentration of a solution in terms of numbers of particles, a unit called the _osmole_ is used in place of grams.",
+    "pdfPage": 58,
+    "lead": "Osmolality—The Osmole.",
+    "anchor": "ch04-h-osmolality-the-osmole",
+    "bid": "ch04-f63"
+   },
+   {
+    "type": "paragraph",
+    "text": "One osmole is 1 gram molecular weight of osmotically active solute. Thus, 180 grams of glucose, which is 1 gram molecular weight of glucose, is equal to 1 osmole of glucose because glucose does not dissociate into ions. If a solute dissociates into two ions, 1 gram molecular weight of the solute will become 2 osmoles because the number of osmotically active particles is now twice as great as for the nondissociated solute. Therefore, when fully dissociated, 1 gram molecular weight of sodium chloride, 58.5 grams, is equal to 2 osmoles.",
+    "pdfPage": 58,
+    "bid": "ch04-f64"
+   },
+   {
+    "type": "paragraph",
+    "text": "Thus, a solution that has _1 osmole of solute dissolved in each kilogram of water_ is said to have an _osmolality of 1 osmole per kilogram,_ and a solution that has 1/1000 osmole dissolved per kilogram has an osmolality of 1 milliosmole per kilogram. The normal osmolality of the extracellular and intracellular fluids is about _300 milliosmoles per kilogram of water._",
+    "pdfPage": 58,
+    "bid": "ch04-f65"
+   },
+   {
+    "type": "paragraph",
+    "text": "At normal body temperature, 37°C (98.6°F), a concentration of 1 osmole per liter will cause 19,300 mm Hg osmotic pressure in the solution. Likewise, _1 milliosmole_ per liter concentration is equivalent to _19.3 mm Hg_ osmotic pressure. Multiplying this value by the 300-milliosmolar concentration of the body fluids gives a total calculated osmotic pressure of the body fluids of 5790 mm Hg. The measured value for this, however, averages only about 5500 mm Hg. The reason for this difference is that many ions in the body fluids, such as sodium and chloride ions, are highly attracted to one another; consequently, they cannot move entirely unrestrained in the fluids and create their full osmotic pressure potential. Therefore, on average, the actual osmotic pressure of the body fluids is about 0.93 times the calculated value.",
+    "pdfPage": 58,
+    "lead": "Relationship of Osmolality to Osmotic Pressure.",
+    "anchor": "ch04-h-relationship-of-osmolality-to-osmotic-pressure",
+    "bid": "ch04-f66"
+   },
+   {
+    "type": "paragraph",
+    "text": "_Osmolarity_ is the osmolar concentration expressed as _osmoles per liter of solution_ rather than osmoles per kilogram of water. Although, strictly speaking, it is osmoles per kilogram of water (osmolality) that determines osmotic pressure, the quantitative differences between osmolarity and osmolality are less than 1% for dilute solutions such as those in the body. Because it is far more practical to measure osmolarity than osmolality, measuring osmolarity is the usual practice in physiological studies.",
+    "pdfPage": 58,
+    "lead": "The Term Osmolarity.",
+    "anchor": "ch04-h-the-term-osmolarity",
+    "bid": "ch04-f67"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "ACTIVE TRANSPORT OF SUBSTANCES THROUGH MEMBRANES",
+    "pdfPage": 58,
+    "id": "ch04-h-active-transport-of-substances-through-membranes",
+    "bid": "ch04-f68"
+   },
+   {
+    "type": "paragraph",
+    "text": "At times, a large concentration of a substance is required in the intracellular fluid, even though the extracellular fluid contains only a small concentration. This situation is true, for example, for potassium ions. Conversely, it is important to keep the concentrations of other ions very low inside the cell, even though their concentrations in the extracellular fluid are high. This situation is especially true for sodium ions. Neither of these two effects could occur by simple diffusion because simple diffusion eventually equilibrates concentrations on the two sides of the membrane. Instead, some energy source must cause excess movement of potassium ions to the inside of cells and excess movement of sodium ions to the outside of cells. When a cell membrane moves molecules or ions uphill against a concentration gradient (or uphill against an electrical or pressure gradient), the process is called _active transport._",
+    "pdfPage": 58,
+    "bid": "ch04-f69"
+   },
+   {
+    "type": "paragraph",
+    "text": "Some examples of substances that are actively transported through at least some cell membranes include sodium, potassium, calcium, iron, hydrogen, chloride, iodide, and urate ions, several different sugars, and most of the amino acids.",
+    "pdfPage": 58,
+    "pdfPageEnd": 59,
+    "bid": "ch04-f70"
+   },
+   {
+    "type": "paragraph",
+    "text": "Active transport is divided into two types according to the source of the energy used to facilitate the transport, _primary active transport_ and _secondary active transport._ In primary active transport, the energy is derived directly from the breakdown of adenosine triphosphate (ATP) or some other high-energy phosphate compound. In secondary active transport, the energy is derived secondarily from energy that has been stored in the form of ionic concentration differences of secondary molecular or ionic substances between the two sides of a cell membrane, created originally by primary active transport. In both cases, transport depends on _carrier proteins_ that penetrate through the cell membrane, as is true for facilitated diffusion. However, in active transport, the carrier protein functions differently from the carrier in facilitated diffusion because it is capable of imparting energy to the transported substance to move it against the electrochemical gradient. The following sections provide some examples of primary active transport and secondary active transport, with more detailed explanations of their principles of function.",
+    "pdfPage": 59,
+    "lead": "Primary Active Transport and Secondary Active Transport.",
+    "anchor": "ch04-h-primary-active-transport-and-secondary-active-transport",
+    "bid": "ch04-f71"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "PRIMARY ACTIVE TRANSPORT",
+    "pdfPage": 59,
+    "id": "ch04-h-primary-active-transport",
+    "bid": "ch04-f72"
+   },
+   {
+    "type": "heading",
+    "level": 4,
+    "text": "Sodium-Potassium Pump Transports Sodium Ions Out of Cells and Potassium Ions into Cells",
+    "pdfPage": 59,
+    "id": "ch04-h-sodium-potassium-pump-transports-sodium-ions-out-of-cells-an",
+    "bid": "ch04-f73"
+   },
+   {
+    "type": "paragraph",
+    "text": "Among the substances that are transported by primary active transport are sodium, potassium, calcium, hydrogen, chloride, and a few other ions. The active transport mechanism that has been studied in greatest detail is the _sodium-potassium_ (Na+-K+) pump, a transporter that pumps sodium ions outward through the cell membrane of all cells and, at the same time, pumps potassium ions from the outside to the inside. This pump is responsible for maintaining the sodium and potassium concentration differences across the cell membrane, as well as for establishing a negative electrical voltage inside the cells. Indeed, Chapter 5 shows that this pump is also the basis of nerve function, transmitting nerve signals throughout the nervous system.",
+    "pdfPage": 59,
+    "bid": "ch04-f74"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 4-12** shows the basic physical components of the Na+-K+ pump. The _carrier protein_ is a complex of two separate globular proteins—a larger one called the α subunit, with a molecular weight of about 100,000, and a smaller one called the β subunit, with a molecular weight of about 55,000. Although the function of the smaller protein is not known (except that it might anchor the protein complex in the lipid membrane), the larger protein has three specific features that are important for the functioning of the pump: 1. \u0007It has three _binding sites for sodium ions_ on the portion of the protein that protrudes to the inside of the cell.",
+    "pdfPage": 59,
+    "bid": "ch04-f75"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-04-12",
+    "bid": "ch04-f76"
+   },
+   {
+    "type": "paragraph",
+    "text": "2. \u0007It has two _binding sites for potassium ions_ on the outside. 3. \u0007The inside portion of this protein near the sodium binding sites has adenosine triphosphatase (AT- Pase) activity. When two potassium ions bind on the outside of the carrier protein and three sodium ions bind on the inside, the ATPase function of the protein becomes activated. Activation of the ATPase function leads to cleavage of one molecule of ATP, splitting it to adenosine diphosphate (ADP) and liberating a high-energy phosphate bond of energy. This liberated energy is believed to cause a chemical and conformational change in the protein carrier molecule, extruding three sodium ions to the outside and two potassium ions to the inside.",
+    "pdfPage": 59,
+    "bid": "ch04-f77"
+   },
+   {
+    "type": "paragraph",
+    "text": "As with other enzymes, the Na+-K+ ATPase pump can run in reverse. If the electrochemical gradients for Na+ and K+ are experimentally increased to the degree that the energy stored in their gradients is greater than the chemical energy of ATP hydrolysis, these ions will move down their concentration gradients, and the Na+-K+ pump will synthesize ATP from ADP and phosphate. The phosphorylated form of the Na+-K+ pump, therefore, can either donate its phosphate to ADP to produce ATP or use the energy to change its conformation and pump Na+ out of the cell and K+ into the cell. The relative concentrations of ATP, ADP, and phosphate, as well as the electrochemical gradients for Na+ and K+, determine the direction of the enzyme reaction. For some cells, such as electrically active nerve cells, 60% to 70% of the cell’s energy requirement may be devoted to pumping Na+ out of the cell and K+ into the cell.",
+    "pdfPage": 59,
+    "bid": "ch04-f78"
+   },
+   {
+    "type": "paragraph",
+    "text": "One of the most important functions of the Na+-K+ pump is to control the cell volume. Without function of this pump, most cells of the body would swell until they burst.",
+    "pdfPage": 59,
+    "lead": "The Na+-K+ Pump Is Important for Controlling Cell Volume.",
+    "anchor": "ch04-h-the-na-k-pump-is-important-for-controlling-cell-volume",
+    "bid": "ch04-f79"
+   },
+   {
+    "type": "paragraph",
+    "text": "The mechanism for controlling the volume is as follows. Inside the cell are large numbers of proteins and other organic molecules that cannot escape from the cell. Most of these proteins and other organic molecules are negatively charged and, therefore, attract large numbers of potassium, sodium, and other positive ions. All these molecules and ions then cause osmosis of water to the interior of the cell. Unless this process is checked, the cell will swell indefinitely until it bursts. The normal mechanism for preventing this outcome is the Na+-K+ pump. Note again that this mechanism pumps three Na+ ions to the outside of the cell for every two K+ ions pumped to the interior. Also, the membrane is far less permeable to sodium ions than to potassium ions and, once the sodium ions are on the outside, they have a strong tendency to stay there. This process thus represents a net loss of ions out the cell, which also initiates osmosis of water out of the cell.",
+    "pdfPage": 60,
+    "bid": "ch04-f80"
+   },
+   {
+    "type": "paragraph",
+    "text": "If a cell begins to swell for any reason, the Na+-K+ pump is automatically activated, moving still more ions to the exterior and carrying water with them. Therefore, the Na+-K+ pump performs a continual surveillance role in maintaining normal cell volume.",
+    "pdfPage": 60,
+    "bid": "ch04-f81"
+   },
+   {
+    "type": "paragraph",
+    "text": "The fact that the Na+-K+ pump moves three Na+ ions to the exterior for every two K+ ions that are moved to the interior means that a net of one positive charge is moved from the interior of the cell to the exterior of the cell for each cycle of the pump. This action creates positivity outside the cell but results in a deficit of positive ions inside the cell; that is, it causes negativity on the inside. Therefore, the Na+-K+ pump is said to be _electrogenic_ because it creates an electrical potential across the cell membrane. As discussed in Chapter 5, this electrical potential is a basic requirement in nerve and muscle fibers for transmitting nerve and muscle signals.",
+    "pdfPage": 60,
+    "lead": "Electrogenic Nature of the Na+-K+ Pump.",
+    "anchor": "ch04-h-electrogenic-nature-of-the-na-k-pump",
+    "bid": "ch04-f82"
+   },
+   {
+    "type": "heading",
+    "level": 4,
+    "text": "Primary Active Transport of Calcium Ions",
+    "pdfPage": 60,
+    "id": "ch04-h-primary-active-transport-of-calcium-ions",
+    "bid": "ch04-f83"
+   },
+   {
+    "type": "paragraph",
+    "text": "Another important primary active transport mechanism is the _calcium pump._ Calcium ions are normally maintained at an extremely low concentration in the intracellular cytosol of virtually all cells in the body, at a concentration about 10,000 times less than that in the extracellular fluid. This level of maintenance is achieved mainly by two primary active transport calcium pumps. One, which is in the cell membrane, pumps calcium to the outside of the cell. The other pumps calcium ions into one or more of the intracellular vesicular organelles of the cell, such as the sarcoplasmic reticulum of muscle cells and the mitochondria in all cells. In each of these cases, the carrier protein penetrates the membrane and functions as an enzyme ATPase, with the same capability to cleave ATP as the ATPase of the sodium carrier protein. The difference is that this protein has a highly specific binding site for calcium instead of for sodium.",
+    "pdfPage": 60,
+    "bid": "ch04-f84"
+   },
+   {
+    "type": "heading",
+    "level": 4,
+    "text": "Primary Active Transport of Hydrogen Ions",
+    "pdfPage": 60,
+    "id": "ch04-h-primary-active-transport-of-hydrogen-ions",
+    "bid": "ch04-f85"
+   },
+   {
+    "type": "paragraph",
+    "text": "Primary active transport of hydrogen ions is especially important at two places in the body: (1) in the gastric glands of the stomach; and (2) in the late distal tubules and cortical collecting ducts of the kidneys.",
+    "pdfPage": 60,
+    "bid": "ch04-f86"
+   },
+   {
+    "type": "paragraph",
+    "text": "In the gastric glands, the deep-lying _parietal cells_ have the most potent primary active mechanism for transporting hydrogen ions of any part of the body. This mechanism is the basis for secreting hydrochloric acid in stomach digestive secretions. At the secretory ends of the gastric gland parietal cells, the hydrogen ion concentration is increased as much as a million-fold and then is released into the stomach, along with chloride ions, to form hydrochloric acid.",
+    "pdfPage": 60,
+    "bid": "ch04-f87"
+   },
+   {
+    "type": "paragraph",
+    "text": "In the renal tubules, special _intercalated cells_ found in the late distal tubules and cortical collecting ducts also transport hydrogen ions by primary active transport. In this case, large amounts of hydrogen ions are secreted from the blood into the renal tubular fluid for the purpose of eliminating excess hydrogen ions from the body fluids. The hydrogen ions can be secreted into the renal tubular fluid against a concentration gradient of about 900-fold. Yet, as discussed in Chapter 31, most of these hydrogen ions combine with tubular fluid buffers before they are eliminated in the urine",
+    "pdfPage": 60,
+    "bid": "ch04-f88"
+   },
+   {
+    "type": "heading",
+    "level": 4,
+    "text": "Energetics of Primary Active Transport",
+    "pdfPage": 60,
+    "id": "ch04-h-energetics-of-primary-active-transport",
+    "bid": "ch04-f89"
+   },
+   {
+    "type": "paragraph",
+    "text": "The amount of energy required to transport a substance actively through a membrane is determined by how much the substance is concentrated during transport. Compared with the energy required to concentrate a substance 10-fold, concentrating it 100-fold requires twice as much energy, and concentrating it 1000-fold requires three times as much energy. In other words, the energy required is proportional to the _logarithm_ of the degree that the substance is concentrated, as expressed by the following formula:",
+    "pdfPage": 60,
+    "bid": "ch04-f90"
+   },
+   {
+    "type": "paragraph",
+    "text": "Thus, in terms of calories, the amount of energy required to concentrate 1 osmole of a substance 10-fold is about 1400 calories, whereas to concentrate it 100-fold, 2800 calories are required. One can see that the energy expenditure for concentrating substances in cells or for removing substances from cells against a concentration gradient can be tremendous. Some cells, such as those lining the renal tubules and many glandular cells, expend as much as 90% of their energy for this purpose alone.",
+    "pdfPage": 60,
+    "bid": "ch04-f91"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "SECONDARY ACTIVE TRANSPORT— CO-TRANSPORT AND COUNTER-TRANSPORT",
+    "pdfPage": 60,
+    "id": "ch04-h-secondary-active-transport-co-transport-and-counter-transpor",
+    "bid": "ch04-f92"
+   },
+   {
+    "type": "paragraph",
+    "text": "When sodium ions are transported out of cells by primary active transport, a large concentration gradient of sodium ions across the cell membrane usually develops, with a high concentration outside the cell and a low concentration inside. This gradient represents a storehouse of energy, because the excess sodium outside the cell membrane is always attempting to diffuse to the interior. Under appropriate conditions, this diffusion energy of sodium can pull other substances along with the sodium through the cell membrane. This phenomenon, called _cotransport,_ is one form of _secondary active transport._",
+    "pdfPage": 60,
+    "pdfPageEnd": 61,
+    "bid": "ch04-f93"
+   },
+   {
+    "type": "paragraph",
+    "text": "For sodium to pull another substance along with it, a coupling mechanism is required; this is achieved by means of still another carrier protein in the cell membrane. The carrier in this case serves as an attachment point for both the sodium ion and the substance to be co-transported. Once they are both attached, the energy gradient of the sodium ion causes the sodium ion and the other substance to be transported together to the interior of the cell.",
+    "pdfPage": 61,
+    "bid": "ch04-f94"
+   },
+   {
+    "type": "paragraph",
+    "text": "In _counter-transport,_ sodium ions again attempt to diffuse to the interior of the cell because of their large concentration gradient. However, this time, the substance to be transported is on the inside of the cell and is transported to the outside. Therefore, the sodium ion binds to the carrier protein, where it projects to the exterior surface of the membrane, and the substance to be countertransported binds to the interior projection of the carrier protein. Once both have become bound, a conformational change occurs, and energy released by the action of the sodium ion moving to the interior causes the other substance to move to the exterior.",
+    "pdfPage": 61,
+    "bid": "ch04-f95"
+   },
+   {
+    "type": "heading",
+    "level": 4,
+    "text": "Co-Transport of Glucose and Amino Acids Along with Sodium Ions",
+    "pdfPage": 61,
+    "id": "ch04-h-co-transport-of-glucose-and-amino-acids-along-with-sodium-io",
+    "bid": "ch04-f96"
+   },
+   {
+    "type": "paragraph",
+    "text": "Glucose and many amino acids are transported into most cells against large concentration gradients; the mechanism of this action is entirely by co-transport, as shown in **Figure 4-13**. Note that the transport carrier protein has two binding sites on its exterior side, one for sodium and one for glucose. Also, the concentration of sodium ions is high on the outside and low on the inside, which provides energy for the transport. A special property of the transport protein is that a conformational change to allow sodium movement to the interior will not occur until a glucose molecule also attaches. When they both become attached, the conformational change takes place, and the sodium and glucose are transported to the inside of the cell at the same time. Hence, this is a _sodium-glucose co-transporter_. Sodium-glucose cotransporters are especially important for transporting glucose across renal and intestinal epithelial cells, as discussed in Chapters 28 and 66.",
+    "pdfPage": 61,
+    "bid": "ch04-f97"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-04-13",
+    "bid": "ch04-f98"
+   },
+   {
+    "type": "paragraph",
+    "text": "_Sodium co-transport of amino acids_ occurs in the same manner as for glucose, except that it uses a different set of transport proteins. At least five _amino acid transport proteins_ have been identified, each of which is responsible for transporting one subset of amino acids with specific molecular characteristics.",
+    "pdfPage": 61,
+    "bid": "ch04-f99"
+   },
+   {
+    "type": "paragraph",
+    "text": "Sodium co-transport of glucose and amino acids occurs especially through the epithelial cells of the intestinal tract and the renal tubules of the kidneys to promote absorption of these substances into the blood. This process will be discussed in later chapters.",
+    "pdfPage": 61,
+    "bid": "ch04-f100"
+   },
+   {
+    "type": "paragraph",
+    "text": "Other important co-transport mechanisms in at least some cells include co-transport of potassium, chloride, bicarbonate, phosphate, iodine, iron, and urate ions.",
+    "pdfPage": 61,
+    "bid": "ch04-f101"
+   },
+   {
+    "type": "heading",
+    "level": 4,
+    "text": "Sodium Counter-Transport of Calcium and Hydrogen Ions",
+    "pdfPage": 61,
+    "id": "ch04-h-sodium-counter-transport-of-calcium-and-hydrogen-ions",
+    "bid": "ch04-f102"
+   },
+   {
+    "type": "paragraph",
+    "text": "Two especially important counter-transporters (i.e., transport in a direction opposite to the primary ion) are _sodium-calcium counter-transport_ and _sodium-hydrogen counter-transport_ (**Figure 4-14**).",
+    "pdfPage": 61,
+    "bid": "ch04-f103"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-04-14",
+    "bid": "ch04-f104"
+   },
+   {
+    "type": "paragraph",
+    "text": "Sodium-calcium counter-transport occurs through all or almost all cell membranes, with sodium ions moving to the interior and calcium ions to the exterior; both are bound to the same transport protein in a countertransport mode. This mechanism is in addition to the primary active transport of calcium that occurs in some cells.",
+    "pdfPage": 61,
+    "bid": "ch04-f105"
+   },
+   {
+    "type": "paragraph",
+    "text": "Sodium-hydrogen counter-transport occurs in several tissues. An especially important example is in the _proximal tubules_ of the kidneys, where sodium ions move from the lumen of the tubule to the interior of the tubular cell and hydrogen ions are counter-transported into the tubule lumen. As a mechanism for concentrating hydrogen ions, counter-transport is not nearly as powerful as the primary active transport of hydrogen ions that occurs in the more distal renal tubules, but it can transport extremely _large numbers of hydrogen ions,_ thus making it a key to hydrogen ion control in the body fluids, as discussed in detail in Chapter 31.",
+    "pdfPage": 61,
+    "bid": "ch04-f106"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "ACTIVE TRANSPORT THROUGH CELLULAR SHEETS",
+    "pdfPage": 62,
+    "id": "ch04-h-active-transport-through-cellular-sheets",
+    "bid": "ch04-f107"
+   },
+   {
+    "type": "paragraph",
+    "text": "At many places in the body, substances must be transported all the way through a cellular sheet instead of simply through the cell membrane. Transport of this type occurs through the following: (1) intestinal epithelium; (2) epithelium of the renal tubules; (3) epithelium of all exocrine glands; (4) epithelium of the gallbladder; and (5) membrane of the choroid plexus of the brain, along with other membranes.",
+    "pdfPage": 62,
+    "bid": "ch04-f108"
+   },
+   {
+    "type": "paragraph",
+    "text": "The basic mechanism for transport of a substance through a cellular sheet is as follows: (1) _active transport_ through the cell membrane _on one side_ of the transporting cells in the sheet; and then (2) either _simple diffusion_ or _facilitated diffusion_ through the membrane _on the opposite side_ of the cell.",
+    "pdfPage": 62,
+    "bid": "ch04-f109"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 4-15** shows a mechanism for the transport of sodium ions through the epithelial sheet of the intestines, gallbladder, and renal tubules. This figure shows that the epithelial cells are connected together tightly at the luminal pole by means of junctions. The brush border on the luminal surfaces of the cells is permeable to both sodium ions and water. Therefore, sodium and water diffuse readily from the lumen into the interior of the cell. Then, at the basal and lateral membranes of the cells, sodium ions are actively transported into the extracellular fluid of the surrounding connective tissue and blood vessels. This action creates a high sodium ion concentration gradient across these membranes, which in turn causes osmosis of water. Thus, active transport of sodium ions at the basolateral sides of the epithelial cells results in the transport not only of sodium ions but also of water.",
+    "pdfPage": 62,
+    "bid": "ch04-f110"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-04-15",
+    "bid": "ch04-f111"
+   },
+   {
+    "type": "paragraph",
+    "text": "It is through these mechanisms that almost all nutrients, ions, and other substances are absorbed into the blood from the intestine. These mechanisms are also how the same substances are reabsorbed from the glomerular filtrate by the renal tubules.",
+    "pdfPage": 62,
+    "bid": "ch04-f112"
+   },
+   {
+    "type": "paragraph",
+    "text": "Numerous examples of the different types of transport discussed in this chapter are provided throughout this text.",
+    "pdfPage": 62,
+    "bid": "ch04-f113"
+   }
+  ]
+ },
+ "glossary": [
+  {
+   "id": "ch04-t-kanal-oqsillari",
+   "termUz": "kanal oqsillari",
+   "original": null,
+   "contextUz": "Lipid ikki qavati suvda eruvchi moddalarga to'siq; o'tish yo'llari — lipid orqali (yog'da eruvchilar), kanal oqsillari va tashuvchi oqsillar.",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-tashuvchi-oqsillar",
+   "termUz": "tashuvchi oqsillar",
+   "original": null,
+   "contextUz": "Lipid ikki qavati suvda eruvchi moddalarga to'siq; o'tish yo'llari — lipid orqali (yog'da eruvchilar), kanal oqsillari va tashuvchi oqsillar.",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-diffuziya",
+   "termUz": "diffuziya",
+   "original": "kinetik energiya, gradient bo'ylab",
+   "contextUz": "Ikki asosiy jarayon: diffuziya (kinetik energiya, gradient bo'ylab) va faol transport (gradientga qarshi, qo'shimcha energiya).",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-faol-transport",
+   "termUz": "faol transport",
+   "original": "gradientga qarshi, qo'shimcha energiya",
+   "contextUz": "Ikki asosiy jarayon: diffuziya (kinetik energiya, gradient bo'ylab) va faol transport (gradientga qarshi, qo'shimcha energiya).",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-oddiy-diffuziya",
+   "termUz": "Oddiy diffuziya",
+   "original": null,
+   "contextUz": "Oddiy diffuziya — tashuvchisiz: (1) lipid qavati orqali — tezlik yog'da eruvchanlikka proporsional (O₂, N₂, CO₂, spirtlar; O₂ hujayra ichiga \"membranasi yo'qdek\" kiradi); (2) suvli kanallar orqali.",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-akvaporinlar",
+   "termUz": "akvaporinlar",
+   "original": null,
+   "contextUz": "Suv: akvaporinlar (≥13 tur; bitta qatorda o'tkazadi, gidratlangan ionlarni o'tkazmaydi; AQP-2 zichligi fiziologik o'zgaradi — 28, 76-boblar).",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-kanallar",
+   "termUz": "Kanallar",
+   "original": null,
+   "contextUz": "Kanallar xossalari: (1) tanlovchanlik, (2) darvoza (gating).",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-k-kanali",
+   "termUz": "K⁺ kanali",
+   "original": "Fig. 4-4",
+   "contextUz": "K⁺ kanali (Fig. 4-4): 4 subbirlik, selektiv filtr karbonil kislorodlari bilan qoplangan — K⁺ gidrat qobig'ini tashlaydi; Na⁺ juda kichik, kislorodlar bilan yaqin ta'sirlasha olmaydi → K⁺ Na⁺ dan ~1000 marta oson o'tadi.",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-selektiv-filtr",
+   "termUz": "selektiv filtr",
+   "original": null,
+   "contextUz": "4-4): 4 subbirlik, selektiv filtr karbonil kislorodlari bilan qoplangan — K⁺ gidrat qobig'ini tashlaydi; Na⁺ juda kichik, kislorodlar bilan yaqin ta'sirlasha olmaydi → K⁺ Na⁺ dan ~1000 marta oson o'tadi.",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-na-kanali",
+   "termUz": "Na⁺ kanali",
+   "original": null,
+   "contextUz": "Na⁺ kanali 0,3–0,5 nm; filtri kuchli manfiy zaryadli aminokislotalar bilan (Fig.",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-voltaj-darvozasi",
+   "termUz": "Voltaj darvozasi",
+   "original": null,
+   "contextUz": "Voltaj darvozasi: ichki manfiylik Na⁺ ning tashqi darvozasini yopiq tutadi; depolyarizatsiyada ochiladi (aksion potensial asosi).",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-ligand-darvozasi",
+   "termUz": "Ligand darvozasi",
+   "original": null,
+   "contextUz": "Ligand darvozasi: atsetilxolin reseptori — ~0,65 nm manfiy zaryadli teshik, kichik kationlarni o'tkazadi (sinaps, nerv-muskul).",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-atsetilxolin-reseptori",
+   "termUz": "atsetilxolin reseptori",
+   "original": null,
+   "contextUz": "Ligand darvozasi: atsetilxolin reseptori — ~0,65 nm manfiy zaryadli teshik, kichik kationlarni o'tkazadi (sinaps, nerv-muskul).",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-patch-clamp",
+   "termUz": "patch-clamp",
+   "original": "1–2 µm uchli mikropipetka",
+   "contextUz": "Kanal \"hammasi yoki hech narsa\" tarzida ochiladi-yopiladi (ms ulushlari); patch-clamp (1–2 µm uchli mikropipetka) bilan bitta kanal toki yoziladi (Fig.",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-yengillashtirilgan-diffuziya",
+   "termUz": "Yengillashtirilgan diffuziya",
+   "original": "tashuvchi vositasida",
+   "contextUz": "Yengillashtirilgan diffuziya (tashuvchi vositasida): tezlik Vmax ga yetadi (tashuvchining konformatsiya o'zgarish tezligi cheklaydi; Fig.",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-vmax",
+   "termUz": "Vmax",
+   "original": null,
+   "contextUz": "Yengillashtirilgan diffuziya (tashuvchi vositasida): tezlik Vmax ga yetadi (tashuvchining konformatsiya o'zgarish tezligi cheklaydi; Fig.",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-glut",
+   "termUz": "GLUT",
+   "original": null,
+   "contextUz": "GLUT oilasi (≥14); GLUT4 insulin bilan 10–20 baravar faollashadi (79-bob).",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-glut4",
+   "termUz": "GLUT4",
+   "original": null,
+   "contextUz": "GLUT oilasi (≥14); GLUT4 insulin bilan 10–20 baravar faollashadi (79-bob).",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-nernst-tenglamasi",
+   "termUz": "Nernst tenglamasi",
+   "original": "37°C, bir valentli ion",
+   "contextUz": "Elektr potensial — Nernst tenglamasi (37°C, bir valentli ion): EMF (mV) = ±61 × log(C1/C2).",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-osmotik-bosim",
+   "termUz": "osmotik bosim",
+   "original": "Fig. 4-10, 4-11",
+   "contextUz": "To'xtatish uchun kerakli bosim — osmotik bosim (Fig. 4-10, 4-11).",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-soniga",
+   "termUz": "soniga",
+   "original": null,
+   "contextUz": "Osmotik bosim zarrachalar soniga bog'liq, massaga emas (kichik zarra tezroq, kinetik energiya bir xil: k = mv²/2).",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-osmol",
+   "termUz": "Osmol",
+   "original": null,
+   "contextUz": "Osmol — 1 g-molekulyar og'irlik osmotik faol modda: 180 g glyukoza = 1 osm; 58,5 g NaCl = 2 osm.",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-300-mosm-kg",
+   "termUz": "300 mOsm/kg",
+   "original": null,
+   "contextUz": "Tana suyuqliklari osmolyalligi ~300 mOsm/kg suv.",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-19-300-mm-hg",
+   "termUz": "19 300 mm Hg",
+   "original": null,
+   "contextUz": "37°C da 1 osm/L = 19 300 mm Hg; 1 mOsm/L = 19,3 mm Hg; hisoblangan 5790, o'lchangan ~5500 mm Hg (ionlararo tortishuv; koeffitsient 0,93).",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-osmolyallik",
+   "termUz": "Osmolyallik",
+   "original": "osm/kg suv",
+   "contextUz": "Osmolyallik (osm/kg suv) va osmolyarlik (osm/L eritma) — suyultirilgan eritmalarda farq <1%; amalda osmolyarlik o'lchanadi.",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-osmolyarlik",
+   "termUz": "osmolyarlik",
+   "original": "osm/L eritma",
+   "contextUz": "Osmolyallik (osm/kg suv) va osmolyarlik (osm/L eritma) — suyultirilgan eritmalarda farq <1%; amalda osmolyarlik o'lchanadi.",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-birlamchi",
+   "termUz": "Birlamchi",
+   "original": null,
+   "contextUz": "Birlamchi — energiya bevosita ATP dan; ikkilamchi — boshqa ion (asosan Na⁺) gradientida saqlangan energiyadan.",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-ikkilamchi",
+   "termUz": "ikkilamchi",
+   "original": null,
+   "contextUz": "Birlamchi — energiya bevosita ATP dan; ikkilamchi — boshqa ion (asosan Na⁺) gradientida saqlangan energiyadan.",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-na-k-nasosi",
+   "termUz": "Na⁺-K⁺ nasosi",
+   "original": "Fig. 4-12",
+   "contextUz": "Na⁺-K⁺ nasosi (Fig. 4-12): α subbirlik (MW ~100 000) — ichkarida 3 Na⁺ bog'lash joyi, tashqarida 2 K⁺ joyi, ATPaza faolligi; β (~55 000).",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-hujayra-hajmini-nazorat",
+   "termUz": "Hujayra hajmini nazorat",
+   "original": null,
+   "contextUz": "Hujayra hajmini nazorat: ichkaridagi chiqib keta olmaydigan manfiy oqsillar kationlarni va suvni tortadi; nasos sof ion chiqarib suvni ham chiqaradi; hujayra shishsa — nasos faollashadi.",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-elektrogen",
+   "termUz": "Elektrogen",
+   "original": null,
+   "contextUz": "Elektrogen: har siklda bitta musbat zaryad tashqariga → ichki manfiylik.",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-ca-nasoslari",
+   "termUz": "Ca²⁺ nasoslari",
+   "original": null,
+   "contextUz": "Ca²⁺ nasoslari: sitozol Ca²⁺ ECF dan ~10 000 marta kam; membranadagi (tashqariga) va organellalarga (sarkoplazmatik to'r, mitoxondriya) nasoslar.",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-h-nasosi",
+   "termUz": "H⁺ nasosi",
+   "original": null,
+   "contextUz": "H⁺ nasosi: oshqozon parietal hujayralari — H⁺ konsentratsiyasini million marta oshiradi (HCl); buyrakning distal naychalari va kortikal yig'uvchi naychalaridagi interkalyar hujayralar — ~900 baravar gradientga qarshi (31-bob).",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-parietal-hujayralari",
+   "termUz": "parietal hujayralari",
+   "original": null,
+   "contextUz": "H⁺ nasosi: oshqozon parietal hujayralari — H⁺ konsentratsiyasini million marta oshiradi (HCl); buyrakning distal naychalari va kortikal yig'uvchi naychalaridagi interkalyar hujayralar — ~900 baravar gradientga qarshi (31-bob).",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-interkalyar-hujayralar",
+   "termUz": "interkalyar hujayralar",
+   "original": null,
+   "contextUz": "H⁺ nasosi: oshqozon parietal hujayralari — H⁺ konsentratsiyasini million marta oshiradi (HCl); buyrakning distal naychalari va kortikal yig'uvchi naychalaridagi interkalyar hujayralar — ~900 baravar gradientga qarshi (31-bob).",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-energetika",
+   "termUz": "Energetika",
+   "original": null,
+   "contextUz": "Energetika: Energiya (kal/osm) = 1400 × log(C1/C2): 10 baravar — 1400 kal, 100 baravar — 2800 kal.",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-ikkilamchi-faol-transport",
+   "termUz": "Ikkilamchi faol transport",
+   "original": null,
+   "contextUz": "Ikkilamchi faol transport: Ko-transport (bir yo'nalishda): Na⁺–glyukoza (tashuvchi glyukoza ham bog'langandagina konformatsiyani o'zgartiradi; ichak va buyrak epiteliysi — 28, 66-boblar), Na⁺–aminokislotalar (≥5 tashuvchi); K⁺, Cl⁻, HCO₃⁻, fosfat, yod, temir, urat.",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-ko-transport",
+   "termUz": "Ko-transport",
+   "original": "bir yo'nalishda",
+   "contextUz": "Ikkilamchi faol transport: Ko-transport (bir yo'nalishda): Na⁺–glyukoza (tashuvchi glyukoza ham bog'langandagina konformatsiyani o'zgartiradi; ichak va buyrak epiteliysi — 28, 66-boblar), Na⁺–aminokislotalar (≥5 tashuvchi); K⁺, Cl⁻, HCO₃⁻, fosfat, yod, temir, urat.",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-qarshi-transport",
+   "termUz": "Qarshi transport",
+   "original": "Fig. 4-14",
+   "contextUz": "Qarshi transport (Fig. 4-14): Na⁺–Ca²⁺ (deyarli barcha membranalarda), Na⁺–H⁺ (ayniqsa proksimal naycha; konsentratsiyalashda kuchsiz, lekin juda ko'p H⁺ tashiydi — 31-bob).",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-na-ca",
+   "termUz": "Na⁺–Ca²⁺",
+   "original": "deyarli barcha membranalarda",
+   "contextUz": "4-14): Na⁺–Ca²⁺ (deyarli barcha membranalarda), Na⁺–H⁺ (ayniqsa proksimal naycha; konsentratsiyalashda kuchsiz, lekin juda ko'p H⁺ tashiydi — 31-bob).",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-na-h",
+   "termUz": "Na⁺–H⁺",
+   "original": null,
+   "contextUz": "4-14): Na⁺–Ca²⁺ (deyarli barcha membranalarda), Na⁺–H⁺ (ayniqsa proksimal naycha; konsentratsiyalashda kuchsiz, lekin juda ko'p H⁺ tashiydi — 31-bob).",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch04-t-bazolateral",
+   "termUz": "bazolateral",
+   "original": null,
+   "contextUz": "Ichak, buyrak naychasi, ekzokrin bezlar, o't pufagi, xoroid chigal epiteliysi: lyuminal tomonda Na⁺ va suv diffuziya bilan kiradi (cho'tkasimon hoshiya); bazolateral membranada Na⁺ faol chiqariladi → gradient → suv osmos bilan ergashadi.",
+   "lessonId": "ch04",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  }
+ ],
+ "bookDefinitions": [
+  {
+   "pdfPage": 51,
+   "printedPage": "46",
+   "text": "Some proteins have watery spaces all the way through the molecule and allow free movement of water, as well as selected ions or molecules; these proteins are called channel proteins"
+  },
+  {
+   "pdfPage": 52,
+   "printedPage": "47",
+   "text": "This continual movement of molecules among one another in liquids or gases is called diffusion. 52 Diffusion through the cell membrane is divided into two subtypes, called simple diffusion and facilitated diffusion"
+  },
+  {
+   "pdfPage": 55,
+   "printedPage": "50",
+   "text": "This graph shows that facilitated diffusion approaches a maximum rate, called the Vmax"
+  },
+  {
+   "pdfPage": 57,
+   "printedPage": "52",
+   "text": "Chapter 4 of univalent ions—such as Na+ ions—can be determined from the following formula, called the Nernst equation: EMF (in millivolts ) = ±61log Transport of Substances Through Cell Membranes Water NaCl solution C1 C2 UNIT II in which EMF is the electromotive force (voltage) between side 1 and side 2 of the membrane, C1 is the concentration on side 1, and C2 is the concentration on side 2"
+  },
+  {
+   "pdfPage": 57,
+   "printedPage": "52",
+   "text": "This process of net movement of water caused by a concentration difference of water is called osmosis"
+  },
+  {
+   "pdfPage": 57,
+   "printedPage": "52",
+   "text": "The amount of pressure required to stop osmosis is called the osmotic pressure of the sodium chloride solution"
+  },
+  {
+   "pdfPage": 58,
+   "printedPage": "53",
+   "text": "To express the concentration of a solution in terms of numbers of particles, a unit called the osmole is used in place of grams"
+  },
+  {
+   "pdfPage": 58,
+   "printedPage": "53",
+   "text": "When a cell membrane moves molecules or ions uphill against a concentration gradient (or uphill against an electrical or pressure gradient), the process is called active transport"
+  },
+  {
+   "pdfPage": 59,
+   "printedPage": "54",
+   "text": "The carrier protein is a complex of two separate globular proteins—a larger one called the α subunit, with a molecular weight of about 100,000, and a smaller one called the β subunit, with a molecular weight of about 55,000"
+  }
+ ],
+ "keyNumbers": [
+  {
+   "pdfPage": 53,
+   "printedPage": "48",
+   "text": "Potassium channels permit passage of potassium ions across the cell membrane about 1000 times more readily than they permit passage of sodium ions"
+  },
+  {
+   "pdfPage": 53,
+   "printedPage": "48",
+   "text": "This high degree of selectivity cannot be explained entirely by the Pore loop Outside Selectivity filter UNIT II through the red blood cell membrane during each second is about 100 times as great as the volume of the red blood cell"
+  },
+  {
+   "pdfPage": 53,
+   "printedPage": "48",
+   "text": "For example, the diameter of the urea molecule is only 20% greater than that of water, yet its penetration through the cell membrane pores is about 1000 times less than that of water"
+  },
+  {
+   "pdfPage": 54,
+   "printedPage": "49",
+   "text": "The patch clamp method for recording ion current flow through single protein channels is illustrated in Figure 4-6B. A micropipette with a tip diameter of only 1 or 2 micrometers is abutted against the outside of a cell membrane"
+  },
+  {
+   "pdfPage": 56,
+   "printedPage": "51",
+   "text": "One of these, glucose transporter 4 (GLUT4), is activated by insulin, which can increase the rate of facilitated diffusion of glucose as much as 10-to 20-fold in insulin-sensitive tissues"
+  },
+  {
+   "pdfPage": 56,
+   "printedPage": "51",
+   "text": "At normal body temperature (98.6°F; 37°C), the electrical difference that will balance a given concentration difference"
+  },
+  {
+   "pdfPage": 57,
+   "printedPage": "52",
+   "text": "The pressure in many capillaries is about 20 mm Hg greater inside than outside"
+  },
+  {
+   "pdfPage": 57,
+   "printedPage": "52",
+   "text": "Enough water ordinarily diffuses in each direction through the red blood cell membrane per second to equal about 100 times the volume of the cell itself"
+  },
+  {
+   "pdfPage": 58,
+   "printedPage": "53",
+   "text": "Thus, 180 grams of glucose, which is 1 gram molecular weight of glucose, is equal to 1 osmole of glucose because glucose does not dissociate into ions"
+  },
+  {
+   "pdfPage": 58,
+   "printedPage": "53",
+   "text": "Therefore, when fully dissociated, 1 gram molecular weight of sodium chloride, 58.5 grams, is equal to 2 osmoles. 58 normal body temperature, 37°C (98.6°F), a concentration of 1 osmole per liter will cause 19,300 mm Hg osmotic pressure in the solution"
+  },
+  {
+   "pdfPage": 58,
+   "printedPage": "53",
+   "text": "Likewise, 1 milliosmole per liter concentration is equivalent to 19.3 mm Hg osmotic pressure"
+  },
+  {
+   "pdfPage": 58,
+   "printedPage": "53",
+   "text": "Multiplying this value by the 300-milliosmolar concentration of the body fluids gives a total calculated osmotic pressure of the body fluids of 5790 mm Hg"
+  },
+  {
+   "pdfPage": 58,
+   "printedPage": "53",
+   "text": "The measured value for this, however, averages only about 5500 mm Hg"
+  },
+  {
+   "pdfPage": 58,
+   "printedPage": "53",
+   "text": "Therefore, on average, the actual osmotic pressure of the body fluids is about 0.93 times the calculated value"
+  },
+  {
+   "pdfPage": 58,
+   "printedPage": "53",
+   "text": "Although, strictly speaking, it is osmoles per kilogram of water (osmolality) that determines osmotic pressure, the quantitative differences between osmolarity and osmolality are less than 1% for dilute solutions such as those in the body"
+  },
+  {
+   "pdfPage": 59,
+   "printedPage": "54",
+   "text": "For some cells, such as electrically active nerve cells, 60% to 70% of the cell’s energy requirement may be devoted to pumping Na+ out of the cell and K+ into the cell"
+  },
+  {
+   "pdfPage": 60,
+   "printedPage": "55",
+   "text": "Calcium ions are normally maintained at an extremely low concentration in the intracellular cytosol of virtually all cells in the body, at a concentration about 10,000 times less than that in the extracellular fluid"
+  },
+  {
+   "pdfPage": 60,
+   "printedPage": "55",
+   "text": "The hydrogen ions can be secreted into the renal tubular fluid against a concentration gradient of about 900-fold"
+  },
+  {
+   "pdfPage": 60,
+   "printedPage": "55",
+   "text": "Compared with the energy required to concentrate a substance 10-fold, concentrating it 100-fold requires twice as much energy, and concentrating it 1000-fold requires three times as much energy"
+  },
+  {
+   "pdfPage": 60,
+   "printedPage": "55",
+   "text": "In other words, the energy required is proportional to the logarithm of the degree that the substance is concentrated, as expressed by the following formula: Energy (in calories per osmole) = 1400 log C1 C2 Thus, in terms of calories, the amount of energy required to concentrate 1 osmole of a substance 10-fold is about 1400 calories, whereas to concentrate it 100-fold, 2800 calories are required"
+  },
+  {
+   "pdfPage": 60,
+   "printedPage": "55",
+   "text": "Some cells, such as those lining the renal tubules and many glandular cells, expend as much as 90% of their energy for this purpose alone"
+  }
+ ],
+ "figureIds": [
+  "gh14-fig-04-01",
+  "gh14-fig-04-02",
+  "gh14-fig-04-03",
+  "gh14-fig-04-04",
+  "gh14-fig-04-05",
+  "gh14-fig-04-06",
+  "gh14-fig-04-07",
+  "gh14-fig-04-08",
+  "gh14-fig-04-09",
+  "gh14-fig-04-10",
+  "gh14-fig-04-11",
+  "gh14-fig-04-12",
+  "gh14-fig-04-13",
+  "gh14-fig-04-14",
+  "gh14-fig-04-15"
+ ],
+ "estMinutes": 37,
+ "counts": {
+  "figures": 15,
+  "figuresIncluded": 15,
+  "terms": 42,
+  "words": 7344,
+  "unplacedInSummary": 1
+ },
+ "review": {
+  "reviewedBy": null,
+  "reviewedAt": null
+ },
+ "importedAt": "2026-11-14T13:59:02+00:00"
+}

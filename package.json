@@ -1,0 +1,24 @@
+{
+  "name": "drstudy",
+  "version": "0.1.0",
+  "private": true,
+  "description": "DrStudy — fiziologiyani kitob asosida o‘rganish uchun web ilova",
+  "type": "module",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning server/index.js",
+    "dev": "node --disable-warning=ExperimentalWarning --watch server/index.js",
+    "test": "node --disable-warning=ExperimentalWarning --test test/*.test.js",
+    "check": "node --disable-warning=ExperimentalWarning scripts/check.js",
+    "import:content": "python3 -I tools/import_content.py --pdf \"$BOOK_PDF_PATH\" --notes \"$GUYTON_NOTES_DIR\" --ui-topics \"$UI_TOPICS_JSON\" --out content",
+    "create-admin": "node --disable-warning=ExperimentalWarning scripts/create-admin.js",
+    "translate": "node tools/translate.mjs run",
+    "translate:status": "node tools/translate.mjs status",
+    "translate:compile": "node tools/translate.mjs compile"
+  },
+  "optionalDependencies": {
+    "@anthropic-ai/sdk": "^1.8.0"
+  }
+}

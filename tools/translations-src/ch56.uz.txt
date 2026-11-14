@@ -1,0 +1,404 @@
+# Guyton & Hall, 14-nashr, 56-bob — to‘liq o‘zbekcha tarjima.
+# Format: har bir blok "@@ <bid>" qatoridan boshlanadi; "LEAD: ..." ixtiyoriy qator — xatboshi boshidagi qalin sarlavha.
+# Tarjimon: Claude (DrStudy sessiyasi), 2026-11-14. Holat: ekspert tekshiruvi kerak.
+
+@@ ch56-f0
+Bosh miya po‘stlog‘i boshlab beradigan “ixtiyoriy” harakatlarning aksariyati po‘stloq bosh miyaning quyi sohalari — orqa miya, miya ustuni, bazal gangliylar va miyacha — da saqlanadigan funksiya “shakllarini” (patternlarini) faollashtirganda amalga oshadi. Bu quyi markazlar, o‘z navbatida, muskullarga aniq boshqaruv signallarini yuboradi.
+
+@@ ch56-f1
+Biroq ayrim turdagi harakatlar uchun po‘stloq yo‘ldagi ba’zi harakat markazlarini chetlab o‘tib, orqa miyaning oldingi motoneyronlariga deyarli to‘g‘ridan-to‘g‘ri yo‘lga ega. Bu ayniqsa barmoqlar va qo‘llarning nozik, epchil harakatlarini boshqarishga taalluqli. Ushbu bob va 57-bob ixtiyoriy harakat funksiyasining umumiy sintezini ta’minlash uchun bosh miya va orqa miyaning turli harakat sohalari o‘rtasidagi o‘zaro ta’sirni tushuntiradi.
+
+@@ ch56-f2
+Harakat po‘stlog‘i va kortikospinal yo‘l
+
+@@ ch56-f3
+**Rasm 56-1** da bosh miya po‘stlog‘ining funksional sohalari ko‘rsatilgan. Markaziy egatdan oldinda, peshona bo‘laklarining taxminan orqa uchdan bir qismini egallagan holda _harakat (motor) po‘stlog‘i_ joylashgan. Markaziy egatdan orqada _somatosensor po‘stloq_ (oldingi boblarda batafsil muhokama qilingan soha) joylashgan; u harakat po‘stlog‘iga harakat faoliyatini boshlab beruvchi ko‘plab signallarni yetkazib beradi.
+
+@@ ch56-f5
+Harakat po‘stlog‘i uchta kichik sohaga bo‘linadi, ularning har biri muskul guruhlari va muayyan harakat funksiyalarining o‘z topografik tasviriga ega: (1) _birlamchi harakat po‘stlog‘i;_ (2) _premotor soha;_ va (3) _qo‘shimcha harakat sohasi._
+
+@@ ch56-f6
+Birlamchi harakat po‘stlog‘i
+
+@@ ch56-f7
+**Rasm 56-1** da ko‘rsatilgan birlamchi harakat po‘stlog‘i peshona bo‘laklarining markaziy egatdan oldingi birinchi pushtasida joylashgan. U lateral tomonda Silviy egatidan boshlanadi, yuqoriga bosh miyaning eng yuqori qismigacha tarqaladi va so‘ng bo‘ylama yoriq ichiga chuqur botib kiradi. (Bu soha **Rasm 48-5** da ko‘rsatilgan bosh miya po‘stloq sohalarining Brodman tasnifidagi 4-maydonga mos keladi.)
+
+@@ ch56-f8
+**Rasm 56-1** da tananing turli muskul sohalarining birlamchi harakat po‘stlog‘idagi taxminiy topografik tasvirlari keltirilgan: Silviy egatiga yaqin yuz va og‘iz sohasidan boshlab; birlamchi harakat po‘stlog‘ining o‘rta qismidagi qo‘l va panja sohasi; bosh miya cho‘qqisiga yaqin tana (gavda) sohasi; va birlamchi harakat po‘stlog‘ining bo‘ylama yoriqqa botib kiruvchi qismidagi oyoq va oyoq panjasi sohalari. Bu topografik tuzilish **Rasm 56-2** da yanada yaqqolroq namoyish etilgan; unda Penfild va Rasmussen tomonidan xaritalangan turli muskul sohalarining tasvirlanish darajalari ko‘rsatilgan. Bu xaritalash neyrojarrohlik operatsiyasini o‘tkazayotgan odamlarda harakat po‘stlog‘ining turli sohalarini elektr bilan qo‘zg‘atish orqali amalga oshirilgan. E’tibor bering: butun birlamchi harakat po‘stlog‘ining yarmidan ko‘pi qo‘l panjalari muskullari va nutq muskullarini boshqarish bilan band. Bu qo‘l va nutq harakat sohalarini nuqtali qo‘zg‘atish kamdan-kam hollarda bitta muskulning qisqarishiga sabab bo‘ladi, lekin ko‘pincha qo‘zg‘atish bir guruh muskullarni qisqartiradi. Boshqacha aytganda, harakat po‘stlog‘idagi bitta neyronning qo‘zg‘alishi odatda bitta muayyan muskulni emas, balki muayyan harakatni qo‘zg‘atadi. Buning uchun u alohida muskullarning “shaklini” qo‘zg‘atadi va ularning har biri muskul harakatining o‘z yo‘nalishi va kuchini qo‘shadi.
+
+@@ ch56-f10
+**Rasm 56-1** da ko‘rsatilgan premotor soha birlamchi harakat po‘stlog‘idan 1–3 santimetr oldinda joylashgan. U pastga Silviy egatigacha va yuqoriga bo‘ylama yoriqqacha cho‘zilib, u yerda premotor sohaga o‘xshash funksiyalarga ega bo‘lgan qo‘shimcha harakat sohasi bilan chegaradosh bo‘ladi. Premotor po‘stloqning topografik tuzilishi taxminan birlamchi harakat po‘stlog‘inikiga o‘xshaydi: og‘iz va yuz sohalari eng lateral joylashgan; yuqoriga qarab borilgan sari panja, qo‘l, gavda va oyoq sohalari uchraydi.
+
+@@ ch56-f11
+Premotor sohada hosil bo‘ladigan nerv signallari birlamchi harakat po‘stlog‘ida hosil bo‘ladigan alohida shakllarga qaraganda ancha murakkab harakat “shakllarini” keltirib chiqaradi. Masalan, shakl muayyan vazifalarni bajarish uchun qo‘l panjalari to‘g‘ri yo‘naltirilishi uchun yelka va qo‘llarni joylashtirishdan iborat bo‘lishi mumkin. Bunday natijalarga erishish uchun premotor sohaning eng oldingi qismi avval bajarilishi kerak bo‘lgan umumiy muskul harakatining “harakat obrazini” (motor tasvirini) yaratadi. So‘ngra premotor po‘stloqning orqa qismida bu obraz uni amalga oshirish uchun zarur bo‘lgan muskul faolligining har bir ketma-ket shaklini qo‘zg‘atadi. Premotor po‘stloqning bu orqa qismi o‘z signallarini muayyan muskullarni qo‘zg‘atish uchun yo to‘g‘ridan-to‘g‘ri birlamchi harakat po‘stlog‘iga, yoki ko‘pincha bazal gangliylar va talamus orqali birlamchi harakat po‘stlog‘iga qaytarib yuboradi.
+
+@@ ch56-f12
+_Ko‘zgu neyronlar_ deb ataladigan maxsus neyronlar sinfi odam muayyan harakat vazifasini bajarganda yoki xuddi shu vazifani boshqalar bajarayotganini kuzatganda faollashadi. Shunday qilib, bu neyronlarning faolligi boshqa odamning xatti-harakatini go‘yo kuzatuvchining o‘zi muayyan harakat vazifasini bajarayotgandek “aks ettiradi”. Bosh miyani vizualizatsiya qilish tadqiqotlari bu neyronlar eshitilgan yoki ko‘rilgan harakatlarning sezgi tasvirlarini shu harakatlarning harakat tasvirlariga aylantirishini ko‘rsatadi. Ko‘plab neyrofiziologlar bu ko‘zgu neyronlar boshqa odamlarning harakatlarini tushunish va taqlid orqali yangi ko‘nikmalarni o‘rganish uchun muhim bo‘lishi mumkin, deb hisoblaydi. Shunday qilib, premotor po‘stloq, bazal gangliylar, talamus va birlamchi harakat po‘stlog‘i muvofiqlashgan muskul faolligining murakkab shakllarini boshqaruvchi murakkab umumiy tizimni tashkil qiladi.
+
+@@ ch56-f13
+Qo‘shimcha harakat sohasi
+
+@@ ch56-f14
+Qo‘shimcha harakat sohasi harakat funksiyasini boshqarish uchun yana bir topografik tuzilishga ega. U asosan bo‘ylama yoriqda joylashgan, ammo bir necha santimetrga yuqori peshona po‘stlog‘iga ham cho‘ziladi. Bu sohani qo‘zg‘atish natijasida yuzaga keladigan qisqarishlar ko‘pincha bir tomonlama emas, balki ikki tomonlama bo‘ladi. Masalan, qo‘zg‘atish ko‘pincha ikkala qo‘l panjasining bir vaqtdagi ikki tomonlama ushlash harakatlariga olib keladi; bu harakatlar, ehtimol, tirmashib chiqish uchun zarur bo‘lgan qo‘l funksiyalarining qoldiqlaridir. Umuman olganda, bu soha premotor soha bilan hamkorlikda butun tana bo‘yicha holat (pozitsion) harakatlarini, tananing turli segmentlarini qotiruvchi harakatlarni, bosh va ko‘zlarning holat harakatlarini va hokazolarni ta’minlaydi; bular premotor soha va birlamchi harakat po‘stlog‘i tomonidan qo‘llar va panjalarni nozikroq boshqarish uchun fon bo‘lib xizmat qiladi.
+
+@@ ch56-f15
+Inson harakat po‘stlog‘idagi harakatni boshqaruvchi ba’zi ixtisoslashgan sohalar
+
+@@ ch56-f16
+Inson bosh miya po‘stlog‘ining bir nechta yuqori darajada ixtisoslashgan harakat sohalari (**Rasm 56-3** da ko‘rsatilgan) muayyan harakat funksiyalarini boshqaradi. Bu sohalar yo elektr bilan qo‘zg‘atish orqali, yoki po‘stloqning muayyan sohalarida yemiruvchi shikastlanishlar yuz berganda harakat funksiyasining yo‘qolishini kuzatish orqali aniqlangan. Ulardan muhimroqlari keyingi bo‘limlarda tasvirlangan.
+
+@@ ch56-f18
+LEAD: Broka sohasi (nutqning harakat sohasi).
+**Rasm 56-3** da birlamchi harakat po‘stlog‘idan bevosita oldinda va Silviy egatidan bevosita yuqorida joylashgan, “so‘z hosil qilish” deb belgilangan premotor soha ko‘rsatilgan. Bu soha _Broka sohasi_ deb ataladi. Uning shikastlanishi odamning ovoz chiqarishiga to‘sqinlik qilmaydi, ammo muvofiqlashmagan tovushlar yoki vaqti-vaqti bilan “yo‘q” yoki “ha” kabi oddiy so‘zlar o‘rniga butun so‘zlarni gapirishni imkonsiz qiladi. Unga yaqin bog‘langan po‘stloq sohasi tegishli nafas funksiyasini ham ta’minlaydi, shuning uchun nutq paytida ovoz boylamlarining nafas orqali faollashuvi og‘iz va til harakatlari bilan bir vaqtda sodir bo‘lishi mumkin. Shunday qilib, nutq bilan bog‘liq premotor neyron faolligi juda murakkabdir.
+
+@@ ch56-f19
+LEAD: “Ixtiyoriy” ko‘z harakatlari maydoni.
+Premotor sohada, Broka sohasidan bevosita yuqorida, ixtiyoriy ko‘z harakatlarini boshqaruvchi joy mavjud. Bu sohaning shikastlanishi odamning ko‘zlarini turli narsalar tomon _ixtiyoriy_ harakatlantirishiga to‘sqinlik qiladi. Buning o‘rniga ko‘zlar beixtiyor muayyan narsalarga qadalib qolishga moyil bo‘ladi; bu ta’sir 52-bobda tushuntirilganidek, ensa ko‘ruv po‘stlog‘idan keladigan signallar bilan boshqariladi. Bu peshona sohasi ko‘z qovoqlarining pirpirash kabi harakatlarini ham boshqaradi.
+
+@@ ch56-f20
+LEAD: Boshni burish sohasi.
+Harakat assotsiativ sohasida biroz yuqoriroqda elektr bilan qo‘zg‘atish boshning burilishini chaqiradi. Bu soha ko‘z harakatlari maydoni bilan yaqin bog‘langan; u boshni turli narsalar tomon yo‘naltiradi.
+
+@@ ch56-f21
+LEAD: Qo‘l (panja) ko‘nikmalari sohasi.
+Premotor sohada, qo‘l panjalari va barmoqlarning birlamchi harakat po‘stlog‘idan bevosita oldinda “qo‘l ko‘nikmalari” uchun muhim bo‘lgan soha joylashgan. Ya’ni o‘smalar yoki boshqa shikastlanishlar bu sohani yemirganda qo‘l harakatlari muvofiqlashmagan va maqsadsiz bo‘lib qoladi; bu holat _harakat apraksiyasi_ deb ataladi.
+
+@@ ch56-f22
+Signallarning harakat po‘stlog‘idan muskullarga uzatilishi
+
+@@ ch56-f23
+Harakat signallari po‘stloqdan orqa miyaga to‘g‘ridan-to‘g‘ri _kortikospinal yo‘l_ orqali va bilvosita _bazal gangliylar, miyacha_ hamda turli _miya ustuni yadrolarini_ o‘z ichiga olgan ko‘plab qo‘shimcha yo‘llar orqali uzatiladi. Umuman olganda, to‘g‘ridan-to‘g‘ri yo‘llar alohida va nozik harakatlar, ayniqsa oyoq-qo‘llarning distal segmentlari, xususan qo‘l panjalari va barmoqlar harakatlari bilan bog‘liq.
+
+@@ ch56-f24
+Kortikospinal (piramida) yo‘l
+
+@@ ch56-f25
+Harakat po‘stlog‘idan chiquvchi eng muhim yo‘l — **Rasm 56-4** da ko‘rsatilgan, _piramida yo‘li_ deb ham ataladigan _kortikospinal yo‘l._ Kortikospinal yo‘lning taxminan 30% i birlamchi harakat po‘stlog‘idan, 30% i premotor va qo‘shimcha harakat sohalaridan, 40% i esa markaziy egatdan orqadagi somatosensor sohalardan boshlanadi.
+
+@@ ch56-f27
+Po‘stloqni tark etgandan so‘ng u ichki kapsulaning orqa oyoqchasi orqali (bazal gangliylarning dumli yadrosi va po‘stloq yadrosi [putamen] orasidan) o‘tadi, so‘ngra miya ustuni orqali pastga tushib, _uzunchoq miya piramidalarini_ hosil qiladi. Shundan keyin piramida tolalarining ko‘pchiligi uzunchoq miyaning pastki qismida qarama-qarshi tomonga kesishib o‘tadi va orqa miyaning _lateral kortikospinal yo‘llariga_ tushadi va nihoyat asosan orqa miya kulrang moddasining oraliq sohalaridagi interneyronlarda tugaydi. Ularning bir qismi orqa shoxdagi sezgi signallarini uzatuvchi neyronlarda, juda ozi esa muskul qisqarishini keltirib chiqaruvchi oldingi motoneyronlarda bevosita tugaydi.
+
+@@ ch56-f28
+Tolalarning bir qismi uzunchoq miyada qarama-qarshi tomonga o‘tmaydi, balki orqa miya bo‘ylab o‘z tomonida _ventral (oldingi) kortikospinal yo‘llarda_ pastga tushadi. Bu tolalarning ko‘pchiligi, balki aksariyati, oxir-oqibat bo‘yin yoki ko‘krakning yuqori qismida orqa miyaning qarama-qarshi tomoniga o‘tadi. Bu tolalar qo‘shimcha harakat po‘stlog‘i tomonidan ikki tomonlama postural harakatlarni boshqarish bilan bog‘liq bo‘lishi mumkin.
+
+@@ ch56-f29
+Piramida yo‘lidagi eng diqqatga sazovor tolalar — o‘rtacha diametri 16 mikrometr bo‘lgan yirik miyelinli tolalar to‘plami. Bu tolalar faqat birlamchi harakat po‘stlog‘ida uchraydigan _gigant_
+
+@@ ch56-f30
+_piramidal hujayralardan_ — _Bets hujayralaridan_ — boshlanadi. Bets hujayralarining diametri taxminan 60 mikrometr bo‘lib, ularning tolalari nerv impulslarini orqa miyaga taxminan 70 m/s tezlikda — bosh miyadan orqa miyaga uzatiladigan har qanday signallarning eng yuqori tezligida — uzatadi. Har bir kortikospinal yo‘lda bu yirik Bets hujayrasi tolalaridan taxminan 34 000 ta bor. Har bir kortikospinal yo‘ldagi tolalarning umumiy soni 1 milliondan ortiq, demak, bu yirik tolalar jami tolalarning atigi 3% ini tashkil qiladi. Qolgan 97% asosan diametri 4 mikrometrdan kichik bo‘lgan, orqa miyaning harakat sohalariga fon tonik signallarini o‘tkazuvchi tolalardir.
+
+@@ ch56-f31
+Harakat po‘stlog‘idan katta miya va miya ustunining chuqur sohalariga boruvchi ko‘p sonli qo‘shimcha, asosan ingichka tolalar boshlanadi, jumladan: 1. Gigant Bets hujayralarining aksonlari po‘stloqqa qaytuvchi qisqa kollaterallar beradi. Bu kollaterallar Bets hujayralari razryad berganda po‘stloqning qo‘shni sohalarini tormozlaydi va shu bilan qo‘zg‘atuvchi signal chegaralarini “aniqlashtiradi”, deb hisoblanadi. 2. Ko‘p sonli tolalar harakat po‘stlog‘idan _dumli yadro_ va _putamenga_ o‘tadi. U yerdan, keyingi bobda muhokama qilinganidek, qo‘shimcha yo‘llar miya ustuni va orqa miyaga boradi va asosan tananing postural muskul qisqarishlarini boshqaradi. 3. O‘rtacha miqdordagi harakat tolalari o‘rta miyaning _qizil yadrolariga_ o‘tadi. Bu yadrolardan qo‘shimcha tolalar _rubrospinal yo‘l_ orqali orqa miyaga tushadi. 4. O‘rtacha miqdordagi harakat tolalari miya ustunining _re_
+
+@@ ch56-f32
+_tikulyar formatsiyasi_ va _vestibulyar yadrolariga_ buriladi; u yerdan signallar orqa miyaga _retikulospinal_ va _vestibulospinal yo‘llar_ orqali, boshqalari esa miyachaga _retikuloserebellyar_ va _vestibuloserebellyar yo‘llar_ orqali boradi. 5. Juda ko‘p sonli harakat tolalari ko‘prik yadrolarida sinaps hosil qiladi; ulardan signallarni miyacha yarim sharlariga olib boruvchi _ko‘prik-miyacha (pontoserebellyar) tolalari_ boshlanadi. 6. Kollaterallar _pastki zaytunsimon yadrolarda_ ham tugaydi va u yerdan ikkilamchi _zaytun-miyacha (olivoserebellyar) tolalari_ signallarni miyachaning ko‘plab sohalariga uzatadi. Shunday qilib, harakat faoliyatini yuzaga keltirish uchun orqa miya bo‘ylab har safar signal uzatilganda, bazal gangliylar, miya ustuni va miyacha kortikospinal tizimdan kuchli harakat signallarini oladi.
+
+@@ ch56-f33
+Harakat po‘stlog‘ining funksiyalari asosan somatosensor tizimdan, ma’lum darajada esa eshitish va ko‘rish kabi boshqa sezgi tizimlaridan keladigan nerv signallari bilan boshqariladi. Sezgi axboroti qabul qilingach, harakat po‘stlog‘i tegishli harakat amallarini qo‘zg‘atish uchun bazal gangliylar va miyacha bilan birgalikda ishlaydi. Harakat po‘stlog‘iga kiruvchi muhimroq tola yo‘llari quyidagilar: 1. Bosh miya po‘stlog‘ining qo‘shni sohalaridan, ayniqsa (a) tepa po‘stlog‘ining somatosensor sohalaridan, (b) peshona po‘stlog‘ining harakat po‘stlog‘idan oldingi qo‘shni sohalaridan va (c) ko‘rish va eshitish po‘stloqlaridan keluvchi po‘stloq osti tolalari.
+
+@@ ch56-f34
+2. Qarama-qarshi katta miya yarim sharidan qadoqsimon tana (korpus kallozum) orqali keluvchi po‘stloq osti tolalari. Bu tolalar bosh miyaning ikki tomonidagi po‘stloqlarning mos sohalarini bog‘laydi. 3. Talamusning ventrobazal kompleksidan bevosita keluvchi somatosensor tolalar. Bu tolalar asosan tananing periferik qismlaridan keluvchi teri taktil signallarini hamda bo‘g‘im va muskul signallarini uzatadi. 4. Talamusning ventrolateral va ventroanterior yadrolaridan keluvchi yo‘llar; bu yadrolar, o‘z navbatida, miyacha va bazal gangliylardan signallar oladi. Bu yo‘llar harakat po‘stlog‘i, bazal gangliylar va miyachaning harakatni boshqarish funksiyalari o‘rtasidagi muvofiqlik uchun zarur bo‘lgan signallarni ta’minlaydi. 5. Talamusning intralaminar yadrolaridan keluvchi tolalar.
+
+@@ ch56-f35
+Bu tolalar harakat po‘stlog‘ining umumiy qo‘zg‘aluvchanlik darajasini xuddi bosh miya po‘stlog‘ining boshqa ko‘pchilik sohalarining umumiy qo‘zg‘aluvchanlik darajasini boshqargani kabi boshqaradi.
+
+@@ ch56-f36
+Qizil yadro po‘stloq signallarini orqa miyaga uzatishning muqobil yo‘li bo‘lib xizmat qiladi
+
+@@ ch56-f37
+O‘rta miyada (mezensefalonda) joylashgan _qizil yadro_ kortikospinal yo‘l bilan yaqin hamkorlikda ishlaydi. **Rasm 56-5** da ko‘rsatilganidek, u birlamchi harakat po‘stlog‘idan _kortikorubral yo‘l_ orqali ko‘p sonli to‘g‘ridan-to‘g‘ri tolalarni, shuningdek kortikospinal yo‘l o‘rta miyadan o‘tayotganda undan ajraluvchi tarmoq tolalarini oladi. Bu tolalar qizil yadroning pastki qismida — Bets hujayralariga o‘xshash kattalikdagi yirik neyronlarni o‘z ichiga olgan _magnotsellyulyar (yirik hujayrali) qismida_ — sinaps hosil qiladi. Bu yirik neyronlardan _rubrospinal yo‘l_ boshlanadi; u miya ustunining pastki qismida qarama-qarshi tomonga o‘tadi va kortikospinal yo‘lga bevosita yondosh va undan oldinda joylashib, orqa miyaning lateral ustunlariga boradi.
+
+@@ ch56-f39
+Rubrospinal tolalar kortikospinal tolalar bilan birga asosan orqa miya kulrang moddasi oraliq sohalarining interneyronlarida tugaydi, ammo rubrospinal tolalarning bir qismi ba’zi kortikospinal tolalar bilan birga bevosita oldingi motoneyronlarda tugaydi. Qizil yadro, harakat po‘stlog‘i va miyacha o‘rtasidagi bog‘lanishlarga o‘xshab, miyacha bilan ham yaqin bog‘lanishlarga ega.
+
+@@ ch56-f40
+LEAD: Kortiko-rubro-spinal tizim harakat po‘stlog‘idan orqa miyaga nisbatan aniq signallarni uzatuvchi qo‘shimcha yo‘ldir.
+Qizil yadroning magnotsellyulyar qismida, harakat po‘stlog‘idagi kabi, tananing barcha muskullarining somatotopik tasviri mavjud. Shuning uchun qizil yadroning bu qismidagi bitta nuqtani qo‘zg‘atish yo bitta muskul, yoki kichik muskullar guruhining qisqarishiga sabab bo‘ladi. Biroq turli muskullar tasvirining nozikligi harakat po‘stlog‘idagiga qaraganda ancha kam rivojlangan, ayniqsa qizil yadrolari nisbatan kichik bo‘lgan odamlarda.
+
+@@ ch56-f41
+Kortiko-rubro-spinal yo‘l harakat po‘stlog‘idan orqa miyaga nisbatan aniq signallarni uzatishning qo‘shimcha yo‘li bo‘lib xizmat qiladi. Kortikospinal tolalar yemirilib, kortiko-rubro-spinal yo‘l saqlanib qolganda alohida harakatlar hamon yuzaga kelishi mumkin, faqat barmoqlar va qo‘l panjalarini nozik boshqarish harakatlari sezilarli darajada buziladi. Bilak-panja (bilaguzuk) bo‘g‘imi harakatlari hamon saqlanadi; kortiko-rubro-spinal yo‘l ham to‘silganda esa bunday bo‘lmaydi.
+
+@@ ch56-f42
+Shunday qilib, qizil yadro orqali orqa miyaga boruvchi yo‘l kortikospinal tizim bilan bog‘liq. Bundan tashqari, rubrospinal yo‘l kortikospinal yo‘l bilan birga orqa miyaning lateral ustunlarida joylashgan va oyoq-qo‘llarning distalroq muskullarini boshqaruvchi interneyronlar va motoneyronlarda tugaydi. Shuning uchun kortikospinal va rubrospinal yo‘llar birgalikda _orqa miyaning lateral harakat tizimi_ deb ataladi; bu orqa miyada asosan medial joylashgan va _orqa miyaning medial harakat tizimi_ deb ataladigan vestibuloretikulospinal tizimdan farqli o‘laroq — u haqda bobning keyingi qismida so‘z boradi.
+
+@@ ch56-f43
+Orqa miyaning harakatni boshqaruvchi sohalarining birlamchi harakat po‘stlog‘i va qizil yadro tomonidan qo‘zg‘atilishi
+
+@@ ch56-f44
+LEAD: Harakat po‘stlog‘idagi neyronlar vertikal ustunlar shaklida joylashgan.
+48- va 52-boblarda somatosensor po‘stloq va ko‘ruv po‘stlog‘idagi hujayralar _vertikal hujayra ustunlari_ shaklida tashkil topganini ta’kidlagan edik. Harakat po‘stlog‘ining hujayralari ham diametri millimetrning bir qismiga teng, har birida minglab neyronlar bo‘lgan vertikal ustunlar shaklida tashkil topgan.
+
+@@ ch56-f45
+Har bir hujayra ustuni yagona birlik sifatida ishlaydi va odatda sinergist muskullar guruhini, ba’zan esa faqat bitta muskulni qo‘zg‘atadi. Shuningdek, har bir ustun, bosh miya po‘stlog‘ining deyarli hamma joyidagi kabi, oltita aniq hujayra qavatiga ega. Kortikospinal tolalarni beruvchi piramidal hujayralarning hammasi po‘stloq yuzasidan hisoblaganda beshinchi hujayra qavatida joylashgan. Kiruvchi signallarning hammasi 2–4-qavatlar orqali kiradi, oltinchi qavatdan esa asosan bosh miya po‘stlog‘ining boshqa sohalari bilan aloqa qiluvchi tolalar boshlanadi.
+
+@@ ch56-f46
+LEAD: Har bir neyron ustuni integrativ qayta ishlash tizimi sifatida ishlaydi.
+Har bir ustun neyronlari ustundan chiquvchi javobni aniqlash uchun ko‘plab kirish manbalaridan keladigan axborotdan foydalanuvchi integrativ qayta ishlash tizimi sifatida ishlaydi. Bundan tashqari, har bir ustun bir xil muskulga yoki sinergist muskullarga boruvchi ko‘p sonli piramidal tolalarni bir vaqtda qo‘zg‘atuvchi kuchaytiruvchi tizim sifatida ham ishlashi mumkin. Bu qobiliyat muhim, chunki bitta piramidal hujayraning qo‘zg‘alishi kamdan-kam hollarda muskulni qo‘zg‘atadi. Odatda aniq muskul qisqarishiga erishish uchun 50–100 ta piramidal hujayra bir vaqtda yoki tez ketma-ketlikda qo‘zg‘alishi kerak.
+
+@@ ch56-f47
+LEAD: Piramidal neyronlar dinamik va statik signallarni uzatadi.
+Agar dastlabki tez qisqarishni yuzaga keltirish uchun muskulga kuchli signal yuborilsa, keyinchalik ancha kuchsizroq davomli signal qisqarishni uzoq vaqt ushlab turishi mumkin. Muskul qisqarishlarini yuzaga keltiruvchi qo‘zg‘alish odatda aynan shu tarzda ta’minlanadi. Bu qo‘zg‘alishni ta’minlash uchun har bir hujayra ustuni piramidal hujayra neyronlarining ikki to‘plamini qo‘zg‘atadi: biri _dinamik neyronlar_, ikkinchisi _statik neyronlar_ deb ataladi. Dinamik neyronlar qisqarish boshida qisqa vaqt davomida yuqori chastotada qo‘zg‘alib, dastlabki tez _kuch rivojlanishini_ yuzaga keltiradi. Shundan so‘ng statik neyronlar ancha past chastotada razryad beradi, ammo qisqarish zarur bo‘lgan muddat davomida _qisqarish kuchini ushlab turish_ uchun shu past chastotada razryad berishda davom etadi.
+
+@@ ch56-f48
+Qizil yadro neyronlari ham shunga o‘xshash dinamik va statik xususiyatlarga ega, faqat qizil yadroda dinamik neyronlar ulushi, birlamchi harakat po‘stlog‘ida esa statik neyronlar ulushi kattaroq. Bu qizil yadroning miyacha bilan yaqin bog‘langanligi bilan bog‘liq bo‘lishi mumkin; miyacha esa, keyingi bobda tushuntirilganidek, muskul qisqarishini tez boshlashda muhim rol o‘ynaydi.
+
+@@ ch56-f49
+Harakat po‘stlog‘iga somatosensor qaytar aloqa muskul qisqarishining aniqligini boshqarishga yordam beradi
+
+@@ ch56-f50
+Harakat po‘stlog‘idan keluvchi nerv signallari muskulni qisqartirganda, somatosensor signallar tananing faollashgan sohasidan harakatni boshlab berayotgan harakat po‘stlog‘i neyronlarigacha qaytib keladi. Bu somatosensor signallarning aksariyati quyidagilarda paydo bo‘ladi: (1) muskul urchuqlari; (2) muskul pay organlari; yoki (3) muskullar ustidagi terining taktil retseptorlari.
+
+@@ ch56-f51
+Bu somatik signallar ko‘pincha muskul qisqarishini quyidagi yo‘llar bilan musbat qaytar aloqa orqali kuchaytiradi. Muskul urchuqlari holatida, agar urchuqlardagi fuzimotor muskul tolalari yirik skelet muskul tolalaridan ko‘proq qisqarsa, urchuqlarning markaziy qismlari cho‘ziladi va shu sababli qo‘zg‘aladi. So‘ngra bu urchuqlardan keluvchi signallar harakat po‘stlog‘idagi piramidal hujayralarga tez qaytib, yirik muskul tolalari yetarlicha qisqarmaganini bildiradi. Piramidal hujayralar muskulni yanada qo‘zg‘atib, uning qisqarishi muskul urchuqlari qisqarishiga yetib olishiga yordam beradi. Taktil retseptorlar holatida, agar muskul qisqarishi terining biror narsaga qisilishiga — masalan, ushlanayotgan narsa atrofida barmoqlarning qisilishiga — olib kelsa, teri retseptorlaridan keluvchi signallar zarurat bo‘lganda muskullarni yanada qo‘zg‘atib, qo‘l bilan ushlashning mahkamligini oshirishi mumkin.
+
+@@ ch56-f52
+Orqa miya motoneyronlarining qo‘zg‘atilishi
+
+@@ ch56-f53
+**Rasm 56-6** da orqa miya segmentining ko‘ndalang kesimi ko‘rsatilgan; unda quyidagilar namoyon: (1) orqa miya segmentiga kiruvchi ko‘plab harakat va sensomotor boshqaruv yo‘llari; va (2) oldingi shox kulrang moddasining o‘rtasidagi namunaviy oldingi motoneyron. Kortikospinal yo‘l va rubrospinal yo‘l lateral oq ustunlarning dorsal qismlarida joylashgan. Ularning tolalari asosan orqa miya kulrang moddasining oraliq sohasidagi interneyronlarda tugaydi.
+
+@@ ch56-f55
+Orqa miyaning qo‘l panjalari va barmoqlar tasvirlangan bo‘yin yo‘g‘onlashmasida ko‘p sonli kortikospinal va rubrospinal tolalar ham bevosita oldingi motoneyronlarda tugaydi; bu bosh miyadan muskul qisqarishini faollashtirish uchun to‘g‘ridan-to‘g‘ri yo‘lni ta’minlaydi. Bu mexanizm birlamchi harakat po‘stlog‘ida qo‘l panjasi, barmoqlar va bosh barmoq harakatlarini nozik boshqarish juda yuqori darajada tasvirlanganiga mos keladi.
+
+@@ ch56-f56
+LEAD: Orqa miya markazlari chaqiradigan harakat shakllari.
+55-bobdan eslang: orqa miya sezuvchi nervlarning qo‘zg‘alishiga javoban harakatning muayyan refleks shakllarini ta’minlay oladi. Bu shakllarning ko‘pchiligi orqa miyaning oldingi motoneyronlari bosh miyadan keluvchi signallar bilan qo‘zg‘atilganda ham muhimdir. Masalan, cho‘zilish refleksi doimo ishlab turadi va bosh miyadan boshlangan harakat harakatlarining har qanday tebranishlarini so‘ndirishga yordam beradi. Bu refleks, ehtimol, muskul urchuqlarining intrafuzal tolalari yirik skelet muskul tolalaridan ko‘proq qisqarganda muskul qisqarishlarini yuzaga keltirish uchun zarur harakatlantiruvchi kuchning hech bo‘lmaganda bir qismini ham ta’minlaydi; shu tariqa kortikospinal tolalarning bevosita qo‘zg‘atishiga qo‘shimcha ravishda muskulni refleks “servo-yordam” orqali qo‘zg‘atadi.
+
+@@ ch56-f57
+Shuningdek, bosh miya signali muskulni qo‘zg‘atganda, odatda antagonist muskulni bo‘shashtirish uchun bir vaqtning o‘zida teskari signal uzatish shart emas; bu bo‘shashish orqa miyada antagonist muskul juftlarining ishini muvofiqlashtirish uchun doimo mavjud bo‘lgan _resiprok innervatsiya_ zanjiri orqali amalga oshiriladi.
+
+@@ ch56-f58
+Nihoyat, orqa miyaning boshqa refleks mexanizmlari — tortib olish, qadam tashlash va yurish, qashish va postural mexanizmlar — har biri bosh miyadan keluvchi “buyruq” signallari bilan faollashtirilishi mumkin. Shunday qilib, bosh miyadan keluvchi oddiy buyruq signallari ko‘plab normal harakat faoliyatlarini, ayniqsa yurish va tananing turli holatlarini egallash kabi funksiyalarni boshlab berishi mumkin.
+
+@@ ch56-f59
+LEAD: Insult natijasida bosh miya qon ta’minotining kamayishi.
+Harakatni boshqarish tizimi “insult” deb ataladigan keng tarqalgan patologiya natijasida shikastlanishi mumkin. Insult yo yorilib, bosh miyaga qon quyiladigan qon tomiri, yoki bosh miyani qon bilan ta’minlovchi yirik arteriyalardan birining trombozi sababli yuzaga keladi. Har ikki holatda ham natija — po‘stloqning yoki kortikospinal yo‘lning dumli yadro va putamen orasidagi ichki kapsuladan o‘tadigan qismining qon ta’minotidan mahrum bo‘lishi.
+
+@@ ch56-f60
+LEAD: Birlamchi harakat po‘stlog‘ining (area pyramidalis) olib tashlanishi.
+Birlamchi harakat po‘stlog‘ining bir qismini — gigant Bets piramidal hujayralari joylashgan sohani — jarrohlik yo‘li bilan olib tashlash tasvirlangan muskullarning turli darajadagi falajiga olib keladi. Agar uning ostidagi dumli yadro hamda qo‘shni premotor va qo‘shimcha harakat sohalari shikastlanmagan bo‘lsa, yirik postural va oyoq-qo‘llarni “qotiruvchi” harakatlar hamon yuzaga kelishi mumkin, ammo _oyoq-qo‘llarning distal segmentlari, ayniqsa qo‘l panjalari va barmoqlarning alohida harakatlarini ixtiyoriy boshqarish yo‘qoladi._ Bu qo‘l panjasi va barmoq muskullari qisqara olmaydi degani emas; aksincha, _nozik harakatlarni boshqarish qobiliyati yo‘qoladi._ Bu kuzatuvlardan area pyramidalis nozik boshqariladigan harakatlarni, ayniqsa qo‘l panjalari va barmoqlar harakatlarini ixtiyoriy boshlash uchun zarur, degan xulosaga kelish mumkin.
+
+@@ ch56-f61
+LEAD: Harakat po‘stlog‘iga qo‘shni katta sohalarni shikastlovchi jarohatlar keltirib chiqaradigan muskul spastikligi.
+Birlamchi harakat po‘stlog‘i odatda orqa miya motoneyronlariga doimiy tonik qo‘zg‘atuvchi ta’sir ko‘rsatadi; bu qo‘zg‘atuvchi ta’sir yo‘qolganda _gipotoniya_ yuzaga keladi. Harakat po‘stlog‘ining aksariyat shikastlanishlari, ayniqsa _insult_ sababli yuzaga kelganlari, nafaqat birlamchi harakat po‘stlog‘ini, balki bosh miyaning qo‘shni qismlarini, masalan bazal gangliylarni ham qamrab oladi. Bunday hollarda tananing _qarama-qarshi tomonidagi_ zararlangan muskul sohalarida deyarli doimo _muskul spazmi_ yuzaga keladi (chunki harakat yo‘llari qarama-qarshi tomonga o‘tadi). Bu spazm asosan harakat po‘stlog‘ining piramida bo‘lmagan qismlaridan keluvchi qo‘shimcha yo‘llarning shikastlanishidan kelib chiqadi. Bu yo‘llar odatda miya ustunining vestibulyar va retikulyar harakat yadrolarini tormozlaydi. Bu yadrolar tormozlangan holatdan chiqqanda (ya’ni “tormozdan ozod bo‘lganda”), ular o‘z-o‘zidan faollashadi va zararlangan muskullarda haddan tashqari spastik tonusni keltirib chiqaradi — bu haqda bobning keyingi qismida batafsilroq muhokama qilamiz. Bu spastiklik odatda odamda “insult” bilan birga kuzatiladigan spastiklikdir.
+
+@@ ch56-f62
+Harakat funksiyalarining miya ustuni tomonidan boshqarilishi
+
+@@ ch56-f63
+Miya ustuni _uzunchoq miya, ko‘prik_ va _o‘rta miya (mezensefalon)_ dan iborat. Bir ma’noda u orqa miyaning bosh suyagi bo‘shlig‘iga yuqoriga davomidir, chunki u orqa miya bo‘yindan pastda bajaradigan funksiyalarni yuz va bosh sohalari uchun xuddi shunday bajaradigan harakat va sezgi yadrolarini o‘z ichiga oladi. Biroq boshqa ma’noda miya ustuni o‘z-o‘zining xo‘jayini, chunki u ko‘plab maxsus boshqaruv funksiyalarini ta’minlaydi, masalan: 1. Nafasni boshqarish 2. Yurak-qon tomir tizimini boshqarish 3. Oshqozon-ichak funksiyasini qisman boshqarish 4. Tananing ko‘plab stereotip harakatlarini boshqarish 5. Muvozanatni boshqarish 6. Ko‘z harakatlarini boshqarish
+
+@@ ch56-f64
+Nihoyat, miya ustuni yuqori nerv markazlaridan keluvchi “buyruq signallari” uchun oraliq bekat bo‘lib xizmat qiladi. Bu funksiyalarning ko‘pchiligi ushbu kitobning boshqa boblarida muhokama qilingan. Keyingi bo‘limlarda miya ustunining butun tana harakati va muvozanatini boshqarishdagi rolini muhokama qilamiz. Bu maqsadlar uchun miya ustunining _retikulyar yadrolari_ va _vestibulyar yadrolari_ ayniqsa muhim.
+
+@@ ch56-f65
+Tanani gravitatsiyaga qarshi ushlab turish — retikulyar va vestibulyar yadrolarning roli
+
+@@ ch56-f66
+**Rasm 56-7** da miya ustunidagi retikulyar va vestibulyar yadrolarning joylashuvi ko‘rsatilgan.
+
+@@ ch56-f68
+Ko‘prik va uzunchoq miya retikulyar yadrolari o‘rtasidagi qo‘zg‘atuvchi-tormozlovchi antagonizm
+
+@@ ch56-f69
+Retikulyar yadrolar ikki asosiy guruhga bo‘linadi: (1) ko‘prikda biroz orqaroq va lateralroq joylashgan va o‘rta miyagacha cho‘zilgan _ko‘prik retikulyar yadrolari;_ va (2) butun uzunchoq miya bo‘ylab cho‘zilgan, o‘rta chiziq yaqinida ventral va medial joylashgan _uzunchoq miya retikulyar yadrolari._ Bu ikki yadrolar to‘plami asosan bir-biriga antagonist tarzda ishlaydi: ko‘prik yadrolari antigravitatsion muskullarni qo‘zg‘atadi, uzunchoq miya yadrolari esa o‘sha muskullarni bo‘shashtiradi.
+
+@@ ch56-f70
+LEAD: Ko‘prik retikulyar tizimi qo‘zg‘atuvchi signallarni uzatadi.
+Ko‘prik retikulyar yadrolari qo‘zg‘atuvchi signallarni orqa miyaning oldingi ustunidagi _ko‘prik retiku_
+
+@@ ch56-f71
+_lospinal yo‘li_ orqali orqa miyaga pastga uzatadi (**Rasm 56-8**). Bu yo‘lning tolalari tananing o‘q muskullarini — tanani gravitatsiyaga qarshi ushlab turuvchi muskullarni, ya’ni umurtqa pog‘onasi muskullari va oyoq-qo‘llarning yozuvchi muskullarini — qo‘zg‘atuvchi medial oldingi motoneyronlarda tugaydi.
+
+@@ ch56-f73
+Ko‘prik retikulyar yadrolari yuqori darajadagi tabiiy qo‘zg‘aluvchanlikka ega. Bundan tashqari, ular vestibulyar yadrolardan, shuningdek miyachaning chuqur yadrolaridan kuchli qo‘zg‘atuvchi signallar oladi. Shuning uchun ko‘prik retikulyar qo‘zg‘atuvchi tizimiga uzunchoq miya retikulyar tizimi qarshilik ko‘rsatmaganda, u butun tanadagi antigravitatsion muskullarning kuchli qo‘zg‘alishiga sabab bo‘ladi — shu darajadaki, to‘rt oyoqli hayvonlarni bosh miyaning yuqori darajalaridan hech qanday signal kelmasa ham, tanani gravitatsiyaga qarshi ushlab turgan holda tik turgizib qo‘yish mumkin.
+
+@@ ch56-f74
+LEAD: Uzunchoq miya retikulyar tizimi tormozlovchi signallarni uzatadi.
+Uzunchoq miya retikulyar yadrolari tormozlovchi signallarni o‘sha antigravitatsion oldingi motoneyronlarga boshqa yo‘l — orqa miyaning lateral ustunida joylashgan _uzunchoq miya retikulospinal yo‘li_ orqali uzatadi (bu ham **Rasm 56-8** da ko‘rsatilgan). Uzunchoq miya retikulyar yadrolari quyidagilardan kuchli kiruvchi kollaterallar oladi: (1) kortikospinal yo‘l; (2) rubrospinal yo‘l; va (3) boshqa harakat yo‘llari. Bu yo‘llar odatda ko‘prik retikulyar tizimidan keluvchi qo‘zg‘atuvchi signallarni muvozanatlash uchun uzunchoq miyaning retikulyar tormozlovchi tizimini faollashtiradi, shuning uchun normal sharoitda tana muskullari g‘ayritabiiy darajada tarang bo‘lmaydi.
+
+@@ ch56-f75
+Shunga qaramay, bosh miya tik turishni yuzaga keltirish uchun ko‘prik tizimini qo‘zg‘atmoqchi bo‘lganda, bosh miyaning yuqori sohalaridan keluvchi ba’zi signallar uzunchoq miya tizimini “tormozdan ozod qilishi” mumkin. Boshqa paytlarda uzunchoq miya retikulyar tizimining qo‘zg‘alishi tananing muayyan qismlaridagi antigravitatsion muskullarni tormozlab, o‘sha qismlarga maxsus harakat faoliyatlarini bajarishga imkon berishi mumkin. Qo‘zg‘atuvchi va tormozlovchi retikulyar yadrolar bosh miya po‘stlog‘i va boshqa joylardan keluvchi harakat signallari tomonidan boshqariladigan tizimni tashkil qiladi; u gravitatsiyaga qarshi tik turish uchun zarur bo‘lgan fon muskul qisqarishlarini ta’minlaydi va boshqa funksiyalarni bajarish mumkin bo‘lishi uchun kerak bo‘lganda tegishli muskul guruhlarini tormozlaydi.
+
+@@ ch56-f76
+Vestibulyar yadrolarning antigravitatsion muskullarni qo‘zg‘atishdagi roli
+
+@@ ch56-f77
+**Rasm 56-7** da ko‘rsatilgan barcha _vestibulyar yadrolar_ antigravitatsion muskullarni boshqarish uchun ko‘prik retikulyar yadrolari bilan birgalikda ishlaydi. Vestibulyar yadrolar antigravitatsion muskullarga orqa miyaning oldingi ustunlaridagi _lateral_ va _medial vestibulospinal yo‘llar_ orqali kuchli qo‘zg‘atuvchi signallar uzatadi (**Rasm 56-8**). Vestibulyar yadrolarning bu yordamisiz ko‘prik retikulyar tizimi o‘q antigravitatsion muskullarini qo‘zg‘atishining ko‘p qismini yo‘qotgan bo‘lar edi.
+
+@@ ch56-f78
+Biroq vestibulyar yadrolarning o‘ziga xos roli — _vestibulyar apparatdan keluvchi signallarga javoban_ muvozanatni saqlash uchun turli antigravitatsion muskullarga boruvchi qo‘zg‘atuvchi signallarni _tanlab_ boshqarish. Bu tushunchani bobning keyingi qismida batafsilroq muhokama qilamiz.
+
+@@ ch56-f79
+LEAD: Detserebratsiyalangan hayvonda spastik rigidlik rivojlanadi.
+Hayvonning miya ustuni o‘rta miyaning o‘rta darajasidan pastda kesilsa, ammo ko‘prik va uzunchoq miya retikulyar tizimlari hamda vestibulyar tizim saqlab qolinsa, _detserebratsion rigidlik_ deb ataladigan holat rivojlanadi. Bu rigidlik tananing barcha muskullarida emas, balki antigravitatsion muskullarda — bo‘yin va gavda muskullarida hamda oyoqlarning yozuvchi muskullarida — yuzaga keladi.
+
+@@ ch56-f80
+Detserebratsion rigidlikning sababi — uzunchoq miya retikulyar yadrolariga bosh miya po‘stlog‘i, qizil yadrolar va bazal gangliylardan normal holatda keladigan kuchli kirish signallarining to‘silishi.
+
+@@ ch56-f81
+Bu kirish signallari bo‘lmaganda uzunchoq miyaning retikulyar tormozlovchi tizimi ishlamay qoladi, ko‘prik qo‘zg‘atuvchi tizimining to‘liq ortiqcha faolligi yuzaga keladi va rigidlik rivojlanadi. Keyinroq ko‘ramizki, boshqa neyromotor kasalliklarda, ayniqsa bazal gangliylar shikastlanishlarida, rigidlikning boshqa sabablari ham uchraydi.
+
+@@ ch56-f82
+Vestibulyar sezgilar va muvozanatni saqlash
+
+@@ ch56-f83
+Vestibulyar apparat
+
+@@ ch56-f84
+**Rasm 56-9** da ko‘rsatilgan vestibulyar apparat muvozanat sezgilarini aniqlovchi sezgi a’zosidir. U chakka suyagining piramida (toshsimon) qismida joylashgan, _suyak labirinti_ deb ataladigan suyak naychalar va bo‘shliqlar tizimi ichiga joylashgan. Bu tizim ichida _parda labirinti_ deb ataladigan pardasimon naychalar va bo‘shliqlar bor. Parda labirinti vestibulyar apparatning funksional qismidir.
+
+@@ ch56-f86
+**Rasm 56-9** ning yuqori qismida parda labirinti ko‘rsatilgan. U asosan _chig‘anoq_ (ductus cochlearis), uchta _yarim doira kanal_ va ikkita katta bo‘shliq — _bachadoncha (utrikulus)_ va _xaltacha (sakkulus)_ dan iborat. Chig‘anoq eshitishning asosiy sezgi a’zosi (qarang: 53-bob) bo‘lib, muvozanat bilan deyarli bog‘liq emas. Biroq _yarim doira kanallar,_ _utrikulus_ va _sakkulus_ muvozanat mexanizmining ajralmas qismlaridir.
+
+@@ ch56-f87
+LEAD: “Makulalar” — utrikulus va sakkulusning boshning gravitatsiyaga nisbatan yo‘nalishini aniqlovchi sezgi a’zolari.
+Har bir utrikulus va sakkulusning ichki yuzasida (**Rasm 56-9** ning yuqori sxemasida ko‘rsatilgan) diametri 2 millimetrdan biroz kattaroq bo‘lgan, _makula_ (dog‘) deb ataladigan kichik sezgi sohasi joylashgan. _Utrikulus makulasi_ asosan utrikulusning pastki yuzasida _gorizontal tekislikda_ yotadi va bosh tik holatda bo‘lganda boshning yo‘nalishini aniqlashda muhim rol o‘ynaydi. Aksincha, _sakkulus makulasi_ asosan _vertikal tekislikda_ joylashgan va odam yotganda boshning yo‘nalishi haqida signal beradi.
+
+@@ ch56-f88
+Har bir makula jelatinsimon qavat bilan qoplangan; unga _statokoniyalar_ (otolitlar) deb ataladigan ko‘plab mayda kalsiy karbonat kristallari joylashgan. Makulada, shuningdek, minglab _tukli hujayralar_ ham bor (ulardan biri **Rasm 56-10** da ko‘rsatilgan); bu tukli hujayralar _kipriklarini_ yuqoriga, jelatinsimon qavat ichiga chiqaradi. Tukli hujayralarning asoslari va yon tomonlari _vestibulyar nervning_ sezuvchi oxirlari bilan sinaps hosil qiladi.
+
+@@ ch56-f90
+Ohaklashgan statokoniyalarning _solishtirma og‘irligi_ atrofdagi suyuqlik va to‘qimalarnikidan ikki-uch baravar katta. Statokoniyalarning og‘irligi kipriklarni gravitatsiya tortish kuchi yo‘nalishida egadi.
+
+@@ ch56-f91
+LEAD: Tukli hujayralarning yo‘nalishga sezgirligi — kinotsiliya.
+Har bir tukli hujayrada _stereotsiliyalar_ deb ataladigan taxminan 100 ta mayda kiprik va bitta katta kiprik — _kinotsiliya_ bor (**Rasm 56-10**). Kinotsiliya doimo bir tomonda joylashgan, stereotsiliyalar esa hujayraning boshqa tomoniga qarab borgan sari qisqarib boradi. Hatto elektron mikroskopda ham deyarli ko‘rinmaydigan juda mayda ipsimon birikmalar har bir stereotsiliyaning uchini keyingi uzunroq stereotsiliyaga va nihoyat kinotsiliyaga bog‘laydi.
+
+@@ ch56-f92
+Bu birikmalar tufayli stereotsiliyalar kinotsiliya tomon egilganda ipsimon birikmalar stereotsiliyalarni ketma-ket tortib, ularni hujayra tanasidan tashqariga tortadi. Bu harakat stereotsiliyalar asoslari atrofidagi neyron hujayra membranasida bir necha yuzta kation kanallarini ochadi; bu kanallar ko‘p miqdordagi musbat ionlarni o‘tkaza oladi. Shuning uchun musbat ionlar atrofdagi endolimfa suyuqligidan hujayraga oqib kiradi va _retseptor membranasining depolyarizatsiyasini_ keltirib chiqaradi. Aksincha, stereotsiliyalar to‘plamini qarama-qarshi yo‘nalishda (orqaga, kinotsiliyadan uzoqqa) egish birikmalardagi taranglikni kamaytiradi; bu harakat ion kanallarini yopadi va shu bilan _retseptor giperpolyarizatsiyasini_ keltirib chiqaradi.
+
+@@ ch56-f93
+Normal tinch holatda tukli hujayralardan chiquvchi nerv tolalari sekundiga taxminan 100 ta uzluksiz nerv impulsini uzatadi. Stereotsiliyalar kinotsiliya tomon egilganda impulslar oqimi ortadi, ko‘pincha sekundiga bir necha yuztagacha; aksincha, kipriklarni kinotsiliyadan uzoqqa egish impulslar oqimini kamaytiradi va ko‘pincha uni butunlay to‘xtatadi. Shuning uchun boshning fazodagi yo‘nalishi o‘zgarib, statokoniyalar og‘irligi kipriklarni egganda, muvozanatni boshqarish uchun bosh miyaga tegishli signallar uzatiladi.
+
+@@ ch56-f94
+Har bir makulada tukli hujayralarning har biri turli yo‘nalishga qaratilgan: shuning uchun bosh oldinga egilganda ba’zi tukli hujayralar, orqaga egilganda boshqalari, bir tomonga egilganda yana boshqalari qo‘zg‘aladi va hokazo. Demak, boshning gravitatsiya maydonidagi har bir yo‘nalishi uchun makula nerv tolalarida qo‘zg‘alishning turli shakli yuzaga keladi. Aynan shu “shakl” bosh miyani boshning fazodagi yo‘nalishi haqida xabardor qiladi.
+
+@@ ch56-f95
+LEAD: Yarim doira yo‘llar.
+Har bir vestibulyar apparatdagi _oldingi, orqa_ va _lateral (gorizontal) yarim doira yo‘llar_ deb ataladigan uchta yarim doira yo‘l bir-biriga to‘g‘ri burchak ostida joylashgan, shuning uchun ular fazoning har uch tekisligini ifodalaydi. Bosh taxminan 30 gradus oldinga egilganda lateral yarim doira yo‘llar Yer yuzasiga nisbatan taxminan gorizontal bo‘ladi; oldingi yo‘llar _oldinga va 45 gradus tashqariga_ yo‘nalgan vertikal tekisliklarda, orqa yo‘llar esa _orqaga va 45 gradus tashqariga_ yo‘nalgan vertikal tekisliklarda joylashadi.
+
+@@ ch56-f96
+Har bir yarim doira yo‘lning bir uchida _ampula_ deb ataladigan kengaygan qismi bor, yo‘llar va ampula esa _endolimfa_ deb ataladigan suyuqlik bilan to‘lgan. Bu suyuqlikning yo‘llardan biri va uning ampulasi orqali oqishi ampulaning sezgi a’zosini quyidagicha qo‘zg‘atadi: **Rasm 56-11** da har bir ampuladagi _ampula qirrasi (crista ampullaris)_ deb ataladigan kichik qirra ko‘rsatilgan. Bu qirra ustida bo‘sh jelatinsimon to‘qima massasi — _kupula_ joylashgan. Odamning boshi istalgan yo‘nalishda aylana boshlaganda, bir yoki bir nechta yarim doira yo‘ldagi suyuqlik inersiyasi tufayli harakatsiz qoladi, yarim doira yo‘l esa bosh bilan birga aylanadi. Bu jarayon suyuqlikning yo‘ldan ampula orqali oqishiga va kupulaning bir tomonga egilishiga olib keladi (**Rasm 56-11** dagi rangli kupula holatiga qarang). Boshning qarama-qarshi yo‘nalishda aylanishi kupulani qarama-qarshi tomonga egadi.
+
+@@ ch56-f98
+Ampula qirrasida joylashgan tukli hujayralarning yuzlab kipriklari kupula ichiga chiqib turadi. Bu tukli hujayralarning kinotsiliyalari kupulada hammasi bir xil yo‘nalishga qaratilgan; kupulani o‘sha yo‘nalishda egish tukli hujayralarning depolyarizatsiyasiga, qarama-qarshi yo‘nalishda egish esa hujayralarning giperpolyarizatsiyasiga sabab bo‘ladi. So‘ngra tukli hujayralardan _vestibulyar nerv_ orqali markaziy nerv tizimini fazoning har uch tekisligida boshning _aylanishidagi o‘zgarish_ va _o‘zgarish tezligi_ haqida xabardor qiluvchi tegishli signallar yuboriladi.
+
+@@ ch56-f99
+Statik muvozanatni saqlashda utrikulus va sakkulusning funksiyasi
+
+@@ ch56-f100
+Utrikulus va sakkulus makulalaridagi tukli hujayralarning hammasi turli yo‘nalishlarga qaratilgani ayniqsa muhim, chunki boshning turli holatlarida turli tukli hujayralar qo‘zg‘aladi. Turli tukli hujayralar qo‘zg‘alishining “shakllari” bosh miyani boshning gravitatsiya tortishiga nisbatan holati haqida xabardor qiladi. O‘z navbatida, bosh miyaning vestibulyar, miyacha va retikulyar harakat nerv tizimlari to‘g‘ri muvozanatni saqlash uchun tegishli postural muskullarni qo‘zg‘atadi.
+
+@@ ch56-f101
+Utrikulus va sakkulusning bu tizimi bosh vertikalga yaqin holatda bo‘lganda muvozanatni saqlash uchun nihoyatda samarali ishlaydi. Haqiqatan ham, tana aniq tik holatdan og‘ganda odam atigi yarim gradusga teng muvozanat buzilishini ham aniqlay oladi.
+
+@@ ch56-f102
+LEAD: Utrikulus va sakkulus makulalari tomonidan chiziqli tezlanishning aniqlanishi.
+Tana to‘satdan oldinga itarilganda — ya’ni tana tezlanganda — atrofdagi suyuqlikka qaraganda kattaroq massa inersiyasiga ega bo‘lgan statokoniyalar tukli hujayra kipriklari ustiga orqaga tushadi va nerv markazlariga muvozanat buzilishi haqida axborot yuboriladi; natijada odam o‘zini go‘yo orqaga yiqilayotgandek his qiladi. Bu sezgi odamni avtomatik ravishda oldinga engashishga majbur qiladi: to statokoniyalarning natijaviy oldinga siljishi ularning tezlanish tufayli orqaga tushish moyilligiga aniq tenglashguncha. Shu nuqtada nerv tizimi to‘g‘ri muvozanat holatini sezadi va tanani boshqa oldinga engashtirmaydi. Shunday qilib, makulalar chiziqli tezlanish paytida muvozanatni statik muvozanatdagi kabi aynan bir xil tarzda saqlaydi.
+
+@@ ch56-f103
+Makulalar chiziqli _tezlikni_ aniqlash uchun _ishlamaydi._ Yuguruvchilar yugurishni endi boshlaganda dastlabki _tezlanish_ tufayli orqaga yiqilmaslik uchun oldinga ancha engashishlari kerak, ammo yugurish tezligiga erishgach, agar ular vakuumda yugurayotgan bo‘lsalar, oldinga engashishlari shart bo‘lmas edi. Havoda yugurganda ular muvozanatni saqlash uchun faqat tanalariga havo qarshiligi tufayli oldinga engashadi; bu holda ularni engashtirayotgan narsa makulalar emas, balki teridagi bosim sezuvchi oxirgi a’zolarga ta’sir qiluvchi havo bosimi bo‘lib, u yiqilishning oldini olish uchun tegishli muvozanat tuzatishlarini boshlab beradi.
+
+@@ ch56-f104
+Yarim doira yo‘llar tomonidan boshning aylanishini aniqlash
+
+@@ ch56-f105
+Bosh to‘satdan istalgan yo‘nalishda aylana boshlaganda (_burchak tezlanishi_ deb ataladi), yarim doira yo‘llardagi endolimfa inersiyasi tufayli harakatsiz qolishga intiladi, yarim doira yo‘llar esa buriladi. Bu mexanizm yo‘llarda bosh aylanishiga qarama-qarshi yo‘nalishda nisbiy suyuqlik oqimini yuzaga keltiradi.
+
+@@ ch56-f106
+**Rasm 56-12** da hayvon 40 soniya davomida aylantirilganda ampula qirrasidagi bitta tukli hujayradan chiquvchi tipik razryad signali ko‘rsatilgan; u quyidagilarni namoyish qiladi: (1) kupula tinch holatda bo‘lganda ham tukli hujayra sekundiga taxminan 100 impulsli tonik razryad chiqaradi; (2) hayvon aylana boshlaganda tuklar bir tomonga egiladi va razryad chastotasi keskin ortadi; va (3) aylanish davom etganda tukli hujayraning ortiqcha razryadi keyingi bir necha soniya ichida asta-sekin tinch holat darajasiga qaytadi.
+
+@@ ch56-f108
+Retseptorning bunday moslashuvining (adaptatsiyasining) sababi shundaki, aylanishning dastlabki bir necha soniyasida yarim doira yo‘ldagi va egilgan kupula yonidan o‘tuvchi suyuqlik oqimiga qarshilik endolimfaning yarim doira kanalning o‘zi kabi tez aylana boshlashiga olib keladi. So‘ngra yana 5–20 soniya ichida kupula o‘zining elastik qaytishi tufayli ampula o‘rtasidagi tinch holatiga sekin qaytadi.
+
+@@ ch56-f109
+Aylanish to‘satdan to‘xtaganda mutlaqo teskari ta’sirlar yuz beradi: yarim doira yo‘l to‘xtaydi, endolimfa esa aylanishda davom etadi. Bu safar kupula qarama-qarshi yo‘nalishda egiladi va tukli hujayra razryadini butunlay to‘xtatadi. Yana bir necha soniyadan so‘ng endolimfa harakati to‘xtaydi va kupula asta-sekin tinch holatiga qaytadi; bu tukli hujayra razryadining normal tonik darajasiga qaytishiga imkon beradi (**Rasm 56-12** ning o‘ng tomoniga qarang). Shunday qilib, yarim doira yo‘l bosh aylana _boshlaganda_ bir qutbli, aylanishni _to‘xtatganda_ esa qarama-qarshi qutbli signal uzatadi.
+
+@@ ch56-f110
+LEAD: Muvozanatni saqlashda yarim doira yo‘llar tizimining “oldindan bashorat qiluvchi” funksiyasi.
+Yarim doira yo‘llar tana oldinga, yon tomonga yoki orqaga muvozanatdan chiqqanini aniqlamagani sababli, “Muvozanatni saqlashda yarim doira yo‘llarning vazifasi nima?” degan savol tug‘ilishi mumkin. Ular faqat odamning boshi u yoki bu yo‘nalishda aylana _boshlayotgani_ yoki aylanishni _to‘xtatayotganini_ aniqlaydi. Shuning uchun yarim doira yo‘llarning vazifasi statik muvozanatni yoki bir xil yo‘nalishli yoki aylanma harakatlar paytidagi muvozanatni saqlash emas. Shunga qaramay, yarim doira yo‘llar funksiyasining yo‘qolishi odam _tez, murakkab o‘zgaruvchan_ tana harakatlarini bajarishga uringanda muvozanatning yomonlashuviga olib keladi.
+
+@@ ch56-f111
+Yarim doira yo‘llarning funksiyasini quyidagi misol bilan tushuntirish mumkin: agar odam oldinga tez yugurib ketayotib, to‘satdan bir tomonga burila boshlasa, _oldindan_ tegishli tuzatishlar kiritilmasa, _u sekundning bir qismidan keyin muvozanatni yo‘qotib yiqiladi._ Biroq utrikulus va sakkulus makulalari odam muvozanatdan chiqqanini muvozanat yo‘qolgandan _keyingina_ aniqlay oladi. Yarim doira yo‘llar esa odam burilayotganini allaqachon aniqlagan bo‘ladi va bu axborot markaziy nerv tizimini, agar biror _oldindan tuzatish_ kiritilmasa, odam keyingi sekundning bir qismi ichida muvozanatni yo‘qotishi _mumkinligi_ haqida osongina xabardor qiladi.
+
+@@ ch56-f112
+Boshqacha aytganda, yarim doira yo‘llar mexanizmi muvozanat buzilishi yuz berishini _oldindan bashorat qiladi_ va shu bilan muvozanat markazlarini tegishli oldindan ogohlantiruvchi tuzatishlar kiritishga majbur qiladi; bu vaziyatni tuzatish mumkin bo‘lgunga qadar odamga muvozanatni saqlashga yordam beradi.
+
+@@ ch56-f113
+Miyachaning _parcha-tuguncha (flokkulonodulyar) bo‘laklarini_ olib tashlash yarim doira yo‘llar signallarini normal aniqlashga to‘sqinlik qiladi, ammo makula signallarini aniqlashga kamroq ta’sir qiladi. Ayniqsa qiziqarlisi shundaki, miyacha muvozanat bilan bog‘liq harakatlar uchungina emas, balki tananing ko‘pchilik tez harakatlari uchun ham “oldindan bashorat qiluvchi” a’zo bo‘lib xizmat qiladi. Miyachaning bu boshqa funksiyalari 57-bobda muhokama qilinadi.
+
+@@ ch56-f114
+Odam harakat yo‘nalishini tez o‘zgartirganda yoki hatto boshini yon tomonga, oldinga yoki orqaga engashtirganda, agar unda nigoh yo‘nalishini barqarorlashtiruvchi qandaydir avtomatik boshqaruv mexanizmi bo‘lmaganida, to‘r pardada barqaror tasvirni saqlab turish imkonsiz bo‘lar edi. Bundan tashqari, ko‘zlar aniq tasvir olish uchun har bir narsaga yetarlicha uzoq qadalib turmaganida, tasvirni aniqlashda ulardan foyda kam bo‘lar edi. Baxtimizga, bosh har safar to‘satdan aylanganda yarim doira yo‘llardan keluvchi signallar ko‘zlarni bosh aylanishiga teng va qarama-qarshi yo‘nalishda aylantiradi. Bu harakat _vestibulyar yadrolar_ va _medial bo‘ylama tutam_ orqali _ko‘zni harakatlantiruvchi (okulomotor) yadrolarga_ uzatiladigan reflekslar natijasida yuzaga keladi. Bu reflekslar 52-bobda tasvirlangan.
+
+@@ ch56-f115
+LEAD: Bo‘yin proprioretseptorlari.
+Vestibulyar apparat _faqat boshning_ yo‘nalishi va harakatini aniqlaydi. Shuning uchun nerv markazlari boshning tanaga nisbatan yo‘nalishi haqida ham tegishli axborot olishi zarur. Bu axborot bo‘yin va tana proprioretseptorlaridan miya ustunidagi vestibulyar va retikulyar yadrolarga bevosita, shuningdek miyacha orqali bilvosita uzatiladi.
+
+@@ ch56-f116
+Muvozanatni saqlash uchun zarur bo‘lgan eng muhim proprioretseptiv axborotlardan biri _bo‘yin bo‘g‘imi retseptorlari_ uzatadigan axborotdir. Bo‘yinni egish orqali bosh bir tomonga engashtirilganda, bo‘yin proprioretseptorlaridan keluvchi impulslar vestibulyar apparatda paydo bo‘lgan signallarning odamda muvozanat buzilishi hissini uyg‘otishiga yo‘l qo‘ymaydi. Ular bu vazifani vestibulyar apparatdan uzatilayotgan signallarga aniq qarama-qarshi bo‘lgan signallarni uzatish orqali bajaradi. Biroq _butun tana_ bir tomonga og‘ganda vestibulyar apparatdan keluvchi impulslarga bo‘yin proprioretseptorlari signallari _qarshilik ko‘rsatmaydi;_ shuning uchun bu holda odam butun tananing muvozanat holatidagi o‘zgarishni haqiqatan sezadi.
+
+@@ ch56-f117
+LEAD: Tananing boshqa qismlaridan keluvchi proprioretseptiv va eksteroretseptiv axborot.
+Bo‘yindan tashqari tananing boshqa qismlaridan keluvchi proprioretseptiv axborot ham muvozanatni saqlashda muhim. Masalan, panja (oyoq tagi) yostiqchalaridan keluvchi bosim sezgilari odamga (1) og‘irlik ikki oyoq o‘rtasida teng taqsimlanganmi va (2) oyoqlardagi og‘irlik ko‘proq oldingami yoki orqagami — shuni bildiradi.
+
+@@ ch56-f118
+Odam yugurayotganda muvozanatni saqlash uchun eksteroretseptiv axborot ayniqsa zarur. Tananing old tomoniga ta’sir qiluvchi havo bosimi tanaga gravitatsiya tortishi yo‘nalishidan farqli yo‘nalishda kuch qarshilik ko‘rsatayotganini bildiradi; natijada odam bu kuchga qarshi turish uchun oldinga engashadi.
+
+@@ ch56-f119
+LEAD: Muvozanatni saqlashda ko‘rish axborotining ahamiyati.
+Vestibulyar apparat yemirilgandan keyin va hatto tanadan keluvchi proprioretseptiv axborotning ko‘p qismi yo‘qolgandan keyin ham odam muvozanatni saqlash uchun ko‘rish mexanizmlaridan ancha samarali foydalana oladi. Tananing hatto ozgina chiziqli yoki aylanma harakati ham to‘r pardadagi ko‘rish tasvirlarini bir zumda siljitadi va bu axborot muvozanat markazlariga uzatiladi. Vestibulyar apparati ikki tomonlama yemirilgan ba’zi odamlarda ko‘zlari ochiq bo‘lsa va barcha harakatlar sekin bajarilsa, muvozanat deyarli normal bo‘ladi. Biroq tez harakatlanganda yoki ko‘zlar yumilganda muvozanat darhol yo‘qoladi.
+
+@@ ch56-f120
+**Rasm 56-13** da vestibulyar nervning orqa miyadagi (rombsimon miyadagi) bog‘lanishlari ko‘rsatilgan. Vestibulyar nerv tolalarining aksariyati miya ustunida, taxminan uzunchoq miya va ko‘prik chegarasida joylashgan _vestibulyar yadrolarda_ tugaydi. Ba’zi tolalar sinaps hosil qilmasdan to‘g‘ridan-to‘g‘ri miya ustunining retikulyar yadrolariga, shuningdek miyachaning chodir (fastigial), uvula va parcha-tuguncha bo‘lagi yadrolariga boradi. Miya ustunining vestibulyar yadrolarida tugaydigan tolalar ikkinchi tartibli neyronlar bilan sinaps hosil qiladi; bu neyronlar ham miyachaga, vestibulospinal yo‘llarga, medial bo‘ylama tutamga va miya ustunining boshqa sohalariga, ayniqsa retikulyar yadrolarga tolalar yuboradi.
+
+@@ ch56-f121
+Muvozanat reflekslarining asosiy yo‘li vestibulyar nervlardan boshlanadi; bu nervlar vestibulyar apparat tomonidan qo‘zg‘atiladi. So‘ngra yo‘l vestibulyar yadrolar va miyachaga o‘tadi. Keyin signallar miya ustunining retikulyar yadrolariga, shuningdek vestibulospinal va retikulospinal yo‘llar orqali orqa miyaga pastga yuboriladi. Orqa miyaga boruvchi signallar ko‘plab antigravitatsion muskullarning faollashuvi va tormozlanishi o‘rtasidagi o‘zaro ta’sirni boshqaradi va shu bilan muvozanatni avtomatik boshqaradi.
+
+@@ ch56-f122
+Miyachaning _parcha-tuguncha_ bo‘laklari ayniqsa yarim doira yo‘llardan keluvchi dinamik muvozanat signallari bilan bog‘liq. Haqiqatan ham, bu bo‘laklarning yemirilishi yarim doira yo‘llar yemirilishi bilan deyarli aynan bir xil klinik belgilarga olib keladi. Ya’ni bo‘laklar yoki yo‘llarning og‘ir shikastlanishi _harakat yo‘nalishining tez o‘zgarishi_ paytida dinamik muvozanatning yo‘qolishiga olib keladi, ammo statik sharoitda muvozanatni jiddiy buzmaydi. Miyachaning _uvulasi_ statik muvozanatda shunga o‘xshash muhim rol o‘ynaydi, deb hisoblanadi.
+
+@@ ch56-f123
+Vestibulyar yadrolardan ham, miyachadan ham _medial bo‘ylama tutam_ orqali miya ustunida yuqoriga uzatiladigan signallar bosh har safar aylanganda ko‘zlarning tuzatuvchi harakatlarini yuzaga keltiradi, shuning uchun ko‘zlar muayyan ko‘rish obyektiga qadalgan holda qoladi. Signallar (yo shu yo‘l orqali, yoki retikulyar yo‘llar orqali) bosh miya po‘stlog‘iga ham ko‘tariladi va tepa bo‘lagida, Silviy egatining chuqurida, yuqori chakka pushtasining eshitish sohasiga nisbatan egatning qarama-qarshi tomonida joylashgan muvozanatning birlamchi po‘stloq markazida tugaydi. Bu signallar ongni tananing muvozanat holati haqida xabardor qiladi.
+
+@@ ch56-f124
+Kamdan-kam hollarda chaqaloq o‘rta miya sohasidan yuqoridagi bosh miya tuzilmalarisiz tug‘iladi; bu holat _anensefaliya_ deb ataladi. Bunday chaqaloqlarning ba’zilari ko‘p oylar davomida tirik saqlangan. Ular ovqatlanish uchun ba’zi stereotip harakatlarni bajara oladi, masalan, so‘rish, yoqimsiz ovqatni og‘izdan itarib chiqarish va barmoqlarni so‘rish uchun qo‘llarni og‘izga olib borish. Bundan tashqari, ular esnashi va kerishishi mumkin. Ular yig‘lay oladi va narsalarni ko‘z va bosh harakatlari bilan kuzata oladi. Shuningdek, oyoqlarining yuqori old qismlariga bosim berilsa, ular o‘tirish holatiga tortiladi. Ko‘rinib turibdiki, insonning ko‘plab stereotip harakat funksiyalari miya ustunida integratsiyalanadi.
+
+@@ fig:gh14-fig-56-01
+Bosh miya po‘stlog‘ining harakat va somatosensor funksional sohalari. 4, 5, 6 va 7 raqamlari — 48-bobda tushuntirilganidek, Brodmanning po‘stloq maydonlari.
+
+@@ fig:gh14-fig-56-02
+Tananing turli muskullarining harakat po‘stlog‘ida tasvirlanish darajasi. (Penfield W, Rasmussen T: The Cerebral Cortex of Man: A Clinical Study of Localization of Function. New York: Hafner, 1968 dan o‘zgartirilgan.)
+
+@@ fig:gh14-fig-56-03
+Tananing turli muskullarining harakat po‘stlog‘ida tasvirlanishi va muayyan turdagi harakatlar uchun javobgar boshqa po‘stloq sohalarining joylashuvi.
+
+@@ fig:gh14-fig-56-04
+Kortikospinal (piramida) yo‘l. (Ranson SW, Clark SL: Anatomy of the Nervous System. Philadelphia: WB Saunders, 1959 dan o‘zgartirilgan.)
+
+@@ fig:gh14-fig-56-05
+Harakatni boshqaruvchi kortiko-rubro-spinal yo‘l; shuningdek bu yo‘lning miyacha bilan munosabati ko‘rsatilgan.
+
+@@ fig:gh14-fig-56-06
+Turli harakat boshqaruv yo‘llarining oldingi motoneyronlarga yaqinlashuvi (konvergensiyasi).
+
+@@ fig:gh14-fig-56-07
+Miya ustunidagi retikulyar va vestibulyar yadrolarning joylashuvi.
+
+@@ fig:gh14-fig-56-08
+Tananing o‘q muskulaturasini boshqaruvchi oldingi motoneyronlarni qo‘zg‘atish (uzluksiz chiziqlar) yoki tormozlash (uzuq chiziqlar) uchun orqa miyada pastga tushuvchi vestibulospinal va retikulospinal yo‘llar.
+
+@@ fig:gh14-fig-56-09
+Parda labirinti hamda ampula qirrasi va makulaning tuzilishi.
+
+@@ fig:gh14-fig-56-10
+Muvozanat apparatining tukli hujayrasi va uning vestibulyar nerv bilan sinapslari.
+
+@@ fig:gh14-fig-56-11
+Aylanish boshlanganda kupula va unga botib turgan tuklarning harakati.
+
+@@ fig:gh14-fig-56-12
+Yarim doira kanal avval bosh aylanishining boshlanishi, so‘ngra aylanishning to‘xtashi bilan qo‘zg‘atilganda tukli hujayraning javobi.
+
+@@ fig:gh14-fig-56-13
+Vestibulyar nervlarning vestibulyar yadrolar (katta pushti oval soha) orqali markaziy nerv tizimining boshqa sohalari bilan bog‘lanishlari.

@@ -1,0 +1,2457 @@
+{
+ "id": "ch60",
+ "topicId": "11",
+ "order": 6,
+ "titleUz": "Miya faolligi holatlari — uyqu, miya to'lqinlari, epilepsiya, psixozlar va demensiya",
+ "titleOriginal": "States of Brain Activity—Sleep, Brain Waves, Epilepsy, Psychoses, and Dementia",
+ "subtitle": "*States of Brain Activity—Sleep, Brain Waves, Epilepsy, Psychoses, and Dementia* — XI bo'lim, PDF 713–722",
+ "contentVersion": "2026-11-14.1",
+ "status": "in_review",
+ "translationStatus": "machine_assisted",
+ "source": {
+  "bookId": "guyton-hall-14",
+  "chapter": 60,
+  "unit": "XI",
+  "pdfPages": [
+   713,
+   722
+  ],
+  "printedPages": [
+   708,
+   717
+  ],
+  "notesFile": "guyton-notes/ch60-states-of-brain-activitysleep-brain-waves-epilepsy-psychoses.md",
+  "summaryFile": "guyton-notes/summaries/ch60.md"
+ },
+ "pdfPages": [
+  713,
+  722
+ ],
+ "printedPages": [
+  708,
+  717
+ ],
+ "outline": [
+  {
+   "level": 1,
+   "title": "Sleep",
+   "pdfPage": 713,
+   "printedPage": "708",
+   "id": "ch60-h-sleep"
+  },
+  {
+   "level": 2,
+   "title": "TWO TYPES OF SLEEP—SLOW-WAVE SLEEP AND RAPID EYE MOVEMENT SLEEP",
+   "pdfPage": 713,
+   "printedPage": "708",
+   "id": "ch60-h-two-types-of-sleep-slow-wave-sleep-and-rapid-eye-movement-sl"
+  },
+  {
+   "level": 2,
+   "title": "REM (Paradoxical, Desynchronized) Sleep",
+   "pdfPage": 713,
+   "printedPage": "708",
+   "id": "ch60-h-rem-paradoxical-desynchronized-sleep"
+  },
+  {
+   "level": 3,
+   "title": "SlowWave Sleep",
+   "pdfPage": 713,
+   "printedPage": "708",
+   "id": "ch60-h-slowwave-sleep"
+  },
+  {
+   "level": 2,
+   "title": "Basic Theories of Sleep",
+   "pdfPage": 714,
+   "printedPage": "709",
+   "id": "ch60-h-basic-theories-of-sleep"
+  },
+  {
+   "level": 3,
+   "title": "Sleep Is Caused by an Active Inhibitory Process",
+   "pdfPage": 714,
+   "printedPage": "709",
+   "id": "ch60-h-sleep-is-caused-by-an-active-inhibitory-process"
+  },
+  {
+   "level": 3,
+   "title": "Neuronal Centers, Neurohumoral Substances, and Mechanisms That Can Cause Sleep—Possible Role for Serotonin",
+   "pdfPage": 714,
+   "printedPage": "709",
+   "id": "ch60-h-neuronal-centers-neurohumoral-substances-and-mechanisms-that"
+  },
+  {
+   "level": 4,
+   "title": "Lesions in SleepPromoting Centers Can Cause Intense Wakefulness",
+   "pdfPage": 714,
+   "printedPage": "709",
+   "id": "ch60-h-lesions-in-sleeppromoting-centers-can-cause-intense-wakefuln"
+  },
+  {
+   "level": 4,
+   "title": "Other Possible Transmitter Substances Related to Sleep",
+   "pdfPage": 715,
+   "printedPage": "710",
+   "id": "ch60-h-other-possible-transmitter-substances-related-to-sleep"
+  },
+  {
+   "level": 4,
+   "title": "Possible Cause of REM Sleep",
+   "pdfPage": 715,
+   "printedPage": "710",
+   "id": "ch60-h-possible-cause-of-rem-sleep"
+  },
+  {
+   "level": 3,
+   "title": "Cycle Between Sleep and Wakefulness",
+   "pdfPage": 715,
+   "printedPage": "710",
+   "id": "ch60-h-cycle-between-sleep-and-wakefulness"
+  },
+  {
+   "level": 2,
+   "title": "SLEEP HAS IMPORTANT PHYSIOLOGICAL FUNCTIONS",
+   "pdfPage": 715,
+   "printedPage": "710",
+   "id": "ch60-h-sleep-has-important-physiological-functions"
+  }
+ ],
+ "objectives": [
+  "Uyquning ikki turi",
+  "Uyqu nazariyalari va markazlari",
+  "Uyquning fiziologik vazifalari",
+  "Miya to'lqinlari (EEG)",
+  "Tutqanoqlar va epilepsiya",
+  "Neyromediator tizimlari va ruhiy kasalliklar"
+ ],
+ "blocks": {
+  "simple": [
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Asosiy g'oya",
+    "id": "ch60-s-0-asosiy-goya",
+    "bid": "ch60-u0"
+   },
+   {
+    "type": "paragraph",
+    "text": "Miya faolligining turli holatlari (uyqu, uyg'oqlik, kayfiyat) miya ichidagi faollashtiruvchi va tormozlovchi kuchlardan kelib chiqadi.",
+    "bid": "ch60-u1"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Uyqu** sezgi yoki boshqa stimul bilan uyg'otish mumkin bo'lgan hushsizlik.",
+      "depth": 0
+     },
+     {
+      "text": "**Koma** uyg'otib bo'lmaydigan hushsizlik.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch60-u2"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Uyquning ikki turi",
+    "id": "ch60-s-3-uyquning-ikki-turi",
+    "bid": "ch60-u3"
+   },
+   {
+    "type": "paragraph",
+    "text": "Kecha davomida ikki tur almashinib turadi.",
+    "bid": "ch60-u4"
+   },
+   {
+    "type": "paragraph",
+    "text": "**REM (paradoksal, desinxronlashgan) uyqu:**",
+    "bid": "ch60-u5"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Yosh kattalarda uyqu vaqtining taxminan 25% ini egallaydi.",
+      "depth": 0
+     },
+     {
+      "text": "Epizodlar 5–30 daqiqa davom etadi va o'rtacha har 90 daqiqada takrorlanadi.",
+      "depth": 0
+     },
+     {
+      "text": "Juda uyquli odamda epizodlar qisqa yoki umuman yo'q. Kecha davomida dam olgan sari uzayadi.",
+      "depth": 0
+     },
+     {
+      "text": "Xususiyatlari:",
+      "depth": 0
+     },
+     {
+      "text": "Faol uyqu: yorqin tushlar va tana harakatlari bilan kechadi.",
+      "depth": 1
+     },
+     {
+      "text": "Uyg'otish chuqur sekin to'lqinli uyqudan ham qiyin, lekin ertalab odatda REM paytida o'z-o'zidan uyg'oniladi.",
+      "depth": 1
+     },
+     {
+      "text": "Butun tana mushak tonusi keskin pasayadi, ya'ni orqa miya motor sohalari kuchli tormozlanadi.",
+      "depth": 1
+     },
+     {
+      "text": "Yurak va nafas ritmi notekis bo'ladi.",
+      "depth": 1
+     },
+     {
+      "text": "Ko'zlarning tez harakatidan tashqari notekis mushak harakatlari ham uchraydi.",
+      "depth": 1
+     },
+     {
+      "text": "Miya juda faol, metabolizm 20% gacha oshadi. EEG uyg'oqlikdagiga o'xshaydi, shuning uchun \"paradoksal\" deyiladi.",
+      "depth": 1
+     }
+    ],
+    "bid": "ch60-u6"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Sekin to'lqinli (NREM) uyqu:**",
+    "bid": "ch60-u7"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Uzoq uyg'oqlikdan keyingi birinchi soatdagi chuqur, rohatli uyqu.",
+      "depth": 0
+     },
+     {
+      "text": "Periferik qon tomir tonusi va vegetativ funksiyalar pasayadi. Qon bosimi, nafas tezligi va bazal metabolizm 10–30% kamayadi.",
+      "depth": 0
+     },
+     {
+      "text": "Tushlar, hatto qo'rqinchli tushlar ham bo'ladi, lekin ular xotirada mustahkamlanmagani uchun eslanmaydi. REM tushlarida mushak faolligi ko'proq.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch60-u8"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Uyqu nazariyalari va markazlari",
+    "id": "ch60-s-9-uyqu-nazariyalari-va-markazlari",
+    "bid": "ch60-u9"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Uyqu faol tormozlanish jarayoni.**",
+    "bid": "ch60-u10"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Eski nazariya: retikulyar faollashtiruvchi tizim kun davomida charchab qoladi.",
+      "depth": 0
+     },
+     {
+      "text": "Hozirgi qarash: miya ustuni ko'prik o'rtasidan kesilsa, po'stloq hech qachon uxlamaydi. Demak ko'prik o'rtasidan pastda boshqa qismlarni tormozlab uyqu chaqiruvchi markaz bor.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch60-u11"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Uyqu chaqiruvchi sohalar:**",
+    "bid": "ch60-u12"
+   },
+   {
+    "type": "list",
+    "ordered": true,
+    "items": [
+     {
+      "text": "**Raphe yadrolari** (ko'prikning pastki yarmi va uzunchoq miya, o'rta chiziq).",
+      "depth": 0
+     },
+     {
+      "text": "Eng yaqqol stimulyatsiya sohasi.",
+      "depth": 1
+     },
+     {
+      "text": "Tolalari retikulyar formatsiya, talamus, gipotalamus, limbik tizim va neokorteksga boradi.",
+      "depth": 1
+     },
+     {
+      "text": "Orqa miyaning orqa shoxlariga ham borib, og'riqni tormozlaydi.",
+      "depth": 1
+     },
+     {
+      "text": "Serotonin ajratadi. Serotonin sintezi bloklansa, hayvon bir necha kun uxlay olmaydi.",
+      "depth": 1
+     },
+     {
+      "text": "**Nucleus tractus solitarius:** vagus va glossofaringeal nervlarning visseral sezgi tolalari tugaydigan joy.",
+      "depth": 0
+     },
+     {
+      "text": "**Diensefalon sohalari:**",
+      "depth": 0
+     },
+     {
+      "text": "Gipotalamusning rostral qismi, asosan suprachiasmal soha.",
+      "depth": 1
+     },
+     {
+      "text": "Talamusning diffuz yadrolaridagi ayrim joylar.",
+      "depth": 1
+     }
+    ],
+    "bid": "ch60-u13"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Uyqu markazlari shikastlansa:**",
+    "bid": "ch60-u14"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Raphe yadrolari yoki ikki tomonlama old gipotalamusdagi suprachiasmal soha shikastlansa, kuchli uyg'oqlik yuzaga keladi.",
+      "depth": 0
+     },
+     {
+      "text": "Sababi: mezensefalon va yuqori ko'prikdagi qo'zg'atuvchi retikulyar yadrolar tormozdan bo'shaydi.",
+      "depth": 0
+     },
+     {
+      "text": "Hayvon hatto charchoqdan o'lishi mumkin.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch60-u15"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Uyqu omillari:**",
+    "bid": "ch60-u16"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Uzoq uyg'oq hayvonning likvor, qon va siydigidagi moddalar boshqa hayvonda uyqu chaqiradi.",
+      "depth": 0
+     },
+     {
+      "text": "**Muramyl peptid:** mikrogrammlari III qorinchaga yuborilsa, bir necha daqiqada deyarli tabiiy uyqu boshlanadi va soatlab davom etadi.",
+      "depth": 0
+     },
+     {
+      "text": "**Delta sleep–inducing peptide** (nonapeptid) ham shunday ta'sir qiladi.",
+      "depth": 0
+     },
+     {
+      "text": "Uzoq uyg'oqlikda uyqu omillari to'planib boradi, degan taxmin bor.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch60-u17"
+   },
+   {
+    "type": "paragraph",
+    "text": "**REM sababi:**",
+    "bid": "ch60-u18"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Aniq emas, lekin atsetilxolinga o'xshash dorilar REM ni ko'paytiradi.",
+      "depth": 0
+     },
+     {
+      "text": "Taxmin: yuqori miya ustuni retikulyar formatsiyasidagi yirik atsetilxolinli neyronlar miyani faollashtiradi, ammo signallar normal ong uchun to'g'ri yo'naltirilmaydi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch60-u19"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Uyqu–uyg'oqlik sikli (taxminiy mexanizm):**",
+    "bid": "ch60-u20"
+   },
+   {
+    "type": "list",
+    "ordered": true,
+    "items": [
+     {
+      "text": "Uyqu markazlari faol bo'lmasa, retikulyar faollashtiruvchi yadrolar o'z-o'zidan faollashadi.",
+      "depth": 0
+     },
+     {
+      "text": "Ular po'stloq va periferik tizimni qo'zg'atadi, ulardan musbat qayta aloqa qaytadi. Uyg'oqlik o'zini o'zi ushlab turadi.",
+      "depth": 0
+     },
+     {
+      "text": "Ko'p soatdan keyin faollashtiruvchi neyronlar charchaydi, musbat qayta aloqa so'nadi.",
+      "depth": 0
+     },
+     {
+      "text": "Uyqu markazlari ustunlik qiladi va tez uyquga o'tiladi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch60-u21"
+   },
+   {
+    "type": "paragraph",
+    "text": "Bu mexanizm fikr bilan band ongdagi uyqusizlikni va jismoniy faollikdagi uyg'oqlikni ham tushuntiradi.",
+    "bid": "ch60-u22"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Oreksin (gipokretin):**",
+    "bid": "ch60-u23"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Gipotalamus neyronlarida hosil bo'ladi va miyaning ko'p sohalarini qo'zg'atadi.",
+      "depth": 0
+     },
+     {
+      "text": "Uyg'oqlikda faol, sekin to'lqinli va REM uyqusida deyarli to'xtaydi.",
+      "depth": 0
+     },
+     {
+      "text": "Oreksin signali yo'qolsa **narkolepsiya** kelib chiqadi: kunduzi kuchli uyquchanlik va to'satdan uyqu xurujlari. **Katapleksiya**, ya'ni to'satdan mushak tonusining yo'qolishi ham bo'lishi mumkin.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch60-u24"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Uyquning fiziologik vazifalari",
+    "id": "ch60-s-25-uyquning-fiziologik-vazifalari",
+    "bid": "ch60-u25"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Uyqu barcha sutemizuvchilarda bor.",
+      "depth": 0
+     },
+     {
+      "text": "Mahrumlikdan keyin \"rebound\" uyqu kuzatiladi, faqat REM yoki faqat sekin to'lqinli uyqudan mahrum qilinsa, o'sha turning o'zi qaytadi.",
+      "depth": 0
+     },
+     {
+      "text": "Bir necha kunlik yengil cheklov ham kognitiv va jismoniy ish qobiliyatini pasaytiradi.",
+      "depth": 0
+     },
+     {
+      "text": "2–3 hafta uxlatilmagan kalamushlar o'lishi mumkin.",
+      "depth": 0
+     },
+     {
+      "text": "Kasallikda (infeksion va noinfeksion) uyqu ko'payadi. Bu energiyani himoyaga yo'naltiruvchi foydali javob deb taxmin qilinadi.",
+      "depth": 0
+     },
+     {
+      "text": "Uyqusizlik fikrlashni sekinlashtiradi, jahldorlik va hatto psixozga olib kelishi mumkin.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch60-u26"
+   },
+   {
+    "type": "paragraph",
+    "text": "Taxmin qilingan vazifalar:",
+    "bid": "ch60-u27"
+   },
+   {
+    "type": "list",
+    "ordered": true,
+    "items": [
+     {
+      "text": "Neyronlar yetilishi.",
+      "depth": 0
+     },
+     {
+      "text": "O'rganish va xotira.",
+      "depth": 0
+     },
+     {
+      "text": "Keraksiz sinapslarni o'chirish.",
+      "depth": 0
+     },
+     {
+      "text": "Kognitsiya.",
+      "depth": 0
+     },
+     {
+      "text": "Metabolik chiqindilarni tozalash.",
+      "depth": 0
+     },
+     {
+      "text": "Energiyani tejash.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch60-u28"
+   },
+   {
+    "type": "paragraph",
+    "text": "Har biriga dalil bor, lekin bahsli. Asosiy qiymati neyron markazlari orasidagi muvozanatni tiklash bo'lishi mumkin.",
+    "bid": "ch60-u29"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Miya to'lqinlari (EEG)",
+    "id": "ch60-s-30-miya-tolqinlari-eeg",
+    "bid": "ch60-u30"
+   },
+   {
+    "type": "paragraph",
+    "text": "Bosh terisidan yozilganda intensivlik 0–200 µV, chastota bir necha soniyada birdan 50+/s gacha.",
+    "bid": "ch60-u31"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Alfa:** 8–13/s, taxminan 50 µV.",
+      "depth": 0
+     },
+     {
+      "text": "Sokin, dam olayotgan uyg'oq kattalarda, ayniqsa ensa sohasida.",
+      "depth": 1
+     },
+     {
+      "text": "Chuqur uyquda yo'qoladi.",
+      "depth": 1
+     },
+     {
+      "text": "Ko'z ochilsa yoki diqqat qaratilsa, beta bilan almashadi.",
+      "depth": 1
+     },
+     {
+      "text": "**Beta:** 14/s dan katta (80/s gacha), past voltajli va asinxron. Tepa va peshona sohalarida faollashuvda.",
+      "depth": 0
+     },
+     {
+      "text": "**Teta:** 4–7/s.",
+      "depth": 0
+     },
+     {
+      "text": "Bolalarda tepa va chakka sohalarida.",
+      "depth": 1
+     },
+     {
+      "text": "Kattalarda hissiy stressda (umidsizlik, frustratsiya).",
+      "depth": 1
+     },
+     {
+      "text": "Degenerativ kasalliklarda.",
+      "depth": 1
+     },
+     {
+      "text": "**Delta:** 3.5/s dan kichik, voltaji boshqalardan 2–4 marta katta.",
+      "depth": 0
+     },
+     {
+      "text": "Juda chuqur uyquda, chaqaloqlarda va og'ir organik kasallikda.",
+      "depth": 1
+     },
+     {
+      "text": "Po'stloq talamusdan ajratilganda ham saqlanadi.",
+      "depth": 1
+     }
+    ],
+    "bid": "ch60-u32"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Kelib chiqishi:**",
+    "bid": "ch60-u33"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Bitta neyronni bosh terisidan yozib bo'lmaydi. Minglab yoki millionlab neyronlar sinxron otishi kerak.",
+      "depth": 0
+     },
+     {
+      "text": "Shuning uchun voltaj umumiy faollikka emas, sinxronlikka bog'liq. Kuchli asinxron signallar bir-birini yo'qqa chiqaradi: ko'z ochilganda faollik oshadi, lekin voltaj tushadi.",
+      "depth": 0
+     },
+     {
+      "text": "**Alfa** talamus–po'stloq aloqasisiz bo'lmaydi. U diffuz talamokortikal tizimdagi o'z-o'zidan bo'ladigan qayta aloqa tebranishidan kelib chiqadi, ehtimol retikulyar tizim ham qatnashadi.",
+      "depth": 0
+     },
+     {
+      "text": "**Delta** po'stloqning o'zidagi sinxronlash mexanizmidan kelib chiqadi. Chuqur uyquda po'stloq quyi markazlar ta'siridan bo'shaydi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch60-u34"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Faollik va chastota:** faollik oshgan sari chastota ham ortadi.",
+    "bid": "ch60-u35"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Delta: anesteziya va chuqur uyqu.",
+      "depth": 0
+     },
+     {
+      "text": "Teta: psixomotor holatlar.",
+      "depth": 0
+     },
+     {
+      "text": "Alfa: bo'shashish.",
+      "depth": 0
+     },
+     {
+      "text": "Beta: kuchli aqliy faollik yoki qo'rquv.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch60-u36"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Uyqu bosqichlarida EEG:**",
+    "bid": "ch60-u37"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Hushyor uyg'oqlik: beta. Sokin uyg'oqlik: alfa.",
+      "depth": 0
+     },
+     {
+      "text": "1-bosqich: past voltaj va \"uyqu urchuqlari\" (alfa portlashlari).",
+      "depth": 0
+     },
+     {
+      "text": "2–4-bosqichlar: chastota tobora sekinlashadi, 4-bosqichda 1–3/s delta.",
+      "depth": 0
+     },
+     {
+      "text": "REM: yuqori chastotali notekis to'lqinlar, uyg'oq faol odamnikiga o'xshaydi. Shuning uchun \"desinxronlashgan uyqu\" deyiladi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch60-u38"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Tutqanoqlar va epilepsiya",
+    "id": "ch60-s-39-tutqanoqlar-va-epilepsiya",
+    "bid": "ch60-u39"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Tutqanoq** nazoratsiz ortiqcha neyron faolligidan bo'ladigan vaqtinchalik miya disfunksiyasi.",
+    "bid": "ch60-u40"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Simptomatik tutqanoq sabablari: elektrolit buzilishi, gipoglikemiya, dorilar (kokain), eklampsiya, buyrak yetishmovchiligi, gipertenziv ensefalopatiya, meningit.",
+      "depth": 0
+     },
+     {
+      "text": "Aholining 5–10% umrida kamida bir marta tutqanoq ko'radi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch60-u41"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Epilepsiya** takrorlanuvchi tutqanoqlar bilan kechadigan surunkali holat.",
+    "bid": "ch60-u42"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Yagona kasallik emas. Sabablari: travma, insult, o'sma, infeksiya, degeneratsiya, irsiyat.",
+      "depth": 0
+     },
+     {
+      "text": "Aholining taxminan 1% ida uchraydi (65 mln kishi).",
+      "depth": 0
+     },
+     {
+      "text": "Mexanizmi qo'zg'alish–tormozlanish muvozanatining buzilishi.",
+      "depth": 0
+     },
+     {
+      "text": "Travmadan keyin oylar yoki yillar o'tib boshlanishi mumkin.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch60-u43"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Fokal (parsial) tutqanoqlar:**",
+    "bid": "ch60-u44"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Sabablari:",
+      "depth": 0
+     },
+     {
+      "text": "Qo'shni to'qimani tortadigan chandiq.",
+      "depth": 1
+     },
+     {
+      "text": "O'sma bosimi.",
+      "depth": 1
+     },
+     {
+      "text": "Yemirilgan to'qima.",
+      "depth": 1
+     },
+     {
+      "text": "Tug'ma noto'g'ri zanjir.",
+      "depth": 1
+     },
+     {
+      "text": "Neyronlar sekundiga bir necha yuz martadan ko'p otsa, sinxron to'lqinlar yoyila boshlaydi. Tezlik daqiqasiga bir necha mm dan sekundiga bir necha sm gacha.",
+      "depth": 0
+     },
+     {
+      "text": "Qarama-qarshi yarim sharga yoki talamus orqali ikkala yarim sharga tarqalishi mumkin (ikkilamchi generalizatsiya).",
+      "depth": 0
+     },
+     {
+      "text": "**Jacksonian march:** motor po'stloq bo'ylab qarama-qarshi tomonda og'izdan oyoqqa qarab (ba'zan teskari) ketma-ket qisqarishlar.",
+      "depth": 0
+     },
+     {
+      "text": "**Oddiy parsial** tutqanoqda ong saqlanadi. Aura (masalan, qo'rquv), so'ng ritmik silkinish yoki tonik qotish bo'lishi mumkin.",
+      "depth": 0
+     },
+     {
+      "text": "**Murakkab parsial** tutqanoqda ong buziladi.",
+      "depth": 0
+     },
+     {
+      "text": "Avtomatizmlar bo'ladi (chaynash, lab chapillatish). Keyin hujum eslanmaydi, faqat aura eslanadi.",
+      "depth": 1
+     },
+     {
+      "text": "Tutqanoqdan keyingi, normal holat qaytguncha bo'lgan davr postiktal davr deyiladi.",
+      "depth": 1
+     },
+     {
+      "text": "\"Psixomotor\", \"chakka\", \"limbik\" atamalari bilan sinonim emas.",
+      "depth": 1
+     },
+     {
+      "text": "Ko'pincha gippokamp, amigdala, septum va chakka po'stlog'ini qamraydi.",
+      "depth": 1
+     },
+     {
+      "text": "EEG: 2–4/s to'rtburchak to'lqinlar, ustida 14/s to'lqinlar.",
+      "depth": 1
+     }
+    ],
+    "bid": "ch60-u45"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Generalizatsiyalangan tutqanoqlar:** talamus–po'stloq aloqalari orqali boshidanoq ikkala yarim sharga tez va bir vaqtda tarqaladi.",
+    "bid": "ch60-u46"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Tonik-klonik (grand mal):**",
+      "depth": 0
+     },
+     {
+      "text": "To'satdan hushdan ketish. Po'stloq, chuqur tuzilmalar va miya ustunida haddan ortiq razryadlar.",
+      "depth": 1
+     },
+     {
+      "text": "Tonik, keyin tonik-klonik qisqarishlar, til tishlanishi, sianoz, siydik va najas chiqishi.",
+      "depth": 1
+     },
+     {
+      "text": "Bir necha soniyadan 3–4 daqiqagacha davom etadi. Keyin stupor va soatlab charchoq hamda uyqu.",
+      "depth": 1
+     },
+     {
+      "text": "EEG: butun po'stloqda ikki tomonlama yuqori voltajli, yuqori chastotali razryadlar. Demak ikkala yarim sharni harakatga keltiruvchi bazal tuzilmalar ishtirok etadi.",
+      "depth": 1
+     },
+     {
+      "text": "Talamus va retikulyar formatsiyada ham shunday faollik bor.",
+      "depth": 1
+     },
+     {
+      "text": "Ko'pi idiopatik. Irsiy moyillik 100 kishidan birida.",
+      "depth": 1
+     },
+     {
+      "text": "Qo'zg'atuvchilar: kuchli hissiyot, giperventilyatsiya alkalozi, dorilar, isitma, baland shovqin yoki miltillovchi yorug'lik.",
+      "depth": 1
+     },
+     {
+      "text": "To'xtash sababi: hujum faollashtirgan tormozlovchi neyronlarning faol tormozlashi bo'lsa kerak.",
+      "depth": 1
+     }
+    ],
+    "bid": "ch60-u47"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Absans (petit mal):**",
+      "depth": 0
+     },
+     {
+      "text": "Bolalik yoki o'smirlikda boshlanadi, bolalardagi epilepsiyaning 15–20%.",
+      "depth": 1
+     },
+     {
+      "text": "3–30 soniya hushsizlik yoki ong pasayishi: tikilib qarash, bosh sohasida tortishishlar (ko'z pirpiratish), so'ng tez tiklanish.",
+      "depth": 1
+     },
+     {
+      "text": "Odatda 30 yoshgacha yo'qoladi. Ba'zan grand mal ni boshlab yuboradi.",
+      "depth": 1
+     },
+     {
+      "text": "EEG: \"spike and dome\" (3/s).",
+      "depth": 1
+     },
+     {
+      "text": "Talamokortikal tizim ishtirok etadi. Inhibitor talamik retikulyar GABA neyronlari bilan qo'zg'atuvchi talamokortikal va kortikotalamik neyronlar orasidagi tebranishdan kelib chiqadi.",
+      "depth": 1
+     }
+    ],
+    "bid": "ch60-u48"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Davolash (dori mexanizmlari):**",
+    "bid": "ch60-u49"
+   },
+   {
+    "type": "list",
+    "ordered": true,
+    "items": [
+     {
+      "text": "Voltajga bog'liq Na⁺ kanallarini bloklash: karbamazepin, fenitoin.",
+      "depth": 0
+     },
+     {
+      "text": "Ca²⁺ oqimlarini o'zgartirish: etosuksimid.",
+      "depth": 0
+     },
+     {
+      "text": "GABA ni kuchaytirish: fenobarbital, benzodiazepinlar.",
+      "depth": 0
+     },
+     {
+      "text": "Glutamat retseptorlarini tormozlash: perampanel.",
+      "depth": 0
+     },
+     {
+      "text": "Ko'p mexanizmli: valproat, topiramat.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch60-u50"
+   },
+   {
+    "type": "paragraph",
+    "text": "Iloji bo'lsa sababni bartaraf etish eng yaxshisi. Dorilarga chidamli fokal epilepsiyada EEG bilan o'choq topilib, jarrohlik yo'li bilan olib tashlanadi.",
+    "bid": "ch60-u51"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Neyromediator tizimlari va ruhiy kasalliklar",
+    "id": "ch60-s-52-neyromediator-tizimlari-va-ruhiy-kasalliklar",
+    "bid": "ch60-u52"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Parkinson (dopamin) va Huntington (GABA va ACh) haqida 57-bobga qarang.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch60-u53"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Depressiya va bipolyar buzilish:**",
+    "bid": "ch60-u54"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Norepinefrin va/yoki serotonin kamayishi bilan bog'liq deb hisoblanadi. AQShda 8 mln dan ortiq bemor bor.",
+      "depth": 0
+     },
+     {
+      "text": "Belgilari: qayg'u, umidsizlik, ishtaha va jinsiy mayl yo'qolishi, uyqusizlik, psixomotor qo'zg'alish.",
+      "depth": 0
+     },
+     {
+      "text": "Manbalar:",
+      "depth": 0
+     },
+     {
+      "text": "Norepinefrin: locus ceruleus, limbik tizim, talamus va po'stloqqa boradi.",
+      "depth": 1
+     },
+     {
+      "text": "Serotonin: raphe yadrolari.",
+      "depth": 1
+     },
+     {
+      "text": "Dalillar:",
+      "depth": 0
+     },
+     {
+      "text": "Rezerpin (NE va serotonin sekretsiyasini bloklaydi) depressiya chaqiradi.",
+      "depth": 1
+     },
+     {
+      "text": "Bemorlarning taxminan 70% NE va serotonin ta'sirini kuchaytiruvchi dorilar bilan davolanadi: MAO ingibitorlari (parchalanishni bloklaydi) va trisiklik antidepressantlar (imipramin, amitriptilin; qayta so'rilishni bloklaydi).",
+      "depth": 1
+     },
+     {
+      "text": "Maniya (bipolyar yoki manik-depressiv psixoz) bosqichida litiy samarali, u NE va serotonin hosil bo'lishi yoki ta'sirini kamaytiradi.",
+      "depth": 0
+     },
+     {
+      "text": "Bu tizimlar limbik sohalarga baxt, qoniqish, ishtaha va muvozanat uchun \"drive\" beradi. Ortiqchasi maniya keltiradi. Mukofot markazlari bu tolalarni ko'p qabul qiladi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch60-u55"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Shizofreniya:**",
+    "bid": "ch60-u56"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Belgilari: ovozlar eshitish, vasvasa, qo'rquv, paranoya, tartibsiz nutq va fikr, odamovilik, rigidlik.",
+      "depth": 0
+     },
+     {
+      "text": "Uchta ehtimoliy sabab:",
+      "depth": 0
+     },
+     {
+      "text": "**Prefrontal po'stloqda glutamatga sezgirlik yo'qolishi.** Maymunlarda ko'p mayda prefrontal lezyonlar shizofreniyaga o'xshash holat beradi.",
+      "depth": 1
+     },
+     {
+      "text": "**Dopamin ortiqchaligi.**",
+      "depth": 1
+     },
+     {
+      "text": "Parkinson bemorlarida L-dopa shizofreniyaga o'xshash belgilar chaqiradi.",
+      "depth": 2
+     },
+     {
+      "text": "Taxmin: mezensefalonning ventral tegmentumidan chiqadigan **mezolimbik dopaminergik tizim** gippokamp, amigdala, oldingi kaudat va prefrontal sohalarga ortiqcha dopamin yuboradi.",
+      "depth": 2
+     },
+     {
+      "text": "Xlorpromazin, galoperidol, tiotiksen dopamin sekretsiyasi yoki ta'sirini kamaytiradi.",
+      "depth": 2
+     },
+     {
+      "text": "**Gippokamp disfunksiyasi:** gippokamp ko'pincha kichraygan, ayniqsa dominant yarim sharda.",
+      "depth": 1
+     }
+    ],
+    "bid": "ch60-u57"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Alzheimer kasalligi:**",
+    "bid": "ch60-u58"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Miyaning erta qarishi. Asosan amnestik xotira buzilishi, nutq yomonlashuvi va ko'rish-fazoviy kamchiliklar bilan kechadi.",
+      "depth": 0
+     },
+     {
+      "text": "Motor va sezgi buzilishlari, yurish buzilishi va tutqanoqlar faqat kech bosqichda uchraydi.",
+      "depth": 0
+     },
+     {
+      "text": "Xotirani boshqaruvchi limbik yo'l neyronlari nobud bo'ladi.",
+      "depth": 0
+     },
+     {
+      "text": "Progressiv va o'limga olib keluvchi kasallik, bir necha yilda doimiy parvarish talab qilinadi.",
+      "depth": 0
+     },
+     {
+      "text": "AQShda 5.5 mln dan ortiq bemor, taxminan uchdan ikkisi ayollar. 65 yoshdan keyin har 5 yilda ulush ikki baravar oshadi, 85 yoshda taxminan 30%.",
+      "depth": 0
+     },
+     {
+      "text": "**Beta-amiloid peptid** 10 µm dan bir necha yuz µm gacha bo'lgan plaklarda to'planadi: po'stloq, gippokamp, bazal gangliyalar, talamus, hatto miyacha.",
+      "depth": 0
+     },
+     {
+      "text": "Amiloidning roli dalillari:",
+      "depth": 0
+     },
+     {
+      "text": "Barcha ma'lum mutatsiyalar amiloid hosil bo'lishini oshiradi.",
+      "depth": 1
+     },
+     {
+      "text": "Trisomiya 21 (Down) bemorlarida APP genining 3 nusxasi bor va o'rta yoshda Alzheimer belgilari paydo bo'ladi.",
+      "depth": 1
+     },
+     {
+      "text": "Apolipoprotein E geni anomaliyasi xavfni keskin oshiradi.",
+      "depth": 1
+     },
+     {
+      "text": "APP ni ortiqcha ishlab chiqaruvchi transgen sichqonlarda xotira buziladi.",
+      "depth": 1
+     },
+     {
+      "text": "Anti-amiloid antitanachalar kasallikni sekinlashtiradi.",
+      "depth": 1
+     },
+     {
+      "text": "**Qon tomir omillari:**",
+      "depth": 0
+     },
+     {
+      "text": "Gipertenziya va ateroskleroz muhim. Serebrovaskulyar kasallik demensiyaning 2-sababi.",
+      "depth": 1
+     },
+     {
+      "text": "Gipertenziya, diabet va giperlipidemiya xavfni oshiradi.",
+      "depth": 1
+     },
+     {
+      "text": "Demensiyali miyalarning 10–20% ida faqat vaskulyar demensiya bo'ladi.",
+      "depth": 1
+     },
+     {
+      "text": "Keksa Alzheimer bemorlarining taxminan 50% ida \"jim insultlar\" bor.",
+      "depth": 1
+     }
+    ],
+    "bid": "ch60-u59"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Klinik nuqtalar",
+    "id": "ch60-s-60-klinik-nuqtalar",
+    "bid": "ch60-u60"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Narkolepsiya: oreksin yo'qolishi.",
+      "depth": 0
+     },
+     {
+      "text": "Uyqu markazlari shikasti uyqusizlik beradi.",
+      "depth": 0
+     },
+     {
+      "text": "EEG epilepsiya turlarini aniqlashda ishlatiladi: grand mal, petit mal (spike and dome), psixomotor.",
+      "depth": 0
+     },
+     {
+      "text": "Antiepileptik dorilarning mexanizmlari yuqorida.",
+      "depth": 0
+     },
+     {
+      "text": "Depressiya: MAO ingibitorlari, trisiklik antidepressantlar. Maniya: litiy. Shizofreniya: dopamin antagonistlari.",
+      "depth": 0
+     },
+     {
+      "text": "Alzheimer: amiloid, ApoE, Down sindromi, vaskulyar xavf omillari.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch60-u61"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Bog'liqlik",
+    "id": "ch60-s-62-bogliqlik",
+    "bid": "ch60-u62"
+   },
+   {
+    "type": "paragraph",
+    "text": "49 (raphe va og'riq), 57 (Parkinson, Huntington), 58 (xotira), 59 (faollashtiruvchi tizimlar, limbik tizim).",
+    "bid": "ch60-u63"
+   }
+  ],
+  "full": [
+   {
+    "type": "paragraph",
+    "text": "All of us are aware of the many different states of brain activity, including sleep, wakefulness, extreme excite ment, and even different levels of mood such as exhila ration, depression, and fear. All these states result from different activating or inhibiting forces generated usually within the brain. In Chapter 59, we began a partial discus sion of this subject when we described different systems that are capable of activating large portions of the brain. In this chapter, we present brief surveys of specific states of brain activity, beginning with sleep.",
+    "pdfPage": 713,
+    "bid": "ch60-f0"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "SLEEP",
+    "pdfPage": 713,
+    "id": "ch60-h-sleep",
+    "bid": "ch60-f1"
+   },
+   {
+    "type": "paragraph",
+    "text": "Sleep is defined as unconsciousness from which a per son can be aroused by sensory or other stimuli. It is to be distinguished from _coma,_ which is unconsciousness from which a person cannot be aroused. There are mul tiple stages of sleep, from very light sleep to very deep sleep. Sleep researchers also divide sleep into two entirely different types of sleep that have different qualities, as described in the following section.",
+    "pdfPage": 713,
+    "bid": "ch60-f2"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "TWO TYPES OF SLEEP—SLOW-WAVE SLEEP AND RAPID EYE MOVEMENT SLEEP",
+    "pdfPage": 713,
+    "id": "ch60-h-two-types-of-sleep-slow-wave-sleep-and-rapid-eye-movement-sl",
+    "bid": "ch60-f3"
+   },
+   {
+    "type": "paragraph",
+    "text": "Each night, a person goes through stages of two major types of sleep that alternate with each other (**Figure 60-1**). These types are called (1) _rapid eye movement sleep_ (REM sleep), in which the eyes undergo rapid movements even though the person is still asleep, and (2) _slow-wave sleep_ or _non-REM_ (NREM) _sleep_, in which the brain waves are strong and of low frequency, as we discuss later.",
+    "pdfPage": 713,
+    "bid": "ch60-f4"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-60-01",
+    "bid": "ch60-f5"
+   },
+   {
+    "type": "paragraph",
+    "text": "REM sleep occurs in episodes that occupy about 25% of the sleep time in young adults; each episode normally recurs about every 90 minutes. This type of sleep is not so restful, and it is often associated with vivid dreaming. Most sleep during each night is of the slow-wave (NREM) variety, which is the deep, restful sleep that the person experiences during the first hour of sleep after having been awake for many hours.",
+    "pdfPage": 713,
+    "bid": "ch60-f6"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "REM (Paradoxical, Desynchronized) Sleep",
+    "pdfPage": 713,
+    "id": "ch60-h-rem-paradoxical-desynchronized-sleep",
+    "bid": "ch60-f7"
+   },
+   {
+    "type": "paragraph",
+    "text": "In a normal night of sleep, bouts of REM sleep lasting 5 to 30 minutes usually appear on average every 90 minutes in young adults. When a person is extremely sleepy, each bout of REM sleep is short and may even be absent. As the person becomes more rested through the night, the durations of the REM bouts increase.",
+    "pdfPage": 713,
+    "bid": "ch60-f8"
+   },
+   {
+    "type": "paragraph",
+    "text": "REM sleep has several important characteristics: 1. \u0007It is an active form of sleep usually associated with dreaming and active bodily muscle movements. 2. \u0007The person is even more difficult to arouse by sen sory stimuli than during deep slow-wave sleep, and yet people usually awaken spontaneously in the morning during an episode of REM sleep. 3. \u0007Muscle tone throughout the body is exceedingly depressed, indicating strong inhibition of the spinal muscle control areas. 4. \u0007Heart rate and respiratory rate usually become ir regular, which is characteristic of the dream state. 5. \u0007Despite the extreme inhibition of the peripheral muscles, irregular muscle movements do occur in addition to the rapid movements of the eyes. 6. \u0007The brain is highly active in REM sleep, and overall brain metabolism may be increased as much as 20%. An electroencephalogram (EEG) shows a pattern of brain waves similar to those that occur during wakefulness. This type of sleep is also called _para doxical_ sleep because it is a paradox that a person can still be asleep, despite the presence of marked activity in the brain. In summary, REM sleep is a type of sleep in which the brain is quite active. However, the person is not fully aware of the surroundings and therefore is truly asleep.",
+    "pdfPage": 713,
+    "bid": "ch60-f9"
+   },
+   {
+    "type": "paragraph",
+    "text": "We can understand the characteristics of deep slow-wave sleep by remembering the last time we were kept awake for more than 24 hours and the deep sleep that occurred dur ing the first hour after going to sleep. This sleep is exceed ingly restful and is associated with decreases in peripheral vascular tone and many other vegetative functions of the body. For example, 10% to 30% decreases occur in blood pressure, respiratory rate, and basal metabolic rate.",
+    "pdfPage": 713,
+    "bid": "ch60-f10"
+   },
+   {
+    "type": "paragraph",
+    "text": "Although slow-wave sleep is frequently called “dream less sleep,” dreams and sometimes even nightmares do occur during slow-wave sleep. The difference between the dreams that occur in slow-wave sleep and those that occur in REM sleep is that those of REM sleep are associ ated with more bodily muscle activity. Also, the dreams of slow-wave sleep are usually not remembered because consolidation of the dreams in memory does not occur.",
+    "pdfPage": 713,
+    "pdfPageEnd": 714,
+    "bid": "ch60-f11"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "BASIC THEORIES OF SLEEP",
+    "pdfPage": 714,
+    "id": "ch60-h-basic-theories-of-sleep",
+    "bid": "ch60-f12"
+   },
+   {
+    "type": "paragraph",
+    "text": "An earlier theory of sleep was that the excitatory ar eas of the upper brain stem, the _reticular activating system,_ simply became fatigued during the waking day and became inactive as a result. An important experi ment changed this thinking to the current view that _sleep is caused by an active inhibitory process,_ because it was discovered that transecting the brain stem at the level of the midpons creates a brain cortex that never goes to sleep. In other words, a center located below the midpontile level of the brain stem appears to be required to cause sleep by inhibiting other parts of the brain.",
+    "pdfPage": 714,
+    "lead": "Sleep Is Caused by an Active Inhibitory Process.",
+    "anchor": "ch60-h-sleep-is-caused-by-an-active-inhibitory-process",
+    "bid": "ch60-f13"
+   },
+   {
+    "type": "heading",
+    "level": 4,
+    "text": "Neuronal Centers, Neurohumoral Substances, and Mechanisms That Can Cause Sleep—Possible Role for Serotonin",
+    "pdfPage": 714,
+    "id": "ch60-h-neuronal-centers-neurohumoral-substances-and-mechanisms-that",
+    "bid": "ch60-f14"
+   },
+   {
+    "type": "paragraph",
+    "text": "Stimulation of several specific areas of the brain can pro duce sleep with characteristics near those of natural sleep. Some of these areas are the following: 1. \u0007The _raphe nuclei in the lower half of the pons and in the medulla_ is the most conspicuous stimulation area for causing almost natural sleep. These nuclei comprise a thin sheet of special neurons located in the midline. Nerve fibers from these nuclei spread locally in the brain stem reticular formation and also upward into the thalamus, hypothalamus, most areas of the limbic system, and even the neocortex of the cerebrum. In addition, fibers extend down ward into the spinal cord, terminating in the poste rior horns, where they can inhibit incoming sensory signals, including pain, as discussed in Chapter 49. Many nerve endings of fibers from these raphe neu rons secrete _serotonin._ When a drug that blocks the formation of serotonin is administered to an animal, the animal often cannot sleep for the next several days. Therefore, it has been assumed that serotonin is a transmitter substance associated with the pro duction of sleep. 2. \u0007Stimulation of some areas in the _nucleus of the trac tus solitarius_ can also cause sleep. This nucleus is the termination in the medulla and pons for visceral sensory signals entering by way of the vagus and glossopharyngeal nerves. 3. \u0007Sleep can be promoted by stimulation of _several re gions in the diencephalon_, including (1) the rostral part of the hypothalamus, mainly in the suprachi asmal area, and (2) an occasional area in the diffuse nuclei of the thalamus.",
+    "pdfPage": 714,
+    "bid": "ch60-f15"
+   },
+   {
+    "type": "paragraph",
+    "text": "Discrete lesions in the _raphe nuclei_ lead to a high state of wakefulness. This phenomenon is also true of bilateral lesions in the _medial rostral suprachi asmal area in the anterior hypothalamus._ In both cases, the excitatory reticular nuclei of the mesencephalon and upper pons seem to become released from inhibition, thus causing intense wakefulness. Indeed, sometimes le sions of the anterior hypothalamus can cause such intense wakefulness that the animal actually dies of exhaustion.",
+    "pdfPage": 714,
+    "lead": "Lesions in Sleep-Promoting Centers Can Cause Intense Wakefulness.",
+    "pdfPageEnd": 715,
+    "bid": "ch60-f16"
+   },
+   {
+    "type": "paragraph",
+    "text": "Experiments have shown that the cerebrospinal fluid and the blood or urine of animals that have been kept awake for several days contain a substance or substances that will cause sleep when injected into the brain ven tricular system of another animal. One likely substance has been identified as _muramyl peptide,_ a low-molecularweight substance that accumulates in the cerebrospinal fluid and urine in animals kept awake for several days. When only micrograms of this sleep-producing sub stance are injected into the third ventricle, almost natural sleep occurs within a few minutes, and the animal may stay asleep for several hours.",
+    "pdfPage": 715,
+    "lead": "Other Possible Transmitter Substances Related to Sleep.",
+    "anchor": "ch60-h-other-possible-transmitter-substances-related-to-sleep",
+    "bid": "ch60-f17"
+   },
+   {
+    "type": "paragraph",
+    "text": "Another substance that has similar effects in causing sleep is _delta sleep–inducing peptide_, a nonapeptide found in the cerebrospinal fluid after electrical stimulation of the thalamus to induce sleep. Several other potential sleep factors, mostly peptides, have been isolated from the cerebrospinal fluid or neuronal tissues of the brain stem of animals kept awake for days. It is possible that prolonged wakefulness causes progressive accumulation of a sleep factor or factors in the brain stem or cerebrospinal fluid that lead(s) to sleep.",
+    "pdfPage": 715,
+    "bid": "ch60-f18"
+   },
+   {
+    "type": "paragraph",
+    "text": "It is not understood why slow-wave sleep is broken periodically by REM sleep. However, drugs that mimic the action of acetylcholine increase the occurrence of REM sleep. Therefore, it has been postulated that the large acetylcholine-secreting neurons in the upper brain stem reticular formation might, through their extensive efferent fibers, activate many portions of the brain. This mechanism theoretically could cause the increased activity that occurs in certain brain regions in REM sleep, even though the signals are not channeled appropriately in the brain to cause normal conscious awareness that is characteristic of wakefulness.",
+    "pdfPage": 715,
+    "lead": "Possible Cause of REM Sleep.",
+    "anchor": "ch60-h-possible-cause-of-rem-sleep",
+    "bid": "ch60-f19"
+   },
+   {
+    "type": "heading",
+    "level": 4,
+    "text": "Cycle Between Sleep and Wakefulness",
+    "pdfPage": 715,
+    "id": "ch60-h-cycle-between-sleep-and-wakefulness",
+    "bid": "ch60-f20"
+   },
+   {
+    "type": "paragraph",
+    "text": "The preceding discussions have merely identified neuro nal areas, transmitters, and mechanisms that are related to sleep; they have not explained the cyclical, reciprocal operation of the sleep-wakefulness cycle. There is as yet no definitive explanation. Therefore, we might suggest the following possible mechanism for causing the sleepwakefulness cycle.",
+    "pdfPage": 715,
+    "bid": "ch60-f21"
+   },
+   {
+    "type": "paragraph",
+    "text": "When the sleep centers are _not_ activated, the mesen cephalic and upper pontile reticular activating nuclei are released from inhibition, which allows the reticular acti vating nuclei to become spontaneously active. This spon taneous activity in turn excites both the cerebral cortex and the peripheral nervous system, both of which send numerous _positive feedback_ signals back to the same reticular activating nuclei to activate them still further.",
+    "pdfPage": 715,
+    "bid": "ch60-f22"
+   },
+   {
+    "type": "paragraph",
+    "text": "Therefore, once wakefulness begins, it has a natural ten dency to sustain itself because of all this positive feedback activity.",
+    "pdfPage": 715,
+    "bid": "ch60-f23"
+   },
+   {
+    "type": "paragraph",
+    "text": "Then, after the brain remains activated for many hours, even the neurons in the activating system presumably become fatigued. Consequently, the positive feedback cycle between the mesencephalic reticular nuclei and the cerebral cortex fades and the sleep-promoting effects of the sleep centers take over, leading to rapid transition from wakefulness back to sleep.",
+    "pdfPage": 715,
+    "bid": "ch60-f24"
+   },
+   {
+    "type": "paragraph",
+    "text": "This overall theory could explain the rapid transitions from sleep to wakefulness and from wakefulness to sleep. It could also explain arousal—that is, the insomnia that occurs when a person’s mind becomes preoccupied with a thought—and the wakefulness that is produced by bodily physical activity.",
+    "pdfPage": 715,
+    "bid": "ch60-f25"
+   },
+   {
+    "type": "paragraph",
+    "text": "_Orexin_ (also called _hypocretin)_ is produced by neurons in the hypothalamus that provide excitatory input to many other areas of the brain where there are orexin receptors. Orexin neurons are most active during waking and almost stop firing during slow wave and REM sleep. Loss of orexin signaling as a result of defective orexin receptors or de struction of orexin-producing neurons causes _narcolepsy_, a sleep disorder characterized by overwhelming daytime drowsiness and sudden attacks of sleep that can occur, even when a person is talking or working. Patients with narcolepsy may also experience a sudden loss of muscle tone _(cataplexy)_ that can be partial or even severe enough to cause paralysis during the attack. These observations point to an important role for orexin neurons in maintain ing wakefulness, but their contribution to the normal daily cycle between sleep and wakefulness is unclear.",
+    "pdfPage": 715,
+    "lead": "Role of Orexin Neurons in Arousal and Wakefulness.",
+    "boxed": true,
+    "bid": "ch60-f26"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "SLEEP HAS IMPORTANT PHYSIOLOGICAL FUNCTIONS",
+    "pdfPage": 715,
+    "id": "ch60-h-sleep-has-important-physiological-functions",
+    "bid": "ch60-f27"
+   },
+   {
+    "type": "paragraph",
+    "text": "There is little doubt that sleep has important functions. It exists in all mammals, and after total deprivation there is usually a period of “catch-up” or “rebound” sleep; after selec tive deprivation of REM or slow-wave sleep, there is also a selective rebound of these specific stages of sleep. Even mild sleep restriction over a few days may degrade cogni tive and physical performance, overall productivity, and the health of a person. The essential role of sleep in homeostasis is perhaps most vividly demonstrated by the fact that rats deprived of sleep for 2 to 3 weeks may actually die. Despite the obvious importance of sleep, our understanding of why sleep is an essential part of life is still limited.",
+    "pdfPage": 715,
+    "bid": "ch60-f28"
+   },
+   {
+    "type": "paragraph",
+    "text": "Sleep causes two major types of physiological effects: first, effects on the nervous system, and second, effects on other functional systems of the body. Mammals, and even invertebrate animals, sleep more in the setting of infec tious as well as non-infectious illnesses. Sickness-induced sleep has been suggested to be a beneficial response that diverts the organism’s energy resources from neural and motor demands to fighting off infectious or injurious insults.",
+    "pdfPage": 715,
+    "bid": "ch60-f29"
+   },
+   {
+    "type": "paragraph",
+    "text": "Lack of sleep certainly affects the functions of the central nervous system. Prolonged wakefulness is often associated with progressive malfunction of the thought processes and sometimes even causes abnormal behav ioral activities. We are all familiar with the increased sluggishness of thought that occurs toward the end of a prolonged wakeful period, but in addition, a person can become irritable or even psychotic after forced wake fulness. Therefore, we can assume that sleep in multiple ways restores both normal levels of brain activity and nor mal “balance” among the different functions of the central nervous system.",
+    "pdfPage": 716,
+    "bid": "ch60-f30"
+   },
+   {
+    "type": "paragraph",
+    "text": "Sleep has been postulated to serve many functions, including the following: (1) neural maturation; (2) facilita tion of learning or memory; (3) targeted erasure of syn apses to “forget” unimportant information that might clutter the synaptic network; (4) cognition; (5) clearance of metabolic waste products generated by neural activ ity in the awake brain; and (6) conservation of metabolic energy. There is some evidence for each of these func tions, but evidence supporting each of these ideas has been challenged. We might postulate that _the principal value of sleep is to restore natural balances among the neu ronal centers,_ which is necessary for overall health_._ The specific physiological functions of sleep, however, remain a mystery and are the subject of much research.",
+    "pdfPage": 716,
+    "bid": "ch60-f31"
+   },
+   {
+    "type": "paragraph",
+    "text": "Electrical recordings from the surface of the brain or even from the outer surface of the head demonstrate that there is continuous electrical activity in the brain. Both the intensity and the patterns of this electrical activity are determined by the level of excitation of different parts of the brain resulting from _sleep, wakefulness,_ or brain disorders such as _epilepsy_ or even _psychoses._ The undulations in the recorded electrical potentials, shown in **Figure 60-2**, are called _brain waves,_ and the entire record is called an _electroencephalogram_ (EEG).",
+    "pdfPage": 716,
+    "boxed": true,
+    "bid": "ch60-f32"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-60-02",
+    "bid": "ch60-f33"
+   },
+   {
+    "type": "paragraph",
+    "text": "The intensities of brain waves recorded from the sur face of the scalp range from 0 to 200 microvolts, and their frequencies range from once every few seconds to 50 or more per second. The character of the waves is dependent on the degree of activity in respective parts of the cerebral cortex, and the waves change markedly between the states of wakefulness and sleep and coma.",
+    "pdfPage": 716,
+    "boxed": true,
+    "bid": "ch60-f34"
+   },
+   {
+    "type": "paragraph",
+    "text": "Much of the time, the brain waves are irregular and no specific pattern can be discerned in the EEG. At other times, distinct patterns do appear, some of which are char acteristic of specific abnormalities of the brain such as epi lepsy, which is discussed later.",
+    "pdfPage": 716,
+    "boxed": true,
+    "bid": "ch60-f35"
+   },
+   {
+    "type": "paragraph",
+    "text": "In healthy people, most waves in the EEG can be classi fied as _alpha, beta, theta,_ and _delta waves,_ which are shown in **Figure 60-2**.",
+    "pdfPage": 716,
+    "boxed": true,
+    "bid": "ch60-f36"
+   },
+   {
+    "type": "paragraph",
+    "text": "_Alpha waves_ are rhythmical waves that occur at fre quencies between 8 and 13 cycles/sec and are found in the EEGs of almost all healthy adults when they are awake and in a quiet, resting state of cerebration. These waves occur most intensely in the occipital region but can also be re corded from the parietal and frontal regions of the scalp.",
+    "pdfPage": 716,
+    "boxed": true,
+    "bid": "ch60-f37"
+   },
+   {
+    "type": "paragraph",
+    "text": "Their voltage is usually about 50 microvolts. During deep sleep, the alpha waves disappear.",
+    "pdfPage": 716,
+    "boxed": true,
+    "bid": "ch60-f38"
+   },
+   {
+    "type": "paragraph",
+    "text": "When the awake person’s attention is directed to some specific type of mental activity, the alpha waves are replaced by asynchronous, higher frequency but lower voltage _beta waves._ **Figure 60-3** shows the effect on the alpha waves of simply opening the eyes in bright light and then closing the eyes. Note that the visual sensations cause immediate ces sation of the alpha waves and that these waves are replaced by low-voltage, asynchronous beta waves.",
+    "pdfPage": 716,
+    "boxed": true,
+    "bid": "ch60-f39"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-60-03",
+    "bid": "ch60-f40"
+   },
+   {
+    "type": "paragraph",
+    "text": "_Beta waves_ occur at frequencies greater than 14 cycles/ sec and as high as 80 cycles/sec. They are recorded mainly from the parietal and frontal regions during specific activa tion of these parts of the brain.",
+    "pdfPage": 716,
+    "boxed": true,
+    "bid": "ch60-f41"
+   },
+   {
+    "type": "paragraph",
+    "text": "_Theta waves_ have frequencies between four and 7 cy cles/sec. They occur normally in the parietal and temporal regions in children, but they also occur during emotional stress in some adults, particularly during disappointment and frustration. Theta waves also occur in many brain dis orders, often in degenerative brain states.",
+    "pdfPage": 716,
+    "boxed": true,
+    "bid": "ch60-f42"
+   },
+   {
+    "type": "paragraph",
+    "text": "_Delta waves_ include all the waves of the EEG with fre quencies less than 3.5 cycles/sec, and they often have volt ages two to four times greater than most other types of brain waves. They occur in very deep sleep, in infancy, and in per sons with serious organic brain disease. They also occur in the cortex of animals that have had subcortical transections in which the cerebral cortex is separated from the thalamus. Therefore, delta waves can occur strictly in the cortex inde pendent of activities in lower regions of the brain.",
+    "pdfPage": 716,
+    "boxed": true,
+    "bid": "ch60-f43"
+   },
+   {
+    "type": "paragraph",
+    "text": "The discharge of a single neuron or single nerve fiber in the brain can never be recorded from the surface of the head. Instead, many thousands or even millions of neurons or fibers _must fire synchronously_ for the potentials from the individual neurons or fibers to summate enough to be re corded through the skull. Thus, the intensity of the brain waves from the scalp is determined mainly by the numbers of neurons and fibers that fire _in synchrony_ with one an other, not by the total level of electrical activity in the brain. In fact, strong _nonsynchronous_ nerve signals often nullify one another in the recorded brain waves because of oppos ing polarities. This phenomenon is demonstrated in **Figure 60-3**, which shows, when the eyes were closed, synchro nous discharge of many neurons in the cerebral cortex at a frequency of about 12/sec, thus causing _alpha waves._ Then, when the eyes were opened, the activity of the brain in creased greatly, but synchronization of the signals became so little that the brain waves mainly nullified one another. The resultant effect was low voltage waves of generally high but irregular frequency, the _beta waves._",
+    "pdfPage": 716,
+    "boxed": true,
+    "pdfPageEnd": 717,
+    "bid": "ch60-f44"
+   },
+   {
+    "type": "paragraph",
+    "text": "Alpha waves will _not_ occur in the cerebral cortex without cortical connections with the thalamus. Conversely, stimulation in the nonspecific layer of _reticular nuclei_ that surround the thalamus or in “dif fuse” nuclei deep inside the thalamus often sets up elec trical waves in the thalamocortical system at a frequency between 8 and 13/sec, which is the natural frequency of the alpha waves. Therefore, alpha waves are thought to re sult from spontaneous feedback oscillation in this diffuse thalamocortical system, possibly including the reticular ac tivating system in the brain stem as well. This oscillation presumably causes the periodicity of the alpha waves and the synchronous activation of literally millions of cortical neurons during each wave.",
+    "pdfPage": 717,
+    "lead": "Origin of Alpha Waves.",
+    "boxed": true,
+    "bid": "ch60-f45"
+   },
+   {
+    "type": "paragraph",
+    "text": "Transection of the fiber tracts from the thalamus to the cerebral cortex, which blocks tha lamic activation of the cortex and thereby eliminates the alpha waves, nevertheless does not block delta waves in the cortex. This indicates that some synchronizing mechanism can occur in the cortical neuronal system by itself—mainly independent of lower structures in the brain—to cause the delta waves.",
+    "pdfPage": 717,
+    "lead": "Origin of Delta Waves.",
+    "boxed": true,
+    "bid": "ch60-f46"
+   },
+   {
+    "type": "paragraph",
+    "text": "Delta waves also occur during deep slow-wave sleep, which suggests that the cortex then is mainly released from the activating influences of the thalamus and other lower centers.",
+    "pdfPage": 717,
+    "boxed": true,
+    "bid": "ch60-f47"
+   },
+   {
+    "type": "paragraph",
+    "text": "There is a general correlation between level of cerebral ac tivity and average frequency of the EEG rhythm, with the average frequency increasing progressively with higher degrees of activity. This is demonstrated in **Figure 60-4**, which shows the existence of delta waves in surgical anes thesia and deep sleep, theta waves in psychomotor states, alpha waves during relaxed states, and beta waves during periods of intense mental activity or fright. _During periods of mental activity, the waves usually become asynchronous rather than synchronous, so the voltage falls considerably_",
+    "pdfPage": 717,
+    "boxed": true,
+    "bid": "ch60-f48"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-60-04",
+    "bid": "ch60-f49"
+   },
+   {
+    "type": "paragraph",
+    "text": "_despite markedly increased cortical activity,_ as shown in **Figure 60-3.**",
+    "pdfPage": 717,
+    "boxed": true,
+    "bid": "ch60-f50"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 60-1** shows typical EEG patterns in different stages of wakefulness and sleep. Alert wakefulness is character ized by high-frequency _beta waves,_ whereas quiet wakeful ness is usually associated with _alpha waves,_ as demonstrat ed by the first two EEGs of the figure.",
+    "pdfPage": 717,
+    "boxed": true,
+    "bid": "ch60-f51"
+   },
+   {
+    "type": "paragraph",
+    "text": "Slow-wave sleep is divided into four stages. In the first stage, a stage of light sleep, the voltage of the EEG waves becomes low. This stage is broken by “_sleep spindles_” (i.e., short spindle-shaped bursts of alpha waves that occur pe riodically). In stages 2, 3, and 4 of slow-wave sleep, the fre quency of the EEG becomes progressively slower until it reaches a frequency of only one to three waves per second in stage 4; these waves are _delta waves._",
+    "pdfPage": 717,
+    "boxed": true,
+    "bid": "ch60-f52"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 60-1** also shows the EEG during REM sleep. It is often difficult to tell the difference between this brain wave pattern and that of an awake, active person. The waves are irregular and of high frequency, which are normally sug gestive of desynchronized nervous activity as found in the awake state. Therefore, REM sleep is frequently called _de synchronized sleep_ because there is lack of synchrony in the firing of the neurons despite significant brain activity.",
+    "pdfPage": 717,
+    "boxed": true,
+    "bid": "ch60-f53"
+   },
+   {
+    "type": "paragraph",
+    "text": "Seizures are temporary disruptions of brain function caused by uncontrolled excessive neuronal activity. De pending on the distribution of neuronal discharges, seizure manifestations can range from experiential phenomena that are barely noticeable to dramatic convulsions. These temporary _symptomatic_ seizures usually do not persist if the underlying disorder is corrected. They can be caused by multiple neurological or medical conditions, such as acute electrolyte disorders, hypoglycemia, drugs (e.g., cocaine), eclampsia, kidney failure, hypertensive encephalopathy, meningitis, and so forth. Approximately 5% to 10% of the population will have at least one seizure in their lifetime.",
+    "pdfPage": 717,
+    "boxed": true,
+    "bid": "ch60-f54"
+   },
+   {
+    "type": "paragraph",
+    "text": "In contrast to symptomatic seizures, _epilepsy_ is a chronic condition of _recurrent seizures_ that can also vary from brief and nearly undetectable symptoms to periods of vigorous shaking and convulsions. Epilepsy is not a single disease. Its clinical symptoms are heterogeneous and reflect multi ple underlying pathophysiological mechanisms that cause cerebral dysfunction and injury, such as trauma, stroke, tumors, infection, or degenerative changes. Hereditary fac tors appear to be important, although a specific cause can not be identified in many patients and several factors may coexist, reflecting an acquired brain pathology and genetic predisposition. Epilepsy is estimated to affect approximate ly 1% of the population, or 65 million people worldwide.",
+    "pdfPage": 717,
+    "boxed": true,
+    "bid": "ch60-f55"
+   },
+   {
+    "type": "paragraph",
+    "text": "At a basic level an epileptic seizure is caused by a disrup tion of the normal balance between inhibitory and excita tory currents or transmission in one or more regions of the brain. Drugs or pathological factors that increase neuronal excitation or impair inhibition tend to be _epileptogenic_ (i.e., predisposing a person to epilepsy), whereas effective antie pileptic drugs attenuate excitation and facilitate inhibition. In cases in which a person has brain injury due to trauma, stroke, or infection, there may be a delay of several months or years after the injury before the seizures begin.",
+    "pdfPage": 718,
+    "boxed": true,
+    "bid": "ch60-f56"
+   },
+   {
+    "type": "paragraph",
+    "text": "Epileptic seizures can be classified into two major types: (1) _focal seizures_ (also called _partial seizures_) that are lim ited to a focal area of one cerebral hemisphere, and (2) _gen eralized seizures_ that diffusely involve both hemispheres of the cerebral cortex. However, partial seizures may some times evolve into generalized seizures.",
+    "pdfPage": 718,
+    "boxed": true,
+    "bid": "ch60-f57"
+   },
+   {
+    "type": "paragraph",
+    "text": "Focal epileptic seizures begin in a small localized region of the cerebral cortex or deeper structures of the cer ebrum and brain stem and have clinical manifestations that reflect the function of the affected brain area. Most often, focal epilepsy results from some localized organic lesion or functional abnormality, such as (1) scar tissue in the brain that pulls on the adjacent neuronal tissue, (2) a tumor that compresses an area of the brain, (3) a de stroyed area of brain tissue, or (4) congenitally deranged local circuitry.",
+    "pdfPage": 718,
+    "boxed": true,
+    "bid": "ch60-f58"
+   },
+   {
+    "type": "paragraph",
+    "text": "These lesions can promote extremely rapid discharges in the local neurons; when the discharge rate rises above several hundred per second, synchronous waves begin to spread over adjacent cortical regions. These waves presum ably result from _localized reverberating circuits_ that may gradually recruit adjacent areas of the cortex into the epi leptic discharge zone. The process spreads to adjacent areas at a rate as slow as a few millimeters per minute to as fast as several centimeters per second.",
+    "pdfPage": 718,
+    "boxed": true,
+    "bid": "ch60-f59"
+   },
+   {
+    "type": "paragraph",
+    "text": "Focal seizures can spread locally from a focus or more re motely to the contralateral cortex and subcortical areas of the brain through projections to the thalamus, which has wide spread connections to both hemispheres (**Figure 60-5**). When such a wave of excitation spreads over the motor cortex, it causes a progressive “march” of muscle contractions through out the opposite side of the body, beginning most characteris tically in the mouth region and marching progressively down ward to the legs but at other times marching in the opposite direction. This phenomenon is called _Jacksonian march._",
+    "pdfPage": 718,
+    "boxed": true,
+    "bid": "ch60-f60"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-60-05",
+    "bid": "ch60-f61"
+   },
+   {
+    "type": "paragraph",
+    "text": "Focal seizures are often classified as _simple partial sei zures_ when there is no major change in consciousness or as _complex partial seizures_ when consciousness is impaired. Simple partial seizures may be preceded by an _aura_, with sensations such as fear, followed by motor signs, such as rhythmic jerking or tonic stiffening movements of a body part. A focal epileptic attack may remain confined to a single area of the brain, often the temporal lobe, but in some cases strong signals spread from the focal region, and the person may lose consciousness. Complex partial seizures may also begin with an aura followed by impaired consciousness and strange repetitive movements _(automatisms),_ such as chew ing or lip smacking. After recovery from the seizure the per son may have no memory of the attack, except for the aura.",
+    "pdfPage": 718,
+    "boxed": true,
+    "bid": "ch60-f62"
+   },
+   {
+    "type": "paragraph",
+    "text": "The time after the seizure, prior to the return of normal neu rological function, is called the _postictal period._",
+    "pdfPage": 718,
+    "boxed": true,
+    "bid": "ch60-f63"
+   },
+   {
+    "type": "paragraph",
+    "text": "_Psychomotor, temporal lobe,_ and _limbic seizures_ are terms that have been used in the past to describe many of the behaviors that are now classified as complex partial seizures. However, these terms are not synonymous. Com plex partial seizures can arise from regions other than the temporal lobe and do not always involve the limbic system. Also, automatisms (the “psychomotor” element) are not always present in complex partial seizures. Attacks of this type frequently involve part of the limbic portion of the brain, such as the hippocampus, the amygdala, the septum, and/or portions of the temporal cortex.",
+    "pdfPage": 718,
+    "boxed": true,
+    "pdfPageEnd": 719,
+    "bid": "ch60-f64"
+   },
+   {
+    "type": "paragraph",
+    "text": "The lowest tracing of **Figure 60-6** demonstrates a typi cal EEG during a psychomotor seizure, showing a lowfrequency rectangular wave with a frequency between 2 and 4/sec and with occasional superimposed 14/sec waves.",
+    "pdfPage": 719,
+    "boxed": true,
+    "bid": "ch60-f65"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-60-06",
+    "bid": "ch60-f66"
+   },
+   {
+    "type": "paragraph",
+    "text": "Generalized epileptic seizures are characterized by diffuse, excessive, and uncontrolled neuronal discharges that at the outset spread rapidly and simultaneously to both cerebral hemispheres through interconnections between the thala mus and cortex (**Figure 60-5**). However, it is sometimes difficult clinically to distinguish between a primary general ized seizure and a focal seizure that spreads rapidly. Gener alized seizures are subdivided primarily on the basis of the ictal motor manifestations which, in turn, depend on the extent to which subcortical and brain stem regions partici pate in the seizure.",
+    "pdfPage": 719,
+    "boxed": true,
+    "bid": "ch60-f67"
+   },
+   {
+    "type": "paragraph",
+    "text": "_Generalized tonic-clonic seizures_, previously called _grand mal seizures_, are characterized by an abrupt loss of con sciousness and extreme neuronal discharges in all areas of the brain—the cerebral cortex, the deeper parts of the cer ebrum, and even the brain stem. Also, discharges transmit ted all the way into the spinal cord sometimes cause gen eralized _tonic seizures_ of the entire body, followed toward the end of the attack by alternating tonic and spasmodic muscle contractions called _tonic-clonic seizures._ Often the person bites or “swallows” his or her tongue and may have difficulty breathing, sometimes to the extent that cyanosis occurs. Also, signals transmitted from the brain to the vis cera frequently cause urination and defecation.",
+    "pdfPage": 719,
+    "boxed": true,
+    "bid": "ch60-f68"
+   },
+   {
+    "type": "paragraph",
+    "text": "The usual generalized tonic-clonic seizure lasts from a few seconds to 3 to 4 minutes. It is also characterized by _postseizure depression_ of the entire nervous system; the person remains in stupor for 1 minute to many minutes after the seizure attack is over and then often remains se verely fatigued and asleep for hours thereafter.",
+    "pdfPage": 719,
+    "boxed": true,
+    "bid": "ch60-f69"
+   },
+   {
+    "type": "paragraph",
+    "text": "The top recording of **Figure 60-6** shows a typical EEG from almost any region of the cortex during the tonic phase of generalized tonic-clonic seizure. This demonstrates that high-voltage, high-frequency discharges occur over the en tire cortex. Furthermore, the same type of discharge occurs on both sides of the brain at the same time, demonstrating that the abnormal neuronal circuitry responsible for the at tack strongly involves the basal regions of the brain that drive the two halves of the cerebrum simultaneously.",
+    "pdfPage": 719,
+    "boxed": true,
+    "bid": "ch60-f70"
+   },
+   {
+    "type": "paragraph",
+    "text": "Electrical recordings from the thalamus, as well as from the reticular formation of the brain stem during the gen eralized tonic-clonic seizure, show typical high-voltage ac tivity in both of these areas similar to that recorded from the cerebral cortex. Therefore, a generalized tonic-clonic seizure presumably involves not only abnormal activation of the thalamus and cerebral cortex but also abnormal acti vation in the subthalamic brain stem portions of the brainactivating system.",
+    "pdfPage": 719,
+    "boxed": true,
+    "bid": "ch60-f71"
+   },
+   {
+    "type": "paragraph",
+    "text": "The majority of generalized seizures are _idiopathic,_ which means that the cause is unknown. Many people who have generalized tonic-clonic attacks have a heredi tary predisposition to epilepsy, a predisposition that oc curs in about 1 of every 100 persons. In these people, factors that can increase the excitability of the abnormal “epileptogenic” circuitry enough to precipitate attacks include (1) strong emotional stimuli, (2) alkalosis caused by overbreathing, (3) drugs, (4) fever, and (5) loud noises or flashing lights.",
+    "pdfPage": 719,
+    "lead": "What Initiates a Generalized Tonic-Clonic Seizure?",
+    "boxed": true,
+    "bid": "ch60-f72"
+   },
+   {
+    "type": "paragraph",
+    "text": "Even in people who are not genetically predisposed, certain types of traumatic lesions in almost any part of the brain can cause excess excitability of local brain areas, as we discuss shortly. These local brain areas also sometimes transmit signals into the activating systems of the brain to elicit tonic-clonic seizures.",
+    "pdfPage": 719,
+    "boxed": true,
+    "bid": "ch60-f73"
+   },
+   {
+    "type": "paragraph",
+    "text": "The extreme neuronal overactivity during a tonic-clonic attack is presumed to be caused by massive simultaneous activa tion of many reverberating neuronal pathways throughout the brain. Although the factors that terminate the attack are not well understood, it is likely that _active inhibition_ oc curs by inhibitory neurons that have been activated by the attack.",
+    "pdfPage": 719,
+    "lead": "What Stops the Generalized Tonic-Clonic Attack?",
+    "boxed": true,
+    "bid": "ch60-f74"
+   },
+   {
+    "type": "paragraph",
+    "text": "_Absence seizures_, formerly called _petit mal seizures_, usu ally begin in childhood or early adolescence and account for 15% to 20% of epilepsy cases in children. Absence sei zures almost certainly involve the thalamocortical brain activating system. They are usually characterized by 3 to 30 seconds of unconsciousness or diminished consciousness, during which time the person often stares and has twitch like contractions of muscles, usually in the head region, especially blinking of the eyes; this phase is followed by a rapid return of consciousness and resumption of previous activities. The total sequence is called the _absence syndrome_ or _absence epilepsy_.",
+    "pdfPage": 719,
+    "boxed": true,
+    "bid": "ch60-f75"
+   },
+   {
+    "type": "paragraph",
+    "text": "The patient may have one such attack in many months or, in rare cases, may have a rapid series of attacks, one after the other. The usual course is for the absence seizures to appear first during childhood or adolescence and then to disappear by the age of 30 years. On occasion, an absence seizure will initiate a generalized tonic-clonic (grand mal) attack.",
+    "pdfPage": 719,
+    "boxed": true,
+    "bid": "ch60-f76"
+   },
+   {
+    "type": "paragraph",
+    "text": "The brain wave pattern in a person with absence seizure epilepsy is demonstrated by the middle recording of **Figure 60-6**, which is typified by a _spike and dome pattern._ The spike and dome can be recorded over most or all of the cerebral cortex, showing that the seizure involves much or most of the thalamocortical activating system of the brain. In fact, animal studies suggest that it results from oscilla tion of (1) inhibitory thalamic reticular neurons (which are _inhibitory_ gamma-aminobutyric acid [GABA]-producing neurons) and (2) _excitatory_ thalamocortical and cortico thalamic neurons.",
+    "pdfPage": 719,
+    "boxed": true,
+    "pdfPageEnd": 720,
+    "bid": "ch60-f77"
+   },
+   {
+    "type": "paragraph",
+    "text": "Most of the currently available drugs used to treat epi lepsy appear to block the initiation or spread of seizures, although the precise mode of action for some drugs is un known or may involve multiple actions. Some of the major effects of various antiepileptic drugs include the following: (1) blockade of voltage-dependent sodium channels (e.g., carbamazepine and phenytoin); (2) altered calcium cur rents (e.g., ethosuximide); (3) an increase in GABA activity (e.g., phenobarbital and benzodiazepines); (4) inhibition of receptors for glutamate, the most prevalent excitatory neu rotransmitter (e.g., perampanel); and (5) multiple mecha nisms of action (e.g., valproate and topiramate, which block voltage-dependent sodium channels and increase GABA levels in the brain). The choice of antiepileptic drug rec ommended by current guidelines depends on the type of seizure, the age of the patient, and other factors, but cor rection of the underlying cause of the seizures is the best option when possible.",
+    "pdfPage": 720,
+    "boxed": true,
+    "bid": "ch60-f78"
+   },
+   {
+    "type": "paragraph",
+    "text": "Epilepsy can usually be controlled with appropriate medications. However, when the epilepsy is medically in tractable and does not respond to treatments, the EEG can sometimes be used to localize abnormal spiking waves origi nating in areas of organic brain disease that predispose to focal epileptic attacks. Once such a focal point is found, sur gical excision of the focus frequently prevents future attacks.",
+    "pdfPage": 720,
+    "boxed": true,
+    "bid": "ch60-f79"
+   },
+   {
+    "type": "paragraph",
+    "text": "",
+    "pdfPage": 720,
+    "lead": "Roles of Specific Neurotransmitter Systems in Brain Disorders",
+    "bid": "ch60-f80"
+   },
+   {
+    "type": "paragraph",
+    "text": "Clinical studies of patients with different psychoses or dif ferent types of dementia have suggested that many of these conditions result from diminished function of neurons that secrete a specific neurotransmitter. Use of appropriate drugs to counteract loss of the respective neurotransmitter has been successful in treating some patients.",
+    "pdfPage": 720,
+    "boxed": true,
+    "bid": "ch60-f81"
+   },
+   {
+    "type": "paragraph",
+    "text": "In Chapter 57, we discussed the cause of Parkinson's disease, which results from loss of neurons in the substan tia nigra, whose nerve endings secrete _dopamine_ in the cau date nucleus and putamen. Also in Chapter 57, we pointed out that in Huntington's disease, loss of GABA-secreting neurons and acetylcholine-secreting neurons is associated with _specific abnormal motor patterns_ plus _dementia_ oc curring in the same patient.",
+    "pdfPage": 720,
+    "boxed": true,
+    "bid": "ch60-f82"
+   },
+   {
+    "type": "paragraph",
+    "text": "Evidence has accumulated suggesting that _mental depres sion psychosis,_ which occurs in more than 8 million people in the United States, might be caused by _diminished for mation in the brain of norepinephrine or serotonin, or both_. (New evidence has implicated still other neurotransmit ters.) Depressed patients experience symptoms of grief, unhappiness, despair, and misery. In addition, they often lose their appetite and sex drive and have severe insomnia. Often associated with these symptoms is a state of psycho motor agitation despite the depression.",
+    "pdfPage": 720,
+    "boxed": true,
+    "bid": "ch60-f83"
+   },
+   {
+    "type": "paragraph",
+    "text": "Moderate numbers of _norepinephrine-secreting neurons_ are located in the brain stem, especially in the _locus ceruleus._ These neurons send fibers upward to most parts of the brain limbic system, thalamus, and cerebral cortex. Also, many _serotonin-producing neurons_ located in the _midline raphe nuclei_ of the lower pons and medulla send fibers to many ar eas of the limbic system and to some other areas of the brain.",
+    "pdfPage": 720,
+    "boxed": true,
+    "bid": "ch60-f84"
+   },
+   {
+    "type": "paragraph",
+    "text": "A principal reason for believing that depression might be caused by diminished activity of norepinephrine- and serotonin-secreting neurons is that drugs that block se cretion of norepinephrine and serotonin, such as reser pine, frequently cause depression. Conversely, about 70% of depressive patients can be treated effectively with drugs that increase the excitatory effects of norepinephrine and serotonin at the nerve endings, for example, as follows: (1) _monoamine oxidase inhibitors,_ which block destruction of norepinephrine and serotonin once they are formed, and (2) _tricyclic antidepressants,_ such as _imipramine_ and _ami triptyline,_ which block reuptake of norepinephrine and ser otonin by nerve endings so that these transmitters remain active for longer periods after secretion.",
+    "pdfPage": 720,
+    "boxed": true,
+    "bid": "ch60-f85"
+   },
+   {
+    "type": "paragraph",
+    "text": "Some patients with mental depression alternate be tween depression and mania, which is called either _bipolar disorder_ or _manic-depressive psychosis,_ and fewer patients exhibit only mania without the depressive episodes. Drugs that diminish the formation or action of norepinephrine and serotonin, such as lithium compounds, can be effective in treating the manic phase of the condition.",
+    "pdfPage": 720,
+    "boxed": true,
+    "bid": "ch60-f86"
+   },
+   {
+    "type": "paragraph",
+    "text": "It is presumed that the norepinephrine and serotonin systems normally provide drive to the limbic areas of the brain to increase a person’s sense of well-being and to cre ate happiness, contentment, good appetite, appropriate sex drive, and psychomotor balance—although too much of a good thing can cause mania. In support of this concept is the fact that pleasure and reward centers of the hypothala mus and surrounding areas receive large numbers of nerve endings from the norepinephrine and serotonin systems.",
+    "pdfPage": 720,
+    "boxed": true,
+    "bid": "ch60-f87"
+   },
+   {
+    "type": "paragraph",
+    "text": "Schizophrenia comes in many varieties. One of the most common types is seen in the person who hears voices and has delusions, intense fear, or other types of feelings that are unreal. Many schizophrenics are highly paranoid, with a sense of persecution from outside sources. They may de velop incoherent speech, dissociation of ideas, and abnor mal sequences of thought, and they are often withdrawn, sometimes with abnormal posture and even rigidity.",
+    "pdfPage": 720,
+    "boxed": true,
+    "bid": "ch60-f88"
+   },
+   {
+    "type": "paragraph",
+    "text": "There are reasons to believe that schizophrenia results from one or more of three possibilities: (1) multiple areas in the cerebral cortex _prefrontal lobes_ in which neural signals have become blocked or where processing of the signals be comes dysfunctional because many synapses normally excit ed by the neurotransmitter _glutamate_ lose their responsive ness to this transmitter; (2) excessive excitement of a group of neurons that secrete _dopamine_ in the behavioral centers of the brain, including in the frontal lobes; and/or (3) abnormal function of a crucial part of the brain’s _limbic behavioral con trol system centered around the hippocampus._",
+    "pdfPage": 720,
+    "boxed": true,
+    "bid": "ch60-f89"
+   },
+   {
+    "type": "paragraph",
+    "text": "The reason for believing that the prefrontal lobes are in volved in schizophrenia is that a schizophrenic-like pattern of mental activity can be induced in monkeys by making multiple minute lesions in widespread areas of the prefron tal lobes.",
+    "pdfPage": 721,
+    "boxed": true,
+    "bid": "ch60-f90"
+   },
+   {
+    "type": "paragraph",
+    "text": "Dopamine has been implicated in schizophrenia be cause schizophrenic-like symptoms develop in many pa tients with Parkinson's disease when they are treated with the drug called _l-dopa._ This drug releases dopamine in the brain, which is advantageous for treating Parkinson's dis ease, but at the same time it depresses various portions of the prefrontal lobes and other related areas.",
+    "pdfPage": 721,
+    "boxed": true,
+    "bid": "ch60-f91"
+   },
+   {
+    "type": "paragraph",
+    "text": "It has been suggested that in persons with schizophre nia, excess dopamine is secreted by a group of dopaminesecreting neurons whose cell bodies lie in the ventral teg mentum of the mesencephalon, medial and superior to the substantia nigra. These neurons give rise to the so-called _mesolimbic dopaminergic system_ that projects nerve fibers and dopamine secretion into the medial and anterior por tions of the limbic system, especially into the hippocam pus, amygdala, anterior caudate nucleus, and portions of the prefrontal lobes. All these areas are powerful behavioral control centers.",
+    "pdfPage": 721,
+    "boxed": true,
+    "bid": "ch60-f92"
+   },
+   {
+    "type": "paragraph",
+    "text": "An even more compelling reason for believing that schizophrenia might be caused by excess production of dopamine is that many drugs that are effective in treating schizophrenia, such as chlorpromazine, haloperidol, and thiothixene, all either decrease secretion of dopamine at dopaminergic nerve endings or decrease the effect of do pamine on neurons.",
+    "pdfPage": 721,
+    "boxed": true,
+    "bid": "ch60-f93"
+   },
+   {
+    "type": "paragraph",
+    "text": "Finally, possible involvement of the hippocampus in schizophrenia was discovered when it was learned that _in persons with schizophrenia, the hippocampus is often re duced in size,_ especially in the dominant hemisphere.",
+    "pdfPage": 721,
+    "boxed": true,
+    "bid": "ch60-f94"
+   },
+   {
+    "type": "paragraph",
+    "text": "",
+    "pdfPage": 721,
+    "lead": "Alzheimer's Disease—Amyloid Plaques and Depressed Memory",
+    "bid": "ch60-f95"
+   },
+   {
+    "type": "paragraph",
+    "text": "_Alzheimer's disease_ is defined as premature aging of the brain, usually beginning in mid adult life and progressing rapidly to extreme loss of mental powers—similar to that seen in very old age. The clinical features of Alzheimer's disease include (1) an amnesic type of memory impair ment, (2) deterioration of language, and (3) visuospatial deficits. Motor and sensory abnormalities, gait distur bances, and seizures are uncommon until the late phases of the disease. One consistent finding in Alzheimer's disease is loss of neurons in the part of the limbic pathway that drives the memory process. Loss of this memory function is devastating.",
+    "pdfPage": 721,
+    "boxed": true,
+    "bid": "ch60-f96"
+   },
+   {
+    "type": "paragraph",
+    "text": "Alzheimer's disease is a progressive and fatal neuro degenerative disorder that results in impairment of the person’s ability to perform activities of daily living, as well as a variety of neuropsychiatric symptoms and behavioral disturbances in the later stages of the disease. Patients with Alzheimer's disease usually require continuous care within a few years after the disease begins.",
+    "pdfPage": 721,
+    "boxed": true,
+    "bid": "ch60-f97"
+   },
+   {
+    "type": "paragraph",
+    "text": "Alzheimer's disease is a common form of dementia in elderly persons; more than 5.5 million people in the United States are estimated to be afflicted by this disorder. About two-thirds of Americans with Alzheimer’s disease are women. The percentage of persons with Alzheimer's disease approximately doubles with every 5 years beyond age 65, with about 30% of 85-year-olds having the disease.",
+    "pdfPage": 721,
+    "boxed": true,
+    "bid": "ch60-f98"
+   },
+   {
+    "type": "paragraph",
+    "text": "Pathologically, one finds increased amounts of _beta-amyloid peptide_ in the brains of patients with Alzheimer's disease. The peptide accumulates in _amyloid plaques_, which range in diameter from 10 mi crometers to several hundred micrometers and are found in widespread areas of the brain, including in the cerebral cortex, hippocampus, basal ganglia, thalamus, and even the cerebellum. Thus, Alzheimer's disease appears to be a metabolic degenerative disease.",
+    "pdfPage": 721,
+    "lead": "Alzheimer's Disease Is Associated With Accumulation of Brain Beta-Amyloid Peptide.",
+    "boxed": true,
+    "bid": "ch60-f99"
+   },
+   {
+    "type": "paragraph",
+    "text": "A key role for excess accumulation of beta-amyloid pep tide in the pathogenesis of Alzheimer's disease is suggested by the following observations: (1) all currently known mutations associated with Alzheimer's disease increase the production of beta-amyloid peptide; (2) patients with trisomy 21 (Down syndrome) have three copies of the gene for amyloid precur sor protein and develop neurological characteristics of Alz heimer's disease by midlife; (3) patients who have abnormality of a gene that controls _apolipoprotein E_, a blood protein that transports cholesterol to the tissues, have accelerated deposi tion of amyloid and greatly increased risk for Alzheimer's dis ease; (4) transgenic mice that overproduce the human amyloid precursor protein have learning and memory deficits in as sociation with the accumulation of amyloid plaques; and (5) generation of anti-amyloid antibodies in humans with Alzhei mer's disease appears to attenuate the disease process.",
+    "pdfPage": 721,
+    "boxed": true,
+    "bid": "ch60-f100"
+   },
+   {
+    "type": "paragraph",
+    "text": "There is also accumulating evidence that cerebrovascular disease caused by _hypertension_ and _atherosclerosis_ may play a key role in dementia associated with Alzheimer's disease. Cerebrovascular disease is the second most common cause of acquired cognitive impair ment and dementia and likely contributes to cognitive de cline in persons with Alzheimer's disease. In fact, many of the common risk factors for cerebrovascular disease, such as hypertension, diabetes, and hyperlipidemia, are also rec ognized to greatly increase the risk for developing dementia and progression of Alzheimer's disease. About 10% to 20% of brains from individuals with dementia show evidence of _vascular dementia_ alone. In older individuals with Alzhei mer’s disease, vascular disease is common with about 50% of patients having pathologic evidence of “_silent strokes_”—small brain infarcts that cause no readily apparent symptoms but could contribute to cognitive impairment.",
+    "pdfPage": 721,
+    "lead": "Vascular Disorders May Contribute to Progression of Alzheimer's Disease.",
+    "boxed": true,
+    "bid": "ch60-f101"
+   }
+  ]
+ },
+ "glossary": [
+  {
+   "id": "ch60-t-uyqu",
+   "termUz": "Uyqu",
+   "original": null,
+   "contextUz": "Uyqu sezgi yoki boshqa stimul bilan uyg'otish mumkin bo'lgan hushsizlik.",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-koma",
+   "termUz": "Koma",
+   "original": null,
+   "contextUz": "Koma uyg'otib bo'lmaydigan hushsizlik.",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-rem-paradoksal-desinxronlashgan-uyqu",
+   "termUz": "REM (paradoksal, desinxronlashgan) uyqu",
+   "original": null,
+   "contextUz": "REM (paradoksal, desinxronlashgan) uyqu:",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-sekin-tolqinli-nrem-uyqu",
+   "termUz": "Sekin to'lqinli (NREM) uyqu",
+   "original": null,
+   "contextUz": "Sekin to'lqinli (NREM) uyqu:",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-uyqu-faol-tormozlanish-jarayoni",
+   "termUz": "Uyqu faol tormozlanish jarayoni.",
+   "original": null,
+   "contextUz": "Uyqu faol tormozlanish jarayoni.",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-uyqu-chaqiruvchi-sohalar",
+   "termUz": "Uyqu chaqiruvchi sohalar",
+   "original": null,
+   "contextUz": "Uyqu chaqiruvchi sohalar:",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-raphe-yadrolari",
+   "termUz": "Raphe yadrolari",
+   "original": "ko'prikning pastki yarmi va uzunchoq miya, o'rta chiziq",
+   "contextUz": "Raphe yadrolari (ko'prikning pastki yarmi va uzunchoq miya, o'rta chiziq).",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-nucleus-tractus-solitarius",
+   "termUz": "Nucleus tractus solitarius",
+   "original": null,
+   "contextUz": "Nucleus tractus solitarius: vagus va glossofaringeal nervlarning visseral sezgi tolalari tugaydigan joy.",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-diensefalon-sohalari",
+   "termUz": "Diensefalon sohalari",
+   "original": null,
+   "contextUz": "Diensefalon sohalari: Gipotalamusning rostral qismi, asosan suprachiasmal soha.",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-uyqu-markazlari-shikastlansa",
+   "termUz": "Uyqu markazlari shikastlansa",
+   "original": null,
+   "contextUz": "Uyqu markazlari shikastlansa:",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-uyqu-omillari",
+   "termUz": "Uyqu omillari",
+   "original": null,
+   "contextUz": "Uyqu omillari:",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-muramyl-peptid",
+   "termUz": "Muramyl peptid",
+   "original": null,
+   "contextUz": "Muramyl peptid: mikrogrammlari III qorinchaga yuborilsa, bir necha daqiqada deyarli tabiiy uyqu boshlanadi va soatlab davom etadi.",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-delta-sleep-inducing-peptide",
+   "termUz": "Delta sleep–inducing peptide",
+   "original": "nonapeptid",
+   "contextUz": "Delta sleep–inducing peptide (nonapeptid) ham shunday ta'sir qiladi.",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-rem-sababi",
+   "termUz": "REM sababi",
+   "original": null,
+   "contextUz": "REM sababi:",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-uyqu-uygoqlik-sikli-taxminiy-mexanizm",
+   "termUz": "Uyqu–uyg'oqlik sikli (taxminiy mexanizm)",
+   "original": null,
+   "contextUz": "Uyqu–uyg'oqlik sikli (taxminiy mexanizm):",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-oreksin-gipokretin",
+   "termUz": "Oreksin (gipokretin)",
+   "original": null,
+   "contextUz": "Oreksin (gipokretin):",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-narkolepsiya",
+   "termUz": "narkolepsiya",
+   "original": null,
+   "contextUz": "Oreksin signali yo'qolsa narkolepsiya kelib chiqadi: kunduzi kuchli uyquchanlik va to'satdan uyqu xurujlari.",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-katapleksiya",
+   "termUz": "Katapleksiya",
+   "original": null,
+   "contextUz": "Katapleksiya, ya'ni to'satdan mushak tonusining yo'qolishi ham bo'lishi mumkin.",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-alfa",
+   "termUz": "Alfa",
+   "original": null,
+   "contextUz": "Alfa: 8–13/s, taxminan 50 µV.",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-beta",
+   "termUz": "Beta",
+   "original": null,
+   "contextUz": "Beta: 14/s dan katta (80/s gacha), past voltajli va asinxron.",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-teta",
+   "termUz": "Teta",
+   "original": null,
+   "contextUz": "Teta: 4–7/s.",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-delta",
+   "termUz": "Delta",
+   "original": null,
+   "contextUz": "Delta: 3.",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-kelib-chiqishi",
+   "termUz": "Kelib chiqishi",
+   "original": null,
+   "contextUz": "Kelib chiqishi:",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-faollik-va-chastota",
+   "termUz": "Faollik va chastota",
+   "original": null,
+   "contextUz": "Faollik va chastota: faollik oshgan sari chastota ham ortadi.",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-uyqu-bosqichlarida-eeg",
+   "termUz": "Uyqu bosqichlarida EEG",
+   "original": null,
+   "contextUz": "Uyqu bosqichlarida EEG:",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-tutqanoq",
+   "termUz": "Tutqanoq",
+   "original": null,
+   "contextUz": "Tutqanoq nazoratsiz ortiqcha neyron faolligidan bo'ladigan vaqtinchalik miya disfunksiyasi.",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-epilepsiya",
+   "termUz": "Epilepsiya",
+   "original": null,
+   "contextUz": "Epilepsiya takrorlanuvchi tutqanoqlar bilan kechadigan surunkali holat.",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-fokal-parsial-tutqanoqlar",
+   "termUz": "Fokal (parsial) tutqanoqlar",
+   "original": null,
+   "contextUz": "Fokal (parsial) tutqanoqlar:",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-jacksonian-march",
+   "termUz": "Jacksonian march",
+   "original": null,
+   "contextUz": "Jacksonian march: motor po'stloq bo'ylab qarama-qarshi tomonda og'izdan oyoqqa qarab (ba'zan teskari) ketma-ket qisqarishlar.",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-oddiy-parsial",
+   "termUz": "Oddiy parsial",
+   "original": null,
+   "contextUz": "Oddiy parsial tutqanoqda ong saqlanadi.",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-murakkab-parsial",
+   "termUz": "Murakkab parsial",
+   "original": null,
+   "contextUz": "Murakkab parsial tutqanoqda ong buziladi.",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-generalizatsiyalangan-tutqanoqlar",
+   "termUz": "Generalizatsiyalangan tutqanoqlar",
+   "original": null,
+   "contextUz": "Generalizatsiyalangan tutqanoqlar: talamus–po'stloq aloqalari orqali boshidanoq ikkala yarim sharga tez va bir vaqtda tarqaladi.",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-tonik-klonik-grand-mal",
+   "termUz": "Tonik-klonik (grand mal)",
+   "original": null,
+   "contextUz": "Tonik-klonik (grand mal): To'satdan hushdan ketish.",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-absans-petit-mal",
+   "termUz": "Absans (petit mal)",
+   "original": null,
+   "contextUz": "Absans (petit mal): Bolalik yoki o'smirlikda boshlanadi, bolalardagi epilepsiyaning 15–20%.",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-davolash-dori-mexanizmlari",
+   "termUz": "Davolash (dori mexanizmlari)",
+   "original": null,
+   "contextUz": "Davolash (dori mexanizmlari):",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-depressiya-va-bipolyar-buzilish",
+   "termUz": "Depressiya va bipolyar buzilish",
+   "original": null,
+   "contextUz": "Depressiya va bipolyar buzilish:",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-shizofreniya",
+   "termUz": "Shizofreniya",
+   "original": null,
+   "contextUz": "Shizofreniya:",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-prefrontal-postloqda-glutamatga-sezgirlik-yoqolishi",
+   "termUz": "Prefrontal po'stloqda glutamatga sezgirlik yo'qolishi.",
+   "original": null,
+   "contextUz": "Uchta ehtimoliy sabab: Prefrontal po'stloqda glutamatga sezgirlik yo'qolishi. Maymunlarda ko'p mayda prefrontal lezyonlar shizofreniyaga o'xshash holat beradi.",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-dopamin-ortiqchaligi",
+   "termUz": "Dopamin ortiqchaligi.",
+   "original": null,
+   "contextUz": "Dopamin ortiqchaligi. Parkinson bemorlarida L-dopa shizofreniyaga o'xshash belgilar chaqiradi.",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-mezolimbik-dopaminergik-tizim",
+   "termUz": "mezolimbik dopaminergik tizim",
+   "original": null,
+   "contextUz": "Taxmin: mezensefalonning ventral tegmentumidan chiqadigan mezolimbik dopaminergik tizim gippokamp, amigdala, oldingi kaudat va prefrontal sohalarga ortiqcha dopamin yuboradi.",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-gippokamp-disfunksiyasi",
+   "termUz": "Gippokamp disfunksiyasi",
+   "original": null,
+   "contextUz": "Gippokamp disfunksiyasi: gippokamp ko'pincha kichraygan, ayniqsa dominant yarim sharda.",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-alzheimer-kasalligi",
+   "termUz": "Alzheimer kasalligi",
+   "original": null,
+   "contextUz": "Alzheimer kasalligi:",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-beta-amiloid-peptid",
+   "termUz": "Beta-amiloid peptid",
+   "original": null,
+   "contextUz": "Beta-amiloid peptid 10 µm dan bir necha yuz µm gacha bo'lgan plaklarda to'planadi: po'stloq, gippokamp, bazal gangliyalar, talamus, hatto miyacha.",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch60-t-qon-tomir-omillari",
+   "termUz": "Qon tomir omillari",
+   "original": null,
+   "contextUz": "Qon tomir omillari: Gipertenziya va ateroskleroz muhim.",
+   "lessonId": "ch60",
+   "topicId": "11",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  }
+ ],
+ "bookDefinitions": [
+  {
+   "pdfPage": 713,
+   "printedPage": "708",
+   "text": "SLEEP Sleep is defined as unconsciousness from which a person can be aroused by sensory or other stimuli"
+  },
+  {
+   "pdfPage": 713,
+   "printedPage": "708",
+   "text": "These types are called (1) rapid eye movement sleep (REM sleep), in which the eyes undergo rapid movements even though the person is still asleep, and (2) slow-wave sleep or non-REM (NREM) sleep, in which the brain waves are strong and of low frequency, as we discuss later"
+  },
+  {
+   "pdfPage": 716,
+   "printedPage": "711",
+   "text": "The undulations in the recorded electrical potentials, shown in Figure 60-2, are called brain waves, and the entire record is called an electroencephalogram (EEG)"
+  },
+  {
+   "pdfPage": 718,
+   "printedPage": "713",
+   "text": "This phenomenon is called Jacksonian march"
+  },
+  {
+   "pdfPage": 718,
+   "printedPage": "713",
+   "text": "The time after the seizure, prior to the return of normal neurological function, is called the postictal period"
+  },
+  {
+   "pdfPage": 719,
+   "printedPage": "714",
+   "text": "The total sequence is called the absence syndrome or absence epilepsy"
+  },
+  {
+   "pdfPage": 720,
+   "printedPage": "715",
+   "text": "Some patients with mental depression alternate between depression and mania, which is called either bipolar disorder or manic-depressive psychosis, and fewer patients exhibit only mania without the depressive episodes"
+  },
+  {
+   "pdfPage": 721,
+   "printedPage": "716",
+   "text": "Chapter 60 States of Brain Activity—Sleep, Brain Waves, Epilepsy, Psychoses, and Dementia Alzheimer's Disease—Amyloid Plaques and Depressed Memory Alzheimer's disease is defined as premature aging of the brain, usually beginning in mid adult life and progressing rapidly to extreme loss of mental powers—similar to that seen in very old age"
+  }
+ ],
+ "keyNumbers": [
+  {
+   "pdfPage": 713,
+   "printedPage": "708",
+   "text": "REM sleep occurs in episodes that occupy about 25% of the sleep time in young adults; each episode normally recurs about every 90 minutes"
+  },
+  {
+   "pdfPage": 713,
+   "printedPage": "708",
+   "text": "REM (Paradoxical, Desynchronized) Sleep In a normal night of sleep, bouts of REM sleep lasting 5 to 30 minutes usually appear on average every 90 minutes in young adults"
+  },
+  {
+   "pdfPage": 713,
+   "printedPage": "708",
+   "text": "Slow-Wave Sleep We can understand the characteristics of deep slow-wave sleep by remembering the last time we were kept awake for more than 24 hours and the deep sleep that occurred during the first hour after going to sleep"
+  },
+  {
+   "pdfPage": 713,
+   "printedPage": "708",
+   "text": "For example, 10% to 30% decreases occur in blood pressure, respiratory rate, and basal metabolic rate"
+  },
+  {
+   "pdfPage": 717,
+   "printedPage": "712",
+   "text": "Approximately 5% to 10% of the population will have at least one seizure in their lifetime"
+  },
+  {
+   "pdfPage": 717,
+   "printedPage": "712",
+   "text": "Epilepsy is estimated to affect approximately 1% of the population, or 65 million people worldwide. 757 UNIT XI Fast component of absence seizure Confusion"
+  },
+  {
+   "pdfPage": 719,
+   "printedPage": "714",
+   "text": "The usual generalized tonic-clonic seizure lasts from a few seconds to 3 to 4 minutes"
+  },
+  {
+   "pdfPage": 719,
+   "printedPage": "714",
+   "text": "Absence Seizures (Petit Mal Seizures) Absence seizures, formerly called petit mal seizures, usually begin in childhood or early adolescence and account for 15% to 20% of epilepsy cases in children"
+  },
+  {
+   "pdfPage": 719,
+   "printedPage": "714",
+   "text": "They are usually characterized by 3 to 30 seconds of unconsciousness or diminished consciousness, during which time the person often stares and has twitchlike contractions of muscles, usually in the head region, especially blinking of the eyes; this phase is followed by a rapid return of consciousness and resumption of previous activities"
+  },
+  {
+   "pdfPage": 719,
+   "printedPage": "714",
+   "text": "The usual course is for the absence seizures to appear first during childhood or adolescence and then to disappear by the age of 30 years"
+  },
+  {
+   "pdfPage": 721,
+   "printedPage": "716",
+   "text": "Alzheimer's disease is a common form of dementia in elderly persons; more than 5.5 million people in the United States are estimated to be afflicted by this disorder"
+  },
+  {
+   "pdfPage": 721,
+   "printedPage": "716",
+   "text": "The percentage of persons with Alzheimer's disease approximately doubles with every 5 years beyond age 65, with about 30% of 85-year-olds having the disease"
+  },
+  {
+   "pdfPage": 721,
+   "printedPage": "716",
+   "text": "The peptide accumulates in amyloid plaques, which range in diameter from 10 micrometers to several hundred micrometers and are found in widespread areas of the brain, including in the cerebral cortex, hippocampus, basal ganglia, thalamus, and even the cerebellum"
+  },
+  {
+   "pdfPage": 721,
+   "printedPage": "716",
+   "text": "About 10% to 20% of brains from individuals with dementia show evidence of vascular dementia alone"
+  },
+  {
+   "pdfPage": 721,
+   "printedPage": "716",
+   "text": "In older individuals with Alzheimer’s disease, vascular disease is common with about 50% of patients having pathologic evidence of “silent strokes”—small brain infarcts that cause no readily apparent symptoms but could contribute to cognitive impairment."
+  }
+ ],
+ "figureIds": [
+  "gh14-fig-60-01",
+  "gh14-fig-60-02",
+  "gh14-fig-60-03",
+  "gh14-fig-60-04",
+  "gh14-fig-60-05",
+  "gh14-fig-60-06"
+ ],
+ "estMinutes": 35,
+ "counts": {
+  "figures": 6,
+  "figuresIncluded": 6,
+  "terms": 44,
+  "words": 6971,
+  "unplacedInSummary": 6
+ },
+ "review": {
+  "reviewedBy": null,
+  "reviewedAt": null
+ },
+ "importedAt": "2026-11-14T13:59:02+00:00"
+}

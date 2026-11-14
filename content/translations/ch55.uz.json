@@ -1,0 +1,377 @@
+{
+ "lessonId": "ch55",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 55,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "manual",
+ "translator": "Claude (DrStudy sessiyasi)",
+ "model": null,
+ "createdAt": "2026-11-14T18:17:25.739Z",
+ "updatedAt": "2026-11-14T18:17:25.748Z",
+ "coverage": {
+  "translated": 114,
+  "total": 114
+ },
+ "note": "Kitob matnining to‘liq o‘zbekcha tarjimasi (qisqartirilmagan). Ekspert tekshiruvidan o‘tmagan.",
+ "blocks": {
+  "ch55-f0": {
+   "text": "Sezgi axboroti nerv tizimining barcha darajalarida integratsiyalanadi va tegishli harakat (motor) javoblarini keltirib chiqaradi: ular orqa miyada nisbatan oddiy muskul reflekslaridan boshlanadi, miya ustunida murakkabroq javoblar bilan davom etadi va nihoyat eng murakkab muskul ko‘nikmalari boshqariladigan katta miyaga (serebrumga) yetib boradi."
+  },
+  "ch55-f1": {
+   "text": "Ushbu bobda muskul faoliyatining orqa miya tomonidan boshqarilishini muhokama qilamiz. Orqa miyaning maxsus neyron zanjirlari bo‘lmaganida, bosh miyadagi eng murakkab harakatni boshqarish tizimlari ham hech qanday maqsadli muskul harakatini yuzaga keltira olmas edi. Masalan, bosh miyaning hech bir joyida yurish uchun zarur bo‘lgan oyoqlarning o‘ziga xos oldinga-orqaga harakatlarini keltirib chiqaradigan neyron zanjiri yo‘q. Aksincha, bu harakatlarning zanjirlari orqa miyada joylashgan, bosh miya esa yurish jarayonini harakatga keltirish uchun orqa miyaga shunchaki _buyruq_ signallarini yuboradi."
+  },
+  "ch55-f2": {
+   "text": "Biroq bosh miyaning rolini kamsitmaylik. Bosh miya orqa miyaning ketma-ket faoliyatini boshqaruvchi ko‘rsatmalar beradi — masalan, zarur bo‘lganda burilish harakatlarini yuzaga keltirish, tezlanish paytida tanani oldinga engashtirish, kerak bo‘lganda yurishdan sakrashga o‘tish hamda muvozanatni uzluksiz kuzatib, boshqarib turish uchun. Bularning barchasi bosh miyada hosil bo‘ladigan “tahliliy” va “buyruq” signallari orqali amalga oshiriladi. Ammo bu buyruqlar yo‘naltirilgan orqa miyaning ko‘plab neyron zanjirlari ham zarur. Muskullarni bevosita boshqarishning kichik bir qismidan tashqari hammasini aynan shu zanjirlar ta’minlaydi."
+  },
+  "ch55-f3": {
+   "text": "Orqa miyaning harakat funksiyalari uchun tuzilishi"
+  },
+  "ch55-f4": {
+   "text": "Orqa miya kulrang moddasi orqa miya reflekslarining integratsiya sohasidir. **Rasm 55-1** da orqa miyaning bitta segmentidagi kulrang moddaning tipik tuzilishi ko‘rsatilgan. Sezgi signallari orqa miyaga deyarli butunlay sezuvchi ildizlar — _orqa_ yoki _dorsal ildizlar_ deb ham ataladi — orqali kiradi. Orqa miyaga kirgandan so‘ng har bir sezgi signali ikki alohida manzilga boradi: sezuvchi nervning bir tarmog‘i deyarli darhol orqa miya kulrang moddasida tugaydi va mahalliy segmentar orqa miya reflekslari hamda boshqa mahalliy ta’sirlarni yuzaga keltiradi; boshqa tarmog‘i esa signallarni nerv tizimining yuqoriroq darajalariga — ya’ni orqa miyaning yuqoriroq qismlariga, miya ustuniga yoki hatto bosh miya po‘stlog‘iga — oldingi boblarda tasvirlanganidek uzatadi."
+  },
+  "ch55-f6": {
+   "text": "Orqa miyaning har bir segmenti (har bir orqa miya nervi darajasida) kulrang moddasida bir necha million neyronga ega. 48- va 49-boblarda muhokama qilingan sezgi signallarini uzatuvchi neyronlardan tashqari, qolgan neyronlar ikki turga bo‘linadi: (1) _oldingi motoneyronlar_ va (2) _interneyronlar._"
+  },
+  "ch55-f7": {
+   "text": "Orqa miya kulrang moddasining oldingi shoxlarining har bir segmentida boshqa neyronlarning ko‘pchiligidan 50–100% kattaroq bo‘lgan bir necha ming neyron joylashgan; ular _oldingi motoneyronlar_ deb ataladi (**Rasm 55-2**). Ulardan orqa miyani oldingi ildizlar orqali tark etadigan va skelet muskul tolalarini bevosita innervatsiya qiladigan nerv tolalari boshlanadi. Bu neyronlar ikki turga bo‘linadi: _alfa-motoneyronlar_ va _gamma-motoneyronlar._",
+   "lead": "Oldingi motoneyronlar."
+  },
+  "ch55-f9": {
+   "text": "Alfa-motoneyronlardan diametri o‘rtacha 14 mikrometr bo‘lgan yirik A-alfa (Aα) tipidagi harakat nerv tolalari boshlanadi; bu tolalar muskulga kirgandan so‘ng ko‘p marta tarmoqlanadi va yirik skelet muskul tolalarini innervatsiya qiladi. Bitta alfa nerv tolasining qo‘zg‘alishi uchtadan bir necha yuztagacha skelet muskul tolasini qo‘zg‘atadi; ular birgalikda _harakat birligi_ (motor birlik) deb ataladi. Nerv impulslarining skelet muskullariga uzatilishi va ularning muskul harakat birliklarini qo‘zg‘atishi 6- va 7-boblarda muhokama qilingan.",
+   "lead": "Alfa-motoneyronlar."
+  },
+  "ch55-f10": {
+   "text": "Skelet muskul tolalarining qisqarishini qo‘zg‘atuvchi alfa-motoneyronlar bilan bir qatorda, orqa miyaning oldingi shoxlarida ularning taxminan yarmicha soniga teng, ancha kichik _gamma-motoneyronlar_ joylashgan. Bu gamma-motoneyronlar impulslarni diametri o‘rtacha 5 mikrometr bo‘lgan ancha ingichka A-gamma (Aγ) tipidagi harakat nerv tolalari orqali _intrafuzal tolalar_ deb ataladigan kichik, maxsus skelet muskul tolalariga uzatadi (**Rasm 55-2** va **Rasm 55-3**). Bu tolalar _muskul urchug‘ining_ o‘rta qismini tashkil qiladi; muskul urchug‘i esa, bobning keyingi qismida muhokama qilinganidek, muskulning asosiy “tonusini” boshqarishga yordam beradi.",
+   "lead": "Gamma-motoneyronlar."
+  },
+  "ch55-f12": {
+   "text": "Interneyronlar orqa miya kulrang moddasining barcha sohalarida — orqa shoxlarda, oldingi shoxlarda va ular orasidagi oraliq sohalarda — mavjud (**Rasm 55-1**). Bu hujayralar soni oldingi motoneyronlardan taxminan 30 marta ko‘p. Ular kichik va juda qo‘zg‘aluvchan bo‘lib, ko‘pincha spontan faollik namoyon qiladi va sekundiga 1500 martagacha razryad berishi mumkin. Ular bir-biri bilan ko‘plab bog‘lanishlarga ega, ularning ko‘pchiligi esa oldingi motoneyronlar bilan ham bevosita sinaps hosil qiladi (**Rasm 55-1**). Interneyronlar va oldingi motoneyronlar orasidagi bog‘lanishlar orqa miyaning ushbu bobning qolgan qismida muhokama qilinadigan integrativ funksiyalarining ko‘pchiligi uchun javobgardir.",
+   "lead": "Interneyronlar."
+  },
+  "ch55-f13": {
+   "text": "47-bobda tasvirlangan neyron zanjirlarining deyarli barcha turlari orqa miyaning interneyronlar hovuzida uchraydi, jumladan _tarqaluvchi (divergent), yaqinlashuvchi (konvergent), takroriy razryad beruvchi_ va boshqa turdagi zanjirlar. Ushbu bobda biz bu turli zanjirlarning orqa miya tomonidan muayyan refleks harakatlarni bajarishda qo‘llanilishining ko‘plab misollarini ko‘rib chiqamiz."
+  },
+  "ch55-f14": {
+   "text": "Orqa miya nervlaridan keladigan sezgi signallari yoki bosh miyadan keladigan signallarning faqat ozgina qismi bevosita oldingi motoneyronlarda tugaydi. Aksincha, bu signallarning deyarli hammasi avval interneyronlar orqali uzatiladi va ularda tegishli ravishda qayta ishlanadi. Shu sababli **Rasm 55-1** da bosh miyadan keluvchi kortikospinal yo‘l deyarli butunlay orqa miya interneyronlarida tugashi ko‘rsatilgan; bu yerda ushbu yo‘l signallari boshqa orqa miya yo‘llari yoki orqa miya nervlari signallari bilan birlashadi va shundan keyingina muskul faoliyatini boshqarish uchun oldingi motoneyronlarga yaqinlashadi."
+  },
+  "ch55-f15": {
+   "text": "Orqa miyaning oldingi shoxlarida, motoneyronlar bilan yaqin aloqada, _Renshou hujayralari_ deb ataladigan ko‘plab kichik neyronlar ham joylashgan. Oldingi motoneyron aksoni neyron tanasini tark etgandan deyarli darhol keyin aksondan kollateral tarmoqlar qo‘shni Renshou hujayralariga boradi. Renshou hujayralari atrofdagi motoneyronlarga tormozlovchi signallar uzatadigan _tormozlovchi hujayralardir._ Shunday qilib, har bir motoneyronning qo‘zg‘alishi qo‘shni motoneyronlarni tormozlashga moyil bo‘ladi; bu ta’sir _lateral tormozlanish_ deb ataladi. Harakat tizimi bu lateral tormozlanishdan o‘z signallarini fokuslash, ya’ni aniqlashtirish uchun foydalanadi — xuddi sezgi tizimi ham shu tamoyildan asosiy signalning kerakli yo‘nalishda susaymay uzatilishini ta’minlab, signallarning yon tomonlarga tarqalish moyilligini bostirish uchun foydalanganidek.",
+   "lead": "Renshou hujayralari atrofdagi motoneyronlarga tormozlovchi signallar uzatadi."
+  },
+  "ch55-f16": {
+   "text": "Orqa miyada ko‘tariluvchi va tushuvchi barcha nerv tolalarining yarmidan ko‘pi _propriospinal tolalardir._ Bu tolalar orqa miyaning bir segmentidan boshqasiga boradi. Bundan tashqari, sezuvchi tolalar orqa ildizlardan orqa miyaga kirganda ikkiga bo‘linadi va orqa miya bo‘ylab ham yuqoriga, ham pastga tarmoqlanadi; tarmoqlarning ba’zilari signallarni faqat bir-ikki segmentga, boshqalari esa ko‘plab segmentlarga uzatadi. Orqa miyaning bu ko‘tariluvchi va tushuvchi propriospinal tolalari bobning keyingi qismida tasvirlanadigan _ko‘p segmentli reflekslar_ uchun, jumladan old va orqa oyoq-qo‘llarning bir vaqtdagi harakatlarini muvofiqlashtiruvchi reflekslar uchun yo‘l bo‘lib xizmat qiladi.",
+   "lead": "Orqa miyaning bir darajasidan boshqa darajalariga ko‘p segmentli bog‘lanishlar — propriospinal tolalar."
+  },
+  "ch55-f17": {
+   "text": "Muskul sezgi retseptorlari — muskul urchuqlari va Golji pay organlari — va ularning muskulni boshqarishdagi roli"
+  },
+  "ch55-f18": {
+   "text": "Muskul faoliyatini to‘g‘ri boshqarish uchun muskulni orqa miyaning oldingi motoneyronlari tomonidan qo‘zg‘atishning o‘zi yetarli emas; har bir muskuldan orqa miyaga har bir lahzadagi muskul funksional holatini ko‘rsatuvchi sezgi axborotining uzluksiz qaytar aloqasi ham zarur. Ya’ni muskulning uzunligi qancha, uning ayni paytdagi tarangligi qanday va uzunligi yoki tarangligi qanchalik tez o‘zgarmoqda? Bu axborotni ta’minlash uchun muskullar va ularning paylari ikki maxsus turdagi sezgi retseptorlari bilan mo‘l ta’minlangan: (1) _muskul urchuqlari_ (qarang: **Rasm 55-2**) — ular muskul qorinchasi bo‘ylab tarqalgan va nerv tizimiga muskul uzunligi yoki uzunlik o‘zgarishi tezligi haqida axborot yuboradi; (2) _Golji pay organlari_ (qarang: **Rasm 55-2** va **Rasm 55-8**) — ular muskul paylarida joylashgan va pay tarangligi yoki taranglik o‘zgarishi tezligi haqida axborot uzatadi."
+  },
+  "ch55-f20": {
+   "text": "Bu ikki retseptordan keladigan signallar deyarli butunlay muskulning ichki boshqaruvi uchun xizmat qiladi. Ular deyarli to‘liq ongsiz darajada ishlaydi. Shunga qaramay, ular nafaqat orqa miyaga, balki miyacha va hatto bosh miya po‘stlog‘iga ham juda katta hajmdagi axborot uzatib, nerv tizimining bu qismlariga muskul qisqarishini boshqarishda yordam beradi."
+  },
+  "ch55-f21": {
+   "text": "Muskul urchug‘ining retseptorlik funksiyasi"
+  },
+  "ch55-f22": {
+   "text": "Muskul urchug‘ining tuzilishi **Rasm 55-3** da ko‘rsatilgan. Har bir urchuqning uzunligi 3–10 millimetr. U 3 tadan 12 tagacha mayda _intrafuzal muskul tolalari_ atrofida qurilgan; bu tolalarning uchlari o‘tkirlashgan bo‘lib, atrofdagi yirik _ekstrafuzal_ skelet muskul tolalarining glikokaliksiga birikkan (Video 55-1).",
+   "lead": "Muskul urchug‘ining tuzilishi va harakat innervatsiyasi."
+  },
+  "ch55-f23": {
+   "text": "Har bir intrafuzal muskul tolasi — mayda skelet muskul tolasi. Biroq bu tolalarning har birining markaziy qismi — ya’ni ikki uchining o‘rtasidagi soha — aktin va miozin filamentlariga kam ega yoki umuman ega emas. Shuning uchun bu markaziy qism uchlari qisqarganda qisqarmaydi. Aksincha, u keyinroq tasvirlanganidek sezgi retseptori vazifasini bajaradi. Qisqaradigan uchki qismlar esa, yuqorida tasvirlanganidek, orqa miya oldingi shoxlaridagi kichik A-gamma motoneyronlardan boshlanadigan ingichka _gamma harakat nerv tolalari_ tomonidan qo‘zg‘atiladi. Bu gamma harakat nerv tolalari ekstrafuzal skelet muskulini innervatsiya qiluvchi yirik _alfa efferent tolalardan_ (Aα tipidagi nerv tolalari) farqlash uchun _gamma efferent tolalar_ deb ham ataladi."
+  },
+  "ch55-f24": {
+   "text": "Muskul urchug‘ining retseptor qismi — uning markaziy qismi. **Rasm 55-3** da va batafsilroq **Rasm 55-4** da ko‘rsatilganidek, sezuvchi tolalar shu sohadan boshlanadi va urchuqning bu o‘rta qismi cho‘zilganda qo‘zg‘aladi. Muskul urchug‘i retseptori ikki yo‘l bilan qo‘zg‘alishi mumkinligini osongina ko‘rish mumkin: 1. Butun muskulning uzayishi urchuqning o‘rta qismini cho‘zadi va shu sababli retseptorni qo‘zg‘atadi. 2. Butun muskulning uzunligi o‘zgarmasa ham, urchuq intrafuzal tolalari uchki qismlarining qisqarishi urchuqning o‘rta qismini cho‘zadi va shu sababli retseptorni qo‘zg‘atadi. Muskul urchug‘ining bu markaziy retseptor sohasida ikki turdagi sezuvchi oxirlar — _birlamchi afferent_ va _ikkilamchi afferent oxirlar_ — uchraydi.",
+   "lead": "Muskul urchug‘ining sezuvchi innervatsiyasi."
+  },
+  "ch55-f25": {
+   "text": "Retseptor sohasining markazida yirik sezuvchi nerv tolasi har bir intrafuzal tolaning markaziy qismini o‘rab olib, _birlamchi afferent oxirni_ yoki _annulospiral oxirni_ hosil qiladi. Bu nerv tolasi diametri o‘rtacha 17 mikrometr bo‘lgan Ia tipidagi tola bo‘lib, sezgi signallarini orqa miyaga 70–120 m/s tezlikda — butun tanadagi har qanday nerv tolasi kabi tez — uzatadi.",
+   "lead": "Birlamchi oxir."
+  },
+  "ch55-f26": {
+   "text": "Odatda bitta, ba’zan ikkita ingichkaroq sezuvchi nerv tolasi — diametri o‘rtacha 8 mikrometr bo‘lgan II tipdagi tolalar — birlamchi oxirning bir yoki ikki tomonidagi retseptor sohasini innervatsiya qiladi (**Rasm 55-3** va **Rasm 55-4**). Bu sezuvchi oxir _ikkilamchi afferent oxir_ deb ataladi; ba’zan u intrafuzal tolalarni Ia tipidagi tola kabi o‘rab oladi, lekin ko‘pincha buta shoxlari kabi tarmoqlanib tarqaladi.",
+   "lead": "Ikkilamchi oxir."
+  },
+  "ch55-f28": {
+   "text": "Muskul urchug‘ining intrafuzal tolalari ham ikki turga bo‘linadi: (1) _yadro xaltali muskul tolalari_ (har bir urchuqda bittadan uchtagacha) — ularda bir nechta muskul tolasi yadrolari retseptor sohasining markaziy qismidagi kengaygan “xaltalarda” to‘plangan (**Rasm 55-4** dagi yuqori tola); (2) _yadro zanjirli tolalar_ (uchtadan to‘qqiztagacha) — ularning diametri va uzunligi yadro xaltali tolalarnikidan taxminan ikki baravar kichik, yadrolari esa retseptor sohasi bo‘ylab zanjir shaklida joylashgan (rasmdagi pastki tola). Birlamchi sezuvchi nerv oxiri yadro xaltali intrafuzal tolalar _hamda_ yadro zanjirli tolalar tomonidan qo‘zg‘atiladi. Ikkilamchi oxir esa, aksincha, odatda faqat yadro zanjirli tolalar tomonidan qo‘zg‘atiladi. Bu munosabatlar **Rasm 55-4** da ko‘rsatilgan.",
+   "lead": "Intrafuzal tolalarning yadro xaltali va yadro zanjirli tolalarga bo‘linishi — muskul urchug‘ining dinamik va statik javoblari."
+  },
+  "ch55-f29": {
+   "text": "Muskul urchug‘ining retseptor qismi _sekin_ cho‘zilganda, birlamchi va ikkilamchi oxirlardan uzatiladigan impulslar soni cho‘zilish darajasiga deyarli to‘g‘ri proporsional ravishda ortadi va oxirlar bu impulslarni bir necha daqiqa davomida uzatishda davom etadi. Bu ta’sir urchuq retseptorining _statik javobi_ deb ataladi; ya’ni muskul urchug‘i cho‘zilgan holda qolsa, birlamchi va ikkilamchi oxirlarning ikkalasi ham kamida bir necha daqiqa davomida signal uzatishda davom etadi.",
+   "lead": "Birlamchi va ikkilamchi oxirlarning ikkalasi ham retseptor uzunligiga javob beradi — “statik” javob."
+  },
+  "ch55-f30": {
+   "text": "Urchuq retseptorining uzunligi to‘satdan ortganda, birlamchi oxir (ikkilamchi oxir emas) kuchli qo‘zg‘aladi. Birlamchi oxirning bu qo‘zg‘alishi _dinamik javob_ deb ataladi; bu birlamchi oxirning urchuq uzunligidagi tez _o‘zgarish sur’atiga_ juda faol javob berishini bildiradi. Urchuq retseptorining uzunligi sekundning bir qismi davomida atigi mikrometrning bir ulushiga ortganda ham, birlamchi retseptor 17 mikrometrli yirik sezuvchi nerv tolasiga juda ko‘p qo‘shimcha impulslar uzatadi, _ammo faqat uzunlik haqiqatan ortib borayotgan paytdagina._ Uzunlik ortishi to‘xtashi bilanoq, impulslar razryadining bu qo‘shimcha tezligi signalda hamon mavjud bo‘lgan ancha kichik statik javob darajasiga qaytadi.",
+   "lead": "Birlamchi oxir (ikkilamchi oxir emas) retseptor uzunligining o‘zgarish tezligiga javob beradi — “dinamik” javob."
+  },
+  "ch55-f31": {
+   "text": "Aksincha, urchuq retseptori qisqarganda, mutlaqo teskari sezgi signallari yuzaga keladi. Shunday qilib, birlamchi oxir urchuq retseptori uzunligidagi har qanday o‘zgarish haqida orqa miyani xabardor qilish uchun unga musbat yoki manfiy, juda kuchli signallar yuboradi."
+  },
+  "ch55-f32": {
+   "text": "Muskul urchug‘iga boruvchi gamma harakat nervlarini ikki turga bo‘lish mumkin: _gamma-dinamik (gamma-d)_ va _gamma-statik (gamma-s)_. Ulardan birinchisi asosan yadro xaltali intrafuzal tolalarni, ikkinchisi esa asosan yadro zanjirli intrafuzal tolalarni qo‘zg‘atadi. Gamma-d tolalari yadro xaltali tolalarni qo‘zg‘atganda muskul urchug‘ining dinamik javobi nihoyatda kuchayadi, statik javob esa deyarli o‘zgarmaydi. Aksincha, yadro zanjirli tolalarni qo‘zg‘atuvchi gamma-s tolalarining qo‘zg‘alishi statik javobni kuchaytiradi, dinamik javobga esa kam ta’sir qiladi. Keyingi xatboshilarda muskul urchug‘i javoblarining bu ikki turi muskul boshqaruvining turli shakllarida muhim ekani ko‘rsatiladi.",
+   "lead": "Statik va dinamik javoblar intensivligining gamma harakat nervlari orqali boshqarilishi."
+  },
+  "ch55-f33": {
+   "text": "Odatda gamma nervlarining ma’lum darajadagi qo‘zg‘alishi mavjud bo‘lganda muskul urchuqlari sezuvchi nerv impulslarini uzluksiz chiqarib turadi. Muskul urchuqlarining cho‘zilishi razryad chastotasini oshiradi, urchuqning qisqarishi esa razryad chastotasini kamaytiradi. Shunday qilib, urchuqlar orqa miyaga yoki _musbat signallar_ (muskul cho‘zilganini bildiruvchi impulslar sonining ortishi), yoki muskul cho‘zilmaganini bildiruvchi _manfiy signallar_ (impulslar sonining kamayishi) yuborishi mumkin.",
+   "lead": "Normal sharoitda muskul urchuqlarining uzluksiz razryadi."
+  },
+  "ch55-f34": {
+   "text": "Muskulning cho‘zilish refleksi"
+  },
+  "ch55-f35": {
+   "text": "Muskul urchug‘i funksiyasining eng oddiy ko‘rinishi — _muskulning cho‘zilish refleksi._ Muskul to‘satdan cho‘zilganda, urchuqlarning qo‘zg‘alishi cho‘zilgan muskul va unga yaqin sinergist muskullarning yirik skelet muskul tolalarining refleks qisqarishini keltirib chiqaradi."
+  },
+  "ch55-f36": {
+   "text": "**Rasm 55-5** da muskul urchug‘i cho‘zilish refleksining asosiy zanjiri ko‘rsatilgan: muskul urchug‘idan boshlanib, orqa miyaning dorsal ildiziga kiradigan Ia tipidagi proprioretseptor nerv tolasi. Shundan so‘ng bu tolaning bir tarmog‘i to‘g‘ridan-to‘g‘ri orqa miya kulrang moddasining oldingi shoxiga boradi va muskul urchug‘i tolasi boshlangan aynan o‘sha muskulga harakat nerv tolalarini qaytarib yuboradigan oldingi motoneyronlar bilan sinaps hosil qiladi. Shunday qilib, bu _monosinaptik yo‘l_ urchuq qo‘zg‘algandan so‘ng refleks signalining muskulga mumkin qadar eng qisqa kechikish bilan qaytishiga imkon beradi. Muskul urchug‘idan keluvchi II tipdagi tolalarning ko‘pchiligi orqa miya kulrang moddasidagi ko‘plab interneyronlarda tugaydi; ular esa oldingi motoneyronlarga kechiktirilgan signallar uzatadi yoki boshqa funksiyalarni bajaradi.",
+   "lead": "Cho‘zilish refleksining neyron zanjiri."
+  },
+  "ch55-f38": {
+   "text": "Cho‘zilish refleksini ikki komponentga ajratish mumkin: dinamik cho‘zilish refleksi va statik cho‘zilish refleksi. _Dinamik cho‘zilish refleksi_ muskul urchuqlarining birlamchi sezuvchi oxirlaridan uzatiladigan, tez cho‘zilish yoki bo‘shashish (cho‘zilishning kamayishi) natijasida yuzaga keladigan kuchli dinamik signallar tomonidan qo‘zg‘atiladi. Ya’ni muskul to‘satdan cho‘zilganda yoki bo‘shashganda orqa miyaga kuchli signal uzatiladi va u signal kelgan aynan o‘sha muskulning bir lahzalik kuchli refleks qisqarishini (yoki qisqarishning kamayishini) keltirib chiqaradi. Shunday qilib, _refleks muskul uzunligidagi to‘satdan o‘zgarishlarga qarshi ta’sir ko‘rsatadi._",
+   "lead": "Dinamik va statik cho‘zilish reflekslari."
+  },
+  "ch55-f39": {
+   "text": "Dinamik cho‘zilish refleksi muskul yangi uzunligigacha cho‘zilgandan (yoki bo‘shashgandan) keyin sekundning bir qismi ichida tugaydi, ammo undan so‘ng kuchsizroq _statik cho‘zilish refleksi_ uzoq vaqt davom etadi. Bu refleks birlamchi va ikkilamchi oxirlarning ikkalasi uzatadigan uzluksiz statik retseptor signallari tomonidan yuzaga keltiriladi. Statik cho‘zilish refleksining ahamiyati shundaki, u muskul qisqarishi darajasini — insonning nerv tizimi ataylab boshqacha xohlagan holatlardan tashqari — nisbatan doimiy saqlab turadi."
+  },
+  "ch55-f40": {
+   "text": "Cho‘zilish refleksining ayniqsa muhim funksiyalaridan biri — tana harakatlarida tebranish yoki silkinishlarning oldini olish qobiliyati; bu _so‘ndirish (dempfer),_ ya’ni silliqlash funksiyasidir.",
+   "lead": "Dinamik va statik cho‘zilish reflekslarining muskul qisqarishini silliqlovchi “so‘ndirish” (dempfer) funksiyasi."
+  },
+  "ch55-f41": {
+   "text": "Orqa miyadan muskulga signallar ko‘pincha notekis shaklda uzatiladi: bir necha millisekund davomida intensivligi ortadi, keyin kamayadi, so‘ng boshqa intensivlik darajasiga o‘tadi va hokazo. Muskul urchug‘i apparati qoniqarli ishlamaganda, bunday signal davomida muskul qisqarishi silkinishli bo‘ladi. Bu ta’sir **Rasm 55-6** da ko‘rsatilgan. A qismda qo‘zg‘atilgan muskulning muskul urchug‘i refleksi saqlangan. E’tibor bering: muskulga boruvchi harakat nervi sekundiga atigi sakkizta signal bilan sekin chastotada qo‘zg‘atilayotgan bo‘lsa ham, qisqarish nisbatan silliq. B qismda xuddi shu tajriba muskul urchug‘i sezuvchi nervlari 3 oy oldin kesilgan hayvonda ko‘rsatilgan. Notekis muskul qisqarishiga e’tibor bering. Shunday qilib, **Rasm 55-6A** muskul harakat tizimiga keladigan asosiy kirish signallarining o‘zi silkinishli bo‘lsa ham, so‘ndirish mexanizmi muskul qisqarishlarini silliqlay olishini grafik tarzda namoyish qiladi. Bu ta’sirni muskul urchug‘i refleksining _signallarni o‘rtachalash_ funksiyasi deb ham atash mumkin."
+  },
+  "ch55-f43": {
+   "text": "Muskul urchug‘ining ixtiyoriy harakat faoliyatidagi roli"
+  },
+  "ch55-f44": {
+   "text": "Gamma efferent tizimning ahamiyatini tushunish uchun shuni bilish kerakki, muskulga boruvchi barcha harakat nerv tolalarining 31% i yirik A-alfa harakat tolalari emas, balki ingichka A-gamma efferent tolalardir. Harakat po‘stlog‘idan yoki bosh miyaning boshqa har qanday sohasidan alfa-motoneyronlarga signallar uzatilganda, ko‘p hollarda gamma-motoneyronlar ham bir vaqtda qo‘zg‘aladi; bu ta’sir alfa- va gamma-motoneyronlarning _koaktivatsiyasi_ deb ataladi. Natijada ekstrafuzal skelet muskul tolalari ham, muskul urchug‘ining intrafuzal muskul tolalari ham bir vaqtda qisqaradi."
+  },
+  "ch55-f45": {
+   "text": "Yirik skelet muskul tolalari qisqarayotgan paytda muskul urchug‘i intrafuzal tolalarini ham qisqartirishning maqsadi ikki xil: birinchidan, bu butun muskul qisqarishi davomida muskul urchug‘i retseptor qismining uzunligi o‘zgarishiga yo‘l qo‘ymaydi. Shuning uchun koaktivatsiya muskul urchug‘i refleksining muskul qisqarishiga qarshi ta’sir ko‘rsatishining oldini oladi. Ikkinchidan, u muskul uzunligi qanday o‘zgarishidan qat’i nazar muskul urchug‘ining to‘g‘ri so‘ndirish funksiyasini saqlab turadi. Masalan, agar muskul urchug‘i yirik muskul tolalari bilan birga qisqarib-bo‘shashmaganida, urchuqning retseptor qismi goh bo‘shab, goh haddan tashqari cho‘zilib qolar va har ikki holatda ham urchuq funksiyasi uchun optimal sharoitda ishlamas edi."
+  },
+  "ch55-f46": {
+   "text": "Gamma-harakat tizimini boshqaruvchi bosh miya sohalari"
+  },
+  "ch55-f47": {
+   "text": "Gamma efferent tizim asosan miya ustunining _bulboretikulyar faollashtiruvchi (fasilitatsiya qiluvchi)_ sohasidan keladigan signallar bilan, ikkinchi navbatda esa bulboretikulyar sohaga quyidagilardan uzatiladigan impulslar bilan qo‘zg‘atiladi: (1) _miyacha;_ (2) _bazal gangliylar;_ va (3) _bosh miya po‘stlog‘i._"
+  },
+  "ch55-f48": {
+   "text": "Bulboretikulyar faollashtiruvchi soha ayniqsa antigravitatsion qisqarishlar bilan bog‘liq bo‘lgani va antigravitatsion muskullarda muskul urchuqlari zichligi ayniqsa yuqori bo‘lgani sababli, gamma efferent mexanizm yurish va yugurish paytida tananing turli qismlari harakatlarini so‘ndirishda muhim deb hisoblanadi."
+  },
+  "ch55-f49": {
+   "text": "Muskul urchug‘i tizimining eng muhim funksiyalaridan biri — zo‘riqqan harakat faoliyati paytida tana holatini barqarorlashtirish. Bu funksiyani bajarish uchun miya ustunining bulboretikulyar faollashtiruvchi sohasi va unga yaqin sohalar gamma nerv tolalari orqali muskul urchuqlarining intrafuzal muskul tolalariga qo‘zg‘atuvchi signallar uzatadi. Bu urchuqlarning uchlarini qisqartiradi va markaziy retseptor sohalarini cho‘zadi, shu bilan ularning signal chiqishini oshiradi. Ammo har bir bo‘g‘imning ikki tomonidagi urchuqlar bir vaqtda faollashsa, bo‘g‘imning ikki tomonidagi skelet muskullarining refleks qo‘zg‘alishi ham ortadi va bo‘g‘imda bir-biriga qarshi ishlovchi tarang, zo‘riqqan muskullar hosil bo‘ladi. Natijada bo‘g‘im holati kuchli barqarorlashadi va bo‘g‘imni hozirgi holatidan siljitishga intiluvchi har qanday kuchga bo‘g‘imning ikki tomonida ishlayotgan yuqori sezgir cho‘zilish reflekslari qarshilik ko‘rsatadi.",
+   "lead": "Muskul urchug‘i tizimi zo‘riqqan harakat paytida tana holatini barqarorlashtiradi."
+  },
+  "ch55-f50": {
+   "text": "Inson nozik va aniq joylashtirishni talab qiluvchi muskul ishini bajarishi kerak bo‘lgan har safar, miya ustunining bulboretikulyar faollashtiruvchi sohasidan keladigan signallar tegishli muskul urchuqlarini qo‘zg‘atib, yirik bo‘g‘imlar holatini barqarorlashtiradi. Bu barqarorlashtirish murakkab harakat amallari uchun zarur bo‘lgan qo‘shimcha mayda ixtiyoriy harakatlarni (barmoqlar yoki tananing boshqa qismlari harakatlarini) bajarishga juda katta yordam beradi."
+  },
+  "ch55-f51": {
+   "text": "Klinitsist bemorni fizikal tekshirganda deyarli har safar bir nechta cho‘zilish reflekslarini chaqiradi. Maqsad — bosh miya orqa miyaga qanchalik fon qo‘zg‘alishi, ya’ni “tonus” yuborayotganini aniqlash. Bu refleks quyidagicha chaqiriladi."
+  },
+  "ch55-f52": {
+   "text": "Klinikada cho‘zilish reflekslarining sezgirligini aniqlash usullaridan biri — tizza refleksi va boshqa muskul (pay) reflekslarini chaqirish. Tizza refleksini shunchaki nevrologik bolg‘acha bilan tizza qopqog‘i payiga yengil urish orqali chaqirish mumkin; bu to‘rt boshli son muskulini bir lahzada cho‘zadi va boldirni oldinga “siltab” chiqaruvchi _dinamik cho‘zilish refleksini_ qo‘zg‘atadi (Video 55-2). **Rasm 55-7** ning yuqori qismida tizza refleksi paytida to‘rt boshli son muskulidan yozib olingan miogramma ko‘rsatilgan.",
+   "lead": "Tizza refleksi va boshqa muskul reflekslari cho‘zilish reflekslarining sezgirligini baholash uchun ishlatilishi mumkin."
+  },
+  "ch55-f54": {
+   "text": "Shunga o‘xshash reflekslarni tanadagi deyarli har qanday muskuldan, uning payiga yoki muskul qorinchasining o‘ziga urish orqali olish mumkin. Boshqacha aytganda, dinamik cho‘zilish refleksini chaqirish uchun muskul urchuqlarini to‘satdan cho‘zishning o‘zi kifoya."
+  },
+  "ch55-f55": {
+   "text": "Muskul reflekslaridan nevrologlar orqa miya markazlarining faollashganlik (fasilitatsiya) darajasini baholash uchun foydalanadi. Markaziy nerv tizimining yuqori qismlaridan orqa miyaga ko‘p miqdorda faollashtiruvchi impulslar uzatilayotganda, muskul reflekslari juda kuchayib ketadi. Aksincha, faollashtiruvchi impulslar susaygan yoki to‘xtagan bo‘lsa, muskul reflekslari sezilarli darajada zaiflashadi yoki yo‘qoladi. Bu reflekslardan ko‘pincha bosh miyaning harakat sohalaridagi shikastlanishlar yoki miya ustunining bulboretikulyar faollashtiruvchi sohasini qo‘zg‘atuvchi kasalliklar tufayli yuzaga keladigan muskul spastikligi bor-yo‘qligini aniqlashda foydalaniladi. Odatda _bosh miya po‘stlog‘i harakat sohalaridagi_ katta _shikastlanishlar_ (quyi harakat boshqaruvi sohalaridagi emas) — ayniqsa insult yoki miya o‘smalari sababli yuzaga kelganlari — tananing qarama-qarshi tomonidagi muskullarda reflekslarning keskin kuchayishiga olib keladi."
+  },
+  "ch55-f56": {
+   "text": "Ba’zi sharoitlarda muskul reflekslari tebranishi mumkin; bu hodisa _klonus_ deb ataladi (qarang: pastki miogramma, **Rasm 55-7**). Tebranishni ayniqsa oyoq panjasi (to‘piq) klonusi misolida yaxshi tushuntirish mumkin.",
+   "lead": "Klonus — muskul reflekslarining tebranishi."
+  },
+  "ch55-f57": {
+   "text": "Agar oyoq uchida turgan odam tanasini to‘satdan pastga tushirsa va boldirning ikki boshli (gastroknemius) muskullarini cho‘zsa, cho‘zilish refleksi impulslari muskul urchuqlaridan orqa miyaga uzatiladi. Bu impulslar cho‘zilgan muskulni refleks yo‘li bilan qo‘zg‘atadi va u tanani yana yuqoriga ko‘taradi. Sekundning bir qismidan so‘ng muskulning refleks qisqarishi so‘nadi va tana yana tushadi, shu bilan urchuqlarni ikkinchi marta cho‘zadi. Yana dinamik cho‘zilish refleksi tanani ko‘taradi, ammo u ham sekundning bir qismidan so‘ng so‘nadi va tana yangi siklni boshlash uchun yana tushadi. Shu tarzda boldir muskulining cho‘zilish refleksi ko‘pincha uzoq vaqt tebranishda davom etadi — bu klonusdir."
+  },
+  "ch55-f58": {
+   "text": "Klonus odatda faqat cho‘zilish refleksi bosh miyadan keladigan faollashtiruvchi impulslar ta’sirida juda sezgirlashgan holatdagina yuzaga keladi. Masalan, cho‘zilish reflekslari kuchli faollashgan detserebratsiyalangan hayvonda klonus oson rivojlanadi. Orqa miyaning faollashganlik darajasini aniqlash uchun nevrologlar bemorlarda muskulni to‘satdan cho‘zib, unga doimiy cho‘zuvchi kuch qo‘llash orqali klonusni tekshiradi. Agar klonus yuzaga kelsa, faollashganlik darajasi albatta yuqori bo‘ladi."
+  },
+  "ch55-f59": {
+   "text": "Golji pay refleksi"
+  },
+  "ch55-f60": {
+   "text": "**Rasm 55-8** da ko‘rsatilgan Golji pay organi — kapsula bilan o‘ralgan sezgi retseptori bo‘lib, uning ichidan muskul paylarining tolalari o‘tadi. Har bir Golji pay organiga odatda taxminan 10–15 ta muskul tolasi birikkan bo‘ladi va muskul qisqarganda yoki cho‘zilganda bu kichik muskul tolalari tutami “taranglashganda” organ qo‘zg‘aladi. Shunday qilib, Golji pay organi bilan muskul urchug‘i qo‘zg‘alishidagi asosiy farq shundaki, _urchuq muskul uzunligini va uzunlik o‘zgarishlarini aniqlaydi,_ _pay organi esa muskul tarangligini_ — o‘zidagi taranglik orqali aks etganidek — _aniqlaydi._",
+   "lead": "Golji pay organi muskul tarangligini boshqarishga yordam beradi."
+  },
+  "ch55-f61": {
+   "text": "Pay organi, muskul urchug‘ining birlamchi retseptori kabi, ham _dinamik javobga_, ham _statik javobga_ ega: muskul tarangligi to‘satdan ortganda u kuchli javob beradi (dinamik javob), ammo sekundning bir qismi ichida muskul tarangligiga deyarli to‘g‘ri proporsional bo‘lgan pastroq barqaror razryad darajasiga tushadi (statik javob). Shunday qilib, Golji pay organlari nerv tizimini har bir muskulning har bir kichik qismidagi taranglik darajasi haqida bir lahzalik axborot bilan ta’minlaydi."
+  },
+  "ch55-f62": {
+   "text": "Pay organidan keladigan signallar diametri o‘rtacha 16 mikrometr bo‘lgan, muskul urchug‘i birlamchi oxirlaridan keluvchi tolalardan biroz kichikroq, yirik, tez o‘tkazuvchi Ib tipidagi nerv tolalari orqali uzatiladi. Bu tolalar ham, urchuqning birlamchi oxirlaridan keluvchi tolalar kabi, signallarni orqa miyaning mahalliy sohalariga va orqa miya orqa shoxida sinaps hosil qilgandan keyin spinoserebellyar yo‘llar kabi uzun tolali yo‘llar orqali miyachaga, yana boshqa yo‘llar orqali esa bosh miya po‘stlog‘iga uzatadi. Mahalliy orqa miya signali oldingi motoneyronni tormozlovchi bitta _tormozlovchi_ interneyronni qo‘zg‘atadi. Bu mahalliy zanjir qo‘shni muskullarga ta’sir qilmasdan alohida muskulni bevosita tormozlaydi. Bosh miyaga keladigan signallar bilan miyacha va bosh miyaning boshqa qismlarining muskul boshqaruvidagi funksiyasi o‘rtasidagi bog‘liqlik 57-bobda muhokama qilinadi.",
+   "lead": "Impulslarning pay organidan markaziy nerv tizimiga uzatilishi."
+  },
+  "ch55-f63": {
+   "text": "Muskul payidagi Golji pay organlari bog‘langan muskul tarangligining ortishi bilan qo‘zg‘alganda, tegishli muskulda refleks ta’sirlarni yuzaga keltirish uchun orqa miyaga signallar uzatiladi. Bu refleks to‘liq _tormozlovchidir._ Shunday qilib, bu refleks muskulda haddan tashqari taranglik rivojlanishining oldini oluvchi _manfiy qaytar aloqa_ mexanizmini ta’minlaydi.",
+   "lead": "Pay refleksi muskulning haddan tashqari taranglashuvining oldini oladi."
+  },
+  "ch55-f64": {
+   "text": "Muskulga — demak, payga ham — tushadigan taranglik haddan oshganda, pay organining tormozlovchi ta’siri shunchalik kuchli bo‘lishi mumkinki, u orqa miyada butun muskulning bir lahzada bo‘shashishiga sabab bo‘luvchi keskin reaksiyaga olib keladi. Bu ta’sir _uzayish reaksiyasi_ deb ataladi; ehtimol, bu muskulning yirtilishi yoki payning suyakka birikkan joyidan uzilib ketishining (avulsiyasining) oldini oluvchi himoya mexanizmidir."
+  },
+  "ch55-f65": {
+   "text": "Golji pay refleksining yana bir ehtimoliy funksiyasi — alohida muskul tolalarining qisqarish kuchlarini tenglashtirish. Ya’ni ortiqcha taranglik hosil qilayotgan tolalar refleks tomonidan tormozlanadi, juda kam taranglik hosil qilayotganlari esa refleks tormozlanishi yo‘qligi sababli ko‘proq qo‘zg‘aladi. Bu hodisa muskul yukini barcha tolalarga taqsimlaydi va oz sonli tolalar haddan tashqari yuklanishi mumkin bo‘lgan muskulning alohida sohalarida shikastlanishning oldini oladi.",
+   "lead": "Pay refleksining muskul tolalari orasida qisqarish kuchini tenglashtirishdagi ehtimoliy roli."
+  },
+  "ch55-f66": {
+   "text": "Muskul urchuqlari va Golji pay organlarining bosh miyaning yuqori darajalari tomonidan harakatni boshqarishdagi funksiyasi"
+  },
+  "ch55-f67": {
+   "text": "Garchi biz muskul urchuqlari va Golji pay organlarining harakat funksiyasini orqa miya tomonidan boshqarishdagi rolini ta’kidlagan bo‘lsak-da, bu ikki sezgi organi yuqori harakat boshqaruvi markazlarini ham muskullarda yuz berayotgan bir lahzalik o‘zgarishlar haqida xabardor qiladi. Masalan, dorsal spinoserebellyar yo‘llar muskul urchuqlari va Golji pay organlaridan bir lahzalik axborotni to‘g‘ridan-to‘g‘ri miyachaga 120 m/s ga yaqin tezlikda — bosh miya yoki orqa miyadagi eng tez o‘tkazish tezligida — olib boradi. Qo‘shimcha yo‘llar shunga o‘xshash axborotni miya ustunining retikulyar sohalariga va kamroq darajada bosh miya po‘stlog‘ining harakat sohalarigacha uzatadi. 56- va 57-boblarda muhokama qilinganidek, bu retseptorlardan keladigan axborot ushbu sohalarning barchasida boshlanadigan harakat signallarini qaytar aloqa orqali boshqarish uchun hal qiluvchi ahamiyatga ega."
+  },
+  "ch55-f68": {
+   "text": "Bukuvchi refleks va qo‘lni (oyoq-qo‘lni) tortib olish reflekslari"
+  },
+  "ch55-f69": {
+   "text": "Orqa miyasi kesilgan (spinal) yoki detserebratsiyalangan hayvonda oyoq-qo‘ldan keladigan deyarli har qanday teri sezgi qo‘zg‘atuvchisi shu oyoq-qo‘lning bukuvchi muskullarini qisqartirib, uni qo‘zg‘atuvchi narsadan tortib olishga olib keladi. Bu refleks _bukuvchi (fleksor) refleks_ deb ataladi."
+  },
+  "ch55-f70": {
+   "text": "Klassik shaklida bukuvchi refleks og‘riq oxirlarining qo‘zg‘alishi — masalan, igna sanchilishi, issiqlik yoki jarohat — bilan eng kuchli chaqiriladi; shu sababli u _notsitseptiv refleks_ yoki shunchaki _og‘riq refleksi_ deb ham ataladi. Tuyg‘u (taktil) retseptorlarining qo‘zg‘alishi ham kuchsizroq va qisqaroq bukuvchi refleksni chaqirishi mumkin."
+  },
+  "ch55-f71": {
+   "text": "Agar tananing oyoq-qo‘llardan boshqa biror qismi og‘riqli qo‘zg‘atilsa, o‘sha qism ham xuddi shunday _qo‘zg‘atuvchidan tortib olinadi,_ biroq refleks asosan bir xil turdagi refleks bo‘lsa-da, faqat bukuvchi muskullar bilan cheklanmasligi mumkin. Shuning uchun tananing turli sohalaridagi bu reflekslarning ko‘plab shakllari _tortib olish (chekinish) reflekslari_ deb ataladi."
+  },
+  "ch55-f72": {
+   "text": "**Rasm 55-9** ning chap qismida bukuvchi refleksning neyron yo‘llari ko‘rsatilgan. Bu misolda qo‘lga og‘riqli qo‘zg‘atuvchi ta’sir qiladi; natijada yelkaning bukuvchi muskullari qo‘zg‘aladi va qo‘lni og‘riqli qo‘zg‘atuvchidan tortib oladi.",
+   "lead": "Bukuvchi refleksning neyron mexanizmi."
+  },
+  "ch55-f74": {
+   "text": "Bukuvchi refleksni chaqiruvchi yo‘llar to‘g‘ridan-to‘g‘ri oldingi motoneyronlarga bormaydi, balki avval orqa miyaning interneyronlar hovuziga, faqat shundan keyin motoneyronlarga o‘tadi. Mumkin bo‘lgan eng qisqa zanjir uch yoki to‘rt neyronli yo‘ldir; ammo refleks signallarining ko‘pchiligi ancha ko‘p neyronlardan o‘tadi va quyidagi asosiy zanjir turlarini o‘z ichiga oladi: (1) refleksni tortib olish uchun zarur muskullarga tarqatuvchi tarqaluvchi (divergent) zanjirlar; (2) antagonist muskullarni tormozlovchi, _resiprok tormozlanish zanjirlari_ deb ataladigan zanjirlar; va (3) qo‘zg‘atuvchi ta’siri tugagandan keyin ham sekundning ko‘p ulushlari davomida davom etuvchi _keyingi razryadni (afterdischarge)_ hosil qiluvchi zanjirlar."
+  },
+  "ch55-f75": {
+   "text": "**Rasm 55-10** da bukuvchi refleks paytida bukuvchi muskuldan yozib olingan tipik miogramma ko‘rsatilgan. Og‘riq sezuvchi nervi qo‘zg‘atila boshlagandan keyin bir necha millisekund ichida bukuvchi javob paydo bo‘ladi. So‘ngra keyingi bir necha soniya ichida refleks _charchay_ boshlaydi; bu orqa miyaning deyarli barcha murakkab integrativ reflekslariga xos xususiyatdir. Nihoyat, qo‘zg‘atuvchi ta’siri tugagach, muskul qisqarishi boshlang‘ich darajaga qaytadi, ammo keyingi razryad sababli bu ko‘p millisekundlarni oladi. Keyingi razryadning davomiyligi refleksni chaqirgan sezgi qo‘zg‘atuvchisining intensivligiga bog‘liq: kuchsiz taktil qo‘zg‘atuvchi deyarli hech qanday keyingi razryad bermaydi, kuchli og‘riq qo‘zg‘atuvchisidan keyin esa keyingi razryad bir soniya yoki undan ko‘proq davom etishi mumkin."
+  },
+  "ch55-f77": {
+   "text": "Bukuvchi refleksdagi keyingi razryad deyarli aniq 47-bobda muhokama qilingan takroriy razryad zanjirlarining ikkala turidan kelib chiqadi. Elektrofiziologik tadqiqotlar shuni ko‘rsatadiki, taxminan 6–8 millisekund davom etadigan darhol keyingi razryad qo‘zg‘algan interneyronlarning takroriy razryadidan kelib chiqadi. Shuningdek, kuchli og‘riq qo‘zg‘atuvchilaridan keyin uzoq davom etuvchi keyingi razryad yuzaga keladi; u deyarli aniq aylanma (reverberatsiyalovchi) interneyron zanjirlarida tebranishni boshlab beruvchi qaytuvchi yo‘llardan kelib chiqadi. Bular, o‘z navbatida, impulslarni oldingi motoneyronlarga ba’zan kiruvchi sezgi signali tugaganidan keyin ham bir necha soniya davomida uzatadi."
+  },
+  "ch55-f78": {
+   "text": "Shunday qilib, bukuvchi refleks tananing og‘riyotgan yoki boshqacha ta’sirlangan qismini qo‘zg‘atuvchidan tortib olishga mos tarzda tashkil topgan. Bundan tashqari, keyingi razryad tufayli refleks ta’sirlangan qismni ta’sirlanish tugaganidan keyin ham 0,1–3 soniya davomida qo‘zg‘atuvchidan uzoqda ushlab turishi mumkin. Shu vaqt ichida markaziy nerv tizimining boshqa reflekslari va harakatlari butun tanani og‘riqli qo‘zg‘atuvchidan uzoqlashtirishi mumkin."
+  },
+  "ch55-f79": {
+   "text": "Bukuvchi refleks chaqirilganda yuzaga keladigan tortib olish shakli qaysi sezuvchi nerv qo‘zg‘atilganiga bog‘liq. Masalan, qo‘lning ichki tomonidagi og‘riq qo‘zg‘atuvchisi nafaqat qo‘lning bukuvchi muskullarini, balki qo‘lni tashqariga tortuvchi uzoqlashtiruvchi (abduktor) muskullarni ham qisqartiradi. Boshqacha aytganda, orqa miyaning integrativ markazlari tananing og‘riyotgan qismini og‘riq keltirib chiqarayotgan narsadan eng samarali uzoqlashtira oladigan muskullarni qisqartiradi. Bu tamoyil tananing har qanday qismiga taalluqli bo‘lsa-da, bukuvchi reflekslari yuqori rivojlangan oyoq-qo‘llarga ayniqsa xosdir.",
+   "lead": "Bukuvchi refleks paytidagi tortib olish shakli."
+  },
+  "ch55-f80": {
+   "text": "Kesishgan yozuvchi refleks"
+  },
+  "ch55-f81": {
+   "text": "Qo‘zg‘atuvchi bir oyoq-qo‘lda bukuvchi refleksni chaqirgandan taxminan 0,2–0,5 soniya o‘tgach, qarama-qarshi oyoq-qo‘l yozila boshlaydi. Bu refleks _kesishgan yozuvchi (ekstenzor) refleks_ deb ataladi. Qarama-qarshi oyoq-qo‘lning yozilishi butun tanani tortib olingan oyoq-qo‘lda og‘riqli qo‘zg‘alish keltirib chiqarayotgan narsadan itarib uzoqlashtirishi mumkin."
+  },
+  "ch55-f82": {
+   "text": "**Rasm 55-9** ning o‘ng qismida kesishgan yozuvchi refleks uchun javobgar neyron zanjiri ko‘rsatilgan; unda sezuvchi nervlardan keluvchi signallar yozuvchi muskullarni qo‘zg‘atish uchun orqa miyaning qarama-qarshi tomoniga o‘tishi namoyon. Kesishgan yozuvchi refleks odatda boshlang‘ich og‘riq qo‘zg‘atuvchisi boshlanganidan 200–500 millisekund o‘tgachgina boshlangani sababli, kiruvchi sezuvchi neyron bilan orqa miyaning qarama-qarshi tomonidagi kesishgan yozilish uchun javobgar motoneyronlar o‘rtasidagi zanjirda ko‘plab interneyronlar ishtirok etishi aniq. Og‘riqli qo‘zg‘atuvchi olib tashlangandan keyin kesishgan yozuvchi refleksning keyingi razryad davri bukuvchi refleksnikidan ham uzunroq bo‘ladi. Bu uzoq davom etuvchi keyingi razryad ham interneyron hujayralari orasidagi aylanma zanjirlardan kelib chiqadi deb taxmin qilinadi.",
+   "lead": "Kesishgan yozuvchi refleksning neyron mexanizmi."
+  },
+  "ch55-f83": {
+   "text": "**Rasm 55-11** da kesishgan yozuvchi refleksda ishtirok etuvchi muskuldan yozib olingan tipik miogramma ko‘rsatilgan. Bu miogramma refleks boshlanishidan oldingi nisbatan uzoq latent davrni va qo‘zg‘atuvchi oxiridagi uzoq keyingi razryadni namoyish qiladi. Uzoq keyingi razryad tananing og‘riyotgan sohasini boshqa nerv reaksiyalari butun tanani uzoqlashtirmaguncha og‘riqli narsadan uzoqda ushlab turishda foydalidir."
+  },
+  "ch55-f85": {
+   "text": "Resiprok tormozlanish va resiprok innervatsiya"
+  },
+  "ch55-f86": {
+   "text": "Avvalroq ta’kidlaganimizdek, bir guruh muskullarning qo‘zg‘alishi ko‘pincha boshqa guruhning tormozlanishi bilan birga kechadi. Masalan, cho‘zilish refleksi bir muskulni qo‘zg‘atganda, u ko‘pincha bir vaqtning o‘zida antagonist muskullarni tormozlaydi; bu hodisa _resiprok_"
+  },
+  "ch55-f87": {
+   "text": "_tormozlanish_ deb ataladi, bu resiprok munosabatni keltirib chiqaruvchi neyron zanjiri esa _resiprok innervatsiya_ deb ataladi. Xuddi shunday, resiprok munosabatlar ko‘pincha tananing ikki tomonidagi muskullar o‘rtasida ham mavjud bo‘ladi; bunga yuqorida tasvirlangan bukuvchi va yozuvchi muskul reflekslari misol bo‘ladi."
+  },
+  "ch55-f88": {
+   "text": "**Rasm 55-12** da resiprok tormozlanishning tipik misoli ko‘rsatilgan. Bu misolda tananing bir oyoq-qo‘lidan o‘rtacha kuchli, ammo uzoq davom etuvchi bukuvchi refleks chaqiriladi; bu refleks hali davom etayotganda tananing qarama-qarshi tomonidagi oyoq-qo‘lda kuchliroq bukuvchi refleks chaqiriladi. Bu kuchliroq refleks birinchi oyoq-qo‘lga resiprok tormozlovchi signallar yuboradi va uning bukilish darajasini pasaytiradi. Nihoyat, kuchliroq refleks olib tashlangach, dastlabki refleks avvalgi intensivligiga qaytadi."
+  },
+  "ch55-f90": {
+   "text": "Tana holati (postura) va harakatlanish (lokomotsiya) reflekslari"
+  },
+  "ch55-f91": {
+   "text": "Orqa miyaning postural va lokomotor reflekslari"
+  },
+  "ch55-f92": {
+   "text": "Detserebratsiyalangan hayvonning panja yostiqchasiga bosim berilganda oyoq oyoq panjasiga ta’sir qilayotgan bosimga qarshi yoziladi. Haqiqatan ham bu refleks shunchalik kuchliki, orqa miyasi bir necha oy oldin kesilgan — reflekslari kuchayib ketgan — hayvon oyoqlariga qo‘yilsa, refleks ko‘pincha oyoqlarni tana og‘irligini ko‘tara oladigan darajada qotiradi. Bu refleks _musbat tayanch reaksiyasi_ deb ataladi.",
+   "lead": "Musbat tayanch reaksiyasi."
+  },
+  "ch55-f93": {
+   "text": "Musbat tayanch reaksiyasi bukuvchi va kesishgan yozuvchi reflekslar uchun javobgar zanjirlarga o‘xshash, interneyronlardagi murakkab zanjirni o‘z ichiga oladi. Panja yostiqchasidagi bosim joyi oyoq qaysi yo‘nalishda yozilishini belgilaydi: bir tomonga berilgan bosim o‘sha yo‘nalishda yozilishga olib keladi; bu ta’sir _magnit reaksiyasi_ deb ataladi. Bu reaksiya hayvonning o‘sha tomonga yiqilib tushishining oldini olishga yordam beradi."
+  },
+  "ch55-f94": {
+   "text": "Orqa miyasi kesilgan hayvon yonboshiga yotqizilsa, u tik turish holatiga ko‘tarilishga urinib, muvofiqlashmagan harakatlar qiladi. Bu refleks _orqa miyaning tiklash refleksi_ deb ataladi. Bunday refleks tana holati bilan bog‘liq ba’zi nisbatan murakkab reflekslar orqa miyada integratsiyalanishini ko‘rsatadi. Haqiqatan ham, ko‘krak qismida, old va orqa oyoqlar innervatsiyasi darajalari orasida orqa miyasi kesilgan va yaxshi tuzalgan hayvon yotgan holatdan tiklana oladi va hatto old oyoqlaridan tashqari orqa oyoqlaridan ham foydalanib yura oladi. Ko‘krak qismida orqa miyasi xuddi shunday kesilgan opossumda orqa oyoqlarning yurish harakatlari normal opossumnikidan deyarli farq qilmaydi, faqat orqa oyoqlarning yurish harakatlari old oyoqlarniki bilan sinxronlashmagan bo‘ladi.",
+   "lead": "Orqa miyaning “tiklash” (to‘g‘rilash) reflekslari."
+  },
+  "ch55-f95": {
+   "text": "Qadam tashlash va yurish harakatlari"
+  },
+  "ch55-f96": {
+   "text": "Orqa miyasi kesilgan hayvonlarning oyoqlarida ritmik qadam tashlash harakatlari tez-tez kuzatiladi. Haqiqatan ham, orqa miyaning bel qismi orqa miyaning qolgan qismidan ajratilganda va orqa miyaning ikki tomoni hamda ikki oyoq o‘rtasidagi neyron bog‘lanishlarni to‘sish uchun orqa miya markazi bo‘ylab bo‘ylama kesik qilinganda ham, har bir orqa oyoq alohida qadam tashlash funksiyalarini bajara oladi. Oyoqning oldinga bukilishidan taxminan bir soniya o‘tgach orqaga yozilish yuz beradi. Keyin yana bukilish sodir bo‘ladi va sikl qayta-qayta takrorlanadi.",
+   "lead": "Bitta oyoq-qo‘lning ritmik qadam tashlash harakatlari."
+  },
+  "ch55-f97": {
+   "text": "Bukuvchi va yozuvchi muskullar o‘rtasidagi bu oldinga-orqaga tebranish sezuvchi nervlar kesilgandan keyin ham yuzaga kelishi mumkin; u asosan orqa miya matritsasi ichidagi, agonist va antagonist muskullarni boshqaruvchi neyronlar o‘rtasida tebranib turuvchi o‘zaro resiprok tormozlanish zanjirlaridan kelib chiqadiganga o‘xshaydi."
+  },
+  "ch55-f98": {
+   "text": "Oyoq yuza bo‘ylab yurishiga imkon berilganda, panja yostiqchalaridan va bo‘g‘imlar atrofidagi holat sensorlaridan keladigan sezgi signallari oyoq bosimini va qadam tashlash chastotasini boshqarishda kuchli rol o‘ynaydi. Aslida qadam tashlashni boshqaruvchi orqa miya mexanizmi bundan ham murakkabroq bo‘lishi mumkin. Masalan, oldinga siljish paytida oyoq panjasining usti to‘siqqa duch kelsa, oldinga siljish vaqtincha to‘xtaydi; so‘ngra tez ketma-ketlikda oyoq balandroq ko‘tariladi va to‘siq ustiga qo‘yilish uchun oldinga harakat qiladi. Bu _qoqilish refleksidir._ Shunday qilib, orqa miya aqlli yurish boshqaruvchisidir."
+  },
+  "ch55-f99": {
+   "text": "Agar orqa miyaning bel qismi markazidan bo‘ylama kesilmagan bo‘lsa, bir oyoqda har safar oldinga qadam tashlanganda, qarama-qarshi oyoq odatda orqaga harakatlanadi. Bu ta’sir ikki oyoq o‘rtasidagi resiprok innervatsiyadan kelib chiqadi.",
+   "lead": "Qarama-qarshi oyoqlarning resiprok qadam tashlashi."
+  },
+  "ch55-f100": {
+   "text": "Yaxshi tuzalgan spinal hayvon (orqa miyasi bo‘yin sohasida, old oyoqlar sohasidan yuqorida kesilgan) poldan ko‘tarib ushlab turilsa va oyoqlari osilib qolsa, oyoqlarning cho‘zilishi ba’zan to‘rtala oyoqni qamrab oluvchi qadam tashlash reflekslarini chaqiradi. Umuman olganda, qadam tashlash old va orqa oyoqlar o‘rtasida diagonal tarzda sodir bo‘ladi. Bu diagonal javob resiprok innervatsiyaning yana bir ko‘rinishi bo‘lib, bu safar old va orqa oyoqlar o‘rtasida orqa miya bo‘ylab butun masofa davomida yuz beradi. Bunday yurish shakli _joyida yurish refleksi_ (“mark time” refleksi) deb ataladi.",
+   "lead": "To‘rtala oyoqning diagonal qadam tashlashi — “joyida yurish” refleksi."
+  },
+  "ch55-f101": {
+   "text": "Ba’zi hayvonlarda ayniqsa muhim orqa miya reflekslaridan biri — _qichishish_ yoki _qitiqlanish sezgisi_ bilan boshlanadigan qashish refleksi. Bu refleks ikki funksiyani o‘z ichiga oladi: (1) panjaga tana yuzasidagi ta’sirlanishning aniq nuqtasini topishga imkon beruvchi _holat sezgisi;_ va (2) _oldinga-orqaga qashish harakati._"
+  },
+  "ch55-f102": {
+   "text": "Qashish refleksining _holat sezgisi_ yuqori darajada rivojlangan funksiyadir. Burga spinal hayvonning yelkasigacha oldinga emaklab borsa ham, orqa panja uning joyini topa oladi — vaholanki panjani emaklayotgan burga turgan joyga keltirish uchun oyoqdagi 19 ta muskul bir vaqtda aniq tartibda qisqarishi kerak. Refleksni yanada murakkablashtiradigan holat shundaki, burga o‘rta chiziqni kesib o‘tganda birinchi panja qashishni to‘xtatadi, qarama-qarshi panja esa oldinga-orqaga harakatni boshlaydi va oxir-oqibat burgani topadi."
+  },
+  "ch55-f103": {
+   "text": "_Oldinga-orqaga harakat,_ harakatlanishdagi qadam tashlash harakatlari kabi, tebranishni keltirib chiqaruvchi resiprok innervatsiya zanjirlarini o‘z ichiga oladi."
+  },
+  "ch55-f104": {
+   "text": "Odamlarda mahalliy muskul spazmi tez-tez kuzatiladi. Ko‘p hollarda, hatto aksariyat hollarda mahalliy spazmning sababi mahalliy og‘riq bo‘ladi."
+  },
+  "ch55-f105": {
+   "text": "Klinik jihatdan muhim spazm turlaridan biri singan suyak atrofidagi muskullarda yuzaga keladi. Spazm suyakning singan qirralaridan boshlanadigan og‘riq impulslari natijasida yuzaga keladi; ular shu soha atrofidagi muskullarning tonik qisqarishiga sabab bo‘ladi. Suyakning singan qirralariga mahalliy anestetik yuborish orqali og‘riqni qoldirish spazmni bartaraf etadi; butun tananing chuqur umumiy anesteziyasi, masalan efir narkozi ham spazmni bartaraf etadi.",
+   "lead": "Suyak sinishi natijasidagi muskul spazmi."
+  },
+  "ch55-f106": {
+   "text": "Orqa miya reflekslari keltirib chiqaradigan mahalliy spazmning yana bir turi — peritonit sababli parietal qorinpardaning ta’sirlanishidan kelib chiqadigan qorin spazmi. Bu yerda ham peritonit keltirib chiqargan og‘riqni qoldirish spastik muskulning bo‘shashishiga imkon beradi. Xuddi shunday spazm ko‘pincha jarrohlik operatsiyalari paytida ham yuzaga keladi; masalan, qorin bo‘shlig‘idagi operatsiyalarda parietal qorinpardadan keladigan og‘riq impulslari ko‘pincha qorin muskullarining kuchli qisqarishiga sabab bo‘ladi va ba’zan ichaklarni jarrohlik yarasi orqali tashqariga chiqarib yuboradi. Shu sababli qorin bo‘shlig‘i ichidagi operatsiyalar uchun odatda chuqur anesteziya talab qilinadi.",
+   "lead": "Peritonitli bemorlarda qorin muskullari spazmi."
+  },
+  "ch55-f107": {
+   "text": "Mahalliy spazmning yana bir turi — odatiy muskul tortishishi (krampi). Muskuldagi har qanday mahalliy ta’sirlovchi omil yoki metabolik buzilish — masalan, qattiq sovuq, qon oqimining yetishmasligi yoki haddan tashqari jismoniy zo‘riqish — muskuldan orqa miyaga uzatiladigan og‘riq yoki boshqa sezgi signallarini keltirib chiqarishi mumkin; ular esa o‘z navbatida refleks qaytar aloqa orqali muskul qisqarishiga sabab bo‘ladi. Bu qisqarish o‘sha sezgi retseptorlarini yanada ko‘proq qo‘zg‘atadi, deb hisoblanadi; bu esa orqa miyaning qisqarish intensivligini oshirishiga olib keladi. Shunday qilib, musbat qaytar aloqa rivojlanadi va dastlabki kichik ta’sirlanish to to‘liq muskul tortishishi yuzaga kelguncha borgan sari kuchliroq qisqarishga sabab bo‘ladi.",
+   "lead": "Muskul tortishishlari (krampi)."
+  },
+  "ch55-f108": {
+   "text": "Orqa miyada segmentar vegetativ (avtonom) reflekslarning ko‘plab turlari integratsiyalanadi, ularning aksariyati boshqa boblarda muhokama qilingan. Qisqacha aytganda, bu reflekslarga quyidagilar kiradi: (1) terining mahalliy haroratidagi o‘zgarishlar natijasida tomir tonusining o‘zgarishi (qarang: 74-bob); (2) tana yuzasining mahalliy isishi natijasida terlash (qarang: 74-bob); (3) ichakning ba’zi harakat funksiyalarini boshqaruvchi ichak-ichak reflekslari (qarang: 63-bob); (4) qorinparda ta’sirlanishiga javoban oshqozon-ichak motorikasini tormozlovchi qorinparda-ichak reflekslari (qarang: 67-bob); va (5) to‘lgan siydik pufagini (qarang: 26-bob) yoki yo‘g‘on ichakni (qarang: 64-bob) bo‘shatish reflekslari. Bundan tashqari, barcha segmentar reflekslar ba’zan bir vaqtning o‘zida keyinroq tasvirlanadigan _ommaviy (massiv) refleks_ shaklida chaqirilishi mumkin."
+  },
+  "ch55-f109": {
+   "text": "Orqa miyasi kesilgan hayvon yoki odamda ba’zan orqa miya to‘satdan haddan tashqari faollashib, uning katta qismlarida ommaviy razryadga sabab bo‘ladi. Bu ortiqcha faollikni keltirib chiqaruvchi odatiy qo‘zg‘atuvchi — teriga kuchli og‘riqli ta’sir yoki ichki a’zoning haddan tashqari to‘lishi, masalan siydik pufagi yoki ichakning haddan tashqari kengayishi. Qo‘zg‘atuvchi turidan qat’i nazar, natijada yuzaga keladigan _ommaviy refleks_ deb ataladigan refleks orqa miyaning katta qismlarini yoki hatto butunini qamrab oladi. Uning ta’sirlari quyidagicha: (1) tana skelet muskullarining katta qismi kuchli bukuvchi spazmga tushadi; (2) yo‘g‘on ichak va siydik pufagi bo‘shashi ehtimoli katta; (3) arterial bosim ko‘pincha maksimal qiymatlargacha, ba’zan sistolik bosim 200 mm sim. ust. dan ancha yuqori darajagacha ko‘tariladi; va (4) tananing katta sohalari ko‘p terlaydi.",
+   "lead": "Ommaviy refleks."
+  },
+  "ch55-f110": {
+   "text": "Ommaviy refleks daqiqalab davom etishi mumkinligi sababli, u, ehtimol, orqa miyaning katta sohalarini bir vaqtda qo‘zg‘atuvchi ko‘p sonli aylanma zanjirlarning faollashuvidan kelib chiqadi. Bu mexanizm epileptik tutqanoqlar mexanizmiga o‘xshaydi; ularda aylanma zanjirlar orqa miyada emas, balki bosh miyada yuzaga keladi."
+  },
+  "ch55-f111": {
+   "text": "Orqa miya bo‘yinning yuqori qismida to‘satdan kesilganda, orqa miyaning deyarli barcha funksiyalari, jumladan orqa miya reflekslari ham, darhol to‘liq sukunat darajasigacha susayadi; bu reaksiya _spinal shok_ deb ataladi. Bu reaksiyaning sababi shundaki, orqa miya neyronlarining normal faolligi ko‘p jihatdan yuqori markazlardan orqa miyaga kiruvchi nerv tolalari razryadi — ayniqsa retikulospinal, vestibulospinal va kortikospinal yo‘llar orqali uzatiladigan razryad — tomonidan doimiy tonik qo‘zg‘atilishga bog‘liq."
+  },
+  "ch55-f112": {
+   "text": "Bir necha soatdan bir necha haftagacha vaqt o‘tgach, orqa miya neyronlari asta-sekin o‘z qo‘zg‘aluvchanligini tiklaydi. Bu hodisa nerv tizimining hamma joyidagi neyronlarning tabiiy xususiyatiga o‘xshaydi: faollashtiruvchi impulslar manbaini yo‘qotgandan keyin ular yo‘qotishni hech bo‘lmaganda qisman qoplash uchun o‘zlarining tabiiy qo‘zg‘aluvchanlik darajasini oshiradi. Primat bo‘lmagan hayvonlarning ko‘pchiligida orqa miya markazlarining qo‘zg‘aluvchanligi bir necha soatdan bir kungacha deyarli normal holatga qaytadi, ammo odamlarda tiklanish ko‘pincha bir necha haftaga cho‘ziladi va ba’zan hech qachon to‘liq bo‘lmaydi; aksincha, ba’zan tiklanish haddan tashqari bo‘lib, orqa miyaning ba’zi yoki barcha funksiyalarida o‘ta qo‘zg‘aluvchanlik yuzaga keladi."
+  },
+  "ch55-f113": {
+   "text": "Spinal shok paytida yoki undan keyin ayniqsa ta’sirlanadigan orqa miya funksiyalaridan ba’zilari quyidagilar: 1. Spinal shok boshlanishida arterial qon bosimi deyarli bir zumda va keskin — ba’zan 40 mm sim. ust. gacha — pasayadi; bu simpatik nerv tizimi faolligi deyarli butunlay to‘xtab qolishini ko‘rsatadi. Bosim odatda bir necha kun ichida, hatto odamlarda ham, normal holatga qaytadi. 2. Orqa miyada integratsiyalanadigan barcha skelet muskul reflekslari shokning dastlabki bosqichlarida to‘siladi. Quyi hayvonlarda bu reflekslarning normal holatga qaytishi uchun bir necha soatdan bir necha kungacha, odamlarda esa ba’zan 2 haftadan bir necha oygacha vaqt talab qilinadi. Hayvonlarda ham, odamlarda ham ba’zi reflekslar oxir-oqibat o‘ta qo‘zg‘aluvchan bo‘lib qolishi mumkin, ayniqsa orqa miyaning qolgan qismi kesilgan bo‘lsa-yu, bosh miya va orqa miya o‘rtasida bir nechta faollashtiruvchi yo‘llar saqlanib qolgan bo‘lsa. Birinchi bo‘lib cho‘zilish reflekslari tiklanadi, so‘ng tartib bilan tobora murakkabroq reflekslar: bukuvchi reflekslar, postural antigravitatsion reflekslar va qadam tashlash reflekslarining qoldiqlari. 3. Siydik pufagi va yo‘g‘on ichakni bo‘shatishni boshqaruvchi sakral reflekslar odamlarda orqa miya kesilgandan keyingi dastlabki bir necha hafta davomida bostirilgan bo‘ladi, ammo ko‘p hollarda oxir-oqibat tiklanadi. Bu ta’sirlar 26- va 67-boblarda muhokama qilinadi."
+  }
+ },
+ "figures": {
+  "gh14-fig-55-01": "Periferik sezuvchi tolalar va kortikospinal tolalarning orqa miya interneyronlari va oldingi motoneyronlari bilan bog‘lanishlari.",
+  "gh14-fig-55-02": "Skelet muskulini innervatsiya qiluvchi periferik sezuvchi tolalar va oldingi motoneyronlar.",
+  "gh14-fig-55-03": "Muskul urchug‘i va uning yirik ekstrafuzal skelet muskul tolalari bilan munosabati. Muskul urchug‘ining harakat va sezuvchi innervatsiyasiga ham e’tibor bering.",
+  "gh14-fig-55-04": "Muskul urchug‘ining yadro xaltali va yadro zanjirli tolalaridan keluvchi nerv bog‘lanishlarining tafsilotlari. (Stein RB: Peripheral control of movement. Physiol Rev 54:225, 1974 dan o‘zgartirilgan.)",
+  "gh14-fig-55-05": "Cho‘zilish refleksining neyron zanjiri.",
+  "gh14-fig-55-06": "Orqa miya signali ikki xil sharoitda keltirib chiqargan muskul qisqarishi. A egri chiziq — normal muskulda, B egri chiziq — muskul urchuqlari 82 kun oldin orqa miya orqa ildizlarini kesish orqali denervatsiya qilingan muskulda. A egri chiziqda muskul urchug‘i refleksining silliqlovchi ta’siriga e’tibor bering. (Creed RS, Denney-Brown D, Eccles JC, et al: Reflex Activity of the Spinal Cord. New York: Oxford University Press, 1932 dan o‘zgartirilgan.)",
+  "gh14-fig-55-07": "Tizza refleksini chaqirish paytida to‘rt boshli son muskulidan (yuqorida) va to‘piq klonusi paytida boldir (gastroknemius) muskulidan (pastda) yozib olingan miogrammalar.",
+  "gh14-fig-55-08": "Golji pay refleksi. Muskulning haddan tashqari tarangligi Golji pay organidagi sezgi retseptorlarini qo‘zg‘atadi. Retseptorlardan keluvchi signallar sezuvchi afferent nerv tolasi orqali uzatiladi; u orqa miyadagi tormozlovchi interneyronni qo‘zg‘atib, oldingi motoneyron faolligini tormozlaydi, muskulni bo‘shashtiradi va uni haddan tashqari taranglikdan himoya qiladi.",
+  "gh14-fig-55-09": "Bukuvchi refleks, kesishgan yozuvchi refleks va resiprok tormozlanish.",
+  "gh14-fig-55-10": "Bukuvchi refleks miogrammasi: refleksning tez boshlanishi, charchash oralig‘i va nihoyat kiruvchi qo‘zg‘atuvchi tugagandan keyingi keyingi razryad.",
+  "gh14-fig-55-11": "Kesishgan yozuvchi refleks miogrammasi: sekin boshlanish, ammo uzoq davom etuvchi keyingi razryad.",
+  "gh14-fig-55-12": "Bukuvchi refleks miogrammasi: tananing qarama-qarshi tomonidagi kuchliroq bukuvchi refleksdan keluvchi tormozlovchi qo‘zg‘atuvchi keltirib chiqargan resiprok tormozlanish."
+ }
+}

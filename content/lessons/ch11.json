@@ -1,0 +1,1337 @@
+{
+ "id": "ch11",
+ "topicId": "03",
+ "order": 3,
+ "titleUz": "Elektrokardiografiya asoslari",
+ "titleOriginal": "Fundamentals of Electrocardiography",
+ "subtitle": "*Fundamentals of Electrocardiography* · III bo'lim · PDF 130–136 (kitob 125–131)",
+ "contentVersion": "2026-11-14.1",
+ "status": "in_review",
+ "translationStatus": "machine_assisted",
+ "source": {
+  "bookId": "guyton-hall-14",
+  "chapter": 11,
+  "unit": "III",
+  "pdfPages": [
+   130,
+   136
+  ],
+  "printedPages": [
+   125,
+   131
+  ],
+  "notesFile": "guyton-notes/ch11-fundamentals-of-electrocardiography.md",
+  "summaryFile": "guyton-notes/summaries/ch11.md"
+ },
+ "pdfPages": [
+  130,
+  136
+ ],
+ "printedPages": [
+  125,
+  131
+ ],
+ "outline": [
+  {
+   "level": 1,
+   "title": "Waveforms of the Normal Electrocardiogram",
+   "pdfPage": 130,
+   "printedPage": "125",
+   "id": "ch11-h-waveforms-of-the-normal-electrocardiogram"
+  },
+  {
+   "level": 2,
+   "title": "CARDIAC DEPOLARIZATION WAVES VERSUS REPOLARIZATION WAVES",
+   "pdfPage": 130,
+   "printedPage": "125",
+   "id": "ch11-h-cardiac-depolarization-waves-versus-repolarization-waves"
+  },
+  {
+   "level": 3,
+   "title": "Relation of the Monophasic Action Potential of Ventricular Muscle to the QRS and T Waves in the Standard Electrocardiogram",
+   "pdfPage": 130,
+   "printedPage": "125",
+   "id": "ch11-h-relation-of-the-monophasic-action-potential-of-ventricular-m"
+  },
+  {
+   "level": 2,
+   "title": "RELATIONSHIP OF ATRIAL AND VENTRICULAR CONTRACTION TO THE WAVES OF THE ELECTROCARDIOGRAM",
+   "pdfPage": 131,
+   "printedPage": "126",
+   "id": "ch11-h-relationship-of-atrial-and-ventricular-contraction-to-the-wa"
+  },
+  {
+   "level": 2,
+   "title": "ELECTROCARDIOGRAPHIC CALIBRATION AND DISPLAY",
+   "pdfPage": 132,
+   "printedPage": "127",
+   "id": "ch11-h-electrocardiographic-calibration-and-display"
+  },
+  {
+   "level": 3,
+   "title": "Normal Voltages in the Electrocardiogram",
+   "pdfPage": 132,
+   "printedPage": "127",
+   "id": "ch11-h-normal-voltages-in-the-electrocardiogram"
+  },
+  {
+   "level": 3,
+   "title": "P-Q or P-R Interval",
+   "pdfPage": 132,
+   "printedPage": "127",
+   "id": "ch11-h-p-q-or-p-r-interval"
+  },
+  {
+   "level": 3,
+   "title": "Q-T Interval",
+   "pdfPage": 132,
+   "printedPage": "127",
+   "id": "ch11-h-q-t-interval"
+  },
+  {
+   "level": 3,
+   "title": "Heart Rate as Determined from the Electrocardiogram",
+   "pdfPage": 132,
+   "printedPage": "127",
+   "id": "ch11-h-heart-rate-as-determined-from-the-electrocardiogram"
+  },
+  {
+   "level": 1,
+   "title": "FLOW OF CURRENT AROUND THE HEART DURING THE CARDIAC CYCLE",
+   "pdfPage": 132,
+   "printedPage": "127",
+   "id": "ch11-h-flow-of-current-around-the-heart-during-the-cardiac-cycle"
+  },
+  {
+   "level": 2,
+   "title": "Recording Electrical Potentials from a Partially Depolarized Mass of Syncytial Cardiac Muscle",
+   "pdfPage": 132,
+   "printedPage": "127",
+   "id": "ch11-h-recording-electrical-potentials-from-a-partially-depolarized"
+  },
+  {
+   "level": 2,
+   "title": "Flow of Electrical Currents in the Chest Around the Heart",
+   "pdfPage": 133,
+   "printedPage": "128",
+   "id": "ch11-h-flow-of-electrical-currents-in-the-chest-around-the-heart"
+  },
+  {
+   "level": 1,
+   "title": "Electrocardiographic Leads",
+   "pdfPage": 133,
+   "printedPage": "128",
+   "id": "ch11-h-electrocardiographic-leads"
+  },
+  {
+   "level": 2,
+   "title": "Three Standard Bipolar Limb Leads",
+   "pdfPage": 133,
+   "printedPage": "128",
+   "id": "ch11-h-three-standard-bipolar-limb-leads"
+  },
+  {
+   "level": 3,
+   "title": "Lead I",
+   "pdfPage": 134,
+   "printedPage": "129",
+   "id": "ch11-h-lead-i"
+  },
+  {
+   "level": 3,
+   "title": "Lead II",
+   "pdfPage": 134,
+   "printedPage": "129",
+   "id": "ch11-h-lead-ii"
+  },
+  {
+   "level": 3,
+   "title": "Lead III",
+   "pdfPage": 134,
+   "printedPage": "129",
+   "id": "ch11-h-lead-iii"
+  },
+  {
+   "level": 3,
+   "title": "Einthoven’s Triangle",
+   "pdfPage": 134,
+   "printedPage": "129",
+   "id": "ch11-h-einthovens-triangle"
+  },
+  {
+   "level": 3,
+   "title": "Einthoven’s Law",
+   "pdfPage": 134,
+   "printedPage": "129",
+   "id": "ch11-h-einthovens-law"
+  },
+  {
+   "level": 3,
+   "title": "Normal Electrocardiograms Recorded from the Three Standard Bipolar Limb Leads",
+   "pdfPage": 134,
+   "printedPage": "129",
+   "id": "ch11-h-normal-electrocardiograms-recorded-from-the-three-standard-b"
+  },
+  {
+   "level": 2,
+   "title": "Precordial Leads",
+   "pdfPage": 135,
+   "printedPage": "130",
+   "id": "ch11-h-precordial-leads"
+  },
+  {
+   "level": 2,
+   "title": "Augmented Limb Leads",
+   "pdfPage": 135,
+   "printedPage": "130",
+   "id": "ch11-h-augmented-limb-leads"
+  }
+ ],
+ "objectives": [
+  "Normal EKG to'lqinlari",
+  "Kalibrovka va normal qiymatlar",
+  "Yurak atrofidagi tok",
+  "Ulanishlar",
+  "Ambulator EKG"
+ ],
+ "blocks": {
+  "simple": [
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Asosiy g'oya",
+    "id": "ch11-s-0-asosiy-goya",
+    "bid": "ch11-u0"
+   },
+   {
+    "type": "paragraph",
+    "text": "Yurak impulsi o'tganda tok atrof to'qimalarga va teri yuzasigacha tarqaladi; terida yozilgan potensiallar — **EKG**. EKG faqat yurakning bir qismi depolyarizatsiyalangan, boshqasi qutblangan paytda yoziladi (to'liq qutblangan yoki to'liq depolyarizatsiyalangan holatda potensial yo'q).",
+    "bid": "ch11-u1"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Normal EKG to'lqinlari (p.130–131, Fig. 11-1)",
+    "pdfPages": [
+     130,
+     131
+    ],
+    "id": "ch11-s-2-normal-ekg-tolqinlari-p-130-131-fig-11-1",
+    "bid": "ch11-u2"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**P** — bo'lmachalar depolyarizatsiyasi (qisqarishdan oldin).",
+      "depth": 0
+     },
+     {
+      "text": "**QRS** (Q, R, S) — qorinchalar depolyarizatsiyasi. P va QRS — depolyarizatsiya to'lqinlari.",
+      "depth": 0
+     },
+     {
+      "text": "**T** — qorinchalar repolyarizatsiyasi; depolyarizatsiyadan 0,25–0,35 s keyin. Repolyarizatsiya to'lqini.",
+      "depth": 0
+     },
+     {
+      "text": "Fig. 11-2: bitta tolada depolyarizatsiya chapdan o'ngga yursa — musbat to'lqin; repolyarizatsiya xuddi shu yo'nalishda — manfiy to'lqin.",
+      "depth": 0
+     },
+     {
+      "text": "Fig. 11-3: qorincha monofazik AP si 0,25–0,35 s; QRS AP boshida, T oxirida.",
+      "depth": 0
+     },
+     {
+      "text": "**Bo'lmacha T to'lqini**: bo'lmachalar P tugagandan 0,15–0,20 s keyin repolyarizatsiyalanadi — QRS bilan bir vaqtda, shuning uchun odatda ko'rinmaydi.",
+      "depth": 0
+     },
+     {
+      "text": "Qorincha repolyarizatsiyasi ba'zi tolalarda QRS boshidan ~0,20 s, boshqalarida 0,35 s keyin → ~0,15 s davom etadi → T uzun, lekin voltaji QRS dan past.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch11-u3"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-11-02",
+    "bid": "ch11-u4"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-11-03",
+    "bid": "ch11-u5"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-11-01",
+    "bid": "ch11-u6"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Kalibrovka va normal qiymatlar (p.132)",
+    "pdfPages": [
+     132,
+     132
+    ],
+    "id": "ch11-s-7-kalibrovka-va-normal-qiymatlar-p-132",
+    "bid": "ch11-u7"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Qorincha ustida + uzoqda elektrod: QRS 3–4 mV gacha (membranada monofazik AP 110 mV).",
+      "depth": 0
+     },
+     {
+      "text": "Qo'llar yoki qo'l–oyoq elektrodlari: **QRS 1,0–1,5 mV** (R cho'qqisidan S tubigacha), **P 0,1–0,3 mV**, **T 0,2–0,3 mV**.",
+      "depth": 0
+     },
+     {
+      "text": "**P-Q (P-R) intervali** ≈ **0,16 s** (P boshidan QRS boshigacha); simpatik ↑ / parasimpatik ↓ bilan tezroq ritmda qisqaradi, aksincha uzayadi.",
+      "depth": 0
+     },
+     {
+      "text": "**Q-T intervali** ≈ **0,35 s** (qorincha qisqarishi).",
+      "depth": 0
+     },
+     {
+      "text": "Vertikal: 10 kichik bo'lim = 1 mV (musbat — yuqoriga). Tezlik odatda **25 mm/s**: 25 mm = 1 s; qalin chiziqlar oralig'i 5 mm = 0,20 s; ingichka 0,04 s.",
+      "depth": 0
+     },
+     {
+      "text": "**YUQS** = 60 / R-R intervali (s). Kattalarda R-R ~0,83 s → 72 urish/min.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch11-u8"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Yurak atrofidagi tok (p.132–133, Fig. 11-4, 11-5)",
+    "pdfPages": [
+     132,
+     133
+    ],
+    "id": "ch11-s-9-yurak-atrofidagi-tok-p-132-133-fig-11-4-11-5",
+    "bid": "ch11-u9"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Depolyarizatsiyalangan qism tashqaridan manfiy, qutblangan qism musbat.",
+      "depth": 0
+     },
+     {
+      "text": "Yurak o'tkazuvchi muhitda (o'pkalar ham tok o'tkazadi). Impuls avval to'siqqa, keyin qorinchalar ichki yuzasiga keladi → ichki manfiy, tashqi musbat; tok ellips yo'llar bo'ylab; o'rtachasi **asosdan (manfiy) cho'qqi (musbat) tomon**. Depolyarizatsiya oxirida ~0,01 s yo'nalish teskari (oxirgi depolyarizatsiyalanadigan joy — asos yaqinidagi tashqi devorlar).",
+      "depth": 0
+     }
+    ],
+    "bid": "ch11-u10"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-11-04",
+    "bid": "ch11-u11"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-11-05",
+    "bid": "ch11-u12"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Ulanishlar (p.133–136)",
+    "pdfPages": [
+     133,
+     136
+    ],
+    "id": "ch11-s-13-ulanishlar-p-133-136",
+    "bid": "ch11-u13"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**Standart bipolyar oyoq-qo'l ulanishlari** (Fig. 11-6): **I** — manfiy o'ng qo'l, musbat chap qo'l; **II** — manfiy o'ng qo'l, musbat chap oyoq; **III** — manfiy chap qo'l, musbat chap oyoq.",
+      "depth": 0
+     },
+     {
+      "text": "**Eyntxoven uchburchagi** — ikki qo'l va chap oyoq uchlari yurak atrofida.",
+      "depth": 0
+     },
+     {
+      "text": "**Eyntxoven qonuni**: I + III = II (har lahzada, ishoralarga e'tibor). Misol: o'ng qo'l −0,2, chap qo'l +0,3, chap oyoq +1,0 mV → I = +0,5, III = +0,7, II = +1,2 mV.",
+      "depth": 0
+     },
+     {
+      "text": "Uchala ulanish o'xshash (P, T musbat, QRS asosan musbat) (Fig. 11-7) — aritmiya tashxisida ulanish tanlovi unchalik muhim emas (vaqt munosabatlari), lekin muskul yoki o'tkazuvchi tizim shikastlanishida juda muhim.",
+      "depth": 0
+     },
+     {
+      "text": "**Ko'krak (prekordial) ulanishlar V1–V6** (Fig. 11-8, 11-9): musbat elektrod ko'krakning 6 nuqtasida; manfiy — **Wilson markaziy terminali** (o'ng qo'l, chap qo'l, chap oyoq teng qarshiliklar orqali). Har biri asosan ostidagi muskulni yozadi — oldingi devordagi kichik o'zgarishlarni ham ko'rsatadi. **V1, V2** da QRS asosan manfiy (asosga yaqin); **V4–V6** da asosan musbat (cho'qqiga yaqin).",
+      "depth": 0
+     },
+     {
+      "text": "**Kuchaytirilgan (augmented) unipolyar ulanishlar aVR, aVL, aVF** (Fig. 11-10): ikkita oyoq-qo'l qarshilik orqali manfiy terminalga, uchinchisi musbatga. Standartlarga o'xshash, lekin **aVR teskari**.",
+      "depth": 0
+     },
+     {
+      "text": "12 ulanishli EKG ko'rinishi: I, II, III → aVR, aVL, aVF → V1–V6 (Fig. 11-11).",
+      "depth": 0
+     }
+    ],
+    "bid": "ch11-u14"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-11-06",
+    "bid": "ch11-u15"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-11-07",
+    "bid": "ch11-u16"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-11-08",
+    "bid": "ch11-u17"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-11-09",
+    "bid": "ch11-u18"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-11-10",
+    "bid": "ch11-u19"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-11-11",
+    "bid": "ch11-u20"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Ambulator EKG (p.136)",
+    "pdfPages": [
+     136,
+     136
+    ],
+    "id": "ch11-s-21-ambulator-ekg-p-136",
+    "bid": "ch11-u21"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "O'tkinchi aritmiyalar uchun: ko'krak og'rig'i, sinkope/yarim hushdan ketish, bosh aylanishi, yurak urishini sezish; belgisiz **bo'lmachalar fibrillyatsiyasi** (emboliya → insult xavfi).",
+      "depth": 0
+     },
+     {
+      "text": "**Xolter monitorlari** — 24–48 soat uzluksiz; **intermittent yozuvchilar** — haftalar–oylar, bemor o'zi yoqadi; **implantatsiya qilinadigan halqa yozuvchi** (katta qog'oz qisqich o'lchamida, teri ostida) — 2–3 yilgacha; YUQS chegaradan past/yuqori bo'lsa yoki bemor yoqsa yozadi. Telefon orqali uzatish, kompyuter tahlili; soat va qo'l qurilmalari rivojlanmoqda.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch11-u22"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Bog'liqlik",
+    "id": "ch11-s-23-bogliqlik",
+    "bid": "ch11-u23"
+   },
+   {
+    "type": "paragraph",
+    "text": "Impuls yo'li va vaqtlari → 10-bob; vektor tahlili, o'q og'ishi, shikastlanish toki → 12-bob; aritmiyalar → 13-bob.",
+    "bid": "ch11-u24"
+   }
+  ],
+  "full": [
+   {
+    "type": "paragraph",
+    "text": "When a cardiac impulse passes through the heart, elec trical current also spreads from the heart into the adja cent tissues surrounding the heart. A small portion of the current spreads all the way to the surface of the body. If electrodes are placed on the skin on opposite sides of the heart, electrical potentials generated by the current can be recorded; the recording is known as an _electrocardio gram_ (ECG). A normal ECG for two beats of the heart is shown in **Figure 11-1**.",
+    "pdfPage": 130,
+    "bid": "ch11-f0"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-11-01",
+    "bid": "ch11-f1"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "WAVEFORMS OF THE NORMAL ELECTROCARDIOGRAM",
+    "pdfPage": 130,
+    "id": "ch11-h-waveforms-of-the-normal-electrocardiogram",
+    "bid": "ch11-f2"
+   },
+   {
+    "type": "paragraph",
+    "text": "The normal ECG (see **Figure 11-1**) is composed of a P wave, a QRS complex, and a T wave. The QRS complex is often, but not always, three separate waves: the Q wave, the R wave, and the S wave.",
+    "pdfPage": 130,
+    "bid": "ch11-f3"
+   },
+   {
+    "type": "paragraph",
+    "text": "The _P wave_ is caused by electrical potentials generated when the atria depolarize before atrial contraction begins. The _QRS complex_ is caused by potentials generated when the ventricles depolarize before contraction—that is, as the depolarization wave spreads through the ventricles. There fore, both the P wave and the components of the QRS com plex are _depolarization waves_.",
+    "pdfPage": 130,
+    "bid": "ch11-f4"
+   },
+   {
+    "type": "paragraph",
+    "text": "The _T wave_ is caused by potentials generated as the ven tricles recover from depolarization. This process normally occurs in ventricular muscle 0.25 to 0.35 second after depo larization. The T wave is known as a _repolarization wave_.",
+    "pdfPage": 130,
+    "bid": "ch11-f5"
+   },
+   {
+    "type": "paragraph",
+    "text": "Thus, the ECG is composed of both depolarization and repolarization waves. The principles of depolarization and repolarization are discussed in Chapter 5. The dis tinction between depolarization waves and repolarization waves is so important in electrocardiography that further clarification is necessary.",
+    "pdfPage": 130,
+    "bid": "ch11-f6"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "CARDIAC DEPOLARIZATION WAVES VERSUS REPOLARIZATION WAVES",
+    "pdfPage": 130,
+    "id": "ch11-h-cardiac-depolarization-waves-versus-repolarization-waves",
+    "bid": "ch11-f7"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 11-2** shows a single cardiac muscle fiber in four stages of depolarization and repolarization, with the color red designating depolarization. During depolarization, the normal negative potential inside the fiber reverses and becomes slightly positive inside and negative outside.",
+    "pdfPage": 130,
+    "bid": "ch11-f8"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-11-02",
+    "bid": "ch11-f9"
+   },
+   {
+    "type": "paragraph",
+    "text": "In **Figure 11-2A**, depolarization, demonstrated by red positive charges inside and red negative charges outside, is traveling from left to right. The first half of the fiber has already depolarized while the remaining half is still polar ized. Therefore, the left electrode on the outside of the fiber is in an area of negativity, and the right electrode is in an area of positivity, which causes the meter to record positively. To the right of the muscle fiber is shown a record of changes in potential between the two electrodes, as recorded by a highspeed recording meter. Note that when depolarization has reached the halfway mark in **Figure 11-2A**, the recording on the right has risen to a maximum positive value.",
+    "pdfPage": 130,
+    "bid": "ch11-f10"
+   },
+   {
+    "type": "paragraph",
+    "text": "In **Figure 11-2B**, depolarization has extended over the entire muscle fiber, and the recording to the right has returned to the zero baseline because both electrodes are now in areas of equal negativity. The completed wave is a depolarization wave because it results from the spread of depolarization along the muscle fiber membrane.",
+    "pdfPage": 130,
+    "bid": "ch11-f11"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 11-2C** shows halfway repolarization of the same muscle fiber, with positivity returning to the outside of the fiber. At this point, the left electrode is in an area of positivity, and the right electrode is in an area of negativ ity. This polarity is opposite to the polarity in **Figure 112A**. Consequently, the recording, as shown to the right, becomes negative.",
+    "pdfPage": 130,
+    "bid": "ch11-f12"
+   },
+   {
+    "type": "paragraph",
+    "text": "In **Figure 11-2D**, the muscle fiber has completely repolarized, and both electrodes are now in areas of posi tivity so that no potential difference is recorded between them. Thus, in the recording on the right, the potential returns once more to zero. This completed negative wave is a repolarization wave because it results from the spread of repolarization along the muscle fiber membrane.",
+    "pdfPage": 130,
+    "bid": "ch11-f13"
+   },
+   {
+    "type": "paragraph",
+    "text": "The monophasic action potential of ventricular muscle, discussed in Chapter 10, normally lasts between 0.25 and 0.35 second. The top part of **Figure 11-3** shows a monophasic action potential re corded from a microelectrode inserted into the inside of a single ventricular muscle fiber. The upsweep of this action potential is caused by depolarization, and the return of the potential to the baseline is caused by repolarization.",
+    "pdfPage": 130,
+    "lead": "Relation of the Monophasic Action Potential of Ventricular Muscle to the QRS and T Waves in the Standard Electrocardiogram.",
+    "anchor": "ch11-h-relation-of-the-monophasic-action-potential-of-ventricular-m",
+    "bid": "ch11-f14"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-11-03",
+    "bid": "ch11-f15"
+   },
+   {
+    "type": "paragraph",
+    "text": "The lower half of **Figure 11-3** shows a simultaneous recording of the ECG from this same ventricle. Note that the QRS waves appear at the beginning of the monopha sic action potential, and the T wave appears at the end. Note especially that _no potential is recorded in the ECG when the ventricular muscle is either completely polarized or completely depolarized_. Only when the muscle is partly polarized and partly depolarized does current flow from one part of the ventricles to another part, and therefore current also flows to the surface of the body to produce the ECG.",
+    "pdfPage": 131,
+    "bid": "ch11-f16"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "RELATIONSHIP OF ATRIAL AND VENTRICULAR CONTRACTION TO THE WAVES OF THE ELECTROCARDIOGRAM",
+    "pdfPage": 131,
+    "id": "ch11-h-relationship-of-atrial-and-ventricular-contraction-to-the-wa",
+    "bid": "ch11-f17"
+   },
+   {
+    "type": "paragraph",
+    "text": "Before contraction of muscle can occur, depolarization must spread through the muscle to initiate the chemical processes of contraction. Refer again to **Figure 11-1**; the P wave occurs at the beginning of contraction of the atria, and the QRS complex of waves occurs at the beginning of contraction of the ventricles. The ventricles remain con tracted until after repolarization has occurred—that is, until after the end of the T wave.",
+    "pdfPage": 131,
+    "bid": "ch11-f18"
+   },
+   {
+    "type": "paragraph",
+    "text": "The atria repolarize about 0.15 to 0.20 second after ter mination of the P wave, which is also approximately when the QRS complex is being recorded in the ECG. There fore, the atrial repolarization wave, known as the _atrial T wave_, is usually obscured by the much larger QRS com plex. For this reason, an atrial T wave is seldom observed on the ECG.",
+    "pdfPage": 131,
+    "bid": "ch11-f19"
+   },
+   {
+    "type": "paragraph",
+    "text": "The ventricular repolarization wave is the T wave of the normal ECG. Ordinarily, ventricular muscle begins to repolarize in some fibers about 0.20 second after the beginning of the depolarization wave (the QRS complex), but in many other fibers, it takes as long as 0.35 second. Thus, the process of ventricular repolarization extends over a long period, about 0.15 second. For this reason, the T wave in the normal ECG is a prolonged wave, but the voltage of the T wave is considerably less than the volt age of the QRS complex, partly because of its prolonged length.",
+    "pdfPage": 131,
+    "bid": "ch11-f20"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "ELECTROCARDIOGRAPHIC CALIBRATION AND DISPLAY",
+    "pdfPage": 132,
+    "id": "ch11-h-electrocardiographic-calibration-and-display",
+    "bid": "ch11-f21"
+   },
+   {
+    "type": "paragraph",
+    "text": "All recordings of ECGs are made with appropriate cali bration lines on the display grid. Historically, ECGs were recorded electronically and printed onto paper; ECGs are now usually displayed digitally. As shown in **Figure 11-1**, the horizontal calibration lines are arranged so that 10 of the small line divisions upward or downward in the standard ECG represent 1 millivolt, with positivity in the upward direction and negativity in the downward direction.",
+    "pdfPage": 132,
+    "bid": "ch11-f22"
+   },
+   {
+    "type": "paragraph",
+    "text": "The vertical lines on the ECG are time calibration lines. A typical ECG is run at a speed of 25 millimeters per sec ond, although faster speeds are sometimes used. Therefore, each 25 millimeters in the horizontal direction is 1 second, and each 5-millimeter segment, indicated by the dark ver tical lines, represents 0.20 second. The 0.20-second inter vals are then broken into five smaller intervals by thin lines, each of which represents 0.04 second.",
+    "pdfPage": 132,
+    "bid": "ch11-f23"
+   },
+   {
+    "type": "paragraph",
+    "text": "The re corded voltages of the waves in the normal ECG depend on the manner in which the electrodes are applied to the surface of the body and how close the electrodes are to the heart. When one electrode is placed directly over the ven tricles, and a second electrode is placed elsewhere on the body remote from the heart, the voltage of the QRS com plex may be as high as 3 to 4 millivolts. Even this voltage is small in comparison with the monophasic action poten tial of 110 millivolts recorded directly at the heart muscle membrane. When ECGs are recorded from electrodes on the two arms or on one arm and one leg, the voltage of the QRS complex usually is 1.0 to 1.5 millivolts from the top of the R wave to the bottom of the S wave, the voltage of the P wave is between 0.1 and 0.3 millivolts, and the volt age of the T wave is between 0.2 and 0.3 millivolts.",
+    "pdfPage": 132,
+    "lead": "Normal Voltages in the Electrocardiogram.",
+    "anchor": "ch11-h-normal-voltages-in-the-electrocardiogram",
+    "bid": "ch11-f24"
+   },
+   {
+    "type": "paragraph",
+    "text": "The time between the beginning of the P wave and the beginning of the QRS complex is the interval between the beginning of electrical excitation of the atria and the beginning of excitation of the ventricles. This period is called the _P-Q interval_. The normal P-Q interval is about 0.16 second. (Often, this interval is called the _P-R interval_ because the Q wave is likely to be ab sent.) The P-R interval shortens at faster heart rates due to increased sympathetic or decreased parasympathetic activity, which increase atrioventricular node conduction speed. Conversely, the P-R interval lengthens with slower heart rates as a consequence of slower atrioventricular nodal conduction caused by increased parasympathetic tone or withdrawal of sympathetic activity.",
+    "pdfPage": 132,
+    "lead": "P-Q or P-R Interval.",
+    "anchor": "ch11-h-p-q-or-p-r-interval",
+    "bid": "ch11-f25"
+   },
+   {
+    "type": "paragraph",
+    "text": "Contraction of the ventricle lasts almost from the beginning of the Q wave (or R wave, if the Q wave is absent) to the end of the T wave. This interval is called the _Q-T interval_ and ordinarily is about 0.35 second.",
+    "pdfPage": 132,
+    "lead": "Q-T Interval.",
+    "anchor": "ch11-h-q-t-interval",
+    "bid": "ch11-f26"
+   },
+   {
+    "type": "paragraph",
+    "text": "The rate of the heartbeat can be determined easily from an ECG because the heart rate is the reciprocal of the time interval between two successive heartbeats (the R-R interval). If the interval between two beats as deter mined from the time calibration lines is 1 second, the heart rate is 60 beats/min. The normal interval between two successive QRS complexes in an adult is about 0.83 second, which is a heart rate of 60/0.83 times/min, or 72 beats/min.",
+    "pdfPage": 132,
+    "lead": "Heart Rate as Determined from the Electrocardiogram.",
+    "anchor": "ch11-h-heart-rate-as-determined-from-the-electrocardiogram",
+    "bid": "ch11-f27"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "FLOW OF CURRENT AROUND THE HEART DURING THE CARDIAC CYCLE",
+    "pdfPage": 132,
+    "id": "ch11-h-flow-of-current-around-the-heart-during-the-cardiac-cycle",
+    "bid": "ch11-f28"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "Recording Electrical Potentials from a Partially Depolarized Mass of Syncytial Cardiac Muscle",
+    "pdfPage": 132,
+    "id": "ch11-h-recording-electrical-potentials-from-a-partially-depolarized",
+    "bid": "ch11-f29"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 11-4** shows a syncytial mass of cardiac muscle that has been stimulated at its most central point. Before stimu lation, all the exteriors of the muscle cells had been positive, and the interiors had been negative. For reasons presented in Chapter 5 in the discussion of membrane potentials, as soon as an area of cardiac syncytium becomes depolarized, negative charges leak to the outsides of the depolarized muscle fibers, making this part of the surface electronega tive, as represented by the minus signs in **Figure 11-4**. The remaining surface of the heart, which is still polarized, is represented by the plus signs. Therefore, a meter connected with its negative terminal on the area of depolarization and its positive terminal on one of the still polarized areas, as shown to the right in the figure, records positively.",
+    "pdfPage": 132,
+    "bid": "ch11-f30"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-11-04",
+    "bid": "ch11-f31"
+   },
+   {
+    "type": "paragraph",
+    "text": "Two other electrode placements and meter readings are also demonstrated in **Figure 11-4**. These placements and readings should be studied carefully, and the reader should be able to explain the causes of the respective meter readings. Because the depolarization spreads in all direc tions through the heart, the potential differences shown in the figure persist for only a few thousandths of a sec ond, and the actual voltage measurements can be accom plished only with a high-speed recording apparatus.",
+    "pdfPage": 132,
+    "bid": "ch11-f32"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "Flow of Electrical Currents in the Chest Around the Heart",
+    "pdfPage": 133,
+    "id": "ch11-h-flow-of-electrical-currents-in-the-chest-around-the-heart",
+    "bid": "ch11-f33"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 11-5** shows the ventricular muscle lying within the chest. Even the lungs, although mostly filled with air, con duct electricity to a surprising extent, and fluids in other tissues surrounding the heart conduct electricity even more easily. Therefore, the heart is actually suspended in a conductive medium. When one portion of the ventricles depolarizes and therefore becomes electronegative with respect to the remainder, electrical current flows from the depolarized area to the polarized area in large circuitous routes, as noted in the figure.",
+    "pdfPage": 133,
+    "bid": "ch11-f34"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-11-05",
+    "bid": "ch11-f35"
+   },
+   {
+    "type": "paragraph",
+    "text": "It should be recalled from the discussion of the Pur kinje system in Chapter 10 that the cardiac impulse first arrives in the ventricles in the septum and shortly there after spreads to the inside surfaces of the remainder of the ventricles, as shown by the red areas and the negative signs in **Figure 11-5**. This process provides electronega tivity on the insides of the ventricles and electropositivity on the outer walls of the ventricles, with electrical cur rent flowing through the fluids surrounding the ventricles along elliptical paths, as demonstrated by the curving arrows in the figure. If one algebraically averages all the lines of current flow (the elliptical lines), _the average cur rent flow occurs with negativity toward the base of the heart and with positivity toward the apex_.",
+    "pdfPage": 133,
+    "bid": "ch11-f36"
+   },
+   {
+    "type": "paragraph",
+    "text": "During most of the remainder of the depolarization process, current also continues to flow in this same direc tion, whereas depolarization spreads from the endocardial surface outward through the ventricular muscle mass. Then, immediately before depolarization has completed its course through the ventricles, the average direction of current flow reverses for about 0.01 second, flowing from the ventricular apex toward the base, because the last part of the heart to become depolarized is the outer walls of the ventricles near the base of the heart.",
+    "pdfPage": 133,
+    "bid": "ch11-f37"
+   },
+   {
+    "type": "paragraph",
+    "text": "_Thus, in normal heart ventricles, current flows from negative to positive primarily in the direction from the base of the heart toward the apex_ during almost the entire cycle of depolarization, except at the very end. If a meter is connected to electrodes on the surface of the body, as shown in **Figure 11-5**, the electrode nearer the base will be negative, whereas the electrode nearer the apex will be positive, and the recording meter will show a positive recording in the ECG.",
+    "pdfPage": 133,
+    "bid": "ch11-f38"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "ELECTROCARDIOGRAPHIC LEADS",
+    "pdfPage": 133,
+    "id": "ch11-h-electrocardiographic-leads",
+    "bid": "ch11-f39"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "Three Standard Bipolar Limb Leads",
+    "pdfPage": 133,
+    "id": "ch11-h-three-standard-bipolar-limb-leads",
+    "bid": "ch11-f40"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 11-6** shows electrical connections between the patient’s limbs and the electrocardiograph for recording",
+    "pdfPage": 133,
+    "bid": "ch11-f41"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-11-06",
+    "bid": "ch11-f42"
+   },
+   {
+    "type": "paragraph",
+    "text": "ECGs from the so-called _standard bipolar limb leads._ The term _bipolar_ means that the ECG is recorded from two electrodes located on different sides of the heart—in this case, on the limbs. Thus, a lead is not a single wire con necting from the body but a combination of two wires and their electrodes to make a complete circuit between the body and the electrocardiograph. The electrocardiograph in each case is represented by an electrical meter in the diagram, although the actual electrocardiograph is a highspeed, computer-based system with an electronic display.",
+    "pdfPage": 134,
+    "bid": "ch11-f43"
+   },
+   {
+    "type": "paragraph",
+    "text": "In recording limb lead I, the negative terminal of the electrocardiograph is connected to the right arm, and the positive terminal is connected to the left arm. There fore, when the point where the right arm connects to the chest is electronegative with respect to the point where the left arm connects, the electrocardiograph records positively—that is, above the zero-voltage line in the ECG. When the opposite is true, the electrocardiograph records below the line.",
+    "pdfPage": 134,
+    "lead": "Lead I.",
+    "anchor": "ch11-h-lead-i",
+    "bid": "ch11-f44"
+   },
+   {
+    "type": "paragraph",
+    "text": "To record limb lead II, the negative terminal of the electrocardiograph is connected to the right arm and the positive terminal is connected to the left leg. There fore, when the right arm is negative with respect to the left leg, the electrocardiograph records positively.",
+    "pdfPage": 134,
+    "lead": "Lead II.",
+    "anchor": "ch11-h-lead-ii",
+    "bid": "ch11-f45"
+   },
+   {
+    "type": "paragraph",
+    "text": "To record limb lead III, the negative terminal of the electrocardiograph is connected to the left arm, and the positive terminal is connected to the left leg. This configuration means that the electrocardiograph records positively when the left arm is negative with respect to the left leg.",
+    "pdfPage": 134,
+    "lead": "Lead III.",
+    "anchor": "ch11-h-lead-iii",
+    "bid": "ch11-f46"
+   },
+   {
+    "type": "paragraph",
+    "text": "In **Figure 11-6**, the triangle, called _Einthoven’s triangle_, is drawn around the area of the heart. This triangle illustrates that the two arms and left leg form apices of a triangle surrounding the heart. The two apices at the upper part of the triangle represent the points at which the two arms connect electrically with the fluids around the heart, and the lower apex is the point at which the left leg connects with the fluids.",
+    "pdfPage": 134,
+    "lead": "Einthoven’s Triangle.",
+    "anchor": "ch11-h-einthovens-triangle",
+    "bid": "ch11-f47"
+   },
+   {
+    "type": "paragraph",
+    "text": "Einthoven’s law states that if the ECGs are recorded simultaneously with the three limb leads, the sum of the potentials recorded in leads I and III will equal the potential in lead II:",
+    "pdfPage": 134,
+    "lead": "Einthoven’s Law.",
+    "anchor": "ch11-h-einthovens-law",
+    "bid": "ch11-f48"
+   },
+   {
+    "type": "paragraph",
+    "text": "In other words, if the electrical potentials of any two of the three bipolar limb electrocardiographic leads are known at any given instant, the third one can be deter mined by simply summing the first two. Note, however, that the positive and negative signs of the different leads must be observed when making this summation.",
+    "pdfPage": 134,
+    "bid": "ch11-f49"
+   },
+   {
+    "type": "paragraph",
+    "text": "For instance, let us assume that momentarily, as noted in **Figure 11-6**, the right arm is −0.2 millivolts (negative)",
+    "pdfPage": 134,
+    "bid": "ch11-f50"
+   },
+   {
+    "type": "paragraph",
+    "text": "with respect to the average potential in the body, the left arm is +0.3 millivolts (positive), and the left leg is +1.0 millivolts (positive). Observing the meters in the figure, one can see that lead I records a positive potential of +0.5 millivolts because this is the difference between the −0.2 millivolts on the right arm and the +0.3 millivolts on the left arm. Similarly, lead III records a positive potential of +0.7 millivolts, and lead II records a positive potential of +1.2 millivolts because these are the instantaneous poten tial differences between the respective pairs of limbs.",
+    "pdfPage": 134,
+    "bid": "ch11-f51"
+   },
+   {
+    "type": "paragraph",
+    "text": "Now, note that the sum of the voltages in leads I and III equals the voltage in lead II; that is, 0.5 plus 0.7 equals 1.2. Mathematically, this principle, called Einthoven’s law, holds true at any given instant while the three “standard” bipolar ECGs are being recorded.",
+    "pdfPage": 134,
+    "bid": "ch11-f52"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 11-7** shows recordings of the ECGs in leads I, II, and III. It is obvious that the ECGs in these three leads are similar to one another because they all record positive P waves and positive T waves, and the major portion of the QRS complex is also positive in each ECG. On analysis of the three ECGs, it can be shown, with careful measurements and proper observance of polarities, that at any given instant, the sum of the potentials in leads I and III equals the potential in lead II, thus illustrating the validity of Einthoven’s law.",
+    "pdfPage": 134,
+    "lead": "Normal Electrocardiograms Recorded from the Three Standard Bipolar Limb Leads.",
+    "anchor": "ch11-h-normal-electrocardiograms-recorded-from-the-three-standard-b",
+    "bid": "ch11-f53"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-11-07",
+    "bid": "ch11-f54"
+   },
+   {
+    "type": "paragraph",
+    "text": "Because the recordings from all the bipolar limb leads are similar to one another, it does not mat ter greatly which lead is recorded when one wants to diagnose different cardiac arrhythmias, because diagnosis of arrhythmias depends mainly on the time relationships between the different waves of the car diac cycle. However, when one wants to diagnose dam age in the ventricular or atrial muscle or in the Purkinje conducting system, it matters greatly which leads are recorded, because abnormalities of cardiac muscle contraction or cardiac impulse conduction change the patterns of the ECGs markedly in some leads yet may not affect other leads. Electrocardiographic interpreta tion of these two types of conditions—cardiac myopa thies and cardiac arrhythmias—is discussed separately in Chapters 12 and 13.",
+    "pdfPage": 134,
+    "pdfPageEnd": 135,
+    "bid": "ch11-f55"
+   },
+   {
+    "type": "paragraph",
+    "text": "Often ECGs are recorded with one electrode placed on the anterior surface of the chest directly over the heart at one of the points shown in **Figure 11-8**. This electrode is connected to the positive terminal of the electrocardiograph, and the negative electrode, called the _indifferent electrode_ or _Wilson central terminal,_ is connected through equal electrical resistances to the right arm, left arm, and left leg all at the same time, as also shown in the figure. Usually, six standard chest leads are recorded, one at a time, from the anterior chest wall, with the chest electrode being placed sequentially at the six points shown in the diagram. The different recordings are known as leads V1, V2, V3, V4, V5, and V6.",
+    "pdfPage": 135,
+    "bid": "ch11-f56"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-11-08",
+    "bid": "ch11-f57"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 11-9** illustrates the ECGs of the healthy heart as recorded from these six standard chest leads. Because the heart surfaces are close to the chest wall, each chest lead records mainly the electrical potential of the cardiac musculature immediately beneath the electrode. There fore, relatively minute abnormalities in the ventricles, particularly in the anterior ventricular wall, can cause marked changes in the ECGs recorded from individual chest leads.",
+    "pdfPage": 135,
+    "bid": "ch11-f58"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-11-09",
+    "bid": "ch11-f59"
+   },
+   {
+    "type": "paragraph",
+    "text": "In leads V1 and V2, the QRS recordings of the normal heart are mainly negative because, as shown in **Figure 11-8**, the chest electrode in these leads is closer to the base of the heart than to the apex, and the base of the heart is the direction of electronegativity during most of the ventricular depolarization process. Conversely, the QRS complexes in leads V4, V5, and V6 are mainly positive because the chest electrode in these leads is closer to the heart apex, which is the direction of electropositivity dur ing most of depolarization.",
+    "pdfPage": 135,
+    "bid": "ch11-f60"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "Augmented Limb Leads",
+    "pdfPage": 135,
+    "id": "ch11-h-augmented-limb-leads",
+    "bid": "ch11-f61"
+   },
+   {
+    "type": "paragraph",
+    "text": "Another system of leads in wide use is the _augmented limb leads_. In this type of recording, two of the limbs are connected through electrical resistances to the neg ative terminal of the electrocardiograph, and the third limb is connected to the positive terminal. When the positive terminal is on the right arm, the lead is known as the aVR lead; when on the left arm, it is known as the aVL lead; and when on the left leg, it is known as the aVF lead.",
+    "pdfPage": 135,
+    "bid": "ch11-f62"
+   },
+   {
+    "type": "paragraph",
+    "text": "Normal recordings of the augmented limb leads are shown in **Figure 11-10**. They are all similar to the stan dard limb lead recordings, except that the recording from the aVR lead is inverted. (Why does this inversion occur? Study the polarity connections to the electrocardiograph to determine the answer to this question.)",
+    "pdfPage": 135,
+    "pdfPageEnd": 136,
+    "bid": "ch11-f63"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-11-10",
+    "bid": "ch11-f64"
+   },
+   {
+    "type": "paragraph",
+    "text": "Leads are typically displayed into three groupings as in **Fig ure 11-11**: the standard bipolar limb leads (I, II, III) fol lowed by the augmented leads (aVR, aVL, and aVF) and then the precordial leads (V1–V6).",
+    "pdfPage": 136,
+    "boxed": true,
+    "bid": "ch11-f65"
+   },
+   {
+    "type": "paragraph",
+    "text": "Standard ECGs provide an assessment of cardiac electri cal events over a brief duration, usually while the patient is resting. In conditions associated with infrequent but im portant abnormalities of cardiac rhythms, it may be useful to examine the ECG over a longer period, thereby permit ting evaluation of changing cardiac electrical phenomena that are transient and may be missed with a standard rest ing ECG. Extending the ECG to allow assessment of car diac electrical events while the patient is ambulating during normal daily activities is called _ambulatory electrocardiog raphy_.",
+    "pdfPage": 136,
+    "boxed": true,
+    "bid": "ch11-f66"
+   },
+   {
+    "type": "paragraph",
+    "text": "Ambulatory electrocardiographic monitoring is typi cally used when a patient demonstrates symptoms that are thought to be caused by transient arrhythmias or other transient cardiac abnormalities. These symptoms may in clude chest pain, syncope (fainting) or near syncope, diz ziness, and irregular heartbeats (palpitations). The crucial information needed to diagnose serious transient arrhyth mias or other cardiac conditions is a recording of an ECG during the precise time that the symptom is occurring. These devices can also be used to detect asymptomatic cardiac arrhythmias such as atrial fibrillation that may in crease the risk of embolus formation, which can, in turn, cause strokes. Because the daily variability in the frequency of arrhythmias is substantial, detection often requires am bulatory electrocardiographic monitoring throughout the day.",
+    "pdfPage": 136,
+    "boxed": true,
+    "bid": "ch11-f67"
+   },
+   {
+    "type": "paragraph",
+    "text": "There are several categories of ambulatory electrocar diographic recorders. Continuous recorders (Holter moni tors), are typically used for 24 to 48 hours to investigate the relationship of symptoms and electrocardiographic events that are likely to occur within that time frame. Intermittent recorders are used for longer periods (weeks to months) to provide brief intermittent recordings for detection of events that occur infrequently; these recordings are usually initiated by the patient when experiencing symptoms. In some cases, a small device, about the size of a large paper clip and called an _implantable loop recorder_, is implanted just under the skin in the chest to monitor the heart’s elec trical activity continuously for as long as 2 to 3 years. The device can be programmed to initiate a recording when the heart rate falls below, or rises above, a predetermined level, or it can be activated manually by the patient when a symp tom such as dizziness occurs. Improvements in solid-state digital technology and recorders equipped with micropro cessors now permit continuous or intermittent transmis sion of digital electrocardiographic data over telephone lines, and sophisticated software systems provide rapid on line computerized analysis of the data as they are acquired. Newer wearable devices, including watches or hand-held electrocardiographic monitoring devices, are also being de veloped for home-based heart rhythm monitoring.",
+    "pdfPage": 136,
+    "boxed": true,
+    "bid": "ch11-f68"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-11-11",
+    "bid": "ch11-f69"
+   }
+  ]
+ },
+ "glossary": [
+  {
+   "id": "ch11-t-ekg",
+   "termUz": "EKG",
+   "original": null,
+   "contextUz": "Yurak impulsi o'tganda tok atrof to'qimalarga va teri yuzasigacha tarqaladi; terida yozilgan potensiallar — EKG.",
+   "lessonId": "ch11",
+   "topicId": "03",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch11-t-bolmachalar-depolyarizatsiyasi-qisqarishdan-oldin",
+   "termUz": "— bo'lmachalar depolyarizatsiyasi (qisqarishdan oldin).",
+   "original": null,
+   "contextUz": "P — bo'lmachalar depolyarizatsiyasi (qisqarishdan oldin). QRS (Q, R, S) — qorinchalar depolyarizatsiyasi.",
+   "lessonId": "ch11",
+   "topicId": "03",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch11-t-bolmacha-t-tolqini",
+   "termUz": "Bo'lmacha T to'lqini",
+   "original": null,
+   "contextUz": "Bo'lmacha T to'lqini: bo'lmachalar P tugagandan 0,15–0,20 s keyin repolyarizatsiyalanadi — QRS bilan bir vaqtda, shuning uchun odatda ko'rinmaydi.",
+   "lessonId": "ch11",
+   "topicId": "03",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch11-t-qrs-1-0-1-5-mv",
+   "termUz": "QRS 1,0–1,5 mV",
+   "original": "R cho'qqisidan S tubigacha",
+   "contextUz": "Qo'llar yoki qo'l–oyoq elektrodlari: QRS 1,0–1,5 mV (R cho'qqisidan S tubigacha), P 0,1–0,3 mV, T 0,2–0,3 mV.",
+   "lessonId": "ch11",
+   "topicId": "03",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch11-t-p-0-1-0-3-mv",
+   "termUz": "P 0,1–0,3 mV",
+   "original": null,
+   "contextUz": "Qo'llar yoki qo'l–oyoq elektrodlari: QRS 1,0–1,5 mV (R cho'qqisidan S tubigacha), P 0,1–0,3 mV, T 0,2–0,3 mV.",
+   "lessonId": "ch11",
+   "topicId": "03",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch11-t-t-0-2-0-3-mv",
+   "termUz": "T 0,2–0,3 mV",
+   "original": null,
+   "contextUz": "Qo'llar yoki qo'l–oyoq elektrodlari: QRS 1,0–1,5 mV (R cho'qqisidan S tubigacha), P 0,1–0,3 mV, T 0,2–0,3 mV.",
+   "lessonId": "ch11",
+   "topicId": "03",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch11-t-p-q-p-r-intervali",
+   "termUz": "P-Q (P-R) intervali",
+   "original": null,
+   "contextUz": "P-Q (P-R) intervali ≈ 0,16 s (P boshidan QRS boshigacha); simpatik ↑ / parasimpatik ↓ bilan tezroq ritmda qisqaradi, aksincha uzayadi.",
+   "lessonId": "ch11",
+   "topicId": "03",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch11-t-0-16-s",
+   "termUz": "0,16 s",
+   "original": "P boshidan QRS boshigacha",
+   "contextUz": "P-Q (P-R) intervali ≈ 0,16 s (P boshidan QRS boshigacha); simpatik ↑ / parasimpatik ↓ bilan tezroq ritmda qisqaradi, aksincha uzayadi.",
+   "lessonId": "ch11",
+   "topicId": "03",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch11-t-q-t-intervali",
+   "termUz": "Q-T intervali",
+   "original": null,
+   "contextUz": "Q-T intervali ≈ 0,35 s (qorincha qisqarishi).",
+   "lessonId": "ch11",
+   "topicId": "03",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch11-t-0-35-s",
+   "termUz": "0,35 s",
+   "original": "qorincha qisqarishi",
+   "contextUz": "Q-T intervali ≈ 0,35 s (qorincha qisqarishi).",
+   "lessonId": "ch11",
+   "topicId": "03",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch11-t-25-mm-s",
+   "termUz": "25 mm/s",
+   "original": null,
+   "contextUz": "Tezlik odatda 25 mm/s: 25 mm = 1 s; qalin chiziqlar oralig'i 5 mm = 0,20 s; ingichka 0,04 s.",
+   "lessonId": "ch11",
+   "topicId": "03",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch11-t-yuqs",
+   "termUz": "YUQS",
+   "original": null,
+   "contextUz": "YUQS = 60 / R-R intervali (s).",
+   "lessonId": "ch11",
+   "topicId": "03",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch11-t-asosdan-manfiy-choqqi-musbat-tomon",
+   "termUz": "asosdan (manfiy) cho'qqi (musbat) tomon",
+   "original": null,
+   "contextUz": "Impuls avval to'siqqa, keyin qorinchalar ichki yuzasiga keladi → ichki manfiy, tashqi musbat; tok ellips yo'llar bo'ylab; o'rtachasi asosdan (manfiy) cho'qqi (musbat) tomon.",
+   "lessonId": "ch11",
+   "topicId": "03",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch11-t-standart-bipolyar-oyoq-qol-ulanishlari",
+   "termUz": "Standart bipolyar oyoq-qo'l ulanishlari",
+   "original": "Fig. 11-6",
+   "contextUz": "Standart bipolyar oyoq-qo'l ulanishlari (Fig. 11-6): I — manfiy o'ng qo'l, musbat chap qo'l; II — manfiy o'ng qo'l, musbat chap oyoq; III — manfiy chap qo'l, musbat chap oyoq.",
+   "lessonId": "ch11",
+   "topicId": "03",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch11-t-manfiy-ong-qol-musbat-chap-qol",
+   "termUz": "— manfiy o'ng qo'l, musbat chap qo'l;",
+   "original": null,
+   "contextUz": "11-6): I — manfiy o'ng qo'l, musbat chap qo'l; II — manfiy o'ng qo'l, musbat chap oyoq; III — manfiy chap qo'l, musbat chap oyoq.",
+   "lessonId": "ch11",
+   "topicId": "03",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch11-t-manfiy-ong-qol-musbat-chap-oyoq",
+   "termUz": "— manfiy o'ng qo'l, musbat chap oyoq;",
+   "original": null,
+   "contextUz": "11-6): I — manfiy o'ng qo'l, musbat chap qo'l; II — manfiy o'ng qo'l, musbat chap oyoq; III — manfiy chap qo'l, musbat chap oyoq.",
+   "lessonId": "ch11",
+   "topicId": "03",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch11-t-manfiy-chap-qol-musbat-chap-oyoq",
+   "termUz": "— manfiy chap qo'l, musbat chap oyoq.",
+   "original": null,
+   "contextUz": "11-6): I — manfiy o'ng qo'l, musbat chap qo'l; II — manfiy o'ng qo'l, musbat chap oyoq; III — manfiy chap qo'l, musbat chap oyoq. Eyntxoven uchburchagi — ikki qo'l va chap oyoq uchlari yurak atrofida.",
+   "lessonId": "ch11",
+   "topicId": "03",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch11-t-ikki-qol-va-chap-oyoq-uchlari-yurak-atrofida",
+   "termUz": "— ikki qo'l va chap oyoq uchlari yurak atrofida.",
+   "original": null,
+   "contextUz": "Eyntxoven uchburchagi — ikki qo'l va chap oyoq uchlari yurak atrofida. Eyntxoven qonuni: I + III = II (har lahzada, ishoralarga e'tibor).",
+   "lessonId": "ch11",
+   "topicId": "03",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch11-t-kokrak-prekordial-ulanishlar-v1-v6",
+   "termUz": "Ko'krak (prekordial) ulanishlar V1–V6",
+   "original": "Fig. 11-8, 11-9",
+   "contextUz": "Ko'krak (prekordial) ulanishlar V1–V6 (Fig. 11-8, 11-9): musbat elektrod ko'krakning 6 nuqtasida; manfiy — Wilson markaziy terminali (o'ng qo'l, chap qo'l, chap oyoq teng qarshiliklar orqali).",
+   "lessonId": "ch11",
+   "topicId": "03",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch11-t-wilson-markaziy-terminali",
+   "termUz": "Wilson markaziy terminali",
+   "original": "o'ng qo'l, chap qo'l, chap oyoq teng qarshiliklar orqali",
+   "contextUz": "11-8, 11-9): musbat elektrod ko'krakning 6 nuqtasida; manfiy — Wilson markaziy terminali (o'ng qo'l, chap qo'l, chap oyoq teng qarshiliklar orqali).",
+   "lessonId": "ch11",
+   "topicId": "03",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch11-t-v1-v2",
+   "termUz": "V1, V2",
+   "original": null,
+   "contextUz": "V1, V2 da QRS asosan manfiy (asosga yaqin); V4–V6 da asosan musbat (cho'qqiga yaqin).",
+   "lessonId": "ch11",
+   "topicId": "03",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch11-t-v4-v6",
+   "termUz": "V4–V6",
+   "original": null,
+   "contextUz": "V1, V2 da QRS asosan manfiy (asosga yaqin); V4–V6 da asosan musbat (cho'qqiga yaqin).",
+   "lessonId": "ch11",
+   "topicId": "03",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch11-t-kuchaytirilgan-augmented-unipolyar-ulanishlar-avr-avl-avf",
+   "termUz": "Kuchaytirilgan (augmented) unipolyar ulanishlar aVR, aVL, aVF",
+   "original": "Fig. 11-10",
+   "contextUz": "Kuchaytirilgan (augmented) unipolyar ulanishlar aVR, aVL, aVF (Fig. 11-10): ikkita oyoq-qo'l qarshilik orqali manfiy terminalga, uchinchisi musbatga.",
+   "lessonId": "ch11",
+   "topicId": "03",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch11-t-avr-teskari",
+   "termUz": "aVR teskari",
+   "original": null,
+   "contextUz": "Standartlarga o'xshash, lekin aVR teskari.",
+   "lessonId": "ch11",
+   "topicId": "03",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch11-t-bolmachalar-fibrillyatsiyasi",
+   "termUz": "bo'lmachalar fibrillyatsiyasi",
+   "original": "emboliya → insult xavfi",
+   "contextUz": "O'tkinchi aritmiyalar uchun: ko'krak og'rig'i, sinkope/yarim hushdan ketish, bosh aylanishi, yurak urishini sezish; belgisiz bo'lmachalar fibrillyatsiyasi (emboliya → insult xavfi).",
+   "lessonId": "ch11",
+   "topicId": "03",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch11-t-xolter-monitorlari",
+   "termUz": "Xolter monitorlari",
+   "original": null,
+   "contextUz": "Xolter monitorlari — 24–48 soat uzluksiz; intermittent yozuvchilar — haftalar–oylar, bemor o'zi yoqadi; implantatsiya qilinadigan halqa yozuvchi (katta qog'oz qisqich o'lchamida, teri ostida) — 2–3 yilgacha; YUQS chegaradan past/yuqori bo'lsa yoki bemor yoqsa yozadi.",
+   "lessonId": "ch11",
+   "topicId": "03",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch11-t-intermittent-yozuvchilar",
+   "termUz": "intermittent yozuvchilar",
+   "original": null,
+   "contextUz": "Xolter monitorlari — 24–48 soat uzluksiz; intermittent yozuvchilar — haftalar–oylar, bemor o'zi yoqadi; implantatsiya qilinadigan halqa yozuvchi (katta qog'oz qisqich o'lchamida, teri ostida) — 2–3 yilgacha; YUQS chegaradan past/yuqori bo'lsa yoki bemor yoqsa yozadi.",
+   "lessonId": "ch11",
+   "topicId": "03",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch11-t-implantatsiya-qilinadigan-halqa-yozuvchi",
+   "termUz": "implantatsiya qilinadigan halqa yozuvchi",
+   "original": "katta qog'oz qisqich o'lchamida, teri ostida",
+   "contextUz": "Xolter monitorlari — 24–48 soat uzluksiz; intermittent yozuvchilar — haftalar–oylar, bemor o'zi yoqadi; implantatsiya qilinadigan halqa yozuvchi (katta qog'oz qisqich o'lchamida, teri ostida) — 2–3 yilgacha; YUQS chegaradan past/yuqori bo'lsa yoki bemor yoqsa yozadi.",
+   "lessonId": "ch11",
+   "topicId": "03",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  }
+ ],
+ "bookDefinitions": [
+  {
+   "pdfPage": 130,
+   "printedPage": "125",
+   "text": "If electrodes are placed on the skin on opposite sides of the heart, electrical potentials generated by the current can be recorded; the recording is known as an electrocardiogram (ECG)"
+  },
+  {
+   "pdfPage": 130,
+   "printedPage": "125",
+   "text": "The T wave is known as a repolarization wave"
+  },
+  {
+   "pdfPage": 132,
+   "printedPage": "127",
+   "text": "The normal P-Q interval is about 0.16 second. (Often, this interval is called the P-R interval because the Q wave is likely to be absent.) The P-R interval shortens at faster heart rates due to increased sympathetic or decreased parasympathetic activity, which increase atrioventricular node conduction speed"
+  },
+  {
+   "pdfPage": 132,
+   "printedPage": "127",
+   "text": "This interval is called the Q-T interval and ordinarily is about 0.35 second. − + − 0 0 + − + − + − + − + UNIT III All recordings of ECGs are made with appropriate calibration lines on the display grid"
+  },
+  {
+   "pdfPage": 135,
+   "printedPage": "130",
+   "text": "This electrode is connected to the positive terminal of the electrocardiograph, and the negative electrode, called the indifferent electrode or Wilson central terminal, is connected through equal electrical resistances to the right arm, left arm, and left leg all at the same time, as also shown in the figure"
+  },
+  {
+   "pdfPage": 135,
+   "printedPage": "130",
+   "text": "The different recordings are known as leads V1, V2, V3, V4, V5, and V6. 140 aVR aVL aVF Figure 11-10"
+  },
+  {
+   "pdfPage": 135,
+   "printedPage": "130",
+   "text": "When the positive terminal is on the right arm, the lead is known as the aVR lead; when on the left arm, it is known as the aVL lead; and when on the left leg, it is known as the aVF lead"
+  }
+ ],
+ "keyNumbers": [
+  {
+   "pdfPage": 132,
+   "printedPage": "127",
+   "text": "When one electrode is placed directly over the ventricles, and a second electrode is placed elsewhere on the body remote from the heart, the voltage of the QRS complex may be as high as 3 to 4 millivolts"
+  },
+  {
+   "pdfPage": 132,
+   "printedPage": "127",
+   "text": "Even this voltage is small in comparison with the monophasic action potential of 110 millivolts recorded directly at the heart muscle membrane"
+  },
+  {
+   "pdfPage": 132,
+   "printedPage": "127",
+   "text": "When ECGs are recorded from electrodes on the two arms or on one arm and one leg, the voltage of the QRS complex usually is 1.0 to 1.5 millivolts from the top of the R wave to the bottom of the S wave, the voltage of the P wave is between 0.1 and 0.3 millivolts, and the voltage of the T wave is between 0.2 and 0.3 millivolts"
+  },
+  {
+   "pdfPage": 132,
+   "printedPage": "127",
+   "text": "If the interval between two beats as determined from the time calibration lines is 1 second, the heart rate is 60 beats/min"
+  },
+  {
+   "pdfPage": 132,
+   "printedPage": "127",
+   "text": "The normal interval between two successive QRS complexes in an adult is about 0.83 second, which is a heart rate of 60/0.83 times/min, or 72 beats/min"
+  },
+  {
+   "pdfPage": 133,
+   "printedPage": "128",
+   "text": "During most of the remainder of the depolarization process, current also continues to flow in this same direction, whereas depolarization spreads from the endocardial 138 + – + – + – Lead II Lead III +1 .0 mV Figure 11-6"
+  },
+  {
+   "pdfPage": 134,
+   "printedPage": "129",
+   "text": "For instance, let us assume that momentarily, as noted in Figure 11-6, the right arm is −0.2 millivolts (negative) III Figure 11-7"
+  },
+  {
+   "pdfPage": 134,
+   "printedPage": "129",
+   "text": "Normal electrocardiograms recorded from the three standard electrocardiographic leads (I–III). with respect to the average potential in the body, the left arm is +0.3 millivolts (positive), and the left leg is +1.0 millivolts (positive)"
+  },
+  {
+   "pdfPage": 134,
+   "printedPage": "129",
+   "text": "Observing the meters in the figure, one can see that lead I records a positive potential of +0.5 millivolts because this is the difference between the −0.2 millivolts on the right arm and the +0.3 millivolts on the left arm"
+  },
+  {
+   "pdfPage": 134,
+   "printedPage": "129",
+   "text": "Similarly, lead III records a positive potential of +0.7 millivolts, and lead II records a positive potential of +1.2 millivolts because these are the instantaneous potential differences between the respective pairs of limbs"
+  },
+  {
+   "pdfPage": 136,
+   "printedPage": "131",
+   "text": "Chapter 11 Fundamentals of Electrocardiography Standard Limb Leads Augmented Leads Precordial Leads aVR V1 V4 II aVL V2 V5 III aVF V3 V6 10mm/mv UNIT III I Figure 11-11"
+  },
+  {
+   "pdfPage": 136,
+   "printedPage": "131",
+   "text": "Continuous recorders (Holter monitors), are typically used for 24 to 48 hours to investigate the relationship of symptoms and electrocardiographic events that are likely to occur within that time frame"
+  },
+  {
+   "pdfPage": 136,
+   "printedPage": "131",
+   "text": "In some cases, a small device, about the size of a large paper clip and called an implantable loop recorder, is implanted just under the skin in the chest to monitor the heart’s electrical activity continuously for as long as 2 to 3 years"
+  }
+ ],
+ "figureIds": [
+  "gh14-fig-11-01",
+  "gh14-fig-11-02",
+  "gh14-fig-11-03",
+  "gh14-fig-11-04",
+  "gh14-fig-11-05",
+  "gh14-fig-11-06",
+  "gh14-fig-11-07",
+  "gh14-fig-11-08",
+  "gh14-fig-11-09",
+  "gh14-fig-11-10",
+  "gh14-fig-11-11"
+ ],
+ "estMinutes": 19,
+ "counts": {
+  "figures": 11,
+  "figuresIncluded": 11,
+  "terms": 28,
+  "words": 3865,
+  "unplacedInSummary": 0
+ },
+ "review": {
+  "reviewedBy": null,
+  "reviewedAt": null
+ },
+ "importedAt": "2026-11-14T13:59:02+00:00"
+}

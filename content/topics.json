@@ -1,0 +1,2600 @@
+{
+ "contentVersion": "2026-11-14.1",
+ "topics": [
+  {
+   "id": "01",
+   "order": 1,
+   "title": "Hujayra va umumiy fiziologiya",
+   "description": "Hujayra tuzilishi, organellalar, DNK va oqsil sintezi.",
+   "cardImage": "/assets/topics/topic_01.webp",
+   "cardImageSource": "Fiziologiya_15_mavzu_3D_rasmlar.docx / DrStudy_Toliq_UI assets (3D muqova, kitob rasmi emas)",
+   "bookUnit": {
+    "bookId": "guyton-hall-14",
+    "unit": "I",
+    "title": "Introduction to Physiology: The Cell and General Physiology"
+   },
+   "sections": [
+    {
+     "id": "ch01",
+     "order": 1,
+     "titleUz": "Inson organizmining funksional tuzilishi va \"ichki muhit\" nazorati",
+     "titleOriginal": "Functional Organization of the Human Body and Control of the “Internal Environment”",
+     "pdfPages": [
+      8,
+      16
+     ],
+     "printedPages": [
+      3,
+      11
+     ],
+     "estMinutes": 28,
+     "status": "in_review",
+     "counts": {
+      "figures": 5,
+      "figuresIncluded": 5,
+      "terms": 23,
+      "words": 5572,
+      "unplacedInSummary": 0
+     }
+    },
+    {
+     "id": "ch02",
+     "order": 2,
+     "titleUz": "Hujayra va uning funksiyalari",
+     "titleOriginal": "The Cell and Its Functions",
+     "pdfPages": [
+      17,
+      33
+     ],
+     "printedPages": [
+      12,
+      28
+     ],
+     "estMinutes": 49,
+     "status": "in_review",
+     "counts": {
+      "figures": 18,
+      "figuresIncluded": 18,
+      "terms": 44,
+      "words": 9709,
+      "unplacedInSummary": 2
+     }
+    },
+    {
+     "id": "ch03",
+     "order": 3,
+     "titleUz": "Oqsil sintezining, hujayra funksiyasining va ko'payishining genetik nazorati",
+     "titleOriginal": "Genetic Control of Protein Synthesis, Cell Function, and Cell Reproduction",
+     "pdfPages": [
+      34,
+      50
+     ],
+     "printedPages": [
+      29,
+      45
+     ],
+     "estMinutes": 51,
+     "status": "in_review",
+     "counts": {
+      "figures": 17,
+      "figuresIncluded": 17,
+      "terms": 81,
+      "words": 10164,
+      "unplacedInSummary": 1
+     }
+    }
+   ],
+   "plannedSections": [
+    {
+     "id": "01-01",
+     "title": "Gomeostaz va ichki muhit",
+     "aliasOf": "ch01"
+    },
+    {
+     "id": "01-02",
+     "title": "Hujayra tuzilishi va organellalar",
+     "aliasOf": "ch02"
+    },
+    {
+     "id": "01-03",
+     "title": "Membrana va hujayra faoliyati",
+     "aliasOf": "ch02"
+    },
+    {
+     "id": "01-04",
+     "title": "DNK va oqsil sintezi",
+     "aliasOf": "ch03"
+    }
+   ]
+  },
+  {
+   "id": "02",
+   "order": 2,
+   "title": "Membrana, nerv va mushak",
+   "description": "Membrana orqali moddalar almashinuvi, nerv impulsi va mushak qisqarishi.",
+   "cardImage": "/assets/topics/topic_02.webp",
+   "cardImageSource": "Fiziologiya_15_mavzu_3D_rasmlar.docx / DrStudy_Toliq_UI assets (3D muqova, kitob rasmi emas)",
+   "bookUnit": {
+    "bookId": "guyton-hall-14",
+    "unit": "II",
+    "title": "Membrane Physiology, Nerve, and Muscle"
+   },
+   "sections": [
+    {
+     "id": "ch04",
+     "order": 1,
+     "titleUz": "Moddalarning hujayra membranasi orqali tashilishi",
+     "titleOriginal": "Transport of Substances Through Cell Membranes",
+     "pdfPages": [
+      51,
+      62
+     ],
+     "printedPages": [
+      46,
+      57
+     ],
+     "estMinutes": 37,
+     "status": "in_review",
+     "counts": {
+      "figures": 15,
+      "figuresIncluded": 15,
+      "terms": 42,
+      "words": 7344,
+      "unplacedInSummary": 1
+     }
+    },
+    {
+     "id": "ch05",
+     "order": 2,
+     "titleUz": "Membrana potensiallari va harakat (aksion) potensiallari",
+     "titleOriginal": "Membrane Potentials and Action Potentials",
+     "pdfPages": [
+      63,
+      77
+     ],
+     "printedPages": [
+      58,
+      72
+     ],
+     "estMinutes": 42,
+     "status": "in_review",
+     "counts": {
+      "figures": 19,
+      "figuresIncluded": 19,
+      "terms": 50,
+      "words": 8449,
+      "unplacedInSummary": 0
+     }
+    },
+    {
+     "id": "ch06",
+     "order": 3,
+     "titleUz": "Skelet muskulining qisqarishi",
+     "titleOriginal": "Contraction of Skeletal Muscle",
+     "pdfPages": [
+      78,
+      91
+     ],
+     "printedPages": [
+      73,
+      86
+     ],
+     "estMinutes": 41,
+     "status": "in_review",
+     "counts": {
+      "figures": 16,
+      "figuresIncluded": 16,
+      "terms": 61,
+      "words": 8251,
+      "unplacedInSummary": 0
+     }
+    },
+    {
+     "id": "ch07",
+     "order": 4,
+     "titleUz": "Skelet muskulining qo'zg'alishi: nerv-muskul uzatilishi va qo'zg'alish-qisqarish bog'lanishi",
+     "titleOriginal": "Excitation of Skeletal Muscle: Neuromuscular Transmission and Excitation-Contraction Coupling",
+     "pdfPages": [
+      92,
+      99
+     ],
+     "printedPages": [
+      87,
+      94
+     ],
+     "estMinutes": 18,
+     "status": "in_review",
+     "counts": {
+      "figures": 7,
+      "figuresIncluded": 7,
+      "terms": 41,
+      "words": 3566,
+      "unplacedInSummary": 0
+     }
+    },
+    {
+     "id": "ch08",
+     "order": 5,
+     "titleUz": "Silliq muskulning qo'zg'alishi va qisqarishi",
+     "titleOriginal": "Excitation and Contraction of Smooth Muscle",
+     "pdfPages": [
+      100,
+      108
+     ],
+     "printedPages": [
+      95,
+      103
+     ],
+     "estMinutes": 26,
+     "status": "in_review",
+     "counts": {
+      "figures": 7,
+      "figuresIncluded": 7,
+      "terms": 43,
+      "words": 5184,
+      "unplacedInSummary": 0
+     }
+    }
+   ],
+   "plannedSections": [
+    {
+     "id": "02-01",
+     "title": "Membrana orqali transport",
+     "aliasOf": "ch04"
+    },
+    {
+     "id": "02-02",
+     "title": "Tinchlik va harakat potensiali",
+     "aliasOf": "ch05"
+    },
+    {
+     "id": "02-03",
+     "title": "Nerv impulsining tarqalishi",
+     "aliasOf": "ch05"
+    },
+    {
+     "id": "02-04",
+     "title": "Nerv-mushak birikmasi",
+     "aliasOf": "ch07"
+    },
+    {
+     "id": "02-05",
+     "title": "Mushak qisqarishi",
+     "aliasOf": "ch06"
+    }
+   ]
+  },
+  {
+   "id": "03",
+   "order": 3,
+   "title": "Yurak",
+   "description": "Yurakning nasos faoliyati, ritmi, elektr faolligi va EKG.",
+   "cardImage": "/assets/topics/topic_03.webp",
+   "cardImageSource": "Fiziologiya_15_mavzu_3D_rasmlar.docx / DrStudy_Toliq_UI assets (3D muqova, kitob rasmi emas)",
+   "bookUnit": {
+    "bookId": "guyton-hall-14",
+    "unit": "III",
+    "title": "The Heart"
+   },
+   "sections": [
+    {
+     "id": "ch09",
+     "order": 1,
+     "titleUz": "Yurak muskuli; yurak nasos sifatida va yurak klapanlarining funksiyasi",
+     "titleOriginal": "Cardiac Muscle; The Heart as a Pump and Function of the Heart Valves",
+     "pdfPages": [
+      109,
+      122
+     ],
+     "printedPages": [
+      104,
+      117
+     ],
+     "estMinutes": 40,
+     "status": "in_review",
+     "counts": {
+      "figures": 16,
+      "figuresIncluded": 16,
+      "terms": 62,
+      "words": 8037,
+      "unplacedInSummary": 0
+     }
+    },
+    {
+     "id": "ch10",
+     "order": 2,
+     "titleUz": "Yurakning ritmik qo'zg'alishi",
+     "titleOriginal": "Rhythmical Excitation of the Heart",
+     "pdfPages": [
+      123,
+      129
+     ],
+     "printedPages": [
+      118,
+      124
+     ],
+     "estMinutes": 22,
+     "status": "in_review",
+     "counts": {
+      "figures": 4,
+      "figuresIncluded": 4,
+      "terms": 31,
+      "words": 4370,
+      "unplacedInSummary": 0
+     }
+    },
+    {
+     "id": "ch11",
+     "order": 3,
+     "titleUz": "Elektrokardiografiya asoslari",
+     "titleOriginal": "Fundamentals of Electrocardiography",
+     "pdfPages": [
+      130,
+      136
+     ],
+     "printedPages": [
+      125,
+      131
+     ],
+     "estMinutes": 19,
+     "status": "in_review",
+     "counts": {
+      "figures": 11,
+      "figuresIncluded": 11,
+      "terms": 28,
+      "words": 3865,
+      "unplacedInSummary": 0
+     }
+    },
+    {
+     "id": "ch12",
+     "order": 4,
+     "titleUz": "Yurak muskuli va koronar qon oqimi buzilishlarida EKG talqini: vektor tahlili",
+     "titleOriginal": "Electrocardiographic Interpretation of Cardiac Muscle and Coronary Blood Flow Abnormalities: Vectorial Analysis",
+     "pdfPages": [
+      137,
+      150
+     ],
+     "printedPages": [
+      132,
+      145
+     ],
+     "estMinutes": 41,
+     "status": "in_review",
+     "counts": {
+      "figures": 24,
+      "figuresIncluded": 24,
+      "terms": 59,
+      "words": 8203,
+      "unplacedInSummary": 0
+     }
+    },
+    {
+     "id": "ch13",
+     "order": 5,
+     "titleUz": "Yurak aritmiyalari va ularning EKG talqini",
+     "titleOriginal": "Cardiac Arrhythmias and Their Electrocardiographic Interpretation",
+     "pdfPages": [
+      151,
+      162
+     ],
+     "printedPages": [
+      146,
+      157
+     ],
+     "estMinutes": 36,
+     "status": "in_review",
+     "counts": {
+      "figures": 21,
+      "figuresIncluded": 21,
+      "terms": 27,
+      "words": 7225,
+      "unplacedInSummary": 21
+     }
+    }
+   ],
+   "plannedSections": [
+    {
+     "id": "03-01",
+     "title": "Yurak mushagi fiziologiyasi",
+     "aliasOf": "ch09"
+    },
+    {
+     "id": "03-02",
+     "title": "Yurak sikli",
+     "aliasOf": "ch09"
+    },
+    {
+     "id": "03-03",
+     "title": "Yurakning nasos faoliyati",
+     "aliasOf": "ch09"
+    },
+    {
+     "id": "03-04",
+     "title": "Ritm va o‘tkazuvchi tizim",
+     "aliasOf": "ch10"
+    },
+    {
+     "id": "03-05",
+     "title": "Elektr faolligi va EKG",
+     "aliasOf": "ch11"
+    },
+    {
+     "id": "03-06",
+     "title": "Yurak faoliyatining boshqarilishi",
+     "aliasOf": "ch09"
+    }
+   ]
+  },
+  {
+   "id": "04",
+   "order": 4,
+   "title": "Qon aylanish",
+   "description": "Qon tomirlarida qon oqimi va arterial bosimning boshqarilishi.",
+   "cardImage": "/assets/topics/topic_04.webp",
+   "cardImageSource": "Fiziologiya_15_mavzu_3D_rasmlar.docx / DrStudy_Toliq_UI assets (3D muqova, kitob rasmi emas)",
+   "bookUnit": {
+    "bookId": "guyton-hall-14",
+    "unit": "IV",
+    "title": "The Circulation"
+   },
+   "sections": [
+    {
+     "id": "ch14",
+     "order": 1,
+     "titleUz": "Qon aylanishiga umumiy nazar: bosim, oqim va qarshilik biofizikasi",
+     "titleOriginal": "Overview of the Circulation: Pressure, Flow, and Resistance",
+     "pdfPages": [
+      163,
+      173
+     ],
+     "printedPages": [
+      158,
+      168
+     ],
+     "estMinutes": 32,
+     "status": "in_review",
+     "counts": {
+      "figures": 14,
+      "figuresIncluded": 14,
+      "terms": 21,
+      "words": 6341,
+      "unplacedInSummary": 14
+     }
+    },
+    {
+     "id": "ch15",
+     "order": 2,
+     "titleUz": "Tomirlarning cho'ziluvchanligi; arterial va venoz tizim funksiyalari",
+     "titleOriginal": "Vascular Distensibility and Functions of the Arterial and Venous Systems",
+     "pdfPages": [
+      174,
+      183
+     ],
+     "printedPages": [
+      169,
+      178
+     ],
+     "estMinutes": 31,
+     "status": "in_review",
+     "counts": {
+      "figures": 13,
+      "figuresIncluded": 13,
+      "terms": 38,
+      "words": 6198,
+      "unplacedInSummary": 13
+     }
+    },
+    {
+     "id": "ch16",
+     "order": 3,
+     "titleUz": "Mikrosirkulyatsiya va limfa tizimi: kapillyar suyuqlik almashinuvi, interstitsial suyuqlik va limfa oqimi",
+     "titleOriginal": "The Microcirculation and Lymphatic System: Capillary Fluid Exchange, Interstitial Fluid, and Lymph Flow",
+     "pdfPages": [
+      184,
+      195
+     ],
+     "printedPages": [
+      179,
+      190
+     ],
+     "estMinutes": 37,
+     "status": "in_review",
+     "counts": {
+      "figures": 10,
+      "figuresIncluded": 10,
+      "terms": 47,
+      "words": 7395,
+      "unplacedInSummary": 9
+     }
+    },
+    {
+     "id": "ch17",
+     "order": 4,
+     "titleUz": "To'qima qon oqimining mahalliy va gumoral nazorati",
+     "titleOriginal": "Local and Humoral Control of Tissue Blood Flow",
+     "pdfPages": [
+      196,
+      207
+     ],
+     "printedPages": [
+      191,
+      202
+     ],
+     "estMinutes": 38,
+     "status": "in_review",
+     "counts": {
+      "figures": 9,
+      "figuresIncluded": 8,
+      "terms": 55,
+      "words": 7572,
+      "unplacedInSummary": 8
+     }
+    },
+    {
+     "id": "ch18",
+     "order": 5,
+     "titleUz": "Qon aylanishining nerv nazorati va arterial bosimni tezkor boshqarish",
+     "titleOriginal": "Nervous Regulation of the Circulation and Rapid Control of Arterial Pressure",
+     "pdfPages": [
+      208,
+      219
+     ],
+     "printedPages": [
+      203,
+      214
+     ],
+     "estMinutes": 33,
+     "status": "in_review",
+     "counts": {
+      "figures": 11,
+      "figuresIncluded": 11,
+      "terms": 61,
+      "words": 6556,
+      "unplacedInSummary": 11
+     }
+    },
+    {
+     "id": "ch19",
+     "order": 6,
+     "titleUz": "Buyraklarning arterial bosimni uzoq muddatli nazoratdagi roli va gipertoniya: bosimni boshqarishning integratsiyalashgan tizimi",
+     "titleOriginal": "Role of the Kidneys in Long-Term Control of Arterial Pressure and in Hypertension: The Integrated System for Arterial Pressure Regulation",
+     "pdfPages": [
+      220,
+      235
+     ],
+     "printedPages": [
+      215,
+      230
+     ],
+     "estMinutes": 52,
+     "status": "in_review",
+     "counts": {
+      "figures": 16,
+      "figuresIncluded": 16,
+      "terms": 56,
+      "words": 10453,
+      "unplacedInSummary": 15
+     }
+    },
+    {
+     "id": "ch20",
+     "order": 7,
+     "titleUz": "Yurak chiqarishi, venoz qaytish va ularning boshqarilishi",
+     "titleOriginal": "Cardiac Output, Venous Return, and Their Regulation",
+     "pdfPages": [
+      236,
+      249
+     ],
+     "printedPages": [
+      231,
+      244
+     ],
+     "estMinutes": 39,
+     "status": "in_review",
+     "counts": {
+      "figures": 20,
+      "figuresIncluded": 20,
+      "terms": 46,
+      "words": 7711,
+      "unplacedInSummary": 20
+     }
+    },
+    {
+     "id": "ch21",
+     "order": 8,
+     "titleUz": "Jismoniy mashqda mushak qon oqimi va yurak chiqarishi; koronar qon aylanish va yurak ishemik kasalligi",
+     "titleOriginal": "Muscle Blood Flow and Cardiac Output During Exercise; the Coronary Circulation and Ischemic Heart Disease",
+     "pdfPages": [
+      250,
+      260
+     ],
+     "printedPages": [
+      245,
+      255
+     ],
+     "estMinutes": 40,
+     "status": "in_review",
+     "counts": {
+      "figures": 8,
+      "figuresIncluded": 8,
+      "terms": 62,
+      "words": 7904,
+      "unplacedInSummary": 8
+     }
+    },
+    {
+     "id": "ch22",
+     "order": 9,
+     "titleUz": "Yurak yetishmovchiligi",
+     "titleOriginal": "Cardiac Failure",
+     "pdfPages": [
+      261,
+      271
+     ],
+     "printedPages": [
+      256,
+      266
+     ],
+     "estMinutes": 40,
+     "status": "in_review",
+     "counts": {
+      "figures": 8,
+      "figuresIncluded": 8,
+      "terms": 45,
+      "words": 7964,
+      "unplacedInSummary": 3
+     }
+    },
+    {
+     "id": "ch23",
+     "order": 10,
+     "titleUz": "Yurak klapanlari va yurak tonlari; klapan va tug'ma yurak nuqsonlari",
+     "titleOriginal": "Heart Valves and Heart Sounds; Valvular and Congenital Heart Defects",
+     "pdfPages": [
+      272,
+      280
+     ],
+     "printedPages": [
+      267,
+      275
+     ],
+     "estMinutes": 31,
+     "status": "in_review",
+     "counts": {
+      "figures": 6,
+      "figuresIncluded": 6,
+      "terms": 67,
+      "words": 6219,
+      "unplacedInSummary": 6
+     }
+    },
+    {
+     "id": "ch24",
+     "order": 11,
+     "titleUz": "Qon aylanish shoki va uni davolash",
+     "titleOriginal": "Circulatory Shock and Its Treatment",
+     "pdfPages": [
+      281,
+      290
+     ],
+     "printedPages": [
+      276,
+      285
+     ],
+     "estMinutes": 32,
+     "status": "in_review",
+     "counts": {
+      "figures": 6,
+      "figuresIncluded": 6,
+      "terms": 73,
+      "words": 6404,
+      "unplacedInSummary": 6
+     }
+    }
+   ],
+   "plannedSections": [
+    {
+     "id": "04-01",
+     "title": "Qon oqimi va tomir qarshiligi",
+     "aliasOf": "ch14"
+    },
+    {
+     "id": "04-02",
+     "title": "Arterial bosim",
+     "aliasOf": "ch15"
+    },
+    {
+     "id": "04-03",
+     "title": "Mikrosirkulyatsiya",
+     "aliasOf": "ch16"
+    },
+    {
+     "id": "04-04",
+     "title": "Venoz qaytish",
+     "aliasOf": "ch20"
+    },
+    {
+     "id": "04-05",
+     "title": "Qon aylanishining boshqarilishi",
+     "aliasOf": "ch18"
+    }
+   ]
+  },
+  {
+   "id": "05",
+   "order": 5,
+   "title": "Tana suyuqliklari va buyraklar",
+   "description": "Buyrak, nefron va organizmdagi suv hamda tuzlar muvozanati.",
+   "cardImage": "/assets/topics/topic_05.webp",
+   "cardImageSource": "Fiziologiya_15_mavzu_3D_rasmlar.docx / DrStudy_Toliq_UI assets (3D muqova, kitob rasmi emas)",
+   "bookUnit": {
+    "bookId": "guyton-hall-14",
+    "unit": "V",
+    "title": "The Body Fluids and Kidneys"
+   },
+   "sections": [
+    {
+     "id": "ch25",
+     "order": 1,
+     "titleUz": "Tana suyuqlik kompartmentlari: hujayradan tashqari (ECF) va hujayra ichi (ICF) suyuqliklari; shish (edema)",
+     "titleOriginal": "Regulation of Body Fluid Compartments: Extracellular and Intracellular Fluids; Edema",
+     "pdfPages": [
+      291,
+      306
+     ],
+     "printedPages": [
+      286,
+      301
+     ],
+     "estMinutes": 48,
+     "status": "in_review",
+     "counts": {
+      "figures": 12,
+      "figuresIncluded": 12,
+      "terms": 40,
+      "words": 9685,
+      "unplacedInSummary": 10
+     }
+    },
+    {
+     "id": "ch26",
+     "order": 2,
+     "titleUz": "Siydik tizimi: funksional anatomiya va buyrakda siydik hosil bo'lishi",
+     "titleOriginal": "The Urinary System: Functional Anatomy and Urine Formation by the Kidneys",
+     "pdfPages": [
+      307,
+      316
+     ],
+     "printedPages": [
+      302,
+      311
+     ],
+     "estMinutes": 28,
+     "status": "in_review",
+     "counts": {
+      "figures": 10,
+      "figuresIncluded": 10,
+      "terms": 47,
+      "words": 5509,
+      "unplacedInSummary": 7
+     }
+    },
+    {
+     "id": "ch27",
+     "order": 3,
+     "titleUz": "Koptokchalar filtratsiyasi (GFR), buyrak qon oqimi va ularning boshqarilishi",
+     "titleOriginal": "Glomerular Filtration, Renal Blood Flow, and Their Control",
+     "pdfPages": [
+      317,
+      328
+     ],
+     "printedPages": [
+      312,
+      323
+     ],
+     "estMinutes": 32,
+     "status": "in_review",
+     "counts": {
+      "figures": 17,
+      "figuresIncluded": 17,
+      "terms": 64,
+      "words": 6362,
+      "unplacedInSummary": 6
+     }
+    },
+    {
+     "id": "ch28",
+     "order": 4,
+     "titleUz": "Buyrak kanalchalarida reabsorbsiya va sekretsiya",
+     "titleOriginal": "Renal Tubular Reabsorption and Secretion",
+     "pdfPages": [
+      329,
+      350
+     ],
+     "printedPages": [
+      324,
+      345
+     ],
+     "estMinutes": 59,
+     "status": "in_review",
+     "counts": {
+      "figures": 27,
+      "figuresIncluded": 26,
+      "terms": 92,
+      "words": 11859,
+      "unplacedInSummary": 17
+     }
+    },
+    {
+     "id": "ch29",
+     "order": 5,
+     "titleUz": "Siydikni konsentratsiyalash va suyultirish; ECF osmolyarligi va Na⁺ konsentratsiyasining boshqarilishi",
+     "titleOriginal": "Urine Concentration and Dilution; Regulation of Extracellular Fluid Osmolarity and Sodium Concentration",
+     "pdfPages": [
+      351,
+      367
+     ],
+     "printedPages": [
+      346,
+      362
+     ],
+     "estMinutes": 52,
+     "status": "in_review",
+     "counts": {
+      "figures": 16,
+      "figuresIncluded": 16,
+      "terms": 78,
+      "words": 10423,
+      "unplacedInSummary": 6
+     }
+    },
+    {
+     "id": "ch30",
+     "order": 6,
+     "titleUz": "Buyrakning K⁺, Ca²⁺, fosfat va Mg²⁺ ni boshqarishi; qon hajmi va ECF hajmini boshqarishda buyrak mexanizmlarining integratsiyasi",
+     "titleOriginal": "Renal Regulation of Potassium, Calcium, Phosphate, and Magnesium; Integration of Renal Mechanisms for Control of Blood Volume and Extracellular Fluid Volume",
+     "pdfPages": [
+      368,
+      386
+     ],
+     "printedPages": [
+      363,
+      381
+     ],
+     "estMinutes": 58,
+     "status": "in_review",
+     "counts": {
+      "figures": 21,
+      "figuresIncluded": 21,
+      "terms": 101,
+      "words": 11540,
+      "unplacedInSummary": 4
+     }
+    },
+    {
+     "id": "ch31",
+     "order": 7,
+     "titleUz": "Kislota–asos muvozanatining boshqarilishi",
+     "titleOriginal": "Acid–Base Regulation",
+     "pdfPages": [
+      387,
+      404
+     ],
+     "printedPages": [
+      382,
+      399
+     ],
+     "estMinutes": 63,
+     "status": "in_review",
+     "counts": {
+      "figures": 15,
+      "figuresIncluded": 15,
+      "terms": 96,
+      "words": 12632,
+      "unplacedInSummary": 0
+     }
+    },
+    {
+     "id": "ch32",
+     "order": 8,
+     "titleUz": "Diuretiklar va buyrak kasalliklari",
+     "titleOriginal": "Diuretics and Kidney Diseases",
+     "pdfPages": [
+      405,
+      419
+     ],
+     "printedPages": [
+      400,
+      414
+     ],
+     "estMinutes": 49,
+     "status": "in_review",
+     "counts": {
+      "figures": 15,
+      "figuresIncluded": 13,
+      "terms": 119,
+      "words": 9737,
+      "unplacedInSummary": 1
+     }
+    }
+   ],
+   "plannedSections": [
+    {
+     "id": "05-01",
+     "title": "Tana suyuqliklari bo‘limlari",
+     "aliasOf": "ch25"
+    },
+    {
+     "id": "05-02",
+     "title": "Buyrak va nefron",
+     "aliasOf": "ch26"
+    },
+    {
+     "id": "05-03",
+     "title": "Filtratsiya",
+     "aliasOf": "ch27"
+    },
+    {
+     "id": "05-04",
+     "title": "Qayta so‘rilish va sekretsiya",
+     "aliasOf": "ch28"
+    },
+    {
+     "id": "05-05",
+     "title": "Suv-tuz muvozanati",
+     "aliasOf": "ch29"
+    },
+    {
+     "id": "05-06",
+     "title": "Kislota-ishqor muvozanati",
+     "aliasOf": "ch31"
+    }
+   ]
+  },
+  {
+   "id": "06",
+   "order": 6,
+   "title": "Qon, immunitet va qon ivishi",
+   "description": "Eritrotsitlar, infeksiyaga qarshi himoya va qon ivishi.",
+   "cardImage": "/assets/topics/topic_06.webp",
+   "cardImageSource": "Fiziologiya_15_mavzu_3D_rasmlar.docx / DrStudy_Toliq_UI assets (3D muqova, kitob rasmi emas)",
+   "bookUnit": {
+    "bookId": "guyton-hall-14",
+    "unit": "VI",
+    "title": "Blood Cells, Immunity, and Blood Coagulation"
+   },
+   "sections": [
+    {
+     "id": "ch33",
+     "order": 1,
+     "titleUz": "Eritrotsitlar, anemiya va politsitemiya",
+     "titleOriginal": "Red Blood Cells, Anemia, and Polycythemia",
+     "pdfPages": [
+      420,
+      428
+     ],
+     "printedPages": [
+      415,
+      423
+     ],
+     "estMinutes": 30,
+     "status": "in_review",
+     "counts": {
+      "figures": 7,
+      "figuresIncluded": 7,
+      "terms": 109,
+      "words": 6007,
+      "unplacedInSummary": 0
+     }
+    },
+    {
+     "id": "ch34",
+     "order": 2,
+     "titleUz": "Organizmning infeksiyaga qarshiligi: I. Leykotsitlar, granulotsitlar, monotsit-makrofag tizimi va yallig'lanish",
+     "titleOriginal": "Resistance of the Body to Infection: I. Leukocytes, Granulocytes, the Monocyte-Macrophage System, and Inflammation",
+     "pdfPages": [
+      429,
+      438
+     ],
+     "printedPages": [
+      424,
+      433
+     ],
+     "estMinutes": 29,
+     "status": "in_review",
+     "counts": {
+      "figures": 8,
+      "figuresIncluded": 8,
+      "terms": 51,
+      "words": 5748,
+      "unplacedInSummary": 8
+     }
+    },
+    {
+     "id": "ch35",
+     "order": 3,
+     "titleUz": "Organizmning infeksiyaga qarshiligi: II. Immunitet va allergiya",
+     "titleOriginal": "Resistance of the Body to Infection: II. Immunity and Allergy",
+     "pdfPages": [
+      439,
+      450
+     ],
+     "printedPages": [
+      434,
+      445
+     ],
+     "estMinutes": 38,
+     "status": "in_review",
+     "counts": {
+      "figures": 10,
+      "figuresIncluded": 9,
+      "terms": 119,
+      "words": 7624,
+      "unplacedInSummary": 9
+     }
+    },
+    {
+     "id": "ch36",
+     "order": 4,
+     "titleUz": "Qon guruhlari, qon quyish, to'qima va a'zo transplantatsiyasi",
+     "titleOriginal": "Blood Types; Transfusion; and Tissue and Organ Transplantation",
+     "pdfPages": [
+      451,
+      456
+     ],
+     "printedPages": [
+      446,
+      451
+     ],
+     "estMinutes": 20,
+     "status": "in_review",
+     "counts": {
+      "figures": 3,
+      "figuresIncluded": 3,
+      "terms": 73,
+      "words": 3932,
+      "unplacedInSummary": 1
+     }
+    },
+    {
+     "id": "ch37",
+     "order": 5,
+     "titleUz": "Gemostaz va qon ivishi",
+     "titleOriginal": "Hemostasis and Blood Coagulation",
+     "pdfPages": [
+      457,
+      468
+     ],
+     "printedPages": [
+      452,
+      463
+     ],
+     "estMinutes": 40,
+     "status": "in_review",
+     "counts": {
+      "figures": 8,
+      "figuresIncluded": 7,
+      "terms": 141,
+      "words": 7957,
+      "unplacedInSummary": 7
+     }
+    }
+   ],
+   "plannedSections": [
+    {
+     "id": "06-01",
+     "title": "Qon tarkibi va eritrotsitlar",
+     "aliasOf": "ch33"
+    },
+    {
+     "id": "06-02",
+     "title": "Leykotsitlar va himoya",
+     "aliasOf": "ch34"
+    },
+    {
+     "id": "06-03",
+     "title": "Tug‘ma va orttirilgan immunitet",
+     "aliasOf": "ch35"
+    },
+    {
+     "id": "06-04",
+     "title": "Trombotsitlar",
+     "aliasOf": "ch37"
+    },
+    {
+     "id": "06-05",
+     "title": "Gemostaz va qon ivishi",
+     "aliasOf": "ch37"
+    }
+   ]
+  },
+  {
+   "id": "07",
+   "order": 7,
+   "title": "Nafas olish",
+   "description": "O‘pka va alveolalarda kislorod hamda karbonat angidrid almashinuvi.",
+   "cardImage": "/assets/topics/topic_07.webp",
+   "cardImageSource": "Fiziologiya_15_mavzu_3D_rasmlar.docx / DrStudy_Toliq_UI assets (3D muqova, kitob rasmi emas)",
+   "bookUnit": {
+    "bookId": "guyton-hall-14",
+    "unit": "VII",
+    "title": "Respiration"
+   },
+   "sections": [
+    {
+     "id": "ch38",
+     "order": 1,
+     "titleUz": "O'pka ventilyatsiyasi",
+     "titleOriginal": "Pulmonary Ventilation",
+     "pdfPages": [
+      469,
+      479
+     ],
+     "printedPages": [
+      464,
+      474
+     ],
+     "estMinutes": 33,
+     "status": "in_review",
+     "counts": {
+      "figures": 11,
+      "figuresIncluded": 11,
+      "terms": 137,
+      "words": 6692,
+      "unplacedInSummary": 8
+     }
+    },
+    {
+     "id": "ch39",
+     "order": 2,
+     "titleUz": "O'pka qon aylanishi, o'pka shishi va plevra suyuqligi",
+     "titleOriginal": "Pulmonary Circulation, Pulmonary Edema, and Pleural Fluid",
+     "pdfPages": [
+      480,
+      487
+     ],
+     "printedPages": [
+      475,
+      482
+     ],
+     "estMinutes": 22,
+     "status": "in_review",
+     "counts": {
+      "figures": 9,
+      "figuresIncluded": 9,
+      "terms": 104,
+      "words": 4500,
+      "unplacedInSummary": 6
+     }
+    },
+    {
+     "id": "ch40",
+     "order": 3,
+     "titleUz": "Gaz almashinuvi tamoyillari; O₂ va CO₂ ning respirator membrana orqali diffuziyasi",
+     "titleOriginal": "Principles of Gas Exchange; Diffusion of Oxygen and Carbon Dioxide Through the Respiratory Membrane",
+     "pdfPages": [
+      488,
+      497
+     ],
+     "printedPages": [
+      483,
+      492
+     ],
+     "estMinutes": 32,
+     "status": "in_review",
+     "counts": {
+      "figures": 12,
+      "figuresIncluded": 12,
+      "terms": 96,
+      "words": 6331,
+      "unplacedInSummary": 9
+     }
+    },
+    {
+     "id": "ch41",
+     "order": 4,
+     "titleUz": "O₂ va CO₂ ning qon va to'qima suyuqliklarida tashilishi",
+     "titleOriginal": "Transport of Oxygen and Carbon Dioxide in Blood and Tissue Fluids",
+     "pdfPages": [
+      498,
+      507
+     ],
+     "printedPages": [
+      493,
+      502
+     ],
+     "estMinutes": 32,
+     "status": "in_review",
+     "counts": {
+      "figures": 14,
+      "figuresIncluded": 14,
+      "terms": 127,
+      "words": 6431,
+      "unplacedInSummary": 13
+     }
+    },
+    {
+     "id": "ch42",
+     "order": 5,
+     "titleUz": "Nafasning boshqarilishi",
+     "titleOriginal": "Regulation of Respiration",
+     "pdfPages": [
+      508,
+      517
+     ],
+     "printedPages": [
+      503,
+      512
+     ],
+     "estMinutes": 30,
+     "status": "in_review",
+     "counts": {
+      "figures": 12,
+      "figuresIncluded": 12,
+      "terms": 144,
+      "words": 5973,
+      "unplacedInSummary": 4
+     }
+    },
+    {
+     "id": "ch43",
+     "order": 6,
+     "titleUz": "Nafas yetishmovchiligi: patofiziologiya, diagnostika, kislorod terapiyasi",
+     "titleOriginal": "Respiratory Insufficiency—Pathophysiology, Diagnosis, Oxygen Therapy",
+     "pdfPages": [
+      518,
+      526
+     ],
+     "printedPages": [
+      513,
+      521
+     ],
+     "estMinutes": 28,
+     "status": "in_review",
+     "counts": {
+      "figures": 9,
+      "figuresIncluded": 9,
+      "terms": 160,
+      "words": 5584,
+      "unplacedInSummary": 5
+     }
+    }
+   ],
+   "plannedSections": [
+    {
+     "id": "07-01",
+     "title": "Nafas mexanikasi",
+     "aliasOf": "ch38"
+    },
+    {
+     "id": "07-02",
+     "title": "O‘pka ventilyatsiyasi",
+     "aliasOf": "ch38"
+    },
+    {
+     "id": "07-03",
+     "title": "Alveolyar gaz almashinuvi",
+     "aliasOf": "ch40"
+    },
+    {
+     "id": "07-04",
+     "title": "Gazlarning qonda tashilishi",
+     "aliasOf": "ch41"
+    },
+    {
+     "id": "07-05",
+     "title": "Nafasning boshqarilishi",
+     "aliasOf": "ch42"
+    }
+   ]
+  },
+  {
+   "id": "08",
+   "order": 8,
+   "title": "Aviatsiya, kosmos va chuqur suv",
+   "description": "Balandlik, mikrogravitatsiya va bosim o‘zgarishlarining organizmga ta’siri.",
+   "cardImage": "/assets/topics/topic_08.webp",
+   "cardImageSource": "Fiziologiya_15_mavzu_3D_rasmlar.docx / DrStudy_Toliq_UI assets (3D muqova, kitob rasmi emas)",
+   "bookUnit": {
+    "bookId": "guyton-hall-14",
+    "unit": "VIII",
+    "title": "Aviation, Space, and Deep-Sea Diving Physiology"
+   },
+   "sections": [
+    {
+     "id": "ch44",
+     "order": 1,
+     "titleUz": "Aviatsiya, baland tog' va kosmos fiziologiyasi",
+     "titleOriginal": "Aviation, High Altitude, and Space Physiology",
+     "pdfPages": [
+      527,
+      534
+     ],
+     "printedPages": [
+      522,
+      529
+     ],
+     "estMinutes": 27,
+     "status": "in_review",
+     "counts": {
+      "figures": 6,
+      "figuresIncluded": 4,
+      "terms": 116,
+      "words": 5378,
+      "unplacedInSummary": 2
+     }
+    },
+    {
+     "id": "ch45",
+     "order": 2,
+     "titleUz": "Chuqur dengizga sho'ng'ish va boshqa giperbarik holatlar fiziologiyasi",
+     "titleOriginal": "Physiology of Deep Sea Diving and Other Hyperbaric Conditions",
+     "pdfPages": [
+      535,
+      540
+     ],
+     "printedPages": [
+      530,
+      535
+     ],
+     "estMinutes": 19,
+     "status": "in_review",
+     "counts": {
+      "figures": 4,
+      "figuresIncluded": 4,
+      "terms": 95,
+      "words": 3898,
+      "unplacedInSummary": 3
+     }
+    }
+   ],
+   "plannedSections": [
+    {
+     "id": "08-01",
+     "title": "Balandlik va kislorod",
+     "aliasOf": "ch44"
+    },
+    {
+     "id": "08-02",
+     "title": "Aviatsiya omillari",
+     "aliasOf": "ch44"
+    },
+    {
+     "id": "08-03",
+     "title": "Mikrogravitatsiyaga moslashish",
+     "aliasOf": "ch44"
+    },
+    {
+     "id": "08-04",
+     "title": "Suv osti bosimi",
+     "aliasOf": "ch45"
+    },
+    {
+     "id": "08-05",
+     "title": "Bosim o‘zgarishlariga moslashish",
+     "aliasOf": "ch45"
+    }
+   ]
+  },
+  {
+   "id": "09",
+   "order": 9,
+   "title": "Nerv tizimi va umumiy sezgilar",
+   "description": "Sinapslar, retseptorlar, teginish, og‘riq va harorat sezgisi.",
+   "cardImage": "/assets/topics/topic_09.webp",
+   "cardImageSource": "Fiziologiya_15_mavzu_3D_rasmlar.docx / DrStudy_Toliq_UI assets (3D muqova, kitob rasmi emas)",
+   "bookUnit": {
+    "bookId": "guyton-hall-14",
+    "unit": "IX",
+    "title": "The Nervous System: A. General Principles and Sensory Physiology"
+   },
+   "sections": [
+    {
+     "id": "ch46",
+     "order": 1,
+     "titleUz": "Nerv tizimining tuzilishi, sinapslarning asosiy funksiyalari va neyromediatorlar",
+     "titleOriginal": "Organization of the Nervous System, Basic Functions of Synapses, and Neurotransmitters",
+     "pdfPages": [
+      541,
+      557
+     ],
+     "printedPages": [
+      536,
+      552
+     ],
+     "estMinutes": 51,
+     "status": "in_review",
+     "counts": {
+      "figures": 15,
+      "figuresIncluded": 15,
+      "terms": 147,
+      "words": 10107,
+      "unplacedInSummary": 9
+     }
+    },
+    {
+     "id": "ch47",
+     "order": 2,
+     "titleUz": "Sezgi retseptorlari, axborotni qayta ishlovchi neyron zanjirlari",
+     "titleOriginal": "Sensory Receptors, Neuronal Circuits for Processing Information",
+     "pdfPages": [
+      558,
+      569
+     ],
+     "printedPages": [
+      553,
+      564
+     ],
+     "estMinutes": 31,
+     "status": "in_review",
+     "counts": {
+      "figures": 19,
+      "figuresIncluded": 19,
+      "terms": 76,
+      "words": 6159,
+      "unplacedInSummary": 18
+     }
+    },
+    {
+     "id": "ch48",
+     "order": 3,
+     "titleUz": "Somatik sezgilar I: umumiy tuzilish, taktil va holat sezgilari",
+     "titleOriginal": "Somatic Sensations: I. General Organization, Tactile and Position Senses",
+     "pdfPages": [
+      570,
+      582
+     ],
+     "printedPages": [
+      565,
+      577
+     ],
+     "estMinutes": 35,
+     "status": "in_review",
+     "counts": {
+      "figures": 14,
+      "figuresIncluded": 14,
+      "terms": 97,
+      "words": 6968,
+      "unplacedInSummary": 14
+     }
+    },
+    {
+     "id": "ch49",
+     "order": 4,
+     "titleUz": "Somatik sezgilar II: og'riq, bosh og'rig'i va harorat sezgilari",
+     "titleOriginal": "Somatic Sensations: II. Pain, Headache, and Thermal Sensations",
+     "pdfPages": [
+      583,
+      593
+     ],
+     "printedPages": [
+      578,
+      588
+     ],
+     "estMinutes": 38,
+     "status": "in_review",
+     "counts": {
+      "figures": 10,
+      "figuresIncluded": 10,
+      "terms": 145,
+      "words": 7600,
+      "unplacedInSummary": 10
+     }
+    }
+   ],
+   "plannedSections": [
+    {
+     "id": "09-01",
+     "title": "Nerv tizimining tashkil etilishi",
+     "aliasOf": "ch46"
+    },
+    {
+     "id": "09-02",
+     "title": "Sinaptik uzatish",
+     "aliasOf": "ch46"
+    },
+    {
+     "id": "09-03",
+     "title": "Sezgi retseptorlari",
+     "aliasOf": "ch47"
+    },
+    {
+     "id": "09-04",
+     "title": "Teginish va bosim",
+     "aliasOf": "ch48"
+    },
+    {
+     "id": "09-05",
+     "title": "Og‘riq va harorat",
+     "aliasOf": "ch49"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "order": 10,
+   "title": "Maxsus sezgilar",
+   "description": "Ko‘rish, eshitish, ta’m va hid bilish organlari.",
+   "cardImage": "/assets/topics/topic_10.webp",
+   "cardImageSource": "Fiziologiya_15_mavzu_3D_rasmlar.docx / DrStudy_Toliq_UI assets (3D muqova, kitob rasmi emas)",
+   "bookUnit": {
+    "bookId": "guyton-hall-14",
+    "unit": "X",
+    "title": "The Nervous System: B. The Special Senses"
+   },
+   "sections": [
+    {
+     "id": "ch50",
+     "order": 1,
+     "titleUz": "Ko'z I: ko'rish optikasi",
+     "titleOriginal": "The Eye: I. Optics of Vision",
+     "pdfPages": [
+      594,
+      604
+     ],
+     "printedPages": [
+      589,
+      599
+     ],
+     "estMinutes": 35,
+     "status": "in_review",
+     "counts": {
+      "figures": 21,
+      "figuresIncluded": 21,
+      "terms": 82,
+      "words": 6973,
+      "unplacedInSummary": 21
+     }
+    },
+    {
+     "id": "ch51",
+     "order": 2,
+     "titleUz": "Ko'z II: to'r pardaning retseptor va neyron funksiyasi",
+     "titleOriginal": "The Eye: II. Receptor and Neural Function of the Retina",
+     "pdfPages": [
+      605,
+      617
+     ],
+     "printedPages": [
+      600,
+      612
+     ],
+     "estMinutes": 40,
+     "status": "in_review",
+     "counts": {
+      "figures": 15,
+      "figuresIncluded": 15,
+      "terms": 126,
+      "words": 8044,
+      "unplacedInSummary": 15
+     }
+    },
+    {
+     "id": "ch52",
+     "order": 3,
+     "titleUz": "Ko'z III: ko'rishning markaziy neyrofiziologiyasi",
+     "titleOriginal": "The Eye: III. Central Neurophysiology of Vision",
+     "pdfPages": [
+      618,
+      627
+     ],
+     "printedPages": [
+      613,
+      622
+     ],
+     "estMinutes": 32,
+     "status": "in_review",
+     "counts": {
+      "figures": 11,
+      "figuresIncluded": 11,
+      "terms": 106,
+      "words": 6452,
+      "unplacedInSummary": 11
+     }
+    },
+    {
+     "id": "ch53",
+     "order": 4,
+     "titleUz": "Eshitish sezgisi",
+     "titleOriginal": "The Sense of Hearing",
+     "pdfPages": [
+      628,
+      638
+     ],
+     "printedPages": [
+      623,
+      633
+     ],
+     "estMinutes": 35,
+     "status": "in_review",
+     "counts": {
+      "figures": 12,
+      "figuresIncluded": 12,
+      "terms": 124,
+      "words": 6932,
+      "unplacedInSummary": 12
+     }
+    },
+    {
+     "id": "ch54",
+     "order": 5,
+     "titleUz": "Kimyoviy sezgilar: ta'm va hid",
+     "titleOriginal": "The Chemical Senses—Taste and Smell",
+     "pdfPages": [
+      639,
+      646
+     ],
+     "printedPages": [
+      634,
+      641
+     ],
+     "estMinutes": 25,
+     "status": "in_review",
+     "counts": {
+      "figures": 6,
+      "figuresIncluded": 6,
+      "terms": 105,
+      "words": 5028,
+      "unplacedInSummary": 5
+     }
+    }
+   ],
+   "plannedSections": [
+    {
+     "id": "10-01",
+     "title": "Ko‘rish",
+     "aliasOf": "ch50"
+    },
+    {
+     "id": "10-02",
+     "title": "Eshitish",
+     "aliasOf": "ch53"
+    },
+    {
+     "id": "10-03",
+     "title": "Muvozanat",
+     "aliasOf": "ch56"
+    },
+    {
+     "id": "10-04",
+     "title": "Ta’m bilish",
+     "aliasOf": "ch54"
+    },
+    {
+     "id": "10-05",
+     "title": "Hid bilish",
+     "aliasOf": "ch54"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "order": 11,
+   "title": "Harakat va oliy nerv faoliyati",
+   "description": "Miya, miyacha, orqa miya, harakat boshqaruvi va xotira.",
+   "cardImage": "/assets/topics/topic_11.webp",
+   "cardImageSource": "Fiziologiya_15_mavzu_3D_rasmlar.docx / DrStudy_Toliq_UI assets (3D muqova, kitob rasmi emas)",
+   "bookUnit": {
+    "bookId": "guyton-hall-14",
+    "unit": "XI",
+    "title": "The Nervous System: C. Motor and Integrative Neurophysiology"
+   },
+   "sections": [
+    {
+     "id": "ch55",
+     "order": 1,
+     "titleUz": "Orqa miyaning motor funksiyalari; orqa miya reflekslari",
+     "titleOriginal": "Spinal Cord Motor Functions; the Cord Reflexes",
+     "pdfPages": [
+      647,
+      657
+     ],
+     "printedPages": [
+      642,
+      652
+     ],
+     "estMinutes": 37,
+     "status": "in_review",
+     "counts": {
+      "figures": 12,
+      "figuresIncluded": 12,
+      "terms": 106,
+      "words": 7475,
+      "unplacedInSummary": 12
+     }
+    },
+    {
+     "id": "ch56",
+     "order": 2,
+     "titleUz": "Motor funksiyaning po'stloq va miya ustuni orqali nazorati",
+     "titleOriginal": "Cortical and Brain Stem Control of Motor Function",
+     "pdfPages": [
+      658,
+      670
+     ],
+     "printedPages": [
+      653,
+      665
+     ],
+     "estMinutes": 40,
+     "status": "in_review",
+     "counts": {
+      "figures": 13,
+      "figuresIncluded": 13,
+      "terms": 148,
+      "words": 8007,
+      "unplacedInSummary": 13
+     }
+    },
+    {
+     "id": "ch57",
+     "order": 3,
+     "titleUz": "Serebellum va bazal gangliylarning umumiy motor nazoratdagi hissasi",
+     "titleOriginal": "Cerebellum and Basal Ganglia Contributions to Overall Motor Control",
+     "pdfPages": [
+      671,
+      686
+     ],
+     "printedPages": [
+      666,
+      681
+     ],
+     "estMinutes": 52,
+     "status": "in_review",
+     "counts": {
+      "figures": 14,
+      "figuresIncluded": 14,
+      "terms": 156,
+      "words": 10497,
+      "unplacedInSummary": 14
+     }
+    },
+    {
+     "id": "ch58",
+     "order": 4,
+     "titleUz": "Bosh miya po'stlog'i, intellektual funksiyalar, o'rganish va xotira",
+     "titleOriginal": "Cerebral Cortex, Intellectual Functions of the Brain, Learning, and Memory",
+     "pdfPages": [
+      687,
+      700
+     ],
+     "printedPages": [
+      682,
+      695
+     ],
+     "estMinutes": 45,
+     "status": "in_review",
+     "counts": {
+      "figures": 9,
+      "figuresIncluded": 9,
+      "terms": 143,
+      "words": 8977,
+      "unplacedInSummary": 9
+     }
+    },
+    {
+     "id": "ch59",
+     "order": 5,
+     "titleUz": "Limbik tizim va gipotalamus — miyaning xulq-atvor va motivatsiya mexanizmlari",
+     "titleOriginal": "The Limbic System and the Hypothalamus—Behavioral and Motivational Mechanisms of the Brain",
+     "pdfPages": [
+      701,
+      712
+     ],
+     "printedPages": [
+      696,
+      707
+     ],
+     "estMinutes": 35,
+     "status": "in_review",
+     "counts": {
+      "figures": 8,
+      "figuresIncluded": 8,
+      "terms": 31,
+      "words": 7015,
+      "unplacedInSummary": 8
+     }
+    },
+    {
+     "id": "ch60",
+     "order": 6,
+     "titleUz": "Miya faolligi holatlari — uyqu, miya to'lqinlari, epilepsiya, psixozlar va demensiya",
+     "titleOriginal": "States of Brain Activity—Sleep, Brain Waves, Epilepsy, Psychoses, and Dementia",
+     "pdfPages": [
+      713,
+      722
+     ],
+     "printedPages": [
+      708,
+      717
+     ],
+     "estMinutes": 35,
+     "status": "in_review",
+     "counts": {
+      "figures": 6,
+      "figuresIncluded": 6,
+      "terms": 44,
+      "words": 6971,
+      "unplacedInSummary": 6
+     }
+    },
+    {
+     "id": "ch61",
+     "order": 7,
+     "titleUz": "Avtonom nerv tizimi va buyrak usti bezining mag'iz qismi",
+     "titleOriginal": "The Autonomic Nervous System and the Adrenal Medulla",
+     "pdfPages": [
+      723,
+      735
+     ],
+     "printedPages": [
+      718,
+      730
+     ],
+     "estMinutes": 40,
+     "status": "in_review",
+     "counts": {
+      "figures": 8,
+      "figuresIncluded": 7,
+      "terms": 53,
+      "words": 8032,
+      "unplacedInSummary": 7
+     }
+    },
+    {
+     "id": "ch62",
+     "order": 8,
+     "titleUz": "Miya qon oqimi, orqa miya suyuqligi va miya metabolizmi",
+     "titleOriginal": "Cerebral Blood Flow, Cerebrospinal Fluid, and Brain Metabolism",
+     "pdfPages": [
+      736,
+      743
+     ],
+     "printedPages": [
+      731,
+      738
+     ],
+     "estMinutes": 30,
+     "status": "in_review",
+     "counts": {
+      "figures": 7,
+      "figuresIncluded": 7,
+      "terms": 37,
+      "words": 5953,
+      "unplacedInSummary": 7
+     }
+    }
+   ],
+   "plannedSections": [
+    {
+     "id": "11-01",
+     "title": "Orqa miya va reflekslar",
+     "aliasOf": "ch55"
+    },
+    {
+     "id": "11-02",
+     "title": "Miya va harakat boshqaruvi",
+     "aliasOf": "ch56"
+    },
+    {
+     "id": "11-03",
+     "title": "Miyacha",
+     "aliasOf": "ch57"
+    },
+    {
+     "id": "11-04",
+     "title": "O‘rganish va xotira",
+     "aliasOf": "ch58"
+    },
+    {
+     "id": "11-05",
+     "title": "Uyqu va uyg‘oqlik",
+     "aliasOf": "ch60"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "order": 12,
+   "title": "Oshqozon ichak tizimi",
+   "description": "Ovqatning harakatlanishi, hazm bo‘lishi va oziq moddalarning so‘rilishi.",
+   "cardImage": "/assets/topics/topic_12.webp",
+   "cardImageSource": "Fiziologiya_15_mavzu_3D_rasmlar.docx / DrStudy_Toliq_UI assets (3D muqova, kitob rasmi emas)",
+   "bookUnit": {
+    "bookId": "guyton-hall-14",
+    "unit": "XII",
+    "title": "Gastrointestinal Physiology"
+   },
+   "sections": [
+    {
+     "id": "ch63",
+     "order": 1,
+     "titleUz": "Oshqozon-ichak funksiyasining umumiy tamoyillari — harakat, nerv boshqaruvi va qon aylanishi",
+     "titleOriginal": "General Principles of Gastrointestinal Function—Motility, Nervous Control, and Blood Circulation",
+     "pdfPages": [
+      744,
+      753
+     ],
+     "printedPages": [
+      739,
+      748
+     ],
+     "estMinutes": 28,
+     "status": "in_review",
+     "counts": {
+      "figures": 9,
+      "figuresIncluded": 9,
+      "terms": 40,
+      "words": 5550,
+      "unplacedInSummary": 8
+     }
+    },
+    {
+     "id": "ch64",
+     "order": 2,
+     "titleUz": "Ovqat hazm qilish yo'lida ovqatning harakatlanishi va aralashishi",
+     "titleOriginal": "Propulsion and Mixing of Food in the Alimentary Tract",
+     "pdfPages": [
+      754,
+      763
+     ],
+     "printedPages": [
+      749,
+      758
+     ],
+     "estMinutes": 35,
+     "status": "in_review",
+     "counts": {
+      "figures": 6,
+      "figuresIncluded": 6,
+      "terms": 58,
+      "words": 6956,
+      "unplacedInSummary": 6
+     }
+    },
+    {
+     "id": "ch65",
+     "order": 3,
+     "titleUz": "Ovqat hazm qilish yo'lining sekretor funksiyalari",
+     "titleOriginal": "Secretory Functions of the Alimentary Tract",
+     "pdfPages": [
+      764,
+      779
+     ],
+     "printedPages": [
+      759,
+      774
+     ],
+     "estMinutes": 51,
+     "status": "in_review",
+     "counts": {
+      "figures": 15,
+      "figuresIncluded": 15,
+      "terms": 94,
+      "words": 10107,
+      "unplacedInSummary": 10
+     }
+    },
+    {
+     "id": "ch66",
+     "order": 4,
+     "titleUz": "Oshqozon-ichak yo'lida hazm va so'rilish",
+     "titleOriginal": "Digestion and Absorption in the Gastrointestinal Tract",
+     "pdfPages": [
+      780,
+      789
+     ],
+     "printedPages": [
+      775,
+      784
+     ],
+     "estMinutes": 33,
+     "status": "in_review",
+     "counts": {
+      "figures": 9,
+      "figuresIncluded": 9,
+      "terms": 77,
+      "words": 6678,
+      "unplacedInSummary": 8
+     }
+    },
+    {
+     "id": "ch67",
+     "order": 5,
+     "titleUz": "Oshqozon-ichak kasalliklari fiziologiyasi",
+     "titleOriginal": "Physiology of Gastrointestinal Disorders",
+     "pdfPages": [
+      790,
+      796
+     ],
+     "printedPages": [
+      785,
+      791
+     ],
+     "estMinutes": 26,
+     "status": "in_review",
+     "counts": {
+      "figures": 3,
+      "figuresIncluded": 3,
+      "terms": 57,
+      "words": 5128,
+      "unplacedInSummary": 1
+     }
+    }
+   ],
+   "plannedSections": [
+    {
+     "id": "12-01",
+     "title": "Hazm tizimining harakati",
+     "aliasOf": "ch64"
+    },
+    {
+     "id": "12-02",
+     "title": "Sekretsiya",
+     "aliasOf": "ch65"
+    },
+    {
+     "id": "12-03",
+     "title": "Oshqozonda hazm",
+     "aliasOf": "ch65"
+    },
+    {
+     "id": "12-04",
+     "title": "Ichakda hazm va so‘rilish",
+     "aliasOf": "ch66"
+    },
+    {
+     "id": "12-05",
+     "title": "Hazmning boshqarilishi",
+     "aliasOf": "ch63"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "order": 13,
+   "title": "Moddalar almashinuvi va tana harorati",
+   "description": "Energiya almashinuvi, jigar faoliyati va tana haroratining boshqarilishi.",
+   "cardImage": "/assets/topics/topic_13.webp",
+   "cardImageSource": "Fiziologiya_15_mavzu_3D_rasmlar.docx / DrStudy_Toliq_UI assets (3D muqova, kitob rasmi emas)",
+   "bookUnit": {
+    "bookId": "guyton-hall-14",
+    "unit": "XIII",
+    "title": "Metabolism and Temperature Regulation"
+   },
+   "sections": [
+    {
+     "id": "ch68",
+     "order": 1,
+     "titleUz": "Uglevodlar metabolizmi va ATP hosil bo'lishi",
+     "titleOriginal": "Metabolism of Carbohydrates and Formation of Adenosine Triphosphate",
+     "pdfPages": [
+      797,
+      806
+     ],
+     "printedPages": [
+      792,
+      801
+     ],
+     "estMinutes": 31,
+     "status": "in_review",
+     "counts": {
+      "figures": 8,
+      "figuresIncluded": 8,
+      "terms": 43,
+      "words": 6282,
+      "unplacedInSummary": 8
+     }
+    },
+    {
+     "id": "ch69",
+     "order": 2,
+     "titleUz": "Lipidlar metabolizmi",
+     "titleOriginal": "Lipid Metabolism",
+     "pdfPages": [
+      807,
+      818
+     ],
+     "printedPages": [
+      802,
+      813
+     ],
+     "estMinutes": 43,
+     "status": "in_review",
+     "counts": {
+      "figures": 8,
+      "figuresIncluded": 8,
+      "terms": 101,
+      "words": 8534,
+      "unplacedInSummary": 7
+     }
+    },
+    {
+     "id": "ch70",
+     "order": 3,
+     "titleUz": "Oqsillar almashinuvi",
+     "titleOriginal": "Protein Metabolism",
+     "pdfPages": [
+      819,
+      824
+     ],
+     "printedPages": [
+      814,
+      819
+     ],
+     "estMinutes": 18,
+     "status": "in_review",
+     "counts": {
+      "figures": 3,
+      "figuresIncluded": 3,
+      "terms": 32,
+      "words": 3564,
+      "unplacedInSummary": 3
+     }
+    },
+    {
+     "id": "ch71",
+     "order": 4,
+     "titleUz": "Jigar",
+     "titleOriginal": "The Liver",
+     "pdfPages": [
+      825,
+      830
+     ],
+     "printedPages": [
+      820,
+      825
+     ],
+     "estMinutes": 22,
+     "status": "in_review",
+     "counts": {
+      "figures": 2,
+      "figuresIncluded": 2,
+      "terms": 43,
+      "words": 4314,
+      "unplacedInSummary": 2
+     }
+    },
+    {
+     "id": "ch72",
+     "order": 5,
+     "titleUz": "Ovqatlanish muvozanati; ovqat qabul qilishni boshqarish; semizlik va ochlik; vitaminlar va minerallar",
+     "titleOriginal": "Dietary Balances; Regulation of Feeding; Obesity and Starvation; Vitamins and Minerals",
+     "pdfPages": [
+      831,
+      846
+     ],
+     "printedPages": [
+      826,
+      841
+     ],
+     "estMinutes": 60,
+     "status": "in_review",
+     "counts": {
+      "figures": 8,
+      "figuresIncluded": 8,
+      "terms": 108,
+      "words": 11949,
+      "unplacedInSummary": 8
+     }
+    },
+    {
+     "id": "ch73",
+     "order": 6,
+     "titleUz": "Energetika va metabolizm tezligi",
+     "titleOriginal": "Energetics and Metabolic Rate",
+     "pdfPages": [
+      847,
+      853
+     ],
+     "printedPages": [
+      842,
+      848
+     ],
+     "estMinutes": 27,
+     "status": "in_review",
+     "counts": {
+      "figures": 5,
+      "figuresIncluded": 5,
+      "terms": 32,
+      "words": 5354,
+      "unplacedInSummary": 5
+     }
+    },
+    {
+     "id": "ch74",
+     "order": 7,
+     "titleUz": "Tana haroratining boshqarilishi va isitma",
+     "titleOriginal": "Body Temperature Regulation and Fever",
+     "pdfPages": [
+      854,
+      865
+     ],
+     "printedPages": [
+      849,
+      860
+     ],
+     "estMinutes": 39,
+     "status": "in_review",
+     "counts": {
+      "figures": 11,
+      "figuresIncluded": 11,
+      "terms": 56,
+      "words": 7741,
+      "unplacedInSummary": 11
+     }
+    }
+   ],
+   "plannedSections": [
+    {
+     "id": "13-01",
+     "title": "Energiya va ATP",
+     "aliasOf": "ch68"
+    },
+    {
+     "id": "13-02",
+     "title": "Uglevodlar almashinuvi",
+     "aliasOf": "ch68"
+    },
+    {
+     "id": "13-03",
+     "title": "Yog‘ va oqsil almashinuvi",
+     "aliasOf": "ch69"
+    },
+    {
+     "id": "13-04",
+     "title": "Jigarning metabolik vazifalari",
+     "aliasOf": "ch71"
+    },
+    {
+     "id": "13-05",
+     "title": "Issiqlik hosil bo‘lishi va termoregulyatsiya",
+     "aliasOf": "ch74"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "order": 14,
+   "title": "Endokrin tizim va ko‘payish",
+   "description": "Endokrin bezlar, gormonlar, ko‘payish va homiladorlik.",
+   "cardImage": "/assets/topics/topic_14.webp",
+   "cardImageSource": "Fiziologiya_15_mavzu_3D_rasmlar.docx / DrStudy_Toliq_UI assets (3D muqova, kitob rasmi emas)",
+   "bookUnit": {
+    "bookId": "guyton-hall-14",
+    "unit": "XIV",
+    "title": "Endocrinology and Reproduction"
+   },
+   "sections": [
+    {
+     "id": "ch75",
+     "order": 1,
+     "titleUz": "Endokrinologiyaga kirish",
+     "titleOriginal": "Introduction to Endocrinology",
+     "pdfPages": [
+      866,
+      878
+     ],
+     "printedPages": [
+      861,
+      873
+     ],
+     "estMinutes": 31,
+     "status": "in_review",
+     "counts": {
+      "figures": 14,
+      "figuresIncluded": 13,
+      "terms": 68,
+      "words": 6193,
+      "unplacedInSummary": 14
+     }
+    },
+    {
+     "id": "ch76",
+     "order": 2,
+     "titleUz": "Gipofiz gormonlari va ularning gipotalamus tomonidan boshqarilishi",
+     "titleOriginal": "Pituitary Hormones and Their Control by the Hypothalamus",
+     "pdfPages": [
+      879,
+      890
+     ],
+     "printedPages": [
+      874,
+      885
+     ],
+     "estMinutes": 33,
+     "status": "in_review",
+     "counts": {
+      "figures": 13,
+      "figuresIncluded": 11,
+      "terms": 75,
+      "words": 6569,
+      "unplacedInSummary": 13
+     }
+    },
+    {
+     "id": "ch77",
+     "order": 3,
+     "titleUz": "Qalqonsimon bezning metabolik gormonlari",
+     "titleOriginal": "Thyroid Metabolic Hormones",
+     "pdfPages": [
+      891,
+      903
+     ],
+     "printedPages": [
+      886,
+      898
+     ],
+     "estMinutes": 40,
+     "status": "in_review",
+     "counts": {
+      "figures": 9,
+      "figuresIncluded": 9,
+      "terms": 88,
+      "words": 7996,
+      "unplacedInSummary": 9
+     }
+    },
+    {
+     "id": "ch78",
+     "order": 4,
+     "titleUz": "Buyrak usti bezi po'stlog'i gormonlari",
+     "titleOriginal": "Adrenocortical Hormones",
+     "pdfPages": [
+      904,
+      921
+     ],
+     "printedPages": [
+      899,
+      916
+     ],
+     "estMinutes": 55,
+     "status": "in_review",
+     "counts": {
+      "figures": 13,
+      "figuresIncluded": 13,
+      "terms": 139,
+      "words": 11016,
+      "unplacedInSummary": 13
+     }
+    },
+    {
+     "id": "ch79",
+     "order": 5,
+     "titleUz": "Insulin, glyukagon va qandli diabet",
+     "titleOriginal": "Insulin, Glucagon, and Diabetes Mellitus",
+     "pdfPages": [
+      922,
+      938
+     ],
+     "printedPages": [
+      917,
+      933
+     ],
+     "estMinutes": 60,
+     "status": "in_review",
+     "counts": {
+      "figures": 12,
+      "figuresIncluded": 12,
+      "terms": 66,
+      "words": 11909,
+      "unplacedInSummary": 12
+     }
+    },
+    {
+     "id": "ch80",
+     "order": 6,
+     "titleUz": "Paratgormon, kalsitonin, kalsiy va fosfat almashinuvi, D vitamini, suyak va tishlar",
+     "titleOriginal": "Parathyroid Hormone, Calcitonin, Calcium and Phosphate Metabolism, Vitamin D, Bone, and Teeth",
+     "pdfPages": [
+      939,
+      957
+     ],
+     "printedPages": [
+      934,
+      952
+     ],
+     "estMinutes": 63,
+     "status": "in_review",
+     "counts": {
+      "figures": 16,
+      "figuresIncluded": 16,
+      "terms": 107,
+      "words": 12681,
+      "unplacedInSummary": 16
+     }
+    },
+    {
+     "id": "ch81",
+     "order": 7,
+     "titleUz": "Erkak jinsiy va gormonal funksiyalari (va epifiz funksiyasi)",
+     "titleOriginal": "Reproductive and Hormonal Functions of the Male (and Function of the Pineal Gland)",
+     "pdfPages": [
+      958,
+      972
+     ],
+     "printedPages": [
+      953,
+      967
+     ],
+     "estMinutes": 49,
+     "status": "in_review",
+     "counts": {
+      "figures": 11,
+      "figuresIncluded": 11,
+      "terms": 103,
+      "words": 9713,
+      "unplacedInSummary": 11
+     }
+    },
+    {
+     "id": "ch82",
+     "order": 8,
+     "titleUz": "Homiladorlikdan oldingi ayol fiziologiyasi va ayol gormonlari",
+     "titleOriginal": "Female Physiology Before Pregnancy and Female Hormones",
+     "pdfPages": [
+      973,
+      990
+     ],
+     "printedPages": [
+      968,
+      985
+     ],
+     "estMinutes": 53,
+     "status": "in_review",
+     "counts": {
+      "figures": 14,
+      "figuresIncluded": 14,
+      "terms": 116,
+      "words": 10605,
+      "unplacedInSummary": 14
+     }
+    },
+    {
+     "id": "ch83",
+     "order": 9,
+     "titleUz": "Homiladorlik va laktatsiya",
+     "titleOriginal": "Pregnancy and Lactation",
+     "pdfPages": [
+      991,
+      1005
+     ],
+     "printedPages": [
+      986,
+      1000
+     ],
+     "estMinutes": 51,
+     "status": "in_review",
+     "counts": {
+      "figures": 13,
+      "figuresIncluded": 13,
+      "terms": 115,
+      "words": 10192,
+      "unplacedInSummary": 13
+     }
+    },
+    {
+     "id": "ch84",
+     "order": 10,
+     "titleUz": "Homila va yangi tug'ilgan chaqaloq fiziologiyasi",
+     "titleOriginal": "Fetal and Neonatal Physiology",
+     "pdfPages": [
+      1006,
+      1015
+     ],
+     "printedPages": [
+      1001,
+      1010
+     ],
+     "estMinutes": 38,
+     "status": "in_review",
+     "counts": {
+      "figures": 9,
+      "figuresIncluded": 9,
+      "terms": 90,
+      "words": 7579,
+      "unplacedInSummary": 9
+     }
+    }
+   ],
+   "plannedSections": [
+    {
+     "id": "14-01",
+     "title": "Gormonlar va qayta aloqa",
+     "aliasOf": "ch75"
+    },
+    {
+     "id": "14-02",
+     "title": "Gipotalamus va gipofiz",
+     "aliasOf": "ch76"
+    },
+    {
+     "id": "14-03",
+     "title": "Qalqonsimon va buyrakusti bezlari",
+     "aliasOf": "ch77"
+    },
+    {
+     "id": "14-04",
+     "title": "Insulin va glyukagon",
+     "aliasOf": "ch79"
+    },
+    {
+     "id": "14-05",
+     "title": "Reproduktiv fiziologiya",
+     "aliasOf": "ch81"
+    },
+    {
+     "id": "14-06",
+     "title": "Homiladorlik va laktatsiya",
+     "aliasOf": "ch83"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "order": 15,
+   "title": "Sport fiziologiyasi",
+   "description": "Jismoniy mashqda mushak, yurak va nafas tizimining moslashuvi.",
+   "cardImage": "/assets/topics/topic_15.webp",
+   "cardImageSource": "Fiziologiya_15_mavzu_3D_rasmlar.docx / DrStudy_Toliq_UI assets (3D muqova, kitob rasmi emas)",
+   "bookUnit": {
+    "bookId": "guyton-hall-14",
+    "unit": "XV",
+    "title": "Sports Physiology"
+   },
+   "sections": [
+    {
+     "id": "ch85",
+     "order": 1,
+     "titleUz": "Sport fiziologiyasi",
+     "titleOriginal": "Sports Physiology",
+     "pdfPages": [
+      1016,
+      1026
+     ],
+     "printedPages": [
+      1011,
+      1021
+     ],
+     "estMinutes": 40,
+     "status": "in_review",
+     "counts": {
+      "figures": 13,
+      "figuresIncluded": 13,
+      "terms": 96,
+      "words": 7906,
+      "unplacedInSummary": 13
+     }
+    }
+   ],
+   "plannedSections": [
+    {
+     "id": "15-01",
+     "title": "Mushakda energiya ta’minoti",
+     "aliasOf": "ch85"
+    },
+    {
+     "id": "15-02",
+     "title": "Mashqda yurak-qon tomir javobi",
+     "aliasOf": "ch85"
+    },
+    {
+     "id": "15-03",
+     "title": "Mashqda nafas olish",
+     "aliasOf": "ch85"
+    },
+    {
+     "id": "15-04",
+     "title": "Charchash va tiklanish",
+     "aliasOf": "ch85"
+    },
+    {
+     "id": "15-05",
+     "title": "Mashg‘ulotga moslashish",
+     "aliasOf": "ch85"
+    }
+   ]
+  }
+ ]
+}

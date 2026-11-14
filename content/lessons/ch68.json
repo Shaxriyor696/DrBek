@@ -1,0 +1,2238 @@
+{
+ "id": "ch68",
+ "topicId": "13",
+ "order": 1,
+ "titleUz": "Uglevodlar metabolizmi va ATP hosil bo'lishi",
+ "titleOriginal": "Metabolism of Carbohydrates and Formation of Adenosine Triphosphate",
+ "subtitle": "*Metabolism of Carbohydrates and Formation of Adenosine Triphosphate* — XIII bo'lim, PDF 797–806",
+ "contentVersion": "2026-11-14.1",
+ "status": "in_review",
+ "translationStatus": "machine_assisted",
+ "source": {
+  "bookId": "guyton-hall-14",
+  "chapter": 68,
+  "unit": "XIII",
+  "pdfPages": [
+   797,
+   806
+  ],
+  "printedPages": [
+   792,
+   801
+  ],
+  "notesFile": "guyton-notes/ch68-metabolism-of-carbohydrates-and-formation-of-adenosine-triph.md",
+  "summaryFile": "guyton-notes/summaries/ch68.md"
+ },
+ "pdfPages": [
+  797,
+  806
+ ],
+ "printedPages": [
+  792,
+  801
+ ],
+ "outline": [],
+ "objectives": [
+  "Ovqatdan energiya ajralishi",
+  "ATP — tananing \"energiya valyutasi\"",
+  "Glyukozaning markaziy roli",
+  "Glikogen",
+  "Glikoliz",
+  "Piruvat → atsetil-KoA",
+  "Limon kislotasi sikli (Krebs sikli)",
+  "Oksidlovchi fosforillanish (xemiosmotik mexanizm)",
+  "Bir glyukozadan ATP hisobi",
+  "ATP va ADP orqali boshqarish",
+  "Anaerob glikoliz",
+  "Pentoza fosfat yo'li",
+  "Glyukozaning glikogen yoki yog'ga aylanishi",
+  "Glyukoneogenez",
+  "Qon glyukozasi"
+ ],
+ "blocks": {
+  "simple": [
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Asosiy g'oya",
+    "id": "ch68-s-0-asosiy-goya",
+    "bid": "ch68-u0"
+   },
+   {
+    "type": "paragraph",
+    "text": "Metabolizm hujayralar yashashini ta'minlovchi kimyoviy jarayonlardir. Bu boblar biokimyoviy tafsilotlarni emas, asosiy jarayonlarni va ularning fiziologik ma'nosini, ya'ni gomeostazga qanday mos kelishini ko'rib chiqadi.",
+    "bid": "ch68-u1"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Ovqatdan energiya ajralishi",
+    "id": "ch68-s-2-ovqatdan-energiya-ajralishi",
+    "bid": "ch68-u2"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Energiya mushak ishi, bez sekretsiyasi, membrana potensiali, sintez va so'rilish uchun kerak.",
+      "depth": 0
+     },
+     {
+      "text": "**Bog'langan (coupled) reaksiyalar:**",
+      "depth": 0
+     },
+     {
+      "text": "Uglevod, yog' va oqsil hujayrada oksidlanib ko'p energiya beradi.",
+      "depth": 1
+     },
+     {
+      "text": "Tashqarida yondirilsa, energiya birdaniga va faqat issiqlik sifatida ajraladi.",
+      "depth": 1
+     },
+     {
+      "text": "Hujayraga issiqlik emas, mexanik ish, moddalarni konsentrlash va hokazo kerak. Shuning uchun reaksiyalar maxsus fermentlar va energiya tashish tizimlari bilan funksiyalarga bog'lanadi.",
+      "depth": 1
+     },
+     {
+      "text": "**Erkin energiya (ΔG):** ovqat to'liq oksidlanganda ajraladigan energiya, kal/mol da ifodalanadi. 1 mol (180 g) glyukoza to'liq oksidlanganda 686 000 kal ajraladi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch68-u3"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "ATP — tananing \"energiya valyutasi\"",
+    "id": "ch68-s-4-atp-tananing-energiya-valyutasi",
+    "bid": "ch68-u4"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Energiya hosil qiluvchi va sarflovchi jarayonlar orasidagi markaziy bo'g'in.",
+      "depth": 0
+     },
+     {
+      "text": "Oksidlanish energiyasi ADP ni ATP ga aylantiradi.",
+      "depth": 1
+     },
+     {
+      "text": "ATP ion tashish, mushak qisqarishi, molekulalar sintezi, hujayra bo'linishi va o'sishiga sarflanadi.",
+      "depth": 1
+     },
+     {
+      "text": "Tarkibi: adenin, riboza va uchta fosfat. Oxirgi ikki fosfat **yuqori energiyali bog'lar** (∼) bilan bog'langan.",
+      "depth": 0
+     },
+     {
+      "text": "Har bir bog' standart sharoitda taxminan 7300 kal/mol, tana sharoitida taxminan 12 000 kal/mol energiya beradi.",
+      "depth": 0
+     },
+     {
+      "text": "ATP ⇄ ADP + PO₃ ⇄ AMP + 2PO₃. Har bir qadamda ±12 000 kal.",
+      "depth": 0
+     },
+     {
+      "text": "Barcha hujayralarning sitoplazmasi va nukleoplazmasida bor. Energiya talab qiluvchi deyarli barcha mexanizmlar uni ATP dan (yoki GTP dan) oladi.",
+      "depth": 0
+     },
+     {
+      "text": "Tanada ishlatiladigan uglevodlarning 90% yoki ko'prog'i ATP hosil qilish uchun.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch68-u5"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Glyukozaning markaziy roli",
+    "id": "ch68-s-6-glyukozaning-markaziy-roli",
+    "bid": "ch68-u6"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Hazm mahsulotlari: glyukoza (taxminan 80%), fruktoza, galaktoza.",
+      "depth": 0
+     },
+     {
+      "text": "So'rilgandan keyin fruktozaning ko'p qismi va galaktozaning deyarli hammasi jigarda tez glyukozaga aylanadi.",
+      "depth": 0
+     },
+     {
+      "text": "Demak glyukoza deyarli barcha uglevodlarni to'qimalarga tashishning yakuniy umumiy yo'li.",
+      "depth": 0
+     },
+     {
+      "text": "Jigarda monosaxaridlar o'zaro aylana oladi. Jigar qonga chiqarganda deyarli faqat glyukoza chiqadi, chunki jigarda ko'p **glyukoza fosfataza** bor: glyukoza-6-fosfat glyukoza va fosfatga parchalanadi, glyukoza qonga o'tadi.",
+      "depth": 0
+     },
+     {
+      "text": "Qondagi monosaxaridlarning 95% dan ko'pi glyukoza.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch68-u7"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Membrana orqali tashilish:**",
+    "bid": "ch68-u8"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Glyukoza teshiklardan oson diffuziyalanmaydi: molekulyar og'irligi 180, oson diffuziya chegarasi taxminan 100.",
+      "depth": 0
+     },
+     {
+      "text": "Oqsil tashuvchilar orqali **yengillashtirilgan diffuziya** bilan o'tadi, faqat yuqori konsentratsiyadan pastga.",
+      "depth": 0
+     },
+     {
+      "text": "Ichak va buyrak kanalchalari epiteliysida esa Na-glyukoza kotransporti bilan konsentratsiyaga qarshi tashiladi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch68-u9"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Insulin:**",
+    "bid": "ch68-u10"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Ko'p hujayralarda glyukoza tashilishini 10 baravar yoki ko'proq oshiradi.",
+      "depth": 0
+     },
+     {
+      "text": "Insulinsiz jigar va miyadan tashqari ko'p hujayralarga yetarli glyukoza kirmaydi.",
+      "depth": 0
+     },
+     {
+      "text": "Uglevod ishlatilish tezligi insulin sekretsiyasi va to'qimalarning unga sezgirligi bilan belgilanadi (79-bob).",
+      "depth": 0
+     }
+    ],
+    "bid": "ch68-u11"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Fosforillanish:**",
+    "bid": "ch68-u12"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Glyukoza + ATP → glyukoza-6-fosfat. Jigarda **glyukokinaza**, boshqa hujayralarda **geksokinaza** katalizlaydi.",
+      "depth": 0
+     },
+     {
+      "text": "Deyarli qaytmas. Faqat jigar, buyrak kanalchalari va ichak epiteliysida glyukoza fosfataza bilan qaytariladi.",
+      "depth": 0
+     },
+     {
+      "text": "Ko'p to'qimalarda glyukozani hujayra ichida \"ushlab qoladi\".",
+      "depth": 0
+     }
+    ],
+    "bid": "ch68-u13"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Glikogen",
+    "id": "ch68-s-14-glikogen",
+    "bid": "ch68-u14"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Glyukozaning katta polimeri.",
+      "depth": 0
+     },
+     {
+      "text": "Jigar o'z og'irligining 5–8% igacha, mushak 1–3% igacha saqlay oladi.",
+      "depth": 1
+     },
+     {
+      "text": "O'rtacha molekulyar og'irligi 5 mln yoki ko'proq, qattiq granulalar shaklida cho'kadi.",
+      "depth": 1
+     },
+     {
+      "text": "Shu tufayli ko'p uglevod hujayra ichi osmotik bosimini o'zgartirmasdan saqlanadi.",
+      "depth": 0
+     },
+     {
+      "text": "**Glikogenez:** glyukoza-6-fosfat → glyukoza-1-fosfat → uridin difosfat glyukoza → glikogen.",
+      "depth": 0
+     },
+     {
+      "text": "Glyukozaga aylana oladigan har qanday monosaxarid qatnasha oladi.",
+      "depth": 1
+     },
+     {
+      "text": "Laktat, glitserin, piruvat va dezaminlangan aminokislotalar ham glyukoza orqali glikogenga aylanishi mumkin.",
+      "depth": 1
+     },
+     {
+      "text": "**Glikogenoliz:** glikogenez reaksiyalarining teskarisi emas.",
+      "depth": 0
+     },
+     {
+      "text": "Har bir shoxdagi glyukoza **fosforilaza** yordamida fosforillanib ajratiladi.",
+      "depth": 1
+     },
+     {
+      "text": "Tinch holatda fosforilaza faol emas.",
+      "depth": 1
+     },
+     {
+      "text": "**Epinefrin** va **glyukagon** cAMP orqali reaksiyalar kaskadini boshlab, fosforilazani faollashtiradi.",
+      "depth": 1
+     },
+     {
+      "text": "Epinefrin simpatik stimulyatsiyada buyrak usti mag'zidan ajraladi. Jigar va mushakda glyukozani tez energiya uchun tayyorlaydi (61-bob).",
+      "depth": 2
+     },
+     {
+      "text": "Glyukagon pastki qand darajasida me'da osti bezi alfa hujayralaridan ajraladi. Asosan jigar glikogenini glyukozaga aylantirib qonga chiqaradi (79-bob).",
+      "depth": 2
+     }
+    ],
+    "bid": "ch68-u15"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Glikoliz",
+    "id": "ch68-s-16-glikoliz",
+    "bid": "ch68-u16"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "686 000 kal ni bir yo'la chiqarib, bitta ATP hosil qilish isrofgarchilik bo'lardi.",
+      "depth": 0
+     },
+     {
+      "text": "Hujayralar glyukozani ko'p bosqichda asta parchalaydi va 1 mol glyukozadan jami **38 mol ATP** hosil qiladi.",
+      "depth": 0
+     },
+     {
+      "text": "**Glikoliz** glyukozaning ikki molekula **piruvat** ga parchalanishi. 10 ta ketma-ket reaksiya, har biri o'z fermenti bilan.",
+      "depth": 0
+     },
+     {
+      "text": "Glyukoza → glyukoza-6-fosfat (ATP sarflanadi).",
+      "depth": 1
+     },
+     {
+      "text": "→ fruktoza-6-fosfat.",
+      "depth": 1
+     },
+     {
+      "text": "→ fruktoza-1,6-difosfat (ATP sarflanadi).",
+      "depth": 1
+     },
+     {
+      "text": "Ikkita 3 uglerodli molekula hosil bo'ladi: gliseraldegid-3-fosfat va dihidroksiaseton fosfat.",
+      "depth": 1
+     },
+     {
+      "text": "Har bir gliseraldegid-3-fosfat 1,3-difosfoglitserat (4H ajraladi), 3-fosfoglitserat, 2-fosfoglitserat va fosfoenolpiruvat orqali piruvatga aylanadi.",
+      "depth": 1
+     },
+     {
+      "text": "ATP 1,3-difosfoglitserat → 3-fosfoglitserat va fosfoenolpiruvat → piruvat bosqichlarida hosil bo'ladi. Bu yerda energiya 12 000 kal/mol dan katta.",
+      "depth": 0
+     },
+     {
+      "text": "Hisob:",
+      "depth": 0
+     },
+     {
+      "text": "Har bir fruktoza-1,6-difosfatdan 4 ATP hosil bo'ladi, boshida 2 ATP sarflangan. **Sof foyda 2 ATP**.",
+      "depth": 1
+     },
+     {
+      "text": "Sof reaksiya: Glyukoza + 2ADP + 2PO₄ → 2 piruvat + 2ATP + 4H.",
+      "depth": 1
+     },
+     {
+      "text": "Samaradorlik: ATP ga 24 000 kal o'tadi, glyukozadan jami 56 000 kal yo'qoladi. Samaradorlik 43%, qolgan 57% issiqlik.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch68-u17"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Piruvat → atsetil-KoA",
+    "id": "ch68-s-18-piruvat-atsetil-koa",
+    "bid": "ch68-u18"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "2 piruvat + 2 KoA → 2 atsetil-KoA + 2CO₂ + 4H.",
+      "depth": 0
+     },
+     {
+      "text": "KoA pantoten kislotasi (vitamin) hosilasi.",
+      "depth": 0
+     },
+     {
+      "text": "Bu bosqichda ATP hosil bo'lmaydi, lekin 4H keyinchalik oksidlanib 6 tagacha ATP beradi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch68-u19"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Limon kislotasi sikli (Krebs sikli)",
+    "id": "ch68-s-20-limon-kislotasi-sikli-krebs-sikli",
+    "bid": "ch68-u20"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Atsetil-KoA ning atsetil qismi CO₂ va H atomlariga parchalanadi. Mitoxondriya matritsasida boradi.",
+      "depth": 0
+     },
+     {
+      "text": "Sikl oksaloatsetatdan boshlanib, oksaloatsetat bilan tugaydi:",
+      "depth": 0
+     },
+     {
+      "text": "Oksaloatsetat + atsetil-KoA → sitrat (KoA ajraladi va qayta ishlatiladi).",
+      "depth": 1
+     },
+     {
+      "text": "→ cis-akonitat → izositrat → oksalosuksinat → α-ketoglutarat → suksinat → fumarat → malat → oksaloatsetat.",
+      "depth": 1
+     },
+     {
+      "text": "Bir glyukoza uchun sof reaksiya: 2 atsetil-KoA + 6H₂O + 2ADP → 4CO₂ + 16H + 2KoA + 2ATP.",
+      "depth": 0
+     },
+     {
+      "text": "ATP faqat α-ketoglutarat → suksinat bosqichida hosil bo'ladi: har sikl 1 ATP, bir glyukozaga 2 ATP.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch68-u21"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Degidrogenazalar va NAD⁺:**",
+    "bid": "ch68-u22"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Bir glyukozadan jami 24 H ajraladi: glikolizda 4, atsetil-KoA hosil bo'lishida 4, Krebs siklida 16.",
+      "depth": 0
+     },
+     {
+      "text": "Ular ikkitadan ajraladi, har birini maxsus degidrogenaza katalizlaydi.",
+      "depth": 0
+     },
+     {
+      "text": "20 tasi **NAD⁺** (niatsin vitamini hosilasi) bilan birikadi: 2H + NAD⁺ → NADH + H⁺.",
+      "depth": 0
+     },
+     {
+      "text": "Qolgan 4 tasi (suksinat → fumarat bosqichida) NAD⁺ ga o'tmaydi, degidrogenazadan to'g'ridan-to'g'ri oksidlanish jarayoniga kiradi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch68-u23"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Dekarboksilazalar:** CO₂ ni substratdan ajratadi. Atsetil-KoA hosil bo'lishi va Krebs siklida jami 3 bosqichda CO₂ ajraladi. CO₂ suyuqliklarda eriydi va o'pka orqali chiqariladi (41-bob).",
+    "bid": "ch68-u24"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Oksidlovchi fosforillanish (xemiosmotik mexanizm)",
+    "id": "ch68-s-25-oksidlovchi-fosforillanish-xemiosmotik-mexanizm",
+    "bid": "ch68-u25"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Glikoliz va Krebs sikli bir glyukozaga atigi 2+2 ATP beradi. ATP ning taxminan 90% vodorod atomlari oksidlanishidan hosil bo'ladi.",
+      "depth": 0
+     },
+     {
+      "text": "Oldingi bosqichlarning asosiy vazifasi glyukoza vodorodini oksidlanadigan shaklga keltirish.",
+      "depth": 0
+     },
+     {
+      "text": "Mitoxondriyada bo'ladi:",
+      "depth": 0
+     },
+     {
+      "text": "**Vodorod ionlanadi:**",
+      "depth": 1
+     },
+     {
+      "text": "Juft H dan biri darhol H⁺ bo'ladi, ikkinchisi NAD⁺ bilan NADH hosil qiladi.",
+      "depth": 2
+     },
+     {
+      "text": "NADH dan ham H⁺ ajraladi va NAD⁺ qayta tiklanadi.",
+      "depth": 2
+     },
+     {
+      "text": "**Elektron tashish zanjiri:**",
+      "depth": 1
+     },
+     {
+      "text": "Elektronlar mitoxondriya ichki membranasidagi akseptorlar zanjiriga o'tadi. Akseptorlar qaytar holda qaytariladi va oksidlanadi.",
+      "depth": 2
+     },
+     {
+      "text": "Zanjir a'zolari: flavoprotein (FMN), temir-oltingugurt oqsillari (FeS), ubixinon (Q), sitoxromlar B, C1, C, A, A3.",
+      "depth": 2
+     },
+     {
+      "text": "**Sitoxrom A3 (sitoxrom oksidaza)** 2 elektron berib kislorodni ionli kislorodga qaytaradi. U H⁺ bilan suv hosil qiladi.",
+      "depth": 2
+     },
+     {
+      "text": "**H⁺ nasosi:**",
+      "depth": 1
+     },
+     {
+      "text": "Zanjirda ajralgan energiya H⁺ ni matritsadan ichki va tashqi membranalar orasidagi tashqi kameraga haydaydi.",
+      "depth": 2
+     },
+     {
+      "text": "U yerda H⁺ konsentratsiyasi yuqori, matritsada kuchli manfiy potensial hosil bo'ladi.",
+      "depth": 2
+     },
+     {
+      "text": "**ATP sintetaza:**",
+      "depth": 1
+     },
+     {
+      "text": "Ichki membranadan o'tib, matritsaga tugmasimon boshi bilan chiqib turgan katta ATPaza oqsili.",
+      "depth": 2
+     },
+     {
+      "text": "H⁺ gradient bo'ylab u orqali matritsaga qaytadi va energiyasi ADP + Pᵢ → ATP uchun ishlatiladi.",
+      "depth": 2
+     },
+     {
+      "text": "ATP ichki membranadan yengillashtirilgan diffuziya, tashqi membranadan oddiy diffuziya bilan sitoplazmaga chiqadi. ADP teskari yo'nalishda kiradi.",
+      "depth": 1
+     },
+     {
+      "text": "Zanjirdan o'tgan har 2 elektron (2 H) uchun 3 tagacha ATP hosil bo'ladi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch68-u26"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Bir glyukozadan ATP hisobi",
+    "id": "ch68-s-27-bir-glyukozadan-atp-hisobi",
+    "bid": "ch68-u27"
+   },
+   {
+    "type": "list",
+    "ordered": true,
+    "items": [
+     {
+      "text": "Glikoliz: 4 ATP hosil bo'ladi, 2 sarflanadi, **sof 2**.",
+      "depth": 0
+     },
+     {
+      "text": "Krebs sikli: har aylanishda 1, bir glyukozaga 2 aylanish, **2 ATP**.",
+      "depth": 0
+     },
+     {
+      "text": "24 H dan 20 tasi to'liq xemiosmotik zanjirda: har 2 H ga 3 ATP, **30 ATP**.",
+      "depth": 0
+     },
+     {
+      "text": "Qolgan 4 H zanjirga birinchi bosqichdan keyin kiradi: har 2 H ga 2 ATP, **4 ATP**.",
+      "depth": 0
+     },
+     {
+      "text": "**Jami maksimal 38 ATP.** ATP da 456 000 kal saqlanadi, umumiy energiya 686 000 kal.",
+      "depth": 0
+     },
+     {
+      "text": "Maksimal samaradorlik **66%**, qolgan 34% issiqlik.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch68-u28"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "ATP va ADP orqali boshqarish",
+    "id": "ch68-s-29-atp-va-adp-orqali-boshqarish",
+    "bid": "ch68-u29"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Kerak bo'lmaganda energiya ajratish isrof bo'lardi, shuning uchun jarayon ATP ehtiyojiga qarab boshqariladi.",
+      "depth": 0
+     },
+     {
+      "text": "**Fosfofruktokinaza** (fruktoza-1,6-difosfat hosil qiluvchi ferment):",
+      "depth": 0
+     },
+     {
+      "text": "Ortiqcha ATP uni tormozlaydi, glikoliz va uglevod metabolizmi sekinlashadi yoki to'xtaydi.",
+      "depth": 1
+     },
+     {
+      "text": "ADP va AMP uning faolligini keskin oshiradi.",
+      "depth": 1
+     },
+     {
+      "text": "ATP sarflanganda tormoz kamayadi, ADP ko'payadi, glikoliz yoqiladi va ATP zaxirasi tiklanadi.",
+      "depth": 1
+     },
+     {
+      "text": "**Sitrat** ortiqcha bo'lsa ham fosfofruktokinazani kuchli tormozlaydi. Glikoliz Krebs siklining piruvatni ishlatish qobiliyatidan oshib ketmaydi.",
+      "depth": 0
+     },
+     {
+      "text": "Barcha ADP ATP ga aylangan bo'lsa, yangi ATP hosil bo'lmaydi. Glyukoza, yog' va oqsilni ishlatish ketma-ketligi to'xtaydi.",
+      "depth": 0
+     },
+     {
+      "text": "ATP sarflanib ADP va AMP hosil bo'lsa, jarayon yana yoqiladi.",
+      "depth": 1
+     },
+     {
+      "text": "Shunday qilib, juda og'ir mashqdan tashqari, ATP zaxirasi avtomatik deyarli to'liq saqlanadi.",
+      "depth": 1
+     }
+    ],
+    "bid": "ch68-u30"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Anaerob glikoliz",
+    "id": "ch68-s-31-anaerob-glikoliz",
+    "bid": "ch68-u31"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Kislorod bo'lmasa yoki yetmasa, oksidlovchi fosforillanish bo'lmaydi. Glikoliz esa kislorod talab qilmaydi.",
+      "depth": 0
+     },
+     {
+      "text": "Juda isrofli: bir glyukozadan ATP ga atigi 24 000 kal o'tadi, glyukoza energiyasining 3% dan biroz ko'pi.",
+      "depth": 0
+     },
+     {
+      "text": "Shunga qaramay, bir necha daqiqagacha hayotni saqlab qolishi mumkin.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch68-u32"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Laktat hosil bo'lishi:**",
+    "bid": "ch68-u33"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Massalar ta'siri qonuniga ko'ra, mahsulotlar to'plansa reaksiya to'xtaydi.",
+      "depth": 0
+     },
+     {
+      "text": "Glikoliz mahsulotlari piruvat va NADH + H⁺. Ular ko'payganda o'zaro reaksiyaga kirishadi: piruvat + NADH + H⁺ → (laktat degidrogenaza) → laktat + NAD⁺.",
+      "depth": 0
+     },
+     {
+      "text": "Laktat hujayralardan hujayradan tashqari suyuqlikka va kam faol hujayralarga oson chiqib ketadi. U glikoliz mahsulotlari uchun \"chuqurlik\" (sinkhole) vazifasini bajaradi.",
+      "depth": 0
+     },
+     {
+      "text": "Shu tufayli glikoliz bir necha soniya o'rniga bir necha daqiqa davom etib, qo'shimcha ATP beradi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch68-u34"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Kislorod qaytganda:**",
+    "bid": "ch68-u35"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Laktat tez piruvat va NADH + H⁺ ga qaytadi. Ularning katta qismi oksidlanib ko'p ATP beradi.",
+      "depth": 0
+     },
+     {
+      "text": "Bu ATP qolgan ortiqcha piruvatning 75% gacha qismini glyukozaga qaytaradi.",
+      "depth": 0
+     },
+     {
+      "text": "Ko'pi jigarda, ozgina boshqa to'qimalarda bo'ladi.",
+      "depth": 0
+     },
+     {
+      "text": "**Yurak mushagi** laktatni piruvatga aylantirib energiya uchun yaxshi ishlatadi. Og'ir mashqda skelet mushaklari qonga chiqargan laktatni yurak qo'shimcha energiya manbai sifatida iste'mol qiladi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch68-u36"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Pentoza fosfat yo'li",
+    "id": "ch68-s-37-pentoza-fosfat-yoli",
+    "bid": "ch68-u37"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Fosfoglyukonat yo'li deb ham ataladi.",
+      "depth": 0
+     },
+     {
+      "text": "Jigarda glyukoza parchalanishining 30% gacha, yog' hujayralarida undan ham ko'p.",
+      "depth": 0
+     },
+     {
+      "text": "Krebs sikli fermentlaridan mustaqil energiya beradi. Ba'zi fermentativ anomaliyalarda muqobil yo'l. Sintez jarayonlari uchun alohida ahamiyatga ega.",
+      "depth": 0
+     },
+     {
+      "text": "Glyukoza-6-fosfat → 6-fosfoglyukono-δ-lakton → 6-fosfoglyukonat → 3-keto-6-fosfoglyukonat → D-ribuloza-5-fosfat (1 CO₂ va 4 H ajraladi).",
+      "depth": 0
+     },
+     {
+      "text": "Keyin 5, 4, 7 va 3 uglerodli shakarlarga aylanadi va qayta glyukoza sintezlanadi. Har 6 glyukozadan 5 tasi qayta hosil bo'ladi, ya'ni har aylanishda 1 glyukoza parchalanadi.",
+      "depth": 0
+     },
+     {
+      "text": "Sof reaksiya: Glyukoza + 12NADP⁺ + 6H₂O → 6CO₂ + 12H + 12NADPH.",
+      "depth": 0
+     },
+     {
+      "text": "**NADP⁺:** vodorod NAD⁺ ga emas, NADP⁺ ga (qo'shimcha fosfat radikali bor) birikadi.",
+      "depth": 0
+     },
+     {
+      "text": "Faqat NADPH shaklidagi vodorod uglevodlardan yog' sintezida (69-bob) va boshqa sintezlarda ishlatiladi.",
+      "depth": 1
+     },
+     {
+      "text": "Hujayra faolligi kamayib glikoliz sekinlashganda, pentoza yo'li (asosan jigarda) ortiqcha glyukozani parchalaydi. Ko'p NADPH hosil bo'lib, atsetil-KoA dan uzun yog' kislotalari zanjirlarini sintezlashga yordam beradi.",
+      "depth": 1
+     }
+    ],
+    "bid": "ch68-u38"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Glyukozaning glikogen yoki yog'ga aylanishi",
+    "id": "ch68-s-39-glyukozaning-glikogen-yoki-yogga-aylanishi",
+    "bid": "ch68-u39"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Darhol kerak bo'lmagan glyukoza avval glikogen sifatida saqlanadi. Bu tananing faqat 12–24 soatlik energiya ehtiyojiga yetadi.",
+      "depth": 0
+     },
+     {
+      "text": "Jigar va mushak glikogen bilan to'yinsa, qo'shimcha glyukoza jigar va yog' hujayralarida yog'ga aylanadi va yog' hujayralarida saqlanadi (69-bob).",
+      "depth": 0
+     }
+    ],
+    "bid": "ch68-u40"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Glyukoneogenez",
+    "id": "ch68-s-41-glyukoneogenez",
+    "bid": "ch68-u41"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Uglevod zaxirasi kamayganda aminokislotalar va yog'ning glitserin qismidan glyukoza hosil bo'lishi.",
+      "depth": 0
+     },
+     {
+      "text": "Ochlikda qon glyukozasining keskin pasayishini oldini olish uchun muhim. Miya va eritrotsitlarning asosiy substrati glyukoza.",
+      "depth": 0
+     },
+     {
+      "text": "Ochlikda jigar qon glyukozasini glikogenoliz va glyukoneogenez (asosan laktat va aminokislotalardan) bilan ushlab turadi. Jigar glyukoza ishlab chiqarishining taxminan 25% glyukoneogenezdan.",
+      "depth": 0
+     },
+     {
+      "text": "Uzoq ochlikda buyraklar ham aminokislotalar va boshqa prekursorlardan ko'p glyukoza sintezlaydi.",
+      "depth": 0
+     },
+     {
+      "text": "Tana oqsillaridagi aminokislotalarning taxminan 60% glyukozaga oson aylanadi, 40% i qiyin yoki imkonsiz.",
+      "depth": 0
+     },
+     {
+      "text": "Masalan, alanin dezaminlanib to'g'ridan-to'g'ri piruvatga aylanadi.",
+      "depth": 1
+     },
+     {
+      "text": "Murakkabroqlari 3, 4, 5, 7 uglerodli shakarlarga aylanib, fosfoglyukonat yo'liga kiradi.",
+      "depth": 1
+     },
+     {
+      "text": "Glitserin ham glyukoza yoki glikogenga aylanadi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch68-u42"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Boshqarish:**",
+    "bid": "ch68-u43"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Asosiy stimullar hujayralarda uglevod kamayishi va qon qandining pasayishi. Bunda ko'p glikolitik va fosfoglyukonat reaksiyalari teskari ketadi.",
+      "depth": 0
+     },
+     {
+      "text": "**ACTH va glyukokortikoidlar:**",
+      "depth": 0
+     },
+     {
+      "text": "Uglevod yetishmaganda adenogipofiz (sababi to'liq aniq emas) ko'proq ACTH ajratadi.",
+      "depth": 1
+     },
+     {
+      "text": "ACTH buyrak usti po'stlog'idan glyukokortikoidlar, ayniqsa **kortizol** ajratadi.",
+      "depth": 1
+     },
+     {
+      "text": "Kortizol deyarli barcha hujayralardan oqsillarni safarbar qiladi va aminokislotalar suyuqliklarga chiqadi.",
+      "depth": 1
+     },
+     {
+      "text": "Ularning katta qismi jigarda darhol dezaminlanadi va glyukoza uchun ideal substrat bo'ladi.",
+      "depth": 1
+     }
+    ],
+    "bid": "ch68-u44"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Qon glyukozasi",
+    "id": "ch68-s-45-qon-glyukozasi",
+    "bid": "ch68-u45"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "3–4 soat ovqat yemagan odamda taxminan **90 mg/dl**.",
+      "depth": 0
+     },
+     {
+      "text": "Ko'p uglevodli ovqatdan keyin diabet bo'lmasa kamdan-kam 140 mg/dl dan oshadi.",
+      "depth": 0
+     },
+     {
+      "text": "Insulin va glyukagon bilan boshqariladi (79-bob).",
+      "depth": 0
+     }
+    ],
+    "bid": "ch68-u46"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Klinik nuqtalar",
+    "id": "ch68-s-47-klinik-nuqtalar",
+    "bid": "ch68-u47"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Insulin tashilishni boshqaradi. Jigar va miyaga glyukoza insulinsiz kiradi.",
+      "depth": 0
+     },
+     {
+      "text": "Anaerob glikolizda laktat to'planadi. Kislorod qaytganda u qayta ishlanadi, yurak laktatni yoqadi.",
+      "depth": 0
+     },
+     {
+      "text": "Pentoza yo'li va NADPH yog' sintezi uchun.",
+      "depth": 0
+     },
+     {
+      "text": "Kortizol glyukoneogenezni kuchaytiradi.",
+      "depth": 0
+     },
+     {
+      "text": "Normal qon glyukozasi: och qoringa 90 mg/dl, ovqatdan keyin 140 mg/dl dan oshmaydi. Diabet 79-bobda.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch68-u48"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Bog'liqlik",
+    "id": "ch68-s-49-bogliqlik",
+    "bid": "ch68-u49"
+   },
+   {
+    "type": "paragraph",
+    "text": "4 (yengillashtirilgan diffuziya), 41 (CO₂ tashilishi), 61 (epinefrin), 66 (so'rilish), 69 (yog' sintezi), 70 (oqsillar), 73 (energetika), 77 (kortizol), 79 (insulin, glyukagon).",
+    "bid": "ch68-u50"
+   }
+  ],
+  "full": [
+   {
+    "type": "paragraph",
+    "text": "The next few chapters deal with metabolism in the body—the chemical processes that make it possible for the cells to continue living. It is not the purpose of this text to present the chemical details of all the various cellular reactions, which lie in the discipline of biochemistry. Instead, these chapters are devoted to (1) a review of the principal chemical processes of the cell and (2) an analysis of their physiological implications, especially the manner in which they fit into overall body homeostasis.",
+    "pdfPage": 797,
+    "bid": "ch68-f0"
+   },
+   {
+    "type": "paragraph",
+    "text": "Many of the chemical reactions in the cells are aimed at making the energy in foods available to the various physiological systems of the cell. For example, energy is required for muscle activity, secretion by the glands, maintenance of membrane potentials by the nerve and muscle fibers, synthesis of substances in the cells, absorption of foods from the gastrointestinal tract, and many other functions.",
+    "pdfPage": 797,
+    "boxed": true,
+    "bid": "ch68-f1"
+   },
+   {
+    "type": "paragraph",
+    "text": "All the energy foods—carbohydrates, fats, and proteins—can be oxidized in the cells, and during this process, large amounts of energy are released. These same foods can also be burned with pure oxygen outside the body in an actual fire, releasing large amounts of energy, but the energy is released suddenly, all in the form of heat. The energy needed by the physiologic processes of the cells is not heat but energy to cause mechanical movement in the case of muscle function, to concentrate solutes in the case of glandular secretion, and to effect many other cell functions. To provide this energy, the chemical reactions must be “coupled” with the systems responsible for these physiologic functions. This coupling is accomplished by special cellular enzymes and energy transfer systems, some of which are explained in this and subsequent chapters.",
+    "pdfPage": 797,
+    "lead": "Coupled Reactions.",
+    "boxed": true,
+    "bid": "ch68-f2"
+   },
+   {
+    "type": "paragraph",
+    "text": "The amount of energy liberated by complete oxidation of a food is called the _free energy of food oxidation_ and is generally represented by the symbol ΔG. Free energy is usually expressed in terms of calories per mole of substance. For example, the amount of free energy liberated by complete oxidation of 1 mole (180 grams) of glucose is 686,000 calories.",
+    "pdfPage": 797,
+    "lead": "“Free Energy.”",
+    "boxed": true,
+    "bid": "ch68-f3"
+   },
+   {
+    "type": "paragraph",
+    "text": "Adenosine triphosphate (ATP) is an essential link between energy-utilizing and energy-producing functions of the body (**Figure 68-1**). For this reason, ATP has been called the “energy currency” of the body, and it can be gained and spent repeatedly.",
+    "pdfPage": 797,
+    "boxed": true,
+    "bid": "ch68-f4"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-68-01",
+    "bid": "ch68-f5"
+   },
+   {
+    "type": "paragraph",
+    "text": "Energy derived from the oxidation of carbohydrates, proteins, and fats is used to convert adenosine diphosphate (ADP) to ATP, which is then consumed by the various reactions of the body that are necessary to maintain and propagate life.",
+    "pdfPage": 797,
+    "boxed": true,
+    "bid": "ch68-f6"
+   },
+   {
+    "type": "paragraph",
+    "text": "ATP is a labile chemical compound that is present in all cells. ATP is a combination of adenine, ribose, and three phosphate radicals, as shown in **Figure 68-2**. The last two phosphate radicals are connected with the remainder of the molecule by high-energy bonds, which are indicated by the symbol **∼**.",
+    "pdfPage": 797,
+    "boxed": true,
+    "bid": "ch68-f7"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-68-02",
+    "bid": "ch68-f8"
+   },
+   {
+    "type": "paragraph",
+    "text": "The amount of free energy in each of these highenergy bonds per mole of ATP is about 7300 calories under standard conditions and about 12,000 calories under the usual conditions of temperature and concentrations of the reactants in the body. Therefore, in the body, removal of each of the last two phosphate radicals liberates about 12,000 calories of energy. After loss of one phosphate radical from ATP, the compound becomes ADP, and after loss of the second phosphate radical, it becomes _adenosine monophosphate_ (AMP). The interconversions among ATP, ADP, and AMP are the following:",
+    "pdfPage": 797,
+    "boxed": true,
+    "pdfPageEnd": 798,
+    "bid": "ch68-f9"
+   },
+   {
+    "type": "paragraph",
+    "text": "ATP is present everywhere in the cytoplasm and nucleoplasm of all cells, and essentially all the physiological mechanisms that require energy for operation obtain it directly from ATP (or another similar high-energy compound, guanosine triphosphate). In turn, the food in the cells is gradually oxidized, and the released energy is used to form new ATP, thus always maintaining a supply of this substance. All these energy transfers take place via coupled reactions.",
+    "pdfPage": 798,
+    "boxed": true,
+    "bid": "ch68-f10"
+   },
+   {
+    "type": "paragraph",
+    "text": "The principal purpose of this chapter is to explain how the energy from carbohydrates can be used to form ATP in the cells. Normally, 90% or more of all the carbohydrates utilized by the body are for this purpose.",
+    "pdfPage": 798,
+    "boxed": true,
+    "bid": "ch68-f11"
+   },
+   {
+    "type": "paragraph",
+    "text": "As explained in Chapter 66, the final products of carbohydrate digestion in the alimentary tract are almost entirely glucose, fructose, and galactose—with glucose representing, on average, about 80% of these products. After absorption from the intestinal tract, much of the fructose and almost all the galactose are rapidly converted into glucose in the liver. Therefore, little fructose and galactose are present in the circulating blood. _Glucose thus becomes the final common pathway for transport of almost all carbohydrates to the tissue cells_.",
+    "pdfPage": 798,
+    "boxed": true,
+    "bid": "ch68-f12"
+   },
+   {
+    "type": "paragraph",
+    "text": "In liver cells, appropriate enzymes are available to promote interconversions among the monosaccharides—glucose, fructose, and galactose—as shown in **Figure 68-3**. Furthermore, the dynamics of the reactions are such that when the liver releases monosaccharides back into the blood, the final product is almost entirely glucose. The reason for this is that liver cells contain large amounts of _glucose phosphatase_. Therefore, glucose-6-phosphate can be degraded to glucose and phosphate, and the glucose can then be transported through the liver cell membrane back into the blood.",
+    "pdfPage": 798,
+    "boxed": true,
+    "bid": "ch68-f13"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-68-03",
+    "bid": "ch68-f14"
+   },
+   {
+    "type": "paragraph",
+    "text": "Once again, it should be emphasized that more than 95% of all the monosaccharides that circulate in the blood are normally the final conversion product, glucose.",
+    "pdfPage": 798,
+    "boxed": true,
+    "bid": "ch68-f15"
+   },
+   {
+    "type": "paragraph",
+    "text": "Before glucose can be used by the body’s tissue cells, it must be transported through the cell membrane into the cellular cytoplasm. However, glucose _cannot easily diffuse through the pores_ of the cell membrane because the maximum molecular weight of particles that can diffuse readily is about 100, and glucose has a molecular weight of 180. Yet glucose does pass to the interior of the cells with a reasonable degree of freedom by _facilitated diffusion_. The principles of this type of transport are discussed in Chapter 4. Penetrating through the lipid matrix of the cell membrane are large numbers of protein _carrier_ molecules that can bind with glucose. In this bound form, the glucose can be transported by the carrier from one side of the membrane to the other side and then released. Therefore, if the concentration of glucose is greater on one side of the membrane than on the other side, more glucose will be transported from the high-concentration area to the low-concentration area than in the opposite direction.",
+    "pdfPage": 798,
+    "boxed": true,
+    "pdfPageEnd": 799,
+    "bid": "ch68-f16"
+   },
+   {
+    "type": "paragraph",
+    "text": "Transport of glucose through the membranes of most tissue cells is quite different from that which occurs through the gastrointestinal membrane or through the epithelium of the renal tubules. In both cases, the glucose is transported by the mechanism of _active sodium-glucose co-transport_, in which active transport of sodium provides energy for absorbing glucose _against a concentration difference_. This sodiumglucose co-transport mechanism functions only in certain special cells, especially those epithelial cells that are specifically adapted for active absorption of glucose. At other cell membranes, glucose is transported only from higher concentration toward lower concentration by _facilitated diffusion_, made possible by the special binding properties of membrane _glucose carrier protein_. The details of _facilitated diffusion_ for cell membrane transport are presented in Chapter 4.",
+    "pdfPage": 799,
+    "boxed": true,
+    "bid": "ch68-f17"
+   },
+   {
+    "type": "paragraph",
+    "text": "The rate of glucose transport, as well as transport of some other monosaccharides, is greatly increased in most cells by insulin. When large amounts of insulin are secreted by the pancreas, the rate of glucose transport into most cells increases to 10 or more times the rate of transport when no insulin is secreted. Conversely, the amounts of glucose that can diffuse to the insides of most cells of the body in the absence of insulin, with the exception of liver and brain cells, are far too little to supply the amount of glucose normally required for energy metabolism.",
+    "pdfPage": 799,
+    "boxed": true,
+    "bid": "ch68-f18"
+   },
+   {
+    "type": "paragraph",
+    "text": "In effect, the rate of carbohydrate utilization by most cells is controlled by the rate of insulin secretion from the pancreas and the sensitivity of the various tissues to insulin’s effects on glucose transport. The functions of insulin and its control of carbohydrate metabolism are discussed in detail in Chapter 79.",
+    "pdfPage": 799,
+    "boxed": true,
+    "bid": "ch68-f19"
+   },
+   {
+    "type": "paragraph",
+    "text": "Immediately upon entry into the cells, glucose combines with a phosphate radical in accordance with the following reaction:",
+    "pdfPage": 799,
+    "boxed": true,
+    "bid": "ch68-f20"
+   },
+   {
+    "type": "paragraph",
+    "text": "This phosphorylation is promoted mainly by the enzyme _glucokinase_ in the liver and by _hexokinase_ in most other cells. The phosphorylation of glucose is almost completely irreversible except in liver cells, renal tubular epithelial cells, and intestinal epithelial cells; in these cells, another enzyme, _glucose phosphatase_, is also available, and when activated, it can reverse the reaction. In most tissues of the body, phosphorylation serves to _capture_ the glucose in the cell. That is, because of its almost instantaneous binding with phosphate, the glucose will not diffuse back out, except from those special cells, especially liver cells, that have phosphatase.",
+    "pdfPage": 799,
+    "boxed": true,
+    "bid": "ch68-f21"
+   },
+   {
+    "type": "paragraph",
+    "text": "After absorption into a cell, glucose can be used immediately for release of energy to the cell, or it can be stored in the form of _glycogen_, which is a large polymer of glucose.",
+    "pdfPage": 799,
+    "boxed": true,
+    "bid": "ch68-f22"
+   },
+   {
+    "type": "paragraph",
+    "text": "Almost all cells of the body are capable of storing at least some glycogen, but certain cells can store large amounts, especially _liver cells_, which can store up to 5% to 8% of their weight as glycogen, and _muscle cells_, which can store up to 1% to 3% glycogen. The glycogen molecules can be polymerized to almost any molecular weight, with the average molecular weight being 5 million or greater; most of the glycogen precipitates in the form of solid granules.",
+    "pdfPage": 799,
+    "boxed": true,
+    "bid": "ch68-f23"
+   },
+   {
+    "type": "paragraph",
+    "text": "This conversion of monosaccharides into a highmolecular-weight precipitated compound (glycogen) makes it possible to store large quantities of carbohydrates without significantly altering the osmotic pressure of the intracellular fluids. High concentrations of low-molecular-weight soluble monosaccharides would play havoc with the osmotic relations between intracellular and extracellular fluids.",
+    "pdfPage": 799,
+    "boxed": true,
+    "bid": "ch68-f24"
+   },
+   {
+    "type": "paragraph",
+    "text": "The chemical reactions for glycogenesis are illustrated in **Figure 68-4** which shows that _glucose-6-phosphate_ can become _glucose-1-phosphate_; this substance is converted to _uridine diphosphate glucose_, which is finally converted into glycogen. Several specific enzymes are required to cause these conversions, and any monosaccharide that can be converted into glucose can enter into the reactions. Certain smaller compounds, including _lactic acid, glycerol, pyruvic acid_, and some _deaminated amino acids_, can also be converted into glucose or closely allied compounds and then converted into glycogen.",
+    "pdfPage": 799,
+    "boxed": true,
+    "bid": "ch68-f25"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-68-04",
+    "bid": "ch68-f26"
+   },
+   {
+    "type": "paragraph",
+    "text": "_Glycogenolysis_ means the breakdown of the cell’s stored glycogen to re-form glucose in the cells. The glucose can then be used to provide energy. Glycogenolysis does not occur by reversal of the same chemical reactions that form glycogen; instead, each succeeding glucose molecule on each branch of the glycogen polymer is split away by _phosphorylation_, catalyzed by the enzyme _phosphorylase_.",
+    "pdfPage": 799,
+    "boxed": true,
+    "pdfPageEnd": 800,
+    "bid": "ch68-f27"
+   },
+   {
+    "type": "paragraph",
+    "text": "Under resting conditions, the phosphorylase is in an inactive form, and thus glycogen remains stored. When it is necessary to re-form glucose from glycogen, the phosphorylase must first be activated. This activation can be accomplished in several ways, including activation by epinephrine or by glucagon, as described in the next section.",
+    "pdfPage": 800,
+    "boxed": true,
+    "bid": "ch68-f28"
+   },
+   {
+    "type": "paragraph",
+    "text": "Two hormones, _epinephrine_ and _glucagon_, can activate phosphorylase and thereby cause rapid glycogenolysis. The initial effect of each of these hormones is to promote formation of _cyclic AMP_ in the cells, which then initiates a cascade of chemical reactions that activates the phosphorylase. This process is discussed in detail in Chapter 79.",
+    "pdfPage": 800,
+    "lead": "Activation of Phosphorylase by Epinephrine or by Glucagon.",
+    "boxed": true,
+    "bid": "ch68-f29"
+   },
+   {
+    "type": "paragraph",
+    "text": "_Epinephrine_ is released by the adrenal medullae when the sympathetic nervous system is stimulated. Therefore, one of the functions of the sympathetic nervous system is to increase the availability of glucose for rapid energy metabolism. This function of epinephrine occurs markedly in liver cells and muscle, thereby contributing (along with other effects of sympathetic stimulation) to preparation of the body for action, as discussed in Chapter 61.",
+    "pdfPage": 800,
+    "boxed": true,
+    "bid": "ch68-f30"
+   },
+   {
+    "type": "paragraph",
+    "text": "_Glucagon_ is a hormone secreted by the _alpha cells_ of the pancreas when the blood glucose concentration falls too low. It stimulates formation of cyclic AMP mainly in the liver cells, promoting conversion of liver glycogen into glucose and its release into the blood, thereby elevating the blood glucose concentration. The function of glucagon in blood glucose regulation is discussed in Chapter 79.",
+    "pdfPage": 800,
+    "boxed": true,
+    "bid": "ch68-f31"
+   },
+   {
+    "type": "paragraph",
+    "text": "Because complete oxidation of 1 gram-mole of glucose releases 686,000 calories of energy and only 12,000 calories of energy are required to form 1 gram-mole of ATP, energy would be wasted if glucose were decomposed all at once into water and carbon dioxide while forming only a single ATP molecule. Fortunately, cells of the body contain special enzymes that cause the glucose molecule to split a little at a time in many successive steps, so that its energy is released in small packets to form one molecule of ATP at a time, thus forming a total of 38 moles of ATP for each mole of glucose metabolized by the cells.",
+    "pdfPage": 800,
+    "boxed": true,
+    "bid": "ch68-f32"
+   },
+   {
+    "type": "paragraph",
+    "text": "In the next sections we describe the basic principles of the processes by which the glucose molecule is progressively dissected and its energy released to form ATP.",
+    "pdfPage": 800,
+    "boxed": true,
+    "bid": "ch68-f33"
+   },
+   {
+    "type": "paragraph",
+    "text": "By far the most important means of releasing energy from glucose is initiated by _glycolysis_. The end products of glycolysis are then oxidized to provide energy. Glycolysis means splitting of the glucose molecule to form _two molecules of pyruvic acid_.",
+    "pdfPage": 800,
+    "boxed": true,
+    "bid": "ch68-f34"
+   },
+   {
+    "type": "paragraph",
+    "text": "Glycolysis occurs by 10 successive chemical reactions, shown in **Figure 68-5**. Each step is catalyzed by at least one specific protein enzyme. Note that glucose is first converted into fructose-1,6-diphosphate and then split into two three-carbon-atom molecules, glyceraldehyde-3phosphate, each of which is then converted through five additional steps into pyruvic acid.",
+    "pdfPage": 800,
+    "boxed": true,
+    "bid": "ch68-f35"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-68-05",
+    "bid": "ch68-f36"
+   },
+   {
+    "type": "paragraph",
+    "text": "Despite the many chemical reactions in the glycolytic series, only a small portion of the free energy in the glucose molecule is released at most steps. However, between the 1,3-diphosphoglyceric acid and the 3-phosphoglyceric acid stages, and again between the phosphoenolpyruvic acid and the pyruvic acid stages, the packets of energy released are greater than 12,000 calories per mole, the amount required to form ATP, and the reactions are coupled in such a way that ATP is formed. Thus, a total of 4 moles of ATP are formed for each mole of fructose-1,6-diphosphate that is split into pyruvic acid.",
+    "pdfPage": 800,
+    "lead": "Formation of ATP During Glycolysis.",
+    "boxed": true,
+    "bid": "ch68-f37"
+   },
+   {
+    "type": "paragraph",
+    "text": "Yet, 2 moles of ATP are required to phosphorylate the original glucose to form fructose-1,6-diphosphate before glycolysis can begin. Therefore, _the net gain in ATP molecules by the entire glycolytic process is only 2 moles for each mole of glucose utilized_. This amounts to 24,000 calories of energy that becomes transferred to ATP, but during glycolysis, a total of 56,000 calories of energy were lost from the original glucose, giving an overall _efficiency_ for ATP formation of only 43%. The remaining 57% of the energy is lost in the form of heat.",
+    "pdfPage": 800,
+    "boxed": true,
+    "bid": "ch68-f38"
+   },
+   {
+    "type": "paragraph",
+    "text": "The next stage in the degradation of glucose is a twostep conversion of the two pyruvic acid molecules (shown in **Figure 68-5)** into two molecules of _acetyl_",
+    "pdfPage": 800,
+    "boxed": true,
+    "bid": "ch68-f39"
+   },
+   {
+    "type": "paragraph",
+    "text": "_coenzyme A_ (acetyl-CoA), in accordance with the following reaction:",
+    "pdfPage": 801,
+    "boxed": true,
+    "bid": "ch68-f40"
+   },
+   {
+    "type": "paragraph",
+    "text": "Two carbon dioxide molecules and four hydrogen atoms are released from this reaction, while the remaining portions of the two pyruvic acid molecules combine with coenzyme A, a derivative of the vitamin pantothenic acid, to form two molecules of acetyl-CoA. In this conversion, no ATP is formed, but up to six molecules of ATP are formed when the four released hydrogen atoms are later oxidized, as discussed later.",
+    "pdfPage": 801,
+    "boxed": true,
+    "bid": "ch68-f41"
+   },
+   {
+    "type": "paragraph",
+    "text": "The next stage in the degradation of the glucose molecule is called the _citric acid cycle_ (also called the _tricarboxylic acid cycle_ or the _Krebs cycle_ in honor of Hans Krebs for his discovery of this cycle). The citric acid cycle is a sequence of chemical reactions in which the acetyl portion of acetyl- CoA is degraded to carbon dioxide and hydrogen atoms. These reactions all occur in the _matrix of mitochondria_. The released hydrogen atoms add to the number of these atoms that will subsequently be oxidized (as discussed later), releasing tremendous amounts of energy to form ATP.",
+    "pdfPage": 801,
+    "boxed": true,
+    "bid": "ch68-f42"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 68-6** shows the different stages of the chemical reactions in the citric acid cycle. The substances to the left are added during the chemical reactions, and the products of the chemical reactions are shown to the right. Note at the top of the column that the cycle begins with _oxaloacetic acid_, and at the bottom of the chain of reactions, _oxaloacetic acid_ is formed again. Thus, the cycle can continue repeatedly.",
+    "pdfPage": 801,
+    "boxed": true,
+    "bid": "ch68-f43"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-68-06",
+    "bid": "ch68-f44"
+   },
+   {
+    "type": "paragraph",
+    "text": "In the initial stage of the citric acid cycle, _acetyl-CoA_ combines with _oxaloacetic acid_ to form _citric acid_. The coenzyme A portion of the acetyl-CoA is released and can be used repeatedly to form additional quantities of acetyl-CoA from pyruvic acid. The acetyl portion, however, becomes an integral part of the citric acid molecule. During the successive stages of the citric acid cycle, several molecules of water are added, as shown on the left in **Figure 68-6,** and _carbon dioxide_ and _hydrogen atoms_ are released at other stages in the cycle, as shown on the right in the figure.",
+    "pdfPage": 801,
+    "boxed": true,
+    "bid": "ch68-f45"
+   },
+   {
+    "type": "paragraph",
+    "text": "The net results of the entire citric acid cycle are provided in the explanation at the bottom of **Figure 68-6**, demonstrating that for each molecule of glucose originally metabolized, 2 acetyl-CoA molecules enter into the citric acid cycle, along with 6 molecules of water. These molecules are then degraded into 4 carbon dioxide molecules, 16 hydrogen atoms, and 2 molecules of coenzyme A. Two molecules of ATP are formed, as follows.",
+    "pdfPage": 801,
+    "boxed": true,
+    "bid": "ch68-f46"
+   },
+   {
+    "type": "paragraph",
+    "text": "The citric acid cycle itself does not cause a great amount of energy to be released; a molecule of ATP is formed in only one of the chemical reactions—during the change from αketoglutaric acid to succinic acid. Thus, for each molecule of glucose metabolized, two acetyl-CoA molecules pass through the citric acid cycle, each forming a molecule of ATP, or a total of two molecules of ATP formed.",
+    "pdfPage": 801,
+    "lead": "Formation of ATP in the Citric Acid Cycle.",
+    "boxed": true,
+    "bid": "ch68-f47"
+   },
+   {
+    "type": "paragraph",
+    "text": "points in this discussion, hydrogen atoms are released during different chemical reactions of the citric acid cycle—4 hydrogen atoms during glycolysis, 4 during formation of acetyl-CoA from pyruvic acid, and 16 in the citric acid cycle; _thus a total of 24 hydrogen atoms are released for each original molecule of glucose_. However, the hydrogen atoms are not simply turned loose in the intracellular fluid. Instead, they are released in packets of two, and in each case, the release is catalyzed by a specific protein enzyme called a _dehydrogenase_. Twenty of the 24 hydrogen atoms immediately combine with nicotinamide adenine dinucleotide (NAD+), a derivative of the vitamin niacin, in accordance with the following reaction:",
+    "pdfPage": 802,
+    "boxed": true,
+    "bid": "ch68-f48"
+   },
+   {
+    "type": "paragraph",
+    "text": "This reaction will not occur without intermediation of the specific dehydrogenase or without the availability of NAD+ to act as a hydrogen carrier. Both the free hydrogen ion and the hydrogen bound with NAD+ subsequently enter into multiple oxidative chemical reactions that form large quantities of ATP, as discussed later.",
+    "pdfPage": 802,
+    "boxed": true,
+    "bid": "ch68-f49"
+   },
+   {
+    "type": "paragraph",
+    "text": "The remaining 4 hydrogen atoms released during the breakdown of glucose—the 4 released during the citric acid cycle between the succinic and fumaric acid stages— combine with a specific dehydrogenase but are not subsequently released to NAD+. Instead, they pass directly from the dehydrogenase into the oxidative process.",
+    "pdfPage": 802,
+    "boxed": true,
+    "bid": "ch68-f50"
+   },
+   {
+    "type": "paragraph",
+    "text": "Referring again to the chemical reactions of the citric acid cycle, as well as to those for the formation of acetyl-CoA from pyruvic acid, we find that there are three stages in which carbon dioxide is released. To cause the release of carbon dioxide, other specific protein enzymes, called _decarboxylases_, split the carbon dioxide away from the substrate. The carbon dioxide is then dissolved in the body fluids and transported to the lungs, where it is expired from the body (see Chapter 41).",
+    "pdfPage": 802,
+    "lead": "Function of Decarboxylases in Causing Release of Carbon Dioxide.",
+    "boxed": true,
+    "bid": "ch68-f51"
+   },
+   {
+    "type": "paragraph",
+    "text": "Despite all the complexities of (1) glycolysis, (2) the citric acid cycle, (3) dehydrogenation, and (4) decarboxylation, pitifully small amounts of ATP are formed during all these processes—only 2 ATP molecules in the glycolysis scheme and another 2 in the citric acid cycle for each molecule of glucose metabolized. Instead, almost 90% of the total ATP created through glucose metabolism is formed during subsequent oxidation of the hydrogen atoms that were released at early stages of glucose degradation. Indeed, the principal function of all these earlier stages is to make the hydrogen of the glucose molecule available in forms that can be oxidized.",
+    "pdfPage": 802,
+    "boxed": true,
+    "bid": "ch68-f52"
+   },
+   {
+    "type": "paragraph",
+    "text": "Oxidation of hydrogen is accomplished, as illustrated in **Figure 68-7**, by a series of enzymatically catalyzed reactions _in the mitochondria_. These reactions (1) split each hydrogen atom into a hydrogen ion and an electron and (2)",
+    "pdfPage": 802,
+    "boxed": true,
+    "bid": "ch68-f53"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-68-07",
+    "bid": "ch68-f54"
+   },
+   {
+    "type": "paragraph",
+    "text": "use the electrons eventually to combine dissolved oxygen of the fluids with water molecules to form hydroxyl ions. Then the hydrogen and hydroxyl ions combine with each other to form water. During this sequence of oxidative reactions, tremendous quantities of energy are released to form ATP. Formation of ATP in this manner is called _oxidative phosphorylation_, which occurs entirely in the mitochondria by a highly specialized process called the _chemiosmotic mechanism_.",
+    "pdfPage": 802,
+    "boxed": true,
+    "bid": "ch68-f55"
+   },
+   {
+    "type": "paragraph",
+    "text": "The first step in oxidative phosphorylation in the mitochondria is to ionize the hydrogen atoms that have been removed from the food substrates. As described earlier, these hydrogen atoms are removed in pairs: one immediately becomes a hydrogen ion, H+, the other combines with NAD+ to form reduced nicotinamide adenine dinucleotide (NADH). The upper portion of **Figure 68-7** shows the subsequent fate of the NADH and H+. The initial effect is to release the other hydrogen atom from the NADH to form another hydrogen ion, H+; this process also reconstitutes NAD+ that will be reused repeatedly.",
+    "pdfPage": 802,
+    "lead": "Ionization of Hydrogen, the Electron Transport Chain, and Water Formation.",
+    "boxed": true,
+    "bid": "ch68-f56"
+   },
+   {
+    "type": "paragraph",
+    "text": "The electrons that are removed from the hydrogen atoms to cause the hydrogen ionization immediately enter an _electron transport chain of electron acceptors_ that are an integral part of the inner membrane (the shelf membrane) of the mitochondrion. The electron acceptors can be reversibly reduced or oxidized by accepting or giving up electrons. The important members of this electron transport chain include _flavoprotein_ (flavin mononucleotide), several",
+    "pdfPage": 802,
+    "boxed": true,
+    "bid": "ch68-f57"
+   },
+   {
+    "type": "paragraph",
+    "text": "_iron sulfide proteins, ubiquinone_, and _cytochromes B, C1, C, A,_ and _A3._ Each electron is shuttled from one of these acceptors to the next until it finally reaches cytochrome A3, which is called _cytochrome oxidase_ because it is capable of giving up 2 electrons and thus reducing elemental oxygen to form ionic oxygen, which then combines with hydrogen ions to form water.",
+    "pdfPage": 803,
+    "boxed": true,
+    "bid": "ch68-f58"
+   },
+   {
+    "type": "paragraph",
+    "text": "Thus, **Figure 68-7** shows the transport of electrons through the electron chain and then their ultimate use by cytochrome oxidase to cause the formation of water molecules. During the transport of these electrons through the electron transport chain, energy is released that is used to cause the synthesis of ATP, as follows.",
+    "pdfPage": 803,
+    "boxed": true,
+    "bid": "ch68-f59"
+   },
+   {
+    "type": "paragraph",
+    "text": "As the electrons pass through the electron transport chain, large amounts of energy are released. This energy is used to pump hydrogen ions from the inner matrix of the mitochondrion (to the right in **Figure 68-7**) into the outer chamber between the inner and outer mitochondrial membranes (to the left). This process creates a high concentration of positively charged hydrogen ions in this chamber; it also creates a strong negative electrical potential in the inner matrix.",
+    "pdfPage": 803,
+    "lead": "Electron Transport Chain Releases Energy Used to Pump Hydrogen Ions Into the Outer Chamber of the Mitochondrion.",
+    "boxed": true,
+    "bid": "ch68-f60"
+   },
+   {
+    "type": "paragraph",
+    "text": "The next step in oxidative phosphorylation is to convert ADP into ATP. This conversion occurs in conjunction with a large protein molecule that protrudes all the way through the inner mitochondrial membrane and projects with a knoblike head into the inner mitochondrial matrix. This molecule is an ATPase, the physical nature of which is shown in **Figure 68-7**. It is called _ATP synthetase_.",
+    "pdfPage": 803,
+    "lead": "Formation of ATP.",
+    "boxed": true,
+    "bid": "ch68-f61"
+   },
+   {
+    "type": "paragraph",
+    "text": "The high concentration of positively charged hydrogen ions in the outer chamber and the large electrical potential difference across the inner membrane cause the hydrogen ions to flow into the inner mitochondrial matrix _through the substance of the ATPase molecule_. In doing so, energy derived from this hydrogen ion flow is used by ATPase to convert ADP into ATP by combining ADP with a free ionic phosphate radical (Pi), thus adding another high-energy phosphate bond to the molecule.",
+    "pdfPage": 803,
+    "boxed": true,
+    "bid": "ch68-f62"
+   },
+   {
+    "type": "paragraph",
+    "text": "The final step in the process is transfer of ATP from the inside of the mitochondrion back to the cell cytoplasm. This step occurs by facilitated diffusion outward through the inner membrane and then by simple diffusion through the permeable outer mitochondrial membrane. In turn, ADP is continually transferred in the other direction for continual conversion into ATP. _For each two electrons that pass through the entire electron transport chain (representing the ionization of two hydrogen atoms), up to three ATP molecules are synthesized_.",
+    "pdfPage": 803,
+    "boxed": true,
+    "bid": "ch68-f63"
+   },
+   {
+    "type": "paragraph",
+    "text": "We can now determine the total number of ATP molecules that, under optimal conditions, can be formed by the energy from one molecule of glucose. 1. \u0007During glycolysis, 4 molecules of ATP are formed and",
+    "pdfPage": 803,
+    "boxed": true,
+    "bid": "ch68-f64"
+   },
+   {
+    "type": "paragraph",
+    "text": "2 are expended to cause the initial phosphorylation of glucose to get the process going, giving a net gain of _2 molecules of ATP._",
+    "pdfPage": 803,
+    "boxed": true,
+    "bid": "ch68-f65"
+   },
+   {
+    "type": "paragraph",
+    "text": "2. \u0007During each revolution of the citric acid cycle, 1 molecule of ATP is formed. However, because each glucose molecule splits into 2 pyruvic acid molecules, there are 2 revolutions of the cycle for each molecule of glucose metabolized, giving a net production of _2 more molecules of ATP._ 3. \u0007During the entire schema of glucose breakdown, a total of 24 hydrogen atoms are released during glycolysis and during the citric acid cycle. Twenty of these atoms are oxidized in conjunction with the chemiosmotic mechanism shown in **Figure 68-7**, with the release of 3 ATP molecules per 2 atoms of hydrogen metabolized. This process gives an additional _30 ATP molecules._ 4. \u0007The remaining 4 hydrogen atoms are released by their dehydrogenase into the chemiosmotic oxidative schema in the mitochondrion beyond the first stage of **Figure 68-7.** Two ATP molecules are usually released for every 2 hydrogen atoms oxidized, thus giving a total of _4 more ATP molecules._ Now, adding all the ATP molecules formed, we find a maximum of _38 ATP molecules_ formed for each molecule of glucose degraded to carbon dioxide and water. Thus, 456,000 calories of energy can be stored in the form of ATP, whereas 686,000 calories are released during the complete oxidation of each gram-molecule of glucose. This outcome represents an overall maximum _efficiency_ of energy transfer of 66%. The remaining 34% of the energy becomes heat and, therefore, cannot be used by the cells to perform specific functions.",
+    "pdfPage": 803,
+    "boxed": true,
+    "bid": "ch68-f66"
+   },
+   {
+    "type": "paragraph",
+    "text": "Continual release of energy from glucose when the cells do not need energy would be an extremely wasteful process. Instead, glycolysis and the subsequent oxidation of hydrogen atoms are continually controlled in accordance with the need of the cells for ATP. This control is accomplished by multiple feedback control mechanisms within the chemical schemata. Among the more important of these mechanisms are the effects of cell concentrations of both ADP and ATP in controlling the rates of chemical reactions in the energy metabolism sequence.",
+    "pdfPage": 803,
+    "boxed": true,
+    "bid": "ch68-f67"
+   },
+   {
+    "type": "paragraph",
+    "text": "One important way in which ATP helps control energy metabolism is to inhibit the enzyme _phosphofructokinase_. Because this enzyme promotes the formation of fructose- 1,6-diphosphate, one of the initial steps in the glycolytic series of reactions, the net effect of excess cellular ATP is to slow or even stop glycolysis, which in turn stops most carbohydrate metabolism. Conversely, ADP (and AMP as well) causes the opposite change in this enzyme, greatly increasing its activity. Whenever ATP is used by the tissues for energizing a major fraction of almost all intracellular chemical reactions, this action reduces the ATP inhibition of the enzyme phosphofructokinase and at the same time increases its activity as a result of the excess ADP formed. Thus, the glycolytic process is set in motion, and the total cellular store of ATP is replenished.",
+    "pdfPage": 803,
+    "boxed": true,
+    "bid": "ch68-f68"
+   },
+   {
+    "type": "paragraph",
+    "text": "Another control linkage is the _citrate ion_ formed in the citric acid cycle. An excess of this ion also _strongly inhibits phosphofructokinase_, thus preventing the glycolytic process from getting ahead of the citric acid cycle’s ability to use the pyruvic acid formed during glycolysis.",
+    "pdfPage": 803,
+    "boxed": true,
+    "bid": "ch68-f69"
+   },
+   {
+    "type": "paragraph",
+    "text": "A third way by which the ATP-ADP-AMP system controls carbohydrate metabolism, as well as controlling energy release from fats and proteins, is the following: Referring to the various chemical reactions for energy release, we see that if all the ADP in the cell has already been converted into ATP, additional ATP simply cannot be formed. As a result, the entire sequence involved in the use of foodstuffs— glucose, fats, and proteins—to form ATP is stopped. Then, when ATP is used by the cell to energize the different physiological functions in the cell, the newly formed ADP and AMP turn on the energy processes again, and ADP and AMP are almost instantly returned to the ATP state. In this way, essentially a full store of ATP is automatically maintained, except during extreme cellular activity, such as very strenuous exercise.",
+    "pdfPage": 804,
+    "boxed": true,
+    "bid": "ch68-f70"
+   },
+   {
+    "type": "paragraph",
+    "text": "Occasionally, oxygen becomes either unavailable or insufficient, so oxidative phosphorylation cannot take place. Yet even under these conditions, a small amount of energy can still be released to the cells by the glycolysis stage of carbohydrate degradation, because the chemical reactions for the breakdown of glucose to pyruvic acid do not require oxygen.",
+    "pdfPage": 804,
+    "boxed": true,
+    "bid": "ch68-f71"
+   },
+   {
+    "type": "paragraph",
+    "text": "This process is extremely wasteful of glucose because only 24,000 calories of energy are used to form ATP for each molecule of glucose metabolized, which represents only a little over 3% of the total energy in the glucose molecule. Nevertheless, this release of glycolytic energy to the cells, which is called _anaerobic energy_, can be a lifesaving measure for up to a few minutes when oxygen becomes unavailable.",
+    "pdfPage": 804,
+    "boxed": true,
+    "bid": "ch68-f72"
+   },
+   {
+    "type": "paragraph",
+    "text": "The _law of mass action_ states that as the end products of a chemical reaction build up in a reacting medium, the rate of the reaction decreases, approaching zero. The two end products of the glycolytic reactions (see **Figure 68-5**) are (1) pyruvic acid and (2) hydrogen atoms combined with NAD+ to form NADH and H+. The buildup of either or both of these substances would stop the glycolytic process and prevent further formation of ATP. When their quantities begin to be excessive, these two end products react with each other to form lactic acid, in accordance with the following equation:",
+    "pdfPage": 804,
+    "lead": "Formation of Lactic Acid During Anaerobic Glycolysis Allows Release of Extra Anaerobic Energy.",
+    "boxed": true,
+    "bid": "ch68-f73"
+   },
+   {
+    "type": "paragraph",
+    "text": "Thus, under anaerobic conditions, the major portion of the pyruvic acid is converted into lactic acid, which diffuses readily out of the cells into the extracellular fluids and even into the intracellular fluids of other less active cells. Therefore, lactic acid represents a type of “sinkhole” into which the glycolytic end products can disappear, thus allowing glycolysis to proceed far longer than would otherwise be possible. Indeed, glycolysis could proceed for only a few seconds without this conversion. Instead, it can proceed for several minutes, supplying the body with considerable extra quantities of ATP, even in the absence of respiratory oxygen.",
+    "pdfPage": 804,
+    "boxed": true,
+    "bid": "ch68-f74"
+   },
+   {
+    "type": "paragraph",
+    "text": "When a person begins to breathe oxygen again after a period of anaerobic metabolism, the lactic acid is rapidly reconverted to pyruvic acid and NADH plus H+. Large portions of these substances are immediately oxidized to form large quantities of ATP. This excess ATP then causes as much as 75% of the remaining excess pyruvic acid to be converted back into glucose.",
+    "pdfPage": 804,
+    "lead": "Reconversion of Lactic Acid to Pyruvic Acid When Oxygen Becomes Available Again.",
+    "boxed": true,
+    "bid": "ch68-f75"
+   },
+   {
+    "type": "paragraph",
+    "text": "Thus, the large amount of lactic acid that forms during anaerobic glycolysis is not lost from the body because, when oxygen is available again, the lactic acid can be either reconverted to glucose or used directly for energy. By far the greatest portion of this reconversion occurs in the liver, but a small amount can also occur in other tissues.",
+    "pdfPage": 804,
+    "boxed": true,
+    "bid": "ch68-f76"
+   },
+   {
+    "type": "paragraph",
+    "text": "Heart muscle is especially capable of converting lactic acid to pyruvic acid and then using the pyruvic acid for energy. This process occurs to a great extent during heavy exercise, when large amounts of lactic acid are released into the blood from the skeletal muscles and consumed as an extra energy source by the heart.",
+    "pdfPage": 804,
+    "lead": "Use of Lactic Acid by the Heart for Energy.",
+    "boxed": true,
+    "bid": "ch68-f77"
+   },
+   {
+    "type": "paragraph",
+    "text": "In almost all the body’s muscles, essentially all the carbohydrates utilized for energy are degraded to pyruvic acid by glycolysis and then oxidized. However, this glycolytic scheme is not the only means by which glucose can be degraded and used to provide energy. A second important mechanism for breakdown and oxidation of glucose is called the _pentose phosphate pathway_ (or _phosphogluconate pathway_), which is responsible for _as much as 30% of the glucose breakdown in the liver and even more than this in fat cells_.",
+    "pdfPage": 804,
+    "boxed": true,
+    "bid": "ch68-f78"
+   },
+   {
+    "type": "paragraph",
+    "text": "This pathway is especially important because it can provide energy independently of all the enzymes of the citric acid cycle and therefore is an alternative pathway for energy metabolism when certain enzymatic abnormalities occur in cells. It has a special capacity for providing energy to multiple cellular synthetic processes.",
+    "pdfPage": 804,
+    "boxed": true,
+    "bid": "ch68-f79"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 68-8** shows most of the basic chemical reactions in the pentose phosphate pathway. It demonstrates that glucose, during several stages of conversion, can release one molecule of carbon dioxide and four atoms of hydrogen, with the resultant formation of a five-carbon sugar, d-ribulose. This substance can change progressively into several other five-, four-, seven-, and three-carbon sugars. Finally, various combinations of these sugars can resynthesize glucose. However, _only five molecules of glucose are resynthesized for every six molecules of glucose that initially enter into the reactions_. That is, the pentose phosphate pathway is a cyclical process in which one molecule of glucose is metabolized for each revolution of the cycle. Thus, by repeating the cycle again and again, all the glucose can eventually be converted into carbon dioxide and hydrogen, and the hydrogen can enter the oxidative phosphorylation pathway to form ATP; more often, however, it is used for the synthesis of fat or other substances, as follows.",
+    "pdfPage": 804,
+    "lead": "Release of Carbon Dioxide and Hydrogen by the Pentose Phosphate Pathway.",
+    "boxed": true,
+    "pdfPageEnd": 805,
+    "bid": "ch68-f80"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-68-08",
+    "bid": "ch68-f81"
+   },
+   {
+    "type": "paragraph",
+    "text": "The hydrogen released during the pentose phosphate cycle does not combine with NAD+ as in the glycolytic pathway but combines with nicotinamide adenine dinucleotide phosphate (NADP+), which is almost identical to NAD+ except for an extra phosphate radical, P. This difference is extremely significant because only hydrogen bound with NADP+ in the form of NADPH can be used for the synthesis of fats from carbohydrates (as discussed in Chapter 69) and for the synthesis of some other substances.",
+    "pdfPage": 805,
+    "lead": "Use of Hydrogen to Synthesize Fat; the Function of Nicotinamide Adenine Dinucleotide Phosphate.",
+    "boxed": true,
+    "bid": "ch68-f82"
+   },
+   {
+    "type": "paragraph",
+    "text": "When the glycolytic pathway for using glucose becomes slowed because of cellular inactivity, the pentose phosphate pathway remains operative (mainly in the liver) to break down any excess glucose that continues to be transported into the cells, and NADPH becomes abundant to help convert acetyl-CoA, also derived from glucose, into long fatty acid chains. This is another way in which energy in the glucose molecule is used other than for the formation of ATP—in this case, _for the formation and storage of fat in the body_.",
+    "pdfPage": 805,
+    "boxed": true,
+    "bid": "ch68-f83"
+   },
+   {
+    "type": "paragraph",
+    "text": "When glucose is not immediately required for energy, the extra glucose that continually enters the cells is either stored as glycogen or converted into fat. Glucose is preferentially stored as glycogen until the cells have stored as much glycogen as they can—an amount sufficient to supply the energy needs of the body for only 12 to 24 hours. When the glycogen-storing cells (primarily liver and muscle cells) approach saturation with glycogen, the additional glucose is converted into fat in liver and fat cells and is stored as fat in the fat cells. Other steps in the chemistry of this conversion are discussed in Chapter 69.",
+    "pdfPage": 805,
+    "boxed": true,
+    "bid": "ch68-f84"
+   },
+   {
+    "type": "paragraph",
+    "text": "When the body’s stores of carbohydrates decrease below normal, moderate quantities of glucose can be formed from _amino acids_ and the _glycerol_ portion of fat. This process is called _gluconeogenesis_.",
+    "pdfPage": 805,
+    "boxed": true,
+    "bid": "ch68-f85"
+   },
+   {
+    "type": "paragraph",
+    "text": "Gluconeogenesis is especially important in preventing excessive reductions in blood glucose concentration during fasting. Glucose is the primary substrate for energy in tissues such as the brain and the red blood cells, and adequate amounts of glucose must be present in the blood for several hours between meals. The liver plays a key role in maintaining blood glucose levels during fasting by converting its stored glycogen to glucose (glycogenolysis) and by synthesizing glucose, mainly from lactate and amino acids (gluconeogenesis). Approximately 25% of the liver’s glucose production during fasting is from gluconeogenesis, helping to provide a steady supply of glucose to the brain. During prolonged fasting, the kidneys also synthesize considerable amounts of glucose from amino acids and other precursors.",
+    "pdfPage": 805,
+    "boxed": true,
+    "bid": "ch68-f86"
+   },
+   {
+    "type": "paragraph",
+    "text": "About 60% of the amino acids in the body proteins can be converted easily into carbohydrates; the remaining 40% have chemical configurations that make this conversion difficult or impossible. Each amino acid is converted into glucose by a slightly different chemical process. For example, alanine can be converted directly into pyruvic acid simply by deamination; the pyruvic acid is then converted into glucose or stored glycogen. Several of the more complicated amino acids can be converted into different sugars that contain three-, four-, five-, or seven-carbon atoms. They can then enter the phosphogluconate pathway and eventually form glucose. Thus, by means of deamination plus several simple interconversions, many of the amino acids can become glucose. Similar interconversions can change glycerol into glucose or glycogen.",
+    "pdfPage": 805,
+    "boxed": true,
+    "bid": "ch68-f87"
+   },
+   {
+    "type": "paragraph",
+    "text": "Diminished carbohydrates in the cells and decreased blood sugar are the basic stimuli that increase the rate of gluconeogenesis. Diminished carbohydrates can directly reverse many of the glycolytic and phosphogluconate reactions, thus allowing conversion of deaminated amino acids and glycerol into carbohydrates. In addition, the hormone _cortisol_ is especially important in this regulation, as described in the following section.",
+    "pdfPage": 805,
+    "boxed": true,
+    "bid": "ch68-f88"
+   },
+   {
+    "type": "paragraph",
+    "text": "When normal quantities of carbohydrates are not available to the cells, the adenohypophysis, for reasons not completely understood, secretes increased quantities of the hormone _adrenocorticotropic_",
+    "pdfPage": 805,
+    "lead": "Effect of Adrenocorticotropic Hormone and Glucocor-ticoids on Gluconeogenesis.",
+    "boxed": true,
+    "bid": "ch68-f89"
+   },
+   {
+    "type": "paragraph",
+    "text": "_hormone_ (ACTH), also called _corticotropin_ or _adrenocorticotropin_. This secretion stimulates the adrenal cortex to produce large quantities of _glucocorticoid hormones_, especially _cortisol_. In turn, cortisol mobilizes proteins from essentially all cells of the body, making these proteins available in the form of amino acids in the body fluids. A high proportion of these amino acids immediately becomes deaminated in the liver and provides ideal substrates for conversion into glucose. Thus, one of the most important means by which gluconeogenesis is promoted is through the release of glucocorticoids from the adrenal cortex.",
+    "pdfPage": 806,
+    "boxed": true,
+    "bid": "ch68-f90"
+   },
+   {
+    "type": "paragraph",
+    "text": "The normal blood glucose concentration in a person who has not eaten a meal within the past 3 to 4 hours is about 90 mg/dl. After a meal containing large amounts of carbohydrates, this level seldom rises above 140 mg/dl unless the person has diabetes mellitus, which is discussed in Chapter 79.",
+    "pdfPage": 806,
+    "boxed": true,
+    "bid": "ch68-f91"
+   },
+   {
+    "type": "paragraph",
+    "text": "The regulation of blood glucose concentration is intimately related to the pancreatic hormones insulin and glucagon; this subject is discussed in detail in Chapter 79 in relation to the functions of these hormones.",
+    "pdfPage": 806,
+    "boxed": true,
+    "bid": "ch68-f92"
+   }
+  ]
+ },
+ "glossary": [
+  {
+   "id": "ch68-t-boglangan-coupled-reaksiyalar",
+   "termUz": "Bog'langan (coupled) reaksiyalar",
+   "original": null,
+   "contextUz": "Bog'langan (coupled) reaksiyalar: Uglevod, yog' va oqsil hujayrada oksidlanib ko'p energiya beradi.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-erkin-energiya-g",
+   "termUz": "Erkin energiya (ΔG)",
+   "original": null,
+   "contextUz": "Erkin energiya (ΔG): ovqat to'liq oksidlanganda ajraladigan energiya, kal/mol da ifodalanadi.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-yuqori-energiyali-boglar",
+   "termUz": "yuqori energiyali bog'lar",
+   "original": null,
+   "contextUz": "Oxirgi ikki fosfat yuqori energiyali bog'lar (∼) bilan bog'langan.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-glyukoza-fosfataza",
+   "termUz": "glyukoza fosfataza",
+   "original": null,
+   "contextUz": "Jigar qonga chiqarganda deyarli faqat glyukoza chiqadi, chunki jigarda ko'p glyukoza fosfataza bor: glyukoza-6-fosfat glyukoza va fosfatga parchalanadi, glyukoza qonga o'tadi.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-membrana-orqali-tashilish",
+   "termUz": "Membrana orqali tashilish",
+   "original": null,
+   "contextUz": "Membrana orqali tashilish:",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-yengillashtirilgan-diffuziya",
+   "termUz": "yengillashtirilgan diffuziya",
+   "original": null,
+   "contextUz": "Oqsil tashuvchilar orqali yengillashtirilgan diffuziya bilan o'tadi, faqat yuqori konsentratsiyadan pastga.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-insulin",
+   "termUz": "Insulin",
+   "original": null,
+   "contextUz": "Insulin:",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-fosforillanish",
+   "termUz": "Fosforillanish",
+   "original": null,
+   "contextUz": "Fosforillanish:",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-glyukokinaza",
+   "termUz": "glyukokinaza",
+   "original": null,
+   "contextUz": "Jigarda glyukokinaza, boshqa hujayralarda geksokinaza katalizlaydi.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-geksokinaza",
+   "termUz": "geksokinaza",
+   "original": null,
+   "contextUz": "Jigarda glyukokinaza, boshqa hujayralarda geksokinaza katalizlaydi.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-glikogenez",
+   "termUz": "Glikogenez",
+   "original": null,
+   "contextUz": "Glikogenez: glyukoza-6-fosfat → glyukoza-1-fosfat → uridin difosfat glyukoza → glikogen.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-glikogenoliz",
+   "termUz": "Glikogenoliz",
+   "original": null,
+   "contextUz": "Glikogenoliz: glikogenez reaksiyalarining teskarisi emas.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-fosforilaza",
+   "termUz": "fosforilaza",
+   "original": null,
+   "contextUz": "Har bir shoxdagi glyukoza fosforilaza yordamida fosforillanib ajratiladi.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-epinefrin",
+   "termUz": "Epinefrin",
+   "original": null,
+   "contextUz": "Epinefrin va glyukagon cAMP orqali reaksiyalar kaskadini boshlab, fosforilazani faollashtiradi.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-glyukagon",
+   "termUz": "glyukagon",
+   "original": null,
+   "contextUz": "Epinefrin va glyukagon cAMP orqali reaksiyalar kaskadini boshlab, fosforilazani faollashtiradi.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-38-mol-atp",
+   "termUz": "38 mol ATP",
+   "original": null,
+   "contextUz": "Hujayralar glyukozani ko'p bosqichda asta parchalaydi va 1 mol glyukozadan jami 38 mol ATP hosil qiladi.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-glikoliz",
+   "termUz": "Glikoliz",
+   "original": null,
+   "contextUz": "Glikoliz glyukozaning ikki molekula piruvat ga parchalanishi.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-piruvat",
+   "termUz": "piruvat",
+   "original": null,
+   "contextUz": "Glikoliz glyukozaning ikki molekula piruvat ga parchalanishi.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-sof-foyda-2-atp",
+   "termUz": "Sof foyda 2 ATP",
+   "original": null,
+   "contextUz": "Sof foyda 2 ATP.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-degidrogenazalar-va-nad",
+   "termUz": "Degidrogenazalar va NAD⁺",
+   "original": null,
+   "contextUz": "Degidrogenazalar va NAD⁺:",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-nad",
+   "termUz": "NAD⁺",
+   "original": "niatsin vitamini hosilasi",
+   "contextUz": "20 tasi NAD⁺ (niatsin vitamini hosilasi) bilan birikadi: 2H + NAD⁺ → NADH + H⁺.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-dekarboksilazalar",
+   "termUz": "Dekarboksilazalar",
+   "original": null,
+   "contextUz": "Dekarboksilazalar: CO₂ ni substratdan ajratadi.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-vodorod-ionlanadi",
+   "termUz": "Vodorod ionlanadi",
+   "original": null,
+   "contextUz": "Mitoxondriyada bo'ladi: Vodorod ionlanadi: Juft H dan biri darhol H⁺ bo'ladi, ikkinchisi NAD⁺ bilan NADH hosil qiladi.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-elektron-tashish-zanjiri",
+   "termUz": "Elektron tashish zanjiri",
+   "original": null,
+   "contextUz": "Elektron tashish zanjiri: Elektronlar mitoxondriya ichki membranasidagi akseptorlar zanjiriga o'tadi.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-sitoxrom-a3-sitoxrom-oksidaza",
+   "termUz": "Sitoxrom A3 (sitoxrom oksidaza)",
+   "original": null,
+   "contextUz": "Sitoxrom A3 (sitoxrom oksidaza) 2 elektron berib kislorodni ionli kislorodga qaytaradi.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-h-nasosi",
+   "termUz": "H⁺ nasosi",
+   "original": null,
+   "contextUz": "H⁺ nasosi: Zanjirda ajralgan energiya H⁺ ni matritsadan ichki va tashqi membranalar orasidagi tashqi kameraga haydaydi.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-atp-sintetaza",
+   "termUz": "ATP sintetaza",
+   "original": null,
+   "contextUz": "ATP sintetaza: Ichki membranadan o'tib, matritsaga tugmasimon boshi bilan chiqib turgan katta ATPaza oqsili.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-sof-2",
+   "termUz": "sof 2",
+   "original": null,
+   "contextUz": "Glikoliz: 4 ATP hosil bo'ladi, 2 sarflanadi, sof 2.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-2-atp",
+   "termUz": "2 ATP",
+   "original": null,
+   "contextUz": "Krebs sikli: har aylanishda 1, bir glyukozaga 2 aylanish, 2 ATP.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-30-atp",
+   "termUz": "30 ATP",
+   "original": null,
+   "contextUz": "24 H dan 20 tasi to'liq xemiosmotik zanjirda: har 2 H ga 3 ATP, 30 ATP.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-4-atp",
+   "termUz": "4 ATP",
+   "original": null,
+   "contextUz": "Qolgan 4 H zanjirga birinchi bosqichdan keyin kiradi: har 2 H ga 2 ATP, 4 ATP.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-jami-maksimal-38-atp",
+   "termUz": "Jami maksimal 38 ATP.",
+   "original": null,
+   "contextUz": "Jami maksimal 38 ATP. ATP da 456 000 kal saqlanadi, umumiy energiya 686 000 kal.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-66",
+   "termUz": "66%",
+   "original": null,
+   "contextUz": "Maksimal samaradorlik 66%, qolgan 34% issiqlik.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-fosfofruktokinaza",
+   "termUz": "Fosfofruktokinaza",
+   "original": "fruktoza-1,6-difosfat hosil qiluvchi ferment",
+   "contextUz": "Fosfofruktokinaza (fruktoza-1,6-difosfat hosil qiluvchi ferment): Ortiqcha ATP uni tormozlaydi, glikoliz va uglevod metabolizmi sekinlashadi yoki to'xtaydi.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-sitrat",
+   "termUz": "Sitrat",
+   "original": null,
+   "contextUz": "Sitrat ortiqcha bo'lsa ham fosfofruktokinazani kuchli tormozlaydi.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-laktat-hosil-bolishi",
+   "termUz": "Laktat hosil bo'lishi",
+   "original": null,
+   "contextUz": "Laktat hosil bo'lishi:",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-kislorod-qaytganda",
+   "termUz": "Kislorod qaytganda",
+   "original": null,
+   "contextUz": "Kislorod qaytganda:",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-yurak-mushagi",
+   "termUz": "Yurak mushagi",
+   "original": null,
+   "contextUz": "Yurak mushagi laktatni piruvatga aylantirib energiya uchun yaxshi ishlatadi.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-nadp",
+   "termUz": "NADP⁺",
+   "original": null,
+   "contextUz": "NADP⁺: vodorod NAD⁺ ga emas, NADP⁺ ga (qo'shimcha fosfat radikali bor) birikadi.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-boshqarish",
+   "termUz": "Boshqarish",
+   "original": null,
+   "contextUz": "Boshqarish:",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-acth-va-glyukokortikoidlar",
+   "termUz": "ACTH va glyukokortikoidlar",
+   "original": null,
+   "contextUz": "ACTH va glyukokortikoidlar: Uglevod yetishmaganda adenogipofiz (sababi to'liq aniq emas) ko'proq ACTH ajratadi.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-kortizol",
+   "termUz": "kortizol",
+   "original": null,
+   "contextUz": "ACTH buyrak usti po'stlog'idan glyukokortikoidlar, ayniqsa kortizol ajratadi.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch68-t-90-mg-dl",
+   "termUz": "90 mg/dl",
+   "original": null,
+   "contextUz": "3–4 soat ovqat yemagan odamda taxminan 90 mg/dl.",
+   "lessonId": "ch68",
+   "topicId": "13",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  }
+ ],
+ "bookDefinitions": [
+  {
+   "pdfPage": 797,
+   "printedPage": "792",
+   "text": "“Free Energy.” The amount of energy liberated by complete oxidation of a food is called the free energy of food oxidation and is generally represented by the symbol ΔG. Free energy is usually expressed in terms of calories per mole of substance"
+  },
+  {
+   "pdfPage": 797,
+   "printedPage": "792",
+   "text": "For this reason, ATP has been called the “energy currency” of the body, and it can be gained and spent repeatedly"
+  },
+  {
+   "pdfPage": 801,
+   "printedPage": "796",
+   "text": "UNIT XIII 2CH3 COOH + 2CoA O H2O HC COOH (cis-Aconitic acid) H2O H2C COOH HC COOH HOC COOH H (Isocitric acid) 2H Citric Acid Cycle (Krebs Cycle) H2C COOH The next stage in the degradation of the glucose molecule is called the citric acid cycle (also called the tricarboxylic acid cycle or the Krebs cycle in honor of Hans Krebs for his discovery of this cycle)"
+  },
+  {
+   "pdfPage": 802,
+   "printedPage": "797",
+   "text": "During this sequence of oxidative reactions, tremendous quantities of energy are released to form ATP. Formation of ATP in this manner is called oxidative phosphorylation, which occurs entirely in the mitochondria by a highly specialized process called the chemiosmotic mechanism"
+  },
+  {
+   "pdfPage": 803,
+   "printedPage": "798",
+   "text": "Each electron is shuttled from one of these acceptors to the next until it finally reaches cytochrome A3, which is called cytochrome oxidase because it is capable of giving up 2 electrons and thus reducing elemental oxygen to form ionic oxygen, which then combines with hydrogen ions to form water"
+  },
+  {
+   "pdfPage": 804,
+   "printedPage": "799",
+   "text": "Nevertheless, this release of glycolytic energy to the cells, which is called anaerobic energy, can be a lifesaving measure for up to a few minutes when oxygen becomes unavailable"
+  },
+  {
+   "pdfPage": 804,
+   "printedPage": "799",
+   "text": "A second important mechanism for breakdown and oxidation of glucose is called the pentose phosphate pathway (or phosphogluconate pathway), which is responsible for as much as 30% of the glucose breakdown in the liver and even more than this in fat cells"
+  }
+ ],
+ "keyNumbers": [
+  {
+   "pdfPage": 797,
+   "printedPage": "792",
+   "text": "For example, the amount of free energy liberated by complete oxidation of 1 mole (180 grams) of glucose is 686,000 calories"
+  },
+  {
+   "pdfPage": 797,
+   "printedPage": "792",
+   "text": "The last two phosphate radicals are connected with the remainder of the molecule by high-energy bonds, which are indicated by the symbol ∼. The amount of free energy in each of these high- energy bonds per mole of ATP is about 7300 calories under standard conditions and about 12,000 calories under the usual conditions of temperature and concentrations of the reactants in the body"
+  },
+  {
+   "pdfPage": 797,
+   "printedPage": "792",
+   "text": "Therefore, in the body, removal of each of the last two phosphate radicals liberates about 12,000 calories of energy"
+  },
+  {
+   "pdfPage": 798,
+   "printedPage": "793",
+   "text": "Normally, 90% or more of all the carbohydrates utilized by the body are for this purpose"
+  },
+  {
+   "pdfPage": 798,
+   "printedPage": "793",
+   "text": "Galactose-1-phosphate Uridine diphosphate galactose Uridine diphosphate glucose Glycogen Glucose-1-phosphate Glucose Fructose ATP ATP Glucose-6-phosphate Fructose-6-phosphate Central Role of Glucose in Carbohydrate Metabolism As explained in Chapter 66, the final products of carbohydrate digestion in the alimentary tract are almost entirely glucose, fructose, and galactose—with glucose representing, on average, about 80% of these products"
+  },
+  {
+   "pdfPage": 798,
+   "printedPage": "793",
+   "text": "Once again, it should be emphasized that more than 95% of all the monosaccharides that circulate in the blood are normally the final conversion product, glucose"
+  },
+  {
+   "pdfPage": 799,
+   "printedPage": "794",
+   "text": "Almost all cells of the body are capable of storing at least some glycogen, but certain cells can store large amounts, especially liver cells, which can store up to 5% to 8% of their weight as glycogen, and muscle cells, which can store up to 1% to 3% glycogen"
+  },
+  {
+   "pdfPage": 799,
+   "printedPage": "794",
+   "text": "The glycogen molecules can be polymerized to almost any molecular weight, with the average molecular weight being 5 million or greater; most of the glycogen precipitates in the form of solid granules"
+  },
+  {
+   "pdfPage": 800,
+   "printedPage": "795",
+   "text": "Glucose ATP Fructose-6-phosphate ATP Release of Energy From Glucose by the Glycolytic Pathway Because complete oxidation of 1 gram-mole of glucose releases 686,000 calories of energy and only 12,000 calories of energy are required to form 1 gram-mole of ATP, energy would be wasted if glucose were decomposed all at once into water and carbon dioxide while forming only a single ATP molecule"
+  },
+  {
+   "pdfPage": 800,
+   "printedPage": "795",
+   "text": "However, between the 1,3-diphosphoglyceric acid and the 3-phosphoglyceric acid stages, and again between the phosphoenolpyruvic acid and the pyruvic acid stages, the packets of energy released are greater than 12,000 calories per mole, the amount required to form ATP, and the reactions are coupled in such a way that ATP is formed"
+  },
+  {
+   "pdfPage": 800,
+   "printedPage": "795",
+   "text": "This amounts to 24,000 calories of energy that becomes transferred to ATP, but during glycolysis, a total of 56,000 calories of energy were lost from the original glucose, giving an overall efficiency for ATP formation of only 43%"
+  },
+  {
+   "pdfPage": 800,
+   "printedPage": "795",
+   "text": "The remaining 57% of the energy is lost in the form of heat"
+  },
+  {
+   "pdfPage": 802,
+   "printedPage": "797",
+   "text": "Instead, almost 90% of the total ATP created through glucose metabolism is formed during subsequent oxidation of the hydrogen atoms that were released at early stages of glucose degradation"
+  },
+  {
+   "pdfPage": 803,
+   "printedPage": "798",
+   "text": "Thus, 456,000 calories of energy can be stored in the form of ATP, whereas 686,000 calories are released during the complete oxidation of each gram-molecule of glucose"
+  },
+  {
+   "pdfPage": 803,
+   "printedPage": "798",
+   "text": "This outcome represents an overall maximum efficiency of energy transfer of 66%"
+  },
+  {
+   "pdfPage": 803,
+   "printedPage": "798",
+   "text": "The remaining 34% of the energy becomes heat and, therefore, cannot be used by the cells to perform specific functions"
+  },
+  {
+   "pdfPage": 804,
+   "printedPage": "799",
+   "text": "This process is extremely wasteful of glucose because only 24,000 calories of energy are used to form ATP for each molecule of glucose metabolized, which represents only a little over 3% of the total energy in the glucose molecule"
+  },
+  {
+   "pdfPage": 804,
+   "printedPage": "799",
+   "text": "When a person begins to breathe oxygen again after a period of anaerobic metabolism, the lactic acid is rapidly reconverted to pyruvic acid and NADH plus H+. Large portions of these substances are immediately oxidized to form large quantities of ATP. This excess ATP then causes as much as 75% of the remaining excess pyruvic acid to be converted back into glucose"
+  },
+  {
+   "pdfPage": 804,
+   "printedPage": "799",
+   "text": "A second important mechanism for breakdown and oxidation of glucose is called the pentose phosphate pathway (or phosphogluconate pathway), which is responsible for as much as 30% of the glucose breakdown in the liver and even more than this in fat cells"
+  },
+  {
+   "pdfPage": 805,
+   "printedPage": "800",
+   "text": "Approximately 25% of the liver’s glucose production during fasting is from gluconeogenesis, helping to provide a steady supply of glucose to the brain"
+  },
+  {
+   "pdfPage": 805,
+   "printedPage": "800",
+   "text": "About 60% of the amino acids in the body proteins can be converted easily into carbohydrates; the remaining 40% have chemical configurations that make this conversion difficult or impossible"
+  },
+  {
+   "pdfPage": 805,
+   "printedPage": "800",
+   "text": "Glucose is preferentially stored as glycogen until the cells have stored as much glycogen as they can—an amount sufficient to supply the energy needs of the body for only 12 to 24 hours"
+  },
+  {
+   "pdfPage": 806,
+   "printedPage": "801",
+   "text": "Blood Glucose The normal blood glucose concentration in a person who has not eaten a meal within the past 3 to 4 hours is about 90 mg/dl"
+  },
+  {
+   "pdfPage": 806,
+   "printedPage": "801",
+   "text": "After a meal containing large amounts of carbohydrates, this level seldom rises above 140 mg/dl unless the person has diabetes mellitus, which is discussed in Chapter 79"
+  }
+ ],
+ "figureIds": [
+  "gh14-fig-68-01",
+  "gh14-fig-68-02",
+  "gh14-fig-68-03",
+  "gh14-fig-68-04",
+  "gh14-fig-68-05",
+  "gh14-fig-68-06",
+  "gh14-fig-68-07",
+  "gh14-fig-68-08"
+ ],
+ "estMinutes": 31,
+ "counts": {
+  "figures": 8,
+  "figuresIncluded": 8,
+  "terms": 43,
+  "words": 6282,
+  "unplacedInSummary": 8
+ },
+ "review": {
+  "reviewedBy": null,
+  "reviewedAt": null
+ },
+ "importedAt": "2026-11-14T13:59:02+00:00"
+}

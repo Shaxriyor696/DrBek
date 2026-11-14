@@ -1,0 +1,1318 @@
+{
+ "id": "ch07",
+ "topicId": "02",
+ "order": 4,
+ "titleUz": "Skelet muskulining qo'zg'alishi: nerv-muskul uzatilishi va qo'zg'alish-qisqarish bog'lanishi",
+ "titleOriginal": "Excitation of Skeletal Muscle: Neuromuscular Transmission and Excitation-Contraction Coupling",
+ "subtitle": "*Excitation of Skeletal Muscle: Neuromuscular Transmission and Excitation-Contraction Coupling* · II bo'lim · PDF 92–99 (kitob 87–94)",
+ "contentVersion": "2026-11-14.1",
+ "status": "in_review",
+ "translationStatus": "machine_assisted",
+ "source": {
+  "bookId": "guyton-hall-14",
+  "chapter": 7,
+  "unit": "II",
+  "pdfPages": [
+   92,
+   99
+  ],
+  "printedPages": [
+   87,
+   94
+  ],
+  "notesFile": "guyton-notes/ch07-excitation-of-skeletal-muscle-neuromuscular-transmission-and.md",
+  "summaryFile": "guyton-notes/summaries/ch07.md"
+ },
+ "pdfPages": [
+  92,
+  99
+ ],
+ "printedPages": [
+  87,
+  94
+ ],
+ "outline": [
+  {
+   "level": 1,
+   "title": "Neuromuscular Junction and Transmission of Impulses from Nerve Endings to Skeletal Muscle Fibers",
+   "pdfPage": 92,
+   "printedPage": "87",
+   "id": "ch07-h-neuromuscular-junction-and-transmission-of-impulses-from-ner"
+  },
+  {
+   "level": 2,
+   "title": "PHYSIOLOGIC ANATOMY OF THE NEUROMUSCULAR JUNCTION—THE MOTOR END PLATE",
+   "pdfPage": 92,
+   "printedPage": "87",
+   "id": "ch07-h-physiologic-anatomy-of-the-neuromuscular-junction-the-motor-"
+  },
+  {
+   "level": 2,
+   "title": "SECRETION OF ACETYLCHOLINE BY THE NERVE TERMINALS",
+   "pdfPage": 92,
+   "printedPage": "87",
+   "id": "ch07-h-secretion-of-acetylcholine-by-the-nerve-terminals"
+  },
+  {
+   "level": 3,
+   "title": "Acetylcholine Opens Ion Channels on Postsynaptic Membranes",
+   "pdfPage": 93,
+   "printedPage": "88",
+   "id": "ch07-h-acetylcholine-opens-ion-channels-on-postsynaptic-membranes"
+  },
+  {
+   "level": 3,
+   "title": "Destruction of the Released Acetylcholine by Acetylcholinesterase",
+   "pdfPage": 94,
+   "printedPage": "89",
+   "id": "ch07-h-destruction-of-the-released-acetylcholine-by-acetylcholinest"
+  },
+  {
+   "level": 3,
+   "title": "End Plate Potential and Excitation of the Skeletal Muscle Fiber",
+   "pdfPage": 94,
+   "printedPage": "89",
+   "id": "ch07-h-end-plate-potential-and-excitation-of-the-skeletal-muscle-fi"
+  },
+  {
+   "level": 3,
+   "title": "Safety Factor for Transmission at the Neuromuscular Junction—Fatigue of the Junction",
+   "pdfPage": 95,
+   "printedPage": "90",
+   "id": "ch07-h-safety-factor-for-transmission-at-the-neuromuscular-junction"
+  },
+  {
+   "level": 1,
+   "title": "Muscle Action Potential",
+   "pdfPage": 96,
+   "printedPage": "91",
+   "id": "ch07-h-muscle-action-potential"
+  },
+  {
+   "level": 2,
+   "title": "Action Potentials Spread to the Interior of the Muscle Fiber by Way of Transverse Tubules",
+   "pdfPage": 96,
+   "printedPage": "91",
+   "id": "ch07-h-action-potentials-spread-to-the-interior-of-the-muscle-fiber"
+  },
+  {
+   "level": 1,
+   "title": "Excitation-Contraction Coupling",
+   "pdfPage": 96,
+   "printedPage": "91",
+   "id": "ch07-h-excitation-contraction-coupling"
+  },
+  {
+   "level": 2,
+   "title": "Transverse Tubule–Sarcoplasmic Reticulum System",
+   "pdfPage": 96,
+   "printedPage": "91",
+   "id": "ch07-h-transverse-tubule-sarcoplasmic-reticulum-system"
+  },
+  {
+   "level": 2,
+   "title": "Release of Calcium Ions by the Sarcoplasmic Reticulum",
+   "pdfPage": 96,
+   "printedPage": "91",
+   "id": "ch07-h-release-of-calcium-ions-by-the-sarcoplasmic-reticulum"
+  },
+  {
+   "level": 3,
+   "title": "Calcium Pump Removes Calcium Ions from the Myofibrillar Fluid After Contraction Occurs",
+   "pdfPage": 96,
+   "printedPage": "91",
+   "id": "ch07-h-calcium-pump-removes-calcium-ions-from-the-myofibrillar-flui"
+  },
+  {
+   "level": 3,
+   "title": "Excitatory Pulse of Calcium Ions",
+   "pdfPage": 97,
+   "printedPage": "92",
+   "id": "ch07-h-excitatory-pulse-of-calcium-ions"
+  }
+ ],
+ "objectives": [
+  "Nerv-muskul birikmasining anatomiyasi",
+  "ACh sekretsiyasi",
+  "Postsinaptik membrana",
+  "Dorilar",
+  "Miasteniya gravis",
+  "Muskul AP si",
+  "Qo'zg'alish-qisqarish bog'lanishi",
+  "Xavfli gipertermiya"
+ ],
+ "blocks": {
+  "simple": [
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Asosiy g'oya",
+    "id": "ch07-s-0-asosiy-goya",
+    "bid": "ch07-u0"
+   },
+   {
+    "type": "paragraph",
+    "text": "Orqa miya oldingi shoxidagi yirik motoneyronning AP si **nerv-muskul birikmasi**da atsetilxolin (ACh) chiqarilishi orqali muskul tolasida AP ga aylanadi. Bu AP **T-naychalar** orqali tola ichiga kiradi va dihidropiridin–rianodin reseptorlari orqali SR dan Ca²⁺ chiqaradi — **qo'zg'alish-qisqarish bog'lanishi**.",
+    "bid": "ch07-u1"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Nerv-muskul birikmasining anatomiyasi (p.92, Fig. 7-1)",
+    "pdfPages": [
+     92,
+     92
+    ],
+    "id": "ch07-s-2-nerv-muskul-birikmasining-anatomiyasi-p-92-fig-7-1",
+    "bid": "ch07-u2"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Har nerv tolasi 3 dan bir necha yuzgacha muskul tolasini innervatsiya qiladi; birikma tola o'rtasida; ~2% dan tashqari har tolada bitta.",
+      "depth": 0
+     },
+     {
+      "text": "**Motor oxirgi plastinka** — muskul yuzasiga botgan nerv terminallari, Shvann hujayralari bilan qoplangan.",
+      "depth": 0
+     },
+     {
+      "text": "**Sinaptik ariqcha**, **sinaptik yoriq** 20–30 nm; tubida **subneyral burmalar** (yuzani oshiradi).",
+      "depth": 0
+     },
+     {
+      "text": "Terminalda mitoxondriyalar (ATP — ACh sintezi uchun); bitta plastinkada ~300 000 sinaptik pufakcha. Yoriqda **atsetilxolinesteraza** — ACh ni bir necha ms da parchalaydi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch07-u3"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-07-01",
+    "bid": "ch07-u4"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "ACh sekretsiyasi (p.92–94, Fig. 7-2)",
+    "pdfPages": [
+     92,
+     94
+    ],
+    "id": "ch07-s-5-ach-sekretsiyasi-p-92-94-fig-7-2",
+    "bid": "ch07-u5"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Har impulsda ~125 pufakcha bo'shaydi.",
+      "depth": 0
+     },
+     {
+      "text": "Nerv membranasining ichki yuzasida **zich chiziqlar**; ularning ikki tomonida **kuchlanishga bog'liq Ca²⁺ kanallari**. AP → Ca²⁺ kiradi → (taxminan) Ca²⁺-kalmodulin bog'liq proteinkinaza → **sinapsin**larni fosforlaydi → pufakchalar sitoskeletdan bo'shab **faol zonaga** borib, ekzotsitoz bilan bo'shaydi.",
+      "depth": 0
+     },
+     {
+      "text": "Bosqichlar (p.95): (1) ~40 nm pufakchalar motoneyron tanasidagi Goljida hosil bo'lib akson bo'ylab oqim bilan keladi; (2) ACh terminal sitozolida sintezlanib pufakchalarga to'planadi (~10 000 molekula/pufakcha); (3) AP terminal ichida Ca²⁺ ni ~100 baravar oshiradi → pufakcha birlashish tezligi ~10 000 baravar ortadi; (4) bir necha ms da ACh esteraza bilan **atsetat + xolin**ga parchalanadi, xolin qayta so'rilib ishlatiladi (butun ketma-ketlik 5–10 ms). Zaxira bir necha ming impulsga yetadi; yangi pufakchalar **klatrinli qoplangan chuqurchalar** orqali ~20 s da hosil bo'ladi.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch07-u6"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-07-02",
+    "bid": "ch07-u7"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Postsinaptik membrana (p.93–94, Fig. 7-3)",
+    "pdfPages": [
+     93,
+     94
+    ],
+    "id": "ch07-s-8-postsinaptik-membrana-p-93-94-fig-7-3",
+    "bid": "ch07-u8"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**ACh reseptori** — MW ~275 000; homilada 2α, β, δ, γ; kattalarda γ o'rniga **ε**. Ikki ACh ikki α subbirlikka bog'langanda kanal ochiladi: diametri ~0,65 nm, Na⁺, K⁺, Ca²⁺ o'tadi; og'zidagi manfiy zaryadlar Cl⁻ ni o'tkazmaydi. Bitta kanal 1 ms da 15 000–30 000 Na⁺ o'tkazadi.",
+      "depth": 0
+     },
+     {
+      "text": "Asosan Na⁺ kiradi: ECF da Na⁺ ko'p va ichki −80...−90 mV Na⁺ ni tortib K⁺ chiqishiga to'sqinlik qiladi.",
+      "depth": 0
+     },
+     {
+      "text": "**Oxirgi plastinka potensiali (EPP)**: +50–75 mV mahalliy siljish; 20–30 mV dan ortiq ko'tarilish odatda AP ni boshlash uchun yetarli (Fig. 7-4).",
+      "depth": 0
+     },
+     {
+      "text": "EPP zaiflashuvi: **kurare** (ACh bilan reseptor uchun raqobat), **botulin toksini** (ACh chiqishini kamaytiradi).",
+      "depth": 0
+     },
+     {
+      "text": "**Xavfsizlik omili**: EPP kerakligidan ~3 baravar katta. >100 Hz da bir necha daqiqa qo'zg'atilsa pufakchalar tugaydi — **birikma charchoqi** (amalda faqat eng og'ir ishda).",
+      "depth": 0
+     }
+    ],
+    "bid": "ch07-u9"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-07-04",
+    "bid": "ch07-u10"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-07-03",
+    "bid": "ch07-u11"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Dorilar (p.95)",
+    "pdfPages": [
+     95,
+     95
+    ],
+    "id": "ch07-s-12-dorilar-p-95",
+    "bid": "ch07-u12"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**ACh ga o'xshash** (esteraza parchalamaydi yoki sekin): metaxolin, karbaxol, **nikotin** → uzoq depolyarizatsiya, spazm.",
+      "depth": 0
+     },
+     {
+      "text": "**Antixolinesterazalar**: **neostigmin**, **fizostigmin** (bir necha soat), **diizopropil-ftorfosfat** (nerv gazi, haftalab) → ACh to'planadi, spazm, laringospazm bilan o'lim.",
+      "depth": 0
+     },
+     {
+      "text": "**Kurare-simon** blokatorlar: **d-tubokurarin**.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch07-u13"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Miasteniya gravis (p.96)",
+    "pdfPages": [
+     96,
+     96
+    ],
+    "id": "ch07-s-14-miasteniya-gravis-p-96",
+    "bid": "ch07-u14"
+   },
+   {
+    "type": "paragraph",
+    "text": "~1/20 000 kishida. ACh reseptorlariga qarshi **autoantitelolar** → EPP Na⁺ kanallarini ochishga yetmaydi → zaiflik; og'ir holda nafas muskullari tufayli o'lim. **Neostigmin** bir necha soatga yaxshilaydi.",
+    "bid": "ch07-u15"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Muskul AP si (p.96)",
+    "pdfPages": [
+     96,
+     96
+    ],
+    "id": "ch07-s-16-muskul-ap-si-p-96",
+    "bid": "ch07-u16"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "Tinchlik potensiali −80...−90 mV (neyrondan 10–20 mV manfiyroq).",
+      "depth": 0
+     },
+     {
+      "text": "AP davomiyligi 1–5 ms (yirik miyelinli nervdan ~5 baravar uzun).",
+      "depth": 0
+     },
+     {
+      "text": "O'tkazish tezligi 3–5 m/s (yirik miyelinli nervning ~1/13 qismi).",
+      "depth": 0
+     }
+    ],
+    "bid": "ch07-u17"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Qo'zg'alish-qisqarish bog'lanishi (p.96–98, Fig. 7-5 – 7-7)",
+    "pdfPages": [
+     96,
+     98
+    ],
+    "id": "ch07-s-18-qozgalish-qisqarish-boglanishi-p-96-98-fig-7-5-7-7",
+    "bid": "ch07-u18"
+   },
+   {
+    "type": "list",
+    "ordered": false,
+    "items": [
+     {
+      "text": "**T-naychalar** — hujayra membranasining ichki davomlari, tashqi suyuqlikka ochiq; tolani ko'ndalang kesib o'tadi va tarmoqlanadi. Qurbaqada sarkomerga 1 ta (Z diskda), sutemizuvchilar yuragida ham shunday; sutemizuvchilar skelet muskulida sarkomerga 2 ta (A–I chegarasida).",
+      "depth": 0
+     },
+     {
+      "text": "**SR**: T-naychaga tegib turgan **terminal sisternalar** + miofibrillalarni o'rab olgan bo'ylama naychalar.",
+      "depth": 0
+     },
+     {
+      "text": "T-naycha AP → kuchlanish sensori **dihidropiridin (DHP) reseptorlari** → SR dagi **rianodin reseptori (RyR)** Ca²⁺ chiqarish kanallari ochiladi (bir necha ms) → Ca²⁺ sarkoplazmaga.",
+      "depth": 0
+     },
+     {
+      "text": "**SERCA** (SR Ca²⁺-ATPaza) Ca²⁺ ni ~10 000 baravar konsentratsiyalaydi; ichkarida **kalsekvestrin** (bir molekula 40 tagacha Ca²⁺).",
+      "depth": 0
+     },
+     {
+      "text": "**Ca²⁺ impulsi**: tinchlikda <10⁻⁷ M (qisqarishga yetmaydi); qo'zg'alishda 2 × 10⁻⁴ M gacha (~500 baravar, maksimal qisqarish uchun kerakligidan ~10 baravar ko'p). Skelet muskulida ~1/20 s; yurakda ~1/3 s (uzun AP). Uzoq qisqarish uchun qator AP lar kerak.",
+      "depth": 0
+     }
+    ],
+    "bid": "ch07-u19"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-07-05",
+    "bid": "ch07-u20"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-07-07",
+    "placement": "by_page_range",
+    "bid": "ch07-u21"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-07-06",
+    "placement": "by_page_range",
+    "bid": "ch07-u22"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Xavfli gipertermiya (p.97–99)",
+    "pdfPages": [
+     97,
+     99
+    ],
+    "id": "ch07-s-23-xavfli-gipertermiya-p-97-99",
+    "bid": "ch07-u23"
+   },
+   {
+    "type": "paragraph",
+    "text": "Moyil odamlarda **galotan, izofluran** yoki **suksinilxolin** qo'zg'atadi; kamida 6 mutatsiya, ayniqsa RyR va DHP reseptorlari genlarida → SR dan nazoratsiz Ca²⁺ chiqishi → kuchli qisqarish, metabolizm keskin oshadi, issiqlik, hujayra atsidozi, energiya tugashi. Belgilar: mushak rigidligi, yuqori isitma, taxikardiya; og'ir holda **rabdomioliz** va **giperkaliyemiya**. Davo: tez sovutish va **dantrolen** (RyR antagonisti).",
+    "bid": "ch07-u24"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "Bog'liqlik",
+    "id": "ch07-s-25-bogliqlik",
+    "bid": "ch07-u25"
+   },
+   {
+    "type": "paragraph",
+    "text": "AP → 5-bob; aktin-miozin mexanizmi → 6-bob; yurakda Ca²⁺ ning T-naychalardan ham kirishi → 9-bob; MNS sinapslari va charchoqi → 46-bob; avtonom mediatorlar → 61-bob.",
+    "bid": "ch07-u26"
+   }
+  ],
+  "full": [
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "NEUROMUSCULAR JUNCTION AND TRANSMISSION OF IMPULSES FROM NERVE ENDINGS TO SKELETAL MUSCLE FIBERS",
+    "pdfPage": 92,
+    "id": "ch07-h-neuromuscular-junction-and-transmission-of-impulses-from-ner",
+    "bid": "ch07-f0"
+   },
+   {
+    "type": "paragraph",
+    "text": "Skeletal muscle fibers are innervated by large myelinated nerve fibers that originate from large motoneurons in the anterior horns of the spinal cord. As discussed in Chap ter 6, each nerve fiber, after entering the muscle belly, normally branches and stimulates from three to several hundred skeletal muscle fibers. Each nerve ending makes a junction, called the _neuromuscular junction_, with the muscle fiber near its midpoint. The action potential initi ated in the muscle fiber by the nerve signal travels in both directions toward the muscle fiber ends. With the excep tion of about 2% of the muscle fibers, there is only one such junction per muscle fiber.",
+    "pdfPage": 92,
+    "bid": "ch07-f1"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "PHYSIOLOGIC ANATOMY OF THE NEUROMUSCULAR JUNCTION—THE MOTOR END PLATE",
+    "pdfPage": 92,
+    "id": "ch07-h-physiologic-anatomy-of-the-neuromuscular-junction-the-motor-",
+    "bid": "ch07-f2"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 7-1A** and **B** shows the neuromuscular junction from a large myelinated nerve fiber to a skeletal muscle fiber. The nerve fiber forms a complex of _branching nerve terminals_ that invaginate into the surface of the muscle fiber but lie outside the muscle fiber plasma membrane. The entire structure is called the _motor end plate._ It is cov ered by one or more Schwann cells that insulate it from the surrounding fluids.",
+    "pdfPage": 92,
+    "bid": "ch07-f3"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-07-01",
+    "bid": "ch07-f4"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 7-1C** shows the junction between a single axon terminal and the muscle fiber membrane. The invaginated membrane is called the _synaptic gutter_ or _synaptic trough_, and the space between the terminal and the fiber mem brane is called the _synaptic space_ or _synaptic cleft,_ which is 20 to 30 nanometers wide. At the bottom of the gut ter are numerous smaller _folds_ of the muscle membrane called _subneural clefts_, which greatly increase the surface area at which the synaptic transmitter can act.",
+    "pdfPage": 92,
+    "bid": "ch07-f5"
+   },
+   {
+    "type": "paragraph",
+    "text": "In the axon terminal are many mitochondria that sup ply adenosine triphosphate (ATP), the energy source used for synthesis of a transmitter, _acetylcholine,_ which excites the muscle fiber membrane. Acetylcholine is synthesized in the cytoplasm of the terminal but is absorbed rap idly into many small _synaptic vesicles_, about 300,000 of which are normally in the terminals of a single end plate. In the synaptic space are large quantities of the enzyme _acetylcholinesterase_, which destroys acetylcholine a few milliseconds after it has been released from the synaptic vesicles.",
+    "pdfPage": 92,
+    "bid": "ch07-f6"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "SECRETION OF ACETYLCHOLINE BY THE NERVE TERMINALS",
+    "pdfPage": 92,
+    "id": "ch07-h-secretion-of-acetylcholine-by-the-nerve-terminals",
+    "bid": "ch07-f7"
+   },
+   {
+    "type": "paragraph",
+    "text": "When a nerve impulse reaches the neuromuscular junc tion, about 125 vesicles of acetylcholine are released from the terminals into the synaptic space. Some of the details of this mechanism can be seen in **Figure 7-2**, which shows an expanded view of a synaptic space with the neu ral membrane above and the muscle membrane and its subneural clefts below.",
+    "pdfPage": 92,
+    "bid": "ch07-f8"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-07-02",
+    "bid": "ch07-f9"
+   },
+   {
+    "type": "paragraph",
+    "text": "On the inside surface of the neural membrane are lin ear _dense bars_, shown in cross section in **Figure 7-2**. To each side of each dense bar are protein particles that pen etrate the neural membrane; these are _voltage-gated cal cium channels_. When an action potential spreads over the terminal, these channels open and allow calcium ions to diffuse from the synaptic space to the interior of the nerve terminal. The calcium ions, in turn, are believed to acti vate _Ca2+-calmodulin–dependent protein kinase_, which, in turn, phosphorylates _synapsin_ proteins that anchor the acetylcholine vesicles to the cytoskeleton of the pre synaptic terminal. This process frees the acetylcholine vesicles from the cytoskeleton and allows them to move to the _active zone_ of the presynaptic neural membrane adjacent to the dense bars. The vesicles then dock at the release sites, fuse with the neural membrane, and empty their acetylcholine into the synaptic space by the process of _exocytosis_.",
+    "pdfPage": 92,
+    "bid": "ch07-f10"
+   },
+   {
+    "type": "paragraph",
+    "text": "Although some of the aforementioned details are spec ulative, it is known that the effective stimulus for causing acetylcholine release from the vesicles is entry of calcium ions and that acetylcholine from the vesicles is then emp tied through the neural membrane adjacent to the dense bars.",
+    "pdfPage": 92,
+    "bid": "ch07-f11"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 7-2** also shows many small _acetyl choline receptors_ and _voltage-gated sodium channels_ in the muscle fiber membrane. The _acetylcholine-gated ion channels_ are located almost entirely near the mouths of the subneural clefts lying immediately below the dense bar areas, where the acetylcholine is emptied into the syn aptic space. The voltage-gated sodium channels also line the subneural clefts.",
+    "pdfPage": 93,
+    "lead": "Acetylcholine Opens Ion Channels on Postsynaptic Membranes.",
+    "anchor": "ch07-h-acetylcholine-opens-ion-channels-on-postsynaptic-membranes",
+    "bid": "ch07-f12"
+   },
+   {
+    "type": "paragraph",
+    "text": "Each acetylcholine receptor is a protein complex that has a total molecular weight of approximately 275,000. The fetal acetylcholine receptor complex is composed of five subunit proteins, two _alpha_ proteins and one each of _beta, delta_, and _gamma_ proteins. In the adult, an _epsilon_ protein substitutes for the gamma protein in this recep tor complex. These protein molecules penetrate all the way through the membrane, lying side by side in a circle to form a tubular channel, illustrated in **Figure 7-3**. The channel remains constricted, as shown in part A of the figure, until two acetylcholine molecules attach respec tively to the two _alpha_ subunit proteins. This attachment causes a conformational change that opens the channel, as shown in part B of the figure.",
+    "pdfPage": 93,
+    "bid": "ch07-f13"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-07-03",
+    "bid": "ch07-f14"
+   },
+   {
+    "type": "paragraph",
+    "text": "The acetylcholine-gated channel has a diameter of about 0.65 nanometer, which is large enough to allow the important positive ions—sodium (Na+), potassium (K+), and calcium (Ca2+)—to move easily through the opening. Patch clamp studies have shown that one of these chan nels, when opened by acetylcholine, can transmit 15,000 to 30,000 sodium ions in 1 millisecond. Conversely, nega tive ions, such as chloride ions, do not pass through because of strong negative charges in the mouth of the channel that repel these negative ions.",
+    "pdfPage": 93,
+    "bid": "ch07-f15"
+   },
+   {
+    "type": "paragraph",
+    "text": "In practice, far more sodium ions flow through the acetylcholine-gated channels than any other ions for two reasons. First, there are only two positive ions present in large concentrations—sodium ions in the extracellular fluid and potassium ions in the intracel lular fluid. Second, the negative potential on the inside of the muscle membrane, −80 to −90 millivolts, pulls the positively charged sodium ions to the inside of the fiber while simultaneously preventing efflux of the pos itively charged potassium ions when they attempt to pass outward.",
+    "pdfPage": 94,
+    "bid": "ch07-f16"
+   },
+   {
+    "type": "paragraph",
+    "text": "As shown in **Figure 7-3B**, the principal effect of open ing the acetylcholine-gated channels is to allow sodium ions to flow to the inside of the fiber, carrying positive charges with them. This action creates a local positive potential change inside the muscle fiber membrane, called the _end plate potential._ This end plate potential normally causes sufficient depolarization to open neighboring voltage-gated sodium channels, allowing even greater sodium ion inflow and initiating an action potential that spreads along the muscle membrane and causes muscle contraction.",
+    "pdfPage": 94,
+    "bid": "ch07-f17"
+   },
+   {
+    "type": "paragraph",
+    "text": "The acetylcholine, once released into the synaptic space, continues to activate acetylcholine re ceptors as long as the acetylcholine persists in the space. However, it is rapidly destroyed by the enzyme _acetylcho linesterase_, which is attached mainly to the spongy layer of fine connective tissue that fills the synaptic space be tween the presynaptic nerve terminal and the postsynap tic muscle membrane. A small amount of acetylcholine diffuses out of the synaptic space and is then no longer available to act on the muscle fiber membrane.",
+    "pdfPage": 94,
+    "lead": "Destruction of the Released Acetylcholine by Acetylcholinesterase.",
+    "anchor": "ch07-h-destruction-of-the-released-acetylcholine-by-acetylcholinest",
+    "bid": "ch07-f18"
+   },
+   {
+    "type": "paragraph",
+    "text": "The short time that the acetylcholine remains in the synaptic space—a few milliseconds at most—normally is sufficient to excite the muscle fiber. Then the rapid removal of the acetylcholine prevents continued muscle re-excitation after the muscle fiber has recovered from its initial action potential.",
+    "pdfPage": 94,
+    "bid": "ch07-f19"
+   },
+   {
+    "type": "paragraph",
+    "text": "The sudden insurgence of sodium ions into the muscle fiber when the acetylcholine-gated chan nels open causes the electrical potential inside the fiber at the _local area of the end plate_ to increase in the positive direction as much as 50 to 75 millivolts, creating a _local potential_ called the _end plate potential_. Recall from Chap ter 5 that a sudden increase in nerve membrane potential of more than 20 to 30 millivolts is normally sufficient to initiate more and more sodium channel opening, thus ini tiating an action potential at the muscle fiber membrane.",
+    "pdfPage": 94,
+    "lead": "End Plate Potential and Excitation of the Skeletal Muscle Fiber.",
+    "anchor": "ch07-h-end-plate-potential-and-excitation-of-the-skeletal-muscle-fi",
+    "bid": "ch07-f20"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 7-4** illustrates an end plate potential initiat ing the action potential. This figure shows three separate end plate potentials. End plate potentials A and C are too weak to elicit an action potential, but they do pro duce weak local end plate voltage changes, as recorded in the figure. By contrast, end plate potential B is much stronger and causes enough sodium channels to open so that the self-regenerative effect of more and more sodium ions flowing to the interior of the fiber initiates an action potential. The weakness of the end plate potential at point A was caused by poisoning of the muscle fiber with _curare_, a drug that blocks the gating action of ace tylcholine on the acetylcholine channels by competing for the acetylcholine receptor sites. The weakness of the end plate potential at point C resulted from the effect of _botu linum toxin_, a bacterial poison that decreases the quantity of acetylcholine release by the nerve terminals.",
+    "pdfPage": 94,
+    "pdfPageEnd": 95,
+    "bid": "ch07-f21"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-07-04",
+    "bid": "ch07-f22"
+   },
+   {
+    "type": "paragraph",
+    "text": "Ordinarily, each impulse that arrives at the neuromuscular junction causes about three times as much end plate potential as that required to stimulate the muscle fiber. Therefore, the normal neuromuscular junction is said to have a high _safety factor_. However, stimulation of the nerve fiber at rates greater than 100 times per second for several min utes may diminish the number of acetylcholine vesicles so much that impulses fail to pass into the muscle fiber. This situation is called _fatigue_ of the neuromuscular junction, and it is the same effect that causes fatigue of synapses in the central nervous system when the synapses are overex cited. Under normal functioning conditions, measurable fatigue of the neuromuscular junction occurs rarely and, even then, only at the most exhausting levels of muscle activity.",
+    "pdfPage": 95,
+    "lead": "Safety Factor for Transmission at the Neuromuscular Junction—Fatigue of the Junction.",
+    "anchor": "ch07-h-safety-factor-for-transmission-at-the-neuromuscular-junction",
+    "bid": "ch07-f23"
+   },
+   {
+    "type": "paragraph",
+    "text": "Acetylcholine formation and release at the neuromuscular junction occur in the following stages: 1. \u0007Small vesicles, about 40 nanometers in size, are formed by the Golgi apparatus in the cell body of the motoneu ron in the spinal cord. These vesicles are then trans ported by axoplasm that streams through the core of the axon from the central cell body in the spinal cord all the way to the neuromuscular junction at the tips of the peripheral nerve fibers. About 300,000 of these small vesicles collect in the nerve terminals of a single skeletal muscle end plate. 2. \u0007Acetylcholine is synthesized in the cytosol of the nerve fiber terminal but is immediately transported through the membranes of the vesicles to their interior, where it is stored in highly concentrated form—about 10,000 molecules of acetylcholine in each vesicle. 3. \u0007When an action potential arrives at the nerve terminal, it opens many _calcium channels_ in the membrane of the nerve terminal because this terminal has an abundance of voltage-gated calcium channels. As a result, the cal cium ion concentration inside the terminal membrane increases about 100-fold, which in turn increases the rate of fusion of the acetylcholine vesicles with the ter minal membrane about 10,000-fold. This fusion makes many of the vesicles rupture, allowing _exocytosis_ of ace tylcholine into the synaptic space. About 125 vesicles usually rupture with each action potential. Then, after a few milliseconds, the acetylcholine is split by acetylcho linesterase into acetate ion and choline, and the choline is actively reabsorbed into the neural terminal to be re used to form new acetylcholine. This sequence of events occurs within a period of 5 to 10 milliseconds. 4. \u0007The number of vesicles available in the nerve ending is sufficient to allow transmission of only a few thousand nerve to muscle impulses. Therefore, for continued function of the neuromuscular junction, new vesicles need to be re-formed rapidly. Within a few seconds after each action potential is over, coated pits appear in the terminal nerve membrane, caused by contractile pro teins in the nerve ending, especially the protein _clathrin_, which is attached to the membrane in the areas of the original vesicles. Within about 20 seconds, the proteins contract and cause the pits to break away to the interior of the membrane, thus forming new vesicles. Within another few seconds, acetylcholine is transported to the interior of these vesicles, and they are then ready for a new cycle of acetylcholine release.",
+    "pdfPage": 95,
+    "boxed": true,
+    "bid": "ch07-f24"
+   },
+   {
+    "type": "paragraph",
+    "text": "Several compounds, including _methacholine, carbachol_, and _nicotine_, have nearly the same effect on the muscle fiber as acetylcholine. The main differences be tween these drugs and acetylcholine are that the drugs are not destroyed by cholinesterase or are destroyed so slowly that their action often persists for many minutes to several hours. The drugs work by causing localized areas of depo larization of the muscle fiber membrane at the motor end plate where the acetylcholine receptors are located. Then, every time the muscle fiber recovers from a previous con traction, these depolarized areas, by virtue of leaking ions, initiate a new action potential, thereby causing a state of muscle spasm.",
+    "pdfPage": 95,
+    "lead": "Drugs That Stimulate the Muscle Fiber by Acetylcholine-Like Action.",
+    "boxed": true,
+    "bid": "ch07-f25"
+   },
+   {
+    "type": "paragraph",
+    "text": "Three particularly well-known drugs—_neostigmine, physostigmine_, and _diiso propyl fluorophosphate_—inactivate acetylcholinesterase in the synapses so that it no longer hydrolyzes acetylcholine. Therefore, with each successive nerve impulse, additional acetylcholine accumulates and stimulates the muscle fiber repetitively. This activity causes _muscle spasm_ when even a few nerve impulses reach the muscle. Unfortunately, it can also cause death as a result of laryngeal spasm, which smothers a person.",
+    "pdfPage": 95,
+    "lead": "Drugs That Stimulate the Neuromuscular Junction by Inactivating Acetylcholinesterase.",
+    "boxed": true,
+    "bid": "ch07-f26"
+   },
+   {
+    "type": "paragraph",
+    "text": "Neostigmine and physostigmine combine with acetyl cholinesterase to inactivate the acetylcholinesterase for up to several hours, after which these drugs are displaced from the acetylcholinesterase so that the esterase once again be comes active. Conversely, diisopropyl fluorophosphate, which is a powerful nerve gas poison, inactivates acetylcho linesterase for weeks, which makes this poison particularly lethal.",
+    "pdfPage": 95,
+    "boxed": true,
+    "bid": "ch07-f27"
+   },
+   {
+    "type": "paragraph",
+    "text": "A group of drugs known as _curariform drugs_ can prevent the passage of impulses from the nerve ending into the muscle. For example. d-tubocurarine blocks the action of acetylcholine on the muscle fiber acetylcholine receptors, thus preventing sufficient increase in permeability of the muscle membrane channels to initiate an action potential.",
+    "pdfPage": 95,
+    "lead": "Drugs That Block Transmission at the Neuromuscular Junction.",
+    "boxed": true,
+    "bid": "ch07-f28"
+   },
+   {
+    "type": "paragraph",
+    "text": "_Myasthenia gravis_, which occurs in about 1 in every 20,000 persons, causes muscle weakness because of the inability of the neuromuscular junctions to transmit enough signals from the nerve fibers to the muscle fibers. Antibodies that attack the acetylcholine receptors have been demonstrat ed in the blood of most patients with myasthenia gravis. Therefore, myasthenia gravis is believed to be an autoim mune disease in which the patients have developed anti bodies that block or destroy their own acetylcholine recep tors at the postsynaptic neuromuscular junction.",
+    "pdfPage": 96,
+    "boxed": true,
+    "bid": "ch07-f29"
+   },
+   {
+    "type": "paragraph",
+    "text": "Regardless of the cause, the end plate potentials that occur in the muscle fibers are mostly too weak to initiate opening of the voltage-gated sodium channels, and muscle fiber depolarization does not occur. If the disease is intense enough, the patient may die of respiratory failure as a result of severe weakness of the respiratory muscles. The disease can usually be ameliorated for several hours by adminis tering _neostigmine_ or some other anticholinesterase drug, which allows larger than normal amounts of acetylcholine to accumulate in the synaptic space. Within minutes, some of those affected can begin to function almost normally un til a new dose of neostigmine is required a few hours later.",
+    "pdfPage": 96,
+    "boxed": true,
+    "bid": "ch07-f30"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "MUSCLE ACTION POTENTIAL",
+    "pdfPage": 96,
+    "id": "ch07-h-muscle-action-potential",
+    "bid": "ch07-f31"
+   },
+   {
+    "type": "paragraph",
+    "text": "Almost everything discussed in Chapter 5 regarding the initiation and conduction of action potentials in nerve fibers applies equally to skeletal muscle fibers, except for quantitative differences. Some of the quantitative aspects of muscle potentials are as follows: 1. \u0007The resting membrane potential is about −80 to −90 millivolts in skeletal fibers, about 10 to 20 millivolts more negative than in neurons. 2. \u0007The duration of the action potential is 1 to 5 mil liseconds in skeletal muscle, about five times as long as in large myelinated nerves. 3. \u0007The velocity of conduction is 3 to 5 m/sec, about 1/13 the velocity of conduction in the large myeli nated nerve fibers that excite skeletal muscle.",
+    "pdfPage": 96,
+    "bid": "ch07-f32"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "Action Potentials Spread to the Interior of the Muscle Fiber by Way of Transverse Tubules",
+    "pdfPage": 96,
+    "id": "ch07-h-action-potentials-spread-to-the-interior-of-the-muscle-fiber",
+    "bid": "ch07-f33"
+   },
+   {
+    "type": "paragraph",
+    "text": "The skeletal muscle fiber is so large that action poten tials spreading along its surface membrane cause almost no current flow deep within the fiber. Maximum muscle contraction, however, requires the current to penetrate deeply into the muscle fiber to the vicinity of the separate myofibrils. This penetration is achieved by transmission of action potentials along _transverse tubules_ (T tubules) that penetrate all the way through the muscle fiber, from one side of the fiber to the other, as illustrated in **Figure 7-5**. The T tubule action poten tials cause release of calcium ions inside the muscle fiber in the immediate vicinity of the myofibrils, and these calcium ions then cause contraction. The overall process is called _excitation-contraction_ coupling.",
+    "pdfPage": 96,
+    "bid": "ch07-f34"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-07-05",
+    "bid": "ch07-f35"
+   },
+   {
+    "type": "heading",
+    "level": 2,
+    "text": "EXCITATION-CONTRACTION COUPLING",
+    "pdfPage": 96,
+    "id": "ch07-h-excitation-contraction-coupling",
+    "bid": "ch07-f36"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "Transverse Tubule–Sarcoplasmic Reticulum System",
+    "pdfPage": 96,
+    "id": "ch07-h-transverse-tubule-sarcoplasmic-reticulum-system",
+    "bid": "ch07-f37"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 7-5** shows myofibrils surrounded by the T tubule– sarcoplasmic reticulum system. The T tubules are small and run transverse to the myofibrils. They begin at the cell membrane and penetrate all the way from one side of the muscle fiber to the opposite side. Not shown in the figure is that these tubules branch among themselves and form entire _planes_ of T tubules interlacing among all the separate myofibrils. Also, _where the T tubules originate from the cell membrane, they are open to the exterior of the muscle fiber._ Therefore, they communicate with the extracellular fluid surrounding the muscle fiber and con tain extracellular fluid in their lumens. In other words, _the T tubules are actually internal extensions of the cell mem brane_. Therefore, when an action potential spreads over a muscle fiber membrane, a potential change also spreads along the T tubules to the deep interior of the muscle fiber. The electrical currents surrounding these T tubules then elicit the muscle contraction.",
+    "pdfPage": 96,
+    "bid": "ch07-f38"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figure 7-5** also shows a sarcoplasmic _reticulum_, in yellow. This sarcoplasmic reticulum is composed of two major parts: (1) large chambers called _terminal cisternae_ that abut the T tubules; and (2) long longitudinal tubules that surround all surfaces of the contracting myofibrils.",
+    "pdfPage": 96,
+    "bid": "ch07-f39"
+   },
+   {
+    "type": "heading",
+    "level": 3,
+    "text": "Release of Calcium Ions by the Sarcoplasmic Reticulum",
+    "pdfPage": 96,
+    "id": "ch07-h-release-of-calcium-ions-by-the-sarcoplasmic-reticulum",
+    "bid": "ch07-f40"
+   },
+   {
+    "type": "paragraph",
+    "text": "One of the special features of the sarcoplasmic reticulum is that within its vesicular tubules is an excess of calcium ions in high concentration. Many of these ions are released from each vesicle when an action potential occurs in the adjacent T tubule.",
+    "pdfPage": 96,
+    "bid": "ch07-f41"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Figures 7-6 and 7-7** show that the action potential of the T tubule causes current flow into the sarcoplasmic reticular cisternae where they abut the T tubule. As the action potential reaches the T tubule, the voltage change is sensed by dihydropyridine _receptors_ linked to _calcium release channels_, also called _ryanodine receptor channels_, in the adjacent sarcoplasmic reticular cisternae (see **Fig ure 7-6**). Activation of dihydropyridine receptors triggers the opening of the calcium release channels in the cister nae, as well as in their attached longitudinal tubules. These channels remain open for a few milliseconds, releasing calcium ions into the sarcoplasm surrounding the myo fibrils and causing contraction, as discussed in Chapter 6.",
+    "pdfPage": 96,
+    "bid": "ch07-f42"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-07-06",
+    "bid": "ch07-f43"
+   },
+   {
+    "type": "figure",
+    "imageId": "gh14-fig-07-07",
+    "bid": "ch07-f44"
+   },
+   {
+    "type": "paragraph",
+    "text": "Once the calcium ions have been released from the sarcoplasmic tubules and have diffused among the myofibrils, muscle contraction continues as long as the calcium ion concen tration remains high. However, a continually active calcium pump located in the walls of the sarcoplasmic reticulum pumps calcium ions away from the myofibrils back into the sarcoplasmic tubules (see **Figure 7-6**). This pump, called SERCA (**s**arcoplasmic **r**eticulum **C**a2+-**A**TPase), can concentrate the calcium ions about 10,000-fold inside the tubules. In addition, inside the reticulum is a _calciumbinding protein_ called _calsequestrin,_ which can bind up to 40 calcium ions for each molecule of calsequestrin.",
+    "pdfPage": 96,
+    "lead": "Calcium Pump Removes Calcium Ions from the Myofibrillar Fluid After Contraction Occurs.",
+    "pdfPageEnd": 97,
+    "anchor": "ch07-h-calcium-pump-removes-calcium-ions-from-the-myofibrillar-flui",
+    "bid": "ch07-f45"
+   },
+   {
+    "type": "paragraph",
+    "text": "The normal resting state concentration (<10−7 molar) of calcium ions in the cytosol that bathes the myofibrils is too little to elicit con traction. Therefore, the troponin-tropomyosin complex keeps the actin filaments inhibited and maintains a re laxed state of the muscle.",
+    "pdfPage": 97,
+    "lead": "Excitatory Pulse of Calcium Ions.",
+    "anchor": "ch07-h-excitatory-pulse-of-calcium-ions",
+    "bid": "ch07-f46"
+   },
+   {
+    "type": "paragraph",
+    "text": "Conversely, full excitation of the T tubule and sar coplasmic reticulum system causes enough release of calcium ions to increase the concentration in the myo fibrillar fluid to as high as 2 × 10−4 molar concentration, a 500-fold increase, which is about 10 times the level required to cause maximum muscle contraction. Imme diately thereafter, the calcium pump depletes the calcium ions again. The total duration of this calcium pulse in the usual skeletal muscle fiber lasts about 1/20 of a second, although it may last several times as long in some fibers and several times less in others. In heart muscle, the cal cium pulse lasts about one-third of a second because of the long duration of the cardiac action potential.",
+    "pdfPage": 97,
+    "bid": "ch07-f47"
+   },
+   {
+    "type": "paragraph",
+    "text": "During this calcium pulse, muscle contraction occurs. If the contraction is to continue without interruption for long intervals, a series of calcium pulses must be initiated by a continuous series of repetitive action potentials, as discussed in Chapter 6.",
+    "pdfPage": 97,
+    "bid": "ch07-f48"
+   },
+   {
+    "type": "paragraph",
+    "text": "In susceptible individuals, _malignant hyperthermia_ and a _hypermetabolic crisis_ may be triggered by exposure to certain types of anesthetics, including halothane and iso flurane, or succinylcholine. At least six genetic mutations, especially of the ryanodine receptor or dihydropyridine receptor genes, have been shown to increase susceptibil ity greatly to developing malignant hyperthermia during anesthesia. Little is known about the specific mechanisms whereby anesthetics interact with these abnormal recep tors to trigger malignant hyperthermia. It is known, how ever, that these mutations cause unregulated passage of cal cium from the sarcoplasmic reticulum into the intracellular spaces, which in turn causes the muscle fibers to contract excessively. These sustained muscled contractions greatly increase metabolic rate, generating large amounts of heat and causing cellular acidosis, as a well as depletion of en ergy stores.",
+    "pdfPage": 97,
+    "boxed": true,
+    "pdfPageEnd": 99,
+    "bid": "ch07-f49"
+   },
+   {
+    "type": "paragraph",
+    "text": "Symptoms of malignant include muscle rigidity, high fever, and rapid heart rate. Additional complications in se vere cases may include rapid breakdown of skeletal muscle (_rhabdomyolysis_) and a high plasma potassium level due to release of large amounts of potassium from damaged muscle cells. Treatment of malignant hyperthermia gener ally involves rapid cooling and the administration of _dant rolene_, a drug that antagonizes ryanodine receptors, which inhibits calcium ion release for the sarcoplasmic reticulum and thereby attenuating muscle contraction.",
+    "pdfPage": 99,
+    "boxed": true,
+    "bid": "ch07-f50"
+   }
+  ]
+ },
+ "glossary": [
+  {
+   "id": "ch07-t-nerv-muskul-birikmasi",
+   "termUz": "nerv-muskul birikmasi",
+   "original": null,
+   "contextUz": "Orqa miya oldingi shoxidagi yirik motoneyronning AP si nerv-muskul birikmasida atsetilxolin (ACh) chiqarilishi orqali muskul tolasida AP ga aylanadi.",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-t-naychalar",
+   "termUz": "T-naychalar",
+   "original": null,
+   "contextUz": "Bu AP T-naychalar orqali tola ichiga kiradi va dihidropiridin–rianodin reseptorlari orqali SR dan Ca²⁺ chiqaradi — qo'zg'alish-qisqarish bog'lanishi.",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-qozgalish-qisqarish-boglanishi",
+   "termUz": "qo'zg'alish-qisqarish bog'lanishi",
+   "original": null,
+   "contextUz": "Bu AP T-naychalar orqali tola ichiga kiradi va dihidropiridin–rianodin reseptorlari orqali SR dan Ca²⁺ chiqaradi — qo'zg'alish-qisqarish bog'lanishi.",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-motor-oxirgi-plastinka",
+   "termUz": "Motor oxirgi plastinka",
+   "original": null,
+   "contextUz": "Motor oxirgi plastinka — muskul yuzasiga botgan nerv terminallari, Shvann hujayralari bilan qoplangan.",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-sinaptik-ariqcha",
+   "termUz": "Sinaptik ariqcha",
+   "original": null,
+   "contextUz": "Sinaptik ariqcha, sinaptik yoriq 20–30 nm; tubida subneyral burmalar (yuzani oshiradi).",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-sinaptik-yoriq",
+   "termUz": "sinaptik yoriq",
+   "original": null,
+   "contextUz": "Sinaptik ariqcha, sinaptik yoriq 20–30 nm; tubida subneyral burmalar (yuzani oshiradi).",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-subneyral-burmalar",
+   "termUz": "subneyral burmalar",
+   "original": "yuzani oshiradi",
+   "contextUz": "Sinaptik ariqcha, sinaptik yoriq 20–30 nm; tubida subneyral burmalar (yuzani oshiradi).",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-atsetilxolinesteraza",
+   "termUz": "atsetilxolinesteraza",
+   "original": null,
+   "contextUz": "Yoriqda atsetilxolinesteraza — ACh ni bir necha ms da parchalaydi.",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-zich-chiziqlar",
+   "termUz": "zich chiziqlar",
+   "original": null,
+   "contextUz": "Nerv membranasining ichki yuzasida zich chiziqlar; ularning ikki tomonida kuchlanishga bog'liq Ca²⁺ kanallari.",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-kuchlanishga-bogliq-ca-kanallari",
+   "termUz": "kuchlanishga bog'liq Ca²⁺ kanallari",
+   "original": null,
+   "contextUz": "Nerv membranasining ichki yuzasida zich chiziqlar; ularning ikki tomonida kuchlanishga bog'liq Ca²⁺ kanallari.",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-sinapsin",
+   "termUz": "sinapsin",
+   "original": null,
+   "contextUz": "AP → Ca²⁺ kiradi → (taxminan) Ca²⁺-kalmodulin bog'liq proteinkinaza → sinapsinlarni fosforlaydi → pufakchalar sitoskeletdan bo'shab faol zonaga borib, ekzotsitoz bilan bo'shaydi.",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-faol-zonaga",
+   "termUz": "faol zonaga",
+   "original": null,
+   "contextUz": "AP → Ca²⁺ kiradi → (taxminan) Ca²⁺-kalmodulin bog'liq proteinkinaza → sinapsinlarni fosforlaydi → pufakchalar sitoskeletdan bo'shab faol zonaga borib, ekzotsitoz bilan bo'shaydi.",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-atsetat-xolin",
+   "termUz": "atsetat + xolin",
+   "original": null,
+   "contextUz": "95): (1) ~40 nm pufakchalar motoneyron tanasidagi Goljida hosil bo'lib akson bo'ylab oqim bilan keladi; (2) ACh terminal sitozolida sintezlanib pufakchalarga to'planadi (~10 000 molekula/pufakcha); (3) AP terminal ichida Ca²⁺ ni ~100 baravar oshiradi → pufakcha birlashish tezligi ~10 000 baravar ortadi; (4) bir necha ms da ACh esteraza bilan atsetat + xolinga parchalanadi, xolin qayta so'rilib",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-klatrinli-qoplangan-chuqurchalar",
+   "termUz": "klatrinli qoplangan chuqurchalar",
+   "original": null,
+   "contextUz": "Zaxira bir necha ming impulsga yetadi; yangi pufakchalar klatrinli qoplangan chuqurchalar orqali ~20 s da hosil bo'ladi.",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-ach-reseptori",
+   "termUz": "ACh reseptori",
+   "original": null,
+   "contextUz": "ACh reseptori — MW ~275 000; homilada 2α, β, δ, γ; kattalarda γ o'rniga ε.",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-oxirgi-plastinka-potensiali-epp",
+   "termUz": "Oxirgi plastinka potensiali (EPP)",
+   "original": null,
+   "contextUz": "Oxirgi plastinka potensiali (EPP): +50–75 mV mahalliy siljish; 20–30 mV dan ortiq ko'tarilish odatda AP ni boshlash uchun yetarli (Fig.",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-kurare",
+   "termUz": "kurare",
+   "original": "ACh bilan reseptor uchun raqobat",
+   "contextUz": "EPP zaiflashuvi: kurare (ACh bilan reseptor uchun raqobat), botulin toksini (ACh chiqishini kamaytiradi).",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-botulin-toksini",
+   "termUz": "botulin toksini",
+   "original": "ACh chiqishini kamaytiradi",
+   "contextUz": "EPP zaiflashuvi: kurare (ACh bilan reseptor uchun raqobat), botulin toksini (ACh chiqishini kamaytiradi).",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-xavfsizlik-omili",
+   "termUz": "Xavfsizlik omili",
+   "original": null,
+   "contextUz": "Xavfsizlik omili: EPP kerakligidan ~3 baravar katta.",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-birikma-charchoqi",
+   "termUz": "birikma charchoqi",
+   "original": "amalda faqat eng og'ir ishda",
+   "contextUz": ">100 Hz da bir necha daqiqa qo'zg'atilsa pufakchalar tugaydi — birikma charchoqi (amalda faqat eng og'ir ishda).",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-ach-ga-oxshash",
+   "termUz": "ACh ga o'xshash",
+   "original": "esteraza parchalamaydi yoki sekin",
+   "contextUz": "ACh ga o'xshash (esteraza parchalamaydi yoki sekin): metaxolin, karbaxol, nikotin → uzoq depolyarizatsiya, spazm.",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-nikotin",
+   "termUz": "nikotin",
+   "original": null,
+   "contextUz": "ACh ga o'xshash (esteraza parchalamaydi yoki sekin): metaxolin, karbaxol, nikotin → uzoq depolyarizatsiya, spazm.",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-antixolinesterazalar",
+   "termUz": "Antixolinesterazalar",
+   "original": null,
+   "contextUz": "Antixolinesterazalar: neostigmin, fizostigmin (bir necha soat), diizopropil-ftorfosfat (nerv gazi, haftalab) → ACh to'planadi, spazm, laringospazm bilan o'lim.",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-neostigmin",
+   "termUz": "neostigmin",
+   "original": null,
+   "contextUz": "Antixolinesterazalar: neostigmin, fizostigmin (bir necha soat), diizopropil-ftorfosfat (nerv gazi, haftalab) → ACh to'planadi, spazm, laringospazm bilan o'lim.",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-fizostigmin",
+   "termUz": "fizostigmin",
+   "original": "bir necha soat",
+   "contextUz": "Antixolinesterazalar: neostigmin, fizostigmin (bir necha soat), diizopropil-ftorfosfat (nerv gazi, haftalab) → ACh to'planadi, spazm, laringospazm bilan o'lim.",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-diizopropil-ftorfosfat",
+   "termUz": "diizopropil-ftorfosfat",
+   "original": "nerv gazi, haftalab",
+   "contextUz": "Antixolinesterazalar: neostigmin, fizostigmin (bir necha soat), diizopropil-ftorfosfat (nerv gazi, haftalab) → ACh to'planadi, spazm, laringospazm bilan o'lim.",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-kurare-simon",
+   "termUz": "Kurare-simon",
+   "original": null,
+   "contextUz": "Kurare-simon blokatorlar: d-tubokurarin.",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-d-tubokurarin",
+   "termUz": "d-tubokurarin",
+   "original": null,
+   "contextUz": "Kurare-simon blokatorlar: d-tubokurarin.",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-autoantitelolar",
+   "termUz": "autoantitelolar",
+   "original": null,
+   "contextUz": "ACh reseptorlariga qarshi autoantitelolar → EPP Na⁺ kanallarini ochishga yetmaydi → zaiflik; og'ir holda nafas muskullari tufayli o'lim.",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-sr",
+   "termUz": "SR",
+   "original": null,
+   "contextUz": "SR: T-naychaga tegib turgan terminal sisternalar + miofibrillalarni o'rab olgan bo'ylama naychalar.",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-terminal-sisternalar",
+   "termUz": "terminal sisternalar",
+   "original": null,
+   "contextUz": "SR: T-naychaga tegib turgan terminal sisternalar + miofibrillalarni o'rab olgan bo'ylama naychalar.",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-dihidropiridin-dhp-reseptorlari",
+   "termUz": "dihidropiridin (DHP) reseptorlari",
+   "original": null,
+   "contextUz": "T-naycha AP → kuchlanish sensori dihidropiridin (DHP) reseptorlari → SR dagi rianodin reseptori (RyR) Ca²⁺ chiqarish kanallari ochiladi (bir necha ms) → Ca²⁺ sarkoplazmaga.",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-rianodin-reseptori-ryr",
+   "termUz": "rianodin reseptori (RyR)",
+   "original": null,
+   "contextUz": "T-naycha AP → kuchlanish sensori dihidropiridin (DHP) reseptorlari → SR dagi rianodin reseptori (RyR) Ca²⁺ chiqarish kanallari ochiladi (bir necha ms) → Ca²⁺ sarkoplazmaga.",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-serca",
+   "termUz": "SERCA",
+   "original": "SR Ca²⁺-ATPaza",
+   "contextUz": "SERCA (SR Ca²⁺-ATPaza) Ca²⁺ ni ~10 000 baravar konsentratsiyalaydi; ichkarida kalsekvestrin (bir molekula 40 tagacha Ca²⁺).",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-kalsekvestrin",
+   "termUz": "kalsekvestrin",
+   "original": "bir molekula 40 tagacha Ca²⁺",
+   "contextUz": "SERCA (SR Ca²⁺-ATPaza) Ca²⁺ ni ~10 000 baravar konsentratsiyalaydi; ichkarida kalsekvestrin (bir molekula 40 tagacha Ca²⁺).",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-ca-impulsi",
+   "termUz": "Ca²⁺ impulsi",
+   "original": null,
+   "contextUz": "Ca²⁺ impulsi: tinchlikda <10⁻⁷ M (qisqarishga yetmaydi); qo'zg'alishda 2 × 10⁻⁴ M gacha (~500 baravar, maksimal qisqarish uchun kerakligidan ~10 baravar ko'p).",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-galotan-izofluran",
+   "termUz": "galotan, izofluran",
+   "original": null,
+   "contextUz": "Moyil odamlarda galotan, izofluran yoki suksinilxolin qo'zg'atadi; kamida 6 mutatsiya, ayniqsa RyR va DHP reseptorlari genlarida → SR dan nazoratsiz Ca²⁺ chiqishi → kuchli qisqarish, metabolizm keskin oshadi, issiqlik, hujayra atsidozi, energiya tugashi.",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-suksinilxolin",
+   "termUz": "suksinilxolin",
+   "original": null,
+   "contextUz": "Moyil odamlarda galotan, izofluran yoki suksinilxolin qo'zg'atadi; kamida 6 mutatsiya, ayniqsa RyR va DHP reseptorlari genlarida → SR dan nazoratsiz Ca²⁺ chiqishi → kuchli qisqarish, metabolizm keskin oshadi, issiqlik, hujayra atsidozi, energiya tugashi.",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-rabdomioliz",
+   "termUz": "rabdomioliz",
+   "original": null,
+   "contextUz": "Belgilar: mushak rigidligi, yuqori isitma, taxikardiya; og'ir holda rabdomioliz va giperkaliyemiya.",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-giperkaliyemiya",
+   "termUz": "giperkaliyemiya",
+   "original": null,
+   "contextUz": "Belgilar: mushak rigidligi, yuqori isitma, taxikardiya; og'ir holda rabdomioliz va giperkaliyemiya.",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  },
+  {
+   "id": "ch07-t-dantrolen",
+   "termUz": "dantrolen",
+   "original": "RyR antagonisti",
+   "contextUz": "Davo: tez sovutish va dantrolen (RyR antagonisti).",
+   "lessonId": "ch07",
+   "topicId": "02",
+   "source": "summaryUz",
+   "reviewStatus": "needs_review"
+  }
+ ],
+ "bookDefinitions": [
+  {
+   "pdfPage": 92,
+   "printedPage": "87",
+   "text": "Each nerve ending makes a junction, called the neuromuscular junction, with the muscle fiber near its midpoint"
+  },
+  {
+   "pdfPage": 92,
+   "printedPage": "87",
+   "text": "The entire structure is called the motor end plate"
+  },
+  {
+   "pdfPage": 92,
+   "printedPage": "87",
+   "text": "The invaginated membrane is called the synaptic gutter or synaptic trough, and the space between the terminal and the fiber membrane is called the synaptic space or synaptic cleft, which is 20 to 30 nanometers wide"
+  },
+  {
+   "pdfPage": 94,
+   "printedPage": "89",
+   "text": "This action creates a local positive potential change inside the muscle fiber membrane, called the end plate potential"
+  },
+  {
+   "pdfPage": 94,
+   "printedPage": "89",
+   "text": "The sudden insurgence of sodium ions into the muscle fiber when the acetylcholine-gated channels open causes the electrical potential inside the fiber at the local area of the end plate to increase in the positive direction as much as 50 to 75 millivolts, creating a local potential called the end plate potential"
+  },
+  {
+   "pdfPage": 95,
+   "printedPage": "90",
+   "text": "This situation is called fatigue of the neuromuscular junction, and it is the same effect that causes fatigue of synapses in the central nervous system when the synapses are overexcited"
+  },
+  {
+   "pdfPage": 96,
+   "printedPage": "91",
+   "text": "The overall process is called excitation-contraction coupling"
+  }
+ ],
+ "keyNumbers": [
+  {
+   "pdfPage": 92,
+   "printedPage": "87",
+   "text": "With the exception of about 2% of the muscle fibers, there is only one such junction per muscle fiber"
+  },
+  {
+   "pdfPage": 92,
+   "printedPage": "87",
+   "text": "The invaginated membrane is called the synaptic gutter or synaptic trough, and the space between the terminal and the fiber membrane is called the synaptic space or synaptic cleft, which is 20 to 30 nanometers wide"
+  },
+  {
+   "pdfPage": 94,
+   "printedPage": "89",
+   "text": "Second, the negative potential on the inside of the muscle membrane, −80 to −90 millivolts, pulls the positively charged sodium ions to the inside of the fiber while simultaneously preventing efflux of the positively charged potassium ions when they attempt to pass outward"
+  },
+  {
+   "pdfPage": 94,
+   "printedPage": "89",
+   "text": "The sudden insurgence of sodium ions into the muscle fiber when the acetylcholine-gated channels open causes the electrical potential inside the fiber at the local area of the end plate to increase in the positive direction as much as 50 to 75 millivolts, creating a local potential called the end plate potential"
+  },
+  {
+   "pdfPage": 94,
+   "printedPage": "89",
+   "text": "Recall from Chapter 5 that a sudden increase in nerve membrane potential of more than 20 to 30 millivolts is normally sufficient to initiate more and more sodium channel opening, thus initiating an action potential at the muscle fiber membrane"
+  },
+  {
+   "pdfPage": 95,
+   "printedPage": "90",
+   "text": "However, stimulation of the nerve fiber at rates greater than 100 times per second for several minutes may diminish the number of acetylcholine vesicles so much that impulses fail to pass into the muscle fiber"
+  },
+  {
+   "pdfPage": 95,
+   "printedPage": "90",
+   "text": "Acetylcholine Formation and Release Acetylcholine formation and release at the neuromuscular junction occur in the following stages: 1.\t\u0007Small vesicles, about 40 nanometers in size, are formed by the Golgi apparatus in the cell body of the motoneuron in the spinal cord"
+  },
+  {
+   "pdfPage": 95,
+   "printedPage": "90",
+   "text": "As a result, the calcium ion concentration inside the terminal membrane increases about 100-fold, which in turn increases the rate of fusion of the acetylcholine vesicles with the terminal membrane about 10,000-fold"
+  },
+  {
+   "pdfPage": 95,
+   "printedPage": "90",
+   "text": "This sequence of events occurs within a period of 5 to 10 milliseconds. 4.\t\u0007The number of vesicles available in the nerve ending is sufficient to allow transmission of only a few thousand nerve to muscle impulses"
+  },
+  {
+   "pdfPage": 95,
+   "printedPage": "90",
+   "text": "Within about 20 seconds, the proteins contract and cause the pits to break away to the interior of the membrane, thus forming new vesicles"
+  },
+  {
+   "pdfPage": 97,
+   "printedPage": "92",
+   "text": "This pump, called SERCA (sarcoplasmic reticulum Ca2+-ATPase), can concentrate the calcium ions about 10,000-fold inside the tubules"
+  },
+  {
+   "pdfPage": 97,
+   "printedPage": "92",
+   "text": "Conversely, full excitation of the T tubule and sarcoplasmic reticulum system causes enough release of calcium ions to increase the concentration in the myofibrillar fluid to as high as 2 × 10−4 molar concentration, a 500-fold increase, which is about 10 times the level required to cause maximum muscle contraction"
+  }
+ ],
+ "figureIds": [
+  "gh14-fig-07-01",
+  "gh14-fig-07-02",
+  "gh14-fig-07-03",
+  "gh14-fig-07-04",
+  "gh14-fig-07-05",
+  "gh14-fig-07-06",
+  "gh14-fig-07-07"
+ ],
+ "estMinutes": 18,
+ "counts": {
+  "figures": 7,
+  "figuresIncluded": 7,
+  "terms": 41,
+  "words": 3566,
+  "unplacedInSummary": 0
+ },
+ "review": {
+  "reviewedBy": null,
+  "reviewedAt": null
+ },
+ "importedAt": "2026-11-14T13:59:02+00:00"
+}
