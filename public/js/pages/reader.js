@@ -127,9 +127,7 @@ export async function reader({ el, params, query, state, navigate, setTitle }) {
             h('button', { type: 'button', class: 'btn primary', onclick: () => { tab = 'full'; renderTab(); } }, 'Asl matnni ochish'),
             h('button', { type: 'button', class: 'btn', onclick: () => { tab = 'simple'; renderTab(); } }, 'Sodda izoh'))));
       } else {
-        mount(prose,
-          h('div', { class: 'callout small', style: { marginBottom: '1em' } }, icon('book', 'sm'), ` Kitob matnining to‘liq o‘zbekcha tarjimasi — qisqartirilmagan, xatboshilar kitobdagi tartibda (${TR.translated}/${TR.total} blok). ${TR.method === 'manual' ? 'Tarjimon: Claude.' : 'Mashina tarjimasi (Claude API).'} Ekspert tekshiruvidan o‘tmagan — shubhali joyni “Asl matn (EN)” bilan solishtiring.`),
-          L.blocks.full.map(trBlock));
+        mount(prose, L.blocks.full.map(trBlock));
       }
     } else if (tab === 'full') {
       mount(prose, h('div', { class: 'callout small', style: { marginBottom: '1em' } }, icon('book', 'sm'), ' Guyton & Hall, 14-nashr — kitobning to‘liq asl inglizcha matni. Rasm havolalarini bosib kitob rasmini ko‘ring.'), L.blocks.full.map(blockEl));
