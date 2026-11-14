@@ -637,3 +637,26 @@ main.content:focus, main.content:focus-visible { outline: none; }
     mask-image: radial-gradient(closest-side, #000 72%, transparent 100%); -webkit-mask-image: radial-gradient(closest-side, #000 72%, transparent 100%); }
   .t-hero h1 { font-size: 40px; }
 }
+
+/* =====================================================================
+   Mobile fixes — later rules above (.g4 at 1100px, .reader.ai-closed)
+   were overriding the phone layout.
+   ===================================================================== */
+@media (max-width: 1280px) {
+  .reader.ai-closed { grid-template-columns: 220px minmax(0, 1fr); }
+}
+@media (max-width: 900px) {
+  .reader, .reader.ai-closed { grid-template-columns: minmax(0, 1fr); }
+}
+@media (max-width: 720px) {
+  .g4 { grid-template-columns: minmax(0, 1fr); }
+  h1, h2, h3 { overflow-wrap: anywhere; }
+  .tabs { flex-wrap: wrap; overflow-x: visible; }
+  .tabs button { flex: 1 1 auto; min-height: 40px; padding: 0 12px; }
+}
+.table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+@media (max-width: 720px) {
+  .table-wrap .tbl { font-size: 13px; }
+  .table-wrap .tbl th, .table-wrap .tbl td { padding: 8px 6px; }
+  .table-wrap .tbl .btn { padding: 0 10px; min-height: 34px; }
+}
