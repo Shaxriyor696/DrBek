@@ -136,7 +136,7 @@ for f in os.listdir(src):
 <style>:root{color-scheme:light}body{background-color:#F2F8F7}</style>
 <div id="root"><div class="empty" role="status">Yuklanmoqda…</div></div>
 <div class="toast-wrap" id="toasts" aria-live="polite"></div>
-<script>window.DS_DEMO = true;</script>
+<script>window.DS_DEMO = true;${process.env.DS_AI_URL ? `window.DS_AI_URL = ${JSON.stringify(process.env.DS_AI_URL.replace(/\/$/, ''))};` : ''}</script>
 <script type="module" src="js/main.js"></script>
 `);
   const count = (d) => fs.readdirSync(d, { withFileTypes: true }).reduce((n, e) => n + (e.isDirectory() ? count(path.join(d, e.name)) : 1), 0);

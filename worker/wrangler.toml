@@ -1,0 +1,12 @@
+# DrBek AI proxy for the GitHub Pages site. Deploy: cd worker && npx wrangler deploy
+# The Gemini key is a secret, never in this file: npx wrangler secret put GEMINI_API_KEY
+name = "drbek-ai"
+main = "index.js"
+compatibility_date = "2026-10-01"
+workers_dev = true
+
+[vars]
+ALLOWED_ORIGINS = "https://shaxriyor696.github.io,http://localhost:3000"
+GEMINI_MODEL = "gemini-3-flash-preview,gemini-3.5-flash-lite,gemini-3.1-flash-lite"
+GEMINI_VOICE_MODEL = "gemini-3-flash-preview,gemini-3.1-flash-lite"
+GEMINI_THINKING = "low"

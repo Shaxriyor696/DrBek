@@ -86,7 +86,11 @@ async function geminiStreamOne(config, { system, input, maxTokens = 4096, thinki
     const st = d.interaction?.status || d.status;
     if (typeof st === 'string') status = st;
   };
-  for await (const chunk of r.body) {
+  // plain reader loop: works the same in Node and in Cloudflare Workers
+  const reader = r.body.getReader();
+  for (;;) {
+    const { value: chunk, done } = await reader.read();
+    if (done) break;
     onActivity?.(); // keep-alives and thinking steps count as progress, not only text
     buf += dec.decode(chunk, { stream: true }).replace(/\r\n/g, '\n');
     let i;
