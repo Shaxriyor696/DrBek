@@ -13,10 +13,14 @@ Qoidalar:
 // model cites them as [n]; extractCitations() turns those into UI citations.
 // The chat shows answers as plain text: drop markdown emphasis/headings, turn "* item" into
 // "• item", and use the Word-style apostrophe in Uzbek words (o'z → o’z, ta'sir → ta’sir).
+const GREEK = { alpha: 'α', beta: 'β', gamma: 'γ', delta: 'δ', Delta: 'Δ', mu: 'μ', pi: 'π', sigma: 'σ', lambda: 'λ', theta: 'θ', omega: 'ω', rightarrow: '→', to: '→', leftarrow: '←', uparrow: '↑', downarrow: '↓', approx: '≈', times: '×', cdot: '·', pm: '±', geq: '≥', leq: '≤', ge: '≥', le: '≤' };
 export const plainAnswer = (t) => t
   .replace(/\*\*(.+?)\*\*/g, '$1').replace(/__(.+?)__/g, '$1')
   .replace(/^#{1,6}\s+/gm, '')
   .replace(/^(\s*)[*-]\s+/gm, '$1• ')
+  // LaTeX bits the model sometimes emits: $\alpha$ → α, $Na^+$ → Na+, other $…$ → plain text
+  .replace(/\\(alpha|beta|gamma|delta|Delta|mu|pi|sigma|lambda|theta|omega|rightarrow|to|leftarrow|uparrow|downarrow|approx|times|cdot|pm|geq|leq|ge|le)\b/g, (m, k) => GREEK[k])
+  .replace(/\$([^$\n]{1,60})\$/g, (m, x) => x.replace(/[{}]/g, '').replace(/\^\s*/g, '').replace(/_/g, ''))
   .replace(/(?<=\p{L})['‘ʻʼ`](?=\p{L})/gu, '’');
 
 export const SYSTEM_GEMINI = SYSTEM.replace(
