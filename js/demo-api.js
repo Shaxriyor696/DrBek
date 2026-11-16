@@ -561,8 +561,13 @@ async function chatStream(tid, body, onEvent, signal) {
   s.messages.push({ id: umid, threadId: t.id, role: 'user', content: question, context: ctx, citations: [], status: 'sent', createdAt: nowIso() });
   t.updatedAt = nowIso();
   onEvent('context', { userMessageId: umid, context: ctx });
-  const q = `${body.text || ''} ${body.selection || ''}`.trim() || (ctx.lessonTitle || '');
-  const near = (await search(q, { limit: 40 })).results.filter((r) => ['summary', 'original', 'translation', 'figure'].includes(r.type));
+  // retrieval query: drop question words and trim Uzbek suffixes (nasosi → nasos, natriy → natri),
+  // since the preview's search matches plain substrings
+  const STOP = new Set(['qanday', 'nima', 'nimaga', 'nega', 'qanaqa', 'haqida', 'ishlaydi', 'qiladi', 'nimani', 'tushuntir', 'tushuntirib', 'ber', 'bering', 'menga', 'iltimos', 'qaysi', 'qachon', 'what', 'how', 'the', 'and', 'does', 'is']);
+  const stem = (w) => (w.length > 6 ? w.slice(0, -2) : w.length > 5 ? w.slice(0, -1) : w);
+  const words = norm(`${body.text || ''} ${body.selection || ''}`).match(/[\p{L}\p{N}]{2,}/gu) || [];
+  const q = words.filter((w) => !STOP.has(w)).map(stem).join(' ') || (ctx.lessonTitle || '');
+  const near = (await search(q, { limit: 300 })).results.filter((r) => ['summary', 'original', 'translation', 'term', 'figure'].includes(r.type));
   const ranked = [...near.filter((r) => lessonId && r.lessonId === lessonId), ...near.filter((r) => !(lessonId && r.lessonId === lessonId))].slice(0, 6);
   const sources = ranked.map((r, i) => ({ sourceId: r.id, n: i + 1, kind: r.type, lang: r.lang, lessonId: r.lessonId, topicId: r.topicId, blockId: r.blockId, title: `${r.lessonTitle ? `${r.lessonTitle} — ` : ''}${r.title}`, snippet: r.snippet.slice(0, 280), pdfPage: r.locator?.pdfPage || null, printedPage: r.locator?.pdfPage ? r.locator.pdfPage - 5 : null, imageId: r.imageId, lessonStatus: null }));
   onEvent('sources', { sources });
