@@ -315,6 +315,8 @@ on('GET', '/api/figures/:id', async ({ params }) => {
   return { figure: await withUrl(f) };
 });
 on('GET', '/api/sources/:bookId', () => ({ book: null, pdfAvailable: false, pdfUrl: null }));
+// library shelf: book list only — the web preview carries no PDFs or covers (private copies)
+on('GET', '/api/shelf', async () => { needUser(); const d = clone(await load('demo/data/shelf.json')); const sv = savedSet('book'); d.books.forEach((b) => { b.saved = sv.has(b.id); }); return d; });
 on('GET', '/api/library', async () => {
   needUser();
   const L = clone(await load('demo/data/library.json')); const sv = savedSet('book');

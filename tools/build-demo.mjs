@@ -45,6 +45,9 @@ async function main() {
     const topics = JSON.parse(await call('/api/topics'));
     write('demo/data/topics.json', relAssets(JSON.stringify(topics)));
     write('demo/data/library.json', relAssets(await call('/api/library')));
+    // shelf without file links: PDFs/covers are the user's private copies and are never published
+    const shelf = JSON.parse(await call('/api/shelf'));
+    write('demo/data/shelf.json', { fields: shelf.fields, books: shelf.books.map((b) => ({ ...b, saved: false, coverUrl: null, pdfUrl: null })) });
     write('demo/data/practice.json', relAssets(await call('/api/practice/overview')));
     const lessons = [];
     for (const t of topics.topics) {
