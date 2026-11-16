@@ -13,19 +13,19 @@ export async function admin({ el, state }) {
     h('td', {}, l.topicId), h('td', {}, statusBadge(l.status)), h('td', { class: 'small' }, `${l.counts.figuresIncluded}/${l.counts.figures}`), h('td', { class: 'small' }, l.counts.terms))));
   const statuses = ['all', ...Object.keys(T.lessonsByStatus)];
   mount(el, h('h1', {}, 'Kontent boshqaruvi'),
-    h('p', { class: 'muted small' }, `Kontent versiyasi ${d.contentVersion} · rejim: ${d.access === 'review_preview' ? 'oldindan ko‘rish (tekshiruvdagi darslar ham ko‘rinadi)' : 'faqat nashr etilganlar'}`),
+    h('p', { class: 'muted small' }, `Kontent versiyasi ${d.contentVersion} · rejim: ${d.access === 'review_preview' ? 'oldindan ko’rish (tekshiruvdagi darslar ham ko’rinadi)' : 'faqat nashr etilganlar'}`),
     h('div', { class: 'grid g4' }, [['Darslar', `${T.lessons}`], ['Rasm/jadval kesilgan', `${T.figuresIncluded}/${T.figures}`], ['Rasm tasdiqlangan', `${T.figuresApproved}`], ['Savollar (tasdiqlangan)', `${T.questions} (${T.questionsApproved})`]].map(([l, v]) => h('div', { class: 'card pad stat' }, h('div', {}, h('b', {}, v), h('span', { class: 'small muted' }, l))))),
     h('section', { class: 'card pad', style: { marginTop: '18px' } },
       h('div', { class: 'row between', style: { flexWrap: 'wrap' } }, h('h2', { style: { margin: 0 } }, 'Darslar'),
         h('div', { class: 'row', style: { flexWrap: 'wrap' } }, statuses.map((s) => h('button', { type: 'button', class: 'chip', 'aria-pressed': String(s === f), onclick: (e) => { f = s; e.target.parentElement.querySelectorAll('button').forEach((b) => b.setAttribute('aria-pressed', String(b === e.target))); draw(); } }, s === 'all' ? 'Hammasi' : `${s} (${T.lessonsByStatus[s]})`)))),
       h('div', { class: 'table-wrap', style: { marginTop: '10px' } }, h('table', { class: 'tbl' }, h('thead', {}, h('tr', {}, ['ID', 'Dars', 'Mavzu', 'Holat', 'Rasmlar', 'Atamalar'].map((x) => h('th', {}, x)))), tbody))),
     isAdmin ? h('section', { class: 'card pad stack', style: { marginTop: '18px' } }, h('h2', { style: { margin: 0 } }, 'Import va rollar'),
-      h('p', { class: 'small muted', style: { margin: 0 } }, 'Qayta import kitob PDF va eslatmalardan kontentni qayta yig‘adi (idempotent).'),
+      h('p', { class: 'small muted', style: { margin: 0 } }, 'Qayta import kitob PDF va eslatmalardan kontentni qayta yig’adi (idempotent).'),
       h('div', { class: 'row', style: { flexWrap: 'wrap' } },
         h('button', { type: 'button', class: 'btn', onclick: async () => { try { const r = await post('/api/admin/imports'); toast(`Import boshlandi: ${r.jobId}`); } catch (e) { toast(e.message); } } }, icon('refresh'), 'Qayta import'),
         h('button', { type: 'button', class: 'btn', onclick: async () => {
           const em = h('input', { id: 'r-em', type: 'email' }); const ro = h('input', { id: 'r-ro', value: 'student,reviewer' });
-          const ok = await modal({ title: 'Rollarni o‘zgartirish', body: h('div', { class: 'stack' }, h('div', { class: 'field' }, h('label', { for: 'r-em' }, 'Email'), em), h('div', { class: 'field' }, h('label', { for: 'r-ro' }, 'Rollar (vergul bilan)'), ro)), actions: [{ label: 'Bekor', value: false }, { label: 'Saqlash', value: true, primary: true }] });
+          const ok = await modal({ title: 'Rollarni o’zgartirish', body: h('div', { class: 'stack' }, h('div', { class: 'field' }, h('label', { for: 'r-em' }, 'Email'), em), h('div', { class: 'field' }, h('label', { for: 'r-ro' }, 'Rollar (vergul bilan)'), ro)), actions: [{ label: 'Bekor', value: false }, { label: 'Saqlash', value: true, primary: true }] });
           if (ok) { try { await post('/api/admin/users/roles', { email: em.value, roles: ro.value }); toast('Saqlandi.'); } catch (e) { toast(e.message); } }
         } }, icon('user'), 'Rollar')),
       d.jobs.length ? h('ul', { class: 'small' }, d.jobs.map((j) => h('li', {}, `${j.created_at} · ${j.status}${j.error ? ` · ${j.error}` : ''}`))) : null) : null);
@@ -58,7 +58,7 @@ export async function lesson({ el, params, state }) {
     h('section', { class: 'card pad', style: { marginTop: '16px' } }, h('h2', { style: { marginTop: 0 } }, `Rasmlar (${d.figures.length})`),
       h('div', { class: 'grid g3' }, d.figures.map((f) => h('div', { class: 'card', style: { padding: '8px' } },
         h('button', { type: 'button', style: { border: 0, background: '#fff', width: '100%', cursor: 'zoom-in' }, onclick: () => openFigure(f.imageId) }, f.assetPath ? h('img', { src: `/media/${f.assetPath}`, alt: '', loading: 'lazy', style: { width: '100%', height: '150px', objectFit: 'contain' } }) : h('div', { class: 'empty small' }, 'Kesilmagan')),
-        h('div', { class: 'xs', style: { margin: '6px 0' } }, h('b', {}, figLabel(f)), ` · PDF ${f.pdfPage} · ${f.cropMethod || 'yo‘q'}`),
+        h('div', { class: 'xs', style: { margin: '6px 0' } }, h('b', {}, figLabel(f)), ` · PDF ${f.pdfPage} · ${f.cropMethod || 'yo’q'}`),
         h('div', { class: 'row', style: { gap: '4px', flexWrap: 'wrap' } }, statusBadge(f.reviewStatus),
           canReview ? h('button', { type: 'button', class: 'btn small', onclick: () => review('figure', f.imageId, 'approve') }, 'OK') : null,
           canReview ? h('button', { type: 'button', class: 'btn small', onclick: () => review('figure', f.imageId, 'reject') }, 'Rad') : null))))),

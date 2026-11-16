@@ -1,7 +1,7 @@
 // Fetch wrapper: JSON in/out, CSRF header, uniform errors.
 export class ApiErr extends Error {
   constructor(status, body) {
-    super(body?.message || (status === 0 ? 'Tarmoq xatosi: serverga ulanib bo‘lmadi.' : 'Xato yuz berdi.'));
+    super(body?.message || (status === 0 ? 'Tarmoq xatosi: serverga ulanib bo’lmadi.' : 'Xato yuz berdi.'));
     this.status = status; this.code = body?.code; this.fieldErrors = body?.fieldErrors; this.body = body;
   }
 }

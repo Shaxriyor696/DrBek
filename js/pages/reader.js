@@ -4,14 +4,14 @@ import { bookmarkButton, openFigure, figureBlock, statusBadge, figLabel } from '
 import { createChat } from '../chat.js';
 import { setDirty, loc, replaceUrlQuiet } from '../main.js';
 
-const TABS = [['simple', 'Sodda izoh'], ['uzfull', 'To‘liq tarjima (UZ)'], ['full', 'Asl matn (EN)'], ['terms', 'Atamalar'], ['source', 'Manba']];
+const TABS = [['simple', 'Sodda izoh'], ['uzfull', 'To’liq tarjima (UZ)'], ['full', 'Asl matn (EN)'], ['terms', 'Atamalar'], ['source', 'Manba']];
 
 export async function reader({ el, params, query, state, navigate, setTitle }) {
   let data;
   try { data = await get(`/api/lessons/${encodeURIComponent(params.sectionId)}`); }
   catch (err) {
     if (err.status === 410 || err.status === 403) {
-      mount(el, emptyBox(err.status === 410 ? 'folder' : 'clock', err.status === 410 ? 'Bo‘lim arxivlangan' : 'Bo‘lim hali tayyor emas', err.message, h('a', { class: 'btn primary', href: `/topics/${params.topicId}` }, 'Mavzuga qaytish')));
+      mount(el, emptyBox(err.status === 410 ? 'folder' : 'clock', err.status === 410 ? 'Bo’lim arxivlangan' : 'Bo’lim hali tayyor emas', err.message, h('a', { class: 'btn primary', href: `/topics/${params.topicId}` }, 'Mavzuga qaytish')));
       return;
     }
     throw err;
@@ -79,7 +79,7 @@ export async function reader({ el, params, query, state, navigate, setTitle }) {
     };
     draw();
     return h('div', { class: 'stack' },
-      h('p', { class: 'small muted' }, 'Atamalar o‘zbekcha izohdan avtomatik ajratilgan (qalin yozilgan so‘zlar) va tekshirilishi kerak. Pastda kitobdagi asl ta’rif jumlalari keltirilgan.'),
+      h('p', { class: 'small muted' }, 'Atamalar o’zbekcha izohdan avtomatik ajratilgan (qalin yozilgan so’zlar) va tekshirilishi kerak. Pastda kitobdagi asl ta’rif jumlalari keltirilgan.'),
       h('input', { type: 'search', placeholder: 'Atama qidirish', 'aria-label': 'Atama qidirish', oninput: (e) => { q = e.target.value.trim(); draw(); } }),
       list,
       L.bookDefinitions?.length ? h('section', {}, h('h2', {}, 'Kitobdagi ta’riflar (EN)'), h('ul', {}, L.bookDefinitions.map((d) => h('li', { class: 'small' }, `${d.text}. `, h('a', { href: `/source-pdf/${L.source.bookId}#page=${d.pdfPage}`, target: '_blank', rel: 'noopener', class: 'xs' }, `${d.printedPage}-bet`))))) : null,
@@ -97,9 +97,9 @@ export async function reader({ el, params, query, state, navigate, setTitle }) {
           h('li', {}, `Bob: ${L.source.chapter} — ${L.titleOriginal}`),
           h('li', {}, `Kitob sahifalari: ${L.printedPages[0]}–${L.printedPages[1]} (PDF ${L.pdfPages[0]}–${L.pdfPages[1]})`),
           h('li', {}, `Qism: ${L.source.unit}`),
-          h('li', {}, 'O‘zbekcha izoh: avvalgi o‘qish jarayonida kitobdan tayyorlangan qisqa sharh (mashina yordamida, ekspert tekshiruvi kutilmoqda).'),
-          h('li', {}, 'Asl matn: kitob PDF faylidan avtomatik ajratilgan to‘liq inglizcha matn.'),
-          h('li', {}, TR ? `To‘liq tarjima: ${TR.translated}/${TR.total} blok, ${TR.method === 'manual' ? 'Claude tomonidan qo‘lda' : 'Claude API orqali'} tarjima qilingan, holati: tekshirilishi kerak.` : 'To‘liq o‘zbekcha tarjima: hali yo‘q.')),
+          h('li', {}, 'O’zbekcha izoh: avvalgi o’qish jarayonida kitobdan tayyorlangan qisqa sharh (mashina yordamida, ekspert tekshiruvi kutilmoqda).'),
+          h('li', {}, 'Asl matn: kitob PDF faylidan avtomatik ajratilgan to’liq inglizcha matn.'),
+          h('li', {}, TR ? `To’liq tarjima: ${TR.translated}/${TR.total} blok, ${TR.method === 'manual' ? 'Claude tomonidan qo’lda' : 'Claude API orqali'} tarjima qilingan, holati: tekshirilishi kerak.` : 'To’liq o’zbekcha tarjima: hali yo’q.')),
         h('div', { class: 'row', style: { flexWrap: 'wrap' } },
           h('a', { class: 'btn', href: pdf(L.pdfPages[0]), target: '_blank', rel: 'noopener' }, icon('external'), 'Kitobda ochish'),
           h('a', { class: 'btn', href: `/library/${b.id}` }, icon('book'), 'Kutubxonada'))),
@@ -117,12 +117,12 @@ export async function reader({ el, params, query, state, navigate, setTitle }) {
     tabBtns.forEach((b) => b.setAttribute('aria-selected', String(b.dataset.tab === tab)));
     if (tab === 'simple') {
       mount(prose,
-        h('div', { class: 'callout small', style: { marginBottom: '1em' } }, icon('info', 'sm'), ` Bu — kitob bobining o‘zbekcha sodda izohi (qisqartirilgan). Kitobdagidek to‘liq matn uchun ${TR ? '“To‘liq tarjima (UZ)”' : '“Asl matn (EN)”'} bo‘limini oching.`),
+        h('div', { class: 'callout small', style: { marginBottom: '1em' } }, icon('info', 'sm'), ` Bu — kitob bobining o’zbekcha sodda izohi (qisqartirilgan). Kitobdagidek to’liq matn uchun ${TR ? '“To’liq tarjima (UZ)”' : '“Asl matn (EN)”'} bo’limini oching.`),
         L.objectives?.length ? h('div', { class: 'card pad', style: { marginBottom: '1em', background: '#F7FBFA' } }, h('b', {}, 'Bu darsda:'), h('ul', { style: { margin: '6px 0 0' } }, L.objectives.slice(0, 8).map((o) => h('li', { class: 'small' }, inline(o))))) : null,
         L.blocks.simple.map(blockEl));
     } else if (tab === 'uzfull') {
       if (!TR) {
-        mount(prose, emptyBox('book', 'Bu bobning to‘liq o‘zbekcha tarjimasi hali tayyor emas', 'Hozircha “Sodda izoh” (qisqa sharh) va “Asl matn (EN)” (kitobning to‘liq matni) mavjud. To‘liq tarjima tarjima skripti ishga tushirilgach shu yerda paydo bo‘ladi.',
+        mount(prose, emptyBox('book', 'Bu bobning to’liq o’zbekcha tarjimasi hali tayyor emas', 'Hozircha “Sodda izoh” (qisqa sharh) va “Asl matn (EN)” (kitobning to’liq matni) mavjud. To’liq tarjima tarjima skripti ishga tushirilgach shu yerda paydo bo’ladi.',
           h('div', { class: 'row', style: { justifyContent: 'center', flexWrap: 'wrap' } },
             h('button', { type: 'button', class: 'btn primary', onclick: () => { tab = 'full'; renderTab(); } }, 'Asl matnni ochish'),
             h('button', { type: 'button', class: 'btn', onclick: () => { tab = 'simple'; renderTab(); } }, 'Sodda izoh'))));
@@ -130,7 +130,7 @@ export async function reader({ el, params, query, state, navigate, setTitle }) {
         mount(prose, L.blocks.full.map(trBlock));
       }
     } else if (tab === 'full') {
-      mount(prose, h('div', { class: 'callout small', style: { marginBottom: '1em' } }, icon('book', 'sm'), ' Guyton & Hall, 14-nashr — kitobning to‘liq asl inglizcha matni. Rasm havolalarini bosib kitob rasmini ko‘ring.'), L.blocks.full.map(blockEl));
+      mount(prose, h('div', { class: 'callout small', style: { marginBottom: '1em' } }, icon('book', 'sm'), ' Guyton & Hall, 14-nashr — kitobning to’liq asl inglizcha matni. Rasm havolalarini bosib kitob rasmini ko’ring.'), L.blocks.full.map(blockEl));
     } else if (tab === 'terms') mount(prose, termsView());
     else mount(prose, sourceView());
     drawOutline();
@@ -148,7 +148,7 @@ export async function reader({ el, params, query, state, navigate, setTitle }) {
       : tab === 'simple' ? L.blocks.simple.filter((b) => b.type === 'heading').map((b) => ({ id: b.id || b.bid, text: b.text, sub: b.level > 2 })) : [];
     mount(outlineBox, heads.length ? [h('div', { class: 'xs muted', style: { padding: '8px 10px 2px', fontWeight: 800 } }, 'Shu dars ichida'), heads.slice(0, 60).map((x) => h('a', { href: `#${x.id}`, style: x.sub ? { paddingLeft: '22px' } : null, onclick: (e) => { e.preventDefault(); jump(x.id); closeDrawers(); } }, x.text.length > 60 ? `${x.text.slice(0, 58)}…` : x.text))] : []);
   }
-  const toc = h('aside', { class: 'card toc', 'aria-label': 'Mavzu bo‘limlari' },
+  const toc = h('aside', { class: 'card toc', 'aria-label': 'Mavzu bo’limlari' },
     h('div', { class: 'row between', style: { padding: '6px 10px' } }, h('a', { href: `/topics/${L.topicId}`, class: 'small', style: { fontWeight: 800, minHeight: 0, padding: 0 } }, `${L.topicId} ${data.topic.title}`)),
     (topicData?.sections || []).map((s) => h('a', { href: `/topics/${L.topicId}/sections/${s.id}`, 'aria-current': s.id === L.id ? 'page' : null }, h('span', { class: 'n' }, s.progress.completed ? icon('check', 'sm') : String(s.order).padStart(2, '0')), h('span', {}, s.titleUz))),
     outlineBox);
@@ -210,11 +210,15 @@ export async function reader({ el, params, query, state, navigate, setTitle }) {
   const ptBtns = [['ai', 'AI suhbat'], ['notes', 'Qaydlar']].map(([k, l]) => h('button', { type: 'button', role: 'tab', 'aria-selected': String(k === panelTab), onclick: () => openPanel(k) }, l));
   const panelBody = h('div', { class: 'scroll' });
   const side = h('aside', { class: 'card side-panel', id: 'side-panel', 'aria-label': 'AI yordamchi va qaydlar' },
-    h('div', { class: 'head stack', style: { gap: '8px' } },
-      h('div', { class: 'row between', style: { flexWrap: 'nowrap' } }, h('div', { class: 'panel-title' }, icon('bot'), 'Shu bo‘limni tushuntir'),
-        h('button', { type: 'button', class: 'icon-btn', 'aria-label': 'Panelni yopish', onclick: () => closePanel() }, icon('x'))),
-      h('p', { class: 'small muted', style: { margin: 0 } }, `“${L.titleUz}” mavzusini AI yordamchidan sodda va tushunarli tarzda so‘rang.`),
-      h('div', { class: 'seg', role: 'tablist', style: { alignSelf: 'flex-start' } }, ptBtns)),
+    h('div', { class: 'head stack', style: { gap: '12px' } },
+      h('div', { class: 'panel-hero' },
+        h('img', { class: 'panel-mascot', src: 'assets/ai-mascot.webp', alt: '', width: 52, height: 52 }),
+        h('div', { class: 'grow', style: { minWidth: 0 } },
+          h('div', { class: 'panel-title' }, 'Shu bo’limni tushuntir'),
+          h('div', { class: 'panel-sub' }, 'AI yordamchi · kitob asosida')),
+        h('button', { type: 'button', class: 'icon-btn panel-close', 'aria-label': 'Panelni yopish', onclick: () => closePanel() }, icon('x'))),
+      h('p', { class: 'panel-lead' }, 'Mavzu: ', h('b', {}, L.titleUz), '. Tushunmagan joyingizni so’rang yoki matndan belgilang.'),
+      h('div', { class: 'seg panel-tabs', role: 'tablist' }, ptBtns)),
     panelBody);
   function drawPanel() {
     ptBtns.forEach((b, i) => b.setAttribute('aria-selected', String(['ai', 'notes'][i] === panelTab)));
@@ -240,7 +244,7 @@ export async function reader({ el, params, query, state, navigate, setTitle }) {
       const { notes } = await get(`/api/notes?lessonId=${L.id}`);
       mount(notesBox,
         h('button', { type: 'button', class: 'btn primary', onclick: () => newNote({}) }, icon('plus'), 'Yangi qayd'),
-        notes.length ? notes.map(noteCard) : h('p', { class: 'small muted' }, 'Bu darsda hali qayd yo‘q. Matnni belgilab “Qayd” tugmasini bosing yoki yangi qayd yarating.'));
+        notes.length ? notes.map(noteCard) : h('p', { class: 'small muted' }, 'Bu darsda hali qayd yo’q. Matnni belgilab “Qayd” tugmasini bosing yoki yangi qayd yarating.'));
     } catch (e) { mount(notesBox, h('p', { class: 'small' }, e.message)); }
   }
   function noteCard(n) {
@@ -254,7 +258,7 @@ export async function reader({ el, params, query, state, navigate, setTitle }) {
         if (ta.value === cur.body) { setDirty(null); return; }
         status.textContent = 'Saqlanmoqda…';
         try { cur = (await patch(`/api/notes/${cur.id}`, { body: ta.value, updatedAt: cur.updatedAt })).note; status.textContent = `Saqlangan · ${fmtDate(cur.updatedAt, profile.timezone)}`; setDirty(null); }
-        catch (e) { status.textContent = e.status === 409 ? 'Boshqa oynada o‘zgargan — sahifani yangilang' : `Saqlanmadi: ${e.message}`; status.style.color = 'var(--danger)'; }
+        catch (e) { status.textContent = e.status === 409 ? 'Boshqa oynada o’zgargan — sahifani yangilang' : `Saqlanmadi: ${e.message}`; status.style.color = 'var(--danger)'; }
       });
       return saving;
     };
@@ -262,11 +266,11 @@ export async function reader({ el, params, query, state, navigate, setTitle }) {
     ta.addEventListener('blur', () => { clearTimeout(t); save(); });
     cleanups.push(() => { clearTimeout(t); if (ta.value !== cur.body) save(); });
     return h('div', { class: 'card pad', style: { padding: '12px' } },
-      n.selectionText ? h('button', { type: 'button', class: 'ctx-chip', style: { border: 0, width: '100%', textAlign: 'left', cursor: 'pointer', marginBottom: '8px' }, onclick: () => { if (n.anchorBlock && !jump(n.anchorBlock)) toast('Bu parcha boshqa bo‘limda (tab) — “Sodda izoh” yoki “To‘liq matn”ni oching.'); } }, icon('file', 'sm'), `“${n.selectionText.slice(0, 160)}”`) : null,
+      n.selectionText ? h('button', { type: 'button', class: 'ctx-chip', style: { border: 0, width: '100%', textAlign: 'left', cursor: 'pointer', marginBottom: '8px' }, onclick: () => { if (n.anchorBlock && !jump(n.anchorBlock)) toast('Bu parcha boshqa bo’limda (tab) — “Sodda izoh” yoki “To’liq matn”ni oching.'); } }, icon('file', 'sm'), `“${n.selectionText.slice(0, 160)}”`) : null,
       n.figureId ? h('button', { type: 'button', class: 'figref', onclick: () => onFigure(n.figureId) }, figLabel(figs.get(n.figureId) || { figureNumber: n.figureId })) : null,
       ta,
       h('div', { class: 'row between' }, status,
-        h('button', { type: 'button', class: 'icon-btn', 'aria-label': 'Qaydni o‘chirish', onclick: async () => { await saving; try { await del(`/api/notes/${cur.id}`); setDirty(null); toast('Qayd o‘chirildi.'); loadNotes(); } catch (e) { toast(e.message); } } }, icon('trash'))));
+        h('button', { type: 'button', class: 'icon-btn', 'aria-label': 'Qaydni o’chirish', onclick: async () => { await saving; try { await del(`/api/notes/${cur.id}`); setDirty(null); toast('Qayd o’chirildi.'); loadNotes(); } catch (e) { toast(e.message); } } }, icon('trash'))));
   }
   async function newNote({ selectionText, anchorBlock, figureId, chatMessageId, body = '' }) {
     try {
@@ -285,7 +289,13 @@ export async function reader({ el, params, query, state, navigate, setTitle }) {
   document.body.appendChild(selbar);
   cleanups.push(() => selbar.remove());
   let curSel = null;
-  const hideSel = () => { selbar.classList.add('hidden'); curSel = null; };
+  // touch screens: the phone's own copy menu sits right above the selection, so our bar docks
+  // at the bottom of the screen instead; tapping it collapses the selection, so for a moment
+  // after a press on the bar we keep it (and curSel) instead of hiding.
+  const touchUI = () => window.matchMedia('(pointer: coarse), (max-width: 720px)').matches;
+  let barPressedAt = 0;
+  selbar.addEventListener('pointerdown', () => { barPressedAt = Date.now(); });
+  const hideSel = (force = false) => { if (!force && Date.now() - barPressedAt < 700) return; selbar.classList.add('hidden'); curSel = null; };
   function onSelect() {
     const s = window.getSelection();
     const text = s && !s.isCollapsed ? s.toString().replace(/\s+/g, ' ').trim() : '';
@@ -294,10 +304,12 @@ export async function reader({ el, params, query, state, navigate, setTitle }) {
     curSel = { text: text.slice(0, 3000), blockId: blk?.dataset.bid || null };
     const r = s.getRangeAt(0).getBoundingClientRect();
     mount(selbar,
-      h('button', { type: 'button', onmousedown: (e) => e.preventDefault(), onclick: () => { const c = curSel; hideSel(); openPanel('ai'); chat.ask({ action: 'explain', selection: c }); } }, icon('sparkles', 'sm'), 'Tushuntir'),
-      h('button', { type: 'button', onmousedown: (e) => e.preventDefault(), onclick: () => { const c = curSel; hideSel(); newNote({ selectionText: c.text, anchorBlock: c.blockId }); } }, icon('note', 'sm'), 'Qayd'),
-      h('button', { type: 'button', onmousedown: (e) => e.preventDefault(), onclick: async () => { const c = curSel; hideSel(); try { await post('/api/bookmarks', { targetType: 'selection', targetId: `${L.id}:${c.blockId || ''}:${rid().slice(0, 8)}`, title: L.titleUz, snippet: c.text, meta: { lessonId: L.id, topicId: L.topicId, blockId: c.blockId, tab } }); toast('Parcha saqlandi.'); } catch (e) { toast(e.message); } } }, icon('bookmark', 'sm'), 'Saqlash'));
+      h('button', { type: 'button', onmousedown: (e) => e.preventDefault(), onclick: () => { const c = curSel; hideSel(true); window.getSelection()?.removeAllRanges(); openPanel('ai'); chat.ask({ action: 'explain', selection: c }); } }, icon('sparkles', 'sm'), 'Tushuntir'),
+      h('button', { type: 'button', onmousedown: (e) => e.preventDefault(), onclick: () => { const c = curSel; hideSel(true); window.getSelection()?.removeAllRanges(); newNote({ selectionText: c.text, anchorBlock: c.blockId }); } }, icon('note', 'sm'), 'Qayd'),
+      h('button', { type: 'button', onmousedown: (e) => e.preventDefault(), onclick: async () => { const c = curSel; hideSel(true); window.getSelection()?.removeAllRanges(); try { await post('/api/bookmarks', { targetType: 'selection', targetId: `${L.id}:${c.blockId || ''}:${rid().slice(0, 8)}`, title: L.titleUz, snippet: c.text, meta: { lessonId: L.id, topicId: L.topicId, blockId: c.blockId, tab } }); toast('Parcha saqlandi.'); } catch (e) { toast(e.message); } } }, icon('bookmark', 'sm'), 'Saqlash'));
     selbar.classList.remove('hidden');
+    if (touchUI()) { selbar.classList.add('sheet'); selbar.style.top = ''; selbar.style.left = ''; return; }
+    selbar.classList.remove('sheet');
     const top = window.scrollY + r.top - 52;
     const left = Math.max(8, Math.min(window.scrollX + r.left + r.width / 2 - 140, document.documentElement.clientWidth - 296));
     selbar.style.top = `${top < window.scrollY + 60 ? window.scrollY + r.bottom + 8 : top}px`;
@@ -306,28 +318,34 @@ export async function reader({ el, params, query, state, navigate, setTitle }) {
   const onUp = () => setTimeout(onSelect, 10);
   prose.addEventListener('mouseup', onUp);
   prose.addEventListener('touchend', onUp);
+  // phones select by long-press and drag handles, which fire no mouseup: follow the selection itself
+  let selT;
+  const onSelChange = () => { if (!touchUI()) return; clearTimeout(selT); selT = setTimeout(onSelect, 250); };
+  document.addEventListener('selectionchange', onSelChange);
+  cleanups.push(() => { document.removeEventListener('selectionchange', onSelChange); clearTimeout(selT); });
   const onKeySel = (e) => { if (e.key === 'Escape') hideSel(); };
-  const onDocDown = (e) => { if (!selbar.contains(e.target) && !prose.contains(e.target)) hideSel(); };
+  const onDocDown = (e) => { if (!selbar.contains(e.target) && !prose.contains(e.target)) { barPressedAt = 0; hideSel(); } };
   document.addEventListener('keydown', onKeySel);
   document.addEventListener('mousedown', onDocDown);
-  cleanups.push(() => { document.removeEventListener('keydown', onKeySel); document.removeEventListener('mousedown', onDocDown); });
+  document.addEventListener('touchstart', onDocDown, { passive: true });
+  cleanups.push(() => { document.removeEventListener('keydown', onKeySel); document.removeEventListener('mousedown', onDocDown); document.removeEventListener('touchstart', onDocDown); });
 
   // ---------------------------------------------------------------- header & bottom bar
   const doneBtn = h('button', { type: 'button', class: `btn ${completed ? '' : 'primary'}` });
-  const drawDone = () => { mount(doneBtn, icon('checkCircle'), completed ? 'O‘qilgan ✓' : 'O‘qib bo‘ldim'); doneBtn.className = `btn ${completed ? 'soft' : 'primary'}`; doneBtn.setAttribute('aria-pressed', String(completed)); };
+  const drawDone = () => { mount(doneBtn, icon('checkCircle'), completed ? 'O’qilgan ✓' : 'O’qib bo’ldim'); doneBtn.className = `btn ${completed ? 'soft' : 'primary'}`; doneBtn.setAttribute('aria-pressed', String(completed)); };
   drawDone();
   doneBtn.addEventListener('click', async () => {
     doneBtn.disabled = true;
     try {
       const r = await patch(`/api/progress/${L.id}`, { completed: !completed });
       completed = r.progress.completed; drawDone();
-      toast(completed ? 'Bo‘lim o‘qilgan deb belgilandi.' : 'Belgi olib tashlandi.');
+      toast(completed ? 'Bo’lim o’qilgan deb belgilandi.' : 'Belgi olib tashlandi.');
     } catch (e) { toast(e.message); } finally { doneBtn.disabled = false; }
   });
   let flagged = !!data.progress.reviewFlag;
-  const flagBtn = h('button', { type: 'button', class: 'icon-btn', 'aria-pressed': String(flagged), title: 'Takrorlash navbatiga qo‘shish', 'aria-label': 'Takrorlash uchun belgilash' }, icon('flag'));
+  const flagBtn = h('button', { type: 'button', class: 'icon-btn', 'aria-pressed': String(flagged), title: 'Takrorlash navbatiga qo’shish', 'aria-label': 'Takrorlash uchun belgilash' }, icon('flag'));
   flagBtn.addEventListener('click', async () => {
-    try { const r = await patch(`/api/progress/${L.id}`, { reviewFlag: !flagged }); flagged = r.progress.reviewFlag; flagBtn.setAttribute('aria-pressed', String(flagged)); toast(flagged ? 'Takrorlash navbatiga qo‘shildi.' : 'Takrorlash navbatidan olindi.'); } catch (e) { toast(e.message); }
+    try { const r = await patch(`/api/progress/${L.id}`, { reviewFlag: !flagged }); flagged = r.progress.reviewFlag; flagBtn.setAttribute('aria-pressed', String(flagged)); toast(flagged ? 'Takrorlash navbatiga qo’shildi.' : 'Takrorlash navbatidan olindi.'); } catch (e) { toast(e.message); }
   });
   const startQuiz = async () => {
     try { const r = await post('/api/quiz-attempts', { scopeType: 'lesson', scopeId: L.id, mode: 'practice', count: 10, clientKey: rid() }); navigate(`/practice/${r.attemptId}`); }
@@ -335,7 +353,7 @@ export async function reader({ el, params, query, state, navigate, setTitle }) {
   };
 
   const top = h('div', {},
-    h('nav', { class: 'crumbs', 'aria-label': 'Yo‘l' }, h('a', { href: '/dashboard', 'aria-label': 'Bosh sahifa' }, icon('home', 'sm')), h('span', {}, '/'), h('a', { href: '/topics' }, '15 ta mavzu'), h('span', {}, '/'), h('a', { href: `/topics/${L.topicId}` }, `${L.topicId} ${data.topic.title}`), h('span', {}, '/'), h('b', { style: { color: 'var(--text)' } }, L.titleUz)),
+    h('nav', { class: 'crumbs', 'aria-label': 'Yo’l' }, h('a', { href: '/dashboard', 'aria-label': 'Bosh sahifa' }, icon('home', 'sm')), h('span', {}, '/'), h('a', { href: '/topics' }, '15 ta mavzu'), h('span', {}, '/'), h('a', { href: `/topics/${L.topicId}` }, `${L.topicId} ${data.topic.title}`), h('span', {}, '/'), h('b', { style: { color: 'var(--text)' } }, L.titleUz)),
     h('div', { class: 'reader-head' },
       h('h1', {}, L.titleUz),
       h('span', { class: 'pill' }, icon('book', 'sm'), `${L.source.chapter}-bob · kitob ${L.printedPages[0]}–${L.printedPages[1]}-bet · ~${L.estMinutes} daq`)));
@@ -343,21 +361,21 @@ export async function reader({ el, params, query, state, navigate, setTitle }) {
     h('div', { class: 'row between', style: { flexWrap: 'wrap', gap: '8px' } },
       h('span', { class: 'small muted' }, L.titleOriginal),
       h('div', { class: 'reader-tools' },
-        h('button', { type: 'button', class: 'icon-btn toc-btn', 'aria-label': 'Bo‘limlar ro‘yxati', onclick: () => { toc.classList.add('open'); back.classList.remove('hidden'); } }, icon('list')),
+        h('button', { type: 'button', class: 'icon-btn toc-btn', 'aria-label': 'Bo’limlar ro’yxati', onclick: () => { toc.classList.add('open'); back.classList.remove('hidden'); } }, icon('list')),
         h('button', { type: 'button', class: 'icon-btn', 'aria-label': 'Matnni kichiklashtirish', onclick: () => setFont(-1) }, h('span', { style: { fontWeight: 800, fontSize: '13px' } }, 'A−')),
         h('button', { type: 'button', class: 'icon-btn', 'aria-label': 'Matnni kattalashtirish', onclick: () => setFont(1) }, h('span', { style: { fontWeight: 800, fontSize: '17px' } }, 'A+')),
         bookmarkButton({ targetType: 'lesson', targetId: L.id, title: L.titleUz }, data.saved),
         flagBtn,
         h('button', { type: 'button', class: 'icon-btn', 'aria-label': 'AI yordamchi', title: 'AI yordamchi', onclick: () => openPanel('ai') }, icon('sparkles')),
         h('button', { type: 'button', class: 'icon-btn', 'aria-label': 'Qaydlar', title: 'Qaydlar', onclick: () => openPanel('notes') }, icon('note')))),
-    data.aliasOf ? h('div', { class: 'banner info' }, icon('info', 'sm'), h('span', {}, `Dizayndagi “${params.sectionId}” bo‘limi kitobning shu bobiga kiradi.`)) : null,
-    data.updatedSinceRead ? h('div', { class: 'banner info' }, icon('refresh', 'sm'), h('span', {}, 'Siz o‘qiganingizdan keyin bu dars yangilangan. O‘zgarishlarni ko‘rib chiqing.')) : null,
-    h('div', { class: 'tabs', role: 'tablist', 'aria-label': 'Dars ko‘rinishi' }, tabBtns));
+    data.aliasOf ? h('div', { class: 'banner info' }, icon('info', 'sm'), h('span', {}, `Dizayndagi “${params.sectionId}” bo’limi kitobning shu bobiga kiradi.`)) : null,
+    data.updatedSinceRead ? h('div', { class: 'banner info' }, icon('refresh', 'sm'), h('span', {}, 'Siz o’qiganingizdan keyin bu dars yangilangan. O’zgarishlarni ko’rib chiqing.')) : null,
+    h('div', { class: 'tabs', role: 'tablist', 'aria-label': 'Dars ko’rinishi' }, tabBtns));
 
   const bar = h('div', { class: 'card reader-actions' },
     doneBtn,
     data.questionCount ? h('button', { type: 'button', class: 'btn', onclick: startQuiz }, icon('play'), `Test yechish (${data.questionCount})`) : h('a', { class: 'btn', href: `/practice?topic=${L.topicId}` }, icon('test'), 'Testlar'),
-    data.next ? h('a', { class: 'btn', href: `/topics/${L.topicId}/sections/${data.next.id}` }, 'Keyingi bo‘lim', icon('right')) : h('a', { class: 'btn', href: `/topics/${L.topicId}` }, 'Mavzuga qaytish', icon('right')));
+    data.next ? h('a', { class: 'btn', href: `/topics/${L.topicId}/sections/${data.next.id}` }, 'Keyingi bo’lim', icon('right')) : h('a', { class: 'btn', href: `/topics/${L.topicId}` }, 'Mavzuga qaytish', icon('right')));
 
   mount(readerEl, toc, h('div', { style: { minWidth: 0 } }, h('div', { class: 'card pad reading' }, header, prose), bar), side);
   if (window.matchMedia('(max-width: 1280px)').matches) readerEl.classList.remove('ai-closed');
@@ -367,7 +385,7 @@ export async function reader({ el, params, query, state, navigate, setTitle }) {
 
   // restore position
   const target = loc.anchor ? decodeURIComponent(loc.anchor.slice(1)) : (data.progress.lastTab === tab ? data.progress.lastBlock : null);
-  if (target) requestAnimationFrame(() => { if (!jump(target) && loc.anchor) toast('Bu joy o‘zgargan yoki boshqa bo‘limda — dars boshidan ko‘rsatildi.'); });
+  if (target) requestAnimationFrame(() => { if (!jump(target) && loc.anchor) toast('Bu joy o’zgargan yoki boshqa bo’limda — dars boshidan ko’rsatildi.'); });
 
   return () => { cleanups.forEach((f) => { try { f(); } catch { /* */ } }); setDirty(null); chat.stop(); };
 }

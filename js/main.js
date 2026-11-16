@@ -1,6 +1,7 @@
 // App shell + client router.
 import { h, icon, mount, toast, confirmBox, skeleton, errorBox } from './ui.js';
 import { get, post } from './api.js';
+import { mascot } from './mascot.js';
 
 export const state = { me: null, lastPosition: null, dirty: null, cleanup: null };
 
@@ -32,15 +33,17 @@ function setUrl(to, replace) {
 }
 
 const NAV = [
-  { href: '/dashboard', label: 'Bosh sahifa', icon: 'home', match: /^\/dashboard/ },
-  { href: '/topics', label: '15 ta mavzu', icon: 'layers', match: /^\/topics/ },
-  { href: '/library', label: 'Kutubxona', icon: 'book', match: /^\/library/ },
-  { href: '/practice', label: 'Testlar', icon: 'test', match: /^\/practice/ },
-  { href: '/saved', label: 'Saqlanganlar', icon: 'bookmark', match: /^\/saved/ },
-  { href: '/analytics', label: 'Natijalar', icon: 'chart', match: /^\/analytics/ },
-  { href: '/assistant', label: 'AI yordamchi', icon: 'sparkles', match: /^\/assistant/ },
+  { href: '/dashboard', label: 'Bosh sahifa', icon: 'home', match: /^\/dashboard/, img: 'home' },
+  { href: '/topics', label: '15 ta mavzu', icon: 'layers', match: /^\/topics/, img: 'topics' },
+  { href: '/library', label: 'Kutubxona', icon: 'book', match: /^\/library/, img: 'library' },
+  { href: '/practice', label: 'Testlar', icon: 'test', match: /^\/practice/, img: 'practice' },
+  { href: '/saved', label: 'Saqlanganlar', icon: 'bookmark', match: /^\/saved/, img: 'saved' },
+  { href: '/analytics', label: 'Natijalar', icon: 'chart', match: /^\/analytics/, img: 'analytics' },
+  { href: '/assistant', label: 'AI yordamchi', icon: 'sparkles', match: /^\/assistant/, img: 'assistant' },
 ];
 const BOTTOM = [NAV[0], NAV[1], NAV[3], NAV[4], NAV[6]];
+// 3D menu icons (public/assets/nav); the line icon stays as a fallback
+const navIcon = (n) => (n.img ? h('img', { class: 'nav-ic', src: `assets/nav/${n.img}.webp`, alt: '', width: 32, height: 32 }) : icon(n.icon));
 
 const ROUTES = [
   { re: /^\/login$/, page: 'auth', fn: 'login', public: true, bare: true },
@@ -82,7 +85,7 @@ export async function loadMe() {
 }
 
 export function navigate(to, { replace = false } = {}) {
-  if (state.dirty && !window.confirm('Saqlanmagan o‘zgarishlar bor. Sahifadan chiqasizmi?')) return;
+  if (state.dirty && !window.confirm('Saqlanmagan o’zgarishlar bor. Sahifadan chiqasizmi?')) return;
   state.dirty = null;
   if (!setUrl(to, replace)) render();
 }
@@ -95,7 +98,7 @@ document.addEventListener('click', (e) => {
   const a = e.target.closest('a');
   if (!a || a.target || a.hasAttribute('download') || e.metaKey || e.ctrlKey || e.shiftKey || e.button !== 0) return;
   const url = new URL(a.href, location.href);
-  if (DEMO && url.pathname.startsWith('/source-pdf/')) { e.preventDefault(); toast('Web ko‘rinishda kitob PDF fayli ulanmagan. To‘liq ilovada kitob sahifasi ochiladi.'); return; }
+  if (DEMO && url.pathname.startsWith('/source-pdf/')) { e.preventDefault(); toast('Web ko’rinishda kitob PDF fayli ulanmagan. To’liq ilovada kitob sahifasi ochiladi.'); return; }
   if (DEMO && a.getAttribute('href')?.startsWith('#')) { e.preventDefault(); document.getElementById(a.getAttribute('href').slice(1))?.scrollIntoView(); return; }
   if (url.origin !== location.origin || url.pathname.startsWith('/source-pdf/') || url.pathname.startsWith('/media/') || url.pathname.startsWith('/api/')) return;
   e.preventDefault();
@@ -111,27 +114,29 @@ function shell(route) {
     h('a', { class: 'brand', href: '/dashboard', 'aria-label': 'DrBek bosh sahifa' },
       h('img', { class: 'mono', src: 'assets/drbek-mono-64.png', alt: '' }),
       h('img', { class: 'word', src: 'assets/drbek-wordmark.png', alt: 'DrBek' })),
-    h('nav', { class: 'nav' }, NAV.map((n) => h('a', { href: n.href, 'aria-current': n.match.test(path) ? 'page' : null, title: n.label }, icon(n.icon), h('span', {}, n.label)))),
+    h('nav', { class: 'nav' }, NAV.map((n) => h('a', { href: n.href, 'aria-current': n.match.test(path) ? 'page' : null, title: n.label }, navIcon(n), h('span', {}, n.label)))),
     h('div', { class: 'side-foot stack' },
       me?.roles?.some((r) => ['admin', 'editor', 'reviewer'].includes(r)) ? h('nav', { class: 'nav' }, h('a', { href: '/admin', 'aria-current': path.startsWith('/admin') ? 'page' : null, title: 'Kontent boshqaruvi' }, icon('shield'), h('span', {}, 'Kontent boshqaruvi'))) : null,
       h('a', { class: 'profile-chip', href: '/settings', title: 'Profil va sozlamalar' }, h('span', { class: 'avatar' }, initials),
         h('span', { class: 'pc-text grow' }, h('b', { style: { display: 'block' } }, me?.profile?.name || 'Profil'), h('span', { class: 'xs muted' }, me?.profile?.course ? `${me.profile.course}-kurs` : 'Sozlamalar')),
         h('span', { class: 'pc-text' }, icon('right', 'sm')))));
-  const searchInput = h('input', { type: 'search', name: 'q', placeholder: 'Mavzu yoki bo‘lim qidirish', 'aria-label': 'Qidiruv', value: route.fn === 'search' ? new URLSearchParams(loc.search).get('q') || '' : '' });
+  const searchInput = h('input', { type: 'search', name: 'q', placeholder: 'Mavzu yoki bo’lim qidirish', 'aria-label': 'Qidiruv', value: route.fn === 'search' ? new URLSearchParams(loc.search).get('q') || '' : '' });
   const topbar = h('header', { class: 'topbar' },
     h('button', { class: 'icon-btn menu-btn', type: 'button', 'aria-label': 'Menyuni ochish', 'aria-controls': 'sidebar', onclick: () => toggleSidebar(true) }, icon('menu')),
     h('form', { class: 'search', role: 'search', onsubmit: (e) => { e.preventDefault(); const q = searchInput.value.trim(); if (q) navigate(`/search?q=${encodeURIComponent(q)}`); } }, icon('search'), searchInput),
     h('div', { class: 'top-actions' },
       h('a', { class: 'icon-btn bell', href: '/analytics', title: 'Eslatmalar va natijalar', 'aria-label': 'Eslatmalar' }, icon('bell')),
-      h('span', { class: 'lang-btn', title: 'Interfeys tili: o‘zbekcha' }, 'UZ', icon('chevDown', 'sm')),
+      h('span', { class: 'lang-btn', title: 'Interfeys tili: o’zbekcha' }, 'UZ', icon('chevDown', 'sm')),
       h('a', { class: 'user-btn', href: '/settings', title: 'Profil', 'aria-label': 'Profil va sozlamalar' }, icon('user'))));
   const main = h('main', { class: 'content', id: 'main', tabindex: '-1' });
   const verify = me && !me.emailVerified ? h('div', { class: 'banner info', style: { margin: '0 0 14px' } }, icon('info', 'sm'),
     h('span', { class: 'grow' }, 'Email manzilingiz hali tasdiqlanmagan. Pochtangizdagi havolani oching.'),
     h('button', { class: 'btn small', type: 'button', onclick: async (e) => { e.target.disabled = true; try { await post('/api/auth/resend-verification'); toast('Tasdiqlash xati qayta yuborildi.'); } catch (err) { toast(err.message); } } }, 'Qayta yuborish')) : null;
-  const bottom = h('nav', { class: 'bottom-nav', 'aria-label': 'Pastki menyu' }, BOTTOM.map((n) => h('a', { href: n.href, 'aria-current': n.match.test(path) ? 'page' : null }, icon(n.icon), n.label.replace('15 ta mavzu', 'Mavzular').replace('AI yordamchi', 'AI'))));
+  const bottom = h('nav', { class: 'bottom-nav', 'aria-label': 'Pastki menyu' }, BOTTOM.map((n) => h('a', { href: n.href, 'aria-current': n.match.test(path) ? 'page' : null }, navIcon(n), n.label.replace('15 ta mavzu', 'Mavzular').replace('AI yordamchi', 'AI'))));
   const back = h('div', { class: 'drawer-back hidden', id: 'sb-back', onclick: () => toggleSidebar(false) });
-  const app = h('div', { class: 'app' }, sidebar, back, h('div', { class: 'main' }, topbar, h('div', { style: { padding: '0 28px' }, class: 'verify-wrap' }, verify), main), bottom);
+  // floating AI mascot; hidden where the AI is already open (assistant, lesson side panel), where the page has its own (analytics) or would distract (tests, admin)
+  const fab = ['assistant', 'reader', 'admin', 'analytics'].includes(route.page) || route.fn === 'attempt' ? null : mascot(() => navigate('/assistant'));
+  const app = h('div', { class: 'app' }, sidebar, back, h('div', { class: 'main' }, topbar, h('div', { style: { padding: '0 28px' }, class: 'verify-wrap' }, verify), main), bottom, fab);
   return { app, main };
 }
 function toggleSidebar(open) {
@@ -182,7 +187,7 @@ export async function render() {
 
 function notFound(msg) {
   return h('div', { class: 'card pad empty', style: { maxWidth: '560px', margin: '60px auto' } }, icon('alert'),
-    h('h2', {}, 'Sahifa topilmadi'), h('p', {}, msg || 'Bunday manzil mavjud emas yoki o‘chirilgan.'),
+    h('h2', {}, 'Sahifa topilmadi'), h('p', {}, msg || 'Bunday manzil mavjud emas yoki o’chirilgan.'),
     h('a', { class: 'btn primary', href: state.me ? '/dashboard' : '/login' }, 'Bosh sahifaga qaytish'));
 }
 

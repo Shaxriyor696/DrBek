@@ -39,12 +39,12 @@ export async function practice({ el, query, navigate, state }) {
 
   const setup = withQ.length ? h('section', { class: 'card pad stack' },
     h('h2', { style: { margin: 0 } }, 'Yangi test'),
-    h('div', { class: 'field' }, h('label', { for: 'q-scope' }, 'Mavzu yoki bo‘lim'), scopeSel),
+    h('div', { class: 'field' }, h('label', { for: 'q-scope' }, 'Mavzu yoki bo’lim'), scopeSel),
     h('div', { class: 'field' }, h('span', { style: { fontWeight: 700, fontSize: '14px' } }, 'Savollar soni'), chipGroup([[5, '5'], [10, '10'], [20, '20']], count, (v) => { count = v; }, 'Savollar soni')),
     h('div', { class: 'field' }, h('span', { style: { fontWeight: 700, fontSize: '14px' } }, 'Rejim'), chipGroup([['practice', 'Mashq (har savoldan keyin tekshirish)'], ['exam', 'Imtihon (natija oxirida)']], mode, (v) => { mode = v; }, 'Rejim')),
-    h('p', { class: 'xs muted', style: { margin: 0 } }, 'Testlar ixtiyoriy. Savollar kitob materialiga asoslangan va hali ekspert tekshiruvidan o‘tmagan.'),
+    h('p', { class: 'xs muted', style: { margin: 0 } }, 'Testlar ixtiyoriy. Savollar kitob materialiga asoslangan va hali ekspert tekshiruvidan o’tmagan.'),
     startBtn)
-    : emptyBox('test', 'Test savollari hali tayyor emas', 'Savollar banki faqat tekshirilgan manbadan tuziladi. Hozircha savollar yo‘q.');
+    : emptyBox('test', 'Test savollari hali tayyor emas', 'Savollar banki faqat tekshirilgan manbadan tuziladi. Hozircha savollar yo’q.');
 
   const hist = d.attempts.length ? h('section', { class: 'card pad' },
     h('h2', { style: { marginTop: 0 } }, 'Urinishlar tarixi'),
@@ -57,7 +57,7 @@ export async function practice({ el, query, navigate, state }) {
         h('td', { class: 'small' }, fmtDate(a.submittedAt || a.startedAt, state.me.profile.timezone)),
         h('td', {}, h('a', { class: 'btn small', href: a.status === 'submitted' ? `/practice/${a.id}/results` : `/practice/${a.id}` }, a.status === 'submitted' ? 'Natija' : 'Davom etish')))))))) : null;
 
-  mount(el, h('h1', {}, 'Testlar'), h('p', { class: 'muted' }, 'O‘zingizni tekshirish uchun ixtiyoriy testlar. O‘qish progressi testga bog‘liq emas.'),
+  mount(el, h('h1', {}, 'Testlar'), h('p', { class: 'muted' }, 'O’zingizni tekshirish uchun ixtiyoriy testlar. O’qish progressi testga bog’liq emas.'),
     h('div', { class: 'grid', style: { gridTemplateColumns: 'minmax(0,1fr)', gap: '18px' } }, setup, hist));
 }
 
@@ -90,7 +90,7 @@ export async function attempt({ el, params, navigate }) {
   }
   async function submit() {
     const un = Q.filter((q) => !q.selected).length;
-    if (!(await confirmBox('Testni yakunlash', un ? `${un} ta savolga javob berilmagan. Ular noto‘g‘ri hisoblanadi. Yakunlaysizmi?` : 'Barcha savollarga javob berdingiz. Yakunlaysizmi?', 'Yakunlash'))) return;
+    if (!(await confirmBox('Testni yakunlash', un ? `${un} ta savolga javob berilmagan. Ular noto’g’ri hisoblanadi. Yakunlaysizmi?` : 'Barcha savollarga javob berdingiz. Yakunlaysizmi?', 'Yakunlash'))) return;
     try { await post(`/api/quiz-attempts/${A.id}/submit`); navigate(`/practice/${A.id}/results`, { replace: true }); } catch (e) { toast(e.message); }
   }
 
@@ -111,7 +111,7 @@ export async function attempt({ el, params, navigate }) {
           h('input', { type: 'radio', name: `q-${q.id}`, value: o.id, checked: isSel, disabled: q.checked, onchange: () => choose(q, o.id) }),
           h('span', { class: 'L' }, 'ABCDEF'[k]), h('span', {}, inline(o.text)));
       })),
-      q.checked ? h('div', { class: `banner ${q.correct ? 'ok' : 'danger'}`, style: { marginTop: '14px' } }, icon(q.correct ? 'checkCircle' : 'x', 'sm'), h('div', {}, h('b', {}, q.correct ? 'To‘g‘ri! ' : 'Noto‘g‘ri. '), inline(q.explanation || ''),
+      q.checked ? h('div', { class: `banner ${q.correct ? 'ok' : 'danger'}`, style: { marginTop: '14px' } }, icon(q.correct ? 'checkCircle' : 'x', 'sm'), h('div', {}, h('b', {}, q.correct ? 'To’g’ri! ' : 'Noto’g’ri. '), inline(q.explanation || ''),
         q.source ? h('div', { class: 'xs', style: { marginTop: '6px' } }, srcLink(q.source)) : null)) : null,
       A.mode === 'practice' && !q.checked
         ? h('button', { type: 'button', class: 'btn primary lg block', style: { marginTop: '18px' }, disabled: !q.selected, onclick: () => check(q) }, icon('play'), 'Javobni tekshirish')
@@ -119,14 +119,14 @@ export async function attempt({ el, params, navigate }) {
           : h('button', { type: 'button', class: 'btn primary lg block', style: { marginTop: '18px' }, onclick: submit }, icon('flag'), 'Yakunlash'),
       h('div', { class: 'grid g2', style: { marginTop: '12px' } },
         h('button', { type: 'button', class: 'btn', disabled: i === 0, onclick: () => { i--; draw(); } }, icon('left'), 'Oldingi'),
-        h('button', { type: 'button', class: 'btn', disabled: i === Q.length - 1, onclick: () => { i++; draw(); } }, icon('pause'), 'O‘tkazib turish')));
+        h('button', { type: 'button', class: 'btn', disabled: i === Q.length - 1, onclick: () => { i++; draw(); } }, icon('pause'), 'O’tkazib turish')));
   }
 
-  const scopeLabel = A.scopeType === 'lesson' ? 'Bo‘lim' : A.scopeType === 'topic' ? 'Mavzu' : 'Qamrov';
+  const scopeLabel = A.scopeType === 'lesson' ? 'Bo’lim' : A.scopeType === 'topic' ? 'Mavzu' : 'Qamrov';
   mount(el,
     h('div', { class: 'quiz-head' },
       h('span', { class: 'qi' }, icon('test')),
-      h('div', { class: 'grow' }, h('h1', { style: { margin: 0 } }, `${A.scopeTitle} bo‘yicha test`), h('p', { class: 'muted', style: { margin: '2px 0 0', fontSize: '17px' } }, `${A.mode === 'exam' ? 'Imtihon rejimi' : 'Mashq rejimi'} · ${Q.length} savol`)),
+      h('div', { class: 'grow' }, h('h1', { style: { margin: 0 } }, `${A.scopeTitle} bo’yicha test`), h('p', { class: 'muted', style: { margin: '2px 0 0', fontSize: '17px' } }, `${A.mode === 'exam' ? 'Imtihon rejimi' : 'Mashq rejimi'} · ${Q.length} savol`)),
       h('span', { class: 'pill' }, icon('cap', 'sm'), 'Ixtiyoriy test')),
     h('div', { class: 'quiz-layout' },
       h('div', {}, h('section', { class: 'card q-card', 'aria-live': 'polite' }, card)),
@@ -175,7 +175,7 @@ export async function results({ el, params, navigate }) {
     x.options.map((o) => {
       const ok = o.id === x.answerOptionId; const bad = o.id === x.selected && !ok;
       return h('div', { class: `opt-res ${ok ? 'ok' : bad ? 'bad' : ''}` }, h('input', { type: 'radio', disabled: true, checked: o.id === x.selected, 'aria-hidden': 'true' }), h('span', {}, inline(o.text)),
-        ok ? h('span', { class: 'tag' }, '✓ To‘g‘ri') : bad ? h('span', { class: 'tag' }, '✗ Noto‘g‘ri') : null);
+        ok ? h('span', { class: 'tag' }, '✓ To’g’ri') : bad ? h('span', { class: 'tag' }, '✗ Noto’g’ri') : null);
     }),
     x.result === 'unanswered' ? h('p', { class: 'xs muted', style: { margin: '6px 0 0' } }, 'Bu savolga javob berilmagan.') : null,
     h('div', { class: 'banner info', style: { marginTop: '10px' } }, icon('info', 'sm'), h('div', {}, h('b', {}, 'Izoh: '), inline(x.explanation || ''), h('div', { class: 'xs', style: { marginTop: '4px' } }, srcLink({ ...x.source, lessonId: x.lessonId, lessonTitle: x.lessonTitle, topicId: x.source?.topicId })))));
@@ -184,31 +184,31 @@ export async function results({ el, params, navigate }) {
     const sec = tp?.sections.find((s) => s.id === x.lessonId);
     return h('a', { class: 'rec', href: `/topics/${x.source?.topicId || topicId}/sections/${x.lessonId}` },
       h('img', { src: tp ? tp.topic.cardImage.replace(/\.webp$/, '_wide.webp') : 'assets/topics/topic_03_wide.webp', alt: '' }),
-      h('div', {}, h('b', { style: { fontSize: '17px', display: 'block' } }, x.lessonTitle), h('span', { class: 'small muted' }, `${tp ? `${tp.topic.id} ${tp.topic.title} · ` : ''}${sec ? `${String(sec.order).padStart(2, '0')}-bo‘lim` : ''}`)), icon('right'));
+      h('div', {}, h('b', { style: { fontSize: '17px', display: 'block' } }, x.lessonTitle), h('span', { class: 'small muted' }, `${tp ? `${tp.topic.id} ${tp.topic.title} · ` : ''}${sec ? `${String(sec.order).padStart(2, '0')}-bo’lim` : ''}`)), icon('right'));
   });
   mount(el,
     h('div', { style: { marginBottom: '16px' } }, h('h1', { style: { margin: 0 } }, 'Natijangiz va keyingi qadam'), h('p', { class: 'sub', style: { margin: '4px 0 0' } }, `${A.scopeTitle} · ${A.mode === 'exam' ? 'Imtihon' : 'Mashq'} natijasi${A.isBest ? ' · eng yaxshi natija' : ''}`)),
     h('section', { class: 'res-hero' },
       h('div', { class: 'art' }, h('img', { src: tp?.topic.cardImage || 'assets/topics/topic_03.webp', alt: '' })),
-      h('div', {}, (() => { const r = h('div', { class: 'ring-wrap', style: { width: '190px', height: '190px' } }, ring(p, 190, `${p}% to‘g‘ri`), h('div', { class: 'ring-label' }, h('span', { style: { fontSize: '44px' } }, `${p}%`, h('small', {}, 'to‘g‘ri javoblar')))); return r; })()),
+      h('div', {}, (() => { const r = h('div', { class: 'ring-wrap', style: { width: '190px', height: '190px' } }, ring(p, 190, `${p}% to’g’ri`), h('div', { class: 'ring-label' }, h('span', { style: { fontSize: '44px' } }, `${p}%`, h('small', {}, 'to’g’ri javoblar')))); return r; })()),
       h('ul', {},
-        h('li', {}, h('span', { class: 'dot-ic ok' }, icon('check')), h('span', {}, h('b', {}, c), ' ta to‘g‘ri')),
+        h('li', {}, h('span', { class: 'dot-ic ok' }, icon('check')), h('span', {}, h('b', {}, c), ' ta to’g’ri')),
         h('li', {}, h('span', { class: 'dot-ic bad' }, icon('x')), h('span', {}, h('b', {}, w), ' ta xato')),
         h('li', {}, h('span', { class: 'dot-ic na' }), h('span', {}, h('b', {}, u), ' ta javobsiz')),
         h('li', {}, h('span', { style: { color: 'var(--primary)' } }, icon('clock')), h('span', {}, h('b', {}, `${String(mins).padStart(2, '0')}:${String(secs).padStart(2, '0')}`), h('br'), h('span', { class: 'small muted' }, 'sarflangan vaqt')))),
       medal),
     h('section', { class: 'card two-prog' },
-      h('div', {}, icon('book'), h('div', { class: 'grow' }, h('b', {}, 'O‘qish jarayoni'), h('div', { class: 'small muted' }, tp ? `${tp.topic.id} ${tp.topic.title} bo‘yicha ${vis.length} ta bo‘limdan ${read} tasi o‘qilgan` : '—'),
+      h('div', {}, icon('book'), h('div', { class: 'grow' }, h('b', {}, 'O’qish jarayoni'), h('div', { class: 'small muted' }, tp ? `${tp.topic.id} ${tp.topic.title} bo’yicha ${vis.length} ta bo’limdan ${read} tasi o’qilgan` : '—'),
         h('div', { class: 'row', style: { flexWrap: 'nowrap', marginTop: '6px' } }, h('div', { class: 'progress grow' }, h('span', { style: { width: `${vis.length ? (read / vis.length) * 100 : 0}%` } })), h('b', {}, `${read} / ${vis.length}`)))),
-      h('div', {}, icon('target'), h('div', { class: 'grow' }, h('b', {}, 'Test jarayoni'), h('div', { class: 'small muted' }, `${A.total} ta savoldan ${c} tasi to‘g‘ri`),
+      h('div', {}, icon('target'), h('div', { class: 'grow' }, h('b', {}, 'Test jarayoni'), h('div', { class: 'small muted' }, `${A.total} ta savoldan ${c} tasi to’g’ri`),
         h('div', { class: 'row', style: { flexWrap: 'nowrap', marginTop: '6px' } }, h('div', { class: 'progress grow' }, h('span', { style: { width: `${p}%` } })), h('b', {}, `${c} / ${A.total}`))))),
     h('div', { class: 'res-grid' },
-      h('section', {}, h('h2', { style: { margin: '18px 0 12px', fontSize: '26px' } }, wrong.length ? 'Xatolarni tushunib oling' : 'Barcha javoblar to‘g‘ri!'),
-        wrong.length ? h('div', { class: 'stack' }, wrong.map(item)) : h('div', { class: 'card pad' }, h('p', { style: { margin: 0 } }, 'Ajoyib natija. Keyingi bo‘limga o‘ting yoki boshqa mavzu testini yeching.')),
+      h('section', {}, h('h2', { style: { margin: '18px 0 12px', fontSize: '26px' } }, wrong.length ? 'Xatolarni tushunib oling' : 'Barcha javoblar to’g’ri!'),
+        wrong.length ? h('div', { class: 'stack' }, wrong.map(item)) : h('div', { class: 'card pad' }, h('p', { style: { margin: 0 } }, 'Ajoyib natija. Keyingi bo’limga o’ting yoki boshqa mavzu testini yeching.')),
         h('details', { class: 'card pad', style: { marginTop: '14px' } }, h('summary', { style: { cursor: 'pointer', fontWeight: 800 } }, `Barcha savollar (${d.items.length})`),
-          h('ol', { class: 'small', style: { paddingLeft: '20px' } }, d.items.map((x) => h('li', { style: { margin: '6px 0' } }, inline(x.stem), ' — ', h('b', { style: { color: x.result === 'correct' ? 'var(--ok)' : 'var(--danger)' } }, x.result === 'correct' ? 'to‘g‘ri' : x.result === 'wrong' ? 'xato' : 'javobsiz')))))),
-      h('section', { class: 'card pad stack', style: { marginTop: '18px' } }, h('h2', { style: { margin: 0, fontSize: '22px' } }, 'Keyingi o‘rganish uchun tavsiyalar'), recs,
-        h('a', { class: 'btn', href: topicId ? `/topics/${topicId}` : '/topics', style: { borderColor: 'var(--primary)', color: 'var(--primary)' } }, icon('book'), 'Bo‘limga qaytish'),
+          h('ol', { class: 'small', style: { paddingLeft: '20px' } }, d.items.map((x) => h('li', { style: { margin: '6px 0' } }, inline(x.stem), ' — ', h('b', { style: { color: x.result === 'correct' ? 'var(--ok)' : 'var(--danger)' } }, x.result === 'correct' ? 'to’g’ri' : x.result === 'wrong' ? 'xato' : 'javobsiz')))))),
+      h('section', { class: 'card pad stack', style: { marginTop: '18px' } }, h('h2', { style: { margin: 0, fontSize: '22px' } }, 'Keyingi o’rganish uchun tavsiyalar'), recs,
+        h('a', { class: 'btn', href: topicId ? `/topics/${topicId}` : '/topics', style: { borderColor: 'var(--primary)', color: 'var(--primary)' } }, icon('book'), 'Bo’limga qaytish'),
         d.history.length > 1 ? h('div', { class: 'small' }, h('b', {}, 'Urinishlar: '), d.history.slice(0, 5).map((x, k) => [k ? ', ' : '', h('a', { href: `/practice/${x.id}/results` }, `${Math.round(x.percent)}%`)])) : null)),
     h('section', { class: 'card res-foot' },
       h('a', { href: topicId ? `/topics/${topicId}` : '/practice', class: 'row', style: { fontWeight: 800, textDecoration: 'none', gap: '8px' } }, icon('left'), tp ? `${tp.topic.title} mavzusiga qaytish` : 'Testlarga qaytish'),

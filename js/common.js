@@ -14,7 +14,7 @@ export async function toggleBookmark(btn, { targetType, targetId, title, snippet
       return false;
     }
     setBookmarkBtn(btn, true);
-    toast('Saqlanganlarga qo‘shildi.');
+    toast('Saqlanganlarga qo’shildi.');
     return true;
   } catch (err) { toast(err.message); return saved; } finally { btn.disabled = false; }
 }
@@ -77,7 +77,7 @@ export async function openFigure(imageIdOrFigure, { onSave, onNote } = {}) {
       h('div', { class: 'row xs', style: { flexWrap: 'wrap', gap: '8px' } },
         h('span', {}, `Manba: Guyton & Hall, 14-nashr · kitob sahifasi ${f.printedPageLabel ?? '—'} (PDF ${f.pdfPage})`),
         statusBadge(f.reviewStatus),
-        f.cropMethod === 'full_page_fallback' || !f.cropMethod ? h('span', { class: 'badge warn' }, 'Qo‘lda kesish kerak') : null)));
+        f.cropMethod === 'full_page_fallback' || !f.cropMethod ? h('span', { class: 'badge warn' }, 'Qo’lda kesish kerak') : null)));
   document.body.appendChild(box);
   document.addEventListener('keydown', onKey);
   closeBtn.focus();
