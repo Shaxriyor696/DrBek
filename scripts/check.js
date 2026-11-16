@@ -39,7 +39,7 @@ if (fs.existsSync(qdir)) for (const f of fs.readdirSync(qdir).filter((x) => x.en
     if (!q.source?.lessonId) errors.push(`${q.id}: no source`);
   }
 }
-console.log(`Mavzular: ${topics.length} · darslar: ${lessons} · asl matn: ${words.toLocaleString('en')} so‘z · rasm/jadval kesilgan: ${figsIn}/${man.size} · to‘liq tarjima: ${trFull}/${lessons} bob · test savollari: ${qn}`);
-if (warn.length) console.log(`Qo‘lda tekshirish kerak (${warn.length}):\n  ${warn.join('\n  ')}`);
+console.log(`Mavzular: ${topics.length} · darslar: ${lessons} · asl matn: ${words.toLocaleString('en')} so’z · rasm/jadval kesilgan: ${figsIn}/${man.size} · to’liq tarjima: ${trFull}/${lessons} bob · test savollari: ${qn}`);
+if (warn.length) console.log(`Qo’lda tekshirish kerak (${warn.length}):\n  ${warn.join('\n  ')}`);
 if (errors.length) { console.error(`XATOLAR (${errors.length}):\n  ${errors.join('\n  ')}`); process.exit(1); }
 console.log('OK');

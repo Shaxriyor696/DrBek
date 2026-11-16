@@ -57,7 +57,7 @@ export function authRoutes(router, { db, config, mailer }) {
     const row = db.prepare('SELECT * FROM auth_tokens WHERE token_hash=? AND kind=?').get(sha(String(token || '')), kind);
     if (!row || row.used_at) throw new Error('invalid_token');
     if (row.expires_at < nowIso()) {
-      const e = E.invalid({ token: 'Havola muddati tugagan.' }, 'Havola muddati tugagan. Yangisini so‘rang.');
+      const e = E.invalid({ token: 'Havola muddati tugagan.' }, 'Havola muddati tugagan. Yangisini so’rang.');
       e.code = 'token_expired';
       throw e;
     }
@@ -68,8 +68,8 @@ export function authRoutes(router, { db, config, mailer }) {
   router.post('/api/auth/register', async ({ body, ip, res }) => {
     rateLimit(db, `register:${ip}`, 10, 3600);
     const d = v(body, {
-      email: { type: 'string', required: true, re: EMAIL_RE, max: 254, msg: 'Email manzil noto‘g‘ri.' },
-      password: { type: 'string', required: true, min: 8, max: 200, msg: 'Parol kamida 8 belgidan iborat bo‘lsin.' },
+      email: { type: 'string', required: true, re: EMAIL_RE, max: 254, msg: 'Email manzil noto’g’ri.' },
+      password: { type: 'string', required: true, min: 8, max: 200, msg: 'Parol kamida 8 belgidan iborat bo’lsin.' },
       name: { type: 'string', required: true, min: 2, max: 80, msg: 'Ismingizni kiriting.' },
     });
     const email = d.email.toLowerCase();
@@ -101,7 +101,7 @@ export function authRoutes(router, { db, config, mailer }) {
     rateLimit(db, `login:${email}`, 8, 900);
     const u = db.prepare('SELECT * FROM users WHERE email=?').get(email);
     const ok = u ? verifyPassword(d.password, u.password_hash) : (verifyPassword(d.password, hashPassword('timing-dummy')), false);
-    if (!ok) throw new ApiError(401, 'invalid_credentials', 'Email yoki parol noto‘g‘ri.');
+    if (!ok) throw new ApiError(401, 'invalid_credentials', 'Email yoki parol noto’g’ri.');
     res.setHeader('set-cookie', cookie(createSession(u.id), SESSION_DAYS * 86400));
     return { body: { ok: true } };
   });
@@ -134,11 +134,11 @@ export function authRoutes(router, { db, config, mailer }) {
 
   router.post('/api/auth/forgot-password', async ({ body, ip }) => {
     rateLimit(db, `forgot:${ip}`, 5, 3600);
-    const d = v(body, { email: { type: 'string', required: true, re: EMAIL_RE, msg: 'Email manzil noto‘g‘ri.' } });
+    const d = v(body, { email: { type: 'string', required: true, re: EMAIL_RE, msg: 'Email manzil noto’g’ri.' } });
     const u = db.prepare('SELECT id, email FROM users WHERE email=?').get(d.email.toLowerCase());
     if (u) {
       const t = issueToken(u.id, 'reset', 1);
-      mailer.send(u.email, 'DrBek: parolni tiklash', `Yangi parol o‘rnatish havolasi (1 soat amal qiladi): ${config.publicUrl}/reset-password?token=${t}`);
+      mailer.send(u.email, 'DrBek: parolni tiklash', `Yangi parol o’rnatish havolasi (1 soat amal qiladi): ${config.publicUrl}/reset-password?token=${t}`);
     }
     return { status: 202, body: { ok: true } }; // same answer whether or not the account exists
   });
@@ -146,7 +146,7 @@ export function authRoutes(router, { db, config, mailer }) {
   router.post('/api/auth/reset-password', async ({ body, res }) => {
     const d = v(body, {
       token: { type: 'string', required: true },
-      password: { type: 'string', required: true, min: 8, max: 200, msg: 'Parol kamida 8 belgidan iborat bo‘lsin.' },
+      password: { type: 'string', required: true, min: 8, max: 200, msg: 'Parol kamida 8 belgidan iborat bo’lsin.' },
     });
     let uid;
     try { uid = consumeToken(d.token, 'reset'); } catch (e) {

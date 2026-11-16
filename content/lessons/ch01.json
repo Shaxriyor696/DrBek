@@ -304,21 +304,21 @@
   "Funksional tizimlar",
   "Nazorat mexanizmlari",
   "Nazorat tizimlari xususiyatlari",
-  "Fiziologik o'zgaruvchanlik",
-  "Boshqa boblar bilan bog'liqlik"
+  "Fiziologik o’zgaruvchanlik",
+  "Boshqa boblar bilan bog’liqlik"
  ],
  "blocks": {
   "simple": [
    {
     "type": "heading",
     "level": 2,
-    "text": "Asosiy g'oya",
+    "text": "Asosiy g’oya",
     "id": "ch01-s-0-asosiy-goya",
     "bid": "ch01-u0"
    },
    {
     "type": "paragraph",
-    "text": "Fiziologiya hayotning fizik-kimyoviy mexanizmlarini tushuntiradi. Organizm ~35–40 trillion hujayradan iborat \"ijtimoiy tuzum\": har bir a'zo **hujayradan tashqari suyuqlik (ECF) — ichki muhit** (Claude Bernard, *milieu intérieur*) doimiyligini saqlashga hissa qo'shadi; bu **gomeostaz** (Walter Cannon, 1929). Ichki muhit me'yorda bo'lsa hujayralar yashaydi; bir tizim ishdan chiqsa — hamma hujayra zarar ko'radi (o'rtacha disfunksiya = kasallik, og'ir = o'lim).",
+    "text": "Fiziologiya hayotning fizik-kimyoviy mexanizmlarini tushuntiradi. Organizm ~35–40 trillion hujayradan iborat \"ijtimoiy tuzum\": har bir a’zo **hujayradan tashqari suyuqlik (ECF) — ichki muhit** (Claude Bernard, *milieu intérieur*) doimiyligini saqlashga hissa qo’shadi; bu **gomeostaz** (Walter Cannon, 1929). Ichki muhit me’yorda bo’lsa hujayralar yashaydi; bir tizim ishdan chiqsa — hamma hujayra zarar ko’radi (o’rtacha disfunksiya = kasallik, og’ir = o’lim).",
     "bid": "ch01-u1"
    },
    {
@@ -333,7 +333,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Hujayralar:** qizil qon hujayralari ~25 trillion (eng ko'p tur). Ichakda 400–1000 tur mikrob (*microbiota*) — inson hujayralaridan ko'p (p.8).",
+      "text": "**Hujayralar:** qizil qon hujayralari ~25 trillion (eng ko’p tur). Ichakda 400–1000 tur mikrob (*microbiota*) — inson hujayralaridan ko’p (p.8).",
       "depth": 0
      },
      {
@@ -341,11 +341,11 @@
       "depth": 0
      },
      {
-      "text": "**Me'yor — qiymat emas, diapazon.** Qondagi H⁺ o'zgarishi <5 nmol/L; Na⁺ bir necha mmol/L ga o'zgaradi — bu H⁺ dan ≥1 mln marta katta (p.9).",
+      "text": "**Me’yor — qiymat emas, diapazon.** Qondagi H⁺ o’zgarishi <5 nmol/L; Na⁺ bir necha mmol/L ga o’zgaradi — bu H⁺ dan ≥1 mln marta katta (p.9).",
       "depth": 0
      },
      {
-      "text": "**Kasallikdagi gomeostatik kompensatsiya:** masalan, buyrak tuz chiqara olmasa → arterial bosim oshadi → chiqarish me'yorlashadi, lekin uzoq muddatda bosim a'zolarni (buyrakni ham) shikastlab, ayovsiz doira hosil qiladi (p.9). Patofiziologiya shu \"savdolashuv\"larni o'rganadi.",
+      "text": "**Kasallikdagi gomeostatik kompensatsiya:** masalan, buyrak tuz chiqara olmasa → arterial bosim oshadi → chiqarish me’yorlashadi, lekin uzoq muddatda bosim a’zolarni (buyrakni ham) shikastlab, ayovsiz doira hosil qiladi (p.9). Patofiziologiya shu \"savdolashuv\"larni o’rganadi.",
       "depth": 0
      }
     ],
@@ -367,27 +367,27 @@
     "ordered": true,
     "items": [
      {
-      "text": "**Qon aylanish** — ECF ni ikki bosqichda tashiydi: tomirlar bo'ylab va kapillyar–interstitsiy almashinuvi (diffuziya). Qon tinch holatda butun aylanani ~1 marta/min, faol holatda 6 martagacha o'tadi. Hujayralarning kami kapillyardan >50 µm uzoqda — diffuziya soniyalarda (Fig. 1-1, 1-2).",
+      "text": "**Qon aylanish** — ECF ni ikki bosqichda tashiydi: tomirlar bo’ylab va kapillyar–interstitsiy almashinuvi (diffuziya). Qon tinch holatda butun aylanani ~1 marta/min, faol holatda 6 martagacha o’tadi. Hujayralarning kami kapillyardan >50 µm uzoqda — diffuziya soniyalarda (Fig. 1-1, 1-2).",
       "depth": 0
      },
      {
-      "text": "**Ozuqa manbalari:** o'pka (alveolyar membrana 0,4–2,0 µm), oshqozon-ichak, jigar va metabolik a'zolar, muskul-skelet tizimi (harakat orqali oziq topish/himoya).",
+      "text": "**Ozuqa manbalari:** o’pka (alveolyar membrana 0,4–2,0 µm), oshqozon-ichak, jigar va metabolik a’zolar, muskul-skelet tizimi (harakat orqali oziq topish/himoya).",
       "depth": 0
      },
      {
-      "text": "**Chiqindilarni chiqarish:** o'pka (CO₂ — eng ko'p metabolit), buyrak (filtratsiya + kerakli moddalarni qayta so'rish; mochevina, kreatinin yomon so'riladi), ichak, jigar (zararsizlantirish, safro).",
+      "text": "**Chiqindilarni chiqarish:** o’pka (CO₂ — eng ko’p metabolit), buyrak (filtratsiya + kerakli moddalarni qayta so’rish; mochevina, kreatinin yomon so’riladi), ichak, jigar (zararsizlantirish, safro).",
       "depth": 0
      },
      {
-      "text": "**Boshqaruv:** asab tizimi (sensor kirish → MNS integratsiya → motor chiqish; avtonom qism ichki a'zolarni ongsiz boshqaradi) va gormonlar (tiroid — reaksiyalar tezligi, insulin — glyukoza, adrenokortikal — Na⁺/K⁺/oqsil, paratgormon — Ca/fosfat).",
+      "text": "**Boshqaruv:** asab tizimi (sensor kirish → MNS integratsiya → motor chiqish; avtonom qism ichki a’zolarni ongsiz boshqaradi) va gormonlar (tiroid — reaksiyalar tezligi, insulin — glyukoza, adrenokortikal — Na⁺/K⁺/oqsil, paratgormon — Ca/fosfat).",
       "depth": 0
      },
      {
-      "text": "**Himoya:** immun tizim (o'zini-begonani farqlash, fagotsitoz/antitelolar), teri (chegara, harorat, ajratish).",
+      "text": "**Himoya:** immun tizim (o’zini-begonani farqlash, fagotsitoz/antitelolar), teri (chegara, harorat, ajratish).",
       "depth": 0
      },
      {
-      "text": "**Ko'payish** — keng ma'noda gomeostazga xizmat qiladi.",
+      "text": "**Ko’payish** — keng ma’noda gomeostazga xizmat qiladi.",
       "depth": 0
      }
     ],
@@ -419,19 +419,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "**O₂:** gemoglobinning **kislorod-bufer** funksiyasi — to'qimada O₂ ko'p bo'lsa bermaydi, kam bo'lsa beradi.",
+      "text": "**O₂:** gemoglobinning **kislorod-bufer** funksiyasi — to’qimada O₂ ko’p bo’lsa bermaydi, kam bo’lsa beradi.",
       "depth": 0
      },
      {
-      "text": "**CO₂:** yuqori CO₂ nafas markazini qo'zg'atadi → chuqur, tez nafas → CO₂ chiqariladi.",
+      "text": "**CO₂:** yuqori CO₂ nafas markazini qo’zg’atadi → chuqur, tez nafas → CO₂ chiqariladi.",
       "depth": 0
      },
      {
-      "text": "**Arterial bosim — baroreseptor refleksi** (Fig. 1-3): uyqu arteriyasi bifurkatsiyasi va aorta ravog'idagi cho'zilish reseptorlari → uzunchoq miya (set point bilan solishtirish, \"xato signali\") → vazomotor markaz tormozlanadi → simpatik faollik ↓ → tomir kengayadi, yurak kuchi ↓ → bosim pasayadi; aksincha ham.",
+      "text": "**Arterial bosim — baroreseptor refleksi** (Fig. 1-3): uyqu arteriyasi bifurkatsiyasi va aorta ravog’idagi cho’zilish reseptorlari → uzunchoq miya (set point bilan solishtirish, \"xato signali\") → vazomotor markaz tormozlanadi → simpatik faollik ↓ → tomir kengayadi, yurak kuchi ↓ → bosim pasayadi; aksincha ham.",
       "depth": 0
      },
      {
-      "text": "**Table 1-1** — ECF tarkibiy qismlari, me'yor va o'limgacha bo'lgan chegaralar. Misollar: harorat me'yordan atigi 7°C (11°F) oshsa — ayovsiz doira; pH me'yor 7,4, o'limli qiymatlar ±0,5; K⁺ me'yorning 1/3 dan pastga tushsa — falaj, 2 baravardan oshsa — yurak depressiyasi; Ca²⁺ yarmidan pastda — tetaniya; glyukoza yarmidan pastda — asabiylik, tutqanoq (p.13).",
+      "text": "**Table 1-1** — ECF tarkibiy qismlari, me’yor va o’limgacha bo’lgan chegaralar. Misollar: harorat me’yordan atigi 7°C (11°F) oshsa — ayovsiz doira; pH me’yor 7,4, o’limli qiymatlar ±0,5; K⁺ me’yorning 1/3 dan pastga tushsa — falaj, 2 baravardan oshsa — yurak depressiyasi; Ca²⁺ yarmidan pastda — tetaniya; glyukoza yarmidan pastda — asabiylik, tutqanoq (p.13).",
       "depth": 0
      }
     ],
@@ -459,7 +459,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Manfiy qayta aloqa** — ko'pchilik tizimlar: og'ish uni bartaraf etuvchi javobni chaqiradi.",
+      "text": "**Manfiy qayta aloqa** — ko’pchilik tizimlar: og’ish uni bartaraf etuvchi javobni chaqiradi.",
       "depth": 0
      },
      {
@@ -467,11 +467,11 @@
       "depth": 0
      },
      {
-      "text": "**Musbat qayta aloqa — \"ayovsiz doira\"** (Fig. 1-4): 2 L qon yo'qotilsa → bosim ↓ → koronar oqim ↓ → yurak zaiflashadi → ... → o'lim; 1 L da manfiy qayta aloqa yengadi va tiklanish bo'ladi. Yurak me'yorda ~5 L/min haydaydi.",
+      "text": "**Musbat qayta aloqa — \"ayovsiz doira\"** (Fig. 1-4): 2 L qon yo’qotilsa → bosim ↓ → koronar oqim ↓ → yurak zaiflashadi → ... → o’lim; 1 L da manfiy qayta aloqa yengadi va tiklanish bo’ladi. Yurak me’yorda ~5 L/min haydaydi.",
       "depth": 0
      },
      {
-      "text": "**Foydali musbat qayta aloqa:** qon ivishi (ivish omillari kaskadi; noto'g'ri bo'lsa — aterosklerotik pilakchada tromb → infarkt), tug'ruq (bachadon bo'yni cho'zilishi → kuchliroq qisqarish), nerv impulsi (Na⁺ kanallarining ochilishi o'zini kuchaytiradi). Har doim umumiy manfiy qayta aloqa jarayonining bir qismi.",
+      "text": "**Foydali musbat qayta aloqa:** qon ivishi (ivish omillari kaskadi; noto’g’ri bo’lsa — aterosklerotik pilakchada tromb → infarkt), tug’ruq (bachadon bo’yni cho’zilishi → kuchliroq qisqarish), nerv impulsi (Na⁺ kanallarining ochilishi o’zini kuchaytiradi). Har doim umumiy manfiy qayta aloqa jarayonining bir qismi.",
       "depth": 0
      },
      {
@@ -489,7 +489,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Fiziologik o'zgaruvchanlik (p.15)",
+    "text": "Fiziologik o’zgaruvchanlik (p.15)",
     "pdfPages": [
      15,
      15
@@ -499,13 +499,13 @@
    },
    {
     "type": "paragraph",
-    "text": "K⁺, Ca²⁺, H⁺ qat'iy boshqariladi; vazn, yog'lilik keng o'zgaradi. \"O'rtacha 70 kg yosh erkak\" modeli eskirgan: amerikalik erkak >88 kg, ayol >76 kg. Jins, yosh, etnik farqlar muhim. Yosh ozg'in erkakda umumiy tana suvi ~60% tana vazni, yosh bilan kamayadi (muskul ↓, yog' ↑).",
+    "text": "K⁺, Ca²⁺, H⁺ qat’iy boshqariladi; vazn, yog’lilik keng o’zgaradi. \"O’rtacha 70 kg yosh erkak\" modeli eskirgan: amerikalik erkak >88 kg, ayol >76 kg. Jins, yosh, etnik farqlar muhim. Yosh ozg’in erkakda umumiy tana suvi ~60% tana vazni, yosh bilan kamayadi (muskul ↓, yog' ↑).",
     "bid": "ch01-u16"
    },
    {
     "type": "heading",
     "level": 2,
-    "text": "Boshqa boblar bilan bog'liqlik",
+    "text": "Boshqa boblar bilan bog’liqlik",
     "id": "ch01-s-17-boshqa-boblar-bilan-bogliqlik",
     "bid": "ch01-u17"
    },
@@ -523,7 +523,7 @@
    },
    {
     "type": "paragraph",
-    "text": "Kompensator gipertenziya buyrak kasalliklarida; infarktda trombning musbat qayta aloqa bilan o'sishi; elektrolit chegaralari (gipo/giperkaliyemiya, gipokalsiyemik tetaniya, gipoglikemik tutqanoq).",
+    "text": "Kompensator gipertenziya buyrak kasalliklarida; infarktda trombning musbat qayta aloqa bilan o’sishi; elektrolit chegaralari (gipo/giperkaliyemiya, gipokalsiyemik tetaniya, gipoglikemik tutqanoq).",
     "bid": "ch01-u20"
    }
   ],
@@ -1153,7 +1153,7 @@
    "id": "ch01-t-hujayradan-tashqari-suyuqlik-ecf-ichki-muhit",
    "termUz": "hujayradan tashqari suyuqlik (ECF) — ichki muhit",
    "original": "Claude Bernard, *milieu intérieur*",
-   "contextUz": "Organizm ~35–40 trillion hujayradan iborat \"ijtimoiy tuzum\": har bir a'zo hujayradan tashqari suyuqlik (ECF) — ichki muhit (Claude Bernard, *milieu intérieur*) doimiyligini saqlashga hissa qo'shadi; bu gomeostaz (Walter Cannon, 1929).",
+   "contextUz": "Organizm ~35–40 trillion hujayradan iborat \"ijtimoiy tuzum\": har bir a’zo hujayradan tashqari suyuqlik (ECF) — ichki muhit (Claude Bernard, *milieu intérieur*) doimiyligini saqlashga hissa qo’shadi; bu gomeostaz (Walter Cannon, 1929).",
    "lessonId": "ch01",
    "topicId": "01",
    "source": "summaryUz",
@@ -1163,7 +1163,7 @@
    "id": "ch01-t-gomeostaz",
    "termUz": "gomeostaz",
    "original": "Walter Cannon, 1929",
-   "contextUz": "Organizm ~35–40 trillion hujayradan iborat \"ijtimoiy tuzum\": har bir a'zo hujayradan tashqari suyuqlik (ECF) — ichki muhit (Claude Bernard, *milieu intérieur*) doimiyligini saqlashga hissa qo'shadi; bu gomeostaz (Walter Cannon, 1929).",
+   "contextUz": "Organizm ~35–40 trillion hujayradan iborat \"ijtimoiy tuzum\": har bir a’zo hujayradan tashqari suyuqlik (ECF) — ichki muhit (Claude Bernard, *milieu intérieur*) doimiyligini saqlashga hissa qo’shadi; bu gomeostaz (Walter Cannon, 1929).",
    "lessonId": "ch01",
    "topicId": "01",
    "source": "summaryUz",
@@ -1173,7 +1173,7 @@
    "id": "ch01-t-hujayralar",
    "termUz": "Hujayralar",
    "original": null,
-   "contextUz": "Hujayralar: qizil qon hujayralari ~25 trillion (eng ko'p tur).",
+   "contextUz": "Hujayralar: qizil qon hujayralari ~25 trillion (eng ko’p tur).",
    "lessonId": "ch01",
    "topicId": "01",
    "source": "summaryUz",
@@ -1191,9 +1191,9 @@
   },
   {
    "id": "ch01-t-meyor-qiymat-emas-diapazon",
-   "termUz": "Me'yor — qiymat emas, diapazon.",
+   "termUz": "Me’yor — qiymat emas, diapazon.",
    "original": null,
-   "contextUz": "Me'yor — qiymat emas, diapazon. Qondagi H⁺ o'zgarishi <5 nmol/L; Na⁺ bir necha mmol/L ga o'zgaradi — bu H⁺ dan ≥1 mln marta katta (p.",
+   "contextUz": "Me’yor — qiymat emas, diapazon. Qondagi H⁺ o’zgarishi <5 nmol/L; Na⁺ bir necha mmol/L ga o’zgaradi — bu H⁺ dan ≥1 mln marta katta (p.",
    "lessonId": "ch01",
    "topicId": "01",
    "source": "summaryUz",
@@ -1203,7 +1203,7 @@
    "id": "ch01-t-kasallikdagi-gomeostatik-kompensatsiya",
    "termUz": "Kasallikdagi gomeostatik kompensatsiya",
    "original": null,
-   "contextUz": "Kasallikdagi gomeostatik kompensatsiya: masalan, buyrak tuz chiqara olmasa → arterial bosim oshadi → chiqarish me'yorlashadi, lekin uzoq muddatda bosim a'zolarni (buyrakni ham) shikastlab, ayovsiz doira hosil qiladi (p.",
+   "contextUz": "Kasallikdagi gomeostatik kompensatsiya: masalan, buyrak tuz chiqara olmasa → arterial bosim oshadi → chiqarish me’yorlashadi, lekin uzoq muddatda bosim a’zolarni (buyrakni ham) shikastlab, ayovsiz doira hosil qiladi (p.",
    "lessonId": "ch01",
    "topicId": "01",
    "source": "summaryUz",
@@ -1213,7 +1213,7 @@
    "id": "ch01-t-qon-aylanish",
    "termUz": "Qon aylanish",
    "original": null,
-   "contextUz": "Qon aylanish — ECF ni ikki bosqichda tashiydi: tomirlar bo'ylab va kapillyar–interstitsiy almashinuvi (diffuziya).",
+   "contextUz": "Qon aylanish — ECF ni ikki bosqichda tashiydi: tomirlar bo’ylab va kapillyar–interstitsiy almashinuvi (diffuziya).",
    "lessonId": "ch01",
    "topicId": "01",
    "source": "summaryUz",
@@ -1223,7 +1223,7 @@
    "id": "ch01-t-ozuqa-manbalari",
    "termUz": "Ozuqa manbalari",
    "original": null,
-   "contextUz": "Ozuqa manbalari: o'pka (alveolyar membrana 0,4–2,0 µm), oshqozon-ichak, jigar va metabolik a'zolar, muskul-skelet tizimi (harakat orqali oziq topish/himoya).",
+   "contextUz": "Ozuqa manbalari: o’pka (alveolyar membrana 0,4–2,0 µm), oshqozon-ichak, jigar va metabolik a’zolar, muskul-skelet tizimi (harakat orqali oziq topish/himoya).",
    "lessonId": "ch01",
    "topicId": "01",
    "source": "summaryUz",
@@ -1233,7 +1233,7 @@
    "id": "ch01-t-chiqindilarni-chiqarish",
    "termUz": "Chiqindilarni chiqarish",
    "original": null,
-   "contextUz": "Chiqindilarni chiqarish: o'pka (CO₂ — eng ko'p metabolit), buyrak (filtratsiya + kerakli moddalarni qayta so'rish; mochevina, kreatinin yomon so'riladi), ichak, jigar (zararsizlantirish, safro).",
+   "contextUz": "Chiqindilarni chiqarish: o’pka (CO₂ — eng ko’p metabolit), buyrak (filtratsiya + kerakli moddalarni qayta so’rish; mochevina, kreatinin yomon so’riladi), ichak, jigar (zararsizlantirish, safro).",
    "lessonId": "ch01",
    "topicId": "01",
    "source": "summaryUz",
@@ -1243,7 +1243,7 @@
    "id": "ch01-t-boshqaruv",
    "termUz": "Boshqaruv",
    "original": null,
-   "contextUz": "Boshqaruv: asab tizimi (sensor kirish → MNS integratsiya → motor chiqish; avtonom qism ichki a'zolarni ongsiz boshqaradi) va gormonlar (tiroid — reaksiyalar tezligi, insulin — glyukoza, adrenokortikal — Na⁺/K⁺/oqsil, paratgormon — Ca/fosfat).",
+   "contextUz": "Boshqaruv: asab tizimi (sensor kirish → MNS integratsiya → motor chiqish; avtonom qism ichki a’zolarni ongsiz boshqaradi) va gormonlar (tiroid — reaksiyalar tezligi, insulin — glyukoza, adrenokortikal — Na⁺/K⁺/oqsil, paratgormon — Ca/fosfat).",
    "lessonId": "ch01",
    "topicId": "01",
    "source": "summaryUz",
@@ -1253,7 +1253,7 @@
    "id": "ch01-t-himoya",
    "termUz": "Himoya",
    "original": null,
-   "contextUz": "Himoya: immun tizim (o'zini-begonani farqlash, fagotsitoz/antitelolar), teri (chegara, harorat, ajratish).",
+   "contextUz": "Himoya: immun tizim (o’zini-begonani farqlash, fagotsitoz/antitelolar), teri (chegara, harorat, ajratish).",
    "lessonId": "ch01",
    "topicId": "01",
    "source": "summaryUz",
@@ -1261,9 +1261,9 @@
   },
   {
    "id": "ch01-t-kopayish",
-   "termUz": "Ko'payish",
+   "termUz": "Ko’payish",
    "original": null,
-   "contextUz": "Ko'payish — keng ma'noda gomeostazga xizmat qiladi.",
+   "contextUz": "Ko’payish — keng ma’noda gomeostazga xizmat qiladi.",
    "lessonId": "ch01",
    "topicId": "01",
    "source": "summaryUz",
@@ -1273,7 +1273,7 @@
    "id": "ch01-t-o",
    "termUz": "O₂",
    "original": null,
-   "contextUz": "O₂: gemoglobinning kislorod-bufer funksiyasi — to'qimada O₂ ko'p bo'lsa bermaydi, kam bo'lsa beradi.",
+   "contextUz": "O₂: gemoglobinning kislorod-bufer funksiyasi — to’qimada O₂ ko’p bo’lsa bermaydi, kam bo’lsa beradi.",
    "lessonId": "ch01",
    "topicId": "01",
    "source": "summaryUz",
@@ -1283,7 +1283,7 @@
    "id": "ch01-t-kislorod-bufer",
    "termUz": "kislorod-bufer",
    "original": null,
-   "contextUz": "O₂: gemoglobinning kislorod-bufer funksiyasi — to'qimada O₂ ko'p bo'lsa bermaydi, kam bo'lsa beradi.",
+   "contextUz": "O₂: gemoglobinning kislorod-bufer funksiyasi — to’qimada O₂ ko’p bo’lsa bermaydi, kam bo’lsa beradi.",
    "lessonId": "ch01",
    "topicId": "01",
    "source": "summaryUz",
@@ -1293,7 +1293,7 @@
    "id": "ch01-t-co",
    "termUz": "CO₂",
    "original": null,
-   "contextUz": "CO₂: yuqori CO₂ nafas markazini qo'zg'atadi → chuqur, tez nafas → CO₂ chiqariladi.",
+   "contextUz": "CO₂: yuqori CO₂ nafas markazini qo’zg’atadi → chuqur, tez nafas → CO₂ chiqariladi.",
    "lessonId": "ch01",
    "topicId": "01",
    "source": "summaryUz",
@@ -1303,7 +1303,7 @@
    "id": "ch01-t-arterial-bosim-baroreseptor-refleksi",
    "termUz": "Arterial bosim — baroreseptor refleksi",
    "original": "Fig. 1-3",
-   "contextUz": "Arterial bosim — baroreseptor refleksi (Fig. 1-3): uyqu arteriyasi bifurkatsiyasi va aorta ravog'idagi cho'zilish reseptorlari → uzunchoq miya (set point bilan solishtirish, \"xato signali\") → vazomotor markaz tormozlanadi → simpatik faollik ↓ → tomir kengayadi, yurak kuchi ↓ → bosim pasayadi; aksincha ham.",
+   "contextUz": "Arterial bosim — baroreseptor refleksi (Fig. 1-3): uyqu arteriyasi bifurkatsiyasi va aorta ravog’idagi cho’zilish reseptorlari → uzunchoq miya (set point bilan solishtirish, \"xato signali\") → vazomotor markaz tormozlanadi → simpatik faollik ↓ → tomir kengayadi, yurak kuchi ↓ → bosim pasayadi; aksincha ham.",
    "lessonId": "ch01",
    "topicId": "01",
    "source": "summaryUz",
@@ -1313,7 +1313,7 @@
    "id": "ch01-t-table-1-1",
    "termUz": "Table 1-1",
    "original": null,
-   "contextUz": "Table 1-1 — ECF tarkibiy qismlari, me'yor va o'limgacha bo'lgan chegaralar.",
+   "contextUz": "Table 1-1 — ECF tarkibiy qismlari, me’yor va o’limgacha bo’lgan chegaralar.",
    "lessonId": "ch01",
    "topicId": "01",
    "source": "summaryUz",
@@ -1323,7 +1323,7 @@
    "id": "ch01-t-manfiy-qayta-aloqa",
    "termUz": "Manfiy qayta aloqa",
    "original": null,
-   "contextUz": "Manfiy qayta aloqa — ko'pchilik tizimlar: og'ish uni bartaraf etuvchi javobni chaqiradi.",
+   "contextUz": "Manfiy qayta aloqa — ko’pchilik tizimlar: og’ish uni bartaraf etuvchi javobni chaqiradi.",
    "lessonId": "ch01",
    "topicId": "01",
    "source": "summaryUz",
@@ -1343,7 +1343,7 @@
    "id": "ch01-t-musbat-qayta-aloqa-ayovsiz-doira",
    "termUz": "Musbat qayta aloqa — \"ayovsiz doira\"",
    "original": "Fig. 1-4",
-   "contextUz": "Musbat qayta aloqa — \"ayovsiz doira\" (Fig. 1-4): 2 L qon yo'qotilsa → bosim ↓ → koronar oqim ↓ → yurak zaiflashadi → .",
+   "contextUz": "Musbat qayta aloqa — \"ayovsiz doira\" (Fig. 1-4): 2 L qon yo’qotilsa → bosim ↓ → koronar oqim ↓ → yurak zaiflashadi → .",
    "lessonId": "ch01",
    "topicId": "01",
    "source": "summaryUz",
@@ -1353,7 +1353,7 @@
    "id": "ch01-t-foydali-musbat-qayta-aloqa",
    "termUz": "Foydali musbat qayta aloqa",
    "original": null,
-   "contextUz": "Foydali musbat qayta aloqa: qon ivishi (ivish omillari kaskadi; noto'g'ri bo'lsa — aterosklerotik pilakchada tromb → infarkt), tug'ruq (bachadon bo'yni cho'zilishi → kuchliroq qisqarish), nerv impulsi (Na⁺ kanallarining ochilishi o'zini kuchaytiradi).",
+   "contextUz": "Foydali musbat qayta aloqa: qon ivishi (ivish omillari kaskadi; noto’g’ri bo’lsa — aterosklerotik pilakchada tromb → infarkt), tug’ruq (bachadon bo’yni cho’zilishi → kuchliroq qisqarish), nerv impulsi (Na⁺ kanallarining ochilishi o’zini kuchaytiradi).",
    "lessonId": "ch01",
    "topicId": "01",
    "source": "summaryUz",

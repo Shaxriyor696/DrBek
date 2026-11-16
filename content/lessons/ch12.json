@@ -356,36 +356,36 @@
   }
  ],
  "objectives": [
-  "Vektorlar va o'qlar",
+  "Vektorlar va o’qlar",
   "Normal QRS ning vektor tahlili",
-  "T to'lqini",
-  "P to'lqini va bo'lmacha T to'lqini",
-  "Vektorkardiogramma va o'rtacha elektr o'q",
-  "O'q og'ishi sabablari",
-  "QRS voltaji o'zgarishlari",
-  "Uzaygan va g'alati QRS",
+  "T to’lqini",
+  "P to’lqini va bo’lmacha T to’lqini",
+  "Vektorkardiogramma va o’rtacha elektr o’q",
+  "O’q og’ishi sabablari",
+  "QRS voltaji o’zgarishlari",
+  "Uzaygan va g’alati QRS",
   "Shikastlanish toki",
   "Koronar ishemiya va infarkt",
-  "T to'lqini anomaliyalari"
+  "T to’lqini anomaliyalari"
  ],
  "blocks": {
   "simple": [
    {
     "type": "heading",
     "level": 2,
-    "text": "Asosiy g'oya",
+    "text": "Asosiy g’oya",
     "id": "ch12-s-0-asosiy-goya",
     "bid": "ch12-u0"
    },
    {
     "type": "paragraph",
-    "text": "Yurakdagi tok har lahzada ma'lum yo'nalishga ega — uni **vektor** (strelka musbat tomonga, uzunligi voltajga proporsional) bilan ifodalash mumkin. Vektorning har ulanish o'qiga **proyeksiyasi** shu ulanishda yoziladigan voltajni beradi. Shu orqali o'q og'ishi, gipertrofiya, tutam bloklari, voltaj o'zgarishlari, **shikastlanish toki** (ishemiya/infarkt joyi) va T to'lqini o'zgarishlari tushuntiriladi.",
+    "text": "Yurakdagi tok har lahzada ma’lum yo’nalishga ega — uni **vektor** (strelka musbat tomonga, uzunligi voltajga proporsional) bilan ifodalash mumkin. Vektorning har ulanish o’qiga **proyeksiyasi** shu ulanishda yoziladigan voltajni beradi. Shu orqali o’q og’ishi, gipertrofiya, tutam bloklari, voltaj o’zgarishlari, **shikastlanish toki** (ishemiya/infarkt joyi) va T to’lqini o’zgarishlari tushuntiriladi.",
     "bid": "ch12-u1"
    },
    {
     "type": "heading",
     "level": 2,
-    "text": "Vektorlar va o'qlar (p.137–139)",
+    "text": "Vektorlar va o’qlar (p.137–139)",
     "pdfPages": [
      137,
      139
@@ -398,19 +398,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Lahzalik o'rtacha vektor** — to'siq va cho'qqi endokardi depolyarizatsiyasida asosdan cho'qqiga uzun vektor (Fig. 12-1).",
+      "text": "**Lahzalik o’rtacha vektor** — to’siq va cho’qqi endokardi depolyarizatsiyasida asosdan cho’qqiga uzun vektor (Fig. 12-1).",
       "depth": 0
      },
      {
-      "text": "Graduslar (Fig. 12-2): gorizontal chapga = 0°; soat yo'nalishida: pastga +90°, o'ngga +180°, yuqoriga −90° (+270°). **O'rtacha QRS vektori ≈ +59°**.",
+      "text": "Graduslar (Fig. 12-2): gorizontal chapga = 0°; soat yo’nalishida: pastga +90°, o’ngga +180°, yuqoriga −90° (+270°). **O’rtacha QRS vektori ≈ +59°**.",
       "depth": 0
      },
      {
-      "text": "**Ulanish o'qlari — geksagonal tizim** (Fig. 12-3): I = 0°, II = +60°, III = +120°, aVR = +210°, aVF = +90°, aVL = −30°.",
+      "text": "**Ulanish o’qlari — geksagonal tizim** (Fig. 12-3): I = 0°, II = +60°, III = +120°, aVR = +210°, aVF = +90°, aVL = −30°.",
       "depth": 0
      },
      {
-      "text": "Proyeksiya (Fig. 12-4 – 12-6): vektor uchidan o'qqa perpendikulyar; musbat uchiga qarasa yozuv musbat. Misol: +55°, 2 mV vektor — I da musbat; +100° vektor I ga deyarli perpendikulyar → I da kichik manfiy (~−0,3 mV). Fig. 12-6 da: I ≈ yarmi, II ≈ deyarli to'liq, III ≈ 1/3.",
+      "text": "Proyeksiya (Fig. 12-4 – 12-6): vektor uchidan o’qqa perpendikulyar; musbat uchiga qarasa yozuv musbat. Misol: +55°, 2 mV vektor — I da musbat; +100° vektor I ga deyarli perpendikulyar → I da kichik manfiy (~−0,3 mV). Fig. 12-6 da: I ≈ yarmi, II ≈ deyarli to’liq, III ≈ 1/3.",
       "depth": 0
      }
     ],
@@ -463,15 +463,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Birinchi bo'lib **to'siqning chap endokard yuzasi**, keyin ikkala to'siq yuzasi, so'ng qorinchalar endokardi, oxirida muskul orqali epikardga.",
+      "text": "Birinchi bo’lib **to’siqning chap endokard yuzasi**, keyin ikkala to’siq yuzasi, so’ng qorinchalar endokardi, oxirida muskul orqali epikardga.",
       "depth": 0
      },
      {
-      "text": "0,01 s — qisqa vektor (to'siq), II da eng katta; 0,02 s — uzun vektor, barcha ulanishlarda katta; 0,035 s — qisqaradi (cho'qqi tashqarisi manfiy), chap qorincha sekinroq bo'lgani uchun chapga siljiydi; 0,05 s — chap qorincha asosiga yo'nalgan qisqa vektor, II va III manfiy, I musbat; 0,06 s — to'liq depolyarizatsiya, vektor 0.",
+      "text": "0,01 s — qisqa vektor (to’siq), II da eng katta; 0,02 s — uzun vektor, barcha ulanishlarda katta; 0,035 s — qisqaradi (cho’qqi tashqarisi manfiy), chap qorincha sekinroq bo’lgani uchun chapga siljiydi; 0,05 s — chap qorincha asosiga yo’nalgan qisqa vektor, II va III manfiy, I musbat; 0,06 s — to’liq depolyarizatsiya, vektor 0.",
       "depth": 0
      },
      {
-      "text": "**Q** — dastlab to'siq chap tomonining o'ngdan oldin depolyarizatsiyasi (chapdan o'ngga kuchsiz vektor); **R** — asosiy musbat; **S** — oxirgi manfiy.",
+      "text": "**Q** — dastlab to’siq chap tomonining o’ngdan oldin depolyarizatsiyasi (chapdan o’ngga kuchsiz vektor); **R** — asosiy musbat; **S** — oxirgi manfiy.",
       "depth": 0
      }
     ],
@@ -485,7 +485,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "T to'lqini (p.140–141, Fig. 12-8)",
+    "text": "T to’lqini (p.140–141, Fig. 12-8)",
     "pdfPages": [
      140,
      141
@@ -502,7 +502,7 @@
       "depth": 0
      },
      {
-      "text": "Birinchi bo'lib **tashqi yuzalar, ayniqsa cho'qqi** repolyarizatsiyalanadi; endokard oxirida — qorincha ichidagi yuqori bosim endokard koronar oqimini kamaytirib uning repolyarizatsiyasini sekinlashtiradi (taxmin). Shuning uchun T vektori ham cho'qqi tomon → **normal T standart ulanishlarda musbat** (QRS bilan bir xil qutblilik). Vektor yarim qutblangan/yarim depolyarizatsiyalangan paytda eng katta; jarayon ~0,15 s.",
+      "text": "Birinchi bo’lib **tashqi yuzalar, ayniqsa cho’qqi** repolyarizatsiyalanadi; endokard oxirida — qorincha ichidagi yuqori bosim endokard koronar oqimini kamaytirib uning repolyarizatsiyasini sekinlashtiradi (taxmin). Shuning uchun T vektori ham cho’qqi tomon → **normal T standart ulanishlarda musbat** (QRS bilan bir xil qutblilik). Vektor yarim qutblangan/yarim depolyarizatsiyalangan paytda eng katta; jarayon ~0,15 s.",
       "depth": 0
      }
     ],
@@ -516,7 +516,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "P to'lqini va bo'lmacha T to'lqini (p.141–142, Fig. 12-9)",
+    "text": "P to’lqini va bo’lmacha T to’lqini (p.141–142, Fig. 12-9)",
     "pdfPages": [
      141,
      142
@@ -529,11 +529,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Sinus tugunidan (yuqori kovak vena kirishi) barcha tomonga → vektor standart ulanishlarning musbat yo'nalishida → P musbat.",
+      "text": "Sinus tugunidan (yuqori kovak vena kirishi) barcha tomonga → vektor standart ulanishlarning musbat yo’nalishida → P musbat.",
       "depth": 0
      },
      {
-      "text": "Bo'lmachalarda Purkinye yo'q, o'tkazish sekin → birinchi depolyarizatsiyalangan sinus sohasi birinchi repolyarizatsiyalanadi → repolyarizatsiya vektori depolyarizatsiyaga **teskari** (qorinchalardagidan farqli) → bo'lmacha T to'lqini P dan ~0,15 s keyin, **manfiy**; odatda QRS bilan yopiladi.",
+      "text": "Bo’lmachalarda Purkinye yo’q, o’tkazish sekin → birinchi depolyarizatsiyalangan sinus sohasi birinchi repolyarizatsiyalanadi → repolyarizatsiya vektori depolyarizatsiyaga **teskari** (qorinchalardagidan farqli) → bo’lmacha T to’lqini P dan ~0,15 s keyin, **manfiy**; odatda QRS bilan yopiladi.",
       "depth": 0
      }
     ],
@@ -547,7 +547,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Vektorkardiogramma va o'rtacha elektr o'q (p.142–143, Fig. 12-10, 12-11)",
+    "text": "Vektorkardiogramma va o’rtacha elektr o’q (p.142–143, Fig. 12-10, 12-11)",
     "pdfPages": [
      142,
      143
@@ -560,11 +560,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Vektor musbat uchining yo'li — **QRS vektorkardiogrammasi** (ellips).",
+      "text": "Vektor musbat uchining yo’li — **QRS vektorkardiogrammasi** (ellips).",
       "depth": 0
      },
      {
-      "text": "**Qorinchalarning o'rtacha elektr o'qi** normal **+59°**. Klinikada I va III ulanishlardan: har birida sof potensial (musbat − manfiy qism) o'z o'qiga qo'yiladi, uchlaridan perpendikulyarlar kesishgan nuqta — vektor uchi.",
+      "text": "**Qorinchalarning o’rtacha elektr o’qi** normal **+59°**. Klinikada I va III ulanishlardan: har birida sof potensial (musbat − manfiy qism) o’z o’qiga qo’yiladi, uchlaridan perpendikulyarlar kesishgan nuqta — vektor uchi.",
       "depth": 0
      }
     ],
@@ -583,7 +583,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "O'q og'ishi sabablari (p.143–145)",
+    "text": "O’q og’ishi sabablari (p.143–145)",
     "pdfPages": [
      143,
      145
@@ -600,15 +600,15 @@
       "depth": 0
      },
      {
-      "text": "**Yurak holati**: chapga burilish → chap og'ish — chuqur nafas chiqarish oxiri, yotish, semizlik (diafragma yuqorida); o'ngga → o'ng og'ish — chuqur nafas olish oxiri, tik turish, baland ozg'in odamlar.",
+      "text": "**Yurak holati**: chapga burilish → chap og’ish — chuqur nafas chiqarish oxiri, yotish, semizlik (diafragma yuqorida); o’ngga → o’ng og’ish — chuqur nafas olish oxiri, tik turish, baland ozg’in odamlar.",
       "depth": 0
      },
      {
-      "text": "**Bir qorincha gipertrofiyasi**: o'q gipertrofiyalangan tomonga (ko'proq muskul + depolyarizatsiya uzoqroq vaqt). **Chap qorincha gipertrofiyasi** (gipertenziya, aorta stenozi/regurgitatsiyasi, tug'ma nuqsonlar) — Fig. 12-12: **−15°**, QRS biroz uzaygan. **O'ng qorincha gipertrofiyasi** (tug'ma o'pka arteriyasi klapani stenozi; Fallo tetradasi, qorinchalararo to'siq nuqsoni) — Fig. 12-13: **+170°** (normaldan 111° o'ngga), yuqori voltaj.",
+      "text": "**Bir qorincha gipertrofiyasi**: o’q gipertrofiyalangan tomonga (ko’proq muskul + depolyarizatsiya uzoqroq vaqt). **Chap qorincha gipertrofiyasi** (gipertenziya, aorta stenozi/regurgitatsiyasi, tug’ma nuqsonlar) — Fig. 12-12: **−15°**, QRS biroz uzaygan. **O’ng qorincha gipertrofiyasi** (tug’ma o’pka arteriyasi klapani stenozi; Fallo tetradasi, qorinchalararo to’siq nuqsoni) — Fig. 12-13: **+170°** (normaldan 111° o’ngga), yuqori voltaj.",
       "depth": 0
      },
      {
-      "text": "**Tutam oyoqchalari blokadasi**: odatda ikki qorincha lateral devorlari bir vaqtda depolyarizatsiyalanib bir-birini neytrallaydi. **Chap oyoqcha blokadasi** — o'ng qorincha 2–3 baravar tez depolyarizatsiyalanadi, chap 0,1 s gacha musbat qoladi → kuchli chap og'ish **~−50°**, QRS keskin uzaygan (Fig. 12-14). **O'ng oyoqcha blokadasi** → o'ng og'ish **~+105°**, uzun QRS (Fig. 12-15). Juda uzun QRS blokadani gipertrofiyadan ajratadi.",
+      "text": "**Tutam oyoqchalari blokadasi**: odatda ikki qorincha lateral devorlari bir vaqtda depolyarizatsiyalanib bir-birini neytrallaydi. **Chap oyoqcha blokadasi** — o’ng qorincha 2–3 baravar tez depolyarizatsiyalanadi, chap 0,1 s gacha musbat qoladi → kuchli chap og’ish **~−50°**, QRS keskin uzaygan (Fig. 12-14). **O’ng oyoqcha blokadasi** → o’ng og’ish **~+105°**, uzun QRS (Fig. 12-15). Juda uzun QRS blokadani gipertrofiyadan ajratadi.",
       "depth": 0
      }
     ],
@@ -637,7 +637,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "QRS voltaji o'zgarishlari (p.144–145)",
+    "text": "QRS voltaji o’zgarishlari (p.144–145)",
     "pdfPages": [
      144,
      145
@@ -650,11 +650,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Standart ulanishlarda R cho'qqisidan S tubigacha normal **0,5–2,0 mV** (odatda III eng past, II eng baland). Uchala ulanish QRS voltajlari yig'indisi **>4 mV** — **yuqori voltajli EKG**; sabab asosan muskul massasi ortishi (gipertrofiya: o'pka klapani stenozi, o'pka gipertenziyasi — o'ng; sistemik gipertenziya — chap).",
+      "text": "Standart ulanishlarda R cho’qqisidan S tubigacha normal **0,5–2,0 mV** (odatda III eng past, II eng baland). Uchala ulanish QRS voltajlari yig’indisi **>4 mV** — **yuqori voltajli EKG**; sabab asosan muskul massasi ortishi (gipertrofiya: o’pka klapani stenozi, o’pka gipertenziyasi — o’ng; sistemik gipertenziya — chap).",
       "depth": 0
      },
      {
-      "text": "**Past voltaj**: (a) yurak miopatiyalari — bir necha eski infarkt (muskul kamayadi, o'tkazish sekinlashadi, QRS biroz uzayadi; Fig. 12-16); infiltrativ kasalliklar, masalan **amiloidoz**; (b) yurak atrofidagi holatlar — **perikard suyuqligi** (tokni \"qisqa tutashtiradi\"), kamroq **plevra suyuqligi**; **o'pka emfizemasi** (havo ko'p — izolyator, ko'krak kattalashgan, o'pkalar yurakni ko'proq o'raydi).",
+      "text": "**Past voltaj**: (a) yurak miopatiyalari — bir necha eski infarkt (muskul kamayadi, o’tkazish sekinlashadi, QRS biroz uzayadi; Fig. 12-16); infiltrativ kasalliklar, masalan **amiloidoz**; (b) yurak atrofidagi holatlar — **perikard suyuqligi** (tokni \"qisqa tutashtiradi\"), kamroq **plevra suyuqligi**; **o’pka emfizemasi** (havo ko’p — izolyator, ko’krak kattalashgan, o’pkalar yurakni ko’proq o’raydi).",
       "depth": 0
      }
     ],
@@ -668,7 +668,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Uzaygan va g'alati QRS (p.145–146)",
+    "text": "Uzaygan va g’alati QRS (p.145–146)",
     "pdfPages": [
      145,
      146
@@ -685,11 +685,11 @@
       "depth": 0
      },
      {
-      "text": "Purkinye blokadasida impuls muskul orqali (~1/3 tezlik) → to'liq oyoqcha blokadasida **≥0,14 s**. QRS >0,09 s — anormal uzun; >0,12 s — deyarli albatta o'tkazuvchi tizimdagi patologik blokada.",
+      "text": "Purkinye blokadasida impuls muskul orqali (~1/3 tezlik) → to’liq oyoqcha blokadasida **≥0,14 s**. QRS >0,09 s — anormal uzun; >0,12 s — deyarli albatta o’tkazuvchi tizimdagi patologik blokada.",
       "depth": 0
      },
      {
-      "text": "**G'alati QRS**: muskul o'rnini chandiq egallashi va Purkinye tizimidagi ko'p mayda bloklar → ikki-uch cho'qqili komplekslar.",
+      "text": "**G’alati QRS**: muskul o’rnini chandiq egallashi va Purkinye tizimidagi ko’p mayda bloklar → ikki-uch cho’qqili komplekslar.",
       "depth": 0
      }
     ],
@@ -711,15 +711,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Shikastlangan qism doim (qisman) depolyarizatsiyalangan → yurak urishlari orasida ham (T-P davri) tok oqadi; **shikastlangan qism manfiy**. Sabablari: mexanik travma, infeksiya, va eng ko'p — **mahalliy koronar okklyuziya tufayli ishemiya**.",
+      "text": "Shikastlangan qism doim (qisman) depolyarizatsiyalangan → yurak urishlari orasida ham (T-P davri) tok oqadi; **shikastlangan qism manfiy**. Sabablari: mexanik travma, infeksiya, va eng ko’p — **mahalliy koronar okklyuziya tufayli ishemiya**.",
       "depth": 0
      },
      {
-      "text": "Fig. 12-17: chap qorincha asosida yangi infarkt — T-P davrida ~125° vektor (manfiy uchi shikastga); QRS oxirida butun qorincha depolyarizatsiyalanganda tok yo'qoladi; repolyarizatsiyadan keyin qaytadi.",
+      "text": "Fig. 12-17: chap qorincha asosida yangi infarkt — T-P davrida ~125° vektor (manfiy uchi shikastga); QRS oxirida butun qorincha depolyarizatsiyalanganda tok yo’qoladi; repolyarizatsiyadan keyin qaytadi.",
       "depth": 0
      },
      {
-      "text": "**J nuqta — nol potensial**: tanadagi \"adashgan\" toklar (teri potensiallari va h.k.) tufayli nolni oldindan bilib bo'lmaydi; QRS oxirida (J nuqta) butun qorincha depolyarizatsiyalangan, hatto shikastlanish toki ham yo'q → shu daraja nol. Shikastlanish potensiali = P boshidan oldingi (T-P) voltaj − J darajasi (Fig. 12-18; misolda vektor ~−30°, manfiy uchi lateral devordagi shikastga). Muallif buni EKG tahlilining eng muhim jihati deydi.",
+      "text": "**J nuqta — nol potensial**: tanadagi \"adashgan\" toklar (teri potensiallari va h.k.) tufayli nolni oldindan bilib bo’lmaydi; QRS oxirida (J nuqta) butun qorincha depolyarizatsiyalangan, hatto shikastlanish toki ham yo’q → shu daraja nol. Shikastlanish potensiali = P boshidan oldingi (T-P) voltaj − J darajasi (Fig. 12-18; misolda vektor ~−30°, manfiy uchi lateral devordagi shikastga). Muallif buni EKG tahlilining eng muhim jihati deydi.",
       "depth": 0
      }
     ],
@@ -751,15 +751,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Kam qon oqimi metabolizmni pasaytiradi: O₂ yetishmasligi, CO₂ to'planishi, ozuqa kamligi → repolyarizatsiya bo'lmaydi; muskul tirik qolishi mumkin, lekin T-P davrida shikastlanish toki davom etadi.",
+      "text": "Kam qon oqimi metabolizmni pasaytiradi: O₂ yetishmasligi, CO₂ to’planishi, ozuqa kamligi → repolyarizatsiya bo’lmaydi; muskul tirik qolishi mumkin, lekin T-P davrida shikastlanish toki davom etadi.",
       "depth": 0
      },
      {
-      "text": "**O'tkir oldingi devor infarkti** (Fig. 12-19): **V2 da kuchli manfiy** shikastlanish potensiali (vektorning manfiy uchi oldingi ko'krak devoriga); I da manfiy, III da musbat → vektor ~+150° (manfiy uchi chap qorinchaga) → ehtimol **chap koronar arteriyaning oldingi tushuvchi tarmog'i** trombozi.",
+      "text": "**O’tkir oldingi devor infarkti** (Fig. 12-19): **V2 da kuchli manfiy** shikastlanish potensiali (vektorning manfiy uchi oldingi ko’krak devoriga); I da manfiy, III da musbat → vektor ~+150° (manfiy uchi chap qorinchaga) → ehtimol **chap koronar arteriyaning oldingi tushuvchi tarmog’i** trombozi.",
       "depth": 0
      },
      {
-      "text": "**Orqa devor (cho'qqi) infarkti** (Fig. 12-20): ko'krak ulanishida T-P davrida **musbat** shikastlanish potensiali (manfiy uchi ko'krak devoridan uzoqqa — orqaga); II va III da manfiy → ~−95° (manfiy uchi pastga) → chap qorinchaning orqa devori, cho'qqi yaqinida.",
+      "text": "**Orqa devor (cho’qqi) infarkti** (Fig. 12-20): ko’krak ulanishida T-P davrida **musbat** shikastlanish potensiali (manfiy uchi ko’krak devoridan uzoqqa — orqaga); II va III da manfiy → ~−95° (manfiy uchi pastga) → chap qorinchaning orqa devori, cho’qqi yaqinida.",
       "depth": 0
      },
      {
@@ -767,15 +767,15 @@
       "depth": 0
      },
      {
-      "text": "**Evolyutsiya** (Fig. 12-21, V3): birinchi kuni kuchli shikastlanish potensiali; ~1 haftada ancha kamayadi; 3 haftada yo'qoladi; keyingi yil davomida deyarli o'zgarmaydi — kollateral koronar oqim rivojlanadi. Qon ta'minoti tiklanmasa, ishemiya bor ekan (ayniqsa yuklamada) shikastlanish potensiali saqlanadi.",
+      "text": "**Evolyutsiya** (Fig. 12-21, V3): birinchi kuni kuchli shikastlanish potensiali; ~1 haftada ancha kamayadi; 3 haftada yo’qoladi; keyingi yil davomida deyarli o’zgarmaydi — kollateral koronar oqim rivojlanadi. Qon ta’minoti tiklanmasa, ishemiya bor ekan (ayniqsa yuklamada) shikastlanish potensiali saqlanadi.",
       "depth": 0
      },
      {
-      "text": "**Eski infarkt — Q to'lqinlari** (Fig. 12-22, ~1 yildan keyin): oldingi infarktda **I** da Q (chap qorincha oldingi devori muskuli yo'qolishi); orqa infarktda **III** da Q. Hamma holatda emas; g'alati QRS, past voltaj, uzaygan QRS ham bo'lishi mumkin.",
+      "text": "**Eski infarkt — Q to’lqinlari** (Fig. 12-22, ~1 yildan keyin): oldingi infarktda **I** da Q (chap qorincha oldingi devori muskuli yo’qolishi); orqa infarktda **III** da Q. Hamma holatda emas; g’alati QRS, past voltaj, uzaygan QRS ham bo’lishi mumkin.",
       "depth": 0
      },
      {
-      "text": "**Stenokardiya (angina pectoris)**: yurakdan kelib ko'krak sohasida sezilgan og'riq, chap bo'yin va chap qo'lga tarqaladi; o'rtacha ishemiya; tinch holatda yo'q, yurak zo'riqqanda paydo bo'ladi; og'ir xurujda EKG da shikastlanish potensiali ko'rinishi mumkin.",
+      "text": "**Stenokardiya (angina pectoris)**: yurakdan kelib ko’krak sohasida sezilgan og’riq, chap bo’yin va chap qo’lga tarqaladi; o’rtacha ishemiya; tinch holatda yo’q, yurak zo’riqqanda paydo bo’ladi; og’ir xurujda EKG da shikastlanish potensiali ko’rinishi mumkin.",
       "depth": 0
      }
     ],
@@ -804,7 +804,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "T to'lqini anomaliyalari (p.150)",
+    "text": "T to’lqini anomaliyalari (p.150)",
     "pdfPages": [
      150,
      150
@@ -817,19 +817,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Qorincha asosida AP qisqarishi** → repolyarizatsiya cho'qqidan emas, asosdan boshlanadi → barcha standart ulanishlarda **T teskari** (Fig. 12-23 — asosdagi yengil ishemiya).",
+      "text": "**Qorincha asosida AP qisqarishi** → repolyarizatsiya cho’qqidan emas, asosdan boshlanadi → barcha standart ulanishlarda **T teskari** (Fig. 12-23 — asosdagi yengil ishemiya).",
       "depth": 0
      },
      {
-      "text": "**Sekin o'tkazish** (masalan, chap oyoqcha blokadasi, chap qorincha ~0,08 s kech) → o'ng qorincha ancha oldin repolyarizatsiyalanadi → T o'qi QRS o'qiga **teskari**. Qoida: depolyarizatsiya keskin kechiksa, T deyarli doim QRS ga teskari qutblilikda.",
+      "text": "**Sekin o’tkazish** (masalan, chap oyoqcha blokadasi, chap qorincha ~0,08 s kech) → o’ng qorincha ancha oldin repolyarizatsiyalanadi → T o’qi QRS o’qiga **teskari**. Qoida: depolyarizatsiya keskin kechiksa, T deyarli doim QRS ga teskari qutblilikda.",
       "depth": 0
      },
      {
-      "text": "**Yengil ishemiya** — depolyarizatsiya davri qisqarishining eng ko'p sababi (K⁺ kanallari orqali tok oshadi); bir sohada bo'lsa T inversiyasi yoki ikki fazali T — ishemiya belgisi (surunkali koronar stenoz, o'tkir okklyuziya, koronar spazm, mashqdagi nisbiy yetishmovchilik).",
+      "text": "**Yengil ishemiya** — depolyarizatsiya davri qisqarishining eng ko’p sababi (K⁺ kanallari orqali tok oshadi); bir sohada bo’lsa T inversiyasi yoki ikki fazali T — ishemiya belgisi (surunkali koronar stenoz, o’tkir okklyuziya, koronar spazm, mashqdagi nisbiy yetishmovchilik).",
       "depth": 0
      },
      {
-      "text": "**Digitalis** (22-bob; yurak yetishmovchiligida qisqarish kuchini oshiradi): dozadan oshsa qorinchaning bir qismida depolyarizatsiya nomutanosib uzayadi → T inversiyasi yoki **ikki fazali T** (Fig. 12-24) — ko'pincha **digitalis zaharlanishining eng erta belgisi**.",
+      "text": "**Digitalis** (22-bob; yurak yetishmovchiligida qisqarish kuchini oshiradi): dozadan oshsa qorinchaning bir qismida depolyarizatsiya nomutanosib uzayadi → T inversiyasi yoki **ikki fazali T** (Fig. 12-24) — ko’pincha **digitalis zaharlanishining eng erta belgisi**.",
       "depth": 0
      }
     ],
@@ -848,13 +848,13 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Bog'liqlik",
+    "text": "Bog’liqlik",
     "id": "ch12-s-48-bogliqlik",
     "bid": "ch12-u48"
    },
    {
     "type": "paragraph",
-    "text": "EKG asoslari → 11-bob; Purkinye va impuls vaqtlari → 10-bob; aritmiyalar → 13-bob; koronar qon aylanish va ishemik kasallik → 21-bob; yurak yetishmovchiligi va digitalis → 22-bob; tug'ma nuqsonlar → 23-bob.",
+    "text": "EKG asoslari → 11-bob; Purkinye va impuls vaqtlari → 10-bob; aritmiyalar → 13-bob; koronar qon aylanish va ishemik kasallik → 21-bob; yurak yetishmovchiligi va digitalis → 22-bob; tug’ma nuqsonlar → 23-bob.",
     "bid": "ch12-u49"
    }
   ],
@@ -1787,7 +1787,7 @@
    "id": "ch12-t-vektor",
    "termUz": "vektor",
    "original": "strelka musbat tomonga, uzunligi voltajga proporsional",
-   "contextUz": "Yurakdagi tok har lahzada ma'lum yo'nalishga ega — uni vektor (strelka musbat tomonga, uzunligi voltajga proporsional) bilan ifodalash mumkin.",
+   "contextUz": "Yurakdagi tok har lahzada ma’lum yo’nalishga ega — uni vektor (strelka musbat tomonga, uzunligi voltajga proporsional) bilan ifodalash mumkin.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -1797,7 +1797,7 @@
    "id": "ch12-t-proyeksiyasi",
    "termUz": "proyeksiyasi",
    "original": null,
-   "contextUz": "Vektorning har ulanish o'qiga proyeksiyasi shu ulanishda yoziladigan voltajni beradi.",
+   "contextUz": "Vektorning har ulanish o’qiga proyeksiyasi shu ulanishda yoziladigan voltajni beradi.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -1807,7 +1807,7 @@
    "id": "ch12-t-shikastlanish-toki",
    "termUz": "shikastlanish toki",
    "original": "ishemiya/infarkt joyi",
-   "contextUz": "Shu orqali o'q og'ishi, gipertrofiya, tutam bloklari, voltaj o'zgarishlari, shikastlanish toki (ishemiya/infarkt joyi) va T to'lqini o'zgarishlari tushuntiriladi.",
+   "contextUz": "Shu orqali o’q og’ishi, gipertrofiya, tutam bloklari, voltaj o’zgarishlari, shikastlanish toki (ishemiya/infarkt joyi) va T to’lqini o’zgarishlari tushuntiriladi.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -1815,9 +1815,9 @@
   },
   {
    "id": "ch12-t-lahzalik-ortacha-vektor",
-   "termUz": "Lahzalik o'rtacha vektor",
+   "termUz": "Lahzalik o’rtacha vektor",
    "original": null,
-   "contextUz": "Lahzalik o'rtacha vektor — to'siq va cho'qqi endokardi depolyarizatsiyasida asosdan cho'qqiga uzun vektor (Fig.",
+   "contextUz": "Lahzalik o’rtacha vektor — to’siq va cho’qqi endokardi depolyarizatsiyasida asosdan cho’qqiga uzun vektor (Fig.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -1825,9 +1825,9 @@
   },
   {
    "id": "ch12-t-ortacha-qrs-vektori-59",
-   "termUz": "O'rtacha QRS vektori ≈ +59°",
+   "termUz": "O’rtacha QRS vektori ≈ +59°",
    "original": null,
-   "contextUz": "O'rtacha QRS vektori ≈ +59°.",
+   "contextUz": "O’rtacha QRS vektori ≈ +59°.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -1835,9 +1835,9 @@
   },
   {
    "id": "ch12-t-ulanish-oqlari-geksagonal-tizim",
-   "termUz": "Ulanish o'qlari — geksagonal tizim",
+   "termUz": "Ulanish o’qlari — geksagonal tizim",
    "original": "Fig. 12-3",
-   "contextUz": "Ulanish o'qlari — geksagonal tizim (Fig. 12-3): I = 0°, II = +60°, III = +120°, aVR = +210°, aVF = +90°, aVL = −30°.",
+   "contextUz": "Ulanish o’qlari — geksagonal tizim (Fig. 12-3): I = 0°, II = +60°, III = +120°, aVR = +210°, aVF = +90°, aVL = −30°.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -1845,9 +1845,9 @@
   },
   {
    "id": "ch12-t-tosiqning-chap-endokard-yuzasi",
-   "termUz": "to'siqning chap endokard yuzasi",
+   "termUz": "to’siqning chap endokard yuzasi",
    "original": null,
-   "contextUz": "Birinchi bo'lib to'siqning chap endokard yuzasi, keyin ikkala to'siq yuzasi, so'ng qorinchalar endokardi, oxirida muskul orqali epikardga.",
+   "contextUz": "Birinchi bo’lib to’siqning chap endokard yuzasi, keyin ikkala to’siq yuzasi, so’ng qorinchalar endokardi, oxirida muskul orqali epikardga.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -1857,7 +1857,7 @@
    "id": "ch12-t-asosiy-musbat",
    "termUz": "— asosiy musbat;",
    "original": null,
-   "contextUz": "Q — dastlab to'siq chap tomonining o'ngdan oldin depolyarizatsiyasi (chapdan o'ngga kuchsiz vektor); R — asosiy musbat; S — oxirgi manfiy.",
+   "contextUz": "Q — dastlab to’siq chap tomonining o’ngdan oldin depolyarizatsiyasi (chapdan o’ngga kuchsiz vektor); R — asosiy musbat; S — oxirgi manfiy.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -1865,9 +1865,9 @@
   },
   {
    "id": "ch12-t-tashqi-yuzalar-ayniqsa-choqqi",
-   "termUz": "tashqi yuzalar, ayniqsa cho'qqi",
+   "termUz": "tashqi yuzalar, ayniqsa cho’qqi",
    "original": null,
-   "contextUz": "Birinchi bo'lib tashqi yuzalar, ayniqsa cho'qqi repolyarizatsiyalanadi; endokard oxirida — qorincha ichidagi yuqori bosim endokard koronar oqimini kamaytirib uning repolyarizatsiyasini sekinlashtiradi (taxmin).",
+   "contextUz": "Birinchi bo’lib tashqi yuzalar, ayniqsa cho’qqi repolyarizatsiyalanadi; endokard oxirida — qorincha ichidagi yuqori bosim endokard koronar oqimini kamaytirib uning repolyarizatsiyasini sekinlashtiradi (taxmin).",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -1877,7 +1877,7 @@
    "id": "ch12-t-normal-t-standart-ulanishlarda-musbat",
    "termUz": "normal T standart ulanishlarda musbat",
    "original": "QRS bilan bir xil qutblilik",
-   "contextUz": "Shuning uchun T vektori ham cho'qqi tomon → normal T standart ulanishlarda musbat (QRS bilan bir xil qutblilik).",
+   "contextUz": "Shuning uchun T vektori ham cho’qqi tomon → normal T standart ulanishlarda musbat (QRS bilan bir xil qutblilik).",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -1887,7 +1887,7 @@
    "id": "ch12-t-teskari",
    "termUz": "teskari",
    "original": "qorinchalardagidan farqli",
-   "contextUz": "Bo'lmachalarda Purkinye yo'q, o'tkazish sekin → birinchi depolyarizatsiyalangan sinus sohasi birinchi repolyarizatsiyalanadi → repolyarizatsiya vektori depolyarizatsiyaga teskari (qorinchalardagidan farqli) → bo'lmacha T to'lqini P dan ~0,15 s keyin, manfiy; odatda QRS bilan yopiladi.",
+   "contextUz": "Bo’lmachalarda Purkinye yo’q, o’tkazish sekin → birinchi depolyarizatsiyalangan sinus sohasi birinchi repolyarizatsiyalanadi → repolyarizatsiya vektori depolyarizatsiyaga teskari (qorinchalardagidan farqli) → bo’lmacha T to’lqini P dan ~0,15 s keyin, manfiy; odatda QRS bilan yopiladi.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -1897,7 +1897,7 @@
    "id": "ch12-t-manfiy",
    "termUz": "manfiy",
    "original": null,
-   "contextUz": "Bo'lmachalarda Purkinye yo'q, o'tkazish sekin → birinchi depolyarizatsiyalangan sinus sohasi birinchi repolyarizatsiyalanadi → repolyarizatsiya vektori depolyarizatsiyaga teskari (qorinchalardagidan farqli) → bo'lmacha T to'lqini P dan ~0,15 s keyin, manfiy; odatda QRS bilan yopiladi.",
+   "contextUz": "Bo’lmachalarda Purkinye yo’q, o’tkazish sekin → birinchi depolyarizatsiyalangan sinus sohasi birinchi repolyarizatsiyalanadi → repolyarizatsiya vektori depolyarizatsiyaga teskari (qorinchalardagidan farqli) → bo’lmacha T to’lqini P dan ~0,15 s keyin, manfiy; odatda QRS bilan yopiladi.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -1907,7 +1907,7 @@
    "id": "ch12-t-qrs-vektorkardiogrammasi",
    "termUz": "QRS vektorkardiogrammasi",
    "original": "ellips",
-   "contextUz": "Vektor musbat uchining yo'li — QRS vektorkardiogrammasi (ellips).",
+   "contextUz": "Vektor musbat uchining yo’li — QRS vektorkardiogrammasi (ellips).",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -1915,9 +1915,9 @@
   },
   {
    "id": "ch12-t-qorinchalarning-ortacha-elektr-oqi",
-   "termUz": "Qorinchalarning o'rtacha elektr o'qi",
+   "termUz": "Qorinchalarning o’rtacha elektr o’qi",
    "original": null,
-   "contextUz": "Qorinchalarning o'rtacha elektr o'qi normal +59°.",
+   "contextUz": "Qorinchalarning o’rtacha elektr o’qi normal +59°.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -1927,7 +1927,7 @@
    "id": "ch12-t-59",
    "termUz": "+59°",
    "original": null,
-   "contextUz": "Qorinchalarning o'rtacha elektr o'qi normal +59°.",
+   "contextUz": "Qorinchalarning o’rtacha elektr o’qi normal +59°.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -1947,7 +1947,7 @@
    "id": "ch12-t-yurak-holati",
    "termUz": "Yurak holati",
    "original": null,
-   "contextUz": "Yurak holati: chapga burilish → chap og'ish — chuqur nafas chiqarish oxiri, yotish, semizlik (diafragma yuqorida); o'ngga → o'ng og'ish — chuqur nafas olish oxiri, tik turish, baland ozg'in odamlar.",
+   "contextUz": "Yurak holati: chapga burilish → chap og’ish — chuqur nafas chiqarish oxiri, yotish, semizlik (diafragma yuqorida); o’ngga → o’ng og’ish — chuqur nafas olish oxiri, tik turish, baland ozg’in odamlar.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -1957,7 +1957,7 @@
    "id": "ch12-t-bir-qorincha-gipertrofiyasi",
    "termUz": "Bir qorincha gipertrofiyasi",
    "original": null,
-   "contextUz": "Bir qorincha gipertrofiyasi: o'q gipertrofiyalangan tomonga (ko'proq muskul + depolyarizatsiya uzoqroq vaqt).",
+   "contextUz": "Bir qorincha gipertrofiyasi: o’q gipertrofiyalangan tomonga (ko’proq muskul + depolyarizatsiya uzoqroq vaqt).",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -1966,8 +1966,8 @@
   {
    "id": "ch12-t-chap-qorincha-gipertrofiyasi",
    "termUz": "Chap qorincha gipertrofiyasi",
-   "original": "gipertenziya, aorta stenozi/regurgitatsiyasi, tug'ma nuqsonlar",
-   "contextUz": "Chap qorincha gipertrofiyasi (gipertenziya, aorta stenozi/regurgitatsiyasi, tug'ma nuqsonlar) — Fig.",
+   "original": "gipertenziya, aorta stenozi/regurgitatsiyasi, tug’ma nuqsonlar",
+   "contextUz": "Chap qorincha gipertrofiyasi (gipertenziya, aorta stenozi/regurgitatsiyasi, tug’ma nuqsonlar) — Fig.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -1985,9 +1985,9 @@
   },
   {
    "id": "ch12-t-ong-qorincha-gipertrofiyasi",
-   "termUz": "O'ng qorincha gipertrofiyasi",
+   "termUz": "O’ng qorincha gipertrofiyasi",
    "original": null,
-   "contextUz": "O'ng qorincha gipertrofiyasi (tug'ma o'pka arteriyasi klapani stenozi; Fallo tetradasi, qorinchalararo to'siq nuqsoni) — Fig.",
+   "contextUz": "O’ng qorincha gipertrofiyasi (tug’ma o’pka arteriyasi klapani stenozi; Fallo tetradasi, qorinchalararo to’siq nuqsoni) — Fig.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -1996,8 +1996,8 @@
   {
    "id": "ch12-t-170",
    "termUz": "+170°",
-   "original": "normaldan 111° o'ngga",
-   "contextUz": "12-13: +170° (normaldan 111° o'ngga), yuqori voltaj.",
+   "original": "normaldan 111° o’ngga",
+   "contextUz": "12-13: +170° (normaldan 111° o’ngga), yuqori voltaj.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -2017,7 +2017,7 @@
    "id": "ch12-t-chap-oyoqcha-blokadasi",
    "termUz": "Chap oyoqcha blokadasi",
    "original": null,
-   "contextUz": "Chap oyoqcha blokadasi — o'ng qorincha 2–3 baravar tez depolyarizatsiyalanadi, chap 0,1 s gacha musbat qoladi → kuchli chap og'ish ~−50°, QRS keskin uzaygan (Fig.",
+   "contextUz": "Chap oyoqcha blokadasi — o’ng qorincha 2–3 baravar tez depolyarizatsiyalanadi, chap 0,1 s gacha musbat qoladi → kuchli chap og’ish ~−50°, QRS keskin uzaygan (Fig.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -2027,7 +2027,7 @@
    "id": "ch12-t-50",
    "termUz": "~−50°",
    "original": null,
-   "contextUz": "Chap oyoqcha blokadasi — o'ng qorincha 2–3 baravar tez depolyarizatsiyalanadi, chap 0,1 s gacha musbat qoladi → kuchli chap og'ish ~−50°, QRS keskin uzaygan (Fig.",
+   "contextUz": "Chap oyoqcha blokadasi — o’ng qorincha 2–3 baravar tez depolyarizatsiyalanadi, chap 0,1 s gacha musbat qoladi → kuchli chap og’ish ~−50°, QRS keskin uzaygan (Fig.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -2035,9 +2035,9 @@
   },
   {
    "id": "ch12-t-ong-oyoqcha-blokadasi",
-   "termUz": "O'ng oyoqcha blokadasi",
+   "termUz": "O’ng oyoqcha blokadasi",
    "original": null,
-   "contextUz": "O'ng oyoqcha blokadasi → o'ng og'ish ~+105°, uzun QRS (Fig.",
+   "contextUz": "O’ng oyoqcha blokadasi → o’ng og’ish ~+105°, uzun QRS (Fig.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -2047,7 +2047,7 @@
    "id": "ch12-t-105",
    "termUz": "~+105°",
    "original": null,
-   "contextUz": "O'ng oyoqcha blokadasi → o'ng og'ish ~+105°, uzun QRS (Fig.",
+   "contextUz": "O’ng oyoqcha blokadasi → o’ng og’ish ~+105°, uzun QRS (Fig.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -2057,7 +2057,7 @@
    "id": "ch12-t-0-5-2-0-mv",
    "termUz": "0,5–2,0 mV",
    "original": "odatda III eng past, II eng baland",
-   "contextUz": "Standart ulanishlarda R cho'qqisidan S tubigacha normal 0,5–2,0 mV (odatda III eng past, II eng baland).",
+   "contextUz": "Standart ulanishlarda R cho’qqisidan S tubigacha normal 0,5–2,0 mV (odatda III eng past, II eng baland).",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -2067,7 +2067,7 @@
    "id": "ch12-t-4-mv",
    "termUz": ">4 mV",
    "original": null,
-   "contextUz": "Uchala ulanish QRS voltajlari yig'indisi >4 mV — yuqori voltajli EKG; sabab asosan muskul massasi ortishi (gipertrofiya: o'pka klapani stenozi, o'pka gipertenziyasi — o'ng; sistemik gipertenziya — chap).",
+   "contextUz": "Uchala ulanish QRS voltajlari yig’indisi >4 mV — yuqori voltajli EKG; sabab asosan muskul massasi ortishi (gipertrofiya: o’pka klapani stenozi, o’pka gipertenziyasi — o’ng; sistemik gipertenziya — chap).",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -2077,7 +2077,7 @@
    "id": "ch12-t-yuqori-voltajli-ekg",
    "termUz": "yuqori voltajli EKG",
    "original": null,
-   "contextUz": "Uchala ulanish QRS voltajlari yig'indisi >4 mV — yuqori voltajli EKG; sabab asosan muskul massasi ortishi (gipertrofiya: o'pka klapani stenozi, o'pka gipertenziyasi — o'ng; sistemik gipertenziya — chap).",
+   "contextUz": "Uchala ulanish QRS voltajlari yig’indisi >4 mV — yuqori voltajli EKG; sabab asosan muskul massasi ortishi (gipertrofiya: o’pka klapani stenozi, o’pka gipertenziyasi — o’ng; sistemik gipertenziya — chap).",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -2087,7 +2087,7 @@
    "id": "ch12-t-past-voltaj",
    "termUz": "Past voltaj",
    "original": null,
-   "contextUz": "Past voltaj: (a) yurak miopatiyalari — bir necha eski infarkt (muskul kamayadi, o'tkazish sekinlashadi, QRS biroz uzayadi; Fig.",
+   "contextUz": "Past voltaj: (a) yurak miopatiyalari — bir necha eski infarkt (muskul kamayadi, o’tkazish sekinlashadi, QRS biroz uzayadi; Fig.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -2097,7 +2097,7 @@
    "id": "ch12-t-amiloidoz",
    "termUz": "amiloidoz",
    "original": null,
-   "contextUz": "12-16); infiltrativ kasalliklar, masalan amiloidoz; (b) yurak atrofidagi holatlar — perikard suyuqligi (tokni \"qisqa tutashtiradi\"), kamroq plevra suyuqligi; o'pka emfizemasi (havo ko'p — izolyator, ko'krak kattalashgan, o'pkalar yurakni ko'proq o'raydi).",
+   "contextUz": "12-16); infiltrativ kasalliklar, masalan amiloidoz; (b) yurak atrofidagi holatlar — perikard suyuqligi (tokni \"qisqa tutashtiradi\"), kamroq plevra suyuqligi; o’pka emfizemasi (havo ko’p — izolyator, ko’krak kattalashgan, o’pkalar yurakni ko’proq o’raydi).",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -2107,7 +2107,7 @@
    "id": "ch12-t-perikard-suyuqligi",
    "termUz": "perikard suyuqligi",
    "original": "tokni \"qisqa tutashtiradi\"",
-   "contextUz": "12-16); infiltrativ kasalliklar, masalan amiloidoz; (b) yurak atrofidagi holatlar — perikard suyuqligi (tokni \"qisqa tutashtiradi\"), kamroq plevra suyuqligi; o'pka emfizemasi (havo ko'p — izolyator, ko'krak kattalashgan, o'pkalar yurakni ko'proq o'raydi).",
+   "contextUz": "12-16); infiltrativ kasalliklar, masalan amiloidoz; (b) yurak atrofidagi holatlar — perikard suyuqligi (tokni \"qisqa tutashtiradi\"), kamroq plevra suyuqligi; o’pka emfizemasi (havo ko’p — izolyator, ko’krak kattalashgan, o’pkalar yurakni ko’proq o’raydi).",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -2117,7 +2117,7 @@
    "id": "ch12-t-plevra-suyuqligi",
    "termUz": "plevra suyuqligi",
    "original": null,
-   "contextUz": "12-16); infiltrativ kasalliklar, masalan amiloidoz; (b) yurak atrofidagi holatlar — perikard suyuqligi (tokni \"qisqa tutashtiradi\"), kamroq plevra suyuqligi; o'pka emfizemasi (havo ko'p — izolyator, ko'krak kattalashgan, o'pkalar yurakni ko'proq o'raydi).",
+   "contextUz": "12-16); infiltrativ kasalliklar, masalan amiloidoz; (b) yurak atrofidagi holatlar — perikard suyuqligi (tokni \"qisqa tutashtiradi\"), kamroq plevra suyuqligi; o’pka emfizemasi (havo ko’p — izolyator, ko’krak kattalashgan, o’pkalar yurakni ko’proq o’raydi).",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -2125,9 +2125,9 @@
   },
   {
    "id": "ch12-t-opka-emfizemasi",
-   "termUz": "o'pka emfizemasi",
-   "original": "havo ko'p — izolyator, ko'krak kattalashgan, o'pkalar yurakni ko'proq o'raydi",
-   "contextUz": "12-16); infiltrativ kasalliklar, masalan amiloidoz; (b) yurak atrofidagi holatlar — perikard suyuqligi (tokni \"qisqa tutashtiradi\"), kamroq plevra suyuqligi; o'pka emfizemasi (havo ko'p — izolyator, ko'krak kattalashgan, o'pkalar yurakni ko'proq o'raydi).",
+   "termUz": "o’pka emfizemasi",
+   "original": "havo ko’p — izolyator, ko’krak kattalashgan, o’pkalar yurakni ko’proq o’raydi",
+   "contextUz": "12-16); infiltrativ kasalliklar, masalan amiloidoz; (b) yurak atrofidagi holatlar — perikard suyuqligi (tokni \"qisqa tutashtiradi\"), kamroq plevra suyuqligi; o’pka emfizemasi (havo ko’p — izolyator, ko’krak kattalashgan, o’pkalar yurakni ko’proq o’raydi).",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -2157,7 +2157,7 @@
    "id": "ch12-t-0-14-s",
    "termUz": "≥0,14 s",
    "original": null,
-   "contextUz": "Purkinye blokadasida impuls muskul orqali (~1/3 tezlik) → to'liq oyoqcha blokadasida ≥0,14 s.",
+   "contextUz": "Purkinye blokadasida impuls muskul orqali (~1/3 tezlik) → to’liq oyoqcha blokadasida ≥0,14 s.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -2165,9 +2165,9 @@
   },
   {
    "id": "ch12-t-galati-qrs",
-   "termUz": "G'alati QRS",
+   "termUz": "G’alati QRS",
    "original": null,
-   "contextUz": "G'alati QRS: muskul o'rnini chandiq egallashi va Purkinye tizimidagi ko'p mayda bloklar → ikki-uch cho'qqili komplekslar.",
+   "contextUz": "G’alati QRS: muskul o’rnini chandiq egallashi va Purkinye tizimidagi ko’p mayda bloklar → ikki-uch cho’qqili komplekslar.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -2187,7 +2187,7 @@
    "id": "ch12-t-mahalliy-koronar-okklyuziya-tufayli-ishemiya",
    "termUz": "mahalliy koronar okklyuziya tufayli ishemiya",
    "original": null,
-   "contextUz": "Sabablari: mexanik travma, infeksiya, va eng ko'p — mahalliy koronar okklyuziya tufayli ishemiya.",
+   "contextUz": "Sabablari: mexanik travma, infeksiya, va eng ko’p — mahalliy koronar okklyuziya tufayli ishemiya.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -2205,9 +2205,9 @@
   },
   {
    "id": "ch12-t-otkir-oldingi-devor-infarkti",
-   "termUz": "O'tkir oldingi devor infarkti",
+   "termUz": "O’tkir oldingi devor infarkti",
    "original": "Fig. 12-19",
-   "contextUz": "O'tkir oldingi devor infarkti (Fig. 12-19): V2 da kuchli manfiy shikastlanish potensiali (vektorning manfiy uchi oldingi ko'krak devoriga); I da manfiy, III da musbat → vektor ~+150° (manfiy uchi chap qorinchaga) → ehtimol chap koronar arteriyaning oldingi tushuvchi tarmog'i trombozi.",
+   "contextUz": "O’tkir oldingi devor infarkti (Fig. 12-19): V2 da kuchli manfiy shikastlanish potensiali (vektorning manfiy uchi oldingi ko’krak devoriga); I da manfiy, III da musbat → vektor ~+150° (manfiy uchi chap qorinchaga) → ehtimol chap koronar arteriyaning oldingi tushuvchi tarmog’i trombozi.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -2217,7 +2217,7 @@
    "id": "ch12-t-v2-da-kuchli-manfiy",
    "termUz": "V2 da kuchli manfiy",
    "original": null,
-   "contextUz": "12-19): V2 da kuchli manfiy shikastlanish potensiali (vektorning manfiy uchi oldingi ko'krak devoriga); I da manfiy, III da musbat → vektor ~+150° (manfiy uchi chap qorinchaga) → ehtimol chap koronar arteriyaning oldingi tushuvchi tarmog'i trombozi.",
+   "contextUz": "12-19): V2 da kuchli manfiy shikastlanish potensiali (vektorning manfiy uchi oldingi ko’krak devoriga); I da manfiy, III da musbat → vektor ~+150° (manfiy uchi chap qorinchaga) → ehtimol chap koronar arteriyaning oldingi tushuvchi tarmog’i trombozi.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -2225,9 +2225,9 @@
   },
   {
    "id": "ch12-t-chap-koronar-arteriyaning-oldingi-tushuvchi-tarmogi",
-   "termUz": "chap koronar arteriyaning oldingi tushuvchi tarmog'i",
+   "termUz": "chap koronar arteriyaning oldingi tushuvchi tarmog’i",
    "original": null,
-   "contextUz": "12-19): V2 da kuchli manfiy shikastlanish potensiali (vektorning manfiy uchi oldingi ko'krak devoriga); I da manfiy, III da musbat → vektor ~+150° (manfiy uchi chap qorinchaga) → ehtimol chap koronar arteriyaning oldingi tushuvchi tarmog'i trombozi.",
+   "contextUz": "12-19): V2 da kuchli manfiy shikastlanish potensiali (vektorning manfiy uchi oldingi ko’krak devoriga); I da manfiy, III da musbat → vektor ~+150° (manfiy uchi chap qorinchaga) → ehtimol chap koronar arteriyaning oldingi tushuvchi tarmog’i trombozi.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -2235,9 +2235,9 @@
   },
   {
    "id": "ch12-t-orqa-devor-choqqi-infarkti",
-   "termUz": "Orqa devor (cho'qqi) infarkti",
+   "termUz": "Orqa devor (cho’qqi) infarkti",
    "original": "Fig. 12-20",
-   "contextUz": "Orqa devor (cho'qqi) infarkti (Fig. 12-20): ko'krak ulanishida T-P davrida musbat shikastlanish potensiali (manfiy uchi ko'krak devoridan uzoqqa — orqaga); II va III da manfiy → ~−95° (manfiy uchi pastga) → chap qorinchaning orqa devori, cho'qqi yaqinida.",
+   "contextUz": "Orqa devor (cho’qqi) infarkti (Fig. 12-20): ko’krak ulanishida T-P davrida musbat shikastlanish potensiali (manfiy uchi ko’krak devoridan uzoqqa — orqaga); II va III da manfiy → ~−95° (manfiy uchi pastga) → chap qorinchaning orqa devori, cho’qqi yaqinida.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -2247,7 +2247,7 @@
    "id": "ch12-t-musbat",
    "termUz": "musbat",
    "original": null,
-   "contextUz": "12-20): ko'krak ulanishida T-P davrida musbat shikastlanish potensiali (manfiy uchi ko'krak devoridan uzoqqa — orqaga); II va III da manfiy → ~−95° (manfiy uchi pastga) → chap qorinchaning orqa devori, cho'qqi yaqinida.",
+   "contextUz": "12-20): ko’krak ulanishida T-P davrida musbat shikastlanish potensiali (manfiy uchi ko’krak devoridan uzoqqa — orqaga); II va III da manfiy → ~−95° (manfiy uchi pastga) → chap qorinchaning orqa devori, cho’qqi yaqinida.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -2267,7 +2267,7 @@
    "id": "ch12-t-evolyutsiya",
    "termUz": "Evolyutsiya",
    "original": "Fig. 12-21, V3",
-   "contextUz": "Evolyutsiya (Fig. 12-21, V3): birinchi kuni kuchli shikastlanish potensiali; ~1 haftada ancha kamayadi; 3 haftada yo'qoladi; keyingi yil davomida deyarli o'zgarmaydi — kollateral koronar oqim rivojlanadi.",
+   "contextUz": "Evolyutsiya (Fig. 12-21, V3): birinchi kuni kuchli shikastlanish potensiali; ~1 haftada ancha kamayadi; 3 haftada yo’qoladi; keyingi yil davomida deyarli o’zgarmaydi — kollateral koronar oqim rivojlanadi.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -2275,9 +2275,9 @@
   },
   {
    "id": "ch12-t-eski-infarkt-q-tolqinlari",
-   "termUz": "Eski infarkt — Q to'lqinlari",
+   "termUz": "Eski infarkt — Q to’lqinlari",
    "original": "Fig. 12-22, ~1 yildan keyin",
-   "contextUz": "Eski infarkt — Q to'lqinlari (Fig. 12-22, ~1 yildan keyin): oldingi infarktda I da Q (chap qorincha oldingi devori muskuli yo'qolishi); orqa infarktda III da Q.",
+   "contextUz": "Eski infarkt — Q to’lqinlari (Fig. 12-22, ~1 yildan keyin): oldingi infarktda I da Q (chap qorincha oldingi devori muskuli yo’qolishi); orqa infarktda III da Q.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -2285,9 +2285,9 @@
   },
   {
    "id": "ch12-t-da-q-chap-qorincha-oldingi-devori-muskuli-yoqolishi-orqa-inf",
-   "termUz": "da Q (chap qorincha oldingi devori muskuli yo'qolishi); orqa infarktda",
+   "termUz": "da Q (chap qorincha oldingi devori muskuli yo’qolishi); orqa infarktda",
    "original": null,
-   "contextUz": "12-22, ~1 yildan keyin): oldingi infarktda I da Q (chap qorincha oldingi devori muskuli yo'qolishi); orqa infarktda III da Q.",
+   "contextUz": "12-22, ~1 yildan keyin): oldingi infarktda I da Q (chap qorincha oldingi devori muskuli yo’qolishi); orqa infarktda III da Q.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -2297,7 +2297,7 @@
    "id": "ch12-t-stenokardiya-angina-pectoris",
    "termUz": "Stenokardiya (angina pectoris)",
    "original": null,
-   "contextUz": "Stenokardiya (angina pectoris): yurakdan kelib ko'krak sohasida sezilgan og'riq, chap bo'yin va chap qo'lga tarqaladi; o'rtacha ishemiya; tinch holatda yo'q, yurak zo'riqqanda paydo bo'ladi; og'ir xurujda EKG da shikastlanish potensiali ko'rinishi mumkin.",
+   "contextUz": "Stenokardiya (angina pectoris): yurakdan kelib ko’krak sohasida sezilgan og’riq, chap bo’yin va chap qo’lga tarqaladi; o’rtacha ishemiya; tinch holatda yo’q, yurak zo’riqqanda paydo bo’ladi; og’ir xurujda EKG da shikastlanish potensiali ko’rinishi mumkin.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -2307,7 +2307,7 @@
    "id": "ch12-t-qorincha-asosida-ap-qisqarishi",
    "termUz": "Qorincha asosida AP qisqarishi",
    "original": null,
-   "contextUz": "Qorincha asosida AP qisqarishi → repolyarizatsiya cho'qqidan emas, asosdan boshlanadi → barcha standart ulanishlarda T teskari (Fig.",
+   "contextUz": "Qorincha asosida AP qisqarishi → repolyarizatsiya cho’qqidan emas, asosdan boshlanadi → barcha standart ulanishlarda T teskari (Fig.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -2317,7 +2317,7 @@
    "id": "ch12-t-t-teskari",
    "termUz": "T teskari",
    "original": "Fig. 12-23 — asosdagi yengil ishemiya",
-   "contextUz": "Qorincha asosida AP qisqarishi → repolyarizatsiya cho'qqidan emas, asosdan boshlanadi → barcha standart ulanishlarda T teskari (Fig. 12-23 — asosdagi yengil ishemiya).",
+   "contextUz": "Qorincha asosida AP qisqarishi → repolyarizatsiya cho’qqidan emas, asosdan boshlanadi → barcha standart ulanishlarda T teskari (Fig. 12-23 — asosdagi yengil ishemiya).",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -2325,9 +2325,9 @@
   },
   {
    "id": "ch12-t-sekin-otkazish",
-   "termUz": "Sekin o'tkazish",
+   "termUz": "Sekin o’tkazish",
    "original": "masalan, chap oyoqcha blokadasi, chap qorincha ~0,08 s kech",
-   "contextUz": "Sekin o'tkazish (masalan, chap oyoqcha blokadasi, chap qorincha ~0,08 s kech) → o'ng qorincha ancha oldin repolyarizatsiyalanadi → T o'qi QRS o'qiga teskari.",
+   "contextUz": "Sekin o’tkazish (masalan, chap oyoqcha blokadasi, chap qorincha ~0,08 s kech) → o’ng qorincha ancha oldin repolyarizatsiyalanadi → T o’qi QRS o’qiga teskari.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -2337,7 +2337,7 @@
    "id": "ch12-t-yengil-ishemiya",
    "termUz": "Yengil ishemiya",
    "original": null,
-   "contextUz": "Yengil ishemiya — depolyarizatsiya davri qisqarishining eng ko'p sababi (K⁺ kanallari orqali tok oshadi); bir sohada bo'lsa T inversiyasi yoki ikki fazali T — ishemiya belgisi (surunkali koronar stenoz, o'tkir okklyuziya, koronar spazm, mashqdagi nisbiy yetishmovchilik).",
+   "contextUz": "Yengil ishemiya — depolyarizatsiya davri qisqarishining eng ko’p sababi (K⁺ kanallari orqali tok oshadi); bir sohada bo’lsa T inversiyasi yoki ikki fazali T — ishemiya belgisi (surunkali koronar stenoz, o’tkir okklyuziya, koronar spazm, mashqdagi nisbiy yetishmovchilik).",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -2357,7 +2357,7 @@
    "id": "ch12-t-ikki-fazali-t",
    "termUz": "ikki fazali T",
    "original": "Fig. 12-24",
-   "contextUz": "Digitalis (22-bob; yurak yetishmovchiligida qisqarish kuchini oshiradi): dozadan oshsa qorinchaning bir qismida depolyarizatsiya nomutanosib uzayadi → T inversiyasi yoki ikki fazali T (Fig. 12-24) — ko'pincha digitalis zaharlanishining eng erta belgisi.",
+   "contextUz": "Digitalis (22-bob; yurak yetishmovchiligida qisqarish kuchini oshiradi): dozadan oshsa qorinchaning bir qismida depolyarizatsiya nomutanosib uzayadi → T inversiyasi yoki ikki fazali T (Fig. 12-24) — ko’pincha digitalis zaharlanishining eng erta belgisi.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",
@@ -2367,7 +2367,7 @@
    "id": "ch12-t-digitalis-zaharlanishining-eng-erta-belgisi",
    "termUz": "digitalis zaharlanishining eng erta belgisi",
    "original": null,
-   "contextUz": "12-24) — ko'pincha digitalis zaharlanishining eng erta belgisi.",
+   "contextUz": "12-24) — ko’pincha digitalis zaharlanishining eng erta belgisi.",
    "lessonId": "ch12",
    "topicId": "03",
    "source": "summaryUz",

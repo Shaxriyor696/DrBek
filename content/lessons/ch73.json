@@ -34,31 +34,31 @@
  "outline": [],
  "objectives": [
   "ATF — energiya valyutasi",
-  "Fosfokreatin — qo'shimcha energiya ombori va \"ATF buferi\"",
+  "Fosfokreatin — qo’shimcha energiya ombori va \"ATF buferi\"",
   "Anaerob va aerob energiya",
   "Hujayra energiyasidan foydalanishning umumiy sxemasi (73-1-rasm)",
   "Hujayrada energiya ajralishini boshqarish",
   "Metabolizm tezligi",
-  "Metabolizm tezligini o'lchash",
+  "Metabolizm tezligini o’lchash",
   "Energiya sarfining tarkibiy qismlari",
   "Bazal metabolizm tezligi (BMR)",
-  "BMR ga ta'sir qiluvchi omillar",
+  "BMR ga ta’sir qiluvchi omillar",
   "Jismoniy faollik uchun energiya",
-  "Ovqatning termogen ta'siri",
-  "Titramasdan termogenez — simpatik qo'zg'alish roli"
+  "Ovqatning termogen ta’siri",
+  "Titramasdan termogenez — simpatik qo’zg’alish roli"
  ],
  "blocks": {
   "simple": [
    {
     "type": "heading",
     "level": 2,
-    "text": "Asosiy g'oya",
+    "text": "Asosiy g’oya",
     "id": "ch73-s-0-asosiy-goya",
     "bid": "ch73-u0"
    },
    {
     "type": "paragraph",
-    "text": "Uglevod, yog' va oqsil energiyasi hujayra funksiyalariga deyarli faqat ATF (yoki GTF) orqali yetkaziladi — ATF hujayraning \"energiya valyutasi\". Fosfokreatin ATF zaxirasi va buferi vazifasini bajaradi. Hujayradagi energiya ajralishi tezligini asosan ADF konsentratsiyasi, ya'ni hujayra faolligi boshqaradi. Tanada ajralgan energiyaning deyarli hammasi oxir-oqibat issiqlikka aylanadi, shuning uchun metabolizm tezligi issiqlik ajralishi bilan ifodalanadi.",
+    "text": "Uglevod, yog' va oqsil energiyasi hujayra funksiyalariga deyarli faqat ATF (yoki GTF) orqali yetkaziladi — ATF hujayraning \"energiya valyutasi\". Fosfokreatin ATF zaxirasi va buferi vazifasini bajaradi. Hujayradagi energiya ajralishi tezligini asosan ADF konsentratsiyasi, ya’ni hujayra faolligi boshqaradi. Tanada ajralgan energiyaning deyarli hammasi oxir-oqibat issiqlikka aylanadi, shuning uchun metabolizm tezligi issiqlik ajralishi bilan ifodalanadi.",
     "bid": "ch73-u1"
    },
    {
@@ -73,11 +73,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Har bir ikkita yuqori energiyali fosfat bog'ida standart sharoitda ~7300 kal/mol (7,3 kkal), fiziologik sharoitda 12 000 kal/mol gacha erkin energiya bor. Bu tanadagi deyarli har qanday reaksiya bosqichi uchun yetarli; ko'p reaksiyalar uning bir necha yuz kaloriyasini ishlatadi, qolgani issiqlik bo'lib yo'qoladi (2-bob).",
+      "text": "Har bir ikkita yuqori energiyali fosfat bog’ida standart sharoitda ~7300 kal/mol (7,3 kkal), fiziologik sharoitda 12 000 kal/mol gacha erkin energiya bor. Bu tanadagi deyarli har qanday reaksiya bosqichi uchun yetarli; ko’p reaksiyalar uning bir necha yuz kaloriyasini ishlatadi, qolgani issiqlik bo’lib yo’qoladi (2-bob).",
       "depth": 0
      },
      {
-      "text": "**ATF hosil bo'lishi:** (1) uglevodlar (asosan glyukoza, oz fruktoza) — sitoplazmada anaerob glikoliz va mitoxondriyada aerob limon kislota (Krebs) sikli; (2) yog' kislotalari — mitoxondriyada beta-oksidlanish; (3) oqsillar — aminokislotalarga gidroliz, so'ng limon kislota sikli oraliq mahsulotlari, asetil-KoA va CO2 ga.",
+      "text": "**ATF hosil bo’lishi:** (1) uglevodlar (asosan glyukoza, oz fruktoza) — sitoplazmada anaerob glikoliz va mitoxondriyada aerob limon kislota (Krebs) sikli; (2) yog' kislotalari — mitoxondriyada beta-oksidlanish; (3) oqsillar — aminokislotalarga gidroliz, so’ng limon kislota sikli oraliq mahsulotlari, asetil-KoA va CO2 ga.",
       "depth": 0
      },
      {
@@ -85,11 +85,11 @@
       "depth": 0
      },
      {
-      "text": "*Sintez va o'sish:* peptid bog'lari hosil qilish (har bir bog' 500–5000 kal/mol saqlaydi, lekin uni hosil qilish uchun 4 ta yuqori energiyali bog' — 48 000 kal sarflanadi, 3-bob). Laktatdan glyukoza, asetil-KoA dan yog' kislotalari, xolesterin, fosfolipidlar, gormonlar va deyarli barcha moddalar sintezi. Hatto ammiakdan mochevina hosil qilish ham ATF talab qiladi — ammiak juda zaharli bo'lgani uchun bu foydali.",
+      "text": "*Sintez va o’sish:* peptid bog’lari hosil qilish (har bir bog' 500–5000 kal/mol saqlaydi, lekin uni hosil qilish uchun 4 ta yuqori energiyali bog' — 48 000 kal sarflanadi, 3-bob). Laktatdan glyukoza, asetil-KoA dan yog' kislotalari, xolesterin, fosfolipidlar, gormonlar va deyarli barcha moddalar sintezi. Hatto ammiakdan mochevina hosil qilish ham ATF talab qiladi — ammiak juda zaharli bo’lgani uchun bu foydali.",
       "depth": 1
      },
      {
-      "text": "*Mushak qisqarishi:* miozin ferment sifatida ATF ni ADF ga parchalaydi. Tinch holatda oz, maksimal qisqarishning qisqa davrlarida kamida 150 baravar ko'p (6-bob).",
+      "text": "*Mushak qisqarishi:* miozin ferment sifatida ATF ni ADF ga parchalaydi. Tinch holatda oz, maksimal qisqarishning qisqa davrlarida kamida 150 baravar ko’p (6-bob).",
       "depth": 1
      },
      {
@@ -101,7 +101,7 @@
       "depth": 1
      },
      {
-      "text": "*Nerv o'tkazuvchanligi:* impuls energiyasi membranadagi ion konsentratsiya farqlaridan (ichkarida K+ ko'p, tashqarida Na+ ko'p); har bir harakat potensialida oz K+ chiqadi, Na+ kiradi, so'ng ATF bilan ishlaydigan faol transport ularni qaytaradi.",
+      "text": "*Nerv o’tkazuvchanligi:* impuls energiyasi membranadagi ion konsentratsiya farqlaridan (ichkarida K+ ko’p, tashqarida Na+ ko’p); har bir harakat potensialida oz K+ chiqadi, Na+ kiradi, so’ng ATF bilan ishlaydigan faol transport ularni qaytaradi.",
       "depth": 1
      }
     ],
@@ -110,7 +110,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Fosfokreatin — qo'shimcha energiya ombori va \"ATF buferi\"",
+    "text": "Fosfokreatin — qo’shimcha energiya ombori va \"ATF buferi\"",
     "id": "ch73-s-4-fosfokreatin-qoshimcha-energiya-ombori-va-atf-buferi",
     "bid": "ch73-u4"
    },
@@ -119,15 +119,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Hujayrada ATF dan 3–8 baravar ko'p. Yuqori energiyali bog'i standart sharoitda ~8500, tanada (37°C, past konsentratsiyalar) 13 000 kal/mol gacha — ATF bog'idan biroz ko'p.",
+      "text": "Hujayrada ATF dan 3–8 baravar ko’p. Yuqori energiyali bog’i standart sharoitda ~8500, tanada (37°C, past konsentratsiyalar) 13 000 kal/mol gacha — ATF bog’idan biroz ko’p.",
       "depth": 0
      },
      {
-      "text": "ATF dan farqli ravishda oziq va funksional tizimlar o'rtasida bevosita bog'lovchi bo'la olmaydi, lekin ATF bilan energiyani o'zaro almashadi: fosfokreatin + ADF ⇌ ATF + kreatin.",
+      "text": "ATF dan farqli ravishda oziq va funksional tizimlar o’rtasida bevosita bog’lovchi bo’la olmaydi, lekin ATF bilan energiyani o’zaro almashadi: fosfokreatin + ADF ⇌ ATF + kreatin.",
       "depth": 0
      },
      {
-      "text": "ATF ortiqcha bo'lsa fosfokreatin sintezlanadi; ATF sarflana boshlasa fosfokreatin energiyasi tez ATF ga o'tadi. Bog' energiyasi ATF nikidan 1000–1500 kal/mol ko'p bo'lgani uchun reaksiya ATF hosil bo'lishiga tez suriladi. Fosfokreatin qolgan ekan, ATF konsentratsiyasi deyarli doimiy yuqori turadi — bu muhim, chunki deyarli barcha metabolik reaksiyalar tezligi shu doimiylikka bog'liq.",
+      "text": "ATF ortiqcha bo’lsa fosfokreatin sintezlanadi; ATF sarflana boshlasa fosfokreatin energiyasi tez ATF ga o’tadi. Bog' energiyasi ATF nikidan 1000–1500 kal/mol ko’p bo’lgani uchun reaksiya ATF hosil bo’lishiga tez suriladi. Fosfokreatin qolgan ekan, ATF konsentratsiyasi deyarli doimiy yuqori turadi — bu muhim, chunki deyarli barcha metabolik reaksiyalar tezligi shu doimiylikka bog’liq.",
       "depth": 0
      }
     ],
@@ -153,19 +153,19 @@
       "depth": 0
      },
      {
-      "text": "**Gipoksiyada:** nafas to'xtasa, o'pka va gemoglobindagi kislorod metabolizmni atigi ~2 daqiqa ta'minlaydi; yana ~1 daqiqa glikogenning piruvat → laktatga glikolizidan energiya olinadi (laktat hujayradan chiqadi, 68-bob).",
+      "text": "**Gipoksiyada:** nafas to’xtasa, o’pka va gemoglobindagi kislorod metabolizmni atigi ~2 daqiqa ta’minlaydi; yana ~1 daqiqa glikogenning piruvat → laktatga glikolizidan energiya olinadi (laktat hujayradan chiqadi, 68-bob).",
       "depth": 0
      },
      {
-      "text": "**Kuchli qisqa faollikda:** oksidlanish juda sekin javob beradi, shuning uchun qo'shimcha energiya anaerob manbalardan: (1) mushakdagi tayyor ATF (maksimal ~5 mmol/L hujayra ichi suyuqligi — maksimal qisqarishni ~1 soniya ta'minlaydi); (2) fosfokreatin (3–8 baravar ko'p, lekin hammasi bilan ham maksimal qisqarish 5–10 soniya); (3) glikogenning laktatgacha glikolizi — oksidlanishdan ancha tez. 5–10 soniyadan uzoq, lekin 1–2 daqiqadan qisqa kuchli faollik energiyasining ko'pi anaerob glikolizdan; mushak glikogeni kamayadi, qonda laktat oshadi.",
+      "text": "**Kuchli qisqa faollikda:** oksidlanish juda sekin javob beradi, shuning uchun qo’shimcha energiya anaerob manbalardan: (1) mushakdagi tayyor ATF (maksimal ~5 mmol/L hujayra ichi suyuqligi — maksimal qisqarishni ~1 soniya ta’minlaydi); (2) fosfokreatin (3–8 baravar ko’p, lekin hammasi bilan ham maksimal qisqarish 5–10 soniya); (3) glikogenning laktatgacha glikolizi — oksidlanishdan ancha tez. 5–10 soniyadan uzoq, lekin 1–2 daqiqadan qisqa kuchli faollik energiyasining ko’pi anaerob glikolizdan; mushak glikogeni kamayadi, qonda laktat oshadi.",
       "depth": 0
      },
      {
-      "text": "Mashqdan keyin oksidlanish yordamida laktatning ~4/5 qismi glyukozaga qayta aylanadi (asosan jigarda, so'ng qon bilan mushakka qaytib glikogen bo'ladi), qolgani piruvat sifatida limon kislota siklida oksidlanadi.",
+      "text": "Mashqdan keyin oksidlanish yordamida laktatning ~4/5 qismi glyukozaga qayta aylanadi (asosan jigarda, so’ng qon bilan mushakka qaytib glikogen bo’ladi), qolgani piruvat sifatida limon kislota siklida oksidlanadi.",
       "depth": 0
      },
      {
-      "text": "**Kislorod qarzi:** og'ir mashqdan keyin bir necha daqiqadan 1 soatgacha qo'shimcha kislorod sarflanadi: (1) laktatni glyukozaga qaytarish; (2) AMF va ADF ni ATF ga qaytarish; (3) kreatin va fosfatdan fosfokreatinni tiklash; (4) gemoglobin va miogloblin bilan bog'langan kislorodni normallashtirish; (5) o'pkadagi kislorodni normal darajaga ko'tarish. Kislorod qarzi to'plash qobiliyati ko'p sport turlarida muhim (85-bob).",
+      "text": "**Kislorod qarzi:** og’ir mashqdan keyin bir necha daqiqadan 1 soatgacha qo’shimcha kislorod sarflanadi: (1) laktatni glyukozaga qaytarish; (2) AMF va ADF ni ATF ga qaytarish; (3) kreatin va fosfatdan fosfokreatinni tiklash; (4) gemoglobin va miogloblin bilan bog’langan kislorodni normallashtirish; (5) o’pkadagi kislorodni normal darajaga ko’tarish. Kislorod qarzi to’plash qobiliyati ko’p sport turlarida muhim (85-bob).",
       "depth": 0
      }
     ],
@@ -183,15 +183,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Glikogen va glyukoza anaerob, uglevod, yog', oqsil va boshqa moddalardan hosil bo'lgan birikmalar aerob yo'l bilan ATF beradi. ATF fosfokreatin bilan qaytar muvozanatda; hujayra zaxira energiyasining ko'pi fosfokreatinda.",
+      "text": "Glikogen va glyukoza anaerob, uglevod, yog', oqsil va boshqa moddalardan hosil bo’lgan birikmalar aerob yo’l bilan ATF beradi. ATF fosfokreatin bilan qaytar muvozanatda; hujayra zaxira energiyasining ko’pi fosfokreatinda.",
       "depth": 0
      },
      {
-      "text": "ATF sintez va o'sish, mushak qisqarishi, bez sekretsiyasi, nerv o'tkazuvchanligi, faol so'rilish va boshqa faoliyatlarga sarflanadi.",
+      "text": "ATF sintez va o’sish, mushak qisqarishi, bez sekretsiyasi, nerv o’tkazuvchanligi, faol so’rilish va boshqa faoliyatlarga sarflanadi.",
       "depth": 0
      },
      {
-      "text": "Talab oksidlanish imkoniyatidan oshsa, avval fosfokreatin, so'ng tezda glikogenning anaerob parchalanishi ishlatiladi. Oksidlanish keskin energiya portlashini bera olmaydi, lekin sekin sarfda zaxiralar (asosan yog') bor ekan, cheksiz davom etadi.",
+      "text": "Talab oksidlanish imkoniyatidan oshsa, avval fosfokreatin, so’ng tezda glikogenning anaerob parchalanishi ishlatiladi. Oksidlanish keskin energiya portlashini bera olmaydi, lekin sekin sarfda zaxiralar (asosan yog') bor ekan, cheksiz davom etadi.",
       "depth": 0
      }
     ],
@@ -209,15 +209,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Ferment reaksiyalari tezligi:** ferment avval substrat bilan bo'sh birikib, uning bog'lanish kuchlarini o'zgartiradi. **Mikaelis-Menten tenglamasi:** tezlik = K1 × [Ferment] × [Substrat] / (K2 + [Substrat]) (73-2-rasm).",
+      "text": "**Ferment reaksiyalari tezligi:** ferment avval substrat bilan bo’sh birikib, uning bog’lanish kuchlarini o’zgartiradi. **Mikaelis-Menten tenglamasi:** tezlik = K1 × [Ferment] × [Substrat] / (K2 + [Substrat]) (73-2-rasm).",
       "depth": 0
      },
      {
-      "text": "**Substrat ko'p bo'lsa** tezlik deyarli faqat ferment konsentratsiyasiga bog'liq (ferment 1→2→4→8 oshsa, tezlik mutanosib oshadi). Misol: qandli diabetda kanalchalarga juda ko'p glyukoza tushganda tashuvchi fermentlar to'yingan, qayta so'rilish glyukoza emas, tashuvchilar miqdori bilan cheklanadi.",
+      "text": "**Substrat ko’p bo’lsa** tezlik deyarli faqat ferment konsentratsiyasiga bog’liq (ferment 1→2→4→8 oshsa, tezlik mutanosib oshadi). Misol: qandli diabetda kanalchalarga juda ko’p glyukoza tushganda tashuvchi fermentlar to’yingan, qayta so’rilish glyukoza emas, tashuvchilar miqdori bilan cheklanadi.",
       "depth": 0
      },
      {
-      "text": "**Substrat kam bo'lsa** tezlik substrat va ferment konsentratsiyasiga to'g'ri mutanosib (ichak va kanalchalarda past konsentratsiyali moddalar so'rilishi).",
+      "text": "**Substrat kam bo’lsa** tezlik substrat va ferment konsentratsiyasiga to’g’ri mutanosib (ichak va kanalchalarda past konsentratsiyali moddalar so’rilishi).",
       "depth": 0
      },
      {
@@ -225,7 +225,7 @@
       "depth": 0
      },
      {
-      "text": "**ADF — energiya ajralishining asosiy boshqaruvchisi:** tinch holatda hujayrada ADF juda kam, shuning uchun ADF ni substrat sifatida talab qiladigan barcha oksidlanish va boshqa energiya beruvchi yo'llar sekin. Hujayra har qanday faoliyatda ATF ni ADF ga aylantiradi; ADF faollik darajasiga mutanosib oshib, oziqdan energiya ajralish tezligini avtomatik oshiradi. Faoliyat to'xtasa, ADF tez ATF ga aylanib, energiya ajralishi to'xtaydi.",
+      "text": "**ADF — energiya ajralishining asosiy boshqaruvchisi:** tinch holatda hujayrada ADF juda kam, shuning uchun ADF ni substrat sifatida talab qiladigan barcha oksidlanish va boshqa energiya beruvchi yo’llar sekin. Hujayra har qanday faoliyatda ATF ni ADF ga aylantiradi; ADF faollik darajasiga mutanosib oshib, oziqdan energiya ajralish tezligini avtomatik oshiradi. Faoliyat to’xtasa, ADF tez ATF ga aylanib, energiya ajralishi to’xtaydi.",
       "depth": 0
      }
     ],
@@ -247,11 +247,11 @@
       "depth": 0
      },
      {
-      "text": "**Issiqlik — deyarli barcha energiyaning oxirgi mahsuloti:** ATF hosil bo'lishida oziq energiyasining o'rtacha 35% i issiqlikka aylanadi; ATF dan funksional tizimlarga o'tishda yana yo'qotiladi, shuning uchun eng yaxshi sharoitda ham oziq energiyasining ko'pi bilan **27%** i funksional tizimlarga yetadi. U ham oxir-oqibat issiqlikka aylanadi: oqsillar doimo almashinib, peptid bog'lari energiyasi parchalanishda issiqlik bo'ladi; mushak energiyasi to'qima yopishqoqligini yengishga sarflanib, ishqalanish issiqligiga aylanadi; yurak arteriyalarni cho'zib saqlagan potensial energiya qon qatlamlari va tomir devori ishqalanishida issiqlikka aylanadi.",
+      "text": "**Issiqlik — deyarli barcha energiyaning oxirgi mahsuloti:** ATF hosil bo’lishida oziq energiyasining o’rtacha 35% i issiqlikka aylanadi; ATF dan funksional tizimlarga o’tishda yana yo’qotiladi, shuning uchun eng yaxshi sharoitda ham oziq energiyasining ko’pi bilan **27%** i funksional tizimlarga yetadi. U ham oxir-oqibat issiqlikka aylanadi: oqsillar doimo almashinib, peptid bog’lari energiyasi parchalanishda issiqlik bo’ladi; mushak energiyasi to’qima yopishqoqligini yengishga sarflanib, ishqalanish issiqligiga aylanadi; yurak arteriyalarni cho’zib saqlagan potensial energiya qon qatlamlari va tomir devori ishqalanishida issiqlikka aylanadi.",
       "depth": 0
      },
      {
-      "text": "Yagona sezilarli istisno — tanadan tashqarida ish bajarish (masalan, yukni ko'tarish yoki zinapoyaga chiqish — tortishishga qarshi potensial energiya). Tashqi ish bo'lmasa, barcha energiya tana issiqligiga aylanadi.",
+      "text": "Yagona sezilarli istisno — tanadan tashqarida ish bajarish (masalan, yukni ko’tarish yoki zinapoyaga chiqish — tortishishga qarshi potensial energiya). Tashqi ish bo’lmasa, barcha energiya tana issiqligiga aylanadi.",
       "depth": 0
      },
      {
@@ -264,7 +264,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Metabolizm tezligini o'lchash",
+    "text": "Metabolizm tezligini o’lchash",
     "id": "ch73-s-14-metabolizm-tezligini-olchash",
     "bid": "ch73-u14"
    },
@@ -273,11 +273,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "**To'g'ridan-to'g'ri kalorimetriya:** tashqi ish bo'lmasa, tanadan ajralgan issiqlik o'lchanadi. Odam issiqlik o'tkazmaydigan kamerada; havo sovuq suv vannasidagi quvurlardan o'tkazilib, harorati doimiy saqlanadi; suv vannasining issiqlik olishi tana issiqlik ajralishiga teng. Qiyin, faqat tadqiqotda.",
+      "text": "**To’g’ridan-to’g’ri kalorimetriya:** tashqi ish bo’lmasa, tanadan ajralgan issiqlik o’lchanadi. Odam issiqlik o’tkazmaydigan kamerada; havo sovuq suv vannasidagi quvurlardan o’tkazilib, harorati doimiy saqlanadi; suv vannasining issiqlik olishi tana issiqlik ajralishiga teng. Qiyin, faqat tadqiqotda.",
       "depth": 0
      },
      {
-      "text": "**Bilvosita kalorimetriya — kislorodning energiya ekvivalenti:** tana energiyasining >95% i kislorodning oziq bilan reaksiyasidan. 1 litr O2 bilan: glyukoza 5,01 Kal, kraxmal 5,06, yog' 4,70, oqsil 4,60 Kal — deyarli teng. O'rtacha ratsion uchun ~**4,825 Kal/L** (kislorodning energiya ekvivalenti). Faqat uglevod yoqilsa hisob ~4% kam, asosan yog' bo'lsa ~4% ko'p chiqadi.",
+      "text": "**Bilvosita kalorimetriya — kislorodning energiya ekvivalenti:** tana energiyasining >95% i kislorodning oziq bilan reaksiyasidan. 1 litr O2 bilan: glyukoza 5,01 Kal, kraxmal 5,06, yog' 4,70, oqsil 4,60 Kal — deyarli teng. O’rtacha ratsion uchun ~**4,825 Kal/L** (kislorodning energiya ekvivalenti). Faqat uglevod yoqilsa hisob ~4% kam, asosan yog' bo’lsa ~4% ko’p chiqadi.",
       "depth": 0
      }
     ],
@@ -295,19 +295,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Vazni barqaror sog'lom kattada kirim = sarf. Sarf: (1) asosiy metabolik funksiyalar (bazal metabolizm); (2) jismoniy faollik (mashqsiz va ixtiyoriy mashq); (3) ovqatni hazm qilish, so'rish va qayta ishlash; (4) tana haroratini saqlash.",
+      "text": "Vazni barqaror sog’lom kattada kirim = sarf. Sarf: (1) asosiy metabolik funksiyalar (bazal metabolizm); (2) jismoniy faollik (mashqsiz va ixtiyoriy mashq); (3) ovqatni hazm qilish, so’rish va qayta ishlash; (4) tana haroratini saqlash.",
       "depth": 0
      },
      {
-      "text": "70 kg erkak kun bo'yi yotsa ~1650 Kal; ovqatlanish va hazm yana ≥200 Kal qo'shadi (~1850 Kal). Kun bo'yi stulda o'tirsa 2000–2250 Kal. Juda kam harakatli odamga ~2000 Kal/kun.",
+      "text": "70 kg erkak kun bo’yi yotsa ~1650 Kal; ovqatlanish va hazm yana ≥200 Kal qo’shadi (~1850 Kal). Kun bo’yi stulda o’tirsa 2000–2250 Kal. Juda kam harakatli odamga ~2000 Kal/kun.",
       "depth": 0
      },
      {
-      "text": "73-3-rasm (kuniga ~3000 Kal iste'mol qiluvchi 70 kg odam): tinch holat energiya sarfi ~60%, jismoniy faollik termogenezi (mashq va mashqsiz) ~32%, ovqatning termik ta'siri ~8%.",
+      "text": "73-3-rasm (kuniga ~3000 Kal iste’mol qiluvchi 70 kg odam): tinch holat energiya sarfi ~60%, jismoniy faollik termogenezi (mashq va mashqsiz) ~32%, ovqatning termik ta’siri ~8%.",
       "depth": 0
      },
      {
-      "text": "Kundalik jismoniy faollik odatda umumiy sarfning ~25% i, lekin juda farq qiladi. Zinapoyaga chiqish uxlashdan ~17 baravar ko'p energiya talab qiladi. Og'ir mehnatda 24 soatda 6000–7000 Kal gacha (faoliyatsiz holatdan 3,5 baravar).",
+      "text": "Kundalik jismoniy faollik odatda umumiy sarfning ~25% i, lekin juda farq qiladi. Zinapoyaga chiqish uxlashdan ~17 baravar ko’p energiya talab qiladi. Og’ir mehnatda 24 soatda 6000–7000 Kal gacha (faoliyatsiz holatdan 3,5 baravar).",
       "depth": 0
      }
     ],
@@ -325,19 +325,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Yashash uchun zarur minimal energiya; ko'pchilik kam harakatli odamlarda kunlik sarfning 50–70%.",
+      "text": "Yashash uchun zarur minimal energiya; ko’pchilik kam harakatli odamlarda kunlik sarfning 50–70%.",
       "depth": 0
      },
      {
-      "text": "O'lchash shartlari: (1) kamida 12 soat ovqat yemagan; (2) tinch tungi uyqudan keyin; (3) 1 soat davomida og'ir faollik yo'q; (4) barcha ruhiy va jismoniy qo'zg'atuvchilar bartaraf etilgan; (5) havo harorati qulay, 20–27°C (68–80°F); (6) test paytida harakat yo'q. Kislorod sarfi o'lchanadi.",
+      "text": "O’lchash shartlari: (1) kamida 12 soat ovqat yemagan; (2) tinch tungi uyqudan keyin; (3) 1 soat davomida og’ir faollik yo’q; (4) barcha ruhiy va jismoniy qo’zg’atuvchilar bartaraf etilgan; (5) havo harorati qulay, 20–27°C (68–80°F); (6) test paytida harakat yo’q. Kislorod sarfi o’lchanadi.",
       "depth": 0
      },
      {
-      "text": "O'rtacha 70 kg erkakda ~65–70 Kal/soat. Ko'p qismini MNS, yurak, buyrak va boshqa a'zolar sarflaydi, lekin odamlar orasidagi farq asosan skelet mushagi miqdori va tana o'lchamiga bog'liq: tinch holatda ham skelet mushagi BMR ning 20–30% i. Shuning uchun BMR Kal/soat/m² tana yuzasi (bo'y va vazndan hisoblanadi) bilan ifodalanadi.",
+      "text": "O’rtacha 70 kg erkakda ~65–70 Kal/soat. Ko’p qismini MNS, yurak, buyrak va boshqa a’zolar sarflaydi, lekin odamlar orasidagi farq asosan skelet mushagi miqdori va tana o’lchamiga bog’liq: tinch holatda ham skelet mushagi BMR ning 20–30% i. Shuning uchun BMR Kal/soat/m² tana yuzasi (bo’y va vazndan hisoblanadi) bilan ifodalanadi.",
       "depth": 0
      },
      {
-      "text": "Yosh bilan BMR kamayadi (73-4-rasm) — asosan mushak yo'qolishi va metabolizmi past yog' to'qimasi bilan almashinishi. Ayollarda biroz past — qisman mushak foizi kamroq, yog' ko'proq.",
+      "text": "Yosh bilan BMR kamayadi (73-4-rasm) — asosan mushak yo’qolishi va metabolizmi past yog' to’qimasi bilan almashinishi. Ayollarda biroz past — qisman mushak foizi kamroq, yog' ko’proq.",
       "depth": 0
      }
     ],
@@ -346,7 +346,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "BMR ga ta'sir qiluvchi omillar",
+    "text": "BMR ga ta’sir qiluvchi omillar",
     "id": "ch73-s-20-bmr-ga-tasir-qiluvchi-omillar",
     "bid": "ch73-u20"
    },
@@ -355,19 +355,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Qalqonsimon bez gormoni:** maksimal tiroksin sekretsiyasida metabolizm normadan 50–100% oshadi; to'liq yo'qolsa normaning 40–60% iga tushadi (77-bob). Sovuq iqlimda sekretsiya oshadi, issiqda kamayadi — arktika aholisida BMR tropiklardagidan 10–20% yuqori.",
+      "text": "**Qalqonsimon bez gormoni:** maksimal tiroksin sekretsiyasida metabolizm normadan 50–100% oshadi; to’liq yo’qolsa normaning 40–60% iga tushadi (77-bob). Sovuq iqlimda sekretsiya oshadi, issiqda kamayadi — arktika aholisida BMR tropiklardagidan 10–20% yuqori.",
       "depth": 0
      },
      {
-      "text": "**Testosteron:** metabolizmni ~10–15% oshiradi, asosan skelet mushagi massasini oshiruvchi anabolik ta'siri orqali. Ayol jinsiy gormonlari ozgina, odatda ahamiyatsiz.",
+      "text": "**Testosteron:** metabolizmni ~10–15% oshiradi, asosan skelet mushagi massasini oshiruvchi anabolik ta’siri orqali. Ayol jinsiy gormonlari ozgina, odatda ahamiyatsiz.",
       "depth": 0
      },
      {
-      "text": "**O'sish gormoni:** hujayra metabolizmini qo'zg'atib va mushak massasini oshirib; yetishmovchiligi bor kattalarda rekombinant gormon BMR ni ~20% oshiradi.",
+      "text": "**O’sish gormoni:** hujayra metabolizmini qo’zg’atib va mushak massasini oshirib; yetishmovchiligi bor kattalarda rekombinant gormon BMR ni ~20% oshiradi.",
       "depth": 0
      },
      {
-      "text": "**Isitma:** sababidan qat'i nazar har 10°C ga reaksiyalarni o'rtacha ~120% oshiradi (74-bob).",
+      "text": "**Isitma:** sababidan qat’i nazar har 10°C ga reaksiyalarni o’rtacha ~120% oshiradi (74-bob).",
       "depth": 0
      },
      {
@@ -375,7 +375,7 @@
       "depth": 0
      },
      {
-      "text": "**Ovqat yetishmasligi:** uzoq davom etsa 20–30% kamaytiradi. Ko'p kasalliklarning oxirgi bosqichida inanitsiya metabolizmni shunchalik kamaytiradiki, o'lim oldidan harorat bir necha daraja tushishi mumkin.",
+      "text": "**Ovqat yetishmasligi:** uzoq davom etsa 20–30% kamaytiradi. Ko’p kasalliklarning oxirgi bosqichida inanitsiya metabolizmni shunchalik kamaytiradiki, o’lim oldidan harorat bir necha daraja tushishi mumkin.",
       "depth": 0
      }
     ],
@@ -393,19 +393,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Metabolizmni eng keskin oshiruvchi omil — og'ir mashq. Bitta mushak maksimal qisqarishning qisqa davrida tinch holatdan 100 baravar ko'p issiqlik chiqarishi mumkin; butun tana bir necha soniya ~50 baravar, yaxshi mashq qilgan odamda uzoqroq mashqda ~20 baravar.",
+      "text": "Metabolizmni eng keskin oshiruvchi omil — og’ir mashq. Bitta mushak maksimal qisqarishning qisqa davrida tinch holatdan 100 baravar ko’p issiqlik chiqarishi mumkin; butun tana bir necha soniya ~50 baravar, yaxshi mashq qilgan odamda uzoqroq mashqda ~20 baravar.",
       "depth": 0
      },
      {
-      "text": "**73-1-jadval (70 kg, Kal/soat):** uxlash 65; uyg'oq yotish 77; tinch o'tirish 100; bo'shashib turish 105; kiyinish-yechinish 118; tez yozish (mashinkada) 140; sekin yurish (4,2 km/soat) 200; duradgorlik, metall ishlov, sanoat bo'yoqchiligi 240; yog'och arralash 480; suzish 500; yugurish (8,5 km/soat) 570; zinapoyadan tez chiqish 1100.",
+      "text": "**73-1-jadval (70 kg, Kal/soat):** uxlash 65; uyg’oq yotish 77; tinch o’tirish 100; bo’shashib turish 105; kiyinish-yechinish 118; tez yozish (mashinkada) 140; sekin yurish (4,2 km/soat) 200; duradgorlik, metall ishlov, sanoat bo’yoqchiligi 240; yog’och arralash 480; suzish 500; yugurish (8,5 km/soat) 570; zinapoyadan tez chiqish 1100.",
       "depth": 0
      },
      {
-      "text": "Bu komponent kaloriya ehtiyojidagi farqlarning eng muhim sababi. Ovqat ko'p, faollik past sanoatlashgan mamlakatlarda kirim ko'pincha sarfdan oshib, yog' sifatida saqlanadi — semizlikning oldini olish uchun faollik muhim.",
+      "text": "Bu komponent kaloriya ehtiyojidagi farqlarning eng muhim sababi. Ovqat ko’p, faollik past sanoatlashgan mamlakatlarda kirim ko’pincha sarfdan oshib, yog' sifatida saqlanadi — semizlikning oldini olish uchun faollik muhim.",
       "depth": 0
      },
      {
-      "text": "Kam harakatli odamlarda ham mushak tonusi, tana holatini saqlash va boshqa mashqsiz faoliyat (o'z-o'zidan harakatlar) kunlik sarfning ~7% i; kasb, odatlar (piyoda yurish, lift o'rniga zina, qimirlab turish) va bo'sh vaqtga qarab juda farq qiladi.",
+      "text": "Kam harakatli odamlarda ham mushak tonusi, tana holatini saqlash va boshqa mashqsiz faoliyat (o’z-o’zidan harakatlar) kunlik sarfning ~7% i; kasb, odatlar (piyoda yurish, lift o’rniga zina, qimirlab turish) va bo’sh vaqtga qarab juda farq qiladi.",
       "depth": 0
      }
     ],
@@ -414,7 +414,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Ovqatning termogen ta'siri",
+    "text": "Ovqatning termogen ta’siri",
     "id": "ch73-s-24-ovqatning-termogen-tasiri",
     "bid": "ch73-u24"
    },
@@ -423,7 +423,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Ovqatdan keyin hazm, so'rilish va saqlash reaksiyalari metabolizmni oshiradi. Uglevod yoki yog'ga boy ovqatdan keyin ~4%; oqsilga boy ovqatdan keyin 1 soat ichida ko'tarila boshlab, ~30% gacha oshadi va 3–12 soat davom etadi — **oqsilning o'ziga xos dinamik ta'siri**. Umumiy kunlik sarfning ~8% i.",
+      "text": "Ovqatdan keyin hazm, so’rilish va saqlash reaksiyalari metabolizmni oshiradi. Uglevod yoki yog’ga boy ovqatdan keyin ~4%; oqsilga boy ovqatdan keyin 1 soat ichida ko’tarila boshlab, ~30% gacha oshadi va 3–12 soat davom etadi — **oqsilning o’ziga xos dinamik ta’siri**. Umumiy kunlik sarfning ~8% i.",
       "depth": 0
      }
     ],
@@ -432,7 +432,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Titramasdan termogenez — simpatik qo'zg'alish roli",
+    "text": "Titramasdan termogenez — simpatik qo’zg’alish roli",
     "id": "ch73-s-26-titramasdan-termogenez-simpatik-qozgalish-roli",
     "bid": "ch73-u26"
    },
@@ -441,7 +441,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Jismoniy ish va ovqatning termik ta'siri asosan harorat boshqaruviga qaratilmagan. Titrash — sovuqqa javoban boshqariladigan issiqlik hosil qilish (74-bob).",
+      "text": "Jismoniy ish va ovqatning termik ta’siri asosan harorat boshqaruviga qaratilmagan. Titrash — sovuqqa javoban boshqariladigan issiqlik hosil qilish (74-bob).",
       "depth": 0
      },
      {
@@ -449,15 +449,15 @@
       "depth": 0
      },
      {
-      "text": "**Qo'ng'ir yog'**: ko'p mitoxondriya va bitta katta tomchi o'rniga ko'p mayda yog' tomchilari. Oksidlovchi fosforlanish asosan \"ajratilgan\" (uncoupled): simpatik qo'zg'alishda mitoxondriyalar ko'p issiqlik, deyarli ATF siz hosil qiladi.",
+      "text": "**Qo’ng’ir yog'**: ko’p mitoxondriya va bitta katta tomchi o’rniga ko’p mayda yog' tomchilari. Oksidlovchi fosforlanish asosan \"ajratilgan\" (uncoupled): simpatik qo’zg’alishda mitoxondriyalar ko’p issiqlik, deyarli ATF siz hosil qiladi.",
       "depth": 0
      },
      {
-      "text": "Chaqaloqda qo'ng'ir yog' ko'p; maksimal simpatik qo'zg'alish metabolizmni 100% dan ko'p oshiradi. Kattalarda (qo'ng'ir yog' deyarli yo'q) ehtimol <15%, sovuqqa moslashgandan keyin sezilarli oshishi mumkin.",
+      "text": "Chaqaloqda qo’ng’ir yog' ko’p; maksimal simpatik qo’zg’alish metabolizmni 100% dan ko’p oshiradi. Kattalarda (qo’ng’ir yog' deyarli yo’q) ehtimol <15%, sovuqqa moslashgandan keyin sezilarli oshishi mumkin.",
       "depth": 0
      },
      {
-      "text": "Semizlikka qarshi bufer bo'lishi mumkin: doimiy ortiqcha kaloriya iste'mol qiluvchi semiz odamlarda simpatik faollik oshgan; mexanizm noaniq, qisman leptin oshishi gipotalamusdagi POMC neyronlarini faollashtirishi orqali. Simpatik qo'zg'alish termogenezni oshirib, ortiqcha vazn yig'ilishini cheklaydi.",
+      "text": "Semizlikka qarshi bufer bo’lishi mumkin: doimiy ortiqcha kaloriya iste’mol qiluvchi semiz odamlarda simpatik faollik oshgan; mexanizm noaniq, qisman leptin oshishi gipotalamusdagi POMC neyronlarini faollashtirishi orqali. Simpatik qo’zg’alish termogenezni oshirib, ortiqcha vazn yig’ilishini cheklaydi.",
       "depth": 0
      }
     ],
@@ -479,15 +479,15 @@
       "depth": 0
      },
      {
-      "text": "Gipertireoz va gipotireozda BMR o'zgarishi; isitmada metabolizm oshishi; ochlik va terminal holatlarda metabolizm va harorat pasayishi.",
+      "text": "Gipertireoz va gipotireozda BMR o’zgarishi; isitmada metabolizm oshishi; ochlik va terminal holatlarda metabolizm va harorat pasayishi.",
       "depth": 0
      },
      {
-      "text": "Diabetda tashuvchilar to'yinishi (Mikaelis-Menten misoli).",
+      "text": "Diabetda tashuvchilar to’yinishi (Mikaelis-Menten misoli).",
       "depth": 0
      },
      {
-      "text": "Qo'ng'ir yog' va simpatik termogenez — chaqaloqlarda issiqlik, kattalarda semizlikka qarshi bufer.",
+      "text": "Qo’ng’ir yog' va simpatik termogenez — chaqaloqlarda issiqlik, kattalarda semizlikka qarshi bufer.",
       "depth": 0
      }
     ],
@@ -496,7 +496,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Bog'liqlik",
+    "text": "Bog’liqlik",
     "id": "ch73-s-30-bogliqlik",
     "bid": "ch73-u30"
    },
@@ -1004,9 +1004,9 @@
  "glossary": [
   {
    "id": "ch73-t-atf-hosil-bolishi",
-   "termUz": "ATF hosil bo'lishi",
+   "termUz": "ATF hosil bo’lishi",
    "original": null,
-   "contextUz": "ATF hosil bo'lishi: (1) uglevodlar (asosan glyukoza, oz fruktoza) — sitoplazmada anaerob glikoliz va mitoxondriyada aerob limon kislota (Krebs) sikli; (2) yog' kislotalari — mitoxondriyada beta-oksidlanish; (3) oqsillar — aminokislotalarga gidroliz, so'ng limon kislota sikli oraliq mahsulotlari, asetil-KoA va CO2 ga.",
+   "contextUz": "ATF hosil bo’lishi: (1) uglevodlar (asosan glyukoza, oz fruktoza) — sitoplazmada anaerob glikoliz va mitoxondriyada aerob limon kislota (Krebs) sikli; (2) yog' kislotalari — mitoxondriyada beta-oksidlanish; (3) oqsillar — aminokislotalarga gidroliz, so’ng limon kislota sikli oraliq mahsulotlari, asetil-KoA va CO2 ga.",
    "lessonId": "ch73",
    "topicId": "13",
    "source": "summaryUz",
@@ -1016,7 +1016,7 @@
    "id": "ch73-t-atf-sarflanadigan-jarayonlar",
    "termUz": "ATF sarflanadigan jarayonlar",
    "original": null,
-   "contextUz": "ATF sarflanadigan jarayonlar: *Sintez va o'sish:* peptid bog'lari hosil qilish (har bir bog' 500–5000 kal/mol saqlaydi, lekin uni hosil qilish uchun 4 ta yuqori energiyali bog' — 48 000 kal sarflanadi, 3-bob).",
+   "contextUz": "ATF sarflanadigan jarayonlar: *Sintez va o’sish:* peptid bog’lari hosil qilish (har bir bog' 500–5000 kal/mol saqlaydi, lekin uni hosil qilish uchun 4 ta yuqori energiyali bog' — 48 000 kal sarflanadi, 3-bob).",
    "lessonId": "ch73",
    "topicId": "13",
    "source": "summaryUz",
@@ -1046,7 +1046,7 @@
    "id": "ch73-t-gipoksiyada",
    "termUz": "Gipoksiyada",
    "original": null,
-   "contextUz": "Gipoksiyada: nafas to'xtasa, o'pka va gemoglobindagi kislorod metabolizmni atigi ~2 daqiqa ta'minlaydi; yana ~1 daqiqa glikogenning piruvat → laktatga glikolizidan energiya olinadi (laktat hujayradan chiqadi, 68-bob).",
+   "contextUz": "Gipoksiyada: nafas to’xtasa, o’pka va gemoglobindagi kislorod metabolizmni atigi ~2 daqiqa ta’minlaydi; yana ~1 daqiqa glikogenning piruvat → laktatga glikolizidan energiya olinadi (laktat hujayradan chiqadi, 68-bob).",
    "lessonId": "ch73",
    "topicId": "13",
    "source": "summaryUz",
@@ -1056,7 +1056,7 @@
    "id": "ch73-t-kuchli-qisqa-faollikda",
    "termUz": "Kuchli qisqa faollikda",
    "original": null,
-   "contextUz": "Kuchli qisqa faollikda: oksidlanish juda sekin javob beradi, shuning uchun qo'shimcha energiya anaerob manbalardan: (1) mushakdagi tayyor ATF (maksimal ~5 mmol/L hujayra ichi suyuqligi — maksimal qisqarishni ~1 soniya ta'minlaydi); (2) fosfokreatin (3–8 baravar ko'p, lekin hammasi bilan ham maksimal qisqarish 5–10 soniya); (3) glikogenning laktatgacha glikolizi — oksidlanishdan ancha tez.",
+   "contextUz": "Kuchli qisqa faollikda: oksidlanish juda sekin javob beradi, shuning uchun qo’shimcha energiya anaerob manbalardan: (1) mushakdagi tayyor ATF (maksimal ~5 mmol/L hujayra ichi suyuqligi — maksimal qisqarishni ~1 soniya ta’minlaydi); (2) fosfokreatin (3–8 baravar ko’p, lekin hammasi bilan ham maksimal qisqarish 5–10 soniya); (3) glikogenning laktatgacha glikolizi — oksidlanishdan ancha tez.",
    "lessonId": "ch73",
    "topicId": "13",
    "source": "summaryUz",
@@ -1066,7 +1066,7 @@
    "id": "ch73-t-kislorod-qarzi",
    "termUz": "Kislorod qarzi",
    "original": null,
-   "contextUz": "Kislorod qarzi: og'ir mashqdan keyin bir necha daqiqadan 1 soatgacha qo'shimcha kislorod sarflanadi: (1) laktatni glyukozaga qaytarish; (2) AMF va ADF ni ATF ga qaytarish; (3) kreatin va fosfatdan fosfokreatinni tiklash; (4) gemoglobin va miogloblin bilan bog'langan kislorodni normallashtirish; (5) o'pkadagi kislorodni normal darajaga ko'tarish.",
+   "contextUz": "Kislorod qarzi: og’ir mashqdan keyin bir necha daqiqadan 1 soatgacha qo’shimcha kislorod sarflanadi: (1) laktatni glyukozaga qaytarish; (2) AMF va ADF ni ATF ga qaytarish; (3) kreatin va fosfatdan fosfokreatinni tiklash; (4) gemoglobin va miogloblin bilan bog’langan kislorodni normallashtirish; (5) o’pkadagi kislorodni normal darajaga ko’tarish.",
    "lessonId": "ch73",
    "topicId": "13",
    "source": "summaryUz",
@@ -1076,7 +1076,7 @@
    "id": "ch73-t-ferment-reaksiyalari-tezligi",
    "termUz": "Ferment reaksiyalari tezligi",
    "original": null,
-   "contextUz": "Ferment reaksiyalari tezligi: ferment avval substrat bilan bo'sh birikib, uning bog'lanish kuchlarini o'zgartiradi.",
+   "contextUz": "Ferment reaksiyalari tezligi: ferment avval substrat bilan bo’sh birikib, uning bog’lanish kuchlarini o’zgartiradi.",
    "lessonId": "ch73",
    "topicId": "13",
    "source": "summaryUz",
@@ -1094,9 +1094,9 @@
   },
   {
    "id": "ch73-t-substrat-kop-bolsa",
-   "termUz": "Substrat ko'p bo'lsa",
+   "termUz": "Substrat ko’p bo’lsa",
    "original": null,
-   "contextUz": "Substrat ko'p bo'lsa tezlik deyarli faqat ferment konsentratsiyasiga bog'liq (ferment 1→2→4→8 oshsa, tezlik mutanosib oshadi).",
+   "contextUz": "Substrat ko’p bo’lsa tezlik deyarli faqat ferment konsentratsiyasiga bog’liq (ferment 1→2→4→8 oshsa, tezlik mutanosib oshadi).",
    "lessonId": "ch73",
    "topicId": "13",
    "source": "summaryUz",
@@ -1104,9 +1104,9 @@
   },
   {
    "id": "ch73-t-substrat-kam-bolsa",
-   "termUz": "Substrat kam bo'lsa",
+   "termUz": "Substrat kam bo’lsa",
    "original": null,
-   "contextUz": "Substrat kam bo'lsa tezlik substrat va ferment konsentratsiyasiga to'g'ri mutanosib (ichak va kanalchalarda past konsentratsiyali moddalar so'rilishi).",
+   "contextUz": "Substrat kam bo’lsa tezlik substrat va ferment konsentratsiyasiga to’g’ri mutanosib (ichak va kanalchalarda past konsentratsiyali moddalar so’rilishi).",
    "lessonId": "ch73",
    "topicId": "13",
    "source": "summaryUz",
@@ -1136,7 +1136,7 @@
    "id": "ch73-t-adf-energiya-ajralishining-asosiy-boshqaruvchisi",
    "termUz": "ADF — energiya ajralishining asosiy boshqaruvchisi",
    "original": null,
-   "contextUz": "ADF — energiya ajralishining asosiy boshqaruvchisi: tinch holatda hujayrada ADF juda kam, shuning uchun ADF ni substrat sifatida talab qiladigan barcha oksidlanish va boshqa energiya beruvchi yo'llar sekin.",
+   "contextUz": "ADF — energiya ajralishining asosiy boshqaruvchisi: tinch holatda hujayrada ADF juda kam, shuning uchun ADF ni substrat sifatida talab qiladigan barcha oksidlanish va boshqa energiya beruvchi yo’llar sekin.",
    "lessonId": "ch73",
    "topicId": "13",
    "source": "summaryUz",
@@ -1166,7 +1166,7 @@
    "id": "ch73-t-issiqlik-deyarli-barcha-energiyaning-oxirgi-mahsuloti",
    "termUz": "Issiqlik — deyarli barcha energiyaning oxirgi mahsuloti",
    "original": null,
-   "contextUz": "Issiqlik — deyarli barcha energiyaning oxirgi mahsuloti: ATF hosil bo'lishida oziq energiyasining o'rtacha 35% i issiqlikka aylanadi; ATF dan funksional tizimlarga o'tishda yana yo'qotiladi, shuning uchun eng yaxshi sharoitda ham oziq energiyasining ko'pi bilan 27% i funksional tizimlarga yetadi.",
+   "contextUz": "Issiqlik — deyarli barcha energiyaning oxirgi mahsuloti: ATF hosil bo’lishida oziq energiyasining o’rtacha 35% i issiqlikka aylanadi; ATF dan funksional tizimlarga o’tishda yana yo’qotiladi, shuning uchun eng yaxshi sharoitda ham oziq energiyasining ko’pi bilan 27% i funksional tizimlarga yetadi.",
    "lessonId": "ch73",
    "topicId": "13",
    "source": "summaryUz",
@@ -1176,7 +1176,7 @@
    "id": "ch73-t-27",
    "termUz": "27%",
    "original": null,
-   "contextUz": "Issiqlik — deyarli barcha energiyaning oxirgi mahsuloti: ATF hosil bo'lishida oziq energiyasining o'rtacha 35% i issiqlikka aylanadi; ATF dan funksional tizimlarga o'tishda yana yo'qotiladi, shuning uchun eng yaxshi sharoitda ham oziq energiyasining ko'pi bilan 27% i funksional tizimlarga yetadi.",
+   "contextUz": "Issiqlik — deyarli barcha energiyaning oxirgi mahsuloti: ATF hosil bo’lishida oziq energiyasining o’rtacha 35% i issiqlikka aylanadi; ATF dan funksional tizimlarga o’tishda yana yo’qotiladi, shuning uchun eng yaxshi sharoitda ham oziq energiyasining ko’pi bilan 27% i funksional tizimlarga yetadi.",
    "lessonId": "ch73",
    "topicId": "13",
    "source": "summaryUz",
@@ -1194,9 +1194,9 @@
   },
   {
    "id": "ch73-t-togridan-togri-kalorimetriya",
-   "termUz": "To'g'ridan-to'g'ri kalorimetriya",
+   "termUz": "To’g’ridan-to’g’ri kalorimetriya",
    "original": null,
-   "contextUz": "To'g'ridan-to'g'ri kalorimetriya: tashqi ish bo'lmasa, tanadan ajralgan issiqlik o'lchanadi.",
+   "contextUz": "To’g’ridan-to’g’ri kalorimetriya: tashqi ish bo’lmasa, tanadan ajralgan issiqlik o’lchanadi.",
    "lessonId": "ch73",
    "topicId": "13",
    "source": "summaryUz",
@@ -1216,7 +1216,7 @@
    "id": "ch73-t-4-825-kal-l",
    "termUz": "4,825 Kal/L",
    "original": "kislorodning energiya ekvivalenti",
-   "contextUz": "O'rtacha ratsion uchun ~4,825 Kal/L (kislorodning energiya ekvivalenti).",
+   "contextUz": "O’rtacha ratsion uchun ~4,825 Kal/L (kislorodning energiya ekvivalenti).",
    "lessonId": "ch73",
    "topicId": "13",
    "source": "summaryUz",
@@ -1226,7 +1226,7 @@
    "id": "ch73-t-qalqonsimon-bez-gormoni",
    "termUz": "Qalqonsimon bez gormoni",
    "original": null,
-   "contextUz": "Qalqonsimon bez gormoni: maksimal tiroksin sekretsiyasida metabolizm normadan 50–100% oshadi; to'liq yo'qolsa normaning 40–60% iga tushadi (77-bob).",
+   "contextUz": "Qalqonsimon bez gormoni: maksimal tiroksin sekretsiyasida metabolizm normadan 50–100% oshadi; to’liq yo’qolsa normaning 40–60% iga tushadi (77-bob).",
    "lessonId": "ch73",
    "topicId": "13",
    "source": "summaryUz",
@@ -1236,7 +1236,7 @@
    "id": "ch73-t-testosteron",
    "termUz": "Testosteron",
    "original": null,
-   "contextUz": "Testosteron: metabolizmni ~10–15% oshiradi, asosan skelet mushagi massasini oshiruvchi anabolik ta'siri orqali.",
+   "contextUz": "Testosteron: metabolizmni ~10–15% oshiradi, asosan skelet mushagi massasini oshiruvchi anabolik ta’siri orqali.",
    "lessonId": "ch73",
    "topicId": "13",
    "source": "summaryUz",
@@ -1244,9 +1244,9 @@
   },
   {
    "id": "ch73-t-osish-gormoni",
-   "termUz": "O'sish gormoni",
+   "termUz": "O’sish gormoni",
    "original": null,
-   "contextUz": "O'sish gormoni: hujayra metabolizmini qo'zg'atib va mushak massasini oshirib; yetishmovchiligi bor kattalarda rekombinant gormon BMR ni ~20% oshiradi.",
+   "contextUz": "O’sish gormoni: hujayra metabolizmini qo’zg’atib va mushak massasini oshirib; yetishmovchiligi bor kattalarda rekombinant gormon BMR ni ~20% oshiradi.",
    "lessonId": "ch73",
    "topicId": "13",
    "source": "summaryUz",
@@ -1256,7 +1256,7 @@
    "id": "ch73-t-isitma",
    "termUz": "Isitma",
    "original": null,
-   "contextUz": "Isitma: sababidan qat'i nazar har 10°C ga reaksiyalarni o'rtacha ~120% oshiradi (74-bob).",
+   "contextUz": "Isitma: sababidan qat’i nazar har 10°C ga reaksiyalarni o’rtacha ~120% oshiradi (74-bob).",
    "lessonId": "ch73",
    "topicId": "13",
    "source": "summaryUz",
@@ -1286,7 +1286,7 @@
    "id": "ch73-t-73-1-jadval-70-kg-kal-soat",
    "termUz": "73-1-jadval (70 kg, Kal/soat)",
    "original": null,
-   "contextUz": "73-1-jadval (70 kg, Kal/soat): uxlash 65; uyg'oq yotish 77; tinch o'tirish 100; bo'shashib turish 105; kiyinish-yechinish 118; tez yozish (mashinkada) 140; sekin yurish (4,2 km/soat) 200; duradgorlik, metall ishlov, sanoat bo'yoqchiligi 240; yog'och arralash 480; suzish 500; yugurish (8,5 km/soat) 570; zinapoyadan tez chiqish 1100.",
+   "contextUz": "73-1-jadval (70 kg, Kal/soat): uxlash 65; uyg’oq yotish 77; tinch o’tirish 100; bo’shashib turish 105; kiyinish-yechinish 118; tez yozish (mashinkada) 140; sekin yurish (4,2 km/soat) 200; duradgorlik, metall ishlov, sanoat bo’yoqchiligi 240; yog’och arralash 480; suzish 500; yugurish (8,5 km/soat) 570; zinapoyadan tez chiqish 1100.",
    "lessonId": "ch73",
    "topicId": "13",
    "source": "summaryUz",
@@ -1294,9 +1294,9 @@
   },
   {
    "id": "ch73-t-oqsilning-oziga-xos-dinamik-tasiri",
-   "termUz": "oqsilning o'ziga xos dinamik ta'siri",
+   "termUz": "oqsilning o’ziga xos dinamik ta’siri",
    "original": null,
-   "contextUz": "Uglevod yoki yog'ga boy ovqatdan keyin ~4%; oqsilga boy ovqatdan keyin 1 soat ichida ko'tarila boshlab, ~30% gacha oshadi va 3–12 soat davom etadi — oqsilning o'ziga xos dinamik ta'siri.",
+   "contextUz": "Uglevod yoki yog’ga boy ovqatdan keyin ~4%; oqsilga boy ovqatdan keyin 1 soat ichida ko’tarila boshlab, ~30% gacha oshadi va 3–12 soat davom etadi — oqsilning o’ziga xos dinamik ta’siri.",
    "lessonId": "ch73",
    "topicId": "13",
    "source": "summaryUz",
@@ -1314,9 +1314,9 @@
   },
   {
    "id": "ch73-t-qongir-yog",
-   "termUz": "Qo'ng'ir yog'",
+   "termUz": "Qo’ng’ir yog'",
    "original": null,
-   "contextUz": "Qo'ng'ir yog': ko'p mitoxondriya va bitta katta tomchi o'rniga ko'p mayda yog' tomchilari.",
+   "contextUz": "Qo’ng’ir yog': ko’p mitoxondriya va bitta katta tomchi o’rniga ko’p mayda yog' tomchilari.",
    "lessonId": "ch73",
    "topicId": "13",
    "source": "summaryUz",

@@ -1,5 +1,5 @@
 {
- "origin": "Claude (DrStudy sessiyasi) — kitob matni va o‘zbekcha izohlar asosida, 2026-11-14. Ekspert tekshiruvi kerak.",
+ "origin": "Claude (DrStudy sessiyasi) — kitob matni va o’zbekcha izohlar asosida, 2026-11-14. Ekspert tekshiruvi kerak.",
  "questions": [
   {
    "id": "q03-001",
@@ -10,23 +10,23 @@
    "options": [
     {
      "id": "q03-001-a",
-     "text": "O‘ng bo‘lmachaning yuqori orqa-yon devorida, yuqori kovak vena og‘zidan pastroqda"
+     "text": "O’ng bo’lmachaning yuqori orqa-yon devorida, yuqori kovak vena og’zidan pastroqda"
     },
     {
      "id": "q03-001-b",
-     "text": "Qorinchalararo to‘siqning yuqori qismida"
+     "text": "Qorinchalararo to’siqning yuqori qismida"
     },
     {
      "id": "q03-001-c",
-     "text": "Chap bo‘lmachaning orqa devorida, o‘pka venalari og‘zida"
+     "text": "Chap bo’lmachaning orqa devorida, o’pka venalari og’zida"
     },
     {
      "id": "q03-001-d",
-     "text": "O‘ng bo‘lmachaning orqa devorida, uch tavaqali klapan ortida"
+     "text": "O’ng bo’lmachaning orqa devorida, uch tavaqali klapan ortida"
     }
    ],
    "answerOptionId": "q03-001-a",
-   "explanation": "Kitobda: sinus tuguni o‘ng bo‘lmachaning yuqori orqa-yon devorida, yuqori kovak vena og‘zidan bevosita pastda joylashgan. Uch tavaqali klapan ortida A-V tugun yotadi.",
+   "explanation": "Kitobda: sinus tuguni o’ng bo’lmachaning yuqori orqa-yon devorida, yuqori kovak vena og’zidan bevosita pastda joylashgan. Uch tavaqali klapan ortida A-V tugun yotadi.",
    "difficulty": "medium",
    "source": {
     "bookId": "guyton-hall-14",
@@ -86,11 +86,11 @@
    "options": [
     {
      "id": "q03-003-a",
-     "text": "Membranasi natriy va kalsiy ionlarini tabiiy ravishda o‘tkazib yuboradi"
+     "text": "Membranasi natriy va kalsiy ionlarini tabiiy ravishda o’tkazib yuboradi"
     },
     {
      "id": "q03-003-b",
-     "text": "Kaliy kanallari umuman yo‘q"
+     "text": "Kaliy kanallari umuman yo’q"
     },
     {
      "id": "q03-003-c",
@@ -98,7 +98,7 @@
     },
     {
      "id": "q03-003-d",
-     "text": "Hujayra ichida xlor ionlari ko‘p"
+     "text": "Hujayra ichida xlor ionlari ko’p"
     }
    ],
    "answerOptionId": "q03-003-a",
@@ -120,7 +120,7 @@
    "version": 1,
    "topicId": "03",
    "lessonId": "ch10",
-   "stem": "Sinus tugunida harakat potensiali qaysi bo‘sag‘a kuchlanishida boshlanadi?",
+   "stem": "Sinus tugunida harakat potensiali qaysi bo’sag’a kuchlanishida boshlanadi?",
    "options": [
     {
      "id": "q03-004-a",
@@ -140,7 +140,7 @@
     }
    ],
    "answerOptionId": "q03-004-c",
-   "explanation": "Potensial taxminan –40 mV bo‘sag‘aga yetganda L-tipli kalsiy kanallari faollashadi va harakat potensiali boshlanadi.",
+   "explanation": "Potensial taxminan –40 mV bo’sag’aga yetganda L-tipli kalsiy kanallari faollashadi va harakat potensiali boshlanadi.",
    "difficulty": "medium",
    "source": {
     "bookId": "guyton-hall-14",
@@ -162,11 +162,11 @@
    "options": [
     {
      "id": "q03-005-a",
-     "text": "Tez natriy kanallari –55 mV atrofida inaktivatsiyalangan bo‘ladi"
+     "text": "Tez natriy kanallari –55 mV atrofida inaktivatsiyalangan bo’ladi"
     },
     {
      "id": "q03-005-b",
-     "text": "Sinus tugunida natriy umuman yo‘q"
+     "text": "Sinus tugunida natriy umuman yo’q"
     },
     {
      "id": "q03-005-c",
@@ -178,7 +178,7 @@
     }
    ],
    "answerOptionId": "q03-005-a",
-   "explanation": "Membrana potensiali bir necha millisekunddan ortiq –55 mV dan kam manfiy bo‘lsa, tez Na⁺ kanallarining inaktivatsiya darvozalari yopiq qoladi; faqat sekin Na⁺-Ca²⁺ kanallari ochila oladi.",
+   "explanation": "Membrana potensiali bir necha millisekunddan ortiq –55 mV dan kam manfiy bo’lsa, tez Na⁺ kanallarining inaktivatsiya darvozalari yopiq qoladi; faqat sekin Na⁺-Ca²⁺ kanallari ochila oladi.",
    "difficulty": "medium",
    "source": {
     "bookId": "guyton-hall-14",
@@ -196,11 +196,11 @@
    "version": 1,
    "topicId": "03",
    "lessonId": "ch10",
-   "stem": "Sinus tuguni tolasining doimiy depolyarizatsiyalanib qolishiga nima to‘sqinlik qiladi?",
+   "stem": "Sinus tuguni tolasining doimiy depolyarizatsiyalanib qolishiga nima to’sqinlik qiladi?",
    "options": [
     {
      "id": "q03-006-a",
-     "text": "L-tipli Ca²⁺ kanallarining 100–150 ms ichida yopilishi va kaliy kanallarining ko‘p ochilishi"
+     "text": "L-tipli Ca²⁺ kanallarining 100–150 ms ichida yopilishi va kaliy kanallarining ko’p ochilishi"
     },
     {
      "id": "q03-006-b",
@@ -212,11 +212,11 @@
     },
     {
      "id": "q03-006-d",
-     "text": "Hujayra ichida kalsiy to‘planishi"
+     "text": "Hujayra ichida kalsiy to’planishi"
     }
    ],
    "answerOptionId": "q03-006-a",
-   "explanation": "Ikki hodisa: L-tipli Ca²⁺ kanallari 100–150 ms ichida inaktivatsiyalanadi va ayni paytda ko‘p K⁺ kanallari ochiladi; bu potensialni manfiy darajaga qaytaradi.",
+   "explanation": "Ikki hodisa: L-tipli Ca²⁺ kanallari 100–150 ms ichida inaktivatsiyalanadi va ayni paytda ko’p K⁺ kanallari ochiladi; bu potensialni manfiy darajaga qaytaradi.",
    "difficulty": "medium",
    "source": {
     "bookId": "guyton-hall-14",
@@ -234,7 +234,7 @@
    "version": 1,
    "topicId": "03",
    "lessonId": "ch10",
-   "stem": "Bo‘lmacha muskulining ko‘p qismida impuls o‘tkazish tezligi qancha?",
+   "stem": "Bo’lmacha muskulining ko’p qismida impuls o’tkazish tezligi qancha?",
    "options": [
     {
      "id": "q03-007-a",
@@ -254,7 +254,7 @@
     }
    ],
    "answerOptionId": "q03-007-b",
-   "explanation": "Bo‘lmacha muskulida o‘tkazish tezligi taxminan 0,3 m/s; maxsus tasmalarda (masalan Baxman tutami) ~1 m/s.",
+   "explanation": "Bo’lmacha muskulida o’tkazish tezligi taxminan 0,3 m/s; maxsus tasmalarda (masalan Baxman tutami) ~1 m/s.",
    "difficulty": "medium",
    "source": {
     "bookId": "guyton-hall-14",
@@ -272,7 +272,7 @@
    "version": 1,
    "topicId": "03",
    "lessonId": "ch10",
-   "stem": "Oldingi bo‘lmachalararo tasma yana qanday nomlanadi?",
+   "stem": "Oldingi bo’lmachalararo tasma yana qanday nomlanadi?",
    "options": [
     {
      "id": "q03-008-a",
@@ -288,11 +288,11 @@
     },
     {
      "id": "q03-008-d",
-     "text": "Tugunlararo orqa yo‘l"
+     "text": "Tugunlararo orqa yo’l"
     }
    ],
    "answerOptionId": "q03-008-b",
-   "explanation": "Kitobda: anterior interatrial band, also called Bachman’s bundle — chap bo‘lmachaga boradi.",
+   "explanation": "Kitobda: anterior interatrial band, also called Bachman’s bundle — chap bo’lmachaga boradi.",
    "difficulty": "medium",
    "source": {
     "bookId": "guyton-hall-14",
@@ -310,7 +310,7 @@
    "version": 1,
    "topicId": "03",
    "lessonId": "ch10",
-   "stem": "Impuls sinus tugunida paydo bo‘lgach, A-V tugunga taxminan qancha vaqtda yetadi?",
+   "stem": "Impuls sinus tugunida paydo bo’lgach, A-V tugunga taxminan qancha vaqtda yetadi?",
    "options": [
     {
      "id": "q03-009-a",
@@ -330,7 +330,7 @@
     }
    ],
    "answerOptionId": "q03-009-b",
-   "explanation": "Tugunlararo yo‘llar orqali impuls sinus tugunidan ~0,03 soniyada A-V tugunga yetadi.",
+   "explanation": "Tugunlararo yo’llar orqali impuls sinus tugunidan ~0,03 soniyada A-V tugunga yetadi.",
    "difficulty": "medium",
    "source": {
     "bookId": "guyton-hall-14",
@@ -386,7 +386,7 @@
    "version": 1,
    "topicId": "03",
    "lessonId": "ch10",
-   "stem": "A-V tugunda impulsning sekin o‘tishining asosiy sababi nima?",
+   "stem": "A-V tugunda impulsning sekin o’tishining asosiy sababi nima?",
    "options": [
     {
      "id": "q03-011-a",
@@ -394,19 +394,19 @@
     },
     {
      "id": "q03-011-b",
-     "text": "Tolalarning juda yo‘g‘onligi"
+     "text": "Tolalarning juda yo’g’onligi"
     },
     {
      "id": "q03-011-c",
-     "text": "Miofibrillarning ko‘pligi"
+     "text": "Miofibrillarning ko’pligi"
     },
     {
      "id": "q03-011-d",
-     "text": "Simpatik nervlarning yo‘qligi"
+     "text": "Simpatik nervlarning yo’qligi"
     }
    ],
    "answerOptionId": "q03-011-a",
-   "explanation": "Ketma-ket hujayralar orasidagi tirqishli birikmalar kam, shuning uchun ionlar o‘tishiga qarshilik katta.",
+   "explanation": "Ketma-ket hujayralar orasidagi tirqishli birikmalar kam, shuning uchun ionlar o’tishiga qarshilik katta.",
    "difficulty": "medium",
    "source": {
     "bookId": "guyton-hall-14",
@@ -424,7 +424,7 @@
    "version": 1,
    "topicId": "03",
    "lessonId": "ch10",
-   "stem": "Purkinye tolalarida harakat potensiali qanday tezlikda o‘tkaziladi?",
+   "stem": "Purkinye tolalarida harakat potensiali qanday tezlikda o’tkaziladi?",
    "options": [
     {
      "id": "q03-012-a",
@@ -444,7 +444,7 @@
     }
    ],
    "answerOptionId": "q03-012-c",
-   "explanation": "Purkinye tolalari 1,5–4,0 m/s tezlikda o‘tkazadi — oddiy qorincha muskulidan ~6 marta, ayrim A-V tugun tolalaridan ~150 marta tez.",
+   "explanation": "Purkinye tolalari 1,5–4,0 m/s tezlikda o’tkazadi — oddiy qorincha muskulidan ~6 marta, ayrim A-V tugun tolalaridan ~150 marta tez.",
    "difficulty": "medium",
    "source": {
     "bookId": "guyton-hall-14",
@@ -466,11 +466,11 @@
    "options": [
     {
      "id": "q03-013-a",
-     "text": "Odatda impulsni faqat bir tomonga — bo‘lmachalardan qorinchalarga o‘tkazadi"
+     "text": "Odatda impulsni faqat bir tomonga — bo’lmachalardan qorinchalarga o’tkazadi"
     },
     {
      "id": "q03-013-b",
-     "text": "Impulsni ikki tomonga bir xil o‘tkazadi"
+     "text": "Impulsni ikki tomonga bir xil o’tkazadi"
     },
     {
      "id": "q03-013-c",
@@ -478,11 +478,11 @@
     },
     {
      "id": "q03-013-d",
-     "text": "O‘zi ritm yetakchisi bo‘lib ishlaydi"
+     "text": "O’zi ritm yetakchisi bo’lib ishlaydi"
     }
    ],
    "answerOptionId": "q03-013-a",
-   "explanation": "G‘ayritabiiy holatlardan tashqari A-V tutam orqali impuls qorinchalardan bo‘lmachalarga orqaga qaytmaydi; bu qayta kirishning oldini oladi.",
+   "explanation": "G’ayritabiiy holatlardan tashqari A-V tutam orqali impuls qorinchalardan bo’lmachalarga orqaga qaytmaydi; bu qayta kirishning oldini oladi.",
    "difficulty": "medium",
    "source": {
     "bookId": "guyton-hall-14",
@@ -500,7 +500,7 @@
    "version": 1,
    "topicId": "03",
    "lessonId": "ch10",
-   "stem": "Impuls tutam oyoqchalariga kirgandan Purkinye tolalari uchlarigacha qancha vaqt o‘tadi?",
+   "stem": "Impuls tutam oyoqchalariga kirgandan Purkinye tolalari uchlarigacha qancha vaqt o’tadi?",
    "options": [
     {
      "id": "q03-014-a",
@@ -520,7 +520,7 @@
     }
    ],
    "answerOptionId": "q03-014-a",
-   "explanation": "Tutam oyoqchalaridan Purkinye tolalari uchlarigacha o‘rtacha atigi 0,03 s.",
+   "explanation": "Tutam oyoqchalaridan Purkinye tolalari uchlarigacha o’rtacha atigi 0,03 s.",
    "difficulty": "medium",
    "source": {
     "bookId": "guyton-hall-14",
@@ -538,7 +538,7 @@
    "version": 1,
    "topicId": "03",
    "lessonId": "ch10",
-   "stem": "A-V tugun tolalarining ichki (o‘z) ritm tezligi daqiqasiga qancha?",
+   "stem": "A-V tugun tolalarining ichki (o’z) ritm tezligi daqiqasiga qancha?",
    "options": [
     {
      "id": "q03-015-a",
@@ -592,11 +592,11 @@
     },
     {
      "id": "q03-016-d",
-     "text": "U A-V tugunni kimyoviy yo‘l bilan to‘xtatadi"
+     "text": "U A-V tugunni kimyoviy yo’l bilan to’xtatadi"
     }
    ],
    "answerOptionId": "q03-016-a",
-   "explanation": "Sinus tuguni A-V tugun va Purkinye tolalari o‘z bo‘sag‘asiga yetishidan oldin yana razryadlanib, ularni har safar qo‘zg‘atib turadi.",
+   "explanation": "Sinus tuguni A-V tugun va Purkinye tolalari o’z bo’sag’asiga yetishidan oldin yana razryadlanib, ularni har safar qo’zg’atib turadi.",
    "difficulty": "medium",
    "source": {
     "bookId": "guyton-hall-14",
@@ -652,7 +652,7 @@
    "version": 1,
    "topicId": "03",
    "lessonId": "ch10",
-   "stem": "Stoks–Adams sindromida odam nima uchun hushini yo‘qotadi?",
+   "stem": "Stoks–Adams sindromida odam nima uchun hushini yo’qotadi?",
    "options": [
     {
      "id": "q03-018-a",
@@ -664,7 +664,7 @@
     },
     {
      "id": "q03-018-c",
-     "text": "Bo‘lmachalar qisqarishdan to‘xtaydi"
+     "text": "Bo’lmachalar qisqarishdan to’xtaydi"
     },
     {
      "id": "q03-018-d",
@@ -672,7 +672,7 @@
     }
    ],
    "answerOptionId": "q03-018-a",
-   "explanation": "To‘satdan A-V blokda “bostirilgan” Purkinye tizimi 5–20 s kechikib ishga tushadi; dastlabki 4–5 s dan keyin miya qon oqimisiz qolib, hush yo‘qoladi.",
+   "explanation": "To’satdan A-V blokda “bostirilgan” Purkinye tizimi 5–20 s kechikib ishga tushadi; dastlabki 4–5 s dan keyin miya qon oqimisiz qolib, hush yo’qoladi.",
    "difficulty": "medium",
    "source": {
     "bookId": "guyton-hall-14",
@@ -690,7 +690,7 @@
    "version": 1,
    "topicId": "03",
    "lessonId": "ch10",
-   "stem": "Vagus qo‘zg‘alganda yurakda qaysi mediator ajraladi?",
+   "stem": "Vagus qo’zg’alganda yurakda qaysi mediator ajraladi?",
    "options": [
     {
      "id": "q03-019-a",
@@ -710,7 +710,7 @@
     }
    ],
    "answerOptionId": "q03-019-b",
-   "explanation": "Vagus uchlarida atsetilxolin ajraladi: sinus ritmini sekinlashtiradi va A-V o‘tkazishni susaytiradi.",
+   "explanation": "Vagus uchlarida atsetilxolin ajraladi: sinus ritmini sekinlashtiradi va A-V o’tkazishni susaytiradi.",
    "difficulty": "medium",
    "source": {
     "bookId": "guyton-hall-14",
@@ -732,7 +732,7 @@
    "options": [
     {
      "id": "q03-020-a",
-     "text": "K⁺ o‘tkazuvchanligini oshirib giperpolyarizatsiya chaqiradi"
+     "text": "K⁺ o’tkazuvchanligini oshirib giperpolyarizatsiya chaqiradi"
     },
     {
      "id": "q03-020-b",
@@ -744,11 +744,11 @@
     },
     {
      "id": "q03-020-d",
-     "text": "Tirqishli birikmalarni ko‘paytiradi"
+     "text": "Tirqishli birikmalarni ko’paytiradi"
     }
    ],
    "answerOptionId": "q03-020-a",
-   "explanation": "Atsetilxolin membrananing K⁺ ga o‘tkazuvchanligini oshiradi → giperpolyarizatsiya (–65...–75 mV) → bo‘sag‘aga yetish uzoqlashadi.",
+   "explanation": "Atsetilxolin membrananing K⁺ ga o’tkazuvchanligini oshiradi → giperpolyarizatsiya (–65...–75 mV) → bo’sag’aga yetish uzoqlashadi.",
    "difficulty": "medium",
    "source": {
     "bookId": "guyton-hall-14",
@@ -766,7 +766,7 @@
    "version": 1,
    "topicId": "03",
    "lessonId": "ch10",
-   "stem": "Kuchli vagus qo‘zg‘alishidan keyin qorinchalarning o‘z ritmi bilan qayta qisqarishi qanday ataladi?",
+   "stem": "Kuchli vagus qo’zg’alishidan keyin qorinchalarning o’z ritmi bilan qayta qisqarishi qanday ataladi?",
    "options": [
     {
      "id": "q03-021-a",
@@ -786,7 +786,7 @@
     }
    ],
    "answerOptionId": "q03-021-a",
-   "explanation": "Qorinchalar 5–20 s to‘xtab, so‘ng Purkinye tolalaridagi kichik soha 15–40/min ritm hosil qiladi — ventricular escape.",
+   "explanation": "Qorinchalar 5–20 s to’xtab, so’ng Purkinye tolalaridagi kichik soha 15–40/min ritm hosil qiladi — ventricular escape.",
    "difficulty": "medium",
    "source": {
     "bookId": "guyton-hall-14",
@@ -824,7 +824,7 @@
     }
    ],
    "answerOptionId": "q03-022-a",
-   "explanation": "Noradrenalin beta-1 adrenoretseptorlarni qo‘zg‘atadi; Na⁺ va Ca²⁺ o‘tkazuvchanligi ortib, o‘z-o‘zini qo‘zg‘atish tezlashadi.",
+   "explanation": "Noradrenalin beta-1 adrenoretseptorlarni qo’zg’atadi; Na⁺ va Ca²⁺ o’tkazuvchanligi ortib, o’z-o’zini qo’zg’atish tezlashadi.",
    "difficulty": "medium",
    "source": {
     "bookId": "guyton-hall-14",
@@ -842,7 +842,7 @@
    "version": 1,
    "topicId": "03",
    "lessonId": "ch10",
-   "stem": "Maksimal simpatik qo‘zg‘alish yurak urish chastotasini taxminan necha marta oshirishi mumkin?",
+   "stem": "Maksimal simpatik qo’zg’alish yurak urish chastotasini taxminan necha marta oshirishi mumkin?",
    "options": [
     {
      "id": "q03-023-a",
@@ -862,7 +862,7 @@
     }
    ],
    "answerOptionId": "q03-023-b",
-   "explanation": "Kitobda: maksimal qo‘zg‘alish yurak urish chastotasini deyarli uch barobar, qisqarish kuchini esa ikki baravargacha oshiradi.",
+   "explanation": "Kitobda: maksimal qo’zg’alish yurak urish chastotasini deyarli uch barobar, qisqarish kuchini esa ikki baravargacha oshiradi.",
    "difficulty": "medium",
    "source": {
     "bookId": "guyton-hall-14",
@@ -880,11 +880,11 @@
    "version": 1,
    "topicId": "03",
    "lessonId": "ch09",
-   "stem": "Qorincha muskul tolasida harakat potensialining platosiga asosan nima sabab bo‘ladi?",
+   "stem": "Qorincha muskul tolasida harakat potensialining platosiga asosan nima sabab bo’ladi?",
    "options": [
     {
      "id": "q03-024-a",
-     "text": "L-tipli (sekin) Ca²⁺ kanallarining uzoq ochiq turishi va K⁺ o‘tkazuvchanligining kamayishi"
+     "text": "L-tipli (sekin) Ca²⁺ kanallarining uzoq ochiq turishi va K⁺ o’tkazuvchanligining kamayishi"
     },
     {
      "id": "q03-024-b",
@@ -896,11 +896,11 @@
     },
     {
      "id": "q03-024-d",
-     "text": "Na⁺-K⁺ nasosining to‘xtashi"
+     "text": "Na⁺-K⁺ nasosining to’xtashi"
     }
    ],
    "answerOptionId": "q03-024-a",
-   "explanation": "Plato: sekin Ca²⁺ kanallari o‘ndan bir necha soniya ochiq turadi va AP boshlangach K⁺ o‘tkazuvchanligi ~5 baravar kamayadi.",
+   "explanation": "Plato: sekin Ca²⁺ kanallari o’ndan bir necha soniya ochiq turadi va AP boshlangach K⁺ o’tkazuvchanligi ~5 baravar kamayadi.",
    "difficulty": "medium",
    "source": {
     "bookId": "guyton-hall-14",
@@ -938,7 +938,7 @@
     }
    ],
    "answerOptionId": "q03-025-b",
-   "explanation": "Qorinchada normal refrakter davr 0,25–0,30 s (plato davomiyligiga teng), bo‘lmachada ~0,15 s.",
+   "explanation": "Qorinchada normal refrakter davr 0,25–0,30 s (plato davomiyligiga teng), bo’lmachada ~0,15 s.",
    "difficulty": "medium",
    "source": {
     "bookId": "guyton-hall-14",
@@ -956,7 +956,7 @@
    "version": 1,
    "topicId": "03",
    "lessonId": "ch09",
-   "stem": "Yurak muskuli qisqarish kuchi qaysi omilga kuchli bog‘liq (skelet muskulidan farqli)?",
+   "stem": "Yurak muskuli qisqarish kuchi qaysi omilga kuchli bog’liq (skelet muskulidan farqli)?",
    "options": [
     {
      "id": "q03-026-a",
@@ -976,7 +976,7 @@
     }
    ],
    "answerOptionId": "q03-026-a",
-   "explanation": "T-naychalar orqali tashqi Ca²⁺ kirishi muhim; Ca²⁺ siz eritmada yurak tez to‘xtaydi.",
+   "explanation": "T-naychalar orqali tashqi Ca²⁺ kirishi muhim; Ca²⁺ siz eritmada yurak tez to’xtaydi.",
    "difficulty": "medium",
    "source": {
     "bookId": "guyton-hall-14",
@@ -1002,7 +1002,7 @@
     },
     {
      "id": "q03-027-b",
-     "text": "Bo‘lmachalar depolyarizatsiyasini"
+     "text": "Bo’lmachalar depolyarizatsiyasini"
     },
     {
      "id": "q03-027-c",
@@ -1010,11 +1010,11 @@
     },
     {
      "id": "q03-027-d",
-     "text": "Bo‘lmachalar repolyarizatsiyasini"
+     "text": "Bo’lmachalar repolyarizatsiyasini"
     }
    ],
    "answerOptionId": "q03-027-a",
-   "explanation": "P — bo‘lmachalar depolyarizatsiyasi, QRS — qorinchalar depolyarizatsiyasi, T — qorinchalar repolyarizatsiyasi.",
+   "explanation": "P — bo’lmachalar depolyarizatsiyasi, QRS — qorinchalar depolyarizatsiyasi, T — qorinchalar repolyarizatsiyasi.",
    "difficulty": "medium",
    "source": {
     "bookId": "guyton-hall-14",
@@ -1070,7 +1070,7 @@
    "version": 1,
    "topicId": "03",
    "lessonId": "ch11",
-   "stem": "EKG 25 mm/s tezlikda yozilganda R-R oralig‘i 0,83 s bo‘lsa, yurak urish tezligi qancha?",
+   "stem": "EKG 25 mm/s tezlikda yozilganda R-R oralig’i 0,83 s bo’lsa, yurak urish tezligi qancha?",
    "options": [
     {
      "id": "q03-029-a",
@@ -1128,7 +1128,7 @@
     }
    ],
    "answerOptionId": "q03-030-a",
-   "explanation": "Har lahzada I va III ulanish potensiallari yig‘indisi II ulanishdagiga teng (ishoralar hisobga olinadi).",
+   "explanation": "Har lahzada I va III ulanish potensiallari yig’indisi II ulanishdagiga teng (ishoralar hisobga olinadi).",
    "difficulty": "medium",
    "source": {
     "bookId": "guyton-hall-14",
@@ -1158,15 +1158,15 @@
     },
     {
      "id": "q03-031-c",
-     "text": "Bo‘lmachalar va qorinchalar mustaqil ishlaydi"
+     "text": "Bo’lmachalar va qorinchalar mustaqil ishlaydi"
     },
     {
      "id": "q03-031-d",
-     "text": "P to‘lqini yo‘qoladi"
+     "text": "P to’lqini yo’qoladi"
     }
    ],
    "answerOptionId": "q03-031-a",
-   "explanation": "I daraja: P-R > 0,20 s, ammo barcha impulslar qorinchalarga o‘tadi.",
+   "explanation": "I daraja: P-R > 0,20 s, ammo barcha impulslar qorinchalarga o’tadi.",
    "difficulty": "medium",
    "source": {
     "bookId": "guyton-hall-14",

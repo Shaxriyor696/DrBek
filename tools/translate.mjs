@@ -63,7 +63,7 @@ function saveTranslation(lesson, items, blocks, figures, meta) {
     method: meta.method, translator: meta.translator, model: meta.model || null,
     createdAt: meta.createdAt || now(), updatedAt: now(),
     coverage: { translated, total },
-    note: 'Kitob matnining to‘liq o‘zbekcha tarjimasi (qisqartirilmagan). Ekspert tekshiruvidan o‘tmagan.',
+    note: 'Kitob matnining to’liq o’zbekcha tarjimasi (qisqartirilmagan). Ekspert tekshiruvidan o’tmagan.',
     blocks, figures,
   };
   const p = path.join(TDIR, `${lesson.id}.uz.json`);
@@ -111,7 +111,7 @@ function compile(file) {
 const SYSTEM = `You translate Guyton and Hall Textbook of Medical Physiology (14th ed.) into Uzbek (Latin script) for Uzbek medical students.
 Rules:
 - Translate COMPLETELY and faithfully. Never summarize, shorten, merge or skip sentences; every sentence of the source must appear in the translation. Do not add facts, explanations or comments.
-- Use correct Uzbek medical terminology in Latin script with the letters o‘ and g‘ (U+2018) and the apostrophe ’ for tutuq belgisi. Keep established international terms (e.g. "harakat potensiali", "giperpolyarizatsiya", "A-V tugun", "Purkinye tolalari"). When a key term is first introduced in an item, you may add the English term in parentheses.
+- Use correct Uzbek medical terminology in Latin script with the letters o’ and g’ and the tutuq belgisi, all written with U+2019 (’) as Microsoft Word does. Keep established international terms (e.g. "harakat potensiali", "giperpolyarizatsiya", "A-V tugun", "Purkinye tolalari"). When a key term is first introduced in an item, you may add the English term in parentheses.
 - Keep all numbers, units, ranges, chemical symbols and abbreviations exactly (use a decimal comma: 0,3 m/s; keep minus signs: –55 mV).
 - Keep the inline markup: **bold** and _italic_ stay around the corresponding translated words. Write figure/table references as **Rasm 10-1** / **Jadval 10-1** (also for "Figures 10-1 and 10-3" → "**Rasm 10-1** va **Rasm 10-3**"). Chapter references: "9-bob".
 - The source was extracted from a PDF: silently repair broken words such as "con ductive", "sodi um", "selfexcitation", "Figure 102" (= Figure 10-2).

@@ -2,7 +2,7 @@
  "id": "ch66",
  "topicId": "12",
  "order": 4,
- "titleUz": "Oshqozon-ichak yo'lida hazm va so'rilish",
+ "titleUz": "Oshqozon-ichak yo’lida hazm va so’rilish",
  "titleOriginal": "Digestion and Absorption in the Gastrointestinal Tract",
  "subtitle": "*Digestion and Absorption in the Gastrointestinal Tract* — XII bo'lim, PDF 780–789",
  "contentVersion": "2026-11-14.1",
@@ -366,25 +366,25 @@
   "Hazm — gidroliz",
   "Uglevodlar hazmi",
   "Oqsillar hazmi",
-  "Yog'lar hazmi",
-  "So'rilishning asoslari",
-  "Ingichka ichakda so'rilish",
-  "Ionlar so'rilishi",
-  "Ozuqalar so'rilishi",
-  "Yo'g'on ichakda so'rilish va najas hosil bo'lishi"
+  "Yog’lar hazmi",
+  "So’rilishning asoslari",
+  "Ingichka ichakda so’rilish",
+  "Ionlar so’rilishi",
+  "Ozuqalar so’rilishi",
+  "Yo’g’on ichakda so’rilish va najas hosil bo’lishi"
  ],
  "blocks": {
   "simple": [
    {
     "type": "heading",
     "level": 2,
-    "text": "Asosiy g'oya",
+    "text": "Asosiy g’oya",
     "id": "ch66-s-0-asosiy-goya",
     "bid": "ch66-u0"
    },
    {
     "type": "paragraph",
-    "text": "Asosiy ozuqalar (uglevodlar, yog'lar, oqsillar) tabiiy shaklda shilliq qavatdan so'rilmaydi. Ular avval kichik birikmalargacha hazm qilinishi kerak.",
+    "text": "Asosiy ozuqalar (uglevodlar, yog’lar, oqsillar) tabiiy shaklda shilliq qavatdan so’rilmaydi. Ular avval kichik birikmalargacha hazm qilinishi kerak.",
     "bid": "ch66-u1"
    },
    {
@@ -399,7 +399,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Uchala ozuqa turi kondensatsiya bilan hosil bo'lgan: bir birlikdan H⁺, keyingisidan OH⁻ olinib, suv ajralgan.",
+      "text": "Uchala ozuqa turi kondensatsiya bilan hosil bo’lgan: bir birlikdan H⁺, keyingisidan OH⁻ olinib, suv ajralgan.",
       "depth": 0
      },
      {
@@ -411,11 +411,11 @@
       "depth": 1
      },
      {
-      "text": "**Yog'lar:** triglitserid (1 glitserin va 3 yog' kislotasi, 3 molekula suv ajralgan) 3 molekula suv bilan parchalanadi.",
+      "text": "**Yog’lar:** triglitserid (1 glitserin va 3 yog' kislotasi, 3 molekula suv ajralgan) 3 molekula suv bilan parchalanadi.",
       "depth": 1
      },
      {
-      "text": "**Oqsillar:** peptid bog'lar gidroliz bilan uziladi.",
+      "text": "**Oqsillar:** peptid bog’lar gidroliz bilan uziladi.",
       "depth": 1
      },
      {
@@ -450,15 +450,15 @@
       "depth": 0
      },
      {
-      "text": "**Kraxmallar:** deyarli barcha o'simlik ovqatlaridagi, ayniqsa kartoshka va donlardagi yirik polisaxaridlar.",
+      "text": "**Kraxmallar:** deyarli barcha o’simlik ovqatlaridagi, ayniqsa kartoshka va donlardagi yirik polisaxaridlar.",
       "depth": 0
      },
      {
-      "text": "Oz miqdorda: amiloza, glikogen, alkogol, sut kislotasi, piruvat, pektinlar, dekstrinlar, go'shtdagi uglevod hosilalari.",
+      "text": "Oz miqdorda: amiloza, glikogen, alkogol, sut kislotasi, piruvat, pektinlar, dekstrinlar, go’shtdagi uglevod hosilalari.",
       "depth": 0
      },
      {
-      "text": "**Selluloza** ko'p, lekin odamda uni parchalovchi ferment yo'q, shuning uchun ozuqa emas.",
+      "text": "**Selluloza** ko’p, lekin odamda uni parchalovchi ferment yo’q, shuning uchun ozuqa emas.",
       "depth": 0
      }
     ],
@@ -466,7 +466,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Og'iz va oshqozon:**",
+    "text": "**Og’iz va oshqozon:**",
     "bid": "ch66-u7"
    },
    {
@@ -474,11 +474,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "So'lakdagi **ptialin** (α-amilaza, asosan quloq oldi bezidan) kraxmalni maltoza va 3–9 glyukozali polimerlarga parchalaydi.",
+      "text": "So’lakdagi **ptialin** (α-amilaza, asosan quloq oldi bezidan) kraxmalni maltoza va 3–9 glyukozali polimerlarga parchalaydi.",
       "depth": 0
      },
      {
-      "text": "Ovqat og'izda qisqa turadi, yutilguncha kraxmalning 5% dan ko'pi hazm bo'lmaydi.",
+      "text": "Ovqat og’izda qisqa turadi, yutilguncha kraxmalning 5% dan ko’pi hazm bo’lmaydi.",
       "depth": 0
      },
      {
@@ -486,7 +486,7 @@
       "depth": 0
      },
      {
-      "text": "Shunga qaramay, aralashguncha kraxmalning 30–40% gacha hazm bo'ladi, asosan maltozagacha.",
+      "text": "Shunga qaramay, aralashguncha kraxmalning 30–40% gacha hazm bo’ladi, asosan maltozagacha.",
       "depth": 0
      }
     ],
@@ -494,7 +494,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Me'da osti bezi amilazasi:**",
+    "text": "**Me’da osti bezi amilazasi:**",
     "bid": "ch66-u9"
    },
    {
@@ -502,15 +502,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "So'lak amilazasiga o'xshash, lekin bir necha baravar kuchli.",
+      "text": "So’lak amilazasiga o’xshash, lekin bir necha baravar kuchli.",
       "depth": 0
      },
      {
-      "text": "Ximus o'n ikki barmoqli ichakka tushgandan 15–30 daqiqada deyarli barcha uglevodlar hazm bo'ladi. O'n ikki barmoqli yoki yuqori och ichakdan o'tguncha deyarli hammasi maltoza va kichik glyukoza polimerlariga aylanadi.",
+      "text": "Ximus o’n ikki barmoqli ichakka tushgandan 15–30 daqiqada deyarli barcha uglevodlar hazm bo’ladi. O’n ikki barmoqli yoki yuqori och ichakdan o’tguncha deyarli hammasi maltoza va kichik glyukoza polimerlariga aylanadi.",
       "depth": 0
      },
      {
-      "text": "Rasm 66-1 bo'yicha kraxmal hazmining 20–40% ptialin, 50–80% me'da osti bezi amilazasi hisobiga.",
+      "text": "Rasm 66-1 bo’yicha kraxmal hazmining 20–40% ptialin, 50–80% me’da osti bezi amilazasi hisobiga.",
       "depth": 0
      }
     ],
@@ -531,7 +531,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Vorsinkalar enterotsitlarining mikrovorsinkali cho'tkasimon hoshiyasida to'rtta ferment: **laktaza, saxaraza, maltaza, α-dekstrinaza**. Disaxaridlar shu hujayralarga tekkanda hazm bo'ladi.",
+      "text": "Vorsinkalar enterotsitlarining mikrovorsinkali cho’tkasimon hoshiyasida to’rtta ferment: **laktaza, saxaraza, maltaza, α-dekstrinaza**. Disaxaridlar shu hujayralarga tekkanda hazm bo’ladi.",
       "depth": 0
      },
      {
@@ -547,11 +547,11 @@
       "depth": 1
      },
      {
-      "text": "Yakuniy mahsulotlar suvda eriydigan monosaxaridlar, darhol darvoza venasi qoniga so'riladi.",
+      "text": "Yakuniy mahsulotlar suvda eriydigan monosaxaridlar, darhol darvoza venasi qoniga so’riladi.",
       "depth": 0
      },
      {
-      "text": "Oddiy ratsionda glyukoza 80% dan ko'p. Galaktoza va fruktoza har biri kamdan-kam 10% dan oshadi.",
+      "text": "Oddiy ratsionda glyukoza 80% dan ko’p. Galaktoza va fruktoza har biri kamdan-kam 10% dan oshadi.",
       "depth": 0
      }
     ],
@@ -569,7 +569,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Oqsillar peptid bog'lar bilan bog'langan aminokislota zanjirlari. Xossalari aminokislotalar turi va ketma-ketligiga bog'liq (70-bob).",
+      "text": "Oqsillar peptid bog’lar bilan bog’langan aminokislota zanjirlari. Xossalari aminokislotalar turi va ketma-ketligiga bog’liq (70-bob).",
       "depth": 0
      }
     ],
@@ -589,19 +589,19 @@
       "depth": 0
      },
      {
-      "text": "HCl pH 0.8 da ajraladi, lekin aralashgandan keyin o'rtacha pH 2.0–3.0 bo'ladi.",
+      "text": "HCl pH 0.8 da ajraladi, lekin aralashgandan keyin o’rtacha pH 2.0–3.0 bo’ladi.",
       "depth": 0
      },
      {
-      "text": "**Kollagenni hazm qila oladi.** Kollagen go'shtning hujayralararo biriktiruvchi to'qimasida asosiy oqsil, boshqa fermentlar unga kam ta'sir qiladi.",
+      "text": "**Kollagenni hazm qila oladi.** Kollagen go’shtning hujayralararo biriktiruvchi to’qimasida asosiy oqsil, boshqa fermentlar unga kam ta’sir qiladi.",
       "depth": 0
      },
      {
-      "text": "Kollagen hazm bo'lmasa, boshqa fermentlar go'shtga kira olmaydi.",
+      "text": "Kollagen hazm bo’lmasa, boshqa fermentlar go’shtga kira olmaydi.",
       "depth": 1
      },
      {
-      "text": "Pepsin yetishmaganda go'sht yomon hazm bo'ladi.",
+      "text": "Pepsin yetishmaganda go’sht yomon hazm bo’ladi.",
       "depth": 1
      },
      {
@@ -613,7 +613,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Asosiy hazm me'da osti bezi fermentlari bilan** (o'n ikki barmoqli va och ichak):",
+    "text": "**Asosiy hazm me’da osti bezi fermentlari bilan** (o’n ikki barmoqli va och ichak):",
     "bid": "ch66-u18"
    },
    {
@@ -629,11 +629,11 @@
       "depth": 0
      },
      {
-      "text": "Proelastaza elastazaga aylanadi va go'shtni ushlab turuvchi elastin tolalarini hazm qiladi.",
+      "text": "Proelastaza elastazaga aylanadi va go’shtni ushlab turuvchi elastin tolalarini hazm qiladi.",
       "depth": 0
      },
      {
-      "text": "Bu bosqichda oqsilning oz qismigina aminokislotagacha yetadi. Ko'pi dipeptid va tripeptid bo'lib qoladi.",
+      "text": "Bu bosqichda oqsilning oz qismigina aminokislotagacha yetadi. Ko’pi dipeptid va tripeptid bo’lib qoladi.",
       "depth": 0
      }
     ],
@@ -641,7 +641,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Enterotsit peptidazalari** (asosan o'n ikki barmoqli va och ichak):",
+    "text": "**Enterotsit peptidazalari** (asosan o’n ikki barmoqli va och ichak):",
     "bid": "ch66-u20"
    },
    {
@@ -649,23 +649,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "Har bir hujayrada yuzlab mikrovorsinkali cho'tkasimon hoshiya bor. Membranasidan tashqariga chiqib turgan peptidazalar ichak suyuqligiga tegadi.",
+      "text": "Har bir hujayrada yuzlab mikrovorsinkali cho’tkasimon hoshiya bor. Membranasidan tashqariga chiqib turgan peptidazalar ichak suyuqligiga tegadi.",
       "depth": 0
      },
      {
-      "text": "Eng muhimlari **aminopolipeptidaza** va bir necha **dipeptidazalar**. Ular katta polipeptidlarni tri- va dipeptidlarga, ba'zilarini aminokislotalarga parchalaydi.",
+      "text": "Eng muhimlari **aminopolipeptidaza** va bir necha **dipeptidazalar**. Ular katta polipeptidlarni tri- va dipeptidlarga, ba’zilarini aminokislotalarga parchalaydi.",
       "depth": 1
      },
      {
-      "text": "Aminokislotalar, di- va tripeptidlar mikrovorsinka membranasidan oson o'tadi.",
+      "text": "Aminokislotalar, di- va tripeptidlar mikrovorsinka membranasidan oson o’tadi.",
       "depth": 0
      },
      {
-      "text": "Sitozoldagi boshqa peptidazalar qolgan bog'larni daqiqalar ichida parchalaydi. Aminokislotalar hujayraning narigi tomonidan qonga o'tadi.",
+      "text": "Sitozoldagi boshqa peptidazalar qolgan bog’larni daqiqalar ichida parchalaydi. Aminokislotalar hujayraning narigi tomonidan qonga o’tadi.",
       "depth": 0
      },
      {
-      "text": "So'rilgan yakuniy mahsulotlarning 99% dan ko'pi alohida aminokislotalar. Peptidlar kam, butun oqsil juda kam so'riladi. Butun oqsil molekulalari ba'zan og'ir allergik yoki immun buzilishlar chaqiradi (35-bob).",
+      "text": "So’rilgan yakuniy mahsulotlarning 99% dan ko’pi alohida aminokislotalar. Peptidlar kam, butun oqsil juda kam so’riladi. Butun oqsil molekulalari ba’zan og’ir allergik yoki immun buzilishlar chaqiradi (35-bob).",
       "depth": 0
      }
     ],
@@ -674,13 +674,13 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Yog'lar hazmi",
+    "text": "Yog’lar hazmi",
     "id": "ch66-s-22-yoglar-hazmi",
     "bid": "ch66-u22"
    },
    {
     "type": "paragraph",
-    "text": "**Ratsiondagi yog'lar:**",
+    "text": "**Ratsiondagi yog’lar:**",
     "bid": "ch66-u23"
    },
    {
@@ -688,7 +688,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Eng ko'pi **neytral yog'lar (triglitseridlar):** glitserin va 3 ta yog' kislotasi. Hayvon ovqatida ko'p, o'simlik ovqatida kam.",
+      "text": "Eng ko’pi **neytral yog’lar (triglitseridlar):** glitserin va 3 ta yog' kislotasi. Hayvon ovqatida ko’p, o’simlik ovqatida kam.",
       "depth": 0
      },
      {
@@ -700,7 +700,7 @@
       "depth": 0
      },
      {
-      "text": "Xolesterolda yog' kislotasi yo'q, lekin yog'larga o'xshash xossalarga ega, yog'dan hosil bo'ladi va shunday metabolizmga uchraydi. Shuning uchun ovqatlanish nuqtai nazaridan yog' hisoblanadi.",
+      "text": "Xolesterolda yog' kislotasi yo’q, lekin yog’larga o’xshash xossalarga ega, yog’dan hosil bo’ladi va shunday metabolizmga uchraydi. Shuning uchun ovqatlanish nuqtai nazaridan yog' hisoblanadi.",
       "depth": 0
      }
     ],
@@ -708,7 +708,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Oshqozonda:** til bezlari ajratib so'lak bilan yutiladigan **til lipazasi** triglitseridlarning 10% dan kamini hazm qiladi, ahamiyati kam. Deyarli barcha yog' hazmi ingichka ichakda.",
+    "text": "**Oshqozonda:** til bezlari ajratib so’lak bilan yutiladigan **til lipazasi** triglitseridlarning 10% dan kamini hazm qiladi, ahamiyati kam. Deyarli barcha yog' hazmi ingichka ichakda.",
     "bid": "ch66-u25"
    },
    {
@@ -721,11 +721,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Oshqozondagi chayqalishdan boshlanadi. Asosan o'n ikki barmoqli ichakda o't ta'sirida bo'ladi.",
+      "text": "Oshqozondagi chayqalishdan boshlanadi. Asosan o’n ikki barmoqli ichakda o’t ta’sirida bo’ladi.",
       "depth": 0
      },
      {
-      "text": "O'tda ferment yo'q, lekin ko'p o't tuzlari va fosfolipid **letsitin** bor. Ayniqsa letsitin emulsiyalash uchun juda muhim.",
+      "text": "O’tda ferment yo’q, lekin ko’p o’t tuzlari va fosfolipid **letsitin** bor. Ayniqsa letsitin emulsiyalash uchun juda muhim.",
       "depth": 0
      },
      {
@@ -733,11 +733,11 @@
       "depth": 0
      },
      {
-      "text": "Bu molekulalarning qutbli qismi suvda, qolgan qismi yog'da yaxshi eriydi.",
+      "text": "Bu molekulalarning qutbli qismi suvda, qolgan qismi yog’da yaxshi eriydi.",
       "depth": 1
      },
      {
-      "text": "Yog'da eriydigan qismi tomchi sirtiga kiradi, qutbli qismi tashqariga chiqib suvda eriydi.",
+      "text": "Yog’da eriydigan qismi tomchi sirtiga kiradi, qutbli qismi tashqariga chiqib suvda eriydi.",
       "depth": 1
      },
      {
@@ -745,15 +745,15 @@
       "depth": 1
      },
      {
-      "text": "Sirt tarangligi past bo'lgan aralashmaydigan suyuqlik chayqalganda osongina mayda tomchilarga bo'linadi. Uy kimyoviy yuvuvchi vositalari ham shunday ishlaydi.",
+      "text": "Sirt tarangligi past bo’lgan aralashmaydigan suyuqlik chayqalganda osongina mayda tomchilarga bo’linadi. Uy kimyoviy yuvuvchi vositalari ham shunday ishlaydi.",
       "depth": 1
      },
      {
-      "text": "Emulsiyalangan zarralar o'rtacha diametri 1 µm dan kichik. Umumiy sirt yuzasi 1000 baravargacha ortadi.",
+      "text": "Emulsiyalangan zarralar o’rtacha diametri 1 µm dan kichik. Umumiy sirt yuzasi 1000 baravargacha ortadi.",
       "depth": 0
      },
      {
-      "text": "Lipazalar suvda eriydi va faqat sirtga ta'sir qiladi, shuning uchun emulsiyalash juda muhim.",
+      "text": "Lipazalar suvda eriydi va faqat sirtga ta’sir qiladi, shuning uchun emulsiyalash juda muhim.",
       "depth": 0
      }
     ],
@@ -761,7 +761,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**2-qadam: me'da osti bezi lipazasi**",
+    "text": "**2-qadam: me’da osti bezi lipazasi**",
     "bid": "ch66-u28"
    },
    {
@@ -769,11 +769,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Shirada juda ko'p, yetib borgan barcha triglitseridlarni 1 daqiqada hazm qila oladi.",
+      "text": "Shirada juda ko’p, yetib borgan barcha triglitseridlarni 1 daqiqada hazm qila oladi.",
       "depth": 0
      },
      {
-      "text": "Enterotsitlarda **enterik lipaza** ham bor, lekin odatda kerak bo'lmaydi.",
+      "text": "Enterotsitlarda **enterik lipaza** ham bor, lekin odatda kerak bo’lmaydi.",
       "depth": 0
      },
      {
@@ -793,27 +793,27 @@
     "ordered": false,
     "items": [
      {
-      "text": "Gidroliz juda qaytar jarayon. Yonida monogliseridlar va yog' kislotalari to'planib qolsa, hazm tez to'xtaydi.",
+      "text": "Gidroliz juda qaytar jarayon. Yonida monogliseridlar va yog' kislotalari to’planib qolsa, hazm tez to’xtaydi.",
       "depth": 0
      },
      {
-      "text": "O't tuzlari bu mahsulotlarni hosil bo'lishi bilan deyarli bir tezlikda olib ketadi.",
+      "text": "O’t tuzlari bu mahsulotlarni hosil bo’lishi bilan deyarli bir tezlikda olib ketadi.",
       "depth": 0
      },
      {
-      "text": "Konsentratsiya yetarli bo'lsa, o't tuzlari **mitsellalar** hosil qiladi: diametri 3–6 nm, 20–40 molekuladan iborat sferik yoki silindrik globulalar.",
+      "text": "Konsentratsiya yetarli bo’lsa, o’t tuzlari **mitsellalar** hosil qiladi: diametri 3–6 nm, 20–40 molekuladan iborat sferik yoki silindrik globulalar.",
       "depth": 0
      },
      {
-      "text": "Steroid yadrosi yog'da eriydi va hazm mahsulotlarini o'rab, markazda kichik yog' tomchisi hosil qiladi.",
+      "text": "Steroid yadrosi yog’da eriydi va hazm mahsulotlarini o’rab, markazda kichik yog' tomchisi hosil qiladi.",
       "depth": 1
      },
      {
-      "text": "Manfiy zaryadli qutbli guruhlar tashqariga qaraydi. Mitsella suvda eriydi va yog' so'rilguncha barqaror turadi.",
+      "text": "Manfiy zaryadli qutbli guruhlar tashqariga qaraydi. Mitsella suvda eriydi va yog' so’rilguncha barqaror turadi.",
       "depth": 1
      },
      {
-      "text": "Mitsellalar monogliseridlar va yog' kislotalarini cho'tkasimon hoshiyagacha tashiydi. U yerda ular so'riladi, o't tuzlari esa ximusga qaytib qayta-qayta ishlatiladi (\"ferrying\").",
+      "text": "Mitsellalar monogliseridlar va yog' kislotalarini cho’tkasimon hoshiyagacha tashiydi. U yerda ular so’riladi, o’t tuzlari esa ximusga qaytib qayta-qayta ishlatiladi (\"ferrying\").",
       "depth": 0
      }
     ],
@@ -829,11 +829,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Ovqatdagi xolesterolning ko'pi xolesterol efirlari shaklida (erkin xolesterol + 1 yog' kislotasi).",
+      "text": "Ovqatdagi xolesterolning ko’pi xolesterol efirlari shaklida (erkin xolesterol + 1 yog' kislotasi).",
       "depth": 0
      },
      {
-      "text": "Me'da osti bezining ikki lipazasi gidrolizlaydi:",
+      "text": "Me’da osti bezining ikki lipazasi gidrolizlaydi:",
       "depth": 0
      },
      {
@@ -845,7 +845,7 @@
       "depth": 1
      },
      {
-      "text": "Mitsellalar erkin xolesterol va fosfolipid mahsulotlarini ham tashiydi. Ularsiz xolesterol deyarli umuman so'rilmaydi.",
+      "text": "Mitsellalar erkin xolesterol va fosfolipid mahsulotlarini ham tashiydi. Ularsiz xolesterol deyarli umuman so’rilmaydi.",
       "depth": 0
      }
     ],
@@ -854,7 +854,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "So'rilishning asoslari",
+    "text": "So’rilishning asoslari",
     "id": "ch66-s-34-sorilishning-asoslari",
     "bid": "ch66-u34"
    },
@@ -863,19 +863,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Kunlik so'riladigan suyuqlik: iste'mol qilingan suyuqlik (taxminan 1.5 l) va sekretsiyalar (taxminan 7 l), jami 8–9 l.",
+      "text": "Kunlik so’riladigan suyuqlik: iste’mol qilingan suyuqlik (taxminan 1.5 l) va sekretsiyalar (taxminan 7 l), jami 8–9 l.",
       "depth": 0
      },
      {
-      "text": "Taxminan 1.5 l dan tashqari hammasi ingichka ichakda so'riladi.",
+      "text": "Taxminan 1.5 l dan tashqari hammasi ingichka ichakda so’riladi.",
       "depth": 1
      },
      {
-      "text": "Ileotsekal klapan orqali yo'g'on ichakka kuniga faqat taxminan 1.5 l o'tadi.",
+      "text": "Ileotsekal klapan orqali yo’g’on ichakka kuniga faqat taxminan 1.5 l o’tadi.",
       "depth": 1
      },
      {
-      "text": "**Oshqozon yomon so'radi:** vorsinkasimon so'ruvchi membranasi yo'q va hujayralar orasida zich birikmalar. Faqat lipidda yaxshi eriydigan moddalar oz miqdorda so'riladi: alkogol, ba'zi dorilar (aspirin).",
+      "text": "**Oshqozon yomon so’radi:** vorsinkasimon so’ruvchi membranasi yo’q va hujayralar orasida zich birikmalar. Faqat lipidda yaxshi eriydigan moddalar oz miqdorda so’riladi: alkogol, ba’zi dorilar (aspirin).",
       "depth": 0
      }
     ],
@@ -883,7 +883,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**So'rilish yuzasini oshiruvchi tuzilmalar:**",
+    "text": "**So’rilish yuzasini oshiruvchi tuzilmalar:**",
     "bid": "ch66-u36"
    },
    {
@@ -895,11 +895,11 @@
       "depth": 0
      },
      {
-      "text": "Ichakni deyarli to'liq aylana bo'ylab o'raydi.",
+      "text": "Ichakni deyarli to’liq aylana bo’ylab o’raydi.",
       "depth": 1
      },
      {
-      "text": "Ayniqsa o'n ikki barmoqli va och ichakda yaxshi rivojlangan, bo'shliqqa 8 mm gacha chiqadi.",
+      "text": "Ayniqsa o’n ikki barmoqli va och ichakda yaxshi rivojlangan, bo’shliqqa 8 mm gacha chiqadi.",
       "depth": 1
      },
      {
@@ -907,15 +907,15 @@
       "depth": 0
      },
      {
-      "text": "Yuqori ingichka ichakda shunchalik zichki, ko'p joyda bir-biriga tegadi. Distal qismda siyrakroq.",
+      "text": "Yuqori ingichka ichakda shunchalik zichki, ko’p joyda bir-biriga tegadi. Distal qismda siyrakroq.",
       "depth": 1
      },
      {
-      "text": "**Mikrovorsinkalar (cho'tkasimon hoshiya):** har bir hujayrada 1000 tagacha, uzunligi 1 µm, diametri 0.1 µm. Yuzani yana kamida 20 baravar oshiradi.",
+      "text": "**Mikrovorsinkalar (cho’tkasimon hoshiya):** har bir hujayrada 1000 tagacha, uzunligi 1 µm, diametri 0.1 µm. Yuzani yana kamida 20 baravar oshiradi.",
       "depth": 0
      },
      {
-      "text": "Hammasi birga yuzani taxminan 1000 baravar oshiradi. Butun ingichka ichak uchun 250 m² yoki ko'proq, taxminan tennis korti maydoniga teng.",
+      "text": "Hammasi birga yuzani taxminan 1000 baravar oshiradi. Butun ingichka ichak uchun 250 m² yoki ko’proq, taxminan tennis korti maydoniga teng.",
       "depth": 0
      }
     ],
@@ -931,19 +931,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Darvoza venasi qoniga suyuqlik va erigan moddalarni so'rish uchun qulay qon tomir tizimi.",
+      "text": "Darvoza venasi qoniga suyuqlik va erigan moddalarni so’rish uchun qulay qon tomir tizimi.",
       "depth": 0
      },
      {
-      "text": "Limfaga so'rish uchun **markaziy limfa tomiri** (central lacteal).",
+      "text": "Limfaga so’rish uchun **markaziy limfa tomiri** (central lacteal).",
       "depth": 0
      },
      {
-      "text": "**Pinotsitoz pufakchalari:** enterotsit membranasining botib uzilgan qismlari. Oz miqdordagi moddalar shu yo'l bilan so'riladi.",
+      "text": "**Pinotsitoz pufakchalari:** enterotsit membranasining botib uzilgan qismlari. Oz miqdordagi moddalar shu yo’l bilan so’riladi.",
       "depth": 0
      },
      {
-      "text": "Mikrovorsinkalardagi aktin filamentlari ritmik qisqarib ularni doim harakatlantiradi va yangi suyuqlikka tegib turishini ta'minlaydi.",
+      "text": "Mikrovorsinkalardagi aktin filamentlari ritmik qisqarib ularni doim harakatlantiradi va yangi suyuqlikka tegib turishini ta’minlaydi.",
       "depth": 0
      }
     ],
@@ -952,7 +952,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Ingichka ichakda so'rilish",
+    "text": "Ingichka ichakda so’rilish",
     "id": "ch66-s-40-ingichka-ichakda-sorilish",
     "bid": "ch66-u40"
    },
@@ -961,7 +961,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Har kuni so'riladi:",
+      "text": "Har kuni so’riladi:",
       "depth": 0
      },
      {
@@ -969,7 +969,7 @@
       "depth": 1
      },
      {
-      "text": "100 g yoki ko'proq yog'.",
+      "text": "100 g yoki ko’proq yog'.",
       "depth": 1
      },
      {
@@ -1001,11 +1001,11 @@
       "depth": 1
      },
      {
-      "text": "20 l yoki ko'proq suv.",
+      "text": "20 l yoki ko’proq suv.",
       "depth": 1
      },
      {
-      "text": "Yo'g'on ichak yana ko'proq suv va ion so'ra oladi, lekin ozuqani juda kam.",
+      "text": "Yo’g’on ichak yana ko’proq suv va ion so’ra oladi, lekin ozuqani juda kam.",
       "depth": 0
      }
     ],
@@ -1013,7 +1013,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Suv izosmotik so'riladi:**",
+    "text": "**Suv izosmotik so’riladi:**",
     "bid": "ch66-u42"
    },
    {
@@ -1021,15 +1021,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Faqat diffuziya bilan, osmos qonunlariga bo'ysunadi.",
+      "text": "Faqat diffuziya bilan, osmos qonunlariga bo’ysunadi.",
       "depth": 0
      },
      {
-      "text": "Ximus suyultirilgan bo'lsa, suv deyarli faqat osmos bilan vorsinka qoniga so'riladi.",
+      "text": "Ximus suyultirilgan bo’lsa, suv deyarli faqat osmos bilan vorsinka qoniga so’riladi.",
       "depth": 0
      },
      {
-      "text": "Teskari yo'nalishda ham o'tishi mumkin. Masalan, giperosmotik eritma o'n ikki barmoqli ichakka tushsa, daqiqalar ichida plazmadan suv o'tib, ximusni izosmotik qiladi.",
+      "text": "Teskari yo’nalishda ham o’tishi mumkin. Masalan, giperosmotik eritma o’n ikki barmoqli ichakka tushsa, daqiqalar ichida plazmadan suv o’tib, ximusni izosmotik qiladi.",
       "depth": 0
      }
     ],
@@ -1038,7 +1038,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Ionlar so'rilishi",
+    "text": "Ionlar so’rilishi",
     "id": "ch66-s-44-ionlar-sorilishi",
     "bid": "ch66-u44"
    },
@@ -1056,39 +1056,39 @@
       "depth": 0
      },
      {
-      "text": "Shuning uchun ichak kuniga 25–35 g Na so'rishi kerak. Bu tanadagi barcha Na ning taxminan 1/7 qismi.",
+      "text": "Shuning uchun ichak kuniga 25–35 g Na so’rishi kerak. Bu tanadagi barcha Na ning taxminan 1/7 qismi.",
       "depth": 0
      },
      {
-      "text": "Og'ir diareyada Na zaxirasi bir necha soatda halokatli darajagacha kamayishi mumkin.",
+      "text": "Og’ir diareyada Na zaxirasi bir necha soatda halokatli darajagacha kamayishi mumkin.",
       "depth": 0
      },
      {
-      "text": "Normada ichakdagi Na ning 0.5% dan kami najas bilan yo'qoladi.",
+      "text": "Normada ichakdagi Na ning 0.5% dan kami najas bilan yo’qoladi.",
       "depth": 0
      },
      {
-      "text": "Na qand va aminokislotalar so'rilishida ham muhim.",
+      "text": "Na qand va aminokislotalar so’rilishida ham muhim.",
       "depth": 0
      },
      {
-      "text": "Mexanizm o't pufagi va buyrak kanalchalaridagiga o'xshash (4 va 28-boblar):",
+      "text": "Mexanizm o’t pufagi va buyrak kanalchalaridagiga o’xshash (4 va 28-boblar):",
       "depth": 0
      },
      {
-      "text": "**Bazolateral Na⁺-K⁺ ATPaza** Na ni hujayradan paratsellyulyar bo'shliqqa faol chiqaradi. Hujayra ichidagi Na taxminan 50 mEq/L gacha tushadi.",
+      "text": "**Bazolateral Na⁺-K⁺ ATPaza** Na ni hujayradan paratsellyulyar bo’shliqqa faol chiqaradi. Hujayra ichidagi Na taxminan 50 mEq/L gacha tushadi.",
       "depth": 1
      },
      {
-      "text": "Ximusda Na taxminan 142 mEq/L, plazmaga teng. Na tik elektrokimyoviy gradient bo'ylab cho'tkasimon hoshiya orqali hujayraga kiradi.",
+      "text": "Ximusda Na taxminan 142 mEq/L, plazmaga teng. Na tik elektrokimyoviy gradient bo’ylab cho’tkasimon hoshiya orqali hujayraga kiradi.",
       "depth": 1
      },
      {
-      "text": "Qisman Cl⁻ bilan birga so'riladi. Cl⁻ asosan Na⁺ ning musbat zaryadi bilan passiv tortiladi.",
+      "text": "Qisman Cl⁻ bilan birga so’riladi. Cl⁻ asosan Na⁺ ning musbat zaryadi bilan passiv tortiladi.",
       "depth": 1
      },
      {
-      "text": "Cho'tkasimon hoshiyadagi tashuvchilar:",
+      "text": "Cho’tkasimon hoshiyadagi tashuvchilar:",
       "depth": 1
      },
      {
@@ -1104,7 +1104,7 @@
       "depth": 2
      },
      {
-      "text": "Ular qo'shimcha Na beradi va glyukoza hamda aminokislotalarning ikkilamchi faol so'rilishini ta'minlaydi. Energiya manbai bazolateral Na⁺-K⁺ ATPaza.",
+      "text": "Ular qo’shimcha Na beradi va glyukoza hamda aminokislotalarning ikkilamchi faol so’rilishini ta’minlaydi. Energiya manbai bazolateral Na⁺-K⁺ ATPaza.",
       "depth": 1
      }
     ],
@@ -1120,11 +1120,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Paratsellyulyar bo'shliqda ionlar konsentratsiyasi ortib, katta osmotik gradient hosil bo'ladi.",
+      "text": "Paratsellyulyar bo’shliqda ionlar konsentratsiyasi ortib, katta osmotik gradient hosil bo’ladi.",
       "depth": 0
      },
      {
-      "text": "Suv ikki yo'l bilan o'tadi:",
+      "text": "Suv ikki yo’l bilan o’tadi:",
       "depth": 0
      },
      {
@@ -1136,7 +1136,7 @@
       "depth": 1
      },
      {
-      "text": "Suyuqlik paratsellyulyar bo'shliqlardan vorsinka qoniga oqadi.",
+      "text": "Suyuqlik paratsellyulyar bo’shliqlardan vorsinka qoniga oqadi.",
       "depth": 0
      }
     ],
@@ -1144,7 +1144,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Aldosteron Na so'rilishini keskin oshiradi:**",
+    "text": "**Aldosteron Na so’rilishini keskin oshiradi:**",
     "bid": "ch66-u49"
    },
    {
@@ -1152,19 +1152,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Suvsizlanishda buyrak usti po'stlog'i ko'p aldosteron ajratadi.",
+      "text": "Suvsizlanishda buyrak usti po’stlog’i ko’p aldosteron ajratadi.",
       "depth": 0
      },
      {
-      "text": "1–3 soat ichida Na so'rilishining barcha ferment va tashish mexanizmlari faollashadi. Cl⁻, suv va boshqa moddalar so'rilishi ham ikkilamchi ortadi.",
+      "text": "1–3 soat ichida Na so’rilishining barcha ferment va tashish mexanizmlari faollashadi. Cl⁻, suv va boshqa moddalar so’rilishi ham ikkilamchi ortadi.",
       "depth": 0
      },
      {
-      "text": "Ayniqsa yo'g'on ichakda muhim: najas bilan deyarli NaCl va oz suv yo'qoladi.",
+      "text": "Ayniqsa yo’g’on ichakda muhim: najas bilan deyarli NaCl va oz suv yo’qoladi.",
       "depth": 0
      },
      {
-      "text": "Buyrakdagi ta'siri bilan bir xil vazifani bajaradi.",
+      "text": "Buyrakdagi ta’siri bilan bir xil vazifani bajaradi.",
       "depth": 0
      }
     ],
@@ -1184,15 +1184,15 @@
       "depth": 0
      },
      {
-      "text": "Na so'rilishi ximusda elektromanfiylik, paratsellyulyar bo'shliqda elektromusbatlik hosil qiladi.",
+      "text": "Na so’rilishi ximusda elektromanfiylik, paratsellyulyar bo’shliqda elektromusbatlik hosil qiladi.",
       "depth": 1
      },
      {
-      "text": "Cl⁻ shu gradient bo'ylab Na ortidan boradi.",
+      "text": "Cl⁻ shu gradient bo’ylab Na ortidan boradi.",
       "depth": 1
      },
      {
-      "text": "Yonbosh va yo'g'on ichak qismlarida cho'tkasimon hoshiyadagi **Cl⁻-HCO₃⁻ almashtirgichi** orqali ham so'riladi. Hujayradan bazolateral xlor kanallari orqali chiqadi.",
+      "text": "Yonbosh va yo’g’on ichak qismlarida cho’tkasimon hoshiyadagi **Cl⁻-HCO₃⁻ almashtirgichi** orqali ham so’riladi. Hujayradan bazolateral xlor kanallari orqali chiqadi.",
       "depth": 0
      }
     ],
@@ -1200,7 +1200,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Bikarbonat (o'n ikki barmoqli va och ichak):**",
+    "text": "**Bikarbonat (o’n ikki barmoqli va och ichak):**",
     "bid": "ch66-u53"
    },
    {
@@ -1208,15 +1208,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Me'da osti bezi shirasi va o't bilan ko'p HCO₃⁻ tushgani uchun qayta so'rilishi kerak.",
+      "text": "Me’da osti bezi shirasi va o’t bilan ko’p HCO₃⁻ tushgani uchun qayta so’rilishi kerak.",
       "depth": 0
      },
      {
-      "text": "Bilvosita yo'l bilan:",
+      "text": "Bilvosita yo’l bilan:",
       "depth": 0
      },
      {
-      "text": "Na so'rilganda uning bir qismiga almashinib H⁺ chiqariladi.",
+      "text": "Na so’rilganda uning bir qismiga almashinib H⁺ chiqariladi.",
       "depth": 1
      },
      {
@@ -1224,11 +1224,11 @@
       "depth": 1
      },
      {
-      "text": "Suv ximusda qoladi, CO₂ qonga so'riladi va o'pka orqali chiqadi.",
+      "text": "Suv ximusda qoladi, CO₂ qonga so’riladi va o’pka orqali chiqadi.",
       "depth": 1
      },
      {
-      "text": "Bu \"HCO₃⁻ ning faol so'rilishi\" deyiladi, buyrak kanalchalaridagi mexanizm bilan bir xil (31-bob).",
+      "text": "Bu \"HCO₃⁻ ning faol so’rilishi\" deyiladi, buyrak kanalchalaridagi mexanizm bilan bir xil (31-bob).",
       "depth": 0
      }
     ],
@@ -1236,7 +1236,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Yonbosh va yo'g'on ichakda HCO₃⁻ sekretsiyasi:**",
+    "text": "**Yonbosh va yo’g’on ichakda HCO₃⁻ sekretsiyasi:**",
     "bid": "ch66-u55"
    },
    {
@@ -1244,11 +1244,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Vorsinka yuzalari epiteliysi Cl⁻ so'rilishiga almashtirib HCO₃⁻ ajratadi.",
+      "text": "Vorsinka yuzalari epiteliysi Cl⁻ so’rilishiga almashtirib HCO₃⁻ ajratadi.",
       "depth": 0
      },
      {
-      "text": "Bu yo'g'on ichakdagi bakteriyalar hosil qiladigan kislotali mahsulotlarni neytrallaydi.",
+      "text": "Bu yo’g’on ichakdagi bakteriyalar hosil qiladigan kislotali mahsulotlarni neytrallaydi.",
       "depth": 0
      }
     ],
@@ -1264,7 +1264,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Epiteliy burmalari orasidagi chuqurliklarda doimiy bo'linib turadigan yetilmagan hujayralar bor.",
+      "text": "Epiteliy burmalari orasidagi chuqurliklarda doimiy bo’linib turadigan yetilmagan hujayralar bor.",
       "depth": 0
      },
      {
@@ -1272,7 +1272,7 @@
       "depth": 1
      },
      {
-      "text": "Tashqaridagi eski hujayralar buni qayta so'radi. Bu oqim hazm mahsulotlarini so'rish uchun suyuq muhit beradi.",
+      "text": "Tashqaridagi eski hujayralar buni qayta so’radi. Bu oqim hazm mahsulotlarini so’rish uchun suyuq muhit beradi.",
       "depth": 1
      },
      {
@@ -1280,11 +1280,11 @@
       "depth": 0
      },
      {
-      "text": "Qayta so'rilishdan ko'p bo'lib, kuniga 5–10 l suv va NaCl yo'qoladi.",
+      "text": "Qayta so’rilishdan ko’p bo’lib, kuniga 5–10 l suv va NaCl yo’qoladi.",
       "depth": 1
      },
      {
-      "text": "Ko'p og'ir bemorlar faqat suyuqlik yo'qotishidan 1–5 kunda o'ladi.",
+      "text": "Ko’p og’ir bemorlar faqat suyuqlik yo’qotishidan 1–5 kunda o’ladi.",
       "depth": 1
      },
      {
@@ -1296,7 +1296,7 @@
       "depth": 1
      },
      {
-      "text": "Ortiqcha cAMP hosil bo'ladi va juda ko'p xlor kanallari ochiladi.",
+      "text": "Ortiqcha cAMP hosil bo’ladi va juda ko’p xlor kanallari ochiladi.",
       "depth": 1
      },
      {
@@ -1312,11 +1312,11 @@
       "depth": 1
      },
      {
-      "text": "Suyuqlik bakteriyalarni yuvadi va kasallikka qarshi foydali, lekin ortiqchasi og'ir suvsizlanish bilan o'ldiradi.",
+      "text": "Suyuqlik bakteriyalarni yuvadi va kasallikka qarshi foydali, lekin ortiqchasi og’ir suvsizlanish bilan o’ldiradi.",
       "depth": 0
      },
      {
-      "text": "Ko'p hollarda juda ko'p NaCl eritmasi yuborib hayot saqlab qolinadi.",
+      "text": "Ko’p hollarda juda ko’p NaCl eritmasi yuborib hayot saqlab qolinadi.",
       "depth": 0
      }
     ],
@@ -1324,7 +1324,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Ca, Fe, K, Mg, fosfat faol so'riladi:**",
+    "text": "**Ca, Fe, K, Mg, fosfat faol so’riladi:**",
     "bid": "ch66-u59"
    },
    {
@@ -1332,7 +1332,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Kalsiy:** asosan o'n ikki barmoqli ichakda, tananing kunlik ehtiyojiga aniq mos holda.",
+      "text": "**Kalsiy:** asosan o’n ikki barmoqli ichakda, tananing kunlik ehtiyojiga aniq mos holda.",
       "depth": 0
      },
      {
@@ -1340,19 +1340,19 @@
       "depth": 1
      },
      {
-      "text": "Paratgormon D vitaminini faollashtiradi, faol D vitamini Ca so'rilishini keskin oshiradi (80-bob).",
+      "text": "Paratgormon D vitaminini faollashtiradi, faol D vitamini Ca so’rilishini keskin oshiradi (80-bob).",
       "depth": 1
      },
      {
-      "text": "**Temir:** ingichka ichakda faol so'riladi va ehtiyojga mos boshqariladi, ayniqsa gemoglobin uchun (33-bob).",
+      "text": "**Temir:** ingichka ichakda faol so’riladi va ehtiyojga mos boshqariladi, ayniqsa gemoglobin uchun (33-bob).",
       "depth": 0
      },
      {
-      "text": "**K, Mg, fosfat** va ehtimol boshqa ionlar ham faol so'riladi.",
+      "text": "**K, Mg, fosfat** va ehtimol boshqa ionlar ham faol so’riladi.",
       "depth": 0
      },
      {
-      "text": "Bir valentli ionlar oson va ko'p so'riladi. Ikki valentlilar odatda oz so'riladi: Ca ning maksimal so'rilishi Na ning normal so'rilishidan atigi 1/50 qismi. Baxtimizga, ular kam kerak.",
+      "text": "Bir valentli ionlar oson va ko’p so’riladi. Ikki valentlilar odatda oz so’riladi: Ca ning maksimal so’rilishi Na ning normal so’rilishidan atigi 1/50 qismi. Baxtimizga, ular kam kerak.",
       "depth": 0
      }
     ],
@@ -1361,7 +1361,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Ozuqalar so'rilishi",
+    "text": "Ozuqalar so’rilishi",
     "id": "ch66-s-61-ozuqalar-sorilishi",
     "bid": "ch66-u61"
    },
@@ -1375,11 +1375,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Disaxarid sifatida oz, kattaroq birikma sifatida deyarli umuman so'rilmaydi.",
+      "text": "Disaxarid sifatida oz, kattaroq birikma sifatida deyarli umuman so’rilmaydi.",
       "depth": 0
      },
      {
-      "text": "Glyukoza so'rilgan uglevod kaloriyalarining 80% dan ko'pini tashkil qiladi, chunki eng ko'p uglevod ovqati bo'lgan kraxmalning yakuniy mahsuloti.",
+      "text": "Glyukoza so’rilgan uglevod kaloriyalarining 80% dan ko’pini tashkil qiladi, chunki eng ko’p uglevod ovqati bo’lgan kraxmalning yakuniy mahsuloti.",
       "depth": 0
      },
      {
@@ -1387,7 +1387,7 @@
       "depth": 0
      },
      {
-      "text": "Deyarli barchasi ikkilamchi faol tashish bilan so'riladi.",
+      "text": "Deyarli barchasi ikkilamchi faol tashish bilan so’riladi.",
       "depth": 0
      }
     ],
@@ -1403,7 +1403,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Na tashilmasa, glyukoza deyarli umuman so'rilmaydi.",
+      "text": "Na tashilmasa, glyukoza deyarli umuman so’rilmaydi.",
       "depth": 0
      },
      {
@@ -1415,19 +1415,19 @@
       "depth": 1
      },
      {
-      "text": "Bo'shliqdagi Na cho'tkasimon hoshiya orqali ikkilamchi faol tashish bilan kiradi.",
+      "text": "Bo’shliqdagi Na cho’tkasimon hoshiya orqali ikkilamchi faol tashish bilan kiradi.",
       "depth": 1
      },
      {
-      "text": "Na **SGLT1** ga bog'lanadi, lekin SGLT1 glyukozaga ham bog'lanmaguncha tashimaydi.",
+      "text": "Na **SGLT1** ga bog’lanadi, lekin SGLT1 glyukozaga ham bog’lanmaguncha tashimaydi.",
       "depth": 2
      },
      {
-      "text": "Ikkalasi bog'langach birga hujayraga o'tadi. Hujayradagi past Na Na ni \"tortadi\", glyukoza esa u bilan birga kiradi.",
+      "text": "Ikkalasi bog’langach birga hujayraga o’tadi. Hujayradagi past Na Na ni \"tortadi\", glyukoza esa u bilan birga kiradi.",
       "depth": 2
      },
      {
-      "text": "Hujayra ichida **GLUT2** glyukozani bazolateral membranadan paratsellyulyar bo'shliqqa va qonga yengillashtirilgan diffuziya bilan chiqaradi.",
+      "text": "Hujayra ichida **GLUT2** glyukozani bazolateral membranadan paratsellyulyar bo’shliqqa va qonga yengillashtirilgan diffuziya bilan chiqaradi.",
       "depth": 0
      },
      {
@@ -1455,7 +1455,7 @@
       "depth": 0
      },
      {
-      "text": "Na kotransporti yo'q, butun epiteliy orqali yengillashtirilgan diffuziya bilan o'tadi.",
+      "text": "Na kotransporti yo’q, butun epiteliy orqali yengillashtirilgan diffuziya bilan o’tadi.",
       "depth": 1
      },
      {
@@ -1463,7 +1463,7 @@
       "depth": 1
      },
      {
-      "text": "Bir qismi hujayrada fosforillanib glyukozaga aylanadi va glyukoza sifatida qonga o'tadi.",
+      "text": "Bir qismi hujayrada fosforillanib glyukozaga aylanadi va glyukoza sifatida qonga o’tadi.",
       "depth": 1
      },
      {
@@ -1483,23 +1483,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "Ko'pi Na kotransporti bilan, glyukozaga o'xshab tashiladi.",
+      "text": "Ko’pi Na kotransporti bilan, glyukozaga o’xshab tashiladi.",
       "depth": 0
      },
      {
-      "text": "Peptid yoki aminokislota mikrovorsinka membranasidagi maxsus oqsilga bog'lanadi. Bu oqsil tashishdan oldin Na bog'lanishini talab qiladi.",
+      "text": "Peptid yoki aminokislota mikrovorsinka membranasidagi maxsus oqsilga bog’lanadi. Bu oqsil tashishdan oldin Na bog’lanishini talab qiladi.",
       "depth": 1
      },
      {
-      "text": "Na elektrokimyoviy gradient bo'ylab ichkariga o'tib, aminokislota yoki peptidni o'zi bilan tortadi.",
+      "text": "Na elektrokimyoviy gradient bo’ylab ichkariga o’tib, aminokislota yoki peptidni o’zi bilan tortadi.",
       "depth": 1
      },
      {
-      "text": "Bir nechta aminokislota Na siz, fruktoza kabi yengillashtirilgan diffuziya bilan maxsus oqsillar orqali o'tadi.",
+      "text": "Bir nechta aminokislota Na siz, fruktoza kabi yengillashtirilgan diffuziya bilan maxsus oqsillar orqali o’tadi.",
       "depth": 0
      },
      {
-      "text": "Kamida 10 xil tashuvchi oqsil bor, chunki aminokislota va peptidlarning bog'lanish xossalari xilma-xil.",
+      "text": "Kamida 10 xil tashuvchi oqsil bor, chunki aminokislota va peptidlarning bog’lanish xossalari xilma-xil.",
       "depth": 0
      }
     ],
@@ -1507,7 +1507,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Yog'lar:**",
+    "text": "**Yog’lar:**",
     "bid": "ch66-u70"
    },
    {
@@ -1515,15 +1515,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Monogliseridlar va erkin yog' kislotalari o't mitsellalarining markaziy lipid qismida eriydi.",
+      "text": "Monogliseridlar va erkin yog' kislotalari o’t mitsellalarining markaziy lipid qismida eriydi.",
       "depth": 0
      },
      {
-      "text": "Mitsellalar 3–6 nm va zaryadli bo'lgani uchun ximusda eriydi.",
+      "text": "Mitsellalar 3–6 nm va zaryadli bo’lgani uchun ximusda eriydi.",
       "depth": 1
      },
      {
-      "text": "Ular cho'tkasimon hoshiya yuzasiga tashiladi va harakatlanayotgan mikrovorsinkalar orasiga kiradi.",
+      "text": "Ular cho’tkasimon hoshiya yuzasiga tashiladi va harakatlanayotgan mikrovorsinkalar orasiga kiradi.",
       "depth": 1
      },
      {
@@ -1535,7 +1535,7 @@
       "depth": 0
      },
      {
-      "text": "Mitsellalar ko'p bo'lsa, yog'ning taxminan 97% so'riladi.",
+      "text": "Mitsellalar ko’p bo’lsa, yog’ning taxminan 97% so’riladi.",
       "depth": 1
      },
      {
@@ -1543,7 +1543,7 @@
       "depth": 1
      },
      {
-      "text": "Hujayra ichida silliq endoplazmatik to'rda asosan yangi triglitseridlarga aylanadi.",
+      "text": "Hujayra ichida silliq endoplazmatik to’rda asosan yangi triglitseridlarga aylanadi.",
       "depth": 0
      },
      {
@@ -1551,19 +1551,19 @@
       "depth": 1
      },
      {
-      "text": "Ko'krak limfa yo'li orqali yuqoriga oqib, qonga quyiladi.",
+      "text": "Ko’krak limfa yo’li orqali yuqoriga oqib, qonga quyiladi.",
       "depth": 1
      },
      {
-      "text": "**Qisqa va o'rta zanjirli yog' kislotalari** (masalan, sariyog'dan):",
+      "text": "**Qisqa va o’rta zanjirli yog' kislotalari** (masalan, sariyog’dan):",
       "depth": 0
      },
      {
-      "text": "Oz miqdorda to'g'ridan-to'g'ri darvoza venasi qoniga so'riladi.",
+      "text": "Oz miqdorda to’g’ridan-to’g’ri darvoza venasi qoniga so’riladi.",
       "depth": 1
      },
      {
-      "text": "Ular suvda ko'proq eriydi va endoplazmatik to'rda ko'pincha triglitseridga qayta aylanmaydi, shuning uchun vorsinka kapillyarlariga diffuziyalanadi.",
+      "text": "Ular suvda ko’proq eriydi va endoplazmatik to’rda ko’pincha triglitseridga qayta aylanmaydi, shuning uchun vorsinka kapillyarlariga diffuziyalanadi.",
       "depth": 1
      }
     ],
@@ -1572,7 +1572,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Yo'g'on ichakda so'rilish va najas hosil bo'lishi",
+    "text": "Yo’g’on ichakda so’rilish va najas hosil bo’lishi",
     "id": "ch66-s-72-yogon-ichakda-sorilish-va-najas-hosil-bolishi",
     "bid": "ch66-u72"
    },
@@ -1581,19 +1581,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Kuniga taxminan 1500 ml ximus ileotsekal klapandan o'tadi.",
+      "text": "Kuniga taxminan 1500 ml ximus ileotsekal klapandan o’tadi.",
       "depth": 0
      },
      {
-      "text": "Suv va elektrolitlarning ko'pi yo'g'on ichakda so'riladi, najas bilan odatda 100 ml dan kam suyuqlik chiqadi.",
+      "text": "Suv va elektrolitlarning ko’pi yo’g’on ichakda so’riladi, najas bilan odatda 100 ml dan kam suyuqlik chiqadi.",
       "depth": 1
      },
      {
-      "text": "Deyarli barcha ionlar so'riladi, najasda faqat 1–5 mEq Na va Cl qoladi.",
+      "text": "Deyarli barcha ionlar so’riladi, najasda faqat 1–5 mEq Na va Cl qoladi.",
       "depth": 1
      },
      {
-      "text": "So'rilishning ko'pi proksimal yarmida, shuning uchun u **so'ruvchi kolon** deyiladi. Distal qism asosan qulay vaqtgacha najasni saqlaydi, **saqlovchi kolon**.",
+      "text": "So’rilishning ko’pi proksimal yarmida, shuning uchun u **so’ruvchi kolon** deyiladi. Distal qism asosan qulay vaqtgacha najasni saqlaydi, **saqlovchi kolon**.",
       "depth": 0
      }
     ],
@@ -1609,7 +1609,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Na faol so'rilishi yuqori, hosil bo'lgan potensial Cl⁻ ni ham so'radi.",
+      "text": "Na faol so’rilishi yuqori, hosil bo’lgan potensial Cl⁻ ni ham so’radi.",
       "depth": 0
      },
      {
@@ -1617,11 +1617,11 @@
       "depth": 0
      },
      {
-      "text": "Ionlarning qaytib diffuziyasi deyarli yo'q.",
+      "text": "Ionlarning qaytib diffuziyasi deyarli yo’q.",
       "depth": 1
      },
      {
-      "text": "Na ancha to'liqroq, ya'ni yuqoriroq konsentratsiya gradientiga qarshi so'riladi. Aldosteron ko'p bo'lsa, ayniqsa kuchli.",
+      "text": "Na ancha to’liqroq, ya’ni yuqoriroq konsentratsiya gradientiga qarshi so’riladi. Aldosteron ko’p bo’lsa, ayniqsa kuchli.",
       "depth": 1
      },
      {
@@ -1629,7 +1629,7 @@
       "depth": 0
      },
      {
-      "text": "Na va Cl so'rilishi osmotik gradient hosil qiladi va suv so'riladi.",
+      "text": "Na va Cl so’rilishi osmotik gradient hosil qiladi va suv so’riladi.",
       "depth": 0
      }
     ],
@@ -1645,11 +1645,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Ileotsekal klapan orqali va yo'g'on ichak sekretsiyasi bilan kelgan umumiy miqdor bundan oshsa, ortig'i diareya bo'lib chiqadi.",
+      "text": "Ileotsekal klapan orqali va yo’g’on ichak sekretsiyasi bilan kelgan umumiy miqdor bundan oshsa, ortig’i diareya bo’lib chiqadi.",
       "depth": 0
      },
      {
-      "text": "Vabo va ayrim boshqa bakterial toksinlar terminal yonbosh ichak va yo'g'on ichak kriptalaridan kuniga 10 l yoki ko'proq sekretsiya chaqiradi. Bu og'ir, ba'zan o'limga olib keluvchi diareya.",
+      "text": "Vabo va ayrim boshqa bakterial toksinlar terminal yonbosh ichak va yo’g’on ichak kriptalaridan kuniga 10 l yoki ko’proq sekretsiya chaqiradi. Bu og’ir, ba’zan o’limga olib keluvchi diareya.",
       "depth": 0
      }
     ],
@@ -1665,11 +1665,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "So'ruvchi kolonda normada ham ko'p bakteriyalar bor, ayniqsa ichak tayoqchalari.",
+      "text": "So’ruvchi kolonda normada ham ko’p bakteriyalar bor, ayniqsa ichak tayoqchalari.",
       "depth": 0
      },
      {
-      "text": "Oz miqdorda sellulozani hazm qilib, bir necha kaloriya beradi. O'txo'r hayvonlarda bu muhim, odamda ahamiyatsiz.",
+      "text": "Oz miqdorda sellulozani hazm qilib, bir necha kaloriya beradi. O’txo’r hayvonlarda bu muhim, odamda ahamiyatsiz.",
       "depth": 0
      },
      {
@@ -1709,7 +1709,7 @@
       "depth": 0
      },
      {
-      "text": "Taxminan 30% o'lik bakteriyalar.",
+      "text": "Taxminan 30% o’lik bakteriyalar.",
       "depth": 1
      },
      {
@@ -1725,7 +1725,7 @@
       "depth": 1
      },
      {
-      "text": "Taxminan 30% hazm bo'lmagan dag'al qoldiqlar va hazm shiralarining quruq tarkibiy qismlari (o't pigmenti, ko'chgan epiteliy hujayralari).",
+      "text": "Taxminan 30% hazm bo’lmagan dag’al qoldiqlar va hazm shiralarining quruq tarkibiy qismlari (o’t pigmenti, ko’chgan epiteliy hujayralari).",
       "depth": 1
      },
      {
@@ -1755,23 +1755,23 @@
       "depth": 0
      },
      {
-      "text": "Pepsin yetishmasa, go'sht yomon hazm bo'ladi.",
+      "text": "Pepsin yetishmasa, go’sht yomon hazm bo’ladi.",
       "depth": 0
      },
      {
-      "text": "Butun oqsil so'rilishi allergiya chaqirishi mumkin.",
+      "text": "Butun oqsil so’rilishi allergiya chaqirishi mumkin.",
       "depth": 0
      },
      {
-      "text": "O't mitsellalari bo'lmasa, yog'ning faqat 40–50% so'riladi, xolesterol deyarli so'rilmaydi.",
+      "text": "O’t mitsellalari bo’lmasa, yog’ning faqat 40–50% so’riladi, xolesterol deyarli so’rilmaydi.",
       "depth": 0
      },
      {
-      "text": "Og'ir diareyada Na tez yo'qoladi.",
+      "text": "Og’ir diareyada Na tez yo’qoladi.",
       "depth": 0
      },
      {
-      "text": "Vabo: cAMP va xlor kanallari orqali kuniga 5–10 l yo'qotish. NaCl eritmasi bilan davolanadi.",
+      "text": "Vabo: cAMP va xlor kanallari orqali kuniga 5–10 l yo’qotish. NaCl eritmasi bilan davolanadi.",
       "depth": 0
      },
      {
@@ -1779,7 +1779,7 @@
       "depth": 0
      },
      {
-      "text": "Ca so'rilishi paratgormon va D vitaminiga bog'liq.",
+      "text": "Ca so’rilishi paratgormon va D vitaminiga bog’liq.",
       "depth": 0
      },
      {
@@ -1792,7 +1792,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Bog'liqlik",
+    "text": "Bog’liqlik",
     "id": "ch66-s-84-bogliqlik",
     "bid": "ch66-u84"
    },
@@ -2601,9 +2601,9 @@
   },
   {
    "id": "ch66-t-yoglar",
-   "termUz": "Yog'lar",
+   "termUz": "Yog’lar",
    "original": null,
-   "contextUz": "Yog'lar: triglitserid (1 glitserin va 3 yog' kislotasi, 3 molekula suv ajralgan) 3 molekula suv bilan parchalanadi.",
+   "contextUz": "Yog’lar: triglitserid (1 glitserin va 3 yog' kislotasi, 3 molekula suv ajralgan) 3 molekula suv bilan parchalanadi.",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -2613,7 +2613,7 @@
    "id": "ch66-t-oqsillar",
    "termUz": "Oqsillar",
    "original": null,
-   "contextUz": "Oqsillar: peptid bog'lar gidroliz bilan uziladi.",
+   "contextUz": "Oqsillar: peptid bog’lar gidroliz bilan uziladi.",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -2653,7 +2653,7 @@
    "id": "ch66-t-kraxmallar",
    "termUz": "Kraxmallar",
    "original": null,
-   "contextUz": "Kraxmallar: deyarli barcha o'simlik ovqatlaridagi, ayniqsa kartoshka va donlardagi yirik polisaxaridlar.",
+   "contextUz": "Kraxmallar: deyarli barcha o’simlik ovqatlaridagi, ayniqsa kartoshka va donlardagi yirik polisaxaridlar.",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -2663,7 +2663,7 @@
    "id": "ch66-t-selluloza",
    "termUz": "Selluloza",
    "original": null,
-   "contextUz": "Selluloza ko'p, lekin odamda uni parchalovchi ferment yo'q, shuning uchun ozuqa emas.",
+   "contextUz": "Selluloza ko’p, lekin odamda uni parchalovchi ferment yo’q, shuning uchun ozuqa emas.",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -2671,9 +2671,9 @@
   },
   {
    "id": "ch66-t-ogiz-va-oshqozon",
-   "termUz": "Og'iz va oshqozon",
+   "termUz": "Og’iz va oshqozon",
    "original": null,
-   "contextUz": "Og'iz va oshqozon:",
+   "contextUz": "Og’iz va oshqozon:",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -2683,7 +2683,7 @@
    "id": "ch66-t-ptialin",
    "termUz": "ptialin",
    "original": "α-amilaza, asosan quloq oldi bezidan",
-   "contextUz": "So'lakdagi ptialin (α-amilaza, asosan quloq oldi bezidan) kraxmalni maltoza va 3–9 glyukozali polimerlarga parchalaydi.",
+   "contextUz": "So’lakdagi ptialin (α-amilaza, asosan quloq oldi bezidan) kraxmalni maltoza va 3–9 glyukozali polimerlarga parchalaydi.",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -2691,9 +2691,9 @@
   },
   {
    "id": "ch66-t-meda-osti-bezi-amilazasi",
-   "termUz": "Me'da osti bezi amilazasi",
+   "termUz": "Me’da osti bezi amilazasi",
    "original": null,
-   "contextUz": "Me'da osti bezi amilazasi:",
+   "contextUz": "Me’da osti bezi amilazasi:",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -2713,7 +2713,7 @@
    "id": "ch66-t-laktaza-saxaraza-maltaza-dekstrinaza",
    "termUz": "laktaza, saxaraza, maltaza, α-dekstrinaza",
    "original": null,
-   "contextUz": "Vorsinkalar enterotsitlarining mikrovorsinkali cho'tkasimon hoshiyasida to'rtta ferment: laktaza, saxaraza, maltaza, α-dekstrinaza.",
+   "contextUz": "Vorsinkalar enterotsitlarining mikrovorsinkali cho’tkasimon hoshiyasida to’rtta ferment: laktaza, saxaraza, maltaza, α-dekstrinaza.",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -2733,7 +2733,7 @@
    "id": "ch66-t-kollagenni-hazm-qila-oladi",
    "termUz": "Kollagenni hazm qila oladi.",
    "original": null,
-   "contextUz": "Kollagenni hazm qila oladi. Kollagen go'shtning hujayralararo biriktiruvchi to'qimasida asosiy oqsil, boshqa fermentlar unga kam ta'sir qiladi.",
+   "contextUz": "Kollagenni hazm qila oladi. Kollagen go’shtning hujayralararo biriktiruvchi to’qimasida asosiy oqsil, boshqa fermentlar unga kam ta’sir qiladi.",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -2741,9 +2741,9 @@
   },
   {
    "id": "ch66-t-asosiy-hazm-meda-osti-bezi-fermentlari-bilan",
-   "termUz": "Asosiy hazm me'da osti bezi fermentlari bilan",
-   "original": "o'n ikki barmoqli va och ichak",
-   "contextUz": "Asosiy hazm me'da osti bezi fermentlari bilan (o'n ikki barmoqli va och ichak):",
+   "termUz": "Asosiy hazm me’da osti bezi fermentlari bilan",
+   "original": "o’n ikki barmoqli va och ichak",
+   "contextUz": "Asosiy hazm me’da osti bezi fermentlari bilan (o’n ikki barmoqli va och ichak):",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -2752,8 +2752,8 @@
   {
    "id": "ch66-t-enterotsit-peptidazalari",
    "termUz": "Enterotsit peptidazalari",
-   "original": "asosan o'n ikki barmoqli va och ichak",
-   "contextUz": "Enterotsit peptidazalari (asosan o'n ikki barmoqli va och ichak):",
+   "original": "asosan o’n ikki barmoqli va och ichak",
+   "contextUz": "Enterotsit peptidazalari (asosan o’n ikki barmoqli va och ichak):",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -2781,9 +2781,9 @@
   },
   {
    "id": "ch66-t-ratsiondagi-yoglar",
-   "termUz": "Ratsiondagi yog'lar",
+   "termUz": "Ratsiondagi yog’lar",
    "original": null,
-   "contextUz": "Ratsiondagi yog'lar:",
+   "contextUz": "Ratsiondagi yog’lar:",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -2791,9 +2791,9 @@
   },
   {
    "id": "ch66-t-neytral-yoglar-triglitseridlar",
-   "termUz": "neytral yog'lar (triglitseridlar)",
+   "termUz": "neytral yog’lar (triglitseridlar)",
    "original": null,
-   "contextUz": "Eng ko'pi neytral yog'lar (triglitseridlar): glitserin va 3 ta yog' kislotasi.",
+   "contextUz": "Eng ko’pi neytral yog’lar (triglitseridlar): glitserin va 3 ta yog' kislotasi.",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -2803,7 +2803,7 @@
    "id": "ch66-t-oshqozonda",
    "termUz": "Oshqozonda",
    "original": null,
-   "contextUz": "Oshqozonda: til bezlari ajratib so'lak bilan yutiladigan til lipazasi triglitseridlarning 10% dan kamini hazm qiladi, ahamiyati kam.",
+   "contextUz": "Oshqozonda: til bezlari ajratib so’lak bilan yutiladigan til lipazasi triglitseridlarning 10% dan kamini hazm qiladi, ahamiyati kam.",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -2813,7 +2813,7 @@
    "id": "ch66-t-til-lipazasi",
    "termUz": "til lipazasi",
    "original": null,
-   "contextUz": "Oshqozonda: til bezlari ajratib so'lak bilan yutiladigan til lipazasi triglitseridlarning 10% dan kamini hazm qiladi, ahamiyati kam.",
+   "contextUz": "Oshqozonda: til bezlari ajratib so’lak bilan yutiladigan til lipazasi triglitseridlarning 10% dan kamini hazm qiladi, ahamiyati kam.",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -2833,7 +2833,7 @@
    "id": "ch66-t-letsitin",
    "termUz": "letsitin",
    "original": null,
-   "contextUz": "O'tda ferment yo'q, lekin ko'p o't tuzlari va fosfolipid letsitin bor.",
+   "contextUz": "O’tda ferment yo’q, lekin ko’p o’t tuzlari va fosfolipid letsitin bor.",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -2841,9 +2841,9 @@
   },
   {
    "id": "ch66-t-2-qadam-meda-osti-bezi-lipazasi",
-   "termUz": "2-qadam: me'da osti bezi lipazasi",
+   "termUz": "2-qadam: me’da osti bezi lipazasi",
    "original": null,
-   "contextUz": "2-qadam: me'da osti bezi lipazasi",
+   "contextUz": "2-qadam: me’da osti bezi lipazasi",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -2853,7 +2853,7 @@
    "id": "ch66-t-enterik-lipaza",
    "termUz": "enterik lipaza",
    "original": null,
-   "contextUz": "Enterotsitlarda enterik lipaza ham bor, lekin odatda kerak bo'lmaydi.",
+   "contextUz": "Enterotsitlarda enterik lipaza ham bor, lekin odatda kerak bo’lmaydi.",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -2883,7 +2883,7 @@
    "id": "ch66-t-mitsellalar",
    "termUz": "mitsellalar",
    "original": null,
-   "contextUz": "Konsentratsiya yetarli bo'lsa, o't tuzlari mitsellalar hosil qiladi: diametri 3–6 nm, 20–40 molekuladan iborat sferik yoki silindrik globulalar.",
+   "contextUz": "Konsentratsiya yetarli bo’lsa, o’t tuzlari mitsellalar hosil qiladi: diametri 3–6 nm, 20–40 molekuladan iborat sferik yoki silindrik globulalar.",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -2903,7 +2903,7 @@
    "id": "ch66-t-xolesterol-efir-gidrolazasi",
    "termUz": "Xolesterol efir gidrolazasi",
    "original": null,
-   "contextUz": "Me'da osti bezining ikki lipazasi gidrolizlaydi: Xolesterol efir gidrolazasi xolesterol efirini.",
+   "contextUz": "Me’da osti bezining ikki lipazasi gidrolizlaydi: Xolesterol efir gidrolazasi xolesterol efirini.",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -2921,9 +2921,9 @@
   },
   {
    "id": "ch66-t-oshqozon-yomon-soradi",
-   "termUz": "Oshqozon yomon so'radi",
+   "termUz": "Oshqozon yomon so’radi",
    "original": null,
-   "contextUz": "Oshqozon yomon so'radi: vorsinkasimon so'ruvchi membranasi yo'q va hujayralar orasida zich birikmalar.",
+   "contextUz": "Oshqozon yomon so’radi: vorsinkasimon so’ruvchi membranasi yo’q va hujayralar orasida zich birikmalar.",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -2931,9 +2931,9 @@
   },
   {
    "id": "ch66-t-sorilish-yuzasini-oshiruvchi-tuzilmalar",
-   "termUz": "So'rilish yuzasini oshiruvchi tuzilmalar",
+   "termUz": "So’rilish yuzasini oshiruvchi tuzilmalar",
    "original": null,
-   "contextUz": "So'rilish yuzasini oshiruvchi tuzilmalar:",
+   "contextUz": "So’rilish yuzasini oshiruvchi tuzilmalar:",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -2961,9 +2961,9 @@
   },
   {
    "id": "ch66-t-mikrovorsinkalar-chotkasimon-hoshiya",
-   "termUz": "Mikrovorsinkalar (cho'tkasimon hoshiya)",
+   "termUz": "Mikrovorsinkalar (cho’tkasimon hoshiya)",
    "original": null,
-   "contextUz": "Mikrovorsinkalar (cho'tkasimon hoshiya): har bir hujayrada 1000 tagacha, uzunligi 1 µm, diametri 0.",
+   "contextUz": "Mikrovorsinkalar (cho’tkasimon hoshiya): har bir hujayrada 1000 tagacha, uzunligi 1 µm, diametri 0.",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -2983,7 +2983,7 @@
    "id": "ch66-t-markaziy-limfa-tomiri",
    "termUz": "markaziy limfa tomiri",
    "original": "central lacteal",
-   "contextUz": "Limfaga so'rish uchun markaziy limfa tomiri (central lacteal).",
+   "contextUz": "Limfaga so’rish uchun markaziy limfa tomiri (central lacteal).",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -3001,9 +3001,9 @@
   },
   {
    "id": "ch66-t-suv-izosmotik-soriladi",
-   "termUz": "Suv izosmotik so'riladi",
+   "termUz": "Suv izosmotik so’riladi",
    "original": null,
-   "contextUz": "Suv izosmotik so'riladi:",
+   "contextUz": "Suv izosmotik so’riladi:",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -3023,7 +3023,7 @@
    "id": "ch66-t-bazolateral-na-k-atpaza",
    "termUz": "Bazolateral Na⁺-K⁺ ATPaza",
    "original": null,
-   "contextUz": "Mexanizm o't pufagi va buyrak kanalchalaridagiga o'xshash (4 va 28-boblar): Bazolateral Na⁺-K⁺ ATPaza Na ni hujayradan paratsellyulyar bo'shliqqa faol chiqaradi.",
+   "contextUz": "Mexanizm o’t pufagi va buyrak kanalchalaridagiga o’xshash (4 va 28-boblar): Bazolateral Na⁺-K⁺ ATPaza Na ni hujayradan paratsellyulyar bo’shliqqa faol chiqaradi.",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -3041,9 +3041,9 @@
   },
   {
    "id": "ch66-t-aldosteron-na-sorilishini-keskin-oshiradi",
-   "termUz": "Aldosteron Na so'rilishini keskin oshiradi",
+   "termUz": "Aldosteron Na so’rilishini keskin oshiradi",
    "original": null,
-   "contextUz": "Aldosteron Na so'rilishini keskin oshiradi:",
+   "contextUz": "Aldosteron Na so’rilishini keskin oshiradi:",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -3063,7 +3063,7 @@
    "id": "ch66-t-cl-hco-almashtirgichi",
    "termUz": "Cl⁻-HCO₃⁻ almashtirgichi",
    "original": null,
-   "contextUz": "Yonbosh va yo'g'on ichak qismlarida cho'tkasimon hoshiyadagi Cl⁻-HCO₃⁻ almashtirgichi orqali ham so'riladi.",
+   "contextUz": "Yonbosh va yo’g’on ichak qismlarida cho’tkasimon hoshiyadagi Cl⁻-HCO₃⁻ almashtirgichi orqali ham so’riladi.",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -3071,9 +3071,9 @@
   },
   {
    "id": "ch66-t-bikarbonat-on-ikki-barmoqli-va-och-ichak",
-   "termUz": "Bikarbonat (o'n ikki barmoqli va och ichak)",
+   "termUz": "Bikarbonat (o’n ikki barmoqli va och ichak)",
    "original": null,
-   "contextUz": "Bikarbonat (o'n ikki barmoqli va och ichak):",
+   "contextUz": "Bikarbonat (o’n ikki barmoqli va och ichak):",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -3081,9 +3081,9 @@
   },
   {
    "id": "ch66-t-yonbosh-va-yogon-ichakda-hco-sekretsiyasi",
-   "termUz": "Yonbosh va yo'g'on ichakda HCO₃⁻ sekretsiyasi",
+   "termUz": "Yonbosh va yo’g’on ichakda HCO₃⁻ sekretsiyasi",
    "original": null,
-   "contextUz": "Yonbosh va yo'g'on ichakda HCO₃⁻ sekretsiyasi:",
+   "contextUz": "Yonbosh va yo’g’on ichakda HCO₃⁻ sekretsiyasi:",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -3111,9 +3111,9 @@
   },
   {
    "id": "ch66-t-ca-fe-k-mg-fosfat-faol-soriladi",
-   "termUz": "Ca, Fe, K, Mg, fosfat faol so'riladi",
+   "termUz": "Ca, Fe, K, Mg, fosfat faol so’riladi",
    "original": null,
-   "contextUz": "Ca, Fe, K, Mg, fosfat faol so'riladi:",
+   "contextUz": "Ca, Fe, K, Mg, fosfat faol so’riladi:",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -3123,7 +3123,7 @@
    "id": "ch66-t-kalsiy",
    "termUz": "Kalsiy",
    "original": null,
-   "contextUz": "Kalsiy: asosan o'n ikki barmoqli ichakda, tananing kunlik ehtiyojiga aniq mos holda.",
+   "contextUz": "Kalsiy: asosan o’n ikki barmoqli ichakda, tananing kunlik ehtiyojiga aniq mos holda.",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -3133,7 +3133,7 @@
    "id": "ch66-t-temir",
    "termUz": "Temir",
    "original": null,
-   "contextUz": "Temir: ingichka ichakda faol so'riladi va ehtiyojga mos boshqariladi, ayniqsa gemoglobin uchun (33-bob).",
+   "contextUz": "Temir: ingichka ichakda faol so’riladi va ehtiyojga mos boshqariladi, ayniqsa gemoglobin uchun (33-bob).",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -3143,7 +3143,7 @@
    "id": "ch66-t-k-mg-fosfat",
    "termUz": "K, Mg, fosfat",
    "original": null,
-   "contextUz": "K, Mg, fosfat va ehtimol boshqa ionlar ham faol so'riladi.",
+   "contextUz": "K, Mg, fosfat va ehtimol boshqa ionlar ham faol so’riladi.",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -3173,7 +3173,7 @@
    "id": "ch66-t-sglt1",
    "termUz": "SGLT1",
    "original": null,
-   "contextUz": "Na SGLT1 ga bog'lanadi, lekin SGLT1 glyukozaga ham bog'lanmaguncha tashimaydi.",
+   "contextUz": "Na SGLT1 ga bog’lanadi, lekin SGLT1 glyukozaga ham bog’lanmaguncha tashimaydi.",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -3183,7 +3183,7 @@
    "id": "ch66-t-glut2",
    "termUz": "GLUT2",
    "original": null,
-   "contextUz": "Hujayra ichida GLUT2 glyukozani bazolateral membranadan paratsellyulyar bo'shliqqa va qonga yengillashtirilgan diffuziya bilan chiqaradi.",
+   "contextUz": "Hujayra ichida GLUT2 glyukozani bazolateral membranadan paratsellyulyar bo’shliqqa va qonga yengillashtirilgan diffuziya bilan chiqaradi.",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -3213,7 +3213,7 @@
    "id": "ch66-t-fruktoza",
    "termUz": "Fruktoza",
    "original": null,
-   "contextUz": "Fruktoza: Na kotransporti yo'q, butun epiteliy orqali yengillashtirilgan diffuziya bilan o'tadi.",
+   "contextUz": "Fruktoza: Na kotransporti yo’q, butun epiteliy orqali yengillashtirilgan diffuziya bilan o’tadi.",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -3251,9 +3251,9 @@
   },
   {
    "id": "ch66-t-qisqa-va-orta-zanjirli-yog-kislotalari",
-   "termUz": "Qisqa va o'rta zanjirli yog' kislotalari",
-   "original": "masalan, sariyog'dan",
-   "contextUz": "Qisqa va o'rta zanjirli yog' kislotalari (masalan, sariyog'dan): Oz miqdorda to'g'ridan-to'g'ri darvoza venasi qoniga so'riladi.",
+   "termUz": "Qisqa va o’rta zanjirli yog' kislotalari",
+   "original": "masalan, sariyog’dan",
+   "contextUz": "Qisqa va o’rta zanjirli yog' kislotalari (masalan, sariyog’dan): Oz miqdorda to’g’ridan-to’g’ri darvoza venasi qoniga so’riladi.",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",
@@ -3261,9 +3261,9 @@
   },
   {
    "id": "ch66-t-soruvchi-kolon",
-   "termUz": "so'ruvchi kolon",
+   "termUz": "so’ruvchi kolon",
    "original": null,
-   "contextUz": "So'rilishning ko'pi proksimal yarmida, shuning uchun u so'ruvchi kolon deyiladi.",
+   "contextUz": "So’rilishning ko’pi proksimal yarmida, shuning uchun u so’ruvchi kolon deyiladi.",
    "lessonId": "ch66",
    "topicId": "12",
    "source": "summaryUz",

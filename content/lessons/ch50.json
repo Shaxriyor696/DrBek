@@ -2,7 +2,7 @@
  "id": "ch50",
  "topicId": "10",
  "order": 1,
- "titleUz": "Ko'z I: ko'rish optikasi",
+ "titleUz": "Ko’z I: ko’rish optikasi",
  "titleOriginal": "The Eye: I. Optics of Vision",
  "subtitle": "*The Eye: I. Optics of Vision* — X bo'lim (Nerv tizimi: maxsus sezgilar), PDF 594–604",
  "contentVersion": "2026-11-14.1",
@@ -175,14 +175,14 @@
  ],
  "objectives": [
   "Fizik optika",
-  "Ko'z optikasi",
+  "Ko’z optikasi",
   "Akkomodatsiya",
   "Qorachiq diametri",
   "Refraksiya xatolari (Fig 50-12)",
-  "Ko'rish o'tkirligi",
+  "Ko’rish o’tkirligi",
   "Chuqurlikni idrok qilish",
-  "Ko'z ichi suyuqligi",
-  "Ko'z ichi bosimi",
+  "Ko’z ichi suyuqligi",
+  "Ko’z ichi bosimi",
   "Glaukoma"
  ],
  "blocks": {
@@ -190,13 +190,13 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Asosiy g'oya",
+    "text": "Asosiy g’oya",
     "id": "ch50-s-0-asosiy-goya",
     "bid": "ch50-u0"
    },
    {
     "type": "paragraph",
-    "text": "Ko'z kamera kabi ishlaydi. Shox parda va gavhar yorug'likni sindirib, to'r pardada teskari tasvir hosil qiladi. Umumiy kuch ~59 dioptriya bo'lib, uning 2/3 qismi shox pardaning old yuzasiga to'g'ri keladi. Gavhar (~20 D) akkomodatsiya orqali yaqin narsalarga fokuslaydi. Bob refraksiya xatolari, ko'rish o'tkirligi, chuqurlikni idrok qilish, ko'z ichi suyuqligi va glaukomani ham ko'rib chiqadi.",
+    "text": "Ko’z kamera kabi ishlaydi. Shox parda va gavhar yorug’likni sindirib, to’r pardada teskari tasvir hosil qiladi. Umumiy kuch ~59 dioptriya bo’lib, uning 2/3 qismi shox pardaning old yuzasiga to’g’ri keladi. Gavhar (~20 D) akkomodatsiya orqali yaqin narsalarga fokuslaydi. Bob refraksiya xatolari, ko’rish o’tkirligi, chuqurlikni idrok qilish, ko’z ichi suyuqligi va glaukomani ham ko’rib chiqadi.",
     "bid": "ch50-u1"
    },
    {
@@ -211,7 +211,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Sindirish ko'rsatkichi** — havodagi yorug'lik tezligi (300 000 km/s) ning muhitdagi tezlikka nisbati.",
+      "text": "**Sindirish ko’rsatkichi** — havodagi yorug’lik tezligi (300 000 km/s) ning muhitdagi tezlikka nisbati.",
       "depth": 0
      },
      {
@@ -227,15 +227,15 @@
       "depth": 0
      },
      {
-      "text": "Perpendikulyar chegarada nur bukilmaydi, faqat sekinlashadi va to'lqin uzunligi qisqaradi.",
+      "text": "Perpendikulyar chegarada nur bukilmaydi, faqat sekinlashadi va to’lqin uzunligi qisqaradi.",
       "depth": 1
      },
      {
-      "text": "Burchakli chegarada to'lqin fronti qiyshayadi va nur bukiladi.",
+      "text": "Burchakli chegarada to’lqin fronti qiyshayadi va nur bukiladi.",
       "depth": 1
      },
      {
-      "text": "Bukilish darajasi ikki narsaga bog'liq: sindirish ko'rsatkichlari nisbati va chegaraning burchagi.",
+      "text": "Bukilish darajasi ikki narsaga bog’liq: sindirish ko’rsatkichlari nisbati va chegaraning burchagi.",
       "depth": 1
      },
      {
@@ -243,7 +243,7 @@
       "depth": 0
      },
      {
-      "text": "**Qavariq (konveks) linza** nurlarni yig'adi. Markaziy nur bukilmaydi, chetdagilari ko'proq bukiladi. Bukilishning yarmi kirishda, yarmi chiqishda bo'ladi. Natijada nurlar fokus nuqtasida yig'iladi.",
+      "text": "**Qavariq (konveks) linza** nurlarni yig’adi. Markaziy nur bukilmaydi, chetdagilari ko’proq bukiladi. Bukilishning yarmi kirishda, yarmi chiqishda bo’ladi. Natijada nurlar fokus nuqtasida yig’iladi.",
       "depth": 1
      },
      {
@@ -251,11 +251,11 @@
       "depth": 1
      },
      {
-      "text": "**Silindrik linza** faqat bitta tekislikda bukadi, natijada fokus chizig'i hosil bo'ladi. Misol: suvli probirka. Sferik linzaga misol: lupa.",
+      "text": "**Silindrik linza** faqat bitta tekislikda bukadi, natijada fokus chizig’i hosil bo’ladi. Misol: suvli probirka. Sferik linzaga misol: lupa.",
       "depth": 1
      },
      {
-      "text": "**Ikki silindrik linza** to'g'ri burchak ostida qo'yilsa, bitta sferik linzaga teng bo'ladi.",
+      "text": "**Ikki silindrik linza** to’g’ri burchak ostida qo’yilsa, bitta sferik linzaga teng bo’ladi.",
       "depth": 1
      },
      {
@@ -263,19 +263,19 @@
       "depth": 0
      },
      {
-      "text": "Parallel nurlar fokus nuqtasida yig'iladi.",
+      "text": "Parallel nurlar fokus nuqtasida yig’iladi.",
       "depth": 1
      },
      {
-      "text": "Tarqaluvchi nurlar (yaqin manbadan) uzoqroqda yig'iladi.",
+      "text": "Tarqaluvchi nurlar (yaqin manbadan) uzoqroqda yig’iladi.",
       "depth": 1
      },
      {
-      "text": "Linza qavariqroq bo'lsa, tarqaluvchi nurlar ham shu masofada yig'iladi. Akkomodatsiyaning asosi shu.",
+      "text": "Linza qavariqroq bo’lsa, tarqaluvchi nurlar ham shu masofada yig’iladi. Akkomodatsiyaning asosi shu.",
       "depth": 1
      },
      {
-      "text": "**Tasvir:** har bir nuqta manba markaz chizig'i bo'ylab alohida fokuslanadi. Tasvir teskari bo'ladi, yonlari ham almashadi.",
+      "text": "**Tasvir:** har bir nuqta manba markaz chizig’i bo’ylab alohida fokuslanadi. Tasvir teskari bo’ladi, yonlari ham almashadi.",
       "depth": 0
      },
      {
@@ -287,11 +287,11 @@
       "depth": 1
      },
      {
-      "text": "Botiq linzalar manfiy bo'ladi (−1, −10 D) va qavariq linzani \"neytrallaydi\".",
+      "text": "Botiq linzalar manfiy bo’ladi (−1, −10 D) va qavariq linzani \"neytrallaydi\".",
       "depth": 1
      },
      {
-      "text": "Silindrik linzada o'q ham ko'rsatiladi: gorizontal 0°, vertikal 90°.",
+      "text": "Silindrik linzada o’q ham ko’rsatiladi: gorizontal 0°, vertikal 90°.",
       "depth": 1
      }
     ],
@@ -300,7 +300,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Ko'z optikasi",
+    "text": "Ko’z optikasi",
     "id": "ch50-s-4-koz-optikasi",
     "bid": "ch50-u4"
    },
@@ -309,7 +309,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "**To'rt sindiruvchi chegara:**",
+      "text": "**To’rt sindiruvchi chegara:**",
       "depth": 0
      },
      {
@@ -329,7 +329,7 @@
       "depth": 1
      },
      {
-      "text": "**Sindirish ko'rsatkichlari:** havo 1, shox parda 1.38, suvli suyuqlik 1.33, gavhar ~1.40, shishasimon tana 1.34.",
+      "text": "**Sindirish ko’rsatkichlari:** havo 1, shox parda 1.38, suvli suyuqlik 1.33, gavhar ~1.40, shishasimon tana 1.34.",
       "depth": 0
      },
      {
@@ -337,7 +337,7 @@
       "depth": 0
      },
      {
-      "text": "Bitta sindiruvchi yuza, to'r pardadan 17 mm oldinda.",
+      "text": "Bitta sindiruvchi yuza, to’r pardadan 17 mm oldinda.",
       "depth": 1
      },
      {
@@ -353,11 +353,11 @@
       "depth": 1
      },
      {
-      "text": "Gavhar suyuqliklar ichida faqat **~20 D** beradi. Ammo uning qavariqligini miya signallari o'zgartira oladi, ya'ni akkomodatsiya qiladi.",
+      "text": "Gavhar suyuqliklar ichida faqat **~20 D** beradi. Ammo uning qavariqligini miya signallari o’zgartira oladi, ya’ni akkomodatsiya qiladi.",
       "depth": 1
      },
      {
-      "text": "**Tasvir to'r pardada teskari tushadi.** Miya uni normal deb qabul qilishga o'rgangan.",
+      "text": "**Tasvir to’r pardada teskari tushadi.** Miya uni normal deb qabul qilishga o’rgangan.",
       "depth": 0
      }
     ],
@@ -375,7 +375,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Diapazon:** bolalarda gavhar kuchi 20 D dan ~34 D gacha oshadi, ya'ni **14 D akkomodatsiya**.",
+      "text": "**Diapazon:** bolalarda gavhar kuchi 20 D dan ~34 D gacha oshadi, ya’ni **14 D akkomodatsiya**.",
       "depth": 0
      },
      {
@@ -383,15 +383,15 @@
       "depth": 0
      },
      {
-      "text": "Gavhar elastik kapsula bo'lib, ichi yopishqoq, tiniq oqsilli suyuqlik bilan to'la.",
+      "text": "Gavhar elastik kapsula bo’lib, ichi yopishqoq, tiniq oqsilli suyuqlik bilan to’la.",
       "depth": 1
      },
      {
-      "text": "Tarangliksiz holatda deyarli sharsimon bo'ladi.",
+      "text": "Tarangliksiz holatda deyarli sharsimon bo’ladi.",
       "depth": 1
      },
      {
-      "text": "~70 ta radial **osuvchi boylam** (suspensory ligaments) xorioid va to'r parda chetiga tortilib turadi. Shuning uchun normal holatda gavhar yassi.",
+      "text": "~70 ta radial **osuvchi boylam** (suspensory ligaments) xorioid va to’r parda chetiga tortilib turadi. Shuning uchun normal holatda gavhar yassi.",
       "depth": 1
      },
      {
@@ -407,7 +407,7 @@
       "depth": 1
      },
      {
-      "text": "Ikkalasi ham qisqarganda boylamlar bo'shashadi va gavhar sharsimon bo'lib, kuchi oshadi.",
+      "text": "Ikkalasi ham qisqarganda boylamlar bo’shashadi va gavhar sharsimon bo’lib, kuchi oshadi.",
       "depth": 1
      },
      {
@@ -419,11 +419,11 @@
       "depth": 1
      },
      {
-      "text": "Parasimpatik signal ko'payganda ko'z yaqinroqqa fokuslanadi. Narsa yaqinlashgan sari impulslar ko'payishi kerak.",
+      "text": "Parasimpatik signal ko’payganda ko’z yaqinroqqa fokuslanadi. Narsa yaqinlashgan sari impulslar ko’payishi kerak.",
       "depth": 1
      },
      {
-      "text": "Simpatik ta'sir siliar mushakni bo'shashtiradi, lekin juda kuchsiz.",
+      "text": "Simpatik ta’sir siliar mushakni bo’shashtiradi, lekin juda kuchsiz.",
       "depth": 1
      },
      {
@@ -439,7 +439,7 @@
       "depth": 1
      },
      {
-      "text": "Ko'z doimiy masofaga fokuslangan bo'lib qoladi. Uzoq va yaqin uchun **bifokal ko'zoynak** kerak: yuqori qismi uzoq, pastki qismi o'qish uchun.",
+      "text": "Ko’z doimiy masofaga fokuslangan bo’lib qoladi. Uzoq va yaqin uchun **bifokal ko’zoynak** kerak: yuqori qismi uzoq, pastki qismi o’qish uchun.",
       "depth": 1
      }
     ],
@@ -457,19 +457,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Kamalak pardaning vazifasi:** qorong'ida ko'proq, yorug'da kamroq yorug'lik o'tkazadi; reflekslari ch52 da.",
+      "text": "**Kamalak pardaning vazifasi:** qorong’ida ko’proq, yorug’da kamroq yorug’lik o’tkazadi; reflekslari ch52 da.",
       "depth": 0
      },
      {
-      "text": "**Yorug'lik miqdori:**",
+      "text": "**Yorug’lik miqdori:**",
       "depth": 0
      },
      {
-      "text": "Qorachiq **maydoniga**, ya'ni diametr kvadratiga proporsional.",
+      "text": "Qorachiq **maydoniga**, ya’ni diametr kvadratiga proporsional.",
       "depth": 1
      },
      {
-      "text": "Diametr 1.5–8 mm oralig'ida o'zgaradi, yorug'lik ~30 marta o'zgaradi.",
+      "text": "Diametr 1.5–8 mm oralig’ida o’zgaradi, yorug’lik ~30 marta o’zgaradi.",
       "depth": 1
      },
      {
@@ -477,15 +477,15 @@
       "depth": 0
      },
      {
-      "text": "Qorachiq kichik bo'lsa, fokus chuqurligi katta bo'ladi. Nurlar asosan markazdan o'tadi va doim fokusda bo'ladi.",
+      "text": "Qorachiq kichik bo’lsa, fokus chuqurligi katta bo’ladi. Nurlar asosan markazdan o’tadi va doim fokusda bo’ladi.",
       "depth": 1
      },
      {
-      "text": "Shunda to'r parda yoki linza kuchi o'zgarsa ham tasvir aniq qoladi.",
+      "text": "Shunda to’r parda yoki linza kuchi o’zgarsa ham tasvir aniq qoladi.",
       "depth": 1
      },
      {
-      "text": "Katta qorachiqda esa xiralik doirasi (blur circle) hosil bo'ladi (Fig 50-11).",
+      "text": "Katta qorachiqda esa xiralik doirasi (blur circle) hosil bo’ladi (Fig 50-11).",
       "depth": 1
      }
     ],
@@ -503,23 +503,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Emmetropiya (normal):** siliar mushak bo'shashganda uzoqdagi parallel nurlar to'r pardada fokuslanadi. Yaqin narsalar uchun akkomodatsiya kerak.",
+      "text": "**Emmetropiya (normal):** siliar mushak bo’shashganda uzoqdagi parallel nurlar to’r pardada fokuslanadi. Yaqin narsalar uchun akkomodatsiya kerak.",
       "depth": 0
      },
      {
-      "text": "**Gipermetropiya (uzoqni ko'rish):**",
+      "text": "**Gipermetropiya (uzoqni ko’rish):**",
       "depth": 0
      },
      {
-      "text": "Sababi: ko'z olmasi qisqa yoki, kamdan-kam, linza tizimi kuchsiz.",
+      "text": "Sababi: ko’z olmasi qisqa yoki, kamdan-kam, linza tizimi kuchsiz.",
       "depth": 1
      },
      {
-      "text": "Nurlar to'r parda orqasida fokuslanadi.",
+      "text": "Nurlar to’r parda orqasida fokuslanadi.",
       "depth": 1
      },
      {
-      "text": "Uzoq narsalar uchun ham akkomodatsiya kerak. Akkomodatsiya zaxirasi qolsa, yaqin narsalar ham ko'rinadi.",
+      "text": "Uzoq narsalar uchun ham akkomodatsiya kerak. Akkomodatsiya zaxirasi qolsa, yaqin narsalar ham ko’rinadi.",
       "depth": 1
      },
      {
@@ -531,23 +531,23 @@
       "depth": 1
      },
      {
-      "text": "**Miopiya (yaqinni ko'rish):**",
+      "text": "**Miopiya (yaqinni ko’rish):**",
       "depth": 0
      },
      {
-      "text": "Sababi: ko'z olmasi uzun yoki linza juda kuchli.",
+      "text": "Sababi: ko’z olmasi uzun yoki linza juda kuchli.",
       "depth": 1
      },
      {
-      "text": "Nurlar to'r parda oldida fokuslanadi.",
+      "text": "Nurlar to’r parda oldida fokuslanadi.",
       "depth": 1
      },
      {
-      "text": "Ko'z linza kuchini bo'shashgan holatdagidan kamaytira olmaydi, shuning uchun uzoqni aniq ko'rolmaydi.",
+      "text": "Ko’z linza kuchini bo’shashgan holatdagidan kamaytira olmaydi, shuning uchun uzoqni aniq ko’rolmaydi.",
       "depth": 1
      },
      {
-      "text": "Aniq ko'rishning \"uzoq nuqtasi\" (far point) bor; undan yaqinda akkomodatsiya ishlaydi.",
+      "text": "Aniq ko’rishning \"uzoq nuqtasi\" (far point) bor; undan yaqinda akkomodatsiya ishlaydi.",
       "depth": 1
      },
      {
@@ -555,7 +555,7 @@
       "depth": 1
      },
      {
-      "text": "Linza kuchi sinov va xato (trial and error) yo'li bilan tanlanadi.",
+      "text": "Linza kuchi sinov va xato (trial and error) yo’li bilan tanlanadi.",
       "depth": 1
      },
      {
@@ -567,11 +567,11 @@
       "depth": 1
      },
      {
-      "text": "Odatda shox pardaning bir tekislikda ortiqcha egriligidan kelib chiqadi; yonboshlab yotgan tuxumga o'xshaydi (Fig 50-14).",
+      "text": "Odatda shox pardaning bir tekislikda ortiqcha egriligidan kelib chiqadi; yonboshlab yotgan tuxumga o’xshaydi (Fig 50-14).",
       "depth": 1
      },
      {
-      "text": "Akkomodatsiya ikkala tekislikni teng o'zgartirgani uchun buni tuzata olmaydi, shuning uchun ko'zoynaksiz hech qachon aniq ko'rmaydi.",
+      "text": "Akkomodatsiya ikkala tekislikni teng o’zgartirgani uchun buni tuzata olmaydi, shuning uchun ko’zoynaksiz hech qachon aniq ko’rmaydi.",
       "depth": 1
      },
      {
@@ -587,7 +587,7 @@
       "depth": 2
      },
      {
-      "text": "O'qni turli burchakdagi parallel qora chiziqlar jadvali (Fig 50-15) bilan aniqlanadi: xira chiziqlarga parallel o'q noto'g'ri silindrik komponentning o'qidir.",
+      "text": "O’qni turli burchakdagi parallel qora chiziqlar jadvali (Fig 50-15) bilan aniqlanadi: xira chiziqlarga parallel o’q noto’g’ri silindrik komponentning o’qidir.",
       "depth": 2
      },
      {
@@ -599,15 +599,15 @@
       "depth": 0
      },
      {
-      "text": "Ko'z yoshi qatlami shox parda bilan deyarli bir xil sindirish ko'rsatkichiga ega. Shuning uchun shox parda old yuzasining sindirishi deyarli yo'qoladi va o'rnini linzaning tashqi yuzasi egallaydi.",
+      "text": "Ko’z yoshi qatlami shox parda bilan deyarli bir xil sindirish ko’rsatkichiga ega. Shuning uchun shox parda old yuzasining sindirishi deyarli yo’qoladi va o’rnini linzaning tashqi yuzasi egallaydi.",
       "depth": 1
      },
      {
-      "text": "**Keratokonus** (bo'rtib chiqqan shox parda) da ayniqsa muhim, chunki ko'zoynak deyarli yordam bermaydi.",
+      "text": "**Keratokonus** (bo’rtib chiqqan shox parda) da ayniqsa muhim, chunki ko’zoynak deyarli yordam bermaydi.",
       "depth": 1
      },
      {
-      "text": "Afzalliklari: ko'z bilan birga aylanadi va kengroq aniq ko'rish maydoni beradi; tasvir o'lchamini deyarli o'zgartirmaydi (ko'zoynak ~1 sm oldinda bo'lgani uchun o'zgartiradi).",
+      "text": "Afzalliklari: ko’z bilan birga aylanadi va kengroq aniq ko’rish maydoni beradi; tasvir o’lchamini deyarli o’zgartirmaydi (ko’zoynak ~1 sm oldinda bo’lgani uchun o’zgartiradi).",
       "depth": 1
      },
      {
@@ -623,7 +623,7 @@
       "depth": 1
      },
      {
-      "text": "Davolash: gavhar jarrohlik yo'li bilan olib tashlanadi. Yo'qolgan sindirish kuchi kuchli qavariq ko'zoynak yoki, odatda, implantatsiya qilingan sun'iy plastik linza bilan almashtiriladi.",
+      "text": "Davolash: gavhar jarrohlik yo’li bilan olib tashlanadi. Yo’qolgan sindirish kuchi kuchli qavariq ko’zoynak yoki, odatda, implantatsiya qilingan sun’iy plastik linza bilan almashtiriladi.",
       "depth": 1
      }
     ],
@@ -632,7 +632,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Ko'rish o'tkirligi",
+    "text": "Ko’rish o’tkirligi",
     "id": "ch50-s-12-korish-otkirligi",
     "bid": "ch50-u12"
    },
@@ -641,15 +641,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**To'r pardadagi nuqta:** eng yaxshi optikada ham ~11 µm diametrda bo'ladi, markazi yorqin, cheti xira.",
+      "text": "**To’r pardadagi nuqta:** eng yaxshi optikada ham ~11 µm diametrda bo’ladi, markazi yorqin, cheti xira.",
       "depth": 0
      },
      {
-      "text": "**Foveadagi kolbachalar:** ~1.5 µm, ya'ni nuqtadan 7 marta kichik. Lekin ikki nuqta markazlari ~2 µm masofada bo'lsa, ular ajratiladi.",
+      "text": "**Foveadagi kolbachalar:** ~1.5 µm, ya’ni nuqtadan 7 marta kichik. Lekin ikki nuqta markazlari ~2 µm masofada bo’lsa, ular ajratiladi.",
       "depth": 0
      },
      {
-      "text": "**Normal o'tkirlik ~25 yoy soniyasi:** 10 m masofada 1.5–2 mm oraliqdagi ikki nuqta ajratiladi.",
+      "text": "**Normal o’tkirlik ~25 yoy soniyasi:** 10 m masofada 1.5–2 mm oraliqdagi ikki nuqta ajratiladi.",
       "depth": 0
      },
      {
@@ -657,15 +657,15 @@
       "depth": 0
      },
      {
-      "text": "Diametri <0.5 mm, ya'ni maksimal o'tkirlik ko'rish maydonining <2° qismida.",
+      "text": "Diametri <0.5 mm, ya’ni maksimal o’tkirlik ko’rish maydonining <2° qismida.",
       "depth": 1
      },
      {
-      "text": "Periferiyaga borgan sari o'tkirlik >10 marta pasayadi, chunki bitta optik tolaga ko'proq tayoqcha va kolbacha ulanadi (ch52).",
+      "text": "Periferiyaga borgan sari o’tkirlik >10 marta pasayadi, chunki bitta optik tolaga ko’proq tayoqcha va kolbacha ulanadi (ch52).",
       "depth": 1
      },
      {
-      "text": "**Klinik ifoda:** 20 fut (≈6 m) masofadagi harflar jadvali ishlatiladi. **20/20** normal hisoblanadi; 20/200 degani normal odam 200 futda ko'radigan harflarni faqat 20 futda ko'radi.",
+      "text": "**Klinik ifoda:** 20 fut (≈6 m) masofadagi harflar jadvali ishlatiladi. **20/20** normal hisoblanadi; 20/200 degani normal odam 200 futda ko’radigan harflarni faqat 20 futda ko’radi.",
       "depth": 0
      }
     ],
@@ -683,7 +683,7 @@
     "ordered": true,
     "items": [
      {
-      "text": "**Tanish narsalarning to'r pardadagi tasvir o'lchami:** masalan, odamning bo'yi ma'lum bo'lsa, masofani miya avtomatik hisoblaydi.",
+      "text": "**Tanish narsalarning to’r pardadagi tasvir o’lchami:** masalan, odamning bo’yi ma’lum bo’lsa, masofani miya avtomatik hisoblaydi.",
       "depth": 0
      },
      {
@@ -691,27 +691,27 @@
       "depth": 0
      },
      {
-      "text": "Bosh yonga siljiganda yaqin narsalar tasviri to'r parda bo'ylab tez suriladi, uzoqdagilari deyarli qimirlamaydi.",
+      "text": "Bosh yonga siljiganda yaqin narsalar tasviri to’r parda bo’ylab tez suriladi, uzoqdagilari deyarli qimirlamaydi.",
       "depth": 1
      },
      {
-      "text": "Misol: bosh 1 dyuym siljiganda 1 dyuym masofadagi narsa tasviri deyarli butun to'r pardani kesib o'tadi, 200 fut masofadagisi sezilarli siljimaydi.",
+      "text": "Misol: bosh 1 dyuym siljiganda 1 dyuym masofadagi narsa tasviri deyarli butun to’r pardani kesib o’tadi, 200 fut masofadagisi sezilarli siljimaydi.",
       "depth": 1
      },
      {
-      "text": "Bitta ko'z bilan ham ishlaydi.",
+      "text": "Bitta ko’z bilan ham ishlaydi.",
       "depth": 1
      },
      {
-      "text": "**Stereopsis (binokulyar ko'rish):**",
+      "text": "**Stereopsis (binokulyar ko’rish):**",
       "depth": 0
      },
      {
-      "text": "Ko'zlar orasi ~2 dyuym (>5 sm), shuning uchun ikki to'r pardadagi tasvirlar farq qiladi.",
+      "text": "Ko’zlar orasi ~2 dyuym (>5 sm), shuning uchun ikki to’r pardadagi tasvirlar farq qiladi.",
       "depth": 1
      },
      {
-      "text": "Yaqin narsada ikki ko'zda tasvir har xil tomonga tushadi (Fig 50-17).",
+      "text": "Yaqin narsada ikki ko’zda tasvir har xil tomonga tushadi (Fig 50-17).",
       "depth": 1
      },
      {
@@ -724,7 +724,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Ko'z ichi suyuqligi",
+    "text": "Ko’z ichi suyuqligi",
     "id": "ch50-s-16-koz-ichi-suyuqligi",
     "bid": "ch50-u16"
    },
@@ -741,11 +741,11 @@
       "depth": 1
      },
      {
-      "text": "**Shishasimon tana (vitreous humor):** gavhar bilan to'r parda orasida. Juda uzun proteoglikan molekulalaridan iborat jelatinsimon massa; moddalar unda sekin diffuziyalanadi, oqim deyarli yo'q.",
+      "text": "**Shishasimon tana (vitreous humor):** gavhar bilan to’r parda orasida. Juda uzun proteoglikan molekulalaridan iborat jelatinsimon massa; moddalar unda sekin diffuziyalanadi, oqim deyarli yo’q.",
       "depth": 1
      },
      {
-      "text": "**Hosil bo'lishi:**",
+      "text": "**Hosil bo’lishi:**",
       "depth": 0
      },
      {
@@ -753,7 +753,7 @@
       "depth": 1
      },
      {
-      "text": "Deyarli to'liq **siliar o'simtalar** epiteliysi faol sekretsiya qiladi. Ularning burmali yuzasi ~6 sm².",
+      "text": "Deyarli to’liq **siliar o’simtalar** epiteliysi faol sekretsiya qiladi. Ularning burmali yuzasi ~6 sm².",
       "depth": 1
      },
      {
@@ -761,7 +761,7 @@
       "depth": 1
      },
      {
-      "text": "Na⁺ hujayralararo bo'shliqqa faol tashiladi.",
+      "text": "Na⁺ hujayralararo bo’shliqqa faol tashiladi.",
       "depth": 2
      },
      {
@@ -769,19 +769,19 @@
       "depth": 2
      },
      {
-      "text": "Kapillyarlardan suv osmos bilan o'tadi.",
+      "text": "Kapillyarlardan suv osmos bilan o’tadi.",
       "depth": 2
      },
      {
-      "text": "Hosil bo'lgan eritma oldingi kameraga oqadi.",
+      "text": "Hosil bo’lgan eritma oldingi kameraga oqadi.",
       "depth": 2
      },
      {
-      "text": "Aminokislotalar, askorbin kislotasi va glyukoza faol tashish yoki yengillashtirilgan diffuziya bilan o'tkaziladi.",
+      "text": "Aminokislotalar, askorbin kislotasi va glyukoza faol tashish yoki yengillashtirilgan diffuziya bilan o’tkaziladi.",
       "depth": 1
      },
      {
-      "text": "**Chiqib ketish yo'li:**",
+      "text": "**Chiqib ketish yo’li:**",
       "depth": 0
      },
      {
@@ -793,7 +793,7 @@
       "depth": 1
      },
      {
-      "text": "**Trabekulyar to'r** orqali o'tadi.",
+      "text": "**Trabekulyar to’r** orqali o’tadi.",
       "depth": 1
      },
      {
@@ -801,7 +801,7 @@
       "depth": 1
      },
      {
-      "text": "Suvli venalar (aqueous veins) orqali ko'zdan tashqari venalarga quyiladi.",
+      "text": "Suvli venalar (aqueous veins) orqali ko’zdan tashqari venalarga quyiladi.",
       "depth": 1
      },
      {
@@ -809,15 +809,15 @@
       "depth": 0
      },
      {
-      "text": "Ko'zni aylanib o'tuvchi yupqa devorli vena.",
+      "text": "Ko’zni aylanib o’tuvchi yupqa devorli vena.",
       "depth": 1
      },
      {
-      "text": "Endoteliysi juda g'ovak: katta oqsillar va eritrotsitgacha bo'lgan zarrachalar o'tadi.",
+      "text": "Endoteliysi juda g’ovak: katta oqsillar va eritrotsitgacha bo’lgan zarrachalar o’tadi.",
       "depth": 1
      },
      {
-      "text": "Ichi qon bilan emas, suvli suyuqlik bilan to'la.",
+      "text": "Ichi qon bilan emas, suvli suyuqlik bilan to’la.",
       "depth": 1
      }
     ],
@@ -826,7 +826,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Ko'z ichi bosimi",
+    "text": "Ko’z ichi bosimi",
     "id": "ch50-s-18-koz-ichi-bosimi",
     "bid": "ch50-u18"
    },
@@ -835,15 +835,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Me'yori:** ~**15 mm Hg** (12–20), normal ko'zda ±2 mm Hg doirasida doimiy.",
+      "text": "**Me’yori:** ~**15 mm Hg** (12–20), normal ko’zda ±2 mm Hg doirasida doimiy.",
       "depth": 0
      },
      {
-      "text": "**O'lchash — tonometriya:** shox parda anesteziya qilinadi, plunjer shox pardani ichkariga bosadi. Siljish miqdori bosimga kalibrlangan.",
+      "text": "**O’lchash — tonometriya:** shox parda anesteziya qilinadi, plunjer shox pardani ichkariga bosadi. Siljish miqdori bosimga kalibrlangan.",
       "depth": 0
      },
      {
-      "text": "**Bosimni belgilovchi omil:** asosan **trabekulyar to'rning chiqish qarshiligi** (teshiklari 2–3 µm).",
+      "text": "**Bosimni belgilovchi omil:** asosan **trabekulyar to’rning chiqish qarshiligi** (teshiklari 2–3 µm).",
       "depth": 0
      },
      {
@@ -851,7 +851,7 @@
       "depth": 1
      },
      {
-      "text": "~15 mm Hg da chiqish ~2.5 µL/min bo'lib, siliar tanadagi hosil bo'lishga teng.",
+      "text": "~15 mm Hg da chiqish ~2.5 µL/min bo’lib, siliar tanadagi hosil bo’lishga teng.",
       "depth": 1
      },
      {
@@ -871,7 +871,7 @@
       "depth": 1
      },
      {
-      "text": "Qon quyilishi yoki infeksiyadan keyingi debris trabekulani to'sib, glaukomaga olib kelishi mumkin.",
+      "text": "Qon quyilishi yoki infeksiyadan keyingi debris trabekulani to’sib, glaukomaga olib kelishi mumkin.",
       "depth": 1
      }
     ],
@@ -889,7 +889,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Ahamiyati:** ko'rlikning asosiy sabablaridan biri.",
+      "text": "**Ahamiyati:** ko’rlikning asosiy sabablaridan biri.",
       "depth": 0
      },
      {
@@ -897,15 +897,15 @@
       "depth": 0
      },
      {
-      "text": "Ba'zan bosim keskin **60–70 mm Hg** gacha ko'tariladi.",
+      "text": "Ba’zan bosim keskin **60–70 mm Hg** gacha ko’tariladi.",
       "depth": 1
      },
      {
-      "text": "Uzoq vaqt **>25–30 mm Hg** bo'lsa, ko'rish yo'qoladi.",
+      "text": "Uzoq vaqt **>25–30 mm Hg** bo’lsa, ko’rish yo’qoladi.",
       "depth": 1
      },
      {
-      "text": "Juda yuqori bosim bir necha kun, hatto soatda ko'r qilishi mumkin.",
+      "text": "Juda yuqori bosim bir necha kun, hatto soatda ko’r qilishi mumkin.",
       "depth": 1
      },
      {
@@ -917,23 +917,23 @@
       "depth": 1
      },
      {
-      "text": "Aksonal sitoplazma oqimi bloklanadi, tolalar oziqlanmay nobud bo'ladi.",
+      "text": "Aksonal sitoplazma oqimi bloklanadi, tolalar oziqlanmay nobud bo’ladi.",
       "depth": 1
      },
      {
-      "text": "To'r parda arteriyasining bosilishi ham zarar qo'shishi mumkin.",
+      "text": "To’r parda arteriyasining bosilishi ham zarar qo’shishi mumkin.",
       "depth": 1
      },
      {
-      "text": "**Sababi:** ko'pincha trabekulyar chiqish qarshiligi ortadi.",
+      "text": "**Sababi:** ko’pincha trabekulyar chiqish qarshiligi ortadi.",
       "depth": 0
      },
      {
-      "text": "O'tkir holatda: o'tkir yallig'lanishda leykotsitlar va to'qima debrisi trabekulani to'sadi.",
+      "text": "O’tkir holatda: o’tkir yallig’lanishda leykotsitlar va to’qima debrisi trabekulani to’sadi.",
       "depth": 1
      },
      {
-      "text": "Surunkali holatda (qariyalar): trabekulyar bo'shliqlar fibroz bilan bekiladi.",
+      "text": "Surunkali holatda (qariyalar): trabekulyar bo’shliqlar fibroz bilan bekiladi.",
       "depth": 1
      },
      {
@@ -941,11 +941,11 @@
       "depth": 0
      },
      {
-      "text": "Tomchi dorilar suyuqlik sekretsiyasini kamaytiradi yoki so'rilishini oshiradi.",
+      "text": "Tomchi dorilar suyuqlik sekretsiyasini kamaytiradi yoki so’rilishini oshiradi.",
       "depth": 1
      },
      {
-      "text": "Dori yordam bermasa, jarrohlik: trabekulani ochish yoki subkonyunktival bo'shliqqa kanal yaratish.",
+      "text": "Dori yordam bermasa, jarrohlik: trabekulani ochish yoki subkonyunktival bo’shliqqa kanal yaratish.",
       "depth": 1
      }
     ],
@@ -971,11 +971,11 @@
       "depth": 1
      },
      {
-      "text": "Astigmatizmda silindrik linza (o'qi bilan).",
+      "text": "Astigmatizmda silindrik linza (o’qi bilan).",
       "depth": 1
      },
      {
-      "text": "Presbiopiyada bifokal ko'zoynak.",
+      "text": "Presbiopiyada bifokal ko’zoynak.",
       "depth": 1
      },
      {
@@ -983,15 +983,15 @@
       "depth": 1
      },
      {
-      "text": "**Katarakta:** gavhar olib tashlanib, sun'iy linza qo'yiladi.",
+      "text": "**Katarakta:** gavhar olib tashlanib, sun’iy linza qo’yiladi.",
       "depth": 0
      },
      {
-      "text": "**Glaukoma:** ko'z ichi bosimi >25–30 mm Hg bo'lsa, optik nerv atrofiyasi. Tonometriya bilan tekshiriladi.",
+      "text": "**Glaukoma:** ko’z ichi bosimi >25–30 mm Hg bo’lsa, optik nerv atrofiyasi. Tonometriya bilan tekshiriladi.",
       "depth": 0
      },
      {
-      "text": "**Ko'rish o'tkirligi:** 20/20 jadvali bilan baholanadi.",
+      "text": "**Ko’rish o’tkirligi:** 20/20 jadvali bilan baholanadi.",
       "depth": 0
      }
     ],
@@ -1000,7 +1000,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Bog'liqlik",
+    "text": "Bog’liqlik",
     "id": "ch50-s-24-bogliqlik",
     "bid": "ch50-u24"
    },
@@ -1009,11 +1009,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "**ch51:** to'r parda va fotoretseptsiya.",
+      "text": "**ch51:** to’r parda va fotoretseptsiya.",
       "depth": 0
      },
      {
-      "text": "**ch52:** ko'rish yo'llari, akkomodatsiya va qorachiq reflekslari, ko'z harakatlari.",
+      "text": "**ch52:** ko’rish yo’llari, akkomodatsiya va qorachiq reflekslari, ko’z harakatlari.",
       "depth": 0
      },
      {
@@ -1021,7 +1021,7 @@
       "depth": 0
      },
      {
-      "text": "**ch48:** ikki nuqtani farqlash bilan o'xshashlik.",
+      "text": "**ch48:** ikki nuqtani farqlash bilan o’xshashlik.",
       "depth": 0
      },
      {
@@ -1752,9 +1752,9 @@
  "glossary": [
   {
    "id": "ch50-t-sindirish-korsatkichi",
-   "termUz": "Sindirish ko'rsatkichi",
+   "termUz": "Sindirish ko’rsatkichi",
    "original": null,
-   "contextUz": "Sindirish ko'rsatkichi — havodagi yorug'lik tezligi (300 000 km/s) ning muhitdagi tezlikka nisbati.",
+   "contextUz": "Sindirish ko’rsatkichi — havodagi yorug’lik tezligi (300 000 km/s) ning muhitdagi tezlikka nisbati.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -1764,7 +1764,7 @@
    "id": "ch50-t-refraksiya",
    "termUz": "Refraksiya",
    "original": null,
-   "contextUz": "Refraksiya: Perpendikulyar chegarada nur bukilmaydi, faqat sekinlashadi va to'lqin uzunligi qisqaradi.",
+   "contextUz": "Refraksiya: Perpendikulyar chegarada nur bukilmaydi, faqat sekinlashadi va to’lqin uzunligi qisqaradi.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -1774,7 +1774,7 @@
    "id": "ch50-t-linzalar",
    "termUz": "Linzalar",
    "original": null,
-   "contextUz": "Linzalar: Qavariq (konveks) linza nurlarni yig'adi.",
+   "contextUz": "Linzalar: Qavariq (konveks) linza nurlarni yig’adi.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -1784,7 +1784,7 @@
    "id": "ch50-t-qavariq-konveks-linza",
    "termUz": "Qavariq (konveks) linza",
    "original": null,
-   "contextUz": "Linzalar: Qavariq (konveks) linza nurlarni yig'adi.",
+   "contextUz": "Linzalar: Qavariq (konveks) linza nurlarni yig’adi.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -1804,7 +1804,7 @@
    "id": "ch50-t-silindrik-linza",
    "termUz": "Silindrik linza",
    "original": null,
-   "contextUz": "Silindrik linza faqat bitta tekislikda bukadi, natijada fokus chizig'i hosil bo'ladi.",
+   "contextUz": "Silindrik linza faqat bitta tekislikda bukadi, natijada fokus chizig’i hosil bo’ladi.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -1814,7 +1814,7 @@
    "id": "ch50-t-ikki-silindrik-linza",
    "termUz": "Ikki silindrik linza",
    "original": null,
-   "contextUz": "Ikki silindrik linza to'g'ri burchak ostida qo'yilsa, bitta sferik linzaga teng bo'ladi.",
+   "contextUz": "Ikki silindrik linza to’g’ri burchak ostida qo’yilsa, bitta sferik linzaga teng bo’ladi.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -1824,7 +1824,7 @@
    "id": "ch50-t-fokus-masofasi",
    "termUz": "Fokus masofasi",
    "original": null,
-   "contextUz": "Fokus masofasi: Parallel nurlar fokus nuqtasida yig'iladi.",
+   "contextUz": "Fokus masofasi: Parallel nurlar fokus nuqtasida yig’iladi.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -1834,7 +1834,7 @@
    "id": "ch50-t-tasvir",
    "termUz": "Tasvir",
    "original": null,
-   "contextUz": "Tasvir: har bir nuqta manba markaz chizig'i bo'ylab alohida fokuslanadi.",
+   "contextUz": "Tasvir: har bir nuqta manba markaz chizig’i bo’ylab alohida fokuslanadi.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -1852,9 +1852,9 @@
   },
   {
    "id": "ch50-t-tort-sindiruvchi-chegara",
-   "termUz": "To'rt sindiruvchi chegara",
+   "termUz": "To’rt sindiruvchi chegara",
    "original": null,
-   "contextUz": "To'rt sindiruvchi chegara: Havo va shox parda old yuzasi.",
+   "contextUz": "To’rt sindiruvchi chegara: Havo va shox parda old yuzasi.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -1862,9 +1862,9 @@
   },
   {
    "id": "ch50-t-sindirish-korsatkichlari",
-   "termUz": "Sindirish ko'rsatkichlari",
+   "termUz": "Sindirish ko’rsatkichlari",
    "original": null,
-   "contextUz": "Sindirish ko'rsatkichlari: havo 1, shox parda 1.",
+   "contextUz": "Sindirish ko’rsatkichlari: havo 1, shox parda 1.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -1874,7 +1874,7 @@
    "id": "ch50-t-reduced-eye-modeli",
    "termUz": "\"Reduced eye\" modeli",
    "original": null,
-   "contextUz": "\"Reduced eye\" modeli: Bitta sindiruvchi yuza, to'r pardadan 17 mm oldinda.",
+   "contextUz": "\"Reduced eye\" modeli: Bitta sindiruvchi yuza, to’r pardadan 17 mm oldinda.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -1922,9 +1922,9 @@
   },
   {
    "id": "ch50-t-tasvir-tor-pardada-teskari-tushadi",
-   "termUz": "Tasvir to'r pardada teskari tushadi.",
+   "termUz": "Tasvir to’r pardada teskari tushadi.",
    "original": null,
-   "contextUz": "Tasvir to'r pardada teskari tushadi. Miya uni normal deb qabul qilishga o'rgangan.",
+   "contextUz": "Tasvir to’r pardada teskari tushadi. Miya uni normal deb qabul qilishga o’rgangan.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -1934,7 +1934,7 @@
    "id": "ch50-t-diapazon",
    "termUz": "Diapazon",
    "original": null,
-   "contextUz": "Diapazon: bolalarda gavhar kuchi 20 D dan ~34 D gacha oshadi, ya'ni 14 D akkomodatsiya.",
+   "contextUz": "Diapazon: bolalarda gavhar kuchi 20 D dan ~34 D gacha oshadi, ya’ni 14 D akkomodatsiya.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -1944,7 +1944,7 @@
    "id": "ch50-t-14-d-akkomodatsiya",
    "termUz": "14 D akkomodatsiya",
    "original": null,
-   "contextUz": "Diapazon: bolalarda gavhar kuchi 20 D dan ~34 D gacha oshadi, ya'ni 14 D akkomodatsiya.",
+   "contextUz": "Diapazon: bolalarda gavhar kuchi 20 D dan ~34 D gacha oshadi, ya’ni 14 D akkomodatsiya.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -1954,7 +1954,7 @@
    "id": "ch50-t-tuzilishi",
    "termUz": "Tuzilishi",
    "original": null,
-   "contextUz": "Tuzilishi: Gavhar elastik kapsula bo'lib, ichi yopishqoq, tiniq oqsilli suyuqlik bilan to'la.",
+   "contextUz": "Tuzilishi: Gavhar elastik kapsula bo’lib, ichi yopishqoq, tiniq oqsilli suyuqlik bilan to’la.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -1964,7 +1964,7 @@
    "id": "ch50-t-osuvchi-boylam",
    "termUz": "osuvchi boylam",
    "original": "suspensory ligaments",
-   "contextUz": "~70 ta radial osuvchi boylam (suspensory ligaments) xorioid va to'r parda chetiga tortilib turadi.",
+   "contextUz": "~70 ta radial osuvchi boylam (suspensory ligaments) xorioid va to’r parda chetiga tortilib turadi.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2032,9 +2032,9 @@
   },
   {
    "id": "ch50-t-bifokal-kozoynak",
-   "termUz": "bifokal ko'zoynak",
+   "termUz": "bifokal ko’zoynak",
    "original": null,
-   "contextUz": "Uzoq va yaqin uchun bifokal ko'zoynak kerak: yuqori qismi uzoq, pastki qismi o'qish uchun.",
+   "contextUz": "Uzoq va yaqin uchun bifokal ko’zoynak kerak: yuqori qismi uzoq, pastki qismi o’qish uchun.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2044,7 +2044,7 @@
    "id": "ch50-t-kamalak-pardaning-vazifasi",
    "termUz": "Kamalak pardaning vazifasi",
    "original": null,
-   "contextUz": "Kamalak pardaning vazifasi: qorong'ida ko'proq, yorug'da kamroq yorug'lik o'tkazadi; reflekslari ch52 da.",
+   "contextUz": "Kamalak pardaning vazifasi: qorong’ida ko’proq, yorug’da kamroq yorug’lik o’tkazadi; reflekslari ch52 da.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2052,9 +2052,9 @@
   },
   {
    "id": "ch50-t-yoruglik-miqdori",
-   "termUz": "Yorug'lik miqdori",
+   "termUz": "Yorug’lik miqdori",
    "original": null,
-   "contextUz": "Yorug'lik miqdori: Qorachiq maydoniga, ya'ni diametr kvadratiga proporsional.",
+   "contextUz": "Yorug’lik miqdori: Qorachiq maydoniga, ya’ni diametr kvadratiga proporsional.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2064,7 +2064,7 @@
    "id": "ch50-t-maydoniga",
    "termUz": "maydoniga",
    "original": null,
-   "contextUz": "Yorug'lik miqdori: Qorachiq maydoniga, ya'ni diametr kvadratiga proporsional.",
+   "contextUz": "Yorug’lik miqdori: Qorachiq maydoniga, ya’ni diametr kvadratiga proporsional.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2074,7 +2074,7 @@
    "id": "ch50-t-fokus-chuqurligi-depth-of-focus",
    "termUz": "Fokus chuqurligi (depth of focus)",
    "original": null,
-   "contextUz": "Fokus chuqurligi (depth of focus): Qorachiq kichik bo'lsa, fokus chuqurligi katta bo'ladi.",
+   "contextUz": "Fokus chuqurligi (depth of focus): Qorachiq kichik bo’lsa, fokus chuqurligi katta bo’ladi.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2084,7 +2084,7 @@
    "id": "ch50-t-emmetropiya-normal",
    "termUz": "Emmetropiya (normal)",
    "original": null,
-   "contextUz": "Emmetropiya (normal): siliar mushak bo'shashganda uzoqdagi parallel nurlar to'r pardada fokuslanadi.",
+   "contextUz": "Emmetropiya (normal): siliar mushak bo’shashganda uzoqdagi parallel nurlar to’r pardada fokuslanadi.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2092,9 +2092,9 @@
   },
   {
    "id": "ch50-t-gipermetropiya-uzoqni-korish",
-   "termUz": "Gipermetropiya (uzoqni ko'rish)",
+   "termUz": "Gipermetropiya (uzoqni ko’rish)",
    "original": null,
-   "contextUz": "Gipermetropiya (uzoqni ko'rish): Sababi: ko'z olmasi qisqa yoki, kamdan-kam, linza tizimi kuchsiz.",
+   "contextUz": "Gipermetropiya (uzoqni ko’rish): Sababi: ko’z olmasi qisqa yoki, kamdan-kam, linza tizimi kuchsiz.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2112,9 +2112,9 @@
   },
   {
    "id": "ch50-t-miopiya-yaqinni-korish",
-   "termUz": "Miopiya (yaqinni ko'rish)",
+   "termUz": "Miopiya (yaqinni ko’rish)",
    "original": null,
-   "contextUz": "Miopiya (yaqinni ko'rish): Sababi: ko'z olmasi uzun yoki linza juda kuchli.",
+   "contextUz": "Miopiya (yaqinni ko’rish): Sababi: ko’z olmasi uzun yoki linza juda kuchli.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2154,7 +2154,7 @@
    "id": "ch50-t-kontakt-linzalar",
    "termUz": "Kontakt linzalar",
    "original": null,
-   "contextUz": "Kontakt linzalar: Ko'z yoshi qatlami shox parda bilan deyarli bir xil sindirish ko'rsatkichiga ega.",
+   "contextUz": "Kontakt linzalar: Ko’z yoshi qatlami shox parda bilan deyarli bir xil sindirish ko’rsatkichiga ega.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2163,8 +2163,8 @@
   {
    "id": "ch50-t-keratokonus",
    "termUz": "Keratokonus",
-   "original": "bo'rtib chiqqan shox parda",
-   "contextUz": "Keratokonus (bo'rtib chiqqan shox parda) da ayniqsa muhim, chunki ko'zoynak deyarli yordam bermaydi.",
+   "original": "bo’rtib chiqqan shox parda",
+   "contextUz": "Keratokonus (bo’rtib chiqqan shox parda) da ayniqsa muhim, chunki ko’zoynak deyarli yordam bermaydi.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2182,9 +2182,9 @@
   },
   {
    "id": "ch50-t-tor-pardadagi-nuqta",
-   "termUz": "To'r pardadagi nuqta",
+   "termUz": "To’r pardadagi nuqta",
    "original": null,
-   "contextUz": "To'r pardadagi nuqta: eng yaxshi optikada ham ~11 µm diametrda bo'ladi, markazi yorqin, cheti xira.",
+   "contextUz": "To’r pardadagi nuqta: eng yaxshi optikada ham ~11 µm diametrda bo’ladi, markazi yorqin, cheti xira.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2202,9 +2202,9 @@
   },
   {
    "id": "ch50-t-normal-otkirlik-25-yoy-soniyasi",
-   "termUz": "Normal o'tkirlik ~25 yoy soniyasi",
+   "termUz": "Normal o’tkirlik ~25 yoy soniyasi",
    "original": null,
-   "contextUz": "Normal o'tkirlik ~25 yoy soniyasi: 10 m masofada 1.",
+   "contextUz": "Normal o’tkirlik ~25 yoy soniyasi: 10 m masofada 1.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2234,7 +2234,7 @@
    "id": "ch50-t-20-20",
    "termUz": "20/20",
    "original": null,
-   "contextUz": "20/20 normal hisoblanadi; 20/200 degani normal odam 200 futda ko'radigan harflarni faqat 20 futda ko'radi.",
+   "contextUz": "20/20 normal hisoblanadi; 20/200 degani normal odam 200 futda ko’radigan harflarni faqat 20 futda ko’radi.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2242,9 +2242,9 @@
   },
   {
    "id": "ch50-t-tanish-narsalarning-tor-pardadagi-tasvir-olchami",
-   "termUz": "Tanish narsalarning to'r pardadagi tasvir o'lchami",
+   "termUz": "Tanish narsalarning to’r pardadagi tasvir o’lchami",
    "original": null,
-   "contextUz": "Tanish narsalarning to'r pardadagi tasvir o'lchami: masalan, odamning bo'yi ma'lum bo'lsa, masofani miya avtomatik hisoblaydi.",
+   "contextUz": "Tanish narsalarning to’r pardadagi tasvir o’lchami: masalan, odamning bo’yi ma’lum bo’lsa, masofani miya avtomatik hisoblaydi.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2254,7 +2254,7 @@
    "id": "ch50-t-harakatdagi-parallaks-moving-parallax",
    "termUz": "Harakatdagi parallaks (moving parallax)",
    "original": null,
-   "contextUz": "Harakatdagi parallaks (moving parallax): Bosh yonga siljiganda yaqin narsalar tasviri to'r parda bo'ylab tez suriladi, uzoqdagilari deyarli qimirlamaydi.",
+   "contextUz": "Harakatdagi parallaks (moving parallax): Bosh yonga siljiganda yaqin narsalar tasviri to’r parda bo’ylab tez suriladi, uzoqdagilari deyarli qimirlamaydi.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2262,9 +2262,9 @@
   },
   {
    "id": "ch50-t-stereopsis-binokulyar-korish",
-   "termUz": "Stereopsis (binokulyar ko'rish)",
+   "termUz": "Stereopsis (binokulyar ko’rish)",
    "original": null,
-   "contextUz": "Stereopsis (binokulyar ko'rish): Ko'zlar orasi ~2 dyuym (>5 sm), shuning uchun ikki to'r pardadagi tasvirlar farq qiladi.",
+   "contextUz": "Stereopsis (binokulyar ko’rish): Ko’zlar orasi ~2 dyuym (>5 sm), shuning uchun ikki to’r pardadagi tasvirlar farq qiladi.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2294,7 +2294,7 @@
    "id": "ch50-t-shishasimon-tana-vitreous-humor",
    "termUz": "Shishasimon tana (vitreous humor)",
    "original": null,
-   "contextUz": "Shishasimon tana (vitreous humor): gavhar bilan to'r parda orasida.",
+   "contextUz": "Shishasimon tana (vitreous humor): gavhar bilan to’r parda orasida.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2302,9 +2302,9 @@
   },
   {
    "id": "ch50-t-hosil-bolishi",
-   "termUz": "Hosil bo'lishi",
+   "termUz": "Hosil bo’lishi",
    "original": null,
-   "contextUz": "Hosil bo'lishi: Tezligi 2–3 µL/min.",
+   "contextUz": "Hosil bo’lishi: Tezligi 2–3 µL/min.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2314,7 +2314,7 @@
    "id": "ch50-t-2-3-l-min",
    "termUz": "2–3 µL/min",
    "original": null,
-   "contextUz": "Hosil bo'lishi: Tezligi 2–3 µL/min.",
+   "contextUz": "Hosil bo’lishi: Tezligi 2–3 µL/min.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2322,9 +2322,9 @@
   },
   {
    "id": "ch50-t-siliar-osimtalar",
-   "termUz": "siliar o'simtalar",
+   "termUz": "siliar o’simtalar",
    "original": null,
-   "contextUz": "Deyarli to'liq siliar o'simtalar epiteliysi faol sekretsiya qiladi.",
+   "contextUz": "Deyarli to’liq siliar o’simtalar epiteliysi faol sekretsiya qiladi.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2334,7 +2334,7 @@
    "id": "ch50-t-mexanizm",
    "termUz": "Mexanizm",
    "original": null,
-   "contextUz": "Mexanizm: Na⁺ hujayralararo bo'shliqqa faol tashiladi.",
+   "contextUz": "Mexanizm: Na⁺ hujayralararo bo’shliqqa faol tashiladi.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2342,9 +2342,9 @@
   },
   {
    "id": "ch50-t-chiqib-ketish-yoli",
-   "termUz": "Chiqib ketish yo'li",
+   "termUz": "Chiqib ketish yo’li",
    "original": null,
-   "contextUz": "Chiqib ketish yo'li: Qorachiq orqali oldingi kameraga oqadi.",
+   "contextUz": "Chiqib ketish yo’li: Qorachiq orqali oldingi kameraga oqadi.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2352,9 +2352,9 @@
   },
   {
    "id": "ch50-t-trabekulyar-tor",
-   "termUz": "Trabekulyar to'r",
+   "termUz": "Trabekulyar to’r",
    "original": null,
-   "contextUz": "Trabekulyar to'r orqali o'tadi.",
+   "contextUz": "Trabekulyar to’r orqali o’tadi.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2372,9 +2372,9 @@
   },
   {
    "id": "ch50-t-meyori",
-   "termUz": "Me'yori",
+   "termUz": "Me’yori",
    "original": null,
-   "contextUz": "Me'yori: ~15 mm Hg (12–20), normal ko'zda ±2 mm Hg doirasida doimiy.",
+   "contextUz": "Me’yori: ~15 mm Hg (12–20), normal ko’zda ±2 mm Hg doirasida doimiy.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2384,7 +2384,7 @@
    "id": "ch50-t-15-mm-hg",
    "termUz": "15 mm Hg",
    "original": "12–20",
-   "contextUz": "Me'yori: ~15 mm Hg (12–20), normal ko'zda ±2 mm Hg doirasida doimiy.",
+   "contextUz": "Me’yori: ~15 mm Hg (12–20), normal ko’zda ±2 mm Hg doirasida doimiy.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2392,9 +2392,9 @@
   },
   {
    "id": "ch50-t-olchash-tonometriya",
-   "termUz": "O'lchash — tonometriya",
+   "termUz": "O’lchash — tonometriya",
    "original": null,
-   "contextUz": "O'lchash — tonometriya: shox parda anesteziya qilinadi, plunjer shox pardani ichkariga bosadi.",
+   "contextUz": "O’lchash — tonometriya: shox parda anesteziya qilinadi, plunjer shox pardani ichkariga bosadi.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2404,7 +2404,7 @@
    "id": "ch50-t-bosimni-belgilovchi-omil",
    "termUz": "Bosimni belgilovchi omil",
    "original": null,
-   "contextUz": "Bosimni belgilovchi omil: asosan trabekulyar to'rning chiqish qarshiligi (teshiklari 2–3 µm).",
+   "contextUz": "Bosimni belgilovchi omil: asosan trabekulyar to’rning chiqish qarshiligi (teshiklari 2–3 µm).",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2412,9 +2412,9 @@
   },
   {
    "id": "ch50-t-trabekulyar-torning-chiqish-qarshiligi",
-   "termUz": "trabekulyar to'rning chiqish qarshiligi",
+   "termUz": "trabekulyar to’rning chiqish qarshiligi",
    "original": "teshiklari 2–3 µm",
-   "contextUz": "Bosimni belgilovchi omil: asosan trabekulyar to'rning chiqish qarshiligi (teshiklari 2–3 µm).",
+   "contextUz": "Bosimni belgilovchi omil: asosan trabekulyar to’rning chiqish qarshiligi (teshiklari 2–3 µm).",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2434,7 +2434,7 @@
    "id": "ch50-t-ahamiyati",
    "termUz": "Ahamiyati",
    "original": null,
-   "contextUz": "Ahamiyati: ko'rlikning asosiy sabablaridan biri.",
+   "contextUz": "Ahamiyati: ko’rlikning asosiy sabablaridan biri.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2444,7 +2444,7 @@
    "id": "ch50-t-bosim-darajalari",
    "termUz": "Bosim darajalari",
    "original": null,
-   "contextUz": "Bosim darajalari: Ba'zan bosim keskin 60–70 mm Hg gacha ko'tariladi.",
+   "contextUz": "Bosim darajalari: Ba’zan bosim keskin 60–70 mm Hg gacha ko’tariladi.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2454,7 +2454,7 @@
    "id": "ch50-t-60-70-mm-hg",
    "termUz": "60–70 mm Hg",
    "original": null,
-   "contextUz": "Bosim darajalari: Ba'zan bosim keskin 60–70 mm Hg gacha ko'tariladi.",
+   "contextUz": "Bosim darajalari: Ba’zan bosim keskin 60–70 mm Hg gacha ko’tariladi.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2464,7 +2464,7 @@
    "id": "ch50-t-25-30-mm-hg",
    "termUz": ">25–30 mm Hg",
    "original": null,
-   "contextUz": "Uzoq vaqt >25–30 mm Hg bo'lsa, ko'rish yo'qoladi.",
+   "contextUz": "Uzoq vaqt >25–30 mm Hg bo’lsa, ko’rish yo’qoladi.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2474,7 +2474,7 @@
    "id": "ch50-t-sababi",
    "termUz": "Sababi",
    "original": null,
-   "contextUz": "Sababi: ko'pincha trabekulyar chiqish qarshiligi ortadi.",
+   "contextUz": "Sababi: ko’pincha trabekulyar chiqish qarshiligi ortadi.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2484,7 +2484,7 @@
    "id": "ch50-t-davolash",
    "termUz": "Davolash",
    "original": null,
-   "contextUz": "Davolash: Tomchi dorilar suyuqlik sekretsiyasini kamaytiradi yoki so'rilishini oshiradi.",
+   "contextUz": "Davolash: Tomchi dorilar suyuqlik sekretsiyasini kamaytiradi yoki so’rilishini oshiradi.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2504,7 +2504,7 @@
    "id": "ch50-t-glaukoma",
    "termUz": "Glaukoma",
    "original": null,
-   "contextUz": "Glaukoma: ko'z ichi bosimi >25–30 mm Hg bo'lsa, optik nerv atrofiyasi.",
+   "contextUz": "Glaukoma: ko’z ichi bosimi >25–30 mm Hg bo’lsa, optik nerv atrofiyasi.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2512,9 +2512,9 @@
   },
   {
    "id": "ch50-t-korish-otkirligi",
-   "termUz": "Ko'rish o'tkirligi",
+   "termUz": "Ko’rish o’tkirligi",
    "original": null,
-   "contextUz": "Ko'rish o'tkirligi: 20/20 jadvali bilan baholanadi.",
+   "contextUz": "Ko’rish o’tkirligi: 20/20 jadvali bilan baholanadi.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2524,7 +2524,7 @@
    "id": "ch50-t-ch51",
    "termUz": "ch51",
    "original": null,
-   "contextUz": "ch51: to'r parda va fotoretseptsiya.",
+   "contextUz": "ch51: to’r parda va fotoretseptsiya.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2534,7 +2534,7 @@
    "id": "ch50-t-ch52",
    "termUz": "ch52",
    "original": null,
-   "contextUz": "ch52: ko'rish yo'llari, akkomodatsiya va qorachiq reflekslari, ko'z harakatlari.",
+   "contextUz": "ch52: ko’rish yo’llari, akkomodatsiya va qorachiq reflekslari, ko’z harakatlari.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",
@@ -2554,7 +2554,7 @@
    "id": "ch50-t-ch48",
    "termUz": "ch48",
    "original": null,
-   "contextUz": "ch48: ikki nuqtani farqlash bilan o'xshashlik.",
+   "contextUz": "ch48: ikki nuqtani farqlash bilan o’xshashlik.",
    "lessonId": "ch50",
    "topicId": "10",
    "source": "summaryUz",

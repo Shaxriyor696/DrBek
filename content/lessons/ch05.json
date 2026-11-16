@@ -312,21 +312,21 @@
   "Aksion potensial",
   "AP ning boshlanishi va tarqalishi",
   "Plato va ritmiklik",
-  "Nerv stvollarida o'tkazish",
-  "Qo'zg'alish"
+  "Nerv stvollarida o’tkazish",
+  "Qo’zg’alish"
  ],
  "blocks": {
   "simple": [
    {
     "type": "heading",
     "level": 2,
-    "text": "Asosiy g'oya",
+    "text": "Asosiy g’oya",
     "id": "ch05-s-0-asosiy-goya",
     "bid": "ch05-u0"
    },
    {
     "type": "paragraph",
-    "text": "Deyarli barcha hujayralarda membrana bo'ylab potensial bor. U ionlarning konsentratsiya farqi va membrananing tanlab o'tkazuvchanligidan kelib chiqadi (**diffuziya potensiali**). Nerv va muskulda kuchlanishga bog'liq Na⁺ va K⁺ kanallarining tez ochilib-yopilishi **aksion potensial (AP)** ni hosil qiladi va u tola bo'ylab tarqaladi.",
+    "text": "Deyarli barcha hujayralarda membrana bo’ylab potensial bor. U ionlarning konsentratsiya farqi va membrananing tanlab o’tkazuvchanligidan kelib chiqadi (**diffuziya potensiali**). Nerv va muskulda kuchlanishga bog’liq Na⁺ va K⁺ kanallarining tez ochilib-yopilishi **aksion potensial (AP)** ni hosil qiladi va u tola bo’ylab tarqaladi.",
     "bid": "ch05-u1"
    },
    {
@@ -345,7 +345,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Faqat K⁺ o'tkazsa: K⁺ chiqadi, ichkarida manfiy anionlar qoladi → ~1 ms da potensial K⁺ chiqishini to'xtatadi: **−94 mV** (sutemizuvchi nerv tolasi). Faqat Na⁺ o'tkazsa: **+61 mV** ichkarida (Fig. 5-1).",
+      "text": "Faqat K⁺ o’tkazsa: K⁺ chiqadi, ichkarida manfiy anionlar qoladi → ~1 ms da potensial K⁺ chiqishini to’xtatadi: **−94 mV** (sutemizuvchi nerv tolasi). Faqat Na⁺ o’tkazsa: **+61 mV** ichkarida (Fig. 5-1).",
       "depth": 0
      },
      {
@@ -353,11 +353,11 @@
       "depth": 0
      },
      {
-      "text": "**Goldman (Goldman-Hodgkin-Katz) tenglamasi** — bir necha ion: har ionning hissasi uning o'tkazuvchanligiga proporsional. Na⁺, K⁺, Cl⁻ eng muhim; impuls paytida asosan Na⁺ va K⁺ o'tkazuvchanligi o'zgaradi, Cl⁻ niki deyarli o'zgarmaydi.",
+      "text": "**Goldman (Goldman-Hodgkin-Katz) tenglamasi** — bir necha ion: har ionning hissasi uning o’tkazuvchanligiga proporsional. Na⁺, K⁺, Cl⁻ eng muhim; impuls paytida asosan Na⁺ va K⁺ o’tkazuvchanligi o’zgaradi, Cl⁻ niki deyarli o’zgarmaydi.",
       "depth": 0
      },
      {
-      "text": "**Elektrokimyoviy harakatlantiruvchi kuch**: Vdf = Vm − Veq. Kationlar uchun musbat Vdf → chiqish, manfiy → kirish; anionlar uchun aksincha. Vm = Veq da sof oqim yo'q — shuning uchun Veq = **reversiya potensiali**.",
+      "text": "**Elektrokimyoviy harakatlantiruvchi kuch**: Vdf = Vm − Veq. Kationlar uchun musbat Vdf → chiqish, manfiy → kirish; anionlar uchun aksincha. Vm = Veq da sof oqim yo’q — shuning uchun Veq = **reversiya potensiali**.",
       "depth": 0
      },
      {
@@ -365,7 +365,7 @@
       "depth": 0
      },
      {
-      "text": "O'lchash: mikropipetka (teshigi <1 µm, qarshiligi >1 MΩ) + indifferent elektrod (Fig. 5-2). Potensial faqat membranadagi **elektr dipol qatlami**da sakraydi; −70 mV hosil qilish uchun ichkaridagi musbat zaryadlarning atigi 1/3 000 000 – 1/100 000 000 qismi ko'chiriladi; xuddi shuncha ion 1/10 000 s ichida −70 dan +35 mV gacha o'zgartiradi (Fig. 5-3).",
+      "text": "O’lchash: mikropipetka (teshigi <1 µm, qarshiligi >1 MΩ) + indifferent elektrod (Fig. 5-2). Potensial faqat membranadagi **elektr dipol qatlami**da sakraydi; −70 mV hosil qilish uchun ichkaridagi musbat zaryadlarning atigi 1/3 000 000 – 1/100 000 000 qismi ko’chiriladi; xuddi shuncha ion 1/10 000 s ichida −70 dan +35 mV gacha o’zgartiradi (Fig. 5-3).",
       "depth": 0
      }
     ],
@@ -415,11 +415,11 @@
       "depth": 0
      },
      {
-      "text": "**K⁺ \"sizish\" kanallari** (tandem pore domain): K⁺ ga Na⁺ dan ~100 marta o'tkazuvchan (Fig. 5-4).",
+      "text": "**K⁺ \"sizish\" kanallari** (tandem pore domain): K⁺ ga Na⁺ dan ~100 marta o’tkazuvchan (Fig. 5-4).",
       "depth": 0
      },
      {
-      "text": "Hissalar (Fig. 5-5): faqat K⁺ diffuziyasi → −94 mV (log35 = 1,54 × −61); Na⁺ biroz qo'shilsa (Goldman, P_K/P_Na = 100) → −86 mV; elektrogen Na⁺-K⁺ nasosi qo'shimcha ≈ −4 mV → jami ≈ **−90 mV**; Cl⁻ ham hissa qo'shadi.",
+      "text": "Hissalar (Fig. 5-5): faqat K⁺ diffuziyasi → −94 mV (log35 = 1,54 × −61); Na⁺ biroz qo’shilsa (Goldman, P_K/P_Na = 100) → −86 mV; elektrogen Na⁺-K⁺ nasosi qo’shimcha ≈ −4 mV → jami ≈ **−90 mV**; Cl⁻ ham hissa qo’shadi.",
       "depth": 0
      }
     ],
@@ -451,31 +451,31 @@
     "ordered": false,
     "items": [
      {
-      "text": "Bosqichlar (Fig. 5-6): **tinchlik** (\"qutblangan\") → **depolyarizatsiya** (Na⁺ ga o'tkazuvchanlik keskin oshadi; yirik tolalarda noldan oshib ketadi — \"overshoot\"; ba'zi kichik/MNS neyronlarida yo'q) → **repolyarizatsiya** (Na⁺ kanallari yopiladi, K⁺ kanallari ko'proq ochiladi).",
+      "text": "Bosqichlar (Fig. 5-6): **tinchlik** (\"qutblangan\") → **depolyarizatsiya** (Na⁺ ga o’tkazuvchanlik keskin oshadi; yirik tolalarda noldan oshib ketadi — \"overshoot\"; ba’zi kichik/MNS neyronlarida yo’q) → **repolyarizatsiya** (Na⁺ kanallari yopiladi, K⁺ kanallari ko’proq ochiladi).",
       "depth": 0
      },
      {
-      "text": "**Kuchlanishga bog'liq Na⁺ kanali** (Fig. 5-7): tashqi **aktivatsiya darvozasi** va ichki **inaktivatsiya darvozasi**. ~−55 mV da aktivatsiya darvozasi ochiladi (Na⁺ o'tkazuvchanligi 500–5000 marta oshadi); inaktivatsiya darvozasi bir necha 1/10 000 s keyin yopiladi va membrana deyarli tinchlik darajasiga qaytmaguncha qayta ochilmaydi.",
+      "text": "**Kuchlanishga bog’liq Na⁺ kanali** (Fig. 5-7): tashqi **aktivatsiya darvozasi** va ichki **inaktivatsiya darvozasi**. ~−55 mV da aktivatsiya darvozasi ochiladi (Na⁺ o’tkazuvchanligi 500–5000 marta oshadi); inaktivatsiya darvozasi bir necha 1/10 000 s keyin yopiladi va membrana deyarli tinchlik darajasiga qaytmaguncha qayta ochilmaydi.",
       "depth": 0
      },
      {
-      "text": "**Kuchlanishga bog'liq K⁺ kanali**: depolyarizatsiyada sekin ochiladi — taxminan Na⁺ kanallari inaktivlanayotgan paytda → repolyarizatsiyani tezlatadi.",
+      "text": "**Kuchlanishga bog’liq K⁺ kanali**: depolyarizatsiyada sekin ochiladi — taxminan Na⁺ kanallari inaktivlanayotgan paytda → repolyarizatsiyani tezlatadi.",
       "depth": 0
      },
      {
-      "text": "**Voltaj-qisqich (voltage clamp)** — Hodgkin va Huxley (Nobel, 1963); kalmar gigant aksoni (diametri ~1 mm gacha); **tetrodotoksin** Na⁺ kanalini tashqaridan, **tetraetilammoniy** K⁺ kanalini ichkaridan to'sadi (Fig. 5-8, 5-9: −70 → +10 mV 2 ms; Na⁺ kanallari ochilib-yopiladi, K⁺ kanallari sekin ochilib, potensial musbat ekan ochiq qoladi).",
+      "text": "**Voltaj-qisqich (voltage clamp)** — Hodgkin va Huxley (Nobel, 1963); kalmar gigant aksoni (diametri ~1 mm gacha); **tetrodotoksin** Na⁺ kanalini tashqaridan, **tetraetilammoniy** K⁺ kanalini ichkaridan to’sadi (Fig. 5-8, 5-9: −70 → +10 mV 2 ms; Na⁺ kanallari ochilib-yopiladi, K⁺ kanallari sekin ochilib, potensial musbat ekan ochiq qoladi).",
       "depth": 0
      },
      {
-      "text": "**Xulosa (Fig. 5-10)**: tinchlikda K⁺ o'tkazuvchanligi Na⁺ nikidan 50–100 marta katta; AP boshida Na⁺ o'tkazuvchanligi 5000 baravargacha oshadi (Na/K nisbati >1000 marta oshadi); K⁺ o'tkazuvchanligi oxirida ~30 baravar oshadi.",
+      "text": "**Xulosa (Fig. 5-10)**: tinchlikda K⁺ o’tkazuvchanligi Na⁺ nikidan 50–100 marta katta; AP boshida Na⁺ o’tkazuvchanligi 5000 baravargacha oshadi (Na/K nisbati >1000 marta oshadi); K⁺ o’tkazuvchanligi oxirida ~30 baravar oshadi.",
       "depth": 0
      },
      {
-      "text": "**Boshqa ionlar**: ichkaridagi o'tkaza olmaydigan anionlar (oqsil, organik fosfat, sulfat) manfiylikni ta'minlaydi. **Ca²⁺**: ichkarida ~10⁻⁷ M, gradient ~10 000 baravar; kuchlanishga bog'liq Ca²⁺ kanallari Ca²⁺ ga Na⁺ dan ~1000 marta o'tkazuvchan, 10–20 marta sekin faollashadi — **\"sekin kanallar\"** (Na⁺ — \"tez kanallar\"); yurak va silliq muskulda ko'p, ba'zi silliq muskullarda AP deyarli faqat Ca²⁺ dan.",
+      "text": "**Boshqa ionlar**: ichkaridagi o’tkaza olmaydigan anionlar (oqsil, organik fosfat, sulfat) manfiylikni ta’minlaydi. **Ca²⁺**: ichkarida ~10⁻⁷ M, gradient ~10 000 baravar; kuchlanishga bog’liq Ca²⁺ kanallari Ca²⁺ ga Na⁺ dan ~1000 marta o’tkazuvchan, 10–20 marta sekin faollashadi — **\"sekin kanallar\"** (Na⁺ — \"tez kanallar\"); yurak va silliq muskulda ko’p, ba’zi silliq muskullarda AP deyarli faqat Ca²⁺ dan.",
       "depth": 0
      },
      {
-      "text": "**Ca²⁺ yetishmasa** Na⁺ kanallari kichik depolyarizatsiyada ochiladi → giperqo'zg'aluvchanlik, o'z-o'zidan razryadlar; Ca²⁺ me'yordan 50% kamaysa periferik nervlarda **tetaniya** (hiqildoq muskullari spazmi o'limga olib kelishi mumkin). Ca²⁺ Na⁺ kanal oqsilining tashqi yuzasiga bog'lanib, ochilish kuchlanishini o'zgartiradi.",
+      "text": "**Ca²⁺ yetishmasa** Na⁺ kanallari kichik depolyarizatsiyada ochiladi → giperqo’zg’aluvchanlik, o’z-o’zidan razryadlar; Ca²⁺ me’yordan 50% kamaysa periferik nervlarda **tetaniya** (hiqildoq muskullari spazmi o’limga olib kelishi mumkin). Ca²⁺ Na⁺ kanal oqsilining tashqi yuzasiga bog’lanib, ochilish kuchlanishini o’zgartiradi.",
       "depth": 0
      }
     ],
@@ -526,19 +526,19 @@
       "depth": 0
      },
      {
-      "text": "**Bo'sag'a** — kiruvchi Na⁺ chiquvchi K⁺ dan ko'p bo'lganda; odatda 15–30 mV keskin ko'tarilish kerak: −70 dan ≈ **−55 mV** gacha.",
+      "text": "**Bo’sag’a** — kiruvchi Na⁺ chiquvchi K⁺ dan ko’p bo’lganda; odatda 15–30 mV keskin ko’tarilish kerak: −70 dan ≈ **−55 mV** gacha.",
       "depth": 0
      },
      {
-      "text": "**Tarqalish** (Fig. 5-11): mahalliy toklar yirik miyelinli tolada ichkarida 1–3 mm masofada potensialni bo'sag'adan oshiradi; har tomonga tarqaladi (barcha tarmoqlarga).",
+      "text": "**Tarqalish** (Fig. 5-11): mahalliy toklar yirik miyelinli tolada ichkarida 1–3 mm masofada potensialni bo’sag’adan oshiradi; har tomonga tarqaladi (barcha tarmoqlarga).",
       "depth": 0
      },
      {
-      "text": "**\"Hammasi yoki hech narsa\" tamoyili**; AP/bo'sag'a nisbati doim >1 bo'lishi kerak — **xavfsizlik omili**.",
+      "text": "**\"Hammasi yoki hech narsa\" tamoyili**; AP/bo’sag’a nisbati doim >1 bo’lishi kerak — **xavfsizlik omili**.",
       "depth": 0
      },
      {
-      "text": "**Gradientlarni tiklash**: bitta AP ta'siri o'lchab bo'lmas darajada kichik; yirik tola 100 000 – 50 mln impuls o'tkazgandan keyingina o'tkazish to'xtaydi. Na⁺-K⁺ nasosi ATP bilan \"qayta zaryadlaydi\" (issiqlik ajralishi, Fig. 5-12). Nasos faolligi ichki Na⁺ ning **kubiga** proporsional: 10 → 20 mEq/L da ~8 baravar.",
+      "text": "**Gradientlarni tiklash**: bitta AP ta’siri o’lchab bo’lmas darajada kichik; yirik tola 100 000 – 50 mln impuls o’tkazgandan keyingina o’tkazish to’xtaydi. Na⁺-K⁺ nasosi ATP bilan \"qayta zaryadlaydi\" (issiqlik ajralishi, Fig. 5-12). Nasos faolligi ichki Na⁺ ning **kubiga** proporsional: 10 → 20 mEq/L da ~8 baravar.",
       "depth": 0
      }
     ],
@@ -574,7 +574,7 @@
       "depth": 0
      },
      {
-      "text": "**Ritmik razryad**: yurak, ko'p silliq muskul, MNS neyronlari. Veratridin yoki past Ca²⁺ barqaror tolalarni ham ritmik qiladi. Yurak ritm markazida tinchlik potensiali atigi −60 ... −70 mV → Na⁺/Ca²⁺ sizib kirib o'z-o'zidan AP. AP dan keyin K⁺ o'tkazuvchanligi ~1 s oshib turadi → **giperpolyarizatsiya** → qayta qo'zg'alish kechikadi (Fig. 5-14).",
+      "text": "**Ritmik razryad**: yurak, ko’p silliq muskul, MNS neyronlari. Veratridin yoki past Ca²⁺ barqaror tolalarni ham ritmik qiladi. Yurak ritm markazida tinchlik potensiali atigi −60 ... −70 mV → Na⁺/Ca²⁺ sizib kirib o’z-o’zidan AP. AP dan keyin K⁺ o’tkazuvchanligi ~1 s oshib turadi → **giperpolyarizatsiya** → qayta qo’zg’alish kechikadi (Fig. 5-14).",
       "depth": 0
      }
     ],
@@ -593,7 +593,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Nerv stvollarida o'tkazish (p.74–75)",
+    "text": "Nerv stvollarida o’tkazish (p.74–75)",
     "pdfPages": [
      74,
      75
@@ -606,15 +606,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Nerv stvolida miyelinsiz tolalar miyelinlilardan ~2 baravar ko'p (Fig. 5-15).",
+      "text": "Nerv stvolida miyelinsiz tolalar miyelinlilardan ~2 baravar ko’p (Fig. 5-15).",
       "depth": 0
      },
      {
-      "text": "**Miyelin**: Shvann hujayrasi aksonni ko'p marta o'raydi; **sfingomiyelin** ion oqimini ~5000 marta kamaytiradi. Har 1–3 mm da **Ranvye bo'g'ini** (2–3 µm) (Fig. 5-16).",
+      "text": "**Miyelin**: Shvann hujayrasi aksonni ko’p marta o’raydi; **sfingomiyelin** ion oqimini ~5000 marta kamaytiradi. Har 1–3 mm da **Ranvye bo’g’ini** (2–3 µm) (Fig. 5-16).",
       "depth": 0
      },
      {
-      "text": "**Saltator o'tkazish** (Fig. 5-17): AP faqat bo'g'inlarda; tezlikni 5–50 baravar oshiradi va energiyani tejaydi (~100 marta kam ion yo'qotish; sig'im ~50 marta kam).",
+      "text": "**Saltator o’tkazish** (Fig. 5-17): AP faqat bo’g’inlarda; tezlikni 5–50 baravar oshiradi va energiyani tejaydi (~100 marta kam ion yo’qotish; sig’im ~50 marta kam).",
       "depth": 0
      },
      {
@@ -642,7 +642,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Qo'zg'alish (p.75–76)",
+    "text": "Qo’zg’alish (p.75–76)",
     "pdfPages": [
      75,
      76
@@ -659,11 +659,11 @@
       "depth": 0
      },
      {
-      "text": "Tashqi elektrodlarda qo'zg'alish **manfiy elektrod (katod)** ostida; musbat elektrod giperpolyarizatsiya qiladi.",
+      "text": "Tashqi elektrodlarda qo’zg’alish **manfiy elektrod (katod)** ostida; musbat elektrod giperpolyarizatsiya qiladi.",
       "depth": 0
      },
      {
-      "text": "**O'tkir mahalliy potensiallar** (bo'sag'aosti); bo'sag'aga yaqin stimulda \"latent davr\" (Fig. 5-18).",
+      "text": "**O’tkir mahalliy potensiallar** (bo’sag’aosti); bo’sag’aga yaqin stimulda \"latent davr\" (Fig. 5-18).",
       "depth": 0
      },
      {
@@ -671,7 +671,7 @@
       "depth": 0
      },
      {
-      "text": "**Stabilizatorlar**: yuqori ECF Ca²⁺ qo'zg'aluvchanlikni pasaytiradi. **Mahalliy anestetiklar** (prokain, tetrakain) Na⁺ aktivatsiya darvozalarini qiyin ochiladigan qiladi; xavfsizlik omili <1 bo'lsa impuls o'tmaydi.",
+      "text": "**Stabilizatorlar**: yuqori ECF Ca²⁺ qo’zg’aluvchanlikni pasaytiradi. **Mahalliy anestetiklar** (prokain, tetrakain) Na⁺ aktivatsiya darvozalarini qiyin ochiladigan qiladi; xavfsizlik omili <1 bo’lsa impuls o’tmaydi.",
       "depth": 0
      }
     ],
@@ -685,7 +685,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Bog'liqlik",
+    "text": "Bog’liqlik",
     "id": "ch05-s-35-bogliqlik",
     "bid": "ch05-u35"
    },
@@ -703,7 +703,7 @@
    },
    {
     "type": "paragraph",
-    "text": "Gipokalsiyemiya → tetaniya, laringospazm; mahalliy anesteziya mexanizmi; tetrodotoksin zaharlanishi; miyelinning ahamiyati (demiyelinizatsiya o'tkazishni sekinlashtiradi — mantiqiy xulosa, bobda alohida kasallik nomlanmagan).",
+    "text": "Gipokalsiyemiya → tetaniya, laringospazm; mahalliy anesteziya mexanizmi; tetrodotoksin zaharlanishi; miyelinning ahamiyati (demiyelinizatsiya o’tkazishni sekinlashtiradi — mantiqiy xulosa, bobda alohida kasallik nomlanmagan).",
     "bid": "ch05-u38"
    }
   ],
@@ -1581,7 +1581,7 @@
    "id": "ch05-t-diffuziya-potensiali",
    "termUz": "diffuziya potensiali",
    "original": null,
-   "contextUz": "U ionlarning konsentratsiya farqi va membrananing tanlab o'tkazuvchanligidan kelib chiqadi (diffuziya potensiali).",
+   "contextUz": "U ionlarning konsentratsiya farqi va membrananing tanlab o’tkazuvchanligidan kelib chiqadi (diffuziya potensiali).",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1591,7 +1591,7 @@
    "id": "ch05-t-aksion-potensial-ap",
    "termUz": "aksion potensial (AP)",
    "original": null,
-   "contextUz": "Nerv va muskulda kuchlanishga bog'liq Na⁺ va K⁺ kanallarining tez ochilib-yopilishi aksion potensial (AP) ni hosil qiladi va u tola bo'ylab tarqaladi.",
+   "contextUz": "Nerv va muskulda kuchlanishga bog’liq Na⁺ va K⁺ kanallarining tez ochilib-yopilishi aksion potensial (AP) ni hosil qiladi va u tola bo’ylab tarqaladi.",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1601,7 +1601,7 @@
    "id": "ch05-t-94-mv",
    "termUz": "−94 mV",
    "original": "sutemizuvchi nerv tolasi",
-   "contextUz": "Faqat K⁺ o'tkazsa: K⁺ chiqadi, ichkarida manfiy anionlar qoladi → ~1 ms da potensial K⁺ chiqishini to'xtatadi: −94 mV (sutemizuvchi nerv tolasi).",
+   "contextUz": "Faqat K⁺ o’tkazsa: K⁺ chiqadi, ichkarida manfiy anionlar qoladi → ~1 ms da potensial K⁺ chiqishini to’xtatadi: −94 mV (sutemizuvchi nerv tolasi).",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1611,7 +1611,7 @@
    "id": "ch05-t-61-mv",
    "termUz": "+61 mV",
    "original": null,
-   "contextUz": "Faqat Na⁺ o'tkazsa: +61 mV ichkarida (Fig.",
+   "contextUz": "Faqat Na⁺ o’tkazsa: +61 mV ichkarida (Fig.",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1631,7 +1631,7 @@
    "id": "ch05-t-goldman-goldman-hodgkin-katz-tenglamasi",
    "termUz": "Goldman (Goldman-Hodgkin-Katz) tenglamasi",
    "original": null,
-   "contextUz": "Goldman (Goldman-Hodgkin-Katz) tenglamasi — bir necha ion: har ionning hissasi uning o'tkazuvchanligiga proporsional.",
+   "contextUz": "Goldman (Goldman-Hodgkin-Katz) tenglamasi — bir necha ion: har ionning hissasi uning o’tkazuvchanligiga proporsional.",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1651,7 +1651,7 @@
    "id": "ch05-t-reversiya-potensiali",
    "termUz": "reversiya potensiali",
    "original": null,
-   "contextUz": "Vm = Veq da sof oqim yo'q — shuning uchun Veq = reversiya potensiali.",
+   "contextUz": "Vm = Veq da sof oqim yo’q — shuning uchun Veq = reversiya potensiali.",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1671,7 +1671,7 @@
    "id": "ch05-t-elektr-dipol-qatlami",
    "termUz": "elektr dipol qatlami",
    "original": null,
-   "contextUz": "Potensial faqat membranadagi elektr dipol qatlamida sakraydi; −70 mV hosil qilish uchun ichkaridagi musbat zaryadlarning atigi 1/3 000 000 – 1/100 000 000 qismi ko'chiriladi; xuddi shuncha ion 1/10 000 s ichida −70 dan +35 mV gacha o'zgartiradi (Fig.",
+   "contextUz": "Potensial faqat membranadagi elektr dipol qatlamida sakraydi; −70 mV hosil qilish uchun ichkaridagi musbat zaryadlarning atigi 1/3 000 000 – 1/100 000 000 qismi ko’chiriladi; xuddi shuncha ion 1/10 000 s ichida −70 dan +35 mV gacha o’zgartiradi (Fig.",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1691,7 +1691,7 @@
    "id": "ch05-t-k-sizish-kanallari",
    "termUz": "K⁺ \"sizish\" kanallari",
    "original": "tandem pore domain",
-   "contextUz": "K⁺ \"sizish\" kanallari (tandem pore domain): K⁺ ga Na⁺ dan ~100 marta o'tkazuvchan (Fig.",
+   "contextUz": "K⁺ \"sizish\" kanallari (tandem pore domain): K⁺ ga Na⁺ dan ~100 marta o’tkazuvchan (Fig.",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1701,7 +1701,7 @@
    "id": "ch05-t-90-mv",
    "termUz": "−90 mV",
    "original": null,
-   "contextUz": "5-5): faqat K⁺ diffuziyasi → −94 mV (log35 = 1,54 × −61); Na⁺ biroz qo'shilsa (Goldman, P_K/P_Na = 100) → −86 mV; elektrogen Na⁺-K⁺ nasosi qo'shimcha ≈ −4 mV → jami ≈ −90 mV; Cl⁻ ham hissa qo'shadi.",
+   "contextUz": "5-5): faqat K⁺ diffuziyasi → −94 mV (log35 = 1,54 × −61); Na⁺ biroz qo’shilsa (Goldman, P_K/P_Na = 100) → −86 mV; elektrogen Na⁺-K⁺ nasosi qo’shimcha ≈ −4 mV → jami ≈ −90 mV; Cl⁻ ham hissa qo’shadi.",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1711,7 +1711,7 @@
    "id": "ch05-t-tinchlik",
    "termUz": "tinchlik",
    "original": "\"qutblangan\"",
-   "contextUz": "5-6): tinchlik (\"qutblangan\") → depolyarizatsiya (Na⁺ ga o'tkazuvchanlik keskin oshadi; yirik tolalarda noldan oshib ketadi — \"overshoot\"; ba'zi kichik/MNS neyronlarida yo'q) → repolyarizatsiya (Na⁺ kanallari yopiladi, K⁺ kanallari ko'proq ochiladi).",
+   "contextUz": "5-6): tinchlik (\"qutblangan\") → depolyarizatsiya (Na⁺ ga o’tkazuvchanlik keskin oshadi; yirik tolalarda noldan oshib ketadi — \"overshoot\"; ba’zi kichik/MNS neyronlarida yo’q) → repolyarizatsiya (Na⁺ kanallari yopiladi, K⁺ kanallari ko’proq ochiladi).",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1721,7 +1721,7 @@
    "id": "ch05-t-depolyarizatsiya",
    "termUz": "depolyarizatsiya",
    "original": null,
-   "contextUz": "5-6): tinchlik (\"qutblangan\") → depolyarizatsiya (Na⁺ ga o'tkazuvchanlik keskin oshadi; yirik tolalarda noldan oshib ketadi — \"overshoot\"; ba'zi kichik/MNS neyronlarida yo'q) → repolyarizatsiya (Na⁺ kanallari yopiladi, K⁺ kanallari ko'proq ochiladi).",
+   "contextUz": "5-6): tinchlik (\"qutblangan\") → depolyarizatsiya (Na⁺ ga o’tkazuvchanlik keskin oshadi; yirik tolalarda noldan oshib ketadi — \"overshoot\"; ba’zi kichik/MNS neyronlarida yo’q) → repolyarizatsiya (Na⁺ kanallari yopiladi, K⁺ kanallari ko’proq ochiladi).",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1730,8 +1730,8 @@
   {
    "id": "ch05-t-repolyarizatsiya",
    "termUz": "repolyarizatsiya",
-   "original": "Na⁺ kanallari yopiladi, K⁺ kanallari ko'proq ochiladi",
-   "contextUz": "5-6): tinchlik (\"qutblangan\") → depolyarizatsiya (Na⁺ ga o'tkazuvchanlik keskin oshadi; yirik tolalarda noldan oshib ketadi — \"overshoot\"; ba'zi kichik/MNS neyronlarida yo'q) → repolyarizatsiya (Na⁺ kanallari yopiladi, K⁺ kanallari ko'proq ochiladi).",
+   "original": "Na⁺ kanallari yopiladi, K⁺ kanallari ko’proq ochiladi",
+   "contextUz": "5-6): tinchlik (\"qutblangan\") → depolyarizatsiya (Na⁺ ga o’tkazuvchanlik keskin oshadi; yirik tolalarda noldan oshib ketadi — \"overshoot\"; ba’zi kichik/MNS neyronlarida yo’q) → repolyarizatsiya (Na⁺ kanallari yopiladi, K⁺ kanallari ko’proq ochiladi).",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1739,9 +1739,9 @@
   },
   {
    "id": "ch05-t-kuchlanishga-bogliq-na-kanali",
-   "termUz": "Kuchlanishga bog'liq Na⁺ kanali",
+   "termUz": "Kuchlanishga bog’liq Na⁺ kanali",
    "original": "Fig. 5-7",
-   "contextUz": "Kuchlanishga bog'liq Na⁺ kanali (Fig. 5-7): tashqi aktivatsiya darvozasi va ichki inaktivatsiya darvozasi.",
+   "contextUz": "Kuchlanishga bog’liq Na⁺ kanali (Fig. 5-7): tashqi aktivatsiya darvozasi va ichki inaktivatsiya darvozasi.",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1769,9 +1769,9 @@
   },
   {
    "id": "ch05-t-kuchlanishga-bogliq-k-kanali",
-   "termUz": "Kuchlanishga bog'liq K⁺ kanali",
+   "termUz": "Kuchlanishga bog’liq K⁺ kanali",
    "original": null,
-   "contextUz": "Kuchlanishga bog'liq K⁺ kanali: depolyarizatsiyada sekin ochiladi — taxminan Na⁺ kanallari inaktivlanayotgan paytda → repolyarizatsiyani tezlatadi.",
+   "contextUz": "Kuchlanishga bog’liq K⁺ kanali: depolyarizatsiyada sekin ochiladi — taxminan Na⁺ kanallari inaktivlanayotgan paytda → repolyarizatsiyani tezlatadi.",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1781,7 +1781,7 @@
    "id": "ch05-t-voltaj-qisqich-voltage-clamp",
    "termUz": "Voltaj-qisqich (voltage clamp)",
    "original": null,
-   "contextUz": "Voltaj-qisqich (voltage clamp) — Hodgkin va Huxley (Nobel, 1963); kalmar gigant aksoni (diametri ~1 mm gacha); tetrodotoksin Na⁺ kanalini tashqaridan, tetraetilammoniy K⁺ kanalini ichkaridan to'sadi (Fig.",
+   "contextUz": "Voltaj-qisqich (voltage clamp) — Hodgkin va Huxley (Nobel, 1963); kalmar gigant aksoni (diametri ~1 mm gacha); tetrodotoksin Na⁺ kanalini tashqaridan, tetraetilammoniy K⁺ kanalini ichkaridan to’sadi (Fig.",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1791,7 +1791,7 @@
    "id": "ch05-t-tetrodotoksin",
    "termUz": "tetrodotoksin",
    "original": null,
-   "contextUz": "Voltaj-qisqich (voltage clamp) — Hodgkin va Huxley (Nobel, 1963); kalmar gigant aksoni (diametri ~1 mm gacha); tetrodotoksin Na⁺ kanalini tashqaridan, tetraetilammoniy K⁺ kanalini ichkaridan to'sadi (Fig.",
+   "contextUz": "Voltaj-qisqich (voltage clamp) — Hodgkin va Huxley (Nobel, 1963); kalmar gigant aksoni (diametri ~1 mm gacha); tetrodotoksin Na⁺ kanalini tashqaridan, tetraetilammoniy K⁺ kanalini ichkaridan to’sadi (Fig.",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1801,7 +1801,7 @@
    "id": "ch05-t-tetraetilammoniy",
    "termUz": "tetraetilammoniy",
    "original": null,
-   "contextUz": "Voltaj-qisqich (voltage clamp) — Hodgkin va Huxley (Nobel, 1963); kalmar gigant aksoni (diametri ~1 mm gacha); tetrodotoksin Na⁺ kanalini tashqaridan, tetraetilammoniy K⁺ kanalini ichkaridan to'sadi (Fig.",
+   "contextUz": "Voltaj-qisqich (voltage clamp) — Hodgkin va Huxley (Nobel, 1963); kalmar gigant aksoni (diametri ~1 mm gacha); tetrodotoksin Na⁺ kanalini tashqaridan, tetraetilammoniy K⁺ kanalini ichkaridan to’sadi (Fig.",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1811,7 +1811,7 @@
    "id": "ch05-t-xulosa-fig-5-10",
    "termUz": "Xulosa (Fig. 5-10)",
    "original": null,
-   "contextUz": "Xulosa (Fig. 5-10): tinchlikda K⁺ o'tkazuvchanligi Na⁺ nikidan 50–100 marta katta; AP boshida Na⁺ o'tkazuvchanligi 5000 baravargacha oshadi (Na/K nisbati >1000 marta oshadi); K⁺ o'tkazuvchanligi oxirida ~30 baravar oshadi.",
+   "contextUz": "Xulosa (Fig. 5-10): tinchlikda K⁺ o’tkazuvchanligi Na⁺ nikidan 50–100 marta katta; AP boshida Na⁺ o’tkazuvchanligi 5000 baravargacha oshadi (Na/K nisbati >1000 marta oshadi); K⁺ o’tkazuvchanligi oxirida ~30 baravar oshadi.",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1821,7 +1821,7 @@
    "id": "ch05-t-boshqa-ionlar",
    "termUz": "Boshqa ionlar",
    "original": null,
-   "contextUz": "Boshqa ionlar: ichkaridagi o'tkaza olmaydigan anionlar (oqsil, organik fosfat, sulfat) manfiylikni ta'minlaydi.",
+   "contextUz": "Boshqa ionlar: ichkaridagi o’tkaza olmaydigan anionlar (oqsil, organik fosfat, sulfat) manfiylikni ta’minlaydi.",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1831,7 +1831,7 @@
    "id": "ch05-t-ca",
    "termUz": "Ca²⁺",
    "original": null,
-   "contextUz": "Ca²⁺: ichkarida ~10⁻⁷ M, gradient ~10 000 baravar; kuchlanishga bog'liq Ca²⁺ kanallari Ca²⁺ ga Na⁺ dan ~1000 marta o'tkazuvchan, 10–20 marta sekin faollashadi — \"sekin kanallar\" (Na⁺ — \"tez kanallar\"); yurak va silliq muskulda ko'p, ba'zi silliq muskullarda AP deyarli faqat Ca²⁺ dan.",
+   "contextUz": "Ca²⁺: ichkarida ~10⁻⁷ M, gradient ~10 000 baravar; kuchlanishga bog’liq Ca²⁺ kanallari Ca²⁺ ga Na⁺ dan ~1000 marta o’tkazuvchan, 10–20 marta sekin faollashadi — \"sekin kanallar\" (Na⁺ — \"tez kanallar\"); yurak va silliq muskulda ko’p, ba’zi silliq muskullarda AP deyarli faqat Ca²⁺ dan.",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1841,7 +1841,7 @@
    "id": "ch05-t-sekin-kanallar",
    "termUz": "\"sekin kanallar\"",
    "original": "Na⁺ — \"tez kanallar\"",
-   "contextUz": "Ca²⁺: ichkarida ~10⁻⁷ M, gradient ~10 000 baravar; kuchlanishga bog'liq Ca²⁺ kanallari Ca²⁺ ga Na⁺ dan ~1000 marta o'tkazuvchan, 10–20 marta sekin faollashadi — \"sekin kanallar\" (Na⁺ — \"tez kanallar\"); yurak va silliq muskulda ko'p, ba'zi silliq muskullarda AP deyarli faqat Ca²⁺ dan.",
+   "contextUz": "Ca²⁺: ichkarida ~10⁻⁷ M, gradient ~10 000 baravar; kuchlanishga bog’liq Ca²⁺ kanallari Ca²⁺ ga Na⁺ dan ~1000 marta o’tkazuvchan, 10–20 marta sekin faollashadi — \"sekin kanallar\" (Na⁺ — \"tez kanallar\"); yurak va silliq muskulda ko’p, ba’zi silliq muskullarda AP deyarli faqat Ca²⁺ dan.",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1851,7 +1851,7 @@
    "id": "ch05-t-ca-yetishmasa",
    "termUz": "Ca²⁺ yetishmasa",
    "original": null,
-   "contextUz": "Ca²⁺ yetishmasa Na⁺ kanallari kichik depolyarizatsiyada ochiladi → giperqo'zg'aluvchanlik, o'z-o'zidan razryadlar; Ca²⁺ me'yordan 50% kamaysa periferik nervlarda tetaniya (hiqildoq muskullari spazmi o'limga olib kelishi mumkin).",
+   "contextUz": "Ca²⁺ yetishmasa Na⁺ kanallari kichik depolyarizatsiyada ochiladi → giperqo’zg’aluvchanlik, o’z-o’zidan razryadlar; Ca²⁺ me’yordan 50% kamaysa periferik nervlarda tetaniya (hiqildoq muskullari spazmi o’limga olib kelishi mumkin).",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1860,8 +1860,8 @@
   {
    "id": "ch05-t-tetaniya",
    "termUz": "tetaniya",
-   "original": "hiqildoq muskullari spazmi o'limga olib kelishi mumkin",
-   "contextUz": "Ca²⁺ yetishmasa Na⁺ kanallari kichik depolyarizatsiyada ochiladi → giperqo'zg'aluvchanlik, o'z-o'zidan razryadlar; Ca²⁺ me'yordan 50% kamaysa periferik nervlarda tetaniya (hiqildoq muskullari spazmi o'limga olib kelishi mumkin).",
+   "original": "hiqildoq muskullari spazmi o’limga olib kelishi mumkin",
+   "contextUz": "Ca²⁺ yetishmasa Na⁺ kanallari kichik depolyarizatsiyada ochiladi → giperqo’zg’aluvchanlik, o’z-o’zidan razryadlar; Ca²⁺ me’yordan 50% kamaysa periferik nervlarda tetaniya (hiqildoq muskullari spazmi o’limga olib kelishi mumkin).",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1879,9 +1879,9 @@
   },
   {
    "id": "ch05-t-bosaga",
-   "termUz": "Bo'sag'a",
+   "termUz": "Bo’sag’a",
    "original": null,
-   "contextUz": "Bo'sag'a — kiruvchi Na⁺ chiquvchi K⁺ dan ko'p bo'lganda; odatda 15–30 mV keskin ko'tarilish kerak: −70 dan ≈ −55 mV gacha.",
+   "contextUz": "Bo’sag’a — kiruvchi Na⁺ chiquvchi K⁺ dan ko’p bo’lganda; odatda 15–30 mV keskin ko’tarilish kerak: −70 dan ≈ −55 mV gacha.",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1891,7 +1891,7 @@
    "id": "ch05-t-55-mv",
    "termUz": "−55 mV",
    "original": null,
-   "contextUz": "Bo'sag'a — kiruvchi Na⁺ chiquvchi K⁺ dan ko'p bo'lganda; odatda 15–30 mV keskin ko'tarilish kerak: −70 dan ≈ −55 mV gacha.",
+   "contextUz": "Bo’sag’a — kiruvchi Na⁺ chiquvchi K⁺ dan ko’p bo’lganda; odatda 15–30 mV keskin ko’tarilish kerak: −70 dan ≈ −55 mV gacha.",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1901,7 +1901,7 @@
    "id": "ch05-t-tarqalish",
    "termUz": "Tarqalish",
    "original": "Fig. 5-11",
-   "contextUz": "Tarqalish (Fig. 5-11): mahalliy toklar yirik miyelinli tolada ichkarida 1–3 mm masofada potensialni bo'sag'adan oshiradi; har tomonga tarqaladi (barcha tarmoqlarga).",
+   "contextUz": "Tarqalish (Fig. 5-11): mahalliy toklar yirik miyelinli tolada ichkarida 1–3 mm masofada potensialni bo’sag’adan oshiradi; har tomonga tarqaladi (barcha tarmoqlarga).",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1911,7 +1911,7 @@
    "id": "ch05-t-hammasi-yoki-hech-narsa-tamoyili",
    "termUz": "\"Hammasi yoki hech narsa\" tamoyili",
    "original": null,
-   "contextUz": "\"Hammasi yoki hech narsa\" tamoyili; AP/bo'sag'a nisbati doim >1 bo'lishi kerak — xavfsizlik omili.",
+   "contextUz": "\"Hammasi yoki hech narsa\" tamoyili; AP/bo’sag’a nisbati doim >1 bo’lishi kerak — xavfsizlik omili.",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1921,7 +1921,7 @@
    "id": "ch05-t-xavfsizlik-omili",
    "termUz": "xavfsizlik omili",
    "original": null,
-   "contextUz": "\"Hammasi yoki hech narsa\" tamoyili; AP/bo'sag'a nisbati doim >1 bo'lishi kerak — xavfsizlik omili.",
+   "contextUz": "\"Hammasi yoki hech narsa\" tamoyili; AP/bo’sag’a nisbati doim >1 bo’lishi kerak — xavfsizlik omili.",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1931,7 +1931,7 @@
    "id": "ch05-t-gradientlarni-tiklash",
    "termUz": "Gradientlarni tiklash",
    "original": null,
-   "contextUz": "Gradientlarni tiklash: bitta AP ta'siri o'lchab bo'lmas darajada kichik; yirik tola 100 000 – 50 mln impuls o'tkazgandan keyingina o'tkazish to'xtaydi.",
+   "contextUz": "Gradientlarni tiklash: bitta AP ta’siri o’lchab bo’lmas darajada kichik; yirik tola 100 000 – 50 mln impuls o’tkazgandan keyingina o’tkazish to’xtaydi.",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1971,7 +1971,7 @@
    "id": "ch05-t-ritmik-razryad",
    "termUz": "Ritmik razryad",
    "original": null,
-   "contextUz": "Ritmik razryad: yurak, ko'p silliq muskul, MNS neyronlari.",
+   "contextUz": "Ritmik razryad: yurak, ko’p silliq muskul, MNS neyronlari.",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1981,7 +1981,7 @@
    "id": "ch05-t-giperpolyarizatsiya",
    "termUz": "giperpolyarizatsiya",
    "original": null,
-   "contextUz": "AP dan keyin K⁺ o'tkazuvchanligi ~1 s oshib turadi → giperpolyarizatsiya → qayta qo'zg'alish kechikadi (Fig.",
+   "contextUz": "AP dan keyin K⁺ o’tkazuvchanligi ~1 s oshib turadi → giperpolyarizatsiya → qayta qo’zg’alish kechikadi (Fig.",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -1991,7 +1991,7 @@
    "id": "ch05-t-miyelin",
    "termUz": "Miyelin",
    "original": null,
-   "contextUz": "Miyelin: Shvann hujayrasi aksonni ko'p marta o'raydi; sfingomiyelin ion oqimini ~5000 marta kamaytiradi.",
+   "contextUz": "Miyelin: Shvann hujayrasi aksonni ko’p marta o’raydi; sfingomiyelin ion oqimini ~5000 marta kamaytiradi.",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -2001,7 +2001,7 @@
    "id": "ch05-t-sfingomiyelin",
    "termUz": "sfingomiyelin",
    "original": null,
-   "contextUz": "Miyelin: Shvann hujayrasi aksonni ko'p marta o'raydi; sfingomiyelin ion oqimini ~5000 marta kamaytiradi.",
+   "contextUz": "Miyelin: Shvann hujayrasi aksonni ko’p marta o’raydi; sfingomiyelin ion oqimini ~5000 marta kamaytiradi.",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -2009,9 +2009,9 @@
   },
   {
    "id": "ch05-t-ranvye-bogini",
-   "termUz": "Ranvye bo'g'ini",
+   "termUz": "Ranvye bo’g’ini",
    "original": "2–3 µm",
-   "contextUz": "Har 1–3 mm da Ranvye bo'g'ini (2–3 µm) (Fig.",
+   "contextUz": "Har 1–3 mm da Ranvye bo’g’ini (2–3 µm) (Fig.",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -2019,9 +2019,9 @@
   },
   {
    "id": "ch05-t-saltator-otkazish",
-   "termUz": "Saltator o'tkazish",
+   "termUz": "Saltator o’tkazish",
    "original": "Fig. 5-17",
-   "contextUz": "Saltator o'tkazish (Fig. 5-17): AP faqat bo'g'inlarda; tezlikni 5–50 baravar oshiradi va energiyani tejaydi (~100 marta kam ion yo'qotish; sig'im ~50 marta kam).",
+   "contextUz": "Saltator o’tkazish (Fig. 5-17): AP faqat bo’g’inlarda; tezlikni 5–50 baravar oshiradi va energiyani tejaydi (~100 marta kam ion yo’qotish; sig’im ~50 marta kam).",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -2031,7 +2031,7 @@
    "id": "ch05-t-manfiy-elektrod-katod",
    "termUz": "manfiy elektrod (katod)",
    "original": null,
-   "contextUz": "Tashqi elektrodlarda qo'zg'alish manfiy elektrod (katod) ostida; musbat elektrod giperpolyarizatsiya qiladi.",
+   "contextUz": "Tashqi elektrodlarda qo’zg’alish manfiy elektrod (katod) ostida; musbat elektrod giperpolyarizatsiya qiladi.",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -2039,9 +2039,9 @@
   },
   {
    "id": "ch05-t-otkir-mahalliy-potensiallar",
-   "termUz": "O'tkir mahalliy potensiallar",
-   "original": "bo'sag'aosti",
-   "contextUz": "O'tkir mahalliy potensiallar (bo'sag'aosti); bo'sag'aga yaqin stimulda \"latent davr\" (Fig.",
+   "termUz": "O’tkir mahalliy potensiallar",
+   "original": "bo’sag’aosti",
+   "contextUz": "O’tkir mahalliy potensiallar (bo’sag’aosti); bo’sag’aga yaqin stimulda \"latent davr\" (Fig.",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -2061,7 +2061,7 @@
    "id": "ch05-t-stabilizatorlar",
    "termUz": "Stabilizatorlar",
    "original": null,
-   "contextUz": ") Stabilizatorlar: yuqori ECF Ca²⁺ qo'zg'aluvchanlikni pasaytiradi.",
+   "contextUz": ") Stabilizatorlar: yuqori ECF Ca²⁺ qo’zg’aluvchanlikni pasaytiradi.",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",
@@ -2071,7 +2071,7 @@
    "id": "ch05-t-mahalliy-anestetiklar",
    "termUz": "Mahalliy anestetiklar",
    "original": "prokain, tetrakain",
-   "contextUz": "Mahalliy anestetiklar (prokain, tetrakain) Na⁺ aktivatsiya darvozalarini qiyin ochiladigan qiladi; xavfsizlik omili <1 bo'lsa impuls o'tmaydi.",
+   "contextUz": "Mahalliy anestetiklar (prokain, tetrakain) Na⁺ aktivatsiya darvozalarini qiyin ochiladigan qiladi; xavfsizlik omili <1 bo’lsa impuls o’tmaydi.",
    "lessonId": "ch05",
    "topicId": "02",
    "source": "summaryUz",

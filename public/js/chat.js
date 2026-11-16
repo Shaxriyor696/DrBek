@@ -13,6 +13,7 @@ export function createChat({ lessonId = null, topicId = null, threadId = null, o
   const log = h('div', { class: 'chat-log', 'aria-live': 'polite' });
   const ta = h('textarea', { rows: 2, placeholder: 'Savolingizni yozing…', 'aria-label': 'AI ga savol', maxlength: 2000 });
   const sendBtn = h('button', { type: 'submit', class: 'btn primary', 'aria-label': 'Yuborish' }, icon('send'));
+  const micBtn = h('button', { type: 'button', class: 'btn mic-btn hidden', 'aria-label': 'Ovozli savol', title: 'Ovozli savol: bosing, gapiring, yana bosing' }, icon('mic'));
   const ctxChip = h('div', { class: 'ctx-chip hidden' });
   let pendingSel = null;
   const notice = h('div', { class: 'banner info hidden', style: { marginBottom: '8px' } });
@@ -20,10 +21,48 @@ export function createChat({ lessonId = null, topicId = null, threadId = null, o
   const form = h('form', { class: 'stack', style: { gap: '8px' }, onsubmit: (e) => { e.preventDefault(); ask({ text: ta.value.trim() }); } },
     ctxChip,
     h('div', { class: 'quick' }, QUICK.map(([a, l, ic]) => h('button', { type: 'button', onclick: () => ask({ action: a, text: ta.value.trim() }) }, h('span', { style: { color: 'var(--primary)' } }, icon(ic, 'sm')), l))),
-    h('div', { class: 'chat-input' }, ta, sendBtn));
+    h('div', { class: 'chat-input' }, ta, micBtn, sendBtn));
+
+  // Voice question: record with MediaRecorder (max 60 s), the server turns it into
+  // text, and the text lands in the input box for the student to check and send.
+  let rec = null;
+  const MAX_REC_MS = 60000;
+  const audioType = (t) => { const base = (t || '').split(';')[0]; return base === 'audio/mp4' || base === 'audio/x-m4a' ? 'audio/m4a' : base; };
+  const toB64 = (blob) => new Promise((resolve, reject) => { const r = new FileReader(); r.onload = () => resolve(String(r.result).split(',')[1] || ''); r.onerror = reject; r.readAsDataURL(blob); });
+  const micIdle = () => { micBtn.classList.remove('rec'); micBtn.disabled = false; mount(micBtn, icon('mic')); micBtn.setAttribute('aria-label', 'Ovozli savol'); };
+  micBtn.addEventListener('click', async () => {
+    if (rec) { rec.stop(); return; }
+    if (!navigator.mediaDevices?.getUserMedia || typeof MediaRecorder === 'undefined') { toast('Bu brauzer ovoz yozishni qo’llamaydi.'); return; }
+    let stream;
+    try { stream = await navigator.mediaDevices.getUserMedia({ audio: true }); }
+    catch { toast('Mikrofonga ruxsat berilmadi.'); return; }
+    const pref = ['audio/webm;codecs=opus', 'audio/webm', 'audio/ogg;codecs=opus', 'audio/mp4'].find((t) => MediaRecorder.isTypeSupported?.(t));
+    const r = new MediaRecorder(stream, pref ? { mimeType: pref } : undefined);
+    const parts = [];
+    const timer = setTimeout(() => r.state === 'recording' && r.stop(), MAX_REC_MS);
+    r.ondataavailable = (e) => { if (e.data.size) parts.push(e.data); };
+    r.onstop = async () => {
+      clearTimeout(timer); rec = null;
+      stream.getTracks().forEach((t) => t.stop());
+      const blob = new Blob(parts, { type: r.mimeType || pref || 'audio/webm' });
+      if (blob.size < 1000) { micIdle(); return; }
+      micBtn.classList.remove('rec'); micBtn.disabled = true; mount(micBtn, h('span', { class: 'xs' }, '…'));
+      const ph = ta.placeholder; ta.placeholder = 'Ovoz matnga aylantirilmoqda…';
+      try {
+        const res = await post('/api/chat/transcribe', { mimeType: audioType(blob.type), audio: await toB64(blob) });
+        if (res.text) { ta.value = [ta.value.trim(), res.text].filter(Boolean).join(' '); ta.focus(); }
+        else toast('Ovoz tushunilmadi. Qayta urinib ko’ring.');
+      } catch (e) { toast(e.message); }
+      ta.placeholder = ph;
+      micIdle();
+    };
+    r.start();
+    rec = r;
+    micBtn.classList.add('rec'); mount(micBtn, icon('stop')); micBtn.setAttribute('aria-label', 'Yozishni to’xtatish');
+  });
   ta.addEventListener('keydown', (e) => { if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); form.requestSubmit(); } });
 
-  const el = h('div', { class: 'chat stack', style: { gap: '8px', minHeight: 0 } }, notice, log, h('p', { class: 'xs muted', style: { margin: 0 } }, 'Javoblar faqat ilovadagi kitob materialiga tayanadi. Tibbiy maslahat emas.'), form);
+  const el = h('div', { class: 'chat stack', style: { gap: '8px', minHeight: 0 } }, notice, log, h('p', { class: 'xs muted chat-disclaimer', style: { margin: 0 } }, 'Javoblar faqat ilovadagi kitob materialiga tayanadi. Tibbiy maslahat emas.'), form);
 
   function setSelection(sel) {
     pendingSel = sel;
@@ -41,7 +80,7 @@ export function createChat({ lessonId = null, topicId = null, threadId = null, o
       h('summary', { class: 'xs', style: { cursor: 'pointer', fontWeight: 700 } }, cited.size ? `Manbalar (${shown.length})` : `Topilgan manba parchalari (${shown.length})`),
       h('ul', { class: 'src-list' }, shown.map((s) => h('li', { id: `src-${s.sourceId}` },
         h('b', {}, `[${s.n}] `), srcLink(s),
-        h('div', { class: 'xs muted' }, `${s.lang === 'en' ? 'Asl matn (EN)' : s.kind === 'figure' ? 'Kitob rasmi' : 'O‘zbekcha izoh'}${s.pdfPage ? ` · kitob ${s.printedPage}-bet (PDF ${s.pdfPage})` : ''}${s.lessonStatus && s.lessonStatus !== 'published' ? ' · tekshiruvda' : ''}`),
+        h('div', { class: 'xs muted' }, `${s.lang === 'en' ? 'Asl matn (EN)' : s.kind === 'figure' ? 'Kitob rasmi' : 'O’zbekcha izoh'}${s.pdfPage ? ` · kitob ${s.printedPage}-bet (PDF ${s.pdfPage})` : ''}${s.lessonStatus && s.lessonStatus !== 'published' ? ' · tekshiruvda' : ''}`),
         s.snippet ? h('div', { class: 'xs', style: { marginTop: '4px' } }, `“${s.snippet.replace(/\*\*/g, '')}…”`) : null))));
   }
   function srcLink(s) {
@@ -75,10 +114,10 @@ export function createChat({ lessonId = null, topicId = null, threadId = null, o
       return h('div', { class: 'msg user' }, m.context?.selection ? h('div', { class: 'xs muted', style: { marginLeft: '24px' } }, `Belgilangan: “${m.context.selection.slice(0, 100)}…”`) : null, h('div', { class: 'bubble' }, m.content));
     }
     const sources = m.context?.sources || [];
-    const warn = { no_source: 'Manbada topilmadi', unavailable: 'AI ulanmagan', timeout: 'Vaqt tugadi', error: 'Xato', stopped: 'To‘xtatildi', refused: 'Javob berilmadi' }[m.status];
+    const warn = { no_source: 'Manbada topilmadi', unavailable: 'AI ulanmagan', timeout: 'Vaqt tugadi', error: 'Xato', stopped: 'To’xtatildi', refused: 'Javob berilmadi' }[m.status];
     return h('div', { class: 'msg ai' },
       h('div', { class: 'row xs muted', style: { gap: '6px', marginBottom: '4px' } }, icon('sparkles', 'sm'), 'AI yordamchi', warn ? h('span', { class: 'badge warn' }, warn) : null,
-        m.status === 'complete' && !(m.citations || []).length ? h('span', { class: 'badge warn', title: 'Javobda manbaga havola yo‘q — ehtiyot bo‘ling' }, 'Manbasiz') : null),
+        m.status === 'complete' && !(m.citations || []).length ? h('span', { class: 'badge warn', title: 'Javobda manbaga havola yo’q — ehtiyot bo’ling' }, 'Manbasiz') : null),
       answerBody(m.content || '', m.citations, sources),
       sourceList(sources, m.citations),
       m.id && ['complete'].includes(m.status) ? h('div', { class: 'row', style: { gap: '6px', marginTop: '6px' } },
@@ -89,13 +128,16 @@ export function createChat({ lessonId = null, topicId = null, threadId = null, o
   async function load() {
     try {
       status = await get('/api/chat/status');
-      if (!status.available) { notice.textContent = status.demo ? 'Web ko‘rinishda AI ulanmagan. Savol yuborsangiz, kitobdan mos parchalar ko‘rsatiladi.' : 'AI hali ulanmagan: serverda ANTHROPIC_API_KEY yo‘q. Savol yuborsangiz, kitobdan mos parchalar ko‘rsatiladi.'; notice.classList.remove('hidden'); }
+      if (!status.available) { notice.textContent = status.demo ? 'Web ko’rinishda AI ulanmagan. Savol yuborsangiz, kitobdan mos parchalar ko’rsatiladi.' : `AI hali ulanmagan: serverda ${status.provider === 'gemini' ? 'GEMINI_API_KEY' : 'ANTHROPIC_API_KEY'} yo’q. Savol yuborsangiz, kitobdan mos parchalar ko’rsatiladi.`; notice.classList.remove('hidden'); }
+      if (status.voice) micBtn.classList.remove('hidden');
       if (tid) {
         const r = await get(`/api/chat/threads/${tid}`);
         mount(log, r.messages.map(renderMsg));
         const lastAi = [...r.messages].reverse().find((m) => m.role !== 'user');
         onSources?.(lastAi?.context?.sources || []);
-      } else mount(log, h('p', { class: 'small muted' }, compact ? 'Matndan biror joyni belgilang yoki savol yozing.' : 'Savol bering — javob kitobdagi materiallarga havola bilan beriladi.'));
+      } else mount(log, compact
+        ? h('div', { class: 'msg ai chat-hello' }, h('div', { class: 'bubble' }, 'Salom! Savolingizni yozing, mikrofon orqali ayting yoki pastdagi tugmalardan birini tanlang. Javoblar kitobga havola bilan beriladi.'))
+        : h('p', { class: 'small muted' }, 'Savol bering — javob kitobdagi materiallarga havola bilan beriladi.'));
       log.scrollTop = log.scrollHeight;
     } catch (e) { mount(log, h('p', { class: 'small' }, e.message)); }
   }
@@ -115,7 +157,7 @@ export function createChat({ lessonId = null, topicId = null, threadId = null, o
     const liveWrap = h('div', { class: 'msg ai' }, h('div', { class: 'row xs muted', style: { gap: '6px', marginBottom: '4px' } }, icon('sparkles', 'sm'), 'AI yordamchi'), live);
     log.appendChild(liveWrap); log.scrollTop = log.scrollHeight;
     busy = new AbortController();
-    mount(sendBtn, icon('stop')); sendBtn.type = 'button'; sendBtn.setAttribute('aria-label', 'To‘xtatish');
+    mount(sendBtn, icon('stop')); sendBtn.type = 'button'; sendBtn.setAttribute('aria-label', 'To’xtatish');
     const stop = () => busy?.abort();
     sendBtn.addEventListener('click', stop, { once: true });
     let sources = []; let textAcc = ''; const cits = [];
@@ -131,7 +173,7 @@ export function createChat({ lessonId = null, topicId = null, threadId = null, o
         },
       });
     } catch (e) {
-      if (e.name === 'AbortError') liveWrap.replaceWith(renderMsg({ role: 'assistant', content: `${textAcc}\n\n(To‘xtatildi)`, citations: cits, status: 'stopped', context: { sources } }));
+      if (e.name === 'AbortError') liveWrap.replaceWith(renderMsg({ role: 'assistant', content: `${textAcc}\n\n(To’xtatildi)`, citations: cits, status: 'stopped', context: { sources } }));
       else liveWrap.replaceWith(h('div', { class: 'banner danger' }, e.message));
     } finally {
       sendBtn.removeEventListener('click', stop);

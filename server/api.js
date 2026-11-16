@@ -1,5 +1,7 @@
 // REST API: content, progress, reading time, saved items, notes, quizzes, analytics, profile, search.
 import crypto from 'node:crypto';
+import fs from 'node:fs';
+import path from 'node:path';
 import { E, ApiError, id, nowIso, v } from './http.js';
 import { computeAnalytics, dayKey } from './analytics.js';
 import { ftsQuery, ftsQueryAll, plainText } from './content.js';
@@ -48,7 +50,7 @@ export function apiRoutes(router, { db, content, config }) {
       readerLine: { type: 'number', min: 1.4, max: 2.1 },
       completeOnboarding: { type: 'bool' },
     });
-    if (d.timezone && !tzs.includes(d.timezone) && d.timezone !== 'UTC') throw E.invalid({ timezone: 'Vaqt zonasi noto‘g‘ri.' });
+    if (d.timezone && !tzs.includes(d.timezone) && d.timezone !== 'UTC') throw E.invalid({ timezone: 'Vaqt zonasi noto’g’ri.' });
     if (d.completeOnboarding) {
       const errs = {};
       const cur = getProfile(db, user.id);
@@ -125,11 +127,11 @@ export function apiRoutes(router, { db, content, config }) {
   router.get('/api/lessons/:id', ({ user, params }) => {
     need(user);
     const r = content.resolveSectionId(params.id);
-    if (!r) throw E.notFound('Bo‘lim');
+    if (!r) throw E.notFound('Bo’lim');
     const got = content.lesson(r.id, user);
-    if (!got) throw E.notFound('Bo‘lim');
-    if (got.status === 'archived') throw new ApiError(410, 'archived', 'Bu bo‘lim arxivlangan. Mavzu sahifasidan boshqa bo‘limni tanlang.');
-    if (!got.visible) throw new ApiError(403, 'not_published', 'Bu bo‘lim hali tayyorlanmoqda (tekshiruvdan o‘tmagan).');
+    if (!got) throw E.notFound('Bo’lim');
+    if (got.status === 'archived') throw new ApiError(410, 'archived', 'Bu bo’lim arxivlangan. Mavzu sahifasidan boshqa bo’limni tanlang.');
+    if (!got.visible) throw new ApiError(403, 'not_published', 'Bu bo’lim hali tayyorlanmoqda (tekshiruvdan o’tmagan).');
     const l = got.lesson;
     const figures = l.figureIds.map((fid) => content.figure(fid)).filter(Boolean).map((f) => figureOut(f));
     const topic = content.topics.find((t) => t.id === l.topicId);
@@ -183,7 +185,7 @@ export function apiRoutes(router, { db, content, config }) {
     const b = content.books.find((x) => x.id === params.bookId);
     if (!b) throw E.notFound('Kitob');
     const page = query.page ? parseInt(query.page, 10) : null;
-    if (page !== null && !(page >= 1 && page <= b.pdf.pages)) throw E.invalid({ page: 'Sahifa raqami noto‘g‘ri.' });
+    if (page !== null && !(page >= 1 && page <= b.pdf.pages)) throw E.invalid({ page: 'Sahifa raqami noto’g’ri.' });
     telemetry(user, 'source_opened', `${b.id}:${page || ''}`);
     return { body: { book: b, pdfAvailable: !!config.bookPdfPath, pdfUrl: config.bookPdfPath ? `/source-pdf/${b.id}${page ? `#page=${page}` : ''}` : null, printedPage: page ? page - b.pdf.printedPageOffset : null } };
   });
@@ -196,6 +198,25 @@ export function apiRoutes(router, { db, content, config }) {
         books: content.books.map((b) => ({
           ...b, saved: saved.has(b.id), pdfAvailable: !!config.bookPdfPath,
           topics: content.topics.filter((t) => t.bookUnit.bookId === b.id).map((t) => ({ id: t.id, title: t.title, unit: t.bookUnit.unit, unitTitle: t.bookUnit.title, chapters: t.sections.map((s) => ({ id: s.id, titleOriginal: s.titleOriginal, titleUz: s.titleUz, pdfPages: s.pdfPages, printedPages: s.printedPages })) })),
+        })),
+      },
+    };
+  });
+
+  // Library shelf: books listed in content/library.json; their PDFs and covers live in
+  // LIBRARY_DIR (data/library by default, outside git) and are served at /library-files/.
+  const shelf = (() => { try { return JSON.parse(fs.readFileSync(path.join(config.contentDir, 'library.json'), 'utf8')); } catch { return { fields: [], books: [] }; } })();
+  const libFile = (rel) => fs.existsSync(path.join(config.libraryDir, rel));
+  router.get('/api/shelf', ({ user }) => {
+    need(user);
+    const saved = new Set(db.prepare(`SELECT target_id FROM bookmarks WHERE user_id=? AND target_type='book' AND deleted_at IS NULL`).all(user.id).map((r) => r.target_id));
+    return {
+      body: {
+        fields: shelf.fields,
+        books: shelf.books.map((b) => ({
+          ...b, saved: saved.has(b.id),
+          coverUrl: libFile(`covers/${b.id}.jpg`) ? `/library-files/covers/${b.id}.jpg` : null,
+          pdfUrl: libFile(`${b.id}.pdf`) ? `/library-files/${b.id}.pdf` : (b.linked && config.bookPdfPath ? `/source-pdf/${b.id}` : null),
         })),
       },
     };
@@ -214,7 +235,7 @@ export function apiRoutes(router, { db, content, config }) {
     const q = String(query.q || '').slice(0, 200);
     const fq = ftsQuery(q);
     if (!fq) return { body: { results: [], total: 0 } };
-    const kinds = { topic: 'Mavzu', lesson: 'Bo‘lim', summary: 'Bo‘lim', original: 'Bo‘lim', translation: 'To‘liq tarjima', term: 'Atama', book: 'Kitob', figure: 'Rasm' };
+    const kinds = { topic: 'Mavzu', lesson: 'Bo’lim', summary: 'Bo’lim', original: 'Bo’lim', translation: 'To’liq tarjima', term: 'Atama', book: 'Kitob', figure: 'Rasm' };
     const filterKind = query.type && ['topic', 'lesson', 'term', 'book', 'figure', 'text'].includes(query.type) ? query.type : null;
     const page = Math.max(1, parseInt(query.page || '1', 10) || 1);
     const per = 20;
@@ -239,7 +260,7 @@ export function apiRoutes(router, { db, content, config }) {
   router.patch('/api/progress/:lessonId', ({ user, params, body }) => {
     need(user);
     const meta = content.lessonMeta(params.lessonId);
-    if (!meta || !content.canSee(meta.status, user)) throw E.notFound('Bo‘lim');
+    if (!meta || !content.canSee(meta.status, user)) throw E.notFound('Bo’lim');
     const d = v(body, {
       completed: { type: 'bool' }, lastBlock: { type: 'string', max: 80 }, lastTab: { type: 'string', oneOf: ['simple', 'uzfull', 'full', 'terms', 'source'] },
       reviewFlag: { type: 'bool' },
@@ -270,9 +291,9 @@ export function apiRoutes(router, { db, content, config }) {
       startMs: { type: 'int', required: true }, endMs: { type: 'int', required: true },
     });
     const now = Date.now();
-    if (d.endMs <= d.startMs || d.endMs - d.startMs > 45000) throw E.invalid({ endMs: 'Interval noto‘g‘ri.' });
-    if (d.endMs > now + 5000 || d.startMs < now - 15 * 60000) throw E.invalid({ startMs: 'Interval vaqti noto‘g‘ri.' });
-    if (!content.lessonIndex.has(d.lessonId)) throw E.notFound('Bo‘lim');
+    if (d.endMs <= d.startMs || d.endMs - d.startMs > 45000) throw E.invalid({ endMs: 'Interval noto’g’ri.' });
+    if (d.endMs > now + 5000 || d.startMs < now - 15 * 60000) throw E.invalid({ startMs: 'Interval vaqti noto’g’ri.' });
+    if (!content.lessonIndex.has(d.lessonId)) throw E.notFound('Bo’lim');
     rateLimit(db, `hb:${user.id}`, 30, 60);
     const r = db.prepare('INSERT OR IGNORE INTO activity_intervals (event_id, user_id, lesson_id, session_id, start_ms, end_ms, created_at) VALUES (?,?,?,?,?,?,?)')
       .run(`${user.id}:${d.eventId}`, user.id, d.lessonId, d.sessionId, d.startMs, d.endMs, nowIso());
@@ -354,8 +375,8 @@ export function apiRoutes(router, { db, content, config }) {
 
   function validateTarget(type, tid, user, meta) {
     if (type === 'topic' && !content.topics.some((t) => t.id === tid)) throw E.notFound('Mavzu');
-    if (type === 'lesson' && !content.lessonIndex.has(tid)) throw E.notFound('Bo‘lim');
-    if (type === 'book' && !content.books.some((b) => b.id === tid)) throw E.notFound('Kitob');
+    if (type === 'lesson' && !content.lessonIndex.has(tid)) throw E.notFound('Bo’lim');
+    if (type === 'book' && !content.books.some((b) => b.id === tid) && !shelf.books.some((b) => b.id === tid)) throw E.notFound('Kitob');
     if (type === 'figure' && !content.figure(tid)) throw E.notFound('Rasm');
     if (type === 'selection' && !(meta && content.lessonIndex.has(meta.lessonId))) throw E.invalid({ meta: 'Parcha manbasi (lessonId) kerak.' });
     if (type === 'ai_answer') {
@@ -385,7 +406,7 @@ export function apiRoutes(router, { db, content, config }) {
       lessonId: { type: 'string', re: /^ch\d{2}$/ }, anchorBlock: { type: 'string', max: 80 }, selectionText: { type: 'string', max: 4000 },
       figureId: { type: 'string', max: 40 }, chatMessageId: { type: 'string', max: 40 }, body: { type: 'string', max: 20000, default: '' },
     });
-    if (d.lessonId && !content.lessonIndex.has(d.lessonId)) throw E.notFound('Bo‘lim');
+    if (d.lessonId && !content.lessonIndex.has(d.lessonId)) throw E.notFound('Bo’lim');
     if (d.figureId && !content.figure(d.figureId)) throw E.notFound('Rasm');
     if (d.chatMessageId) validateTarget('ai_answer', d.chatMessageId, user);
     const nid = id('nt_'); const now = nowIso();
@@ -400,7 +421,7 @@ export function apiRoutes(router, { db, content, config }) {
     const n = db.prepare('SELECT * FROM notes WHERE id=? AND user_id=?').get(params.id, user.id);
     if (!n) throw E.notFound('Qayd');
     const d = v(body, { body: { type: 'string', max: 20000 }, updatedAt: { type: 'string', max: 40 } });
-    if (d.updatedAt && d.updatedAt !== n.updated_at) throw E.conflict('Qayd boshqa oynada o‘zgartirilgan. Sahifani yangilab, qayta saqlang.');
+    if (d.updatedAt && d.updatedAt !== n.updated_at) throw E.conflict('Qayd boshqa oynada o’zgartirilgan. Sahifani yangilab, qayta saqlang.');
     const now = nowIso();
     db.prepare('UPDATE notes SET body=?, updated_at=? WHERE id=?').run(d.body ?? n.body, now, n.id);
     return { body: { note: noteOut(db.prepare('SELECT * FROM notes WHERE id=?').get(n.id)) } };
@@ -416,7 +437,7 @@ export function apiRoutes(router, { db, content, config }) {
   router.get('/api/quiz/bank', ({ user, query }) => {
     need(user);
     if (query.scopeType === 'lesson') {
-      if (!content.lessonIndex.has(query.scopeId)) throw E.notFound('Bo‘lim');
+      if (!content.lessonIndex.has(query.scopeId)) throw E.notFound('Bo’lim');
       return { body: { available: content.questionPool({ lessonId: query.scopeId }).length } };
     }
     if (query.scopeType === 'topic') {
@@ -470,7 +491,7 @@ export function apiRoutes(router, { db, content, config }) {
     const ex = db.prepare('SELECT * FROM quiz_attempts WHERE user_id=? AND client_key=?').get(user.id, d.clientKey);
     if (ex) return { body: { attemptId: ex.id, existed: true } };
     let pool; let parent = null;
-    if (d.scopeType === 'lesson') { if (!content.lessonIndex.has(d.scopeId)) throw E.notFound('Bo‘lim'); pool = content.questionPool({ lessonId: d.scopeId }); }
+    if (d.scopeType === 'lesson') { if (!content.lessonIndex.has(d.scopeId)) throw E.notFound('Bo’lim'); pool = content.questionPool({ lessonId: d.scopeId }); }
     else if (d.scopeType === 'topic') { if (!content.topics.some((t) => t.id === d.scopeId)) throw E.notFound('Mavzu'); pool = content.questionPool({ topicId: d.scopeId }); }
     else {
       const src = db.prepare(`SELECT * FROM quiz_attempts WHERE id=? AND user_id=? AND status='submitted'`).get(d.scopeId, user.id);
@@ -481,7 +502,7 @@ export function apiRoutes(router, { db, content, config }) {
       pool = db.prepare(`SELECT q.* FROM questions q JOIN (SELECT id, MAX(version) v FROM questions GROUP BY id) m ON m.id=q.id AND m.v=q.version`).all().filter((q) => wrongIds.includes(q.id));
       d.count = pool.length;
     }
-    if (!pool.length) throw new ApiError(404, 'no_bank', 'Bu qamrov uchun tasdiqlangan savollar banki hali yo‘q.');
+    if (!pool.length) throw new ApiError(404, 'no_bank', 'Bu qamrov uchun tasdiqlangan savollar banki hali yo’q.');
     const chosen = shuffle(pool).slice(0, Math.min(d.count, pool.length));
     const snapshot = chosen.map((q) => ({
       id: q.id, version: q.version, lessonId: q.lesson_id, topicId: q.topic_id, stem: q.stem,
@@ -522,13 +543,13 @@ export function apiRoutes(router, { db, content, config }) {
   router.put('/api/quiz-attempts/:id/answers/:qid', ({ user, params, body }) => {
     need(user);
     const a = ownAttempt(user, params.id);
-    if (a.status === 'submitted') throw E.conflict('Urinish yakunlangan, javobni o‘zgartirib bo‘lmaydi.');
+    if (a.status === 'submitted') throw E.conflict('Urinish yakunlangan, javobni o’zgartirib bo’lmaydi.');
     const q = J(a.snapshot).find((x) => x.id === params.qid);
     if (!q) throw E.notFound('Savol');
     const optionId = body.optionId === null ? null : String(body.optionId || '');
     if (optionId && !q.options.some((o) => o.id === optionId)) throw E.invalid({ optionId: 'Variant topilmadi.' });
     const r = db.prepare('SELECT * FROM quiz_answers WHERE attempt_id=? AND question_id=?').get(a.id, q.id);
-    if (r?.checked_at && optionId !== undefined && body.optionId !== undefined && optionId !== r.option_id) throw E.conflict('Tekshirilgan savol javobi bu urinishda o‘zgarmaydi.');
+    if (r?.checked_at && optionId !== undefined && body.optionId !== undefined && optionId !== r.option_id) throw E.conflict('Tekshirilgan savol javobi bu urinishda o’zgarmaydi.');
     db.prepare(`INSERT INTO quiz_answers (attempt_id, question_id, option_id, flagged, updated_at) VALUES (?,?,?,?,?)
       ON CONFLICT(attempt_id, question_id) DO UPDATE SET option_id=CASE WHEN quiz_answers.checked_at IS NULL THEN excluded.option_id ELSE quiz_answers.option_id END, flagged=excluded.flagged, updated_at=excluded.updated_at`)
       .run(a.id, q.id, body.optionId === undefined ? (r?.option_id ?? null) : optionId, body.flagged ? 1 : 0, nowIso());
@@ -538,7 +559,7 @@ export function apiRoutes(router, { db, content, config }) {
   router.post('/api/quiz-attempts/:id/check', ({ user, params, body }) => {
     need(user);
     const a = ownAttempt(user, params.id);
-    if (a.mode !== 'practice') throw E.conflict('Imtihon rejimida javoblar yakunda ko‘rsatiladi.');
+    if (a.mode !== 'practice') throw E.conflict('Imtihon rejimida javoblar yakunda ko’rsatiladi.');
     if (a.status === 'submitted') throw E.conflict('Urinish yakunlangan.');
     const q = J(a.snapshot).find((x) => x.id === body.questionId);
     if (!q) throw E.notFound('Savol');
@@ -598,7 +619,7 @@ export function apiRoutes(router, { db, content, config }) {
     const low = [...last.entries()].filter(([, a]) => a.correct / a.total < 0.7).map(([lid, a]) => ({ lessonId: lid, reason: 'low_score', percent: Math.round((a.correct / a.total) * 100) }));
     const seen = new Set();
     const items = [...flagged, ...low].filter((x) => (seen.has(x.lessonId) ? false : seen.add(x.lessonId))).map((x) => ({ ...x, title: content.lessonIndex.get(x.lessonId)?.titleUz, topicId: content.lessonIndex.get(x.lessonId)?.topicId }));
-    return { body: { items, rule: 'Siz belgilagan bo‘limlar va oxirgi testida 70% dan past natija olingan bo‘limlar (oddiy qoida, adaptiv model emas).' } };
+    return { body: { items, rule: 'Siz belgilagan bo’limlar va oxirgi testida 70% dan past natija olingan bo’limlar (oddiy qoida, adaptiv model emas).' } };
   });
 
   router.get('/api/dashboard', ({ user }) => {
@@ -614,10 +635,10 @@ export function apiRoutes(router, { db, content, config }) {
         const vis = t.sections.filter((s) => content.canSee(content.status('lesson', s.id, s.status), user));
         const done = db.prepare(`SELECT COUNT(*) n FROM lesson_progress WHERE user_id=? AND completed_at IS NOT NULL AND lesson_id IN (${vis.map(() => '?').join(',')})`).get(user.id, ...vis.map((s) => s.id)).n;
         cont = { lessonId: last.lesson_id, lessonTitle: meta.titleUz, topicId: t.id, topicTitle: t.title, cardImage: t.cardImage, lastBlock: last.last_block, lastTab: last.last_tab, read: done, total: vis.length };
-      } else if (meta) cont = { archived: true, topicId: meta.topicId, message: 'Oxirgi o‘qigan bo‘limingiz arxivlangan. Mavzudan boshqa bo‘limni tanlang.' };
+      } else if (meta) cont = { archived: true, topicId: meta.topicId, message: 'Oxirgi o’qigan bo’limingiz arxivlangan. Mavzudan boshqa bo’limni tanlang.' };
     }
     const todayKey = dayKey(Date.now(), p.timezone);
-    return { body: { continue: cont, stats: { todayMinutes: a.todayMinutes, dailyGoal: a.dailyGoal, goalPercent: a.goalPercent, topicsRead: a.topicsRead, lessonsRead: a.lessonsRead, lessonsTotal: a.lessonsTotal, accuracy: a.allTimeAccuracy, attempts: a.attemptsCount, streak: a.streak, today: todayKey } } };
+    return { body: { continue: cont, stats: { todayMinutes: a.todayMinutes, dailyGoal: a.dailyGoal, goalPercent: a.goalPercent, topicsRead: a.topicsRead, lessonsRead: a.lessonsRead, lessonsTotal: a.lessonsTotal, accuracy: a.allTimeAccuracy, attempts: a.attemptsCount, streak: a.streak, today: todayKey, week: a.series.slice(-7).map((r) => ({ day: r.bucket, minutes: r.activeMinutes })) } } };
   });
 }
 

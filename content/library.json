@@ -1,0 +1,84 @@
+{
+  "note": "Kutubxona javonidagi kitoblar. PDF va muqovalar LIBRARY_DIR (standart: data/library) papkasida turadi va git'ga kirmaydi: bu foydalanuvchining shaxsiy nusxalari, ommaviy joylashdan oldin nashriyot ruxsati kerak.",
+  "fields": ["Fiziologiya", "Nevrologiya"],
+  "books": [
+    {
+      "id": "guyton-hall-14",
+      "title": "Guyton and Hall Textbook of Medical Physiology",
+      "authors": ["John E. Hall", "Michael E. Hall"],
+      "edition": "14-nashr",
+      "publisher": "Elsevier",
+      "field": "Fiziologiya",
+      "pages": 1028,
+      "language": "EN · UZ izoh",
+      "description": "Ilovadagi 15 ta mavzu shu kitob asosida: asl matn, o’zbekcha sodda izoh va to’liq tarjima.",
+      "linked": true
+    },
+    {
+      "id": "adams-victor-12",
+      "title": "Adams and Victor’s Principles of Neurology",
+      "authors": ["Allan H. Ropper", "Martin A. Samuels", "Joshua P. Klein", "Sashank Prasad"],
+      "edition": "12-nashr",
+      "publisher": "McGraw Hill",
+      "field": "Nevrologiya",
+      "pages": 1616,
+      "language": "EN",
+      "description": "Nevrologiyaning klassik asosiy darsligi: simptomlar, sindromlar va asab tizimi kasalliklari."
+    },
+    {
+      "id": "bradley-neurology-7",
+      "title": "Bradley’s Neurology in Clinical Practice",
+      "authors": ["Robert B. Daroff", "Joseph Jankovic", "John C. Mazziotta", "Scott L. Pomeroy"],
+      "edition": "7-nashr",
+      "publisher": "Elsevier",
+      "field": "Nevrologiya",
+      "pages": 2847,
+      "language": "EN",
+      "description": "Klinik nevrologiya bo’yicha keng qamrovli qo’llanma: tashxis yondashuvi va kasalliklar."
+    },
+    {
+      "id": "duus-topical-4",
+      "title": "Duus’ Topical Diagnosis in Neurology",
+      "authors": ["Mathias Baehr", "Michael Frotscher"],
+      "edition": "4-nashr",
+      "publisher": "Thieme",
+      "field": "Nevrologiya",
+      "pages": 531,
+      "language": "EN",
+      "description": "Topik tashxis: anatomiya, fiziologiya, belgilar va simptomlar orqali shikastlanish joyini aniqlash."
+    },
+    {
+      "id": "snell-neuroanatomy-9",
+      "title": "Snell’s Clinical Neuroanatomy",
+      "authors": ["Ryan Splittgerber"],
+      "edition": "9-nashr",
+      "publisher": "Wolters Kluwer",
+      "field": "Nevrologiya",
+      "pages": 1207,
+      "language": "EN",
+      "description": "Klinik neyroanatomiya: asab tizimi tuzilishi va uning klinik ahamiyati."
+    },
+    {
+      "id": "lange-clinical-neurology-11",
+      "title": "Clinical Neurology (Lange)",
+      "authors": ["David A. Greenberg", "Michael J. Aminoff", "Roger P. Simon"],
+      "edition": "11-nashr",
+      "publisher": "McGraw Hill · Lange",
+      "field": "Nevrologiya",
+      "pages": 461,
+      "language": "EN",
+      "description": "Ixcham klinik nevrologiya: asosiy simptomlar bo’yicha tuzilgan qisqa darslik."
+    },
+    {
+      "id": "fenichel-pediatric-9",
+      "title": "Fenichel’s Clinical Pediatric Neurology",
+      "authors": ["Kaitlin C. James", "J. Eric Piña-Garza"],
+      "edition": "9-nashr",
+      "publisher": "Elsevier",
+      "field": "Nevrologiya",
+      "pages": 1026,
+      "language": "EN",
+      "description": "Bolalar nevrologiyasi: belgilar va simptomlar asosidagi yondashuv."
+    }
+  ]
+}

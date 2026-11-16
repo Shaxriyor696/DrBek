@@ -28,6 +28,7 @@ export function makeConfig(env = process.env) {
     publicUrl: env.PUBLIC_URL || `http://localhost:${port}`,
     dbFile: env.DATABASE_FILE || path.join(rootDir, 'data', 'drstudy.db'),
     contentDir: env.CONTENT_DIR || path.join(rootDir, 'content'),
+    libraryDir: env.LIBRARY_DIR || path.join(rootDir, 'data', 'library'),
     contentAccess: env.CONTENT_ACCESS === 'published_only' ? 'published_only' : 'review_preview',
     bookPdfPath: env.BOOK_PDF_PATH || '',
     notesDir: env.GUYTON_NOTES_DIR || '',
@@ -36,6 +37,12 @@ export function makeConfig(env = process.env) {
     secureCookies: env.SECURE_COOKIES === '1' || (env.PUBLIC_URL || '').startsWith('https://'),
     anthropicApiKey: env.ANTHROPIC_API_KEY || '',
     aiModel: env.AI_MODEL || 'claude-opus-5-5',
+    geminiApiKey: env.GEMINI_API_KEY || '',
+    geminiThinking: ['minimal', 'low', 'medium', 'high'].includes(env.GEMINI_THINKING) ? env.GEMINI_THINKING : 'low',
+    geminiVoiceModel: env.GEMINI_VOICE_MODEL || 'gemini-3-flash-preview,gemini-3.1-flash-lite',
+    geminiModel: env.GEMINI_MODEL || 'gemini-3-flash-preview,gemini-3.5-flash-lite,gemini-3.1-flash-lite',
+    // AI_PROVIDER=gemini|anthropic; unset → Gemini when only its key is present, otherwise Claude.
+    aiProvider: ['gemini', 'anthropic'].includes(env.AI_PROVIDER) ? env.AI_PROVIDER : (env.GEMINI_API_KEY && !env.ANTHROPIC_API_KEY ? 'gemini' : 'anthropic'),
     aiEffort: ['low', 'medium', 'high'].includes(env.AI_EFFORT) ? env.AI_EFFORT : 'medium',
     aiFallbacks: env.AI_FALLBACKS !== 'off',
     aiDailyLimit: parseInt(env.AI_DAILY_LIMIT || '50', 10),
@@ -89,12 +96,13 @@ export function createApp(config) {
         if (!['GET', 'HEAD'].includes(req.method)) {
           const origin = req.headers.origin;
           const host = req.headers.host;
-          if (origin && new URL(origin).host !== host) return sendJson(res, 403, { code: 'bad_origin', message: 'So‘rov manbasi ruxsat etilmagan.', requestId });
-          if (req.headers['x-requested-with'] !== 'drstudy') return sendJson(res, 403, { code: 'csrf', message: 'So‘rov rad etildi.', requestId });
+          if (origin && new URL(origin).host !== host) return sendJson(res, 403, { code: 'bad_origin', message: 'So’rov manbasi ruxsat etilmagan.', requestId });
+          if (req.headers['x-requested-with'] !== 'drstudy') return sendJson(res, 403, { code: 'csrf', message: 'So’rov rad etildi.', requestId });
         }
         const m = router.match(req.method, pathname);
         if (!m) return sendJson(res, 404, { code: 'not_found', message: 'API manzili topilmadi.', requestId });
-        const body = await readJson(req);
+        // voice questions carry base64 audio, so that one route gets a larger body limit
+        const body = await readJson(req, pathname === '/api/chat/transcribe' ? 4 * 1024 * 1024 : undefined);
         const query = Object.fromEntries(url.searchParams);
         const ip = req.socket.remoteAddress || 'local';
         const out = await m.handler({ req, res, user, body, query, params: m.params, cookies, ip, requestId });
@@ -105,6 +113,11 @@ export function createApp(config) {
         if (!user) return sendJson(res, 401, { code: 'unauthenticated', message: 'Avval tizimga kiring.', requestId });
         if (serveFile(req, res, path.join(config.contentDir, 'figures', 'img'), pathname.slice('/media/figures/img/'.length), { cache: 'private, max-age=86400' })) return undefined;
         return sendJson(res, 404, { code: 'not_found', message: 'Rasm fayli topilmadi.', requestId });
+      }
+      if (pathname.startsWith('/library-files/')) {
+        if (!user) return sendJson(res, 401, { code: 'unauthenticated', message: 'Avval tizimga kiring.', requestId });
+        if (serveFile(req, res, config.libraryDir, decodeURIComponent(pathname.slice('/library-files/'.length)), { cache: 'private, max-age=86400' })) return undefined;
+        return sendJson(res, 404, { code: 'not_found', message: 'Kitob fayli topilmadi.', requestId });
       }
       if (pathname.startsWith('/source-pdf/')) {
         if (!user) return sendJson(res, 401, { code: 'unauthenticated', message: 'Avval tizimga kiring.', requestId });
@@ -132,6 +145,6 @@ if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.me
   const config = makeConfig();
   const { server, content } = createApp(config);
   server.listen(config.port, () => {
-    console.log(`DrBek: ${config.publicUrl}  (content ${content.contentVersion}, access=${config.contentAccess}, AI=${config.anthropicApiKey ? config.aiModel : 'ulanmagan'}, PDF=${config.bookPdfPath ? 'ulangan' : 'ulanmagan'})`);
+    console.log(`DrBek: ${config.publicUrl}  (content ${content.contentVersion}, access=${config.contentAccess}, AI=${config.aiProvider === 'gemini' ? (config.geminiApiKey ? config.geminiModel : 'ulanmagan') : (config.anthropicApiKey ? config.aiModel : 'ulanmagan')}, PDF=${config.bookPdfPath ? 'ulangan' : 'ulanmagan'})`);
   });
 }

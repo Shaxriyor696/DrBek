@@ -344,30 +344,30 @@
  "objectives": [
   "Sabablari",
   "Gipovolemik (gemorragik) shok",
-  "Plazma yo'qotish va suvsizlanish shoki",
-  "Neyrogen shok — tomir sig'imining ortishi",
+  "Plazma yo’qotish va suvsizlanish shoki",
+  "Neyrogen shok — tomir sig’imining ortishi",
   "Anafilaktik va gistamin shoki",
   "Septik shok",
   "Davolash fiziologiyasi",
-  "Qon aylanishining to'xtashi (circulatory arrest)"
+  "Qon aylanishining to’xtashi (circulatory arrest)"
  ],
  "blocks": {
   "simple": [
    {
     "type": "heading",
     "level": 2,
-    "text": "Asosiy g'oya",
+    "text": "Asosiy g’oya",
     "id": "ch24-s-0-asosiy-goya",
     "bid": "ch24-u0"
    },
    {
     "type": "paragraph",
-    "text": "**Shok** — butun tanada qon oqimining shunchalik yetishmasligiki, to'qimalar shikastlanadi. Sababi: hujayralarga O₂ va ozuqa yetib bormaydi, chiqindilar olib ketilmaydi. Shok bir marta boshlansa, yurak, tomirlar va vazomotor markazning o'zi ham buzila boshlaydi. Natijada **shok o'zini o'zi kuchaytiradi** (musbat teskari aloqa).",
+    "text": "**Shok** — butun tanada qon oqimining shunchalik yetishmasligiki, to’qimalar shikastlanadi. Sababi: hujayralarga O₂ va ozuqa yetib bormaydi, chiqindilar olib ketilmaydi. Shok bir marta boshlansa, yurak, tomirlar va vazomotor markazning o’zi ham buzila boshlaydi. Natijada **shok o’zini o’zi kuchaytiradi** (musbat teskari aloqa).",
     "bid": "ch24-u1"
    },
    {
     "type": "paragraph",
-    "text": "Shok uch bosqichda o'tadi:",
+    "text": "Shok uch bosqichda o’tadi:",
     "bid": "ch24-u2"
    },
    {
@@ -375,11 +375,11 @@
     "ordered": true,
     "items": [
      {
-      "text": "**Kompensatsiyalangan (progressivlanmaydigan)** — organizm o'zi tiklanadi.",
+      "text": "**Kompensatsiyalangan (progressivlanmaydigan)** — organizm o’zi tiklanadi.",
       "depth": 0
      },
      {
-      "text": "**Progressiv** — davolanmasa, o'lim bilan tugaydi.",
+      "text": "**Progressiv** — davolanmasa, o’lim bilan tugaydi.",
       "depth": 0
      },
      {
@@ -405,35 +405,35 @@
       "depth": 0
      },
      {
-      "text": "**Yurak sabablari (kardiogen shok):** infarkt, toksik holatlar, klapan nuqsonlari, aritmiyalar. O'lim ~70% (22-bob).",
+      "text": "**Yurak sabablari (kardiogen shok):** infarkt, toksik holatlar, klapan nuqsonlari, aritmiyalar. O’lim ~70% (22-bob).",
       "depth": 1
      },
      {
-      "text": "**Venoz qaytishning kamayishi:** qon hajmi kamayishi (eng ko'p uchraydi), tomir tonusi pasayishi, oqim yo'lida to'siq.",
+      "text": "**Venoz qaytishning kamayishi:** qon hajmi kamayishi (eng ko’p uchraydi), tomir tonusi pasayishi, oqim yo’lida to’siq.",
       "depth": 1
      },
      {
-      "text": "**Yurak chiqarishi normal yoki yuqori bo'lgan shok:**",
+      "text": "**Yurak chiqarishi normal yoki yuqori bo’lgan shok:**",
       "depth": 0
      },
      {
-      "text": "metabolizm haddan tashqari yuqori bo'lsa;",
+      "text": "metabolizm haddan tashqari yuqori bo’lsa;",
       "depth": 1
      },
      {
-      "text": "qon oqimi taqsimoti buzilgan bo'lsa (qon oziqlantiruvchi tomirlardan emas, boshqa yo'llardan o'tsa).",
+      "text": "qon oqimi taqsimoti buzilgan bo’lsa (qon oziqlantiruvchi tomirlardan emas, boshqa yo’llardan o’tsa).",
       "depth": 1
      },
      {
-      "text": "**Arterial bosim ishonchli ko'rsatkich emas.**",
+      "text": "**Arterial bosim ishonchli ko’rsatkich emas.**",
       "depth": 0
      },
      {
-      "text": "Kuchli reflekslar tufayli og'ir shokda ham bosim deyarli normal bo'lishi mumkin.",
+      "text": "Kuchli reflekslar tufayli og’ir shokda ham bosim deyarli normal bo’lishi mumkin.",
       "depth": 1
      },
      {
-      "text": "Aksincha, bosim yarmigacha tushganda ham to'qimalar normal ta'minlanishi mumkin.",
+      "text": "Aksincha, bosim yarmigacha tushganda ham to’qimalar normal ta’minlanishi mumkin.",
       "depth": 1
      },
      {
@@ -455,7 +455,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Qon ketishi va ko'rsatkichlar (~30 daqiqa ichida):**",
+      "text": "**Qon ketishi va ko’rsatkichlar (~30 daqiqa ichida):**",
       "depth": 0
      }
     ],
@@ -463,7 +463,7 @@
    },
    {
     "type": "paragraph",
-    "text": "| Yo'qotilgan qon hajmi | Natija | |---|---| | ~10% | Deyarli ta'sir qilmaydi | | Undan ko'p | Avval yurak chiqarishi, keyin bosim tushadi | | 40–45% | Ikkalasi ham ~0 ga tushadi |",
+    "text": "| Yo’qotilgan qon hajmi | Natija | |---|---| | ~10% | Deyarli ta’sir qilmaydi | | Undan ko’p | Avval yurak chiqarishi, keyin bosim tushadi | | 40–45% | Ikkalasi ham ~0 ga tushadi |",
     "bid": "ch24-u8"
    },
    {
@@ -471,7 +471,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Simpatik reflekslar** (baroreceptorlar, tomir cho'zilish retseptorlari) uchta ish qiladi:",
+      "text": "**Simpatik reflekslar** (baroreceptorlar, tomir cho’zilish retseptorlari) uchta ish qiladi:",
       "depth": 0
      },
      {
@@ -487,7 +487,7 @@
       "depth": 1
      },
      {
-      "text": "Reflekslar bo'lmasa, 30 daqiqada qon hajmining atigi 15–20% i yo'qolganda o'lim keladi. Reflekslar bilan 30–40% ga chidash mumkin, ya'ni chidamlilik ~2 baravar oshadi.",
+      "text": "Reflekslar bo’lmasa, 30 daqiqada qon hajmining atigi 15–20% i yo’qolganda o’lim keladi. Reflekslar bilan 30–40% ga chidash mumkin, ya’ni chidamlilik ~2 baravar oshadi.",
       "depth": 1
      },
      {
@@ -511,7 +511,7 @@
       "depth": 1
      },
      {
-      "text": "Shuning uchun o'rtacha bosim **~70 mm Hg** dan pastga tushmaguncha ulardagi oqim normal saqlanadi. Bu paytda boshqa a'zolarda oqim 1/3–1/4 gacha kamayishi mumkin.",
+      "text": "Shuning uchun o’rtacha bosim **~70 mm Hg** dan pastga tushmaguncha ulardagi oqim normal saqlanadi. Bu paytda boshqa a’zolarda oqim 1/3–1/4 gacha kamayishi mumkin.",
       "depth": 1
      }
     ],
@@ -529,11 +529,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Itlardagi tajriba:** bosim **≥45 mm Hg** gacha tushgan itlar tiklangan (bosim qanchalik past tushsa, shuncha sekin). <45 mm Hg bo'lganlar soatlar o'tib o'lgan.",
+      "text": "**Itlardagi tajriba:** bosim **≥45 mm Hg** gacha tushgan itlar tiklangan (bosim qanchalik past tushsa, shuncha sekin). <45 mm Hg bo’lganlar soatlar o’tib o’lgan.",
       "depth": 0
      },
      {
-      "text": "Kritik chegarani bir necha millilitrga oshib o'tish hayot va o'lim orasidagi farqni belgilaydi.",
+      "text": "Kritik chegarani bir necha millilitrga oshib o’tish hayot va o’lim orasidagi farqni belgilaydi.",
       "depth": 0
      }
     ],
@@ -551,11 +551,11 @@
     "ordered": true,
     "items": [
      {
-      "text": "**Baroreflekslar** — kuchli simpatik ta'sir.",
+      "text": "**Baroreflekslar** — kuchli simpatik ta’sir.",
       "depth": 0
      },
      {
-      "text": "**MNT ishemik reaksiyasi** — bosim <50 mm Hg bo'lganda ishga tushadi.",
+      "text": "**MNT ishemik reaksiyasi** — bosim <50 mm Hg bo’lganda ishga tushadi.",
       "depth": 0
      },
      {
@@ -571,7 +571,7 @@
       "depth": 0
      },
      {
-      "text": "**Buyrak usti bezi mag'zidan adrenalin va noradrenalin.**",
+      "text": "**Buyrak usti bezi mag’zidan adrenalin va noradrenalin.**",
       "depth": 0
      },
      {
@@ -579,11 +579,11 @@
       "depth": 0
      },
      {
-      "text": "ichakdan suyuqlik so'riladi;",
+      "text": "ichakdan suyuqlik so’riladi;",
       "depth": 1
      },
      {
-      "text": "interstitsiydan suyuqlik kapillyarlarga o'tadi;",
+      "text": "interstitsiydan suyuqlik kapillyarlarga o’tadi;",
       "depth": 1
      },
      {
@@ -599,7 +599,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Vaqt bo'yicha:**",
+    "text": "**Vaqt bo’yicha:**",
     "bid": "ch24-u14"
    },
    {
@@ -637,7 +637,7 @@
       "depth": 0
      },
      {
-      "text": "Tajribada bosim 30 mm Hg da ushlab turilgan: 2 soatda yurak deyarli o'zgarmagan, 4 soatda ~40% zaiflashgan, keyingi ~1 soatda to'liq ishdan chiqqan.",
+      "text": "Tajribada bosim 30 mm Hg da ushlab turilgan: 2 soatda yurak deyarli o’zgarmagan, 4 soatda ~40% zaiflashgan, keyingi ~1 soatda to’liq ishdan chiqqan.",
       "depth": 1
      },
      {
@@ -649,27 +649,27 @@
       "depth": 0
      },
      {
-      "text": "Qon aylanishi to'liq to'xtaganda dastlabki 4–8 daqiqada eng kuchli simpatik razryad bo'ladi, 10–15 daqiqada markaz \"o'chadi\".",
+      "text": "Qon aylanishi to’liq to’xtaganda dastlabki 4–8 daqiqada eng kuchli simpatik razryad bo’ladi, 10–15 daqiqada markaz \"o’chadi\".",
       "depth": 1
      },
      {
-      "text": "Bosim >30 mm Hg bo'lsa, erta bosqichda odatda ishdan chiqmaydi.",
+      "text": "Bosim >30 mm Hg bo’lsa, erta bosqichda odatda ishdan chiqmaydi.",
       "depth": 1
      },
      {
-      "text": "**\"Loyqalashgan qon\" (sludged blood).** Oqim sekinlashgan, metabolizm esa davom etadi. Karbonat va sut kislotasi to'planib qon atsidozga uchraydi. Qon hujayralari bir-biriga yopishadi, mikrotromblar hosil bo'ladi va mayda tomirlar tiqiladi.",
+      "text": "**\"Loyqalashgan qon\" (sludged blood).** Oqim sekinlashgan, metabolizm esa davom etadi. Karbonat va sut kislotasi to’planib qon atsidozga uchraydi. Qon hujayralari bir-biriga yopishadi, mikrotromblar hosil bo’ladi va mayda tomirlar tiqiladi.",
       "depth": 0
      },
      {
-      "text": "**Kapillyar o'tkazuvchanligining ortishi.** Uzoq gipoksiyadan keyin, faqat kech bosqichda yuz beradi. Suyuqlik to'qimaga chiqadi va qon hajmi yanada kamayadi.",
+      "text": "**Kapillyar o’tkazuvchanligining ortishi.** Uzoq gipoksiyadan keyin, faqat kech bosqichda yuz beradi. Suyuqlik to’qimaga chiqadi va qon hajmi yanada kamayadi.",
       "depth": 0
      },
      {
-      "text": "**Toksinlar ajralishi:** gistamin, serotonin, to'qima fermentlari.",
+      "text": "**Toksinlar ajralishi:** gistamin, serotonin, to’qima fermentlari.",
       "depth": 0
      },
      {
-      "text": "Eng muhimi **endotoksin**. U ichakdagi gram-manfiy bakteriyalardan chiqadi; ichak oqimi kamayganda u ko'proq so'riladi.",
+      "text": "Eng muhimi **endotoksin**. U ichakdagi gram-manfiy bakteriyalardan chiqadi; ichak oqimi kamayganda u ko’proq so’riladi.",
       "depth": 1
      },
      {
@@ -681,7 +681,7 @@
       "depth": 0
      },
      {
-      "text": "Na⁺/K⁺ tashilishi pasayadi: hujayra ichida Na⁺ va Cl⁻ to'planadi, K⁺ chiqib ketadi, hujayra shishadi.",
+      "text": "Na⁺/K⁺ tashilishi pasayadi: hujayra ichida Na⁺ va Cl⁻ to’planadi, K⁺ chiqib ketadi, hujayra shishadi.",
       "depth": 1
      },
      {
@@ -693,11 +693,11 @@
       "depth": 1
      },
      {
-      "text": "Glyukoza metabolizmi susayadi, insulin ta'siri deyarli 100% yo'qoladi.",
+      "text": "Glyukoza metabolizmi susayadi, insulin ta’siri deyarli 100% yo’qoladi.",
       "depth": 1
      },
      {
-      "text": "**Jigar:** bo'lakchaning markaziy qismida nekroz (qon u yerga eng oxirida yetib keladi).",
+      "text": "**Jigar:** bo’lakchaning markaziy qismida nekroz (qon u yerga eng oxirida yetib keladi).",
       "depth": 1
      },
      {
@@ -709,7 +709,7 @@
       "depth": 1
      },
      {
-      "text": "**O'pka:** \"shok o'pkasi\" sindromi, nafas yetishmovchiligi.",
+      "text": "**O’pka:** \"shok o’pkasi\" sindromi, nafas yetishmovchiligi.",
       "depth": 1
      },
      {
@@ -717,15 +717,15 @@
       "depth": 0
      },
      {
-      "text": "Anaerob glikoliz tufayli qonda sut kislotasi ko'payadi.",
+      "text": "Anaerob glikoliz tufayli qonda sut kislotasi ko’payadi.",
       "depth": 1
      },
      {
-      "text": "CO₂ to'planib, hujayra ichida karbonat kislota hosil bo'ladi.",
+      "text": "CO₂ to’planib, hujayra ichida karbonat kislota hosil bo’ladi.",
       "depth": 1
      },
      {
-      "text": "**Asosiy xulosa:** musbat teskari aloqa har doim ham ayovsiz doira hosil qilmaydi. Yengil shokda manfiy teskari aloqalar ustun keladi. Og'ir shokda esa musbat teskari aloqalar kuchliroq. Shu sababli yurak chiqarishining **kritik darajasi** mavjud (1-bob).",
+      "text": "**Asosiy xulosa:** musbat teskari aloqa har doim ham ayovsiz doira hosil qilmaydi. Yengil shokda manfiy teskari aloqalar ustun keladi. Og’ir shokda esa musbat teskari aloqalar kuchliroq. Shu sababli yurak chiqarishining **kritik darajasi** mavjud (1-bob).",
       "depth": 0
      }
     ],
@@ -743,7 +743,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Qon quyish bosim va yurak chiqarishini qisqa vaqtga normallashtirishi mumkin, lekin keyingi quyishlar tobora kam ta'sir qiladi va o'lim bir necha daqiqadan soatgacha ichida keladi.",
+      "text": "Qon quyish bosim va yurak chiqarishini qisqa vaqtga normallashtirishi mumkin, lekin keyingi quyishlar tobora kam ta’sir qiladi va o’lim bir necha daqiqadan soatgacha ichida keladi.",
       "depth": 0
      },
      {
@@ -768,7 +768,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Plazma yo'qotish va suvsizlanish shoki",
+    "text": "Plazma yo’qotish va suvsizlanish shoki",
     "id": "ch24-s-20-plazma-yoqotish-va-suvsizlanish-shoki",
     "bid": "ch24-u20"
    },
@@ -777,23 +777,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Plazma yo'qotish:**",
+      "text": "**Plazma yo’qotish:**",
       "depth": 0
      },
      {
-      "text": "**Ichak tutilishi:** devorda venoz oqim to'siladi, kapillyar bosim oshadi va oqsilga boy suyuqlik ichak devori va bo'shlig'iga chiqadi.",
+      "text": "**Ichak tutilishi:** devorda venoz oqim to’siladi, kapillyar bosim oshadi va oqsilga boy suyuqlik ichak devori va bo’shlig’iga chiqadi.",
       "depth": 1
      },
      {
-      "text": "**Og'ir kuyishlar:** plazma ochiq teri orqali yo'qoladi.",
+      "text": "**Og’ir kuyishlar:** plazma ochiq teri orqali yo’qoladi.",
       "depth": 1
      },
      {
-      "text": "Klinik ko'rinish gemorragik shokka o'xshaydi, lekin **qon qovushqoqligi oshadi** (eritrotsitlar konsentratsiyasi ortadi). Bu oqimni yanada sekinlashtiradi.",
+      "text": "Klinik ko’rinish gemorragik shokka o’xshaydi, lekin **qon qovushqoqligi oshadi** (eritrotsitlar konsentratsiyasi ortadi). Bu oqimni yanada sekinlashtiradi.",
       "depth": 1
      },
      {
-      "text": "**Suvsizlanish** (barcha bo'linmalardan suyuqlik yo'qotish):",
+      "text": "**Suvsizlanish** (barcha bo’linmalardan suyuqlik yo’qotish):",
       "depth": 0
      },
      {
@@ -805,7 +805,7 @@
       "depth": 1
      },
      {
-      "text": "buyrak orqali ortiqcha yo'qotish;",
+      "text": "buyrak orqali ortiqcha yo’qotish;",
       "depth": 1
      },
      {
@@ -813,11 +813,11 @@
       "depth": 1
      },
      {
-      "text": "buyrak usti bezi po'stlog'ining yemirilishi (aldosteron yo'q, Na⁺, Cl⁻ va suv yo'qotiladi).",
+      "text": "buyrak usti bezi po’stlog’ining yemirilishi (aldosteron yo’q, Na⁺, Cl⁻ va suv yo’qotiladi).",
       "depth": 1
      },
      {
-      "text": "**Travmatik shok:** ko'pincha qon ketish natijasi. Kuchli lat yeyishda kapillyarlar shikastlanib, plazma ham yo'qotiladi. Toksik omillar tajribada isbotlanmagan. Neyrogen komponent ham bo'lishi mumkin.",
+      "text": "**Travmatik shok:** ko’pincha qon ketish natijasi. Kuchli lat yeyishda kapillyarlar shikastlanib, plazma ham yo’qotiladi. Toksik omillar tajribada isbotlanmagan. Neyrogen komponent ham bo’lishi mumkin.",
       "depth": 0
      }
     ],
@@ -826,7 +826,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Neyrogen shok — tomir sig'imining ortishi",
+    "text": "Neyrogen shok — tomir sig’imining ortishi",
     "id": "ch24-s-22-neyrogen-shok-tomir-sigimining-ortishi",
     "bid": "ch24-u22"
    },
@@ -835,7 +835,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Qon hajmi normal, lekin vazomotor tonus to'satdan yo'qoladi. Venalar keskin kengayadi (\"venoz to'planish\"), o'rtacha to'lish bosimi (Psf) tushadi va venoz qaytish kamayadi.",
+      "text": "Qon hajmi normal, lekin vazomotor tonus to’satdan yo’qoladi. Venalar keskin kengayadi (\"venoz to’planish\"), o’rtacha to’lish bosimi (Psf) tushadi va venoz qaytish kamayadi.",
       "depth": 0
      },
      {
@@ -847,7 +847,7 @@
       "depth": 1
      },
      {
-      "text": "Yuqori darajagacha ko'tarilgan spinal anesteziya (simpatik chiqish bloklanadi).",
+      "text": "Yuqori darajagacha ko’tarilgan spinal anesteziya (simpatik chiqish bloklanadi).",
       "depth": 1
      },
      {
@@ -869,7 +869,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Antigen–antitana reaksiyasi tufayli bazofillar va semiz hujayralardan **gistamin** ajraladi (35-bob). Uning ta'siri:",
+      "text": "Antigen–antitana reaksiyasi tufayli bazofillar va semiz hujayralardan **gistamin** ajraladi (35-bob). Uning ta’siri:",
       "depth": 0
      },
      {
@@ -881,15 +881,15 @@
       "depth": 1
      },
      {
-      "text": "kapillyar o'tkazuvchanligi keskin oshadi, suyuqlik va oqsil to'qimaga chiqadi.",
+      "text": "kapillyar o’tkazuvchanligi keskin oshadi, suyuqlik va oqsil to’qimaga chiqadi.",
       "depth": 1
      },
      {
-      "text": "Bir necha daqiqada o'limga olib kelishi mumkin.",
+      "text": "Bir necha daqiqada o’limga olib kelishi mumkin.",
       "depth": 0
      },
      {
-      "text": "Venaga ko'p gistamin yuborilganda xuddi shunday \"gistamin shoki\" yuzaga keladi.",
+      "text": "Venaga ko’p gistamin yuborilganda xuddi shunday \"gistamin shoki\" yuzaga keladi.",
       "depth": 0
      }
     ],
@@ -907,15 +907,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Bakterial infeksiya qon orqali ko'p a'zolarga tarqaladi.",
+      "text": "Bakterial infeksiya qon orqali ko’p a’zolarga tarqaladi.",
       "depth": 0
      },
      {
-      "text": "Kasalxonada shokdan o'limning kardiogen shokdan keyingi **eng ko'p** uchraydigan sababi.",
+      "text": "Kasalxonada shokdan o’limning kardiogen shokdan keyingi **eng ko’p** uchraydigan sababi.",
       "depth": 0
      },
      {
-      "text": "Ko'pincha gram-musbat, keyin endotoksin hosil qiluvchi gram-manfiy bakteriyalar sabab bo'ladi.",
+      "text": "Ko’pincha gram-musbat, keyin endotoksin hosil qiluvchi gram-manfiy bakteriyalar sabab bo’ladi.",
       "depth": 0
      },
      {
@@ -939,7 +939,7 @@
       "depth": 1
      },
      {
-      "text": "siydik yo'llaridan (ichak tayoqchasi).",
+      "text": "siydik yo’llaridan (ichak tayoqchasi).",
       "depth": 1
      },
      {
@@ -967,7 +967,7 @@
       "depth": 1
      },
      {
-      "text": "Dastlab faqat infeksiya belgilari bo'ladi. Keyin qon aylanishi zararlanadi va oxirgi bosqich gemorragik shokka o'xshab qoladi.",
+      "text": "Dastlab faqat infeksiya belgilari bo’ladi. Keyin qon aylanishi zararlanadi va oxirgi bosqich gemorragik shokka o’xshab qoladi.",
       "depth": 0
      }
     ],
@@ -985,19 +985,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "**O'rnini bosuvchi terapiya:**",
+      "text": "**O’rnini bosuvchi terapiya:**",
       "depth": 0
      },
      {
-      "text": "Qon ketishda — **butun qon**. Plazma yo'qotilganda — **plazma**. Suvsizlanishda — elektrolit eritmasi.",
+      "text": "Qon ketishda — **butun qon**. Plazma yo’qotilganda — **plazma**. Suvsizlanishda — elektrolit eritmasi.",
       "depth": 1
      },
      {
-      "text": "Plazma butun qon o'rnini bosa oladi: gematokrit yarmigacha tushsa ham, yurak chiqarishi yetarli bo'lsa, organizm chidaydi.",
+      "text": "Plazma butun qon o’rnini bosa oladi: gematokrit yarmigacha tushsa ham, yurak chiqarishi yetarli bo’lsa, organizm chidaydi.",
       "depth": 1
      },
      {
-      "text": "**Dekstran** (glyukoza polimeri) plazma o'rnini bosuvchi sifatida ishlatiladi. Kapillyar teshiklaridan o'tmaydi va kolloid osmotik bosim hosil qiladi. Toksik emas.",
+      "text": "**Dekstran** (glyukoza polimeri) plazma o’rnini bosuvchi sifatida ishlatiladi. Kapillyar teshiklaridan o’tmaydi va kolloid osmotik bosim hosil qiladi. Toksik emas.",
       "depth": 1
      },
      {
@@ -1005,7 +1005,7 @@
       "depth": 0
      },
      {
-      "text": "**Neyrogen** va **anafilaktik** shokda hayotni saqlab qoladi (gistamin ta'siriga qarshi ishlaydi).",
+      "text": "**Neyrogen** va **anafilaktik** shokda hayotni saqlab qoladi (gistamin ta’siriga qarshi ishlaydi).",
       "depth": 1
      },
      {
@@ -1013,7 +1013,7 @@
       "depth": 1
      },
      {
-      "text": "**Boshni pastga qo'yish:** bosh oyoqlardan kamida ~30 sm (12 dyuym) past bo'lishi kerak. Venoz qaytish oshadi. Ko'p shok turlarida birinchi qadam.",
+      "text": "**Boshni pastga qo’yish:** bosh oyoqlardan kamida ~30 sm (12 dyuym) past bo’lishi kerak. Venoz qaytish oshadi. Ko’p shok turlarida birinchi qadam.",
       "depth": 0
      },
      {
@@ -1042,7 +1042,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Qon aylanishining to'xtashi (circulatory arrest)",
+    "text": "Qon aylanishining to’xtashi (circulatory arrest)",
     "id": "ch24-s-30-qon-aylanishining-toxtashi-circulatory-arrest",
     "bid": "ch24-u30"
    },
@@ -1051,11 +1051,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Sabablari: yurak to'xtashi yoki qorinchalar fibrillyatsiyasi. Fibrillyatsiya elektr zarbasi bilan to'xtatiladi (13-bob), yurak to'xtashida darhol yurak-o'pka reanimatsiyasi va O₂ bilan ventilyatsiya qilinadi.",
+      "text": "Sabablari: yurak to’xtashi yoki qorinchalar fibrillyatsiyasi. Fibrillyatsiya elektr zarbasi bilan to’xtatiladi (13-bob), yurak to’xtashida darhol yurak-o’pka reanimatsiyasi va O₂ bilan ventilyatsiya qilinadi.",
       "depth": 0
      },
      {
-      "text": "**Miyaga ta'siri:**",
+      "text": "**Miyaga ta’siri:**",
       "depth": 0
      }
     ],
@@ -1063,7 +1063,7 @@
    },
    {
     "type": "paragraph",
-    "text": "| To'xtash davomiyligi | Oqibat | |---|---| | >5–8 daqiqa | Bemorlarning yarmidan ko'pida doimiy miya shikasti | | 10–15 daqiqa | Aqliy qobiliyat deyarli doim jiddiy yo'qoladi |",
+    "text": "| To’xtash davomiyligi | Oqibat | |---|---| | >5–8 daqiqa | Bemorlarning yarmidan ko’pida doimiy miya shikasti | | 10–15 daqiqa | Aqliy qobiliyat deyarli doim jiddiy yo’qoladi |",
     "bid": "ch24-u32"
    },
    {
@@ -1075,7 +1075,7 @@
       "depth": 0
      },
      {
-      "text": "Tajribada qon to'xtash boshida chiqarib olinib, oxirida qaytarilganda miya **30 daqiqagacha** chidagan.",
+      "text": "Tajribada qon to’xtash boshida chiqarib olinib, oxirida qaytarilganda miya **30 daqiqagacha** chidagan.",
       "depth": 1
      },
      {
@@ -1088,7 +1088,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Bog'liqlik",
+    "text": "Bog’liqlik",
     "id": "ch24-s-34-bogliqlik",
     "bid": "ch24-u34"
    },
@@ -1155,7 +1155,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Shokni bosim emas, **to'qimalarning qon bilan ta'minlanishi** belgilaydi: laktat, siydik miqdori, ong.",
+      "text": "Shokni bosim emas, **to’qimalarning qon bilan ta’minlanishi** belgilaydi: laktat, siydik miqdori, ong.",
       "depth": 0
      },
      {
@@ -1175,11 +1175,11 @@
       "depth": 0
      },
      {
-      "text": "Kuyish va ichak tutilishi plazma yo'qotish shokiga olib keladi.",
+      "text": "Kuyish va ichak tutilishi plazma yo’qotish shokiga olib keladi.",
       "depth": 0
      },
      {
-      "text": "Addison kasalligi (aldosteron yo'qligi) suvsizlanish shokiga sabab bo'ladi.",
+      "text": "Addison kasalligi (aldosteron yo’qligi) suvsizlanish shokiga sabab bo’ladi.",
       "depth": 0
      },
      {
@@ -1875,7 +1875,7 @@
    "id": "ch24-t-shok",
    "termUz": "Shok",
    "original": null,
-   "contextUz": "Shok — butun tanada qon oqimining shunchalik yetishmasligiki, to'qimalar shikastlanadi.",
+   "contextUz": "Shok — butun tanada qon oqimining shunchalik yetishmasligiki, to’qimalar shikastlanadi.",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -1883,9 +1883,9 @@
   },
   {
    "id": "ch24-t-shok-ozini-ozi-kuchaytiradi",
-   "termUz": "shok o'zini o'zi kuchaytiradi",
+   "termUz": "shok o’zini o’zi kuchaytiradi",
    "original": "musbat teskari aloqa",
-   "contextUz": "Natijada shok o'zini o'zi kuchaytiradi (musbat teskari aloqa).",
+   "contextUz": "Natijada shok o’zini o’zi kuchaytiradi (musbat teskari aloqa).",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -1895,7 +1895,7 @@
    "id": "ch24-t-kompensatsiyalangan-progressivlanmaydigan",
    "termUz": "Kompensatsiyalangan (progressivlanmaydigan)",
    "original": null,
-   "contextUz": "Kompensatsiyalangan (progressivlanmaydigan) — organizm o'zi tiklanadi.",
+   "contextUz": "Kompensatsiyalangan (progressivlanmaydigan) — organizm o’zi tiklanadi.",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -1905,7 +1905,7 @@
    "id": "ch24-t-progressiv",
    "termUz": "Progressiv",
    "original": null,
-   "contextUz": "Progressiv — davolanmasa, o'lim bilan tugaydi.",
+   "contextUz": "Progressiv — davolanmasa, o’lim bilan tugaydi.",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -1945,7 +1945,7 @@
    "id": "ch24-t-venoz-qaytishning-kamayishi",
    "termUz": "Venoz qaytishning kamayishi",
    "original": null,
-   "contextUz": "Venoz qaytishning kamayishi: qon hajmi kamayishi (eng ko'p uchraydi), tomir tonusi pasayishi, oqim yo'lida to'siq.",
+   "contextUz": "Venoz qaytishning kamayishi: qon hajmi kamayishi (eng ko’p uchraydi), tomir tonusi pasayishi, oqim yo’lida to’siq.",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -1953,9 +1953,9 @@
   },
   {
    "id": "ch24-t-yurak-chiqarishi-normal-yoki-yuqori-bolgan-shok",
-   "termUz": "Yurak chiqarishi normal yoki yuqori bo'lgan shok",
+   "termUz": "Yurak chiqarishi normal yoki yuqori bo’lgan shok",
    "original": null,
-   "contextUz": "Yurak chiqarishi normal yoki yuqori bo'lgan shok: metabolizm haddan tashqari yuqori bo'lsa; qon oqimi taqsimoti buzilgan bo'lsa (qon oziqlantiruvchi tomirlardan emas, boshqa yo'llardan o'tsa).",
+   "contextUz": "Yurak chiqarishi normal yoki yuqori bo’lgan shok: metabolizm haddan tashqari yuqori bo’lsa; qon oqimi taqsimoti buzilgan bo’lsa (qon oziqlantiruvchi tomirlardan emas, boshqa yo’llardan o’tsa).",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -1963,9 +1963,9 @@
   },
   {
    "id": "ch24-t-arterial-bosim-ishonchli-korsatkich-emas",
-   "termUz": "Arterial bosim ishonchli ko'rsatkich emas.",
+   "termUz": "Arterial bosim ishonchli ko’rsatkich emas.",
    "original": null,
-   "contextUz": "Arterial bosim ishonchli ko'rsatkich emas. Kuchli reflekslar tufayli og'ir shokda ham bosim deyarli normal bo'lishi mumkin.",
+   "contextUz": "Arterial bosim ishonchli ko’rsatkich emas. Kuchli reflekslar tufayli og’ir shokda ham bosim deyarli normal bo’lishi mumkin.",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -1973,9 +1973,9 @@
   },
   {
    "id": "ch24-t-qon-ketishi-va-korsatkichlar-30-daqiqa-ichida",
-   "termUz": "Qon ketishi va ko'rsatkichlar (~30 daqiqa ichida)",
+   "termUz": "Qon ketishi va ko’rsatkichlar (~30 daqiqa ichida)",
    "original": null,
-   "contextUz": "Qon ketishi va ko'rsatkichlar (~30 daqiqa ichida):",
+   "contextUz": "Qon ketishi va ko’rsatkichlar (~30 daqiqa ichida):",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -1984,8 +1984,8 @@
   {
    "id": "ch24-t-simpatik-reflekslar",
    "termUz": "Simpatik reflekslar",
-   "original": "baroreceptorlar, tomir cho'zilish retseptorlari",
-   "contextUz": "Simpatik reflekslar (baroreceptorlar, tomir cho'zilish retseptorlari) uchta ish qiladi: Arteriolalarni toraytiradi, umumiy periferik qarshilik (UPQ) oshadi.",
+   "original": "baroreceptorlar, tomir cho’zilish retseptorlari",
+   "contextUz": "Simpatik reflekslar (baroreceptorlar, tomir cho’zilish retseptorlari) uchta ish qiladi: Arteriolalarni toraytiradi, umumiy periferik qarshilik (UPQ) oshadi.",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2035,7 +2035,7 @@
    "id": "ch24-t-70-mm-hg",
    "termUz": "~70 mm Hg",
    "original": null,
-   "contextUz": "Shuning uchun o'rtacha bosim ~70 mm Hg dan pastga tushmaguncha ulardagi oqim normal saqlanadi.",
+   "contextUz": "Shuning uchun o’rtacha bosim ~70 mm Hg dan pastga tushmaguncha ulardagi oqim normal saqlanadi.",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2065,7 +2065,7 @@
    "id": "ch24-t-baroreflekslar",
    "termUz": "Baroreflekslar",
    "original": null,
-   "contextUz": "Baroreflekslar — kuchli simpatik ta'sir.",
+   "contextUz": "Baroreflekslar — kuchli simpatik ta’sir.",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2075,7 +2075,7 @@
    "id": "ch24-t-mnt-ishemik-reaksiyasi",
    "termUz": "MNT ishemik reaksiyasi",
    "original": null,
-   "contextUz": "MNT ishemik reaksiyasi — bosim <50 mm Hg bo'lganda ishga tushadi.",
+   "contextUz": "MNT ishemik reaksiyasi — bosim <50 mm Hg bo’lganda ishga tushadi.",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2113,9 +2113,9 @@
   },
   {
    "id": "ch24-t-buyrak-usti-bezi-magzidan-adrenalin-va-noradrenalin",
-   "termUz": "Buyrak usti bezi mag'zidan adrenalin va noradrenalin.",
+   "termUz": "Buyrak usti bezi mag’zidan adrenalin va noradrenalin.",
    "original": null,
-   "contextUz": "Buyrak usti bezi mag'zidan adrenalin va noradrenalin. Qon hajmini tiklash: ichakdan suyuqlik so'riladi; interstitsiydan suyuqlik kapillyarlarga o'tadi; buyrak tuz va suvni tejaydi; chanqoq va tuzga ishtaha kuchayadi.",
+   "contextUz": "Buyrak usti bezi mag’zidan adrenalin va noradrenalin. Qon hajmini tiklash: ichakdan suyuqlik so’riladi; interstitsiydan suyuqlik kapillyarlarga o’tadi; buyrak tuz va suvni tejaydi; chanqoq va tuzga ishtaha kuchayadi.",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2125,7 +2125,7 @@
    "id": "ch24-t-qon-hajmini-tiklash",
    "termUz": "Qon hajmini tiklash",
    "original": null,
-   "contextUz": " Qon hajmini tiklash: ichakdan suyuqlik so'riladi; interstitsiydan suyuqlik kapillyarlarga o'tadi; buyrak tuz va suvni tejaydi; chanqoq va tuzga ishtaha kuchayadi.",
+   "contextUz": " Qon hajmini tiklash: ichakdan suyuqlik so’riladi; interstitsiydan suyuqlik kapillyarlarga o’tadi; buyrak tuz va suvni tejaydi; chanqoq va tuzga ishtaha kuchayadi.",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2133,9 +2133,9 @@
   },
   {
    "id": "ch24-t-vaqt-boyicha",
-   "termUz": "Vaqt bo'yicha",
+   "termUz": "Vaqt bo’yicha",
    "original": null,
-   "contextUz": "Vaqt bo'yicha:",
+   "contextUz": "Vaqt bo’yicha:",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2155,7 +2155,7 @@
    "id": "ch24-t-vazomotor-markazning-ishdan-chiqishi",
    "termUz": "Vazomotor markazning ishdan chiqishi.",
    "original": null,
-   "contextUz": "Vazomotor markazning ishdan chiqishi. Qon aylanishi to'liq to'xtaganda dastlabki 4–8 daqiqada eng kuchli simpatik razryad bo'ladi, 10–15 daqiqada markaz \"o'chadi\".",
+   "contextUz": "Vazomotor markazning ishdan chiqishi. Qon aylanishi to’liq to’xtaganda dastlabki 4–8 daqiqada eng kuchli simpatik razryad bo’ladi, 10–15 daqiqada markaz \"o’chadi\".",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2173,9 +2173,9 @@
   },
   {
    "id": "ch24-t-kapillyar-otkazuvchanligining-ortishi",
-   "termUz": "Kapillyar o'tkazuvchanligining ortishi.",
+   "termUz": "Kapillyar o’tkazuvchanligining ortishi.",
    "original": null,
-   "contextUz": "Kapillyar o'tkazuvchanligining ortishi. Uzoq gipoksiyadan keyin, faqat kech bosqichda yuz beradi.",
+   "contextUz": "Kapillyar o’tkazuvchanligining ortishi. Uzoq gipoksiyadan keyin, faqat kech bosqichda yuz beradi.",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2185,7 +2185,7 @@
    "id": "ch24-t-toksinlar-ajralishi",
    "termUz": "Toksinlar ajralishi",
    "original": null,
-   "contextUz": "Toksinlar ajralishi: gistamin, serotonin, to'qima fermentlari.",
+   "contextUz": "Toksinlar ajralishi: gistamin, serotonin, to’qima fermentlari.",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2205,7 +2205,7 @@
    "id": "ch24-t-umumiy-hujayra-buzilishi",
    "termUz": "Umumiy hujayra buzilishi",
    "original": null,
-   "contextUz": "Umumiy hujayra buzilishi: Na⁺/K⁺ tashilishi pasayadi: hujayra ichida Na⁺ va Cl⁻ to'planadi, K⁺ chiqib ketadi, hujayra shishadi.",
+   "contextUz": "Umumiy hujayra buzilishi: Na⁺/K⁺ tashilishi pasayadi: hujayra ichida Na⁺ va Cl⁻ to’planadi, K⁺ chiqib ketadi, hujayra shishadi.",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2215,7 +2215,7 @@
    "id": "ch24-t-jigar",
    "termUz": "Jigar",
    "original": null,
-   "contextUz": "Jigar: bo'lakchaning markaziy qismida nekroz (qon u yerga eng oxirida yetib keladi).",
+   "contextUz": "Jigar: bo’lakchaning markaziy qismida nekroz (qon u yerga eng oxirida yetib keladi).",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2243,9 +2243,9 @@
   },
   {
    "id": "ch24-t-opka",
-   "termUz": "O'pka",
+   "termUz": "O’pka",
    "original": null,
-   "contextUz": "O'pka: \"shok o'pkasi\" sindromi, nafas yetishmovchiligi.",
+   "contextUz": "O’pka: \"shok o’pkasi\" sindromi, nafas yetishmovchiligi.",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2255,7 +2255,7 @@
    "id": "ch24-t-atsidoz",
    "termUz": "Atsidoz.",
    "original": null,
-   "contextUz": "Atsidoz. Anaerob glikoliz tufayli qonda sut kislotasi ko'payadi.",
+   "contextUz": "Atsidoz. Anaerob glikoliz tufayli qonda sut kislotasi ko’payadi.",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2303,9 +2303,9 @@
   },
   {
    "id": "ch24-t-plazma-yoqotish",
-   "termUz": "Plazma yo'qotish",
+   "termUz": "Plazma yo’qotish",
    "original": null,
-   "contextUz": "Plazma yo'qotish: Ichak tutilishi: devorda venoz oqim to'siladi, kapillyar bosim oshadi va oqsilga boy suyuqlik ichak devori va bo'shlig'iga chiqadi.",
+   "contextUz": "Plazma yo’qotish: Ichak tutilishi: devorda venoz oqim to’siladi, kapillyar bosim oshadi va oqsilga boy suyuqlik ichak devori va bo’shlig’iga chiqadi.",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2315,7 +2315,7 @@
    "id": "ch24-t-ichak-tutilishi",
    "termUz": "Ichak tutilishi",
    "original": null,
-   "contextUz": "Plazma yo'qotish: Ichak tutilishi: devorda venoz oqim to'siladi, kapillyar bosim oshadi va oqsilga boy suyuqlik ichak devori va bo'shlig'iga chiqadi.",
+   "contextUz": "Plazma yo’qotish: Ichak tutilishi: devorda venoz oqim to’siladi, kapillyar bosim oshadi va oqsilga boy suyuqlik ichak devori va bo’shlig’iga chiqadi.",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2323,9 +2323,9 @@
   },
   {
    "id": "ch24-t-ogir-kuyishlar",
-   "termUz": "Og'ir kuyishlar",
+   "termUz": "Og’ir kuyishlar",
    "original": null,
-   "contextUz": "Og'ir kuyishlar: plazma ochiq teri orqali yo'qoladi.",
+   "contextUz": "Og’ir kuyishlar: plazma ochiq teri orqali yo’qoladi.",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2335,7 +2335,7 @@
    "id": "ch24-t-qon-qovushqoqligi-oshadi",
    "termUz": "qon qovushqoqligi oshadi",
    "original": "eritrotsitlar konsentratsiyasi ortadi",
-   "contextUz": "Klinik ko'rinish gemorragik shokka o'xshaydi, lekin qon qovushqoqligi oshadi (eritrotsitlar konsentratsiyasi ortadi).",
+   "contextUz": "Klinik ko’rinish gemorragik shokka o’xshaydi, lekin qon qovushqoqligi oshadi (eritrotsitlar konsentratsiyasi ortadi).",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2344,8 +2344,8 @@
   {
    "id": "ch24-t-suvsizlanish",
    "termUz": "Suvsizlanish",
-   "original": "barcha bo'linmalardan suyuqlik yo'qotish",
-   "contextUz": "Suvsizlanish (barcha bo'linmalardan suyuqlik yo'qotish): kuchli terlash; ich ketishi yoki qusish; buyrak orqali ortiqcha yo'qotish; yetarlicha ichmaslik; buyrak usti bezi po'stlog'ining yemirilishi (aldosteron yo'q, Na⁺, Cl⁻ va suv yo'qotiladi).",
+   "original": "barcha bo’linmalardan suyuqlik yo’qotish",
+   "contextUz": "Suvsizlanish (barcha bo’linmalardan suyuqlik yo’qotish): kuchli terlash; ich ketishi yoki qusish; buyrak orqali ortiqcha yo’qotish; yetarlicha ichmaslik; buyrak usti bezi po’stlog’ining yemirilishi (aldosteron yo’q, Na⁺, Cl⁻ va suv yo’qotiladi).",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2355,7 +2355,7 @@
    "id": "ch24-t-travmatik-shok",
    "termUz": "Travmatik shok",
    "original": null,
-   "contextUz": "Travmatik shok: ko'pincha qon ketish natijasi.",
+   "contextUz": "Travmatik shok: ko’pincha qon ketish natijasi.",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2383,9 +2383,9 @@
   },
   {
    "id": "ch24-t-eng-kop",
-   "termUz": "eng ko'p",
+   "termUz": "eng ko’p",
    "original": null,
-   "contextUz": "Kasalxonada shokdan o'limning kardiogen shokdan keyingi eng ko'p uchraydigan sababi.",
+   "contextUz": "Kasalxonada shokdan o’limning kardiogen shokdan keyingi eng ko’p uchraydigan sababi.",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2395,7 +2395,7 @@
    "id": "ch24-t-tipik-sabablari",
    "termUz": "Tipik sabablari",
    "original": null,
-   "contextUz": "Tipik sabablari: bachadon yoki bachadon naylaridan tarqalgan peritonit (masalan, nosteril abort); oshqozon-ichak trakti yorilishidan peritonit; teridagi strepto- yoki stafilokokk infeksiyasining tarqalishi; gazli gangrena (jigarga yetib boradi); siydik yo'llaridan (ichak tayoqchasi).",
+   "contextUz": "Tipik sabablari: bachadon yoki bachadon naylaridan tarqalgan peritonit (masalan, nosteril abort); oshqozon-ichak trakti yorilishidan peritonit; teridagi strepto- yoki stafilokokk infeksiyasining tarqalishi; gazli gangrena (jigarga yetib boradi); siydik yo’llaridan (ichak tayoqchasi).",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2433,9 +2433,9 @@
   },
   {
    "id": "ch24-t-ornini-bosuvchi-terapiya",
-   "termUz": "O'rnini bosuvchi terapiya",
+   "termUz": "O’rnini bosuvchi terapiya",
    "original": null,
-   "contextUz": "O'rnini bosuvchi terapiya: Qon ketishda — butun qon.",
+   "contextUz": "O’rnini bosuvchi terapiya: Qon ketishda — butun qon.",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2445,7 +2445,7 @@
    "id": "ch24-t-butun-qon",
    "termUz": "butun qon",
    "original": null,
-   "contextUz": "O'rnini bosuvchi terapiya: Qon ketishda — butun qon.",
+   "contextUz": "O’rnini bosuvchi terapiya: Qon ketishda — butun qon.",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2455,7 +2455,7 @@
    "id": "ch24-t-plazma",
    "termUz": "plazma",
    "original": null,
-   "contextUz": "Plazma yo'qotilganda — plazma.",
+   "contextUz": "Plazma yo’qotilganda — plazma.",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2465,7 +2465,7 @@
    "id": "ch24-t-dekstran",
    "termUz": "Dekstran",
    "original": "glyukoza polimeri",
-   "contextUz": "Dekstran (glyukoza polimeri) plazma o'rnini bosuvchi sifatida ishlatiladi.",
+   "contextUz": "Dekstran (glyukoza polimeri) plazma o’rnini bosuvchi sifatida ishlatiladi.",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2475,7 +2475,7 @@
    "id": "ch24-t-simpatomimetiklar",
    "termUz": "Simpatomimetiklar",
    "original": "noradrenalin, adrenalin va boshqalar",
-   "contextUz": "Simpatomimetiklar (noradrenalin, adrenalin va boshqalar): Neyrogen va anafilaktik shokda hayotni saqlab qoladi (gistamin ta'siriga qarshi ishlaydi).",
+   "contextUz": "Simpatomimetiklar (noradrenalin, adrenalin va boshqalar): Neyrogen va anafilaktik shokda hayotni saqlab qoladi (gistamin ta’siriga qarshi ishlaydi).",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2485,7 +2485,7 @@
    "id": "ch24-t-neyrogen",
    "termUz": "Neyrogen",
    "original": null,
-   "contextUz": "Simpatomimetiklar (noradrenalin, adrenalin va boshqalar): Neyrogen va anafilaktik shokda hayotni saqlab qoladi (gistamin ta'siriga qarshi ishlaydi).",
+   "contextUz": "Simpatomimetiklar (noradrenalin, adrenalin va boshqalar): Neyrogen va anafilaktik shokda hayotni saqlab qoladi (gistamin ta’siriga qarshi ishlaydi).",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2495,7 +2495,7 @@
    "id": "ch24-t-anafilaktik",
    "termUz": "anafilaktik",
    "original": null,
-   "contextUz": "Simpatomimetiklar (noradrenalin, adrenalin va boshqalar): Neyrogen va anafilaktik shokda hayotni saqlab qoladi (gistamin ta'siriga qarshi ishlaydi).",
+   "contextUz": "Simpatomimetiklar (noradrenalin, adrenalin va boshqalar): Neyrogen va anafilaktik shokda hayotni saqlab qoladi (gistamin ta’siriga qarshi ishlaydi).",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2513,9 +2513,9 @@
   },
   {
    "id": "ch24-t-boshni-pastga-qoyish",
-   "termUz": "Boshni pastga qo'yish",
+   "termUz": "Boshni pastga qo’yish",
    "original": null,
-   "contextUz": "Boshni pastga qo'yish: bosh oyoqlardan kamida ~30 sm (12 dyuym) past bo'lishi kerak.",
+   "contextUz": "Boshni pastga qo’yish: bosh oyoqlardan kamida ~30 sm (12 dyuym) past bo’lishi kerak.",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2543,9 +2543,9 @@
   },
   {
    "id": "ch24-t-miyaga-tasiri",
-   "termUz": "Miyaga ta'siri",
+   "termUz": "Miyaga ta’siri",
    "original": null,
-   "contextUz": "Miyaga ta'siri:",
+   "contextUz": "Miyaga ta’siri:",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2575,7 +2575,7 @@
    "id": "ch24-t-30-daqiqagacha",
    "termUz": "30 daqiqagacha",
    "original": null,
-   "contextUz": "Tajribada qon to'xtash boshida chiqarib olinib, oxirida qaytarilganda miya 30 daqiqagacha chidagan.",
+   "contextUz": "Tajribada qon to’xtash boshida chiqarib olinib, oxirida qaytarilganda miya 30 daqiqagacha chidagan.",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",
@@ -2583,9 +2583,9 @@
   },
   {
    "id": "ch24-t-toqimalarning-qon-bilan-taminlanishi",
-   "termUz": "to'qimalarning qon bilan ta'minlanishi",
+   "termUz": "to’qimalarning qon bilan ta’minlanishi",
    "original": null,
-   "contextUz": "Shokni bosim emas, to'qimalarning qon bilan ta'minlanishi belgilaydi: laktat, siydik miqdori, ong.",
+   "contextUz": "Shokni bosim emas, to’qimalarning qon bilan ta’minlanishi belgilaydi: laktat, siydik miqdori, ong.",
    "lessonId": "ch24",
    "topicId": "04",
    "source": "summaryUz",

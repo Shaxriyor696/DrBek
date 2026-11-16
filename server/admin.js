@@ -18,8 +18,8 @@ export function adminRoutes(router, { db, content, config, rootDir }) {
     const status = content.status('lesson', lessonId, l.status);
     const missing = [];
     if (status !== 'approved') missing.push('Dars tekshiruvchi tomonidan tasdiqlanmagan (status: ' + status + ').');
-    if (!l.blocks.simple.length) missing.push('O‘zbekcha izoh yo‘q.');
-    if (!l.blocks.full.length) missing.push('Asl manba matni yo‘q.');
+    if (!l.blocks.simple.length) missing.push('O’zbekcha izoh yo’q.');
+    if (!l.blocks.full.length) missing.push('Asl manba matni yo’q.');
     const figs = l.figureIds.map((f) => content.figure(f));
     const notIncluded = figs.filter((f) => f.coverage !== 'included');
     if (notIncluded.length) missing.push(`${notIncluded.length} ta rasm avtomatik kesilmagan: ${notIncluded.map((f) => f.figureNumber).join(', ')}.`);
@@ -66,7 +66,7 @@ export function adminRoutes(router, { db, content, config, rootDir }) {
   router.get('/api/admin/lessons/:id', ({ user, params }) => {
     guard(user, 'editor', 'reviewer');
     const l = content.lessonFile(params.id);
-    if (!l) throw E.notFound('Bo‘lim');
+    if (!l) throw E.notFound('Bo’lim');
     const figures = l.figureIds.map((f) => ({ ...content.figure(f), reviewStatus: content.status('figure', f, content.figure(f).reviewStatus) }));
     const reviews = db.prepare('SELECT * FROM content_reviews WHERE target_id=? ORDER BY at DESC').all(params.id);
     return { body: { lesson: { id: l.id, titleUz: l.titleUz, titleOriginal: l.titleOriginal, status: content.status('lesson', l.id, l.status), contentVersion: l.contentVersion, translationStatus: l.translationStatus, source: l.source }, figures, gate: publishGate(l.id), reviews } };
@@ -80,7 +80,7 @@ export function adminRoutes(router, { db, content, config, rootDir }) {
     });
     if (d.decision !== 'approve' && !d.reason) throw E.invalid({ reason: 'Qaytarish sababini yozing.' });
     let version = null;
-    if (d.targetType === 'lesson') { const l = content.lessonFile(d.targetId); if (!l) throw E.notFound('Bo‘lim'); version = l.contentVersion; if (content.status('lesson', l.id, l.status) === 'published' && d.decision === 'approve') throw E.conflict('Dars allaqachon nashr etilgan.'); }
+    if (d.targetType === 'lesson') { const l = content.lessonFile(d.targetId); if (!l) throw E.notFound('Bo’lim'); version = l.contentVersion; if (content.status('lesson', l.id, l.status) === 'published' && d.decision === 'approve') throw E.conflict('Dars allaqachon nashr etilgan.'); }
     if (d.targetType === 'figure' && !content.figure(d.targetId)) throw E.notFound('Rasm');
     if (d.targetType === 'question' && !db.prepare('SELECT 1 FROM questions WHERE id=?').get(d.targetId)) throw E.notFound('Savol');
     const status = d.decision === 'approve' ? 'approved' : d.decision === 'reject' ? (d.targetType === 'lesson' ? 'changes_requested' : 'rejected') : 'changes_requested';
@@ -94,7 +94,7 @@ export function adminRoutes(router, { db, content, config, rootDir }) {
     guard(user);
     const d = v(body, { lessonId: { type: 'string', required: true, re: /^ch\d{2}$/ } });
     const l = content.lessonFile(d.lessonId);
-    if (!l) throw E.notFound('Bo‘lim');
+    if (!l) throw E.notFound('Bo’lim');
     const gate = publishGate(l.id);
     if (gate.blocking.length) return { status: 409, body: { code: 'publish_gate', message: 'Nashrdan oldin quyidagilar bajarilishi kerak.', missing: gate.missing } };
     setState(user, 'lesson', l.id, 'published', l.contentVersion);
@@ -105,7 +105,7 @@ export function adminRoutes(router, { db, content, config, rootDir }) {
   router.post('/api/admin/archive', ({ user, body }) => {
     guard(user);
     const d = v(body, { lessonId: { type: 'string', required: true, re: /^ch\d{2}$/ } });
-    if (!content.lessonFile(d.lessonId)) throw E.notFound('Bo‘lim');
+    if (!content.lessonFile(d.lessonId)) throw E.notFound('Bo’lim');
     setState(user, 'lesson', d.lessonId, 'archived');
     audit(user, 'lesson.archive', `lesson:${d.lessonId}`);
     return { body: { status: 'archived' } };

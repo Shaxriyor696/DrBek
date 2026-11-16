@@ -1,4 +1,4 @@
-// Create (or promote) an admin account:  npm run create-admin -- email@example.com "Ism"   (parol so‘raladi)
+// Create (or promote) an admin account:  npm run create-admin -- email@example.com "Ism"   (parol so’raladi)
 import path from 'node:path';
 import readline from 'node:readline';
 import { openDb } from '../server/db.js';
@@ -22,7 +22,7 @@ if (ex) {
 const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
 const pw = process.env.ADMIN_PASSWORD || await new Promise((r) => rl.question('Parol (kamida 8 belgi): ', r));
 rl.close();
-if (!pw || pw.length < 8) { console.error('Parol kamida 8 belgi bo‘lishi kerak.'); process.exit(2); }
+if (!pw || pw.length < 8) { console.error('Parol kamida 8 belgi bo’lishi kerak.'); process.exit(2); }
 const uid = id('u_'); const now = nowIso();
 db.prepare('INSERT INTO users (id, email, password_hash, roles, email_verified_at, created_at) VALUES (?,?,?,?,?,?)').run(uid, email.toLowerCase(), hashPassword(pw), JSON.stringify(['student', 'admin', 'reviewer', 'editor']), now, now);
 db.prepare('INSERT INTO profiles (user_id, name, timezone, updated_at) VALUES (?,?,?,?)').run(uid, name, 'Asia/Tashkent', now);

@@ -2,7 +2,7 @@
  "id": "ch78",
  "topicId": "14",
  "order": 4,
- "titleUz": "Buyrak usti bezi po'stlog'i gormonlari",
+ "titleUz": "Buyrak usti bezi po’stlog’i gormonlari",
  "titleOriginal": "Adrenocortical Hormones",
  "subtitle": "*Adrenocortical Hormones* — XIV bo'lim, PDF 904–921",
  "contentVersion": "2026-11-14.1",
@@ -315,31 +315,31 @@
  ],
  "objectives": [
   "Kortikosteroid turlari",
-  "Po'stloqning uch qavati",
+  "Po’stloqning uch qavati",
   "Sintez",
   "Kortikosteroidlar faolligi (78-1-jadval)",
   "Plazmada tashilish va metabolizm",
   "Mineralokortikoidlar — aldosteron funksiyalari",
   "Aldosteron sekretsiyasining boshqarilishi",
   "Glyukokortikoidlar funksiyalari",
-  "Stress va yallig'lanishga qarshilik",
+  "Stress va yallig’lanishga qarshilik",
   "Kortizol sekretsiyasining AKTG tomonidan boshqarilishi",
   "AKTG bilan birga ajraladigan MSG, lipotropin va endorfin",
   "Buyrak usti androgenlari",
-  "Buyrak usti po'stlog'i sekretsiyasi buzilishlari"
+  "Buyrak usti po’stlog’i sekretsiyasi buzilishlari"
  ],
  "blocks": {
   "simple": [
    {
     "type": "heading",
     "level": 2,
-    "text": "Asosiy g'oya",
+    "text": "Asosiy g’oya",
     "id": "ch78-s-0-asosiy-goya",
     "bid": "ch78-u0"
    },
    {
     "type": "paragraph",
-    "text": "Har biri ~4 g bo'lgan ikki buyrak usti bezi buyraklarning yuqori qutblarida yotadi va ikki qismdan iborat (78-1-rasm): **mag'iz qavati** (markaziy 20%; simpatik tizim bilan bog'liq, adrenalin va noradrenalin ajratadi, 61-bob) va **po'stloq**. Po'stloq xolesterindan hosil bo'ladigan **kortikosteroidlarni** ajratadi: mineralokortikoidlar (asosan aldosteron — Na/K muvozanati, \"hayotni saqlovchi\" qism), glyukokortikoidlar (asosan kortizol — glyukoza, oqsil, yog' almashinuvi, stress va yallig'lanishga qarshi) va oz miqdorda androgenlar. Aldosteronni asosan K⁺ va angiotensin II, kortizolni AKTG boshqaradi.",
+    "text": "Har biri ~4 g bo’lgan ikki buyrak usti bezi buyraklarning yuqori qutblarida yotadi va ikki qismdan iborat (78-1-rasm): **mag’iz qavati** (markaziy 20%; simpatik tizim bilan bog’liq, adrenalin va noradrenalin ajratadi, 61-bob) va **po’stloq**. Po’stloq xolesterindan hosil bo’ladigan **kortikosteroidlarni** ajratadi: mineralokortikoidlar (asosan aldosteron — Na/K muvozanati, \"hayotni saqlovchi\" qism), glyukokortikoidlar (asosan kortizol — glyukoza, oqsil, yog' almashinuvi, stress va yallig’lanishga qarshi) va oz miqdorda androgenlar. Aldosteronni asosan K⁺ va angiotensin II, kortizolni AKTG boshqaradi.",
     "bid": "ch78-u1"
    },
    {
@@ -354,19 +354,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Mineralokortikoidlar** — hujayradan tashqari suyuqlik elektrolitlariga (\"minerallar\"), ayniqsa Na⁺ va K⁺ ga ta'sir qiladi.",
+      "text": "**Mineralokortikoidlar** — hujayradan tashqari suyuqlik elektrolitlariga (\"minerallar\"), ayniqsa Na⁺ va K⁺ ga ta’sir qiladi.",
       "depth": 0
      },
      {
-      "text": "**Glyukokortikoidlar** — qon glyukozasini oshiradi; oqsil va yog' almashinuviga ham muhim ta'sir qiladi.",
+      "text": "**Glyukokortikoidlar** — qon glyukozasini oshiradi; oqsil va yog' almashinuviga ham muhim ta’sir qiladi.",
       "depth": 0
      },
      {
-      "text": "**Androgenlar** — testosteronga o'xshash ta'sir; odatda ahamiyati kam, lekin ba'zi kasalliklarda ko'p ajralib, erkaklashtiradi.",
+      "text": "**Androgenlar** — testosteronga o’xshash ta’sir; odatda ahamiyati kam, lekin ba’zi kasalliklarda ko’p ajralib, erkaklashtiradi.",
       "depth": 0
      },
      {
-      "text": "Po'stloqdan 30 dan ortiq steroid ajratilgan; eng muhimlari — **aldosteron** (asosiy mineralokortikoid) va **kortizol** (asosiy glyukokortikoid).",
+      "text": "Po’stloqdan 30 dan ortiq steroid ajratilgan; eng muhimlari — **aldosteron** (asosiy mineralokortikoid) va **kortizol** (asosiy glyukokortikoid).",
       "depth": 0
      }
     ],
@@ -375,7 +375,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Po'stloqning uch qavati",
+    "text": "Po’stloqning uch qavati",
     "id": "ch78-s-4-postloqning-uch-qavati",
     "bid": "ch78-u4"
    },
@@ -388,15 +388,15 @@
       "depth": 0
      },
      {
-      "text": "**Tutamli zona (zona fasciculata)** — o'rta va eng keng, ~75%. Kortizol, kortikosteron va oz miqdorda androgenlar va estrogenlar. Asosan gipotalamus-gipofiz o'qi orqali **AKTG** boshqaradi.",
+      "text": "**Tutamli zona (zona fasciculata)** — o’rta va eng keng, ~75%. Kortizol, kortikosteron va oz miqdorda androgenlar va estrogenlar. Asosan gipotalamus-gipofiz o’qi orqali **AKTG** boshqaradi.",
       "depth": 0
      },
      {
-      "text": "**To'rsimon zona (zona reticularis)** — ichki qavat. Androgenlar — **degidroepiandrosteron (DHEA)** va **androstenedion**, oz estrogen va glyukokortikoidlar. AKTG boshqaradi; gipofizdan chiqadigan po'stloq androgenini qo'zg'atuvchi gormon kabi omillar ham bo'lishi mumkin; mexanizmi kamroq o'rganilgan.",
+      "text": "**To’rsimon zona (zona reticularis)** — ichki qavat. Androgenlar — **degidroepiandrosteron (DHEA)** va **androstenedion**, oz estrogen va glyukokortikoidlar. AKTG boshqaradi; gipofizdan chiqadigan po’stloq androgenini qo’zg’atuvchi gormon kabi omillar ham bo’lishi mumkin; mexanizmi kamroq o’rganilgan.",
       "depth": 0
      },
      {
-      "text": "Aldosteron va kortizol mustaqil boshqariladi: angiotensin II faqat koptokchali zonani gipertrofiyalaydi, AKTG esa tutamli va to'rsimon zonalarga ta'sir qilib, koptokchali zonaga kam ta'sir qiladi.",
+      "text": "Aldosteron va kortizol mustaqil boshqariladi: angiotensin II faqat koptokchali zonani gipertrofiyalaydi, AKTG esa tutamli va to’rsimon zonalarga ta’sir qilib, koptokchali zonaga kam ta’sir qiladi.",
       "depth": 0
      }
     ],
@@ -414,7 +414,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Barcha steroid gormonlar xolesterindan. Po'stloq hujayralari atsetatdan oz xolesterin sintezlay oladi, lekin ~80% i plazmadagi **LDL** dan. LDL interstitsial suyuqlikka diffuziya qilib, membranadagi **qoplangan chuqurchalar** (coated pits) dagi retseptorlarga bog'lanadi, endotsitoz bilan ichkariga olinadi, lizosomalar bilan qo'shilib xolesterin chiqariladi.",
+      "text": "Barcha steroid gormonlar xolesterindan. Po’stloq hujayralari atsetatdan oz xolesterin sintezlay oladi, lekin ~80% i plazmadagi **LDL** dan. LDL interstitsial suyuqlikka diffuziya qilib, membranadagi **qoplangan chuqurchalar** (coated pits) dagi retseptorlarga bog’lanadi, endotsitoz bilan ichkariga olinadi, lizosomalar bilan qo’shilib xolesterin chiqariladi.",
       "depth": 0
      },
      {
@@ -422,11 +422,11 @@
       "depth": 0
      },
      {
-      "text": "Mitoxondriyada **xolesterin desmolaza** (P450scc) xolesterinni **pregnenolonga** aylantiradi — tezlikni cheklovchi bosqich. Uchala zonada ham buni asosiy boshqaruvchi omillar (AKTG, angiotensin II) qo'zg'atadi.",
+      "text": "Mitoxondriyada **xolesterin desmolaza** (P450scc) xolesterinni **pregnenolonga** aylantiradi — tezlikni cheklovchi bosqich. Uchala zonada ham buni asosiy boshqaruvchi omillar (AKTG, angiotensin II) qo’zg’atadi.",
       "depth": 0
      },
      {
-      "text": "**Sintez yo'llari** (78-2-rasm): bosqichlar mitoxondriya va endoplazmatik to'rda, har biri o'ziga xos ferment bilan (3β-gidroksisteroid degidrogenaza, 17α-gidroksilaza, 17,20-liaza, 21β-gidroksilaza, 11β-gidroksilaza, aldosteron sintaza). Birgina ferment o'zgarishi juda boshqa gormonlar nisbatini (masalan ko'p erkaklashtiruvchi gormonlarni) berishi mumkin.",
+      "text": "**Sintez yo’llari** (78-2-rasm): bosqichlar mitoxondriya va endoplazmatik to’rda, har biri o’ziga xos ferment bilan (3β-gidroksisteroid degidrogenaza, 17α-gidroksilaza, 17,20-liaza, 21β-gidroksilaza, 11β-gidroksilaza, aldosteron sintaza). Birgina ferment o’zgarishi juda boshqa gormonlar nisbatini (masalan ko’p erkaklashtiruvchi gormonlarni) berishi mumkin.",
       "depth": 0
      },
      {
@@ -442,7 +442,7 @@
       "depth": 1
      },
      {
-      "text": "Kortizolning 3-uglerodida keto kislorod, 11 va 21-uglerodlarda gidroksil; aldosteronda 18-uglerodga kislorod bog'langan.",
+      "text": "Kortizolning 3-uglerodida keto kislorod, 11 va 21-uglerodlarda gidroksil; aldosteronda 18-uglerodga kislorod bog’langan.",
       "depth": 0
      }
     ],
@@ -481,7 +481,7 @@
       "depth": 0
      },
      {
-      "text": "Kortizol — kuchsiz, lekin ko'p ajraladi.",
+      "text": "Kortizol — kuchsiz, lekin ko’p ajraladi.",
       "depth": 0
      },
      {
@@ -513,15 +513,15 @@
       "depth": 0
      },
      {
-      "text": "Prednizon — sintetik, 4 baravar; metilprednizon — 5 baravar; **deksametazon** — 30 baravar, mineralokortikoid faolligi deyarli nol (sof glyukokortikoid ta'sir uchun muhim dori).",
+      "text": "Prednizon — sintetik, 4 baravar; metilprednizon — 5 baravar; **deksametazon** — 30 baravar, mineralokortikoid faolligi deyarli nol (sof glyukokortikoid ta’sir uchun muhim dori).",
       "depth": 0
      },
      {
-      "text": "Kortizolning mineralokortikoid faolligi borligi muhim: kortizol ortiqcha bo'ladigan sindromlarda mineralokortikoid ta'sir ham bo'ladi.",
+      "text": "Kortizolning mineralokortikoid faolligi borligi muhim: kortizol ortiqcha bo’ladigan sindromlarda mineralokortikoid ta’sir ham bo’ladi.",
       "depth": 0
      },
      {
-      "text": "Plazma: kortizol ~12 µg/100 ml, sekretsiya 15–20 mg/kun; aldosteron ~6 ng/100 ml, ~150 µg/kun (natriy va kaliy qabuliga bog'liq). DHEA sekretsiyasi ~20 mg/kun.",
+      "text": "Plazma: kortizol ~12 µg/100 ml, sekretsiya 15–20 mg/kun; aldosteron ~6 ng/100 ml, ~150 µg/kun (natriy va kaliy qabuliga bog’liq). DHEA sekretsiyasi ~20 mg/kun.",
       "depth": 0
      }
     ],
@@ -539,19 +539,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Kortizolning 90–95% i plazma oqsillariga, asosan **kortizol bog'lovchi globulin (transkortin)**, kamroq albuminga bog'langan; yarim yemirilish davri 60–90 daqiqa.",
+      "text": "Kortizolning 90–95% i plazma oqsillariga, asosan **kortizol bog’lovchi globulin (transkortin)**, kamroq albuminga bog’langan; yarim yemirilish davri 60–90 daqiqa.",
       "depth": 0
      },
      {
-      "text": "Aldosteronning ~60% i bog'langan, ~40% erkin; yarim davri ~20 daqiqa.",
+      "text": "Aldosteronning ~60% i bog’langan, ~40% erkin; yarim davri ~20 daqiqa.",
       "depth": 0
      },
      {
-      "text": "Bog'lanish erkin gormon tebranishlarini yumshatuvchi rezervuar (stress va AKTG epizodlarida) va to'qimalarga bir tekis tarqalishni ta'minlaydi.",
+      "text": "Bog’lanish erkin gormon tebranishlarini yumshatuvchi rezervuar (stress va AKTG epizodlarida) va to’qimalarga bir tekis tarqalishni ta’minlaydi.",
       "depth": 0
      },
      {
-      "text": "Asosan **jigarda** parchalanadi: glyukuron kislota, kamroq sulfat bilan konyugatsiya — nofaol. ~25% o't va najas bilan; qolgani qonga chiqib, oqsilga bog'lanmagan va yaxshi eriydigan bo'lgani uchun buyrakda filtrlanib siydikka chiqadi. Jigar kasalligi inaktivatsiyani, buyrak kasalligi chiqarilishni kamaytiradi.",
+      "text": "Asosan **jigarda** parchalanadi: glyukuron kislota, kamroq sulfat bilan konyugatsiya — nofaol. ~25% o’t va najas bilan; qolgani qonga chiqib, oqsilga bog’lanmagan va yaxshi eriydigan bo’lgani uchun buyrakda filtrlanib siydikka chiqadi. Jigar kasalligi inaktivatsiyani, buyrak kasalligi chiqarilishni kamaytiradi.",
       "depth": 0
      }
     ],
@@ -569,7 +569,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Yetishmovchilik:** po'stloq sekretsiyasi to'liq yo'qolsa, ko'p tuz yoki mineralokortikoid berilmasa 3–14 kunda o'lim. K⁺ keskin oshadi, Na⁺ va Cl⁻ tez yo'qoladi, hujayradan tashqari suyuqlik va qon hajmi keskin kamayadi → yurak chiqishi kamayadi → shoksimon holat → o'lim. Aldosteron buni oldini oladi — mineralokortikoidlar \"o'tkir hayotni saqlovchi\" qism. Glyukokortikoidlar ham zarur — hayotning vaqti-vaqti bilan bo'ladigan jismoniy va ruhiy \"stresslariga\" qarshilik uchun.",
+      "text": "**Yetishmovchilik:** po’stloq sekretsiyasi to’liq yo’qolsa, ko’p tuz yoki mineralokortikoid berilmasa 3–14 kunda o’lim. K⁺ keskin oshadi, Na⁺ va Cl⁻ tez yo’qoladi, hujayradan tashqari suyuqlik va qon hajmi keskin kamayadi → yurak chiqishi kamayadi → shoksimon holat → o’lim. Aldosteron buni oldini oladi — mineralokortikoidlar \"o’tkir hayotni saqlovchi\" qism. Glyukokortikoidlar ham zarur — hayotning vaqti-vaqti bilan bo’ladigan jismoniy va ruhiy \"stresslariga\" qarshilik uchun.",
       "depth": 0
      },
      {
@@ -577,7 +577,7 @@
       "depth": 0
      },
      {
-      "text": "Kortizol mineralokortikoid retseptorlarga ham yuqori moyillik bilan bog'lanadi, lekin buyrak epiteliysidagi **11β-gidroksisteroid degidrogenaza 2-tur (11β-HSD2)** kortizolni retseptorga yomon bog'lanadigan **kortizonga** aylantiradi (shuningdek hujayra ichi oksidlanish-qaytarilish holatiga ta'sir qilishi mumkin). 11β-HSD2 genetik yetishmovchiligida kortizol kuchli mineralokortikoid ta'sir beradi — **ko'rinma mineralokortikoid ortiqchaligi sindromi (AME)**: aldosteron ortiqchaligi kabi, lekin plazma aldosteroni juda past. Glitsirretin kislotali **qizilmiya (licorice)** ni ko'p iste'mol qilish ham 11β-HSD2 ni to'sib AME beradi.",
+      "text": "Kortizol mineralokortikoid retseptorlarga ham yuqori moyillik bilan bog’lanadi, lekin buyrak epiteliysidagi **11β-gidroksisteroid degidrogenaza 2-tur (11β-HSD2)** kortizolni retseptorga yomon bog’lanadigan **kortizonga** aylantiradi (shuningdek hujayra ichi oksidlanish-qaytarilish holatiga ta’sir qilishi mumkin). 11β-HSD2 genetik yetishmovchiligida kortizol kuchli mineralokortikoid ta’sir beradi — **ko’rinma mineralokortikoid ortiqchaligi sindromi (AME)**: aldosteron ortiqchaligi kabi, lekin plazma aldosteroni juda past. Glitsirretin kislotali **qizilmiya (licorice)** ni ko’p iste’mol qilish ham 11β-HSD2 ni to’sib AME beradi.",
       "depth": 0
      }
     ],
@@ -585,7 +585,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Buyrak va qon aylanishiga ta'siri**",
+    "text": "**Buyrak va qon aylanishiga ta’siri**",
     "bid": "ch78-u17"
    },
    {
@@ -593,23 +593,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Na⁺ qayta so'rilishi va K⁺ sekretsiyasini oshiradi** — asosan yig'uvchi kanalchalarning **asosiy hujayralarida**, kamroq distal kanalcha va yig'uvchi naylarda (28-bob). Yuqori aldosteron vaqtincha siydikdagi Na ni kuniga bir necha mEq gacha kamaytiradi, K yo'qotishni bir necha baravar oshiradi. Aldosteron to'liq yo'q bo'lsa kuniga 10–20 g Na (tanadagi Na ning 1/10–1/5 qismi) yo'qolishi, K esa qattiq saqlanishi mumkin.",
+      "text": "**Na⁺ qayta so’rilishi va K⁺ sekretsiyasini oshiradi** — asosan yig’uvchi kanalchalarning **asosiy hujayralarida**, kamroq distal kanalcha va yig’uvchi naylarda (28-bob). Yuqori aldosteron vaqtincha siydikdagi Na ni kuniga bir necha mEq gacha kamaytiradi, K yo’qotishni bir necha baravar oshiradi. Aldosteron to’liq yo’q bo’lsa kuniga 10–20 g Na (tanadagi Na ning 1/10–1/5 qismi) yo’qolishi, K esa qattiq saqlanishi mumkin.",
       "depth": 0
      },
      {
-      "text": "**Ortiqcha aldosteron hujayradan tashqari suyuqlik hajmi va bosimni oshiradi, plazma Na⁺ ga kam ta'sir qiladi:** Na bilan deyarli teng suv osmos bilan so'riladi; Na ozgina oshsa chanqoq va ADG oshadi. Hajm saqlangan Na ga deyarli mutanosib oshadi, konsentratsiya kam o'zgaradi.",
+      "text": "**Ortiqcha aldosteron hujayradan tashqari suyuqlik hajmi va bosimni oshiradi, plazma Na⁺ ga kam ta’sir qiladi:** Na bilan deyarli teng suv osmos bilan so’riladi; Na ozgina oshsa chanqoq va ADG oshadi. Hajm saqlangan Na ga deyarli mutanosib oshadi, konsentratsiya kam o’zgaradi.",
       "depth": 0
      },
      {
-      "text": "**Aldosteron \"qochishi\" (escape):** hajm oshishi 1–2 kundan ko'p davom etsa bosim ko'tariladi (19-bob) → **bosim natriurezi va diurezi**. Hajm 5–15%, bosim 15–25 mm Hg oshgach, ortiqcha aldosteronga qaramay Na va suv chiqarilishi normallashadi (78-3-rasm: itlarda aldosteron 20 baravar bo'lsa ham 2-kuni qochish). Shundan keyin Na/suv balansi saqlanadi, lekin aldosteron yuqori ekan gipertenziya davom etadi.",
+      "text": "**Aldosteron \"qochishi\" (escape):** hajm oshishi 1–2 kundan ko’p davom etsa bosim ko’tariladi (19-bob) → **bosim natriurezi va diurezi**. Hajm 5–15%, bosim 15–25 mm Hg oshgach, ortiqcha aldosteronga qaramay Na va suv chiqarilishi normallashadi (78-3-rasm: itlarda aldosteron 20 baravar bo’lsa ham 2-kuni qochish). Shundan keyin Na/suv balansi saqlanadi, lekin aldosteron yuqori ekan gipertenziya davom etadi.",
       "depth": 0
      },
      {
-      "text": "**Aldosteron yetishmovchiligi giponatriyemiya beradi:** Na yo'qotish → hajm, bosim va yurak chiqishi kamayishi → ADG oshib suv chiqarilishi kamayadi; chanqoq va suv ichish ham oshadi. Aldosteron nolga tushsa ko'p Na yo'qolib, og'ir suvsizlanish, kam qon hajmi va qon aylanish shoki; davolanmasa bir necha kunda o'lim.",
+      "text": "**Aldosteron yetishmovchiligi giponatriyemiya beradi:** Na yo’qotish → hajm, bosim va yurak chiqishi kamayishi → ADG oshib suv chiqarilishi kamayadi; chanqoq va suv ichish ham oshadi. Aldosteron nolga tushsa ko’p Na yo’qolib, og’ir suvsizlanish, kam qon hajmi va qon aylanish shoki; davolanmasa bir necha kunda o’lim.",
       "depth": 0
      },
      {
-      "text": "**Ortiqcha aldosteron — gipokaliyemiya va mushak zaifligi:** K siydikka chiqadi va hujayradan tashqaridan ko'pchilik hujayralar ichiga o'tadi. Ba'zi buyrak usti o'smalarida plazma K 4,5 dan 2 mEq/L gacha tushishi mumkin. Normaning yarmidan pastda kuchli mushak zaifligi — nerv va mushak membranalari qo'zg'aluvchanligi o'zgarib, harakat potensiallari o'tmaydi (5-bob).",
+      "text": "**Ortiqcha aldosteron — gipokaliyemiya va mushak zaifligi:** K siydikka chiqadi va hujayradan tashqaridan ko’pchilik hujayralar ichiga o’tadi. Ba’zi buyrak usti o’smalarida plazma K 4,5 dan 2 mEq/L gacha tushishi mumkin. Normaning yarmidan pastda kuchli mushak zaifligi — nerv va mushak membranalari qo’zg’aluvchanligi o’zgarib, harakat potensiallari o’tmaydi (5-bob).",
       "depth": 0
      },
      {
@@ -617,7 +617,7 @@
       "depth": 0
      },
      {
-      "text": "**H⁺ sekretsiyasi va alkaloz:** yig'uvchi kanalchalar po'stloq qismining **interkalyar hujayralarida** H⁺ ni K⁺ ga almashtirib sekretsiyasini oshiradi → hujayradan tashqari H⁺ kamayadi → **metabolik alkaloz** (28 va 31-boblar).",
+      "text": "**H⁺ sekretsiyasi va alkaloz:** yig’uvchi kanalchalar po’stloq qismining **interkalyar hujayralarida** H⁺ ni K⁺ ga almashtirib sekretsiyasini oshiradi → hujayradan tashqari H⁺ kamayadi → **metabolik alkaloz** (28 va 31-boblar).",
       "depth": 0
      }
     ],
@@ -625,7 +625,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Ter, so'lak bezlari va ichak epiteliysiga ta'siri**",
+    "text": "**Ter, so’lak bezlari va ichak epiteliysiga ta’siri**",
     "bid": "ch78-u19"
    },
    {
@@ -633,11 +633,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Ter va so'lak bezlarining birlamchi sekreti ko'p NaCl tutadi; yo'llarda NaCl ning ko'pi qayta so'riladi, K⁺ va bikarbonat sekretsiya qilinadi. Aldosteron NaCl so'rilishi va K sekretsiyasini keskin oshiradi. Ter bezlariga ta'sir issiq muhitda tuzni saqlash uchun (74-bob), so'lak bezlariga — ko'p so'lak yo'qolganda.",
+      "text": "Ter va so’lak bezlarining birlamchi sekreti ko’p NaCl tutadi; yo’llarda NaCl ning ko’pi qayta so’riladi, K⁺ va bikarbonat sekretsiya qilinadi. Aldosteron NaCl so’rilishi va K sekretsiyasini keskin oshiradi. Ter bezlariga ta’sir issiq muhitda tuzni saqlash uchun (74-bob), so’lak bezlariga — ko’p so’lak yo’qolganda.",
       "depth": 0
      },
      {
-      "text": "Ichakda, ayniqsa yo'g'on ichakda Na so'rilishini keskin oshiradi. Aldosteronsiz Na yomon so'riladi, Cl⁻, boshqa anionlar va suv ham so'rilmay diareya va tuz yo'qotish.",
+      "text": "Ichakda, ayniqsa yo’g’on ichakda Na so’rilishini keskin oshiradi. Aldosteronsiz Na yomon so’riladi, Cl⁻, boshqa anionlar va suv ham so’rilmay diareya va tuz yo’qotish.",
       "depth": 0
      }
     ],
@@ -657,11 +657,11 @@
       "depth": 0
      },
      {
-      "text": "Sitoplazmada o'ziga xos **mineralokortikoid retseptor (MR)** bilan bog'lanadi (MR kortizolga ham moyil, lekin 11β-HSD2 kortizolni kortizonga aylantiradi).",
+      "text": "Sitoplazmada o’ziga xos **mineralokortikoid retseptor (MR)** bilan bog’lanadi (MR kortizolga ham moyil, lekin 11β-HSD2 kortizolni kortizonga aylantiradi).",
       "depth": 0
      },
      {
-      "text": "Kompleks yadroga o'tib, Na va K transporti bilan bog'liq DNK qismlaridan mRNK hosil qiladi.",
+      "text": "Kompleks yadroga o’tib, Na va K transporti bilan bog’liq DNK qismlaridan mRNK hosil qiladi.",
       "depth": 0
      },
      {
@@ -669,15 +669,15 @@
       "depth": 0
      },
      {
-      "text": "Natriy transportiga darhol katta ta'sir yo'q: ~30 daqiqada yangi RNK, ~45 daqiqada transport ortishi, maksimum bir necha soatda.",
+      "text": "Natriy transportiga darhol katta ta’sir yo’q: ~30 daqiqada yangi RNK, ~45 daqiqada transport ortishi, maksimum bir necha soatda.",
       "depth": 0
      },
      {
-      "text": "**Spironolakton** MR ni antagonist sifatida to'sadi; **amilorid** ENaC ni bloklaydi.",
+      "text": "**Spironolakton** MR ni antagonist sifatida to’sadi; **amilorid** ENaC ni bloklaydi.",
       "depth": 0
      },
      {
-      "text": "**Genomik bo'lmagan ta'sirlar:** ba'zi steroidlar, jumladan aldosteron, soniya-daqiqalarda ta'sir qiladi — membrana retseptorlari va ikkilamchi xabarchilar orqali (masalan, tomir silliq mushagi va yig'uvchi kanalcha epiteliysida 2 daqiqadan kam vaqtda cAMP oshishi; boshqa hujayralarda fosfatidilinozitol tizimi). Retseptor tuzilishi va fiziologik ahamiyati aniq emas.",
+      "text": "**Genomik bo’lmagan ta’sirlar:** ba’zi steroidlar, jumladan aldosteron, soniya-daqiqalarda ta’sir qiladi — membrana retseptorlari va ikkilamchi xabarchilar orqali (masalan, tomir silliq mushagi va yig’uvchi kanalcha epiteliysida 2 daqiqadan kam vaqtda cAMP oshishi; boshqa hujayralarda fosfatidilinozitol tizimi). Retseptor tuzilishi va fiziologik ahamiyati aniq emas.",
       "depth": 0
      }
     ],
@@ -692,7 +692,7 @@
    },
    {
     "type": "paragraph",
-    "text": "Koptokchali zona boshqaruvi tutamli va to'rsimon zonalardan deyarli butunlay mustaqil (28 va 30-boblar):",
+    "text": "Koptokchali zona boshqaruvi tutamli va to’rsimon zonalardan deyarli butunlay mustaqil (28 va 30-boblar):",
     "bid": "ch78-u24"
    },
    {
@@ -712,23 +712,23 @@
       "depth": 0
      },
      {
-      "text": "**Bo'lmacha natriyuretik peptidi (ANP)** — bo'lmachalar cho'zilganda yurakdan ajraladi — kamaytiradi.",
+      "text": "**Bo’lmacha natriyuretik peptidi (ANP)** — bo’lmachalar cho’zilganda yurakdan ajraladi — kamaytiradi.",
       "depth": 0
      },
      {
-      "text": "**AKTG** sekretsiya uchun zarur, lekin ko'pchilik fiziologik holatlarda tezlikni kam boshqaradi (\"ruxsat beruvchi\" rol).",
+      "text": "**AKTG** sekretsiya uchun zarur, lekin ko’pchilik fiziologik holatlarda tezlikni kam boshqaradi (\"ruxsat beruvchi\" rol).",
       "depth": 0
      },
      {
-      "text": "K⁺ va angiotensin II eng kuchli: K ning ozgina foiz oshishi aldosteronni bir necha baravar oshiradi; angiotensin II (odatda buyrak qon oqimi kamayishi yoki Na yo'qotishga javoban) ham bir necha baravar. Aldosteron buyrakka (1) ortiqcha K ni chiqarish va (2) qon hajmi va bosimni oshirib renin-angiotensin tizimini normaga qaytarish uchun ta'sir qiladi.",
+      "text": "K⁺ va angiotensin II eng kuchli: K ning ozgina foiz oshishi aldosteronni bir necha baravar oshiradi; angiotensin II (odatda buyrak qon oqimi kamayishi yoki Na yo’qotishga javoban) ham bir necha baravar. Aldosteron buyrakka (1) ortiqcha K ni chiqarish va (2) qon hajmi va bosimni oshirib renin-angiotensin tizimini normaga qaytarish uchun ta’sir qiladi.",
       "depth": 0
      },
      {
-      "text": "78-5-rasm: Na tanqis itlarda AAF ingibitori bilan angiotensin II blokadasi aldosteronni keskin kamaytirgan, kortizolga deyarli ta'sir qilmagan; tashqi angiotensin II qayta tiklagan.",
+      "text": "78-5-rasm: Na tanqis itlarda AAF ingibitori bilan angiotensin II blokadasi aldosteronni keskin kamaytirgan, kortizolga deyarli ta’sir qilmagan; tashqi angiotensin II qayta tiklagan.",
       "depth": 0
      },
      {
-      "text": "Na konsentratsiyasining 10–20% kamayishi (kamdan-kam) aldosteronni ~50% oshirishi mumkin. ANP plazma hajmi oshganda qisman aldosteronni tormozlab natriurez beradi. Oz AKTG ham yetarli, lekin AKTG to'liq yo'qligi aldosteronni sezilarli kamaytiradi.",
+      "text": "Na konsentratsiyasining 10–20% kamayishi (kamdan-kam) aldosteronni ~50% oshirishi mumkin. ANP plazma hajmi oshganda qisman aldosteronni tormozlab natriurez beradi. Oz AKTG ham yetarli, lekin AKTG to’liq yo’qligi aldosteronni sezilarli kamaytiradi.",
       "depth": 0
      }
     ],
@@ -746,7 +746,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Mineralokortikoidlar adrenalektomiyalangan hayvonni o'tkir saqlab qolsa ham, oqsil, uglevod, yog' almashinuvi buzilgan, jismoniy va hatto ruhiy stressga chidamaydi, nafas yo'li infeksiyasi kabi yengil kasallik ham o'limga olib kelishi mumkin.",
+      "text": "Mineralokortikoidlar adrenalektomiyalangan hayvonni o’tkir saqlab qolsa ham, oqsil, uglevod, yog' almashinuvi buzilgan, jismoniy va hatto ruhiy stressga chidamaydi, nafas yo’li infeksiyasi kabi yengil kasallik ham o’limga olib kelishi mumkin.",
       "depth": 0
      },
      {
@@ -766,7 +766,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Glyukoneogenezni qo'zg'atish** — eng ma'lum ta'sir; jigarda 6–10 baravar oshirishi mumkin:",
+      "text": "**Glyukoneogenezni qo’zg’atish** — eng ma’lum ta’sir; jigarda 6–10 baravar oshirishi mumkin:",
       "depth": 0
      },
      {
@@ -774,23 +774,23 @@
       "depth": 1
      },
      {
-      "text": "Jigardan tashqari to'qimalardan, asosan mushakdan aminokislotalarni safarbar qiladi.",
+      "text": "Jigardan tashqari to’qimalardan, asosan mushakdan aminokislotalarni safarbar qiladi.",
       "depth": 1
      },
      {
-      "text": "Insulinning jigarda glyukoneogenezni tormozlash ta'siriga qarshi turadi (79-bob).",
+      "text": "Insulinning jigarda glyukoneogenezni tormozlash ta’siriga qarshi turadi (79-bob).",
       "depth": 1
      },
      {
-      "text": "Glyukoneogenez bilan birga jigarda glikogen to'planishi keskin oshadi — bu ovqatlar orasida adrenalin va glyukagon kabi glikolitik gormonlar ta'sirini kuchaytiradi.",
+      "text": "Glyukoneogenez bilan birga jigarda glikogen to’planishi keskin oshadi — bu ovqatlar orasida adrenalin va glyukagon kabi glikolitik gormonlar ta’sirini kuchaytiradi.",
       "depth": 0
      },
      {
-      "text": "**Hujayralarning glyukoza ishlatishi kamayadi** (o'rtacha): ayniqsa skelet mushagida **GLUT4** ning membranaga ko'chishi kamayib, insulin rezistentligi; insulin retseptori substrati-1 va PI3K ekspressiyasi kamayadi; NADH ning NAD⁺ ga oksidlanishi kamayadi (glikoliz uchun NADH oksidlanishi kerak).",
+      "text": "**Hujayralarning glyukoza ishlatishi kamayadi** (o’rtacha): ayniqsa skelet mushagida **GLUT4** ning membranaga ko’chishi kamayib, insulin rezistentligi; insulin retseptori substrati-1 va PI3K ekspressiyasi kamayadi; NADH ning NAD⁺ ga oksidlanishi kamayadi (glikoliz uchun NADH oksidlanishi kerak).",
       "depth": 0
      },
      {
-      "text": "**Qon glyukozasi oshishi va \"buyrak usti diabeti\":** glyukoneogenez oshishi va glyukoza ishlatilishi kamayishi glyukozani oshiradi → insulin oshadi, lekin to'qimalar (ayniqsa mushak va yog') insulinga sezgirligi kamaygan; glyukokortikoidlar safarbar qilgan yuqori yog' kislotalari ham insulin ta'sirini buzishi mumkin. O'sish gormoni ortiqchaligiga o'xshash buzilishlar. Glyukoza ≥50% oshsa **buyrak usti diabeti**; insulin uni pankreatik diabetdagidek tushira olmaydi.",
+      "text": "**Qon glyukozasi oshishi va \"buyrak usti diabeti\":** glyukoneogenez oshishi va glyukoza ishlatilishi kamayishi glyukozani oshiradi → insulin oshadi, lekin to’qimalar (ayniqsa mushak va yog') insulinga sezgirligi kamaygan; glyukokortikoidlar safarbar qilgan yuqori yog' kislotalari ham insulin ta’sirini buzishi mumkin. O’sish gormoni ortiqchaligiga o’xshash buzilishlar. Glyukoza ≥50% oshsa **buyrak usti diabeti**; insulin uni pankreatik diabetdagidek tushira olmaydi.",
       "depth": 0
      }
     ],
@@ -806,7 +806,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Hujayra oqsillarining kamayishi:** jigardan tashqari deyarli barcha hujayralarda — oqsil sintezi kamayib, katabolizm oshadi. Qisman aminokislota transporti kamayishidan, lekin asosan ko'p jigardan tashqari to'qimalarda, ayniqsa mushak va limfoid to'qimada RNK va oqsil sintezi susayishidan. Juda ko'p kortizolda mushaklar shunchalik zaiflashadiki, odam cho'nqayib o'tirgan holatdan tura olmaydi; limfoid to'qimaning immun funksiyasi normaning kichik qismigacha tushadi.",
+      "text": "**Hujayra oqsillarining kamayishi:** jigardan tashqari deyarli barcha hujayralarda — oqsil sintezi kamayib, katabolizm oshadi. Qisman aminokislota transporti kamayishidan, lekin asosan ko’p jigardan tashqari to’qimalarda, ayniqsa mushak va limfoid to’qimada RNK va oqsil sintezi susayishidan. Juda ko’p kortizolda mushaklar shunchalik zaiflashadiki, odam cho’nqayib o’tirgan holatdan tura olmaydi; limfoid to’qimaning immun funksiyasi normaning kichik qismigacha tushadi.",
       "depth": 0
      },
      {
@@ -814,7 +814,7 @@
       "depth": 0
      },
      {
-      "text": "**Qonda aminokislotalar oshadi:** mushak va boshqa jigardan tashqari hujayralarga transport kamayadi, katabolizm davom etib aminokislotalar qonga chiqadi. Jigarga transport oshib: (1) dezaminlanish; (2) jigarda oqsil sintezi; (3) plazma oqsillari; (4) glyukoneogenez oshadi. Kortizolning ko'p metabolik ta'sirlari periferik to'qimalardan aminokislotalarni safarbar qilish va jigar fermentlarini oshirishdan bo'lishi mumkin.",
+      "text": "**Qonda aminokislotalar oshadi:** mushak va boshqa jigardan tashqari hujayralarga transport kamayadi, katabolizm davom etib aminokislotalar qonga chiqadi. Jigarga transport oshib: (1) dezaminlanish; (2) jigarda oqsil sintezi; (3) plazma oqsillari; (4) glyukoneogenez oshadi. Kortizolning ko’p metabolik ta’sirlari periferik to’qimalardan aminokislotalarni safarbar qilish va jigar fermentlarini oshirishdan bo’lishi mumkin.",
       "depth": 0
      }
     ],
@@ -830,15 +830,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Yog' kislotalarini safarbar qilish:** plazmada erkin yog' kislotalari oshadi, energiya uchun ko'proq ishlatiladi; hujayralarda oksidlanishni bevosita ham oshiradi. Mexanizm qisman yog' hujayralariga glyukoza transporti kamayishi: triglitseridlarni saqlash uchun glyukozadan hosil bo'ladigan **α-glitserofosfat** kerak, u bo'lmasa yog' kislotalari chiqariladi.",
+      "text": "**Yog' kislotalarini safarbar qilish:** plazmada erkin yog' kislotalari oshadi, energiya uchun ko’proq ishlatiladi; hujayralarda oksidlanishni bevosita ham oshiradi. Mexanizm qisman yog' hujayralariga glyukoza transporti kamayishi: triglitseridlarni saqlash uchun glyukozadan hosil bo’ladigan **α-glitserofosfat** kerak, u bo’lmasa yog' kislotalari chiqariladi.",
       "depth": 0
      },
      {
-      "text": "Ochlik va stressda hujayralarni glyukozadan yog' kislotalariga o'tkazishga yordam beradi; bir necha soatda rivojlanadi, insulin kamayishidagi kabi tez va kuchli emas (79-bob), lekin glyukoza va glikogenni uzoq tejash uchun muhim.",
+      "text": "Ochlik va stressda hujayralarni glyukozadan yog' kislotalariga o’tkazishga yordam beradi; bir necha soatda rivojlanadi, insulin kamayishidagi kabi tez va kuchli emas (79-bob), lekin glyukoza va glikogenni uzoq tejash uchun muhim.",
       "depth": 0
      },
      {
-      "text": "**Ortiqcha kortizol semizligi:** ko'krak va bosh sohasida ortiqcha yog' — \"**buyvol tanasi**\" va dumaloq \"**oy yuz**\". Sabab noaniq; ehtimol ovqat qabuli haddan qo'zg'alib, ba'zi to'qimalarda yog' safarbar qilinish va oksidlanishdan tezroq hosil bo'ladi.",
+      "text": "**Ortiqcha kortizol semizligi:** ko’krak va bosh sohasida ortiqcha yog' — \"**buyvol tanasi**\" va dumaloq \"**oy yuz**\". Sabab noaniq; ehtimol ovqat qabuli haddan qo’zg’alib, ba’zi to’qimalarda yog' safarbar qilinish va oksidlanishdan tezroq hosil bo’ladi.",
       "depth": 0
      }
     ],
@@ -847,7 +847,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Stress va yallig'lanishga qarshilik",
+    "text": "Stress va yallig’lanishga qarshilik",
     "id": "ch78-s-34-stress-va-yalliglanishga-qarshilik",
     "bid": "ch78-u34"
    },
@@ -860,11 +860,11 @@
       "depth": 0
      },
      {
-      "text": "Kortizolni oshiruvchi stresslar: (1) travma; (2) infeksiya; (3) kuchli issiq yoki sovuq; (4) noradrenalin va simpatomimetiklar; (5) jarrohlik; (6) teri ostiga nekrozlovchi moddalar; (7) hayvonni harakatsiz bog'lab qo'yish; (8) holsizlantiruvchi kasalliklar.",
+      "text": "Kortizolni oshiruvchi stresslar: (1) travma; (2) infeksiya; (3) kuchli issiq yoki sovuq; (4) noradrenalin va simpatomimetiklar; (5) jarrohlik; (6) teri ostiga nekrozlovchi moddalar; (7) hayvonni harakatsiz bog’lab qo’yish; (8) holsizlantiruvchi kasalliklar.",
       "depth": 0
      },
      {
-      "text": "Foydasi aniq emas. Ehtimol aminokislotalar va yog'larni tez safarbar qilib, energiya va boshqa birikmalar (glyukoza) sintezi uchun tayyor qiladi. Ba'zi hollarda oqsildan vaqtincha mahrum shikastlangan to'qimalar yangi aminokislotalardan muhim oqsillar hosil qilgani ko'rsatilgan; purinlar, pirimidinlar, kreatin fosfat sintezi uchun ham ishlatilishi mumkin. Kortizol mushak qisqaruvchi oqsillari va neyron oqsillari kabi asosiy funksional oqsillarni boshqa oqsillar deyarli tugamaguncha safarbar qilmaydi — labil oqsillarni tanlab safarbar qilish.",
+      "text": "Foydasi aniq emas. Ehtimol aminokislotalar va yog’larni tez safarbar qilib, energiya va boshqa birikmalar (glyukoza) sintezi uchun tayyor qiladi. Ba’zi hollarda oqsildan vaqtincha mahrum shikastlangan to’qimalar yangi aminokislotalardan muhim oqsillar hosil qilgani ko’rsatilgan; purinlar, pirimidinlar, kreatin fosfat sintezi uchun ham ishlatilishi mumkin. Kortizol mushak qisqaruvchi oqsillari va neyron oqsillari kabi asosiy funksional oqsillarni boshqa oqsillar deyarli tugamaguncha safarbar qilmaydi — labil oqsillarni tanlab safarbar qilish.",
       "depth": 0
      }
     ],
@@ -872,7 +872,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Yuqori kortizolning yallig'lanishga qarshi ta'siri**",
+    "text": "**Yuqori kortizolning yallig’lanishga qarshi ta’siri**",
     "bid": "ch78-u36"
    },
    {
@@ -880,31 +880,31 @@
     "ordered": false,
     "items": [
      {
-      "text": "Yallig'lanish bosqichlari (34-bob): (1) shikastlangan hujayralardan gistamin, bradikinin, proteolitik fermentlar, prostaglandinlar, leykotriyenlar ajralishi; (2) qon oqimi oshishi — **eritema**; (3) kapillyar o'tkazuvchanlik oshib deyarli sof plazma chiqishi va to'qima suyuqligi ivishi — chuqurcha qoldirmaydigan shish; (4) leykotsitlar infiltratsiyasi; (5) kunlar-haftalardan keyin fibroz to'qima o'sishi. Revmatoid artrit kabi holatlarda yallig'lanish kasallikning o'zidan zararliroq.",
+      "text": "Yallig’lanish bosqichlari (34-bob): (1) shikastlangan hujayralardan gistamin, bradikinin, proteolitik fermentlar, prostaglandinlar, leykotriyenlar ajralishi; (2) qon oqimi oshishi — **eritema**; (3) kapillyar o’tkazuvchanlik oshib deyarli sof plazma chiqishi va to’qima suyuqligi ivishi — chuqurcha qoldirmaydigan shish; (4) leykotsitlar infiltratsiyasi; (5) kunlar-haftalardan keyin fibroz to’qima o’sishi. Revmatoid artrit kabi holatlarda yallig’lanish kasallikning o’zidan zararliroq.",
       "depth": 0
      },
      {
-      "text": "Kortizolning ikki asosiy ta'siri: (1) yallig'lanishning erta bosqichlarini, sezilarli yallig'lanish boshlanishidan oldin to'sish; (2) boshlangan bo'lsa tez bartaraf etish va bitishni tezlashtirish.",
+      "text": "Kortizolning ikki asosiy ta’siri: (1) yallig’lanishning erta bosqichlarini, sezilarli yallig’lanish boshlanishidan oldin to’sish; (2) boshlangan bo’lsa tez bartaraf etish va bitishni tezlashtirish.",
       "depth": 0
      },
      {
-      "text": "**Yallig'lanishning oldini olish:**",
+      "text": "**Yallig’lanishning oldini olish:**",
       "depth": 0
      },
      {
-      "text": "**Lizosoma membranalarini barqarorlashtiradi** — eng muhim ta'sirlardan biri; proteolitik fermentlar kam chiqadi.",
+      "text": "**Lizosoma membranalarini barqarorlashtiradi** — eng muhim ta’sirlardan biri; proteolitik fermentlar kam chiqadi.",
       "depth": 1
      },
      {
-      "text": "Kapillyar o'tkazuvchanligini kamaytiradi (ehtimol fermentlar kam chiqqani uchun) — plazma to'qimaga kam chiqadi.",
+      "text": "Kapillyar o’tkazuvchanligini kamaytiradi (ehtimol fermentlar kam chiqqani uchun) — plazma to’qimaga kam chiqadi.",
       "depth": 1
      },
      {
-      "text": "Leykotsitlar migratsiyasi va fagotsitozni kamaytiradi — vazodilatatsiya, o'tkazuvchanlik va leykotsit harakatchanligini oshiruvchi **prostaglandinlar va leykotriyenlar** hosil bo'lishini kamaytirib.",
+      "text": "Leykotsitlar migratsiyasi va fagotsitozni kamaytiradi — vazodilatatsiya, o’tkazuvchanlik va leykotsit harakatchanligini oshiruvchi **prostaglandinlar va leykotriyenlar** hosil bo’lishini kamaytirib.",
       "depth": 1
      },
      {
-      "text": "Immun tizimni bostiradi — limfotsitlar, ayniqsa **T limfotsitlar** ko'payishi keskin kamayadi.",
+      "text": "Immun tizimni bostiradi — limfotsitlar, ayniqsa **T limfotsitlar** ko’payishi keskin kamayadi.",
       "depth": 1
      },
      {
@@ -912,15 +912,15 @@
       "depth": 1
      },
      {
-      "text": "Lizosoma va hujayra membranalarini barqarorlashtirish yoki araxidon kislotadan prostaglandin/leykotriyenlar hosil bo'lishini kamaytirishning nisbiy hissasi noaniq.",
+      "text": "Lizosoma va hujayra membranalarini barqarorlashtirish yoki araxidon kislotadan prostaglandin/leykotriyenlar hosil bo’lishini kamaytirishning nisbiy hissasi noaniq.",
       "depth": 0
      },
      {
-      "text": "**Yallig'lanishni bartaraf etish:** boshlangan yallig'lanish ham soatlar-kunlarda kamayadi; yallig'lanish omillari to'siladi va bitish tezlashadi — ehtimol (1) aminokislotalarni ta'mir uchun safarbar qilish; (2) glyukoneogenez; (3) energiya uchun yog' kislotalari; (4) yallig'lanish mahsulotlarini inaktivatsiya qilish yoki olib tashlash.",
+      "text": "**Yallig’lanishni bartaraf etish:** boshlangan yallig’lanish ham soatlar-kunlarda kamayadi; yallig’lanish omillari to’siladi va bitish tezlashadi — ehtimol (1) aminokislotalarni ta’mir uchun safarbar qilish; (2) glyukoneogenez; (3) energiya uchun yog' kislotalari; (4) yallig’lanish mahsulotlarini inaktivatsiya qilish yoki olib tashlash.",
       "depth": 0
      },
      {
-      "text": "**Revmatoid artrit, revmatizm, o'tkir glomerulonefrit** kabi kuchli mahalliy yallig'lanishli kasalliklarda glyukokortikoidlar bilan yallig'lanish deyarli doim 24 soat ichida kamaya boshlaydi; asosiy kasallikni tuzatmasa ham hayotni saqlab qolishi mumkin.",
+      "text": "**Revmatoid artrit, revmatizm, o’tkir glomerulonefrit** kabi kuchli mahalliy yallig’lanishli kasalliklarda glyukokortikoidlar bilan yallig’lanish deyarli doim 24 soat ichida kamaya boshlaydi; asosiy kasallikni tuzatmasa ham hayotni saqlab qolishi mumkin.",
       "depth": 0
      }
     ],
@@ -928,7 +928,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Boshqa ta'sirlar**",
+    "text": "**Boshqa ta’sirlar**",
     "bid": "ch78-u38"
    },
    {
@@ -936,15 +936,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Allergik reaksiyalar:** antigen-antitelo reaksiyasi va ba'zi ikkilamchi ta'sirlar o'zgarmaydi, lekin og'ir va o'limga olib keluvchi yallig'lanish javobini to'sadi; **anafilaksiyada** shok yoki o'limni samarali oldini oladi (35-bob).",
+      "text": "**Allergik reaksiyalar:** antigen-antitelo reaksiyasi va ba’zi ikkilamchi ta’sirlar o’zgarmaydi, lekin og’ir va o’limga olib keluvchi yallig’lanish javobini to’sadi; **anafilaksiyada** shok yoki o’limni samarali oldini oladi (35-bob).",
       "depth": 0
      },
      {
-      "text": "**Qon hujayralari va immunitet:** qonda eozinofillar va limfotsitlar soni yuborilgandan daqiqalarda kamaya boshlaydi, soatlarda keskin; **limfotsitopeniya yoki eozinopeniya** kortizol ortiqchaligining muhim diagnostik belgisi. Katta dozalar butun tanada limfoid to'qima atrofiyasi, T hujayralar va antitelolar kamayishi — deyarli barcha begona agentlarga immunitet pasayadi; ba'zan fulminant infeksiya va o'lim (masalan, to'xtagan sil kasalligining avj olishi). Shu xususiyat yurak, buyrak va boshqa to'qimalar transplantatsiyasida rad etishni oldini olish uchun foydali.",
+      "text": "**Qon hujayralari va immunitet:** qonda eozinofillar va limfotsitlar soni yuborilgandan daqiqalarda kamaya boshlaydi, soatlarda keskin; **limfotsitopeniya yoki eozinopeniya** kortizol ortiqchaligining muhim diagnostik belgisi. Katta dozalar butun tanada limfoid to’qima atrofiyasi, T hujayralar va antitelolar kamayishi — deyarli barcha begona agentlarga immunitet pasayadi; ba’zan fulminant infeksiya va o’lim (masalan, to’xtagan sil kasalligining avj olishi). Shu xususiyat yurak, buyrak va boshqa to’qimalar transplantatsiyasida rad etishni oldini olish uchun foydali.",
       "depth": 0
      },
      {
-      "text": "**Eritrotsitlar:** noma'lum mexanizm bilan oshiradi — ortiqcha kortizolda ko'pincha **politsitemiya**, kortizol yo'qligida **anemiya**.",
+      "text": "**Eritrotsitlar:** noma’lum mexanizm bilan oshiradi — ortiqcha kortizolda ko’pincha **politsitemiya**, kortizol yo’qligida **anemiya**.",
       "depth": 0
      }
     ],
@@ -960,7 +960,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Lipidda eriydi, membranadan o'tib sitoplazmadagi retseptorga bog'lanadi; kompleks DNK dagi **glyukokortikoidga javob elementlari** bilan (transkripsiya omillari yordamida) bog'lanib, ko'p genlar transkripsiyasini oshiradi yoki kamaytiradi. Ko'pchilik metabolik ta'sirlar 45–60 daqiqadan keyin boshlanib, soatlar-kunlarda to'liq rivojlanadi. Yuqori konsentratsiyalarda membrana ion transportiga tez genomik bo'lmagan ta'sirlar ham bo'lishi mumkin.",
+      "text": "Lipidda eriydi, membranadan o’tib sitoplazmadagi retseptorga bog’lanadi; kompleks DNK dagi **glyukokortikoidga javob elementlari** bilan (transkripsiya omillari yordamida) bog’lanib, ko’p genlar transkripsiyasini oshiradi yoki kamaytiradi. Ko’pchilik metabolik ta’sirlar 45–60 daqiqadan keyin boshlanib, soatlar-kunlarda to’liq rivojlanadi. Yuqori konsentratsiyalarda membrana ion transportiga tez genomik bo’lmagan ta’sirlar ham bo’lishi mumkin.",
       "depth": 0
      }
     ],
@@ -976,11 +976,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "**11β-HSD2** kortizolni nofaol kortizonga aylantiradi (buyrak, yo'g'on ichak, ter va so'lak bezlari, yo'ldosh) — MR ni kortizoldan himoya qiladi. U yetishmasa (AME, qizilmiya) yoki kortizol juda yuqori bo'lsa (Kushing sindromi) mexanizm yengiladi va kortizol MR ni kuchli faollashtirib Na ushlanishi, gipertenziya va gipokaliyemiya beradi.",
+      "text": "**11β-HSD2** kortizolni nofaol kortizonga aylantiradi (buyrak, yo’g’on ichak, ter va so’lak bezlari, yo’ldosh) — MR ni kortizoldan himoya qiladi. U yetishmasa (AME, qizilmiya) yoki kortizol juda yuqori bo’lsa (Kushing sindromi) mexanizm yengiladi va kortizol MR ni kuchli faollashtirib Na ushlanishi, gipertenziya va gipokaliyemiya beradi.",
       "depth": 0
      },
      {
-      "text": "**11β-HSD1** (jigar, miya, yog' to'qimasi, skelet mushagi, o'pka, teri) nofaol kortizonni faol kortizolga aylantiradi — to'qimada glyukokortikoid ta'sirini kuchaytiradi. Izoformalar hujayra ichi \"darvozabonlari\". Yog' to'qimasida 11β-HSD1 oshishi semizlikdagi insulin rezistentligi va diabetga, miyada oshishi qarishdagi kognitiv pasayishga hissa qo'shishi mumkin; lekin bu hali yaxshi o'rganilmagan.",
+      "text": "**11β-HSD1** (jigar, miya, yog' to’qimasi, skelet mushagi, o’pka, teri) nofaol kortizonni faol kortizolga aylantiradi — to’qimada glyukokortikoid ta’sirini kuchaytiradi. Izoformalar hujayra ichi \"darvozabonlari\". Yog' to’qimasida 11β-HSD1 oshishi semizlikdagi insulin rezistentligi va diabetga, miyada oshishi qarishdagi kognitiv pasayishga hissa qo’shishi mumkin; lekin bu hali yaxshi o’rganilmagan.",
       "depth": 0
      }
     ],
@@ -1002,31 +1002,31 @@
       "depth": 0
      },
      {
-      "text": "**AKTG kimyosi:** 39 aminokislotali polipeptid; uning 24 aminokislotali bo'lagi butun molekulaning barcha ta'sirlariga ega.",
+      "text": "**AKTG kimyosi:** 39 aminokislotali polipeptid; uning 24 aminokislotali bo’lagi butun molekulaning barcha ta’sirlariga ega.",
       "depth": 0
      },
      {
-      "text": "**Kortikotropin-rilizing omil (KRO, CRF):** 41 aminokislotali peptid; asosan **paraventrikulyar yadro** neyronlari ajratadi (u limbik tizim va pastki miya ustunidan ko'p nerv bog'lanishlari oladi), median eminensiyada portal tizimning birlamchi kapillyar to'riga chiqariladi. KRO siz oldingi gipofiz juda oz AKTG ajratadi; yuqori AKTG ning ko'p sabablari miya bazal sohalaridan boshlanib, KRO orqali uzatiladi.",
+      "text": "**Kortikotropin-rilizing omil (KRO, CRF):** 41 aminokislotali peptid; asosan **paraventrikulyar yadro** neyronlari ajratadi (u limbik tizim va pastki miya ustunidan ko’p nerv bog’lanishlari oladi), median eminensiyada portal tizimning birlamchi kapillyar to’riga chiqariladi. KRO siz oldingi gipofiz juda oz AKTG ajratadi; yuqori AKTG ning ko’p sabablari miya bazal sohalaridan boshlanib, KRO orqali uzatiladi.",
       "depth": 0
      },
      {
-      "text": "**AKTG cAMP orqali:** membranada adenilatsiklazani faollashtiradi → ~3 daqiqada maksimal cAMP → steroid hosil qiluvchi fermentlar faollashadi. Eng muhim bosqich — **protein kinaza A** faollashib xolesterinni pregnenolonga aylantirishni boshlashi (tezlikni cheklovchi bosqich) — shuning uchun AKTG odatda barcha po'stloq gormonlari uchun zarur. Uzoq muddatli qo'zg'atish ayniqsa tutamli va to'rsimon zonalar gipertrofiyasi va proliferatsiyasiga olib keladi.",
+      "text": "**AKTG cAMP orqali:** membranada adenilatsiklazani faollashtiradi → ~3 daqiqada maksimal cAMP → steroid hosil qiluvchi fermentlar faollashadi. Eng muhim bosqich — **protein kinaza A** faollashib xolesterinni pregnenolonga aylantirishni boshlashi (tezlikni cheklovchi bosqich) — shuning uchun AKTG odatda barcha po’stloq gormonlari uchun zarur. Uzoq muddatli qo’zg’atish ayniqsa tutamli va to’rsimon zonalar gipertrofiyasi va proliferatsiyasiga olib keladi.",
       "depth": 0
      },
      {
-      "text": "**Fiziologik stress:** deyarli har qanday jismoniy yoki ruhiy stress daqiqalarda AKTG va kortizolni keskin (kortizolni 20 baravargacha) oshiradi. Og'riq signallari miya ustuni orqali paraventrikulyar yadroga, so'ng median eminensiyaga boradi va KRO ajraladi (78-8-rasm). Ruhiy stress limbik tizim, ayniqsa **bodomsimon tana va gippokamp** faolligi oshib, orqa medial gipotalamusga signal yuborishidan.",
+      "text": "**Fiziologik stress:** deyarli har qanday jismoniy yoki ruhiy stress daqiqalarda AKTG va kortizolni keskin (kortizolni 20 baravargacha) oshiradi. Og’riq signallari miya ustuni orqali paraventrikulyar yadroga, so’ng median eminensiyaga boradi va KRO ajraladi (78-8-rasm). Ruhiy stress limbik tizim, ayniqsa **bodomsimon tana va gippokamp** faolligi oshib, orqa medial gipotalamusga signal yuborishidan.",
       "depth": 0
      },
      {
-      "text": "**Manfiy teskari aloqa:** kortizol (1) gipotalamusda KRO ni va (2) oldingi gipofizda AKTG ni bevosita kamaytiradi. Kortizol ko'p bo'lsa AKTG normaga tushadi.",
+      "text": "**Manfiy teskari aloqa:** kortizol (1) gipotalamusda KRO ni va (2) oldingi gipofizda AKTG ni bevosita kamaytiradi. Kortizol ko’p bo’lsa AKTG normaga tushadi.",
       "depth": 0
      },
      {
-      "text": "**Xulosa (78-8-rasm):** stress gipotalamusni qo'zg'atib, tizimni tez faollashtiradi; kortizol glyukoneogenez, oqsil va yog' safarbarligi, lizosomalar barqarorligi orqali stress zararini yengillashtiradi. Stress stimullari kortizolning bevosita tormozlovchi teskari aloqasini doim yengib o'tib, kun davomida bir necha marta ko'tarilishlar (78-9-rasm) yoki surunkali stressda uzoq sekretsiya beradi.",
+      "text": "**Xulosa (78-8-rasm):** stress gipotalamusni qo’zg’atib, tizimni tez faollashtiradi; kortizol glyukoneogenez, oqsil va yog' safarbarligi, lizosomalar barqarorligi orqali stress zararini yengillashtiradi. Stress stimullari kortizolning bevosita tormozlovchi teskari aloqasini doim yengib o’tib, kun davomida bir necha marta ko’tarilishlar (78-9-rasm) yoki surunkali stressda uzoq sekretsiya beradi.",
       "depth": 0
      },
      {
-      "text": "**Sirkadian ritm:** KRO, AKTG va kortizol erta tongda yuqori, kech kechqurun past: kortizol uyg'onishdan ~1 soat oldin ~20 µg/dl, yarim tunda ~5 µg/dl. Uyg'ongandan ~1 soat keyin sekretsiya ko'tarilishi. Uyqu odatlari o'zgarsa sikl ham o'zgaradi — shuning uchun qon kortizolini o'lchash vaqtini hisobga olish kerak.",
+      "text": "**Sirkadian ritm:** KRO, AKTG va kortizol erta tongda yuqori, kech kechqurun past: kortizol uyg’onishdan ~1 soat oldin ~20 µg/dl, yarim tunda ~5 µg/dl. Uyg’ongandan ~1 soat keyin sekretsiya ko’tarilishi. Uyqu odatlari o’zgarsa sikl ham o’zgaradi — shuning uchun qon kortizolini o’lchash vaqtini hisobga olish kerak.",
       "depth": 0
      }
     ],
@@ -1044,23 +1044,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "AKTG geni avval ancha katta preprogormon — **proopiomelanokortin (POMC)** ni hosil qiladi; u AKTG, melanotsitlarni qo'zg'atuvchi gormon (**MSG**), **β-lipotropin**, **β-endorfin** va boshqalarning prekursori (78-10-rasm). Normada ularning ko'pi gipofizdan sezilarli miqdorda chiqmaydi, lekin AKTG juda ko'p bo'lsa (masalan Addison kasalligida) boshqalari ham oshishi mumkin.",
+      "text": "AKTG geni avval ancha katta preprogormon — **proopiomelanokortin (POMC)** ni hosil qiladi; u AKTG, melanotsitlarni qo’zg’atuvchi gormon (**MSG**), **β-lipotropin**, **β-endorfin** va boshqalarning prekursori (78-10-rasm). Normada ularning ko’pi gipofizdan sezilarli miqdorda chiqmaydi, lekin AKTG juda ko’p bo’lsa (masalan Addison kasalligida) boshqalari ham oshishi mumkin.",
       "depth": 0
      },
      {
-      "text": "POMC oldingi gipofiz kortikotroplari, gipotalamus arkuat yadrosining POMC neyronlari, derma hujayralari va limfoid to'qimada transkripsiya qilinadi; mahsulotlar to'qimadagi ishlov beruvchi fermentlarga bog'liq. Kortikotroplarda **prohormon konvertaza 1 (PC1)** → N-uchli peptid, bog'lovchi peptid, AKTG, β-lipotropin. Gipotalamusda **PC2** → α-, β-, γ-MSG va β-endorfin (AKTG emas). Gipotalamusdagi α-MSG ishtahani boshqarishda katta rol o'ynaydi (72-bob).",
+      "text": "POMC oldingi gipofiz kortikotroplari, gipotalamus arkuat yadrosining POMC neyronlari, derma hujayralari va limfoid to’qimada transkripsiya qilinadi; mahsulotlar to’qimadagi ishlov beruvchi fermentlarga bog’liq. Kortikotroplarda **prohormon konvertaza 1 (PC1)** → N-uchli peptid, bog’lovchi peptid, AKTG, β-lipotropin. Gipotalamusda **PC2** → α-, β-, γ-MSG va β-endorfin (AKTG emas). Gipotalamusdagi α-MSG ishtahani boshqarishda katta rol o’ynaydi (72-bob).",
       "depth": 0
      },
      {
-      "text": "Derma va epidermis orasidagi **melanotsitlarda** MSG qora pigment **melanin** hosil bo'lishini va epidermisga tarqalishini qo'zg'atadi; 8–10 kun MSG yuborish terini ancha qoraytiradi (genetik qora terili odamlarda kuchliroq).",
+      "text": "Derma va epidermis orasidagi **melanotsitlarda** MSG qora pigment **melanin** hosil bo’lishini va epidermisga tarqalishini qo’zg’atadi; 8–10 kun MSG yuborish terini ancha qoraytiradi (genetik qora terili odamlarda kuchliroq).",
       "depth": 0
      },
      {
-      "text": "Ba'zi hayvonlarda gipofizning **oraliq qismi** yaxshi rivojlangan va ko'p MSG ajratadi; uni gipotalamus yorug'lik va muhitga qarab mustaqil boshqaradi (ba'zi arktika hayvonlari yozda qora, qishda oq mo'yna).",
+      "text": "Ba’zi hayvonlarda gipofizning **oraliq qismi** yaxshi rivojlangan va ko’p MSG ajratadi; uni gipotalamus yorug’lik va muhitga qarab mustaqil boshqaradi (ba’zi arktika hayvonlari yozda qora, qishda oq mo’yna).",
       "depth": 0
      },
      {
-      "text": "AKTG tarkibida MSG ketma-ketligi bor, melanotsitlarni qo'zg'atish ta'siri MSG nikining ~1/30 qismi. Odamda sof MSG juda oz, AKTG esa ko'p bo'lgani uchun teri melaninini normada ehtimol AKTG ko'proq belgilaydi.",
+      "text": "AKTG tarkibida MSG ketma-ketligi bor, melanotsitlarni qo’zg’atish ta’siri MSG nikining ~1/30 qismi. Odamda sof MSG juda oz, AKTG esa ko’p bo’lgani uchun teri melaninini normada ehtimol AKTG ko’proq belgilaydi.",
       "depth": 0
      }
     ],
@@ -1078,15 +1078,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Bir nechta o'rtacha faol erkak jinsiy gormonlari (eng muhimi **DHEA**) doimo, ayniqsa homila davrida ajraladi (84-bob); progesteron va estrogenlar juda oz.",
+      "text": "Bir nechta o’rtacha faol erkak jinsiy gormonlari (eng muhimi **DHEA**) doimo, ayniqsa homila davrida ajraladi (84-bob); progesteron va estrogenlar juda oz.",
       "depth": 0
      },
      {
-      "text": "Odatda kuchsiz ta'sir. Erkak jinsiy a'zolarining erta rivojlanishining bir qismi bolalikdagi buyrak usti androgenlaridan bo'lishi mumkin. Ayollarda ham balog'atdan oldin va butun umr yengil ta'sir: qov va qo'ltiq tuklari o'sishining ko'p qismi shu gormonlardan.",
+      "text": "Odatda kuchsiz ta’sir. Erkak jinsiy a’zolarining erta rivojlanishining bir qismi bolalikdagi buyrak usti androgenlaridan bo’lishi mumkin. Ayollarda ham balog’atdan oldin va butun umr yengil ta’sir: qov va qo’ltiq tuklari o’sishining ko’p qismi shu gormonlardan.",
       "depth": 0
      },
      {
-      "text": "Buyrak usti bezidan tashqari to'qimalarda bir qismi testosteronga aylanadi — androgen faolligining ko'pi shundan bo'lsa kerak (81-bob).",
+      "text": "Buyrak usti bezidan tashqari to’qimalarda bir qismi testosteronga aylanadi — androgen faolligining ko’pi shundan bo’lsa kerak (81-bob).",
       "depth": 0
      }
     ],
@@ -1095,7 +1095,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Buyrak usti po'stlog'i sekretsiyasi buzilishlari",
+    "text": "Buyrak usti po’stlog’i sekretsiyasi buzilishlari",
     "id": "ch78-s-50-buyrak-usti-postlogi-sekretsiyasi-buzilishlari",
     "bid": "ch78-u50"
    },
@@ -1109,31 +1109,31 @@
     "ordered": false,
     "items": [
      {
-      "text": "Po'stloq yetarli gormon ishlab chiqara olmaydi; ko'pincha po'stloqning birlamchi atrofiyasi yoki shikastlanishidan — ~80% autoimmunitet. Shuningdek sil bilan yemirilish yoki saraton invaziyasi.",
+      "text": "Po’stloq yetarli gormon ishlab chiqara olmaydi; ko’pincha po’stloqning birlamchi atrofiyasi yoki shikastlanishidan — ~80% autoimmunitet. Shuningdek sil bilan yemirilish yoki saraton invaziyasi.",
       "depth": 0
      },
      {
-      "text": "**Ikkilamchi yetishmovchilik:** gipofiz yetarli AKTG ishlab chiqarmaydi → kortizol va aldosteron kamayadi, bez atrofiyalanishi mumkin. Ikkilamchi yetishmovchilik Addison kasalligidan ancha ko'p uchraydi.",
+      "text": "**Ikkilamchi yetishmovchilik:** gipofiz yetarli AKTG ishlab chiqarmaydi → kortizol va aldosteron kamayadi, bez atrofiyalanishi mumkin. Ikkilamchi yetishmovchilik Addison kasalligidan ancha ko’p uchraydi.",
       "depth": 0
      },
      {
-      "text": "**Mineralokortikoid yetishmovchiligi:** Na qayta so'rilishi keskin kamayib Na⁺, Cl⁻ va suv ko'p yo'qoladi — hujayradan tashqari suyuqlik hajmi keskin kamayadi, **giponatriyemiya**; K⁺ va H⁺ sekretsiyasi buzilib **giperkaliyemiya** va yengil **atsidoz**. Plazma hajmi tushadi, eritrotsitlar konsentratsiyasi keskin oshadi, yurak chiqishi va bosim kamayadi, shok; mineralokortikoid sekretsiyasi to'liq to'xtagach davolanmagan bemor 4 kundan 2 haftagacha o'ladi.",
+      "text": "**Mineralokortikoid yetishmovchiligi:** Na qayta so’rilishi keskin kamayib Na⁺, Cl⁻ va suv ko’p yo’qoladi — hujayradan tashqari suyuqlik hajmi keskin kamayadi, **giponatriyemiya**; K⁺ va H⁺ sekretsiyasi buzilib **giperkaliyemiya** va yengil **atsidoz**. Plazma hajmi tushadi, eritrotsitlar konsentratsiyasi keskin oshadi, yurak chiqishi va bosim kamayadi, shok; mineralokortikoid sekretsiyasi to’liq to’xtagach davolanmagan bemor 4 kundan 2 haftagacha o’ladi.",
       "depth": 0
      },
      {
-      "text": "**Glyukokortikoid yetishmovchiligi:** glyukoneogenez bo'lmagani uchun ovqatlar orasida qon glyukozasini saqlay olmaydi; oqsil va yog' safarbarligi kamayib ko'p metabolik funksiyalar susayadi — energiya safarbarligining sustligi asosiy zarar. Glyukoza va ozuqa ko'p bo'lsa ham mushaklar zaif. Turli stresslarga juda sezgir; yengil nafas yo'li infeksiyasi ham o'limga olib kelishi mumkin.",
+      "text": "**Glyukokortikoid yetishmovchiligi:** glyukoneogenez bo’lmagani uchun ovqatlar orasida qon glyukozasini saqlay olmaydi; oqsil va yog' safarbarligi kamayib ko’p metabolik funksiyalar susayadi — energiya safarbarligining sustligi asosiy zarar. Glyukoza va ozuqa ko’p bo’lsa ham mushaklar zaif. Turli stresslarga juda sezgir; yengil nafas yo’li infeksiyasi ham o’limga olib kelishi mumkin.",
       "depth": 0
      },
      {
-      "text": "**Melanin pigmentatsiyasi:** ko'pchilikda shilliq qavat va teri pigmentatsiyasi, ba'zan dog'-dog', ayniqsa yupqa teri sohalarida (lab shilliq qavati, so'rg'ichlar). Kortizol kamayib manfiy teskari aloqa susayadi → AKTG va MSG juda ko'p ajraladi; pigmentatsiyaning ko'pi AKTG ning melanotsitlarni qo'zg'atishidan.",
+      "text": "**Melanin pigmentatsiyasi:** ko’pchilikda shilliq qavat va teri pigmentatsiyasi, ba’zan dog'-dog', ayniqsa yupqa teri sohalarida (lab shilliq qavati, so’rg’ichlar). Kortizol kamayib manfiy teskari aloqa susayadi → AKTG va MSG juda ko’p ajraladi; pigmentatsiyaning ko’pi AKTG ning melanotsitlarni qo’zg’atishidan.",
       "depth": 0
      },
      {
-      "text": "**Davolash:** to'liq yemirilishda davolanmasa kunlar-haftalarda zaiflik va qon aylanish shokidan o'lim; har kuni oz miqdorda mineralokortikoid va glyukokortikoid bilan yillab yashash mumkin.",
+      "text": "**Davolash:** to’liq yemirilishda davolanmasa kunlar-haftalarda zaiflik va qon aylanish shokidan o’lim; har kuni oz miqdorda mineralokortikoid va glyukokortikoid bilan yillab yashash mumkin.",
       "depth": 0
      },
      {
-      "text": "**Buyrak usti (Addison) krizi:** stressda glyukokortikoid oshmaydi; travma, kasallik, jarrohlik kabi stresslarda o'limni oldini olish uchun normadan 10 baravar va undan ko'p glyukokortikoid kerak bo'lishi mumkin.",
+      "text": "**Buyrak usti (Addison) krizi:** stressda glyukokortikoid oshmaydi; travma, kasallik, jarrohlik kabi stresslarda o’limni oldini olish uchun normadan 10 baravar va undan ko’p glyukokortikoid kerak bo’lishi mumkin.",
       "depth": 0
      }
     ],
@@ -1149,19 +1149,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Po'stloq gipersekretsiyasining murakkab ta'sirlari; ko'pi ortiqcha kortizoldan, androgenlar ham ta'sir qilishi mumkin.",
+      "text": "Po’stloq gipersekretsiyasining murakkab ta’sirlari; ko’pi ortiqcha kortizoldan, androgenlar ham ta’sir qilishi mumkin.",
       "depth": 0
      },
      {
-      "text": "Sabablari: (1) ko'p AKTG ajratuvchi oldingi gipofiz adenomalari → buyrak usti giperplaziyasi; (2) gipotalamus buzilishi bilan ko'p KRG; (3) boshqa joydagi o'smadan (masalan qorin karsinomasi) **ektopik AKTG**; (4) po'stloq adenomalari.",
+      "text": "Sabablari: (1) ko’p AKTG ajratuvchi oldingi gipofiz adenomalari → buyrak usti giperplaziyasi; (2) gipotalamus buzilishi bilan ko’p KRG; (3) boshqa joydagi o’smadan (masalan qorin karsinomasi) **ektopik AKTG**; (4) po’stloq adenomalari.",
       "depth": 0
      },
      {
-      "text": "Gipofizdan ortiqcha AKTG bo'lsa — **Kushing kasalligi**; eng ko'p sabab, yuqori AKTG va kortizol. Buyrak usti bezining birlamchi ortiqcha kortizol ishlab chiqarishi 20–25%, odatda AKTG past (teskari aloqa).",
+      "text": "Gipofizdan ortiqcha AKTG bo’lsa — **Kushing kasalligi**; eng ko’p sabab, yuqori AKTG va kortizol. Buyrak usti bezining birlamchi ortiqcha kortizol ishlab chiqarishi 20–25%, odatda AKTG past (teskari aloqa).",
       "depth": 0
      },
      {
-      "text": "**Deksametazon testi:** AKTG ga bog'liq va bog'liq bo'lmaganni farqlash. Gipofiz adenomasi yoki gipotalamus-gipofiz buzilishida past doza AKTG ni normal bosmaydi, juda yuqori doza ko'pchilik Kushing kasalligida bosadi. Birlamchi buyrak usti shaklida AKTG past yoki aniqlanmaydi. Ba'zi AKTG ajratuvchi gipofiz o'smalari past dozaga ham javob beradi; ektopik AKTG ishlab chiqaruvchi gipofizdan tashqari xavfli o'smalar (masalan ba'zi o'pka karsinomalari) glyukokortikoid teskari aloqasiga javob bermaydi — test differensial tashxisning birinchi qadami.",
+      "text": "**Deksametazon testi:** AKTG ga bog’liq va bog’liq bo’lmaganni farqlash. Gipofiz adenomasi yoki gipotalamus-gipofiz buzilishida past doza AKTG ni normal bosmaydi, juda yuqori doza ko’pchilik Kushing kasalligida bosadi. Birlamchi buyrak usti shaklida AKTG past yoki aniqlanmaydi. Ba’zi AKTG ajratuvchi gipofiz o’smalari past dozaga ham javob beradi; ektopik AKTG ishlab chiqaruvchi gipofizdan tashqari xavfli o’smalar (masalan ba’zi o’pka karsinomalari) glyukokortikoid teskari aloqasiga javob bermaydi — test differensial tashxisning birinchi qadami.",
       "depth": 0
      },
      {
@@ -1169,15 +1169,15 @@
       "depth": 0
      },
      {
-      "text": "**Belgilar:** pastki tanadan yog' safarbar qilinib, ko'krak va qorin yuqori qismida to'planadi — **buyvol tanasi**; yuz shishgan — **oy yuz**; ba'zi gormonlarning androgen ta'siridan **akne** va **girsutizm**. ~80% bemorlarda **gipertenziya** (kortizolning mineralokortikoid ta'siri).",
+      "text": "**Belgilar:** pastki tanadan yog' safarbar qilinib, ko’krak va qorin yuqori qismida to’planadi — **buyvol tanasi**; yuz shishgan — **oy yuz**; ba’zi gormonlarning androgen ta’siridan **akne** va **girsutizm**. ~80% bemorlarda **gipertenziya** (kortizolning mineralokortikoid ta’siri).",
       "depth": 0
      },
      {
-      "text": "**Uglevod va oqsil almashinuvi:** qon glyukozasi ovqatdan keyin 200 mg/dl gacha (normaning 2 baravari) — glyukoneogenez oshishi va glyukoza ishlatilishi kamayishi. Oqsil katabolizmi kuchli: jigardan tashqari deyarli hamma joyda to'qima oqsillari kamayadi (plazma oqsillari o'zgarmaydi). Mushak oqsili yo'qolib kuchli zaiflik; limfoid to'qimada oqsil sintezi kamayib immunitet bosiladi, infeksiyaga moyillik. Teri osti kollagen tolalari kamayib to'qima oson yirtiladi — katta **binafsha strialar**. Suyakda oqsil kam to'planib og'ir **osteoporoz**.",
+      "text": "**Uglevod va oqsil almashinuvi:** qon glyukozasi ovqatdan keyin 200 mg/dl gacha (normaning 2 baravari) — glyukoneogenez oshishi va glyukoza ishlatilishi kamayishi. Oqsil katabolizmi kuchli: jigardan tashqari deyarli hamma joyda to’qima oqsillari kamayadi (plazma oqsillari o’zgarmaydi). Mushak oqsili yo’qolib kuchli zaiflik; limfoid to’qimada oqsil sintezi kamayib immunitet bosiladi, infeksiyaga moyillik. Teri osti kollagen tolalari kamayib to’qima oson yirtiladi — katta **binafsha strialar**. Suyakda oqsil kam to’planib og’ir **osteoporoz**.",
       "depth": 0
      },
      {
-      "text": "**Davolash:** buyrak usti o'smasini olib tashlash yoki AKTG ni kamaytirish. Gipertrofiyalangan gipofiz yoki kichik o'smalar jarrohlik yoki nurlantirish bilan; jarrohlik mumkin bo'lmasa steroidogenezni to'suvchi dorilar (**metirapon, ketokonazol, aminoglutetimid**) yoki AKTG ni tormozlovchilar (serotonin antagonistlari, GABA-transaminaza ingibitorlari). AKTG ni kamaytirib bo'lmasa — ikki tomonlama qisman (yoki to'liq) adrenalektomiya va keyin steroidlar bilan o'rinbosar terapiya.",
+      "text": "**Davolash:** buyrak usti o’smasini olib tashlash yoki AKTG ni kamaytirish. Gipertrofiyalangan gipofiz yoki kichik o’smalar jarrohlik yoki nurlantirish bilan; jarrohlik mumkin bo’lmasa steroidogenezni to’suvchi dorilar (**metirapon, ketokonazol, aminoglutetimid**) yoki AKTG ni tormozlovchilar (serotonin antagonistlari, GABA-transaminaza ingibitorlari). AKTG ni kamaytirib bo’lmasa — ikki tomonlama qisman (yoki to’liq) adrenalektomiya va keyin steroidlar bilan o’rinbosar terapiya.",
       "depth": 0
      }
     ],
@@ -1193,11 +1193,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Koptokchali zonaning kichik o'smasi ko'p aldosteron ajratadi; ba'zan giperplastik po'stloq kortizol o'rniga aldosteron ajratadi.",
+      "text": "Koptokchali zonaning kichik o’smasi ko’p aldosteron ajratadi; ba’zan giperplastik po’stloq kortizol o’rniga aldosteron ajratadi.",
       "depth": 0
      },
      {
-      "text": "Asosiy ta'sirlar: **gipokaliyemiya**, yengil metabolik alkaloz, hujayradan tashqari suyuqlik va qon hajmining ozgina oshishi, plazma Na ning o'rtacha oshishi (odatda <4–6 mEq/L) va deyarli doim **gipertenziya**. Ba'zan gipokaliyemiyadan mushak falajlari (5-bob).",
+      "text": "Asosiy ta’sirlar: **gipokaliyemiya**, yengil metabolik alkaloz, hujayradan tashqari suyuqlik va qon hajmining ozgina oshishi, plazma Na ning o’rtacha oshishi (odatda <4–6 mEq/L) va deyarli doim **gipertenziya**. Ba’zan gipokaliyemiyadan mushak falajlari (5-bob).",
       "depth": 0
      },
      {
@@ -1205,7 +1205,7 @@
       "depth": 0
      },
      {
-      "text": "Davolash: o'smani yoki giperplaziyada buyrak usti to'qimasining ko'p qismini olib tashlash; yoki MR antagonistlari **spironolakton** yoki **eplerenon**.",
+      "text": "Davolash: o’smani yoki giperplaziyada buyrak usti to’qimasining ko’p qismini olib tashlash; yoki MR antagonistlari **spironolakton** yoki **eplerenon**.",
       "depth": 0
      }
     ],
@@ -1221,15 +1221,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Po'stloq o'smasi ko'p androgen ajratib, butun tanada kuchli erkaklashtiradi. Ayolda: soqol o'sishi, ovoz qo'pollashishi, (genetik moyillik bo'lsa) kallik, tana va qovda erkakcha tuk tarqalishi, klitorning jinsiy olatga o'xshab kattalashishi, teri va ayniqsa mushaklarda oqsil to'planishi.",
+      "text": "Po’stloq o’smasi ko’p androgen ajratib, butun tanada kuchli erkaklashtiradi. Ayolda: soqol o’sishi, ovoz qo’pollashishi, (genetik moyillik bo’lsa) kallik, tana va qovda erkakcha tuk tarqalishi, klitorning jinsiy olatga o’xshab kattalashishi, teri va ayniqsa mushaklarda oqsil to’planishi.",
       "depth": 0
      },
      {
-      "text": "Balog'atdan oldingi o'g'il bolada shu belgilar plyus erkak jinsiy a'zolarining tez rivojlanishi (4 yoshli bola). Katta erkakda belgilar moyak testosteroni bilan yashirinadi, tashxis qiyin.",
+      "text": "Balog’atdan oldingi o’g’il bolada shu belgilar plyus erkak jinsiy a’zolarining tez rivojlanishi (4 yoshli bola). Katta erkakda belgilar moyak testosteroni bilan yashirinadi, tashxis qiyin.",
       "depth": 0
      },
      {
-      "text": "Siydikda androgenlardan hosil bo'ladigan **17-ketosteroidlar** 10–15 baravar oshishi mumkin — diagnostik belgi.",
+      "text": "Siydikda androgenlardan hosil bo’ladigan **17-ketosteroidlar** 10–15 baravar oshishi mumkin — diagnostik belgi.",
       "depth": 0
      }
     ],
@@ -1259,7 +1259,7 @@
       "depth": 0
      },
      {
-      "text": "Glyukokortikoidlarni yallig'lanish, allergiya, anafilaksiya va transplantatsiyada qo'llash; immun supressiya va infeksiya xavfi.",
+      "text": "Glyukokortikoidlarni yallig’lanish, allergiya, anafilaksiya va transplantatsiyada qo’llash; immun supressiya va infeksiya xavfi.",
       "depth": 0
      },
      {
@@ -1272,7 +1272,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Bog'liqlik",
+    "text": "Bog’liqlik",
     "id": "ch78-s-61-bogliqlik",
     "bid": "ch78-u61"
    },
@@ -1281,7 +1281,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "5-bob (membrana qo'zg'aluvchanligi), 19, 28, 30, 31-boblar (bosim, buyrak, kislota-ishqor), 34–35-boblar (yallig'lanish, immunitet, allergiya), 61-bob (buyrak usti mag'zi), 69-bob (LDL), 72-bob (POMC, α-MSG), 74-bob (ter va issiqqa moslashish), 75–76-boblar (steroid mexanizmlari, AKTG), 79-bob (insulin), 81 va 84-boblar (androgenlar, homila).",
+      "text": "5-bob (membrana qo’zg’aluvchanligi), 19, 28, 30, 31-boblar (bosim, buyrak, kislota-ishqor), 34–35-boblar (yallig’lanish, immunitet, allergiya), 61-bob (buyrak usti mag’zi), 69-bob (LDL), 72-bob (POMC, α-MSG), 74-bob (ter va issiqqa moslashish), 75–76-boblar (steroid mexanizmlari, AKTG), 79-bob (insulin), 81 va 84-boblar (androgenlar, homila).",
       "depth": 0
      }
     ],
@@ -2391,9 +2391,9 @@
  "glossary": [
   {
    "id": "ch78-t-magiz-qavati",
-   "termUz": "mag'iz qavati",
+   "termUz": "mag’iz qavati",
    "original": null,
-   "contextUz": "Har biri ~4 g bo'lgan ikki buyrak usti bezi buyraklarning yuqori qutblarida yotadi va ikki qismdan iborat (78-1-rasm): mag'iz qavati (markaziy 20%; simpatik tizim bilan bog'liq, adrenalin va noradrenalin ajratadi, 61-bob) va po'stloq.",
+   "contextUz": "Har biri ~4 g bo’lgan ikki buyrak usti bezi buyraklarning yuqori qutblarida yotadi va ikki qismdan iborat (78-1-rasm): mag’iz qavati (markaziy 20%; simpatik tizim bilan bog’liq, adrenalin va noradrenalin ajratadi, 61-bob) va po’stloq.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2401,9 +2401,9 @@
   },
   {
    "id": "ch78-t-postloq",
-   "termUz": "po'stloq",
+   "termUz": "po’stloq",
    "original": null,
-   "contextUz": "Har biri ~4 g bo'lgan ikki buyrak usti bezi buyraklarning yuqori qutblarida yotadi va ikki qismdan iborat (78-1-rasm): mag'iz qavati (markaziy 20%; simpatik tizim bilan bog'liq, adrenalin va noradrenalin ajratadi, 61-bob) va po'stloq.",
+   "contextUz": "Har biri ~4 g bo’lgan ikki buyrak usti bezi buyraklarning yuqori qutblarida yotadi va ikki qismdan iborat (78-1-rasm): mag’iz qavati (markaziy 20%; simpatik tizim bilan bog’liq, adrenalin va noradrenalin ajratadi, 61-bob) va po’stloq.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2413,7 +2413,7 @@
    "id": "ch78-t-kortikosteroidlarni",
    "termUz": "kortikosteroidlarni",
    "original": null,
-   "contextUz": "Po'stloq xolesterindan hosil bo'ladigan kortikosteroidlarni ajratadi: mineralokortikoidlar (asosan aldosteron — Na/K muvozanati, \"hayotni saqlovchi\" qism), glyukokortikoidlar (asosan kortizol — glyukoza, oqsil, yog' almashinuvi, stress va yallig'lanishga qarshi) va oz miqdorda androgenlar.",
+   "contextUz": "Po’stloq xolesterindan hosil bo’ladigan kortikosteroidlarni ajratadi: mineralokortikoidlar (asosan aldosteron — Na/K muvozanati, \"hayotni saqlovchi\" qism), glyukokortikoidlar (asosan kortizol — glyukoza, oqsil, yog' almashinuvi, stress va yallig’lanishga qarshi) va oz miqdorda androgenlar.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2423,7 +2423,7 @@
    "id": "ch78-t-mineralokortikoidlar",
    "termUz": "Mineralokortikoidlar",
    "original": null,
-   "contextUz": "Mineralokortikoidlar — hujayradan tashqari suyuqlik elektrolitlariga (\"minerallar\"), ayniqsa Na⁺ va K⁺ ga ta'sir qiladi.",
+   "contextUz": "Mineralokortikoidlar — hujayradan tashqari suyuqlik elektrolitlariga (\"minerallar\"), ayniqsa Na⁺ va K⁺ ga ta’sir qiladi.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2433,7 +2433,7 @@
    "id": "ch78-t-glyukokortikoidlar",
    "termUz": "Glyukokortikoidlar",
    "original": null,
-   "contextUz": "Glyukokortikoidlar — qon glyukozasini oshiradi; oqsil va yog' almashinuviga ham muhim ta'sir qiladi.",
+   "contextUz": "Glyukokortikoidlar — qon glyukozasini oshiradi; oqsil va yog' almashinuviga ham muhim ta’sir qiladi.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2443,7 +2443,7 @@
    "id": "ch78-t-androgenlar",
    "termUz": "Androgenlar",
    "original": null,
-   "contextUz": "Androgenlar — testosteronga o'xshash ta'sir; odatda ahamiyati kam, lekin ba'zi kasalliklarda ko'p ajralib, erkaklashtiradi.",
+   "contextUz": "Androgenlar — testosteronga o’xshash ta’sir; odatda ahamiyati kam, lekin ba’zi kasalliklarda ko’p ajralib, erkaklashtiradi.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2453,7 +2453,7 @@
    "id": "ch78-t-aldosteron",
    "termUz": "aldosteron",
    "original": "asosiy mineralokortikoid",
-   "contextUz": "Po'stloqdan 30 dan ortiq steroid ajratilgan; eng muhimlari — aldosteron (asosiy mineralokortikoid) va kortizol (asosiy glyukokortikoid).",
+   "contextUz": "Po’stloqdan 30 dan ortiq steroid ajratilgan; eng muhimlari — aldosteron (asosiy mineralokortikoid) va kortizol (asosiy glyukokortikoid).",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2463,7 +2463,7 @@
    "id": "ch78-t-kortizol",
    "termUz": "kortizol",
    "original": "asosiy glyukokortikoid",
-   "contextUz": "Po'stloqdan 30 dan ortiq steroid ajratilgan; eng muhimlari — aldosteron (asosiy mineralokortikoid) va kortizol (asosiy glyukokortikoid).",
+   "contextUz": "Po’stloqdan 30 dan ortiq steroid ajratilgan; eng muhimlari — aldosteron (asosiy mineralokortikoid) va kortizol (asosiy glyukokortikoid).",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2493,7 +2493,7 @@
    "id": "ch78-t-tutamli-zona-zona-fasciculata",
    "termUz": "Tutamli zona (zona fasciculata)",
    "original": null,
-   "contextUz": "Tutamli zona (zona fasciculata) — o'rta va eng keng, ~75%.",
+   "contextUz": "Tutamli zona (zona fasciculata) — o’rta va eng keng, ~75%.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2503,7 +2503,7 @@
    "id": "ch78-t-aktg",
    "termUz": "AKTG",
    "original": null,
-   "contextUz": "Asosan gipotalamus-gipofiz o'qi orqali AKTG boshqaradi.",
+   "contextUz": "Asosan gipotalamus-gipofiz o’qi orqali AKTG boshqaradi.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2511,9 +2511,9 @@
   },
   {
    "id": "ch78-t-torsimon-zona-zona-reticularis",
-   "termUz": "To'rsimon zona (zona reticularis)",
+   "termUz": "To’rsimon zona (zona reticularis)",
    "original": null,
-   "contextUz": "To'rsimon zona (zona reticularis) — ichki qavat.",
+   "contextUz": "To’rsimon zona (zona reticularis) — ichki qavat.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2543,7 +2543,7 @@
    "id": "ch78-t-ldl",
    "termUz": "LDL",
    "original": null,
-   "contextUz": "Po'stloq hujayralari atsetatdan oz xolesterin sintezlay oladi, lekin ~80% i plazmadagi LDL dan.",
+   "contextUz": "Po’stloq hujayralari atsetatdan oz xolesterin sintezlay oladi, lekin ~80% i plazmadagi LDL dan.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2553,7 +2553,7 @@
    "id": "ch78-t-qoplangan-chuqurchalar",
    "termUz": "qoplangan chuqurchalar",
    "original": "coated pits",
-   "contextUz": "LDL interstitsial suyuqlikka diffuziya qilib, membranadagi qoplangan chuqurchalar (coated pits) dagi retseptorlarga bog'lanadi, endotsitoz bilan ichkariga olinadi, lizosomalar bilan qo'shilib xolesterin chiqariladi.",
+   "contextUz": "LDL interstitsial suyuqlikka diffuziya qilib, membranadagi qoplangan chuqurchalar (coated pits) dagi retseptorlarga bog’lanadi, endotsitoz bilan ichkariga olinadi, lizosomalar bilan qo’shilib xolesterin chiqariladi.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2581,9 +2581,9 @@
   },
   {
    "id": "ch78-t-sintez-yollari",
-   "termUz": "Sintez yo'llari",
+   "termUz": "Sintez yo’llari",
    "original": "78-2-rasm",
-   "contextUz": "Sintez yo'llari (78-2-rasm): bosqichlar mitoxondriya va endoplazmatik to'rda, har biri o'ziga xos ferment bilan (3β-gidroksisteroid degidrogenaza, 17α-gidroksilaza, 17,20-liaza, 21β-gidroksilaza, 11β-gidroksilaza, aldosteron sintaza).",
+   "contextUz": "Sintez yo’llari (78-2-rasm): bosqichlar mitoxondriya va endoplazmatik to’rda, har biri o’ziga xos ferment bilan (3β-gidroksisteroid degidrogenaza, 17α-gidroksilaza, 17,20-liaza, 21β-gidroksilaza, 11β-gidroksilaza, aldosteron sintaza).",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2603,7 +2603,7 @@
    "id": "ch78-t-deksametazon",
    "termUz": "deksametazon",
    "original": null,
-   "contextUz": "Prednizon — sintetik, 4 baravar; metilprednizon — 5 baravar; deksametazon — 30 baravar, mineralokortikoid faolligi deyarli nol (sof glyukokortikoid ta'sir uchun muhim dori).",
+   "contextUz": "Prednizon — sintetik, 4 baravar; metilprednizon — 5 baravar; deksametazon — 30 baravar, mineralokortikoid faolligi deyarli nol (sof glyukokortikoid ta’sir uchun muhim dori).",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2611,9 +2611,9 @@
   },
   {
    "id": "ch78-t-kortizol-boglovchi-globulin-transkortin",
-   "termUz": "kortizol bog'lovchi globulin (transkortin)",
+   "termUz": "kortizol bog’lovchi globulin (transkortin)",
    "original": null,
-   "contextUz": "Kortizolning 90–95% i plazma oqsillariga, asosan kortizol bog'lovchi globulin (transkortin), kamroq albuminga bog'langan; yarim yemirilish davri 60–90 daqiqa.",
+   "contextUz": "Kortizolning 90–95% i plazma oqsillariga, asosan kortizol bog’lovchi globulin (transkortin), kamroq albuminga bog’langan; yarim yemirilish davri 60–90 daqiqa.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2633,7 +2633,7 @@
    "id": "ch78-t-yetishmovchilik",
    "termUz": "Yetishmovchilik",
    "original": null,
-   "contextUz": "Yetishmovchilik: po'stloq sekretsiyasi to'liq yo'qolsa, ko'p tuz yoki mineralokortikoid berilmasa 3–14 kunda o'lim.",
+   "contextUz": "Yetishmovchilik: po’stloq sekretsiyasi to’liq yo’qolsa, ko’p tuz yoki mineralokortikoid berilmasa 3–14 kunda o’lim.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2643,7 +2643,7 @@
    "id": "ch78-t-11-gidroksisteroid-degidrogenaza-2-tur-11-hsd2",
    "termUz": "11β-gidroksisteroid degidrogenaza 2-tur (11β-HSD2)",
    "original": null,
-   "contextUz": "Kortizol mineralokortikoid retseptorlarga ham yuqori moyillik bilan bog'lanadi, lekin buyrak epiteliysidagi 11β-gidroksisteroid degidrogenaza 2-tur (11β-HSD2) kortizolni retseptorga yomon bog'lanadigan kortizonga aylantiradi (shuningdek hujayra ichi oksidlanish-qaytarilish holatiga ta'sir qilishi mumkin).",
+   "contextUz": "Kortizol mineralokortikoid retseptorlarga ham yuqori moyillik bilan bog’lanadi, lekin buyrak epiteliysidagi 11β-gidroksisteroid degidrogenaza 2-tur (11β-HSD2) kortizolni retseptorga yomon bog’lanadigan kortizonga aylantiradi (shuningdek hujayra ichi oksidlanish-qaytarilish holatiga ta’sir qilishi mumkin).",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2653,7 +2653,7 @@
    "id": "ch78-t-kortizonga",
    "termUz": "kortizonga",
    "original": null,
-   "contextUz": "Kortizol mineralokortikoid retseptorlarga ham yuqori moyillik bilan bog'lanadi, lekin buyrak epiteliysidagi 11β-gidroksisteroid degidrogenaza 2-tur (11β-HSD2) kortizolni retseptorga yomon bog'lanadigan kortizonga aylantiradi (shuningdek hujayra ichi oksidlanish-qaytarilish holatiga ta'sir qilishi mumkin).",
+   "contextUz": "Kortizol mineralokortikoid retseptorlarga ham yuqori moyillik bilan bog’lanadi, lekin buyrak epiteliysidagi 11β-gidroksisteroid degidrogenaza 2-tur (11β-HSD2) kortizolni retseptorga yomon bog’lanadigan kortizonga aylantiradi (shuningdek hujayra ichi oksidlanish-qaytarilish holatiga ta’sir qilishi mumkin).",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2661,9 +2661,9 @@
   },
   {
    "id": "ch78-t-korinma-mineralokortikoid-ortiqchaligi-sindromi-ame",
-   "termUz": "ko'rinma mineralokortikoid ortiqchaligi sindromi (AME)",
+   "termUz": "ko’rinma mineralokortikoid ortiqchaligi sindromi (AME)",
    "original": null,
-   "contextUz": "11β-HSD2 genetik yetishmovchiligida kortizol kuchli mineralokortikoid ta'sir beradi — ko'rinma mineralokortikoid ortiqchaligi sindromi (AME): aldosteron ortiqchaligi kabi, lekin plazma aldosteroni juda past.",
+   "contextUz": "11β-HSD2 genetik yetishmovchiligida kortizol kuchli mineralokortikoid ta’sir beradi — ko’rinma mineralokortikoid ortiqchaligi sindromi (AME): aldosteron ortiqchaligi kabi, lekin plazma aldosteroni juda past.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2673,7 +2673,7 @@
    "id": "ch78-t-qizilmiya-licorice",
    "termUz": "qizilmiya (licorice)",
    "original": null,
-   "contextUz": "Glitsirretin kislotali qizilmiya (licorice) ni ko'p iste'mol qilish ham 11β-HSD2 ni to'sib AME beradi.",
+   "contextUz": "Glitsirretin kislotali qizilmiya (licorice) ni ko’p iste’mol qilish ham 11β-HSD2 ni to’sib AME beradi.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2681,9 +2681,9 @@
   },
   {
    "id": "ch78-t-buyrak-va-qon-aylanishiga-tasiri",
-   "termUz": "Buyrak va qon aylanishiga ta'siri",
+   "termUz": "Buyrak va qon aylanishiga ta’siri",
    "original": null,
-   "contextUz": "Buyrak va qon aylanishiga ta'siri",
+   "contextUz": "Buyrak va qon aylanishiga ta’siri",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2691,9 +2691,9 @@
   },
   {
    "id": "ch78-t-na-qayta-sorilishi-va-k-sekretsiyasini-oshiradi",
-   "termUz": "Na⁺ qayta so'rilishi va K⁺ sekretsiyasini oshiradi",
+   "termUz": "Na⁺ qayta so’rilishi va K⁺ sekretsiyasini oshiradi",
    "original": null,
-   "contextUz": "Na⁺ qayta so'rilishi va K⁺ sekretsiyasini oshiradi — asosan yig'uvchi kanalchalarning asosiy hujayralarida, kamroq distal kanalcha va yig'uvchi naylarda (28-bob).",
+   "contextUz": "Na⁺ qayta so’rilishi va K⁺ sekretsiyasini oshiradi — asosan yig’uvchi kanalchalarning asosiy hujayralarida, kamroq distal kanalcha va yig’uvchi naylarda (28-bob).",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2703,7 +2703,7 @@
    "id": "ch78-t-asosiy-hujayralarida",
    "termUz": "asosiy hujayralarida",
    "original": null,
-   "contextUz": "Na⁺ qayta so'rilishi va K⁺ sekretsiyasini oshiradi — asosan yig'uvchi kanalchalarning asosiy hujayralarida, kamroq distal kanalcha va yig'uvchi naylarda (28-bob).",
+   "contextUz": "Na⁺ qayta so’rilishi va K⁺ sekretsiyasini oshiradi — asosan yig’uvchi kanalchalarning asosiy hujayralarida, kamroq distal kanalcha va yig’uvchi naylarda (28-bob).",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2713,7 +2713,7 @@
    "id": "ch78-t-aldosteron-qochishi-escape",
    "termUz": "Aldosteron \"qochishi\" (escape)",
    "original": null,
-   "contextUz": "Aldosteron \"qochishi\" (escape): hajm oshishi 1–2 kundan ko'p davom etsa bosim ko'tariladi (19-bob) → bosim natriurezi va diurezi.",
+   "contextUz": "Aldosteron \"qochishi\" (escape): hajm oshishi 1–2 kundan ko’p davom etsa bosim ko’tariladi (19-bob) → bosim natriurezi va diurezi.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2723,7 +2723,7 @@
    "id": "ch78-t-bosim-natriurezi-va-diurezi",
    "termUz": "bosim natriurezi va diurezi",
    "original": null,
-   "contextUz": "Aldosteron \"qochishi\" (escape): hajm oshishi 1–2 kundan ko'p davom etsa bosim ko'tariladi (19-bob) → bosim natriurezi va diurezi.",
+   "contextUz": "Aldosteron \"qochishi\" (escape): hajm oshishi 1–2 kundan ko’p davom etsa bosim ko’tariladi (19-bob) → bosim natriurezi va diurezi.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2733,7 +2733,7 @@
    "id": "ch78-t-aldosteron-yetishmovchiligi-giponatriyemiya-beradi",
    "termUz": "Aldosteron yetishmovchiligi giponatriyemiya beradi",
    "original": null,
-   "contextUz": "Aldosteron yetishmovchiligi giponatriyemiya beradi: Na yo'qotish → hajm, bosim va yurak chiqishi kamayishi → ADG oshib suv chiqarilishi kamayadi; chanqoq va suv ichish ham oshadi.",
+   "contextUz": "Aldosteron yetishmovchiligi giponatriyemiya beradi: Na yo’qotish → hajm, bosim va yurak chiqishi kamayishi → ADG oshib suv chiqarilishi kamayadi; chanqoq va suv ichish ham oshadi.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2743,7 +2743,7 @@
    "id": "ch78-t-ortiqcha-aldosteron-gipokaliyemiya-va-mushak-zaifligi",
    "termUz": "Ortiqcha aldosteron — gipokaliyemiya va mushak zaifligi",
    "original": null,
-   "contextUz": "Ortiqcha aldosteron — gipokaliyemiya va mushak zaifligi: K siydikka chiqadi va hujayradan tashqaridan ko'pchilik hujayralar ichiga o'tadi.",
+   "contextUz": "Ortiqcha aldosteron — gipokaliyemiya va mushak zaifligi: K siydikka chiqadi va hujayradan tashqaridan ko’pchilik hujayralar ichiga o’tadi.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2763,7 +2763,7 @@
    "id": "ch78-t-h-sekretsiyasi-va-alkaloz",
    "termUz": "H⁺ sekretsiyasi va alkaloz",
    "original": null,
-   "contextUz": "H⁺ sekretsiyasi va alkaloz: yig'uvchi kanalchalar po'stloq qismining interkalyar hujayralarida H⁺ ni K⁺ ga almashtirib sekretsiyasini oshiradi → hujayradan tashqari H⁺ kamayadi → metabolik alkaloz (28 va 31-boblar).",
+   "contextUz": "H⁺ sekretsiyasi va alkaloz: yig’uvchi kanalchalar po’stloq qismining interkalyar hujayralarida H⁺ ni K⁺ ga almashtirib sekretsiyasini oshiradi → hujayradan tashqari H⁺ kamayadi → metabolik alkaloz (28 va 31-boblar).",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2773,7 +2773,7 @@
    "id": "ch78-t-interkalyar-hujayralarida",
    "termUz": "interkalyar hujayralarida",
    "original": null,
-   "contextUz": "H⁺ sekretsiyasi va alkaloz: yig'uvchi kanalchalar po'stloq qismining interkalyar hujayralarida H⁺ ni K⁺ ga almashtirib sekretsiyasini oshiradi → hujayradan tashqari H⁺ kamayadi → metabolik alkaloz (28 va 31-boblar).",
+   "contextUz": "H⁺ sekretsiyasi va alkaloz: yig’uvchi kanalchalar po’stloq qismining interkalyar hujayralarida H⁺ ni K⁺ ga almashtirib sekretsiyasini oshiradi → hujayradan tashqari H⁺ kamayadi → metabolik alkaloz (28 va 31-boblar).",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2783,7 +2783,7 @@
    "id": "ch78-t-metabolik-alkaloz",
    "termUz": "metabolik alkaloz",
    "original": "28 va 31-boblar",
-   "contextUz": "H⁺ sekretsiyasi va alkaloz: yig'uvchi kanalchalar po'stloq qismining interkalyar hujayralarida H⁺ ni K⁺ ga almashtirib sekretsiyasini oshiradi → hujayradan tashqari H⁺ kamayadi → metabolik alkaloz (28 va 31-boblar).",
+   "contextUz": "H⁺ sekretsiyasi va alkaloz: yig’uvchi kanalchalar po’stloq qismining interkalyar hujayralarida H⁺ ni K⁺ ga almashtirib sekretsiyasini oshiradi → hujayradan tashqari H⁺ kamayadi → metabolik alkaloz (28 va 31-boblar).",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2791,9 +2791,9 @@
   },
   {
    "id": "ch78-t-ter-solak-bezlari-va-ichak-epiteliysiga-tasiri",
-   "termUz": "Ter, so'lak bezlari va ichak epiteliysiga ta'siri",
+   "termUz": "Ter, so’lak bezlari va ichak epiteliysiga ta’siri",
    "original": null,
-   "contextUz": "Ter, so'lak bezlari va ichak epiteliysiga ta'siri",
+   "contextUz": "Ter, so’lak bezlari va ichak epiteliysiga ta’siri",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2813,7 +2813,7 @@
    "id": "ch78-t-mineralokortikoid-retseptor-mr",
    "termUz": "mineralokortikoid retseptor (MR)",
    "original": null,
-   "contextUz": "Sitoplazmada o'ziga xos mineralokortikoid retseptor (MR) bilan bog'lanadi (MR kortizolga ham moyil, lekin 11β-HSD2 kortizolni kortizonga aylantiradi).",
+   "contextUz": "Sitoplazmada o’ziga xos mineralokortikoid retseptor (MR) bilan bog’lanadi (MR kortizolga ham moyil, lekin 11β-HSD2 kortizolni kortizonga aylantiradi).",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2853,7 +2853,7 @@
    "id": "ch78-t-spironolakton",
    "termUz": "Spironolakton",
    "original": null,
-   "contextUz": "Spironolakton MR ni antagonist sifatida to'sadi; amilorid ENaC ni bloklaydi.",
+   "contextUz": "Spironolakton MR ni antagonist sifatida to’sadi; amilorid ENaC ni bloklaydi.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2863,7 +2863,7 @@
    "id": "ch78-t-amilorid",
    "termUz": "amilorid",
    "original": null,
-   "contextUz": "Spironolakton MR ni antagonist sifatida to'sadi; amilorid ENaC ni bloklaydi.",
+   "contextUz": "Spironolakton MR ni antagonist sifatida to’sadi; amilorid ENaC ni bloklaydi.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2871,9 +2871,9 @@
   },
   {
    "id": "ch78-t-genomik-bolmagan-tasirlar",
-   "termUz": "Genomik bo'lmagan ta'sirlar",
+   "termUz": "Genomik bo’lmagan ta’sirlar",
    "original": null,
-   "contextUz": "Genomik bo'lmagan ta'sirlar: ba'zi steroidlar, jumladan aldosteron, soniya-daqiqalarda ta'sir qiladi — membrana retseptorlari va ikkilamchi xabarchilar orqali (masalan, tomir silliq mushagi va yig'uvchi kanalcha epiteliysida 2 daqiqadan kam vaqtda cAMP oshishi; boshqa hujayralarda fosfatidilinozitol tizimi).",
+   "contextUz": "Genomik bo’lmagan ta’sirlar: ba’zi steroidlar, jumladan aldosteron, soniya-daqiqalarda ta’sir qiladi — membrana retseptorlari va ikkilamchi xabarchilar orqali (masalan, tomir silliq mushagi va yig’uvchi kanalcha epiteliysida 2 daqiqadan kam vaqtda cAMP oshishi; boshqa hujayralarda fosfatidilinozitol tizimi).",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2911,9 +2911,9 @@
   },
   {
    "id": "ch78-t-bolmacha-natriyuretik-peptidi-anp",
-   "termUz": "Bo'lmacha natriyuretik peptidi (ANP)",
+   "termUz": "Bo’lmacha natriyuretik peptidi (ANP)",
    "original": null,
-   "contextUz": "Bo'lmacha natriyuretik peptidi (ANP) — bo'lmachalar cho'zilganda yurakdan ajraladi — kamaytiradi.",
+   "contextUz": "Bo’lmacha natriyuretik peptidi (ANP) — bo’lmachalar cho’zilganda yurakdan ajraladi — kamaytiradi.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2941,9 +2941,9 @@
   },
   {
    "id": "ch78-t-glyukoneogenezni-qozgatish",
-   "termUz": "Glyukoneogenezni qo'zg'atish",
+   "termUz": "Glyukoneogenezni qo’zg’atish",
    "original": null,
-   "contextUz": "Glyukoneogenezni qo'zg'atish — eng ma'lum ta'sir; jigarda 6–10 baravar oshirishi mumkin: Jigar hujayralarida aminokislotalarni glyukozaga aylantiruvchi fermentlarni oshiradi (yadroda DNK transkripsiyasi orqali, aldosteron kabi).",
+   "contextUz": "Glyukoneogenezni qo’zg’atish — eng ma’lum ta’sir; jigarda 6–10 baravar oshirishi mumkin: Jigar hujayralarida aminokislotalarni glyukozaga aylantiruvchi fermentlarni oshiradi (yadroda DNK transkripsiyasi orqali, aldosteron kabi).",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2952,8 +2952,8 @@
   {
    "id": "ch78-t-hujayralarning-glyukoza-ishlatishi-kamayadi",
    "termUz": "Hujayralarning glyukoza ishlatishi kamayadi",
-   "original": "o'rtacha",
-   "contextUz": "Hujayralarning glyukoza ishlatishi kamayadi (o'rtacha): ayniqsa skelet mushagida GLUT4 ning membranaga ko'chishi kamayib, insulin rezistentligi; insulin retseptori substrati-1 va PI3K ekspressiyasi kamayadi; NADH ning NAD⁺ ga oksidlanishi kamayadi (glikoliz uchun NADH oksidlanishi kerak).",
+   "original": "o’rtacha",
+   "contextUz": "Hujayralarning glyukoza ishlatishi kamayadi (o’rtacha): ayniqsa skelet mushagida GLUT4 ning membranaga ko’chishi kamayib, insulin rezistentligi; insulin retseptori substrati-1 va PI3K ekspressiyasi kamayadi; NADH ning NAD⁺ ga oksidlanishi kamayadi (glikoliz uchun NADH oksidlanishi kerak).",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2963,7 +2963,7 @@
    "id": "ch78-t-glut4",
    "termUz": "GLUT4",
    "original": null,
-   "contextUz": "Hujayralarning glyukoza ishlatishi kamayadi (o'rtacha): ayniqsa skelet mushagida GLUT4 ning membranaga ko'chishi kamayib, insulin rezistentligi; insulin retseptori substrati-1 va PI3K ekspressiyasi kamayadi; NADH ning NAD⁺ ga oksidlanishi kamayadi (glikoliz uchun NADH oksidlanishi kerak).",
+   "contextUz": "Hujayralarning glyukoza ishlatishi kamayadi (o’rtacha): ayniqsa skelet mushagida GLUT4 ning membranaga ko’chishi kamayib, insulin rezistentligi; insulin retseptori substrati-1 va PI3K ekspressiyasi kamayadi; NADH ning NAD⁺ ga oksidlanishi kamayadi (glikoliz uchun NADH oksidlanishi kerak).",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -2973,7 +2973,7 @@
    "id": "ch78-t-qon-glyukozasi-oshishi-va-buyrak-usti-diabeti",
    "termUz": "Qon glyukozasi oshishi va \"buyrak usti diabeti\"",
    "original": null,
-   "contextUz": "Qon glyukozasi oshishi va \"buyrak usti diabeti\": glyukoneogenez oshishi va glyukoza ishlatilishi kamayishi glyukozani oshiradi → insulin oshadi, lekin to'qimalar (ayniqsa mushak va yog') insulinga sezgirligi kamaygan; glyukokortikoidlar safarbar qilgan yuqori yog' kislotalari ham insulin ta'sirini buzishi mumkin.",
+   "contextUz": "Qon glyukozasi oshishi va \"buyrak usti diabeti\": glyukoneogenez oshishi va glyukoza ishlatilishi kamayishi glyukozani oshiradi → insulin oshadi, lekin to’qimalar (ayniqsa mushak va yog') insulinga sezgirligi kamaygan; glyukokortikoidlar safarbar qilgan yuqori yog' kislotalari ham insulin ta’sirini buzishi mumkin.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3043,7 +3043,7 @@
    "id": "ch78-t-yog-kislotalarini-safarbar-qilish",
    "termUz": "Yog' kislotalarini safarbar qilish",
    "original": null,
-   "contextUz": "Yog' kislotalarini safarbar qilish: plazmada erkin yog' kislotalari oshadi, energiya uchun ko'proq ishlatiladi; hujayralarda oksidlanishni bevosita ham oshiradi.",
+   "contextUz": "Yog' kislotalarini safarbar qilish: plazmada erkin yog' kislotalari oshadi, energiya uchun ko’proq ishlatiladi; hujayralarda oksidlanishni bevosita ham oshiradi.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3053,7 +3053,7 @@
    "id": "ch78-t-glitserofosfat",
    "termUz": "α-glitserofosfat",
    "original": null,
-   "contextUz": "Mexanizm qisman yog' hujayralariga glyukoza transporti kamayishi: triglitseridlarni saqlash uchun glyukozadan hosil bo'ladigan α-glitserofosfat kerak, u bo'lmasa yog' kislotalari chiqariladi.",
+   "contextUz": "Mexanizm qisman yog' hujayralariga glyukoza transporti kamayishi: triglitseridlarni saqlash uchun glyukozadan hosil bo’ladigan α-glitserofosfat kerak, u bo’lmasa yog' kislotalari chiqariladi.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3063,7 +3063,7 @@
    "id": "ch78-t-ortiqcha-kortizol-semizligi",
    "termUz": "Ortiqcha kortizol semizligi",
    "original": null,
-   "contextUz": "Ortiqcha kortizol semizligi: ko'krak va bosh sohasida ortiqcha yog' — \"buyvol tanasi\" va dumaloq \"oy yuz\".",
+   "contextUz": "Ortiqcha kortizol semizligi: ko’krak va bosh sohasida ortiqcha yog' — \"buyvol tanasi\" va dumaloq \"oy yuz\".",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3073,7 +3073,7 @@
    "id": "ch78-t-buyvol-tanasi",
    "termUz": "buyvol tanasi",
    "original": null,
-   "contextUz": "Ortiqcha kortizol semizligi: ko'krak va bosh sohasida ortiqcha yog' — \"buyvol tanasi\" va dumaloq \"oy yuz\".",
+   "contextUz": "Ortiqcha kortizol semizligi: ko’krak va bosh sohasida ortiqcha yog' — \"buyvol tanasi\" va dumaloq \"oy yuz\".",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3083,7 +3083,7 @@
    "id": "ch78-t-oy-yuz",
    "termUz": "oy yuz",
    "original": null,
-   "contextUz": "Ortiqcha kortizol semizligi: ko'krak va bosh sohasida ortiqcha yog' — \"buyvol tanasi\" va dumaloq \"oy yuz\".",
+   "contextUz": "Ortiqcha kortizol semizligi: ko’krak va bosh sohasida ortiqcha yog' — \"buyvol tanasi\" va dumaloq \"oy yuz\".",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3091,9 +3091,9 @@
   },
   {
    "id": "ch78-t-yuqori-kortizolning-yalliglanishga-qarshi-tasiri",
-   "termUz": "Yuqori kortizolning yallig'lanishga qarshi ta'siri",
+   "termUz": "Yuqori kortizolning yallig’lanishga qarshi ta’siri",
    "original": null,
-   "contextUz": "Yuqori kortizolning yallig'lanishga qarshi ta'siri",
+   "contextUz": "Yuqori kortizolning yallig’lanishga qarshi ta’siri",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3103,7 +3103,7 @@
    "id": "ch78-t-eritema",
    "termUz": "eritema",
    "original": null,
-   "contextUz": "Yallig'lanish bosqichlari (34-bob): (1) shikastlangan hujayralardan gistamin, bradikinin, proteolitik fermentlar, prostaglandinlar, leykotriyenlar ajralishi; (2) qon oqimi oshishi — eritema; (3) kapillyar o'tkazuvchanlik oshib deyarli sof plazma chiqishi va to'qima suyuqligi ivishi — chuqurcha qoldirmaydigan shish; (4) leykotsitlar infiltratsiyasi; (5) kunlar-haftalardan keyin fibroz to'qima o",
+   "contextUz": "Yallig’lanish bosqichlari (34-bob): (1) shikastlangan hujayralardan gistamin, bradikinin, proteolitik fermentlar, prostaglandinlar, leykotriyenlar ajralishi; (2) qon oqimi oshishi — eritema; (3) kapillyar o’tkazuvchanlik oshib deyarli sof plazma chiqishi va to’qima suyuqligi ivishi — chuqurcha qoldirmaydigan shish; (4) leykotsitlar infiltratsiyasi; (5) kunlar-haftalardan keyin fibroz to’qima o",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3111,9 +3111,9 @@
   },
   {
    "id": "ch78-t-yalliglanishning-oldini-olish",
-   "termUz": "Yallig'lanishning oldini olish",
+   "termUz": "Yallig’lanishning oldini olish",
    "original": null,
-   "contextUz": "Yallig'lanishning oldini olish: Lizosoma membranalarini barqarorlashtiradi — eng muhim ta'sirlardan biri; proteolitik fermentlar kam chiqadi.",
+   "contextUz": "Yallig’lanishning oldini olish: Lizosoma membranalarini barqarorlashtiradi — eng muhim ta’sirlardan biri; proteolitik fermentlar kam chiqadi.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3123,7 +3123,7 @@
    "id": "ch78-t-lizosoma-membranalarini-barqarorlashtiradi",
    "termUz": "Lizosoma membranalarini barqarorlashtiradi",
    "original": null,
-   "contextUz": "Yallig'lanishning oldini olish: Lizosoma membranalarini barqarorlashtiradi — eng muhim ta'sirlardan biri; proteolitik fermentlar kam chiqadi.",
+   "contextUz": "Yallig’lanishning oldini olish: Lizosoma membranalarini barqarorlashtiradi — eng muhim ta’sirlardan biri; proteolitik fermentlar kam chiqadi.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3133,7 +3133,7 @@
    "id": "ch78-t-prostaglandinlar-va-leykotriyenlar",
    "termUz": "prostaglandinlar va leykotriyenlar",
    "original": null,
-   "contextUz": "Leykotsitlar migratsiyasi va fagotsitozni kamaytiradi — vazodilatatsiya, o'tkazuvchanlik va leykotsit harakatchanligini oshiruvchi prostaglandinlar va leykotriyenlar hosil bo'lishini kamaytirib.",
+   "contextUz": "Leykotsitlar migratsiyasi va fagotsitozni kamaytiradi — vazodilatatsiya, o’tkazuvchanlik va leykotsit harakatchanligini oshiruvchi prostaglandinlar va leykotriyenlar hosil bo’lishini kamaytirib.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3143,7 +3143,7 @@
    "id": "ch78-t-t-limfotsitlar",
    "termUz": "T limfotsitlar",
    "original": null,
-   "contextUz": "Immun tizimni bostiradi — limfotsitlar, ayniqsa T limfotsitlar ko'payishi keskin kamayadi.",
+   "contextUz": "Immun tizimni bostiradi — limfotsitlar, ayniqsa T limfotsitlar ko’payishi keskin kamayadi.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3161,9 +3161,9 @@
   },
   {
    "id": "ch78-t-yalliglanishni-bartaraf-etish",
-   "termUz": "Yallig'lanishni bartaraf etish",
+   "termUz": "Yallig’lanishni bartaraf etish",
    "original": null,
-   "contextUz": "Yallig'lanishni bartaraf etish: boshlangan yallig'lanish ham soatlar-kunlarda kamayadi; yallig'lanish omillari to'siladi va bitish tezlashadi — ehtimol (1) aminokislotalarni ta'mir uchun safarbar qilish; (2) glyukoneogenez; (3) energiya uchun yog' kislotalari; (4) yallig'lanish mahsulotlarini inaktivatsiya qilish yoki olib tashlash.",
+   "contextUz": "Yallig’lanishni bartaraf etish: boshlangan yallig’lanish ham soatlar-kunlarda kamayadi; yallig’lanish omillari to’siladi va bitish tezlashadi — ehtimol (1) aminokislotalarni ta’mir uchun safarbar qilish; (2) glyukoneogenez; (3) energiya uchun yog' kislotalari; (4) yallig’lanish mahsulotlarini inaktivatsiya qilish yoki olib tashlash.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3171,9 +3171,9 @@
   },
   {
    "id": "ch78-t-revmatoid-artrit-revmatizm-otkir-glomerulonefrit",
-   "termUz": "Revmatoid artrit, revmatizm, o'tkir glomerulonefrit",
+   "termUz": "Revmatoid artrit, revmatizm, o’tkir glomerulonefrit",
    "original": null,
-   "contextUz": "Revmatoid artrit, revmatizm, o'tkir glomerulonefrit kabi kuchli mahalliy yallig'lanishli kasalliklarda glyukokortikoidlar bilan yallig'lanish deyarli doim 24 soat ichida kamaya boshlaydi; asosiy kasallikni tuzatmasa ham hayotni saqlab qolishi mumkin.",
+   "contextUz": "Revmatoid artrit, revmatizm, o’tkir glomerulonefrit kabi kuchli mahalliy yallig’lanishli kasalliklarda glyukokortikoidlar bilan yallig’lanish deyarli doim 24 soat ichida kamaya boshlaydi; asosiy kasallikni tuzatmasa ham hayotni saqlab qolishi mumkin.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3181,9 +3181,9 @@
   },
   {
    "id": "ch78-t-boshqa-tasirlar",
-   "termUz": "Boshqa ta'sirlar",
+   "termUz": "Boshqa ta’sirlar",
    "original": null,
-   "contextUz": "Boshqa ta'sirlar",
+   "contextUz": "Boshqa ta’sirlar",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3193,7 +3193,7 @@
    "id": "ch78-t-allergik-reaksiyalar",
    "termUz": "Allergik reaksiyalar",
    "original": null,
-   "contextUz": "Allergik reaksiyalar: antigen-antitelo reaksiyasi va ba'zi ikkilamchi ta'sirlar o'zgarmaydi, lekin og'ir va o'limga olib keluvchi yallig'lanish javobini to'sadi; anafilaksiyada shok yoki o'limni samarali oldini oladi (35-bob).",
+   "contextUz": "Allergik reaksiyalar: antigen-antitelo reaksiyasi va ba’zi ikkilamchi ta’sirlar o’zgarmaydi, lekin og’ir va o’limga olib keluvchi yallig’lanish javobini to’sadi; anafilaksiyada shok yoki o’limni samarali oldini oladi (35-bob).",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3203,7 +3203,7 @@
    "id": "ch78-t-anafilaksiyada",
    "termUz": "anafilaksiyada",
    "original": null,
-   "contextUz": "Allergik reaksiyalar: antigen-antitelo reaksiyasi va ba'zi ikkilamchi ta'sirlar o'zgarmaydi, lekin og'ir va o'limga olib keluvchi yallig'lanish javobini to'sadi; anafilaksiyada shok yoki o'limni samarali oldini oladi (35-bob).",
+   "contextUz": "Allergik reaksiyalar: antigen-antitelo reaksiyasi va ba’zi ikkilamchi ta’sirlar o’zgarmaydi, lekin og’ir va o’limga olib keluvchi yallig’lanish javobini to’sadi; anafilaksiyada shok yoki o’limni samarali oldini oladi (35-bob).",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3233,7 +3233,7 @@
    "id": "ch78-t-eritrotsitlar",
    "termUz": "Eritrotsitlar",
    "original": null,
-   "contextUz": "Eritrotsitlar: noma'lum mexanizm bilan oshiradi — ortiqcha kortizolda ko'pincha politsitemiya, kortizol yo'qligida anemiya.",
+   "contextUz": "Eritrotsitlar: noma’lum mexanizm bilan oshiradi — ortiqcha kortizolda ko’pincha politsitemiya, kortizol yo’qligida anemiya.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3243,7 +3243,7 @@
    "id": "ch78-t-politsitemiya",
    "termUz": "politsitemiya",
    "original": null,
-   "contextUz": "Eritrotsitlar: noma'lum mexanizm bilan oshiradi — ortiqcha kortizolda ko'pincha politsitemiya, kortizol yo'qligida anemiya.",
+   "contextUz": "Eritrotsitlar: noma’lum mexanizm bilan oshiradi — ortiqcha kortizolda ko’pincha politsitemiya, kortizol yo’qligida anemiya.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3253,7 +3253,7 @@
    "id": "ch78-t-anemiya",
    "termUz": "anemiya",
    "original": null,
-   "contextUz": "Eritrotsitlar: noma'lum mexanizm bilan oshiradi — ortiqcha kortizolda ko'pincha politsitemiya, kortizol yo'qligida anemiya.",
+   "contextUz": "Eritrotsitlar: noma’lum mexanizm bilan oshiradi — ortiqcha kortizolda ko’pincha politsitemiya, kortizol yo’qligida anemiya.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3273,7 +3273,7 @@
    "id": "ch78-t-glyukokortikoidga-javob-elementlari",
    "termUz": "glyukokortikoidga javob elementlari",
    "original": null,
-   "contextUz": "Lipidda eriydi, membranadan o'tib sitoplazmadagi retseptorga bog'lanadi; kompleks DNK dagi glyukokortikoidga javob elementlari bilan (transkripsiya omillari yordamida) bog'lanib, ko'p genlar transkripsiyasini oshiradi yoki kamaytiradi.",
+   "contextUz": "Lipidda eriydi, membranadan o’tib sitoplazmadagi retseptorga bog’lanadi; kompleks DNK dagi glyukokortikoidga javob elementlari bilan (transkripsiya omillari yordamida) bog’lanib, ko’p genlar transkripsiyasini oshiradi yoki kamaytiradi.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3293,7 +3293,7 @@
    "id": "ch78-t-11-hsd2",
    "termUz": "11β-HSD2",
    "original": null,
-   "contextUz": "11β-HSD2 kortizolni nofaol kortizonga aylantiradi (buyrak, yo'g'on ichak, ter va so'lak bezlari, yo'ldosh) — MR ni kortizoldan himoya qiladi.",
+   "contextUz": "11β-HSD2 kortizolni nofaol kortizonga aylantiradi (buyrak, yo’g’on ichak, ter va so’lak bezlari, yo’ldosh) — MR ni kortizoldan himoya qiladi.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3302,8 +3302,8 @@
   {
    "id": "ch78-t-11-hsd1",
    "termUz": "11β-HSD1",
-   "original": "jigar, miya, yog' to'qimasi, skelet mushagi, o'pka, teri",
-   "contextUz": "11β-HSD1 (jigar, miya, yog' to'qimasi, skelet mushagi, o'pka, teri) nofaol kortizonni faol kortizolga aylantiradi — to'qimada glyukokortikoid ta'sirini kuchaytiradi.",
+   "original": "jigar, miya, yog' to’qimasi, skelet mushagi, o’pka, teri",
+   "contextUz": "11β-HSD1 (jigar, miya, yog' to’qimasi, skelet mushagi, o’pka, teri) nofaol kortizonni faol kortizolga aylantiradi — to’qimada glyukokortikoid ta’sirini kuchaytiradi.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3323,7 +3323,7 @@
    "id": "ch78-t-aktg-kimyosi",
    "termUz": "AKTG kimyosi",
    "original": null,
-   "contextUz": "AKTG kimyosi: 39 aminokislotali polipeptid; uning 24 aminokislotali bo'lagi butun molekulaning barcha ta'sirlariga ega.",
+   "contextUz": "AKTG kimyosi: 39 aminokislotali polipeptid; uning 24 aminokislotali bo’lagi butun molekulaning barcha ta’sirlariga ega.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3333,7 +3333,7 @@
    "id": "ch78-t-kortikotropin-rilizing-omil-kro-crf",
    "termUz": "Kortikotropin-rilizing omil (KRO, CRF)",
    "original": null,
-   "contextUz": "Kortikotropin-rilizing omil (KRO, CRF): 41 aminokislotali peptid; asosan paraventrikulyar yadro neyronlari ajratadi (u limbik tizim va pastki miya ustunidan ko'p nerv bog'lanishlari oladi), median eminensiyada portal tizimning birlamchi kapillyar to'riga chiqariladi.",
+   "contextUz": "Kortikotropin-rilizing omil (KRO, CRF): 41 aminokislotali peptid; asosan paraventrikulyar yadro neyronlari ajratadi (u limbik tizim va pastki miya ustunidan ko’p nerv bog’lanishlari oladi), median eminensiyada portal tizimning birlamchi kapillyar to’riga chiqariladi.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3343,7 +3343,7 @@
    "id": "ch78-t-paraventrikulyar-yadro",
    "termUz": "paraventrikulyar yadro",
    "original": null,
-   "contextUz": "Kortikotropin-rilizing omil (KRO, CRF): 41 aminokislotali peptid; asosan paraventrikulyar yadro neyronlari ajratadi (u limbik tizim va pastki miya ustunidan ko'p nerv bog'lanishlari oladi), median eminensiyada portal tizimning birlamchi kapillyar to'riga chiqariladi.",
+   "contextUz": "Kortikotropin-rilizing omil (KRO, CRF): 41 aminokislotali peptid; asosan paraventrikulyar yadro neyronlari ajratadi (u limbik tizim va pastki miya ustunidan ko’p nerv bog’lanishlari oladi), median eminensiyada portal tizimning birlamchi kapillyar to’riga chiqariladi.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3363,7 +3363,7 @@
    "id": "ch78-t-protein-kinaza-a",
    "termUz": "protein kinaza A",
    "original": null,
-   "contextUz": "Eng muhim bosqich — protein kinaza A faollashib xolesterinni pregnenolonga aylantirishni boshlashi (tezlikni cheklovchi bosqich) — shuning uchun AKTG odatda barcha po'stloq gormonlari uchun zarur.",
+   "contextUz": "Eng muhim bosqich — protein kinaza A faollashib xolesterinni pregnenolonga aylantirishni boshlashi (tezlikni cheklovchi bosqich) — shuning uchun AKTG odatda barcha po’stloq gormonlari uchun zarur.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3403,7 +3403,7 @@
    "id": "ch78-t-xulosa-78-8-rasm",
    "termUz": "Xulosa (78-8-rasm)",
    "original": null,
-   "contextUz": "Xulosa (78-8-rasm): stress gipotalamusni qo'zg'atib, tizimni tez faollashtiradi; kortizol glyukoneogenez, oqsil va yog' safarbarligi, lizosomalar barqarorligi orqali stress zararini yengillashtiradi.",
+   "contextUz": "Xulosa (78-8-rasm): stress gipotalamusni qo’zg’atib, tizimni tez faollashtiradi; kortizol glyukoneogenez, oqsil va yog' safarbarligi, lizosomalar barqarorligi orqali stress zararini yengillashtiradi.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3413,7 +3413,7 @@
    "id": "ch78-t-sirkadian-ritm",
    "termUz": "Sirkadian ritm",
    "original": null,
-   "contextUz": "Sirkadian ritm: KRO, AKTG va kortizol erta tongda yuqori, kech kechqurun past: kortizol uyg'onishdan ~1 soat oldin ~20 µg/dl, yarim tunda ~5 µg/dl.",
+   "contextUz": "Sirkadian ritm: KRO, AKTG va kortizol erta tongda yuqori, kech kechqurun past: kortizol uyg’onishdan ~1 soat oldin ~20 µg/dl, yarim tunda ~5 µg/dl.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3423,7 +3423,7 @@
    "id": "ch78-t-proopiomelanokortin-pomc",
    "termUz": "proopiomelanokortin (POMC)",
    "original": null,
-   "contextUz": "AKTG geni avval ancha katta preprogormon — proopiomelanokortin (POMC) ni hosil qiladi; u AKTG, melanotsitlarni qo'zg'atuvchi gormon (MSG), β-lipotropin, β-endorfin va boshqalarning prekursori (78-10-rasm).",
+   "contextUz": "AKTG geni avval ancha katta preprogormon — proopiomelanokortin (POMC) ni hosil qiladi; u AKTG, melanotsitlarni qo’zg’atuvchi gormon (MSG), β-lipotropin, β-endorfin va boshqalarning prekursori (78-10-rasm).",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3433,7 +3433,7 @@
    "id": "ch78-t-msg",
    "termUz": "MSG",
    "original": null,
-   "contextUz": "AKTG geni avval ancha katta preprogormon — proopiomelanokortin (POMC) ni hosil qiladi; u AKTG, melanotsitlarni qo'zg'atuvchi gormon (MSG), β-lipotropin, β-endorfin va boshqalarning prekursori (78-10-rasm).",
+   "contextUz": "AKTG geni avval ancha katta preprogormon — proopiomelanokortin (POMC) ni hosil qiladi; u AKTG, melanotsitlarni qo’zg’atuvchi gormon (MSG), β-lipotropin, β-endorfin va boshqalarning prekursori (78-10-rasm).",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3443,7 +3443,7 @@
    "id": "ch78-t-lipotropin",
    "termUz": "β-lipotropin",
    "original": null,
-   "contextUz": "AKTG geni avval ancha katta preprogormon — proopiomelanokortin (POMC) ni hosil qiladi; u AKTG, melanotsitlarni qo'zg'atuvchi gormon (MSG), β-lipotropin, β-endorfin va boshqalarning prekursori (78-10-rasm).",
+   "contextUz": "AKTG geni avval ancha katta preprogormon — proopiomelanokortin (POMC) ni hosil qiladi; u AKTG, melanotsitlarni qo’zg’atuvchi gormon (MSG), β-lipotropin, β-endorfin va boshqalarning prekursori (78-10-rasm).",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3453,7 +3453,7 @@
    "id": "ch78-t-endorfin",
    "termUz": "β-endorfin",
    "original": null,
-   "contextUz": "AKTG geni avval ancha katta preprogormon — proopiomelanokortin (POMC) ni hosil qiladi; u AKTG, melanotsitlarni qo'zg'atuvchi gormon (MSG), β-lipotropin, β-endorfin va boshqalarning prekursori (78-10-rasm).",
+   "contextUz": "AKTG geni avval ancha katta preprogormon — proopiomelanokortin (POMC) ni hosil qiladi; u AKTG, melanotsitlarni qo’zg’atuvchi gormon (MSG), β-lipotropin, β-endorfin va boshqalarning prekursori (78-10-rasm).",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3463,7 +3463,7 @@
    "id": "ch78-t-prohormon-konvertaza-1-pc1",
    "termUz": "prohormon konvertaza 1 (PC1)",
    "original": null,
-   "contextUz": "Kortikotroplarda prohormon konvertaza 1 (PC1) → N-uchli peptid, bog'lovchi peptid, AKTG, β-lipotropin.",
+   "contextUz": "Kortikotroplarda prohormon konvertaza 1 (PC1) → N-uchli peptid, bog’lovchi peptid, AKTG, β-lipotropin.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3483,7 +3483,7 @@
    "id": "ch78-t-melanotsitlarda",
    "termUz": "melanotsitlarda",
    "original": null,
-   "contextUz": "Derma va epidermis orasidagi melanotsitlarda MSG qora pigment melanin hosil bo'lishini va epidermisga tarqalishini qo'zg'atadi; 8–10 kun MSG yuborish terini ancha qoraytiradi (genetik qora terili odamlarda kuchliroq).",
+   "contextUz": "Derma va epidermis orasidagi melanotsitlarda MSG qora pigment melanin hosil bo’lishini va epidermisga tarqalishini qo’zg’atadi; 8–10 kun MSG yuborish terini ancha qoraytiradi (genetik qora terili odamlarda kuchliroq).",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3493,7 +3493,7 @@
    "id": "ch78-t-melanin",
    "termUz": "melanin",
    "original": null,
-   "contextUz": "Derma va epidermis orasidagi melanotsitlarda MSG qora pigment melanin hosil bo'lishini va epidermisga tarqalishini qo'zg'atadi; 8–10 kun MSG yuborish terini ancha qoraytiradi (genetik qora terili odamlarda kuchliroq).",
+   "contextUz": "Derma va epidermis orasidagi melanotsitlarda MSG qora pigment melanin hosil bo’lishini va epidermisga tarqalishini qo’zg’atadi; 8–10 kun MSG yuborish terini ancha qoraytiradi (genetik qora terili odamlarda kuchliroq).",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3503,7 +3503,7 @@
    "id": "ch78-t-oraliq-qismi",
    "termUz": "oraliq qismi",
    "original": null,
-   "contextUz": "Ba'zi hayvonlarda gipofizning oraliq qismi yaxshi rivojlangan va ko'p MSG ajratadi; uni gipotalamus yorug'lik va muhitga qarab mustaqil boshqaradi (ba'zi arktika hayvonlari yozda qora, qishda oq mo'yna).",
+   "contextUz": "Ba’zi hayvonlarda gipofizning oraliq qismi yaxshi rivojlangan va ko’p MSG ajratadi; uni gipotalamus yorug’lik va muhitga qarab mustaqil boshqaradi (ba’zi arktika hayvonlari yozda qora, qishda oq mo’yna).",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3523,7 +3523,7 @@
    "id": "ch78-t-mineralokortikoid-yetishmovchiligi",
    "termUz": "Mineralokortikoid yetishmovchiligi",
    "original": null,
-   "contextUz": "Mineralokortikoid yetishmovchiligi: Na qayta so'rilishi keskin kamayib Na⁺, Cl⁻ va suv ko'p yo'qoladi — hujayradan tashqari suyuqlik hajmi keskin kamayadi, giponatriyemiya; K⁺ va H⁺ sekretsiyasi buzilib giperkaliyemiya va yengil atsidoz.",
+   "contextUz": "Mineralokortikoid yetishmovchiligi: Na qayta so’rilishi keskin kamayib Na⁺, Cl⁻ va suv ko’p yo’qoladi — hujayradan tashqari suyuqlik hajmi keskin kamayadi, giponatriyemiya; K⁺ va H⁺ sekretsiyasi buzilib giperkaliyemiya va yengil atsidoz.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3533,7 +3533,7 @@
    "id": "ch78-t-giponatriyemiya",
    "termUz": "giponatriyemiya",
    "original": null,
-   "contextUz": "Mineralokortikoid yetishmovchiligi: Na qayta so'rilishi keskin kamayib Na⁺, Cl⁻ va suv ko'p yo'qoladi — hujayradan tashqari suyuqlik hajmi keskin kamayadi, giponatriyemiya; K⁺ va H⁺ sekretsiyasi buzilib giperkaliyemiya va yengil atsidoz.",
+   "contextUz": "Mineralokortikoid yetishmovchiligi: Na qayta so’rilishi keskin kamayib Na⁺, Cl⁻ va suv ko’p yo’qoladi — hujayradan tashqari suyuqlik hajmi keskin kamayadi, giponatriyemiya; K⁺ va H⁺ sekretsiyasi buzilib giperkaliyemiya va yengil atsidoz.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3543,7 +3543,7 @@
    "id": "ch78-t-giperkaliyemiya",
    "termUz": "giperkaliyemiya",
    "original": null,
-   "contextUz": "Mineralokortikoid yetishmovchiligi: Na qayta so'rilishi keskin kamayib Na⁺, Cl⁻ va suv ko'p yo'qoladi — hujayradan tashqari suyuqlik hajmi keskin kamayadi, giponatriyemiya; K⁺ va H⁺ sekretsiyasi buzilib giperkaliyemiya va yengil atsidoz.",
+   "contextUz": "Mineralokortikoid yetishmovchiligi: Na qayta so’rilishi keskin kamayib Na⁺, Cl⁻ va suv ko’p yo’qoladi — hujayradan tashqari suyuqlik hajmi keskin kamayadi, giponatriyemiya; K⁺ va H⁺ sekretsiyasi buzilib giperkaliyemiya va yengil atsidoz.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3553,7 +3553,7 @@
    "id": "ch78-t-atsidoz",
    "termUz": "atsidoz",
    "original": null,
-   "contextUz": "Mineralokortikoid yetishmovchiligi: Na qayta so'rilishi keskin kamayib Na⁺, Cl⁻ va suv ko'p yo'qoladi — hujayradan tashqari suyuqlik hajmi keskin kamayadi, giponatriyemiya; K⁺ va H⁺ sekretsiyasi buzilib giperkaliyemiya va yengil atsidoz.",
+   "contextUz": "Mineralokortikoid yetishmovchiligi: Na qayta so’rilishi keskin kamayib Na⁺, Cl⁻ va suv ko’p yo’qoladi — hujayradan tashqari suyuqlik hajmi keskin kamayadi, giponatriyemiya; K⁺ va H⁺ sekretsiyasi buzilib giperkaliyemiya va yengil atsidoz.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3563,7 +3563,7 @@
    "id": "ch78-t-glyukokortikoid-yetishmovchiligi",
    "termUz": "Glyukokortikoid yetishmovchiligi",
    "original": null,
-   "contextUz": "Glyukokortikoid yetishmovchiligi: glyukoneogenez bo'lmagani uchun ovqatlar orasida qon glyukozasini saqlay olmaydi; oqsil va yog' safarbarligi kamayib ko'p metabolik funksiyalar susayadi — energiya safarbarligining sustligi asosiy zarar.",
+   "contextUz": "Glyukokortikoid yetishmovchiligi: glyukoneogenez bo’lmagani uchun ovqatlar orasida qon glyukozasini saqlay olmaydi; oqsil va yog' safarbarligi kamayib ko’p metabolik funksiyalar susayadi — energiya safarbarligining sustligi asosiy zarar.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3573,7 +3573,7 @@
    "id": "ch78-t-melanin-pigmentatsiyasi",
    "termUz": "Melanin pigmentatsiyasi",
    "original": null,
-   "contextUz": "Melanin pigmentatsiyasi: ko'pchilikda shilliq qavat va teri pigmentatsiyasi, ba'zan dog'-dog', ayniqsa yupqa teri sohalarida (lab shilliq qavati, so'rg'ichlar).",
+   "contextUz": "Melanin pigmentatsiyasi: ko’pchilikda shilliq qavat va teri pigmentatsiyasi, ba’zan dog'-dog', ayniqsa yupqa teri sohalarida (lab shilliq qavati, so’rg’ichlar).",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3583,7 +3583,7 @@
    "id": "ch78-t-davolash",
    "termUz": "Davolash",
    "original": null,
-   "contextUz": "Davolash: to'liq yemirilishda davolanmasa kunlar-haftalarda zaiflik va qon aylanish shokidan o'lim; har kuni oz miqdorda mineralokortikoid va glyukokortikoid bilan yillab yashash mumkin.",
+   "contextUz": "Davolash: to’liq yemirilishda davolanmasa kunlar-haftalarda zaiflik va qon aylanish shokidan o’lim; har kuni oz miqdorda mineralokortikoid va glyukokortikoid bilan yillab yashash mumkin.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3593,7 +3593,7 @@
    "id": "ch78-t-buyrak-usti-addison-krizi",
    "termUz": "Buyrak usti (Addison) krizi",
    "original": null,
-   "contextUz": "Buyrak usti (Addison) krizi: stressda glyukokortikoid oshmaydi; travma, kasallik, jarrohlik kabi stresslarda o'limni oldini olish uchun normadan 10 baravar va undan ko'p glyukokortikoid kerak bo'lishi mumkin.",
+   "contextUz": "Buyrak usti (Addison) krizi: stressda glyukokortikoid oshmaydi; travma, kasallik, jarrohlik kabi stresslarda o’limni oldini olish uchun normadan 10 baravar va undan ko’p glyukokortikoid kerak bo’lishi mumkin.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3613,7 +3613,7 @@
    "id": "ch78-t-ektopik-aktg",
    "termUz": "ektopik AKTG",
    "original": null,
-   "contextUz": "Sabablari: (1) ko'p AKTG ajratuvchi oldingi gipofiz adenomalari → buyrak usti giperplaziyasi; (2) gipotalamus buzilishi bilan ko'p KRG; (3) boshqa joydagi o'smadan (masalan qorin karsinomasi) ektopik AKTG; (4) po'stloq adenomalari.",
+   "contextUz": "Sabablari: (1) ko’p AKTG ajratuvchi oldingi gipofiz adenomalari → buyrak usti giperplaziyasi; (2) gipotalamus buzilishi bilan ko’p KRG; (3) boshqa joydagi o’smadan (masalan qorin karsinomasi) ektopik AKTG; (4) po’stloq adenomalari.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3623,7 +3623,7 @@
    "id": "ch78-t-kushing-kasalligi",
    "termUz": "Kushing kasalligi",
    "original": null,
-   "contextUz": "Gipofizdan ortiqcha AKTG bo'lsa — Kushing kasalligi; eng ko'p sabab, yuqori AKTG va kortizol.",
+   "contextUz": "Gipofizdan ortiqcha AKTG bo’lsa — Kushing kasalligi; eng ko’p sabab, yuqori AKTG va kortizol.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3633,7 +3633,7 @@
    "id": "ch78-t-deksametazon-testi",
    "termUz": "Deksametazon testi",
    "original": null,
-   "contextUz": "Deksametazon testi: AKTG ga bog'liq va bog'liq bo'lmaganni farqlash.",
+   "contextUz": "Deksametazon testi: AKTG ga bog’liq va bog’liq bo’lmaganni farqlash.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3643,7 +3643,7 @@
    "id": "ch78-t-belgilar",
    "termUz": "Belgilar",
    "original": null,
-   "contextUz": "Belgilar: pastki tanadan yog' safarbar qilinib, ko'krak va qorin yuqori qismida to'planadi — buyvol tanasi; yuz shishgan — oy yuz; ba'zi gormonlarning androgen ta'siridan akne va girsutizm.",
+   "contextUz": "Belgilar: pastki tanadan yog' safarbar qilinib, ko’krak va qorin yuqori qismida to’planadi — buyvol tanasi; yuz shishgan — oy yuz; ba’zi gormonlarning androgen ta’siridan akne va girsutizm.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3653,7 +3653,7 @@
    "id": "ch78-t-akne",
    "termUz": "akne",
    "original": null,
-   "contextUz": "Belgilar: pastki tanadan yog' safarbar qilinib, ko'krak va qorin yuqori qismida to'planadi — buyvol tanasi; yuz shishgan — oy yuz; ba'zi gormonlarning androgen ta'siridan akne va girsutizm.",
+   "contextUz": "Belgilar: pastki tanadan yog' safarbar qilinib, ko’krak va qorin yuqori qismida to’planadi — buyvol tanasi; yuz shishgan — oy yuz; ba’zi gormonlarning androgen ta’siridan akne va girsutizm.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3663,7 +3663,7 @@
    "id": "ch78-t-girsutizm",
    "termUz": "girsutizm",
    "original": null,
-   "contextUz": "Belgilar: pastki tanadan yog' safarbar qilinib, ko'krak va qorin yuqori qismida to'planadi — buyvol tanasi; yuz shishgan — oy yuz; ba'zi gormonlarning androgen ta'siridan akne va girsutizm.",
+   "contextUz": "Belgilar: pastki tanadan yog' safarbar qilinib, ko’krak va qorin yuqori qismida to’planadi — buyvol tanasi; yuz shishgan — oy yuz; ba’zi gormonlarning androgen ta’siridan akne va girsutizm.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3672,8 +3672,8 @@
   {
    "id": "ch78-t-gipertenziya",
    "termUz": "gipertenziya",
-   "original": "kortizolning mineralokortikoid ta'siri",
-   "contextUz": "~80% bemorlarda gipertenziya (kortizolning mineralokortikoid ta'siri).",
+   "original": "kortizolning mineralokortikoid ta’siri",
+   "contextUz": "~80% bemorlarda gipertenziya (kortizolning mineralokortikoid ta’siri).",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3693,7 +3693,7 @@
    "id": "ch78-t-binafsha-strialar",
    "termUz": "binafsha strialar",
    "original": null,
-   "contextUz": "Teri osti kollagen tolalari kamayib to'qima oson yirtiladi — katta binafsha strialar.",
+   "contextUz": "Teri osti kollagen tolalari kamayib to’qima oson yirtiladi — katta binafsha strialar.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3703,7 +3703,7 @@
    "id": "ch78-t-osteoporoz",
    "termUz": "osteoporoz",
    "original": null,
-   "contextUz": "Suyakda oqsil kam to'planib og'ir osteoporoz.",
+   "contextUz": "Suyakda oqsil kam to’planib og’ir osteoporoz.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3713,7 +3713,7 @@
    "id": "ch78-t-metirapon-ketokonazol-aminoglutetimid",
    "termUz": "metirapon, ketokonazol, aminoglutetimid",
    "original": null,
-   "contextUz": "Gipertrofiyalangan gipofiz yoki kichik o'smalar jarrohlik yoki nurlantirish bilan; jarrohlik mumkin bo'lmasa steroidogenezni to'suvchi dorilar (metirapon, ketokonazol, aminoglutetimid) yoki AKTG ni tormozlovchilar (serotonin antagonistlari, GABA-transaminaza ingibitorlari).",
+   "contextUz": "Gipertrofiyalangan gipofiz yoki kichik o’smalar jarrohlik yoki nurlantirish bilan; jarrohlik mumkin bo’lmasa steroidogenezni to’suvchi dorilar (metirapon, ketokonazol, aminoglutetimid) yoki AKTG ni tormozlovchilar (serotonin antagonistlari, GABA-transaminaza ingibitorlari).",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3733,7 +3733,7 @@
    "id": "ch78-t-gipokaliyemiya",
    "termUz": "gipokaliyemiya",
    "original": null,
-   "contextUz": "Asosiy ta'sirlar: gipokaliyemiya, yengil metabolik alkaloz, hujayradan tashqari suyuqlik va qon hajmining ozgina oshishi, plazma Na ning o'rtacha oshishi (odatda <4–6 mEq/L) va deyarli doim gipertenziya.",
+   "contextUz": "Asosiy ta’sirlar: gipokaliyemiya, yengil metabolik alkaloz, hujayradan tashqari suyuqlik va qon hajmining ozgina oshishi, plazma Na ning o’rtacha oshishi (odatda <4–6 mEq/L) va deyarli doim gipertenziya.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3753,7 +3753,7 @@
    "id": "ch78-t-eplerenon",
    "termUz": "eplerenon",
    "original": null,
-   "contextUz": "Davolash: o'smani yoki giperplaziyada buyrak usti to'qimasining ko'p qismini olib tashlash; yoki MR antagonistlari spironolakton yoki eplerenon.",
+   "contextUz": "Davolash: o’smani yoki giperplaziyada buyrak usti to’qimasining ko’p qismini olib tashlash; yoki MR antagonistlari spironolakton yoki eplerenon.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",
@@ -3773,7 +3773,7 @@
    "id": "ch78-t-17-ketosteroidlar",
    "termUz": "17-ketosteroidlar",
    "original": null,
-   "contextUz": "Siydikda androgenlardan hosil bo'ladigan 17-ketosteroidlar 10–15 baravar oshishi mumkin — diagnostik belgi.",
+   "contextUz": "Siydikda androgenlardan hosil bo’ladigan 17-ketosteroidlar 10–15 baravar oshishi mumkin — diagnostik belgi.",
    "lessonId": "ch78",
    "topicId": "14",
    "source": "summaryUz",

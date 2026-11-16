@@ -2,7 +2,7 @@
  "id": "ch49",
  "topicId": "09",
  "order": 4,
- "titleUz": "Somatik sezgilar II: og'riq, bosh og'rig'i va harorat sezgilari",
+ "titleUz": "Somatik sezgilar II: og’riq, bosh og’rig’i va harorat sezgilari",
  "titleOriginal": "Somatic Sensations: II. Pain, Headache, and Thermal Sensations",
  "subtitle": "*Somatic Sensations: II. Pain, Headache, and Thermal Sensations* — IX bo'lim, PDF 583–593",
  "contentVersion": "2026-11-14.1",
@@ -307,14 +307,14 @@
   }
  ],
  "objectives": [
-  "Tez va sekin og'riq",
-  "Og'riq retseptorlari",
-  "Ikki yo'l",
+  "Tez va sekin og’riq",
+  "Og’riq retseptorlari",
+  "Ikki yo’l",
   "Analgeziya tizimi",
-  "Referred og'riq",
-  "Visseral og'riq",
-  "Visseral va parietal yo'llar",
-  "Bosh og'rig'i",
+  "Referred og’riq",
+  "Visseral og’riq",
+  "Visseral va parietal yo’llar",
+  "Bosh og’rig’i",
   "Harorat sezgilari"
  ],
  "blocks": {
@@ -322,7 +322,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Asosiy g'oya",
+    "text": "Asosiy g’oya",
     "id": "ch49-s-0-asosiy-goya",
     "bid": "ch49-u0"
    },
@@ -331,27 +331,27 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Og'riq va himoya:** og'riq to'qima shikastlanayotganda paydo bo'ladi va odamni stimuldan qochishga majbur qiladi.",
+      "text": "**Og’riq va himoya:** og’riq to’qima shikastlanayotganda paydo bo’ladi va odamni stimuldan qochishga majbur qiladi.",
       "depth": 0
      },
      {
-      "text": "Uzoq o'tirganda ishemiya kelib chiqadi va odam ongsiz ravishda og'irligini siljitadi.",
+      "text": "Uzoq o’tirganda ishemiya kelib chiqadi va odam ongsiz ravishda og’irligini siljitadi.",
       "depth": 1
      },
      {
-      "text": "Og'riq sezgisi yo'qolganda (masalan, orqa miya shikastida) teri bosim joylarida yemiriladi.",
+      "text": "Og’riq sezgisi yo’qolganda (masalan, orqa miya shikastida) teri bosim joylarida yemiriladi.",
       "depth": 1
      },
      {
-      "text": "**Ikki og'riq tizimi:** tez (Aδ, neospinotalamik) va sekin (C, paleospinotalamik).",
+      "text": "**Ikki og’riq tizimi:** tez (Aδ, neospinotalamik) va sekin (C, paleospinotalamik).",
       "depth": 0
      },
      {
-      "text": "**Og'riqni boshqarish:** miyaning analgeziya tizimi (endorfin, enkefalin, serotonin) va taktil signallar og'riqni bostira oladi.",
+      "text": "**Og’riqni boshqarish:** miyaning analgeziya tizimi (endorfin, enkefalin, serotonin) va taktil signallar og’riqni bostira oladi.",
       "depth": 0
      },
      {
-      "text": "**Bobning qolgan mavzulari:** visseral va referred og'riq, bosh og'rig'i turlari, harorat sezgilari.",
+      "text": "**Bobning qolgan mavzulari:** visseral va referred og’riq, bosh og’rig’i turlari, harorat sezgilari.",
       "depth": 0
      }
     ],
@@ -360,13 +360,13 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Tez va sekin og'riq",
+    "text": "Tez va sekin og’riq",
     "id": "ch49-s-2-tez-va-sekin-ogriq",
     "bid": "ch49-u2"
    },
    {
     "type": "paragraph",
-    "text": "**Tez og'riq** (sharp, pricking, acute, electric):",
+    "text": "**Tez og’riq** (sharp, pricking, acute, electric):",
     "bid": "ch49-u3"
    },
    {
@@ -378,11 +378,11 @@
       "depth": 0
      },
      {
-      "text": "Igna sanchilganda, kesilganda, o'tkir kuyishda va elektr toki urganda paydo bo'ladi.",
+      "text": "Igna sanchilganda, kesilganda, o’tkir kuyishda va elektr toki urganda paydo bo’ladi.",
       "depth": 0
      },
      {
-      "text": "Chuqur to'qimalarda deyarli yo'q.",
+      "text": "Chuqur to’qimalarda deyarli yo’q.",
       "depth": 0
      }
     ],
@@ -390,7 +390,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Sekin og'riq** (burning, aching, throbbing, nauseous, chronic):",
+    "text": "**Sekin og’riq** (burning, aching, throbbing, nauseous, chronic):",
     "bid": "ch49-u5"
    },
    {
@@ -402,11 +402,11 @@
       "depth": 0
      },
      {
-      "text": "To'qima yemirilishi bilan bog'liq; uzoq va chidab bo'lmas azob berishi mumkin.",
+      "text": "To’qima yemirilishi bilan bog’liq; uzoq va chidab bo’lmas azob berishi mumkin.",
       "depth": 0
      },
      {
-      "text": "Teri va deyarli barcha chuqur to'qimalarda bo'ladi.",
+      "text": "Teri va deyarli barcha chuqur to’qimalarda bo’ladi.",
       "depth": 0
      }
     ],
@@ -415,7 +415,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Og'riq retseptorlari",
+    "text": "Og’riq retseptorlari",
     "id": "ch49-s-7-ogriq-retseptorlari",
     "bid": "ch49-u7"
    },
@@ -428,11 +428,11 @@
       "depth": 0
      },
      {
-      "text": "**Ko'p joylashgan joylari:** terining yuza qatlami, periost, arteriya devori, bo'g'im yuzalari, falx va tentorium.",
+      "text": "**Ko’p joylashgan joylari:** terining yuza qatlami, periost, arteriya devori, bo’g’im yuzalari, falx va tentorium.",
       "depth": 0
      },
      {
-      "text": "**Chuqur to'qimalar:** retseptorlar siyrak, lekin keng shikastlanish summatsiyalanib sekin og'riq beradi.",
+      "text": "**Chuqur to’qimalar:** retseptorlar siyrak, lekin keng shikastlanish summatsiyalanib sekin og’riq beradi.",
       "depth": 0
      },
      {
@@ -444,19 +444,19 @@
       "depth": 1
      },
      {
-      "text": "Tez og'riqni mexanik va termik stimul chaqiradi; sekin og'riqni uchalasi ham chaqiradi.",
+      "text": "Tez og’riqni mexanik va termik stimul chaqiradi; sekin og’riqni uchalasi ham chaqiradi.",
       "depth": 1
      },
      {
-      "text": "**Kimyoviy qo'zg'atuvchilar:** bradikinin, serotonin, gistamin, K⁺, kislotalar, atsetilxolin, proteolitik fermentlar.",
+      "text": "**Kimyoviy qo’zg’atuvchilar:** bradikinin, serotonin, gistamin, K⁺, kislotalar, atsetilxolin, proteolitik fermentlar.",
       "depth": 0
      },
      {
-      "text": "**Sezgirlikni oshiruvchilar:** prostaglandinlar va substance P sezgirlikni oshiradi, lekin o'zlari qo'zg'atmaydi.",
+      "text": "**Sezgirlikni oshiruvchilar:** prostaglandinlar va substance P sezgirlikni oshiradi, lekin o’zlari qo’zg’atmaydi.",
       "depth": 0
      },
      {
-      "text": "**Adaptatsiyalanmaslik:** retseptorlar deyarli adaptatsiyalanmaydi, aksincha sezgirlik oshib boradi (**hyperalgesia**). Shu tufayli og'riq zararli stimul davom etguncha xabar berib turadi.",
+      "text": "**Adaptatsiyalanmaslik:** retseptorlar deyarli adaptatsiyalanmaydi, aksincha sezgirlik oshib boradi (**hyperalgesia**). Shu tufayli og’riq zararli stimul davom etguncha xabar berib turadi.",
       "depth": 0
      }
     ],
@@ -465,7 +465,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "To'qima shikastlanish tezligi",
+    "text": "To’qima shikastlanish tezligi",
     "id": "ch49-s-9-toqima-shikastlanish-tezligi",
     "bid": "ch49-u9"
    },
@@ -474,11 +474,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Issiqlik og'rig'i:** teri >45°C ga qizdirilganda og'riq boshlanadi; bu to'qima shikastlanishi boshlanadigan harorat (Fig 49-1).",
+      "text": "**Issiqlik og’rig’i:** teri >45°C ga qizdirilganda og’riq boshlanadi; bu to’qima shikastlanishi boshlanadigan harorat (Fig 49-1).",
       "depth": 0
      },
      {
-      "text": "**Asosiy tamoyil:** og'riq jami zararga emas, shikastlanish **tezligi**ga mos keladi. Bu infeksiya, ishemiya va kontuziyaga ham taalluqli.",
+      "text": "**Asosiy tamoyil:** og’riq jami zararga emas, shikastlanish **tezligi**ga mos keladi. Bu infeksiya, ishemiya va kontuziyaga ham taalluqli.",
       "depth": 0
      },
      {
@@ -486,15 +486,15 @@
       "depth": 0
      },
      {
-      "text": "Shikastlangan to'qima ekstrakti teri ostiga yuborilsa kuchli og'riq beradi.",
+      "text": "Shikastlangan to’qima ekstrakti teri ostiga yuborilsa kuchli og’riq beradi.",
       "depth": 1
      },
      {
-      "text": "**Bradikinin** eng og'riqli modda bo'lishi mumkin.",
+      "text": "**Bradikinin** eng og’riqli modda bo’lishi mumkin.",
       "depth": 1
      },
      {
-      "text": "Og'riq kuchi lokal K⁺ va proteolitik fermentlar ortishi bilan mos keladi.",
+      "text": "Og’riq kuchi lokal K⁺ va proteolitik fermentlar ortishi bilan mos keladi.",
       "depth": 1
      }
     ],
@@ -512,15 +512,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Rivojlanish tezligi:** metabolizm qancha yuqori bo'lsa, og'riq shuncha tez paydo bo'ladi.",
+      "text": "**Rivojlanish tezligi:** metabolizm qancha yuqori bo’lsa, og’riq shuncha tez paydo bo’ladi.",
       "depth": 0
      },
      {
-      "text": "**Manjet tajribasi:** qo'lga manjet qo'yib mashq qilinsa, 15–20 s da og'riq paydo bo'ladi; mashqsiz 3–4 daqiqada.",
+      "text": "**Manjet tajribasi:** qo’lga manjet qo’yib mashq qilinsa, 15–20 s da og’riq paydo bo’ladi; mashqsiz 3–4 daqiqada.",
       "depth": 0
      },
      {
-      "text": "**Sabablari:** laktat to'planishi, bradikinin va proteolitik fermentlar.",
+      "text": "**Sabablari:** laktat to’planishi, bradikinin va proteolitik fermentlar.",
       "depth": 0
      }
     ],
@@ -538,15 +538,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Mexanizmi:** mexanosensitiv retseptorlarni bevosita qo'zg'atadi.",
+      "text": "**Mexanizmi:** mexanosensitiv retseptorlarni bevosita qo’zg’atadi.",
       "depth": 0
      },
      {
-      "text": "**Ishemiya bilan bog'liqligi:** tomirlarni bosib ishemiya qiladi, metabolizmni oshiradi va kimyoviy moddalarni chiqaradi.",
+      "text": "**Ishemiya bilan bog’liqligi:** tomirlarni bosib ishemiya qiladi, metabolizmni oshiradi va kimyoviy moddalarni chiqaradi.",
       "depth": 0
      },
      {
-      "text": "**Klinik ahamiyati:** ko'p klinik og'riq sindromlarining asosi.",
+      "text": "**Klinik ahamiyati:** ko’p klinik og’riq sindromlarining asosi.",
       "depth": 0
      }
     ],
@@ -555,7 +555,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Ikki yo'l",
+    "text": "Ikki yo’l",
     "id": "ch49-s-15-ikki-yol",
     "bid": "ch49-u15"
    },
@@ -569,23 +569,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Tez og'riq:** Aδ tolalar, 6–30 m/s; mexanik va termik stimul.",
+      "text": "**Tez og’riq:** Aδ tolalar, 6–30 m/s; mexanik va termik stimul.",
       "depth": 0
      },
      {
-      "text": "**Sekin og'riq:** C tolalar, 0.5–2 m/s; asosan kimyoviy, ba'zan davomli mexanik yoki termik stimul.",
+      "text": "**Sekin og’riq:** C tolalar, 0.5–2 m/s; asosan kimyoviy, ba’zan davomli mexanik yoki termik stimul.",
       "depth": 0
      },
      {
-      "text": "**\"Ikki marta\" og'riq:** avval o'tkir og'riq, ~1 s dan keyin sekin og'riq.",
+      "text": "**\"Ikki marta\" og’riq:** avval o’tkir og’riq, ~1 s dan keyin sekin og’riq.",
       "depth": 0
      },
      {
-      "text": "O'tkir og'riq darhol qochish reaksiyasini beradi.",
+      "text": "O’tkir og’riq darhol qochish reaksiyasini beradi.",
       "depth": 1
      },
      {
-      "text": "Sekin og'riq kuchayib boradi va sababni bartaraf etishga undaydi.",
+      "text": "Sekin og’riq kuchayib boradi va sababni bartaraf etishga undaydi.",
       "depth": 1
      }
     ],
@@ -594,7 +594,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Neospinotalamik trakt (tez og'riq)",
+    "text": "Neospinotalamik trakt (tez og’riq)",
     "id": "ch49-s-18-neospinotalamik-trakt-tez-ogriq",
     "bid": "ch49-u18"
    },
@@ -607,7 +607,7 @@
       "depth": 0
      },
      {
-      "text": "**2-tartibli neyronlar:** old komissurada kesishib, anterolateral ustunlar bo'ylab ko'tariladi.",
+      "text": "**2-tartibli neyronlar:** old komissurada kesishib, anterolateral ustunlar bo’ylab ko’tariladi.",
       "depth": 0
      },
      {
@@ -619,15 +619,15 @@
       "depth": 1
      },
      {
-      "text": "Ko'pi talamusning **ventrobasal kompleks**iga yetadi (lemniskal yo'l bilan birga).",
+      "text": "Ko’pi talamusning **ventrobasal kompleks**iga yetadi (lemniskal yo’l bilan birga).",
       "depth": 1
      },
      {
-      "text": "Ba'zilari posterior yadro guruhiga boradi.",
+      "text": "Ba’zilari posterior yadro guruhiga boradi.",
       "depth": 1
      },
      {
-      "text": "So'ng somatosensor po'stloqqa uzatiladi.",
+      "text": "So’ng somatosensor po’stloqqa uzatiladi.",
       "depth": 1
      },
      {
@@ -635,19 +635,19 @@
       "depth": 0
      },
      {
-      "text": "Tez og'riq yaxshi lokalizatsiyalanadi.",
+      "text": "Tez og’riq yaxshi lokalizatsiyalanadi.",
       "depth": 1
      },
      {
-      "text": "Faqat og'riq retseptori qo'zg'atilsa, ~10 sm aniqlikda.",
+      "text": "Faqat og’riq retseptori qo’zg’atilsa, ~10 sm aniqlikda.",
       "depth": 1
      },
      {
-      "text": "Taktil retseptorlar bilan birga qo'zg'atilsa, deyarli aniq.",
+      "text": "Taktil retseptorlar bilan birga qo’zg’atilsa, deyarli aniq.",
       "depth": 1
      },
      {
-      "text": "**Mediator:** **glutamat** (ta'siri bir necha millisekund).",
+      "text": "**Mediator:** **glutamat** (ta’siri bir necha millisekund).",
       "depth": 0
      }
     ],
@@ -656,7 +656,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Paleospinotalamik yo'l (sekin og'riq)",
+    "text": "Paleospinotalamik yo’l (sekin og’riq)",
     "id": "ch49-s-20-paleospinotalamik-yol-sekin-ogriq",
     "bid": "ch49-u20"
    },
@@ -677,11 +677,11 @@
       "depth": 1
      },
      {
-      "text": "Qisqa interneyronlar orqali **V laminaga** o'tadi.",
+      "text": "Qisqa interneyronlar orqali **V laminaga** o’tadi.",
       "depth": 1
      },
      {
-      "text": "So'ng kesishib, anterolateral yo'lga qo'shiladi.",
+      "text": "So’ng kesishib, anterolateral yo’lga qo’shiladi.",
       "depth": 1
      },
      {
@@ -689,11 +689,11 @@
       "depth": 0
      },
      {
-      "text": "C tolalar glutamat (tez) va **substance P** (sekin, soniyalar va daqiqalar ichida to'planadi) chiqaradi.",
+      "text": "C tolalar glutamat (tez) va **substance P** (sekin, soniyalar va daqiqalar ichida to’planadi) chiqaradi.",
       "depth": 1
      },
      {
-      "text": "Ikki marta og'riqning bir qismi shu bilan tushuntiriladi.",
+      "text": "Ikki marta og’riqning bir qismi shu bilan tushuntiriladi.",
       "depth": 1
      },
      {
@@ -705,11 +705,11 @@
       "depth": 1
      },
      {
-      "text": "Ko'pi uch joyda tugaydi: (1) medulla, pons va mezensefalon retikulyar yadrolari; (2) kolikulalar ostidagi tektal soha; (3) periakveduktal kulrang modda.",
+      "text": "Ko’pi uch joyda tugaydi: (1) medulla, pons va mezensefalon retikulyar yadrolari; (2) kolikulalar ostidagi tektal soha; (3) periakveduktal kulrang modda.",
       "depth": 1
      },
      {
-      "text": "Ular azob beruvchi og'riqni his qilishda muhim.",
+      "text": "Ular azob beruvchi og’riqni his qilishda muhim.",
       "depth": 1
      },
      {
@@ -717,7 +717,7 @@
       "depth": 1
      },
      {
-      "text": "**Lokalizatsiya:** yomon, faqat qo'l yoki oyoq darajasida (ko'p sinapsli, diffuz yo'l). Shu sababli bemorlar surunkali og'riq manbasini topishda qiynaladi.",
+      "text": "**Lokalizatsiya:** yomon, faqat qo’l yoki oyoq darajasida (ko’p sinapsli, diffuz yo’l). Shu sababli bemorlar surunkali og’riq manbasini topishda qiynaladi.",
       "depth": 0
      }
     ],
@@ -726,7 +726,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Retikulyar formatsiya, talamus va po'stloq",
+    "text": "Retikulyar formatsiya, talamus va po’stloq",
     "id": "ch49-s-22-retikulyar-formatsiya-talamus-va-postloq",
     "bid": "ch49-u22"
    },
@@ -735,15 +735,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Quyi markazlar:** somatosensor po'stloq to'liq olib tashlansa ham og'riq seziladi; ongli idrok asosan quyi markazlarda (retikulyar formatsiya, talamus).",
+      "text": "**Quyi markazlar:** somatosensor po’stloq to’liq olib tashlansa ham og’riq seziladi; ongli idrok asosan quyi markazlarda (retikulyar formatsiya, talamus).",
       "depth": 0
      },
      {
-      "text": "**Po'stloq:** stimulyatsiya qilingan nuqtalarning ~3% da yengil og'riq beradi; og'riq **sifat**ini talqin qilishda muhim.",
+      "text": "**Po’stloq:** stimulyatsiya qilingan nuqtalarning ~3% da yengil og’riq beradi; og’riq **sifat**ini talqin qilishda muhim.",
       "depth": 0
      },
      {
-      "text": "**Uyg'otish ta'siri:** sekin og'riq tugaydigan retikulyar va intralaminar sohalar miyaning uyg'otish tizimining bir qismi (ch60). Shuning uchun kuchli og'riqda uxlab bo'lmaydi.",
+      "text": "**Uyg’otish ta’siri:** sekin og’riq tugaydigan retikulyar va intralaminar sohalar miyaning uyg’otish tizimining bir qismi (ch60). Shuning uchun kuchli og’riqda uxlab bo’lmaydi.",
       "depth": 0
      }
     ],
@@ -752,7 +752,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Jarrohlik yo'li bilan uzish",
+    "text": "Jarrohlik yo’li bilan uzish",
     "id": "ch49-s-24-jarrohlik-yoli-bilan-uzish",
     "bid": "ch49-u24"
    },
@@ -761,15 +761,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Kordotomiya:** og'riqqa qarama-qarshi tomonda ko'krak sohasida anterolateral kvadrant kesiladi.",
+      "text": "**Kordotomiya:** og’riqqa qarama-qarshi tomonda ko’krak sohasida anterolateral kvadrant kesiladi.",
       "depth": 0
      },
      {
-      "text": "Pastki tana og'rig'ini bir necha hafta yoki oyga bartaraf etadi.",
+      "text": "Pastki tana og’rig’ini bir necha hafta yoki oyga bartaraf etadi.",
       "depth": 1
      },
      {
-      "text": "Kuchli, davolab bo'lmaydigan og'riqda (masalan, saraton) qo'llaniladi.",
+      "text": "Kuchli, davolab bo’lmaydigan og’riqda (masalan, saraton) qo’llaniladi.",
       "depth": 1
      },
      {
@@ -781,7 +781,7 @@
       "depth": 1
      },
      {
-      "text": "Boshqa zaif yo'llar (dorsolateral) sensitizatsiya bo'lib, og'riq qaytadi.",
+      "text": "Boshqa zaif yo’llar (dorsolateral) sensitizatsiya bo’lib, og’riq qaytadi.",
       "depth": 1
      }
     ],
@@ -804,7 +804,7 @@
     "ordered": true,
     "items": [
      {
-      "text": "**Periakveduktal kulrang modda va periventrikulyar sohalar:** mezensefalon va yuqori ponsda, Silviy suv yo'li hamda 3- va 4-qorinchalar atrofida.",
+      "text": "**Periakveduktal kulrang modda va periventrikulyar sohalar:** mezensefalon va yuqori ponsda, Silviy suv yo’li hamda 3- va 4-qorinchalar atrofida.",
       "depth": 0
      },
      {
@@ -812,7 +812,7 @@
       "depth": 0
      },
      {
-      "text": "**Orqa miya dorsal shoxidagi og'riqni tormozlovchi kompleks:** signallar unga dorsolateral ustunlar orqali tushadi.",
+      "text": "**Orqa miya dorsal shoxidagi og’riqni tormozlovchi kompleks:** signallar unga dorsolateral ustunlar orqali tushadi.",
       "depth": 0
      }
     ],
@@ -828,11 +828,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Periakveduktal kulrang modda yoki raphe magnus elektr bilan stimulyatsiya qilinsa, kuchli og'riq bostiriladi.",
+      "text": "Periakveduktal kulrang modda yoki raphe magnus elektr bilan stimulyatsiya qilinsa, kuchli og’riq bostiriladi.",
       "depth": 0
      },
      {
-      "text": "Gipotalamusning periventrikulyar yadrolari va medial forebrain bundle stimulyatsiyasi ham og'riqni bostiradi.",
+      "text": "Gipotalamusning periventrikulyar yadrolari va medial forebrain bundle stimulyatsiyasi ham og’riqni bostiradi.",
       "depth": 0
      }
     ],
@@ -864,7 +864,7 @@
       "depth": 0
      },
      {
-      "text": "Natijada og'riq orqa miyaga kirish joyida to'xtatiladi, shuningdek og'riq reflekslari (withdrawal) ham bloklanadi.",
+      "text": "Natijada og’riq orqa miyaga kirish joyida to’xtatiladi, shuningdek og’riq reflekslari (withdrawal) ham bloklanadi.",
       "depth": 0
      }
     ],
@@ -886,7 +886,7 @@
       "depth": 0
      },
      {
-      "text": "**Endogen opiatlar:** ~12 ta modda topilgan; ular uch prekursordan hosil bo'ladi: **pro-opiomelanocortin, proenkephalin, prodynorphin**.",
+      "text": "**Endogen opiatlar:** ~12 ta modda topilgan; ular uch prekursordan hosil bo’ladi: **pro-opiomelanocortin, proenkephalin, prodynorphin**.",
       "depth": 0
      },
      {
@@ -920,11 +920,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Mexanizm:** Aβ tolalar stimulyatsiyasi shu sohadagi og'riqni lateral inhibitsiya orqali kamaytiradi.",
+      "text": "**Mexanizm:** Aβ tolalar stimulyatsiyasi shu sohadagi og’riqni lateral inhibitsiya orqali kamaytiradi.",
       "depth": 0
      },
      {
-      "text": "**Amaliy misollar:** og'riq yonini ishqalash va liniment surtish og'riqni kamaytiradi.",
+      "text": "**Amaliy misollar:** og’riq yonini ishqalash va liniment surtish og’riqni kamaytiradi.",
       "depth": 0
      },
      {
@@ -950,7 +950,7 @@
       "depth": 0
      },
      {
-      "text": "**Natija:** bemor o'zi boshqaradi; ba'zan bir necha daqiqa stimulyatsiyadan keyin 24 soatgacha og'riq bosiladi.",
+      "text": "**Natija:** bemor o’zi boshqaradi; ba’zan bir necha daqiqa stimulyatsiyadan keyin 24 soatgacha og’riq bosiladi.",
       "depth": 0
      }
     ],
@@ -959,7 +959,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Referred og'riq",
+    "text": "Referred og’riq",
     "id": "ch49-s-39-referred-ogriq",
     "bid": "ch49-u39"
    },
@@ -968,15 +968,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Ta'rif:** og'riq manbadan uzoq joyda seziladi.",
+      "text": "**Ta’rif:** og’riq manbadan uzoq joyda seziladi.",
       "depth": 0
      },
      {
-      "text": "**Mexanizm (Fig 49-5):** visseral og'riq tolalari teri og'riq tolalari bilan bir xil 2-tartibli neyronlarda sinaps qiladi. Shuning uchun miya og'riqni teridan kelgandek qabul qiladi.",
+      "text": "**Mexanizm (Fig 49-5):** visseral og’riq tolalari teri og’riq tolalari bilan bir xil 2-tartibli neyronlarda sinaps qiladi. Shuning uchun miya og’riqni teridan kelgandek qabul qiladi.",
       "depth": 0
      },
      {
-      "text": "**Diagnostik ahamiyati:** ko'p visseral kasalliklarda yagona belgi referred og'riq bo'lishi mumkin.",
+      "text": "**Diagnostik ahamiyati:** ko’p visseral kasalliklarda yagona belgi referred og’riq bo’lishi mumkin.",
       "depth": 0
      }
     ],
@@ -985,7 +985,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Visseral og'riq",
+    "text": "Visseral og’riq",
     "id": "ch49-s-41-visseral-ogriq",
     "bid": "ch49-u41"
    },
@@ -994,7 +994,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Diagnostik ahamiyati:** qorin va ko'krak kasalliklarini aniqlashning muhim mezoni; ichki a'zolarda ko'pincha faqat og'riq retseptorlari bor.",
+      "text": "**Diagnostik ahamiyati:** qorin va ko’krak kasalliklarini aniqlashning muhim mezoni; ichki a’zolarda ko’pincha faqat og’riq retseptorlari bor.",
       "depth": 0
      },
      {
@@ -1002,15 +1002,15 @@
       "depth": 0
      },
      {
-      "text": "Lokal shikast deyarli og'riq bermaydi: ichakni hushyor bemorda kesish og'riqsiz.",
+      "text": "Lokal shikast deyarli og’riq bermaydi: ichakni hushyor bemorda kesish og’riqsiz.",
       "depth": 1
      },
      {
-      "text": "Diffuz stimul kuchli og'riq beradi: masalan, ichakning katta qismidagi ishemiya.",
+      "text": "Diffuz stimul kuchli og’riq beradi: masalan, ichakning katta qismidagi ishemiya.",
       "depth": 1
      },
      {
-      "text": "**Uzatilishi:** deyarli barcha visseral og'riq C tolalar orqali o'tadi, shuning uchun faqat sekin, simillovchi og'riq beradi.",
+      "text": "**Uzatilishi:** deyarli barcha visseral og’riq C tolalar orqali o’tadi, shuning uchun faqat sekin, simillovchi og’riq beradi.",
       "depth": 0
      }
     ],
@@ -1030,27 +1030,27 @@
       "depth": 0
      },
      {
-      "text": "**Kimyoviy:** yorilgan oshqozon yoki o'n ikki barmoqli ichak yarasidan kislotali shira chiqib peritoneumni hazm qiladi; juda kuchli og'riq.",
+      "text": "**Kimyoviy:** yorilgan oshqozon yoki o’n ikki barmoqli ichak yarasidan kislotali shira chiqib peritoneumni hazm qiladi; juda kuchli og’riq.",
       "depth": 0
      },
      {
-      "text": "**Kovak a'zo spazmi (ichak, o't pufagi, o't yo'li, siydik yo'li):**",
+      "text": "**Kovak a’zo spazmi (ichak, o’t pufagi, o’t yo’li, siydik yo’li):**",
       "depth": 0
      },
      {
-      "text": "Mexanik qo'zg'alish va ishemiya bilan og'riq beradi.",
+      "text": "Mexanik qo’zg’alish va ishemiya bilan og’riq beradi.",
       "depth": 1
      },
      {
-      "text": "Og'riq to'lg'oqsimon (**cramps**): har bir necha daqiqada kuchayib-pasayadi, har bir peristaltik to'lqin bilan to'lg'oq.",
+      "text": "Og’riq to’lg’oqsimon (**cramps**): har bir necha daqiqada kuchayib-pasayadi, har bir peristaltik to’lqin bilan to’lg’oq.",
       "depth": 1
      },
      {
-      "text": "Uchraydigan holatlar: appenditsit, gastroenterit, qabziyat, hayz, tug'ruq, o't pufagi kasalligi, siydik yo'li obstruksiyasi.",
+      "text": "Uchraydigan holatlar: appenditsit, gastroenterit, qabziyat, hayz, tug’ruq, o’t pufagi kasalligi, siydik yo’li obstruksiyasi.",
       "depth": 1
      },
      {
-      "text": "**Haddan tashqari cho'zilish:** to'qima cho'ziladi va tomirlar bosilib ishemiya kuchayadi.",
+      "text": "**Haddan tashqari cho’zilish:** to’qima cho’ziladi va tomirlar bosilib ishemiya kuchayadi.",
       "depth": 0
      }
     ],
@@ -1058,7 +1058,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Og'riqqa sezgir bo'lmagan joylar:**",
+    "text": "**Og’riqqa sezgir bo’lmagan joylar:**",
     "bid": "ch49-u45"
    },
    {
@@ -1066,11 +1066,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Jigar:** parenximasi sezgir emas, lekin kapsulasi va o't yo'llari sezgir.",
+      "text": "**Jigar:** parenximasi sezgir emas, lekin kapsulasi va o’t yo’llari sezgir.",
       "depth": 0
      },
      {
-      "text": "**O'pka:** alveolalar sezgir emas, lekin bronxlar va parietal plevra sezgir.",
+      "text": "**O’pka:** alveolalar sezgir emas, lekin bronxlar va parietal plevra sezgir.",
       "depth": 0
      }
     ],
@@ -1079,7 +1079,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Visseral va parietal yo'llar",
+    "text": "Visseral va parietal yo’llar",
     "id": "ch49-s-47-visseral-va-parietal-yollar",
     "bid": "ch49-u47"
    },
@@ -1088,39 +1088,39 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Parietal og'riq:**",
+      "text": "**Parietal og’riq:**",
       "depth": 0
      },
      {
-      "text": "Kasallik parietal peritoneum, plevra yoki perikardga tarqalganda paydo bo'ladi.",
+      "text": "Kasallik parietal peritoneum, plevra yoki perikardga tarqalganda paydo bo’ladi.",
       "depth": 1
      },
      {
-      "text": "Spinal nervlar orqali uzatiladi; o'tkir va aniq lokalizatsiyalangan.",
+      "text": "Spinal nervlar orqali uzatiladi; o’tkir va aniq lokalizatsiyalangan.",
       "depth": 1
      },
      {
-      "text": "Parietal peritoneum kesilsa juda og'riqli, visseral peritoneum kesilsa deyarli og'riqsiz.",
+      "text": "Parietal peritoneum kesilsa juda og’riqli, visseral peritoneum kesilsa deyarli og’riqsiz.",
       "depth": 1
      },
      {
-      "text": "**Visseral og'riqni lokalizatsiya qilish qiyinligi:**",
+      "text": "**Visseral og’riqni lokalizatsiya qilish qiyinligi:**",
       "depth": 0
      },
      {
-      "text": "Miya ichki a'zolarni \"tajribadan bilmaydi\".",
+      "text": "Miya ichki a’zolarni \"tajribadan bilmaydi\".",
       "depth": 1
      },
      {
-      "text": "Visseral yo'l avtonom nervlar orqali o'tadi va og'riq uzoq teri sohasiga refer qilinadi.",
+      "text": "Visseral yo’l avtonom nervlar orqali o’tadi va og’riq uzoq teri sohasiga refer qilinadi.",
       "depth": 1
      },
      {
-      "text": "**Referred og'riq lokalizatsiyasi:** a'zoning **embrional dermatomiga** bog'liq, hozirgi joylashuviga emas.",
+      "text": "**Referred og’riq lokalizatsiyasi:** a’zoning **embrional dermatomiga** bog’liq, hozirgi joylashuviga emas.",
       "depth": 0
      },
      {
-      "text": "**Yurak:** C3–T5 segmentlari; og'riq bo'yin yoni, yelka, ko'krak mushaklari, qo'l va to'sh ortiga beriladi. Odatda chapda, chunki koronar kasallik asosan chap tomonni zararlaydi.",
+      "text": "**Yurak:** C3–T5 segmentlari; og’riq bo’yin yoni, yelka, ko’krak mushaklari, qo’l va to’sh ortiga beriladi. Odatda chapda, chunki koronar kasallik asosan chap tomonni zararlaydi.",
       "depth": 1
      },
      {
@@ -1128,19 +1128,19 @@
       "depth": 1
      },
      {
-      "text": "**Boshqa a'zolar:** Fig 49-6 (qizilo'ngach, jigar va o't pufagi, pilorus, appendiks, buyraklar, yo'g'on ichak, siydik yo'li).",
+      "text": "**Boshqa a’zolar:** Fig 49-6 (qizilo’ngach, jigar va o’t pufagi, pilorus, appendiks, buyraklar, yo’g’on ichak, siydik yo’li).",
       "depth": 1
      },
      {
-      "text": "**Appenditsitda ikki joyda og'riq (Fig 49-7):**",
+      "text": "**Appenditsitda ikki joyda og’riq (Fig 49-7):**",
       "depth": 0
      },
      {
-      "text": "**Visseral:** simpatik nervlar orqali T10–T11 ga boradi; kindik atrofida simillovchi, to'lg'oqsimon og'riq.",
+      "text": "**Visseral:** simpatik nervlar orqali T10–T11 ga boradi; kindik atrofida simillovchi, to’lg’oqsimon og’riq.",
       "depth": 1
      },
      {
-      "text": "**Parietal:** yallig'langan appendiks qorin devoriga tekkanda; o'ng pastki kvadrantda o'tkir og'riq.",
+      "text": "**Parietal:** yallig’langan appendiks qorin devoriga tekkanda; o’ng pastki kvadrantda o’tkir og’riq.",
       "depth": 1
      }
     ],
@@ -1162,11 +1162,11 @@
       "depth": 0
      },
      {
-      "text": "**Birlamchi:** retseptor sezgirligi oshadi; masalan, quyoshda kuygan terida gistamin va prostaglandinlar ta'sirida.",
+      "text": "**Birlamchi:** retseptor sezgirligi oshadi; masalan, quyoshda kuygan terida gistamin va prostaglandinlar ta’sirida.",
       "depth": 1
      },
      {
-      "text": "**Ikkilamchi:** sezgi uzatilishi fasilitatsiya qilinadi; ko'pincha orqa miya yoki talamus lezyonlarida.",
+      "text": "**Ikkilamchi:** sezgi uzatilishi fasilitatsiya qilinadi; ko’pincha orqa miya yoki talamus lezyonlarida.",
       "depth": 1
      },
      {
@@ -1178,11 +1178,11 @@
       "depth": 1
      },
      {
-      "text": "Shu dermatomda tananing yarmini aylanib o'tuvchi segmentar og'riq paydo bo'ladi.",
+      "text": "Shu dermatomda tananing yarmini aylanib o’tuvchi segmentar og’riq paydo bo’ladi.",
       "depth": 1
      },
      {
-      "text": "Virus aksoplazmatik oqim bilan teriga borib, pufakchali toshma chiqaradi; pufakchalar keyin qobiq bog'laydi.",
+      "text": "Virus aksoplazmatik oqim bilan teriga borib, pufakchali toshma chiqaradi; pufakchalar keyin qobiq bog’laydi.",
       "depth": 1
      },
      {
@@ -1190,7 +1190,7 @@
       "depth": 0
      },
      {
-      "text": "**Klinika:** yuzning bir tomonida, V yoki IX nerv sohasida elektr urgandek sanchuvchi og'riq.",
+      "text": "**Klinika:** yuzning bir tomonida, V yoki IX nerv sohasida elektr urgandek sanchuvchi og’riq.",
       "depth": 1
      },
      {
@@ -1202,7 +1202,7 @@
       "depth": 1
      },
      {
-      "text": "**Ba'zan samarasiz:** lezyon miya ustunidagi yadroda bo'lishi mumkin.",
+      "text": "**Ba’zan samarasiz:** lezyon miya ustunidagi yadroda bo’lishi mumkin.",
       "depth": 1
      },
      {
@@ -1214,11 +1214,11 @@
       "depth": 1
      },
      {
-      "text": "Kesilgan joydan pastdagi barcha harakat yo'qoladi.",
+      "text": "Kesilgan joydan pastdagi barcha harakat yo’qoladi.",
       "depth": 2
      },
      {
-      "text": "Holat sezgisi, kinesteziya, vibratsiya, aniq lokalizatsiya va ikki nuqtani farqlash yo'qoladi (dorsal ustunlar).",
+      "text": "Holat sezgisi, kinesteziya, vibratsiya, aniq lokalizatsiya va ikki nuqtani farqlash yo’qoladi (dorsal ustunlar).",
       "depth": 2
      },
      {
@@ -1226,11 +1226,11 @@
       "depth": 2
      },
      {
-      "text": "**Qarama-qarshi tomonda:** og'riq, issiq va sovuq sezgisi kesilgan joydan 2–6 segment pastdan boshlab yo'qoladi.",
+      "text": "**Qarama-qarshi tomonda:** og’riq, issiq va sovuq sezgisi kesilgan joydan 2–6 segment pastdan boshlab yo’qoladi.",
       "depth": 1
      },
      {
-      "text": "**Qo'pol teginish** qarama-qarshi spinotalamik trakt orqali saqlanadi.",
+      "text": "**Qo’pol teginish** qarama-qarshi spinotalamik trakt orqali saqlanadi.",
       "depth": 1
      }
     ],
@@ -1239,14 +1239,14 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Bosh og'rig'i",
+    "text": "Bosh og’rig’i",
     "id": "ch49-s-51-bosh-ogrigi",
     "bid": "ch49-u51"
    },
    {
     "type": "heading",
     "level": 3,
-    "text": "Kalla ichi bosh og'rig'i",
+    "text": "Kalla ichi bosh og’rig’i",
     "id": "ch49-s-52-kalla-ichi-bosh-ogrigi",
     "bid": "ch49-u52"
    },
@@ -1255,15 +1255,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Og'riqqa sezgir va sezgir bo'lmagan tuzilmalar:**",
+      "text": "**Og’riqqa sezgir va sezgir bo’lmagan tuzilmalar:**",
       "depth": 0
      },
      {
-      "text": "Miya to'qimasining o'zi og'riqni deyarli sezmaydi; po'stloq stimulyatsiyasi paresteziya beradi.",
+      "text": "Miya to’qimasining o’zi og’riqni deyarli sezmaydi; po’stloq stimulyatsiyasi paresteziya beradi.",
       "depth": 1
      },
      {
-      "text": "Venoz sinuslar tortilishi, tentorium shikasti, miya asosidagi dura cho'zilishi va meningeal tomirlar shikasti kuchli og'riq beradi.",
+      "text": "Venoz sinuslar tortilishi, tentorium shikasti, miya asosidagi dura cho’zilishi va meningeal tomirlar shikasti kuchli og’riq beradi.",
       "depth": 1
      },
      {
@@ -1271,7 +1271,7 @@
       "depth": 1
      },
      {
-      "text": "**Og'riq qayerga refer qilinadi (Fig 49-9):**",
+      "text": "**Og’riq qayerga refer qilinadi (Fig 49-9):**",
       "depth": 0
      },
      {
@@ -1287,11 +1287,11 @@
       "depth": 0
      },
      {
-      "text": "**Meningit:** eng kuchli bosh og'riqlaridan biri, butun boshga tarqaladi.",
+      "text": "**Meningit:** eng kuchli bosh og’riqlaridan biri, butun boshga tarqaladi.",
       "depth": 1
      },
      {
-      "text": "**Past likvor bosimi:** atigi 20 ml likvor olinsa (ayniqsa tik turganda), miya suzuvchanligi kamayadi, dura cho'ziladi va kuchli og'riq paydo bo'ladi.",
+      "text": "**Past likvor bosimi:** atigi 20 ml likvor olinsa (ayniqsa tik turganda), miya suzuvchanligi kamayadi, dura cho’ziladi va kuchli og’riq paydo bo’ladi.",
       "depth": 1
      },
      {
@@ -1299,23 +1299,23 @@
       "depth": 1
      },
      {
-      "text": "**Prodromal belgilar:** og'riqdan 30–60 daqiqa oldin ko'ngil aynishi, ko'rish maydoni qismining yo'qolishi, aura.",
+      "text": "**Prodromal belgilar:** og’riqdan 30–60 daqiqa oldin ko’ngil aynishi, ko’rish maydoni qismining yo’qolishi, aura.",
       "depth": 2
      },
      {
-      "text": "**Vaskulyar nazariya:** emotsiya yoki taranglik tomirlar spazmini, ishemiyani va prodromal belgilarni chaqiradi. Keyin tomirlar 24–48 soat bo'shashib qoladi, kengayib pulsatsiya qiladi va og'riq beradi (temporal arteriya ham).",
+      "text": "**Vaskulyar nazariya:** emotsiya yoki taranglik tomirlar spazmini, ishemiyani va prodromal belgilarni chaqiradi. Keyin tomirlar 24–48 soat bo’shashib qoladi, kengayib pulsatsiya qiladi va og’riq beradi (temporal arteriya ham).",
       "depth": 2
      },
      {
-      "text": "**Boshqa nazariyalar:** spreading cortical depression, psixologik omillar, hujayradan tashqari K⁺ ko'pligi.",
+      "text": "**Boshqa nazariyalar:** spreading cortical depression, psixologik omillar, hujayradan tashqari K⁺ ko’pligi.",
       "depth": 2
      },
      {
-      "text": "**Irsiyat va jins:** oilaviy anamnez 65–90% hollarda; ayollarda 2 marta ko'p.",
+      "text": "**Irsiyat va jins:** oilaviy anamnez 65–90% hollarda; ayollarda 2 marta ko’p.",
       "depth": 2
      },
      {
-      "text": "**Alkogol:** spirt meningsni bevosita qitiqlaydi; degidratatsiya ham rol o'ynaydi. Suyuqlik ichish og'riqni kamaytiradi, lekin to'liq yo'qotmaydi.",
+      "text": "**Alkogol:** spirt meningsni bevosita qitiqlaydi; degidratatsiya ham rol o’ynaydi. Suyuqlik ichish og’riqni kamaytiradi, lekin to’liq yo’qotmaydi.",
       "depth": 1
      }
     ],
@@ -1324,7 +1324,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Kalla tashqarisi bosh og'rig'i",
+    "text": "Kalla tashqarisi bosh og’rig’i",
     "id": "ch49-s-54-kalla-tashqarisi-bosh-ogrigi",
     "bid": "ch49-u54"
    },
@@ -1341,23 +1341,23 @@
       "depth": 0
      },
      {
-      "text": "Shilliq qavat unchalik sezgir emas, lekin keng yallig'lanish summatsiyalanib og'riq beradi.",
+      "text": "Shilliq qavat unchalik sezgir emas, lekin keng yallig’lanish summatsiyalanib og’riq beradi.",
       "depth": 1
      },
      {
-      "text": "Og'riq ko'z orqasiga, frontal sinusitda peshonaga, maksillyar sinusitda yuzga beriladi.",
+      "text": "Og’riq ko’z orqasiga, frontal sinusitda peshonaga, maksillyar sinusitda yuzga beriladi.",
       "depth": 1
      },
      {
-      "text": "**Ko'z:**",
+      "text": "**Ko’z:**",
       "depth": 0
      },
      {
-      "text": "**Fokuslash qiyinligi:** siliar mushak tonik qisqaradi va yuz yoki ko'z mushaklari refleks spazmga uchraydi; natijada retroorbital og'riq.",
+      "text": "**Fokuslash qiyinligi:** siliar mushak tonik qisqaradi va yuz yoki ko’z mushaklari refleks spazmga uchraydi; natijada retroorbital og’riq.",
       "depth": 1
      },
      {
-      "text": "**Kuchli yorug'lik yoki UV:** quyoshga yoki payvand yoyiga bir necha soniya qarash 24–48 soatlik og'riq beradi. Sababi konyunktivaning aktinik qitiqlanishi yoki to'r parda kuyishi bo'lishi mumkin.",
+      "text": "**Kuchli yorug’lik yoki UV:** quyoshga yoki payvand yoyiga bir necha soniya qarash 24–48 soatlik og’riq beradi. Sababi konyunktivaning aktinik qitiqlanishi yoki to’r parda kuyishi bo’lishi mumkin.",
       "depth": 1
      }
     ],
@@ -1379,7 +1379,7 @@
       "depth": 0
      },
      {
-      "text": "**Retseptorlar:** sovuq, issiq va og'riq retseptorlari. Og'riq retseptorlari faqat ekstremal haroratda qo'zg'aladi (\"muzlatuvchi\" va \"kuydiruvchi\" sezgi).",
+      "text": "**Retseptorlar:** sovuq, issiq va og’riq retseptorlari. Og’riq retseptorlari faqat ekstremal haroratda qo’zg’aladi (\"muzlatuvchi\" va \"kuydiruvchi\" sezgi).",
       "depth": 0
      },
      {
@@ -1387,7 +1387,7 @@
       "depth": 0
      },
      {
-      "text": "Sovuq nuqtalar issiq nuqtalardan 3–10 marta ko'p.",
+      "text": "Sovuq nuqtalar issiq nuqtalardan 3–10 marta ko’p.",
       "depth": 1
      },
      {
@@ -1407,31 +1407,31 @@
       "depth": 1
      },
      {
-      "text": "Ba'zi sovuq signallar C tolalar orqali ham o'tadi.",
+      "text": "Ba’zi sovuq signallar C tolalar orqali ham o’tadi.",
       "depth": 1
      },
      {
-      "text": "**Harorat bo'yicha javob (Fig 49-10):**",
+      "text": "**Harorat bo’yicha javob (Fig 49-10):**",
       "depth": 0
      },
      {
-      "text": "**Juda sovuqda:** faqat sovuq-og'riq tolalari ishlaydi (muzlaganda ular ham ishlamaydi).",
+      "text": "**Juda sovuqda:** faqat sovuq-og’riq tolalari ishlaydi (muzlaganda ular ham ishlamaydi).",
       "depth": 1
      },
      {
-      "text": "**10–15°C:** sovuq-og'riq to'xtaydi, sovuq retseptorlari ishga tushadi.",
+      "text": "**10–15°C:** sovuq-og’riq to’xtaydi, sovuq retseptorlari ishga tushadi.",
       "depth": 1
      },
      {
-      "text": "**~24°C:** sovuq retseptorlari cho'qqida; >40°C da so'nadi.",
+      "text": "**~24°C:** sovuq retseptorlari cho’qqida; >40°C da so’nadi.",
       "depth": 1
      },
      {
-      "text": "**>30°C:** issiq retseptorlari boshlanadi; ~49°C da so'nadi.",
+      "text": "**>30°C:** issiq retseptorlari boshlanadi; ~49°C da so’nadi.",
       "depth": 1
      },
      {
-      "text": "**~45°C:** issiq-og'riq tolalari ishga tushadi; paradoksal ravishda sovuq tolalar ham qayta qo'zg'aladi (shikast tufayli).",
+      "text": "**~45°C:** issiq-og’riq tolalari ishga tushadi; paradoksal ravishda sovuq tolalar ham qayta qo’zg’aladi (shikast tufayli).",
       "depth": 1
      },
      {
@@ -1443,11 +1443,11 @@
       "depth": 0
      },
      {
-      "text": "Keskin sovishda kuchli javob bo'ladi; birinchi soniyalarda tez so'nadi, keyin 30+ daqiqa sekin pasayadi, lekin hech qachon 100% so'nmaydi.",
+      "text": "Keskin sovishda kuchli javob bo’ladi; birinchi soniyalarda tez so’nadi, keyin 30+ daqiqa sekin pasayadi, lekin hech qachon 100% so’nmaydi.",
       "depth": 1
      },
      {
-      "text": "Harorat o'zgarayotganda kuchliroq seziladi. Misollar: issiq vannaga tushish, issiq xonadan sovuq ko'chaga chiqish.",
+      "text": "Harorat o’zgarayotganda kuchliroq seziladi. Misollar: issiq vannaga tushish, issiq xonadan sovuq ko’chaga chiqish.",
       "depth": 1
      },
      {
@@ -1455,11 +1455,11 @@
       "depth": 0
      },
      {
-      "text": "Harorat metabolik reaksiyalar tezligini o'zgartiradi (10°C da >2 marta).",
+      "text": "Harorat metabolik reaksiyalar tezligini o’zgartiradi (10°C da >2 marta).",
       "depth": 1
      },
      {
-      "text": "Ya'ni retseptor bevosita fizik ta'sirdan emas, kimyoviy yo'l bilan qo'zg'aladi.",
+      "text": "Ya’ni retseptor bevosita fizik ta’sirdan emas, kimyoviy yo’l bilan qo’zg’aladi.",
       "depth": 1
      },
      {
@@ -1467,11 +1467,11 @@
       "depth": 0
      },
      {
-      "text": "Butun tana yuzasida 0.01°C o'zgarish seziladi.",
+      "text": "Butun tana yuzasida 0.01°C o’zgarish seziladi.",
       "depth": 1
      },
      {
-      "text": "1 sm² da 100 marta katta o'zgarish ham sezilmasligi mumkin.",
+      "text": "1 sm² da 100 marta katta o’zgarish ham sezilmasligi mumkin.",
       "depth": 1
      },
      {
@@ -1479,7 +1479,7 @@
       "depth": 0
      },
      {
-      "text": "Og'riqqa parallel: Lissauer traktida bir necha segment yuqoriga yoki pastga yuradi.",
+      "text": "Og’riqqa parallel: Lissauer traktida bir necha segment yuqoriga yoki pastga yuradi.",
       "depth": 1
      },
      {
@@ -1487,15 +1487,15 @@
       "depth": 1
      },
      {
-      "text": "Kesishib anterolateral yo'l bilan ko'tariladi va retikulyar sohalarga hamda ventrobasal kompleksga boradi.",
+      "text": "Kesishib anterolateral yo’l bilan ko’tariladi va retikulyar sohalarga hamda ventrobasal kompleksga boradi.",
       "depth": 1
      },
      {
-      "text": "Ozi somatosensor po'stloqqa yetadi.",
+      "text": "Ozi somatosensor po’stloqqa yetadi.",
       "depth": 1
      },
      {
-      "text": "Postsentral pushta olib tashlansa, harorat gradatsiyasini farqlash kamayadi, lekin yo'qolmaydi.",
+      "text": "Postsentral pushta olib tashlansa, harorat gradatsiyasini farqlash kamayadi, lekin yo’qolmaydi.",
       "depth": 1
      }
     ],
@@ -1513,11 +1513,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Bosim yaralari:** og'riq sezgisi yo'qolganda (orqa miya shikasti) paydo bo'ladi.",
+      "text": "**Bosim yaralari:** og’riq sezgisi yo’qolganda (orqa miya shikasti) paydo bo’ladi.",
       "depth": 0
      },
      {
-      "text": "**Referred og'riq:** yurak og'rig'i chap qo'lga; appenditsitda avval kindik atrofida, keyin o'ng pastki kvadrantda.",
+      "text": "**Referred og’riq:** yurak og’rig’i chap qo’lga; appenditsitda avval kindik atrofida, keyin o’ng pastki kvadrantda.",
       "depth": 0
      },
      {
@@ -1525,11 +1525,11 @@
       "depth": 0
      },
      {
-      "text": "**Og'riqni bostirish usullari:** opiatlar, elektr stimulyatsiyasi, ishqalash va akupunktura.",
+      "text": "**Og’riqni bostirish usullari:** opiatlar, elektr stimulyatsiyasi, ishqalash va akupunktura.",
       "depth": 0
      },
      {
-      "text": "**Bosh og'rig'i turlari:** meningit, past likvor bosimi (lyumbal punksiyadan keyin), migren, alkogol, sinusit, ko'z.",
+      "text": "**Bosh og’rig’i turlari:** meningit, past likvor bosimi (lyumbal punksiyadan keyin), migren, alkogol, sinusit, ko’z.",
       "depth": 0
      },
      {
@@ -1542,7 +1542,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Bog'liqlik",
+    "text": "Bog’liqlik",
     "id": "ch49-s-60-bogliqlik",
     "bid": "ch49-u60"
    },
@@ -1551,7 +1551,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "**ch47–48:** retseptorlar, anterolateral yo'l, dermatomlar, lateral inhibitsiya.",
+      "text": "**ch47–48:** retseptorlar, anterolateral yo’l, dermatomlar, lateral inhibitsiya.",
       "depth": 0
      },
      {
@@ -1559,7 +1559,7 @@
       "depth": 0
      },
      {
-      "text": "**ch60:** retikulyar uyg'otish tizimi.",
+      "text": "**ch60:** retikulyar uyg’otish tizimi.",
       "depth": 0
      },
      {
@@ -2448,9 +2448,9 @@
  "glossary": [
   {
    "id": "ch49-t-ogriq-va-himoya",
-   "termUz": "Og'riq va himoya",
+   "termUz": "Og’riq va himoya",
    "original": null,
-   "contextUz": "Og'riq va himoya: og'riq to'qima shikastlanayotganda paydo bo'ladi va odamni stimuldan qochishga majbur qiladi.",
+   "contextUz": "Og’riq va himoya: og’riq to’qima shikastlanayotganda paydo bo’ladi va odamni stimuldan qochishga majbur qiladi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2458,9 +2458,9 @@
   },
   {
    "id": "ch49-t-ikki-ogriq-tizimi",
-   "termUz": "Ikki og'riq tizimi",
+   "termUz": "Ikki og’riq tizimi",
    "original": null,
-   "contextUz": "Ikki og'riq tizimi: tez (Aδ, neospinotalamik) va sekin (C, paleospinotalamik).",
+   "contextUz": "Ikki og’riq tizimi: tez (Aδ, neospinotalamik) va sekin (C, paleospinotalamik).",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2468,9 +2468,9 @@
   },
   {
    "id": "ch49-t-ogriqni-boshqarish",
-   "termUz": "Og'riqni boshqarish",
+   "termUz": "Og’riqni boshqarish",
    "original": null,
-   "contextUz": "Og'riqni boshqarish: miyaning analgeziya tizimi (endorfin, enkefalin, serotonin) va taktil signallar og'riqni bostira oladi.",
+   "contextUz": "Og’riqni boshqarish: miyaning analgeziya tizimi (endorfin, enkefalin, serotonin) va taktil signallar og’riqni bostira oladi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2480,7 +2480,7 @@
    "id": "ch49-t-bobning-qolgan-mavzulari",
    "termUz": "Bobning qolgan mavzulari",
    "original": null,
-   "contextUz": "Bobning qolgan mavzulari: visseral va referred og'riq, bosh og'rig'i turlari, harorat sezgilari.",
+   "contextUz": "Bobning qolgan mavzulari: visseral va referred og’riq, bosh og’rig’i turlari, harorat sezgilari.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2488,9 +2488,9 @@
   },
   {
    "id": "ch49-t-tez-ogriq",
-   "termUz": "Tez og'riq",
+   "termUz": "Tez og’riq",
    "original": "sharp, pricking, acute, electric",
-   "contextUz": "Tez og'riq (sharp, pricking, acute, electric):",
+   "contextUz": "Tez og’riq (sharp, pricking, acute, electric):",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2498,9 +2498,9 @@
   },
   {
    "id": "ch49-t-sekin-ogriq",
-   "termUz": "Sekin og'riq",
+   "termUz": "Sekin og’riq",
    "original": "burning, aching, throbbing, nauseous, chronic",
-   "contextUz": "Sekin og'riq (burning, aching, throbbing, nauseous, chronic):",
+   "contextUz": "Sekin og’riq (burning, aching, throbbing, nauseous, chronic):",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2518,9 +2518,9 @@
   },
   {
    "id": "ch49-t-kop-joylashgan-joylari",
-   "termUz": "Ko'p joylashgan joylari",
+   "termUz": "Ko’p joylashgan joylari",
    "original": null,
-   "contextUz": "Ko'p joylashgan joylari: terining yuza qatlami, periost, arteriya devori, bo'g'im yuzalari, falx va tentorium.",
+   "contextUz": "Ko’p joylashgan joylari: terining yuza qatlami, periost, arteriya devori, bo’g’im yuzalari, falx va tentorium.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2528,9 +2528,9 @@
   },
   {
    "id": "ch49-t-chuqur-toqimalar",
-   "termUz": "Chuqur to'qimalar",
+   "termUz": "Chuqur to’qimalar",
    "original": null,
-   "contextUz": "Chuqur to'qimalar: retseptorlar siyrak, lekin keng shikastlanish summatsiyalanib sekin og'riq beradi.",
+   "contextUz": "Chuqur to’qimalar: retseptorlar siyrak, lekin keng shikastlanish summatsiyalanib sekin og’riq beradi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2548,9 +2548,9 @@
   },
   {
    "id": "ch49-t-kimyoviy-qozgatuvchilar",
-   "termUz": "Kimyoviy qo'zg'atuvchilar",
+   "termUz": "Kimyoviy qo’zg’atuvchilar",
    "original": null,
-   "contextUz": "Kimyoviy qo'zg'atuvchilar: bradikinin, serotonin, gistamin, K⁺, kislotalar, atsetilxolin, proteolitik fermentlar.",
+   "contextUz": "Kimyoviy qo’zg’atuvchilar: bradikinin, serotonin, gistamin, K⁺, kislotalar, atsetilxolin, proteolitik fermentlar.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2560,7 +2560,7 @@
    "id": "ch49-t-sezgirlikni-oshiruvchilar",
    "termUz": "Sezgirlikni oshiruvchilar",
    "original": null,
-   "contextUz": "Sezgirlikni oshiruvchilar: prostaglandinlar va substance P sezgirlikni oshiradi, lekin o'zlari qo'zg'atmaydi.",
+   "contextUz": "Sezgirlikni oshiruvchilar: prostaglandinlar va substance P sezgirlikni oshiradi, lekin o’zlari qo’zg’atmaydi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2588,9 +2588,9 @@
   },
   {
    "id": "ch49-t-issiqlik-ogrigi",
-   "termUz": "Issiqlik og'rig'i",
+   "termUz": "Issiqlik og’rig’i",
    "original": null,
-   "contextUz": "Issiqlik og'rig'i: teri >45°C ga qizdirilganda og'riq boshlanadi; bu to'qima shikastlanishi boshlanadigan harorat (Fig 49-1).",
+   "contextUz": "Issiqlik og’rig’i: teri >45°C ga qizdirilganda og’riq boshlanadi; bu to’qima shikastlanishi boshlanadigan harorat (Fig 49-1).",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2600,7 +2600,7 @@
    "id": "ch49-t-asosiy-tamoyil",
    "termUz": "Asosiy tamoyil",
    "original": null,
-   "contextUz": "Asosiy tamoyil: og'riq jami zararga emas, shikastlanish tezligiga mos keladi.",
+   "contextUz": "Asosiy tamoyil: og’riq jami zararga emas, shikastlanish tezligiga mos keladi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2610,7 +2610,7 @@
    "id": "ch49-t-tezligi",
    "termUz": "tezligi",
    "original": null,
-   "contextUz": "Asosiy tamoyil: og'riq jami zararga emas, shikastlanish tezligiga mos keladi.",
+   "contextUz": "Asosiy tamoyil: og’riq jami zararga emas, shikastlanish tezligiga mos keladi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2620,7 +2620,7 @@
    "id": "ch49-t-kimyoviy-omillar",
    "termUz": "Kimyoviy omillar",
    "original": null,
-   "contextUz": "Kimyoviy omillar: Shikastlangan to'qima ekstrakti teri ostiga yuborilsa kuchli og'riq beradi.",
+   "contextUz": "Kimyoviy omillar: Shikastlangan to’qima ekstrakti teri ostiga yuborilsa kuchli og’riq beradi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2630,7 +2630,7 @@
    "id": "ch49-t-bradikinin",
    "termUz": "Bradikinin",
    "original": null,
-   "contextUz": "Bradikinin eng og'riqli modda bo'lishi mumkin.",
+   "contextUz": "Bradikinin eng og’riqli modda bo’lishi mumkin.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2640,7 +2640,7 @@
    "id": "ch49-t-rivojlanish-tezligi",
    "termUz": "Rivojlanish tezligi",
    "original": null,
-   "contextUz": "Rivojlanish tezligi: metabolizm qancha yuqori bo'lsa, og'riq shuncha tez paydo bo'ladi.",
+   "contextUz": "Rivojlanish tezligi: metabolizm qancha yuqori bo’lsa, og’riq shuncha tez paydo bo’ladi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2650,7 +2650,7 @@
    "id": "ch49-t-manjet-tajribasi",
    "termUz": "Manjet tajribasi",
    "original": null,
-   "contextUz": "Manjet tajribasi: qo'lga manjet qo'yib mashq qilinsa, 15–20 s da og'riq paydo bo'ladi; mashqsiz 3–4 daqiqada.",
+   "contextUz": "Manjet tajribasi: qo’lga manjet qo’yib mashq qilinsa, 15–20 s da og’riq paydo bo’ladi; mashqsiz 3–4 daqiqada.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2660,7 +2660,7 @@
    "id": "ch49-t-sabablari",
    "termUz": "Sabablari",
    "original": null,
-   "contextUz": "Sabablari: laktat to'planishi, bradikinin va proteolitik fermentlar.",
+   "contextUz": "Sabablari: laktat to’planishi, bradikinin va proteolitik fermentlar.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2670,7 +2670,7 @@
    "id": "ch49-t-mexanizmi",
    "termUz": "Mexanizmi",
    "original": null,
-   "contextUz": "Mexanizmi: mexanosensitiv retseptorlarni bevosita qo'zg'atadi.",
+   "contextUz": "Mexanizmi: mexanosensitiv retseptorlarni bevosita qo’zg’atadi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2678,9 +2678,9 @@
   },
   {
    "id": "ch49-t-ishemiya-bilan-bogliqligi",
-   "termUz": "Ishemiya bilan bog'liqligi",
+   "termUz": "Ishemiya bilan bog’liqligi",
    "original": null,
-   "contextUz": "Ishemiya bilan bog'liqligi: tomirlarni bosib ishemiya qiladi, metabolizmni oshiradi va kimyoviy moddalarni chiqaradi.",
+   "contextUz": "Ishemiya bilan bog’liqligi: tomirlarni bosib ishemiya qiladi, metabolizmni oshiradi va kimyoviy moddalarni chiqaradi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2690,7 +2690,7 @@
    "id": "ch49-t-klinik-ahamiyati",
    "termUz": "Klinik ahamiyati",
    "original": null,
-   "contextUz": "Klinik ahamiyati: ko'p klinik og'riq sindromlarining asosi.",
+   "contextUz": "Klinik ahamiyati: ko’p klinik og’riq sindromlarining asosi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2708,9 +2708,9 @@
   },
   {
    "id": "ch49-t-ikki-marta-ogriq",
-   "termUz": "\"Ikki marta\" og'riq",
+   "termUz": "\"Ikki marta\" og’riq",
    "original": null,
-   "contextUz": "\"Ikki marta\" og'riq: avval o'tkir og'riq, ~1 s dan keyin sekin og'riq.",
+   "contextUz": "\"Ikki marta\" og’riq: avval o’tkir og’riq, ~1 s dan keyin sekin og’riq.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2740,7 +2740,7 @@
    "id": "ch49-t-2-tartibli-neyronlar",
    "termUz": "2-tartibli neyronlar",
    "original": null,
-   "contextUz": "2-tartibli neyronlar: old komissurada kesishib, anterolateral ustunlar bo'ylab ko'tariladi.",
+   "contextUz": "2-tartibli neyronlar: old komissurada kesishib, anterolateral ustunlar bo’ylab ko’tariladi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2760,7 +2760,7 @@
    "id": "ch49-t-ventrobasal-kompleks",
    "termUz": "ventrobasal kompleks",
    "original": null,
-   "contextUz": "Ko'pi talamusning ventrobasal kompleksiga yetadi (lemniskal yo'l bilan birga).",
+   "contextUz": "Ko’pi talamusning ventrobasal kompleksiga yetadi (lemniskal yo’l bilan birga).",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2770,7 +2770,7 @@
    "id": "ch49-t-lokalizatsiya",
    "termUz": "Lokalizatsiya",
    "original": null,
-   "contextUz": "Lokalizatsiya: Tez og'riq yaxshi lokalizatsiyalanadi.",
+   "contextUz": "Lokalizatsiya: Tez og’riq yaxshi lokalizatsiyalanadi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2780,7 +2780,7 @@
    "id": "ch49-t-mediator",
    "termUz": "Mediator",
    "original": null,
-   "contextUz": "Mediator: glutamat (ta'siri bir necha millisekund).",
+   "contextUz": "Mediator: glutamat (ta’siri bir necha millisekund).",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2789,8 +2789,8 @@
   {
    "id": "ch49-t-glutamat",
    "termUz": "glutamat",
-   "original": "ta'siri bir necha millisekund",
-   "contextUz": "Mediator: glutamat (ta'siri bir necha millisekund).",
+   "original": "ta’siri bir necha millisekund",
+   "contextUz": "Mediator: glutamat (ta’siri bir necha millisekund).",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2820,7 +2820,7 @@
    "id": "ch49-t-v-laminaga",
    "termUz": "V laminaga",
    "original": null,
-   "contextUz": "Qisqa interneyronlar orqali V laminaga o'tadi.",
+   "contextUz": "Qisqa interneyronlar orqali V laminaga o’tadi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2830,7 +2830,7 @@
    "id": "ch49-t-mediatorlar",
    "termUz": "Mediatorlar",
    "original": null,
-   "contextUz": "Mediatorlar: C tolalar glutamat (tez) va substance P (sekin, soniyalar va daqiqalar ichida to'planadi) chiqaradi.",
+   "contextUz": "Mediatorlar: C tolalar glutamat (tez) va substance P (sekin, soniyalar va daqiqalar ichida to’planadi) chiqaradi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2839,8 +2839,8 @@
   {
    "id": "ch49-t-substance-p",
    "termUz": "substance P",
-   "original": "sekin, soniyalar va daqiqalar ichida to'planadi",
-   "contextUz": "Mediatorlar: C tolalar glutamat (tez) va substance P (sekin, soniyalar va daqiqalar ichida to'planadi) chiqaradi.",
+   "original": "sekin, soniyalar va daqiqalar ichida to’planadi",
+   "contextUz": "Mediatorlar: C tolalar glutamat (tez) va substance P (sekin, soniyalar va daqiqalar ichida to’planadi) chiqaradi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2850,7 +2850,7 @@
    "id": "ch49-t-quyi-markazlar",
    "termUz": "Quyi markazlar",
    "original": null,
-   "contextUz": "Quyi markazlar: somatosensor po'stloq to'liq olib tashlansa ham og'riq seziladi; ongli idrok asosan quyi markazlarda (retikulyar formatsiya, talamus).",
+   "contextUz": "Quyi markazlar: somatosensor po’stloq to’liq olib tashlansa ham og’riq seziladi; ongli idrok asosan quyi markazlarda (retikulyar formatsiya, talamus).",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2858,9 +2858,9 @@
   },
   {
    "id": "ch49-t-postloq",
-   "termUz": "Po'stloq",
+   "termUz": "Po’stloq",
    "original": null,
-   "contextUz": "Po'stloq: stimulyatsiya qilingan nuqtalarning ~3% da yengil og'riq beradi; og'riq sifatini talqin qilishda muhim.",
+   "contextUz": "Po’stloq: stimulyatsiya qilingan nuqtalarning ~3% da yengil og’riq beradi; og’riq sifatini talqin qilishda muhim.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2870,7 +2870,7 @@
    "id": "ch49-t-sifat",
    "termUz": "sifat",
    "original": null,
-   "contextUz": "Po'stloq: stimulyatsiya qilingan nuqtalarning ~3% da yengil og'riq beradi; og'riq sifatini talqin qilishda muhim.",
+   "contextUz": "Po’stloq: stimulyatsiya qilingan nuqtalarning ~3% da yengil og’riq beradi; og’riq sifatini talqin qilishda muhim.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2878,9 +2878,9 @@
   },
   {
    "id": "ch49-t-uygotish-tasiri",
-   "termUz": "Uyg'otish ta'siri",
+   "termUz": "Uyg’otish ta’siri",
    "original": null,
-   "contextUz": "Uyg'otish ta'siri: sekin og'riq tugaydigan retikulyar va intralaminar sohalar miyaning uyg'otish tizimining bir qismi (ch60).",
+   "contextUz": "Uyg’otish ta’siri: sekin og’riq tugaydigan retikulyar va intralaminar sohalar miyaning uyg’otish tizimining bir qismi (ch60).",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2890,7 +2890,7 @@
    "id": "ch49-t-kordotomiya",
    "termUz": "Kordotomiya",
    "original": null,
-   "contextUz": "Kordotomiya: og'riqqa qarama-qarshi tomonda ko'krak sohasida anterolateral kvadrant kesiladi.",
+   "contextUz": "Kordotomiya: og’riqqa qarama-qarshi tomonda ko’krak sohasida anterolateral kvadrant kesiladi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2920,7 +2920,7 @@
    "id": "ch49-t-periakveduktal-kulrang-modda-va-periventrikulyar-sohalar",
    "termUz": "Periakveduktal kulrang modda va periventrikulyar sohalar",
    "original": null,
-   "contextUz": "Periakveduktal kulrang modda va periventrikulyar sohalar: mezensefalon va yuqori ponsda, Silviy suv yo'li hamda 3- va 4-qorinchalar atrofida.",
+   "contextUz": "Periakveduktal kulrang modda va periventrikulyar sohalar: mezensefalon va yuqori ponsda, Silviy suv yo’li hamda 3- va 4-qorinchalar atrofida.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -2938,9 +2938,9 @@
   },
   {
    "id": "ch49-t-orqa-miya-dorsal-shoxidagi-ogriqni-tormozlovchi-kompleks",
-   "termUz": "Orqa miya dorsal shoxidagi og'riqni tormozlovchi kompleks",
+   "termUz": "Orqa miya dorsal shoxidagi og’riqni tormozlovchi kompleks",
    "original": null,
-   "contextUz": "Orqa miya dorsal shoxidagi og'riqni tormozlovchi kompleks: signallar unga dorsolateral ustunlar orqali tushadi.",
+   "contextUz": "Orqa miya dorsal shoxidagi og’riqni tormozlovchi kompleks: signallar unga dorsolateral ustunlar orqali tushadi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3000,7 +3000,7 @@
    "id": "ch49-t-endogen-opiatlar",
    "termUz": "Endogen opiatlar",
    "original": null,
-   "contextUz": "Endogen opiatlar: ~12 ta modda topilgan; ular uch prekursordan hosil bo'ladi: pro-opiomelanocortin, proenkephalin, prodynorphin.",
+   "contextUz": "Endogen opiatlar: ~12 ta modda topilgan; ular uch prekursordan hosil bo’ladi: pro-opiomelanocortin, proenkephalin, prodynorphin.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3010,7 +3010,7 @@
    "id": "ch49-t-pro-opiomelanocortin-proenkephalin-prodynorphin",
    "termUz": "pro-opiomelanocortin, proenkephalin, prodynorphin",
    "original": null,
-   "contextUz": "Endogen opiatlar: ~12 ta modda topilgan; ular uch prekursordan hosil bo'ladi: pro-opiomelanocortin, proenkephalin, prodynorphin.",
+   "contextUz": "Endogen opiatlar: ~12 ta modda topilgan; ular uch prekursordan hosil bo’ladi: pro-opiomelanocortin, proenkephalin, prodynorphin.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3060,7 +3060,7 @@
    "id": "ch49-t-mexanizm",
    "termUz": "Mexanizm",
    "original": null,
-   "contextUz": "Mexanizm: Aβ tolalar stimulyatsiyasi shu sohadagi og'riqni lateral inhibitsiya orqali kamaytiradi.",
+   "contextUz": "Mexanizm: Aβ tolalar stimulyatsiyasi shu sohadagi og’riqni lateral inhibitsiya orqali kamaytiradi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3070,7 +3070,7 @@
    "id": "ch49-t-amaliy-misollar",
    "termUz": "Amaliy misollar",
    "original": null,
-   "contextUz": "Amaliy misollar: og'riq yonini ishqalash va liniment surtish og'riqni kamaytiradi.",
+   "contextUz": "Amaliy misollar: og’riq yonini ishqalash va liniment surtish og’riqni kamaytiradi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3100,7 +3100,7 @@
    "id": "ch49-t-natija",
    "termUz": "Natija",
    "original": null,
-   "contextUz": "Natija: bemor o'zi boshqaradi; ba'zan bir necha daqiqa stimulyatsiyadan keyin 24 soatgacha og'riq bosiladi.",
+   "contextUz": "Natija: bemor o’zi boshqaradi; ba’zan bir necha daqiqa stimulyatsiyadan keyin 24 soatgacha og’riq bosiladi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3108,9 +3108,9 @@
   },
   {
    "id": "ch49-t-tarif",
-   "termUz": "Ta'rif",
+   "termUz": "Ta’rif",
    "original": null,
-   "contextUz": "Ta'rif: og'riq manbadan uzoq joyda seziladi.",
+   "contextUz": "Ta’rif: og’riq manbadan uzoq joyda seziladi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3120,7 +3120,7 @@
    "id": "ch49-t-mexanizm-fig-49-5",
    "termUz": "Mexanizm (Fig 49-5)",
    "original": null,
-   "contextUz": "Mexanizm (Fig 49-5): visseral og'riq tolalari teri og'riq tolalari bilan bir xil 2-tartibli neyronlarda sinaps qiladi.",
+   "contextUz": "Mexanizm (Fig 49-5): visseral og’riq tolalari teri og’riq tolalari bilan bir xil 2-tartibli neyronlarda sinaps qiladi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3130,7 +3130,7 @@
    "id": "ch49-t-diagnostik-ahamiyati",
    "termUz": "Diagnostik ahamiyati",
    "original": null,
-   "contextUz": "Diagnostik ahamiyati: ko'p visseral kasalliklarda yagona belgi referred og'riq bo'lishi mumkin.",
+   "contextUz": "Diagnostik ahamiyati: ko’p visseral kasalliklarda yagona belgi referred og’riq bo’lishi mumkin.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3140,7 +3140,7 @@
    "id": "ch49-t-tarqalgan-va-lokal-shikast",
    "termUz": "Tarqalgan va lokal shikast",
    "original": null,
-   "contextUz": "Tarqalgan va lokal shikast: Lokal shikast deyarli og'riq bermaydi: ichakni hushyor bemorda kesish og'riqsiz.",
+   "contextUz": "Tarqalgan va lokal shikast: Lokal shikast deyarli og’riq bermaydi: ichakni hushyor bemorda kesish og’riqsiz.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3150,7 +3150,7 @@
    "id": "ch49-t-uzatilishi",
    "termUz": "Uzatilishi",
    "original": null,
-   "contextUz": "Uzatilishi: deyarli barcha visseral og'riq C tolalar orqali o'tadi, shuning uchun faqat sekin, simillovchi og'riq beradi.",
+   "contextUz": "Uzatilishi: deyarli barcha visseral og’riq C tolalar orqali o’tadi, shuning uchun faqat sekin, simillovchi og’riq beradi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3170,7 +3170,7 @@
    "id": "ch49-t-kimyoviy",
    "termUz": "Kimyoviy",
    "original": null,
-   "contextUz": "Kimyoviy: yorilgan oshqozon yoki o'n ikki barmoqli ichak yarasidan kislotali shira chiqib peritoneumni hazm qiladi; juda kuchli og'riq.",
+   "contextUz": "Kimyoviy: yorilgan oshqozon yoki o’n ikki barmoqli ichak yarasidan kislotali shira chiqib peritoneumni hazm qiladi; juda kuchli og’riq.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3178,9 +3178,9 @@
   },
   {
    "id": "ch49-t-kovak-azo-spazmi-ichak-ot-pufagi-ot-yoli-siydik-yoli",
-   "termUz": "Kovak a'zo spazmi (ichak, o't pufagi, o't yo'li, siydik yo'li)",
+   "termUz": "Kovak a’zo spazmi (ichak, o’t pufagi, o’t yo’li, siydik yo’li)",
    "original": null,
-   "contextUz": "Kovak a'zo spazmi (ichak, o't pufagi, o't yo'li, siydik yo'li): Mexanik qo'zg'alish va ishemiya bilan og'riq beradi.",
+   "contextUz": "Kovak a’zo spazmi (ichak, o’t pufagi, o’t yo’li, siydik yo’li): Mexanik qo’zg’alish va ishemiya bilan og’riq beradi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3190,7 +3190,7 @@
    "id": "ch49-t-cramps",
    "termUz": "cramps",
    "original": null,
-   "contextUz": "Og'riq to'lg'oqsimon (cramps): har bir necha daqiqada kuchayib-pasayadi, har bir peristaltik to'lqin bilan to'lg'oq.",
+   "contextUz": "Og’riq to’lg’oqsimon (cramps): har bir necha daqiqada kuchayib-pasayadi, har bir peristaltik to’lqin bilan to’lg’oq.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3198,9 +3198,9 @@
   },
   {
    "id": "ch49-t-haddan-tashqari-chozilish",
-   "termUz": "Haddan tashqari cho'zilish",
+   "termUz": "Haddan tashqari cho’zilish",
    "original": null,
-   "contextUz": "Haddan tashqari cho'zilish: to'qima cho'ziladi va tomirlar bosilib ishemiya kuchayadi.",
+   "contextUz": "Haddan tashqari cho’zilish: to’qima cho’ziladi va tomirlar bosilib ishemiya kuchayadi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3208,9 +3208,9 @@
   },
   {
    "id": "ch49-t-ogriqqa-sezgir-bolmagan-joylar",
-   "termUz": "Og'riqqa sezgir bo'lmagan joylar",
+   "termUz": "Og’riqqa sezgir bo’lmagan joylar",
    "original": null,
-   "contextUz": "Og'riqqa sezgir bo'lmagan joylar:",
+   "contextUz": "Og’riqqa sezgir bo’lmagan joylar:",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3220,7 +3220,7 @@
    "id": "ch49-t-jigar",
    "termUz": "Jigar",
    "original": null,
-   "contextUz": "Jigar: parenximasi sezgir emas, lekin kapsulasi va o't yo'llari sezgir.",
+   "contextUz": "Jigar: parenximasi sezgir emas, lekin kapsulasi va o’t yo’llari sezgir.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3228,9 +3228,9 @@
   },
   {
    "id": "ch49-t-opka",
-   "termUz": "O'pka",
+   "termUz": "O’pka",
    "original": null,
-   "contextUz": "O'pka: alveolalar sezgir emas, lekin bronxlar va parietal plevra sezgir.",
+   "contextUz": "O’pka: alveolalar sezgir emas, lekin bronxlar va parietal plevra sezgir.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3238,9 +3238,9 @@
   },
   {
    "id": "ch49-t-parietal-ogriq",
-   "termUz": "Parietal og'riq",
+   "termUz": "Parietal og’riq",
    "original": null,
-   "contextUz": "Parietal og'riq: Kasallik parietal peritoneum, plevra yoki perikardga tarqalganda paydo bo'ladi.",
+   "contextUz": "Parietal og’riq: Kasallik parietal peritoneum, plevra yoki perikardga tarqalganda paydo bo’ladi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3248,9 +3248,9 @@
   },
   {
    "id": "ch49-t-visseral-ogriqni-lokalizatsiya-qilish-qiyinligi",
-   "termUz": "Visseral og'riqni lokalizatsiya qilish qiyinligi",
+   "termUz": "Visseral og’riqni lokalizatsiya qilish qiyinligi",
    "original": null,
-   "contextUz": "Visseral og'riqni lokalizatsiya qilish qiyinligi: Miya ichki a'zolarni \"tajribadan bilmaydi\".",
+   "contextUz": "Visseral og’riqni lokalizatsiya qilish qiyinligi: Miya ichki a’zolarni \"tajribadan bilmaydi\".",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3258,9 +3258,9 @@
   },
   {
    "id": "ch49-t-referred-ogriq-lokalizatsiyasi",
-   "termUz": "Referred og'riq lokalizatsiyasi",
+   "termUz": "Referred og’riq lokalizatsiyasi",
    "original": null,
-   "contextUz": "Referred og'riq lokalizatsiyasi: a'zoning embrional dermatomiga bog'liq, hozirgi joylashuviga emas.",
+   "contextUz": "Referred og’riq lokalizatsiyasi: a’zoning embrional dermatomiga bog’liq, hozirgi joylashuviga emas.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3270,7 +3270,7 @@
    "id": "ch49-t-embrional-dermatomiga",
    "termUz": "embrional dermatomiga",
    "original": null,
-   "contextUz": "Referred og'riq lokalizatsiyasi: a'zoning embrional dermatomiga bog'liq, hozirgi joylashuviga emas.",
+   "contextUz": "Referred og’riq lokalizatsiyasi: a’zoning embrional dermatomiga bog’liq, hozirgi joylashuviga emas.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3280,7 +3280,7 @@
    "id": "ch49-t-yurak",
    "termUz": "Yurak",
    "original": null,
-   "contextUz": "Yurak: C3–T5 segmentlari; og'riq bo'yin yoni, yelka, ko'krak mushaklari, qo'l va to'sh ortiga beriladi.",
+   "contextUz": "Yurak: C3–T5 segmentlari; og’riq bo’yin yoni, yelka, ko’krak mushaklari, qo’l va to’sh ortiga beriladi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3298,9 +3298,9 @@
   },
   {
    "id": "ch49-t-boshqa-azolar",
-   "termUz": "Boshqa a'zolar",
+   "termUz": "Boshqa a’zolar",
    "original": null,
-   "contextUz": "Boshqa a'zolar: Fig 49-6 (qizilo'ngach, jigar va o't pufagi, pilorus, appendiks, buyraklar, yo'g'on ichak, siydik yo'li).",
+   "contextUz": "Boshqa a’zolar: Fig 49-6 (qizilo’ngach, jigar va o’t pufagi, pilorus, appendiks, buyraklar, yo’g’on ichak, siydik yo’li).",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3308,9 +3308,9 @@
   },
   {
    "id": "ch49-t-appenditsitda-ikki-joyda-ogriq-fig-49-7",
-   "termUz": "Appenditsitda ikki joyda og'riq (Fig 49-7)",
+   "termUz": "Appenditsitda ikki joyda og’riq (Fig 49-7)",
    "original": null,
-   "contextUz": "Appenditsitda ikki joyda og'riq (Fig 49-7): Visseral: simpatik nervlar orqali T10–T11 ga boradi; kindik atrofida simillovchi, to'lg'oqsimon og'riq.",
+   "contextUz": "Appenditsitda ikki joyda og’riq (Fig 49-7): Visseral: simpatik nervlar orqali T10–T11 ga boradi; kindik atrofida simillovchi, to’lg’oqsimon og’riq.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3320,7 +3320,7 @@
    "id": "ch49-t-visseral",
    "termUz": "Visseral",
    "original": null,
-   "contextUz": "Appenditsitda ikki joyda og'riq (Fig 49-7): Visseral: simpatik nervlar orqali T10–T11 ga boradi; kindik atrofida simillovchi, to'lg'oqsimon og'riq.",
+   "contextUz": "Appenditsitda ikki joyda og’riq (Fig 49-7): Visseral: simpatik nervlar orqali T10–T11 ga boradi; kindik atrofida simillovchi, to’lg’oqsimon og’riq.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3330,7 +3330,7 @@
    "id": "ch49-t-parietal",
    "termUz": "Parietal",
    "original": null,
-   "contextUz": "Parietal: yallig'langan appendiks qorin devoriga tekkanda; o'ng pastki kvadrantda o'tkir og'riq.",
+   "contextUz": "Parietal: yallig’langan appendiks qorin devoriga tekkanda; o’ng pastki kvadrantda o’tkir og’riq.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3340,7 +3340,7 @@
    "id": "ch49-t-birlamchi",
    "termUz": "Birlamchi",
    "original": null,
-   "contextUz": "Hyperalgesia: Birlamchi: retseptor sezgirligi oshadi; masalan, quyoshda kuygan terida gistamin va prostaglandinlar ta'sirida.",
+   "contextUz": "Hyperalgesia: Birlamchi: retseptor sezgirligi oshadi; masalan, quyoshda kuygan terida gistamin va prostaglandinlar ta’sirida.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3350,7 +3350,7 @@
    "id": "ch49-t-ikkilamchi",
    "termUz": "Ikkilamchi",
    "original": null,
-   "contextUz": "Ikkilamchi: sezgi uzatilishi fasilitatsiya qilinadi; ko'pincha orqa miya yoki talamus lezyonlarida.",
+   "contextUz": "Ikkilamchi: sezgi uzatilishi fasilitatsiya qilinadi; ko’pincha orqa miya yoki talamus lezyonlarida.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3370,7 +3370,7 @@
    "id": "ch49-t-tic-douloureux-trigeminal-yoki-glossopharyngeal-nevralgiya",
    "termUz": "Tic douloureux (trigeminal yoki glossopharyngeal nevralgiya)",
    "original": null,
-   "contextUz": "Tic douloureux (trigeminal yoki glossopharyngeal nevralgiya): Klinika: yuzning bir tomonida, V yoki IX nerv sohasida elektr urgandek sanchuvchi og'riq.",
+   "contextUz": "Tic douloureux (trigeminal yoki glossopharyngeal nevralgiya): Klinika: yuzning bir tomonida, V yoki IX nerv sohasida elektr urgandek sanchuvchi og’riq.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3380,7 +3380,7 @@
    "id": "ch49-t-klinika",
    "termUz": "Klinika",
    "original": null,
-   "contextUz": "Tic douloureux (trigeminal yoki glossopharyngeal nevralgiya): Klinika: yuzning bir tomonida, V yoki IX nerv sohasida elektr urgandek sanchuvchi og'riq.",
+   "contextUz": "Tic douloureux (trigeminal yoki glossopharyngeal nevralgiya): Klinika: yuzning bir tomonida, V yoki IX nerv sohasida elektr urgandek sanchuvchi og’riq.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3408,9 +3408,9 @@
   },
   {
    "id": "ch49-t-bazan-samarasiz",
-   "termUz": "Ba'zan samarasiz",
+   "termUz": "Ba’zan samarasiz",
    "original": null,
-   "contextUz": "Ba'zan samarasiz: lezyon miya ustunidagi yadroda bo'lishi mumkin.",
+   "contextUz": "Ba’zan samarasiz: lezyon miya ustunidagi yadroda bo’lishi mumkin.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3420,7 +3420,7 @@
    "id": "ch49-t-brown-s-quard-sindromi",
    "termUz": "Brown-Séquard sindromi",
    "original": "orqa miyaning bir tomonlama kesilishi",
-   "contextUz": "Brown-Séquard sindromi (orqa miyaning bir tomonlama kesilishi): Shu tomonda: Kesilgan joydan pastdagi barcha harakat yo'qoladi.",
+   "contextUz": "Brown-Séquard sindromi (orqa miyaning bir tomonlama kesilishi): Shu tomonda: Kesilgan joydan pastdagi barcha harakat yo’qoladi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3430,7 +3430,7 @@
    "id": "ch49-t-shu-tomonda",
    "termUz": "Shu tomonda",
    "original": null,
-   "contextUz": "Brown-Séquard sindromi (orqa miyaning bir tomonlama kesilishi): Shu tomonda: Kesilgan joydan pastdagi barcha harakat yo'qoladi.",
+   "contextUz": "Brown-Séquard sindromi (orqa miyaning bir tomonlama kesilishi): Shu tomonda: Kesilgan joydan pastdagi barcha harakat yo’qoladi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3440,7 +3440,7 @@
    "id": "ch49-t-qarama-qarshi-tomonda",
    "termUz": "Qarama-qarshi tomonda",
    "original": null,
-   "contextUz": "Qarama-qarshi tomonda: og'riq, issiq va sovuq sezgisi kesilgan joydan 2–6 segment pastdan boshlab yo'qoladi.",
+   "contextUz": "Qarama-qarshi tomonda: og’riq, issiq va sovuq sezgisi kesilgan joydan 2–6 segment pastdan boshlab yo’qoladi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3448,9 +3448,9 @@
   },
   {
    "id": "ch49-t-qopol-teginish",
-   "termUz": "Qo'pol teginish",
+   "termUz": "Qo’pol teginish",
    "original": null,
-   "contextUz": "Qo'pol teginish qarama-qarshi spinotalamik trakt orqali saqlanadi.",
+   "contextUz": "Qo’pol teginish qarama-qarshi spinotalamik trakt orqali saqlanadi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3458,9 +3458,9 @@
   },
   {
    "id": "ch49-t-ogriqqa-sezgir-va-sezgir-bolmagan-tuzilmalar",
-   "termUz": "Og'riqqa sezgir va sezgir bo'lmagan tuzilmalar",
+   "termUz": "Og’riqqa sezgir va sezgir bo’lmagan tuzilmalar",
    "original": null,
-   "contextUz": "Og'riqqa sezgir va sezgir bo'lmagan tuzilmalar: Miya to'qimasining o'zi og'riqni deyarli sezmaydi; po'stloq stimulyatsiyasi paresteziya beradi.",
+   "contextUz": "Og’riqqa sezgir va sezgir bo’lmagan tuzilmalar: Miya to’qimasining o’zi og’riqni deyarli sezmaydi; po’stloq stimulyatsiyasi paresteziya beradi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3478,9 +3478,9 @@
   },
   {
    "id": "ch49-t-ogriq-qayerga-refer-qilinadi-fig-49-9",
-   "termUz": "Og'riq qayerga refer qilinadi (Fig 49-9)",
+   "termUz": "Og’riq qayerga refer qilinadi (Fig 49-9)",
    "original": null,
-   "contextUz": "Og'riq qayerga refer qilinadi (Fig 49-9): Tentorium usti: trigeminal nerv orqali boshning old yarmiga.",
+   "contextUz": "Og’riq qayerga refer qilinadi (Fig 49-9): Tentorium usti: trigeminal nerv orqali boshning old yarmiga.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3490,7 +3490,7 @@
    "id": "ch49-t-tentorium-usti",
    "termUz": "Tentorium usti",
    "original": null,
-   "contextUz": "Og'riq qayerga refer qilinadi (Fig 49-9): Tentorium usti: trigeminal nerv orqali boshning old yarmiga.",
+   "contextUz": "Og’riq qayerga refer qilinadi (Fig 49-9): Tentorium usti: trigeminal nerv orqali boshning old yarmiga.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3510,7 +3510,7 @@
    "id": "ch49-t-turlari",
    "termUz": "Turlari",
    "original": null,
-   "contextUz": "Turlari: Meningit: eng kuchli bosh og'riqlaridan biri, butun boshga tarqaladi.",
+   "contextUz": "Turlari: Meningit: eng kuchli bosh og’riqlaridan biri, butun boshga tarqaladi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3520,7 +3520,7 @@
    "id": "ch49-t-meningit",
    "termUz": "Meningit",
    "original": null,
-   "contextUz": "Turlari: Meningit: eng kuchli bosh og'riqlaridan biri, butun boshga tarqaladi.",
+   "contextUz": "Turlari: Meningit: eng kuchli bosh og’riqlaridan biri, butun boshga tarqaladi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3530,7 +3530,7 @@
    "id": "ch49-t-past-likvor-bosimi",
    "termUz": "Past likvor bosimi",
    "original": null,
-   "contextUz": "Past likvor bosimi: atigi 20 ml likvor olinsa (ayniqsa tik turganda), miya suzuvchanligi kamayadi, dura cho'ziladi va kuchli og'riq paydo bo'ladi.",
+   "contextUz": "Past likvor bosimi: atigi 20 ml likvor olinsa (ayniqsa tik turganda), miya suzuvchanligi kamayadi, dura cho’ziladi va kuchli og’riq paydo bo’ladi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3540,7 +3540,7 @@
    "id": "ch49-t-migren",
    "termUz": "Migren",
    "original": null,
-   "contextUz": "Migren: Prodromal belgilar: og'riqdan 30–60 daqiqa oldin ko'ngil aynishi, ko'rish maydoni qismining yo'qolishi, aura.",
+   "contextUz": "Migren: Prodromal belgilar: og’riqdan 30–60 daqiqa oldin ko’ngil aynishi, ko’rish maydoni qismining yo’qolishi, aura.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3550,7 +3550,7 @@
    "id": "ch49-t-prodromal-belgilar",
    "termUz": "Prodromal belgilar",
    "original": null,
-   "contextUz": "Migren: Prodromal belgilar: og'riqdan 30–60 daqiqa oldin ko'ngil aynishi, ko'rish maydoni qismining yo'qolishi, aura.",
+   "contextUz": "Migren: Prodromal belgilar: og’riqdan 30–60 daqiqa oldin ko’ngil aynishi, ko’rish maydoni qismining yo’qolishi, aura.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3570,7 +3570,7 @@
    "id": "ch49-t-boshqa-nazariyalar",
    "termUz": "Boshqa nazariyalar",
    "original": null,
-   "contextUz": "Boshqa nazariyalar: spreading cortical depression, psixologik omillar, hujayradan tashqari K⁺ ko'pligi.",
+   "contextUz": "Boshqa nazariyalar: spreading cortical depression, psixologik omillar, hujayradan tashqari K⁺ ko’pligi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3580,7 +3580,7 @@
    "id": "ch49-t-irsiyat-va-jins",
    "termUz": "Irsiyat va jins",
    "original": null,
-   "contextUz": "Irsiyat va jins: oilaviy anamnez 65–90% hollarda; ayollarda 2 marta ko'p.",
+   "contextUz": "Irsiyat va jins: oilaviy anamnez 65–90% hollarda; ayollarda 2 marta ko’p.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3590,7 +3590,7 @@
    "id": "ch49-t-alkogol",
    "termUz": "Alkogol",
    "original": null,
-   "contextUz": "Alkogol: spirt meningsni bevosita qitiqlaydi; degidratatsiya ham rol o'ynaydi.",
+   "contextUz": "Alkogol: spirt meningsni bevosita qitiqlaydi; degidratatsiya ham rol o’ynaydi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3610,7 +3610,7 @@
    "id": "ch49-t-burun-va-sinuslar",
    "termUz": "Burun va sinuslar",
    "original": null,
-   "contextUz": "Burun va sinuslar: Shilliq qavat unchalik sezgir emas, lekin keng yallig'lanish summatsiyalanib og'riq beradi.",
+   "contextUz": "Burun va sinuslar: Shilliq qavat unchalik sezgir emas, lekin keng yallig’lanish summatsiyalanib og’riq beradi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3618,9 +3618,9 @@
   },
   {
    "id": "ch49-t-koz",
-   "termUz": "Ko'z",
+   "termUz": "Ko’z",
    "original": null,
-   "contextUz": "Ko'z: Fokuslash qiyinligi: siliar mushak tonik qisqaradi va yuz yoki ko'z mushaklari refleks spazmga uchraydi; natijada retroorbital og'riq.",
+   "contextUz": "Ko’z: Fokuslash qiyinligi: siliar mushak tonik qisqaradi va yuz yoki ko’z mushaklari refleks spazmga uchraydi; natijada retroorbital og’riq.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3630,7 +3630,7 @@
    "id": "ch49-t-fokuslash-qiyinligi",
    "termUz": "Fokuslash qiyinligi",
    "original": null,
-   "contextUz": "Ko'z: Fokuslash qiyinligi: siliar mushak tonik qisqaradi va yuz yoki ko'z mushaklari refleks spazmga uchraydi; natijada retroorbital og'riq.",
+   "contextUz": "Ko’z: Fokuslash qiyinligi: siliar mushak tonik qisqaradi va yuz yoki ko’z mushaklari refleks spazmga uchraydi; natijada retroorbital og’riq.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3638,9 +3638,9 @@
   },
   {
    "id": "ch49-t-kuchli-yoruglik-yoki-uv",
-   "termUz": "Kuchli yorug'lik yoki UV",
+   "termUz": "Kuchli yorug’lik yoki UV",
    "original": null,
-   "contextUz": "Kuchli yorug'lik yoki UV: quyoshga yoki payvand yoyiga bir necha soniya qarash 24–48 soatlik og'riq beradi.",
+   "contextUz": "Kuchli yorug’lik yoki UV: quyoshga yoki payvand yoyiga bir necha soniya qarash 24–48 soatlik og’riq beradi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3660,7 +3660,7 @@
    "id": "ch49-t-retseptorlar",
    "termUz": "Retseptorlar",
    "original": null,
-   "contextUz": "Retseptorlar: sovuq, issiq va og'riq retseptorlari.",
+   "contextUz": "Retseptorlar: sovuq, issiq va og’riq retseptorlari.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3670,7 +3670,7 @@
    "id": "ch49-t-zichlik",
    "termUz": "Zichlik",
    "original": null,
-   "contextUz": "Zichlik: Sovuq nuqtalar issiq nuqtalardan 3–10 marta ko'p.",
+   "contextUz": "Zichlik: Sovuq nuqtalar issiq nuqtalardan 3–10 marta ko’p.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3698,9 +3698,9 @@
   },
   {
    "id": "ch49-t-harorat-boyicha-javob-fig-49-10",
-   "termUz": "Harorat bo'yicha javob (Fig 49-10)",
+   "termUz": "Harorat bo’yicha javob (Fig 49-10)",
    "original": null,
-   "contextUz": "Harorat bo'yicha javob (Fig 49-10): Juda sovuqda: faqat sovuq-og'riq tolalari ishlaydi (muzlaganda ular ham ishlamaydi).",
+   "contextUz": "Harorat bo’yicha javob (Fig 49-10): Juda sovuqda: faqat sovuq-og’riq tolalari ishlaydi (muzlaganda ular ham ishlamaydi).",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3710,7 +3710,7 @@
    "id": "ch49-t-juda-sovuqda",
    "termUz": "Juda sovuqda",
    "original": null,
-   "contextUz": "Harorat bo'yicha javob (Fig 49-10): Juda sovuqda: faqat sovuq-og'riq tolalari ishlaydi (muzlaganda ular ham ishlamaydi).",
+   "contextUz": "Harorat bo’yicha javob (Fig 49-10): Juda sovuqda: faqat sovuq-og’riq tolalari ishlaydi (muzlaganda ular ham ishlamaydi).",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3720,7 +3720,7 @@
    "id": "ch49-t-10-15-c",
    "termUz": "10–15°C",
    "original": null,
-   "contextUz": "10–15°C: sovuq-og'riq to'xtaydi, sovuq retseptorlari ishga tushadi.",
+   "contextUz": "10–15°C: sovuq-og’riq to’xtaydi, sovuq retseptorlari ishga tushadi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3730,7 +3730,7 @@
    "id": "ch49-t-24-c",
    "termUz": "~24°C",
    "original": null,
-   "contextUz": "~24°C: sovuq retseptorlari cho'qqida; >40°C da so'nadi.",
+   "contextUz": "~24°C: sovuq retseptorlari cho’qqida; >40°C da so’nadi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3740,7 +3740,7 @@
    "id": "ch49-t-30-c",
    "termUz": ">30°C",
    "original": null,
-   "contextUz": ">30°C: issiq retseptorlari boshlanadi; ~49°C da so'nadi.",
+   "contextUz": ">30°C: issiq retseptorlari boshlanadi; ~49°C da so’nadi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3750,7 +3750,7 @@
    "id": "ch49-t-45-c",
    "termUz": "~45°C",
    "original": null,
-   "contextUz": "~45°C: issiq-og'riq tolalari ishga tushadi; paradoksal ravishda sovuq tolalar ham qayta qo'zg'aladi (shikast tufayli).",
+   "contextUz": "~45°C: issiq-og’riq tolalari ishga tushadi; paradoksal ravishda sovuq tolalar ham qayta qo’zg’aladi (shikast tufayli).",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3760,7 +3760,7 @@
    "id": "ch49-t-adaptatsiya",
    "termUz": "Adaptatsiya",
    "original": null,
-   "contextUz": "Adaptatsiya: Keskin sovishda kuchli javob bo'ladi; birinchi soniyalarda tez so'nadi, keyin 30+ daqiqa sekin pasayadi, lekin hech qachon 100% so'nmaydi.",
+   "contextUz": "Adaptatsiya: Keskin sovishda kuchli javob bo’ladi; birinchi soniyalarda tez so’nadi, keyin 30+ daqiqa sekin pasayadi, lekin hech qachon 100% so’nmaydi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3780,7 +3780,7 @@
    "id": "ch49-t-uzatilish",
    "termUz": "Uzatilish",
    "original": null,
-   "contextUz": "Uzatilish: Og'riqqa parallel: Lissauer traktida bir necha segment yuqoriga yoki pastga yuradi.",
+   "contextUz": "Uzatilish: Og’riqqa parallel: Lissauer traktida bir necha segment yuqoriga yoki pastga yuradi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3790,7 +3790,7 @@
    "id": "ch49-t-bosim-yaralari",
    "termUz": "Bosim yaralari",
    "original": null,
-   "contextUz": "Bosim yaralari: og'riq sezgisi yo'qolganda (orqa miya shikasti) paydo bo'ladi.",
+   "contextUz": "Bosim yaralari: og’riq sezgisi yo’qolganda (orqa miya shikasti) paydo bo’ladi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3798,9 +3798,9 @@
   },
   {
    "id": "ch49-t-referred-ogriq",
-   "termUz": "Referred og'riq",
+   "termUz": "Referred og’riq",
    "original": null,
-   "contextUz": "Referred og'riq: yurak og'rig'i chap qo'lga; appenditsitda avval kindik atrofida, keyin o'ng pastki kvadrantda.",
+   "contextUz": "Referred og’riq: yurak og’rig’i chap qo’lga; appenditsitda avval kindik atrofida, keyin o’ng pastki kvadrantda.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3808,9 +3808,9 @@
   },
   {
    "id": "ch49-t-ogriqni-bostirish-usullari",
-   "termUz": "Og'riqni bostirish usullari",
+   "termUz": "Og’riqni bostirish usullari",
    "original": null,
-   "contextUz": "Og'riqni bostirish usullari: opiatlar, elektr stimulyatsiyasi, ishqalash va akupunktura.",
+   "contextUz": "Og’riqni bostirish usullari: opiatlar, elektr stimulyatsiyasi, ishqalash va akupunktura.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3818,9 +3818,9 @@
   },
   {
    "id": "ch49-t-bosh-ogrigi-turlari",
-   "termUz": "Bosh og'rig'i turlari",
+   "termUz": "Bosh og’rig’i turlari",
    "original": null,
-   "contextUz": "Bosh og'rig'i turlari: meningit, past likvor bosimi (lyumbal punksiyadan keyin), migren, alkogol, sinusit, ko'z.",
+   "contextUz": "Bosh og’rig’i turlari: meningit, past likvor bosimi (lyumbal punksiyadan keyin), migren, alkogol, sinusit, ko’z.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3840,7 +3840,7 @@
    "id": "ch49-t-ch47-48",
    "termUz": "ch47–48",
    "original": null,
-   "contextUz": "ch47–48: retseptorlar, anterolateral yo'l, dermatomlar, lateral inhibitsiya.",
+   "contextUz": "ch47–48: retseptorlar, anterolateral yo’l, dermatomlar, lateral inhibitsiya.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",
@@ -3860,7 +3860,7 @@
    "id": "ch49-t-ch60",
    "termUz": "ch60",
    "original": null,
-   "contextUz": "ch60: retikulyar uyg'otish tizimi.",
+   "contextUz": "ch60: retikulyar uyg’otish tizimi.",
    "lessonId": "ch49",
    "topicId": "09",
    "source": "summaryUz",

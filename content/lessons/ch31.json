@@ -265,7 +265,7 @@
   }
  ],
  "objectives": [
-  "Ta'riflar va raqamlar",
+  "Ta’riflar va raqamlar",
   "Buferlar",
   "Nafas orqali boshqaruv (ikkinchi chiziq)",
   "Buyrak orqali boshqaruv (uchinchi chiziq)",
@@ -276,13 +276,13 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Asosiy g'oya",
+    "text": "Asosiy g’oya",
     "id": "ch31-s-0-asosiy-goya",
     "bid": "ch31-u0"
    },
    {
     "type": "paragraph",
-    "text": "H⁺ konsentratsiyasi juda past (40 nEq/L) va juda aniq boshqariladi, chunki deyarli barcha fermentlar pH ga sezgir. Himoyaning uch chizig'i bor:",
+    "text": "H⁺ konsentratsiyasi juda past (40 nEq/L) va juda aniq boshqariladi, chunki deyarli barcha fermentlar pH ga sezgir. Himoyaning uch chizig’i bor:",
     "bid": "ch31-u1"
    },
    {
@@ -290,7 +290,7 @@
     "ordered": true,
     "items": [
      {
-      "text": "**Kimyoviy buferlar**: soniyalarda ishlaydi, lekin H⁺ ni yo'qotmaydi, faqat bog'lab turadi.",
+      "text": "**Kimyoviy buferlar**: soniyalarda ishlaydi, lekin H⁺ ni yo’qotmaydi, faqat bog’lab turadi.",
       "depth": 0
      },
      {
@@ -298,7 +298,7 @@
       "depth": 0
      },
      {
-      "text": "**Buyrak**: soatlar va kunlar ichida ishlaydi, eng kuchli tizim. H⁺ ni sekretsiya qiladi, HCO₃⁻ ni qayta so'radi va yangi HCO₃⁻ hosil qiladi.",
+      "text": "**Buyrak**: soatlar va kunlar ichida ishlaydi, eng kuchli tizim. H⁺ ni sekretsiya qiladi, HCO₃⁻ ni qayta so’radi va yangi HCO₃⁻ hosil qiladi.",
       "depth": 0
      }
     ],
@@ -306,13 +306,13 @@
    },
    {
     "type": "paragraph",
-    "text": "Asosiy tenglama **Henderson–Hasselbalch**: pH = 6.1 + log(HCO₃⁻ / 0.03·Pco₂). HCO₃⁻ ni buyrak, Pco₂ ni o'pka boshqaradi.",
+    "text": "Asosiy tenglama **Henderson–Hasselbalch**: pH = 6.1 + log(HCO₃⁻ / 0.03·Pco₂). HCO₃⁻ ni buyrak, Pco₂ ni o’pka boshqaradi.",
     "bid": "ch31-u3"
    },
    {
     "type": "heading",
     "level": 2,
-    "text": "Ta'riflar va raqamlar",
+    "text": "Ta’riflar va raqamlar",
     "id": "ch31-s-4-tariflar-va-raqamlar",
     "bid": "ch31-u4"
    },
@@ -325,19 +325,19 @@
       "depth": 0
      },
      {
-      "text": "Kuchli kislota yoki asos tez va to'liq dissotsiatsiyalanadi (HCl, OH⁻). Kuchsizi sekin (H₂CO₃, HCO₃⁻).",
+      "text": "Kuchli kislota yoki asos tez va to’liq dissotsiatsiyalanadi (HCl, OH⁻). Kuchsizi sekin (H₂CO₃, HCO₃⁻).",
       "depth": 1
      },
      {
-      "text": "ECF dagi kislota va asoslarning ko'pi kuchsiz.",
+      "text": "ECF dagi kislota va asoslarning ko’pi kuchsiz.",
       "depth": 1
      },
      {
-      "text": "**Normal H⁺**: 0.00004 mEq/L (40 nEq/L). Na⁺ undan 3.5 million marta ko'p, normal tebranish esa Na⁺ nikidan million marta kichik.",
+      "text": "**Normal H⁺**: 0.00004 mEq/L (40 nEq/L). Na⁺ undan 3.5 million marta ko’p, normal tebranish esa Na⁺ nikidan million marta kichik.",
       "depth": 0
      },
      {
-      "text": "Normal o'zgarish 3–5 nEq/L. Hayotga mos chegaralar 10–160 nEq/L.",
+      "text": "Normal o’zgarish 3–5 nEq/L. Hayotga mos chegaralar 10–160 nEq/L.",
       "depth": 1
      },
      {
@@ -385,7 +385,7 @@
       "4.5–8.0"
      ],
      [
-      "Me'da HCl",
+      "Me’da HCl",
       "160",
       "0.8 (qondan ~4 million marta kislotali)"
      ]
@@ -397,11 +397,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Atsidemiya pH <7.4, alkalemiya pH >7.4 bo'lganda. Bir necha soatdan ortiq yashash chegarasi **6.8–8.0**.",
+      "text": "Atsidemiya pH <7.4, alkalemiya pH >7.4 bo’lganda. Bir necha soatdan ortiq yashash chegarasi **6.8–8.0**.",
       "depth": 0
      },
      {
-      "text": "Kuniga **~80 mEq** uchmaydigan kislota hosil bo'ladi, asosan oqsil metabolizmidan.",
+      "text": "Kuniga **~80 mEq** uchmaydigan kislota hosil bo’ladi, asosan oqsil metabolizmidan.",
       "depth": 0
      }
     ],
@@ -445,15 +445,15 @@
       "depth": 1
      },
      {
-      "text": "NaHCO₃ to'liq ionlanadi.",
+      "text": "NaHCO₃ to’liq ionlanadi.",
       "depth": 1
      },
      {
-      "text": "**Kuchli kislota qo'shilsa**: HCl + HCO₃⁻ → H₂CO₃ → CO₂ + H₂O. CO₂ ko'payadi va nafasni rag'batlantiradi.",
+      "text": "**Kuchli kislota qo’shilsa**: HCl + HCO₃⁻ → H₂CO₃ → CO₂ + H₂O. CO₂ ko’payadi va nafasni rag’batlantiradi.",
       "depth": 0
      },
      {
-      "text": "**Kuchli asos qo'shilsa**: NaOH + H₂CO₃ → NaHCO₃ + H₂O. CO₂ kamayadi va nafas susayadi. Ortiqcha HCO₃⁻ ni buyrak chiqaradi.",
+      "text": "**Kuchli asos qo’shilsa**: NaOH + H₂CO₃ → NaHCO₃ + H₂O. CO₂ kamayadi va nafas susayadi. Ortiqcha HCO₃⁻ ni buyrak chiqaradi.",
       "depth": 0
      },
      {
@@ -473,23 +473,23 @@
       "depth": 1
      },
      {
-      "text": "**Titrlash egri chizig'i (Fig. 31-1)**:",
+      "text": "**Titrlash egri chizig’i (Fig. 31-1)**:",
       "depth": 0
      },
      {
-      "text": "komponentlar teng bo'lsa pH = pK;",
+      "text": "komponentlar teng bo’lsa pH = pK;",
       "depth": 1
      },
      {
-      "text": "bufer pK ±1 oralig'ida (5.1–7.1) samarali;",
+      "text": "bufer pK ±1 oralig’ida (5.1–7.1) samarali;",
       "depth": 1
      },
      {
-      "text": "buferlash quvvati konsentratsiyaga ham bog'liq.",
+      "text": "buferlash quvvati konsentratsiyaga ham bog’liq.",
       "depth": 1
      },
      {
-      "text": "**Paradoks**: pH 7.4, pK 6.1, ya'ni HCO₃⁻ : CO₂ ≈ **20 : 1**. Bu egri chiziqning past samarali qismi va konsentratsiyalar ham katta emas. Shunga qaramay **ECF ning eng kuchli buferi**, chunki ikkala komponenti alohida boshqariladi: HCO₃⁻ ni buyrak, CO₂ ni o'pka boshqaradi.",
+      "text": "**Paradoks**: pH 7.4, pK 6.1, ya’ni HCO₃⁻ : CO₂ ≈ **20 : 1**. Bu egri chiziqning past samarali qismi va konsentratsiyalar ham katta emas. Shunga qaramay **ECF ning eng kuchli buferi**, chunki ikkala komponenti alohida boshqariladi: HCO₃⁻ ni buyrak, CO₂ ni o’pka boshqaradi.",
       "depth": 0
      },
      {
@@ -497,11 +497,11 @@
       "depth": 0
      },
      {
-      "text": "HCO₃⁻ ning birlamchi o'zgarishi **metabolik** buzilish;",
+      "text": "HCO₃⁻ ning birlamchi o’zgarishi **metabolik** buzilish;",
       "depth": 1
      },
      {
-      "text": "Pco₂ ning birlamchi o'zgarishi **respirator** buzilish.",
+      "text": "Pco₂ ning birlamchi o’zgarishi **respirator** buzilish.",
       "depth": 1
      }
     ],
@@ -554,11 +554,11 @@
       "depth": 0
      },
      {
-      "text": "Ko'p oqsillarning pK lari hujayra ichi pH iga yaqin.",
+      "text": "Ko’p oqsillarning pK lari hujayra ichi pH iga yaqin.",
       "depth": 0
      },
      {
-      "text": "CO₂ membranadan tez o'tadi. H⁺ va HCO₃⁻ esa soatlab sekin muvozanatlashadi; eritrotsitlarda tez.",
+      "text": "CO₂ membranadan tez o’tadi. H⁺ va HCO₃⁻ esa soatlab sekin muvozanatlashadi; eritrotsitlarda tez.",
       "depth": 0
      },
      {
@@ -577,7 +577,7 @@
    },
    {
     "type": "paragraph",
-    "text": "Barcha buferlar bitta H⁺ konsentratsiyasi bilan muvozanatda turadi: H⁺ = K₁·HA₁/A₁ = K₂·HA₂/A₂ = … Shuning uchun bitta bufer tizimi o'zgarsa, qolganlari ham bir vaqtda o'zgaradi.",
+    "text": "Barcha buferlar bitta H⁺ konsentratsiyasi bilan muvozanatda turadi: H⁺ = K₁·HA₁/A₁ = K₂·HA₂/A₂ = … Shuning uchun bitta bufer tizimi o’zgarsa, qolganlari ham bir vaqtda o’zgaradi.",
     "bid": "ch31-u19"
    },
    {
@@ -592,11 +592,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "ECF da erigan CO₂ ~1.2 mmol/L, bu Pco₂ 40 mm Hg ga to'g'ri keladi. Metabolizm CO₂ ni oshiradi, ventilyatsiya chiqaradi.",
+      "text": "ECF da erigan CO₂ ~1.2 mmol/L, bu Pco₂ 40 mm Hg ga to’g’ri keladi. Metabolizm CO₂ ni oshiradi, ventilyatsiya chiqaradi.",
       "depth": 0
      },
      {
-      "text": "**Ventilyatsiyaning pH ga ta'siri (Fig. 31-2)**:",
+      "text": "**Ventilyatsiyaning pH ga ta’siri (Fig. 31-2)**:",
       "depth": 0
      },
      {
@@ -608,15 +608,15 @@
       "depth": 1
      },
      {
-      "text": "alveolyar ventilyatsiya 0 dan 15 baravargacha o'zgarishi mumkin.",
+      "text": "alveolyar ventilyatsiya 0 dan 15 baravargacha o’zgarishi mumkin.",
       "depth": 1
      },
      {
-      "text": "**pH ning ventilyatsiyaga ta'siri (Fig. 31-3)**: pH 7.4 dan 7.0 ga tushsa, ventilyatsiya 4–5 marta oshadi.",
+      "text": "**pH ning ventilyatsiyaga ta’siri (Fig. 31-3)**: pH 7.4 dan 7.0 ga tushsa, ventilyatsiya 4–5 marta oshadi.",
       "depth": 0
      },
      {
-      "text": "Alkalozga javob kuchsizroq: ventilyatsiya kamayganda Po₂ ham tushadi va O₂ xemoretseptorlari nafasni rag'batlantiradi.",
+      "text": "Alkalozga javob kuchsizroq: ventilyatsiya kamayganda Po₂ ham tushadi va O₂ xemoretseptorlari nafasni rag’batlantiradi.",
       "depth": 1
      },
      {
@@ -628,15 +628,15 @@
       "depth": 1
      },
      {
-      "text": "Misol: kislota qo'shilib pH 7.4 dan 7.0 ga tushsa, nafas uni **3–12 daqiqada** 7.2–7.3 ga qaytaradi.",
+      "text": "Misol: kislota qo’shilib pH 7.4 dan 7.0 ga tushsa, nafas uni **3–12 daqiqada** 7.2–7.3 ga qaytaradi.",
       "depth": 1
      },
      {
-      "text": "**Buferlash quvvati** barcha ECF kimyoviy buferlarining yig'indisidan 1–2 marta katta. Bu \"fiziologik bufer\".",
+      "text": "**Buferlash quvvati** barcha ECF kimyoviy buferlarining yig’indisidan 1–2 marta katta. Bu \"fiziologik bufer\".",
       "depth": 0
      },
      {
-      "text": "**O'pka kasalligi** (masalan, og'ir emfizema) respirator atsidozga olib keladi. Bunday bemorda metabolik atsidozga respirator kompensatsiya ham yo'qoladi va faqat buyrak qoladi.",
+      "text": "**O’pka kasalligi** (masalan, og’ir emfizema) respirator atsidozga olib keladi. Bunday bemorda metabolik atsidozga respirator kompensatsiya ham yo’qoladi va faqat buyrak qoladi.",
       "depth": 0
      }
     ],
@@ -672,7 +672,7 @@
       "depth": 1
      },
      {
-      "text": "uni qayta so'rish uchun 4320 mEq H⁺ sekretsiya qilinishi kerak, uchmaydigan kislotalar uchun yana 80 mEq;",
+      "text": "uni qayta so’rish uchun 4320 mEq H⁺ sekretsiya qilinishi kerak, uchmaydigan kislotalar uchun yana 80 mEq;",
       "depth": 1
      },
      {
@@ -700,11 +700,11 @@
       "depth": 0
      },
      {
-      "text": "alkalozda H⁺ kam sekretsiya qilinadi, HCO₃⁻ siydikka chiqadi; bu qonga H⁺ qo'shish bilan teng;",
+      "text": "alkalozda H⁺ kam sekretsiya qilinadi, HCO₃⁻ siydikka chiqadi; bu qonga H⁺ qo’shish bilan teng;",
       "depth": 1
      },
      {
-      "text": "atsidozda hamma HCO₃⁻ qayta so'riladi va yangi HCO₃⁻ qo'shiladi.",
+      "text": "atsidozda hamma HCO₃⁻ qayta so’riladi va yangi HCO₃⁻ qo’shiladi.",
       "depth": 1
      }
     ],
@@ -713,7 +713,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "HCO₃⁻ reabsorbsiyasi segmentlar bo'yicha (Fig. 31-4)",
+    "text": "HCO₃⁻ reabsorbsiyasi segmentlar bo’yicha (Fig. 31-4)",
     "id": "ch31-s-26-hco-reabsorbsiyasi-segmentlar-boyicha-fig-31-4",
     "bid": "ch31-u26"
    },
@@ -731,12 +731,12 @@
       "3672"
      ],
      [
-      "Qalin ko'tariluvchi tirsak",
+      "Qalin ko’tariluvchi tirsak",
       "~10%",
       "432"
      ],
      [
-      "Distal va yig'uvchi kanalchalar",
+      "Distal va yig’uvchi kanalchalar",
       "~4.9%",
       "215"
      ],
@@ -750,7 +750,7 @@
    },
    {
     "type": "paragraph",
-    "text": "Ingichka tirsaklarda H⁺ sekretsiyasi yo'q.",
+    "text": "Ingichka tirsaklarda H⁺ sekretsiyasi yo’q.",
     "bid": "ch31-u28"
    },
    {
@@ -770,7 +770,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Proksimal kanalcha, qalin ko'tariluvchi tirsak va erta distal kanalcha.",
+      "text": "Proksimal kanalcha, qalin ko’tariluvchi tirsak va erta distal kanalcha.",
       "depth": 0
      },
      {
@@ -778,7 +778,7 @@
       "depth": 0
      },
      {
-      "text": "Hujayra ichida CO₂ + H₂O karboangidraza ta'sirida H₂CO₃ ga, u esa H⁺ + HCO₃⁻ ga aylanadi.",
+      "text": "Hujayra ichida CO₂ + H₂O karboangidraza ta’sirida H₂CO₃ ga, u esa H⁺ + HCO₃⁻ ga aylanadi.",
       "depth": 1
      },
      {
@@ -786,7 +786,7 @@
       "depth": 1
      },
      {
-      "text": "HCO₃⁻ bazolateral tomondan qonga o'tadi: proksimalda Na⁺–HCO₃⁻ kotransporti, keyingi segmentlarda Cl⁻/HCO₃⁻ almashinuvi orqali.",
+      "text": "HCO₃⁻ bazolateral tomondan qonga o’tadi: proksimalda Na⁺–HCO₃⁻ kotransporti, keyingi segmentlarda Cl⁻/HCO₃⁻ almashinuvi orqali.",
       "depth": 1
      },
      {
@@ -794,11 +794,11 @@
       "depth": 1
      },
      {
-      "text": "Bu yo'l bilan bikarbonatning ~95% i so'riladi (kuniga ~4000 mEq H⁺). Minimal pH faqat **~6.7** (H⁺ 3–4 marta oshadi).",
+      "text": "Bu yo’l bilan bikarbonatning ~95% i so’riladi (kuniga ~4000 mEq H⁺). Minimal pH faqat **~6.7** (H⁺ 3–4 marta oshadi).",
       "depth": 0
      },
      {
-      "text": "Qonga kirgan HCO₃⁻ filtrlangan HCO₃⁻ ning o'zi emas, lekin miqdori bir xil. Bunda sof H⁺ chiqarilmaydi.",
+      "text": "Qonga kirgan HCO₃⁻ filtrlangan HCO₃⁻ ning o’zi emas, lekin miqdori bir xil. Bunda sof H⁺ chiqarilmaydi.",
       "depth": 0
      },
      {
@@ -824,7 +824,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Kech distal va yig'uvchi kanalchalar: birlamchi faol H⁺ sekretsiyasi (Fig. 31-6)",
+    "text": "Kech distal va yig’uvchi kanalchalar: birlamchi faol H⁺ sekretsiyasi (Fig. 31-6)",
     "id": "ch31-s-33-kech-distal-va-yiguvchi-kanalchalar-birlamchi-faol-h-sekrets",
     "bid": "ch31-u33"
    },
@@ -860,11 +860,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "pH 4.5 da erkin H⁺ atigi 0.03 mEq/L. 80 mEq ni erkin holda chiqarish uchun **2667 L** siydik kerak bo'lardi. Shuning uchun H⁺ buferlar bilan chiqadi (500 mEq/kungacha).",
+      "text": "pH 4.5 da erkin H⁺ atigi 0.03 mEq/L. 80 mEq ni erkin holda chiqarish uchun **2667 L** siydik kerak bo’lardi. Shuning uchun H⁺ buferlar bilan chiqadi (500 mEq/kungacha).",
       "depth": 0
      },
      {
-      "text": "Agar H⁺ HCO₃⁻ dan boshqa buferga bog'lansa, **qonga yangi HCO₃⁻** qo'shiladi.",
+      "text": "Agar H⁺ HCO₃⁻ dan boshqa buferga bog’lansa, **qonga yangi HCO₃⁻** qo’shiladi.",
       "depth": 0
      },
      {
@@ -876,11 +876,11 @@
       "depth": 0
      },
      {
-      "text": "**Proksimal kanalcha, qalin tirsak va distal kanalcha (Fig. 31-8)**: jigardan kelgan **glutamin** dan 2 NH₄⁺ + 2 HCO₃⁻ hosil bo'ladi. NH₄⁺ Na⁺ ga almashinib lumenga chiqadi, 2 yangi HCO₃⁻ qonga o'tadi.",
+      "text": "**Proksimal kanalcha, qalin tirsak va distal kanalcha (Fig. 31-8)**: jigardan kelgan **glutamin** dan 2 NH₄⁺ + 2 HCO₃⁻ hosil bo’ladi. NH₄⁺ Na⁺ ga almashinib lumenga chiqadi, 2 yangi HCO₃⁻ qonga o’tadi.",
       "depth": 1
      },
      {
-      "text": "**Yig'uvchi kanalchalar (Fig. 31-9)**: NH₃ membranadan oson o'tadi va lumenda sekretsiya qilingan H⁺ bilan NH₄⁺ hosil qiladi. NH₄⁺ membranadan o'tmaydi, lumenda \"qamalib\" qoladi va NH₄Cl holida chiqadi. Har bir NH₄⁺ uchun bitta yangi HCO₃⁻ hosil bo'ladi.",
+      "text": "**Yig’uvchi kanalchalar (Fig. 31-9)**: NH₃ membranadan oson o’tadi va lumenda sekretsiya qilingan H⁺ bilan NH₄⁺ hosil qiladi. NH₄⁺ membranadan o’tmaydi, lumenda \"qamalib\" qoladi va NH₄Cl holida chiqadi. Har bir NH₄⁺ uchun bitta yangi HCO₃⁻ hosil bo’ladi.",
       "depth": 1
      },
      {
@@ -892,7 +892,7 @@
       "depth": 2
      },
      {
-      "text": "**surunkali atsidozda NH₄⁺ chiqarilishi 500 mEq/kungacha** oshadi va bu dominant mexanizm bo'ladi.",
+      "text": "**surunkali atsidozda NH₄⁺ chiqarilishi 500 mEq/kungacha** oshadi va bu dominant mexanizm bo’ladi.",
       "depth": 2
      }
     ],
@@ -933,11 +933,11 @@
       "depth": 1
      },
      {
-      "text": "Barqaror holatda sof kislota ekskretsiyasi = uchmaydigan kislota ishlab chiqarilishi = qonga qo'shilgan yangi HCO₃⁻.",
+      "text": "Barqaror holatda sof kislota ekskretsiyasi = uchmaydigan kislota ishlab chiqarilishi = qonga qo’shilgan yangi HCO₃⁻.",
       "depth": 1
      },
      {
-      "text": "Alkalozda titrlanuvchi kislota va NH₄⁺ ~0 ga tushadi, HCO₃⁻ ekskretsiyasi oshadi va sof qiymat manfiy bo'ladi.",
+      "text": "Alkalozda titrlanuvchi kislota va NH₄⁺ ~0 ga tushadi, HCO₃⁻ ekskretsiyasi oshadi va sof qiymat manfiy bo’ladi.",
       "depth": 1
      }
     ],
@@ -958,7 +958,7 @@
     ],
     "rows": [
      [
-      "↑Pco₂ (hujayrada H⁺ ko'payadi)",
+      "↑Pco₂ (hujayrada H⁺ ko’payadi)",
       "↓Pco₂"
      ],
      [
@@ -1065,7 +1065,7 @@
    },
    {
     "type": "paragraph",
-    "text": "Qo'sh strelka birlamchi o'zgarishni bildiradi.",
+    "text": "Qo’sh strelka birlamchi o’zgarishni bildiradi.",
     "bid": "ch31-u49"
    },
    {
@@ -1073,7 +1073,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Atsidozda** kanalchada HCO₃⁻/H⁺ nisbati pasayadi. Hamma HCO₃⁻ so'riladi, ortiqcha H⁺ NH₄⁺ va titrlanuvchi kislota holida chiqadi va yangi HCO₃⁻ qo'shiladi.",
+      "text": "**Atsidozda** kanalchada HCO₃⁻/H⁺ nisbati pasayadi. Hamma HCO₃⁻ so’riladi, ortiqcha H⁺ NH₄⁺ va titrlanuvchi kislota holida chiqadi va yangi HCO₃⁻ qo’shiladi.",
       "depth": 0
      },
      {
@@ -1081,11 +1081,11 @@
       "depth": 1
      },
      {
-      "text": "Respirator atsidozda sabab ↑Pco₂ ning H⁺ sekretsiyasini rag'batlantirishi.",
+      "text": "Respirator atsidozda sabab ↑Pco₂ ning H⁺ sekretsiyasini rag’batlantirishi.",
       "depth": 1
      },
      {
-      "text": "Surunkali holatda 500 mEq/kungacha yangi HCO₃⁻ hosil bo'ladi.",
+      "text": "Surunkali holatda 500 mEq/kungacha yangi HCO₃⁻ hosil bo’ladi.",
       "depth": 1
      },
      {
@@ -1097,7 +1097,7 @@
       "depth": 1
      },
      {
-      "text": "Metabolik alkalozda filtrlangan HCO₃⁻ ko'payadi va nafas susayadi.",
+      "text": "Metabolik alkalozda filtrlangan HCO₃⁻ ko’payadi va nafas susayadi.",
       "depth": 1
      }
     ],
@@ -1120,15 +1120,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Respirator atsidoz**: medulladagi nafas markazi shikasti, nafas yo'llari obstruksiyasi, pnevmoniya, emfizema, o'pka membranasi yuzasining kamayishi. Kompensatsiya: buferlar va buyrak (bir necha kun).",
+      "text": "**Respirator atsidoz**: medulladagi nafas markazi shikasti, nafas yo’llari obstruksiyasi, pnevmoniya, emfizema, o’pka membranasi yuzasining kamayishi. Kompensatsiya: buferlar va buyrak (bir necha kun).",
       "depth": 0
      },
      {
-      "text": "**Respirator alkaloz**: psixonevroz (giperventilyatsiya), **baland tog'lar** (gipoksiya nafasni kuchaytiradi; fiziologik). Kompensatsiya: buferlar va buyrak HCO₃⁻ ni chiqaradi.",
+      "text": "**Respirator alkaloz**: psixonevroz (giperventilyatsiya), **baland tog’lar** (gipoksiya nafasni kuchaytiradi; fiziologik). Kompensatsiya: buferlar va buyrak HCO₃⁻ ni chiqaradi.",
       "depth": 0
      },
      {
-      "text": "**Metabolik atsidoz**: kislota chiqarilmasligi, ortiqcha hosil bo'lishi, kiritilishi yoki asos yo'qotilishi.",
+      "text": "**Metabolik atsidoz**: kislota chiqarilmasligi, ortiqcha hosil bo’lishi, kiritilishi yoki asos yo’qotilishi.",
       "depth": 0
      },
      {
@@ -1136,7 +1136,7 @@
       "depth": 1
      },
      {
-      "text": "**Diareya**: eng ko'p uchraydigan sabab. NaHCO₃ najas bilan yo'qotiladi; yosh bolalarda o'limga olib kelishi mumkin.",
+      "text": "**Diareya**: eng ko’p uchraydigan sabab. NaHCO₃ najas bilan yo’qotiladi; yosh bolalarda o’limga olib kelishi mumkin.",
       "depth": 1
      },
      {
@@ -1144,7 +1144,7 @@
       "depth": 1
      },
      {
-      "text": "**Qandli diabet**: atsetoatsetat kislotasi to'planadi, kislota ekskretsiyasi 500 mmol/kungacha yetadi.",
+      "text": "**Qandli diabet**: atsetoatsetat kislotasi to’planadi, kislota ekskretsiyasi 500 mmol/kungacha yetadi.",
       "depth": 1
      },
      {
@@ -1152,7 +1152,7 @@
       "depth": 1
      },
      {
-      "text": "**Surunkali buyrak yetishmovchiligi**: kuchsiz kislotalarning anionlari to'planadi, fosfat va NH₄⁺ ekskretsiyasi kamayadi.",
+      "text": "**Surunkali buyrak yetishmovchiligi**: kuchsiz kislotalarning anionlari to’planadi, fosfat va NH₄⁺ ekskretsiyasi kamayadi.",
       "depth": 1
      },
      {
@@ -1160,7 +1160,7 @@
       "depth": 0
      },
      {
-      "text": "**diuretiklar** (karboangidraza ingibitorlaridan tashqari): distal oqim oshadi, Na⁺ reabsorbsiyasiga bog'liq H⁺ sekretsiyasi kuchayadi, hajm kamayadi va Ang II hamda aldosteron oshadi;",
+      "text": "**diuretiklar** (karboangidraza ingibitorlaridan tashqari): distal oqim oshadi, Na⁺ reabsorbsiyasiga bog’liq H⁺ sekretsiyasi kuchayadi, hajm kamayadi va Ang II hamda aldosteron oshadi;",
       "depth": 1
      },
      {
@@ -1168,7 +1168,7 @@
       "depth": 1
      },
      {
-      "text": "**faqat me'da suyuqligini qusish**: HCl yo'qotiladi; chaqaloqlarda **pilorik stenoz**;",
+      "text": "**faqat me’da suyuqligini qusish**: HCl yo’qotiladi; chaqaloqlarda **pilorik stenoz**;",
       "depth": 1
      },
      {
@@ -1194,15 +1194,15 @@
       "depth": 0
      },
      {
-      "text": "**Atsidozda**: og'iz orqali NaHCO₃. Vena ichiga NaHCO₃ o'rniga ko'pincha natriy laktat yoki glyukonat yuboriladi; ular metabolizmlanib NaHCO₃ qoldiradi.",
+      "text": "**Atsidozda**: og’iz orqali NaHCO₃. Vena ichiga NaHCO₃ o’rniga ko’pincha natriy laktat yoki glyukonat yuboriladi; ular metabolizmlanib NaHCO₃ qoldiradi.",
       "depth": 0
      },
      {
-      "text": "**Alkalozda**: og'iz orqali NH₄Cl. Jigar uni mochevinaga aylantiradi va HCl ajraladi. Vena ichiga yuborish xavfli (NH₄⁺ toksik).",
+      "text": "**Alkalozda**: og’iz orqali NH₄Cl. Jigar uni mochevinaga aylantiradi va HCl ajraladi. Vena ichiga yuborish xavfli (NH₄⁺ toksik).",
       "depth": 0
      },
      {
-      "text": "Hajm kamayishi bilan bog'liq alkalozda, yurak yetishmovchiligi bo'lmasa, **izotonik NaCl** eritmasi yuboriladi.",
+      "text": "Hajm kamayishi bilan bog’liq alkalozda, yurak yetishmovchiligi bo’lmasa, **izotonik NaCl** eritmasi yuboriladi.",
       "depth": 0
      }
     ],
@@ -1244,7 +1244,7 @@
       "depth": 1
      },
      {
-      "text": "Kompensatsiya kutilganidan boshqacha bo'lsa, **aralash buzilish**. Masalan: diareya (metabolik atsidoz) + emfizema (respirator atsidoz).",
+      "text": "Kompensatsiya kutilganidan boshqacha bo’lsa, **aralash buzilish**. Masalan: diareya (metabolik atsidoz) + emfizema (respirator atsidoz).",
       "depth": 0
      }
     ],
@@ -1255,7 +1255,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Nomogramma (Fig. 31-11)**: kompensatsiya uchun vaqt kerak. Ventilyatsiya kompensatsiyasi 6–12 soatda, metabolik kompensatsiya 3–5 kunda to'liq bo'ladi. Qiymat soyalangan maydondan tashqarida bo'lsa, aralash buzilish taxmin qilinadi.",
+      "text": "**Nomogramma (Fig. 31-11)**: kompensatsiya uchun vaqt kerak. Ventilyatsiya kompensatsiyasi 6–12 soatda, metabolik kompensatsiya 3–5 kunda to’liq bo’ladi. Qiymat soyalangan maydondan tashqarida bo’lsa, aralash buzilish taxmin qilinadi.",
       "depth": 0
      },
      {
@@ -1282,7 +1282,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Anion oralig'i (anion gap)",
+    "text": "Anion oralig’i (anion gap)",
     "id": "ch31-s-61-anion-oraligi-anion-gap",
     "bid": "ch31-u61"
    },
@@ -1295,11 +1295,11 @@
       "depth": 0
      },
      {
-      "text": "O'lchanmaydigan anionlar: albumin, fosfat, sulfat, organik anionlar.",
+      "text": "O’lchanmaydigan anionlar: albumin, fosfat, sulfat, organik anionlar.",
       "depth": 1
      },
      {
-      "text": "O'lchanmaydigan kationlar: Ca²⁺, Mg²⁺, K⁺.",
+      "text": "O’lchanmaydigan kationlar: Ca²⁺, Mg²⁺, K⁺.",
       "depth": 1
      },
      {
@@ -1351,7 +1351,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Bog'liqlik",
+    "text": "Bog’liqlik",
     "id": "ch31-s-65-bogliqlik",
     "bid": "ch31-u65"
    },
@@ -1364,7 +1364,7 @@
       "depth": 0
      },
      {
-      "text": "**30-bob**: K⁺ va H⁺ ning o'zaro aloqasi.",
+      "text": "**30-bob**: K⁺ va H⁺ ning o’zaro aloqasi.",
       "depth": 0
      },
      {
@@ -1372,11 +1372,11 @@
       "depth": 0
      },
      {
-      "text": "**44-bob**: baland tog'lar.",
+      "text": "**44-bob**: baland tog’lar.",
       "depth": 0
      },
      {
-      "text": "**65-bob**: me'da HCl.",
+      "text": "**65-bob**: me’da HCl.",
       "depth": 0
      },
      {
@@ -1406,7 +1406,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Diareya giperxloremik metabolik atsidozga, me'da suyuqligini qusish metabolik alkalozga olib keladi; pilorik stenoz.",
+      "text": "Diareya giperxloremik metabolik atsidozga, me’da suyuqligini qusish metabolik alkalozga olib keladi; pilorik stenoz.",
       "depth": 0
      },
      {
@@ -1434,11 +1434,11 @@
       "depth": 0
      },
      {
-      "text": "Baland tog'da respirator alkaloz.",
+      "text": "Baland tog’da respirator alkaloz.",
       "depth": 0
      },
      {
-      "text": "Gaz tahlili algoritmi va anion oralig'i.",
+      "text": "Gaz tahlili algoritmi va anion oralig’i.",
       "depth": 0
      },
      {
@@ -2962,7 +2962,7 @@
    "id": "ch31-t-kimyoviy-buferlar",
    "termUz": "Kimyoviy buferlar",
    "original": null,
-   "contextUz": "Kimyoviy buferlar: soniyalarda ishlaydi, lekin H⁺ ni yo'qotmaydi, faqat bog'lab turadi.",
+   "contextUz": "Kimyoviy buferlar: soniyalarda ishlaydi, lekin H⁺ ni yo’qotmaydi, faqat bog’lab turadi.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3052,7 +3052,7 @@
    "id": "ch31-t-80-meq",
    "termUz": "~80 mEq",
    "original": null,
-   "contextUz": "Kuniga ~80 mEq uchmaydigan kislota hosil bo'ladi, asosan oqsil metabolizmidan.",
+   "contextUz": "Kuniga ~80 mEq uchmaydigan kislota hosil bo’ladi, asosan oqsil metabolizmidan.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3080,9 +3080,9 @@
   },
   {
    "id": "ch31-t-kuchli-kislota-qoshilsa",
-   "termUz": "Kuchli kislota qo'shilsa",
+   "termUz": "Kuchli kislota qo’shilsa",
    "original": null,
-   "contextUz": "Kuchli kislota qo'shilsa: HCl + HCO₃⁻ → H₂CO₃ → CO₂ + H₂O.",
+   "contextUz": "Kuchli kislota qo’shilsa: HCl + HCO₃⁻ → H₂CO₃ → CO₂ + H₂O.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3090,9 +3090,9 @@
   },
   {
    "id": "ch31-t-kuchli-asos-qoshilsa",
-   "termUz": "Kuchli asos qo'shilsa",
+   "termUz": "Kuchli asos qo’shilsa",
    "original": null,
-   "contextUz": "Kuchli asos qo'shilsa: NaOH + H₂CO₃ → NaHCO₃ + H₂O.",
+   "contextUz": "Kuchli asos qo’shilsa: NaOH + H₂CO₃ → NaHCO₃ + H₂O.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3130,9 +3130,9 @@
   },
   {
    "id": "ch31-t-titrlash-egri-chizigi-fig-31-1",
-   "termUz": "Titrlash egri chizig'i (Fig. 31-1)",
+   "termUz": "Titrlash egri chizig’i (Fig. 31-1)",
    "original": null,
-   "contextUz": "Titrlash egri chizig'i (Fig. 31-1): komponentlar teng bo'lsa pH = pK; bufer pK ±1 oralig'ida (5.",
+   "contextUz": "Titrlash egri chizig’i (Fig. 31-1): komponentlar teng bo’lsa pH = pK; bufer pK ±1 oralig’ida (5.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3152,7 +3152,7 @@
    "id": "ch31-t-20-1",
    "termUz": "20 : 1",
    "original": null,
-   "contextUz": "1, ya'ni HCO₃⁻ : CO₂ ≈ 20 : 1.",
+   "contextUz": "1, ya’ni HCO₃⁻ : CO₂ ≈ 20 : 1.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3162,7 +3162,7 @@
    "id": "ch31-t-ecf-ning-eng-kuchli-buferi",
    "termUz": "ECF ning eng kuchli buferi",
    "original": null,
-   "contextUz": "Shunga qaramay ECF ning eng kuchli buferi, chunki ikkala komponenti alohida boshqariladi: HCO₃⁻ ni buyrak, CO₂ ni o'pka boshqaradi.",
+   "contextUz": "Shunga qaramay ECF ning eng kuchli buferi, chunki ikkala komponenti alohida boshqariladi: HCO₃⁻ ni buyrak, CO₂ ni o’pka boshqaradi.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3172,7 +3172,7 @@
    "id": "ch31-t-buzilishlar-tasnifi",
    "termUz": "Buzilishlar tasnifi",
    "original": null,
-   "contextUz": "Buzilishlar tasnifi: HCO₃⁻ ning birlamchi o'zgarishi metabolik buzilish; Pco₂ ning birlamchi o'zgarishi respirator buzilish.",
+   "contextUz": "Buzilishlar tasnifi: HCO₃⁻ ning birlamchi o’zgarishi metabolik buzilish; Pco₂ ning birlamchi o’zgarishi respirator buzilish.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3182,7 +3182,7 @@
    "id": "ch31-t-metabolik",
    "termUz": "metabolik",
    "original": null,
-   "contextUz": "Buzilishlar tasnifi: HCO₃⁻ ning birlamchi o'zgarishi metabolik buzilish; Pco₂ ning birlamchi o'zgarishi respirator buzilish.",
+   "contextUz": "Buzilishlar tasnifi: HCO₃⁻ ning birlamchi o’zgarishi metabolik buzilish; Pco₂ ning birlamchi o’zgarishi respirator buzilish.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3192,7 +3192,7 @@
    "id": "ch31-t-respirator",
    "termUz": "respirator",
    "original": null,
-   "contextUz": "Buzilishlar tasnifi: HCO₃⁻ ning birlamchi o'zgarishi metabolik buzilish; Pco₂ ning birlamchi o'zgarishi respirator buzilish.",
+   "contextUz": "Buzilishlar tasnifi: HCO₃⁻ ning birlamchi o’zgarishi metabolik buzilish; Pco₂ ning birlamchi o’zgarishi respirator buzilish.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3250,9 +3250,9 @@
   },
   {
    "id": "ch31-t-ventilyatsiyaning-ph-ga-tasiri-fig-31-2",
-   "termUz": "Ventilyatsiyaning pH ga ta'siri (Fig. 31-2)",
+   "termUz": "Ventilyatsiyaning pH ga ta’siri (Fig. 31-2)",
    "original": null,
-   "contextUz": "Ventilyatsiyaning pH ga ta'siri (Fig. 31-2): ventilyatsiya 2 marta oshsa, pH +0.",
+   "contextUz": "Ventilyatsiyaning pH ga ta’siri (Fig. 31-2): ventilyatsiya 2 marta oshsa, pH +0.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3260,9 +3260,9 @@
   },
   {
    "id": "ch31-t-ph-ning-ventilyatsiyaga-tasiri-fig-31-3",
-   "termUz": "pH ning ventilyatsiyaga ta'siri (Fig. 31-3)",
+   "termUz": "pH ning ventilyatsiyaga ta’siri (Fig. 31-3)",
    "original": null,
-   "contextUz": "pH ning ventilyatsiyaga ta'siri (Fig. 31-3): pH 7.",
+   "contextUz": "pH ning ventilyatsiyaga ta’siri (Fig. 31-3): pH 7.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3302,7 +3302,7 @@
    "id": "ch31-t-buferlash-quvvati",
    "termUz": "Buferlash quvvati",
    "original": null,
-   "contextUz": "Buferlash quvvati barcha ECF kimyoviy buferlarining yig'indisidan 1–2 marta katta.",
+   "contextUz": "Buferlash quvvati barcha ECF kimyoviy buferlarining yig’indisidan 1–2 marta katta.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3310,9 +3310,9 @@
   },
   {
    "id": "ch31-t-opka-kasalligi",
-   "termUz": "O'pka kasalligi",
-   "original": "masalan, og'ir emfizema",
-   "contextUz": "O'pka kasalligi (masalan, og'ir emfizema) respirator atsidozga olib keladi.",
+   "termUz": "O’pka kasalligi",
+   "original": "masalan, og’ir emfizema",
+   "contextUz": "O’pka kasalligi (masalan, og’ir emfizema) respirator atsidozga olib keladi.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3322,7 +3322,7 @@
    "id": "ch31-t-kunlik-hisob",
    "termUz": "Kunlik hisob",
    "original": null,
-   "contextUz": "Kunlik hisob: HCO₃⁻ filtrlanadi: 180 L × 24 mEq/L = 4320 mEq/kun; uni qayta so'rish uchun 4320 mEq H⁺ sekretsiya qilinishi kerak, uchmaydigan kislotalar uchun yana 80 mEq; jami ~4400 mEq/kun H⁺ sekretsiya qilinadi.",
+   "contextUz": "Kunlik hisob: HCO₃⁻ filtrlanadi: 180 L × 24 mEq/L = 4320 mEq/kun; uni qayta so’rish uchun 4320 mEq H⁺ sekretsiya qilinishi kerak, uchmaydigan kislotalar uchun yana 80 mEq; jami ~4400 mEq/kun H⁺ sekretsiya qilinadi.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3332,7 +3332,7 @@
    "id": "ch31-t-4320-meq-kun",
    "termUz": "4320 mEq/kun",
    "original": null,
-   "contextUz": "Kunlik hisob: HCO₃⁻ filtrlanadi: 180 L × 24 mEq/L = 4320 mEq/kun; uni qayta so'rish uchun 4320 mEq H⁺ sekretsiya qilinishi kerak, uchmaydigan kislotalar uchun yana 80 mEq; jami ~4400 mEq/kun H⁺ sekretsiya qilinadi.",
+   "contextUz": "Kunlik hisob: HCO₃⁻ filtrlanadi: 180 L × 24 mEq/L = 4320 mEq/kun; uni qayta so’rish uchun 4320 mEq H⁺ sekretsiya qilinishi kerak, uchmaydigan kislotalar uchun yana 80 mEq; jami ~4400 mEq/kun H⁺ sekretsiya qilinadi.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3342,7 +3342,7 @@
    "id": "ch31-t-4400-meq-kun-h",
    "termUz": "~4400 mEq/kun H⁺",
    "original": null,
-   "contextUz": "Kunlik hisob: HCO₃⁻ filtrlanadi: 180 L × 24 mEq/L = 4320 mEq/kun; uni qayta so'rish uchun 4320 mEq H⁺ sekretsiya qilinishi kerak, uchmaydigan kislotalar uchun yana 80 mEq; jami ~4400 mEq/kun H⁺ sekretsiya qilinadi.",
+   "contextUz": "Kunlik hisob: HCO₃⁻ filtrlanadi: 180 L × 24 mEq/L = 4320 mEq/kun; uni qayta so’rish uchun 4320 mEq H⁺ sekretsiya qilinishi kerak, uchmaydigan kislotalar uchun yana 80 mEq; jami ~4400 mEq/kun H⁺ sekretsiya qilinadi.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3372,7 +3372,7 @@
    "id": "ch31-t-natija",
    "termUz": "Natija",
    "original": null,
-   "contextUz": "Natija: alkalozda H⁺ kam sekretsiya qilinadi, HCO₃⁻ siydikka chiqadi; bu qonga H⁺ qo'shish bilan teng; atsidozda hamma HCO₃⁻ qayta so'riladi va yangi HCO₃⁻ qo'shiladi.",
+   "contextUz": "Natija: alkalozda H⁺ kam sekretsiya qilinadi, HCO₃⁻ siydikka chiqadi; bu qonga H⁺ qo’shish bilan teng; atsidozda hamma HCO₃⁻ qayta so’riladi va yangi HCO₃⁻ qo’shiladi.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3382,7 +3382,7 @@
    "id": "ch31-t-mexanizm",
    "termUz": "Mexanizm",
    "original": null,
-   "contextUz": "Mexanizm: Hujayra ichida CO₂ + H₂O karboangidraza ta'sirida H₂CO₃ ga, u esa H⁺ + HCO₃⁻ ga aylanadi.",
+   "contextUz": "Mexanizm: Hujayra ichida CO₂ + H₂O karboangidraza ta’sirida H₂CO₃ ga, u esa H⁺ + HCO₃⁻ ga aylanadi.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3442,7 +3442,7 @@
    "id": "ch31-t-2667-l",
    "termUz": "2667 L",
    "original": null,
-   "contextUz": "80 mEq ni erkin holda chiqarish uchun 2667 L siydik kerak bo'lardi.",
+   "contextUz": "80 mEq ni erkin holda chiqarish uchun 2667 L siydik kerak bo’lardi.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3452,7 +3452,7 @@
    "id": "ch31-t-qonga-yangi-hco",
    "termUz": "qonga yangi HCO₃⁻",
    "original": null,
-   "contextUz": "Agar H⁺ HCO₃⁻ dan boshqa buferga bog'lansa, qonga yangi HCO₃⁻ qo'shiladi.",
+   "contextUz": "Agar H⁺ HCO₃⁻ dan boshqa buferga bog’lansa, qonga yangi HCO₃⁻ qo’shiladi.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3492,7 +3492,7 @@
    "id": "ch31-t-proksimal-kanalcha-qalin-tirsak-va-distal-kanalcha-fig-31-8",
    "termUz": "Proksimal kanalcha, qalin tirsak va distal kanalcha (Fig. 31-8)",
    "original": null,
-   "contextUz": "Ammiak tizimi miqdor jihatidan muhimroq: Proksimal kanalcha, qalin tirsak va distal kanalcha (Fig. 31-8): jigardan kelgan glutamin dan 2 NH₄⁺ + 2 HCO₃⁻ hosil bo'ladi.",
+   "contextUz": "Ammiak tizimi miqdor jihatidan muhimroq: Proksimal kanalcha, qalin tirsak va distal kanalcha (Fig. 31-8): jigardan kelgan glutamin dan 2 NH₄⁺ + 2 HCO₃⁻ hosil bo’ladi.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3502,7 +3502,7 @@
    "id": "ch31-t-glutamin",
    "termUz": "glutamin",
    "original": null,
-   "contextUz": "31-8): jigardan kelgan glutamin dan 2 NH₄⁺ + 2 HCO₃⁻ hosil bo'ladi.",
+   "contextUz": "31-8): jigardan kelgan glutamin dan 2 NH₄⁺ + 2 HCO₃⁻ hosil bo’ladi.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3510,9 +3510,9 @@
   },
   {
    "id": "ch31-t-yiguvchi-kanalchalar-fig-31-9",
-   "termUz": "Yig'uvchi kanalchalar (Fig. 31-9)",
+   "termUz": "Yig’uvchi kanalchalar (Fig. 31-9)",
    "original": null,
-   "contextUz": "Yig'uvchi kanalchalar (Fig. 31-9): NH₃ membranadan oson o'tadi va lumenda sekretsiya qilingan H⁺ bilan NH₄⁺ hosil qiladi.",
+   "contextUz": "Yig’uvchi kanalchalar (Fig. 31-9): NH₃ membranadan oson o’tadi va lumenda sekretsiya qilingan H⁺ bilan NH₄⁺ hosil qiladi.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3532,7 +3532,7 @@
    "id": "ch31-t-surunkali-atsidozda-nh-chiqarilishi-500-meq-kungacha",
    "termUz": "surunkali atsidozda NH₄⁺ chiqarilishi 500 mEq/kungacha",
    "original": null,
-   "contextUz": "normal holda chiqarilgan kislota va yangi HCO₃⁻ ning ~50% i; surunkali atsidozda NH₄⁺ chiqarilishi 500 mEq/kungacha oshadi va bu dominant mexanizm bo'ladi.",
+   "contextUz": "normal holda chiqarilgan kislota va yangi HCO₃⁻ ning ~50% i; surunkali atsidozda NH₄⁺ chiqarilishi 500 mEq/kungacha oshadi va bu dominant mexanizm bo’ladi.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3552,7 +3552,7 @@
    "id": "ch31-t-oshiradi",
    "termUz": "oshiradi",
    "original": null,
-   "contextUz": "H⁺ sekretsiyasi va HCO₃⁻ reabsorbsiyasini oshiradi Kamaytiradi ↑Pco₂ (hujayrada H⁺ ko'payadi) ↓Pco₂ ↑H⁺, ↓HCO₃⁻ ↓H⁺, ↑HCO₃⁻ ↓ECF hajmi ↑ECF hajmi ↑Ang II (NHE ni faollashtiradi) ↓Ang II ↑Aldosteron (A turi interkalyar hujayralar) ↓Aldosteron Gipokaliemiya Giperkaliemiya",
+   "contextUz": "H⁺ sekretsiyasi va HCO₃⁻ reabsorbsiyasini oshiradi Kamaytiradi ↑Pco₂ (hujayrada H⁺ ko’payadi) ↓Pco₂ ↑H⁺, ↓HCO₃⁻ ↓H⁺, ↑HCO₃⁻ ↓ECF hajmi ↑ECF hajmi ↑Ang II (NHE ni faollashtiradi) ↓Ang II ↑Aldosteron (A turi interkalyar hujayralar) ↓Aldosteron Gipokaliemiya Giperkaliemiya",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3562,7 +3562,7 @@
    "id": "ch31-t-kamaytiradi",
    "termUz": "Kamaytiradi",
    "original": null,
-   "contextUz": "H⁺ sekretsiyasi va HCO₃⁻ reabsorbsiyasini oshiradi Kamaytiradi ↑Pco₂ (hujayrada H⁺ ko'payadi) ↓Pco₂ ↑H⁺, ↓HCO₃⁻ ↓H⁺, ↑HCO₃⁻ ↓ECF hajmi ↑ECF hajmi ↑Ang II (NHE ni faollashtiradi) ↓Ang II ↑Aldosteron (A turi interkalyar hujayralar) ↓Aldosteron Gipokaliemiya Giperkaliemiya",
+   "contextUz": "H⁺ sekretsiyasi va HCO₃⁻ reabsorbsiyasini oshiradi Kamaytiradi ↑Pco₂ (hujayrada H⁺ ko’payadi) ↓Pco₂ ↑H⁺, ↓HCO₃⁻ ↓H⁺, ↑HCO₃⁻ ↓ECF hajmi ↑ECF hajmi ↑Ang II (NHE ni faollashtiradi) ↓Ang II ↑Aldosteron (A turi interkalyar hujayralar) ↓Aldosteron Gipokaliemiya Giperkaliemiya",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3572,7 +3572,7 @@
    "id": "ch31-t-gipokaliemiya",
    "termUz": "Gipokaliemiya",
    "original": null,
-   "contextUz": "H⁺ sekretsiyasi va HCO₃⁻ reabsorbsiyasini oshiradi Kamaytiradi ↑Pco₂ (hujayrada H⁺ ko'payadi) ↓Pco₂ ↑H⁺, ↓HCO₃⁻ ↓H⁺, ↑HCO₃⁻ ↓ECF hajmi ↑ECF hajmi ↑Ang II (NHE ni faollashtiradi) ↓Ang II ↑Aldosteron (A turi interkalyar hujayralar) ↓Aldosteron Gipokaliemiya Giperkaliemiya",
+   "contextUz": "H⁺ sekretsiyasi va HCO₃⁻ reabsorbsiyasini oshiradi Kamaytiradi ↑Pco₂ (hujayrada H⁺ ko’payadi) ↓Pco₂ ↑H⁺, ↓HCO₃⁻ ↓H⁺, ↑HCO₃⁻ ↓ECF hajmi ↑ECF hajmi ↑Ang II (NHE ni faollashtiradi) ↓Ang II ↑Aldosteron (A turi interkalyar hujayralar) ↓Aldosteron Gipokaliemiya Giperkaliemiya",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3582,7 +3582,7 @@
    "id": "ch31-t-giperkaliemiya",
    "termUz": "Giperkaliemiya",
    "original": null,
-   "contextUz": "H⁺ sekretsiyasi va HCO₃⁻ reabsorbsiyasini oshiradi Kamaytiradi ↑Pco₂ (hujayrada H⁺ ko'payadi) ↓Pco₂ ↑H⁺, ↓HCO₃⁻ ↓H⁺, ↑HCO₃⁻ ↓ECF hajmi ↑ECF hajmi ↑Ang II (NHE ni faollashtiradi) ↓Ang II ↑Aldosteron (A turi interkalyar hujayralar) ↓Aldosteron Gipokaliemiya Giperkaliemiya",
+   "contextUz": "H⁺ sekretsiyasi va HCO₃⁻ reabsorbsiyasini oshiradi Kamaytiradi ↑Pco₂ (hujayrada H⁺ ko’payadi) ↓Pco₂ ↑H⁺, ↓HCO₃⁻ ↓H⁺, ↑HCO₃⁻ ↓ECF hajmi ↑ECF hajmi ↑Ang II (NHE ni faollashtiradi) ↓Ang II ↑Aldosteron (A turi interkalyar hujayralar) ↓Aldosteron Gipokaliemiya Giperkaliemiya",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3662,7 +3662,7 @@
    "id": "ch31-t-respirator-atsidoz",
    "termUz": "Respirator atsidoz",
    "original": null,
-   "contextUz": "Respirator atsidoz: medulladagi nafas markazi shikasti, nafas yo'llari obstruksiyasi, pnevmoniya, emfizema, o'pka membranasi yuzasining kamayishi.",
+   "contextUz": "Respirator atsidoz: medulladagi nafas markazi shikasti, nafas yo’llari obstruksiyasi, pnevmoniya, emfizema, o’pka membranasi yuzasining kamayishi.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3672,7 +3672,7 @@
    "id": "ch31-t-respirator-alkaloz",
    "termUz": "Respirator alkaloz",
    "original": null,
-   "contextUz": "Respirator alkaloz: psixonevroz (giperventilyatsiya), baland tog'lar (gipoksiya nafasni kuchaytiradi; fiziologik).",
+   "contextUz": "Respirator alkaloz: psixonevroz (giperventilyatsiya), baland tog’lar (gipoksiya nafasni kuchaytiradi; fiziologik).",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3680,9 +3680,9 @@
   },
   {
    "id": "ch31-t-baland-toglar",
-   "termUz": "baland tog'lar",
+   "termUz": "baland tog’lar",
    "original": "gipoksiya nafasni kuchaytiradi; fiziologik",
-   "contextUz": "Respirator alkaloz: psixonevroz (giperventilyatsiya), baland tog'lar (gipoksiya nafasni kuchaytiradi; fiziologik).",
+   "contextUz": "Respirator alkaloz: psixonevroz (giperventilyatsiya), baland tog’lar (gipoksiya nafasni kuchaytiradi; fiziologik).",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3692,7 +3692,7 @@
    "id": "ch31-t-metabolik-atsidoz",
    "termUz": "Metabolik atsidoz",
    "original": null,
-   "contextUz": "Metabolik atsidoz: kislota chiqarilmasligi, ortiqcha hosil bo'lishi, kiritilishi yoki asos yo'qotilishi.",
+   "contextUz": "Metabolik atsidoz: kislota chiqarilmasligi, ortiqcha hosil bo’lishi, kiritilishi yoki asos yo’qotilishi.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3722,7 +3722,7 @@
    "id": "ch31-t-diareya",
    "termUz": "Diareya",
    "original": null,
-   "contextUz": "Diareya: eng ko'p uchraydigan sabab.",
+   "contextUz": "Diareya: eng ko’p uchraydigan sabab.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3742,7 +3742,7 @@
    "id": "ch31-t-qandli-diabet",
    "termUz": "Qandli diabet",
    "original": null,
-   "contextUz": "Qandli diabet: atsetoatsetat kislotasi to'planadi, kislota ekskretsiyasi 500 mmol/kungacha yetadi.",
+   "contextUz": "Qandli diabet: atsetoatsetat kislotasi to’planadi, kislota ekskretsiyasi 500 mmol/kungacha yetadi.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3762,7 +3762,7 @@
    "id": "ch31-t-surunkali-buyrak-yetishmovchiligi",
    "termUz": "Surunkali buyrak yetishmovchiligi",
    "original": null,
-   "contextUz": "Surunkali buyrak yetishmovchiligi: kuchsiz kislotalarning anionlari to'planadi, fosfat va NH₄⁺ ekskretsiyasi kamayadi.",
+   "contextUz": "Surunkali buyrak yetishmovchiligi: kuchsiz kislotalarning anionlari to’planadi, fosfat va NH₄⁺ ekskretsiyasi kamayadi.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3772,7 +3772,7 @@
    "id": "ch31-t-metabolik-alkaloz",
    "termUz": "Metabolik alkaloz",
    "original": null,
-   "contextUz": "Metabolik alkaloz: diuretiklar (karboangidraza ingibitorlaridan tashqari): distal oqim oshadi, Na⁺ reabsorbsiyasiga bog'liq H⁺ sekretsiyasi kuchayadi, hajm kamayadi va Ang II hamda aldosteron oshadi; ortiqcha aldosteron; faqat me'da suyuqligini qusish: HCl yo'qotiladi; chaqaloqlarda pilorik stenoz; ishqoriy dorilar ichish: NaHCO₃ (gastrit yoki yarani davolashda).",
+   "contextUz": "Metabolik alkaloz: diuretiklar (karboangidraza ingibitorlaridan tashqari): distal oqim oshadi, Na⁺ reabsorbsiyasiga bog’liq H⁺ sekretsiyasi kuchayadi, hajm kamayadi va Ang II hamda aldosteron oshadi; ortiqcha aldosteron; faqat me’da suyuqligini qusish: HCl yo’qotiladi; chaqaloqlarda pilorik stenoz; ishqoriy dorilar ichish: NaHCO₃ (gastrit yoki yarani davolashda).",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3782,7 +3782,7 @@
    "id": "ch31-t-diuretiklar",
    "termUz": "diuretiklar",
    "original": "karboangidraza ingibitorlaridan tashqari",
-   "contextUz": "Metabolik alkaloz: diuretiklar (karboangidraza ingibitorlaridan tashqari): distal oqim oshadi, Na⁺ reabsorbsiyasiga bog'liq H⁺ sekretsiyasi kuchayadi, hajm kamayadi va Ang II hamda aldosteron oshadi; ortiqcha aldosteron; faqat me'da suyuqligini qusish: HCl yo'qotiladi; chaqaloqlarda pilorik stenoz; ishqoriy dorilar ichish: NaHCO₃ (gastrit yoki yarani davolashda).",
+   "contextUz": "Metabolik alkaloz: diuretiklar (karboangidraza ingibitorlaridan tashqari): distal oqim oshadi, Na⁺ reabsorbsiyasiga bog’liq H⁺ sekretsiyasi kuchayadi, hajm kamayadi va Ang II hamda aldosteron oshadi; ortiqcha aldosteron; faqat me’da suyuqligini qusish: HCl yo’qotiladi; chaqaloqlarda pilorik stenoz; ishqoriy dorilar ichish: NaHCO₃ (gastrit yoki yarani davolashda).",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3792,7 +3792,7 @@
    "id": "ch31-t-ortiqcha-aldosteron",
    "termUz": "ortiqcha aldosteron",
    "original": null,
-   "contextUz": "Metabolik alkaloz: diuretiklar (karboangidraza ingibitorlaridan tashqari): distal oqim oshadi, Na⁺ reabsorbsiyasiga bog'liq H⁺ sekretsiyasi kuchayadi, hajm kamayadi va Ang II hamda aldosteron oshadi; ortiqcha aldosteron; faqat me'da suyuqligini qusish: HCl yo'qotiladi; chaqaloqlarda pilorik stenoz; ishqoriy dorilar ichish: NaHCO₃ (gastrit yoki yarani davolashda).",
+   "contextUz": "Metabolik alkaloz: diuretiklar (karboangidraza ingibitorlaridan tashqari): distal oqim oshadi, Na⁺ reabsorbsiyasiga bog’liq H⁺ sekretsiyasi kuchayadi, hajm kamayadi va Ang II hamda aldosteron oshadi; ortiqcha aldosteron; faqat me’da suyuqligini qusish: HCl yo’qotiladi; chaqaloqlarda pilorik stenoz; ishqoriy dorilar ichish: NaHCO₃ (gastrit yoki yarani davolashda).",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3800,9 +3800,9 @@
   },
   {
    "id": "ch31-t-faqat-meda-suyuqligini-qusish",
-   "termUz": "faqat me'da suyuqligini qusish",
+   "termUz": "faqat me’da suyuqligini qusish",
    "original": null,
-   "contextUz": "Metabolik alkaloz: diuretiklar (karboangidraza ingibitorlaridan tashqari): distal oqim oshadi, Na⁺ reabsorbsiyasiga bog'liq H⁺ sekretsiyasi kuchayadi, hajm kamayadi va Ang II hamda aldosteron oshadi; ortiqcha aldosteron; faqat me'da suyuqligini qusish: HCl yo'qotiladi; chaqaloqlarda pilorik stenoz; ishqoriy dorilar ichish: NaHCO₃ (gastrit yoki yarani davolashda).",
+   "contextUz": "Metabolik alkaloz: diuretiklar (karboangidraza ingibitorlaridan tashqari): distal oqim oshadi, Na⁺ reabsorbsiyasiga bog’liq H⁺ sekretsiyasi kuchayadi, hajm kamayadi va Ang II hamda aldosteron oshadi; ortiqcha aldosteron; faqat me’da suyuqligini qusish: HCl yo’qotiladi; chaqaloqlarda pilorik stenoz; ishqoriy dorilar ichish: NaHCO₃ (gastrit yoki yarani davolashda).",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3812,7 +3812,7 @@
    "id": "ch31-t-pilorik-stenoz",
    "termUz": "pilorik stenoz",
    "original": null,
-   "contextUz": "Metabolik alkaloz: diuretiklar (karboangidraza ingibitorlaridan tashqari): distal oqim oshadi, Na⁺ reabsorbsiyasiga bog'liq H⁺ sekretsiyasi kuchayadi, hajm kamayadi va Ang II hamda aldosteron oshadi; ortiqcha aldosteron; faqat me'da suyuqligini qusish: HCl yo'qotiladi; chaqaloqlarda pilorik stenoz; ishqoriy dorilar ichish: NaHCO₃ (gastrit yoki yarani davolashda).",
+   "contextUz": "Metabolik alkaloz: diuretiklar (karboangidraza ingibitorlaridan tashqari): distal oqim oshadi, Na⁺ reabsorbsiyasiga bog’liq H⁺ sekretsiyasi kuchayadi, hajm kamayadi va Ang II hamda aldosteron oshadi; ortiqcha aldosteron; faqat me’da suyuqligini qusish: HCl yo’qotiladi; chaqaloqlarda pilorik stenoz; ishqoriy dorilar ichish: NaHCO₃ (gastrit yoki yarani davolashda).",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3822,7 +3822,7 @@
    "id": "ch31-t-ishqoriy-dorilar-ichish",
    "termUz": "ishqoriy dorilar ichish",
    "original": null,
-   "contextUz": "Metabolik alkaloz: diuretiklar (karboangidraza ingibitorlaridan tashqari): distal oqim oshadi, Na⁺ reabsorbsiyasiga bog'liq H⁺ sekretsiyasi kuchayadi, hajm kamayadi va Ang II hamda aldosteron oshadi; ortiqcha aldosteron; faqat me'da suyuqligini qusish: HCl yo'qotiladi; chaqaloqlarda pilorik stenoz; ishqoriy dorilar ichish: NaHCO₃ (gastrit yoki yarani davolashda).",
+   "contextUz": "Metabolik alkaloz: diuretiklar (karboangidraza ingibitorlaridan tashqari): distal oqim oshadi, Na⁺ reabsorbsiyasiga bog’liq H⁺ sekretsiyasi kuchayadi, hajm kamayadi va Ang II hamda aldosteron oshadi; ortiqcha aldosteron; faqat me’da suyuqligini qusish: HCl yo’qotiladi; chaqaloqlarda pilorik stenoz; ishqoriy dorilar ichish: NaHCO₃ (gastrit yoki yarani davolashda).",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3832,7 +3832,7 @@
    "id": "ch31-t-izotonik-nacl",
    "termUz": "izotonik NaCl",
    "original": null,
-   "contextUz": "Hajm kamayishi bilan bog'liq alkalozda, yurak yetishmovchiligi bo'lmasa, izotonik NaCl eritmasi yuboriladi.",
+   "contextUz": "Hajm kamayishi bilan bog’liq alkalozda, yurak yetishmovchiligi bo’lmasa, izotonik NaCl eritmasi yuboriladi.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",
@@ -3862,7 +3862,7 @@
    "id": "ch31-t-aralash-buzilish",
    "termUz": "aralash buzilish",
    "original": null,
-   "contextUz": "Kompensatsiya kutilganidan boshqacha bo'lsa, aralash buzilish.",
+   "contextUz": "Kompensatsiya kutilganidan boshqacha bo’lsa, aralash buzilish.",
    "lessonId": "ch31",
    "topicId": "05",
    "source": "summaryUz",

@@ -2,7 +2,7 @@
  "id": "ch38",
  "topicId": "07",
  "order": 1,
- "titleUz": "O'pka ventilyatsiyasi",
+ "titleUz": "O’pka ventilyatsiyasi",
  "titleOriginal": "Pulmonary Ventilation",
  "subtitle": "*Pulmonary Ventilation* — VII bo'lim (Nafas), PDF 469–479",
  "contentVersion": "2026-11-14.1",
@@ -197,17 +197,17 @@
  "objectives": [
   "Nafas mushaklari",
   "Bosimlar",
-  "Komplians (cho'ziluvchanlik)",
+  "Komplians (cho’ziluvchanlik)",
   "Sirt tarangligi va surfaktant",
-  "Ko'krak qafasi va umumiy komplians",
+  "Ko’krak qafasi va umumiy komplians",
   "Nafas ishi",
-  "O'pka hajmlari va sig'imlari (spirometriya)",
-  "FRC, RV, TLC ni o'lchash: geliy suyultirish usuli",
+  "O’pka hajmlari va sig’imlari (spirometriya)",
+  "FRC, RV, TLC ni o’lchash: geliy suyultirish usuli",
   "Minutlik nafas hajmi",
-  "O'lik bo'shliq va alveolyar ventilyatsiya",
-  "Havo yo'llari",
+  "O’lik bo’shliq va alveolyar ventilyatsiya",
+  "Havo yo’llari",
   "Shilliq va kipriklar (mukotsiliar tozalash)",
-  "Yo'tal refleksi",
+  "Yo’tal refleksi",
   "Aksirish refleksi",
   "Burunning nafas funksiyalari (\"konditsionerlash\")",
   "Ovoz hosil qilish"
@@ -217,13 +217,13 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Asosiy g'oya",
+    "text": "Asosiy g’oya",
     "id": "ch38-s-0-asosiy-goya",
     "bid": "ch38-u0"
    },
    {
     "type": "paragraph",
-    "text": "Nafasning to'rt komponenti bor:",
+    "text": "Nafasning to’rt komponenti bor:",
     "bid": "ch38-u1"
    },
    {
@@ -231,15 +231,15 @@
     "ordered": true,
     "items": [
      {
-      "text": "**O'pka ventilyatsiyasi**: havoning atmosfera bilan alveolalar o'rtasida harakati.",
+      "text": "**O’pka ventilyatsiyasi**: havoning atmosfera bilan alveolalar o’rtasida harakati.",
       "depth": 0
      },
      {
-      "text": "Alveola va qon o'rtasida O₂ va CO₂ **diffuziyasi**.",
+      "text": "Alveola va qon o’rtasida O₂ va CO₂ **diffuziyasi**.",
       "depth": 0
      },
      {
-      "text": "Gazlarning qon va to'qima suyuqliklarida **tashilishi**.",
+      "text": "Gazlarning qon va to’qima suyuqliklarida **tashilishi**.",
       "depth": 0
      },
      {
@@ -251,7 +251,7 @@
    },
    {
     "type": "paragraph",
-    "text": "Bu bob birinchisini tushuntiradi. O'pka elastik \"shar\", ko'krak devoriga yopishmagan, plevra suyuqligida \"suzadi\". Havo oqimini **bosimlar farqi** (alveolyar, plevral, transpulmonar) yaratadi. O'pka elastikligining **2/3** qismi **sirt tarangligi**dan keladi va **surfaktant** uni keskin kamaytiradi. Gaz almashinuvi uchun hal qiluvchi kattalik **alveolyar ventilyatsiya**, ya'ni o'lik bo'shliqni ayirib tashlangan havo.",
+    "text": "Bu bob birinchisini tushuntiradi. O’pka elastik \"shar\", ko’krak devoriga yopishmagan, plevra suyuqligida \"suzadi\". Havo oqimini **bosimlar farqi** (alveolyar, plevral, transpulmonar) yaratadi. O’pka elastikligining **2/3** qismi **sirt tarangligi**dan keladi va **surfaktant** uni keskin kamaytiradi. Gaz almashinuvi uchun hal qiluvchi kattalik **alveolyar ventilyatsiya**, ya’ni o’lik bo’shliqni ayirib tashlangan havo.",
     "bid": "ch38-u3"
    },
    {
@@ -263,7 +263,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**O'pkani kengaytirishning ikki usuli:**",
+    "text": "**O’pkani kengaytirishning ikki usuli:**",
     "bid": "ch38-u5"
    },
    {
@@ -271,15 +271,15 @@
     "ordered": true,
     "items": [
      {
-      "text": "**Diafragma** ko'krak qafasini uzunasiga cho'zadi. **Tinch nafas deyarli faqat diafragma bilan** bo'ladi. Nafas chiqarish passiv: o'pka, ko'krak devori va qorin a'zolarining elastik qaytishi.",
+      "text": "**Diafragma** ko’krak qafasini uzunasiga cho’zadi. **Tinch nafas deyarli faqat diafragma bilan** bo’ladi. Nafas chiqarish passiv: o’pka, ko’krak devori va qorin a’zolarining elastik qaytishi.",
       "depth": 0
      },
      {
-      "text": "Kuchli nafasda elastik kuch yetmaydi, **qorin mushaklari** qorin a'zolarini diafragmaga itaradi.",
+      "text": "Kuchli nafasda elastik kuch yetmaydi, **qorin mushaklari** qorin a’zolarini diafragmaga itaradi.",
       "depth": 1
      },
      {
-      "text": "**Qovurg'alarni ko'tarish:** tinch holatda qovurg'alar pastga qiya. Ko'tarilganda deyarli to'g'ri oldinga qaraydi, to'sh suyagi umurtqadan uzoqlashadi. Maksimal nafas olishda oldi-orqa diametr ~**20%** kattalashadi.",
+      "text": "**Qovurg’alarni ko’tarish:** tinch holatda qovurg’alar pastga qiya. Ko’tarilganda deyarli to’g’ri oldinga qaraydi, to’sh suyagi umurtqadan uzoqlashadi. Maksimal nafas olishda oldi-orqa diametr ~**20%** kattalashadi.",
       "depth": 0
      }
     ],
@@ -293,19 +293,19 @@
     ],
     "rows": [
      [
-      "**Tashqi qovurg'alararo** (eng muhim)",
-      "**Qorin to'g'ri mushaklari** (pastki qovurg'alarni tortadi, qorin a'zolarini yuqoriga itaradi)"
+      "**Tashqi qovurg’alararo** (eng muhim)",
+      "**Qorin to’g’ri mushaklari** (pastki qovurg’alarni tortadi, qorin a’zolarini yuqoriga itaradi)"
      ],
      [
-      "To'sh-o'mrov-so'rg'ichsimon (to'shni ko'taradi)",
-      "**Ichki qovurg'alararo**"
+      "To’sh-o’mrov-so’rg’ichsimon (to’shni ko’taradi)",
+      "**Ichki qovurg’alararo**"
      ],
      [
-      "Oldingi tishsimon (ko'p qovurg'ani ko'taradi)",
+      "Oldingi tishsimon (ko’p qovurg’ani ko’taradi)",
       ""
      ],
      [
-      "Narvonsimon (scaleni, 1–2-qovurg'ani ko'taradi)",
+      "Narvonsimon (scaleni, 1–2-qovurg’ani ko’taradi)",
       ""
      ]
     ],
@@ -313,7 +313,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Qovurg'alararo mushaklar mexanikasi:** tashqi qovurg'alararo mushak oldinga-pastga qiya. Qisqarganda yuqori qovurg'ani pastkisiga nisbatan oldinga tortadi va richag kabi ko'taradi. Ichki qovurg'alararo mushak teskari qiya, shuning uchun teskari ta'sir qiladi.",
+    "text": "**Qovurg’alararo mushaklar mexanikasi:** tashqi qovurg’alararo mushak oldinga-pastga qiya. Qisqarganda yuqori qovurg’ani pastkisiga nisbatan oldinga tortadi va richag kabi ko’taradi. Ichki qovurg’alararo mushak teskari qiya, shuning uchun teskari ta’sir qiladi.",
     "bid": "ch38-u8"
    },
    {
@@ -325,7 +325,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Plevra qatlamlari:** o'pka faqat ildizida (hilus) mediastinga osilgan. Plevra suyuqligining ortiqchasi doimo limfaga so'riladi, bu yengil so'rish yaratadi. Shu tufayli o'pka ko'krak devoriga \"yopishtirilgandek\" turadi, lekin erkin sirpanadi.",
+    "text": "**Plevra qatlamlari:** o’pka faqat ildizida (hilus) mediastinga osilgan. Plevra suyuqligining ortiqchasi doimo limfaga so’riladi, bu yengil so’rish yaratadi. Shu tufayli o’pka ko’krak devoriga \"yopishtirilgandek\" turadi, lekin erkin sirpanadi.",
     "bid": "ch38-u10"
    },
    {
@@ -337,15 +337,15 @@
     "rows": [
      [
       "**Plevral bosim**",
-      "nafas olish boshida −5 sm H₂O (o'pkani dam holatida ochiq ushlab turadi), oxirida −7,5 sm H₂O. Hajm 0,5 l ga ortadi"
+      "nafas olish boshida −5 sm H₂O (o’pkani dam holatida ochiq ushlab turadi), oxirida −7,5 sm H₂O. Hajm 0,5 l ga ortadi"
      ],
      [
       "**Alveolyar bosim**",
-      "glottis ochiq, oqim yo'q: 0 (atmosfera). Nafas olishda ~−1 sm H₂O, 2 s da 0,5 l havo kiradi. Nafas chiqarishda ~+1 sm H₂O, 2–3 s da chiqadi"
+      "glottis ochiq, oqim yo’q: 0 (atmosfera). Nafas olishda ~−1 sm H₂O, 2 s da 0,5 l havo kiradi. Nafas chiqarishda ~+1 sm H₂O, 2–3 s da chiqadi"
      ],
      [
       "**Transpulmonar bosim**",
-      "alveolyar − plevral. O'pkaning elastik qaytish kuchi (**recoil pressure**) o'lchovi"
+      "alveolyar − plevral. O’pkaning elastik qaytish kuchi (**recoil pressure**) o’lchovi"
      ]
     ],
     "bid": "ch38-u11"
@@ -353,7 +353,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Komplians (cho'ziluvchanlik)",
+    "text": "Komplians (cho’ziluvchanlik)",
     "id": "ch38-s-12-komplians-choziluvchanlik",
     "bid": "ch38-u12"
    },
@@ -362,11 +362,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Transpulmonar bosim 1 sm H₂O ga oshganda o'pka hajmi qancha ortishini ko'rsatadi (10–20 s muvozanatdan keyin).",
+      "text": "Transpulmonar bosim 1 sm H₂O ga oshganda o’pka hajmi qancha ortishini ko’rsatadi (10–20 s muvozanatdan keyin).",
       "depth": 0
      },
      {
-      "text": "**Ikkala o'pka: ~200 ml/sm H₂O**.",
+      "text": "**Ikkala o’pka: ~200 ml/sm H₂O**.",
       "depth": 0
      },
      {
@@ -378,7 +378,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**O'pka elastikligining ikki manbai:**",
+    "text": "**O’pka elastikligining ikki manbai:**",
     "bid": "ch38-u14"
    },
    {
@@ -386,7 +386,7 @@
     "ordered": true,
     "items": [
      {
-      "text": "**To'qima elastikligi**: elastin va kollagen tolalari. Bo'sh o'pkada ular qisqargan va burishgan; kengayganda cho'ziladi va kuch oshadi.",
+      "text": "**To’qima elastikligi**: elastin va kollagen tolalari. Bo’sh o’pkada ular qisqargan va burishgan; kengayganda cho’ziladi va kuch oshadi.",
       "depth": 0
      },
      {
@@ -398,7 +398,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Fiziologik eritma bilan to'ldirilgan o'pka tajribasi:** bunda suyuqlik-havo chegarasi yo'q. Havo bilan to'ldirilgan o'pkani kengaytirish uchun **~3 marta** ko'p bosim kerak. Demak to'qima elastikligi umumiyning **~1/3** qismi, **sirt tarangligi ~2/3** qismi.",
+    "text": "**Fiziologik eritma bilan to’ldirilgan o’pka tajribasi:** bunda suyuqlik-havo chegarasi yo’q. Havo bilan to’ldirilgan o’pkani kengaytirish uchun **~3 marta** ko’p bosim kerak. Demak to’qima elastikligi umumiyning **~1/3** qismi, **sirt tarangligi ~2/3** qismi.",
     "bid": "ch38-u16"
    },
    {
@@ -413,11 +413,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Suv yuzasidagi molekulalar bir-birini kuchli tortadi va yuza qisqarishga intiladi (yomg'ir tomchisi shu kuch bilan ushlanadi).",
+      "text": "Suv yuzasidagi molekulalar bir-birini kuchli tortadi va yuza qisqarishga intiladi (yomg’ir tomchisi shu kuch bilan ushlanadi).",
       "depth": 0
      },
      {
-      "text": "Alveolada bu kuch havoni chiqarishga va alveolani yopishga intiladi. Natijada **sirt tarangligi elastik kuchi** paydo bo'ladi.",
+      "text": "Alveolada bu kuch havoni chiqarishga va alveolani yopishga intiladi. Natijada **sirt tarangligi elastik kuchi** paydo bo’ladi.",
       "depth": 0
      },
      {
@@ -471,15 +471,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Radiusi ~100 µm bo'lgan alveola normal surfaktant bilan ~**4 sm H₂O (3 mm Hg)** bosim hosil qiladi.",
+      "text": "Radiusi ~100 µm bo’lgan alveola normal surfaktant bilan ~**4 sm H₂O (3 mm Hg)** bosim hosil qiladi.",
       "depth": 0
      },
      {
-      "text": "Toza suv bilan ~**18 sm H₂O**, ya'ni 4,5 marta ko'p.",
+      "text": "Toza suv bilan ~**18 sm H₂O**, ya’ni 4,5 marta ko’p.",
       "depth": 0
      },
      {
-      "text": "**Radius kichik bo'lsa, bosim katta.** Radius ikki baravar kichraysa, bosim ikki baravar ortadi.",
+      "text": "**Radius kichik bo’lsa, bosim katta.** Radius ikki baravar kichraysa, bosim ikki baravar ortadi.",
       "depth": 0
      }
     ],
@@ -487,7 +487,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Klinik: yangi tug'ilganlarning respirator distress sindromi**",
+    "text": "**Klinik: yangi tug’ilganlarning respirator distress sindromi**",
     "bid": "ch38-u22"
    },
    {
@@ -495,19 +495,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Chala tug'ilgan chaqaloqlarda alveola radiusi kattalarnikining <25% ini tashkil qiladi.",
+      "text": "Chala tug’ilgan chaqaloqlarda alveola radiusi kattalarnikining <25% ini tashkil qiladi.",
       "depth": 0
      },
      {
-      "text": "Surfaktant homiladorlikning **6–7-oyi**dan (ba'zan kechroq) ajrala boshlaydi.",
+      "text": "Surfaktant homiladorlikning **6–7-oyi**dan (ba’zan kechroq) ajrala boshlaydi.",
       "depth": 0
      },
      {
-      "text": "Shuning uchun o'pkaning yopilishga moyilligi kattalarnikidan **6–8 marta** ko'p.",
+      "text": "Shuning uchun o’pkaning yopilishga moyilligi kattalarnikidan **6–8 marta** ko’p.",
       "depth": 0
      },
      {
-      "text": "Davolanmasa o'limga olib keladi. Davo: kuchli choralar, ayniqsa **doimiy musbat bosimli nafas (CPAP)**.",
+      "text": "Davolanmasa o’limga olib keladi. Davo: kuchli choralar, ayniqsa **doimiy musbat bosimli nafas (CPAP)**.",
       "depth": 0
      }
     ],
@@ -516,7 +516,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Ko'krak qafasi va umumiy komplians",
+    "text": "Ko’krak qafasi va umumiy komplians",
     "id": "ch38-s-24-kokrak-qafasi-va-umumiy-komplians",
     "bid": "ch38-u24"
    },
@@ -525,15 +525,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Ko'krak qafasining o'z elastik va yopishqoqlik xususiyatlari bor.",
+      "text": "Ko’krak qafasining o’z elastik va yopishqoqlik xususiyatlari bor.",
       "depth": 0
      },
      {
-      "text": "**O'pka + ko'krak qafasi: ~110 ml/sm H₂O**, ya'ni faqat o'pkanikining (200) deyarli yarmi.",
+      "text": "**O’pka + ko’krak qafasi: ~110 ml/sm H₂O**, ya’ni faqat o’pkanikining (200) deyarli yarmi.",
       "depth": 0
      },
      {
-      "text": "Juda katta yoki juda kichik hajmlarda umumiy komplians o'pkanikining <20% igacha tushadi.",
+      "text": "Juda katta yoki juda kichik hajmlarda umumiy komplians o’pkanikining <20% igacha tushadi.",
       "depth": 0
      }
     ],
@@ -559,15 +559,15 @@
       "depth": 0
      },
      {
-      "text": "**Komplians (elastik) ishi**: o'pka va ko'krakning elastik kuchlariga qarshi.",
+      "text": "**Komplians (elastik) ishi**: o’pka va ko’krakning elastik kuchlariga qarshi.",
       "depth": 1
      },
      {
-      "text": "**To'qima qarshiligi ishi**: to'qimalarning yopishqoqligiga qarshi.",
+      "text": "**To’qima qarshiligi ishi**: to’qimalarning yopishqoqligiga qarshi.",
       "depth": 1
      },
      {
-      "text": "**Havo yo'li qarshiligi ishi**.",
+      "text": "**Havo yo’li qarshiligi ishi**.",
       "depth": 1
      },
      {
@@ -575,7 +575,7 @@
       "depth": 0
      },
      {
-      "text": "Og'ir jismoniy ishda **50 martagacha** ortishi mumkin, ayniqsa havo yo'li qarshiligi oshgan yoki komplians kamaygan bo'lsa. Bu jismoniy yuklama intensivligining asosiy cheklovchilaridan biri.",
+      "text": "Og’ir jismoniy ishda **50 martagacha** ortishi mumkin, ayniqsa havo yo’li qarshiligi oshgan yoki komplians kamaygan bo’lsa. Bu jismoniy yuklama intensivligining asosiy cheklovchilaridan biri.",
       "depth": 0
      }
     ],
@@ -584,18 +584,18 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "O'pka hajmlari va sig'imlari (spirometriya)",
+    "text": "O’pka hajmlari va sig’imlari (spirometriya)",
     "id": "ch38-s-28-opka-hajmlari-va-sigimlari-spirometriya",
     "bid": "ch38-u28"
    },
    {
     "type": "paragraph",
-    "text": "**Spirometr:** suv ustida ag'darilgan, posangi bilan muvozanatlangan baraban. Nafas olinganda va chiqarilganda baraban ko'tariladi va tushadi, yozuv qilinadi.",
+    "text": "**Spirometr:** suv ustida ag’darilgan, posangi bilan muvozanatlangan baraban. Nafas olinganda va chiqarilganda baraban ko’tariladi va tushadi, yozuv qilinadi.",
     "bid": "ch38-u29"
    },
    {
     "type": "paragraph",
-    "text": "**Jadval 38-1 (yosh sog'lom kattalar)**",
+    "text": "**Jadval 38-1 (yosh sog’lom kattalar)**",
     "bid": "ch38-u30"
    },
    {
@@ -632,22 +632,22 @@
       "1100"
      ],
      [
-      "**Nafas olish sig'imi (IC = VT + IRV)**",
+      "**Nafas olish sig’imi (IC = VT + IRV)**",
       "3500",
       "2400"
      ],
      [
-      "**Funksional qoldiq sig'im (FRC = ERV + RV)**",
+      "**Funksional qoldiq sig’im (FRC = ERV + RV)**",
       "2300",
       "1800"
      ],
      [
-      "**Tiriklik sig'imi (VC = IRV + VT + ERV)**",
+      "**Tiriklik sig’imi (VC = IRV + VT + ERV)**",
       "4600",
       "3100"
      ],
      [
-      "**Umumiy o'pka sig'imi (TLC = VC + RV)**",
+      "**Umumiy o’pka sig’imi (TLC = VC + RV)**",
       "5800",
       "4200"
      ]
@@ -663,11 +663,11 @@
       "depth": 0
      },
      {
-      "text": "Ayollarda hajmlar ~**20–30%** kam. Katta va sportchi odamlarda ko'proq, kichik va asteniklarda kamroq. Yosh, bo'y, jismoniy holat va yashash balandligiga bog'liq.",
+      "text": "Ayollarda hajmlar ~**20–30%** kam. Katta va sportchi odamlarda ko’proq, kichik va asteniklarda kamroq. Yosh, bo’y, jismoniy holat va yashash balandligiga bog’liq.",
       "depth": 0
      },
      {
-      "text": "**Jadval 38-2** standart belgilarni beradi: VT, FRC, ERV, RV, IC, IRV, TLC, VC, Raw (havo yo'li qarshiligi), C (komplians), VD (o'lik bo'shliq), V̇A (alveolyar ventilyatsiya), V̇O₂, V̇CO₂, DLO₂, DLCO, PB, Palv, Ppl, PaO₂, PaCO₂, PAO₂, PACO₂, PAH₂O, R (nafas almashinuvi koeffitsienti), Q (yurak minutlik hajmi), CaO₂, Cv̄O₂, SO₂, SaO₂.",
+      "text": "**Jadval 38-2** standart belgilarni beradi: VT, FRC, ERV, RV, IC, IRV, TLC, VC, Raw (havo yo’li qarshiligi), C (komplians), VD (o’lik bo’shliq), V̇A (alveolyar ventilyatsiya), V̇O₂, V̇CO₂, DLO₂, DLCO, PB, Palv, Ppl, PaO₂, PaCO₂, PAO₂, PACO₂, PAH₂O, R (nafas almashinuvi koeffitsienti), Q (yurak minutlik hajmi), CaO₂, Cv̄O₂, SO₂, SaO₂.",
       "depth": 0
      }
     ],
@@ -681,7 +681,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "FRC, RV, TLC ni o'lchash: geliy suyultirish usuli",
+    "text": "FRC, RV, TLC ni o’lchash: geliy suyultirish usuli",
     "id": "ch38-s-35-frc-rv-tlc-ni-olchash-geliy-suyultirish-usuli",
     "bid": "ch38-u35"
    },
@@ -690,7 +690,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Spirometr FRC ni bevosita o'lchay olmaydi, chunki RV (FRC ning ~yarmi) chiqarib bo'lmaydi.",
+      "text": "Spirometr FRC ni bevosita o’lchay olmaydi, chunki RV (FRC ning ~yarmi) chiqarib bo’lmaydi.",
       "depth": 0
      },
      {
@@ -698,15 +698,15 @@
       "depth": 0
      },
      {
-      "text": "Ma'lum hajmli spirometr ma'lum konsentratsiyali geliy aralashmasi bilan to'ldiriladi.",
+      "text": "Ma’lum hajmli spirometr ma’lum konsentratsiyali geliy aralashmasi bilan to’ldiriladi.",
       "depth": 1
      },
      {
-      "text": "Odam normal nafas chiqargan paytda (o'pkada FRC qolganda) spirometrdan nafas ola boshlaydi.",
+      "text": "Odam normal nafas chiqargan paytda (o’pkada FRC qolganda) spirometrdan nafas ola boshlaydi.",
       "depth": 1
      },
      {
-      "text": "Geliy o'pka gazlari bilan aralashib suyuladi.",
+      "text": "Geliy o’pka gazlari bilan aralashib suyuladi.",
       "depth": 1
      },
      {
@@ -740,7 +740,7 @@
       "depth": 0
      },
      {
-      "text": "Maksimal qiymatlar: nafas soni 40–50/min, nafas hajmi VC gacha (~4600 ml). Bu **>200 l/min**, ya'ni normaldan 30 marta ko'p. Ko'pchilik buning yarmi yoki 2/3 qismini 1 daqiqadan ortiq ushlab tura olmaydi.",
+      "text": "Maksimal qiymatlar: nafas soni 40–50/min, nafas hajmi VC gacha (~4600 ml). Bu **>200 l/min**, ya’ni normaldan 30 marta ko’p. Ko’pchilik buning yarmi yoki 2/3 qismini 1 daqiqadan ortiq ushlab tura olmaydi.",
       "depth": 0
      }
     ],
@@ -749,13 +749,13 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "O'lik bo'shliq va alveolyar ventilyatsiya",
+    "text": "O’lik bo’shliq va alveolyar ventilyatsiya",
     "id": "ch38-s-39-olik-boshliq-va-alveolyar-ventilyatsiya",
     "bid": "ch38-u39"
    },
    {
     "type": "paragraph",
-    "text": "**O'lik bo'shliq:**",
+    "text": "**O’lik bo’shliq:**",
     "bid": "ch38-u40"
    },
    {
@@ -763,7 +763,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Burun, halqum, traxeya kabi gaz almashinuvi bo'lmaydigan yo'llardagi havo.",
+      "text": "Burun, halqum, traxeya kabi gaz almashinuvi bo’lmaydigan yo’llardagi havo.",
       "depth": 0
      },
      {
@@ -779,7 +779,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**O'lchash: azot usuli (rasm 38-7):**",
+    "text": "**O’lchash: azot usuli (rasm 38-7):**",
     "bid": "ch38-u42"
    },
    {
@@ -792,15 +792,15 @@
     "ordered": true,
     "items": [
      {
-      "text": "Odam bir marta chuqur 100% O₂ oladi, o'lik bo'shliq to'liq O₂ bilan to'ladi.",
+      "text": "Odam bir marta chuqur 100% O₂ oladi, o’lik bo’shliq to’liq O₂ bilan to’ladi.",
       "depth": 0
      },
      {
-      "text": "Tez yozuvchi azot o'lchagich orqali nafas chiqaradi.",
+      "text": "Tez yozuvchi azot o’lchagich orqali nafas chiqaradi.",
       "depth": 0
      },
      {
-      "text": "Birinchi chiqqan havoda N₂ = 0. Keyin alveolyar havo kelib, N₂ tez ko'tariladi va alveolyar darajada plato hosil qiladi.",
+      "text": "Birinchi chiqqan havoda N₂ = 0. Keyin alveolyar havo kelib, N₂ tez ko’tariladi va alveolyar darajada plato hosil qiladi.",
       "depth": 0
      },
      {
@@ -818,16 +818,16 @@
     "type": "table",
     "header": [
      "",
-     "Ta'rif"
+     "Ta’rif"
     ],
     "rows": [
      [
-      "**Anatomik o'lik bo'shliq**",
-      "alveola va gaz almashinuv sohalaridan tashqari barcha yo'llar"
+      "**Anatomik o’lik bo’shliq**",
+      "alveola va gaz almashinuv sohalaridan tashqari barcha yo’llar"
      ],
      [
-      "**Fiziologik o'lik bo'shliq**",
-      "anatomik + qon oqimi yo'q yoki kam bo'lgan alveolalar. Sog'lom o'pkada anatomik bilan deyarli teng; kasallikda **10 martagacha** (1–2 l) ortishi mumkin (40 va 43-boblar)"
+      "**Fiziologik o’lik bo’shliq**",
+      "anatomik + qon oqimi yo’q yoki kam bo’lgan alveolalar. Sog’lom o’pkada anatomik bilan deyarli teng; kasallikda **10 martagacha** (1–2 l) ortishi mumkin (40 va 43-boblar)"
      ]
     ],
     "bid": "ch38-u45"
@@ -855,7 +855,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Havo yo'llari",
+    "text": "Havo yo’llari",
     "id": "ch38-s-48-havo-yollari",
     "bid": "ch38-u48"
    },
@@ -869,23 +869,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Traxeya:** tog'ay halqalari aylananing ~5/6 qismini o'raydi va yopilishdan saqlaydi.",
+      "text": "**Traxeya:** tog’ay halqalari aylananing ~5/6 qismini o’raydi va yopilishdan saqlaydi.",
       "depth": 0
      },
      {
-      "text": "**Bronxlar:** egilgan tog'ay plastinkalari bor, keyingi avlodlarda kamayib boradi.",
+      "text": "**Bronxlar:** egilgan tog’ay plastinkalari bor, keyingi avlodlarda kamayib boradi.",
       "depth": 0
      },
      {
-      "text": "**Bronxiolalar** (diametri <1,5 mm): tog'ay yo'q. Ular **transpulmonar bosim** tufayli ochiq turadi: alveolalar kengayganda bronxiolalar ham kengayadi, lekin kamroq.",
+      "text": "**Bronxiolalar** (diametri <1,5 mm): tog’ay yo’q. Ular **transpulmonar bosim** tufayli ochiq turadi: alveolalar kengayganda bronxiolalar ham kengayadi, lekin kamroq.",
       "depth": 0
      },
      {
-      "text": "Tog'ay bo'lmagan joylarda devor asosan **silliq mushak**dan iborat. Respirator bronxiola esa asosan epiteliy va fibroz to'qima, mushak tolalari kam.",
+      "text": "Tog’ay bo’lmagan joylarda devor asosan **silliq mushak**dan iborat. Respirator bronxiola esa asosan epiteliy va fibroz to’qima, mushak tolalari kam.",
       "depth": 0
      },
      {
-      "text": "Ko'p obstruktiv kasalliklar kichik bronx va katta bronxiolalarning silliq mushak qisqarishi tufayli torayishidan kelib chiqadi.",
+      "text": "Ko’p obstruktiv kasalliklar kichik bronx va katta bronxiolalarning silliq mushak qisqarishi tufayli torayishidan kelib chiqadi.",
       "depth": 0
      }
     ],
@@ -909,7 +909,7 @@
       "depth": 0
      },
      {
-      "text": "Kasallikda mayda bronxiolalar hal qiluvchi bo'ladi. Ular quyidagilar bilan oson yopiladi: (1) devor mushagi qisqarishi; (2) devor shishi; (3) bo'shliqda shilliq to'planishi.",
+      "text": "Kasallikda mayda bronxiolalar hal qiluvchi bo’ladi. Ular quyidagilar bilan oson yopiladi: (1) devor mushagi qisqarishi; (2) devor shishi; (3) bo’shliqda shilliq to’planishi.",
       "depth": 0
      }
     ],
@@ -924,20 +924,20 @@
     "type": "table",
     "header": [
      "Omil",
-     "Ta'siri"
+     "Ta’siri"
     ],
     "rows": [
      [
       "**Simpatik**",
-      "bevosita tolalar kam. Asosan buyrak usti bezi mag'zidan qonga chiqqan **adrenalin** (β-retseptorlar orqali) va noradrenalin bronxlarni **kengaytiradi**"
+      "bevosita tolalar kam. Asosan buyrak usti bezi mag’zidan qonga chiqqan **adrenalin** (β-retseptorlar orqali) va noradrenalin bronxlarni **kengaytiradi**"
      ],
      [
       "**Parasimpatik (adashgan nerv, ACh)**",
-      "yengil–o'rtacha **torayish**. Astmada vaziyatni og'irlashtiradi, **atropin** ba'zan yordam beradi. Reflekslarni zararli gazlar, chang, sigaret tutuni, infeksiya, mayda o'pka arteriyalari mikroemboliyasi qo'zg'atadi"
+      "yengil–o’rtacha **torayish**. Astmada vaziyatni og’irlashtiradi, **atropin** ba’zan yordam beradi. Reflekslarni zararli gazlar, chang, sigaret tutuni, infeksiya, mayda o’pka arteriyalari mikroemboliyasi qo’zg’atadi"
      ],
      [
       "**Mahalliy moddalar**",
-      "allergiyada (ayniqsa gul changida) mast hujayralardan **gistamin** va **anafilaksiyaning sekin ta'sir qiluvchi moddasi** (leykotrienlar) chiqadi; allergik astmaning asosiy sababi, ayniqsa leykotrienlar. Tutun, chang, SO₂ va smog kislotalari bevosita, nervsiz torayish ham chaqiradi"
+      "allergiyada (ayniqsa gul changida) mast hujayralardan **gistamin** va **anafilaksiyaning sekin ta’sir qiluvchi moddasi** (leykotrienlar) chiqadi; allergik astmaning asosiy sababi, ayniqsa leykotrienlar. Tutun, chang, SO₂ va smog kislotalari bevosita, nervsiz torayish ham chaqiradi"
      ]
     ],
     "bid": "ch38-u54"
@@ -954,15 +954,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Burundan terminal bronxiolalargacha barcha yo'llar **shilliq** bilan qoplangan. Uni qadahsimon hujayralar va submukoz bezlar ishlab chiqaradi; u namlaydi va zarrachalarni tutadi.",
+      "text": "Burundan terminal bronxiolalargacha barcha yo’llar **shilliq** bilan qoplangan. Uni qadahsimon hujayralar va submukoz bezlar ishlab chiqaradi; u namlaydi va zarrachalarni tutadi.",
       "depth": 0
      },
      {
-      "text": "**Kiprikli epiteliy:** har hujayrada ~**200** kiprik, sekundiga **10–20** marta uradi. Kuchli zarba doimo **halqum tomon**: o'pkada yuqoriga, burunda pastga.",
+      "text": "**Kiprikli epiteliy:** har hujayrada ~**200** kiprik, sekundiga **10–20** marta uradi. Kuchli zarba doimo **halqum tomon**: o’pkada yuqoriga, burunda pastga.",
       "depth": 0
      },
      {
-      "text": "Shilliq daqiqasiga bir necha mm tezlikda harakatlanadi, keyin yutiladi yoki yo'tal bilan chiqariladi.",
+      "text": "Shilliq daqiqasiga bir necha mm tezlikda harakatlanadi, keyin yutiladi yoki yo’tal bilan chiqariladi.",
       "depth": 0
      }
     ],
@@ -971,13 +971,13 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Yo'tal refleksi",
+    "text": "Yo’tal refleksi",
     "id": "ch38-s-57-yotal-refleksi",
     "bid": "ch38-u57"
    },
    {
     "type": "paragraph",
-    "text": "**Sezgir joylar:** hiqildoq va **karina** ayniqsa sezgir. Terminal bronxiola va alveolalar SO₂ va xlor kabi korroziv kimyoviy moddalarga sezgir. Afferent yo'l asosan **adashgan nerv** orqali uzunchoq miyaga boradi.",
+    "text": "**Sezgir joylar:** hiqildoq va **karina** ayniqsa sezgir. Terminal bronxiola va alveolalar SO₂ va xlor kabi korroziv kimyoviy moddalarga sezgir. Afferent yo’l asosan **adashgan nerv** orqali uzunchoq miyaga boradi.",
     "bid": "ch38-u58"
    },
    {
@@ -994,15 +994,15 @@
       "depth": 0
      },
      {
-      "text": "Hiqildoq usti tog'ayi (epiglottis) va ovoz boylamlari mahkam yopiladi.",
+      "text": "Hiqildoq usti tog’ayi (epiglottis) va ovoz boylamlari mahkam yopiladi.",
       "depth": 0
      },
      {
-      "text": "Qorin mushaklari va ichki qovurg'alararo mushaklar kuchli qisqaradi, o'pkadagi bosim **≥100 mm Hg** ga yetadi.",
+      "text": "Qorin mushaklari va ichki qovurg’alararo mushaklar kuchli qisqaradi, o’pkadagi bosim **≥100 mm Hg** ga yetadi.",
       "depth": 0
      },
      {
-      "text": "Epiglottis va ovoz boylamlari to'satdan keng ochiladi, havo soatiga **75–100 milya** tezlikda otilib chiqadi.",
+      "text": "Epiglottis va ovoz boylamlari to’satdan keng ochiladi, havo soatiga **75–100 milya** tezlikda otilib chiqadi.",
       "depth": 0
      }
     ],
@@ -1010,7 +1010,7 @@
    },
    {
     "type": "paragraph",
-    "text": "Kuchli siqilish bronx va traxeyaning tog'aysiz qismlarini ichkariga botiradi. Shu tufayli havo tirqishlar orqali o'tib, yot jismni olib chiqadi.",
+    "text": "Kuchli siqilish bronx va traxeyaning tog’aysiz qismlarini ichkariga botiradi. Shu tufayli havo tirqishlar orqali o’tib, yot jismni olib chiqadi.",
     "bid": "ch38-u61"
    },
    {
@@ -1025,15 +1025,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Yo'talga o'xshaydi, lekin burun yo'llari uchun.",
+      "text": "Yo’talga o’xshaydi, lekin burun yo’llari uchun.",
       "depth": 0
      },
      {
-      "text": "Afferent yo'l **V kranial nerv (uchlik nerv)** orqali uzunchoq miyaga boradi.",
+      "text": "Afferent yo’l **V kranial nerv (uchlik nerv)** orqali uzunchoq miyaga boradi.",
       "depth": 0
      },
      {
-      "text": "Til kichikchasi (uvula) tushiriladi, shuning uchun havo burun orqali tez o'tib, uni tozalaydi.",
+      "text": "Til kichikchasi (uvula) tushiriladi, shuning uchun havo burun orqali tez o’tib, uni tozalaydi.",
       "depth": 0
      }
     ],
@@ -1051,11 +1051,11 @@
     "ordered": true,
     "items": [
      {
-      "text": "**Isitish**: burun chig'anoqlari va to'siq yuzasi ~**160 sm²**.",
+      "text": "**Isitish**: burun chig’anoqlari va to’siq yuzasi ~**160 sm²**.",
       "depth": 0
      },
      {
-      "text": "**Namlash**: deyarli to'liq.",
+      "text": "**Namlash**: deyarli to’liq.",
       "depth": 0
      },
      {
@@ -1067,7 +1067,7 @@
    },
    {
     "type": "paragraph",
-    "text": "Traxeyaga yetguncha havo harorati tana haroratidan ~1°F farq qiladi, namlik to'liq to'yinishdan 2–3% kam bo'ladi. **Traxeostomiyada** havo sovuq va quruq kirgani uchun o'pkada qasqoq (krust) va infeksiya paydo bo'lishi mumkin.",
+    "text": "Traxeyaga yetguncha havo harorati tana haroratidan ~1°F farq qiladi, namlik to’liq to’yinishdan 2–3% kam bo’ladi. **Traxeostomiyada** havo sovuq va quruq kirgani uchun o’pkada qasqoq (krust) va infeksiya paydo bo’lishi mumkin.",
     "bid": "ch38-u66"
    },
    {
@@ -1084,7 +1084,7 @@
       "depth": 0
      },
      {
-      "text": "Asosiy mexanizm **turbulent cho'kish**: havo chig'anoqlar (turbinatlar), to'siq va halqum devoriga urilib yo'nalishini o'zgartiradi. Massasi va inersiyasi katta zarrachalar buni tez qila olmaydi, yuzaga urilib, shilliqqa yopishadi va kipriklar bilan halqumga olib boriladi.",
+      "text": "Asosiy mexanizm **turbulent cho’kish**: havo chig’anoqlar (turbinatlar), to’siq va halqum devoriga urilib yo’nalishini o’zgartiradi. Massasi va inersiyasi katta zarrachalar buni tez qila olmaydi, yuzaga urilib, shilliqqa yopishadi va kipriklar bilan halqumga olib boriladi.",
       "depth": 0
      }
     ],
@@ -1093,32 +1093,32 @@
    {
     "type": "table",
     "header": [
-     "Zarracha o'lchami",
+     "Zarracha o’lchami",
      "Taqdiri"
     ],
     "rows": [
      [
       "**>6 µm**",
-      "burundan o'pkaga deyarli o'tmaydi (eritrotsitdan kichik!)"
+      "burundan o’pkaga deyarli o’tmaydi (eritrotsitdan kichik!)"
      ],
      [
       "**1–5 µm**",
-      "mayda bronxiolalarda gravitatsion cho'kadi. Masalan, ko'mir konchilarida terminal bronxiola kasalligi"
+      "mayda bronxiolalarda gravitatsion cho’kadi. Masalan, ko’mir konchilarida terminal bronxiola kasalligi"
      ],
      [
       "**<1 µm**",
-      "ba'zilari alveola devoriga diffuziya bilan yopishadi"
+      "ba’zilari alveola devoriga diffuziya bilan yopishadi"
      ],
      [
       "**<0,5 µm**",
-      "ko'pi alveola havosida muallaq qolib, nafas chiqarish bilan chiqadi. **Sigaret tutuni ~0,3 µm**: deyarli hech biri yo'llarda cho'kmaydi, **1/3 gacha** qismi alveolalarda diffuziya bilan cho'kadi"
+      "ko’pi alveola havosida muallaq qolib, nafas chiqarish bilan chiqadi. **Sigaret tutuni ~0,3 µm**: deyarli hech biri yo’llarda cho’kmaydi, **1/3 gacha** qismi alveolalarda diffuziya bilan cho’kadi"
      ]
     ],
     "bid": "ch38-u69"
    },
    {
     "type": "paragraph",
-    "text": "Alveolalarda tutilgan zarrachalarni alveolyar makrofaglar va limfa olib ketadi. Ortiqcha zarracha alveola to'siqlarida **fibroz** va doimiy nogironlik chaqiradi.",
+    "text": "Alveolalarda tutilgan zarrachalarni alveolyar makrofaglar va limfa olib ketadi. Ortiqcha zarracha alveola to’siqlarida **fibroz** va doimiy nogironlik chaqiradi.",
     "bid": "ch38-u70"
    },
    {
@@ -1130,7 +1130,7 @@
    },
    {
     "type": "paragraph",
-    "text": "Nutq quyidagilarni talab qiladi: po'stloqdagi nutq markazlari (58-bob), nafas markazlari, og'iz va burun bo'shlig'ining artikulyatsiya va rezonans tuzilmalari.",
+    "text": "Nutq quyidagilarni talab qiladi: po’stloqdagi nutq markazlari (58-bob), nafas markazlari, og’iz va burun bo’shlig’ining artikulyatsiya va rezonans tuzilmalari.",
     "bid": "ch38-u72"
    },
    {
@@ -1147,7 +1147,7 @@
       "depth": 0
      },
      {
-      "text": "**Tovush balandligi** asosan boylamlarning **taranglik darajasi**ga, shuningdek bir-biriga yaqinlashish zichligiga va chetlarining massasiga bog'liq.",
+      "text": "**Tovush balandligi** asosan boylamlarning **taranglik darajasi**ga, shuningdek bir-biriga yaqinlashish zichligiga va chetlarining massasiga bog’liq.",
       "depth": 0
      },
      {
@@ -1155,19 +1155,19 @@
       "depth": 0
      },
      {
-      "text": "Boylam ichida **ovoz ligamenti** bor. Oldinda **qalqonsimon tog'ay**ga (\"Odam olmasi\"), orqada ikkita **cho'michsimon tog'ay**ning ovoz o'simtalariga birikadi. Ikkalasi pastda **uzuksimon tog'ay** bilan bo'g'im hosil qiladi.",
+      "text": "Boylam ichida **ovoz ligamenti** bor. Oldinda **qalqonsimon tog’ay**ga (\"Odam olmasi\"), orqada ikkita **cho’michsimon tog’ay**ning ovoz o’simtalariga birikadi. Ikkalasi pastda **uzuksimon tog’ay** bilan bo’g’im hosil qiladi.",
       "depth": 1
      },
      {
-      "text": "**Cho'zilishi:** qalqonsimon tog'ay oldinga yoki cho'michsimon tog'ay orqaga buriladi.",
+      "text": "**Cho’zilishi:** qalqonsimon tog’ay oldinga yoki cho’michsimon tog’ay orqaga buriladi.",
       "depth": 1
      },
      {
-      "text": "**Bo'shashishi:** **qalqon-cho'michsimon mushak** cho'michsimon tog'ayni oldinga tortadi. Uning tolalari boylam chetlarini o'tkir qiladi (yuqori tovush) yoki to'mtoq qiladi (past tovush).",
+      "text": "**Bo’shashishi:** **qalqon-cho’michsimon mushak** cho’michsimon tog’ayni oldinga tortadi. Uning tolalari boylam chetlarini o’tkir qiladi (yuqori tovush) yoki to’mtoq qiladi (past tovush).",
       "depth": 1
      },
      {
-      "text": "Cho'michsimon va uzuksimon tog'aylar o'rtasidagi mushaklar (orqa va yon uzuk-cho'michsimon, ko'ndalang cho'michsimon) turli holatlarni beradi: to'liq ochilish, yengil ochilish, pichirlash, fonatsiya.",
+      "text": "Cho’michsimon va uzuksimon tog’aylar o’rtasidagi mushaklar (orqa va yon uzuk-cho’michsimon, ko’ndalang cho’michsimon) turli holatlarni beradi: to’liq ochilish, yengil ochilish, pichirlash, fonatsiya.",
       "depth": 1
      }
     ],
@@ -1187,7 +1187,7 @@
       "depth": 0
      },
      {
-      "text": "Rezonatorlar: og'iz, burun va uning yondosh bo'shliqlari, halqum, hatto ko'krak qafasi. Kuchli tumov burun rezonatorlarini to'sib, ovoz sifatini o'zgartiradi.",
+      "text": "Rezonatorlar: og’iz, burun va uning yondosh bo’shliqlari, halqum, hatto ko’krak qafasi. Kuchli tumov burun rezonatorlarini to’sib, ovoz sifatini o’zgartiradi.",
       "depth": 0
      }
     ],
@@ -1205,7 +1205,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Chala tug'ilganlarda RDS: surfaktant yetishmasligi, davosi CPAP.",
+      "text": "Chala tug’ilganlarda RDS: surfaktant yetishmasligi, davosi CPAP.",
       "depth": 0
      },
      {
@@ -1213,11 +1213,11 @@
       "depth": 0
      },
      {
-      "text": "Fiziologik o'lik bo'shliq ortishi alveolyar ventilyatsiyani kamaytiradi.",
+      "text": "Fiziologik o’lik bo’shliq ortishi alveolyar ventilyatsiyani kamaytiradi.",
       "depth": 0
      },
      {
-      "text": "Komplians kamayishi yoki havo yo'li qarshiligi ortishi nafas ishini keskin oshiradi.",
+      "text": "Komplians kamayishi yoki havo yo’li qarshiligi ortishi nafas ishini keskin oshiradi.",
       "depth": 0
      },
      {
@@ -1225,7 +1225,7 @@
       "depth": 0
      },
      {
-      "text": "Ko'mir changi va sigaret tutuni: zarracha o'lchami cho'kish joyini belgilaydi.",
+      "text": "Ko’mir changi va sigaret tutuni: zarracha o’lchami cho’kish joyini belgilaydi.",
       "depth": 0
      }
     ],
@@ -1234,7 +1234,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Bog'liqlik",
+    "text": "Bog’liqlik",
     "id": "ch38-s-79-bogliqlik",
     "bid": "ch38-u79"
    },
@@ -1243,7 +1243,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "**39-bob:** o'pka qon aylanishi, plevra suyuqligi, o'pka shishi.",
+      "text": "**39-bob:** o’pka qon aylanishi, plevra suyuqligi, o’pka shishi.",
       "depth": 0
      },
      {
@@ -2048,9 +2048,9 @@
  "glossary": [
   {
    "id": "ch38-t-opka-ventilyatsiyasi",
-   "termUz": "O'pka ventilyatsiyasi",
+   "termUz": "O’pka ventilyatsiyasi",
    "original": null,
-   "contextUz": "O'pka ventilyatsiyasi: havoning atmosfera bilan alveolalar o'rtasida harakati.",
+   "contextUz": "O’pka ventilyatsiyasi: havoning atmosfera bilan alveolalar o’rtasida harakati.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2060,7 +2060,7 @@
    "id": "ch38-t-diffuziyasi",
    "termUz": "diffuziyasi",
    "original": null,
-   "contextUz": "Alveola va qon o'rtasida O₂ va CO₂ diffuziyasi.",
+   "contextUz": "Alveola va qon o’rtasida O₂ va CO₂ diffuziyasi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2070,7 +2070,7 @@
    "id": "ch38-t-tashilishi",
    "termUz": "tashilishi",
    "original": null,
-   "contextUz": "Gazlarning qon va to'qima suyuqliklarida tashilishi.",
+   "contextUz": "Gazlarning qon va to’qima suyuqliklarida tashilishi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2100,7 +2100,7 @@
    "id": "ch38-t-2-3",
    "termUz": "2/3",
    "original": null,
-   "contextUz": "O'pka elastikligining 2/3 qismi sirt tarangligidan keladi va surfaktant uni keskin kamaytiradi.",
+   "contextUz": "O’pka elastikligining 2/3 qismi sirt tarangligidan keladi va surfaktant uni keskin kamaytiradi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2110,7 +2110,7 @@
    "id": "ch38-t-sirt-tarangligi",
    "termUz": "sirt tarangligi",
    "original": null,
-   "contextUz": "O'pka elastikligining 2/3 qismi sirt tarangligidan keladi va surfaktant uni keskin kamaytiradi.",
+   "contextUz": "O’pka elastikligining 2/3 qismi sirt tarangligidan keladi va surfaktant uni keskin kamaytiradi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2120,7 +2120,7 @@
    "id": "ch38-t-surfaktant",
    "termUz": "surfaktant",
    "original": null,
-   "contextUz": "O'pka elastikligining 2/3 qismi sirt tarangligidan keladi va surfaktant uni keskin kamaytiradi.",
+   "contextUz": "O’pka elastikligining 2/3 qismi sirt tarangligidan keladi va surfaktant uni keskin kamaytiradi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2130,7 +2130,7 @@
    "id": "ch38-t-alveolyar-ventilyatsiya",
    "termUz": "alveolyar ventilyatsiya",
    "original": null,
-   "contextUz": "Gaz almashinuvi uchun hal qiluvchi kattalik alveolyar ventilyatsiya, ya'ni o'lik bo'shliqni ayirib tashlangan havo.",
+   "contextUz": "Gaz almashinuvi uchun hal qiluvchi kattalik alveolyar ventilyatsiya, ya’ni o’lik bo’shliqni ayirib tashlangan havo.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2138,9 +2138,9 @@
   },
   {
    "id": "ch38-t-opkani-kengaytirishning-ikki-usuli",
-   "termUz": "O'pkani kengaytirishning ikki usuli",
+   "termUz": "O’pkani kengaytirishning ikki usuli",
    "original": null,
-   "contextUz": "O'pkani kengaytirishning ikki usuli:",
+   "contextUz": "O’pkani kengaytirishning ikki usuli:",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2150,7 +2150,7 @@
    "id": "ch38-t-diafragma",
    "termUz": "Diafragma",
    "original": null,
-   "contextUz": "Diafragma ko'krak qafasini uzunasiga cho'zadi.",
+   "contextUz": "Diafragma ko’krak qafasini uzunasiga cho’zadi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2160,7 +2160,7 @@
    "id": "ch38-t-tinch-nafas-deyarli-faqat-diafragma-bilan",
    "termUz": "Tinch nafas deyarli faqat diafragma bilan",
    "original": null,
-   "contextUz": "Tinch nafas deyarli faqat diafragma bilan bo'ladi.",
+   "contextUz": "Tinch nafas deyarli faqat diafragma bilan bo’ladi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2170,7 +2170,7 @@
    "id": "ch38-t-qorin-mushaklari",
    "termUz": "qorin mushaklari",
    "original": null,
-   "contextUz": "Kuchli nafasda elastik kuch yetmaydi, qorin mushaklari qorin a'zolarini diafragmaga itaradi.",
+   "contextUz": "Kuchli nafasda elastik kuch yetmaydi, qorin mushaklari qorin a’zolarini diafragmaga itaradi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2178,9 +2178,9 @@
   },
   {
    "id": "ch38-t-qovurgalarni-kotarish",
-   "termUz": "Qovurg'alarni ko'tarish",
+   "termUz": "Qovurg’alarni ko’tarish",
    "original": null,
-   "contextUz": "Qovurg'alarni ko'tarish: tinch holatda qovurg'alar pastga qiya.",
+   "contextUz": "Qovurg’alarni ko’tarish: tinch holatda qovurg’alar pastga qiya.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2198,9 +2198,9 @@
   },
   {
    "id": "ch38-t-tashqi-qovurgalararo",
-   "termUz": "Tashqi qovurg'alararo",
+   "termUz": "Tashqi qovurg’alararo",
    "original": "eng muhim",
-   "contextUz": "Nafas olish mushaklari Nafas chiqarish mushaklari Tashqi qovurg'alararo (eng muhim) Qorin to'g'ri mushaklari (pastki qovurg'alarni tortadi, qorin a'zolarini yuqoriga itaradi) To'sh-o'mrov-so'rg'ichsimon (to'shni ko'taradi) Ichki qovurg'alararo Oldingi tishsimon (ko'p qovurg'ani ko'taradi)  Narvonsimon (scaleni, 1–2-qovurg'ani ko'taradi)",
+   "contextUz": "Nafas olish mushaklari Nafas chiqarish mushaklari Tashqi qovurg’alararo (eng muhim) Qorin to’g’ri mushaklari (pastki qovurg’alarni tortadi, qorin a’zolarini yuqoriga itaradi) To’sh-o’mrov-so’rg’ichsimon (to’shni ko’taradi) Ichki qovurg’alararo Oldingi tishsimon (ko’p qovurg’ani ko’taradi)  Narvonsimon (scaleni, 1–2-qovurg’ani ko’taradi)",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2208,9 +2208,9 @@
   },
   {
    "id": "ch38-t-qorin-togri-mushaklari",
-   "termUz": "Qorin to'g'ri mushaklari",
-   "original": "pastki qovurg'alarni tortadi, qorin a'zolarini yuqoriga itaradi",
-   "contextUz": "Nafas olish mushaklari Nafas chiqarish mushaklari Tashqi qovurg'alararo (eng muhim) Qorin to'g'ri mushaklari (pastki qovurg'alarni tortadi, qorin a'zolarini yuqoriga itaradi) To'sh-o'mrov-so'rg'ichsimon (to'shni ko'taradi) Ichki qovurg'alararo Oldingi tishsimon (ko'p qovurg'ani ko'taradi)  Narvonsimon (scaleni, 1–2-qovurg'ani ko'taradi)",
+   "termUz": "Qorin to’g’ri mushaklari",
+   "original": "pastki qovurg’alarni tortadi, qorin a’zolarini yuqoriga itaradi",
+   "contextUz": "Nafas olish mushaklari Nafas chiqarish mushaklari Tashqi qovurg’alararo (eng muhim) Qorin to’g’ri mushaklari (pastki qovurg’alarni tortadi, qorin a’zolarini yuqoriga itaradi) To’sh-o’mrov-so’rg’ichsimon (to’shni ko’taradi) Ichki qovurg’alararo Oldingi tishsimon (ko’p qovurg’ani ko’taradi)  Narvonsimon (scaleni, 1–2-qovurg’ani ko’taradi)",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2218,9 +2218,9 @@
   },
   {
    "id": "ch38-t-ichki-qovurgalararo",
-   "termUz": "Ichki qovurg'alararo",
+   "termUz": "Ichki qovurg’alararo",
    "original": null,
-   "contextUz": "Nafas olish mushaklari Nafas chiqarish mushaklari Tashqi qovurg'alararo (eng muhim) Qorin to'g'ri mushaklari (pastki qovurg'alarni tortadi, qorin a'zolarini yuqoriga itaradi) To'sh-o'mrov-so'rg'ichsimon (to'shni ko'taradi) Ichki qovurg'alararo Oldingi tishsimon (ko'p qovurg'ani ko'taradi)  Narvonsimon (scaleni, 1–2-qovurg'ani ko'taradi)",
+   "contextUz": "Nafas olish mushaklari Nafas chiqarish mushaklari Tashqi qovurg’alararo (eng muhim) Qorin to’g’ri mushaklari (pastki qovurg’alarni tortadi, qorin a’zolarini yuqoriga itaradi) To’sh-o’mrov-so’rg’ichsimon (to’shni ko’taradi) Ichki qovurg’alararo Oldingi tishsimon (ko’p qovurg’ani ko’taradi)  Narvonsimon (scaleni, 1–2-qovurg’ani ko’taradi)",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2228,9 +2228,9 @@
   },
   {
    "id": "ch38-t-qovurgalararo-mushaklar-mexanikasi",
-   "termUz": "Qovurg'alararo mushaklar mexanikasi",
+   "termUz": "Qovurg’alararo mushaklar mexanikasi",
    "original": null,
-   "contextUz": "Qovurg'alararo mushaklar mexanikasi: tashqi qovurg'alararo mushak oldinga-pastga qiya.",
+   "contextUz": "Qovurg’alararo mushaklar mexanikasi: tashqi qovurg’alararo mushak oldinga-pastga qiya.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2240,7 +2240,7 @@
    "id": "ch38-t-plevra-qatlamlari",
    "termUz": "Plevra qatlamlari",
    "original": null,
-   "contextUz": "Plevra qatlamlari: o'pka faqat ildizida (hilus) mediastinga osilgan.",
+   "contextUz": "Plevra qatlamlari: o’pka faqat ildizida (hilus) mediastinga osilgan.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2250,7 +2250,7 @@
    "id": "ch38-t-plevral-bosim",
    "termUz": "Plevral bosim",
    "original": null,
-   "contextUz": "Bosim Tinch nafasda Plevral bosim nafas olish boshida −5 sm H₂O (o'pkani dam holatida ochiq ushlab turadi), oxirida −7,5 sm H₂O.",
+   "contextUz": "Bosim Tinch nafasda Plevral bosim nafas olish boshida −5 sm H₂O (o’pkani dam holatida ochiq ushlab turadi), oxirida −7,5 sm H₂O.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2260,7 +2260,7 @@
    "id": "ch38-t-alveolyar-bosim",
    "termUz": "Alveolyar bosim",
    "original": null,
-   "contextUz": "Hajm 0,5 l ga ortadi Alveolyar bosim glottis ochiq, oqim yo'q: 0 (atmosfera).",
+   "contextUz": "Hajm 0,5 l ga ortadi Alveolyar bosim glottis ochiq, oqim yo’q: 0 (atmosfera).",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2280,7 +2280,7 @@
    "id": "ch38-t-recoil-pressure",
    "termUz": "recoil pressure",
    "original": null,
-   "contextUz": "O'pkaning elastik qaytish kuchi (recoil pressure) o'lchovi",
+   "contextUz": "O’pkaning elastik qaytish kuchi (recoil pressure) o’lchovi",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2288,9 +2288,9 @@
   },
   {
    "id": "ch38-t-ikkala-opka-200-ml-sm-h-o",
-   "termUz": "Ikkala o'pka: ~200 ml/sm H₂O",
+   "termUz": "Ikkala o’pka: ~200 ml/sm H₂O",
    "original": null,
-   "contextUz": "Ikkala o'pka: ~200 ml/sm H₂O.",
+   "contextUz": "Ikkala o’pka: ~200 ml/sm H₂O.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2308,9 +2308,9 @@
   },
   {
    "id": "ch38-t-opka-elastikligining-ikki-manbai",
-   "termUz": "O'pka elastikligining ikki manbai",
+   "termUz": "O’pka elastikligining ikki manbai",
    "original": null,
-   "contextUz": "O'pka elastikligining ikki manbai:",
+   "contextUz": "O’pka elastikligining ikki manbai:",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2318,9 +2318,9 @@
   },
   {
    "id": "ch38-t-toqima-elastikligi",
-   "termUz": "To'qima elastikligi",
+   "termUz": "To’qima elastikligi",
    "original": null,
-   "contextUz": "To'qima elastikligi: elastin va kollagen tolalari.",
+   "contextUz": "To’qima elastikligi: elastin va kollagen tolalari.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2328,9 +2328,9 @@
   },
   {
    "id": "ch38-t-fiziologik-eritma-bilan-toldirilgan-opka-tajribasi",
-   "termUz": "Fiziologik eritma bilan to'ldirilgan o'pka tajribasi",
+   "termUz": "Fiziologik eritma bilan to’ldirilgan o’pka tajribasi",
    "original": null,
-   "contextUz": "Fiziologik eritma bilan to'ldirilgan o'pka tajribasi: bunda suyuqlik-havo chegarasi yo'q.",
+   "contextUz": "Fiziologik eritma bilan to’ldirilgan o’pka tajribasi: bunda suyuqlik-havo chegarasi yo’q.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2340,7 +2340,7 @@
    "id": "ch38-t-3-marta",
    "termUz": "~3 marta",
    "original": null,
-   "contextUz": "Havo bilan to'ldirilgan o'pkani kengaytirish uchun ~3 marta ko'p bosim kerak.",
+   "contextUz": "Havo bilan to’ldirilgan o’pkani kengaytirish uchun ~3 marta ko’p bosim kerak.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2350,7 +2350,7 @@
    "id": "ch38-t-1-3",
    "termUz": "~1/3",
    "original": null,
-   "contextUz": "Demak to'qima elastikligi umumiyning ~1/3 qismi, sirt tarangligi ~2/3 qismi.",
+   "contextUz": "Demak to’qima elastikligi umumiyning ~1/3 qismi, sirt tarangligi ~2/3 qismi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2360,7 +2360,7 @@
    "id": "ch38-t-sirt-tarangligi-2-3",
    "termUz": "sirt tarangligi ~2/3",
    "original": null,
-   "contextUz": "Demak to'qima elastikligi umumiyning ~1/3 qismi, sirt tarangligi ~2/3 qismi.",
+   "contextUz": "Demak to’qima elastikligi umumiyning ~1/3 qismi, sirt tarangligi ~2/3 qismi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2370,7 +2370,7 @@
    "id": "ch38-t-sirt-tarangligi-elastik-kuchi",
    "termUz": "sirt tarangligi elastik kuchi",
    "original": null,
-   "contextUz": "Natijada sirt tarangligi elastik kuchi paydo bo'ladi.",
+   "contextUz": "Natijada sirt tarangligi elastik kuchi paydo bo’ladi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2430,7 +2430,7 @@
    "id": "ch38-t-4-sm-h-o-3-mm-hg",
    "termUz": "4 sm H₂O (3 mm Hg)",
    "original": null,
-   "contextUz": "Radiusi ~100 µm bo'lgan alveola normal surfaktant bilan ~4 sm H₂O (3 mm Hg) bosim hosil qiladi.",
+   "contextUz": "Radiusi ~100 µm bo’lgan alveola normal surfaktant bilan ~4 sm H₂O (3 mm Hg) bosim hosil qiladi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2440,7 +2440,7 @@
    "id": "ch38-t-18-sm-h-o",
    "termUz": "18 sm H₂O",
    "original": null,
-   "contextUz": "Toza suv bilan ~18 sm H₂O, ya'ni 4,5 marta ko'p.",
+   "contextUz": "Toza suv bilan ~18 sm H₂O, ya’ni 4,5 marta ko’p.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2448,9 +2448,9 @@
   },
   {
    "id": "ch38-t-radius-kichik-bolsa-bosim-katta",
-   "termUz": "Radius kichik bo'lsa, bosim katta.",
+   "termUz": "Radius kichik bo’lsa, bosim katta.",
    "original": null,
-   "contextUz": "Radius kichik bo'lsa, bosim katta. Radius ikki baravar kichraysa, bosim ikki baravar ortadi.",
+   "contextUz": "Radius kichik bo’lsa, bosim katta. Radius ikki baravar kichraysa, bosim ikki baravar ortadi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2458,9 +2458,9 @@
   },
   {
    "id": "ch38-t-klinik-yangi-tugilganlarning-respirator-distress-sindromi",
-   "termUz": "Klinik: yangi tug'ilganlarning respirator distress sindromi",
+   "termUz": "Klinik: yangi tug’ilganlarning respirator distress sindromi",
    "original": null,
-   "contextUz": "Klinik: yangi tug'ilganlarning respirator distress sindromi",
+   "contextUz": "Klinik: yangi tug’ilganlarning respirator distress sindromi",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2470,7 +2470,7 @@
    "id": "ch38-t-6-7-oyi",
    "termUz": "6–7-oyi",
    "original": null,
-   "contextUz": "Surfaktant homiladorlikning 6–7-oyidan (ba'zan kechroq) ajrala boshlaydi.",
+   "contextUz": "Surfaktant homiladorlikning 6–7-oyidan (ba’zan kechroq) ajrala boshlaydi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2480,7 +2480,7 @@
    "id": "ch38-t-6-8-marta",
    "termUz": "6–8 marta",
    "original": null,
-   "contextUz": "Shuning uchun o'pkaning yopilishga moyilligi kattalarnikidan 6–8 marta ko'p.",
+   "contextUz": "Shuning uchun o’pkaning yopilishga moyilligi kattalarnikidan 6–8 marta ko’p.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2498,9 +2498,9 @@
   },
   {
    "id": "ch38-t-opka-kokrak-qafasi-110-ml-sm-h-o",
-   "termUz": "O'pka + ko'krak qafasi: ~110 ml/sm H₂O",
+   "termUz": "O’pka + ko’krak qafasi: ~110 ml/sm H₂O",
    "original": null,
-   "contextUz": "O'pka + ko'krak qafasi: ~110 ml/sm H₂O, ya'ni faqat o'pkanikining (200) deyarli yarmi.",
+   "contextUz": "O’pka + ko’krak qafasi: ~110 ml/sm H₂O, ya’ni faqat o’pkanikining (200) deyarli yarmi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2510,7 +2510,7 @@
    "id": "ch38-t-nafas-olish-ishining-uch-qismi",
    "termUz": "Nafas olish ishining uch qismi",
    "original": null,
-   "contextUz": "Nafas olish ishining uch qismi: Komplians (elastik) ishi: o'pka va ko'krakning elastik kuchlariga qarshi.",
+   "contextUz": "Nafas olish ishining uch qismi: Komplians (elastik) ishi: o’pka va ko’krakning elastik kuchlariga qarshi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2520,7 +2520,7 @@
    "id": "ch38-t-komplians-elastik-ishi",
    "termUz": "Komplians (elastik) ishi",
    "original": null,
-   "contextUz": "Nafas olish ishining uch qismi: Komplians (elastik) ishi: o'pka va ko'krakning elastik kuchlariga qarshi.",
+   "contextUz": "Nafas olish ishining uch qismi: Komplians (elastik) ishi: o’pka va ko’krakning elastik kuchlariga qarshi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2528,9 +2528,9 @@
   },
   {
    "id": "ch38-t-toqima-qarshiligi-ishi",
-   "termUz": "To'qima qarshiligi ishi",
+   "termUz": "To’qima qarshiligi ishi",
    "original": null,
-   "contextUz": "To'qima qarshiligi ishi: to'qimalarning yopishqoqligiga qarshi.",
+   "contextUz": "To’qima qarshiligi ishi: to’qimalarning yopishqoqligiga qarshi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2538,9 +2538,9 @@
   },
   {
    "id": "ch38-t-havo-yoli-qarshiligi-ishi",
-   "termUz": "Havo yo'li qarshiligi ishi",
+   "termUz": "Havo yo’li qarshiligi ishi",
    "original": null,
-   "contextUz": "Havo yo'li qarshiligi ishi.",
+   "contextUz": "Havo yo’li qarshiligi ishi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2560,7 +2560,7 @@
    "id": "ch38-t-50-martagacha",
    "termUz": "50 martagacha",
    "original": null,
-   "contextUz": "Og'ir jismoniy ishda 50 martagacha ortishi mumkin, ayniqsa havo yo'li qarshiligi oshgan yoki komplians kamaygan bo'lsa.",
+   "contextUz": "Og’ir jismoniy ishda 50 martagacha ortishi mumkin, ayniqsa havo yo’li qarshiligi oshgan yoki komplians kamaygan bo’lsa.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2570,7 +2570,7 @@
    "id": "ch38-t-spirometr",
    "termUz": "Spirometr",
    "original": null,
-   "contextUz": "Spirometr: suv ustida ag'darilgan, posangi bilan muvozanatlangan baraban.",
+   "contextUz": "Spirometr: suv ustida ag’darilgan, posangi bilan muvozanatlangan baraban.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2578,9 +2578,9 @@
   },
   {
    "id": "ch38-t-jadval-38-1-yosh-soglom-kattalar",
-   "termUz": "Jadval 38-1 (yosh sog'lom kattalar)",
+   "termUz": "Jadval 38-1 (yosh sog’lom kattalar)",
    "original": null,
-   "contextUz": "Jadval 38-1 (yosh sog'lom kattalar)",
+   "contextUz": "Jadval 38-1 (yosh sog’lom kattalar)",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2590,7 +2590,7 @@
    "id": "ch38-t-nafas-hajmi-vt",
    "termUz": "Nafas hajmi (VT)",
    "original": null,
-   "contextUz": "Erkak (ml) Ayol (ml) Nafas hajmi (VT) 500 400 Nafas olish zaxira hajmi (IRV) 3000 1900 Nafas chiqarish zaxira hajmi (ERV) 1100 700 Qoldiq hajm (RV) 1200 1100 Nafas olish sig'imi (IC = VT + IRV) 3500 2400 Funksional qoldiq sig'im (FRC = ERV + RV) 2300 1800 Tiriklik sig'imi (VC = IRV + VT + ERV) 4600 3100 Umumiy o'pka sig'imi (TLC = VC + RV) 5800 4200",
+   "contextUz": "Erkak (ml) Ayol (ml) Nafas hajmi (VT) 500 400 Nafas olish zaxira hajmi (IRV) 3000 1900 Nafas chiqarish zaxira hajmi (ERV) 1100 700 Qoldiq hajm (RV) 1200 1100 Nafas olish sig’imi (IC = VT + IRV) 3500 2400 Funksional qoldiq sig’im (FRC = ERV + RV) 2300 1800 Tiriklik sig’imi (VC = IRV + VT + ERV) 4600 3100 Umumiy o’pka sig’imi (TLC = VC + RV) 5800 4200",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2600,7 +2600,7 @@
    "id": "ch38-t-nafas-olish-zaxira-hajmi-irv",
    "termUz": "Nafas olish zaxira hajmi (IRV)",
    "original": null,
-   "contextUz": "Erkak (ml) Ayol (ml) Nafas hajmi (VT) 500 400 Nafas olish zaxira hajmi (IRV) 3000 1900 Nafas chiqarish zaxira hajmi (ERV) 1100 700 Qoldiq hajm (RV) 1200 1100 Nafas olish sig'imi (IC = VT + IRV) 3500 2400 Funksional qoldiq sig'im (FRC = ERV + RV) 2300 1800 Tiriklik sig'imi (VC = IRV + VT + ERV) 4600 3100 Umumiy o'pka sig'imi (TLC = VC + RV) 5800 4200",
+   "contextUz": "Erkak (ml) Ayol (ml) Nafas hajmi (VT) 500 400 Nafas olish zaxira hajmi (IRV) 3000 1900 Nafas chiqarish zaxira hajmi (ERV) 1100 700 Qoldiq hajm (RV) 1200 1100 Nafas olish sig’imi (IC = VT + IRV) 3500 2400 Funksional qoldiq sig’im (FRC = ERV + RV) 2300 1800 Tiriklik sig’imi (VC = IRV + VT + ERV) 4600 3100 Umumiy o’pka sig’imi (TLC = VC + RV) 5800 4200",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2610,7 +2610,7 @@
    "id": "ch38-t-nafas-chiqarish-zaxira-hajmi-erv",
    "termUz": "Nafas chiqarish zaxira hajmi (ERV)",
    "original": null,
-   "contextUz": "Erkak (ml) Ayol (ml) Nafas hajmi (VT) 500 400 Nafas olish zaxira hajmi (IRV) 3000 1900 Nafas chiqarish zaxira hajmi (ERV) 1100 700 Qoldiq hajm (RV) 1200 1100 Nafas olish sig'imi (IC = VT + IRV) 3500 2400 Funksional qoldiq sig'im (FRC = ERV + RV) 2300 1800 Tiriklik sig'imi (VC = IRV + VT + ERV) 4600 3100 Umumiy o'pka sig'imi (TLC = VC + RV) 5800 4200",
+   "contextUz": "Erkak (ml) Ayol (ml) Nafas hajmi (VT) 500 400 Nafas olish zaxira hajmi (IRV) 3000 1900 Nafas chiqarish zaxira hajmi (ERV) 1100 700 Qoldiq hajm (RV) 1200 1100 Nafas olish sig’imi (IC = VT + IRV) 3500 2400 Funksional qoldiq sig’im (FRC = ERV + RV) 2300 1800 Tiriklik sig’imi (VC = IRV + VT + ERV) 4600 3100 Umumiy o’pka sig’imi (TLC = VC + RV) 5800 4200",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2620,7 +2620,7 @@
    "id": "ch38-t-qoldiq-hajm-rv",
    "termUz": "Qoldiq hajm (RV)",
    "original": null,
-   "contextUz": "Erkak (ml) Ayol (ml) Nafas hajmi (VT) 500 400 Nafas olish zaxira hajmi (IRV) 3000 1900 Nafas chiqarish zaxira hajmi (ERV) 1100 700 Qoldiq hajm (RV) 1200 1100 Nafas olish sig'imi (IC = VT + IRV) 3500 2400 Funksional qoldiq sig'im (FRC = ERV + RV) 2300 1800 Tiriklik sig'imi (VC = IRV + VT + ERV) 4600 3100 Umumiy o'pka sig'imi (TLC = VC + RV) 5800 4200",
+   "contextUz": "Erkak (ml) Ayol (ml) Nafas hajmi (VT) 500 400 Nafas olish zaxira hajmi (IRV) 3000 1900 Nafas chiqarish zaxira hajmi (ERV) 1100 700 Qoldiq hajm (RV) 1200 1100 Nafas olish sig’imi (IC = VT + IRV) 3500 2400 Funksional qoldiq sig’im (FRC = ERV + RV) 2300 1800 Tiriklik sig’imi (VC = IRV + VT + ERV) 4600 3100 Umumiy o’pka sig’imi (TLC = VC + RV) 5800 4200",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2628,9 +2628,9 @@
   },
   {
    "id": "ch38-t-nafas-olish-sigimi-ic-vt-irv",
-   "termUz": "Nafas olish sig'imi (IC = VT + IRV)",
+   "termUz": "Nafas olish sig’imi (IC = VT + IRV)",
    "original": null,
-   "contextUz": "Erkak (ml) Ayol (ml) Nafas hajmi (VT) 500 400 Nafas olish zaxira hajmi (IRV) 3000 1900 Nafas chiqarish zaxira hajmi (ERV) 1100 700 Qoldiq hajm (RV) 1200 1100 Nafas olish sig'imi (IC = VT + IRV) 3500 2400 Funksional qoldiq sig'im (FRC = ERV + RV) 2300 1800 Tiriklik sig'imi (VC = IRV + VT + ERV) 4600 3100 Umumiy o'pka sig'imi (TLC = VC + RV) 5800 4200",
+   "contextUz": "Erkak (ml) Ayol (ml) Nafas hajmi (VT) 500 400 Nafas olish zaxira hajmi (IRV) 3000 1900 Nafas chiqarish zaxira hajmi (ERV) 1100 700 Qoldiq hajm (RV) 1200 1100 Nafas olish sig’imi (IC = VT + IRV) 3500 2400 Funksional qoldiq sig’im (FRC = ERV + RV) 2300 1800 Tiriklik sig’imi (VC = IRV + VT + ERV) 4600 3100 Umumiy o’pka sig’imi (TLC = VC + RV) 5800 4200",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2638,9 +2638,9 @@
   },
   {
    "id": "ch38-t-funksional-qoldiq-sigim-frc-erv-rv",
-   "termUz": "Funksional qoldiq sig'im (FRC = ERV + RV)",
+   "termUz": "Funksional qoldiq sig’im (FRC = ERV + RV)",
    "original": null,
-   "contextUz": "Erkak (ml) Ayol (ml) Nafas hajmi (VT) 500 400 Nafas olish zaxira hajmi (IRV) 3000 1900 Nafas chiqarish zaxira hajmi (ERV) 1100 700 Qoldiq hajm (RV) 1200 1100 Nafas olish sig'imi (IC = VT + IRV) 3500 2400 Funksional qoldiq sig'im (FRC = ERV + RV) 2300 1800 Tiriklik sig'imi (VC = IRV + VT + ERV) 4600 3100 Umumiy o'pka sig'imi (TLC = VC + RV) 5800 4200",
+   "contextUz": "Erkak (ml) Ayol (ml) Nafas hajmi (VT) 500 400 Nafas olish zaxira hajmi (IRV) 3000 1900 Nafas chiqarish zaxira hajmi (ERV) 1100 700 Qoldiq hajm (RV) 1200 1100 Nafas olish sig’imi (IC = VT + IRV) 3500 2400 Funksional qoldiq sig’im (FRC = ERV + RV) 2300 1800 Tiriklik sig’imi (VC = IRV + VT + ERV) 4600 3100 Umumiy o’pka sig’imi (TLC = VC + RV) 5800 4200",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2648,9 +2648,9 @@
   },
   {
    "id": "ch38-t-tiriklik-sigimi-vc-irv-vt-erv",
-   "termUz": "Tiriklik sig'imi (VC = IRV + VT + ERV)",
+   "termUz": "Tiriklik sig’imi (VC = IRV + VT + ERV)",
    "original": null,
-   "contextUz": "Erkak (ml) Ayol (ml) Nafas hajmi (VT) 500 400 Nafas olish zaxira hajmi (IRV) 3000 1900 Nafas chiqarish zaxira hajmi (ERV) 1100 700 Qoldiq hajm (RV) 1200 1100 Nafas olish sig'imi (IC = VT + IRV) 3500 2400 Funksional qoldiq sig'im (FRC = ERV + RV) 2300 1800 Tiriklik sig'imi (VC = IRV + VT + ERV) 4600 3100 Umumiy o'pka sig'imi (TLC = VC + RV) 5800 4200",
+   "contextUz": "Erkak (ml) Ayol (ml) Nafas hajmi (VT) 500 400 Nafas olish zaxira hajmi (IRV) 3000 1900 Nafas chiqarish zaxira hajmi (ERV) 1100 700 Qoldiq hajm (RV) 1200 1100 Nafas olish sig’imi (IC = VT + IRV) 3500 2400 Funksional qoldiq sig’im (FRC = ERV + RV) 2300 1800 Tiriklik sig’imi (VC = IRV + VT + ERV) 4600 3100 Umumiy o’pka sig’imi (TLC = VC + RV) 5800 4200",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2658,9 +2658,9 @@
   },
   {
    "id": "ch38-t-umumiy-opka-sigimi-tlc-vc-rv",
-   "termUz": "Umumiy o'pka sig'imi (TLC = VC + RV)",
+   "termUz": "Umumiy o’pka sig’imi (TLC = VC + RV)",
    "original": null,
-   "contextUz": "Erkak (ml) Ayol (ml) Nafas hajmi (VT) 500 400 Nafas olish zaxira hajmi (IRV) 3000 1900 Nafas chiqarish zaxira hajmi (ERV) 1100 700 Qoldiq hajm (RV) 1200 1100 Nafas olish sig'imi (IC = VT + IRV) 3500 2400 Funksional qoldiq sig'im (FRC = ERV + RV) 2300 1800 Tiriklik sig'imi (VC = IRV + VT + ERV) 4600 3100 Umumiy o'pka sig'imi (TLC = VC + RV) 5800 4200",
+   "contextUz": "Erkak (ml) Ayol (ml) Nafas hajmi (VT) 500 400 Nafas olish zaxira hajmi (IRV) 3000 1900 Nafas chiqarish zaxira hajmi (ERV) 1100 700 Qoldiq hajm (RV) 1200 1100 Nafas olish sig’imi (IC = VT + IRV) 3500 2400 Funksional qoldiq sig’im (FRC = ERV + RV) 2300 1800 Tiriklik sig’imi (VC = IRV + VT + ERV) 4600 3100 Umumiy o’pka sig’imi (TLC = VC + RV) 5800 4200",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2690,7 +2690,7 @@
    "id": "ch38-t-jadval-38-2",
    "termUz": "Jadval 38-2",
    "original": null,
-   "contextUz": "Jadval 38-2 standart belgilarni beradi: VT, FRC, ERV, RV, IC, IRV, TLC, VC, Raw (havo yo'li qarshiligi), C (komplians), VD (o'lik bo'shliq), V̇A (alveolyar ventilyatsiya), V̇O₂, V̇CO₂, DLO₂, DLCO, PB, Palv, Ppl, PaO₂, PaCO₂, PAO₂, PACO₂, PAH₂O, R (nafas almashinuvi koeffitsienti), Q (yurak minutlik hajmi), CaO₂, Cv̄O₂, SO₂, SaO₂.",
+   "contextUz": "Jadval 38-2 standart belgilarni beradi: VT, FRC, ERV, RV, IC, IRV, TLC, VC, Raw (havo yo’li qarshiligi), C (komplians), VD (o’lik bo’shliq), V̇A (alveolyar ventilyatsiya), V̇O₂, V̇CO₂, DLO₂, DLCO, PB, Palv, Ppl, PaO₂, PaCO₂, PAO₂, PACO₂, PAH₂O, R (nafas almashinuvi koeffitsienti), Q (yurak minutlik hajmi), CaO₂, Cv̄O₂, SO₂, SaO₂.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2700,7 +2700,7 @@
    "id": "ch38-t-usul",
    "termUz": "Usul",
    "original": null,
-   "contextUz": "Usul: Ma'lum hajmli spirometr ma'lum konsentratsiyali geliy aralashmasi bilan to'ldiriladi.",
+   "contextUz": "Usul: Ma’lum hajmli spirometr ma’lum konsentratsiyali geliy aralashmasi bilan to’ldiriladi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2750,7 +2750,7 @@
    "id": "ch38-t-200-l-min",
    "termUz": ">200 l/min",
    "original": null,
-   "contextUz": "Bu >200 l/min, ya'ni normaldan 30 marta ko'p.",
+   "contextUz": "Bu >200 l/min, ya’ni normaldan 30 marta ko’p.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2758,9 +2758,9 @@
   },
   {
    "id": "ch38-t-olik-boshliq",
-   "termUz": "O'lik bo'shliq",
+   "termUz": "O’lik bo’shliq",
    "original": null,
-   "contextUz": "O'lik bo'shliq:",
+   "contextUz": "O’lik bo’shliq:",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2778,9 +2778,9 @@
   },
   {
    "id": "ch38-t-olchash-azot-usuli-rasm-38-7",
-   "termUz": "O'lchash: azot usuli (rasm 38-7)",
+   "termUz": "O’lchash: azot usuli (rasm 38-7)",
    "original": null,
-   "contextUz": "O'lchash: azot usuli (rasm 38-7):",
+   "contextUz": "O’lchash: azot usuli (rasm 38-7):",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2808,9 +2808,9 @@
   },
   {
    "id": "ch38-t-anatomik-olik-boshliq",
-   "termUz": "Anatomik o'lik bo'shliq",
+   "termUz": "Anatomik o’lik bo’shliq",
    "original": null,
-   "contextUz": "Ta'rif Anatomik o'lik bo'shliq alveola va gaz almashinuv sohalaridan tashqari barcha yo'llar Fiziologik o'lik bo'shliq anatomik + qon oqimi yo'q yoki kam bo'lgan alveolalar.",
+   "contextUz": "Ta’rif Anatomik o’lik bo’shliq alveola va gaz almashinuv sohalaridan tashqari barcha yo’llar Fiziologik o’lik bo’shliq anatomik + qon oqimi yo’q yoki kam bo’lgan alveolalar.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2818,9 +2818,9 @@
   },
   {
    "id": "ch38-t-fiziologik-olik-boshliq",
-   "termUz": "Fiziologik o'lik bo'shliq",
+   "termUz": "Fiziologik o’lik bo’shliq",
    "original": null,
-   "contextUz": "Ta'rif Anatomik o'lik bo'shliq alveola va gaz almashinuv sohalaridan tashqari barcha yo'llar Fiziologik o'lik bo'shliq anatomik + qon oqimi yo'q yoki kam bo'lgan alveolalar.",
+   "contextUz": "Ta’rif Anatomik o’lik bo’shliq alveola va gaz almashinuv sohalaridan tashqari barcha yo’llar Fiziologik o’lik bo’shliq anatomik + qon oqimi yo’q yoki kam bo’lgan alveolalar.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2830,7 +2830,7 @@
    "id": "ch38-t-10-martagacha",
    "termUz": "10 martagacha",
    "original": "1–2 l",
-   "contextUz": "Sog'lom o'pkada anatomik bilan deyarli teng; kasallikda 10 martagacha (1–2 l) ortishi mumkin (40 va 43-boblar)",
+   "contextUz": "Sog’lom o’pkada anatomik bilan deyarli teng; kasallikda 10 martagacha (1–2 l) ortishi mumkin (40 va 43-boblar)",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2860,7 +2860,7 @@
    "id": "ch38-t-traxeya",
    "termUz": "Traxeya",
    "original": null,
-   "contextUz": "Traxeya: tog'ay halqalari aylananing ~5/6 qismini o'raydi va yopilishdan saqlaydi.",
+   "contextUz": "Traxeya: tog’ay halqalari aylananing ~5/6 qismini o’raydi va yopilishdan saqlaydi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2870,7 +2870,7 @@
    "id": "ch38-t-bronxlar",
    "termUz": "Bronxlar",
    "original": null,
-   "contextUz": "Bronxlar: egilgan tog'ay plastinkalari bor, keyingi avlodlarda kamayib boradi.",
+   "contextUz": "Bronxlar: egilgan tog’ay plastinkalari bor, keyingi avlodlarda kamayib boradi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2880,7 +2880,7 @@
    "id": "ch38-t-bronxiolalar",
    "termUz": "Bronxiolalar",
    "original": "diametri <1,5 mm",
-   "contextUz": "Bronxiolalar (diametri <1,5 mm): tog'ay yo'q.",
+   "contextUz": "Bronxiolalar (diametri <1,5 mm): tog’ay yo’q.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2890,7 +2890,7 @@
    "id": "ch38-t-silliq-mushak",
    "termUz": "silliq mushak",
    "original": null,
-   "contextUz": "Tog'ay bo'lmagan joylarda devor asosan silliq mushakdan iborat.",
+   "contextUz": "Tog’ay bo’lmagan joylarda devor asosan silliq mushakdan iborat.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2940,7 +2940,7 @@
    "id": "ch38-t-simpatik",
    "termUz": "Simpatik",
    "original": null,
-   "contextUz": "Omil Ta'siri Simpatik bevosita tolalar kam.",
+   "contextUz": "Omil Ta’siri Simpatik bevosita tolalar kam.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2950,7 +2950,7 @@
    "id": "ch38-t-adrenalin",
    "termUz": "adrenalin",
    "original": "β-retseptorlar orqali",
-   "contextUz": "Asosan buyrak usti bezi mag'zidan qonga chiqqan adrenalin (β-retseptorlar orqali) va noradrenalin bronxlarni kengaytiradi Parasimpatik (adashgan nerv, ACh) yengil–o'rtacha torayish.",
+   "contextUz": "Asosan buyrak usti bezi mag’zidan qonga chiqqan adrenalin (β-retseptorlar orqali) va noradrenalin bronxlarni kengaytiradi Parasimpatik (adashgan nerv, ACh) yengil–o’rtacha torayish.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2960,7 +2960,7 @@
    "id": "ch38-t-kengaytiradi",
    "termUz": "kengaytiradi",
    "original": null,
-   "contextUz": "Asosan buyrak usti bezi mag'zidan qonga chiqqan adrenalin (β-retseptorlar orqali) va noradrenalin bronxlarni kengaytiradi Parasimpatik (adashgan nerv, ACh) yengil–o'rtacha torayish.",
+   "contextUz": "Asosan buyrak usti bezi mag’zidan qonga chiqqan adrenalin (β-retseptorlar orqali) va noradrenalin bronxlarni kengaytiradi Parasimpatik (adashgan nerv, ACh) yengil–o’rtacha torayish.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2970,7 +2970,7 @@
    "id": "ch38-t-parasimpatik-adashgan-nerv-ach",
    "termUz": "Parasimpatik (adashgan nerv, ACh)",
    "original": null,
-   "contextUz": "Asosan buyrak usti bezi mag'zidan qonga chiqqan adrenalin (β-retseptorlar orqali) va noradrenalin bronxlarni kengaytiradi Parasimpatik (adashgan nerv, ACh) yengil–o'rtacha torayish.",
+   "contextUz": "Asosan buyrak usti bezi mag’zidan qonga chiqqan adrenalin (β-retseptorlar orqali) va noradrenalin bronxlarni kengaytiradi Parasimpatik (adashgan nerv, ACh) yengil–o’rtacha torayish.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2980,7 +2980,7 @@
    "id": "ch38-t-torayish",
    "termUz": "torayish",
    "original": null,
-   "contextUz": "Asosan buyrak usti bezi mag'zidan qonga chiqqan adrenalin (β-retseptorlar orqali) va noradrenalin bronxlarni kengaytiradi Parasimpatik (adashgan nerv, ACh) yengil–o'rtacha torayish.",
+   "contextUz": "Asosan buyrak usti bezi mag’zidan qonga chiqqan adrenalin (β-retseptorlar orqali) va noradrenalin bronxlarni kengaytiradi Parasimpatik (adashgan nerv, ACh) yengil–o’rtacha torayish.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -2990,7 +2990,7 @@
    "id": "ch38-t-atropin",
    "termUz": "atropin",
    "original": null,
-   "contextUz": "Astmada vaziyatni og'irlashtiradi, atropin ba'zan yordam beradi.",
+   "contextUz": "Astmada vaziyatni og’irlashtiradi, atropin ba’zan yordam beradi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -3000,7 +3000,7 @@
    "id": "ch38-t-mahalliy-moddalar",
    "termUz": "Mahalliy moddalar",
    "original": null,
-   "contextUz": "Reflekslarni zararli gazlar, chang, sigaret tutuni, infeksiya, mayda o'pka arteriyalari mikroemboliyasi qo'zg'atadi Mahalliy moddalar allergiyada (ayniqsa gul changida) mast hujayralardan gistamin va anafilaksiyaning sekin ta'sir qiluvchi moddasi (leykotrienlar) chiqadi; allergik astmaning asosiy sababi, ayniqsa leykotrienlar.",
+   "contextUz": "Reflekslarni zararli gazlar, chang, sigaret tutuni, infeksiya, mayda o’pka arteriyalari mikroemboliyasi qo’zg’atadi Mahalliy moddalar allergiyada (ayniqsa gul changida) mast hujayralardan gistamin va anafilaksiyaning sekin ta’sir qiluvchi moddasi (leykotrienlar) chiqadi; allergik astmaning asosiy sababi, ayniqsa leykotrienlar.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -3010,7 +3010,7 @@
    "id": "ch38-t-gistamin",
    "termUz": "gistamin",
    "original": null,
-   "contextUz": "Reflekslarni zararli gazlar, chang, sigaret tutuni, infeksiya, mayda o'pka arteriyalari mikroemboliyasi qo'zg'atadi Mahalliy moddalar allergiyada (ayniqsa gul changida) mast hujayralardan gistamin va anafilaksiyaning sekin ta'sir qiluvchi moddasi (leykotrienlar) chiqadi; allergik astmaning asosiy sababi, ayniqsa leykotrienlar.",
+   "contextUz": "Reflekslarni zararli gazlar, chang, sigaret tutuni, infeksiya, mayda o’pka arteriyalari mikroemboliyasi qo’zg’atadi Mahalliy moddalar allergiyada (ayniqsa gul changida) mast hujayralardan gistamin va anafilaksiyaning sekin ta’sir qiluvchi moddasi (leykotrienlar) chiqadi; allergik astmaning asosiy sababi, ayniqsa leykotrienlar.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -3018,9 +3018,9 @@
   },
   {
    "id": "ch38-t-anafilaksiyaning-sekin-tasir-qiluvchi-moddasi",
-   "termUz": "anafilaksiyaning sekin ta'sir qiluvchi moddasi",
+   "termUz": "anafilaksiyaning sekin ta’sir qiluvchi moddasi",
    "original": "leykotrienlar",
-   "contextUz": "Reflekslarni zararli gazlar, chang, sigaret tutuni, infeksiya, mayda o'pka arteriyalari mikroemboliyasi qo'zg'atadi Mahalliy moddalar allergiyada (ayniqsa gul changida) mast hujayralardan gistamin va anafilaksiyaning sekin ta'sir qiluvchi moddasi (leykotrienlar) chiqadi; allergik astmaning asosiy sababi, ayniqsa leykotrienlar.",
+   "contextUz": "Reflekslarni zararli gazlar, chang, sigaret tutuni, infeksiya, mayda o’pka arteriyalari mikroemboliyasi qo’zg’atadi Mahalliy moddalar allergiyada (ayniqsa gul changida) mast hujayralardan gistamin va anafilaksiyaning sekin ta’sir qiluvchi moddasi (leykotrienlar) chiqadi; allergik astmaning asosiy sababi, ayniqsa leykotrienlar.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -3030,7 +3030,7 @@
    "id": "ch38-t-shilliq",
    "termUz": "shilliq",
    "original": null,
-   "contextUz": "Burundan terminal bronxiolalargacha barcha yo'llar shilliq bilan qoplangan.",
+   "contextUz": "Burundan terminal bronxiolalargacha barcha yo’llar shilliq bilan qoplangan.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -3050,7 +3050,7 @@
    "id": "ch38-t-halqum-tomon",
    "termUz": "halqum tomon",
    "original": null,
-   "contextUz": "Kuchli zarba doimo halqum tomon: o'pkada yuqoriga, burunda pastga.",
+   "contextUz": "Kuchli zarba doimo halqum tomon: o’pkada yuqoriga, burunda pastga.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -3080,7 +3080,7 @@
    "id": "ch38-t-adashgan-nerv",
    "termUz": "adashgan nerv",
    "original": null,
-   "contextUz": "Afferent yo'l asosan adashgan nerv orqali uzunchoq miyaga boradi.",
+   "contextUz": "Afferent yo’l asosan adashgan nerv orqali uzunchoq miyaga boradi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -3110,7 +3110,7 @@
    "id": "ch38-t-100-mm-hg",
    "termUz": "≥100 mm Hg",
    "original": null,
-   "contextUz": "Qorin mushaklari va ichki qovurg'alararo mushaklar kuchli qisqaradi, o'pkadagi bosim ≥100 mm Hg ga yetadi.",
+   "contextUz": "Qorin mushaklari va ichki qovurg’alararo mushaklar kuchli qisqaradi, o’pkadagi bosim ≥100 mm Hg ga yetadi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -3120,7 +3120,7 @@
    "id": "ch38-t-75-100-milya",
    "termUz": "75–100 milya",
    "original": null,
-   "contextUz": "Epiglottis va ovoz boylamlari to'satdan keng ochiladi, havo soatiga 75–100 milya tezlikda otilib chiqadi.",
+   "contextUz": "Epiglottis va ovoz boylamlari to’satdan keng ochiladi, havo soatiga 75–100 milya tezlikda otilib chiqadi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -3130,7 +3130,7 @@
    "id": "ch38-t-v-kranial-nerv-uchlik-nerv",
    "termUz": "V kranial nerv (uchlik nerv)",
    "original": null,
-   "contextUz": "Afferent yo'l V kranial nerv (uchlik nerv) orqali uzunchoq miyaga boradi.",
+   "contextUz": "Afferent yo’l V kranial nerv (uchlik nerv) orqali uzunchoq miyaga boradi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -3140,7 +3140,7 @@
    "id": "ch38-t-isitish",
    "termUz": "Isitish",
    "original": null,
-   "contextUz": "Isitish: burun chig'anoqlari va to'siq yuzasi ~160 sm².",
+   "contextUz": "Isitish: burun chig’anoqlari va to’siq yuzasi ~160 sm².",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -3150,7 +3150,7 @@
    "id": "ch38-t-160-sm",
    "termUz": "160 sm²",
    "original": null,
-   "contextUz": "Isitish: burun chig'anoqlari va to'siq yuzasi ~160 sm².",
+   "contextUz": "Isitish: burun chig’anoqlari va to’siq yuzasi ~160 sm².",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -3160,7 +3160,7 @@
    "id": "ch38-t-namlash",
    "termUz": "Namlash",
    "original": null,
-   "contextUz": "Namlash: deyarli to'liq.",
+   "contextUz": "Namlash: deyarli to’liq.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -3180,7 +3180,7 @@
    "id": "ch38-t-traxeostomiyada",
    "termUz": "Traxeostomiyada",
    "original": null,
-   "contextUz": "Traxeostomiyada havo sovuq va quruq kirgani uchun o'pkada qasqoq (krust) va infeksiya paydo bo'lishi mumkin.",
+   "contextUz": "Traxeostomiyada havo sovuq va quruq kirgani uchun o’pkada qasqoq (krust) va infeksiya paydo bo’lishi mumkin.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -3198,9 +3198,9 @@
   },
   {
    "id": "ch38-t-turbulent-chokish",
-   "termUz": "turbulent cho'kish",
+   "termUz": "turbulent cho’kish",
    "original": null,
-   "contextUz": "Asosiy mexanizm turbulent cho'kish: havo chig'anoqlar (turbinatlar), to'siq va halqum devoriga urilib yo'nalishini o'zgartiradi.",
+   "contextUz": "Asosiy mexanizm turbulent cho’kish: havo chig’anoqlar (turbinatlar), to’siq va halqum devoriga urilib yo’nalishini o’zgartiradi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -3210,7 +3210,7 @@
    "id": "ch38-t-6-m",
    "termUz": ">6 µm",
    "original": null,
-   "contextUz": "Zarracha o'lchami Taqdiri >6 µm burundan o'pkaga deyarli o'tmaydi (eritrotsitdan kichik!) 1–5 µm mayda bronxiolalarda gravitatsion cho'kadi.",
+   "contextUz": "Zarracha o’lchami Taqdiri >6 µm burundan o’pkaga deyarli o’tmaydi (eritrotsitdan kichik!) 1–5 µm mayda bronxiolalarda gravitatsion cho’kadi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -3220,7 +3220,7 @@
    "id": "ch38-t-1-5-m",
    "termUz": "1–5 µm",
    "original": null,
-   "contextUz": "Zarracha o'lchami Taqdiri >6 µm burundan o'pkaga deyarli o'tmaydi (eritrotsitdan kichik!) 1–5 µm mayda bronxiolalarda gravitatsion cho'kadi.",
+   "contextUz": "Zarracha o’lchami Taqdiri >6 µm burundan o’pkaga deyarli o’tmaydi (eritrotsitdan kichik!) 1–5 µm mayda bronxiolalarda gravitatsion cho’kadi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -3230,7 +3230,7 @@
    "id": "ch38-t-1-m",
    "termUz": "<1 µm",
    "original": null,
-   "contextUz": "Masalan, ko'mir konchilarida terminal bronxiola kasalligi <1 µm ba'zilari alveola devoriga diffuziya bilan yopishadi <0,5 µm ko'pi alveola havosida muallaq qolib, nafas chiqarish bilan chiqadi.",
+   "contextUz": "Masalan, ko’mir konchilarida terminal bronxiola kasalligi <1 µm ba’zilari alveola devoriga diffuziya bilan yopishadi <0,5 µm ko’pi alveola havosida muallaq qolib, nafas chiqarish bilan chiqadi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -3240,7 +3240,7 @@
    "id": "ch38-t-0-5-m",
    "termUz": "<0,5 µm",
    "original": null,
-   "contextUz": "Masalan, ko'mir konchilarida terminal bronxiola kasalligi <1 µm ba'zilari alveola devoriga diffuziya bilan yopishadi <0,5 µm ko'pi alveola havosida muallaq qolib, nafas chiqarish bilan chiqadi.",
+   "contextUz": "Masalan, ko’mir konchilarida terminal bronxiola kasalligi <1 µm ba’zilari alveola devoriga diffuziya bilan yopishadi <0,5 µm ko’pi alveola havosida muallaq qolib, nafas chiqarish bilan chiqadi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -3250,7 +3250,7 @@
    "id": "ch38-t-sigaret-tutuni-0-3-m",
    "termUz": "Sigaret tutuni ~0,3 µm",
    "original": null,
-   "contextUz": "Sigaret tutuni ~0,3 µm: deyarli hech biri yo'llarda cho'kmaydi, 1/3 gacha qismi alveolalarda diffuziya bilan cho'kadi",
+   "contextUz": "Sigaret tutuni ~0,3 µm: deyarli hech biri yo’llarda cho’kmaydi, 1/3 gacha qismi alveolalarda diffuziya bilan cho’kadi",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -3260,7 +3260,7 @@
    "id": "ch38-t-1-3-gacha",
    "termUz": "1/3 gacha",
    "original": null,
-   "contextUz": "Sigaret tutuni ~0,3 µm: deyarli hech biri yo'llarda cho'kmaydi, 1/3 gacha qismi alveolalarda diffuziya bilan cho'kadi",
+   "contextUz": "Sigaret tutuni ~0,3 µm: deyarli hech biri yo’llarda cho’kmaydi, 1/3 gacha qismi alveolalarda diffuziya bilan cho’kadi",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -3270,7 +3270,7 @@
    "id": "ch38-t-fibroz",
    "termUz": "fibroz",
    "original": null,
-   "contextUz": "Ortiqcha zarracha alveola to'siqlarida fibroz va doimiy nogironlik chaqiradi.",
+   "contextUz": "Ortiqcha zarracha alveola to’siqlarida fibroz va doimiy nogironlik chaqiradi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -3300,7 +3300,7 @@
    "id": "ch38-t-tovush-balandligi",
    "termUz": "Tovush balandligi",
    "original": null,
-   "contextUz": "Tovush balandligi asosan boylamlarning taranglik darajasiga, shuningdek bir-biriga yaqinlashish zichligiga va chetlarining massasiga bog'liq.",
+   "contextUz": "Tovush balandligi asosan boylamlarning taranglik darajasiga, shuningdek bir-biriga yaqinlashish zichligiga va chetlarining massasiga bog’liq.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -3310,7 +3310,7 @@
    "id": "ch38-t-taranglik-darajasi",
    "termUz": "taranglik darajasi",
    "original": null,
-   "contextUz": "Tovush balandligi asosan boylamlarning taranglik darajasiga, shuningdek bir-biriga yaqinlashish zichligiga va chetlarining massasiga bog'liq.",
+   "contextUz": "Tovush balandligi asosan boylamlarning taranglik darajasiga, shuningdek bir-biriga yaqinlashish zichligiga va chetlarining massasiga bog’liq.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -3338,9 +3338,9 @@
   },
   {
    "id": "ch38-t-qalqonsimon-togay",
-   "termUz": "qalqonsimon tog'ay",
+   "termUz": "qalqonsimon tog’ay",
    "original": null,
-   "contextUz": "Oldinda qalqonsimon tog'ayga (\"Odam olmasi\"), orqada ikkita cho'michsimon tog'ayning ovoz o'simtalariga birikadi.",
+   "contextUz": "Oldinda qalqonsimon tog’ayga (\"Odam olmasi\"), orqada ikkita cho’michsimon tog’ayning ovoz o’simtalariga birikadi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -3348,9 +3348,9 @@
   },
   {
    "id": "ch38-t-chomichsimon-togay",
-   "termUz": "cho'michsimon tog'ay",
+   "termUz": "cho’michsimon tog’ay",
    "original": null,
-   "contextUz": "Oldinda qalqonsimon tog'ayga (\"Odam olmasi\"), orqada ikkita cho'michsimon tog'ayning ovoz o'simtalariga birikadi.",
+   "contextUz": "Oldinda qalqonsimon tog’ayga (\"Odam olmasi\"), orqada ikkita cho’michsimon tog’ayning ovoz o’simtalariga birikadi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -3358,9 +3358,9 @@
   },
   {
    "id": "ch38-t-uzuksimon-togay",
-   "termUz": "uzuksimon tog'ay",
+   "termUz": "uzuksimon tog’ay",
    "original": null,
-   "contextUz": "Ikkalasi pastda uzuksimon tog'ay bilan bo'g'im hosil qiladi.",
+   "contextUz": "Ikkalasi pastda uzuksimon tog’ay bilan bo’g’im hosil qiladi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -3368,9 +3368,9 @@
   },
   {
    "id": "ch38-t-chozilishi",
-   "termUz": "Cho'zilishi",
+   "termUz": "Cho’zilishi",
    "original": null,
-   "contextUz": "Cho'zilishi: qalqonsimon tog'ay oldinga yoki cho'michsimon tog'ay orqaga buriladi.",
+   "contextUz": "Cho’zilishi: qalqonsimon tog’ay oldinga yoki cho’michsimon tog’ay orqaga buriladi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -3378,9 +3378,9 @@
   },
   {
    "id": "ch38-t-boshashishi",
-   "termUz": "Bo'shashishi",
+   "termUz": "Bo’shashishi",
    "original": null,
-   "contextUz": "Bo'shashishi: qalqon-cho'michsimon mushak cho'michsimon tog'ayni oldinga tortadi.",
+   "contextUz": "Bo’shashishi: qalqon-cho’michsimon mushak cho’michsimon tog’ayni oldinga tortadi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
@@ -3388,9 +3388,9 @@
   },
   {
    "id": "ch38-t-qalqon-chomichsimon-mushak",
-   "termUz": "qalqon-cho'michsimon mushak",
+   "termUz": "qalqon-cho’michsimon mushak",
    "original": null,
-   "contextUz": "Bo'shashishi: qalqon-cho'michsimon mushak cho'michsimon tog'ayni oldinga tortadi.",
+   "contextUz": "Bo’shashishi: qalqon-cho’michsimon mushak cho’michsimon tog’ayni oldinga tortadi.",
    "lessonId": "ch38",
    "topicId": "07",
    "source": "summaryUz",
