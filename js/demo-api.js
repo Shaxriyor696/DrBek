@@ -1,7 +1,8 @@
 // Web preview ("demo") backend: answers /api/* calls in the browser.
 // Book content comes from JSON snapshots of the real API (demo/data/*.json, built by
 // tools/build-demo.mjs); the student's own state (progress, reading time, saved items,
-// notes, tests, chats) lives in localStorage. The AI is not connected here.
+// notes, tests, chats) lives in localStorage. The AI goes through the AI Worker when
+// window.DS_AI_URL is set (see aiAnswer); otherwise only matching book passages are shown.
 import { ApiErr } from './api.js';
 
 const KEY = 'ds-demo-state-v1';
@@ -215,7 +216,7 @@ async function search(q, { type, topic, page = 1, limit = 20 } = {}) {
   };
   const results = hits.slice((page - 1) * limit, page * limit).map(({ r }, i) => ({
     id: `${r.k}:${r.l || r.t}:${r.b || r.f || i}`, type: r.k, badge: kinds[r.k], topicId: r.t, lessonId: r.l || null, blockId: r.b || null, lang: r.lang,
-    title: r.title, snippet: snip(r.text || r.en || ''), locator: r.p ? { pdfPage: r.p } : null, imageId: r.f || null,
+    title: r.title, snippet: snip(r.text || r.en || ''), _full: String(r.text || r.en || '').slice(0, 2200), locator: r.p ? { pdfPage: r.p } : null, imageId: r.f || null,
     lessonTitle: r.l ? idx.get(r.l)?.titleUz : null,
   }));
   return { results, total: hits.length, page, pages: Math.ceil(hits.length / limit) };
@@ -522,7 +523,18 @@ on('GET', '/api/dashboard', async () => {
 });
 
 // chat: threads are kept; the AI itself is not connected in the web preview
-on('GET', '/api/chat/status', () => ({ available: false, model: null, dailyLimit: 0, demo: true }));
+// AI on the static site goes through the DrBek AI Worker (worker/index.js) when the page
+// sets window.DS_AI_URL; the Gemini key stays in the Worker, never in this page.
+const AI_URL = (typeof window !== 'undefined' && window.DS_AI_URL) || '';
+on('GET', '/api/chat/status', () => ({ available: !!AI_URL, model: AI_URL ? 'Gemini' : null, voice: !!AI_URL, dailyLimit: 0, demo: true, provider: 'gemini' }));
+on('POST', '/api/chat/transcribe', async ({ body }) => {
+  needUser();
+  if (!AI_URL) throw err(503, 'Web ko’rinishda ovozli savol ulanmagan.');
+  const r = await fetch(`${AI_URL}/transcribe`, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ audio: body.audio, mimeType: body.mimeType }) });
+  const d = await r.json().catch(() => ({}));
+  if (!r.ok) throw err(r.status, d.message || 'Ovozni matnga aylantirib bo’lmadi.');
+  return { text: d.text || '' };
+});
 on('GET', '/api/chat/threads', async () => { needUser(); return { threads: await Promise.all([...st().threads].sort((a, b) => (a.updatedAt < b.updatedAt ? 1 : -1)).map(threadOut)) }; });
 on('POST', '/api/chat/threads', async ({ body }) => {
   needUser();
@@ -538,7 +550,7 @@ on('GET', '/api/chat/threads/:id', async ({ params }) => { needUser(); const t =
 on('DELETE', '/api/chat/threads/:id', ({ params }) => { needUser(); ownThread(params.id); const s = st(); s.threads = s.threads.filter((t) => t.id !== params.id); s.messages = s.messages.filter((m) => m.threadId !== params.id); return { ok: true }; });
 
 const ACTIONS = { simplify: 'Soddaroq tushuntiring.', example: 'Misol keltiring.', term: 'Atamani izohlang.', quiz: 'Shu mavzu bo’yicha savol bering.' };
-async function chatStream(tid, body, onEvent) {
+async function chatStream(tid, body, onEvent, signal) {
   needUser();
   const t = ownThread(tid); const s = st(); const idx = await lessonIndex();
   if (!body.text && !body.action) throw err(422, 'Savolingizni yozing.');
@@ -554,6 +566,7 @@ async function chatStream(tid, body, onEvent) {
   const ranked = [...near.filter((r) => lessonId && r.lessonId === lessonId), ...near.filter((r) => !(lessonId && r.lessonId === lessonId))].slice(0, 6);
   const sources = ranked.map((r, i) => ({ sourceId: r.id, n: i + 1, kind: r.type, lang: r.lang, lessonId: r.lessonId, topicId: r.topicId, blockId: r.blockId, title: `${r.lessonTitle ? `${r.lessonTitle} — ` : ''}${r.title}`, snippet: r.snippet.slice(0, 280), pdfPage: r.locator?.pdfPage || null, printedPage: r.locator?.pdfPage ? r.locator.pdfPage - 5 : null, imageId: r.imageId, lessonStatus: null }));
   onEvent('sources', { sources });
+  if (AI_URL && sources.length) return aiAnswer({ t, s, ctx, question, body, sources, full: ranked.map((r) => r._full), umid, onEvent, signal });
   const msg = sources.length
     ? 'Web ko’rinishda AI ulanmagan. Quyida savolingizga mos topilgan kitob parchalari ko’rsatildi — ular kitobdan olingan, AI javobi emas. To’liq ilovada AI shu manbalar asosida, havolalar bilan javob yozadi.'
     : 'Ulangan manbalarda bu savolga mos parcha topilmadi. Savolni boshqacha so’z bilan yozing yoki tegishli darsni oching.';
@@ -562,6 +575,46 @@ async function chatStream(tid, body, onEvent) {
   s.messages.push({ id: amid, threadId: t.id, role: 'assistant', content: msg, context: { sources }, citations: [], status, createdAt: nowIso() });
   persist();
   onEvent('done', { messageId: amid, status, content: msg, citations: [] });
+}
+
+// Streams the Worker's answer: delta events pass straight through; on done the [n] offsets
+// become the same citation objects the Node server sends.
+async function aiAnswer({ t, s, ctx, question, body, sources, full, umid, onEvent, signal }) {
+  const amid = rid('cm');
+  const hist = s.messages.filter((m) => m.threadId === t.id && m.id !== umid && ['sent', 'complete'].includes(m.status)).slice(-8).map((m) => ({ role: m.role, content: m.content }));
+  const ctxText = [ctx.lessonTitle ? `Joriy dars: ${ctx.lessonTitle} (${ctx.lessonId}).` : 'Umumiy savol (dars tanlanmagan).', body.selection ? `Talaba belgilagan matn (ma’lumot sifatida): <<<${body.selection}>>>` : ''].filter(Boolean).join('\n');
+  const save = (content, status, citations = []) => { s.messages.push({ id: amid, threadId: t.id, role: 'assistant', content, context: { sources }, citations, status, createdAt: nowIso() }); persist(); };
+  let text = '';
+  try {
+    const r = await fetch(`${AI_URL}/chat`, { method: 'POST', signal, headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ question, ctxText, history: hist, sources: sources.map((src, i) => ({ title: src.title, text: full[i] || src.snippet, pdfPage: src.pdfPage })) }) });
+    if (!r.ok) { const d = await r.json().catch(() => ({})); throw Object.assign(new Error(d.message || 'AI xizmatida xato.'), { status: r.status }); }
+    const reader = r.body.getReader(); const dec = new TextDecoder(); let buf = '';
+    for (;;) {
+      const { value, done } = await reader.read();
+      if (done) break;
+      buf += dec.decode(value, { stream: true });
+      let i;
+      while ((i = buf.indexOf('\n\n')) >= 0) {
+        const chunk = buf.slice(0, i); buf = buf.slice(i + 2);
+        const ev = /^event: (.*)$/m.exec(chunk)?.[1]; const data = /^data: (.*)$/m.exec(chunk)?.[1];
+        if (!ev || !data) continue;
+        const d = JSON.parse(data);
+        if (ev === 'delta') { text += d.text; onEvent('delta', { text: d.text }); }
+        else if (ev === 'done') {
+          const citations = (d.cites || []).map((c) => { const src = sources[c.n - 1]; return src ? { n: c.n, sourceId: src.sourceId, title: src.title, citedText: src.snippet, lessonId: src.lessonId, blockId: src.blockId, pdfPage: src.pdfPage, imageId: src.imageId, at: c.at } : null; }).filter(Boolean);
+          save(d.content, 'complete', citations);
+          onEvent('done', { messageId: amid, status: citations.length ? 'complete' : 'complete_uncited', content: d.content, citations });
+          return;
+        } else if (ev === 'error') throw Object.assign(new Error(d.message), { status: 502 });
+      }
+    }
+    throw new Error('AI javobi uzilib qoldi. Qayta urinib ko’ring.');
+  } catch (e) {
+    if (e.name === 'AbortError') throw e;
+    save(text, 'error');
+    onEvent('error', { messageId: amid, status: 'error', partial: text, message: e.message || 'AI xizmatida xato.' });
+  }
 }
 
 // ------------------------------------------------------------------ entry points used by api.js
@@ -585,9 +638,9 @@ export async function demoApi(path, { method = 'GET', body } = {}) {
   throw err(404, 'Bu amal web ko’rinishda mavjud emas.');
 }
 
-export async function demoStream(path, body, { onEvent }) {
+export async function demoStream(path, body, { onEvent, signal }) {
   await boot();
   const m = /^\/api\/chat\/threads\/([^/]+)\/messages$/.exec(path);
   if (!m) throw err(404, 'Bu amal web ko’rinishda mavjud emas.');
-  await chatStream(decodeURIComponent(m[1]), body || {}, onEvent);
+  await chatStream(decodeURIComponent(m[1]), body || {}, onEvent, signal);
 }
