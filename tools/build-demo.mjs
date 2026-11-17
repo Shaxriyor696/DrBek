@@ -119,6 +119,11 @@ for f in os.listdir(src):
   // GitHub Pages serves the demo under /<repo>/: make hard-coded /assets/ paths relative.
   const relJs = (d) => { for (const e of fs.readdirSync(d, { withFileTypes: true })) { const f = path.join(d, e.name); if (e.isDirectory()) relJs(f); else if (f.endsWith('.js')) fs.writeFileSync(f, fs.readFileSync(f, 'utf8').replace(/(['"`])\/assets\//g, '$1assets/')); } };
   relJs(path.join(OUT, 'js'));
+  // Cache-busting: phones keep old module files for a long time, so every build stamps all
+  // relative JS imports (and main.js / app.css in index.html) with the same ?v=<build id>.
+  const V = Date.now().toString(36);
+  const stamp = (d) => { for (const e of fs.readdirSync(d, { withFileTypes: true })) { const f = path.join(d, e.name); if (e.isDirectory()) stamp(f); else if (f.endsWith('.js')) fs.writeFileSync(f, fs.readFileSync(f, 'utf8').replace(/(from\s*|import\(\s*)(['"`])(\.{1,2}\/[^'"`]+?\.js)\2/g, `$1$2$3?v=${V}$2`)); } };
+  stamp(path.join(OUT, 'js'));
   mk(path.join(OUT, 'assets')); copy(path.join(ROOT, 'public', 'assets'), path.join(OUT, 'assets'));
   for (const big of ['drbek-mono-512.png', 'drbek-mono-192.png']) rm(path.join(OUT, 'assets', big));
   fs.writeFileSync(path.join(OUT, 'app.css'), fs.readFileSync(path.join(ROOT, 'public', 'styles.css'), 'utf8').replace(/url\(\/assets\//g, 'url(assets/'));
@@ -132,12 +137,12 @@ for f in os.listdir(src):
 <link rel="icon" type="image/png" href="assets/drbek-mono-64.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap">
-<link rel="stylesheet" href="app.css">
+<link rel="stylesheet" href="app.css?v=${V}">
 <style>:root{color-scheme:light}body{background-color:#F2F8F7}</style>
 <div id="root"><div class="empty" role="status">Yuklanmoqda…</div></div>
 <div class="toast-wrap" id="toasts" aria-live="polite"></div>
 <script>window.DS_DEMO = true;${process.env.DS_AI_URL ? `window.DS_AI_URL = ${JSON.stringify(process.env.DS_AI_URL.replace(/\/$/, ''))};` : ''}</script>
-<script type="module" src="js/main.js"></script>
+<script type="module" src="js/main.js?v=${V}"></script>
 `);
   const count = (d) => fs.readdirSync(d, { withFileTypes: true }).reduce((n, e) => n + (e.isDirectory() ? count(path.join(d, e.name)) : 1), 0);
   console.log(`demo written to ${OUT} (${count(OUT)} files)`);
