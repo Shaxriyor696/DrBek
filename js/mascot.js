@@ -2,7 +2,7 @@
 // (assets/ai-mascot.webp); an SVG layer drawn in the image's own coordinates
 // (1254×1254 original) sits on top and briefly shows closed eyes to make it blink,
 // plus blush on hover. Clicking it opens the AI assistant.
-import { h } from './ui.js';
+import { h } from './ui.js?v=mwkaouz8';
 
 // [x, y, gradient]: eye centres measured on the original artwork; the face is lit
 // from the top-left, so each lid gets the shade found around its own eye

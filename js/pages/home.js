@@ -1,7 +1,7 @@
-import { h, icon, mount, ring, fmtMin } from '../ui.js';
-import { get } from '../api.js';
-import { topicCard } from './topics.js';
-import { state } from '../main.js';
+import { h, icon, mount, ring, fmtMin } from '../ui.js?v=mwkaouz8';
+import { get } from '../api.js?v=mwkaouz8';
+import { topicCard } from './topics.js?v=mwkaouz8';
+import { state } from '../main.js?v=mwkaouz8';
 
 const WD = ['Du', 'Se', 'Ch', 'Pa', 'Ju', 'Sha', 'Ya'];
 const greeting = () => { const hr = new Date().getHours(); return hr < 5 ? 'Xayrli tun' : hr < 11 ? 'Xayrli tong' : hr < 18 ? 'Xayrli kun' : 'Xayrli kech'; };

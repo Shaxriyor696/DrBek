@@ -1,8 +1,8 @@
-import { h, icon, mount, toast, inline, rid, emptyBox, fmtDate } from '../ui.js';
-import { get, post, patch, del } from '../api.js';
-import { bookmarkButton, openFigure, figureBlock, statusBadge, figLabel } from '../common.js';
-import { createChat } from '../chat.js';
-import { setDirty, loc, replaceUrlQuiet } from '../main.js';
+import { h, icon, mount, toast, inline, rid, emptyBox, fmtDate } from '../ui.js?v=mwkaouz8';
+import { get, post, patch, del } from '../api.js?v=mwkaouz8';
+import { bookmarkButton, openFigure, figureBlock, statusBadge, figLabel } from '../common.js?v=mwkaouz8';
+import { createChat } from '../chat.js?v=mwkaouz8';
+import { setDirty, loc, replaceUrlQuiet } from '../main.js?v=mwkaouz8';
 
 const TABS = [['simple', 'Sodda izoh'], ['uzfull', 'To’liq tarjima (UZ)'], ['full', 'Asl matn (EN)'], ['terms', 'Atamalar'], ['source', 'Manba']];
 
