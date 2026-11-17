@@ -36,7 +36,8 @@ function cfg(env, voice = false) {
 async function chat(req, env, origin) {
   let b;
   try { b = await req.json(); } catch { return json(400, { message: 'JSON noto’g’ri.' }, origin); }
-  const question = str(b.question, 2000).trim();
+  // a quick action with only a selected passage still gets an answer
+  const question = str(b.question, 2000).trim() || (str(b.ctxText, 3500).includes('belgilagan matn') ? 'Shu joyni sodda tushuntirib ber.' : '');
   if (!question) return json(422, { message: 'Savolingizni yozing.' }, origin);
   const sources = (Array.isArray(b.sources) ? b.sources : []).slice(0, 8)
     .map((s, i) => ({ n: i + 1, title: str(s?.title, 300), text: str(s?.text, 2200), pdfPage: Number.isInteger(s?.pdfPage) ? s.pdfPage : null }))

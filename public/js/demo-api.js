@@ -549,7 +549,16 @@ const ownThread = (id) => { const t = st().threads.find((x) => x.id === id); if 
 on('GET', '/api/chat/threads/:id', async ({ params }) => { needUser(); const t = ownThread(params.id); return { thread: await threadOut(t), messages: st().messages.filter((m) => m.threadId === t.id) }; });
 on('DELETE', '/api/chat/threads/:id', ({ params }) => { needUser(); ownThread(params.id); const s = st(); s.threads = s.threads.filter((t) => t.id !== params.id); s.messages = s.messages.filter((m) => m.threadId !== params.id); return { ok: true }; });
 
-const ACTIONS = { simplify: 'Soddaroq tushuntiring.', example: 'Misol keltiring.', term: 'Atamani izohlang.', quiz: 'Shu mavzu bo’yicha savol bering.' };
+// same quick actions as the server (server/ai.js), incl. "explain" sent by the selection bar
+const ACTIONS = {
+  explain: 'Shu joyni sodda tushuntirib ber.',
+  simplify: 'Buni soddaroq qilib, oddiy so’zlar bilan tushuntir.',
+  example: 'Manbaga mos o’quv misoli keltir (manbada bo’lmagan klinik holat to’qima).',
+  compare: 'Ikki tushunchani manbaga tayanib taqqosla.',
+  term: 'Bu atamani tushuntir: ma’nosi, inglizcha nomi va dars kontekstidagi o’rni.',
+  find: 'Kitobdagi tegishli joyni top va qisqacha nima deyilganini ayt.',
+  quiz: 'Menga o’zimni tekshirish uchun manbaga asoslangan 3 ta qisqa savol ber (javoblarini oxirida alohida yoz).',
+};
 async function chatStream(tid, body, onEvent, signal) {
   needUser();
   const t = ownThread(tid); const s = st(); const idx = await lessonIndex();
