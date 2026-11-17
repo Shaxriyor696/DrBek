@@ -1,7 +1,7 @@
-import { h, icon, mount, emptyBox } from '../ui.js?v=mwkaouz8';
-import { get } from '../api.js?v=mwkaouz8';
-import { bookmarkButton } from '../common.js?v=mwkaouz8';
-import { loc } from '../main.js?v=mwkaouz8';
+import { h, icon, mount, emptyBox } from '../ui.js?v=mwkb5oci';
+import { get } from '../api.js?v=mwkb5oci';
+import { bookmarkButton } from '../common.js?v=mwkb5oci';
+import { loc } from '../main.js?v=mwkb5oci';
 
 export const wide = (u) => String(u || '').replace(/\.webp$/, '_wide.webp');
 
