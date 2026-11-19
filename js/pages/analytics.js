@@ -1,12 +1,12 @@
-import { h, icon, mount, fmtMin } from '../ui.js?v=mwkb5oci';
-import { get } from '../api.js?v=mwkb5oci';
-import { ringBox, kpi, bar } from './home.js?v=mwkb5oci';
+import { h, icon, mount, fmtMin } from '../ui.js?v=mwnipjbv';
+import { get } from '../api.js?v=mwnipjbv';
+import { ringBox, kpi, bar } from './home.js?v=mwnipjbv';
 
 const RANGES = [['day', 'Kunlik'], ['week', 'Haftalik'], ['month', 'Oylik']];
 const MON = ['yan', 'fev', 'mar', 'apr', 'may', 'iyun', 'iyul', 'avg', 'sen', 'okt', 'noy', 'dek'];
 const MONTHS_L = ['yanvar', 'fevral', 'mart', 'aprel', 'may', 'iyun', 'iyul', 'avgust', 'sentabr', 'oktabr', 'noyabr', 'dekabr'];
-const WD = ['Du', 'Se', 'Ch', 'Pa', 'Ju', 'Sha', 'Ya'];
-const WD_FULL = ['Dushanba', 'Seshanba', 'Chorshanba', 'Payshanba', 'Juma', 'Shanba', 'Yakshanba'];
+const WD = ['Du', 'Se', 'Ç', 'Pa', 'Ju', 'Şa', 'Ya'];
+const WD_FULL = ['Duşanba', 'Seşanba', 'Çorşanba', 'Payşanba', 'Juma', 'Şanba', 'Yakşanba'];
 const wdIdx = (key) => (new Date(`${key}T12:00:00Z`).getUTCDay() + 6) % 7;
 const dayNum = (key) => +key.slice(8, 10);
 const NS = 'http://www.w3.org/2000/svg';
@@ -36,7 +36,7 @@ function rhythmChart(rows, { labels, sub, fullLabels, currentIdx, avg }) {
   const svg = document.createElementNS(NS, 'svg');
   svg.setAttribute('viewBox', `0 0 ${W} ${H}`); svg.setAttribute('class', 'chart rh-svg');
   svg.setAttribute('role', 'img');
-  svg.setAttribute('aria-label', `O’qish vaqti: ${rows.map((r, i) => `${fullLabels[i]} ${vals[i]} daqiqa`).join(', ')}`);
+  svg.setAttribute('aria-label', `Öqiş vaqti: ${rows.map((r, i) => `${fullLabels[i]} ${vals[i]} daqiqa`).join(', ')}`);
   const el = (t, a, txt, parent = svg) => { const e = document.createElementNS(NS, t); for (const [k, v] of Object.entries(a)) e.setAttribute(k, v); if (txt !== undefined) e.textContent = txt; parent.appendChild(e); return e; };
   const defs = el('defs', {});
   defs.innerHTML = '<linearGradient id="rh-soft" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7FD3C8"/><stop offset="1" stop-color="#CBEDE8"/></linearGradient>'
@@ -66,14 +66,14 @@ function rhythmChart(rows, { labels, sub, fullLabels, currentIdx, avg }) {
   if (avg > 0) {
     const ya = y(avg);
     el('line', { x1: L, x2: W - R, y1: ya, y2: ya, stroke: '#E07A5F', 'stroke-width': 1.5, 'stroke-dasharray': '5 5' });
-    const lbl = `o’rtacha ${avg < 10 ? Math.round(avg * 10) / 10 : Math.round(avg)} daq`;
+    const lbl = `örtaça ${avg < 10 ? Math.round(avg * 10) / 10 : Math.round(avg)} daq`;
     el('rect', { x: W - R - 104, y: ya - 21, width: 104, height: 17, rx: 8.5, fill: '#FFF1EC' });
     el('text', { x: W - R - 52, y: ya - 9, 'font-size': 11, 'font-weight': 700, 'text-anchor': 'middle', fill: '#9A3F27' }, lbl);
   }
   const show = (b) => {
     bars.forEach((o) => o.g.classList.toggle('hover', o === b));
     tip.textContent = '';
-    tip.append(h('b', {}, fullLabels[b.i]), h('span', {}, b.v ? `${b.v} daqiqa o’qilgan` : 'O’qilmagan'));
+    tip.append(h('b', {}, fullLabels[b.i]), h('span', {}, b.v ? `${b.v} daqiqa öqilgan` : 'Öqilmagan'));
     const box = svg.getBoundingClientRect(); const sx = box.width / W;
     tip.style.left = `${Math.min(Math.max(b.cx * sx, 70), box.width - 70)}px`;
     tip.style.top = `${Math.max(0, b.top * sx - 12)}px`;
@@ -96,14 +96,14 @@ function heatmap(days, today) {
   return h('div', { class: 'hm' },
     h('div', { class: 'hm-grid', role: 'list' }, days.map((d) => {
       const m = Math.round(d.activeMinutes); const lv = heatLevel(m);
-      return h('div', { class: `hm-cell l${lv}${d.bucket === today ? ' today' : ''}`, role: 'listitem', title: `${dayNum(d.bucket)} ${MONTHS_L[+d.bucket.slice(5, 7) - 1]}, ${WD_FULL[wdIdx(d.bucket)]}: ${m ? `${m} daqiqa` : 'o’qilmagan'}` },
+      return h('div', { class: `hm-cell l${lv}${d.bucket === today ? ' today' : ''}`, role: 'listitem', title: `${dayNum(d.bucket)} ${MONTHS_L[+d.bucket.slice(5, 7) - 1]}, ${WD_FULL[wdIdx(d.bucket)]}: ${m ? `${m} daqiqa` : 'öqilmagan'}` },
         h('span', { class: 'hm-wd' }, WD[wdIdx(d.bucket)]), h('b', {}, dayNum(d.bucket)));
     })),
-    h('div', { class: 'hm-legend', 'aria-hidden': 'true' }, h('span', {}, 'Kam'), [0, 1, 2, 3, 4].map((l) => h('i', { class: `hm-sw l${l}` })), h('span', {}, 'Ko’p')));
+    h('div', { class: 'hm-legend', 'aria-hidden': 'true' }, h('span', {}, 'Kam'), [0, 1, 2, 3, 4].map((l) => h('i', { class: `hm-sw l${l}` })), h('span', {}, 'Köp')));
 }
 
 const scoreCls = (v) => (v === null ? 'n' : v >= 80 ? 'g' : v >= 60 ? 'y' : 'r');
-const scoreWord = (v) => (v === null ? 'test yo’q' : v >= 80 ? 'a’lo' : v >= 60 ? 'yaxshi' : 'takrorlang');
+const scoreWord = (v) => (v === null ? 'test yöq' : v >= 80 ? 'a’lo' : v >= 60 ? 'yaxshi' : 'takrorlang');
 
 export async function analytics({ el, query }) {
   let range = RANGES.some(([k]) => k === query.range) ? query.range : 'week';
@@ -130,7 +130,7 @@ export async function analytics({ el, query }) {
     const activeDays = rows.filter((r) => r.activeMinutes > 0).length;
     const avg = rows.length ? rows.reduce((t, r) => t + r.activeMinutes, 0) / rows.length : 0;
     const peak = rows.reduce((b, r, i) => (r.activeMinutes > (rows[b]?.activeMinutes ?? -1) ? i : b), 0);
-    const per = { day: 'so’nggi 14 kun', week: 'shu hafta', month: 'shu oy' }[range];
+    const per = { day: 'sönggi 14 kun', week: 'şu hafta', month: 'şu oy' }[range];
     spanChip.textContent = '';
     spanChip.append(icon('calendar', 'sm'), range === 'month' ? `${MON[+all[0].bucket.slice(5, 7) - 1]} ${all[0].bucket.slice(0, 4)} – ${MON[+all.at(-1).bucket.slice(5, 7) - 1]} ${all.at(-1).bucket.slice(0, 4)}` : spanText(rows[0].bucket, rows.at(-1).bucket));
 
@@ -142,25 +142,25 @@ export async function analytics({ el, query }) {
 
     mount(body,
       h('div', { class: 'kpi-row' },
-        kpi({ img: 'topics', value: `${a.topicsRead} / 15`, label: 'asosiy mavzu o’qilgan', foot: bar(topicPct) }),
-        kpi({ img: 'library', value: `${a.lessonsRead} / ${a.lessonsTotal}`, label: 'ichki bo’lim o’qilgan', foot: bar(lessonPct, 'blue') }),
+        kpi({ img: 'topics', value: `${a.topicsRead} / 15`, label: 'asosiy mavzu öqilgan', foot: bar(topicPct) }),
+        kpi({ img: 'library', value: `${a.lessonsRead} / ${a.lessonsTotal}`, label: 'içki bölim öqilgan', foot: bar(lessonPct, 'blue') }),
         kpi({ img: 'practice', value: acc === null ? '—' : `${acc}%`, label: 'test aniqligi', foot: h('span', { class: `score ${scoreCls(acc)}` }, scoreWord(acc)) }),
-        kpi({ img: 'analytics', value: fmtMin(sum.min), label: `o’qish vaqti · ${per}`,
+        kpi({ img: 'analytics', value: fmtMin(sum.min), label: `öqiş vaqti · ${per}`,
           foot: delta === null ? h('span', { class: 'kpi-note' }, `${activeDays} ta faol kun`)
-            : h('span', { class: `delta ${delta > 0 ? 'up' : delta < 0 ? 'down' : ''}` }, delta ? icon(delta > 0 ? 'up' : 'down', 'sm') : null, delta ? `${delta > 0 ? '+' : ''}${delta} daq` : 'o’zgarishsiz', h('small', {}, range === 'week' ? 'o’tgan haftaga nisbatan' : 'o’tgan oyga nisbatan')) })),
+            : h('span', { class: `delta ${delta > 0 ? 'up' : delta < 0 ? 'down' : ''}` }, delta ? icon(delta > 0 ? 'up' : 'down', 'sm') : null, delta ? `${delta > 0 ? '+' : ''}${delta} daq` : 'özgarişsiz', h('small', {}, range === 'week' ? 'ötgan haftaga nisbatan' : 'ötgan oyga nisbatan')) })),
 
       h('div', { class: 'an2-main' },
         h('section', { class: 'card pad an2-rhythm' },
           h('div', { class: 'an2-head' },
-            h('div', {}, h('h3', {}, 'O’qish ritmi'), h('p', { class: 'small muted' }, range === 'month' ? 'Oylar kesimida, daqiqada' : 'Kunlar kesimida faol o’qish vaqti, daqiqada')),
+            h('div', {}, h('h3', {}, 'Öqiş ritmi'), h('p', { class: 'small muted' }, range === 'month' ? 'Oylar kesimida, daqiqada' : 'Kunlar kesimida faol öqiş vaqti, daqiqada')),
             h('div', { class: 'an2-pills' },
               h('span', { class: 'pill-stat' }, h('small', {}, 'Jami'), h('b', {}, fmtMin(rows.reduce((t, r) => t + r.activeMinutes, 0)))),
-              h('span', { class: 'pill-stat' }, h('small', {}, range === 'month' ? 'O’rtacha / oy' : 'O’rtacha / kun'), h('b', {}, `${Math.round(avg)} daq`)),
+              h('span', { class: 'pill-stat' }, h('small', {}, range === 'month' ? 'Örtaça / oy' : 'Örtaça / kun'), h('b', {}, `${Math.round(avg)} daq`)),
               range === 'month' ? null : h('span', { class: 'pill-stat' }, h('small', {}, 'Faol kunlar'), h('b', {}, `${activeDays} / ${rows.length}`)))),
           rhythmChart(rows, { labels, sub, fullLabels, currentIdx: rows.length - 1, avg }),
           h('p', { class: 'an2-insight' }, icon('sparkles', 'sm'),
-            rows[peak]?.activeMinutes > 0 ? ['Eng faol: ', h('b', {}, fullLabels[peak]), ` — ${Math.round(rows[peak].activeMinutes)} daqiqa. Kunlik maqsadingiz ${a.dailyGoal} daqiqa.`] : 'Hali o’qish vaqti yo’q — birinchi darsni oching, grafik shu yerda paydo bo’ladi.'),
-          h('p', { class: 'xs muted', style: { margin: '4px 0 0' } }, `Faqat faol o’qish vaqti hisoblanadi (2 daqiqa harakatsizlikdan keyin to’xtaydi). Vaqt zonasi: ${a.timezone}.`)),
+            rows[peak]?.activeMinutes > 0 ? ['Eng faol: ', h('b', {}, fullLabels[peak]), ` — ${Math.round(rows[peak].activeMinutes)} daqiqa. Kunlik maqsadingiz ${a.dailyGoal} daqiqa.`] : 'Hali öqiş vaqti yöq — birinçi darsni oçing, grafik şu yerda paydo böladi.'),
+          h('p', { class: 'xs muted', style: { margin: '4px 0 0' } }, `Faqat faol öqiş vaqti hisoblanadi (2 daqiqa harakatsizlikdan keyin töxtaydi). Vaqt zonasi: ${a.timezone}.`)),
 
         h('div', { class: 'an2-side' },
           h('section', { class: 'card pad an2-goal' },
@@ -170,43 +170,43 @@ export async function analytics({ el, query }) {
               h('div', { class: 'goal-txt' },
                 left > 0 ? [h('small', {}, 'Yana'), h('b', {}, `${left} daqiqa`), h('span', { class: 'pill' }, `${dayA.goalPercent}% bajarildi`)]
                   : [h('b', {}, 'Bajarildi!'), h('span', { class: 'pill' }, '100%')])),
-            h('a', { class: 'btn primary', href: '/dashboard' }, 'O’qishni davom ettirish', icon('right', 'sm'))),
+            h('a', { class: 'btn primary', href: '/dashboard' }, 'Öqişni davom ettiriş', icon('right', 'sm'))),
           h('section', { class: 'card pad an2-heat' },
             h('div', { class: 'row between', style: { flexWrap: 'nowrap' } }, h('h3', {}, icon('calendar', 'sm'), '14 kunlik faollik'),
-              h('span', { class: 'streak', title: 'Ketma-ket dars yoki test bilan o’tgan kunlar' }, h('b', {}, a.streak ?? dayA.streak), ' kun seriya')),
+              h('span', { class: 'streak', title: 'Ketma-ket dars yoki test bilan ötgan kunlar' }, h('b', {}, a.streak ?? dayA.streak), ' kun seriya')),
             heatmap(dayA.series, dayA.today)))),
 
       h('div', { class: 'an2-bottom' },
         h('section', { class: 'card pad an2-topics' },
-          h('h3', {}, icon('layers', 'sm'), 'Mavzular bo’yicha'),
+          h('h3', {}, icon('layers', 'sm'), 'Mavzular böyiça'),
           h('div', { class: 'tp-list', role: 'list' }, tRows.map((t) => {
             const pct = t.lessons ? Math.round((t.read / t.lessons) * 100) : 0;
-            return h('a', { class: 'tp-row', role: 'listitem', href: `/topics/${t.id}`, 'aria-label': `${t.id} ${t.title}: ${t.read} / ${t.lessons} bo’lim, test ${t.quizAccuracy === null ? 'yo’q' : `${t.quizAccuracy}%`}` },
+            return h('a', { class: 'tp-row', role: 'listitem', href: `/topics/${t.id}`, 'aria-label': `${t.id} ${t.title}: ${t.read} / ${t.lessons} bölim, test ${t.quizAccuracy === null ? 'yöq' : `${t.quizAccuracy}%`}` },
               h('span', { class: 'tp-n' }, t.id),
               t.cardImage ? h('img', { class: 'tp-img', src: t.cardImage, alt: '', loading: 'lazy' }) : null,
-              h('div', { class: 'tp-main' }, h('b', {}, t.title), h('div', { class: 'tp-prog' }, bar(pct), h('span', { class: 'xs muted' }, `${t.read}/${t.lessons} bo’lim`))),
+              h('div', { class: 'tp-main' }, h('b', {}, t.title), h('div', { class: 'tp-prog' }, bar(pct), h('span', { class: 'xs muted' }, `${t.read}/${t.lessons} bölim`))),
               h('span', { class: `score ${scoreCls(t.quizAccuracy)}` }, t.quizAccuracy === null ? '—' : `${t.quizAccuracy}%`),
               icon('right', 'sm'));
           })),
-          h('p', { class: 'xs muted', style: { margin: '10px 0 0' } }, shownTopics.length ? `${shownTopics.length} ta mavzuda faollik bor.` : 'Hali faollik yo’q — dars o’qing yoki test yeching.')),
+          h('p', { class: 'xs muted', style: { margin: '10px 0 0' } }, shownTopics.length ? `${shownTopics.length} ta mavzuda faollik bor.` : 'Hali faollik yöq — dars öqing yoki test yeçing.')),
 
         h('section', { class: 'card an2-review' },
-          h('a', { class: 'rv-bot-link', href: '/assistant', title: 'AI yordamchini ochish', 'aria-label': 'AI yordamchini ochish' }, h('img', { class: 'rv-bot', src: 'assets/ai-mascot.webp', alt: '', width: 120, height: 120 })),
+          h('a', { class: 'rv-bot-link', href: '/assistant', title: 'AI yordamçini oçiş', 'aria-label': 'AI yordamçini oçiş' }, h('img', { class: 'rv-bot', src: 'assets/ai-mascot.webp', alt: '', width: 120, height: 120 })),
           h('div', { class: 'rv-body' },
             rq.items.length
-              ? [h('h3', {}, 'Takrorlash tavsiyasi'),
+              ? [h('h3', {}, 'Takrorlaş tavsiyasi'),
                 rq.items.slice(0, 3).map((it) => h('div', { class: 'rv-item' },
-                  h('div', {}, h('b', {}, it.title), h('div', { class: 'small muted' }, it.reason === 'low_score' ? ['Oxirgi test: ', h('span', { class: `score ${scoreCls(it.percent)}` }, `${it.percent}%`)] : 'Siz takrorlash uchun belgilagansiz')),
-                  h('a', { class: 'btn primary small', href: `/topics/${it.topicId}/sections/${it.lessonId}` }, icon('refresh', 'sm'), 'Takrorlash')))]
-              : [h('h3', {}, 'Hozircha takrorlash shart emas'),
-                h('p', { class: 'small muted', style: { margin: '0 0 10px' } }, 'Darsda bayroqcha bilan belgilagan yoki testda 70% dan past natija olgan bo’limlaringiz shu yerda chiqadi.'),
-                h('a', { class: 'btn primary', href: '/practice' }, icon('test', 'sm'), 'Test yechib ko’rish')],
+                  h('div', {}, h('b', {}, it.title), h('div', { class: 'small muted' }, it.reason === 'low_score' ? ['Oxirgi test: ', h('span', { class: `score ${scoreCls(it.percent)}` }, `${it.percent}%`)] : 'Siz takrorlaş uçun belgilagansiz')),
+                  h('a', { class: 'btn primary small', href: `/topics/${it.topicId}/sections/${it.lessonId}` }, icon('refresh', 'sm'), 'Takrorlaş')))]
+              : [h('h3', {}, 'Hozirça takrorlaş şart emas'),
+                h('p', { class: 'small muted', style: { margin: '0 0 10px' } }, 'Darsda bayroqça bilan belgilagan yoki testda 70% dan past natija olgan bölimlaringiz şu yerda çiqadi.'),
+                h('a', { class: 'btn primary', href: '/practice' }, icon('test', 'sm'), 'Test yeçib köriş')],
             h('p', { class: 'xs muted', style: { margin: '10px 0 0' } }, rq.rule)))));
   }
 
   mount(el,
     h('div', { class: 'title-row an2-title' },
-      h('div', {}, h('h1', {}, 'O’rganishingiz raqamlarda'), h('p', { class: 'sub' }, 'Faollik, bilim va keyingi qadamlar — bir joyda.')),
+      h('div', {}, h('h1', {}, 'Örganişingiz raqamlarda'), h('p', { class: 'sub' }, 'Faollik, bilim va keyingi qadamlar — bir joyda.')),
       h('div', { class: 'row', style: { gap: '10px' } }, h('div', { class: 'seg', role: 'tablist', 'aria-label': 'Davr' }, btns), spanChip)),
     body);
   await load();

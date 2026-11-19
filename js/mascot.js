@@ -1,8 +1,8 @@
-// DrBek AI mascot: a floating, living button. The artwork is the mascot image
+// iMedu AI mascot: a floating, living button. The artwork is the mascot image
 // (assets/ai-mascot.webp); an SVG layer drawn in the image's own coordinates
 // (1254×1254 original) sits on top and briefly shows closed eyes to make it blink,
 // plus blush on hover. Clicking it opens the AI assistant.
-import { h } from './ui.js?v=mwkb5oci';
+import { h } from './ui.js?v=mwnipjbv';
 
 // [x, y, gradient]: eye centres measured on the original artwork; the face is lit
 // from the top-left, so each lid gets the shade found around its own eye
@@ -31,6 +31,6 @@ const OVERLAY = `
 export function mascot(onOpen) {
   const art = h('span', { class: 'mascot-art' }, h('img', { src: 'assets/ai-mascot.webp', alt: '', width: 400, height: 400, draggable: 'false' }));
   art.insertAdjacentHTML('beforeend', OVERLAY);
-  return h('button', { type: 'button', class: 'mascot', 'aria-label': 'AI yordamchini ochish', title: 'AI yordamchi', onclick: onOpen },
+  return h('button', { type: 'button', class: 'mascot', 'aria-label': 'AI yordamçini oçiş', title: 'AI yordamçi', onclick: onOpen },
     h('span', { class: 'mascot-tip' }, 'Savolingiz bormi?'), art);
 }

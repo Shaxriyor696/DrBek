@@ -3,7 +3,8 @@
 // tools/build-demo.mjs); the student's own state (progress, reading time, saved items,
 // notes, tests, chats) lives in localStorage. The AI goes through the AI Worker when
 // window.DS_AI_URL is set (see aiAnswer); otherwise only matching book passages are shown.
-import { ApiErr } from './api.js?v=mwkb5oci';
+import { ApiErr } from './api.js?v=mwnipjbv';
+import { normalizeSearchText as norm } from './search-text.js?v=mwnipjbv';
 
 const KEY = 'ds-demo-state-v1';
 const TZ_DEF = 'Asia/Tashkent';
@@ -22,7 +23,7 @@ let S = null;
 function blank() {
   return {
     v: 1, loggedIn: true,
-    profile: { name: 'Mehmon', university: '', course: 2, direction: 'Davolash ishi', studyLang: 'uz', dailyGoalMin: 30, timezone: TZ_DEF, readerFont: 18, readerLine: 1.7, onboarded: true },
+    profile: { name: 'Mehmon', university: '', course: 2, direction: 'Davolaş işi', studyLang: 'uz', dailyGoalMin: 30, timezone: TZ_DEF, readerFont: 18, readerLine: 1.7, onboarded: true },
     progress: {}, intervals: [], bookmarks: [], collections: [], notes: [], attempts: [], answers: {}, threads: [], messages: [],
   };
 }
@@ -177,13 +178,12 @@ function label(list) {
 }
 async function summary({ a, isLatest, isBest }) {
   const idx = await lessonIndex(); const T = await topicsData();
-  const title = a.scopeType === 'lesson' ? idx.get(a.scopeId)?.titleUz || a.scopeId : a.scopeType === 'topic' ? T.topics.find((t) => t.id === a.scopeId)?.title || a.scopeId : 'Xatolarni qayta yechish';
+  const title = a.scopeType === 'lesson' ? idx.get(a.scopeId)?.titleUz || a.scopeId : a.scopeType === 'topic' ? T.topics.find((t) => t.id === a.scopeId)?.title || a.scopeId : 'Xatolarni qayta yeçiş';
   return { id: a.id, scopeType: a.scopeType, scopeId: a.scopeId, scopeTitle: title, mode: a.mode, status: a.status, correct: a.correct, total: a.total ?? a.snapshot.length, unanswered: a.unanswered, percent: a.total ? pct(a.correct, a.total) : null, startedAt: a.startedAt, submittedAt: a.submittedAt, isLatest: !!isLatest, isBest: !!isBest, parentAttemptId: a.parentAttemptId };
 }
-const ownAttempt = (id) => { const a = st().attempts.find((x) => x.id === id); if (!a) throw err(404, 'Urinish topilmadi.'); return a; };
+const ownAttempt = (id) => { const a = st().attempts.find((x) => x.id === id); if (!a) throw err(404, 'Uriniş topilmadi.'); return a; };
 
 // ------------------------------------------------------------------ search
-const norm = (s) => String(s || '').toLowerCase().replace(/[‘’ʻʼ`']/g, '');
 async function searchRows() {
   if (!searchRows.rows) {
     const rows = await load('demo/data/search.json');
@@ -207,7 +207,7 @@ async function search(q, { type, topic, page = 1, limit = 20 } = {}) {
   if (topic) hits = hits.filter((x) => x.r.t === topic);
   if (type) hits = hits.filter(({ r }) => (type === 'text' ? ['summary', 'original', 'translation'].includes(r.k) : r.k === type));
   hits.sort((a, b) => b.score - a.score);
-  const kinds = { topic: 'Mavzu', lesson: 'Bo’lim', summary: 'Bo’lim', original: 'Bo’lim', translation: 'To’liq tarjima', term: 'Atama', figure: 'Rasm' };
+  const kinds = { topic: 'Mavzu', lesson: 'Bölim', summary: 'Bölim', original: 'Bölim', translation: 'Ma’lumot (UZ)', term: 'Atama', figure: 'Rasm' };
   const snip = (text) => {
     const t = String(text || ''); const low = norm(t); let pos = -1;
     for (const k of toks) { pos = low.indexOf(k); if (pos >= 0) break; }
@@ -249,13 +249,13 @@ on('GET', '/api/me', me);
 on('POST', '/api/auth/login', () => { st().loggedIn = true; return { ok: true }; });
 on('POST', '/api/auth/register', ({ body }) => { const s = st(); s.loggedIn = true; if (body?.name) s.profile.name = String(body.name).slice(0, 80); return { ok: true, user: { emailVerified: true } }; });
 on('POST', '/api/auth/logout', () => { st().loggedIn = false; return { ok: true }; });
-for (const p of ['forgot-password', 'reset-password', 'resend-verification', 'verify-email']) on('POST', `/api/auth/${p}`, () => ({ ok: true, message: 'Web ko’rinishda email yuborilmaydi.' }));
+for (const p of ['forgot-password', 'reset-password', 'resend-verification', 'verify-email']) on('POST', `/api/auth/${p}`, () => ({ ok: true, message: 'Web körinişda email yuborilmaydi.' }));
 
 on('PATCH', '/api/profile', ({ body }) => {
   needUser();
   const p = st().profile; const fe = {};
   if (body.name !== undefined && String(body.name).trim().length < 2) fe.name = 'Ismingizni kiriting.';
-  if (Object.keys(fe).length) throw err(422, 'Maydonlarni tekshiring.', { fieldErrors: fe });
+  if (Object.keys(fe).length) throw err(422, 'Maydonlarni tekşiring.', { fieldErrors: fe });
   for (const k of ['name', 'university', 'course', 'direction', 'studyLang', 'dailyGoalMin', 'timezone', 'readerFont', 'readerLine']) if (body[k] !== undefined) p[k] = body[k];
   if (body.completeOnboarding) p.onboarded = true;
   return { profile: { ...p } };
@@ -294,7 +294,7 @@ on('GET', '/api/topics/:id', async ({ params }) => {
 on('GET', '/api/lessons/:id', async ({ params }) => {
   needUser();
   let d;
-  try { d = clone(await load(`demo/data/lesson-${params.id}.json`)); } catch { throw err(404, 'Bo’lim topilmadi.'); }
+  try { d = clone(await load(`demo/data/lesson-${params.id}.json`)); } catch { throw err(404, 'Bölim topilmadi.'); }
   const s = st(); const id = d.lesson.id; const now = nowIso();
   const prev = s.progress[id];
   s.progress[id] = { firstOpenedAt: now, completedAt: null, lastBlock: null, lastTab: null, reviewFlag: false, ...prev, updatedAt: now };
@@ -340,7 +340,7 @@ on('PATCH', '/api/progress/:lessonId', ({ params, body }) => {
 on('POST', '/api/reading/heartbeat', ({ body }) => {
   needUser();
   const a = Number(body.startMs); const b = Number(body.endMs);
-  if (!(b > a) || b - a > 45000) throw err(422, 'Interval noto’g’ri.');
+  if (!(b > a) || b - a > 45000) throw err(422, 'Interval notöğri.');
   const s = st(); s.hbSeen ||= [];
   if (s.hbSeen.includes(body.eventId)) return { ok: true, duplicate: true };
   s.hbSeen.push(body.eventId); if (s.hbSeen.length > 200) s.hbSeen.splice(0, 100);
@@ -360,7 +360,7 @@ on('GET', '/api/bookmarks', ({ query }) => {
 });
 on('POST', '/api/bookmarks', ({ body }) => {
   needUser();
-  if (!body.targetType || !body.targetId) throw err(422, 'Saqlash uchun manba kerak.');
+  if (!body.targetType || !body.targetId) throw err(422, 'Saqlaş uçun manba kerak.');
   const s = st();
   const ex = s.bookmarks.find((b) => b.targetType === body.targetType && b.targetId === body.targetId);
   if (ex) { const was = !ex.deletedAt; Object.assign(ex, { deletedAt: null, title: body.title || ex.title, snippet: body.snippet || ex.snippet, meta: body.meta || ex.meta, collectionId: body.collectionId || ex.collectionId }); return { bookmark: bmOut(ex), existed: was }; }
@@ -406,7 +406,7 @@ on('POST', '/api/notes', async ({ body }) => {
 on('PATCH', '/api/notes/:id', async ({ params, body }) => {
   needUser();
   const n = ownNote(params.id);
-  if (body.updatedAt && body.updatedAt !== n.updatedAt) throw err(409, 'Qayd boshqa oynada o’zgartirilgan. Sahifani yangilab, qayta saqlang.');
+  if (body.updatedAt && body.updatedAt !== n.updatedAt) throw err(409, 'Qayd boşqa oynada özgartirilgan. Sahifani yangilab, qayta saqlang.');
   if (body.body !== undefined) n.body = String(body.body).slice(0, 20000);
   n.updatedAt = nowIso();
   return { note: await noteOut(n) };
@@ -433,8 +433,8 @@ on('POST', '/api/quiz-attempts', async ({ body }) => {
     const ans = s.answers[src.id] || {};
     const wrong = new Set(src.snapshot.filter((q) => ans[q.id]?.optionId !== q.answerOptionId).map((q) => q.id));
     p = (await load('demo/data/questions.json')).filter((q) => wrong.has(q.id)); count = p.length;
-  } else throw err(422, 'Qamrov noto’g’ri.');
-  if (!p.length) throw err(404, 'Bu qamrov uchun tasdiqlangan savollar banki hali yo’q.', { code: 'no_bank' });
+  } else throw err(422, 'Qamrov notöğri.');
+  if (!p.length) throw err(404, 'Bu qamrov uçun tasdiqlangan savollar banki hali yöq.', { code: 'no_bank' });
   const a = makeAttempt(body.scopeType, body.scopeId, body.mode === 'exam' ? 'exam' : 'practice', shuffle(p).slice(0, Math.min(count, p.length)), parent, body.clientKey || null);
   return { attemptId: a.id, insufficient: p.length < count, available: p.length };
 });
@@ -454,7 +454,7 @@ on('GET', '/api/quiz-attempts/:id', async ({ params }) => {
 on('PUT', '/api/quiz-attempts/:id/answers/:qid', ({ params, body }) => {
   needUser();
   const a = ownAttempt(params.id);
-  if (a.status === 'submitted') throw err(409, 'Urinish yakunlangan, javobni o’zgartirib bo’lmaydi.');
+  if (a.status === 'submitted') throw err(409, 'Uriniş yakunlangan, javobni özgartirib bölmaydi.');
   const q = a.snapshot.find((x) => x.id === params.qid); if (!q) throw err(404, 'Savol topilmadi.');
   const m = st().answers[a.id] ||= {};
   const r = m[q.id] ||= { optionId: null, flagged: false, checkedAt: null };
@@ -465,7 +465,7 @@ on('PUT', '/api/quiz-attempts/:id/answers/:qid', ({ params, body }) => {
 on('POST', '/api/quiz-attempts/:id/check', ({ params, body }) => {
   needUser();
   const a = ownAttempt(params.id);
-  if (a.mode !== 'practice') throw err(409, 'Imtihon rejimida javoblar yakunda ko’rsatiladi.');
+  if (a.mode !== 'practice') throw err(409, 'Imtihon rejimida javoblar yakunda körsatiladi.');
   const q = a.snapshot.find((x) => x.id === body.questionId); if (!q) throw err(404, 'Savol topilmadi.');
   const r = (st().answers[a.id] || {})[q.id];
   if (!r?.optionId) throw err(422, 'Avval variantni tanlang.');
@@ -481,7 +481,7 @@ on('POST', '/api/quiz-attempts/:id/submit', async ({ params }) => {
 on('GET', '/api/quiz-attempts/:id/results', async ({ params }) => {
   needUser();
   const a = ownAttempt(params.id);
-  if (a.status !== 'submitted') throw err(409, 'Natija urinish yakunlangandan keyin ochiladi.');
+  if (a.status !== 'submitted') throw err(409, 'Natija uriniş yakunlangandan keyin oçiladi.');
   const ans = st().answers[a.id] || {}; const idx = await lessonIndex();
   const hist = label(st().attempts.filter((x) => x.scopeType === a.scopeType && x.scopeId === a.scopeId));
   const mine = hist.find((x) => x.a.id === a.id);
@@ -503,7 +503,7 @@ on('GET', '/api/review-queue', async () => {
   const low = [...last.entries()].filter(([, a]) => a.correct / a.total < 0.7).map(([lid, a]) => ({ lessonId: lid, reason: 'low_score', percent: Math.round((a.correct / a.total) * 100) }));
   const seen = new Set();
   const items = [...flagged, ...low].filter((x) => (seen.has(x.lessonId) ? false : seen.add(x.lessonId))).map((x) => ({ ...x, title: idx.get(x.lessonId)?.titleUz, topicId: idx.get(x.lessonId)?.topicId }));
-  return { items, rule: 'Siz belgilagan bo’limlar va oxirgi testida 70% dan past natija olingan bo’limlar (oddiy qoida, adaptiv model emas).' };
+  return { items, rule: 'Siz belgilagan bölimlar va oxirgi testida 70% dan past natija olingan bölimlar (oddiy qoida, adaptiv model emas).' };
 });
 on('GET', '/api/dashboard', async () => {
   needUser();
@@ -523,16 +523,16 @@ on('GET', '/api/dashboard', async () => {
 });
 
 // chat: threads are kept; the AI itself is not connected in the web preview
-// AI on the static site goes through the DrBek AI Worker (worker/index.js) when the page
+// AI on the static site goes through the iMedu AI Worker (worker/index.js) when the page
 // sets window.DS_AI_URL; the Gemini key stays in the Worker, never in this page.
 const AI_URL = (typeof window !== 'undefined' && window.DS_AI_URL) || '';
 on('GET', '/api/chat/status', () => ({ available: !!AI_URL, model: AI_URL ? 'Gemini' : null, voice: !!AI_URL, dailyLimit: 0, demo: true, provider: 'gemini' }));
 on('POST', '/api/chat/transcribe', async ({ body }) => {
   needUser();
-  if (!AI_URL) throw err(503, 'Web ko’rinishda ovozli savol ulanmagan.');
+  if (!AI_URL) throw err(503, 'Web körinişda ovozli savol ulanmagan.');
   const r = await fetch(`${AI_URL}/transcribe`, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ audio: body.audio, mimeType: body.mimeType }) });
   const d = await r.json().catch(() => ({}));
-  if (!r.ok) throw err(r.status, d.message || 'Ovozni matnga aylantirib bo’lmadi.');
+  if (!r.ok) throw err(r.status, d.message || 'Ovozni matnga aylantirib bölmadi.');
   return { text: d.text || '' };
 });
 on('GET', '/api/chat/threads', async () => { needUser(); return { threads: await Promise.all([...st().threads].sort((a, b) => (a.updatedAt < b.updatedAt ? 1 : -1)).map(threadOut)) }; });
@@ -547,17 +547,18 @@ on('POST', '/api/chat/threads', async ({ body }) => {
 });
 const ownThread = (id) => { const t = st().threads.find((x) => x.id === id); if (!t) throw err(404, 'Suhbat topilmadi.'); return t; };
 on('GET', '/api/chat/threads/:id', async ({ params }) => { needUser(); const t = ownThread(params.id); return { thread: await threadOut(t), messages: st().messages.filter((m) => m.threadId === t.id) }; });
+on('POST', '/api/chat/threads/delete', ({ body }) => { needUser(); const ids = new Set(Array.isArray(body?.ids) ? body.ids : []); if (!ids.size) throw err(422, 'Kamida bitta suhbat tanlang.'); const s = st(); const n = s.threads.length; s.threads = s.threads.filter((t) => !ids.has(t.id)); s.messages = s.messages.filter((m) => !ids.has(m.threadId)); return { ok: true, deleted: n - s.threads.length }; });
 on('DELETE', '/api/chat/threads/:id', ({ params }) => { needUser(); ownThread(params.id); const s = st(); s.threads = s.threads.filter((t) => t.id !== params.id); s.messages = s.messages.filter((m) => m.threadId !== params.id); return { ok: true }; });
 
 // same quick actions as the server (server/ai.js), incl. "explain" sent by the selection bar
 const ACTIONS = {
-  explain: 'Shu joyni sodda tushuntirib ber.',
-  simplify: 'Buni soddaroq qilib, oddiy so’zlar bilan tushuntir.',
-  example: 'Manbaga mos o’quv misoli keltir (manbada bo’lmagan klinik holat to’qima).',
-  compare: 'Ikki tushunchani manbaga tayanib taqqosla.',
-  term: 'Bu atamani tushuntir: ma’nosi, inglizcha nomi va dars kontekstidagi o’rni.',
-  find: 'Kitobdagi tegishli joyni top va qisqacha nima deyilganini ayt.',
-  quiz: 'Menga o’zimni tekshirish uchun manbaga asoslangan 3 ta qisqa savol ber (javoblarini oxirida alohida yoz).',
+  explain: 'Şu joyni sodda tuşuntirib ber.',
+  simplify: 'Buni soddaroq qilib, oddiy sözlar bilan tuşuntir.',
+  example: 'Manbaga mos öquv misoli keltir (manbada bölmagan klinik holat töqima).',
+  compare: 'Ikki tuşunçani manbaga tayanib taqqosla.',
+  term: 'Bu atamani tuşuntir: ma’nosi, inglizça nomi va dars kontekstidagi örni.',
+  find: 'Kitobdagi tegişli joyni top va qisqaça nima deyilganini ayt.',
+  quiz: 'Menga özimni tekşiriş uçun manbaga asoslangan 3 ta qisqa savol ber (javoblarini oxirida alohida yoz).',
 };
 async function chatStream(tid, body, onEvent, signal) {
   needUser();
@@ -582,8 +583,8 @@ async function chatStream(tid, body, onEvent, signal) {
   onEvent('sources', { sources });
   if (AI_URL && sources.length) return aiAnswer({ t, s, ctx, question, body, sources, full: ranked.map((r) => r._full), umid, onEvent, signal });
   const msg = sources.length
-    ? 'Web ko’rinishda AI ulanmagan. Quyida savolingizga mos topilgan kitob parchalari ko’rsatildi — ular kitobdan olingan, AI javobi emas. To’liq ilovada AI shu manbalar asosida, havolalar bilan javob yozadi.'
-    : 'Ulangan manbalarda bu savolga mos parcha topilmadi. Savolni boshqacha so’z bilan yozing yoki tegishli darsni oching.';
+    ? 'Web körinişda AI ulanmagan. Quyida savolingizga mos topilgan kitob parçalari körsatildi — ular kitobdan olingan, AI javobi emas. Töliq ilovada AI şu manbalar asosida, havolalar bilan javob yozadi.'
+    : 'Ulangan manbalarda bu savolga mos parça topilmadi. Savolni boşqaça söz bilan yozing yoki tegişli darsni oçing.';
   const amid = rid('cm');
   const status = sources.length ? 'unavailable' : 'no_source';
   s.messages.push({ id: amid, threadId: t.id, role: 'assistant', content: msg, context: { sources }, citations: [], status, createdAt: nowIso() });
@@ -623,7 +624,7 @@ async function aiAnswer({ t, s, ctx, question, body, sources, full, umid, onEven
         } else if (ev === 'error') throw Object.assign(new Error(d.message), { status: 502 });
       }
     }
-    throw new Error('AI javobi uzilib qoldi. Qayta urinib ko’ring.');
+    throw new Error('AI javobi uzilib qoldi. Qayta urinib köring.');
   } catch (e) {
     if (e.name === 'AbortError') throw e;
     save(text, 'error');
@@ -648,13 +649,13 @@ export async function demoApi(path, { method = 'GET', body } = {}) {
     if (m !== 'GET' || u.pathname === '/api/lessons/' + params.id) persist();
     return clone(out);
   }
-  if (u.pathname.startsWith('/api/admin')) throw err(403, 'Web ko’rinishda admin bo’limi yo’q.');
-  throw err(404, 'Bu amal web ko’rinishda mavjud emas.');
+  if (u.pathname.startsWith('/api/admin')) throw err(403, 'Web körinişda admin bölimi yöq.');
+  throw err(404, 'Bu amal web körinişda mavjud emas.');
 }
 
 export async function demoStream(path, body, { onEvent, signal }) {
   await boot();
   const m = /^\/api\/chat\/threads\/([^/]+)\/messages$/.exec(path);
-  if (!m) throw err(404, 'Bu amal web ko’rinishda mavjud emas.');
+  if (!m) throw err(404, 'Bu amal web körinişda mavjud emas.');
   await chatStream(decodeURIComponent(m[1]), body || {}, onEvent, signal);
 }

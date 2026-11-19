@@ -1,16 +1,16 @@
-import { h, icon, mount, emptyBox } from '../ui.js?v=mwkb5oci';
-import { get } from '../api.js?v=mwkb5oci';
-import { bookmarkButton, openFigure } from '../common.js?v=mwkb5oci';
+import { h, icon, mount, emptyBox } from '../ui.js?v=mwnipjbv';
+import { get } from '../api.js?v=mwnipjbv';
+import { bookmarkButton, openFigure } from '../common.js?v=mwnipjbv';
 
-const authorsShort = (a) => (a.length > 2 ? `${a.slice(0, 2).join(', ')} va boshq.` : a.join(', '));
+const authorsShort = (a) => (a.length > 2 ? `${a.slice(0, 2).join(', ')} va boşq.` : a.join(', '));
 const coverOf = (b, cls = 'book-cover') => (b.coverUrl
   ? h('img', { class: cls, src: b.coverUrl, alt: `${b.title} muqovasi`, loading: 'lazy' })
   : h('div', { class: `${cls} cover-ph` }, h('b', {}, b.title), h('span', {}, b.edition)));
 // a book opens as its PDF (new tab) when the file is on the server; the Guyton book also has its own table of contents
 const openBtn = (b, big = false) => (b.pdfUrl
-  ? h('a', { class: `btn primary${big ? ' lg' : ''}`, href: b.pdfUrl, target: '_blank', rel: 'noopener' }, icon('book', big ? undefined : 'sm'), 'O’qish')
-  : b.linked ? h('a', { class: `btn primary${big ? ' lg' : ''}`, href: `/library/${b.id}` }, icon('play', big ? undefined : 'sm'), 'Mundarija')
-    : h('span', { class: 'btn', 'aria-disabled': 'true' }, 'PDF yo’q'));
+  ? h('a', { class: `btn primary${big ? ' lg' : ''}`, href: b.pdfUrl, target: '_blank', rel: 'noopener' }, icon('book', big ? undefined : 'sm'), 'Öqiş')
+  : b.linked ? h('a', { class: `btn primary${big ? ' lg' : ''}`, href: `/library/${b.id}` }, icon('list', big ? undefined : 'sm'), 'Mundarija')
+    : h('span', { class: 'btn', 'aria-disabled': 'true' }, 'PDF yöq'));
 
 export async function library({ el }) {
   const { books, fields } = await get('/api/shelf');
@@ -48,11 +48,11 @@ export async function library({ el }) {
   }
   let st;
   mount(el,
-    h('div', { class: 'title-row' }, h('div', {}, h('h1', {}, 'Kutubxona'), h('p', { class: 'sub' }, `Tibbiyot kitoblari: ${books.length} ta kitob. Muqovani bosing — batafsil, “O’qish” — kitobni ochadi.`))),
+    h('div', { class: 'title-row' }, h('div', {}, h('h1', {}, 'Kutubxona'), h('p', { class: 'sub' }, `Tibbiyot kitoblari: ${books.length} ta kitob. Muqovani bosing — batafsil, “Öqiş” — kitobni oçadi.`))),
     h('div', { class: 'row', style: { marginBottom: '16px' } },
       h('div', { class: 'grow', style: { position: 'relative', minWidth: '220px' } }, h('span', { style: { position: 'absolute', left: '14px', top: '13px', color: 'var(--text-2)' } }, icon('search')),
-        h('input', { type: 'search', class: 'big-search', placeholder: 'Kitob yoki muallif bo’yicha qidirish…', 'aria-label': 'Kutubxonada qidirish', oninput: (e) => { clearTimeout(st); st = setTimeout(() => { q = e.target.value.trim(); draw(); }, 150); } })),
-      h('select', { class: 'lang-btn', style: { boxShadow: 'none', fontWeight: 700 }, 'aria-label': 'Soha', onchange: (e) => { ff = e.target.value; draw(); } }, h('option', { value: '' }, 'Barcha sohalar'), fields.map((f) => h('option', { value: f }, f)))),
+        h('input', { type: 'search', class: 'big-search', placeholder: 'Kitob yoki muallif böyiça qidiriş…', 'aria-label': 'Kutubxonada qidiriş', oninput: (e) => { clearTimeout(st); st = setTimeout(() => { q = e.target.value.trim(); draw(); }, 150); } })),
+      h('select', { class: 'lang-btn', style: { boxShadow: 'none', fontWeight: 700 }, 'aria-label': 'Soha', onchange: (e) => { ff = e.target.value; draw(); } }, h('option', { value: '' }, 'Barça sohalar'), fields.map((f) => h('option', { value: f }, f)))),
     h('div', { class: 'lib-layout' }, grid, side));
   draw(); drawSide();
 }
@@ -82,12 +82,12 @@ export async function book({ el, params, setTitle }) {
         b.pdfAvailable ? h('a', { href: `/source-pdf/${b.id}#page=${c.pdfPages[0]}`, target: '_blank', rel: 'noopener', class: 'xs' }, `${c.printedPages[0]}–${c.printedPages[1]}-betlar`) : h('span', { class: 'xs muted' }, `${c.printedPages[0]}–${c.printedPages[1]}-betlar`)))))));
 }
 
-const TYPES = [['', 'Hammasi'], ['lesson', 'Bo’limlar'], ['text', 'Matn'], ['term', 'Atamalar'], ['figure', 'Rasmlar']];
+const TYPES = [['', 'Hammasi'], ['lesson', 'Bölimlar'], ['text', 'Matn'], ['term', 'Atamalar'], ['figure', 'Rasmlar']];
 export async function search({ el, query, navigate }) {
   const q = (query.q || '').trim();
   const type = query.type || '';
   const page = +query.page || 1;
-  if (!q) { mount(el, h('h1', {}, 'Qidiruv'), emptyBox('search', 'Qidiruv so’zini kiriting', 'Yuqoridagi qidiruv maydonidan foydalaning.')); return; }
+  if (!q) { mount(el, h('h1', {}, 'Qidiruv'), emptyBox('search', 'Qidiruv sözini kiriting', 'Yuqoridagi qidiruv maydonidan foydalaning.')); return; }
   const r = await get(`/api/search?q=${encodeURIComponent(q)}${type ? `&type=${type}` : ''}&page=${page}`);
   const go = (p) => navigate(`/search?${new URLSearchParams({ q, ...(p.type ?? type ? { type: p.type ?? type } : {}), ...(p.page ? { page: p.page } : {}) })}`);
   const link = (x) => {
@@ -96,12 +96,12 @@ export async function search({ el, query, navigate }) {
     if (x.lessonId) return h('a', { href: `/topics/${x.topicId}/sections/${x.lessonId}?tab=${x.lang === 'en' ? 'full' : 'simple'}${x.blockId ? `#${x.blockId}` : ''}`, style: { fontWeight: 800 } }, x.title);
     return h('b', {}, x.title);
   };
-  mount(el, h('h1', {}, `“${q}” bo’yicha natijalar`), h('p', { class: 'muted small' }, `${r.total} ta natija`),
+  mount(el, h('h1', {}, `“${q}” böyiça natijalar`), h('p', { class: 'muted small' }, `${r.total} ta natija`),
     h('div', { class: 'row', style: { flexWrap: 'wrap', marginBottom: '14px' } }, TYPES.map(([k, l]) => h('button', { type: 'button', class: 'chip', 'aria-pressed': String(k === type), onclick: () => go({ type: k }) }, l))),
     r.results.length ? h('div', { class: 'stack' }, r.results.map((x) => h('article', { class: 'card pad', style: { padding: '14px' } },
       h('div', { class: 'row', style: { gap: '6px', marginBottom: '4px', flexWrap: 'wrap' } }, h('span', { class: 'badge' }, x.badge || x.type), x.lang === 'en' ? h('span', { class: 'badge gray' }, 'EN') : null, x.lessonTitle ? h('span', { class: 'xs muted' }, x.lessonTitle) : null),
       link(x), x.snippet ? h('p', { class: 'small', style: { margin: '6px 0 0' } }, x.snippet.replace(/\*\*/g, '')) : null)))
-      : emptyBox('search', 'Hech narsa topilmadi', 'Boshqa so’z bilan yoki inglizcha atama bilan qidirib ko’ring.'),
+      : emptyBox('search', 'Heç narsa topilmadi', 'Boşqa söz bilan yoki inglizça atama bilan qidirib köring.'),
     r.pages > 1 ? h('div', { class: 'row between', style: { marginTop: '16px' } },
       page > 1 ? h('button', { type: 'button', class: 'btn', onclick: () => go({ page: page - 1 }) }, icon('left'), 'Oldingi') : h('span'), h('span', { class: 'small' }, `${page} / ${r.pages}`),
       page < r.pages ? h('button', { type: 'button', class: 'btn', onclick: () => go({ page: page + 1 }) }, 'Keyingi', icon('right')) : h('span')) : null);

@@ -1,12 +1,12 @@
 // Fetch wrapper: JSON in/out, CSRF header, uniform errors.
 export class ApiErr extends Error {
   constructor(status, body) {
-    super(body?.message || (status === 0 ? 'Tarmoq xatosi: serverga ulanib bo’lmadi.' : 'Xato yuz berdi.'));
+    super(body?.message || (status === 0 ? 'Tarmoq xatosi: serverga ulanib bölmadi.' : 'Xato yuz berdi.'));
     this.status = status; this.code = body?.code; this.fieldErrors = body?.fieldErrors; this.body = body;
   }
 }
 
-const demo = () => (typeof window !== 'undefined' && window.DS_DEMO ? import('./demo-api.js?v=mwkb5oci') : null);
+const demo = () => (typeof window !== 'undefined' && window.DS_DEMO ? import('./demo-api.js?v=mwnipjbv') : null);
 
 export async function api(path, { method = 'GET', body, signal } = {}) {
   const d = demo();
