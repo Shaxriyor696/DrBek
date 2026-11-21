@@ -1,6 +1,6 @@
-import { h, icon, mount, toast, rid, emptyBox, confirmBox, fmtDate, inline, ring } from '../ui.js?v=mwqdgmla';
-import { get, post, put } from '../api.js?v=mwqdgmla';
-import { setDirty } from '../main.js?v=mwqdgmla';
+import { h, icon, mount, toast, rid, emptyBox, confirmBox, fmtDate, inline, ring } from '../ui.js?v=mwqduuu9';
+import { get, post, put } from '../api.js?v=mwqduuu9';
+import { setDirty } from '../main.js?v=mwqduuu9';
 
 const pct = (a) => (a.percent === null || a.percent === undefined ? '—' : `${a.percent}%`);
 

@@ -1,8 +1,8 @@
 // Source-grounded AI chat widget, shared by the reader side panel and the assistant page.
-import { h, icon, mount, toast } from './ui.js?v=mwqdgmla';
-import { get, post, streamPost } from './api.js?v=mwqdgmla';
-import { openFigure } from './common.js?v=mwqdgmla';
-import { navigate } from './main.js?v=mwqdgmla';
+import { h, icon, mount, toast } from './ui.js?v=mwqduuu9';
+import { get, post, streamPost } from './api.js?v=mwqduuu9';
+import { openFigure } from './common.js?v=mwqduuu9';
+import { navigate } from './main.js?v=mwqduuu9';
 
 const QUICK = [['explain', 'Soddalaştir', 'zap'], ['example', 'Misol keltir', 'book'], ['term', 'Atamani izohla', 'file'], ['quiz', 'Savol ber', 'help']];
 

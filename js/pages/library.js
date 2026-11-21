@@ -1,6 +1,6 @@
-import { h, icon, mount, emptyBox } from '../ui.js?v=mwqdgmla';
-import { get } from '../api.js?v=mwqdgmla';
-import { bookmarkButton, openFigure } from '../common.js?v=mwqdgmla';
+import { h, icon, mount, emptyBox } from '../ui.js?v=mwqduuu9';
+import { get } from '../api.js?v=mwqduuu9';
+import { bookmarkButton, openFigure } from '../common.js?v=mwqduuu9';
 
 const authorsShort = (a) => (a.length > 2 ? `${a.slice(0, 2).join(', ')} va boşq.` : a.join(', '));
 const coverOf = (b, cls = 'book-cover') => (b.coverUrl

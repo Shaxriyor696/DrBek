@@ -1,6 +1,6 @@
-import { h, icon, mount, toast } from '../ui.js?v=mwqdgmla';
-import { post, patch } from '../api.js?v=mwqdgmla';
-import { loadMe, state } from '../main.js?v=mwqdgmla';
+import { h, icon, mount, toast } from '../ui.js?v=mwqduuu9';
+import { post, patch } from '../api.js?v=mwqduuu9';
+import { loadMe, state } from '../main.js?v=mwqduuu9';
 
 function layout(title, sub, form, which) {
   return h('div', { class: 'auth' },

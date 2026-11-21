@@ -996,3 +996,18 @@ main.content:focus, main.content:focus-visible { outline: none; }
   .hero-dark::after { background: linear-gradient(180deg, transparent 0, transparent 130px, #04303F 190px, #04303F 100%); }
 }
 .tcard .img, .topic-card .img { background: #04303F; }
+
+/* Compact desktop scale: the whole UI renders at 80% on laptop/desktop screens (phones/tablets stay 100%).
+   CSS zoom also shrinks vh units, so full-height pieces divide by --z to still fill the screen. */
+:root { --z: 1; }
+@media (min-width: 1000px) and (pointer: fine) {
+  :root { --z: .8; }
+  html { zoom: .8; }
+  .app, .auth { min-height: calc(100vh / var(--z)); }
+  .sidebar { height: calc(100vh / var(--z)); }
+  .modal { max-height: calc(90vh / var(--z)); }
+  .reader .toc, .side-panel { max-height: calc(100vh / var(--z) - 110px); }
+  .threads { max-height: calc(100vh / var(--z) - 140px); }
+  .chat-page .chat-log { max-height: calc(100vh / var(--z) - 380px); }
+  .lightbox .lb-cap { max-height: calc(26vh / var(--z)); }
+}

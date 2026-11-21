@@ -1,6 +1,6 @@
-import { h, icon, mount, fmtMin } from '../ui.js?v=mwqdgmla';
-import { get } from '../api.js?v=mwqdgmla';
-import { ringBox, kpi, bar } from './home.js?v=mwqdgmla';
+import { h, icon, mount, fmtMin, uiZoom } from '../ui.js?v=mwqduuu9';
+import { get } from '../api.js?v=mwqduuu9';
+import { ringBox, kpi, bar } from './home.js?v=mwqduuu9';
 
 const RANGES = [['day', 'Kunlik'], ['week', 'Haftalik'], ['month', 'Oylik']];
 const MON = ['yan', 'fev', 'mar', 'apr', 'may', 'iyun', 'iyul', 'avg', 'sen', 'okt', 'noy', 'dek'];
@@ -74,8 +74,8 @@ function rhythmChart(rows, { labels, sub, fullLabels, currentIdx, avg }) {
     bars.forEach((o) => o.g.classList.toggle('hover', o === b));
     tip.textContent = '';
     tip.append(h('b', {}, fullLabels[b.i]), h('span', {}, b.v ? `${b.v} daqiqa öqilgan` : 'Öqilmagan'));
-    const box = svg.getBoundingClientRect(); const sx = box.width / W;
-    tip.style.left = `${Math.min(Math.max(b.cx * sx, 70), box.width - 70)}px`;
+    const bw = svg.getBoundingClientRect().width / uiZoom(); const sx = bw / W;
+    tip.style.left = `${Math.min(Math.max(b.cx * sx, 70), bw - 70)}px`;
     tip.style.top = `${Math.max(0, b.top * sx - 12)}px`;
     tip.classList.add('on');
   };

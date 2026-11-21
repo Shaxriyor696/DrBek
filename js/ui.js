@@ -202,3 +202,7 @@ export function fmtDate(iso, tz) {
   } catch { return iso; }
 }
 export const rid = () => (crypto.randomUUID ? crypto.randomUUID().replace(/-/g, '') : Math.random().toString(36).slice(2) + Date.now().toString(36));
+
+// desktop UI is scaled with CSS zoom (see styles.css): getBoundingClientRect/scroll values are in
+// screen px, while positions set on elements inside <html> are in zoomed px — divide by this.
+export const uiZoom = () => parseFloat(getComputedStyle(document.documentElement).zoom) || 1;

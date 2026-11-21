@@ -1,9 +1,9 @@
-import { h, icon, mount, toast, inline, rid, emptyBox, fmtDate } from '../ui.js?v=mwqdgmla';
-import { get, post, patch, del } from '../api.js?v=mwqdgmla';
-import { bookmarkButton, openFigure, figureBlock, statusBadge, figLabel } from '../common.js?v=mwqdgmla';
-import { createChat } from '../chat.js?v=mwqdgmla';
-import { setDirty, loc, replaceUrlQuiet } from '../main.js?v=mwqdgmla';
-import { normalizeSearchText as n } from '../search-text.js?v=mwqdgmla';
+import { h, icon, mount, toast, inline, rid, emptyBox, fmtDate, uiZoom } from '../ui.js?v=mwqduuu9';
+import { get, post, patch, del } from '../api.js?v=mwqduuu9';
+import { bookmarkButton, openFigure, figureBlock, statusBadge, figLabel } from '../common.js?v=mwqduuu9';
+import { createChat } from '../chat.js?v=mwqduuu9';
+import { setDirty, loc, replaceUrlQuiet } from '../main.js?v=mwqduuu9';
+import { normalizeSearchText as n } from '../search-text.js?v=mwqduuu9';
 
 const TABS = [['simple', 'Umumiy ma’lumot'], ['uzfull', 'Ma’lumot (UZ)'], ['full', 'Ma’lumot (EN)'], ['terms', 'Atamalar'], ['source', 'Manba']];
 
@@ -323,9 +323,10 @@ export async function reader({ el, params, query, state, navigate, setTitle }) {
     selbar.classList.remove('hidden');
     if (touchUI()) { selbar.classList.add('sheet'); selbar.style.top = ''; selbar.style.left = ''; return; }
     selbar.classList.remove('sheet');
-    const top = window.scrollY + r.top - 52;
-    const left = Math.max(8, Math.min(window.scrollX + r.left + r.width / 2 - 140, document.documentElement.clientWidth - 296));
-    selbar.style.top = `${top < window.scrollY + 60 ? window.scrollY + r.bottom + 8 : top}px`;
+    const z = uiZoom(); const sy = window.scrollY / z;
+    const top = sy + r.top / z - 52;
+    const left = Math.max(8, Math.min((window.scrollX + r.left + r.width / 2) / z - 140, document.documentElement.clientWidth - 296));
+    selbar.style.top = `${top < sy + 60 ? sy + r.bottom / z + 8 : top}px`;
     selbar.style.left = `${left}px`;
   }
   const onUp = () => setTimeout(onSelect, 10);
