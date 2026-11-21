@@ -1,9 +1,9 @@
-import { h, icon, mount, toast, inline, rid, emptyBox, fmtDate, uiZoom } from '../ui.js?v=mwqduuu9';
-import { get, post, patch, del } from '../api.js?v=mwqduuu9';
-import { bookmarkButton, openFigure, figureBlock, statusBadge, figLabel } from '../common.js?v=mwqduuu9';
-import { createChat } from '../chat.js?v=mwqduuu9';
-import { setDirty, loc, replaceUrlQuiet } from '../main.js?v=mwqduuu9';
-import { normalizeSearchText as n } from '../search-text.js?v=mwqduuu9';
+import { h, icon, mount, toast, inline, rid, emptyBox, fmtDate, uiZoom } from '../ui.js?v=mwqeam7z';
+import { get, post, patch, del } from '../api.js?v=mwqeam7z';
+import { bookmarkButton, openFigure, figureBlock, statusBadge, figLabel } from '../common.js?v=mwqeam7z';
+import { createChat } from '../chat.js?v=mwqeam7z';
+import { setDirty, loc, replaceUrlQuiet } from '../main.js?v=mwqeam7z';
+import { normalizeSearchText as n } from '../search-text.js?v=mwqeam7z';
 
 const TABS = [['simple', 'Umumiy ma’lumot'], ['uzfull', 'Ma’lumot (UZ)'], ['full', 'Ma’lumot (EN)'], ['terms', 'Atamalar'], ['source', 'Manba']];
 

@@ -1,9 +1,9 @@
-import { h, icon, mount, emptyBox } from '../ui.js?v=mwqduuu9';
-import { get } from '../api.js?v=mwqduuu9';
-import { bookmarkButton } from '../common.js?v=mwqduuu9';
-import { loc } from '../main.js?v=mwqduuu9';
-import { normalizeSearchText as norm } from '../search-text.js?v=mwqduuu9';
-import { themeVars } from '../topic-theme.js?v=mwqduuu9';
+import { h, icon, mount, emptyBox } from '../ui.js?v=mwqeam7z';
+import { get } from '../api.js?v=mwqeam7z';
+import { bookmarkButton } from '../common.js?v=mwqeam7z';
+import { loc } from '../main.js?v=mwqeam7z';
+import { normalizeSearchText as norm } from '../search-text.js?v=mwqeam7z';
+import { themeVars } from '../topic-theme.js?v=mwqeam7z';
 
 export const wide = (u) => String(u || '').replace(/\.webp$/, '_wide.webp?v=3');
 

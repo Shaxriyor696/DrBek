@@ -1,8 +1,8 @@
-import { h, icon, mount, ring, fmtMin } from '../ui.js?v=mwqduuu9';
-import { get } from '../api.js?v=mwqduuu9';
-import { topicCard } from './topics.js?v=mwqduuu9';
-import { state } from '../main.js?v=mwqduuu9';
-import { themeVars } from '../topic-theme.js?v=mwqduuu9';
+import { h, icon, mount, ring, fmtMin } from '../ui.js?v=mwqeam7z';
+import { get } from '../api.js?v=mwqeam7z';
+import { topicCard } from './topics.js?v=mwqeam7z';
+import { state } from '../main.js?v=mwqeam7z';
+import { themeVars } from '../topic-theme.js?v=mwqeam7z';
 
 const WD = ['Du', 'Se', 'Ç', 'Pa', 'Ju', 'Şa', 'Ya'];
 const greeting = () => { const hr = new Date().getHours(); return hr < 5 ? 'Xayrli tun' : hr < 11 ? 'Xayrli tong' : hr < 18 ? 'Xayrli kun' : 'Xayrli keç'; };
