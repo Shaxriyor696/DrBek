@@ -2,9 +2,9 @@
  "id": "ch75",
  "topicId": "14",
  "order": 1,
- "titleUz": "Endokrinologiyaga kirish",
+ "titleUz": "Endokrinologiyaga kiriş",
  "titleOriginal": "Introduction to Endocrinology",
- "subtitle": "*Introduction to Endocrinology* — XIV bo'lim (Endokrinologiya va ko'payish), PDF 866–878",
+ "subtitle": "*Introduction to Endocrinology* — XIV bo‘lim (Endokrinologiya va ko‘payish), PDF 866–878",
  "contentVersion": "2026-11-14.1",
  "status": "in_review",
  "translationStatus": "machine_assisted",
@@ -243,31 +243,31 @@
   "Sekretsiya, tashilish va qondan tozalanish",
   "Teskari aloqa bilan boshqarish",
   "Qonda tashilish",
-  "Gormonlarning qondan \"tozalanishi\"",
+  "Gormonlarning qondan “tozalanishi”",
   "Ta’sir mexanizmlari — retseptorlar",
   "Hujayra ichi signalizatsiya",
   "Ikkilamchi xabarchilar",
   "Asosan genetik mexanizmga ta’sir qiluvchi gormonlar",
-  "Qonda gormon konsentratsiyasini o’lchash"
+  "Qonda gormon konsentratsiyasini o‘lchash"
  ],
  "blocks": {
   "simple": [
    {
     "type": "heading",
     "level": 2,
-    "text": "Asosiy g’oya",
+    "text": "Asosiy ğoya",
     "id": "ch75-s-0-asosiy-goya",
     "bid": "ch75-u0"
    },
    {
     "type": "paragraph",
-    "text": "Hujayra, to’qima va a’zolar faoliyati bir necha kimyoviy xabarchi tizimlari orqali muvofiqlashtiriladi. Gormonlar uch kimyoviy sinfga bo’linadi (oqsil/peptid, steroid, tirozin hosilalari), juda kichik konsentratsiyalarda ishlaydi, asosan manfiy teskari aloqa bilan boshqariladi va nishon hujayradagi o’ziga xos retseptorlar orqali ta’sir qiladi: membrana retseptorlari ikkilamchi xabarchilar (cAMP, Ca²⁺-kalmodulin, fosfolipid mahsulotlari) yoki fermentlar orqali, hujayra ichi retseptorlari esa genlar transkripsiyasi orqali.",
+    "text": "Hujayra, töqima va a’zolar faoliyati bir neça kimyoviy xabarçi tizimlari orqali muvofiqlaştiriladi. Gormonlar uç kimyoviy sinfga bölinadi (oqsil/peptid, steroid, tirozin hosilalari), juda kiçik konsentratsiyalarda işlaydi, asosan manfiy teskari aloqa bilan boşqariladi va nişon hujayradagi öziga xos retseptorlar orqali ta’sir qiladi: membrana retseptorlari ikkilamçi xabarçilar (cAMP, Ca²⁺-kalmodulin, fosfolipid mahsulotlari) yoki fermentlar orqali, hujayra içi retseptorlari esa genlar transkripsiyasi orqali.",
     "bid": "ch75-u1"
    },
    {
     "type": "heading",
     "level": 2,
-    "text": "Kimyoviy xabarchilar turlari",
+    "text": "Kimyoviy xabarçilar turlari",
     "id": "ch75-s-2-kimyoviy-xabarchilar-turlari",
     "bid": "ch75-u2"
    },
@@ -276,11 +276,11 @@
     "ordered": true,
     "items": [
      {
-      "text": "**Neyromediatorlar** — akson uchlaridan sinapsga, mahalliy nerv hujayrasi funksiyasini boshqaradi.",
+      "text": "**Neyromediatorlar** — akson uçlaridan sinapsga, mahalliy nerv hujayrasi funksiyasini boşqaradi.",
       "depth": 0
      },
      {
-      "text": "**Endokrin gormonlar** — bez yoki maxsus hujayralardan qonga, uzoqdagi nishon hujayralarga ta’sir qiladi.",
+      "text": "**Endokrin gormonlar** — bez yoki maxsus hujayralardan qonga, uzoqdagi nişon hujayralarga ta’sir qiladi.",
       "depth": 0
      },
      {
@@ -288,31 +288,31 @@
       "depth": 0
      },
      {
-      "text": "**Parakrinlar** — hujayradan tashqari suyuqlikka, boshqa turdagi qo’shni hujayralarga ta’sir qiladi.",
+      "text": "**Parakrinlar** — hujayradan taşqari suyuqlikka, boşqa turdagi qöşni hujayralarga ta’sir qiladi.",
       "depth": 0
      },
      {
-      "text": "**Autokrinlar** — ularni ishlab chiqargan hujayraning o’ziga ta’sir qiladi.",
+      "text": "**Autokrinlar** — ularni işlab çiqargan hujayraning öziga ta’sir qiladi.",
       "depth": 0
      },
      {
-      "text": "**Sitokinlar** — peptidlar; autokrin, parakrin yoki endokrin bo’lishi mumkin (interleykinlar va boshqa limfokinlar, 35-bob). Adipotsitlardan chiqadiganlari (masalan leptin) **adipokinlar** deyiladi.",
+      "text": "**Sitokinlar** — peptidlar; autokrin, parakrin yoki endokrin bölişi mumkin (interleykinlar va boşqa limfokinlar, 35-bob). Adipotsitlardan çiqadiganlari (masalan leptin) **adipokinlar** deyiladi.",
       "depth": 0
      },
      {
-      "text": "Tizimlar o’zaro bog’liq: buyrak usti mag’iz qavati va gipofiz asosan nerv stimuliga javoban ajratadi. Gipotalamus neyroendokrin hujayralari aksonlari orqa gipofiz va median eminensiyada tugaydi, ADG, oksitotsin va oldingi gipofizni boshqaruvchi gipofizotrop gormonlarni ajratadi.",
+      "text": "Tizimlar özaro boğliq: buyrak usti mağiz qavati va gipofiz asosan nerv stimuliga javoban ajratadi. Gipotalamus neyroendokrin hujayralari aksonlari orqa gipofiz va median eminensiyada tugaydi, ADG, oksitotsin va oldingi gipofizni boşqaruvçi gipofizotrop gormonlarni ajratadi.",
       "depth": 0
      },
      {
-      "text": "Ba’zi gormonlar ko’p hujayralarga ta’sir qiladi (o’sish gormoni, tiroksin); boshqalari faqat retseptori ko’p nishon to’qimalarga (AKTG — buyrak usti po’stlog’i; tuxumdon gormonlari — ayol jinsiy a’zolari va ikkilamchi belgilari).",
+      "text": "Ba’zi gormonlar köp hujayralarga ta’sir qiladi (ösiş gormoni, tiroksin); boşqalari faqat retseptori köp nişon töqimalarga (AKTG — buyrak usti pöstloği; tuxumdon gormonlari — ayol jinsiy a’zolari va ikkilamçi belgilari).",
       "depth": 0
      },
      {
-      "text": "Gormonlar metabolizm, o’sish va rivojlanish, suv-elektrolit muvozanati, ko’payish va xulqni boshqaradi. O’sish gormonisiz past bo’y; T4/T3 siz reaksiyalar va odamning o’zi sust; insulinsiz uglevoddan deyarli foydalanilmaydi; jinsiy gormonlarsiz jinsiy rivojlanish yo’q.",
+      "text": "Gormonlar metabolizm, ösiş va rivojlaniş, suv-elektrolit muvozanati, köpayiş va xulqni boşqaradi. Ösiş gormonisiz past böy; T4/T3 siz reaksiyalar va odamning özi sust; insulinsiz uglevoddan deyarli foydalanilmaydi; jinsiy gormonlarsiz jinsiy rivojlaniş yöq.",
       "depth": 0
      },
      {
-      "text": "75-1-rasm: gipotalamus, epifiz, gipofiz, qalqonsimon bez, qalqonsimon bez oldi bezlari, timus, oshqozon, buyrak usti bezlari, oshqozon osti bezi, buyrak, yog' to’qimasi, ingichka ichak, tuxumdonlar, moyaklar (qo’shimcha jinsiy gormon manbai — yo’ldosh).",
+      "text": "75-1-rasm: gipotalamus, epifiz, gipofiz, qalqonsimon bez, qalqonsimon bez oldi bezlari, timus, oşqozon, buyrak usti bezlari, oşqozon osti bezi, buyrak, yoğ töqimasi, ingiçka içak, tuxumdonlar, moyaklar (qöşimça jinsiy gormon manbai — yöldoş).",
       "depth": 0
      }
     ],
@@ -330,67 +330,67 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Gipotalamus (76-bob):** TRG (TTG va prolaktin sekretsiyasini qo’zg’atadi); KRG (AKTG ajratadi); OGRG (o’sish gormonini ajratadi); somatostatin (o’sish gormonini tormozlaydi); GnRG (LG va FSG ajratadi); dofamin yoki prolaktinni tormozlovchi omil — hammasi peptid (dofamin amin).",
+      "text": "**Gipotalamus (76-bob):** TRG (TTG va prolaktin sekretsiyasini qözğatadi); KRG (AKTG ajratadi); OGRG (ösiş gormonini ajratadi); somatostatin (ösiş gormonini tormozlaydi); GnRG (LG va FSG ajratadi); dofamin yoki prolaktinni tormozlovçi omil — hammasi peptid (dofamin amin).",
       "depth": 0
      },
      {
-      "text": "**Oldingi gipofiz (76-bob):** o’sish gormoni (oqsil sintezi va ko’p hujayra o’sishi); TTG (T4, T3 sintezi va sekretsiyasi); AKTG (kortizol, androgenlar, aldosteron); prolaktin (sut bezlari rivojlanishi va sut sekretsiyasi); FSG (tuxumdon follikulalari o’sishi, Sertoli hujayralarida spermatozoid yetilishi); LG (Leydig hujayralarida testosteron; ovulyatsiya, sariq tana, estrogen va progesteron sintezi). Peptidlar.",
+      "text": "**Oldingi gipofiz (76-bob):** ösiş gormoni (oqsil sintezi va köp hujayra ösişi); TTG (T4, T3 sintezi va sekretsiyasi); AKTG (kortizol, androgenlar, aldosteron); prolaktin (sut bezlari rivojlanişi va sut sekretsiyasi); FSG (tuxumdon follikulalari ösişi, Sertoli hujayralarida spermatozoid yetilişi); LG (Leydig hujayralarida testosteron; ovulyatsiya, sariq tana, estrogen va progesteron sintezi). Peptidlar.",
       "depth": 0
      },
      {
-      "text": "**Orqa gipofiz:** ADG (vazopressin — buyrakda suv qayta so’rilishi, vazokonstriksiya, bosim oshishi); oksitotsin (sut chiqishi, bachadon qisqarishi). Peptidlar.",
+      "text": "**Orqa gipofiz:** ADG (vazopressin — buyrakda suv qayta sörilişi, vazokonstriksiya, bosim oşişi); oksitotsin (sut çiqişi, baçadon qisqarişi). Peptidlar.",
       "depth": 0
      },
      {
-      "text": "**Qalqonsimon bez (77-bob):** T4 va T3 (ko’p hujayralarda reaksiya tezligi va metabolizm oshadi) — aminlar; kalsitonin (suyakda kalsiy yotqizilishi, hujayradan tashqari Ca²⁺ kamayishi) — peptid.",
+      "text": "**Qalqonsimon bez (77-bob):** T4 va T3 (köp hujayralarda reaksiya tezligi va metabolizm oşadi) — aminlar; kalsitonin (suyakda kalsiy yotqizilişi, hujayradan taşqari Ca²⁺ kamayişi) — peptid.",
       "depth": 0
      },
      {
-      "text": "**Buyrak usti po’stlog’i (78-bob):** kortizol (oqsil, uglevod, yog' almashinuvi; yallig’lanishga qarshi); aldosteron (buyrakda Na⁺ qayta so’rilishi, K⁺ va H⁺ sekretsiyasi) — steroidlar.",
+      "text": "**Buyrak usti pöstloği (78-bob):** kortizol (oqsil, uglevod, yoğ almaşinuvi; yalliğlanişga qarşi); aldosteron (buyrakda Na⁺ qayta sörilişi, K⁺ va H⁺ sekretsiyasi) — steroidlar.",
       "depth": 0
      },
      {
-      "text": "**Buyrak usti mag’iz qavati (61-bob):** noradrenalin, adrenalin — simpatik qo’zg’alish ta’siri; aminlar.",
+      "text": "**Buyrak usti mağiz qavati (61-bob):** noradrenalin, adrenalin — simpatik qözğaliş ta’siri; aminlar.",
       "depth": 0
      },
      {
-      "text": "**Oshqozon osti bezi (79-bob):** insulin (beta hujayralar; glyukozaning ko’p hujayralarga kirishi); glyukagon (alfa hujayralar; jigarda glyukoza sintezi va chiqarilishi) — peptidlar.",
+      "text": "**Oşqozon osti bezi (79-bob):** insulin (beta hujayralar; glyukozaning köp hujayralarga kirişi); glyukagon (alfa hujayralar; jigarda glyukoza sintezi va çiqarilişi) — peptidlar.",
       "depth": 0
      },
      {
-      "text": "**Qalqonsimon bez oldi bezlari (80-bob):** paratgormon — ichak va buyrakda Ca so’rilishini oshirib, suyakdan Ca chiqarib, qon Ca²⁺ ni boshqaradi; peptid.",
+      "text": "**Qalqonsimon bez oldi bezlari (80-bob):** paratgormon — içak va buyrakda Ca sörilişini oşirib, suyakdan Ca çiqarib, qon Ca²⁺ ni boşqaradi; peptid.",
       "depth": 0
      },
      {
-      "text": "**Moyaklar (81-bob):** testosteron — erkak reproduktiv tizimi va ikkilamchi belgilar; steroid.",
+      "text": "**Moyaklar (81-bob):** testosteron — erkak reproduktiv tizimi va ikkilamçi belgilar; steroid.",
       "depth": 0
      },
      {
-      "text": "**Tuxumdonlar (82-bob):** estrogenlar (ayol reproduktiv tizimi, sut bezlari, ikkilamchi belgilar); progesteron (endometriy bezlaridan \"bachadon suti\", sut bezlari sekretor apparati) — steroidlar.",
+      "text": "**Tuxumdonlar (82-bob):** estrogenlar (ayol reproduktiv tizimi, sut bezlari, ikkilamçi belgilar); progesteron (endometriy bezlaridan “baçadon suti”, sut bezlari sekretor apparati) — steroidlar.",
       "depth": 0
      },
      {
-      "text": "**Yo’ldosh (83-bob):** xorionik gonadotropin (sariq tana o’sishi va uning estrogen/progesteron sekretsiyasi); odam somatomammotropini (ba’zi homila to’qimalari va ona sut bezlari rivojlanishiga yordam beradi, ehtimol); estrogen va progesteron.",
+      "text": "**Yöldoş (83-bob):** xorionik gonadotropin (sariq tana ösişi va uning estrogen/progesteron sekretsiyasi); odam somatomammotropini (ba’zi homila töqimalari va ona sut bezlari rivojlanişiga yordam beradi, ehtimol); estrogen va progesteron.",
       "depth": 0
      },
      {
-      "text": "**Buyrak (26-bob):** renin (ferment: angiotensinogen → angiotensin I); 1,25-digidroksixolekalsiferol (ichakda Ca so’rilishi, suyak minerallashuvi); eritropoetin (eritrotsitlar).",
+      "text": "**Buyrak (26-bob):** renin (ferment: angiotensinogen → angiotensin I); 1,25-digidroksixolekalsiferol (içakda Ca sörilişi, suyak minerallaşuvi); eritropoetin (eritrotsitlar).",
       "depth": 0
      },
      {
-      "text": "**Yurak (22-bob):** bo’lmacha natriyuretik peptidi (Na chiqarilishi, bosim pasayishi).",
+      "text": "**Yurak (22-bob):** bölmaça natriyuretik peptidi (Na çiqarilişi, bosim pasayişi).",
       "depth": 0
      },
      {
-      "text": "**Oshqozon (65-bob):** gastrin (parietal hujayralardan HCl).",
+      "text": "**Oşqozon (65-bob):** gastrin (parietal hujayralardan HCl).",
       "depth": 0
      },
      {
-      "text": "**Ingichka ichak (65-bob):** sekretin (oshqozon osti bezi atsinar hujayralaridan bikarbonat va suv); xoletsistokinin (o’t pufagi qisqarishi, oshqozon osti bezi fermentlari).",
+      "text": "**Ingiçka içak (65-bob):** sekretin (oşqozon osti bezi atsinar hujayralaridan bikarbonat va suv); xoletsistokinin (öt pufagi qisqarişi, oşqozon osti bezi fermentlari).",
       "depth": 0
      },
      {
-      "text": "**Adipotsitlar (72-bob):** leptin (ishtahani tormozlaydi, termogenezni qo’zg’atadi).",
+      "text": "**Adipotsitlar (72-bob):** leptin (iştahani tormozlaydi, termogenezni qözğatadi).",
       "depth": 0
      }
     ],
@@ -399,18 +399,18 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Gormonlarning kimyoviy tuzilishi va sintezi",
+    "text": "Gormonlarning kimyoviy tuzilişi va sintezi",
     "id": "ch75-s-6-gormonlarning-kimyoviy-tuzilishi-va-sintezi",
     "bid": "ch75-u6"
    },
    {
     "type": "paragraph",
-    "text": "Uch sinf: (1) **oqsil va polipeptidlar** (oldingi va orqa gipofiz, insulin, glyukagon, paratgormon va b.); (2) **steroidlar** (kortizol, aldosteron, estrogen, progesteron, testosteron; yo’ldosh estrogeni va progesteroni); (3) **tirozin hosilalari** (T4, T3; adrenalin, noradrenalin). Polisaxarid yoki nuklein kislota gormonlari ma’lum emas.",
+    "text": "Uç sinf: (1) **oqsil va polipeptidlar** (oldingi va orqa gipofiz, insulin, glyukagon, paratgormon va b.); (2) **steroidlar** (kortizol, aldosteron, estrogen, progesteron, testosteron; yöldoş estrogeni va progesteroni); (3) **tirozin hosilalari** (T4, T3; adrenalin, noradrenalin). Polisaxarid yoki nuklein kislota gormonlari ma’lum emas.",
     "bid": "ch75-u7"
    },
    {
     "type": "paragraph",
-    "text": "**Peptid va oqsil gormonlar — sekretor pufakchalarda saqlanadi**",
+    "text": "**Peptid va oqsil gormonlar — sekretor pufakçalarda saqlanadi**",
     "bid": "ch75-u8"
    },
    {
@@ -418,15 +418,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Ko’pchilik gormonlar shular. Hajmi 3 aminokislotali TRG dan ~200 aminokislotali o’sish gormoni va prolaktingacha. ≥100 aminokislota — oqsil, <100 — peptid.",
+      "text": "Köpçilik gormonlar şular. Hajmi 3 aminokislotali TRG dan ~200 aminokislotali ösiş gormoni va prolaktingaça. ≥100 aminokislota — oqsil, <100 — peptid.",
       "depth": 0
      },
      {
-      "text": "Donador endoplazmatik to’rda sintezlanadi (75-2-rasm): avval biologik nofaol katta **preprogormon**, EPR da kichikroq **progormonga** kesiladi, Golji apparatida sekretor pufakchalarga joylanadi; pufakchalardagi fermentlar uni faol gormon va nofaol bo’laklarga ajratadi. Pufakchalar sitoplazmada, ko’pi membranaga bog’langan holda saqlanadi.",
+      "text": "Donador endoplazmatik törda sintezlanadi (75-2-rasm): avval biologik nofaol katta **preprogormon**, EPR da kiçikroq **progormonga** kesiladi, Golji apparatida sekretor pufakçalarga joylanadi; pufakçalardagi fermentlar uni faol gormon va nofaol bölaklarga ajratadi. Pufakçalar sitoplazmada, köpi membranaga boğlangan holda saqlanadi.",
       "depth": 0
      },
      {
-      "text": "Sekretsiya **ekzotsitoz** orqali (gormon va nofaol bo’laklar interstitsial suyuqlik yoki to’g’ridan-to’g’ri qonga). Stimul ko’pincha membrana depolyarizatsiyasidan sitozolda Ca²⁺ oshishi; boshqa hollarda retseptor qo’zg’alishidan cAMP oshib, protein kinazalar faollashadi.",
+      "text": "Sekretsiya **ekzotsitoz** orqali (gormon va nofaol bölaklar interstitsial suyuqlik yoki töğridan-töğri qonga). Stimul köpinça membrana depolyarizatsiyasidan sitozolda Ca²⁺ oşişi; boşqa hollarda retseptor qözğalişidan cAMP oşib, protein kinazalar faollaşadi.",
       "depth": 0
      },
      {
@@ -446,15 +446,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Xolesteringa o’xshash tuzilish: uchta siklogeksil va bitta siklopentil halqa (75-3-rasm); lipidda eriydi.",
+      "text": "Xolesteringa öxşaş tuziliş: uçta siklogeksil va bitta siklopentil halqa (75-3-rasm); lipidda eriydi.",
       "depth": 0
      },
      {
-      "text": "Hujayrada gormon deyarli saqlanmaydi, lekin sitoplazma vakuolalarida ko’p xolesterin efirlari bor va stimuldan keyin tez safarbar qilinadi. Xolesterin asosan plazmadan, qisman hujayraning o’zida yangidan sintezlanadi.",
+      "text": "Hujayrada gormon deyarli saqlanmaydi, lekin sitoplazma vakuolalarida köp xolesterin efirlari bor va stimuldan keyin tez safarbar qilinadi. Xolesterin asosan plazmadan, qisman hujayraning özida yangidan sintezlanadi.",
       "depth": 0
      },
      {
-      "text": "Sintezlangach membranadan oddiy diffuziya bilan interstitsial suyuqlik va qonga o’tadi.",
+      "text": "Sintezlangaç membranadan oddiy diffuziya bilan interstitsial suyuqlik va qonga ötadi.",
       "depth": 0
      }
     ],
@@ -474,11 +474,11 @@
       "depth": 0
      },
      {
-      "text": "Qalqonsimon bez gormonlari **tiroglobulin** oqsili makromolekulalariga kiritilib, follikulalarda saqlanadi; sekretsiyada tiroglobulindan ajratilib, erkin holda qonga chiqadi. Qonda ko’pi plazma oqsillari, ayniqsa **tiroksin bog’lovchi globulin** bilan birikadi va to’qimalarga sekin beriladi.",
+      "text": "Qalqonsimon bez gormonlari **tiroglobulin** oqsili makromolekulalariga kiritilib, follikulalarda saqlanadi; sekretsiyada tiroglobulindan ajratilib, erkin holda qonga çiqadi. Qonda köpi plazma oqsillari, ayniqsa **tiroksin boğlovçi globulin** bilan birikadi va töqimalarga sekin beriladi.",
       "depth": 0
      },
      {
-      "text": "Buyrak usti mag’iz qavati odatda noradrenalindan ~4 baravar ko’p adrenalin ajratadi. Katexolaminlar tayyor pufakchalarga olinib saqlanadi va ekzotsitoz bilan chiqariladi; plazmada erkin yoki boshqa moddalar bilan konyugatsiyalangan.",
+      "text": "Buyrak usti mağiz qavati odatda noradrenalindan ~4 baravar köp adrenalin ajratadi. Katexolaminlar tayyor pufakçalarga olinib saqlanadi va ekzotsitoz bilan çiqariladi; plazmada erkin yoki boşqa moddalar bilan konyugatsiyalangan.",
       "depth": 0
      }
     ],
@@ -487,7 +487,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Sekretsiya, tashilish va qondan tozalanish",
+    "text": "Sekretsiya, taşiliş va qondan tozalaniş",
     "id": "ch75-s-14-sekretsiya-tashilish-va-qondan-tozalanish",
     "bid": "ch75-u14"
    },
@@ -496,11 +496,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Boshlanish va davomiylik:** noradrenalin, adrenalin stimuldan soniyalarda ajralib, soniya-daqiqalarda to’liq ta’sir qiladi; tiroksin yoki o’sish gormoniga to’liq ta’sir uchun oylar kerak bo’lishi mumkin.",
+      "text": "**Boşlaniş va davomiylik:** noradrenalin, adrenalin stimuldan soniyalarda ajralib, soniya-daqiqalarda töliq ta’sir qiladi; tiroksin yoki ösiş gormoniga töliq ta’sir uçun oylar kerak bölişi mumkin.",
       "depth": 0
      },
      {
-      "text": "**Konsentratsiyalar juda kichik:** qonda 1 pg/ml dan bir necha µg/ml gacha; sekretsiya kuniga µg yoki mg larda. Nishon to’qimalardagi maxsus mexanizmlar shuncha kichik miqdorga ham kuchli ta’sir beradi.",
+      "text": "**Konsentratsiyalar juda kiçik:** qonda 1 pg/ml dan bir neça µg/ml gaça; sekretsiya kuniga µg yoki mg larda. Nişon töqimalardagi maxsus mexanizmlar şunça kiçik miqdorga ham kuçli ta’sir beradi.",
       "depth": 0
      }
     ],
@@ -509,7 +509,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Teskari aloqa bilan boshqarish",
+    "text": "Teskari aloqa bilan boşqariş",
     "id": "ch75-s-16-teskari-aloqa-bilan-boshqarish",
     "bid": "ch75-u16"
    },
@@ -518,15 +518,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Manfiy teskari aloqa** (1-bob) ortiqcha faollikning oldini oladi: gormon ta’siri natijasidagi holat yoki mahsulotlar uning keyingi ajralishini bosadi. Boshqaruv barcha darajalarda bo’lishi mumkin (transkripsiya, translyatsiya, qayta ishlash, chiqarish). Ba’zan boshqariladigan kattalik — gormon sekretsiyasi emas, nishon to’qima faolligi; u yetarli darajaga chiqqandagina teskari signal sekretsiyani sekinlashtiradi.",
+      "text": "**Manfiy teskari aloqa** (1-bob) ortiqça faollikning oldini oladi: gormon ta’siri natijasidagi holat yoki mahsulotlar uning keyingi ajralişini bosadi. Boşqaruv barça darajalarda bölişi mumkin (transkripsiya, translyatsiya, qayta işlaş, çiqariş). Ba’zan boşqariladigan kattalik — gormon sekretsiyasi emas, nişon töqima faolligi; u yetarli darajaga çiqqandagina teskari signal sekretsiyani sekinlaştiradi.",
       "depth": 0
      },
      {
-      "text": "**Musbat teskari aloqa va keskin ko’tarilishlar:** masalan ovulyatsiyadan oldin estrogen oldingi gipofizdan **LG to’lqinini** qo’zg’atadi, LG tuxumdondan ko’proq estrogen ajratadi va h.k.; LG kerakli konsentratsiyaga yetgach manfiy teskari aloqa tiklanadi.",
+      "text": "**Musbat teskari aloqa va keskin kötarilişlar:** masalan ovulyatsiyadan oldin estrogen oldingi gipofizdan **LG tölqinini** qözğatadi, LG tuxumdondan köproq estrogen ajratadi va h.k.; LG kerakli konsentratsiyaga yetgaç manfiy teskari aloqa tiklanadi.",
       "depth": 0
      },
      {
-      "text": "**Siklik o’zgarishlar:** fasl, rivojlanish va qarish bosqichlari, sutkalik ritm va uyquga bog’liq. Masalan, o’sish gormoni uyquning boshida keskin oshadi, keyingi bosqichlarda kamayadi. Ko’pincha nerv yo’llari faolligidagi o’zgarishlar sabab. Qisman sirkadian soatlar boshqaradi: gipotalamusning **suprakiazmatik yadrosi** \"bosh soat\" (59-bob); buyrak usti bezi va oshqozon osti bezi kabi periferik to’qimalarda ham mahalliy soatlar bor. Bu tanaga kun davomidagi o’zgaruvchan yuklamalarni oldindan sezib moslashishga yordam beradi. Ayol jinsiy gormonlarining ~28 kunlik ritmi ko’payish uchun zarur (82-bob).",
+      "text": "**Siklik özgarişlar:** fasl, rivojlaniş va qariş bosqiçlari, sutkalik ritm va uyquga boğliq. Masalan, ösiş gormoni uyquning boşida keskin oşadi, keyingi bosqiçlarda kamayadi. Köpinça nerv yöllari faolligidagi özgarişlar sabab. Qisman sirkadian soatlar boşqaradi: gipotalamusning **suprakiazmatik yadrosi** “boş soat” (59-bob); buyrak usti bezi va oşqozon osti bezi kabi periferik töqimalarda ham mahalliy soatlar bor. Bu tanaga kun davomidagi özgaruvçan yuklamalarni oldindan sezib moslaşişga yordam beradi. Ayol jinsiy gormonlarining ~28 kunlik ritmi köpayiş uçun zarur (82-bob).",
       "depth": 0
      }
     ],
@@ -535,7 +535,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Qonda tashilish",
+    "text": "Qonda taşiliş",
     "id": "ch75-s-18-qonda-tashilish",
     "bid": "ch75-u18"
    },
@@ -544,11 +544,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Suvda eriydiganlar (peptidlar, katexolaminlar) plazmada erigan holda tashiladi, kapillyarlardan interstitsial suyuqlikka diffuziya qiladi.",
+      "text": "Suvda eriydiganlar (peptidlar, katexolaminlar) plazmada erigan holda taşiladi, kapillyarlardan interstitsial suyuqlikka diffuziya qiladi.",
       "depth": 0
      },
      {
-      "text": "Steroid va qalqonsimon bez gormonlari asosan plazma oqsillariga bog’langan; odatda <10% erkin (tiroksinning >99% i bog’langan). Bog’langan gormon kapillyardan oson o’tmaydi va ajralmaguncha biologik nofaol. Bog’langan zaxira erkin gormonni to’ldirib turadi va tozalanishni ancha sekinlashtiradi.",
+      "text": "Steroid va qalqonsimon bez gormonlari asosan plazma oqsillariga boğlangan; odatda <10% erkin (tiroksinning >99% i boğlangan). Boğlangan gormon kapillyardan oson ötmaydi va ajralmagunça biologik nofaol. Boğlangan zaxira erkin gormonni töldirib turadi va tozalanişni ança sekinlaştiradi.",
       "depth": 0
      }
     ],
@@ -557,7 +557,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Gormonlarning qondan \"tozalanishi\"",
+    "text": "Gormonlarning qondan “tozalanişi”",
     "id": "ch75-s-20-gormonlarning-qondan-tozalanishi",
     "bid": "ch75-u20"
    },
@@ -566,23 +566,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "Qondagi konsentratsiya (1) sekretsiya tezligi va (2) chiqarilish tezligi — **metabolik klirens tezligi** (ml plazma/min) bilan belgilanadi.",
+      "text": "Qondagi konsentratsiya (1) sekretsiya tezligi va (2) çiqariliş tezligi — **metabolik klirens tezligi** (ml plazma/min) bilan belgilanadi.",
       "depth": 0
      },
      {
-      "text": "**Metabolik klirens tezligi = gormonning plazmadan yo’qolish tezligi / plazma konsentratsiyasi.** O’lchash: radioaktiv belgilangan gormon plazma konsentratsiyasi barqarorlashguncha doimiy tezlikda infuziya qilinadi; shunda yo’qolish tezligi infuziya tezligiga teng, konsentratsiya radioaktiv sanash bilan o’lchanadi.",
+      "text": "**Metabolik klirens tezligi = gormonning plazmadan yöqoliş tezligi / plazma konsentratsiyasi.** Ölçaş: radioaktiv belgilangan gormon plazma konsentratsiyasi barqarorlaşgunça doimiy tezlikda infuziya qilinadi; şunda yöqoliş tezligi infuziya tezligiga teng, konsentratsiya radioaktiv sanaş bilan ölçanadi.",
       "depth": 0
      },
      {
-      "text": "Tozalanish yo’llari: (1) to’qimalarda metabolik parchalanish; (2) to’qimalar bilan bog’lanish; (3) jigar orqali o’tga; (4) buyrak orqali siydikka. Klirens kamaysa konsentratsiya haddan oshishi mumkin: masalan, steroidlar asosan jigarda konyugatsiyalanib o’tga chiqariladi, shuning uchun jigar kasalligida to’planadi.",
+      "text": "Tozalaniş yöllari: (1) töqimalarda metabolik parçalaniş; (2) töqimalar bilan boğlaniş; (3) jigar orqali ötga; (4) buyrak orqali siydikka. Klirens kamaysa konsentratsiya haddan oşişi mumkin: masalan, steroidlar asosan jigarda konyugatsiyalanib ötga çiqariladi, şuning uçun jigar kasalligida töplanadi.",
       "depth": 0
      },
      {
-      "text": "Ba’zan gormon nishon hujayrada gormon-retseptor kompleksining endotsitozi bilan parchalanadi, retseptorlar odatda membranaga qaytariladi.",
+      "text": "Ba’zan gormon nişon hujayrada gormon-retseptor kompleksining endotsitozi bilan parçalanadi, retseptorlar odatda membranaga qaytariladi.",
       "depth": 0
      },
      {
-      "text": "Peptidlar va katexolaminlar qon va to’qima fermentlari bilan parchalanib, buyrak va jigar orqali tez chiqariladi: angiotensin II yarim yemirilish davri <1 daqiqa. Oqsilga bog’langanlar soatlab yoki kunlab qoladi: buyrak usti steroidlari 20–100 daqiqa, qalqonsimon bez gormonlari 1–6 kun.",
+      "text": "Peptidlar va katexolaminlar qon va töqima fermentlari bilan parçalanib, buyrak va jigar orqali tez çiqariladi: angiotensin II yarim yemiriliş davri <1 daqiqa. Oqsilga boğlanganlar soatlab yoki kunlab qoladi: buyrak usti steroidlari 20–100 daqiqa, qalqonsimon bez gormonlari 1–6 kun.",
       "depth": 0
      }
     ],
@@ -600,7 +600,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Birinchi qadam — nishon hujayradagi o’ziga xos retseptor bilan bog’lanish; retseptorsiz hujayra javob bermaydi. Bog’lanish odatda bosqichma-bosqich kuchayuvchi reaksiyalar kaskadini boshlaydi.",
+      "text": "Birinçi qadam — nişon hujayradagi öziga xos retseptor bilan boğlaniş; retseptorsiz hujayra javob bermaydi. Boğlaniş odatda bosqiçma-bosqiç kuçayuvçi reaksiyalar kaskadini boşlaydi.",
       "depth": 0
      },
      {
@@ -608,11 +608,11 @@
       "depth": 0
      },
      {
-      "text": "Joylashuvi: (1) **membrana ichida/ustida** — oqsil, peptid va katexolamin gormonlari; (2) **sitoplazmada** — steroid gormonlarning asosiy retseptorlari; (3) **yadroda** — qalqonsimon bez gormonlari, ehtimol xromosomalar bilan bevosita bog’liq.",
+      "text": "Joylaşuvi: (1) **membrana içida/ustida** — oqsil, peptid va katexolamin gormonlari; (2) **sitoplazmada** — steroid gormonlarning asosiy retseptorlari; (3) **yadroda** — qalqonsimon bez gormonlari, ehtimol xromosomalar bilan bevosita boğliq.",
       "depth": 0
      },
      {
-      "text": "**Retseptorlar soni va sezgirligi boshqariladi.** Gormon ko’payib bog’lanish oshsa faol retseptorlar soni kamayishi mumkin — **down-regulyatsiya**: (1) retseptor molekulalari inaktivatsiyasi; (2) hujayra ichi signal oqsillari inaktivatsiyasi; (3) retseptorning vaqtincha hujayra ichiga yashirilishi; (4) internalizatsiyadan keyin lizosomalarda yemirilishi; (5) ishlab chiqarilishining kamayishi. Natijada to’qima javobi kamayadi. Ba’zi gormonlar **up-regulyatsiya** qiladi (retseptor yoki signal molekulalari ko’payadi) — to’qima tobora sezgirroq bo’ladi.",
+      "text": "**Retseptorlar soni va sezgirligi boşqariladi.** Gormon köpayib boğlaniş oşsa faol retseptorlar soni kamayişi mumkin — **down-regulyatsiya**: (1) retseptor molekulalari inaktivatsiyasi; (2) hujayra içi signal oqsillari inaktivatsiyasi; (3) retseptorning vaqtinça hujayra içiga yaşirilişi; (4) internalizatsiyadan keyin lizosomalarda yemirilişi; (5) işlab çiqarilişining kamayişi. Natijada töqima javobi kamayadi. Ba’zi gormonlar **up-regulyatsiya** qiladi (retseptor yoki signal molekulalari köpayadi) — töqima tobora sezgirroq böladi.",
       "depth": 0
      }
     ],
@@ -621,7 +621,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Hujayra ichi signalizatsiya",
+    "text": "Hujayra içi signalizatsiya",
     "id": "ch75-s-24-hujayra-ichi-signalizatsiya",
     "bid": "ch75-u24"
    },
@@ -630,23 +630,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Ion kanali bilan bog’liq retseptorlar:** deyarli barcha neyromediatorlar (atsetilxolin, noradrenalin) postsinaptik membranada retseptor tuzilishini o’zgartirib, Na⁺, K⁺, Ca²⁺ va b. kanallarni ochadi/yopadi. Kanallarni o’zgartiruvchi gormonlarning ko’pchiligi buni bilvosita, G-oqsil yoki ferment bilan bog’liq retseptorlar orqali qiladi.",
+      "text": "**Ion kanali bilan boğliq retseptorlar:** deyarli barça neyromediatorlar (atsetilxolin, noradrenalin) postsinaptik membranada retseptor tuzilişini özgartirib, Na⁺, K⁺, Ca²⁺ va b. kanallarni oçadi/yopadi. Kanallarni özgartiruvçi gormonlarning köpçiligi buni bilvosita, G-oqsil yoki ferment bilan boğliq retseptorlar orqali qiladi.",
       "depth": 0
      },
      {
-      "text": "**G-oqsil bilan bog’liq retseptorlar** (75-4-rasm): ma’lum ~1000 tasining hammasida membranani 7 marta kesib o’tuvchi segmentlar bor. Sitoplazmatik qismi (ayniqsa dumi) α, β, γ subbirliklardan iborat geterotrimerik **G-oqsillar** bilan bog’lanadi. Nofaol holatda α subbirlikda GDP bog’langan. Gormon bog’lansa retseptor konformatsiyasi o’zgaradi, G-oqsil GDP ni GTP ga almashtiradi, GTP bog’langan α subbirlik β va γ dan ajralib, boshqa signal oqsillariga ta’sir qiladi: (1) ion kanallarini ochadi/yopadi, (2) sitoplazma fermenti (adenilatsiklaza, fosfolipaza C) faolligini o’zgartiradi yoki (3) gen transkripsiyasini faollashtiradi. Gormon ketgach α subbirlik GTP ni GDP ga aylantirib o’zini nofaollashtiradi va β, γ bilan qayta birikadi (46-bob). **Gs** (stimullovchi) va **Gi** (tormozlovchi) G-oqsillar orqali gormon fermentlarni oshirishi yoki kamaytirishi mumkin.",
+      "text": "**G-oqsil bilan boğliq retseptorlar** (75-4-rasm): ma’lum ~1000 tasining hammasida membranani 7 marta kesib ötuvçi segmentlar bor. Sitoplazmatik qismi (ayniqsa dumi) α, β, γ subbirliklardan iborat geterotrimerik **G-oqsillar** bilan boğlanadi. Nofaol holatda α subbirlikda GDP boğlangan. Gormon boğlansa retseptor konformatsiyasi özgaradi, G-oqsil GDP ni GTP ga almaştiradi, GTP boğlangan α subbirlik β va γ dan ajralib, boşqa signal oqsillariga ta’sir qiladi: (1) ion kanallarini oçadi/yopadi, (2) sitoplazma fermenti (adenilatsiklaza, fosfolipaza C) faolligini özgartiradi yoki (3) gen transkripsiyasini faollaştiradi. Gormon ketgaç α subbirlik GTP ni GDP ga aylantirib özini nofaollaştiradi va β, γ bilan qayta birikadi (46-bob). **Gs** (stimullovçi) va **Gi** (tormozlovçi) G-oqsillar orqali gormon fermentlarni oşirişi yoki kamaytirişi mumkin.",
       "depth": 0
      },
      {
-      "text": "**Ferment bilan bog’liq retseptorlar:** membranadan bir marta o’tadi; tashqarida gormon bog’lovchi, ichkarida katalitik yoki ferment bog’lovchi joy. Ko’pchiligi o’zi ferment, boshqalari yaqin fermentlarga tayanadi. Retseptor tirozin kinazalaridan foydalanuvchilar (75-2-jadval): fibroblast o’sish omili, o’sish gormoni, gepatotsit o’sish omili, insulin, IGF-1, leptin, prolaktin, qon tomir endoteliy o’sish omili.",
+      "text": "**Ferment bilan boğliq retseptorlar:** membranadan bir marta ötadi; taşqarida gormon boğlovçi, içkarida katalitik yoki ferment boğlovçi joy. Köpçiligi özi ferment, boşqalari yaqin fermentlarga tayanadi. Retseptor tirozin kinazalaridan foydalanuvçilar (75-2-jadval): fibroblast ösiş omili, ösiş gormoni, gepatotsit ösiş omili, insulin, IGF-1, leptin, prolaktin, qon tomir endoteliy ösiş omili.",
       "depth": 0
      },
      {
-      "text": "**Leptin retseptori misoli** (75-5-rasm): o’zi ferment faolligiga ega bo’lmagan sitokin retseptorlari oilasidan; dimer shaklida. Leptin bog’lansa, unga bog’langan **JAK2** (janus kinaza) fosforlanib faollashadi, retseptor-JAK2 kompleksidagi boshqa tirozinlarni fosforlaydi. **STAT** (signal o’tkazuvchi va transkripsiya faollashtiruvchi) oqsillar fosforlanib, nishon genlar transkripsiyasini faollashtiradi. JAK2 shuningdek **MAPK** va **PI3K** yo’llarini faollashtiradi. Ba’zi ta’sirlar shu fermentlar orqali tez, boshqalari yangi oqsil sintezi bilan sekin.",
+      "text": "**Leptin retseptori misoli** (75-5-rasm): özi ferment faolligiga ega bölmagan sitokin retseptorlari oilasidan; dimer şaklida. Leptin boğlansa, unga boğlangan **JAK2** (janus kinaza) fosforlanib faollaşadi, retseptor-JAK2 kompleksidagi boşqa tirozinlarni fosforlaydi. **STAT** (signal ötkazuvçi va transkripsiya faollaştiruvçi) oqsillar fosforlanib, nişon genlar transkripsiyasini faollaştiradi. JAK2 şuningdek **MAPK** va **PI3K** yöllarini faollaştiradi. Ba’zi ta’sirlar şu fermentlar orqali tez, boşqalari yangi oqsil sintezi bilan sekin.",
       "depth": 1
      },
      {
-      "text": "**Hujayra ichi retseptorlar va genlar faollashuvi:** buyrak usti va jinsiy steroidlar, qalqonsimon bez gormonlari, retinoidlar va D vitamini lipidda eriydi, membranadan o’tib, sitoplazma yoki yadrodagi retseptorga bog’lanadi. Kompleks DNK dagi o’ziga xos regulyator (promotor) ketma-ketlik — **gormonga javob elementi** bilan bog’lanib, transkripsiya va mRNK hosil bo’lishini faollashtiradi yoki bostiradi (75-6-rasm). Daqiqalar, soatlar yoki kunlardan keyin yangi oqsillar paydo bo’ladi. Ko’p to’qimalarda bir xil retseptor bor, lekin boshqariladigan genlar to’qimaga xos regulyator oqsillar tufayli turlicha.",
+      "text": "**Hujayra içi retseptorlar va genlar faollaşuvi:** buyrak usti va jinsiy steroidlar, qalqonsimon bez gormonlari, retinoidlar va D vitamini lipidda eriydi, membranadan ötib, sitoplazma yoki yadrodagi retseptorga boğlanadi. Kompleks DNK dagi öziga xos regulyator (promotor) ketma-ketlik — **gormonga javob elementi** bilan boğlanib, transkripsiya va mRNK hosil bölişini faollaştiradi yoki bostiradi (75-6-rasm). Daqiqalar, soatlar yoki kunlardan keyin yangi oqsillar paydo böladi. Köp töqimalarda bir xil retseptor bor, lekin boşqariladigan genlar töqimaga xos regulyator oqsillar tufayli turliça.",
       "depth": 0
      }
     ],
@@ -655,13 +655,13 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Ikkilamchi xabarchilar",
+    "text": "Ikkilamçi xabarçilar",
     "id": "ch75-s-26-ikkilamchi-xabarchilar",
     "bid": "ch75-u26"
    },
    {
     "type": "paragraph",
-    "text": "Gormon faqat bitta membrana retseptorini faollashtiradi, qolganini ikkilamchi xabarchi bajaradi. Asosiylari: cAMP; Ca²⁺ va kalmodulin; membrana fosfolipidlari parchalanish mahsulotlari. Bitta gormon bir nechtasini ishlatishi mumkin.",
+    "text": "Gormon faqat bitta membrana retseptorini faollaştiradi, qolganini ikkilamçi xabarçi bajaradi. Asosiylari: cAMP; Ca²⁺ va kalmodulin; membrana fosfolipidlari parçalaniş mahsulotlari. Bitta gormon bir neçtasini işlatişi mumkin.",
     "bid": "ch75-u27"
    },
    {
@@ -674,27 +674,27 @@
     "ordered": false,
     "items": [
      {
-      "text": "Gormon retseptorga bog’lanib, uni **Gs** oqsil bilan bog’laydi; Gs membranadagi **adenilatsiklazani** qo’zg’atadi, u ozgina sitoplazma ATF ni **cAMP** ga aylantiradi. cAMP **cAMP-bog’liq protein kinazani** faollashtiradi, u o’ziga xos oqsillarni fosforlab, hujayra javobini boshlaydi.",
+      "text": "Gormon retseptorga boğlanib, uni **Gs** oqsil bilan boğlaydi; Gs membranadagi **adenilatsiklazani** qözğatadi, u ozgina sitoplazma ATF ni **cAMP** ga aylantiradi. cAMP **cAMP-boğliq protein kinazani** faollaştiradi, u öziga xos oqsillarni fosforlab, hujayra javobini boşlaydi.",
       "depth": 0
      },
      {
-      "text": "cAMP odatda fermentlar **kaskadini** boshlaydi: har bosqichda ko’proq molekula faollashadi, shuning uchun hujayra yuzasidagi juda oz gormon kuchli ta’sir beradi.",
+      "text": "cAMP odatda fermentlar **kaskadini** boşlaydi: har bosqiçda köproq molekula faollaşadi, şuning uçun hujayra yuzasidagi juda oz gormon kuçli ta’sir beradi.",
       "depth": 0
      },
      {
-      "text": "**Gi** oqsil bilan bog’langan bo’lsa adenilatsiklaza tormozlanib, cAMP kamayadi.",
+      "text": "**Gi** oqsil bilan boğlangan bölsa adenilatsiklaza tormozlanib, cAMP kamayadi.",
       "depth": 0
      },
      {
-      "text": "Javob hujayra ichidagi mexanizmga bog’liq: qalqonsimon bez hujayrasida cAMP T4 va T3 hosil qiladi; buyrak usti po’stlog’ida steroid sekretsiyasi; buyrakning distal va yig’uvchi kanalchalari ba’zi epiteliysida suvga o’tkazuvchanlik oshadi.",
+      "text": "Javob hujayra içidagi mexanizmga boğliq: qalqonsimon bez hujayrasida cAMP T4 va T3 hosil qiladi; buyrak usti pöstloğida steroid sekretsiyasi; buyrakning distal va yiğuvçi kanalçalari ba’zi epiteliysida suvga ötkazuvçanlik oşadi.",
       "depth": 0
      },
      {
-      "text": "75-3-jadval: shu tizimdan foydalanuvchilar — AKTG, angiotensin II (epiteliy hujayralari), kalsitonin, katexolaminlar (β retseptorlar), KRG, FSG, glyukagon, xorionik gonadotropin, LG, paratgormon, sekretin, somatostatin, TTG, vazopressin (V2, epiteliy) va boshqalar.",
+      "text": "75-3-jadval: şu tizimdan foydalanuvçilar — AKTG, angiotensin II (epiteliy hujayralari), kalsitonin, katexolaminlar (β retseptorlar), KRG, FSG, glyukagon, xorionik gonadotropin, LG, paratgormon, sekretin, somatostatin, TTG, vazopressin (V2, epiteliy) va boşqalar.",
       "depth": 0
      },
      {
-      "text": "Bo’lmacha natriyuretik peptidi kabi ba’zi peptidlarda xuddi shunday **siklik GMF** ishlatiladi.",
+      "text": "Bölmaça natriyuretik peptidi kabi ba’zi peptidlarda xuddi şunday **siklik GMF** işlatiladi.",
       "depth": 0
      }
     ],
@@ -710,19 +710,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Ba’zi gormonlar retseptorga bog’langan **fosfolipaza C** ni faollashtiradi; u membranadagi **fosfatidilinozitol bifosfat (PIP2)** ni ikki xabarchiga ajratadi: **inozitol trifosfat (IP3)** va **diatsilglitserol (DAG)**.",
+      "text": "Ba’zi gormonlar retseptorga boğlangan **fosfolipaza C** ni faollaştiradi; u membranadagi **fosfatidilinozitol bifosfat (PIP2)** ni ikki xabarçiga ajratadi: **inozitol trifosfat (IP3)** va **diatsilglitserol (DAG)**.",
       "depth": 0
      },
      {
-      "text": "IP3 mitoxondriya va endoplazmatik to’rdan Ca²⁺ chiqaradi; Ca²⁺ o’z ikkilamchi ta’sirlarini beradi (silliq mushak qisqarishi, sekretsiya o’zgarishi).",
+      "text": "IP3 mitoxondriya va endoplazmatik tördan Ca²⁺ çiqaradi; Ca²⁺ öz ikkilamçi ta’sirlarini beradi (silliq muşak qisqarişi, sekretsiya özgarişi).",
       "depth": 0
      },
      {
-      "text": "DAG **protein kinaza C** ni faollashtiradi, u ko’p oqsillarni fosforlaydi. DAG ning lipid qismi — **araxidon kislota** — prostaglandinlar va boshqa mahalliy gormonlar prekursori.",
+      "text": "DAG **protein kinaza C** ni faollaştiradi, u köp oqsillarni fosforlaydi. DAG ning lipid qismi — **araxidon kislota** — prostaglandinlar va boşqa mahalliy gormonlar prekursori.",
       "depth": 0
      },
      {
-      "text": "75-4-jadval: angiotensin II (tomir silliq mushagi), katexolaminlar (α retseptorlar), GnRG, OGRG, paratgormon, oksitotsin, TRG, vazopressin (V1, tomir silliq mushagi).",
+      "text": "75-4-jadval: angiotensin II (tomir silliq muşagi), katexolaminlar (α retseptorlar), GnRG, OGRG, paratgormon, oksitotsin, TRG, vazopressin (V1, tomir silliq muşagi).",
       "depth": 0
      }
     ],
@@ -738,11 +738,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Ca²⁺ hujayraga (1) membrana potensiali o’zgarib kanallar ochilganda yoki (2) gormon kanal ochuvchi retseptorga ta’sir qilganda kiradi. **Kalmodulinning** 4 ta Ca bog’lash joyi bor; 3–4 tasi to’lganda shakli o’zgarib, protein kinazalarni faollashtiradi yoki tormozlaydi. Masalan, miozin yengil zanjir kinazasini faollashtirib silliq mushakni qisqartiradi (8-bob).",
+      "text": "Ca²⁺ hujayraga (1) membrana potensiali özgarib kanallar oçilganda yoki (2) gormon kanal oçuvçi retseptorga ta’sir qilganda kiradi. **Kalmodulinning** 4 ta Ca boğlaş joyi bor; 3–4 tasi tölganda şakli özgarib, protein kinazalarni faollaştiradi yoki tormozlaydi. Masalan, miozin yengil zanjir kinazasini faollaştirib silliq muşakni qisqartiradi (8-bob).",
       "depth": 0
      },
      {
-      "text": "Ko’p hujayralarda normal Ca²⁺ 10⁻⁸–10⁻⁷ mol/L — kalmodulin uchun yetarli emas; 10⁻⁶–10⁻⁵ mol/L ga ko’tarilganda barcha ta’sirlar yuzaga chiqadi. Bu skelet mushagida troponin C ni faollashtirish uchun kerak bo’lgan o’zgarishga deyarli teng (7-bob); troponin C funksiya va tuzilishda kalmodulinga o’xshaydi.",
+      "text": "Köp hujayralarda normal Ca²⁺ 10⁻⁸–10⁻⁷ mol/L — kalmodulin uçun yetarli emas; 10⁻⁶–10⁻⁵ mol/L ga kötarilganda barça ta’sirlar yuzaga çiqadi. Bu skelet muşagida troponin C ni faollaştiriş uçun kerak bölgan özgarişga deyarli teng (7-bob); troponin C funksiya va tuzilişda kalmodulinga öxşaydi.",
       "depth": 0
      }
     ],
@@ -751,13 +751,13 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Asosan genetik mexanizmga ta’sir qiluvchi gormonlar",
+    "text": "Asosan genetik mexanizmga ta’sir qiluvçi gormonlar",
     "id": "ch75-s-34-asosan-genetik-mexanizmga-tasir-qiluvchi-gormonlar",
     "bid": "ch75-u34"
    },
    {
     "type": "paragraph",
-    "text": "**Steroidlar oqsil sintezini oshiradi** (75-6-rasm):",
+    "text": "**Steroidlar oqsil sintezini oşiradi** (75-6-rasm):",
     "bid": "ch75-u35"
    },
    {
@@ -765,23 +765,23 @@
     "ordered": true,
     "items": [
      {
-      "text": "Membranadan diffuziya qilib, sitoplazmadagi o’ziga xos retseptor oqsil bilan bog’lanadi.",
+      "text": "Membranadan diffuziya qilib, sitoplazmadagi öziga xos retseptor oqsil bilan boğlanadi.",
       "depth": 0
      },
      {
-      "text": "Kompleks yadroga diffuziya qiladi yoki tashiladi.",
+      "text": "Kompleks yadroga diffuziya qiladi yoki taşiladi.",
       "depth": 0
      },
      {
-      "text": "Xromosomalardagi DNK ning o’ziga xos nuqtalariga bog’lanib, ma’lum genlar transkripsiyasini va mRNK hosil bo’lishini faollashtiradi.",
+      "text": "Xromosomalardagi DNK ning öziga xos nuqtalariga boğlanib, ma’lum genlar transkripsiyasini va mRNK hosil bölişini faollaştiradi.",
       "depth": 0
      },
      {
-      "text": "mRNK sitoplazmada ribosomalarda yangi oqsillar translyatsiyasini boshlaydi.",
+      "text": "mRNK sitoplazmada ribosomalarda yangi oqsillar translyatsiyasini boşlaydi.",
       "depth": 0
      },
      {
-      "text": "Misol: **aldosteron** buyrak kanalchasi hujayralaridagi **mineralokortikoid retseptor** bilan bog’lanadi; ~45 daqiqadan keyin Na qayta so’rilishi va K sekretsiyasini kuchaytiruvchi oqsillar paydo bo’ladi. Steroidlarning to’liq ta’siri kamida 45 daqiqa, soatlar yoki kunlar kechikadi — vazopressin va noradrenalinning tez ta’siridan farqli.",
+      "text": "Misol: **aldosteron** buyrak kanalçasi hujayralaridagi **mineralokortikoid retseptor** bilan boğlanadi; ~45 daqiqadan keyin Na qayta sörilişi va K sekretsiyasini kuçaytiruvçi oqsillar paydo böladi. Steroidlarning töliq ta’siri kamida 45 daqiqa, soatlar yoki kunlar keçikadi — vazopressin va noradrenalinning tez ta’siridan farqli.",
       "depth": 0
      }
     ],
@@ -789,7 +789,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Qalqonsimon bez gormonlari yadroda gen transkripsiyasini oshiradi**",
+    "text": "**Qalqonsimon bez gormonlari yadroda gen transkripsiyasini oşiradi**",
     "bid": "ch75-u37"
    },
    {
@@ -797,11 +797,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Yadrodagi retseptorlarga bevosita bog’lanadi; bu retseptorlar xromosoma kompleksidagi faollashgan transkripsiya omillari bo’lib, gen promotorlarini boshqaradi (3 va 77-boblar).",
+      "text": "Yadrodagi retseptorlarga bevosita boğlanadi; bu retseptorlar xromosoma kompleksidagi faollaşgan transkripsiya omillari bölib, gen promotorlarini boşqaradi (3 va 77-boblar).",
       "depth": 0
      },
      {
-      "text": "(1) Ehtimol 100 va undan ko’p hujayra ichi oqsillarini, ko’pi deyarli barcha hujayralarda metabolik faollikni oshiruvchi fermentlarni sintezlash mexanizmini faollashtiradi; (2) yadro retseptorlariga bog’langach kunlab, hatto haftalab ta’sir qilishi mumkin.",
+      "text": "(1) Ehtimol 100 va undan köp hujayra içi oqsillarini, köpi deyarli barça hujayralarda metabolik faollikni oşiruvçi fermentlarni sintezlaş mexanizmini faollaştiradi; (2) yadro retseptorlariga boğlangaç kunlab, hatto haftalab ta’sir qilişi mumkin.",
       "depth": 0
      }
     ],
@@ -810,7 +810,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Qonda gormon konsentratsiyasini o’lchash",
+    "text": "Qonda gormon konsentratsiyasini ölçaş",
     "id": "ch75-s-39-qonda-gormon-konsentratsiyasini-olchash",
     "bid": "ch75-u39"
    },
@@ -819,7 +819,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Ko’p gormonlar juda oz (ba’zilari 1 pg/ml); oddiy kimyoviy usullar bilan o’lchash qiyin.",
+      "text": "Köp gormonlar juda oz (ba’zilari 1 pg/ml); oddiy kimyoviy usullar bilan ölçaş qiyin.",
       "depth": 0
      },
      {
@@ -831,19 +831,19 @@
       "depth": 1
      },
      {
-      "text": "Oz antitelo (a) tekshiriladigan suyuqlik va (b) radioaktiv belgilangan standart gormon bilan aralashtiriladi. Shart: antitelo ikkala gormonni to’liq bog’lash uchun yetarli bo’lmasligi kerak — ular raqobatlashadi va har birining bog’langan miqdori konsentratsiyasiga mutanosib.",
+      "text": "Oz antitelo (a) tekşiriladigan suyuqlik va (b) radioaktiv belgilangan standart gormon bilan aralaştiriladi. Şart: antitelo ikkala gormonni töliq boğlaş uçun yetarli bölmasligi kerak — ular raqobatlaşadi va har birining boğlangan miqdori konsentratsiyasiga mutanosib.",
       "depth": 1
      },
      {
-      "text": "Muvozanatdan keyin antitelo-gormon kompleksi ajratiladi va undagi radioaktivlik o’lchanadi. Radioaktiv gormon ko’p bog’lansa — tabiiy gormon kam; oz bog’lansa — ko’p.",
+      "text": "Muvozanatdan keyin antitelo-gormon kompleksi ajratiladi va undagi radioaktivlik ölçanadi. Radioaktiv gormon köp boğlansa — tabiiy gormon kam; oz boğlansa — köp.",
       "depth": 1
      },
      {
-      "text": "Belgilanmagan gormonning bir necha standart konsentratsiyasi bilan **standart egri** chiziladi (75-9-rasm, aldosteron); noma’lum namuna 10–15% xato bilan aniqlanadi. Grammning milliarddan, hatto trilliondan bir qismini o’lchash mumkin.",
+      "text": "Belgilanmagan gormonning bir neça standart konsentratsiyasi bilan **standart egri** çiziladi (75-9-rasm, aldosteron); noma’lum namuna 10–15% xato bilan aniqlanadi. Grammning milliarddan, hatto trilliondan bir qismini ölçaş mumkin.",
       "depth": 1
      },
      {
-      "text": "**Fermentga bog’langan immunosorbent tahlil (ELISA)** (75-10-rasm): ko’pincha 96 chuqurchali plastik plastinkalarda. Har bir chuqurcha gormonga xos antitelo (AB1) bilan qoplangan; namuna yoki standart qo’shiladi, so’ng gormonning boshqa joyiga bog’lanadigan ikkinchi antitelo (AB2), keyin AB2 ni taniydigan va fermentga bog’langan uchinchi antitelo (AB3). Ferment substratni rangli yoki fluoressent mahsulotga aylantiradi; har bir ferment molekulasi minglab mahsulot molekulasini hosil qilgani uchun oz gormon ham aniqlanadi. Raqobatli radioimmun tahlildan farqli ravishda antitelolar ortiqcha, barcha gormon molekulalari ushlanadi va mahsulot miqdori gormon miqdoriga mutanosib. Afzalliklari: radioaktiv izotop yo’q, 96 chuqurchada avtomatlashtirish mumkin, arzon va aniq.",
+      "text": "**Fermentga boğlangan immunosorbent tahlil (ELISA)** (75-10-rasm): köpinça 96 çuqurçali plastik plastinkalarda. Har bir çuqurça gormonga xos antitelo (AB1) bilan qoplangan; namuna yoki standart qöşiladi, söng gormonning boşqa joyiga boğlanadigan ikkinçi antitelo (AB2), keyin AB2 ni taniydigan va fermentga boğlangan uçinçi antitelo (AB3). Ferment substratni rangli yoki fluoressent mahsulotga aylantiradi; har bir ferment molekulasi minglab mahsulot molekulasini hosil qilgani uçun oz gormon ham aniqlanadi. Raqobatli radioimmun tahlildan farqli ravişda antitelolar ortiqça, barça gormon molekulalari uşlanadi va mahsulot miqdori gormon miqdoriga mutanosib. Afzalliklari: radioaktiv izotop yöq, 96 çuqurçada avtomatlaştiriş mumkin, arzon va aniq.",
       "depth": 0
      }
     ],
@@ -861,19 +861,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Jigar kasalligida steroid gormonlar klirensi kamayib to’planadi.",
+      "text": "Jigar kasalligida steroid gormonlar klirensi kamayib töplanadi.",
       "depth": 0
      },
      {
-      "text": "Retseptor down-/up-regulyatsiyasi gormonga sezgirlikni o’zgartiradi.",
+      "text": "Retseptor down-/up-regulyatsiyasi gormonga sezgirlikni özgartiradi.",
       "depth": 0
      },
      {
-      "text": "Steroid gormon ta’sirining kechikishi (aldosteron ~45 daqiqa) va qalqonsimon bez gormonlarining uzoq ta’siri.",
+      "text": "Steroid gormon ta’sirining keçikişi (aldosteron ~45 daqiqa) va qalqonsimon bez gormonlarining uzoq ta’siri.",
       "depth": 0
      },
      {
-      "text": "Gormonlarni o’lchash: radioimmun tahlil va ELISA.",
+      "text": "Gormonlarni ölçaş: radioimmun tahlil va ELISA.",
       "depth": 0
      }
     ],
@@ -882,7 +882,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Bog’liqlik",
+    "text": "Boğliqlik",
     "id": "ch75-s-43-bogliqlik",
     "bid": "ch75-u43"
    },
@@ -891,7 +891,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "1-bob (teskari aloqa), 3-bob (gen transkripsiyasi), 7–8-boblar (troponin C, kalmodulin), 22, 26, 65, 72-boblar (yurak, buyrak, ichak va yog' gormonlari), 35-bob (sitokinlar), 46-bob (G-oqsillar), 59-bob (suprakiazmatik yadro), 61-bob (buyrak usti mag’zi), 76–83-boblar (alohida endokrin bezlar).",
+      "text": "1-bob (teskari aloqa), 3-bob (gen transkripsiyasi), 7–8-boblar (troponin C, kalmodulin), 22, 26, 65, 72-boblar (yurak, buyrak, içak va yoğ gormonlari), 35-bob (sitokinlar), 46-bob (G-oqsillar), 59-bob (suprakiazmatik yadro), 61-bob (buyrak usti mağzi), 76–83-boblar (alohida endokrin bezlar).",
       "depth": 0
      }
     ],
@@ -1570,7 +1570,7 @@
    "id": "ch75-t-neyromediatorlar",
    "termUz": "Neyromediatorlar",
    "original": null,
-   "contextUz": "Neyromediatorlar — akson uchlaridan sinapsga, mahalliy nerv hujayrasi funksiyasini boshqaradi.",
+   "contextUz": "Neyromediatorlar — akson uçlaridan sinapsga, mahalliy nerv hujayrasi funksiyasini boşqaradi.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1580,7 +1580,7 @@
    "id": "ch75-t-endokrin-gormonlar",
    "termUz": "Endokrin gormonlar",
    "original": null,
-   "contextUz": "Endokrin gormonlar — bez yoki maxsus hujayralardan qonga, uzoqdagi nishon hujayralarga ta’sir qiladi.",
+   "contextUz": "Endokrin gormonlar — bez yoki maxsus hujayralardan qonga, uzoqdagi nişon hujayralarga ta’sir qiladi.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1600,7 +1600,7 @@
    "id": "ch75-t-parakrinlar",
    "termUz": "Parakrinlar",
    "original": null,
-   "contextUz": "Parakrinlar — hujayradan tashqari suyuqlikka, boshqa turdagi qo’shni hujayralarga ta’sir qiladi.",
+   "contextUz": "Parakrinlar — hujayradan taşqari suyuqlikka, boşqa turdagi qöşni hujayralarga ta’sir qiladi.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1610,7 +1610,7 @@
    "id": "ch75-t-autokrinlar",
    "termUz": "Autokrinlar",
    "original": null,
-   "contextUz": "Autokrinlar — ularni ishlab chiqargan hujayraning o’ziga ta’sir qiladi.",
+   "contextUz": "Autokrinlar — ularni işlab çiqargan hujayraning öziga ta’sir qiladi.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1620,7 +1620,7 @@
    "id": "ch75-t-sitokinlar",
    "termUz": "Sitokinlar",
    "original": null,
-   "contextUz": "Sitokinlar — peptidlar; autokrin, parakrin yoki endokrin bo’lishi mumkin (interleykinlar va boshqa limfokinlar, 35-bob).",
+   "contextUz": "Sitokinlar — peptidlar; autokrin, parakrin yoki endokrin bölişi mumkin (interleykinlar va boşqa limfokinlar, 35-bob).",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1630,7 +1630,7 @@
    "id": "ch75-t-adipokinlar",
    "termUz": "adipokinlar",
    "original": null,
-   "contextUz": "Adipotsitlardan chiqadiganlari (masalan leptin) adipokinlar deyiladi.",
+   "contextUz": "Adipotsitlardan çiqadiganlari (masalan leptin) adipokinlar deyiladi.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1640,7 +1640,7 @@
    "id": "ch75-t-orqa-gipofiz",
    "termUz": "Orqa gipofiz",
    "original": null,
-   "contextUz": "Orqa gipofiz: ADG (vazopressin — buyrakda suv qayta so’rilishi, vazokonstriksiya, bosim oshishi); oksitotsin (sut chiqishi, bachadon qisqarishi).",
+   "contextUz": "Orqa gipofiz: ADG (vazopressin — buyrakda suv qayta sörilişi, vazokonstriksiya, bosim oşişi); oksitotsin (sut çiqişi, baçadon qisqarişi).",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1650,7 +1650,7 @@
    "id": "ch75-t-oqsil-va-polipeptidlar",
    "termUz": "oqsil va polipeptidlar",
    "original": "oldingi va orqa gipofiz, insulin, glyukagon, paratgormon va b.",
-   "contextUz": "Uch sinf: (1) oqsil va polipeptidlar (oldingi va orqa gipofiz, insulin, glyukagon, paratgormon va b.); (2) steroidlar (kortizol, aldosteron, estrogen, progesteron, testosteron; yo’ldosh estrogeni va progesteroni); (3) tirozin hosilalari (T4, T3; adrenalin, noradrenalin).",
+   "contextUz": "Uç sinf: (1) oqsil va polipeptidlar (oldingi va orqa gipofiz, insulin, glyukagon, paratgormon va b.); (2) steroidlar (kortizol, aldosteron, estrogen, progesteron, testosteron; yöldoş estrogeni va progesteroni); (3) tirozin hosilalari (T4, T3; adrenalin, noradrenalin).",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1660,7 +1660,7 @@
    "id": "ch75-t-steroidlar",
    "termUz": "steroidlar",
    "original": null,
-   "contextUz": "); (2) steroidlar (kortizol, aldosteron, estrogen, progesteron, testosteron; yo’ldosh estrogeni va progesteroni); (3) tirozin hosilalari (T4, T3; adrenalin, noradrenalin).",
+   "contextUz": "); (2) steroidlar (kortizol, aldosteron, estrogen, progesteron, testosteron; yöldoş estrogeni va progesteroni); (3) tirozin hosilalari (T4, T3; adrenalin, noradrenalin).",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1670,7 +1670,7 @@
    "id": "ch75-t-tirozin-hosilalari",
    "termUz": "tirozin hosilalari",
    "original": "T4, T3; adrenalin, noradrenalin",
-   "contextUz": "); (2) steroidlar (kortizol, aldosteron, estrogen, progesteron, testosteron; yo’ldosh estrogeni va progesteroni); (3) tirozin hosilalari (T4, T3; adrenalin, noradrenalin).",
+   "contextUz": "); (2) steroidlar (kortizol, aldosteron, estrogen, progesteron, testosteron; yöldoş estrogeni va progesteroni); (3) tirozin hosilalari (T4, T3; adrenalin, noradrenalin).",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1678,9 +1678,9 @@
   },
   {
    "id": "ch75-t-peptid-va-oqsil-gormonlar-sekretor-pufakchalarda-saqlanadi",
-   "termUz": "Peptid va oqsil gormonlar — sekretor pufakchalarda saqlanadi",
+   "termUz": "Peptid va oqsil gormonlar — sekretor pufakçalarda saqlanadi",
    "original": null,
-   "contextUz": "Peptid va oqsil gormonlar — sekretor pufakchalarda saqlanadi",
+   "contextUz": "Peptid va oqsil gormonlar — sekretor pufakçalarda saqlanadi",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1690,7 +1690,7 @@
    "id": "ch75-t-preprogormon",
    "termUz": "preprogormon",
    "original": null,
-   "contextUz": "Donador endoplazmatik to’rda sintezlanadi (75-2-rasm): avval biologik nofaol katta preprogormon, EPR da kichikroq progormonga kesiladi, Golji apparatida sekretor pufakchalarga joylanadi; pufakchalardagi fermentlar uni faol gormon va nofaol bo’laklarga ajratadi.",
+   "contextUz": "Donador endoplazmatik törda sintezlanadi (75-2-rasm): avval biologik nofaol katta preprogormon, EPR da kiçikroq progormonga kesiladi, Golji apparatida sekretor pufakçalarga joylanadi; pufakçalardagi fermentlar uni faol gormon va nofaol bölaklarga ajratadi.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1700,7 +1700,7 @@
    "id": "ch75-t-progormonga",
    "termUz": "progormonga",
    "original": null,
-   "contextUz": "Donador endoplazmatik to’rda sintezlanadi (75-2-rasm): avval biologik nofaol katta preprogormon, EPR da kichikroq progormonga kesiladi, Golji apparatida sekretor pufakchalarga joylanadi; pufakchalardagi fermentlar uni faol gormon va nofaol bo’laklarga ajratadi.",
+   "contextUz": "Donador endoplazmatik törda sintezlanadi (75-2-rasm): avval biologik nofaol katta preprogormon, EPR da kiçikroq progormonga kesiladi, Golji apparatida sekretor pufakçalarga joylanadi; pufakçalardagi fermentlar uni faol gormon va nofaol bölaklarga ajratadi.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1710,7 +1710,7 @@
    "id": "ch75-t-ekzotsitoz",
    "termUz": "ekzotsitoz",
    "original": null,
-   "contextUz": "Sekretsiya ekzotsitoz orqali (gormon va nofaol bo’laklar interstitsial suyuqlik yoki to’g’ridan-to’g’ri qonga).",
+   "contextUz": "Sekretsiya ekzotsitoz orqali (gormon va nofaol bölaklar interstitsial suyuqlik yoki töğridan-töğri qonga).",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1740,7 +1740,7 @@
    "id": "ch75-t-tiroglobulin",
    "termUz": "tiroglobulin",
    "original": null,
-   "contextUz": "Qalqonsimon bez gormonlari tiroglobulin oqsili makromolekulalariga kiritilib, follikulalarda saqlanadi; sekretsiyada tiroglobulindan ajratilib, erkin holda qonga chiqadi.",
+   "contextUz": "Qalqonsimon bez gormonlari tiroglobulin oqsili makromolekulalariga kiritilib, follikulalarda saqlanadi; sekretsiyada tiroglobulindan ajratilib, erkin holda qonga çiqadi.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1748,9 +1748,9 @@
   },
   {
    "id": "ch75-t-tiroksin-boglovchi-globulin",
-   "termUz": "tiroksin bog’lovchi globulin",
+   "termUz": "tiroksin boğlovçi globulin",
    "original": null,
-   "contextUz": "Qonda ko’pi plazma oqsillari, ayniqsa tiroksin bog’lovchi globulin bilan birikadi va to’qimalarga sekin beriladi.",
+   "contextUz": "Qonda köpi plazma oqsillari, ayniqsa tiroksin boğlovçi globulin bilan birikadi va töqimalarga sekin beriladi.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1758,9 +1758,9 @@
   },
   {
    "id": "ch75-t-boshlanish-va-davomiylik",
-   "termUz": "Boshlanish va davomiylik",
+   "termUz": "Boşlaniş va davomiylik",
    "original": null,
-   "contextUz": "Boshlanish va davomiylik: noradrenalin, adrenalin stimuldan soniyalarda ajralib, soniya-daqiqalarda to’liq ta’sir qiladi; tiroksin yoki o’sish gormoniga to’liq ta’sir uchun oylar kerak bo’lishi mumkin.",
+   "contextUz": "Boşlaniş va davomiylik: noradrenalin, adrenalin stimuldan soniyalarda ajralib, soniya-daqiqalarda töliq ta’sir qiladi; tiroksin yoki ösiş gormoniga töliq ta’sir uçun oylar kerak bölişi mumkin.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1768,9 +1768,9 @@
   },
   {
    "id": "ch75-t-konsentratsiyalar-juda-kichik",
-   "termUz": "Konsentratsiyalar juda kichik",
+   "termUz": "Konsentratsiyalar juda kiçik",
    "original": null,
-   "contextUz": "Konsentratsiyalar juda kichik: qonda 1 pg/ml dan bir necha µg/ml gacha; sekretsiya kuniga µg yoki mg larda.",
+   "contextUz": "Konsentratsiyalar juda kiçik: qonda 1 pg/ml dan bir neça µg/ml gaça; sekretsiya kuniga µg yoki mg larda.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1780,7 +1780,7 @@
    "id": "ch75-t-manfiy-teskari-aloqa",
    "termUz": "Manfiy teskari aloqa",
    "original": "1-bob",
-   "contextUz": "Manfiy teskari aloqa (1-bob) ortiqcha faollikning oldini oladi: gormon ta’siri natijasidagi holat yoki mahsulotlar uning keyingi ajralishini bosadi.",
+   "contextUz": "Manfiy teskari aloqa (1-bob) ortiqça faollikning oldini oladi: gormon ta’siri natijasidagi holat yoki mahsulotlar uning keyingi ajralişini bosadi.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1788,9 +1788,9 @@
   },
   {
    "id": "ch75-t-musbat-teskari-aloqa-va-keskin-kotarilishlar",
-   "termUz": "Musbat teskari aloqa va keskin ko’tarilishlar",
+   "termUz": "Musbat teskari aloqa va keskin kötarilişlar",
    "original": null,
-   "contextUz": "Musbat teskari aloqa va keskin ko’tarilishlar: masalan ovulyatsiyadan oldin estrogen oldingi gipofizdan LG to’lqinini qo’zg’atadi, LG tuxumdondan ko’proq estrogen ajratadi va h.",
+   "contextUz": "Musbat teskari aloqa va keskin kötarilişlar: masalan ovulyatsiyadan oldin estrogen oldingi gipofizdan LG tölqinini qözğatadi, LG tuxumdondan köproq estrogen ajratadi va h.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1798,9 +1798,9 @@
   },
   {
    "id": "ch75-t-lg-tolqinini",
-   "termUz": "LG to’lqinini",
+   "termUz": "LG tölqinini",
    "original": null,
-   "contextUz": "Musbat teskari aloqa va keskin ko’tarilishlar: masalan ovulyatsiyadan oldin estrogen oldingi gipofizdan LG to’lqinini qo’zg’atadi, LG tuxumdondan ko’proq estrogen ajratadi va h.",
+   "contextUz": "Musbat teskari aloqa va keskin kötarilişlar: masalan ovulyatsiyadan oldin estrogen oldingi gipofizdan LG tölqinini qözğatadi, LG tuxumdondan köproq estrogen ajratadi va h.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1808,9 +1808,9 @@
   },
   {
    "id": "ch75-t-siklik-ozgarishlar",
-   "termUz": "Siklik o’zgarishlar",
+   "termUz": "Siklik özgarişlar",
    "original": null,
-   "contextUz": "Siklik o’zgarishlar: fasl, rivojlanish va qarish bosqichlari, sutkalik ritm va uyquga bog’liq.",
+   "contextUz": "Siklik özgarişlar: fasl, rivojlaniş va qariş bosqiçlari, sutkalik ritm va uyquga boğliq.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1820,7 +1820,7 @@
    "id": "ch75-t-suprakiazmatik-yadrosi",
    "termUz": "suprakiazmatik yadrosi",
    "original": null,
-   "contextUz": "Qisman sirkadian soatlar boshqaradi: gipotalamusning suprakiazmatik yadrosi \"bosh soat\" (59-bob); buyrak usti bezi va oshqozon osti bezi kabi periferik to’qimalarda ham mahalliy soatlar bor.",
+   "contextUz": "Qisman sirkadian soatlar boşqaradi: gipotalamusning suprakiazmatik yadrosi “boş soat” (59-bob); buyrak usti bezi va oşqozon osti bezi kabi periferik töqimalarda ham mahalliy soatlar bor.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1830,7 +1830,7 @@
    "id": "ch75-t-metabolik-klirens-tezligi",
    "termUz": "metabolik klirens tezligi",
    "original": "ml plazma/min",
-   "contextUz": "Qondagi konsentratsiya (1) sekretsiya tezligi va (2) chiqarilish tezligi — metabolik klirens tezligi (ml plazma/min) bilan belgilanadi.",
+   "contextUz": "Qondagi konsentratsiya (1) sekretsiya tezligi va (2) çiqariliş tezligi — metabolik klirens tezligi (ml plazma/min) bilan belgilanadi.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1838,9 +1838,9 @@
   },
   {
    "id": "ch75-t-membrana-ichida-ustida",
-   "termUz": "membrana ichida/ustida",
+   "termUz": "membrana içida/ustida",
    "original": null,
-   "contextUz": "Joylashuvi: (1) membrana ichida/ustida — oqsil, peptid va katexolamin gormonlari; (2) sitoplazmada — steroid gormonlarning asosiy retseptorlari; (3) yadroda — qalqonsimon bez gormonlari, ehtimol xromosomalar bilan bevosita bog’liq.",
+   "contextUz": "Joylaşuvi: (1) membrana içida/ustida — oqsil, peptid va katexolamin gormonlari; (2) sitoplazmada — steroid gormonlarning asosiy retseptorlari; (3) yadroda — qalqonsimon bez gormonlari, ehtimol xromosomalar bilan bevosita boğliq.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1850,7 +1850,7 @@
    "id": "ch75-t-sitoplazmada",
    "termUz": "sitoplazmada",
    "original": null,
-   "contextUz": "Joylashuvi: (1) membrana ichida/ustida — oqsil, peptid va katexolamin gormonlari; (2) sitoplazmada — steroid gormonlarning asosiy retseptorlari; (3) yadroda — qalqonsimon bez gormonlari, ehtimol xromosomalar bilan bevosita bog’liq.",
+   "contextUz": "Joylaşuvi: (1) membrana içida/ustida — oqsil, peptid va katexolamin gormonlari; (2) sitoplazmada — steroid gormonlarning asosiy retseptorlari; (3) yadroda — qalqonsimon bez gormonlari, ehtimol xromosomalar bilan bevosita boğliq.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1860,7 +1860,7 @@
    "id": "ch75-t-yadroda",
    "termUz": "yadroda",
    "original": null,
-   "contextUz": "Joylashuvi: (1) membrana ichida/ustida — oqsil, peptid va katexolamin gormonlari; (2) sitoplazmada — steroid gormonlarning asosiy retseptorlari; (3) yadroda — qalqonsimon bez gormonlari, ehtimol xromosomalar bilan bevosita bog’liq.",
+   "contextUz": "Joylaşuvi: (1) membrana içida/ustida — oqsil, peptid va katexolamin gormonlari; (2) sitoplazmada — steroid gormonlarning asosiy retseptorlari; (3) yadroda — qalqonsimon bez gormonlari, ehtimol xromosomalar bilan bevosita boğliq.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1868,9 +1868,9 @@
   },
   {
    "id": "ch75-t-retseptorlar-soni-va-sezgirligi-boshqariladi",
-   "termUz": "Retseptorlar soni va sezgirligi boshqariladi.",
+   "termUz": "Retseptorlar soni va sezgirligi boşqariladi.",
    "original": null,
-   "contextUz": "Retseptorlar soni va sezgirligi boshqariladi. Gormon ko’payib bog’lanish oshsa faol retseptorlar soni kamayishi mumkin — down-regulyatsiya: (1) retseptor molekulalari inaktivatsiyasi; (2) hujayra ichi signal oqsillari inaktivatsiyasi; (3) retseptorning vaqtincha hujayra ichiga yashirilishi; (4) internalizatsiyadan keyin lizosomalarda yemirilishi; (5) ishlab chiqarilishining kamayishi.",
+   "contextUz": "Retseptorlar soni va sezgirligi boşqariladi. Gormon köpayib boğlaniş oşsa faol retseptorlar soni kamayişi mumkin — down-regulyatsiya: (1) retseptor molekulalari inaktivatsiyasi; (2) hujayra içi signal oqsillari inaktivatsiyasi; (3) retseptorning vaqtinça hujayra içiga yaşirilişi; (4) internalizatsiyadan keyin lizosomalarda yemirilişi; (5) işlab çiqarilişining kamayişi.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1880,7 +1880,7 @@
    "id": "ch75-t-down-regulyatsiya",
    "termUz": "down-regulyatsiya",
    "original": null,
-   "contextUz": " Gormon ko’payib bog’lanish oshsa faol retseptorlar soni kamayishi mumkin — down-regulyatsiya: (1) retseptor molekulalari inaktivatsiyasi; (2) hujayra ichi signal oqsillari inaktivatsiyasi; (3) retseptorning vaqtincha hujayra ichiga yashirilishi; (4) internalizatsiyadan keyin lizosomalarda yemirilishi; (5) ishlab chiqarilishining kamayishi.",
+   "contextUz": " Gormon köpayib boğlaniş oşsa faol retseptorlar soni kamayişi mumkin — down-regulyatsiya: (1) retseptor molekulalari inaktivatsiyasi; (2) hujayra içi signal oqsillari inaktivatsiyasi; (3) retseptorning vaqtinça hujayra içiga yaşirilişi; (4) internalizatsiyadan keyin lizosomalarda yemirilişi; (5) işlab çiqarilişining kamayişi.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1890,7 +1890,7 @@
    "id": "ch75-t-up-regulyatsiya",
    "termUz": "up-regulyatsiya",
    "original": null,
-   "contextUz": "Ba’zi gormonlar up-regulyatsiya qiladi (retseptor yoki signal molekulalari ko’payadi) — to’qima tobora sezgirroq bo’ladi.",
+   "contextUz": "Ba’zi gormonlar up-regulyatsiya qiladi (retseptor yoki signal molekulalari köpayadi) — töqima tobora sezgirroq böladi.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1898,9 +1898,9 @@
   },
   {
    "id": "ch75-t-ion-kanali-bilan-bogliq-retseptorlar",
-   "termUz": "Ion kanali bilan bog’liq retseptorlar",
+   "termUz": "Ion kanali bilan boğliq retseptorlar",
    "original": null,
-   "contextUz": "Ion kanali bilan bog’liq retseptorlar: deyarli barcha neyromediatorlar (atsetilxolin, noradrenalin) postsinaptik membranada retseptor tuzilishini o’zgartirib, Na⁺, K⁺, Ca²⁺ va b.",
+   "contextUz": "Ion kanali bilan boğliq retseptorlar: deyarli barça neyromediatorlar (atsetilxolin, noradrenalin) postsinaptik membranada retseptor tuzilişini özgartirib, Na⁺, K⁺, Ca²⁺ va b.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1908,9 +1908,9 @@
   },
   {
    "id": "ch75-t-g-oqsil-bilan-bogliq-retseptorlar",
-   "termUz": "G-oqsil bilan bog’liq retseptorlar",
+   "termUz": "G-oqsil bilan boğliq retseptorlar",
    "original": "75-4-rasm",
-   "contextUz": "G-oqsil bilan bog’liq retseptorlar (75-4-rasm): ma’lum ~1000 tasining hammasida membranani 7 marta kesib o’tuvchi segmentlar bor.",
+   "contextUz": "G-oqsil bilan boğliq retseptorlar (75-4-rasm): ma’lum ~1000 tasining hammasida membranani 7 marta kesib ötuvçi segmentlar bor.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1920,7 +1920,7 @@
    "id": "ch75-t-g-oqsillar",
    "termUz": "G-oqsillar",
    "original": null,
-   "contextUz": "Sitoplazmatik qismi (ayniqsa dumi) α, β, γ subbirliklardan iborat geterotrimerik G-oqsillar bilan bog’lanadi.",
+   "contextUz": "Sitoplazmatik qismi (ayniqsa dumi) α, β, γ subbirliklardan iborat geterotrimerik G-oqsillar bilan boğlanadi.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1930,7 +1930,7 @@
    "id": "ch75-t-gs",
    "termUz": "Gs",
    "original": "stimullovchi",
-   "contextUz": "Gs (stimullovchi) va Gi (tormozlovchi) G-oqsillar orqali gormon fermentlarni oshirishi yoki kamaytirishi mumkin.",
+   "contextUz": "Gs (stimullovçi) va Gi (tormozlovçi) G-oqsillar orqali gormon fermentlarni oşirişi yoki kamaytirişi mumkin.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1940,7 +1940,7 @@
    "id": "ch75-t-gi",
    "termUz": "Gi",
    "original": "tormozlovchi",
-   "contextUz": "Gs (stimullovchi) va Gi (tormozlovchi) G-oqsillar orqali gormon fermentlarni oshirishi yoki kamaytirishi mumkin.",
+   "contextUz": "Gs (stimullovçi) va Gi (tormozlovçi) G-oqsillar orqali gormon fermentlarni oşirişi yoki kamaytirişi mumkin.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1948,9 +1948,9 @@
   },
   {
    "id": "ch75-t-ferment-bilan-bogliq-retseptorlar",
-   "termUz": "Ferment bilan bog’liq retseptorlar",
+   "termUz": "Ferment bilan boğliq retseptorlar",
    "original": null,
-   "contextUz": "Ferment bilan bog’liq retseptorlar: membranadan bir marta o’tadi; tashqarida gormon bog’lovchi, ichkarida katalitik yoki ferment bog’lovchi joy.",
+   "contextUz": "Ferment bilan boğliq retseptorlar: membranadan bir marta ötadi; taşqarida gormon boğlovçi, içkarida katalitik yoki ferment boğlovçi joy.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1960,7 +1960,7 @@
    "id": "ch75-t-leptin-retseptori-misoli",
    "termUz": "Leptin retseptori misoli",
    "original": "75-5-rasm",
-   "contextUz": "Leptin retseptori misoli (75-5-rasm): o’zi ferment faolligiga ega bo’lmagan sitokin retseptorlari oilasidan; dimer shaklida.",
+   "contextUz": "Leptin retseptori misoli (75-5-rasm): özi ferment faolligiga ega bölmagan sitokin retseptorlari oilasidan; dimer şaklida.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1970,7 +1970,7 @@
    "id": "ch75-t-jak2",
    "termUz": "JAK2",
    "original": "janus kinaza",
-   "contextUz": "Leptin bog’lansa, unga bog’langan JAK2 (janus kinaza) fosforlanib faollashadi, retseptor-JAK2 kompleksidagi boshqa tirozinlarni fosforlaydi.",
+   "contextUz": "Leptin boğlansa, unga boğlangan JAK2 (janus kinaza) fosforlanib faollaşadi, retseptor-JAK2 kompleksidagi boşqa tirozinlarni fosforlaydi.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1979,8 +1979,8 @@
   {
    "id": "ch75-t-stat",
    "termUz": "STAT",
-   "original": "signal o’tkazuvchi va transkripsiya faollashtiruvchi",
-   "contextUz": "STAT (signal o’tkazuvchi va transkripsiya faollashtiruvchi) oqsillar fosforlanib, nishon genlar transkripsiyasini faollashtiradi.",
+   "original": "signal o‘tkazuvchi va transkripsiya faollashtiruvchi",
+   "contextUz": "STAT (signal ötkazuvçi va transkripsiya faollaştiruvçi) oqsillar fosforlanib, nişon genlar transkripsiyasini faollaştiradi.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -1990,7 +1990,7 @@
    "id": "ch75-t-mapk",
    "termUz": "MAPK",
    "original": null,
-   "contextUz": "JAK2 shuningdek MAPK va PI3K yo’llarini faollashtiradi.",
+   "contextUz": "JAK2 şuningdek MAPK va PI3K yöllarini faollaştiradi.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -2000,7 +2000,7 @@
    "id": "ch75-t-pi3k",
    "termUz": "PI3K",
    "original": null,
-   "contextUz": "JAK2 shuningdek MAPK va PI3K yo’llarini faollashtiradi.",
+   "contextUz": "JAK2 şuningdek MAPK va PI3K yöllarini faollaştiradi.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -2008,9 +2008,9 @@
   },
   {
    "id": "ch75-t-hujayra-ichi-retseptorlar-va-genlar-faollashuvi",
-   "termUz": "Hujayra ichi retseptorlar va genlar faollashuvi",
+   "termUz": "Hujayra içi retseptorlar va genlar faollaşuvi",
    "original": null,
-   "contextUz": "Hujayra ichi retseptorlar va genlar faollashuvi: buyrak usti va jinsiy steroidlar, qalqonsimon bez gormonlari, retinoidlar va D vitamini lipidda eriydi, membranadan o’tib, sitoplazma yoki yadrodagi retseptorga bog’lanadi.",
+   "contextUz": "Hujayra içi retseptorlar va genlar faollaşuvi: buyrak usti va jinsiy steroidlar, qalqonsimon bez gormonlari, retinoidlar va D vitamini lipidda eriydi, membranadan ötib, sitoplazma yoki yadrodagi retseptorga boğlanadi.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -2020,7 +2020,7 @@
    "id": "ch75-t-gormonga-javob-elementi",
    "termUz": "gormonga javob elementi",
    "original": null,
-   "contextUz": "Kompleks DNK dagi o’ziga xos regulyator (promotor) ketma-ketlik — gormonga javob elementi bilan bog’lanib, transkripsiya va mRNK hosil bo’lishini faollashtiradi yoki bostiradi (75-6-rasm).",
+   "contextUz": "Kompleks DNK dagi öziga xos regulyator (promotor) ketma-ketlik — gormonga javob elementi bilan boğlanib, transkripsiya va mRNK hosil bölişini faollaştiradi yoki bostiradi (75-6-rasm).",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -2040,7 +2040,7 @@
    "id": "ch75-t-adenilatsiklazani",
    "termUz": "adenilatsiklazani",
    "original": null,
-   "contextUz": "Gormon retseptorga bog’lanib, uni Gs oqsil bilan bog’laydi; Gs membranadagi adenilatsiklazani qo’zg’atadi, u ozgina sitoplazma ATF ni cAMP ga aylantiradi.",
+   "contextUz": "Gormon retseptorga boğlanib, uni Gs oqsil bilan boğlaydi; Gs membranadagi adenilatsiklazani qözğatadi, u ozgina sitoplazma ATF ni cAMP ga aylantiradi.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -2050,7 +2050,7 @@
    "id": "ch75-t-camp",
    "termUz": "cAMP",
    "original": null,
-   "contextUz": "Gormon retseptorga bog’lanib, uni Gs oqsil bilan bog’laydi; Gs membranadagi adenilatsiklazani qo’zg’atadi, u ozgina sitoplazma ATF ni cAMP ga aylantiradi.",
+   "contextUz": "Gormon retseptorga boğlanib, uni Gs oqsil bilan boğlaydi; Gs membranadagi adenilatsiklazani qözğatadi, u ozgina sitoplazma ATF ni cAMP ga aylantiradi.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -2058,9 +2058,9 @@
   },
   {
    "id": "ch75-t-camp-bogliq-protein-kinazani",
-   "termUz": "cAMP-bog’liq protein kinazani",
+   "termUz": "cAMP-boğliq protein kinazani",
    "original": null,
-   "contextUz": "cAMP cAMP-bog’liq protein kinazani faollashtiradi, u o’ziga xos oqsillarni fosforlab, hujayra javobini boshlaydi.",
+   "contextUz": "cAMP cAMP-boğliq protein kinazani faollaştiradi, u öziga xos oqsillarni fosforlab, hujayra javobini boşlaydi.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -2070,7 +2070,7 @@
    "id": "ch75-t-kaskadini",
    "termUz": "kaskadini",
    "original": null,
-   "contextUz": "cAMP odatda fermentlar kaskadini boshlaydi: har bosqichda ko’proq molekula faollashadi, shuning uchun hujayra yuzasidagi juda oz gormon kuchli ta’sir beradi.",
+   "contextUz": "cAMP odatda fermentlar kaskadini boşlaydi: har bosqiçda köproq molekula faollaşadi, şuning uçun hujayra yuzasidagi juda oz gormon kuçli ta’sir beradi.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -2080,7 +2080,7 @@
    "id": "ch75-t-siklik-gmf",
    "termUz": "siklik GMF",
    "original": null,
-   "contextUz": "Bo’lmacha natriyuretik peptidi kabi ba’zi peptidlarda xuddi shunday siklik GMF ishlatiladi.",
+   "contextUz": "Bölmaça natriyuretik peptidi kabi ba’zi peptidlarda xuddi şunday siklik GMF işlatiladi.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -2100,7 +2100,7 @@
    "id": "ch75-t-fosfolipaza-c",
    "termUz": "fosfolipaza C",
    "original": null,
-   "contextUz": "Ba’zi gormonlar retseptorga bog’langan fosfolipaza C ni faollashtiradi; u membranadagi fosfatidilinozitol bifosfat (PIP2) ni ikki xabarchiga ajratadi: inozitol trifosfat (IP3) va diatsilglitserol (DAG).",
+   "contextUz": "Ba’zi gormonlar retseptorga boğlangan fosfolipaza C ni faollaştiradi; u membranadagi fosfatidilinozitol bifosfat (PIP2) ni ikki xabarçiga ajratadi: inozitol trifosfat (IP3) va diatsilglitserol (DAG).",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -2110,7 +2110,7 @@
    "id": "ch75-t-fosfatidilinozitol-bifosfat-pip2",
    "termUz": "fosfatidilinozitol bifosfat (PIP2)",
    "original": null,
-   "contextUz": "Ba’zi gormonlar retseptorga bog’langan fosfolipaza C ni faollashtiradi; u membranadagi fosfatidilinozitol bifosfat (PIP2) ni ikki xabarchiga ajratadi: inozitol trifosfat (IP3) va diatsilglitserol (DAG).",
+   "contextUz": "Ba’zi gormonlar retseptorga boğlangan fosfolipaza C ni faollaştiradi; u membranadagi fosfatidilinozitol bifosfat (PIP2) ni ikki xabarçiga ajratadi: inozitol trifosfat (IP3) va diatsilglitserol (DAG).",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -2120,7 +2120,7 @@
    "id": "ch75-t-inozitol-trifosfat-ip3",
    "termUz": "inozitol trifosfat (IP3)",
    "original": null,
-   "contextUz": "Ba’zi gormonlar retseptorga bog’langan fosfolipaza C ni faollashtiradi; u membranadagi fosfatidilinozitol bifosfat (PIP2) ni ikki xabarchiga ajratadi: inozitol trifosfat (IP3) va diatsilglitserol (DAG).",
+   "contextUz": "Ba’zi gormonlar retseptorga boğlangan fosfolipaza C ni faollaştiradi; u membranadagi fosfatidilinozitol bifosfat (PIP2) ni ikki xabarçiga ajratadi: inozitol trifosfat (IP3) va diatsilglitserol (DAG).",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -2130,7 +2130,7 @@
    "id": "ch75-t-diatsilglitserol-dag",
    "termUz": "diatsilglitserol (DAG)",
    "original": null,
-   "contextUz": "Ba’zi gormonlar retseptorga bog’langan fosfolipaza C ni faollashtiradi; u membranadagi fosfatidilinozitol bifosfat (PIP2) ni ikki xabarchiga ajratadi: inozitol trifosfat (IP3) va diatsilglitserol (DAG).",
+   "contextUz": "Ba’zi gormonlar retseptorga boğlangan fosfolipaza C ni faollaştiradi; u membranadagi fosfatidilinozitol bifosfat (PIP2) ni ikki xabarçiga ajratadi: inozitol trifosfat (IP3) va diatsilglitserol (DAG).",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -2140,7 +2140,7 @@
    "id": "ch75-t-protein-kinaza-c",
    "termUz": "protein kinaza C",
    "original": null,
-   "contextUz": "DAG protein kinaza C ni faollashtiradi, u ko’p oqsillarni fosforlaydi.",
+   "contextUz": "DAG protein kinaza C ni faollaştiradi, u köp oqsillarni fosforlaydi.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -2150,7 +2150,7 @@
    "id": "ch75-t-araxidon-kislota",
    "termUz": "araxidon kislota",
    "original": null,
-   "contextUz": "DAG ning lipid qismi — araxidon kislota — prostaglandinlar va boshqa mahalliy gormonlar prekursori.",
+   "contextUz": "DAG ning lipid qismi — araxidon kislota — prostaglandinlar va boşqa mahalliy gormonlar prekursori.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -2170,7 +2170,7 @@
    "id": "ch75-t-kalmodulinning",
    "termUz": "Kalmodulinning",
    "original": null,
-   "contextUz": "Kalmodulinning 4 ta Ca bog’lash joyi bor; 3–4 tasi to’lganda shakli o’zgarib, protein kinazalarni faollashtiradi yoki tormozlaydi.",
+   "contextUz": "Kalmodulinning 4 ta Ca boğlaş joyi bor; 3–4 tasi tölganda şakli özgarib, protein kinazalarni faollaştiradi yoki tormozlaydi.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -2178,9 +2178,9 @@
   },
   {
    "id": "ch75-t-steroidlar-oqsil-sintezini-oshiradi",
-   "termUz": "Steroidlar oqsil sintezini oshiradi",
+   "termUz": "Steroidlar oqsil sintezini oşiradi",
    "original": "75-6-rasm",
-   "contextUz": "Steroidlar oqsil sintezini oshiradi (75-6-rasm):",
+   "contextUz": "Steroidlar oqsil sintezini oşiradi (75-6-rasm):",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -2190,7 +2190,7 @@
    "id": "ch75-t-aldosteron",
    "termUz": "aldosteron",
    "original": null,
-   "contextUz": "Misol: aldosteron buyrak kanalchasi hujayralaridagi mineralokortikoid retseptor bilan bog’lanadi; ~45 daqiqadan keyin Na qayta so’rilishi va K sekretsiyasini kuchaytiruvchi oqsillar paydo bo’ladi.",
+   "contextUz": "Misol: aldosteron buyrak kanalçasi hujayralaridagi mineralokortikoid retseptor bilan boğlanadi; ~45 daqiqadan keyin Na qayta sörilişi va K sekretsiyasini kuçaytiruvçi oqsillar paydo böladi.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -2200,7 +2200,7 @@
    "id": "ch75-t-mineralokortikoid-retseptor",
    "termUz": "mineralokortikoid retseptor",
    "original": null,
-   "contextUz": "Misol: aldosteron buyrak kanalchasi hujayralaridagi mineralokortikoid retseptor bilan bog’lanadi; ~45 daqiqadan keyin Na qayta so’rilishi va K sekretsiyasini kuchaytiruvchi oqsillar paydo bo’ladi.",
+   "contextUz": "Misol: aldosteron buyrak kanalçasi hujayralaridagi mineralokortikoid retseptor bilan boğlanadi; ~45 daqiqadan keyin Na qayta sörilişi va K sekretsiyasini kuçaytiruvçi oqsillar paydo böladi.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -2208,9 +2208,9 @@
   },
   {
    "id": "ch75-t-qalqonsimon-bez-gormonlari-yadroda-gen-transkripsiyasini-osh",
-   "termUz": "Qalqonsimon bez gormonlari yadroda gen transkripsiyasini oshiradi",
+   "termUz": "Qalqonsimon bez gormonlari yadroda gen transkripsiyasini oşiradi",
    "original": null,
-   "contextUz": "Qalqonsimon bez gormonlari yadroda gen transkripsiyasini oshiradi",
+   "contextUz": "Qalqonsimon bez gormonlari yadroda gen transkripsiyasini oşiradi",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -2230,7 +2230,7 @@
    "id": "ch75-t-standart-egri",
    "termUz": "standart egri",
    "original": null,
-   "contextUz": "Belgilanmagan gormonning bir necha standart konsentratsiyasi bilan standart egri chiziladi (75-9-rasm, aldosteron); noma’lum namuna 10–15% xato bilan aniqlanadi.",
+   "contextUz": "Belgilanmagan gormonning bir neça standart konsentratsiyasi bilan standart egri çiziladi (75-9-rasm, aldosteron); noma’lum namuna 10–15% xato bilan aniqlanadi.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",
@@ -2238,9 +2238,9 @@
   },
   {
    "id": "ch75-t-fermentga-boglangan-immunosorbent-tahlil-elisa",
-   "termUz": "Fermentga bog’langan immunosorbent tahlil (ELISA)",
+   "termUz": "Fermentga boğlangan immunosorbent tahlil (ELISA)",
    "original": "75-10-rasm",
-   "contextUz": "Fermentga bog’langan immunosorbent tahlil (ELISA) (75-10-rasm): ko’pincha 96 chuqurchali plastik plastinkalarda.",
+   "contextUz": "Fermentga boğlangan immunosorbent tahlil (ELISA) (75-10-rasm): köpinça 96 çuqurçali plastik plastinkalarda.",
    "lessonId": "ch75",
    "topicId": "14",
    "source": "summaryUz",

@@ -1,0 +1,497 @@
+{
+ "lessonId": "ch29",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 29,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "machine",
+ "translator": "Gemini API",
+ "model": "gemini-3.5-flash-lite",
+ "createdAt": "2026-11-18T10:39:08.328Z",
+ "updatedAt": "2026-11-18T11:42:25.508Z",
+ "coverage": {
+  "translated": 164,
+  "total": 164
+ },
+ "note": "Kitob matnining töliq özbekça tarjimasi (qisqartirilmagan). Ekspert tekşiruvidan ötmagan.",
+ "blocks": {
+  "ch29-f0": {
+   "text": "Organizm hujayralari töğri işlaşi uçun ular elektrolitlar konsentratsiyasi nisbatan özgarmas bölgan hujayradan taşqari suyuqlik bilan yuvilib turişi kerak. Hujayralarning burişişi yoki şişişining oldini oliş uçun hujayradan taşqari suyuqlikdagi erigan moddalarning _umumiy konsentratsiyasi_, demak, osmolyarlik ham aniq boşqarilişi zarur. Osmolyarlik erigan moddalar (asosan natriy xlorid) miqdorini hujayradan taşqari suyuqlik hajmiga böliş bilan aniqlanadi. Şunday qilib, hujayradan taşqari suyuqlik osmolyarligi va natriy xlorid konsentratsiyasi köp jihatdan hujayradan taşqari suv miqdori bilan boşqariladi. Organizmdagi umumiy suv miqdori (1) çanqoqni belgilovçi omillar bilan boşqariladigan suyuqlik iste’moli va (2) koptokça filtratsiyasi hamda kanalça reabsorbsiyasiga ta’sir qiluvçi köplab omillar bilan boşqariladigan buyrak orqali suv çiqarilişi tomonidan nazorat qilinadi."
+  },
+  "ch29-f1": {
+   "text": "Uşbu bobda quyidagilarni muhokama qilamiz: (1) buyraklarning suyultirilgan siydik çiqariş orqali ortiqça suvni çiqarib yuborişiga sabab böladigan mexanizmlar; (2) buyraklarning konsentrlangan siydik çiqariş orqali suvni tejaşiga sabab böladigan mexanizmlar; (3) hujayradan taşqari suyuqlikdagi natriy konsentratsiyasi va osmolyarlikni boşqaruvçi buyrak teskari aloqa mexanizmlari; (4) suv va tuz iste’molini belgilaydigan, şuningdek hujayradan taşqari suyuqlik hajmi, osmolyarligi va natriy konsentratsiyasini boşqarişga yordam beradigan çanqoq va tuzga iştaha mexanizmlari."
+  },
+  "ch29-f2": {
+   "text": "Buyraklar suyultirilgan siydik hosil qiliş orqali ortiqça suvni çiqaradi"
+  },
+  "ch29-f3": {
+   "text": "Soğlom buyraklar turli ta’sirlarga javoban siydikdagi erigan moddalar va suvning nisbiy uluşlarini özgartiriş böyiça ulkan qobiliyatga ega. Organizmda suv ortiqça bölib, organizm suyuqliklarining osmolyarligi pasayganda, buyraklar osmolyarligi 50 mOsm/L gaça past bölgan siydik çiqara oladi; bu konsentratsiya me’yoriy hujayradan taşqari suyuqlik osmolyarligining atigi oltidan biriga yaqin. Aksinça, organizmda suv yetişmay, hujayradan taşqari suyuqlik osmolyarligi yuqori bölganda, buyraklar osmolyarligi 1200–1400 mOsm/L bölgan yuqori darajada konsentrlangan siydik çiqara oladi. Xuddi şunçalik muhimi, buyraklar natriy va kaliy kabi erigan moddalarning çiqariliş tezligini sezilarli özgartirmasdan katta hajmdagi suyultirilgan siydik yoki kiçik hajmdagi konsentrlangan siydik çiqara oladi. Suv çiqarilişini erigan moddalar çiqarilişidan mustaqil ravişda boşqariş qobiliyati, ayniqsa suyuqlik iste’moli çeklangan şaroitda, hayot uçun zarurdir."
+  },
+  "ch29-f4": {
+   "text": "Antidiuretik gormon siydik konsentratsiyasini boşqaradi"
+  },
+  "ch29-f5": {
+   "text": "Organizmda plazma osmolyarligi va natriy konsentratsiyasini boşqaruvçi kuçli teskari aloqa tizimi mavjud bölib, u buyrak orqali suv çiqarilişini erigan moddalar çiqariliş tezligidan mustaqil ravişda özgartiriş orqali işlaydi. Bu teskari aloqaning asosiy effektori _vazopressin_ deb ham ataladigan _antidiuretik gormon_ (ADG)dir."
+  },
+  "ch29-f6": {
+   "text": "Organizm suyuqliklarining osmolyarligi me’yordan oşganda (ya’ni organizm suyuqliklaridagi erigan moddalar haddan taşqari konsentrlanganda), gipofizning orqa bölagi köproq ADG sekretsiya qiladi; 28-bobda muhokama qilinganidek, ADG distal kanalçalar va yiğuvçi naylarning suv ötkazuvçanligini oşiradi. Bu mexanizm suv reabsorbsiyasini oşiradi va siydik hajmini kamaytiradi, ammo erigan moddalarning buyrak orqali çiqariliş tezligini sezilarli özgartirmaydi."
+  },
+  "ch29-f7": {
+   "text": "Organizmda suv ortiqça bölib, hujayradan taşqari suyuqlik osmolyarligi pasayganda, gipofiz orqa bölagidan ADG sekretsiyasi kamayadi, natijada distal kanalça va yiğuvçi naylarning suv ötkazuvçanligi pasayadi va köproq miqdorda, yanada suyultirilgan siydik çiqariladi. Demak, buyrakning suyultirilgan yoki konsentrlangan siydik çiqarişi köp jihatdan ADG sekretsiyasi tezligi bilan belgilanadi."
+  },
+  "ch29-f8": {
+   "text": "Suyultirilgan siydik çiqarişning buyrak mexanizmlari"
+  },
+  "ch29-f9": {
+   "text": "Organizmda suv juda köp ortiqça bölganda, buyrak kuniga 20 L gaça konsentratsiyasi 50 mOsm/L gaça past bölgan suyultirilgan siydik çiqara oladi. Buyrak bu ajoyib işni nefronning distal qismlarida, jumladan oxirgi distal kanalça va yiğuvçi naylarda, katta miqdordagi suvni reabsorbsiya qilmagan holda erigan moddalarni reabsorbsiya qilişda davom etiş orqali bajaradi."
+  },
+  "ch29-f10": {
+   "text": "**Rasm 29-1** da odamda 1 litr suv içilgandan keyingi taxminiy buyrak javoblari körsatilgan. E’tibor bering, suv içilgandan keyin 45 daqiqa içida siydik hajmi me’yordan taxminan olti baravar oşgan. Biroq çiqarilgan erigan moddalarning umumiy miqdori nisbatan özgarmas qolgan, çunki hosil bölgan siydik suyultirilgan bölib, siydik osmolyarligi 600 dan taxminan 100 mOsm/L gaça kamaygan. Demak, ortiqça suv içilgandan keyin buyrak organizmni ortiqça suvdan xalos qiladi, ammo erigan moddalarni ortiqça miqdorda çiqarmaydi."
+  },
+  "ch29-f12": {
+   "text": "Koptokça filtrati dastlab hosil bölganda uning osmolyarligi plazmanikiga (300 mOsm/L) deyarli teng böladi. Ortiqça suvni çiqariş uçun filtrat kanalça böylab ötar ekan, **Rasm 29-2** da körsatilganidek, erigan moddalarning suvga qaraganda köproq reabsorbsiyalanişi hisobiga suyultiriladi. Biroq bu suyultiriş, keyingi bölimlarda tasvirlanganidek, kanalça tizimining faqat ayrim segmentlarida sodir böladi."
+  },
+  "ch29-f14": {
+   "text": "Suyuqlik proksimal kanalça orqali oqar ekan, erigan moddalar va suv teng nisbatda reabsorbsiyalanadi, şuning uçun osmolyarlik deyarli özgarmaydi. Demak, proksimal kanalça suyuqligi plazmaga nisbatan izoosmotik bölib qoladi va uning osmolyarligi taxminan 300 mOsm/L ni taşkil qiladi. Suyuqlik Henle qovuzloğining tuşuvçi qismi böylab pastga oqar ekan, suv osmos yöli bilan reabsorbsiyalanadi va kanalça suyuqligi buyrak mağiz qavatining atrofdagi interstitsial suyuqligi bilan muvozanatga keladi; bu suyuqlik juda gipertonik bölib, uning osmolyarligi dastlabki koptokça filtratinikidan taxminan ikki-tört baravar yuqori. Şu sababli kanalça suyuqligi mağiz qavatining içki qismiga oqib borar ekan, borgan sari konsentrlanadi.",
+   "lead": "Proksimal kanalçalarda kanalça suyuqligi izoosmotik bölib qoladi."
+  },
+  "ch29-f15": {
+   "text": "Henle qovuzloğining kötariluvçi tirsagida, ayniqsa uning yöğon segmentida, natriy, kaliy va xlorid jadal reabsorbsiyalanadi. Biroq kanalça segmentining bu qismi hatto ADG köp miqdorda bölganda ham suvni ötkazmaydi. Şu sababli kanalça suyuqligi Henle qovuzloğining kötariluvçi qismi böylab yuqoriga, boşlanğiç distal kanalçaga oqar ekan, borgan sari suyultiriladi va suyuqlik boşlanğiç distal kanalça segmentiga kirgan paytda uning osmolyarligi asta-sekin taxminan 100 mOsm/L gaça kamayadi. _Şunday qilib_, _ADG bor yoki yöqligidan qat’i nazar_, _boşlanğiç distal kanalça segmentidan çiqayotgan suyuqlik gipoosmotik bölib_, _uning osmolyarligi plazma osmolyarligining atigi uçdan biriga yaqin böladi._",
+   "lead": "Henle qovuzloğining kötariluvçi qismida kanalça suyuqligi suyultiriladi."
+  },
+  "ch29-f16": {
+   "text": "Boşlanğiç distal kanalçadagi suyultirilgan suyuqlik oxirgi distal buralgan kanalça, pöstloq yiğuvçi nayi va mağiz qavati yiğuvçi nayiga ötar ekan, natriy xloridning qöşimça reabsorbsiyasi sodir böladi. ADG bölmaganda kanalçaning bu qismi ham suvni ötkazmaydi va erigan moddalarning qöşimça reabsorbsiyasi kanalça suyuqligini yanada suyultiradi, uning osmolyarligini 50 mOsm/L gaça pasaytiradi. Suvning reabsorbsiyalanmasligi va erigan moddalar reabsorbsiyasining davom etişi katta hajmdagi suyultirilgan siydik hosil bölişiga olib keladi.",
+   "lead": "ADG bölmaganda distal va yiğuvçi kanalçalarda kanalça suyuqligi yanada suyultiriladi."
+  },
+  "ch29-f17": {
+   "text": "Xulosa qilib aytganda, suyultirilgan siydik hosil qiliş mexanizmi suv reabsorbsiyasini kamaytirgan holda kanalça tizimining distal segmentlaridan erigan moddalarni reabsorbsiya qilişni davom ettirişdan iborat. Soğlom buyraklarda Henle qovuzloğining kötariluvçi qismi va boşlanğiç distal kanalçadan çiqayotgan suyuqlik ADG darajasidan qat’i nazar doimo suyultirilgan böladi. ADG bölmaganda siydik oxirgi distal kanalça va yiğuvçi naylarda yanada suyultiriladi va katta hajmdagi suyultirilgan siydik çiqariladi."
+  },
+  "ch29-f18": {
+   "text": "Buyraklar konsentrlangan siydik çiqariş orqali suvni tejaydi"
+  },
+  "ch29-f19": {
+   "text": "Buyrakning konsentrlangan siydik hosil qiliş qobiliyati quruqlikda yaşovçi sutemizuvçilar, jumladan odamning yaşab qolişi uçun zarurdir. Suv organizmdan turli yöllar bilan uzluksiz yöqotiladi: öpka orqali nafas bilan çiqariladigan havoga buğlaniş yöli bilan, oşqozon-içak yöli orqali najas bilan, teri orqali buğlaniş va terlaş yöli bilan hamda buyraklar orqali siydik çiqariş yöli bilan. Bu yöqotişni qoplaş uçun suyuqlik iste’moli zarur, ammo buyraklarning kiçik hajmdagi konsentrlangan siydik hosil qiliş qobiliyati gomeostazni saqlaş uçun talab qilinadigan suyuqlik iste’molini minimal darajaga tuşiradi; bu funksiya ayniqsa suv tanqis bölganda muhimdir."
+  },
+  "ch29-f20": {
+   "text": "Organizmda suv yetişmaganda buyraklar erigan moddalarni çiqarişda davom etgan holda suv reabsorbsiyasini oşirib va siydik hajmini kamaytirib, konsentrlangan siydik hosil qiladi. Odam buyragi siydikni maksimal 1200–1400 mOsm/L gaça, ya’ni plazma osmolyarligidan tört-beş baravar yuqori darajagaça konsentrlay oladi."
+  },
+  "ch29-f21": {
+   "text": "Avstraliya sakrovçi siçqoni kabi ayrim çöl hayvonlari siydikni 10 000 mOsm/L gaça konsentrlay oladi. Bu qobiliyat siçqonga çölda suv içmasdan yaşaş imkonini beradi; yetarli suvni iste’mol qilingan ovqat va ovqatning moddalar almaşinuvi jarayonida organizmda hosil böladigan suv hisobiga oliş mumkin. Çuçuk suv muhitiga moslaşgan hayvonlarda odatda siydikni konsentrlaş qobiliyati minimal böladi. Masalan, qunduzlar siydikni faqat taxminan 500 mOsm/L gaça konsentrlay oladi."
+  },
+  "ch29-f22": {
+   "text": "Buyrakning maksimal konsentrlaş qobiliyati organizmni moddalar almaşinuvining çiqindi mahsulotlari va iste’mol qilingan elektrolitlardan xalos qiliş uçun har kuni qança hajmda siydik çiqarilişi kerakligini belgilaydi. Vazni 70 kg bölgan oddiy odam har kuni taxminan 600 milliosmol erigan moddani çiqarişi kerak. Agar siydikni maksimal konsentrlaş qobiliyati 1200 mOsm/L bölsa, çiqarilişi şart bölgan _minimal_ siydik hajmi — _majburiy siydik hajmi_ quyidagiça hisoblanadi:"
+  },
+  "ch29-f23": {
+   "text": "600 mOsm/kun"
+  },
+  "ch29-f24": {
+   "text": "1200 mOsm/L = 0,5 L/kun"
+  },
+  "ch29-f25": {
+   "text": "Içiş uçun suv bölmaganda siydik bilan bu minimal hajm yöqotilişi teri, nafas yöllari va oşqozon-içak yöli orqali suv yöqotilişi bilan birga suvsizlanişga hissa qöşadi."
+  },
+  "ch29-f26": {
+   "text": "Odam buyragining siydikni faqat taxminan 1200 mOsm/L gaça konsentrlay olişi kabi çeklangan qobiliyati dengiz suvini içişga uringanda nima uçun oğir suvsizlaniş yuzaga kelişini tuşuntiradi. Okean suvida natriy xlorid konsentratsiyasi örtaça taxminan 3,0–3,5% bölib, osmolyarligi taxminan 1000 dan 1200 mOsm/L gaça. Konsentratsiyasi 1200 mOsm/L bölgan 1 litr dengiz suvini içiş organizmga jami 1200 milliosmol natriy xlorid kiritadi. Agar siydikni maksimal konsentrlaş qobiliyati 1200 mOsm/L bölsa, 1200 milliosmolni çiqariş uçun zarur bölgan siydik hajmi 1,0 litrni taşkil qiladi. Unda nima uçun dengiz suvini içiş suvsizlanişga sabab böladi? Javob şundaki, buyrak boşqa erigan moddalarni, ayniqsa moçevinani ham çiqarişi kerak; siydik maksimal konsentrlanganda moçevina taxminan 600 mOsm/L ni taşkil qiladi. Şu sababli buyraklar çiqara oladigan natriy xloridning maksimal konsentratsiyasi taxminan 600 mOsm/L ga teng. Demak, içilgan har bir litr dengiz suvi uçun organizmni iste’mol qilingan 1200 milliosmol natriy xloriddan, şuningdek moçevina kabi boşqa erigan moddalarning 600 milliosmolidan xalos qilişga 1,5 litr siydik hajmi talab qilinadi. Bu har bir litr dengiz suvi uçun 0,5 litr sof suyuqlik yöqotilişiga olib keladi va kema halokatiga uçragan, dengiz suvi içgan odamlarda tez suvsizlaniş yuzaga kelişini tuşuntiradi. Holbuki, kema halokatiga uçragan odamning uy hayvoni — Avstraliya sakrovçi siçqoni dengiz suvini heç qanday zararsiz iça olgan bölardi."
+  },
+  "ch29-f27": {
+   "text": "Klinik amaliyotda siydikdagi erigan moddalar konsentratsiyasini tez baholaş uçun köpinça siydikning _soliştirma oğirligidan_ (ziçligidan) foydalaniladi. Siydik qançalik konsentrlangan bölsa, uning soliştirma oğirligi şunçalik yuqori böladi. Köpçilik hollarda siydikning soliştirma oğirligi siydik osmolyarligi ortişi bilan çiziqli ravişda ortadi (**Rasm 29-3**). Biroq siydikning soliştirma oğirligi siydikning ma’lum hajmidagi erigan moddalar oğirligining ölçovi bölib, şu sababli erigan modda molekulalarining soni va kattaligi bilan belgilanadi. Osmolyarlik esa, aksinça, faqat ma’lum hajmdagi erigan modda molekulalarining soni bilan belgilanadi."
+  },
+  "ch29-f29": {
+   "text": "Siydikning soliştirma oğirligi odatda gramm/millilitr (g/ml) bilan ifodalanadi va odamda me’yorda 1,002 dan 1,028 g/ml gaça bölib, siydik osmolyarligining har 35–40 mOsm/L ga ortişida 0,001 ga kötariladi. Siydikda glukoza, diagnostika maqsadida işlatiladigan rentgenokontrast moddalar yoki ayrim antibiotiklar kabi yirik molekulalar sezilarli miqdorda bölganda soliştirma oğirlik va osmolyarlik örtasidagi bu boğliqlik buziladi. Bunday hollarda siydik osmolyalligi me’yorda bölişiga qaramay, soliştirma oğirlik ölçovlari siydik yuqori darajada konsentrlangan, degan notöğri xulosaga olib kelişi mumkin."
+  },
+  "ch29-f30": {
+   "text": "Siydikning taxminiy soliştirma oğirligini ölçaydigan test-çiziqlar mavjud, ammo köpçilik laboratoriyalar soliştirma oğirlikni _refraktometr_ yordamida ölçaydi."
+  },
+  "ch29-f31": {
+   "text": "Konsentrlangan siydik çiqariş uçun ADG ning yuqori darajasi va giperosmotik buyrak mağiz qavati zarur"
+  },
+  "ch29-f32": {
+   "text": "Konsentrlangan siydik hosil qilişning asosiy şartlari: (1) distal kanalçalar va yiğuvçi naylarning suv ötkazuvçanligini oşirib, bu kanalça segmentlariga suvni jadal reabsorbsiya qiliş imkonini beradigan _ADG ning yuqori darajasi_; (2) ADG ning yuqori darajasida suv reabsorbsiyasi sodir bölişi uçun zarur osmotik gradiyentni ta’minlaydigan _buyrak mağiz qavati interstitsial suyuqligining yuqori osmolyarligi_."
+  },
+  "ch29-f33": {
+   "text": "Yiğuvçi naylarni örab turgan buyrak mağiz qavati interstitsiysi me’yorda giperosmotik böladi, şuning uçun ADG darajasi yuqori bölganda suv kanalça membranasi orqali osmos yöli bilan buyrak interstitsiysiga ötadi; u yerdan esa töğri tomirlar (vasa recta) orqali qayta qonga olib ketiladi. Demak, siydikni konsentrlaş qobiliyati ADG darajasi va buyrak mağiz qavatining giperosmolyarlik darajasi bilan çeklanadi. ADG sekretsiyasini boşqaruvçi omillarni keyinroq muhokama qilamiz, hozir esa buyrak mağiz qavati interstitsial suyuqligi qanday jarayon orqali giperosmotik bölib qoladi, degan savolni körib çiqamiz. Bu jarayon _qarama-qarşi oqimli köpaytiruvçi mexanizm_ (countercurrent multiplier) ning işlaşini öz içiga oladi."
+  },
+  "ch29-f34": {
+   "text": "_Qarama-qarşi oqimli köpaytiruvçi mexanizm Henle qovuzloqlari va buyrak mağiz qavatining ixtisoslaşgan peritubulyar kapillyarlari bölgan töğri tomirlarning (vasa recta) öziga xos anatomik joylaşuviga boğliq_. Odamda nefronlarning taxminan 25% i _yukstamedullyar nefronlar_ bölib, ularning Henle qovuzloqlari va töğri tomirlari pöstloqqa qaytişdan oldin mağiz qavatiga çuqur kirib boradi. Henle qovuzloqlarining ayrimlari mağiz qavatidan buyrak jomiga çiqib turuvçi buyrak sörğiçlarining uçigaça tuşadi. Uzun Henle qovuzloqlariga parallel ravişda töğri tomirlar joylaşgan bölib, ular ham buyrak pöstloğiga qaytişdan oldin mağiz qavatiga qovuzloq hosil qilib tuşadi. Va nihoyat, siydikni çiqarilişidan oldin giperosmotik buyrak mağiz qavati orqali olib ötadigan yiğuvçi naylar ham qarama-qarşi oqim mexanizmida hal qiluvçi rol öynaydi."
+  },
+  "ch29-f35": {
+   "text": "Qarama-qarşi oqimli köpaytiruvçi mexanizm buyrak mağiz qavati interstitsiysini giperosmotik qiladi"
+  },
+  "ch29-f36": {
+   "text": "Organizmning deyarli barça qismlarida interstitsial suyuqlikning osmolyarligi taxminan 300 mOsm/L bölib, plazma osmolyarligiga öxşaydi. (25-bobda muhokama qilinganidek, molekulalararo tortişişni hisobga oladigan _tuzatilgan osmolyar faollik_ taxminan 282 mOsm/L ga teng.) Buyrak mağiz qavatidagi interstitsial suyuqlikning osmolyarligi esa ança yuqori bölib, mağiz qavatining jom tomondagi uçida asta-sekin taxminan 1200–1400 mOsm/L gaça kötarilişi mumkin. Bu buyrak mağiz qavati interstitsiysida erigan moddalar suvga nisbatan juda ortiqça miqdorda töplanganini anglatadi. Mağiz qavatida erigan moddalarning yuqori konsentratsiyasiga erişilgaç, u mağiz qavatiga erigan moddalar va suvning muvozanatli kirişi va çiqişi hisobiga saqlab turiladi."
+  },
+  "ch29-f37": {
+   "text": "Buyrak mağiz qavatida erigan moddalar konsentratsiyasining töplanişiga hissa qöşadigan asosiy omillar quyidagilar: 1. Henle qovuzloği kötariluvçi tirsagining yöğon qismidan mağiz qavati interstitsiysiga natriy ionlarining faol transporti hamda kaliy, xlorid va boşqa ionlarning kotransporti. 2. Yiğuvçi naylardan mağiz qavati interstitsiysiga ionlarning faol transporti. 3. Moçevinaning mağiz qavati içki qismidagi yiğuvçi naylardan mağiz qavati interstitsiysiga yengillaştirilgan diffuziyasi. 4. Mağiz qavati kanalçalaridan mağiz qavati interstitsiysiga faqat oz miqdordagi suvning diffuziyalanişi — bu erigan moddalarning mağiz qavati interstitsiysiga reabsorbsiyasidan ança kam."
+  },
+  "ch29-f38": {
+   "text": "Erigan moddalarning buyrak mağiz qavatida tutib qolinişiga sabab böladigan Henle qovuzloği xususiyatlari"
+  },
+  "ch29-f39": {
+   "text": "Henle qovuzloqlarining transport xususiyatlari proksimal kanalçalar, distal kanalçalar, pöstloq yiğuvçi kanalçalari va mağiz qavati içki qismidagi yiğuvçi naylarning xossalari bilan birga **Jadval 29-1** da umumlaştirilgan."
+  },
+  "ch29-f41": {
+   "text": "Mağiz qavatidagi yuqori osmolyarlikning asosiy sabablaridan biri — Henle qovuzloğining yöğon kötariluvçi qismidan interstitsiyga natriyning faol transporti hamda kaliy, xlorid va boşqa ionlarning kotransportidir. Bu nasos kanalça böşliği va interstitsial suyuqlik örtasida taxminan 200 mOsm/L li konsentratsiya gradiyentini hosil qila oladi. Yöğon kötariluvçi tirsak suvni amalda ötkazmagani sababli, çiqarib yuborilgan erigan moddalar ortidan suvning interstitsiyga osmotik oqimi kuzatilmaydi. Demak, natriy va boşqa ionlarning yöğon kötariluvçi qismdan faol transporti buyrak mağiz qavati interstitsiysiga suvga nisbatan ortiqça miqdorda erigan moddalar qöşadi. Suvni amalda ötkazmaydigan Henle qovuzloğining ingiçka kötariluvçi tirsagidan ham natriy xloridning ma’lum passiv reabsorbsiyasi sodir böladi va bu buyrak mağiz qavati interstitsiysida erigan moddalarning yuqori konsentratsiyasini yanada oşiradi."
+  },
+  "ch29-f42": {
+   "text": "Henle qovuzloğining tuşuvçi tirsagi, kötariluvçi tirsagidan farqli ölaroq, suvni juda yaxşi ötkazadi va kanalça suyuqligining osmolyarligi tezda buyrak mağiz qavati osmolyarligiga tenglaşadi. Şu sababli suv Henle qovuzloğining tuşuvçi tirsagidan interstitsiyga diffuziyalanadi va kanalça suyuqligi Henle qovuzloğining uçiga tomon oqar ekan, uning osmolyarligi asta-sekin ortib boradi."
+  },
+  "ch29-f43": {
+   "text": "Henle qovuzloğining bu xususiyatlarini yodda tutgan holda, endi buyrak mağiz qavati qanday qilib giperosmotik bölib qolişini muhokama qilamiz (Video 29-1). Avval Henle qovuzloği proksimal kanalçadan çiqayotgan suyuqlik bilan bir xil, ya’ni konsentratsiyasi 300 mOsm/L bölgan suyuqlik bilan tölgan, deb faraz qilamiz (**Rasm 29-4**, 1-bosqiç). Söngra Henle qovuzloği _yöğon kötariluvçi tirsagining_ faol ion nasosi kanalça içidagi konsentratsiyani pasaytiradi va interstitsiydagi konsentratsiyani oşiradi; bu nasos kanalça suyuqligi va interstitsial suyuqlik örtasida 200 mOsm/L li konsentratsiya gradiyentini hosil qiladi (**Rasm 29-4**, 2-bosqiç). Gradiyentning çegarasi taxminan 200 mOsm/L ni taşkil qiladi, çunki 200 mOsm/L li konsentratsiya gradiyentiga erişilganda ionlarning kanalçaga qaytib parahujayraviy diffuziyasi oxir-oqibat ionlarning böşliqdan taşqariga transportini muvozanatlaştiradi.",
+   "lead": "Buyrak mağiz qavati interstitsiysining giperosmotik bölişiga olib keladigan bosqiçlar."
+  },
+  "ch29-f45": {
+   "text": "3-bosqiç şundan iboratki, suvning tuşuvçi tirsakdan osmos yöli bilan çiqişi tufayli _Henle qovuzloği tuşuvçi tirsagidagi_ kanalça suyuqligi va interstitsial suyuqlik tezda osmotik muvozanatga keladi. Ionlarning Henle qovuzloğining yöğon kötariluvçi qismidan uzluksiz taşib çiqarilişi tufayli interstitsiy osmolyarligi 400 mOsm/L da saqlanib turadi. Demak, natriy xloridning yöğon kötariluvçi tirsakdan faol transporti öz-öziça faqat 200 mOsm/L li konsentratsiya gradiyentini hosil qila oladi, bu esa qarama-qarşi oqimli köpaytiruvçi tizim erişadigan gradiyentdan ança kam."
+  },
+  "ch29-f46": {
+   "text": "4-bosqiç — proksimal kanalçadan Henle qovuzloğiga suyuqlikning qöşimça oqib kelişi bölib, u tuşuvçi tirsakda avvalroq hosil bölgan giperosmotik suyuqlikning kötariluvçi tirsakka oqib ötişiga sabab böladi. Bu suyuqlik kötariluvçi tirsakka tuşgaç, qöşimça ionlar interstitsiyga çiqarib yuboriladi, suv esa 200 mOsm/L li osmotik gradiyent hosil bölgunça kanalça suyuqligida qoladi va interstitsial suyuqlik osmolyarligi 500 mOsm/L gaça kötariladi (5-bosqiç). Söngra tuşuvçi tirsakdagi suyuqlik yana giperosmotik mağiz qavati interstitsial suyuqligi bilan muvozanatga keladi (6-bosqiç) va Henle qovuzloği tuşuvçi tirsagidan giperosmotik kanalça suyuqligi kötariluvçi tirsakka oqib ötar ekan, kanalçalardan yanada köproq erigan modda uzluksiz çiqarib yuboriladi va mağiz qavati interstitsiysida töplanadi."
+  },
+  "ch29-f47": {
+   "text": "Bu bosqiçlar qayta-qayta takrorlanadi va natijada mağiz qavatiga suvga nisbatan ortiqça miqdorda tobora köproq erigan moddalar qöşiladi. Yetarli vaqt ötgaç, _bu jarayon erigan moddalarni asta-sekin mağiz qavatida tutib qoladi va Henle qovuzloğining yöğon kötariluvçi qismidan ionlarning faol çiqarib yuborilişi hosil qilgan konsentratsiya gradiyentini köpaytiradi_, _7-bosqiçda körsatilganidek, oxir-oqibat interstitsial suyuqlik osmolyarligini 1200–1400 mOsm/L gaça kötaradi_."
+  },
+  "ch29-f48": {
+   "text": "Şunday qilib, natriy xloridning Henle qovuzloğining yöğon kötariluvçi qismida takroriy reabsorbsiyasi va proksimal kanalçadan Henle qovuzloğiga yangi natriy xloridning uzluksiz oqib kelişi _qarama-qarşi oqimli köpaytiruvçi_ deb ataladi. Henle qovuzloğining kötariluvçi qismidan reabsorbsiyalangan natriy xlorid yangi kelgan natriy xloridga qöşilib boradi va şu tariqa uning mağiz qavati interstitsiysidagi konsentratsiyasini “köpaytiradi”."
+  },
+  "ch29-f49": {
+   "text": "Konsentrlangan siydik çiqarişda distal kanalça va yiğuvçi naylarning roli"
+  },
+  "ch29-f50": {
+   "text": "Kanalça suyuqligi Henle qovuzloğidan çiqib, buyrak pöstloğidagi distal buralgan kanalçaga oqib kirganda u suyultirilgan bölib, osmolyarligi atigi taxminan 100 dan"
+  },
+  "ch29-f51": {
+   "text": "140 mOsm/L gaça böladi (**Rasm 29-5**). Boşlanğiç distal kanalça kanalça suyuqligini yanada suyultiradi, çunki bu segment Henle qovuzloğining kötariluvçi qismi kabi natriy xloridni kanalçadan faol taşib çiqaradi, ammo suvni nisbatan ötkazmaydi."
+  },
+  "ch29-f53": {
+   "text": "Suyuqlik pöstloq yiğuvçi kanalçasiga oqib kirar ekan, reabsorbsiyalanadigan suv miqdori plazmadagi ADG konsentratsiyasiga hal qiluvçi darajada boğliq böladi. ADG bölmaganda bu segment suvni deyarli ötkazmaydi va suvni reabsorbsiya qilmaydi, ammo erigan moddalarni reabsorbsiya qilişda davom etadi va siydikni yanada suyultiradi. ADG konsentratsiyasi yuqori bölganda pöstloq yiğuvçi kanalçasi suvni yaxşi ötkazadigan bölib qoladi, şuning uçun endi katta miqdordagi suv kanalçadan pöstloq interstitsiysiga reabsorbsiyalanadi va u yerdan tez oqayotgan peritubulyar kapillyarlar orqali olib ketiladi. _Katta miqdordagi suv buyrak mağiz qavatiga emas_, _pöstloqqa reabsorbsiyalangani sababli_, _bu mağiz qavati interstitsial suyuqligining yuqori osmolyarligini saqlaşga yordam beradi_."
+  },
+  "ch29-f54": {
+   "text": "Kanalça suyuqligi mağiz qavati yiğuvçi naylari böylab oqar ekan, kanalça suyuqligidan interstitsiyga suvning qöşimça reabsorbsiyasi sodir böladi, ammo suvning umumiy miqdori pöstloq interstitsiysiga qöşilgan suvga nisbatan kam. Reabsorbsiyalangan suv töğri tomirlar orqali venoz qonga olib ketiladi. ADG darajasi yuqori bölganda yiğuvçi naylar suvni ötkazadigan bölib qoladi, şuning uçun yiğuvçi naylar oxiridagi suyuqlik amalda buyrak mağiz qavati interstitsial suyuqligi bilan bir xil — taxminan 1200 mOsm/L osmolyarlikka ega böladi (qarang: **Rasm 29-4**). Şunday qilib, imkon qadar köp suvni reabsorbsiya qiliş orqali buyraklar yuqori darajada konsentrlangan siydik hosil qiladi; ular siydik bilan erigan moddalarni me’yoriy miqdorda çiqargan holda suvni hujayradan taşqari suyuqlikka qaytaradi va organizmdagi suv tanqisligini qoplaydi."
+  },
+  "ch29-f55": {
+   "text": "Moçevina buyrak mağiz qavati interstitsiysining giperosmotik bölişiga va konsentrlangan siydik hosil bölişiga hissa qöşadi"
+  },
+  "ch29-f56": {
+   "text": "Buyrak maksimal konsentrlangan siydik hosil qilayotganda moçevina buyrak mağiz qavati interstitsiysi osmolyarligining (500–600 mOsm/L) taxminan 40–50% ini taşkil qiladi. Natriy xloriddan farqli ölaroq, moçevina kanalçadan passiv reabsorbsiyalanadi. Suv yetişmaganda va qonda ADG konsentratsiyasi yuqori bölganda katta miqdordagi moçevina mağiz qavati içki qismidagi yiğuvçi naylardan interstitsiyga passiv reabsorbsiyalanadi."
+  },
+  "ch29-f57": {
+   "text": "Moçevinaning buyrak mağiz qavatiga reabsorbsiyalaniş mexanizmi quyidagiça. Suv Henle qovuzloğining kötariluvçi qismi böylab yuqoriga va distal hamda pöstloq yiğuvçi kanalçalariga oqar ekan, moçevina juda kam reabsorbsiyalanadi, çunki bu segmentlar moçevinani ötkazmaydi (qarang: **Jadval 29-1**). ADG konsentratsiyasi yuqori bölganda suv pöstloq yiğuvçi kanalçasidan tez reabsorbsiyalanadi va moçevina konsentratsiyasi tez ortadi, çunki kanalçaning bu qismi moçevinani yaxşi ötkazmaydi."
+  },
+  "ch29-f58": {
+   "text": "Kanalça suyuqligi mağiz qavati içki qismidagi yiğuvçi naylarga oqib kirar ekan, yanada köproq suv reabsorbsiyalanadi va natijada suyuqlikdagi moçevina konsentratsiyasi yanada yuqori böladi. Mağiz qavati içki qismidagi yiğuvçi nay kanalça suyuqligida moçevinaning bunday yuqori konsentratsiyasi moçevinaning kanalçadan buyrak interstitsial suyuqligiga diffuziyalanişiga sabab böladi. Bu diffuziyani öziga xos _moçevina taşuvçilari — UT-A1_ va _UT-A3_ keskin yengillaştiradi. Bu moçevina taşuvçilari ADG tomonidan faollaştiriladi, şuning uçun ADG darajasi yuqori bölganda moçevinaning mağiz qavati içki qismidagi yiğuvçi naydan taşqariga transporti yanada ortadi. Suv va moçevinaning mağiz qavati içki qismidagi yiğuvçi naylardan bir vaqtda çiqişi, moçevina reabsorbsiyalanayotganiga qaramay, kanalça suyuqligida va oxir-oqibat siydikda moçevinaning yuqori konsentratsiyasini saqlab turadi."
+  },
+  "ch29-f59": {
+   "text": "Moçevinaning siydikni konsentrlaş qobiliyatiga qöşadigan asosiy hissasi şu dalil bilan tasdiqlanadiki, azotli çiqindi mahsulot sifatida köp miqdorda moçevina hosil qiladigan, oqsilga boy ovqat iste’mol qiluvçi odamlar oqsil iste’moli va moçevina hosil bölişi past bölgan odamlarga qaraganda siydikni ança yaxşi konsentrlay oladi. Töyib ovqatlanmaslik mağiz qavati interstitsiysida moçevina konsentratsiyasining pastligi va siydikni konsentrlaş qobiliyatining sezilarli buzilişi bilan keçadi."
+  },
+  "ch29-f60": {
+   "text": "Soğlom odam siydik oqimi tezligi va organizmning suv bilan ta’minlanganlik holatiga qarab odatda moçevina filtrlangan yukining taxminan 20–60% ini çiqaradi. Umuman olganda, moçevinaning çiqariliş tezligi asosan quyidagilar bilan belgilanadi: (1) plazmadagi moçevina konsentratsiyasi; (2) koptokça filtratsiyasi tezligi (KFT); (3) buyrak kanalçalarida moçevina reabsorbsiyasi. KFT keskin kamaygan buyrak kasalliklari bilan oğrigan bemorlarda plazmadagi moçevina konsentratsiyasi sezilarli ortadi va KFT pasayganiga qaramay moçevinaning filtrlangan yuki hamda çiqariliş tezligini me’yoriy darajaga (moçevina hosil böliş tezligiga teng darajaga) qaytaradi.",
+   "lead": "Moçevinaning yiğuvçi naydan Henle qovuzloğiga resirkulyatsiyasi buyrak mağiz qavatining giperosmotik bölişiga hissa qöşadi."
+  },
+  "ch29-f61": {
+   "text": "Proksimal kanalçada filtrlangan moçevinaning 40–50% i reabsorbsiyalanadi, ammo şunga qaramay kanalça suyuqligidagi moçevina konsentratsiyasi ortadi, çunki moçevina suvçalik yaxşi ötkazilmaydi. Kanalça suyuqligi Henle qovuzloğining ingiçka segmentlariga oqib kirar ekan, moçevina konsentratsiyasi ortişda davom etadi; bu qisman Henle qovuzloğining tuşuvçi qismidan suv reabsorbsiyasi tufayli, qisman esa moçevinaning mağiz qavati interstitsiysidan Henle qovuzloğining ingiçka qismiga ma’lum darajada _sekretsiya_ qilinişi tufayli sodir böladi (**Rasm 29-6**). Moçevinaning Henle qovuzloğining ingiçka qismlariga passiv sekretsiyasini _moçevina taşuvçisi UT-A2_ yengillaştiradi."
+  },
+  "ch29-f63": {
+   "text": "Henle qovuzloğining yöğon tirsagi, distal kanalça va pöstloq yiğuvçi kanalçasi moçevinani kamroq ötkazadi va me’yorda bu kanalça segmentlarida moçevina faqat oz miqdorda reabsorbsiyalanadi. Buyrak konsentrlangan siydik hosil qilayotganda va ADG darajasi yuqori bölganda distal kanalça va pöstloq yiğuvçi kanalçasidan suvning reabsorbsiyasi kanalça suyuqligidagi moçevina konsentratsiyasini yanada oşiradi. Bu moçevina mağiz qavati içki qismidagi yiğuvçi nayga oqib kirar ekan, kanalça suyuqligida moçevinaning yuqori konsentratsiyasi hamda UT-A1 va UT-A3 moçevina taşuvçilari moçevinaning mağiz qavati interstitsiysiga diffuziyalanişiga sabab böladi. Mağiz qavati interstitsiysiga ötgan moçevinaning örtaça bir qismi oxir-oqibat Henle qovuzloğining ingiçka qismiga diffuziyalanadi, söngra Henle qovuzloğining kötariluvçi qismi,"
+  },
+  "ch29-f64": {
+   "text": "distal kanalça va pöstloq yiğuvçi kanalçasi orqali yuqoriga ötib, yana mağiz qavati yiğuvçi nayiga qaytib tuşadi. Şu tariqa moçevina çiqarilişidan oldin kanalça tizimining bu oxirgi qismlari orqali bir neça marta resirkulyatsiyalanişi mumkin. Bu aylanma yölning har bir aylanişi moçevina konsentratsiyasining yanada ortişiga hissa qöşadi."
+  },
+  "ch29-f65": {
+   "text": "Moçevinaning bu resirkulyatsiyasi buyrak mağiz qavatini giperosmotik qilişning qöşimça mexanizmini ta’minlaydi. Moçevina buyraklar çiqarişi kerak bölgan eng köp miqdordagi çiqindi mahsulotlardan biri bölgani sababli, uni çiqarişdan oldin konsentrlaşning bu mexanizmi suv tanqis bölganda organizm suyuqliklarini tejaş uçun zarurdir."
+  },
+  "ch29-f66": {
+   "text": "Organizmda suv ortiqça bölganda siydik oqimi tezligi ortadi, şu sababli mağiz qavati içki qismidagi yiğuvçi naylarda moçevina konsentratsiyasi kamayadi va moçevinaning buyrak mağiz qavati interstitsiysiga diffuziyasi kamroq böladi. Organizmda suv ortiqça bölganda ADG darajasi ham pasayadi va bu, öz navbatida, mağiz qavati içki qismidagi yiğuvçi naylarning ham suv, ham moçevina uçun ötkazuvçanligini kamaytiradi, natijada siydik bilan köproq moçevina çiqariladi."
+  },
+  "ch29-f67": {
+   "text": "Töğri tomirlardagi (vasa recta) qarama-qarşi oqimli almaşinuv buyrak mağiz qavatining giperosmolyarligini saqlaydi"
+  },
+  "ch29-f68": {
+   "text": "Buyrakning bu qismidagi hujayralarning metabolik ehtiyojlarini qondiriş uçun buyrak mağiz qavati qon bilan ta’minlanişi kerak. Mağiz qavatining maxsus qon oqimi tizimi bölmaganida qarama-qarşi oqimli köpaytiruvçi tizim buyrak mağiz qavatiga çiqarib yuborgan erigan moddalar tezda tarqalib ketgan bölar edi."
+  },
+  "ch29-f69": {
+   "text": "Buyrak mağiz qavati qon oqimining ikkita öziga xos xususiyati erigan moddalarning yuqori konsentratsiyasini saqlaşga hissa qöşadi: 1. Mağiz qavatidagi qon oqimi past bölib, buyrak umumiy qon oqimining 5% dan kamroğini taşkil qiladi. Bu sust qon oqimi töqimalarning metabolik ehtiyojlarini qondiriş uçun yetarli, ammo erigan moddalarning mağiz qavati interstitsiysidan yöqotilişini minimal darajaga tuşirişga yordam beradi. 2. Töğri tomirlar _qarama-qarşi oqimli almaştirgiçlar_ vazifasini bajarib, erigan moddalarning mağiz qavati interstitsiysidan yuvilib ketişini minimal darajaga tuşiradi. Qarama-qarşi oqimli almaşinuv mexanizmi quyidagiça işlaydi (**Rasm 29-7**). Qon mağiz qavatiga pöstloq va buyrak mağiz qavati çegarasida töğri tomirlar orqali kiradi va undan çiqadi. Töğri tomirlar, boşqa kapillyarlar kabi, plazma oqsillaridan taşqari qondagi erigan moddalarni yaxşi ötkazadi. Qon mağiz qavatiga sörğiçlar tomon pastga tuşar ekan, qisman interstitsiydan erigan moddalar kirişi, qisman esa interstitsiyga suv yöqotilişi hisobiga borgan sari konsentrlanadi. Qon töğri tomirlarning uçiga yetib borganda uning konsentratsiyasi taxminan 1200 mOsm/L bölib, mağiz qavati interstitsiysinikiga teng böladi. Qon pöstloq tomon qayta kötarilar ekan, erigan moddalar mağiz qavati interstitsiysiga qaytib diffuziyalanişi va suvning töğri tomirlarga ötişi hisobiga borgan sari kamroq konsentrlangan bölib boradi."
+  },
+  "ch29-f71": {
+   "text": "Töğri tomirlar orqali katta miqdordagi suyuqlik va erigan moddalar almaşinsa-da, qarama-qarşi oqimli almaştirgiç vazifasini bajaruvçi töğri tomir kapillyarlarining U şakli tufayli buyrak mağiz qavatining har bir darajasida interstitsial suyuqlik konsentratsiyasining sof suyulişi juda kam böladi. _Demak_, _töğri tomirlar mağiz qavati giperosmolyarligini yaratmaydi_, _ammo uning tarqalib ketişining oldini oladi._"
+  },
+  "ch29-f72": {
+   "text": "Tomirlarning U şaklidagi tuzilişi erigan moddalarning interstitsiydan yöqotilişini minimal darajaga tuşiradi, biroq bu kapillyarlarda reabsorbsiyaga yordam beruvçi odatiy kolloid-osmotik va gidrostatik bosimlar ta’sirida suyuqlik va erigan moddalarning qonga yalpi oqimining oldini olmaydi. Barqaror holat şaroitida töğri tomirlar mağiz qavati kanalçalaridan qança erigan modda va suv sörilgan bölsa, faqat şunça miqdorni olib ketadi va qarama-qarşi oqim mexanizmi hosil qilgan erigan moddalarning yuqori konsentratsiyasi saqlanib qoladi."
+  },
+  "ch29-f73": {
+   "text": "Ayrim vazodilatatorlar buyrak mağiz qavatidagi qon oqimini sezilarli oşirib, buyrak mağiz qavatidan erigan moddalarning bir qismini yuvib ketişi va siydikni maksimal konsentrlaş qobiliyatini pasaytirişi mumkin. Arterial bosimning katta ortişi ham buyrak mağiz qavatidagi qon oqimini buyrakning boşqa sohalariga qaraganda köproq oşirişi va giperosmotik interstitsiyni yuvib ketişga moyil bölişi mumkin, bu esa siydikni konsentrlaş qobiliyatini pasaytiradi. Yuqorida muhokama qilinganidek, buyrakning maksimal konsentrlaş qobiliyati nafaqat ADG darajasi, balki buyrak mağiz qavati interstitsial suyuqligining osmolyarligi bilan ham belgilanadi. Hatto ADG darajasi maksimal bölganda ham, agar mağiz qavatidagi qon oqimi buyrak mağiz qavatidagi giperosmolyarlikni kamaytiradigan darajada ortsa, siydikni konsentrlaş qobiliyati pasayadi.",
+   "lead": "Mağiz qavati qon oqimining ortişi siydikni konsentrlaş qobiliyatini pasaytiradi."
+  },
+  "ch29-f74": {
+   "text": "Siydikni konsentrlaş mexanizmi va turli kanalça segmentlarida osmolyarlik özgarişlarining umumiy körinişi"
+  },
+  "ch29-f75": {
+   "text": "Kanalça suyuqligi nefronning turli qismlaridan ötayotganda uning osmolyarligi va hajmidagi özgarişlar **Rasm 29-8** da körsatilgan."
+  },
+  "ch29-f77": {
+   "text": "Filtrlangan elektrolitlarning köpçiligining taxminan 65% i proksimal kanalçada reabsorbsiyalanadi. Biroq proksimal kanalça membranalari suvni juda yaxşi ötkazadi, şuning uçun erigan moddalar reabsorbsiyalanganda suv ham kanalça membranasi orqali osmos yöli bilan diffuziyalanadi. Suvning proksimal kanalça epiteliysi orqali diffuziyasiga _akvaporin-1_ (AQP-1) suv kanali yordam beradi. Şu sababli suyuqlik osmolyarligi koptokça filtratinikiga — 300 mOsm/L ga deyarli teng bölib qoladi.",
+   "lead": "Proksimal kanalça."
+  },
+  "ch29-f78": {
+   "text": "Suyuqlik Henle qovuzloğining tuşuvçi qismi böylab pastga oqar ekan, suv mağiz qavatiga söriladi. Tuşuvçi tirsakda ham AQP-1 mavjud bölib, u suvni yuqori darajada, natriy xlorid va moçevinani esa ança kam ötkazadi. Şu sababli tuşuvçi qism orqali oqayotgan suyuqlikning osmolyarligi asta-sekin ortib, atrofdagi interstitsial suyuqlik osmolyarligiga deyarli tenglaşadi; qonda ADG konsentratsiyasi yuqori bölganda bu osmolyarlik taxminan 1200 mOsm/L ni taşkil qiladi.",
+   "lead": "Henle qovuzloğining tuşuvçi qismi."
+  },
+  "ch29-f79": {
+   "text": "ADG konsentratsiyasi past bölişi natijasida suyultirilgan siydik hosil bölayotganda mağiz qavati interstitsiysining osmolyarligi 1200 mOsm/L dan kam böladi; şunga mos ravişda tuşuvçi qism kanalça suyuqligining osmolyarligi ham kamroq konsentrlangan böladi. Konsentratsiyaning bu pasayişi qisman ADG darajasi past bölib, buyrak katta hajmdagi suyultirilgan siydik hosil qilayotganda yiğuvçi naylardan mağiz qavati interstitsiysiga kamroq moçevina sörilişi bilan boğliq."
+  },
+  "ch29-f80": {
+   "text": "Ingiçka kötariluvçi tirsak suvni amalda ötkazmaydi, ammo natriy xloridning bir qismini reabsorbsiya qiladi. Henle qovuzloğining tuşuvçi qismidan suv çiqib ketişi natijasida kanalça suyuqligida natriy xlorid konsentratsiyasi yuqori bölgani sababli natriy xloridning ingiçka kötariluvçi tirsakdan mağiz qavati interstitsiysiga ma’lum passiv diffuziyasi sodir böladi. Şunday qilib, natriy xlorid kanalçadan diffuziyalanib çiqqan, suv esa kanalçada qolgan sari kanalça suyuqligi yanada suyultiriladi.",
+   "lead": "Henle qovuzloğining ingiçka kötariluvçi qismi."
+  },
+  "ch29-f81": {
+   "text": "Yiğuvçi naylardan mağiz qavati interstitsiysiga sörilgan moçevinaning bir qismi kötariluvçi tirsakka ham diffuziyalanadi va şu tariqa moçevina kanalça tizimiga qaytariladi hamda uning buyrak mağiz qavatidan yuvilib ketişining oldi olinadi. Moçevinaning bu _qayta aylanişi_ buyrak mağiz qavatining giperosmotik bölişiga hissa qöşadigan qöşimça mexanizmdir."
+  },
+  "ch29-f82": {
+   "text": "Henle qovuzloği kötariluvçi qismining yöğon bölagi ham suvni amalda ötkazmaydi, ammo katta miqdordagi natriy, xlorid, kaliy va boşqa ionlar kanalçadan mağiz qavati interstitsiysiga faol taşiladi. Şu sababli Henle qovuzloğining yöğon kötariluvçi tirsagidagi suyuqlik juda suyultirilgan bölib, uning konsentratsiyasi taxminan 140 mOsm/L gaça tuşadi.",
+   "lead": "Henle qovuzloğining yöğon kötariluvçi qismi."
+  },
+  "ch29-f83": {
+   "text": "Boşlanğiç distal kanalça Henle qovuzloğining yöğon kötariluvçi qismiga öxşaş xususiyatlarga ega, şuning uçun erigan moddalar reabsorbsiyalanib, suv kanalçada qolar ekan, kanalça suyuqligi yanada suyultirilib, taxminan 100 mOsm/L gaça tuşadi.",
+   "lead": "Boşlanğiç distal kanalça."
+  },
+  "ch29-f84": {
+   "text": "Oxirgi distal kanalça va pöstloq yiğuvçi kanalçalarida suyuqlik osmolyarligi ADG darajasiga boğliq. ADG darajasi yuqori bölganda bu kanalçalar suvni yaxşi ötkazadi va sezilarli miqdordagi suv reabsorbsiyalanadi. Biroq nefronning bu qismi moçevinani yaxşi ötkazmaydi, şuning uçun suv reabsorbsiyalangan sari moçevina konsentratsiyasi ortadi. Bu jarayon distal kanalça va yiğuvçi kanalçaga yetkazilgan moçevinaning köp qismiga mağiz qavati içki qismidagi yiğuvçi naylarga ötişiga imkon beradi; u yerdan moçevina oxir-oqibat reabsorbsiyalanadi yoki siydik bilan çiqariladi. ADG bölmaganda oxirgi distal kanalça va pöstloq yiğuvçi kanalçasida suv juda kam reabsorbsiyalanadi; şu sababli bu segmentlardan ionlarning faol reabsorbsiyasi davom etgani tufayli osmolyarlik yanada pasayadi.",
+   "lead": "Oxirgi distal kanalça va pöstloq yiğuvçi kanalçalari."
+  },
+  "ch29-f85": {
+   "text": "Mağiz qavati içki qismidagi yiğuvçi naylarda suyuqlik konsentratsiyasi ham quyidagilarga boğliq: (1) ADG; (2) qarama-qarşi oqim mexanizmi hosil qilgan atrofdagi mağiz qavati interstitsiysining osmolyarligi. ADG köp miqdorda bölganda bu naylar suvni yaxşi ötkazadi va suv osmotik muvozanatga erişilgunça kanalçadan interstitsial suyuqlikka diffuziyalanadi; bunda kanalça suyuqligining konsentratsiyasi buyrak mağiz qavati interstitsiysinikiga (1200–1400 mOsm/L) deyarli teng böladi. Şunday qilib, ADG darajasi yuqori bölganda kiçik hajmdagi konsentrlangan siydik hosil böladi. Suv reabsorbsiyasi kanalça suyuqligida moçevina konsentratsiyasini oşirgani va mağiz qavati içki qismidagi yiğuvçi naylarda diffuziyani keskin yengillaştiruvçi öziga xos moçevina taşuvçilari mavjudligi sababli, naylardagi yuqori konsentratsiyali moçevinaning köp qismi kanalça böşliğidan mağiz qavati interstitsiysiga diffuziyalanadi. Moçevinaning buyrak mağiz qavatiga bunday sörilişi mağiz qavati interstitsiysining yuqori osmolyarligiga va buyrakning yuqori konsentrlaş qobiliyatiga hissa qöşadi.",
+   "lead": "Mağiz qavati içki qismidagi yiğuvçi naylar."
+  },
+  "ch29-f86": {
+   "text": "Uşbu muhokamadan yaqqol körinmasligi mumkin bölgan bir neçta muhim jihatni e’tiborga oliş kerak. Birinçidan, natriy xlorid mağiz qavati interstitsiysining giperosmolyarligiga hissa qöşadigan asosiy erigan moddalardan biri bölsa-da, _buyrak zarur bölganda tarkibida natriy xlorid kam bölgan yuqori darajada konsentrlangan siydik çiqara oladi._ Bunday holatlarda siydikning giperosmolyarligi boşqa erigan moddalar, ayniqsa moçevina kabi çiqindi mahsulotlarning yuqori konsentratsiyasi bilan boğliq. Bu kuzatiladigan holatlardan biri — natriy iste’moli past bölgan holda suvsizlaniş. 30-bobda muhokama qilinganidek, natriy iste’molining pastligi angiotenzin II va aldosteron gormonlari hosil bölişini rağbatlantiradi; ular birgalikda natriyning kanalçalardan jadal reabsorbsiyasiga sabab böladi, moçevina va boşqa erigan moddalar esa siydikning yuqori konsentratsiyasini saqlab turadi."
+  },
+  "ch29-f87": {
+   "text": "Ikkinçidan, _katta miqdordagi suyultirilgan siydikni natriy çiqarilişini oşirmasdan çiqariş mumkin_. Bunga ADG sekretsiyasini kamaytiriş orqali erişiladi; bu natriy reabsorbsiyasini sezilarli özgartirmagan holda distalroq kanalça segmentlarida suv reabsorbsiyasini kamaytiradi."
+  },
+  "ch29-f88": {
+   "text": "Va nihoyat, buyrakning maksimal konsentrlaş qobiliyati va çiqarilişi kerak bölgan erigan moddalar miqdori bilan belgilanadigan _majburiy siydik hajmi_ mavjud. Şu sababli, agar katta miqdordagi erigan moddalar çiqarilişi kerak bölsa, ular ularni çiqariş uçun zarur bölgan minimal miqdordagi suv bilan birga çiqarilişi lozim. Masalan, agar har kuni 600 milliosmol erigan modda çiqarilişi kerak bölsa va siydikni maksimal konsentrlaş qobiliyati 1200 mOsm/L bölsa, buning uçun _kamida_ 0,5 litr siydik talab qilinadi."
+  },
+  "ch29-f89": {
+   "text": "Siydikni konsentrlaş yoki suyultiriş jarayoni buyraklardan suv va erigan moddalarni ma’lum darajada bir-biridan mustaqil ravişda çiqarişni talab qiladi. Siydik suyultirilgan bölganda suv erigan moddalarga nisbatan ortiqça çiqariladi. Aksinça, siydik konsentrlangan bölganda erigan moddalar suvga nisbatan ortiqça çiqariladi."
+  },
+  "ch29-f90": {
+   "text": "Erigan moddalarning qondan umumiy klirensini _osmolyar klirens_ (Cosm) sifatida ifodalaş mumkin. Bu har daqiqada erigan moddalardan tozalanadigan plazma hajmi bölib, alohida moddaning klirensi qanday hisoblansa, xuddi şunday hisoblanadi:"
+  },
+  "ch29-f91": {
+   "text": "Posm bu yerda Uosm — siydik osmolyarligi, V — siydik oqimi tezligi, Posm esa plazma osmolyarligi. Masalan, agar plazma osmolyarligi 300 mOsm/L, siydik osmolyarligi 600 mOsm/L va siydik oqimi tezligi 1 ml/min (0,001 L/min) bölsa, osmolyar çiqariliş tezligi 0,6 mOsm/min (600 mOsm/L × 0,001 L/min) ni, osmolyar klirens esa 0,6 mOsm/min ni 300 mOsm/L ga bölinganiga, ya’ni 0,002 L/min (2,0 ml/min) ni taşkil qiladi. Bu har daqiqada 2 millilitr plazma erigan moddalardan tozalanayotganini anglatadi."
+  },
+  "ch29-f92": {
+   "text": "_Erkin suv klirensi_ (CH2O) suv çiqarilişi (siydik oqimi tezligi) bilan osmolyar klirens örtasidagi farq sifatida hisoblanadi:"
+  },
+  "ch29-f93": {
+   "text": "Posm Demak, erkin suv klirensi tezligi buyraklarning erigan moddalardan xoli suvni çiqariş tezligini ifodalaydi. Erkin suv klirensi musbat bölganda buyraklar ortiqça suvni çiqaradi; erkin suv klirensi manfiy bölganda esa buyraklar ortiqça erigan moddalarni qondan çiqarib yuboradi va suv tejaladi."
+  },
+  "ch29-f94": {
+   "text": "Yuqorida muhokama qilingan misoldan foydalansak, agar siydik oqimi tezligi 1 ml/min va osmolyar klirens 2 ml/min bölsa, erkin suv klirensi –1 ml/min ga teng böladi. Bu şuni anglatadiki, suv buyraklar orqali erigan moddalarga nisbatan ortiqça çiqariliş örniga, aslida buyraklar suvni sistemali qon aylanişiga qaytarmoqda; bu suv yetişmovçiligida kuzatiladi. _Demak_, _siydik osmolyarligi plazma osmolyarligidan yuqori bölgan har qanday holatda_, _erkin suv klirensi manfiy bölib_, _suv tejalayotganini körsatadi._"
+  },
+  "ch29-f95": {
+   "text": "Buyraklar suyultirilgan siydik hosil qilayotganda (ya’ni siydik osmolyarligi < plazma osmolyarligi) erkin suv klirensi musbat qiymatga ega böladi; bu buyraklar plazmadan suvni erigan moddalarga nisbatan ortiqça çiqarayotganini bildiradi. Şunday qilib, erkin suv klirensi musbat bölganda organizmdan _erkin suv_ deb ataladigan, erigan moddalardan xoli suv yöqotiladi va plazma konsentrlanadi."
+  },
+  "ch29-f96": {
+   "text": "Buyraklarning siydikni tegişliça konsentrlaş yoki suyultiriş qobiliyatining buzilişi quyidagi bir yoki bir neçta özgarişlarda yuzaga kelişi mumkin: 1. _ADG ning nomuvofiq sekretsiyasi._ ADG ning haddan taşqari köp yoki juda kam sekretsiyasi buyraklar orqali suv çiqarilişining buzilişiga olib keladi. 2. _Qarama-qarşi oqim mexanizmining buzilişi._ Siydikni maksimal konsentrlaş qobiliyati uçun giperosmotik mağiz qavati interstitsiysi zarur. ADG qança köp bölmasin, siydikning maksimal konsentratsiyasi mağiz qavati interstitsiysining giperosmolyarlik darajasi bilan çeklanadi. 3. _Distal kanalçalar_, _yiğuvçi kanalçalar_ _va yiğuvçi_"
+  },
+  "ch29-f97": {
+   "text": "_naylarning ADG ga javob bera olmasligi._ ADG hosil bölmasligi: markaziy qandsiz diabet. ADG ning gipofiz orqa bölagida hosil bölmasligi yoki ajralmasligi boş jarohatlari yoki infeksiyalar tufayli yuzaga kelişi yoki tuğma bölişi mumkin. ADG bölmaganda distal kanalça segmentlari suvni reabsorbsiya qila olmagani sababli, _markaziy qandsiz diabet_ deb ataladigan bu holat katta hajmdagi suyultirilgan siydik hosil bölişiga olib keladi; siydik hajmi kuniga 15 L dan oşişi mumkin. Organizmdan haddan taşqari köp suv yöqotilganda bobning keyingi qismida muhokama qilinadigan çanqoq mexanizmlari faollaşadi; şu sababli odam yetarliça suv içsa, organizm suyuqliklaridagi suv miqdori sezilarli kamaymaydi. Bu holatdagi odamlarda klinik jihatdan kuzatiladigan asosiy özgariş — katta hajmdagi suyultirilgan siydik. Biroq suv iste’moli çeklansa, masalan, şifoxona şaroitida suyuqlik iste’moli çeklanganda yoki bemor huşsiz bölganda (masalan, boş jarohati tufayli), oğir suvsizlaniş tezda rivojlanişi mumkin."
+  },
+  "ch29-f98": {
+   "text": "Markaziy qandsiz diabetni davolaş ADG ning sintetik analogi — _desmopressinni_ yuborişdan iborat; u oxirgi distal va yiğuvçi kanalçalarda suv ötkazuvçanligini oşiriş uçun V2 retseptorlariga tanlab ta’sir qiladi. Desmopressin in’eksiya, burun spreyi şaklida yoki oğiz orqali berilişi mumkin va u siydik ajralişini tezda me’yorga qaytaradi."
+  },
+  "ch29-f99": {
+   "text": "Ayrim hollarda ADG ning me’yoriy yoki ortgan darajasi mavjud böladi, ammo buyrak kanalçalari segmentlari unga tegişliça javob bera olmaydi. Özgariş buyraklarning özida bölgani uçun bu holat _nefrogen qandsiz diabet_ deb ataladi. Bu özgariş qarama-qarşi oqim mexanizmining giperosmotik buyrak mağiz qavati interstitsiysini hosil qila olmasligi yoki distal va yiğuvçi kanalçalar hamda yiğuvçi naylarning ADG ga javob bera olmasligi bilan boğliq bölişi mumkin. Har ikki holatda ham katta hajmdagi suyultirilgan siydik hosil böladi; agar suyuqlik iste’moli siydik hajmi qança ortgan bölsa, şunça miqdorda oşirilmasa, bu suvsizlanişga olib keladi.",
+   "lead": "Buyraklarning ADG ga javob bera olmasligi: nefrogen qandsiz diabet."
+  },
+  "ch29-f100": {
+   "text": "Buyrak kasalliklarining köp turlari, ayniqsa buyrak mağiz qavatini şikastlaydiganlari, konsentrlaş mexanizmini buzişi mumkin (batafsilroq muhokama uçun 32-bobga qarang). Şuningdek, Henle qovuzloği funksiyasining buzilişi — masalan, furosemid kabi bu segmentda elektrolitlar reabsorbsiyasini tormozlovçi diuretiklar qöllanilganda — siydikni konsentrlaş qobiliyatini yomonlaştirişi mumkin. Bundan taşqari, litiy (maniakal-depressiv buzilişlarni davolaşda qöllaniladi) va tetratsiklinlar (antibiotik sifatida qöllaniladi) kabi ayrim dorilar nefron distal segmentlarining ADG ga javob beriş qobiliyatini buzişi mumkin."
+  },
+  "ch29-f101": {
+   "text": "Nefrogen qandsiz diabetni markaziy qandsiz diabetdan ADG ning sintetik analogi — desmopressinni yuboriş orqali farqlaş mumkin. Desmopressin in’eksiyasidan keyin 2 soat içida siydik hajmining tez kamaymasligi va siydik osmolyarligining ortmasligi nefrogen qandsiz diabetdan kuçli darak beradi. Nefrogen qandsiz diabetni töğri davolaş — imkon bölsa, asosiy buyrak kasalligini bartaraf etişdir. Gipernatriyemiyani natriyi kam parhez va tiazid diuretigi kabi natriyning buyrak orqali çiqarilişini kuçaytiradigan diuretikni qöllaş orqali ham yumşatiş mumkin."
+  },
+  "ch29-f102": {
+   "text": "Hujayradan taşqari suyuqlik osmolyarligi va natriy konsentratsiyasining boşqarilişi"
+  },
+  "ch29-f103": {
+   "text": "Hujayradan taşqari suyuqlik osmolyarligi va natriy konsentratsiyasining boşqarilişi özaro çambarças boğliq, çunki natriy hujayradan taşqari bölinmadagi eng köp miqdordagi iondir. Plazmadagi natriy konsentratsiyasi me’yorda 140–145 mEq/L ning tor çegaralarida boşqariladi, örtaça konsentratsiyasi taxminan 142 mEq/L. Osmolyarlik örtaça taxminan 300 mOsm/L (ionlararo tortişişga tuzatiş kiritilganda ≈282 mOsm/L) bölib, kamdan-kam hollarda ±2–3% dan ortiq özgaradi. 25-bobda muhokama qilinganidek, bu körsatkiçlar aniq boşqarilişi kerak, çunki ular suyuqlikning hujayra içi va hujayradan taşqari bölinmalar örtasida taqsimlanişini belgilaydi."
+  },
+  "ch29-f104": {
+   "text": "Plazma osmolyarligini plazmadagi natriy konsentratsiyasi asosida baholaş"
+  },
+  "ch29-f105": {
+   "text": "Köpçilik klinik laboratoriyalarda plazma osmolyarligi muntazam ölçanmaydi. Biroq natriy va u bilan boğliq anionlar hujayradan taşqari bölinmadagi erigan moddalarning taxminan 94% ini taşkil qilgani sababli, plazma osmolyarligini (Posm) plazmadagi natriy konsentratsiyasi (PNa+) asosida quyidagiça taxminiy baholaş mumkin:"
+  },
+  "ch29-f106": {
+   "text": "Masalan, plazmadagi natriy konsentratsiyasi 142 mEq/L bölganda bu formula böyiça plazma osmolyarligi taxminan 298 mOsm/L deb baholanadi. Aniqroq bölişi uçun, ayniqsa buyrak kasalliklari bilan keçadigan holatlarda, odatda yana ikki erigan modda — glukoza va moçevinaning plazmadagi konsentratsiyalari (mmol/L birliklarida) hissasi ham qöşiladi: Posm = 2 × [PNa+, mmol/L] + [Pglucose, mmol/L] + [Purea, mmol/L]"
+  },
+  "ch29-f107": {
+   "text": "Plazma osmolyarligining bunday baholari odatda bevosita ölçangan qiymatlardan bir neça foiz doirasida aniq böladi."
+  },
+  "ch29-f108": {
+   "text": "Me’yorda natriy ionlari va ular bilan boğliq anionlar (asosan bikarbonat va xlorid) hujayradan taşqari osmollarning taxminan 94% ini, glukoza va moçevina esa umumiy osmollarning taxminan 3–5% ini taşkil qiladi. Biroq moçevina köpçilik hujayra membranalaridan oson ötgani sababli barqaror holat şaroitida u juda kam _samarali_ osmotik bosim hosil qiladi. Şu sababli hujayradan taşqari suyuqlikdagi natriy ionlari va ular bilan boğliq anionlar suyuqlikning hujayra membranasi orqali harakatini belgilovçi asosiy omillardir. Binobarin, osmolyarlikning boşqarilişi va natriy ionlari konsentratsiyasining boşqarilişini bir vaqtda muhokama qilişimiz mumkin."
+  },
+  "ch29-f109": {
+   "text": "Buyraklar orqali natriy va suv çiqarilişining _miqdorini_ köplab mexanizmlar boşqarsa-da, hujayradan taşqari suyuqlikdagi natriy _konsentratsiyasi_ va osmolyarlikni boşqarişda ayniqsa ikki asosiy tizim iştirok etadi: (1) osmoretseptor-ADG tizimi; (2) çanqoq mexanizmi."
+  },
+  "ch29-f110": {
+   "text": "Osmoretseptor-ADG teskari aloqa tizimi"
+  },
+  "ch29-f111": {
+   "text": "**Rasm 29-9** da hujayradan taşqari suyuqlikdagi natriy konsentratsiyasi va osmolyarlikni boşqaruvçi osmoretseptor-ADG teskari aloqa tizimining asosiy tarkibiy qismlari körsatilgan. Masalan, suv yetişmasligi tufayli osmolyarlik me’yordan oşganda bu teskari aloqa tizimi quyidagiça işlaydi: 1. Hujayradan taşqari suyuqlik osmolyarligining ortişi (amalda bu plazmadagi natriy konsentratsiyasining ortişini anglatadi) _gipotalamusning oldingi qismida_ supraoptik yadrolar yaqinida joylaşgan _osmoretseptor hujayralar_ deb ataladigan maxsus nerv hujayralarining burişişiga sabab böladi. 2. Osmoretseptor hujayralarning burişişi ularning impuls hosil qilişiga sabab böladi va ular supraoptik yadrolardagi boşqa nerv hujayralariga nerv signallarini yuboradi; bu hujayralar esa signallarni gipofiz oyoqçasi böylab pastga, gipofizning orqa bölagiga uzatadi. 3. Gipofiz orqa bölagiga ötkazilgan bu harakat potensiallari nerv uçlaridagi sekretor granulalarda (yoki pufakçalarda) saqlanadigan ADG ning ajralişini rağbatlantiradi. 4. ADG qon oqimiga tuşadi va buyraklarga yetkaziladi, u yerda oxirgi distal kanalçalar, pöstloq yiğuvçi kanalçalari va mağiz qavati yiğuvçi naylarining suv ötkazuvçanligini oşiradi."
+  },
+  "ch29-f113": {
+   "text": "5. Nefronning distal segmentlarida suv ötkazuvçanligining ortişi suv reabsorbsiyasining kuçayişiga va kiçik hajmdagi konsentrlangan siydik çiqarilişiga sabab böladi. Şunday qilib, natriy va boşqa erigan moddalar siydik bilan çiqarilişda davom etgan holda suv tejaladi. Bu hujayradan taşqari suyuqlikdagi erigan moddalarning suyulişiga sabab böladi va şu tariqa hujayradan taşqari suyuqlikning dastlabki haddan taşqari konsentrlanganligini tuzatadi."
+  },
+  "ch29-f114": {
+   "text": "Hujayradan taşqari suyuqlik haddan taşqari suyultirilgan (gipoosmotik) bölib qolganda hodisalar teskari tartibda keçadi. Masalan, ortiqça suv içilganda va hujayradan taşqari suyuqlik osmolyarligi pasayganda kamroq ADG hosil böladi, buyrak kanalçalarining suv ötkazuvçanligi pasayadi, kamroq suv reabsorbsiyalanadi va katta hajmdagi suyultirilgan siydik hosil böladi. Bu, öz navbatida, organizm suyuqliklarini konsentrlaydi va plazma osmolyarligini me’yorga qaytaradi."
+  },
+  "ch29-f115": {
+   "text": "ADG ning gipotalamusning supraoptik va paraventrikulyar yadrolarida sintezlanişi va gipofiz orqa bölagidan ajralişi"
+  },
+  "ch29-f116": {
+   "text": "**Rasm 29-10** da ADG sintezlanadigan va ajraladigan gipotalamus va gipofizning neyroanatomiyasi körsatilgan. Gipotalamusda _gipotalamusning supraoptik va paraventrikulyar yadrolarida ADG ni sintezlovçi ikki xil magnotsellyulyar_ (yirik) _neyronlar_ mavjud; ADG ning taxminan oltidan beş qismi supraoptik yadrolarda, oltidan bir qismi esa paraventrikulyar yadrolarda sintezlanadi. Bu ikkala yadro gipofiz orqa bölagiga boruvçi akson ösimtalariga ega. ADG sintezlangaç, u neyronlarning aksonlari böylab ularning gipofiz orqa bölagida tugaydigan uçlariga taşiladi. Supraoptik va paraventrikulyar yadrolar osmolyarlik ortişi yoki boşqa omillar ta’sirida qözğalganda nerv impulslari bu nerv uçlariga tuşib, ularning membrana ötkazuvçanligini özgartiradi va kalsiy kirişini oşiradi. Nerv uçlarining sekretor granulalarida (ular _pufakçalar_ deb ham ataladi) saqlanadigan ADG kalsiy kirişining ortişiga javoban ajraladi. Ajralgan ADG söngra gipofiz orqa bölagining kapillyar qoni bilan sistemali qon aylanişiga olib ketiladi. Osmotik stimulga javoban ADG sekretsiyasi tez sodir böladi, şuning uçun plazmadagi ADG darajasi bir neça daqiqa içida bir neça baravar ortişi mumkin; bu buyrak orqali suv çiqarilişini tez özgartiriş vositasini ta’minlaydi."
+  },
+  "ch29-f118": {
+   "text": "Osmolyarlik va ADG sekretsiyasini boşqarişda muhim bölgan ikkinçi neyron sohasi _uçinçi qorinçaning oldingi-ventral sohasi_ böylab joylaşgan bölib, _AV3V sohasi_ deb ataladi. Bu sohaning yuqori qismida _subfornikal organ_ deb ataladigan tuzilma, pastki qismida esa _terminal plastinkaning_ _tomirli organi_ (organum vasculosum laminae terminalis) deb ataladigan boşqa tuzilma joylaşgan. Bu ikki organ orasida _medial preoptik yadro_ joylaşgan bölib, u ikkala organ bilan, şuningdek supraoptik yadrolar va uzunçoq miyadagi qon bosimini boşqariş markazlari bilan köplab nerv aloqalariga ega. AV3V sohasining şikastlanişi ADG sekretsiyasi, çanqoq, natriyga iştaha va qon bosimini boşqarişda köplab buzilişlarga sabab böladi. Bu sohaning elektr stimulyatsiyasi yoki angiotenzin II bilan qözğatilişi ADG sekretsiyasi, çanqoq va natriyga iştahani oşirişi mumkin."
+  },
+  "ch29-f119": {
+   "text": "AV3V sohasi va supraoptik yadrolar yaqinida hujayradan taşqari suyuqlik osmolyarligining kiçik ortişi bilan qözğaladigan neyron hujayralar joylaşgan; şu sababli bu neyronlarni tasvirlaş uçun _osmoretseptorlar_ atamasi qöllanilgan. Bu hujayralar supraoptik yadrolarga ularning impuls hosil qilişi va ADG sekretsiyasini boşqaruvçi nerv signallarini yuboradi. Ular hujayradan taşqari suyuqlik osmolyarligining ortişiga javoban çanqoqni ham yuzaga keltirsa kerak."
+  },
+  "ch29-f120": {
+   "text": "Subfornikal organ ham, terminal plastinkaning tomirli organi ham köpçilik ionlarning qondan miya töqimasiga diffuziyalanişiga tösqinlik qiladigan odatiy gematoensefalik tösiqqa ega bölmagan qon ta’minotiga ega. Bu xususiyat ionlar va boşqa erigan moddalarning bu sohada qon bilan mahalliy interstitsial suyuqlik örtasida ötişiga imkon beradi. Natijada, keyinroq muhokama qilinganidek, osmoretseptorlar hujayradan taşqari suyuqlik osmolyarligining özgarişlariga tez javob beradi va ADG sekretsiyasi hamda çanqoq ustidan kuçli nazorat örnatadi."
+  },
+  "ch29-f121": {
+   "text": "Arterial bosim pasayişi va/yoki qon hajmi kamayişi ta’sirida ADG ajralişining rağbatlantirilişi"
+  },
+  "ch29-f150": {
+   "text": "Soğlom odamda suvsizlanişning doimiy qiyinçiliklariga qaramay, osmoreseptor-ADH va çanqoqlik mexanizmlari hujayradan taşqari suyuqlik osmolyarligi hamda natriy konsentratsiyasini aniq boşqariş uçun parallel ravişda işlaydi. Yuqori tuz iste’moli kabi qöşimça qiyinçiliklarda ham bu teskari aloqa tizimlari odatda plazma osmolyarligini yetarliça doimiy saqlab qolişga qodir. **Rasm 29-12** natriy iste’moli normal miqdoridan olti martagaça oşganda, agar ADH va çanqoqlik mexanizmlari ikkalasi ham normal işlayotgan bölsa, plazma natriy konsentratsiyasiga atigi kiçik ta’sir körsatişini körsatadi."
+  },
+  "ch29-f152": {
+   "text": "Agar ADH yoki çanqoqlik mexanizmi buzilsa, odatda ikkinçisi kundalik majburiy siydik hajmini hamda nafas oliş, terlaş yoki me’da-içak yöllari orqali yöqotiladigan suv yöqotişlarini qoplaş uçun yetarli miqdorda suyuqlik iste’moli mavjud ekan, hujayradan taşqari suyuqlik osmolyarligi va natriy konsentratsiyasini yetarli darajada samaradorlik bilan boşqarişda davom eta oladi. Biroq, agar ADH va çanqoqlik mexanizmlari bir vaqtning özida işdan çiqsa, plazma natriy konsentratsiyasi va osmolyarligi yomon boşqariladi. Şunday qilib, umumiy ADH-çanqoqlik tizimi bloklangandan keyin natriy iste’moli oşganda, plazma natriy konsentratsiyasida nisbatan katta özgarişlar yuzaga keladi. ADH-çanqoqlik mexanizmlari bölmaganda, boşqa heç qanday teskari aloqa mexanizmi plazma natriy konsentratsiyasi va osmolyarligini yetarli darajada boşqarişga qodir emas."
+  },
+  "ch29-f153": {
+   "text": "28-bobda muhokama qilinganidek, angiotenzin II ham, aldosteron ham buyrak nayçalari tomonidan natriy reabsorbsiyasini boşqarişda muhim rol öynaydi. Natriy iste’moli past bölganda, uşbu gormonlarning yuqori darajalari buyraklar tomonidan natriy reaksiyasini (reabsorbsiyasini) rağbatlantiradi va hatto natriy iste’moli normal miqdorining 10% gaça kamaygan taqdirda ham katta natriy yöqotilişining oldini oladi. Aksinça, yuqori natriy iste’moli bilan uşbu gormonlarning kamaygan hosil bölişi buyriklarga katta miqdordagi natriy çiqarib yuboriş imkonini beradi."
+  },
+  "ch29-f154": {
+   "text": "Angiotenzin II va aldosteronning buyraklar orqali natriy çiqarilişini boşqarişdagi muhimligi tufayli, ular hujayradan taşqari suyuqlikning natriy konsentratsiyasini boşqarişda ham asosiy rol öynaydi deb notöğri xulosa qiliş mumkin. Garçi bu gormonlar hujayradan taşqari suyuqlikdagi natriy _miqdorini_ oşirsa-da, ular natriy bilan birga suv reabsorbsiyasini oşiriş orqali hujayradan taşqari suyuqlik hajmini ham oşiradi. Şuning uçun, _angiotenzin II va aldosteron öta oğir şaroitlardan taşqari, natriy konsentratsiyasiga ozgina ta’sir körsatadi._"
+  },
+  "ch29-f155": {
+   "text": "Aldosteronning hujayradan taşqari suyuqlik natriy konsentratsiyasini boşqarişdagi nisbatan ahamiyatsizligi **Rasm 29-13**da keltirilgan tajriba bilan körsatilgan. Uşbu rasmda natriy iste’molini ikki şaroitda olti martadan köproq özgartirişning plazma natriy konsentratsiyasiga ta’siri körsatilgan: (1) normal şaroitda; va (2) buyrak usti bezlarini olib taşlaş va hayvonlarga aldosteronni doimiy tezlikda yuboriş orqali aldosteron teskari aloqa tizimi bloklangandan söng, plazma darajalari ortib yoki kamayib keta olmasligi uçun. E’tibor bering, natriy iste’moli olti marta oşirilganda, ikkala holatda ham plazma konsentratsiyasi faqatgina 1% dan 2% gaça özgargan. Bu topilma şuni körsatadiki, hatto funksional aldosteron teskari aloqa tizimisiz ham plazma natriy konsentratsiyasi yaxşi boşqarilişi mumkin. Xuddi şunday turdagi tajriba angiotenzin II hosil bölişi bloklangandan keyin ham ötkazilgan va natija bir xil çiqqan."
+  },
+  "ch29-f157": {
+   "text": "Angiotenzin II va aldosteron özgarişlari plazma natriy konsentratsiyasiga sezilarli ta’sir körsatmasligining ikkita asosiy sababi bor. Birinçidan, oldin muhokama qilinganidek, angiotenzin II va aldosteron buyrak nayçalari tomonidan ham natriy, ham suv reabsorbsiyasini oşiradi, bu esa hujayradan taşqari suyuqlik hajmining va natriy _miqdorining_ oşişiga olib keladi, ammo natriy _konsentratsiyasini_ ozgina özgartiradi. Ikkinçidan, ADH-çanqoqlik mexanizmi funksional ekan, plazma natriy konsentratsiyasining oşişiga bölgan har qanday moyillik ortib borayotgan suv iste’moli yoki hujayradan taşqari suyuqlikni normaga qarab suyultirişga moyil bölgan plazma ADH sekretsiyasining kuçayişi bilan qoplanadi. Normal şaroitda natriy konsentratsiyasini boşqariş uçun ADH-çanqoqlik tizimi angiotenzin II va aldosteron tizimlaridan ança ustun turadi. Hatto aldosteronning haddan taşqari yuqori darajalariga ega bölgan _birlamçi aldosteronizm_ bilan oğrigan bemorlarda ham plazma natriy konsentratsiyasi odatda normal miqdordan faqat 3–5 mEq/L gaça yuqori böladi."
+  },
+  "ch29-f158": {
+   "text": "Buyrak usti bezlarini olib taşlaş (adrenalektomiya) natijasida aldosteron sekretsiyasining butunlay yöqolişi yoki Addison kasalligiga çalingan bemorlarda (sekretsiyaning keskin buzilişi yoki aldosteronning butunlay yöqligi) yuzaga keladigan öta oğir şaroitlarda, buyraklar tomonidan natriydigan ulkan yöqotiş sodir böladi, bu plazma natriy konsentratsiyasining sezilarli darajada kamayişiga olib kelişi mumkin. Buning sabablaridan biri şundaki, natriyning katta yöqotilişi oxir-oqibat oğir hajm tanqisligiga va qon bosimining pasayişiga olib keladi, bu yurak-qon tomir reflekslari orqali çanqoqlik mexanizmini faollaştirişi mumkin. Bu faollaşuv, ortib borayotgan suv iste’moli uşbu şaroitda tana suyuqliklari hajmining kamayişini minimallaştirişga yordam bersa ham, plazma natriy konsentratsiyasining yana-da suyultirilişiga olib keladi."
+  },
+  "ch29-f159": {
+   "text": "Şunday qilib, funksional ADH-çanqoqlik mexanizmi mavjud bölganda ham plazma natriy konsentratsiyasi sezilarli darajada özgarişi mumkin bölgan öta oğir vaziyatlar mavjud. Şunga qaramay, ADH-çanqoqlik mexanizmi hujayradan taşqari suyuqlik osmolyarligi va natriy konsentratsiyasini nazorat qiliş uçun tanadagi eng kuçli teskari aloqa tizimi hisoblanadi."
+  },
+  "ch29-f160": {
+   "text": "Normal hujayradan taşqari suyuqlik hajmi va natriy konsentratsiyasini saqlab turiş natriy çiqarilişi va natriy iste’moli örtasidagi muvozanatni talab qiladi. Hozirgi vaqtda natriy iste’moli deyarli har doim gomeostaz uçun zarur bölganidan köproqdir. Aslida, sanoatlaşgan madaniyatdagi qayta işlangan ovqatlarni iste’mol qiladigan odamlar uçun örtaça natriy iste’moli odatda kuniga 100 va 200 mEq orasida özgarib turadi, garçi odamlar kuniga atigi 10–20 mEq iste’mol qilgan holda ham omon qolişi va normal faoliyat yuritişi mumkin. Şunday qilib, köpçilik odamlar gomeostaz uçun zarur bölganidan köra köproq natriy iste’mol qiladilar va dalillar şuni körsatadiki, bizning odatdagi yuqori natriy iste’molimiz gipertoniya kabi yurak-qon tomir kasalliklariga yordam berişi mumkin."
+  },
+  "ch29-f161": {
+   "text": "Tuzga bölgan iştaha qisman hayvonlar va odamlar tuzni yaxşi körişi va tuz tanqisligidan qat’i nazar uni iste’mol qilişlari bilan boğliq. Tuzga bölgan iştahada, şuningdek, tanada natriy tanqisligi mavjud bölganda tuzni oliş uçun xulq-atvoriy turtki böladigan regulyator komponent ham mavjud. Uşbu xulq-atvoriy turtki, tabiiy ravişda past natriyli parhez bilan oziqlanadigan ötxör hayvonlarda ayniqsa muhimdir, ammo tuzga bölgan talab odamlarda ham, ayniqsa Addison kasalligida yuzaga keladigan natriyning öta tanqisligiga uçraganlarda muhim bölişi mumkin. Bunday holda, siydikda natriyding haddan taşqari yöqotilişiga sabab böladigan va hujayradan taşqari suyuqlik hajmining pasayişiga hamda natriy konsentratsiyasining pasayişiga olib keladigan aldosteron sekretsiyasining yetişmovçiligi mavjud; bu özgarişlarning ikkalasi ham tuzga bölgan istakni keltirib çiqaradi."
+  },
+  "ch29-f162": {
+   "text": "_Umuman olganda, tuzga bölgan iştahani oşiradigan asosiy qözğatuvçilar natriy tanqisligi hamda qon aylanişining yetişmovçiligi bilan boğliq bölgan kamaygan qon hajmi yoki pasaygan qon bosimi bilan boğliq bölganlardir._"
+  },
+  "ch29-f163": {
+   "text": "Tuzga bölgan iştahaning neyron mexanizmi çanqoqlik mexanizmiga öxşaşdir. Miyaning AV3V sohasidagi ba’zi bir xil neyron markazlari şuğullanadiganga öxşaydi, çunki bu sohadagi zararlar köpinça hayvonlarda çanqoqlik va tuzga bölgan iştahani bir vaqtning özida ta’sir qiladi. Şuningdek, past qon bosimi yoki kamaygan qon hajmi keltirib çiqaradigan qon aylaniş reflekslari bir vaqtning özida çanqoqlikka ham, tuzga bölgan iştahaga ham ta’sir qiladi."
+  },
+  "ch29-f122": {
+   "text": "ADH ajralişi, şuningdek, qon bosimi va/yoki qon hajmining pasayişiga javob beruvçi yurak-qon tomir reflekslari bilan ham boşqariladi, ularga quyidagilar kiradi: (1) _arterial baroretseptor reflekslari_; va (2) _kardiopulmonar reflekslar_, bularning ikkalasi ham 18-bobda muhokama qilingan. Uşbu refleks yöllari qon aylanişining yuqori bosimli hududlari, masalan, aorta ravoği va karotid sinusda hamda past bosimli hududlari, xususan, yurak bölmaçalarida boşlanadi. Afferent stimullar adaşgan va til-halqum nervlari orqali olib borilib, yakka yöl yadrolarida sinaps hosil qiladi. Uşbu yadrolardan çiquvçi tolalar ADH sintezi va sekretsiyasini boşqaruvçi gipotalamus yadrolariga signallarni uzatadi."
+  },
+  "ch29-f123": {
+   "text": "Şunday qilib, oşgan osmolyarlikdan taşqari, yana ikkita omil ADH sekretsiyasini oşiradi: (1) pasaygan arterial bosim; va (2) pasaygan qon hajmi. Qon bosimi va qon hajmi kamayganda, masalan, qon ketiş paytida, ADH sekretsiyasining kuçayişi buyraklar tomonidan suyuqlik reabsorbtsiyasini oşiradi, bu esa qon bosimi va qon hajmini normal holatga qaytarişga yordam beradi."
+  },
+  "ch29-f124": {
+   "text": "ADH sekretsiyasini rağbatlantirişda osmolyarlik va yurak-qon tomir reflekslarining miqdoriy ahamiyati"
+  },
+  "ch29-f125": {
+   "text": "**Rasm 29-11**da körsatilganidek, samarali qon hajmining pasayişi yoki hujayradan taşqari suyuqlik osmolyarligining oşişi ADH sekretsiyasini rağbatlantiradi. Biroq, ADH osmolyarlikning kiçik özgarişlariga qon hajmidagi şunga öxşaş foizli özgarişlarga qaraganda sezilarli darajada sezgirroqdir. Masalan, plazma osmolyarligining atigi 1% ga özgarişi ADH darajasini oşiriş uçun yetarli böladi. Aksinça, qon yöqotilgandan söng, qon hajmi taxminan 10% ga kamaymagunça plazma ADH darajasi sezilarli darajada özgarmaydi. Qon hajmining yanada pasayişi bilan ADH darajasi tezda oşadi. Şunday qilib, qon hajmining keskin pasayişi bilan yurak-qon tomir reflekslari ADH sekretsiyasini rağbatlantirişda asosiy rol öynaydi. Oddiy suvsizlaniş paytida ADH sekretsiyasining odatiy kunlik boşqaruvi asosan plazma osmolyarligining özgarişi orqali amalga oşiriladi. Biroq, qon hajmi va qon bosimining pasayişi oşgan osmolyarlikka ADH javobini sezilarli darajada kuçaytiradi."
+  },
+  "ch29-f127": {
+   "text": "ADH SEKREKSIYASINING BOSHQA STIMULLARI"
+  },
+  "ch29-f128": {
+   "text": "**Jadval 29-2**da körsatilganidek, ADH sekretsiyasi markaziy asab tizimining boşqa stimullari, şuningdek turli dorilar va gormonlar ta’sirida ham oşişi yoki kamayişi mumkin. Masalan, _köngil aynişi_ ADH ajralib çiqişining kuçli stimuli bölib, qusgandan keyin u normal miqdoridan 100 martagaça ortişi mumkin. Şuningdek, _nikotin_ va _morfin_ kabi dorilar ADH ajralişini rağbatlantirsa, _alkogol_ kabi ayrim dorilar ADH ajralişini tormozlaydi. Alkogol iste’mol qilingandan keyin yuzaga keladigan yaqqol diurez qisman ADH ajralişining tormozlanişi bilan boğliq."
+  },
+  "ch29-f130": {
+   "text": "HUJAYRADAN TASHQARI SUYUQLIK OSMOLYARLIGI VA NATRIY KONSENTRATSIYASINI BOSHQARISHDA CHANGASHLIKNING AHAMIYATI"
+  },
+  "ch29-f131": {
+   "text": "Buyraklar osmoretseptor-ADH teskari aloqa tizimi orqali suv tanqisligi paytida suyuqlik yöqotilişini minimallaştiradi. Biroq, terlaş, nafas oliş va me’da-içak trakti orqali sodir böladigan suyuqlik yöqotilişini qoplaş uçun yetarli miqdorda suyuqlik iste’mol qiliş zarur. Suyuqlik iste’moli çangaşlik mexanizmi tomonidan boşqariladi, u osmoretseptor-ADH mexanizmi bilan birgalikda hujayradan taşqari suyuqlik osmolyarligi va natriy konsentratsiyasining aniq nazoratini ta’minlaydi."
+  },
+  "ch29-f132": {
+   "text": "ADH sekretsiyasini rağbatlantiradigan köpçilik omillar suvga bölgan ongli istak sifatida ta’riflanadigan çangaşlikni ham oşiradi."
+  },
+  "ch29-f133": {
+   "text": "CHANGASHLIK UCHUN MARKAZIY ASAB TIZIMI MARKAZLARI"
+  },
+  "ch29-f134": {
+   "text": "Yana **Rasm 29-10**ga murojaat qilsak, uçinçi qorinçaning anteroventral devori böylab ADH ajralişini rağbatlantiradigan öşa sohaning özi çangaşlikni ham qözğatadi. Oldingi-taşqi qismda preoptik yadroda yana bitta kiçik soha joylaşgan bölib, u elektr orqali qözğatilganda, stimulyatsiya davom etganiça davom etadigan darhol içişni keltirib çiqaradi. Barça bu sohalar birgalikda _çangaşlik markazi_ deb ataladi."
+  },
+  "ch29-f135": {
+   "text": "Çangaşlik markazining neyronlari gipertonik tuz eritmalarining yuborilişiga içiş xulq-atvorini rağbatlantiriş bilan javob beradi. Bu hujayralar deyarli aniq ravişda osmoretseptorlar kabi işlaydi va osmoretseptorlar ADH ajralişini qanday rağbatlantirsa, xuddi şunday çangaşlik mexanizmini faollaştiradi."
+  },
+  "ch29-f136": {
+   "text": "Uçinçi qorinçadagi miya-parda suyuqligining oşgan osmolyarligi içişni rağbatlantirişda deyarli bir xil ta’sir körsatadi. AV3V hududining pastki uçidagi qorinça yuzasi ostida darhol joylaşgan _lamina terminalisning tomirli organi_ (organum vasculosum of the lamina terminalis) uşbu javobni vositalaşda yaqindan qatnaşişi ehtimoli bor."
+  },
+  "ch29-f137": {
+   "text": "**Jadval 29-3**da çangaşlikning ba’zi ma’lum stimullari umumlaştirilgan. 1. _Eng muhimlaridan biri hujayradan taşqari_"
+  },
+  "ch29-f139": {
+   "text": "_suyuqlik osmolyarligining oşişi bölib, u çangaşlik markazlarida hujayra içki suvsizlanişini keltirib çiqaradi,_ şu tariqa çangaşlik hissini rağbatlantiradi. Uşbu javobning ahamiyati ravşan: u hujayradan taşqari suyuqliklarni suyultirişga yordam beradi va osmolyarlikni normal holatga qaytaradi. 2. _Hujayradan taşqari suyuqlik hajmi va arterial_ _bosimning pasayişi ham çangaşlikni rağbatlantiradi,_ bunda plazma osmolyarligining oşişi bilan rağbatlantiriladigan yöldan mustaqil bölgan yöl işlatiladi. Şunday qilib, qon ketişi natijasida qon hajmining yöqolişi, plazma osmolyarligida heç qanday özgariş bölmasa ham, çangaşlikni qözğatadi. Bu stimulyatsiya ehtimol qon aylanişidagi kardiopulmonar va tizimli arterial baroretseptorlardan keladigan neyronal impulslar tufayli yuzaga keladi. 3. _Çangaşlik uçun uçinçi muhim stimul angiotenzin II hisoblanadi._"
+  },
+  "ch29-f141": {
+   "text": "Hayvonlarda ötkazilgan tadqiqotlar şuni körsatdiki, angiotenzin II subfornikal organga va lamina terminalisning tomirli organiga ta’sir qiladi. Bu hududlar qon-miya tösiğidan taşqarida joylaşgan bölib, angiotenzin II kabi peptidlar töqimalarga diffuziyalanadi. Angiotenzin II şuningdek gipovolemiya va past qon bosimi bilan boğliq omillar tomonidan rağbatlantirilgani sababli, uning çangaşlikka ta’siri angiotenzinning buyraklarga suyuqlik çiqarilişini kamaytiruvçi boşqa ta’sirlari bilan birgalikda qon hajmi va qon bosimini normal holatga qaytarişga yordam beradi. 4. _Oğiz böşliği va qizilöngaç şilliq qavatlarining quruqligi çangaşlik hissiyotini keltirib çiqarişi mumkin._ Natijada, çangagan odam suv içganidan keyin deyarli darhol çangaşlikdan qutulişi mumkin, garçi suv me’da-içak traktidan sörilmagan bölsa ham va hali hujayradan taşqari suyuqlik osmolyarligiga ta’sir körsatmagan bölsa ham. 5. _Me’da-içak va halqum stimullari çangaşlikka ta’sir qiladi._"
+  },
+  "ch29-f143": {
+   "text": "Suv heç qaçon qonga sörilmasligi uçun qizilöngaç teşigi taşqariga çiqarilgan hayvonlarda suv içgandan keyin çangaşlikning qisman yöqolişi yuz beradi, garçi bu yengillik faqat vaqtinça bölsa ham. Şuningdek, me’da-içak trakti damlanişi (kengayişi) çangaşlikni qisman bartaraf etişi mumkin; masalan, oşqozonga şarlar kiritib şişirişning öziyoq çangaşlikni qoldirişi mumkin. Biroq, me’da-içak yoki halqum mexanizmlari orqali çangaşlik hissiyotining qoldirilişi qisqa muddatli böladi; içiş istagi faqat plazma osmolyarligi va/yoki qon hajmi normal holatga qaytgandagina töliq qondiriladi."
+  },
+  "ch29-f144": {
+   "text": "Hayvonlar va odamlarning suyuqlik iste’molini “ölçab” turiş qobiliyati muhim ahamiyatga ega, çunki u gipergidratatsiyaning oldini oladi. Odam suv içganidan keyin, suvning sörilişi va butun tana böylab taqsimlanişi uçun 30 dan 60 daqiqagaça vaqt ketişi mumkin. Agar suv içilgandan keyin çangaşlik hissiyoti vaqtinça qolmasa edi, odam köproq va köproq içişni davom ettirar edi, bu oxir-oqibat gipergidratatsiyaga va tana suyuqliklarining ortiqça suyultirilişiga olib kelgan bölardi. Eksperimental tadqiqotlar şuni körsatdiki, hayvonlar plazma osmolyarligi va hajmini normal holatga qaytariş uçun zarur bölgan miqdorni deyarli aniq miqdorda içadilar."
+  },
+  "ch29-f145": {
+   "text": "Içişning osmotik stimuli uçun ostonaviy qiymat"
+  },
+  "ch29-f146": {
+   "text": "Buyraklar iste’mol qilingan yoki metabolizm natijasida hosil bölgan ortiqça eritmalardan tanani xalos qiliş uçun, hatto suvsizlangan odamda ham doimiy ravişda majburiy miqdordagi suvni çiqarib turişi şart. Suv, şuningdek, öpka va me’da-içak traktidan hamda terining buğlanişi va terlaş orqali ham yöqotiladi. Şuning uçun, har doim suvsizlanişga moyillik mavjud bölib, buning natijasida hujayradan taşqari suyuqlikdagi natriy konsentratsiyasi va osmolyarligi oşadi."
+  },
+  "ch29-f147": {
+   "text": "Natriy konsentratsiyasi normadan atigi 2 mEq/L atrofida oşganda, çangaşlik mexanizmi faollaşib, suv içiş istagini keltirib çiqaradi. Bu _içiş ostonasi_ deb ataladi. Şuning uçun, plazma osmolyarligining kiçik özgarişlari ham odatda suv iste’mol qilinişiga olib keladi, bu esa hujayradan taşqari suyuqlik osmolyarligi va hajmini normal holatga qaytaradi. Şu tarzda, hujayradan taşqari suyuqlik osmolyarligi va natriy konsentratsiyasi aniq boşqariladi."
+  },
+  "ch29-f149": {
+   "text": "Osmoretseptor-ADH va çangaşlik mexanizmlarining özaro muvofiqlaşgan javob xususiyatlari"
+  },
+  "ch29-f140": {
+   "text": "_Bosimning pasayişi ham çanqoqni qözğatadi._ Bu ta’sir plazma osmolyarligi ortganda işga tuşadigan yöldan mustaqil. Şu sababli qon ketişi tufayli qon hajmi kamayganda, plazma osmolyarligi özgarmasa ham, çanqoq paydo böladi. Bu ta’sir, ehtimol, yurak-öpka va katta qon aylaniş doirasi arteriyalaridagi baroretseptorlardan keladigan nerv signallari orqali yuzaga çiqadi. 3. _Çanqoqning uçinçi muhim qözğatuvçisi angiotenzin II hisoblanadi._"
+  },
+  "ch29-f142": {
+   "text": "_Qizilöngaçdan keladigan signallar çanqoq hissini uyğotişi mumkin._ Şu bilan birga, çanqagan odam suv içganidan deyarli darhol yengillik sezişi mumkin, garçi suv hali me’da-içak yölidan sörilmagan va hujayradan taşqari suyuqlik osmolyarligiga ta’sir qilmagan bölsa ham. 5. _Me’da-içak yöli va halqumdan keladigan signallar ta’sir körsatadi._"
+  },
+  "ch29-f148": {
+   "lead": "Çanqoq va suv iste’molining buzilişlari.",
+   "text": "Yuqorida aytilganidek, yaxşi nazorat qilinmayotgan qandli diabet yoki qandsiz diabet kabi siydik hajmi ortişi va hujayradan taşqari suyuqlik hajmi kamayişi bilan keçadigan kasalliklarda çanqoq kuçayadi. Bunday hollarda köproq suv içiş plazma osmolyarligining ortişi, hujayradan taşqari suyuqlik hajmining kamayişi yoki har ikkala özgarişga qarşi kompensator javob böladi. _Polidipsiya_, ya’ni haddan taşqari çanqoq, ba’zan çanqoqni qözğatuvçi ma’lum fiziologik omillar bölmaganda ham yuz beradi. Masalan, _psixogen polidipsiya_ şizofreniya yoki obsessiv-kompulsiv buziliş kabi ruhiy kasalliklar oqibatida yuzaga kelib, sezilarli _giponatriyemiyaga_ olib kelişi mumkin. _Adipsiya_, ya’ni gipernatriyemiya yoki suyuqlik hajmi kamayganida ham çanqoq sezilmasligi, kam uçraydi va odatda jarohat, infeksiya yoki jarrohlik tufayli gipotalamusdagi çanqoq markazlari şikastlanişidan kelib çiqadi. Insult ötkazgan bemorlarda, demensiyasi bor keksa bemorlarda yoki ahvoli oğir bemorlarda çanqoq mexanizmi qisman susayib, suv iste’moli yetarli bölmasligi (_gipodipsiya_) yoki bemor suyuqlik içiş imkoniga ega bölmasligi mumkin. Yetarli suv içilmasa, ADH miqdori ança oşganiga qaramay, suvsizlaniş va gipernatriyemiya yuzaga keladi."
+  }
+ },
+ "figures": {
+  "gh14-fig-29-01": "1 litr suv iste’mol qilgan odamda suv diurezi. E’tibor bering, suv iste’mol qilingandan söng, siydik hajmi oşadi va siydik osmolyarligi pasayadi, bu köp miqdordagi suyultirilgan siydik çiqişiga sabab böladi; ammo buyraklar tomonidan çiqariladigan eritilgan moddaning umumiy miqdori nisbatan barqaror bölib qoladi. Buyriklarning uşbu javob reaksiyalari ortiqça suv iste’moli paytida plazma osmolyarligining sezilarli darajada pasayişining oldini oladi.",
+  "gh14-fig-29-02": "Antidiuretik gormon (ADH) darajasi juda past bölganda suyultirilgan siydik hosil bölişi. E’tibor bering, Henle halqasining kötariluvçi qismida nayça suyuqligi juda suyultiriladi. Distal nayçalar va yiğuvçi nayçalarda nayça suyuqligi natriy xloridning reabsorbsiyasi va ADH darajasi juda past bölganda suvni reabsorbsiya qila olmasligi hisobiga yana-da suyultiriladi. Suvni reabsorbsiya qilmaslik va eritilgan moddalarning doimiy reabsorbsiyasi katta hajmdagi suyultirilgan siydikka olib keladi. (Raqamli qiymatlar milliosmollarda litr uçun berilgan.)",
+  "gh14-fig-29-03": "Siydikning soliştirma oğirligi va osmolyarligi örtasidagi boğliqlik.",
+  "gh14-fig-29-04": "Giperosmotik buyrak miya qismini hosil qiliş uçun Henle halqasidagi qarama-qarşi oqimli köpaytiruvçi tizim. (Raqamli qiymatlar milliosmollarda litr uçun berilgan.)",
+  "gh14-fig-29-05": "Antidiuretik gormon (ADH) darajasi yuqori bölganda konsentrlangan siydik hosil bölişi. E’tibor bering, Henle halqasini tark etayotgan suyuqlik suyultirilgan böladi, ammo distal nayçalar va yiğuvçi nayçalardan suv sörilişi bilan konsentratsiyalanadi. Yuqori ADH darajalarida siydikning osmolyarligi papilladagi buyrak miya qismi oraliq suyuqligining osmolyarligi bilan deyarli bir xil böladi, bu taxminan 1200 mOsm/L ni taşkil qiladi. (Raqamli qiymatlar milliosmollarda litr uçun berilgan.)",
+  "gh14-fig-29-06": "Medulla yiğuvçi nayidan interstitsial suyuqlikka sörilgan moçevinaning qayta sirkulyatsiyasi. Bu moçevina Genle halqasining yupqa qismiga diffuziyalanadi, söngra distal nayçalardan ötadi va nihoyat yana yiğuvçi nayga qaytib ötadi. Moçevinaning qayta sirkulyatsiyasi moçevinani buyrak medullasida tutib qolişga yordam beradi va buyrak medullasining giperosmolyarligiga hissa qöşadi. Genle halqasining qalin kötariluvçi qismidan medullar yiğuvçi naylargaça bölgan qalin çiziqlar uşbu segmentlarning moçevinaga unça yaxşi ötkazmasligini körsatadi. UT-A1 va UT-A3 moçevina taşuvçilari moçevinaning medullar yiğuvçi naylardan çiqib ketişiga yordam beradi, UT-A2 esa moçevinaning yupqa tuşuvçi qismiga diffuziyalanişiga kömaklaşadi. (Raqamli qiymatlar antidiuretik gormon köp miqdorda mavjud bölgan antidiurez holatidagi bir litr moçevina uçun milliosmollarda berilgan. Nayçalarda qoladigan moçevinaning filtrlangan yuk foizlari katakçalarda körsatilgan.)",
+  "gh14-fig-29-07": "Vasa rektada qon oqimiga qarşi (protok) almaşinuv. Vasa rektaning tuşuvçi qismidan oqib tuşuvçi plazma suvning qondan çiqib ketişi va erigan moddalarning buyrak interstitsial suyuqligidan qonga diffuziyalanişi tufayli köproq giperosmolyar bölib qoladi. Vasa rektaning kötariluvçi qismida erigan moddalar interstitsial suyuqlikka qayta diffuziyalanadi va suv vasa rektaga qaytib diffuziyalanadi. Vasa rekta kapillyarlarining U şakli bölmaganida, buyrak medullasidan köp miqdorda erigan moddalar yöqolgan bölardi. (Raqamli qiymatlar bir litr uçun milliosmollarda berilgan.)",
+  "gh14-fig-29-08": "Antidiuretik gormonning (ADH) yuqori darajalari mavjud bölganda va ADH bölmaganda nayçali suyuqlikning turli nayçali segmentlardan ötişidagi osmolyarlik özgarişlari. (Raqamli qiymatlar turli nayçali segmentlar böylab oqib ötayotgan suyuqlikning daqiqasiga millilitrlardagi taxminiy hajmlarini yoki bir litr uçun milliosmollardagi osmolyarligini körsatadi.)",
+  "gh14-fig-29-09": "Suv tanqisligiga javoban hujayradan taşqari suyuqlik osmolyarligini boşqariş uçun osmoreseptor-antidiuretik gormon (ADH) teskari aloqa mexanizmi.",
+  "gh14-fig-29-10": "Antidiuretik gormon (ADH) sintez qilinadigan gipotalamusning neyroanatomiyasi va ADH çiqariladigan orqa gipofiz bezi.",
+  "gh14-fig-29-11": "Plasma osmolyarligining oşişi yoki qon hajmining kamayişining plasma (P) antidiuretik gormoni (ADH), şuningdek arginin vazopressin (AVP) deb ham ataladigan gormon darajasiga ta’siri. (Dunn FL, Brennan TJ, Nelson AE va boşqalar: Qon osmolaligi va hajmining kalamuşda vazopressin sekretsiyasini boşqarişdagi roli. J Clin Invest 52[12]:3212, 1973 dan özgartirilgan.)",
+  "gh14-fig-29-12": "Natriy iste’molidagi katta özgarişlarning normal şaroitdagi (qizil çiziq) va antidiuretik gormon (ADH) hamda çanqoqlik teskari aloqa tizimlari bloklangandan keyingi (kök çiziq) itlarda hujayradan taşqari suyuqlikdagi natriy konsentratsiyasiga ta’siri. E’tibor bering, uşbu teskari aloqa tizimlari bölmaganda hujayradan taşqari suyuqlikdagi natriy konsentratsiyasini nazorat qiliş yomon bölgan. (Doktor David B. Young lutfi bilan.)",
+  "gh14-fig-29-13": "Natriy iste’molidagi katta özgarişlarning normal şaroitdagi (qizil çiziq) va aldosteron teskari aloqa tizimi bloklangandan keyingi (kök çiziq) itlarda hujayradan taşqari suyuqlikdagi natriy konsentratsiyasiga ta’siri. E’tibor bering, aldosteron teskari aloqa nazorati bilan yoki usiz natriy konsentratsiyasi natriy iste’molidagi uşbu keng diapazonda nisbatan doimiy saqlanib qolgan. (Doktor David B. Young lutfi bilan.)",
+  "gh14-tab-29-01": "Nayça xarakteristikalari xulosasi — Siydikni konsentratsiyalaş",
+  "gh14-tab-29-02": "Antidiuretik gormon sekretsiyasining boşqarilişi",
+  "gh14-tab-29-03": "Çanqoqlikning boşqarilişi"
+ }
+}

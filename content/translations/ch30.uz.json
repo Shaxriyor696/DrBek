@@ -1,0 +1,546 @@
+{
+ "lessonId": "ch30",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 30,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "manual",
+ "translator": "Claude (DrStudy sessiyasi)",
+ "model": null,
+ "createdAt": "2026-11-18T06:06:44.473Z",
+ "updatedAt": "2026-11-18T06:06:44.474Z",
+ "coverage": {
+  "translated": 181,
+  "total": 181
+ },
+ "note": "Kitob matnining töliq özbekça tarjimasi (qisqartirilmagan). Ekspert tekşiruvidan ötmagan.",
+ "blocks": {
+  "ch30-f0": {
+   "text": "Hujayradan taşqari suyuqlikdagi kaliy konsentratsiyasi va kaliy ekskretsiyasining boşqarilişi"
+  },
+  "ch30-f1": {
+   "text": "Hujayradan taşqari suyuqlikdagi kaliy konsentratsiyasi me’yorda taxminan 4,2 mEq/L darajasida boşqariladi va kamdan-kam hollarda ±0,3 mEq/L dan ortiq kötariladi yoki pasayadi. Bunday aniq nazorat zarur, çunki hujayralarning köplab funksiyalari hujayradan taşqari suyuqlikdagi kaliy konsentratsiyasining özgarişlariga sezgir. Masalan, plazmadagi kaliy konsentratsiyasining atigi 3–4 mEq/L ga oşişi yurak aritmiyalarini keltirib çiqarişi mumkin, undan yuqori konsentratsiyalar esa yurak töxtaşiga yoki fibrillyatsiyaga olib kelişi mumkin."
+  },
+  "ch30-f2": {
+   "text": "Hujayradan taşqari kaliy konsentratsiyasini boşqarişdagi alohida qiyinçilik şundaki, organizmdagi umumiy kaliyning 98% dan ortiği hujayralar içida, faqat 2% i esa hujayradan taşqari suyuqlikda böladi (**Rasm 30-1**). Taxminan 28 litr hujayra içi suyuqligi (tana vaznining 40%) va 14 litr hujayradan taşqari suyuqligi (tana vaznining 20%) bölgan 70 kg vaznli katta yoşli odamda taxminan 3920 mEq kaliy hujayralar içida, atigi 59 mEq ga yaqini esa hujayradan taşqari suyuqlikda böladi. Bundan taşqari, bir mahal ovqatdagi kaliy miqdori 50 mEq gaça yetişi mumkin, sutkalik iste’mol esa odatda 50 dan 200 mEq/sutkagaça böladi; şu sababli iste’mol qilingan kaliyni hujayradan taşqari suyuqlikdan tez çiqarib yubora olmaslik hayot uçun xavfli _giperkaliemiyaga_ (plazmadagi kaliy konsentratsiyasining oşişiga) sabab bölişi mumkin. Xuddi şuningdek, tez va tegişli kompensator javoblar bölmaganda hujayradan taşqari suyuqlikdan kaliyning ozgina yöqotilişi ham oğir _gipokaliemiyaga_ (plazmadagi kaliy konsentratsiyasining pasayişiga) olib kelişi mumkin."
+  },
+  "ch30-f4": {
+   "text": "Kaliyning tuşişi va çiqarilişi örtasidagi muvozanatni saqlaş asosan buyraklar orqali ekskretsiyaga boğliq, çunki najas bilan çiqariladigan miqdor iste’mol qilingan kaliyning atigi 5–10% ini taşkil etadi. Demak, me’yoriy kaliy balansini saqlaş uçun buyraklar kaliy ekskretsiyasini iste’moldagi keng özgarişlarga javoban tez va aniq moslaştirib turişi kerak; bu boşqa köpçilik elektrolitlarga ham taalluqli."
+  },
+  "ch30-f5": {
+   "text": "Kaliyning hujayradan taşqari va hujayra içi bölinmalari örtasida taqsimlanişini nazorat qiliş ham kaliy gomeostazida muhim rol öynaydi. Organizmdagi umumiy kaliyning 98% dan ortiği hujayralarda bölgani uçun ular giperkaliemiya paytida hujayradan taşqari suyuqlikdagi ortiqça kaliy uçun “zaxira joy”, gipokaliemiya paytida esa kaliy manbai bölib xizmat qila oladi. Şunday qilib, kaliyning hujayra içi va hujayradan taşqari suyuqlik bölinmalari örtasida qayta taqsimlanişi hujayradan taşqari suyuqlikdagi kaliy konsentratsiyasi özgarişlariga qarşi birinçi himoya çiziğini ta’minlaydi."
+  },
+  "ch30-f6": {
+   "text": "Kaliyning organizm içida taqsimlanişining boşqarilişi"
+  },
+  "ch30-f7": {
+   "text": "Kaliyga boy ovqat iste’mol qilingandan söng, agar iste’mol qilingan kaliy hujayralarga tez ötmaganida edi, hujayradan taşqari suyuqlikdagi kaliy konsentratsiyasi xavfli darajagaça kötarilgan bölar edi. Masalan, 40 mEq kaliyning (sabzavot va mevalarga boy bir mahal ovqatdagi miqdor) 14 litr hujayradan taşqari suyuqlik hajmiga sörilişi, agar barça kaliy hujayradan taşqari bölinmada qolsa, plazmadagi kaliy konsentratsiyasini taxminan 2,9 mEq/L ga oşirgan bölar edi. Baxtimizga, iste’mol qilingan kaliyning katta qismi buyraklar ortiqçasini çiqarib yubora olguniga qadar hujayralarga tez ötadi. Ovqatlanişlar oraliğida ham plazmadagi kaliy konsentratsiyasi deyarli özgarmay qoladi, çunki hujayralar buyraklar çiqarib yuborgan hujayradan taşqari kaliyni qoplaş uçun kaliy ajratib turadi. **Jadval 30-1** da kaliyning hujayra içi va hujayradan taşqari bölinmalar örtasida taqsimlanişiga ta’sir qilişi mumkin bölgan ba’zi omillar umumlaştirilgan."
+  },
+  "ch30-f9": {
+   "text": "Insulin köplab töqimalarda, jumladan skelet muskulida natriy-kaliy adenozintrifosfataza (ATFaza) faolligini rağbatlantiradi, bu esa öz navbatida kaliyni hujayralarga taşiydi. Insulin ovqatdan keyin hujayralarning kaliyni qabul qilişini oşirişda muhim ahamiyatga ega. Insulin yetişmovçiligi bilan keçadigan qandli diabetga çalingan odamlarda ovqatdan keyin plazmadagi kaliy konsentratsiyasining kötarilişi me’yordagidan ança katta böladi. Biroq insulin in’eksiyalari giperkaliemiyani tuzatişga yordam berişi mumkin.",
+   "lead": "Insulin hujayralarning kaliyni qabul qilişini rağbatlantiradi."
+  },
+  "ch30-f10": {
+   "text": "Kaliy iste’molining oşişi aldosteron sekretsiyasini ham rağbatlantiradi, aldosteron esa hujayralarning kaliyni qabul qilişini oşiradi. Aldosteronning ortiqça sekretsiyasi (_Konn sindromi_) deyarli har doim gipokaliemiya bilan birga keçadi; bu qisman hujayradan taşqari kaliyning hujayralarga ötişi bilan boğliq. Aksinça, aldosteron işlab çiqarilişi yetişmaydigan bemorlarda (_Addison kasalligi_) kaliyning hujayradan taşqari böşliqda töplanişi hamda buyraklarda kaliyning uşlab qolinişi tufayli köpinça klinik ahamiyatga ega giperkaliemiya kuzatiladi.",
+   "lead": "Aldosteron hujayralarning kaliyni qabul qilişini oşiradi."
+  },
+  "ch30-f11": {
+   "text": "**β**-adrenergik stimulyatsiya hujayralarning kaliyni qabul qilişini oşiradi. Katexolaminlar, ayniqsa adrenalin sekretsiyasining oşişi kaliyning hujayradan taşqari suyuqlikdan hujayra içi suyuqligiga ötişiga sabab bölişi mumkin; bu asosan β2-adrenergik retseptorlarning faollaşuvi orqali yuz beradi. Aksinça, gipertenziyani propranolol kabi β-adrenergik retseptor blokatorlari bilan davolaş kaliyning hujayralardan çiqişiga olib keladi va giperkaliemiyaga moyillik yaratadi."
+  },
+  "ch30-f12": {
+   "text": "Metabolik atsidoz hujayradan taşqari kaliy konsentratsiyasini oşiradi, bu qisman hujayralardan kaliy yöqotilişiga sabab bölişi bilan boğliq; metabolik alkaloz esa hujayradan taşqari suyuqlikdagi kaliy konsentratsiyasini pasaytiradi. Vodorod ionlari konsentratsiyasining kaliyning organizm içida taqsimlanişiga ta’siri mexanizmlari töliq aniqlanmagan bölsa-da, vodorod ionlari konsentratsiyasi oşişining ta’sirlaridan biri Na+-K+ ATFaza nasosi faolligini pasaytirişdir. Bu pasayiş öz navbatida hujayralarning kaliyni qabul qilişini kamaytiradi va hujayradan taşqari kaliy konsentratsiyasini oşiradi. Alkaloz esa teskari ta’sir körsatadi: kaliyni hujayradan taşqari suyuqlikdan hujayralarga siljitadi va gipokaliemiyaga moyillik tuğdiradi.",
+   "lead": "Kislota-işqor buzilişlari kaliy taqsimotining özgarişiga sabab bölişi mumkin."
+  },
+  "ch30-f13": {
+   "text": "Hujayralar parçalanganda ular tarkibidagi katta miqdordagi kaliy hujayradan taşqari suyuqlikka çiqadi. Agar köp miqdordagi töqima parçalansa — masalan, oğir muskul şikastlanişida yoki eritrotsitlar lizisida — kaliyning bunday çiqişi sezilarli giperkaliemiyaga sabab bölişi mumkin.",
+   "lead": "Hujayralar lizisi hujayradan taşqari kaliy konsentratsiyasini oşiradi."
+  },
+  "ch30-f14": {
+   "text": "Uzoq davom etadigan jismoniy maşq paytida kaliy skelet muskulidan hujayradan taşqari suyuqlikka çiqadi. Odatda giperkaliemiya yengil böladi, ammo oğir jismoniy maşqdan keyin, ayniqsa β-adrenoblokatorlar bilan davolanayotgan bemorlarda yoki insulin yetişmovçiligi bölgan şaxslarda klinik ahamiyatga ega bölişi mumkin. Kamdan-kam hollarda maşqdan keyingi giperkaliemiya yurakka toksik ta’sir körsatadigan darajada oğir bölişi mumkin.",
+   "lead": "Oğir jismoniy maşq skelet muskulidan kaliy ajratib, giperkaliemiyaga sabab bölişi mumkin."
+  },
+  "ch30-f15": {
+   "text": "Hujayradan taşqari suyuqlik osmolyarligining oşişi suvning hujayralardan osmotik oqib çiqişiga olib keladi. Hujayralarning degidratatsiyasi hujayra içidagi kaliy konsentratsiyasini oşiradi va şu bilan kaliyning hujayralardan diffuziyalanib çiqişiga yordam beradi hamda hujayradan taşqari suyuqlikdagi kaliy konsentratsiyasini oşiradi. Hujayradan taşqari suyuqlik osmolyarligining pasayişi teskari ta’sir körsatadi.",
+   "lead": "Hujayradan taşqari suyuqlik osmolyarligining oşişi kaliyning hujayralardan hujayradan taşqari suyuqlikka qayta taqsimlanişiga sabab böladi."
+  },
+  "ch30-f16": {
+   "text": "Buyraklar orqali kaliy ekskretsiyasiga umumiy nazar"
+  },
+  "ch30-f17": {
+   "text": "Buyraklar orqali kaliy ekskretsiyasi uçta jarayonning yiğindisi bilan belgilanadi: (1) kaliy filtratsiyasi tezligi (koptokçalar filtratsiyasi tezligi [KFT] plazmadagi kaliy konsentratsiyasiga köpaytirilgani); (2) kanalçalarda kaliy reabsorbsiyasi tezligi; (3) kanalçalarda kaliy sekretsiyasi tezligi. Koptokça kapillyarlarida kaliyning me’yoriy filtratsiya tezligi taxminan 756 mEq/sutkani taşkil etadi (KFT, 180 L/sutka, plazmadagi kaliy konsentratsiyasi 4,2 mEq/L ga köpaytirilgan). Soğlom odamlarda bu filtratsiya tezligi nisbatan doimiy böladi, çunki ilgari muhokama qilingan KFT autoregulyatsiyasi mexanizmlari mavjud va plazmadagi kaliy konsentratsiyasi aniq boşqariladi. Biroq ayrim buyrak kasalliklarida KFT ning keskin pasayişi kaliyning jiddiy töplanişiga va giperkaliemiyaga sabab bölişi mumkin."
+  },
+  "ch30-f18": {
+   "text": "**Rasm 30-2** da me’yoriy şaroitda kaliyning kanalçalarda qayta işlanişi umumlaştirilgan. Filtrlangan kaliyning taxminan 65% i proksimal kanalçada reabsorbsiyalanadi. Filtrlangan kaliyning yana 25–30% i Henle qovuzloğida, ayniqsa uning yöğon kötariluvçi qismida reabsorbsiyalanadi; bu yerda kaliy natriy va xlor bilan birga faol kotransport qilinadi. Proksimal kanalça va Henle qovuzloğida filtrlangan kaliy yukining nisbatan doimiy uluşi reabsorbsiyalanadi. Bu segmentlarda kaliy reabsorbsiyasining özgarişlari kaliy ekskretsiyasiga ta’sir qilişi mumkin, ammo kaliy ekskretsiyasining sutkalik özgarişlarining asosiy qismi proksimal kanalça yoki Henle qovuzloğidagi reabsorbsiya özgarişlariga boğliq emas. Yiğuvçi kanalçalar va yiğuvçi nayçalar kaliy iste’moliga qarab kaliyni özgaruvçan tezlikda reabsorbsiyalaydi."
+  },
+  "ch30-f20": {
+   "text": "Kaliy ekskretsiyasini boşqaradigan eng muhim joylar — keçki distal kanalçalar va pöstloq yiğuvçi kanalçalarining asosiy hujayralari. Bu kanalça segmentlarida organizm ehtiyojiga qarab kaliy goh reabsorbsiyalanişi, goh sekretsiya qilinişi mumkin. Me’yoriy kaliy iste’moli 100 mEq/sutka bölganda buyraklar taxminan 92 mEq/sutka kaliyni çiqarib yuborişi kerak (qolgan 8 mEq najas bilan yöqotiladi). Taxminan 60 mEq/sutka kaliy distal va yiğuvçi kanalçalarga sekretsiya qilinadi va bu çiqariladigan kaliyning asosiy qismini taşkil etadi.",
+   "lead": "Distal va yiğuvçi kanalçalardagi özgaruvçan kaliy sekretsiyasi kaliy ekskretsiyasining sutkalik özgarişlarining asosiy qismini ta’minlaydi."
+  },
+  "ch30-f21": {
+   "text": "Kaliy iste’moli yuqori bölganda kaliyning zarur qöşimça ekskretsiyasi deyarli butunlay distal va yiğuvçi kanalçalarga kaliy sekretsiyasini oşiriş hisobiga amalga oşiriladi. Haqiqatan ham, kaliyga juda boy parhezni iste’mol qiladigan odamlarda kaliy ekskretsiyasi tezligi koptokça filtratidagi kaliy miqdoridan oşib ketişi mumkin; bu kaliy sekretsiyasining kuçli mexanizmi mavjudligini körsatadi."
+  },
+  "ch30-f22": {
+   "text": "Kaliy iste’moli kam bölganda distal va yiğuvçi kanalçalarda kaliy sekretsiyasi kamayadi, natijada siydik bilan kaliy ekskretsiyasi pasayadi. Şuningdek, nefronning distal segmentlaridagi oraliq hujayralar tomonidan kaliy reabsorbsiyasi ham kuçayadi va kaliy ekskretsiyasi koptokça filtratidagi kaliyning 1% idan ham kamroqqaça (<10 mEq/sutka gaça) tuşişi mumkin. Kaliy iste’moli bu darajadan past bölsa, oğir gipokaliemiya rivojlanişi mumkin."
+  },
+  "ch30-f23": {
+   "text": "Şunday qilib, kaliy ekskretsiyasining sutkalik boşqarilişi asosan keçki distal va pöstloq yiğuvçi kanalçalarda amalga oşadi; bu yerda kaliy organizm ehtiyojiga qarab reabsorbsiyalanişi yoki sekretsiya qilinişi mumkin. Keyingi bölimda kaliy sekretsiyasining asosiy mexanizmlarini va bu jarayonni boşqaradigan omillarni körib çiqamiz."
+  },
+  "ch30-f24": {
+   "text": "Keçki distal va pöstloq yiğuvçi kanalçalarning asosiy hujayralari kaliyni sekretsiya qiladi"
+  },
+  "ch30-f25": {
+   "text": "Keçki distal va pöstloq yiğuvçi kanalçalarda kaliyni sekretsiya qiladigan hujayralar _asosiy hujayralar_ (principal cells) deb ataladi va bu sohalardagi epiteliy hujayralarining köpçiligini taşkil etadi. **Rasm 30-3** da asosiy hujayralar tomonidan kaliy sekretsiyasining asosiy hujayraviy mexanizmlari körsatilgan."
+  },
+  "ch30-f27": {
+   "text": "Kaliyning qondan kanalça böşliğiga sekretsiyasi ikki bosqiçli jarayon bölib, u kaliyning interstitsiydan hujayraga bazolateral hujayra membranasidagi Na+-K+ ATFaza nasosi orqali qabul qilinişidan boşlanadi. Bu nasos natriyni hujayradan interstitsiyga çiqaradi va bir vaqtning özida kaliyni hujayra içiga kiritadi."
+  },
+  "ch30-f28": {
+   "text": "Jarayonning ikkinçi bosqiçi — kaliyning hujayra içidan kanalça suyuqligiga passiv diffuziyasi. Na+-K+ ATFaza nasosi hujayra içida kaliyning yuqori konsentratsiyasini hosil qiladi va bu kaliyning hujayradan kanalça böşliğiga passiv diffuziyasi uçun harakatlantiruvçi kuçni ta’minlaydi. Asosiy hujayralarning luminal membranasi kaliy uçun yuqori ötkazuvçanlikka ega, çunki unda kaliy ionlarining membrana orqali tez diffuziyalanişiga imkon beradigan ikki turdagi maxsus kanallar mavjud: (1) _buyrak taşqi mağiz qavati kaliy_ (ROMK) _kanallari_ va (2) yuqori ötkazuvçanlikka ega _“katta” kaliy_ (BK) _kanallari_. Buyraklar orqali kaliyning samarali ekskretsiyasi uçun kaliy kanallarining ikkala turi ham zarur va kaliy iste’moli yuqori bölganda ularning luminal membranadagi miqdori ortadi."
+  },
+  "ch30-f29": {
+   "text": "Keçki distal va pöstloq yiğuvçi kanalçalarning asosiy hujayralari tomonidan kaliy sekretsiyasini nazorat qiluvçi asosiy omillar quyidagilar: (1) Na+-K+ ATFaza nasosining faolligi; (2) kaliyning qondan kanalça böşliğiga sekretsiyasi uçun elektrokimyoviy gradiyent; (3) luminal membrananing kaliy uçun ötkazuvçanligi. Kaliy sekretsiyasining bu uçta belgilovçisi, öz navbatida, keyinroq muhokama qilinadigan bir qança omillar tomonidan boşqariladi.",
+   "lead": "Asosiy hujayralar tomonidan kaliy sekretsiyasining nazorati."
+  },
+  "ch30-f30": {
+   "text": "Kaliyning oğir kamayişi bilan boğliq holatlarda keçki distal va yiğuvçi kanalçalarda kaliy sekretsiyasi töxtaydi va kaliyning sof reabsorbsiyasi yuzaga keladi. Bu reabsorbsiya _A tipidagi oraliq hujayralar_ orqali amalga oşadi. Bu reabsorbsiya jarayoni töliq tuşunilmagan bölsa-da, unga hissa qöşadi deb hisoblanadigan mexanizmlardan biri — luminal membranada joylaşgan _vodorod-kaliy ATFaza_ transport mexanizmi (28-bob, **Rasm 28-13** ga qarang). Bu taşuvçi kanalça böşliğiga sekretsiya qilinadigan vodorod ionlari evaziga kaliyni reabsorbsiyalaydi, söngra kaliy bazolateral membranadagi kaliy kanallari orqali interstitsial suyuqlikka diffuziyalanadi. Kaliy kamayişi va gipokaliemiyada oraliq hujayralardagi vodorod-kaliy ATFaza taşuvçilarining miqdori ortadi, bu esa vodorod ionlari sekretsiyasining kuçayişiga va alkalozga sabab böladi. Biroq me’yoriy şaroitda oraliq hujayralar tomonidan kaliy reabsorbsiyasi kaliy ekskretsiyasini nazorat qilişda faqat kiçik rol öynaydi.",
+   "lead": "Oraliq hujayralar kaliyni reabsorbsiyalaşi yoki sekretsiya qilişi mumkin."
+  },
+  "ch30-f31": {
+   "text": "Organizm suyuqliklarida kaliy ortiqça bölganda keçki distal kanalçalar va yiğuvçi kanalçalardagi _B tipidagi oraliq hujayralar_ kaliyni kanalça böşliğiga faol sekretsiya qiladi; ularning funksiyalari A tipidagi hujayralarnikiga qarama-qarşi (28-bob, **Rasm 28-13** ga qarang). Kaliy B tipidagi oraliq hujayraga bazolateral membranadagi vodorod-kaliy ATFaza taşuvçisi orqali haydaladi, söngra kaliy kanallari orqali kanalça böşliğiga diffuziyalanadi."
+  },
+  "ch30-f32": {
+   "text": "Kaliy sekretsiyasini boşqaradigan asosiy omillarning qisqaça bayoni"
+  },
+  "ch30-f33": {
+   "text": "Kaliy ekskretsiyasining me’yoriy boşqarilişi asosan keçki distal va yiğuvçi kanalçalarning asosiy hujayralari tomonidan kaliy sekretsiyasining özgarişi natijasida yuz bergani uçun, uşbu bobda biz bu hujayralar sekretsiyasiga ta’sir qiluvçi asosiy omillarni muhokama qilamiz. Asosiy hujayralar tomonidan kaliy sekretsiyasini _rağbatlantiruvçi_ eng muhim omillar quyidagilar: (1) hujayradan taşqari suyuqlikdagi kaliy konsentratsiyasining oşişi; (2) aldosteronning oşişi; (3) kanalçalardagi oqim tezligining oşişi."
+  },
+  "ch30-f34": {
+   "text": "Kaliy sekretsiyasini _kamaytiruvçi_ omillardan biri — vodorod ionlari konsentratsiyasining oşişi (atsidoz)."
+  },
+  "ch30-f35": {
+   "text": "Keçki distal va pöstloq yiğuvçi kanalçalarda kaliy sekretsiyasi tezligi hujayradan taşqari suyuqlikdagi kaliy konsentratsiyasining oşişi bilan bevosita rağbatlantiriladi, bu esa **Rasm 30-4** da körsatilganidek, kaliy ekskretsiyasining oşişiga olib keladi. Bu ta’sir hujayradan taşqari suyuqlikdagi kaliy konsentratsiyasi me’yoriy konsentratsiyadan biroz pastroq bölgan taxminan 4,1 mEq/L dan oşganda ayniqsa yaqqol namoyon böladi. Demak, plazmadagi kaliy konsentratsiyasining oşişi kaliy sekretsiyasini kuçaytiriş va hujayradan taşqari suyuqlikdagi kaliy ionlari konsentratsiyasini boşqarişning eng muhim mexanizmlaridan biri bölib xizmat qiladi.",
+   "lead": "Hujayradan taşqari suyuqlikdagi kaliy konsentratsiyasining oşişi kaliy sekretsiyasini rağbatlantiradi."
+  },
+  "ch30-f37": {
+   "text": "Parhezda kaliy iste’molining oşişi va hujayradan taşqari suyuqlikdagi kaliy konsentratsiyasining kötarilişi kaliy sekretsiyasini kamida törtta mexanizm orqali rağbatlantiradi: 1. Hujayradan taşqari suyuqlikdagi kaliy konsentratsiyasining oşişi Na+-K+ ATFaza nasosini rağbatlantiradi va şu bilan kaliyning bazolateral membrana orqali qabul qilinişini kuçaytiradi. Kaliy qabul qilinişining bunday oşişi öz navbatida hujayra içidagi kaliy ionlari konsentratsiyasini oşiradi, natijada kaliy luminal membrana orqali kanalçaga diffuziyalanadi. 2. Hujayradan taşqari kaliy konsentratsiyasining oşişi buyrak interstitsial suyuqligidan epiteliy hujayrasi içiga yönalgan kaliy gradiyentini oşiradi, bu esa kaliy ionlarining hujayra içidan bazolateral membrana orqali qaytib sizib çiqişini kamaytiradi. 3. Kaliy iste’molining oşişi kaliy kanallarining sintezini va ularning sitozoldan luminal membranaga köçişini rağbatlantiradi, bu esa öz navbatida kaliyning membrana orqali diffuziyalanişini osonlaştiradi. 4. Kaliy konsentratsiyasining oşişi buyrak usti bezi pöstloğida aldosteron sekretsiyasini rağbatlantiradi, aldosteron esa quyida muhokama qilinganidek, kaliy sekretsiyasini yanada kuçaytiradi."
+  },
+  "ch30-f38": {
+   "text": "Aldosteron keçki distal kanalçalar va yiğuvçi nayçalarning asosiy hujayralarida natriy ionlarining faol reabsorbsiyasini rağbatlantiradi (28-bobga qarang). Bu ta’sir Na+-K+ ATFaza nasosi orqali amalga oşadi: u natriyni hujayraning bazolateral membranasi orqali taşqariga, buyrak interstitsial suyuqligiga taşiydi va bir vaqtning özida kaliyni hujayra içiga haydaydi. Şunday qilib, aldosteron asosiy hujayralarning kaliyni sekretsiya qiliş va natriyni reabsorbsiyalaş tezligini nazorat qilişga ham kuçli ta’sir körsatadi.",
+   "lead": "Aldosteron kaliy sekretsiyasini rağbatlantiradi."
+  },
+  "ch30-f39": {
+   "text": "Aldosteronning ikkinçi ta’siri — luminal membranadagi kaliy kanallari sonini va demak, uning kaliy uçun ötkazuvçanligini oşiriş; bu aldosteronning kaliy sekretsiyasini rağbatlantirişdagi samaradorligini yanada oşiradi. Şu sababli, **Rasm 30-4** da körsatilganidek, aldosteron kaliy ekskretsiyasini oşirişda kuçli ta’sirga ega."
+  },
+  "ch30-f40": {
+   "text": "Manfiy qayta aloqa bilan işlaydigan nazorat tizimlarida nazorat qilinadigan omil odatda nazorat qiluvçiga qayta aloqa ta’sirini körsatadi. Aldosteron-kaliy nazorat tizimida buyrak usti bezining aldosteron sekretsiyasi tezligi hujayradan taşqari suyuqlikdagi kaliy ionlari konsentratsiyasi tomonidan kuçli nazorat qilinadi. **Rasm 30-5** da körsatilganidek, plazmadagi kaliy konsentratsiyasining taxminan 3 mEq/L ga oşişi plazmadagi aldosteron konsentratsiyasini deyarli 0 dan 60 ng/100 ml gaça, ya’ni me’yordan qariyb 10 baravar yuqori konsentratsiyagaça oşirişi mumkin.",
+   "lead": "Hujayradan taşqari kaliy ionlari konsentratsiyasining oşişi aldosteron sekretsiyasini rağbatlantiradi."
+  },
+  "ch30-f42": {
+   "text": "Kaliy ionlari konsentratsiyasining aldosteron sekretsiyasini rağbatlantiriş ta’siri, **Rasm 30-6** da körsatilganidek, kaliy ekskretsiyasini boşqaruvçi kuçli qayta aloqa tizimining bir qismidir. Bu qayta aloqa tizimida plazmadagi kaliy konsentratsiyasining oşişi aldosteron sekretsiyasini rağbatlantiradi va demak, plazmadagi aldosteron konsentratsiyasini oşiradi (1-blok). Plazmadagi aldosteronning oşişi esa buyraklar orqali kaliy ekskretsiyasining keskin oşişiga sabab böladi (2-blok). Kaliy ekskretsiyasining oşişi esa hujayradan taşqari suyuqlikdagi kaliy konsentratsiyasini me’yorga qaytaradi (3-doira va 4-blok). Şunday qilib, kaliy iste’moli oşganda bu qayta aloqa mexanizmi hujayradan taşqari kaliy konsentratsiyasi oşişining kaliy ekskretsiyasini kötaruvçi bevosita ta’siri bilan sinergik ravişda işlaydi (**Rasm 30-7**)."
+  },
+  "ch30-f45": {
+   "text": "Aldosteron sekretsiyasi bölmaganda, masalan Addison kasalligi bilan oğrigan bemorlarda, buyraklar orqali kaliy sekretsiyasi buziladi va natijada hujayradan taşqari suyuqlikdagi kaliy konsentratsiyasi xavfli darajada yuqori kötariladi. Aksinça, aldosteronning ortiqça sekretsiyasida (birlamçi aldosteronizm) kaliy sekretsiyasi keskin oşadi, buyraklar orqali kaliy yöqotiladi va bu gipokaliemiyaga olib keladi.",
+   "lead": "Aldosteron qayta aloqa tizimining blokadasi kaliy boşqaruvini jiddiy buzadi."
+  },
+  "ch30-f46": {
+   "text": "Buyraklar orqali kaliy sekretsiyasini rağbatlantiriş ta’siridan taşqari, aldosteron hujayralarning kaliyni qabul qilişini ham oşiradi. Bu, avval muhokama qilinganidek, kuçli aldosteron-kaliy qayta aloqa tizimiga hissa qöşadi."
+  },
+  "ch30-f47": {
+   "text": "Aldosteron qayta aloqa tizimining kaliy konsentratsiyasini nazorat qilişdagi alohida miqdoriy ahamiyati **Rasm 30-8** da körsatilgan. Bu tajribada itlarda kaliy iste’moli ikki xil şaroitda deyarli yetti baravar oşirilgan: (1) me’yoriy şaroitda; (2) aldosteron qayta aloqa tizimi blokada qilingandan keyin — buning uçun buyrak usti bezlari olib taşlangan va hayvonlarga aldosteron doimiy tezlikda infuziya qilingan, şunda plazmadagi aldosteron konsentratsiyasi me’yoriy darajada saqlangan, ammo kaliy iste’moli özgarganda u na oşişi, na kamayişi mumkin bölgan."
+  },
+  "ch30-f49": {
+   "text": "E’tibor bering, me’yoriy hayvonlarda kaliy iste’molining yetti baravar oşişi plazmadagi kaliy konsentratsiyasini 4,2 dan 4,3 mEq/L gaça, ya’ni juda oz oşirgan. Demak, aldosteron qayta aloqa tizimi me’yorida işlaganda kaliy iste’molidagi katta özgarişlarga qaramay kaliy konsentratsiyasi aniq nazorat qilinadi."
+  },
+  "ch30-f50": {
+   "text": "Aldosteron qayta aloqa tizimi blokada qilinganda esa kaliy iste’molining xuddi şunday oşişi plazmadagi kaliy konsentratsiyasini ança köproq — 3,8 dan deyarli 4,7 mEq/L gaça oşirgan. Şunday qilib, aldosteron qayta aloqa tizimi blokada qilinganda kaliy konsentratsiyasining nazorati jiddiy buziladi. Kaliy boşqaruvining şunga öxşaş buzilişi aldosteron qayta aloqa tizimi yomon işlaydigan odamlarda, masalan birlamçi aldosteronizm (aldosteron haddan taşqari köp) yoki Addison kasalligi (aldosteron juda kam) bilan oğrigan bemorlarda kuzatiladi."
+  },
+  "ch30-f51": {
+   "text": "Distal kanalçalardagi oqim tezligining oşişi — masalan, hajm kengayişida, natriyni köp iste’mol qilişda yoki ayrim diuretiklar bilan davolaşda — kaliy sekretsiyasini rağbatlantiradi (**Rasm 30-9**). Aksinça, natriy kamayişi natijasida distal kanalçalardagi oqim tezligining pasayişi kaliy sekretsiyasini kamaytiradi.",
+   "lead": "Distal kanalçalardagi oqim tezligining oşişi kaliy sekretsiyasini rağbatlantiradi."
+  },
+  "ch30-f53": {
+   "text": "Kanalçalardagi oqim tezligining distal va yiğuvçi kanalçalarda kaliy sekretsiyasiga ta’siriga kaliy iste’moli kuçli ta’sir körsatadi. Kaliy iste’moli yuqori bölganda kanalçalardagi oqim tezligining oşişi kaliy sekretsiyasini kaliy iste’moli past bölgandagiga qaraganda ança kuçliroq rağbatlantiradi (**Rasm 30-9** ga qarang)."
+  },
+  "ch30-f54": {
+   "text": "Yuqori hajmli oqim tezligining kaliy sekretsiyasini oşiruvçi ikkita asosiy ta’siri bor: 1. Kaliy kanalça suyuqligiga sekretsiya qilinganda kanalça böşliğidagi kaliy konsentratsiyasi oşadi va şu bilan kaliyning luminal membrana orqali diffuziyasi uçun harakatlantiruvçi kuç kamayadi. Kanalçalardagi oqim tezligi oşganda sekretsiya qilingan kaliy kanalça böylab uzluksiz yuvib ketiladi, bu kanalçadagi kaliy konsentratsiyasining oşişini minimal darajaga tuşiradi va kaliyning sof sekretsiyasini oşiradi. 2. Kanalçalardagi yuqori oqim tezligi luminal membranadagi yuqori ötkazuvçanlikka ega BK kanallari sonini ham oşiradi. BK kanallari me’yorda nofaol bölsa-da, oqim tezligi oşişiga javoban faollaşadi va şu bilan luminal membrana orqali kaliy ötkazuvçanligini keskin oşiradi. Kanalçalardagi oqim tezligi oşişining ta’siri natriy iste’moli özgarganda kaliyning me’yoriy ekskretsiyasini saqlab qolişda ayniqsa muhim. Masalan, natriy iste’moli yuqori bölganda aldosteron sekretsiyasi kamayadi; bu öz-özidan kaliy sekretsiyasi tezligini pasaytirişga va demak, siydik bilan kaliy ekskretsiyasini kamaytirişga moyil bölar edi. Biroq natriyni köp iste’mol qilişda yuzaga keladigan distal kanalçalardagi yuqori oqim tezligi kaliy sekretsiyasini oşirişga moyil (**Rasm 30-10**). Şu sababli natriyni köp iste’mol qilişning ikki ta’siri — aldosteron sekretsiyasining kamayişi va kanalçalardagi yuqori oqim tezligi — bir-birini muvozanatlaydi, natijada kaliy ekskretsiyasi kam özgaradi. Xuddi şuningdek, natriy iste’moli past bölganda ham kaliy ekskretsiyasi kam özgaradi, çunki aldosteron sekretsiyasining oşişi va kanalçalardagi oqim tezligining pasayişi kaliy sekretsiyasiga qarama-qarşi ta’sir körsatib, bir-birini muvozanatlaydi."
+  },
+  "ch30-f56": {
+   "text": "Hujayradan taşqari suyuqlikda vodorod ionlari konsentratsiyasining ötkir oşişi (atsidoz) kaliy sekretsiyasini kamaytiradi, vodorod ionlari konsentratsiyasining pasayişi (alkaloz) esa kaliy sekretsiyasini oşiradi. Vodorod ionlari konsentratsiyasining oşişi kaliy sekretsiyasini tormozlaşining asosiy mexanizmi Na+-K+ ATFaza nasosi faolligini pasaytirişdir. Bu pasayiş öz navbatida hujayra içidagi kaliy konsentratsiyasini va natijada kaliyning luminal membrana orqali kanalçaga passiv diffuziyasini kamaytiradi. Atsidoz luminal membranadagi kaliy kanallari sonini ham kamaytirişi mumkin.",
+   "lead": "Ötkir atsidoz kaliy sekretsiyasini kamaytiradi."
+  },
+  "ch30-f57": {
+   "text": "Bir neça kun davom etadigan uzoqroq atsidozda siydik bilan kaliy ekskretsiyasi oşadi. Bu ta’sirning mexanizmi qisman surunkali atsidozning proksimal kanalçada natriy xlorid va suv reabsorbsiyasini tormozlaşi bilan boğliq; bu distal qismlarga yetkaziladigan hajmni oşiradi va şu bilan kaliy sekretsiyasini rağbatlantiradi. Bu ta’sir vodorod ionlarining Na+-K+ ATFaza nasosiga tormozlovçi ta’siridan ustun keladi. _Şunday qilib, surunkali atsidoz kaliy yöqotilişiga olib keladi_, _ötkir atsidoz esa kaliy ekskretsiyasining kamayişiga olib keladi._"
+  },
+  "ch30-f58": {
+   "text": "Insoniyat tarixining katta qismida odatiy parhez zamonaviy odatiy parhezga nisbatan natriyga kambağal va kaliyga boy bölgan. Sanoatlaşuvni boşdan keçirmagan alohida aholi guruhlarida, masalan Şimoliy Braziliyaning Amazonka mintaqasida yaşovçi yanomamo qabilasida natriy iste’moli 10–20 mmol/sutkagaça past, kaliy iste’moli esa 200 mmol/sutkagaça yuqori bölişi mumkin. Bunday iste’mol ularning köp miqdorda meva va sabzavotlarni öz içiga olgan va qayta işlangan oziq-ovqatlarsiz parhezi bilan boğliq. Bunday parhezga amal qiladigan aholi guruhlarida odatda qon bosimining yoşga boğliq oşişi va yurak-qon tomir kasalliklari kuzatilmaydi."
+  },
+  "ch30-f59": {
+   "text": "Sanoatlaşuv va köpinça natriyga boy, kaliyga esa kambağal bölgan qayta işlangan oziq-ovqatlar iste’molining ortişi bilan natriy iste’moli keskin oşdi, kaliy iste’moli esa kamaydi. Köpçilik sanoati rivojlangan mamlakatlarda kaliy iste’moli örtaça atigi 30–70 mmol/sutkani, natriy iste’moli esa örtaça 140–180 mmol/sutkani taşkil etadi. Eksperimental va klinik tadqiqotlar natriyga boy va kaliyga kambağal parhez birikmasi gipertenziya hamda unga boğliq yurak-qon tomir va buyrak kasalliklari xavfini oşirişini körsatgan. Biroq kaliyga boy parhez natriyga boy parhezning salbiy ta’sirlaridan himoya qiladiganga öxşaydi: u qon bosimini hamda insult, koronar arteriyalar kasalligi va buyrak kasalliklari xavfini kamaytiradi. Kaliy iste’molini oşirişning foydali ta’sirlari natriyga kambağal parhez bilan birga qöllanganda ayniqsa yaqqol namoyon böladi."
+  },
+  "ch30-f60": {
+   "text": "Turli taşkilotlar tomonidan naşr etilgan ovqatlaniş böyiça tavsiyalarda soğlom katta yoşlilar uçun parhezdagi natriy xlorid iste’molini taxminan 65–100 mmol/sutkagaça (bu 1,5–2,3 g/sutka natriy yoki 3,8–5,8 g/sutka natriy xloridga töğri keladi) kamaytiriş, kaliy iste’molini esa 120 mmol/sutkagaça (4,7 g/sutka) oşiriş tavsiya etilgan."
+  },
+  "ch30-f61": {
+   "text": "Buyraklar orqali kalsiy ekskretsiyasining va hujayradan taşqari kalsiy ionlari konsentratsiyasining boşqarilişi"
+  },
+  "ch30-f62": {
+   "text": "Kalsiy ionlari konsentratsiyasini boşqariş mexanizmlari kalsiyni boşqaruvçi gormonlar — paratgormon (PTG) va kalsitonin endokrinologiyasi bilan birga 80-bobda batafsil muhokama qilinadi. Şu sababli uşbu bobda kalsiy ionlarining boşqarilişi faqat qisqaça körib çiqiladi."
+  },
+  "ch30-f63": {
+   "text": "Hujayradan taşqari suyuqlikdagi kalsiy ionlari konsentratsiyasi me’yorda qat’iy nazorat ostida bölib, özining me’yoriy darajasi — 2,4 mEq/L dan bor-yöği bir neça foiz çegarasida saqlanadi. Kalsiy ionlari konsentratsiyasi past darajaga tuşganda (_gipokalsiemiya_) nerv va muskul hujayralarining qözğaluvçanligi keskin oşadi va öta oğir hollarda _gipokalsiemik tetaniyaga_ olib kelişi mumkin. Bu holat skelet muskullarining spastik qisqarişlari bilan tavsiflanadi. _Giperkalsiemiya_ (kalsiy konsentratsiyasining oşişi) nerv-muskul qözğaluvçanligini susaytiradi va yurak aritmiyalariga olib kelişi mumkin."
+  },
+  "ch30-f64": {
+   "text": "Plazmadagi _umumiy_ kalsiyning (5 mEq/L) taxminan 50% i ionlaşgan şaklda böladi; aynan şu şakl hujayra membranalarida biologik faollikka ega. Qolgan qismi plazma oqsillari bilan boğlangan (≈40%) yoki fosfat va sitrat kabi anionlar bilan ionlaşmagan şakldagi komplekslar hosil qilgan (≈10%)."
+  },
+  "ch30-f65": {
+   "text": "Plazmadagi vodorod ionlari konsentratsiyasining özgarişi kalsiyning plazma oqsillari bilan boğlanişiga ta’sir qiladi. Atsidozda kalsiyning plazma oqsillari bilan boğlangan qismi kamroq böladi. Aksinça, alkalozda kalsiyning köproq miqdori plazma oqsillari bilan boğlanadi. Şu sababli _alkalozli bemorlar gipokalsiemik tetaniyaga köproq moyil böladi_."
+  },
+  "ch30-f66": {
+   "text": "Organizmdagi boşqa moddalar singari, uzoq muddatda kalsiy iste’moli kalsiyning sof yöqotilişi bilan muvozanatda bölişi kerak. Biroq natriy va xlor kabi ionlardan farqli ölaroq, kalsiy ekskretsiyasining katta qismi najas orqali amalga oşadi. Parhez bilan kalsiy iste’molining odatiy tezligi taxminan 1000 mg/sutkani taşkil etadi, şundan taxminan 900 mg/sutka kalsiy najas bilan çiqariladi. Ayrim şaroitlarda najas bilan kalsiy ekskretsiyasi kalsiy iste’molidan oşib ketişi mumkin, çunki kalsiy içak böşliğiga ham sekretsiya qilinişi mumkin. Şu sababli, 80-bobda muhokama qilinganidek, oşqozon-içak yöli va içakda kalsiyning sörilişi hamda sekretsiyasiga ta’sir qiluvçi boşqaruv mexanizmlari kalsiy gomeostazida katta rol öynaydi."
+  },
+  "ch30-f67": {
+   "text": "Organizmdagi deyarli barça kalsiy (99%) suyakda saqlanadi, taxminan atigi 0,1% i hujayradan taşqari suyuqlikda va 1,0% i hujayra içi suyuqligi hamda hujayra organellalarida böladi. Demak, suyak kalsiyning katta zaxirasi va hujayradan taşqari suyuqlikdagi kalsiy konsentratsiyasi pasayişga moyil bölganda kalsiy manbai vazifasini bajaradi."
+  },
+  "ch30-f68": {
+   "text": "_Suyakning kalsiyni qabul qilişi va ajratişini boşqaruvçi eng muhim omillardan biri — PTG_. Hujayradan taşqari suyuqlikdagi kalsiy konsentratsiyasi me’yordan pastga tuşganda qalqonsimon bez oldi bezlari hujayra membranasidagi _kalsiyni sezuvçi retseptorlar_ (CSR) faolligi pasayadi va bu PTG sekretsiyasining oşişiga yordam beradi. Bu gormon esa bevosita suyaklarga ta’sir qilib, suyak tuzlarining rezorbsiyasini (tuzlarning suyaklardan ajralib çiqişini) kuçaytiradi va hujayradan taşqari suyuqlikka katta miqdorda kalsiy çiqaradi, şu bilan kalsiy darajasini me’yorga qaytaradi. Kalsiy ionlari konsentratsiyasi oşganda qalqonsimon bez oldi bezi hujayralarining CSR faolligi rağbatlanadi va PTG sekretsiyasi kamayadi, şuning uçun suyak rezorbsiyasi deyarli yuz bermaydi; aksinça, ortiqça kalsiy suyaklarga çökadi. Şunday qilib, kalsiy ionlari konsentratsiyasining sutkalik boşqarilişi köp jihatdan PTG ning suyak rezorbsiyasiga ta’sirlari orqali amalga oşadi."
+  },
+  "ch30-f69": {
+   "text": "Biroq suyaklardagi kalsiy zaxirasi bitmas-tuganmas emas. Şu sababli uzoq muddatda kalsiy iste’moli oşqozon-içak yöli va buyraklar orqali kalsiy ekskretsiyasi bilan muvozanatlaşişi kerak. Bu ikkala joyda kalsiy reabsorbsiyasining eng muhim boşqaruvçisi PTG bölib, u plazmadagi kalsiy konsentratsiyasini uçta asosiy ta’sir orqali boşqaradi: _(1) suyak rezorbsiyasini rağbatlantiriş; (2) D vitaminining faollaşuvini rağbatlantiriş, D vitamini esa içakda kalsiy reabsorbsiyasini oşiradi; (3) buyrak kanalçalarida kalsiy reabsorbsiyasini oşiriş_ (**Rasm 30-11**). Oşqozon-içak yölida kalsiy reabsorbsiyasining nazorati va suyaklardagi kalsiy almaşinuvi boşqa joyda muhokama qilinadi; uşbu bölimning qolgan qismida buyraklar orqali kalsiy ekskretsiyasini nazorat qiluvçi mexanizmlarga e’tibor qaratiladi."
+  },
+  "ch30-f70": {
+   "text": "Buyraklar orqali kalsiy ekskretsiyasining nazorati"
+  },
+  "ch30-f71": {
+   "text": "Kalsiy buyraklarda filtrlanadi va reabsorbsiyalanadi, ammo sekretsiya qilinmaydi. Şu sababli buyraklar orqali kalsiy ekskretsiyasi tezligi quyidagiça hisoblanadi:"
+  },
+  "ch30-f72": {
+   "text": "Plazmadagi kalsiyning faqat taxminan 60% i ionlaşgan, 40% i plazma oqsillari bilan boğlangan va 10% i fosfat kabi anionlar bilan kompleks hosil qilgan. Şu sababli plazmadagi kalsiyning faqat taxminan 60% i koptokçada filtrlanadi. Me’yorda filtrlangan kalsiyning taxminan 99% i kanalçalarda reabsorbsiyalanadi va filtrlangan kalsiyning atigi 1% ga yaqini çiqariladi. Filtrlangan kalsiyning taxminan 65% i proksimal kanalçada, 25–30% i Henle qovuzloğida, 4–9% i esa distal va yiğuvçi kanalçalarda reabsorbsiyalanadi. Reabsorbsiyaning bu manzarasi natriynikiga öxşaydi."
+  },
+  "ch30-f74": {
+   "text": "Boşqa ionlarda bölgani kabi, kalsiy ekskretsiyasi ham organizm ehtiyojlariga moslaştiriladi. Kalsiy iste’moli oşganda buyraklar orqali kalsiy ekskretsiyasi ham oşadi, garçi iste’mol qilingan qöşimça kalsiyning katta qismi najas bilan çiqarilsa-da. Kalsiy kamayganda kanalçalardagi reabsorbsiya kuçayişi natijasida buyraklar orqali kalsiy ekskretsiyasi kamayadi."
+  },
+  "ch30-f75": {
+   "text": "Proksimal kanalçada kalsiy reabsorbsiyasining asosiy qismi paratsellyulyar yöl orqali amalga oşadi: kalsiy suvda erigan holda reabsorbsiyalanayotgan suyuqlik bilan birga hujayralar orasidan oqib ötadi. Proksimal kanalçada kalsiy reabsorbsiyasining faqat taxminan 20% i transsellyulyar yöl orqali ikki bosqiçda yuz beradi: 1. Kalsiy kanalça böşliğidan hujayraga elektrokimyoviy gradiyent böyiça diffuziyalanadi, çunki kanalça böşliğidagi kalsiy konsentratsiyasi epiteliy hujayrasi sitoplazmasidagidan ança yuqori, hujayra içi esa kanalça böşliğiga nisbatan manfiy zaryadga ega. 2. Kalsiy hujayradan bazolateral membrana orqali kalsiy-ATFaza nasosi va natriy-kalsiy almaşinuv taşuvçisi (kontrtransportyor) yordamida çiqadi (**Rasm 30-12**).",
+   "lead": "Proksimal kanalçada kalsiy reabsorbsiyasi."
+  },
+  "ch30-f77": {
+   "text": "Henle qovuzloğida kalsiy reabsorbsiyasi faqat yöğon kötariluvçi qism bilan çeklangan. Yöğon kötariluvçi qismdagi kalsiy reabsorbsiyasining taxminan 50% i kanalça böşliğining interstitsial suyuqlikka nisbatan biroz musbat zaryadi tufayli paratsellyulyar yöl orqali passiv diffuziya bilan amalga oşadi. Yöğon kötariluvçi qismdagi kalsiy reabsorbsiyasining qolgan 50% i transsellyulyar yöl orqali yuz beradi; bu jarayon PTG tomonidan rağbatlantiriladi.",
+   "lead": "Henle qovuzloği va distal kanalçada kalsiy reabsorbsiyasi."
+  },
+  "ch30-f78": {
+   "text": "Distal kanalçada kalsiy reabsorbsiyasi deyarli butunlay hujayra membranasi orqali faol transport bilan amalga oşadi. Bu faol transport mexanizmi proksimal kanalça va yöğon kötariluvçi qismdagiga öxşaydi. U kalsiyning luminal membrana orqali kalsiy kanallari böylab diffuziyalanişini va bazolateral membrana orqali kalsiy-ATFaza nasosi hamda natriy-kalsiy almaşinuv mexanizmi yordamida çiqişini öz içiga oladi. Bu segmentda ham, Henle qovuzloğida ham PTG kalsiy reabsorbsiyasini rağbatlantiradi. D vitamini (kalsitriol) va kalsitonin ham Henle qovuzloğining yöğon kötariluvçi qismida va distal kanalçada kalsiy reabsorbsiyasini rağbatlantiradi, ammo bu gormonlar buyraklar orqali kalsiy ekskretsiyasini kamaytirişda miqdoriy jihatdan PTG çalik muhim emas."
+  },
+  "ch30-f79": {
+   "text": "Buyrak kanalçalarida kalsiy reabsorbsiyasining asosiy boşqaruvçilaridan biri — PTG. PTG darajasining oşişi Henle qovuzloğining yöğon kötariluvçi qismlarida va distal kanalçalarda kalsiy reabsorbsiyasini rağbatlantiradi, bu esa siydik bilan kalsiy ekskretsiyasini kamaytiradi. Aksinça, PTG ning kamayişi Henle qovuzloği va distal kanalçalarda reabsorbsiyani pasaytirib, kalsiy ekskretsiyasini kuçaytiradi.",
+   "lead": "Kanalçalarda kalsiy reabsorbsiyasining boşqarilişi."
+  },
+  "ch30-f80": {
+   "text": "Hujayradan taşqari suyuqlikdagi kalsiy ionlari konsentratsiyasining oşişi CSR larni ham bevosita rağbatlantiradi, ular esa Henle qovuzloğining yöğon kötariluvçi qismlarida kalsiy reabsorbsiyasini tormozlaydi. Aksinça, kalsiy konsentratsiyasining pasayişi CSR faolligini kamaytiradi va Henle qovuzloğining yöğon kötariluvçi qismida kalsiy reabsorbsiyasini oşiradi."
+  },
+  "ch30-f81": {
+   "text": "Proksimal kanalçada kalsiy reabsorbsiyasi odatda natriy va suv reabsorbsiyasiga parallel ravişda özgaradi va PTG ga boğliq emas. Şu sababli hujayradan taşqari hajm kengayganda yoki arterial bosim oşganda — bularning ikkalasi ham proksimal kanalçada natriy va suv reabsorbsiyasini kamaytiradi — kalsiy reabsorbsiyasi ham kamayadi va natijada siydik bilan kalsiy ekskretsiyasi oşadi. Aksinça, hujayradan taşqari hajm kamayganda yoki qon bosimi pasayganda kalsiy ekskretsiyasi asosan proksimal kanalçadagi reabsorbsiyaning kuçayişi hisobiga kamayadi."
+  },
+  "ch30-f82": {
+   "text": "Kalsiy reabsorbsiyasiga ta’sir qiluvçi yana bir omil — plazmadagi fosfat konsentratsiyasi. Plazmadagi fosfatning oşişi PTG ni rağbatlantiradi, PTG esa buyrak kanalçalarida kalsiy reabsorbsiyasini oşirib, kalsiy ekskretsiyasini kamaytiradi. Plazmadagi fosfat konsentratsiyasi pasayganda buning aksi yuz beradi."
+  },
+  "ch30-f83": {
+   "text": "Kalsiy reabsorbsiyasi metabolik alkaloz tomonidan ham rağbatlantiriladi, metabolik atsidoz tomonidan esa tormozlanadi. Demak, atsidoz kalsiy ekskretsiyasini oşirişga, alkaloz esa kamaytirişga moyil. Vodorod ionlari konsentratsiyasining kalsiy ekskretsiyasiga ta’sirining asosiy qismi distal kanalçada kalsiy reabsorbsiyasining özgarişlariga boğliq."
+  },
+  "ch30-f84": {
+   "text": "Kalsiy ekskretsiyasiga ta’sir qilişi ma’lum bölgan omillarning qisqaça bayoni **Jadval 30-2** da keltirilgan."
+  },
+  "ch30-f86": {
+   "text": "Buyraklar orqali fosfat ekskretsiyasining boşqarilişi"
+  },
+  "ch30-f87": {
+   "text": "Buyraklar orqali fosfat ekskretsiyasi asosan “toşib çiqiş” mexanizmi bilan nazorat qilinadi, uni quyidagiça tuşuntiriş mumkin. Buyrak kanalçalarining fosfatni reabsorbsiyalaş uçun me’yoriy transport maksimumi taxminan 0,1 mmol/min ni taşkil etadi. Koptokça filtratida fosfat miqdori bundan kam bölsa, filtrlangan fosfatning amalda _hammasi_ reabsorbsiyalanadi. Bundan köp bölsa, _ortiqçasi_ çiqariladi. Şu sababli fosfat odatda hujayradan taşqari suyuqlikdagi konsentratsiyasi taxminan 0,8 mM/L lik çegaradan oşganda siydikka öta boşlaydi; KFT 125 ml/min deb olinganda, bu taxminan 0,1 mmol/min lik kanalça fosfat yukini beradi. Köpçilik odamlar sut mahsulotlari va göşt bilan köp miqdorda fosfat iste’mol qilgani uçun fosfat konsentratsiyasi odatda 1 mM/L dan yuqori saqlanadi; bu darajada fosfat siydik bilan uzluksiz çiqarilib turadi."
+  },
+  "ch30-f88": {
+   "text": "Proksimal kanalça me’yorda filtrlangan fosfatning 75–80% ini reabsorbsiyalaydi. Distal kanalça filtrlangan yukning taxminan 10% ini reabsorbsiyalaydi, Henle qovuzloği, yiğuvçi kanalçalar va yiğuvçi nayçalarda esa faqat oz miqdori reabsorbsiyalanadi. Filtrlangan fosfatning taxminan 10% i siydik bilan çiqariladi."
+  },
+  "ch30-f89": {
+   "text": "Proksimal kanalçada fosfat reabsorbsiyasi asosan transsellyulyar yöl orqali yuz beradi. Fosfat hujayraga kanalça böşliğidan natriy-fosfat kotransportyori orqali kiradi va hujayradan bazolateral membrana orqali yaxşi örganilmagan jarayon yordamida çiqadi; bu jarayon fosfatning biror anion bilan almaşinadigan kontrtransport mexanizmini öz içiga olişi mumkin."
+  },
+  "ch30-f90": {
+   "text": "Turli şaroitlarda kanalçalarning fosfatni reabsorbsiyalaş qobiliyati ham özgarişi va fosfat ekskretsiyasiga ta’sir qilişi mumkin. Masalan, fosfatga kambağal parhez vaqt ötişi bilan fosfat uçun reabsorbsion transport maksimumini oşirişi va şu bilan fosfatning siydikka toşib çiqişga moyilligini kamaytirişi mumkin."
+  },
+  "ch30-f91": {
+   "text": "PTG fosfat konsentratsiyasini boşqarişda ikki ta’sir orqali muhim rol öynaşi mumkin: (1) PTG suyak rezorbsiyasini kuçaytiradi va şu bilan suyak tuzlaridan hujayradan taşqari suyuqlikka katta miqdorda fosfat çiqaradi; (2) PTG apikal membranadagi natriy-fosfat kotransportyorlari miqdorini kamaytiradi, bu esa öz navbatida buyrak kanalçalarida fosfat reabsorbsiyasini pasaytiradi. _Şunday qilib_, _plazmada PTG oşgan har qanday holatda_, _kanalçalarda fosfat reabsorbsiyasi kamayadi va köproq fosfat çiqariladi_. Fosfat, PTG va kalsiy örtasidagi bu özaro boğliqliklar 80-bobda batafsilroq muhokama qilinadi."
+  },
+  "ch30-f92": {
+   "text": "**Jadval 30-3** da buyraklar orqali fosfat ekskretsiyasiga ta’sir qiluvçi ba’zi omillar umumlaştirilgan."
+  },
+  "ch30-f94": {
+   "text": "Buyraklar orqali magniy ekskretsiyasining va hujayradan taşqari magniy ionlari konsentratsiyasining boşqarilişi"
+  },
+  "ch30-f95": {
+   "text": "Organizmdagi magniyning yarmidan köpi suyaklarda saqlanadi. Qolgan qismining asosiy uluşi hujayralar içida böladi, hujayradan taşqari suyuqlikda esa 1% dan kamroği joylaşgan. Plazmadagi umumiy magniy konsentratsiyasi taxminan 1,8 mEq/L bölsa-da, uning yarmidan köpi plazma oqsillari bilan boğlangan. Şu sababli magniyning erkin ionlaşgan konsentratsiyasi atigi taxminan 0,8 mEq/L ni taşkil etadi."
+  },
+  "ch30-f96": {
+   "text": "Magniyning me’yoriy sutkalik iste’moli taxminan 250–300 mg/sutka, ammo uning faqat yarmiga yaqini oşqozon-içak yölida söriladi. Magniy balansini saqlaş uçun buyraklar ana şu sörilgan magniyni, ya’ni sutkalik magniy iste’molining taxminan yarmini — 125–150 mg/sutkani çiqarib yuborişi kerak. Buyraklar me’yorda koptokça filtratidagi magniyning taxminan 10–15% ini çiqaradi."
+  },
+  "ch30-f97": {
+   "text": "Buyraklar orqali magniy ekskretsiyasi magniy ortiqça bölganda keskin oşişi yoki magniy kamayganda deyarli nolgaça tuşişi mumkin. Magniy organizmdagi köplab biokimyoviy jarayonlarda, jumladan köplab fermentlarning faollaşuvida iştirok etgani uçun uning konsentratsiyasi qat’iy boşqarilişi kerak."
+  },
+  "ch30-f98": {
+   "text": "Magniy ekskretsiyasini boşqariş asosan kanalçalardagi reabsorbsiyani özgartiriş orqali amalga oşiriladi. Proksimal kanalça odatda filtrlangan magniyning atigi taxminan 25% ini reabsorbsiyalaydi. Reabsorbsiyaning asosiy joyi Henle qovuzloği bölib, bu yerda magniyning filtrlangan yukining taxminan 65% i reabsorbsiyalanadi. Filtrlangan magniyning faqat oz qismi (odatda <5%) distal va yiğuvçi kanalçalarda reabsorbsiyalanadi."
+  },
+  "ch30-f99": {
+   "text": "Magniy reabsorbsiyasini boşqaruvçi mexanizmlar yaxşi örganilmagan, ammo **Jadval 30-4** da buyraklar orqali magniy ekskretsiyasiga ta’sir qiluvçi ba’zi omillar umumlaştirilgan. E’tibor bering, buyraklar orqali kalsiy ekskretsiyasini özgartiradigan bir qança omillar magniy ekskretsiyasiga ham şunga öxşaş ta’sir körsatadi."
+  },
+  "ch30-f101": {
+   "text": "Hujayradan taşqari suyuqlikni nazorat qiluvçi buyrak mexanizmlarining integratsiyasi"
+  },
+  "ch30-f102": {
+   "text": "Hujayradan taşqari suyuqlik hajmi asosan suv va tuzning tuşişi hamda çiqarilişi örtasidagi muvozanat bilan belgilanadi. Köp hollarda tuz va suyuqlik iste’moli fiziologik nazorat mexanizmlaridan köra odamning odatlari bilan belgilanadi. Şu sababli hujayradan taşqari hajmni boşqariş yuki köpinça buyraklar zimmasiga tuşadi: ular barqaror holat şaroitida tuz va suv ekskretsiyasini iste’molga moslaştirişi kerak."
+  },
+  "ch30-f103": {
+   "text": "Hujayradan taşqari suyuqlik hajmining boşqarilişini muhokama qilişda biz hujayradan taşqari suyuqlikdagi natriy xlorid miqdorini nazorat qiluvçi omillarni körib çiqamiz, çunki antidiuretik gormon (ADG)–çanqoq mexanizmlari işlab turgan bölsa, hujayradan taşqari suyuqlikdagi natriy xlorid miqdorining özgarişi odatda hujayradan taşqari suyuqlik hajmining parallel özgarişlariga sabab böladi. ADG-çanqoq mexanizmlari me’yorida işlaganda hujayradan taşqari suyuqlikdagi natriy xlorid miqdorining özgarişi odatda hujayradan taşqari suvning miqdoridagi şunga öxşaş özgariş bilan muvozanatlanadi va şu tariqa osmolyallik hamda natriy konsentratsiyasi nisbatan doimiy saqlanadi."
+  },
+  "ch30-f104": {
+   "text": "Barqaror holat şaroitida natriy iste’moli va ekskretsiyasi muvozanatda böladi"
+  },
+  "ch30-f105": {
+   "text": "Natriy ekskretsiyasini — aslida köpçilik elektrolitlar ekskretsiyasini ham — umumiy nazorat qilişda muhim jihat şundaki, barqaror holat şaroitida buyraklar orqali ekskretsiya iste’mol bilan belgilanadi. Hayotni saqlaş uçun odam uzoq muddatda iste’mol qilgan natriy miqdorini deyarli aynan çiqarib yuborişi kerak. Şu sababli buyrak funksiyasida katta özgarişlarga sabab böladigan buzilişlarda ham natriyning tuşişi va çiqarilişi örtasidagi muvozanat odatda bir neça kun içida tiklanadi."
+  },
+  "ch30-f106": {
+   "text": "Agar buyrak funksiyasining buzilişlari unçalik oğir bölmasa, natriy balansiga asosan buyrak içidagi moslaşuvlar orqali, hujayradan taşqari suyuqlik hajmining yoki boşqa tizimli moslaşuvlarning minimal özgarişlari bilan erişiş mumkin. Biroq buyraklarga ta’sir qiluvçi buzilişlar oğir bölsa va buyrak içidagi kompensatsiyalar tugasa, köpinça tizimli moslaşuvlar — masalan, qon bosimi, aylanib yuruvçi gormonlar va simpatik nerv tizimi faolligining özgarişlari işga tuşadi."
+  },
+  "ch30-f107": {
+   "text": "Bu moslaşuvlar umumiy gomeostaz uçun qimmatga tuşişi mumkin, çunki ular butun organizmda uzoq muddatda zararli bölişi mumkin bölgan boşqa özgarişlarni keltirib çiqaradi. Masalan, buyrak funksiyasining buzilişi qon bosimining oşişiga olib kelişi mumkin, bu esa öz navbatida natriyning me’yoriy ekskretsiyasini saqlaşga yordam beradi. Uzoq muddatda yuqori qon bosimi qon tomirlari, yurak va boşqa a’zolarni şikastlaşi mumkin. Biroq bu kompensatsiyalar zarur, çunki suyuqlik va elektrolitlar iste’moli bilan ekskretsiyasi örtasidagi davomli nomutanosiblik tezda elektrolitlar va suyuqlikning töplanişiga yoki yöqotilişiga olib kelib, bir neça kun içida yurak-qon tomir tizimi uçun oğir oqibatlarga sabab bölar edi. Şunday qilib, buyrak funksiyasi buzilişlariga javoban yuzaga keladigan tizimli moslaşuvlarni elektrolitlar va suyuqlik ekskretsiyasini iste’mol bilan qayta muvozanatga keltiradigan zaruriy murosa deb qaraş mumkin."
+  },
+  "ch30-f108": {
+   "text": "Natriy ekskretsiyasi koptokçalar filtratsiyasi yoki kanalçalarda natriy reabsorbsiyasi tezligini özgartiriş orqali nazorat qilinadi"
+  },
+  "ch30-f109": {
+   "text": "Natriy va suv ekskretsiyasiga ta’sir qiluvçi ikki özgaruvçi — koptokçalar filtratsiyasi va kanalçalar reabsorbsiyasi tezliklari:"
+  },
+  "ch30-f110": {
+   "text": "KFT me’yorda taxminan 180 L/sutka, kanalçalar reabsorbsiyasi 178,5 L/sutka, siydik ekskretsiyasi esa 1,5 L/sutka ni taşkil etadi. Demak, KFT yoki kanalçalar reabsorbsiyasidagi kiçik özgarişlar ham buyraklar orqali ekskretsiyada katta özgarişlarga sabab bölişi mumkin. Masalan, agar kanalçalardagi kompensatsiyalar yuz bermasa, KFT ning 5% ga oşişi (189 L/sutkagaça) siydik hajmini sutkasiga 9 L ga oşirgan bölar edi; bu esa tezda organizm suyuqliklari hajmida halokatli özgarişlarni keltirib çiqarardi. Xuddi şuningdek, KFT ning kompensator moslaşuvlari bölmaganda kanalçalar reabsorbsiyasidagi kiçik özgarişlar ham siydik hajmi va natriy ekskretsiyasida keskin özgarişlarga olib kelardi. Kanalçalar reabsorbsiyasi va KFT odatda bir-biriga parallel ravişda aniq boşqariladi, şunda buyraklar orqali ekskretsiya suv va elektrolitlar iste’moliga aynan mos kelişi mumkin."
+  },
+  "ch30-f111": {
+   "text": "KFT yoki kanalçalar reabsorbsiyasini özgartiradigan buzilişlarda ham siydik ekskretsiyasidagi özgarişlar turli buferlovçi mexanizmlar yordamida minimal darajaga tuşiriladi. Masalan, agar buyrak tomirlari keskin kengaysa va KFT oşsa (bu ayrim dorilar ta’sirida yoki yuqori isitmada yuz berişi mumkin), bu holat kanalçalarga natriy xlorid yetkazilişini oşiradi, bu esa öz navbatida kamida ikkita buyrak içidagi kompensatsiyaga olib keladi: (1) qöşimça filtrlangan natriy xloridning katta qismining kanalçalarda reabsorbsiyasi kuçayadi — bu _koptokça-kanalça muvozanati_ deb ataladi; (2) _ziç doğ (macula densa) qayta aloqasi,_ bunda distal kanalçaga natriy xlorid yetkazilişining oşişi afferent arteriolaning torayişiga va KFT ning me’yorga qaytişiga sabab böladi. Xuddi şuningdek, 27-bobda muhokama qilinganidek, proksimal kanalça yoki Henle qovuzloğidagi reabsorbsiya buzilişlari ham ana şu buyrak içidagi qayta aloqalar orqali qisman kompensatsiyalanadi."
+  },
+  "ch30-f112": {
+   "text": "Bu ikki mexanizmning heç biri distal qismlarga natriy xlorid yetkazilişini töliq me’yorga qaytariş uçun mukammal işlamagani sababli, KFT yoki kanalçalar reabsorbsiyasining özgarişlari siydik bilan natriy va suv ekskretsiyasida sezilarli özgarişlarga olib kelişi mumkin. Bunday hollarda qon bosimi va turli gormonlarning özgarişlari kabi boşqa qayta aloqa mexanizmlari işga tuşişi mumkin; bu mexanizmlar oxir-oqibat natriy ekskretsiyasini natriy iste’moliga tenglaştiradi. Keyingi bir neça bölimda bu mexanizmlarning natriy va suv balansini nazorat qiliş uçun qanday birgalikda işlaşini va şu orqali hujayradan taşqari suyuqlik hajmini ham nazorat qilişini körib çiqamiz. Bu qayta aloqa mexanizmlarining barçasi natriy va suvning buyraklar orqali ekskretsiyasini KFT yoki kanalçalar reabsorbsiyasini özgartiriş orqali nazorat qiladi."
+  },
+  "ch30-f113": {
+   "text": "Organizmda natriy va suyuqlik balansini saqlaşda bosim natriurezi va bosim diurezining ahamiyati"
+  },
+  "ch30-f114": {
+   "text": "Natriy va suyuqlik balansini saqlaş, şuningdek qon hajmi va hujayradan taşqari suyuqlik hajmini nazorat qilişning eng asosiy va kuçli mexanizmlaridan biri — qon bosimining natriy va suv ekskretsiyasiga ta’siri, ya’ni mos ravişda _bosim natriurezi_ va _bosim diurezi_ mexanizmlari. 19-bobda muhokama qilinganidek, bu qayta aloqa qon bosimini uzoq muddatli boşqarişda ham yetakçi rol öynaydi."
+  },
+  "ch30-f115": {
+   "text": "**Rasm 30-13** da arterial bosimning siydik bilan natriy çiqarilişiga ta’siri körsatilgan. E’tibor bering, qon bosimining 30–50 mm sim. ust. ga ötkir oşişi siydik bilan natriy çiqarilişini ikki-uç baravar oşiradi. Bu ta’sir simpatik nerv tizimi faolligining yoki angiotenzin II (Ang II), ADG, aldosteron kabi turli gormonlarning özgarişlariga boğliq emas, çunki bosim natriurezini bu omillar ta’siridan xoli qilingan ajratilgan buyrakda ham namoyiş qiliş mumkin. Qon bosimi surunkali oşganda bosim natriurezining samaradorligi keskin ortadi, çunki oşgan qon bosimi qisqa keçikişdan söng renin ajralişini ham susaytiradi va demak, Ang II hamda aldosteron hosil bölişini kamaytiradi. Avval muhokama qilinganidek, Ang II va aldosteron darajasining pasayişi buyrak kanalçalarida natriy reabsorbsiyasini tormozlaydi va şu bilan oşgan qon bosimining natriy va suv ekskretsiyasini oşirişdagi bevosita ta’sirlarini kuçaytiradi."
+  },
+  "ch30-f117": {
+   "text": "Bosim natriurezi va diurezi — organizm suyuqliklari hajmi va arterial bosimni boşqaruvçi buyrak–organizm suyuqliklari qayta aloqasining asosiy tarkibiy qismlari"
+  },
+  "ch30-f118": {
+   "text": "Qon bosimi oşişining siydik ajralişini köpaytiriş ta’siri, **Rasm 30-14** da körsatilganidek, suyuqlik iste’moli va çiqarilişi örtasidagi muvozanatni saqlaşga xizmat qiluvçi kuçli qayta aloqa tizimining bir qismidir. Bu mexanizm 19-bobda arterial bosim nazorati uçun muhokama qilingan mexanizmning aynan özi. Hujayradan taşqari suyuqlik hajmi, qon hajmi, yurakning daqiqalik hajmi, arterial bosim va siydik ajralişi — bularning barçasi uşbu asosiy qayta aloqa mexanizmining alohida qismlari sifatida bir vaqtning özida nazorat qilinadi."
+  },
+  "ch30-f120": {
+   "text": "Natriy va suyuqlik iste’moli özgarganda bu qayta aloqa mexanizmi suyuqlik balansini saqlaşga yordam beradi va qon hajmi, hujayradan taşqari suyuqlik hajmi hamda arterial bosimdagi özgarişlarni quyidagiça minimal darajaga tuşiradi: 1. Suyuqlik iste’molining (suyuqlik bilan birga natriy ham tuşadi deb faraz qilinganda) siydik ajralişi darajasidan oşişi organizmda suyuqlikning vaqtinça töplanişiga sabab böladi. 2. Suyuqlik iste’moli siydik ajralişidan oşib turar ekan, suyuqlik qon va interstitsial böşliqlarda töplanadi, natijada qon hajmi va hujayradan taşqari suyuqlik hajmi parallel ravişda oşadi. Keyinroq muhokama qilinganidek, bu qayta aloqaning samaradorligi tufayli bu özgaruvçilarning haqiqiy oşişi odatda kiçik böladi. 3. Qon hajmining oşişi qon aylanişining örtaça töliş bosimini oşiradi. 4. Örtaça töliş bosimining oşişi venoz qaytiş uçun bosim gradiyentini oşiradi. 5. Venoz qaytiş uçun bosim gradiyentining oşişi yurakning daqiqalik hajmini oşiradi. 6. Yurakning daqiqalik hajmining oşişi arterial bosimni kötaradi. 7. Arterial bosimning oşişi bosim diurezi orqali siydik ajralişini köpaytiradi. Me’yoriy bosim natriurezi boğliqligining tikligi siydik ekskretsiyasini bir neça baravar oşiriş uçun qon bosimining juda oz oşişi kifoya ekanini körsatadi. 8. Suyuqlik ekskretsiyasining oşişi oşgan iste’molni muvozanatlaydi va suyuqlikning keyingi töplanişining oldi olinadi. Şunday qilib, buyrak–organizm suyuqliklari qayta aloqa mexanizmi tuz va suv iste’moli oşganda organizmda tuz va suvning uzluksiz töplanişining oldini oladi. Buyraklar hamda turli nerv va gormonal mexanizmlar samarali işlar ekan, tuz va suv iste’molidagi katta özgarişlarga qon hajmi, hujayradan taşqari suyuqlik hajmi, yurakning daqiqalik hajmi va arterial bosimning minimal özgarişlari bilan moslaşiş mumkin."
+  },
+  "ch30-f121": {
+   "text": "Suyuqlik iste’moli me’yordan pasayganda hodisalar teskari ketma-ketlikda keçadi. Bu holda qon hajmi va hujayradan taşqari suyuqlik hajmining kamayişiga, şuningdek arterial bosimning pasayişiga moyillik paydo böladi. Qon bosimining hatto kiçik pasayişi ham siydik ajralişini keskin kamaytiradi va şu bilan qon bosimi, qon hajmi yoki hujayradan taşqari suyuqlik hajmining minimal özgarişlari bilan suyuqlik balansini saqlaşga imkon beradi. Bu mexanizmning qon hajmidagi katta özgarişlarning oldini olişdagi samaradorligi **Rasm 30-15** da namoyiş etilgan: suv va elektrolitlarning sutkalik iste’molidagi katta özgarişlarga qaramay, qon hajmining özgarişlari deyarli sezilmaydi; faqat iste’mol şunçalik kamayib ketganki, u buğlaniş yoki boşqa muqarrar yöqotişlar natijasidagi suyuqlik yöqotilişini qoplaşga yetmay qolgan holatlar bundan mustasno."
+  },
+  "ch30-f123": {
+   "text": "Keyinroq muhokama qilinganidek, buyrak içidagi mexanizmlardan taşqari köplab odamlarda yurakning daqiqalik hajmi yoki arterial bosim ölçanadigan darajada oşmasa ham natriy ekskretsiyasini oşgan natriy iste’moliga moslaştira oladigan nerv va gormonal tizimlar mavjud. Boşqa, “tuzga sezgirroq” odamlarda natriy iste’molining hatto örtaça oşişi ham arterial bosimning sezilarli kötarilişiga olib keladi. Natriyni bir neça yil davomida uzoq vaqt köp iste’mol qilganda boşida tuzga sezgir bölmagan odamlarda ham yuqori qon bosimi yuzaga kelişi mumkin. Qon bosimi kötarilganda bosim natriurezi natriy iste’moli va siydik bilan natriy ekskretsiyasi örtasidagi muvozanatni saqlaşning hal qiluvçi vositasi bölib xizmat qiladi."
+  },
+  "ch30-f124": {
+   "text": "Qon hajmi va hujayradan taşqari suyuqlik hajmini boşqarişning samaradorligi"
+  },
+  "ch30-f125": {
+   "text": "**Rasm 30-14** ni örganib, sutkalik suyuqlik iste’moli keskin özgarişiga qaramay qon hajmi deyarli aynan doimiy qolişining asosiy sabablarini köriş mumkin: (1) qon hajmining ozgina özgarişi yurakning daqiqalik hajmini sezilarli özgartiradi; (2) yurakning daqiqalik hajmining ozgina özgarişi qon bosimini katta özgartiradi; (3) qon bosimining ozgina özgarişi siydik ajralişini katta özgartiradi. Bu omillar birgalikda qon hajmini samarali qayta aloqa orqali nazorat qilişni ta’minlaydi."
+  },
+  "ch30-f126": {
+   "text": "Qon ketişi natijasida qon yöqotilganda ham xuddi şu nazorat mexanizmlari işlaydi. Bu holda qon bosimining pasayişi va (keyinroq muhokama qilinadigan) nerv hamda gormonal omillar buyraklarda suyuqlikning uşlab qolinişiga sabab böladi. Qondagi eritrotsitlar va plazma oqsillarini tiklaş uçun boşqa parallel jarayonlar ham keçadi. Agar eritrotsitlar hajmidagi buzilişlar saqlanib qolsa, masalan eritropoetin yoki eritrotsitlar hosil bölişini rağbatlantiriş uçun zarur boşqa omillar yetişmaganda, odatda plazma hajmi bu farqni qoplaydi va eritrotsitlar massasi kamligiga qaramay umumiy qon hajmi amalda me’yorga qaytadi."
+  },
+  "ch30-f127": {
+   "text": "Hujayradan taşqari suyuqlikning interstitsial böşliqlar va qon tomir tizimi örtasida taqsimlanişi"
+  },
+  "ch30-f128": {
+   "text": "**Rasm 30-14** dan körinib turibdiki, qon hajmi va hujayradan taşqari suyuqlik hajmi odatda bir-biriga parallel ravişda nazorat qilinadi. Iste’mol qilingan suyuqlik dastlab qonga tuşadi, ammo tezda interstitsial böşliqlar va plazma örtasida taqsimlanadi. Şu sababli qon hajmi va hujayradan taşqari suyuqlik hajmi odatda bir vaqtda nazorat qilinadi."
+  },
+  "ch30-f129": {
+   "text": "Biroq hujayradan taşqari suyuqlikning interstitsial böşliqlar va qon örtasida taqsimlanişi keskin özgarişi mumkin bölgan holatlar ham bor. 25-bobda muhokama qilinganidek, _interstitsial böşliqlarda suyuqlik töplanişiga sabab bölişi mumkin bölgan asosiy omillar quyidagilar: (1) kapillyarlardagi gidrostatik bosimning oşişi_; _(2) plazma kolloid-osmotik bosimining pasayişi_; _(3) kapillyarlar ötkazuvçanligining oşişi_; _(4) limfa tomirlarining tiqilib qolişi_. Bu holatlarning barçasida hujayradan taşqari suyuqlikning odatdagidan ança katta uluşi interstitsial böşliqlarga taqsimlanadi."
+  },
+  "ch30-f130": {
+   "text": "**Rasm 30-16** da suyuqlikning interstitsial böşliqlar va qon tomir tizimi örtasidagi me’yoriy taqsimlanişi hamda şiş holatlarida yuzaga keladigan taqsimlaniş körsatilgan. Suyuqlikni haddan taşqari köp iste’mol qiliş yoki buyraklar orqali suyuqlik çiqarilişining kamayişi natijasida qonda oz miqdorda suyuqlik töplanganda, uning taxminan 20–30% i qonda qoladi va qon hajmini oşiradi. Qolgan qismi interstitsial böşliqlarga taqsimlanadi. Hujayradan taşqari suyuqlik hajmi me’yordan 30–50% dan ortiq oşganda qöşimça suyuqlikning deyarli hammasi interstitsial böşliqlarga ötadi va qonda ozgina qismi qoladi. Interstitsial suyuqlik bosimi me’yoriy manfiy qiymatidan kötarilib musbat bölgaç, töqimalarning interstitsial böşliqlari çöziluvçan bölib qoladi va şundan söng interstitsial suyuqlik bosimi deyarli oşmagan holda katta miqdordagi suyuqlik töqimalarga quyiladi. Boşqaça aytganda, töqimalarda suyuqlik töplanişiga qarşi turuvçi interstitsial suyuqlik bosimining kötarilişi bilan boğliq şişga qarşi xavfsizlik omili töqimalar yuqori çöziluvçan bölib qolgaç yöqoladi."
+  },
+  "ch30-f132": {
+   "text": "Şunday qilib, me’yoriy şaroitda interstitsial böşliqlar ortiqça suyuqlik uçun “toşqin” zaxirasi vazifasini bajaradi va ba’zan ularning hajmi 10–30 litrga oşadi. Bu holat, 25-bobda tuşuntirilganidek, şişga sabab böladi, ammo u qon aylanişi uçun muhim “toşqin” çiqariş klapani vazifasini ham bajaradi va yurak-qon tomir tizimini öpka şişi hamda yurak yetişmovçiligiga olib kelişi mumkin bölgan xavfli ortiqça yuklanişdan himoya qiladi."
+  },
+  "ch30-f133": {
+   "text": "Xulosa qilib aytganda, hujayradan taşqari suyuqlik hajmi va qon hajmi köpinça bir vaqtda nazorat qilinadi, ammo suyuqlikning interstitsiy va qon örtasida taqsimlanadigan miqdorlari qon aylanişi va interstitsial böşliqlarning fizik xususiyatlariga hamda kapillyar membranalari orqali suyuqlik almaşinuvi dinamikasiga boğliq."
+  },
+  "ch30-f134": {
+   "text": "Nerv va gormonal omillar buyrak–organizm suyuqliklari qayta aloqa nazoratining samaradorligini oşiradi"
+  },
+  "ch30-f135": {
+   "text": "27- va 28-boblarda KFT va kanalçalar reabsorbsiyasiga, demak, buyraklar orqali tuz va suv ekskretsiyasiga ta’sir qiluvçi nerv va gormonal omillarni muhokama qilamiz. Bu nerv va gormonal mexanizmlar odatda bosim natriurezi va bosim diurezi mexanizmlari bilan birga işlaydi va kundalik ta’sirlarga javoban yuzaga keladigan qon hajmi, hujayradan taşqari suyuqlik hajmi va arterial bosim özgarişlarini minimal darajaga tuşirişda ularni yanada samarali qiladi. Köp hollarda nerv va gormonal mexanizmlar qon bosimini sezilarli özgartirmasdan buyraklar orqali natriy va suv ekskretsiyasini boşqarişi hamda iste’mol va çiqariliş örtasidagi muvozanatni saqlaşi mumkin. Biroq, keyinroq muhokama qilinganidek, buyrak funksiyasining yoki buyraklarga ta’sir qiluvçi turli nerv va gormonal omillarning buzilişlari qon bosimi va organizm suyuqliklari hajmida jiddiy özgarişlarga olib kelişi mumkin."
+  },
+  "ch30-f136": {
+   "text": "Buyrak ekskretsiyasining simpatik nerv tizimi tomonidan nazorati: arterial baroretseptor va past bosimli çöziliş retseptorlari reflekslari"
+  },
+  "ch30-f137": {
+   "text": "Buyraklar keng simpatik innervatsiyaga ega bölgani uçun simpatik faollikning özgarişlari ba’zi şaroitlarda buyraklar orqali natriy va suv ekskretsiyasini, şuningdek hujayradan taşqari suyuqlik hajmining boşqarilişini özgartirişi mumkin. Masalan, qon ketişi natijasida qon hajmi kamayganda öpka qon tomirlari va kökrak qafasining boşqa past bosimli sohalarida bosim pasayadi, bu esa simpatik nerv tizimining reflektor faollaşuviga sabab böladi. Bu öz navbatida buyrak simpatik nervlari faolligini oşiradi va u natriy va suv ekskretsiyasini kamaytiruvçi bir qança ta’sirlarga ega: (1) buyrak arteriolalarining torayişi, bu simpatik faollaşuv kuçli bölganda KFT ni kamaytiradi; (2) kanalçalarda tuz va suv reabsorbsiyasining kuçayişi; (3) renin ajralişining rağbatlanişi hamda Ang II va aldosteron hosil bölişining oşişi, bularning ikkalasi ham kanalçalar reabsorbsiyasini yanada oşiradi. Agar qon hajmining kamayişi tizimli arterial bosimni pasaytiradigan darajada katta bölsa, uyqu arteriyasi sinusi va aorta ravoğida joylaşgan arterial baroretseptorlarning çözilişi kamayişi tufayli simpatik nerv tizimi yanada faollaşadi. Bu reflekslarning barçasi birgalikda qon ketişi kabi ötkir holatlarda qon hajmining tez tiklanişida muhim rol öynaydi. Şuningdek, buyrak simpatik faolligining reflektor tormozlanişi köp miqdorda tuz va suv tutgan ovqat iste’mol qilingandan keyin qon aylanişidagi ortiqça suyuqlikning tez çiqarilişiga hissa qöşişi mumkin."
+  },
+  "ch30-f138": {
+   "text": "Biroq simpatik nerv tizimining haddan taşqari va noörin faollaşuvi renin sekretsiyasi, Ang II hosil bölişi va buyraklarda natriy reabsorbsiyasining oşişi kabi qon bosimini kötaradigan ta’sirlar kaskadiga olib kelişi mumkin. Haqiqatan ham, buyrak simpatik nervlarining ablyatsiyasi gipertenziyada, ayniqsa u semizlik bilan boğliq bölganda, köpinça arterial bosimni pasaytiradi."
+  },
+  "ch30-f139": {
+   "text": "Buyrak ekskretsiyasini nazorat qilişda angiotenzin II ning roli"
+  },
+  "ch30-f140": {
+   "text": "Organizmdagi natriy ekskretsiyasining eng kuçli boşqaruvçilaridan biri — Ang II. Natriy iste’molining özgarişlari Ang II hosil bölişining teskari özgarişlari bilan birga keçadi va bu öz navbatida organizmda natriy balansini saqlaşga katta hissa qöşadi. Natriy iste’moli me’yordan oşganda renin sekretsiyasi va Ang II hosil bölişi kamayadi. 28-bobda tuşuntirilganidek, Ang II kanalçalarda natriy reabsorbsiyasini oşiruvçi bir qança muhim ta’sirlarga ega bölgani uçun, Ang II darajasining pasayişi kanalçalarda natriy va suv reabsorbsiyasini kamaytiradi va şu bilan buyraklar orqali natriy va suv ekskretsiyasini oşiradi. Natijada natriy iste’moli oşganda aks holda yuzaga keladigan hujayradan taşqari suyuqlik hajmi va arterial bosimning kötarilişi minimal darajaga tuşadi."
+  },
+  "ch30-f141": {
+   "text": "Aksinça, natriy iste’moli me’yordan kamayganda Ang II darajasining oşişi natriy va suvning uşlab qolinişiga sabab böladi va aks holda yuzaga keladigan arterial qon bosimining pasayişiga qarşilik qiladi. Şunday qilib, renin-angiotenzin tizimi faolligining özgarişlari natriy ekskretsiyasining kuçli boşqaruvçisi va barqaror qon bosimi hamda organizm suyuqliklari hajmini saqlaş uçun bosim natriurezi mexanizmining kuçaytirgiçi vazifasini bajaradi."
+  },
+  "ch30-f142": {
+   "text": "Ang II ning natriy balansini boşqarişdagi va bosim natriurezi mexanizmini samaraliroq qilişdagi ahamiyati **Rasm 19-13** va **Rasm 30-17** da körsatilgan. E’tibor bering, natriurezning angiotenzin orqali nazorati töliq işlaganda bosim natriurezi egri çiziği tik böladi (me’yoriy egri çiziq); bu natriy iste’moli oşganda natriy ekskretsiyasining oşişiga arterial bosimning minimal özgarişlari bilan erişiş mumkinligini körsatadi.",
+   "lead": "Natriy balansini boşqariş va bosim natriurezini özgartirişda angiotenzin II özgarişlarining ahamiyati."
+  },
+  "ch30-f144": {
+   "text": "Aksinça, natriy iste’molining oşişiga javoban Ang II darajasini pasaytirib bölmaganda (yuqori angiotenzin II egri çiziği) — bu renin sekretsiyasi va Ang II hosil bölişini kamaytiriş qobiliyati buzilgan ayrim gipertenziyali bemorlarda kuzatiladi — bosim natriurezi egri çiziği unçalik tik bölmaydi. Şu sababli natriy iste’moli oşganda natriy ekskretsiyasini oşiriş va natriy balansini saqlaş uçun arterial bosim ança köproq oşişi kerak böladi. Masalan, köpçilik odamlarda natriy iste’molining 10 baravar oşişi arterial bosimni atigi bir neça mm sim. ust. ga oşiradi, ortiqça natriyga javoban Ang II hosil bölişini yetarliça pasaytira olmaydigan şaxslarda esa natriy iste’molining xuddi şunday oşişi qon bosimini 50 mm sim. ust. gaça kötaradi. Şunday qilib, 19-bobda muhokama qilinganidek, natriy ortiqça bölganda Ang II hosil bölişini pasaytira olmaslik bosim natriurezining qiyaligini kamaytiradi va arterial bosimni tuzga juda sezgir qilib qöyadi."
+  },
+  "ch30-f145": {
+   "text": "Ang II ta’sirlarini bloklovçi dorilarni qöllaş buyraklarning tuz va suvni çiqariş qobiliyatini yaxşilaşda klinik jihatdan muhim ekanligi isbotlangan. Ang II hosil bölişi angiotenzinni özgartiruvçi ferment (AÖF) ingibitori (**Rasm 19-13** va **Rasm 30-17** ga qarang) yoki Ang II retseptorlari antagonisti bilan bloklanganda buyrak bosim natriurezi egri çiziği pastroq bosimlar tomon siljiydi; bu buyraklarning natriyni çiqariş qobiliyati oşganini körsatadi, çunki endi natriy ekskretsiyasining me’yoriy darajalari pasaygan arterial bosimda ham saqlanişi mumkin. Bosim natriurezining bu siljişi AÖF ingibitorlari va Ang II retseptorlari antagonistlarining gipertenziyali bemorlarda qon bosimini surunkali pasaytiruvçi ta’sirlarining asosini taşkil etadi."
+  },
+  "ch30-f146": {
+   "text": "Ang II organizmdagi natriy va suvni uşlab qoluvçi eng kuçli gormonlardan biri bölsa-da, yurak yetişmovçiligi yoki buyrak yetişmovçiligi bölmas ekan, aylanib yuruvçi Ang II ning kamayişi ham, oşişi ham hujayradan taşqari suyuqlik hajmi yoki qon hajmiga katta ta’sir körsatmaydi. Bu hodisaning sababi şundaki, Ang II darajasi keskin oşganda — masalan, buyrakning renin işlab çiqaruvçi ösmasida — yuqori Ang II darajasi dastlab buyraklarda natriy va suvning uşlab qolinişiga va hujayradan taşqari suyuqlik hajmining ozgina oşişiga sabab böladi. Bu esa arterial bosimning kötarilişini ham boşlab beradi, u tezda buyraklar orqali natriy va suv çiqarilişini oşiradi va şu bilan Ang II ning natriy va suvni uşlab qoluvçi ta’sirlarini yengib, natriyning tuşişi va çiqarilişi örtasidagi muvozanatni yuqoriroq qon bosimida qayta tiklaydi. Aksinça, Ang II hosil bölişi AÖF ingibitori yoki Ang II retseptorlari antagonisti bilan bloklangandan söng dastlab natriy va suv yöqotiladi, ammo qon bosimining pasayişi bu ta’sirni tezda qoplaydi va natriy ekskretsiyasi yana me’yorga qaytadi.",
+   "lead": "Ortiqça angiotenzin II odatda hujayradan taşqari suyuqlik hajmini katta oşirmaydi, çunki arterial bosimning oşişi angiotenzin II vositasidagi natriy uşlab qolinişini muvozanatlaydi."
+  },
+  "ch30-f147": {
+   "text": "Agar yurak zaiflaşgan bölsa yoki asosiy yurak kasalligi mavjud bölsa, yurakning nasos qobiliyati Ang II yuqori darajalarining natriyni uşlab qoluvçi ta’sirlarini yengiş uçun arterial bosimni yetarliça kötarişga qodir bölmasligi mumkin; bunday hollarda Ang II natriy va suvning köp miqdorda uşlab qolinişiga sabab bölişi mumkin, bu esa _dimlanişli yurak yetişmovçiligiga_ ötişi mumkin. Bunday hollarda Ang II hosil bölişining blokadasi natriy va suvning uşlab qolinişini qisman bartaraf etişi va yurak yetişmovçiligi bilan boğliq hujayradan taşqari suyuqlik hajmining katta kengayişini susaytirişi mumkin."
+  },
+  "ch30-f148": {
+   "text": "Buyrak ekskretsiyasini nazorat qilişda aldosteronning roli"
+  },
+  "ch30-f149": {
+   "text": "Aldosteron natriy reabsorbsiyasini, ayniqsa yiğuvçi kanalçalar va yiğuvçi nayçalarda oşiradi. Natriy reabsorbsiyasining oşişi suv reabsorbsiyasi va kaliy sekretsiyasining oşişi bilan ham birga keçadi. Şu sababli aldosteronning umumiy ta’siri — buyraklarning natriy va suvni uşlab qolişi hamda siydik bilan kaliy ekskretsiyasining oşişi."
+  },
+  "ch30-f150": {
+   "text": "Aldosteronning natriy balansini boşqarişdagi funksiyasi Ang II uçun tasvirlangan funksiya bilan çambarças boğliq. Ya’ni natriy iste’moli kamayganda Ang II darajasining oşişi aldosteron sekretsiyasini rağbatlantiradi, aldosteron esa öz navbatida siydik bilan natriy ekskretsiyasining kamayişiga va demak, natriy balansining saqlanişiga hissa qöşadi. Aksinça, natriy iste’moli yuqori bölganda aldosteron hosil bölişining susayişi kanalçalar reabsorbsiyasini kamaytiradi va buyraklarga köproq natriy çiqarişga imkon beradi. Şunday qilib, aldosteron hosil bölişining özgarişlari ham tuz iste’moli özgarganda natriy balansini saqlaşda bosim natriurezi mexanizmiga yordam beradi."
+  },
+  "ch30-f151": {
+   "text": "Aldosteron natriy reabsorbsiyasiga kuçli ta’sir körsatsa-da, aldosteron haddan taşqari köp hosil bölganda, masalan buyrak usti bezi ösmalari bölgan bemorlarda (Konn sindromi), buyraklarda natriy reabsorbsiyasining oşişi va natriy ekskretsiyasining kamayişi vaqtinçalik böladi. Natriy va suv 1–3 kun uşlab qolingandan söng hujayradan taşqari suyuqlik hajmi taxminan 10–15% ga oşadi va bir vaqtning özida arterial qon bosimi ham kötariladi. Arterial bosim yetarliça kötarilganda buyraklar natriy va suvni uşlab qolişdan “qoçib çiqadi” va şundan söng aldosteronning yuqori darajasi saqlanib turişiga qaramay, sutkalik iste’molga teng miqdorda natriy çiqaradi. Bu “qoçib çiqiş”ning asosiy sababi arterial bosim kötarilganda yuzaga keladigan bosim natriurezi va diurezidir (78-bob, **Rasm 78-3** ga qarang).",
+   "lead": "Aldosteron surunkali ortiqça sekretsiya qilinganda arterial bosim kötarilişi bilan buyraklar natriy uşlab qolişdan “qoçib çiqadi”."
+  },
+  "ch30-f152": {
+   "text": "Yetarli aldosteron sekretsiya qilmaydigan buyrak usti bezi yetişmovçiligi bölgan bemorlarda (Addison kasalligi) natriy va suv ekskretsiyasi oşadi, hujayradan taşqari suyuqlik hajmi kamayadi va past qon bosimiga moyillik paydo böladi. Aldosteron butunlay bölmaganda, agar odamga siydik bilan tuz va suv çiqarilişining oşişini muvozanatlaş uçun köp tuz iste’mol qiliş va köp suv içişga imkon berilmasa, hajm kamayişi oğir bölişi mumkin."
+  },
+  "ch30-f153": {
+   "text": "Buyraklar orqali suv ekskretsiyasini nazorat qilişda antidiuretik gormonning roli"
+  },
+  "ch30-f154": {
+   "text": "29-bobda muhokama qilinganidek, ADG buyraklarga me’yoriy miqdorda tuz çiqargan holda kam hajmli konsentrlangan siydik hosil qiliş imkonini berişda muhim rol öynaydi. Bu ta’sir ayniqsa suvsizlikda muhim: suvsizlik plazmadagi ADG darajasini keskin oşiradi, ADG esa öz navbatida buyraklarda suv reabsorbsiyasini oşiradi va aks holda yuzaga keladigan hujayradan taşqari suyuqlik hajmi va arterial bosimning pasayişini minimal darajaga tuşirişga yordam beradi. 24–48 soatlik suvsizlik me’yorda hujayradan taşqari suyuqlik hajmi va arterial bosimni faqat ozgina pasaytiradi. Biroq agar ADG ning distal va yiğuvçi kanalçalarda suv reabsorbsiyasini kuçaytiriş ta’siriga qarşi ta’sir qiluvçi dori bilan ADG ta’sirlari bloklansa, xuddi şu muddatli suvsizlik hujayradan taşqari suyuqlik hajmi va arterial bosimning sezilarli pasayişiga sabab böladi. Aksinça, hujayradan taşqari hajm ortiqça bölganda ADG darajasining _pasayişi_ buyraklarda suv reabsorbsiyasini kamaytiradi va şu bilan organizmni ortiqça hajmdan xalos qilişga yordam beradi."
+  },
+  "ch30-f155": {
+   "text": "ADG hujayradan taşqari suyuqlik hajmini boşqarişda muhim bölsa-da, ADG ning haddan taşqari yuqori darajasi kamdan-kam hollarda arterial bosim yoki hujayradan taşqari suyuqlik hajmini katta oşiradi. Hayvonlarga köp miqdorda ADG infuziya qilinişi dastlab buyraklarda suvning uşlab qolinişiga va hujayradan taşqari suyuqlik hajmining 10–15% ga oşişiga sabab böladi. Bu hajm oşişiga javoban arterial bosim kötarilgaç, bosim diurezi mexanizmi tufayli ortiqça hajmning katta qismi çiqarib yuboriladi. Şuningdek, qon bosimining kötarilişi bosim natriureziga va hujayradan taşqari suyuqlikdan natriy yöqotilişiga sabab böladi. Bir neça kunlik ADG infuziyasidan söng qon hajmi va hujayradan taşqari suyuqlik hajmi 5–10% dan köp oşmaydi, arterial bosim ham 10 mm sim. ust. dan kamroq kötariladi. ADG darajasi bir neça baravar oşişi mumkin bölgan _ADG ning noadekvat sekretsiyasi sindromi_ bilan oğrigan bemorlarda ham xuddi şunday.",
+   "lead": "Antidiuretik gormonning ortiqça sekretsiyasi odatda hujayradan taşqari suyuqlik hajmini faqat ozgina oşiradi, ammo natriy konsentratsiyasini keskin pasaytiradi."
+  },
+  "ch30-f156": {
+   "text": "Şunday qilib, ADG ning yuqori darajasi organizm suyuqliklari hajmi yoki arterial bosimni katta oşirmaydi, ammo _ADG ning yuqori darajasi hujayradan taşqari natriy ionlari konsentratsiyasini keskin pasaytirişi mumkin_. Buning sababi şundaki, buyraklarda suv reabsorbsiyasining oşişi hujayradan taşqari natriyni suyultiradi va şu bilan birga qon bosimining yuzaga keladigan ozgina kötarilişi bosim natriurezi orqali hujayradan taşqari suyuqlikdan natriyning siydik bilan yöqotilişiga sabab böladi."
+  },
+  "ch30-f157": {
+   "text": "Supraoptik yadrolar yemirilişi tufayli ADG sekretsiya qiliş qobiliyatini yöqotgan bemorlarda siydik hajmi me’yordan 5–10 baravar köp bölişi mumkin. Hajmning bu oşişi deyarli har doim suyuqlik balansini saqlaş uçun yetarli miqdorda suv içiş bilan kompensatsiyalanadi. Agar suvdan erkin foydalanişga tösqinlik qilinsa, ADG sekretsiya qila olmaslik qon hajmi va arterial bosimning keskin pasayişiga olib kelişi mumkin."
+  },
+  "ch30-f158": {
+   "text": "Buyrak ekskretsiyasini nazorat qilişda bölmaça natriuretik peptidining roli"
+  },
+  "ch30-f159": {
+   "text": "Hozirgaça biz asosan natriy va suvni uşlab qoluvçi gormonlarning hujayradan taşqari suyuqlik hajmini nazorat qilişdagi rolini muhokama qildik. Biroq bir qança turli natriuretik gormonlar ham hajmni boşqarişga hissa qöşişi mumkin. Ularning eng muhimlaridan biri — yurak bölmaçalarining muskul tolalaridan ajraladigan _bölmaça natriuretik peptidi_ (atrial natriuretic peptide, ANP) deb ataladigan peptid. Bu peptid ajralişining asosiy stimuli — bölmaçalarning çözilişi kuçayişi bölib, bu qon hajmining ortiqçaligi natijasida yuzaga kelişi mumkin. Yurak bölmaçalaridan ajralgaç, ANP qon aylanişiga tuşadi va buyraklarga ta’sir qilib, KFT ning ozgina oşişiga, renin sekretsiyasi va Ang II hosil bölişining kamayişiga hamda yiğuvçi nayçalarda natriy reabsorbsiyasining pasayişiga sabab böladi. ANP ning bu birgalikdagi ta’sirlari tuz va suv ekskretsiyasining oşişiga olib keladi, bu esa ortiqça qon hajmini kompensatsiyalaşga yordam beradi."
+  },
+  "ch30-f160": {
+   "text": "ANP darajasining özgarişlari turli buzilişlarda, masalan tuz va suv iste’moli oşganda, qon hajmidagi özgarişlarni minimal darajaga tuşirişga yordam beradi. Biroq ANP ning haddan taşqari köp işlab çiqarilişi yoki hatto ANP ning butunlay yöqligi ham qon hajmida katta özgarişlarga sabab bölmaydi, çunki bu ta’sirlarni bosim natriurezi orqali ta’sir qiluvçi qon bosimining kiçik özgarişlari yengişi mumkin. Masalan, köp miqdorda ANP infuziya qilinişi dastlab siydik bilan tuz va suv çiqarilişini oşiradi va qon hajmini ozgina kamaytiradi. 24 soatdan kamroq vaqt içida bu ta’sirni qon bosimining ozgina pasayişi yengadi va ANP ning ortiqçaligi davom etişiga qaramay siydik ajralişi me’yorga qaytadi."
+  },
+  "ch30-f161": {
+   "text": "Natriy iste’moli özgarişlariga integratsiyalaşgan javoblar"
+  },
+  "ch30-f162": {
+   "text": "Me’yoriy şaroitda natriy va suyuqlik ekskretsiyasini boşqaruvçi turli nazorat tizimlarining integratsiyasini parhezdagi natriy iste’molining bosqiçma-bosqiç oşişiga gomeostatik javoblarni körib çiqiş orqali umumlaştiriş mumkin. Avval qayd etilganidek, buyraklar tuz va suv ekskretsiyasini iste’molga moslaştirişda ajoyib qobiliyatga ega; iste’mol me’yorning öndan bir qismidan tortib me’yordan 10 baravar köpgaça özgarişi mumkin."
+  },
+  "ch30-f163": {
+   "text": "Natriy iste’moli oşganda natriy çiqarilişi dastlab iste’moldan biroz ortda qoladi. Bu vaqt keçikişi natriyning jamlangan balansining ozgina oşişiga olib keladi, bu esa hujayradan taşqari suyuqlik hajmini ozgina oşiradi. Aynan hujayradan taşqari suyuqlik hajmining ana şu kiçik oşişi asosan organizmda natriy ekskretsiyasini oşiruvçi turli mexanizmlarni işga tuşiradi. Bu mexanizmlar quyidagilarni öz içiga oladi: 1. Öng bölmaça va öpka qon tomirlarining çöziliş retseptorlaridan boşlanadigan _past bosimli retseptor reflekslarining faollaşuvi_. Çöziliş retseptorlaridan kelgan signallar miya ustuniga boradi va u yerda buyraklarga boradigan simpatik nerv faolligini tormozlab, kanalçalarda natriy reabsorbsiyasini kamaytiradi. Bu mexanizm tuz va suv iste’moli keskin oşgandan keyingi dastlabki bir neça soatda — yoki ehtimol birinçi sutkada — eng muhim hisoblanadi. 2. Arterial bosimning oşişi va hujayradan taşqari suyuqlik hajmining kengayişi natijasida yuzaga keladigan _Ang II va aldosteron hosil bölişining susayişi_ Ang II va aldosteronning natriy reabsorbsiyasini oşiruvçi me’yoriy ta’sirini bartaraf etib, kanalçalarda natriy reabsorbsiyasini kamaytiradi. 3. _Natriuretik tizimlarning, ayniqsa ANP ning rağbatlanişi_ natriy ekskretsiyasining oşişiga yanada hissa qöşadi. Şunday qilib, natriuretik tizimlarning faollaşuvi va natriy hamda suvni uşlab qoluvçi tizimlarning susayişi birgalikda natriy iste’moli oşganda natriy ekskretsiyasining oşişiga olib keladi. Natriy iste’moli me’yoriy darajadan kamayganda teskari özgarişlar yuz beradi. 4. Natriy iste’moli keskin oşganda, ayniqsa tuzga sezgir şaxslarda, hajm kengayişi natijasida _arterial bosimning ozgina oşişi_ yuz berişi mumkin; bu mexanizm bosim natriurezi orqali natriy ekskretsiyasini oşiradi. Avval muhokama qilinganidek, agar nerv, gormonal va buyrak içidagi mexanizmlar samarali işlasa, natriy iste’moli bir neça kun davomida keskin oşganda ham qon bosimining ölçanadigan oşişi kuzatilmasligi mumkin. Biroq natriyni köp iste’mol qiliş oylar yoki yillar davom etsa, buyraklar şikastlanişi va natriyni çiqarişda kamroq samarali bölib qolişi mumkin; bu esa bosim natriurezi mexanizmi orqali natriy balansini saqlaş uçun qon bosimining oşişini taqozo etadi.",
+   "lead": "Natriyni köp iste’mol qiliş antinatriuretik tizimlarni susaytiradi va natriuretik tizimlarni faollaştiradi."
+  },
+  "ch30-f164": {
+   "text": "Qon hajmi va hujayradan taşqari suyuqlik hajmini keskin oşiradigan holatlar"
+  },
+  "ch30-f165": {
+   "text": "Qon hajmi va hujayradan taşqari suyuqlik hajmini nisbatan doimiy saqlaydigan kuçli boşqaruv mexanizmlariga qaramay, bu ikkala özgaruvçini keskin oşirişi mumkin bölgan patologik holatlar mavjud. Bu holatlarning deyarli barçasi qon aylanişi buzilişlari natijasida yuzaga keladi."
+  },
+  "ch30-f166": {
+   "text": "Yurak kasalliklari tufayli qon hajmi va hujayradan taşqari suyuqlik hajmining oşişi"
+  },
+  "ch30-f167": {
+   "text": "Dimlanişli yurak yetişmovçiligi bölgan odamlarda qon hajmi 15–20% ga, hujayradan taşqari suyuqlik hajmi esa ba’zan 200% yoki undan köproq oşişi mumkin. Bu oşişlarning sababini **Rasm 30-14** ni qayta körib çiqiş orqali tuşuniş mumkin. Dastlab yurak yetişmovçiligi yurakning daqiqalik hajmini kamaytiradi va natijada arterial bosimni pasaytiradi. Bu öz navbatida natriyni uşlab qoluvçi köplab tizimlarni, ayniqsa renin-angiotenzin-aldosteron tizimi (RAAT) va simpatik nerv tizimini faollaştiradi. Bundan taşqari, past qon bosimining özi buyraklarda tuz va suvning uşlab qolinişiga sabab böladi. Şu sababli buyraklar arterial bosim va yurakning daqiqalik hajmini me’yorga qaytarişga urinib, hajmni uşlab qoladi."
+  },
+  "ch30-f168": {
+   "text": "Agar yurak yetişmovçiligi unçalik oğir bölmasa, qon hajmining oşişi köpinça yurakning daqiqalik hajmi va arterial bosimni amalda töliq me’yorga qaytarişi mumkin va natriy ekskretsiyasi oxir-oqibat me’yorga qaytadi, ammo zaiflaşgan yurakning yetarli darajada nasos vazifasini bajarişi uçun hujayradan taşqari suyuqlik hajmi va qon hajmi oşgan holda qoladi. Biroq yurak juda zaiflaşgan bölsa, arterial bosim siydik ajralişini me’yorga qaytariş uçun yetarliça oşmasligi mumkin. Bunday holat yuzaga kelganda buyraklar oğir qon aylanişi dimlanişi rivojlangunça hajmni uşlab qolişda davom etadi va agar tuzatuvçi çoralar körilmasa, odam oxir-oqibat öpka şişidan halok bölişi mumkin."
+  },
+  "ch30-f169": {
+   "text": "Miokard yetişmovçiligi, yurak klapanlari kasalliklari va yurakning tuğma nuqsonlarida qon hajmining oşişi yurakning daqiqalik hajmi va qon bosimini me’yorga qaytarişga yordam beradigan muhim qon aylanişi kompensatsiyasi bölib xizmat qiladi. Bu kompensatsiya hatto zaiflaşgan yurakka ham hayotni ta’minlaydigan darajadagi daqiqalik hajmni saqlaşga imkon beradi."
+  },
+  "ch30-f170": {
+   "text": "Qon tomirlar siğimining oşişi tufayli qon hajmining oşişi"
+  },
+  "ch30-f171": {
+   "text": "Qon tomirlar siğimini oşiradigan har qanday holat qon hajmining ham bu qöşimça siğimni töldiriş uçun oşişiga sabab böladi. Qon tomirlar siğimining oşişi dastlab qon aylanişining örtaça töliş bosimini pasaytiradi (**Rasm 30-14** ga qarang), bu esa yurakning daqiqalik hajmi va arterial bosimning pasayişiga olib keladi. Bosimning pasayişi qon hajmi qöşimça siğimni töldiriş uçun yetarliça oşgunga qadar buyraklarda tuz va suvning uşlab qolinişiga sabab böladi."
+  },
+  "ch30-f172": {
+   "text": "Homiladorlik paytida baçadon, yöldoş va ayol organizmining boşqa kattalaşgan a’zolarining qon tomir siğimi oşişi odatda qon hajmini 15–25% ga oşiradi. Xuddi şuningdek, oyoqlarida yirik varikoz venalari bölgan bemorlarda — ular kamdan-kam hollarda bir litrgaça qöşimça qon siğdirişi mumkin — qon hajmi qöşimça tomir siğimini töldiriş uçun oşadi. Bunday hollarda buyraklar umumiy tomir özani qon bosimini buyraklar orqali suyuqlik çiqarilişini sutkalik suyuqlik iste’moli bilan muvozanatlaş uçun zarur darajagaça kötarişga yetarliça tölgunga qadar tuz va suvni uşlab qoladi."
+  },
+  "ch30-f173": {
+   "text": "Qon hajmi me’yoriy yoki kamaygan holda hujayradan taşqari suyuqlik hajmini keskin oşiradigan holatlar"
+  },
+  "ch30-f174": {
+   "text": "Bir qança holatlarda hujayradan taşqari suyuqlik hajmi keskin oşadi, ammo qon hajmi me’yorida yoki hatto biroz kamaygan holda qoladi. Bu holatlar odatda suyuqlik va oqsilning interstitsiyga sizib çiqişi bilan boşlanadi, bu esa qon hajmini kamaytirişga moyil. Buyraklarning bu holatlarga javobi qon ketişidan keyingi javobga öxşaydi — ya’ni buyraklar qon hajmini me’yorga qaytarişga urinib, tuz va suvni uşlab qoladi. Biroq qöşimça suyuqlikning katta qismi interstitsiyga sizib çiqadi va şişni yanada kuçaytiradi."
+  },
+  "ch30-f175": {
+   "text": "Nefrotik sindrom — siydik bilan plazma oqsillarining yöqotilişi va buyraklarda natriyning uşlab qolinişi"
+  },
+  "ch30-f176": {
+   "text": "Hujayradan taşqari şişga olib keluvçi umumiy mexanizmlar 25-bobda körib çiqilgan. Şişning muhim klinik sabablaridan biri — _nefrotik sindrom._ Nefrotik sindromda koptokça kapillyarlari ötkazuvçanligining oşişi tufayli ular filtrat va siydikka köp miqdorda oqsil ötkazib yuboradi. Har kuni siydik bilan 30–50 gramm plazma oqsili yöqotilişi mumkin; bu ba’zan plazmadagi oqsil konsentratsiyasining me’yorning uçdan bir qismidan ham pastga tuşişiga va plazma kolloid-osmotik bosimining past darajalargaça kamayişiga sabab böladi. Bu esa butun organizmdagi kapillyarlarning turli töqimalarga köp miqdorda suyuqlik filtrlaşiga olib keladi, bu öz navbatida şişga sabab böladi va plazma hajmini kamaytiradi."
+  },
+  "ch30-f177": {
+   "text": "Nefrotik sindromda buyraklarda natriyning uşlab qolinişi oqsil va suyuqlikning plazmadan interstitsial suyuqlikka sizib çiqişi bilan faollaşadigan köplab mexanizmlar, jumladan RAAT va simpatik nerv tizimi kabi turli natriyni uşlab qoluvçi tizimlarning rağbatlanişi orqali yuz beradi. Buyraklar plazma hajmi deyarli me’yorga tiklangunga qadar natriy va suvni uşlab qolişda davom etadi. Biroq natriy va suvning köp miqdorda uşlab qolinişi tufayli plazmadagi oqsil konsentratsiyasi yanada suyuladi va organizm töqimalariga yana ham köproq suyuqlik sizib çiqadi. Natijada, agar plazma oqsillarini tiklaş uçun davolaş boşlanmasa, buyraklar juda katta hujayradan taşqari şiş yuzaga kelgunga qadar suyuqlikni ommaviy ravişda uşlab qoladi."
+  },
+  "ch30-f178": {
+   "text": "Jigar sirrozi — jigarda plazma oqsillari sintezining kamayişi va buyraklarda natriyning uşlab qolinişi"
+  },
+  "ch30-f179": {
+   "text": "Jigar sirrozida jigar hujayralarining yemirilişi natijasida plazmadagi oqsil konsentratsiyasi pasayadi, çunki bu jigarning yetarli miqdorda plazma oqsillarini sintez qiliş qobiliyatini kamaytiradi. Sirroz jigar tuzilişida köp miqdorda fibroz töqima paydo bölişi bilan ham birga keçadi, bu esa portal qonning jigar orqali oqişiga jiddiy tösqinlik qiladi. Bu tösqinlik öz navbatida butun portal tomirlar özanida kapillyar bosimini oşiradi, bu ham suyuqlik va oqsillarning qorin böşliğiga sizib çiqişiga hissa qöşadi; bu holat _assit_ deb ataladi."
+  },
+  "ch30-f180": {
+   "text": "Suyuqlik va oqsil qon aylanişidan yöqotilgaç, buyraklarning javoblari plazma hajmining kamayişi bilan boğliq boşqa holatlarda kuzatiladigan javoblarga öxşaydi. Ya’ni buyraklar plazma hajmi va arterial bosim me’yorga tiklangunga qadar tuz va suvni uşlab qolişda davom etadi. Ba’zi hollarda sirrozda qon tomirlar siğimining oşişi tufayli plazma hajmi hatto me’yordan oşib ketişi mumkin; portal qon aylanişidagi yuqori bosim venalarni keskin çözişi va şu bilan qon tomirlar siğimini oşirişi mumkin."
+  }
+ },
+ "figures": {
+  "gh14-fig-30-01": "Kaliyning me’yoriy iste’moli, organizm suyuqliklarida kaliyning taqsimlanişi va kaliyning organizmdan çiqarilişi.",
+  "gh14-fig-30-02": "Buyrak kanalçalarida kaliy reabsorbsiyasi va sekretsiyasi joylari. Kaliy proksimal kanalça va Henle qovuzloğining kötariluvçi qismida reabsorbsiyalanadi, şuning uçun filtrlangan yukning faqat taxminan 8% i distal kanalçaga yetib boradi. Keçki distal kanalçalar va yiğuvçi nayçalarning asosiy hujayralari tomonidan kaliy sekretsiyasi yetkaziladigan miqdorga qöşiladi, ammo oraliq hujayralar tomonidan qöşimça reabsorbsiya ham böladi; şu sababli sutkalik ekskretsiya koptokça kapillyarlarida filtrlangan kaliyning taxminan 12% ini taşkil etadi. Foizlar filtrlangan yukning qança qismi turli kanalça segmentlarida reabsorbsiyalanişi yoki sekretsiya qilinişini körsatadi.",
+  "gh14-fig-30-03": "Keçki distal va yiğuvçi kanalçalarning asosiy hujayralarida kaliy sekretsiyasi va natriy reabsorbsiyasi mexanizmlari. BK — “katta” kaliy kanali; ENaC — epitelial natriy kanali; ROMK — buyrak taşqi mağiz qavati kaliy kanali.",
+  "gh14-fig-30-04": "Plazmadagi aldosteron konsentratsiyasi (qizil çiziq) va hujayradan taşqari kaliy ionlari konsentratsiyasining (qora çiziq) siydik bilan kaliy ekskretsiyasi tezligiga ta’siri. Bu omillar pöstloq yiğuvçi kanalçalarining asosiy hujayralari tomonidan kaliy sekretsiyasini rağbatlantiradi. (Ma’lumotlar manbai: Young DB, Paulsen AW: Interrelated effects of aldosterone and plasma potassium on potassium excretion. Am J Physiol 244:F28, 1983.)",
+  "gh14-fig-30-05": "Hujayradan taşqari suyuqlikdagi kaliy ionlari konsentratsiyasining plazmadagi aldosteron konsentratsiyasiga ta’siri. E’tibor bering, kaliy konsentratsiyasining kiçik özgarişlari aldosteron konsentratsiyasining katta özgarişlariga sabab böladi.",
+  "gh14-fig-30-06": "Hujayradan taşqari suyuqlikdagi kaliy konsentratsiyasini aldosteron (Ald) orqali nazorat qilişning asosiy qayta aloqa mexanizmi.",
+  "gh14-fig-30-07": "Kaliyni köp iste’mol qiliş kaliy ekskretsiyasini oşiradigan asosiy mexanizmlar. E’tibor bering, plazmadagi kaliy konsentratsiyasining oşişi pöstloq yiğuvçi kanalçalarida kaliy sekretsiyasini bevosita oşiradi, plazmadagi aldosteron konsentratsiyasini oşiriş orqali esa kaliy sekretsiyasini bilvosita kuçaytiradi.",
+  "gh14-fig-30-08": "Kaliy iste’molidagi katta özgarişlarning me’yoriy şaroitda (qizil çiziq) va aldosteron qayta aloqasi blokada qilingandan keyin (kök çiziq) plazmadagi kaliy konsentratsiyasiga ta’siri. E’tibor bering, aldosteron tizimi blokada qilingandan keyin kaliy konsentratsiyasining boşqarilişi jiddiy buzilgan. (Dr. David B. Young ruxsati bilan.)",
+  "gh14-fig-30-09": "Pöstloq yiğuvçi kanalçalaridagi oqim tezligi va kaliy sekretsiyasi örtasidagi boğliqlik hamda kaliy iste’moli özgarişlarining ta’siri. E’tibor bering, parhezda kaliyning köp iste’mol qilinişi kanalçalardagi oqim tezligi oşişining kaliy sekretsiyasini oşiriş ta’sirini keskin kuçaytiradi. Böyalgan ustun köpçilik fiziologik şaroitlardagi kanalçalardagi taxminiy me’yoriy oqim tezligini körsatadi. (Ma’lumotlar manbai: Malnic G, Berliner RW, Giebisch G: Flow dependence of K+ secretion in cortical distal tubes of the rat. Am J Physiol 256:F932, 1989.)",
+  "gh14-fig-30-10": "Natriyni köp iste’mol qilişning buyraklar orqali kaliy ekskretsiyasiga ta’siri. E’tibor bering, natriyga boy parhez plazmadagi aldosteronni kamaytiradi, bu esa pöstloq yiğuvçi kanalçalarida kaliy sekretsiyasini kamaytirişga moyil. Biroq natriyga boy parhez bir vaqtning özida pöstloq yiğuvçi nayçasiga suyuqlik yetkazilişini oşiradi, bu esa kaliy sekretsiyasini oşirişga moyil. Natriyga boy parhezning qarama-qarşi ta’sirlari bir-birini muvozanatlaydi, şuning uçun kaliy ekskretsiyasi kam özgaradi. KFT — koptokçalar filtratsiyasi tezligi.",
+  "gh14-fig-30-11": "Plazmadagi ionlaşgan kalsiy konsentratsiyasining pasayişiga paratgormon (PTG) va D vitamini vositasidagi kompensator javoblar.",
+  "gh14-fig-30-12": "Proksimal kanalça hujayralarida paratsellyulyar va transsellyulyar yöllar orqali kalsiy reabsorbsiyasi mexanizmlari.",
+  "gh14-fig-30-13": "Arterial bosimning buyraklar orqali natriy çiqarilişiga ötkir va surunkali ta’sirlari (bosim natriurezi). E’tibor bering, arterial bosimning surunkali oşişi arterial bosimning ötkir oşişida ölçanganiga qaraganda natriy çiqarilişini ança köproq oşiradi.",
+  "gh14-fig-30-14": "Qon hajmi, hujayradan taşqari suyuqlik hajmi va arterial bosimni nazorat qiluvçi asosiy buyrak–organizm suyuqliklari qayta aloqa mexanizmi. Uzluksiz çiziqlar ijobiy ta’sirlarni, uzuq çiziqlar esa salbiy ta’sirlarni körsatadi.",
+  "gh14-fig-30-15": "Sutkalik suyuqlik iste’moli özgarişlarining qon hajmiga taxminiy ta’siri. E’tibor bering, sutkalik suyuqlik iste’molining me’yoriy oraliğida qon hajmi nisbatan doimiy qoladi.",
+  "gh14-fig-30-16": "Hujayradan taşqari suyuqlik hajmi va qon hajmi örtasidagi taxminiy boğliqlik: me’yoriy oraliqda deyarli çiziqli boğliqlik körinadi, ammo hujayradan taşqari suyuqlik hajmi haddan taşqari oşganda qon hajmi oşişda davom eta olmasligi ham körsatilgan. Bunday holat yuzaga kelganda qöşimça hujayradan taşqari suyuqlik hajmi interstitsial böşliqlarda joylaşadi va şiş yuzaga keladi.",
+  "gh14-fig-30-17": "Angiotenzin II (Ang II) ning ortiqça hosil bölişi yoki Ang II hosil bölişining blokadasining buyrak bosim natriurezi egri çiziğiga ta’siri. E’tibor bering, Ang II ning yuqori darajada hosil bölişi bosim natriurezining qiyaligini kamaytiradi va qon bosimini natriy iste’moli özgarişlariga juda sezgir qiladi. Ang II hosil bölişining blokadasi bosim natriurezini pastroq qon bosimlari tomon siljitadi.",
+  "gh14-tab-30-01": "Kaliyning hujayra içi va hujayradan taşqari suyuqliklar örtasida taqsimlanişini özgartirişi mumkin bölgan omillar",
+  "gh14-tab-30-02": "Buyraklar orqali kalsiy ekskretsiyasini özgartiruvçi omillar",
+  "gh14-tab-30-03": "Buyraklar orqali fosfat ekskretsiyasini özgartiruvçi omillar",
+  "gh14-tab-30-04": "Buyraklar orqali magniy ekskretsiyasini özgartiruvçi omillar"
+ }
+}

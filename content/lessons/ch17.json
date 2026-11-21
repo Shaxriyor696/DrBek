@@ -2,9 +2,9 @@
  "id": "ch17",
  "topicId": "04",
  "order": 4,
- "titleUz": "To’qima qon oqimining mahalliy va gumoral nazorati",
+ "titleUz": "Töqima qon oqimining mahalliy va gumoral nazorati",
  "titleOriginal": "Local and Humoral Control of Tissue Blood Flow",
- "subtitle": "*Local and Humoral Control of Tissue Blood Flow* (IV bo'lim, PDF 196–207)",
+ "subtitle": "*Local and Humoral Control of Tissue Blood Flow* (IV bo‘lim, PDF 196–207)",
  "contentVersion": "2026-11-14.1",
  "status": "in_review",
  "translationStatus": "machine_assisted",
@@ -272,9 +272,9 @@
   }
  ],
  "objectives": [
-  "Organlar bo’yicha qon oqimi (bazal holat, Jadval 17-1)",
+  "Organlar bo‘yicha qon oqimi (bazal holat, Jadval 17-1)",
   "Tezkor metabolik nazorat",
-  "Autoregulyatsiya (bosim o’zgarganda)",
+  "Autoregulyatsiya (bosim o‘zgarganda)",
   "Endoteliy omillari",
   "Uzoq muddatli nazorat",
   "Tomir remodelingi",
@@ -285,13 +285,13 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Asosiy g’oya",
+    "text": "Asosiy ğoya",
     "id": "ch17-s-0-asosiy-goya",
     "bid": "ch17-u0"
    },
    {
     "type": "paragraph",
-    "text": "Har bir to’qima o’z qon oqimini metabolik ehtiyojiga mos ravishda **o’zi boshqaradi**. Oqim ehtiyojni qoplaydigan eng kam darajada ushlab turiladi: \"ortiq ham emas, kam ham emas\". Shu tufayli yurakning ish yuki minimal bo’ladi.",
+    "text": "Har bir töqima öz qon oqimini metabolik ehtiyojiga mos ravişda **özi boşqaradi**. Oqim ehtiyojni qoplaydigan eng kam darajada uşlab turiladi: “ortiq ham emas, kam ham emas”. Şu tufayli yurakning iş yuki minimal böladi.",
     "bid": "ch17-u1"
    },
    {
@@ -304,11 +304,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Tezkor (o’tkir) nazorat.** Arteriola, metarteriola va prekapillyar sfinkterlar soniyalar yoki daqiqalar ichida kengayadi yoki torayadi.",
+      "text": "**Tezkor (ötkir) nazorat.** Arteriola, metarteriola va prekapillyar sfinkterlar soniyalar yoki daqiqalar içida kengayadi yoki torayadi.",
       "depth": 0
      },
      {
-      "text": "**Uzoq muddatli nazorat.** Kunlar, haftalar va oylar davomida tomirlarning soni va o’lchami o’zgaradi.",
+      "text": "**Uzoq muddatli nazorat.** Kunlar, haftalar va oylar davomida tomirlarning soni va ölçami özgaradi.",
       "depth": 0
      }
     ],
@@ -317,7 +317,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Organlar bo’yicha qon oqimi (bazal holat, Jadval 17-1)",
+    "text": "Organlar böyiça qon oqimi (bazal holat, Jadval 17-1)",
     "id": "ch17-s-4-organlar-boyicha-qon-oqimi-bazal-holat-jadval-17-1",
     "bid": "ch17-u4"
    },
@@ -325,7 +325,7 @@
     "type": "table",
     "header": [
      "Organ",
-     "Yurak chiqarishining % i",
+     "Yurak çiqarişining % i",
      "ml/min",
      "ml/min/100 g"
     ],
@@ -410,11 +410,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Mushaklar tana massasining 30–40% ini tashkil qiladi, lekin tinch holatda atigi 4 ml/min/100 g oladi.",
+      "text": "Muşaklar tana massasining 30–40% ini taşkil qiladi, lekin tinç holatda atigi 4 ml/min/100 g oladi.",
       "depth": 0
      },
      {
-      "text": "Og’ir jismoniy ishda mushak metabolizmi 60 marta oshadi, qon oqimi esa ~20 marta oshib, 16 000 ml/min ga (80 ml/min/100 g) yetadi.",
+      "text": "Oğir jismoniy işda muşak metabolizmi 60 marta oşadi, qon oqimi esa ~20 marta oşib, 16 000 ml/min ga (80 ml/min/100 g) yetadi.",
       "depth": 0
      }
     ],
@@ -437,43 +437,43 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Metabolizm oshsa oqim ham oshadi:** metabolizm 8 marta oshganda oqim ~4 marta ko’payadi.",
+      "text": "**Metabolizm oşsa oqim ham oşadi:** metabolizm 8 marta oşganda oqim ~4 marta köpayadi.",
       "depth": 0
      },
      {
-      "text": "**O₂ kamaysa oqim oshadi.** Bunga balandlik, pnevmoniya, CO yoki sianid zaharlanishi misol.",
+      "text": "**O₂ kamaysa oqim oşadi.** Bunga balandlik, pnevmoniya, CO yoki sianid zaharlanişi misol.",
       "depth": 0
      },
      {
-      "text": "Arterial O₂ saturatsiyasi ~25% ga tushganda oyoq qon oqimi ~3 marta oshadi.",
+      "text": "Arterial O₂ saturatsiyasi ~25% ga tuşganda oyoq qon oqimi ~3 marta oşadi.",
       "depth": 1
      },
      {
-      "text": "Sianid bilan to’liq zaharlanganda oqim 7 martagacha oshadi.",
+      "text": "Sianid bilan töliq zaharlanganda oqim 7 martagaça oşadi.",
       "depth": 1
      },
      {
-      "text": "**Ikki nazariya bor (ehtimol ikkalasi birga ishlaydi):**",
+      "text": "**Ikki nazariya bor (ehtimol ikkalasi birga işlaydi):**",
       "depth": 0
      },
      {
-      "text": "**Vazodilatator nazariyasi.** Metabolizm kuchayganda yoki O₂ yetishmaganda to’qimada vazodilatator moddalar ko’payadi: **adenozin**, CO₂, adenozin fosfatlari, gistamin, K⁺, H⁺ (sut kislotasi). Yurakda O₂ kamaysa ATP parchalanadi, adenozin chiqadi va koronar tomirlar kengayadi. Lekin bitta modda butun effektni tushuntirib berolmaydi.",
+      "text": "**Vazodilatator nazariyasi.** Metabolizm kuçayganda yoki O₂ yetişmaganda töqimada vazodilatator moddalar köpayadi: **adenozin**, CO₂, adenozin fosfatlari, gistamin, K⁺, H⁺ (sut kislotasi). Yurakda O₂ kamaysa ATP parçalanadi, adenozin çiqadi va koronar tomirlar kengayadi. Lekin bitta modda butun effektni tuşuntirib berolmaydi.",
       "depth": 1
      },
      {
-      "text": "**Kislorod (nutriyent) talabi nazariyasi.** Silliq mushak qisqarib turishi uchun O₂ kerak. O₂ yetishmasa tomir bo’shashadi. Sfinkterlar to’liq ochiq yoki to’liq yopiq holatda bo’ladi va daqiqada bir necha marta tsiklik ochilib-yopiladi (**vazomotsiya**). Ochiq qolish davomiyligi O₂ ehtiyojiga proporsional.",
+      "text": "**Kislorod (nutriyent) talabi nazariyasi.** Silliq muşak qisqarib turişi uçun O₂ kerak. O₂ yetişmasa tomir böşaşadi. Sfinkterlar töliq oçiq yoki töliq yopiq holatda böladi va daqiqada bir neça marta tsiklik oçilib-yopiladi (**vazomotsiya**). Oçiq qoliş davomiyligi O₂ ehtiyojiga proporsional.",
       "depth": 1
      },
      {
-      "text": "**Boshqa nutriyentlar.** Glyukoza yetishmasligi ham tomirni kengaytiradi. **Beriberi** (tiamin, niatsin, riboflavin tanqisligi) ATP hosil bo’lishini buzadi, natijada periferik oqim 2–3 marta oshadi.",
+      "text": "**Boşqa nutriyentlar.** Glyukoza yetişmasligi ham tomirni kengaytiradi. **Beriberi** (tiamin, niatsin, riboflavin tanqisligi) ATP hosil bölişini buzadi, natijada periferik oqim 2–3 marta oşadi.",
       "depth": 0
      },
      {
-      "text": "**Reaktiv giperemiya.** Arteriya bir necha soniyadan 1 soatgacha yopilib, keyin ochilsa, oqim normaldan 4–7 marta oshadi. Ortiqcha oqim yopilish davrida to’plangan O₂ qarzini deyarli aniq qoplaydi.",
+      "text": "**Reaktiv giperemiya.** Arteriya bir neça soniyadan 1 soatgaça yopilib, keyin oçilsa, oqim normaldan 4–7 marta oşadi. Ortiqça oqim yopiliş davrida töplangan O₂ qarzini deyarli aniq qoplaydi.",
       "depth": 0
      },
      {
-      "text": "**Aktiv giperemiya.** Faol to’qimada (mushak, bez, miya) oqim oshadi. Mushakda 20 martagacha.",
+      "text": "**Aktiv giperemiya.** Faol töqimada (muşak, bez, miya) oqim oşadi. Muşakda 20 martagaça.",
       "depth": 0
      }
     ],
@@ -482,7 +482,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Autoregulyatsiya (bosim o’zgarganda)",
+    "text": "Autoregulyatsiya (bosim özgarganda)",
     "id": "ch17-s-10-autoregulyatsiya-bosim-ozgarganda",
     "bid": "ch17-u10"
    },
@@ -491,15 +491,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Arterial bosim keskin ko’tarilsa, oqim ham ko’tariladi, lekin <1 daqiqada deyarli normaga qaytadi.",
+      "text": "Arterial bosim keskin kötarilsa, oqim ham kötariladi, lekin <1 daqiqada deyarli normaga qaytadi.",
       "depth": 0
      },
      {
-      "text": "70–175 mm Hg oralig’ida bosim 150% oshganda oqim atigi 20–30% oshadi. Miya va yurakda bu nazorat yanada aniqroq.",
+      "text": "70–175 mm Hg oraliğida bosim 150% oşganda oqim atigi 20–30% oşadi. Miya va yurakda bu nazorat yanada aniqroq.",
       "depth": 0
      },
      {
-      "text": "**Metabolik nazariya.** Ortiqcha oqim ortiqcha O₂ olib keladi va vazodilatatorlarni yuvib ketadi, natijada tomir torayadi.",
+      "text": "**Metabolik nazariya.** Ortiqça oqim ortiqça O₂ olib keladi va vazodilatatorlarni yuvib ketadi, natijada tomir torayadi.",
       "depth": 0
      },
      {
@@ -507,35 +507,35 @@
       "depth": 0
      },
      {
-      "text": "Tomir cho’zilganda silliq mushak depolyarizatsiyalanadi, Ca²⁺ kiradi va mushak qisqaradi. Nerv va gormonlarsiz ham ishlaydi.",
+      "text": "Tomir çözilganda silliq muşak depolyarizatsiyalanadi, Ca²⁺ kiradi va muşak qisqaradi. Nerv va gormonlarsiz ham işlaydi.",
       "depth": 1
      },
      {
-      "text": "Eng kuchli arteriolalarda, lekin venalar va limfa tomirlarida ham bor.",
+      "text": "Eng kuçli arteriolalarda, lekin venalar va limfa tomirlarida ham bor.",
       "depth": 1
      },
      {
-      "text": "Asosiy roli tomirni ortiqcha cho’zilishdan himoya qilish.",
+      "text": "Asosiy roli tomirni ortiqça çözilişdan himoya qiliş.",
       "depth": 1
      },
      {
-      "text": "Oqimni bevosita sezmaydi. Og’ir mashqda metabolik omillar uni bosib ketadi.",
+      "text": "Oqimni bevosita sezmaydi. Oğir maşqda metabolik omillar uni bosib ketadi.",
       "depth": 1
      },
      {
-      "text": "**Maxsus to’qimalar:**",
+      "text": "**Maxsus töqimalar:**",
       "depth": 0
      },
      {
-      "text": "**Buyrak:** *tubuloglomerulyar teskari aloqa*. Makula densa distal kanalcha suyuqligini sezadi; filtratsiya ortiqcha bo’lsa afferent arteriola torayadi (27-bob).",
+      "text": "**Buyrak:** *tubuloglomerulyar teskari aloqa*. Makula densa distal kanalça suyuqligini sezadi; filtratsiya ortiqça bölsa afferent arteriola torayadi (27-bob).",
       "depth": 1
      },
      {
-      "text": "**Miya:** CO₂ va H⁺ ko’paysa tomirlar kengayadi, ortiqcha CO₂ va H⁺ yuvib chiqariladi (62-bob).",
+      "text": "**Miya:** CO₂ va H⁺ köpaysa tomirlar kengayadi, ortiqça CO₂ va H⁺ yuvib çiqariladi (62-bob).",
       "depth": 1
      },
      {
-      "text": "**Teri:** harorat nazoratiga bog’langan va asosan simpatik nervlar boshqaradi. Salqinda ~3 ml/min/100 g; isinganda butun tana bo’yicha 7–8 l/min gacha; sovuqda deyarli nolga tushadi (74-bob).",
+      "text": "**Teri:** harorat nazoratiga boğlangan va asosan simpatik nervlar boşqaradi. Salqinda ~3 ml/min/100 g; isinganda butun tana böyiça 7–8 l/min gaça; sovuqda deyarli nolga tuşadi (74-bob).",
       "depth": 1
      }
     ],
@@ -553,55 +553,55 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Azot oksidi (NO)** — eng muhim bo’shashtiruvchi omil.",
+      "text": "**Azot oksidi (NO)** — eng muhim böşaştiruvçi omil.",
       "depth": 0
      },
      {
-      "text": "**Hosil bo’lishi:** eNOS arginin va O₂ dan hosil qiladi (anorganik nitrat qaytarilishidan ham olinadi). Qondagi yarim hayoti ~6 s, faqat mahalliy ta’sir qiladi.",
+      "text": "**Hosil bölişi:** eNOS arginin va O₂ dan hosil qiladi (anorganik nitrat qaytarilişidan ham olinadi). Qondagi yarim hayoti ~6 s, faqat mahalliy ta’sir qiladi.",
       "depth": 1
      },
      {
-      "text": "**Ta’sir yo’li:** eruvchan guanilatsiklaza → cGMP → PKG → tomir bo’shashadi.",
+      "text": "**Ta’sir yöli:** eruvçan guanilatsiklaza → cGMP → PKG → tomir böşaşadi.",
       "depth": 1
      },
      {
-      "text": "**Siljish kuchlanishi (shear stress)** NO chiqishini oshiradi. Mayda tomirlar kengayib oqim oshganda, yuqoridagi kattaroq arteriyalar ham NO hisobiga kengayadi. Busiz mahalliy nazorat samarasi kamayardi.",
+      "text": "**Siljiş kuçlanişi (şear stress)** NO çiqişini oşiradi. Mayda tomirlar kengayib oqim oşganda, yuqoridagi kattaroq arteriyalar ham NO hisobiga kengayadi. Busiz mahalliy nazorat samarasi kamayardi.",
       "depth": 1
      },
      {
-      "text": "Angiotenzin II ham NO chiqaradi, bu ortiqcha torayishdan himoya qiladi.",
+      "text": "Angiotenzin II ham NO çiqaradi, bu ortiqça torayişdan himoya qiladi.",
       "depth": 1
      },
      {
-      "text": "Gipertoniya yoki aterosklerozda endoteliy shikastlanadi, NO kamayadi va ayovsiz doira hosil bo’ladi.",
+      "text": "Gipertoniya yoki aterosklerozda endoteliy şikastlanadi, NO kamayadi va ayovsiz doira hosil böladi.",
       "depth": 1
      },
      {
-      "text": "**Klinik qo’llanishi:**",
+      "text": "**Klinik qöllanişi:**",
       "depth": 1
      },
      {
-      "text": "Nitrogliserin va amilnitrit NO beradi, stenokardiyada ishlatiladi.",
+      "text": "Nitrogliserin va amilnitrit NO beradi, stenokardiyada işlatiladi.",
       "depth": 2
      },
      {
-      "text": "**Sildenafil** (PDE-5 ingibitori) cGMP parchalanishini to’xtatadi va erektil disfunksiyada qo’llanadi (81-bob).",
+      "text": "**Sildenafil** (PDE-5 ingibitori) cGMP parçalanişini töxtatadi va erektil disfunksiyada qöllanadi (81-bob).",
       "depth": 2
      },
      {
-      "text": "**Endotelin.** 27 aminokislotali peptid, nanogramm miqdorda ham kuchli toraytiradi.",
+      "text": "**Endotelin.** 27 aminokislotali peptid, nanogramm miqdorda ham kuçli toraytiradi.",
       "depth": 0
      },
      {
-      "text": "Endoteliy shikastlanganda chiqadi va ≤5 mm li yirtilgan arteriyalardan qon ketishini to’xtatishga yordam beradi.",
+      "text": "Endoteliy şikastlanganda çiqadi va ≤5 mm li yirtilgan arteriyalardan qon ketişini töxtatişga yordam beradi.",
       "depth": 1
      },
      {
-      "text": "Gipertoniyada ham ko’payadi.",
+      "text": "Gipertoniyada ham köpayadi.",
       "depth": 1
      },
      {
-      "text": "Endotelin retseptor blokatorlari o’pka gipertenziyasida ishlatiladi.",
+      "text": "Endotelin retseptor blokatorlari öpka gipertenziyasida işlatiladi.",
       "depth": 1
      }
     ],
@@ -619,23 +619,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Tezkor nazorat ehtiyojning ~3/4 qismini qoplaydi.** Masalan, bosim 100 dan 150 mm Hg ga ko’tarilsa, oqim darhol ~100% oshadi. 30 s – 2 daqiqada oqim normadan 10–15% yuqorigacha qaytadi. Bir necha haftada esa deyarli to’liq normallashadi.",
+      "text": "**Tezkor nazorat ehtiyojning ~3/4 qismini qoplaydi.** Masalan, bosim 100 dan 150 mm Hg ga kötarilsa, oqim darhol ~100% oşadi. 30 s – 2 daqiqada oqim normadan 10–15% yuqorigaça qaytadi. Bir neça haftada esa deyarli töliq normallaşadi.",
       "depth": 0
      },
      {
-      "text": "Uzoq muddatli nazoratdan keyin 50–200 mm Hg oralig’ida bosim oqimga deyarli ta’sir qilmaydi.",
+      "text": "Uzoq muddatli nazoratdan keyin 50–200 mm Hg oraliğida bosim oqimga deyarli ta’sir qilmaydi.",
       "depth": 0
      },
      {
-      "text": "**Tomirlanish (vaskulyarizatsiya) o’zgaradi, ya’ni angiogenez:**",
+      "text": "**Tomirlaniş (vaskulyarizatsiya) özgaradi, ya’ni angiogenez:**",
       "depth": 0
      },
      {
-      "text": "Kalamush mushagi 30 kun elektr bilan stimulyatsiya qilinganda kapillyarlar keskin ko’paydi. Mushak tez-glikolitik turdan sekin-oksidativ turga o’tdi.",
+      "text": "Kalamuş muşagi 30 kun elektr bilan stimulyatsiya qilinganda kapillyarlar keskin köpaydi. Muşak tez-glikolitik turdan sekin-oksidativ turga ötdi.",
       "depth": 1
      },
      {
-      "text": "Yoshlarda va o’smalarda tez (kunlar), keksalarda sekin (oylar) va to’liqsiz kechadi.",
+      "text": "Yoşlarda va ösmalarda tez (kunlar), keksalarda sekin (oylar) va töliqsiz keçadi.",
       "depth": 1
      },
      {
@@ -643,15 +643,15 @@
       "depth": 0
      },
      {
-      "text": "Balandlikda yashovchilarda tomirlar ko’payadi.",
+      "text": "Balandlikda yaşovçilarda tomirlar köpayadi.",
       "depth": 1
      },
      {
-      "text": "**Retrolental fibroplaziya.** Chala tug’ilgan chaqaloq O₂ chodirida bo’lsa, ortiqcha O₂ to’r parda tomirlari o’sishini to’xtatadi. Chodirdan chiqarilgach tomirlar portlovchi tarzda o’sib, shishasimon tanaga kiradi va ko’rlikka olib keladi.",
+      "text": "**Retrolental fibroplaziya.** Çala tuğilgan çaqaloq O₂ çodirida bölsa, ortiqça O₂ tör parda tomirlari ösişini töxtatadi. Çodirdan çiqarilgaç tomirlar portlovçi tarzda ösib, şişasimon tanaga kiradi va körlikka olib keladi.",
       "depth": 1
      },
      {
-      "text": "**O’sish omillari.**",
+      "text": "**Ösiş omillari.**",
       "depth": 0
      },
      {
@@ -659,11 +659,11 @@
       "depth": 1
      },
      {
-      "text": "Gipoksiya HIF (gipoksiya bilan induksiyalanuvchi omil) ni faollashtiradi, u esa ushbu omillarni ko’paytiradi.",
+      "text": "Gipoksiya HIF (gipoksiya bilan induksiyalanuvçi omil) ni faollaştiradi, u esa uşbu omillarni köpaytiradi.",
       "depth": 1
      },
      {
-      "text": "**Angiogenez bosqichlari:**",
+      "text": "**Angiogenez bosqiçlari:**",
       "depth": 1
      },
      {
@@ -671,19 +671,19 @@
       "depth": 2
      },
      {
-      "text": "Endoteliy hujayralari ko’payib, tizimcha hosil qiladi.",
+      "text": "Endoteliy hujayralari köpayib, tizimça hosil qiladi.",
       "depth": 2
      },
      {
-      "text": "Tizimcha naychaga aylanadi.",
+      "text": "Tizimça nayçaga aylanadi.",
       "depth": 2
      },
      {
-      "text": "Boshqa naycha bilan qo’shilib, kapillyar halqa hosil qiladi.",
+      "text": "Boşqa nayça bilan qöşilib, kapillyar halqa hosil qiladi.",
       "depth": 2
      },
      {
-      "text": "Oqim yetarli bo’lsa, devorga silliq mushak kiradi.",
+      "text": "Oqim yetarli bölsa, devorga silliq muşak kiradi.",
       "depth": 2
      },
      {
@@ -691,43 +691,43 @@
       "depth": 1
      },
      {
-      "text": "Ba’zi steroidlar tomirlarni yo’qotadi.",
+      "text": "Ba’zi steroidlar tomirlarni yöqotadi.",
       "depth": 2
      },
      {
-      "text": "**Angiostatin** plazminogen bo’lagidan hosil bo’ladi.",
+      "text": "**Angiostatin** plazminogen bölagidan hosil böladi.",
       "depth": 2
      },
      {
-      "text": "**Endostatin** kollagen XVII parchalanishidan hosil bo’ladi.",
+      "text": "**Endostatin** kollagen XVII parçalanişidan hosil böladi.",
       "depth": 2
      },
      {
-      "text": "Bular o’sma terapiyasi uchun qiziqarli.",
+      "text": "Bular ösma terapiyasi uçun qiziqarli.",
       "depth": 2
      },
      {
-      "text": "**Tomirlanish o’rtacha emas, maksimal ehtiyojga qarab belgilanadi.** Kuniga bir necha daqiqa og’ir mashq ham yetarli. Qo’shimcha tomirlar odatda torayib turadi va kerak bo’lganda ochiladi.",
+      "text": "**Tomirlaniş örtaça emas, maksimal ehtiyojga qarab belgilanadi.** Kuniga bir neça daqiqa oğir maşq ham yetarli. Qöşimça tomirlar odatda torayib turadi va kerak bölganda oçiladi.",
       "depth": 0
      },
      {
-      "text": "**Kollateral qon aylanish:**",
+      "text": "**Kollateral qon aylaniş:**",
       "depth": 0
      },
      {
-      "text": "Bir-ikki daqiqada mavjud halqalar metabolik yo’l bilan kengayadi (dastlab ehtiyojning <25% i).",
+      "text": "Bir-ikki daqiqada mavjud halqalar metabolik yöl bilan kengayadi (dastlab ehtiyojning <25% i).",
       "depth": 1
      },
      {
-      "text": "1 kunda ~yarmi qoplanadi, bir necha kunda tinch holat ehtiyoji to’liq qoplanadi.",
+      "text": "1 kunda ~yarmi qoplanadi, bir neça kunda tinç holat ehtiyoji töliq qoplanadi.",
       "depth": 1
      },
      {
-      "text": "Oylar davomida ko’plab mayda kanallar o’sadi, lekin og’ir zo’riqishga kamdan-kam yetarli bo’ladi.",
+      "text": "Oylar davomida köplab mayda kanallar ösadi, lekin oğir zöriqişga kamdan-kam yetarli böladi.",
       "depth": 1
      },
      {
-      "text": "Ko’p odamlarda 60 yoshga kelib koronar tarmoqlardan biri yopiladi, ammo kollaterallar tufayli buni sezmaydilar.",
+      "text": "Köp odamlarda 60 yoşga kelib koronar tarmoqlardan biri yopiladi, ammo kollaterallar tufayli buni sezmaydilar.",
       "depth": 1
      }
     ],
@@ -749,31 +749,31 @@
       "depth": 0
      },
      {
-      "text": "**Ichkariga evtrofik remodeling.** Gipertoniyada mayda arteriyalar torayadi; hujayralar kichik bo’shliq atrofida qayta joylashadi. Devor qalinlashadi, lekin uning ko’ndalang kesim yuzasi o’zgarmaydi.",
+      "text": "**Içkariga evtrofik remodeling.** Gipertoniyada mayda arteriyalar torayadi; hujayralar kiçik böşliq atrofida qayta joylaşadi. Devor qalinlaşadi, lekin uning köndalang kesim yuzasi özgarmaydi.",
       "depth": 0
      },
      {
-      "text": "**Gipertrofik remodeling.** Katta arteriyalar torayolmaydi; devor tarangligi oshgani sababli silliq mushak gipertrofiyalanadi, kollagen va fibronektin ko’payadi. Natijada tomir qattiqlashadi — bu surunkali gipertoniyaning belgisi.",
+      "text": "**Gipertrofik remodeling.** Katta arteriyalar torayolmaydi; devor tarangligi oşgani sababli silliq muşak gipertrofiyalanadi, kollagen va fibronektin köpayadi. Natijada tomir qattiqlaşadi — bu surunkali gipertoniyaning belgisi.",
       "depth": 0
      },
      {
-      "text": "**Koronar shuntdagi venaga misol.** Teri osti venasi arterial bosimga tushgach, bir necha oyda devori arteriya qalinligiga yetadi.",
+      "text": "**Koronar şuntdagi venaga misol.** Teri osti venasi arterial bosimga tuşgaç, bir neça oyda devori arteriya qalinligiga yetadi.",
       "depth": 0
      },
      {
-      "text": "**AV fistula (dializ).** Radial arteriya oqimi 10–50 marta oshadi.",
+      "text": "**AV fistula (dializ).** Radial arteriya oqimi 10–50 marta oşadi.",
       "depth": 0
      },
      {
-      "text": "Arteriya tomonida: oqim va siljish kuchlanishi **tashqariga remodeling** beradi (bo’shliq kengayadi, devor qalinligi o’zgarmaydi).",
+      "text": "Arteriya tomonida: oqim va siljiş kuçlanişi **taşqariga remodeling** beradi (böşliq kengayadi, devor qalinligi özgarmaydi).",
       "depth": 1
      },
      {
-      "text": "Vena tomonida: bosim ham, oqim ham oshgani uchun **tashqariga gipertrofik** remodeling bo’ladi.",
+      "text": "Vena tomonida: bosim ham, oqim ham oşgani uçun **taşqariga gipertrofik** remodeling böladi.",
       "depth": 1
      },
      {
-      "text": "**Umumiy qoida:** devor tarangligi devor qalinligini, oqim esa bo’shliq diametrini belgilaydi. Bosim yoki oqim kamaysa, teskari jarayon boradi.",
+      "text": "**Umumiy qoida:** devor tarangligi devor qalinligini, oqim esa böşliq diametrini belgilaydi. Bosim yoki oqim kamaysa, teskari jarayon boradi.",
       "depth": 0
      }
     ],
@@ -798,15 +798,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Noradrenalin** kuchli toraytiradi. **Adrenalin** kuchsizroq, ba’zi to’qimalarda, masalan koronar tomirlarda, kengaytiradi. Simpatik nervlar to’g’ridan-to’g’ri va buyrak usti bezining mag’iz qismi gormonlari orqali qo’sh nazorat beradi.",
+      "text": "**Noradrenalin** kuçli toraytiradi. **Adrenalin** kuçsizroq, ba’zi töqimalarda, masalan koronar tomirlarda, kengaytiradi. Simpatik nervlar töğridan-töğri va buyrak usti bezining mağiz qismi gormonlari orqali qöş nazorat beradi.",
       "depth": 0
      },
      {
-      "text": "**Angiotenzin II.** 1 mkg bosimni ≥50 mm Hg ga oshiradi. Asosiy roli: umumiy periferik qarshilikni oshirish va buyrak orqali Na⁺ hamda suv chiqarilishini kamaytirish (19-bob).",
+      "text": "**Angiotenzin II.** 1 mkg bosimni ≥50 mm Hg ga oşiradi. Asosiy roli: umumiy periferik qarşilikni oşiriş va buyrak orqali Na⁺ hamda suv çiqarilişini kamaytiriş (19-bob).",
       "depth": 0
      },
      {
-      "text": "**Vazopressin (ADG).** Eng kuchli konstriktorlardan biri. Gipotalamusda hosil bo’ladi, orqa gipofizdan chiqadi. Og’ir qon ketishda bosimni deyarli normaga qaytara oladi. Asosiy vazifasi buyrakda suvni qayta so’rish (29-bob).",
+      "text": "**Vazopressin (ADG).** Eng kuçli konstriktorlardan biri. Gipotalamusda hosil böladi, orqa gipofizdan çiqadi. Oğir qon ketişda bosimni deyarli normaga qaytara oladi. Asosiy vazifasi buyrakda suvni qayta söriş (29-bob).",
       "depth": 0
      }
     ],
@@ -828,23 +828,23 @@
       "depth": 0
      },
      {
-      "text": "Hosil bo’lishi: kallikrein faollashadi → α₂-globulindan kallidin ajraladi → bradikinin.",
+      "text": "Hosil bölişi: kallikrein faollaşadi → α₂-globulindan kallidin ajraladi → bradikinin.",
       "depth": 1
      },
      {
-      "text": "Bir necha daqiqada karboksipeptidaza yoki ACE (angiotenzin hosil qiluvchi ferment) bilan parchalanadi.",
+      "text": "Bir neça daqiqada karboksipeptidaza yoki ACE (angiotenzin hosil qiluvçi ferment) bilan parçalanadi.",
       "depth": 1
      },
      {
-      "text": "Arteriolalarni kengaytiradi va kapillyar o’tkazuvchanligini oshiradi. Yelka arteriyasiga 1 mkg yuborilsa, qo’l oqimi 6 marta oshadi.",
+      "text": "Arteriolalarni kengaytiradi va kapillyar ötkazuvçanligini oşiradi. Yelka arteriyasiga 1 mkg yuborilsa, qöl oqimi 6 marta oşadi.",
       "depth": 1
      },
      {
-      "text": "Yallig’lanish, teri, so’lak va oshqozon-ichak bezlarida rol o’ynaydi.",
+      "text": "Yalliğlaniş, teri, sölak va oşqozon-içak bezlarida rol öynaydi.",
       "depth": 1
      },
      {
-      "text": "**Gistamin.** Semiz (mast) hujayralar va bazofillardan chiqadi. Arteriolalarni kengaytiradi va kapillyar o’tkazuvchanligini kuchli oshiradi, natijada shish paydo bo’ladi. Allergiyada ayniqsa muhim (35-bob).",
+      "text": "**Gistamin.** Semiz (mast) hujayralar va bazofillardan çiqadi. Arteriolalarni kengaytiradi va kapillyar ötkazuvçanligini kuçli oşiradi, natijada şiş paydo böladi. Allergiyada ayniqsa muhim (35-bob).",
       "depth": 0
      }
     ],
@@ -862,7 +862,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Toraytiradi:** hujayra ichida Ca²⁺ ko’payishi; H⁺ biroz kamayishi.",
+      "text": "**Toraytiradi:** hujayra içida Ca²⁺ köpayişi; H⁺ biroz kamayişi.",
       "depth": 0
      },
      {
@@ -870,19 +870,19 @@
       "depth": 0
      },
      {
-      "text": "K⁺ (fiziologik chegarada) va Mg²⁺ (kuchli).",
+      "text": "K⁺ (fiziologik çegarada) va Mg²⁺ (kuçli).",
       "depth": 1
      },
      {
-      "text": "H⁺ ko’payishi (pH pasayishi) arteriolalarni kengaytiradi.",
+      "text": "H⁺ köpayişi (pH pasayişi) arteriolalarni kengaytiradi.",
       "depth": 1
      },
      {
-      "text": "Atsetat va sitrat kuchsiz kengaytiradi.",
+      "text": "Atsetat va sitrat kuçsiz kengaytiradi.",
       "depth": 1
      },
      {
-      "text": "**CO₂.** Ko’p to’qimalarda o’rtacha, miyada kuchli kengaytiradi. Lekin vazomotor markaz orqali butun tanada simpatik torayishni ham chaqiradi.",
+      "text": "**CO₂.** Köp töqimalarda örtaça, miyada kuçli kengaytiradi. Lekin vazomotor markaz orqali butun tanada simpatik torayişni ham çaqiradi.",
       "depth": 0
      }
     ],
@@ -897,13 +897,13 @@
    },
    {
     "type": "paragraph",
-    "text": "Kuchli vazoaktiv moddalar (angiotenzin, bradikinin) surunkali yuborilsa ham, to’qima metabolizmini o’zgartirmasa, oqim va yurak chiqarishi 1–2 kundan keyin normaga qaytadi. Sababi — autoregulyatsiya.",
+    "text": "Kuçli vazoaktiv moddalar (angiotenzin, bradikinin) surunkali yuborilsa ham, töqima metabolizmini özgartirmasa, oqim va yurak çiqarişi 1–2 kundan keyin normaga qaytadi. Sababi — autoregulyatsiya.",
     "bid": "ch17-u26"
    },
    {
     "type": "heading",
     "level": 2,
-    "text": "Bog’liqlik",
+    "text": "Boğliqlik",
     "id": "ch17-s-27-bogliqlik",
     "bid": "ch17-u27"
    },
@@ -912,7 +912,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "**8-bob:** silliq mushak.",
+      "text": "**8-bob:** silliq muşak.",
       "depth": 0
      },
      {
@@ -928,7 +928,7 @@
       "depth": 0
      },
      {
-      "text": "**20-bob:** yurak chiqarishi mahalliy oqimlar yig’indisi sifatida.",
+      "text": "**20-bob:** yurak çiqarişi mahalliy oqimlar yiğindisi sifatida.",
       "depth": 0
      },
      {
@@ -974,19 +974,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Angina pektorisda nitratlar (NO manbai) qo’llanadi. Erektil disfunksiyada PDE-5 ingibitorlari.",
+      "text": "Angina pektorisda nitratlar (NO manbai) qöllanadi. Erektil disfunksiyada PDE-5 ingibitorlari.",
       "depth": 0
      },
      {
-      "text": "O’pka gipertenziyasida endotelin blokatorlari ishlatiladi.",
+      "text": "Öpka gipertenziyasida endotelin blokatorlari işlatiladi.",
       "depth": 0
      },
      {
-      "text": "Chala tug’ilganlarda O₂ terapiyasi retinopatiya xavfini tug’diradi.",
+      "text": "Çala tuğilganlarda O₂ terapiyasi retinopatiya xavfini tuğdiradi.",
       "depth": 0
      },
      {
-      "text": "O’smalarga qarshi antiangiogen yondashuv (angiostatin, endostatin, VEGF).",
+      "text": "Ösmalarga qarşi antiangiogen yondaşuv (angiostatin, endostatin, VEGF).",
       "depth": 0
      },
      {
@@ -994,7 +994,7 @@
       "depth": 0
      },
      {
-      "text": "Gipertoniyada tomir qattiqlashadi (gipertrofik remodeling).",
+      "text": "Gipertoniyada tomir qattiqlaşadi (gipertrofik remodeling).",
       "depth": 0
      },
      {
@@ -1669,9 +1669,9 @@
  "glossary": [
   {
    "id": "ch17-t-ozi-boshqaradi",
-   "termUz": "o’zi boshqaradi",
+   "termUz": "özi boşqaradi",
    "original": null,
-   "contextUz": "Har bir to’qima o’z qon oqimini metabolik ehtiyojiga mos ravishda o’zi boshqaradi.",
+   "contextUz": "Har bir töqima öz qon oqimini metabolik ehtiyojiga mos ravişda özi boşqaradi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1679,9 +1679,9 @@
   },
   {
    "id": "ch17-t-tezkor-otkir-nazorat",
-   "termUz": "Tezkor (o’tkir) nazorat.",
+   "termUz": "Tezkor (ötkir) nazorat.",
    "original": null,
-   "contextUz": "Tezkor (o’tkir) nazorat. Arteriola, metarteriola va prekapillyar sfinkterlar soniyalar yoki daqiqalar ichida kengayadi yoki torayadi.",
+   "contextUz": "Tezkor (ötkir) nazorat. Arteriola, metarteriola va prekapillyar sfinkterlar soniyalar yoki daqiqalar içida kengayadi yoki torayadi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1691,7 +1691,7 @@
    "id": "ch17-t-uzoq-muddatli-nazorat",
    "termUz": "Uzoq muddatli nazorat.",
    "original": null,
-   "contextUz": "Uzoq muddatli nazorat. Kunlar, haftalar va oylar davomida tomirlarning soni va o’lchami o’zgaradi.",
+   "contextUz": "Uzoq muddatli nazorat. Kunlar, haftalar va oylar davomida tomirlarning soni va ölçami özgaradi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1701,7 +1701,7 @@
    "id": "ch17-t-jami",
    "termUz": "Jami",
    "original": null,
-   "contextUz": "Organ Yurak chiqarishining % i ml/min ml/min/100 g Miya 14 700 50 Yurak 4 200 70 Bronxlar 2 100 25 Buyraklar 22 1100 360 Jigar (portal 1050 + arterial 300) 27 1350 95 Mushaklar (tinch holatda) 15 750 4 Suyak 5 250 3 Teri (salqin havoda) 6 300 3 Qalqonsimon bez 1 50 160 Buyrak usti bezlari 0,5 25 300 Boshqalar 3,5 175 1,3 Jami 100 5000",
+   "contextUz": "Organ Yurak çiqarişining % i ml/min ml/min/100 g Miya 14 700 50 Yurak 4 200 70 Bronxlar 2 100 25 Buyraklar 22 1100 360 Jigar (portal 1050 + arterial 300) 27 1350 95 Muşaklar (tinç holatda) 15 750 4 Suyak 5 250 3 Teri (salqin havoda) 6 300 3 Qalqonsimon bez 1 50 160 Buyrak usti bezlari 0,5 25 300 Boşqalar 3,5 175 1,3 Jami 100 5000",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1709,9 +1709,9 @@
   },
   {
    "id": "ch17-t-metabolizm-oshsa-oqim-ham-oshadi",
-   "termUz": "Metabolizm oshsa oqim ham oshadi",
+   "termUz": "Metabolizm oşsa oqim ham oşadi",
    "original": null,
-   "contextUz": "Metabolizm oshsa oqim ham oshadi: metabolizm 8 marta oshganda oqim ~4 marta ko’payadi.",
+   "contextUz": "Metabolizm oşsa oqim ham oşadi: metabolizm 8 marta oşganda oqim ~4 marta köpayadi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1719,9 +1719,9 @@
   },
   {
    "id": "ch17-t-o-kamaysa-oqim-oshadi",
-   "termUz": "O₂ kamaysa oqim oshadi.",
+   "termUz": "O₂ kamaysa oqim oşadi.",
    "original": null,
-   "contextUz": "O₂ kamaysa oqim oshadi. Bunga balandlik, pnevmoniya, CO yoki sianid zaharlanishi misol.",
+   "contextUz": "O₂ kamaysa oqim oşadi. Bunga balandlik, pnevmoniya, CO yoki sianid zaharlanişi misol.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1729,9 +1729,9 @@
   },
   {
    "id": "ch17-t-ikki-nazariya-bor-ehtimol-ikkalasi-birga-ishlaydi",
-   "termUz": "Ikki nazariya bor (ehtimol ikkalasi birga ishlaydi)",
+   "termUz": "Ikki nazariya bor (ehtimol ikkalasi birga işlaydi)",
    "original": null,
-   "contextUz": "Ikki nazariya bor (ehtimol ikkalasi birga ishlaydi): Vazodilatator nazariyasi.",
+   "contextUz": "Ikki nazariya bor (ehtimol ikkalasi birga işlaydi): Vazodilatator nazariyasi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1741,7 +1741,7 @@
    "id": "ch17-t-vazodilatator-nazariyasi",
    "termUz": "Vazodilatator nazariyasi.",
    "original": null,
-   "contextUz": "Ikki nazariya bor (ehtimol ikkalasi birga ishlaydi): Vazodilatator nazariyasi. Metabolizm kuchayganda yoki O₂ yetishmaganda to’qimada vazodilatator moddalar ko’payadi: adenozin, CO₂, adenozin fosfatlari, gistamin, K⁺, H⁺ (sut kislotasi).",
+   "contextUz": "Ikki nazariya bor (ehtimol ikkalasi birga işlaydi): Vazodilatator nazariyasi. Metabolizm kuçayganda yoki O₂ yetişmaganda töqimada vazodilatator moddalar köpayadi: adenozin, CO₂, adenozin fosfatlari, gistamin, K⁺, H⁺ (sut kislotasi).",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1751,7 +1751,7 @@
    "id": "ch17-t-adenozin",
    "termUz": "adenozin",
    "original": null,
-   "contextUz": " Metabolizm kuchayganda yoki O₂ yetishmaganda to’qimada vazodilatator moddalar ko’payadi: adenozin, CO₂, adenozin fosfatlari, gistamin, K⁺, H⁺ (sut kislotasi).",
+   "contextUz": " Metabolizm kuçayganda yoki O₂ yetişmaganda töqimada vazodilatator moddalar köpayadi: adenozin, CO₂, adenozin fosfatlari, gistamin, K⁺, H⁺ (sut kislotasi).",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1761,7 +1761,7 @@
    "id": "ch17-t-kislorod-nutriyent-talabi-nazariyasi",
    "termUz": "Kislorod (nutriyent) talabi nazariyasi.",
    "original": null,
-   "contextUz": "Kislorod (nutriyent) talabi nazariyasi. Silliq mushak qisqarib turishi uchun O₂ kerak.",
+   "contextUz": "Kislorod (nutriyent) talabi nazariyasi. Silliq muşak qisqarib turişi uçun O₂ kerak.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1771,7 +1771,7 @@
    "id": "ch17-t-vazomotsiya",
    "termUz": "vazomotsiya",
    "original": null,
-   "contextUz": "Sfinkterlar to’liq ochiq yoki to’liq yopiq holatda bo’ladi va daqiqada bir necha marta tsiklik ochilib-yopiladi (vazomotsiya).",
+   "contextUz": "Sfinkterlar töliq oçiq yoki töliq yopiq holatda böladi va daqiqada bir neça marta tsiklik oçilib-yopiladi (vazomotsiya).",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1779,9 +1779,9 @@
   },
   {
    "id": "ch17-t-boshqa-nutriyentlar",
-   "termUz": "Boshqa nutriyentlar.",
+   "termUz": "Boşqa nutriyentlar.",
    "original": null,
-   "contextUz": "Boshqa nutriyentlar. Glyukoza yetishmasligi ham tomirni kengaytiradi.",
+   "contextUz": "Boşqa nutriyentlar. Glyukoza yetişmasligi ham tomirni kengaytiradi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1791,7 +1791,7 @@
    "id": "ch17-t-beriberi",
    "termUz": "Beriberi",
    "original": "tiamin, niatsin, riboflavin tanqisligi",
-   "contextUz": "Beriberi (tiamin, niatsin, riboflavin tanqisligi) ATP hosil bo’lishini buzadi, natijada periferik oqim 2–3 marta oshadi.",
+   "contextUz": "Beriberi (tiamin, niatsin, riboflavin tanqisligi) ATP hosil bölişini buzadi, natijada periferik oqim 2–3 marta oşadi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1801,7 +1801,7 @@
    "id": "ch17-t-reaktiv-giperemiya",
    "termUz": "Reaktiv giperemiya.",
    "original": null,
-   "contextUz": "Reaktiv giperemiya. Arteriya bir necha soniyadan 1 soatgacha yopilib, keyin ochilsa, oqim normaldan 4–7 marta oshadi.",
+   "contextUz": "Reaktiv giperemiya. Arteriya bir neça soniyadan 1 soatgaça yopilib, keyin oçilsa, oqim normaldan 4–7 marta oşadi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1811,7 +1811,7 @@
    "id": "ch17-t-aktiv-giperemiya",
    "termUz": "Aktiv giperemiya.",
    "original": null,
-   "contextUz": "Aktiv giperemiya. Faol to’qimada (mushak, bez, miya) oqim oshadi.",
+   "contextUz": "Aktiv giperemiya. Faol töqimada (muşak, bez, miya) oqim oşadi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1821,7 +1821,7 @@
    "id": "ch17-t-metabolik-nazariya",
    "termUz": "Metabolik nazariya.",
    "original": null,
-   "contextUz": "Metabolik nazariya. Ortiqcha oqim ortiqcha O₂ olib keladi va vazodilatatorlarni yuvib ketadi, natijada tomir torayadi.",
+   "contextUz": "Metabolik nazariya. Ortiqça oqim ortiqça O₂ olib keladi va vazodilatatorlarni yuvib ketadi, natijada tomir torayadi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1831,7 +1831,7 @@
    "id": "ch17-t-miogen-nazariya",
    "termUz": "Miogen nazariya.",
    "original": null,
-   "contextUz": "Miogen nazariya. Tomir cho’zilganda silliq mushak depolyarizatsiyalanadi, Ca²⁺ kiradi va mushak qisqaradi.",
+   "contextUz": "Miogen nazariya. Tomir çözilganda silliq muşak depolyarizatsiyalanadi, Ca²⁺ kiradi va muşak qisqaradi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1839,9 +1839,9 @@
   },
   {
    "id": "ch17-t-maxsus-toqimalar",
-   "termUz": "Maxsus to’qimalar",
+   "termUz": "Maxsus töqimalar",
    "original": null,
-   "contextUz": "Maxsus to’qimalar: Buyrak: *tubuloglomerulyar teskari aloqa*.",
+   "contextUz": "Maxsus töqimalar: Buyrak: *tubuloglomerulyar teskari aloqa*.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1851,7 +1851,7 @@
    "id": "ch17-t-buyrak",
    "termUz": "Buyrak",
    "original": null,
-   "contextUz": "Maxsus to’qimalar: Buyrak: *tubuloglomerulyar teskari aloqa*.",
+   "contextUz": "Maxsus töqimalar: Buyrak: *tubuloglomerulyar teskari aloqa*.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1861,7 +1861,7 @@
    "id": "ch17-t-miya",
    "termUz": "Miya",
    "original": null,
-   "contextUz": "Miya: CO₂ va H⁺ ko’paysa tomirlar kengayadi, ortiqcha CO₂ va H⁺ yuvib chiqariladi (62-bob).",
+   "contextUz": "Miya: CO₂ va H⁺ köpaysa tomirlar kengayadi, ortiqça CO₂ va H⁺ yuvib çiqariladi (62-bob).",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1871,7 +1871,7 @@
    "id": "ch17-t-teri",
    "termUz": "Teri",
    "original": null,
-   "contextUz": "Teri: harorat nazoratiga bog’langan va asosan simpatik nervlar boshqaradi.",
+   "contextUz": "Teri: harorat nazoratiga boğlangan va asosan simpatik nervlar boşqaradi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1881,7 +1881,7 @@
    "id": "ch17-t-azot-oksidi-no",
    "termUz": "Azot oksidi (NO)",
    "original": null,
-   "contextUz": "Azot oksidi (NO) — eng muhim bo’shashtiruvchi omil.",
+   "contextUz": "Azot oksidi (NO) — eng muhim böşaştiruvçi omil.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1889,9 +1889,9 @@
   },
   {
    "id": "ch17-t-hosil-bolishi",
-   "termUz": "Hosil bo’lishi",
+   "termUz": "Hosil bölişi",
    "original": null,
-   "contextUz": "Hosil bo’lishi: eNOS arginin va O₂ dan hosil qiladi (anorganik nitrat qaytarilishidan ham olinadi).",
+   "contextUz": "Hosil bölişi: eNOS arginin va O₂ dan hosil qiladi (anorganik nitrat qaytarilişidan ham olinadi).",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1899,9 +1899,9 @@
   },
   {
    "id": "ch17-t-tasir-yoli",
-   "termUz": "Ta’sir yo’li",
+   "termUz": "Ta’sir yöli",
    "original": null,
-   "contextUz": "Ta’sir yo’li: eruvchan guanilatsiklaza → cGMP → PKG → tomir bo’shashadi.",
+   "contextUz": "Ta’sir yöli: eruvçan guanilatsiklaza → cGMP → PKG → tomir böşaşadi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1909,9 +1909,9 @@
   },
   {
    "id": "ch17-t-siljish-kuchlanishi-shear-stress",
-   "termUz": "Siljish kuchlanishi (shear stress)",
+   "termUz": "Siljiş kuçlanişi (şear stress)",
    "original": null,
-   "contextUz": "Siljish kuchlanishi (shear stress) NO chiqishini oshiradi.",
+   "contextUz": "Siljiş kuçlanişi (şear stress) NO çiqişini oşiradi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1919,9 +1919,9 @@
   },
   {
    "id": "ch17-t-klinik-qollanishi",
-   "termUz": "Klinik qo’llanishi",
+   "termUz": "Klinik qöllanişi",
    "original": null,
-   "contextUz": "Klinik qo’llanishi: Nitrogliserin va amilnitrit NO beradi, stenokardiyada ishlatiladi.",
+   "contextUz": "Klinik qöllanişi: Nitrogliserin va amilnitrit NO beradi, stenokardiyada işlatiladi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1931,7 +1931,7 @@
    "id": "ch17-t-sildenafil",
    "termUz": "Sildenafil",
    "original": "PDE-5 ingibitori",
-   "contextUz": "Sildenafil (PDE-5 ingibitori) cGMP parchalanishini to’xtatadi va erektil disfunksiyada qo’llanadi (81-bob).",
+   "contextUz": "Sildenafil (PDE-5 ingibitori) cGMP parçalanişini töxtatadi va erektil disfunksiyada qöllanadi (81-bob).",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1941,7 +1941,7 @@
    "id": "ch17-t-endotelin",
    "termUz": "Endotelin.",
    "original": null,
-   "contextUz": "Endotelin. 27 aminokislotali peptid, nanogramm miqdorda ham kuchli toraytiradi.",
+   "contextUz": "Endotelin. 27 aminokislotali peptid, nanogramm miqdorda ham kuçli toraytiradi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1951,7 +1951,7 @@
    "id": "ch17-t-tezkor-nazorat-ehtiyojning-3-4-qismini-qoplaydi",
    "termUz": "Tezkor nazorat ehtiyojning ~3/4 qismini qoplaydi.",
    "original": null,
-   "contextUz": "Tezkor nazorat ehtiyojning ~3/4 qismini qoplaydi. Masalan, bosim 100 dan 150 mm Hg ga ko’tarilsa, oqim darhol ~100% oshadi.",
+   "contextUz": "Tezkor nazorat ehtiyojning ~3/4 qismini qoplaydi. Masalan, bosim 100 dan 150 mm Hg ga kötarilsa, oqim darhol ~100% oşadi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1959,9 +1959,9 @@
   },
   {
    "id": "ch17-t-tomirlanish-vaskulyarizatsiya-ozgaradi-yani-angiogenez",
-   "termUz": "Tomirlanish (vaskulyarizatsiya) o’zgaradi, ya’ni angiogenez",
+   "termUz": "Tomirlaniş (vaskulyarizatsiya) özgaradi, ya’ni angiogenez",
    "original": null,
-   "contextUz": "Tomirlanish (vaskulyarizatsiya) o’zgaradi, ya’ni angiogenez: Kalamush mushagi 30 kun elektr bilan stimulyatsiya qilinganda kapillyarlar keskin ko’paydi.",
+   "contextUz": "Tomirlaniş (vaskulyarizatsiya) özgaradi, ya’ni angiogenez: Kalamuş muşagi 30 kun elektr bilan stimulyatsiya qilinganda kapillyarlar keskin köpaydi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1971,7 +1971,7 @@
    "id": "ch17-t-o-ning-roli",
    "termUz": "O₂ ning roli",
    "original": null,
-   "contextUz": "O₂ ning roli: Balandlikda yashovchilarda tomirlar ko’payadi.",
+   "contextUz": "O₂ ning roli: Balandlikda yaşovçilarda tomirlar köpayadi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1981,7 +1981,7 @@
    "id": "ch17-t-retrolental-fibroplaziya",
    "termUz": "Retrolental fibroplaziya.",
    "original": null,
-   "contextUz": "Retrolental fibroplaziya. Chala tug’ilgan chaqaloq O₂ chodirida bo’lsa, ortiqcha O₂ to’r parda tomirlari o’sishini to’xtatadi.",
+   "contextUz": "Retrolental fibroplaziya. Çala tuğilgan çaqaloq O₂ çodirida bölsa, ortiqça O₂ tör parda tomirlari ösişini töxtatadi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1989,9 +1989,9 @@
   },
   {
    "id": "ch17-t-osish-omillari",
-   "termUz": "O’sish omillari.",
+   "termUz": "Ösiş omillari.",
    "original": null,
-   "contextUz": "O’sish omillari. Asosiylari: VEGF, FGF, PDGF, angiogenin.",
+   "contextUz": "Ösiş omillari. Asosiylari: VEGF, FGF, PDGF, angiogenin.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -1999,9 +1999,9 @@
   },
   {
    "id": "ch17-t-angiogenez-bosqichlari",
-   "termUz": "Angiogenez bosqichlari",
+   "termUz": "Angiogenez bosqiçlari",
    "original": null,
-   "contextUz": "Angiogenez bosqichlari: Bazal membrana eriydi.",
+   "contextUz": "Angiogenez bosqiçlari: Bazal membrana eriydi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -2011,7 +2011,7 @@
    "id": "ch17-t-ingibitorlar",
    "termUz": "Ingibitorlar",
    "original": null,
-   "contextUz": "Ingibitorlar: Ba’zi steroidlar tomirlarni yo’qotadi.",
+   "contextUz": "Ingibitorlar: Ba’zi steroidlar tomirlarni yöqotadi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -2021,7 +2021,7 @@
    "id": "ch17-t-angiostatin",
    "termUz": "Angiostatin",
    "original": null,
-   "contextUz": "Angiostatin plazminogen bo’lagidan hosil bo’ladi.",
+   "contextUz": "Angiostatin plazminogen bölagidan hosil böladi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -2031,7 +2031,7 @@
    "id": "ch17-t-endostatin",
    "termUz": "Endostatin",
    "original": null,
-   "contextUz": "Endostatin kollagen XVII parchalanishidan hosil bo’ladi.",
+   "contextUz": "Endostatin kollagen XVII parçalanişidan hosil böladi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -2039,9 +2039,9 @@
   },
   {
    "id": "ch17-t-tomirlanish-ortacha-emas-maksimal-ehtiyojga-qarab-belgilanad",
-   "termUz": "Tomirlanish o’rtacha emas, maksimal ehtiyojga qarab belgilanadi.",
+   "termUz": "Tomirlaniş örtaça emas, maksimal ehtiyojga qarab belgilanadi.",
    "original": null,
-   "contextUz": "Tomirlanish o’rtacha emas, maksimal ehtiyojga qarab belgilanadi. Kuniga bir necha daqiqa og’ir mashq ham yetarli.",
+   "contextUz": "Tomirlaniş örtaça emas, maksimal ehtiyojga qarab belgilanadi. Kuniga bir neça daqiqa oğir maşq ham yetarli.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -2049,9 +2049,9 @@
   },
   {
    "id": "ch17-t-kollateral-qon-aylanish",
-   "termUz": "Kollateral qon aylanish",
+   "termUz": "Kollateral qon aylaniş",
    "original": null,
-   "contextUz": "Kollateral qon aylanish: Bir-ikki daqiqada mavjud halqalar metabolik yo’l bilan kengayadi (dastlab ehtiyojning <25% i).",
+   "contextUz": "Kollateral qon aylaniş: Bir-ikki daqiqada mavjud halqalar metabolik yöl bilan kengayadi (dastlab ehtiyojning <25% i).",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -2059,9 +2059,9 @@
   },
   {
    "id": "ch17-t-ichkariga-evtrofik-remodeling",
-   "termUz": "Ichkariga evtrofik remodeling.",
+   "termUz": "Içkariga evtrofik remodeling.",
    "original": null,
-   "contextUz": "Ichkariga evtrofik remodeling. Gipertoniyada mayda arteriyalar torayadi; hujayralar kichik bo’shliq atrofida qayta joylashadi.",
+   "contextUz": "Içkariga evtrofik remodeling. Gipertoniyada mayda arteriyalar torayadi; hujayralar kiçik böşliq atrofida qayta joylaşadi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -2071,7 +2071,7 @@
    "id": "ch17-t-gipertrofik-remodeling",
    "termUz": "Gipertrofik remodeling.",
    "original": null,
-   "contextUz": "Gipertrofik remodeling. Katta arteriyalar torayolmaydi; devor tarangligi oshgani sababli silliq mushak gipertrofiyalanadi, kollagen va fibronektin ko’payadi.",
+   "contextUz": "Gipertrofik remodeling. Katta arteriyalar torayolmaydi; devor tarangligi oşgani sababli silliq muşak gipertrofiyalanadi, kollagen va fibronektin köpayadi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -2079,9 +2079,9 @@
   },
   {
    "id": "ch17-t-koronar-shuntdagi-venaga-misol",
-   "termUz": "Koronar shuntdagi venaga misol.",
+   "termUz": "Koronar şuntdagi venaga misol.",
    "original": null,
-   "contextUz": "Koronar shuntdagi venaga misol. Teri osti venasi arterial bosimga tushgach, bir necha oyda devori arteriya qalinligiga yetadi.",
+   "contextUz": "Koronar şuntdagi venaga misol. Teri osti venasi arterial bosimga tuşgaç, bir neça oyda devori arteriya qalinligiga yetadi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -2091,7 +2091,7 @@
    "id": "ch17-t-av-fistula-dializ",
    "termUz": "AV fistula (dializ).",
    "original": null,
-   "contextUz": "AV fistula (dializ). Radial arteriya oqimi 10–50 marta oshadi.",
+   "contextUz": "AV fistula (dializ). Radial arteriya oqimi 10–50 marta oşadi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -2099,9 +2099,9 @@
   },
   {
    "id": "ch17-t-tashqariga-remodeling",
-   "termUz": "tashqariga remodeling",
+   "termUz": "taşqariga remodeling",
    "original": null,
-   "contextUz": "Arteriya tomonida: oqim va siljish kuchlanishi tashqariga remodeling beradi (bo’shliq kengayadi, devor qalinligi o’zgarmaydi).",
+   "contextUz": "Arteriya tomonida: oqim va siljiş kuçlanişi taşqariga remodeling beradi (böşliq kengayadi, devor qalinligi özgarmaydi).",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -2109,9 +2109,9 @@
   },
   {
    "id": "ch17-t-tashqariga-gipertrofik",
-   "termUz": "tashqariga gipertrofik",
+   "termUz": "taşqariga gipertrofik",
    "original": null,
-   "contextUz": "Vena tomonida: bosim ham, oqim ham oshgani uchun tashqariga gipertrofik remodeling bo’ladi.",
+   "contextUz": "Vena tomonida: bosim ham, oqim ham oşgani uçun taşqariga gipertrofik remodeling böladi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -2121,7 +2121,7 @@
    "id": "ch17-t-umumiy-qoida",
    "termUz": "Umumiy qoida",
    "original": null,
-   "contextUz": "Umumiy qoida: devor tarangligi devor qalinligini, oqim esa bo’shliq diametrini belgilaydi.",
+   "contextUz": "Umumiy qoida: devor tarangligi devor qalinligini, oqim esa böşliq diametrini belgilaydi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -2131,7 +2131,7 @@
    "id": "ch17-t-noradrenalin",
    "termUz": "Noradrenalin",
    "original": null,
-   "contextUz": "Noradrenalin kuchli toraytiradi.",
+   "contextUz": "Noradrenalin kuçli toraytiradi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -2141,7 +2141,7 @@
    "id": "ch17-t-adrenalin",
    "termUz": "Adrenalin",
    "original": null,
-   "contextUz": "Adrenalin kuchsizroq, ba’zi to’qimalarda, masalan koronar tomirlarda, kengaytiradi.",
+   "contextUz": "Adrenalin kuçsizroq, ba’zi töqimalarda, masalan koronar tomirlarda, kengaytiradi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -2151,7 +2151,7 @@
    "id": "ch17-t-angiotenzin-ii",
    "termUz": "Angiotenzin II.",
    "original": null,
-   "contextUz": "Angiotenzin II. 1 mkg bosimni ≥50 mm Hg ga oshiradi.",
+   "contextUz": "Angiotenzin II. 1 mkg bosimni ≥50 mm Hg ga oşiradi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -2161,7 +2161,7 @@
    "id": "ch17-t-vazopressin-adg",
    "termUz": "Vazopressin (ADG).",
    "original": null,
-   "contextUz": "Vazopressin (ADG). Eng kuchli konstriktorlardan biri.",
+   "contextUz": "Vazopressin (ADG). Eng kuçli konstriktorlardan biri.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -2171,7 +2171,7 @@
    "id": "ch17-t-bradikinin",
    "termUz": "Bradikinin.",
    "original": null,
-   "contextUz": "Bradikinin. Hosil bo’lishi: kallikrein faollashadi → α₂-globulindan kallidin ajraladi → bradikinin.",
+   "contextUz": "Bradikinin. Hosil bölişi: kallikrein faollaşadi → α₂-globulindan kallidin ajraladi → bradikinin.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -2181,7 +2181,7 @@
    "id": "ch17-t-gistamin",
    "termUz": "Gistamin.",
    "original": null,
-   "contextUz": "Gistamin. Semiz (mast) hujayralar va bazofillardan chiqadi.",
+   "contextUz": "Gistamin. Semiz (mast) hujayralar va bazofillardan çiqadi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -2191,7 +2191,7 @@
    "id": "ch17-t-toraytiradi",
    "termUz": "Toraytiradi",
    "original": null,
-   "contextUz": "Toraytiradi: hujayra ichida Ca²⁺ ko’payishi; H⁺ biroz kamayishi.",
+   "contextUz": "Toraytiradi: hujayra içida Ca²⁺ köpayişi; H⁺ biroz kamayişi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -2201,7 +2201,7 @@
    "id": "ch17-t-kengaytiradi",
    "termUz": "Kengaytiradi",
    "original": null,
-   "contextUz": "Kengaytiradi: K⁺ (fiziologik chegarada) va Mg²⁺ (kuchli).",
+   "contextUz": "Kengaytiradi: K⁺ (fiziologik çegarada) va Mg²⁺ (kuçli).",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",
@@ -2211,7 +2211,7 @@
    "id": "ch17-t-co",
    "termUz": "CO₂.",
    "original": null,
-   "contextUz": "CO₂. Ko’p to’qimalarda o’rtacha, miyada kuchli kengaytiradi.",
+   "contextUz": "CO₂. Köp töqimalarda örtaça, miyada kuçli kengaytiradi.",
    "lessonId": "ch17",
    "topicId": "04",
    "source": "summaryUz",

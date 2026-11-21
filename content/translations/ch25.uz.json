@@ -1,0 +1,535 @@
+{
+ "lessonId": "ch25",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 25,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "manual",
+ "translator": "Claude (DrStudy sessiyasi)",
+ "model": null,
+ "createdAt": "2026-11-18T06:09:01.759Z",
+ "updatedAt": "2026-11-18T06:09:01.760Z",
+ "coverage": {
+  "translated": 170,
+  "total": 170
+ },
+ "note": "Kitob matnining töliq özbekça tarjimasi (qisqartirilmagan). Ekspert tekşiruvidan ötmagan.",
+ "blocks": {
+  "ch25-f0": {
+   "text": "Tana suyuqliklarining nisbatan doimiy hajmi va barqaror tarkibini saqlab turiş gomeostaz uçun zarurdir. Klinik tibbiyotdagi eng köp uçraydigan va muhim muammolarning ayrimlari tana suyuqliklarining bu nisbiy doimiyligini saqlab turuvçi boşqaruv tizimlaridagi buzilişlar tufayli yuzaga keladi. Uşbu bobda va buyraklarga bağişlangan keyingi boblarda tana suyuqliklari hajmining umumiy boşqarilişi, hujayradan taşqari suyuqlik tarkibiy qismlari, kislota-işqor muvozanati hamda hujayradan taşqari va hujayra içi bölinmalari örtasidagi suyuqlik almaşinuvining boşqarilişini muhokama qilamiz."
+  },
+  "ch25-f1": {
+   "text": "Barqaror holatda suyuqlik qabuli va çiqarilişi muvozanatda böladi"
+  },
+  "ch25-f2": {
+   "text": "Tana suyuqliklarining nisbiy doimiyligi hayratlanarlidir, çunki taşqi muhit bilan, şuningdek, tananing turli bölinmalari içida ham suyuqlik va erigan moddalar uzluksiz almaşinib turadi. Masalan, tanaga qöşiladigan suyuqlik miqdori juda özgaruvçan bölib, tana suyuqliklari hajmining ortib yoki kamayib ketmasligi uçun u tanadan çiqariladigan teng miqdordagi suv bilan sinçiklab muvozanatlanişi kerak."
+  },
+  "ch25-f3": {
+   "text": "Kunlik suv qabuli"
+  },
+  "ch25-f4": {
+   "text": "Suv tanaga ikki asosiy manbadan qöşiladi: (1) u suyuqliklar yoki ovqat tarkibidagi suv şaklida iste’mol qilinadi va bular birgalikda odatda tana suyuqliklariga kuniga taxminan 2100 ml qöşadi; (2) u tanada uglevodlarning oksidlanişi natijasida sintezlanadi va kuniga taxminan 200 ml qöşadi. Bu mexanizmlar umumiy suv qabulini kuniga taxminan 2300 ml ga yetkazadi (**Jadval 25-1**). Biroq suv qabuli iqlim, odatlar va jismoniy faollik darajasiga qarab turli odamlarda, hatto bir odamning özida ham turli kunlarda juda özgaruvçan böladi."
+  },
+  "ch25-f6": {
+   "text": "Tanadan kunlik suv yöqotilişi"
+  },
+  "ch25-f7": {
+   "text": "Suv yöqotilişining ayrim turlarini aniq boşqarib bölmaydi. Masalan, odamda nafas yöllaridan buğlaniş va teri orqali diffuziya yöli bilan uzluksiz suv yöqotilib turadi; bular birgalikda normal şaroitda kuniga taxminan 700 ml suv yöqotilişini taşkil qiladi. Bu yöqotiliş barça tirik odamlarda uzluksiz sodir bölişiga qaramay, biz uni ongli ravişda sezmaganimiz uçun _sezilmaydigan suv yöqotilişi_ (insensible water loss) deb ataladi.",
+   "lead": "Sezilmaydigan suv yöqotilişi."
+  },
+  "ch25-f8": {
+   "text": "Teri orqali sezilmaydigan suv yöqotilişi terlaşdan mustaqil ravişda sodir böladi va hatto ter bezlarisiz tuğilgan odamlarda ham kuzatiladi; teri orqali diffuziya yöli bilan örtaça suv yöqotilişi kuniga taxminan 300–400 ml ni taşkil qiladi. Bu yöqotilişni terining xolesteringa boy muguzlangan qavati minimal darajaga tuşiradi, çunki u diffuziya orqali haddan taşqari suv yöqotilişiga qarşi tösiq vazifasini bajaradi. Keng kölamli kuyişlarda bölgani kabi muguzlangan qavat yöqolganda buğlaniş tezligi 10 baravargaça, ya’ni kuniga 3–5 L gaça ortişi mumkin. Şu sababli kuygan bemorlarga suyuqlik yöqotilişini qoplaş uçun köp miqdorda suyuqlik, odatda vena içiga, yuborilişi kerak."
+  },
+  "ch25-f9": {
+   "text": "Nafas yöllari orqali sezilmaydigan suv yöqotilişi normada örtaça kuniga taxminan 300–400 ml ni taşkil qiladi. Havo nafas yöllariga kirganda, u taşqariga çiqarilişidan oldin namlik bilan taxminan 47 mm Hg buğ bosimigaça töyinadi. Nafasga olinadigan havoning buğ bosimi odatda 47 mm Hg dan past bölgani uçun nafas oliş jarayonida öpka orqali suv uzluksiz yöqotilib turadi. Sovuq havoda atmosfera buğ bosimi deyarli 0 gaça pasayadi, şu sababli harorat pasaygan sari öpkadan suv yöqotilişi yanada ortadi. Sovuq havoda nafas yöllarida quruqlik hissi paydo bölişi aynan şu jarayon bilan tuşuntiriladi."
+  },
+  "ch25-f10": {
+   "text": "Terlaş orqali yöqotiladigan suv miqdori jismoniy faollik va atrof-muhit haroratiga qarab juda özgaruvçan böladi. Ter hajmi normada kuniga taxminan 100 ml ni taşkil qiladi, ammo juda issiq havoda yoki oğir jismoniy maşq paytida ter bilan suyuqlik yöqotilişi ba’zan soatiga 1–2 L gaça ortadi. Agar çanqoq mexanizmi faollaşişi hisobiga suyuqlik qabuli ham ortmaganida, bu yöqotiliş tana suyuqliklarini tezda kamaytirib yuborgan bölar edi; bu 29-bobda muhokama qilinadi.",
+   "lead": "Ter bilan suyuqlik yöqotilişi."
+  },
+  "ch25-f11": {
+   "text": "Normada najas bilan faqat oz miqdorda suv (kuniga 100 ml) yöqotiladi. Oğir diareyasi bölgan odamlarda bu yöqotiliş kuniga bir neça litrgaça ortişi mumkin. Şu sababli oğir diareya bir neça kun içida bartaraf etilmasa, hayot uçun xavfli bölişi mumkin.",
+   "lead": "Najas bilan suv yöqotilişi."
+  },
+  "ch25-f12": {
+   "text": "Tanadan qolgan suv yöqotilişi buyraklar ajratadigan siydik bilan sodir böladi. Siydik ajraliş tezligini köplab mexanizmlar boşqaradi.",
+   "lead": "Buyraklar orqali suv yöqotilişi."
+  },
+  "ch25-f13": {
+   "text": "Tananing suv qabuli va çiqarilişi örtasidagi muvozanatni, şuningdek, tanadagi köpçilik elektrolitlarning qabuli va çiqarilişi örtasidagi muvozanatni saqlab turişining eng muhim yöli buyraklarning bu moddalarni çiqariş tezligini boşqarişdir. Masalan, siydik hajmi suvsizlangan odamda kuniga 0,5 L gaça kamayişi yoki juda köp miqdorda suv içgan odamda kuniga 20 L gaça köpayişi mumkin."
+  },
+  "ch25-f14": {
+   "text": "Qabulning bunday özgaruvçanligi tanadagi natriy, xlor va kaliy kabi köpçilik elektrolitlar uçun ham xosdir. Ba’zi odamlarda natriy qabuli kuniga 20 mEq gaça past bölişi, boşqalarda esa kuniga 300–500 mEq gaça yuqori bölişi mumkin. Buyraklar suv va elektrolitlarning çiqariliş tezligini bu moddalarning qabuliga aniq moslaştiriş, şuningdek, ayrim kasallik holatlarida yuz beradigan suyuqlik va elektrolitlarning haddan taşqari yöqotilişini qoplaş vazifasini bajaradi. 26–32-boblarda buyraklarga bu ajoyib vazifalarni bajariş imkonini beruvçi mexanizmlarni muhokama qilamiz."
+  },
+  "ch25-f15": {
+   "text": "Tana suyuqligi bölinmalari"
+  },
+  "ch25-f16": {
+   "text": "Tana suyuqligining umumiy miqdori asosan ikki bölinma — _hujayradan taşqari suyuqlik_ va _hujayra içi suyuqligi_ örtasida taqsimlangan (**Rasm 25-1**). Hujayradan taşqari suyuqlik _interstitsial suyuqlik_ va qon _plazmasiga_ bölinadi."
+  },
+  "ch25-f18": {
+   "text": "_Transtsellyulyar suyuqlik_ deb ataladigan yana bir kiçik suyuqlik bölinmasi mavjud. Bu bölinmaga sinovial, qorin pardasi (peritoneal), perikard va köz içi böşliqlaridagi suyuqlik, şuningdek, orqa miya suyuqligi (likvor) kiradi; garçi ayrim hollarda uning tarkibi plazma yoki interstitsial suyuqlik tarkibidan sezilarli farq qilişi mumkin bölsa-da, u odatda hujayradan taşqari suyuqlikning maxsus turi sifatida qaraladi. Barça transtsellyulyar suyuqliklar birgalikda taxminan 1–2 litrni taşkil qiladi."
+  },
+  "ch25-f19": {
+   "text": "Tana vazni 70 kg bölgan katta yoşli erkakda tanadagi umumiy suv tana vaznining taxminan 60% ini, ya’ni taxminan 42 litrni taşkil qiladi. Bu foiz yoş, jins va semizlik darajasiga boğliq. Odam qarigan sari tana umumiy vaznidagi suyuqlik uluşi asta-sekin kamayadi. Bu kamayiş qisman qariş odatda tana vaznidagi yoğ uluşining ortişi bilan keçişi bilan boğliq, bu esa tanadagi suv uluşini kamaytiradi."
+  },
+  "ch25-f20": {
+   "text": "Ayollarda tanadagi yoğ uluşi odatda erkaklarnikiga qaraganda köproq bölgani uçun ularda tanadagi umumiy suv örtaça tana vaznining taxminan 50% ini taşkil qiladi. Çala tuğilgan va yangi tuğilgan çaqaloqlarda tanadagi umumiy suv tana vaznining 70% dan 75% gaçasini taşkil qiladi. Şu sababli tana suyuqligi bölinmalarining örtaça körsatkiçlarini muhokama qilganda, yoş, jins va tanadagi yoğ foiziga qarab farqlar mavjudligini yodda tutişimiz kerak."
+  },
+  "ch25-f21": {
+   "text": "Köplab boşqa mamlakatlarda sönggi 30 yil davomida örtaça tana vazni (va yoğ massasi) tez sur’atlarda ortdi. Qöşma Ştatlarda 20 yoşdan katta erkaklarning örtaça tana vazni taxminan 88,8 kg (∼196 funt), katta yoşli ayollarniki esa 77,4 kg (∼170 funt) deb baholanadi. Şu sababli uşbu va boşqa boblarda örtaça 70 kg vaznli erkak uçun keltirilgan ma’lumotlarni köpçilik odamlarda tana suyuqligi bölinmalarini körib çiqişda tegişliça tuzatiş kerak böladi."
+  },
+  "ch25-f22": {
+   "text": "Hujayra içi suyuqligi bölinmasi"
+  },
+  "ch25-f23": {
+   "text": "Tanadagi 42 litr suyuqlikning taxminan 28 litri trillionlab hujayralar içida joylaşgan bölib, birgalikda _hujayra içi suyuqligi_ deb ataladi. Şunday qilib, “örtaça” odamda hujayra içi suyuqligi tana umumiy vaznining taxminan 40% ini taşkil qiladi."
+  },
+  "ch25-f24": {
+   "text": "Har bir hujayra suyuqligi turli tarkibiy qismlarning öziga xos aralaşmasini öz içiga oladi, ammo bu moddalarning konsentratsiyalari bir hujayradan boşqasiga öxşaş böladi. Aslida hujayra suyuqliklarining tarkibi hatto eng sodda mikroorganizmlardan tortib odamgaça bölgan turli hayvonlarda ham hayratlanarli darajada öxşaş. Şu sababli barça turli hujayralarning hujayra içi suyuqligi birgalikda bitta yirik suyuqlik bölinmasi sifatida qaraladi."
+  },
+  "ch25-f25": {
+   "text": "Hujayradan taşqari suyuqlik bölinmasi"
+  },
+  "ch25-f26": {
+   "text": "Hujayralardan taşqaridagi barça suyuqliklar birgalikda _hujayradan taşqari suyuqlik_ deb ataladi. Bu suyuqliklar birgalikda tana vaznining taxminan 20% ini, ya’ni 70 kg vaznli erkakda taxminan 14 litrni taşkil qiladi. Hujayradan taşqari suyuqlikning eng yirik ikki bölinmasi — hujayradan taşqari suyuqlikning törtdan uç qismidan köproğini (11 litr) taşkil qiluvçi _interstitsial suyuqlik_ va hujayradan taşqari suyuqlikning deyarli törtdan bir qismini, ya’ni taxminan 3 litrni taşkil qiluvçi _plazma_ hisoblanadi. Plazma qonning hujayrasiz qismi bölib, kapillyar membranalarining teşikçalari (poralari) orqali interstitsial suyuqlik bilan uzluksiz modda almaşinib turadi. Bu teşikçalar hujayradan taşqari suyuqlikdagi oqsillardan taşqari deyarli barça erigan moddalar uçun yuqori ötkazuvçanlikka ega. Şu sababli hujayradan taşqari suyuqliklar doimo aralaşib turadi, natijada plazma va interstitsial suyuqlik deyarli bir xil tarkibga ega böladi; faqat oqsillar bundan mustasno, ularning konsentratsiyasi plazmada yuqoriroq."
+  },
+  "ch25-f27": {
+   "text": "Qon hujayradan taşqari suyuqlikni (plazmadagi suyuqlik) va hujayra içi suyuqligini (eritrotsitlardagi suyuqlik) öz içiga oladi. Biroq qon alohida suyuqlik bölinmasi sifatida qaraladi, çunki u özining alohida kamerasi — qon aylaniş tizimida joylaşgan. Qon hajmi yurak-qon tomir dinamikasini boşqarişda ayniqsa muhim ahamiyatga ega."
+  },
+  "ch25-f28": {
+   "text": "Katta yoşli odamlarda örtaça qon hajmi tana vaznining taxminan 7% ini, ya’ni taxminan 5 litrni taşkil qiladi. Qonning taxminan 60% i plazma, 40% i esa eritrotsitlardan iborat, ammo bu foizlar turli odamlarda jins, vazn va boşqa omillarga qarab sezilarli darajada farq qilişi mumkin."
+  },
+  "ch25-f29": {
+   "text": "Gematokrit — qonning eritrotsitlardan iborat qismi bölib, u qonni gematokrit nayçasida hujayralar nayça tubida ziç joylaşgunça sentrifugalaş orqali aniqlanadi. Sentrifuga eritrotsitlarni töliq ziçlay olmagani uçun plazmaning taxminan 3–4% i hujayralar orasida qolib ketadi, şu sababli haqiqiy gematokrit ölçangan gematokritning faqat taxminan 96% iga teng böladi.",
+   "lead": "Gematokrit (ziçlangan eritrotsitlar hajmi)."
+  },
+  "ch25-f30": {
+   "text": "Erkaklarda ölçangan gematokrit normada taxminan 0,40 ni, ayollarda esa taxminan 0,36 ni taşkil qiladi. Oğir _anemiyasi_ bölgan odamlarda gematokrit 0,10 gaça pasayişi mumkin; bu qiymat hayotni saqlab turiş uçun zörğa yetarli böladi. Aksinça, ayrim holatlarda eritrotsitlar haddan taşqari köp işlab çiqariladi, natijada _politsitemiya_ yuzaga keladi. Bunday odamlarda gematokrit 0,65 gaça kötarilişi mumkin."
+  },
+  "ch25-f31": {
+   "text": "Hujayradan taşqari va hujayra içi suyuqliklarining tarkibiy qismlari"
+  },
+  "ch25-f32": {
+   "text": "Plazma va interstitsial suyuqlikni öz içiga olgan hujayradan taşqari suyuqlik hamda hujayra içi suyuqligi tarkibining taqqoslanişi **Rasm 25-2** va **Rasm 25-3** da hamda **Jadval 25-2** da körsatilgan."
+  },
+  "ch25-f36": {
+   "text": "Plazma va interstitsial suyuqlikning ion tarkibi öxşaş"
+  },
+  "ch25-f37": {
+   "text": "Plazma va interstitsial suyuqlik bir-biridan faqat yuqori ötkazuvçan kapillyar membranalari bilan ajralib turgani uçun ularning ion tarkibi öxşaş. Bu ikki bölinma örtasidagi eng muhim farq — plazmada oqsil konsentratsiyasining yuqoriroq bölişi; kapillyarlarning plazma oqsillari uçun ötkazuvçanligi past bölgani sababli köpçilik töqimalarda interstitsial böşliqlarga oqsillarning faqat oz miqdori sizib ötadi."
+  },
+  "ch25-f38": {
+   "text": "_Donnan effekti_ tufayli musbat zaryadlangan ionlar (kationlar) konsentratsiyasi plazmada interstitsial suyuqlikdagiga qaraganda biroz (∼2%) yuqori böladi. Plazma oqsillari umumiy manfiy zaryadga ega, şu sababli ular natriy va kaliy ionlari kabi kationlarni boğlaşga moyil bölib, bu kationlarning qöşimça miqdorini plazma oqsillari bilan birga plazmada uşlab turadi. Aksinça, manfiy zaryadlangan ionlar (anionlar) konsentratsiyasi interstitsial suyuqlikda plazmadagiga qaraganda biroz yuqoriroq bölişga moyil, çunki plazma oqsillarining manfiy zaryadlari manfiy zaryadlangan anionlarni itaradi. Biroq amaliy maqsadlar uçun interstitsial suyuqlik va plazmadagi ionlar konsentratsiyalari taxminan teng deb hisoblanadi."
+  },
+  "ch25-f39": {
+   "text": "Yana **Rasm 25-2** ga murojaat qilsak, plazma va interstitsial suyuqlikni öz içiga olgan hujayradan taşqari suyuqlikda köp miqdorda natriy va xlor ionlari, ança köp miqdorda bikarbonat ionlari, ammo faqat oz miqdorda kaliy, kalsiy, magniy, fosfat va organik kislota ionlari borligini köriş mumkin. Hujayradan taşqari suyuqlik tarkibi turli mexanizmlar, ayniqsa, keyinroq muhokama qilinganidek, buyraklar tomonidan sinçiklab boşqariladi. Bu boşqaruv hujayralarning doimo hujayra optimal faoliyati uçun zarur bölgan elektrolitlar va ozuqa moddalarining töğri konsentratsiyasini saqlovçi suyuqlik bilan yuvilib turişini ta’minlaydi."
+  },
+  "ch25-f40": {
+   "text": "Hujayra içi suyuqligining tarkibiy qismlari"
+  },
+  "ch25-f41": {
+   "text": "Hujayra içi suyuqligi hujayradan taşqari suyuqlikdan suv uçun yuqori ötkazuvçan, ammo tanadagi köpçilik elektrolitlar uçun ötkazmaydigan hujayra membranasi bilan ajralib turadi. Hujayradan taşqari suyuqlikdan farqli ölaroq, hujayra içi suyuqligida natriy va xlor ionlari faqat oz miqdorda böladi, kalsiy ionlari esa deyarli bölmaydi. Buning örniga unda köp miqdorda kaliy va fosfat ionlari hamda örtaça miqdorda magniy va sulfat ionlari böladi; bularning barçasi hujayradan taşqari suyuqlikda past konsentratsiyaga ega. Şuningdek, hujayralarda köp miqdorda oqsil böladi — plazmadagidan deyarli tört baravar köp."
+  },
+  "ch25-f42": {
+   "text": "Tana suyuqligi bölinmalari hajmini ölçaş — indikator suyultiriş tamoyili"
+  },
+  "ch25-f43": {
+   "text": "Tanadagi suyuqlik bölinmasining hajmini ölçaş uçun bölinmaga indikator modda kiritiladi, uning bölinma suyuqligi böylab bir tekis tarqalişiga imkon beriladi, söngra moddaning qançalik suyultirilganligi tahlil qilinadi. **Rasm 25-4** da suyuqlik bölinmasi hajmini ölçaşning ana şu _indikator suyultiriş usuli_ körsatilgan. Bu usul massaning saqlaniş tamoyiliga asoslanadi, ya’ni moddaning suyuqlik bölinmasida tarqalgandan keyingi umumiy massasi bölinmaga yuborilgan umumiy massaga teng böladi."
+  },
+  "ch25-f45": {
+   "text": "**Rasm 25-4** da körsatilgan misolda şpritsdagi oz miqdordagi böyoq yoki boşqa modda kameraga yuboriladi va modda kamera böylab barça sohalarda teng konsentratsiyada aralaşgunça tarqalişiga imkon beriladi. Söngra tarqalgan modda saqlovçi suyuqlikdan namuna olinadi va konsentratsiya kimyoviy, fotoelektrik yoki boşqa usullar bilan tahlil qilinadi. Agar moddaning heç bir qismi bölinmadan sizib çiqmasa, bölinmadagi moddaning umumiy massasi (B hajm × B konsentratsiya) yuborilgan moddaning umumiy massasiga (A hajm × A konsentratsiya) teng böladi. Tenglamani oddiygina qayta tuziş orqali B kameraning noma’lum hajmini quyidagiça hisoblaş mumkin:"
+  },
+  "ch25-f46": {
+   "text": "Bu hisoblaş uçun quyidagilarni biliş kerak: (1) kameraga yuborilgan moddaning umumiy miqdori (tenglamaning surati); (2) modda tarqalgandan keyin kameradagi suyuqlik konsentratsiyasi (maxraji)."
+  },
+  "ch25-f47": {
+   "text": "Masalan, agar 10 mg/ml böyoq saqlovçi 1 millilitr eritma B kamerada tarqalsa va kameradagi oxirgi konsentratsiya suyuqlikning 0,01 mg/ml ini taşkil qilsa, kameraning noma’lum hajmini quyidagiça hisoblaş mumkin:"
+  },
+  "ch25-f48": {
+   "text": "Bu usul yordamida quyidagi şartlar bajarilsa, tanadagi deyarli har qanday bölinmaning hajmini ölçaş mumkin: (1) indikator bölinma böylab _bir tekis_ tarqaladi; (2) indikator _faqat_ ölçanayotgan bölinmada tarqaladi; (3) indikator _metabolizmga uçramaydi va çiqarilmaydi_. Agar indikator metabolizmga uçrasa yoki çiqarilsa, indikatorning tanadan yöqotilişi uçun tuzatiş kiritiş kerak. Turli tana suyuqliklarining har birining hajmini ölçaş uçun bir neçta moddadan foydalaniş mumkin."
+  },
+  "ch25-f49": {
+   "text": "Muayyan tana suyuqligi bölinmalari hajmini aniqlaş"
+  },
+  "ch25-f50": {
+   "text": "Tanadagi umumiy suvni ölçaş uçun radioaktiv suv (tritiy, 3H2O) yoki oğir suv (deyteriy, 2H2O) dan foydalaniş mumkin. Suvning bu şakllari qonga yuborilganidan keyin bir neça soat içida tanadagi umumiy suv bilan aralaşadi va tanadagi umumiy suvni hisoblaş uçun suyultiriş tamoyilidan foydalaniş mumkin (**Jadval 25-3**). Tanadagi umumiy suvni ölçaş uçun qöllanilgan yana bir modda — _antipirin_ bölib, u lipidlarda juda yaxşi eriydi, hujayra membranalaridan tez ötadi va hujayra içi hamda hujayradan taşqari bölinmalar böylab bir tekis tarqaladi.",
+   "lead": "Tanadagi umumiy suvni ölçaş."
+  },
+  "ch25-f52": {
+   "text": "Hujayradan taşqari suyuqlik hajmini plazma va interstitsial suyuqlikda tarqaladigan, ammo hujayra membranasidan oson ötmaydigan bir neçta moddalardan istalgani yordamida baholaş mumkin. Ularga radioaktiv natriy, radioaktiv xlor, radioaktiv iotalamat, tiosulfat ioni va inulin kiradi. Bu moddalardan birortasi qonga yuborilganda, u odatda 30–60 daqiqa içida hujayradan taşqari suyuqlik böylab deyarli töliq tarqaladi. Biroq bu moddalarning ayrimlari, masalan, radioaktiv natriy, oz miqdorda hujayralarga diffuziyalanişi mumkin. Şu sababli ölçov natijasini haqiqiy hujayradan taşqari suyuqlik hajmi deb ataş örniga köpinça _natriy böşliği_ yoki _inulin böşliği_ haqida söz yuritiladi.",
+   "lead": "Hujayradan taşqari suyuqlik hajmini ölçaş."
+  },
+  "ch25-f53": {
+   "text": "Hujayra içi hajmini bevosita ölçab bölmaydi. Biroq uni quyidagiça hisoblaş mumkin:",
+   "lead": "Hujayra içi hajmini hisoblaş."
+  },
+  "ch25-f54": {
+   "text": "Plazma hajmini kapillyar membranalaridan oson ötmaydigan, balki yuborilgandan keyin tomirlar tizimida qoladigan modda yordamida ölçaş mumkin. Plazma hajmini ölçaş uçun eng köp qöllaniladigan moddalardan biri radioaktiv yod bilan (125I-albumin) yoki plazma oqsillari bilan mustahkam boğlanadigan böyoq, masalan, _Evans köki_ (_T-1824_ deb ham ataladi) bilan nişonlangan zardob albuminidir.",
+   "lead": "Plazma hajmini ölçaş."
+  },
+  "ch25-f55": {
+   "text": "Interstitsial suyuqlik hajmini bevosita ölçab bölmaydi, ammo uni quyidagiça hisoblaş mumkin:",
+   "lead": "Interstitsial suyuqlik hajmini hisoblaş."
+  },
+  "ch25-f56": {
+   "text": "Agar yuqorida tasvirlangan usullar yordamida _gematokrit_ (qon umumiy hajmining hujayralardan iborat qismi) va plazma hajmi ölçansa, qon hajmini ham quyidagi tenglama yordamida hisoblaş mumkin:",
+   "lead": "Qon hajmini ölçaş."
+  },
+  "ch25-f57": {
+   "text": "Masalan, agar plazma hajmi 3 litr, gematokrit esa 0,40 bölsa, qonning umumiy hajmi quyidagiça hisoblanadi:"
+  },
+  "ch25-f58": {
+   "text": "Qon hajmini ölçaşning yana bir usuli — radioaktiv modda bilan nişonlangan eritrotsitlarni qon aylanişiga yuborişdir. Ular qon aylanişida aralaşgandan keyin aralaşgan qon namunasining radioaktivligini ölçaş va indikator suyultiriş tamoyili yordamida qonning umumiy hajmini hisoblaş mumkin. Eritrotsitlarni nişonlaş uçun işlatilişi mumkin bölgan moddalardan biri eritrotsitlar bilan mustahkam boğlanadigan radioaktiv xrom (51Cr) dir."
+  },
+  "ch25-f59": {
+   "text": "Hujayra içi va hujayradan taşqari suyuqlik örtasida suyuqlik almaşinuvi va osmotik muvozanat"
+  },
+  "ch25-f60": {
+   "text": "Oğir ahvoldagi bemorlarni davolaşda tez-tez uçraydigan muammolardan biri hujayra içi va hujayradan taşqari bölinmalarning birida yoki ikkalasida yetarli miqdorda suyuqlikni saqlab turişdir. 16-bobda va uşbu bobning keyingi qismida muhokama qilinganidek, hujayradan taşqari suyuqlikning plazma va interstitsial böşliqlar örtasida taqsimlangan nisbiy miqdorlari asosan kapillyar membranalari orqali ta’sir etuvçi gidrostatik va kolloid osmotik kuçlar muvozanati bilan belgilanadi."
+  },
+  "ch25-f61": {
+   "text": "Suyuqlikning hujayra içi va hujayradan taşqari bölinmalar örtasida taqsimlanişi esa, aksinça, asosan hujayra membranasi orqali ta’sir etuvçi kiçikroq erigan moddalar — ayniqsa, natriy, xlor va boşqa elektrolitlarning osmotik ta’siri bilan belgilanadi. Buning sababi şundaki, hujayra membranalari suv uçun yuqori ötkazuvçan, ammo hatto natriy va xlor kabi kiçik ionlar uçun ham nisbatan ötkazmaydigan böladi. Şu sababli suv hujayra membranasi orqali tez harakatlanadi va hujayra içi suyuqligi hujayradan taşqari suyuqlik bilan izotonik holatda qoladi."
+  },
+  "ch25-f62": {
+   "text": "Keyingi bölimda hujayra içi va hujayradan taşqari suyuqlik hajmlari örtasidagi özaro boğliqlik hamda suyuqlikning bu ikki bölinma örtasida siljişiga sabab bölişi mumkin bölgan osmotik omillarni muhokama qilamiz."
+  },
+  "ch25-f63": {
+   "text": "Osmos va osmotik bosimning asosiy tamoyillari"
+  },
+  "ch25-f64": {
+   "text": "Osmos va osmotik bosimning asosiy tamoyillari 4-bobda bayon qilingan. Şu sababli bu yerda biz bu tamoyillarning faqat hajmni boşqarişga taalluqli eng muhim jihatlarini qisqaça körib çiqamiz."
+  },
+  "ch25-f65": {
+   "text": "Hujayra membranalari köpçilik erigan moddalar uçun nisbatan ötkazmaydigan, ammo suv uçun yuqori ötkazuvçan bölgani (ya’ni tanlab ötkazuvçan bölgani) uçun hujayra membranasining bir tomonida erigan modda konsentratsiyasi yuqoriroq bölgan har qanday holatda suv membrana orqali erigan modda konsentratsiyasi yuqoriroq bölgan soha tomon diffuziyalanadi. Şunday qilib, agar hujayradan taşqari suyuqlikka natriy xlorid kabi erigan modda qöşilsa, suv membrananing ikkala tomonidagi suv konsentratsiyasi tenglaşgunça hujayralardan hujayra membranalari orqali hujayradan taşqari suyuqlikka tez diffuziyalanadi. Aksinça, agar natriy xlorid kabi erigan modda hujayradan taşqari suyuqlikdan çiqarib olinsa, suv hujayradan taşqari suyuqlikdan hujayra membranalari orqali hujayralar içiga diffuziyalanadi."
+  },
+  "ch25-f66": {
+   "text": "Eritmaning osmolyal konsentratsiyasi _bir kilogramm suvdagi osmollar_ bilan ifodalanganda _osmolyallik_, _bir litr eritmadagi osmollar_ bilan ifodalanganda esa _osmolyarlik_ deb ataladi. Tana suyuqliklari kabi suyultirilgan eritmalarda bu ikki atamani deyarli sinonim sifatida işlatiş mumkin, çunki ular orasidagi farq kiçik. Klinikada qöllaniladigan hisoblaşlarning köpçiligi va keyingi bir neça bobda keltirilgan hisoblaşlar osmolyalliklarga emas, balki osmolyarliklarga asoslangan.",
+   "lead": "Osmolyallik va osmolyarlik."
+  },
+  "ch25-f67": {
+   "text": "Vant-Goff qonunidan foydalanib, hujayra membranasi erigan modda uçun ötkazmaydigan deb faraz qilgan holda, eritmaning potensial osmotik bosimini hisoblaş mumkin. Masalan, 0,9% li natriy xlorid eritmasining osmotik bosimi quyidagiça hisoblanadi. 0,9% li eritma 100 millilitr eritmada 0,9 gramm, ya’ni 9 g/L natriy xlorid borligini bildiradi. Natriy xloridning molekulyar massasi 58,5 g/mol bölgani uçun eritmaning molyarligi 9 g/L ni 58,5 g/mol ga bölganiga, ya’ni taxminan 0,154 mol/L ga teng. Natriy xloridning har bir molekulasi 2 osmolga teng bölgani uçun eritmaning osmolyarligi 0,154 × 2, ya’ni 0,308 Osm/L ni taşkil qiladi. Demak, bu eritmaning osmolyarligi 308 mOsm/L ga teng. Şu sababli bu eritmaning potensial osmotik bosimi 308 mOsm/L × 19,3 mm Hg/mOsm/L, ya’ni 5944 mm Hg böladi.",
+   "lead": "Eritmaning osmolyarligi va osmotik bosimini hisoblaş."
+  },
+  "ch25-f68": {
+   "text": "Bu hisoblaş taxminiy hisoblanadi, çunki natriy va xlor ionlari ular orasidagi ionlararo tortişiş natijasida eritmada butunlay mustaqil harakat qilmaydi. Vant-Goff qonuni başoratlaridan bu oğişlarni _osmotik koeffitsiyent_ deb ataladigan tuzatiş koeffitsiyenti yordamida tuzatiş mumkin. Natriy xlorid uçun osmotik koeffitsiyent taxminan 0,93 ga teng. Şu sababli 0,9% li natriy xlorid eritmasining haqiqiy osmolyarligi 308 × 0,93, ya’ni taxminan 286 mOsm/L ni taşkil qiladi. Amaliy sabablarga köra fiziologik eritmalarning osmolyarligi va osmotik bosimini aniqlaşda turli erigan moddalarning osmotik koeffitsiyentlari ba’zan e’tiborga olinmaydi."
+  },
+  "ch25-f69": {
+   "text": "Yana **Jadval 25-2** ga qaytib, plazma, interstitsial suyuqlik va hujayra içi suyuqligidagi turli osmotik faol moddalarning taxminiy osmolyarligiga e’tibor bering. Interstitsial suyuqlik va plazma umumiy osmolyarligining taxminan 80% i natriy va xlor ionlariga töğri keladi, hujayra içi suyuqligida esa osmolyarlikning deyarli yarmi kaliy ionlariga töğri keladi, qolgan qismi esa boşqa köplab hujayra içi moddalari örtasida taqsimlanadi.",
+   "lead": "Tana suyuqliklarining osmolyarligi."
+  },
+  "ch25-f70": {
+   "text": "**Jadval 25-2** da körsatilganidek, uçala bölinmaning har birining umumiy osmolyarligi taxminan 300 mOsm/L ni taşkil qiladi, bunda plazmaniki interstitsial va hujayra içi suyuqliklarinikidan taxminan 1 mOsm/L ga yuqori. Plazma va interstitsial suyuqlik örtasidagi bu kiçik farq plazma oqsillarining osmotik ta’siri bilan boğliq bölib, 16-bobda muhokama qilinganidek, ular kapillyarlarda atrofdagi interstitsial böşliqlarga qaraganda taxminan 20 mm Hg yuqoriroq bosimni saqlab turadi."
+  },
+  "ch25-f71": {
+   "text": "**Jadval 25-2** ning pastki qismida plazma, interstitsial suyuqlik va hujayra içi suyuqligining _tuzatilgan osmolyar faolliklari_ körsatilgan. Bu tuzatişlarning sababi şundaki, kationlar va anionlar özaro ionlararo tortişiş kuçini namoyon qiladi, bu esa erigan moddalarning osmotik faolligini biroz pasaytirişi mumkin.",
+   "lead": "Tana suyuqliklarining tuzatilgan osmolyar faolligi."
+  },
+  "ch25-f72": {
+   "text": "Hujayra içi va hujayradan taşqari suyuqliklar örtasidagi osmotik muvozanat"
+  },
+  "ch25-f73": {
+   "text": "Hujayradan taşqari suyuqlikdagi erigan moddalar konsentratsiyasining nisbatan kiçik özgarişlarida ham hujayra membranasi orqali yuqori osmotik bosimlar yuzaga kelişi mumkin. Yuqorida muhokama qilinganidek, _ötkazilmaydigan erigan moddaning_ (hujayra membranasidan ötmaydigan moddaning) har bir milliosmol konsentratsiya gradiyenti hujayra membranasi orqali taxminan 19,3 mm Hg osmotik bosim hosil qiladi. Agar hujayra membranasi toza suv ta’siriga duç kelsa va hujayra içi suyuqligining osmolyarligi 282 mOsm/L bölsa, hujayra membranasi orqali yuzaga kelişi mumkin bölgan potensial osmotik bosim 5400 mm Hg dan oşadi. Bu hujayra içi va hujayradan taşqari suyuqliklar osmotik muvozanatda bölmaganda suvni hujayra membranasi orqali harakatlantira oladigan kuçning naqadar katta ekanligini körsatadi. Bu kuçlar natijasida hujayradan taşqari suyuqlikdagi ötkazilmaydigan erigan moddalar konsentratsiyasining nisbatan kiçik özgarişlari hujayra hajmining katta özgarişlariga olib kelişi mumkin."
+  },
+  "ch25-f74": {
+   "text": "Hujayradan taşqari suyuqlikdagi ötkazilmaydigan erigan moddalarning turli konsentratsiyalarining hujayra hajmiga ta’siri **Rasm 25-5** da körsatilgan. Agar hujayra osmolyarligi 282 mOsm/L bölgan ötkazilmaydigan erigan moddalar eritmasiga joylaştirilsa, hujayralar burişmaydi ham, şişmaydi ham, çunki hujayra içi va hujayradan taşqari suyuqliklardagi suv konsentratsiyasi teng böladi, erigan moddalar esa hujayraga kira olmaydi va undan çiqa olmaydi. Bunday eritma _izotonik_ deb ataladi, çunki u hujayralarni na buriştiradi, na şişiradi. Izotonik eritmalarga 0,9% li natriy xlorid eritmasi yoki 5% li glyukoza eritmasi misol böladi. Bu eritmalar klinik tibbiyotda muhim ahamiyatga ega, çunki ularni hujayra içi va hujayradan taşqari suyuqliklar örtasidagi osmotik muvozanatni buziş xavfisiz qonga quyiş mumkin.",
+   "lead": "Izotonik, gipotonik va gipertonik suyuqliklar."
+  },
+  "ch25-f76": {
+   "text": "Agar hujayra ötkazilmaydigan erigan moddalar konsentratsiyasi pastroq (<282 mOsm/L) bölgan _gipotonik_ eritmaga joylaştirilsa, suv hujayra içiga diffuziyalanib, uning şişişiga sabab böladi; suv har ikkala eritma taxminan bir xil osmolyarlikka ega bölgunça hujayra içiga diffuziyalanişda davom etib, hujayra içi suyuqligini suyultiradi va bir vaqtning özida hujayradan taşqari suyuqlikni konsentrlaydi. Konsentratsiyasi 0,9% dan past bölgan natriy xlorid eritmalari gipotonik bölib, hujayralarning şişişiga sabab böladi."
+  },
+  "ch25-f77": {
+   "text": "Agar hujayra ötkazilmaydigan erigan moddalar konsentratsiyasi yuqoriroq bölgan _gipertonik_ eritmaga joylaştirilsa, suv hujayradan hujayradan taşqari suyuqlikka oqib çiqadi, bunda hujayra içi suyuqligi konsentrlanadi, hujayradan taşqari suyuqlik esa suyuladi. Bu holatda hujayra ikki konsentratsiya tenglaşgunça burişadi. Konsentratsiyasi 0,9% dan yuqori bölgan natriy xlorid eritmalari gipertonik hisoblanadi."
+  },
+  "ch25-f78": {
+   "text": "_Izotonik, gipotonik_ va _gipertonik_ atamalari eritmalarning hujayra hajmini özgartiriş-özgartirmasligini bildiradi. Eritmalarning tonikligi ötkazilmaydigan erigan moddalar konsentratsiyasiga boğliq. Biroq ba’zi erigan moddalar hujayra membranasidan öta oladi. Osmolyarligi hujayranikiga teng bölgan eritmalar erigan modda hujayra membranasidan öta oliş-olmasligidan qat’i nazar _izoosmotik_ deb ataladi.",
+   "lead": "Izoosmotik, giperosmotik va gipoosmotik suyuqliklar."
+  },
+  "ch25-f79": {
+   "text": "_Giperosmotik_ va _gipoosmotik_ atamalari erigan moddaning hujayra membranasidan ötiş-ötmasligini hisobga olmagan holda, normal hujayradan taşqari suyuqlikka nisbatan mos ravişda yuqoriroq yoki pastroq osmolyarlikka ega bölgan eritmalarni bildiradi. Moçevina kabi yuqori ötkazuvçan moddalar hujayra içi va hujayradan taşqari suyuqliklar örtasida suyuqlik hajmining vaqtinçalik siljişlariga sabab bölişi mumkin, ammo yetarli vaqt ötgaç, bu moddalarning konsentratsiyalari oxir-oqibat ikkala bölinmada tenglaşadi va barqaror holatda hujayra içi hajmiga kam ta’sir körsatadi."
+  },
+  "ch25-f80": {
+   "text": "Suyuqlikning hujayra membranasi orqali ötişi şu qadar tez sodir böladiki, bu ikki bölinma örtasidagi osmolyarlikdagi har qanday farqlar odatda bir neça soniya yoki köpi bilan bir neça daqiqa içida bartaraf etiladi. Suvning hujayra membranasi orqali bunday tez harakatlanişi butun tanada hujayra içi va hujayradan taşqari bölinmalar örtasida xuddi şunday qisqa vaqt içida töliq muvozanat örnatiladi degani emas. Buning sababi şundaki, suyuqlik odatda tanaga içak orqali kiradi va töliq osmotik muvozanat örnatilişidan oldin qon orqali barça töqimalarga yetkazilişi kerak.",
+   "lead": "Hujayra içi va hujayradan taşqari suyuqliklar örtasida osmotik muvozanat tez örnatiladi."
+  },
+  "ch25-f81": {
+   "text": "Suv içilgandan keyin tananing hamma joyida osmotik muvozanatga erişiş uçun odatda taxminan 30 daqiqa kerak böladi."
+  },
+  "ch25-f82": {
+   "text": "Patologik holatlarda hujayradan taşqari va hujayra içi suyuqliklarining hajmi va osmolyalligi"
+  },
+  "ch25-f83": {
+   "text": "Hujayradan taşqari va hujayra içi hajmlarining sezilarli özgarişiga sabab bölişi mumkin bölgan turli omillarning ayrimlari — suvni ortiqça iste’mol qiliş yoki uning buyraklarda uşlanib qolişi, suvsizlaniş, turli xil eritmalarni vena içiga quyiş, me’da-içak yölidan köp miqdorda suyuqlik yöqotilişi hamda terlaş orqali yoki buyraklar orqali ğayritabiiy miqdorda suyuqlik yöqotilişidir."
+  },
+  "ch25-f84": {
+   "text": "Agar quyidagi asosiy tamoyillar yodda tutilsa, hujayra içi va hujayradan taşqari suyuqlik hajmlaridagi özgarişlarni va qöllanilişi kerak bölgan davolaş turlarini hisoblaş mumkin: 1. _Suv hujayra membranalari orqali tez harakatlanadi;_ şu sababli hujayra içi va hujayradan taşqari suyuqliklarning osmolyarliklari, bölinmalardan birida özgariş yuz berganidan keyingi bir neça daqiqani hisobga olmaganda, bir-biriga deyarli aynan teng bölib qoladi. 2. _Hujayra membranalari natriy va xlor kabi köplab erigan moddalar uçun deyarli butunlay ötkazmaydigan böladi;_ şu sababli hujayradan taşqari bölinmaga erigan moddalar qöşilmasa yoki undan yöqotilmasa, hujayradan taşqari yoki hujayra içi suyuqligidagi osmollar soni odatda nisbatan doimiy bölib qoladi. Uşbu asosiy tamoyillarni yodda tutgan holda, turli patologik suyuqlik holatlarining hujayradan taşqari va hujayra içi suyuqliklari hajmi va osmolyarligiga ta’sirini tahlil qilişimiz mumkin."
+  },
+  "ch25-f85": {
+   "text": "Hujayradan taşqari suyuqlikka tuz eritmasi qöşilişining ta’siri"
+  },
+  "ch25-f86": {
+   "text": "Agar hujayradan taşqari suyuqlik bölinmasiga _izotonik_ tuz eritmasi qöşilsa, hujayradan taşqari suyuqlikning osmolyarligi özgarmaydi. Asosiy ta’sir — hujayradan taşqari suyuqlik hajmining ortişidir (**Rasm 25-6A**). Natriy va xlor asosan hujayradan taşqari suyuqlikda qoladi, çunki hujayra membranasi özini natriy xlorid uçun deyarli ötkazmaydigandek tutadi."
+  },
+  "ch25-f88": {
+   "text": "Agar hujayradan taşqari suyuqlikka _gipertonik_ eritma qöşilsa, hujayradan taşqari osmolyarlik ortadi va suvning hujayralardan hujayradan taşqari bölinmaga osmos yöli bilan ötişiga sabab böladi (**Rasm 25-6B** ga qarang). Bu holatda ham qöşilgan natriy xloridning deyarli hammasi hujayradan taşqari bölinmada qoladi, suyuqlik esa osmotik muvozanatga erişiş uçun hujayralardan hujayradan taşqari böşliqqa diffuziyalanadi. Yakuniy natija — hujayradan taşqari hajmning ortişi (qöşilgan suyuqlik hajmidan köproq), hujayra içi hajmining kamayişi va ikkala bölinmada osmolyarlikning kötarilişidir."
+  },
+  "ch25-f89": {
+   "text": "Agar hujayradan taşqari suyuqlikka _gipotonik_ eritma qöşilsa, hujayradan taşqari suyuqlikning osmolyarligi pasayadi va hujayradan taşqari suvning bir qismi hujayra içi va hujayradan taşqari bölinmalar bir xil osmolyarlikka ega bölgunça hujayralarga diffuziyalanadi (**Rasm 25-6C** ga qarang). Gipotonik suyuqlik qöşilişi natijasida hujayra içi hajmi ham, hujayradan taşqari hajm ham ortadi, ammo hujayra içi hajmi köproq darajada ortadi."
+  },
+  "ch25-f90": {
+   "text": "Turli eritmalarni quyişning hujayradan taşqari va hujayra içi suyuqlik hajmlari hamda osmolyarliklariga ketma-ket ta’sirini hisoblaşimiz mumkin. Masalan, agar plazmaning dastlabki osmolyarligi 280 mOsm/L bölgan 70 kg vaznli bemorning hujayradan taşqari suyuqlik bölinmasiga 3,0% li gipertonik natriy xlorid eritmasidan 2 litr quyilsa, osmotik muvozanat örnatilgandan keyin hujayra içi va hujayradan taşqari suyuqlik hajmlari va osmolyarliklari qanday böladi?",
+   "lead": "Gipertonik tuz eritmasi quyilgandan keyin suyuqlik siljişlari va osmolyarliklarni hisoblaş."
+  },
+  "ch25-f91": {
+   "text": "Birinçi qadam — har bir bölinmadagi hajm, konsentratsiya va umumiy milliosmollar miqdorini öz içiga olgan dastlabki holatni hisoblaş. Hujayradan taşqari suyuqlik hajmi tana vaznining 20% ini, hujayra içi suyuqligi hajmi esa tana vaznining 40% ini taşkil qiladi deb faraz qilsak, quyidagi hajm va konsentratsiyalarni hisoblaş mumkin."
+  },
+  "ch25-f92": {
+   "text": "Keyin 3,0% li natriy xlorid eritmasining 2 litri bilan hujayradan taşqari suyuqlikka qöşilgan umumiy milliosmollarni hisoblaymiz. 3,0% li eritma 3,0 g/100 ml, ya’ni bir litrda 30 gramm natriy xlorid borligini bildiradi. Natriy xloridning molekulyar massasi taxminan 58,5 g/mol bölgani uçun bu bir litr eritmada taxminan 0,5128 mol natriy xlorid borligini anglatadi. 2 litr eritma uçun bu 1,0256 mol natriy xloridni taşkil qiladi. 1 mol natriy xlorid taxminan 2 osmolga teng bölgani uçun (natriy xloridning har bir molida ikkita osmotik faol zarraça bor), bu eritmadan 2 litr qöşilişining yakuniy natijasi hujayradan taşqari suyuqlikka 2051 milliosmol natriy xlorid qöşilişidir."
+  },
+  "ch25-f93": {
+   "text": "2-qadamda hujayradan taşqari suyuqlikka 2 litr hajm bilan birga 2051 milliosmol natriy xlorid qöşilişining bir zumdagi ta’sirini hisoblaymiz. Bunda _hujayra içi suyuqligining_ konsentratsiyasi yoki hajmi özgarmaydi va osmotik muvozanat bölmaydi. Biroq _hujayradan taşqari suyuqlikda_ qöşimça 2051 milliosmol umumiy erigan modda paydo bölib, jami 5971 milliosmolni taşkil qiladi. Hujayradan taşqari bölinma endi 16 litr hajmga ega bölgani uçun konsentratsiyani 5971 milliosmolni 16 litrga böliş orqali hisoblaş mumkin, bu taxminan 373 mOsm/L konsentratsiyani beradi. Şunday qilib, eritma qöşilgandan söng darhol quyidagi qiymatlar kuzatiladi."
+  },
+  "ch25-f94": {
+   "text": "Uçinçi qadamda osmotik muvozanat örnatilgandan keyin bir neça daqiqa içida kuzatiladigan hajm va konsentratsiyalarni hisoblaymiz. Bu holatda hujayra içi va hujayradan taşqari suyuqlik bölinmalaridagi konsentratsiyalar teng böladi va ularni tanadagi umumiy milliosmollar miqdorini (13 811) endi 44 litrni taşkil qiluvçi umumiy hajmga böliş orqali hisoblaş mumkin. Bu hisoblaş 313,9 mOsm/L konsentratsiyani beradi. Şu sababli osmotik muvozanatdan keyin tana suyuqligining barça bölinmalari xuddi şu konsentratsiyaga ega böladi. Tanadan heç qanday erigan modda yoki suv yöqotilmagan va natriy xlorid hujayralarga kirmaydi hamda ulardan çiqmaydi deb faraz qilib, söngra hujayra içi va hujayradan taşqari bölinmalarning hajmlarini hisoblaymiz. Hujayra içi suyuqligi hajmi hujayra içi suyuqligidagi umumiy milliosmollarni (7840) konsentratsiyaga (313,9 mOsm/L) böliş orqali hisoblanadi va 24,98 litr hajmni beradi. Hujayradan taşqari suyuqlik hajmi hujayradan taşqari suyuqlikdagi umumiy milliosmollarni (5971) konsentratsiyaga (313,9 mOsm/L) böliş orqali hisoblanadi va 19,02 litr hajmni beradi. Yana takrorlaymiz, bu hisoblaşlar hujayradan taşqari suyuqlikka qöşilgan natriy xlorid öşa yerda qoladi va hujayralarga ötmaydi degan farazga asoslangan."
+  },
+  "ch25-f95": {
+   "text": "Şunday qilib, uşbu misoldan körinib turibdiki, 2 litr gipertonik natriy xlorid eritmasining qöşilişi hujayradan taşqari suyuqlik hajmini 5 litrdan köproqqa oşiradi, hujayra içi suyuqligi hajmini esa deyarli 3 litrga _kamaytiradi_."
+  },
+  "ch25-f96": {
+   "text": "Hujayra içi va hujayradan taşqari suyuqlik hajmlari va osmolyarliklaridagi özgarişlarni hisoblaşning bu usulini suyuqlik hajmini boşqarişga oid deyarli har qanday klinik muammoga qöllaş mumkin. Öquvçi bunday hisoblaşlarni yaxşi bilişi kerak, çunki hujayra içi va hujayradan taşqari suyuqlik bölinmalari örtasidagi osmotik muvozanatning matematik jihatlarini tuşuniş tanadagi deyarli barça suyuqlik buzilişlarini va ularni davolaşni tuşuniş uçun zarurdir."
+  },
+  "ch25-f97": {
+   "text": "Oziqlantiriş maqsadida yuboriladigan glyukoza va boşqa eritmalar"
+  },
+  "ch25-f98": {
+   "text": "Boşqa yöl bilan yetarli miqdorda ozuqa qabul qila olmaydigan odamlarni oziqlantiriş uçun vena içiga bir neça turdagi eritmalar yuboriladi. Glyukoza eritmalari keng qöllaniladi; aminokislota va gomogenlaştirilgan yoğ eritmalari kamroq darajada qöllaniladi. Bu eritmalar yuborilganda ulardagi osmotik faol moddalar konsentratsiyasi odatda izotonik holatga yaqinlaştiriladi yoki ular tana suyuqliklarining osmotik muvozanatini buzmaydigan darajada sekin yuboriladi."
+  },
+  "ch25-f99": {
+   "text": "Glyukoza yoki boşqa ozuqa moddalari metabolizmga uçragandan keyin köpinça, ayniqsa qöşimça suyuqlik iste’mol qilingan bölsa, ortiqça suv qoladi. Odatda buyraklar bu suyuqlikni suyultirilgan siydik şaklida çiqaradi. Şu sababli yakuniy natija tanaga faqat ozuqa moddalarining qöşilişidan iborat böladi."
+  },
+  "ch25-f100": {
+   "text": "Deyarli izoosmotik bölgan 5% li glyukoza eritmasi suvsizlanişni davolaşda tez-tez qöllaniladi. Eritma izoosmotik bölgani uçun uni toza suv quyilganda yuz beradigan eritrotsitlar şişişini keltirib çiqarmasdan vena içiga quyiş mumkin. Eritmadagi glyukoza tezda hujayralarga taşiladi va metabolizmga uçraydi. Şu sababli 5% li glyukoza eritmasini quyiş hujayradan taşqari suyuqlik osmolyarligini pasaytiradi va şu tariqa suvsizlaniş bilan boğliq hujayradan taşqari suyuqlik osmolyarligining ortişini bartaraf etişga yordam beradi."
+  },
+  "ch25-f101": {
+   "text": "Suyuqlik hajmi boşqarilişining klinik buzilişlari: giponatriyemiya va gipernatriyemiya"
+  },
+  "ch25-f102": {
+   "text": "Klinitsist uçun bemorning suyuqlik holatini baholaşda oson foydalaniş mumkin bölgan ölçov — plazmadagi natriy konsentratsiyasidir. Plazma osmolyarligi muntazam ölçanmaydi, ammo natriy va unga boğliq anionlar (asosan xlor) hujayradan taşqari suyuqlikdagi erigan moddalarning 90% dan ortiğini taşkil qilgani uçun köplab holatlarda plazmadagi natriy konsentratsiyasi plazma osmolyarligining maqbul körsatkiçi hisoblanadi. Plazmadagi natriy konsentratsiyasi normadan (taxminan 142 mEq/L) bir neça milliekvivalentdan köproq pasayganda, odamda _giponatriyemiya_ bor deyiladi. Plazmadagi natriy konsentratsiyasi normadan yuqori kötarilganda esa odamda _gipernatriyemiya_ bor deyiladi."
+  },
+  "ch25-f103": {
+   "text": "Giponatriyemiya sabablari: ortiqça suv yoki natriy yöqotilişi"
+  },
+  "ch25-f104": {
+   "text": "Plazmadagi natriy konsentratsiyasining pasayişi hujayradan taşqari suyuqlikdan natriy yöqotilişi yoki hujayradan taşqari suyuqlikka ortiqça suv qöşilişi natijasida yuzaga kelişi mumkin (**Jadval 25-4**). Natriyning birlamçi yöqotilişi odatda _giponatriyemiya va suvsizlanişga_ olib keladi hamda hujayradan taşqari suyuqlik hajmining kamayişi bilan keçadi. Natriy yöqotilişi natijasida giponatriyemiyaga sabab bölişi mumkin bölgan holatlarga _diareya_ va _qusiş_ kiradi. Buyraklarning natriyni tejaş qobiliyatini susaytiruvçi _diuretiklarni haddan taşqari köp qöllaş_ va natriy yöqotilişi bilan keçadigan ayrim buyrak kasalliklari ham örtaça darajadagi giponatriyemiyaga sabab bölişi mumkin. Aldosteron gormoni sekretsiyasining kamayişi natijasida yuzaga keladigan _Addison kasalligi_ buyraklarning natriyni qayta söriş qobiliyatini buzadi va örtaça darajadagi giponatriyemiyaga sabab bölişi mumkin."
+  },
+  "ch25-f106": {
+   "text": "Giponatriyemiya hujayradan taşqari suyuqlikdagi natriyni suyultiruvçi ortiqça suv uşlanib qolişi bilan ham boğliq bölişi mumkin; bu holat _giponatriyemiya-gipergidratatsiya_ deb ataladi. Masalan, buyrak kanalçalarida suvning qayta sörilişini oşiruvçi _antidiuretik gormonning_ (ADG) _haddan taşqari sekretsiyasi_ giponatriyemiya va gipergidratatsiyaga olib kelişi mumkin."
+  },
+  "ch25-f107": {
+   "text": "Giponatriyemiya hujayra şişini keltirib çiqaradi"
+  },
+  "ch25-f108": {
+   "text": "Giponatriyemiya natijasida hujayra hajmining tez özgarişi töqima va a’zolar, ayniqsa, boş miya faoliyatiga çuqur ta’sir körsatişi mumkin. Masalan, plazmadagi natriy konsentratsiyasining tez pasayişi miya hujayralari şişi va boş oğriği, köngil aynişi, letargiya va dezoriyentatsiyani öz içiga olgan nevrologik simptomlarni keltirib çiqarişi mumkin. Agar plazmadagi natriy konsentratsiyasi tezda 115–120 mmol/L dan pastga tuşsa, miya şişi tutqanoqlar, koma, doimiy miya şikastlanişi va ölimga olib kelişi mumkin. Boş suyagi qattiq bölgani uçun miya öz hajmini taxminan 10% dan ortiq oşira olmaydi, aks holda u böyin tomon pastga siqib çiqariladi (_gerniatsiya_), bu esa doimiy miya şikastlanişi va ölimga olib kelişi mumkin."
+  },
+  "ch25-f109": {
+   "text": "Giponatriyemiya sekinroq, bir neça kun davomida rivojlanganda, boş miya va boşqa töqimalar natriy, xlor, kaliy va glutamat kabi organik erigan moddalarni hujayralardan hujayradan taşqari bölinmaga taşiş orqali javob beradi. Bu javob suvning hujayralarga osmotik oqimini va töqimalarning şişişini susaytiradi (**Rasm 25-7**)."
+  },
+  "ch25-f111": {
+   "text": "Biroq sekin rivojlanayotgan giponatriyemiya paytida erigan moddalarning hujayralardan taşib çiqarilişi, agar giponatriyemiya juda tez tuzatilsa, boş miyani şikastlanişga zaif qilib qöyişi mumkin. Giponatriyemiyani tuzatiş uçun gipertonik eritmalar juda tez qöşilganda, bu muolaja boş miyaning hujayralardan yöqotilgan erigan moddalarni qayta tiklaş qobiliyatidan özib ketişi va neyronlarning _demiyelinizatsiya_ — nervlarning miyelin qobiğini yöqotişi bilan keçadigan osmotik şikastlanişiga olib kelişi mumkin. Neyronlarning osmos vositaçiligidagi bu demiyelinizatsiyasining oldini oliş uçun surunkali giponatriyemiyani tuzatiş 24 soatda 10–12 mmol/L dan, 48 soatda esa 18 mmol/L dan kamroq bilan çeklanadi. Tuzatişning bunday sekin sur’ati boş miyaga surunkali giponatriyemiyaga moslaşiş natijasida hujayralardan yöqotilgan osmollarni qayta tiklaş imkonini beradi."
+  },
+  "ch25-f112": {
+   "text": "Giponatriyemiya klinik amaliyotda uçraydigan eng keng tarqalgan elektrolit buzilişi bölib, kasalxonaga yotqizilgan bemorlarning 15–25% igaça bölgan qismida kuzatilişi mumkin."
+  },
+  "ch25-f113": {
+   "text": "Gipernatriyemiya sabablari: suv yöqotilişi yoki ortiqça natriy"
+  },
+  "ch25-f114": {
+   "text": "Plazmadagi natriy konsentratsiyasining ortişi, bu osmolyarlikning ortişiga ham sabab böladi, hujayradan taşqari suyuqlikdan suv yöqotilişi (bu natriy ionlarini konsentrlaydi) yoki hujayradan taşqari suyuqlikda natriyning ortiqça bölişi natijasida yuzaga kelişi mumkin. Hujayradan taşqari suyuqlikdan suvning birlamçi yöqotilişi _gipernatriyemiya va suvsizlanişga_ olib keladi. Bu holat buyraklarning suvni tejaşi uçun zarur bölgan ADG ni sekretsiya qila olmaslik natijasida yuzaga kelişi mumkin. ADG yetişmasligi natijasida buyraklar köp miqdorda suyultirilgan siydik çiqaradi (bu buziliş _markaziy qandsiz diabet_ deb ataladi), bu esa suvsizlanişga va hujayradan taşqari suyuqlikda natriy xlorid konsentratsiyasining ortişiga sabab böladi. Buyrak kasalliklarining ayrim turlarida buyraklar ADG ga javob bera olmaydi, natijada _nefrogen qandsiz diabetning_ bir turi yuzaga keladi. Hujayradan taşqari suyuqlik hajmining kamayişi bilan keçadigan gipernatriyemiyaning keng tarqalgan sababi — suv qabuli suv yöqotilişidan kam bölişi natijasida yuzaga keladigan oddiy _suvsizlaniş_ bölib, bu, masalan, uzoq davom etadigan oğir jismoniy maşq paytida terlaş bilan kuzatilişi mumkin."
+  },
+  "ch25-f115": {
+   "text": "Gipernatriyemiya hujayradan taşqari suyuqlikka haddan taşqari köp natriy xlorid qöşilganda ham yuzaga kelişi mumkin. Bu köpinça _gipernatriyemiya-gipergidratatsiyaga_ olib keladi, çunki hujayradan taşqari suyuqlikdagi ortiqça natriy xlorid odatda buyraklar tomonidan suvning heç bölmaganda ma’lum darajada uşlab qolinişi bilan ham keçadi. Masalan, natriyni uşlab qoluvçi gormon — _aldosteronning_ haddan taşqari sekretsiyasi yengil darajadagi gipernatriyemiya va gipergidratatsiyaga sabab bölişi mumkin. Gipernatriyemiyaning oğirroq bölmasligining sababi şundaki, natriyning uşlanib qolişi ADG sekretsiyasini ham rağbatlantiradi va buyraklarning köproq suvni qayta sörişiga sabab böladi."
+  },
+  "ch25-f116": {
+   "text": "Şunday qilib, plazmadagi natriy konsentratsiyasi buzilişlarini tahlil qiliş va töğri davolaşni tanlaşda avvalo buziliş natriyning birlamçi yöqotilişi yoki ortişi tufaylimi, yoki suvning birlamçi yöqotilişi yoki ortişi tufaylimi — şuni aniqlaş kerak."
+  },
+  "ch25-f117": {
+   "text": "Gipernatriyemiya hujayralarning burişişiga sabab böladi"
+  },
+  "ch25-f118": {
+   "text": "Gipernatriyemiya giponatriyemiyaga qaraganda ança kam uçraydi va oğir simptomlar odatda plazmadagi natriy konsentratsiyasi tez va katta darajada 158–160 mmol/L dan yuqoriga kötarilgandagina yuzaga keladi. Gipernatriyemiya odatda kuçli çanqoqni yuzaga keltiradi va ADG sekretsiyasini rağbatlantiradi; 29-bobda muhokama qilinganidek, bularning ikkalasi ham plazma va hujayradan taşqari suyuqlikdagi natriyning katta ortişidan himoya qiladi. Biroq oğir gipernatriyemiya çanqoq hissini buzadigan gipotalamus şikastlanişlari bölgan bemorlarda, suvdan erkin foydalana olmaydigan gödaklarda, ruhiy holati özgargan keksa bemorlarda yoki qandsiz diabeti bölgan odamlarda yuzaga kelişi mumkin."
+  },
+  "ch25-f119": {
+   "text": "Gipernatriyemiyani gipoosmotik natriy xlorid yoki dekstroza eritmasini yuboriş orqali tuzatiş mumkin. Biroq plazmadagi natriy konsentratsiyasi surunkali ravişda oşgan bemorlarda gipernatriyemiyani sekin tuzatiş oqilona, çunki gipernatriyemiya hujayrani hajm özgarişlaridan himoya qiluvçi himoya mexanizmlarini ham faollaştiradi. Bu himoya mexanizmlari giponatriyemiyada yuzaga keladiganlarga teskari bölib, natriy va boşqa erigan moddalarning hujayra içidagi konsentratsiyasini oşiruvçi mexanizmlardan iborat."
+  },
+  "ch25-f120": {
+   "text": "Şiş: töqimalardagi ortiqça suyuqlik"
+  },
+  "ch25-f121": {
+   "text": "Şiş (edema) deganda tana töqimalarida ortiqça suyuqlik bölişi tuşuniladi. Köp hollarda şiş asosan hujayradan taşqari suyuqlik bölinmasida yuzaga keladi, ammo u hujayra içida suyuqlik töplanişini ham öz içiga olişi mumkin."
+  },
+  "ch25-f122": {
+   "text": "Hujayra içi şişi"
+  },
+  "ch25-f123": {
+   "text": "Uçta holat ayniqsa hujayra içi şişini keltirib çiqarişga moyil: (1) yuqorida muhokama qilingan giponatriyemiya; (2) töqimalar metabolik tizimlarining susayişi; (3) hujayralarning yetarli darajada oziqlanmasligi. Masalan, töqimaga qon oqimi kamayganda kislorod va ozuqa moddalarining yetkazib berilişi kamayadi. Agar qon oqimi töqimaning normal metabolizmini saqlab turiş uçun juda past bölib qolsa, hujayra membranasining ion nasoslari susayadi va odatda hujayra içiga sizib kiradigan natriy ionlari endi hujayralardan taşqariga haydab çiqarilmaydi. Söngra hujayra içidagi ortiqça natriy ionlari suvning hujayralarga osmos yöli bilan kirişiga sabab böladi. Ba’zan bu jarayon töqima sohasining — masalan, hatto butun işemiyaga uçragan oyoqning — hujayra içi hajmini normadan ikki-uç baravar oşirişi mumkin. Hujayra içi hajmining bunday ortişi odatda töqima nobud bölişining darakçisi hisoblanadi."
+  },
+  "ch25-f124": {
+   "text": "Hujayra içi şişi yalliğlangan töqimalarda ham yuzaga kelişi mumkin. Yalliğlaniş odatda hujayra membranasining ötkazuvçanligini oşiradi, bu esa natriy va boşqa ionlarning hujayra içiga diffuziyalanişiga, söngra suvning hujayralarga osmos yöli bilan kirişiga imkon beradi."
+  },
+  "ch25-f125": {
+   "text": "Hujayradan taşqari şiş"
+  },
+  "ch25-f126": {
+   "text": "Hujayradan taşqari şiş hujayradan taşqari böşliqlarda ortiqça suyuqlik töplanganda yuzaga keladi. Hujayradan taşqari şişning ikkita umumiy sababi bor: (1) suyuqlikning plazmadan kapillyarlar orqali interstitsial böşliqlarga ğayritabiiy sizib çiqişi; (2) limfa tomirlarining suyuqlikni interstitsiydan qonga qaytara olmasligi, bu köpinça _limfedema_ (limfatik şiş) deb ataladi. Interstitsial suyuqlik töplanişining eng köp uçraydigan klinik sababi kapillyarlarda suyuqlikning haddan taşqari filtratsiyalanişidir."
+  },
+  "ch25-f127": {
+   "text": "Kapillyar filtratsiyani oşirişi mumkin bölgan omillar"
+  },
+  "ch25-f128": {
+   "text": "Kapillyarlarda haddan taşqari filtratsiyaning sabablarini tuşuniş uçun 16-bobda muhokama qilingan kapillyar filtratsiyani belgilovçi omillarni qayta körib çiqiş foydalidir. Matematik jihatdan kapillyar filtratsiya tezligini quyidagiça ifodalaş mumkin:"
+  },
+  "ch25-f129": {
+   "text": "bu yerda Kf — kapillyar filtratsiya koeffitsiyenti (kapillyarlar ötkazuvçanligi va sirt maydonining köpaytmasi), Pc — kapillyar gidrostatik bosimi, Pif — interstitsial suyuqlik gidrostatik bosimi, πc — kapillyar plazmasining kolloid osmotik bosimi, πif esa interstitsial suyuqlikning kolloid osmotik bosimi. Bu tenglamadan _quyidagi özgarişlardan istalgan biri kapillyar filtratsiya tezligini oşirişi mumkinligini_ köriş mumkin: • Kapillyar filtratsiya koeffitsiyentining ortişi • Kapillyar gidrostatik bosimining ortişi • Plazma kolloid osmotik bosimining pasayişi"
+  },
+  "ch25-f130": {
+   "text": "Limfedema — limfa tomirlarining suyuqlik va oqsilni qonga qaytara olmasligi"
+  },
+  "ch25-f131": {
+   "text": "Limfa tomirlarining tiqilişi yoki yöqolişi natijasida limfa tizimining faoliyati keskin buzilganda şiş ayniqsa oğir bölişi mumkin, çunki interstitsiyga sizib çiqqan plazma oqsillarini boşqa heç qanday yöl bilan çiqarib bölmaydi. Oqsil konsentratsiyasining ortişi interstitsial suyuqlikning kolloid osmotik bosimini oşiradi, bu esa kapillyarlardan yanada köproq suyuqlikni tortib çiqaradi."
+  },
+  "ch25-f132": {
+   "text": "Limfa oqimining tiqilişi limfa tugunlarining infeksiyalarida, masalan, mikroskopik ipsimon çuvalçanglar bölgan _filyariya nematodalari (Wuchereria bancrofti)_ bilan zararlanişda ayniqsa oğir bölişi mumkin. Voyaga yetgan çuvalçanglar odamning limfa tizimida yaşaydi va odamdan odamga çivinlar orqali tarqaladi. Filyariya infeksiyasi bölgan odamlarda oğir limfedema va _elefantiaz_ (fil kasalligi) kuzatilişi, erkaklarda esa _gidrotsele_ deb ataladigan yorğoq şişi yuzaga kelişi mumkin. Limfatik filyariatoz Osiyo, Afrika, Ğarbiy Tinç okeani hamda Karib havzasi va Janubiy Amerikaning ayrim qismlaridagi tropik va subtropik mintaqalarda 80 ta mamlakatda 120 milliondan ortiq odamni zararlagan."
+  },
+  "ch25-f133": {
+   "text": "Limfedema saratonning ayrim turlari bölgan odamlarda yoki limfa tomirlari olib taşlanadigan yoki tösiladigan jarrohlik amaliyotlaridan keyin ham yuzaga kelişi mumkin. Masalan, radikal mastektomiya paytida köp sonli limfa tomirlari olib taşlanadi, bu esa kökrak bezi va qöl sohalaridan oqsil va suyuqlikning çiqarilişini buzadi hamda töqima böşliqlarining şişi va börtişiga sabab böladi. Bunday jarrohlik amaliyotidan keyin oxir-oqibat bir neçta limfa tomirlari qayta ösib çiqadi; şu sababli interstitsial şiş odatda vaqtinçalik böladi."
+  },
+  "ch25-f134": {
+   "text": "Hujayradan taşqari şiş sabablarining xulosasi"
+  },
+  "ch25-f135": {
+   "text": "Köplab holatlar suyuqlikning kapillyarlardan ğayritabiiy sizib çiqişi yoki limfa tomirlarining suyuqlikni interstitsiydan qon aylanişiga qaytarişiga tösqinlik qilişi orqali interstitsial böşliqlarda suyuqlik töplanişiga sabab bölişi mumkin. Quyida uşbu ikki turdagi buzilişlar orqali hujayradan taşqari şişga sabab bölişi mumkin bölgan holatlarning qisman röyxati keltirilgan: I. Kapillyar bosimining ortişi A. Buyraklarda tuz va suvning haddan taşqari uşlanib qolişi 1. Ötkir yoki surunkali buyrak yetişmovçiligi 2. Mineralokortikoidlar ortiqçaligi"
+  },
+  "ch25-f136": {
+   "text": "B. Yuqori venoz bosim va venalarning torayişi 1. Yurak yetişmovçiligi 2. Venalarning tiqilişi 3. Venoz nasoslarning işdan çiqişi a) Muskullar falaji b) Tana qismlarining harakatsizlantirilişi c) Vena klapanlarining yetişmovçiligi C. Arteriolalar qarşiligining pasayişi 1. Tananing haddan taşqari qizib ketişi 2. Simpatik nerv tizimining yetişmovçiligi 3. Tomir kengaytiruvçi dorilar II. Plazma oqsillarining kamayişi A. Oqsillarning siydik bilan yöqotilişi (nefrotik sindrom) B. Oqsilning terisi şilingan sohalardan yöqotilişi 1. Kuyişlar 2. Jarohatlar C. Oqsillar işlab çiqarilişining buzilişi 1. Jigar kasalligi (masalan, sirroz) 2. Oğir oqsil yoki kaloriya yetişmovçiligi III. Kapillyar ötkazuvçanligining ortişi A. Gistamin va boşqa immun mahsulotlarning ajralişiga sabab böladigan immun reaksiyalar B. Toksinlar C. Bakterial infeksiyalar D. Vitaminlar, ayniqsa C vitamini yetişmovçiligi E. Uzoq davom etgan işemiya F. Kuyişlar IV. Limfa qaytişining tösilişi A. Saraton B. Infeksiyalar (masalan, filyariya nematodalari) C. Jarrohlik amaliyoti D. Limfa tomirlarining tuğma yöqligi yoki anomaliyasi"
+  },
+  "ch25-f137": {
+   "text": "Şişning eng jiddiy va keng tarqalgan sabablaridan biri 22-bobda muhokama qilingan yurak yetişmovçiligidir. Yurak yetişmovçiligida yurak qonni venalardan arteriyalarga normal haydab bera olmaydi, bu esa venoz va kapillyar bosimlarni oşirib, kapillyar filtratsiyaning ortişiga sabab böladi. Bundan taşqari, arterial bosim pasayişga moyil böladi, bu esa buyraklar tomonidan tuz va suv çiqarilişini kamaytirib, şişni yanada kuçaytiradi. Şuningdek, yurak yetişmovçiligi bölgan odamlarda buyraklarga qon oqimi kamayadi va bu kamaygan qon oqimi renin sekretsiyasini rağbatlantirib, angiotenzin II va aldosteron hosil bölişini oşiradi; bularning ikkalasi ham buyraklarda qöşimça tuz va suv uşlanib qolişiga sabab böladi. Yurak yetişmovçiligining keçki bosqiçida ADG sekretsiyasining ortişi buyrak kanalçalarida suvning qayta sörilişini rağbatlantiradi, bu esa giponatriyemiyaga hamda hujayra içi va hujayradan taşqari şişga olib keladi. Şunday qilib, davolanmagan yurak yetişmovçiligi bölgan odamlarda bu omillarning barçasi birgalikda ta’sir qilib, jiddiy umumiy (generalizatsiyalangan) şişga sabab bölişi mumkin.",
+   "lead": "Yurak yetişmovçiligi sababli şiş."
+  },
+  "ch25-f138": {
+   "text": "Çap qorinça yetişmovçiligi bölgan, ammo yurakning öng tomonida sezilarli yetişmovçilik bölmagan bemorlarda qon yurakning öng tomoni tomonidan öpkaga normal haydaladi, biroq öpka venalaridan yurakning çap tomoniga oson öta olmaydi, çunki yurakning bu qismi keskin zaiflaşgan. Natijada öpka tomirlaridagi barça bosimlar, jumladan öpka kapillyar bosimi ham normadan ança yuqori kötariladi va jiddiy, hayot uçun xavfli öpka şişiga sabab böladi. Davolanmasa, öpkada suyuqlik töplanişi tez avj olib, bir neça soat içida ölimga olib kelişi mumkin."
+  },
+  "ch25-f139": {
+   "text": "Qonga qöşilgan natriy xloridning köp qismi hujayradan taşqari bölinmada qoladi va faqat oz miqdori hujayralarga kiradi. Şu sababli tuz va suvning siydik bilan çiqarilişini buzadigan buyrak kasalliklarida hujayradan taşqari suyuqlikka köp miqdorda natriy xlorid va suv qöşiladi. Bu tuz va suvning köp qismi qondan interstitsial böşliqlarga sizib çiqadi, ammo bir qismi qonda qoladi. Buning asosiy oqibatlari quyidagilardan iborat: (1) interstitsial suyuqlik hajmining keng tarqalgan ortişi (hujayradan taşqari şiş); (2) 19-bobda tuşuntirilganidek, qon hajmining ortişi sababli gipertenziya. Misol tariqasida, buyrak koptokçalari yalliğlaniş tufayli şikastlanib, yetarli miqdorda suyuqlikni filtrlay olmaydigan ötkir glomerulonefrit bilan oğrigan bolalarda ham jiddiy hujayradan taşqari suyuqlik şişi rivojlanadi; şiş bilan birga odatda oğir gipertenziya ham rivojlanadi.",
+   "lead": "Buyraklar tomonidan tuz va suv çiqarilişining kamayişi sababli şiş."
+  },
+  "ch25-f140": {
+   "text": "Oqsillarning normal miqdorda işlab çiqarilmasligi yoki oqsillarning plazmadan sizib çiqişi plazma kolloid osmotik bosimining pasayişiga sabab böladi. Bu butun tana böylab kapillyar filtratsiyaning ortişiga va hujayradan taşqari şişga olib keladi.",
+   "lead": "Plazma oqsillarining kamayişi sababli şiş."
+  },
+  "ch25-f141": {
+   "text": "Plazmadagi oqsil konsentratsiyasi pasayişining eng muhim sabablaridan biri ayrim buyrak kasalliklarida oqsillarning siydik bilan yöqotilişi bölib, bu holat _nefrotik sindrom_ deb ataladi. Buyrak kasalliklarining köplab turlari buyrak koptokçalari membranalarini şikastlab, ularni plazma oqsillari uçun ötkazuvçan qilib qöyişi va köpinça bu oqsillarning köp miqdorda siydikka ötişiga imkon berişi mumkin. Bu yöqotiş tananing oqsil sintez qiliş qobiliyatidan oşib ketganda plazmadagi oqsil konsentratsiyasi kamayadi. Plazmadagi oqsil konsentratsiyasi 2,5 g/100 ml dan pastga tuşganda jiddiy umumiy şiş yuzaga keladi. _Jigar sirrozi_ plazmadagi oqsil konsentratsiyasini kamaytiradigan yana bir holatdir. Sirroz jigar parenxima hujayralari orasida köp miqdorda fibroz töqima rivojlanişini anglatadi. Buning oqibatlaridan biri şu hujayralarning yetarli miqdorda plazma oqsillarini işlab çiqara olmasligi bölib, bu plazma kolloid osmotik bosimining pasayişiga va bu holatga hamroh böladigan umumiy şişga olib keladi."
+  },
+  "ch25-f142": {
+   "text": "Sirrozning şişga sabab bölişining yana bir yöli şundaki, jigar fibrozi ba’zan qorin böşliğidan qonni olib ketuvçi darvoza venasi tomirlarini ular umumiy qon aylanişiga qaytib quyilişidan oldin jigar orqali ötayotgan joyida siqib qöyadi. Darvoza venasi orqali qon çiqib ketişining bunday tösilişi butun me’da-içak sohasida kapillyar gidrostatik bosimini oşiradi va suyuqlikning plazmadan qorin böşliği içidagi sohalarga filtratsiyasini yanada kuçaytiradi. Bu holatda plazmadagi oqsil konsentratsiyasining pasayişi va darvoza tizimi kapillyarlarida yuqori bosimning birgalikdagi ta’siri köp miqdorda suyuqlik va oqsilning qorin böşliğiga transudatsiyasiga sabab böladi; bu holat _assit_ deb ataladi."
+  },
+  "ch25-f143": {
+   "text": "Normada şişning oldini oladigan himoya omillari"
+  },
+  "ch25-f144": {
+   "text": "Köplab buzilişlar şişga sabab bölişi mumkin bölsa-da, jiddiy şiş rivojlanişi uçun buziliş odatda oğir bölişi kerak. Buzilişning oğir bölişi kerakligining sababi şundaki, uçta asosiy himoya omili interstitsial böşliqlarda haddan taşqari suyuqlik töplanişining oldini oladi: (1) interstitsial suyuqlik bosimi manfiy bosim diapazonida bölganda interstitsiyning past çöziluvçanligi (komplayensi); (2) limfa oqimining 10–50 baravar ortiş qobiliyati; (3) kapillyar filtratsiya ortgan sari interstitsial suyuqlik oqsil konsentratsiyasining yuvilib ketişi (bu interstitsial suyuqlikning kolloid osmotik bosimini pasaytiradi)."
+  },
+  "ch25-f145": {
+   "text": "Manfiy bosim diapazonida interstitsiyning past çöziluvçanligi tufayli himoya omili"
+  },
+  "ch25-f146": {
+   "text": "16-bobda tananing ğovak teri osti töqimalarida interstitsial suyuqlik gidrostatik bosimi atmosfera bosimidan biroz past bölib, örtaça taxminan −3 mm Hg ni taşkil qilişini qayd etgan edik. Töqimalardagi bu kiçik söriş kuçi töqimalarni bir-biriga yopiştirib turişga yordam beradi. **Rasm 25-8** da hayvonlarda ötkazilgan tadqiqotlar natijalari odamga ekstrapolyatsiya qilingan holda interstitsial suyuqlik bosimining turli darajalari va interstitsial suyuqlik hajmi örtasidagi taxminiy boğliqlik körsatilgan. **Rasm 25-8** da e’tibor beringki, interstitsial suyuqlik bosimi manfiy diapazonda bölar ekan, interstitsial suyuqlik hajmining kiçik özgarişlari interstitsial suyuqlik gidrostatik bosimining nisbatan katta özgarişlari bilan keçadi. Şu sababli manfiy bosim diapazonida töqimalarning bosimning har bir millimetr simob ustuniga özgarişiga töğri keladigan hajm özgarişi sifatida ta’riflanadigan _çöziluvçanligi_ (komplayensi) past böladi."
+  },
+  "ch25-f148": {
+   "text": "Manfiy bosim diapazonida töqimalarning past çöziluvçanligi şişga qarşi himoya omili sifatida qanday ta’sir qiladi? Bu savolga javob beriş uçun yuqorida muhokama qilingan kapillyar filtratsiyani belgilovçi omillarni eslang. Interstitsial suyuqlik gidrostatik bosimi ortganda, bu ortgan bosim kapillyar filtratsiyaning yanada kuçayişiga qarşilik qilişga moyil böladi. Şu sababli interstitsial suyuqlik gidrostatik bosimi manfiy bosim diapazonida bölar ekan, interstitsial suyuqlik hajmining kiçik ortişlari interstitsial suyuqlik gidrostatik bosimining nisbatan katta ortişiga sabab bölib, suyuqlikning töqimalarga yanada filtratsiyalanişiga qarşilik qiladi."
+  },
+  "ch25-f149": {
+   "text": "Interstitsial suyuqlikning normal gidrostatik bosimi −3 mm Hg bölgani uçun töqimalarda köp miqdorda suyuqlik töplana boşlaşidan oldin interstitsial suyuqlik gidrostatik bosimi taxminan 3 mm Hg ga ortişi kerak. Şu sababli şişga qarşi himoya omili interstitsial suyuqlik bosimining taxminan 3 mm Hg ga özgarişiga teng. Musbat töqima bosimi diapazonida töqimalar çöziluvçanligining keskin ortişi tufayli şişga qarşi bu himoya omili yöqoladi."
+  },
+  "ch25-f150": {
+   "text": "**Rasm 25-8** da e’tibor beringki, interstitsial suyuqlik bosimi manfiy bölgan normal töqimalarda interstitsiydagi deyarli barça suyuqlik gel şaklida böladi. Ya’ni suyuqlik proteoglikan töriga boğlangan bölib, diametri mikrometrning bir neça yuzdan bir qismidan katta bölgan erkin suyuqlik böşliqlari deyarli bölmaydi. Gelning ahamiyati şundaki, u trillionlab proteoglikan iplaridan iborat “çötka uyumi” tösqinligi tufayli suyuqlikning töqimalar orqali _oson oqib ötişiga_ yöl qöymaydi. Şuningdek, interstitsial suyuqlik bosimi juda manfiy qiymatlarga tuşganda gel unçalik qisqarmaydi, çunki proteoglikan iplari töri siqilişga elastik qarşilik körsatadi. Manfiy suyuqlik bosimi diapazonida söriş darajasi atigi bir neça mm Hg manfiy bosim böladimi yoki 10–20 mm Hg manfiy bosim böladimi, bundan qat’i nazar interstitsial suyuqlik hajmi unçalik özgarmaydi. Boşqaça aytganda, manfiy bosim diapazonida töqimalarning çöziluvçanligi juda past böladi.",
+   "lead": "Interstitsiyda suyuqlik töplanişining oldini olişda interstitsial gelning ahamiyati."
+  },
+  "ch25-f151": {
+   "text": "Aksinça, interstitsial suyuqlik bosimi musbat bosim diapazoniga kötarilganda töqimalarda juda köp miqdorda _erkin suyuqlik_ töplanadi. Bu bosim diapazonida töqimalar çöziluvçan bölib, interstitsial suyuqlik gidrostatik bosimining nisbatan kiçik qöşimça ortişi bilan köp miqdorda suyuqlik töplanişiga imkon beradi. Töplangan ortiqça suyuqlikning köp qismi erkin suyuqlik böladi, çunki u proteoglikan iplarining “çötka uyumi”ni bir-biridan surib qöyadi. Şu sababli suyuqlik gel şaklida bölmagani uçun töqima böşliqlari orqali erkin oqib öta oladi. Suyuqlikning bunday erkin oqimi yuzaga kelganda şiş _çuqurça qoldiruvçi şiş_ (pitting edema) deyiladi, çunki töqima sohasiga boş barmoq bilan bosib, suyuqlikni şu sohadan siqib çiqariş mumkin. Barmoq olinganda suyuqlik atrofdagi töqimalardan qaytib oqib kelgunça terida bir neça soniya çuqurça qoladi. Şişning bu turi _çuqurça qoldirmaydigan şişdan_ farqlanadi; ikkinçisi interstitsiy örniga töqima hujayralari şişganda yoki interstitsiydagi suyuqlik fibrinogen bilan ivib, töqima böşliqlarida erkin harakatlana olmay qolganda yuzaga keladi."
+  },
+  "ch25-f152": {
+   "text": "Proteoglikan iplari interstitsial böşliqlardagi ança yirik kollagen fibrillalari bilan birga hujayralar orasidagi oraliqni saqlab turuvçi vazifasini bajaradi. Ozuqa moddalari va ionlar hujayra membranalari orqali oson diffuziyalanmaydi; şu sababli hujayralar orasida yetarli oraliq bölmasa, bu ozuqa moddalari, elektrolitlar va hujayra çiqindi mahsulotlari qon kapillyarlari va bir-biridan uzoqda joylaşgan hujayralar örtasida tez almaşina olmaydi.",
+   "lead": "Proteoglikan iplarining hujayralar orasidagi oraliqni saqlovçi sifatidagi va töqimalarda suyuqlikning tez oqişining oldini olişdagi ahamiyati."
+  },
+  "ch25-f153": {
+   "text": "Proteoglikan iplari şuningdek suyuqlikning töqima böşliqlari orqali haddan taşqari oson oqişiga yöl qöymaydi. Agar proteoglikan iplari bölmaganida, odamning oddiygina örnidan turişi ham köp miqdorda interstitsial suyuqlikning tananing yuqori qismidan pastki qismiga oqib tuşişiga sabab bölar edi. Şişda bölgani kabi interstitsiyda juda köp suyuqlik töplanganda, bu ortiqça suyuqlik suyuqlikning interstitsiy orqali oson oqişiga imkon beruvçi katta kanallar hosil qiladi. Şu sababli oyoqlarda oğir şiş yuzaga kelganda, köpinça oyoqlarni şunçaki yuqoriga kötariş orqali şiş suyuqligini kamaytiriş mumkin."
+  },
+  "ch25-f154": {
+   "text": "Ziçlaşgan proteoglikan iplari mavjud bölganda suyuqlik töqimalar orqali oson _oqmasa_-da, suyuqlik tarkibidagi turli moddalar töqimalar orqali odatdagi diffuziyasiga nisbatan kamida 95% osonlikda _diffuziyalanişi_ mumkin. Şu sababli ozuqa moddalarining hujayralarga odatdagi diffuziyasi va çiqindi mahsulotlarning hujayralardan çiqarilişi interstitsiyning proteoglikan iplari tomonidan buzilmaydi."
+  },
+  "ch25-f155": {
+   "text": "Limfa oqimining ortişi şişga qarşi himoya omili sifatida"
+  },
+  "ch25-f156": {
+   "text": "Limfa tizimining asosiy vazifalaridan biri kapillyarlardan interstitsiyga filtrlangan suyuqlik va oqsillarni qon aylanişiga qaytarişdir. Filtrlangan oqsillar va suyuqlikning qonga bunday uzluksiz qaytarilişi bölmaganida plazma hajmi tezda kamayib ketar va interstitsial şiş yuzaga kelar edi."
+  },
+  "ch25-f157": {
+   "text": "Limfa tomirlari şişga qarşi himoya omili vazifasini bajaradi, çunki töqimalarda suyuqlik töplana boşlaganda limfa oqimi 10–50 baravar ortişi mumkin. Limfa oqimining bunday ortişi limfa tomirlariga kapillyar filtratsiyaning ortişiga javoban köp miqdorda suyuqlik va oqsillarni olib ketiş imkonini beradi va interstitsial bosimning musbat bosim diapazoniga kötarilişining oldini oladi. Limfa oqimining ortişi tufayli himoya omili taxminan 7 mm Hg ga teng ekanligi hisoblab çiqilgan."
+  },
+  "ch25-f158": {
+   "text": "Interstitsial suyuqlik oqsilining yuvilib ketişi şişga qarşi himoya omili sifatida"
+  },
+  "ch25-f159": {
+   "text": "Interstitsiyga köproq miqdorda suyuqlik filtrlangan sari interstitsial suyuqlik bosimi ortib, limfa oqimining ortişiga sabab böladi. Köpçilik töqimalarda limfa oqimi ortgan sari interstitsiydagi oqsil konsentratsiyasi kamayadi, çunki kapillyarlardan filtrlanib çiqişi mumkin bölgandan köra köproq oqsil olib ketiladi. Bu hodisaning sababi şundaki, kapillyarlar limfa tomirlariga qaraganda oqsillar uçun nisbatan ötkazmaydigan böladi. Şu sababli limfa oqimi ortgan sari oqsillar interstitsial suyuqlikdan yuvilib ketadi."
+  },
+  "ch25-f160": {
+   "text": "Oqsillar hosil qiladigan interstitsial suyuqlik kolloid osmotik bosimi suyuqlikni kapillyarlardan tortib çiqarişga moyil bölgani uçun interstitsial suyuqlikdagi oqsillarning kamayişi kapillyarlar orqali ta’sir etuvçi sof filtratsiya kuçini pasaytiradi va suyuqlikning yanada töplanişiga tösqinlik qiladi. Bu ta’sir tufayli himoya omili taxminan 7 mm Hg ga teng ekanligi hisoblab çiqilgan."
+  },
+  "ch25-f161": {
+   "text": "Şişning oldini oluvçi himoya omillarining xulosasi"
+  },
+  "ch25-f162": {
+   "text": "Şişga qarşi barça himoya omillarini jamlasak, quyidagilarni olamiz: 1. Manfiy bosim diapazonida töqimalarning past çöziluvçanligi tufayli himoya omili taxminan 3 mm Hg ga teng. 2. Limfa oqimining ortişi tufayli himoya omili taxminan 7 mm Hg ga teng. 3. Oqsillarning interstitsial böşliqlardan yuvilib ketişi tufayli himoya omili taxminan 7 mm Hg ga teng. Şu sababli şişga qarşi umumiy himoya omili taxminan 17 mm Hg ni taşkil qiladi. Bu şuni anglatadiki, periferik töqimadagi kapillyar bosim nazariy jihatdan yaqqol şiş yuzaga kelgunga qadar 17 mm Hg ga, ya’ni normal qiymatidan taxminan ikki baravar kötarilişi mumkin."
+  },
+  "ch25-f163": {
+   "text": "Tananing potensial böşliqlaridagi suyuqliklar"
+  },
+  "ch25-f164": {
+   "text": "Potensial böşliqlarga plevra, perikard, qorin pardasi (peritoneal) va sinovial böşliqlar, jumladan böğim böşliqlari va şilliq xaltaçalar (bursalar) misol böladi. Bu potensial böşliqlarning deyarli barçasi bir-biriga deyarli tegib turadigan, oralarida faqat yupqa suyuqlik qavati bölgan va bir-birining ustida sirpanadigan yuzalarga ega. Sirpanişni osonlaştiriş uçun yopişqoq, oqsilga boy suyuqlik yuzalarni moylab turadi."
+  },
+  "ch25-f165": {
+   "text": "Potensial böşliqning sirt membranasi odatda suyuqliklar, elektrolitlar va hatto oqsillarning ötişiga sezilarli qarşilik körsatmaydi; ularning barçasi böşliq va atrofdagi töqimaning interstitsial suyuqligi örtasida nisbatan oson u yoqdan-bu yoqqa harakatlanadi. Şu sababli har bir potensial böşliq aslida katta töqima böşliğidir. Binobarin, potensial böşliqqa yaqin joylaşgan kapillyarlardagi suyuqlik nafaqat interstitsial suyuqlikka, balki potensial böşliqqa ham diffuziyalanadi.",
+   "lead": "Kapillyarlar va potensial böşliqlar örtasida suyuqlik almaşinadi."
+  },
+  "ch25-f166": {
+   "text": "Oqsillar butun tanadagi interstitsial böşliqlarda oqsil töplanişiga öxşab, kapillyarlardan sizib çiqişi tufayli potensial böşliqlarda ham töplanadi. Oqsil limfa tomirlari yoki boşqa kanallar orqali çiqarilib, qon aylanişiga qaytarilişi kerak. Har bir potensial böşliq limfa tomirlari bilan bevosita yoki bilvosita boğlangan. Ayrim hollarda, masalan, plevra böşliği va qorin böşliğida, yirik limfa tomirlari bevosita böşliqning özidan boşlanadi.",
+   "lead": "Limfa tomirlari potensial böşliqlardan oqsilni olib ketadi."
+  },
+  "ch25-f167": {
+   "text": "Potensial böşliqqa yaqin joylaşgan teri osti töqimalarida şiş yuzaga kelganda, şiş suyuqligi odatda potensial böşliqda ham töplanadi; bu suyuqlik _effuziya_ (suyuqlik yiğilişi) deb ataladi. Şunday qilib, limfa oqimining tösilişi yoki kapillyarlarda haddan taşqari filtratsiyaga sabab bölişi mumkin bölgan köplab buzilişlarning istalgan biri interstitsial şiş qanday yuzaga kelsa, effuziyani ham xuddi şunday yuzaga keltirişi mumkin. Qorin böşliği effuziya suyuqligini töplaşga ayniqsa moyil bölib, bu holatda effuziya _assit_ deb ataladi. Oğir hollarda 20 litr yoki undan köproq assit suyuqligi töplanişi mumkin.",
+   "lead": "Potensial böşliqlardagi şiş suyuqligi effuziya deb ataladi."
+  },
+  "ch25-f168": {
+   "text": "Boşqa potensial böşliqlar, masalan, plevra böşliği, perikard böşliği va böğim böşliqlari, umumiy şiş mavjud bölganda jiddiy darajada şişib ketişi mumkin. Şuningdek, böşliqlardan istalgan birida şikastlaniş yoki mahalliy infeksiya köpinça limfa oqimini tösib qöyadi va şu böşliqning alohida şişişiga sabab böladi."
+  },
+  "ch25-f169": {
+   "text": "Plevra böşliğida suyuqlik almaşinuvi dinamikasi 39-bobda batafsil muhokama qilinadi. Bu dinamika asosan qolgan barça potensial böşliqlar uçun ham xosdir. Şiş bölmagan holatda köpçilik yoki barça potensial böşliqlardagi normal suyuqlik bosimi, ğovak teri osti töqimasida bölgani kabi, _manfiy_ (atmosfera bosimidan past) böladi. Masalan, interstitsial suyuqlik gidrostatik bosimi normada plevra böşliğida taxminan −7 dan −8 mm Hg gaça, böğim böşliqlarida −3 dan −5 mm Hg gaça va perikard böşliğida −5 dan −6 mm Hg gaça böladi."
+  }
+ },
+ "figures": {
+  "gh14-fig-25-01": "Tana suyuqliklari boşqarilişining umumiy sxemasi: tana suyuqliklarining asosiy bölinmalari va bu bölinmalarni ajratib turuvçi membranalar. Körsatilgan qiymatlar 70 kg vaznli örtaça erkak uçun keltirilgan.",
+  "gh14-fig-25-02": "Hujayra içi va hujayradan taşqari suyuqliklarning asosiy kationlari va anionlari. Ca2+ va Mg2+ konsentratsiyalari bu ikki ionning yiğindisini ifodalaydi. Körsatilgan konsentratsiyalar erkin ionlar va kompleks holidagi ionlarning jamini ifodalaydi.",
+  "gh14-fig-25-03": "Plazmaning noelektrolitlari.",
+  "gh14-fig-25-04": "Suyuqlik hajmlarini ölçaşning indikator suyultiriş usuli.",
+  "gh14-fig-25-05": "Izotonik (A), gipertonik (B) va gipotonik (C) eritmalarning hujayra hajmiga ta’siri.",
+  "gh14-fig-25-06": "Osmotik muvozanat örnatilgandan keyin hujayradan taşqari suyuqlikka izotonik (A), gipertonik (B) va gipotonik (C) eritmalar qöşilişining ta’siri. Normal holat uzluksiz çiziqlar bilan, normadan siljişlar esa böyalgan sohalar bilan körsatilgan. Har bir diagrammaning abssissa öqida hujayra içi va hujayradan taşqari suyuqlik bölinmalarining hajmlari, ordinata öqlarida esa bu bölinmalarning osmolyarliklari körsatilgan.",
+  "gh14-fig-25-07": "Giponatriyemiya paytida miya hujayralari hajmining boşqarilişi. Na+ yöqotilişi yoki ortiqça H2O sababli yuzaga kelgan ötkir giponatriyemiya paytida H2O hujayralarga diffuziyalanadi (1) va miya töqimasi şişadi (uzuq çiziqlar bilan körsatilgan). Bu jarayon Na+, K+ va organik erigan moddalarning hujayralardan taşqariga taşilişini rağbatlantiradi (2), bu esa öz navbatida suvning hujayralardan taşqariga diffuziyalanişiga sabab böladi (3). Surunkali giponatriyemiyada erigan moddalarning hujayralardan taşib çiqarilişi hisobiga miya şişi susayadi.",
+  "gh14-fig-25-08": "Teri kabi ğovak töqimalar uçun interstitsial suyuqlik gidrostatik bosimi va interstitsial suyuqlik hajmlari (umumiy hajm, erkin suyuqlik hajmi va gel suyuqligi hajmi) örtasidagi boğliqlik. E’tibor beringki, erkin suyuqlikning sezilarli miqdori faqat interstitsial suyuqlik bosimi musbat bölganda paydo böladi. (Guyton AC, Granger HJ, Taylor AE: Interstitial fluid pressure. Physiol Rev 51:527, 1971 manbasidan özgartirilgan.)",
+  "gh14-tab-25-01": "Kunlik suv qabuli va çiqarilişi (ml/kun)",
+  "gh14-tab-25-02": "Hujayradan taşqari va hujayra içi suyuqliklaridagi osmolyar moddalar",
+  "gh14-tab-25-03": "Tana suyuqliklari hajmini ölçaş",
+  "gh14-tab-25-04": "Tana suyuqligi hajmi boşqarilişining buzilişlari: giponatriyemiya va gipernatriyemiya"
+ }
+}

@@ -2,9 +2,9 @@
  "id": "ch40",
  "topicId": "07",
  "order": 3,
- "titleUz": "Gaz almashinuvi tamoyillari; O₂ va CO₂ ning respirator membrana orqali diffuziyasi",
+ "titleUz": "Gaz almaşinuvi tamoyillari; O₂ va CO₂ ning respirator membrana orqali diffuziyasi",
  "titleOriginal": "Principles of Gas Exchange; Diffusion of Oxygen and Carbon Dioxide Through the Respiratory Membrane",
- "subtitle": "*Principles of Gas Exchange; Diffusion of Oxygen and Carbon Dioxide Through the Respiratory Membrane* — VII bo'lim, PDF 488–497",
+ "subtitle": "*Principles of Gas Exchange; Diffusion of Oxygen and Carbon Dioxide Through the Respiratory Membrane* — VII bo‘lim, PDF 488–497",
  "contentVersion": "2026-11-14.1",
  "status": "in_review",
  "translationStatus": "machine_assisted",
@@ -136,7 +136,7 @@
   "Havo tarkibi",
   "Alveolyar PO₂ va PCO₂",
   "Respirator membrana",
-  "Diffuziya sig’imi",
+  "Diffuziya sig‘imi",
   "Ventilyatsiya-perfuziya nisbati (V̇A/Q̇)"
  ],
  "blocks": {
@@ -144,13 +144,13 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Asosiy g’oya",
+    "text": "Asosiy ğoya",
     "id": "ch40-s-0-asosiy-goya",
     "bid": "ch40-u0"
    },
    {
     "type": "paragraph",
-    "text": "Gaz almashinuvi passiv **diffuziya** orqali bo’ladi. Har bir gaz o’zining **parsial bosimi** yuqori joydan past joyga o’tadi. Diffuziya tezligini quyidagilar belgilaydi:",
+    "text": "Gaz almaşinuvi passiv **diffuziya** orqali böladi. Har bir gaz özining **parsial bosimi** yuqori joydan past joyga ötadi. Diffuziya tezligini quyidagilar belgilaydi:",
     "bid": "ch40-u1"
    },
    {
@@ -170,7 +170,7 @@
       "depth": 0
      },
      {
-      "text": "gazning eruvchanligi va molekulyar massasi (ya’ni diffuziya koeffitsienti).",
+      "text": "gazning eruvçanligi va molekulyar massasi (ya’ni diffuziya koeffitsienti).",
       "depth": 0
      }
     ],
@@ -178,7 +178,7 @@
    },
    {
     "type": "paragraph",
-    "text": "Alveola havosining tarkibi ikki narsaga bog’liq: alveolyar ventilyatsiya va gazlarning qonga yutilish yoki qondan chiqish tezligi. Gaz almashinuvi samaradorligining asosiy omili har bir alveolada **ventilyatsiya va perfuziya nisbati (V̇A/Q̇)** ning mosligi.",
+    "text": "Alveola havosining tarkibi ikki narsaga boğliq: alveolyar ventilyatsiya va gazlarning qonga yutiliş yoki qondan çiqiş tezligi. Gaz almaşinuvi samaradorligining asosiy omili har bir alveolada **ventilyatsiya va perfuziya nisbati (V̇A/Q̇)** ning mosligi.",
     "bid": "ch40-u3"
    },
    {
@@ -193,19 +193,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Energiya manbai:** molekulalarning kinetik harakati. Absolyut noldan tashqari barcha haroratlarda molekulalar doimo harakatda.",
+      "text": "**Energiya manbai:** molekulalarning kinetik harakati. Absolyut noldan taşqari barça haroratlarda molekulalar doimo harakatda.",
       "depth": 0
      },
      {
-      "text": "**Sof diffuziya:** konsentratsiyasi yuqori tomondan past tomonga, chunki u yerdan ko’proq molekula harakatlanadi.",
+      "text": "**Sof diffuziya:** konsentratsiyasi yuqori tomondan past tomonga, çunki u yerdan köproq molekula harakatlanadi.",
       "depth": 0
      },
      {
-      "text": "**Parsial bosim:** bosim molekulalar zarbidan hosil bo’ladi va konsentratsiyaga proporsional. Aralashmadagi har bir gaz o’z ulushiga mos bosim beradi.",
+      "text": "**Parsial bosim:** bosim molekulalar zarbidan hosil böladi va konsentratsiyaga proporsional. Aralaşmadagi har bir gaz öz uluşiga mos bosim beradi.",
       "depth": 0
      },
      {
-      "text": "Havo: 79% N₂ va 21% O₂. 760 mm Hg ning **600** i N₂, **160** i O₂ ga to’g’ri keladi.",
+      "text": "Havo: 79% N₂ va 21% O₂. 760 mm Hg ning **600** i N₂, **160** i O₂ ga töğri keladi.",
       "depth": 1
      },
      {
@@ -217,14 +217,14 @@
    },
    {
     "type": "paragraph",
-    "text": "**Genri qonuni:** **Parsial bosim = Erigan gaz konsentratsiyasi / Eruvchanlik koeffitsienti**",
+    "text": "**Genri qonuni:** **Parsial bosim = Erigan gaz konsentratsiyasi / Eruvçanlik koeffitsienti**",
     "bid": "ch40-u6"
    },
    {
     "type": "table",
     "header": [
      "Gaz",
-     "Eruvchanlik koeffitsienti (37°C)"
+     "Eruvçanlik koeffitsienti (37°C)"
     ],
     "rows": [
      [
@@ -252,12 +252,12 @@
    },
    {
     "type": "paragraph",
-    "text": "CO₂ O₂ dan **20 marta ko’p eriydi**. Shuning uchun bir xil konsentratsiyada CO₂ ning parsial bosimi O₂ nikining 1/20 qismidan (5%) kam.",
+    "text": "CO₂ O₂ dan **20 marta köp eriydi**. Şuning uçun bir xil konsentratsiyada CO₂ ning parsial bosimi O₂ nikining 1/20 qismidan (5%) kam.",
     "bid": "ch40-u8"
    },
    {
     "type": "paragraph",
-    "text": "**Gaz fazasi va eritma o’rtasida:** sof diffuziya yo’nalishini ikki parsial bosim farqi belgilaydi.",
+    "text": "**Gaz fazasi va eritma örtasida:** sof diffuziya yönalişini ikki parsial bosim farqi belgilaydi.",
     "bid": "ch40-u9"
    },
    {
@@ -265,11 +265,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "O₂ alveoladan qonga o’tadi (alveolada bosim yuqori).",
+      "text": "O₂ alveoladan qonga ötadi (alveolada bosim yuqori).",
       "depth": 0
      },
      {
-      "text": "CO₂ qondan alveolaga o’tadi.",
+      "text": "CO₂ qondan alveolaga ötadi.",
       "depth": 0
      }
     ],
@@ -277,7 +277,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Suv bug’i bosimi:**",
+    "text": "**Suv buği bosimi:**",
     "bid": "ch40-u11"
    },
    {
@@ -285,11 +285,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Tana haroratida (37°C) **47 mm Hg**. To’liq namlangan havoda PH₂O = 47 mm Hg.",
+      "text": "Tana haroratida (37°C) **47 mm Hg**. Töliq namlangan havoda PH₂O = 47 mm Hg.",
       "depth": 0
      },
      {
-      "text": "Faqat haroratga bog’liq: 0°C da 5 mm Hg, 100°C da 760 mm Hg.",
+      "text": "Faqat haroratga boğliq: 0°C da 5 mm Hg, 100°C da 760 mm Hg.",
       "depth": 0
      }
     ],
@@ -305,7 +305,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "ΔP: bosim farqi; A: ko’ndalang kesim yuzasi; S: eruvchanlik; d: masofa; MW: molekulyar massa.",
+      "text": "ΔP: bosim farqi; A: köndalang kesim yuzasi; S: eruvçanlik; d: masofa; MW: molekulyar massa.",
       "depth": 0
      },
      {
@@ -351,7 +351,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**To’qimalar orqali diffuziya:** nafas gazlari lipidlarda yaxshi eriydi, shuning uchun hujayra membranasi to’siq emas. Asosiy cheklov to’qima suvi orqali diffuziya. Shu sabab to’qima va respirator membranadagi diffuziya suvdagiga deyarli teng.",
+    "text": "**Töqimalar orqali diffuziya:** nafas gazlari lipidlarda yaxşi eriydi, şuning uçun hujayra membranasi tösiq emas. Asosiy çeklov töqima suvi orqali diffuziya. Şu sabab töqima va respirator membranadagi diffuziya suvdagiga deyarli teng.",
     "bid": "ch40-u16"
    },
    {
@@ -363,7 +363,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Jadval 40-1 (dengiz sathida, mm Hg; qavs ichida %)**",
+    "text": "**Jadval 40-1 (dengiz sathida, mm Hg; qavs içida %)**",
     "bid": "ch40-u18"
    },
    {
@@ -378,7 +378,7 @@
      "Atmosfera havosi",
      "Namlangan havo",
      "Alveola havosi",
-     "Chiqarilgan havo"
+     "Çiqarilgan havo"
     ],
     "rows": [
      [
@@ -421,7 +421,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Alveola havosi atmosferanikidan farq qilishining 4 sababi:**",
+    "text": "**Alveola havosi atmosferanikidan farq qilişining 4 sababi:**",
     "bid": "ch40-u21"
    },
    {
@@ -437,11 +437,11 @@
       "depth": 0
      },
      {
-      "text": "CO₂ doimo qondan alveolaga o’tadi.",
+      "text": "CO₂ doimo qondan alveolaga ötadi.",
       "depth": 0
      },
      {
-      "text": "Quruq havo alveolaga yetguncha namlanadi.",
+      "text": "Quruq havo alveolaga yetgunça namlanadi.",
       "depth": 0
      }
     ],
@@ -449,12 +449,12 @@
    },
    {
     "type": "paragraph",
-    "text": "**Namlanish:** umumiy bosim 760 dan oshmaydi, shuning uchun suv bug’i (47) boshqa gazlarni suyultiradi. O₂ 159 dan 149 ga, N₂ 597 dan 563 ga tushadi.",
+    "text": "**Namlaniş:** umumiy bosim 760 dan oşmaydi, şuning uçun suv buği (47) boşqa gazlarni suyultiradi. O₂ 159 dan 149 ga, N₂ 597 dan 563 ga tuşadi.",
     "bid": "ch40-u23"
    },
    {
     "type": "paragraph",
-    "text": "**Alveola havosining sekin yangilanishi:**",
+    "text": "**Alveola havosining sekin yangilanişi:**",
     "bid": "ch40-u24"
    },
    {
@@ -462,19 +462,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "FRC ~2300 ml, har nafasda alveolaga faqat ~**350 ml** yangi havo kiradi. Demak har nafasda alveola havosining faqat ~**1/7** qismi almashadi.",
+      "text": "FRC ~2300 ml, har nafasda alveolaga faqat ~**350 ml** yangi havo kiradi. Demak har nafasda alveola havosining faqat ~**1/7** qismi almaşadi.",
       "depth": 0
      },
      {
-      "text": "Ortiqcha gaz 16 nafasdan keyin ham to’liq chiqmaydi.",
+      "text": "Ortiqça gaz 16 nafasdan keyin ham töliq çiqmaydi.",
       "depth": 0
      },
      {
-      "text": "Normal alveolyar ventilyatsiyada gazning **yarmi 17 s** da chiqariladi. Ventilyatsiya yarmiga tushsa 34 s, ikki baravar ortsa ~8 s.",
+      "text": "Normal alveolyar ventilyatsiyada gazning **yarmi 17 s** da çiqariladi. Ventilyatsiya yarmiga tuşsa 34 s, ikki baravar ortsa ~8 s.",
       "depth": 0
      },
      {
-      "text": "**Ma’nosi:** qon gaz konsentratsiyasi to’satdan o’zgarmaydi. Nafas boshqaruvi barqarorlashadi, nafas vaqtincha to’xtaganda to’qima oksigenatsiyasi, CO₂ va pH keskin o’zgarmaydi.",
+      "text": "**Ma’nosi:** qon gaz konsentratsiyasi tösatdan özgarmaydi. Nafas boşqaruvi barqarorlaşadi, nafas vaqtinça töxtaganda töqima oksigenatsiyasi, CO₂ va pH keskin özgarmaydi.",
       "depth": 0
      }
     ],
@@ -489,7 +489,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**PO₂ ni ikki narsa belgilaydi:** (1) O₂ ning qonga yutilish tezligi; (2) yangi O₂ ning ventilyatsiya bilan kirish tezligi.",
+    "text": "**PO₂ ni ikki narsa belgilaydi:** (1) O₂ ning qonga yutiliş tezligi; (2) yangi O₂ ning ventilyatsiya bilan kiriş tezligi.",
     "bid": "ch40-u27"
    },
    {
@@ -497,15 +497,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Normal ishchi nuqta (A):** V̇A = 4,2 l/min, O₂ iste’moli 250 ml/min, PAO₂ = **104 mm Hg**.",
+      "text": "**Normal işçi nuqta (A):** V̇A = 4,2 l/min, O₂ iste’moli 250 ml/min, PAO₂ = **104 mm Hg**.",
       "depth": 0
      },
      {
-      "text": "O’rtacha jismoniy ishda (1000 ml O₂/min) PAO₂ ni 104 da saqlash uchun alveolyar ventilyatsiya **4 marta** ortishi kerak.",
+      "text": "Örtaça jismoniy işda (1000 ml O₂/min) PAO₂ ni 104 da saqlaş uçun alveolyar ventilyatsiya **4 marta** ortişi kerak.",
       "depth": 0
      },
      {
-      "text": "Oddiy havoda dengiz sathida PAO₂ hech qachon **149 mm Hg** dan oshmaydi (namlangan havo maksimumi). Undan yuqoriga faqat yuqori PO₂ li gaz bilan nafas olganda erishiladi.",
+      "text": "Oddiy havoda dengiz sathida PAO₂ heç qaçon **149 mm Hg** dan oşmaydi (namlangan havo maksimumi). Undan yuqoriga faqat yuqori PO₂ li gaz bilan nafas olganda erişiladi.",
       "depth": 0
      }
     ],
@@ -521,11 +521,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Normal: CO₂ chiqarish 200 ml/min, V̇A 4,2 l/min, PACO₂ = **40 mm Hg**.",
+      "text": "Normal: CO₂ çiqariş 200 ml/min, V̇A 4,2 l/min, PACO₂ = **40 mm Hg**.",
       "depth": 0
      },
      {
-      "text": "CO₂ chiqarish tezligiga **to’g’ri proporsional** (800 ml/min da egri chiziq 4 marta yuqorida).",
+      "text": "CO₂ çiqariş tezligiga **töğri proporsional** (800 ml/min da egri çiziq 4 marta yuqorida).",
       "depth": 0
      },
      {
@@ -537,7 +537,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Chiqarilgan havo** o’lik bo’shliq havosi va alveola havosining aralashmasi.",
+    "text": "**Çiqarilgan havo** ölik böşliq havosi va alveola havosining aralaşmasi.",
     "bid": "ch40-u31"
    },
    {
@@ -545,15 +545,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Birinchi qismi namlangan atmosfera havosi.",
+      "text": "Birinçi qismi namlangan atmosfera havosi.",
       "depth": 0
      },
      {
-      "text": "Keyin alveola havosi tobora ko’p qo’shiladi.",
+      "text": "Keyin alveola havosi tobora köp qöşiladi.",
       "depth": 0
      },
      {
-      "text": "Oxirgi qismi sof alveola havosi. Alveola havosini tekshirish uchun **kuchli nafas chiqarishning oxirgi qismi** olinadi.",
+      "text": "Oxirgi qismi sof alveola havosi. Alveola havosini tekşiriş uçun **kuçli nafas çiqarişning oxirgi qismi** olinadi.",
       "depth": 0
      }
     ],
@@ -568,7 +568,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Respirator birlik (lobula):** respirator bronxiola, alveolyar yo’llar, atriumlar va alveolalar.",
+    "text": "**Respirator birlik (lobula):** respirator bronxiola, alveolyar yöllar, atriumlar va alveolalar.",
     "bid": "ch40-u34"
    },
    {
@@ -576,15 +576,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Ikkala o’pkada ~**300 million alveola**, har birining diametri ~**0,2 mm**.",
+      "text": "Ikkala öpkada ~**300 million alveola**, har birining diametri ~**0,2 mm**.",
       "depth": 0
      },
      {
-      "text": "Alveolalar orasida deyarli yaxlit kapillyar tarmog’i bor, qon \"varaq\" kabi oqadi.",
+      "text": "Alveolalar orasida deyarli yaxlit kapillyar tarmoği bor, qon “varaq” kabi oqadi.",
       "depth": 0
      },
      {
-      "text": "Gaz almashinuvi faqat alveolalarda emas, o’pkaning barcha terminal qismlarining membranalarida boradi.",
+      "text": "Gaz almaşinuvi faqat alveolalarda emas, öpkaning barça terminal qismlarining membranalarida boradi.",
       "depth": 0
      }
     ],
@@ -617,11 +617,11 @@
       "depth": 0
      },
      {
-      "text": "Yupqa interstitsial bo’shliq",
+      "text": "Yupqa interstitsial böşliq",
       "depth": 0
      },
      {
-      "text": "Kapillyar bazal membranasi (ko’p joyda epiteliy bazal membranasi bilan qo’shilgan)",
+      "text": "Kapillyar bazal membranasi (köp joyda epiteliy bazal membranasi bilan qöşilgan)",
       "depth": 0
      },
      {
@@ -634,17 +634,17 @@
    {
     "type": "table",
     "header": [
-     "Ko’rsatkich",
+     "Körsatkiç",
      "Qiymat"
     ],
     "rows": [
      [
       "Qalinligi",
-      "eng yupqa joyda **0,2 µm**, o’rtacha **0,6 µm**"
+      "eng yupqa joyda **0,2 µm**, o‘rtacha **0,6 µm**"
      ],
      [
       "Umumiy yuzasi",
-      "~**70 m²** (sog’lom erkakda), 25 × 30 futli xona poli o’lchami"
+      "~**70 m²** (sog‘lom erkakda), 25 × 30 futli xona poli o‘lchami"
      ],
      [
       "Kapillyarlardagi qon",
@@ -652,7 +652,7 @@
      ],
      [
       "Kapillyar diametri",
-      "~**5 µm**: eritrotsit siqilib o’tadi va membranasi kapillyar devoriga tegadi, gazlar plazmadan deyarli o’tmaydi"
+      "~**5 µm**: eritrotsit siqilib o‘tadi va membranasi kapillyar devoriga tegadi, gazlar plazmadan deyarli o‘tmaydi"
      ]
     ],
     "bid": "ch40-u39"
@@ -660,7 +660,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Diffuziya tezligiga ta’sir qiluvchi omillar",
+    "text": "Diffuziya tezligiga ta’sir qiluvçi omillar",
     "id": "ch40-s-40-diffuziya-tezligiga-tasir-qiluvchi-omillar",
     "bid": "ch40-u40"
    },
@@ -669,7 +669,7 @@
     "ordered": true,
     "items": [
      {
-      "text": "**Membrana qalinligi:** shish suyuqligi (interstitsiy yoki alveolada) yoki o’pka **fibrozi** qalinlashtiradi. Tezlik qalinlikka teskari proporsional; qalinlik **>2–3 marta** ortsa, almashinuv sezilarli buziladi.",
+      "text": "**Membrana qalinligi:** şiş suyuqligi (interstitsiy yoki alveolada) yoki öpka **fibrozi** qalinlaştiradi. Tezlik qalinlikka teskari proporsional; qalinlik **>2–3 marta** ortsa, almaşinuv sezilarli buziladi.",
       "depth": 0
      },
      {
@@ -677,15 +677,15 @@
       "depth": 0
      },
      {
-      "text": "Bitta o’pkani olib tashlash yuzani yarmiga tushiradi.",
+      "text": "Bitta öpkani olib taşlaş yuzani yarmiga tuşiradi.",
       "depth": 1
      },
      {
-      "text": "**Emfizemada** alveolalar qo’shilib, devorlar yemiriladi, yuza **5 martagacha** kamayadi.",
+      "text": "**Emfizemada** alveolalar qöşilib, devorlar yemiriladi, yuza **5 martagaça** kamayadi.",
       "depth": 1
      },
      {
-      "text": "Yuza **1/3–1/4** gacha kamaysa, almashinuv tinch holatda ham buziladi. Sportda hatto oz kamayish ham jiddiy.",
+      "text": "Yuza **1/3–1/4** gaça kamaysa, almaşinuv tinç holatda ham buziladi. Sportda hatto oz kamayiş ham jiddiy.",
       "depth": 1
      },
      {
@@ -702,18 +702,18 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Diffuziya sig’imi",
+    "text": "Diffuziya siğimi",
     "id": "ch40-s-42-diffuziya-sigimi",
     "bid": "ch40-u42"
    },
    {
     "type": "paragraph",
-    "text": "**Ta’rif:** 1 mm Hg bosim farqida membranadan bir daqiqada o’tadigan gaz hajmi.",
+    "text": "**Ta’rif:** 1 mm Hg bosim farqida membranadan bir daqiqada ötadigan gaz hajmi.",
     "bid": "ch40-u43"
    },
    {
     "type": "paragraph",
-    "text": "**O₂ uchun (yosh erkak, tinch holat):**",
+    "text": "**O₂ uçun (yoş erkak, tinç holat):**",
     "bid": "ch40-u44"
    },
    {
@@ -725,7 +725,7 @@
       "depth": 0
      },
      {
-      "text": "O’rtacha O₂ bosim farqi ~11 mm Hg. 11 × 21 ≈ **230 ml O₂/min**, bu tananing tinch holatdagi O₂ iste’moliga teng.",
+      "text": "Örtaça O₂ bosim farqi ~11 mm Hg. 11 × 21 ≈ **230 ml O₂/min**, bu tananing tinç holatdagi O₂ iste’moliga teng.",
       "depth": 0
      }
     ],
@@ -733,7 +733,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Jismoniy ishda ~3 marta** ortadi:",
+    "text": "**Jismoniy işda ~3 marta** ortadi:",
     "bid": "ch40-u46"
    },
    {
@@ -741,11 +741,11 @@
     "ordered": true,
     "items": [
      {
-      "text": "Ishlamay turgan kapillyarlar ochiladi yoki ochiqlari kengayadi, ya’ni yuza ortadi.",
+      "text": "Işlamay turgan kapillyarlar oçiladi yoki oçiqlari kengayadi, ya’ni yuza ortadi.",
       "depth": 0
      },
      {
-      "text": "**V̇A/Q̇ mosligi** yaxshilanadi.",
+      "text": "**V̇A/Q̇ mosligi** yaxşilanadi.",
       "depth": 0
      }
     ],
@@ -753,12 +753,12 @@
    },
    {
     "type": "paragraph",
-    "text": "**CO₂ uchun:** hech qachon o’lchanmagan. Sababi: o’pka qoni va alveola PCO₂ farqi **<1 mm Hg**, bu juda kichik. Diffuziya koeffitsientiga asoslangan hisob bo’yicha tinch holatda **400–450**, ishda **1200–1300 ml/min/mm Hg**.",
+    "text": "**CO₂ uçun:** heç qaçon ölçanmagan. Sababi: öpka qoni va alveola PCO₂ farqi **<1 mm Hg**, bu juda kiçik. Diffuziya koeffitsientiga asoslangan hisob böyiça tinç holatda **400–450**, işda **1200–1300 ml/min/mm Hg**.",
     "bid": "ch40-u48"
    },
    {
     "type": "paragraph",
-    "text": "**CO usuli bilan o’lchash:**",
+    "text": "**CO usuli bilan ölçaş:**",
     "bid": "ch40-u49"
    },
    {
@@ -766,19 +766,19 @@
     "ordered": true,
     "items": [
      {
-      "text": "Oz miqdorda CO nafas bilan olinadi va alveolyar PCO o’lchanadi.",
+      "text": "Oz miqdorda CO nafas bilan olinadi va alveolyar PCO ölçanadi.",
       "depth": 0
      },
      {
-      "text": "Qonda PCO deyarli **0**, chunki gemoglobin CO ni juda tez bog’laydi. Demak bosim farqi alveolyar PCO ga teng.",
+      "text": "Qonda PCO deyarli **0**, çunki gemoglobin CO ni juda tez boğlaydi. Demak bosim farqi alveolyar PCO ga teng.",
       "depth": 0
      },
      {
-      "text": "Qisqa vaqtda yutilgan CO hajmi alveolyar PCO ga bo’linadi va DLCO hosil bo’ladi.",
+      "text": "Qisqa vaqtda yutilgan CO hajmi alveolyar PCO ga bölinadi va DLCO hosil böladi.",
       "depth": 0
      },
      {
-      "text": "O₂ ga o’tkazish: × **1,23** (O₂ ning diffuziya koeffitsienti CO nikidan 1,23 marta katta).",
+      "text": "O₂ ga ötkaziş: × **1,23** (O₂ ning diffuziya koeffitsienti CO nikidan 1,23 marta katta).",
       "depth": 0
      },
      {
@@ -797,7 +797,7 @@
    },
    {
     "type": "paragraph",
-    "text": "Umumiy ventilyatsiya va umumiy qon oqimi normal bo’lsa ham, ular o’pkaning **turli** qismlariga borsa, og’ir nafas yetishmovchiligi bo’lishi mumkin.",
+    "text": "Umumiy ventilyatsiya va umumiy qon oqimi normal bölsa ham, ular öpkaning **turli** qismlariga borsa, oğir nafas yetişmovçiligi bölişi mumkin.",
     "bid": "ch40-u52"
    },
    {
@@ -809,7 +809,7 @@
     ],
     "rows": [
      [
-      "**0** (ventilyatsiya yo’q, perfuziya bor)",
+      "**0** (ventilyatsiya yo‘q, perfuziya bor)",
       "venoz qon bilan muvozanatda: PO₂ **40**, PCO₂ **45**",
       "shunt"
      ],
@@ -819,16 +819,16 @@
       "optimal almashinuv"
      ],
      [
-      "**∞** (ventilyatsiya bor, perfuziya yo’q)",
+      "**∞** (ventilyatsiya bor, perfuziya yo‘q)",
       "namlangan nafas havosiga teng: PO₂ **149**, PCO₂ **0**",
-      "o’lik bo’shliq"
+      "o‘lik bo‘shliq"
      ]
     ],
     "bid": "ch40-u53"
    },
    {
     "type": "paragraph",
-    "text": "**PO₂–PCO₂ V̇A/Q̇ diagrammasi (rasm 40-11):** venoz qon gazlari normal bo’lganda va dengiz sathida havo bilan nafas olinganda, egri chiziq V̇A/Q̇ = 0 (nuqta v̄: 40/45) dan ∞ gacha (nuqta I: 149/0) barcha mumkin bo’lgan kombinatsiyalarni ko’rsatadi. Normal nuqta: 104/40.",
+    "text": "**PO₂–PCO₂ V̇A/Q̇ diagrammasi (rasm 40-11):** venoz qon gazlari normal bölganda va dengiz sathida havo bilan nafas olinganda, egri çiziq V̇A/Q̇ = 0 (nuqta v̄: 40/45) dan ∞ gaça (nuqta I: 149/0) barça mumkin bölgan kombinatsiyalarni körsatadi. Normal nuqta: 104/40.",
     "bid": "ch40-u54"
    },
    {
@@ -848,11 +848,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Ventilyatsiya qonni to’liq oksigenlash uchun yetmaydi va venoz qonning bir qismi oksigenlanmaydi.",
+      "text": "Ventilyatsiya qonni töliq oksigenlaş uçun yetmaydi va venoz qonning bir qismi oksigenlanmaydi.",
       "depth": 0
      },
      {
-      "text": "Bunga **bronxial qon** (yurak minutlik hajmining ~2%) qo’shiladi.",
+      "text": "Bunga **bronxial qon** (yurak minutlik hajmining ~2%) qöşiladi.",
       "depth": 0
      },
      {
@@ -860,19 +860,19 @@
       "depth": 0
      },
      {
-      "text": "CiO₂: \"ideal\" V̇A/Q̇ dagi arterial O₂ konsentratsiyasi;",
+      "text": "CiO₂: “ideal” V̇A/Q̇ dagi arterial O₂ konsentratsiyasi;",
       "depth": 1
      },
      {
-      "text": "CaO₂: o’lchangan arterial O₂;",
+      "text": "CaO₂: ölçangan arterial O₂;",
       "depth": 1
      },
      {
-      "text": "Cv̄O₂: aralash venoz O₂.",
+      "text": "Cv̄O₂: aralaş venoz O₂.",
       "depth": 1
      },
      {
-      "text": "Shunt qancha katta bo’lsa, o’pkadan oksigenlanmasdan o’tadigan qon shuncha ko’p.",
+      "text": "Shunt qança katta bölsa, öpkadan oksigenlanmasdan ötadigan qon şunça köp.",
       "depth": 1
      }
     ],
@@ -881,7 +881,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Fiziologik o’lik bo’shliq (V̇A/Q̇ normadan yuqori)",
+    "text": "Fiziologik ölik böşliq (V̇A/Q̇ normadan yuqori)",
     "id": "ch40-s-58-fiziologik-olik-boshliq-v-a-q-normadan-yuqori",
     "bid": "ch40-u58"
    },
@@ -890,11 +890,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Ventilyatsiya ko’p, qon oqimi kam. Alveolada qon olib ketishi mumkin bo’lgandan ko’p O₂ bor, ventilyatsiya \"isrof\" bo’ladi.",
+      "text": "Ventilyatsiya köp, qon oqimi kam. Alveolada qon olib ketişi mumkin bölgandan köp O₂ bor, ventilyatsiya “isrof” böladi.",
       "depth": 0
      },
      {
-      "text": "Bunga anatomik o’lik bo’shliq qo’shiladi va **fiziologik o’lik bo’shliq** hosil bo’ladi.",
+      "text": "Bunga anatomik ölik böşliq qöşiladi va **fiziologik ölik böşliq** hosil böladi.",
       "depth": 0
      },
      {
@@ -902,11 +902,11 @@
       "depth": 0
      },
      {
-      "text": "P̄ECO₂: butun chiqarilgan havodagi o’rtacha PCO₂.",
+      "text": "P̄ECO₂: butun çiqarilgan havodagi örtaça PCO₂.",
       "depth": 1
      },
      {
-      "text": "Katta bo’lsa, nafas ishining ko’p qismi behuda ketadi.",
+      "text": "Katta bölsa, nafas işining köp qismi behuda ketadi.",
       "depth": 0
      }
     ],
@@ -915,7 +915,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Sog’lom o’pkada notekislik (tik turganda)",
+    "text": "Soğlom öpkada notekislik (tik turganda)",
     "id": "ch40-s-60-soglom-opkada-notekislik-tik-turganda",
     "bid": "ch40-u60"
    },
@@ -924,19 +924,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Yuqori qismda qon oqimi ventilyatsiyadan ko’proq kamayadi.",
+      "text": "Yuqori qismda qon oqimi ventilyatsiyadan köproq kamayadi.",
       "depth": 0
      },
      {
-      "text": "**Cho’qqida** V̇A/Q̇ ideal qiymatdan **2,5 marta** yuqori, o’rtacha fiziologik o’lik bo’shliq bor.",
+      "text": "**Çöqqida** V̇A/Q̇ ideal qiymatdan **2,5 marta** yuqori, örtaça fiziologik ölik böşliq bor.",
       "depth": 1
      },
      {
-      "text": "**Pastda** V̇A/Q̇ idealning **0,6** qismigacha, kichik fiziologik shunt bor.",
+      "text": "**Pastda** V̇A/Q̇ idealning **0,6** qismigaça, kiçik fiziologik shunt bor.",
       "depth": 1
      },
      {
-      "text": "**Jismoniy ishda** yuqori qismga qon oqimi keskin ortadi, o’lik bo’shliq kamayadi va almashinuv optimalga yaqinlashadi.",
+      "text": "**Jismoniy işda** yuqori qismga qon oqimi keskin ortadi, ölik böşliq kamayadi va almaşinuv optimalga yaqinlaşadi.",
       "depth": 0
      }
     ],
@@ -945,7 +945,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Surunkali obstruktiv o’pka kasalligi (SOO’K)",
+    "text": "Surunkali obstruktiv öpka kasalligi (SOÖK)",
     "id": "ch40-s-62-surunkali-obstruktiv-opka-kasalligi-sook",
     "bid": "ch40-u62"
    },
@@ -954,27 +954,27 @@
     "ordered": false,
     "items": [
      {
-      "text": "Ko’p yil chekuvchilarda bronxial obstruksiya, havo tutilishi va **emfizema** rivojlanadi, alveola devorlari yemiriladi.",
+      "text": "Köp yil çekuvçilarda bronxial obstruksiya, havo tutilişi va **emfizema** rivojlanadi, alveola devorlari yemiriladi.",
       "depth": 0
      },
      {
-      "text": "**Ikki xil buzilish:**",
+      "text": "**Ikki xil buziliş:**",
       "depth": 0
      },
      {
-      "text": "To’silgan bronxiolalar ortidagi alveolalar ventilyatsiyalanmaydi: **V̇A/Q̇ → 0** (shunt).",
+      "text": "Tösilgan bronxiolalar ortidagi alveolalar ventilyatsiyalanmaydi: **V̇A/Q̇ → 0** (shunt).",
       "depth": 1
      },
      {
-      "text": "Devorlari yemirilgan, lekin ventilyatsiyalanadigan sohalarda qon oqimi yetarli emas: **o’lik bo’shliq**.",
+      "text": "Devorlari yemirilgan, lekin ventilyatsiyalanadigan sohalarda qon oqimi yetarli emas: **ölik böşliq**.",
       "depth": 1
      },
      {
-      "text": "O’pkaning gaz almashinuvi samaradorligi **1/10** gacha tushishi mumkin.",
+      "text": "Öpkaning gaz almaşinuvi samaradorligi **1/10** gaça tuşişi mumkin.",
       "depth": 0
      },
      {
-      "text": "Bu bugungi kunda **o’pka nogironligining eng ko’p sababi**.",
+      "text": "Bu bugungi kunda **öpka nogironligining eng köp sababi**.",
       "depth": 0
      }
     ],
@@ -992,23 +992,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Diffuziya buzilishi:** o’pka shishi va fibroz qalinlikni oshiradi; emfizema va pnevmonektomiya yuzani kamaytiradi.",
+      "text": "**Diffuziya buzilişi:** öpka şişi va fibroz qalinlikni oşiradi; emfizema va pnevmonektomiya yuzani kamaytiradi.",
       "depth": 0
      },
      {
-      "text": "**DLCO** klinikada diffuziya sig’imini baholash testi.",
+      "text": "**DLCO** klinikada diffuziya siğimini baholaş testi.",
       "depth": 0
      },
      {
-      "text": "**CO₂ juda tez diffuziyalanadi:** diffuziya buzilishi avval **gipoksemiya** beradi, giperkapniya kechroq paydo bo’ladi. Bu xulosa koeffitsientlar farqidan kelib chiqadi.",
+      "text": "**CO₂ juda tez diffuziyalanadi:** diffuziya buzilişi avval **gipoksemiya** beradi, giperkapniya keçroq paydo böladi. Bu xulosa koeffitsientlar farqidan kelib çiqadi.",
       "depth": 0
      },
      {
-      "text": "**V̇A/Q̇ nomuvofiqligi** gipoksemiyaning eng ko’p sababi (SOO’K).",
+      "text": "**V̇A/Q̇ nomuvofiqligi** gipoksemiyaning eng köp sababi (SOÖK).",
       "depth": 0
      },
      {
-      "text": "Dengiz sathida havo bilan nafas olganda PAO₂ ≤149 mm Hg; undan yuqori uchun qo’shimcha O₂ kerak.",
+      "text": "Dengiz sathida havo bilan nafas olganda PAO₂ ≤149 mm Hg; undan yuqori uçun qöşimça O₂ kerak.",
       "depth": 0
      }
     ],
@@ -1017,7 +1017,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Bog’liqlik",
+    "text": "Boğliqlik",
     "id": "ch40-s-66-bogliqlik",
     "bid": "ch40-u66"
    },
@@ -1026,23 +1026,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "**38-bob:** alveolyar ventilyatsiya, o’lik bo’shliq, FRC.",
+      "text": "**38-bob:** alveolyar ventilyatsiya, ölik böşliq, FRC.",
       "depth": 0
      },
      {
-      "text": "**39-bob:** o’pka qon oqimi zonalari, gipoksik vazokonstriksiya, o’pka shishi.",
+      "text": "**39-bob:** öpka qon oqimi zonalari, gipoksik vazokonstriksiya, öpka şişi.",
       "depth": 0
      },
      {
-      "text": "**41-bob:** qonda O₂ va CO₂ tashilishi, venoz qon gazlari.",
+      "text": "**41-bob:** qonda O₂ va CO₂ taşilişi, venoz qon gazlari.",
       "depth": 0
      },
      {
-      "text": "**42-bob:** nafas boshqaruvi.",
+      "text": "**42-bob:** nafas boşqaruvi.",
       "depth": 0
      },
      {
-      "text": "**43-bob:** emfizema, SOO’K, pnevmoniya.",
+      "text": "**43-bob:** emfizema, SOÖK, pnevmoniya.",
       "depth": 0
      },
      {
@@ -1050,11 +1050,11 @@
       "depth": 0
      },
      {
-      "text": "**45-bob:** sho’ng’ish.",
+      "text": "**45-bob:** şönğiş.",
       "depth": 0
      },
      {
-      "text": "**85-bob:** jismoniy ishda nafas.",
+      "text": "**85-bob:** jismoniy işda nafas.",
       "depth": 0
      }
     ],
@@ -1696,7 +1696,7 @@
    "id": "ch40-t-diffuziya",
    "termUz": "diffuziya",
    "original": null,
-   "contextUz": "Gaz almashinuvi passiv diffuziya orqali bo’ladi.",
+   "contextUz": "Gaz almaşinuvi passiv diffuziya orqali böladi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -1706,7 +1706,7 @@
    "id": "ch40-t-parsial-bosimi",
    "termUz": "parsial bosimi",
    "original": null,
-   "contextUz": "Har bir gaz o’zining parsial bosimi yuqori joydan past joyga o’tadi.",
+   "contextUz": "Har bir gaz özining parsial bosimi yuqori joydan past joyga ötadi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -1716,7 +1716,7 @@
    "id": "ch40-t-ventilyatsiya-va-perfuziya-nisbati-v-a-q",
    "termUz": "ventilyatsiya va perfuziya nisbati (V̇A/Q̇)",
    "original": null,
-   "contextUz": "Gaz almashinuvi samaradorligining asosiy omili har bir alveolada ventilyatsiya va perfuziya nisbati (V̇A/Q̇) ning mosligi.",
+   "contextUz": "Gaz almaşinuvi samaradorligining asosiy omili har bir alveolada ventilyatsiya va perfuziya nisbati (V̇A/Q̇) ning mosligi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -1736,7 +1736,7 @@
    "id": "ch40-t-sof-diffuziya",
    "termUz": "Sof diffuziya",
    "original": null,
-   "contextUz": "Sof diffuziya: konsentratsiyasi yuqori tomondan past tomonga, chunki u yerdan ko’proq molekula harakatlanadi.",
+   "contextUz": "Sof diffuziya: konsentratsiyasi yuqori tomondan past tomonga, çunki u yerdan köproq molekula harakatlanadi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -1746,7 +1746,7 @@
    "id": "ch40-t-parsial-bosim",
    "termUz": "Parsial bosim",
    "original": null,
-   "contextUz": "Parsial bosim: bosim molekulalar zarbidan hosil bo’ladi va konsentratsiyaga proporsional.",
+   "contextUz": "Parsial bosim: bosim molekulalar zarbidan hosil böladi va konsentratsiyaga proporsional.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -1766,7 +1766,7 @@
    "id": "ch40-t-genri-qonuni",
    "termUz": "Genri qonuni",
    "original": null,
-   "contextUz": "Genri qonuni: Parsial bosim = Erigan gaz konsentratsiyasi / Eruvchanlik koeffitsienti",
+   "contextUz": "Genri qonuni: Parsial bosim = Erigan gaz konsentratsiyasi / Eruvçanlik koeffitsienti",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -1776,7 +1776,7 @@
    "id": "ch40-t-co",
    "termUz": "CO₂",
    "original": null,
-   "contextUz": "Gaz Eruvchanlik koeffitsienti (37°C) O₂ 0,024 CO₂ 0,57 CO 0,018 N₂ 0,012 He 0,008",
+   "contextUz": "Gaz Eruvçanlik koeffitsienti (37°C) O₂ 0,024 CO₂ 0,57 CO 0,018 N₂ 0,012 He 0,008",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -1784,9 +1784,9 @@
   },
   {
    "id": "ch40-t-20-marta-kop-eriydi",
-   "termUz": "20 marta ko’p eriydi",
+   "termUz": "20 marta köp eriydi",
    "original": null,
-   "contextUz": "CO₂ O₂ dan 20 marta ko’p eriydi.",
+   "contextUz": "CO₂ O₂ dan 20 marta köp eriydi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -1794,9 +1794,9 @@
   },
   {
    "id": "ch40-t-gaz-fazasi-va-eritma-ortasida",
-   "termUz": "Gaz fazasi va eritma o’rtasida",
+   "termUz": "Gaz fazasi va eritma örtasida",
    "original": null,
-   "contextUz": "Gaz fazasi va eritma o’rtasida: sof diffuziya yo’nalishini ikki parsial bosim farqi belgilaydi.",
+   "contextUz": "Gaz fazasi va eritma örtasida: sof diffuziya yönalişini ikki parsial bosim farqi belgilaydi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -1804,9 +1804,9 @@
   },
   {
    "id": "ch40-t-suv-bugi-bosimi",
-   "termUz": "Suv bug’i bosimi",
+   "termUz": "Suv buği bosimi",
    "original": null,
-   "contextUz": "Suv bug’i bosimi:",
+   "contextUz": "Suv buği bosimi:",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -1854,9 +1854,9 @@
   },
   {
    "id": "ch40-t-toqimalar-orqali-diffuziya",
-   "termUz": "To’qimalar orqali diffuziya",
+   "termUz": "Töqimalar orqali diffuziya",
    "original": null,
-   "contextUz": "To’qimalar orqali diffuziya: nafas gazlari lipidlarda yaxshi eriydi, shuning uchun hujayra membranasi to’siq emas.",
+   "contextUz": "Töqimalar orqali diffuziya: nafas gazlari lipidlarda yaxşi eriydi, şuning uçun hujayra membranasi tösiq emas.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -1864,9 +1864,9 @@
   },
   {
    "id": "ch40-t-jadval-40-1-dengiz-sathida-mm-hg-qavs-ichida",
-   "termUz": "Jadval 40-1 (dengiz sathida, mm Hg; qavs ichida %)",
+   "termUz": "Jadval 40-1 (dengiz sathida, mm Hg; qavs içida %)",
    "original": null,
-   "contextUz": "Jadval 40-1 (dengiz sathida, mm Hg; qavs ichida %)",
+   "contextUz": "Jadval 40-1 (dengiz sathida, mm Hg; qavs içida %)",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -1874,9 +1874,9 @@
   },
   {
    "id": "ch40-t-alveola-havosi-atmosferanikidan-farq-qilishining-4-sababi",
-   "termUz": "Alveola havosi atmosferanikidan farq qilishining 4 sababi",
+   "termUz": "Alveola havosi atmosferanikidan farq qilişining 4 sababi",
    "original": null,
-   "contextUz": "Alveola havosi atmosferanikidan farq qilishining 4 sababi:",
+   "contextUz": "Alveola havosi atmosferanikidan farq qilişining 4 sababi:",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -1884,9 +1884,9 @@
   },
   {
    "id": "ch40-t-namlanish",
-   "termUz": "Namlanish",
+   "termUz": "Namlaniş",
    "original": null,
-   "contextUz": "Namlanish: umumiy bosim 760 dan oshmaydi, shuning uchun suv bug’i (47) boshqa gazlarni suyultiradi.",
+   "contextUz": "Namlaniş: umumiy bosim 760 dan oşmaydi, şuning uçun suv buği (47) boşqa gazlarni suyultiradi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -1894,9 +1894,9 @@
   },
   {
    "id": "ch40-t-alveola-havosining-sekin-yangilanishi",
-   "termUz": "Alveola havosining sekin yangilanishi",
+   "termUz": "Alveola havosining sekin yangilanişi",
    "original": null,
-   "contextUz": "Alveola havosining sekin yangilanishi:",
+   "contextUz": "Alveola havosining sekin yangilanişi:",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -1916,7 +1916,7 @@
    "id": "ch40-t-1-7",
    "termUz": "1/7",
    "original": null,
-   "contextUz": "Demak har nafasda alveola havosining faqat ~1/7 qismi almashadi.",
+   "contextUz": "Demak har nafasda alveola havosining faqat ~1/7 qismi almaşadi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -1926,7 +1926,7 @@
    "id": "ch40-t-yarmi-17-s",
    "termUz": "yarmi 17 s",
    "original": null,
-   "contextUz": "Normal alveolyar ventilyatsiyada gazning yarmi 17 s da chiqariladi.",
+   "contextUz": "Normal alveolyar ventilyatsiyada gazning yarmi 17 s da çiqariladi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -1936,7 +1936,7 @@
    "id": "ch40-t-manosi",
    "termUz": "Ma’nosi",
    "original": null,
-   "contextUz": "Ma’nosi: qon gaz konsentratsiyasi to’satdan o’zgarmaydi.",
+   "contextUz": "Ma’nosi: qon gaz konsentratsiyasi tösatdan özgarmaydi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -1946,7 +1946,7 @@
    "id": "ch40-t-po-ni-ikki-narsa-belgilaydi",
    "termUz": "PO₂ ni ikki narsa belgilaydi",
    "original": null,
-   "contextUz": "PO₂ ni ikki narsa belgilaydi: (1) O₂ ning qonga yutilish tezligi; (2) yangi O₂ ning ventilyatsiya bilan kirish tezligi.",
+   "contextUz": "PO₂ ni ikki narsa belgilaydi: (1) O₂ ning qonga yutiliş tezligi; (2) yangi O₂ ning ventilyatsiya bilan kiriş tezligi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -1954,9 +1954,9 @@
   },
   {
    "id": "ch40-t-normal-ishchi-nuqta-a",
-   "termUz": "Normal ishchi nuqta (A)",
+   "termUz": "Normal işçi nuqta (A)",
    "original": null,
-   "contextUz": "Normal ishchi nuqta (A): V̇A = 4,2 l/min, O₂ iste’moli 250 ml/min, PAO₂ = 104 mm Hg.",
+   "contextUz": "Normal işçi nuqta (A): V̇A = 4,2 l/min, O₂ iste’moli 250 ml/min, PAO₂ = 104 mm Hg.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -1966,7 +1966,7 @@
    "id": "ch40-t-104-mm-hg",
    "termUz": "104 mm Hg",
    "original": null,
-   "contextUz": "Normal ishchi nuqta (A): V̇A = 4,2 l/min, O₂ iste’moli 250 ml/min, PAO₂ = 104 mm Hg.",
+   "contextUz": "Normal işçi nuqta (A): V̇A = 4,2 l/min, O₂ iste’moli 250 ml/min, PAO₂ = 104 mm Hg.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -1976,7 +1976,7 @@
    "id": "ch40-t-4-marta",
    "termUz": "4 marta",
    "original": null,
-   "contextUz": "O’rtacha jismoniy ishda (1000 ml O₂/min) PAO₂ ni 104 da saqlash uchun alveolyar ventilyatsiya 4 marta ortishi kerak.",
+   "contextUz": "Örtaça jismoniy işda (1000 ml O₂/min) PAO₂ ni 104 da saqlaş uçun alveolyar ventilyatsiya 4 marta ortişi kerak.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -1986,7 +1986,7 @@
    "id": "ch40-t-149-mm-hg",
    "termUz": "149 mm Hg",
    "original": null,
-   "contextUz": "Oddiy havoda dengiz sathida PAO₂ hech qachon 149 mm Hg dan oshmaydi (namlangan havo maksimumi).",
+   "contextUz": "Oddiy havoda dengiz sathida PAO₂ heç qaçon 149 mm Hg dan oşmaydi (namlangan havo maksimumi).",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2006,7 +2006,7 @@
    "id": "ch40-t-40-mm-hg",
    "termUz": "40 mm Hg",
    "original": null,
-   "contextUz": "Normal: CO₂ chiqarish 200 ml/min, V̇A 4,2 l/min, PACO₂ = 40 mm Hg.",
+   "contextUz": "Normal: CO₂ çiqariş 200 ml/min, V̇A 4,2 l/min, PACO₂ = 40 mm Hg.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2014,9 +2014,9 @@
   },
   {
    "id": "ch40-t-togri-proporsional",
-   "termUz": "to’g’ri proporsional",
+   "termUz": "töğri proporsional",
    "original": "800 ml/min da egri chiziq 4 marta yuqorida",
-   "contextUz": "CO₂ chiqarish tezligiga to’g’ri proporsional (800 ml/min da egri chiziq 4 marta yuqorida).",
+   "contextUz": "CO₂ çiqariş tezligiga töğri proporsional (800 ml/min da egri çiziq 4 marta yuqorida).",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2034,9 +2034,9 @@
   },
   {
    "id": "ch40-t-chiqarilgan-havo",
-   "termUz": "Chiqarilgan havo",
+   "termUz": "Çiqarilgan havo",
    "original": null,
-   "contextUz": "Chiqarilgan havo o’lik bo’shliq havosi va alveola havosining aralashmasi.",
+   "contextUz": "Çiqarilgan havo ölik böşliq havosi va alveola havosining aralaşmasi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2044,9 +2044,9 @@
   },
   {
    "id": "ch40-t-kuchli-nafas-chiqarishning-oxirgi-qismi",
-   "termUz": "kuchli nafas chiqarishning oxirgi qismi",
+   "termUz": "kuçli nafas çiqarişning oxirgi qismi",
    "original": null,
-   "contextUz": "Alveola havosini tekshirish uchun kuchli nafas chiqarishning oxirgi qismi olinadi.",
+   "contextUz": "Alveola havosini tekşiriş uçun kuçli nafas çiqarişning oxirgi qismi olinadi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2056,7 +2056,7 @@
    "id": "ch40-t-respirator-birlik-lobula",
    "termUz": "Respirator birlik (lobula)",
    "original": null,
-   "contextUz": "Respirator birlik (lobula): respirator bronxiola, alveolyar yo’llar, atriumlar va alveolalar.",
+   "contextUz": "Respirator birlik (lobula): respirator bronxiola, alveolyar yöllar, atriumlar va alveolalar.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2066,7 +2066,7 @@
    "id": "ch40-t-300-million-alveola",
    "termUz": "300 million alveola",
    "original": null,
-   "contextUz": "Ikkala o’pkada ~300 million alveola, har birining diametri ~0,2 mm.",
+   "contextUz": "Ikkala öpkada ~300 million alveola, har birining diametri ~0,2 mm.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2076,7 +2076,7 @@
    "id": "ch40-t-0-2-mm",
    "termUz": "0,2 mm",
    "original": null,
-   "contextUz": "Ikkala o’pkada ~300 million alveola, har birining diametri ~0,2 mm.",
+   "contextUz": "Ikkala öpkada ~300 million alveola, har birining diametri ~0,2 mm.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2096,7 +2096,7 @@
    "id": "ch40-t-0-2-m",
    "termUz": "0,2 µm",
    "original": null,
-   "contextUz": "Ko’rsatkich Qiymat Qalinligi eng yupqa joyda 0,2 µm, o’rtacha 0,6 µm Umumiy yuzasi ~70 m² (sog’lom erkakda), 25 × 30 futli xona poli o’lchami Kapillyarlardagi qon 60–140 ml Kapillyar diametri ~5 µm: eritrotsit siqilib o’tadi va membranasi kapillyar devoriga tegadi, gazlar plazmadan deyarli o’tmaydi",
+   "contextUz": "Körsatkiç Qiymat Qalinligi eng yupqa joyda 0,2 µm, örtaça 0,6 µm Umumiy yuzasi ~70 m² (soğlom erkakda), 25 × 30 futli xona poli ölçami Kapillyarlardagi qon 60–140 ml Kapillyar diametri ~5 µm: eritrotsit siqilib ötadi va membranasi kapillyar devoriga tegadi, gazlar plazmadan deyarli ötmaydi",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2106,7 +2106,7 @@
    "id": "ch40-t-0-6-m",
    "termUz": "0,6 µm",
    "original": null,
-   "contextUz": "Ko’rsatkich Qiymat Qalinligi eng yupqa joyda 0,2 µm, o’rtacha 0,6 µm Umumiy yuzasi ~70 m² (sog’lom erkakda), 25 × 30 futli xona poli o’lchami Kapillyarlardagi qon 60–140 ml Kapillyar diametri ~5 µm: eritrotsit siqilib o’tadi va membranasi kapillyar devoriga tegadi, gazlar plazmadan deyarli o’tmaydi",
+   "contextUz": "Körsatkiç Qiymat Qalinligi eng yupqa joyda 0,2 µm, örtaça 0,6 µm Umumiy yuzasi ~70 m² (soğlom erkakda), 25 × 30 futli xona poli ölçami Kapillyarlardagi qon 60–140 ml Kapillyar diametri ~5 µm: eritrotsit siqilib ötadi va membranasi kapillyar devoriga tegadi, gazlar plazmadan deyarli ötmaydi",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2115,8 +2115,8 @@
   {
    "id": "ch40-t-70-m",
    "termUz": "70 m²",
-   "original": "sog’lom erkakda",
-   "contextUz": "Ko’rsatkich Qiymat Qalinligi eng yupqa joyda 0,2 µm, o’rtacha 0,6 µm Umumiy yuzasi ~70 m² (sog’lom erkakda), 25 × 30 futli xona poli o’lchami Kapillyarlardagi qon 60–140 ml Kapillyar diametri ~5 µm: eritrotsit siqilib o’tadi va membranasi kapillyar devoriga tegadi, gazlar plazmadan deyarli o’tmaydi",
+   "original": "sog‘lom erkakda",
+   "contextUz": "Körsatkiç Qiymat Qalinligi eng yupqa joyda 0,2 µm, örtaça 0,6 µm Umumiy yuzasi ~70 m² (soğlom erkakda), 25 × 30 futli xona poli ölçami Kapillyarlardagi qon 60–140 ml Kapillyar diametri ~5 µm: eritrotsit siqilib ötadi va membranasi kapillyar devoriga tegadi, gazlar plazmadan deyarli ötmaydi",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2126,7 +2126,7 @@
    "id": "ch40-t-60-140-ml",
    "termUz": "60–140 ml",
    "original": null,
-   "contextUz": "Ko’rsatkich Qiymat Qalinligi eng yupqa joyda 0,2 µm, o’rtacha 0,6 µm Umumiy yuzasi ~70 m² (sog’lom erkakda), 25 × 30 futli xona poli o’lchami Kapillyarlardagi qon 60–140 ml Kapillyar diametri ~5 µm: eritrotsit siqilib o’tadi va membranasi kapillyar devoriga tegadi, gazlar plazmadan deyarli o’tmaydi",
+   "contextUz": "Körsatkiç Qiymat Qalinligi eng yupqa joyda 0,2 µm, örtaça 0,6 µm Umumiy yuzasi ~70 m² (soğlom erkakda), 25 × 30 futli xona poli ölçami Kapillyarlardagi qon 60–140 ml Kapillyar diametri ~5 µm: eritrotsit siqilib ötadi va membranasi kapillyar devoriga tegadi, gazlar plazmadan deyarli ötmaydi",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2136,7 +2136,7 @@
    "id": "ch40-t-5-m",
    "termUz": "5 µm",
    "original": null,
-   "contextUz": "Ko’rsatkich Qiymat Qalinligi eng yupqa joyda 0,2 µm, o’rtacha 0,6 µm Umumiy yuzasi ~70 m² (sog’lom erkakda), 25 × 30 futli xona poli o’lchami Kapillyarlardagi qon 60–140 ml Kapillyar diametri ~5 µm: eritrotsit siqilib o’tadi va membranasi kapillyar devoriga tegadi, gazlar plazmadan deyarli o’tmaydi",
+   "contextUz": "Körsatkiç Qiymat Qalinligi eng yupqa joyda 0,2 µm, örtaça 0,6 µm Umumiy yuzasi ~70 m² (soğlom erkakda), 25 × 30 futli xona poli ölçami Kapillyarlardagi qon 60–140 ml Kapillyar diametri ~5 µm: eritrotsit siqilib ötadi va membranasi kapillyar devoriga tegadi, gazlar plazmadan deyarli ötmaydi",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2146,7 +2146,7 @@
    "id": "ch40-t-membrana-qalinligi",
    "termUz": "Membrana qalinligi",
    "original": null,
-   "contextUz": "Membrana qalinligi: shish suyuqligi (interstitsiy yoki alveolada) yoki o’pka fibrozi qalinlashtiradi.",
+   "contextUz": "Membrana qalinligi: şiş suyuqligi (interstitsiy yoki alveolada) yoki öpka fibrozi qalinlaştiradi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2156,7 +2156,7 @@
    "id": "ch40-t-fibrozi",
    "termUz": "fibrozi",
    "original": null,
-   "contextUz": "Membrana qalinligi: shish suyuqligi (interstitsiy yoki alveolada) yoki o’pka fibrozi qalinlashtiradi.",
+   "contextUz": "Membrana qalinligi: şiş suyuqligi (interstitsiy yoki alveolada) yoki öpka fibrozi qalinlaştiradi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2166,7 +2166,7 @@
    "id": "ch40-t-2-3-marta",
    "termUz": ">2–3 marta",
    "original": null,
-   "contextUz": "Tezlik qalinlikka teskari proporsional; qalinlik >2–3 marta ortsa, almashinuv sezilarli buziladi.",
+   "contextUz": "Tezlik qalinlikka teskari proporsional; qalinlik >2–3 marta ortsa, almaşinuv sezilarli buziladi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2176,7 +2176,7 @@
    "id": "ch40-t-yuza",
    "termUz": "Yuza",
    "original": null,
-   "contextUz": "Yuza: Bitta o’pkani olib tashlash yuzani yarmiga tushiradi.",
+   "contextUz": "Yuza: Bitta öpkani olib taşlaş yuzani yarmiga tuşiradi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2186,7 +2186,7 @@
    "id": "ch40-t-emfizemada",
    "termUz": "Emfizemada",
    "original": null,
-   "contextUz": "Emfizemada alveolalar qo’shilib, devorlar yemiriladi, yuza 5 martagacha kamayadi.",
+   "contextUz": "Emfizemada alveolalar qöşilib, devorlar yemiriladi, yuza 5 martagaça kamayadi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2194,9 +2194,9 @@
   },
   {
    "id": "ch40-t-5-martagacha",
-   "termUz": "5 martagacha",
+   "termUz": "5 martagaça",
    "original": null,
-   "contextUz": "Emfizemada alveolalar qo’shilib, devorlar yemiriladi, yuza 5 martagacha kamayadi.",
+   "contextUz": "Emfizemada alveolalar qöşilib, devorlar yemiriladi, yuza 5 martagaça kamayadi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2206,7 +2206,7 @@
    "id": "ch40-t-1-3-1-4",
    "termUz": "1/3–1/4",
    "original": null,
-   "contextUz": "Yuza 1/3–1/4 gacha kamaysa, almashinuv tinch holatda ham buziladi.",
+   "contextUz": "Yuza 1/3–1/4 gaça kamaysa, almaşinuv tinç holatda ham buziladi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2246,7 +2246,7 @@
    "id": "ch40-t-tarif",
    "termUz": "Ta’rif",
    "original": null,
-   "contextUz": "Ta’rif: 1 mm Hg bosim farqida membranadan bir daqiqada o’tadigan gaz hajmi.",
+   "contextUz": "Ta’rif: 1 mm Hg bosim farqida membranadan bir daqiqada ötadigan gaz hajmi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2254,9 +2254,9 @@
   },
   {
    "id": "ch40-t-o-uchun-yosh-erkak-tinch-holat",
-   "termUz": "O₂ uchun (yosh erkak, tinch holat)",
+   "termUz": "O₂ uçun (yoş erkak, tinç holat)",
    "original": null,
-   "contextUz": "O₂ uchun (yosh erkak, tinch holat):",
+   "contextUz": "O₂ uçun (yoş erkak, tinç holat):",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2276,7 +2276,7 @@
    "id": "ch40-t-230-ml-o-min",
    "termUz": "230 ml O₂/min",
    "original": null,
-   "contextUz": "11 × 21 ≈ 230 ml O₂/min, bu tananing tinch holatdagi O₂ iste’moliga teng.",
+   "contextUz": "11 × 21 ≈ 230 ml O₂/min, bu tananing tinç holatdagi O₂ iste’moliga teng.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2284,9 +2284,9 @@
   },
   {
    "id": "ch40-t-jismoniy-ishda-3-marta",
-   "termUz": "Jismoniy ishda ~3 marta",
+   "termUz": "Jismoniy işda ~3 marta",
    "original": null,
-   "contextUz": "Jismoniy ishda ~3 marta ortadi:",
+   "contextUz": "Jismoniy işda ~3 marta ortadi:",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2296,7 +2296,7 @@
    "id": "ch40-t-v-a-q-mosligi",
    "termUz": "V̇A/Q̇ mosligi",
    "original": null,
-   "contextUz": "V̇A/Q̇ mosligi yaxshilanadi.",
+   "contextUz": "V̇A/Q̇ mosligi yaxşilanadi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2304,9 +2304,9 @@
   },
   {
    "id": "ch40-t-co-uchun",
-   "termUz": "CO₂ uchun",
+   "termUz": "CO₂ uçun",
    "original": null,
-   "contextUz": "CO₂ uchun: hech qachon o’lchanmagan.",
+   "contextUz": "CO₂ uçun: heç qaçon ölçanmagan.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2316,7 +2316,7 @@
    "id": "ch40-t-1-mm-hg",
    "termUz": "<1 mm Hg",
    "original": null,
-   "contextUz": "Sababi: o’pka qoni va alveola PCO₂ farqi <1 mm Hg, bu juda kichik.",
+   "contextUz": "Sababi: öpka qoni va alveola PCO₂ farqi <1 mm Hg, bu juda kiçik.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2326,7 +2326,7 @@
    "id": "ch40-t-1200-1300-ml-min-mm-hg",
    "termUz": "1200–1300 ml/min/mm Hg",
    "original": null,
-   "contextUz": "Diffuziya koeffitsientiga asoslangan hisob bo’yicha tinch holatda 400–450, ishda 1200–1300 ml/min/mm Hg.",
+   "contextUz": "Diffuziya koeffitsientiga asoslangan hisob böyiça tinç holatda 400–450, işda 1200–1300 ml/min/mm Hg.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2334,9 +2334,9 @@
   },
   {
    "id": "ch40-t-co-usuli-bilan-olchash",
-   "termUz": "CO usuli bilan o’lchash",
+   "termUz": "CO usuli bilan ölçaş",
    "original": null,
-   "contextUz": "CO usuli bilan o’lchash:",
+   "contextUz": "CO usuli bilan ölçaş:",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2366,7 +2366,7 @@
    "id": "ch40-t-turli",
    "termUz": "turli",
    "original": null,
-   "contextUz": "Umumiy ventilyatsiya va umumiy qon oqimi normal bo’lsa ham, ular o’pkaning turli qismlariga borsa, og’ir nafas yetishmovchiligi bo’lishi mumkin.",
+   "contextUz": "Umumiy ventilyatsiya va umumiy qon oqimi normal bölsa ham, ular öpkaning turli qismlariga borsa, oğir nafas yetişmovçiligi bölişi mumkin.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2374,9 +2374,9 @@
   },
   {
    "id": "ch40-t-ventilyatsiya-yoq-perfuziya-bor-venoz-qon-bilan-muvozanatda-",
-   "termUz": "(ventilyatsiya yo’q, perfuziya bor) venoz qon bilan muvozanatda: PO₂",
+   "termUz": "(ventilyatsiya yöq, perfuziya bor) venoz qon bilan muvozanatda: PO₂",
    "original": null,
-   "contextUz": "V̇A/Q̇ Alveola gazlari Ma’nosi 0 (ventilyatsiya yo’q, perfuziya bor) venoz qon bilan muvozanatda: PO₂ 40, PCO₂ 45 shunt Normal PO₂ 104, PCO₂ 40 optimal almashinuv ∞ (ventilyatsiya bor, perfuziya yo’q) namlangan nafas havosiga teng: PO₂ 149, PCO₂ 0 o’lik bo’shliq",
+   "contextUz": "V̇A/Q̇ Alveola gazlari Ma’nosi 0 (ventilyatsiya yöq, perfuziya bor) venoz qon bilan muvozanatda: PO₂ 40, PCO₂ 45 shunt Normal PO₂ 104, PCO₂ 40 optimal almaşinuv ∞ (ventilyatsiya bor, perfuziya yöq) namlangan nafas havosiga teng: PO₂ 149, PCO₂ 0 ölik böşliq",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2386,7 +2386,7 @@
    "id": "ch40-t-pco",
    "termUz": ", PCO₂",
    "original": null,
-   "contextUz": "V̇A/Q̇ Alveola gazlari Ma’nosi 0 (ventilyatsiya yo’q, perfuziya bor) venoz qon bilan muvozanatda: PO₂ 40, PCO₂ 45 shunt Normal PO₂ 104, PCO₂ 40 optimal almashinuv ∞ (ventilyatsiya bor, perfuziya yo’q) namlangan nafas havosiga teng: PO₂ 149, PCO₂ 0 o’lik bo’shliq",
+   "contextUz": "V̇A/Q̇ Alveola gazlari Ma’nosi 0 (ventilyatsiya yöq, perfuziya bor) venoz qon bilan muvozanatda: PO₂ 40, PCO₂ 45 shunt Normal PO₂ 104, PCO₂ 40 optimal almaşinuv ∞ (ventilyatsiya bor, perfuziya yöq) namlangan nafas havosiga teng: PO₂ 149, PCO₂ 0 ölik böşliq",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2396,7 +2396,7 @@
    "id": "ch40-t-shunt",
    "termUz": "shunt",
    "original": null,
-   "contextUz": "V̇A/Q̇ Alveola gazlari Ma’nosi 0 (ventilyatsiya yo’q, perfuziya bor) venoz qon bilan muvozanatda: PO₂ 40, PCO₂ 45 shunt Normal PO₂ 104, PCO₂ 40 optimal almashinuv ∞ (ventilyatsiya bor, perfuziya yo’q) namlangan nafas havosiga teng: PO₂ 149, PCO₂ 0 o’lik bo’shliq",
+   "contextUz": "V̇A/Q̇ Alveola gazlari Ma’nosi 0 (ventilyatsiya yöq, perfuziya bor) venoz qon bilan muvozanatda: PO₂ 40, PCO₂ 45 shunt Normal PO₂ 104, PCO₂ 40 optimal almaşinuv ∞ (ventilyatsiya bor, perfuziya yöq) namlangan nafas havosiga teng: PO₂ 149, PCO₂ 0 ölik böşliq",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2406,7 +2406,7 @@
    "id": "ch40-t-po",
    "termUz": "PO₂",
    "original": null,
-   "contextUz": "V̇A/Q̇ Alveola gazlari Ma’nosi 0 (ventilyatsiya yo’q, perfuziya bor) venoz qon bilan muvozanatda: PO₂ 40, PCO₂ 45 shunt Normal PO₂ 104, PCO₂ 40 optimal almashinuv ∞ (ventilyatsiya bor, perfuziya yo’q) namlangan nafas havosiga teng: PO₂ 149, PCO₂ 0 o’lik bo’shliq",
+   "contextUz": "V̇A/Q̇ Alveola gazlari Ma’nosi 0 (ventilyatsiya yöq, perfuziya bor) venoz qon bilan muvozanatda: PO₂ 40, PCO₂ 45 shunt Normal PO₂ 104, PCO₂ 40 optimal almaşinuv ∞ (ventilyatsiya bor, perfuziya yöq) namlangan nafas havosiga teng: PO₂ 149, PCO₂ 0 ölik böşliq",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2414,9 +2414,9 @@
   },
   {
    "id": "ch40-t-optimal-almashinuv",
-   "termUz": "optimal almashinuv",
+   "termUz": "optimal almaşinuv",
    "original": null,
-   "contextUz": "V̇A/Q̇ Alveola gazlari Ma’nosi 0 (ventilyatsiya yo’q, perfuziya bor) venoz qon bilan muvozanatda: PO₂ 40, PCO₂ 45 shunt Normal PO₂ 104, PCO₂ 40 optimal almashinuv ∞ (ventilyatsiya bor, perfuziya yo’q) namlangan nafas havosiga teng: PO₂ 149, PCO₂ 0 o’lik bo’shliq",
+   "contextUz": "V̇A/Q̇ Alveola gazlari Ma’nosi 0 (ventilyatsiya yöq, perfuziya bor) venoz qon bilan muvozanatda: PO₂ 40, PCO₂ 45 shunt Normal PO₂ 104, PCO₂ 40 optimal almaşinuv ∞ (ventilyatsiya bor, perfuziya yöq) namlangan nafas havosiga teng: PO₂ 149, PCO₂ 0 ölik böşliq",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2424,9 +2424,9 @@
   },
   {
    "id": "ch40-t-ventilyatsiya-bor-perfuziya-yoq-namlangan-nafas-havosiga-ten",
-   "termUz": "(ventilyatsiya bor, perfuziya yo’q) namlangan nafas havosiga teng: PO₂",
+   "termUz": "(ventilyatsiya bor, perfuziya yöq) namlangan nafas havosiga teng: PO₂",
    "original": null,
-   "contextUz": "V̇A/Q̇ Alveola gazlari Ma’nosi 0 (ventilyatsiya yo’q, perfuziya bor) venoz qon bilan muvozanatda: PO₂ 40, PCO₂ 45 shunt Normal PO₂ 104, PCO₂ 40 optimal almashinuv ∞ (ventilyatsiya bor, perfuziya yo’q) namlangan nafas havosiga teng: PO₂ 149, PCO₂ 0 o’lik bo’shliq",
+   "contextUz": "V̇A/Q̇ Alveola gazlari Ma’nosi 0 (ventilyatsiya yöq, perfuziya bor) venoz qon bilan muvozanatda: PO₂ 40, PCO₂ 45 shunt Normal PO₂ 104, PCO₂ 40 optimal almaşinuv ∞ (ventilyatsiya bor, perfuziya yöq) namlangan nafas havosiga teng: PO₂ 149, PCO₂ 0 ölik böşliq",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2436,7 +2436,7 @@
    "id": "ch40-t-po-pco-v-a-q-diagrammasi-rasm-40-11",
    "termUz": "PO₂–PCO₂ V̇A/Q̇ diagrammasi (rasm 40-11)",
    "original": null,
-   "contextUz": "PO₂–PCO₂ V̇A/Q̇ diagrammasi (rasm 40-11): venoz qon gazlari normal bo’lganda va dengiz sathida havo bilan nafas olinganda, egri chiziq V̇A/Q̇ = 0 (nuqta v̄: 40/45) dan ∞ gacha (nuqta I: 149/0) barcha mumkin bo’lgan kombinatsiyalarni ko’rsatadi.",
+   "contextUz": "PO₂–PCO₂ V̇A/Q̇ diagrammasi (rasm 40-11): venoz qon gazlari normal bölganda va dengiz sathida havo bilan nafas olinganda, egri çiziq V̇A/Q̇ = 0 (nuqta v̄: 40/45) dan ∞ gaça (nuqta I: 149/0) barça mumkin bölgan kombinatsiyalarni körsatadi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2446,7 +2446,7 @@
    "id": "ch40-t-bronxial-qon",
    "termUz": "bronxial qon",
    "original": "yurak minutlik hajmining ~2%",
-   "contextUz": "Bunga bronxial qon (yurak minutlik hajmining ~2%) qo’shiladi.",
+   "contextUz": "Bunga bronxial qon (yurak minutlik hajmining ~2%) qöşiladi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2456,7 +2456,7 @@
    "id": "ch40-t-formula",
    "termUz": "Formula",
    "original": null,
-   "contextUz": "Formula: Q̇PS / Q̇T = (CiO₂ − CaO₂) / (CiO₂ − Cv̄O₂) CiO₂: \"ideal\" V̇A/Q̇ dagi arterial O₂ konsentratsiyasi; CaO₂: o’lchangan arterial O₂; Cv̄O₂: aralash venoz O₂.",
+   "contextUz": "Formula: Q̇PS / Q̇T = (CiO₂ − CaO₂) / (CiO₂ − Cv̄O₂) CiO₂: “ideal” V̇A/Q̇ dagi arterial O₂ konsentratsiyasi; CaO₂: ölçangan arterial O₂; Cv̄O₂: aralaş venoz O₂.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2466,7 +2466,7 @@
    "id": "ch40-t-q-ps-q-t-cio-cao-cio-cv-o",
    "termUz": "Q̇PS / Q̇T = (CiO₂ − CaO₂) / (CiO₂ − Cv̄O₂)",
    "original": null,
-   "contextUz": "Formula: Q̇PS / Q̇T = (CiO₂ − CaO₂) / (CiO₂ − Cv̄O₂) CiO₂: \"ideal\" V̇A/Q̇ dagi arterial O₂ konsentratsiyasi; CaO₂: o’lchangan arterial O₂; Cv̄O₂: aralash venoz O₂.",
+   "contextUz": "Formula: Q̇PS / Q̇T = (CiO₂ − CaO₂) / (CiO₂ − Cv̄O₂) CiO₂: “ideal” V̇A/Q̇ dagi arterial O₂ konsentratsiyasi; CaO₂: ölçangan arterial O₂; Cv̄O₂: aralaş venoz O₂.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2474,9 +2474,9 @@
   },
   {
    "id": "ch40-t-fiziologik-olik-boshliq",
-   "termUz": "fiziologik o’lik bo’shliq",
+   "termUz": "fiziologik ölik böşliq",
    "original": null,
-   "contextUz": "Bunga anatomik o’lik bo’shliq qo’shiladi va fiziologik o’lik bo’shliq hosil bo’ladi.",
+   "contextUz": "Bunga anatomik ölik böşliq qöşiladi va fiziologik ölik böşliq hosil böladi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2486,7 +2486,7 @@
    "id": "ch40-t-bor-bohr-tenglamasi",
    "termUz": "Bor (Bohr) tenglamasi",
    "original": null,
-   "contextUz": "Bor (Bohr) tenglamasi: V̇Dphys / V̇T = (PaCO₂ − P̄ECO₂) / PaCO₂ P̄ECO₂: butun chiqarilgan havodagi o’rtacha PCO₂.",
+   "contextUz": "Bor (Bohr) tenglamasi: V̇Dphys / V̇T = (PaCO₂ − P̄ECO₂) / PaCO₂ P̄ECO₂: butun çiqarilgan havodagi örtaça PCO₂.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2496,7 +2496,7 @@
    "id": "ch40-t-v-dphys-v-t-paco-p-eco-paco",
    "termUz": "V̇Dphys / V̇T = (PaCO₂ − P̄ECO₂) / PaCO₂",
    "original": null,
-   "contextUz": "Bor (Bohr) tenglamasi: V̇Dphys / V̇T = (PaCO₂ − P̄ECO₂) / PaCO₂ P̄ECO₂: butun chiqarilgan havodagi o’rtacha PCO₂.",
+   "contextUz": "Bor (Bohr) tenglamasi: V̇Dphys / V̇T = (PaCO₂ − P̄ECO₂) / PaCO₂ P̄ECO₂: butun çiqarilgan havodagi örtaça PCO₂.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2504,9 +2504,9 @@
   },
   {
    "id": "ch40-t-choqqida",
-   "termUz": "Cho’qqida",
+   "termUz": "Çöqqida",
    "original": null,
-   "contextUz": "Cho’qqida V̇A/Q̇ ideal qiymatdan 2,5 marta yuqori, o’rtacha fiziologik o’lik bo’shliq bor.",
+   "contextUz": "Çöqqida V̇A/Q̇ ideal qiymatdan 2,5 marta yuqori, örtaça fiziologik ölik böşliq bor.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2516,7 +2516,7 @@
    "id": "ch40-t-2-5-marta",
    "termUz": "2,5 marta",
    "original": null,
-   "contextUz": "Cho’qqida V̇A/Q̇ ideal qiymatdan 2,5 marta yuqori, o’rtacha fiziologik o’lik bo’shliq bor.",
+   "contextUz": "Çöqqida V̇A/Q̇ ideal qiymatdan 2,5 marta yuqori, örtaça fiziologik ölik böşliq bor.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2526,7 +2526,7 @@
    "id": "ch40-t-pastda",
    "termUz": "Pastda",
    "original": null,
-   "contextUz": "Pastda V̇A/Q̇ idealning 0,6 qismigacha, kichik fiziologik shunt bor.",
+   "contextUz": "Pastda V̇A/Q̇ idealning 0,6 qismigaça, kiçik fiziologik shunt bor.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2534,9 +2534,9 @@
   },
   {
    "id": "ch40-t-jismoniy-ishda",
-   "termUz": "Jismoniy ishda",
+   "termUz": "Jismoniy işda",
    "original": null,
-   "contextUz": "Jismoniy ishda yuqori qismga qon oqimi keskin ortadi, o’lik bo’shliq kamayadi va almashinuv optimalga yaqinlashadi.",
+   "contextUz": "Jismoniy işda yuqori qismga qon oqimi keskin ortadi, ölik böşliq kamayadi va almaşinuv optimalga yaqinlaşadi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2546,7 +2546,7 @@
    "id": "ch40-t-emfizema",
    "termUz": "emfizema",
    "original": null,
-   "contextUz": "Ko’p yil chekuvchilarda bronxial obstruksiya, havo tutilishi va emfizema rivojlanadi, alveola devorlari yemiriladi.",
+   "contextUz": "Köp yil çekuvçilarda bronxial obstruksiya, havo tutilişi va emfizema rivojlanadi, alveola devorlari yemiriladi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2554,9 +2554,9 @@
   },
   {
    "id": "ch40-t-ikki-xil-buzilish",
-   "termUz": "Ikki xil buzilish",
+   "termUz": "Ikki xil buziliş",
    "original": null,
-   "contextUz": "Ikki xil buzilish: To’silgan bronxiolalar ortidagi alveolalar ventilyatsiyalanmaydi: V̇A/Q̇ → 0 (shunt).",
+   "contextUz": "Ikki xil buziliş: Tösilgan bronxiolalar ortidagi alveolalar ventilyatsiyalanmaydi: V̇A/Q̇ → 0 (shunt).",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2566,7 +2566,7 @@
    "id": "ch40-t-v-a-q-0",
    "termUz": "V̇A/Q̇ → 0",
    "original": "shunt",
-   "contextUz": "Ikki xil buzilish: To’silgan bronxiolalar ortidagi alveolalar ventilyatsiyalanmaydi: V̇A/Q̇ → 0 (shunt).",
+   "contextUz": "Ikki xil buziliş: Tösilgan bronxiolalar ortidagi alveolalar ventilyatsiyalanmaydi: V̇A/Q̇ → 0 (shunt).",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2574,9 +2574,9 @@
   },
   {
    "id": "ch40-t-olik-boshliq",
-   "termUz": "o’lik bo’shliq",
+   "termUz": "ölik böşliq",
    "original": null,
-   "contextUz": "Devorlari yemirilgan, lekin ventilyatsiyalanadigan sohalarda qon oqimi yetarli emas: o’lik bo’shliq.",
+   "contextUz": "Devorlari yemirilgan, lekin ventilyatsiyalanadigan sohalarda qon oqimi yetarli emas: ölik böşliq.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2586,7 +2586,7 @@
    "id": "ch40-t-1-10",
    "termUz": "1/10",
    "original": null,
-   "contextUz": "O’pkaning gaz almashinuvi samaradorligi 1/10 gacha tushishi mumkin.",
+   "contextUz": "Öpkaning gaz almaşinuvi samaradorligi 1/10 gaça tuşişi mumkin.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2594,9 +2594,9 @@
   },
   {
    "id": "ch40-t-opka-nogironligining-eng-kop-sababi",
-   "termUz": "o’pka nogironligining eng ko’p sababi",
+   "termUz": "öpka nogironligining eng köp sababi",
    "original": null,
-   "contextUz": "Bu bugungi kunda o’pka nogironligining eng ko’p sababi.",
+   "contextUz": "Bu bugungi kunda öpka nogironligining eng köp sababi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2604,9 +2604,9 @@
   },
   {
    "id": "ch40-t-diffuziya-buzilishi",
-   "termUz": "Diffuziya buzilishi",
+   "termUz": "Diffuziya buzilişi",
    "original": null,
-   "contextUz": "Diffuziya buzilishi: o’pka shishi va fibroz qalinlikni oshiradi; emfizema va pnevmonektomiya yuzani kamaytiradi.",
+   "contextUz": "Diffuziya buzilişi: öpka şişi va fibroz qalinlikni oşiradi; emfizema va pnevmonektomiya yuzani kamaytiradi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2616,7 +2616,7 @@
    "id": "ch40-t-dlco",
    "termUz": "DLCO",
    "original": null,
-   "contextUz": "DLCO klinikada diffuziya sig’imini baholash testi.",
+   "contextUz": "DLCO klinikada diffuziya siğimini baholaş testi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2626,7 +2626,7 @@
    "id": "ch40-t-co-juda-tez-diffuziyalanadi",
    "termUz": "CO₂ juda tez diffuziyalanadi",
    "original": null,
-   "contextUz": "CO₂ juda tez diffuziyalanadi: diffuziya buzilishi avval gipoksemiya beradi, giperkapniya kechroq paydo bo’ladi.",
+   "contextUz": "CO₂ juda tez diffuziyalanadi: diffuziya buzilişi avval gipoksemiya beradi, giperkapniya keçroq paydo böladi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2636,7 +2636,7 @@
    "id": "ch40-t-gipoksemiya",
    "termUz": "gipoksemiya",
    "original": null,
-   "contextUz": "CO₂ juda tez diffuziyalanadi: diffuziya buzilishi avval gipoksemiya beradi, giperkapniya kechroq paydo bo’ladi.",
+   "contextUz": "CO₂ juda tez diffuziyalanadi: diffuziya buzilişi avval gipoksemiya beradi, giperkapniya keçroq paydo böladi.",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",
@@ -2646,7 +2646,7 @@
    "id": "ch40-t-v-a-q-nomuvofiqligi",
    "termUz": "V̇A/Q̇ nomuvofiqligi",
    "original": null,
-   "contextUz": "V̇A/Q̇ nomuvofiqligi gipoksemiyaning eng ko’p sababi (SOO’K).",
+   "contextUz": "V̇A/Q̇ nomuvofiqligi gipoksemiyaning eng köp sababi (SOÖK).",
    "lessonId": "ch40",
    "topicId": "07",
    "source": "summaryUz",

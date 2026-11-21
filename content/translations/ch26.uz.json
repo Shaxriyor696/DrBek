@@ -1,0 +1,282 @@
+{
+ "lessonId": "ch26",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 26,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "machine",
+ "translator": "Gemini API",
+ "model": "gemini-3.5-flash-lite",
+ "createdAt": "2026-11-18T10:39:08.254Z",
+ "updatedAt": "2026-11-18T11:07:59.840Z",
+ "coverage": {
+  "translated": 88,
+  "total": 88
+ },
+ "note": "Kitob matnining töliq özbekça tarjimasi (qisqartirilmagan). Ekspert tekşiruvidan ötmagan.",
+ "blocks": {
+  "ch26-f0": {
+   "text": "Buyraklarning köp qirrali funksiyalari"
+  },
+  "ch26-f1": {
+   "text": "Köpçilik buyraklarning bitta muhim funksiyasi — organizmni taşqaridan qabul qilingan yoki metabolizm jarayonida hosil bölgan çiqindi moddalardan tozalaşni yaxşi biladi. Ayniqsa hal qiluvçi ahamiyatga ega bölgan ikkinçi funksiya — tana suyuqliklarining hajmi va elektrolit tarkibini nazorat qiliş. Organizmdagi suv va deyarli barça elektrolitlar uçun qabul qiliş (iste’mol yoki metabolik hosil böliş hisobiga) va çiqariş (ekskretsiya yoki metabolik sarflaniş hisobiga) örtasidagi muvozanatni asosan buyraklar saqlab turadi. Buyraklarning bu boşqaruv funksiyasi hujayralarning turli faoliyatlarini bajarişi uçun zarur bölgan barqaror içki muhitni saqlab turadi."
+  },
+  "ch26-f2": {
+   "text": "Buyraklar özlarining eng muhim funksiyalarini plazmani filtrlaş va organizm ehtiyojlariga qarab filtratdan moddalarni turli tezlikda çiqarib oliş orqali bajaradi. Pirovardida buyraklar keraksiz moddalarni siydik bilan çiqarib yuborib, ularni filtratdan (va demak, qondan) tozalaydi, kerakli moddalarni esa qonga qaytaradi."
+  },
+  "ch26-f3": {
+   "text": "Uşbu bob va keyingi bir neça bob asosan suv, elektrolitlar va metabolik çiqindilarning buyrak orqali ekskretsiyasini nazorat qilişga bağişlangan bölsa-da, buyraklar köplab muhim gomeostatik funksiyalarni bajaradi, jumladan: • Metabolik çiqindilar va begona kimyoviy moddalarni çiqariş • Suv va elektrolitlar muvozanatini boşqariş • Tana suyuqliklari osmolyalligi va elektrolitlar konsentratsiyasini boşqariş • Arterial bosimni boşqariş • Kislota-işqor muvozanatini boşqariş • Eritrotsitlar hosil bölişini boşqariş • Gormonlar sekretsiyasi, metabolizmi va ekskretsiyasi • Glyukoneogenez"
+  },
+  "ch26-f4": {
+   "text": "Buyraklar organizmga endi kerak bölmagan metabolik çiqindilarning köp qismini çiqarib yuborişning asosiy yöli hisoblanadi. Bu mahsulotlarga _moçevina_ (aminokislotalar metabolizmidan), _kreatinin_ (muskul kreatinidan), _siydik kislotasi_ (nuklein kislotalardan), _gemoglobin parçalanişining oxirgi mahsulotlari_ (masalan, bilirubin) va _turli gormonlarning metabolitlari_ kiradi. Bu çiqindilar organizmdan qanday tezlikda hosil bölsa, şunday tezlikda çiqarib yuborilişi kerak. Buyraklar, şuningdek, organizmda hosil böladigan yoki taşqaridan qabul qilinadigan toksinlar va boşqa begona moddalarning, masalan, pestitsidlar, dori vositalari va oziq-ovqat qöşimçalarining köp qismini çiqarib yuboradi.",
+   "lead": "Metabolik çiqindilar, begona kimyoviy moddalar, dori vositalari va gormon metabolitlarini çiqariş."
+  },
+  "ch26-f5": {
+   "text": "Gomeostazni saqlab turiş uçun suv va elektrolitlarning çiqarilişi ularning qabul qilinişiga aniq mos kelişi kerak. Agar qabul qiliş çiqarişdan oşib ketsa, organizmda şu moddaning miqdori ortadi. Agar qabul qiliş çiqarişdan kam bölsa, organizmda şu moddaning miqdori kamayadi. Qabul qiliş yoki buyrak orqali çiqarişning özgarişi bilan boğliq turli fiziologik va patofiziologik holatlarda suv va elektrolitlarning vaqtinçalik (yoki davriy) nomutanosibligi yuz berişi mumkin bölsa-da, hayotni saqlab qoliş suv va elektrolitlar muvozanatining tiklanişiga boğliq.",
+   "lead": "Suv va elektrolitlar muvozanatini boşqariş."
+  },
+  "ch26-f6": {
+   "text": "Suv va köplab elektrolitlarni qabul qiliş odatda odamning ovqatlaniş va içiş odatlari bilan belgilanadi, şuning uçun buyraklar ekskretsiya tezligini turli moddalarning qabul qilinişiga moslaştirişi talab etiladi. **Rasm 26-1** da natriy qabul qiliş 30 mEq/kun dan iborat past darajadan 300 mEq/kun dan iborat yuqori darajaga tösatdan 10 baravar oşirilganda buyraklarning javobi körsatilgan. Natriy qabul qiliş oşirilgandan keyin 2–3 kun içida buyrak orqali ekskretsiya ham taxminan 300 mEq/kun gaça ortadi va qabul qiliş bilan çiqariş örtasidagi muvozanat tezda qayta tiklanadi. Biroq buyraklar yuqori natriy qabul qilişga moslaşadigan 2–3 kun davomida natriy biroz töplanadi; bu hujayradan taşqari suyuqlik hajmini ozgina oşiradi hamda buyraklarga natriy ekskretsiyasini oşiriş haqida signal beruvçi gormonal özgarişlar va boşqa kompensator javoblarni işga tuşiradi."
+  },
+  "ch26-f8": {
+   "text": "Buyraklarning natriy qabul qiliş özgarişlariga javoban natriy ekskretsiyasini özgartiriş qobiliyati juda katta. Tajribaviy tadqiqotlar köplab odamlarda natriy qabul qilişni 1500 mEq/kun gaça (me’yordan 10 baravardan köproq) oşiriş yoki 10 mEq/kun gaça (me’yorning <0,1 qismi) kamaytiriş mumkinligini, bunda hujayradan taşqari suyuqlik hajmi yoki plazmadagi natriy konsentratsiyasi nisbatan kam özgarişini körsatgan. Bu hodisa suv va boşqa köpçilik elektrolitlar, masalan, xlor, kaliy, kalsiy, vodorod, magniy va fosfat ionlari uçun ham örinli. Keyingi bir neça bobda buyraklarga gomeostazning bunday ajoyib vazifalarini bajariş imkonini beradigan aniq mexanizmlarni muhokama qilamiz."
+  },
+  "ch26-f9": {
+   "text": "19-bobda muhokama qilinganidek, buyraklar turli miqdordagi natriy va suvni çiqariş orqali arterial bosimni uzoq muddatli boşqarişda hal qiluvçi rol öynaydi. Buyraklar, şuningdek, vazoaktiv mahsulotlar (masalan, angiotenzin II) hosil bölişiga olib keladigan gormonlar va vazoaktiv omillar yoki moddalarni (masalan, _renin_) sekretsiya qiliş orqali arterial bosimni qisqa muddatli boşqarişga ham hissa qöşadi.",
+   "lead": "Arterial bosimni boşqariş."
+  },
+  "ch26-f10": {
+   "text": "Buyraklar öpkalar va tana suyuqliklari bufer tizimlari bilan birgalikda kislotalarni çiqariş va tana suyuqliklarining bufer zaxiralarini boşqariş orqali kislota-işqor muvozanatini boşqarişga hissa qöşadi. Buyraklar oqsillar metabolizmi natijasida hosil böladigan sulfat kislota va fosfat kislota kabi ayrim turdagi kislotalarni organizmdan çiqarib yuborişning yagona yöli hisoblanadi.",
+   "lead": "Kislota-işqor muvozanatini boşqariş."
+  },
+  "ch26-f11": {
+   "text": "33-bobda muhokama qilinganidek, buyraklar _eritropoetin_ sekretsiya qiladi; u suyak kömigidagi _gemopoetik özak hujayralar_ tomonidan eritrotsitlar hosil bölişini rağbatlantiradi. Buyraklar tomonidan eritropoetin sekretsiyasining muhim stimullaridan biri — _gipoksiya_. Odatda qon aylanişiga ajraladigan eritropoetinning deyarli barçasi buyraklar hissasiga töğri keladi. Oğir buyrak kasalligi bölgan yoki buyraklari olib taşlanib, gemodializga ötkazilgan odamlarda eritropoetin işlab çiqarilişi kamaygani sababli oğir anemiya rivojlanadi.",
+   "lead": "Eritrotsitlar hosil bölişini boşqariş."
+  },
+  "ch26-f12": {
+   "text": "Buyraklar D vitaminini “1-raqamli” holatda gidroksillaş orqali uning faol şakli — 1,25-digidroksivitamin D3 (_kalsitriol_) ni hosil qiladi. Kalsitriol kalsiyning suyakda me’yoriy töplanişi va oşqozon-içak yölida kalsiyning qayta sörilişi uçun zarur. 80-bobda muhokama qilinganidek, kalsitriol kalsiy va fosfat almaşinuvini boşqarişda muhim rol öynaydi.",
+   "lead": "1,25-digidroksivitamin D3 hosil bölişini boşqariş."
+  },
+  "ch26-f13": {
+   "text": "Uzoq davom etgan oçlik paytida buyraklar aminokislotalar va boşqa ötmişdoş moddalardan glyukoza sintez qiladi; bu jarayon _glyukoneogenez_ deb ataladi. Uzoq muddatli oçlik davrida buyraklarning qonga glyukoza qöşiş qobiliyati jigarnikiga teng keladi.",
+   "lead": "Glyukoza sintezi."
+  },
+  "ch26-f14": {
+   "text": "Surunkali buyrak kasalligi yoki buyraklarning ötkir yetişmovçiligida bu gomeostatik funksiyalar buziladi va tana suyuqliklari hajmi hamda tarkibida tezda oğir özgarişlar yuzaga keladi. Buyraklar töliq işdan çiqqanda, tana suyuqliklari va elektrolitlar muvozanatini heç bölmaganda qisman tiklaş uçun gemodializ kabi klinik çoralar boşlanmasa, organizmda bir neça kun içida ölimga olib keladigan miqdorda kaliy, kislotalar, suyuqlik va boşqa moddalar töplanadi."
+  },
+  "ch26-f15": {
+   "text": "Buyraklarning fiziologik anatomiyasi"
+  },
+  "ch26-f16": {
+   "text": "Buyraklar va siydik yöllarining umumiy tuzilişi"
+  },
+  "ch26-f17": {
+   "text": "Ikkala buyrak qorin böşliğining orqa devorida, qorinparda böşliğidan taşqarida joylaşgan (**Rasm 26-2**). Voyaga yetgan odamning har bir buyragi taxminan 150 gramm oğirlikda bölib, kattaligi taxminan siqilgan muşt kattaligiga teng. Har bir buyrakning medial tomonida _darvoza_ (hilum) deb ataladigan botiq soha bor; u orqali buyrak arteriyasi va venasi, limfa tomirlari, nervlar hamda tayyor siydikni buyrakdan siydik pufagiga olib boradigan siydik yöli ötadi; siydik pufakda u böşatilgunga qadar saqlanadi. Buyrak uning nozik içki tuzilmalarini himoya qiluvçi mustahkam fibroz _kapsula_ bilan öralgan."
+  },
+  "ch26-f19": {
+   "text": "Agar buyrak yuqoridan pastga qarab ikkiga kesilsa, ikki asosiy soha — taşqi _pöstloq_ (korteks) va içki _mağiz_ (medulla) qavatlarini köriş mumkin. Mağiz qavati _buyrak piramidalari_ deb ataladigan 8–10 ta konussimon töqima massasiga bölingan. Har bir piramidaning asosi pöstloq va mağiz qavati çegarasidan boşlanadi va _sörğiç_ (papilla) bilan tugaydi; sörğiç siydik yöli yuqori uçining voronkasimon davomi bölgan _buyrak jomi_ böşliğiga turtib çiqib turadi. Jomning taşqi çegarasi _katta kosaçalar_ deb ataladigan oçiq uçli xaltaçalarga bölingan; ular pastga qarab davom etadi va _kiçik kosaçalarga_ bölinadi; kiçik kosaçalar har bir sörğiç kanalçalaridan siydikni yiğadi. Kosaçalar, jom va siydik yöli devorlarida qisqaruvçi elementlar bor; ular siydikni _siydik pufagi_ tomon haydaydi; siydik pufakda _siydik çiqariş_ (mikitsiya) orqali böşatilgunga qadar saqlanadi; bu jarayon uşbu bobning keyingi qismida muhokama qilinadi."
+  },
+  "ch26-f20": {
+   "text": "Ikkala buyrakka qon oqimi odatda yurak qon haydaşining taxminan 22% ini, ya’ni 1100 ml/min ni taşkil etadi. Buyrak arteriyasi buyrakka darvoza orqali kiradi va keyin tobora tarmoqlanib, _bölaklararo arteriyalar, yoysimon arteriyalar, bölakçalararo arteriyalar_ (_radial arteriyalar_ deb ham ataladi) va _olib keluvçi arteriolalarni_ hosil qiladi; ular _koptokça kapillyarlariga_ olib boradi, u yerda siydik hosil bölişini boşlab beriş uçun katta miqdordagi suyuqlik va erigan moddalar (plazma oqsillaridan taşqari) filtrlanadi (**Rasm 26-3**). Har bir koptokça kapillyarlarining distal uçlari birlaşib, _olib ketuvçi arteriolani_ hosil qiladi; u buyrak kanalçalarini örab turuvçi ikkinçi kapillyar tarmoq — _kanalçalar atrofi kapillyarlariga_ (peritubulyar kapillyarlarga) olib boradi."
+  },
+  "ch26-f22": {
+   "text": "Buyrak qon aylanişi ketma-ket joylaşgan va olib ketuvçi arteriolalar bilan ajratilgan ikki kapillyar tarmoq — koptokça va kanalçalar atrofi kapillyarlari mavjudligi bilan noyobdir. Bu arteriolalar ikkala kapillyar tarmoğidagi gidrostatik bosimni boşqarişga yordam beradi. Koptokça kapillyarlaridagi yuqori gidrostatik bosim (≈60 mm Hg) suyuqlikning tez filtrlanişiga sabab böladi, kanalçalar atrofi kapillyarlaridagi ança past gidrostatik bosim (≈13 mm Hg) esa suyuqlikning tez reabsorbsiyalanişiga imkon beradi. Olib keluvçi va olib ketuvçi arteriolalar qarşiligini özgartiriş orqali buyraklar koptokça va kanalçalar atrofi kapillyarlaridagi gidrostatik bosimni boşqarişi va şu orqali organizmning gomeostatik ehtiyojlariga javoban koptokça filtratsiyasi, kanalçalar reabsorbsiyasi yoki ikkalasining tezligini özgartirişi mumkin."
+  },
+  "ch26-f23": {
+   "text": "Kanalçalar atrofi kapillyarlari arteriolalarga parallel yönalgan venoz tizim tomirlariga quyiladi. Venoz tizim qon tomirlari ketma-ket _bölakçalararo vena, yoysimon vena, bölaklararo vena_ va _buyrak venasini_ hosil qiladi; buyrak venasi buyrakdan buyrak arteriyasi va siydik yöli yonidan çiqadi."
+  },
+  "ch26-f24": {
+   "text": "Nefron — buyrakning funksional birligi"
+  },
+  "ch26-f25": {
+   "text": "Odamning har bir buyragida taxminan 800 000 dan 1 000 000 tagaça _nefron_ bor; ularning har biri siydik hosil qilişga qodir."
+  },
+  "ch26-f26": {
+   "text": "Buyrak yangi nefronlarni qayta tiklay olmaydi. Şu sababli buyrak şikastlanişi, kasalligi yoki me’yoriy qariş jarayonida nefronlar soni asta-sekin kamayadi. 40 yoşdan keyin faol nefronlar soni odatda har 10 yilda taxminan 10% ga kamayadi; şunday qilib, 80 yoşga kelib köplab odamlarda faol nefronlar 40 yoşdagiga qaraganda 40% kam böladi. Bu yöqotiş hayot uçun xavfli emas, çunki 32-bobda muhokama qilinganidek, qolgan nefronlardagi moslaşuvçan özgarişlar ularga suv, elektrolitlar va çiqindilarni kerakli miqdorda çiqariş imkonini beradi."
+  },
+  "ch26-f27": {
+   "text": "Har bir nefron quyidagilardan iborat: (1) qondan katta miqdordagi suyuqlik filtrlanadigan, _koptokça_ (glomerula) deb ataladigan koptokça kapillyarlari tutami; (2) filtrlangan suyuqlik buyrak jomiga borar yölida siydikka aylanadigan uzun _kanalça_ (qarang: **Rasm 26-3**)."
+  },
+  "ch26-f28": {
+   "text": "Koptokça tarmoqlanuvçi va özaro anastomozlaşuvçi koptokça kapillyarlari tarmoğidan iborat bölib, ular boşqa kapillyarlarga qaraganda yuqori gidrostatik bosimga (≈60 mm Hg) ega. Koptokça kapillyarlari epitelial hujayralar bilan qoplangan, butun koptokça esa _Boumen kapsulasi_ içiga joylaşgan."
+  },
+  "ch26-f29": {
+   "text": "Koptokça kapillyarlaridan filtrlangan suyuqlik Boumen kapsulasiga, söngra buyrak pöstloğida joylaşgan _proksimal kanalçaga_ oqib ötadi (**Rasm 26-4**). Proksimal kanalçadan suyuqlik buyrak mağiz qavatiga botib kiradigan _Henle qovuzloğiga_ oqadi. Har bir qovuzloq _tuşuvçi_ va _kötariluvçi qism_ (tizza) dan iborat. Tuşuvçi qism va kötariluvçi qismning pastki uçi devorlari juda yupqa, şuning uçun ular _Henle qovuzloğining yupqa segmenti_ deb ataladi. Qovuzloqning kötariluvçi qismi pöstloq tomon qisman qaytgaç, uning devori ança qalinlaşadi; bu segment _kötariluvçi qismning qalin segmenti_ deb ataladi."
+  },
+  "ch26-f31": {
+   "text": "Qalin kötariluvçi qismning oxirida devorida ixtisoslaşgan epitelial hujayralardan iborat pilakça bölgan qisqa segment bor; u _ziç doğ_ (macula densa) deb ataladi. Keyinroq muhokama qilinganidek, ziç doğ nefron funksiyasini nazorat qilişda muhim rol öynaydi. Ziç doğdan keyin suyuqlik proksimal kanalça kabi buyrak pöstloğida joylaşgan _distal kanalçaga_ kiradi. Distal kanalçadan keyin _birlaştiruvçi kanalça_ va _pöstloq yiğuvçi kanalçasi_ keladi; ular _pöstloq yiğuvçi nayçasiga_ olib boradi. 8–10 ta pöstloq yiğuvçi nayçasining boşlanğiç qismlari birlaşib, mağiz qavatiga pastga qarab yönaladigan va _mağiz qavati yiğuvçi nayçasiga_ aylanadigan bitta yirikroq yiğuvçi nayçani hosil qiladi. Yiğuvçi nayçalar birlaşib, tobora yiriklaşib boradigan nayçalarni hosil qiladi; ular oxir-oqibat _buyrak sörğiçlari_ uçlari orqali buyrak jomiga quyiladi. Har bir buyrakda bunday juda yirik yiğuvçi nayçalardan taxminan 250 ta bor; ularning har biri taxminan 4000 ta nefrondan siydik yiğadi."
+  },
+  "ch26-f32": {
+   "text": "Har bir nefron yuqorida tavsiflangan barça komponentlarga ega bölsa-da, nefronning buyrak massasida qançalik çuqur joylaşganiga qarab ayrim farqlar mavjud. Koptokçalari pöstloqning taşqi qismida joylaşgan nefronlar _pöstloq nefronlari_ deb ataladi; ularning Henle qovuzloqlari kalta bölib, mağiz qavatiga faqat qisqa masofaga kirib boradi (**Rasm 26-5**).",
+   "lead": "Nefron tuzilişidagi sohaviy farqlar: pöstloq va yukstamedullyar nefronlar."
+  },
+  "ch26-f34": {
+   "text": "Nefronlarning taxminan 20–30% ining koptokçalari buyrak pöstloğining çuqur qismida, mağiz qavatiga yaqin joylaşgan; ular _yukstamedullyar nefronlar_ deb ataladi. Bu nefronlarning Henle qovuzloqlari uzun bölib, mağiz qavatiga çuqur, ba’zi hollarda buyrak sörğiçlari uçlarigaça botib kiradi."
+  },
+  "ch26-f35": {
+   "text": "Yukstamedullyar nefronlarni qon bilan ta’minlovçi tomir tuzilmalari ham pöstloq nefronlarini ta’minlovçilardan farq qiladi. Pöstloq nefronlarida butun kanalçalar tizimi kanalçalar atrofi kapillyarlarining keng tarmoği bilan öralgan. Yukstamedullyar nefronlarda esa uzun olib ketuvçi arteriolalar koptokçalardan pastga — mağiz qavatining taşqi qismigaça çöziladi va söngra _töğri tomirlar_ (vasa recta) deb ataladigan ixtisoslaşgan kanalçalar atrofi kapillyarlariga bölinadi; ular Henle qovuzloqlari bilan yonma-yon yotgan holda mağiz qavatiga pastga qarab yönaladi. Henle qovuzloqlari kabi töğri tomirlar ham pöstloq tomon qaytib, pöstloq venalariga quyiladi. Mağiz qavatidagi bu ixtisoslaşgan kapillyarlar tarmoği konsentrlangan siydik hosil bölişida muhim rol öynaydi; bu 29-bobda muhokama qilinadi."
+  },
+  "ch26-f36": {
+   "text": "Siydik çiqariş (mikitsiya)"
+  },
+  "ch26-f37": {
+   "text": "Siydik çiqariş (mikitsiya) — siydik pufagi tölganda böşaladigan jarayon. Bu jarayon ikki asosiy bosqiçni öz içiga oladi. Birinçidan, pufak devorlaridagi taranglik bösağa darajasidan oşgunga qadar pufak asta-sekin töladi. Bu taranglik ikkinçi bosqiçni — pufakni böşatadigan yoki, bu amalga oşmasa, heç bölmaganda siydik çiqarişga ongli istak paydo qiladigan _siydik çiqariş refleksi_ deb ataladigan nerv refleksini qözğatadi. Siydik çiqariş refleksi orqa miyaning avtonom refleksi bölsa-da, u boş miya pöstloği yoki miya stvolidagi markazlar tomonidan tormozlanişi yoki yengillaştirilişi ham mumkin."
+  },
+  "ch26-f38": {
+   "text": "Siydik pufagining fiziologik anatomiyasi"
+  },
+  "ch26-f39": {
+   "text": "**Rasm 26-6** da körsatilgan siydik pufagi ikki asosiy qismdan iborat silliq muskulli böşliq: (1) siydik töplanadigan pufakning asosiy qismi — _tanasi_; (2) tananing voronkasimon davomi bölgan, pastga va oldinga qarab siydik-tanosil uçburçagiga ötadigan va siydik çiqariş kanali bilan tutaşadigan _böyni_. Pufak böynining pastki qismi siydik çiqariş kanali bilan boğliqligi sababli _orqa uretra_ deb ham ataladi."
+  },
+  "ch26-f41": {
+   "text": "Siydik pufagining silliq muskuli _detruzor muskuli_ deb ataladi. Uning muskul tolalari barça yönalişlarda joylaşgan va qisqarganda pufakdagi bosimni 40–60 mm Hg gaça oşirişi mumkin. Şunday qilib, _detruzor muskulining qisqarişi pufakni böşatişdagi asosiy bosqiçdir_. Detruzor muskulining silliq muskul hujayralari bir-biri bilan qöşilib ketgan, şuning uçun bir muskul hujayrasidan boşqasiga past qarşilikli elektr yöllari mavjud. Şu sababli harakat potensiali detruzor muskuli böylab bir muskul hujayrasidan keyingisiga tarqalib, butun pufakning bir vaqtda qisqarişiga sabab bölişi mumkin."
+  },
+  "ch26-f42": {
+   "text": "Pufakning orqa devorida, bevosita pufak böynidan yuqorida _uçburçak_ (trigonum) deb ataladigan kiçik uçburçak soha joylaşgan. Uçburçakning eng pastki çöqqisida pufak böyni _orqa uretraga_ oçiladi, ikkala siydik yöli esa pufakka uçburçakning eng yuqori burçaklarida kiradi. Uçburçakni uning _şilliq qavati_ — pufakning içki qoplami silliq ekanligi bilan ajratiş mumkin; pufakning qolgan şilliq qavati esa burmalar (_rugae_) hosil qilib burişgan böladi."
+  },
+  "ch26-f43": {
+   "text": "Har bir siydik yöli pufakka kirayotganda detruzor muskuli orqali qiya yönalişda ötadi va söngra pufakka quyilişdan oldin yana 1–2 santimetr pufak şilliq qavati ostidan ötadi."
+  },
+  "ch26-f44": {
+   "text": "Pufak böyni (orqa uretra) 2–3 santimetr uzunlikda bölib, uning devori köp miqdordagi elastik töqima bilan çirmaşgan detruzor muskulidan iborat. Bu sohadagi muskul _içki sfinkter_ deb ataladi. Uning tabiiy tonusi odatda pufak böyni va orqa uretrani siydikdan böş holatda uşlab turadi va şu tariqa pufakning asosiy qismidagi bosim kritik bösağadan oşmagunça pufakning böşalişiga yöl qöymaydi."
+  },
+  "ch26-f45": {
+   "text": "Orqa uretradan keyin siydik çiqariş kanali _siydik-tanosil diafragmasi_ orqali ötadi; unda pufakning _taşqi sfinkteri_ deb ataladigan muskul qatlami bor. Bu muskul, butunlay silliq muskuldan iborat bölgan pufak tanasi va pufak böyni muskulidan farqli ölaroq, ixtiyoriy skelet muskulidir. Taşqi sfinkter muskuli nerv tizimining ixtiyoriy nazorati ostida böladi va hatto ixtiyorsiz nazorat mexanizmlari pufakni böşatişga urinayotgan paytda ham siydik çiqarişning ongli ravişda oldini oliş uçun işlatilişi mumkin."
+  },
+  "ch26-f46": {
+   "text": "Siydik pufagining asosiy nerv ta’minoti _çanoq nervlari_ orqali amalga oşadi; ular orqa miya bilan _dumğaza çigali_ orqali, asosan orqa miyaning S2 va S3 segmentlari bilan boğlanadi (**Rasm 26-7**). Çanoq nervlari tarkibida ham _sezuvçi nerv tolalari_, ham _harakatlantiruvçi nerv tolalari_ ötadi. Sezuvçi tolalar pufak devorining çöziliş darajasini sezadi. Orqa uretradan keladigan çöziliş signallari ayniqsa kuçli bölib, pufakni böşatadigan reflekslarni boşlab berişga asosan ular javobgar.",
+   "lead": "Siydik pufagining innervatsiyasi."
+  },
+  "ch26-f48": {
+   "text": "Çanoq nervlari tarkibida ötadigan harakatlantiruvçi nervlar _parasimpatik tolalardir_. Bu tolalar pufak devorida joylaşgan ganglioz hujayralarda tugaydi. Söngra kalta postganglionar nervlar detruzor muskulini innervatsiya qiladi."
+  },
+  "ch26-f49": {
+   "text": "Çanoq nervlaridan taşqari, pufak funksiyasida yana ikki turdagi innervatsiya muhim. Ulardan eng muhimi — _uyat nervi_ (n. pudendus) orqali pufakning taşqi sfinkteriga boradigan _skelet muskulini harakatlantiruvçi tolalar_. Bu tolalar sfinkterning ixtiyoriy skelet muskulini innervatsiya qiladigan va nazorat qiladigan _somatik nerv tolalaridir_. Şuningdek, pufak simpatik zanjirdan _gipogastral nervlar_ orqali _simpatik innervatsiya_ oladi; ular asosan orqa miyaning L2 segmenti bilan boğlanadi. Bu simpatik tolalar asosan qon tomirlarini qözğatadi va pufakning qisqarişiga deyarli aloqasi yöq. Ayrim sezuvçi nerv tolalari ham simpatik nervlar orqali ötadi va tölganlik hissini, ba’zi hollarda esa oğriqni sezişda muhim bölişi mumkin."
+  },
+  "ch26-f50": {
+   "text": "Siydikning buyraklardan siydik yöllari orqali siydik pufagiga taşilişi"
+  },
+  "ch26-f51": {
+   "text": "Pufakdan çiqariladigan siydik yiğuvçi nayçalardan oqib çiqayotgan suyuqlik bilan deyarli bir xil tarkibga ega. Siydik buyrak kosaçalari va siydik yöllari orqali pufakka oqib borayotganda uning tarkibida sezilarli özgarişlar yuz bermaydi."
+  },
+  "ch26-f52": {
+   "text": "Siydik çiqariş nayçalaridan buyrak kosaçalariga oqib tuşayotgan siydik kosaçalarni çözdiradi va ularning öziga xos _peysmeyker faolligini_ oşiradi, bu öz navbatida buyrak jomiga, söngra pastga qarab siydik çiqariş nayining uzunligi böylab tarqaladigan peristaltik qisqarişlarni boşlab beradi va şu tariqa siydikni buyrak jomidan siydik pufagi tomon haydaydi. Kattalarda siydik naylari odatda 25–35 santimetr (10–14 dyuym) uzunlikda böladi."
+  },
+  "ch26-f53": {
+   "text": "Siydik naylarining devorlari silliq muşaklardan iborat bölib, ularni simpatik va parasimpatik nervlar, şuningdek, siydik naylarining butun uzunligi böylab çözilgan neyronlar va nerv tolalarining intramural pleksusi innervatsiya qiladi. Boşqa visseral silliq muşaklarda bölgani kabi, _siydik nayidagi peristaltik qisqarişlar parasimpatik stimulyatsiya ta’sirida kuçayadi va simpatik stimulyatsiya ta’sirida tormozlanadi._"
+  },
+  "ch26-f54": {
+   "text": "**Rasm 26-6**da körsatilganidek, siydik naylari siydik pufagining uçburçak (trigonal) sohasidagi _detruzor muşagi_ orqali siydik pufagiga kiradi. Odatda, siydik naylari siydik pufagi devori böylab bir neça santimetr davomida qiyşiq yönalişda ötadi. Siydik pufagi devoridagi detruzor muşagining normal tonusi siydik nayini siqib qöyişga moyil böladi, bu esa siydik çiqariş vaqtida yoki siydik pufagi siqilganda pufakda bosim kötarilganda siydikning pufakdan orqaga oqib ketişining (reflyuksning) oldini oladi. Siydik nayi böylab har bir peristaltik tölqin nay içidagi bosimni oşiradi, şuning uçun siydik pufagi devoridan ötuvçi soha oçiladi va siydikning pufakka oqib tuşişiga imkon beradi."
+  },
+  "ch26-f55": {
+   "text": "Ba’zi odamlarda siydik nayining siydik pufagi devori böylab ötiş masofasi odatdagidan qisqaroq böladi va şuning uçun siydik çiqariş vaqtida siydik pufagining qisqarişi har doim ham siydik nayining töliq berkilişiga olib kelmaydi. Natijada, siydik pufagidagi siydikning bir qismi siydik nayiga orqaga qarab öqtin-öqtin haydalanadi, bu holat _vezikoureteral reflyuks_ deb ataladi. Bunday reflyuks siydik naylarining kengayişiga olib kelişi mumkin va agar oğir keçsa, buyrak kosaçalari va buyrak miya moddasi tuzilmalaridagi bosimni oşirib, uşbu sohalarga şikast etkazişi mumkin."
+  },
+  "ch26-f56": {
+   "text": "Siydik naylari oğriq nerv tolalari bilan juda boy ta’minlangan. Siydik nayi tösib qöyilganda (masalan, siydik nayi toşi tufayli), kuçli reflyuksli qisqariş yuzaga keladi va bu kuçli oğriq bilan keçadi. Şuningdek, oğriq impulslari buyrak arteriolalarini siqiş uçun buyurakka qarab simpatik reflyuksni keltirib çiqaradi, bu esa buyrakdan siydik çiqişini kamaytiradi. Bu ta’sir _ureterorenal reflyuks_ deb ataladi va siydik nayi tösilgan buyrak jomiga suyuqlik oqimini kamaytiriş uçun muhim hisoblanadi.",
+   "lead": "Siydik naylaridagi oğriq sezgisi va ureterorenal reflyuks."
+  },
+  "ch26-f57": {
+   "text": "**Rasm 26-8**da siydik pufagi siydik bilan tölib borişi jarayonida qovik içidagi bosimning taxminiy özgarişlari körsatilgan. Siydik pufagida siydik bölmaganda, qovik içidagi bosim 0 ga yaqin böladi, biroq 30–50 millilitr siydik yiğilganda bosim 5–10 santimetr suv ustunigaça kötariladi. Qöşimça siydik — 200–300 millilitr — bosimning faqat ozgina qöşimça kötarilişi bilan yiğilişi mumkin; bosimning bu doimiy darajasi siydik pufagi devorining içki tonusi bilan belgilanadi. 300–400 millilitrdan oşganda, siydik pufagida köproq siydikning yiğilişi bosimning tez kötarilişiga sabab böladi."
+  },
+  "ch26-f59": {
+   "text": "Siydik pufagi tölişi davridagi tonik bosim özgarişlariga bir neça soniyadan 1 daqiqadan köproq vaqt davom etadigan davriy ötkir bosim ortişlari qöşiladi. Bosim çöqqilari faqat bir neça santimetr suv ustuniga kötarilişi yoki 100 santimetr suv ustunidan oşişi mumkin. Bosimning bu çöqqilari sistometrogrammada _siydik çiqariş tölqinlari_ deb ataladi va siydik çiqariş reflyuksi tufayli yuzaga keladi."
+  },
+  "ch26-f60": {
+   "text": "Yana **Rasm 26-8**ga murojaat qilsak, siydik pufagi tölib borişi bilan ştrixli çöqqilar körsatib turganidek, bir neçta qöşma _siydik çiqariş qisqarişlari_ paydo böla boşlaşini köriş mumkin. Bular siydik pufagi devoridagi _sezuvçi çöziliş retseptorlari_, ayniqsa, yuqori qovik bosimida uşbu soha siydik bilan töla boşlaganda orqa peşob yölidagi retseptorlar tomonidan boşlatilgan çöziliş reflyuksining natijasidir. Siydik pufagining çöziliş retseptorlaridan kelib çiqadigan sensor signallar _çanoq nervlari_ orqali orqa miyaning dumğaza segmentlariga ötkaziladi va keyin şu nervlar orqali _parasimpatik nerv tolalari_ böylab yana siydik pufagiga reflyuks tarzda qaytadi."
+  },
+  "ch26-f61": {
+   "text": "Siydik pufagi faqat qisman tölganda, bu siydik çiqariş qisqarişlari odatda bir daqiqaning qismidan söng öz-özidan böşaşadi, detruzor muşaklari qisqarişdan töxtaydi va bosim boşlanğiç darajaga tuşadi. Siydik pufagi tölişda davom etar ekan, siydik çiqariş reflyukslari tez-tez sodir böla boşlaydi va detruzor muşagining kuçliroq qisqarişlarini keltirib çiqaradi."
+  },
+  "ch26-f62": {
+   "text": "Siydik çiqariş reflyuksi boşlangaç, u öz-özini kuçaytiruvçi böladi. Ya’ni, siydik pufagining dastlabki qisqarişi çöziliş retseptorlarini faollaştirib, siydik pufagi va orqa peşob yölidan keladigan sensor impulslarning yanada ortişiga olib keladi, bu esa siydik pufagining reflyuks qisqarişini yanada kuçaytiradi; şunday qilib, tsikl siydik pufagi kuçli darajada qisqargunça qayta-qayta takrorlanadi. Söngra, bir neça soniyadan 1 daqiqadan köproq vaqt ötgaç, öz-özini kuçaytiruvçi reflyuks toliqa boşlaydi va siydik çiqariş reflyuksining öz-özini kuçaytiruvçi tsikli töxtab, siydik pufagining böşaşişiga imkon beradi."
+  },
+  "ch26-f63": {
+   "text": "Şunday qilib, siydik çiqariş reflyuksi quyidagilardan iborat yagona töliq tsikldir: (1) bosimning bosqiçma-bosqiç va tez ortişi; (2) barqaror bosim davri; va (3) bosimning siydik pufagining bazal tonusiga qaytişi. Siydik çiqariş reflyuksi yuzaga kelgan bölsa-da, siydik pufagini böşatişga erişa olmasa, odatda bu reflyuksning nerv elementlari boşqa siydik çiqariş reflyuksi yuzaga kelişidan oldin bir neça daqiqadan 1 soat yoki undan köproq vaqt davomida tormozlangan holatda qoladi. Siydik pufagi tobora köproq tölib borgan sari, siydik çiqariş reflyukslari tez-tez va kuçliroq sodir böladi."
+  },
+  "ch26-f64": {
+   "text": "Siydik çiqariş reflyuksi yetarliça kuçaygaç, u _pudenal nervlar_ (çanoq osti nervlari) orqali _taşqi sfinkterga_ ötib, uni tormozlaydigan boşqa reflyuksni keltirib çiqaradi. Agar boş miyadagi bu tormozlaniş taşqi sfinkter uçun ixtiyoriy qisqartiruvçi signallardan kuçliroq bölsa, siydik ajraliş sodir böladi. Aks holda, siydik pufagi yana ham köproq tölib, siydik çiqariş reflyuksi kuçaymagunça siydik ajraliş sodir bölmaydi."
+  },
+  "ch26-f65": {
+   "text": "Siydik çiqariş reflyuksi avtonom orqa miya reflyuksi hisoblanadi, biroq u boş miyadagi markazlar tomonidan tormozlanişi yoki kuçaytirilişi mumkin. Bu markazlarga quyidagilar kiradi: (1) asosan ponsda joylaşgan boş miya ustunidagi kuçli _kuçaytiruvçi_ va _tormozlovçi markazlar;_ va (2) asosan tormozlovçi bölgan, lekin qözğatuvçi böla oladigan _boş miya pöstloğida joylaşgan bir neçta markazlar_.",
+   "lead": "Boş miya tomonidan siydik çiqarişning kuçaytirilişi yoki tormozlanişi."
+  },
+  "ch26-f66": {
+   "text": "Siydik çiqariş reflyuksi siydik çiqarişning asosiy sababidir, biroq yuqori markazlar odatda quyidagiça siydik çiqarişning yakuniy nazoratini amalga oşiradi: 1. Yuqori markazlar siydik çiqariş talab qilingan hollardan taşqari, siydik çiqariş reflyuksini qisman tormozlangan holda saqlaydi. 2. Yuqori markazlar qulay vaqt kelgunga qadar taşqi siydik pufagi sfinkterining tonik qisqarişi orqali, hatto siydik çiqariş reflyuksi yuzaga kelsa ham, siydik çiqarişning oldini ola oladi. 3. Siydik çiqariş vaqti kelganda, pöstloq markazlari siydik çiqariş reflyuksini boşlaşga yordam beriş uçun dumğaza siydik çiqariş markazlarini kuçaytirişi va şu bilan birga siydik çiqariş sodir bölişi uçun taşqi siydik sfinkterini tormozlaşi mumkin. _Ixtiyoriy siydik çiqariş_ odatda quyidagi tarzda boşlanadi. Avvalo, odam qorin muşaklarini ixtiyoriy ravişda qisqartiradi, bu siydik pufagidagi bosimni oşiradi va qöşimça siydikning bosim ostida pufak böyni va orqa peşob yöliga kirişiga imkon beradi, şu tariqa ularning devorlarini çözdiradi. Bu harakat çöziliş retseptorlarini rağbatlantiradi, bu esa siydik çiqariş reflyuksini qözğatadi va bir vaqtning özida taşqi peşob yöli sfinkterini tormozlaydi. Odatda barça siydik çiqarib yuboriladi, siydik pufagida kamdan-kam hollarda 5–10 millilitrdan ortiq siydik qoladi."
+  },
+  "ch26-f68": {
+   "text": "Agar siydik pufagidan orqa miyaga boruvçi sensor nerv tolalari vayron bölsa, siydik çiqariş reflyeksi qisqarişi yuzaga kela olmaydi, bu esa siydik pufagidan çöziliş signallarining uzatilişiga tösqinlik qiladi. Bunday holat yuz berganda, orqa miyadan siydik pufagiga çiquvçi efferent tolalar butunligiça saqlanib qolganiga va boş miya içidagi neyrogen aloqalar buzilmaganiga qaramay, odam siydik pufagi ustidan nazoratni yöqotadi. Siydik pufagi davriy ravişda böşaş örniga, tölib-toşib ketadi va peşob yöli orqali bir vaqtda bir neça tomçidan oqib çiqadi. Bu holat _tölib-toşib ketiş natijasida siydik tutolmasligi_ deb ataladi.",
+   "lead": "Sensor nerv tolalarining yemirilişi natijasida yuzaga keladigan atonik siydik pufagi va tutolmaslik."
+  },
+  "ch26-f69": {
+   "text": "Atonik siydik pufagining keng tarqalgan sababi orqa miyaning dumğaza sohasining ezilib jarohatlanişidir. Ayrim kasalliklar ham orqa miyaga kiruvçi orqa ildiz nerv toşçalariga şikast etkazişi mumkin. Masalan, zaxm (sifilis) orqa ildiz nerv tolalari atrofida siqib qöyuvçi fibrozni keltirib çiqarib, ularni vayron qilişi mumkin. Bu holat _tabes dorsalis_ deb ataladi, va uning natijasida kelib çiqadigan siydik pufagi holati _tabetik siydik pufagi_ deb ataladi."
+  },
+  "ch26-f70": {
+   "text": "Agar orqa miya sakral sohadan yuqorida şikastlansa, lekin sakral orqa miya segmentlari hali ham butun bölsa, odatdagi peşob çiqariş reflekslari hali ham yuzaga kelişi mumkin. Biroq, ular endi boş miya tomonidan boşqarilmaydi. Orqa miya şikastlangandan keyingi dastlabki bir neça kundan bir neça haftagaça peşob çiqariş reflekslari boş miya ustuni va boş miya yarim şarlaridan çiquvçi rağbatlantiruvçi impulslarning tösatdan yöqolişi tufayli kelib çiqqan orqa miya şoki holati sababli bostiriladi. Şunga qaramay, agar qovuqning haddan taşqari çözilişi natijasida uning şikastlanişining oldini oliş uçun kateterizatsiya yordamida qovuq vaqti-vaqti bilan böşatib turilsa, peşob çiqariş refleksining qözğaluvçanligi odatdagi peşob çiqariş reflekslari qaytgunça asta-sekin oşadi; şundan söng qovuqning davriy (lekin oldindan sezilmaydigan) böşaşi yuzaga keladi.",
+   "lead": "Orqa miya şikastlanişi natijasida sakral sohadan yuqorida hosil böladigan avtomatik qovuq."
+  },
+  "ch26-f71": {
+   "text": "Peşob çiqarişning yana bir buzilişi bu tez-tez va nisbatan nazoratsiz peşob çiqarişga olib keladigan _tormozlanmagan neyrogen qovuq_ deb ataladi. Bu holat köpçilik tormozlovçi signallarni töxtatib qöyadigan orqa miya yoki boş miya ustunidagi qisman şikastlanişdan kelib çiqadi. Şuning uçun orqa miya böylab doimiy ravişda ötib turuvçi rağbatlantiruvçi impulslar sakral markazlarni şunçalik qözğaluvçan tutadiki, hatto oz miqdordagi siydik ham nazorat qilib bölmaydigan peşob çiqariş refleksini keltirib çiqaradi va şu tariqa tez-tez peşob çiqarişni rağbatlantiradi.",
+   "lead": "Boş miyadan tormozlovçi signallarning yetişmasligi natijasida yuzaga keladigan tormozlanmagan neyrogen qovuq."
+  },
+  "ch26-f72": {
+   "text": "SIYDIK HOSIL BÖLISHI GLOMERULYAR FILTRATSIYA, KANALCHALAR REABSORBSIYASI VA KANALCHALAR SEKRETSIYASINING NATIJASIDAN IBORAT"
+  },
+  "ch26-f73": {
+   "text": "Turli moddalarning siydik bilan çiqariliş tezligi **Rasm 26-9**da körsatilgan uçta buyrak jarayonining yiğindisini ifodalaydi: (1) qondagi moddalarning glomerulyar filtratsiyasi; (2) moddalarning buyrak kanalçalaridan qonga reabsorbsiyasi va (3) moddalarning qondan buyrak kanalçalariga quyidagiça sekretsiyasi:"
+  },
+  "ch26-f75": {
+   "text": "Siydik hosil bölişi deyarli oqsildan xoli bölgan katta miqdordagi suyuqlik glomerulyar kapillyarlardan Boumen kapsulasiga filtrlanganida boşlanadi. Oqsillardan taşqari plazmadagi köpçilik moddalar erkin filtrlanadi, şuning uçun ularning Boumen kapsulasidagi glomerulyar filtratdagi konsentratsiyasi plazmadagiga deyarli bir xil böladi. Filtrlangan suyuqlik Boumen kapsulasini tark etib, kanalçalar böylab ötar ekan, u suv va öziga xos erigan moddalarning qonga qayta reabsorbsiyasi yoki peritubulyar kapillyarlardan boşqa moddalarning kanalçalarga sekretsiyasi orqali özgartiriladi."
+  },
+  "ch26-f76": {
+   "text": "**Rasm 26-10**da törtta faraziy moddaning buyrakdagi taqdiri körsatilgan. A panelida körsatilgan modda glomerulyar kapillyarlar tomonidan erkin filtrlanadi, lekin na reabsorbsiyalanadi va na sekretziya qilinadi. Şuning uçun uning çiqariliş tezligi uning filtrlangan tezligiga teng. Tanadagi ma’lum çiqindi mahsulotlar, masalan, kreatinin, buyraklar tomonidan şu tarzda boşqariladi, bu esa filtrlangan barça narsaning asosiy qismini çiqarib yuboriş imkonini beradi."
+  },
+  "ch26-f78": {
+   "text": "B panelida modda erkin filtrlanadi, lekin şu bilan birga kanalçalardan qonga qisman qayta reabsorbsiyalanadi. Şuning uçun siydik bilan çiqariliş tezligi glomerulyar kapillyarlardagi filtratsiya tezligidan kamroq böladi. Bunday holda, çiqariliş tezligi filtratsiya tezligidan reabsorbsiya tezligini ayirib taşlaş yöli bilan hisoblanadi. Bu naqş natriy va xlorid ionlari kabi tanadagi köplab elektrolitlar uçun odatiydir."
+  },
+  "ch26-f79": {
+   "text": "C panelida modda glomerulyar kapillyarlarda erkin filtrlanadi, lekin siydikka çiqarilmaydi, çunki barça filtrlangan modda kanalçalardan qonga qayta reabsorbsiyalanadi. Bu naqş qondagi aminokislotalar va glyukoza kabi ba’zi ozuqa moddalari uçun yuzaga keladi, bu ularni tana suyuqliklarida saqlab qoliş imkonini beradi."
+  },
+  "ch26-f80": {
+   "text": "D panelidagi modda glomerulyar kapillyarlarda erkin filtrlanadi va reabsorbsiyalanmaydi, lekin uşbu moddaning qöşimça miqdori peritubulyar kapillyar qonidan buyrak kanalçalariga sekretziya qilinadi. Bu holat köpinça organik kislotalar va asoslar uçun sodir bölib, ularning qondan tezda tozalanib, siydikda katta miqdorda çiqarilişiga imkon beradi. Bunday holda çiqariliş tezligi filtratsiya tezligi va kanalçalar sekretsiyasi tezligining yiğindisi sifatida hisoblanadi."
+  },
+  "ch26-f81": {
+   "text": "Plazmadagi har bir modda uçun filtratsiya, reabsorbsiya va sekretsiyaning öziga xos kombinatsiyasi yuzaga keladi. Moddaning siydik bilan çiqariliş tezligi uşbu uçta asosiy buyrak jarayonining nisbiy tezligiga boğliq."
+  },
+  "ch26-f82": {
+   "text": "TURLI MODDALARNING FILTRATSIYASI, REABSORBSIYASI VA SEKRETSIYASI"
+  },
+  "ch26-f83": {
+   "text": "Umuman olganda, siydik hosil bölişida kanalçalar reabsorbsiyasi miqdoriy jihatdan kanalçalar sekretsiyasiga qaraganda muhimroqdir, ammo sekretsiya kaliy va vodorod ionlari hamda siydik bilan çiqariladigan boşqa bir neçta moddalarning miqdorini aniqlaşda muhim rol öynaydi. Qondan tozalanişi kerak bölgan köpçilik moddalar, ayniqsa moçevina, kreatinin, siydik kislotasi va uratlar kabi metabolizm oxirgi mahsulotlari yomon reabsorbsiyalanadi va şuning uçun siydikda katta miqdorda çiqariladi. Ayrim yot moddalar va dorilar ham yomon reabsorbsiyalanadi, lekin qöşimça ravişda qondan kanalçalarga sekretziya qilinadi, şuning uçun ularning çiqariliş tezligi yuqori böladi. Aksinça, natriy ionlari, xlorid ionlari va bikarbonat ionlari kabi elektrolitlar yuqori darajada reabsorbsiyalanadi, şuning uçun siydikda faqat oz miqdori paydo böladi. Aminokislotalar va glyukoza kabi ba’zi ozuqa moddalari kanalçalardan töliq reabsorbsiyalanadi va glomerulyar kapillyarlar tomonidan katta miqdorda filtrlangan bölsa ham, siydikda topilmaydi."
+  },
+  "ch26-f84": {
+   "text": "Har bir jarayon — glomerulyar filtratsiya, kanalçalar reabsorbsiyasi va kanalçalar sekretsiyasi organizm ehtiyojlariga qarab tartibga solinadi. Masalan, organizmda natriy ortiqça bölganda, odatda natriyning filtrlaniş tezligi biroz oşadi va filtrlangan natriyning kiçikroq qismi reabsorbsiyalanadi, bu esa siydik bilan natriy çiqarilişining oşişiga olib keladi."
+  },
+  "ch26-f85": {
+   "text": "Köpçilik moddalar uçun filtratsiya va reabsorbsiya tezligi çiqariliş tezligiga nisbatan juda katta. Şuning uçun filtratsiya yoki reabsorbsiyaning hatto ozgina özgarişi ham buyrakdan çiqarilişning nisbatan katta özgarişlariga olib kelişi mumkin. Masalan, glomerulyar filtratsiya tezligining (GFT) atigi 10% ga oşişi (180 dan 198 l/kun gaça) agar kanalçalar reabsorbsiyasi özgarmiça qolsa, siydik hajmini 13 barobarga (1,5 dan 19,5 l/kun gaça) oşiradi. Aslida, glomerulyar filtratsiya va kanalçalar reabsorbsiyasidagi özgarişlar odatda buyrakdan çiqarilişdagi kerakli özgarişlarni keltirib çiqariş uçun muvofiqlaştirilgan tarzda harakat qiladi."
+  },
+  "ch26-f86": {
+   "text": "Şunçalik köp miqdordagi suv va erigan moddalarni filtrlaş va keyin bu moddalarning köp qismini qayta reabsorbsiya qiliş qançalik töğri degan savol tuğilişi mumkin. Yuqori GFTning bir afzalligi şundaki, u buyriklarga çiqarilişi asosan glomerulyar filtratsiyaga boğliq bölgan çiqindi mahsulotlarni tanadan tezda çiqarib yuboriş imkonini beradi. Köpçilik çiqindi mahsulotlar kanalçalar tomonidan yomon reabsorbsiyalanadi va şuning uçun organizmdan samarali ravişda çiqarib yuboriliş uçun yuqori GFTga tayanadi.",
+   "lead": "Nega buyraklar köp miqdordagi erigan moddalarni filtrlaydi va keyin ularni qayta reabsorbsiyalaydi?"
+  },
+  "ch26-f87": {
+   "text": "Yuqori GFTning ikkinçi afzalligi şundaki, u barça tana suyuqliklarining har kuni köp marta buyraklar tomonidan filtrlanişi va qayta işlanişiga imkon beradi. Butun plazma hajmi atigi 3 litrni taşkil etişi, GFT эса taxminan 180 l/kun bölişi sababli, butun plazma har kuni taxminan 60 marta filtrlanişi va qayta işlanişi mumkin. Bu yuqori GFT buyriklarga tana suyuqliklarining hajmi va tarkibini aniq hamda tez nazorat qiliş imkonini beradi."
+  },
+  "ch26-f67": {
+   "text": "",
+   "lead": "Peşatiş (miksiyaning) buzilişlari"
+  }
+ },
+ "figures": {
+  "gh14-fig-26-01": "Natriy iste’molini 10 baravar (kuniga 30 dan 300 mEq gaça) oşirişning natriyning siydik bilan çiqarişi va hujayradan taşqari suyuqlik hajmiga ta’siri. Soyali sohalar natriyning organizmda sof uşlanib qolişi yoki yöqotilişini bildiradi. Bu miqdor iste’mol qilingan va çiqarilgan natriy orasidagi farq bilan aniqlanadi.",
+  "gh14-fig-26-02": "Buyraklar va siydik çiqariş tizimining umumiy tuzilişi.",
+  "gh14-fig-26-03": "Inson buyragining kesimi. Unda buyrakka qon olib keluvçi asosiy tomirlar va har bir nefronning mikrosirkulyatsiya sxemasi körsatilgan.",
+  "gh14-fig-26-04": "Nefron kanalçalarining asosiy qismlari. Kanalça qismlarining nisbiy uzunliklari masştabda berilmagan.",
+  "gh14-fig-26-05": "Qon tomirlari va kanalçalar orasidagi boğlanişlar, şuningdek pöstloqdagi va yukstamedullyar nefronlar orasidagi farqlar sxemasi.",
+  "gh14-fig-26-06": "Erkaklar va ayollarda siydik pufagi hamda siydik çiqariş kanalining anatomiyasi.",
+  "gh14-fig-26-07": "Siydik pufagining innervatsiyasi.",
+  "gh14-fig-26-08": "Me’yoriy sistometrogramma. Uzlukli çiziqlar siydik çiqariş reflekslari tufayli yuzaga keladigan keskin bosim tölqinlarini bildiradi.",
+  "gh14-fig-26-09": "Siydik tarkibini belgilovçi asosiy buyrak jarayonlari. Moddaning siydik bilan çiqariş tezligi uning filtrlaniş tezligidan qayta söriliş tezligini ayirib, kanalça atrofidagi kapillyarlar qonidan kanalçalarga sekretsiyalaniş tezligini qöşiş orqali aniqlanadi.",
+  "gh14-fig-26-10": "Buyrakda tört faraziy moddaning qayta işlanışı. A — modda erkin filtrlanadi va qayta sörilmaydi. B — modda erkin filtrlanadi, ammo filtrlangan miqdorning bir qismi qonga qayta söriladi. C — modda erkin filtrlanadi, lekin filtrlangan moddaning hammasi kanalçalardan qonga qayta sörilgani uçun siydikda çiqmaydi. D — modda erkin filtrlanadi va qayta sörilmaydi. Bundan taşqari, u kanalça atrofidagi kapillyarlar qonidan buyrak kanalçalariga sekretsiyalanadi."
+ }
+}

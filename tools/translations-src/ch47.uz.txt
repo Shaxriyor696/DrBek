@@ -1,0 +1,384 @@
+# Guyton & Hall, 14-naşr, 47-bob — Sezgi retseptorlari, axborotni qayta işlovçi neyron zanjirlari.
+# Har bir blok "@@ <bid>" qatoridan boşlanadi. "LEAD:" xatboşi boşidagi sarlavhani bildiradi.
+
+@@ ch47-f0
+Tanamiz içidagi va atrofimizdagi dunyodan keladigan signallarni idrok etişimiz teginiş, tovuş, yoruğlik, oğriq, sovuq va issiq kabi qözğatuvçilarni aniqlaydigan murakkab sezgi retseptorlari tizimi orqali amalga oşadi. Bu bobda bu retseptorlar sezgi qözğatuvçilarini nerv signallariga aylantiradigan, söngra bu signallar markaziy nerv tizimiga uzatilib, u yerda qayta işlanadigan asosiy mexanizmlar muhokama qilinadi.
+
+@@ ch47-f1
+Sezgi retseptorlarining turlari va ular aniqlaydigan qözğatuvçilar
+
+@@ ch47-f2
+**Jadval 47-1** da sezgi retseptorlarining beşta asosiy turi keltirilgan va tasniflangan: (1) retseptorning yoki unga qöşni töqimalarning mexanik siqilişi yoki çözilişini aniqlaydigan _mexanoretseptorlar_; (2) harorat özgarişlarini aniqlaydigan _termoretseptorlar_ — ularning ayrimlari sovuqni, boşqalari issiqni aniqlaydi; (3) töqimalarda yuz beradigan fizik yoki kimyoviy şikastlanişni aniqlaydigan _nostseptorlar_ (oğriq retseptorlari); (4) köz tör pardasida yoruğlikni aniqlaydigan _elektromagnit retseptorlar_; va (5) oğizdagi ta’mni, burundagi hidni, arterial qondagi kislorod darajasini, tana suyuqliklarining osmolyalligini, karbonat angidrid konsentratsiyasini va organizm kimyosini taşkil etuvçi boşqa omillarni aniqlaydigan _xemoretseptorlar_.
+
+@@ ch47-f4
+Retseptorlar işlaydigan ayrim tamoyillarni körsatiş uçun bir neça öziga xos turdagi retseptorlarning, asosan periferik mexanoretseptorlarning funksiyasini muhokama qilamiz. Boşqa retseptorlar ular xizmat qiladigan sezgi tizimlari bilan bog‘liq holda boşqa boblarda muhokama qilinadi. **Rasm 47-1** da terida yoki tananing çuqur töqimalarida uçraydigan mexanoretseptorlarning ayrim turlari körsatilgan.
+
+@@ ch47-f6
+Retseptorlarning tanlab sezgirligi
+
+@@ ch47-f7
+Ikki xil sezgi retseptori turli xil sezgi qözğatuvçilarini qanday aniqlaydi? Javob — “_tanlab sezgirlik_ orqali”. Ya’ni har bir turdagi retseptor özi möljallangan bir turdagi qözğatuvçiga juda sezgir, boşqa turdagi sezgi qözğatuvçilariga esa deyarli javob bermaydi. Şunday qilib, közdagi tayoqçalar va kolbaçalar yoruğlikka juda sezgir, ammo issiqlik, sovuq, köz olmasiga bosim yoki qondagi kimyoviy özgarişlarning me’yoriy oraliqlariga deyarli butunlay javob bermaydi. Gipotalamusning supraoptik yadrolaridagi osmoretseptorlar tana suyuqliklari osmolyalligining juda kiçik özgarişlarini aniqlaydi, ammo ularning tovuşga javob bergani heç qaçon ma’lum bölmagan. Nihoyat, teridagi oğriq retseptorlari odatiy teginiş yoki bosim qözğatuvçilari bilan deyarli heç qaçon qözğalmaydi, ammo taktil qözğatuvçilar töqimalarni şikastlaydigan darajada kuçli bölgan zahoti ular juda faol böladi.
+
+@@ ch47-f8
+Sezgi modalligi — “belgilangan yöl” tamoyili
+
+@@ ch47-f9
+Biz boşdan keçira oladigan sezgining har bir asosiy turi — oğriq, teginiş, köriş, tovuş va hokazo — sezgi _modalligi_ deb ataladi. Biroq biz sezgining bu turli modalliklarini his qilsak-da, nerv tolalari faqat impulslarni uzatadi. Unda turli nerv tolalari sezgining turli modalliklarini qanday uzatadi?
+
+@@ ch47-f10
+Javob şuki, har bir nerv yöli markaziy nerv tizimining muayyan nuqtasida tugaydi va nerv tolasi qözğatilganda seziladigan sezgi turi tola olib boradigan nerv tizimidagi nuqta bilan belgilanadi. Masalan, oğriq tolasi qözğatilsa, tolani qanday turdagi qözğatuvçi qözğatganidan qat’i nazar, odam oğriqni idrok etadi. Qözğatuvçi elektr toki, tolaning qizib ketişi, tolaning ezilişi yoki töqima hujayralarining şikastlanişi bilan oğriq nerv uçining qözğalişi bölişi mumkin. Bu holatlarning barçasida odam oğriqni sezadi. Xuddi şunday, teginiş tolasi teginiş retseptorini elektr bilan qözğatiş yoki boşqa har qanday yöl bilan qözğatilsa, odam teginişni sezadi, çunki teginiş tolalari miyaning öziga xos teginiş sohalariga olib boradi. Xuddi şunday, köz tör pardasidan keladigan tolalar miyaning köriş sohalarida, quloqdan keladigan tolalar miyaning eşitiş sohalarida, harorat tolalari esa harorat sohalarida tugaydi.
+
+@@ ch47-f11
+Nerv tolalarining sezgining faqat bitta modalligini uzatişdagi bu öziga xosligi _belgilangan yöl tamoyili_ deb ataladi.
+
+@@ ch47-f12
+Sezgi qözğatuvçilarining nerv impulslariga transduksiyasi
+
+@@ ch47-f13
+Nerv uçlaridagi mahalliy elektr toklari — retseptor potensiallari
+
+@@ ch47-f14
+Barça sezgi retseptorlarining bitta umumiy xususiyati bor. Retseptorni qanday turdagi qözğatuvçi qözğatmasin, uning bevosita ta’siri retseptor membranasining elektr potensialini özgartirişdir. Potensialning bu özgarişi _retseptor potensiali_ deb ataladi.
+
+@@ ch47-f15
+LEAD: Retseptor potensiallarining mexanizmlari.
+Turli retseptorlar retseptor potensiallarini yuzaga keltiriş uçun bir neça yöldan biri bilan qözğatilişi mumkin: (1) retseptorning mexanik deformatsiyasi — u retseptor membranasini çözib, ion kanallarini oçadi; (2) membranaga kimyoviy moddaning ta’siri — u ham ion kanallarini oçadi; (3) membrana haroratining özgarişi — u membrana ötkazuvçanligini özgartiradi; yoki (4) elektromagnit nurlanişning, masalan, tör pardadagi köriş retseptoriga yoruğlikning ta’siri — u bevosita yoki bilvosita retseptor membranasining xususiyatlarini özgartirib, ionlarning membrana kanallari orqali oqişiga imkon beradi.
+
+@@ ch47-f16
+Retseptorlarni qözğatişning bu törtta yöli umuman olganda ma’lum sezgi retseptorlarining turli xillariga mos keladi. Barça hollarda membrana potensiali özgarişining asosiy sababi retseptor membranasi ötkazuvçanligining özgarişi bölib, u ionlarning membrana orqali köproq yoki kamroq oson diffuziyalanişiga imkon beradi va şu bilan _transmembrana potensialini_ özgartiradi.
+
+@@ ch47-f17
+LEAD: Retseptor potensialining maksimal amplitudasi.
+Köpçilik sezgi retseptori potensiallarining maksimal amplitudasi taxminan 100 mV, ammo bu darajaga faqat sezgi qözğatuvçisining juda yuqori jadalligida erişiladi. Bu harakat potensiallarida qayd etiladigan maksimal kuçlanişga taxminan teng va membrana natriy ionlari uçun maksimal ötkazuvçan bölgandagi kuçlaniş özgarişiga ham mos keladi.
+
+@@ ch47-f18
+LEAD: Retseptor potensialining harakat potensiallariga munosabati.
+Retseptor potensiali retseptorga ulangan nerv tolasida harakat potensiallarini yuzaga keltiriş _bösağasidan_ oşganda **Rasm 47-2** da tasvirlanganidek, harakat potensiallari paydo böladi. Şuningdek e’tibor bering: retseptor potensiali bösağa darajasidan qança yuqori köterilsa, _harakat potensiallari çastotasi_ şunça yuqori böladi.
+
+@@ ch47-f20
+Paçini tanaçasining retseptor potensiali — retseptor funksiyasiga misol
+
+@@ ch47-f21
+**Rasm 47-1** da e’tibor bering: Paçini tanaçasining markazidan markaziy nerv tolasi ötadi. Bu markaziy nerv tolasini köp qavatli konsentrik kapsula qatlamlari örab turadi. Şuning uçun tanaçaning taşqi tomonidagi istalgan joyni siqiş markaziy tolani uzaytiradi, botiradi yoki boşqaça deformatsiyalaydi.
+
+@@ ch47-f22
+**Rasm 47-3** da bittasidan taşqari barça kapsula qatlamlari olib taşlangandan keyin Paçini tanaçasining faqat markaziy tolasi körsatilgan. Kapsula içidagi markaziy tolaning uçi miyelinsiz, ammo tola tanaçadan çiqib periferik sezuvçi nervga kirişidan biroz oldin miyelinlaşadi (rasmda körsatilgan kök qobiq).
+
+@@ ch47-f24
+**Rasm 47-3** da Paçini tanaçasida retseptor potensiali hosil böliş mexanizmi ham körsatilgan. Tanaçaning siqilişi bilan deformatsiyalangan terminal tolaning kiçik sohasiga qarang va membranada ion kanallari oçilib, musbat zaryadli natriy ionlarining tola içiga diffuziyalanişiga imkon berganiga e’tibor bering. Bu ta’sir tola içida musbatlikni oşiradi, u “retseptor potensiali” deb ataladi. Retseptor potensiali öz navbatida strelkalar bilan körsatilgan, nerv tolasi böylab tarqaladigan tokning _mahalliy zanjirini_ yuzaga keltiradi. Paçini tanaçasi kapsulasi içida joylaşgan birinçi Ranvye bögiğida mahalliy tok oqimi şu bögiqdagi tola membranasini depolyarizatsiyalaydi. Bu esa nerv tolasi böylab markaziy nerv tizimiga uzatiladigan odatiy harakat potensiallarini boşlab beradi.
+
+@@ ch47-f25
+LEAD: Qözğatuvçi jadalligi va retseptor potensiali orasidagi bog‘liqlik.
+**Rasm 47-4** da Paçini tanaçasining markaziy qismiga tajribada qöllanilgan tobora kuçliroq mexanik siqiş (ortib boruvçi “qözğatuvçi kuçi”) natijasida retseptor potensiali amplitudasining özgarişi körsatilgan. E’tibor bering: amplituda dastlab tez ortadi, ammo qözğatuvçi kuçi yuqori bölganda borgan sari sekinroq ortadi.
+
+@@ ch47-f27
+Öz navbatida sezgi retseptorlaridan uzatiladigan _takroriy harakat potensiallari çastotasi_ retseptor potensialining ortişiga taxminan mutanosib ravişda ortadi. Bu tamoyilni **Rasm 47-4** dagi ma’lumotlar bilan birlaştirsak, retseptorning juda kuçli qözğatilişi harakat potensiallari sonining borgan sari kamroq qöşimça ortişiga sabab bölişini köriş mumkin. Bu juda muhim tamoyil deyarli barça sezgi retseptorlariga taalluqli. U retseptorga juda kuçsiz sezgi taassurotiga sezgir bölişga va şu bilan birga sezgi taassuroti haddan taşqari kuçli bölmaguniça maksimal razryadlaniş tezligiga yetmaslikka imkon beradi. Bu xususiyat retseptorga juda kuçsizdan juda kuçligaça bölgan nihoyatda keng javob diapazoniga ega böliş imkonini beradi.
+
+@@ ch47-f28
+Retseptorlarning adaptatsiyasi
+
+@@ ch47-f29
+Sezgi retseptorlarining yana bir xususiyati şundaki, ular ma’lum vaqtdan keyin har qanday doimiy qözğatuvçiga qisman yoki töliq _adaptatsiyalanadi (moslaşadi)_. Ya’ni uzluksiz sezgi qözğatuvçisi ta’sir qilganda retseptor dastlab yuqori impuls tezligi bilan, söngra borgan sari sekinroq tezlik bilan javob beradi va nihoyat harakat potensiallari tezligi juda oz miqdorgaça kamayadi yoki umuman yöqoladi.
+
+@@ ch47-f30
+**Rasm 47-5** da ayrim turdagi retseptorlarning odatiy adaptatsiyasi körsatilgan. E’tibor bering: Paçini tanaçasi juda tez adaptatsiyalanadi, tuk retseptorlari taxminan bir soniya içida adaptatsiyalanadi, ayrim bögim kapsulasi va muşak duki retseptorlari esa sekin adaptatsiyalanadi.
+
+@@ ch47-f32
+Bundan taşqari, ayrim sezgi retseptorlari boşqalariga qaraganda ancha katta darajada adaptatsiyalanadi. Masalan, Paçini tanaçalari soniyaning bir neça yuzdan bir qismi içida “söniş” darajasigaça adaptatsiyalanadi, tuklar asosidagi retseptorlar esa bir soniya yoki undan köproq vaqt içida söniş darajasigaça adaptatsiyalanadi. Ehtimol köpçilik _mexanoretseptorlar_ oxir-oqibat deyarli töliq adaptatsiyalanadi, ammo ayrimlari buning uçun soatlar yoki kunlar talab qiladi va ular “adaptatsiyalanmaydigan” retseptorlar deb ataladi. Mexanoretseptorning deyarli töliq adaptatsiyalanişi uçun ölçangan eng uzoq vaqt taxminan 2 kun bölib, bu köplab uyqu arteriyasi va aorta baroretseptorlarining adaptatsiya vaqtidir. Biroq ayrim fiziologlar bu ixtisoslaşgan baroretseptorlar heç qaçon töliq adaptatsiyalanmaydi, deb hisoblaydi. Mexanoretseptor bölmagan ayrim retseptorlar — masalan, xemoretseptorlar va oğriq retseptorlari — ehtimol heç qaçon töliq adaptatsiyalanmaydi.
+
+@@ ch47-f33
+LEAD: Retseptorlarning adaptatsiyalaniş mexanizmlari.
+Retseptor potensialining hosil bölişi har bir retseptorning öziga xos xususiyati bölgani kabi retseptor adaptatsiyasining mexanizmi ham har bir turdagi retseptorda turliça. Masalan, közdagi tayoqçalar va kolbaçalar yoruğlikka sezgir kimyoviy moddalarining konsentratsiyasini özgartiriş orqali adaptatsiyalanadi (51-bobda muhokama qilinadi).
+
+@@ ch47-f34
+Mexanoretseptorlar orasida eng batafsil örganilgan retseptor Paçini tanaçasidir. Bu retseptorda adaptatsiya ikki yöl bilan yuz beradi. Birinçidan, Paçini tanaçasi viskoelastik tuzilma bölib, tanaçaning bir tomoniga deformatsiyalovçi kuç birdan ta’sir qilganda bu kuç tanaçaning qovuşqoq komponenti orqali bir zumda markaziy nerv tolasining xuddi şu tomoniga bevosita uzatiladi va retseptor potensialini yuzaga keltiradi. Biroq soniyaning bir neça yuzdan bir qismi içida tanaça içidagi suyuqlik qayta taqsimlanadi va retseptor potensiali endi hosil bölmaydi. Şunday qilib, retseptor potensiali siqiş boşlanganda paydo böladi, ammo siqiş davom etayotgan bölsa ham soniyaning kiçik bir qismi içida yöqoladi.
+
+@@ ch47-f35
+Paçini tanaçasining ikkinçi, ancha sekinroq adaptatsiya mexanizmi nerv tolasining özida yuz beradigan _akkomodatsiya_ deb ataluvçi jarayon natijasidir. Ya’ni agar markaziy tola tasodifan deformatsiyalanişda davom etsa ham, nerv tolasining uçi asta-sekin qözğatuvçiga akkomodatsiyalanadi. Bu ehtimol nerv tolasi membranasidagi natriy kanallarining asta-sekin “inaktivatsiyalanişi” natijasidir. Bu kanallar orqali natriy toki oqişi ularning asta-sekin yopilişiga sabab bölişini bildiradi. 5-bobda tuşuntirilganidek, bu ta’sir hujayra membranasining barça yoki köpçilik natriy kanallarida yuz beradiganga öxşaydi.
+
+@@ ch47-f36
+Ehtimol, adaptatsiyaning şu ikki umumiy mexanizmi mexanoretseptorlarning boşqa turlariga ham taalluqli. Ya’ni adaptatsiyaning bir qismi retseptor tuzilişidagi qayta moslaşuvlar natijasida, bir qismi esa terminal nerv fibrillasidagi elektr turidagi akkomodatsiya natijasida yuz beradi.
+
+@@ ch47-f37
+LEAD: Sekin adaptatsiyalanadigan retseptorlar uzluksiz qözğatuvçi kuçini aniqlaydi — “tonik” retseptorlar.
+Sekin adaptatsiyalanadigan retseptorlar qözğatuvçi ta’sir qilib turar ekan (yoki heç bölmaganda köp daqiqalar yoki soatlar davomida), miyaga impulslar uzatişda davom etadi. Şuning uçun ular miyani tananing holati va uning atrof-muhitga munosabati haqida doimo xabardor qilib turadi. Masalan, muşak duklari va Golji pay apparatlaridan keladigan impulslar nerv tizimiga har lahzada muşak qisqarişi holati va muşak payiga tuşadigan yuk haqida biliş imkonini beradi.
+
+@@ ch47-f38
+Sekin adaptatsiyalanadigan boşqa retseptorlarga quyidagilar kiradi: (1) vestibulyar apparatdagi dog‘ (makula) retseptorlari; (2) oğriq retseptorlari; (3) arterial daraxtning baroretseptorlari; va (4) uyqu arteriyasi va aorta tanaçalarining xemoretseptorlari.
+
+@@ ch47-f39
+Sekin adaptatsiyalanadigan retseptorlar axborotni köp soatlar yoki hatto kunlar davomida uzatişda davom eta olgani uçun ular _tonik retseptorlar_ deb ataladi.
+
+@@ ch47-f40
+LEAD: Tez adaptatsiyalanadigan retseptorlar qözğatuvçi kuçining özgarişini aniqlaydi — “tezlik retseptorlari”, “harakat retseptorlari” yoki “fazik retseptorlar”.
+Tez adaptatsiyalanadigan retseptorlarni uzluksiz signal uzatiş uçun işlatib bölmaydi, çunki ular faqat qözğatuvçi kuçi özgarganda qözğaladi. Biroq ular _özgariş haqiqatan yuz berayotgan paytda_ kuçli reaksiya beradi. Şuning uçun bu retseptorlar _tezlik retseptorlari, harakat retseptorlari_ yoki _fazik retseptorlar_ deb ataladi. Şunday qilib, Paçini tanaçasida töqimaga to‘satdan bosim berilsa, bu retseptor bir neça millisekund qözğaladi, söngra bosim davom etayotgan bölsa ham uning qözğalişi tugaydi. Biroq keyinroq bosim olib taşlanganda u yana signal uzatadi. Boşqaça aytganda, Paçini tanaçasi nerv tizimini töqimalarning tez deformatsiyalari haqida xabardor qilişda juda muhim, ammo organizmdagi doimiy holatlar haqida axborot uzatiş uçun yaroqsiz.
+
+@@ ch47-f41
+LEAD: Tezlik retseptorlarining oldindan aytiş funksiyasi.
+Agar organizm holatidagi biror özgariş qanday tezlikda yuz berayotgani ma’lum bölsa, bir neça soniya yoki hatto bir neça daqiqadan keyingi holatini oldindan aytiş mumkin. Masalan, quloqdagi vestibulyar apparatning yarim doira kanallari retseptorlari odam burilişda yugurganda boşning qanday tezlikda burila boşlayotganini aniqlaydi. Bu axborotdan foydalanib, odam keyingi 2 soniya içida qança burilişini oldindan bila oladi va muvozanatni yöqotmaslik uçun oyoqlar harakatini _oldindan_ moslaştira oladi. Xuddi şunday, bögimlar içida yoki ularning yonida joylaşgan retseptorlar tananing turli qismlari harakatining tezligini aniqlaşga yordam beradi. Masalan, odam yugurayotganda bögimlardagi tezlik retseptorlaridan keladigan axborot nerv tizimiga keyingi soniyaning istalgan aniq ulişida oyoqlar qayerda bölişini oldindan aytiş imkonini beradi. Şuning uçun odam yiqilmasligi uçun holatga zarur oldindan tuzatişlar kiritiş maqsadida oyoq muşaklariga tegişli harakat signallari uzatilişi mumkin. Bu oldindan aytiş funksiyasining yöqolişi odamning yugurişini imkonsiz qiladi.
+
+@@ ch47-f42
+Ayrim signallar markaziy nerv tizimiga yoki undan juda tez uzatilişi kerak, aks holda axborot foydasiz bölib qoladi. Bunga yuguriş vaqtida soniyaning har bir ulişida oyoqlarning lahzalik holati haqida miyani xabardor qiladigan sezgi signallari misol böladi. Boşqa tomondan, uzoq davom etadigan simillovçi oğriqni tasvirlaydigan axborot kabi ayrim sezgi axboroti turlarini tez uzatiş şart emas, şuning uçun sekin ötkazuvçi tolalar ham yetarli. **Rasm 47-6** da körsatilganidek, nerv tolalari diametri 0,5 dan 20 mikrometrgaça bölgan barça ölçamlarda uçraydi. Diametr qança katta bölsa, ötkaziş tezligi şunça yuqori. Ötkaziş tezliklari 0,5 dan 120 m/s gaça oraliqda böladi.
+
+@@ ch47-f44
+LEAD: Nerv tolalarining umumiy tasnifi.
+**Rasm 47-6** da nerv tolalarining turli xillari uçun “umumiy tasnif” va “sezuvçi nervlar tasnifi” körsatilgan. Umumiy tasnifda tolalar A va C turlariga bölinadi. A turidagi tolalar esa yana α, β, γ va δ tolalarga bölinadi.
+
+@@ ch47-f45
+A turidagi tolalar orqa miya nervlarining odatiy yirik va örta ölçamli _miyelinli_ tolalaridir. C turidagi tolalar impulslarni past tezlikda ötkazadigan mayda _miyelinsiz_ nerv tolalaridir. C tolalar köpçilik periferik nervlardagi sezuvçi tolalarning yarmidan köprog‘ini, şuningdek barça postganglionar vegetativ tolalarni taşkil etadi.
+
+@@ ch47-f46
+Turli nerv tolalari turlarining ölçamlari, ötkaziş tezliklari va funksiyalari ham **Rasm 47-6** da berilgan. E’tibor bering: ayrim yirik miyelinli tolalar impulslarni 120 m/s gaça tezlikda uzata oladi va 1 soniyada futbol maydonidan uzunroq masofani bosib ötadi. Aksinça, eng mayda tolalar impulslarni 0,5 m/s gaça sekin uzatadi va oyoqning bosh barmog‘idan orqa miyagaça yetib boriş uçun taxminan 2 soniya sarflaydi.
+
+@@ ch47-f47
+LEAD: Sezgi fiziologlari qöllaydigan muqobil tasnif.
+Ayrim yozib oliş usullari Aα tolalarini ikki kiçik guruhga ajratiş imkonini bergan, ammo xuddi şu usullar Aβ va Aγ tolalarini osongina farqlay olmaydi. Şuning uçun sezgi fiziologlari köpinça quyidagi tasnifdan foydalanadi.
+
+@@ ch47-f48
+_Ia guruh._ Muşak duklarining annulospiral uçlaridan keladigan tolalar (diametri örtaça ≈17 mikron; bu tolalar umumiy tasnifdagi α-turdagi A tolalar).
+
+@@ ch47-f49
+_Ib guruh._ Golji pay a’zolaridan keladigan tolalar (diametri örtaça ≈16 mikrometr; bu tolalar ham α-turdagi A tolalar).
+
+@@ ch47-f50
+_II guruh._ Teridagi köpçilik alohida taktil retseptorlardan va muşak duklarining gulçambarsimon uçlaridan keladigan tolalar (diametri örtaça ≈8 mikrometr; bu tolalar umumiy tasnifdagi β- va γ-turdagi A tolalar).
+
+@@ ch47-f51
+_III guruh._ Harorat, dağal teginiş va sançuvçi oğriq sezgilarini olib boradigan tolalar (diametri örtaça ≈3 mikrometr; ular umumiy tasnifdagi δ-turdagi A tolalar).
+
+@@ ch47-f52
+_IV guruh._ Oğriq, qişiş, harorat va dağal teginiş sezgilarini olib boradigan miyelinsiz tolalar (diametri 0,5–2 mikrometr; ular umumiy tasnifdagi C turidagi tolalar).
+
+@@ ch47-f53
+Nerv yöllarida signal jadalligining uzatilişi — fazoviy va vaqtli summatsiya
+
+@@ ch47-f54
+Har bir signalning doimo yetkazilişi kerak bölgan xususiyatlaridan biri signal jadalligidir, masalan, oğriq jadalligi. Jadallikning turli darajalari parallel tolalar sonini oşiriş yoki bitta tola böylab köproq harakat potensiali yuboriş orqali uzatilişi mumkin. Bu ikki mexanizm mos ravişda _fazoviy summatsiya_ va _vaqtli summatsiya_ deb ataladi.
+
+@@ ch47-f55
+LEAD: Fazoviy summatsiya.
+**Rasm 47-7** da _fazoviy summatsiya_ hodisasi körsatilgan: signal kuçining ortişi tobora köproq tolalardan foydalaniş orqali uzatiladi. Bu rasmda köp sonli parallel oğriq tolalari bilan innervatsiya qilingan teri bölagi körsatilgan. Bu tolalarning har biri oğriq retseptorlari vazifasini bajaradigan yuzlab mitti _erkin nerv uçlariga_ tarmoqlanadi. Bitta oğriq tolasidan çiqadigan tolalarning butun töplami köpinça diametri 5 santimetrgaça bölgan teri sohasini qoplaydi. Bu soha şu tolaning _retseptiv maydoni_ deb ataladi. Uçlar soni maydon markazida köp, ammo periferiyaga qarab kamayib boradi. Rasmdan tarmoqlanuvçi fibrillalar boşqa oğriq tolalarining fibrillalari bilan bir-birining ustiga tuşişini ham köriş mumkin. Şuning uçun teriga igna sançiş odatda bir vaqtning özida köplab turli oğriq tolalarining uçlarini qözğatadi. Igna ma’lum bir oğriq tolasining retseptiv maydoni markaziga sançilganda şu tolaning qözğaliş darajasi maydon periferiyasiga sançilgandagidan ancha katta böladi, çunki maydon örtasida erkin nerv uçlari köp.
+
+@@ ch47-f57
+Şunday qilib, **Rasm 47-7** ning pastki qismida teri sohasidan keladigan nerv tutamining köndalang kesimining uç körinişi körsatilgan. Çapda kuçsiz qözğatuvçining ta’siri: tutam örtasidagi faqat bitta nerv tolasi kuçli qözğalgan (qizil rangli tola bilan körsatilgan), bir neça qöşni tolalar esa kuçsiz qözğalgan (yarim qizil tolalar). Nerv köndalang kesimining qolgan ikki körinişi örtaça va kuçli qözğatuvçining ta’sirini körsatadi: tobora köproq tolalar qözğaladi. Şunday qilib, kuçliroq signallar tobora köproq tolalarga tarqaladi. Bu hodisa _fazoviy summatsiya_ deb ataladi.
+
+@@ ch47-f58
+LEAD: Vaqtli summatsiya.
+Kuçayib boruvçi signallarni uzatişning ikkinçi yöli har bir tolada nerv impulslari _çastotasini_ oşirişdir. Bu _vaqtli summatsiya_ deb ataladi. **Rasm 47-8** bu hodisani körsatadi: yuqori qismida signal kuçining özgarişi, pastki qismida esa nerv tolasi uzatgan haqiqiy impulslar körsatilgan.
+
+@@ ch47-f60
+Neyron töplamlarida signallarning uzatilişi va qayta işlanişi
+
+@@ ch47-f61
+Markaziy nerv tizimi minglab-millionlab neyron töplamlaridan iborat. Bu töplamlarning ayrimlarida neyronlar kam, boşqalarida esa juda köp. Masalan, butun bosh miya pöstlog‘ini bitta katta neyron töplami deb hisoblaş mumkin. Boşqa neyron töplamlariga turli bazal gangliyalar hamda talamus, miyaça, örta miya, köprik va uzunçoq miyadagi alohida yadrolar kiradi. Şuningdek, orqa miyaning butun orqa kulrang moddasini bitta uzun neyronlar töplami deb hisoblaş mumkin.
+
+@@ ch47-f62
+Har bir neyron töplamining öziga xos taşkiliy tuzilişi bor. U töplamga signallarni öziga xos tarzda qayta işlaş imkonini beradi va şu bilan töplamlarning butun majmuasi nerv tizimining son-sanoqsiz funksiyalarini bajara oladi. Biroq funksiyalardagi farqlarga qaramay, töplamlarning işlaşida keyingi bölimlarda tasvirlangan köp umumiy tamoyillar ham bor.
+
+@@ ch47-f63
+Signallarning neyron töplamlari orqali relelanişi
+
+@@ ch47-f64
+LEAD: Signallarni relelaş uçun neyronlarning taşkil topişi.
+**Rasm 47-9** da neyron töplamidagi bir neça neyronning sxemasi körsatilgan: çapda kiruvçi tolalar, öngda esa “çiquvçi” tolalar. Har bir kiruvçi tola yuzlab-minglab marta tarmoqlanib, ming va undan ortiq terminal fibrillalar hosil qiladi. Ular töplamdagi neyronlarning dendritlari yoki hujayra tanalari bilan sinaps hosil qiliş uçun töplamning katta sohasiga tarqaladi. Dendritlar ham odatda tarmoqlanib, töplamda yuzlab-minglab mikrometrga tarqaladi.
+
+@@ ch47-f66
+Har bir kiruvçi nerv tolasi qözğatadigan neyron sohasi uning _qözğatiş maydoni_ deb ataladi. E’tibor bering: har bir kiruvçi tolaning terminallarining köp qismi uning “maydonidagi” eng yaqin neyronda joylaşadi, uzoqroqdagi neyronlarda esa borgan sari kamroq terminallar joylaşadi.
+
+@@ ch47-f67
+LEAD: Bösağaviy va bösağaosti qözğatuvçilar — qözğaliş yoki fasilitatsiya.
+46-bobda muhokama qilinganidek, bitta qözğatuvçi presinaptik terminalning razryadi postsinaptik neyronda deyarli heç qaçon harakat potensialini yuzaga keltirmaydi. Buning örniga qözğaliş yuzaga keliş uçun bitta neyronda köp sonli kiruvçi terminallar bir vaqtda yoki tez ketma-ket razryadlanişi kerak. Masalan, **Rasm 47-9** da neyronlarning istalgan birini qözğatiş uçun oltita terminal deyarli bir vaqtda razryadlanişi kerak deb faraz qilaylik. E’tibor bering: _1-kiruvçi tolada a neyronni_ razryadlantiriş uçun yetarlidan ortiq terminallar bor. 1-kiruvçi toladan bu neyronga keladigan qözğatuvçi _qözğatuvçi stimul_ deyiladi; u qözğaliş uçun zarur bölgan bösağadan yuqori bölgani uçun _bösağadan yuqori stimul_ deb ham ataladi.
+
+@@ ch47-f68
+1-kiruvçi tola b va c neyronlarga ham terminallar beradi, ammo ular qözğaliş uçun yetarli emas. Şunga qaramay, bu terminallarning razryadi bu ikkala neyronning boşqa kiruvçi nerv tolalari orqali keladigan signallar bilan qözğaliş ehtimolini oşiradi. Şuning uçun bu neyronlarga keladigan stimullar _bösağaosti_ stimullar, neyronlarning özi esa _fasilitatsiyalangan_ deyiladi.
+
+@@ ch47-f69
+Xuddi şunday, _2-kiruvçi tola_ uçun _d neyronga_ keladigan stimul bösağadan yuqori stimul, _b_ va _c neyronlarga_ keladigan stimullar esa bösağaosti, ammo fasilitatsiyalovçi stimullardir.
+
+@@ ch47-f70
+**Rasm 47-9** neyron töplamining juda qisqartirilgan körinişini ifodalaydi, çunki **Rasm 47-10** da körsatilganidek, har bir kiruvçi nerv tolasi odatda öz taqsimot “maydonidagi” yuzlab yoki minglab neyronlarga juda köp tarmoqlanuvçi terminallar beradi. Bu rasmda dumaloq bilan belgilangan maydonning markaziy qismida barça neyronlar kiruvçi tola tomonidan qözğatiladi. Şuning uçun bu kiruvçi tolaning _razryad zonasi_ deyiladi, u _qözğaliş zonasi_ yoki _liminal zona_ deb ham ataladi. Uning ikki yonida neyronlar fasilitatsiyalanadi, ammo qözğalmaydi; bu sohalar _fasilitatsiya zonasi_, şuningdek _bösağaosti zona_ yoki _subliminal zona_ deb ataladi.
+
+@@ ch47-f72
+LEAD: Neyron töplamining tormozlanişi.
+Ayrim kiruvçi tolalar neyronlarni qözğatiş örniga tormozlaydi. Bu mexanizm fasilitatsiyaning teskarisi bölib, tormozlovçi tarmoqlarning butun maydoni _tormozlaniş zonasi_ deb ataladi. Bu zona markazida uçlar köp bölgani uçun tormozlaniş darajasi katta böladi va çetlariga qarab borgan sari kamayadi.
+
+@@ ch47-f73
+Neyron töplamlaridan ötayotgan signallarning divergensiyasi
+
+@@ ch47-f74
+Köpinça neyron töplamiga kirayotgan kuçsiz signallarning töplamdan çiqayotgan ancha köp nerv tolalarini qözğatişi muhim. Bu hodisa _divergensiya_ deb ataladi. Divergensiyaning ikki asosiy turi bor va ularning maqsadi butunlay boşqa-boşqa.
+
+@@ ch47-f75
+Divergensiyaning _kuçaytiruvçi_ turi **Rasm 47-11**_A_ da körsatilgan. Kuçaytiruvçi divergensiya şunçaki kiruvçi signal öz yölidagi neyronlarning ketma-ket tartiblaridan ötgani sari tobora köproq neyronlarga tarqalişini bildiradi. Divergensiyaning bu turi skelet muşaklarini boşqaradigan kortikospinal yölga xos: harakat pöstlog‘idagi bitta yirik piramidal hujayra kuçli fasilitatsiyalangan şaroitda 10 000 tagaça muşak tolasini qözğata oladi. **Rasm 47-11**_B_ da körsatilgan divergensiyaning ikkinçi turi — _bir neça yölga divergensiya_. Bu holda signal töplamdan ikki yönalişda uzatiladi. Masalan, orqa miyaning orqa ustunlari böylab yuqoriga uzatilgan axborot miyaning pastki qismida ikki yöl bilan ketadi: (1) miyaçaga; va (2) miyaning pastki sohalari orqali talamus va bosh miya pöstlog‘iga. Xuddi şunday, talamusda deyarli barça sezgi axboroti talamusning yanada çuqurroq tuzilmalariga va bir vaqtning özida bosh miya pöstlog‘ining alohida sohalariga uzatiladi.
+
+@@ ch47-f77
+Signallarning konvergensiyasi
+
+@@ ch47-f78
+_Konvergensiya_ köplab kiriş signallarining bitta neyronni qözğatiş uçun birlaşişini bildiradi. **Rasm 47-12**_A_ da
+
+@@ ch47-f80
+_bitta manbadan konvergensiya_ körsatilgan, ya’ni bitta kiruvçi tolalar yölidan çiqqan köplab terminallar bitta neyronda tugaydi. Konvergensiyaning bu turining ahamiyati şundaki, neyronlar bitta kiruvçi terminaldan kelgan harakat potensiali bilan deyarli heç qaçon qözğalmaydi. Biroq köplab terminallardan neyronga konvergensiyalanadigan harakat potensiallari neyronni razryadlaniş uçun zarur bösağagaça yetkaziş uçun yetarli fazoviy summatsiyani ta’minlaydi.
+
+@@ ch47-f81
+**Rasm 47-12**_B_ da körsatilganidek, _konvergensiya köplab manbalardan keladigan_ (qözğatuvçi yoki tormozlovçi) _kiriş signallari natijasida ham yuzaga kelişi mumkin_. Masalan, orqa miyaning oraliq neyronlari quyidagilardan konvergensiyalanuvçi signallar oladi: (1) orqa miyaga kiradigan periferik nerv tolalari; (2) orqa miyaning bir segmentidan boşqasiga ötadigan propriospinal tolalar; (3) bosh miya pöstlog‘idan keladigan kortikospinal tolalar; va (4) miyadan orqa miyaga tuşadigan boşqa bir neça uzun yöllar. Söngra oraliq neyronlardan keladigan signallar muşak faoliyatini boşqariş uçun oldingi harakat neyronlariga konvergensiyalanadi.
+
+@@ ch47-f82
+Bunday konvergensiya turli manbalardan keladigan axborotni _summatsiyalaş_ imkonini beradi va natijada javob barça turli xil axborotlarning summatsiyalangan ta’siri böladi. Konvergensiya markaziy nerv tizimi turli xil axborotni özaro bog‘laydigan, summatsiyalaydigan va saralaydigan muhim yöllardan biridir.
+
+@@ ch47-f83
+Ham qözğatuvçi, ham tormozlovçi çiquvçi signallarga ega neyron zanjiri
+
+@@ ch47-f84
+Ba’zan neyron töplamiga kirgan signal bir yönalişga ketadigan qözğatuvçi çiquvçi signalni va bir vaqtning özida boşqa joyga ketadigan tormozlovçi signalni yuzaga keltiradi. Masalan, orqa miyadagi bir guruh neyronlar oyoqni oldinga harakatlantiriş uçun qözğatuvçi signal uzatayotgan bir vaqtda alohida neyronlar guruhi orqali oyoqning orqa tomonidagi muşaklarni tormozlaydigan signal uzatiladi, şunda ular oldinga harakatga qarşilik qilmaydi. Bu turdagi zanjir barça antagonist muşaklar juftlarini boşqarişga xos bölib, _resiprok tormozlaniş zanjiri_ deb ataladi.
+
+@@ ch47-f85
+**Rasm 47-13** da tormozlanişga qanday erişilişi körsatilgan. Kiruvçi tola qözğatuvçi çiquvçi yölni bevosita qözğatadi, ammo u oraliq _tormozlovçi neyronni_ (2-neyron) qözğatadi. Bu neyron töplamdan çiqadigan ikkinçi yölni tormozlaş uçun boşqa turdagi mediator modda ajratadi. Bu turdagi zanjir miyaning köp qismlarida ortiqça faollikning oldini olişda ham muhim.
+
+@@ ch47-f87
+Neyron töplamining signalni uzaytirişi — keyingi razryad
+
+@@ ch47-f88
+Şu paytgaça biz neyron töplamlari orqali şunçaki relelanadigan signallarni körib çiqdik. Biroq köp hollarda töplamga kirgan signal kiruvçi signal tugagandan keyin bir neça millisekunddan köp daqiqalargaça davom etadigan uzoq çiquvçi razryadni yuzaga keltiradi. U _keyingi razryad_ deb ataladi. Keyingi razryad yuzaga keladigan eng muhim mexanizmlar keyingi bölimlarda tasvirlangan.
+
+@@ ch47-f89
+LEAD: Sinaptik keyingi razryad.
+Qözğatuvçi sinapslar neyron dendritlari yoki somasi yuzasida razryadlanganda neyronda postsinaptik elektr potensiali rivojlanadi va u köp millisekundlar davom etadi, ayniqsa uzoq ta’sir qiluvçi ayrim sinaptik mediator moddalar iştirok etganda. Bu potensial saqlanar ekan, u neyronni qözğatişda davom etib, 46-bobda tuşuntirilganidek, uning uzluksiz çiquvçi impulslar seriyasini uzatişiga sabab bölişi mumkin. Şunday qilib, faqat şu sinaptik keyingi razryad mexanizmi natijasida bitta lahzalik kiruvçi signal köp millisekundlar davom etadigan barqaror çiquvçi signalni (takroriy razryadlar seriyasini) yuzaga keltirişi mumkin.
+
+@@ ch47-f90
+LEAD: Reverberatsiyalanuvçi (tebranuvçi) zanjir signal uzayişining sababi sifatida.
+Butun nerv tizimidagi eng muhim zanjirlardan biri _reverberatsiyalanuvçi_ yoki _tebranuvçi zanjirdir_. Bunday zanjirlar neyron zanjiri içidagi musbat teskari aloqa natijasida yuzaga keladi: u xuddi şu zanjirning kirişini qayta qözğatiş uçun orqaga qaytadi. Natijada zanjir bir marta qözğatilgaçdan keyin uzoq vaqt takroriy razryadlanişi mumkin.
+
+@@ ch47-f91
+Reverberatsiyalanuvçi zanjirlarning bir neça mumkin bölgan turi **Rasm 47-14** da körsatilgan. Eng oddiysi — **Rasm 47-14A** da körsatilgan zanjir faqat bitta neyrondan iborat. Bu holda çiquvçi neyron özini qayta qözğatiş uçun öz dendritlari yoki somasiga kollateral nerv tolasini qaytaradi. Bu turdagi zanjirning ahamiyati aniq bölmasa-da, nazariy jihatdan neyron bir marta razryadlangaçdan keyin teskari aloqa stimullari neyronni undan keyin ham uzoq vaqt razryadlantirib turişi mumkin.
+
+@@ ch47-f93
+**Rasm 47-14B** da teskari aloqa zanjirida bir neça qöşimça neyron körsatilgan, bu dastlabki razryad va teskari aloqa signali orasida uzoqroq keçikişga sabab böladi. **Rasm 47-14C** da reverberatsiyalanuvçi zanjirga ham fasilitatsiyalovçi, ham tormozlovçi tolalar ta’sir qiladigan murakkabroq tizim körsatilgan. Fasilitatsiyalovçi signal reverberatsiya jadalligi va çastotasini oşiradi, tormozlovçi signal esa reverberatsiyani susaytiradi yoki töxtatadi.
+
+@@ ch47-f94
+**Rasm 47-14D** köpçilik reverberatsiyalanuvçi yöllar köplab parallel tolalardan iborat ekanini körsatadi. Har bir hujayra stansiyasida terminal fibrillalar keng tarqaladi. Bunday tizimda umumiy reverberatsiyalanuvçi signal ayni paytda reverberatsiyada neçta parallel nerv tolasi iştirok etayotganiga qarab kuçsiz yoki kuçli bölişi mumkin.
+
+@@ ch47-f95
+LEAD: Reverberatsiyalanuvçi zanjirning signalni uzaytiriş xususiyatlari.
+**Rasm 47-15** da odatiy reverberatsiyalanuvçi zanjirning çiquvçi signallari körsatilgan. Kiruvçi stimul atigi taxminan 1 millisekund davom etişi mumkin, ammo çiquvçi signal köp millisekundlar yoki hatto daqiqalar davom etişi mumkin. Rasm çiquvçi signal jadalligi odatda reverberatsiyaning boşida yuqori qiymatgaça ortişini, söngra kritik nuqtagaça kamayib, şu nuqtada birdan butunlay töxtaşini körsatadi. Reverberatsiyaning bunday to‘satdan töxtaşining sababi zanjirdagi sinaptik birikmalarning çarçaşidir. Ma’lum kritik darajadan oşgan çarçaş zanjirdagi keyingi neyronning qözğalişini bösağa darajasidan pastga tuşiradi va zanjirning teskari aloqasi birdan uziladi.
+
+@@ ch47-f97
+Töxtaşdan oldingi umumiy signal davomiyligini miyaning boşqa qismlaridan kelib, zanjirni tormozlaydigan yoki fasilitatsiyalaydigan signallar ham boşqarişi mumkin. Çiquvçi signallarning bu tartiblari oyoq panjasi oğriq bilan qözğatilgandan keyin bukuvçi refleksda iştirok etadigan muşakni qözğatuvçi harakat nervlaridan yozib olingan (keyinroq **Rasm 47-18** da körsatilganidek).
+
+@@ ch47-f99
+Ayrim neyron zanjirlaridan uzluksiz signal çiqişi
+
+@@ ch47-f100
+Ayrim neyron zanjirlari hatto qözğatuvçi kiriş signallarisiz ham uzluksiz çiquvçi signallar çiqaradi. Bu ta’sirni kamida ikki mexanizm yuzaga keltirişi mumkin: (1) neyronning uzluksiz içki razryadi; va (2) uzluksiz reverberatsiyalanuvçi signallar.
+
+@@ ch47-f101
+LEAD: Neyronning içki qözğaluvçanligi tufayli uzluksiz razryad.
+Neyronlar ham boşqa qözğaluvçan töqimalar kabi qözğatuvçi membrana potensiali darajasi ma’lum bösağadan oşsa, takroriy razryadlanadi. Köplab neyronlarning membrana potensiallari hatto me’yorda ham ularning uzluksiz impulslar çiqarişi uçun yetarli darajada yuqori. Bu hodisa ayniqsa miyaçaning köplab neyronlarida, şuningdek orqa miyaning köpçilik oraliq neyronlarida kuzatiladi. Bu hujayralarning impuls çiqariş tezligini qözğatuvçi signallar oşirişi yoki tormozlovçi signallar kamaytirişi mumkin. Tormozlovçi signallar köpinça razryadlaniş tezligini nolgaça kamaytira oladi.
+
+@@ ch47-f102
+LEAD: Reverberatsiyalanuvçi zanjirlardan çiqadigan uzluksiz signallar axborot uzatiş vositasi sifatida.
+Reverberatsiyani töxtatadigan darajada çarçamaydigan reverberatsiyalanuvçi zanjir uzluksiz impulslar manbaidir. Bundan taşqari, reverberatsiyalanuvçi töplamga kiradigan qözğatuvçi impulslar çiquvçi signalni oşirişi, tormozlaniş esa signalni kamaytirişi yoki hatto söndirişi mumkin.
+
+@@ ch47-f103
+**Rasm 47-16** da neyronlar töplamidan çiqadigan uzluksiz signal körsatilgan. Töplam impulslarni neyronlarning içki qözğaluvçanligi tufayli yoki reverberatsiya natijasida çiqarayotgan bölişi mumkin. E’tibor bering: qözğatuvçi kiriş signali çiquvçi signalni keskin oşiradi, tormozlovçi kiriş signali esa çiqişni keskin kamaytiradi. Radiouzatkiçlar bilan taniş talabalar buni axborot uzatişning _taşuvçi tölqin_ turi ekanini taniydi. Ya’ni qözğatuvçi va tormozlovçi boşqaruv signallari çiquvçi signalning _sababi_ emas, ammo ular uning özgaruvçan jadallik darajasini _boşqaradi_. E’tibor bering: _bu taşuvçi tölqin tizimi signal jadalligini ham oşiriş, ham kamaytiriş imkonini beradi_, holbuki şu paytgaça biz muhokama qilgan axborot uzatiş turlari asosan manfiy emas, balki musbat axborot bölgan. Axborot uzatişning bu turidan vegetativ nerv tizimi tomirlar tonusi, içak tonusi, köz rangdor pardasining torayiş darajasi va yurak urişi tezligi kabi funksiyalarni boşqarişda foydalanadi. Ya’ni bu sohalarning har biriga boradigan qözğatuvçi nerv signalini reverberatsiyalanuvçi neyron yöliga kiradigan qöşimça kiriş signallari oşirişi yoki kamaytirişi mumkin.
+
+@@ ch47-f105
+Ritmik signal çiqişi
+
+@@ ch47-f106
+Köplab neyron zanjirlari ritmik çiquvçi signallar çiqaradi. Masalan, ritmik nafas signali uzunçoq miya va köprikdagi nafas markazlarida hosil böladi. Bu ritmik nafas signali butun hayot davomida davom etadi. Itning orqa oyoği bilan qaşiniş harakatlarini yoki istalgan hayvonning yuriş harakatlarini yuzaga keltiradigan boşqa ritmik signallar ritmik signallarni boşlab beriş uçun tegişli zanjirlarga kiruvçi stimullarni talab qiladi.
+
+@@ ch47-f107
+Tajribada örganilgan barça yoki deyarli barça ritmik signallar reverberatsiyalanuvçi zanjirlar yoki qözğatuvçi yoki tormozlovçi signallarni bir neyron töplamidan keyingisiga aylana yöl böylab uzatadigan ketma-ket reverberatsiyalanuvçi zanjirlar natijasida yuzaga kelişi aniqlangan.
+
+@@ ch47-f108
+Qözğatuvçi yoki tormozlovçi signallar ritmik çiquvçi signal amplitudasini ham oşirişi yoki kamaytirişi mumkin. Masalan, **Rasm 47-17** da diafragma nervidagi nafas çiquvçi signalining özgarişlari körsatilgan. Uyqu arteriyasi tanaçasi arterial qondagi kislorod yetişmasligi bilan qözğatilganda ritmik nafas çiquvçi signalining ham çastotasi, ham amplitudasi borgan sari ortadi.
+
+@@ ch47-f110
+Neyron zanjirlarining beqarorligi va barqarorligi
+
+@@ ch47-f111
+Miyaning deyarli har bir qismi boşqa har bir qismi bilan bevosita yoki bilvosita bog‘langan va bu jiddiy muammo tuğdiradi. Agar birinçi qism ikkinçisini, ikkinçisi uçinçisini, uçinçisi törtinçisini va hokazo qözğatib, nihoyat signal yana birinçi qismni qözğatsa, miyaning istalgan qismiga kirgan qözğatuvçi signal barça qismlarni uzluksiz qayta qözğatiş siklini boşlab yuborgan bölardi. Agar bunday sikl yuz bersa, miyani nazoratsiz reverberatsiyalanuvçi signallar massasi bosib ketardi — bu signallar heç qanday axborot uzatmaydi, lekin baribir miya zanjirlarini band qilib, axborot signallarining heç birini uzatiş imkonini bermaydi. Bunday ta’sir _epileptik tutqanoqlar_ vaqtida miyaning keng sohalarida yuz beradi. Markaziy nerv tizimi bu ta’sirning doimo yuz berişiga qanday yöl qöymaydi? Javob asosan butun markaziy nerv tizimida işlaydigan ikki asosiy mexanizmda: (1) tormozlovçi zanjirlar; va (2) sinapslarning çarçaşi.
+
+@@ ch47-f112
+Tormozlovçi zanjirlar nerv tizimi faoliyatini barqarorlaştiriş mexanizmi sifatida
+
+@@ ch47-f113
+Miyaning keng sohalaridagi ikki turdagi tormozlovçi zanjirlar signallarning haddan taşqari tarqalişining oldini olişga yordam beradi: (1) yöllar uçlaridan xuddi şu yöllarning dastlabki qözğatuvçi neyronlariga qaytadigan tormozlovçi teskari aloqa zanjirlari (bu zanjirlar amalda barça sezgi nerv yöllarida uçraydi va uçlar haddan taşqari qözğalganda sezgi yölidagi kiruvçi neyronlarni yoki oraliq neyronlarni tormozlaydi); va (2) miyaning keng sohalari ustidan umumiy tormozlovçi nazoratni amalga oşiradigan ayrim neyron töplamlari (masalan, köplab bazal gangliyalar butun muşaklarni boşqariş tizimiga tormozlovçi ta’sir körsatadi).
+
+@@ ch47-f114
+Sinaptik çarçaş nerv tizimini barqarorlaştiriş vositasi sifatida
+
+@@ ch47-f115
+Sinaptik çarçaş şunçaki qözğaliş davri qança uzoq va jadal bölsa, sinaptik uzatiliş şunça kuçsizlanib borişini bildiradi. **Rasm 47-18** da hayvon panjasining yostiqçasiga oğriq yetkaziş natijasida yuzaga kelgan bukuvçi refleksning ketma-ket uçta yozuvi körsatilgan. Har bir yozuvda qisqariş kuçi asta-sekin “dekrementlanişiga”, ya’ni kamayişiga e’tibor bering. Bu ta’sirning köp qismi bukuvçi refleks zanjiridagi sinapslarning _çarçaşi_ bilan bog‘liq. Bundan taşqari, ketma-ket bukuvçi reflekslar orasidagi interval qança qisqa bölsa, keyingi refleks javobining jadalligi şunça kam böladi.
+
+@@ ch47-f116
+LEAD: Çarçaş mexanizmi orqali yöllar sezgirligining avtomatik qisqa muddatli moslaşuvi.
+Ortiqça işlatiladigan neyron yöllari odatda tez çarçaydi, şuning uçun ularning sezgirligi pasayadi. Aksinça, kam işlatiladiganlari dam oladi va ularning sezgirligi ortadi.
+
+@@ ch47-f117
+Şunday qilib, çarçaş va çarçoqdan tiklaniş nerv tizimining turli zanjirlari sezgirligini möttadillaştirişning muhim qisqa muddatli vositasidir. Bu funksiyalar zanjirlarning samarali işlaşiga imkon beradigan sezgirlik oraliğida işlaşini saqlaşga yordam beradi.
+
+@@ ch47-f118
+LEAD: Sinaptik retseptorlarning avtomatik kamaytirilişi yoki köpaytirilişi natijasida sinaptik sezgirlikning uzoq muddatli özgarişlari.
+Sinapslarning uzoq muddatli sezgirligi faollik kam bölganda sinaptik joylarda retseptor oqsillar sonini köpaytiriş (upregulyatsiya) va faollik ortiqça bölganda retseptorlarni kamaytiriş (daunregulyatsiya) orqali juda katta darajada özgartirilişi mumkin. Bu jarayon mexanizmi quyidagiça. Retseptor oqsillar endoplazmatik to‘r–Golji apparati tizimi tomonidan doimiy hosil qilinadi va retseptor neyronning sinaptik membranasiga doimiy joylaştiriladi. Biroq sinapslar ortiqça işlatilib, mediator moddaning ortiqça miqdori retseptor oqsillar bilan birikganda bu retseptorlarning köpi inaktivatsiyalanadi va sinaptik membranadan olib taşlanadi.
+
+@@ ch47-f119
+Retseptorlarning köpaytirilişi va kamaytirilişi, şuningdek sinaptik sezgirlikni moslaştiradigan boşqa boşqaruv mexanizmlari har bir zanjirdagi sezgirlikni töğri işlaş uçun zarur bölgan deyarli aniq darajaga uzluksiz moslaştirib turişi haqiqatan ham baxtli holatdir. Bir lahzaga öylab köring: agar bu zanjirlarning hatto bir neçtasining sezgirligi ğayritabiiy yuqori bölsa, bu qança jiddiy bölardi — unda deyarli uzluksiz muşak tirişişlari, tutqanoqlar, psixotik buzilişlar, gallyutsinatsiyalar, ruhiy zöriqiş yoki boşqa nerv buzilişlarini kutiş mumkin edi. Baxtga, avtomatik boşqaruv mexanizmlari zanjirlar haddan taşqari faol yoki haddan taşqari susaygan bölib qolişi bilanoq ularning sezgirligini me’yorda yana boşqariladigan reaktivlik oraliğiga qaytaradi.
+
+@@ fig:gh14-fig-47-01
+Somatik sezuvçi nerv uçlarining bir neça turi.
+
+@@ fig:gh14-fig-47-02
+Retseptor potensiali bösağa darajasidan oşganda retseptor potensiali va harakat potensiallari orasidagi odatiy bog‘liqlik.
+
+@@ fig:gh14-fig-47-03
+Paçini tanaçasida hosil bölgan retseptor potensiali bilan sezuvçi nerv tolasining qözğalişi.
+
+@@ fig:gh14-fig-47-04
+Retseptor potensiali amplitudasining Paçini tanaçasiga qöllanilgan mexanik qözğatuvçi kuçiga bog‘liqligi. (Loëwenstein WR: Excitation and inactivation in a receptor membrane. Ann N Y Acad Sci 94:510, 1961 ma’lumotlari asosida.)
+
+@@ fig:gh14-fig-47-05
+Turli xil retseptorlarning adaptatsiyasi: ayrim retseptorlarning tez, boşqalarining esa sekin adaptatsiyalanişi körsatilgan.
+
+@@ fig:gh14-fig-47-06
+Nerv tolalarining fiziologik tasnifi va funksiyalari.
+
+@@ fig:gh14-fig-47-07
+Igna sançilgan teri sohasidan keladigan nervdagi oğriq tolalarining qözğaliş tartibi. Bu qözğaliş tartibi fazoviy summatsiyaga misol.
+
+@@ fig:gh14-fig-47-08
+Signal kuçining nerv impulslarining çastota bilan modulyatsiyalangan seriyasiga aylanişi: signal kuçi (yuqorida) va alohida nerv impulslari (pastda) körsatilgan. Bu tasvir vaqtli summatsiyaga misol.
+
+@@ fig:gh14-fig-47-09
+Neyron töplamining asosiy taşkil topişi. Tafsilotlar matnda.
+
+@@ fig:gh14-fig-47-10
+Neyron töplamining “razryad” va “fasilitatsiya” zonalari.
+
+@@ fig:gh14-fig-47-11
+Neyron yöllaridagi “divergensiya”. A, Signalni “kuçaytiriş” uçun yöl içidagi divergensiya. B, Signalni alohida sohalarga uzatiş uçun bir neça yölga divergensiya.
+
+@@ fig:gh14-fig-47-12
+Köplab kiruvçi tolalarning bitta neyronga konvergensiyasi. A, Bitta manbadan keladigan köplab kiruvçi tolalar. B, Köplab alohida manbalardan keladigan kiruvçi tolalar.
+
+@@ fig:gh14-fig-47-13
+Tormozlovçi zanjir. 2-neyron — tormozlovçi neyron.
+
+@@ fig:gh14-fig-47-14
+A–D, Murakkabligi ortib boruvçi reverberatsiyalanuvçi zanjirlar.
+
+@@ fig:gh14-fig-47-15
+Bitta kiruvçi stimuldan keyin reverberatsiyalanuvçi zanjirdan çiqadigan signalning odatiy tartibi; fasilitatsiya va tormozlanişning ta’siri körsatilgan.
+
+@@ fig:gh14-fig-47-16
+Reverberatsiyalanuvçi zanjirdan yoki içki razryadlanuvçi neyronlar töplamidan uzluksiz çiqiş. Rasmda qözğatuvçi yoki tormozlovçi kiriş signallarining ta’siri ham körsatilgan.
+
+@@ fig:gh14-fig-47-17
+Nafas markazidan summatsiyalangan nerv impulslarining ritmik çiqişi: uyqu arteriyasi tanaçasini tobora kuçliroq qözğatiş nafasni kuçaytiriş uçun diafragmaga boradigan diafragma nervi signalining ham jadalligini, ham çastotasini oşirişi körsatilgan.
+
+@@ fig:gh14-fig-47-18
+Ketma-ket bukuvçi reflekslar: refleks yöli orqali ötkazişning çarçaşi körsatilgan.
+
+@@ fig:gh14-tab-47-01
+Sezgi retseptorlarining tasnifi

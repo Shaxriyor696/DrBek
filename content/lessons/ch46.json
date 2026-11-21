@@ -2,9 +2,9 @@
  "id": "ch46",
  "topicId": "09",
  "order": 1,
- "titleUz": "Nerv tizimining tuzilishi, sinapslarning asosiy funksiyalari va neyromediatorlar",
+ "titleUz": "Nerv tizimining tuzilişi, sinapslarning asosiy funksiyalari va neyromediatorlar",
  "titleOriginal": "Organization of the Nervous System, Basic Functions of Synapses, and Neurotransmitters",
- "subtitle": "*Organization of the Nervous System, Basic Functions of Synapses, and Neurotransmitters* — IX bo'lim, PDF 541–557",
+ "subtitle": "*Organization of the Nervous System, Basic Functions of Synapses, and Neurotransmitters* — IX bo‘lim, PDF 541–557",
  "contentVersion": "2026-11-14.1",
  "status": "in_review",
  "translationStatus": "machine_assisted",
@@ -441,7 +441,7 @@
   "Neyronning elektr hodisalari",
   "Jamlanish (summatsiya)",
   "Dendritlarning maxsus funksiyalari",
-  "Qo’zg’alish holati va razryad chastotasi",
+  "Qo‘zg‘alish holati va razryad chastotasi",
   "Sinaptik uzatishning maxsus xususiyatlari"
  ],
  "blocks": {
@@ -449,13 +449,13 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Asosiy g’oya",
+    "text": "Asosiy ğoya",
     "id": "ch46-s-0-asosiy-goya",
     "bid": "ch46-u0"
    },
    {
     "type": "paragraph",
-    "text": "Nerv tizimi uch ishni bajaradi:",
+    "text": "Nerv tizimi uç işni bajaradi:",
     "bid": "ch46-u1"
    },
    {
@@ -463,15 +463,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**sezgi** (retseptorlar orqali kirish);",
+      "text": "**sezgi** (retseptorlar orqali kiriş);",
       "depth": 0
      },
      {
-      "text": "**integratsiya** (qayta ishlash va xotira);",
+      "text": "**integratsiya** (qayta işlaş va xotira);",
       "depth": 0
      },
      {
-      "text": "**motor** chiqish (effektorlar: skelet va silliq mushak, bezlar).",
+      "text": "**motor** çiqiş (effektorlar: skelet va silliq muşak, bezlar).",
       "depth": 0
      }
     ],
@@ -479,13 +479,13 @@
    },
    {
     "type": "paragraph",
-    "text": "Asosiy funksional birlik **neyron**, ma’lumot tanlanadigan va yo’naltiriladigan joy **sinaps**. Kimyoviy sinaps signalni **bir tomonga** o’tkazadi. Postsinaptik neyron qo’zg’aluvchi (EPSP) va tormozlovchi (IPSP) ta’sirlarni fazoviy va vaqt bo’yicha **jamlab**, akson boshlang’ich segmentida harakat potensialini chiqaradi yoki chiqarmaydi.",
+    "text": "Asosiy funksional birlik **neyron**, ma’lumot tanlanadigan va yönaltiriladigan joy **sinaps**. Kimyoviy sinaps signalni **bir tomonga** ötkazadi. Postsinaptik neyron qözğaluvçi (EPSP) va tormozlovçi (IPSP) ta’sirlarni fazoviy va vaqt böyiça **jamlab**, akson boşlanğiç segmentida harakat potensialini çiqaradi yoki çiqarmaydi.",
     "bid": "ch46-u3"
    },
    {
     "type": "heading",
     "level": 2,
-    "text": "Umumiy tuzilish",
+    "text": "Umumiy tuziliş",
     "id": "ch46-s-4-umumiy-tuzilish",
     "bid": "ch46-u4"
    },
@@ -498,11 +498,11 @@
       "depth": 0
      },
      {
-      "text": "Kiruvchi signallar asosan **dendritlar** va qisman soma ustidagi sinapslarga keladi. Bitta neyronda bir necha yuzdan **200 000** gacha sinaps bo’ladi.",
+      "text": "Kiruvçi signallar asosan **dendritlar** va qisman soma ustidagi sinapslarga keladi. Bitta neyronda bir neça yuzdan **200 000** gaça sinaps böladi.",
       "depth": 0
      },
      {
-      "text": "Chiqish yagona **akson** orqali; akson ko’p tarmoqqa bo’linishi mumkin.",
+      "text": "Çiqiş yagona **akson** orqali; akson köp tarmoqqa bölinişi mumkin.",
       "depth": 0
      }
     ],
@@ -510,7 +510,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Sezgi qismi (somatosensor o’q).** Tana yuzasi va ichki tuzilmalardan kelgan ma’lumot periferik nervlar orqali quyidagilarga boradi:",
+    "text": "**Sezgi qismi (somatosensor öq).** Tana yuzasi va içki tuzilmalardan kelgan ma’lumot periferik nervlar orqali quyidagilarga boradi:",
     "bid": "ch46-u6"
    },
    {
@@ -518,15 +518,15 @@
     "ordered": true,
     "items": [
      {
-      "text": "orqa miyaning barcha darajalari;",
+      "text": "orqa miyaning barça darajalari;",
       "depth": 0
      },
      {
-      "text": "uzunchoq miya, ko’prik va o’rta miyaning retikulyar moddasi;",
+      "text": "uzunçoq miya, köprik va örta miyaning retikulyar moddasi;",
       "depth": 0
      },
      {
-      "text": "miyacha;",
+      "text": "miyaça;",
       "depth": 0
      },
      {
@@ -534,7 +534,7 @@
       "depth": 0
      },
      {
-      "text": "po’stloq sohalari.",
+      "text": "pöstloq sohalari.",
       "depth": 0
      }
     ],
@@ -542,7 +542,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Motor qismi.** Effektorlar: skelet mushaklari, ichki a’zolarning silliq mushaklari, ekzo- va endokrin bezlar. Skelet mushaklarini quyidagi darajalar boshqaradi:",
+    "text": "**Motor qismi.** Effektorlar: skelet muşaklari, içki a’zolarning silliq muşaklari, ekzo- va endokrin bezlar. Skelet muşaklarini quyidagi darajalar boşqaradi:",
     "bid": "ch46-u8"
    },
    {
@@ -562,11 +562,11 @@
       "depth": 0
      },
      {
-      "text": "miyacha;",
+      "text": "miyaça;",
       "depth": 0
      },
      {
-      "text": "motor po’stloq.",
+      "text": "motor pöstloq.",
       "depth": 0
      }
     ],
@@ -574,7 +574,7 @@
    },
    {
     "type": "paragraph",
-    "text": "Pastki darajalar avtomatik, bir zumda javob beradi; yuqorilari fikr bilan boshqariladigan murakkab harakatlarni bajaradi. Parallel ravishda **avtonom nerv tizimi** ishlaydi (61-bob).",
+    "text": "Pastki darajalar avtomatik, bir zumda javob beradi; yuqorilari fikr bilan boşqariladigan murakkab harakatlarni bajaradi. Parallel ravişda **avtonom nerv tizimi** işlaydi (61-bob).",
     "bid": "ch46-u10"
    },
    {
@@ -587,11 +587,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Sezgi ma’lumotlarining **>99%** i ahamiyatsiz deb tashlab yuboriladi (kiyim tegishi, o’rindiq bosimi, fon shovqini).",
+      "text": "Sezgi ma’lumotlarining **>99%** i ahamiyatsiz deb taşlab yuboriladi (kiyim tegişi, örindiq bosimi, fon şovqini).",
       "depth": 0
      },
      {
-      "text": "Muhim ma’lumot tegishli integrativ va motor sohalarga yo’naltiriladi. Masalan, issiq plitaga qo’l tekkanda qo’l darhol tortiladi, keyin butun tana uzoqlashadi va odam qichqirishi mumkin.",
+      "text": "Muhim ma’lumot tegişli integrativ va motor sohalarga yönaltiriladi. Masalan, issiq plitaga qöl tekkanda qöl darhol tortiladi, keyin butun tana uzoqlaşadi va odam qiçqirişi mumkin.",
       "depth": 0
      }
     ],
@@ -607,15 +607,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Asosan po’stloqda saqlanadi, oz qismi bazal sohalar va orqa miyada.",
+      "text": "Asosan pöstloqda saqlanadi, oz qismi bazal sohalar va orqa miyada.",
       "depth": 0
      },
      {
-      "text": "Bu ham **sinaps funksiyasi**. Signal bir xil sinapslar ketma-ketligidan ko’p o’tgan sari ular yengillashadi (**fasilitatsiya**). Oxir-oqibat miyaning o’zi ichkaridan shu yo’lni qo’zg’ata oladi va asl sezgi xotira sifatida qaytadan his qilinadi.",
+      "text": "Bu ham **sinaps funksiyasi**. Signal bir xil sinapslar ketma-ketligidan köp ötgan sari ular yengillaşadi (**fasilitatsiya**). Oxir-oqibat miyaning özi içkaridan şu yölni qözğata oladi va asl sezgi xotira sifatida qaytadan his qilinadi.",
       "depth": 0
      },
      {
-      "text": "Fikrlash yangi tajribani saqlangan xotira bilan solishtiradi (58-bob).",
+      "text": "Fikrlaş yangi tajribani saqlangan xotira bilan soliştiradi (58-bob).",
       "depth": 0
      }
     ],
@@ -624,7 +624,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "MNS ning uch darajasi",
+    "text": "MNS ning uç darajasi",
     "id": "ch46-s-15-mns-ning-uch-darajasi",
     "bid": "ch46-u15"
    },
@@ -637,22 +637,22 @@
     "rows": [
      [
       "**Orqa miya**",
-      "oddiy yo’lak emas. Bo’yin yuqorisidan kesilgandan keyin ham: yurish harakatlari, og’riqdan tortib olish refleksi, gravitatsiyaga qarshi oyoqlarni qattiqlashtirish, tomir, ichak va siyish reflekslari. Yuqori darajalar ko’pincha orqa miya markazlariga \"buyruq\" beradi"
+      "oddiy yo‘lak emas. Bo‘yin yuqorisidan kesilgandan keyin ham: yurish harakatlari, og‘riqdan tortib olish refleksi, gravitatsiyaga qarshi oyoqlarni qattiqlashtirish, tomir, ichak va siyish reflekslari. Yuqori darajalar ko‘pincha orqa miya markazlariga “buyruq” beradi"
      ],
      [
-      "**Pastki miya (po’stloq osti)**: uzunchoq miya, ko’prik, o’rta miya, gipotalamus, talamus, miyacha, bazal gangliyalar",
-      "ongsiz faoliyat: arterial bosim va nafas (uzunchoq miya va ko’prik); muvozanat (eski miyacha va retikulyar modda); ovqatlanish reflekslari (so’lak ajralishi, lab yalash); emotsional naqshlar (g’azab, qo’zg’alish, jinsiy javob, og’riq va zavqqa javob) po’stloq yemirilganda ham saqlanadi"
+      "**Pastki miya (po‘stloq osti)**: uzunchoq miya, ko‘prik, o‘rta miya, gipotalamus, talamus, miyacha, bazal gangliyalar",
+      "ongsiz faoliyat: arterial bosim va nafas (uzunchoq miya va ko‘prik); muvozanat (eski miyacha va retikulyar modda); ovqatlanish reflekslari (so‘lak ajralishi, lab yalash); emotsional naqshlar (g‘azab, qo‘zg‘alish, jinsiy javob, og‘riq va zavqqa javob) po‘stloq yemirilganda ham saqlanadi"
      ],
      [
-      "**Yuqori miya (po’stloq)**",
-      "ulkan xotira ombori. Hech qachon yolg’iz ishlamaydi. Pastki markazlar faoliyatini aniq va maqsadli qiladi. Fikrlash uchun zarur, lekin po’stloqni **pastki markazlar uyg’otadi**"
+      "**Yuqori miya (po‘stloq)**",
+      "ulkan xotira ombori. Hech qachon yolg‘iz ishlamaydi. Pastki markazlar faoliyatini aniq va maqsadli qiladi. Fikrlash uchun zarur, lekin po‘stloqni **pastki markazlar uyg‘otadi**"
      ]
     ],
     "bid": "ch46-u16"
    },
    {
     "type": "paragraph",
-    "text": "**Kompyuter bilan o’xshashlik:** kirish (sezgi), chiqish (motor), xotira, va diqqatni boshqaruvchi \"markaziy protsessor\".",
+    "text": "**Kompyuter bilan öxşaşlik:** kiriş (sezgi), çiqiş (motor), xotira, va diqqatni boşqaruvçi “markaziy protsessor”.",
     "bid": "ch46-u17"
    },
    {
@@ -673,12 +673,12 @@
      [
       "Uzatish",
       "**neyromediator** postsinaptik retseptorga ta’sir qiladi",
-      "**tirqishli birikmalar (gap junctions)** orqali ionlar bevosita o’tadi"
+      "**tirqishli birikmalar (gap junctions)** orqali ionlar bevosita o‘tadi"
      ],
      [
-      "Yo’nalish",
+      "Yo‘nalish",
       "**bir tomonga** (presinaptikdan postsinaptikka)",
-      "ko’pincha ikki tomonga"
+      "ko‘pincha ikki tomonga"
      ],
      [
       "Tirqish",
@@ -687,8 +687,8 @@
      ],
      [
       "Qayerda",
-      "MNS dagi ko’pchilik sinapslar",
-      "visseral silliq mushak, yurak mushagi; MNS da neyron guruhlarini sinxronlash va bo’sag’adan past depolyarizatsiyalarning bir vaqtdaligini aniqlash"
+      "MNS dagi ko‘pchilik sinapslar",
+      "visseral silliq mushak, yurak mushagi; MNS da neyron guruhlarini sinxronlash va bo‘sag‘adan past depolyarizatsiyalarning bir vaqtdaligini aniqlash"
      ]
     ],
     "bid": "ch46-u19"
@@ -698,11 +698,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "**50 dan ortiq** mediator ma’lum: ACh, noradrenalin, adrenalin, gistamin, GABA, glitsin, serotonin, glutamat va boshqalar.",
+      "text": "**50 dan ortiq** mediator ma’lum: ACh, noradrenalin, adrenalin, gistamin, GABA, glitsin, serotonin, glutamat va boşqalar.",
       "depth": 0
      },
      {
-      "text": "**Bir tomonlama o’tkazish** signalni aniq maqsadga yo’naltiradi. Sezgi, harakat va xotira shu xususiyatga tayanadi.",
+      "text": "**Bir tomonlama ötkaziş** signalni aniq maqsadga yönaltiradi. Sezgi, harakat va xotira şu xususiyatga tayanadi.",
       "depth": 0
      }
     ],
@@ -717,7 +717,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Old shox motoneyroni:**",
+    "text": "**Old şox motoneyroni:**",
     "bid": "ch46-u22"
    },
    {
@@ -725,7 +725,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Soma, yagona akson va **dendritlar** (orqa miya ichida 1 mm gacha cho’ziladi).",
+      "text": "Soma, yagona akson va **dendritlar** (orqa miya içida 1 mm gaça çöziladi).",
       "depth": 0
      },
      {
@@ -733,7 +733,7 @@
       "depth": 0
      },
      {
-      "text": "Terminallar qo’zg’atuvchi yoki tormozlovchi bo’ladi.",
+      "text": "Terminallar qözğatuvçi yoki tormozlovçi böladi.",
       "depth": 0
      }
     ],
@@ -741,12 +741,12 @@
    },
    {
     "type": "paragraph",
-    "text": "Turli neyronlar soma o’lchami, dendritlar uzunligi va soni, akson va terminallar soni bilan farqlanadi, shuning uchun turli funksiyalarni bajaradi.",
+    "text": "Turli neyronlar soma ölçami, dendritlar uzunligi va soni, akson va terminallar soni bilan farqlanadi, şuning uçun turli funksiyalarni bajaradi.",
     "bid": "ch46-u24"
    },
    {
     "type": "paragraph",
-    "text": "**Presinaptik terminal** (tugmacha, bouton, oyoqcha):",
+    "text": "**Presinaptik terminal** (tugmaça, bouton, oyoqça):",
     "bid": "ch46-u25"
    },
    {
@@ -754,11 +754,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Mediator pufakchalari** va ATP beruvchi **mitoxondriyalar** bor.",
+      "text": "**Mediator pufakçalari** va ATP beruvçi **mitoxondriyalar** bor.",
       "depth": 0
      },
      {
-      "text": "Mediator postsinaptik membranada qo’zg’atuvchi retseptor bo’lsa qo’zg’atadi, tormozlovchi retseptor bo’lsa tormozlaydi.",
+      "text": "Mediator postsinaptik membranada qözğatuvçi retseptor bölsa qözğatadi, tormozlovçi retseptor bölsa tormozlaydi.",
       "depth": 0
      }
     ],
@@ -767,7 +767,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Mediator ajralishi va Ca²⁺",
+    "text": "Mediator ajralişi va Ca²⁺",
     "id": "ch46-s-27-mediator-ajralishi-va-ca",
     "bid": "ch46-u27"
    },
@@ -780,15 +780,15 @@
       "depth": 0
      },
      {
-      "text": "**Potensialga bog’liq Ca²⁺ kanallari** ochiladi va Ca²⁺ kiradi. Ajraladigan mediator miqdori kirgan Ca²⁺ ga to’g’ri proporsional.",
+      "text": "**Potensialga boğliq Ca²⁺ kanallari** oçiladi va Ca²⁺ kiradi. Ajraladigan mediator miqdori kirgan Ca²⁺ ga töğri proporsional.",
       "depth": 0
      },
      {
-      "text": "Ca²⁺ membrananing ichki yuzasidagi **ajralish joylari (release sites)** oqsillariga bog’lanadi. Har bir harakat potensialida bir nechta pufakcha yorilib, mediatorni tirqishga chiqaradi.",
+      "text": "Ca²⁺ membrananing içki yuzasidagi **ajraliş joylari (release sites)** oqsillariga boğlanadi. Har bir harakat potensialida bir neçta pufakça yorilib, mediatorni tirqişga çiqaradi.",
       "depth": 0
      },
      {
-      "text": "ACh pufakchasida **2000–10 000** molekula bor. Pufakchalar bir necha yuzdan **>10 000** gacha harakat potensialiga yetadi.",
+      "text": "ACh pufakçasida **2000–10 000** molekula bor. Pufakçalar bir neça yuzdan **>10 000** gaça harakat potensialiga yetadi.",
       "depth": 0
      }
     ],
@@ -806,15 +806,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Ikki qismdan iborat: tirqishga chiqib turgan **bog’lovchi qism** va membranadan hujayra ichiga o’tuvchi **ichki qism**.",
+      "text": "Ikki qismdan iborat: tirqişga çiqib turgan **boğlovçi qism** va membranadan hujayra içiga ötuvçi **içki qism**.",
       "depth": 0
      },
      {
-      "text": "**Ionotrop retseptorlar** ion kanalini bevosita ochadi.",
+      "text": "**Ionotrop retseptorlar** ion kanalini bevosita oçadi.",
       "depth": 0
      },
      {
-      "text": "**Metabotrop retseptorlar** **ikkilamchi vositachi** orqali ta’sir qiladi.",
+      "text": "**Metabotrop retseptorlar** **ikkilamçi vositaçi** orqali ta’sir qiladi.",
       "depth": 0
      }
     ],
@@ -830,15 +830,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Kation kanallari** asosan Na⁺ o’tkazadi, ba’zan K⁺ va Ca²⁺ ham. Ichki devori **manfiy** zaryadlangan: Na⁺ ni tortadi, anionlarni itaradi. Ularni ochuvchi mediator **qo’zg’atuvchi**.",
+      "text": "**Kation kanallari** asosan Na⁺ ötkazadi, ba’zan K⁺ va Ca²⁺ ham. Içki devori **manfiy** zaryadlangan: Na⁺ ni tortadi, anionlarni itaradi. Ularni oçuvçi mediator **qözğatuvçi**.",
       "depth": 0
      },
      {
-      "text": "**Anion kanallari** asosan Cl⁻ o’tkazadi; gidratlangan kationlar juda katta bo’lgani uchun o’tmaydi. Ularni ochuvchi mediator **tormozlovchi**.",
+      "text": "**Anion kanallari** asosan Cl⁻ ötkazadi; gidratlangan kationlar juda katta bölgani uçun ötmaydi. Ularni oçuvçi mediator **tormozlovçi**.",
       "depth": 0
      },
      {
-      "text": "Kanallar millisekundning bir qismida ochiladi va mediator yo’qolgach shu tezlikda yopiladi, ya’ni tez boshqaruv ta’minlanadi.",
+      "text": "Kanallar millisekundning bir qismida oçiladi va mediator yöqolgaç şu tezlikda yopiladi, ya’ni tez boşqaruv ta’minlanadi.",
       "depth": 0
      }
     ],
@@ -847,7 +847,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Ikkilamchi vositachi: G-oqsil (rasm 46-7)",
+    "text": "Ikkilamçi vositaçi: G-oqsil (rasm 46-7)",
     "id": "ch46-s-33-ikkilamchi-vositachi-g-oqsil-rasm-46-7",
     "bid": "ch46-u33"
    },
@@ -856,11 +856,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Nima uchun kerak:** ion kanallari ms ichida yopiladi va uzoq o’zgarish (masalan xotira) bera olmaydi.",
+      "text": "**Nima uçun kerak:** ion kanallari ms içida yopiladi va uzoq özgariş (masalan xotira) bera olmaydi.",
       "depth": 0
      },
      {
-      "text": "**G-oqsil siklining bosqichlari:**",
+      "text": "**G-oqsil siklining bosqiçlari:**",
       "depth": 0
      },
      {
@@ -868,35 +868,35 @@
       "depth": 1
      },
      {
-      "text": "Mediator retseptorni faollashtiradi, retseptor konformatsiyasi o’zgaradi va G-oqsil bog’lanadi.",
+      "text": "Mediator retseptorni faollaştiradi, retseptor konformatsiyasi özgaradi va G-oqsil boğlanadi.",
       "depth": 1
      },
      {
-      "text": "α subbirlik GDP ni chiqarib **GTP** ni bog’laydi va β-γ dan ajraladi.",
+      "text": "α subbirlik GDP ni çiqarib **GTP** ni boğlaydi va β-γ dan ajraladi.",
       "depth": 1
      },
      {
-      "text": "**α-GTP kompleksining 4 ta mumkin bo’lgan ta’siri:**",
+      "text": "**α-GTP kompleksining 4 ta mumkin bölgan ta’siri:**",
       "depth": 1
      },
      {
-      "text": "maxsus ion kanalini ochadi, masalan **K⁺ kanali** (uzoq ochiq turadi);",
+      "text": "maxsus ion kanalini oçadi, masalan **K⁺ kanali** (uzoq oçiq turadi);",
       "depth": 2
      },
      {
-      "text": "**cAMP yoki cGMP** ni faollashtiradi, bu uzoq muddatli metabolik va tuzilma o’zgarishlarini boshlaydi;",
+      "text": "**cAMP yoki cGMP** ni faollaştiradi, bu uzoq muddatli metabolik va tuzilma özgarişlarini boşlaydi;",
       "depth": 2
      },
      {
-      "text": "hujayra ichidagi fermentlarni faollashtiradi;",
+      "text": "hujayra içidagi fermentlarni faollaştiradi;",
       "depth": 2
      },
      {
-      "text": "**gen transkripsiyasi**ni faollashtiradi: yangi oqsillar sintezlanadi, neyron tuzilmasi o’zgaradi (uzoq muddatli xotira).",
+      "text": "**gen transkripsiyasi**ni faollaştiradi: yangi oqsillar sintezlanadi, neyron tuzilmasi özgaradi (uzoq muddatli xotira).",
       "depth": 2
      },
      {
-      "text": "**Nofaollashuv:** GTP gidrolizlanib GDP ga aylanadi, α nishondan ajraladi va β-γ bilan qayta birikadi.",
+      "text": "**Nofaollaşuv:** GTP gidrolizlanib GDP ga aylanadi, α nişondan ajraladi va β-γ bilan qayta birikadi.",
       "depth": 1
      }
     ],
@@ -910,27 +910,27 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Qo’zg’alish va tormozlanish mexanizmlari",
+    "text": "Qözğaliş va tormozlaniş mexanizmlari",
     "id": "ch46-s-36-qozgalish-va-tormozlanish-mexanizmlari",
     "bid": "ch46-u36"
    },
    {
     "type": "table",
     "header": [
-     "Qo’zg’atuvchi",
-     "Tormozlovchi"
+     "Qözğatuvçi",
+     "Tormozlovçi"
     ],
     "rows": [
      [
-      "1. **Na⁺ kanallarini ochish** (eng ko’p uchraydigan usul)",
+      "1. **Na⁺ kanallarini ochish** (eng ko‘p uchraydigan usul)",
       "1. **Cl⁻ kanallarini ochish** (Cl⁻ kiradi)"
      ],
      [
-      "2. Cl⁻ yoki K⁺ o’tkazuvchanligini kamaytirish",
-      "2. **K⁺ o’tkazuvchanligini oshirish** (K⁺ chiqadi)"
+      "2. Cl⁻ yoki K⁺ o‘tkazuvchanligini kamaytirish",
+      "2. **K⁺ o‘tkazuvchanligini oshirish** (K⁺ chiqadi)"
      ],
      [
-      "3. Metabolik o’zgarishlar: qo’zg’atuvchi retseptorlar sonini oshirish yoki tormozlovchilarni kamaytirish",
+      "3. Metabolik o‘zgarishlar: qo‘zg‘atuvchi retseptorlar sonini oshirish yoki tormozlovchilarni kamaytirish",
       "3. Retseptor fermentlarini faollashtirib metabolizmni tormozlash yoki tormozlovchi retseptorlar sonini oshirish"
      ]
     ],
@@ -945,7 +945,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Jadval 46-1: Kichik molekulali, tez ta’sir qiluvchilar**",
+    "text": "**Jadval 46-1: Kiçik molekulali, tez ta’sir qiluvçilar**",
     "bid": "ch46-u39"
    },
    {
@@ -981,7 +981,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Jadval 46-2: Neyropeptidlar, sekin ta’sir qiluvchilar yoki o’sish omillari**",
+    "text": "**Jadval 46-2: Neyropeptidlar, sekin ta’sir qiluvçilar yoki ösiş omillari**",
     "bid": "ch46-u42"
    },
    {
@@ -1002,14 +1002,14 @@
      ],
      [
       "Gipofiz peptidlari",
-      "AKTG, β-endorfin, α-MSG, prolaktin, LG, TTG, o’sish gormoni, vazopressin, oksitotsin"
+      "AKTG, β-endorfin, α-MSG, prolaktin, LG, TTG, o‘sish gormoni, vazopressin, oksitotsin"
      ],
      [
       "Ichak va miyada ta’sir qiluvchi peptidlar",
-      "leytsin-enkefalin, metionin-enkefalin, **P moddasi**, gastrin, xoletsistokinin, VIP, nerv o’sish omili, miyadan olingan neyrotrof omil (BDNF), neyrotenzin, insulin, glyukagon"
+      "leytsin-enkefalin, metionin-enkefalin, **P moddasi**, gastrin, xoletsistokinin, VIP, nerv o‘sish omili, miyadan olingan neyrotrof omil (BDNF), neyrotenzin, insulin, glyukagon"
      ],
      [
-      "Boshqa to’qimalardan",
+      "Boshqa to‘qimalardan",
       "angiotenzin II, bradikinin, karnozin, uyqu peptidlari, kalsitonin"
      ]
     ],
@@ -1017,13 +1017,13 @@
    },
    {
     "type": "paragraph",
-    "text": "Gazsimon moddalar (NO, H₂S, CO) modulyator bo’lishi mumkin; haqiqiy mediator ekanligi aniq emas.",
+    "text": "Gazsimon moddalar (NO, H₂S, CO) modulyator bölişi mumkin; haqiqiy mediator ekanligi aniq emas.",
     "bid": "ch46-u45"
    },
    {
     "type": "heading",
     "level": 3,
-    "text": "Kichik molekulali mediatorlar",
+    "text": "Kiçik molekulali mediatorlar",
     "id": "ch46-s-46-kichik-molekulali-mediatorlar",
     "bid": "ch46-u46"
    },
@@ -1032,11 +1032,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Sintez:** presinaptik terminal sitozolida sintezlanadi va faol transport bilan pufakchalarga yig’iladi. Ajralish va postsinaptik ta’sir har biri ≤1 ms davom etadi. Odatda ion kanallari o’tkazuvchanligini o’zgartiradi.",
+      "text": "**Sintez:** presinaptik terminal sitozolida sintezlanadi va faol transport bilan pufakçalarga yiğiladi. Ajraliş va postsinaptik ta’sir har biri ≤1 ms davom etadi. Odatda ion kanallari ötkazuvçanligini özgartiradi.",
       "depth": 0
      },
      {
-      "text": "**Pufakchalar qayta ishlatiladi:** membrana bilan qo’shiladi, keyin soniyalar–daqiqalarda qayta ichkariga botib, yangi pufakcha hosil qiladi. Unda kerakli fermentlar va tashuvchilar saqlanadi.",
+      "text": "**Pufakçalar qayta işlatiladi:** membrana bilan qöşiladi, keyin soniyalar–daqiqalarda qayta içkariga botib, yangi pufakça hosil qiladi. Unda kerakli fermentlar va taşuvçilar saqlanadi.",
       "depth": 0
      },
      {
@@ -1048,11 +1048,11 @@
       "depth": 1
      },
      {
-      "text": "ACh pufakchaga kiradi va ajraladi.",
+      "text": "ACh pufakçaga kiradi va ajraladi.",
       "depth": 1
      },
      {
-      "text": "Tirqishdagi proteoglikan to’rida joylashgan **xolinesteraza** uni atsetat va xolinga parchalaydi.",
+      "text": "Tirqişdagi proteoglikan törida joylaşgan **xolinesteraza** uni atsetat va xolinga parçalaydi.",
       "depth": 1
      },
      {
@@ -1077,13 +1077,13 @@
     "rows": [
      [
       "**Atsetilxolin**",
-      "motor po’stloq piramidal hujayralari, bazal gangliyalar neyronlari, skelet mushak motoneyronlari, **barcha avtonom preganglionar**, **parasimpatik postganglionar**, ba’zi simpatik postganglionar",
-      "asosan qo’zg’atuvchi; ba’zi parasimpatik uchlarda tormozlovchi (adashgan nerv yurakni tormozlaydi)"
+      "motor po‘stloq piramidal hujayralari, bazal gangliyalar neyronlari, skelet mushak motoneyronlari, **barcha avtonom preganglionar**, **parasimpatik postganglionar**, ba’zi simpatik postganglionar",
+      "asosan qo‘zg‘atuvchi; ba’zi parasimpatik uchlarda tormozlovchi (adashgan nerv yurakni tormozlaydi)"
      ],
      [
       "**Noradrenalin**",
-      "miya stvoli va gipotalamus neyronlari; ko’prikdagi **ko’k dog' (locus ceruleus)** miyaning keng sohalariga tola yuboradi (umumiy faollik, kayfiyat, bedorlik); ko’pchilik simpatik postganglionar",
-      "asosan qo’zg’atuvchi, ayrim joylarda tormozlovchi; simpatik tizimda ba’zi a’zolarni qo’zg’atadi, boshqalarini tormozlaydi"
+      "miya stvoli va gipotalamus neyronlari; ko‘prikdagi **ko‘k dog‘ (locus ceruleus)** miyaning keng sohalariga tola yuboradi (umumiy faollik, kayfiyat, bedorlik); ko‘pchilik simpatik postganglionar",
+      "asosan qo‘zg‘atuvchi, ayrim joylarda tormozlovchi; simpatik tizimda ba’zi a’zolarni qo‘zg‘atadi, boshqalarini tormozlaydi"
      ],
      [
       "**Dofamin**",
@@ -1097,23 +1097,23 @@
      ],
      [
       "**GABA**",
-      "orqa miya, miyacha, bazal gangliyalar, ko’p po’stloq sohalari",
-      "**kattalarda asosiy tormozlovchi**; embrion davri va tug’ilgandan keyingi birinchi haftada qo’zg’atuvchi bo’lishi mumkin"
+      "orqa miya, miyacha, bazal gangliyalar, ko‘p po‘stloq sohalari",
+      "**kattalarda asosiy tormozlovchi**; embrion davri va tug‘ilgandan keyingi birinchi haftada qo‘zg‘atuvchi bo‘lishi mumkin"
      ],
      [
       "**Glutamat**",
-      "ko’p sezgi yo’llari va po’stloq",
-      "doimo qo’zg’atuvchi"
+      "ko‘p sezgi yo‘llari va po‘stloq",
+      "doimo qo‘zg‘atuvchi"
      ],
      [
       "**Serotonin**",
-      "miya stvolining **o’rta chok (raphe) yadrolari**, keyin orqa miya orqa shoxlari va gipotalamus",
-      "orqa miyada og’riq yo’llarini tormozlaydi; yuqorida kayfiyatni boshqarish, ehtimol uyqu"
+      "miya stvolining **o‘rta chok (raphe) yadrolari**, keyin orqa miya orqa shoxlari va gipotalamus",
+      "orqa miyada og‘riq yo‘llarini tormozlaydi; yuqorida kayfiyatni boshqarish, ehtimol uyqu"
      ],
      [
       "**NO**",
       "uzoq muddatli xulq-atvor va xotira sohalari",
-      "pufakchada saqlanmaydi, kerak bo’lganda sintezlanib soniyalar davomida diffuziyalanadi; potensialni kam o’zgartiradi, metabolizmni o’zgartirib qo’zg’aluvchanlikni soniyalar–daqiqalar yoki uzoqroq o’zgartiradi"
+      "pufakchada saqlanmaydi, kerak bo‘lganda sintezlanib soniyalar davomida diffuziyalanadi; potensialni kam o‘zgartiradi, metabolizmni o‘zgartirib qo‘zg‘aluvchanlikni soniyalar–daqiqalar yoki uzoqroq o‘zgartiradi"
      ]
     ],
     "bid": "ch46-u49"
@@ -1127,7 +1127,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Sintez yo’li:**",
+    "text": "**Sintez yöli:**",
     "bid": "ch46-u51"
    },
    {
@@ -1139,19 +1139,19 @@
       "depth": 0
      },
      {
-      "text": "EPR va Golji ichida **bo’laklarga** ajratiladi (neyropeptid yoki uning prekursori).",
+      "text": "EPR va Golji içida **bölaklarga** ajratiladi (neyropeptid yoki uning prekursori).",
       "depth": 0
      },
      {
-      "text": "Golji uni pufakchalarga joylaydi.",
+      "text": "Golji uni pufakçalarga joylaydi.",
       "depth": 0
      },
      {
-      "text": "Pufakchalar **aksonal oqim** bilan kuniga bir necha sm tezlikda terminalga yetkaziladi.",
+      "text": "Pufakçalar **aksonal oqim** bilan kuniga bir neça sm tezlikda terminalga yetkaziladi.",
       "depth": 0
      },
      {
-      "text": "Harakat potensialida ajraladi; pufakcha **autolizga uchraydi va qayta ishlatilmaydi**.",
+      "text": "Harakat potensialida ajraladi; pufakça **autolizga uçraydi va qayta işlatilmaydi**.",
       "depth": 0
      }
     ],
@@ -1167,11 +1167,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Miqdori ancha kam, lekin **1000 va undan ko’p marta kuchliroq**.",
+      "text": "Miqdori ança kam, lekin **1000 va undan köp marta kuçliroq**.",
       "depth": 0
      },
      {
-      "text": "Ta’siri **uzoq**: Ca²⁺ kanallarining uzoq yopilishi, metabolizm va gen faolligi o’zgarishi, retseptorlar sonining o’zgarishi. Kunlar, ehtimol oylar yoki yillar davom etadi.",
+      "text": "Ta’siri **uzoq**: Ca²⁺ kanallarining uzoq yopilişi, metabolizm va gen faolligi özgarişi, retseptorlar sonining özgarişi. Kunlar, ehtimol oylar yoki yillar davom etadi.",
       "depth": 0
      }
     ],
@@ -1179,7 +1179,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Birga ajralish (rasm 46-8):**",
+    "text": "**Birga ajraliş (rasm 46-8):**",
     "bid": "ch46-u55"
    },
    {
@@ -1192,15 +1192,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Co-release:** bir pufakchada ikki mediator birga.",
+      "text": "**Co-release:** bir pufakçada ikki mediator birga.",
       "depth": 0
      },
      {
-      "text": "**Co-transmission:** turli pufakcha populyatsiyalarida. Ca²⁺ sezgirligi farq qilishi mumkin (bitta AP bir guruhni, ko’p AP ikkalasini ajratadi) yoki pufakchalar turli boutonlarga joylashgan bo’lishi mumkin.",
+      "text": "**Co-transmission:** turli pufakça populyatsiyalarida. Ca²⁺ sezgirligi farq qilişi mumkin (bitta AP bir guruhni, köp AP ikkalasini ajratadi) yoki pufakçalar turli boutonlarga joylaşgan bölişi mumkin.",
       "depth": 0
      },
      {
-      "text": "**Misol:** raphe yadrosi **serotonin va glutamat**ni birga chiqaradi; uyqu-bedorlik siklida muhim (59–60-boblar).",
+      "text": "**Misol:** raphe yadrosi **serotonin va glutamat**ni birga çiqaradi; uyqu-bedorlik siklida muhim (59–60-boblar).",
       "depth": 0
      }
     ],
@@ -1216,7 +1216,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Tinch holat (motoneyron somasi)",
+    "text": "Tinç holat (motoneyron somasi)",
     "id": "ch46-s-59-tinch-holat-motoneyron-somasi",
     "bid": "ch46-u59"
    },
@@ -1225,7 +1225,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Membrana potensiali **−65 mV**. Yirik periferik tolalar va skelet mushagidan kamroq manfiy, shuning uchun neyronni ham qo’zg’atish, ham tormozlash mumkin.",
+      "text": "Membrana potensiali **−65 mV**. Yirik periferik tolalar va skelet muşagidan kamroq manfiy, şuning uçun neyronni ham qözğatiş, ham tormozlaş mumkin.",
       "depth": 0
      }
     ],
@@ -1235,8 +1235,8 @@
     "type": "table",
     "header": [
      "Ion",
-     "Tashqarida (mEq/l)",
-     "Ichkarida (mEq/l)",
+     "Taşqarida (mEq/l)",
+     "Içkarida (mEq/l)",
      "Nernst potensiali"
     ],
     "rows": [
@@ -1266,15 +1266,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Nernst tenglamasi:** EMF (mV) = ±61 × log(ichkari/tashqari). Musbat ionlar uchun manfiy, manfiy ionlar uchun musbat ishora.",
+      "text": "**Nernst tenglamasi:** EMF (mV) = ±61 × log(içkari/taşqari). Musbat ionlar uçun manfiy, manfiy ionlar uçun musbat işora.",
       "depth": 0
      },
      {
-      "text": "Na⁺ ichkariga sizadi va Na⁺-K⁺ nasosi uni chiqaradi. K⁺ tashqariga intiladi va nasos qaytaradi.",
+      "text": "Na⁺ içkariga sizadi va Na⁺-K⁺ nasosi uni çiqaradi. K⁺ taşqariga intiladi va nasos qaytaradi.",
       "depth": 0
      },
      {
-      "text": "Ichkaridagi Cl⁻ ning kamligi asosan −65 mV potensial Cl⁻ ni itarishidan; ehtimol kuchsiz Cl⁻ nasosi ham bor.",
+      "text": "Içkaridagi Cl⁻ ning kamligi asosan −65 mV potensial Cl⁻ ni itarişidan; ehtimol kuçsiz Cl⁻ nasosi ham bor.",
       "depth": 0
      }
     ],
@@ -1282,13 +1282,13 @@
    },
    {
     "type": "paragraph",
-    "text": "**Soma ichida potensial bir xil tarqaladi:** soma diametri 10–80 µm, ichki suyuqlik yaxshi o’tkazadi. Bir joydagi o’zgarish butun soma bo’ylab deyarli teng o’zgarish beradi. Bu **jamlanish** uchun asos.",
+    "text": "**Soma içida potensial bir xil tarqaladi:** soma diametri 10–80 µm, içki suyuqlik yaxşi ötkazadi. Bir joydagi özgariş butun soma böylab deyarli teng özgariş beradi. Bu **jamlaniş** uçun asos.",
     "bid": "ch46-u63"
    },
    {
     "type": "heading",
     "level": 3,
-    "text": "EPSP (qo’zg’atuvchi postsinaptik potensial)",
+    "text": "EPSP (qözğatuvçi postsinaptik potensial)",
     "id": "ch46-s-64-epsp-qozgatuvchi-postsinaptik-potensial",
     "bid": "ch46-u64"
    },
@@ -1297,11 +1297,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Mediator Na⁺ o’tkazuvchanligini oshiradi, Na⁺ kiradi va potensial −65 dan **−45 mV** ga ko’tariladi: EPSP = **+20 mV**.",
+      "text": "Mediator Na⁺ ötkazuvçanligini oşiradi, Na⁺ kiradi va potensial −65 dan **−45 mV** ga kötariladi: EPSP = **+20 mV**.",
       "depth": 0
      },
      {
-      "text": "Bitta terminal buni bera olmaydi. Odatdagi motoneyronda **40–80 ta** terminalning bir vaqtda yoki ketma-ket ishlashi kerak.",
+      "text": "Bitta terminal buni bera olmaydi. Odatdagi motoneyronda **40–80 ta** terminalning bir vaqtda yoki ketma-ket işlaşi kerak.",
       "depth": 0
      }
     ],
@@ -1310,7 +1310,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Harakat potensiali akson boshlang’ich segmentida boshlanadi",
+    "text": "Harakat potensiali akson boşlanğiç segmentida boşlanadi",
     "id": "ch46-s-66-harakat-potensiali-akson-boshlangich-segmentida-boshlanadi",
     "bid": "ch46-u66"
    },
@@ -1319,19 +1319,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Somada potensialga bog’liq Na⁺ kanallari kam. **Boshlang’ich segmentda** ular **7 marta** ko’p.",
+      "text": "Somada potensialga boğliq Na⁺ kanallari kam. **Boşlanğiç segmentda** ular **7 marta** köp.",
       "depth": 0
      },
      {
-      "text": "Bo’sag’a: boshlang’ich segmentda EPSP **+10–20 mV**, somada **+30–40 mV** yoki undan ko’p.",
+      "text": "Bösağa: boşlanğiç segmentda EPSP **+10–20 mV**, somada **+30–40 mV** yoki undan köp.",
       "depth": 0
      },
      {
-      "text": "Bo’sag’a ~**−45 mV**.",
+      "text": "Bösağa ~**−45 mV**.",
       "depth": 0
      },
      {
-      "text": "AP akson bo’ylab periferiyaga, odatda somaga orqaga ham tarqaladi. Dendritlarga har doim emas, chunki ularda Na⁺ kanallari kam.",
+      "text": "AP akson böylab periferiyaga, odatda somaga orqaga ham tarqaladi. Dendritlarga har doim emas, çunki ularda Na⁺ kanallari kam.",
       "depth": 0
      }
     ],
@@ -1340,7 +1340,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "IPSP (tormozlovchi postsinaptik potensial)",
+    "text": "IPSP (tormozlovçi postsinaptik potensial)",
     "id": "ch46-s-68-ipsp-tormozlovchi-postsinaptik-potensial",
     "bid": "ch46-u68"
    },
@@ -1349,11 +1349,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Asosan **Cl⁻ kanallari** ochiladi. Cl⁻ Nernst potensiali (−70) tinch potensialdan manfiyroq, shuning uchun Cl⁻ ichkariga kiradi.",
+      "text": "Asosan **Cl⁻ kanallari** oçiladi. Cl⁻ Nernst potensiali (−70) tinç potensialdan manfiyroq, şuning uçun Cl⁻ içkariga kiradi.",
       "depth": 0
      },
      {
-      "text": "**K⁺ chiqishi** ham manfiylikni oshiradi.",
+      "text": "**K⁺ çiqişi** ham manfiylikni oşiradi.",
       "depth": 0
      },
      {
@@ -1366,7 +1366,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Presinaptik tormozlanish",
+    "text": "Presinaptik tormozlaniş",
     "id": "ch46-s-70-presinaptik-tormozlanish",
     "bid": "ch46-u70"
    },
@@ -1375,15 +1375,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Presinaptik tolalar sirtiga, ular uchi postsinaptik neyronga yetguncha, tormozlovchi modda (odatda **GABA**) ajraladi.",
+      "text": "Presinaptik tolalar sirtiga, ular uçi postsinaptik neyronga yetgunça, tormozlovçi modda (odatda **GABA**) ajraladi.",
       "depth": 0
      },
      {
-      "text": "Anion kanallari ochiladi va Cl⁻ tolaga kiradi. AP kelganda kirgan Na⁺ ning qo’zg’atuvchi ta’siri qisman yo’qqa chiqadi va mediator ajralishi kamayadi.",
+      "text": "Anion kanallari oçiladi va Cl⁻ tolaga kiradi. AP kelganda kirgan Na⁺ ning qözğatuvçi ta’siri qisman yöqqa çiqadi va mediator ajralişi kamayadi.",
       "depth": 0
      },
      {
-      "text": "Ko’p **sezgi yo’llarida** uchraydi: qo’shni tolalar bir-birini tormozlab, signallarning yon tomonga tarqalishi va aralashishini kamaytiradi.",
+      "text": "Köp **sezgi yöllarida** uçraydi: qöşni tolalar bir-birini tormozlab, signallarning yon tomonga tarqalişi va aralaşişini kamaytiradi.",
       "depth": 0
      }
     ],
@@ -1392,7 +1392,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Vaqt kechishi",
+    "text": "Vaqt keçişi",
     "id": "ch46-s-72-vaqt-kechishi",
     "bid": "ch46-u72"
    },
@@ -1401,11 +1401,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Na⁺ o’tkazuvchanligi **1–2 ms** ortadi, EPSP **~15 ms** davomida so’nadi (ortiqcha musbat zaryad sizib chiqishi vaqti). IPSP ham shunday.",
+      "text": "Na⁺ ötkazuvçanligi **1–2 ms** ortadi, EPSP **~15 ms** davomida sönadi (ortiqça musbat zaryad sizib çiqişi vaqti). IPSP ham şunday.",
       "depth": 0
      },
      {
-      "text": "Ba’zi mediatorlar, ayniqsa neyropeptidlar, yuzlab ms dan soatlargacha ta’sir qiladi.",
+      "text": "Ba’zi mediatorlar, ayniqsa neyropeptidlar, yuzlab ms dan soatlargaça ta’sir qiladi.",
       "depth": 0
      }
     ],
@@ -1414,7 +1414,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Jamlanish (summatsiya)",
+    "text": "Jamlaniş (summatsiya)",
     "id": "ch46-s-74-jamlanish-summatsiya",
     "bid": "ch46-u74"
    },
@@ -1423,19 +1423,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Fazoviy jamlanish:** bitta terminal **0,5–1 mV** EPSP beradi, bo’sag’a uchun 10–20 mV kerak. Neyronning turli joylaridagi ko’p terminallar bir vaqtda ishlasa, ta’sirlar qo’shiladi (rasm 46-11: 4 va 8 sinaps yetmaydi, 16 sinaps AP beradi).",
+      "text": "**Fazoviy jamlaniş:** bitta terminal **0,5–1 mV** EPSP beradi, bösağa uçun 10–20 mV kerak. Neyronning turli joylaridagi köp terminallar bir vaqtda işlasa, ta’sirlar qöşiladi (rasm 46-11: 4 va 8 sinaps yetmaydi, 16 sinaps AP beradi).",
       "depth": 0
      },
      {
-      "text": "**Vaqt bo’yicha jamlanish:** kanal ≤1–2 ms ochiq, potensial esa 15 ms gacha turadi. Bitta terminalning tez ketma-ket razryadlari qo’shiladi; chastota qancha yuqori bo’lsa, potensial shuncha katta.",
+      "text": "**Vaqt böyiça jamlaniş:** kanal ≤1–2 ms oçiq, potensial esa 15 ms gaça turadi. Bitta terminalning tez ketma-ket razryadlari qöşiladi; çastota qança yuqori bölsa, potensial şunça katta.",
       "depth": 0
      },
      {
-      "text": "**EPSP va IPSP birgalikda jamlanadi:** tormozlovchi signal qo’zg’alishni bo’sag’adan pastga tushirib, neyronni \"o’chirishi\" mumkin.",
+      "text": "**EPSP va IPSP birgalikda jamlanadi:** tormozlovçi signal qözğalişni bösağadan pastga tuşirib, neyronni “öçirişi” mumkin.",
       "depth": 0
      },
      {
-      "text": "**Fasilitatsiya:** jamlangan potensial qo’zg’atuvchi, lekin bo’sag’aga yetmagan. Neyron boshqa manbadan kelgan signal bilan oson qo’zg’aladi. Diffuz signallar katta neyron guruhlarini shu holatga keltiradi.",
+      "text": "**Fasilitatsiya:** jamlangan potensial qözğatuvçi, lekin bösağaga yetmagan. Neyron boşqa manbadan kelgan signal bilan oson qözğaladi. Diffuz signallar katta neyron guruhlarini şu holatga keltiradi.",
       "depth": 0
      }
     ],
@@ -1458,35 +1458,35 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Keng fazoviy maydon:** motoneyron dendritlari har tomonga **500–1000 µm** cho’ziladi va ko’p tolalardan signal qabul qiladi. Terminallarning **80–95%** i dendritlarda.",
+      "text": "**Keng fazoviy maydon:** motoneyron dendritlari har tomonga **500–1000 µm** çöziladi va köp tolalardan signal qabul qiladi. Terminallarning **80–95%** i dendritlarda.",
       "depth": 0
      },
      {
-      "text": "**Ko’pchilik dendrit AP o’tkaza olmaydi:** Na⁺ kanallari kam, bo’sag’a juda yuqori. Ular **elektrotonik o’tkazish** qiladi, ya’ni AP hosil qilmasdan ion oqimi bilan to’g’ridan-to’g’ri tok tarqatadi.",
+      "text": "**Köpçilik dendrit AP ötkaza olmaydi:** Na⁺ kanallari kam, bösağa juda yuqori. Ular **elektrotonik ötkaziş** qiladi, ya’ni AP hosil qilmasdan ion oqimi bilan töğridan-töğri tok tarqatadi.",
       "depth": 0
      },
      {
-      "text": "**Dekrementli o’tkazish:**",
+      "text": "**Dekrementli ötkaziş:**",
       "depth": 0
      },
      {
-      "text": "Dendritlar uzun, membranasi yupqa va K⁺ hamda Cl⁻ ga qisman o’tkazuvchan (\"sizuvchi\").",
+      "text": "Dendritlar uzun, membranasi yupqa va K⁺ hamda Cl⁻ ga qisman ötkazuvçan (“sizuvçi”).",
       "depth": 1
      },
      {
-      "text": "Potensial somaga yetguncha ko’p qismi yo’qoladi.",
+      "text": "Potensial somaga yetgunça köp qismi yöqoladi.",
       "depth": 1
      },
      {
-      "text": "Shuning uchun **somaga yaqin sinapslar** uzoqdagilardan ancha kuchli ta’sir qiladi.",
+      "text": "Şuning uçun **somaga yaqin sinapslar** uzoqdagilardan ança kuçli ta’sir qiladi.",
       "depth": 1
      },
      {
-      "text": "**Dendritda jamlanish:** distal qo’zg’alishni somaga yaqin tormozlovchi sinapslar butunlay yo’qqa chiqarishi mumkin.",
+      "text": "**Dendritda jamlaniş:** distal qözğalişni somaga yaqin tormozlovçi sinapslar butunlay yöqqa çiqarişi mumkin.",
       "depth": 0
      },
      {
-      "text": "**Akson tepachasi va boshlang’ich segmentdagi tormozlovchi sinapslar** eng kuchli: AP hosil bo’ladigan nuqtaning o’zida bo’sag’ani oshiradi.",
+      "text": "**Akson tepaçasi va boşlanğiç segmentdagi tormozlovçi sinapslar** eng kuçli: AP hosil böladigan nuqtaning özida bösağani oşiradi.",
       "depth": 0
      }
     ],
@@ -1495,7 +1495,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Qo’zg’alish holati va razryad chastotasi",
+    "text": "Qözğaliş holati va razryad çastotasi",
     "id": "ch46-s-79-qozgalish-holati-va-razryad-chastotasi",
     "bid": "ch46-u79"
    },
@@ -1504,19 +1504,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Qo’zg’alish holati** neyronga ta’sir qiluvchi qo’zg’atuvchi va tormozlovchi kirishlarning jamlangan darajasi.",
+      "text": "**Qözğaliş holati** neyronga ta’sir qiluvçi qözğatuvçi va tormozlovçi kirişlarning jamlangan darajasi.",
       "depth": 0
      },
      {
-      "text": "Bo’sag’adan yuqori bo’lsa, neyron shu holat davom etguncha takroriy razryad beradi.",
+      "text": "Bösağadan yuqori bölsa, neyron şu holat davom etgunça takroriy razryad beradi.",
       "depth": 0
      },
      {
-      "text": "**Rasm 46-13:** neyronlarning bo’sag’asi va maksimal chastotasi turlicha (1-neyron past bo’sag’ali, 3-neyron yuqori bo’sag’ali, lekin eng yuqori maksimal chastotali, 2-neyron eng past maksimal chastotali).",
+      "text": "**Rasm 46-13:** neyronlarning bösağasi va maksimal çastotasi turliça (1-neyron past bösağali, 3-neyron yuqori bösağali, lekin eng yuqori maksimal çastotali, 2-neyron eng past maksimal çastotali).",
       "depth": 0
      },
      {
-      "text": "Ba’zi neyronlar normal holatda ham doimo razryad beradi. Chastotasi qo’zg’alish bilan oshadi, tormozlanish bilan kamayadi yoki to’xtaydi.",
+      "text": "Ba’zi neyronlar normal holatda ham doimo razryad beradi. Çastotasi qözğaliş bilan oşadi, tormozlaniş bilan kamayadi yoki töxtaydi.",
       "depth": 0
      }
     ],
@@ -1530,14 +1530,14 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Sinaptik uzatishning maxsus xususiyatlari",
+    "text": "Sinaptik uzatişning maxsus xususiyatlari",
     "id": "ch46-s-82-sinaptik-uzatishning-maxsus-xususiyatlari",
     "bid": "ch46-u82"
    },
    {
     "type": "heading",
     "level": 3,
-    "text": "Charchash (fatigue)",
+    "text": "Çarçaş (fatigue)",
     "id": "ch46-s-83-charchash-fatigue",
     "bid": "ch46-u83"
    },
@@ -1546,11 +1546,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Tez takroriy stimulyatsiyada postsinaptik razryad avval ko’p, keyin ms yoki soniyalar ichida kamayadi.",
+      "text": "Tez takroriy stimulyatsiyada postsinaptik razryad avval köp, keyin ms yoki soniyalar içida kamayadi.",
       "depth": 0
      },
      {
-      "text": "**Himoya mexanizmi:** ortiqcha qo’zg’alishni so’ndiradi. Masalan, **epileptik tutqanoq** asosan shu bilan to’xtaydi (47-bob).",
+      "text": "**Himoya mexanizmi:** ortiqça qözğalişni söndiradi. Masalan, **epileptik tutqanoq** asosan şu bilan töxtaydi (47-bob).",
       "depth": 0
      },
      {
@@ -1558,15 +1558,15 @@
       "depth": 0
      },
      {
-      "text": "Asosan presinaptik terminaldagi mediator zaxirasining tugashi. Terminal ~**10 000** AP ga yetadigan mediator saqlaydi; tez stimulyatsiyada bir necha soniyadan daqiqagacha tugaydi.",
+      "text": "Asosan presinaptik terminaldagi mediator zaxirasining tugaşi. Terminal ~**10 000** AP ga yetadigan mediator saqlaydi; tez stimulyatsiyada bir neça soniyadan daqiqagaça tugaydi.",
       "depth": 1
      },
      {
-      "text": "Postsinaptik retseptorlarning asta nofaollashuvi.",
+      "text": "Postsinaptik retseptorlarning asta nofaollaşuvi.",
       "depth": 1
      },
      {
-      "text": "Postsinaptik neyron ichida g’ayritabiiy ion konsentratsiyalarining sekin paydo bo’lishi.",
+      "text": "Postsinaptik neyron içida ğayritabiiy ion konsentratsiyalarining sekin paydo bölişi.",
       "depth": 1
      }
     ],
@@ -1584,11 +1584,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Alkaloz** qo’zg’aluvchanlikni keskin oshiradi. pH 7,4 dan **7,8–8,0** ga ko’tarilsa, ko’pincha **epileptik tutqanoq** bo’ladi. Moyil odamda qisqa **giperventilyatsiya** (CO₂ chiqib, pH oshadi) xurujni qo’zg’atishi mumkin.",
+      "text": "**Alkaloz** qözğaluvçanlikni keskin oşiradi. pH 7,4 dan **7,8–8,0** ga kötarilsa, köpinça **epileptik tutqanoq** böladi. Moyil odamda qisqa **giperventilyatsiya** (CO₂ çiqib, pH oşadi) xurujni qözğatişi mumkin.",
       "depth": 0
      },
      {
-      "text": "**Atsidoz** neyron faolligini keskin tormozlaydi. pH **<7,0** da odatda koma. Og’ir **diabetik yoki uremik atsidozda** deyarli doim koma.",
+      "text": "**Atsidoz** neyron faolligini keskin tormozlaydi. pH **<7,0** da odatda koma. Oğir **diabetik yoki uremik atsidozda** deyarli doim koma.",
       "depth": 0
      }
     ],
@@ -1606,11 +1606,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "O₂ bir necha soniya to’xtasa, ba’zi neyronlar butunlay qo’zg’almas bo’ladi.",
+      "text": "O₂ bir neça soniya töxtasa, ba’zi neyronlar butunlay qözğalmas böladi.",
       "depth": 0
      },
      {
-      "text": "Miya qon oqimi to’xtaganda **3–7 s** ichida hush yo’qoladi.",
+      "text": "Miya qon oqimi töxtaganda **3–7 s** içida huş yöqoladi.",
       "depth": 0
      }
     ],
@@ -1628,15 +1628,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Kofein, teofillin, teobromin** (qahva, choy, kakao): bo’sag’ani pasaytirib qo’zg’aluvchanlikni oshiradi.",
+      "text": "**Kofein, teofillin, teobromin** (qahva, çoy, kakao): bösağani pasaytirib qözğaluvçanlikni oşiradi.",
       "depth": 0
      },
      {
-      "text": "**Strixnin:** bo’sag’ani pasaytirmaydi. Orqa miyadagi **glitsin** kabi tormozlovchi mediatorlar ta’sirini bloklaydi. Qo’zg’atuvchi ta’sir ustun keladi, tez takroriy razryadlar va kuchli **tonik mushak spazmlari** paydo bo’ladi.",
+      "text": "**Strixnin:** bösağani pasaytirmaydi. Orqa miyadagi **glitsin** kabi tormozlovçi mediatorlar ta’sirini bloklaydi. Qözğatuvçi ta’sir ustun keladi, tez takroriy razryadlar va kuçli **tonik muşak spazmlari** paydo böladi.",
       "depth": 0
      },
      {
-      "text": "**Ko’pchilik anestetiklar:** membrana bo’sag’asini oshirib, ko’p nuqtalarda sinaptik uzatishni kamaytiradi. Ko’pi lipidda yaxshi eriydi va membrana fizik xossalarini o’zgartirishi mumkin.",
+      "text": "**Köpçilik anestetiklar:** membrana bösağasini oşirib, köp nuqtalarda sinaptik uzatişni kamaytiradi. Köpi lipidda yaxşi eriydi va membrana fizik xossalarini özgartirişi mumkin.",
       "depth": 0
      }
     ],
@@ -1645,7 +1645,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Sinaptik kechikish",
+    "text": "Sinaptik keçikiş",
     "id": "ch46-s-91-sinaptik-kechikish",
     "bid": "ch46-u91"
    },
@@ -1654,15 +1654,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Tarkibiy qismlari:** mediator ajralishi, diffuziya, retseptorga ta’sir, o’tkazuvchanlik ortishi, Na⁺ kirib EPSP ning bo’sag’aga yetishi.",
+      "text": "**Tarkibiy qismlari:** mediator ajralişi, diffuziya, retseptorga ta’sir, ötkazuvçanlik ortişi, Na⁺ kirib EPSP ning bösağaga yetişi.",
       "depth": 0
      },
      {
-      "text": "Ko’p sinaps bir vaqtda qo’zg’alganda ham minimal **~0,5 ms**.",
+      "text": "Köp sinaps bir vaqtda qözğalganda ham minimal **~0,5 ms**.",
       "depth": 0
      },
      {
-      "text": "Kirish va chiqish volleylari orasidagi kechikishdan zanjirdagi ketma-ket neyronlar soni baholanadi.",
+      "text": "Kiriş va çiqiş volleylari orasidagi keçikişdan zanjirdagi ketma-ket neyronlar soni baholanadi.",
       "depth": 0
      }
     ],
@@ -1680,31 +1680,31 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Giperventilyatsiya va alkaloz** epilepsiyani qo’zg’atadi. **Og’ir atsidoz** (diabetik ketoatsidoz, uremiya) koma chaqiradi.",
+      "text": "**Giperventilyatsiya va alkaloz** epilepsiyani qözğatadi. **Oğir atsidoz** (diabetik ketoatsidoz, uremiya) koma çaqiradi.",
       "depth": 0
      },
      {
-      "text": "Miya qon oqimi to’xtasa, **3–7 s** ichida hushdan ketish.",
+      "text": "Miya qon oqimi töxtasa, **3–7 s** içida huşdan ketiş.",
       "depth": 0
      },
      {
-      "text": "**Strixnin zaharlanishi:** glitsin blokadasi, tonik tutqanoqlar.",
+      "text": "**Strixnin zaharlanişi:** glitsin blokadasi, tonik tutqanoqlar.",
       "depth": 0
      },
      {
-      "text": "**Kofein** neyron qo’zg’aluvchanligini oshiradi. **Anestetiklar** bo’sag’ani oshiradi.",
+      "text": "**Kofein** neyron qözğaluvçanligini oşiradi. **Anestetiklar** bösağani oşiradi.",
       "depth": 0
      },
      {
-      "text": "**Dofamin**ning qora moddadan striatumga yo’li Parkinson kasalligi bilan bog’liq (57-bob).",
+      "text": "**Dofamin**ning qora moddadan striatumga yöli Parkinson kasalligi bilan boğliq (57-bob).",
       "depth": 0
      },
      {
-      "text": "**Serotonin** og’riq yo’llarini tormozlaydi va kayfiyatni boshqaradi (49 va 59-boblar).",
+      "text": "**Serotonin** oğriq yöllarini tormozlaydi va kayfiyatni boşqaradi (49 va 59-boblar).",
       "depth": 0
      },
      {
-      "text": "Sinaptik charchash epileptik tutqanoqni to’xtatuvchi mexanizm.",
+      "text": "Sinaptik çarçaş epileptik tutqanoqni töxtatuvçi mexanizm.",
       "depth": 0
      }
     ],
@@ -1713,7 +1713,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Bog’liqlik",
+    "text": "Boğliqlik",
     "id": "ch46-s-95-bogliqlik",
     "bid": "ch46-u95"
    },
@@ -1722,15 +1722,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**4–5-boblar:** membrana tashilishi, Nernst potensiali, harakat potensiali.",
+      "text": "**4–5-boblar:** membrana taşilişi, Nernst potensiali, harakat potensiali.",
       "depth": 0
      },
      {
-      "text": "**7-bob:** nerv-mushak sinapsi.",
+      "text": "**7-bob:** nerv-muşak sinapsi.",
       "depth": 0
      },
      {
-      "text": "**8–9-boblar:** tirqishli birikmalar.",
+      "text": "**8–9-boblar:** tirqişli birikmalar.",
       "depth": 0
      },
      {
@@ -1738,11 +1738,11 @@
       "depth": 0
      },
      {
-      "text": "**48–49-boblar:** sezgi retseptorlari va og’riq.",
+      "text": "**48–49-boblar:** sezgi retseptorlari va oğriq.",
       "depth": 0
      },
      {
-      "text": "**55–57-boblar:** motor boshqaruv, bazal gangliyalar.",
+      "text": "**55–57-boblar:** motor boşqaruv, bazal gangliyalar.",
       "depth": 0
      },
      {
@@ -2890,7 +2890,7 @@
    "id": "ch46-t-sezgi",
    "termUz": "sezgi",
    "original": "retseptorlar orqali kirish",
-   "contextUz": "sezgi (retseptorlar orqali kirish); integratsiya (qayta ishlash va xotira); motor chiqish (effektorlar: skelet va silliq mushak, bezlar).",
+   "contextUz": "sezgi (retseptorlar orqali kiriş); integratsiya (qayta işlaş va xotira); motor çiqiş (effektorlar: skelet va silliq muşak, bezlar).",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -2900,7 +2900,7 @@
    "id": "ch46-t-integratsiya",
    "termUz": "integratsiya",
    "original": "qayta ishlash va xotira",
-   "contextUz": "sezgi (retseptorlar orqali kirish); integratsiya (qayta ishlash va xotira); motor chiqish (effektorlar: skelet va silliq mushak, bezlar).",
+   "contextUz": "sezgi (retseptorlar orqali kiriş); integratsiya (qayta işlaş va xotira); motor çiqiş (effektorlar: skelet va silliq muşak, bezlar).",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -2910,7 +2910,7 @@
    "id": "ch46-t-motor",
    "termUz": "motor",
    "original": null,
-   "contextUz": "sezgi (retseptorlar orqali kirish); integratsiya (qayta ishlash va xotira); motor chiqish (effektorlar: skelet va silliq mushak, bezlar).",
+   "contextUz": "sezgi (retseptorlar orqali kiriş); integratsiya (qayta işlaş va xotira); motor çiqiş (effektorlar: skelet va silliq muşak, bezlar).",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -2920,7 +2920,7 @@
    "id": "ch46-t-neyron",
    "termUz": "neyron",
    "original": null,
-   "contextUz": "Asosiy funksional birlik neyron, ma’lumot tanlanadigan va yo’naltiriladigan joy sinaps.",
+   "contextUz": "Asosiy funksional birlik neyron, ma’lumot tanlanadigan va yönaltiriladigan joy sinaps.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -2930,7 +2930,7 @@
    "id": "ch46-t-sinaps",
    "termUz": "sinaps",
    "original": null,
-   "contextUz": "Asosiy funksional birlik neyron, ma’lumot tanlanadigan va yo’naltiriladigan joy sinaps.",
+   "contextUz": "Asosiy funksional birlik neyron, ma’lumot tanlanadigan va yönaltiriladigan joy sinaps.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -2940,7 +2940,7 @@
    "id": "ch46-t-bir-tomonga",
    "termUz": "bir tomonga",
    "original": null,
-   "contextUz": "Kimyoviy sinaps signalni bir tomonga o’tkazadi.",
+   "contextUz": "Kimyoviy sinaps signalni bir tomonga ötkazadi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -2950,7 +2950,7 @@
    "id": "ch46-t-jamlab",
    "termUz": "jamlab",
    "original": null,
-   "contextUz": "Postsinaptik neyron qo’zg’aluvchi (EPSP) va tormozlovchi (IPSP) ta’sirlarni fazoviy va vaqt bo’yicha jamlab, akson boshlang’ich segmentida harakat potensialini chiqaradi yoki chiqarmaydi.",
+   "contextUz": "Postsinaptik neyron qözğaluvçi (EPSP) va tormozlovçi (IPSP) ta’sirlarni fazoviy va vaqt böyiça jamlab, akson boşlanğiç segmentida harakat potensialini çiqaradi yoki çiqarmaydi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -2970,7 +2970,7 @@
    "id": "ch46-t-dendritlar",
    "termUz": "dendritlar",
    "original": null,
-   "contextUz": "Kiruvchi signallar asosan dendritlar va qisman soma ustidagi sinapslarga keladi.",
+   "contextUz": "Kiruvçi signallar asosan dendritlar va qisman soma ustidagi sinapslarga keladi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -2980,7 +2980,7 @@
    "id": "ch46-t-akson",
    "termUz": "akson",
    "original": null,
-   "contextUz": "Chiqish yagona akson orqali; akson ko’p tarmoqqa bo’linishi mumkin.",
+   "contextUz": "Çiqiş yagona akson orqali; akson köp tarmoqqa bölinişi mumkin.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -2988,9 +2988,9 @@
   },
   {
    "id": "ch46-t-sezgi-qismi-somatosensor-oq",
-   "termUz": "Sezgi qismi (somatosensor o’q).",
+   "termUz": "Sezgi qismi (somatosensor öq).",
    "original": null,
-   "contextUz": "Sezgi qismi (somatosensor o’q). Tana yuzasi va ichki tuzilmalardan kelgan ma’lumot periferik nervlar orqali quyidagilarga boradi:",
+   "contextUz": "Sezgi qismi (somatosensor öq). Tana yuzasi va içki tuzilmalardan kelgan ma’lumot periferik nervlar orqali quyidagilarga boradi:",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3000,7 +3000,7 @@
    "id": "ch46-t-motor-qismi",
    "termUz": "Motor qismi.",
    "original": null,
-   "contextUz": "Motor qismi. Effektorlar: skelet mushaklari, ichki a’zolarning silliq mushaklari, ekzo- va endokrin bezlar.",
+   "contextUz": "Motor qismi. Effektorlar: skelet muşaklari, içki a’zolarning silliq muşaklari, ekzo- va endokrin bezlar.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3010,7 +3010,7 @@
    "id": "ch46-t-avtonom-nerv-tizimi",
    "termUz": "avtonom nerv tizimi",
    "original": null,
-   "contextUz": "Parallel ravishda avtonom nerv tizimi ishlaydi (61-bob).",
+   "contextUz": "Parallel ravişda avtonom nerv tizimi işlaydi (61-bob).",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3020,7 +3020,7 @@
    "id": "ch46-t-99",
    "termUz": ">99%",
    "original": null,
-   "contextUz": "Sezgi ma’lumotlarining >99% i ahamiyatsiz deb tashlab yuboriladi (kiyim tegishi, o’rindiq bosimi, fon shovqini).",
+   "contextUz": "Sezgi ma’lumotlarining >99% i ahamiyatsiz deb taşlab yuboriladi (kiyim tegişi, örindiq bosimi, fon şovqini).",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3050,7 +3050,7 @@
    "id": "ch46-t-fasilitatsiya",
    "termUz": "fasilitatsiya",
    "original": null,
-   "contextUz": "Signal bir xil sinapslar ketma-ketligidan ko’p o’tgan sari ular yengillashadi (fasilitatsiya).",
+   "contextUz": "Signal bir xil sinapslar ketma-ketligidan köp ötgan sari ular yengillaşadi (fasilitatsiya).",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3060,7 +3060,7 @@
    "id": "ch46-t-orqa-miya",
    "termUz": "Orqa miya",
    "original": null,
-   "contextUz": "Daraja Vazifalar Orqa miya oddiy yo’lak emas.",
+   "contextUz": "Daraja Vazifalar Orqa miya oddiy yölak emas.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3068,9 +3068,9 @@
   },
   {
    "id": "ch46-t-pastki-miya-postloq-osti",
-   "termUz": "Pastki miya (po’stloq osti)",
+   "termUz": "Pastki miya (pöstloq osti)",
    "original": null,
-   "contextUz": "Yuqori darajalar ko’pincha orqa miya markazlariga \"buyruq\" beradi Pastki miya (po’stloq osti): uzunchoq miya, ko’prik, o’rta miya, gipotalamus, talamus, miyacha, bazal gangliyalar ongsiz faoliyat: arterial bosim va nafas (uzunchoq miya va ko’prik); muvozanat (eski miyacha va retikulyar modda); ovqatlanish reflekslari (so’lak ajralishi, lab yalash); emotsional naqshlar (g’azab, qo’zg’alish, jin",
+   "contextUz": "Yuqori darajalar köpinça orqa miya markazlariga “buyruq” beradi Pastki miya (pöstloq osti): uzunçoq miya, köprik, örta miya, gipotalamus, talamus, miyaça, bazal gangliyalar ongsiz faoliyat: arterial bosim va nafas (uzunçoq miya va köprik); muvozanat (eski miyaça va retikulyar modda); ovqatlaniş reflekslari (sölak ajralişi, lab yalaş); emotsional naqşlar (ğazab, qözğaliş, jin",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3078,9 +3078,9 @@
   },
   {
    "id": "ch46-t-yuqori-miya-postloq",
-   "termUz": "Yuqori miya (po’stloq)",
+   "termUz": "Yuqori miya (pöstloq)",
    "original": null,
-   "contextUz": "Yuqori darajalar ko’pincha orqa miya markazlariga \"buyruq\" beradi Pastki miya (po’stloq osti): uzunchoq miya, ko’prik, o’rta miya, gipotalamus, talamus, miyacha, bazal gangliyalar ongsiz faoliyat: arterial bosim va nafas (uzunchoq miya va ko’prik); muvozanat (eski miyacha va retikulyar modda); ovqatlanish reflekslari (so’lak ajralishi, lab yalash); emotsional naqshlar (g’azab, qo’zg’alish, jin",
+   "contextUz": "Yuqori darajalar köpinça orqa miya markazlariga “buyruq” beradi Pastki miya (pöstloq osti): uzunçoq miya, köprik, örta miya, gipotalamus, talamus, miyaça, bazal gangliyalar ongsiz faoliyat: arterial bosim va nafas (uzunçoq miya va köprik); muvozanat (eski miyaça va retikulyar modda); ovqatlaniş reflekslari (sölak ajralişi, lab yalaş); emotsional naqşlar (ğazab, qözğaliş, jin",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3088,9 +3088,9 @@
   },
   {
    "id": "ch46-t-pastki-markazlar-uygotadi",
-   "termUz": "pastki markazlar uyg’otadi",
+   "termUz": "pastki markazlar uyğotadi",
    "original": null,
-   "contextUz": "Fikrlash uchun zarur, lekin po’stloqni pastki markazlar uyg’otadi",
+   "contextUz": "Fikrlaş uçun zarur, lekin pöstloqni pastki markazlar uyğotadi",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3098,9 +3098,9 @@
   },
   {
    "id": "ch46-t-kompyuter-bilan-oxshashlik",
-   "termUz": "Kompyuter bilan o’xshashlik",
+   "termUz": "Kompyuter bilan öxşaşlik",
    "original": null,
-   "contextUz": "Kompyuter bilan o’xshashlik: kirish (sezgi), chiqish (motor), xotira, va diqqatni boshqaruvchi \"markaziy protsessor\".",
+   "contextUz": "Kompyuter bilan öxşaşlik: kiriş (sezgi), çiqiş (motor), xotira, va diqqatni boşqaruvçi “markaziy protsessor”.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3110,7 +3110,7 @@
    "id": "ch46-t-neyromediator",
    "termUz": "neyromediator",
    "original": null,
-   "contextUz": "Kimyoviy Elektr Uzatish neyromediator postsinaptik retseptorga ta’sir qiladi tirqishli birikmalar (gap junctions) orqali ionlar bevosita o’tadi Yo’nalish bir tomonga (presinaptikdan postsinaptikka) ko’pincha ikki tomonga Tirqish 200–300 Å 20–40 Å Qayerda MNS dagi ko’pchilik sinapslar visseral silliq mushak, yurak mushagi; MNS da neyron guruhlarini sinxronlash va bo’sag’adan past depoly",
+   "contextUz": "Kimyoviy Elektr Uzatiş neyromediator postsinaptik retseptorga ta’sir qiladi tirqişli birikmalar (gap junctions) orqali ionlar bevosita ötadi Yönaliş bir tomonga (presinaptikdan postsinaptikka) köpinça ikki tomonga Tirqiş 200–300 Å 20–40 Å Qayerda MNS dagi köpçilik sinapslar visseral silliq muşak, yurak muşagi; MNS da neyron guruhlarini sinxronlaş va bösağadan past depoly",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3118,9 +3118,9 @@
   },
   {
    "id": "ch46-t-tirqishli-birikmalar-gap-junctions",
-   "termUz": "tirqishli birikmalar (gap junctions)",
+   "termUz": "tirqişli birikmalar (gap junctions)",
    "original": null,
-   "contextUz": "Kimyoviy Elektr Uzatish neyromediator postsinaptik retseptorga ta’sir qiladi tirqishli birikmalar (gap junctions) orqali ionlar bevosita o’tadi Yo’nalish bir tomonga (presinaptikdan postsinaptikka) ko’pincha ikki tomonga Tirqish 200–300 Å 20–40 Å Qayerda MNS dagi ko’pchilik sinapslar visseral silliq mushak, yurak mushagi; MNS da neyron guruhlarini sinxronlash va bo’sag’adan past depoly",
+   "contextUz": "Kimyoviy Elektr Uzatiş neyromediator postsinaptik retseptorga ta’sir qiladi tirqişli birikmalar (gap junctions) orqali ionlar bevosita ötadi Yönaliş bir tomonga (presinaptikdan postsinaptikka) köpinça ikki tomonga Tirqiş 200–300 Å 20–40 Å Qayerda MNS dagi köpçilik sinapslar visseral silliq muşak, yurak muşagi; MNS da neyron guruhlarini sinxronlaş va bösağadan past depoly",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3130,7 +3130,7 @@
    "id": "ch46-t-50-dan-ortiq",
    "termUz": "50 dan ortiq",
    "original": null,
-   "contextUz": "50 dan ortiq mediator ma’lum: ACh, noradrenalin, adrenalin, gistamin, GABA, glitsin, serotonin, glutamat va boshqalar.",
+   "contextUz": "50 dan ortiq mediator ma’lum: ACh, noradrenalin, adrenalin, gistamin, GABA, glitsin, serotonin, glutamat va boşqalar.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3138,9 +3138,9 @@
   },
   {
    "id": "ch46-t-bir-tomonlama-otkazish",
-   "termUz": "Bir tomonlama o’tkazish",
+   "termUz": "Bir tomonlama ötkaziş",
    "original": null,
-   "contextUz": "Bir tomonlama o’tkazish signalni aniq maqsadga yo’naltiradi.",
+   "contextUz": "Bir tomonlama ötkaziş signalni aniq maqsadga yönaltiradi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3148,9 +3148,9 @@
   },
   {
    "id": "ch46-t-old-shox-motoneyroni",
-   "termUz": "Old shox motoneyroni",
+   "termUz": "Old şox motoneyroni",
    "original": null,
-   "contextUz": "Old shox motoneyroni:",
+   "contextUz": "Old şox motoneyroni:",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3180,7 +3180,7 @@
    "id": "ch46-t-presinaptik-terminal",
    "termUz": "Presinaptik terminal",
    "original": "tugmacha, bouton, oyoqcha",
-   "contextUz": "Presinaptik terminal (tugmacha, bouton, oyoqcha):",
+   "contextUz": "Presinaptik terminal (tugmaça, bouton, oyoqça):",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3188,9 +3188,9 @@
   },
   {
    "id": "ch46-t-mediator-pufakchalari",
-   "termUz": "Mediator pufakchalari",
+   "termUz": "Mediator pufakçalari",
    "original": null,
-   "contextUz": "Mediator pufakchalari va ATP beruvchi mitoxondriyalar bor.",
+   "contextUz": "Mediator pufakçalari va ATP beruvçi mitoxondriyalar bor.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3200,7 +3200,7 @@
    "id": "ch46-t-mitoxondriyalar",
    "termUz": "mitoxondriyalar",
    "original": null,
-   "contextUz": "Mediator pufakchalari va ATP beruvchi mitoxondriyalar bor.",
+   "contextUz": "Mediator pufakçalari va ATP beruvçi mitoxondriyalar bor.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3208,9 +3208,9 @@
   },
   {
    "id": "ch46-t-potensialga-bogliq-ca-kanallari",
-   "termUz": "Potensialga bog’liq Ca²⁺ kanallari",
+   "termUz": "Potensialga boğliq Ca²⁺ kanallari",
    "original": null,
-   "contextUz": "Potensialga bog’liq Ca²⁺ kanallari ochiladi va Ca²⁺ kiradi.",
+   "contextUz": "Potensialga boğliq Ca²⁺ kanallari oçiladi va Ca²⁺ kiradi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3218,9 +3218,9 @@
   },
   {
    "id": "ch46-t-ajralish-joylari-release-sites",
-   "termUz": "ajralish joylari (release sites)",
+   "termUz": "ajraliş joylari (release sites)",
    "original": null,
-   "contextUz": "Ca²⁺ membrananing ichki yuzasidagi ajralish joylari (release sites) oqsillariga bog’lanadi.",
+   "contextUz": "Ca²⁺ membrananing içki yuzasidagi ajraliş joylari (release sites) oqsillariga boğlanadi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3230,7 +3230,7 @@
    "id": "ch46-t-10-000",
    "termUz": ">10 000",
    "original": null,
-   "contextUz": "Pufakchalar bir necha yuzdan >10 000 gacha harakat potensialiga yetadi.",
+   "contextUz": "Pufakçalar bir neça yuzdan >10 000 gaça harakat potensialiga yetadi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3238,9 +3238,9 @@
   },
   {
    "id": "ch46-t-boglovchi-qism",
-   "termUz": "bog’lovchi qism",
+   "termUz": "boğlovçi qism",
    "original": null,
-   "contextUz": "Ikki qismdan iborat: tirqishga chiqib turgan bog’lovchi qism va membranadan hujayra ichiga o’tuvchi ichki qism.",
+   "contextUz": "Ikki qismdan iborat: tirqişga çiqib turgan boğlovçi qism va membranadan hujayra içiga ötuvçi içki qism.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3248,9 +3248,9 @@
   },
   {
    "id": "ch46-t-ichki-qism",
-   "termUz": "ichki qism",
+   "termUz": "içki qism",
    "original": null,
-   "contextUz": "Ikki qismdan iborat: tirqishga chiqib turgan bog’lovchi qism va membranadan hujayra ichiga o’tuvchi ichki qism.",
+   "contextUz": "Ikki qismdan iborat: tirqişga çiqib turgan boğlovçi qism va membranadan hujayra içiga ötuvçi içki qism.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3260,7 +3260,7 @@
    "id": "ch46-t-ionotrop-retseptorlar",
    "termUz": "Ionotrop retseptorlar",
    "original": null,
-   "contextUz": "Ionotrop retseptorlar ion kanalini bevosita ochadi.",
+   "contextUz": "Ionotrop retseptorlar ion kanalini bevosita oçadi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3270,7 +3270,7 @@
    "id": "ch46-t-metabotrop-retseptorlar",
    "termUz": "Metabotrop retseptorlar",
    "original": null,
-   "contextUz": "Metabotrop retseptorlar ikkilamchi vositachi orqali ta’sir qiladi.",
+   "contextUz": "Metabotrop retseptorlar ikkilamçi vositaçi orqali ta’sir qiladi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3278,9 +3278,9 @@
   },
   {
    "id": "ch46-t-ikkilamchi-vositachi",
-   "termUz": "ikkilamchi vositachi",
+   "termUz": "ikkilamçi vositaçi",
    "original": null,
-   "contextUz": "Metabotrop retseptorlar ikkilamchi vositachi orqali ta’sir qiladi.",
+   "contextUz": "Metabotrop retseptorlar ikkilamçi vositaçi orqali ta’sir qiladi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3300,7 +3300,7 @@
    "id": "ch46-t-kation-kanallari",
    "termUz": "Kation kanallari",
    "original": null,
-   "contextUz": "Kation kanallari asosan Na⁺ o’tkazadi, ba’zan K⁺ va Ca²⁺ ham.",
+   "contextUz": "Kation kanallari asosan Na⁺ ötkazadi, ba’zan K⁺ va Ca²⁺ ham.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3310,7 +3310,7 @@
    "id": "ch46-t-manfiy",
    "termUz": "manfiy",
    "original": null,
-   "contextUz": "Ichki devori manfiy zaryadlangan: Na⁺ ni tortadi, anionlarni itaradi.",
+   "contextUz": "Içki devori manfiy zaryadlangan: Na⁺ ni tortadi, anionlarni itaradi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3318,9 +3318,9 @@
   },
   {
    "id": "ch46-t-qozgatuvchi",
-   "termUz": "qo’zg’atuvchi",
+   "termUz": "qözğatuvçi",
    "original": null,
-   "contextUz": "Ularni ochuvchi mediator qo’zg’atuvchi.",
+   "contextUz": "Ularni oçuvçi mediator qözğatuvçi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3330,7 +3330,7 @@
    "id": "ch46-t-anion-kanallari",
    "termUz": "Anion kanallari",
    "original": null,
-   "contextUz": "Anion kanallari asosan Cl⁻ o’tkazadi; gidratlangan kationlar juda katta bo’lgani uchun o’tmaydi.",
+   "contextUz": "Anion kanallari asosan Cl⁻ ötkazadi; gidratlangan kationlar juda katta bölgani uçun ötmaydi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3338,9 +3338,9 @@
   },
   {
    "id": "ch46-t-tormozlovchi",
-   "termUz": "tormozlovchi",
+   "termUz": "tormozlovçi",
    "original": null,
-   "contextUz": "Ularni ochuvchi mediator tormozlovchi.",
+   "contextUz": "Ularni oçuvçi mediator tormozlovçi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3348,9 +3348,9 @@
   },
   {
    "id": "ch46-t-nima-uchun-kerak",
-   "termUz": "Nima uchun kerak",
+   "termUz": "Nima uçun kerak",
    "original": null,
-   "contextUz": "Nima uchun kerak: ion kanallari ms ichida yopiladi va uzoq o’zgarish (masalan xotira) bera olmaydi.",
+   "contextUz": "Nima uçun kerak: ion kanallari ms içida yopiladi va uzoq özgariş (masalan xotira) bera olmaydi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3358,9 +3358,9 @@
   },
   {
    "id": "ch46-t-g-oqsil-siklining-bosqichlari",
-   "termUz": "G-oqsil siklining bosqichlari",
+   "termUz": "G-oqsil siklining bosqiçlari",
    "original": null,
-   "contextUz": "G-oqsil siklining bosqichlari: Nofaol G-oqsil = GDP + α, β, γ subbirliklari.",
+   "contextUz": "G-oqsil siklining bosqiçlari: Nofaol G-oqsil = GDP + α, β, γ subbirliklari.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3370,7 +3370,7 @@
    "id": "ch46-t-gdp",
    "termUz": "GDP + α, β, γ",
    "original": null,
-   "contextUz": "G-oqsil siklining bosqichlari: Nofaol G-oqsil = GDP + α, β, γ subbirliklari.",
+   "contextUz": "G-oqsil siklining bosqiçlari: Nofaol G-oqsil = GDP + α, β, γ subbirliklari.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3380,7 +3380,7 @@
    "id": "ch46-t-gtp",
    "termUz": "GTP",
    "original": null,
-   "contextUz": "α subbirlik GDP ni chiqarib GTP ni bog’laydi va β-γ dan ajraladi.",
+   "contextUz": "α subbirlik GDP ni çiqarib GTP ni boğlaydi va β-γ dan ajraladi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3388,9 +3388,9 @@
   },
   {
    "id": "ch46-t-gtp-kompleksining-4-ta-mumkin-bolgan-tasiri",
-   "termUz": "α-GTP kompleksining 4 ta mumkin bo’lgan ta’siri",
+   "termUz": "α-GTP kompleksining 4 ta mumkin bölgan ta’siri",
    "original": null,
-   "contextUz": "α-GTP kompleksining 4 ta mumkin bo’lgan ta’siri: maxsus ion kanalini ochadi, masalan K⁺ kanali (uzoq ochiq turadi); cAMP yoki cGMP ni faollashtiradi, bu uzoq muddatli metabolik va tuzilma o’zgarishlarini boshlaydi; hujayra ichidagi fermentlarni faollashtiradi; gen transkripsiyasini faollashtiradi: yangi oqsillar sintezlanadi, neyron tuzilmasi o’zgaradi (uzoq muddatli xotira).",
+   "contextUz": "α-GTP kompleksining 4 ta mumkin bölgan ta’siri: maxsus ion kanalini oçadi, masalan K⁺ kanali (uzoq oçiq turadi); cAMP yoki cGMP ni faollaştiradi, bu uzoq muddatli metabolik va tuzilma özgarişlarini boşlaydi; hujayra içidagi fermentlarni faollaştiradi; gen transkripsiyasini faollaştiradi: yangi oqsillar sintezlanadi, neyron tuzilmasi özgaradi (uzoq muddatli xotira).",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3400,7 +3400,7 @@
    "id": "ch46-t-k-kanali",
    "termUz": "K⁺ kanali",
    "original": "uzoq ochiq turadi",
-   "contextUz": "α-GTP kompleksining 4 ta mumkin bo’lgan ta’siri: maxsus ion kanalini ochadi, masalan K⁺ kanali (uzoq ochiq turadi); cAMP yoki cGMP ni faollashtiradi, bu uzoq muddatli metabolik va tuzilma o’zgarishlarini boshlaydi; hujayra ichidagi fermentlarni faollashtiradi; gen transkripsiyasini faollashtiradi: yangi oqsillar sintezlanadi, neyron tuzilmasi o’zgaradi (uzoq muddatli xotira).",
+   "contextUz": "α-GTP kompleksining 4 ta mumkin bölgan ta’siri: maxsus ion kanalini oçadi, masalan K⁺ kanali (uzoq oçiq turadi); cAMP yoki cGMP ni faollaştiradi, bu uzoq muddatli metabolik va tuzilma özgarişlarini boşlaydi; hujayra içidagi fermentlarni faollaştiradi; gen transkripsiyasini faollaştiradi: yangi oqsillar sintezlanadi, neyron tuzilmasi özgaradi (uzoq muddatli xotira).",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3410,7 +3410,7 @@
    "id": "ch46-t-camp-yoki-cgmp",
    "termUz": "cAMP yoki cGMP",
    "original": null,
-   "contextUz": "α-GTP kompleksining 4 ta mumkin bo’lgan ta’siri: maxsus ion kanalini ochadi, masalan K⁺ kanali (uzoq ochiq turadi); cAMP yoki cGMP ni faollashtiradi, bu uzoq muddatli metabolik va tuzilma o’zgarishlarini boshlaydi; hujayra ichidagi fermentlarni faollashtiradi; gen transkripsiyasini faollashtiradi: yangi oqsillar sintezlanadi, neyron tuzilmasi o’zgaradi (uzoq muddatli xotira).",
+   "contextUz": "α-GTP kompleksining 4 ta mumkin bölgan ta’siri: maxsus ion kanalini oçadi, masalan K⁺ kanali (uzoq oçiq turadi); cAMP yoki cGMP ni faollaştiradi, bu uzoq muddatli metabolik va tuzilma özgarişlarini boşlaydi; hujayra içidagi fermentlarni faollaştiradi; gen transkripsiyasini faollaştiradi: yangi oqsillar sintezlanadi, neyron tuzilmasi özgaradi (uzoq muddatli xotira).",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3420,7 +3420,7 @@
    "id": "ch46-t-gen-transkripsiyasi",
    "termUz": "gen transkripsiyasi",
    "original": null,
-   "contextUz": "α-GTP kompleksining 4 ta mumkin bo’lgan ta’siri: maxsus ion kanalini ochadi, masalan K⁺ kanali (uzoq ochiq turadi); cAMP yoki cGMP ni faollashtiradi, bu uzoq muddatli metabolik va tuzilma o’zgarishlarini boshlaydi; hujayra ichidagi fermentlarni faollashtiradi; gen transkripsiyasini faollashtiradi: yangi oqsillar sintezlanadi, neyron tuzilmasi o’zgaradi (uzoq muddatli xotira).",
+   "contextUz": "α-GTP kompleksining 4 ta mumkin bölgan ta’siri: maxsus ion kanalini oçadi, masalan K⁺ kanali (uzoq oçiq turadi); cAMP yoki cGMP ni faollaştiradi, bu uzoq muddatli metabolik va tuzilma özgarişlarini boşlaydi; hujayra içidagi fermentlarni faollaştiradi; gen transkripsiyasini faollaştiradi: yangi oqsillar sintezlanadi, neyron tuzilmasi özgaradi (uzoq muddatli xotira).",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3428,9 +3428,9 @@
   },
   {
    "id": "ch46-t-nofaollashuv",
-   "termUz": "Nofaollashuv",
+   "termUz": "Nofaollaşuv",
    "original": null,
-   "contextUz": "Nofaollashuv: GTP gidrolizlanib GDP ga aylanadi, α nishondan ajraladi va β-γ bilan qayta birikadi.",
+   "contextUz": "Nofaollaşuv: GTP gidrolizlanib GDP ga aylanadi, α nişondan ajraladi va β-γ bilan qayta birikadi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3438,9 +3438,9 @@
   },
   {
    "id": "ch46-t-na-kanallarini-ochish",
-   "termUz": "Na⁺ kanallarini ochish",
-   "original": "eng ko’p uchraydigan usul",
-   "contextUz": "Na⁺ kanallarini ochish (eng ko’p uchraydigan usul) 1.",
+   "termUz": "Na⁺ kanallarini oçiş",
+   "original": "eng ko‘p uchraydigan usul",
+   "contextUz": "Na⁺ kanallarini oçiş (eng köp uçraydigan usul) 1.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3448,9 +3448,9 @@
   },
   {
    "id": "ch46-t-cl-kanallarini-ochish",
-   "termUz": "Cl⁻ kanallarini ochish",
+   "termUz": "Cl⁻ kanallarini oçiş",
    "original": "Cl⁻ kiradi",
-   "contextUz": "Cl⁻ kanallarini ochish (Cl⁻ kiradi) 2.",
+   "contextUz": "Cl⁻ kanallarini oçiş (Cl⁻ kiradi) 2.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3458,9 +3458,9 @@
   },
   {
    "id": "ch46-t-k-otkazuvchanligini-oshirish",
-   "termUz": "K⁺ o’tkazuvchanligini oshirish",
+   "termUz": "K⁺ ötkazuvçanligini oşiriş",
    "original": "K⁺ chiqadi",
-   "contextUz": "K⁺ o’tkazuvchanligini oshirish (K⁺ chiqadi) 3.",
+   "contextUz": "K⁺ ötkazuvçanligini oşiriş (K⁺ çiqadi) 3.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3468,9 +3468,9 @@
   },
   {
    "id": "ch46-t-jadval-46-1-kichik-molekulali-tez-tasir-qiluvchilar",
-   "termUz": "Jadval 46-1: Kichik molekulali, tez ta’sir qiluvchilar",
+   "termUz": "Jadval 46-1: Kiçik molekulali, tez ta’sir qiluvçilar",
    "original": null,
-   "contextUz": "Jadval 46-1: Kichik molekulali, tez ta’sir qiluvchilar",
+   "contextUz": "Jadval 46-1: Kiçik molekulali, tez ta’sir qiluvçilar",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3480,7 +3480,7 @@
    "id": "ch46-t-p-moddasi",
    "termUz": "P moddasi",
    "original": null,
-   "contextUz": "Guruh Moddalar Gipotalamik rilizing gormonlar TRG, LGRG, somatostatin Gipofiz peptidlari AKTG, β-endorfin, α-MSG, prolaktin, LG, TTG, o’sish gormoni, vazopressin, oksitotsin Ichak va miyada ta’sir qiluvchi peptidlar leytsin-enkefalin, metionin-enkefalin, P moddasi, gastrin, xoletsistokinin, VIP, nerv o’sish omili, miyadan olingan neyrotrof omil (BDNF), neyrotenzin, insulin, glyukagon Boshqa to",
+   "contextUz": "Guruh Moddalar Gipotalamik rilizing gormonlar TRG, LGRG, somatostatin Gipofiz peptidlari AKTG, β-endorfin, α-MSG, prolaktin, LG, TTG, ösiş gormoni, vazopressin, oksitotsin Içak va miyada ta’sir qiluvçi peptidlar leytsin-enkefalin, metionin-enkefalin, P moddasi, gastrin, xoletsistokinin, VIP, nerv ösiş omili, miyadan olingan neyrotrof omil (BDNF), neyrotenzin, insulin, glyukagon Boşqa to",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3490,7 +3490,7 @@
    "id": "ch46-t-sintez",
    "termUz": "Sintez",
    "original": null,
-   "contextUz": "Sintez: presinaptik terminal sitozolida sintezlanadi va faol transport bilan pufakchalarga yig’iladi.",
+   "contextUz": "Sintez: presinaptik terminal sitozolida sintezlanadi va faol transport bilan pufakçalarga yiğiladi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3498,9 +3498,9 @@
   },
   {
    "id": "ch46-t-pufakchalar-qayta-ishlatiladi",
-   "termUz": "Pufakchalar qayta ishlatiladi",
+   "termUz": "Pufakçalar qayta işlatiladi",
    "original": null,
-   "contextUz": "Pufakchalar qayta ishlatiladi: membrana bilan qo’shiladi, keyin soniyalar–daqiqalarda qayta ichkariga botib, yangi pufakcha hosil qiladi.",
+   "contextUz": "Pufakçalar qayta işlatiladi: membrana bilan qöşiladi, keyin soniyalar–daqiqalarda qayta içkariga botib, yangi pufakça hosil qiladi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3530,7 +3530,7 @@
    "id": "ch46-t-xolinesteraza",
    "termUz": "xolinesteraza",
    "original": null,
-   "contextUz": "Tirqishdagi proteoglikan to’rida joylashgan xolinesteraza uni atsetat va xolinga parchalaydi.",
+   "contextUz": "Tirqişdagi proteoglikan törida joylaşgan xolinesteraza uni atsetat va xolinga parçalaydi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3550,7 +3550,7 @@
    "id": "ch46-t-atsetilxolin",
    "termUz": "Atsetilxolin",
    "original": null,
-   "contextUz": "Mediator Qayerda ajraladi Ta’siri Atsetilxolin motor po’stloq piramidal hujayralari, bazal gangliyalar neyronlari, skelet mushak motoneyronlari, barcha avtonom preganglionar, parasimpatik postganglionar, ba’zi simpatik postganglionar asosan qo’zg’atuvchi; ba’zi parasimpatik uchlarda tormozlovchi (adashgan nerv yurakni tormozlaydi) Noradrenalin miya stvoli va gipotalamus neyronlari;",
+   "contextUz": "Mediator Qayerda ajraladi Ta’siri Atsetilxolin motor pöstloq piramidal hujayralari, bazal gangliyalar neyronlari, skelet muşak motoneyronlari, barça avtonom preganglionar, parasimpatik postganglionar, ba’zi simpatik postganglionar asosan qözğatuvçi; ba’zi parasimpatik uçlarda tormozlovçi (adaşgan nerv yurakni tormozlaydi) Noradrenalin miya stvoli va gipotalamus neyronlari;",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3558,9 +3558,9 @@
   },
   {
    "id": "ch46-t-barcha-avtonom-preganglionar",
-   "termUz": "barcha avtonom preganglionar",
+   "termUz": "barça avtonom preganglionar",
    "original": null,
-   "contextUz": "Mediator Qayerda ajraladi Ta’siri Atsetilxolin motor po’stloq piramidal hujayralari, bazal gangliyalar neyronlari, skelet mushak motoneyronlari, barcha avtonom preganglionar, parasimpatik postganglionar, ba’zi simpatik postganglionar asosan qo’zg’atuvchi; ba’zi parasimpatik uchlarda tormozlovchi (adashgan nerv yurakni tormozlaydi) Noradrenalin miya stvoli va gipotalamus neyronlari;",
+   "contextUz": "Mediator Qayerda ajraladi Ta’siri Atsetilxolin motor pöstloq piramidal hujayralari, bazal gangliyalar neyronlari, skelet muşak motoneyronlari, barça avtonom preganglionar, parasimpatik postganglionar, ba’zi simpatik postganglionar asosan qözğatuvçi; ba’zi parasimpatik uçlarda tormozlovçi (adaşgan nerv yurakni tormozlaydi) Noradrenalin miya stvoli va gipotalamus neyronlari;",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3570,7 +3570,7 @@
    "id": "ch46-t-parasimpatik-postganglionar",
    "termUz": "parasimpatik postganglionar",
    "original": null,
-   "contextUz": "Mediator Qayerda ajraladi Ta’siri Atsetilxolin motor po’stloq piramidal hujayralari, bazal gangliyalar neyronlari, skelet mushak motoneyronlari, barcha avtonom preganglionar, parasimpatik postganglionar, ba’zi simpatik postganglionar asosan qo’zg’atuvchi; ba’zi parasimpatik uchlarda tormozlovchi (adashgan nerv yurakni tormozlaydi) Noradrenalin miya stvoli va gipotalamus neyronlari;",
+   "contextUz": "Mediator Qayerda ajraladi Ta’siri Atsetilxolin motor pöstloq piramidal hujayralari, bazal gangliyalar neyronlari, skelet muşak motoneyronlari, barça avtonom preganglionar, parasimpatik postganglionar, ba’zi simpatik postganglionar asosan qözğatuvçi; ba’zi parasimpatik uçlarda tormozlovçi (adaşgan nerv yurakni tormozlaydi) Noradrenalin miya stvoli va gipotalamus neyronlari;",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3580,7 +3580,7 @@
    "id": "ch46-t-noradrenalin",
    "termUz": "Noradrenalin",
    "original": null,
-   "contextUz": "Mediator Qayerda ajraladi Ta’siri Atsetilxolin motor po’stloq piramidal hujayralari, bazal gangliyalar neyronlari, skelet mushak motoneyronlari, barcha avtonom preganglionar, parasimpatik postganglionar, ba’zi simpatik postganglionar asosan qo’zg’atuvchi; ba’zi parasimpatik uchlarda tormozlovchi (adashgan nerv yurakni tormozlaydi) Noradrenalin miya stvoli va gipotalamus neyronlari;",
+   "contextUz": "Mediator Qayerda ajraladi Ta’siri Atsetilxolin motor pöstloq piramidal hujayralari, bazal gangliyalar neyronlari, skelet muşak motoneyronlari, barça avtonom preganglionar, parasimpatik postganglionar, ba’zi simpatik postganglionar asosan qözğatuvçi; ba’zi parasimpatik uçlarda tormozlovçi (adaşgan nerv yurakni tormozlaydi) Noradrenalin miya stvoli va gipotalamus neyronlari;",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3588,9 +3588,9 @@
   },
   {
    "id": "ch46-t-kok-dog-locus-ceruleus",
-   "termUz": "ko’k dog' (locus ceruleus)",
+   "termUz": "kök doğ (locus ceruleus)",
    "original": null,
-   "contextUz": "Mediator Qayerda ajraladi Ta’siri Atsetilxolin motor po’stloq piramidal hujayralari, bazal gangliyalar neyronlari, skelet mushak motoneyronlari, barcha avtonom preganglionar, parasimpatik postganglionar, ba’zi simpatik postganglionar asosan qo’zg’atuvchi; ba’zi parasimpatik uchlarda tormozlovchi (adashgan nerv yurakni tormozlaydi) Noradrenalin miya stvoli va gipotalamus neyronlari;",
+   "contextUz": "Mediator Qayerda ajraladi Ta’siri Atsetilxolin motor pöstloq piramidal hujayralari, bazal gangliyalar neyronlari, skelet muşak motoneyronlari, barça avtonom preganglionar, parasimpatik postganglionar, ba’zi simpatik postganglionar asosan qözğatuvçi; ba’zi parasimpatik uçlarda tormozlovçi (adaşgan nerv yurakni tormozlaydi) Noradrenalin miya stvoli va gipotalamus neyronlari;",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3600,7 +3600,7 @@
    "id": "ch46-t-dofamin",
    "termUz": "Dofamin",
    "original": null,
-   "contextUz": "Mediator Qayerda ajraladi Ta’siri Atsetilxolin motor po’stloq piramidal hujayralari, bazal gangliyalar neyronlari, skelet mushak motoneyronlari, barcha avtonom preganglionar, parasimpatik postganglionar, ba’zi simpatik postganglionar asosan qo’zg’atuvchi; ba’zi parasimpatik uchlarda tormozlovchi (adashgan nerv yurakni tormozlaydi) Noradrenalin miya stvoli va gipotalamus neyronlari;",
+   "contextUz": "Mediator Qayerda ajraladi Ta’siri Atsetilxolin motor pöstloq piramidal hujayralari, bazal gangliyalar neyronlari, skelet muşak motoneyronlari, barça avtonom preganglionar, parasimpatik postganglionar, ba’zi simpatik postganglionar asosan qözğatuvçi; ba’zi parasimpatik uçlarda tormozlovçi (adaşgan nerv yurakni tormozlaydi) Noradrenalin miya stvoli va gipotalamus neyronlari;",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3610,7 +3610,7 @@
    "id": "ch46-t-qora-modda-substantia-nigra",
    "termUz": "qora modda (substantia nigra)",
    "original": null,
-   "contextUz": "Mediator Qayerda ajraladi Ta’siri Atsetilxolin motor po’stloq piramidal hujayralari, bazal gangliyalar neyronlari, skelet mushak motoneyronlari, barcha avtonom preganglionar, parasimpatik postganglionar, ba’zi simpatik postganglionar asosan qo’zg’atuvchi; ba’zi parasimpatik uchlarda tormozlovchi (adashgan nerv yurakni tormozlaydi) Noradrenalin miya stvoli va gipotalamus neyronlari;",
+   "contextUz": "Mediator Qayerda ajraladi Ta’siri Atsetilxolin motor pöstloq piramidal hujayralari, bazal gangliyalar neyronlari, skelet muşak motoneyronlari, barça avtonom preganglionar, parasimpatik postganglionar, ba’zi simpatik postganglionar asosan qözğatuvçi; ba’zi parasimpatik uçlarda tormozlovçi (adaşgan nerv yurakni tormozlaydi) Noradrenalin miya stvoli va gipotalamus neyronlari;",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3620,7 +3620,7 @@
    "id": "ch46-t-glitsin",
    "termUz": "Glitsin",
    "original": null,
-   "contextUz": "Mediator Qayerda ajraladi Ta’siri Atsetilxolin motor po’stloq piramidal hujayralari, bazal gangliyalar neyronlari, skelet mushak motoneyronlari, barcha avtonom preganglionar, parasimpatik postganglionar, ba’zi simpatik postganglionar asosan qo’zg’atuvchi; ba’zi parasimpatik uchlarda tormozlovchi (adashgan nerv yurakni tormozlaydi) Noradrenalin miya stvoli va gipotalamus neyronlari;",
+   "contextUz": "Mediator Qayerda ajraladi Ta’siri Atsetilxolin motor pöstloq piramidal hujayralari, bazal gangliyalar neyronlari, skelet muşak motoneyronlari, barça avtonom preganglionar, parasimpatik postganglionar, ba’zi simpatik postganglionar asosan qözğatuvçi; ba’zi parasimpatik uçlarda tormozlovçi (adaşgan nerv yurakni tormozlaydi) Noradrenalin miya stvoli va gipotalamus neyronlari;",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3630,7 +3630,7 @@
    "id": "ch46-t-gaba",
    "termUz": "GABA",
    "original": null,
-   "contextUz": "Mediator Qayerda ajraladi Ta’siri Atsetilxolin motor po’stloq piramidal hujayralari, bazal gangliyalar neyronlari, skelet mushak motoneyronlari, barcha avtonom preganglionar, parasimpatik postganglionar, ba’zi simpatik postganglionar asosan qo’zg’atuvchi; ba’zi parasimpatik uchlarda tormozlovchi (adashgan nerv yurakni tormozlaydi) Noradrenalin miya stvoli va gipotalamus neyronlari;",
+   "contextUz": "Mediator Qayerda ajraladi Ta’siri Atsetilxolin motor pöstloq piramidal hujayralari, bazal gangliyalar neyronlari, skelet muşak motoneyronlari, barça avtonom preganglionar, parasimpatik postganglionar, ba’zi simpatik postganglionar asosan qözğatuvçi; ba’zi parasimpatik uçlarda tormozlovçi (adaşgan nerv yurakni tormozlaydi) Noradrenalin miya stvoli va gipotalamus neyronlari;",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3638,9 +3638,9 @@
   },
   {
    "id": "ch46-t-kattalarda-asosiy-tormozlovchi",
-   "termUz": "kattalarda asosiy tormozlovchi",
+   "termUz": "kattalarda asosiy tormozlovçi",
    "original": null,
-   "contextUz": "Mediator Qayerda ajraladi Ta’siri Atsetilxolin motor po’stloq piramidal hujayralari, bazal gangliyalar neyronlari, skelet mushak motoneyronlari, barcha avtonom preganglionar, parasimpatik postganglionar, ba’zi simpatik postganglionar asosan qo’zg’atuvchi; ba’zi parasimpatik uchlarda tormozlovchi (adashgan nerv yurakni tormozlaydi) Noradrenalin miya stvoli va gipotalamus neyronlari;",
+   "contextUz": "Mediator Qayerda ajraladi Ta’siri Atsetilxolin motor pöstloq piramidal hujayralari, bazal gangliyalar neyronlari, skelet muşak motoneyronlari, barça avtonom preganglionar, parasimpatik postganglionar, ba’zi simpatik postganglionar asosan qözğatuvçi; ba’zi parasimpatik uçlarda tormozlovçi (adaşgan nerv yurakni tormozlaydi) Noradrenalin miya stvoli va gipotalamus neyronlari;",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3650,7 +3650,7 @@
    "id": "ch46-t-glutamat",
    "termUz": "Glutamat",
    "original": null,
-   "contextUz": "Mediator Qayerda ajraladi Ta’siri Atsetilxolin motor po’stloq piramidal hujayralari, bazal gangliyalar neyronlari, skelet mushak motoneyronlari, barcha avtonom preganglionar, parasimpatik postganglionar, ba’zi simpatik postganglionar asosan qo’zg’atuvchi; ba’zi parasimpatik uchlarda tormozlovchi (adashgan nerv yurakni tormozlaydi) Noradrenalin miya stvoli va gipotalamus neyronlari;",
+   "contextUz": "Mediator Qayerda ajraladi Ta’siri Atsetilxolin motor pöstloq piramidal hujayralari, bazal gangliyalar neyronlari, skelet muşak motoneyronlari, barça avtonom preganglionar, parasimpatik postganglionar, ba’zi simpatik postganglionar asosan qözğatuvçi; ba’zi parasimpatik uçlarda tormozlovçi (adaşgan nerv yurakni tormozlaydi) Noradrenalin miya stvoli va gipotalamus neyronlari;",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3660,7 +3660,7 @@
    "id": "ch46-t-serotonin",
    "termUz": "Serotonin",
    "original": null,
-   "contextUz": "Mediator Qayerda ajraladi Ta’siri Atsetilxolin motor po’stloq piramidal hujayralari, bazal gangliyalar neyronlari, skelet mushak motoneyronlari, barcha avtonom preganglionar, parasimpatik postganglionar, ba’zi simpatik postganglionar asosan qo’zg’atuvchi; ba’zi parasimpatik uchlarda tormozlovchi (adashgan nerv yurakni tormozlaydi) Noradrenalin miya stvoli va gipotalamus neyronlari;",
+   "contextUz": "Mediator Qayerda ajraladi Ta’siri Atsetilxolin motor pöstloq piramidal hujayralari, bazal gangliyalar neyronlari, skelet muşak motoneyronlari, barça avtonom preganglionar, parasimpatik postganglionar, ba’zi simpatik postganglionar asosan qözğatuvçi; ba’zi parasimpatik uçlarda tormozlovçi (adaşgan nerv yurakni tormozlaydi) Noradrenalin miya stvoli va gipotalamus neyronlari;",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3668,9 +3668,9 @@
   },
   {
    "id": "ch46-t-orta-chok-raphe-yadrolari",
-   "termUz": "o’rta chok (raphe) yadrolari",
+   "termUz": "örta çok (raphe) yadrolari",
    "original": null,
-   "contextUz": "Mediator Qayerda ajraladi Ta’siri Atsetilxolin motor po’stloq piramidal hujayralari, bazal gangliyalar neyronlari, skelet mushak motoneyronlari, barcha avtonom preganglionar, parasimpatik postganglionar, ba’zi simpatik postganglionar asosan qo’zg’atuvchi; ba’zi parasimpatik uchlarda tormozlovchi (adashgan nerv yurakni tormozlaydi) Noradrenalin miya stvoli va gipotalamus neyronlari;",
+   "contextUz": "Mediator Qayerda ajraladi Ta’siri Atsetilxolin motor pöstloq piramidal hujayralari, bazal gangliyalar neyronlari, skelet muşak motoneyronlari, barça avtonom preganglionar, parasimpatik postganglionar, ba’zi simpatik postganglionar asosan qözğatuvçi; ba’zi parasimpatik uçlarda tormozlovçi (adaşgan nerv yurakni tormozlaydi) Noradrenalin miya stvoli va gipotalamus neyronlari;",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3680,7 +3680,7 @@
    "id": "ch46-t-no",
    "termUz": "NO",
    "original": null,
-   "contextUz": "Mediator Qayerda ajraladi Ta’siri Atsetilxolin motor po’stloq piramidal hujayralari, bazal gangliyalar neyronlari, skelet mushak motoneyronlari, barcha avtonom preganglionar, parasimpatik postganglionar, ba’zi simpatik postganglionar asosan qo’zg’atuvchi; ba’zi parasimpatik uchlarda tormozlovchi (adashgan nerv yurakni tormozlaydi) Noradrenalin miya stvoli va gipotalamus neyronlari;",
+   "contextUz": "Mediator Qayerda ajraladi Ta’siri Atsetilxolin motor pöstloq piramidal hujayralari, bazal gangliyalar neyronlari, skelet muşak motoneyronlari, barça avtonom preganglionar, parasimpatik postganglionar, ba’zi simpatik postganglionar asosan qözğatuvçi; ba’zi parasimpatik uçlarda tormozlovçi (adaşgan nerv yurakni tormozlaydi) Noradrenalin miya stvoli va gipotalamus neyronlari;",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3688,9 +3688,9 @@
   },
   {
    "id": "ch46-t-sintez-yoli",
-   "termUz": "Sintez yo’li",
+   "termUz": "Sintez yöli",
    "original": null,
-   "contextUz": "Sintez yo’li:",
+   "contextUz": "Sintez yöli:",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3698,9 +3698,9 @@
   },
   {
    "id": "ch46-t-bolaklarga",
-   "termUz": "bo’laklarga",
+   "termUz": "bölaklarga",
    "original": null,
-   "contextUz": "EPR va Golji ichida bo’laklarga ajratiladi (neyropeptid yoki uning prekursori).",
+   "contextUz": "EPR va Golji içida bölaklarga ajratiladi (neyropeptid yoki uning prekursori).",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3710,7 +3710,7 @@
    "id": "ch46-t-aksonal-oqim",
    "termUz": "aksonal oqim",
    "original": null,
-   "contextUz": "Pufakchalar aksonal oqim bilan kuniga bir necha sm tezlikda terminalga yetkaziladi.",
+   "contextUz": "Pufakçalar aksonal oqim bilan kuniga bir neça sm tezlikda terminalga yetkaziladi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3718,9 +3718,9 @@
   },
   {
    "id": "ch46-t-autolizga-uchraydi-va-qayta-ishlatilmaydi",
-   "termUz": "autolizga uchraydi va qayta ishlatilmaydi",
+   "termUz": "autolizga uçraydi va qayta işlatilmaydi",
    "original": null,
-   "contextUz": "Harakat potensialida ajraladi; pufakcha autolizga uchraydi va qayta ishlatilmaydi.",
+   "contextUz": "Harakat potensialida ajraladi; pufakça autolizga uçraydi va qayta işlatilmaydi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3738,9 +3738,9 @@
   },
   {
    "id": "ch46-t-1000-va-undan-kop-marta-kuchliroq",
-   "termUz": "1000 va undan ko’p marta kuchliroq",
+   "termUz": "1000 va undan köp marta kuçliroq",
    "original": null,
-   "contextUz": "Miqdori ancha kam, lekin 1000 va undan ko’p marta kuchliroq.",
+   "contextUz": "Miqdori ança kam, lekin 1000 va undan köp marta kuçliroq.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3750,7 +3750,7 @@
    "id": "ch46-t-uzoq",
    "termUz": "uzoq",
    "original": null,
-   "contextUz": "Ta’siri uzoq: Ca²⁺ kanallarining uzoq yopilishi, metabolizm va gen faolligi o’zgarishi, retseptorlar sonining o’zgarishi.",
+   "contextUz": "Ta’siri uzoq: Ca²⁺ kanallarining uzoq yopilişi, metabolizm va gen faolligi özgarişi, retseptorlar sonining özgarişi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3758,9 +3758,9 @@
   },
   {
    "id": "ch46-t-birga-ajralish-rasm-46-8",
-   "termUz": "Birga ajralish (rasm 46-8)",
+   "termUz": "Birga ajraliş (rasm 46-8)",
    "original": null,
-   "contextUz": "Birga ajralish (rasm 46-8):",
+   "contextUz": "Birga ajraliş (rasm 46-8):",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3770,7 +3770,7 @@
    "id": "ch46-t-co-release",
    "termUz": "Co-release",
    "original": null,
-   "contextUz": "Co-release: bir pufakchada ikki mediator birga.",
+   "contextUz": "Co-release: bir pufakçada ikki mediator birga.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3780,7 +3780,7 @@
    "id": "ch46-t-co-transmission",
    "termUz": "Co-transmission",
    "original": null,
-   "contextUz": "Co-transmission: turli pufakcha populyatsiyalarida.",
+   "contextUz": "Co-transmission: turli pufakça populyatsiyalarida.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3790,7 +3790,7 @@
    "id": "ch46-t-misol",
    "termUz": "Misol",
    "original": null,
-   "contextUz": "Misol: raphe yadrosi serotonin va glutamatni birga chiqaradi; uyqu-bedorlik siklida muhim (59–60-boblar).",
+   "contextUz": "Misol: raphe yadrosi serotonin va glutamatni birga çiqaradi; uyqu-bedorlik siklida muhim (59–60-boblar).",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3800,7 +3800,7 @@
    "id": "ch46-t-serotonin-va-glutamat",
    "termUz": "serotonin va glutamat",
    "original": null,
-   "contextUz": "Misol: raphe yadrosi serotonin va glutamatni birga chiqaradi; uyqu-bedorlik siklida muhim (59–60-boblar).",
+   "contextUz": "Misol: raphe yadrosi serotonin va glutamatni birga çiqaradi; uyqu-bedorlik siklida muhim (59–60-boblar).",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3820,7 +3820,7 @@
    "id": "ch46-t-61-mv",
    "termUz": "+61 mV",
    "original": null,
-   "contextUz": "Ion Tashqarida (mEq/l) Ichkarida (mEq/l) Nernst potensiali Na⁺ 142 14 +61 mV K⁺ 4,5 120 −86 mV Cl⁻ 107 8 −70 mV",
+   "contextUz": "Ion Taşqarida (mEq/l) Içkarida (mEq/l) Nernst potensiali Na⁺ 142 14 +61 mV K⁺ 4,5 120 −86 mV Cl⁻ 107 8 −70 mV",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3830,7 +3830,7 @@
    "id": "ch46-t-86-mv",
    "termUz": "−86 mV",
    "original": null,
-   "contextUz": "Ion Tashqarida (mEq/l) Ichkarida (mEq/l) Nernst potensiali Na⁺ 142 14 +61 mV K⁺ 4,5 120 −86 mV Cl⁻ 107 8 −70 mV",
+   "contextUz": "Ion Taşqarida (mEq/l) Içkarida (mEq/l) Nernst potensiali Na⁺ 142 14 +61 mV K⁺ 4,5 120 −86 mV Cl⁻ 107 8 −70 mV",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3840,7 +3840,7 @@
    "id": "ch46-t-70-mv",
    "termUz": "−70 mV",
    "original": null,
-   "contextUz": "Ion Tashqarida (mEq/l) Ichkarida (mEq/l) Nernst potensiali Na⁺ 142 14 +61 mV K⁺ 4,5 120 −86 mV Cl⁻ 107 8 −70 mV",
+   "contextUz": "Ion Taşqarida (mEq/l) Içkarida (mEq/l) Nernst potensiali Na⁺ 142 14 +61 mV K⁺ 4,5 120 −86 mV Cl⁻ 107 8 −70 mV",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3850,7 +3850,7 @@
    "id": "ch46-t-nernst-tenglamasi",
    "termUz": "Nernst tenglamasi",
    "original": null,
-   "contextUz": "Nernst tenglamasi: EMF (mV) = ±61 × log(ichkari/tashqari).",
+   "contextUz": "Nernst tenglamasi: EMF (mV) = ±61 × log(içkari/taşqari).",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3858,9 +3858,9 @@
   },
   {
    "id": "ch46-t-soma-ichida-potensial-bir-xil-tarqaladi",
-   "termUz": "Soma ichida potensial bir xil tarqaladi",
+   "termUz": "Soma içida potensial bir xil tarqaladi",
    "original": null,
-   "contextUz": "Soma ichida potensial bir xil tarqaladi: soma diametri 10–80 µm, ichki suyuqlik yaxshi o’tkazadi.",
+   "contextUz": "Soma içida potensial bir xil tarqaladi: soma diametri 10–80 µm, içki suyuqlik yaxşi ötkazadi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3868,9 +3868,9 @@
   },
   {
    "id": "ch46-t-jamlanish",
-   "termUz": "jamlanish",
+   "termUz": "jamlaniş",
    "original": null,
-   "contextUz": "Bu jamlanish uchun asos.",
+   "contextUz": "Bu jamlaniş uçun asos.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3880,7 +3880,7 @@
    "id": "ch46-t-45-mv",
    "termUz": "−45 mV",
    "original": null,
-   "contextUz": "Mediator Na⁺ o’tkazuvchanligini oshiradi, Na⁺ kiradi va potensial −65 dan −45 mV ga ko’tariladi: EPSP = +20 mV.",
+   "contextUz": "Mediator Na⁺ ötkazuvçanligini oşiradi, Na⁺ kiradi va potensial −65 dan −45 mV ga kötariladi: EPSP = +20 mV.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3890,7 +3890,7 @@
    "id": "ch46-t-20-mv",
    "termUz": "+20 mV",
    "original": null,
-   "contextUz": "Mediator Na⁺ o’tkazuvchanligini oshiradi, Na⁺ kiradi va potensial −65 dan −45 mV ga ko’tariladi: EPSP = +20 mV.",
+   "contextUz": "Mediator Na⁺ ötkazuvçanligini oşiradi, Na⁺ kiradi va potensial −65 dan −45 mV ga kötariladi: EPSP = +20 mV.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3900,7 +3900,7 @@
    "id": "ch46-t-40-80-ta",
    "termUz": "40–80 ta",
    "original": null,
-   "contextUz": "Odatdagi motoneyronda 40–80 ta terminalning bir vaqtda yoki ketma-ket ishlashi kerak.",
+   "contextUz": "Odatdagi motoneyronda 40–80 ta terminalning bir vaqtda yoki ketma-ket işlaşi kerak.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3908,9 +3908,9 @@
   },
   {
    "id": "ch46-t-boshlangich-segmentda",
-   "termUz": "Boshlang’ich segmentda",
+   "termUz": "Boşlanğiç segmentda",
    "original": null,
-   "contextUz": "Boshlang’ich segmentda ular 7 marta ko’p.",
+   "contextUz": "Boşlanğiç segmentda ular 7 marta köp.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3920,7 +3920,7 @@
    "id": "ch46-t-7-marta",
    "termUz": "7 marta",
    "original": null,
-   "contextUz": "Boshlang’ich segmentda ular 7 marta ko’p.",
+   "contextUz": "Boşlanğiç segmentda ular 7 marta köp.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3930,7 +3930,7 @@
    "id": "ch46-t-10-20-mv",
    "termUz": "+10–20 mV",
    "original": null,
-   "contextUz": "Bo’sag’a: boshlang’ich segmentda EPSP +10–20 mV, somada +30–40 mV yoki undan ko’p.",
+   "contextUz": "Bösağa: boşlanğiç segmentda EPSP +10–20 mV, somada +30–40 mV yoki undan köp.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3940,7 +3940,7 @@
    "id": "ch46-t-30-40-mv",
    "termUz": "+30–40 mV",
    "original": null,
-   "contextUz": "Bo’sag’a: boshlang’ich segmentda EPSP +10–20 mV, somada +30–40 mV yoki undan ko’p.",
+   "contextUz": "Bösağa: boşlanğiç segmentda EPSP +10–20 mV, somada +30–40 mV yoki undan köp.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3950,7 +3950,7 @@
    "id": "ch46-t-cl-kanallari",
    "termUz": "Cl⁻ kanallari",
    "original": null,
-   "contextUz": "Asosan Cl⁻ kanallari ochiladi.",
+   "contextUz": "Asosan Cl⁻ kanallari oçiladi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3958,9 +3958,9 @@
   },
   {
    "id": "ch46-t-k-chiqishi",
-   "termUz": "K⁺ chiqishi",
+   "termUz": "K⁺ çiqişi",
    "original": null,
-   "contextUz": "K⁺ chiqishi ham manfiylikni oshiradi.",
+   "contextUz": "K⁺ çiqişi ham manfiylikni oşiradi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -3988,9 +3988,9 @@
   },
   {
    "id": "ch46-t-sezgi-yollarida",
-   "termUz": "sezgi yo’llarida",
+   "termUz": "sezgi yöllarida",
    "original": null,
-   "contextUz": "Ko’p sezgi yo’llarida uchraydi: qo’shni tolalar bir-birini tormozlab, signallarning yon tomonga tarqalishi va aralashishini kamaytiradi.",
+   "contextUz": "Köp sezgi yöllarida uçraydi: qöşni tolalar bir-birini tormozlab, signallarning yon tomonga tarqalişi va aralaşişini kamaytiradi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4000,7 +4000,7 @@
    "id": "ch46-t-1-2-ms",
    "termUz": "1–2 ms",
    "original": null,
-   "contextUz": "Na⁺ o’tkazuvchanligi 1–2 ms ortadi, EPSP ~15 ms davomida so’nadi (ortiqcha musbat zaryad sizib chiqishi vaqti).",
+   "contextUz": "Na⁺ ötkazuvçanligi 1–2 ms ortadi, EPSP ~15 ms davomida sönadi (ortiqça musbat zaryad sizib çiqişi vaqti).",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4010,7 +4010,7 @@
    "id": "ch46-t-15-ms",
    "termUz": "~15 ms",
    "original": null,
-   "contextUz": "Na⁺ o’tkazuvchanligi 1–2 ms ortadi, EPSP ~15 ms davomida so’nadi (ortiqcha musbat zaryad sizib chiqishi vaqti).",
+   "contextUz": "Na⁺ ötkazuvçanligi 1–2 ms ortadi, EPSP ~15 ms davomida sönadi (ortiqça musbat zaryad sizib çiqişi vaqti).",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4018,9 +4018,9 @@
   },
   {
    "id": "ch46-t-fazoviy-jamlanish",
-   "termUz": "Fazoviy jamlanish",
+   "termUz": "Fazoviy jamlaniş",
    "original": null,
-   "contextUz": "Fazoviy jamlanish: bitta terminal 0,5–1 mV EPSP beradi, bo’sag’a uchun 10–20 mV kerak.",
+   "contextUz": "Fazoviy jamlaniş: bitta terminal 0,5–1 mV EPSP beradi, bösağa uçun 10–20 mV kerak.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4030,7 +4030,7 @@
    "id": "ch46-t-0-5-1-mv",
    "termUz": "0,5–1 mV",
    "original": null,
-   "contextUz": "Fazoviy jamlanish: bitta terminal 0,5–1 mV EPSP beradi, bo’sag’a uchun 10–20 mV kerak.",
+   "contextUz": "Fazoviy jamlaniş: bitta terminal 0,5–1 mV EPSP beradi, bösağa uçun 10–20 mV kerak.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4038,9 +4038,9 @@
   },
   {
    "id": "ch46-t-vaqt-boyicha-jamlanish",
-   "termUz": "Vaqt bo’yicha jamlanish",
+   "termUz": "Vaqt böyiça jamlaniş",
    "original": null,
-   "contextUz": "Vaqt bo’yicha jamlanish: kanal ≤1–2 ms ochiq, potensial esa 15 ms gacha turadi.",
+   "contextUz": "Vaqt böyiça jamlaniş: kanal ≤1–2 ms oçiq, potensial esa 15 ms gaça turadi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4050,7 +4050,7 @@
    "id": "ch46-t-epsp-va-ipsp-birgalikda-jamlanadi",
    "termUz": "EPSP va IPSP birgalikda jamlanadi",
    "original": null,
-   "contextUz": "EPSP va IPSP birgalikda jamlanadi: tormozlovchi signal qo’zg’alishni bo’sag’adan pastga tushirib, neyronni \"o’chirishi\" mumkin.",
+   "contextUz": "EPSP va IPSP birgalikda jamlanadi: tormozlovçi signal qözğalişni bösağadan pastga tuşirib, neyronni “öçirişi” mumkin.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4060,7 +4060,7 @@
    "id": "ch46-t-keng-fazoviy-maydon",
    "termUz": "Keng fazoviy maydon",
    "original": null,
-   "contextUz": "Keng fazoviy maydon: motoneyron dendritlari har tomonga 500–1000 µm cho’ziladi va ko’p tolalardan signal qabul qiladi.",
+   "contextUz": "Keng fazoviy maydon: motoneyron dendritlari har tomonga 500–1000 µm çöziladi va köp tolalardan signal qabul qiladi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4070,7 +4070,7 @@
    "id": "ch46-t-500-1000-m",
    "termUz": "500–1000 µm",
    "original": null,
-   "contextUz": "Keng fazoviy maydon: motoneyron dendritlari har tomonga 500–1000 µm cho’ziladi va ko’p tolalardan signal qabul qiladi.",
+   "contextUz": "Keng fazoviy maydon: motoneyron dendritlari har tomonga 500–1000 µm çöziladi va köp tolalardan signal qabul qiladi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4078,9 +4078,9 @@
   },
   {
    "id": "ch46-t-kopchilik-dendrit-ap-otkaza-olmaydi",
-   "termUz": "Ko’pchilik dendrit AP o’tkaza olmaydi",
+   "termUz": "Köpçilik dendrit AP ötkaza olmaydi",
    "original": null,
-   "contextUz": "Ko’pchilik dendrit AP o’tkaza olmaydi: Na⁺ kanallari kam, bo’sag’a juda yuqori.",
+   "contextUz": "Köpçilik dendrit AP ötkaza olmaydi: Na⁺ kanallari kam, bösağa juda yuqori.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4088,9 +4088,9 @@
   },
   {
    "id": "ch46-t-elektrotonik-otkazish",
-   "termUz": "elektrotonik o’tkazish",
+   "termUz": "elektrotonik ötkaziş",
    "original": null,
-   "contextUz": "Ular elektrotonik o’tkazish qiladi, ya’ni AP hosil qilmasdan ion oqimi bilan to’g’ridan-to’g’ri tok tarqatadi.",
+   "contextUz": "Ular elektrotonik ötkaziş qiladi, ya’ni AP hosil qilmasdan ion oqimi bilan töğridan-töğri tok tarqatadi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4098,9 +4098,9 @@
   },
   {
    "id": "ch46-t-dekrementli-otkazish",
-   "termUz": "Dekrementli o’tkazish",
+   "termUz": "Dekrementli ötkaziş",
    "original": null,
-   "contextUz": "Dekrementli o’tkazish: Dendritlar uzun, membranasi yupqa va K⁺ hamda Cl⁻ ga qisman o’tkazuvchan (\"sizuvchi\").",
+   "contextUz": "Dekrementli ötkaziş: Dendritlar uzun, membranasi yupqa va K⁺ hamda Cl⁻ ga qisman ötkazuvçan (“sizuvçi”).",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4110,7 +4110,7 @@
    "id": "ch46-t-somaga-yaqin-sinapslar",
    "termUz": "somaga yaqin sinapslar",
    "original": null,
-   "contextUz": "Shuning uchun somaga yaqin sinapslar uzoqdagilardan ancha kuchli ta’sir qiladi.",
+   "contextUz": "Şuning uçun somaga yaqin sinapslar uzoqdagilardan ança kuçli ta’sir qiladi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4118,9 +4118,9 @@
   },
   {
    "id": "ch46-t-dendritda-jamlanish",
-   "termUz": "Dendritda jamlanish",
+   "termUz": "Dendritda jamlaniş",
    "original": null,
-   "contextUz": "Dendritda jamlanish: distal qo’zg’alishni somaga yaqin tormozlovchi sinapslar butunlay yo’qqa chiqarishi mumkin.",
+   "contextUz": "Dendritda jamlaniş: distal qözğalişni somaga yaqin tormozlovçi sinapslar butunlay yöqqa çiqarişi mumkin.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4128,9 +4128,9 @@
   },
   {
    "id": "ch46-t-akson-tepachasi-va-boshlangich-segmentdagi-tormozlovchi-sina",
-   "termUz": "Akson tepachasi va boshlang’ich segmentdagi tormozlovchi sinapslar",
+   "termUz": "Akson tepaçasi va boşlanğiç segmentdagi tormozlovçi sinapslar",
    "original": null,
-   "contextUz": "Akson tepachasi va boshlang’ich segmentdagi tormozlovchi sinapslar eng kuchli: AP hosil bo’ladigan nuqtaning o’zida bo’sag’ani oshiradi.",
+   "contextUz": "Akson tepaçasi va boşlanğiç segmentdagi tormozlovçi sinapslar eng kuçli: AP hosil böladigan nuqtaning özida bösağani oşiradi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4138,9 +4138,9 @@
   },
   {
    "id": "ch46-t-qozgalish-holati",
-   "termUz": "Qo’zg’alish holati",
+   "termUz": "Qözğaliş holati",
    "original": null,
-   "contextUz": "Qo’zg’alish holati neyronga ta’sir qiluvchi qo’zg’atuvchi va tormozlovchi kirishlarning jamlangan darajasi.",
+   "contextUz": "Qözğaliş holati neyronga ta’sir qiluvçi qözğatuvçi va tormozlovçi kirişlarning jamlangan darajasi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4150,7 +4150,7 @@
    "id": "ch46-t-rasm-46-13",
    "termUz": "Rasm 46-13",
    "original": null,
-   "contextUz": "Rasm 46-13: neyronlarning bo’sag’asi va maksimal chastotasi turlicha (1-neyron past bo’sag’ali, 3-neyron yuqori bo’sag’ali, lekin eng yuqori maksimal chastotali, 2-neyron eng past maksimal chastotali).",
+   "contextUz": "Rasm 46-13: neyronlarning bösağasi va maksimal çastotasi turliça (1-neyron past bösağali, 3-neyron yuqori bösağali, lekin eng yuqori maksimal çastotali, 2-neyron eng past maksimal çastotali).",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4160,7 +4160,7 @@
    "id": "ch46-t-himoya-mexanizmi",
    "termUz": "Himoya mexanizmi",
    "original": null,
-   "contextUz": "Himoya mexanizmi: ortiqcha qo’zg’alishni so’ndiradi.",
+   "contextUz": "Himoya mexanizmi: ortiqça qözğalişni söndiradi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4170,7 +4170,7 @@
    "id": "ch46-t-epileptik-tutqanoq",
    "termUz": "epileptik tutqanoq",
    "original": null,
-   "contextUz": "Masalan, epileptik tutqanoq asosan shu bilan to’xtaydi (47-bob).",
+   "contextUz": "Masalan, epileptik tutqanoq asosan şu bilan töxtaydi (47-bob).",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4180,7 +4180,7 @@
    "id": "ch46-t-sabablari",
    "termUz": "Sabablari",
    "original": null,
-   "contextUz": "Sabablari: Asosan presinaptik terminaldagi mediator zaxirasining tugashi.",
+   "contextUz": "Sabablari: Asosan presinaptik terminaldagi mediator zaxirasining tugaşi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4190,7 +4190,7 @@
    "id": "ch46-t-alkaloz",
    "termUz": "Alkaloz",
    "original": null,
-   "contextUz": "Alkaloz qo’zg’aluvchanlikni keskin oshiradi.",
+   "contextUz": "Alkaloz qözğaluvçanlikni keskin oşiradi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4200,7 +4200,7 @@
    "id": "ch46-t-giperventilyatsiya",
    "termUz": "giperventilyatsiya",
    "original": "CO₂ chiqib, pH oshadi",
-   "contextUz": "Moyil odamda qisqa giperventilyatsiya (CO₂ chiqib, pH oshadi) xurujni qo’zg’atishi mumkin.",
+   "contextUz": "Moyil odamda qisqa giperventilyatsiya (CO₂ çiqib, pH oşadi) xurujni qözğatişi mumkin.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4230,7 +4230,7 @@
    "id": "ch46-t-diabetik-yoki-uremik-atsidozda",
    "termUz": "diabetik yoki uremik atsidozda",
    "original": null,
-   "contextUz": "Og’ir diabetik yoki uremik atsidozda deyarli doim koma.",
+   "contextUz": "Oğir diabetik yoki uremik atsidozda deyarli doim koma.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4240,7 +4240,7 @@
    "id": "ch46-t-3-7-s",
    "termUz": "3–7 s",
    "original": null,
-   "contextUz": "Miya qon oqimi to’xtaganda 3–7 s ichida hush yo’qoladi.",
+   "contextUz": "Miya qon oqimi töxtaganda 3–7 s içida huş yöqoladi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4250,7 +4250,7 @@
    "id": "ch46-t-kofein-teofillin-teobromin",
    "termUz": "Kofein, teofillin, teobromin",
    "original": "qahva, choy, kakao",
-   "contextUz": "Kofein, teofillin, teobromin (qahva, choy, kakao): bo’sag’ani pasaytirib qo’zg’aluvchanlikni oshiradi.",
+   "contextUz": "Kofein, teofillin, teobromin (qahva, çoy, kakao): bösağani pasaytirib qözğaluvçanlikni oşiradi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4260,7 +4260,7 @@
    "id": "ch46-t-strixnin",
    "termUz": "Strixnin",
    "original": null,
-   "contextUz": "Strixnin: bo’sag’ani pasaytirmaydi.",
+   "contextUz": "Strixnin: bösağani pasaytirmaydi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4268,9 +4268,9 @@
   },
   {
    "id": "ch46-t-tonik-mushak-spazmlari",
-   "termUz": "tonik mushak spazmlari",
+   "termUz": "tonik muşak spazmlari",
    "original": null,
-   "contextUz": "Qo’zg’atuvchi ta’sir ustun keladi, tez takroriy razryadlar va kuchli tonik mushak spazmlari paydo bo’ladi.",
+   "contextUz": "Qözğatuvçi ta’sir ustun keladi, tez takroriy razryadlar va kuçli tonik muşak spazmlari paydo böladi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4278,9 +4278,9 @@
   },
   {
    "id": "ch46-t-kopchilik-anestetiklar",
-   "termUz": "Ko’pchilik anestetiklar",
+   "termUz": "Köpçilik anestetiklar",
    "original": null,
-   "contextUz": "Ko’pchilik anestetiklar: membrana bo’sag’asini oshirib, ko’p nuqtalarda sinaptik uzatishni kamaytiradi.",
+   "contextUz": "Köpçilik anestetiklar: membrana bösağasini oşirib, köp nuqtalarda sinaptik uzatişni kamaytiradi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4290,7 +4290,7 @@
    "id": "ch46-t-tarkibiy-qismlari",
    "termUz": "Tarkibiy qismlari",
    "original": null,
-   "contextUz": "Tarkibiy qismlari: mediator ajralishi, diffuziya, retseptorga ta’sir, o’tkazuvchanlik ortishi, Na⁺ kirib EPSP ning bo’sag’aga yetishi.",
+   "contextUz": "Tarkibiy qismlari: mediator ajralişi, diffuziya, retseptorga ta’sir, ötkazuvçanlik ortişi, Na⁺ kirib EPSP ning bösağaga yetişi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4300,7 +4300,7 @@
    "id": "ch46-t-0-5-ms",
    "termUz": "~0,5 ms",
    "original": null,
-   "contextUz": "Ko’p sinaps bir vaqtda qo’zg’alganda ham minimal ~0,5 ms.",
+   "contextUz": "Köp sinaps bir vaqtda qözğalganda ham minimal ~0,5 ms.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4310,7 +4310,7 @@
    "id": "ch46-t-giperventilyatsiya-va-alkaloz",
    "termUz": "Giperventilyatsiya va alkaloz",
    "original": null,
-   "contextUz": "Giperventilyatsiya va alkaloz epilepsiyani qo’zg’atadi.",
+   "contextUz": "Giperventilyatsiya va alkaloz epilepsiyani qözğatadi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4318,9 +4318,9 @@
   },
   {
    "id": "ch46-t-ogir-atsidoz",
-   "termUz": "Og’ir atsidoz",
+   "termUz": "Oğir atsidoz",
    "original": "diabetik ketoatsidoz, uremiya",
-   "contextUz": "Og’ir atsidoz (diabetik ketoatsidoz, uremiya) koma chaqiradi.",
+   "contextUz": "Oğir atsidoz (diabetik ketoatsidoz, uremiya) koma çaqiradi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4328,9 +4328,9 @@
   },
   {
    "id": "ch46-t-strixnin-zaharlanishi",
-   "termUz": "Strixnin zaharlanishi",
+   "termUz": "Strixnin zaharlanişi",
    "original": null,
-   "contextUz": "Strixnin zaharlanishi: glitsin blokadasi, tonik tutqanoqlar.",
+   "contextUz": "Strixnin zaharlanişi: glitsin blokadasi, tonik tutqanoqlar.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4340,7 +4340,7 @@
    "id": "ch46-t-kofein",
    "termUz": "Kofein",
    "original": null,
-   "contextUz": "Kofein neyron qo’zg’aluvchanligini oshiradi.",
+   "contextUz": "Kofein neyron qözğaluvçanligini oşiradi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",
@@ -4350,7 +4350,7 @@
    "id": "ch46-t-anestetiklar",
    "termUz": "Anestetiklar",
    "original": null,
-   "contextUz": "Anestetiklar bo’sag’ani oshiradi.",
+   "contextUz": "Anestetiklar bösağani oşiradi.",
    "lessonId": "ch46",
    "topicId": "09",
    "source": "summaryUz",

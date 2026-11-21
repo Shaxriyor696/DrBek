@@ -1,0 +1,446 @@
+# Guyton & Hall, 14-nashr, 12-bob — to‘liq o‘zbekcha tarjima.
+# Format: har bir blok "@@ <bid>" qatoridan boshlanadi; "LEAD: ..." ixtiyoriy qator — xatboshi boshidagi qalin sarlavha.
+# Tarjimon: Claude (DrStudy sessiyasi), 2026-11-17. Holat: ekspert tekshiruvi kerak.
+
+@@ ch12-f0
+10-bobda impulsning yurak böylab ötkazilişi haqidagi muhokamadan ma’lumki, bu ötkaziliş tartibidagi har qanday özgariş yurak atrofida ğayritabiiy elektr potensiallarini yuzaga keltirişi va natijada elektrokardiogrammadagi (EKG) tişçalar şaklini özgartirişi mumkin. Şu sababli yurak muskulining köpçilik jiddiy patologiyalarini turli elektrokardiografik ulanişlardagi tişçalar şaklini tahlil qiliş orqali taşxislaş mumkin.
+
+@@ ch12-f1
+Elektrokardiogrammalarning vektor tahlili
+
+@@ ch12-f2
+Vektorlar elektr potensiallarini ifodalaşi mumkin
+
+@@ ch12-f3
+Yurak patologiyalari EKG şakliga qanday ta’sir qilişini tuşuniş uçun avvalo yurak içidagi va atrofidagi elektr potensiallariga nisbatan qöllaniladigan _vektorlar_ va _vektor tahlili_ tuşunçasi bilan tanişib çiqiş kerak. 11-bobda biz yurak sikli davomida har bir muayyan lahzada yurakdagi tok ma’lum bir yönalişda oqişini ta’kidlagan edik. Vektor — tok oqimi hosil qiladigan elektr potensiali yönalişini körsatuvçi strelka bölib, _uning uçi musbat yönalişga qaragan böladi._ Şuningdek, şartli ravişda strelkaning uzunligi _potensial kuçlanişiga proporsional_ qilib çiziladi.
+
+@@ ch12-f4
+LEAD: Har qanday muayyan lahzada yurakdagi natijaviy vektor.
+**Rasm 12-1** dagi ştrixlangan soha va minus belgilari qorinçalararo tösiqning hamda ikkala qorinça çöqqi sohasidagi endokardial devorlar qismlarining depolyarizatsiyasini körsatadi. Yurak qözğalişi lahzasida elektr toki, uzun ellipssimon strelkalar bilan körsatilganidek, yurak içidagi depolyarizatsiyalangan sohalar bilan yurak taşqarisidagi depolyarizatsiyalanmagan sohalar örtasida oqadi. Tokning bir qismi yurak böşliqlari içida ham depolyarizatsiyalangan sohalardan hali polyarizatsiyalangan holatdagi sohalarga bevosita oqadi. Umuman olganda, tokning ança köp qismi yuqoriga emas, balki qorinçalar asosidan çöqqi tomon pastga oqadi. Şu sababli aynan şu lahzada hosil bölgan potensialning _oniy örtaça vektor_ deb ataladigan yiğindi vektori qorinçalar markazi orqali asosdan çöqqi tomon yönalişda çizilgan uzun _qora strelka_ bilan ifodalanadi. Bundan taşqari, yiğindi tok ança katta bölgani uçun potensial ham katta, vektor esa uzun böladi.
+
+@@ ch12-f6
+Vektor yönalişi gradusda ifodalanadi
+
+@@ ch12-f7
+**Rasm 12-2** da körsatilganidek, vektor aynan gorizontal bölib, odamning çap tomoniga yönalgan bölsa, vektor 0 gradus yönalişida yönalgan deyiladi. Şu nol hisob nuqtasidan boşlab vektorlar şkalasi soat mili yönalişida aylanadi: vektor yuqoridan töğri pastga yönalganda uning yönalişi +90 gradus, odamning çap tomonidan öng tomoniga yönalganda +180 gradus, töğri yuqoriga yönalganda esa −90 (yoki +270) gradus böladi.
+
+@@ ch12-f9
+Me’yoriy yurakda depolyarizatsiya tölqini qorinçalar böylab tarqalayotgan paytdagi vektorning örtaça yönalişi — _örtaça QRS vektori_ deb ataladi — taxminan +59 gradusni taşkil etadi; bu **Rasm 12-2** ning markazi orqali +59 gradus yönalişida çizilgan _A_ vektori bilan körsatilgan. Bu şuni anglatadiki, bobning keyingi qismida muhokama qilinganidek, depolyarizatsiya tölqinining köp qismi davomida yurak çöqqisi yurak asosiga nisbatan musbat bölib qoladi.
+
+@@ ch12-f10
+Har bir standart bipolyar ulaniş va har bir unipolyar oyoq-qöl ulanişining öqi
+
+@@ ch12-f11
+11-bobda uçta standart bipolyar va uçta unipolyar oyoq-qöl ulanişlari tavsiflangan. Har bir ulaniş aslida tanaga yurakning qarama-qarşi tomonlarida ulangan bir juft elektroddan iborat; manfiy elektroddan musbat elektrodga tomon yönaliş ulanişning _öqi_ deb ataladi. I ulaniş ikki qölga mos ravişda qöyilgan ikkita elektroddan yozib olinadi. Elektrodlar aynan gorizontal yönalişda joylaşgani va musbat elektrod çap tomonda bölgani uçun I ulanişning öqi 0 gradusga teng.
+
+@@ ch12-f12
+II ulanişni yozib olişda elektrodlar öng qöl va çap oyoqqa qöyiladi. Öng qöl tanaga yuqori öng burçakda, çap oyoq esa pastki çap burçakda tutaşadi. Şu sababli bu ulanişning yönalişi taxminan +60 gradus.
+
+@@ ch12-f13
+Xuddi şunday tahlil asosida III ulanişning öqi taxminan +120 gradus, aVR ulanişniki +210 gradus, aVF ulanişniki +90 gradus, aVL ulanişniki esa −30 gradus ekanligini köriş mumkin. Bu barça ulanişlar öqlarining yönalişlari **Rasm 12-3** da körsatilgan; u _olti öqli (geksagonal) koordinata tizimi_ deb ataladi. Elektrodlarning qutbliligi rasmda plyus va minus belgilari bilan körsatilgan. _Bobning qolgan qismini tuşuniş uçun öquvçi bu öqlarni va ularning qutbliligini, ayniqsa I, II va III bipolyar oyoq-qöl ulanişlari uçun, yaxşi özlaştirib olişi kerak._
+
+@@ ch12-f15
+Turli ulanişlarda yozib olingan potensiallarning vektor tahlili
+
+@@ ch12-f16
+**Rasm 12-4** da qisman depolyarizatsiyalangan yurak körsatilgan; _A_ vektori qorinçalardagi tok oqimining oniy örtaça yönalişini ifodalaydi. Bu holda vektor yönalişi +55 gradus, _A_ vektorining uzunligi bilan ifodalangan potensial kuçlanişi esa 2 millivolt. Yurak tasviri ostidagi diagrammada _A_ vektori yana körsatilgan va 0 gradus yönalişidagi I ulaniş öqini ifodalovçi çiziq çizilgan. _A_ vektoridagi kuçlanişning qança qismi I ulanişda yozib olinişini aniqlaş uçun _A_ vektorining uçidan I ulaniş öqiga perpendikulyar çiziq tuşiriladi va I ulaniş öqi böylab _proyeksiyalangan vektor (B)_ deb ataladigan vektor çiziladi. Bu proyeksiyalangan vektorning strelkasi I ulaniş öqining musbat uçiga qaragan; bu esa I ulaniş EKG sida ayni lahzada yozilayotgan yozuv musbat ekanligini anglatadi. Oniy yozib olingan kuçlaniş _B_ uzunligining _A_ uzunligiga nisbatini 2 millivoltga köpaytirilganiga, ya’ni taxminan 1 millivoltga teng böladi.
+
+@@ ch12-f18
+**Rasm 12-5** da vektor tahlilining yana bir misoli körsatilgan. Bu misolda _A_ vektori yurakning çap tomoni öng tomonidan tezroq depolyarizatsiyalanadigan yurakda qorinçalar depolyarizatsiyasi davomidagi muayyan lahzadagi elektr potensiali va uning öqini ifodalaydi. Bu holda oniy vektor yönalişi 100 gradus, uning kuçlanişi esa yana 2 millivolt. I ulanişda haqiqatda yozib olinadigan potensialni aniqlaş uçun _A_ vektorining uçidan I ulaniş öqiga perpendikulyar çiziq tuşiramiz va proyeksiyalangan _B_ vektorini topamiz. _B_ vektori juda qisqa va bu safar manfiy yönalişda; bu aynan şu lahzada I ulanişdagi yozuv manfiy (EKG da nol çiziğidan pastda) bölişini va yozib olingan kuçlaniş kiçik — taxminan −0,3 millivolt — bölişini körsatadi. Bu rasm şuni namoyiş etadiki, _yurakdagi vektor ulaniş öqiga deyarli perpendikulyar yönalgan bölsa, şu ulaniş EKG sida yozib olinadigan kuçlaniş juda past böladi._ Aksinça,
+
+@@ ch12-f20
+_yurak vektori ulaniş öqi bilan deyarli aynan bir xil öqqa ega bölsa, vektorning deyarli butun kuçlanişi yozib olinadi._
+
+@@ ch12-f21
+LEAD: Uçta standart bipolyar oyoq-qöl ulanişidagi potensiallarning vektor tahlili.
+**Rasm 12-6** da _A_ vektori qisman depolyarizatsiyalangan yurakning oniy elektr potensialini tasvirlaydi. Uçta standart bipolyar oyoq-qöl ulanişining har biri uçun EKG da şu lahzada yozib olinadigan potensialni aniqlaş uçun, rasmda körsatilganidek, _A_ vektorining uçidan uçta turli standart ulaniş öqlarini ifodalovçi uçta çiziqqa perpendikulyar çiziqlar (_uzuq çiziqlar_) tuşiriladi. Proyeksiyalangan _B_ vektori şu lahzada I ulanişda yozib olingan potensialni, proyeksiyalangan _C_ vektori II ulanişdagi potensialni, proyeksiyalangan _D_ vektori esa III ulanişdagi potensialni tasvirlaydi. Bularning har birida EKG dagi yozuv musbat — ya’ni nol çiziğidan yuqorida — böladi, çunki proyeksiyalangan vektorlar barça ulanişlar öqlari böylab musbat yönalişga qaragan. I ulanişdagi potensial (_B_ vektori) yurakdagi haqiqiy potensialning (_A_ vektori) taxminan yarmiga teng, II ulanişda (_C_ vektori) u yurakdagiga deyarli teng, III ulanişda (_D_ vektori) esa yurakdagining taxminan uçdan bir qismiga teng.
+
+@@ ch12-f23
+Kuçaytirilgan oyoq-qöl ulanişlarida yozib olinadigan potensiallarni aniqlaş uçun ham aynan şunday tahlildan foydalaniş mumkin, faqat **Rasm 12-6** uçun işlatilgan standart bipolyar oyoq-qöl ulanişlari öqlari örniga kuçaytirilgan ulanişlarning tegişli öqlari (qarang: **Rasm 12-3**) qöllaniladi.
+
+@@ ch12-f24
+Me’yoriy elektrokardiogrammaning vektor tahlili
+
+@@ ch12-f25
+Qorinçalar depolyarizatsiyasi davomida ketma-ket oraliqlarda yuzaga keladigan vektorlar — QRS kompleksi
+
+@@ ch12-f26
+Yurak impulsi atrioventrikulyar tutam orqali qorinçalarga kirganda qorinçalarning birinçi bölib depolyarizatsiyalanadigan qismi qorinçalararo tösiqning çap endokardial yuzasidir. Söngra depolyarizatsiya tezda tarqalib, **Rasm 12-7A** da qorinçaning töqroq rangga böyalgan qismi bilan körsatilganidek, tösiqning ikkala endokardial yuzasini qamrab oladi. Keyin depolyarizatsiya, **Rasm 12-7B** va **C** da körsatilganidek, ikkala qorinçaning qolgan qismlari endokardial yuzalari böylab tarqaladi. Nihoyat, **Rasm 12-7C** dan **E** gaça bosqiçma-bosqiç körsatilganidek, u qorinça muskuli orqali yurakning taşqi yuzasiga tarqaladi.
+
+@@ ch12-f28
+**Rasm 12-7** ning **A** dan **E** gaça bölgan har bir bosqiçida qorinçalarning oniy örtaça elektr potensiali har bir rasmda qorinça ustiga qöyilgan qizil vektor bilan ifodalangan. Söngra bu vektorlarning har biri uçta standart elektrokardiografik ulanişning har birida har bir lahzada yozib olinadigan kuçlanişlarni aniqlaş uçun oldingi bölimda tavsiflangan usul bilan tahlil qilinadi. Har bir rasmning öng tomonida elektrokardiografik QRS kompleksining bosqiçma-bosqiç şakllanişi körsatilgan. _Yodda tuting: ulanişdagi musbat vektor EKG da nol çiziğidan yuqorida, manfiy vektor esa nol çiziğidan pastda yozuv hosil qiladi._
+
+@@ ch12-f29
+Vektor tahlilini yanada körib çiqişga ötişdan oldin **Rasm 12-7** da keltirilgan ketma-ket me’yoriy vektorlarning bu tahlilini tuşunib oliş juda muhim. Bu tahlillarning har birini şu yerda berilgan usul böyiça batafsil örganib çiqiş kerak. Quyida bu ketma-ketlikning qisqaça xulosasi keltirilgan.
+
+@@ ch12-f30
+**Rasm 12-7A** da qorinça muskuli endigina depolyarizatsiyalana boşlagan; bu depolyarizatsiya boşlanganidan taxminan 0,01 soniya keyingi lahzani ifodalaydi. Bu vaqtda vektor qisqa, çunki qorinçalarning faqat kiçik bir qismi — tösiq — depolyarizatsiyalangan. Şu sababli har bir ulaniş uçun qorinça muskulining öng tomonida yozib olinganidek, barça elektrokardiografik kuçlanişlar past. II ulanişdagi kuçlaniş I va III ulanişlardagi kuçlanişlardan katta, çunki yurak vektori asosan II ulaniş öqi bilan bir xil yönalişda yönalgan.
+
+@@ ch12-f31
+Depolyarizatsiya boşlanganidan taxminan 0,02 soniya keyingi holatni ifodalovçi **Rasm 12-7B** da yurak vektori uzun, çunki qorinça muskuli massasining katta qismi depolyarizatsiyalangan. Şu sababli barça elektrokardiografik ulanişlardagi kuçlanişlar ortgan.
+
+@@ ch12-f32
+**Rasm 12-7C** da, depolyarizatsiya boşlanganidan taxminan 0,035 soniya ötgaç, yurak vektori qisqara boşlaydi va yozib olinayotgan elektrokardiografik kuçlanişlar pasayadi, çunki endi yurak çöqqisining taşqi yuzasi elektromanfiy bölib, yurakning boşqa epikardial yuzalaridagi musbatlikning katta qismini neytrallaydi. Şuningdek, vektor öqi kökrak qafasining çap tomoniga siljiy boşlaydi, çunki çap qorinça öng qorinçaga qaraganda biroz sekinroq depolyarizatsiyalanadi. Şu sababli I ulanişdagi kuçlanişning III ulanişdagi kuçlanişga nisbati ortib boradi.
+
+@@ ch12-f33
+**Rasm 12-7D** da, depolyarizatsiya boşlanganidan taxminan 0,05 soniya ötgaç, yurak vektori çap qorinçaning asosi tomon yönalgan va qisqa, çunki qorinça muskulining juda kiçik qismigina hali musbat polyarizatsiyalangan holatda qolgan. Bu vaqtdagi vektor yönalişi tufayli II va III ulanişlarda yozib olinadigan kuçlanişlar manfiy — ya’ni çiziqdan pastda — böladi, I ulanişdagi kuçlaniş esa hali ham musbat.
+
+@@ ch12-f34
+**Rasm 12-7E** da, depolyarizatsiya boşlanganidan taxminan 0,06 soniya ötgaç, qorinça muskulining butun massasi depolyarizatsiyalangan, şuning uçun yurak atrofida tok oqmaydi va elektr potensiali hosil bölmaydi. Vektor nolga teng böladi va barça ulanişlardagi kuçlanişlar nolga tuşadi.
+
+@@ ch12-f35
+Şunday qilib, uçta standart bipolyar oyoq-qöl ulanişida QRS komplekslari yakunlanadi.
+
+@@ ch12-f36
+Ba’zan bir yoki bir neçta ulanişda QRS kompleksi boşida kiçik manfiy botiqlik böladi; u **Rasm 12-7** da körsatilmagan; bu botiqlik Q tişçasidir. U paydo bölganda, tösiqning çap tomoni öng tomonidan oldin depolyarizatsiyalanişi natijasida yuzaga keladi; bu odatdagi asosdan çöqqiga yönalgan vektor paydo bölişidan oldin sekundning bir uluşi davomida çapdan öngga yönalgan kuçsiz vektorni hosil qiladi. **Rasm 12-7** da körsatilgan asosiy musbat oğiş R tişçasi, oxirgi manfiy oğiş esa S tişçasidir.
+
+@@ ch12-f37
+Qorinçalar repolyarizatsiyasi davomidagi elektrokardiogramma — T tişçasi
+
+@@ ch12-f38
+Qorinça muskuli depolyarizatsiyalangandan taxminan 0,15 soniya ötgaç repolyarizatsiya boşlanadi va taxminan 0,35 soniyada töliq yakunlangunça davom etadi. Bu repolyarizatsiya EKG da T tişçasini hosil qiladi.
+
+@@ ch12-f39
+Qorinça muskulining tösiq va endokardial sohalari birinçi bölib depolyarizatsiyalangani sababli, bu sohalar birinçi bölib repolyarizatsiyalanişi ham kerakdek tuyuladi. Biroq odatda bunday bölmaydi, çunki tösiq va boşqa endokardial sohalarning qisqariş davri yurakning köpçilik taşqi yuzalarinikidan uzunroq. Şu sababli _qorinça muskuli massasining birinçi bölib repolyarizatsiyalanadigan eng katta qismi — qorinçalarning butun taşqi yuzasi, ayniqsa yurak çöqqisi yaqinidagi qismi._ Endokardial sohalar esa, aksinça, me’yorda oxirgi bölib repolyarizatsiyalanadi. Repolyarizatsiyaning bunday ketma-ketligi qisqariş paytida qorinçalar içidagi yuqori qon bosimi tufayli yuzaga keladi, deb taxmin qilinadi: bu bosim endokardga koronar qon oqimini keskin kamaytiradi va şu bilan endokardial sohalarda repolyarizatsiyani sekinlaştiradi.
+
+@@ ch12-f40
+Qorinçalarning çöqqi sohasidagi taşqi yuzalari içki yuzalardan oldin repolyarizatsiyalangani sababli repolyarizatsiya davomida umumiy qorinça vektorining musbat uçi yurak çöqqisi tomon yönalgan böladi. _Natijada uçala bipolyar oyoq-qöl ulanişida me’yoriy T tişçasi musbat böladi; me’yoriy QRS kompleksining katta qismi ham xuddi şunday qutblilikka ega._
+
+@@ ch12-f41
+**Rasm 12-8** da qorinçalar repolyarizatsiyasining beşta bosqiçi oç jigarrang sohalar — repolyarizatsiyalangan sohalar — ning bosqiçma-bosqiç kengayişi bilan körsatilgan. Har bir bosqiçda vektor yurak asosidan çöqqi tomon yönalgan bölib, oxirgi bosqiçda yöqoladi. Dastlab vektor nisbatan kiçik, çunki repolyarizatsiya sohasi kiçik. Keyinroq repolyarizatsiya darajasi ortgani sababli vektor kuçayadi. Nihoyat, hali saqlanib qolgan depolyarizatsiya sohalari şu qadar kiçrayadiki, tok oqimining umumiy miqdori kamayadi va vektor yana kuçsizlanadi. Bu özgarişlar, şuningdek, yurakning taxminan yarmi polyarizatsiyalangan, yarmi esa depolyarizatsiyalangan holatda bölganda vektor eng katta bölişini ham körsatadi.
+
+@@ ch12-f43
+Repolyarizatsiya davomida uçta standart oyoq-qöl ulanişi EKG laridagi özgarişlar repolyarizatsiyaning ketma-ket bosqiçlarini tasvirlovçi har bir qorinça tasviri ostida körsatilgan. Şunday qilib, taxminan 0,15 soniya — butun jarayon sodir bölişi uçun zarur vaqt — davomida EKG ning T tişçasi hosil böladi.
+
+@@ ch12-f44
+Bölmaçalar depolyarizatsiyasi — P tişçasi
+
+@@ ch12-f45
+Bölmaçalar depolyarizatsiyasi sinus tugunida boşlanadi va bölmaçalar böylab barça yönalişlarda tarqaladi. Şu sababli bölmaçalarda dastlabki elektromanfiylik nuqtasi taxminan sinus tuguni joylaşgan yuqori kovak vena quyiliş joyida böladi, dastlabki depolyarizatsiya yönalişi esa **Rasm 12-9** dagi qora vektor bilan körsatilgan. Bundan taşqari, me’yoriy bölmaçalar depolyarizatsiyasi jarayoni davomida vektor umuman şu yönalişda qoladi. Bu yönaliş umuman I, II va III standart bipolyar oyoq-qöl ulanişlari öqlarining musbat yönalişlariga töğri kelgani uçun, **Rasm 12-9** da körsatilganidek, depolyarizatsiya davomida bölmaçalardan yozib olinadigan EKG lar ham odatda bu uçala ulanişda musbat böladi. Bölmaçalar depolyarizatsiyasining bu yozuvi bölmaça P tişçasi deb ataladi.
+
+@@ ch12-f47
+LEAD: Bölmaçalar repolyarizatsiyasi — bölmaça T tişçasi.
+Depolyarizatsiyaning bölmaça muskuli böylab tarqalişi _qorinçalardagiga qaraganda ança sekin_, çunki bölmaçalarda depolyarizatsiya signalini tez ötkazuvçi Purkinye tizimi yöq. Şu sababli sinus tuguni atrofidagi muskulatura bölmaçalarning distal qismlaridagi muskulaturadan ança oldin depolyarizatsiyalanadi. Binobarin, _bölmaçalarda birinçi bölib repolyarizatsiyalanadigan soha ham sinus tuguni sohasidir, ya’ni dastlab birinçi bölib depolyarizatsiyalangan soha._
+
+@@ ch12-f48
+Şunday qilib, repolyarizatsiya boşlanganda sinus tuguni atrofidagi soha bölmaçalarning qolgan qismiga nisbatan musbat bölib qoladi. Şu sababli bölmaçalar repolyarizatsiyasi vektori _depolyarizatsiya vektoriga teskari yönalgan_ böladi. (E’tibor bering, bu qorinçalarda yuz beradigan ta’sirga qarama-qarşidir.) Şuning uçun **Rasm 12-9** ning öng qismida körsatilganidek, bölmaça P tişçasidan taxminan 0,15 soniya ötgaç bölmaça T tişçasi deb ataladigan tişça paydo böladi, biroq bu T tişçasi nol çiziğining P tişçasiga nisbatan qarama-qarşi tomonida joylaşgan; ya’ni uçta standart bipolyar oyoq-qöl ulanişida u me’yorda musbat emas, balki manfiy böladi.
+
+@@ ch12-f49
+Me’yoriy EKG da _bölmaça_ T tişçasi taxminan qorinçalar QRS kompleksi paydo böladigan vaqtda paydo böladi. Şu sababli u deyarli har doim katta _qorinça_ QRS kompleksi bilan butunlay tösib qöyiladi, garçi ayrim öta patologik holatlarda u yozib olingan EKG da körinsa ham.
+
+@@ ch12-f50
+Avval qayd etilganidek, impuls miokard böylab tarqalgan sari yurak orqali oqayotgan tokning vektori tez özgaradi. U ikki jihatdan özgaradi. Birinçidan, vektor kuçlanişining ortişi va kamayişi tufayli vektor uzunligi ortadi va kamayadi. Ikkinçidan, yurakdan çiqayotgan elektr potensiali örtaça yönalişining özgarişi tufayli vektor yönalişini özgartiradi. **Rasm 12-10** da körsatilganidek, _vektorkardiogramma_ yurak siklining turli vaqtlaridagi bu özgarişlarni tasvirlaydi.
+
+@@ ch12-f52
+**Rasm 12-10** dagi katta vektorkardiogrammada 5-nuqta _nol hisob nuqtasi_ hisoblanadi va bu nuqta barça ketma-ket vektorlarning manfiy uçidir. Yurak urişlari oraliğida yurak muskuli polyarizatsiyalangan holatda bölganda vektorning musbat uçi nol nuqtada qoladi, çunki vektorli elektr potensiali yöq. Biroq qorinçalar depolyarizatsiyasi boşlanişida qorinçalar orqali tok oqa boşlaşi bilanoq vektorning musbat uçi nol hisob nuqtasidan uzoqlaşadi.
+
+@@ ch12-f53
+Tösiq birinçi bölib depolyarizatsiyalanganda vektor pastga, qorinçalar çöqqisi tomon yönaladi, ammo u nisbatan kuçsiz bölib, 1-vektorning musbat uçi bilan körsatilganidek, qorinça vektorkardiogrammasining birinçi qismini hosil qiladi. Qorinça muskulining tobora köproq qismi depolyarizatsiyalangan sari vektor tobora kuçayib boradi va odatda biroz bir tomonga oğadi. Şunday qilib, **Rasm 12-10** dagi 2-vektor 1-vektordan taxminan 0,02 soniya keyingi qorinçalar depolyarizatsiyasi holatini ifodalaydi. Yana 0,02 soniyadan söng potensialni 3-vektor ifodalaydi, 4-vektor esa yana 0,01 soniyadan keyin paydo böladi. Nihoyat, qorinçalar butunlay depolyarizatsiyalanadi va vektor, 5-nuqtada körsatilganidek, yana nolga teng böladi.
+
+@@ ch12-f54
+Vektorlarning musbat uçlari hosil qiladigan ellipssimon şakl _QRS vektorkardiogrammasi_ deb ataladi.
+
+@@ ch12-f55
+Qorinçalar QRS ining örtaça elektr öqi va uning ahamiyati
+
+@@ ch12-f56
+**Rasm 12-10** da körsatilgan qorinçalar depolyarizatsiyasi davomidagi vektorkardiogramma (QRS vektorkardiogrammasi) me’yoriy yurakka tegişli. E’tibor bering, qorinçalar depolyarizatsiyasi siklining köp qismi davomida elektr potensialining yönalişi (manfiydan musbatga) qorinçalar asosidan çöqqi tomon böladi. Depolyarizatsiya davomida potensialning yurak asosidan çöqqisiga tomon bu ustun yönalişi _qorinçalarning örtaça elektr öqi_ deb ataladi. Me’yoriy qorinçalarning örtaça elektr öqi 59 gradusga teng. Yurakning köplab patologik holatlarida bu yönaliş keskin özgaradi, ba’zan hatto yurakning qarama-qarşi qutblariga qadar.
+
+@@ ch12-f57
+Elektr öqini standart ulanişlar elektrokardiogrammalari böyiça aniqlaş
+
+@@ ch12-f58
+Klinikada yurakning elektr öqi odatda vektorkardiogramma böyiça emas, balki standart bipolyar oyoq-qöl ulanişlari EKG lari böyiça baholanadi. **Rasm 12-11** da bunday baholaşni amalga oşiriş usuli körsatilgan. Standart ulanişlar yozib olingandan söng I va III ulanişlardagi yozuvlarning sof potensiali va qutbliligi aniqlanadi. **Rasm 12-11** dagi I ulanişda yozuv musbat, III ulanişda esa yozuv asosan musbat, ammo siklning bir qismida manfiy. Agar yozuvning biror qismi manfiy bölsa, şu ulaniş uçun _sof potensialni_ aniqlaş maqsadida _bu manfiy potensial_
+
+@@ ch12-f60
+_potensialning musbat qismidan ayiriladi_; bu III ulaniş uçun QRS kompleksining öng tomonidagi _strelka_ bilan körsatilgan. Söngra I va III ulanişlarning har bir sof potensiali, **Rasm 12-11** da körsatilganidek, potensial asosi öqlarning kesişiş nuqtasida böladigan qilib tegişli ulanişlar öqlariga qöyiladi.
+
+@@ ch12-f61
+Qorinçalar QRS umumiy örtaça elektr potensialining vektorini aniqlaş uçun I va III ulanişlar uçlaridan mos ravişda perpendikulyar çiziqlar (rasmdagi _uzuq çiziqlar_) ötkaziladi. Vektor tahliliga köra, bu ikki perpendikulyar (uzuq) çiziqning kesişiş nuqtasi qorinçalardagi _örtaça_ QRS vektorining uçini, I va III ulanişlar öqlarining kesişiş nuqtasi esa örtaça vektorning manfiy uçini ifodalaydi. Şu sababli _örtaça QRS vektori_ şu ikki nuqta orasida çiziladi. Depolyarizatsiya davomida qorinçalar hosil qiladigan taxminiy örtaça potensial bu örtaça QRS vektorining uzunligi bilan, örtaça elektr öqi esa örtaça vektorning yönalişi bilan ifodalanadi. Şunday qilib, **Rasm 12-11** da aniqlanganidek, me’yoriy qorinçalar örtaça elektr öqining yönalişi musbat 59 gradusga (+59 gradus) teng.
+
+@@ ch12-f62
+Öq oğişiga sabab böluvçi qorinçalarning patologik holatlari
+
+@@ ch12-f63
+Qorinçalarning örtaça elektr öqi örtaça taxminan 59 gradusni taşkil etsa-da, bu öq hatto me’yoriy yurakda ham taxminan 20 gradusdan taxminan 100 gradusgaça oğişi mumkin. Me’yoriy özgarişlarning sabablari asosan turli yuraklarda Purkinye tarqatuvçi tizimining yoki muskulaturaning özidagi anatomik farqlardir. Biroq quyida tavsiflanganidek, yurakning bir qator patologik holatlari öqning me’yoriy çegaralardan taşqariga oğişiga sabab bölişi mumkin.
+
+@@ ch12-f64
+LEAD: Yurakning kökrak qafasidagi holatining özgarişi.
+Agar yurak çapga oğgan bölsa, yurakning örtaça elektr öqi ham _çapga siljiydi_. Bunday siljiş (1) çuqur nafas çiqariş oxirida, (2) odam yotganda, çunki qorin böşliği a’zolari diafragmani yuqoriga bosadi, va (3) köpinça semiz odamlarda yuz beradi, çunki ularda visseral yoğ töqimasining köpayişi natijasida diafragma me’yorda doimo yurakni yuqoriga bosib turadi.
+
+@@ ch12-f65
+Xuddi şunday, yurakning öngga oğişi qorinçalar örtaça elektr öqining _öngga siljişiga_ sabab böladi. Bu siljiş (1) çuqur nafas oliş oxirida, (2) odam örnidan turganda va (3) me’yorda yuragi pastga osilib turadigan baland böyli, ozğin odamlarda yuz beradi.
+
+@@ ch12-f66
+LEAD: Bir qorinça gipertrofiyasi.
+Bir qorinça kuçli gipertrofiyaga uçraganda _yurak öqi gipertrofiyalangan qorinça tomon siljiydi_; buning ikki sababi bor. Birinçidan, yurakning gipertrofiyalangan tomonida boşqa tomonga qaraganda muskul köproq böladi, bu esa şu tomonda kattaroq elektr potensiali hosil bölişiga imkon beradi. Ikkinçidan, depolyarizatsiya tölqinining gipertrofiyalangan qorinça böylab ötişi uçun me’yoriy qorinçadagiga qaraganda köproq vaqt talab qilinadi. Binobarin, _me’yoriy_ qorinça _gipertrofiyalangan_ qorinçadan ança oldin depolyarizatsiyalanadi va bu holat yurakning me’yoriy tomonidan hali kuçli musbat zaryadlangan holatda qolayotgan gipertrofiyalangan tomoniga yönalgan kuçli vektorni yuzaga keltiradi. Şunday qilib, öq gipertrofiyalangan qorinça tomon oğadi.
+
+@@ ch12-f67
+LEAD: Çap qorinça gipertrofiyasi natijasida öqning çapga oğişining vektor tahlili.
+**Rasm 12-12** da uçta standart bipolyar oyoq-qöl ulanişi EKG lari körsatilgan. Vektor tahlili öqning çapga oğişini körsatadi, bunda örtaça elektr öqi −15 gradus yönalişiga qaragan. Bu çap qorinça muskul massasining ortişi natijasida yuzaga keladigan tipik EKG dir. Bu holda öq oğişiga _gipertenziya_ (yuqori arterial qon bosimi) sabab bölgan: u çap qorinçaning yuqori sistemaviy arterial bosimga qarşi qon haydaşi uçun gipertrofiyalanişiga olib kelgan. Öqning çapga oğişining şunga öxşaş manzarasi çap qorinça _aorta klapani stenozi, aorta klapani regurgitatsiyasi_ yoki çap qorinça kattalaşib, öng qorinça nisbatan me’yoriy ölçamda qoladigan _tuğma yurak nuqsonlari_ natijasida gipertrofiyalanganda ham kuzatiladi.
+
+@@ ch12-f69
+LEAD: Öng qorinça gipertrofiyasi natijasida öqning öngga oğişining vektor tahlili.
+**Rasm 12-13** dagi EKG öqning öngga keskin oğişini körsatadi: elektr öqi 170 gradusga teng bölib, bu me’yoriy 59 gradusli örtaça qorinça QRS öqidan 111 gradus öngga demakdir. Bu rasmda körsatilgan öqning öngga oğişiga _öpka arteriyasi klapanining tuğma stenozi_ natijasida öng qorinçaning gipertrofiyasi sabab bölgan. Öqning öngga oğişi öng qorinça gipertrofiyasiga olib keluvçi boşqa tuğma yurak nuqsonlarida ham, masalan, _Fallo tetradasi_ va _qorinçalararo tösiq nuqsonida_ ham yuzaga kelişi mumkin.
+
+@@ ch12-f71
+LEAD: Tutam oyoqçasi blokadasi öq oğişiga sabab böladi.
+Odatda ikkala qorinçaning yon devorlari deyarli bir lahzada depolyarizatsiyalanadi, çunki Purkinye tizimining çap va öng tutam oyoqçalari yurak impulsini ikkala qorinça devoriga deyarli bir vaqtda ötkazadi. Natijada ikkala qorinça (yurakning ikki qarama-qarşi tomonida) hosil qiladigan potensiallar bir-birini deyarli neytrallaydi. Biroq asosiy tutam oyoqçalaridan faqat bittasi blokadaga uçrasa, yurak impulsi boşqa qorinça böylab tarqalişidan oldin me’yoriy qorinça böylab tarqaladi. Şu sababli ikkala qorinçaning depolyarizatsiyasi hatto taxminan bir vaqtda ham sodir bölmaydi va depolyarizatsiya potensiallari bir-birini neytrallamaydi. Natijada quyidagiça öq oğişi yuzaga keladi.
+
+@@ ch12-f72
+LEAD: Çap tutam oyoqçasi blokadasida öqning çapga oğişining vektor tahlili.
+Çap tutam oyoqçasi blokadaga uçraganda yurak depolyarizatsiyasi öng qorinça böylab çap qorinçadagiga qaraganda ikki-uç baravar tezroq tarqaladi. Binobarin, öng qorinça butunlay depolyarizatsiyalangandan keyin ham çap qorinçaning katta qismi 0,1 soniyagaça polyarizatsiyalangan holatda qoladi. Şunday qilib, depolyarizatsiya jarayonining köp qismi davomida öng qorinça elektromanfiy bölib qoladi, çap qorinça esa elektromusbat bölib qoladi va öng qorinçadan çap qorinçaga yönalgan kuçli vektor hosil böladi. Boşqaça aytganda, vektorning musbat uçi çap qorinça tomon yönalgani uçun öqning taxminan −50 gradusgaça keskin çapga oğişi yuzaga keladi. Bu holat çap tutam oyoqçasi blokadasi natijasida öqning tipik çapga oğişini körsatuvçi **Rasm 12-14** da namoyiş etilgan.
+
+@@ ch12-f74
+Purkinye tizimi blokadaga uçraganda impuls ötkazilişi sekinlaşgani sababli, öq oğişiga qöşimça ravişda, yurakning zararlangan tomonida depolyarizatsiyaning öta sekinlaşuvi natijasida QRS kompleksining davomiyligi ham keskin uzayadi. Bu ta’sirni **Rasm 12-14** dagi QRS tişçalarining haddan taşqari kengligida köriş mumkin (bu haqda bobning keyingi qismida batafsilroq töxtalamiz). Aynan şu öta uzaygan QRS kompleksi tutam oyoqçasi blokadasini gipertrofiya tufayli yuzaga kelgan öq oğişidan farqlaş imkonini beradi.
+
+@@ ch12-f75
+LEAD: Öng tutam oyoqçasi blokadasida öqning öngga oğişining vektor tahlili.
+Öng tutam oyoqçasi blokadaga uçraganda çap qorinça öng qorinçaga qaraganda ança tez depolyarizatsiyalanadi va şu sababli qorinçalarning çap tomoni öng tomoniga nisbatan 0,1 soniyagaça oldinroq elektromanfiy böladi. Şuning uçun manfiy uçi çap qorinça tomon, musbat uçi esa öng qorinça tomon yönalgan kuçli vektor hosil böladi. Boşqaça aytganda, öqning öngga keskin oğişi yuzaga keladi. **Rasm 12-15** da öng tutam oyoqçasi blokadasi tufayli yuzaga kelgan öqning öngga oğişi körsatilgan va uning vektori tahlil qilingan; bu tahlil me’yoriy 59 gradus örniga taxminan 105 gradusli öqni hamda sekin ötkaziliş tufayli uzaygan QRS kompleksini körsatadi.
+
+@@ ch12-f77
+QRS kompleksi kuçlanişining me’yordan çetga çiqişiga sabab böluvçi holatlar
+
+@@ ch12-f78
+Standart bipolyar oyoq-qöl ulanişlarida kuçlanişning ortişi
+
+@@ ch12-f79
+Me’yorda uçta standart bipolyar oyoq-qöl ulanişidagi kuçlanişlar, R tişçasi çöqqisidan S tişçasi tubigaça ölçanganda, 0,5 dan 2,0 millivoltgaça özgarib turadi; bunda odatda III ulanişda eng past, II ulanişda esa eng yuqori kuçlaniş yozib olinadi. Biroq bu nisbatlar hatto me’yoriy yurak uçun ham özgarmas emas. Umuman olganda, uçta standart ulanişdagi barça QRS komplekslari kuçlanişlarining yiğindisi 4 millivoltdan katta bölsa, bemorda yuqori voltajli EKG bor deb hisoblanadi.
+
+@@ ch12-f80
+Yuqori voltajli QRS komplekslarining sababi odatda yurak muskul massasining ortişidir; bu esa köpinça yurakning u yoki bu qismiga tuşadigan ortiqça yuklamaga javoban _muskul gipertrofiyasi_ natijasida yuzaga keladi. Masalan, öng qorinça qonni toraygan öpka arteriyasi klapani orqali haydaşga majbur bölganda yoki öpka arteriyasidagi bosim yuqori bölganda gipertrofiyalanadi, çap qorinça esa odamda sistemaviy arterial qon bosimi yuqori bölganda gipertrofiyalanadi. Muskul miqdorining ortişi yurak atrofida köproq elektr hosil qiladi. Natijada, **Rasm 12-12** va **Rasm 12-13** da körsatilganidek, elektrokardiografik ulanişlarda yozib olinadigan elektr potensiallari me’yordagidan ança katta böladi.
+
+@@ ch12-f81
+Elektrokardiogramma kuçlanişining pasayişi
+
+@@ ch12-f82
+LEAD: Kardiomiopatiyalar tufayli kuçlanişning pasayişi.
+QRS kompleksi kuçlanişi pasayişining eng köp uçraydigan sabablaridan biri — bir qator _eski miokard infarktlari_ va buning natijasida _muskul massasining kamayişi_. Bu holat, şuningdek, depolyarizatsiya tölqinining qorinçalar böylab sekin harakatlanişiga sabab böladi va yurakning katta qismlari bir vaqtning özida yalpi depolyarizatsiyalanişiga tösqinlik qiladi. Binobarin, bu holat kuçlanişning pasayişi bilan birga QRS kompleksining biroz uzayişiga ham olib keladi. **Rasm 12-16** da QRS kompleksi uzaygan tipik past voltajli EKG körsatilgan; bunday EKG yurakdagi köplab mayda infarktlar impuls ötkazilişining mahalliy keçikişlariga va qorinçalar böylab muskul massasining yöqolişi tufayli kuçlanişning pasayişiga sabab bölgandan keyin köp uçraydi. Infiltrativ miokard kasalliklari ham EKG kuçlanişining pasayişiga sabab böladi. Masalan, yurak amiloidozida ğayritabiiy oqsillar miokardni infiltratsiya qiladi va bu ayniqsa oyoq-qöl ulanişlarida kuçlanişning pasayişiga olib keladi.
+
+@@ ch12-f84
+LEAD: Yurak atrofidagi holatlar tufayli kuçlanişning pasayişi.
+Elektrokardiografik ulanişlarda kuçlaniş pasayişining eng muhim sabablaridan biri _perikardda suyuqlikning ortiqça töplanişidir (perikardial effuziya)._ Hujayradan taşqari suyuqlik elektr tokini yaxşi ötkazgani uçun yurakdan çiqayotgan elektr tokining katta qismi perikardial suyuqlik orqali yurakning bir qismidan boşqa qismiga ötadi. Şunday qilib, bu effuziya yurak hosil qiladigan elektr potensiallarini amalda “qisqa tutaştiradi” va tananing taşqi yuzasiga yetib boradigan elektrokardiografik kuçlanişlarni kamaytiradi. _Plevral effuziya_ ham, kamroq darajada bölsa-da, yurak atrofidagi tokni qisqa tutaştirişi mumkin, natijada tana yuzasidagi va EKG lardagi kuçlanişlar pasayadi.
+
+@@ ch12-f85
+_Öpka emfizemasi_ ham elektrokardiografik potensiallarni kamaytirişi mumkin, biroq perikardial effuziyadagidan boşqaça sabab bilan. Öpka emfizemasi bölgan odamlarda öpkada havoning haddan taşqari köpligi sababli elektr tokining öpka orqali ötkazilişi ança susayadi. Şuningdek, kökrak qafasi böşliği kattalaşadi va öpkalar yurakni me’yordagidan köproq darajada örab oladi. Şu sababli öpkalar yurakdan tana yuzasiga elektr kuçlanişining tarqalişiga tösqinlik qiluvçi izolyator vazifasini bajaradi; bu esa turli ulanişlarda elektrokardiografik potensiallarning pasayişiga olib keladi.
+
+@@ ch12-f86
+QRS kompleksining uzaygan va ğayrioddiy şakllari
+
+@@ ch12-f87
+Yurak gipertrofiyasi yoki dilatatsiyasi QRS kompleksini uzaytiradi
+
+@@ ch12-f88
+QRS kompleksi depolyarizatsiya qorinçalar böylab tarqalişda davom etar ekan — ya’ni qorinçalarning bir qismi depolyarizatsiyalangan, bir qismi esa hali polyarizatsiyalangan ekan — davom etadi. Şu sababli impulsning qorinçalar böylab _uzoq ötkazilişi_ har doim QRS kompleksining uzayişiga sabab böladi. Bunday uzayiş köpinça bir yoki ikkala qorinça gipertrofiyalangan yoki kengaygan bölganda yuz beradi, çunki bunda impuls uzunroq yölni bosib ötişi kerak böladi. Me’yoriy QRS kompleksi 0,06–0,08 soniya davom etadi, çap yoki öng qorinça gipertrofiyasi yoki dilatatsiyasida esa QRS kompleksi 0,09–0,12 soniyagaça uzayişi mumkin.
+
+@@ ch12-f89
+Purkinye tizimi blokadasi QRS kompleksini uzaytiradi
+
+@@ ch12-f90
+Purkinye tolalari blokadaga uçraganda yurak impulsi Purkinye tizimi orqali emas, balki qorinça muskuli orqali ötkazilişiga töğri keladi. Bu impuls ötkaziliş tezligini me’yoriy qiymatning taxminan uçdan bir qismigaça kamaytiradi. Şu sababli tutam oyoqçalaridan birining töliq blokadasi yuz bersa, QRS kompleksining davomiyligi odatda 0,14 soniya yoki undan köproqqa uzayadi.
+
+@@ ch12-f91
+Umuman olganda, QRS kompleksi 0,09 soniyadan köproq davom etsa, u patologik darajada uzun deb hisoblanadi. Agar u 0,12 soniyadan köproq davom etsa, **Rasm 12-14** va **Rasm 12-15** dagi tutam oyoqçasi blokadasi EKG larida körsatilganidek, uzayişga deyarli aniq qorinçalar ötkazuvçi tizimining biror joyidagi patologik blokada sabab bölgan böladi.
+
+@@ ch12-f92
+Ğayrioddiy QRS komplekslariga sabab böluvçi holatlar
+
+@@ ch12-f93
+QRS kompleksining ğayrioddiy şakllari odatda ikki holat tufayli yuzaga keladi: (1) qorinçalar tizimining turli sohalarida yurak muskulining yemirilişi va bu muskulning çandiq töqimasi bilan almaşinişi; (2) Purkinye tizimining köplab nuqtalarida impuls ötkazilişining köplab mayda mahalliy blokadalari. Natijada yurak impulsining ötkazilişi notekis bölib qoladi va kuçlanişlarning tez özgarişiga hamda öq oğişlariga sabab böladi. Bu notekislik köpinça ayrim elektrokardiografik ulanişlarda, masalan, **Rasm 12-14** da körsatilganidek, ikki yoki hatto uç çöqqili tişçalarni yuzaga keltiradi.
+
+@@ ch12-f94
+Şikastlaniş toki
+
+@@ ch12-f95
+Köplab turli yurak patologiyalari, ayniqsa yurak muskulini şikastlaydiganlari, yurakning bir qismi qisman yoki butunlay _doimo depolyarizatsiyalangan_ holatda qolişiga sabab bölişi mumkin. Bunday holat yuzaga kelganda patologik depolyarizatsiyalangan sohalar bilan me’yorda polyarizatsiyalangan sohalar örtasida hatto yurak urişlari oraliğida ham tok oqadi. Bu holat _şikastlaniş toki_ (current of injury) deb ataladi. Ayniqsa şunga e’tibor beringki, _yurakning şikastlangan qismi manfiy böladi, çunki aynan şu qism depolyarizatsiyalangan bölib, atrofdagi suyuqliklarga manfiy zaryadlar çiqaradi, yurakning qolgan qismi esa neytral yoki musbat qutblilikka ega böladi._
+
+@@ ch12-f96
+Şikastlaniş tokiga sabab bölişi mumkin bölgan ayrim patologiyalar quyidagilardan iborat: (1) _mexanik şikast_ — u ba’zan membranalarni şu qadar ötkazuvçan holatda qoldiradiki, töliq repolyarizatsiya sodir böla olmaydi; (2) muskul membranalarini şikastlaydigan _infeksion jarayonlar_; (3) _mahalliy koronar okklyuziyalar tufayli yurak muskulining mahalliy sohalari işemiyasi_ — bu yurakda şikastlaniş tokining eng köp uçraydigan sababidir. Işemiya paytida me’yoriy membrana polyarizatsiyasini saqlab turiş uçun yurak muskuliga koronar qon ta’minotidan yetarli oziq moddalar kelmaydi.
+
+@@ ch12-f97
+Şikastlaniş tokining QRS kompleksiga ta’siri
+
+@@ ch12-f98
+**Rasm 12-17** da çap qorinça asosidagi kiçik soha yangi infarktga uçragan (ya’ni koronar qon oqimi yöqolgan). Şu sababli T-P oraliğida — ya’ni me’yoriy qorinça muskuli butunlay polyarizatsiyalangan paytda — çap qorinça asosidagi infarkt sohasidan hali ham ğayritabiiy _manfiy_ tok oqadi va qorinçalarning qolgan qismi tomon tarqaladi.
+
+@@ ch12-f100
+**Rasm 12-17** dagi birinçi yurak tasvirida körsatilganidek, bu şikastlaniş tokining vektori taxminan 125 gradus yönalişida bölib, vektor asosi — _manfiy uçi_ — şikastlangan muskul tomon qaragan. Rasmning pastki qismlarida körsatilganidek, hatto QRS kompleksi boşlanişidan oldin ham _bu vektor I ulanişda nol potensial çiziğidan pastda dastlabki yozuvni hosil qiladi_, çunki I ulanişdagi şikastlaniş tokining proyeksiyalangan vektori I ulaniş öqining manfiy uçiga qaragan. II ulanişda yozuv çiziqdan yuqorida böladi, çunki proyeksiyalangan vektor köproq ulanişning musbat qutbiga qaragan. III ulanişda proyeksiyalangan vektor III ulanişning musbat qutbi bilan bir xil yönalişga qaragan, şuning uçun yozuv musbat böladi. Bundan taşqari, vektor deyarli aynan III ulaniş öqi yönalişida joylaşgani uçun III ulanişdagi şikastlaniş toki kuçlanişi I yoki II ulanişdagiga qaraganda ança katta böladi.
+
+@@ ch12-f101
+Söngra yurak me’yoriy depolyarizatsiya jarayonini boşdan keçirar ekan, avval tösiq depolyarizatsiyalanadi; keyin depolyarizatsiya pastga, çöqqiga tarqaladi va qorinçalar asosi tomon qaytadi. Qorinçalarning eng oxirgi bölib butunlay depolyarizatsiyalanadigan qismi öng qorinça asosidir, çunki çap qorinça asosi allaqaçon butunlay va doimiy depolyarizatsiyalangan. Vektor tahlili yordamida, **Rasm 12-17** ning pastki qismida namoyiş etilganidek, qorinçalar böylab tarqalayotgan depolyarizatsiya tölqini tomonidan elektrokardiogramma hosil bölişining ketma-ket bosqiçlarini grafik ravişda tuziş mumkin.
+
+@@ ch12-f102
+Depolyarizatsiya jarayoni oxirida yurak butunlay depolyarizatsiyalanganda (**Rasm 12-17** dagi oxiridan oldingi bosqiçda körsatilganidek) qorinçalarning butun muskuli manfiy holatda böladi. Şu sababli EKG dagi şu lahzada qorinçalardan elektrokardiografik elektrodlarga tok oqmaydi, çunki endi şikastlangan yurak muskuli ham, qisqarayotgan muskul ham depolyarizatsiyalangan.
+
+@@ ch12-f103
+Keyin repolyarizatsiya sodir bölar ekan, çap qorinça şikastlangan asosidagi doimiy depolyarizatsiya sohasidan taşqari butun yurak oxir-oqibat repolyarizatsiyalanadi. Şunday qilib, **Rasm 12-17** ning eng öng qismida körsatilganidek, repolyarizatsiya har bir ulanişda şikastlaniş tokining qaytib paydo bölişiga sabab böladi.
+
+@@ ch12-f104
+J nuqta şikastlaniş tokini tahlil qilişda nol hisob potensiali hisoblanadi
+
+@@ ch12-f105
+EKG apparatlari yurak atrofida tok oqmayotgan paytni aniqlay oladi, deb öylaş mumkin. Biroq organizmda köplab begona (adaşgan) toklar mavjud, masalan, teri potensiallari va organizmning turli suyuqliklaridagi ion konsentratsiyalari farqlari tufayli yuzaga keladigan toklar. Şu sababli ikkita elektrod qöllar orasiga yoki qöl va oyoq orasiga ulanganda bu begona toklar EKG dagi aniq nol hisob darajasini oldindan aniqlaşni imkonsiz qiladi.
+
+@@ ch12-f106
+Şu sabablarga köra nol potensial darajasini aniqlaş uçun quyidagi usuldan foydalaniş kerak. Avval _depolyarizatsiya tölqini yurak böylab ötişini endigina tugatgan aniq nuqta_ belgilanadi; bu QRS kompleksi oxirida sodir böladi. Aynan şu nuqtada qorinçalarning barça qismlari, ham şikastlangan, ham me’yoriy qismlari depolyarizatsiyalangan böladi, şuning uçun yurak atrofida tok oqmaydi. Hatto şikastlaniş toki ham şu nuqtada yöqoladi. Şu sababli şu lahzada elektrokardiogramma potensiali nol kuçlanişga teng. **Rasm 12-18** da körsatilganidek, bu nuqta EKG da _J nuqta_ deb ataladi.
+
+@@ ch12-f108
+Söngra şikastlaniş toki tufayli yuzaga kelgan şikastlaniş potensialining elektr öqini tahlil qiliş uçun EKG da har bir ulaniş uçun J nuqta darajasida gorizontal çiziq çiziladi. Şundan söng bu gorizontal çiziq EKG dagi _nol potensial darajasi_ bölib xizmat qiladi va şikastlaniş toklari tufayli yuzaga keladigan barça potensiallar şu darajadan ölçanişi kerak.
+
+@@ ch12-f109
+LEAD: Şikastlaniş potensiali öqini çizişda J nuqtadan foydalaniş.
+**Rasm 12-18** da şikastlangan yurakdan olingan EKG lar (I va III ulanişlar) körsatilgan. Ikkala yozuvda ham şikastlaniş potensiallari bor. Boşqaça aytganda, bu ikki EKG ning har birida J nuqta T-P segmenti bilan bir çiziqda emas. Rasmda ikkala yozuvning har birida nol kuçlaniş darajasini ifodalaş uçun J nuqta orqali gorizontal çiziq ötkazilgan. Har bir ulanişdagi şikastlaniş potensiali — EKG ning P tişçasi boşlanişidan bevosita oldingi kuçlanişi bilan J nuqta böyiça aniqlangan nol kuçlaniş darajasi örtasidagi farqdir. I ulanişda şikastlaniş potensialining yozib olingan kuçlanişi nol potensial darajasidan yuqorida, şuning uçun musbat. Aksinça, III ulanişda şikastlaniş potensiali nol kuçlaniş darajasidan pastda, şuning uçun manfiy.
+
+@@ ch12-f110
+**Rasm 12-18** ning pastki qismida I va III ulanişlardagi tegişli şikastlaniş potensiallari şu ulanişlarning koordinatalariga qöyilgan va qorinça muskulining butun massasi uçun şikastlaniş potensialining natijaviy vektori yuqorida tavsiflangan vektor tahlili yordamida aniqlangan. Bu holda natijaviy vektor qorinçalarning öng tomonidan çapga va biroz yuqoriga yönalgan bölib, öqi taxminan −30 gradusga teng. Agar şikastlaniş potensialining bu vektori bevosita qorinçalar ustiga qöyilsa, _vektorning manfiy uçi qorinçalarning doimiy depolyarizatsiyalangan, “şikastlangan” sohasiga qaraydi._ **Rasm 12-18** da körsatilgan misolda şikastlangan soha öng qorinçaning yon devorida böladi.
+
+@@ ch12-f111
+Bu tahlil, şubhasiz, murakkab. Biroq talaba uni töliq tuşunib olgunça qayta-qayta takrorlab çiqişi juda muhim. _Elektrokardiografik tahlilning bundan muhimroq boşqa jihati yöq._
+
+@@ ch12-f112
+Koronar işemiya şikastlaniş potensialining sababi sifatida
+
+@@ ch12-f113
+Yurak muskuliga qon oqimining yetişmasligi muskul metabolizmini kamida uç sababga köra susaytiradi: (1) kislorod yetişmasligi; (2) karbonat angidridning ortiqça töplanişi; (3) oziq moddalarning yetarli emasligi. Binobarin, miokard işemiyasi oğir bölgan sohalarda muskul membranasining repolyarizatsiyasi sodir böla olmaydi. Köpinça yurak muskuli halok bölmaydi, çunki qon oqimi membranalarning me’yoriy repolyarizatsiyasi uçun yetarli bölmasa-da, muskulning hayotini saqlab turiş uçun yetarli böladi. Bu holat davom etar ekan, har bir yurak siklining diastolik qismi (T-P qismi) davomida şikastlaniş potensiali oqişda davom etadi.
+
+@@ ch12-f114
+Koronar okklyuziyadan keyin yurak muskulining öta oğir işemiyasi yuzaga keladi va **Rasm 12-19** va
+
+@@ ch12-f115
+**Rasm 12-20** da körsatilganidek, yurak urişlari oraliğidagi T-P oraliğida qorinçalarning infarkt sohasidan kuçli şikastlaniş toki oqadi. Şu sababli ötkir koronar trombozdan keyin yozib olingan EKG larning eng muhim diagnostik belgilaridan biri şikastlaniş tokidir.
+
+@@ ch12-f116
+LEAD: Old devor ötkir infarkti.
+**Rasm 12-19** da yurak old devorining ötkir infarkti bölgan bemordan uçta standart bipolyar oyoq-qöl ulanişida va bitta kökrak ulanişida (V2 ulaniş) yozib olingan EKG körsatilgan. Bu EKG ning eng muhim diagnostik belgisi V2 kökrak ulanişidagi kuçli şikastlaniş potensialidir. Agar bu EKG ning J nuqtasi orqali nol potensialning gorizontal çiziği ötkazilsa, T-P oraliğida kuçli _manfiy_ şikastlaniş potensiali aniqlanadi; bu esa yurakning old yuzasi ustidagi kökrak elektrodi kuçli manfiy potensial sohasida joylaşganini anglatadi. Boşqaça aytganda, bu yurakda şikastlaniş potensiali vektorining manfiy uçi kökrak qafasining old devoriga qaragan. Bu şikastlaniş toki qorinçalarning old devoridan çiqayotganini anglatadi va bu holatni _old devor infarkti_ deb taşxislaş imkonini beradi.
+
+@@ ch12-f118
+I va III ulanişlardagi şikastlaniş potensiallari tahlil qilinganda I ulanişda manfiy, III ulanişda esa musbat potensial aniqlanadi. Bu topilma yurakdagi şikastlaniş potensialining natijaviy vektori taxminan +150 gradus ekanligini, uning manfiy uçi çap qorinça tomon, musbat uçi esa öng qorinça tomon yönalganini anglatadi. Şunday qilib, bu EKG da şikastlaniş toki yurakning old devoridan taşqari asosan çap qorinçadan çiqmoqda. Şu sababli bu old devor infarktiga deyarli aniq çap koronar arteriyaning oldingi tuşuvçi tarmoği trombozi sabab bölgan degan xulosaga keliş mumkin.
+
+@@ ch12-f119
+LEAD: Orqa devor infarkti.
+**Rasm 12-20** da orqa devor infarkti bölgan bemordan olingan uçta standart bipolyar oyoq-qöl ulanişi va bitta kökrak ulanişi (V2 ulaniş) körsatilgan. Bu EKG ning asosiy diagnostik belgisi ham kökrak ulanişida. Agar bu ulanişning J nuqtasi orqali nol potensial hisob çiziği ötkazilsa, T-P oraliğida şikastlaniş toki potensiali musbat ekanligi darhol közga taşlanadi. Bu vektorning musbat uçi kökrak qafasining old devori tomon yönalganini, manfiy uçi (vektorning şikastlangan uçi) esa kökrak devoridan uzoqqa qaraganini anglatadi. Boşqaça aytganda, şikastlaniş toki yurakning kökrak qafasi old devoriga qarama-qarşi bölgan orqa tomonidan kelmoqda; aynan şu sababli EKG ning bu turi orqa devor infarktini taşxislaş uçun asos böladi.
+
+@@ ch12-f121
+**Rasm 12-20** dagi II va III ulanişlardagi şikastlaniş potensiallari tahlil qilinsa, şikastlaniş potensiali ikkala ulanişda ham manfiy ekanligi darhol körinadi. Rasmda körsatilganidek, vektor tahlili yordamida şikastlaniş potensialining natijaviy vektori taxminan −95 gradus ekanligi, uning manfiy uçi pastga, musbat uçi esa yuqoriga yönalgani aniqlanadi. Şunday qilib, kökrak ulanişi körsatganidek, infarkt yurakning orqa devorida joylaşgani va II hamda III ulanişlardagi şikastlaniş potensiallari körsatganidek, u yurakning çöqqi qismida ekanligi sababli, bu infarkt çap qorinça orqa devorida çöqqi yaqinida joylaşgan deb taxmin qiliş mumkin.
+
+@@ ch12-f122
+LEAD: Yurakning boşqa qismlaridagi infarkt.
+Old va orqa devor infarktlari haqidagi yuqoridagi muhokamalarda körsatilgan usullardan foydalanib, köpinça şikastlaniş tokini çiqarayotgan infarkt sohasining joylaşuvini aniqlaş mumkin. Bunday vektor tahlilini ötkazişda şuni yodda tutiş kerakki, _şikastlaniş potensiali vektorining musbat uçi me’yoriy yurak muskuli tomon, manfiy uçi esa yurakning şikastlaniş tokini çiqarayotgan şikastlangan qismi tomon yönalgan böladi._
+
+@@ ch12-f123
+LEAD: Ötkir koronar tromboz davomida va undan keyin EKG dinamikasi.
+**Rasm 12-21** da old devor ötkir infarkti bölgan bemordan olingan V3 kökrak ulanişi körsatilgan; unda xuruj kunidan boşlab 1 hafta, 3 hafta va nihoyat 1 yil ötgandan keyingi EKG özgarişlari namoyiş etilgan. Bu EKG dan köriş mumkinki, ötkir xurujdan söng darhol şikastlaniş potensiali kuçli böladi (T-P segmenti S-T segmentiga nisbatan musbat tomonga siljigan). Biroq taxminan 1 haftadan keyin şikastlaniş potensiali ança kamayadi, 3 haftadan keyin esa yöqoladi. Şundan söng keyingi bir yil davomida EKG unçalik özgarmaydi. Bu örtaça darajadagi ötkir miokard infarktidan keyingi odatiy tiklaniş manzarasi bölib, _yangi kollateral koronar qon oqimi_ infarkt sohasining katta qismini yetarli darajada oziqlantirişni qayta tiklaş uçun yetarliça rivojlanganini körsatadi.
+
+@@ ch12-f125
+Miokard infarktini boşdan keçirgan ayrim bemorlarda infarkt sohasida yetarli koronar qon ta’minoti heç qaçon qayta tiklanmaydi. Köpinça yurak muskulining bir qismi halok böladi, biroq agar muskul halok bölmasa, işemiya davom etar ekan, ayniqsa yurak ortiqça yuklanadigan jismoniy maşq paytlarida, u şikastlaniş potensialini körsatişda davom etadi.
+
+@@ ch12-f126
+LEAD: EKG dagi Q tişçalari eski miokard infarktidan dalolat beradi.
+**Rasm 12-22** da ötkir yurak xurujlaridan taxminan 1 yil ötgaç _old va orqa devor infarktlaridan_ keyingi I va III ulanişlar körsatilgan. Odatda old devor infarktida çap qorinça old devorida muskul massasining yöqolişi tufayli I ulanişda QRS kompleksi boşida Q tişçasi paydo böladi, orqa devor infarktida esa qorinçaning orqa çöqqi qismida muskulning yöqolişi tufayli III ulanişda QRS kompleksi boşida Q tişçasi paydo böladi.
+
+@@ ch12-f128
+Bu şakllar, albatta, eski miokard infarktining barça holatlarida uçrayvermaydi. Muskulning mahalliy yöqolişi va yurak signali ötkazilişining mahalliy blokada nuqtalari QRS ning juda ğayrioddiy şakllarini (masalan, ayniqsa yaqqol Q tişçalari), kuçlanişning pasayişini va QRS ning uzayişini keltirib çiqarişi mumkin.
+
+@@ ch12-f129
+LEAD: Stenokardiyada şikastlaniş toki.
+_Stenokardiya_ (angina pectoris) atamasi kökrak qafasining kökrak sohalarida seziladigan yurakdan kelib çiqadigan oğriqni anglatadi. Bu oğriq odatda böyinning çap sohasiga va çap qöl böylab pastga ham tarqaladi. Oğriq odatda yurakning örtaça darajadagi işemiyasi tufayli yuzaga keladi. Odatda odam tinç turganda oğriq sezilmaydi, ammo yurak ortiqça zöriqişi bilanoq oğriq paydo böladi.
+
+@@ ch12-f130
+Oğir stenokardiya xuruji paytida EKG da ba’zan şikastlaniş potensiali paydo böladi, çunki koronar yetişmovçilik diastola paytida yurakning ayrim sohalarida yetarli repolyarizatsiyaga tösqinlik qiladigan darajada kuçli bölib qoladi.
+
+@@ ch12-f131
+T tişçasidagi özgarişlar
+
+@@ ch12-f132
+Bobning avvalida T tişçasi me’yorda barça standart bipolyar oyoq-qöl ulanişlarida musbat bölişini va bunga qorinçalar çöqqisi hamda taşqi yuzalarining qorinçalar içki yuzalaridan oldin repolyarizatsiyalanişi sabab ekanligini qayd etgan edik. Ya’ni repolyarizatsiyaning me’yoriy ketma-ketligi buzilganda T tişçasi patologik bölib qoladi. Repolyarizatsiyaning bu ketma-ketligini bir qator omillar, jumladan miokard işemiyasi özgartirişi mumkin.
+
+@@ ch12-f133
+Depolyarizatsiya tölqini sekin ötkazilişining T tişçasi xususiyatlariga ta’siri
+
+@@ ch12-f134
+**Rasm 12-14** ga murojaat qilsak, QRS kompleksi ança uzayganini köramiz. Bu uzayişning sababi çap tutam oyoqçasi blokadasi natijasida _çap qorinçada ötkazilişning keçikişidir_. Bu keçikkan ötkaziliş çap qorinçaning öng qorinça depolyarizatsiyasidan taxminan 0,08 soniya keyin depolyarizatsiyalanişiga sabab böladi va _çapga_ yönalgan kuçli örtaça QRS vektorini hosil qiladi. Biroq öng va çap qorinça muskul massalarining refrakter davrlari bir-biridan unçalik farq qilmaydi. Şu sababli öng qorinça çap qorinçadan ança oldin repolyarizatsiyalana boşlaydi; bu T tişçasi şakllanayotgan paytda öng qorinçada kuçli musbatlik, çap qorinçada esa manfiylik yuzaga keltiradi. Boşqaça aytganda, T tişçasining örtaça öqi endi _öngga_ oğgan böladi; bu öşa EKG dagi QRS kompleksining örtaça elektr öqiga qarama-qarşidir. Şunday qilib, depolyarizatsiya impulsining qorinçalar böylab ötkazilişi keskin keçikkanda T tişçasi deyarli har doim QRS kompleksiga qarama-qarşi qutblilikka ega böladi.
+
+@@ ch12-f135
+Qorinça muskuli ayrim qismlarida depolyarizatsiyaning qisqarişi T tişçasi özgarişlariga sabab bölişi mumkin
+
+@@ ch12-f136
+Agar qorinçalar asosida depolyarizatsiya davri patologik darajada qisqa bölsa — ya’ni harakat potensiali qisqargan bölsa — qorinçalar repolyarizatsiyasi me’yordagidek çöqqidan boşlanmaydi. Buning örniga qorinçalar asosi çöqqidan oldin repolyarizatsiyalanadi va repolyarizatsiya vektori standart repolyarizatsiya vektoriga qarama-qarşi ravişda çöqqidan yurak asosi tomon yönalgan böladi. Binobarin, uçala standart ulanişda T tişçasi odatdagidek musbat emas, balki manfiy böladi. Şunday qilib, **Rasm 12-23** da körsatilganidek, qorinçalar asosida depolyarizatsiya davrining qisqarganligi faktining özi T tişçasida yaqqol özgarişlarni, hatto butun T tişçasi qutbliligining özgarişini keltirib çiqariş uçun yetarlidir.
+
+@@ ch12-f138
+_Yengil işemiya_ yurak muskuli depolyarizatsiyasi qisqarişining eng köp uçraydigan sababidir, çunki bu holat kaliy kanallari orqali tok oqimini kuçaytiradi. Işemiya yurakning faqat bitta sohasida yuz berganda şu sohaning depolyarizatsiya davri boşqa qismlardagiga nisbatan nomutanosib ravişda qisqaradi. Natijada T tişçasi morfologiyasidagi özgarişlar, masalan, inversiya yoki ikki fazali şakllar, miokard işemiyasidan dalolat berişi mumkin. Işemiya surunkali, zörayib boruvçi koronar stenoz (torayiş), ötkir koronar okklyuziya, koronar arteriya spazmi yoki jismoniy maşq yoki oğir kamqonlik paytida yuzaga keladigan nisbiy koronar yetişmovçilik natijasida rivojlanişi mumkin.
+
+@@ ch12-f139
+LEAD: Digitalisning T tişçasiga ta’siri.
+22-bobda muhokama qilinganidek, digitalis yurak yetişmovçiligida yurak muskuli qisqariş kuçini oşiriş uçun qöllanilişi mumkin bölgan doridir. Biroq digitalis dozasi oşirib yuborilganda qorinçalarning bir qismida depolyarizatsiya davomiyligi boşqa qismlardagiga nisbatan nomutanosib ravişda uzayişi mumkin. Natijada bir yoki bir neçta elektrokardiografik ulanişlarda T tişçasi inversiyasi yoki ikki fazali T tişçalari kabi nospesifik özgarişlar yuzaga kelişi mumkin. Digitalisni ortiqça qabul qiliş tufayli yuzaga kelgan ikki fazali T tişçasi **Rasm 12-24** da körsatilgan. Şu sababli digitalis qöllaş davomida T tişçasidagi özgarişlar köpinça digitalis toksikligining eng erta belgilari hisoblanadi.
+
+@@ fig:gh14-fig-12-01
+Qisman depolyarizatsiyalangan qorinçalar orqali ötuvçi örtaça vektor çap qorinça asosidan çöqqi tomon yönalgan.
+
+@@ fig:gh14-fig-12-02
+Bir neçta turli yuraklar uçun potensiallarni ifodalaş maqsadida çizilgan vektorlar va har bir yurak uçun potensial öqi (gradusda ifodalangan).
+
+@@ fig:gh14-fig-12-03
+Uçta bipolyar va uçta unipolyar ulanişning öqlari.
+
+@@ fig:gh14-fig-12-04
+_A_ vektori qorinçalardagi oniy potensialni ifodalaganda I ulaniş öqi böylab proyeksiyalangan _B_ vektorini aniqlaş.
+
+@@ fig:gh14-fig-12-05
+_A_ vektori qorinçalardagi oniy potensialni ifodalaganda I ulaniş öqi böylab proyeksiyalangan _B_ vektorini aniqlaş.
+
+@@ fig:gh14-fig-12-06
+_A_ vektori qorinçalardagi oniy potensialni ifodalaganda I, II va III ulanişlardagi proyeksiyalangan vektorlarni aniqlaş.
+
+@@ fig:gh14-fig-12-07
+Qorinçalarning ştrixlangan sohalari depolyarizatsiyalangan (−); ştrixlanmagan sohalar hali polyarizatsiyalangan (+). Qorinçalar vektorlari va QRS komplekslari quyidagi paytlarda körsatilgan: qorinçalar depolyarizatsiyasi boşlanganidan 0,01 soniya keyin (A), depolyarizatsiya boşlanganidan 0,02 soniya keyin (B), 0,035 soniya keyin (C), 0,05 soniya keyin (D) va qorinçalar depolyarizatsiyasi tugagandan keyin, ya’ni boşlanganidan 0,06 soniya ötgaç (E).
+
+@@ fig:gh14-fig-12-08
+Qorinçalar repolyarizatsiyasi davomida T tişçasining hosil bölişi; repolyarizatsiyaning birinçi bosqiçi vektor tahlili ham körsatilgan. T tişçasi boşlanişidan oxirigaça bölgan umumiy vaqt taxminan 0,15 soniya.
+
+@@ fig:gh14-fig-12-09
+Bölmaçalar depolyarizatsiyasi va P tişçasining hosil bölişi: bölmaçalar orqali ötuvçi maksimal vektor va uçta standart ulanişdagi natijaviy vektorlar körsatilgan. Öng tomonda bölmaça P va T tişçalari. SA — sinoatrial tugun.
+
+@@ fig:gh14-fig-12-10
+QRS va T vektorkardiogrammalari.
+
+@@ fig:gh14-fig-12-11
+Qorinçalarning örtaça elektr öqini ikkita elektrokardiografik ulaniş (I va III ulanişlar) böyiça çiziş.
+
+@@ fig:gh14-fig-12-12
+Gipertenziyali yurakda (gipertrofiyalangan çap qorinça) öqning çapga oğişi. QRS kompleksining biroz uzayganiga ham e’tibor bering.
+
+@@ fig:gh14-fig-12-13
+Öng qorinça gipertrofiyasi bilan keçuvçi öpka arteriyasi klapanining tuğma stenozi bölgan odamning yuqori voltajli elektrokardiogrammasi. Öqning öngga keskin oğişi va QRS kompleksining biroz uzayişi ham körinadi.
+
+@@ fig:gh14-fig-12-14
+Çap tutam oyoqçasi blokadasi tufayli öqning çapga oğişi. QRS kompleksining keskin uzayganiga ham e’tibor bering.
+
+@@ fig:gh14-fig-12-15
+Öng tutam oyoqçasi blokadasi tufayli öqning öngga oğişi. QRS kompleksining keskin uzayganiga ham e’tibor bering.
+
+@@ fig:gh14-fig-12-16
+Ilgari ötkazilgan miokard infarkti tufayli qorinçalar böylab mahalliy şikastlanişlardan keyingi past voltajli elektrokardiogramma.
+
+@@ fig:gh14-fig-12-17
+Şikastlaniş tokining elektrokardiogrammaga ta’siri.
+
+@@ fig:gh14-fig-12-18
+I va III ulanişlar elektrokardiogrammalari uçun nol hisob potensiali sifatidagi J nuqta. Pastki panelda şikastlaniş potensiali öqini çiziş usuli ham körsatilgan.
+
+@@ fig:gh14-fig-12-19
+Old devor ötkir infarktida şikastlaniş toki. V2 ulanişdagi kuçli şikastlaniş potensialiga e’tibor bering.
+
+@@ fig:gh14-fig-12-20
+Orqa devorning çöqqi sohasidagi ötkir infarktida şikastlaniş potensiali.
+
+@@ fig:gh14-fig-12-21
+Old devor infarktidan keyin miokardning tiklanişi: infarktdan keyingi birinçi kunda mavjud bölgan şikastlaniş potensialining yöqolişi körsatilgan.
+
+@@ fig:gh14-fig-12-22
+Taxminan 1 yil oldin yuz bergan old va orqa devor infarktlarining elektrokardiogrammalari: old devor infarktida I ulanişda, orqa devor infarktida esa III ulanişda Q tişçasi körinadi.
+
+@@ fig:gh14-fig-12-23
+Qorinçalar asosidagi yengil işemiya natijasida yuzaga kelgan inversiyalangan T tişçasi.
+
+@@ fig:gh14-fig-12-24
+Digitalis toksikligi tufayli yuzaga kelgan ikki fazali T tişçasi.

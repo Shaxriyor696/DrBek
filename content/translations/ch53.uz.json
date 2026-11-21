@@ -1,0 +1,330 @@
+{
+ "lessonId": "ch53",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 53,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "manual",
+ "translator": "Claude (DrStudy sessiyasi)",
+ "model": null,
+ "createdAt": "2026-11-18T14:19:18.408Z",
+ "updatedAt": "2026-11-18T14:19:18.417Z",
+ "coverage": {
+  "translated": 104,
+  "total": 104
+ },
+ "note": "Kitob matnining töliq özbekça tarjimasi (qisqartirilmagan). Ekspert tekşiruvidan ötmagan.",
+ "blocks": {
+  "ch53-f0": {
+   "text": "Bu bobda quloğning tovuş tölqinlarini qabul qiliş, ularning çastotalarini farqlaş va eşitiş axborotini markaziy nerv tizimiga uzatiş mexanizmlari tasvirlanadi. Markaziy nerv tizimida bu axborotning ma’nosi oçiladi."
+  },
+  "ch53-f1": {
+   "text": "Noğora parda va eşitiş suyakçalari tizimi"
+  },
+  "ch53-f2": {
+   "text": "Tovuşning noğora pardadan çiğanoqqa ötkazilişi"
+  },
+  "ch53-f3": {
+   "text": "**Rasm 53-1** da _noğora parda_ (odatda _quloğ pardasi_ deb ataladi) va tovuşni noğora pardadan örta quloq orqali _çiğanoqqa_ (içki quloqqa) ötkazadigan _eşitiş suyakçalari_ körsatilgan. Noğora pardaga _bolğaçaning_ _dastasi_ birikkan. Bolğaça _sandonga_ mitti boylamlar bilan boğlangan, şuning uçun bolğaça har safar harakatlanganda sandon ham u bilan birga harakatlanadi. Sandonning qarama-qarşi uçi _uzangining_ oyoqçasi bilan bögim hosil qiladi, uzangining _asosi_ (tayanç plastinkasi) esa _oval darça_ teşigida çiğanoqning _pardali labirintiga_ tegib turadi."
+  },
+  "ch53-f5": {
+   "text": "Bolğaça dastasining uçi noğora parda markaziga birikkan va bu birikiş nuqtasi noğora pardani tarang saqlab turadigan _noğora pardani taranglaştiruvçi muşak_ tomonidan doimo tortib turiladi. Bu taranglik noğora pardaning _istalgan_ qismidagi tovuş tebranişlarining suyakçalarga uzatilişiga imkon beradi. Parda böş bölganda bu yuz bermagan bölardi."
+  },
+  "ch53-f6": {
+   "text": "Örta quloq suyakçalari boylamlar bilan şunday osilganki, birlaşgan bolğaça va sandon tayanç nuqtasi taxminan noğora parda çetida bölgan bitta riçag sifatida işlaydi."
+  },
+  "ch53-f7": {
+   "text": "Sandonning uzangi bilan bögimi uzangini (1) noğora parda har safar içkariga harakatlanganda oval darçaga va darçaning narigi tomonidagi çiğanoq suyuqligiga oldinga bosişga; va (2) bolğaça har safar taşqariga harakatlanganda suyuqlikni orqaga tortişga majbur qiladi."
+  },
+  "ch53-f8": {
+   "text": "Har bir tovuş tebranişida uzangi asosining harakat amplitudasi bolğaça dastasi amplitudasining atigi törtdan uç qismiga teng. Şuning uçun suyakçalar riçag tizimi keng tarqalgan fikrdagidek uzangining harakat masofasini oşirmaydi. Buning örniga tizim aslida masofani kamaytiradi, ammo harakat _kuçini_ taxminan 1,3 baravar oşiradi. Bundan taşqari, noğora pardaning yuzasi taxminan 55 kvadrat millimetr, uzangi yuzasi esa örtaça 3,2 kvadrat millimetr. Bu 17 baravarlik farq riçag tizimining 1,3 baravarlik nisbatiga köpaytirilganda çiğanoq suyuqligiga tovuş tölqinlari noğora pardaga ta’sir qiladigandan taxminan 22 baravar köp _umumiy kuç_ ta’sir qiladi. Suyuqlikning inersiyasi havonikidan ança katta bölgani uçun suyuqlikda tebraniş hosil qiliş uçun köproq kuç zarur. Şuning uçun noğora parda va suyakçalar tizimi havodagi tovuş tölqinlari va çiğanoq suyuqligidagi tovuş tebranişlari orasida _impedans moslaşuvini_ ta’minlaydi. Impedans moslaşuvi 300 dan 3000 sikl/s gaça bölgan tovuş çastotalari uçun mukammal moslaşuvning taxminan 50–75% ini taşkil etadi, bu kirayotgan tovuş tölqinlaridagi energiyaning köp qismidan foydalaniş imkonini beradi.",
+   "lead": "Eşitiş suyakçalari tizimi orqali “impedans moslaşuvi”."
+  },
+  "ch53-f9": {
+   "text": "Suyakçalar tizimi va noğora parda bölmaganda tovuş tölqinlari baribir örta quloq havosi orqali bevosita ötib, oval darça orqali çiğanoqqa kirişi mumkin. Biroq bunda eşitiş sezgirligi suyakçalar orqali uzatilişdagiga qaraganda 15–20 detsibel past böladi — bu örtaça ovoz darajasidan zörğa seziladigan ovoz darajasigaça pasayişga teng."
+  },
+  "ch53-f10": {
+   "text": "Baland tovuşlar suyakçalar tizimi orqali va u yerdan markaziy nerv tizimiga uzatilganda atigi 40–80 millisekundlik yaşirin davrdan keyin _uzangi muşagining_ va kamroq darajada _noğora pardani taranglaştiruvçi muşakning_ qisqarişiga olib keladigan refleks yuzaga keladi. Noğora pardani taranglaştiruvçi muşak bolğaça dastasini içkariga, uzangi muşagi esa uzangini taşqariga tortadi. Bu ikki kuç bir-biriga qarşi ta’sir qiladi va şu bilan butun suyakçalar tizimining qattiqligini oşiradi. Natijada past çastotali tovuşning, asosan 1000 sikl/s dan past çastotalarning suyakçalar orqali ötkazilişi keskin kamayadi.",
+   "lead": "Noğora pardani taranglaştiruvçi muşak va uzangi muşagi qisqarişi orqali tovuşning susaytirilişi."
+  },
+  "ch53-f11": {
+   "text": "Bu _susaytiruvçi refleks_ past çastotali tovuş uzatiliş jadalligini 30–40 detsibelga kamaytirişi mumkin, bu taxminan baland ovoz va piçirlaş orasidagi farqqa teng. Bu mexanizmning vazifasi ikki xil deb hisoblanadi: çiğanoqni haddan taşqari baland tovuş keltirib çiqaradigan zararli tebranişlardan _himoya qiliş_ va şovqinli muhitda past çastotali tovuşlarni _niqoblaş_. Niqoblaş odatda fon şovqinining katta qismini olib taşlaydi va odamga ovozli muloqotdagi muhim axborotning köp qismi uzatiladigan 1000 sikl/s dan yuqori tovuşlarga e’tiborni qarataş imkonini beradi."
+  },
+  "ch53-f12": {
+   "text": "Noğora pardani taranglaştiruvçi va uzangi muşaklarining yana bir vazifasi odamning öz nutqiga eşitiş sezgirligini kamaytirişdir. Bu ta’sir miya ovoz mexanizmini faollaştirgan bir vaqtda bu muşaklarga uzatiladigan kollateral nerv signallari bilan faollaşadi."
+  },
+  "ch53-f13": {
+   "text": "Tovuşning suyak orqali uzatilişi"
+  },
+  "ch53-f14": {
+   "text": "Içki quloq — _çiğanoq_ çakka suyagidagi _suyak labirinti_ deb ataluvçi suyak böşliğiga botib turgani uçun butun kalla suyagining tebranişlari çiğanoqda suyuqlik tebranişlariga sabab bölişi mumkin. Şuning uçun tegişli şaroitda kalla suyagining istalgan suyak börtmasiga, ayniqsa quloq yonidagi sörğiçsimon ösimtaga qöyilgan kamerton yoki elektron tebratkiç odamga tovuşni eşitişga imkon beradi. Biroq hatto havodagi baland tovuşdagi energiya ham suyakka maxsus elektromexanik tovuş kuçaytiruvçi qurilma qöyilmasa, suyak orqali ötkaziş bilan eşitişni yuzaga keltiriş uçun yetarli emas."
+  },
+  "ch53-f15": {
+   "text": "Çiğanoq"
+  },
+  "ch53-f16": {
+   "text": "Çiğanoqning funksional anatomiyasi"
+  },
+  "ch53-f17": {
+   "text": "Çiğanoq **Rasm 53-1** da va köndalang kesimda **Rasm 53-2** da körsatilgan buralgan naylar tizimidir. U yonma-yon buralgan uçta naydan iborat: (1) _dahliz narvoni_ (scala vestibuli); (2) _örta narvon_ (scala media); va (3) _noğora narvoni_ (scala tympani). Dahliz narvoni va örta narvon bir-biridan **Rasm 53-2**B da körsatilgan _Reysner membranasi_ (u _dahliz membranasi_ deb ham ataladi) bilan ajralgan. Noğora narvoni va örta narvon bir-biridan _bazilyar membrana_ bilan ajralgan. Bazilyar membrana yuzasida bir qator elektromexanik sezgir hujayralar — _tukli hujayralarni_ saqlovçi _Korti a’zosi_ joylaşgan. Ular tovuş tebranişlariga javoban nerv impulslarini hosil qiladigan retseptor oxirgi a’zolardir."
+  },
+  "ch53-f19": {
+   "text": "**Rasm 53-3** da tovuş tebranişlarini ötkaziş uçun yoyilgan çiğanoqning funksional qismlari sxematik körsatilgan. Avval e’tibor bering: bu rasmda Reysner membranasi yöq. Bu membrana şunçalik yupqa va oson harakatlanadiki, dahliz narvonidan örta narvonga tovuş tebranişlarining ötişiga tösqinlik qilmaydi. Şuning uçun tovuşning suyuqlik orqali ötkazilişi nuqtai nazaridan dahliz narvoni va örta narvon bitta kamera deb hisoblanadi. Keyinroq muhokama qilinganidek, Reysner membranasi örta narvonda tovuşni qabul qiluvçi tukli hujayralarning me’yoriy işlaşi uçun zarur bölgan maxsus turdagi suyuqlikni saqlab turadi."
+  },
+  "ch53-f21": {
+   "text": "Tovuş tebranişlari dahliz narvoniga oval darçadagi uzangi asosidan kiradi. Uzangi asosi bu darçani yopib turadi va darça çetlari bilan böş halqasimon boylam orqali boğlangan, şuning uçun u tovuş tebranişlari bilan içkariga va taşqariga harakatlana oladi. Içkariga harakat suyuqlikning dahliz narvoni va örta narvonda oldinga harakatlanişiga, taşqariga harakat esa suyuqlikning orqaga harakatlanişiga sabab böladi."
+  },
+  "ch53-f22": {
+   "text": "Bazilyar membrana örta narvonni noğora narvonidan ajratib turadigan tolali membrana. Unda çiğanoqning suyak markazi — _modiolusdan_ taşqi devorga qarab çözilgan 20 000 dan 30 000 gaça _bazilyar tolalar_ bor. Bu tolalar qattiq, elastik, qamişsimon tuzilmalar bölib, asos uçlari bilan çiğanoqning markaziy suyak tuzilmasiga (modiolusga) mahkamlangan, distal uçlari esa mahkamlanmagan, faqat böş bazilyar membranaga botib turadi. Tolalar qattiq va bir uçi erkin bölgani uçun ular garmonika qamişlari kabi tebrana oladi.",
+   "lead": "Bazilyar membrana va çiğanoqdagi rezonans."
+  },
+  "ch53-f23": {
+   "text": "Bazilyar tolalarning _uzunligi_ oval darçadan boşlab çiğanoq asosidan çöqqisiga qarab asta-sekin _ortadi_: oval va yumaloq darçalar yonida taxminan 0,04 millimetrdan çiğanoq uçida (“_gelikotrema_”da) 0,5 millimetrgaça, ya’ni 12 baravar uzayadi. Biroq tolalarning _diametri_ oval darçadan gelikotremaga qarab _kamayadi_, şuning uçun ularning umumiy qattiqligi 100 baravardan köproq kamayadi. Natijada çiğanoqning oval darçasi yonidagi qattiq, qisqa tolalar juda yuqori çastotada eng yaxşi tebranadi, çiğanoq uçi yonidagi uzun, egiluvçan tolalar esa past çastotada eng yaxşi tebranadi."
+  },
+  "ch53-f24": {
+   "text": "Şunday qilib, bazilyar membrananing _yuqori çastotali rezonansi_ tovuş tölqinlari çiğanoqqa oval darça orqali kiradigan asos yonida yuz beradi. _Past çastotali rezonans_ esa gelikotrema yonida yuz beradi. Bu asosan tolalarning kamroq qattiqligi bilan, ammo şuningdek çiğanoq naylari böylab tebraniş kerak bölgan qöşimça suyuqlik massalari tufayli “yuklamaning” ortişi bilan ham boğliq."
+  },
+  "ch53-f25": {
+   "text": "Çiğanoqda tovuş tölqinlarining uzatilişi — “yuguruvçi tölqin”"
+  },
+  "ch53-f26": {
+   "text": "Uzangi asosi _oval_ darçaga qarab içkariga harakatlanganda _yumaloq_ darça taşqariga börtişi kerak, çunki çiğanoq barça tomondan suyak devorlar bilan çegaralangan. Oval darçaga kirgan tovuş tölqinining dastlabki ta’siri çiğanoq asosidagi bazilyar membranani yumaloq darça tomonga egişdan iborat. Biroq bazilyar tolalar yumaloq darça tomonga egilganda ularda hosil bölgan elastik taranglik bazilyar membrana böylab gelikotremaga qarab “yuguradigan” suyuqlik tölqinini boşlab beradi. **Rasm 53-4A** da yuqori çastotali tölqinning bazilyar membrana böylab harakati, **Rasm 53-4B** da örta çastotali tölqin, **Rasm 53-4C** da esa juda past çastotali tölqin körsatilgan. Tölqinning bazilyar membrana böylab harakatini 15-bobda muhokama qilingan bosim tölqinining arteriya devorlari böylab harakati bilan taqqoslaş mumkin; uni hovuz yuzasi böylab yuguradigan tölqin bilan ham taqqoslaş mumkin."
+  },
+  "ch53-f28": {
+   "text": "**Rasm 53-4** da turli çastotali tovuş tölqinlarining turliça uzatiliş tartiblariga e’tibor bering. Har bir tölqin boşida nisbatan kuçsiz, ammo bazilyar membrananing tabiiy rezonans çastotasi tegişli tovuş çastotasiga teng bölgan qismiga yetganda kuçayadi. Bu nuqtada bazilyar membrana şunçalik oson u yoqdan-bu yoqqa tebrana oladiki, tölqindagi energiya sarflanadi. Natijada tölqin şu nuqtada sönadi va bazilyar membrana böylab qolgan masofani bosib öta olmaydi.",
+   "lead": "Turli tovuş çastotalarida bazilyar membrananing tebraniş tartiblari."
+  },
+  "ch53-f29": {
+   "text": "Şunday qilib, yuqori çastotali tovuş tölqini rezonans nuqtasiga yetib söngunça bazilyar membrana böylab faqat qisqa masofani bosib ötadi, örta çastotali tovuş tölqini taxminan yarim yölni bosib ötib sönadi, juda past çastotali tovuş tölqini esa membrana böylab butun masofani bosib ötadi."
+  },
+  "ch53-f30": {
+   "text": "Yuguruvçi tölqinning yana bir xususiyati şundaki, u bazilyar membrananing boşlanğiç qismi böylab tez harakatlanadi, ammo çiğanoqqa çuqurroq kirgan sari borgan sari sekinlaşadi. Bu farqning sababi oval darça yonidagi bazilyar tolalarning yuqori elastiklik koeffitsiyenti va membrana böylab uzoqlaşgan sari koeffitsiyentning asta-sekin kamayişidir. Tölqinning bu tez boşlanğiç uzatilişi yuqori çastotali tovuşlarga çiğanoqqa yetarli darajada uzoq kirib, bazilyar membranada tarqalişi va bir-biridan ajralişi imkonini beradi. Bu tez boşlanğiç uzatilişsiz barça yuqori çastotali tölqinlar bazilyar membrananing dastlabki taxminan bir millimetri içida töplanib qolardi va ularning çastotalarini farqlab bölmasdi."
+  },
+  "ch53-f31": {
+   "text": "**Rasm 53-5A** dagi uzuq egri çiziqlar uzangi (a) butunlay içkarida, (b) neytral nuqtaga qaytgan, (c) butunlay taşqarida va (d) yana neytral nuqtaga qaytgan, ammo içkariga harakatlanayotgan paytdagi tovuş tölqinining bazilyar membranadagi holatini körsatadi. Bu turli tölqinlar atrofidagi bölangan soha töliq tebraniş sikli davomida bazilyar membrananing tebraniş kölamini körsatadi. Bu bazilyar membrananing şu tovuş çastotasi uçun _tebraniş amplitudasi tartibidir_.",
+   "lead": "Bazilyar membrana tebranişining amplituda tartibi."
+  },
+  "ch53-f33": {
+   "text": "**Rasm 53-5B** da turli çastotalar uçun tebraniş amplitudasi tartiblari körsatilgan: 8000 sikl/s li tovuş uçun maksimal amplituda çiğanoq asosi yonida, 200 sikl/s dan past çastotalar uçun esa bazilyar membrananing eng uçida, noğora narvoni va dahliz narvoni boğlanadigan mitti teşik — gelikotrema yonida bölişi körsatilgan (**Rasm 53-2**)."
+  },
+  "ch53-f34": {
+   "text": "Tovuş çastotalarini bir-biridan farqlaşning asosiy usuli keyingi bölimda tuşuntirilganidek, bazilyar membranada joylaşgan Korti a’zosidan keladigan nerv tolalari maksimal qözğaladigan “joyga” asoslangan."
+  },
+  "ch53-f35": {
+   "text": "Korti a’zosining funksiyasi"
+  },
+  "ch53-f36": {
+   "text": "**Rasm 53-2** va **Rasm 53-6** da körsatilgan Korti a’zosi bazilyar membrana tebranişiga javoban nerv impulslarini hosil qiladigan retseptor a’zodir. E’tibor bering: Korti a’zosi bazilyar tolalar va bazilyar membrana yuzasida joylaşgan. Korti a’zosidagi haqiqiy sezgi retseptorlari _tukli hujayralar_ deb ataluvçi ikki xil ixtisoslaşgan nerv hujayralaridir: soni taxminan 3500 ta, diametri taxminan 12 mikrometr bölgan bir qator _içki tukli hujayralar_ va soni taxminan 12 000 ta, diametri atigi taxminan 8 mikrometr bölgan uç-tört qator _taşqi tukli hujayralar_. Tukli hujayralarning asoslari va yon tomonlari çiğanoq nervi uçlari töri bilan sinaps hosil qiladi. Bu uçlarning 90–95% i içki tukli hujayralarda tugaydi, bu ularning tovuşni aniqlaşdagi alohida ahamiyatini ta’kidlaydi."
+  },
+  "ch53-f38": {
+   "text": "Tukli hujayralar qözğatadigan nerv tolalari çiğanoqning modiolusida (markazida) joylaşgan _Korti spiral gangliyasiga_ boradi. Spiral gangliya neyron hujayralari jami taxminan 30 000 ta aksonni _çiğanoq nerviga_, söngra uzunçoq miyaning yuqori qismi sathida markaziy nerv tizimiga yuboradi. Korti a’zosining spiral gangliya va çiğanoq nervi bilan munosabati **Rasm 53-2** da körsatilgan."
+  },
+  "ch53-f39": {
+   "text": "**Rasm 53-6** da e’tibor bering: tukli hujayralardan yuqoriga mitti tukçalar yoki _stereotsiliyalar_ çiqib turadi. Ular örta narvonda stereotsiliyalar ustida joylaşgan _qoplovçi (tektorial) membrananing_ yuza gel qatlamiga tegib turadi yoki unga botib kiradi. Bu tukli hujayralar 56-bobda muhokama qilinadigan vestibulyar apparatning doğ (makula) va ampulyar qirralarida uçraydigan tukli hujayralarga öxşaydi. Tukçalarning bir yönalişda egilişi tukli hujayralarni depolyarizatsiyalaydi, qarama-qarşi yönalişda egilişi esa giperpolyarizatsiyalaydi. Bu esa öz navbatida ularning asoslari bilan sinaps hosil qiladigan eşitiş nervi tolalarini qözğatadi.",
+   "lead": "Tukli hujayralarning qözğalişi."
+  },
+  "ch53-f40": {
+   "text": "**Rasm 53-7A** da bazilyar membrana tebranişi tukli uçlarni qözğatadigan mexanizm körsatilgan. Tukli hujayralarning taşqi uçlari _törsimon plastinka_ deb ataluvçi yassi plastinkadan iborat qattiq tuzilmaga mahkam qadalgan. Bu plastinkani bazilyar tolalarga mahkam birikkan uçburçak şaklidagi _Korti ustunçalari_ tutib turadi. Bazilyar tolalar, Korti ustunçalari va törsimon plastinka bitta qattiq birlik sifatida harakatlanadi."
+  },
+  "ch53-f42": {
+   "text": "Bazilyar tolaning yuqoriga harakati törsimon plastinkani yuqoriga va modiolusga qarab _içkariga_ tebratadi. Söngra bazilyar membrana pastga harakatlanganda törsimon plastinka pastga va _taşqariga_ tebranadi. Bu içkariga va taşqariga harakat tukli hujayralardagi tukçalarning qoplovçi membranaga nisbatan u yoqdan-bu yoqqa siljişiga sabab böladi. Şunday qilib, bazilyar membrana har safar tebranganda tukli hujayralar qözğaladi."
+  },
+  "ch53-f43": {
+   "text": "Taşqi tukli hujayralar içki tukli hujayralardan 3–4 baravar köp bölsa-da, eşitiş nervi tolalarining taxminan 90% i taşqi emas, içki hujayralar tomonidan qözğatiladi. Şunga qaramay, içki hujayralar töliq işlab turgan holda taşqi hujayralar şikastlansa, eşitişning katta qismi yöqoladi. Şuning uçun taşqi tukli hujayralar qandaydir yöl bilan içki tukli hujayralarning turli tovuş balandliklaridagi sezgirligini boşqaradi, degan fikr ilgari surilgan. Bu hodisa retseptor tizimining “_sozlanişi_” deb ataladi. Bu tuşunçani köp sonli retrograd nerv tolalarining miya stvolidan taşqi tukli hujayralar atrofiga borişi qöllab-quvvatlaydi. Bu nerv tolalarini qözğatiş haqiqatan ham taşqi tukli hujayralarning qisqarişiga va ehtimol ularning qattiqlik darajasining özgarişiga ham sabab bölişi mumkin. Bu ta’sirlar quloğning turli tovuş balandliklariga sezgirligini taşqi tukli hujayralar orqali faollaşadigan retrograd nerv mexanizmi boşqarişini körsatadi.",
+   "lead": "Eşitiş signallari asosan içki tukli hujayralar orqali uzatiladi."
+  },
+  "ch53-f44": {
+   "text": "Stereotsiliyalar (ya’ni tukli hujayralar uçlaridan çiqib turgan “tukçalar”) qattiq tuzilmalardir, çunki ularning har birida mustahkam oqsil karkas bor. Har bir tukli hujayraning apikal çetida taxminan 100 ta stereotsiliya bor. Bu stereotsiliyalar tukli hujayraning modiolusdan uzoq tomoniga qarab borgan sari uzunlaşadi. Qisqaroq stereotsiliyalarning uçlari yupqa iplar bilan ularga qöşni uzunroq stereotsiliyalarning orqa tomonlariga birikkan. Şuning uçun tukçalar har safar uzunroqlari tomonga egilganda kiçikroq stereotsiliyalarning uçlari tukli hujayra yuzasidan taşqariga tortiladi. Bu 200–300 ta kation ötkazuvçi kanalni oçadigan mexanik transduksiyani yuzaga keltiradi va musbat zaryadli kaliy ionlarining atrofdagi örta narvon suyuqligidan stereotsiliyalarga tez harakatlanişiga imkon beradi. Bu tukli hujayra membranasining depolyarizatsiyasiga sabab böladi (qarang: **Rasm 53-7B**). Depolyarizatsiya kuçlanişga sezgir kalsiy kanallarini oçadi va kalsiy ionlarining kirişiga sabab bölib, depolyarizatsiyani kuçaytiradi. Tukli hujayraning repolyarizatsiyasi asosan kaliy ionlarining kalsiy ioniga sezgir kaliy kanallari orqali çiqişi bilan yuz beradi.",
+   "lead": "Tukli hujayralarning retseptor potensiallari va eşitiş nervi tolalarining qözğalişi."
+  },
+  "ch53-f45": {
+   "text": "Şunday qilib, bazilyar tolalar dahliz narvoni tomonga egilganda tukli hujayralar depolyarizatsiyalanadi, qarama-qarşi yönalişda esa giperpolyarizatsiyalanadi. Şu bilan tukli hujayraning özgaruvçan retseptor potensiali hosil böladi va u öz navbatida tukli hujayralar asoslari bilan sinaps hosil qiladigan çiğanoq nervi uçlarini qözğatadi. Depolyarizatsiya vaqtida bu sinapslarda tukli hujayralar tez ta’sir qiluvçi neyromediator — glutamatni ajratadi, deb hisoblanadi."
+  },
+  "ch53-f46": {
+   "text": "Tukli hujayralar hosil qiladigan elektr potensiallarini yanada töliqroq tuşuntiriş uçun _endokoxlear potensial_ deb ataluvçi yana bir elektr hodisani tuşuntiriş kerak. Örta narvon dahliz narvoni va noğora narvonidagi _perilimfadan_ farqli ravişda _endolimfa_ deb ataluvçi suyuqlik bilan tölgan. Dahliz narvoni va noğora narvoni miya atrofidagi subaraxnoidal böşliq bilan bevosita boğlangan, şuning uçun perilimfa orqa miya suyuqligi bilan deyarli bir xil. Aksinça, örta narvonni töldirib turgan endolimfa örta narvonning taşqi devoridagi qon tomirlariga juda boy soha — _tomirli yöl_ (stria vascularis) tomonidan ajratiladigan butunlay boşqa suyuqlikdir. Endolimfada kaliy konsentratsiyasi yuqori, natriy konsentratsiyasi esa past, bu perilimfa tarkibiga mutlaqo teskari.",
+   "lead": "Endokoxlear potensial."
+  },
+  "ch53-f47": {
+   "text": "Endolimfa va perilimfa orasida doimo taxminan +80 millivoltlik elektr potensiali mavjud: örta narvon içi musbat, taşqarisi manfiy. Bu _endokoxlear potensial_ deb ataladi va u tomirli yöl tomonidan örta narvonga musbat kaliy ionlarining uzluksiz sekretsiyasi natijasida hosil böladi."
+  },
+  "ch53-f48": {
+   "text": "Endokoxlear potensialning ahamiyati şundaki, tukli hujayralarning uçlari törsimon plastinkadan ötib, örta narvonning endolimfasi bilan yuvilib turadi, tukli hujayralarning pastki tanalarini esa perilimfa yuvib turadi. Bundan taşqari, tukli hujayralarning hujayra içi potensiali perilimfaga nisbatan −70 millivolt manfiy, ammo tukçalar törsimon plastinkadan ötib endolimfaga kiradigan yuqori yuzalarida endolimfaga nisbatan −150 millivolt. Stereotsiliyalar uçidagi bu yuqori elektr potensiali hujayrani qöşimça sezgir qiladi va şu bilan uning eng kuçsiz tovuşga ham javob beriş qobiliyatini oşiradi, deb hisoblanadi."
+  },
+  "ch53-f49": {
+   "text": "Tovuş çastotasini aniqlaş — “joy” tamoyili"
+  },
+  "ch53-f50": {
+   "text": "Bobning avvalgi mulohazalaridan past çastotali tovuşlar çiğanoq çöqqisi yonida, yuqori çastotali tovuşlar esa çiğanoq asosi yonida bazilyar membranani maksimal faollaştirişi aniq. Oraliq çastotali tovuşlar membranani ikki çekka orasidagi oraliq masofalarda faollaştiradi. Bundan taşqari, çiğanoqdan boş miya pöstloğigaça butun çiğanoq yölida nerv tolalarining fazoviy taşkil topişi mavjud. Miya stvolining eşitiş yöllarida va boş miya pöstloğining eşitiş retseptiv maydonlarida signallarni yozib oliş muayyan miya neyronlari muayyan tovuş çastotalari bilan faollaşişini körsatadi. Şuning uçun nerv tizimining turli tovuş çastotalarini aniqlaş uçun foydalanadigan _asosiy_ usuli bazilyar membrana böylab eng köp qözğaladigan joylarni aniqlaşdir. Bu tovuş çastotasini aniqlaşning _joy tamoyili_ deb ataladi."
+  },
+  "ch53-f51": {
+   "text": "**Rasm 53-5** ga yana qarasak, gelikotremadagi bazilyar membrananing distal uçi 200 sikl/s dan past barça tovuş çastotalari bilan qözğalişini köriş mumkin. Şuning uçun joy tamoyili asosida 200 dan 20 sikl/s gaça oraliqdagi past tovuş çastotalarini qanday farqlaş mumkinligini tuşuniş qiyin bölgan. Bu past çastotalar asosan _zalp_ yoki _çastota tamoyili_ deb ataluvçi tamoyil bilan farqlanadi, deb taxmin qilinadi. Ya’ni 20 dan 1500–2000 sikl/s gaça bölgan past çastotali tovuşlar xuddi şu çastotalarda sinxronlaşgan nerv impulslari zalplarini yuzaga keltirişi mumkin va bu zalplar çiğanoq nervi orqali miyaning çiğanoq yadrolariga uzatiladi. Bundan taşqari, çiğanoq yadrolari zalplarning turli çastotalarini farqlay oladi, deb taxmin qilinadi. Haqiqatan ham, me’yorda barça pastroq çastotali tovuşlar aniqlanadigan bazilyar membranani yemiradigan çiğanoqning butun çöqqi yarmini yemiriş pastroq çastotali tovuşlarni farqlaşni butunlay yöqotmaydi."
+  },
+  "ch53-f52": {
+   "text": "Tovuş balandligini aniqlaş"
+  },
+  "ch53-f53": {
+   "text": "Tovuş balandligi eşitiş tizimi tomonidan kamida uç yöl bilan aniqlanadi."
+  },
+  "ch53-f54": {
+   "text": "Birinçidan, tovuş balandlaşgani sari bazilyar membrana va tukli hujayralarning tebraniş amplitudasi ham ortadi, şuning uçun tukli hujayralar nerv uçlarini tezroq qözğatadi."
+  },
+  "ch53-f55": {
+   "text": "Ikkinçidan, tebraniş amplitudasi ortgani sari bazilyar membrananing rezonanslanayotgan qismi çetlaridagi tobora köproq tukli hujayralar qözğaladi va şu bilan impulslarning _fazoviy summatsiyasi_, ya’ni bir neça emas, köplab nerv tolalari orqali uzatiliş yuzaga keladi."
+  },
+  "ch53-f56": {
+   "text": "Uçinçidan, taşqi tukli hujayralar bazilyar membrana tebranişi yuqori jadallikka yetmaguniça sezilarli qözğalmaydi va bu hujayralarning qözğalişi ehtimol nerv tizimiga tovuş baland ekani haqida xabar beradi."
+  },
+  "ch53-f57": {
+   "text": "47-bobda körsatilganidek, odam sezgi qözğatuvçilari jadalligining özgarişlarini haqiqiy jadallikning teskari daraja funksiyasiga taxminan mutanosib ravişda talqin qiladi. Tovuş holatida talqin qilinadigan sezgi haqiqiy tovuş jadalligining kub ildiziga taxminan mutanosib özgaradi. Bu tuşunçani boşqaça ifodalasak, quloq eng zaif piçirlaşdan eng baland şovqingaça bölgan tovuş jadalligi farqlarini ajrata oladi. Bu tovuş energiyasining _taxminan 1 trillion baravar_ yoki bazilyar membrana harakati amplitudasining 1 million baravar ortişini ifodalaydi. Biroq quloq tovuş darajasidagi bunça katta farqni taxminan 10 000 baravarlik özgariş sifatida talqin qiladi. Şunday qilib, jadallik şkalasi eşitiş tizimining tovuşni idrok etiş mexanizmlari tomonidan keskin “siqiladi”. Bu odamga tovuş jadalliklaridagi farqlarni jadallik şkalasi siqilmaganda mumkin bölganidan ança keng diapazonda talqin qiliş imkonini beradi.",
+   "lead": "Tovuş balandligi özgarişlarini aniqlaş — daraja qonuni."
+  },
+  "ch53-f58": {
+   "text": "Quloq aniqlay va farqlay oladigan tovuş jadalliklarining juda katta özgarişlari tufayli tovuş jadalliklari odatda ularning haqiqiy jadalliklari logarifmi bilan ifodalanadi. Tovuş energiyasining 10 baravar ortişi 1 _bel_, 0,1 bel esa 1 _detsibel_ deb ataladi. Bir detsibel tovuş energiyasining haqiqiy 1,26 baravar ortişini ifodalaydi. Tovuş balandligi özgarişlarini ifodalaş uçun detsibel tizimidan foydalanişning yana bir sababi şundaki, muloqot uçun odatiy tovuş jadalligi diapazonida quloqlar tovuş jadalligining taxminan 1 detsibellik _özgarişini_ zörğa farqlay oladi.",
+   "lead": "Detsibel birligi."
+  },
+  "ch53-f59": {
+   "text": "**Rasm 53-8** da turli çastotali tovuşlarni quloq zörğa eşita oladigan bosim bösağalari körsatilgan. Bu rasm 3000 sikl/s li tovuşni uning jadalligi 1 dina/sm² tovuş bosimi darajasidan 70 detsibel past, ya’ni kvadrat santimetrga mikrovattning ön milliondan biri bölganda ham eşitiş mumkinligini körsatadi. Aksinça, 100 sikl/s li tovuşni faqat uning jadalligi bundan 10 000 baravar katta bölgandagina aniqlaş mumkin.",
+   "lead": "Turli çastotalarda tovuşni eşitiş bösağasi."
+  },
+  "ch53-f61": {
+   "text": "Yoş odam eşita oladigan tovuş çastotalari 20 dan 20 000 sikl/s gaça. Biroq **Rasm 53-8** ga yana qarasak, tovuş diapazoni köp jihatdan tovuş balandligiga boğliq ekanini köramiz. Agar tovuş balandligi 1 dina/sm² tovuş bosimi darajasidan 60 detsibel past bölsa, tovuş diapazoni 500 dan 5000 sikl/s gaça; faqat kuçli tovuşlarda 20 dan 20 000 siklgaça bölgan töliq diapazonga erişiş mumkin. Keksalikda bu çastota diapazoni odatda bobning keyingi qismida muhokama qilinganidek, 50 dan 8000 sikl/s gaça yoki undan ham kamroqqaça qisqaradi.",
+   "lead": "Eşitişning çastota diapazoni."
+  },
+  "ch53-f62": {
+   "text": "Markaziy eşitiş mexanizmlari"
+  },
+  "ch53-f63": {
+   "text": "Eşitiş nerv yöllari"
+  },
+  "ch53-f64": {
+   "text": "**Rasm 53-9** da asosiy eşitiş yöllari körsatilgan. _Korti spiral gangliyasidan_ keladigan nerv tolalari uzunçoq miyaning yuqori qismida joylaşgan _dorsal_ va _ventral çiğanoq yadrolariga_ kiradi. Bu nuqtada barça tolalar sinaps hosil qiladi va ikkinçi tartibli neyronlar asosan miya stvolining qarama-qarşi tomoniga ötib, _yuqori zaytunsimon yadroda_ tugaydi. Bir neça ikkinçi tartibli tolalar xuddi şu tomondagi yuqori zaytunsimon yadroga ham boradi."
+  },
+  "ch53-f66": {
+   "text": "Yuqori zaytunsimon yadrodan eşitiş yöli _lateral qovuzloq_ orqali yuqoriga ötadi. Tolalarning bir qismi _lateral qovuzloq yadrosida_ tugaydi, ammo köp tolalar bu yadroni aylanib ötib, pastki töpaga boradi va u yerda barça yoki deyarli barça eşitiş tolalari sinaps hosil qiladi. U yerdan yöl _medial tizzasimon yadroga_ ötadi va u yerda barça tolalar albatta sinaps hosil qiladi. Nihoyat yöl _eşitiş nurlanişi_ orqali asosan çakka bölagining yuqori puştasida joylaşgan _eşitiş pöstloğiga_ boradi."
+  },
+  "ch53-f67": {
+   "text": "Bir neça muhim jihatlarga e’tibor beriş kerak. Birinçidan, ikkala quloqdan keladigan signallar miyaning ikkala tomonidagi yöllar orqali uzatiladi, bunda qarama-qarşi tomondagi yölda uzatiliş ustunlik qiladi. Miya stvolida kamida uç joyda ikki yöl orasida kesişiş yuz beradi: (1) trapetsiyasimon tanada; (2) lateral qovuzloqlarning ikki yadrosi orasidagi bitişmada; va (3) ikki pastki töpani boğlovçi bitişmada."
+  },
+  "ch53-f68": {
+   "text": "Ikkinçidan, eşitiş yöllaridan köplab kollateral tolalar bevosita _miya stvolining retikulyar faollaştiruvçi tizimiga_ ötadi. Bu tizim miya stvolida yuqoriga va orqa miyaga pastga diffuz proyeksiyalanadi va baland tovuşlarga javoban butun nerv tizimini faollaştiradi. Boşqa kollaterallar tösatdan şovqin bölganda yana bir zumda faollaşadigan _miyaça çuvalçangiga_ boradi."
+  },
+  "ch53-f69": {
+   "text": "Uçinçidan, çiğanoqdan pöstloqqaça tolalar yöllarida yuqori darajadagi fazoviy yönalganlik saqlanadi. Aslida çiğanoq yadrolarida turli tovuş çastotalarining tugaşining _uçta fazoviy tartibi_, pastki töpalarda _ikki tartibi_, eşitiş pöstloğida alohida tovuş çastotalari uçun _bitta aniq tartib_ va eşitiş pöstloğida hamda eşitiş assotsiativ sohalarida _kamida yana beşta kamroq aniq tartib_ bor."
+  },
+  "ch53-f70": {
+   "text": "Eşitiş nervidan çiğanoq yadrolariga kiradigan alohida nerv tolalari soniyasiga kamida 1000 tagaça tezlikda razryadlanişi mumkin va bu tezlik asosan tovuş balandligi bilan belgilanadi. 2000–4000 sikl/s gaça bölgan tovuş çastotalarida eşitiş nervi impulslari köpinça tovuş tölqinlari bilan sinxronlaşadi, ammo har bir tölqinda yuz beriş şart emas.",
+   "lead": "Eşitiş yöllarining turli sathlarida razryadlaniş tezliklari."
+  },
+  "ch53-f71": {
+   "text": "Miya stvolining eşitiş yöllarida razryadlaniş odatda 200 sikl/s dan past tovuş çastotalaridan taşqari tovuş çastotasi bilan endi sinxronlaşmaydi. Pastki töpalar sathidan yuqorida hatto bu sinxronlaşuv ham asosan yöqoladi. Bu ma’lumotlar tovuş signallari quloqdan miyaning yuqori sathlariga bevosita özgarmasdan uzatilmasligini körsatadi; buning örniga tovuş signallaridan keladigan axborot çiğanoq yadrolari kabi past sathlardayoq impulslar oqimidan ajratib olina boşlaydi. Bu mavzu haqida keyinroq, ayniqsa tovuş kelayotgan yönalişni idrok etiş bilan boğliq holda batafsilroq gapiramiz."
+  },
+  "ch53-f72": {
+   "text": "Eşitişda boş miya pöstloğining funksiyasi"
+  },
+  "ch53-f73": {
+   "text": "Eşitiş signallarining boş miya pöstloğidagi proyeksiya sohasi **Rasm 53-10** da körsatilgan. Unda eşitiş pöstloği asosan _yuqori çakka puştasining supratemporal tekisligida_ joylaşgani, ammo _çakka bölagining yon tomoniga_, _orolça pöstloğining_ köp qismiga va hatto _tepa qopqoğining_ lateral qismigaça tarqalişi körsatilgan."
+  },
+  "ch53-f75": {
+   "text": "**Rasm 53-10** da ikki alohida bölim — _birlamçi eşitiş pöstloği_ va _eşitiş assotsiativ pöstloği_ (u _ikkilamçi eşitiş pöstloği_ deb ham ataladi) körsatilgan. Birlamçi eşitiş pöstloği medial tizzasimon tanadan keladigan proyeksiyalar bilan bevosita qözğaladi, eşitiş assotsiativ sohalari esa ikkilamçi ravişda birlamçi eşitiş pöstloğidan keladigan impulslar, şuningdek medial tizzasimon tanaga qöşni talamus assotsiativ sohalaridan keladigan ayrim proyeksiyalar bilan qözğaladi."
+  },
+  "ch53-f76": {
+   "text": "Birlamçi eşitiş pöstloğida va eşitiş assotsiativ sohalarida kamida oltita _tonotopik xarita_ tasvirlangan. Bu xaritalarning har birida yuqori çastotali tovuşlar xaritaning bir uçidagi neyronlarni, past çastotali tovuşlar esa qarama-qarşi uçidagi neyronlarni qözğatadi. Köpçilik xaritalarda **Rasm 53-10** da körsatilganidek, past çastotali tovuşlar oldinda, yuqori çastotali tovuşlar esa orqada joylaşgan. Bu joylaşuv barça xaritalar uçun töğri emas.",
+   "lead": "Birlamçi eşitiş pöstloğida tovuş çastotasini idrok etiş."
+  },
+  "ch53-f77": {
+   "text": "Nima uçun eşitiş pöstloğida bunça köp turli tonotopik xaritalar bor? Javob, ehtimol, alohida sohalarning har biri tovuşlarning qandaydir öziga xos xususiyatini ajratib olişidir. Masalan, birlamçi eşitiş pöstloğidagi yirik xaritalardan biri deyarli aniq tovuş çastotalarini farqlaydi va odamga tovuş balandliklarining (tonlarining) ruhiy sezgisini beradi. Boşqa xarita ehtimol tovuş kelayotgan yönalişni aniqlaş uçun işlatiladi. Eşitiş pöstloğining boşqa sohalari tovuşlarning tösatdan boşlanişi kabi öziga xos sifatlarni yoki ehtimol şovqin va sof çastotali tovuşlar kabi öziga xos modulyatsiyalarni aniqlaydi."
+  },
+  "ch53-f78": {
+   "text": "Eşitiş pöstloğidagi har bir alohida neyron javob beradigan çastota diapazoni çiğanoq va miya stvoli rele yadrolaridagiga qaraganda ança tor. **Rasm 53-5B** ga qarasak, çiğanoq asosi yonidagi bazilyar membrana barça çastotali tovuşlar bilan qözğalişiga va çiğanoq yadrolarida tovuşning xuddi şunday keng aks etişi uçraşiga e’tibor bering. Biroq qözğaliş boş miya pöstloğiga yetib kelguniça tovuşga javob beradigan neyronlarning köpçiligi keng emas, faqat tor çastotalar diapazoniga javob beradi. Şuning uçun yöl böylab qayerdadir qayta işlaş mexanizmlari çastota javobini “ötkirlaştiradi”. Bu ötkirlaştiruvçi ta’sir asosan 47-bobda nervlarda axborot uzatiş mexanizmlari bilan boğliq holda muhokama qilingan lateral tormozlaniş tufayli yuzaga keladi, deb hisoblanadi. Ya’ni çiğanoqning bitta çastotada qözğatilişi bu asosiy çastotaning ikki tomonidagi tovuş çastotalarini tormozlaydi. Bu tormozlaniş asosiy signal yölidan qiyalab çiqib, qöşni yöllarga tormozlovçi ta’sir körsatadigan kollateral tolalar tufayli yuzaga keladi. Xuddi şu ta’sir somatosensor tasvirlar, köriş tasvirlari va boşqa turdagi sezgilar tartiblarini ötkirlaştirişda ham muhim."
+  },
+  "ch53-f79": {
+   "text": "Eşitiş pöstloğidagi, _ayniqsa eşitiş assotsiativ pöstloğidagi_ köplab neyronlar faqat quloğdagi muayyan tovuş çastotalariga javob bermaydi. Bu neyronlar turli tovuş çastotalarini bir-biri bilan “assotsiatsiyalaydi” yoki tovuş axborotini pöstloqning boşqa sezgi sohalaridan keladigan axborot bilan boğlaydi, deb hisoblanadi."
+  },
+  "ch53-f80": {
+   "text": "Haqiqatan ham, eşitiş assotsiativ pöstloğining tepa qismi qisman II somatosensor soha bilan ustma-ust tuşadi. Bu eşitiş axborotini somatosensor axborot bilan assotsiatsiyalaş imkoniyatini berişi mumkin."
+  },
+  "ch53-f81": {
+   "text": "Eşitiş pöstloğini ikki tomonlama töliq olib taşlaş muşuk yoki maymunning tovuşlarni aniqlaşiga yoki tovuşlarga dağal tarzda reaksiya qilişiga tösqinlik qilmaydi. Biroq u hayvonning turli tovuş balandliklarini va ayniqsa _tovuş tartiblarini_ farqlaş qobiliyatini keskin kamaytiradi yoki ba’zan hatto yöqotadi. Masalan, muayyan tartibda birin-ketin keladigan tonlar birikmasi yoki ketma-ketligini tanişga örgatilgan hayvon eşitiş pöstloği yemirilganda bu qobiliyatni yöqotadi; bundan taşqari, hayvon bu turdagi javobni qayta örgana olmaydi. Şuning uçun eşitiş pöstloği ayniqsa _ton_ va _ketma-ket tovuş tartiblarini_ farqlaşda muhim.",
+   "lead": "Eşitiş pöstloği orqali tovuş “tartiblarini” farqlaş."
+  },
+  "ch53-f82": {
+   "text": "Odamda ikkala birlamçi eşitiş pöstloğining yemirilişi eşitiş sezgirligini keskin kamaytiradi. Faqat bir tomonning yemirilişi qarama-qarşi quloqda eşitişni biroz kamaytiradi. Eşitiş nerv yölida tomondan tomonga köplab kesişuvçi boğlanişlar bölgani uçun u bu quloqda karlikka sabab bölmaydi. Biroq u odamning tovuş manbaini lokalizatsiya qiliş qobiliyatiga ta’sir qiladi, çunki tovuşni lokalizatsiya qiliş uçun ikkala pöstloqdagi taqqoslanuvçi signallar zarur."
+  },
+  "ch53-f83": {
+   "text": "Eşitiş assotsiativ sohalarini zararlaydigan, ammo birlamçi eşitiş pöstloğini zararlamaydigan şikastlanişlar odamning tovuş tonlarini eşitiş va farqlaş, hatto heç bölmaganda oddiy tovuş tartiblarini talqin qiliş qobiliyatini kamaytirmaydi. Biroq odam köpinça eşitgan tovuşining _ma’nosini_ talqin qila olmaydi. Masalan, eşitiş assotsiativ pöstloğining bir qismi bölgan va _Vernike sohasi_ deb ataladigan yuqori çakka puştasining orqa qismidagi şikastlanişlar köpinça odamga sözlarni mutlaqo yaxşi eşitsa va hatto takrorlay olsa ham, ularning ma’nosini talqin qilişni imkonsiz qiladi. Eşitiş assotsiativ sohalarining bu funksiyalari va ularning miyaning umumiy intellektual funksiyalari bilan munosabati 58-bobda muhokama qilinadi."
+  },
+  "ch53-f84": {
+   "text": "Tovuş kelayotgan yönalişni aniqlaş"
+  },
+  "ch53-f85": {
+   "text": "Odam tovuş kelayotgan gorizontal yönalişni ikki asosiy yöl bilan aniqlaydi: (1) tovuşning bir quloqqa va qarama-qarşi quloqqa kirişi orasidagi vaqt farqi; va (2) ikki quloqdagi tovuşlar jadalligi orasidagi farq."
+  },
+  "ch53-f86": {
+   "text": "Birinçi mexanizm 3000 sikl/s dan past çastotalarda eng yaxşi işlaydi, ikkinçi mexanizm esa yuqoriroq çastotalarda eng yaxşi işlaydi, çunki bu çastotalarda boş kattaroq tovuş tösiği hisoblanadi. Vaqt farqi mexanizmi yönalişni jadallik mexanizmiga qaraganda ança aniqroq farqlaydi, çunki u begona omillarga emas, faqat ikki akustik signal orasidagi aniq vaqt oraliğiga boğliq. Agar odam tovuş manbaiga töppa-töğri qarab turgan bölsa, tovuş ikkala quloqqa aynan bir lahzada yetadi. Agar öng quloq tovuşga çap quloqqa qaraganda yaqinroq bölsa, öng quloqdan keladigan tovuş signallari miyaga çap quloqdan keladiganlaridan oldinroq kiradi."
+  },
+  "ch53-f87": {
+   "text": "Bu ikki mexanizm tovuş odamning oldidan yoki orqasidan, yuqoridan yoki pastdan kelayotganini aniqlay olmaydi. Bu farqlaş asosan tovuşni ikki quloqqa yönaltiradigan voronka vazifasini bajaradigan _quloq supralari_ (körinib turgan taşqi qism) tomonidan amalga oşiriladi. Quloq suprasining şakli tovuş qaysi yönalişdan kelişiga qarab quloqqa kiradigan tovuşning _sifatini_ özgartiradi. U turli yönalişlardan keladigan muayyan tovuş çastotalarini kuçaytiriş orqali sifatni özgartiradi."
+  },
+  "ch53-f88": {
+   "text": "Miyaning ikkala tomonidagi eşitiş pöstloğining yemirilişi tovuş kelayotgan yönalişni aniqlaş qobiliyatining deyarli butunlay yöqolişiga sabab böladi. Biroq bu aniqlaş jarayoni uçun neyron tahlillari miya stvolidagi _yuqori zaytunsimon yadrolarda_ boşlanadi, garçi signallarni talqin qiliş uçun bu yadrolardan pöstloqqaça butun neyron yöllari zarur bölsa ham. Mexanizm quyidagiça deb hisoblanadi.",
+   "lead": "Tovuş yönalişini aniqlaşning neyron mexanizmlari."
+  },
+  "ch53-f89": {
+   "text": "Yuqori zaytunsimon yadro ikki qismga bölinadi: (1) _medial yuqori zaytunsimon yadro_; va (2) _lateral yuqori zaytunsimon yadro_. Lateral yadro tovuş kelayotgan yönalişni aniqlaş bilan şuğullanadi. Ehtimol u şunçaki ikki quloqqa yetib kelayotgan _tovuş jadalliklari farqini_ taqqoslaydi va yönalişni baholaş uçun eşitiş pöstloğiga tegişli signal yuboradi."
+  },
+  "ch53-f90": {
+   "text": "_Medial yuqori zaytunsimon yadroda_ esa _ikki quloqqa kirayotgan akustik signallar orasidagi vaqt farqini aniqlaşning_ öziga xos mexanizmi bor. Bu yadroda ikkita asosiy dendritga ega köp sonli neyronlar bor: biri öngga, ikkinçisi çapga qarab çiqqan. Öng quloqdan keladigan akustik signal öng dendritga, çap quloqdan keladigan signal esa çap dendritga tuşadi. Har bir neyronning qözğaliş jadalligi ikki quloqdan kelgan ikki akustik signal orasidagi muayyan vaqt farqiga juda sezgir. Yadroning bir çetiga yaqin neyronlar qisqa vaqt farqiga, qarama-qarşi çetiga yaqinlari uzoq vaqt farqiga, oradagilari esa oraliq vaqt farqlariga maksimal javob beradi."
+  },
+  "ch53-f91": {
+   "text": "Şunday qilib, medial yuqori zaytunsimon yadroda neyronlar qözğalişining fazoviy tartibi rivojlanadi: boşning bevosita oldidan kelgan tovuş zaytunsimon neyronlarning bir töplamini maksimal qözğatadi, turli yon burçaklardan kelgan tovuşlar esa qarama-qarşi tomonlardagi boşqa neyronlar töplamlarini qözğatadi. Signallarning bu fazoviy yönalganligi söngra eşitiş pöstloğiga uzatiladi va u yerda tovuş yönalişi maksimal qözğalgan neyronlarning joylaşuvi bilan aniqlanadi. Tovuş yönalişini aniqlaydigan bu signallarning barçasi tovuşning ton tartiblarini uzatadigan yöl va tugaş joyidan boşqa yöl orqali uzatiladi va boş miya pöstloğining boşqa joyini qözğatadi, deb hisoblanadi."
+  },
+  "ch53-f92": {
+   "text": "Tovuş yönalişini aniqlaşning bu mexanizmi sezgi signallaridagi öziga xos axborot signallar neyron faolligining turli sathlaridan ötgani sari qanday ajratib olinişini yana bir bor körsatadi. Bu holda tovuş yönalişining “sifati” tovuş tonlarining “sifatidan” yuqori zaytunsimon yadrolar sathida ajratiladi."
+  },
+  "ch53-f93": {
+   "text": "Eşitiş nerv tizimining boş miya pöstloğidan quloqdagi çiğanoqqaça har bir sathida retrograd yöllar körsatilgan. Oxirgi yöl asosan yuqori zaytunsimon yadrodan Korti a’zosidagi tovuşni qabul qiluvçi tukli hujayralarga boradi."
+  },
+  "ch53-f94": {
+   "text": "Bu retrograd tolalar tormozlovçi. Haqiqatan ham, zaytunsimon yadrodagi alohida nuqtalarni bevosita qözğatiş Korti a’zosining muayyan sohalarini tormozlab, ularning tovuşga sezgirligini 15–20 detsibelga kamaytirişi körsatilgan. Bu mexanizm odamga muayyan sifatdagi tovuşlarga e’tiborini qaratib, boşqa sifatdagi tovuşlarni rad etişga qanday imkon berişini osongina tuşuniş mumkin. Bu xususiyat simfonik orkestrdagi bitta asbobni tinglaganda yaqqol namoyon böladi."
+  },
+  "ch53-f95": {
+   "text": "Karlik odatda ikki turga bölinadi: (1) çiğanoq, eşitiş nervi yoki quloqdan keladigan markaziy nerv tizimi zanjirlarining şikastlanişi tufayli yuzaga keladigan, odatda “neyrosensor karlik” deb tasniflanadigan karlik; va (2) tovuşning özini çiğanoqqa ötkazadigan quloğning fizik tuzilmalarining şikastlanişi tufayli yuzaga keladigan, odatda “ötkazuvçanlik karligi” deb ataladigan karlik."
+  },
+  "ch53-f96": {
+   "text": "Agar çiğanoq yoki eşitiş nervi yemirilsa, odam umrbod kar bölib qoladi. Biroq çiğanoq va nerv hali butun bölib, noğora parda-suyakçalar tizimi yemirilgan yoki ankilozlangan (fibroz yoki kalsinoz tufayli joyida “qotib qolgan”) bölsa, tovuş tölqinlarini kalla suyagiga quloq ustidan qöyilgan tovuş generatoridan suyak orqali ötkaziş yöli bilan baribir çiğanoqqa ötkaziş mumkin."
+  },
+  "ch53-f97": {
+   "text": "Eşitiş nuqsonlarining tabiatini aniqlaş uçun audiometr işlatiladi. Bu asbob past çastotalardan yuqori çastotalargaça sof tonlar çiqara oladigan elektron generatorga ulangan quloqçin bölib, har bir çastotada nol jadallik darajasidagi tovuş soğlom quloq zörğa eşita oladigan balandlikka teng bölişi uçun kalibrlangan. Kalibrlangan ovoz boşqaruvçisi balandlikni nol darajadan oşirişi mumkin. Agar tovuşni eşitiş uçun balandlikni me’yordan 30 detsibel oşiriş kerak bölsa, odamda şu çastotada 30 detsibellik _eşitiş yöqotilişi_ bor deyiladi.",
+   "lead": "Audiometr."
+  },
+  "ch53-f98": {
+   "text": "Audiometr yordamida eşitiş testini ötkazişda eşitiş spektrini qamrab oladigan taxminan 8–10 çastota tekşiriladi va bu çastotalarning har biri uçun eşitiş yöqotilişi aniqlanadi. Söngra **Rasm 53-11** va **Rasm 53-12** da körsatilganidek, eşitiş spektridagi har bir çastotada eşitiş yöqotilişini tasvirlaydigan _audiogramma_ deb ataluvçi grafik çiziladi. Audiometr quloq orqali havo ötkazuvçanligini tekşiriş uçun quloqçindan taşqari kalla suyagining sörğiçsimon ösimtasidan çiğanoqqa suyak ötkazuvçanligini tekşiriş uçun mexanik tebratkiç bilan ham jihozlangan."
+  },
+  "ch53-f101": {
+   "text": "Çiğanoq, eşitiş nervi yoki quloqdan keladigan markaziy nerv tizimi zanjirlarining şikastlanişini öz içiga oladigan neyrosensor karlikda odam ham havo ötkazuvçanligi, ham suyak ötkazuvçanligi bilan tekşirilganda tovuşni eşitiş qobiliyatini yöqotadi. Qisman neyrosensor karlikni tasvirlaydigan audiogramma **Rasm 53-11** da körsatilgan. Bu rasmda karlik asosan yuqori çastotali tovuş uçun. Bunday karlik çiğanoq asosining şikastlanişi natijasida yuzaga kelişi mumkin. Karlikning bu turi deyarli barça keksa odamlarda ma’lum darajada uçraydi.",
+   "lead": "Neyrosensor karlikda audiogramma."
+  },
+  "ch53-f102": {
+   "text": "Neyrosensor karlikning boşqa tartiblari köpinça quyidagiça uçraydi: (1) juda baland tovuşlarga (masalan, rok-guruh yoki reaktiv samolyot dvigateli) haddan taşqari va uzoq duç keliş natijasida past çastotali tovuşlarga karlik, çunki past çastotali tovuşlar odatda balandroq va Korti a’zosi uçun zararliroq; va (2) Korti a’zosining dorilarga sezgirligi, xususan streptomitsin, gentamitsin, kanamitsin va xloramfenikol kabi ayrim antibiotiklarga sezgirligi tufayli barça çastotalarga karlik."
+  },
+  "ch53-f103": {
+   "text": "Karlikning keng tarqalgan turi takroriy infeksiyadan keyin örta quloqdagi fibroz yoki _otoskleroz_ deb ataluvçi irsiy kasallikda yuzaga keladigan fibroz tufayli kelib çiqadi. Har ikki holatda ham tovuş tölqinlari noğora pardadan oval darçaga suyakçalar orqali oson uzatila olmaydi. **Rasm 53-12** da “örta quloq havo ötkazuvçanlik karligi” bor odamning audiogrammasi körsatilgan. Bu holda suyak ötkazuvçanligi amalda me’yoriy, ammo suyakçalar tizimi orqali ötkazuvçanlik barça çastotalarda, ayniqsa past çastotalarda keskin pasaygan. Ötkazuvçanlik karligining ayrim hollarida uzangi asosi oval darça çetlarigaça suyak ösişi bilan “ankilozlanadi”. Bunda odam suyakçalar orqali ötkazuvçanlik uçun butunlay kar bölib qoladi, ammo uzangini jarrohlik yöli bilan olib taşlab, uning örniga tovuşni sandondan oval darçaga uzatadigan mitti teflon yoki metall protez qöyiş orqali deyarli me’yoriy eşitişni qayta tiklaşi mumkin.",
+   "lead": "Örta quloq ötkazuvçanlik karligida audiogramma."
+  }
+ },
+ "figures": {
+  "gh14-fig-53-01": "Taşqi quloq, noğora parda, örta quloqning suyakçalar tizimi va içki quloq.",
+  "gh14-fig-53-02": "Çiğanoq (A) va çiğanoq burmalaridan biri orqali kesim (B).",
+  "gh14-fig-53-03": "Uzangi oldinga itarilgandan keyin çiğanoqda suyuqlikning harakati.",
+  "gh14-fig-53-04": "Yuqori (A), örta (B) va past (C) çastotali tovuşlar uçun bazilyar membrana böylab “yuguruvçi tölqinlar”.",
+  "gh14-fig-53-05": "A, Örta çastotali tovuş uçun bazilyar membrana tebranişining amplituda tartibi (a–d). B, 200 dan 8000 sikl/s gaça bölgan çastotali tovuşlar uçun amplituda tartiblari: turli çastotalar uçun bazilyar membranadagi maksimal amplituda nuqtalari körsatilgan.",
+  "gh14-fig-53-06": "Korti a’zosi: ayniqsa tukli hujayralar va çiqib turgan tukçalarga bosib turgan qoplovçi membrana körsatilgan.",
+  "gh14-fig-53-07": "A, Qoplovçi membrananing gel qatlamiga kirib turgan tukçalarning u yoqdan-bu yoqqa harakati orqali tukli hujayralarning qözğalişi. B, Tukli hujayralar tomonidan mexanik energiyaning neyron signallariga transduksiyasi. Stereotsiliyalar uzunroqlari tomonga egilganda K⁺ kanallari oçiladi va depolyarizatsiyaga sabab böladi, bu esa öz navbatida kuçlanişga boğliq Ca²⁺ kanallarini oçadi. Ca²⁺ ning kirişi depolyarizatsiyani kuçaytiradi va sezuvçi nervni depolyarizatsiyalaydigan qözğatuvçi mediator — glutamatning ajralişini yuzaga keltiradi.",
+  "gh14-fig-53-08": "Har bir tovuş çastotasida eşitiş bösağasi va somatik idrok bösağasining (sançiş va teginiş bösağasi) tovuş energiyasi darajasiga munosabati.",
+  "gh14-fig-53-09": "Eşitiş nerv yöllari. N. — nerv.",
+  "gh14-fig-53-10": "Eşitiş pöstloği.",
+  "gh14-fig-53-11": "Keksalik turidagi neyrosensor karlik audiogrammasi.",
+  "gh14-fig-53-12": "Örta quloq sklerozi natijasidagi havo ötkazuvçanlik karligi audiogrammasi."
+ }
+}

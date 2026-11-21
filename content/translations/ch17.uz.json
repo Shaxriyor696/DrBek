@@ -1,0 +1,320 @@
+{
+ "lessonId": "ch17",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 17,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "manual",
+ "translator": "Claude (DrStudy sessiyasi)",
+ "model": null,
+ "createdAt": "2026-11-18T06:10:38.513Z",
+ "updatedAt": "2026-11-18T06:10:38.514Z",
+ "coverage": {
+  "translated": 99,
+  "total": 99
+ },
+ "note": "Kitob matnining töliq özbekça tarjimasi (qisqartirilmagan). Ekspert tekşiruvidan ötmagan.",
+ "blocks": {
+  "ch17-f0": {
+   "text": "Töqima ehtiyojlariga javoban qon oqimining mahalliy boşqarilişi"
+  },
+  "ch17-f1": {
+   "text": "Qon aylanişi faoliyatining asosiy tamoyillaridan biri şundaki, köpçilik töqimalar özlarining mahalliy qon oqimini öziga xos metabolik ehtiyojlariga mutanosib ravişda boşqariş qobiliyatiga ega. Töqimalarning qon oqimiga bölgan öziga xos ehtiyojlaridan ba’zilari quyidagilar: 1. Töqimalarga kislorod yetkaziş 2. Glyukoza, aminokislotalar va yoğ kislotalari kabi boşqa oziq moddalarni yetkaziş 3. Töqimalardan karbonat angidridni olib ketiş 4. Töqimalardan vodorod ionlarini olib ketiş 5. Töqimalarda ionlarning tegişli konsentratsiyasini saqlab turiş 6. Turli gormonlar va boşqa moddalarni turli töqimalarga taşiş. Ayrim a’zolarning maxsus ehtiyojlari bor. Masalan, teri qon oqimi tanadan issiqlik yöqotilişini belgilaydi va şu yöl bilan tana haroratini boşqarişga yordam beradi. Şuningdek, buyraklarga yetarli miqdorda qon plazmasining yetkazilişi buyraklarga tananing çiqindi mahsulotlarini filtrlaş va çiqariş, tana suyuqliklari hajmi va elektrolitlarni boşqariş imkonini beradi."
+  },
+  "ch17-f2": {
+   "text": "Köramizki, bu omillar mahalliy qon oqimini juda kuçli darajada boşqaradi, turli töqimalar esa qon oqimini boşqarişda bu omillarga turliça ahamiyat beradi."
+  },
+  "ch17-f3": {
+   "text": "**Jadval 17-1** da ayrim a’zolar uçun keltirilgan juda katta qon oqimlariga e’tibor bering: masalan, qalqonsimon bez yoki buyrak usti bezi töqimasining 100 grammiga daqiqasiga bir neça yuz millilitr, jigarda esa umumiy qon oqimi 1350 ml/min, bu jigar töqimasining 100 grammiga 95 ml/min ga töğri keladi.",
+   "lead": "Turli töqima va a’zolarda qon oqimining farqlari."
+  },
+  "ch17-f5": {
+   "text": "Şuningdek, buyraklar orqali ötadigan nihoyatda katta qon oqimiga — 1100 ml/min ga e’tibor bering. Buyraklar qonni çiqindi mahsulotlardan tozalaş va tana suyuqliklari tarkibini aniq boşqariş vazifasini bajarişi uçun şunday katta oqim zarur."
+  },
+  "ch17-f6": {
+   "text": "Aksinça, eng hayratlanarlisi — tanadagi barça _faol bölmagan_ muskullarga keladigan qon oqimining pastligi: muskullar tana umumiy massasining 30–40% ini taşkil etsa-da, ularga jami atigi 750 ml/min qon keladi. Tinç holatda muskullarning metabolik faolligi past, qon oqimi ham past — atigi 4 ml/min/100 g. Biroq oğir jismoniy maşq paytida muskullarning metabolik faolligi 60 martadan köproq, qon oqimi esa 20 martagaça ortişi mumkin; bunda tananing butun muskul tomir törida qon oqimi 16 000 ml/min gaça (yoki muskulning 100 grammiga 80 ml/min gaça) kötariladi."
+  },
+  "ch17-f7": {
+   "text": "Quyidagi savol tuğilişi mumkin: nima uçun tananing har bir töqimasi orqali, töqima faolligi kam yoki köpligidan qat’i nazar, uning ehtiyojlarini har doim qondira oladigan juda katta qon oqimi uzluksiz ta’minlanmaydi? Javob ham xuddi şunday oddiy: bunday mexanizm yurak haydab bera oladigan qondan köp marta köproq qon oqimini talab qilgan bölardi.",
+   "lead": "Qon oqimining mahalliy töqimalar tomonidan boşqarilişining ahamiyati."
+  },
+  "ch17-f8": {
+   "text": "Tajribalar şuni körsatdiki, har bir töqimaga keladigan qon oqimi odatda töqima ehtiyojlarini qondiradigan minimal darajada — ortiq ham emas, kam ham emas — boşqariladi. Masalan, eng muhim ehtiyoji kislorod yetkaziş bölgan töqimalarda qon oqimi doimo töqimaning töliq oksigenatsiyasini saqlaş uçun zarur bölgan darajadan atigi biroz yuqori darajada boşqariladi, lekin bundan ortiq emas. Mahalliy qon oqimini şunday aniq boşqariş tufayli töqimalar deyarli heç qaçon kislorod yetişmovçiligini boşdan keçirmaydi, yurakka tuşadigan yuklama esa minimal darajada saqlanadi."
+  },
+  "ch17-f9": {
+   "text": "Qon oqimini boşqariş mexanizmlari"
+  },
+  "ch17-f10": {
+   "text": "Mahalliy qon oqimini boşqarişni ikki bosqiçga — tezkor (ötkir) boşqariş va uzoq muddatli boşqarişga böliş mumkin. _Tezkor boşqariş_ arteriolalar, metarteriolalar va prekapillyar sfinkterlarning soniyalar yoki daqiqalar içida yuz beradigan tez mahalliy kengayişi (vazodilatatsiya) yoki torayişi (vazokonstriksiya) orqali amalga oşadi va töqimaning tegişli mahalliy qon oqimini tezda saqlab turişni ta’minlaydi. _Uzoq muddatli boşqariş_ esa oqimning kunlar, haftalar va hatto oylar davomidagi sekin, boşqariladigan özgarişlarini anglatadi. Umuman olganda, bu uzoq muddatli özgarişlar oqimni töqimalar ehtiyojiga mutanosib ravişda yanada aniqroq boşqaradi. Bu özgarişlar töqimalarni qon bilan ta’minlovçi qon tomirlarining jismoniy ölçami va sonining ortişi yoki kamayişi natijasida yuzaga keladi."
+  },
+  "ch17-f11": {
+   "text": "Mahalliy qon oqimining tezkor boşqarilişi"
+  },
+  "ch17-f12": {
+   "text": "Töqima metabolizmining kuçayişi töqima qon oqimini oşiradi"
+  },
+  "ch17-f13": {
+   "text": "**Rasm 17-1** da skelet muskuli kabi mahalliy töqimada metabolizm tezligining oşişi qon oqimiga körsatadigan taxminiy tezkor ta’sir körsatilgan. E’tibor bering: metabolizmning me’yordan sakkiz martagaça oşişi qon oqimini tezkor ravişda taxminan tört marta oşiradi."
+  },
+  "ch17-f15": {
+   "text": "Eng zarur metabolik oziq moddalardan biri — kislorod. Töqimalarga kislorod yetkazilişi kamaygan har qanday holatda, masalan: (1) baland toğ çöqqisidagi yuqori balandlikda; (2) pnevmoniyada; (3) is gazi (uglerod monoksidi) bilan zaharlanişda (u gemoglobinning kislorod taşiş qobiliyatini buzadi); yoki (4) sianid bilan zaharlanişda (u töqimalarning kisloroddan foydalaniş qobiliyatini buzadi), töqimalar orqali qon oqimi keskin ortadi. **Rasm 17-2** da körsatilganidek, arterial qonning kislorod bilan töyinganligi me’yorning taxminan 25% igaça kamayganda ajratib olingan oyoq orqali qon oqimi taxminan uç marta ortadi; ya’ni qon oqimi qondagi kislorod miqdorining kamayişini qoplaş uçun deyarli yetarli, lekin töliq yetarli bölmagan darajada ortadi va şu tariqa töqimalarga kislorod yetkazilişi nisbatan doimiy darajada deyarli saqlanib qoladi.",
+   "lead": "Kislorod yetişmovçiligi töqima qon oqimini oşiradi."
+  },
+  "ch17-f17": {
+   "text": "Mahalliy töqima sohasida kisloroddan foydalanişning sianid tomonidan töliq bloklanişi mahalliy qon oqimini yetti martagaça oşirişi mumkin; bu kislorod yetişmovçiligining qon oqimini oşirişdagi nihoyatda kuçli ta’sirini körsatadi. Töqima metabolizmi yoki kislorod yetkazilişidagi özgarişlar töqima qon oqimini qanday mexanizmlar orqali özgartirişi töliq aniqlanmagan, biroq ikkita asosiy nazariya taklif etilgan: _vazodilatator nazariyasi_ va _kislorodga ehtiyoj nazariyasi._"
+  },
+  "ch17-f18": {
+   "text": "Vazodilatator nazariyasiga köra, metabolizm tezligi qançalik yuqori bölsa yoki töqimaga kislorod yoki boşqa ba’zi oziq moddalar qançalik kam yetkazilsa, töqima hujayralarida _vazodilatator moddalar_ şunçalik tez hosil böladi. Söngra vazodilatator moddalar töqimalar orqali prekapillyar sfinkterlar, metarteriolalar va arteriolalarga diffuziyalanib, ularni kengaytiradi, deb hisoblanadi. Taklif etilgan turli vazodilatator moddalardan ba’zilari: _adenozin, karbonat angidrid, adenozin fosfat birikmalari, gistamin, kaliy ionlari_ va _vodorod ionlari._",
+   "lead": "Mahalliy qon oqimini tezkor boşqarişning vazodilatator nazariyasi — adenozinning ehtimoliy alohida roli."
+  },
+  "ch17-f19": {
+   "text": "Vazodilatator moddalar töqimadan kislorod yetişmovçiligiga javoban ajralib çiqişi mumkin. Masalan, tajribalar şuni körsatdiki, kislorod yetkazilişining kamayişi adenozin va sut kislotasining (vodorod ionlarini saqlovçi) töqima hujayralari orasidagi böşliqlarga ajralib çiqişiga sabab bölişi mumkin; bu moddalar keyin kuçli tezkor vazodilatatsiyani keltirib çiqaradi va şu sababli mahalliy qon oqimini boşqariş uçun töliq yoki qisman javobgar hisoblanadi. Qon oqimi kamayib, hujayra metabolizmi avvalgi tezlikda davom etganda yoki hujayra metabolizmi tösatdan kuçayganda karbonat angidrid, sut kislotasi va kaliy ionlari kabi boşqa vazodilatator moddalar ham töqimalarda köpayişga moyil böladi. Vazodilatator metabolitlar konsentratsiyasining ortişi arteriolalarni kengaytiradi, şu tariqa töqima qon oqimini oşiradi va töqimadagi metabolitlar konsentratsiyasini me’yor tomon qaytaradi."
+  },
+  "ch17-f20": {
+   "text": "Köplab fiziologlar _adenozin_ mahalliy qon oqimini boşqaruvçi muhim mahalliy vazodilatator, deb hisoblaydi. Masalan, koronar qon oqimi juda kamayib ketganda yurak muskuli hujayralaridan juda oz miqdorda adenozin ajralib çiqadi va adenozinning bu ajralişi yurakda koronar qon oqimini me’yorga qaytariş uçun yetarli mahalliy vazodilatatsiyani yuzaga keltiradi. Şuningdek, yurak me’yordagidan faolroq işlaganda uning metabolizmi kuçayadi va kislorod sarfi ortadi; bunga ergaşib (1) yurak muskuli hujayralarida kislorod konsentratsiyasi pasayadi, (2) natijada adenozin trifosfat (ATF) parçalanadi va (3) bu adenozin ajralişini oşiradi. Bu adenozinning katta qismi yurak muskuli hujayralaridan taşqariga sizib çiqib, koronar vazodilatatsiyani keltirib çiqaradi va faol yurakning ortgan oziq moddalarga bölgan ehtiyojini qondiriş uçun koronar qon oqimini oşiradi, deb hisoblanadi."
+  },
+  "ch17-f21": {
+   "text": "Tadqiqot dalillari unçalik aniq bölmasa-da, köplab fiziologlar xuddi şu adenozin mexanizmi yurakda bölgani kabi skelet muskuli va boşqa köplab töqimalarda ham qon oqimining muhim boşqaruvçisi, deb taxmin qilgan. Biroq qon oqimining ölçangan barça ortişini yuzaga keltiriş uçun töqimalarda biror bitta vazodilatator modda, jumladan adenozin ham, yetarli miqdorda hosil bölişini isbotlaş qiyin bölgan. Qon oqimini boşqarişga töqimalardan ajraladigan bir neçta turli vazodilatatorlarning birgalikdagi ta’siri hissa qöşişi ehtimoli katta."
+  },
+  "ch17-f22": {
+   "text": "Vazodilatator nazariyasi keng qabul qilingan bölsa-da, bir qator muhim dalillar boşqa fiziologlarni _kislorodga ehtiyoj nazariyasi_ yoki, aniqroği, _oziq moddalarga ehtiyoj nazariyasi_ (çunki kisloroddan taşqari boşqa oziq moddalar ham iştirok etadi) deb ataş mumkin bölgan boşqa nazariyani afzal körişga undagan. Kislorod tomir muskulining qisqarişi uçun zarur bölgan metabolik oziq moddalardan biri, bundan taşqari boşqa oziq moddalar ham kerak. Şu sababli kislorod yetarli bölmaganda qon tomirlari böşaşadi va şu tufayli kengayadi, deb taxmin qiliş örinli. Şuningdek, metabolizmning kuçayişi natijasida töqimalarda kislorod sarfining ortişi nazariy jihatdan mahalliy qon tomirlaridagi silliq muskul tolalariga kislorod yetkazilişini kamaytirib, mahalliy vazodilatatsiyaga sabab bölişi mumkin.",
+   "lead": "Mahalliy qon oqimini boşqarişning kislorodga ehtiyoj nazariyasi."
+  },
+  "ch17-f23": {
+   "text": "Kislorod yetkazilişi qanday mexanizm orqali ta’sir qilişi mumkinligi **Rasm 17-3** da körsatilgan. Bu rasmda bitta yon kapillyar tarmoği bölgan metarteriola va uni örab turgan töqimadan iborat töqima tomir birligi tasvirlangan. Kapillyarning boşlaniş joyida _prekapillyar sfinkter_, metarteriola atrofida esa yana bir neçta silliq muskul tolalari joylaşgan. Bunday töqima mikroskop ostida kuzatilganda prekapillyar sfinkterlar odatda yo butunlay oçiq, yo butunlay yopiq böladi. Har qanday vaqtda oçiq turgan prekapillyar sfinkterlar soni taxminan töqimaning oziqlanişga bölgan ehtiyojiga mutanosib. Prekapillyar sfinkterlar va metarteriolalar daqiqasiga bir neça marta davriy ravişda oçilib-yopiladi; oçiq fazalarning davomiyligi töqimalarning kislorodga bölgan metabolik ehtiyojiga mutanosib böladi. Bu davriy oçilib-yopiliş _vazomotsiya_ deb ataladi."
+  },
+  "ch17-f25": {
+   "text": "Silliq muskul qisqargan holatda qolişi uçun kislorod talab qilgani sababli, kislorod konsentratsiyasi ortişi bilan sfinkterlar qisqarişining kuçi ham ortadi, deb taxmin qiliş mumkin. Demak, töqimadagi kislorod konsentratsiyasi ma’lum darajadan oşganda prekapillyar va metarteriola sfinkterlari, ehtimol, töqima hujayralari ortiqça kislorodni sarflab bölguniça yopiladi. Biroq ortiqça kislorod tugab, kislorod konsentratsiyasi yetarliça pasayganda sfinkterlar yana oçiladi va sikl qaytadan boşlanadi."
+  },
+  "ch17-f26": {
+   "text": "Şunday qilib, mavjud ma’lumotlar asosida _vazodilatator moddalar nazariyasi_ ham, _kislorodga ehtiyoj nazariyasi_ ham töqimalarning metabolik ehtiyojlariga javoban mahalliy qon oqimining tezkor boşqarilişini tuşuntirişi mumkin. Ehtimol, bu ikki mexanizmning birgalikdagi ta’siri amal qiladi."
+  },
+  "ch17-f27": {
+   "text": "Maxsus şaroitlarda perfuziya qilayotgan qonda glyukoza yetişmasligi mahalliy töqima vazodilatatsiyasiga sabab bölişi mumkinligi körsatilgan. Aminokislotalar yoki yoğ kislotalari kabi boşqa oziq moddalar yetişmaganda ham xuddi şunday ta’sir yuzaga kelişi mumkin, garçi bu hali noaniq bölsa-da. Bundan taşqari, vazodilatatsiya vitamin yetişmovçiligi kasalligi bölgan _beri-beri_ da ham kuzatiladi; bu kasallikda bemorda B guruhi vitaminlari — _tiamin, niatsin_ va _riboflavin_ yetişmaydi. Bu kasallikda tananing deyarli hamma joyida periferik tomirlardagi qon oqimi köpinça ikki-uç marta ortadi. Bu vitaminlarning barçasi töqima hujayralarida ATF hosil bölişi uçun zarur bölgan kislorodga boğliq fosforlaniş uçun kerak bölgani sababli, ularning yetişmasligi silliq muskulning qisqariş qobiliyati pasayişiga va şu tufayli mahalliy vazodilatatsiyaga ham olib kelişi mumkinligini tuşuniş qiyin emas.",
+   "lead": "Mahalliy qon oqimini boşqarişda kisloroddan taşqari boşqa oziq moddalarning ehtimoliy roli."
+  },
+  "ch17-f28": {
+   "text": "Mahalliy qon oqimini tezkor metabolik boşqarişning maxsus misollari"
+  },
+  "ch17-f29": {
+   "text": "Mahalliy qon oqimini boşqarişning hozirgaça tasvirlangan mexanizmlari _metabolik mexanizmlar_ deb ataladi, çunki ularning barçasi töqimalarning metabolik ehtiyojlariga javoban işlaydi. Mahalliy qon oqimini metabolik boşqarişning yana ikkita maxsus misoli — _reaktiv giperemiya_ va _faol giperemiya_ (**Rasm 17-4**)."
+  },
+  "ch17-f31": {
+   "text": "Töqimaning qon bilan ta’minlanişi bir neça soniyadan 1 soat yoki undan köproq vaqtgaça töxtatilib, keyin qayta tiklanganda töqima orqali qon oqimi odatda darhol me’yordan tört-yetti marta ortadi. Agar tösiq atigi bir neça soniya davom etgan bölsa, bu ortgan oqim bir neça soniya davom etadi, biroq qon oqimi bir soat yoki undan köproq töxtatilgan bölsa, ba’zan köp soatlargaça davom etadi. Bu hodisa _reaktiv giperemiya_ deb ataladi.",
+   "lead": "Reaktiv giperemiya töqimaning qon bilan ta’minlanişi qisqa vaqtga töxtatilgandan keyin yuzaga keladi."
+  },
+  "ch17-f32": {
+   "text": "Reaktiv giperemiya mahalliy metabolik qon oqimini boşqariş mexanizmining yana bir körinişidir — ya’ni oqimning yöqligi vazodilatatsiyaga sabab böladigan barça omillarni harakatga keltiradi. Tomirlarning qisqa muddatli okklyuziyasidan keyin reaktiv giperemiya fazasidagi qöşimça qon oqimi okklyuziya davrida töplangan töqima kislorod tanqisligini deyarli aynan qoplaş uçun yetarli vaqt davom etadi. Bu mexanizm mahalliy qon oqimini boşqariş bilan töqimalarga kislorod va boşqa oziq moddalarni yetkaziş örtasidagi yaqin boğliqlikni ta’kidlaydi."
+  },
+  "ch17-f33": {
+   "text": "Töqima juda faol bölganda — masalan, maşq qilayotgan muskul, gipersekretsiya davridagi me’da-içak bezi yoki hatto kuçaygan aqliy faoliyat paytidagi boş miya — töqima orqali qon oqimi tezligi ortadi (qarang: **Rasm 17-4**). Mahalliy metabolizmning kuçayişi hujayralarning töqima suyuqligidagi oziq moddalarni tez sarflaşiga va köp miqdorda vazodilatator moddalar ajratişiga sabab böladi. Natijada mahalliy qon tomirlari kengayadi va mahalliy qon oqimi ortadi. Şu tariqa faol töqima özining yangi faoliyat darajasini saqlab turiş uçun zarur bölgan qöşimça oziq moddalarni oladi. Avval qayd etilganidek, skelet muskulidagi faol giperemiya jadal maşq paytida mahalliy muskul qon oqimini 20 martagaça oşirişi mumkin.",
+   "lead": "Faol giperemiya töqimaning metabolik tezligi ortganda yuzaga keladi."
+  },
+  "ch17-f34": {
+   "text": "Arterial bosim özgarganda qon oqimining autoregulyatsiyasi — metabolik va miogen mexanizmlar"
+  },
+  "ch17-f35": {
+   "text": "Tananing har qanday töqimasida arterial bosimning tez kötarilişi qon oqimini darhol oşiradi. Biroq 1 daqiqadan kamroq vaqt içida, arterial bosim yuqoriligiça saqlanib tursa ham, köpçilik töqimalarda qon oqimi deyarli me’yoriy darajaga qaytadi. Oqimning me’yor tomon bunday qaytişi _autoregulyatsiya_ deb ataladi. Autoregulyatsiya yuz bergandan söng köpçilik töqimalarda mahalliy qon oqimining arterial bosimga boğliqligi taxminan **Rasm 17-5** dagi uzluksiz çiziqli tezkor egri çiziqqa mos keladi. E’tibor bering: arterial bosim taxminan 70 dan 175 mm Hg gaça oraliğida arterial bosim 150% ortsa ham, qon oqimi atigi 20–30% ortadi. Boş miya va yurak kabi ba’zi töqimalarda bu autoregulyatsiya yanada aniqroq."
+  },
+  "ch17-f37": {
+   "text": "Deyarli bir asr davomida bu tezkor autoregulyatsiya mexanizmini tuşuntiriş uçun ikki xil qaraş taklif etilgan. Ular metabolik nazariya va miogen nazariya deb ataladi."
+  },
+  "ch17-f38": {
+   "text": "_Metabolik nazariyani_ oldingi bölimlarda muhokama qilingan mahalliy qon oqimini boşqarişning asosiy tamoyillarini qöllaş orqali oson tuşuniş mumkin. Ya’ni arterial bosim haddan taşqari oşganda ortiqça oqim töqimalarga juda köp kislorod va boşqa oziq moddalar yetkazadi hamda töqimalardan ajralgan vazodilatatorlarni yuvib ketadi. Söngra bu oziq moddalar (ayniqsa kislorod) va töqimadagi vazodilatatorlar darajasining pasayişi qon tomirlarining torayişiga sabab böladi va bosim yuqori bölişiga qaramay oqimni deyarli me’yorga qaytaradi."
+  },
+  "ch17-f39": {
+   "text": "_Miogen nazariya_ esa autoregulyatsiya hodisasini töqima metabolizmi bilan boğliq bölmagan boşqa mexanizm tuşuntiradi, deb taxmin qiladi. Bu nazariya kiçik qon tomirlarining tösatdan çözilişi tomir devoridagi silliq muskulning qisqarişiga sabab bölişi haqidagi kuzatişga asoslanadi. Şu sababli yuqori arterial bosim tomirni çözganda reaktiv tomir torayişi yuzaga keladi va u qon oqimini deyarli me’yorga qaytaradi, degan fikr ilgari surilgan. Aksinça, past bosimlarda tomirning çöziliş darajasi kamroq böladi, şuning uçun silliq muskul böşaşadi, tomir qarşiligi kamayadi va oqimning me’yor tomon qaytişiga yordam beradi."
+  },
+  "ch17-f40": {
+   "text": "Miogen javob tomir silliq muskuliga xos xususiyat bölib, nerv yoki gormonal ta’sirlar bölmaganda ham yuzaga kelişi mumkin. U arteriolalarda eng yaqqol namoyon böladi, biroq arteriyalar, venulalar, venalar va hatto limfa tomirlarida ham kuzatilişi mumkin. Miogen qisqariş _çöziliş ta’sirida tomir depolyarizatsiyasi_ bilan boşlanadi; bu esa hujayradan taşqari suyuqlikdan hujayralarga kalsiy ionlari kirişini tez oşirib, ularning qisqarişiga sabab böladi. Tomir içidagi bosimning özgarişi tomir qisqarişiga ta’sir qiluvçi boşqa ion kanallarini ham oçişi yoki yopişi mumkin. Bosim özgarişlari tomir ion kanallarini qanday aniq mexanizmlar orqali oçişi yoki yopişi hali noaniq, biroq bunda, ehtimol, bosimning tomir devori sitoskelet elementlariga yoki ion kanallarining öziga boğlangan hujayradan taşqari oqsillarga mexanik ta’siri iştirok etadi."
+  },
+  "ch17-f41": {
+   "text": "Miogen mexanizm qon bosimi oşganda qon tomirlarining haddan taşqari çözilişining oldini olişda muhim ahamiyatga ega bölsa kerak. Biroq miogen mexanizmning qon oqimini boşqarişdagi roli noaniq, çunki bosimni sezuvçi bu mexanizm töqimadagi qon oqimi özgarişlarini bevosita aniqlay olmaydi. Töqimalarning metabolik ehtiyojlari sezilarli darajada ortgan holatlarda, masalan, skelet muskuli qon oqimini keskin oşiradigan jadal muskul maşqlari paytida, metabolik omillar miogen mexanizmdan ustun kelsa kerak."
+  },
+  "ch17-f42": {
+   "text": "Ayrim töqimalarda qon oqimini tezkor boşqarişning maxsus mexanizmlari"
+  },
+  "ch17-f43": {
+   "text": "Mahalliy qon oqimini boşqarişning hozirgaça muhokama qilingan umumiy mexanizmlari tananing deyarli barça töqimalarida mavjud bölsa-da, bir neçta maxsus sohalarda tubdan farq qiluvçi mexanizmlar işlaydi. Barça mexanizmlar uşbu kitob davomida muayyan a’zolar bilan boğliq holda muhokama qilinadi, biroq ikkita e’tiborga molik mexanizm quyidagilar: 1. _Buyraklarda_ qon oqimini boşqariş asosan _tubuloglomerulyar qaytar aloqa_ deb ataladigan mexanizmga tayanadi; bunda distal kanalçaning boşlanğiç qismidagi suyuqlik tarkibini distal kanalçaning _ziç doğ_ (macula densa) deb ataladigan epitelial tuzilmasi aniqlaydi. Bu tuzilma nefronning _yukstaglomerulyar apparatida_ distal kanalça olib keluvçi va olib ketuvçi arteriolalarga tutaşgan joyda joylaşgan. Qondan koptokça orqali kanalçalar tizimiga juda köp suyuqlik filtrlanganda ziç doğdan keladigan qaytar aloqa signallari olib keluvçi arteriolalarning torayişiga sabab böladi va şu tariqa buyrak qon oqimi va koptokça filtratsiyasi tezligini deyarli me’yorga qaytaradi. Bu mexanizmning tafsilotlari 27-bobda muhokama qilinadi. 2. _Boş miyada_ qon oqimini töqimadagi kislorod konsentratsiyasi boşqarişidan taşqari, karbonat angidrid va vodorod ionlarining konsentratsiyalari ham muhim rol öynaydi. Bu moddalardan birining yoki ikkalasining köpayişi miya tomirlarini kengaytiradi va ortiqça karbonat angidrid yoki vodorod ionlarining miya töqimalaridan tez yuvilib ketişiga imkon beradi. Bu mexanizm muhim, çunki _boş miyaning qözğaluvçanlik darajasi karbonat angidrid konsentratsiyasi va vodorod ionlari konsentratsiyasining aniq boşqarilişiga juda boğliq._ Miya qon oqimini boşqarişning bu maxsus mexanizmi 62-bobda bayon qilinadi. 3. _Terida_ qon oqimini boşqariş tana haroratini boşqariş bilan çambarças boğliq. Teri va teri osti qon oqimi issiqlikning tana içki qismidan tana yuzasiga — issiqlik atrof-muhitga yöqotiladigan joyga — oqib ötişini me’yorlaş orqali tanadan issiqlik yöqotilişini boşqaradi. 74-bobda muhokama qilinganidek, teri qon oqimi asosan markaziy nerv tizimi tomonidan simpatik nervlar orqali boşqariladi. Salqin havoda teri qon oqimi töqimaning 100 grammiga atigi taxminan 3 ml/min bölsa-da, zarurat tuğilganda bu qiymatdan katta özgarişlar yuz berişi mumkin. Odam tanasi qiziganda teri qon oqimi juda kuçli ortib, butun tana uçun _7–8 L/min_ gaça yetişi mumkin. Tana harorati pasayganda teri qon oqimi kamayadi va juda past haroratlarda noldan zörğa yuqori darajaga tuşadi. Hatto kuçli vazokonstriksiyada ham teri qon oqimi odatda terining asosiy metabolik ehtiyojlarini qondiriş uçun yetarli böladi."
+  },
+  "ch17-f44": {
+   "text": "Töqima qon oqimining boşqarilişi: endoteliy tomonidan ajratiladigan böşaştiruvçi yoki toraytiruvçi omillar"
+  },
+  "ch17-f45": {
+   "text": "Qon tomirlari içki yuzasini qoplagan endotelial hujayralar bir neçta moddalarni sintez qiladi; bu moddalar ajralib çiqqanda tomir devorining böşaşiş yoki qisqariş darajasiga ta’sir körsatişi mumkin. Endoteliy tomonidan ajratiladigan bu böşaştiruvçi yoki toraytiruvçi omillarning köpçiligining fiziologik roli endigina anglanib bormoqda."
+  },
+  "ch17-f46": {
+   "text": "Endoteliy tomonidan ajratiladigan böşaştiruvçi omillarning eng muhimi — _azot oksidi_ (NO); bu turli kimyoviy va fizik stimullarga javoban endotelial hujayralardan ajraladigan lipofil gaz. _Endotelial azot oksidi sintaza_ (eNOS) _fermentlari_ NO ni _arginin_ va kisloroddan, şuningdek, noorganik nitratni qaytariş yöli bilan sintez qiladi. Endotelial hujayradan taşqariga diffuziyalangandan söng NO ning qondagi yarim yemiriliş davri atigi taxminan 6 soniya bölib, u asosan özi ajralib çiqqan mahalliy töqimalarda ta’sir qiladi. NO tomir silliq muskul hujayralarida _eruvçan guanilatsiklazalarni_ faollaştiradi (**Rasm 17-6**); natijada siklik guanozin trifosfat (cGTP) siklik guanozin monofosfatga (cGMP) aylanadi va _cGMP ga boğliq protein kinaza_ (PKG) faollaşadi; u qon tomirlarini böşaştiruvçi bir qator ta’sirlarga ega.",
+   "lead": "Azot oksidi — soğlom endotelial hujayralardan ajraladigan vazodilatator."
+  },
+  "ch17-f48": {
+   "text": "Qonning arteriyalar va arteriolalar orqali oqişi qonning tomir devorlariga nisbatan qovuşqoq işqalanişi tufayli endotelial hujayralarga _siljituvçi kuçlaniş_ (şear stress) ta’sir qilişiga sabab böladi. Bu kuçlaniş endotelial hujayralarni oqim yönalişida qiyşaytiradi va NO ajralişini sezilarli darajada oşiradi. Keyin NO qon tomirlarini böşaştiradi; bu juda foydali, çunki töqima qon oqimini boşqaruvçi mahalliy metabolik mexanizmlar asosan har bir töqimadagi juda kiçik arteriyalar va arteriolalarni kengaytiradi. Biroq qon aylanişining mikrotomir qismida qon oqimi ortganda bu holat ikkilamçi ravişda yirikroq tomirlarda oqim va siljituvçi kuçlaniş ortişi natijasida ulardan NO ajralişini rağbatlantiradi. Ajralgan NO pastroqdagi mikrotomirlarda qon oqimi ortganda yuqoriroqda joylaşgan yirikroq qon tomirlarining diametrini oşiradi. Bunday javob bölmaganda mahalliy qon oqimini boşqariş samaradorligi pasaygan bölardi, çunki qon oqimiga qarşilikning sezilarli qismi yuqoriroqdagi kiçik arteriyalarga töğri keladi."
+  },
+  "ch17-f49": {
+   "text": "Endotelial hujayralarda NO sintezi va ajralişini endotelial hujayralardagi maxsus retseptorlarga boğlanadigan ba’zi vazokonstriktorlar, masalan, _angiotenzin II_ ham rağbatlantiradi. NO ajralişining ortişi haddan taşqari vazokonstriksiyadan himoya qiladi."
+  },
+  "ch17-f50": {
+   "text": "Endotelial hujayralar surunkali gipertenziya yoki ateroskleroz tufayli şikastlanganda NO sintezining buzilişi haddan taşqari vazokonstriksiyaga hamda gipertenziya va endotelial şikastlanişning oğirlaşişiga hissa qöşişi mumkin. Davolanmasa, bu oxir-oqibat tomirlar şikastlanişiga va yurak, buyraklar hamda boş miya kabi zaif töqimalarning zararlanişiga olib kelişi mumkin."
+  },
+  "ch17-f51": {
+   "text": "NO kaşf etilişidan oldin ham klinitsistlar _stenokardiya_ (angina pectoris) — ya’ni yurak muskuli işemiyasi tufayli yuzaga keladigan kuçli kökrak oğriği bölgan bemorlarni davolaş uçun nitroglitserin, amilnitrat va boşqa nitrat hosilalarini qöllagan. Bu dorilar kimyoviy parçalanganda NO ajratadi va butun tanadagi qon tomirlari, jumladan koronar qon tomirlarining kengayişiga sabab böladi."
+  },
+  "ch17-f52": {
+   "text": "NO fiziologiyasi va farmakologiyasining boşqa muhim tatbiqlari — cGMP ni parçalaydigan ferment bölgan _cGMP ga xos fosfodiesteraza-5_ (PDE-5) ni ingibitsiya qiluvçi dorilarni (masalan, sildenafil) işlab çiqiş va klinik qöllaşdir. cGMP parçalanişining oldini oliş orqali PDE-5 ingibitorlari NO ning vazodilatatsiyaga sabab böluvçi ta’sirini samarali ravişda uzaytiradi. PDE-5 ingibitorlarining asosiy klinik qöllanilişi — _erektil disfunksiyani_ davolaş. Jinsiy olat erektsiyasi çanoq nervlari orqali jinsiy olatga boruvçi parasimpatik nerv impulslari tufayli yuzaga keladi; u yerda neyromediatorlar atsetilxolin va NO ajraladi. 81-bobda muhokama qilinganidek, NO parçalanişining oldini oliş orqali PDE-5 ingibitorlari jinsiy olatdagi qon tomirlarining kengayişini kuçaytiradi va erektsiyaga yordam beradi."
+  },
+  "ch17-f53": {
+   "text": "Endotelial hujayralar vazokonstriktor moddalarni ham ajratadi. Ularning eng muhimi — _endotelin_; bu 27 ta aminokislotadan iborat yirik peptid bölib, kuçli vazokonstriksiyani yuzaga keltirişi uçun uning juda oz miqdori (nanogrammlar) kifoya. Bu modda barça yoki köpçilik qon tomirlarining endotelial hujayralarida mavjud, biroq tomirlar şikastlanganda uning miqdori keskin ortadi. Uning ajralişi uçun odatiy stimul — endoteliyning şikastlanişi, masalan, töqimalarning ezilişi yoki qon tomiriga şikastlovçi kimyoviy modda yuborilişi natijasidagi şikastlaniş. Qon tomiri oğir şikastlangandan keyin endotelinning mahalliy ajralişi va undan keyingi vazokonstriksiya eziliş jarohati natijasida yorilib ketgan, diametri 5 millimetrgaça bölgan arteriyalardan kuçli qon ketişining oldini olişga yordam beradi.",
+   "lead": "Endotelin — şikastlangan endoteliydan ajraladigan kuçli vazokonstriktor."
+  },
+  "ch17-f54": {
+   "text": "Endoteliy gipertenziya tufayli şikastlanganda endotelin ajralişining ortişi ham vazokonstriksiyaga hissa qöşadi, deb hisoblanadi. Endotelin retseptorlarini bloklovçi dorilar _öpka gipertenziyasini_ davolaşda qöllanilgan, biroq tizimli arterial gipertenziyasi bölgan bemorlarda qon bosimini pasaytiriş uçun odatda işlatilmagan."
+  },
+  "ch17-f55": {
+   "text": "Qon oqimining uzoq muddatli boşqarilişi"
+  },
+  "ch17-f56": {
+   "text": "Hozirgaça biz muhokama qilgan mahalliy qon oqimini boşqariş mexanizmlarining köpçiligi mahalliy töqima şaroiti özgargandan keyin bir neça soniyadan bir neça daqiqagaça bölgan vaqt içida ta’sir qiladi. Biroq bu tezkor mexanizmlar töliq faollaşgandan keyin ham qon oqimi odatda töqimalarning aniq qöşimça ehtiyojlariga nisbatan yölning atigi törtdan uç qismigaça moslaşadi. Masalan, arterial bosim tösatdan 100 dan 150 mm Hg gaça oşganda qon oqimi deyarli bir zumda taxminan 100% ortadi. Söngra 30 soniyadan 2 daqiqagaça bölgan vaqt içida oqim dastlabki nazorat qiymatidan taxminan 10–15% yuqori darajagaça qaytib pasayadi. Bu misol mahalliy qon oqimini boşqarişning tezkor mexanizmlari qançalik tez işlaşini körsatadi, biroq ayni paytda boşqariş hali töliq emasligini ham namoyiş etadi, çunki ba’zi töqimalarda 10–15% ortiqça qon oqimi saqlanib qoladi."
+  },
+  "ch17-f57": {
+   "text": "Biroq soatlar, kunlar va haftalar davomida tezkor boşqarişdan taşqari mahalliy qon oqimini uzoq muddatli boşqariş ham şakllanadi. Bu uzoq muddatli boşqariş qon oqimini ança töliqroq nazorat qiladi. Yuqoridagi misolda, agar arterial bosim çeksiz uzoq vaqt 150 mm Hg da saqlanib tursa, töqimalar orqali qon oqimi bir neça hafta içida asta-sekin deyarli aynan me’yoriy oqim darajasiga yaqinlaşadi. **Rasm 17-5** da (_uzuq-uzuq yaşil egri çiziq_) mahalliy qon oqimini uzoq muddatli boşqarişning nihoyatda yuqori samaradorligi körsatilgan. E’tibor bering: uzoq muddatli boşqariş yuzaga çiqişi uçun vaqt ötgaç, arterial bosimning 50 dan 200 mm Hg gaça oraliqdagi uzoq muddatli özgarişlari mahalliy qon oqimi tezligiga kam ta’sir qiladi."
+  },
+  "ch17-f58": {
+   "text": "Qon oqimini uzoq muddatli boşqariş töqimaning metabolik ehtiyojlari özgarganda ayniqsa muhim. Masalan, agar töqima surunkali ravişda haddan taşqari faol bölib, köproq kislorod va boşqa oziq moddalarni talab qilsa, qon aylaniş tizimi patologik özgarmagan yoki javob bera olmaydigan darajada qarimagan bölsa, arteriolalar va kapillyar tomirlar odatda bir neça hafta içida töqima ehtiyojlariga mos ravişda ham soni, ham ölçami jihatidan ortadi."
+  },
+  "ch17-f59": {
+   "text": "Töqima tomirlanişining özgarişi orqali qon oqimini boşqariş"
+  },
+  "ch17-f60": {
+   "text": "Mahalliy qon oqimini uzoq muddatli boşqarişning asosiy mexanizmlaridan biri — töqimalarning tomirlaniş darajasini özgartiriş. Masalan, agar töqimada metabolizm uzoq vaqt kuçaygan bölsa, tomirlaniş ortadi — bu jarayon umuman _angiogenez_ deb ataladi; agar metabolizm pasaysa, tomirlaniş kamayadi. **Rasm 17-7** da 30 kun davomida har kuni qisqa muddatlarga elektr bilan qözğatib qisqartirilgan kalamuş oldingi katta boldir muskulida kapillyarlar sonining hayvonning boşqa oyoğidagi qözğatilmagan muskulga nisbatan keskin köpayganligi körsatilgan."
+  },
+  "ch17-f62": {
+   "text": "Şunday qilib, töqimalar ehtiyojlarini qondiriş uçun töqima tomirlarining haqiqiy jismoniy qayta qurilişi sodir böladi. Bu qayta quriliş yoş hayvonlarda tez (bir neça kun içida) yuz beradi. U saraton töqimasi kabi yangi ösayotgan töqimada ham tez keçadi, biroq eski, töliq şakllangan töqimalarda ança sekin boradi. Şu sababli uzoq muddatli boşqariş amalga oşişi uçun zarur vaqt yangi tuğilgan çaqaloqda atigi bir neça kun bölsa, keksa odamlarda oylab davom etişi mumkin. Bundan taşqari, javobning yakuniy darajasi keksa töqimalarga qaraganda yoş töqimalarda ança yaxşi; masalan, yangi tuğilgan çaqaloqda tomirlaniş töqimaning qon oqimiga bölgan ehtiyojiga deyarli aynan mos ravişda moslaşadi, keksa töqimalarda esa tomirlaniş köpinça töqimalar ehtiyojidan ança orqada qoladi."
+  },
+  "ch17-f63": {
+   "text": "Kislorod nafaqat mahalliy qon oqimini tezkor boşqariş, balki uzoq muddatli boşqariş uçun ham muhim. Bunga misol — atmosfera kislorodi kam bölgan baland toğli joylarda yaşovçi hayvonlar töqimalarida tomirlanişning ortişi. Davolaş maqsadida kislorod çodiriga joylaştirilgan çala tuğilgan çaqaloqlarda ortiqça kislorod çaqaloq közlarining tör pardasida yangi tomirlar ösişini deyarli darhol töxtatadi va hatto allaqaçon şakllangan ba’zi kiçik tomirlarning degeneratsiyasiga sabab böladi. Çaqaloq kislorod çodiridan çiqarilganda, mavjud kislorodning tösatdan kamayişini qoplaş uçun yangi tomirlarning portlaşsimon haddan taşqari ösişi yuz beradi. Köpinça ösiş şu qadar kuçli böladiki, tör parda tomirlari tör pardadan közning şişasimon tanasiga ösib kiradi va oxir-oqibat körlikka olib keladi; bu holat _retrolental fibroplaziya_ deb ataladi.",
+   "lead": "Uzoq muddatli boşqarişda kislorodning roli."
+  },
+  "ch17-f64": {
+   "text": "Yangi qon tomirlari ösişini kuçaytiradigan ön ikki yoki undan ortiq omil aniqlangan; ularning deyarli barçasi kiçik peptidlardir. Eng yaxşi örganilgan törtta omil — _qon tomir endoteliysi ösiş omili_ (VEGF), _fibroblastlar ösiş omili_, _trombotsitar ösiş omili_ (PDGF) va _angiogenin_; ularning har biri qon bilan yetarli ta’minlanmagan töqimalardan ajratib olingan. Töqimada kislorod yetişmovçiligi _gipoksiya ta’sirida induksiyalanuvçi omillar_ (HIF) ekspressiyasini qözğatadi; bu transkripsiya omillari öz navbatida gen ekspressiyasini va tomir ösiş omillari (_angiogen omillar_ deb ham ataladi) hosil bölişini kuçaytiradi.",
+   "lead": "Yangi qon tomirlari hosil bölişida tomir ösiş omillarining ahamiyati."
+  },
+  "ch17-f65": {
+   "text": "Angiogenez boşqa kiçik tomirlardan yangi tomirlarning kurtaklanib çiqişi bilan boşlanadi. Birinçi bosqiç — kurtaklaniş joyida endotelial hujayralar bazal membranasining erişi. Bu bosqiçdan söng yangi endotelial hujayralar tez köpayadi va tomir devori orqali angiogen omil manbai tomon yönalgan uzun tasmalar şaklida taşqariga oqib çiqadi. Har bir tasmadagi hujayralar bölinişda davom etadi va tezda nayça şaklida buklanadi. Söngra bu nayça boşqa donor tomirdan (boşqa arteriola yoki venuladan) kurtaklanib çiqqan boşqa nayça bilan tutaşadi va qon oqa boşlaydigan kapillyar halqa hosil qiladi. Agar oqim yetarliça katta bölsa, oxir-oqibat devorga silliq muskul hujayralari kirib keladi, şuning uçun yangi tomirlarning ba’zilari oxir-oqibat yangi arteriolalar yoki venulalarga, balki undan ham yirikroq tomirlarga aylanadi. Şunday qilib, angiogenez mahalliy töqimalardagi metabolik omillar yangi tomirlar ösişiga qanday sabab bölişini tuşuntiradi."
+  },
+  "ch17-f66": {
+   "text": "Ba’zi steroid gormonlar kabi ayrim boşqa moddalar kiçik qon tomirlariga teskari ta’sir körsatadi va ba’zan hatto tomir hujayralarining erişiga va tomirlarning yöqolişiga sabab böladi. Şu sababli qon tomirlari kerak bölmaganda ularni yöqolib ketişga ham majbur qiliş mumkin. Töqimalarda hosil böladigan peptidlar ham yangi qon tomirlari ösişini tösib qöyişi mumkin. Masalan, plazminogen oqsilining bir bölagi bölgan _angiostatin_ angiogenezning tabiiy ingibitori hisoblanadi. _Endostatin_ esa XVII tip kollagenning parçalanişidan hosil böladigan yana bir antiangiogen peptid. Bu antiangiogen moddalarning aniq fiziologik vazifalari hali noma’lum bölsa-da, ularni saraton ösmalarida qon tomirlari ösişini töxtatiş va şu tariqa tez ösayotgan ösmalarni oziq moddalar bilan ta’minlaş uçun zarur bölgan qon oqimining keskin ortişiga yöl qöymaslik maqsadida qöllaş imkoniyatiga katta qiziqiş bor."
+  },
+  "ch17-f67": {
+   "text": "Tomirlarni uzoq muddatli boşqarişning ayniqsa qimmatli xususiyati şundaki, tomirlaniş asosan töqimaning örtaça ehtiyoji bilan emas, balki u talab qiladigan qon oqimining _maksimal_ darajasi bilan belgilanadi. Masalan, oğir jismoniy maşq paytida butun tana qon oqimiga bölgan ehtiyoj köpinça tinç holatdagi qon oqimidan olti-sakkiz marta ortadi. Oqimning bunday katta ortiqçaligi har kuni bir neça daqiqadan ortiq talab qilinmasligi mumkin. Şunga qaramay, hatto şu qisqa ehtiyoj vaqti ham muskullarda ularning tomirlanişini zarur darajada oşiriş uçun yetarli angiogen omillar hosil bölişiga sabab bölişi mumkin. Agar bu qobiliyat bölmaganida, odam har safar oğir jismoniy maşq qilmoqçi bölganda muskullar zarur oziq moddalarni, ayniqsa zarur kislorodni ololmas va şu sababli qisqara olmas edi.",
+   "lead": "Tomirlanişni örtaça ehtiyoj emas, balki qon oqimiga bölgan maksimal ehtiyoj belgilaydi."
+  },
+  "ch17-f68": {
+   "text": "Biroq qöşimça tomirlaniş rivojlangandan keyin qöşimça qon tomirlari odatda asosan toraygan holatda qoladi va faqat tegişli mahalliy stimullar — masalan, kislorod yetişmasligi, nervlarning vazodilatatsiyalovçi stimullari yoki boşqa stimullar zarur qöşimça oqimni talab qilgandagina qöşimça oqimga imkon beriş uçun oçiladi."
+  },
+  "ch17-f69": {
+   "text": "Kollateral qon aylanişining rivojlanişi orqali qon oqimini boşqariş"
+  },
+  "ch17-f70": {
+   "text": "Tananing köpçilik töqimalarida arteriya yoki vena berkilib qolganda odatda tösiq atrofida yangi tomir yöli rivojlanadi va zararlangan töqimani qon bilan heç bölmaganda qisman qayta ta’minlaşga imkon beradi. Bu jarayonning birinçi bosqiçi — tösiqdan yuqoridagi tomirni pastdagi tomir bilan allaqaçon tutaştirib turgan kiçik tomir halqalarining kengayişi. Bu kengayiş dastlabki bir-ikki daqiqa içida yuz beradi, bu esa uning, ehtimol, metabolik omillar vositasida amalga oşişini körsatadi. Kollateral tomirlarning bu dastlabki oçilişidan keyin qon oqimi köpinça hali ham töqimaning barça ehtiyojlarini qondiriş uçun zarur miqdorning 25% idan kam böladi. Biroq keyingi soatlar davomida yana qöşimça oçiliş yuz beradi, şu tufayli 1 kun içida töqima ehtiyojlarining yarmigaça qondirilişi, bir neça kun içida esa qon oqimi odatda töqima ehtiyojlarini qondiriş uçun yetarli bölişi mumkin."
+  },
+  "ch17-f71": {
+   "text": "Kollateral tomirlar şundan keyin ham köp oylar davomida ösişda davom etadi va odatda bitta yirik tomir emas, balki köplab kiçik kollateral yöllar hosil qiladi. Tinç holatda qon oqimi deyarli me’yorga qaytişi mumkin, biroq yangi yöllar kamdan-kam hollarda töqimaning jadal faoliyati paytida zarur böladigan qon oqimini ta’minlaş uçun yetarliça kattalaşadi. Şunday qilib, kollateral tomirlarning rivojlanişi mahalliy qon oqimini tezkor va uzoq muddatli boşqarişning odatiy tamoyillariga böysunadi: tezkor boşqariş — bu tez metabolik kengayiş, undan keyin esa surunkali ravişda haftalar va oylar davomida yangi tomirlarning ösişi va kattalaşişi."
+  },
+  "ch17-f72": {
+   "text": "Kollateral qon tomirlari rivojlanişining muhim misoli koronar arteriyalardan biri trombozga uçragandan keyin kuzatiladi. 60 yoşga kelib köp odamlarda kiçikroq koronar tarmoqlardan kamida bittasi berkilgan yoki heç bölmaganda qisman okklyuziyaga uçragan böladi, biroq ular buni sezmaydi, çunki kollateral qon tomirlari miokard şikastlanişining oldini oliş uçun yetarliça tez rivojlangan. Koronar yetişmovçilikning tezligi yoki oğirligi tufayli kollateral qon tomirlari qon oqimini saqlab qoliş uçun yetarliça tez rivojlana olmaganda oğir yurak xurujlari yuz berişi mumkin."
+  },
+  "ch17-f73": {
+   "text": "Qon oqimi yoki qon bosimining surunkali özgarişlariga javoban tomirlarning qayta şakllanişi (remodellanişi)"
+  },
+  "ch17-f74": {
+   "text": "Tomirlarning ösişi va qayta şakllanişi (remodellanişi) töqimalar rivojlanişi va ösişining hal qiluvçi tarkibiy qismlari bölib, qon bosimi yoki qon oqimining uzoq muddatli özgarişlariga moslaşuv javobi sifatida ham yuz beradi. Masalan, bir neça oylik surunkali jismoniy maşğulotlardan keyin maşq qilingan muskullarning tomirlanişi ularning qon oqimiga bölgan ortgan ehtiyojiga moslaşiş uçun ortadi. Kapillyarlar ziçligidagi özgarişlardan taşqari, qon bosimi va qon oqimining uzoq muddatli özgarişlariga javoban yirik qon tomirlarining tuzilişida ham özgarişlar bölişi mumkin. Masalan, qon bosimi surunkali ravişda me’yordan yuqori bölganda yirik va kiçik arteriyalar hamda arteriolalar yuqori qon bosimining devorga körsatadigan ortgan mexanik kuçlanişiga moslaşiş uçun qayta şakllanadi. Köpçilik töqimalarda kiçik arteriyalar va arteriolalar arterial bosim oşişiga tez (soniyalar içida) vazokonstriksiya bilan javob beradi; avval muhokama qilinganidek, bu töqima qon oqimining autoregulyatsiyasiga yordam beradi. Vazokonstriksiya tomir böşliğining diametrini kamaytiradi, bu esa öz navbatida tomir devori tarangligini (T) me’yorlaştirişga intiladi; _Laplas tenglamasiga_ köra, taranglik qon tomiri radiusi (r) bilan undagi bosim (P) köpaytmasiga teng: T = r × P"
+  },
+  "ch17-f75": {
+   "text": "Qon bosimi oşişiga javoban torayadigan kiçik qon tomirlarida tomir silliq muskul hujayralari va endotelial hujayralar asta-sekin — bir neça kun yoki hafta davomida — kiçraygan böşliq diametri atrofida qayta joylaşadi; bu jarayon _içkariga yönalgan evtrofik remodellaniş_ deb ataladi va bunda tomir devorining umumiy köndalang kesim yuzasi özgarmaydi (**Rasm 17-8**). Ortgan bosimga javoban toraymaydigan yirik arteriyalarda tomir devori ortgan devor tarangligiga duç keladi; bu _gipertrofik remodellaniş_ javobini va tomir devori köndalang kesim yuzasining ortişini rağbatlantiradi. Gipertrofik javob tomir silliq muskul hujayralarining ölçamini oşiradi va kollagen hamda fibronektin kabi qöşimça hujayradan taşqari matriks oqsillari hosil bölişini rağbatlantiradi; bu oqsillar tomir devorining yuqori qon bosimiga bardoş berişi uçun uning mustahkamligini oşiradi. Biroq bu gipertrofik javob yirik qon tomirlarini qattiqroq ham qiladi; bu surunkali gipertenziyaning öziga xos belgisidir."
+  },
+  "ch17-f77": {
+   "text": "Tomirlar remodellanişining yana bir misoli — koronar arteriyalarni şuntlaş (bypass) operatsiyasida bemorga yirik vena (köpinça teri osti katta venasi) implantatsiya qilinganda yuz beradigan özgariş. Venalar odatda arteriyalarga qaraganda ança past bosimga duç keladi va devorlari ança yupqa böladi, biroq vena aortaga tikilib, koronar arteriyaga ulanganda u böşliq içidagi bosim va devor tarangligining ortişiga duç keladi. Ortgan devor tarangligi tomir silliq muskul hujayralari gipertrofiyasini va hujayradan taşqari matriks hosil bölişining kuçayişini boşlab beradi; bular vena devorini qalinlaştiradi va mustahkamlaydi. Natijada arterial tizimga implantatsiya qilingandan bir neça oy ötgaç vena devorining qalinligi odatda arteriyanikiga öxşaş bölib qoladi."
+  },
+  "ch17-f78": {
+   "text": "Tomirlar remodellanişi qon tomiri surunkali ravişda ortgan yoki kamaygan qon oqimiga duç kelganda ham yuz beradi. Yirik arteriya va yirik venani tutaştiruvçi, şu tariqa qarşiligi yuqori bölgan kiçik tomirlar va kapillyarlarni butunlay çetlab ötuvçi fistula yaratilişi zararlangan arteriya va venadagi remodellanişning ayniqsa qiziqarli misolidir. Dializ olayotgan buyrak yetişmovçiligi bölgan bemorlarda dializ uçun tomirga kiriş imkonini yaratiş maqsadida bilakdagi bilak arteriyasidan bevosita tirsak oldi venasiga arteriovenoz (A-V) fistula hosil qilinadi. Fistulaning ötkazuvçanligiga qarab bilak arteriyasidagi qon oqimi tezligi me’yoriy oqim tezligidan 10–50 martagaça oşişi mumkin. Yuqori oqim tezligi va tomir devoriga ta’sir qiluvçi yuqori siljituvçi kuçlaniş natijasida bilak arteriyasi böşliğining diametri asta-sekin kattalaşadi (_taşqariga yönalgan remodellaniş_), tomir devorining qalinligi esa özgarmasdan qolişi mumkin; natijada tomir devorining köndalang kesim yuzasi ortadi. Fistulaning venoz tomonida esa, aksinça, bosim va qon oqimining ortişiga javoban tomir devorining qalinligi, böşliq diametri va devorning köndalang kesim yuzasi ortadi (_taşqariga yönalgan gipertrofik remodellaniş_). Remodellanişning bu tarzi quyidagi fikrga mos keladi: tomir devori tarangligining uzoq muddatli ortişi yirik qon tomirlarida gipertrofiya va devor qalinligining ortişiga sabab böladi, qon oqimi tezligi va siljituvçi kuçlanişning ortişi esa ortgan qon oqimini siğdiriş uçun taşqariga yönalgan remodellaniş va böşliq diametrining kattalaşişiga olib keladi."
+  },
+  "ch17-f79": {
+   "text": "Qon bosimi va qon oqimining surunkali pasayişi yuqorida tasvirlanganlarga teskari ta’sir körsatadi. Qon oqimi keskin kamayganda tomir böşliğining diametri ham kiçrayadi, qon bosimi pasayganda esa tomir devorining qalinligi odatda kamayadi. Şunday qilib, tomirlar remodellanişi qon tomirlarining töqimalar ösişi va rivojlanişiga, şuningdek, qon bosimi va töqimalarga keladigan qon oqimidagi fiziologik va patologik özgarişlarga muhim moslaşuv javobidir."
+  },
+  "ch17-f80": {
+   "text": "Qon aylanişining gumoral boşqarilişi"
+  },
+  "ch17-f81": {
+   "text": "Qon aylanişining gumoral boşqarilişi deganda tana suyuqliklariga ajraladigan yoki söriladigan moddalar — masalan, gormonlar va mahalliy hosil böladigan omillar — orqali boşqariş tuşuniladi. Bu moddalarning ba’zilari maxsus bezlarda hosil böladi va qon orqali butun tanaga tarqaladi. Boşqalari esa mahalliy töqima sohalarida hosil böladi va faqat mahalliy qon aylanişiga ta’sir körsatadi. Qon aylanişi faoliyatiga ta’sir qiluvçi eng muhim gumoral omillar qatoriga quyidagi bölimlarda tasvirlanganlar kiradi."
+  },
+  "ch17-f82": {
+   "text": "_Noradrenalin_ (norepinefrin) ayniqsa kuçli vazokonstriktor gormon; _adrenalin_ (epinefrin) vazokonstriktor sifatida kuçsizroq bölib, ba’zi töqimalarda hatto yengil vazodilatatsiyaga sabab böladi. (Adrenalin keltirib çiqaradigan vazodilatatsiyaning maxsus misoli — yurak faolligi ortganda koronar arteriyalarning kengayişi.)",
+   "lead": "Noradrenalin va adrenalin."
+  },
+  "ch17-f83": {
+   "text": "Stress yoki jismoniy maşq paytida tananing köpçilik qismlarida simpatik nerv tizimi qözğalganda alohida töqimalardagi simpatik nerv uçlari noradrenalin ajratadi; u yurakni qözğatadi, venalar va arteriolalarni toraytiradi. Bundan taşqari, buyrak usti bezlarining mağiz qavatiga boruvçi simpatik nervlar bu bezlarning qonga noradrenalin va adrenalin ajratişiga sabab böladi. Keyin bu gormonlar qon orqali tananing barça sohalariga tarqaladi va qon aylanişiga bevosita simpatik qözğaliş bilan deyarli bir xil ta’sir körsatadi; şu tariqa ikki tomonlama boşqaruv tizimi yuzaga keladi: (1) bevosita nerv qözğalişi va (2) aylanayotgan qondagi noradrenalin va/yoki adrenalinning bilvosita ta’siri."
+  },
+  "ch17-f84": {
+   "text": "Angiotenzin II yana bir kuçli vazokonstriktor modda. Uning atigi _milliondan bir_ grammi ham odamning arterial bosimini 50 mm Hg yoki undan köproqqa oşirişi mumkin.",
+   "lead": "Angiotenzin II."
+  },
+  "ch17-f85": {
+   "text": "Angiotenzin II ning ta’siri — kiçik arteriolalarni kuçli toraytiriş. Agar bu torayiş alohida töqima sohasida yuz bersa, şu sohaga keladigan qon oqimi keskin pasayişi mumkin. Biroq angiotenzin II ning asl ahamiyati şundaki, u me’yorda bir vaqtning özida tanadagi köplab arteriolalarga ta’sir qilib, _umumiy periferik qarşilikni_ oşiradi va buyraklar orqali natriy va suv çiqarilişini kamaytiradi, şu tariqa arterial bosimni oşiradi. Şunday qilib, 19-bobda batafsil muhokama qilinganidek, bu gormon arterial bosimni boşqarişda ajralmas rol öynaydi."
+  },
+  "ch17-f86": {
+   "text": "_Antidiuretik gormon_ deb ham ataladigan _vazopressin_ vazokonstriktor sifatida angiotenzin II dan ham kuçliroq bölib, tanadagi eng kuçli tomir toraytiruvçi moddalardan biri hisoblanadi. U boş miya gipotalamusidagi nerv hujayralarida hosil böladi (qarang: 29- va 76-boblar), söngra nerv aksonlari böylab pastga — gipofizning orqa bölagiga taşiladi va u yerda nihoyat qonga ajratiladi.",
+   "lead": "Vazopressin."
+  },
+  "ch17-f87": {
+   "text": "Vazopressin qon aylanişi faoliyatiga juda katta ta’sir körsatişi mumkinligi aniq. Biroq köpçilik fiziologik şaroitlarda vazopressinning faqat juda oz miqdori ajralgani sababli köpçilik fiziologlar vazopressin tomirlarni boşqarişda kam rol öynaydi, deb hisoblagan. Şunga qaramay, tajribalar oğir qon yöqotişdan keyin aylanayotgan qondagi vazopressin konsentratsiyasi arterial bosim pasayişini sezilarli darajada yumşatiş uçun yetarli darajada ortişi mumkinligini körsatgan. Ba’zi hollarda bu ta’sirning özi arterial bosimni deyarli me’yorgaça kötarişi mumkin."
+  },
+  "ch17-f88": {
+   "text": "Vazopressinning asosiy vazifasi — buyrak kanalçalaridan suvning qonga qayta sörilişini keskin oşiriş (29-bobda muhokama qilinadi) va şu tariqa tana suyuqliklari hajmini boşqarişga yordam beriş. Aynan şu sababli bu gormon _antidiuretik gormon_ deb ham ataladi."
+  },
+  "ch17-f89": {
+   "text": "_Kininlar_ deb ataladigan bir neçta modda ba’zi a’zolarning qoni va töqima suyuqliklarida hosil bölganda kuçli vazodilatatsiyaga sabab böladi. Kininlar plazma yoki töqima suyuqliklaridagi α2-globulinlardan proteolitik fermentlar tomonidan ajratib olinadigan kiçik polipeptidlardir. Bu maqsad uçun ayniqsa muhim proteolitik ferment — _kallikrein_; u qon va töqima suyuqliklarida nofaol şaklda böladi. Bu nofaol kallikrein qonning ezilişi, töqima yalliğlanişi yoki qon yoki töqimalarga boşqa şunga öxşaş kimyoviy yoki fizik ta’sirlar natijasida faollaşadi. Kallikrein faollaşgaç, u darhol α2-globulinga ta’sir qilib, _kallidin_ deb ataladigan kininni ajratadi; söngra u töqima fermentlari tomonidan _bradikininga_ aylantiriladi. Hosil bölgan bradikinin atigi bir neça daqiqa saqlanadi, çunki u _karboksipeptidaza_ fermenti yoki _konvertaza_ (aylantiruvçi ferment) tomonidan inaktivatsiyalanadi; 19-bobda muhokama qilinganidek, aynan şu ferment angiotenzinni faollaştirişda ham muhim rol öynaydi. Faollaşgan kallikrein fermenti tana suyuqliklarida mavjud bölgan _kallikrein ingibitori_ tomonidan parçalanadi.",
+   "lead": "Bradikinin."
+  },
+  "ch17-f90": {
+   "text": "Bradikinin ham kuçli _arteriolalar kengayişiga_, ham _kapillyarlar ötkazuvçanligining ortişiga_ sabab böladi. Masalan, odamning yelka arteriyasiga _1 mikrogramm_ bradikinin yuborilişi qöl orqali qon oqimini olti martagaça oşiradi, töqimalarga mahalliy yuborilgan undan ham kiçik miqdorlar esa kapillyar poralari ölçamining kattalaşişi natijasida sezilarli mahalliy şişga sabab bölişi mumkin."
+  },
+  "ch17-f91": {
+   "text": "Kininlar yalliğlangan töqimalarda qon oqimini va suyuqliklarning kapillyarlardan sizib çiqişini boşqarişda alohida rol öynasa kerak. Bradikinin terida, şuningdek, sölak va me’da-içak bezlarida qon oqimini boşqarişga yordam berişda me’yoriy rol öynaydi, deb ham hisoblanadi."
+  },
+  "ch17-f92": {
+   "text": "Gistamin tananing deyarli har bir töqimasida, agar töqima şikastlansa, yalliğlansa yoki allergik reaksiyaga uçrasa, ajralib çiqadi. Gistaminning katta qismi şikastlangan töqimalardagi _semiz hujayralardan_ (mast hujayralardan) va qondagi _bazofillardan_ hosil böladi.",
+   "lead": "Gistamin."
+  },
+  "ch17-f93": {
+   "text": "Gistamin arteriolalarga kuçli vazodilatatsiyalovçi ta’sir körsatadi va bradikinin kabi kapillyarlar ğovakligini keskin oşiriş qobiliyatiga ega; bu suyuqlik va plazma oqsilining töqimalarga sizib çiqişiga imkon beradi. Köplab patologik holatlarda gistamin keltirib çiqaradigan kuçli arteriolalar kengayişi va kapillyarlar ğovakligining ortişi qon aylanişidan töqimalarga köp miqdorda suyuqlik sizib çiqişiga sabab bölib, şiş yuzaga keltiradi. Gistaminning mahalliy vazodilatatsiyalovçi va şiş hosil qiluvçi ta’sirlari ayniqsa allergik reaksiyalar paytida yaqqol namoyon böladi va 35-bobda muhokama qilinadi."
+  },
+  "ch17-f94": {
+   "text": "Ionlar va boşqa kimyoviy omillar orqali tomirlarning boşqarilişi"
+  },
+  "ch17-f95": {
+   "text": "Köplab turli ionlar va boşqa kimyoviy omillar mahalliy qon tomirlarini kengaytirişi yoki toraytirişi mumkin. Quyidagi röyxatda ularning ayrim öziga xos ta’sirlari keltirilgan: 1. Hujayra içidagi _kalsiy ionlari_ konsentratsiyasining ortişi _vazokonstriksiyaga_ sabab böladi, çunki 8-bobda muhokama qilinganidek, kalsiy umuman silliq muskul qisqarişini rağbatlantiradi. 2. Fiziologik çegaralar doirasida _kaliy ionlari_ konsentratsiyasining ortişi _vazodilatatsiyaga_ sabab böladi. Bu ta’sir kaliy ionlarining silliq muskul qisqarişini tormozlaş qobiliyatidan kelib çiqadi. 3. _Magniy_ ionlari konsentratsiyasining ortişi _kuçli vazodilatatsiyaga_ sabab böladi, çunki magniy ionlari silliq muskul qisqarişini tormozlaydi."
+  },
+  "ch17-f96": {
+   "text": "4. _Vodorod ionlari_ konsentratsiyasining _ortişi_ (pH ning pasayişi) arteriolalarning kengayişiga sabab böladi. Aksinça, _vodorod ionlari konsentratsiyasining biroz kamayişi_ arteriolalarning torayişiga olib keladi. 5. Qon tomirlariga sezilarli ta’sir körsatadigan _anionlar_ — _atsetat_ va _sitrat_; ularning ikkalasi ham yengil darajadagi vazodilatatsiyaga sabab böladi. 6. _Karbonat angidrid konsentratsiyasining ortişi_ köpçilik töqimalarda örtaça, boş miyada esa kuçli vazodilatatsiyaga sabab böladi. Şuningdek, qondagi karbonat angidrid boş miyaning vazomotor markaziga ta’sir qilib, simpatik nerv vazokonstriktor tizimi orqali uzatiladigan nihoyatda kuçli bilvosita ta’sir körsatadi va butun tana böylab keng tarqalgan vazokonstriksiyani keltirib çiqaradi."
+  },
+  "ch17-f97": {
+   "text": "Köpçilik tajriba tadqiqotlarida angiotenzin II kabi kuçli vazokonstriktorlar yoki bradikinin kabi vazodilatatorlar katta miqdorda surunkali infuziya qilinganda töqima qon oqimi va yurak çiqarişi (tananing barça töqimalariga keladigan oqimlar yiğindisi) 1–2 kunni hisobga olmaganda sezilarli darajada özgarmaydi. Nima uçun bu vazoaktiv moddalarning juda katta miqdorlari mavjud bölganda ham köpçilik töqimalarda qon oqimi sezilarli özgarmaydi?",
+   "lead": "Köpçilik vazodilatatorlar yoki vazokonstriktorlar töqimalarning metabolik tezligini özgartirmasa, uzoq muddatli qon oqimiga kam ta’sir qiladi."
+  },
+  "ch17-f98": {
+   "text": "Bu savolga javob beriş uçun avval muhokama qilingan qon aylanişi faoliyatining asosiy tamoyillaridan biriga — har bir töqimaning öz qon oqimini töqimaning metabolik ehtiyojlari va boşqa funksiyalariga muvofiq _autoregulyatsiya_ qiliş qobiliyatiga qaytişimiz kerak. Angiotenzin II kabi kuçli vazokonstriktorni yuboriş töqima qon oqimi va yurak çiqarişining ötkinçi pasayişiga sabab bölişi mumkin, biroq agar u töqimalarning metabolik tezligini özgartirmasa, odatda uzoq muddatli ta’siri kam böladi. Xuddi şunday, köpçilik vazodilatatorlar ham töqima metabolizmini özgartirmasa, töqima qon oqimi va yurak çiqarişida faqat qisqa muddatli özgarişlarga sabab böladi. Şu sababli, arterial bosim töqimalarni perfuziya qiliş uçun yetarli bölar ekan, qon oqimi odatda töqimalarning öziga xos ehtiyojlariga muvofiq boşqariladi."
+  }
+ },
+ "figures": {
+  "gh14-fig-17-01": "Metabolizm tezligi oşişining töqima qon oqimiga ta’siri.",
+  "gh14-fig-17-02": "Arterial qon kislorod bilan töyinganligi pasayişining itning ajratib olingan oyoği orqali qon oqimiga ta’siri.",
+  "gh14-fig-17-03": "Qon oqimini tezkor mahalliy qaytar aloqa orqali boşqarişni tuşuntiriş uçun töqima birligi sohasining sxemasi: töqima orqali ötuvçi metarteriola va kapillyar qon oqimini boşqaruvçi prekapillyar sfinkterli yon kapillyar körsatilgan.",
+  "gh14-fig-17-04": "Töqimani qon bilan ta’minlovçi arteriya vaqtinça okklyuziya qilingandan keyin töqimadagi reaktiv giperemiya va töqima metabolik faolligi ortgandan keyingi faol giperemiya.",
+  "gh14-fig-17-05": "Arterial bosimning turli darajalarining muskul orqali qon oqimiga ta’siri. Uzluksiz qizil egri çiziq arterial bosim bir neça daqiqa davomida oşirilgandagi ta’sirni körsatadi. Uzuq-uzuq yaşil egri çiziq arterial bosim köp haftalar davomida sekin oşirilgandagi ta’sirni körsatadi.",
+  "gh14-fig-17-06": "Endotelial hujayralardagi azot oksidi sintaza (eNOS) fermenti arginin va kisloroddan azot oksidi (NO) sintez qiladi. NO tomir silliq muskul hujayralarida eruvçan guanilatsiklazalarni faollaştiradi; natijada siklik guanozin trifosfat (cGTP) siklik guanozin monofosfatga (cGMP) aylanadi va bu oxir-oqibat qon tomirlarining böşaşişiga sabab böladi.",
+  "gh14-fig-17-07": "30 kun davomida har kuni qisqa muddatlarga elektr bilan qözğatib qisqartirilgan kalamuş oldingi katta boldir muskulida (B) qözğatilmagan muskulga (A) nisbatan kapillyarlar (oq nuqtalar) sonining keskin köpayişi. 30 kunlik uzlukli elektr stimulyatsiyasi asosan tez qisqaruvçi, glikolitik oldingi katta boldir muskulini rasmda körsatilganidek, kapillyarlar soni köpaygan va tolalar diametri kiçraygan, asosan sekin qisqaruvçi, oksidlovçi muskulga aylantirdi. (Dr. Thomas Adair ruxsati bilan.)",
+  "gh14-fig-17-08": "Qon bosimi yoki qon oqimining surunkali ortişiga javoban tomirlarning remodellanişi. Qon bosimi oşişiga javoban torayadigan kiçik arteriyalar va arteriolalarda odatda içkariga yönalgan evtrofik remodellaniş yuz beradi: böşliq diametri kiçrayadi va tomir devori qalinlaşadi, biroq tomir devorining umumiy köndalang kesim yuzasi deyarli özgarmaydi. Qon bosimi oşişiga javoban toraymaydigan yirik qon tomirlarida gipertrofik remodellaniş bölişi mumkin; bunda tomir devorining qalinligi va umumiy köndalang kesim yuzasi ortadi. Agar qon tomirlari qon oqimining surunkali ortişiga duç kelsa, odatda taşqariga yönalgan remodellaniş yuz beradi: böşliq diametri kattalaşadi, devor qalinligi kam özgaradi va tomir devorining umumiy köndalang kesim yuzasi ortadi. Agar qon tomiri qon bosimi va qon oqimining uzoq muddatli ortişiga duç kelsa, odatda taşqariga yönalgan gipertrofik remodellaniş yuz beradi: böşliq diametri, devor qalinligi va tomir devorining umumiy köndalang kesim yuzasi ortadi. Avval tasvirlanganidek, qon bosimi va qon oqimining surunkali pasayişi teskari ta’sir körsatadi.",
+  "gh14-tab-17-01": "Bazal şaroitda turli a’zo va töqimalarga keladigan qon oqimi"
+ }
+}

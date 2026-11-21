@@ -1,0 +1,993 @@
+{
+ "origin": "Claude (DrStudy sessiyasi) — kitobning özbekça izohlari (Guyton & Hall, 14-naşr) asosida, 2026-11-17. Ekspert tekşiruvi kerak.",
+ "questions": [
+  {
+   "id": "q06-c33-01",
+   "version": 1,
+   "topicId": "06",
+   "lessonId": "ch33",
+   "stem": "Eritrotsitning örtaça umri qança?",
+   "options": [
+    {
+     "id": "q06-c33-01-a",
+     "text": "4–8 soat"
+    },
+    {
+     "id": "q06-c33-01-b",
+     "text": "~10 kun"
+    },
+    {
+     "id": "q06-c33-01-c",
+     "text": "~1 yil"
+    },
+    {
+     "id": "q06-c33-01-d",
+     "text": "~120 kun"
+    }
+   ],
+   "answerOptionId": "q06-c33-01-d",
+   "explanation": "Eritrotsit ~120 kun yaşaydi; trombotsit 8–12 kun, granulotsit qonda 4–8 soat.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch33",
+    "topicId": "06",
+    "blockId": "ch33-u1",
+    "printedPage": 415,
+    "pdfPage": 420,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q06-c33-02",
+   "version": 1,
+   "topicId": "06",
+   "lessonId": "ch33",
+   "stem": "1 g gemoglobin qança O₂ biriktiradi?",
+   "options": [
+    {
+     "id": "q06-c33-02-a",
+     "text": "5 ml"
+    },
+    {
+     "id": "q06-c33-02-b",
+     "text": "1,34 ml"
+    },
+    {
+     "id": "q06-c33-02-c",
+     "text": "20 ml"
+    },
+    {
+     "id": "q06-c33-02-d",
+     "text": "0,03 ml"
+    }
+   ],
+   "answerOptionId": "q06-c33-02-b",
+   "explanation": "1 g Hb 1,34 ml O₂ biriktiradi; 100 ml qon erkaklarda ~20 ml, ayollarda ~19 ml O₂ taşiydi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch33",
+    "topicId": "06",
+    "blockId": "ch33-u3",
+    "printedPage": 415,
+    "pdfPage": 420,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q06-c33-03",
+   "version": 1,
+   "topicId": "06",
+   "lessonId": "ch33",
+   "stem": "Kattalarda eritrotsitlar asosan qayerda hosil böladi?",
+   "options": [
+    {
+     "id": "q06-c33-03-a",
+     "text": "Taloqda"
+    },
+    {
+     "id": "q06-c33-03-b",
+     "text": "Sariqlik xaltasida"
+    },
+    {
+     "id": "q06-c33-03-c",
+     "text": "Jigarda"
+    },
+    {
+     "id": "q06-c33-03-d",
+     "text": "Pardasimon suyaklar iligida (umurtqa, töş, qovurğa, yonboş suyagi)"
+    }
+   ],
+   "answerOptionId": "q06-c33-03-d",
+   "explanation": "~20 yoşdan keyin uzun suyaklar iliği yoğga aylanadi; eritropoez asosan pardasimon suyaklarda davom etadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch33",
+    "topicId": "06",
+    "blockId": "ch33-u5",
+    "printedPage": 415,
+    "pdfPage": 420,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q06-c33-04",
+   "version": 1,
+   "topicId": "06",
+   "lessonId": "ch33",
+   "stem": "Eritrotsit rivojlanişining qaysi bosqiçida gemoglobin ilk bor paydo böladi?",
+   "options": [
+    {
+     "id": "q06-c33-04-a",
+     "text": "Polixromatofil eritroblast"
+    },
+    {
+     "id": "q06-c33-04-b",
+     "text": "Retikulotsit"
+    },
+    {
+     "id": "q06-c33-04-c",
+     "text": "Proeritroblast"
+    },
+    {
+     "id": "q06-c33-04-d",
+     "text": "Bazofil eritroblast"
+    }
+   ],
+   "answerOptionId": "q06-c33-04-a",
+   "explanation": "Proeritroblast → bazofil → polixromatofil (Hb paydo böladi) → ortoxromatik eritroblast → retikulotsit → eritrotsit.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch33",
+    "topicId": "06",
+    "blockId": "ch33-u5",
+    "printedPage": 415,
+    "pdfPage": 420,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q06-c33-05",
+   "version": 1,
+   "topicId": "06",
+   "lessonId": "ch33",
+   "stem": "Eritropoezning asosiy regulyatori nima?",
+   "options": [
+    {
+     "id": "q06-c33-05-a",
+     "text": "Qondagi eritrotsitlar soni"
+    },
+    {
+     "id": "q06-c33-05-b",
+     "text": "Temir miqdori"
+    },
+    {
+     "id": "q06-c33-05-c",
+     "text": "Qon bosimi"
+    },
+    {
+     "id": "q06-c33-05-d",
+     "text": "Töqimalarning oksigenatsiyasi (gipoksiya → eritropoetin)"
+    }
+   ],
+   "answerOptionId": "q06-c33-05-d",
+   "explanation": "Gipoksiya buyrakda HIF-1 orqali eritropoetin işlab çiqarişni oşiradi; eritropoetinning ~90% buyrakda hosil böladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch33",
+    "topicId": "06",
+    "blockId": "ch33-u10",
+    "printedPage": 415,
+    "pdfPage": 420,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q06-c33-06",
+   "version": 1,
+   "topicId": "06",
+   "lessonId": "ch33",
+   "stem": "Eritrotsit yetilişi uçun DNK sintezida qaysi vitaminlar zarur?",
+   "options": [
+    {
+     "id": "q06-c33-06-a",
+     "text": "A va E"
+    },
+    {
+     "id": "q06-c33-06-b",
+     "text": "C va D"
+    },
+    {
+     "id": "q06-c33-06-c",
+     "text": "K va B₁"
+    },
+    {
+     "id": "q06-c33-06-d",
+     "text": "B₁₂ va folat"
+    }
+   ],
+   "answerOptionId": "q06-c33-06-d",
+   "explanation": "B₁₂ va folat DNK sintezi uçun kerak; ular yetişmasa yetiliş buziladi. Gemoglobin uçun esa temir kerak.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch33",
+    "topicId": "06",
+    "blockId": "ch33-u1",
+    "printedPage": 415,
+    "pdfPage": 420,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q06-c34-01",
+   "version": 1,
+   "topicId": "06",
+   "lessonId": "ch34",
+   "stem": "Qondagi leykotsitlarning eng köp qismini qaysi hujayralar taşkil qiladi?",
+   "options": [
+    {
+     "id": "q06-c34-01-a",
+     "text": "Neytrofillar (~62%)"
+    },
+    {
+     "id": "q06-c34-01-b",
+     "text": "Limfotsitlar (~30%)"
+    },
+    {
+     "id": "q06-c34-01-c",
+     "text": "Monotsitlar (~5%)"
+    },
+    {
+     "id": "q06-c34-01-d",
+     "text": "Eozinofillar (~2%)"
+    }
+   ],
+   "answerOptionId": "q06-c34-01-a",
+   "explanation": "Normal WBC ~7000/µl: neytrofil 62%, limfotsit 30%, monotsit 5,3%, eozinofil 2,3%, bazofil 0,4%.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch34",
+    "topicId": "06",
+    "blockId": "ch34-u3",
+    "printedPage": 424,
+    "pdfPage": 429,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q06-c34-02",
+   "version": 1,
+   "topicId": "06",
+   "lessonId": "ch34",
+   "stem": "Monotsit töqimaga çiqqaç qanday hujayraga aylanadi?",
+   "options": [
+    {
+     "id": "q06-c34-02-a",
+     "text": "Makrofagga"
+    },
+    {
+     "id": "q06-c34-02-b",
+     "text": "Trombotsitga"
+    },
+    {
+     "id": "q06-c34-02-c",
+     "text": "Plazma hujayraga"
+    },
+    {
+     "id": "q06-c34-02-d",
+     "text": "Neytrofilga"
+    }
+   ],
+   "answerOptionId": "q06-c34-02-a",
+   "explanation": "Monotsit töqimada 5 marta şişib (60–80 µm), lizosomalarga töla makrofagga aylanadi va oylab yaşaydi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch34",
+    "topicId": "06",
+    "blockId": "ch34-u10",
+    "printedPage": 424,
+    "pdfPage": 429,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q06-c34-03",
+   "version": 1,
+   "topicId": "06",
+   "lessonId": "ch34",
+   "stem": "Opsonizatsiya nima?",
+   "options": [
+    {
+     "id": "q06-c34-03-a",
+     "text": "Leykotsitning kimyoviy moddalar tomon harakati"
+    },
+    {
+     "id": "q06-c34-03-b",
+     "text": "Zarraçaga antitana va komplement C3 yopişib, uni fagotsitga \"tanitişi\""
+    },
+    {
+     "id": "q06-c34-03-c",
+     "text": "Leykotsitning kapillyar devoridan ötişi"
+    },
+    {
+     "id": "q06-c34-03-d",
+     "text": "Bakteriyaning hujayra içida parçalanişi"
+    }
+   ],
+   "answerOptionId": "q06-c34-03-b",
+   "explanation": "Fagotsitdagi retseptorlar antitana va C3 ni taniydi, şuning uçun opsonizatsiyalangan zarraça oson yutiladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch34",
+    "topicId": "06",
+    "blockId": "ch34-u13",
+    "printedPage": 424,
+    "pdfPage": 429,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q06-c34-04",
+   "version": 1,
+   "topicId": "06",
+   "lessonId": "ch34",
+   "stem": "Mieloperoksidaza H₂O₂ va Cl⁻ dan qanday bakteritsid modda hosil qiladi?",
+   "options": [
+    {
+     "id": "q06-c34-04-a",
+     "text": "Superoksid"
+    },
+    {
+     "id": "q06-c34-04-b",
+     "text": "Nitrat"
+    },
+    {
+     "id": "q06-c34-04-c",
+     "text": "Gipoxlorit"
+    },
+    {
+     "id": "q06-c34-04-d",
+     "text": "Lizozim"
+    }
+   ],
+   "answerOptionId": "q06-c34-04-c",
+   "explanation": "Mieloperoksidaza H₂O₂ va Cl⁻ dan kuçli bakteritsid gipoxlorit hosil qiladi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch34",
+    "topicId": "06",
+    "blockId": "ch34-u16",
+    "printedPage": 424,
+    "pdfPage": 429,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q06-c34-05",
+   "version": 1,
+   "topicId": "06",
+   "lessonId": "ch34",
+   "stem": "Leykotsitlarning kimyoviy moddalar tomon yönalgan harakati nima deyiladi?",
+   "options": [
+    {
+     "id": "q06-c34-05-a",
+     "text": "Xemotaksis"
+    },
+    {
+     "id": "q06-c34-05-b",
+     "text": "Diapedez"
+    },
+    {
+     "id": "q06-c34-05-c",
+     "text": "Opsonizatsiya"
+    },
+    {
+     "id": "q06-c34-05-d",
+     "text": "Pinotsitoz"
+    }
+   ],
+   "answerOptionId": "q06-c34-05-a",
+   "explanation": "Xemotaksisni bakteriya toksinlari, töqima parçalaniş mahsulotlari, komplement va iviş mahsulotlari qözğatadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch34",
+    "topicId": "06",
+    "blockId": "ch34-u10",
+    "printedPage": 424,
+    "pdfPage": 429,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q06-c35-01",
+   "version": 1,
+   "topicId": "06",
+   "lessonId": "ch35",
+   "stem": "Orttirilgan immunitetning ikki turi qaysilar?",
+   "options": [
+    {
+     "id": "q06-c35-01-a",
+     "text": "Tuğma va passiv"
+    },
+    {
+     "id": "q06-c35-01-b",
+     "text": "Humoral (B-hujayra, antitana) va hujayraviy (T-hujayra)"
+    },
+    {
+     "id": "q06-c35-01-c",
+     "text": "Teri va şilliq qavat tösiği"
+    },
+    {
+     "id": "q06-c35-01-d",
+     "text": "Fagotsitar va komplement"
+    }
+   ],
+   "answerOptionId": "q06-c35-01-b",
+   "explanation": "Ikkala turni antigen boşlaydi va asosan T-helper hujayralar boşqaradi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch35",
+    "topicId": "06",
+    "blockId": "ch35-u3",
+    "printedPage": 434,
+    "pdfPage": 439,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q06-c35-02",
+   "version": 1,
+   "topicId": "06",
+   "lessonId": "ch35",
+   "stem": "T-limfotsitlar qayerda işlov oladi (yetiladi)?",
+   "options": [
+    {
+     "id": "q06-c35-02-a",
+     "text": "Limfa tugunlarida"
+    },
+    {
+     "id": "q06-c35-02-b",
+     "text": "Suyak kömigida"
+    },
+    {
+     "id": "q06-c35-02-c",
+     "text": "Taloqda"
+    },
+    {
+     "id": "q06-c35-02-d",
+     "text": "Timusda"
+    }
+   ],
+   "answerOptionId": "q06-c35-02-d",
+   "explanation": "T-hujayralar timusda, B-hujayralar homila jigari va suyak kömigida (quşlarda Fabrisiy xaltasida) işlov oladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch35",
+    "topicId": "06",
+    "blockId": "ch35-u10",
+    "printedPage": 434,
+    "pdfPage": 439,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q06-c35-03",
+   "version": 1,
+   "topicId": "06",
+   "lessonId": "ch35",
+   "stem": "Timusda öz antigeniga reaksiya bergan T-hujayralar bilan nima sodir böladi?",
+   "options": [
+    {
+     "id": "q06-c35-03-a",
+     "text": "Ular köpayib xotira hujayrasiga aylanadi"
+    },
+    {
+     "id": "q06-c35-03-b",
+     "text": "Ular yöq qilinadi va fagotsitlanadi"
+    },
+    {
+     "id": "q06-c35-03-c",
+     "text": "Ular B-hujayraga aylanadi"
+    },
+    {
+     "id": "q06-c35-03-d",
+     "text": "Ular qonga çiqariladi"
+    }
+   ],
+   "answerOptionId": "q06-c35-03-b",
+   "explanation": "Bu selektsiya autoimmunitetning oldini oladi; hujayralarning 90% gaçasi şu tarzda yöq qilinadi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch35",
+    "topicId": "06",
+    "blockId": "ch35-u12",
+    "printedPage": 434,
+    "pdfPage": 439,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q06-c35-04",
+   "version": 1,
+   "topicId": "06",
+   "lessonId": "ch35",
+   "stem": "Tabiiy killer (NK) hujayralar qaysi immunitet turiga kiradi?",
+   "options": [
+    {
+     "id": "q06-c35-04-a",
+     "text": "Tuğma immunitet"
+    },
+    {
+     "id": "q06-c35-04-b",
+     "text": "Passiv immunitet"
+    },
+    {
+     "id": "q06-c35-04-c",
+     "text": "Allergiya"
+    },
+    {
+     "id": "q06-c35-04-d",
+     "text": "Humoral orttirilgan immunitet"
+    }
+   ],
+   "answerOptionId": "q06-c35-04-a",
+   "explanation": "Tuğma immunitetga fagotsitoz, me’da kislotasi, teri, lizozim, komplement va NK hujayralar kiradi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch35",
+    "topicId": "06",
+    "blockId": "ch35-u5",
+    "printedPage": 434,
+    "pdfPage": 439,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q06-c35-05",
+   "version": 1,
+   "topicId": "06",
+   "lessonId": "ch35",
+   "stem": "Limfotsitlarning millionlab spetsifikligi qanday hosil böladi?",
+   "options": [
+    {
+     "id": "q06-c35-05-a",
+     "text": "Mutatsiyasiz, faqat irsiy yöl bilan"
+    },
+    {
+     "id": "q06-c35-05-b",
+     "text": "Har bir antigen uçun alohida gen mavjudligi tufayli"
+    },
+    {
+     "id": "q06-c35-05-c",
+     "text": "Antigen limfotsitni qayta dasturlaşi orqali"
+    },
+    {
+     "id": "q06-c35-05-d",
+     "text": "Yuzlab gen segmentlarining tasodifiy kombinatsiyasi orqali"
+    }
+   ],
+   "answerOptionId": "q06-c35-05-d",
+   "explanation": "Ildiz hujayrada töliq gen yöq; gen segmentlari işlov paytida tasodifiy birikib töliq genlar hosil qiladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch35",
+    "topicId": "06",
+    "blockId": "ch35-u14",
+    "printedPage": 434,
+    "pdfPage": 439,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q06-c36-01",
+   "version": 1,
+   "topicId": "06",
+   "lessonId": "ch36",
+   "stem": "O qon guruhli odam plazmasida qaysi agglyutininlar bor?",
+   "options": [
+    {
+     "id": "q06-c36-01-a",
+     "text": "Heç qanday agglyutinin yöq"
+    },
+    {
+     "id": "q06-c36-01-b",
+     "text": "Anti-A va anti-B"
+    },
+    {
+     "id": "q06-c36-01-c",
+     "text": "Faqat anti-B"
+    },
+    {
+     "id": "q06-c36-01-d",
+     "text": "Faqat anti-A"
+    }
+   ],
+   "answerOptionId": "q06-c36-01-b",
+   "explanation": "O guruhda eritrotsitlarda A va B antigenlari yöq, plazmada esa anti-A va anti-B bor; AB guruhda agglyutinin yöq.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch36",
+    "topicId": "06",
+    "blockId": "ch36-u8",
+    "printedPage": 446,
+    "pdfPage": 451,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q06-c36-02",
+   "version": 1,
+   "topicId": "06",
+   "lessonId": "ch36",
+   "stem": "Eritrotsitlar anti-A zardobi bilan agglyutinatsiya beradi, anti-B bilan bermaydi. Qon guruhi qaysi?",
+   "options": [
+    {
+     "id": "q06-c36-02-a",
+     "text": "A"
+    },
+    {
+     "id": "q06-c36-02-b",
+     "text": "AB"
+    },
+    {
+     "id": "q06-c36-02-c",
+     "text": "O"
+    },
+    {
+     "id": "q06-c36-02-d",
+     "text": "B"
+    }
+   ],
+   "answerOptionId": "q06-c36-02-a",
+   "explanation": "A guruh: anti-A (+), anti-B (−); B: (−)(+); AB: (+)(+); O: (−)(−).",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch36",
+    "topicId": "06",
+    "blockId": "ch36-u20",
+    "printedPage": 446,
+    "pdfPage": 451,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q06-c36-03",
+   "version": 1,
+   "topicId": "06",
+   "lessonId": "ch36",
+   "stem": "Rh tizimida qaysi antigen eng antigenli bölib, Rh-musbatlikni belgilaydi?",
+   "options": [
+    {
+     "id": "q06-c36-03-a",
+     "text": "A antigeni"
+    },
+    {
+     "id": "q06-c36-03-b",
+     "text": "E antigeni"
+    },
+    {
+     "id": "q06-c36-03-c",
+     "text": "C antigeni"
+    },
+    {
+     "id": "q06-c36-03-d",
+     "text": "D antigeni"
+    }
+   ],
+   "answerOptionId": "q06-c36-03-d",
+   "explanation": "D antigeni bölsa — Rh-musbat, bölmasa — Rh-manfiy.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch36",
+    "topicId": "06",
+    "blockId": "ch36-u22",
+    "printedPage": 446,
+    "pdfPage": 451,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q06-c36-04",
+   "version": 1,
+   "topicId": "06",
+   "lessonId": "ch36",
+   "stem": "O-A-B va Rh tizimlarining asosiy farqi nimada?",
+   "options": [
+    {
+     "id": "q06-c36-04-a",
+     "text": "O-A-B tizimi faqat homiladorlikda ahamiyatli"
+    },
+    {
+     "id": "q06-c36-04-b",
+     "text": "Rh antigenlari plazmada joylaşgan"
+    },
+    {
+     "id": "q06-c36-04-c",
+     "text": "O-A-B agglyutininlari öz-özidan hosil böladi, Rh ga qarşi antitana esa faqat antigen bilan kontaktdan keyin hosil böladi"
+    },
+    {
+     "id": "q06-c36-04-d",
+     "text": "Rh agglyutininlari tuğilişdan bor"
+    }
+   ],
+   "answerOptionId": "q06-c36-04-c",
+   "explanation": "Rh-manfiy odamda anti-Rh faqat Rh+ eritrotsitlar bilan kontaktdan keyin sekin (2–4 oyda) hosil böladi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch36",
+    "topicId": "06",
+    "blockId": "ch36-u22",
+    "printedPage": 446,
+    "pdfPage": 451,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q06-c36-05",
+   "version": 1,
+   "topicId": "06",
+   "lessonId": "ch36",
+   "stem": "O-A-B agglyutininlari qaçon maksimal titrga yetadi?",
+   "options": [
+    {
+     "id": "q06-c36-05-a",
+     "text": "Tuğilganda"
+    },
+    {
+     "id": "q06-c36-05-b",
+     "text": "8–10 yoşda"
+    },
+    {
+     "id": "q06-c36-05-c",
+     "text": "60 yoşda"
+    },
+    {
+     "id": "q06-c36-05-d",
+     "text": "2 oyligida"
+    }
+   ],
+   "answerOptionId": "q06-c36-05-b",
+   "explanation": "Tuğilganda deyarli nol; 2–8 oylikda paydo bölib, 8–10 yoşda maksimumga yetadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch36",
+    "topicId": "06",
+    "blockId": "ch36-u13",
+    "printedPage": 446,
+    "pdfPage": 451,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q06-c37-01",
+   "version": 1,
+   "topicId": "06",
+   "lessonId": "ch37",
+   "stem": "Gemostazning töğri ketma-ketligi qaysi?",
+   "options": [
+    {
+     "id": "q06-c37-01-a",
+     "text": "Tomir torayişi → trombotsit tiqini → qon laxtasi → fibroz töqima"
+    },
+    {
+     "id": "q06-c37-01-b",
+     "text": "Trombotsit tiqini → fibroz töqima → laxta"
+    },
+    {
+     "id": "q06-c37-01-c",
+     "text": "Qon laxtasi → tomir torayişi → trombotsit tiqini"
+    },
+    {
+     "id": "q06-c37-01-d",
+     "text": "Fibrinoliz → tomir torayişi → laxta"
+    }
+   ],
+   "answerOptionId": "q06-c37-01-a",
+   "explanation": "Gemostaz tört bosqiçda: vazospazm, trombotsit tiqini, koagulyatsiya, fibroz töqima bilan doimiy yopiliş.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch37",
+    "topicId": "06",
+    "blockId": "ch37-u2",
+    "printedPage": 452,
+    "pdfPage": 457,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q06-c37-02",
+   "version": 1,
+   "topicId": "06",
+   "lessonId": "ch37",
+   "stem": "Trombotsitning kollagenga yopişişida köprik vazifasini qaysi omil bajaradi?",
+   "options": [
+    {
+     "id": "q06-c37-02-a",
+     "text": "Von Willebrand omili (vWF)"
+    },
+    {
+     "id": "q06-c37-02-b",
+     "text": "Fibrinogen"
+    },
+    {
+     "id": "q06-c37-02-c",
+     "text": "Plazmin"
+    },
+    {
+     "id": "q06-c37-02-d",
+     "text": "Protrombin"
+    }
+   ],
+   "answerOptionId": "q06-c37-02-a",
+   "explanation": "vWF kollagen bilan trombotsitdagi GpIb retseptori orasida köprik hosil qiladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch37",
+    "topicId": "06",
+    "blockId": "ch37-u12",
+    "printedPage": 452,
+    "pdfPage": 457,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q06-c37-03",
+   "version": 1,
+   "topicId": "06",
+   "lessonId": "ch37",
+   "stem": "Qon ivişining tezlikni çeklovçi bosqiçi qaysi?",
+   "options": [
+    {
+     "id": "q06-c37-03-a",
+     "text": "Protrombin aktivatorining hosil bölişi"
+    },
+    {
+     "id": "q06-c37-03-b",
+     "text": "Trombinning fibrinogenni fibringa aylantirişi"
+    },
+    {
+     "id": "q06-c37-03-c",
+     "text": "Fibrin iplarining stabillanişi"
+    },
+    {
+     "id": "q06-c37-03-d",
+     "text": "Laxta retraksiyasi"
+    }
+   ],
+   "answerOptionId": "q06-c37-03-a",
+   "explanation": "Protrombin aktivatori hosil bölgaç keyingi bosqiçlar tez boradi (fibrin 10–15 s içida hosil böladi).",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch37",
+    "topicId": "06",
+    "blockId": "ch37-u19",
+    "printedPage": 452,
+    "pdfPage": 457,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q06-c37-04",
+   "version": 1,
+   "topicId": "06",
+   "lessonId": "ch37",
+   "stem": "Mayda tomirlarda trombotsitlardan çiqib torayişning katta qismini ta’minlaydigan modda qaysi?",
+   "options": [
+    {
+     "id": "q06-c37-04-a",
+     "text": "Azot oksidi"
+    },
+    {
+     "id": "q06-c37-04-b",
+     "text": "Tromboksan A₂"
+    },
+    {
+     "id": "q06-c37-04-c",
+     "text": "Prostatsiklin"
+    },
+    {
+     "id": "q06-c37-04-d",
+     "text": "Geparin"
+    }
+   ],
+   "answerOptionId": "q06-c37-04-b",
+   "explanation": "Tromboksan A₂ tomirni toraytiradi va trombotsit agregatsiyasini kuçaytiradi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch37",
+    "topicId": "06",
+    "blockId": "ch37-u7",
+    "printedPage": 452,
+    "pdfPage": 457,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q06-c37-05",
+   "version": 1,
+   "topicId": "06",
+   "lessonId": "ch37",
+   "stem": "Protrombin qayerda hosil böladi va uning sintezi uçun qaysi vitamin kerak?",
+   "options": [
+    {
+     "id": "q06-c37-05-a",
+     "text": "Buyrakda, D vitamini iştirokida"
+    },
+    {
+     "id": "q06-c37-05-b",
+     "text": "Suyak kömigida, B₁₂ iştirokida"
+    },
+    {
+     "id": "q06-c37-05-c",
+     "text": "Jigarda, K vitamini iştirokida"
+    },
+    {
+     "id": "q06-c37-05-d",
+     "text": "Trombotsitlarda, C vitamini iştirokida"
+    }
+   ],
+   "answerOptionId": "q06-c37-05-c",
+   "explanation": "Protrombin jigarda hosil böladi; K vitamini yetişmasa yoki jigar kasalligida uning darajasi pasayib qon ketişga moyillik paydo böladi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch37",
+    "topicId": "06",
+    "blockId": "ch37-u20",
+    "printedPage": 452,
+    "pdfPage": 457,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  }
+ ]
+}

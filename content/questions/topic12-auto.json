@@ -1,0 +1,879 @@
+{
+ "origin": "Claude (DrStudy sessiyasi) — kitobning özbekça izohlari (Guyton & Hall, 14-naşr) asosida, 2026-11-17. Ekspert tekşiruvi kerak.",
+ "questions": [
+  {
+   "id": "q12-c63-01",
+   "version": 1,
+   "topicId": "12",
+   "lessonId": "ch63",
+   "stem": "Oşqozon-içak devorining muşak qavatlari nima uçun sinsitiy kabi işlaydi?",
+   "options": [
+    {
+     "id": "q12-c63-01-a",
+     "text": "Tolalar köp sonli tirqişli birikmalar (gap junctions) bilan boğlangan"
+    },
+    {
+     "id": "q12-c63-01-b",
+     "text": "Har bir tola alohida nerv bilan innervatsiyalangan"
+    },
+    {
+     "id": "q12-c63-01-c",
+     "text": "Tolalar skelet muşagidan iborat"
+    },
+    {
+     "id": "q12-c63-01-d",
+     "text": "Tolalarda yadro yöq"
+    }
+   ],
+   "answerOptionId": "q12-c63-01-a",
+   "explanation": "Dasta içidagi tolalar gap junction lar bilan boğlangan, dastalar qöşilib ketgan — potensial har tomonga tarqaladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch63",
+    "topicId": "12",
+    "blockId": "ch63-u5",
+    "printedPage": 739,
+    "pdfPage": 744,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q12-c63-02",
+   "version": 1,
+   "topicId": "12",
+   "lessonId": "ch63",
+   "stem": "Sekin tölqinlarni hosil qiluvçi yurgizuvçi (pacemaker) hujayralar qaysilar?",
+   "options": [
+    {
+     "id": "q12-c63-02-a",
+     "text": "Qadahsimon hujayralar"
+    },
+    {
+     "id": "q12-c63-02-b",
+     "text": "Cajal interstitsial hujayralari"
+    },
+    {
+     "id": "q12-c63-02-c",
+     "text": "Parietal hujayralar"
+    },
+    {
+     "id": "q12-c63-02-d",
+     "text": "Enteroendokrin hujayralar"
+    }
+   ],
+   "answerOptionId": "q12-c63-02-b",
+   "explanation": "Cajal interstitsial hujayralari muşak qavatlari orasida tarmoq hosil qilib, sekin tölqinlarni yaratadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch63",
+    "topicId": "12",
+    "blockId": "ch63-u8",
+    "printedPage": 739,
+    "pdfPage": 744,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q12-c63-03",
+   "version": 1,
+   "topicId": "12",
+   "lessonId": "ch63",
+   "stem": "Oşqozon tanasida sekin tölqinlar çastotasi taxminan qança?",
+   "options": [
+    {
+     "id": "q12-c63-03-a",
+     "text": "~60/min"
+    },
+    {
+     "id": "q12-c63-03-b",
+     "text": "~3/min"
+    },
+    {
+     "id": "q12-c63-03-c",
+     "text": "~12/min"
+    },
+    {
+     "id": "q12-c63-03-d",
+     "text": "~1/soat"
+    }
+   ],
+   "answerOptionId": "q12-c63-03-b",
+   "explanation": "Oşqozon tanasida ~3/min, ön ikki barmoqli içakda 12/min gaça, terminal yonboş içakda 8–9/min.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch63",
+    "topicId": "12",
+    "blockId": "ch63-u8",
+    "printedPage": 739,
+    "pdfPage": 744,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q12-c63-04",
+   "version": 1,
+   "topicId": "12",
+   "lessonId": "ch63",
+   "stem": "Oşqozon-içak silliq muşagida spayk potensiallarining asosiy ionlari qaysilar?",
+   "options": [
+    {
+     "id": "q12-c63-04-a",
+     "text": "Cl⁻ ionlari"
+    },
+    {
+     "id": "q12-c63-04-b",
+     "text": "Faqat tez Na⁺ kanallari"
+    },
+    {
+     "id": "q12-c63-04-c",
+     "text": "Köp Ca²⁺ va oz Na⁺ (sekin kalsiy-natriy kanallari)"
+    },
+    {
+     "id": "q12-c63-04-d",
+     "text": "Faqat K⁺"
+    }
+   ],
+   "answerOptionId": "q12-c63-04-c",
+   "explanation": "Sekin Ca²⁺-Na⁺ kanallari tufayli spayklar 10–20 ms davom etadi va qisqariş uçun Ca²⁺ kiradi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch63",
+    "topicId": "12",
+    "blockId": "ch63-u10",
+    "printedPage": 739,
+    "pdfPage": 744,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q12-c63-05",
+   "version": 1,
+   "topicId": "12",
+   "lessonId": "ch63",
+   "stem": "Parasimpatik nervlardan ajraladigan atsetilxolin içak muşagiga qanday ta’sir qiladi?",
+   "options": [
+    {
+     "id": "q12-c63-05-a",
+     "text": "Ta’sir qilmaydi"
+    },
+    {
+     "id": "q12-c63-05-b",
+     "text": "Giperpolyarizatsiya qiladi"
+    },
+    {
+     "id": "q12-c63-05-c",
+     "text": "Muşakni butunlay falajlaydi"
+    },
+    {
+     "id": "q12-c63-05-d",
+     "text": "Depolyarizatsiya qilib qözğaluvçanlikni oşiradi"
+    }
+   ],
+   "answerOptionId": "q12-c63-05-d",
+   "explanation": "Çöziliş, ACh va ayrim gormonlar membranani depolyarizatsiya qilib qözğaluvçanlikni oşiradi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch63",
+    "topicId": "12",
+    "blockId": "ch63-u12",
+    "printedPage": 739,
+    "pdfPage": 744,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q12-c64-01",
+   "version": 1,
+   "topicId": "12",
+   "lessonId": "ch64",
+   "stem": "Çaynaş qanday ahamiyatga ega?",
+   "options": [
+    {
+     "id": "q12-c64-01-a",
+     "text": "Faqat yutişni osonlaştiradi, hazmga ta’siri yöq"
+    },
+    {
+     "id": "q12-c64-01-b",
+     "text": "Selluloza pöstini buzadi va zarraçalar yuzasini oşirib hazmni tezlaştiradi"
+    },
+    {
+     "id": "q12-c64-01-c",
+     "text": "Yoğlarni emulsiyalaydi"
+    },
+    {
+     "id": "q12-c64-01-d",
+     "text": "Oqsillarni töliq hazm qiladi"
+    }
+   ],
+   "answerOptionId": "q12-c64-01-b",
+   "explanation": "Fermentlar faqat zarraça yuzasiga ta’sir qiladi; maydalaş yuzani oşiradi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch64",
+    "topicId": "12",
+    "blockId": "ch64-u4",
+    "printedPage": 749,
+    "pdfPage": 754,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q12-c64-02",
+   "version": 1,
+   "topicId": "12",
+   "lessonId": "ch64",
+   "stem": "Yutişning qaysi bosqiçi ixtiyoriy?",
+   "options": [
+    {
+     "id": "q12-c64-02-a",
+     "text": "Oğiz (birinçi) bosqiçi"
+    },
+    {
+     "id": "q12-c64-02-b",
+     "text": "Halqum bosqiçi"
+    },
+    {
+     "id": "q12-c64-02-c",
+     "text": "Qizilöngaç bosqiçi"
+    },
+    {
+     "id": "q12-c64-02-d",
+     "text": "Barça bosqiçlari"
+    }
+   ],
+   "answerOptionId": "q12-c64-02-a",
+   "explanation": "Til luqmani halqumga surgandan keyin jarayon deyarli butunlay avtomatik böladi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch64",
+    "topicId": "12",
+    "blockId": "ch64-u7",
+    "printedPage": 749,
+    "pdfPage": 754,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q12-c64-03",
+   "version": 1,
+   "topicId": "12",
+   "lessonId": "ch64",
+   "stem": "Yutişda ovqatning traxeyaga tuşişining oldini oluvçi eng muhim omil qaysi?",
+   "options": [
+    {
+     "id": "q12-c64-03-a",
+     "text": "Yumşoq tanglayning kötarilişi"
+    },
+    {
+     "id": "q12-c64-03-b",
+     "text": "Tilning harakati"
+    },
+    {
+     "id": "q12-c64-03-c",
+     "text": "Ovoz boylamlarining kuçli yaqinlaşişi (yopilişi)"
+    },
+    {
+     "id": "q12-c64-03-d",
+     "text": "Qizilöngaç peristaltikasi"
+    }
+   ],
+   "answerOptionId": "q12-c64-03-c",
+   "explanation": "Ovoz boylamlari yoki ularni yaqinlaştiruvçi muşaklar yemirilsa böğiliş bölişi mumkin.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch64",
+    "topicId": "12",
+    "blockId": "ch64-u9",
+    "printedPage": 749,
+    "pdfPage": 754,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q12-c64-04",
+   "version": 1,
+   "topicId": "12",
+   "lessonId": "ch64",
+   "stem": "Yutişlar orasida yuqori qizilöngaç sfinkteri qanday holatda böladi?",
+   "options": [
+    {
+     "id": "q12-c64-04-a",
+     "text": "Ritmik oçilib-yopiladi"
+    },
+    {
+     "id": "q12-c64-04-b",
+     "text": "Töliq böşaşgan"
+    },
+    {
+     "id": "q12-c64-04-c",
+     "text": "Doimo oçiq"
+    },
+    {
+     "id": "q12-c64-04-d",
+     "text": "Kuçli qisqargan — havo qizilöngaçga kirmaydi"
+    }
+   ],
+   "answerOptionId": "q12-c64-04-d",
+   "explanation": "Sfinkter faqat yutiş paytida böşaşadi; boşqa vaqtda nafasda havo qizilöngaçga kirmasligi uçun qisqargan turadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch64",
+    "topicId": "12",
+    "blockId": "ch64-u9",
+    "printedPage": 749,
+    "pdfPage": 754,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q12-c64-05",
+   "version": 1,
+   "topicId": "12",
+   "lessonId": "ch64",
+   "stem": "Yutişning halqum bosqiçi qança davom etadi?",
+   "options": [
+    {
+     "id": "q12-c64-05-a",
+     "text": "2 soniyadan kam"
+    },
+    {
+     "id": "q12-c64-05-b",
+     "text": "1 daqiqa"
+    },
+    {
+     "id": "q12-c64-05-c",
+     "text": "5 daqiqa"
+    },
+    {
+     "id": "q12-c64-05-d",
+     "text": "10 soniya"
+    }
+   ],
+   "answerOptionId": "q12-c64-05-a",
+   "explanation": "Halqum nafas va yutiş uçun umumiy, şuning uçun u faqat bir neça soniyaga ovqat yöliga aylanadi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch64",
+    "topicId": "12",
+    "blockId": "ch64-u8",
+    "printedPage": 749,
+    "pdfPage": 754,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q12-c65-01",
+   "version": 1,
+   "topicId": "12",
+   "lessonId": "ch65",
+   "stem": "Oşqozon-içak bezlarining ikki asosiy vazifasi qaysilar?",
+   "options": [
+    {
+     "id": "q12-c65-01-a",
+     "text": "Faqat suv va tuz ajratiş"
+    },
+    {
+     "id": "q12-c65-01-b",
+     "text": "Vitamin sintezi va safro ajratiş"
+    },
+    {
+     "id": "q12-c65-01-c",
+     "text": "Gormonlar va qon hujayralarini işlab çiqariş"
+    },
+    {
+     "id": "q12-c65-01-d",
+     "text": "Hazm fermentlarini va himoya qiluvçi şilliq (mukus) ajratiş"
+    }
+   ],
+   "answerOptionId": "q12-c65-01-d",
+   "explanation": "Fermentlar oğizdan yonboş içak oxirigaça, şilliq esa oğizdan anusgaça ajraladi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch65",
+    "topicId": "12",
+    "blockId": "ch65-u2",
+    "printedPage": 759,
+    "pdfPage": 764,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q12-c65-02",
+   "version": 1,
+   "topicId": "12",
+   "lessonId": "ch65",
+   "stem": "Parasimpatik stimulyatsiya oşqozon-içak bezlariga qanday ta’sir qiladi?",
+   "options": [
+    {
+     "id": "q12-c65-02-a",
+     "text": "Ta’sir qilmaydi"
+    },
+    {
+     "id": "q12-c65-02-b",
+     "text": "Sekretsiyani töxtatadi"
+    },
+    {
+     "id": "q12-c65-02-c",
+     "text": "Deyarli doim sekretsiyani oşiradi"
+    },
+    {
+     "id": "q12-c65-02-d",
+     "text": "Faqat yöğon içakka ta’sir qiladi"
+    }
+   ],
+   "answerOptionId": "q12-c65-02-c",
+   "explanation": "Parasimpatik (IX, X va tos nervlari) sekretsiyani oşiradi; simpatik esa möl sekretsiyani vazokonstriksiya orqali kamaytirişi mumkin.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch65",
+    "topicId": "12",
+    "blockId": "ch65-u8",
+    "printedPage": 759,
+    "pdfPage": 764,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q12-c65-03",
+   "version": 1,
+   "topicId": "12",
+   "lessonId": "ch65",
+   "stem": "Bez hujayrasida sekretor pufakçalarning ekzotsitozini nima qözğatadi?",
+   "options": [
+    {
+     "id": "q12-c65-03-a",
+     "text": "K⁺ çiqişi"
+    },
+    {
+     "id": "q12-c65-03-b",
+     "text": "Nerv yoki gormon signali tufayli Ca²⁺ kirişi"
+    },
+    {
+     "id": "q12-c65-03-c",
+     "text": "ATP ning tugaşi"
+    },
+    {
+     "id": "q12-c65-03-d",
+     "text": "Glyukoza kirişi"
+    }
+   ],
+   "answerOptionId": "q12-c65-03-b",
+   "explanation": "Signal kelganda Ca²⁺ kiradi, pufakçalar apikal membrana bilan qöşilib taşqariga çiqadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch65",
+    "topicId": "12",
+    "blockId": "ch65-u10",
+    "printedPage": 759,
+    "pdfPage": 764,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q12-c65-04",
+   "version": 1,
+   "topicId": "12",
+   "lessonId": "ch65",
+   "stem": "Ingiçka içakdagi çuqurçalar qanday nomlanadi?",
+   "options": [
+    {
+     "id": "q12-c65-04-a",
+     "text": "Atsinuslar"
+    },
+    {
+     "id": "q12-c65-04-b",
+     "text": "Brunner bezlari"
+    },
+    {
+     "id": "q12-c65-04-c",
+     "text": "Lieberkühn kriptalari"
+    },
+    {
+     "id": "q12-c65-04-d",
+     "text": "Oksintik bezlar"
+    }
+   ],
+   "answerOptionId": "q12-c65-04-c",
+   "explanation": "Ingiçka içak çuqurçalari Lieberkühn kriptalari deyiladi; ular içida maxsus sekretor hujayralar bor.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch65",
+    "topicId": "12",
+    "blockId": "ch65-u6",
+    "printedPage": 759,
+    "pdfPage": 764,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q12-c66-01",
+   "version": 1,
+   "topicId": "12",
+   "lessonId": "ch66",
+   "stem": "Ozuqalarning hazm bölişi qanday kimyoviy jarayon?",
+   "options": [
+    {
+     "id": "q12-c66-01-a",
+     "text": "Oksidlaniş"
+    },
+    {
+     "id": "q12-c66-01-b",
+     "text": "Fosforlaniş"
+    },
+    {
+     "id": "q12-c66-01-c",
+     "text": "Gidroliz"
+    },
+    {
+     "id": "q12-c66-01-d",
+     "text": "Kondensatsiya"
+    }
+   ],
+   "answerOptionId": "q12-c66-01-c",
+   "explanation": "Ozuqalar kondensatsiya bilan hosil bölgan; hazm buning teskarisi — suv qöşilişi bilan parçalaniş (gidroliz).",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch66",
+    "topicId": "12",
+    "blockId": "ch66-u3",
+    "printedPage": 775,
+    "pdfPage": 780,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q12-c66-02",
+   "version": 1,
+   "topicId": "12",
+   "lessonId": "ch66",
+   "stem": "Nima uçun selluloza odam uçun ozuqa emas?",
+   "options": [
+    {
+     "id": "q12-c66-02-a",
+     "text": "Selluloza suvda erimaydi"
+    },
+    {
+     "id": "q12-c66-02-b",
+     "text": "Selluloza oşqozonda parçalanadi"
+    },
+    {
+     "id": "q12-c66-02-c",
+     "text": "Odamda uni parçalovçi ferment yöq"
+    },
+    {
+     "id": "q12-c66-02-d",
+     "text": "Selluloza zaharli"
+    }
+   ],
+   "answerOptionId": "q12-c66-02-c",
+   "explanation": "Selluloza köp bölsa ham, odamda uni parçalovçi ferment yöq.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch66",
+    "topicId": "12",
+    "blockId": "ch66-u6",
+    "printedPage": 775,
+    "pdfPage": 780,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q12-c66-03",
+   "version": 1,
+   "topicId": "12",
+   "lessonId": "ch66",
+   "stem": "Sölak amilazasi (ptialin) qaysi pH dan pastda işlamaydi?",
+   "options": [
+    {
+     "id": "q12-c66-03-a",
+     "text": "pH 2,0 dan pastda"
+    },
+    {
+     "id": "q12-c66-03-b",
+     "text": "pH 8,0 dan pastda"
+    },
+    {
+     "id": "q12-c66-03-c",
+     "text": "pH 4,0 dan pastda"
+    },
+    {
+     "id": "q12-c66-03-d",
+     "text": "pH 7,0 dan pastda"
+    }
+   ],
+   "answerOptionId": "q12-c66-03-c",
+   "explanation": "Şunga qaramay, oşqozon şirasi bilan aralaşgunça kraxmalning 30–40% gaça hazm böladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch66",
+    "topicId": "12",
+    "blockId": "ch66-u8",
+    "printedPage": 775,
+    "pdfPage": 780,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q12-c66-04",
+   "version": 1,
+   "topicId": "12",
+   "lessonId": "ch66",
+   "stem": "Laktaza laktozani qaysi monosaxaridlarga parçalaydi?",
+   "options": [
+    {
+     "id": "q12-c66-04-a",
+     "text": "Galaktoza va glyukoza"
+    },
+    {
+     "id": "q12-c66-04-b",
+     "text": "Fruktoza va glyukoza"
+    },
+    {
+     "id": "q12-c66-04-c",
+     "text": "Riboza va glyukoza"
+    },
+    {
+     "id": "q12-c66-04-d",
+     "text": "Ikki molekula glyukoza"
+    }
+   ],
+   "answerOptionId": "q12-c66-04-a",
+   "explanation": "Laktoza → galaktoza + glyukoza; saxaroza → fruktoza + glyukoza; maltoza → glyukoza.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch66",
+    "topicId": "12",
+    "blockId": "ch66-u13",
+    "printedPage": 775,
+    "pdfPage": 780,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q12-c66-05",
+   "version": 1,
+   "topicId": "12",
+   "lessonId": "ch66",
+   "stem": "Kraxmal hazmining asosiy qismi qaysi ferment hisobiga böladi?",
+   "options": [
+    {
+     "id": "q12-c66-05-a",
+     "text": "Sölak ptialini (80–100%)"
+    },
+    {
+     "id": "q12-c66-05-b",
+     "text": "Lipaza"
+    },
+    {
+     "id": "q12-c66-05-c",
+     "text": "Pepsin"
+    },
+    {
+     "id": "q12-c66-05-d",
+     "text": "Me’da osti bezi amilazasi (50–80%)"
+    }
+   ],
+   "answerOptionId": "q12-c66-05-d",
+   "explanation": "Rasm 66-1 böyiça kraxmal hazmining 20–40% ptialin, 50–80% me’da osti bezi amilazasi hisobiga.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch66",
+    "topicId": "12",
+    "blockId": "ch66-u10",
+    "printedPage": 775,
+    "pdfPage": 780,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q12-c67-01",
+   "version": 1,
+   "topicId": "12",
+   "lessonId": "ch67",
+   "stem": "Axalaziyada nima sodir böladi?",
+   "options": [
+    {
+     "id": "q12-c67-01-a",
+     "text": "Qizilöngaç peristaltikasi kuçayadi"
+    },
+    {
+     "id": "q12-c67-01-b",
+     "text": "Yuqori sfinkter doim oçiq qoladi"
+    },
+    {
+     "id": "q12-c67-01-c",
+     "text": "Oşqozon şirasi qizilöngaçga qaytadi"
+    },
+    {
+     "id": "q12-c67-01-d",
+     "text": "Yutişda pastki qizilöngaç sfinkteri böşaşmaydi va ovqat oşqozonga ötmaydi"
+    }
+   ],
+   "answerOptionId": "q12-c67-01-d",
+   "explanation": "Sabab qizilöngaç pastki 2/3 qismidagi myenterik çigal şikasti; qizilöngaç kengayib megaezofagus hosil böladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch67",
+    "topicId": "12",
+    "blockId": "ch67-u9",
+    "printedPage": 785,
+    "pdfPage": 790,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q12-c67-02",
+   "version": 1,
+   "topicId": "12",
+   "lessonId": "ch67",
+   "stem": "Gastritni keltirib çiqaruvçi eng köp uçraydigan ta’sirlovçi moddalar qaysilar?",
+   "options": [
+    {
+     "id": "q12-c67-02-a",
+     "text": "Ortiqça alkogol va aspirin"
+    },
+    {
+     "id": "q12-c67-02-b",
+     "text": "Glyukoza va oqsil"
+    },
+    {
+     "id": "q12-c67-02-c",
+     "text": "Suv va tuz"
+    },
+    {
+     "id": "q12-c67-02-d",
+     "text": "Vitamin C va temir"
+    }
+   ],
+   "answerOptionId": "q12-c67-02-a",
+   "explanation": "Ular şilliq bezlari va epiteliy ziç birikmalaridan iborat himoya tösiğini buzadi; köp hollarda sabab surunkali bakterial infeksiya.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch67",
+    "topicId": "12",
+    "blockId": "ch67-u12",
+    "printedPage": 785,
+    "pdfPage": 790,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q12-c67-03",
+   "version": 1,
+   "topicId": "12",
+   "lessonId": "ch67",
+   "stem": "Çuqur anesteziyada qanday xavf yuzaga keladi?",
+   "options": [
+    {
+     "id": "q12-c67-03-a",
+     "text": "Yutiş refleksi bloklangani uçun qusuq traxeyaga tortilib, böğiliş mumkin"
+    },
+    {
+     "id": "q12-c67-03-b",
+     "text": "Içak töliq falajlanib yoriladi"
+    },
+    {
+     "id": "q12-c67-03-c",
+     "text": "Oşqozon şirasi işlab çiqarilişi keskin oşadi"
+    },
+    {
+     "id": "q12-c67-03-d",
+     "text": "Qizilöngaç spazmga uçraydi"
+    }
+   ],
+   "answerOptionId": "q12-c67-03-a",
+   "explanation": "Bemor qusuqni qayta yutiş örniga traxeyaga tortib olişi va böğilib ölişi mumkin.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch67",
+    "topicId": "12",
+    "blockId": "ch67-u7",
+    "printedPage": 785,
+    "pdfPage": 790,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q12-c67-04",
+   "version": 1,
+   "topicId": "12",
+   "lessonId": "ch67",
+   "stem": "\"Oşqozon tösiği\"ni nimalar taşkil qiladi?",
+   "options": [
+    {
+     "id": "q12-c67-04-a",
+     "text": "Faqat oşqozon muşak qavati"
+    },
+    {
+     "id": "q12-c67-04-b",
+     "text": "Oşqozon şirasidagi pepsin"
+    },
+    {
+     "id": "q12-c67-04-c",
+     "text": "Yopişqoq şilliq ajratuvçi hujayralar va epiteliy hujayralari orasidagi ziç birikmalar"
+    },
+    {
+     "id": "q12-c67-04-d",
+     "text": "Qon tomirlari"
+    }
+   ],
+   "answerOptionId": "q12-c67-04-c",
+   "explanation": "Normada şu tösiq tufayli oşqozondan qonga töğridan-töğri söriliş juda kam.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch67",
+    "topicId": "12",
+    "blockId": "ch67-u14",
+    "printedPage": 785,
+    "pdfPage": 790,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  }
+ ]
+}

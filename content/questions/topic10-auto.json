@@ -1,0 +1,955 @@
+{
+ "origin": "Claude (DrStudy sessiyasi) — kitobning özbekça izohlari (Guyton & Hall, 14-naşr) asosida, 2026-11-17. Ekspert tekşiruvi kerak.",
+ "questions": [
+  {
+   "id": "q10-c50-01",
+   "version": 1,
+   "topicId": "10",
+   "lessonId": "ch50",
+   "stem": "Közning umumiy sindiriş kuçi taxminan qança?",
+   "options": [
+    {
+     "id": "q10-c50-01-a",
+     "text": "~20 dioptriya"
+    },
+    {
+     "id": "q10-c50-01-b",
+     "text": "~10 dioptriya"
+    },
+    {
+     "id": "q10-c50-01-c",
+     "text": "~59 dioptriya"
+    },
+    {
+     "id": "q10-c50-01-d",
+     "text": "~100 dioptriya"
+    }
+   ],
+   "answerOptionId": "q10-c50-01-c",
+   "explanation": "Közning umumiy kuçi ~59 D; uning 2/3 qismi şox pardaning old yuzasiga, gavharga ~20 D töğri keladi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch50",
+    "topicId": "10",
+    "blockId": "ch50-u1",
+    "printedPage": 589,
+    "pdfPage": 594,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q10-c50-02",
+   "version": 1,
+   "topicId": "10",
+   "lessonId": "ch50",
+   "stem": "Közning sindiriş kuçining eng katta qismi qayerda hosil böladi?",
+   "options": [
+    {
+     "id": "q10-c50-02-a",
+     "text": "Gavharda"
+    },
+    {
+     "id": "q10-c50-02-b",
+     "text": "Şox pardaning old yuzasida (havo bilan çegara)"
+    },
+    {
+     "id": "q10-c50-02-c",
+     "text": "Tör pardada"
+    },
+    {
+     "id": "q10-c50-02-d",
+     "text": "Şişasimon tanada"
+    }
+   ],
+   "answerOptionId": "q10-c50-02-b",
+   "explanation": "Havo (1,00) va şox parda (1,38) sindiriş körsatkiçlari farqi katta, şuning uçun kuçning ~2/3 qismi şu yerda.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch50",
+    "topicId": "10",
+    "blockId": "ch50-u5",
+    "printedPage": 589,
+    "pdfPage": 594,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q10-c50-03",
+   "version": 1,
+   "topicId": "10",
+   "lessonId": "ch50",
+   "stem": "Fokus masofasi 0,5 m bölgan linzaning kuçi neça dioptriya?",
+   "options": [
+    {
+     "id": "q10-c50-03-a",
+     "text": "+0,5 D"
+    },
+    {
+     "id": "q10-c50-03-b",
+     "text": "+5 D"
+    },
+    {
+     "id": "q10-c50-03-c",
+     "text": "−2 D"
+    },
+    {
+     "id": "q10-c50-03-d",
+     "text": "+2 D"
+    }
+   ],
+   "answerOptionId": "q10-c50-03-d",
+   "explanation": "Dioptriya = 1 m / fokus masofasi: 1/0,5 = 2 D.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch50",
+    "topicId": "10",
+    "blockId": "ch50-u3",
+    "printedPage": 589,
+    "pdfPage": 594,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q10-c50-04",
+   "version": 1,
+   "topicId": "10",
+   "lessonId": "ch50",
+   "stem": "Akkomodatsiya deganda nima tuşuniladi?",
+   "options": [
+    {
+     "id": "q10-c50-04-a",
+     "text": "Şox parda egriligining özgarişi"
+    },
+    {
+     "id": "q10-c50-04-b",
+     "text": "Tasvirning töğrilanişi"
+    },
+    {
+     "id": "q10-c50-04-c",
+     "text": "Qoraçiqning torayişi"
+    },
+    {
+     "id": "q10-c50-04-d",
+     "text": "Gavhar qavariqligini özgartirib yaqin narsalarga fokuslaş"
+    }
+   ],
+   "answerOptionId": "q10-c50-04-d",
+   "explanation": "Gavhar suyuqliklar içida ~20 D beradi, lekin uning qavariqligini miya signallari özgartira oladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch50",
+    "topicId": "10",
+    "blockId": "ch50-u5",
+    "printedPage": 589,
+    "pdfPage": 594,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q10-c50-05",
+   "version": 1,
+   "topicId": "10",
+   "lessonId": "ch50",
+   "stem": "Botiq (konkav) linza nurlarga qanday ta’sir qiladi?",
+   "options": [
+    {
+     "id": "q10-c50-05-a",
+     "text": "Nurlarni bitta nuqtada yiğadi"
+    },
+    {
+     "id": "q10-c50-05-b",
+     "text": "Nurlarni bukmaydi"
+    },
+    {
+     "id": "q10-c50-05-c",
+     "text": "Faqat bitta tekislikda bukadi"
+    },
+    {
+     "id": "q10-c50-05-d",
+     "text": "Nurlarni soçadi; kuçi manfiy dioptriya bilan ifodalanadi"
+    }
+   ],
+   "answerOptionId": "q10-c50-05-d",
+   "explanation": "Qavariq linza nurlarni yiğadi, botiq linza soçadi (−1, −10 D), silindrik linza faqat bitta tekislikda bukadi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch50",
+    "topicId": "10",
+    "blockId": "ch50-u3",
+    "printedPage": 589,
+    "pdfPage": 594,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q10-c51-01",
+   "version": 1,
+   "topicId": "10",
+   "lessonId": "ch51",
+   "stem": "Tungi (xira yoruğlikdagi) körişni qaysi fotoretseptorlar ta’minlaydi?",
+   "options": [
+    {
+     "id": "q10-c51-01-a",
+     "text": "Kolbaçalar"
+    },
+    {
+     "id": "q10-c51-01-b",
+     "text": "Bipolar hujayralar"
+    },
+    {
+     "id": "q10-c51-01-c",
+     "text": "Ganglion hujayralar"
+    },
+    {
+     "id": "q10-c51-01-d",
+     "text": "Tayoqçalar"
+    }
+   ],
+   "answerOptionId": "q10-c51-01-d",
+   "explanation": "Tayoqçalar xira yoruğlik va oq-qora körişni, kolbaçalar rangli körişni ta’minlaydi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch51",
+    "topicId": "10",
+    "blockId": "ch51-u1",
+    "printedPage": 600,
+    "pdfPage": 605,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q10-c51-02",
+   "version": 1,
+   "topicId": "10",
+   "lessonId": "ch51",
+   "stem": "Yoruğlik ta’sirida fotoretseptor qanday javob beradi?",
+   "options": [
+    {
+     "id": "q10-c51-02-a",
+     "text": "Na⁺ kanallari oçilib, depolyarizatsiyalanadi"
+    },
+    {
+     "id": "q10-c51-02-b",
+     "text": "Na⁺ kanallari yopilib, giperpolyarizatsiyalanadi"
+    },
+    {
+     "id": "q10-c51-02-c",
+     "text": "Harakat potensiali hosil qiladi"
+    },
+    {
+     "id": "q10-c51-02-d",
+     "text": "K⁺ kanallari yopiladi"
+    }
+   ],
+   "answerOptionId": "q10-c51-02-b",
+   "explanation": "Rodopsin parçalanib cGMP kaskadi orqali Na⁺ kanallarini yopadi va retseptor giperpolyarizatsiyalanadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch51",
+    "topicId": "10",
+    "blockId": "ch51-u1",
+    "printedPage": 600,
+    "pdfPage": 605,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q10-c51-03",
+   "version": 1,
+   "topicId": "10",
+   "lessonId": "ch51",
+   "stem": "Tör pardada qaysi hujayralar harakat potensiali hosil qiladi?",
+   "options": [
+    {
+     "id": "q10-c51-03-a",
+     "text": "Faqat ganglion hujayralar"
+    },
+    {
+     "id": "q10-c51-03-b",
+     "text": "Gorizontal hujayralar"
+    },
+    {
+     "id": "q10-c51-03-c",
+     "text": "Tayoqça va kolbaçalar"
+    },
+    {
+     "id": "q10-c51-03-d",
+     "text": "Bipolar hujayralar"
+    }
+   ],
+   "answerOptionId": "q10-c51-03-a",
+   "explanation": "Signal bipolar, gorizontal va amakrin hujayralar orqali elektrotonik uzatiladi; faqat ganglion hujayralar AP hosil qiladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch51",
+    "topicId": "10",
+    "blockId": "ch51-u1",
+    "printedPage": 600,
+    "pdfPage": 605,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q10-c51-04",
+   "version": 1,
+   "topicId": "10",
+   "lessonId": "ch51",
+   "stem": "Markaziy fovea qanday fotoretseptorlardan iborat?",
+   "options": [
+    {
+     "id": "q10-c51-04-a",
+     "text": "Fotoretseptorlar yöq"
+    },
+    {
+     "id": "q10-c51-04-b",
+     "text": "Deyarli faqat kolbaçalardan"
+    },
+    {
+     "id": "q10-c51-04-c",
+     "text": "Teng miqdorda tayoqça va kolbaçalardan"
+    },
+    {
+     "id": "q10-c51-04-d",
+     "text": "Deyarli faqat tayoqçalardan"
+    }
+   ],
+   "answerOptionId": "q10-c51-04-b",
+   "explanation": "Fovea (0,3 mm) deyarli faqat ingiçka kolbaçalardan iborat; tomirlar va içki qatlamlar yon tomonga surilgan.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch51",
+    "topicId": "10",
+    "blockId": "ch51-u6",
+    "printedPage": 600,
+    "pdfPage": 605,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q10-c51-05",
+   "version": 1,
+   "topicId": "10",
+   "lessonId": "ch51",
+   "stem": "Albinizmda köriş ötkirligi nima uçun past?",
+   "options": [
+    {
+     "id": "q10-c51-05-a",
+     "text": "Gavhar şaffof emas"
+    },
+    {
+     "id": "q10-c51-05-b",
+     "text": "Optik nerv rivojlanmagan"
+    },
+    {
+     "id": "q10-c51-05-c",
+     "text": "Pigment qatlamida melanin yöqligi sababli yoruğlik köz içida hamma tomonga qaytadi"
+    },
+    {
+     "id": "q10-c51-05-d",
+     "text": "Kolbaçalar umuman yöq"
+    }
+   ],
+   "answerOptionId": "q10-c51-05-c",
+   "explanation": "Melanin yoruğlik qaytişiga yöl qöymaydi; albinizmda eng yaxşi korreksiyada ham ötkirlik 20/100–20/200.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch51",
+    "topicId": "10",
+    "blockId": "ch51-u10",
+    "printedPage": 600,
+    "pdfPage": 605,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q10-c52-01",
+   "version": 1,
+   "topicId": "10",
+   "lessonId": "ch52",
+   "stem": "Optik xiazmada qaysi tolalar kesişadi?",
+   "options": [
+    {
+     "id": "q10-c52-01-a",
+     "text": "Tör pardaning nazal (burun tomondagi) yarmi tolalari"
+    },
+    {
+     "id": "q10-c52-01-b",
+     "text": "Heç qanday tolalar kesişmaydi"
+    },
+    {
+     "id": "q10-c52-01-c",
+     "text": "Barça tolalar"
+    },
+    {
+     "id": "q10-c52-01-d",
+     "text": "Tör pardaning temporal yarmi tolalari"
+    }
+   ],
+   "answerOptionId": "q10-c52-01-a",
+   "explanation": "Nazal tolalar kesişib, qarama-qarşi temporal tolalar bilan birga optik traktni hosil qiladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch52",
+    "topicId": "10",
+    "blockId": "ch52-u4",
+    "printedPage": 613,
+    "pdfPage": 618,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q10-c52-02",
+   "version": 1,
+   "topicId": "10",
+   "lessonId": "ch52",
+   "stem": "Optik trakt tolalari pöstloqqa borişdan oldin qayerda sinaps qiladi?",
+   "options": [
+    {
+     "id": "q10-c52-02-a",
+     "text": "Dorsal lateral tizzasimon yadroda"
+    },
+    {
+     "id": "q10-c52-02-b",
+     "text": "Ustki dömboqçada"
+    },
+    {
+     "id": "q10-c52-02-c",
+     "text": "Suprakiazmatik yadroda"
+    },
+    {
+     "id": "q10-c52-02-d",
+     "text": "Miyaçada"
+    }
+   ],
+   "answerOptionId": "q10-c52-02-a",
+   "explanation": "Optik trakt dorsal LGN da sinaps qiladi, undan optik radiatsiya orqali kalkarin egatga boradi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch52",
+    "topicId": "10",
+    "blockId": "ch52-u4",
+    "printedPage": 613,
+    "pdfPage": 618,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q10-c52-03",
+   "version": 1,
+   "topicId": "10",
+   "lessonId": "ch52",
+   "stem": "Sirkadian ritm uçun köriş signallari qaysi tuzilmaga boradi?",
+   "options": [
+    {
+     "id": "q10-c52-03-a",
+     "text": "Ustki dömboqçaga"
+    },
+    {
+     "id": "q10-c52-03-b",
+     "text": "Pretektal yadrolarga"
+    },
+    {
+     "id": "q10-c52-03-c",
+     "text": "Gipotalamusning suprakiazmatik yadrosiga"
+    },
+    {
+     "id": "q10-c52-03-d",
+     "text": "Birlamçi köriş pöstloğiga"
+    }
+   ],
+   "answerOptionId": "q10-c52-03-c",
+   "explanation": "Suprakiazmatik yadro sirkadian ritmni, pretektal yadrolar qoraçiq refleksini, ustki dömboqça tez köz harakatlarini boşqaradi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch52",
+    "topicId": "10",
+    "blockId": "ch52-u4",
+    "printedPage": 613,
+    "pdfPage": 618,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q10-c52-04",
+   "version": 1,
+   "topicId": "10",
+   "lessonId": "ch52",
+   "stem": "Birlamçi köriş pöstloği (V1) qayerda joylaşgan?",
+   "options": [
+    {
+     "id": "q10-c52-04-a",
+     "text": "Peşona bölagida"
+    },
+    {
+     "id": "q10-c52-04-b",
+     "text": "Çakka bölagida"
+    },
+    {
+     "id": "q10-c52-04-c",
+     "text": "Ensa bölagidagi kalkarin egat sohasida (Brodmann 17)"
+    },
+    {
+     "id": "q10-c52-04-d",
+     "text": "Tepa bölagida"
+    }
+   ],
+   "answerOptionId": "q10-c52-04-c",
+   "explanation": "V1 (striate cortex) ensa bölagi medial yuzasidagi kalkarin egat sohasida joylaşgan.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch52",
+    "topicId": "10",
+    "blockId": "ch52-u8",
+    "printedPage": 613,
+    "pdfPage": 618,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q10-c52-05",
+   "version": 1,
+   "topicId": "10",
+   "lessonId": "ch52",
+   "stem": "LGN ning magnoselulyar (I–II) qatlamlari qanday axborot uzatadi?",
+   "options": [
+    {
+     "id": "q10-c52-05-a",
+     "text": "Faqat qizil rang"
+    },
+    {
+     "id": "q10-c52-05-b",
+     "text": "Rang va aniq fazoviy axborot"
+    },
+    {
+     "id": "q10-c52-05-c",
+     "text": "Faqat çuqurlik axboroti"
+    },
+    {
+     "id": "q10-c52-05-d",
+     "text": "Tez, rangsiz (oq-qora), fazoviy aniqligi past axborot"
+    }
+   ],
+   "answerOptionId": "q10-c52-05-d",
+   "explanation": "Magnoselulyar qatlamlar M ganglion hujayralardan; parvoselulyar (III–VI) qatlamlar P hujayralardan rang va aniq detal oladi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch52",
+    "topicId": "10",
+    "blockId": "ch52-u6",
+    "printedPage": 613,
+    "pdfPage": 618,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q10-c53-01",
+   "version": 1,
+   "topicId": "10",
+   "lessonId": "ch53",
+   "stem": "Örta quloq tovuş kuçini koxlear suyuqlikka taxminan neça marta oşirib uzatadi?",
+   "options": [
+    {
+     "id": "q10-c53-01-a",
+     "text": "~2 marta"
+    },
+    {
+     "id": "q10-c53-01-b",
+     "text": "~100 marta"
+    },
+    {
+     "id": "q10-c53-01-c",
+     "text": "~22 marta"
+    },
+    {
+     "id": "q10-c53-01-d",
+     "text": "Oşirmaydi"
+    }
+   ],
+   "answerOptionId": "q10-c53-01-c",
+   "explanation": "Noğora parda va uzangiça asosi yuzalari nisbati ~17 va riçag ~1,3 marta: 17 × 1,3 ≈ 22.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch53",
+    "topicId": "10",
+    "blockId": "ch53-u6",
+    "printedPage": 623,
+    "pdfPage": 628,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q10-c53-02",
+   "version": 1,
+   "topicId": "10",
+   "lessonId": "ch53",
+   "stem": "Kuçli tovuşda stapedius va tensor tympani qisqarişining (susaytiriş refleksi) vazifasi nima?",
+   "options": [
+    {
+     "id": "q10-c53-02-a",
+     "text": "Noğora pardani yumşatiş"
+    },
+    {
+     "id": "q10-c53-02-b",
+     "text": "Tovuş yönalişini aniqlaş"
+    },
+    {
+     "id": "q10-c53-02-c",
+     "text": "Yuqori çastotalarni kuçaytiriş"
+    },
+    {
+     "id": "q10-c53-02-d",
+     "text": "Koxleyani zararli tebranişdan himoya qiliş va past çastotali şovqinni niqoblaş"
+    }
+   ],
+   "answerOptionId": "q10-c53-02-d",
+   "explanation": "Refleks 40–80 ms da işga tuşadi va <1000 Hz çastotalarni 30–40 dB ga susaytiradi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch53",
+    "topicId": "10",
+    "blockId": "ch53-u8",
+    "printedPage": 623,
+    "pdfPage": 628,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q10-c53-03",
+   "version": 1,
+   "topicId": "10",
+   "lessonId": "ch53",
+   "stem": "Koxleyada tovuş çastotasi qanday aniqlanadi (place principle)?",
+   "options": [
+    {
+     "id": "q10-c53-03-a",
+     "text": "Çastotani eşitiş suyakçalari aniqlaydi"
+    },
+    {
+     "id": "q10-c53-03-b",
+     "text": "Har bir çastota bazilyar membrananing öz rezonans joyida eng katta amplitudaga ega böladi"
+    },
+    {
+     "id": "q10-c53-03-c",
+     "text": "Çastota faqat noğora pardada aniqlanadi"
+    },
+    {
+     "id": "q10-c53-03-d",
+     "text": "Barça çastotalar bitta joyda seziladi"
+    }
+   ],
+   "answerOptionId": "q10-c53-03-b",
+   "explanation": "Bazilyar membrana böylab yuguruvçi tölqin har bir çastota uçun öz joyida maksimal böladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch53",
+    "topicId": "10",
+    "blockId": "ch53-u2",
+    "printedPage": 623,
+    "pdfPage": 628,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q10-c53-04",
+   "version": 1,
+   "topicId": "10",
+   "lessonId": "ch53",
+   "stem": "Endolimfaning endokoxlear potensiali qança?",
+   "options": [
+    {
+     "id": "q10-c53-04-a",
+     "text": "~−70 mV"
+    },
+    {
+     "id": "q10-c53-04-b",
+     "text": "~+80 mV"
+    },
+    {
+     "id": "q10-c53-04-c",
+     "text": "~+20 mV"
+    },
+    {
+     "id": "q10-c53-04-d",
+     "text": "~0 mV"
+    }
+   ],
+   "answerOptionId": "q10-c53-04-b",
+   "explanation": "Endolimfaning +80 mV potensiali soç hujayralarining mexanik tebranişni elektr signalga aylantirişiga yordam beradi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch53",
+    "topicId": "10",
+    "blockId": "ch53-u2",
+    "printedPage": 623,
+    "pdfPage": 628,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q10-c53-05",
+   "version": 1,
+   "topicId": "10",
+   "lessonId": "ch53",
+   "stem": "Tovuş manbasining yönalişi qanday aniqlanadi?",
+   "options": [
+    {
+     "id": "q10-c53-05-a",
+     "text": "Vestibulyar apparat orqali"
+    },
+    {
+     "id": "q10-c53-05-b",
+     "text": "Köz harakatlaridan"
+    },
+    {
+     "id": "q10-c53-05-c",
+     "text": "Faqat bitta quloqdagi çastotadan"
+    },
+    {
+     "id": "q10-c53-05-d",
+     "text": "Ikki quloq orasidagi vaqt va intensivlik farqidan"
+    }
+   ],
+   "answerOptionId": "q10-c53-05-d",
+   "explanation": "Miya ustunidagi yadrolar ikki quloqqa yetgan signallarning vaqt va intensivlik farqini soliştiradi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch53",
+    "topicId": "10",
+    "blockId": "ch53-u2",
+    "printedPage": 623,
+    "pdfPage": 628,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q10-c54-01",
+   "version": 1,
+   "topicId": "10",
+   "lessonId": "ch54",
+   "stem": "Beşta birlamçi ta’m sezgisi qaysilar?",
+   "options": [
+    {
+     "id": "q10-c54-01-a",
+     "text": "Şirin, aççiq, yoğli, nordon, şör"
+    },
+    {
+     "id": "q10-c54-01-b",
+     "text": "Nordon, şör, şirin, aççiq, umami"
+    },
+    {
+     "id": "q10-c54-01-c",
+     "text": "Nordon, şör, şirin, aççiq, ötkir"
+    },
+    {
+     "id": "q10-c54-01-d",
+     "text": "Umami, metall, şirin, şör, aççiq"
+    }
+   ],
+   "answerOptionId": "q10-c54-01-b",
+   "explanation": "Yuzlab ta’mlar beşta birlamçi ta’mning kombinatsiyasidir.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch54",
+    "topicId": "10",
+    "blockId": "ch54-u5",
+    "printedPage": 634,
+    "pdfPage": 639,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q10-c54-02",
+   "version": 1,
+   "topicId": "10",
+   "lessonId": "ch54",
+   "stem": "Umami ta’mi qaysi modda bilan boğliq?",
+   "options": [
+    {
+     "id": "q10-c54-02-a",
+     "text": "Natriy xlorid"
+    },
+    {
+     "id": "q10-c54-02-b",
+     "text": "L-glutamat"
+    },
+    {
+     "id": "q10-c54-02-c",
+     "text": "Xinin"
+    },
+    {
+     "id": "q10-c54-02-d",
+     "text": "Saxaroza"
+    }
+   ],
+   "answerOptionId": "q10-c54-02-b",
+   "explanation": "Umami — L-glutamat ta’mi; göşt ekstrakti va yetilgan pişloqda uçraydi va oqsil iste’molini rağbatlantiradi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch54",
+    "topicId": "10",
+    "blockId": "ch54-u13",
+    "printedPage": 634,
+    "pdfPage": 639,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q10-c54-03",
+   "version": 1,
+   "topicId": "10",
+   "lessonId": "ch54",
+   "stem": "Qaysi ta’m sezgisi eng sezgir (eng past bösağaga ega)?",
+   "options": [
+    {
+     "id": "q10-c54-03-a",
+     "text": "Nordon"
+    },
+    {
+     "id": "q10-c54-03-b",
+     "text": "Aççiq"
+    },
+    {
+     "id": "q10-c54-03-c",
+     "text": "Şirin"
+    },
+    {
+     "id": "q10-c54-03-d",
+     "text": "Şör"
+    }
+   ],
+   "answerOptionId": "q10-c54-03-b",
+   "explanation": "Xinin uçun bösağa 0,000008 M — eng past; aççiq ta’m zaharli alkaloidlardan himoya qiladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch54",
+    "topicId": "10",
+    "blockId": "ch54-u16",
+    "printedPage": 634,
+    "pdfPage": 639,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q10-c54-04",
+   "version": 1,
+   "topicId": "10",
+   "lessonId": "ch54",
+   "stem": "Nordon ta’m qaysi omil bilan belgilanadi?",
+   "options": [
+    {
+     "id": "q10-c54-04-a",
+     "text": "Na⁺ konsentratsiyasi"
+    },
+    {
+     "id": "q10-c54-04-b",
+     "text": "H⁺ konsentratsiyasi"
+    },
+    {
+     "id": "q10-c54-04-c",
+     "text": "Glutamat"
+    },
+    {
+     "id": "q10-c54-04-d",
+     "text": "Alkaloidlar"
+    }
+   ],
+   "answerOptionId": "q10-c54-04-b",
+   "explanation": "Nordon ta’m kuçi H⁺ konsentratsiyasining logarifmiga proporsional.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch54",
+    "topicId": "10",
+    "blockId": "ch54-u13",
+    "printedPage": 634,
+    "pdfPage": 639,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q10-c54-05",
+   "version": 1,
+   "topicId": "10",
+   "lessonId": "ch54",
+   "stem": "Hid signallari ta’m va boşqa sezgilardan qanday farq qilib miyaga boradi?",
+   "options": [
+    {
+     "id": "q10-c54-05-a",
+     "text": "Faqat talamus orqali ötadi"
+    },
+    {
+     "id": "q10-c54-05-b",
+     "text": "Orqa miya orqali boradi"
+    },
+    {
+     "id": "q10-c54-05-c",
+     "text": "Miyaça orqali boradi"
+    },
+    {
+     "id": "q10-c54-05-d",
+     "text": "Hid piyozçasidan limbik tizimga talamusni çetlab ötib boradi"
+    }
+   ],
+   "answerOptionId": "q10-c54-05-d",
+   "explanation": "Ta’m NTS → talamus → insula yölidan boradi; hid esa talamusni çetlab limbik tizimga yetadi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch54",
+    "topicId": "10",
+    "blockId": "ch54-u7",
+    "printedPage": 634,
+    "pdfPage": 639,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  }
+ ]
+}

@@ -1,0 +1,289 @@
+{
+ "lessonId": "ch40",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 40,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "machine",
+ "translator": "Gemini API",
+ "model": "gemini-3.5-flash-lite",
+ "createdAt": "2026-11-18T11:11:26.942Z",
+ "updatedAt": "2026-11-18T12:59:44.125Z",
+ "coverage": {
+  "translated": 92,
+  "total": 92
+ },
+ "note": "Kitob matnining töliq özbekça tarjimasi (qisqartirilmagan). Ekspert tekşiruvidan ötmagan.",
+ "blocks": {
+  "ch40-f0": {
+   "text": "Alveolalar yangi havo bilan ventilyatsiyalangaç, nafas olişning navbatdagi bosqiçi boşlanadi. Kislorod (O₂) alveolalardan öpka qoniga, karbonat angidrid (CO₂) esa teskari yönalişda, qondan alveolalarga _diffuziyalanadi_. Diffuziya molekulalarning nafas membranasi va unga tutaş suyuqliklar orqali barça yönalişlarda tartibsiz harakatlanişidan iborat. Nafas fiziologiyasida diffuziyaning asosiy mexanizmi bilan birga uning _tezligi_ ham örganiladi. Tezlikni tuşuntiriş ança murakkab bölib, diffuziya va gaz almaşinuvi fizikasini çuqurroq bilişni talab qiladi."
+  },
+  "ch40-f1": {
+   "text": "Nafas fiziologiyasida örganiladigan gazlarning barçasi diffuziya orqali bir-biri orasida erkin harakatlana oladigan oddiy molekulalardan iborat. Bu organizm suyuqliklari va töqimalarida erigan gazlarga ham taalluqli."
+  },
+  "ch40-f2": {
+   "text": "Diffuziya yuz berişi uçun energiya manbai kerak. Bu energiyani molekulalarning kinetik harakati ta’minlaydi. Mutlaq noldan boşqa har qanday haroratda barça moddalarning molekulalari uzluksiz harakatda böladi. Boşqa molekulalarga birikmagan erkin molekulalar boşqa molekula bilan töqnaşgunça katta tezlikda töğri çiziq böylab harakatlanadi. Töqnaşuvdan söng ular yangi yönalişda harakatini davom ettirib, yana boşqa molekulalarga uriladi. Şu tariqa molekulalar bir-biri orasida tez va tartibsiz harakatlanadi."
+  },
+  "ch40-f3": {
+   "text": "Agar gaz kamerasi yoki eritmaning bir uçida muayyan gaz konsentratsiyasi yuqori, ikkinçi uçida esa past bölsa, **Rasm 40-1** da körsatilganidek, gazning sof diffuziyasi konsentratsiyasi yuqori sohadan konsentratsiyasi past sohaga yönaladi. Kameraning A uçidan B uçiga diffuziyalana oladigan molekulalar teskari yönalişda harakatlana oladigan molekulalardan ança köp. Şuning uçun ikki yönalişdagi diffuziya tezliklari mos ravişda farq qiladi. Rasmda bu farq strelkalarning uzunligi bilan körsatilgan.",
+   "lead": "Gazning bir yönalişdagi sof diffuziyasi va konsentratsiya gradiyentining ta’siri."
+  },
+  "ch40-f5": {
+   "text": "Bosim harakatlanayotgan molekulalarning sirtga köp marta urilişi natijasida vujudga keladi. Şu sababli gazning nafas yöllari va alveolalar sirtiga körsatadigan bosimi muayyan lahzada sirtga urilayotgan şu gazning barça molekulalari zarba kuçlari yiğindisiga mutanosib. Demak, _bosim gaz molekulalarining konsentratsiyasiga töğri mutanosib_."
+  },
+  "ch40-f6": {
+   "text": "Nafas fiziologiyasida asosan _kislorod, azot_ va _karbonat angidrid_ aralaşmalari örganiladi. Har bir gazning diffuziya tezligi aynan şu gaz hosil qiladigan bosimga töğri mutanosib. Bu bosim gazning _parsial bosimi_ deb ataladi. Parsial bosim tuşunçasini quyidagiça izohlaş mumkin."
+  },
+  "ch40-f7": {
+   "text": "Havo tarkibida taxminan 79% azot va 21% kislorod bor. Dengiz sathida bu aralaşmaning umumiy bosimi örtaça 760 mm simob ustuniga teng. Bosimning yuqorida tasvirlangan molekulyar mexanizmiga köra, har bir gazning umumiy bosimdagi hissasi uning konsentratsiyasiga töğri mutanosib. Demak, 760 mm simob ustunining 79 foizini azot (600 mm simob ustuni), 21 foizini esa O₂ (160 mm simob ustuni) hosil qiladi. Aralaşmada azotning parsial bosimi 600 mm, O₂ ning parsial bosimi 160 mm, ularning yiğindisiga teng umumiy bosim esa 760 mm simob ustunidir. Aralaşmadagi alohida gazlarning parsial bosimlari P(O₂), P(CO₂), P(N₂), P(He) va şu kabi belgilar bilan ifodalanadi."
+  },
+  "ch40-f8": {
+   "text": "Suvda yoki organizm töqimalarida erigan gazlar ham bosim hosil qiladi, çunki erigan gaz molekulalari tartibsiz harakatlanadi va kinetik energiyaga ega. Bundan taşqari, suyuqlikda erigan gaz hujayra membranasi kabi sirtga duç kelganda, gaz fazasidagi gaz singari öz parsial bosimini körsatadi. Alohida erigan gazlarning parsial bosimlari gaz holatidagi kabi P(O₂), P(CO₂), P(N₂), P(He) va şu kabi belgilar bilan ifodalanadi."
+  },
+  "ch40-f9": {
+   "text": "Eritmadagi gazning parsial bosimi uning konsentratsiyasiga ham, _eruvçanlik koeffitsiyentiga_ ham boğliq. Ayrim molekulalar, ayniqsa CO₂ molekulalari, suv molekulalariga fizik yoki kimyoviy jihatdan tortiladi, boşqa molekulalar esa suv molekulalaridan itariladi. Suvga tortiladigan molekulalar eritmada parsial bosimni keskin oşirmagan holda ança köp miqdorda eriy oladi. Suvdan itariladigan molekulalarda esa kamroq molekula eriganida ham yuqori parsial bosim yuzaga keladi. Bu boğlaniş _Genri qonuni_ bilan ifodalanadi: parsial bosim = erigan gaz konsentratsiyasi / eruvçanlik koeffitsiyenti.",
+   "lead": "Suyuqlikda erigan gazning parsial bosimini belgilovçi omillar."
+  },
+  "ch40-f10": {
+   "text": "Gazlarning tana haroratidagi eruvçanlik koeffitsiyentlarini ifodalaşda parsial bosim atmosferalarda (1 atm = 760 mm simob ustuni), konsentratsiya esa suvning har bir hajm birligida erigan gaz hajmi bilan beriladi."
+  },
+  "ch40-f11": {
+   "text": "Bu röyxatdan körinadiki, CO₂ O₂ ga qaraganda 20 martadan köproq eruvçan. Şuning uçun bir xil konsentratsiyada CO₂ ning parsial bosimi O₂ parsial bosimining yigirmadan biridan (5 foizidan) ham kam böladi."
+  },
+  "ch40-f12": {
+   "text": "Alveola havosidagi har bir gazning parsial bosimi şu gaz molekulalarining alveola kapillyarlari qoniga ötib erişiga sabab böladi. Ayni paytda qonda erigan şu gazning molekulalari suyuqlikda tartibsiz harakatlanadi va ularning bir qismi qaytadan alveolaga çiqadi. Molekulalarning alveolaga çiqiş tezligi ularning qondagi parsial bosimiga töğri mutanosib.",
+   "lead": "Alveolalardagi gaz fazasi bilan öpka qonida erigan gazlar örtasidagi diffuziya."
+  },
+  "ch40-f13": {
+   "text": "Gazning _sof diffuziyasi_ qaysi yönalişda keçadi? Buni ikki parsial bosim örtasidagi farq belgilaydi. Parsial bosim alveoladagi gaz fazasida yuqoriroq bölsa, kislorodda odatda kuzatilganidek, qonga ötadigan molekulalar teskari yönalişda ötadigan molekulalardan köproq böladi. Qonda erigan gazning parsial bosimi yuqoriroq bölsa, CO₂ da odatda kuzatilganidek, sof diffuziya alveoladagi gaz fazasi tomon keçadi."
+  },
+  "ch40-f14": {
+   "text": "Namlanmagan havo nafas yöllariga kirganda, ularning sirtidan suv darhol buğlanib, havoni namlaydi. Çunki suv molekulalari ham, turli erigan gaz molekulalari singari, suv sirtidan gaz fazasiga uzluksiz ötib turadi. Suv sirtidan çiqayotgan molekulalar hosil qiladigan parsial bosim suvning _buğ bosimi_ deb ataladi. Tananing odatiy haroratida, 37 °C (98,6 °F) da, bu bosim 47 mm simob ustuniga teng. Gaz aralaşmasi töliq namlanib, suv bilan muvozanatga kelgaç, undagi suv buğining parsial bosimi 47 mm simob ustuniga teng böladi. Bu parsial bosim P(H₂O) bilan belgilanadi."
+  },
+  "ch40-f15": {
+   "text": "Suvning buğ bosimi suv haroratiga boğliq. Harorat qança yuqori bölsa, molekulalarning kinetik harakati şunça kuçli va ularning suv sirtidan gaz fazasiga ötiş ehtimoli şunça katta böladi. Masalan, 0 °C da suv buğining bosimi 5 mm simob ustuniga, 100 °C da esa 760 mm simob ustuniga teng. Yodda tutiş kerak bölgan qiymat tana haroratidagi buğ bosimi, ya’ni 47 mm simob ustunidir. Bu qiymat keyingi tuşuntirişlarda köp işlatiladi."
+  },
+  "ch40-f16": {
+   "text": "Gazning parsial bosimi bir sohada ikkinçi sohadagidan yuqori bölsa, sof diffuziya yuqori bosimli sohadan past bosimli soha tomon keçadi. **Rasm 40-1** da yuqori bosimli sohada molekulalar köproq ekani körinadi. Şu sababli ularning past bosimli sohaga tasodifan ötiş ehtimoli teskari yönalişdagiga qaraganda kattaroq. Ayrim molekulalar past bosimli sohadan yuqori bosimli soha tomon ham tasodifan harakatlanadi. Demak, yuqori bosimli sohadan past bosimli soha tomon gazning _sof diffuziyasi_ şu yönalişda ötgan molekulalar sonidan teskari yönalişda ötgan molekulalar sonini _ayiriş_ orqali aniqlanadi. Bu miqdor ikki soha orasidagi gaz parsial bosimlari farqiga, ya’ni _diffuziyani yuzaga keltiruvçi bosim farqiga_ mutanosib."
+  },
+  "ch40-f17": {
+   "text": "Gazning suyuqlikdagi diffuziya tezligiga bosim farqidan taşqari yana bir neça omil ta’sir qiladi. Bular (1) gazning suyuqlikda eruvçanligi, (2) suyuqlikning köndalang kesim yuzasi, (3) gaz diffuziyalanib ötadigan masofa, (4) gazning molekulyar massasi va (5) suyuqlik harorati. Organizmda harorat nisbatan barqaror bölgani uçun odatda uni alohida hisobga oliş talab qilinmaydi.",
+   "lead": "Suyuqliklarda sof diffuziya tezligini miqdoriy ifodalaş."
+  },
+  "ch40-f18": {
+   "text": "Gazning eruvçanligi qança yuqori bölsa, bir xil parsial bosim farqida diffuziyalana oladigan molekulalar şunça köp böladi. Diffuziya yölining köndalang kesim yuzasi qança katta bölsa, undan ötadigan molekulalarning umumiy soni şunça ortadi. Masofa ortişi bilan molekulalarning butun yölni bosib ötişi uçun köproq vaqt kerak böladi. Nihoyat, molekulalar qança tez harakatlansa, gaz şunça tez diffuziyalanadi. Molekulalarning harakat tezligi molekulyar massaning kvadrat ildiziga teskari mutanosib. Bu omillar bitta formulada ifodalanadi: D ∝ (ΔP × A × S) / (d × √MW)."
+  },
+  "ch40-f19": {
+   "text": "Bu yerda _D_ — diffuziya tezligi, _ΔP_ — diffuziya yölining ikki uçi orasidagi parsial bosim farqi, _A_ — yölning köndalang kesim yuzasi, _S_ — gazning eruvçanligi, _d_ — diffuziya masofasi va _MW_ — gazning molekulyar massasi."
+  },
+  "ch40-f20": {
+   "text": "Formuladan körinadiki, uning ikki omili, ya’ni eruvçanlik va molekulyar massa, gazning xossalariga boğliq. Bu ikki omil birgalikda _gazning diffuziya koeffitsiyentini_ belgilaydi. Uşbu koeffitsiyent S/√MW ga mutanosib."
+  },
+  "ch40-f21": {
+   "text": "Demak, parsial bosim şaroitlari bir xil bölganda turli gazlarning nisbiy diffuziya tezliklari ularning diffuziya koeffitsiyentlariga mutanosib. O₂ ning diffuziya koeffitsiyentini 1 deb olsak, organizm suyuqliklarida nafas oliş uçun muhim bölgan turli gazlarning _nisbiy_ diffuziya koeffitsiyentlarini şu qiymatga nisbatan ifodalaş mumkin."
+  },
+  "ch40-f22": {
+   "text": "Nafas oliş uçun muhim gazlarning barçasi lipidlarda, şu sababli hujayra membranalarida ham yaxşi eriydi. Şuning uçun gazlarning töqimalarda harakatlaniş tezligini asosan ularning töqima suvi orqali diffuziyalaniş tezligi belgilaydi. Natijada töqimalar, jumladan nafas membranasi orqali gaz diffuziyasi suvdagi diffuziyaga deyarli teng böladi."
+  },
+  "ch40-f23": {
+   "text": "Alveola havosi va atmosfera havosining tarkibi farqlanadi"
+  },
+  "ch40-f24": {
+   "text": "Alveola havosidagi gazlar konsentratsiyasi atmosfera havosidagidan farq qiladi (**Jadval 40-1**). Buning bir neça sababi bor. Birinçidan, har nafasda alveola havosining faqat bir qismi atmosfera havosi bilan almaşinadi. Ikkinçidan, O₂ alveola havosidan öpka qoniga uzluksiz ötadi. Uçinçidan, CO₂ öpka qonidan alveolalarga uzluksiz diffuziyalanadi. Törtinçidan, nafas yöllariga kirgan quruq atmosfera havosi alveolalarga yetib kelişidan oldin namlanadi."
+  },
+  "ch40-f26": {
+   "text": "Nafas yöllarida havoning namlanişi"
+  },
+  "ch40-f27": {
+   "text": "**Jadval 40-1** da körsatilganidek, atmosfera havosi deyarli butunlay azot va O₂ dan iborat. Odatda unda CO₂ deyarli yöq va suv buği kam. Atmosfera havosi nafas yöllariga kirişi bilan ularning sirtini qoplab turgan suyuqlik bilan tutaşadi. Havo alveolalarga yetib kelgunça deyarli töliq namlanadi."
+  },
+  "ch40-f28": {
+   "text": "Tananing odatiy haroratida, ya’ni 37 °C da suv buğining parsial bosimi 47 mm simob ustuniga teng. Alveola havosida ham u şu qiymatga teng. Alveolalardagi umumiy bosim atmosfera bosimidan (dengiz sathida 760 mm simob ustuni) orta olmagani uçun suv buği nafasga olingan havodagi boşqa barça gazlarning uluşini _kamaytiradi_. **Jadval 40-1** ga köra, dengiz sathida havo namlangaç, kislorodning örtaça parsial bosimi 159 dan 149 mm simob ustunigaça, azotniki esa 597 dan 563 mm simob ustunigaça pasayadi."
+  },
+  "ch40-f29": {
+   "text": "Alveola havosining atmosfera havosi bilan sekin yangilanişi"
+  },
+  "ch40-f30": {
+   "text": "38-bobda aytilganidek, erkaklarda öpkaning örtaça _funksional qoldiq siğimi_, ya’ni odatiy nafas çiqariş oxirida öpkada qoladigan havo hajmi, taxminan 2 300 ml. Har bir odatiy nafas olişda alveolalarga atigi 350 ml yangi havo kiradi va şunça eski alveola havosi çiqariladi. Demak, har bir nafas siklida alveola havosining atigi yettidan biri yangi atmosfera havosi bilan almaşinadi. Alveola havosining asosiy qismini yangilaş uçun bir neça marta nafas oliş kerak. **Rasm 40-2** alveola havosining sekin yangilanişini körsatadi. Rasmda dastlab alveolada ortiqça gaz bor. Hatto 16 marta nafas olgandan keyin ham ortiqça gaz alveoladan butunlay çiqib ketmaydi."
+  },
+  "ch40-f32": {
+   "text": "**Rasm 40-3** alveolalardagi ortiqça gazning çiqib ketiş tezligini grafikda körsatadi. Alveolyar ventilyatsiya odatiy tezlikda bölsa, ortiqça gazning qariyb yarmi 17 soniyada çiqib ketadi. Ventilyatsiya odatdagining yarmiga tuşsa, gazning yarmi 34 soniyada çiqadi. U ikki baravar ortsa, gazning yarmi taxminan 8 soniyada çiqadi."
+  },
+  "ch40-f34": {
+   "text": "Alveola havosining sekin yangilanişi qondagi gazlar konsentratsiyasining keskin özgarişiga yöl qöymaslikda ayniqsa muhim. Bu nafasni boşqariş mexanizmini barqarorlaştiradi. Nafas vaqtinça töxtab qolganda esa töqimalarning kislorod bilan ta’minlanişi, töqimadagi CO₂ konsentratsiyasi va pH ning haddan taşqari kötarilişi yoki pasayişining oldini olişga yordam beradi.",
+   "lead": "Alveola havosining sekin yangilanişi nafasning boşqarilişini barqarorlaştiradi."
+  },
+  "ch40-f35": {
+   "text": "Alveolalarda kislorod konsentratsiyasi va parsial bosimi"
+  },
+  "ch40-f36": {
+   "text": "Kislorod alveolalardan öpka qoniga uzluksiz ötib turadi. Nafas oliş orqali atmosferadan alveolalarga ham uzluksiz yangi O₂ kirib turadi. O₂ qonga qança tez ötsa, uning alveolalardagi konsentratsiyasi şunça pasayadi. Atmosferadan alveolalarga yangi O₂ qança tez kirsa, uning konsentratsiyasi şunça ortadi. Demak, alveolalardagi O₂ konsentratsiyasi va parsial bosimini ikki omil belgilaydi: (1) O₂ ning qonga ötiş tezligi va (2) ventilyatsiya orqali öpkaga yangi O₂ kiriş tezligi."
+  },
+  "ch40-f37": {
+   "text": "**Rasm 40-4** alveolyar ventilyatsiya va O₂ ning qonga ötiş tezligi alveolalardagi P(O₂) ga qanday ta’sir qilişini körsatadi. Bir egri çiziq O₂ ning 250 ml/min, ikkinçisi 1 000 ml/min tezlikda qonga ötişini ifodalaydi. Ventilyatsiya odatdagidek 4,2 l/min, O₂ sarfi esa 250 ml/min bölganda tizimning odatiy iş nuqtasi rasmdagi A nuqtadir. Rasmga köra, örtaça jadallikdagi jismoniy maşqda bölganidek, har daqiqada 1 000 ml O₂ qonga ötsa, alveolalardagi P(O₂) ni odatdagi 104 mm simob ustuni darajasida saqlaş uçun alveolyar ventilyatsiya tört baravar oşişi kerak."
+  },
+  "ch40-f39": {
+   "text": "**Rasm 40-4** yana şuni körsatadiki, odam dengiz sathidagi odatiy atmosfera havosidan nafas olsa, alveolyar ventilyatsiya juda kuçayganida ham alveolalardagi P(O₂) 149 mm simob ustunidan oşmaydi. Sababi bu bosimda namlangan havoning P(O₂) qiymati köpi bilan 149 mm simob ustuniga teng. Odam O₂ ning parsial bosimi 149 mm simob ustunidan yuqori bölgan gaz aralaşmasidan nafas olsa, ventilyatsiya tezligi yuqori bölganda alveolalardagi P(O₂) şu yuqoriroq qiymatlarga yaqinlaşişi mumkin."
+  },
+  "ch40-f40": {
+   "text": "Alveolalarda CO₂ konsentratsiyasi va parsial bosimi"
+  },
+  "ch40-f41": {
+   "text": "Karbonat angidrid organizmda uzluksiz hosil böladi, qon orqali alveolalarga yetib boradi va ventilyatsiya orqali ulardan uzluksiz çiqariladi. **Rasm 40-5** alveolyar ventilyatsiya va CO₂ çiqarilişining ikki tezligi, 200 va 800 ml/min, alveolalardagi P(CO₂) ga qanday ta’sir qilişini körsatadi. Egri çiziqlardan biri CO₂ çiqarilişining odatiy 200 ml/min tezligini ifodalaydi. Alveolyar ventilyatsiya odatdagidek 4,2 l/min bölsa, alveolalardagi P(CO₂) rasmdagi A nuqtaga, ya’ni 40 mm simob ustuniga töğri keladi."
+  },
+  "ch40-f43": {
+   "text": "**Rasm 40-5** dan yana ikki boğlaniş körinadi. Birinçidan, _alveolalardagi P(CO₂) CO₂ çiqariliş tezligiga töğri mutanosib ravişda ortadi_. Har daqiqada 800 ml CO₂ çiqarilganda egri çiziqning tört baravar yuqorilaşi buni körsatadi. Ikkinçidan, _alveolalardagi P(CO₂) alveolyar ventilyatsiyaga teskari mutanosib ravişda kamayadi_. Demak, alveolalarda O₂ va CO₂ ning konsentratsiyasi va parsial bosimlarini şu gazlarning qonga ötiş yoki qondan çiqariliş tezligi hamda alveolyar ventilyatsiya miqdori belgilaydi."
+  },
+  "ch40-f44": {
+   "text": "Çiqarilayotgan havoning umumiy tarkibi quyidagilar bilan belgilanadi: (1) çiqarilayotgan havoning ölik fazo havosi bölgan miqdori; va (2) alveolyar havo bölgan miqdori. **Rasm 40-6** ekspiratsiya jarayonida çiqarilayotgan havodagi O2 va CO2 qisman bosimlarining bosqiçma-bosqiç özgarişlarini körsatadi. Bu havoning birinçi qismi, nafas oliş yöllarining ölik fazo havosi, **Jadval 40-1** da körsatilganidek, odatiy namlangan havodir. Söngra, tobora köproq alveolyar havo ölik fazo havosi bilan aralaşib boradi, oxir-oqibat barça ölik fazo havosi yuvilib ketadi va ekspiratsiya oxirida faqat alveolyar havo çiqariladi. Şuning uçun örganiş uçun alveolyar havoni yiğiş usuli şunçaki kuçli ekspiratsiyadan söng barça ölik fazo havosi çiqarib yuborilgaç, çiqarilgan havoning oxirgi qismidan namuna olişdan iborat."
+  },
+  "ch40-f46": {
+   "text": "Ölik fazo havosi va alveolyar havoni öz içiga olgan normal çiqariladigan havo **Jadval 40-1** da körsatilganiga yaqin bölgan gaz konsentratsiyalari va qisman bosimlariga ega (ya’ni alveolyar havo va namlangan atmosfera havosi konsentratsiyalari oraliğidagi qiymatlar)."
+  },
+  "ch40-f47": {
+   "text": "RESPIRATOR MEMBRANA ORQALI GAZLARNING DIFFUZIYASI"
+  },
+  "ch40-f48": {
+   "text": "**Rasm 40-7** da _respirator birlik_ (_respirator bölakça_ deb ham ataladi) körsatilgan bölib, u _respirator bronxiola, alveolyar yöllar, atriumlar_ va _alveolalardan_ taşkil topgan. Ikkala öpkada taxminan 300 million alveola mavjud va har bir alveolaning örtaça diametri taxminan 0,2 millimetrni taşkil qiladi. Alveolyar devorlar öta yupqa bölib, alveolalar orasida **Rasm 40-8** da körsatilganidek, bir-biriga tutaşgan kapillarlarning deyarli yaxlit tarmoği joylaşgan. Kapillyar pleksusning kengligi tufayli alveolyar devordagi qon oqimi oqayotgan qon qatlami sifatida ta’riflangan. Şunday qilib, alveolyar gazlar öpka kapillyarlarining qoniga juda yaqin joylaşgani ravşan. Qolaversa, alveolyar havo va öpka qoni örtasidagi gaz almaşinuvi faqat alveolalarda emas, balki öpkaning barça oxirgi qismlari membranalaridan ötgan holda sodir böladi. Bu membranalar birgalikda _respirator membrana_, şuningdek, _öpka membranasi_ deb ataladi.",
+   "lead": "Respirator birlik."
+  },
+  "ch40-f51": {
+   "text": "**Rasm 40-9** da çap tomonda köndalang kesimda çizilgan respirator membrananing ultra tuzilişi va öng tomonda eritrotsit körsatilgan. Şuningdek, u alveoladan eritrotsit içiga O2 diffuziyasini va qarama-qarşi yönalişda CO2 diffuziyasini körsatadi. Respirator membrananing quyidagi turli qatlamlariga e’tibor bering: 1. Alveolani qoplovçi va alveolyar suyuqlikning sirt tarangligini kamaytiruvçi sirt faol moddani (surfaktantni) öz içiga olgan suyuqlik qatlami 2. Yupqa epiteliy hujayralaridan taşkil topgan alveolyar epiteliy 3. Epitelial bazal membrana 4. Alveolyar epiteliy va kapillyar membrana orasidagi yupqa interstitsial böşliq",
+   "lead": "Respirator membrana."
+  },
+  "ch40-f53": {
+   "text": "5. Köpgina joylarda alveolyar epitelial bazal membrana bilan qöşilib ketadigan kapillyar bazal membrana 6. Kapillyar endotelial membrana Qatlamlarning köpligiga qaramay, ba’zi joylarda respirator membrananing umumiy qalinligi atigi 0,2 mikrometrni taşkil qiladi va hujayra yadrolari bölgan joylardan taşqari örtaça taxminan 0,6 mikrometrga teng. Gistologik tadqiqotlarga asoslanib, soğlom erkaklarda respirator membrananing umumiy sirt maydoni taxminan 70 kvadrat metrni taşkil qilişi taxmin qilingan, bu 25 × 30 futlik xonaning pol maydoniga teng. Har qanday aniq vaqtda öpka kapillyarlaridagi qonning umumiy miqdori 60–140 ml ni taşkil qiladi. Endi uşbu oz miqdordagi qon 25 × 30 futlik polning butun yuzasiga yoyilganini tasavvur qiling, şunda O2 va CO2 ning nafas oliş almaşinuvi tezligini tuşuniş oson böladi."
+  },
+  "ch40-f54": {
+   "text": "Öpka kapillyarlarining örtaça diametri atigi 5 mikrometrni taşkil qiladi, bu eritrotsitlar ulardan siqilib ötişi kerakligini anglatadi. Eritrotsit membranasi odatda kapillyar devoriga tegib turadi, şuning uçun O2 va CO2 alveola hamda eritrotsit örtasida diffuziyalanayotganda sezilarli miqdordagi plazmadan ötişi şart emas. Bu ham diffuziya tezligini oşiradi."
+  },
+  "ch40-f55": {
+   "text": "Respirator membrana orqali gazlar diffuziyasi tezligiga ta’sir etuvçi omillar"
+  },
+  "ch40-f56": {
+   "text": "Gaslarning suvda diffuziyasi böyiça oldingi muhokamaga murojaat qilgan holda, xuddi şu tamoyillarni gazlarning respirator membrana orqali diffuziyasiga ham qöllaş mumkin. Şunday qilib, gazning membrana orqali qançalik tez ötişini belgilovçi omillar quyidagilardan iborat: (1) _membrana qalinligi_; (2) _membrana sirt maydoni_; (3) gazning membrana moddasidagi _diffuziya koeffitsiyenti_; va (4) gazning membraning ikki tomoni orasidagi _qisman bosimlar farqi_."
+  },
+  "ch40-f57": {
+   "text": "_Respirator membrananing qalinligi_ vaqti-vaqti bilan ortadi – masalan, membrananing interstitsial böşliğidagi va alveolalardagi şiş suyuqligi natijasida – şuning uçun respirator gazlar nafaqat membrana, balki uşbu suyuqlik orqali ham diffuziyalanişi kerak bölib qoladi. Şuningdek, ba’zi öpka kasalliklari öpka fibrozini keltirib çiqaradi, bu esa respirator membrana ba’zi qismlarining qalinligini oşirişi mumkin. Membrana orqali diffuziya tezligi membrananing qalinligiga teskari proporsional bölganligi sababli, qalinlikni normal miqdordan ikki-uç baravar köproqqa oşiradigan har qanday omil gazlarning normal nafas oliş almaşinuviga sezilarli darajada tösqinlik qilişi mumkin."
+  },
+  "ch40-f58": {
+   "text": "_Respirator membrananing sirt maydoni_ köplab holatlarda sezilarli darajada kamayişi mumkin. Masalan, butun bir öpkaning olib taşlanişi umumiy sirt maydonini normal miqdorning yarmigaça kamaytiradi. Şuningdek, _emfizema_ da köplab alveolalar devorlarining erişi bilan birga özaro qöşilib ketadi. Şuning uçun yangi alveolyar kameralar asl alveolalarga qaraganda ança katta, ammo respirator membrananing umumiy sirt maydoni alveolyar devorlarning yöqolişi tufayli köpinça beş baravargaça kamayadi. Agar umumiy sirt maydoni normal miqdorning uçdan biridan törtdan birigaça kamaysa, _hatto tinç holatda ham_ membrana orqali gazlar almaşinuvi sezilarli darajada qiyinlaşadi, raqobatbardoş sport turlari va boşqa oğir jismoniy maşqlar paytida esa öpka sirt maydonining eng kiçik pasayişi ham gazlarning nafas oliş almaşinuvi uçun jiddiy zararli bölişi mumkin."
+  },
+  "ch40-f59": {
+   "text": "Har bir gazning respirator membrana orqali ötişi uçun _diffuziya koeffitsiyenti_ gazning membranadagi _eruvçanligiga_ va teskari ravişda gazning _molekulyar oğirligining kvadrat ildiziga_ boğliq. Ilgari tuşuntirilgan sabablarga köra, respirator membranadagi diffuziya tezligi suvdagiga deyarli bir xil. Şuning uçun berilgan bosimlar farqi uçun CO2 O2 ga qaraganda taxminan 20 marta tezroq diffuziyalanadi. Kislorod azotga qaraganda ikki baravar tezroq diffuziyalanadi."
+  },
+  "ch40-f60": {
+   "text": "Respirator membrana böylab _bosimlar farqi_ – bu alveolalardagi gazning qisman bosimi va öpka kapillyar qonidagi gazning qisman bosimi örtasidagi farqdir. Şuning uçun bu ikki bosim örtasidagi farq gaz molekulalarining membrana böylab harakatlanişining _aniq tendensiyasi_ ölçovidir."
+  },
+  "ch40-f61": {
+   "text": "Alveolalardagi gazning qisman bosimi qondagi gaz bosimidan yuqori bölsa, xuddi O2 da bölgani kabi, alveolalardan qonga sof diffuziya sodir böladi. Qondagi gaz bosimi alveolalardagi qisman bosimdan yuqori bölsa, xuddi CO2 da bölgani kabi, qondan alveolalarga sof diffuziya sodir böladi."
+  },
+  "ch40-f62": {
+   "text": "Respirator membrananing diffuziya qiliş qobiliyati"
+  },
+  "ch40-f63": {
+   "text": "Respirator membrananing alveolalar va öpka qoni örtasida gaz almaşinuvi qobiliyati miqdoriy jihatdan _respirator membrananing diffuziya qiliş qobiliyati_ bilan ifodalanadi, bu _1 mm Hg qisman bosimlar farqida har daqiqada membrana orqali diffuziyalanadigan gaz hajmi_ sifatida ta’riflanadi. Respirator membrana orqali diffuziyaga ta’sir qiluvçi yuqorida muhokama qilingan barça omillar uşbu diffuziya qiliş qobiliyatiga ta’sir körsatişi mumkin."
+  },
+  "ch40-f64": {
+   "text": "Örtaça yoş erkakda tinç holatdagi _O2 uçun diffuziya qiliş qobiliyati_ örtaça _21 ml/min har 1 mm Hg ga_ töğri keladi. Funksional jihatdan bu nimani anglatadi? Normal tinç nafas oliş paytida respirator membrana böylab örtaça O2 bosimlar farqi taxminan 11 mm Hg ni taşkil qiladi. Uşbu bosimni diffuziya qiliş qobiliyatiga köpaytirganda (11 × 21) har daqiqada respirator membrana orqali diffuziyalanadigan jami taxminan 230 ml kislorod hosil böladi, bu tinç holatdagi tana O2 ni iste’mol qiliş tezligiga teng.",
+   "lead": "Kislorod uçun diffuziya qiliş qobiliyati."
+  },
+  "ch40-f65": {
+   "text": "Oğir jismoniy maşqlar yoki öpka qon oqimi va alveolyar ventilyatsiyani sezilarli darajada oşiradigan boşqa şaroitlarda O2 uçun diffuziya qiliş qobiliyati tinç holatdagi diffuziya qiliş qobiliyatidan taxminan uç baravar köpayadi. Uşbu ösiş bir neçta omillar, jumladan quyidagilar bilan boğliq: (1) ilgari harakatsiz bölgan köplab öpka kapillyarlarining oçilişi yoki allaqaçon oçiq bölgan kapillyarlarning qöşimça kengayişi, şu bilan O2 diffuziyalanadigan qonning sirt maydonini oşirişi; va (2) alveolalar ventilyatsiyasi hamda alveolyar kapillyarlarning qon bilan perfuziyasi örtasidagi yaxşiroq mos keliş, bu _ventilyatsiya-perfuziya nisbati_ deb ataladi va uşbu bobda keyinroq tuşuntiriladi. Şuning uçun jismoniy maşqlar paytida qonning kislorod bilan töyinişi nafaqat alveolyar ventilyatsiyaning kuçayişi, balki O2 ni qonga taşiş uçun respirator membrananing diffuziya qiliş qobiliyatining kattaroq bölişi tufayli ham oşadi.",
+   "lead": "Jismoniy maşqlar paytida kislorodning diffuziya qiliş qobiliyatining oşişi."
+  },
+  "ch40-f66": {
+   "text": "CO2 uçun diffuziya qiliş qobiliyati heç qaçon ölçanmagan, çunki CO2 respirator membrana orqali juda tez diffuziyalanadiki, öpka qonidagi örtaça Pco2 alveolalardagi Pco2 dan unçalik farq qilmaydi – örtaça farq 1 mm Hg dan kam. Hozirgi kunda mavjud bölgan texnikalar bilan bu farq ölçaş uçun juda kiçikdir.",
+   "lead": "Uglerod dioksidi uçun diffuziya qiliş qobiliyati."
+  },
+  "ch40-f67": {
+   "text": "Boşqa gazlar diffuziyasini ölçaş natijalari diffuziya siğimi şu gazning diffuziya koeffitsiyentiga töğri mutanosibligini körsatgan. CO₂ ning diffuziya koeffitsiyenti O₂ nikidan 20 martadan sal köproq bölgani uçun CO₂ ning diffuziya siğimi tinç holatda taxminan 400–450 ml/min/mm simob ustuni, jismoniy maşq paytida esa 1 200–1 300 ml/min/mm simob ustuni bölişi kutiladi. **Rasm 40-10** da uglerod monoksidi, O₂ va CO₂ uçun tinç holatda va jismoniy maşq paytida ölçangan yoki hisoblangan diffuziya siğimlari taqqoslangan. Rasm CO₂ ning diffuziya siğimi juda yuqori ekanini va maşq har bir gazning diffuziya siğimiga qanday ta’sir qilişini körsatadi."
+  },
+  "ch40-f69": {
+   "text": "O2 ning diffuziya qiliş qobiliyatini quyidagilarni ölçaş asosida hisoblaş mumkin: (1) alveolyar Po2; (2) öpka kapillyar qonidagi Po2; va (3) qon tomonidan O2 ni özlaştiriş tezligi. Biroq, öpka kapillyar qonidagi Po2 ni ölçaş juda qiyin va noaniq bölib, eksperimental asosda bölmasa, bunday töğridan-töğri protsedura yordamida kislorodning diffuziya qiliş qobiliyatini ölçaş amaliy jihatdan bajarib bölmaydi.",
+   "lead": "Diffuziya qiliş qobiliyatini ölçaş – uglerod oksidi usuli."
+  },
+  "ch40-f70": {
+   "text": "Kislorodning diffuziya qiliş qobiliyatini töğridan-töğri ölçaşda yuzaga keladigan qiyinçiliklarni bartaraf etiş uçun fiziologlar odatda buning örniga uglerod oksidi (CO) diffuziya qiliş qobiliyatini ölçaydilar va şundan söng O2 diffuziya qiliş qobiliyatini hisoblab çiqadilar. CO usulining tamoyili quyidagiça. Alveolalarga oz miqdordagi CO nafas oldiriladi va alveolalardagi CO ning qisman bosimi tegişli alveolyar havo namunalaridan ölçanadi. Qondagi CO bosimi mohiyatan nolga teng, çunki gemoglobin bu gaz bilan şunçalik tez birikadiki, uning bosimi heç qaçon kötarilişga ulgurmaydi. Şuning uçun respirator membrana böylab CO ning bosimlar farqi alveolyar havo namunasidagi uning qisman bosimiga teng böladi. Keyinçalik, qisqa vaqt içida sörilgan CO hajmini ölçaş va buni alveolyar CO qisman bosimiga böliş yöli bilan CO diffuziya qiliş qobiliyatini aniq aniqlaş mumkin."
+  },
+  "ch40-f71": {
+   "text": "CO ning diffuziya qiliş qobiliyatini O2 ning diffuziya qiliş qobiliyatiga aylantiriş uçun bu qiymat 1,23 koeffitsiyentiga köpaytiriladi, çunki O2 uçun diffuziya koeffitsiyenti CO uçun bölgan koeffitsiyentdan 1,23 marta köpdir. Şunday qilib, tinç holatdagi soğlom yoş erkaklarda CO uçun örtaça diffuziya qiliş qobiliyati 17 ml/min har 1 mm Hg ni taşkil qiladi va O2 uçun diffuziya qiliş qobiliyati bundan 1,23 marta katta, ya’ni 21 ml/min har 1 mm Hg ga teng."
+  },
+  "ch40-f72": {
+   "text": "Uşbu bobning boşida biz alveolalardagi Po2 va Pco2 ni ikkita omil belgilaşini bilib oldik: (1) alveolyar ventilyatsiya tezligi; va (2) O2 va CO2 ning respirator membrana orqali ötiş tezligi. Uşbu muhokamada barça alveolalar bir xil darajada ventilyatsiyalanişi va har bir alveola uçun alveolyar kapillyarlar böylab qon oqimi bir xil degan faraz qilindi. Biroq, hatto normada ham ma’lum darajada, ayniqsa köplab öpka kasalliklarida, öpkaning ba’zi qismlari yaxşi ventilyatsiyalanadi, lekin deyarli qon oqimiga ega emas, boşqa qismlari esa a’lo darajada qon oqimiga ega bölişi mumkin, ammo ventilyatsiyasi oz yoki umuman yöq. Uşbu şartlarning har birida respirator membrana orqali gaz almaşinuvi jiddiy ravişda buziladi va normal _umumiy_ ventilyatsiya hamda normal _umumiy_ öpka qon oqimi saqlangan holda, lekin ventilyatsiya va qon oqimi öpkaning turli qismlariga yönaltirilgan bölsa ham, odam oğir nafas oliş qiyinlişuvidan aziyat çekişi mumkin. Şuning uçun, alveolyar ventilyatsiya va alveolyar qon oqimi örtasida nomutanosiblik mavjud bölganda nafas oliş almaşinuvini tuşunişga yordam beriş uçun yuqori darajada miqdoriy tuşunça işlab çiqilgan. Bu tuşunça _ventilyatsiya-perfuziya nisbati_ deb ataladi."
+  },
+  "ch40-f73": {
+   "text": "Miqdoriy jihatdan ventilyatsiya-perfuziya nisbati ˙VA/ ˙Q sifatida ifodalanadi. Muayyan alveola uçun ˙VA (alveolyar ventilyatsiya) normal bölsa va ˙Q (qon oqimi) ham xuddi şu alveola uçun normal bölsa, ventilyatsiya-perfuziya nisbati ( ˙VA/ ˙Q) ham normal deb aytiladi. Ventilyatsiya ( ˙VA) nolga teng bölsa-da, alveolaning perfuziyasi ( ˙Q) hali ham mavjud bölsa, ˙VA/ ˙Q nolga teng böladi. Yoki boşqa çekka holatda, yetarli ventilyatsiya ( ˙VA) mavjud bölib, lekin perfuziya nolga teng ( ˙Q) bölsa, ˙VA/ ˙Q nisbati çeksizlikka teng böladi. Nol yoki çeksizlik nisbatida ta’sirlangan alveolalarning respirator membranasi orqali gazlar almaşinuvi sodir bölmaydi. Şuning uçun keling, bu ikki çekka holatning nafas olişdagi oqibatlarini tuşuntiraylik."
+  },
+  "ch40-f74": {
+   "text": "˙VA/ ˙Q nolga teng bölsa. ˙VA/ ˙Q nolga teng bölganda – ya’ni har qanday alveolyar ventilyatsiyasiz – alveoladagi havo qon O2 va CO2 bilan muvozanatga keladi, çunki bu gazlar qon va alveolyar havo örtasida diffuziyalanadi. Kapillyarlarni perfuziya qiluvçi qon tizimli qon aylanişidan öpka tomon qaytayotgan venoz qon bölgani uçun, alveolyar gazlar aynan şu qondagi gazlar bilan muvozanatlaşadi. 41-bobda biz normal venoz qon (V ) 40 mm Hg Po2 va 45 mm Hg Pco2 ga ega ekanligini tasvirlaymiz. Şuning uçun bular qon oqimiga ega bölgan, lekin ventilyatsiyaga ega bölmagan alveolalardagi uşbu ikki gazning normal qisman bosimlari hamdir.",
+   "lead": "Alveolyar kislorod va uglerod dioksidi qisman bosimlari qaçonki"
+  },
+  "ch40-f75": {
+   "text": "˙**VA**/ ˙**Q** çeksizlikka teng bölsa. ˙VA/ ˙Q çeksizlikka teng bölganda alveolyar gazning qisman bosimlariga ta’siri ˙VA/ ˙Q nolga teng bölgandagi ta’siridan butunlay farq qiladi, çunki endi O2 ni olib ketiş yoki alveolalarga CO2 olib keliş uçun kapillyar qon oqimi mavjud emas. Şuning uçun alveolyar gazlar venoz qon bilan muvozanatga kelişining örniga, alveolyar havo namlangan nafas olingan havoga tenglaşib qoladi. Ya’ni, nafas olinadigan havo qonga O2 yöqotmaydi va qondan CO2 olmaydi. Qolaversa, normal nafas olingan va namlangan havo 149 mm Hg Po2 va 0 mm Hg Pco2 ga ega bölganligi sababli, bular alveolalardagi uşbu ikki gazning qisman bosimlari böladi.",
+   "lead": "Alveolyar kislorod va uglerod dioksidi qisman bosimlari qaçonki"
+  },
+  "ch40-f76": {
+   "text": "˙VA/ ˙Q normal bölsa. Normal alveolyar ventilyatsiya va normal alveolyar kapillyar qon oqimi (normal alveolyar perfuziya) bir vaqtning özida mavjud bölganda, respirator membrana orqali O2 va CO2 almaşinuvi deyarli optimal böladi va alveolyar Po2 odatda 104 mm Hg darajasida böladi, bu nafas olingan havo (149 mm Hg) va venoz qon (40 mm Hg) orasida yotadi. Xuddi şunday, alveolyar Pco2 ikki çekka qiymat oraliğida yotadi; u odatda 40 mm Hg ni taşkil qiladi, bu venoz qondagi 45 mm Hg va nafas olingan havodagi 0 mm Hg dan farqli ölaroq. Şunday qilib, normal şaroitda alveolyar havo Po2 örtaça 104 mm Hg ni va Pco2 örtaça 40 mm Hg ni taşkil qiladi.",
+   "lead": "Gaz almaşinuvi va alveolyar qisman bosimlar qaçonki"
+  },
+  "ch40-f77": {
+   "text": "Oldingi bölimlarda keltirilgan tuşunçalar Po2–Pco2, ˙VA/ ˙Q diagrammasi deb nomlanuvçi **Rasm 40-11** da grafik şaklda körsatilgan. Diagrammadagi egri çiziq venoz qondagi gaz bosimlari normal bölganda va odam dengiz sathidagi bosimda havo nafas olayotganda ˙VA/ ˙Q nolga teng bölişi va ˙VA/ ˙Q çeksizlikka teng bölişi çegaralari orasidagi barça mumkin bölgan Po2 va Pco2 kombinatsiyalarini ifodalaydi. Şunday qilib, ˙VA/ ˙Q nuqtasi ˙VA/ ˙Q nolga teng bölgandagi Po2 va Pco2 ning grafigidir. Bu nuqtada Po2 – 40 mm Hg va Pco2 – 45 mm Hg ni taşkil qiladi, bular normal venoz qondagi qiymatlardir."
+  },
+  "ch40-f79": {
+   "text": "Egri çiziqning boşqa uçida, ˙VA/ ˙Q çeksizlikka teng bölganda, I nuqtasi nafas olingan havoni ifodalaydi, bunda Po2 – 149 mm Hg, Pco2 esa nolga tengligini körsatadi. Şuningdek, egri çiziqda ˙VA/ ˙Q normal bölganda normal alveolyar havoni ifodalovçi nuqta ham tasvirlangan. Bu nuqtada Po2 – 104 mm Hg va Pco2 – 40 mm Hg ni taşkil qiladi."
+  },
+  "ch40-f80": {
+   "text": "Har safar ˙VA/ ˙Q normadan past bölsa, alveolyar kapillyarlar böylab oqayotgan qonni töliq kislorod bilan ta’minlaş uçun zarur bölgan O2 ni yetkazib beriş uçun ventilyatsiya yetarli bölmaydi. Şuning uçun öpka kapillyarlaridan ötadigan venoz qonning ma’lum bir qismi kislorod bilan ta’minlanmaydi. Bu qism _şuntlangan qon_ deb ataladi. Şuningdek, ba’zi qöşimça qon alveolyar kapillyarlar orqali emas, balki bronxial tomirlar orqali oqib ötadi, bu odatda yurak otiş hajmining 2% ni taşkil qiladi; bu ham kislorod bilan ta’minlanmagan, şuntlangan qondir."
+  },
+  "ch40-f81": {
+   "text": "Bir daqiqada shunt orqali ötadigan qonning jami hajmi _fiziologik shunt_ deb ataladi. Klinik öpka funksiyasi laboratoriyalarida u aralaş venoz va arterial qondagi O₂ konsentratsiyasi hamda yurakning bir daqiqalik qon haydaş hajmini bir vaqtda ölçaş orqali aniqlanadi. Bu körsatkiçlar asosida fiziologik shunt tenglama bilan hisoblanadi: Q̇ₚₛ/Q̇ₜ = [Cᵢ(O₂) − Cₐ(O₂)] / [Cᵢ(O₂) − Cᵥ(O₂)]."
+  },
+  "ch40-f82": {
+   "text": "Bu yerda Q̇ₚₛ — fiziologik shunt orqali bir daqiqada oqadigan qon hajmi, Q̇ₜ — yurakning bir daqiqalik qon haydaş hajmi, Cᵢ(O₂) — ventilyatsiya-perfuziya nisbati ideal bölgandagi arterial kislorod konsentratsiyasi, Cₐ(O₂) — arterial qonda ölçangan kislorod konsentratsiyasi."
+  },
+  "ch40-f83": {
+   "text": "Cᵥ(O₂) — aralaş venoz qonda ölçangan kislorod konsentratsiyasi."
+  },
+  "ch40-f84": {
+   "text": "Fiziologik shunt qança katta bölsa, _öpkadan ötayotganda kislorod bilan töyinmay qoladigan qon miqdori_ şunça köp böladi."
+  },
+  "ch40-f85": {
+   "text": "Ayrim alveolalar yaxşi ventilyatsiyalansa-yu, ulardan ötadigan qon oqimi kam bölsa, alveolalarda mavjud kislorod miqdori qon oqimi olib keta oladigan miqdordan ança köp böladi. Şu sababli bunday alveolalar ventilyatsiyasi _samarasiz_ hisoblanadi. Nafas yöllaridagi anatomik ölik böşliq ventilyatsiyasi ham gaz almaşinuviga hissa qöşmaydi. Şu ikki turdagi samarasiz ventilyatsiya yiğindisi _fiziologik ölik böşliq_ deb ataladi. Klinik öpka funksiyasi laboratoriyasida uni aniqlaş uçun qon va çiqarilgan havodagi gazlar ölçanadi hamda _Bor tenglamasi_ işlatiladi: Vᴅphys = Vₜ × [Pₐ(CO₂) − Pₑ(CO₂)] / Pₐ(CO₂). Bu yerda Vᴅphys — fiziologik ölik böşliq hajmi, Vₜ — bir nafas hajmi, Pₐ(CO₂) — arterial qondagi CO₂ ning parsial bosimi, Pₑ(CO₂) — çiqarilgan jami havodagi CO₂ ning örtaça parsial bosimi."
+  },
+  "ch40-f86": {
+   "text": "Fiziologik ölik böşliq katta bölsa, _ventilyatsiya işining_ ança qismi samarasiz ketadi, çunki kirgan havoning katta qismi qon bilan gaz almaşinuviga qatnaşmaydi."
+  },
+  "ch40-f87": {
+   "text": "Soğlom odam tik turganda öpkaning yuqori qismida ham kapillyar qon oqimi, ham alveolyar ventilyatsiya pastki qismdagidan ança kam böladi. Qon oqimidagi kamayiş ventilyatsiyadagidan ança katta. Şuning uçun öpka çöqqisida V̇ₐ/Q̇ ideal qiymatdan 2,5 baravargaça yuqori böladi va bu sohada örtaça darajadagi _fiziologik ölik böşliq_ yuzaga keladi.",
+   "lead": "Soğlom öpkaning yuqori va pastki qismlarida ventilyatsiya-perfuziya nisbatining farqlanişi."
+  },
+  "ch40-f88": {
+   "text": "Öpkaning pastki qismida esa qon oqimiga nisbatan ventilyatsiya bir oz yetişmaydi va V̇ₐ/Q̇ ideal qiymatning 0,6 qismigaça pasayadi. Bu sohada qonning oz qismi me’yorida kislorod bilan töyinmaydi. Bu _fiziologik shunt_ hisoblanadi."
+  },
+  "ch40-f89": {
+   "text": "Har ikki holatda ventilyatsiya va perfuziyaning nomutanosibligi öpkada O₂ va CO₂ almaşinuvi samaradorligini biroz pasaytiradi. Jismoniy maşq paytida öpkaning yuqori qismiga qon oqimi ança ortadi. Natijada fiziologik ölik böşliq kamayadi va gaz almaşinuvi samaradorligi optimal darajaga yaqinlaşadi."
+  },
+  "ch40-f90": {
+   "text": "Köp yillar çekkan odamlarning aksariyatida bronxlar turli darajada torayib, havo oqimiga tösqinlik qila boşlaydi. Köpçiligida holat şu darajada oğirlaşadiki, havo alveolalarda ança köp tutilib qoladi va _emfizema_ yuzaga keladi. Emfizema esa köplab alveola devorlarining yemirilişiga olib keladi. Şunday qilib, çekuvçilarda V̇ₐ/Q̇ nisbatini ikki özgariş buzadi. Birinçidan, köplab mayda bronxiolalar berkilib, ulardan keyingi alveolalar ventilyatsiyasiz qoladi va V̇ₐ/Q̇ nolga yaqinlaşadi. Ikkinçidan, alveola devorlarining katta qismi yemirilgan, ammo alveolyar ventilyatsiya saqlangan sohalarda qon oqimi gazlarni taşiş uçun yetarli bölmaydi va ventilyatsiyaning katta qismi samarasiz ketadi."
+  },
+  "ch40-f91": {
+   "text": "Demak, surunkali obstruktiv öpka kasalligida öpkaning ayrim qismlarida _yaqqol fiziologik shunt_, boşqa qismlarida esa _katta fiziologik ölik böşliq_ kuzatiladi. Har ikki holat öpkaning gaz almaşinuvi samaradorligini keskin pasaytiradi. Ba’zan u odatdagi darajaning öndan birigaça tuşadi. Uşbu kasallik öpka faoliyatining çeklanişiga olib keluvçi eng köp uçraydigan sabab sifatida keltirilgan."
+  }
+ },
+ "figures": {
+  "gh14-fig-40-01": "Kislorodning kamera bir uçidan ikkinçi uçiga diffuziyalanişi. Strelkalar uzunligi örtasidagi farq sof diffuziyani ifodalaydi.",
+  "gh14-fig-40-02": "Ketma-ket nafas sikllarida gazning alveoladan çiqarilişi.",
+  "gh14-fig-40-03": "Alveolalardan ortiqça gazning çiqib ketiş tezligi.",
+  "gh14-fig-40-04": "Kislorod alveolalardan 250 va 1 000 ml/min tezlikda qonga ötganda alveolyar ventilyatsiyaning alveolalardagi kislorod parsial bosimiga [P(O₂)] ta’siri. A nuqta odatiy iş nuqtasini bildiradi.",
+  "gh14-fig-40-05": "Karbonat angidrid qondan 800 va 200 ml/min tezlikda çiqarilganda alveolyar ventilyatsiyaning alveolalardagi karbonat angidrid parsial bosimiga [P(CO₂)] ta’siri. A nuqta odatiy iş nuqtasini bildiradi.",
+  "gh14-fig-40-06": "Odatiy nafas çiqarişning turli bosqiçlarida çiqarilgan havodagi kislorod va karbonat angidridning parsial bosimlari [P(O₂) va P(CO₂)].",
+  "gh14-fig-40-07": "Nafas birligi.",
+  "gh14-fig-40-08": "A — alveola devoridagi kapillyarlarning sirtidan körinişi. B — alveola devorlari va ularni qon bilan ta’minlovçi tomirlarning köndalang kesimi. A tasvir manbasi: Maloney JE, Castle BL. Baqa öpkasidagi kapillyarlar va mayda qon tomirlarida bosim bilan diametr örtasidagi boğlaniş. Respir Physiol 7:150, 1969.",
+  "gh14-fig-40-09": "Alveolaning nafas membranasi ultratuzilmasi köndalang kesimda körsatilgan.",
+  "gh14-fig-40-10": "Soğlom öpkada tinç holatda va jismoniy maşq paytida uglerod monoksidi, kislorod va karbonat angidrid uçun diffuziya siğimi.",
+  "gh14-fig-40-11": "Me’yoriy şaroitda kislorodning parsial bosimi P(O₂) va karbonat angidridning parsial bosimi P(CO₂) ventilyatsiya-perfuziya nisbatiga (V̇ₐ/Q̇) qanday boğliqligini körsatuvçi diagramma.",
+  "gh14-tab-40-01": "Öpkaga kiradigan va undan çiqadigan nafas gazlarining parsial bosimlari (mm simob ustunida) hamda tarkibi (foizlarda)."
+ }
+}

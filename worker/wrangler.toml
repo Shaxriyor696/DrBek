@@ -10,3 +10,6 @@ ALLOWED_ORIGINS = "https://shaxriyor696.github.io,http://localhost:3000"
 GEMINI_MODEL = "gemini-3-flash-preview,gemini-3.5-flash-lite,gemini-3.1-flash-lite"
 GEMINI_VOICE_MODEL = "gemini-3-flash-preview,gemini-3.1-flash-lite"
 GEMINI_THINKING = "low"
+# Grok uchun: AI_PROVIDER = "grok" va npx wrangler secret put XAI_API_KEY
+# AI_PROVIDER = "grok"
+GROK_MODEL = "grok-4.7"

@@ -2,9 +2,9 @@
  "id": "ch15",
  "topicId": "04",
  "order": 2,
- "titleUz": "Tomirlarning cho’ziluvchanligi; arterial va venoz tizim funksiyalari",
+ "titleUz": "Tomirlarning çöziluvçanligi; arterial va venoz tizim funksiyalari",
  "titleOriginal": "Vascular Distensibility and Functions of the Arterial and Venous Systems",
- "subtitle": "*Vascular Distensibility and Functions of the Arterial and Venous Systems*. IV bo'lim, PDF 174–183",
+ "subtitle": "*Vascular Distensibility and Functions of the Arterial and Venous Systems*. IV bo‘lim, PDF 174–183",
  "contentVersion": "2026-11-14.1",
  "status": "in_review",
  "translationStatus": "machine_assisted",
@@ -230,11 +230,11 @@
   }
  ],
  "objectives": [
-  "Cho’ziluvchanlik va komplayens",
+  "Cho‘ziluvchanlik va komplayens",
   "Hajm-bosim egri chiziqlari",
   "Arterial puls",
   "Pulsning periferiyaga uzatilishi",
-  "Bosimni klinik o’lchash",
+  "Bosimni klinik o‘lchash",
   "Venalar va venoz bosim",
   "Gravitatsion (gidrostatik) bosim",
   "Venoz bosimni baholash",
@@ -246,19 +246,19 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Asosiy g’oya",
+    "text": "Asosiy ğoya",
     "id": "ch15-s-0-asosiy-goya",
     "bid": "ch15-u0"
    },
    {
     "type": "paragraph",
-    "text": "Tomirlar cho’ziluvchan bo’lgani uchun yurakning pulsli (uzlukli) chiqarishi silliq va uzluksiz kapillyar oqimiga aylanadi. Venalar esa eng cho’ziluvchan va eng sig’imli tomirlar. Shu sababli ular qon zahirasi vazifasini bajaradi va uni simpatik nerv tizimi boshqaradi.",
+    "text": "Tomirlar çöziluvçan bölgani uçun yurakning pulsli (uzlukli) çiqarişi silliq va uzluksiz kapillyar oqimiga aylanadi. Venalar esa eng çöziluvçan va eng siğimli tomirlar. Şu sababli ular qon zahirasi vazifasini bajaradi va uni simpatik nerv tizimi boşqaradi.",
     "bid": "ch15-u1"
    },
    {
     "type": "heading",
     "level": 2,
-    "text": "Cho’ziluvchanlik va komplayens",
+    "text": "Çöziluvçanlik va komplayens",
     "id": "ch15-s-2-choziluvchanlik-va-komplayens",
     "bid": "ch15-u2"
    },
@@ -267,27 +267,27 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Cho’ziluvchanlik (distensibility)** hajm o’zgarishini bosim o’zgarishi va boshlang’ich hajm ko’paytmasiga bo’lish bilan topiladi: ΔV / (ΔP × V₀). Masalan, 10 ml li tomirda 1 mm Hg bosim hajmni 1 ml oshirsa, cho’ziluvchanlik 10%/mm Hg bo’ladi.",
+      "text": "**Çöziluvçanlik (distensibility)** hajm özgarişini bosim özgarişi va boşlanğiç hajm köpaytmasiga böliş bilan topiladi: ΔV / (ΔP × V₀). Masalan, 10 ml li tomirda 1 mm Hg bosim hajmni 1 ml oşirsa, çöziluvçanlik 10%/mm Hg böladi.",
       "depth": 0
      },
      {
-      "text": "Venalar arteriyalardan **~8 marta** cho’ziluvchanroq.",
+      "text": "Venalar arteriyalardan **~8 marta** çöziluvçanroq.",
       "depth": 0
      },
      {
-      "text": "O’pka arteriyalari katta doira arteriyalariga nisbatan ~1/6 bosimda ishlaydi va ~6 marta cho’ziluvchanroq.",
+      "text": "Öpka arteriyalari katta doira arteriyalariga nisbatan ~1/6 bosimda işlaydi va ~6 marta çöziluvçanroq.",
       "depth": 0
      },
      {
-      "text": "**Komplayens (sig’im, capacitance)** = ΔV/ΔP = cho’ziluvchanlik × hajm.",
+      "text": "**Komplayens (siğim, capacitance)** = ΔV/ΔP = çöziluvçanlik × hajm.",
       "depth": 0
      },
      {
-      "text": "Katta doira venasining komplayensi tegishli arteriyanikidan **~24 marta** katta, chunki u 8 marta cho’ziluvchanroq va hajmi 3 marta katta.",
+      "text": "Katta doira venasining komplayensi tegişli arteriyanikidan **~24 marta** katta, çunki u 8 marta çöziluvçanroq va hajmi 3 marta katta.",
       "depth": 1
      },
      {
-      "text": "Kichik hajmli, lekin juda cho’ziluvchan tomirning komplayensi kam bo’lishi mumkin.",
+      "text": "Kiçik hajmli, lekin juda çöziluvçan tomirning komplayensi kam bölişi mumkin.",
       "depth": 1
      }
     ],
@@ -296,7 +296,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Hajm-bosim egri chiziqlari",
+    "text": "Hajm-bosim egri çiziqlari",
     "id": "ch15-s-4-hajm-bosim-egri-chiziqlari",
     "bid": "ch15-u4"
    },
@@ -305,27 +305,27 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Arterial tizim:** 700 ml qon bilan to’lganda o’rtacha bosim 100 mm Hg, 400 ml da esa 0.",
+      "text": "**Arterial tizim:** 700 ml qon bilan tölganda örtaça bosim 100 mm Hg, 400 ml da esa 0.",
       "depth": 0
      },
      {
-      "text": "**Venoz tizim:** hajmi 2000–3500 ml. Bosim atigi 3–5 mm Hg o’zgarishi uchun bir necha yuz ml hajm o’zgarishi kerak. Shuning uchun sog’lom odamga bir necha daqiqada ~0,5 l qon quyish katta o’zgarish bermaydi.",
+      "text": "**Venoz tizim:** hajmi 2000–3500 ml. Bosim atigi 3–5 mm Hg özgarişi uçun bir neça yuz ml hajm özgarişi kerak. Şuning uçun soğlom odamga bir neça daqiqada ~0,5 l qon quyiş katta özgariş bermaydi.",
       "depth": 0
      },
      {
-      "text": "**Simpatik qo’zg’alish** silliq mushak tonusini oshiradi: har bir hajmda bosim ko’tariladi. Simpatik tormozlanish aksincha ta’sir qiladi.",
+      "text": "**Simpatik qözğaliş** silliq muşak tonusini oşiradi: har bir hajmda bosim kötariladi. Simpatik tormozlaniş aksinça ta’sir qiladi.",
       "depth": 0
      },
      {
-      "text": "Butun tanada tonus oshsa, qon yurakka siljiydi. Bu yurak ishini tez oshirishning asosiy usullaridan biri.",
+      "text": "Butun tanada tonus oşsa, qon yurakka siljiydi. Bu yurak işini tez oşirişning asosiy usullaridan biri.",
       "depth": 1
      },
      {
-      "text": "Qon ketganda venalarning simpatik torayishi muhim. U tufayli umumiy qon hajmining **~25%** gacha yo’qolganda ham qon aylanishi deyarli normal ishlaydi.",
+      "text": "Qon ketganda venalarning simpatik torayişi muhim. U tufayli umumiy qon hajmining **~25%** gaça yöqolganda ham qon aylanişi deyarli normal işlaydi.",
       "depth": 1
      },
      {
-      "text": "**Kechiktirilgan komplayens (stress-relaxation):** venaga qon kiritilganda bosim avval keskin ko’tariladi (5 dan 12 mm Hg gacha). Keyin silliq mushak asta-sekin cho’zilib, bosim bir necha daqiqada ~9 mm Hg ga tushadi (8-bob). Bu mexanizm katta qon quyilganda yoki qon ketgandan keyin (teskari yo’nalishda) moslashuvga yordam beradi.",
+      "text": "**Keçiktirilgan komplayens (stress-relaxation):** venaga qon kiritilganda bosim avval keskin kötariladi (5 dan 12 mm Hg gaça). Keyin silliq muşak asta-sekin çözilib, bosim bir neça daqiqada ~9 mm Hg ga tuşadi (8-bob). Bu mexanizm katta qon quyilganda yoki qon ketgandan keyin (teskari yönalişda) moslaşuvga yordam beradi.",
       "depth": 0
      }
     ],
@@ -347,27 +347,27 @@
       "depth": 0
      },
      {
-      "text": "**Puls bosimi ≈ zarba hajmi / arterial komplayens.** Uchinchi, kamroq ahamiyatli omil haydash xarakteri.",
+      "text": "**Puls bosimi ≈ zarba hajmi / arterial komplayens.** Uçinçi, kamroq ahamiyatli omil haydaş xarakteri.",
       "depth": 0
      },
      {
-      "text": "Keksalikda arterioskleroz arteriyalarni qattiqlashtiradi va puls bosimi 2 baravargacha oshishi mumkin.",
+      "text": "Keksalikda arterioskleroz arteriyalarni qattiqlaştiradi va puls bosimi 2 baravargaça oşişi mumkin.",
       "depth": 1
      },
      {
-      "text": "**G’ayritabiiy puls shakllari:**",
+      "text": "**Ğayritabiiy puls şakllari:**",
       "depth": 0
      },
      {
-      "text": "**Aorta stenozi:** puls kichik.",
+      "text": "**Aorta stenozi:** puls kiçik.",
       "depth": 1
      },
      {
-      "text": "**Ochiq arterial (Botallo) yo’li:** chiqarilgan qonning ≥50% o’pka arteriyasiga qaytadi. Diastolik bosim juda pasayadi, puls bosimi oshadi.",
+      "text": "**Oçiq arterial (Botallo) yöli:** çiqarilgan qonning ≥50% öpka arteriyasiga qaytadi. Diastolik bosim juda pasayadi, puls bosimi oşadi.",
       "depth": 1
      },
      {
-      "text": "**Aorta regurgitatsiyasi:** qon qorinchaga qaytadi. Diastolik bosim 0 gacha tushishi mumkin, insizura yo’q (klapan yopilmaydi).",
+      "text": "**Aorta regurgitatsiyasi:** qon qorinçaga qaytadi. Diastolik bosim 0 gaça tuşişi mumkin, insizura yöq (klapan yopilmaydi).",
       "depth": 1
      }
     ],
@@ -376,7 +376,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Pulsning periferiyaga uzatilishi",
+    "text": "Pulsning periferiyaga uzatilişi",
     "id": "ch15-s-8-pulsning-periferiyaga-uzatilishi",
     "bid": "ch15-u8"
    },
@@ -385,15 +385,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Puls to’lqinining tezligi: aortada 3–5 m/s, katta tarmoqlarda 7–10 m/s, kichik arteriyalarda 15–35 m/s. Komplayens qancha katta bo’lsa, to’lqin shuncha sekin.",
+      "text": "Puls tölqinining tezligi: aortada 3–5 m/s, katta tarmoqlarda 7–10 m/s, kiçik arteriyalarda 15–35 m/s. Komplayens qança katta bölsa, tölqin şunça sekin.",
       "depth": 0
      },
      {
-      "text": "Aortada puls to’lqini qon oqimidan ≥15 marta tez, chunki bu qon hajmining harakati emas, bosim to’lqini.",
+      "text": "Aortada puls tölqini qon oqimidan ≥15 marta tez, çunki bu qon hajmining harakati emas, bosim tölqini.",
       "depth": 0
      },
      {
-      "text": "**So’nish (damping):** puls kichik arteriyalar, arteriolalar va ayniqsa kapillyarlarda yo’qoladi. Sababi qarshilik va komplayens. So’nish darajasi **qarshilik × komplayens** ga deyarli proporsional. Kapillyar pulsatsiyasi faqat juda katta puls yoki arteriolalar keskin kengayganda ko’rinadi.",
+      "text": "**Söniş (damping):** puls kiçik arteriyalar, arteriolalar va ayniqsa kapillyarlarda yöqoladi. Sababi qarşilik va komplayens. Söniş darajasi **qarşilik × komplayens** ga deyarli proporsional. Kapillyar pulsatsiyasi faqat juda katta puls yoki arteriolalar keskin kengayganda körinadi.",
       "depth": 0
      }
     ],
@@ -402,7 +402,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Bosimni klinik o’lchash",
+    "text": "Bosimni klinik ölçaş",
     "id": "ch15-s-10-bosimni-klinik-olchash",
     "bid": "ch15-u10"
    },
@@ -411,27 +411,27 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Auskultativ usul** (manjet va stetoskop, Korotkov tovushlari):",
+      "text": "**Auskultativ usul** (manjet va stetoskop, Korotkov tovuşlari):",
       "depth": 0
      },
      {
-      "text": "Tovushlar qisman siqilgan arteriyadan qon otilib chiqishi, turbulentlik va devor tebranishidan hosil bo’ladi.",
+      "text": "Tovuşlar qisman siqilgan arteriyadan qon otilib çiqişi, turbulentlik va devor tebranişidan hosil böladi.",
       "depth": 1
      },
      {
-      "text": "Birinchi taqillash tovushi sistolik bosimga to’g’ri keladi.",
+      "text": "Birinçi taqillaş tovuşi sistolik bosimga töğri keladi.",
       "depth": 1
      },
      {
-      "text": "Tovush bo’g’iqlashganda bosim diastolik bosimga yaqin (biroz ortiqcha baholaydi). Ko’pchilik klinitsistlar tovush butunlay yo’qolgan nuqtani diastolik bosim deb oladi.",
+      "text": "Tovuş böğiqlaşganda bosim diastolik bosimga yaqin (biroz ortiqça baholaydi). Köpçilik klinitsistlar tovuş butunlay yöqolgan nuqtani diastolik bosim deb oladi.",
       "depth": 1
      },
      {
-      "text": "Istisno: gemodializ uchun AV fistula va aorta yetishmovchiligida tovushlar manjet to’liq bo’shatilgandan keyin ham eshitilishi mumkin.",
+      "text": "Istisno: gemodializ uçun AV fistula va aorta yetişmovçiligida tovuşlar manjet töliq böşatilgandan keyin ham eşitilişi mumkin.",
       "depth": 1
      },
      {
-      "text": "Natijalar to’g’ridan-to’g’ri kateter o’lchovidan 10% doirasida farq qiladi.",
+      "text": "Natijalar töğridan-töğri kateter ölçovidan 10% doirasida farq qiladi.",
       "depth": 1
      },
      {
@@ -439,23 +439,23 @@
       "depth": 0
      },
      {
-      "text": "Manjet bosimining tebranishlari elektron datchik bilan sezib olinadi. Eng katta tebranish o’rtacha arterial bosimga mos keladi.",
+      "text": "Manjet bosimining tebranişlari elektron datçik bilan sezib olinadi. Eng katta tebraniş örtaça arterial bosimga mos keladi.",
       "depth": 1
      },
      {
-      "text": "Uyda o’lchash mumkin, shu bilan \"oq xalat effekti\"dan qochiladi.",
+      "text": "Uyda ölçaş mumkin, şu bilan “oq xalat effekti”dan qoçiladi.",
       "depth": 1
      },
      {
-      "text": "Kalibrlash talab qilinadi. Manjet o’lchami noto’g’ri bo’lsa yoki og’ir arterioskleroz bo’lsa, natija ishonchsiz.",
+      "text": "Kalibrlaş talab qilinadi. Manjet ölçami notöğri bölsa yoki oğir arterioskleroz bölsa, natija işonçsiz.",
       "depth": 1
      },
      {
-      "text": "**Yosh bilan:** bosim asta-sekin ko’tariladi, asosan buyrak nazorati o’zgarishi sababli (19-bob, 50 yoshdan keyin). 60 yoshdan keyin sistolik bosim qo’shimcha ko’tariladi, chunki arteriyalar qattiqlashadi.",
+      "text": "**Yoş bilan:** bosim asta-sekin kötariladi, asosan buyrak nazorati özgarişi sababli (19-bob, 50 yoşdan keyin). 60 yoşdan keyin sistolik bosim qöşimça kötariladi, çunki arteriyalar qattiqlaşadi.",
       "depth": 0
      },
      {
-      "text": "**O’rtacha arterial bosim:** taxminan **60% diastolik + 40% sistolik**, chunki sikl ko’proq diastolada o’tadi. Yurak urishi juda tez bo’lganda sistolik va diastolikning o’rtachasiga yaqinlashadi.",
+      "text": "**Örtaça arterial bosim:** taxminan **60% diastolik + 40% sistolik**, çunki sikl köproq diastolada ötadi. Yurak urişi juda tez bölganda sistolik va diastolikning örtaçasiga yaqinlaşadi.",
       "depth": 0
      }
     ],
@@ -473,35 +473,35 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Markaziy venoz bosim (o’ng bo’lmacha)** ~0 mm Hg, ya’ni atmosfera bosimiga teng.",
+      "text": "**Markaziy venoz bosim (öng bölmaça)** ~0 mm Hg, ya’ni atmosfera bosimiga teng.",
       "depth": 0
      },
      {
-      "text": "Uni ikki narsa muvozanatlashtiradi: yurakning qonni haydash qobiliyati va periferiyadan qonning qaytish moyilligi.",
+      "text": "Uni ikki narsa muvozanatlaştiradi: yurakning qonni haydaş qobiliyati va periferiyadan qonning qaytiş moyilligi.",
       "depth": 1
      },
      {
-      "text": "Venoz qaytishni oshiruvchi omillar: qon hajmi ortishi, katta tomirlar tonusi oshishi, arteriolalar kengayishi.",
+      "text": "Venoz qaytişni oşiruvçi omillar: qon hajmi ortişi, katta tomirlar tonusi oşişi, arteriolalar kengayişi.",
       "depth": 1
      },
      {
-      "text": "Og’ir yurak yetishmovchiligi yoki katta qon quyishda 20–30 mm Hg gacha ko’tariladi.",
+      "text": "Oğir yurak yetişmovçiligi yoki katta qon quyişda 20–30 mm Hg gaça kötariladi.",
       "depth": 1
      },
      {
-      "text": "Pastki chegarasi −3 dan −5 mm Hg gacha (ko’krak qafasi bosimi). Yurak juda kuchli ishlaganda yoki qattiq qon ketishda shunga yaqinlashadi.",
+      "text": "Pastki çegarasi −3 dan −5 mm Hg gaça (kökrak qafasi bosimi). Yurak juda kuçli işlaganda yoki qattiq qon ketişda şunga yaqinlaşadi.",
       "depth": 1
      },
      {
-      "text": "**Venoz qarshilik:** kengaygan katta venalarda deyarli nol. Ammo venalar bir necha joyda siqiladi: qo’l venalari 1-qovurg’a ustida, bo’yin venalari atmosfera bosimi ostida yopiladi, qorin venalari a’zolar va qorin bosimi bilan siqiladi. Shu sababli yotgan odamning periferik venalarida bosim o’ng bo’lmachadan +4 dan +6 mm Hg gacha yuqori.",
+      "text": "**Venoz qarşilik:** kengaygan katta venalarda deyarli nol. Ammo venalar bir neça joyda siqiladi: qöl venalari 1-qovurğa ustida, böyin venalari atmosfera bosimi ostida yopiladi, qorin venalari a’zolar va qorin bosimi bilan siqiladi. Şu sababli yotgan odamning periferik venalarida bosim öng bölmaçadan +4 dan +6 mm Hg gaça yuqori.",
       "depth": 0
      },
      {
-      "text": "O’ng bo’lmacha bosimi +4–6 mm Hg dan oshgandagina periferik bosim ko’tarila boshlaydi. Shuning uchun yurak yetishmovchiligining erta bosqichida dam olayotgan odamda periferik venoz bosim sezilarli oshmaydi.",
+      "text": "Öng bölmaça bosimi +4–6 mm Hg dan oşgandagina periferik bosim kötarila boşlaydi. Şuning uçun yurak yetişmovçiligining erta bosqiçida dam olayotgan odamda periferik venoz bosim sezilarli oşmaydi.",
       "depth": 1
      },
      {
-      "text": "**Qorin ichi bosimi** odatda ~+6 mm Hg. Homiladorlik, o’sma, semizlik yoki assitda 15–30 mm Hg gacha ko’tariladi. Oyoq venalaridagi bosim undan oshishi kerak, masalan qorin bosimi 20 bo’lsa, son venasidagi bosim kamida ~20 bo’ladi.",
+      "text": "**Qorin içi bosimi** odatda ~+6 mm Hg. Homiladorlik, ösma, semizlik yoki assitda 15–30 mm Hg gaça kötariladi. Oyoq venalaridagi bosim undan oşişi kerak, masalan qorin bosimi 20 bölsa, son venasidagi bosim kamida ~20 böladi.",
       "depth": 0
      }
     ],
@@ -519,51 +519,51 @@
     "ordered": false,
     "items": [
      {
-      "text": "Qon ustuni har 13,6 mm chuqurlikda 1 mm Hg bosim qo’shadi.",
+      "text": "Qon ustuni har 13,6 mm çuqurlikda 1 mm Hg bosim qöşadi.",
       "depth": 0
      },
      {
-      "text": "**Tik turgan odamda:** o’ng bo’lmacha ~0, oyoq venalari ~+90 mm Hg.",
+      "text": "**Tik turgan odamda:** öng bölmaça ~0, oyoq venalari ~+90 mm Hg.",
       "depth": 0
      },
      {
-      "text": "Qo’l venalarida 1-qovurg’a sathida ~+6 mm Hg (qovurg’a ustida siqilish sababli). Unga gravitatsion ulush qo’shiladi, masalan qo’lda 6 + 29 = 35 mm Hg.",
+      "text": "Qöl venalarida 1-qovurğa sathida ~+6 mm Hg (qovurğa ustida siqiliş sababli). Unga gravitatsion uluş qöşiladi, masalan qölda 6 + 29 = 35 mm Hg.",
       "depth": 1
      },
      {
-      "text": "Bo’yin venalari bosh suyagigacha yopilib turadi, shuning uchun ulardagi bosim 0.",
+      "text": "Böyin venalari boş suyagigaça yopilib turadi, şuning uçun ulardagi bosim 0.",
       "depth": 1
      },
      {
-      "text": "Bosh suyagi ichidagi sinuslar yopilmaydi. Sagittal sinusda bosim ~−10 mm Hg, shuning uchun operatsiyada havo so’rilib, havo emboliyasi yuzaga kelishi mumkin.",
+      "text": "Boş suyagi içidagi sinuslar yopilmaydi. Sagittal sinusda bosim ~−10 mm Hg, şuning uçun operatsiyada havo sörilib, havo emboliyasi yuzaga kelişi mumkin.",
       "depth": 1
      },
      {
-      "text": "**Arteriyalarda:** yurak sathida 100 mm Hg bo’lsa, tik turgan odamning oyog’ida ~190 mm Hg.",
+      "text": "**Arteriyalarda:** yurak sathida 100 mm Hg bölsa, tik turgan odamning oyoğida ~190 mm Hg.",
       "depth": 0
      },
      {
-      "text": "**Venoz klapanlar va \"mushak nasosi\":** yurganda oyoq venalaridagi bosim **<+20 mm Hg** atrofida saqlanadi.",
+      "text": "**Venoz klapanlar va “muşak nasosi”:** yurganda oyoq venalaridagi bosim **<+20 mm Hg** atrofida saqlanadi.",
       "depth": 0
      },
      {
-      "text": "Qimirlamay tursa, ~30 s ichida bosim 90 mm Hg ga yetadi. Kapillyar bosim ortib, suyuqlik to’qimaga sizadi.",
+      "text": "Qimirlamay tursa, ~30 s içida bosim 90 mm Hg ga yetadi. Kapillyar bosim ortib, suyuqlik töqimaga sizadi.",
       "depth": 1
      },
      {
-      "text": "15–30 daqiqada qon hajmining **10–20%** i yo’qolishi va hushdan ketish mumkin (masalan, saf tortib turgan askar). Oyoq mushaklarini vaqti-vaqti bilan qisqartirish bunga yo’l qo’ymaydi.",
+      "text": "15–30 daqiqada qon hajmining **10–20%** i yöqolişi va huşdan ketiş mumkin (masalan, saf tortib turgan askar). Oyoq muşaklarini vaqti-vaqti bilan qisqartiriş bunga yöl qöymaydi.",
       "depth": 1
      },
      {
-      "text": "**Varikoz venalar:** venalar uzoq vaqt (homiladorlik, uzoq tik turish) cho’zilganda klapan tavaqalari yopilmay qoladi. Nasos ishlamaydi, bosim oshadi va vena yanada kengayadi (ayovsiz doira).",
+      "text": "**Varikoz venalar:** venalar uzoq vaqt (homiladorlik, uzoq tik turiş) çözilganda klapan tavaqalari yopilmay qoladi. Nasos işlamaydi, bosim oşadi va vena yanada kengayadi (ayovsiz doira).",
       "depth": 0
      },
      {
-      "text": "Natijada doimiy shish paydo bo’ladi, oziqlanish yomonlashadi, og’riq va zaiflik, hatto yara va gangrena rivojlanadi.",
+      "text": "Natijada doimiy şiş paydo böladi, oziqlaniş yomonlaşadi, oğriq va zaiflik, hatto yara va gangrena rivojlanadi.",
       "depth": 1
      },
      {
-      "text": "Davolash: oyoqni yurak sathidan baland ko’tarish, kompression paypoqlar.",
+      "text": "Davolaş: oyoqni yurak sathidan baland kötariş, kompression paypoqlar.",
       "depth": 1
      }
     ],
@@ -572,7 +572,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Venoz bosimni baholash",
+    "text": "Venoz bosimni baholaş",
     "id": "ch15-s-16-venoz-bosimni-baholash",
     "bid": "ch15-u16"
    },
@@ -581,15 +581,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Klinik ko’rik:** o’tirgan sog’lom odamda bo’yin venalari bo’rtmaydi. O’ng bo’lmacha bosimi +10 mm Hg ga yetganda pastki bo’yin venalari bo’rtadi, +15 mm Hg da hammasi bo’rtadi.",
+      "text": "**Klinik körik:** ötirgan soğlom odamda böyin venalari börtmaydi. Öng bölmaça bosimi +10 mm Hg ga yetganda pastki böyin venalari börtadi, +15 mm Hg da hammasi börtadi.",
       "depth": 0
      },
      {
-      "text": "**Aniq o’lchash:** markaziy venoz kateter orqali.",
+      "text": "**Aniq ölçaş:** markaziy venoz kateter orqali.",
       "depth": 0
      },
      {
-      "text": "**Nol sathi:** trikuspidal klapan sathi. Bu yerda tana holati o’zgarsa ham bosim 1–2 mm Hg dan ortiq o’zgarmaydi, chunki yurak shu nuqtadagi bosimni teskari aloqa orqali boshqaradi. Chalqancha yotganda bu nuqta ko’krak qalinligining ~60% ida, orqadan oldinga qarab.",
+      "text": "**Nol sathi:** trikuspidal klapan sathi. Bu yerda tana holati özgarsa ham bosim 1–2 mm Hg dan ortiq özgarmaydi, çunki yurak şu nuqtadagi bosimni teskari aloqa orqali boşqaradi. Çalqança yotganda bu nuqta kökrak qalinligining ~60% ida, orqadan oldinga qarab.",
       "depth": 0
      }
     ],
@@ -611,7 +611,7 @@
       "depth": 0
      },
      {
-      "text": "Qon yo’qotilganda baroreflekslar (18-bob) simpatik nervlar orqali venalarni toraytiradi. Natijada qonning 20% i yo’qolganda ham qon aylanishi deyarli normal davom etadi.",
+      "text": "Qon yöqotilganda baroreflekslar (18-bob) simpatik nervlar orqali venalarni toraytiradi. Natijada qonning 20% i yöqolganda ham qon aylanişi deyarli normal davom etadi.",
       "depth": 0
      },
      {
@@ -619,19 +619,19 @@
       "depth": 0
      },
      {
-      "text": "Taloq: ~100 ml gacha.",
+      "text": "Taloq: ~100 ml gaça.",
       "depth": 1
      },
      {
-      "text": "Jigar sinuslari: bir necha yuz ml.",
+      "text": "Jigar sinuslari: bir neça yuz ml.",
       "depth": 1
      },
      {
-      "text": "Qorin bo’shlig’ining katta venalari: ~300 ml.",
+      "text": "Qorin böşliğining katta venalari: ~300 ml.",
       "depth": 1
      },
      {
-      "text": "Teri osti venoz chigali: bir necha yuz ml.",
+      "text": "Teri osti venoz çigali: bir neça yuz ml.",
       "depth": 1
      },
      {
@@ -639,7 +639,7 @@
       "depth": 1
      },
      {
-      "text": "O’pka: 100–200 ml.",
+      "text": "Öpka: 100–200 ml.",
       "depth": 1
      }
     ],
@@ -665,23 +665,23 @@
       "depth": 1
      },
      {
-      "text": "Qizil pulpada eritrotsitlar trabekulalarda ushlanib qoladi, plazma esa o’tib ketadi.",
+      "text": "Qizil pulpada eritrotsitlar trabekulalarda uşlanib qoladi, plazma esa ötib ketadi.",
       "depth": 1
      },
      {
-      "text": "Simpatik qo’zg’alishda taloq qisqarib, ~50 ml konsentrlangan eritrotsit chiqaradi. Bu gematokritni 1–2% oshiradi.",
+      "text": "Simpatik qözğalişda taloq qisqarib, ~50 ml konsentrlangan eritrotsit çiqaradi. Bu gematokritni 1–2% oşiradi.",
       "depth": 1
      },
      {
-      "text": "**Oq pulpa:** limfoid hujayralar ishlab chiqariladi (immunitet, 35-bob).",
+      "text": "**Oq pulpa:** limfoid hujayralar işlab çiqariladi (immunitet, 35-bob).",
       "depth": 0
      },
      {
-      "text": "**Tozalash vazifasi:** retikuloendotelial hujayralar bakteriya, parazit va qoldiqlarni yutadi. Surunkali infeksiyalarda taloq kattalashadi.",
+      "text": "**Tozalaş vazifasi:** retikuloendotelial hujayralar bakteriya, parazit va qoldiqlarni yutadi. Surunkali infeksiyalarda taloq kattalaşadi.",
       "depth": 0
      },
      {
-      "text": "Pulpadan o’tishda mo’rt eski eritrotsitlar yoriladi. Gemoglobin va hujayra qoldiqlari hazm qilinib, qayta ishlatiladi (32–33-boblar).",
+      "text": "Pulpadan ötişda mört eski eritrotsitlar yoriladi. Gemoglobin va hujayra qoldiqlari hazm qilinib, qayta işlatiladi (32–33-boblar).",
       "depth": 1
      }
     ],
@@ -690,7 +690,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Bog’liqlik",
+    "text": "Boğliqlik",
     "id": "ch15-s-22-bogliqlik",
     "bid": "ch15-u22"
    },
@@ -707,7 +707,7 @@
       "depth": 0
      },
      {
-      "text": "**16-bob:** kapillyar bosimi va shish.",
+      "text": "**16-bob:** kapillyar bosimi va şiş.",
       "depth": 0
      },
      {
@@ -715,15 +715,15 @@
       "depth": 0
      },
      {
-      "text": "**19-bob:** yosh bilan bosim o’zgarishi.",
+      "text": "**19-bob:** yoş bilan bosim özgarişi.",
       "depth": 0
      },
      {
-      "text": "**20-bob:** o’ng bo’lmacha bosimi va yurak chiqarishi.",
+      "text": "**20-bob:** öng bölmaça bosimi va yurak çiqarişi.",
       "depth": 0
      },
      {
-      "text": "**25-bob:** shish.",
+      "text": "**25-bob:** şiş.",
       "depth": 0
      },
      {
@@ -745,27 +745,27 @@
     "ordered": false,
     "items": [
      {
-      "text": "Keksalarda puls bosimining kengayishi arterial qattiqlik belgisi.",
+      "text": "Keksalarda puls bosimining kengayişi arterial qattiqlik belgisi.",
       "depth": 0
      },
      {
-      "text": "Diastolik bosimi juda past va puls bosimi keng bo’lsa, aorta regurgitatsiyasi yoki ochiq arterial yo’lni o’ylash kerak.",
+      "text": "Diastolik bosimi juda past va puls bosimi keng bölsa, aorta regurgitatsiyasi yoki oçiq arterial yölni öylaş kerak.",
       "depth": 0
      },
      {
-      "text": "Bo’yin venalarining bo’rtishi o’ng bo’lmacha bosimi oshganini bildiradi.",
+      "text": "Böyin venalarining börtişi öng bölmaça bosimi oşganini bildiradi.",
       "depth": 0
      },
      {
-      "text": "Uzoq qimirlamay turish ortostatik hushdan ketishga olib kelishi mumkin.",
+      "text": "Uzoq qimirlamay turiş ortostatik huşdan ketişga olib kelişi mumkin.",
       "depth": 0
      },
      {
-      "text": "Varikoz venalarda oyoqni ko’tarish va kompressiya qo’llanadi.",
+      "text": "Varikoz venalarda oyoqni kötariş va kompressiya qöllanadi.",
       "depth": 0
      },
      {
-      "text": "Bosh operatsiyalarida havo emboliyasi xavfi bor.",
+      "text": "Boş operatsiyalarida havo emboliyasi xavfi bor.",
       "depth": 0
      }
     ],
@@ -1439,9 +1439,9 @@
  "glossary": [
   {
    "id": "ch15-t-choziluvchanlik-distensibility",
-   "termUz": "Cho’ziluvchanlik (distensibility)",
+   "termUz": "Çöziluvçanlik (distensibility)",
    "original": null,
-   "contextUz": "Cho’ziluvchanlik (distensibility) hajm o’zgarishini bosim o’zgarishi va boshlang’ich hajm ko’paytmasiga bo’lish bilan topiladi: ΔV / (ΔP × V₀).",
+   "contextUz": "Çöziluvçanlik (distensibility) hajm özgarişini bosim özgarişi va boşlanğiç hajm köpaytmasiga böliş bilan topiladi: ΔV / (ΔP × V₀).",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1451,7 +1451,7 @@
    "id": "ch15-t-8-marta",
    "termUz": "~8 marta",
    "original": null,
-   "contextUz": "Venalar arteriyalardan ~8 marta cho’ziluvchanroq.",
+   "contextUz": "Venalar arteriyalardan ~8 marta çöziluvçanroq.",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1459,9 +1459,9 @@
   },
   {
    "id": "ch15-t-komplayens-sigim-capacitance",
-   "termUz": "Komplayens (sig’im, capacitance)",
+   "termUz": "Komplayens (siğim, capacitance)",
    "original": null,
-   "contextUz": "Komplayens (sig’im, capacitance) = ΔV/ΔP = cho’ziluvchanlik × hajm.",
+   "contextUz": "Komplayens (siğim, capacitance) = ΔV/ΔP = çöziluvçanlik × hajm.",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1471,7 +1471,7 @@
    "id": "ch15-t-24-marta",
    "termUz": "~24 marta",
    "original": null,
-   "contextUz": "Katta doira venasining komplayensi tegishli arteriyanikidan ~24 marta katta, chunki u 8 marta cho’ziluvchanroq va hajmi 3 marta katta.",
+   "contextUz": "Katta doira venasining komplayensi tegişli arteriyanikidan ~24 marta katta, çunki u 8 marta çöziluvçanroq va hajmi 3 marta katta.",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1481,7 +1481,7 @@
    "id": "ch15-t-arterial-tizim",
    "termUz": "Arterial tizim",
    "original": null,
-   "contextUz": "Arterial tizim: 700 ml qon bilan to’lganda o’rtacha bosim 100 mm Hg, 400 ml da esa 0.",
+   "contextUz": "Arterial tizim: 700 ml qon bilan tölganda örtaça bosim 100 mm Hg, 400 ml da esa 0.",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1499,9 +1499,9 @@
   },
   {
    "id": "ch15-t-simpatik-qozgalish",
-   "termUz": "Simpatik qo’zg’alish",
+   "termUz": "Simpatik qözğaliş",
    "original": null,
-   "contextUz": "Simpatik qo’zg’alish silliq mushak tonusini oshiradi: har bir hajmda bosim ko’tariladi.",
+   "contextUz": "Simpatik qözğaliş silliq muşak tonusini oşiradi: har bir hajmda bosim kötariladi.",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1511,7 +1511,7 @@
    "id": "ch15-t-25",
    "termUz": "~25%",
    "original": null,
-   "contextUz": "U tufayli umumiy qon hajmining ~25% gacha yo’qolganda ham qon aylanishi deyarli normal ishlaydi.",
+   "contextUz": "U tufayli umumiy qon hajmining ~25% gaça yöqolganda ham qon aylanişi deyarli normal işlaydi.",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1519,9 +1519,9 @@
   },
   {
    "id": "ch15-t-kechiktirilgan-komplayens-stress-relaxation",
-   "termUz": "Kechiktirilgan komplayens (stress-relaxation)",
+   "termUz": "Keçiktirilgan komplayens (stress-relaxation)",
    "original": null,
-   "contextUz": "Kechiktirilgan komplayens (stress-relaxation): venaga qon kiritilganda bosim avval keskin ko’tariladi (5 dan 12 mm Hg gacha).",
+   "contextUz": "Keçiktirilgan komplayens (stress-relaxation): venaga qon kiritilganda bosim avval keskin kötariladi (5 dan 12 mm Hg gaça).",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1541,7 +1541,7 @@
    "id": "ch15-t-puls-bosimi-zarba-hajmi-arterial-komplayens",
    "termUz": "Puls bosimi ≈ zarba hajmi / arterial komplayens.",
    "original": null,
-   "contextUz": "Puls bosimi ≈ zarba hajmi / arterial komplayens. Uchinchi, kamroq ahamiyatli omil haydash xarakteri.",
+   "contextUz": "Puls bosimi ≈ zarba hajmi / arterial komplayens. Uçinçi, kamroq ahamiyatli omil haydaş xarakteri.",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1549,9 +1549,9 @@
   },
   {
    "id": "ch15-t-gayritabiiy-puls-shakllari",
-   "termUz": "G’ayritabiiy puls shakllari",
+   "termUz": "Ğayritabiiy puls şakllari",
    "original": null,
-   "contextUz": "G’ayritabiiy puls shakllari: Aorta stenozi: puls kichik.",
+   "contextUz": "Ğayritabiiy puls şakllari: Aorta stenozi: puls kiçik.",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1561,7 +1561,7 @@
    "id": "ch15-t-aorta-stenozi",
    "termUz": "Aorta stenozi",
    "original": null,
-   "contextUz": "G’ayritabiiy puls shakllari: Aorta stenozi: puls kichik.",
+   "contextUz": "Ğayritabiiy puls şakllari: Aorta stenozi: puls kiçik.",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1569,9 +1569,9 @@
   },
   {
    "id": "ch15-t-ochiq-arterial-botallo-yoli",
-   "termUz": "Ochiq arterial (Botallo) yo’li",
+   "termUz": "Oçiq arterial (Botallo) yöli",
    "original": null,
-   "contextUz": "Ochiq arterial (Botallo) yo’li: chiqarilgan qonning ≥50% o’pka arteriyasiga qaytadi.",
+   "contextUz": "Oçiq arterial (Botallo) yöli: çiqarilgan qonning ≥50% öpka arteriyasiga qaytadi.",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1581,7 +1581,7 @@
    "id": "ch15-t-aorta-regurgitatsiyasi",
    "termUz": "Aorta regurgitatsiyasi",
    "original": null,
-   "contextUz": "Aorta regurgitatsiyasi: qon qorinchaga qaytadi.",
+   "contextUz": "Aorta regurgitatsiyasi: qon qorinçaga qaytadi.",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1589,9 +1589,9 @@
   },
   {
    "id": "ch15-t-sonish-damping",
-   "termUz": "So’nish (damping)",
+   "termUz": "Söniş (damping)",
    "original": null,
-   "contextUz": "So’nish (damping): puls kichik arteriyalar, arteriolalar va ayniqsa kapillyarlarda yo’qoladi.",
+   "contextUz": "Söniş (damping): puls kiçik arteriyalar, arteriolalar va ayniqsa kapillyarlarda yöqoladi.",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1599,9 +1599,9 @@
   },
   {
    "id": "ch15-t-qarshilik-komplayens",
-   "termUz": "qarshilik × komplayens",
+   "termUz": "qarşilik × komplayens",
    "original": null,
-   "contextUz": "So’nish darajasi qarshilik × komplayens ga deyarli proporsional.",
+   "contextUz": "Söniş darajasi qarşilik × komplayens ga deyarli proporsional.",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1611,7 +1611,7 @@
    "id": "ch15-t-auskultativ-usul",
    "termUz": "Auskultativ usul",
    "original": "manjet va stetoskop, Korotkov tovushlari",
-   "contextUz": "Auskultativ usul (manjet va stetoskop, Korotkov tovushlari): Tovushlar qisman siqilgan arteriyadan qon otilib chiqishi, turbulentlik va devor tebranishidan hosil bo’ladi.",
+   "contextUz": "Auskultativ usul (manjet va stetoskop, Korotkov tovuşlari): Tovuşlar qisman siqilgan arteriyadan qon otilib çiqişi, turbulentlik va devor tebranişidan hosil böladi.",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1621,7 +1621,7 @@
    "id": "ch15-t-avtomatik-ostsillometrik-usul",
    "termUz": "Avtomatik ostsillometrik usul",
    "original": null,
-   "contextUz": "Avtomatik ostsillometrik usul: Manjet bosimining tebranishlari elektron datchik bilan sezib olinadi.",
+   "contextUz": "Avtomatik ostsillometrik usul: Manjet bosimining tebranişlari elektron datçik bilan sezib olinadi.",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1629,9 +1629,9 @@
   },
   {
    "id": "ch15-t-yosh-bilan",
-   "termUz": "Yosh bilan",
+   "termUz": "Yoş bilan",
    "original": null,
-   "contextUz": "Yosh bilan: bosim asta-sekin ko’tariladi, asosan buyrak nazorati o’zgarishi sababli (19-bob, 50 yoshdan keyin).",
+   "contextUz": "Yoş bilan: bosim asta-sekin kötariladi, asosan buyrak nazorati özgarişi sababli (19-bob, 50 yoşdan keyin).",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1639,9 +1639,9 @@
   },
   {
    "id": "ch15-t-ortacha-arterial-bosim",
-   "termUz": "O’rtacha arterial bosim",
+   "termUz": "Örtaça arterial bosim",
    "original": null,
-   "contextUz": "O’rtacha arterial bosim: taxminan 60% diastolik + 40% sistolik, chunki sikl ko’proq diastolada o’tadi.",
+   "contextUz": "Örtaça arterial bosim: taxminan 60% diastolik + 40% sistolik, çunki sikl köproq diastolada ötadi.",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1651,7 +1651,7 @@
    "id": "ch15-t-60-diastolik-40-sistolik",
    "termUz": "60% diastolik + 40% sistolik",
    "original": null,
-   "contextUz": "O’rtacha arterial bosim: taxminan 60% diastolik + 40% sistolik, chunki sikl ko’proq diastolada o’tadi.",
+   "contextUz": "Örtaça arterial bosim: taxminan 60% diastolik + 40% sistolik, çunki sikl köproq diastolada ötadi.",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1659,9 +1659,9 @@
   },
   {
    "id": "ch15-t-markaziy-venoz-bosim-ong-bolmacha",
-   "termUz": "Markaziy venoz bosim (o’ng bo’lmacha)",
+   "termUz": "Markaziy venoz bosim (öng bölmaça)",
    "original": null,
-   "contextUz": "Markaziy venoz bosim (o’ng bo’lmacha) ~0 mm Hg, ya’ni atmosfera bosimiga teng.",
+   "contextUz": "Markaziy venoz bosim (öng bölmaça) ~0 mm Hg, ya’ni atmosfera bosimiga teng.",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1669,9 +1669,9 @@
   },
   {
    "id": "ch15-t-venoz-qarshilik",
-   "termUz": "Venoz qarshilik",
+   "termUz": "Venoz qarşilik",
    "original": null,
-   "contextUz": "Venoz qarshilik: kengaygan katta venalarda deyarli nol.",
+   "contextUz": "Venoz qarşilik: kengaygan katta venalarda deyarli nol.",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1679,9 +1679,9 @@
   },
   {
    "id": "ch15-t-qorin-ichi-bosimi",
-   "termUz": "Qorin ichi bosimi",
+   "termUz": "Qorin içi bosimi",
    "original": null,
-   "contextUz": "Qorin ichi bosimi odatda ~+6 mm Hg.",
+   "contextUz": "Qorin içi bosimi odatda ~+6 mm Hg.",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1691,7 +1691,7 @@
    "id": "ch15-t-tik-turgan-odamda",
    "termUz": "Tik turgan odamda",
    "original": null,
-   "contextUz": "Tik turgan odamda: o’ng bo’lmacha ~0, oyoq venalari ~+90 mm Hg.",
+   "contextUz": "Tik turgan odamda: öng bölmaça ~0, oyoq venalari ~+90 mm Hg.",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1701,7 +1701,7 @@
    "id": "ch15-t-arteriyalarda",
    "termUz": "Arteriyalarda",
    "original": null,
-   "contextUz": "Arteriyalarda: yurak sathida 100 mm Hg bo’lsa, tik turgan odamning oyog’ida ~190 mm Hg.",
+   "contextUz": "Arteriyalarda: yurak sathida 100 mm Hg bölsa, tik turgan odamning oyoğida ~190 mm Hg.",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1709,9 +1709,9 @@
   },
   {
    "id": "ch15-t-venoz-klapanlar-va-mushak-nasosi",
-   "termUz": "Venoz klapanlar va \"mushak nasosi\"",
+   "termUz": "Venoz klapanlar va “muşak nasosi”",
    "original": null,
-   "contextUz": "Venoz klapanlar va \"mushak nasosi\": yurganda oyoq venalaridagi bosim <+20 mm Hg atrofida saqlanadi.",
+   "contextUz": "Venoz klapanlar va “muşak nasosi”: yurganda oyoq venalaridagi bosim <+20 mm Hg atrofida saqlanadi.",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1721,7 +1721,7 @@
    "id": "ch15-t-20-mm-hg",
    "termUz": "<+20 mm Hg",
    "original": null,
-   "contextUz": "Venoz klapanlar va \"mushak nasosi\": yurganda oyoq venalaridagi bosim <+20 mm Hg atrofida saqlanadi.",
+   "contextUz": "Venoz klapanlar va “muşak nasosi”: yurganda oyoq venalaridagi bosim <+20 mm Hg atrofida saqlanadi.",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1731,7 +1731,7 @@
    "id": "ch15-t-10-20",
    "termUz": "10–20%",
    "original": null,
-   "contextUz": "15–30 daqiqada qon hajmining 10–20% i yo’qolishi va hushdan ketish mumkin (masalan, saf tortib turgan askar).",
+   "contextUz": "15–30 daqiqada qon hajmining 10–20% i yöqolişi va huşdan ketiş mumkin (masalan, saf tortib turgan askar).",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1741,7 +1741,7 @@
    "id": "ch15-t-varikoz-venalar",
    "termUz": "Varikoz venalar",
    "original": null,
-   "contextUz": "Varikoz venalar: venalar uzoq vaqt (homiladorlik, uzoq tik turish) cho’zilganda klapan tavaqalari yopilmay qoladi.",
+   "contextUz": "Varikoz venalar: venalar uzoq vaqt (homiladorlik, uzoq tik turiş) çözilganda klapan tavaqalari yopilmay qoladi.",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1749,9 +1749,9 @@
   },
   {
    "id": "ch15-t-klinik-korik",
-   "termUz": "Klinik ko’rik",
+   "termUz": "Klinik körik",
    "original": null,
-   "contextUz": "Klinik ko’rik: o’tirgan sog’lom odamda bo’yin venalari bo’rtmaydi.",
+   "contextUz": "Klinik körik: ötirgan soğlom odamda böyin venalari börtmaydi.",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1759,9 +1759,9 @@
   },
   {
    "id": "ch15-t-aniq-olchash",
-   "termUz": "Aniq o’lchash",
+   "termUz": "Aniq ölçaş",
    "original": null,
-   "contextUz": "Aniq o’lchash: markaziy venoz kateter orqali.",
+   "contextUz": "Aniq ölçaş: markaziy venoz kateter orqali.",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1781,7 +1781,7 @@
    "id": "ch15-t-maxsus-zahiralar",
    "termUz": "Maxsus zahiralar",
    "original": null,
-   "contextUz": "Maxsus zahiralar: Taloq: ~100 ml gacha.",
+   "contextUz": "Maxsus zahiralar: Taloq: ~100 ml gaça.",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1801,7 +1801,7 @@
    "id": "ch15-t-oq-pulpa",
    "termUz": "Oq pulpa",
    "original": null,
-   "contextUz": "Oq pulpa: limfoid hujayralar ishlab chiqariladi (immunitet, 35-bob).",
+   "contextUz": "Oq pulpa: limfoid hujayralar işlab çiqariladi (immunitet, 35-bob).",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",
@@ -1809,9 +1809,9 @@
   },
   {
    "id": "ch15-t-tozalash-vazifasi",
-   "termUz": "Tozalash vazifasi",
+   "termUz": "Tozalaş vazifasi",
    "original": null,
-   "contextUz": "Tozalash vazifasi: retikuloendotelial hujayralar bakteriya, parazit va qoldiqlarni yutadi.",
+   "contextUz": "Tozalaş vazifasi: retikuloendotelial hujayralar bakteriya, parazit va qoldiqlarni yutadi.",
    "lessonId": "ch15",
    "topicId": "04",
    "source": "summaryUz",

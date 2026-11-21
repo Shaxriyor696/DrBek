@@ -23,13 +23,27 @@ for (const t of topics) for (const s of t.sections) {
   }
 }
 const tdir = path.join(C, 'translations'); let trFull = 0;
-if (fs.existsSync(tdir)) for (const f of fs.readdirSync(tdir).filter((x) => x.endsWith('.uz.json'))) {
-  const tr = JSON.parse(fs.readFileSync(path.join(tdir, f), 'utf8'));
-  const l = JSON.parse(fs.readFileSync(path.join(C, 'lessons', `${tr.lessonId}.json`), 'utf8'));
-  const bids = new Set(l.blocks.full.map((b) => b.bid));
-  for (const k of Object.keys(tr.blocks)) if (!bids.has(k)) errors.push(`${f}: unknown block ${k}`);
-  if (tr.coverage.translated === tr.coverage.total) trFull++;
+const translationGaps = [];
+for (const topic of topics) for (const { id } of topic.sections) {
+  const lessonFile = path.join(C, 'lessons', `${id}.json`);
+  if (!fs.existsSync(lessonFile)) continue;
+  const lesson = JSON.parse(fs.readFileSync(lessonFile, 'utf8'));
+  const file = path.join(tdir, `${id}.uz.json`);
+  const tr = fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, 'utf8')) : null;
+  const blocks = lesson.blocks.full.filter((b) => ['paragraph', 'heading'].includes(b.type));
+  const bids = new Set(blocks.map((b) => b.bid));
+  const figures = new Set(lesson.figureIds.filter((fid) => man.get(fid)?.originalCaption));
+  const missing = blocks.filter((b) => b.text.trim() ? !tr?.blocks?.[b.bid]?.text?.trim() : !tr?.blocks?.[b.bid]?.lead?.trim()).length
+    + [...figures].filter((fid) => !tr?.figures?.[fid]?.trim()).length;
+  const total = bids.size + figures.size;
+  if (missing) translationGaps.push(`${id}: ${total - missing}/${total}`);
+  else trFull++;
+  if (!tr) continue;
+  for (const bid of Object.keys(tr.blocks)) if (!bids.has(bid)) errors.push(`${id}: unknown block ${bid}`);
+  for (const fid of Object.keys(tr.figures)) if (!figures.has(fid)) errors.push(`${id}: unknown caption ${fid}`);
+  if (tr.coverage.total !== total || tr.coverage.translated !== total - missing) errors.push(`${id}: translation coverage does not match content`);
 }
+if (process.argv.includes('--require-full-uz')) errors.push(...translationGaps.map((gap) => `Incomplete Uzbek translation: ${gap}`));
 const qdir = path.join(C, 'questions'); let qn = 0;
 if (fs.existsSync(qdir)) for (const f of fs.readdirSync(qdir).filter((x) => x.endsWith('.json'))) {
   for (const q of JSON.parse(fs.readFileSync(path.join(qdir, f), 'utf8')).questions) {

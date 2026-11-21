@@ -1,0 +1,546 @@
+# ch05 — Membrane Potentials and Action Potentials (EN manba). Har bir "@@" blokini o‘zbekchaga tarjima qiling; id va LEAD: qatorlarini saqlang.
+
+@@ ch05-f0
+# kind: paragraph
+Electrical potentials exist across the membranes of virtu ally all cells of the body. Some cells, such as nerve and muscle cells, generate rapidly changing electrochemical impulses at their membranes, and these impulses are used to transmit signals along the nerve or muscle membranes. In other types of cells, such as glandular cells, macro phages, and ciliated cells, local changes in membrane potentials also activate many of the cell’s functions. This chapter reviews the basic mechanisms whereby mem brane potentials are generated at rest and during action by nerve and muscle cells. See Video 5-1.
+
+@@ ch05-f1
+# kind: heading
+BASIC PHYSICS OF MEMBRANE POTENTIALS
+
+@@ ch05-f2
+# kind: heading
+Membrane Potentials Caused by Ion Concentration Differences Across a Selectively Permeable Membrane
+
+@@ ch05-f3
+# kind: paragraph
+In **Figure 5-1A,** the potassium concentration is great _inside_ a nerve fiber membrane but very low _outside_ the membrane. Let us assume that the membrane in this case is permeable to the potassium ions but not to any other ions. Because of the large potassium concentration gradi ent from the inside toward the outside, there is a strong tendency for potassium ions to diffuse outward through the membrane. As they do so, they carry positive electri cal charges to the outside, thus creating electropositivity outside the membrane and electronegativity inside the membrane because of negative anions that remain behind and do not diffuse outward with the potassium. Within about 1 millisecond, the potential difference between the inside and outside, called the _diffusion potential,_ becomes great enough to block further net potassium diffusion to the exterior, despite the high potassium ion concentra tion gradient. In the normal mammalian nerve fiber, _the potential difference is about 94 millivolts, with negativity inside the fiber membrane._
+
+@@ ch05-f5
+# kind: paragraph
+**Figure 5-1B** shows the same phenomenon as in **Fig ure 5-1A**, but this time with a high concentration of sodium ions _outside_ the membrane and a low concentra tion of sodium ions _inside_. These ions are also positively charged. This time, the membrane is highly permeable to the sodium ions but is impermeable to all other ions. Dif fusion of the positively charged sodium ions to the inside creates a membrane potential of opposite polarity to that in **Figure 5-1**_A_, with negativity outside and positivity inside. Again, the membrane potential rises high enough within milliseconds to block further net diffusion of sodium ions to the inside; however, this time, in the mam malian nerve fiber, _the potential is about 61 millivolts posi tive inside the fiber._
+
+@@ ch05-f6
+# kind: paragraph
+Thus, in both parts of **Figure 5-1**, we see that a con centration difference of ions across a selectively perme able membrane can, under appropriate conditions, create a membrane potential. Later in this chapter, we show that many of the rapid changes in membrane potentials observed during nerve and muscle impulse transmission result from such rapidly changing diffusion potentials.
+
+@@ ch05-f7
+# kind: paragraph
+LEAD: The Nernst Equation Describes the Relationship of Diffusion Potential to the Ion Concentration Difference Across a Membrane.
+The diffusion potential across a membrane that exactly opposes the net diffusion of a par ticular ion through the membrane is called the _Nernst po tential_ for that ion, a term that was introduced in Chapter 4. The magnitude of the Nernst potential is determined by the _ratio_ of the concentrations of that specific ion on the two sides of the membrane. The greater this ratio, the greater the tendency for the ion to diffuse in one direction and therefore the greater the Nernst potential required to prevent additional net diffusion. The following equation, called the _Nernst equation,_ can be used to calculate the Nernst potential for any univalent ion at the normal body temperature of 98.6°F (37°C):
+
+@@ ch05-f8
+# kind: paragraph
+where EMF is the electromotive force and z is the electri cal charge of the ion (e.g., +1 for K+).
+
+@@ ch05-f9
+# kind: paragraph
+When using this formula, it is usually assumed that the potential in the extracellular fluid outside the mem brane remains at zero potential, and the Nernst potential is the potential inside the membrane. Also, the sign of the potential is positive (+) if the ion diffusing from inside to outside is a negative ion, and it is negative (−) if the ion is positive. Thus, when the concentration of positive potas sium ions on the inside is 10 times that on the outside, the log of 10 is 1, so the Nernst potential calculates to be −61 millivolts inside the membrane.
+
+@@ ch05-f10
+# kind: paragraph
+LEAD: The Goldman Equation Is Used to Calculate the Diffusion Potential When the Membrane Is Permeable to Several Different Ions.
+When a membrane is per meable to several different ions, the diffusion potential that develops depends on three factors: (1) the polarity of the electrical charge of each ion; (2) the permeability of the membrane (P) to each ion; and (3) the concentra tion (C) of the respective ions on the inside (i) and out side (o) of the membrane. Thus, the following formula, called the _Goldman equation_ or the _Goldman-HodgkinKatz equation,_ gives the calculated membrane potential on the _inside_ of the membrane when two univalent pos itive ions, sodium (Na+) and potassium (K+), and one univalent negative ion, chloride (Cl−), are involved:
+
+@@ ch05-f11
+# kind: paragraph
+Several key points become evident from the Goldman equation. First, sodium, potassium, and chloride ions are the most important ions involved in the development of membrane potentials in nerve and muscle fibers, as well as in the neuronal cells. The concentration gradient of each of these ions across the membrane helps determine the voltage of the membrane potential.
+
+@@ ch05-f12
+# kind: paragraph
+Second, the quantitative importance of each of the ions in determining the voltage is proportional to the membrane permeability for that particular ion. If the membrane has zero permeability to sodium and chloride ions, the mem brane potential becomes entirely dominated by the concen tration gradient of potassium ions alone, and the resulting potential will be equal to the Nernst potential for potassium. The same holds true for each of the other two ions if the membrane should become selectively permeable for either one of them alone.
+
+@@ ch05-f13
+# kind: paragraph
+Third, a positive ion concentration gradient from _inside_ the membrane to the _outside_ causes electronegativity inside the membrane. The reason for this phenomenon is that excess positive ions diffuse to the outside when their concentration is higher inside than outside the membrane. This diffusion carries positive charges to the outside but leaves the nondiffusible negative anions on the inside, thus creating electronegativity on the inside. The opposite effect occurs when there is a gradient for a negative ion. That is, a chloride ion gradient from the outside to the inside causes negativity inside the cell because excess negatively charged chloride ions diffuse to the inside while leaving the nondiffusible positive ions on the outside.
+
+@@ ch05-f14
+# kind: paragraph
+Fourth, as explained later, the permeability of the sodium and potassium channels undergoes rapid changes during transmission of a nerve impulse, whereas the permeability of the chloride channels does not change greatly during this process. Therefore, rapid changes in sodium and potassium permeability are pri marily responsible for signal transmission in neurons, which is the subject of most of the remainder of this chapter.
+
+@@ ch05-f15
+# kind: boxed
+LEAD: Resting Membrane Potential of Different Cell Types.
+In some cells, such as the cardiac pacemaker cells discussed in Chapter 10, the membrane potential is continuously changing, and the cells are never “resting”. In many other cells, even excitable cells, there is a quiescent period in which a resting membrane potential can be measured. **Table 5-1** shows the approximate resting membrane potentials of some different types of cells. The membrane potential is obviously very dynamic in excitable cells such as neurons, in which action potentials occur. However, even in nonexcitable cells, the membrane potential (voltage) also changes in response to various stimuli, which alter activities for the various ion transporters, ion channels, and membrane permeability for sodium, potassium, calcium, and chloride ions. The resting membrane potential is, therefore, only a brief transient state for many cells.
+
+@@ ch05-f17
+# kind: boxed
+LEAD: Electrochemical Driving Force.
+When multiple ions contribute to the membrane potential, the equilibrium potential for any of the contributing ions will differ from the membrane potential, and there will be an _electrochemi cal driving force_ (Vdf) for each ion that tends to cause net movement of the ion across the membrane. This driving force is equal to the difference between the membrane po tential (Vm) and the equilibrium potential of the ion (Veq) Thus, Vdf = Vm – Veq.
+
+@@ ch05-f18
+# kind: boxed
+The arithmetic sign of Vdf (positive or negative) and the valence of the ion (cation or anion) can be used to predict the direction of ion flow across the membrane, into or out of the cell. For cations such as Na+ and K+, a positive Vdf predicts ion movement out of the cell down its electro chemical gradient, and a negative Vdf predicts ion move ment into the cell. For anions, such as Cl−, a positive Vdf predicts ion movement into the cell, and a negative Vdf pre dicts ion movement out of the cell. When Vm = Veq, there is no net movement of the ion into or out of the cell. Also, the direction of ion flux through the membrane reverses as Vm becomes greater than or less than Veq; hence, the equi librium potential (Veq) is also called the _reversal potential_.
+
+@@ ch05-f19
+# kind: heading
+Measuring the Membrane Potential
+
+@@ ch05-f20
+# kind: paragraph
+The method for measuring the membrane potential is simple in theory but often difficult in practice because of the small size of most of the cells and fibers. **Figure 5-2** shows a small micropipette filled with an electrolyte solu tion. The micropipette is impaled through the cell mem brane to the interior of the fiber. Another electrode, called the _indifferent electrode,_ is then placed in the extracellu lar fluid, and the potential difference between the inside and outside of the fiber is measured using an appropriate voltmeter. This voltmeter is a highly sophisticated elec tronic apparatus that is capable of measuring small volt ages despite extremely high resistance to electrical flow through the tip of the micropipette, which has a lumen diameter usually less than 1 micrometer and a resistance of more than 1 million ohms. For recording rapid _changes_ in the membrane potential during transmission of nerve impulses, the microelectrode is connected to an oscillo scope, as explained later in the chapter.
+
+@@ ch05-f22
+# kind: paragraph
+The lower part of **Figure 5-3** shows the electrical potential that is measured at each point in or near the nerve fiber membrane, beginning at the left side of the figure and passing to the right. As long as the electrode is outside the neuronal membrane, the recorded potential is zero, which is the potential of the extracellular fluid. Then, as the recording electrode passes through the volt age change area at the cell membrane (called the _electrical dipole layer_), the potential decreases abruptly to −70 mil livolts. Moving across the center of the fiber, the potential remains at a steady −70-millivolt level but reverses back to zero the instant it passes through the membrane on the opposite side of the fiber.
+
+@@ ch05-f24
+# kind: paragraph
+To create a negative potential inside the membrane, only enough positive ions to develop the electrical dipole layer at the membrane itself must be trans ported outward. The remaining ions inside the nerve fiber can be both positive and negative, as shown in the upper panel of **Figure 5-3**. Therefore, transfer of an incredibly small number of ions through the mem brane can establish the normal resting potential of −70 millivolts inside the nerve fiber, which means that only about 1/3,000,000 to 1/100,000,000 of the total posi tive charges inside the fiber must be transferred. Also, an equally small number of positive ions moving from outside to inside the fiber can reverse the potential from −70 millivolts to as much as +35 millivolts within as little as 1/10,000 of a second. Rapid shifting of ions in this manner causes the nerve signals discussed in sub sequent sections of this chapter.
+
+@@ ch05-f25
+# kind: heading
+RESTING MEMBRANE POTENTIAL OF NEURONS
+
+@@ ch05-f26
+# kind: paragraph
+The resting membrane potential of large nerve fibers when they are not transmitting nerve signals is about −70 mil livolts. That is, the potential _inside the fiber_ is 70 millivolts more negative than the potential in the extracellular fluid on the outside of the fiber. In the next few paragraphs, the transport properties of the resting nerve membrane for sodium and potassium and the factors that determine the level of this resting potential are explained.
+
+@@ ch05-f27
+# kind: paragraph
+LEAD: Active Transport of Sodium and Potassium Ions Through the Membrane—the Sodium-Potassium (Na
++-K+) Pump. Recall from Chapter 4 that all cell mem branes of the body have a powerful Na+-K+ pump that continually transports sodium ions to the outside of the cell and potassium ions to the inside, as illustrated on the left side in **Figure 5-4**. Note that this is an _electrogenic pump_ because three Na+ ions are pumped to the outside for each two K+ ions to the inside, leaving a net deficit of positive ions on the inside and causing a negative poten tial inside the cell membrane.
+
+@@ ch05-f29
+# kind: paragraph
+The Na+-K+ pump also causes large concentration gra dients for sodium and potassium across the resting nerve membrane. These gradients are as follows:
+
+@@ ch05-f30
+# kind: paragraph
+The ratios of these two respective ions from the inside to the outside are as follows:
+
+@@ ch05-f31
+# kind: paragraph
+LEAD: Leakage of Potassium Through the Nerve Cell Membrane.
+The right side of **Figure 5-4** shows a channel pro tein (sometimes called a _tandem pore domain, potassium channel_, or _potassium_ [K+] _“leak” channel_) in the nerve membrane through which potassium ions can leak, even in a resting cell. The basic structure of potassium channels was described in Chapter 4 (**Figure 4-4**). These K+ leak channels may also leak sodium ions slightly but are far more permeable to potassium than to sodium, normally about 100 times as permeable. As discussed later, this dif ferential in permeability is a key factor in determining the level of the normal resting membrane potential.
+
+@@ ch05-f32
+# kind: heading
+Origin of the Normal Resting Membrane Potential
+
+@@ ch05-f33
+# kind: paragraph
+**Figure 5-5** shows the important factors in the establish ment of the normal resting membrane potential. They are as follows.
+
+@@ ch05-f35
+# kind: paragraph
+LEAD: Contribution of the Potassium Diffusion Potential.
+In **Figure 5-5A**, we assume that the only movement of ions through the membrane is diffusion of potassium ions, as demonstrated by the open channels between the potassium symbol (K+) inside and outside the mem brane. Because of the high ratio of potassium ions inside to outside, 35:1, the Nernst potential corresponding to this ratio is −94 millivolts because the logarithm of 35 is 1.54, and this, multiplied by −61 millivolts, is −94 mil livolts. Therefore, if potassium ions were the only factor causing the resting potential, the resting potential _inside the fiber_ would be equal to −94 millivolts, as shown in the figure.
+
+@@ ch05-f36
+# kind: paragraph
+LEAD: Contribution of Sodium Diffusion Through the Nerve Membrane.
+**Figure 5-5B** shows the addition of slight permeability of the nerve membrane to sodium ions, caused by the minute diffusion of sodium ions through the K+-Na+ leak channels. The ratio of sodium ions from inside to outside the membrane is 0.1, which gives a calculated Nernst potential for the inside of the membrane of +61 millivolts. Also shown in **Figure 5-5B** is the Nernst potential for potassium diffusion of −94 millivolts. How do these interact with each other, and what will be the summated potential? This question can be answered by using the Goldman equation described previously. Intuitively, one can see that if the membrane is highly permeable to potassium but only slightly per meable to sodium, the diffusion of potassium contributes far more to the membrane potential than the diffusion of sodium. In the normal nerve fiber, the permeability of the membrane to potassium is about 100 times as great as its permeability to sodium. Using this value in the Goldman equation, and considering only sodium and potassium, gives a potential inside the membrane of −86 millivolts, which is near the potassium potential shown in the figure.
+
+@@ ch05-f37
+# kind: paragraph
+LEAD: Contribution of the Na
++-K+ Pump. In **Figure 5-5C**, the Na+-K+ pump is shown to provide an additional contribu tion to the resting potential. This figure shows that con tinuous pumping of three sodium ions to the outside oc curs for each two potassium ions pumped to the inside of the membrane. The pumping of more sodium ions to the outside than the potassium ions being pumped to the in side causes a continual loss of positive charges from inside the membrane, creating an additional degree of negativity (about −4 millivolts additional) on the inside, beyond that which can be accounted for by diffusion alone.
+
+@@ ch05-f38
+# kind: paragraph
+Therefore, as shown in **Figure 5-5C**, the net mem brane potential when all these factors are operative at the same time is about −90 millivolts. However, additional ions, such as chloride, must also be considered in calcu lating the membrane potential.
+
+@@ ch05-f39
+# kind: paragraph
+In summary, the diffusion potentials alone caused by potassium and sodium diffusion would give a mem brane potential of about −86 millivolts, with almost all of this being determined by potassium diffusion. An addi tional −4 millivolts is then contributed to the membrane potential by the continuously acting electrogenic Na+- K+ pump, and there is a contribution of chloride ions. As mentioned previously, the resting membrane potential varies in different cells from as low as around −10 mil livolts in erythrocytes to as high as −90 millivolts in skel etal muscle cells.
+
+@@ ch05-f40
+# kind: heading
+NEURON ACTION POTENTIAL
+
+@@ ch05-f41
+# kind: paragraph
+Nerve signals are transmitted by _action potentials,_ which are rapid changes in the membrane potential that spread rapidly along the nerve fiber membrane. Each action poten tial begins with a sudden change from the normal resting negative membrane potential to a positive potential and ends with an almost equally rapid change back to the nega tive potential. To conduct a nerve signal, the action potential moves along the nerve fiber until it comes to the fiber’s end.
+
+@@ ch05-f42
+# kind: paragraph
+The upper panel of **Figure 5-6** shows the changes that occur at the membrane during the action potential, with the transfer of positive charges to the interior of the fiber at its onset and the return of positive charges to the exterior at its end. The lower panel shows graphically the successive changes in membrane potential over a few 10,000ths of a second, illustrating the explosive onset of the action potential and the almost equally rapid recovery.
+
+@@ ch05-f44
+# kind: paragraph
+The successive stages of the action potential are as follows.
+
+@@ ch05-f45
+# kind: paragraph
+LEAD: Resting Stage.
+The resting stage is the resting membrane potential before the action potential begins. The mem brane is said to be “polarized” during this stage because of the −70 millivolts negative membrane potential that is present.
+
+@@ ch05-f46
+# kind: paragraph
+LEAD: Depolarization Stage.
+At this time, the membrane sud denly becomes permeable to sodium ions, allowing rapid diffusion of positively charged sodium ions to the interior of the axon. The normal polarized state of −70 millivolts is immediately neutralized by the inflowing, positively charged sodium ions, with the potential rising rapidly in the positive direction—a process called _depolarization._ In large nerve fibers, the great excess of positive sodium ions moving to the inside causes the membrane poten tial to actually overshoot beyond the zero level and to be come somewhat positive. In some smaller fibers, as well as in many central nervous system neurons, the potential merely approaches the zero level and does not overshoot to the positive state.
+
+@@ ch05-f47
+# kind: paragraph
+LEAD: Repolarization Stage.
+Within a few 10,000ths of a sec ond after the membrane becomes highly permeable to sodium ions, the sodium channels begin to close, and the potassium channels open to a greater degree than normal. Then, rapid diffusion of potassium ions to the exterior reestablishes the normal negative resting membrane poten tial, which is called _repolarization_ of the membrane.
+
+@@ ch05-f48
+# kind: paragraph
+To explain more fully the factors that cause both depo larization and repolarization, we will describe the special characteristics of two other types of transport channels through the nerve membrane, the voltage-gated sodium and potassium channels.
+
+@@ ch05-f49
+# kind: heading
+VOLTAGE-GATED SODIUM AND POTASSIUM CHANNELS
+
+@@ ch05-f50
+# kind: paragraph
+The necessary factor in causing both depolarization and repolarization of the nerve membrane during the action potential is the _voltage-gated sodium channel._ A _voltagegated potassium channel_ also plays an important role in increasing the rapidity of repolarization of the membrane. _These two voltage-gated channels are in addition to the Na_+_-K_+ _pump and the K_+ _leak channels._
+
+@@ ch05-f51
+# kind: heading
+Activation and Inactivation of the Voltage-Gated Sodium Channel
+
+@@ ch05-f52
+# kind: paragraph
+The upper panel of **Figure 5-7** shows the voltage-gated sodium channel in three separate states. This channel has two _gates_—one near the outside of the channel called the _activation gate,_ and another near the inside called the _inactivation gate._ The upper left of the figure depicts the state of these two gates in the normal resting membrane when the membrane potential is −70 millivolts. In this state, the activation gate is closed, which prevents any entry of sodium ions to the interior of the fiber through these sodium channels.
+
+@@ ch05-f54
+# kind: paragraph
+LEAD: Activation of the Sodium Channel.
+When the mem brane potential becomes less negative than during the resting state, rising from −70 millivolts toward zero, it finally reaches a voltage—usually somewhere around −55 millivolts—that causes a sudden conformational change in the activation gate, flipping it all the way to the open position. During this _activated state,_ sodium ions can pour inward through the channel, increasing the sodium permeability of the membrane as much as 500- to 5000-fold.
+
+@@ ch05-f55
+# kind: paragraph
+LEAD: Inactivation of the Sodium Channel.
+The upper right panel of **Figure 5-7** shows a third state of the sodium channel. The same increase in voltage that opens the ac tivation gate also closes the inactivation gate. The inacti vation gate, however, closes a few 10,000ths of a second after the activation gate opens. That is, the conforma tional change that flips the inactivation gate to the closed state is a slower process than the conformational change that opens the activation gate. Therefore, after the sodi um channel has remained open for a few 10,000ths of a second, the inactivation gate closes, and sodium ions no longer can pour to the inside of the membrane. At this point, the membrane potential begins to return toward the resting membrane state, which is the repolarization process.
+
+@@ ch05-f56
+# kind: paragraph
+Another important characteristic of the sodium chan nel inactivation process is that the inactivation gate will not reopen until the membrane potential returns to or near the original resting membrane potential level. There fore, it is usually not possible for the sodium channels to open again without first repolarizing the nerve fiber.
+
+@@ ch05-f57
+# kind: heading
+Voltage-Gated Potassium Channel and Its Activation
+
+@@ ch05-f58
+# kind: paragraph
+The lower panel of **Figure 5-7** shows the voltage-gated potassium channel in two states—during the resting state
+
+@@ ch05-f59
+# kind: paragraph
+(left) and toward the end of the action potential (right). During the resting state, the gate of the potassium chan nel is closed, and potassium ions are prevented from passing through this channel to the exterior. When the membrane potential rises from −70 millivolts toward zero, this voltage change causes a conformational open ing of the gate and allows increased potassium diffusion outward through the channel. However, because of the slight delay in opening of the potassium channels, they open, for the most part, at about the same time that the sodium channels are beginning to close because of inac tivation. Thus, the decrease in sodium entry to the cell and the simultaneous increase in potassium exit from the cell combine to speed the repolarization process, leading to full recovery of the resting membrane potential within another few 10,000ths of a second.
+
+@@ ch05-f60
+# kind: boxed
+LEAD: of Voltage on Opening and Closing of Voltage-Gated Channels.
+The original research that led to quantitative understanding of the sodium and potassium channels was so ingenious that it led to Nobel Prizes for the scientists responsible, Hodgkin and Huxley, in 1963. The essence of these studies is shown in **Figures. 5-8 and 5-9**.
+
+@@ ch05-f61
+# kind: boxed
+**Figure 5-8** shows the _voltage clamp method,_ which is used to measure the flow of ions through the different channels. In using this apparatus, two electrodes are in serted into the nerve fiber. One of these electrodes is used to measure the voltage of the membrane potential, and the other is used to conduct electrical current into or out of the nerve fiber.
+
+@@ ch05-f63
+# kind: boxed
+This apparatus is used in the following way. The inves tigator decides which voltage to establish inside the nerve fiber. The electronic portion of the apparatus is then adjust ed to the desired voltage, automatically injecting either pos itive or negative electricity through the current electrode at whatever rate is required to hold the voltage, as measured by the voltage electrode, at the level set by the operator. When the membrane potential is suddenly increased by this voltage clamp from −70 millivolts to zero, the voltagegated sodium and potassium channels open, and sodium and potassium ions begin to pour through the channels. To counterbalance the effect of these ion movements on the desired setting of the intracellular voltage, electrical cur rent is injected automatically through the current electrode of the voltage clamp to maintain the intracellular voltage at the required steady zero level. To achieve this level, the current injected must be equal to but of opposite polarity to the net current flow through the membrane channels. To measure how much current flow is occurring at each instant, the current electrode is connected to an ampere meter that records the current flow, as demonstrated in **Figure 5-8**.
+
+@@ ch05-f64
+# kind: boxed
+Finally, the investigator adjusts the concentrations of the ions to other than normal levels both inside and outside the nerve fiber and repeats the study. This ex periment can be performed easily when using large nerve fibers removed from some invertebrates, especially the giant squid axon, which in some cases is as large as 1 mil limeter in diameter. When sodium is the only permeant ion in the solutions inside and outside the squid axon, the voltage clamp measures current flow only through the sodium channels. When potassium is the only permeant ion, current flow only through the potassium channels is measured.
+
+@@ ch05-f65
+# kind: boxed
+Another means for studying the flow of ions through an individual type of channel is to block one type of chan nel at a time. For example, the sodium channels can be blocked by a toxin called tetrodotoxin when it is applied to the outside of the cell membrane where the sodium acti vation gates are located. Conversely, tetraethylammonium ion blocks the potassium channels when it is applied to the interior of the nerve fiber.
+
+@@ ch05-f66
+# kind: boxed
+**Figure 5-9** shows typical changes in conductance of the voltage-gated sodium and potassium channels when the membrane potential is suddenly changed through use of the voltage clamp, from −70 millivolts to +10 millivolts and then, 2 milliseconds later, back to −70 millivolts. Note the sudden opening of the sodium channels (the activa tion stage) within a small fraction of a millisecond after the membrane potential is increased to the positive value. However, during the next millisecond or so, the sodium channels automatically close (the inactivation stage).
+
+@@ ch05-f68
+# kind: boxed
+Note the opening (activation) of the potassium chan nels, which open less rapidly and reach their full open state only after the sodium channels have almost completely closed. Furthermore, once the potassium channels open, they remain open for the entire duration of the positive membrane potential and do not close again until after the membrane potential is decreased back to a negative value.
+
+@@ ch05-f69
+# kind: heading
+SUMMARY OF EVENTS THAT CAUSE THE ACTION POTENTIAL
+
+@@ ch05-f70
+# kind: paragraph
+**Figure 5-10** summarizes the sequential events that occur during and shortly after the action potential. The bottom of the figure shows the changes in membrane conductance for sodium and potassium ions. During the resting state, before the action potential begins, the conductance for potassium ions is 50 to 100 times as great as the conductance for sodium ions. This dispar ity is caused by much greater leakage of potassium ions than sodium ions through the leak channels. However, at the onset of the action potential, the sodium chan nels almost instantaneously become activated and allow up to a 5000-fold increase in sodium conductance. The inactivation process then closes the sodium channels within another fraction of a millisecond. The onset of the action potential also initiates voltage gating of the potassium channels, causing them to begin opening more slowly, a fraction of a millisecond after the sodium channels open. At the end of the action potential, the return of the membrane potential to the negative state causes the potassium channels to close back to their original status but, again, only after an additional mil lisecond or more delay.
+
+@@ ch05-f72
+# kind: paragraph
+The middle portion of **Figure 5-10** shows the ratio of sodium to potassium conductance at each instant dur ing the action potential, and above this depiction is the action potential itself. During the early portion of the action potential, the ratio of sodium to potassium con ductance increases more than 1000-fold. Therefore, far more sodium ions flow to the interior of the fiber than potassium ions to the exterior. This is what causes the membrane potential to become positive at the action potential onset. Then, the sodium channels begin to close, and the potassium channels begin to open; thus, the ratio of conductance shifts far in favor of high potassium con ductance but low sodium conductance. This shift allows for a very rapid loss of potassium ions to the exterior but virtually zero flow of sodium ions to the interior. Conse quently, the action potential quickly returns to its baseline level.
+
+@@ ch05-f73
+# kind: boxed
+Thus far, we have considered only the roles of sodium and potassium ions in generating the action potential. At least two other types of ions must be considered, negative anions and calcium ions.
+
+@@ ch05-f74
+# kind: boxed
+LEAD: Impermeant Negatively Charged Ions (Anions) Inside the Nerve Axon.
+Inside the axon are many negatively charged ions that cannot go through the membrane chan nels. They include the anions of protein molecules and of many organic phosphate compounds and sulfate com pounds, among others. Because these ions cannot leave the interior of the axon, any deficit of positive ions inside the membrane leaves an excess of these impermeant nega tive anions. Therefore, these impermeant negative ions are responsible for the negative charge inside the fiber when there is a net deficit of positively charged potassium ions and other positive ions.
+
+@@ ch05-f75
+# kind: boxed
+LEAD: Calcium Ions.
+The membranes of almost all cells of the body have a calcium pump similar to the sodium pump, and calcium serves along with (or instead of) sodium in some cells to cause most of the action potential. Like the sodium pump, the calcium pump transports calcium ions from the interior to the exterior of the cell membrane (or into the endoplasmic reticulum of the cell), creating a cal cium ion gradient of about 10,000-fold. This process leaves an internal cell concentration of calcium ions of about 10−7 molar, in contrast to an external concentration of about 10−3 molar. In addition, there are _voltage-gated calcium channels_. Because the calcium ion concentration is more than 10,000 times greater in the extracellular fluid than in the intracellular fluid, there is a tremendous diffusion gradient and elec trochemical driving force for the passive flow of calcium ions into the cells. These channels are slightly permeable to sodium ions and calcium ions, but their permeability to calcium is about 1000-fold greater than to sodium under normal physiological conditions. When the channels open in response to a stimulus that depolarizes the cell mem brane, calcium ions flow to the interior of the cell.
+
+@@ ch05-f76
+# kind: boxed
+A major function of the voltage-gated calcium ion channels is to contribute to the depolarizing phase on the action potential in some cells. The gating of calcium chan nels, however, is relatively slow, requiring 10 to 20 times as long for activation as for the sodium channels. For this reason, they are often called _slow channels,_ in contrast to the sodium channels, which are called _fast channels._ Therefore, the opening of calcium channels provides a more sustained depolarization, whereas the sodium chan nels play a key role in initiating action potentials.
+
+@@ ch05-f77
+# kind: boxed
+Calcium channels are numerous in cardiac muscle and smooth muscle. In fact, in some types of smooth muscle, the fast sodium channels are hardly present; therefore, the action potentials are caused almost entirely by the activa tion of slow calcium channels.
+
+@@ ch05-f78
+# kind: boxed
+LEAD: Increased Permeability of the Sodium Channels When There Is a Deficit of Calcium Ions.
+The concentration of calcium ions in the extracellular fluid also has a profound effect on the voltage level at which the sodium channels become activated. When there is a deficit of calcium ions, the sodium channels become activated (opened) by a small increase of the membrane potential from its normal, very negative level. Therefore, the nerve fiber becomes highly excitable, sometimes discharging repetitively without prov ocation, rather than remaining in the resting state. In fact, the calcium ion concentration needs to fall only 50% be low normal before spontaneous discharge occurs in some peripheral nerves, often causing _muscle “tetany_._”_ Muscle tetany is sometimes lethal because of tetanic contraction of the respiratory muscles.
+
+@@ ch05-f79
+# kind: boxed
+The probable way in which calcium ions affect the so dium channels is as follows. These ions appear to bind to the exterior surfaces of the sodium channel protein. The positive charges of these calcium ions, in turn, alter the electrical state of the sodium channel protein, thus altering the voltage level required to open the sodium gate.
+
+@@ ch05-f80
+# kind: heading
+INITIATION OF THE ACTION POTENTIAL
+
+@@ ch05-f81
+# kind: paragraph
+Thus far, we have explained the changing sodium and potassium permeability of the membrane, as well as the development of the action potential, but we have not explained what initiates the action potential.
+
+@@ ch05-f82
+# kind: paragraph
+LEAD: A Positive-Feedback Cycle Opens the Sodium Channels.
+As long as the membrane of the nerve fiber remains undisturbed, no action potential occurs in the normal nerve. However, if any event causes enough initial rise in the membrane potential from −70 millivolts toward the zero level, the rising voltage will cause many voltage-gated sodium channels to begin opening. This occurrence allows for the rapid inflow of sodium ions, which causes a further rise in the membrane potential, thus opening still more voltage-gated sodium channels and allowing more stream ing of sodium ions to the interior of the fiber. This process is a positive feedback cycle that, once the feedback is strong enough, continues until all the voltage-gated sodium chan nels have become activated (opened). Then, within another fraction of a millisecond, the rising membrane potential causes closure of the sodium channels and opening of po tassium channels, and the action potential soon terminates.
+
+@@ ch05-f83
+# kind: paragraph
+LEAD: Initiation of the Action Potential Occurs Only After the Threshold Potential is Reached.
+An action poten tial will not occur until the initial rise in membrane po tential is great enough to create the positive feedback de scribed in the preceding paragraph. This occurs when the number of sodium ions entering the fiber is greater than the number of potassium ions leaving the fiber. A sudden rise in membrane potential of 15 to 30 millivolts is usually required. Therefore, a sudden increase in the membrane potential in a large nerve fiber, from −70 millivolts up to about −55 millivolts, usually causes the explosive devel opment of an action potential. This level of −55 millivolts is said to be the _threshold_ for stimulation.
+
+@@ ch05-f84
+# kind: heading
+PROPAGATION OF THE ACTION POTENTIAL
+
+@@ ch05-f85
+# kind: paragraph
+In the preceding paragraphs, we discussed the action potential as though it occurs at one spot on the mem brane. However, an action potential elicited at any one point on an excitable membrane usually excites adjacent portions of the membrane, resulting in propagation of the action potential along the membrane. This mechanism is demonstrated in **Figure 5-11.**
+
+@@ ch05-f87
+# kind: paragraph
+**Figure 5-11A** shows a normal resting nerve fiber, and **Figure 5-11B** shows a nerve fiber that has been excited in its midportion, which suddenly develops increased perme ability to sodium. The _arrows_ show a local circuit of cur rent flow from the depolarized areas of the membrane to the adjacent resting membrane areas. That is, posi tive electrical charges are carried by the inward-diffusing sodium ions through the depolarized membrane and then for several millimeters in both directions along the core of the axon. These positive charges increase the voltage for a distance of 1 to 3 millimeters inside the large myelinated fiber to above the threshold voltage value for initiating an action potential. Therefore, the sodium channels in these new areas immediately open, as shown in **Figure 5-11C** and **D**, and the explosive action potential spreads. These newly depolarized areas produce still more local circuits of current flow farther along the membrane, causing progres sively more and more depolarization. Thus, the depolariza tion process travels along the entire length of the fiber. This transmission of the depolarization process along a nerve or muscle fiber is called a _nerve_ or _muscle impulse._
+
+@@ ch05-f88
+# kind: paragraph
+LEAD: Direction of Propagation.
+As demonstrated in **Figure 511**, an excitable membrane has no single direction of prop agation, but the action potential travels in all directions away from the stimulus—even along all branches of a nerve fiber—until the entire membrane has become depolarized.
+
+@@ ch05-f89
+# kind: paragraph
+LEAD: All-or-Nothing Principle.
+Once an action potential has been elicited at any point on the membrane of a normal fiber, the depolarization process travels over the entire membrane if conditions are right, but it does not travel at all if conditions are not right. This principle is called the _allor-nothing principle,_ and it applies to all normal excitable tissues. Occasionally, the action potential reaches a point on the membrane at which it does not generate sufficient voltage to stimulate the next area of the membrane. When this situation occurs, the spread of depolarization stops. Therefore, for continued propagation of an impulse to oc cur, the ratio of action potential to threshold for excitation must at all times be greater than 1. This “greater than 1” requirement is called the _safety factor_ for propagation.
+
+@@ ch05-f90
+# kind: heading
+RE-ESTABLISHING SODIUM AND POTASSIUM IONIC GRADIENTS AFTER ACTION POTENTIALS ARE COMPLETED—IMPORTANCE OF ENERGY METABOLISM
+
+@@ ch05-f91
+# kind: paragraph
+Transmission of each action potential along a nerve fiber slightly reduces the concentration differences of sodium and potassium inside and outside the membrane because sodium ions diffuse to the inside during depolariza tion, and potassium ions diffuse to the outside during repolarization. For a single action potential, this effect is so minute that it cannot be measured. Indeed, 100,000 to 50 million impulses can be transmitted by large nerve fibers before the concentration differences reach the point that action potential conduction ceases. With time, how ever, it becomes necessary to re-establish the sodium and potassium membrane concentration differences, which is achieved by action of the Na+-K+ pump in the same way as described previously for the original establishment of the resting potential. That is, sodium ions that have dif fused to the interior of the cell during the action poten tials and potassium ions that have diffused to the exterior must be returned to their original state by the Na+-K+ pump. Because this pump requires energy for operation, this “recharging” of the nerve fiber is an active metabolic process, using energy derived from the adenosine tri phosphate (ATP) energy system of the cell. **Figure 5-12** shows that the nerve fiber produces increased heat dur ing recharging, which is a measure of energy expenditure when the nerve impulse frequency increases.
+
+@@ ch05-f93
+# kind: paragraph
+A special feature of the Na+-K+ ATP pump is that its degree of activity is strongly stimulated when excess sodium ions accumulate inside the cell membrane. In fact, the pumping activity increases approximately in propor tion to the third power of this intracellular sodium con centration. As the internal sodium concentration rises from 10 to 20 mEq/L, the activity of the pump does not merely double but increases about eightfold. Therefore, it is easy to understand how the recharging process of the nerve fiber can be set rapidly into motion whenever the concentration differences of sodium and potassium ions across the membrane begin to run down.
+
+@@ ch05-f94
+# kind: heading
+PLATEAU IN SOME ACTION POTENTIALS
+
+@@ ch05-f95
+# kind: paragraph
+In some cases, the excited membrane does not repolarize immediately after depolarization; instead, the potential remains on a plateau near the peak of the spike potential for many milliseconds before repolarization begin. Such a plateau is shown in **Figure 5-13**; one can readily see that the plateau greatly prolongs the period of depolarization. This type of action potential occurs in heart muscle fibers, where the plateau lasts for as long as 0.2 to 0.3 second and causes contraction of heart muscle to last for this same long period.
+
+@@ ch05-f97
+# kind: paragraph
+The cause of the plateau is a combination of several fac tors. First, in heart muscle, two types of channels contribute to the depolarization process: (1) the usual voltage-activated sodium channels, called _fast channels;_ and (2) voltageactivated calcium-sodium channels _(L-type calcium chan nels)_, which are slow to open and therefore are called _slow channels._ Opening of fast channels causes the spike portion of the action potential, whereas the prolonged opening of the slow calcium-sodium channels mainly allows calcium ions to enter the fiber, which is largely responsible for the plateau portion of the action potential.
+
+@@ ch05-f98
+# kind: paragraph
+Another factor that may be partly responsible for the plateau is that the voltage-gated potassium channels are slower to open than usual, often not opening much until the end of the plateau. This factor delays the return of the membrane potential toward its normal negative value of −70 millivolts. The plateau ends when the calciumsodium channels close, and permeability to potassium ions increases.
+
+@@ ch05-f99
+# kind: heading
+RHYTHMICITY OF SOME EXCITABLE TISSUES—REPETITIVE DISCHARGE
+
+@@ ch05-f100
+# kind: paragraph
+Repetitive self-induced discharges occur normally in the heart, in most smooth muscle, and in many of the neurons of the central nervous system. These rhythmi cal discharges cause the following: (1) rhythmical beat of the heart; (2) rhythmical peristalsis of the intestines; and (3) neuronal events such as the rhythmical control of breathing.
+
+@@ ch05-f101
+# kind: paragraph
+In addition, almost all other excitable tissues can dis charge repetitively if the threshold for stimulation of the tissue cells is reduced to a low enough level. For example, even large nerve fibers and skeletal muscle fibers, which normally are highly stable, discharge repetitively when they are placed in a solution that contains the drug _veratridine_, which activates sodium ion channels, or when the calcium ion concentration decreases below a critical value, which increases the sodium permeability of the membrane.
+
+@@ ch05-f102
+# kind: paragraph
+LEAD: Re-Excitation Process Necessary for Spontaneous Rhythmicity.
+For spontaneous rhythmicity to occur, the membrane—even in its natural state—must be permeable enough to sodium ions (or to calcium and sodium ions through the slow calcium-sodium channels) to allow auto matic membrane depolarization. Thus, **Figure 5-14** shows that the resting membrane potential in the rhythmical con trol center of the heart is only −60 to −70 millivolts, which is not enough negative voltage to keep the sodium and calcium channels totally closed. Therefore, the following sequence occurs: (1) some sodium and calcium ions flow inward; (2) this activity increases the membrane voltage in the positive direction, which further increases membrane permeability; (3) still more ions flow inward; and (4) the permeability in creases more, and so on, until an action potential is gener ated. Then, at the end of the action potential, the membrane repolarizes. After another delay of milliseconds or seconds, spontaneous excitability causes depolarization again, and a new action potential occurs spontaneously. This cycle con tinues over and over and causes self-induced rhythmical excitation of the excitable tissue.
+
+@@ ch05-f104
+# kind: paragraph
+Why does the membrane of the heart control center not depolarize immediately after it has become repolarized, rather than delaying for nearly 1 second before the onset of the next action potential? The answer can be found by observing the curve labeled “potassium conductance” in **Figure 5-14**. This curve shows that toward the end of each action potential, and continuing for a short period thereafter, the membrane becomes more permeable to potassium ions. The increased outflow of potassium ions carries tremendous numbers of positive charges to the outside of the membrane, leaving considerably more neg ativity inside the fiber than would otherwise occur. This continues for nearly 1 second after the preceding action potential is over, thus drawing the membrane potential nearer to the potassium Nernst potential. This state, called _hyperpolarization,_ is also shown in **Figure 5-14**. As long as this state exists, self–re-excitation will not occur. How ever, the increased potassium conductance (and the state of hyperpolarization) gradually disappears, as shown after each action potential is completed in the figure, thereby again allowing the membrane potential to increase up to the _threshold_ for excitation. Then, suddenly, a new action potential results and the process occurs again and again.
+
+@@ ch05-f105
+# kind: heading
+SPECIAL CHARACTERISTICS OF SIGNAL TRANSMISSION IN NERVE TRUNKS
+
+@@ ch05-f106
+# kind: paragraph
+LEAD: Myelinated and Unmyelinated Nerve Fibers.
+**Figure 5-15** shows a cross section of a typical small nerve, re vealing many large nerve fibers that constitute most of the cross-sectional area. However, a more careful look reveals many more small fibers lying between the large ones. The large fibers are _myelinated,_ and the small ones are _unmy elinated._ The average nerve trunk contains about twice as many unmyelinated fibers as myelinated fibers.
+
+@@ ch05-f108
+# kind: paragraph
+**Figure 5-16** illustrates schematically the features of a typical myelinated fiber. The central core of the fiber is the _axon,_ and the membrane of the axon is the membrane that actually conducts the action potential. The axon is filled in its center with _axoplasm,_ which is a viscid intracellular fluid. Surrounding the axon is a _myelin sheath_ that is often much thicker than the axon itself. About once every 1 to 3 millime ters along the length of the myelin sheath is a _node of Ranvier._
+
+@@ ch05-f110
+# kind: paragraph
+The myelin sheath is deposited around the axon by _Schwann cells_ in the following manner. The membrane of a Schwann cell first envelops the axon. The Schwann cell then rotates around the axon many times, laying down mul tiple layers of Schwann cell membrane containing the lipid substance _sphingomyelin._ This substance is an excellent electrical insulator that decreases ion flow through the membrane about 5000-fold. At the juncture between each two successive Schwann cells along the axon, a small unin sulated area only 2 to 3 micrometers in length remains where ions still can flow with ease through the axon mem brane between the extracellular fluid and intracellular fluid inside the axon. This area is called the _node of Ranvier._
+
+@@ ch05-f111
+# kind: paragraph
+LEAD: Saltatory Conduction in Myelinated Fibers from Node to Node.
+Even though almost no ions can flow through the thick myelin sheaths of myelinated nerves, they can flow with ease through the nodes of Ranvier. Therefore, action potentials occur _only at the nodes._ Yet, the action potentials are conducted from node to node by _saltatory conduction_, as shown in **Figure 5-17**. That is, electrical current flows through the surrounding extracellular fluid outside the myelin sheath, as well as through the axoplasm inside the axon from node to node, exciting successive nodes one after another. Thus, the nerve impulse jumps along the fiber, which is the origin of the term _saltatory._
+
+@@ ch05-f113
+# kind: paragraph
+Saltatory conduction is of value for two reasons: 1. First, by causing the depolarization process to jump long intervals along the axis of the nerve fiber, this mechanism increases the velocity of nerve transmis sion in myelinated fibers as much as 5- to 50-fold.
+
+@@ ch05-f114
+# kind: paragraph
+2. Second, saltatory conduction conserves energy for the axon because only the nodes depolarize, allowing perhaps 100 times less loss of ions than would other wise be necessary, and therefore requiring much less energy expenditure for re-establishing the sodium and potassium concentration differences across the membrane after a series of nerve impulses. The excellent insulation afforded by the myelin mem brane and the 50-fold decrease in membrane capacitance also allow repolarization to occur with little transfer of ions.
+
+@@ ch05-f115
+# kind: paragraph
+LEAD: Velocity of Conduction in Nerve Fibers.
+The velocity of action potential conduction in nerve fibers varies from as little as 0.25 m/sec in small unmyelinated fibers to as much as 100 m/sec—more than the length of a football field in 1 second—in large myelinated fibers.
+
+@@ ch05-f116
+# kind: heading
+EXCITATION—THE PROCESS OF ELICITING THE ACTION POTENTIAL
+
+@@ ch05-f117
+# kind: paragraph
+Basically, any factor that causes sodium ions to begin to diffuse inward through the membrane in sufficient num bers can set off automatic regenerative opening of the sodium channels. This automatic regenerative opening can result from _mechanical_ disturbance of the membrane, _chemical_ effects on the membrane, or passage of _electric ity_ through the membrane. All these approaches are used at different points in the body to elicit nerve or muscle action potentials: mechanical pressure to excite sensory nerve endings in the skin, chemical neurotransmitters to transmit signals from one neuron to the next in the brain, and electrical current to transmit signals between succes sive muscle cells in the heart and intestine.
+
+@@ ch05-f118
+# kind: boxed
+LEAD: Excitation of a Nerve Fiber by a Negatively Charged Metal Electrode.
+The usual means for exciting a nerve or muscle in the experimental laboratory is to apply electricity to the nerve or muscle surface through two small electrodes, one of which is negatively charged and the other positively charged. When electricity is applied in this manner, the excitable membrane becomes stimulated at the negative electrode.
+
+@@ ch05-f119
+# kind: boxed
+Remember that the action potential is initiated by the opening of voltage-gated sodium channels. Furthermore, these channels are opened by a decrease in the normal rest ing electrical voltage across the membrane—that is, nega tive current from the electrode decreases the voltage on the outside of the membrane to a negative value nearer to the voltage of the negative potential inside the fiber. This effect decreases the electrical voltage across the membrane and allows the sodium channels to open, resulting in an action potential. Conversely, at the positive electrode, the injec tion of positive charges on the outside of the nerve mem brane heightens the voltage difference across the mem brane, rather than lessening it. This effect causes a state of hyperpolarization, which actually decreases the excitability of the fiber rather than causing an action potential.
+
+@@ ch05-f120
+# kind: paragraph
+LEAD: Threshold for Excitation and Acute Local Potentials.
+A weak negative electrical stimulus may not be able to excite a fiber. However, when the voltage of the stimu lus is increased, there comes a point at which excitation does take place. **Figure 5-18** shows the effects of suc cessively applied stimuli of progressing strength. A weak stimulus at point A causes the membrane potential to change from −70 to −65 millivolts, but this change is not sufficient for the automatic regenerative processes of the action potential to develop. At point B, the stimu lus is greater, but the intensity is still not enough. The stimulus does, however, disturb the membrane potential locally for as long as 1 millisecond or more after both of these weak stimuli. These local potential changes are called _acute local potentials_ and, when they fail to elicit an action potential, they are called _acute subthreshold potentials._
+
+@@ ch05-f122
+# kind: paragraph
+At point C in **Figure 5-18**, the stimulus is even stronger. Now, the local potential has barely reached the _threshold level_ required to elicit an action potential, but this occurs only after a short “latent period.” At point D, the stimulus is still stronger, the acute local potential is also stronger, and the action potential occurs after less of a latent period.
+
+@@ ch05-f123
+# kind: paragraph
+Thus, this figure shows that even a weak stimulus causes a local potential change at the membrane, but the intensity of the local potential must rise to a threshold level before the action potential is set off.
+
+@@ ch05-f124
+# kind: heading
+REFRACTORY PERIOD AFTER AN ACTION POTENTIAL, DURING WHICH A NEW STIMULUS CANNOT BE ELICITED
+
+@@ ch05-f125
+# kind: paragraph
+A new action potential cannot occur in an excitable fiber as long as the membrane is still depolarized from the preced ing action potential. The reason for this restriction is that shortly after the action potential is initiated, the sodium channels (or calcium channels, or both) become inacti vated, and no amount of excitatory signal applied to these channels at this point will open the inactivation gates. The only condition that will allow them to reopen is for the membrane potential to return to or near the original resting membrane potential level. Then, within another small fraction of a second, the inactivation gates of the channels open, and a new action potential can be initiated.
+
+@@ ch05-f126
+# kind: paragraph
+The period during which a second action potential can not be elicited, even with a strong stimulus, is called the _absolute refractory period._ This period for large myelin ated nerve fibers is about 1/2500 second. Therefore, one can readily calculate that such a fiber can transmit a maxi mum of about 2500 impulses per second.
+
+@@ ch05-f127
+# kind: boxed
+In contrast to the factors that increase nerve excitability, _membrane-stabilizing factors_ can _decrease excitability._ For example, _a_ high _extracellular fluid calcium ion concentration_ decreases membrane permeability to sodium ions and simultaneously reduces excitability. Therefore, calcium ions are said to be what is called a _stabilizer._
+
+@@ ch05-f128
+# kind: boxed
+LEAD: Local Anesthetics.
+Among the most important sta bilizers are the many substances used clinically as local anesthetics, including _procaine_ and _tetracaine._ Most of these agents act directly on the activation gates of the so dium channels, making it much more difficult for these gates to open and thereby reducing membrane excitabil ity. When excitability has been reduced so low that the ratio of _action potential strength_ to _excitability threshold_ (called the _safety factor_) is reduced below 1.0, nerve im pulses fail to pass along the anesthetized nerves.
+
+@@ fig:gh14-fig-05-01
+# kind: caption
+A, Establishment of a diffusion potential across a nerve fiber membrane, caused by diffusion of potassium ions from inside the cell to outside the cell through a membrane that is selectively per meable only to potassium. B, Establishment of a diffusion potential when the nerve fiber membrane is permeable only to sodium ions. Note that the internal membrane potential is negative when potas sium ions diffuse and positive when sodium ions diffuse because of opposite concentration gradients of these two ions.
+
+@@ fig:gh14-fig-05-02
+# kind: caption
+Measurement of the membrane potential of the nerve fiber using a microelectrode.
+
+@@ fig:gh14-fig-05-03
+# kind: caption
+Distribution of positively and negatively charged ions in the extracellular fluid surrounding a nerve fiber and in the fluid inside the fiber. Note the alignment of negative charges along the inside surface of the membrane and positive charges along the outside surface. The lower panel displays the abrupt changes in membrane potential that occur at the membranes on the two sides of the fiber.
+
+@@ fig:gh14-fig-05-04
+# kind: caption
+Functional characteristics of the Na+-K+ pump and the K+ “leak” channels. The K+ leak channels also leak Na+ ions into the cell slightly but are much more permeable to K+. ADP, Adenosine diphos phate; ATP, adenosine triphosphate.
+
+@@ fig:gh14-fig-05-05
+# kind: caption
+Establishment of resting membrane potentials under three conditions. A, When the membrane potential is caused entirely by potassium diffusion alone. B, When the membrane potential is caused by diffusion of both sodium and potassium ions. C, When the membrane potential is caused by diffusion of both sodium and potassium ions plus pumping of both these ions by the Na+-K+ pump.
+
+@@ fig:gh14-fig-05-06
+# kind: caption
+Typical action potential recorded by the method shown in the upper panel.
+
+@@ fig:gh14-fig-05-07
+# kind: caption
+Characteristics of the voltage-gated sodium (top) and potassium (bottom) channels, showing successive activation and in activation of the sodium channels and delayed activation of the po tassium channels when the membrane potential is changed from the normal resting negative value to a positive value.
+
+@@ fig:gh14-fig-05-08
+# kind: caption
+Voltage clamp method for studying flow of ions through specific channels.
+
+@@ fig:gh14-fig-05-09
+# kind: caption
+Typical changes in conductance of sodium and potassium ion channels when the membrane potential is suddenly increased from the normal resting value of −70 millivolts to a positive value of +10 millivolts for 2 milliseconds. This figure shows that the sodium channels open (activate) and then close (inactivate) before the end of the 2 milliseconds, whereas the potassium channels only open (acti vate), and the rate of opening is much slower than that of the sodium channels.
+
+@@ fig:gh14-fig-05-10
+# kind: caption
+Changes in sodium and potassium conductance dur ing the course of the action potential. Sodium conductance increases several thousand–fold during the early stages of the action potential, whereas potassium conductance increases only about 30-fold during the latter stages of the action potential and for a short period thereaf ter. (These curves were constructed from theory presented in papers by Hodgkin and Huxley but transposed from a squid axon to apply to the membrane potentials of large mammalian nerve fibers.)
+
+@@ fig:gh14-fig-05-11
+# kind: caption
+A–D, Propagation of action potentials in both directions along a conductive fiber.
+
+@@ fig:gh14-fig-05-12
+# kind: caption
+Heat production in a nerve fiber at rest and at progres sively increasing rates of stimulation.
+
+@@ fig:gh14-fig-05-13
+# kind: caption
+Action potential (in millivolts) from a Purkinje fiber of the heart, showing a plateau.
+
+@@ fig:gh14-fig-05-14
+# kind: caption
+Rhythmical action potentials (in millivolts) similar to those recorded in the rhythmical control center of the heart. Note their relationship to potassium conductance and to the state of hy perpolarization.
+
+@@ fig:gh14-fig-05-15
+# kind: caption
+Cross section of a small nerve trunk containing both myelinated and unmyelinated fibers.
+
+@@ fig:gh14-fig-05-16
+# kind: caption
+Function of the Schwann cell to insulate nerve fibers. A, Wrapping of a Schwann cell membrane around a large axon to form the myelin sheath of the myelinated nerve fiber. B, Partial wrapping of the membrane and cytoplasm of a Schwann cell around multiple unmyelinated nerve fibers (shown in cross section). (A, Modified from Leeson TS, Leeson R: Histology. Philadelphia: WB Saunders, 1979.)
+
+@@ fig:gh14-fig-05-17
+# kind: caption
+Saltatory conduction along a myelinated axon. The flow of electrical current from node to node is illustrated by the arrows.
+
+@@ fig:gh14-fig-05-18
+# kind: caption
+Effect of stimuli of increasing voltages to elicit an action potential. Note the development of acute subthreshold potentials when the stimuli are below the threshold value required for eliciting an action potential.
+
+@@ fig:gh14-tab-05-01
+# kind: caption
+Resting Membrane Potential in Different Cell Types

@@ -1,0 +1,300 @@
+{
+ "lessonId": "ch68",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 68,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "manual",
+ "translator": "Claude (DrStudy sessiyasi)",
+ "model": null,
+ "createdAt": "2026-11-20T06:41:37.017Z",
+ "updatedAt": "2026-11-20T06:41:37.026Z",
+ "coverage": {
+  "translated": 93,
+  "total": 93
+ },
+ "note": "Kitob matnining töliq özbekça tarjimasi (qisqartirilmagan). Ekspert tekşiruvidan ötmagan.",
+ "blocks": {
+  "ch68-f0": {
+   "text": "Keyingi bir neça bob organizmdagi metabolizmga, ya’ni hujayralarning yaşaşini ta’minlaydigan kimyoviy jarayonlarga bağişlangan. Hujayradagi turli reaksiyalarning kimyoviy tafsilotlari biokimyoda örganiladi. Bu boblarda (1) hujayradagi asosiy kimyoviy jarayonlar körib çiqiladi va (2) ularning fiziologik ahamiyati, ayniqsa organizm gomeostazini saqlaşdagi örni tahlil qilinadi."
+  },
+  "ch68-f1": {
+   "text": "Hujayradagi köplab kimyoviy reaksiyalar ovqat tarkibidagi energiyani hujayraning turli fiziologik jarayonlari uçun foydalaniş mumkin bölgan şaklga ötkazadi. Masalan, muşaklar faoliyati, bezlar sekretsiyasi, nerv va muşak tolalari membrana potensialining saqlanişi, hujayralarda moddalarning sintezlanişi, oziq moddalarning me’da-içak yölidan sörilişi hamda boşqa köplab vazifalar uçun energiya kerak."
+  },
+  "ch68-f2": {
+   "text": "Energiya beradigan barça oziq moddalar — uglevodlar, yoğlar va oqsillar — hujayrada oksidlanişi mumkin. Bunda köp miqdorda energiya ajraladi. Ayni moddalar organizmdan taşqarida ham toza kislorodda yondirilsa, köp energiya ajraladi, lekin u birdaniga va butunlay issiqlik şaklida çiqadi. Hujayraning fiziologik jarayonlari uçun, masalan, muşaklarning mexanik harakati, bezlar ajralmasida erigan moddalarning konsentratsiyasini oşiriş va boşqa vazifalar uçun iş bajarişga yaroqli energiya kerak. Buning uçun kimyoviy reaksiyalar uşbu fiziologik vazifalarni bajaruvçi tizimlar bilan tutaşişi kerak. Bu boğlanişni hujayradagi maxsus fermentlar va energiya uzatiş tizimlari amalga oşiradi. Ulardan ayrimlari şu va keyingi boblarda tuşuntiriladi.",
+   "lead": "Tutaşgan reaksiyalar."
+  },
+  "ch68-f3": {
+   "text": "Oziq modda töliq oksidlanganda ajraladigan energiya miqdori _oksidlanişning erkin energiyasi_ deb ataladi va odatda ΔG belgisi bilan ifodalanadi. Erkin energiya köpinça moddaning bir moliga töğri keladigan kaloriyalarda beriladi. Masalan, 1 mol (180 g) glukoza töliq oksidlanganda 686 000 kaloriya erkin energiya ajraladi.",
+   "lead": "Erkin energiya."
+  },
+  "ch68-f4": {
+   "text": "Adenozin trifosfat (ATP) organizmning energiya hosil qiluvçi va energiya sarflovçi tizimlari orasidagi asosiy boğlovçi böğindir (**Rasm 68-1**). Şu bois ATP organizmning «energiya valyutasi» deb ataladi. U qayta-qayta hosil qilinişi va sarflanişi mumkin."
+  },
+  "ch68-f6": {
+   "text": "Uglevodlar, oqsillar va yoğlar oksidlanişidan olingan energiya adenozin difosfatni (ADP) ATP ga aylantirişda işlatiladi. Hosil bölgan ATP hayotni saqlaş va davom ettiriş uçun zarur turli reaksiyalarda sarflanadi."
+  },
+  "ch68-f7": {
+   "text": "ATP barça hujayralarda mavjud, oson özgaradigan kimyoviy birikmadir. U adenin, riboza va uçta fosfat guruhidan tuzilgan (**Rasm 68-2**). Oxirgi ikkita fosfat guruhi molekulaning qolgan qismiga yuqori energiyali boğlar orqali birikkan. Rasmda bunday boğlar **∼** belgisi bilan ifodalangan."
+  },
+  "ch68-f9": {
+   "text": "ATP ning har bir yuqori energiyali boği uçun bir molga hisoblangan erkin energiya standart şaroitda taxminan 7 300 kaloriya, organizmdagi odatiy harorat va reagentlar konsentratsiyasida esa taxminan 12 000 kaloriyadir. Demak, organizmda oxirgi ikki fosfat guruhining har biri ajralganda taxminan 12 000 kaloriya energiya çiqadi. ATP dan bitta fosfat guruhi ajralsa, ADP hosil böladi. Yana bitta fosfat guruhi ajralsa, _adenozin monofosfat_ (AMP) hosil böladi. Ularning özaro aylanişini ATP ⇌ ADP + Pᵢ va ADP ⇌ AMP + Pᵢ şaklida ifodalaş mumkin."
+  },
+  "ch68-f10": {
+   "text": "ATP barça hujayralarning sitoplazmasi va nukleoplazmasida uçraydi. Energiya talab qiladigan deyarli barça fiziologik jarayonlar energiyani bevosita ATP dan yoki şunga öxşaş yuqori energiyali birikma — guanozin trifosfatdan oladi. Hujayradagi oziq moddalar asta-sekin oksidlanadi, ajralgan energiya esa yangi ATP hosil qilişga sarflanadi. Şu tariqa hujayrada ATP zaxirasi uzluksiz töldiriladi. Bu energiya uzatiş jarayonlarining barçasi tutaşgan reaksiyalar orqali keçadi."
+  },
+  "ch68-f11": {
+   "text": "Bobning asosiy maqsadi — uglevodlar energiyasidan hujayrada ATP hosil qiliş uçun qanday foydalanilişini tuşuntiriş. Organizm foydalanadigan uglevodlarning odatda 90 foizi yoki undan köproği şu maqsadga sarflanadi."
+  },
+  "ch68-f12": {
+   "text": "66-bobda tuşuntirilganidek, hazm yölida uglevodlar parçalanişining yakuniy mahsulotlari deyarli butunlay glukoza, fruktoza va galaktozadan iborat. Ularning örtaça 80 foizini glukoza taşkil qiladi. Içakdan sörilgaç, fruktozaning katta qismi va galaktozaning deyarli hammasi jigarda tez glukozaga aylanadi. Şu sababli aylanib turgan qonda fruktoza va galaktoza kam böladi. _Deyarli barça uglevodlar töqima hujayralariga glukoza şaklida yetkaziladi._"
+  },
+  "ch68-f13": {
+   "text": "Jigar hujayralarida glukoza, fruktoza va galaktozaning bir-biriga aylanişini ta’minlaydigan fermentlar bor (**Rasm 68-3**). Jigar monosaxaridlarni qonga qayta çiqarganda yakuniy mahsulot deyarli butunlay glukoza böladi. Sababi jigar hujayralarida _glukoza-6-fosfataza_ köp. Ferment glukoza-6-fosfatni glukoza va fosfatga parçalaydi. Glukoza şundan söng jigar hujayrasi membranasidan ötib qonga qaytadi."
+  },
+  "ch68-f15": {
+   "text": "Odatda qonda aylanadigan monosaxaridlarning 95 foizdan ortiği şu aylanişlarning yakuniy mahsuloti — glukozadir."
+  },
+  "ch68-f16": {
+   "text": "Töqima hujayrasi glukozadan foydalanişi uçun u avval hujayra membranasidan ötib sitoplazmaga kirişi kerak. Glukoza _membrana teşiklaridan oson diffuziyalana olmaydi_, çunki oson ötadigan zarraçalarning molekulyar massasi taxminan 100 gaça, glukozaniki esa 180 ga teng. Şunga qaramay, glukoza hujayra içiga _yengillaşgan diffuziya_ orqali nisbatan erkin kiradi. Bu transportning tamoyillari 4-bobda bayon qilingan. Membrananing lipid qatlamidan glukozaga boğlana oladigan köplab _taşuvçi_ oqsillar ötadi. Taşuvçi glukozani boğlab, membrananing ikkinçi tomoniga olib ötadi va u yerda ajratadi. Membrananing bir tomonida glukoza konsentratsiyasi yuqoriroq bölsa, yuqori konsentratsiyadan past konsentratsiya tomonga teskari yönalişdagidan köproq glukoza taşiladi."
+  },
+  "ch68-f17": {
+   "text": "Köpçilik töqima hujayralarida glukozaning membranadan ötişi me’da-içak epiteliysi yoki buyrak kanalçalari epiteliysidagidan farq qiladi. Bu ikki epiteliyda glukoza _natriy bilan birgalikdagi faol transport_ orqali ötadi. Natriy gradiyenti glukozani _öz konsentratsiya gradiyentiga qarşi_ söriş uçun harakatlantiruvçi kuç beradi. Bu mexanizm maxsus hujayralarda, ayniqsa glukozani faol sörişga moslaşgan epiteliyda işlaydi. Boşqa hujayra membranalarida glukoza maxsus _glukoza taşuvçi oqsillar_ yordamida faqat yuqori konsentratsiyadan past konsentratsiya tomon, _yengillaşgan diffuziya_ orqali taşiladi. Bu mexanizm 4-bobda batafsil tuşuntirilgan."
+  },
+  "ch68-f18": {
+   "text": "Insulin köpçilik hujayralarga glukoza va ayrim boşqa monosaxaridlarning taşiliş tezligini ança oşiradi. Me’da osti bezi köp insulin ajratganda köpçilik hujayralarga glukozaning kiriş tezligi insulin ajralmagan paytdagiga qaraganda 10 baravar yoki undan köproqqa oşadi. Insulin bölmasa, jigar va miya hujayralaridan taşqari köpçilik hujayralarga kiradigan glukoza miqdori odatiy energiya almaşinuvi ehtiyojini qondiriş uçun juda kam."
+  },
+  "ch68-f19": {
+   "text": "Demak, köpçilik hujayralarning uglevodlardan foydalaniş tezligi me’da osti bezi insulin ajratiş tezligiga va turli töqimalarning glukoza taşilişiga körsatiladigan insulin ta’siriga sezgirligiga boğliq. Insulinning vazifalari va uglevodlar almaşinuvini boşqarişi 79-bobda batafsil muhokama qilinadi."
+  },
+  "ch68-f20": {
+   "text": "Glukoza hujayraga kirişi bilanoq fosfat guruhi bilan birikadi. Reaksiya: glukoza + ATP → glukoza-6-fosfat + ADP."
+  },
+  "ch68-f21": {
+   "text": "Fosforlanişni jigarda asosan _glukokinaza_, köpçilik boşqa hujayralarda esa _geksokinaza_ katalizlaydi. Bu reaksiya jigar, buyrak kanalçalari epiteliysi va içak epiteliysidan taşqari deyarli qaytmasdir. Sanalgan hujayralarda _glukoza-6-fosfataza_ ham bor va u fosfatni ajratib, erkin glukoza hosil qila oladi. Köpçilik töqimalarda fosforlaniş glukozani hujayra içida _uşlab qoladi_. Glukoza fosfatga deyarli darhol birikkanidan keyin hujayradan diffuziya orqali çiqib keta olmaydi. Fosfatazasi bor maxsus hujayralar, ayniqsa jigar hujayralari, bundan mustasno."
+  },
+  "ch68-f22": {
+   "text": "Hujayraga kirgan glukozadan darhol energiya oliş mumkin yoki uni glukozaning yirik polimeri — _glikogen_ şaklida saqlaş mumkin."
+  },
+  "ch68-f23": {
+   "text": "Organizmning deyarli barça hujayralari oz bölsa ham glikogen saqlay oladi. Ayrimlari ança köp glikogen töplaydi. Xususan, _jigar hujayralari_ öz massasining 5–8 foizigaça, _muşak hujayralari_ esa 1–3 foizigaça glikogen saqlay oladi. Glikogen polimerining molekulyar massasi juda katta qiymatga yetişi mumkin. Örtaça qiymat 5 million yoki undan yuqori. Glikogenning katta qismi qattiq donaçalar şaklida çökadi."
+  },
+  "ch68-f24": {
+   "text": "Monosaxaridlarning molekulyar massasi katta, çökma holidagi glikogenga aylanişi hujayra içidagi suyuqlikning osmotik bosimini sezilarli özgartirmay, köp uglevod saqlaşga imkon beradi. Kiçik molekulali, eruvçan monosaxaridlar yuqori konsentratsiyada bölganida hujayra içidagi va taşqarisidagi suyuqliklar örtasidagi osmotik muvozanat keskin buzilar edi."
+  },
+  "ch68-f25": {
+   "text": "Glikogen hosil böliş reaksiyalari, ya’ni glikogenez **Rasm 68-4** da körsatilgan. _Glukoza-6-fosfat_ _glukoza-1-fosfatga_ aylanadi. Undan _uridin difosfat glukoza_ hosil böladi va u oxirida glikogenga qöşiladi. Bu özgarişlar uçun bir neça maxsus ferment kerak. Glukozaga aylana oladigan istalgan monosaxarid şu reaksiyalarga kirişi mumkin. _Sut kislotasi, glitserin, pirouzum kislotasi_ va ayrim _dezaminlangan aminokislotalar_ singari kiçikroq birikmalar ham glukoza yoki unga yaqin birikmalarga, keyin esa glikogenga aylanişi mumkin."
+  },
+  "ch68-f27": {
+   "text": "_Glikogenoliz_ — hujayrada zaxiralangan glikogenning parçalanib, yana glukoza hosil qiliş jarayoni. Hosil bölgan glukozadan energiya oliş mumkin. Glikogenoliz glikogen sintezi reaksiyalarining teskari keçişi orqali yuz bermaydi. Glikogen polimerining har bir tarmoğidagi glukoza qoldiqlari _fosforilaza_ katalizlaydigan fosfat iştirokidagi parçalaniş orqali ketma-ket ajraladi."
+  },
+  "ch68-f28": {
+   "text": "Tinç holatda fosforilaza faol bölmagan şaklda böladi. Şu sababli glikogen zaxirada qoladi. Glikogendan qayta glukoza oliş kerak bölganda avval fosforilaza faollaşişi lozim. Bunga bir neça yöl bilan, jumladan quyida tuşuntiriladigan adrenalin va glukagon ta’sirida erişiladi."
+  },
+  "ch68-f29": {
+   "text": "_Adrenalin_ (epinefrin) va _glukagon_ fosforilazani faollaştirib, tez glikogenolizga sabab böla oladi. Har ikkala gormonning boşlanğiç ta’siri hujayrada _siklik AMP_ hosil bölişini kuçaytirişdir. Siklik AMP fosforilazani faollaştiruvçi ketma-ket kimyoviy reaksiyalarni boşlaydi. Bu jarayon 79-bobda batafsil yoritilgan.",
+   "lead": "Fosforilazaning adrenalin va glukagon orqali faollaşişi."
+  },
+  "ch68-f30": {
+   "text": "Simpatik nerv tizimi qözğalganda buyrak usti bezlarining mağiz qavatidan _adrenalin_ ajraladi. Şu tariqa simpatik nerv tizimi tez energiya almaşinuvi uçun glukozaning mavjudligini oşiradi. Adrenalinning bu ta’siri jigar va muşak hujayralarida ayniqsa kuçli. U simpatik qözğalişning boşqa ta’sirlari bilan birga organizmni faol harakatga tayyorlaydi. Bu mavzu 61-bobda körib çiqilgan."
+  },
+  "ch68-f31": {
+   "text": "Qonda glukoza konsentratsiyasi haddan taşqari pasayganda me’da osti bezining _alfa hujayralari_ _glukagon_ ajratadi. U asosan jigar hujayralarida siklik AMP hosil bölişini rağbatlantiradi. Natijada jigar glikogeni glukozaga aylanib, qonga çiqariladi va qondagi glukoza konsentratsiyasi kötariladi. Glukagonning qondagi glukozani boşqariş vazifasi 79-bobda muhokama qilinadi."
+  },
+  "ch68-f32": {
+   "text": "1 mol glukoza töliq oksidlanganda 686 000 kaloriya energiya ajraladi. 1 mol ATP hosil qiliş uçun esa taxminan 12 000 kaloriya kerak. Agar glukoza bir yöla suv va karbonat angidridga parçalanib, atigi bitta ATP molekulasi hosil qilsa, energiyaning katta qismi isrof bölardi. Hujayradagi maxsus fermentlar glukoza parçalanişini köp ketma-ket bosqiçga böladi. Bu energiyani oz-ozdan ajratib, ATP hosil qilişga imkon beradi. Darslikdagi hisobga köra, hujayrada metabolizmga uçragan har bir mol glukozadan jami 38 mol ATP hosil bölişi mumkin."
+  },
+  "ch68-f33": {
+   "text": "Keyingi qismlarda glukoza molekulasi qanday qilib bosqiçma-bosqiç parçalanişi va ajralgan energiya ATP hosil qiliş uçun qanday işlatilişining asosiy tamoyillari bayon qilinadi."
+  },
+  "ch68-f34": {
+   "text": "Glukozadan energiya olişning eng muhim yöli _glikolizdan_ boşlanadi. Glikolizning yakuniy mahsulotlari keyin oksidlanib, energiya beradi. Glikoliz — glukoza molekulasining _ikkita pirouzum kislotasi molekulasiga_ parçalanişidir."
+  },
+  "ch68-f35": {
+   "text": "Glikoliz **Rasm 68-5** da körsatilgan önta ketma-ket kimyoviy reaksiyadan iborat. Har bir bosqiçni kamida bitta maxsus oqsil-ferment katalizlaydi. Glukoza avval fruktoza-1,6-bisfosfatga aylanadi. Keyin u uç uglerodli glitseraldegid-3-fosfatning ikkita molekulasiga ajraladi. Har bir molekula yana beş bosqiçdan ötib, pirouzum kislotasiga aylanadi."
+  },
+  "ch68-f37": {
+   "text": "Glikoliz köp reaksiyadan iborat bölsa-da, aksariyat bosqiçlarda glukoza molekulasidagi erkin energiyaning oz qismi ajraladi. Ammo 1,3-bisfosfogliserat 3-fosfogliseratga va fosfoenolpiruvat piruvatga aylanganda ajraladigan energiya ATP hosil qiliş uçun kerak bölgan 12 000 kal/mol dan ortadi. Bu reaksiyalar ATP sintezi bilan tutaşgan. Şuning uçun piruvatgaça parçalangan har bir mol fruktoza-1,6-bisfosfatdan jami 4 mol ATP hosil böladi.",
+   "lead": "Glikolizda ATP hosil bölişi."
+  },
+  "ch68-f38": {
+   "text": "Dastlabki glukozani fosforlab fruktoza-1,6-bisfosfatga aylantiriş uçun 2 mol ATP sarflanadi. Şuning uçun _glikolizning sof çiqimi bir mol glukozaga atigi 2 mol ATP_ böladi. ATP ga 24 000 kaloriya energiya ötadi. Dastlabki glukoza glikoliz davomida jami 56 000 kaloriya energiya yöqotganidan ATP hosil böliş samaradorligi 43 foizni taşkil etadi. Qolgan 57 foiz issiqlik şaklida ajraladi."
+  },
+  "ch68-f39": {
+   "text": "Glukoza parçalanişining keyingi bosqiçida glikolizda hosil bölgan ikkita piruvat molekulasi (**Rasm 68-5**) ikki bosqiçda ikkita _atsetil-koenzim A_ (atsetil-KoA) molekulasiga aylanadi."
+  },
+  "ch68-f40": {
+   "text": "Har bir piruvat uçun umumiy reaksiya: piruvat + KoA-SH + NAD⁺ → atsetil-KoA + CO₂ + NADH + H⁺."
+  },
+  "ch68-f41": {
+   "text": "Ikki piruvat hisobiga ikki molekula karbonat angidrid va törtta vodorod atomi ajraladi. Piruvatlarning qolgan qismlari pantoten kislotasi vitaminining hosilasi bölgan koenzim A bilan birikib, ikki molekula atsetil-KoA hosil qiladi. Bu özgarişda ATP bevosita hosil bölmaydi. Darslik hisobiga köra, ajralgan tört vodorod keyin oksidlanganda oltitagaça ATP molekulasi hosil böladi."
+  },
+  "ch68-f42": {
+   "text": "Glukoza parçalanişining keyingi bosqiçi _limon kislotasi sikli_ deb ataladi. U _trikarbon kislotalar sikli_ yoki uni kaşf qilgan Hans Krebs nomi bilan _Krebs sikli_ ham deyiladi. Sikl atsetil-KoA ning atsetil qismini karbonat angidrid va vodorodgaça parçalaydigan kimyoviy reaksiyalardan iborat. Ular _mitoxondriya matriksida_ keçadi. Ajralgan vodorod keyin oksidlanib, katta miqdorda ATP hosil qiliş uçun energiya beradi."
+  },
+  "ch68-f43": {
+   "text": "**Rasm 68-6** limon kislotasi sikli reaksiyalarining turli bosqiçlarini körsatadi. Çapda reaksiyaga kiradigan moddalar, öngda hosil böladigan mahsulotlar berilgan. Sikl ustunning yuqorisida _oksaloatsetat_ bilan boşlanadi va reaksiyalar oxirida _oksaloatsetat_ qayta hosil böladi. Şu tariqa sikl qayta-qayta davom etadi."
+  },
+  "ch68-f45": {
+   "text": "Sikl boşida _atsetil-KoA_ _oksaloatsetat_ bilan birikib, _limon kislotasini_ hosil qiladi. Koenzim A ajraladi va piruvatdan yana atsetil-KoA hosil qiliş uçun qayta işlatiladi. Atsetil qismi esa limon kislotasi molekulasi tarkibiga kiradi. Keyingi bosqiçlarda bir neça molekula suv qöşiladi (**Rasm 68-6**, çap tomon). Boşqa bosqiçlarda _karbonat angidrid_ va _vodorod atomlari_ ajraladi (öng tomon)."
+  },
+  "ch68-f46": {
+   "text": "Siklning jami natijasi **Rasm 68-6** ostida berilgan. Metabolizmga kirgan har bir glukoza molekulasi hisobiga siklga ikki atsetil-KoA va olti suv molekulasi kiradi. Natijada tört karbonat angidrid molekulasi, 16 vodorod atomi va ikki koenzim A molekulasi ajraladi. Quyida bayon qilinganidek, ikki molekula ATP hosil böladi."
+  },
+  "ch68-f47": {
+   "text": "Siklning özida ATP şaklida köp energiya ajralmaydi. Siklning faqat bitta bosqiçida, α-ketoglutarat suksinatga aylanişi davomida, bitta ATP ekvivalenti hosil böladi. Bitta glukozadan çiqqan ikki atsetil-KoA sikldan ötganida har biridan bitta ATP ekvivalenti, jami ikkitasi olinadi.",
+   "lead": "Limon kislotasi siklida ATP hosil bölişi."
+  },
+  "ch68-f48": {
+   "text": "Glukoza parçalanişida glikolizdan törtta, piruvatdan atsetil-KoA hosil bölişidan törtta va limon kislotasi siklidan 16 ta vodorod atomi ajraladi. _Har bir dastlabki glukoza molekulasiga jami 24 ta vodorod atomi_ töğri keladi. Ular hujayra içidagi suyuqlikka erkin çiqarilmaydi. Vodorod juft-juft bölib ajraladi va har bir bosqiçni maxsus oqsil-ferment — _degidrogenaza_ katalizlaydi. 24 vodorod atomidan yigirmatasi niatsin vitamini hosilasi bölgan nikotinamid adenin dinukleotidga (NAD⁺) uzatiladi: NAD⁺ + 2[H] → NADH + H⁺."
+  },
+  "ch68-f49": {
+   "text": "Bu reaksiya tegişli degidrogenaza iştirokisiz yoki vodorodni taşuvçi NAD⁺ bölmasa keçmaydi. Erkin vodorod ioni ham, NADH tarkibiga ötgan vodorod ham keyinçalik köp miqdorda ATP hosil qiladigan oksidlaniş reaksiyalarida iştirok etadi."
+  },
+  "ch68-f50": {
+   "text": "Glukoza parçalanişida ajraladigan qolgan törtta vodorod atomi siklning suksinatdan fumaratga ötiş bosqiçiga töğri keladi. Ular maxsus degidrogenaza bilan boğlanadi, ammo NAD⁺ ga uzatilmaydi. Ular degidrogenazadan bevosita oksidlaniş jarayoniga uzatiladi."
+  },
+  "ch68-f51": {
+   "text": "Limon kislotasi sikli hamda piruvatdan atsetil-KoA hosil bölişi reaksiyalarining uç bosqiçida karbonat angidrid ajraladi. _Dekarboksilazalar_ deb ataluvçi maxsus oqsil-fermentlar karbonat angidridni substratdan ajratadi. U tana suyuqliklarida erib, öpkaga taşiladi va nafas orqali çiqariladi (41-bobga qarang).",
+   "lead": "Dekarboksilazalar karbonat angidridni qanday ajratadi."
+  },
+  "ch68-f52": {
+   "text": "Glikoliz, limon kislotasi sikli, degidrogenlaniş va dekarboksillaniş murakkab jarayonlar, lekin ularning özida kam ATP hosil böladi. Har bir glukoza molekulasi hisobiga glikolizdan sof ikki ATP, sikldan esa yana ikki ATP ekvivalenti olinadi. Glukoza almaşinuvidagi jami ATP ning qariyb 90 foizi dastlabki bosqiçlarda ajralgan vodorodning keyingi oksidlanişida hosil böladi. Oldingi bosqiçlarning asosiy vazifasi glukozadagi vodorodni oksidlana oladigan şaklga ötkazişdir."
+  },
+  "ch68-f53": {
+   "text": "**Rasm 68-7** da körsatilganidek, vodorod _mitoxondriyalarda_ fermentlar katalizlaydigan ketma-ket reaksiyalar orqali oksidlanadi. Avval har bir vodorod atomidan vodorod ioni va elektron ajraladi."
+  },
+  "ch68-f55": {
+   "text": "Keyin elektronlar suyuqlikda erigan kislorodning qaytarilişida iştirok etadi. Kislorod vodorod ionlari bilan birikib, suv hosil qiladi. Şu ketma-ket oksidlaniş reaksiyalarida ATP hosil qiliş uçun katta miqdorda energiya ajraladi. ATP ning bu yöl bilan hosil bölişi _oksidlovçi fosforlaniş_ deb ataladi. U mitoxondriyalarda _xemiosmotik mexanizm_ orqali yuz beradi."
+  },
+  "ch68-f56": {
+   "text": "Mitoxondriyadagi oksidlovçi fosforlanişning birinçi bosqiçi oziq substratlaridan ajratilgan vodorodni ionlaşdir. Vodorod atomlari juft bölib ajraladi. Bittasi darhol vodorod ioni (H⁺) böladi. Ikkinçisi NAD⁺ ga uzatilib, qaytarilgan nikotinamid adenin dinukleotid (NADH) hosil qiladi. NADH va H⁺ ning keyingi taqdiri **Rasm 68-7** ning yuqorisida körsatilgan. NADH vodorodni berib, yana bir H⁺ hosil bölişiga sabab böladi va qayta-qayta işlatiladigan NAD⁺ tiklanadi.",
+   "lead": "Vodorodning ionlanişi, elektron taşiş zanjiri va suv hosil bölişi."
+  },
+  "ch68-f57": {
+   "text": "Vodorod atomlari ionlanganda ajralgan elektronlar darhol mitoxondriyaning içki membranasi tarkibidagi _elektron taşiş zanjiriga_ kiradi. Zanjir a’zolari elektron qabul qilib qaytarilişi yoki elektron berib oksidlanişi mumkin."
+  },
+  "ch68-f58": {
+   "text": "Zanjirning muhim a’zolari flavoprotein (flavin mononukleotid), bir neça _temir-oltingugurtli oqsil_, _ubixinon_ va _B, C₁, C, A hamda A₃ sitoxromlaridir_. Har bir elektron akseptordan akseptorga ötib, oxirida A₃ sitoxromiga yetadi. U sitoxrom oksidaza tarkibida kislorodga elektron uzatilişida iştirok etadi. Qaytarilgan kislorod vodorod ionlari bilan birikib, suv hosil qiladi."
+  },
+  "ch68-f59": {
+   "text": "**Rasm 68-7** elektronlarning zanjir böylab taşilişini va sitoxrom oksidaza iştirokida ulardan suv hosil qiliş uçun foydalanilişini körsatadi. Elektronlar zanjir böylab ötganida ajralgan energiya ATP sinteziga sarflanadi."
+  },
+  "ch68-f60": {
+   "text": "Elektronlar zanjir böylab ötganida köp energiya ajraladi. Şu energiya vodorod ionlarini mitoxondriya matriksidan (**Rasm 68-7**, öng tomon) içki va taşqi membranalar orasidagi böşliqqa (çap tomon) haydaş uçun işlatiladi. Bu böşliqda musbat zaryadlangan vodorod ionlari konsentratsiyasi oşadi, matriksda esa kuçli manfiy elektr potensiali hosil böladi.",
+   "lead": "Elektron taşiş zanjiri protonlarni membranalar orasiga haydaş uçun energiya beradi."
+  },
+  "ch68-f61": {
+   "text": "Oksidlovçi fosforlanişning keyingi bosqiçida ADP ATP ga aylanadi. Bu jarayonda içki mitoxondriya membranasidan töliq ötgan, boşçasi matriksga çiqib turadigan yirik oqsil qatnaşadi (**Rasm 68-7**). Bu ferment _ATP-sintaza_ deb ataladi.",
+   "lead": "ATP hosil bölişi."
+  },
+  "ch68-f62": {
+   "text": "Membranalar orasidagi vodorod ionlarining yuqori konsentratsiyasi va içki membrananing ikki tomonidagi katta potensial farqi vodorod ionlarini _ATP-sintaza orqali_ matriksga qaytaradi. Ferment şu oqim energiyasidan foydalanib, ADP ga erkin anorganik fosfatni (Pᵢ) biriktiradi. Şu tariqa yuqori energiyali qöşimça fosfat boğiga ega ATP hosil böladi."
+  },
+  "ch68-f63": {
+   "text": "Oxirgi bosqiç — ATP ning mitoxondriyadan hujayra sitoplazmasiga ötişi. ATP içki membranadan taşuvçi yordamida, ötkazuvçan taşqi membranadan esa oddiy diffuziya orqali ötadi. ADP, aksinça, ATP ga aylaniş uçun uzluksiz içkariga taşiladi. _Darslik hisobiga köra, butun elektron taşiş zanjiridan ötadigan har ikki elektron uçun uçtagaça ATP molekulasi_ sintezlanadi. Bu ikki vodorod atomining ionlanişiga mos keladi."
+  },
+  "ch68-f64": {
+   "text": "Endi optimal şaroitda bitta glukoza molekulasi energiyasidan qança ATP hosil bölişini hisoblaş mumkin. 1. Glikolizda törtta ATP molekulasi hosil böladi."
+  },
+  "ch68-f65": {
+   "text": "Glukozaning dastlabki fosforlanişi uçun ikkita ATP sarflanadi. Şuning uçun glikolizning sof çiqimi _ikkita ATP molekulasidir_."
+  },
+  "ch68-f66": {
+   "text": "2. Limon kislotasi siklining har bir aylanişidan bitta ATP ekvivalenti olinadi. Har bir glukoza ikki piruvatga parçalangani sababli sikl ikki marta aylanadi va _yana ikkita ATP ekvivalenti_ beradi. 3. Glukoza parçalanişi davomida jami 24 ta vodorod atomi ajraladi. Ulardan 20 tasi **Rasm 68-7** dagi xemiosmotik mexanizm orqali oksidlanadi. Darslikdagi hisob böyiça har ikki vodorod atomiga uçta ATP, jami _30 ta ATP_ töğri keladi. 4. Qolgan törtta vodorod ekvivalenti zanjirning birinçi bosqiçidan keyingi joyga uzatiladi. Darslikda har ikki vodorod uçun ikkita, ya’ni _yana törtta ATP_ hisoblanadi. Şu model böyiça glukoza karbonat angidrid va suvgaça parçalanganda köpi bilan _38 ta ATP molekulasi_ hosil böladi. Bir mol glukoza töliq oksidlanganda ajraladigan 686 000 kaloriyadan 456 000 kaloriyasi ATP şaklida saqlanadi. Energiya uzatişning maksimal _samaradorligi_ şu hisobda 66 foiz. Qolgan 34 foiz issiqlikka aylanadi."
+  },
+  "ch68-f67": {
+   "text": "Hujayra energiyaga muhtoj bölmaganda ham glukozadan uzluksiz energiya ajralişi katta isrof bölar edi. Glikoliz va vodorodning keyingi oksidlanişi hujayraning ATP ga bölgan ehtiyojiga qarab boşqariladi. Buni reaksiyalar zanjiridagi bir neça qayta aloqa mexanizmi ta’minlaydi. Muhim mexanizmlardan biri hujayradagi ADP va ATP konsentratsiyalari energiya almaşinuvi reaksiyalarining tezligiga ta’sir qilişidir."
+  },
+  "ch68-f68": {
+   "text": "ATP energiya almaşinuvini _fosfofruktokinazani_ tormozlaş orqali boşqaradi. Bu ferment glikolizning dastlabki bosqiçlaridan birida fruktoza-1,6-bisfosfat hosil bölişini katalizlaydi. ATP ortib ketsa, glikoliz sekinlaşadi yoki töxtaydi va uglevod almaşinuvining katta qismi susayadi. ADP va AMP esa ferment faolligini oşiradi. Hujayradagi reaksiyalar ATP sarflaganda fosfofruktokinazaga tormozlovçi ta’sir kamayadi. Hosil bölgan ADP esa ferment faolligini oşiradi. Natijada glikoliz faollaşib, ATP zaxirasi tiklanadi."
+  },
+  "ch68-f69": {
+   "text": "Boşqaruvning yana bir böğini limon kislotasi siklida hosil böladigan _sitrat ionidir_. Sitrat ortiqça töplansa, _fosfofruktokinazani kuçli tormozlaydi_. Şu tariqa glikoliz piruvatni sikl undan foydalana oladigan tezlikdan ortiq işlab çiqarmaydi."
+  },
+  "ch68-f70": {
+   "text": "ATP–ADP–AMP tizimi uglevodlar, yoğlar va oqsillardan energiya ajralişini yana bir yöl bilan boşqaradi. Hujayradagi barça ADP ATP ga aylangan bölsa, qöşimça ATP hosil qilib bölmaydi. Natijada glukoza, yoğ va oqsillardan ATP hosil qiladigan reaksiyalar ketma-ketligi töxtaydi. Hujayra fiziologik vazifalari uçun ATP sarflaganda yangi ADP va AMP energiya ajralişini qayta işga tuşiradi. Ular deyarli darhol ATP ga qayta aylanadi. Şu yöl bilan ATP zaxirasi, juda oğir jismoniy iş kabi nihoyatda kuçli hujayra faolligi bundan mustasno, deyarli töliq saqlanadi."
+  },
+  "ch68-f71": {
+   "text": "Ba’zan kislorod yetişmaydi yoki umuman bölmaydi. Bunda oksidlovçi fosforlaniş keçmaydi. Şunday şaroitda ham uglevod parçalanişining glikoliz bosqiçi hujayraga oz miqdorda energiya bera oladi, çunki glukozaning piruvatgaça parçalaniş reaksiyalari kislorod talab qilmaydi."
+  },
+  "ch68-f72": {
+   "text": "Bu yöl glukozadan samarasiz foydalanadi. Har mol glukozadan atigi 24 000 kaloriya energiya ATP hosil qilişga ötadi. Bu glukozadagi jami energiyaning 3 foizidan sal köproq. Şunga qaramay, _anaerob energiya_ deb ataladigan bu energiya kislorod bölmaganda hujayralarning bir neça daqiqa yaşab turişiga imkon berişi mumkin."
+  },
+  "ch68-f73": {
+   "text": "_Massalar ta’siri qonuniga_ köra, muhitda reaksiya mahsulotlari yiğilgan sari sof reaksiya tezligi sekinlaşib, nolga yaqinlaşadi. Glikolizning ikki yakuniy mahsuloti (**Rasm 68-5**) — piruvat hamda NAD⁺ ga vodorod ötişidan hosil bölgan NADH va H⁺. Ulardan biri yoki ikkalasi töplanib qolsa, glikoliz hamda ATP hosil bölişi töxtaydi. Ularning miqdori oşganda laktat hosil böladi: piruvat + NADH + H⁺ ⇌ laktat + NAD⁺.",
+   "lead": "Anaerob glikolizda laktat hosil bölişi qöşimça anaerob energiya olişga imkon beradi."
+  },
+  "ch68-f74": {
+   "text": "Anaerob şaroitda piruvatning asosiy qismi laktatga aylanadi. Laktat hujayradan taşqari suyuqlikka, hatto faolligi pastroq boşqa hujayralarga ham oson ötadi. Glikoliz mahsulotlari şu tariqa ketkazilgani uçun jarayon uzoqroq davom etadi. Bu özgarişsiz glikoliz faqat bir neça soniya keça olardi. Laktat hosil bölişi hisobiga u nafasdan kislorod kelmayotganida ham bir neça daqiqa davom etib, qöşimça ATP beradi."
+  },
+  "ch68-f75": {
+   "text": "Anaerob almaşinuvdan keyin kislorod kelişi tiklanganda laktat tezda piruvatga aylanadi, şu bilan birga NADH va H⁺ hosil böladi. Bu mahsulotlarning katta qismi tezda oksidlanib, köp ATP beradi. Darslik hisobiga köra, şu ATP qolgan ortiqça piruvatning 75 foizigaça bölgan qismini qayta glukozaga aylantirişga imkon beradi.",
+   "lead": "Kislorod yana mavjud bölganda laktatning piruvatga aylanişi."
+  },
+  "ch68-f76": {
+   "text": "Anaerob glikolizda hosil bölgan köp miqdordagi laktat yöqotilmaydi. Kislorod tiklangaç, u glukozaga qaytarilişi yoki bevosita energiya manbai sifatida işlatilişi mumkin. Qayta glukozaga aylanişning asosiy qismi jigarda, kiçik qismi esa boşqa töqimalarda keçadi."
+  },
+  "ch68-f77": {
+   "text": "Yurak muşagi laktatni piruvatga aylantirişga va piruvatdan energiya olişga ayniqsa yaxşi moslaşgan. Bu jarayon oğir jismoniy maşqda kuçayadi. Skelet muşaklaridan qonga köp laktat çiqadi va yurak undan qöşimça energiya manbai sifatida foydalanadi.",
+   "lead": "Yurak laktatdan energiya manbai sifatida foydalanadi."
+  },
+  "ch68-f78": {
+   "text": "Tananing deyarli barça muşaklarida energiya uçun foydalaniladigan uglevodlarning deyarli hammasi glikolizda piruvatga parçalanadi, keyin oksidlanadi. Glukozani parçalaşning yana bir muhim mexanizmi _pentozafosfat yöli_ yoki _fosfoglukonat yöli_ deyiladi. Jigar glukoza parçalanişining _30 foizigaça_ bölgan qismi, yoğ hujayralarida esa bundan ham köproq qismi şu yölga töğri keladi."
+  },
+  "ch68-f79": {
+   "text": "Bu yöl limon kislotasi sikli fermentlaridan mustaqil işlaşi sababli hujayrada ayrim ferment buzilişlari yuz berganda energiya almaşinuvining muqobil yöli böla oladi. U hujayradagi köplab sintez jarayonlari uçun qaytaruvçi ekvivalentlarni yetkazib berişi bilan ham muhim."
+  },
+  "ch68-f80": {
+   "text": "**Rasm 68-8** bu yölning asosiy kimyoviy reaksiyalarini körsatadi. Bir neça bosqiçdan ötgan glukoza bitta karbonat angidrid molekulasi va törtta vodorod ekvivalentini ajratişi mumkin. Natijada beş uglerodli şakar — D-ribuloza hosil böladi. U boşqa beş, tört, yetti va uç uglerodli şakarlarga aylana oladi. Bu şakarlarning birikmalaridan glukoza qayta sintezlanadi. Lekin _reaksiyaga kirgan har olti glukoza molekulasidan faqat beştasi qayta hosil böladi_. Demak, siklning har bir töliq aylanişida bitta glukoza molekulasiga teng miqdor parçalanadi. Sikl takrorlanganda glukoza oxir-oqibat karbonat angidrid va vodorodga aylanişi mumkin. Darslikda ajralgan vodorod energiyasidan ATP hosil qilişda foydalaniş mumkinligi, ammo u köproq yoğ va boşqa moddalar sinteziga sarflanişi bayon qilinadi.",
+   "lead": "Pentozafosfat yölida karbonat angidrid va vodorod ajralişi."
+  },
+  "ch68-f82": {
+   "text": "Pentozafosfat siklida ajralgan vodorod glikolizdagidek NAD⁺ ga emas, _nikotinamid adenin dinukleotid fosfatga_ (NADP⁺) uzatiladi. NADP⁺ NAD⁺ ga juda öxşaydi, undan bitta qöşimça fosfat guruhi bilan farq qiladi. Bu farq muhim. Uglevodlardan yoğlarni (69-bobga qarang) va ayrim boşqa moddalarni sintezlaşda NADPH şaklidagi qaytaruvçi ekvivalentlardan foydalaniladi.",
+   "lead": "Yoğ sintezida vodoroddan foydalaniş va nikotinamid adenin dinukleotid fosfatning vazifasi."
+  },
+  "ch68-f83": {
+   "text": "Hujayra faolligi pastligi sabab glikoliz sekinlaşganda ham pentozafosfat yöli, ayniqsa jigarda, işlaşda davom etadi. U hujayraga kirişda davom etayotgan ortiqça glukozani parçalaydi. Hosil bölgan köp NADPH glukozadan olingan atsetil-KoA ni uzun zanjirli yoğ kislotalariga aylantirişga yordam beradi. Glukoza energiyasi şu tariqa _yoğ hosil qiliş va uni organizmda zaxiralaşga_ ham sarflanadi."
+  },
+  "ch68-f84": {
+   "text": "Glukoza energiya oliş uçun darhol kerak bölmasa, hujayralarga kirayotgan ortiqça glukoza glikogen şaklida zaxiralanadi yoki yoğga aylanadi. Avval glikogen zaxirasi hujayralar siğdira oladigan darajagaça töldiriladi. Bu zaxira organizm energiya talabini atigi 12–24 soat qondirişga yetadi. Asosan jigar va muşak hujayralaridagi zaxira tölişiga yaqinlaşgaç, qöşimça glukoza jigar va yoğ hujayralarida yoğga aylanadi va yoğ hujayralarida saqlanadi. Bu jarayonning boşqa kimyoviy bosqiçlari 69-bobda bayon qilingan."
+  },
+  "ch68-f85": {
+   "text": "Organizmdagi uglevod zaxirasi me’yordan tuşganda _aminokislotalar_ va yoğlarning _glitserin_ qismidan örtaça miqdorda glukoza hosil bölişi mumkin. Bu jarayon _glukoneogenez_ deyiladi."
+  },
+  "ch68-f86": {
+   "text": "Glukoneogenez oçlikda qondagi glukozaning haddan taşqari pasayişiga yöl qöymaslik uçun ayniqsa muhim. Glukoza miya va eritrotsitlar kabi töqimalarning asosiy energiya substrati. Ovqatlanişlar orasida ham qonda bir neça soat davomida yetarli glukoza bölişi kerak. Jigar oçlikda zaxiradagi glikogenni glukozaga aylantiriş (glikogenoliz) va asosan laktat hamda aminokislotalardan glukoza sintezlaş (glukoneogenez) orqali glukoza miqdorini saqlaydi. Darslik hisobiga köra, oçlikda jigar işlab çiqaradigan glukozaning taxminan 25 foizi glukoneogenezdan keladi. Bu miyani barqaror glukoza bilan ta’minlaşga yordam beradi. Uzoq davom etgan oçlikda buyraklar ham aminokislotalar va boşqa boşlanğiç moddalardan ança glukoza sintezlaydi."
+  },
+  "ch68-f87": {
+   "text": "Organizm oqsillaridagi aminokislotalarning taxminan 60 foizi uglevodlarga oson aylanadi. Qolgan 40 foizining kimyoviy tuzilişi buni qiyinlaştiradi yoki imkonsiz qiladi. Har bir aminokislotaning glukozaga aylaniş yöli biroz farq qiladi. Masalan, alanin dezaminlanib bevosita piruvatga aylanadi. Piruvatdan keyin glukoza yoki zaxira glikogeni hosil böladi. Murakkabroq ayrim aminokislotalar uç, tört, beş yoki yetti uglerodli şakarlarga aylanişi, söng fosfoglukonat yöliga kirib, oxirida glukoza hosil qilişi mumkin. Demak, dezaminlaniş va bir neça sodda özgariş orqali köp aminokislotalardan glukoza olinadi. Öxşaş reaksiyalar glitserinni glukoza yoki glikogenga aylantiradi."
+  },
+  "ch68-f88": {
+   "text": "Hujayradagi uglevod miqdori va qondagi glukoza pasayişi glukoneogenez tezligini oşiradigan asosiy omillardir. Uglevod kamayganda glikoliz va fosfoglukonat yölining köplab reaksiyalari teskari tomonga siljişi mumkin. Bu dezaminlangan aminokislotalar va glitserindan uglevod hosil bölişiga imkon beradi. Quyida tuşuntirilganidek, bu boşqaruvda _kortizol_ gormoni ham ayniqsa muhim."
+  },
+  "ch68-f89": {
+   "text": "Hujayralarga odatdagi miqdorda uglevod yetib kelmasa, buning töliq aniqlanmagan sabablari tufayli adenogipofiz köproq _adrenokortikotrop gormon_ (ACTH) ajratadi. Bu gormon kortikotropin yoki adrenokortikotropin deb ham ataladi.",
+   "lead": "Adrenokortikotrop gormon va glukokortikoidlarning glukoneogenezga ta’siri."
+  },
+  "ch68-f90": {
+   "text": "ACTH buyrak usti bezlari pöstloğida _glukokortikoidlar_, ayniqsa _kortizol_ işlab çiqarilişini kuçaytiradi. Kortizol deyarli barça töqimalarda oqsillarning safarbar qilinişiga sabab böladi va ular tana suyuqliklariga aminokislotalar şaklida çiqadi. Aminokislotalarning katta qismi jigarda tezda dezaminlanib, glukoza sintezi uçun substrat böladi. Demak, buyrak usti bezi pöstloğidan glukokortikoidlar ajralişi glukoneogenezni kuçaytiruvçi muhim mexanizmlardan biridir."
+  },
+  "ch68-f91": {
+   "text": "Oxirgi 3–4 soatda ovqatlanmagan odamda qondagi glukoza konsentratsiyasi odatda taxminan 90 mg/dl. Uglevodga boy ovqatdan keyin qandli diabeti bölmagan odamda bu körsatkiç kamdan-kam hollarda 140 mg/dl dan oşadi. Qandli diabet 79-bobda körib çiqiladi."
+  },
+  "ch68-f92": {
+   "text": "Qondagi glukoza miqdorining boşqarilişi me’da osti bezining insulin va glukagon gormonlari bilan çambarças boğliq. Bu gormonlarning vazifalari 79-bobda batafsil bayon qilinadi."
+  }
+ },
+ "figures": {
+  "gh14-fig-68-01": "Adenozin trifosfat organizmning energiya hosil qiluvçi va energiya sarflovçi tizimlari orasidagi asosiy boğlovçi böğin. ADP — adenozin difosfat, Pᵢ — anorganik fosfat.",
+  "gh14-fig-68-02": "Adenozin trifosfatning kimyoviy tuzilişi.",
+  "gh14-fig-68-03": "Jigar hujayralarida uç asosiy monosaxarid — glukoza, fruktoza va galaktozaning bir-biriga aylanişi. ATP — adenozin trifosfat.",
+  "gh14-fig-68-04": "Glikogenez va glikogenoliz reaksiyalari hamda qon glukozasi bilan jigar glikogenining özaro aylanişi. Glukozani hujayradan çiqariş uçun kerakli fosfataza jigar hujayralarida bor, köpçilik boşqa hujayralarda esa yöq.",
+  "gh14-fig-68-05": "Glikolizning ketma-ket kimyoviy reaksiyalari.",
+  "gh14-fig-68-06": "Limon kislotasi siklining kimyoviy reaksiyalari. Sikl davomida karbonat angidrid va vodorod atomlari ajralişi körsatilgan. ADP — adenozin difosfat, ATP — adenozin trifosfat.",
+  "gh14-fig-68-07": "Mitoxondriyada köp miqdorda ATP hosil qiladigan oksidlovçi fosforlanişning xemiosmotik mexanizmi. Çizmada oksidlaniş va fosforlaniş bosqiçlarining mitoxondriya taşqi hamda içki membranalari bilan boğliqligi körsatilgan. ADP — adenozin difosfat, FeS — temir-oltingugurtli oqsil, FMN — flavin mononukleotid, NAD⁺ — nikotinamid adenin dinukleotid, NADH — uning qaytarilgan şakli, Q — ubixinon.",
+  "gh14-fig-68-08": "Glukoza almaşinuvining pentozafosfat yöli. Tafsilotlar matnda bayon qilingan."
+ }
+}

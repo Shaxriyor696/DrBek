@@ -1,0 +1,435 @@
+{
+ "lessonId": "ch32",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 32,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "manual",
+ "translator": "Claude (DrStudy sessiyasi)",
+ "model": null,
+ "createdAt": "2026-11-20T14:37:27.217Z",
+ "updatedAt": "2026-11-20T14:37:27.218Z",
+ "coverage": {
+  "translated": 141,
+  "total": 141
+ },
+ "note": "Kitob matnining töliq özbekça tarjimasi (qisqartirilmagan). Ekspert tekşiruvidan ötmagan.",
+ "blocks": {
+  "ch32-f0": {
+   "text": "Diuretiklar va ularning ta’sir mexanizmlari"
+  },
+  "ch32-f1": {
+   "text": "Diuretiklar, nomidan ham körinib turibdiki, ajraladigan siydik hajmini oşiradi. Köpçilik diuretiklar erigan moddalarning, ayniqsa natriy va xloridning siydik bilan çiqarilişini ham oşiradi. Aslida klinikada qöllaniladigan diuretiklarning aksariyati buyrak kanalçalarida natriy reabsorbsiyasini kamaytiriş orqali ta’sir qiladi; bu natriurezga (natriy çiqarilişining ortişiga), u esa öz navbatida diurezga (suv çiqarilişining ortişiga) olib keladi. Boşqaça aytganda, köp hollarda suv ekskretsiyasining ortişi kanalçalardagi natriy reabsorbsiyasi tormozlanişiga ikkilamçi ravişda yuzaga keladi, çunki kanalçalarda qolgan natriy osmotik ta’sir körsatib, suv reabsorbsiyasini kamaytiradi. Kaliy, xlorid, magniy va kalsiy kabi köplab erigan moddalarning buyrak kanalçalarida reabsorbsiyasi ham ikkilamçi ravişda natriy reabsorbsiyasiga boğliq bölgani uçun, köp diuretiklar bu moddalarning buyrak orqali çiqarilişini ham oşiradi."
+  },
+  "ch32-f2": {
+   "text": "Diuretiklar klinikada eng köp hujayradan taşqari suyuqlik hajmini kamaytiriş uçun, ayniqsa şiş bilan keçadigan kasalliklarda va gipertenziyada qöllaniladi. 25-bobda muhokama qilinganidek, organizmdan natriy yöqotilişi asosan hujayradan taşqari suyuqlik hajmini kamaytiradi; şu sababli diuretiklar odatda hujayradan taşqari suyuqlik hajmi kengaygan klinik holatlarda buyuriladi."
+  },
+  "ch32-f3": {
+   "text": "Ba’zi diuretiklar yuborilgandan keyin bir neça daqiqa içida siydik ajralişini 20 martadan ham köproq oşirişi mumkin. Biroq köpçilik diuretiklarning buyrak orqali tuz va suv çiqarilişiga ta’siri bir neça kun içida susayadi, çunki hujayradan taşqari suyuqlik hajmining kamayişi kompensator mexanizmlarni işga tuşiradi (**Rasm 32-1**). Masalan, hujayradan taşqari suyuqlik hajmining kamayişi arterial bosimni va koptokçalar filtratsiyasi tezligini (GFR) pasaytirişi, renin sekretsiyasini va angiotenzin II (Ang II) hosil bölişini oşirişi mumkin; bu javoblarning barçasi birgalikda oxir-oqibat diuretikning siydik ajralişiga surunkali ta’sirini bosib ketadi. Şunday qilib, barqaror holatda siydik ajralişi iste’mol qilingan miqdorga tenglaşadi, ammo bu faqat arterial bosim va hujayradan taşqari suyuqlik hajmi kamaygandan keyin röy beradi; natijada dastlab diuretik qöllanişiga sabab bölgan gipertenziya yoki şiş yengillaşadi."
+  },
+  "ch32-f5": {
+   "text": "Klinikada qöllaniladigan köplab diuretiklarning ta’sir mexanizmlari turliça, şuning uçun ular buyrak nefroni böylab turli joylarda kanalça reabsorbsiyasini tormozlaydi."
+  },
+  "ch32-f6": {
+   "text": "Diuretiklarning asosiy sinflari, ularning ta’sir mexanizmlari va kanalçalardagi ta’sir joylari **Jadval 32-1** da keltirilgan."
+  },
+  "ch32-f8": {
+   "text": "Osmotik diuretiklar kanalça suyuqligining osmotik bosimini oşirib, suv reabsorbsiyasini kamaytiradi"
+  },
+  "ch32-f9": {
+   "text": "Koptokça kapillyarlarida filtrlanadigan, ammo buyrak kanalçalarida oson reabsorbsiyalanmaydigan moddalar — masalan, moçevina, mannitol va saxaroza — qonga yuborilsa, kanalçalarda osmotik faol molekulalar konsentratsiyasi keskin ortadi. Bu erigan moddalarning osmotik bosimi suv reabsorbsiyasini kamaytiradi va kanalça suyuqligining katta qismini siydikka yuvib çiqaradi."
+  },
+  "ch32-f10": {
+   "text": "Kanalça suyuqligidan reabsorbsiyalana olmaydigan erigan moddalar ortiqça böladigan ayrim kasalliklarda ham katta hajmda siydik hosil böladi. Masalan, qandli diabetda qondagi glukoza konsentratsiyasi yuqori darajaga kötarilganda kanalçalarga filtrlangan glukoza yuklamasi ularning glukozani reabsorbsiyalaş imkoniyatidan oşib ketadi (ya’ni glukoza uçun _transport maksimumidan_ oşadi). Plazmadagi glukoza konsentratsiyasi taxminan 250 mg/dl dan oşganda ortiqça glukozaning ozgina qismigina kanalçalarda reabsorbsiyalanadi; qolgan ortiqça glukoza kanalçalarda qoladi, osmotik diuretik vazifasini bajaradi va siydik oqimi tezligini oşiradi. Şu sababli nazorat qilinmagan qandli diabetning asosiy belgilaridan biri _poliuriya_ (tez-tez siyiş) bölib, u suvsizlaniş, hujayradan taşqari suyuqlik osmolyarligining ortişi va çanqoq mexanizmining faollaşuviga ikkilamçi ravişda köp suyuqlik içiş _(polidipsiya)_ bilan muvozanatlaşadi."
+  },
+  "ch32-f11": {
+   "text": "Qovuzloq diuretiklari Genle qovuzloğining yöğon kötariluvçi qismida natriy-xlorid-kaliy reabsorbsiyasini kamaytiradi"
+  },
+  "ch32-f12": {
+   "text": "_Furosemid, etakrin kislota_ va _bumetanid_ kuçli diuretiklar bölib, epiteliy hujayralarining lyuminal membranasida joylaşgan 1-natriy, 2-xlorid, 1-kaliy kotransporterini bloklaş orqali Genle qovuzloğining yöğon kötariluvçi qismida reabsorbsiyani kamaytiradi (qarang: **Rasm 28-9**). Bu qovuzloq diuretiklari klinikada qöllaniladigan eng kuçli diuretiklar qatoriga kiradi."
+  },
+  "ch32-f13": {
+   "text": "Genle qovuzloği lyuminal membranasida natriy-xlorid-kaliy kotransportini bloklab, qovuzloq diuretiklari natriy, xlorid, kaliy va boşqa elektrolitlarning, şuningdek suvning siydik bilan çiqarilişini ikki sababga köra oşiradi: (1) ular nefronlarning distal qismlariga yetkaziladigan erigan moddalar miqdorini keskin oşiradi va bu moddalar osmotik agent sifatida suv reabsorbsiyasiga tösqinlik qiladi; (2) ular Genle qovuzloğidan mağiz interstitsiysiga ionlar sörilişini kamaytirib, qarama-qarşi oqimli köpaytiruvçi tizimni buzadi va şu bilan mağiz interstitsial suyuqligining osmolyarligini pasaytiradi. Şuning uçun qovuzloq diuretiklari buyraklarning siydikni konsentrlaş yoki suyultiriş qobiliyatini susaytiradi. Siydikning suyultirilişi buziladi, çunki Genle qovuzloğida natriy va xlorid reabsorbsiyasining tormozlanişi bu ionlarning köproq çiqarilişiga va suv ekskretsiyasining ortişiga olib keladi. Siydikni konsentrlaş qobiliyati buziladi, çunki buyrak mağzi interstitsial suyuqligida bu ionlarning konsentratsiyasi, demak, buyrak mağzining osmolyarligi ham pasayadi. Natijada yiğuvçi nayçalardan suyuqlik reabsorbsiyasi kamayadi, şuning uçun buyraklarning maksimal konsentrlaş qobiliyati ham keskin pasayadi. Bundan taşqari, buyrak mağzi interstitsial suyuqligi osmolyarligining pasayişi Genle qovuzloğining tuşuvçi qismidan suv reabsorbsiyasini kamaytiradi. Bu köp tomonlama ta’sirlar tufayli koptokça filtratining 20–30% i siydikka ötişi mumkin; bu esa ötkir şaroitda kamida bir neça daqiqa davomida siydik ajralişini me’yordagidan 25 martagaça oşiradi."
+  },
+  "ch32-f14": {
+   "text": "Tiazid diuretiklari distal kanalçaning boşlanğiç qismida natriy-xlorid reabsorbsiyasini tormozlaydi"
+  },
+  "ch32-f15": {
+   "text": "Xlorotiazid kabi tiazid hosilalari asosan distal kanalçalarning boşlanğiç qismiga ta’sir qilib, kanalça hujayralari lyuminal membranasidagi natriy-xlorid kotransporterini bloklaydi (qarang: **Rasm 28-10**). Qulay şaroitda bu vositalar koptokça filtratining köpi bilan 5–10% ini siydikka ötkazişi mumkin; bu taxminan me’yorda distal kanalçalarda reabsorbsiyalanadigan natriy miqdoriga teng."
+  },
+  "ch32-f16": {
+   "text": "Karboangidraza ingibitorlari natriy bikarbonat reabsorbsiyasini bloklaydi"
+  },
+  "ch32-f17": {
+   "text": "_Atsetazolamid_ 31-bobda muhokama qilinganidek, buyrak kanalçalarida bikarbonat (HCO3−) reabsorbsiyasi uçun hal qiluvçi ahamiyatga ega bölgan _karboangidraza_ fermentini tormozlaydi. Karboangidraza ayniqsa proksimal kanalçada köp böladi; bu yer karboangidraza ingibitorlarining asosiy ta’sir joyi hisoblanadi. Karboangidrazaning bir qismi boşqa kanalça hujayralarida, masalan, yiğuvçi kanalçaning oraliq (interkalyar) hujayralarida ham mavjud."
+  },
+  "ch32-f18": {
+   "text": "Proksimal kanalçalarda vodorod ioni (H+) sekretsiyasi va HCO3− reabsorbsiyasi lyuminal membranadagi natriy-vodorod ioni qarama-qarşi transport (antiport) mexanizmi orqali natriy reabsorbsiyasi bilan boğlangani uçun HCO3− reabsorbsiyasining kamayişi natriy reabsorbsiyasini ham kamaytiradi. Kanalça suyuqligidan natriy va HCO3− reabsorbsiyasining bloklanişi bu ionlarning kanalçalarda qolib, osmotik diuretik sifatida ta’sir qilişiga sabab böladi. Kutilganidek, karboangidraza ingibitorlarining kamçiligi şundaki, ular siydik bilan HCO3− ning ortiqça yöqotilişi tufayli ma’lum darajada atsidozga olib keladi."
+  },
+  "ch32-f19": {
+   "text": "Mineralokortikoid retseptor antagonistlari yiğuvçi kanalçalarda natriy reabsorbsiyasini va kaliy sekretsiyasini kamaytiradi"
+  },
+  "ch32-f20": {
+   "text": "_Spironolakton_ va _eplerenon_ — mineralokortikoid retseptor antagonistlari bölib, ular yiğuvçi kanalça va yiğuvçi nayça epiteliy hujayralaridagi retseptorlar bilan boğlaniş joylari uçun aldosteron bilan raqobatlaşadi va şu sababli bu kanalça segmentlarida natriy reabsorbsiyasini hamda kaliy sekretsiyasini kamaytirişi mumkin (qarang: **Rasm 28-12**). Natijada natriy kanalçalarda qoladi va osmotik diuretik sifatida ta’sir qilib, natriy bilan birga suv ekskretsiyasini ham oşiradi. Bu dorilar aldosteronning kanalçalarda kaliy sekretsiyasini kuçaytiruvçi ta’sirini ham bloklagani uçun kaliy ekskretsiyasini kamaytiradi."
+  },
+  "ch32-f21": {
+   "text": "Mineralokortikoid retseptor antagonistlari kaliyning hujayralardan hujayradan taşqari suyuqlikka çiqişiga ham sabab böladi. Ayrim hollarda bu hujayradan taşqari suyuqlikda kaliy konsentratsiyasining haddan taşqari oşişiga olib keladi. Şu sababli spironolakton va boşqa mineralokortikoid retseptor antagonistlari _kaliy tejovçi diuretiklar_ deb ataladi. Kaliy yöqotilişini tejaydigan mineralokortikoid retseptor antagonistlaridan farqli ölaroq, boşqa köplab diuretiklar siydik bilan kaliy yöqotilişiga olib keladi."
+  },
+  "ch32-f22": {
+   "text": "Natriy kanali blokatorlari yiğuvçi kanalçalarda natriy reabsorbsiyasini kamaytiradi"
+  },
+  "ch32-f23": {
+   "text": "_Amilorid_ va _triamteren_ ham spironolakton ta’siriga öxşab, yiğuvçi kanalçalarda natriy reabsorbsiyasini va kaliy sekretsiyasini tormozlaydi. Biroq hujayra darajasida bu dorilar bevosita yiğuvçi kanalça epiteliy hujayralari lyuminal membranasidagi natriy kanallari orqali natriy kirişini bloklaydi (qarang: **Rasm 28-12**). Epiteliy hujayralariga natriy kirişi kamaygani sababli hujayralarning bazolateral membranasi orqali natriy transporti ham kamayadi, demak, natriy-kaliy–adenozintrifosfataza nasosining (Na+-K+ ATFaza nasosi) faolligi ham pasayadi. Bu faollikning pasayişi kaliyning hujayralarga taşilişini kamaytiradi va oxir-oqibat kaliyning kanalça suyuqligiga sekretsiyasini kamaytiradi. Şu sababli natriy kanali blokatorlari ham kaliy tejovçi diuretiklar bölib, kaliyning siydik bilan çiqariliş tezligini kamaytiradi."
+  },
+  "ch32-f24": {
+   "text": "Buyrak kasalliklari"
+  },
+  "ch32-f25": {
+   "text": "Buyrak kasalliklari dunyoning köplab mamlakatlarida ölim va nogironlikning eng muhim sabablaridan biri hisoblanadi. Masalan, 2018-yilda Amerika Qöşma Ştatlarida kattalarning 14% dan ortiği, ya’ni 30 milliondan ortiq kişi surunkali buyrak kasalligiga çalingan deb baholangan; yana millionlab odamlarda buyrakning ötkir şikastlanişi yoki buyrak faoliyati buzilişining yengilroq şakllari mavjud."
+  },
+  "ch32-f26": {
+   "text": "Oğir buyrak kasalliklarini ikki asosiy toifaga böliş mumkin: 1. _Buyrakning ötkir şikastlanişi_ (AKI) — bunda buyrak faoliyati bir neça kun içida tösatdan yöqoladi. _Ötkir buyrak yetişmovçiligi_ atamasi odatda buyrakning oğir ötkir şikastlanişi uçun işlatiladi; bunda buyraklar tösatdan butunlay yoki deyarli butunlay işlaşdan töxtaşi mumkin va bob davomida muhokama qilinadigan dializ kabi buyrak örnini bosuvçi terapiya talab etiladi. Ayrim hollarda AKI bölgan bemorlarda oxir-oqibat buyrak faoliyati deyarli me’yorgaça tiklanişi mumkin. 2. _Surunkali buyrak kasalligi_ (CKD) — bunda tobora köproq nefronlarning faoliyati zörayib boruvçi tarzda yöqoladi va buyrakning umumiy faoliyati asta-sekin pasayadi. Bu ikki umumiy toifa doirasida buyrak qon tomirlari, koptokçalar, kanalçalar, buyrak interstitsiysi va buyrakdan taşqaridagi siydik yöllari qismlari, jumladan siydik yöllari va qovuqni zararlaşi mumkin bölgan köplab öziga xos buyrak kasalliklari mavjud. Uşbu bobda buyrak kasalliklarining bir neçta muhimroq turlarida yuzaga keladigan öziga xos fiziologik özgarişlarni muhokama qilamiz."
+  },
+  "ch32-f27": {
+   "text": "Buyrakning ötkir şikastlanişi"
+  },
+  "ch32-f28": {
+   "text": "AKI sabablari köpinça uçta asosiy toifaga bölinadi: 1. Buyraklarga qon kelişining kamayişi natijasida yuzaga keladigan AKI. Bu holat köpinça buyrakdan taşqarida boşlanadigan buzilişni aks ettiriş uçun _prerenal AKI_ deb ataladi. Masalan, prerenal AKI yurak çiqarişi kamaygan va qon bosimi past bölgan yurak yetişmovçiligining yoki oğir qon ketiş kabi qon hajmi kamayişi va qon bosimi pasayişi bilan keçadigan holatlarning oqibati bölişi mumkin. 2. _Renal (buyrak içi) AKI_ — buyrakning özidagi, jumladan qon tomirlari, koptokçalar yoki kanalçalarga ta’sir qiluvçi buzilişlar natijasida yuzaga keladi. 3. _Postrenal AKI_ — siydik yiğuvçi tizimning kosaçalardan tortib qovuqdan çiqiş joyigaça bölgan istalgan qismida tösiq (obstruksiya) bölişi natijasida yuzaga keladi. Buyrakdan taşqaridagi siydik yöllari obstruksiyasining eng köp uçraydigan sababi kalsiy, urat yoki sistin çökişi natijasida hosil böladigan buyrak toşlaridir. AKI ning sepsis kabi ba’zi muhim sabablarida prerenal (masalan, qon bosimining pasayişi) va renal (endoteliy va kanalçalar şikastlanişi) buzilişlar bir vaqtda yuzaga kelişi mumkin."
+  },
+  "ch32-f29": {
+   "text": "Buyrakka qon oqimi kamayişi natijasida yuzaga keladigan prerenal ötkir şikastlaniş"
+  },
+  "ch32-f30": {
+   "text": "Me’yorda buyraklar taxminan 1100 ml/min, ya’ni yurak çiqarişining taxminan 20–25% ini taşkil qiluvçi möl qon bilan ta’minlanadi. Buyraklarga bunday yuqori qon oqimining asosiy maqsadi — tana suyuqliklari hajmi va erigan moddalar konsentratsiyasini samarali boşqariş uçun zarur bölgan yuqori koptokça filtratsiyasini ta’minlaşga yetarli plazma yetkazib berişdir. Şu sababli buyrak qon oqimining kamayişi odatda GFR ning pasayişi hamda suv va erigan moddalarning siydik bilan çiqarilişi kamayişi bilan keçadi. Natijada buyraklarga qon oqimini ötkir kamaytiradigan holatlar odatda _oliguriyaga_ — siydik ajralişining iste’mol qilingan suv va erigan moddalar miqdoridan pastroq darajaga kamayişiga olib keladi. Bu holat tana suyuqliklarida suv va erigan moddalar töplanişiga sabab böladi. Agar buyrak qon oqimi keskin kamaysa, siydik ajralişi butunlay töxtaşi mumkin; bu holat _anuriya_ deb ataladi."
+  },
+  "ch32-f31": {
+   "text": "Buyrak qon oqimi me’yorning taxminan 20–25% idan pastga tuşmagan ekan, işemiya sababi buyrak hujayralari şikastlanişidan oldin bartaraf etilsa, AKI odatda qaytar böladi. Ba’zi töqimalardan farqli ölaroq, buyrak hujayralari jiddiy şikastlanmasdan oldin buyrak qon oqimining nisbatan katta kamayişiga bardoş bera oladi. Buning sababi şundaki, buyrak qon oqimi kamayganda GFR va koptokçalarda filtrlanadigan natriy xlorid miqdori (şuningdek, suv va boşqa elektrolitlarning filtratsiya tezligi) ham kamayadi. Bu kanalçalarda reabsorbsiyalanişi kerak bölgan natriy xlorid miqdorini kamaytiradi; holbuki aynan kanalçalar me’yoriy buyrak sarflaydigan energiya va kislorodning katta qismini işlatadi. Şu sababli buyrak qon oqimi va GFR pasayganda buyrakning kislorod iste’moli ham kamayadi. GFR nolga yaqinlaşganda buyrakning kislorod iste’moli buyrak kanalça hujayralarini natriy reabsorbsiyalamayotgan holatda tirik saqlaş uçun zarur bölgan darajaga yaqinlaşadi. Qon oqimi odatda me’yoriy buyrak qon oqimining 20–25% idan kam bölgan bu bazal ehtiyojdan pastga tuşganda buyrak hujayralari gipoksiyaga uçraydi; buyrak qon oqimining yanada kamayişi uzoq davom etsa, buyrak hujayralarining, ayniqsa kanalça epiteliy hujayralarining şikastlanişiga yoki hatto halok bölişiga olib keladi."
+  },
+  "ch32-f32": {
+   "text": "Agar prerenal AKI sababi bartaraf etilmasa va buyrak işemiyasi bir neça soatdan uzoq davom etsa, buyrak yetişmovçiligining bu turi keyinroq muhokama qilinadigan renal AKI ga aylanişi mumkin. Buyrak qon oqimining ötkir kamayişi kasalxonada yotgan bemorlarda, ayniqsa oğir jarohat olganlarda AKI ning keng tarqalgan sababidir. **Jadval 32-2** da buyrak qon oqimi kamayişi va prerenal AKI ning ba’zi keng tarqalgan sabablari keltirilgan."
+  },
+  "ch32-f33": {
+   "text": "Buyrakdagi buzilişlar natijasida yuzaga keladigan renal ötkir şikastlaniş"
+  },
+  "ch32-f34": {
+   "text": "Buyrakning özida boşlanadigan va siydik ajralişini tösatdan kamaytiradigan buzilişlar _renal AKI_ ning umumiy toifasiga kiradi. AKI ning bu toifasini yana quyidagilarga böliş mumkin: (1) koptokça kapillyarlarini yoki buyrakning boşqa mayda tomirlarini şikastlovçi holatlar; (2) buyrak kanalçalari epiteliysini zararlovçi holatlar; (3) buyrak interstitsiysini şikastlovçi holatlar. Bunday tasnif şikastlanişning birlamçi joyiga asoslanadi, ammo buyrak tomirlari va kanalçalar tizimi funksional jihatdan bir-biriga boğliq bölgani uçun buyrak qon tomirlarining şikastlanişi kanalçalar şikastlanişiga, kanalçalarning birlamçi şikastlanişi esa buyrak qon tomirlari şikastlanişiga olib kelişi mumkin. Renal ötkir buyrak şikastlanişining ba’zi sabablari **Jadval 32-3** da keltirilgan."
+  },
+  "ch32-f36": {
+   "text": "Glomerulonefrit natijasida yuzaga keladigan buyrakning ötkir şikastlanişi"
+  },
+  "ch32-f37": {
+   "text": "Ötkir glomerulonefrit — odatda koptokçalarni şikastlovçi ğayritabiiy immun reaksiya natijasida yuzaga keladigan _renal AKI_ turi. Bu kasallikka çalingan bemorlarning taxminan 95% ida koptokçalar şikastlanişi organizmning boşqa joyidagi infeksiyadan 1–3 hafta ötgaç yuzaga keladi; bu infeksiyani köpinça A guruhiga mansub beta-streptokokklarning ayrim turlari keltirib çiqaradi. Infeksiya streptokokkli tomoq oğriği, streptokokkli tonzillit yoki hatto terining streptokokkli infeksiyasi bölişi mumkin. Buyraklarni infeksiyaning özi şikastlamaydi. Aksinça, bir neça hafta davomida streptokokk antigeniga qarşi antitanalar hosil bölgaç, antitanalar va antigen özaro reaksiyaga kirişib, erimaydigan immun kompleks hosil qiladi; bu kompleks koptokçalarda, ayniqsa ularning bazal membranasi qismida tutilib qoladi."
+  },
+  "ch32-f39": {
+   "text": "Immun kompleks koptokçalarda çökkandan söng koptokça hujayralarining köpçiligi, asosan endoteliy va epiteliy orasida joylaşgan mezangial hujayralar köpaya boşlaydi. Bundan taşqari, koptokçalarda köp sonli oq qon hujayralari tutilib qoladi. Bu yalliğlaniş reaksiyasi tufayli koptokçalarning köpçiligi berkilib qoladi, berkilmaganlari esa odatda haddan taşqari ötkazuvçan bölib, koptokça kapillyarlari qonidan oqsil va qizil qon hujayralarining koptokça filtratiga sizib ötişiga yöl qöyadi. Oğir hollarda buyrak faoliyati butunlay yoki deyarli butunlay töxtaydi."
+  },
+  "ch32-f40": {
+   "text": "Koptokçalarning ötkir yalliğlanişi odatda taxminan 2 hafta içida sönadi va köpçilik bemorlarda keyingi bir neça hafta yoki bir neça oy içida buyrak faoliyati deyarli me’yorga qaytadi. Biroq ba’zan koptokçalarning köpçiligi tiklab bölmas darajada yemiriladi va bemorlarning kiçik bir qismida buyrak faoliyatining zörayib boruvçi yomonlaşuvi çeksiz davom etib, uşbu bobning keyingi bölimida tavsiflanganidek, CKD ga olib keladi."
+  },
+  "ch32-f41": {
+   "text": "Kanalçalar nekrozi buyrakning ötkir şikastlanişi sababi sifatida"
+  },
+  "ch32-f42": {
+   "text": "Renal ötkir buyrak yetişmovçiligining yana bir sababi _kanalçalar nekrozi_ bölib, bu kanalçalardagi epiteliy hujayralarining yemirilişini anglatadi. Kanalçalar nekrozining ba’zi keng tarqalgan sabablari quyidagilar: (1) oğir işemiya hamda kanalça epiteliy hujayralarining kislorod va oziq moddalar bilan yetarliça ta’minlanmasligi; (2) kanalça epiteliy hujayralarini yemiruvçi zaharlar, toksinlar yoki dori vositalari."
+  },
+  "ch32-f43": {
+   "text": "Buyrakning oğir işemiyasi sirkulyator şok yoki buyraklarning qon bilan ta’minlanişini keskin buzadigan boşqa holatlar natijasida yuzaga kelişi mumkin. Agar işemiya buyrak kanalça epiteliy hujayralariga oziq moddalar va kislorod yetkazilişini jiddiy buzadigan darajada oğir bölsa va zararli ta’sir uzoq davom etsa, epiteliy hujayralari şikastlanişi yoki oxir-oqibat yemirilişi mumkin. Bunday şikastlaniş yuz berganda kanalça hujayralari köçib tuşadi va köplab nefronlarni tiqib qöyadi, natijada berkilgan nefronlardan siydik ajralmaydi; kanalçalar tiqilib turgan ekan, buyrak qon oqimi me’yorga qaytgan taqdirda ham zararlangan nefronlar köpinça siydik çiqara olmaydi. Kanalça epiteliysi işemik şikastlanişining eng köp uçraydigan sabablari — bobning avvalida muhokama qilingan, sirkulyator şok bilan boğliq prerenal AKI sabablaridir.",
+   "lead": "Oğir buyrak işemiyasi natijasida yuzaga keladigan ötkir kanalçalar nekrozi."
+  },
+  "ch32-f44": {
+   "text": "Kanalça epiteliysini şikastlab, AKI ga olib kelişi mumkin bölgan buyrak zaharlari va dori vositalarining röyxati juda uzun.",
+   "lead": "Toksinlar yoki dori vositalari natijasida yuzaga keladigan ötkir kanalçalar nekrozi."
+  },
+  "ch32-f45": {
+   "text": "Bunday moddalarga _uglerod tetraxlorid, oğir metallar_ (masalan, simob va qörğoşin), _etilenglikol_ (antifrizning asosiy tarkibiy qismi), turli _insektitsidlar_, antibiotik sifatida işlatiladigan ba’zi _dori vositalari_ (masalan, tetratsiklinlar) va ayrim saraton turlarini davolaşda qöllaniladigan _sisplatin_ kiradi. Bu moddalarning har biri buyrak kanalça epiteliy hujayralariga öziga xos toksik ta’sir körsatib, ularning köpçiligini halok qiladi. Natijada epiteliy hujayralari bazal membranadan köçib tuşadi va kanalçalarni tiqib qöyadi. Ayrim hollarda bazal membrana ham yemiriladi. Agar bazal membrana butun qolsa, uning yuzasi böylab yangi kanalça epiteliy hujayralari ösib çiqişi mumkin, şuning uçun kanalça 10–20 kun içida özini tiklaşi mumkin."
+  },
+  "ch32-f46": {
+   "text": "Pastki siydik yöllaridagi buzilişlar natijasida yuzaga keladigan postrenal ötkir şikastlaniş"
+  },
+  "ch32-f47": {
+   "text": "Pastki siydik yöllaridagi köplab buzilişlar siydik oqimini töliq yoki qisman tösib qöyişi va şu tariqa buyraklarning qon bilan ta’minlanişi va boşqa funksiyalari dastlab me’yorda bölgan taqdirda ham AKI ga olib kelişi mumkin. Agar faqat bitta buyrakdan siydik ajralişi kamaysa, tana suyuqliklari tarkibida katta özgariş yuz bermaydi, çunki qarama-qarşi tomondagi buyrak siydik ajratişni yetarliça oşirib, hujayradan taşqari elektrolitlar va erigan moddalarning nisbatan me’yoriy darajasini hamda hujayradan taşqari suyuqlikning me’yoriy hajmini saqlab tura oladi. Buyrak şikastlanişining bu turida muammoning asosiy sababi bir neça soat içida bartaraf etilsa, buyrakning me’yoriy faoliyati tiklanişi mumkin. Biroq siydik yöllarining bir neça kun yoki hafta davom etadigan surunkali obstruksiyasi buyrakning qaytmas şikastlanişiga olib kelişi mumkin. Postrenal AKI ning ba’zi sabablari quyidagilar: (1) yirik toşlar yoki qon quyqalari tufayli siydik yöllari yoki buyrak jomlarining ikki tomonlama obstruksiyasi; (2) qovuq obstruksiyasi; (3) siydik çiqariş kanali obstruksiyasi."
+  },
+  "ch32-f48": {
+   "text": "Buyrakning ötkir şikastlanişining fiziologik oqibatlari"
+  },
+  "ch32-f49": {
+   "text": "AKI ning asosiy fiziologik oqibatlaridan biri — qon va hujayradan taşqari suyuqlikda suv, moddalar almaşinuvi çiqindilari va elektrolitlarning uşlanib qolişi. Bu suv va tuzning ortiqça yuklanişiga, u esa öz navbatida şiş va gipertenziyaga olib kelişi mumkin. Biroq kaliyning ortiqça uşlanib qolişi AKI bölgan bemorlar uçun köpinça jiddiyroq xavf tuğdiradi, çunki plazmadagi kaliy konsentratsiyasining 8 mEq/L dan (me’yordan atigi ikki baravar) yuqori kötarilişi (giperkaliyemiya) halokatli bölişi mumkin. Buyraklar vodorod ionlarini ham yetarliça çiqara olmagani uçun AKI bölgan bemorlarda metabolik atsidoz rivojlanişi mumkin; uning özi ham ölimga olib kelişi yoki giperkaliyemiyani oğirlaştirişi mumkin."
+  },
+  "ch32-f50": {
+   "text": "AKI ning eng oğir hollarida töliq anuriya yuzaga keladi. Agar buyrak faoliyati tiklanmasa yoki organizmni uşlanib qolgan ortiqça suv, elektrolitlar va moddalar almaşinuvi çiqindilaridan tozalaş uçun sun’iy buyrak qöllanilmasa, bemor 8–14 kun içida vafot etadi. Siydik ajralişi kamayişining boşqa oqibatlari, şuningdek sun’iy buyrak yordamida davolaş keyingi bölimda CKD bilan boğliq holda muhokama qilinadi."
+  },
+  "ch32-f51": {
+   "text": "Surunkali buyrak kasalligi köpinça funksional nefronlarning qaytmas yöqotilişi bilan boğliq"
+  },
+  "ch32-f52": {
+   "text": "_CKD_ odatda kamida 3 oy davom etadigan buyrak şikastlanişi yoki buyrak faoliyatining pasayişi sifatida ta’riflanadi. CKD köpinça köp sonli faol nefronlarning zörayib boruvçi va qaytmas yöqotilişi bilan boğliq. Jiddiy klinik belgilar odatda funksional nefronlar soni me’yordan kamida 70–75% ga kamaymagunça yuzaga kelmaydi. Aslida faol nefronlar soni me’yorning 20–25% idan pastga tuşmagunça köpçilik elektrolitlarning qondagi nisbatan me’yoriy konsentratsiyasi va tana suyuqliklarining me’yoriy hajmi saqlanib turişi mumkin."
+  },
+  "ch32-f53": {
+   "text": "**Jadval 32-4** da CKD ning eng muhim sabablaridan ba’zilari keltirilgan. Umuman olganda, CKD ham AKI kabi qon tomirlari, koptokçalar, kanalçalar, buyrak interstitsiysi va pastki siydik yöllari kasalliklari tufayli yuzaga kelişi mumkin. CKD ga olib keladigan kasalliklar xilma-xil bölişiga qaramay, yakuniy natija mohiyatan bir xil — funksional nefronlar sonining kamayişi."
+  },
+  "ch32-f55": {
+   "text": "Surunkali buyrak kasalligining buyrak kasalligi terminal bosqiçiga olib boruvçi ayovsiz doirasi"
+  },
+  "ch32-f56": {
+   "text": "Ayrim hollarda buyrakning dastlabki şikastlanişi buyrak faoliyatining zörayib boruvçi yomonlaşuviga va nefronlarning yanada köproq yöqotilişiga olib keladi; oqibatda odam tirik qolişi uçun dializ muolajasi yoki faol buyrak köçirib ötkazilişi zarur bölib qoladi. Bu holat _buyrak kasalligining terminal bosqiçi (ESRD)_ deb ataladi."
+  },
+  "ch32-f57": {
+   "text": "Tajribaviy tadqiqotlar şuni körsatdiki, buyrakning katta qismlarini jarrohlik yöli bilan olib taşlaş dastlab qolgan nefronlarda moslaşuv özgarişlarini keltirib çiqaradi; bu özgarişlar tirik qolgan nefronlarda qon oqimi, GFR va siydik ajralişining ortişiga olib keladi. Bu özgarişlar uçun mas’ul aniq mexanizmlar yaxşi örganilmagan, ammo ular gipertrofiyani (tirik qolgan nefronlar turli tuzilmalarining ösişini), şuningdek tirik qolgan nefronlarda tomir qarşiligi va kanalça reabsorbsiyasini kamaytiruvçi funksional özgarişlarni öz içiga oladi. Bu moslaşuv özgarişlari buyrak massasi me’yorning 20–25% igaça kamaygan taqdirda ham odamga me’yoriy miqdorda suv va erigan moddalarni çiqarişga imkon beradi. Biroq bir neça yil davomida bu buyrak moslaşuv özgarişlari qolgan nefronlarning, ayniqsa ularning koptokçalarining yanada şikastlanişiga olib kelişi mumkin."
+  },
+  "ch32-f58": {
+   "text": "Bu zörayib boruvçi şikastlaniş qisman qolgan koptokçalardagi bosim yoki çözilişning ortişi bilan boğliq bölişi mumkin; bu esa olib keluvçi arteriolalarning funksional vazodilatatsiyasi yoki qon bosimining kötarilişi natijasida yuzaga keladi. Mayda arteriolalar va koptokçalardagi bosim hamda çözilişning surunkali ortişi bu tomirlarning şikastlanişi va sklerozini (me’yoriy töqimaning biriktiruvçi töqima bilan almaşinişini) keltirib çiqaradi, deb hisoblanadi. Bu sklerotik özgarişlar oxir-oqibat koptokçani butunlay berkitib qöyişi mumkin; bu buyrak faoliyatining yanada pasayişiga, qolgan nefronlarda yangi moslaşuv özgarişlariga va oxir-oqibat ESRD bilan yakunlanadigan, sekin zörayib boruvçi ayovsiz doiraga olib keladi (**Rasm 32-2**). Buyrak faoliyatining bunday zörayib boruvçi yöqotilişini sekinlaştirişning eng samarali usuli — arterial bosimni va koptokçadagi gidrostatik bosimni pasaytiriş, ayniqsa angiotenzinni özgartiruvçi ferment (ACE) ingibitorlari yoki Ang II retseptor antagonistlari kabi dorilar yordamida."
+  },
+  "ch32-f60": {
+   "text": "**Jadval 32-5** da ESRD ning eng köp uçraydigan sabablari keltirilgan. 1980-yillarning boşida _glomerulonefrit_ özining barça turli şakllarida ESRD ning eng köp uçraydigan boşlanğiç sababi deb hisoblangan. Sönggi paytlarda esa _qandli diabet_ va _gipertenziya_ ESRD ning yetakçi sabablari sifatida e’tirof etildi; ular birgalikda barça ESRD holatlarining 70% dan ortiğini taşkil qiladi."
+  },
+  "ch32-f62": {
+   "text": "Ortiqça vazn yiğiş (semizlik) ESRD ning ikki asosiy sababi — diabet va gipertenziya uçun eng muhim xavf omili bölib körinadi. 79-bobda muhokama qilinganidek, semizlik bilan çambarças boğliq bölgan 2-tip diabet qandli diabetning barça holatlarining 90% dan ortiğini taşkil qiladi. Ortiqça vazn yiğiş essensial gipertenziyaning ham asosiy sababi bölib, kattalarda gipertenziya rivojlaniş xavfining 65–75% iga töğri keladi. Semizlik diabet va gipertenziya orqali buyrakni şikastlaşdan taşqari, avvaldan buyrak kasalligi bölgan bemorlarda buyrak faoliyatini yomonlaştiruvçi qöşiluvçi yoki sinergik ta’sir körsatişi mumkin."
+  },
+  "ch32-f63": {
+   "text": "Buyrak qon tomirlarining şikastlanişi surunkali buyrak kasalligi sababi sifatida"
+  },
+  "ch32-f64": {
+   "text": "Tomirlarning köplab turdagi şikastlanişlari buyrak işemiyasiga va buyrak töqimasining halok bölişiga olib kelişi mumkin. Bunday şikastlanişlarning eng köp uçraydiganlari quyidagilar: (1) yirik buyrak arteriyalarining _aterosklerozi_ — tomirlarning zörayib boruvçi sklerotik torayişi bilan; (2) bir yoki bir neçta yirik arteriyalarning _fibromuskulyar giperplaziyasi_ — bu ham tomirlarning berkilişiga olib keladi; (3) _nefroskleroz_ — mayda arteriyalar, arteriolalar va koptokçalarning sklerotik şikastlanişi natijasida yuzaga keladi."
+  },
+  "ch32-f65": {
+   "text": "Yirik arteriyalarning aterosklerotik yoki giperplastik şikastlanişlari köpinça bir buyrakni ikkinçisiga qaraganda köproq zararlaydi va şu sababli buyrak faoliyatining bir tomonlama pasayişiga olib keladi. 19-bobda muhokama qilinganidek, bir buyrakning arteriyasi toraygan, ikkinçi buyrakning arteriyasi esa hali me’yorda bölganda köpinça gipertenziya yuzaga keladi; bu holat “ikki buyrakli Goldblatt gipertenziyasi” deb ataladigan holatga öxşaydi."
+  },
+  "ch32-f66": {
+   "text": "Buyrak kasalligining eng köp uçraydigan şakli bölgan _xavfsiz (benign) nefroskleroz_ 60 yoşdan keyin vafot etgan odamlarning ölimdan keyingi tekşiruvlarining taxminan 70% ida heç bölmaganda ma’lum darajada aniqlanadi. Tomir şikastlanişining bu turi buyrakning mayda bölaklararo arteriyalarida va olib keluvçi arteriolalarida yuzaga keladi. U bu tomirlarning içki qavati (intima) orqali plazma sizib çiqişidan boşlanadi, deb hisoblanadi. Bu sizib çiqiş tomirlarning örta qavatida fibrinoid çökmalar hosil bölişiga olib keladi, söngra tomir devori zörayib boruvçi tarzda qalinlaşib, oxir-oqibat tomirlarni toraytiradi va ayrim hollarda butunlay berkitib qöyadi. Buyrakning mayda arteriyalari orasida kollateral qon aylanişi deyarli bölmagani uçun ulardan bir yoki bir neçtasining berkilişi tegişli miqdordagi nefronlarning yemirilişiga sabab böladi. Şu sababli buyrak töqimasining katta qismi oz miqdordagi fibroz töqima bilan almaşinadi. Skleroz koptokçalarda yuzaga kelganda bu şikastlaniş _glomeruloskleroz_ deb ataladi."
+  },
+  "ch32-f67": {
+   "text": "Nefroskleroz va glomeruloskleroz köpçilik odamlarda hayotning törtinçi ön yilligidan keyin ma’lum darajada yuzaga keladi va 40 yoşdan keyin har 10 yilda funksional nefronlar sonini taxminan 10% ga kamaytiradi (**Rasm 32-3**). Koptokçalar va nefronlar umumiy faoliyatining bunday yöqotilişi buyrak qon oqimi va GFR ning zörayib boruvçi pasayişida namoyon böladi. Hatto gipertenziya yoki diabeti bölmagan soğlom odamlarda ham 80 yoşga kelib buyrak plazma oqimi va GFR 40–50% ga kamayişi mumkin."
+  },
+  "ch32-f68": {
+   "text": "Bir vaqtda _gipertenziya_ yoki _qandli diabet_ mavjud bölsa, nefroskleroz va glomerulosklerozning uçraş çastotasi va oğirligi keskin ortadi. Şunday qilib, oğir gipertenziya bilan birga keçadigan xavfsiz nefroskleroz tez zörayib boruvçi _xavfli (malign) nefrosklerozga_ olib kelişi mumkin. Xavfli nefrosklerozning xarakterli gistologik belgilariga arteriolalarda köp miqdorda fibrinoid çökmalar va tomirlarning zörayib boruvçi qalinlaşuvi kiradi; zararlangan nefronlarda esa oğir işemiya yuzaga keladi. Noma’lum sabablarga köra, xavfli nefroskleroz va oğir glomeruloskleroz bilan kasallaniş gipertenziya yoki diabetning oğirlik darajasi öxşaş bölgan bir xil yoşdagi oq tanlilarga qaraganda qora tanlilarda sezilarli darajada yuqori."
+  },
+  "ch32-f69": {
+   "text": "Koptokçalarning şikastlanişi surunkali buyrak kasalligi sababi sifatida — glomerulonefrit"
+  },
+  "ch32-f70": {
+   "text": "Surunkali glomerulonefritni buyrak koptokçalari kapillyar halqalarining yalliğlanişi va şikastlanişiga olib keladigan bir neçta kasallik keltirib çiqarişi mumkin. Bu kasallikning ötkir şaklidan farqli ölaroq, surunkali glomerulonefrit sekin zörayib boruvçi kasallik bölib, köpinça qaytmas buyrak yetişmovçiligiga olib keladi. U ötkir glomerulonefritdan keyin rivojlanadigan birlamçi buyrak kasalligi bölişi yoki _tizimli qizil yugurik_ (sistemali qizil volçanka) kabi tizimli kasallikka ikkilamçi bölişi mumkin."
+  },
+  "ch32-f72": {
+   "text": "Köp hollarda surunkali glomerulonefrit koptokça membranasida çökkan antigen-antitana komplekslarining töplanişidan boşlanadi. Ötkir glomerulonefritdan farqli ölaroq, glomerulonefritning surunkali şakli bilan oğrigan bemorlarning faqat kiçik bir qismida kasallik streptokokk infeksiyalari bilan boğliq böladi. Koptokça membranalarida antigen-antitana kompleksining töplanişi yalliğlanişga, membranalarning zörayib boruvçi qalinlaşuviga va oxir-oqibat koptokçalarga fibroz töqimaning ösib kirişiga olib keladi. Kasallikning keyingi bosqiçlarida koptokça çigallarida filtrlovçi kapillyarlar sonining kamayişi va koptokça membranalarining qalinlaşuvi tufayli koptokça kapillyarlarining filtratsiya koeffitsiyenti keskin kamayadi. Kasallikning sönggi bosqiçlarida köplab koptokçalar fibroz töqima bilan almaşinadi va suyuqlikni filtrlay olmaydi."
+  },
+  "ch32-f73": {
+   "text": "Buyrak interstitsiysining şikastlanişi surunkali buyrak kasalligi sababi sifatida — interstitsial nefrit"
+  },
+  "ch32-f74": {
+   "text": "Buyrak interstitsiysining birlamçi yoki ikkilamçi kasalligi _interstitsial nefrit_ deb ataladi. Umuman olganda, bu holat alohida nefronlarni yemiradigan tomir, koptokça yoki kanalça şikastlanişi natijasida yuzaga kelişi yoki buyrak interstitsiysining zaharlar, dori vositalari va bakterial infeksiyalar ta’sirida birlamçi şikastlanişini öz içiga olişi mumkin."
+  },
+  "ch32-f75": {
+   "text": "Bakterial infeksiya keltirib çiqargan buyrak interstitsiysi şikastlanişi _pielonefrit_ deb ataladi. Infeksiyani turli bakteriyalar, ayniqsa siydik yöllarining najas bilan ifloslanişidan kelib çiqadigan _Esçeriçia coli_ keltirib çiqarişi mumkin. Bu bakteriyalar buyraklarga yo qon oqimi orqali, yoki köproq hollarda pastki siydik yöllaridan siydik yöllari orqali yuqoriga kötarilib yetib boradi."
+  },
+  "ch32-f76": {
+   "text": "Me’yoriy qovuq bakteriyalardan oson tozalana olsa-da, bakteriyalarning qovuqdan me’yoriy yuvilib çiqarilişiga xalaqit beradigan ikki umumiy klinik holat mavjud: (1) qovuqning töliq böşay olmasligi, natijada qovuqda qoldiq siydik qolişi; (2) siydik çiqişining tösilişi. Bakteriyalarni qovuqdan yuvib çiqariş qobiliyati buzilganda bakteriyalar köpayadi va qovuq yalliğlanadi; bu holat _sistit_ deb ataladi. Sistit yuzaga kelgaç, u buyrakka kötarilmasdan mahalliy holda qolişi mumkin; biroq ayrim odamlarda siyiş paytida siydik bitta yoki ikkala siydik yöli böylab yuqoriga haydaladigan patologik holat tufayli bakteriyalar buyrak jomiga yetib borişi mumkin. Bu holat _vezikoureteral reflyuks_ deb ataladi va siyiş paytida qovuq devorining siydik yölini berkita olmasligi bilan boğliq; natijada siydikning bir qismi buyrak tomon yuqoriga haydaladi va özi bilan birga bakteriyalarni olib boradi; bakteriyalar buyrak jomi va buyrak mağziga yetib, u yerda pielonefrit bilan boğliq infeksiya va yalliğlanişni boşlab berişi mumkin."
+  },
+  "ch32-f77": {
+   "text": "Pielonefrit buyrak mağzida boşlanadi, şuning uçun u, heç bölmaganda dastlabki bosqiçlarda, odatda pöstloqqa qaraganda mağiz faoliyatiga köproq ta’sir qiladi. Mağizning asosiy vazifalaridan biri siydikni konsentrlaş uçun qarama-qarşi oqim mexanizmini ta’minlaş bölgani uçun pielonefritli bemorlarda siydikni konsentrlaş qobiliyati köpinça keskin buzilgan böladi."
+  },
+  "ch32-f78": {
+   "text": "Uzoq davom etgan pielonefritda bakteriyalarning buyraklarga kirib borişi nafaqat buyrak mağzi interstitsiysini şikastlaydi, balki butun buyrak böylab buyrak kanalçalari, koptokçalar va boşqa tuzilmalarning ham zörayib boruvçi şikastlanişiga olib keladi. Natijada faol buyrak töqimasining katta qismi yöqotiladi va CKD rivojlanişi mumkin."
+  },
+  "ch32-f79": {
+   "text": "Nefrotik sindrom — siydik bilan oqsil çiqarilişi"
+  },
+  "ch32-f80": {
+   "text": "Siydik bilan köp miqdorda plazma oqsillari yöqotilişi bilan tavsiflanadigan _nefrotik sindrom_ buyrak kasalligi bölgan köplab bemorlarda rivojlanadi. Ayrim hollarda bu sindrom buyrak faoliyatining boşqa jiddiy buzilişlari belgilarisiz yuzaga keladi, ammo odatda u ma’lum darajadagi CKD bilan birga keçadi."
+  },
+  "ch32-f81": {
+   "text": "Siydik bilan oqsil yöqotilişining sababi odatda koptokça membranasi ötkazuvçanligining ortişidir. Şu sababli bu membrana ötkazuvçanligini oşiradigan har qanday kasallik nefrotik sindromga olib kelişi mumkin. Bunday kasalliklarga quyidagilar kiradi: (1) asosan koptokçalarni zararlaydigan va köpinça koptokça membranasi ötkazuvçanligini keskin oşiradigan _surunkali glomerulonefrit_; (2) qon tomirlari devorlarida ğayritabiiy oqsilsimon moddaning çökişi natijasida yuzaga keladigan va koptokçalar bazal membranasini jiddiy şikastlaydigan _amiloidoz_; (3) yoruğlik mikroskopida aniqlanadigan koptokça kapillyar membranasining jiddiy özgarişi bölmagan _minimal özgarişli nefrotik sindrom_. 27-bobda muhokama qilinganidek, minimal özgarişli nefropatiya ğayritabiiy immun javob va T-hujayralarning sitokinlar sekretsiyasining ortişi bilan boğliq; bu sitokinlar podotsitlarni şikastlaydi va albumin kabi nisbatan kiçik molekulyar massali oqsillar uçun ötkazuvçanlikni oşiradi."
+  },
+  "ch32-f82": {
+   "text": "Minimal özgarişli nefropatiya kattalarda ham uçraşi mumkin, ammo köproq 2 yoşdan 6 yoşgaça bölgan bolalarda kuzatiladi. Koptokça kapillyar membranasi ötkazuvçanligining ortişi ba’zan har kuni siydik bilan 40 grammgaça plazma oqsili yöqotilişiga olib keladi; bu yoş bola uçun haddan taşqari köp miqdor. Şu sababli bolaning plazmadagi oqsil konsentratsiyasi köpinça 2 g/dl dan pastga tuşadi, kolloid osmotik bosim esa me’yoriy 28 mm sim. ust. dan 10 mm sim. ust. dan pastga tuşadi. Plazmadagi kolloid osmotik bosimning bunday pastligi oqibatida, 25-bobda muhokama qilinganidek, butun tana böylab kapillyarlardan köpçilik töqimalarga katta miqdorda suyuqlik sizib çiqadi va oğir şiş yuzaga keladi."
+  },
+  "ch32-f83": {
+   "text": "Surunkali buyrak kasalligida nefron faoliyati"
+  },
+  "ch32-f84": {
+   "text": "GFR ni pasaytiradigan funksional nefronlar sonining kamayişi suv va erigan moddalarning buyrak orqali çiqarilişini ham keskin kamaytiradi, deb taxmin qiliş örinli bölar edi. Biroq nefronlarining 75–80% igaça qismini yöqotgan bemorlar tana suyuqliklarida suyuqlik yoki köpçilik elektrolitlar jiddiy töplanmagan holda me’yoriy miqdorda suv va elektrolitlarni çiqara oladi. Ammo nefronlar sonining yanada kamayişi elektrolitlar va suyuqlikning uşlanib qolişiga olib keladi va nefronlar soni me’yorning 5–10% idan pastga tuşganda odatda ölim yuz beradi.",
+   "lead": "Funksional nefronlarning yöqotilişi tirik qolgan nefronlardan köproq suv va erigan moddalarni çiqarişni talab qiladi."
+  },
+  "ch32-f85": {
+   "text": "Elektrolitlardan farqli ölaroq, moçevina va kreatinin kabi köplab moddalar almaşinuvi çiqindilari yemirilgan nefronlar soniga deyarli mutanosib ravişda töplanadi. Buning sababi şundaki, kreatinin va moçevina kabi moddalarning çiqarilişi asosan koptokça filtratsiyasiga boğliq va ular elektrolitlar kabi faol reabsorbsiyalanmaydi. Masalan, kreatinin umuman reabsorbsiyalanmaydi va uning çiqariliş tezligi taxminan filtrlaniş tezligiga teng (sekretsiyalanadigan oz miqdorini hisobga olmaganda):"
+  },
+  "ch32-f86": {
+   "text": "Şu sababli GFR kamaysa, kreatinin çiqariliş tezligi ham vaqtinça kamayadi; bu kreatininning tana suyuqliklarida töplanişiga va kreatininning çiqariliş tezligi me’yorga — ya’ni organizmda kreatinin hosil böliş tezligiga — qaytgunga qadar uning plazmadagi konsentratsiyasi oşişiga olib keladi (**Rasm 32-4**). Şunday qilib, barqaror holatda GFR kamayganiga qaramay kreatininning çiqariliş tezligi uning hosil böliş tezligiga teng böladi; biroq kreatinin çiqarilişining bu me’yoriy tezligi, **Rasm 32-4** dagi A egri çiziqda körsatilganidek, plazmadagi kreatinin konsentratsiyasining oşişi hisobiga erişiladi."
+  },
+  "ch32-f88": {
+   "text": "Fosfat, urat va vodorod ionlari kabi ayrim erigan moddalar köpinça GFR me’yorning 20–30% idan pastga tuşmagunça me’yoriy çegaralarga yaqin darajada saqlanib turadi. Şundan keyin bu moddalarning plazmadagi konsentratsiyasi oşadi, ammo **Rasm 32-5** dagi B egri çiziqda körsatilganidek, GFR pasayişiga mutanosib ravişda emas. GFR pasayib borgan sari bu moddalarning plazmadagi konsentratsiyasini nisbatan doimiy saqlaş ularning koptokça kapillyarlarida filtrlangan miqdoridan tobora kattaroq uluşni çiqariş orqali amalga oşiriladi; bunga kanalça reabsorbsiyasi tezligini kamaytiriş yoki ayrim hollarda kanalça sekretsiyasi tezligini oşiriş orqali erişiladi."
+  },
+  "ch32-f90": {
+   "text": "Natriy va xlorid ionlariga kelsak, ularning plazmadagi konsentratsiyasi GFR keskin kamayganda ham deyarli doimiy saqlanib turadi (qarang: **Rasm 32-5** dagi C egri çiziq). Bunga bu elektrolitlarning kanalça reabsorbsiyasini keskin kamaytiriş orqali erişiladi."
+  },
+  "ch32-f91": {
+   "text": "Masalan, funksional nefronlarning 75% i yöqotilganda har bir tirik qolgan nefron me’yoriy şaroitdagiga qaraganda tört baravar köp natriy va tört baravar köp hajm çiqarişi kerak (**Jadval 32-6**). Bu moslaşuvning bir qismi qon tomirlari va koptokçalar gipertrofiyasi, şuningdek qon tomirlarini kengaytiruvçi funksional özgarişlar tufayli har bir tirik qolgan nefronda qon oqimi va GFR ning ortişi hisobiga yuzaga keladi. Umumiy GFR keskin kamayganda ham kanalçalarning suv va erigan moddalarni reabsorbsiyalaş tezligini kamaytiriş orqali buyrak ekskretsiyasining me’yoriy tezligini saqlab turiş mumkin."
+  },
+  "ch32-f93": {
+   "text": "Kasallangan buyraklarning qolgan nefronlarida kanalça suyuqligining tez oqişining muhim oqibatlaridan biri şundaki, buyrak kanalçalari siydikni töliq konsentrlaş yoki suyultiriş qobiliyatini yöqotadi. Buyrakning konsentrlaş qobiliyati asosan quyidagi sabablarga köra buziladi: (1) kanalça suyuqligining yiğuvçi nayçalar orqali tez oqişi suvning yetarliça reabsorbsiyalanişiga tösqinlik qiladi; (2) Genle qovuzloği va yiğuvçi nayçalar orqali tez oqim qarama-qarşi oqim mexanizmining mağiz interstitsial suyuqligidagi erigan moddalarni konsentrlaş uçun samarali işlaşiga tösqinlik qiladi. Şu sababli nefronlar tobora köproq yemirilgan sari buyrakning maksimal konsentrlaş qobiliyati pasayadi va **Rasm 32-6** da körsatilganidek, siydikning osmolyarligi va soliştirma oğirligi koptokça filtratining osmolyarligi va soliştirma oğirligiga yaqinlaşadi.",
+   "lead": "Izostenuriya — buyrakning siydikni konsentrlay yoki suyultira olmasligi."
+  },
+  "ch32-f95": {
+   "text": "Nefronlar soni keskin kamayganda buyrakning suyultiriş mexanizmi ham buziladi, çunki suyuqlikning Genle qovuzloqlari orqali tez yuvilib ötişi va moçevina kabi erigan moddalarning yuqori yuklamasi nefronning bu qismidagi kanalça suyuqligida erigan moddalarning nisbatan yuqori konsentratsiyasiga sabab böladi. Natijada buyrakning suyultiriş qobiliyati buziladi, siydikning minimal osmolyalligi va soliştirma oğirligi esa koptokça filtratinikiga yaqinlaşadi. CKD da konsentrlaş mexanizmi suyultiriş mexanizmiga qaraganda köproq darajada buzilgani uçun buyrak faoliyatining muhim klinik sinovi — odamning suv iste’moli 12 soat yoki undan köproq vaqt çeklanganda buyraklar siydikni qançalik yaxşi konsentrlay olişini aniqlaşdir."
+  },
+  "ch32-f96": {
+   "text": "CKD ning tana suyuqliklariga ta’siri quyidagilarga boğliq: (1) suv va ovqat iste’moli; (2) buyrak faoliyati buzilişining darajasi. Buyrak faoliyati butunlay yöqolgan odam avvalgidek miqdorda suv va ovqat iste’mol qilişda davom etadi, deb faraz qilsak, hujayradan taşqari suyuqlikdagi turli moddalarning konsentratsiyasi **Rasm 32-7** da körsatilganidek özgaradi. Muhim oqibatlarga quyidagilar kiradi: (1) suv va tuzning uşlanib qolişi natijasida _umumiy şiş_; (2) buyraklarning organizmni me’yoriy kislotali mahsulotlardan xalos qila olmasligi natijasida _atsidoz_; (3) organizmning oqsillar almaşinuvi yakuniy mahsulotlarini çiqara olmasligi natijasida _oqsilsiz azot birikmalarining_ — ayniqsa moçevina, kreatinin va siydik kislotasining — _yuqori konsentratsiyasi_; (4) buyrak orqali çiqariladigan _boşqa moddalarning_, jumladan _fenollar, sulfatlar, fosfatlar, kaliy_ va _guanidin asoslarining yuqori konsentratsiyasi._ Tana suyuqliklarida moçevina konsentratsiyasi yuqori bölgani uçun bu umumiy holat _uremiya_ deb ataladi."
+  },
+  "ch32-f98": {
+   "text": "Agar buyrakning ötkir şikastlanişi boşlanişi bilanoq suv iste’moli çeklansa, tanadagi umumiy suyuqlik miqdori faqat biroz ortişi mumkin. Agar suyuqlik iste’moli çeklanmasa va bemor me’yoriy çanqoq mexanizmlariga javoban suv içsa, tana suyuqliklari tez köpaya boşlaydi.",
+   "lead": "Surunkali buyrak kasalligida suvning uşlanib qolişi va şiş rivojlanişi."
+  },
+  "ch32-f99": {
+   "text": "Tuz va suyuqlik iste’moli haddan taşqari köp bölmagan ekan, CKD da suyuqlik töplanişi buyrak faoliyati me’yorning 25% igaça yoki undan pastga tuşmagunça oğir bölmasligi mumkin. Buning sababi, avval muhokama qilinganidek, tirik qolgan nefronlarning köproq tuz va suv çiqarişidir. Hatto yuzaga keladigan kiçik suyuqlik uşlanişi ham, işemik buyrak kasalligida odatda kuzatiladigan renin sekretsiyasi va Ang II hosil bölişining ortişi bilan birga, köpinça oğir gipertenziyaga olib keladi. Buyrak faoliyati hayotni saqlab qoliş uçun dializ zarur böladigan darajada pasayganda deyarli har doim gipertenziya rivojlanadi."
+  },
+  "ch32-f100": {
+   "text": "Bunday bemorlarning köpçiligida tuz iste’molini keskin çeklaş yoki dializ yordamida hujayradan taşqari suyuqlikni çiqariş gipertenziyani nazorat qilişi mumkin. Ba’zi bemorlarda ortiqça natriy dializ bilan çiqarilgandan keyin ham gipertenziya saqlanib qoladi. Bu guruhda işemik buyraklarni olib taşlaş odatda gipertenziyani bartaraf etadi (agar suyuqlik uşlanişining oldi dializ bilan olinsa), çunki bu ortiqça renin sekretsiyasi va undan keyingi Ang II hosil bölişining ortişi manbaini yöqotadi."
+  },
+  "ch32-f101": {
+   "text": "Oqsilsiz azot birikmalariga moçevina, siydik kislotasi, kreatinin va ahamiyati kamroq bölgan bir neçta birikmalar kiradi. Bu oqsilsiz azot birikmalari, umuman olganda, oqsillar almaşinuvining yakuniy mahsulotlari bölib, hujayralarda oqsillar almaşinuvi me’yorida davom etişi uçun organizmdan çiqarilişi kerak. Buyrak faoliyati butunlay yöqolganda 1–2 hafta içida bu oqsilsiz azot birikmalarining, ayniqsa moçevinaning konsentratsiyasi me’yordan 10 baravargaça oşişi mumkin. CKD da ularning konsentratsiyasi GFR pasayiş darajasiga taxminan mutanosib ravişda oşadi. Şu sababli bu moddalarning, ayniqsa moçevina va kreatininning konsentratsiyasini ölçaş CKD oğirligini baholaşning muhim usuli hisoblanadi.",
+   "lead": "Moçevina va boşqa oqsilsiz azot birikmalarining köpayişi (azotemiya)."
+  },
+  "ch32-f102": {
+   "text": "Har kuni organizmda me’yorda metabolik işqorga qaraganda taxminan 50–80 millimol köproq metabolik kislota hosil böladi. Şu sababli buyraklar işlamay qolganda tana suyuqliklarida kislota töplanadi. Tana suyuqliklarining bufer tizimlari me’yorda hujayradan taşqari suyuqlikdagi H+ konsentratsiyasini halokatli darajaga oşirmagan holda 500–1000 millimol kislotani buferlay oladi, suyaklardagi fosfat birikmalari esa qöşimça ravişda bir neça ming millimol H+ ni buferlaşi mumkin. Biroq bu buferlaş qobiliyati tugagaç, qon pH keskin pasayadi va pH taxminan 6,8 dan pastga tuşsa, bemor komaga tuşib, vafot etadi.",
+   "lead": "CKD da atsidoz."
+  },
+  "ch32-f103": {
+   "text": "Oğir CKD bölgan bemorlarda deyarli har doim anemiya rivojlanadi. Bu anemiyaning eng muhim sababi — suyak kömigini qizil qon hujayralari hosil qilişga rağbatlantiruvçi _eritropoetinning_ buyrak tomonidan sekretsiyasi kamayişidir. Buyraklar jiddiy şikastlansa, ular yetarli miqdorda eritropoetin hosil qila olmaydi; bu qizil qon hujayralari hosil bölişining kamayişiga va natijada anemiyaga olib keladi.",
+   "lead": "Surunkali buyrak kasalligida eritropoetin sekretsiyasining kamayişi natijasida yuzaga keladigan anemiya."
+  },
+  "ch32-f104": {
+   "text": "Biroq 1989-yildan beri rekombinant eritropoetinning mavjudligi surunkali buyrak yetişmovçiligi bölgan bemorlarda anemiyani davolaş imkonini berdi."
+  },
+  "ch32-f105": {
+   "text": "Uzoq davom etgan CKD _osteomalyatsiyaga_ ham olib keladi — bu holatda suyaklar qisman söriladi va şu sababli keskin zaiflaşadi. Osteomalyatsiyaning muhim sababi şundaki, D vitamini içakdan kalsiy sörilişini kuçaytira olişi uçun avval jigarda, söngra buyraklarda boradigan ikki bosqiçli jarayon orqali 1,25-digidroksixolekalsiferolga aylantirilişi kerak. Şu sababli buyrakning jiddiy şikastlanişi qonda _faol_ D vitamini konsentratsiyasini keskin kamaytiradi; bu esa öz navbatida içakda kalsiy sörilişini va suyaklar uçun kalsiy mavjudligini kamaytiradi.",
+   "lead": "Surunkali buyrak kasalligida faol D vitamini hosil bölişining kamayişi va buyraklarda fosfat uşlanib qolişi natijasida yuzaga keladigan osteomalyatsiya."
+  },
+  "ch32-f106": {
+   "text": "CKD da skelet demineralizatsiyasining yana bir muhim sababi — GFR kamayişi natijasida qon zardobida fosfat konsentratsiyasining ortişi. Zardobdagi fosfat darajasining bunday ortişi plazmada fosfatning kalsiy bilan boğlanişini kuçaytiradi va şu bilan plazma zardobidagi"
+  },
+  "ch32-f107": {
+   "text": "_ionlaşgan_ kalsiy konsentratsiyasini kamaytiradi, bu esa öz navbatida _paratireoid gormon_ sekretsiyasini rağbatlantiradi. Bu ikkilamçi giperparatireoz suyaklardan kalsiy ajralib çiqişini rağbatlantiradi va suyaklar demineralizatsiyasini yanada kuçaytiradi."
+  },
+  "ch32-f108": {
+   "text": "Bobning avvalida muhokama qilinganidek, gipertenziya buyrak koptokçalari va qon tomirlarining şikastlanişini kuçaytirişi mumkin va ESRD ning asosiy sabablaridan biri hisoblanadi. 19-bobda muhokama qilinganidek, buyrak faoliyatining buzilişlari ham gipertenziyaga olib kelişi mumkin. Şunday qilib, gipertenziya va buyrak kasalligi örtasidagi boğliqlik ayrim hollarda ayovsiz doirani davom ettirişi mumkin: buyrakning birlamçi şikastlanişi qon bosimining oşişiga olib keladi, bu esa ESRD rivojlanguniga qadar buyraklarning yanada şikastlanişiga va qon bosimining yanada oşişiga sabab böladi."
+  },
+  "ch32-f109": {
+   "text": "Buyrak kasalliklarining hammasi ham gipertenziyaga olib kelavermaydi, çunki buyrakning ayrim qismlarining şikastlanişi gipertenziyasiz uremiyaga sabab böladi. Şunga qaramay, buyrak şikastlanişining ba’zi turlari ayniqsa gipertenziyaga olib kelişga moyil. Buyrak kasalliklarining gipertenziv yoki gipertenziv bölmagan ta’siriga köra tasnifi keyingi bölimlarda keltirilgan."
+  },
+  "ch32-f110": {
+   "text": "Buyraklarning natriy va suvni çiqariş qobiliyatini kamaytiradigan buyrak şikastlanişlari deyarli har doim gipertenziyaga olib keladi. Şu sababli _GFR ni kamaytiradigan_ yoki _kanalça reabsorbsiyasini oşiradigan_ şikastlanişlar odatda turli darajadagi gipertenziyaga olib keladi. Gipertenziyaga sabab bölişi mumkin bölgan buyrak buzilişlarining ba’zi öziga xos turlari quyidagilar: 1. _Buyrak tomirlari qarşiligining ortişi,_ bu buyrak qon oqimi va GFR ni kamaytiradi. Bunga buyrak arteriyasi stenozi natijasida yuzaga keladigan gipertenziya misol böladi. 2. _Koptokça kapillyarlari filtratsiya koeffitsiyentining kamayişi, bu GFR ni pasaytiradi._ Bunga koptokça kapillyar membranalarining yalliğlanişi va qalinlaşuviga olib kelib, koptokça kapillyarlari filtratsiya koeffitsiyentini kamaytiradigan surunkali glomerulonefrit misol böladi. 3. _Kanalçalarda natriy reabsorbsiyasining haddan taşqari ortişi._ Bunga asosan pöstloq yiğuvçi kanalçalarida natriy reabsorbsiyasini oşiradigan aldosteronning ortiqça sekretsiyasi natijasida yuzaga keladigan gipertenziya misol böladi. Gipertenziya rivojlangaç, natriy va suvning buyrak orqali çiqarilişi me’yorga qaytadi, çunki yuqori arterial bosim bosim natriurezi va bosim diurezini keltirib çiqaradi va natriy hamda suvning iste’moli va çiqarilişi yana muvozanatlaşadi. Buyrak tomirlari qarşiligi keskin ortganda yoki koptokça kapillyarlari koeffitsiyenti kamayganda ham arterial qon bosimi kötarilgandan keyin GFR deyarli me’yoriy darajaga qaytişi mumkin. Xuddi şunday, aldosteronning ortiqça sekretsiyasidagi kabi kanalça reabsorbsiyasi ortganda siydik bilan çiqariliş tezligi dastlab kamayadi, ammo arterial bosim kötarilişi bilan me’yorga qaytadi. Şunday qilib, gipertenziya rivojlangandan keyin gipertenziyaning özidan boşqa natriy va suv çiqarilişi buzilganining aniq belgisi bölmasligi mumkin. 19-bobda tuşuntirilganidek, natriy va suvning yuqori arterial bosimda me’yorida çiqarilişi bosim natriurezi va bosim diurezi yuqoriroq arterial bosimga qayta sozlanganini anglatadi.",
+   "lead": "Buyraklarning natriy va suvni çiqariş qobiliyatini kamaytiradigan buyrak şikastlanişlari gipertenziyaga sabab böladi."
+  },
+  "ch32-f111": {
+   "text": "Agar buyrakning bir qismi işemik bölib, qolgan qismi işemik bölmasa — masalan, bitta buyrak arteriyasi keskin toraygan bölsa — işemik buyrak töqimasi köp miqdorda renin ajratadi. Bu sekretsiya Ang II hosil bölişining ortişiga olib keladi, u esa gipertenziyaga sabab bölişi mumkin. 19-bobda muhokama qilinganidek, bu gipertenziyani keltirib çiqaruvçi hodisalarning eng ehtimoliy ketma-ketligi quyidagiça: (1) işemik buyrak töqimasi me’yordagidan kamroq suv va tuz çiqaradi; (2) işemik buyrak ajratgan renin va undan keyingi Ang II hosil bölişining ortişi işemik bölmagan buyrak töqimasiga ta’sir qilib, uni ham tuz va suvni uşlab qolişga majbur qiladi; (3) ortiqça tuz va suv odatiy yöl bilan gipertenziyaga olib keladi.",
+   "lead": "Buyrakning öçoqli şikastlanişi va buyrakda renin sekretsiyasining ortişi natijasida yuzaga keladigan gipertenziya."
+  },
+  "ch32-f112": {
+   "text": "Arterioskleroz yoki buyrakning muayyan qismlarida tomirlar şikastlanişi natijasida bir yoki ikkala buyrakning ayrim öçoqlari işemik bölib qolganda ham şunga öxşaş gipertenziya yuzaga kelişi mumkin. Bunday hollarda işemik nefronlar kamroq tuz va suv çiqaradi, ammo köproq renin ajratadi, bu esa Ang II hosil bölişini oşiradi. Söngra Ang II ning yuqori darajasi atrofdagi, aks holda me’yoriy bölgan nefronlarning natriy va suvni çiqariş qobiliyatini susaytiradi. Natijada gipertenziya rivojlanadi va u buyrakning natriy va suvni umumiy çiqarişini tiklaydi; şu tariqa tuz va suvning iste’moli va çiqarilişi örtasidagi muvozanat saqlanadi, ammo yuqori qon bosimi evaziga."
+  },
+  "ch32-f113": {
+   "text": "Köp sonli butun nefronlarning yöqotilişi — masalan, bitta buyrak va ikkinçi buyrakning bir qismi yöqotilganda — buyrak töqimasining yöqotilişi yetarliça katta bölsa, deyarli har doim CKD ga olib keladi. Agar qolgan nefronlar me’yorda bölsa va tuz iste’moli ortiqça bölmasa, bu holat klinik jihatdan ahamiyatli gipertenziyaga olib kelmasligi mumkin. Buning sababi şundaki, qon bosimining hatto biroz kötarilişi ham tirik qolgan nefronlarda GFR ni oşirib, kanalçalarda natriy reabsorbsiyasini yetarliça kamaytiradi va butun qolgan oz sonli nefronlar bilan ham siydik orqali yetarli miqdorda suv va tuz çiqarilişini ta’minlaydi. Biroq bunday buzilişi bölgan bemorda qöşimça zöriqişlar — masalan, köp tuz iste’mol qiliş — yuzaga kelsa, oğir gipertenziya rivojlanişi mumkin. Bu holda buyraklar qolgan oz sonli faol nefronlar bilan me’yoriy qon bosimida yetarli miqdordagi tuzni çiqara olmaydi. Qon bosimining oşişi barqaror holatda tuz va suvning çiqarilişini ularning iste’moliga moslab tiklaydi."
+  },
+  "ch32-f114": {
+   "text": "Gipertenziyani samarali davolaş uçun buyraklarning tuz va suvni çiqariş qobiliyatini GFR ni oşiriş yoki kanalça reabsorbsiyasini kamaytiriş orqali kuçaytiriş kerak; şunda tuz va suvning iste’moli va buyrak orqali çiqarilişi örtasidagi muvozanat pastroq qon bosimida saqlanişi mumkin. Bu ta’sirga buyraklarni tuz va suvni uşlab qolişga undovçi asab va gormonal signallarning ta’sirini bloklaydigan dorilar (masalan, β-adrenoblokatorlar, Ang II retseptor antagonistlari yoki ACE ingibitorlari), buyrak tomirlarini kengaytirib, GFR ni oşiradigan dorilar (masalan, kalsiy kanali blokatorlari) yoki buyrak kanalçalarida tuz va suv reabsorbsiyasini bevosita tormozlaydigan diuretik dorilar yordamida erişiş mumkin."
+  },
+  "ch32-f115": {
+   "text": "28-bobda kanalça epiteliy membranalari orqali turli alohida moddalarni taşişga mas’ul bölgan bir neçta mexanizmni muhokama qilgan edik. 3-bobda esa har bir hujayra fermenti va har bir taşuvçi oqsil yadrodagi tegişli genga javoban hosil bölişini ta’kidlagan edik. Agar zarur genlardan birortasi bölmasa yoki ğayritabiiy bölsa, kanalçalarda buyrak kanalça epiteliy hujayralari tomonidan erigan moddalarni taşiş uçun zarur bölgan tegişli taşuvçi oqsillardan yoki fermentlardan biri yetişmasligi mumkin. Boşqa hollarda ferment yoki taşuvçi oqsil haddan taşqari köp hosil böladi. Şunday qilib, köplab irsiy kanalça kasalliklari alohida moddalar yoki moddalar guruhlarining kanalça membranasi orqali ğayritabiiy taşilişi tufayli yuzaga keladi. Bundan taşqari, kanalça epiteliy membranasining toksinlar yoki işemiya ta’sirida şikastlanişi buyrak kanalçalarining muhim kasalliklarini keltirib çiqarişi mumkin."
+  },
+  "ch32-f116": {
+   "text": "Buyrak glyukozuriyasida qondagi glukoza konsentratsiyasi me’yorda bölişi mumkin, ammo kanalçalarda glukoza reabsorbsiyasining transport mexanizmi keskin çeklangan yoki umuman yöq böladi. Natijada qondagi glukoza darajasi me’yorda bölişiga qaramay, har kuni siydikka köp miqdorda glukoza ötadi. Qandli diabet ham siydikda glukoza bölişi bilan keçgani uçun qandli diabet taşxisini qöyişdan oldin nisbatan xavfsiz holat bölgan buyrak glyukozuriyasini istisno qiliş kerak.",
+   "lead": "Buyrak glyukozuriyasi — buyraklarning glukozani reabsorbsiyalay olmasligi."
+  },
+  "ch32-f117": {
+   "text": "Ba’zi aminokislotalar reabsorbsiya uçun umumiy transport tizimlaridan foydalanadi, boşqa aminokislotalarning esa öziga xos alohida transport tizimlari bor. Kamdan-kam hollarda barça aminokislotalar reabsorbsiyasining yetişmovçiligi natijasida _umumiy aminoatsiduriya_ deb ataladigan holat yuzaga keladi. Köproq hollarda ayrim taşuvçi tizimlarning yetişmovçiligi quyidagilarga olib kelişi mumkin: (1) _essensial sistinuriya_ — bunda köp miqdordagi sistin reabsorbsiyalanmaydi va köpinça siydikda kristallanib, buyrak toşlarini hosil qiladi; (2) _oddiy glitsinuriya_ — bunda glitsin reabsorbsiyalanmaydi; (3) _beta-aminoizomoy kislota aminoatsiduriyasi_ — u aholining taxminan 5% ida uçraydi, ammo, aftidan, jiddiy klinik ahamiyatga ega emas.",
+   "lead": "Aminoatsiduriya — buyraklarning aminokislotalarni reabsorbsiyalay olmasligi."
+  },
+  "ch32-f118": {
+   "text": "Buyrak gipofosfatemiyasida tana suyuqliklaridagi fosfat konsentratsiyasi juda past darajaga tuşganda buyrak kanalçalari yetarli miqdorda fosfat ionlarini reabsorbsiyalay olmaydi. Bu holat odatda darhol jiddiy buzilişlarga olib kelmaydi, çunki hujayradan taşqari suyuqlikdagi fosfat konsentratsiyasi hujayralar faoliyatini jiddiy buzmagan holda keng çegaralarda özgarişi mumkin. Biroq uzoq muddat davomida fosfatning past darajasi suyaklar kalsifikatsiyasini kamaytiradi va _raxit_ rivojlanişiga olib keladi. 80-bobda muhokama qilinganidek, raxitning bu turi odatiy raxitning tez javob berişidan farqli ölaroq, D vitamini bilan davolaşga çidamli böladi.",
+   "lead": "Buyrak gipofosfatemiyasi — buyraklarning fosfatni reabsorbsiyalay olmasligi."
+  },
+  "ch32-f119": {
+   "text": "Buyrak kanalçalari atsidozida buyrak kanalçalari yetarli miqdorda vodorod ionlarini sekretsiyalay olmaydi. Natijada siydik bilan doimiy ravişda köp miqdorda natriy bikarbonat yöqotiladi. 31-bobda muhokama qilinganidek, bu yöqotiş doimiy metabolik atsidoz holatiga olib keladi. Buyrak buzilişining bu turi irsiy kasalliklar tufayli yoki buyrak kanalçalarining keng tarqalgan şikastlanişi natijasida yuzaga kelişi mumkin.",
+   "lead": "Buyrak kanalçalari atsidozi — kanalçalarda vodorod ionlari sekretsiyasining kamayişi."
+  },
+  "ch32-f120": {
+   "text": "Ba’zan buyrak kanalçalari antidiuretik gormonga javob bermaydi, natijada köp miqdorda suyultirilgan siydik ajraladi. Odam yetarli miqdorda suv bilan ta’minlangan ekan, bu holat kamdan-kam jiddiy qiyinçilik tuğdiradi. Biroq yetarli miqdorda suv bölmaganda odam tezda suvsizlanadi.",
+   "lead": "Nefrogen qandsiz diabet — buyraklarning antidiuretik gormonga javob bermasligi."
+  },
+  "ch32-f121": {
+   "text": "Fankoni sindromi odatda deyarli barça aminokislotalar, glukoza va fosfatning siydik bilan çiqarilişi ortişi bilan keçadi. Oğir hollarda boşqa körinişlar ham kuzatiladi, masalan: (1) natriy bikarbonatning reabsorbsiyalanmasligi, bu metabolik atsidozga olib keladi; (2) kaliy va ba’zan kalsiy çiqarilişining ortişi; (3) nefrogen qandsiz diabet.",
+   "lead": "Fankoni sindromi — buyrak kanalçalarining umumiy reabsorbsiya nuqsoni."
+  },
+  "ch32-f122": {
+   "text": "Fankoni sindromi buyrak kanalça hujayralarining turli moddalarni taşiy olmasligining umumiy holatidan kelib çiqadi va uning köplab sabablari bor. Ulardan ba’zilari quyidagilar: (1) hujayra transport mexanizmlarining irsiy nuqsonlari; (2) buyrak kanalça epiteliy hujayralarini şikastlaydigan toksinlar yoki dorilar; (3) işemiya natijasida buyrak kanalça hujayralarining şikastlanişi. Kanalçalar şikastlanişi tufayli yuzaga kelgan Fankoni sindromida ayniqsa proksimal kanalça hujayralari zararlanadi, çunki aynan şu hujayralar şikastlanişga olib kelişi mumkin bölgan köplab dorilar va toksinlarni reabsorbsiyalaydi va sekretsiyalaydi."
+  },
+  "ch32-f123": {
+   "text": "_Bartter sindromi_ — 1-natriy, 2-xlorid, 1-kaliy kotransporteri faoliyatini buzadigan mutatsiyalar yoki Genle qovuzloği yöğon kötariluvçi qismining lyuminal membranasidagi kaliy kanallari yoki bazolateral membranasidagi xlorid kanallari nuqsonlari natijasida yuzaga keladigan kam uçraydigan buyrak kasalliklari guruhi. Bartter sindromiga olib keladigan, odatda autosom-retsessiv tarzda irsiylanadigan kamida beşta mutatsiya aniqlangan. Bu kasalliklar buyraklar orqali suv, natriy, xlorid, kaliy va kalsiy çiqarilişining ortişiga olib keladi. Tuz va suv yöqotilişi yengil hajm kamayişiga olib keladi, natijada renin-angiotenzin-aldosteron tizimi (RAAS) faollaşadi. Aldosteronning köpayişi va Genle qovuzloğida reabsorbsiya buzilgani sababli distal kanalçalarda oqimning yuqori bölişi yiğuvçi kanalçalarda kaliy va vodorod sekretsiyasini rağbatlantiradi; bu gipokaliyemiya va metabolik alkalozga olib keladi.",
+   "lead": "Bartter sindromi — Genle qovuzloqlarida natriy, xlorid va kaliy reabsorbsiyasining kamayişi."
+  },
+  "ch32-f124": {
+   "text": "_Gitelman sindromi_ — distal kanalçalardagi tiazidga sezgir natriy-xlorid kotransporterining autosom-retsessiv kasalligi. Gitelman sindromi bölgan bemorlarda Bartter sindromi bölgan bemorlardagi ba’zi belgilar — tuz va suv yöqotilişi, suv hajmining yengil kamayişi va renin-angiotenzin-aldosteron tizimining faollaşuvi — kuzatiladi, ammo Gitelman sindromida bu buzilişlar odatda yengilroq keçadi.",
+   "lead": "Gitelman sindromi — distal kanalçalarda natriy xlorid reabsorbsiyasining kamayişi."
+  },
+  "ch32-f125": {
+   "text": "Bartter yoki Gitelman sindromidagi kanalça nuqsonlarini hozirça tuzatib bölmagani uçun davolaş odatda natriy xlorid va kaliy yöqotilişini töldirişga qaratiladi. Ba’zi tadqiqotlar nosteroid yalliğlanişga qarşi vositalar (NSAIDs) bilan prostaglandinlar sintezini bloklaş va spironolakton kabi aldosteron antagonistlarini qöllaş gipokaliyemiyani bartaraf etişda foydali bölişi mumkinligini körsatgan."
+  },
+  "ch32-f126": {
+   "text": "_Liddl sindromi_ — distal va yiğuvçi kanalçalardagi amiloridga sezgir epiteliy natriy kanalidagi (ENaC) turli mutatsiyalar natijasida yuzaga keladigan kam uçraydigan autosom-dominant kasallik. Bu mutatsiyalar ENaC ning haddan taşqari faolligiga sabab bölib, natriy va suv reabsorbsiyasining ortişiga, gipertenziya va metabolik alkalozga olib keladi; bu özgarişlar aldosteronning ortiqça sekretsiyasida (birlamçi aldosteronizmda) kuzatiladigan özgarişlarga öxşaydi.",
+   "lead": "Liddl sindromi — natriy reabsorbsiyasining ortişi."
+  },
+  "ch32-f127": {
+   "text": "Biroq Liddl sindromi bölgan bemorlarda natriy uşlanib qoladi, renin sekretsiyasi va Ang II darajasi esa kamayadi, bu öz navbatida buyrak usti bezlarining aldosteron sekretsiyasini kamaytiradi. Yaxşiyamki, Liddl sindromini ENaC ning haddan taşqari faolligini bloklaydigan diuretik — amilorid bilan davolaş mumkin."
+  },
+  "ch32-f128": {
+   "text": "Buyrak faoliyatining ötkir yoki surunkali oğir yöqotilişi hayot uçun xavfli bölib, toksik çiqindilarni çiqariş va tana suyuqliklarining hajmi va tarkibini me’yorga yaqinlaştirişni talab qiladi. Bunga buyrak köçirib ötkaziş yoki sun’iy buyrak yordamida dializ orqali erişiş mumkin. Hozirgi vaqtda Amerika Qöşma Ştatlarida 700 000 dan ortiq bemor ESRD ning u yoki bu turdagi davosini olmoqda."
+  },
+  "ch32-f129": {
+   "text": "ESRD bölgan bemorga bitta donor buyragini muvaffaqiyatli köçirib ötkaziş buyrak faoliyatini tana suyuqliklari va elektrolitlarining deyarli me’yoriy gomeostazini saqlaş uçun yetarli darajagaça tiklaşi mumkin. Amerika Qöşma Ştatlarida har yili taxminan 19 000 ta buyrak köçirib ötkaziladi, biroq 100 000 dan ortiq bemor buyrak transplantatsiyasini kutmoqda. Buyrak köçirib ötkazilgan bemorlar odatda dializda turgan bemorlarga qaraganda uzoqroq yaşaydi va soğliği bilan boğliq muammolari kamroq böladi. Köçirib ötkazilgan buyrakning ötkir rad etilişi va yöqotilişining oldini oliş uçun deyarli barça bemorlarda immunosupressiv terapiyani davom ettiriş talab etiladi. Immun tizimini susaytiradigan dorilarning nojöya ta’sirlariga infeksiyalar va ayrim saraton turlari xavfining ortişi kiradi, ammo vaqt ötişi bilan immunosupressiv terapiya miqdorini odatda kamaytirib, bu xavflarni ança pasaytiriş mumkin."
+  },
+  "ch32-f130": {
+   "text": "Amerika Qöşma Ştatlarida qaytmas buyrak yetişmovçiligi bölgan yoki buyraklari butunlay olib taşlangan 475 000 dan ortiq kişi sun’iy buyrak yordamida surunkali dializda turibdi. Dializ AKI ning ayrim turlarida ham buyraklar öz faoliyatini tiklagunça bemorni qöllab-quvvatlaş uçun qöllaniladi. Agar buyrak faoliyatining yöqotilişi qaytmas bölsa, hayotni saqlab qoliş uçun dializni surunkali ravişda ötkaziş zarur. Dializ tana suyuqliklarining töliq me’yoriy tarkibini saqlay olmagani va buyraklar bajaradigan köplab funksiyalarning hammasini örnini bosa olmagani uçun sun’iy buyrak yordamida hayoti saqlab turilgan bemorlarning soğliği odatda sezilarli darajada buzilganiça qoladi."
+  },
+  "ch32-f131": {
+   "text": "Sun’iy buyrakning asosiy tamoyili — qonni yupqa membrana bilan çegaralangan juda mayda qon kanallari orqali ötkaziş. Membrananing narigi tomonida _dializ suyuqligi_ böladi; qondagi keraksiz moddalar diffuziya orqali şu suyuqlikka ötadi."
+  },
+  "ch32-f132": {
+   "text": "**Rasm 32-8** da sun’iy buyrakning bir turining tarkibiy qismlari körsatilgan: unda qon sellofandan yasalgan ikkita yupqa membrana orasidan uzluksiz oqadi; membrananing taşqi tomonida dializ suyuqligi böladi. Sellofan plazma oqsillaridan taşqari plazmaning barça tarkibiy qismlari ikki yönalişda — plazmadan dializ suyuqligiga yoki dializ suyuqligidan qaytib plazmaga — diffuziyalanişiga imkon beradigan darajada ğovak. Agar biror moddaning konsentratsiyasi plazmada dializ suyuqligidagiga qaraganda yuqori bölsa, u moddaning plazmadan dializ suyuqligiga _sof_ ötişi yuz beradi."
+  },
+  "ch32-f134": {
+   "text": "Erigan moddaning dializ membranasi orqali ötiş tezligi quyidagilarga boğliq: (1) ikki eritma örtasidagi şu modda konsentratsiyasi gradiyenti; (2) membrananing şu modda uçun ötkazuvçanligi; (3) membrananing yuza maydoni; (4) qon va suyuqlikning membrana bilan aloqada böliş vaqti."
+  },
+  "ch32-f135": {
+   "text": "Şunday qilib, erigan moddaning maksimal ötiş tezligi dastlab, konsentratsiya gradiyenti eng katta bölganda (dializ boşlanganda) kuzatiladi va konsentratsiya gradiyenti yöqolib borgan sari sekinlaşadi. Gemodializdagi kabi qon va dializat suyuqligi sun’iy buyrak orqali oqib ötadigan oqimli tizimda qon, dializ suyuqligi yoki ikkalasining oqim tezligini oşiriş orqali konsentratsiya gradiyentining yöqolişini kamaytiriş va erigan moddaning membrana orqali diffuziyasini optimallaştiriş mumkin."
+  },
+  "ch32-f136": {
+   "text": "Sun’iy buyrak me’yorida işlaganda qon uzluksiz yoki vaqti-vaqti bilan venaga qaytib oqadi. Istalgan paytda sun’iy buyrakdagi qonning umumiy miqdori odatda 500 millilitrdan kam, oqim tezligi daqiqasiga bir neça yuz millilitr bölişi mumkin, umumiy diffuziya yuzasi esa 0,6 dan 2,5 m2 gaça. Sun’iy buyrakda qon ivişining oldini oliş uçun qon sun’iy buyrakka kirayotganda unga oz miqdorda geparin yuboriladi. Erigan moddalar diffuziyasidan taşqari, gidrostatik bosim qöllab, suyuqlik va erigan moddalarni dializator membranalari orqali majburan ötkaziş yöli bilan erigan moddalar va suvning ommaviy köçişini ham hosil qiliş mumkin; filtratsiyaning bu turi _ommaviy oqim_ yoki _gemofiltratsiya_ deb ataladi."
+  },
+  "ch32-f137": {
+   "text": "**Jadval 32-7** da odatiy dializ suyuqligining tarkibiy qismlari me’yoriy plazma va uremik plazma tarkibiy qismlari bilan taqqoslangan. E’tibor bering: dializ suyuqligidagi ionlar va boşqa moddalarning konsentratsiyasi me’yoriy plazma yoki uremik plazmadagi konsentratsiyalar bilan bir xil emas. Aksinça, ular dializ paytida membrana orqali suv va erigan moddalarning kerakli harakatini ta’minlaş uçun zarur darajalarga moslaştiriladi."
+  },
+  "ch32-f139": {
+   "text": "E’tibor bering: dializ suyuqligida fosfat, moçevina, urat, sulfat yoki kreatinin yöq; biroq bu moddalar uremik qonda yuqori konsentratsiyada böladi. Şu sababli uremik bemorga dializ ötkazilganda bu moddalar katta miqdorda dializ suyuqligiga ötib yöqotiladi."
+  },
+  "ch32-f140": {
+   "text": "Sun’iy buyrakning samaradorligini har daqiqada turli moddalardan tozalanadigan plazma miqdori bilan ifodalaş mumkin; 28-bobda muhokama qilinganidek, bu buyraklarning özi organizmni keraksiz moddalardan xalos qilişdagi funksional samaradorligini ifodalaşning asosiy usuli hisoblanadi. Köpçilik sun’iy buyraklar plazmani moçevinadan 100–225 ml/min tezlikda tozalay oladi; bu şuni körsatadiki, heç bölmaganda moçevinani çiqariş böyiça sun’iy buyrak moçevina klirensi atigi 70 ml/min bölgan ikkita me’yoriy buyrakka qaraganda taxminan ikki baravar tezroq işlay oladi. Biroq sun’iy buyrak haftasiga uç marta, kuniga atigi 4–6 soat qöllaniladi. Şu sababli sun’iy buyrak me’yoriy buyraklar örnini bosganda umumiy plazma klirensi hali ham ança çeklangan böladi. Şuningdek, sun’iy buyrak buyraklarning ba’zi boşqa funksiyalari, masalan, qizil qon hujayralari hosil bölişi uçun zarur bölgan eritropoetin sekretsiyasi örnini bosa olmasligini yodda tutiş muhim."
+  }
+ },
+ "figures": {
+  "gh14-fig-32-01": "Diuretik qöllaş davomida natriy ekskretsiyasi va hujayradan taşqari suyuqlik hajmi. Natriy ekskretsiyasining darhol ortişi hujayradan taşqari suyuqlik hajmining kamayişi bilan keçadi. Agar natriy iste’moli doimiy saqlansa, kompensator mexanizmlar oxir-oqibat natriy ekskretsiyasini natriy iste’moliga tenglaştiradi va şu bilan natriy muvozanatini qayta tiklaydi.",
+  "gh14-fig-32-02": "Birlamçi buyrak kasalligida yuzaga kelişi mumkin bölgan ayovsiz doira körsatilgan. Kasallik tufayli nefronlarning yöqotilişi tirik qolgan koptokça kapillyarlarida bosim va oqimni oşirişi mumkin, bu esa öz navbatida oxir-oqibat bu me’yoriy kapillyarlarni ham şikastlab, zörayib boruvçi sklerozga va bu koptokçalarning ham yöqotilişiga olib kelişi mumkin.",
+  "gh14-fig-32-03": "Qarişning funksional koptokçalar soniga ta’siri.",
+  "gh14-fig-32-04": "Kreatinin hosil böliş tezligi doimiy bölganda koptokçalar filtratsiyasi tezligini (GFR) 50% ga kamaytirişning zardobdagi kreatinin konsentratsiyasi va kreatinin çiqariliş tezligiga ta’siri.",
+  "gh14-fig-32-05": "Surunkali buyrak yetişmovçiligida turli erigan moddalar uçun xos bölgan moslaşuv şakllari. A egri çiziq filtrlanadigan va yomon reabsorbsiyalanadigan kreatinin va moçevina kabi moddalarning plazmadagi konsentratsiyasining taxminiy özgarişlarini körsatadi. B egri çiziq fosfat, urat va vodorod ioni kabi moddalarning taxminiy konsentratsiyalarini körsatadi. C egri çiziq natriy va xlorid kabi moddalarning taxminiy konsentratsiyalarini körsatadi.",
+  "gh14-fig-32-06": "Funksional nefronlar soni kamaygan bemorda izostenuriyaning rivojlanişi.",
+  "gh14-fig-32-07": "Buyrak yetişmovçiligining hujayradan taşqari suyuqlik tarkibiy qismlariga ta’siri. NPN — oqsilsiz azot birikmalari.",
+  "gh14-fig-32-08": "Sun’iy buyrak yordamida dializ tamoyillari.",
+  "gh14-tab-32-01": "Diuretiklar sinflari, ularning ta’sir mexanizmlari va kanalçalardagi ta’sir joylari",
+  "gh14-tab-32-02": "Prerenal ötkir buyrak şikastlanişining ba’zi sabablari",
+  "gh14-tab-32-03": "Renal ötkir buyrak şikastlanişining ba’zi sabablari",
+  "gh14-tab-32-04": "Surunkali buyrak kasalligining ba’zi sabablari",
+  "gh14-tab-32-05": "Buyrak kasalligi terminal bosqiçining (ESRD) eng köp uçraydigan sabablari",
+  "gh14-tab-32-06": "Buyrak kasalligida buyrakning umumiy ekskretsiyasi va bitta nefronga töğri keladigan ekskretsiya",
+  "gh14-tab-32-07": "Dializ suyuqligining me’yoriy va uremik plazma bilan taqqoslanişi"
+ }
+}

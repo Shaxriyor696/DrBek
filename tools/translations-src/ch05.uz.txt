@@ -1,0 +1,420 @@
+# Guyton & Hall, 14-nashr, 5-bob — to‘liq o‘zbekcha tarjima.
+# Format: har bir blok "@@ <bid>" qatoridan boshlanadi; "LEAD: ..." ixtiyoriy qator — xatboshi boshidagi qalin sarlavha.
+# Tarjimon: Claude (DrStudy sessiyasi), 2026-11-17. Holat: ekspert tekshiruvi kerak.
+
+@@ ch05-f0
+Organizmdagi deyarli barça hujayralarning membranalarida elektr potensiallari mavjud. Ayrim hujayralar, masalan nerv va muskul hujayralari, öz membranalarida tez özgaruvçan elektrokimyoviy impulslar hosil qiladi va bu impulslar signallarni nerv yoki muskul membranalari böylab uzatiş uçun işlatiladi. Boşqa turdagi hujayralarda, masalan bez hujayralari, makrofaglar va kiprikli hujayralarda ham membrana potensiallarining mahalliy özgarişlari hujayraning köplab funksiyalarini faollaştiradi. Uşbu bobda nerv va muskul hujayralarida membrana potensiallarining tinç holatda va faoliyat paytida hosil bölişining asosiy mexanizmlari körib çiqiladi. Qarang: Video 5-1.
+
+@@ ch05-f1
+Membrana potensiallarining asosiy fizikasi
+
+@@ ch05-f2
+Tanlab ötkazuvçan membranadagi ion konsentratsiyalari farqi hosil qiladigan membrana potensiallari
+
+@@ ch05-f3
+**Rasm 5-1A** da kaliy konsentratsiyasi nerv tolasi membranasining _içki_ tomonida yuqori, membrananing _taşqi_ tomonida esa juda past. Faraz qilaylik, bu holda membrana kaliy ionlarini ötkazadi, ammo boşqa heç qanday ionni ötkazmaydi. Içkaridan taşqariga yönalgan katta kaliy konsentratsiya gradiyenti tufayli kaliy ionlari membrana orqali taşqariga diffuziyalanişga kuçli intiladi. Ular şunday qilganda musbat elektr zaryadlarini taşqariga olib çiqadi; natijada membrana taşqarisida elektromusbatlik, içkarisida esa kaliy bilan birga taşqariga diffuziyalanmay qolgan manfiy anionlar hisobiga elektromanfiylik hosil böladi. Taxminan 1 millisekund içida içki va taşqi tomon örtasidagi _diffuziya potensiali_ deb ataladigan potensiallar farqi kaliy ionlari konsentratsiya gradiyenti yuqori bölişiga qaramay, kaliyning taşqariga keyingi sof diffuziyasini töxtatadigan darajada katta böladi. Sutemizuvçilarning me’yoriy nerv tolasida _potensiallar farqi taxminan 94 millivoltni taşkil qiladi, bunda tola membranasining içki tomoni manfiy böladi._
+
+@@ ch05-f5
+**Rasm 5-1B** da **Rasm 5-1A** dagi hodisaning özi körsatilgan, ammo bu safar natriy ionlarining konsentratsiyasi membrananing _taşqarisida_ yuqori, _içkarisida_ esa past. Bu ionlar ham musbat zaryadlangan. Bu safar membrana natriy ionlarini yaxşi ötkazadi, qolgan barça ionlarni esa ötkazmaydi. Musbat zaryadlangan natriy ionlarining içkariga diffuziyasi **Rasm 5-1A** dagiga teskari qutbli membrana potensialini hosil qiladi: taşqi tomon manfiy, içki tomon esa musbat böladi. Bu holda ham membrana potensiali bir neça millisekund içida natriy ionlarining içkariga keyingi sof diffuziyasini töxtatadigan darajagaça kötariladi; biroq bu safar sutemizuvçilarning nerv tolasida _potensial tola içida taxminan 61 millivolt musbat böladi._
+
+@@ ch05-f6
+Şunday qilib, **Rasm 5-1** ning har ikki qismida körinib turibdiki, tanlab ötkazuvçan membranadagi ion konsentratsiyalari farqi tegişli şaroitlarda membrana potensialini hosil qilişi mumkin. Bobning keyingi qismida nerv va muskul impulslarining uzatilişi paytida kuzatiladigan membrana potensialining köplab tez özgarişlari aynan şunday tez özgaruvçan diffuziya potensiallari natijasi ekanini körsatamiz.
+
+@@ ch05-f7
+LEAD: Nernst tenglamasi diffuziya potensialining membranadagi ion konsentratsiyalari farqiga boğliqligini ifodalaydi.
+Muayyan ionning membrana orqali sof diffuziyasiga aniq qarşi turadigan membranadagi diffuziya potensiali şu ion uçun _Nernst potensiali_ deb ataladi; bu atama 4-bobda kiritilgan edi. Nernst potensialining kattaligi şu muayyan ionning membrananing ikki tomonidagi konsentratsiyalari _nisbati_ bilan belgilanadi. Bu nisbat qança katta bölsa, ionning bir yönalişda diffuziyalanişga intilişi şunça kuçli böladi va demak, qöşimça sof diffuziyaning oldini oliş uçun zarur Nernst potensiali ham şunça katta böladi. Tananing me’yoriy harorati — 98,6°F (37°C) da har qanday bir valentli ion uçun Nernst potensialini hisoblaşda _Nernst tenglamasi_ deb ataladigan quyidagi tenglamadan foydalaniş mumkin:
+
+@@ ch05-f8
+bu yerda EYuK — elektr yurituvçi kuç, z — ionning elektr zaryadi (masalan, K+ uçun +1).
+
+@@ ch05-f9
+Bu formuladan foydalanilganda odatda membrana taşqarisidagi hujayradan taşqari suyuqlikdagi potensial nolga teng bölib qoladi, Nernst potensiali esa membrana içidagi potensial deb qabul qilinadi. Şuningdek, içkaridan taşqariga diffuziyalanayotgan ion manfiy ion bölsa, potensial işorasi musbat (+), musbat ion bölsa, manfiy (−) böladi. Şunday qilib, musbat kaliy ionlarining içkaridagi konsentratsiyasi taşqaridagidan 10 marta köp bölganda, 10 ning logarifmi 1 ga teng bölgani uçun Nernst potensiali membrana içida −61 millivolt bölib çiqadi.
+
+@@ ch05-f10
+LEAD: Membrana bir neça xil ionni ötkazganda diffuziya potensiali Goldman tenglamasi yordamida hisoblanadi.
+Membrana bir neça xil ionni ötkazganda hosil böladigan diffuziya potensiali uçta omilga boğliq: (1) har bir ion elektr zaryadining qutbliligi; (2) membrananing har bir ionga nisbatan ötkazuvçanligi (P); (3) tegişli ionlarning membrana içidagi (i) va taşqarisidagi (o) konsentratsiyasi (C). Şunday qilib, ikkita bir valentli musbat ion — natriy (Na+) va kaliy (K+) hamda bitta bir valentli manfiy ion — xlorid (Cl−) iştirok etganda, _Goldman tenglamasi_ yoki _Goldman-Xodjkin-Kats tenglamasi_ deb ataladigan quyidagi formula membrananing _içki_ tomonidagi hisoblangan membrana potensialini beradi:
+
+@@ ch05-f11
+Goldman tenglamasidan bir qança muhim xulosalar kelib çiqadi. Birinçidan, natriy, kaliy va xlorid ionlari nerv va muskul tolalarida, şuningdek, neyron hujayralarida membrana potensiallarining hosil bölişida iştirok etadigan eng muhim ionlardir. Bu ionlarning har biri membrana böylab hosil qiladigan konsentratsiya gradiyenti membrana potensialining kuçlanişini belgilaşga hissa qöşadi.
+
+@@ ch05-f12
+Ikkinçidan, kuçlanişni belgilaşda har bir ionning miqdoriy ahamiyati membrananing şu ionga nisbatan ötkazuvçanligiga proporsional. Agar membrana natriy va xlorid ionlarini umuman ötkazmasa, membrana potensiali butunlay faqat kaliy ionlarining konsentratsiya gradiyenti bilan belgilanadi va hosil böladigan potensial kaliyning Nernst potensialiga teng böladi. Agar membrana qolgan ikki iondan faqat birini tanlab ötkazsa, ularning har biri uçun ham xuddi şunday böladi.
+
+@@ ch05-f13
+Uçinçidan, membrananing _içki_ tomonidan _taşqi_ tomoniga yönalgan musbat ion konsentratsiya gradiyenti membrana içida elektromanfiylikni yuzaga keltiradi. Bu hodisaning sababi şundaki, musbat ionlarning konsentratsiyasi membrana içida taşqaridagidan yuqori bölganda ortiqça musbat ionlar taşqariga diffuziyalanadi. Bu diffuziya musbat zaryadlarni taşqariga olib çiqadi, diffuziyalanmaydigan manfiy anionlarni esa içkarida qoldiradi va şu tariqa içki tomonda elektromanfiylik hosil qiladi. Manfiy ion uçun gradiyent mavjud bölganda teskari ta’sir kuzatiladi. Ya’ni taşqaridan içkariga yönalgan xlorid ioni gradiyenti hujayra içida manfiylikni keltirib çiqaradi, çunki ortiqça manfiy zaryadlangan xlorid ionlari içkariga diffuziyalanadi va diffuziyalanmaydigan musbat ionlarni taşqarida qoldiradi.
+
+@@ ch05-f14
+Törtinçidan, keyinroq tuşuntirilganidek, nerv impulsi uzatilişi paytida natriy va kaliy kanallarining ötkazuvçanligi tez özgaradi, xlorid kanallarining ötkazuvçanligi esa bu jarayonda unçalik özgarmaydi. Şuning uçun neyronlarda signal uzatilişi uçun asosan natriy va kaliy ötkazuvçanligining tez özgarişlari javobgar; bobning qolgan qismining katta qismi aynan şu mavzuga bağişlangan.
+
+@@ ch05-f15
+LEAD: Turli hujayra turlarining tinçlik membrana potensiali.
+Ayrim hujayralarda, masalan 10-bobda muhokama qilinadigan yurak ritm yetakçisi (peysmeyker) hujayralarida, membrana potensiali doimo özgarib turadi va bu hujayralar heç qaçon “tinç” holatda bölmaydi. Boşqa köplab hujayralarda, hatto qözğaluvçan hujayralarda ham, tinçlik membrana potensialini ölçaş mumkin bölgan sokin davr böladi. **Jadval 5-1** da ayrim turdagi hujayralarning taxminiy tinçlik membrana potensiallari keltirilgan. Harakat potensiallari yuzaga keladigan neyronlar kabi qözğaluvçan hujayralarda membrana potensiali, şubhasiz, juda dinamik. Biroq qözğalmaydigan hujayralarda ham membrana potensiali (kuçlaniş) turli ta’sirotlarga javoban özgaradi; bu ta’sirotlar turli ion taşuvçilari va ion kanallarining faolligini hamda membrananing natriy, kaliy, kalsiy va xlorid ionlariga ötkazuvçanligini özgartiradi. Demak, köplab hujayralar uçun tinçlik membrana potensiali qisqa muddatli ötkinçi holatdir.
+
+@@ ch05-f17
+LEAD: Elektrokimyoviy harakatlantiruvçi kuç.
+Membrana potensialini bir neçta ion hosil qilganda, ularning har birining muvozanat potensiali membrana potensialidan farq qiladi va har bir ion uçun ionni membrana orqali sof harakatlantirişga intiluvçi _elektrokimyoviy harakatlantiruvçi kuç_ (Vdf) mavjud böladi. Bu harakatlantiruvçi kuç membrana potensiali (Vm) bilan ionning muvozanat potensiali (Veq) örtasidagi farqqa teng. Şunday qilib, Vdf = Vm – Veq.
+
+@@ ch05-f18
+Vdf ning arifmetik işorasi (musbat yoki manfiy) va ionning valentligi (kation yoki anion) yordamida ionning membrana orqali hujayraga kiriş yoki undan çiqiş yönalişini oldindan aytiş mumkin. Na+ va K+ kabi kationlar uçun musbat Vdf ionning elektrokimyoviy gradiyenti böylab hujayradan taşqariga harakatlanişini, manfiy Vdf esa ionning hujayra içiga harakatlanişini bildiradi. Cl− kabi anionlar uçun musbat Vdf ionning hujayra içiga, manfiy Vdf esa hujayradan taşqariga harakatlanişini bildiradi. Vm = Veq bölganda ionning hujayraga kirişi yoki undan çiqişi böyiça sof harakat bölmaydi. Şuningdek, Vm Veq dan katta yoki kiçik bölişiga qarab ionlarning membrana orqali oqimi yönalişi teskarisiga özgaradi; şu sababli muvozanat potensiali (Veq) _inversiya potensiali_ deb ham ataladi.
+
+@@ ch05-f19
+Membrana potensialini ölçaş
+
+@@ ch05-f20
+Membrana potensialini ölçaş usuli nazariy jihatdan oddiy, ammo köpçilik hujayra va tolalarning kiçikligi sababli amalda köpinça qiyin. **Rasm 5-2** da elektrolit eritmasi bilan töldirilgan kiçik mikropipetka körsatilgan. Mikropipetka hujayra membranasini teşib, tola içiga kiritiladi. Söngra _indifferent elektrod_ deb ataladigan boşqa elektrod hujayradan taşqari suyuqlikka joylaştiriladi va tolaning içki va taşqi tomoni örtasidagi potensiallar farqi tegişli voltmetr yordamida ölçanadi. Bu voltmetr juda murakkab elektron asbob bölib, mikropipetka uçidagi elektr oqimiga nihoyatda yuqori qarşilik bölişiga qaramay, kiçik kuçlanişlarni ölçay oladi; mikropipetka uçining içki diametri odatda 1 mikrometrdan kiçik, qarşiligi esa 1 million ohmdan ortiq böladi. Nerv impulslari uzatilişi paytida membrana potensialining tez _özgarişlarini_ yozib oliş uçun, bobning keyingi qismida tuşuntirilganidek, mikroelektrod ossillografga ulanadi.
+
+@@ ch05-f22
+**Rasm 5-3** ning pastki qismida rasmning çap tomonidan boşlab öngga qarab nerv tolasi membranasi içidagi yoki uning yaqinidagi har bir nuqtada ölçangan elektr potensiali körsatilgan. Elektrod neyron membranasidan taşqarida bölgan ekan, qayd etilgan potensial nolga teng; bu hujayradan taşqari suyuqlikning potensialidir. Söngra qayd qiluvçi elektrod hujayra membranasidagi kuçlaniş özgaradigan soha (_elektr qöş qavat_ deb ataladi) orqali ötganda potensial keskin −70 millivoltgaça pasayadi. Tolaning markazi böylab harakatlanganda potensial barqaror −70 millivolt darajasida qoladi, biroq tolaning qarama-qarşi tomonidagi membranadan ötgan zahoti yana nolga qaytadi.
+
+@@ ch05-f24
+Membrana içida manfiy potensial hosil qiliş uçun faqat membrananing özida elektr qöş qavatni hosil qilişga yetadigan miqdordagi musbat ionlarni taşqariga çiqariş kifoya. **Rasm 5-3** ning yuqori qismida körsatilganidek, nerv tolasi içida qolgan ionlar ham musbat, ham manfiy bölişi mumkin. Şuning uçun membrana orqali aql bovar qilmaydigan darajada oz miqdordagi ionlarning ötişi nerv tolasi içida −70 millivoltlik me’yoriy tinçlik potensialini hosil qila oladi; buning uçun tola içidagi umumiy musbat zaryadlarning atigi 1/3 000 000 dan 1/100 000 000 gaçasini köçiriş kifoya. Şuningdek, taşqaridan tola içiga harakatlanuvçi xuddi şunçalik oz miqdordagi musbat ionlar potensialni sekundning atigi 1/10 000 uluşi içida −70 millivoltdan +35 millivoltgaça özgartira oladi. Ionlarning şu tarzda tez siljişi bobning keyingi bölimlarida muhokama qilinadigan nerv signallarini yuzaga keltiradi.
+
+@@ ch05-f25
+Neyronlarning tinçlik membrana potensiali
+
+@@ ch05-f26
+Yirik nerv tolalarining nerv signallarini uzatmayotgan paytdagi tinçlik membrana potensiali taxminan −70 millivoltni taşkil qiladi. Ya’ni _tola içidagi_ potensial tola taşqarisidagi hujayradan taşqari suyuqlikdagi potensialdan 70 millivolt manfiyroq. Keyingi bir neça xatboşida tinç holatdagi nerv membranasining natriy va kaliyga nisbatan transport xususiyatlari hamda bu tinçlik potensiali darajasini belgilovçi omillar tuşuntiriladi.
+
+@@ ch05-f27
+LEAD: Natriy va kaliy ionlarining membrana orqali faol transporti — natriy-kaliy (Na+-K+) nasosi.
+4-bobdan eslaylik: organizmdagi barça hujayra membranalarida **Rasm 5-4** ning çap tomonida tasvirlanganidek, natriy ionlarini doimiy ravişda hujayradan taşqariga, kaliy ionlarini esa içkariga taşib turuvçi kuçli Na+-K+ nasosi bor. E’tibor bering: bu _elektrogen nasos_, çunki içkariga haydalgan har ikkita K+ ioniga taşqariga uçta Na+ ioni çiqariladi; bu içkarida musbat ionlarning sof tanqisligini qoldiradi va hujayra membranasi içida manfiy potensial hosil qiladi.
+
+@@ ch05-f29
+Na+-K+ nasosi, şuningdek, tinç holatdagi nerv membranasi böylab natriy va kaliyning katta konsentratsiya gradiyentlarini yuzaga keltiradi. Bu gradiyentlar quyidagiça:
+
+@@ ch05-f30
+Bu ikki ionning içki va taşqi konsentratsiyalari nisbati quyidagiça:
+
+@@ ch05-f31
+LEAD: Kaliyning nerv hujayrasi membranasi orqali sizib çiqişi.
+**Rasm 5-4** ning öng tomonida nerv membranasidagi kanal oqsili (ba’zan _tandem teşik domenli kaliy kanali_ yoki _kaliy_ [K+] _“siziş” kanali_ deb ataladi) körsatilgan; u orqali kaliy ionlari hatto tinç holatdagi hujayrada ham sizib çiqişi mumkin. Kaliy kanallarining asosiy tuzilişi 4-bobda (**Rasm 4-4**) tasvirlangan edi. Bu K+ siziş kanallari natriy ionlarini ham ozgina ötkazişi mumkin, biroq kaliyni natriyga qaraganda ança yaxşi — odatda taxminan 100 marta köproq ötkazadi. Keyinroq muhokama qilinganidek, ötkazuvçanlikdagi bu farq me’yoriy tinçlik membrana potensiali darajasini belgilovçi asosiy omildir.
+
+@@ ch05-f32
+Me’yoriy tinçlik membrana potensialining kelib çiqişi
+
+@@ ch05-f33
+**Rasm 5-5** da me’yoriy tinçlik membrana potensialining hosil bölişidagi muhim omillar körsatilgan. Ular quyidagilar.
+
+@@ ch05-f35
+LEAD: Kaliy diffuziya potensialining hissasi.
+**Rasm 5-5A** da membrana orqali ionlarning yagona harakati kaliy ionlarining diffuziyasi deb faraz qilamiz; buni membrana içidagi va taşqarisidagi kaliy belgisi (K+) orasidagi oçiq kanallar körsatib turibdi. Kaliy ionlarining içki va taşqi konsentratsiyalari nisbati yuqori — 35:1 bölgani uçun şu nisbatga mos Nernst potensiali −94 millivoltni taşkil qiladi, çunki 35 ning logarifmi 1,54 ga teng, uni −61 millivoltga köpaytirsak, −94 millivolt çiqadi. Şuning uçun, agar tinçlik potensialini yuzaga keltiruvçi yagona omil kaliy ionlari bölganida, rasmda körsatilganidek, _tola içidagi_ tinçlik potensiali −94 millivoltga teng bölar edi.
+
+@@ ch05-f36
+LEAD: Natriyning nerv membranasi orqali diffuziyasining hissasi.
+**Rasm 5-5B** da nerv membranasining natriy ionlariga nisbatan biroz ötkazuvçanligi qöşilgan holat körsatilgan; bu ötkazuvçanlik natriy ionlarining K+-Na+ siziş kanallari orqali juda oz miqdorda diffuziyalanişi bilan boğliq. Natriy ionlarining membrana içidagi va taşqarisidagi konsentratsiyalari nisbati 0,1 ga teng bölib, bu membrananing içki tomoni uçun +61 millivoltlik hisoblangan Nernst potensialini beradi. **Rasm 5-5B** da kaliy diffuziyasi uçun −94 millivoltlik Nernst potensiali ham körsatilgan. Bular bir-biri bilan qanday özaro ta’sirlaşadi va yiğindi potensial qanday böladi? Bu savolga yuqorida tasvirlangan Goldman tenglamasi yordamida javob beriş mumkin. Intuitiv tarzda köriş mumkinki, agar membrana kaliyni yaxşi, natriyni esa ozgina ötkazsa, membrana potensialiga kaliy diffuziyasi natriy diffuziyasiga qaraganda ança köp hissa qöşadi. Me’yoriy nerv tolasida membrananing kaliyga ötkazuvçanligi natriyga ötkazuvçanligidan taxminan 100 marta yuqori. Bu qiymatni Goldman tenglamasiga qöyib, faqat natriy va kaliyni hisobga olsak, membrana içida −86 millivoltlik potensial hosil böladi; bu rasmda körsatilgan kaliy potensialiga yaqin.
+
+@@ ch05-f37
+LEAD: Na+-K+ nasosining hissasi.
+**Rasm 5-5C** da Na+-K+ nasosi tinçlik potensialiga qöşimça hissa qöşişi körsatilgan. Rasmdan körinadiki, membrana içiga haydalgan har ikkita kaliy ioniga uçta natriy ioni doimiy ravişda taşqariga çiqarib turiladi. Taşqariga içkariga haydalayotgan kaliy ionlariga qaraganda köproq natriy ionlarining çiqarilişi membrana içidan musbat zaryadlarning doimiy yöqotilişiga olib keladi va içki tomonda faqat diffuziya bilan tuşuntirib böladigan darajadan taşqari qöşimça manfiylikni (qöşimça taxminan −4 millivolt) hosil qiladi.
+
+@@ ch05-f38
+Şuning uçun **Rasm 5-5C** da körsatilganidek, bu omillarning barçasi bir vaqtda ta’sir qilganda sof membrana potensiali taxminan −90 millivoltni taşkil qiladi. Biroq membrana potensialini hisoblaşda xlorid kabi boşqa ionlarni ham hisobga oliş kerak.
+
+@@ ch05-f39
+Xulosa qilib aytganda, faqat kaliy va natriy diffuziyasi tufayli hosil böladigan diffuziya potensiallari taxminan −86 millivoltlik membrana potensialini beradi va uning deyarli hammasi kaliy diffuziyasi bilan belgilanadi. Söngra uzluksiz işlaydigan elektrogen Na+-K+ nasosi membrana potensialiga qöşimça −4 millivolt qöşadi; xlorid ionlarining ham hissasi bor. Yuqorida aytib ötilganidek, tinçlik membrana potensiali turli hujayralarda eritrotsitlardagi taxminan −10 millivoltdan skelet muskul hujayralaridagi −90 millivoltgaça özgaradi.
+
+@@ ch05-f40
+Neyronning harakat potensiali
+
+@@ ch05-f41
+Nerv signallari _harakat potensiallari_ orqali uzatiladi; ular nerv tolasi membranasi böylab tez tarqaladigan membrana potensialining tez özgarişlaridir. Har bir harakat potensiali me’yoriy manfiy tinçlik membrana potensialining tösatdan musbat potensialga özgarişi bilan boşlanadi va deyarli şunçalik tez manfiy potensialga qaytişi bilan tugaydi. Nerv signalini ötkaziş uçun harakat potensiali tola uçiga yetgunça nerv tolasi böylab harakatlanadi.
+
+@@ ch05-f42
+**Rasm 5-6** ning yuqori qismida harakat potensiali davomida membranada yuz beradigan özgarişlar körsatilgan: uning boşida musbat zaryadlar tola içiga ötadi, oxirida esa taşqariga qaytadi. Pastki qismida membrana potensialining sekundning bir neça ön mingdan bir uluşi davomidagi ketma-ket özgarişlari grafik tarzda körsatilgan; u harakat potensialining portlaşsimon boşlanişini va deyarli şunçalik tez tiklanişini namoyiş etadi.
+
+@@ ch05-f44
+Harakat potensialining ketma-ket bosqiçlari quyidagiça.
+
+@@ ch05-f45
+LEAD: Tinçlik bosqiçi.
+Tinçlik bosqiçi — harakat potensiali boşlanişidan oldingi tinçlik membrana potensiali. Bu bosqiçda −70 millivoltlik manfiy membrana potensiali mavjud bölgani uçun membrana “qutblangan” (polyarizatsiyalangan) deyiladi.
+
+@@ ch05-f46
+LEAD: Depolyarizatsiya bosqiçi.
+Bu paytda membrana tösatdan natriy ionlarini ötkaza boşlaydi va musbat zaryadlangan natriy ionlarining akson içiga tez diffuziyalanişiga imkon beradi. −70 millivoltlik me’yoriy qutblangan holat içkariga oqib kirayotgan musbat zaryadlangan natriy ionlari tomonidan darhol neytrallanadi va potensial musbat tomonga tez kötariladi; bu jarayon _depolyarizatsiya_ deb ataladi. Yirik nerv tolalarida içkariga kirayotgan musbat natriy ionlarining katta ortiqçaligi membrana potensialini hatto nol darajadan oşib ketib, biroz musbat bölişiga olib keladi. Ayrim ingiçkaroq tolalarda, şuningdek, markaziy nerv tizimining köplab neyronlarida potensial faqat nol darajaga yaqinlaşadi va musbat holatga ötib ketmaydi.
+
+@@ ch05-f47
+LEAD: Repolyarizatsiya bosqiçi.
+Membrana natriy ionlarini yuqori darajada ötkaza boşlaganidan keyin sekundning bir neça ön mingdan bir uluşi içida natriy kanallari yopila boşlaydi, kaliy kanallari esa odatdagidan kengroq oçiladi. Söngra kaliy ionlarining taşqariga tez diffuziyasi me’yoriy manfiy tinçlik membrana potensialini qayta tiklaydi; bu membrananing _repolyarizatsiyasi_ deb ataladi.
+
+@@ ch05-f48
+Depolyarizatsiyani ham, repolyarizatsiyani ham yuzaga keltiruvçi omillarni töliqroq tuşuntiriş uçun nerv membranasidagi yana ikki turdagi transport kanallari — potensialga boğliq natriy va kaliy kanallarining öziga xos xususiyatlarini tasvirlaymiz.
+
+@@ ch05-f49
+Potensialga boğliq natriy va kaliy kanallari
+
+@@ ch05-f50
+Harakat potensiali davomida nerv membranasining depolyarizatsiyasi va repolyarizatsiyasini yuzaga keltirişdagi zaruriy omil — _potensialga boğliq natriy kanali_. _Potensialga boğliq kaliy kanali_ ham membrana repolyarizatsiyasini tezlaştirişda muhim rol öynaydi. _Bu ikki potensialga boğliq kanal Na+-K+ nasosi va K+ siziş kanallariga qöşimça ravişda mavjud._
+
+@@ ch05-f51
+Potensialga boğliq natriy kanalining faollaşuvi va inaktivatsiyasi
+
+@@ ch05-f52
+**Rasm 5-7** ning yuqori qismida potensialga boğliq natriy kanali uç xil holatda körsatilgan. Bu kanalda ikkita _darvoza_ bor: biri kanalning taşqi tomoni yaqinida joylaşgan bölib, _faollaştiruvçi darvoza_ deb ataladi, ikkinçisi içki tomoni yaqinida joylaşgan bölib, _inaktivatsiyalovçi darvoza_ deb ataladi. Rasmning yuqori çap qismida membrana potensiali −70 millivolt bölgan me’yoriy tinç membranadagi bu ikki darvozaning holati tasvirlangan. Bu holatda faollaştiruvçi darvoza yopiq bölib, natriy ionlarining şu natriy kanallari orqali tola içiga har qanday kirişiga tösqinlik qiladi.
+
+@@ ch05-f54
+LEAD: Natriy kanalining faollaşuvi.
+Membrana potensiali tinç holatdagiga qaraganda kamroq manfiy bölib, −70 millivoltdan nol tomon kötarila borganda, oxir-oqibat faollaştiruvçi darvozada tösatdan konformatsion özgariş yuzaga keltiradigan kuçlanişga — odatda taxminan −55 millivolt atrofiga — yetadi va darvoza butunlay oçiq holatga ötadi. Bu _faollaşgan holatda_ natriy ionlari kanal orqali içkariga oqib kira oladi va membrananing natriyga ötkazuvçanligi 500–5000 baravargaça ortadi.
+
+@@ ch05-f55
+LEAD: Natriy kanalining inaktivatsiyasi.
+**Rasm 5-7** ning yuqori öng qismida natriy kanalining uçinçi holati körsatilgan. Faollaştiruvçi darvozani oçadigan kuçlaniş ortişining özi inaktivatsiyalovçi darvozani ham yopadi. Biroq inaktivatsiyalovçi darvoza faollaştiruvçi darvoza oçilganidan keyin sekundning bir neça ön mingdan bir uluşi ötgaç yopiladi. Ya’ni inaktivatsiyalovçi darvozani yopiq holatga ötkazuvçi konformatsion özgariş faollaştiruvçi darvozani oçuvçi konformatsion özgarişga qaraganda sekinroq jarayon. Şuning uçun natriy kanali sekundning bir neça ön mingdan bir uluşi davomida oçiq turgandan söng inaktivatsiyalovçi darvoza yopiladi va natriy ionlari endi membrana içiga oqib kira olmaydi. Şu paytdan boşlab membrana potensiali tinç membrana holatiga qayta boşlaydi; bu repolyarizatsiya jarayonidir.
+
+@@ ch05-f56
+Natriy kanali inaktivatsiyasi jarayonining yana bir muhim xususiyati şundaki, membrana potensiali dastlabki tinçlik membrana potensiali darajasiga yoki unga yaqin darajaga qaytmagunça inaktivatsiyalovçi darvoza qayta oçilmaydi. Şuning uçun odatda nerv tolasi avval repolyarizatsiyalanmasdan turib natriy kanallarining yana oçilişi mumkin emas.
+
+@@ ch05-f57
+Potensialga boğliq kaliy kanali va uning faollaşuvi
+
+@@ ch05-f58
+**Rasm 5-7** ning pastki qismida potensialga boğliq kaliy kanali ikki holatda körsatilgan — tinç holatda
+
+@@ ch05-f59
+(çapda) va harakat potensiali oxiriga yaqin (öngda). Tinç holatda kaliy kanalining darvozasi yopiq bölib, kaliy ionlarining bu kanal orqali taşqariga ötişiga yöl qöymaydi. Membrana potensiali −70 millivoltdan nol tomon kötarilganda bu kuçlaniş özgarişi darvozaning konformatsion oçilişiga sabab böladi va kaliyning kanal orqali taşqariga diffuziyasini oşiradi. Biroq kaliy kanallari biroz keçikib oçilgani sababli ular asosan natriy kanallari inaktivatsiya tufayli yopila boşlagan paytda oçiladi. Şunday qilib, natriyning hujayraga kirişining kamayişi va bir vaqtning özida kaliyning hujayradan çiqişining ortişi birgalikda repolyarizatsiya jarayonini tezlaştiradi va tinçlik membrana potensiali yana sekundning bir neça ön mingdan bir uluşi içida töliq tiklanadi.
+
+@@ ch05-f60
+LEAD: Kuçlanişning potensialga boğliq kanallarning oçilişi va yopilişiga ta’siri.
+Natriy va kaliy kanallarini miqdoriy jihatdan tuşunişga olib kelgan dastlabki tadqiqotlar şunçalik mohirona bölganki, ularni amalga oşirgan olimlar — Xodjkin va Haksli 1963-yilda Nobel mukofotiga sazovor bölişgan. Bu tadqiqotlarning mohiyati **Rasm 5-8** va **Rasm 5-9** da körsatilgan.
+
+@@ ch05-f61
+**Rasm 5-8** da turli kanallar orqali ionlar oqimini ölçaş uçun qöllaniladigan _kuçlanişni qisiş (voltage clamp) usuli_ körsatilgan. Bu asbobdan foydalanişda nerv tolasiga ikkita elektrod kiritiladi. Ulardan biri membrana potensialining kuçlanişini ölçaş uçun, ikkinçisi esa nerv tolasiga elektr tokini kiritiş yoki undan çiqariş uçun işlatiladi.
+
+@@ ch05-f63
+Bu asbobdan quyidagiça foydalaniladi. Tadqiqotçi nerv tolasi içida qanday kuçlaniş örnatilişini belgilaydi. Söngra asbobning elektron qismi kerakli kuçlanişga sozlanadi va u kuçlaniş elektrodi ölçayotgan kuçlanişni tadqiqotçi belgilagan darajada uşlab turiş uçun zarur bölgan har qanday tezlikda tok elektrodi orqali avtomatik ravişda musbat yoki manfiy elektr kiritib turadi. Membrana potensiali bu kuçlaniş qisgiçi yordamida −70 millivoltdan nolgaça tösatdan oşirilganda potensialga boğliq natriy va kaliy kanallari oçiladi va natriy hamda kaliy ionlari kanallar orqali oqa boşlaydi. Bu ion harakatlarining hujayra içi kuçlanişining belgilangan qiymatiga ta’sirini muvozanatlaş uçun kuçlaniş qisgiçining tok elektrodi orqali avtomatik ravişda elektr toki kiritiladi va hujayra içi kuçlanişi talab qilingan barqaror nol darajasida uşlab turiladi. Bunga erişiş uçun kiritilgan tok membrana kanallari orqali ötayotgan sof tokka miqdoran teng, ammo qutbliligi qarama-qarşi bölişi kerak. Har bir onda qança tok ötayotganini ölçaş uçun, **Rasm 5-8** da körsatilganidek, tok elektrodi tok oqimini qayd qiluvçi ampermetrga ulanadi.
+
+@@ ch05-f64
+Nihoyat, tadqiqotçi nerv tolasining içida ham, taşqarisida ham ionlar konsentratsiyalarini me’yoriy bölmagan darajalarga özgartiradi va tadqiqotni takrorlaydi. Bu tajribani ayrim umurtqasizlardan olingan yirik nerv tolalaridan, ayniqsa ba’zan diametri 1 millimetrgaça yetadigan kalmarning gigant aksonidan foydalanib oson ötkaziş mumkin. Kalmar aksonining içidagi va taşqarisidagi eritmalarda membranadan ötadigan yagona ion natriy bölsa, kuçlaniş qisgiçi faqat natriy kanallari orqali ötayotgan tokni ölçaydi. Membranadan ötadigan yagona ion kaliy bölsa, faqat kaliy kanallari orqali ötayotgan tok ölçanadi.
+
+@@ ch05-f65
+Ionlarning muayyan turdagi kanal orqali oqimini örganişning yana bir usuli — bir vaqtda kanallarning faqat bir turini tösib qöyiş. Masalan, natriy kanallarini tetrodotoksin deb ataladigan toksin tösib qöyişi mumkin; buning uçun u natriy faollaştiruvçi darvozalari joylaşgan hujayra membranasining taşqi yuzasiga ta’sir ettiriladi. Aksinça, tetraetilammoniy ioni nerv tolasi içiga kiritilganda kaliy kanallarini tösib qöyadi.
+
+@@ ch05-f66
+**Rasm 5-9** da kuçlaniş qisgiçi yordamida membrana potensiali −70 millivoltdan +10 millivoltgaça tösatdan özgartirilib, 2 millisekunddan keyin yana −70 millivoltga qaytarilganda potensialga boğliq natriy va kaliy kanallari ötkazuvçanligining tipik özgarişlari körsatilgan. E’tibor bering: membrana potensiali musbat qiymatgaça oşirilganidan keyin millisekundning kiçik bir uluşi içida natriy kanallari tösatdan oçiladi (faollaşuv bosqiçi). Biroq keyingi taxminan bir millisekund davomida natriy kanallari avtomatik ravişda yopiladi (inaktivatsiya bosqiçi).
+
+@@ ch05-f68
+Kaliy kanallarining oçilişiga (faollaşuviga) e’tibor bering: ular sekinroq oçiladi va natriy kanallari deyarli butunlay yopilgandan keyingina töliq oçiq holatga yetadi. Bundan taşqari, kaliy kanallari oçilgaç, musbat membrana potensiali davom etgan butun vaqt mobaynida oçiq qoladi va membrana potensiali yana manfiy qiymatgaça pasaymagunça qayta yopilmaydi.
+
+@@ ch05-f69
+Harakat potensialini yuzaga keltiruvçi hodisalar xulosasi
+
+@@ ch05-f70
+**Rasm 5-10** da harakat potensiali davomida va undan keyin qisqa vaqt içida yuz beradigan ketma-ket hodisalar umumlaştirilgan. Rasmning pastki qismida membrananing natriy va kaliy ionlariga ötkazuvçanligidagi özgarişlar körsatilgan. Tinç holatda, harakat potensiali boşlanişidan oldin, kaliy ionlariga ötkazuvçanlik natriy ionlariga ötkazuvçanlikdan 50–100 marta yuqori. Bu nomutanosiblik siziş kanallari orqali kaliy ionlarining natriy ionlariga qaraganda ança köp sizib çiqişi bilan boğliq. Biroq harakat potensiali boşlanişi bilan natriy kanallari deyarli bir zumda faollaşadi va natriy ötkazuvçanligini 5000 baravargaça oşiradi. Söngra inaktivatsiya jarayoni yana millisekundning bir uluşi içida natriy kanallarini yopadi. Harakat potensialining boşlanişi kaliy kanallarining potensialga boğliq darvozalanişini ham işga tuşiradi va ular natriy kanallari oçilganidan millisekundning bir uluşi ötgaç sekinroq oçila boşlaydi. Harakat potensiali oxirida membrana potensialining manfiy holatga qaytişi kaliy kanallarining dastlabki holatiga qaytib yopilişiga sabab böladi, biroq bu ham yana qöşimça bir millisekund yoki undan köproq keçikiş bilan sodir böladi.
+
+@@ ch05-f72
+**Rasm 5-10** ning örta qismida harakat potensiali davomidagi har bir ondagi natriy va kaliy ötkazuvçanliklarining nisbati, uning ustida esa harakat potensialining özi körsatilgan. Harakat potensialining dastlabki qismida natriy va kaliy ötkazuvçanliklari nisbati 1000 martadan köproq ortadi. Şuning uçun tola içiga oqib kiradigan natriy ionlari taşqariga çiqadigan kaliy ionlariga qaraganda ança köp böladi. Aynan şu narsa harakat potensiali boşlanişida membrana potensialining musbat bölib qolişiga sabab böladi. Söngra natriy kanallari yopila, kaliy kanallari esa oçila boşlaydi; şunday qilib, ötkazuvçanliklar nisbati kaliy ötkazuvçanligi yuqori, natriy ötkazuvçanligi esa past bölgan tomonga keskin siljiydi. Bu siljiş kaliy ionlarining taşqariga juda tez çiqib ketişiga imkon beradi, natriy ionlarining içkariga oqimi esa deyarli nolga teng böladi. Natijada harakat potensiali tezda dastlabki darajasiga qaytadi.
+
+@@ ch05-f73
+Hozirgaça biz harakat potensialini hosil qilişda faqat natriy va kaliy ionlarining rolini körib çiqdik. Yana kamida ikki turdagi ionni — manfiy anionlar va kalsiy ionlarini ham hisobga oliş kerak.
+
+@@ ch05-f74
+LEAD: Nerv aksoni içidagi membranadan ötmaydigan manfiy zaryadlangan ionlar (anionlar).
+Akson içida membrana kanallaridan öta olmaydigan köplab manfiy zaryadlangan ionlar bor. Ularga, jumladan, oqsil molekulalari, köplab organik fosfat birikmalari va sulfat birikmalarining anionlari kiradi. Bu ionlar akson içidan çiqib keta olmagani uçun membrana içidagi musbat ionlarning har qanday tanqisligi şu ötmaydigan manfiy anionlarning ortiqçaligini qoldiradi. Şuning uçun musbat zaryadlangan kaliy ionlari va boşqa musbat ionlarning sof tanqisligi bölganda tola içidagi manfiy zaryad uçun aynan şu ötmaydigan manfiy ionlar javobgar.
+
+@@ ch05-f75
+LEAD: Kalsiy ionlari.
+Organizmdagi deyarli barça hujayralarning membranalarida natriy nasosiga öxşaş kalsiy nasosi bor va ayrim hujayralarda harakat potensialining katta qismini yuzaga keltirişda kalsiy natriy bilan birga (yoki uning örniga) iştirok etadi. Natriy nasosi kabi kalsiy nasosi ham kalsiy ionlarini hujayra membranasining içidan taşqarisiga (yoki hujayraning endoplazmatik töriga) taşiydi va taxminan 10 000 baravarlik kalsiy ioni gradiyentini hosil qiladi. Natijada hujayra içidagi kalsiy ionlari konsentratsiyasi taxminan 10−7 molyar bölib qoladi, taşqi konsentratsiya esa taxminan 10−3 molyar. Bundan taşqari, _potensialga boğliq kalsiy kanallari_ ham mavjud. Kalsiy ionlari konsentratsiyasi hujayradan taşqari suyuqlikda hujayra içi suyuqligidagiga qaraganda 10 000 martadan köproq yuqori bölgani sababli kalsiy ionlarining hujayralarga passiv oqimi uçun juda katta diffuziya gradiyenti va elektrokimyoviy harakatlantiruvçi kuç mavjud. Bu kanallar natriy va kalsiy ionlarini biroz ötkazadi, biroq me’yoriy fiziologik şaroitlarda ularning kalsiyga ötkazuvçanligi natriyga ötkazuvçanligidan taxminan 1000 marta yuqori. Kanallar hujayra membranasini depolyarizatsiyalovçi ta’sirotga javoban oçilganda kalsiy ionlari hujayra içiga oqib kiradi.
+
+@@ ch05-f76
+Potensialga boğliq kalsiy ion kanallarining asosiy vazifalaridan biri — ayrim hujayralarda harakat potensialining depolyarizatsiya fazasiga hissa qöşiş. Biroq kalsiy kanallarining darvozalanişi nisbatan sekin bölib, faollaşuv uçun natriy kanallariga qaraganda 10–20 marta köproq vaqt talab qiladi. Şu sababli ular köpinça _sekin kanallar_ deb ataladi; natriy kanallari esa, aksinça, _tez kanallar_ deyiladi. Şuning uçun kalsiy kanallarining oçilişi uzoqroq davom etadigan depolyarizatsiyani ta’minlaydi, natriy kanallari esa harakat potensiallarini boşlab berişda asosiy rol öynaydi.
+
+@@ ch05-f77
+Yurak muskuli va silliq muskulda kalsiy kanallari köp. Darhaqiqat, silliq muskulning ayrim turlarida tez natriy kanallari deyarli yöq; şuning uçun harakat potensiallari deyarli butunlay sekin kalsiy kanallarining faollaşuvi tufayli yuzaga keladi.
+
+@@ ch05-f78
+LEAD: Kalsiy ionlari tanqisligida natriy kanallari ötkazuvçanligining ortişi.
+Hujayradan taşqari suyuqlikdagi kalsiy ionlari konsentratsiyasi natriy kanallari faollaşadigan kuçlaniş darajasiga ham kuçli ta’sir körsatadi. Kalsiy ionlari yetişmaganda natriy kanallari membrana potensialining me’yoriy, juda manfiy darajasidan ozgina kötarilişi bilanoq faollaşadi (oçiladi). Şuning uçun nerv tolasi tinç holatda qoliş örniga yuqori darajada qözğaluvçan bölib qoladi va ba’zan heç qanday ta’sirotsiz takroriy razryadlar beradi. Darhaqiqat, ayrim periferik nervlarda öz-özidan razryad yuzaga kelişi uçun kalsiy ionlari konsentratsiyasi me’yordan atigi 50% ga pasayişi kifoya; bu köpinça _muskul “tetaniyasi”ni_ keltirib çiqaradi. Muskul tetaniyasi nafas muskullarining tetanik qisqarişi tufayli ba’zan ölimga olib keladi.
+
+@@ ch05-f79
+Kalsiy ionlarining natriy kanallariga ta’sir qilişining ehtimoliy yöli quyidagiça. Bu ionlar natriy kanali oqsilining taşqi yuzalariga boğlanadi, şekilli. Bu kalsiy ionlarining musbat zaryadlari öz navbatida natriy kanali oqsilining elektr holatini özgartiradi va şu tariqa natriy darvozasini oçiş uçun zarur bölgan kuçlaniş darajasini özgartiradi.
+
+@@ ch05-f80
+Harakat potensialining boşlanişi
+
+@@ ch05-f81
+Hozirgaça biz membrananing natriy va kaliyga ötkazuvçanligining özgarişini, şuningdek, harakat potensialining rivojlanişini tuşuntirdik, biroq harakat potensialini nima boşlab berişini tuşuntirmadik.
+
+@@ ch05-f82
+LEAD: Musbat teskari aloqa sikli natriy kanallarini oçadi.
+Nerv tolasining membranasi bezovta qilinmagan ekan, me’yoriy nervda harakat potensiali yuzaga kelmaydi. Biroq qandaydir hodisa membrana potensialini −70 millivoltdan nol darajasi tomon yetarliça boşlanğiç kötarilişiga sabab bölsa, ortib borayotgan kuçlaniş köplab potensialga boğliq natriy kanallarining oçila boşlaşiga olib keladi. Bu natriy ionlarining tez içkariga oqib kirişiga imkon beradi, natijada membrana potensiali yanada kötariladi, bu esa yana köproq potensialga boğliq natriy kanallarini oçadi va natriy ionlarining tola içiga yanada köproq oqib kirişiga imkon beradi. Bu jarayon musbat teskari aloqa sikli bölib, teskari aloqa yetarliça kuçli bölgaç, barça potensialga boğliq natriy kanallari faollaşgunça (oçilgunça) davom etadi. Söngra yana millisekundning bir uluşi içida kötarilayotgan membrana potensiali natriy kanallarining yopilişiga va kaliy kanallarining oçilişiga sabab böladi va harakat potensiali tez orada tugaydi.
+
+@@ ch05-f83
+LEAD: Harakat potensiali faqat bösağa potensialiga yetgandan keyin boşlanadi.
+Membrana potensialining boşlanğiç kötarilişi oldingi xatboşida tasvirlangan musbat teskari aloqani yuzaga keltirişga yetarli darajada katta bölmagunça harakat potensiali yuzaga kelmaydi. Bu tolaga kirayotgan natriy ionlarining soni toladan çiqayotgan kaliy ionlarining sonidan köp bölganda sodir böladi. Odatda membrana potensialining 15–30 millivoltga tösatdan kötarilişi talab qilinadi. Şuning uçun yirik nerv tolasida membrana potensialining −70 millivoltdan taxminan −55 millivoltgaça tösatdan kötarilişi odatda harakat potensialining portlaşsimon rivojlanişiga sabab böladi. Bu −55 millivolt darajasi qözğatiş _bösağasi_ deb ataladi.
+
+@@ ch05-f84
+Harakat potensialining tarqalişi
+
+@@ ch05-f85
+Oldingi xatboşilarda biz harakat potensialini göyo membranadagi bitta nuqtada sodir böladigandek muhokama qildik. Biroq qözğaluvçan membrananing biror nuqtasida yuzaga kelgan harakat potensiali odatda membrananing qöşni qismlarini qözğatadi va natijada harakat potensiali membrana böylab tarqaladi. Bu mexanizm **Rasm 5-11** da körsatilgan.
+
+@@ ch05-f87
+**Rasm 5-11A** da me’yoriy tinç holatdagi nerv tolasi, **Rasm 5-11B** da esa örta qismida qözğatilgan va natriyga ötkazuvçanligi tösatdan ortgan nerv tolasi körsatilgan. _Strelkalar_ membrananing depolyarizatsiyalangan sohalaridan qöşni tinç membrana sohalariga oqayotgan tokning mahalliy zanjirini körsatadi. Ya’ni musbat elektr zaryadlari içkariga diffuziyalanayotgan natriy ionlari tomonidan depolyarizatsiyalangan membrana orqali olib kiriladi, söngra akson özagi böylab har ikki yönalişda bir neça millimetrga tarqaladi. Bu musbat zaryadlar yirik miyelinli tola içida 1–3 millimetr masofada kuçlanişni harakat potensialini boşlaş uçun zarur bölgan bösağa kuçlaniş qiymatidan yuqoriga kötaradi. Şuning uçun, **Rasm 5-11C** va **D** da körsatilganidek, bu yangi sohalardagi natriy kanallari darhol oçiladi va portlaşsimon harakat potensiali tarqaladi. Yangi depolyarizatsiyalangan bu sohalar membrana böylab yanada uzoqroqda tok oqimining yana yangi mahalliy zanjirlarini hosil qiladi va tobora köproq depolyarizatsiyaga sabab böladi. Şunday qilib, depolyarizatsiya jarayoni tolaning butun uzunligi böylab tarqaladi. Depolyarizatsiya jarayonining nerv yoki muskul tolasi böylab bunday uzatilişi _nerv impulsi_ yoki _muskul impulsi_ deb ataladi.
+
+@@ ch05-f88
+LEAD: Tarqaliş yönalişi.
+**Rasm 5-11** da körsatilganidek, qözğaluvçan membranada tarqalişning yagona yönalişi yöq: harakat potensiali ta’sirot joyidan barça yönalişlarda — hatto nerv tolasining barça tarmoqlari böylab ham — butun membrana depolyarizatsiyalangunça tarqaladi.
+
+@@ ch05-f89
+LEAD: “Hammasi yoki heç narsa” tamoyili.
+Me’yoriy tola membranasining biror nuqtasida harakat potensiali yuzaga kelgaç, şaroit qulay bölsa, depolyarizatsiya jarayoni butun membrana böylab tarqaladi, şaroit noqulay bölsa esa umuman tarqalmaydi. Bu tamoyil _“hammasi yoki heç narsa” tamoyili_ deb ataladi va barça me’yoriy qözğaluvçan töqimalarga taalluqli. Ba’zan harakat potensiali membrananing şunday nuqtasiga yetadiki, u yerda membrananing keyingi sohasini qözğatiş uçun yetarli kuçlaniş hosil qilmaydi. Bunday holatda depolyarizatsiyaning tarqalişi töxtaydi. Şuning uçun impuls uzluksiz tarqalişi uçun harakat potensialining qözğaliş bösağasiga nisbati har doim 1 dan katta bölişi kerak. Bu “1 dan katta” talabi tarqalişning _xavfsizlik omili_ deb ataladi.
+
+@@ ch05-f90
+Harakat potensiallari tugagandan keyin natriy va kaliy ion gradiyentlarining qayta tiklanişi — energiya almaşinuvining ahamiyati
+
+@@ ch05-f91
+Har bir harakat potensialining nerv tolasi böylab uzatilişi membrana içi va taşqarisidagi natriy va kaliy konsentratsiyalari farqini biroz kamaytiradi, çunki depolyarizatsiya paytida natriy ionlari içkariga, repolyarizatsiya paytida esa kaliy ionlari taşqariga diffuziyalanadi. Bitta harakat potensiali uçun bu ta’sir şunçalik kiçikki, uni ölçab bölmaydi. Darhaqiqat, konsentratsiyalar farqi harakat potensiali ötkazilişi töxtaydigan darajaga yetgunça yirik nerv tolalari 100 000 dan 50 milliongaça impuls uzata oladi. Biroq vaqt ötişi bilan membranadagi natriy va kaliy konsentratsiyalari farqini qayta tiklaş zarur böladi; bunga yuqorida tinçlik potensialining dastlabki hosil bölişi uçun tasvirlangani kabi Na+-K+ nasosining ta’siri orqali erişiladi. Ya’ni harakat potensiallari paytida hujayra içiga diffuziyalangan natriy ionlari va taşqariga diffuziyalangan kaliy ionlari Na+-K+ nasosi yordamida dastlabki holatiga qaytarilişi kerak. Bu nasos işlaşi uçun energiya talab qilgani sababli nerv tolasining bunday “qayta zaryadlanişi” faol metabolik jarayon bölib, hujayraning adenozintrifosfat (ATF) energiya tizimidan olinadigan energiyadan foydalanadi. **Rasm 5-12** da körsatilganidek, nerv tolasi qayta zaryadlaniş paytida köproq issiqlik hosil qiladi; bu nerv impulslari çastotasi ortganda energiya sarfining ölçovidir.
+
+@@ ch05-f93
+Na+-K+ ATFaza nasosining öziga xos xususiyati şundaki, hujayra membranasi içida ortiqça natriy ionlari töplanganda uning faolligi kuçli rağbatlantiriladi. Darhaqiqat, nasos faolligi hujayra içidagi natriy konsentratsiyasining taxminan kubiga proporsional ravişda ortadi. Içki natriy konsentratsiyasi 10 dan 20 mEq/L gaça kötarilganda nasos faolligi şunçaki ikki baravar emas, balki taxminan sakkiz baravar ortadi. Şuning uçun membranadagi natriy va kaliy ionlari konsentratsiyalari farqi kamaya boşlaşi bilanoq nerv tolasining qayta zaryadlaniş jarayoni qanday qilib tez işga tuşişini tuşuniş oson.
+
+@@ ch05-f94
+Ayrim harakat potensiallaridagi plato
+
+@@ ch05-f95
+Ba’zi hollarda qözğalgan membrana depolyarizatsiyadan söng darhol repolyarizatsiyalanmaydi; aksinça, repolyarizatsiya boşlanişidan oldin potensial köp millisekundlar davomida çöqqi (spayk) potensiali yaqinidagi platoda qoladi. Bunday plato **Rasm 5-13** da körsatilgan; platoning depolyarizatsiya davrini ança uzaytirişini osongina köriş mumkin. Harakat potensialining bu turi yurak muskul tolalarida uçraydi: u yerda plato 0,2–0,3 sekundgaça davom etadi va yurak muskuli qisqarişining ham xuddi şunday uzoq davom etişiga sabab böladi.
+
+@@ ch05-f97
+Platoning sababi bir neçta omilning birgalikdagi ta’siri. Birinçidan, yurak muskulida depolyarizatsiya jarayonida ikki turdagi kanal iştirok etadi: (1) _tez kanallar_ deb ataladigan odatiy potensial bilan faollaşadigan natriy kanallari; (2) sekin oçilgani uçun _sekin kanallar_ deb ataladigan potensial bilan faollaşadigan kalsiy-natriy kanallari _(L-tipli kalsiy kanallari)_. Tez kanallarning oçilişi harakat potensialining çöqqi qismini yuzaga keltiradi, sekin kalsiy-natriy kanallarining uzoq oçiq turişi esa asosan kalsiy ionlarining tolaga kirişiga imkon beradi va bu harakat potensialining plato qismi uçun asosan javobgar.
+
+@@ ch05-f98
+Platoga qisman sabab bölişi mumkin bölgan yana bir omil — potensialga boğliq kaliy kanallarining odatdagidan sekinroq oçilişi; ular köpinça plato oxirigaça deyarli oçilmaydi. Bu omil membrana potensialining me’yoriy manfiy qiymati — −70 millivoltga qaytişini keçiktiradi. Kalsiy-natriy kanallari yopilib, kaliy ionlariga ötkazuvçanlik ortganda plato tugaydi.
+
+@@ ch05-f99
+Ayrim qözğaluvçan töqimalarning ritmikligi — takroriy razryad
+
+@@ ch05-f100
+Takroriy öz-özidan yuzaga keladigan razryadlar me’yorda yurakda, köpçilik silliq muskullarda va markaziy nerv tizimining köplab neyronlarida kuzatiladi. Bu ritmik razryadlar quyidagilarni yuzaga keltiradi: (1) yurakning ritmik urişi; (2) içaklarning ritmik peristaltikasi; (3) nafas olişning ritmik boşqarilişi kabi neyron hodisalari.
+
+@@ ch05-f101
+Bundan taşqari, deyarli barça boşqa qözğaluvçan töqimalar ham, agar töqima hujayralarining qözğaliş bösağasi yetarliça past darajagaça kamaytirilsa, takroriy razryad berişi mumkin. Masalan, me’yorda juda barqaror bölgan yirik nerv tolalari va skelet muskul tolalari ham natriy ion kanallarini faollaştiruvçi _veratridin_ dori moddasi saqlovçi eritmaga joylaştirilganda yoki kalsiy ionlari konsentratsiyasi membrananing natriyga ötkazuvçanligini oşiradigan kritik qiymatdan pastga tuşganda takroriy razryad beradi.
+
+@@ ch05-f102
+LEAD: Öz-özidan ritmiklik uçun zarur bölgan qayta qözğaliş jarayoni.
+Öz-özidan ritmiklik yuzaga kelişi uçun membrana hatto tabiiy holatida ham membrananing avtomatik depolyarizatsiyasiga imkon beradigan darajada natriy ionlarini (yoki sekin kalsiy-natriy kanallari orqali kalsiy va natriy ionlarini) yetarliça ötkazişi kerak. Şunday qilib, **Rasm 5-14** dan körinadiki, yurakning ritmni boşqaruvçi markazida tinçlik membrana potensiali atigi −60 dan −70 millivoltgaça; bu natriy va kalsiy kanallarini butunlay yopiq holda uşlab turiş uçun yetarli manfiy kuçlaniş emas. Şuning uçun quyidagi ketma-ketlik yuz beradi: (1) bir qism natriy va kalsiy ionlari içkariga oqib kiradi; (2) bu membrana kuçlanişini musbat tomonga oşiradi, bu esa membrana ötkazuvçanligini yanada oşiradi; (3) yana köproq ionlar içkariga oqib kiradi; (4) ötkazuvçanlik yanada ortadi va hokazo, toki harakat potensiali hosil bölgunça. Söngra harakat potensiali oxirida membrana repolyarizatsiyalanadi. Yana millisekundlar yoki sekundlar davom etadigan keçikişdan söng öz-özidan qözğaluvçanlik yana depolyarizatsiyaga sabab böladi va yangi harakat potensiali öz-özidan yuzaga keladi. Bu sikl qayta-qayta takrorlanadi va qözğaluvçan töqimaning öz-özidan ritmik qözğalişini yuzaga keltiradi.
+
+@@ ch05-f104
+Nima uçun yurakning boşqaruvçi markazi membranasi repolyarizatsiyalangandan söng darhol depolyarizatsiyalanmay, keyingi harakat potensiali boşlanişidan oldin deyarli 1 sekund keçikadi? Javobni **Rasm 5-14** dagi “kaliy ötkazuvçanligi” deb belgilangan egri çiziqni kuzatib topiş mumkin. Bu egri çiziq har bir harakat potensiali oxiriga yaqin va undan keyin qisqa vaqt davomida membrana kaliy ionlarini köproq ötkaza boşlaşini körsatadi. Kaliy ionlarining kuçaygan çiqişi juda köp musbat zaryadlarni membrana taşqarisiga olib çiqadi va tola içida aks holda böladiganidan ança köproq manfiylik qoldiradi. Bu holat oldingi harakat potensiali tugaganidan keyin deyarli 1 sekund davom etadi va membrana potensialini kaliyning Nernst potensialiga yaqinlaştiradi. _Giperpolyarizatsiya_ deb ataladigan bu holat ham **Rasm 5-14** da körsatilgan. Bu holat saqlanib turar ekan, öz-özidan qayta qözğaliş yuz bermaydi. Biroq rasmda har bir harakat potensiali tugaganidan keyin körsatilganidek, kaliy ötkazuvçanligining ortişi (va giperpolyarizatsiya holati) asta-sekin yöqoladi va membrana potensialining yana qözğaliş _bösağasigaça_ kötarilişiga imkon beradi. Söngra tösatdan yangi harakat potensiali yuzaga keladi va jarayon qayta-qayta takrorlanadi.
+
+@@ ch05-f105
+Nerv stvollarida signal uzatilişining öziga xos xususiyatlari
+
+@@ ch05-f106
+LEAD: Miyelinli va miyelinsiz nerv tolalari.
+**Rasm 5-15** da tipik kiçik nervning köndalang kesimi körsatilgan; unda köndalang kesim yuzasining katta qismini taşkil qiluvçi köplab yirik nerv tolalari körinadi. Biroq diqqat bilan qaralsa, yirik tolalar orasida joylaşgan yana köplab ingiçka tolalar közga taşlanadi. Yirik tolalar _miyelinli_, ingiçkalari esa _miyelinsiz_. Örtaça nerv stvolida miyelinsiz tolalar miyelinli tolalardan taxminan ikki baravar köp böladi.
+
+@@ ch05-f108
+**Rasm 5-16** da tipik miyelinli tolaning xususiyatlari sxematik tasvirlangan. Tolaning markaziy özagi — _akson_, akson membranasi esa harakat potensialini haqiqatda ötkazadigan membranadir. Aksonning markazi quyuq hujayra içi suyuqligi bölgan _aksoplazma_ bilan tölgan. Aksonni köpinça aksonning özidan ança qalin bölgan _miyelin qobiq_ örab turadi. Miyelin qobiq uzunligi böylab taxminan har 1–3 millimetrda bitta _Ranve böğilmasi_ (Ranvier tuguni) joylaşgan.
+
+@@ ch05-f110
+Miyelin qobiq akson atrofida _Şvann hujayralari_ tomonidan quyidagiça hosil qilinadi. Avval Şvann hujayrasining membranasi aksonni örab oladi. Söngra Şvann hujayrasi akson atrofida köp marta aylanib, tarkibida lipid modda — _sfingomiyelin_ bölgan Şvann hujayrasi membranasining köplab qavatlarini hosil qiladi. Bu modda membrana orqali ionlar oqimini taxminan 5000 baravar kamaytiradigan a’lo elektr izolyatoridir. Akson böylab har ikki ketma-ket Şvann hujayrasining tutaşgan joyida uzunligi atigi 2–3 mikrometr bölgan kiçik izolyatsiyalanmagan soha qoladi; u yerda ionlar hujayradan taşqari suyuqlik va akson içidagi hujayra içi suyuqligi örtasida akson membranasi orqali hali ham oson öta oladi. Bu soha _Ranve böğilmasi_ deb ataladi.
+
+@@ ch05-f111
+LEAD: Miyelinli tolalarda böğilmadan böğilmaga sakrab ötkaziliş.
+Miyelinli nervlarning qalin miyelin qobiqlari orqali ionlar deyarli öta olmasa-da, Ranve böğilmalari orqali ular oson ötadi. Şuning uçun harakat potensiallari _faqat böğilmalarda_ yuzaga keladi. Şunga qaramay, **Rasm 5-17** da körsatilganidek, harakat potensiallari böğilmadan böğilmaga _sakrab ötkaziliş (saltator ötkaziliş)_ yöli bilan ötkaziladi. Ya’ni elektr toki miyelin qobiq taşqarisidagi atrofdagi hujayradan taşqari suyuqlik orqali, şuningdek, akson içidagi aksoplazma orqali böğilmadan böğilmaga oqib, ketma-ket böğilmalarni birin-ketin qözğatadi. Şunday qilib, nerv impulsi tola böylab sakrab ötadi; _saltator_ (lotinça “sakrovçi”) atamasi ham şundan kelib çiqqan.
+
+@@ ch05-f113
+Sakrab ötkaziliş ikki sababga köra foydali: 1. Birinçidan, depolyarizatsiya jarayonini nerv tolasi öqi böylab uzoq oraliqlarga sakraşga majbur qilib, bu mexanizm miyelinli tolalarda nerv impulsi uzatiliş tezligini 5–50 baravargaça oşiradi.
+
+@@ ch05-f114
+2. Ikkinçidan, sakrab ötkaziliş akson energiyasini tejaydi, çunki faqat böğilmalar depolyarizatsiyalanadi; bu ionlar yöqotilişini aks holdagiga qaraganda taxminan 100 marta kamaytiradi va demak, bir qator nerv impulslaridan keyin membranadagi natriy va kaliy konsentratsiyalari farqini qayta tiklaş uçun ança kam energiya sarfini talab qiladi. Miyelin membranasining a’lo izolyatsiyasi va membrana siğimining 50 baravar kamayişi ham repolyarizatsiyaning ionlarning oz miqdorda köçişi bilan sodir bölişiga imkon beradi.
+
+@@ ch05-f115
+LEAD: Nerv tolalarida ötkaziliş tezligi.
+Nerv tolalarida harakat potensialining ötkaziliş tezligi ingiçka miyelinsiz tolalardagi atigi 0,25 m/s dan yirik miyelinli tolalardagi 100 m/s gaça — sekundiga futbol maydoni uzunligidan ham köproq masofagaça — özgaradi.
+
+@@ ch05-f116
+Qözğaliş — harakat potensialini yuzaga keltiriş jarayoni
+
+@@ ch05-f117
+Mohiyatan natriy ionlarining membrana orqali yetarli miqdorda içkariga diffuziyalana boşlaşiga sabab böladigan har qanday omil natriy kanallarining avtomatik regenerativ oçilişini işga tuşirişi mumkin. Bunday avtomatik regenerativ oçiliş membranaga _mexanik_ ta’sir, membranaga _kimyoviy_ ta’sir yoki membrana orqali _elektr toki_ ötkazilişi natijasida yuzaga kelişi mumkin. Bu usullarning barçasi organizmning turli joylarida nerv yoki muskul harakat potensiallarini yuzaga keltiriş uçun qöllaniladi: terida sezuvçi nerv uçlarini qözğatiş uçun mexanik bosim, boş miyada signallarni bir neyrondan keyingisiga uzatiş uçun kimyoviy neyromediatorlar, yurak va içakda ketma-ket joylaşgan muskul hujayralari örtasida signallarni uzatiş uçun esa elektr toki.
+
+@@ ch05-f118
+LEAD: Nerv tolasini manfiy zaryadlangan metall elektrod bilan qözğatiş.
+Eksperimental laboratoriyada nerv yoki muskulni qözğatişning odatiy usuli — nerv yoki muskul yuzasiga ikkita kiçik elektrod orqali elektr toki beriş; ulardan biri manfiy, ikkinçisi musbat zaryadlangan böladi. Elektr toki şu tarzda berilganda qözğaluvçan membrana manfiy elektrod joylaşgan joyda qözğaladi.
+
+@@ ch05-f119
+Esda tuting: harakat potensiali potensialga boğliq natriy kanallarining oçilişi bilan boşlanadi. Bundan taşqari, bu kanallar membranadagi me’yoriy tinçlik elektr kuçlanişining kamayişi natijasida oçiladi — ya’ni elektroddan keladigan manfiy tok membrana taşqi tomonidagi kuçlanişni tola içidagi manfiy potensial kuçlanişiga yaqinroq manfiy qiymatgaça kamaytiradi. Bu ta’sir membranadagi elektr kuçlanişini kamaytiradi va natriy kanallarining oçilişiga imkon berib, harakat potensialini yuzaga keltiradi. Aksinça, musbat elektrodda nerv membranasi taşqarisiga musbat zaryadlarning kiritilişi membranadagi kuçlanişlar farqini kamaytiriş örniga oşiradi. Bu ta’sir giperpolyarizatsiya holatini yuzaga keltiradi; u harakat potensialini keltirib çiqariş örniga, aksinça, tolaning qözğaluvçanligini pasaytiradi.
+
+@@ ch05-f120
+LEAD: Qözğaliş bösağasi va ötkir mahalliy potensiallar.
+Kuçsiz manfiy elektr ta’sirot tolani qözğata olmasligi mumkin. Biroq ta’sirot kuçlanişi oşirilganda şunday nuqtaga yetiladiki, unda qözğaliş yuz beradi. **Rasm 5-18** da kuçi ortib boruvçi ketma-ket ta’sirotlarning ta’siri körsatilgan. A nuqtadagi kuçsiz ta’sirot membrana potensialini −70 dan −65 millivoltgaça özgartiradi, biroq bu özgariş harakat potensialining avtomatik regenerativ jarayonlari rivojlanişi uçun yetarli emas. B nuqtada ta’sirot kuçliroq, ammo uning jadalligi hali ham yetarli emas. Şunga qaramay, bu ikkala kuçsiz ta’sirotdan keyin ham ta’sirot membrana potensialini mahalliy ravişda 1 millisekund yoki undan uzoqroq vaqt davomida özgartiradi. Potensialning bu mahalliy özgarişlari _ötkir mahalliy potensiallar_ deb ataladi, ular harakat potensialini yuzaga keltira olmaganda esa _ötkir bösağaosti potensiallari_ deyiladi.
+
+@@ ch05-f122
+**Rasm 5-18** dagi C nuqtada ta’sirot yanada kuçliroq. Endi mahalliy potensial harakat potensialini yuzaga keltiriş uçun zarur bölgan _bösağa darajasiga_ zörğa yetgan, biroq bu faqat qisqa “latent davr”dan keyin sodir böladi. D nuqtada ta’sirot undan ham kuçliroq, ötkir mahalliy potensial ham kuçliroq bölib, harakat potensiali qisqaroq latent davrdan keyin yuzaga keladi.
+
+@@ ch05-f123
+Şunday qilib, bu rasm hatto kuçsiz ta’sirot ham membranada potensialning mahalliy özgarişini keltirib çiqarişini, biroq harakat potensiali işga tuşişi uçun mahalliy potensial jadalligi bösağa darajasigaça kötarilişi kerakligini körsatadi.
+
+@@ ch05-f124
+Harakat potensialidan keyingi refrakter davr — bu davrda yangi qözğaliş yuzaga kelmaydi
+
+@@ ch05-f125
+Membrana oldingi harakat potensialidan keyin hali depolyarizatsiyalangan holatda ekan, qözğaluvçan tolada yangi harakat potensiali yuzaga kela olmaydi. Bu çeklovning sababi şundaki, harakat potensiali boşlanganidan köp ötmay natriy kanallari (yoki kalsiy kanallari, yoki ikkalasi ham) inaktivatsiyalanadi va bu paytda kanallarga berilgan har qanday kuçdagi qözğatuvçi signal ham inaktivatsiyalovçi darvozalarni oça olmaydi. Ularning qayta oçilişiga imkon beradigan yagona şart — membrana potensialining dastlabki tinçlik membrana potensiali darajasiga yoki unga yaqin darajaga qaytişi. Söngra yana sekundning kiçik bir uluşi içida kanallarning inaktivatsiyalovçi darvozalari oçiladi va yangi harakat potensiali boşlanişi mumkin böladi.
+
+@@ ch05-f126
+Hatto kuçli ta’sirot bilan ham ikkinçi harakat potensialini yuzaga keltirib bölmaydigan davr _absolyut refrakter davr_ deb ataladi. Yirik miyelinli nerv tolalarida bu davr taxminan 1/2500 sekundni taşkil qiladi. Şuning uçun bunday tola sekundiga köpi bilan taxminan 2500 ta impuls uzata olişini osongina hisoblaş mumkin.
+
+@@ ch05-f127
+Nerv qözğaluvçanligini oşiruvçi omillardan farqli ravişda, _membranani barqarorlaştiruvçi omillar_ _qözğaluvçanlikni pasaytirişi_ mumkin. Masalan, _hujayradan taşqari suyuqlikdagi kalsiy ionlarining yuqori konsentratsiyasi_ membrananing natriy ionlariga ötkazuvçanligini kamaytiradi va bir vaqtning özida qözğaluvçanlikni pasaytiradi. Şuning uçun kalsiy ionlari _stabilizator_ (barqarorlaştiruvçi) deyiladi.
+
+@@ ch05-f128
+LEAD: Mahalliy anestetiklar.
+Eng muhim stabilizatorlar qatoriga klinikada mahalliy anestetik sifatida qöllaniladigan köplab moddalar, jumladan _prokain_ va _tetrakain_ kiradi. Bu vositalarning köpçiligi bevosita natriy kanallarining faollaştiruvçi darvozalariga ta’sir qilib, ularning oçilişini ança qiyinlaştiradi va şu orqali membrana qözğaluvçanligini pasaytiradi. Qözğaluvçanlik şu qadar pasayib, _harakat potensiali kuçining_ _qözğaliş bösağasiga_ nisbati (_xavfsizlik omili_ deb ataladi) 1,0 dan pastga tuşganda, nerv impulslari anesteziya qilingan nervlar böylab öta olmaydi.
+
+@@ fig:gh14-fig-05-01
+A — faqat kaliyni tanlab ötkazuvçi membrana orqali kaliy ionlarining hujayra içidan taşqariga diffuziyasi natijasida nerv tolasi membranasida diffuziya potensialining hosil bölişi. B — nerv tolasi membranasi faqat natriy ionlarini ötkazganda diffuziya potensialining hosil bölişi. E’tibor bering: bu ikki ionning konsentratsiya gradiyentlari qarama-qarşi bölgani sababli kaliy ionlari diffuziyalanganda membrananing içki potensiali manfiy, natriy ionlari diffuziyalanganda esa musbat böladi.
+
+@@ fig:gh14-fig-05-02
+Mikroelektrod yordamida nerv tolasining membrana potensialini ölçaş.
+
+@@ fig:gh14-fig-05-03
+Nerv tolasini örab turgan hujayradan taşqari suyuqlikda va tola içidagi suyuqlikda musbat va manfiy zaryadlangan ionlarning taqsimlanişi. E’tibor bering: manfiy zaryadlar membrananing içki yuzasi böylab, musbat zaryadlar esa taşqi yuzasi böylab tizilgan. Pastki qismda tolaning ikki tomonidagi membranalarda yuz beradigan membrana potensialining keskin özgarişlari körsatilgan.
+
+@@ fig:gh14-fig-05-04
+Na+-K+ nasosi va K+ “siziş” kanallarining funksional xususiyatlari. K+ siziş kanallari Na+ ionlarini ham hujayra içiga biroz ötkazadi, biroq K+ ni ança yaxşi ötkazadi. ADF — adenozindifosfat; ATF — adenozintrifosfat.
+
+@@ fig:gh14-fig-05-05
+Tinçlik membrana potensialining uç xil şaroitda hosil bölişi. A — membrana potensiali butunlay faqat kaliy diffuziyasi tufayli yuzaga kelganda. B — membrana potensiali natriy va kaliy ionlarining diffuziyasi tufayli yuzaga kelganda. C — membrana potensiali natriy va kaliy ionlarining diffuziyasi hamda bu ikki ionning Na+-K+ nasosi yordamida haydalişi tufayli yuzaga kelganda.
+
+@@ fig:gh14-fig-05-06
+Yuqori qismda körsatilgan usul bilan yozib olingan tipik harakat potensiali.
+
+@@ fig:gh14-fig-05-07
+Potensialga boğliq natriy (yuqorida) va kaliy (pastda) kanallarining xususiyatlari: membrana potensiali me’yoriy manfiy tinçlik qiymatidan musbat qiymatga özgarganda natriy kanallarining ketma-ket faollaşuvi va inaktivatsiyasi hamda kaliy kanallarining keçikkan faollaşuvi körsatilgan.
+
+@@ fig:gh14-fig-05-08
+Muayyan kanallar orqali ionlar oqimini örganiş uçun kuçlanişni qisiş usuli.
+
+@@ fig:gh14-fig-05-09
+Membrana potensiali −70 millivoltlik me’yoriy tinçlik qiymatidan +10 millivoltlik musbat qiymatga 2 millisekundga tösatdan oşirilganda natriy va kaliy ion kanallari ötkazuvçanligining tipik özgarişlari. Rasmdan körinadiki, natriy kanallari 2 millisekund tugaşidan oldin oçiladi (faollaşadi), söngra yopiladi (inaktivatsiyalanadi), kaliy kanallari esa faqat oçiladi (faollaşadi) va ularning oçiliş tezligi natriy kanallarinikiga qaraganda ança sekin.
+
+@@ fig:gh14-fig-05-10
+Harakat potensiali davomida natriy va kaliy ötkazuvçanligining özgarişlari. Natriy ötkazuvçanligi harakat potensialining dastlabki bosqiçlarida bir neça ming baravar ortadi, kaliy ötkazuvçanligi esa harakat potensialining keyingi bosqiçlarida va undan keyin qisqa vaqt davomida atigi taxminan 30 baravar ortadi. (Bu egri çiziqlar Xodjkin va Haksli maqolalarida bayon etilgan nazariya asosida tuzilgan, biroq kalmar aksonidan sutemizuvçilarning yirik nerv tolalari membrana potensiallariga moslaştirilgan.)
+
+@@ fig:gh14-fig-05-11
+A–D — harakat potensiallarining ötkazuvçi tola böylab har ikki yönalişda tarqalişi.
+
+@@ fig:gh14-fig-05-12
+Tinç holatdagi va tobora ortib boruvçi çastotada qözğatilgan nerv tolasida issiqlik hosil bölişi.
+
+@@ fig:gh14-fig-05-13
+Yurak Purkinye tolasining platoni namoyiş etuvçi harakat potensiali (millivoltlarda).
+
+@@ fig:gh14-fig-05-14
+Yurakning ritmni boşqaruvçi markazida yozib olinganlarga öxşaş ritmik harakat potensiallari (millivoltlarda). Ularning kaliy ötkazuvçanligi va giperpolyarizatsiya holati bilan boğliqligiga e’tibor bering.
+
+@@ fig:gh14-fig-05-15
+Miyelinli va miyelinsiz tolalarni saqlovçi kiçik nerv stvolining köndalang kesimi.
+
+@@ fig:gh14-fig-05-16
+Şvann hujayrasining nerv tolalarini izolyatsiyalaş funksiyasi. A — miyelinli nerv tolasining miyelin qobiğini hosil qiliş uçun Şvann hujayrasi membranasining yirik akson atrofiga öralişi. B — Şvann hujayrasi membranasi va sitoplazmasining bir neçta miyelinsiz nerv tolalari atrofiga qisman öralişi (köndalang kesimda körsatilgan). (A — Leeson TS, Leeson R: Histology. Philadelphia: WB Saunders, 1979 dan özgartirilgan.)
+
+@@ fig:gh14-fig-05-17
+Miyelinli akson böylab sakrab ötkaziliş. Elektr tokining böğilmadan böğilmaga oqişi strelkalar bilan körsatilgan.
+
+@@ fig:gh14-fig-05-18
+Harakat potensialini yuzaga keltiriş uçun kuçlanişi ortib boruvçi ta’sirotlarning ta’siri. E’tibor bering: ta’sirotlar harakat potensialini yuzaga keltiriş uçun zarur bölgan bösağa qiymatidan past bölganda ötkir bösağaosti potensiallari rivojlanadi.
+
+@@ fig:gh14-tab-05-01
+Turli hujayra turlarining tinçlik membrana potensiali
+

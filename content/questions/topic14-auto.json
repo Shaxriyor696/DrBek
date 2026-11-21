@@ -1,0 +1,1525 @@
+{
+ "origin": "Claude (DrStudy sessiyasi) — kitobning özbekça izohlari (Guyton & Hall, 14-naşr) asosida, 2026-11-17. Ekspert tekşiruvi kerak.",
+ "questions": [
+  {
+   "id": "q14-c75-01",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch75",
+   "stem": "Özini işlab çiqargan hujayraning öziga ta’sir qiluvçi kimyoviy xabarçilar qanday ataladi?",
+   "options": [
+    {
+     "id": "q14-c75-01-a",
+     "text": "Endokrin gormonlar"
+    },
+    {
+     "id": "q14-c75-01-b",
+     "text": "Autokrinlar"
+    },
+    {
+     "id": "q14-c75-01-c",
+     "text": "Neyromediatorlar"
+    },
+    {
+     "id": "q14-c75-01-d",
+     "text": "Parakrinlar"
+    }
+   ],
+   "answerOptionId": "q14-c75-01-b",
+   "explanation": "Parakrinlar qöşni hujayralarga, endokrin gormonlar qon orqali uzoqdagi hujayralarga ta’sir qiladi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch75",
+    "topicId": "14",
+    "blockId": "ch75-u3",
+    "printedPage": 861,
+    "pdfPage": 866,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c75-02",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch75",
+   "stem": "Gormonlar kimyoviy tuzilişiga köra qanday sinflarga bölinadi?",
+   "options": [
+    {
+     "id": "q14-c75-02-a",
+     "text": "Faqat oqsillar va lipidlar"
+    },
+    {
+     "id": "q14-c75-02-b",
+     "text": "Oqsil/peptid, steroid va tirozin hosilalari"
+    },
+    {
+     "id": "q14-c75-02-c",
+     "text": "Aminokislotalar va vitaminlar"
+    },
+    {
+     "id": "q14-c75-02-d",
+     "text": "Lipid, uglevod va nuklein kislota"
+    }
+   ],
+   "answerOptionId": "q14-c75-02-b",
+   "explanation": "Gormonlar uç sinfga bölinadi va asosan manfiy teskari aloqa bilan boşqariladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch75",
+    "topicId": "14",
+    "blockId": "ch75-u1",
+    "printedPage": 861,
+    "pdfPage": 866,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c75-03",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch75",
+   "stem": "Hujayra içi retseptorlari orqali ta’sir qiluvçi gormonlar qanday mexanizmda işlaydi?",
+   "options": [
+    {
+     "id": "q14-c75-03-a",
+     "text": "Faqat membranani depolyarizatsiya qilib"
+    },
+    {
+     "id": "q14-c75-03-b",
+     "text": "Ion kanallarini töğridan-töğri oçib"
+    },
+    {
+     "id": "q14-c75-03-c",
+     "text": "Genlar transkripsiyasini özgartiriş orqali"
+    },
+    {
+     "id": "q14-c75-03-d",
+     "text": "cAMP ikkilamçi xabarçisi orqali"
+    }
+   ],
+   "answerOptionId": "q14-c75-03-c",
+   "explanation": "Membrana retseptorlari ikkilamçi xabarçilar yoki fermentlar orqali, hujayra içi retseptorlari esa transkripsiya orqali işlaydi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch75",
+    "topicId": "14",
+    "blockId": "ch75-u1",
+    "printedPage": 861,
+    "pdfPage": 866,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c75-04",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch75",
+   "stem": "Adipotsitlardan çiqadigan sitokinlar (masalan leptin) nima deyiladi?",
+   "options": [
+    {
+     "id": "q14-c75-04-a",
+     "text": "Adipokinlar"
+    },
+    {
+     "id": "q14-c75-04-b",
+     "text": "Neyropeptidlar"
+    },
+    {
+     "id": "q14-c75-04-c",
+     "text": "Interleykinlar"
+    },
+    {
+     "id": "q14-c75-04-d",
+     "text": "Limfokinlar"
+    }
+   ],
+   "answerOptionId": "q14-c75-04-a",
+   "explanation": "Sitokinlar autokrin, parakrin yoki endokrin bölişi mumkin; yoğ hujayralari çiqaradiganlari adipokinlar.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch75",
+    "topicId": "14",
+    "blockId": "ch75-u3",
+    "printedPage": 861,
+    "pdfPage": 866,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c76-01",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch76",
+   "stem": "Oldingi gipofiz sekretsiyasini gipotalamus qanday boşqaradi?",
+   "options": [
+    {
+     "id": "q14-c76-01-a",
+     "text": "Likvor orqali"
+    },
+    {
+     "id": "q14-c76-01-b",
+     "text": "Töğridan-töğri nerv tolalari bilan"
+    },
+    {
+     "id": "q14-c76-01-c",
+     "text": "Faqat qondagi glyukoza orqali"
+    },
+    {
+     "id": "q14-c76-01-d",
+     "text": "Portal qon tomirlari orqali keladigan rilizing va ingibitor gormonlar bilan"
+    }
+   ],
+   "answerOptionId": "q14-c76-01-d",
+   "explanation": "Oldingi gipofiz portal qon tomirlari orqali, orqa gipofiz esa gipotalamusdan keluvçi nerv tolalari orqali boşqariladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch76",
+    "topicId": "14",
+    "blockId": "ch76-u1",
+    "printedPage": 874,
+    "pdfPage": 879,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c76-02",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch76",
+   "stem": "Orqa gipofiz qaysi ikki gormonni ajratadi?",
+   "options": [
+    {
+     "id": "q14-c76-02-a",
+     "text": "TTG va AKTG"
+    },
+    {
+     "id": "q14-c76-02-b",
+     "text": "ADG (vazopressin) va oksitotsin"
+    },
+    {
+     "id": "q14-c76-02-c",
+     "text": "FSG va LG"
+    },
+    {
+     "id": "q14-c76-02-d",
+     "text": "Ösiş gormoni va prolaktin"
+    }
+   ],
+   "answerOptionId": "q14-c76-02-b",
+   "explanation": "ADG suv çiqarilişini, oksitotsin sut çiqarilişi va baçadon qisqarişini boşqaradi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch76",
+    "topicId": "14",
+    "blockId": "ch76-u7",
+    "printedPage": 874,
+    "pdfPage": 879,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c76-03",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch76",
+   "stem": "Oldingi gipofiz embrionda qayerdan rivojlanadi?",
+   "options": [
+    {
+     "id": "q14-c76-03-a",
+     "text": "Ratke çöntagidan (halqum epiteliysi botiqligi)"
+    },
+    {
+     "id": "q14-c76-03-b",
+     "text": "Gipotalamusning nerv töqimasidan"
+    },
+    {
+     "id": "q14-c76-03-c",
+     "text": "Buyrak usti bezidan"
+    },
+    {
+     "id": "q14-c76-03-d",
+     "text": "Qalqonsimon bezdan"
+    }
+   ],
+   "answerOptionId": "q14-c76-03-a",
+   "explanation": "Şuning uçun oldingi gipofiz hujayralari epitelioid; orqa gipofiz esa gipotalamusning nerv ösimtasi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch76",
+    "topicId": "14",
+    "blockId": "ch76-u3",
+    "printedPage": 874,
+    "pdfPage": 879,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c76-04",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch76",
+   "stem": "Qaysi gipofiz gormoni nişon bezlar orqali emas, deyarli barça töqimalarga bevosita ta’sir qiladi?",
+   "options": [
+    {
+     "id": "q14-c76-04-a",
+     "text": "Ösiş gormoni"
+    },
+    {
+     "id": "q14-c76-04-b",
+     "text": "TTG"
+    },
+    {
+     "id": "q14-c76-04-c",
+     "text": "AKTG"
+    },
+    {
+     "id": "q14-c76-04-d",
+     "text": "FSG"
+    }
+   ],
+   "answerOptionId": "q14-c76-04-a",
+   "explanation": "Ösiş gormoni töqimalarga bevosita va IGF-1 orqali ta’sir qiladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch76",
+    "topicId": "14",
+    "blockId": "ch76-u5",
+    "printedPage": 874,
+    "pdfPage": 879,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c77-01",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch77",
+   "stem": "Qalqonsimon bez ajratadigan faol gormonlarning qança qismi T4?",
+   "options": [
+    {
+     "id": "q14-c77-01-a",
+     "text": "~93%"
+    },
+    {
+     "id": "q14-c77-01-b",
+     "text": "~7%"
+    },
+    {
+     "id": "q14-c77-01-c",
+     "text": "~50%"
+    },
+    {
+     "id": "q14-c77-01-d",
+     "text": "100%"
+    }
+   ],
+   "answerOptionId": "q14-c77-01-a",
+   "explanation": "~93% T4 va ~7% T3; lekin T4 töqimalarda T3 ga aylanadi va T3 ~4 baravar kuçli.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch77",
+    "topicId": "14",
+    "blockId": "ch77-u3",
+    "printedPage": 886,
+    "pdfPage": 891,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c77-02",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch77",
+   "stem": "Qalqonsimon bez sekretsiyasi töliq yöqolsa bazal metabolizm qanday özgaradi?",
+   "options": [
+    {
+     "id": "q14-c77-02-a",
+     "text": "90% pasayadi"
+    },
+    {
+     "id": "q14-c77-02-b",
+     "text": "Özgarmaydi"
+    },
+    {
+     "id": "q14-c77-02-c",
+     "text": "60–100% oşadi"
+    },
+    {
+     "id": "q14-c77-02-d",
+     "text": "Normadan 40–50% pasayadi"
+    }
+   ],
+   "answerOptionId": "q14-c77-02-d",
+   "explanation": "Sekretsiya töliq yöqolsa bazal metabolizm 40–50% tuşadi, haddan köp bölsa 60–100% oşadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch77",
+    "topicId": "14",
+    "blockId": "ch77-u1",
+    "printedPage": 886,
+    "pdfPage": 891,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c77-03",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch77",
+   "stem": "Yodid qalqonsimon bez hujayrasiga qaysi taşuvçi orqali kiradi?",
+   "options": [
+    {
+     "id": "q14-c77-03-a",
+     "text": "Na⁺-K⁺ ATPaza"
+    },
+    {
+     "id": "q14-c77-03-b",
+     "text": "Natriy-yodid simporteri (NIS)"
+    },
+    {
+     "id": "q14-c77-03-c",
+     "text": "Pendrin"
+    },
+    {
+     "id": "q14-c77-03-d",
+     "text": "GLUT4"
+    }
+   ],
+   "answerOptionId": "q14-c77-03-b",
+   "explanation": "NIS bitta yodidni ikkita Na⁺ bilan hujayraga köçiradi; energiyani Na⁺-K⁺ ATPaza beradi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch77",
+    "topicId": "14",
+    "blockId": "ch77-u9",
+    "printedPage": 886,
+    "pdfPage": 891,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c77-04",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch77",
+   "stem": "Qalqonsimon bez follikulalaridagi kolloidning asosiy qismi qaysi modda?",
+   "options": [
+    {
+     "id": "q14-c77-04-a",
+     "text": "Kalsitonin"
+    },
+    {
+     "id": "q14-c77-04-b",
+     "text": "Tiroglobulin"
+    },
+    {
+     "id": "q14-c77-04-c",
+     "text": "Albumin"
+    },
+    {
+     "id": "q14-c77-04-d",
+     "text": "Tiroksin boğlovçi globulin"
+    }
+   ],
+   "answerOptionId": "q14-c77-04-b",
+   "explanation": "Tiroglobulin gormonlarni saqlovçi yirik glikoprotein.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch77",
+    "topicId": "14",
+    "blockId": "ch77-u5",
+    "printedPage": 886,
+    "pdfPage": 891,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c78-01",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch78",
+   "stem": "Aldosteron buyrak usti pöstloğining qaysi zonasida hosil böladi?",
+   "options": [
+    {
+     "id": "q14-c78-01-a",
+     "text": "Mağiz qavati"
+    },
+    {
+     "id": "q14-c78-01-b",
+     "text": "Törsimon zona (zona reticularis)"
+    },
+    {
+     "id": "q14-c78-01-c",
+     "text": "Tutamli zona (zona fasciculata)"
+    },
+    {
+     "id": "q14-c78-01-d",
+     "text": "Koptokçali zona (zona glomerulosa)"
+    }
+   ],
+   "answerOptionId": "q14-c78-01-d",
+   "explanation": "Faqat koptokçali zona hujayralarida aldosteron sintaza bor.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch78",
+    "topicId": "14",
+    "blockId": "ch78-u5",
+    "printedPage": 899,
+    "pdfPage": 904,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c78-02",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch78",
+   "stem": "Aldosteron sekretsiyasining asosiy regulyatorlari qaysilar?",
+   "options": [
+    {
+     "id": "q14-c78-02-a",
+     "text": "AKTG va TTG"
+    },
+    {
+     "id": "q14-c78-02-b",
+     "text": "K⁺ va angiotensin II"
+    },
+    {
+     "id": "q14-c78-02-c",
+     "text": "Insulin va glyukagon"
+    },
+    {
+     "id": "q14-c78-02-d",
+     "text": "Adrenalin va noradrenalin"
+    }
+   ],
+   "answerOptionId": "q14-c78-02-b",
+   "explanation": "Aldosteronni asosan K⁺ va angiotensin II, kortizolni esa AKTG boşqaradi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch78",
+    "topicId": "14",
+    "blockId": "ch78-u1",
+    "printedPage": 899,
+    "pdfPage": 904,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c78-03",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch78",
+   "stem": "Kortizol qaysi gormonlar guruhiga kiradi?",
+   "options": [
+    {
+     "id": "q14-c78-03-a",
+     "text": "Glyukokortikoidlar"
+    },
+    {
+     "id": "q14-c78-03-b",
+     "text": "Katexolaminlar"
+    },
+    {
+     "id": "q14-c78-03-c",
+     "text": "Mineralokortikoidlar"
+    },
+    {
+     "id": "q14-c78-03-d",
+     "text": "Androgenlar"
+    }
+   ],
+   "answerOptionId": "q14-c78-03-a",
+   "explanation": "Glyukokortikoidlar qon glyukozasini oşiradi va oqsil, yoğ almaşinuviga ta’sir qiladi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch78",
+    "topicId": "14",
+    "blockId": "ch78-u3",
+    "printedPage": 899,
+    "pdfPage": 904,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c78-04",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch78",
+   "stem": "Buyrak usti pöstloği gormonlarining umumiy sintez manbai nima?",
+   "options": [
+    {
+     "id": "q14-c78-04-a",
+     "text": "Triptofan"
+    },
+    {
+     "id": "q14-c78-04-b",
+     "text": "Tirozin"
+    },
+    {
+     "id": "q14-c78-04-c",
+     "text": "Xolesterin"
+    },
+    {
+     "id": "q14-c78-04-d",
+     "text": "Araxidon kislotasi"
+    }
+   ],
+   "answerOptionId": "q14-c78-04-c",
+   "explanation": "Barça kortikosteroidlar xolesterindan hosil böladi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch78",
+    "topicId": "14",
+    "blockId": "ch78-u1",
+    "printedPage": 899,
+    "pdfPage": 904,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c79-01",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch79",
+   "stem": "Langerhans orolçalarining qaysi hujayralari insulin ajratadi?",
+   "options": [
+    {
+     "id": "q14-c79-01-a",
+     "text": "Delta hujayralar"
+    },
+    {
+     "id": "q14-c79-01-b",
+     "text": "PP hujayralar"
+    },
+    {
+     "id": "q14-c79-01-c",
+     "text": "Beta hujayralar (~60%)"
+    },
+    {
+     "id": "q14-c79-01-d",
+     "text": "Alfa hujayralar"
+    }
+   ],
+   "answerOptionId": "q14-c79-01-c",
+   "explanation": "Beta — insulin va amilin, alfa — glyukagon, delta — somatostatin.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch79",
+    "topicId": "14",
+    "blockId": "ch79-u3",
+    "printedPage": 917,
+    "pdfPage": 922,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c79-02",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch79",
+   "stem": "Nima uçun C-peptid endogen insulin körsatkiçi sifatida işlatiladi?",
+   "options": [
+    {
+     "id": "q14-c79-02-a",
+     "text": "U faqat jigarda hosil böladi"
+    },
+    {
+     "id": "q14-c79-02-b",
+     "text": "Proinsulindan insulin bilan teng miqdorda ajraladi"
+    },
+    {
+     "id": "q14-c79-02-c",
+     "text": "U glyukagonni boğlaydi"
+    },
+    {
+     "id": "q14-c79-02-d",
+     "text": "U insulindan kuçliroq ta’sir qiladi"
+    }
+   ],
+   "answerOptionId": "q14-c79-02-b",
+   "explanation": "Golji’da proinsulin insulin va C-peptidga ajraladi; ikkalasi teng miqdorda çiqariladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch79",
+    "topicId": "14",
+    "blockId": "ch79-u5",
+    "printedPage": 917,
+    "pdfPage": 922,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c79-03",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch79",
+   "stem": "Insulin muşakka glyukoza kirişini qaysi taşuvçi orqali oşiradi?",
+   "options": [
+    {
+     "id": "q14-c79-03-a",
+     "text": "SGLT1"
+    },
+    {
+     "id": "q14-c79-03-b",
+     "text": "GLUT4"
+    },
+    {
+     "id": "q14-c79-03-c",
+     "text": "GLUT2"
+    },
+    {
+     "id": "q14-c79-03-d",
+     "text": "GLUT1"
+    }
+   ],
+   "answerOptionId": "q14-c79-03-b",
+   "explanation": "Insulin GLUT4 ni membranaga çiqarib, glyukoza kirişini ~15 barobargaça oşiradi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch79",
+    "topicId": "14",
+    "blockId": "ch79-u7",
+    "printedPage": 917,
+    "pdfPage": 922,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c79-04",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch79",
+   "stem": "Insulin retseptori qanday turdagi retseptor?",
+   "options": [
+    {
+     "id": "q14-c79-04-a",
+     "text": "G-oqsil bilan boğlangan retseptor"
+    },
+    {
+     "id": "q14-c79-04-b",
+     "text": "Ion kanali"
+    },
+    {
+     "id": "q14-c79-04-c",
+     "text": "Tirozin kinaza"
+    },
+    {
+     "id": "q14-c79-04-d",
+     "text": "Yadro retseptori"
+    }
+   ],
+   "answerOptionId": "q14-c79-04-c",
+   "explanation": "Insulin boğlangaç retseptor autofosforlanadi va IRS oqsillarini fosforlaydi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch79",
+    "topicId": "14",
+    "blockId": "ch79-u5",
+    "printedPage": 917,
+    "pdfPage": 922,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c80-01",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch80",
+   "stem": "Plazmadagi normal kalsiy konsentratsiyasi qança?",
+   "options": [
+    {
+     "id": "q14-c80-01-a",
+     "text": "~4 mg/dl"
+    },
+    {
+     "id": "q14-c80-01-b",
+     "text": "~9,4 mg/dl (2,4 mmol/L)"
+    },
+    {
+     "id": "q14-c80-01-c",
+     "text": "~20 mg/dl"
+    },
+    {
+     "id": "q14-c80-01-d",
+     "text": "~1 mg/dl"
+    }
+   ],
+   "answerOptionId": "q14-c80-01-b",
+   "explanation": "Kalsiy juda aniq boşqariladi; fiziologik faol şakli — ionlangan kalsiy (~50%).",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch80",
+    "topicId": "14",
+    "blockId": "ch80-u1",
+    "printedPage": 934,
+    "pdfPage": 939,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c80-02",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch80",
+   "stem": "Gipokalsiemiya qanday klinik holatga olib keladi?",
+   "options": [
+    {
+     "id": "q14-c80-02-a",
+     "text": "QT oraliğining qisqarişi"
+    },
+    {
+     "id": "q14-c80-02-b",
+     "text": "Bradikardiya"
+    },
+    {
+     "id": "q14-c80-02-c",
+     "text": "Reflekslar sustlaşişi va qabziyat"
+    },
+    {
+     "id": "q14-c80-02-d",
+     "text": "Tetaniya (karpopedal spazm)"
+    }
+   ],
+   "answerOptionId": "q14-c80-02-d",
+   "explanation": "Kam kalsiy Na⁺ ötkazuvçanligini oşirib qözğaluvçanlikni kuçaytiradi; tetaniya ~6 mg/dl da boşlanadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch80",
+    "topicId": "14",
+    "blockId": "ch80-u5",
+    "printedPage": 934,
+    "pdfPage": 939,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c80-03",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch80",
+   "stem": "Plazma kalsiyining fiziologik faol şakli qaysi?",
+   "options": [
+    {
+     "id": "q14-c80-03-a",
+     "text": "Suyakdagi kalsiy"
+    },
+    {
+     "id": "q14-c80-03-b",
+     "text": "Oqsilga boğlangan kalsiy"
+    },
+    {
+     "id": "q14-c80-03-c",
+     "text": "Ionlangan kalsiy (~50%)"
+    },
+    {
+     "id": "q14-c80-03-d",
+     "text": "Sitrat bilan kompleks kalsiy"
+    }
+   ],
+   "answerOptionId": "q14-c80-03-c",
+   "explanation": "41% oqsilga boğlangan, 9% kompleks, 50% ionlangan — faol şakl.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch80",
+    "topicId": "14",
+    "blockId": "ch80-u3",
+    "printedPage": 934,
+    "pdfPage": 939,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c80-04",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch80",
+   "stem": "Ovqatdagi kalsiyning qança qismi içakdan söriladi?",
+   "options": [
+    {
+     "id": "q14-c80-04-a",
+     "text": "~90%"
+    },
+    {
+     "id": "q14-c80-04-b",
+     "text": "~35% (D vitamini yordamida)"
+    },
+    {
+     "id": "q14-c80-04-c",
+     "text": "~5%"
+    },
+    {
+     "id": "q14-c80-04-d",
+     "text": "100%"
+    }
+   ],
+   "answerOptionId": "q14-c80-04-b",
+   "explanation": "Kalsiy yomon söriladi; ~90% najas bilan çiqadi, fosfat esa oson söriladi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch80",
+    "topicId": "14",
+    "blockId": "ch80-u7",
+    "printedPage": 934,
+    "pdfPage": 939,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c81-01",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch81",
+   "stem": "Testosteron moyakning qaysi hujayralarida hosil böladi?",
+   "options": [
+    {
+     "id": "q14-c81-01-a",
+     "text": "Leydig hujayralarida"
+    },
+    {
+     "id": "q14-c81-01-b",
+     "text": "Epididimis hujayralarida"
+    },
+    {
+     "id": "q14-c81-01-c",
+     "text": "Spermatogoniylarda"
+    },
+    {
+     "id": "q14-c81-01-d",
+     "text": "Sertoli hujayralarida"
+    }
+   ],
+   "answerOptionId": "q14-c81-01-a",
+   "explanation": "Leydig hujayralari testosteron, Sertoli hujayralari spermatogenezni ta’minlaydi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch81",
+    "topicId": "14",
+    "blockId": "ch81-u1",
+    "printedPage": 953,
+    "pdfPage": 958,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c81-02",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch81",
+   "stem": "Spermatogenezning butun jarayoni qança davom etadi?",
+   "options": [
+    {
+     "id": "q14-c81-02-a",
+     "text": "~1 yil"
+    },
+    {
+     "id": "q14-c81-02-b",
+     "text": "~28 kun"
+    },
+    {
+     "id": "q14-c81-02-c",
+     "text": "~74 kun"
+    },
+    {
+     "id": "q14-c81-02-d",
+     "text": "~7 kun"
+    }
+   ],
+   "answerOptionId": "q14-c81-02-c",
+   "explanation": "Spermatogoniy → spermatotsit → meyoz → spermatid → spermatozoid jarayoni ~74 kun davom etadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch81",
+    "topicId": "14",
+    "blockId": "ch81-u5",
+    "printedPage": 953,
+    "pdfPage": 958,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c81-03",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch81",
+   "stem": "Spermatozoid akrosomasida qanday fermentlar bor?",
+   "options": [
+    {
+     "id": "q14-c81-03-a",
+     "text": "Amilaza va lipaza"
+    },
+    {
+     "id": "q14-c81-03-b",
+     "text": "Gialuronidaza va proteolitik fermentlar"
+    },
+    {
+     "id": "q14-c81-03-c",
+     "text": "Katalaza va peroksidaza"
+    },
+    {
+     "id": "q14-c81-03-d",
+     "text": "Pepsin va tripsin"
+    }
+   ],
+   "answerOptionId": "q14-c81-03-b",
+   "explanation": "Akrosoma Golji’dan hosil böladi; uning fermentlari tuxum hujayraga kirişga yordam beradi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch81",
+    "topicId": "14",
+    "blockId": "ch81-u5",
+    "printedPage": 953,
+    "pdfPage": 958,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c81-04",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch81",
+   "stem": "Homilaning jinsini nima belgilaydi?",
+   "options": [
+    {
+     "id": "q14-c81-04-a",
+     "text": "Ona organizmidagi gormonlar"
+    },
+    {
+     "id": "q14-c81-04-b",
+     "text": "Homiladorlik muddati"
+    },
+    {
+     "id": "q14-c81-04-c",
+     "text": "Tuxum hujayrani X yoki Y xromosomali spermatozoid uruğlantirişi"
+    },
+    {
+     "id": "q14-c81-04-d",
+     "text": "Tuxum hujayradagi jinsiy xromosoma"
+    }
+   ],
+   "answerOptionId": "q14-c81-04-c",
+   "explanation": "X spermatozoid → XX (qiz), Y spermatozoid → XY (öğil).",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch81",
+    "topicId": "14",
+    "blockId": "ch81-u5",
+    "printedPage": 953,
+    "pdfPage": 958,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c82-01",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch82",
+   "stem": "Ayolning har oylik jinsiy sikli örtaça qança davom etadi?",
+   "options": [
+    {
+     "id": "q14-c82-01-a",
+     "text": "~7 kun"
+    },
+    {
+     "id": "q14-c82-01-b",
+     "text": "~40 kun"
+    },
+    {
+     "id": "q14-c82-01-c",
+     "text": "~28 kun"
+    },
+    {
+     "id": "q14-c82-01-d",
+     "text": "~14 kun"
+    }
+   ],
+   "answerOptionId": "q14-c82-01-c",
+   "explanation": "Sikl gipotalamus–gipofiz–tuxumdon öqi orqali boşqariladi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch82",
+    "topicId": "14",
+    "blockId": "ch82-u1",
+    "printedPage": 968,
+    "pdfPage": 973,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c82-02",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch82",
+   "stem": "Tuğilganda qizlarda qança birlamçi oosit böladi?",
+   "options": [
+    {
+     "id": "q14-c82-02-a",
+     "text": "~400–500"
+    },
+    {
+     "id": "q14-c82-02-b",
+     "text": "~300 000"
+    },
+    {
+     "id": "q14-c82-02-c",
+     "text": "1–2 million"
+    },
+    {
+     "id": "q14-c82-02-d",
+     "text": "~10 000"
+    }
+   ],
+   "answerOptionId": "q14-c82-02-c",
+   "explanation": "Baloğatda ~300 000 qoladi, reproduktiv yillarda faqat 400–500 tasi ovulyatsiya qiladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch82",
+    "topicId": "14",
+    "blockId": "ch82-u5",
+    "printedPage": 968,
+    "pdfPage": 973,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c82-03",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch82",
+   "stem": "GnRH qanday tarzda ajraladi?",
+   "options": [
+    {
+     "id": "q14-c82-03-a",
+     "text": "Uzluksiz bir xil tezlikda"
+    },
+    {
+     "id": "q14-c82-03-b",
+     "text": "Faqat ovulyatsiya kunida"
+    },
+    {
+     "id": "q14-c82-03-c",
+     "text": "Kuniga bir marta"
+    },
+    {
+     "id": "q14-c82-03-d",
+     "text": "Pulsatil, örtaça har ~90 daqiqada"
+    }
+   ],
+   "answerOptionId": "q14-c82-03-d",
+   "explanation": "Gipotalamus GnRH ni pulsatil ajratadi; u gipofizdan FSH va LH çiqişini boşqaradi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch82",
+    "topicId": "14",
+    "blockId": "ch82-u7",
+    "printedPage": 968,
+    "pdfPage": 973,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c82-04",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch82",
+   "stem": "Ikkilamçi oositda meyoz II qaçon tugaydi?",
+   "options": [
+    {
+     "id": "q14-c82-04-a",
+     "text": "Tuğilişdan oldin"
+    },
+    {
+     "id": "q14-c82-04-b",
+     "text": "Faqat uruğlanişda"
+    },
+    {
+     "id": "q14-c82-04-c",
+     "text": "Baloğatda"
+    },
+    {
+     "id": "q14-c82-04-d",
+     "text": "Ovulyatsiyadan oldin"
+    }
+   ],
+   "answerOptionId": "q14-c82-04-b",
+   "explanation": "Meyoz II metafazada töxtaydi va faqat uruğlanişda tugab, ikkinçi qutb tanaçasi ajraladi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch82",
+    "topicId": "14",
+    "blockId": "ch82-u5",
+    "printedPage": 968,
+    "pdfPage": 973,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c83-01",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch83",
+   "stem": "Uruğlangan tuxum hujayra baçadonga neça kunda yetadi?",
+   "options": [
+    {
+     "id": "q14-c83-01-a",
+     "text": "3–5 kunda"
+    },
+    {
+     "id": "q14-c83-01-b",
+     "text": "1 kunda"
+    },
+    {
+     "id": "q14-c83-01-c",
+     "text": "30 kunda"
+    },
+    {
+     "id": "q14-c83-01-d",
+     "text": "14 kunda"
+    }
+   ],
+   "answerOptionId": "q14-c83-01-a",
+   "explanation": "Sekret oqimi, kipriklar va kuçsiz qisqarişlar tuxumni baçadonga 3–5 kunda yetkazadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch83",
+    "topicId": "14",
+    "blockId": "ch83-u5",
+    "printedPage": 986,
+    "pdfPage": 991,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c83-02",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch83",
+   "stem": "Platsenta qaysi gormonlarni işlab çiqaradi?",
+   "options": [
+    {
+     "id": "q14-c83-02-a",
+     "text": "hCG, estrogen, progesteron va hCS"
+    },
+    {
+     "id": "q14-c83-02-b",
+     "text": "Kortizol va aldosteron"
+    },
+    {
+     "id": "q14-c83-02-c",
+     "text": "Tiroksin va kalsitonin"
+    },
+    {
+     "id": "q14-c83-02-d",
+     "text": "Insulin va glyukagon"
+    }
+   ],
+   "answerOptionId": "q14-c83-02-a",
+   "explanation": "Platsenta diffuziya organi va kuçli endokrin bez.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch83",
+    "topicId": "14",
+    "blockId": "ch83-u1",
+    "printedPage": 986,
+    "pdfPage": 991,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c83-03",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch83",
+   "stem": "Tuğruq qanday mexanizm bilan boşlanadi?",
+   "options": [
+    {
+     "id": "q14-c83-03-a",
+     "text": "Faqat ona irodasi bilan"
+    },
+    {
+     "id": "q14-c83-03-b",
+     "text": "Manfiy teskari aloqa bilan"
+    },
+    {
+     "id": "q14-c83-03-c",
+     "text": "Progesteron köpayişi bilan"
+    },
+    {
+     "id": "q14-c83-03-d",
+     "text": "Musbat teskari aloqa mexanizmi bilan"
+    }
+   ],
+   "answerOptionId": "q14-c83-03-d",
+   "explanation": "Baçadon böyni çözilişi qisqarişni kuçaytiradi va bu özini özi kuçaytiradi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch83",
+    "topicId": "14",
+    "blockId": "ch83-u1",
+    "printedPage": 986,
+    "pdfPage": 991,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c83-04",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch83",
+   "stem": "Uruğlaniş odatda ayol jinsiy yölining qaysi qismida böladi?",
+   "options": [
+    {
+     "id": "q14-c83-04-a",
+     "text": "Tuxumdonda"
+    },
+    {
+     "id": "q14-c83-04-b",
+     "text": "Qinda"
+    },
+    {
+     "id": "q14-c83-04-c",
+     "text": "Baçadon böşliğida"
+    },
+    {
+     "id": "q14-c83-04-d",
+     "text": "Baçadon nayi ampulasida"
+    }
+   ],
+   "answerOptionId": "q14-c83-04-d",
+   "explanation": "Eyakulyatsiyadan 5–10 daqiqada ba’zi spermatozoidlar naylar ampulasiga yetadi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch83",
+    "topicId": "14",
+    "blockId": "ch83-u3",
+    "printedPage": 986,
+    "pdfPage": 991,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c84-01",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch84",
+   "stem": "Homila yuragi qaçon urişni boşlaydi?",
+   "options": [
+    {
+     "id": "q14-c84-01-a",
+     "text": "Tuğilişdan bir oy oldin"
+    },
+    {
+     "id": "q14-c84-01-b",
+     "text": "20-haftada"
+    },
+    {
+     "id": "q14-c84-01-c",
+     "text": "Uruğlanişdan keyin ~4-haftada (~65 uriş/daq)"
+    },
+    {
+     "id": "q14-c84-01-d",
+     "text": "12-haftada"
+    }
+   ],
+   "answerOptionId": "q14-c84-01-c",
+   "explanation": "Yurak 4-haftada ~65 uriş/daq bilan boşlanadi va tuğilişdan oldin ~140 gaça oşadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch84",
+    "topicId": "14",
+    "blockId": "ch84-u5",
+    "printedPage": 1001,
+    "pdfPage": 1006,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c84-02",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch84",
+   "stem": "Homilaning 3-oyidan boşlab asosiy qon hosil qiluvçi a’zo qaysi?",
+   "options": [
+    {
+     "id": "q14-c84-02-a",
+     "text": "Suyak iligi"
+    },
+    {
+     "id": "q14-c84-02-b",
+     "text": "Sariqlik xaltasi"
+    },
+    {
+     "id": "q14-c84-02-c",
+     "text": "Platsenta"
+    },
+    {
+     "id": "q14-c84-02-d",
+     "text": "Jigar"
+    }
+   ],
+   "answerOptionId": "q14-c84-02-a",
+   "explanation": "3-haftada sariqlik xaltasi, 6-haftada jigar, 3-oydan suyak iligi asosiy manba.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch84",
+    "topicId": "14",
+    "blockId": "ch84-u5",
+    "printedPage": 1001,
+    "pdfPage": 1006,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c84-03",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch84",
+   "stem": "Tuğiliş paytida çaqaloqning örtaça uzunligi qança?",
+   "options": [
+    {
+     "id": "q14-c84-03-a",
+     "text": "~70 sm"
+    },
+    {
+     "id": "q14-c84-03-b",
+     "text": "~25 sm"
+    },
+    {
+     "id": "q14-c84-03-c",
+     "text": "~10 sm"
+    },
+    {
+     "id": "q14-c84-03-d",
+     "text": "~53 sm"
+    }
+   ],
+   "answerOptionId": "q14-c84-03-d",
+   "explanation": "12 haftada ~10 sm, 20 haftada ~25 sm, 40 haftada ~53 sm.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch84",
+    "topicId": "14",
+    "blockId": "ch84-u3",
+    "printedPage": 1001,
+    "pdfPage": 1006,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q14-c84-04",
+   "version": 1,
+   "topicId": "14",
+   "lessonId": "ch84",
+   "stem": "Yangi tuğilgan çaqaloqning asosiy muammolaridan biri nima?",
+   "options": [
+    {
+     "id": "q14-c84-04-a",
+     "text": "Asab tizimi töliq yetilgan"
+    },
+    {
+     "id": "q14-c84-04-b",
+     "text": "Yurak urişi juda sekin"
+    },
+    {
+     "id": "q14-c84-04-c",
+     "text": "A’zolar (öpka, jigar, buyrak, termoregulyatsiya, immunitet) hali yetilmagan"
+    },
+    {
+     "id": "q14-c84-04-d",
+     "text": "Qon hosil bölişi töxtagan"
+    }
+   ],
+   "answerOptionId": "q14-c84-04-c",
+   "explanation": "Nazorat tizimlari beqaror; çala tuğilganlarda bu muammolar yanada oğir.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch84",
+    "topicId": "14",
+    "blockId": "ch84-u1",
+    "printedPage": 1001,
+    "pdfPage": 1006,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  }
+ ]
+}

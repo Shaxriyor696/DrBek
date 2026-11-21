@@ -1,0 +1,703 @@
+{
+ "lessonId": "ch31",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 31,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "machine",
+ "translator": "Gemini API",
+ "model": "gemini-3.5-flash-lite",
+ "createdAt": "2026-11-18T10:39:08.400Z",
+ "updatedAt": "2026-11-18T11:07:40.634Z",
+ "coverage": {
+  "translated": 229,
+  "total": 229
+ },
+ "note": "Kitob matnining töliq özbekça tarjimasi (qisqartirilmagan). Ekspert tekşiruvidan ötmagan.",
+ "blocks": {
+  "ch31-f0": {
+   "text": "Vodorod ionlari (H+) balansining boşqarilişi ba’zi jihatlardan organizmdagi boşqa ionlarning boşqarilişiga öxşaydi. Masalan, gomeostazga erişiş uçun H+ ning tuşişi yoki hosil bölişi bilan uning organizmdan sof çiqarilişi örtasida muvozanat bölişi kerak. Boşqa ionlardagi kabi, H+ ning organizmdan çiqarilişini boşqarişda buyraklar asosiy rol öynaydi. Biroq hujayradan taşqari suyuqlikdagi H+ konsentratsiyasini aniq nazorat qiliş buyraklar orqali H+ ning oddiygina çiqarilişidan ança köproq narsani öz içiga oladi. Hujayradan taşqari va hujayra içi suyuqliklarida H+ ning me’yoriy konsentratsiyasini saqlaşda qon, hujayralar va öpkani öz içiga olgan köplab kislota-işqor bufer mexanizmlari ham muhim ahamiyatga ega."
+  },
+  "ch31-f1": {
+   "text": "Uşbu bobda H+ konsentratsiyasini boşqaruvçi mexanizmlarni körib çiqamiz; bunda buyraklarda H+ sekretsiyasiga hamda organizm suyuqliklaridagi kislota-işqor nazorat tizimlarining asosiy tarkibiy qismlaridan biri — bikarbonat ionlarining (HCO3−) buyraklarda reabsorbsiyasi, hosil bölişi va ekskretsiyasiga alohida e’tibor qaratamiz."
+  },
+  "ch31-f2": {
+   "text": "Vodorod ionlari konsentratsiyasi aniq boşqariladi"
+  },
+  "ch31-f3": {
+   "text": "H+ ni aniq boşqariş juda muhim, çunki organizmdagi deyarli barça ferment tizimlarining faolligiga H+ konsentratsiyasi ta’sir qiladi. Şu sababli H+ konsentratsiyasining özgarişlari hujayra va organizmning deyarli barça funksiyalarini özgartiradi."
+  },
+  "ch31-f4": {
+   "text": "Boşqa ionlarga qaraganda organizm suyuqliklaridagi H+ konsentratsiyasi me’yorda past darajada saqlanadi. Masalan, hujayradan taşqari suyuqlikdagi natriy konsentratsiyasi (142 mEq/L) örtaça atigi 0,00004 mEq/L bölgan H+ ning me’yoriy konsentratsiyasidan taxminan 3,5 million marta yuqori. Bundan kam bölmagan muhim jihat şundaki, hujayradan taşqari suyuqlikda H+ konsentratsiyasining me’yoriy tebranişi natriy ionlari (Na+) konsentratsiyasining me’yoriy tebranişidan atigi qariyb milliondan bir qismini taşkil etadi. Şunday qilib, H+ boşqarilişining aniqligi uning hujayralarning turli funksiyalari uçun ahamiyatini ta’kidlaydi."
+  },
+  "ch31-f5": {
+   "text": "Kislotalar va asoslar — ta’riflar va ma’nolar"
+  },
+  "ch31-f6": {
+   "text": "Vodorod ioni — vodorod atomidan ajralib çiqqan bitta erkin proton. Eritmada vodorod ionlarini ajrata oladigan vodorod atomlari bölgan molekulalar _kislotalar_ deb ataladi. Bunga misol — xlorid kislota (HCl); u suvda ionlanib, vodorod ionlari (H+) va xlorid ionlarini (Cl−) hosil qiladi. Xuddi şuningdek, karbonat kislota (H2CO3) suvda ionlanib, H+ va bikarbonat ionlarini (HCO3−) hosil qiladi."
+  },
+  "ch31-f7": {
+   "text": "_Asos_ — H+ ni biriktirib ola oladigan ion yoki molekula. Masalan, HCO3− asosdir, çunki u H+ bilan birikib H2CO3 hosil qila oladi. Xuddi şuningdek, HPO4= ham asosdir, çunki u H+ ni biriktirib H2PO4− hosil qila oladi. Organizmdagi oqsillar ham asos vazifasini bajaradi, çunki oqsillar tarkibiga kiruvçi ba’zi aminokislotalar H+ ni oson biriktiradigan manfiy sof zaryadga ega. Eritrotsitlardagi _gemoglobin_ oqsili va organizmning boşqa hujayralaridagi oqsillar organizmning eng muhim asoslari qatoriga kiradi."
+  },
+  "ch31-f8": {
+   "text": "_Asos_ va _işqor_ atamalari köpinça sinonim sifatida işlatiladi. _Işqor_ — natriy, kaliy va litiy kabi bir yoki bir neçta işqoriy metallning gidroksil ioni (OH−) kabi kuçli asosli ion bilan birikişidan hosil bölgan molekula. Bu molekulalarning asos qismi H+ bilan tez reaksiyaga kirişib, uni eritmadan çiqaradi va şu sababli ular tipik asoslar hisoblanadi. Xuddi şunday sabablarga köra _alkaloz_ atamasi organizm suyuqliklaridan H+ ning ortiqça çiqarilişini anglatadi; bunga qarama-qarşi ravişda H+ ning ortiqça qöşilişi _atsidoz_ deb ataladi."
+  },
+  "ch31-f9": {
+   "text": "HCl kabi kuçli kislota eritmada tez dissotsiatsiyalanadi va ayniqsa köp miqdorda H+ ajratadi. H2CO3 kabi kuçsiz kislotalar öz ionlariga kamroq dissotsiatsiyalanadi va şu sababli H+ ni sustroq ajratadi. Kuçli asos — H+ bilan tez va kuçli reaksiyaga kirişadigan va şu sababli eritmadan H+ ni tez çiqaradigan asos. Bunga tipik misol — OH−; u H+ bilan reaksiyaga kirişib suv (H2O) hosil qiladi. Tipik kuçsiz asos — HCO3−, çunki u H+ bilan OH− ga qaraganda ança kuçsizroq boğlanadi. Hujayradan taşqari suyuqlikda me’yoriy kislota-işqor boşqaruvida iştirok etadigan kislota va asoslarning köpçiligi kuçsiz kislota va asoslardir. Biz muhokama qiladigan eng muhimlari — karbonat kislota (H2CO3) va HCO3− asosi.",
+   "lead": "Kuçli va kuçsiz kislotalar va asoslar."
+  },
+  "ch31-f10": {
+   "text": "Qondagi H+ konsentratsiyasi me’yorda taxminan 0,00004 mEq/L (40 nEq/L) lik me’yoriy qiymat atrofida tor çegaralarda saqlanadi. Me’yoriy tebranişlar atigi taxminan 3–5 nEq/L ni taşkil etadi, ammo öta oğir şaroitlarda H+ konsentratsiyasi ölimga olib kelmagan holda 10 nEq/L gaça past va 160 nEq/L gaça yuqori bölişi mumkin.",
+   "lead": "Organizm suyuqliklarida H+ ning me’yoriy konsentratsiyasi va pH, atsidoz va alkalozda yuz beradigan özgarişlar."
+  },
+  "ch31-f11": {
+   "text": "H+ konsentratsiyasi me’yorda past bölgani va bu kiçik sonlar bilan işlaş noqulay bölgani uçun H+ konsentratsiyasini pH birliklarida logarifmik şkalada ifodalaş odat tusiga kirgan. pH haqiqiy H+ konsentratsiyasi bilan quyidagi formula orqali boğlangan (H+ konsentratsiyasi [H+] litrdagi _ekvivalentlarda_ ifodalanadi):"
+  },
+  "ch31-f12": {
+   "text": "Masalan, me’yoriy [H+] 40 nEq/L (0,00000004 Eq/L) ga teng. Demak, me’yoriy pH quyidagiça:"
+  },
+  "ch31-f13": {
+   "text": "Bu formuladan pH H+ konsentratsiyasiga teskari boğliq ekanini köriş mumkin; şu sababli past pH yuqori H+ konsentratsiyasiga, yuqori pH esa past H+ konsentratsiyasiga mos keladi."
+  },
+  "ch31-f14": {
+   "text": "Arterial qonning me’yoriy pH qiymati 7,4 ga teng, venoz qon va interstitsial suyuqliklarning pH qiymati esa taxminan 7,35 ni taşkil etadi, çunki bu suyuqliklarda töqimalardan ajralgan qöşimça karbonat angidrid (CO2) H2CO3 hosil qiladi (**Jadval 31-1**). Arterial qonning me’yoriy pH qiymati 7,4 bölgani uçun pH bu qiymatdan sezilarli pasayganda odamda _atsidemiya_, pH 7,4 dan oşganda esa _alkalemiya_ bor deb hisoblanadi. Odam bir neça soatdan köproq yaşay oladigan pH ning quyi çegarasi taxminan 6,8, yuqori çegarasi esa taxminan 8,0."
+  },
+  "ch31-f16": {
+   "text": "Hujayra içidagi pH odatda plazma pH idan biroz pastroq böladi, çunki hujayra metabolizmi kislota, ayniqsa H2CO3 hosil qiladi. Hujayralar turiga qarab hujayra içi suyuqligining pH qiymati 6,0 dan 7,4 gaça böladi deb baholangan. Töqimalar gipoksiyasi va töqimalarga qon oqimining yomonlaşuvi kislota töplanişiga va hujayra içidagi pH ning pasayişiga sabab bölişi mumkin. _Atsidoz_ va _alkaloz_ atamalari mos ravişda atsidemiya va alkalemiyaga olib keladigan jarayonlarni ifodalaydi."
+  },
+  "ch31-f17": {
+   "text": "Siydikning pH qiymati hujayradan taşqari suyuqlikning kislota-işqor holatiga qarab 4,5 dan 8,0 gaça bölişi mumkin. Keyinroq muhokama qilinganidek, buyraklar kislota yoki asoslarni özgaruvçan tezlikda çiqariş orqali hujayradan taşqari suyuqlikdagi H+ konsentratsiyasi buzilişlarini tuzatişda asosiy rol öynaydi."
+  },
+  "ch31-f18": {
+   "text": "Organizmdagi kislotali suyuqlikning öta yaqqol misoli — 65-bobda muhokama qilinganidek, oşqozon şilliq qavatining _oksintik (qoplovçi)_ hujayralari tomonidan oşqozonga sekretsiya qilinadigan HCl. Bu hujayralardagi H+ konsentratsiyasi qondagi vodorod konsentratsiyasidan taxminan 4 million marta yuqori, pH qiymati esa 0,8 ga teng. Bobning qolgan qismida hujayradan taşqari suyuqlikdagi H+ konsentratsiyasining boşqarilişini muhokama qilamiz."
+  },
+  "ch31-f19": {
+   "text": "H+ konsentratsiyasi özgarişlaridan himoya: buferlar, öpka va buyraklar"
+  },
+  "ch31-f20": {
+   "text": "Organizm suyuqliklaridagi H+ konsentratsiyasini uçta asosiy tizim boşqaradi: (1) H+ konsentratsiyasining haddan taşqari özgarişining oldini oliş uçun kislota yoki asos bilan darhol birikadigan _organizm suyuqliklarining kimyoviy kislota-işqor bufer tizimlari_; (2) hujayradan taşqari suyuqlikdan CO2 (va demak, H2CO3) çiqarilişini boşqaradigan _nafas markazi_; (3) kislotali yoki işqoriy siydik çiqara oladigan va şu bilan atsidoz yoki alkalozda hujayradan taşqari suyuqlikdagi H+ konsentratsiyasini me’yorga qaytaradigan _buyraklar_."
+  },
+  "ch31-f21": {
+   "text": "H+ konsentratsiyasi özgarganda organizm suyuqliklarining _bufer tizimlari_ bu özgarişlarni minimal darajaga tuşiriş uçun bir neça sekund içida reaksiyaga kirişadi. Bufer tizimlari H+ ni organizmdan çiqarmaydi yoki organizmga qöşmaydi, balki muvozanat qayta tiklangunga qadar ularni faqat boğlangan holda uşlab turadi."
+  },
+  "ch31-f22": {
+   "text": "Ikkinçi himoya çiziği — _nafas tizimi_ — bir neça daqiqa içida ta’sir körsatib, CO2 ni va demak, H2CO3 ni organizmdan çiqaradi."
+  },
+  "ch31-f23": {
+   "text": "Bu dastlabki ikki himoya çiziği sekinroq javob beradigan uçinçi himoya çiziği — _buyraklar_ ortiqça kislota yoki asosni organizmdan çiqarib yuborgunga qadar H+ konsentratsiyasining haddan taşqari özgarişiga yöl qöymaydi. Buyraklar boşqa himoya vositalariga qaraganda nisbatan sekin javob bersa-da, bir neça soatdan bir neça kungaça bölgan muddatda ular kislota-işqor boşqaruv tizimlarining eng kuçlisi hisoblanadi."
+  },
+  "ch31-f24": {
+   "text": "Organizm suyuqliklarida H+ ning buferlanişi"
+  },
+  "ch31-f25": {
+   "text": "Bufer — H+ ni qaytar boğlay oladigan har qanday modda. Buferlaş reaksiyasining umumiy körinişi quyidagiça:"
+  },
+  "ch31-f26": {
+   "text": "Bu misolda erkin H+ bufer bilan birikib, kuçsiz kislota (H-bufer) hosil qiladi; u dissotsiatsiyalanmagan molekula holida qolişi yoki qaytadan bufer va H+ ga dissotsiatsiyalanişi mumkin. H+ konsentratsiyasi oşganda, bufer mavjud ekan, reaksiya öngga siljiydi va köproq H+ bufer bilan boğlanadi. Aksinça, H+ konsentratsiyasi pasayganda reaksiya çapga siljiydi va H+ bufer tarkibidan ajralib çiqadi. Şu tariqa H+ konsentratsiyasining özgarişlari minimal darajaga tuşiriladi."
+  },
+  "ch31-f27": {
+   "text": "Organizm suyuqliklaridagi H+ konsentratsiyasining pastligini va organizm har kuni hosil qiladigan kislotalarning nisbatan köp miqdorini hisobga olsak, organizm suyuqliklari buferlarining ahamiyatini tezda anglab yetiş mumkin. Har kuni metabolizm natijasida taxminan 80 milliekvivalent H+ tuşadi yoki hosil böladi, organizm suyuqliklaridagi H+ konsentratsiyasi esa me’yorda atigi taxminan 0,00004 mEq/L ni taşkil etadi. Buferlaniş bölmaganida kislotalarning sutkalik hosil bölişi va tuşişi organizm suyuqliklaridagi H+ konsentratsiyasida ölimga olib keluvçi özgarişlarni keltirib çiqargan bölar edi."
+  },
+  "ch31-f28": {
+   "text": "Kislota-işqor buferlarining ta’sirini, ehtimol, hujayradan taşqari suyuqlikda miqdoriy jihatdan eng muhim bölgan bufer tizimi — bikarbonat bufer tizimi misolida eng yaxşi tuşuntiriş mumkin."
+  },
+  "ch31-f29": {
+   "text": "Bikarbonat bufer tizimi"
+  },
+  "ch31-f30": {
+   "text": "Bikarbonat bufer tizimi ikki tarkibiy qismni öz içiga olgan suvli eritmadan iborat: (1) kuçsiz kislota — H2CO3; (2) natriy bikarbonat (NaHCO3) kabi bikarbonat tuzi."
+  },
+  "ch31-f31": {
+   "text": "H2CO3 organizmda CO2 ning H2O bilan reaksiyasi natijasida hosil böladi:"
+  },
+  "ch31-f32": {
+   "text": "Bu reaksiya sekin keçadi va _karboangidraza_ fermenti bölmasa, juda oz miqdorda H2CO3 hosil böladi. Bu ferment ayniqsa CO2 ajraladigan öpka alveolalari devorlarida köp; karboangidraza buyrak kanalçalarining epiteliy hujayralarida ham mavjud bölib, u yerda CO2 H2O bilan reaksiyaga kirişib H2CO3 hosil qiladi."
+  },
+  "ch31-f33": {
+   "text": "H2CO3 kuçsiz ionlanib, oz miqdorda H+ va HCO3− hosil qiladi:"
+  },
+  "ch31-f34": {
+   "text": "Tizimning ikkinçi tarkibiy qismi — bikarbonat tuzi hujayradan taşqari suyuqlikda asosan NaHCO3 şaklida böladi. NaHCO3 deyarli töliq ionlanib, quyidagiça HCO3− va Na+ hosil qiladi:"
+  },
+  "ch31-f35": {
+   "text": "Endi butun tizimni birlaştirsak, quyidagini hosil qilamiz:"
+  },
+  "ch31-f36": {
+   "text": "H2CO3 ning kuçsiz dissotsiatsiyalanişi tufayli H+ konsentratsiyasi juda past böladi."
+  },
+  "ch31-f37": {
+   "text": "Bikarbonat bufer eritmasiga HCl kabi kuçli kislota qöşilganda kislotadan ajralgan qöşimça H+ (HCl → H+ + Cl−) HCO3− tomonidan buferlanadi:"
+  },
+  "ch31-f38": {
+   "text": "Natijada köproq H2CO3 hosil böladi, bu esa CO2 va H2O hosil bölişining oşişiga sabab böladi. Bu reaksiyalardan körinib turibdiki, kuçli kislota HCl dan ajralgan H+"
+  },
+  "ch31-f39": {
+   "text": "HCO3− bilan reaksiyaga kirişib juda kuçsiz kislota — H2CO3 ni hosil qiladi, u esa öz navbatida CO2 va H2O ni hosil qiladi. Ortiqça CO2 nafasni kuçli rağbatlantiradi va nafas CO2 ni hujayradan taşqari suyuqlikdan çiqarib yuboradi."
+  },
+  "ch31-f40": {
+   "text": "Bikarbonat bufer eritmasiga natriy gidroksid (NaOH) kabi kuçli asos qöşilganda teskari reaksiyalar yuz beradi."
+  },
+  "ch31-f41": {
+   "text": "Bu holda NaOH dan ajralgan OH− H2CO3 bilan birikib, qöşimça HCO3− hosil qiladi. Şunday qilib, kuçli asos NaOH örnini kuçsiz asos NaHCO3 egallaydi. Bir vaqtning özida H2CO3 konsentratsiyasi kamayadi (çunki u NaOH bilan reaksiyaga kirişadi), bu esa H2CO3 örnini töldiriş uçun köproq CO2 ning H2O bilan birikişiga sabab böladi:"
+  },
+  "ch31-f42": {
+   "text": "Şunday qilib, umumiy natija — qondagi CO2 darajasining pasayişga moyilligi, ammo qonda CO2 ning kamayişi nafasni tormozlaydi va CO2 ning nafas bilan çiqariliş tezligini kamaytiradi. Bunda yuzaga keladigan qondagi HCO3− konsentratsiyasining oşişi buyraklar orqali HCO3− ekskretsiyasining kuçayişi bilan kompensatsiyalanadi."
+  },
+  "ch31-f43": {
+   "text": "Barça kislotalar, jumladan H2CO3 ham, ma’lum darajada ionlanadi. Massa balansi nuqtai nazaridan H+ va HCO3− konsentratsiyalari H2CO3 konsentratsiyasiga proporsional:"
+  },
+  "ch31-f44": {
+   "text": "Har qanday kislota uçun kislota konsentratsiyasining uning dissotsiatsiyalangan ionlariga nisbati _dissotsiatsiya konstantasi, K_′ bilan aniqlanadi."
+  },
+  "ch31-f45": {
+   "text": "Bu tenglama H2CO3 eritmasida erkin H+ miqdori quyidagiga teng ekanini körsatadi:"
+  },
+  "ch31-f46": {
+   "text": "Dissotsiatsiyalanmagan H2CO3 konsentratsiyasini eritmada ölçab bölmaydi, çunki u tezda CO2 va H2O ga yoki H+ va HCO3− ga dissotsiatsiyalanadi. Biroq qonda erigan CO2 dissotsiatsiyalanmagan H2CO3 miqdoriga töğridan-töğri proporsional. Şu sababli 2-tenglamani quyidagiça qayta yoziş mumkin:"
+  },
+  "ch31-f47": {
+   "text": "3-tenglama uçun dissotsiatsiya konstantasi (K) 2-tenglamaning dissotsiatsiya konstantasining (K′) atigi taxminan 1/400 qismini taşkil etadi, çunki H2CO3 va CO2 örtasidagi proporsionallik nisbati 1:400 ga teng."
+  },
+  "ch31-f48": {
+   "text": "3-tenglama eritmada erigan CO2 ning umumiy miqdori orqali yozilgan. Biroq köpçilik klinik laboratoriyalar CO2 ning haqiqiy miqdorini emas, balki qondagi CO2 tarangligini (Pco2) ölçaydi. Baxtimizga, qondagi CO2 miqdori Pco2 ning CO2 eruvçanlik koeffitsiyentiga köpaytmasining çiziqli funksiyasidir; fiziologik şaroitda tana haroratida CO2 ning eruvçanlik koeffitsiyenti 0,03 mmol/mm sim. ust. ga teng. Bu ölçangan Pco2 ning har bir mm sim. ust. iga qonda 0,03 millimol H2CO3 töğri kelişini anglatadi. Şu sababli 3-tenglamani quyidagiça qayta yoziş mumkin:"
+  },
+  "ch31-f49": {
+   "text": "Avval muhokama qilinganidek, H+ konsentratsiyasini haqiqiy konsentratsiyalarda emas, balki pH birliklarida ifodalaş odat tusiga kirgan. Eslatib ötamiz: pH = −log H+.",
+   "lead": "Henderson–Hasselbalx tenglamasi."
+  },
+  "ch31-f50": {
+   "text": "Dissotsiatsiya konstantasini (pK) ham xuddi şunday ifodalaş mumkin."
+  },
+  "ch31-f51": {
+   "text": "Demak, 4-tenglamadagi H+ konsentratsiyasini şu tenglamaning manfiy logarifmini oliş orqali pH birliklarida ifodalaşimiz mumkin, natijada quyidagi hosil böladi:"
+  },
+  "ch31-f52": {
+   "text": "Demak,"
+  },
+  "ch31-f53": {
+   "text": "Manfiy logarifm bilan işlaş örniga logarifmlar qonuniga köra logarifm işorasini özgartirib, oxirgi haddagi surat va maxrajning örnini almaştirişimiz mumkin, natijada quyidagi hosil böladi:"
+  },
+  "ch31-f54": {
+   "text": "Bikarbonat bufer tizimi uçun pK 6,1 ga teng va 7-tenglamani quyidagiça yoziş mumkin:"
+  },
+  "ch31-f55": {
+   "text": "8-tenglama Henderson–Hasselbalx tenglamasi bölib, u yordamida HCO3− ning molyar konsentratsiyasi va Pco2 ma’lum bölsa, eritmaning pH qiymatini hisoblaş mumkin."
+  },
+  "ch31-f56": {
+   "text": "Henderson–Hasselbalx tenglamasidan körinib turibdiki, HCO3− konsentratsiyasining oşişi pH ning kötarilişiga sabab böladi va kislota-işqor muvozanatini alkaloz tomon siljitadi. Pco2 ning oşişi esa pH ning pasayişiga sabab böladi va kislota-işqor muvozanatini atsidoz tomon siljitadi."
+  },
+  "ch31-f57": {
+   "text": "Henderson–Hasselbalx tenglamasi hujayradan taşqari suyuqlikda pH ning me’yoriy boşqarilişi va kislota-işqor muvozanatini belgilovçi omillarni aniqlab berişdan taşqari, hujayradan taşqari suyuqlikning kislota va asos tarkibining fiziologik nazoratini tuşunişga ham yordam beradi. Keyinroq muhokama qilinganidek, _HCO3_− _konsentratsiyasi asosan_"
+  },
+  "ch31-f58": {
+   "text": "_buyraklar tomonidan boşqariladi, hujayradan taşqari suyuqlikdagi Pco2 esa nafas tezligi bilan nazorat qilinadi._ Öpka nafas tezligini oşiriş orqali plazmadan CO2 ni çiqaradi, nafasni kamaytiriş orqali esa Pco2 ni oşiradi. Me’yoriy fiziologik kislota-işqor gomeostazi öpka va buyraklarning muvofiqlaşgan faoliyati natijasida ta’minlanadi; bu nazorat mexanizmlaridan biri yoki ikkalasi buzilganda va şu tariqa hujayradan taşqari suyuqlikdagi HCO3− konsentratsiyasi yoki Pco2 özgarganda kislota-işqor buzilişlari yuzaga keladi."
+  },
+  "ch31-f59": {
+   "text": "Kislota-işqor muvozanatining buzilişlari hujayradan taşqari suyuqlikdagi HCO3− konsentratsiyasining birlamçi özgarişi natijasida yuzaga kelsa, ular _metabolik_ kislota-işqor buzilişlari deb ataladi. Şu sababli HCO3− konsentratsiyasining birlamçi kamayişi natijasida yuzaga keladigan atsidoz _metabolik atsidoz_, HCO3− konsentratsiyasining birlamçi oşişi natijasida yuzaga keladigan alkaloz esa _metabolik alkaloz_ deb ataladi. Pco2 ning oşişi natijasida yuzaga keladigan atsidoz _respirator atsidoz_, Pco2 ning kamayişi natijasida yuzaga keladigan alkaloz esa _respirator alkaloz_ deb ataladi."
+  },
+  "ch31-f60": {
+   "text": "**Rasm 31-1** da hujayradan taşqari suyuqlikda HCO3− ning CO2 ga nisbati özgarganda hujayradan taşqari suyuqlik pH ining özgarişlari körsatilgan. Bu ikki tarkibiy qismning konsentratsiyalari teng bölganda 8-tenglamaning öng qismi 1 ning logarifmiga, ya’ni 0 ga teng böladi. Demak, bufer tizimining ikki tarkibiy qismi teng bölganda eritmaning pH qiymati bikarbonat bufer tizimining pK qiymatiga (6,1) teng böladi. Tizimga asos qöşilganda, Henderson–Hasselbalx tenglamasidan körinib turganidek, erigan CO2 ning bir qismi HCO3− ga aylanadi, bu esa HCO3− ning CO2 ga nisbatini oşiradi va pH ni kötaradi. Kislota qöşilganda u HCO3− tomonidan buferlanadi, HCO3− esa erigan CO2 ga aylanadi, bu HCO3− ning CO2 ga nisbatini kamaytiradi va hujayradan taşqari suyuqlik pH ini pasaytiradi.",
+   "lead": "Bikarbonat bufer tizimining titrlaş egri çiziği."
+  },
+  "ch31-f62": {
+   "text": "**Rasm 31-1** dagi titrlaş egri çiziğidan bir qança jihatlar körinib turibdi. Birinçidan, tarkibiy qismlarning har biri (HCO3− va CO2) bufer tizimi umumiy konsentratsiyasining 50% ini taşkil etganda tizimning pH qiymati pK ga teng böladi. Ikkinçidan, bufer tizimi egri çiziqning markaziy qismida, ya’ni pH tizimning pK qiymatiga yaqin bölgan joyda eng samarali işlaydi. Bu hodisa tizimga qöşilgan har qanday miqdordagi kislota yoki asos uçun pH özgarişi pH tizimning pK qiymatiga yaqin bölganda eng kiçik bölişini anglatadi. Bufer tizimi pK ning har ikki tomonida 1,0 pH birligi doirasida hali ham ança samarali böladi; bikarbonat bufer tizimi uçun bu taxminan 5,1 dan 7,1 gaça bölgan pH oraliğini qamrab oladi. Bu çegaralardan taşqarida bufer quvvati tez kamayadi. Barça CO2 HCO3− ga aylanganda yoki barça HCO3− CO2 ga aylanganda esa tizim boşqa bufer quvvatiga ega bölmaydi.",
+   "lead": "Bufer quvvati bufer tarkibiy qismlarining miqdori va nisbiy konsentratsiyalari bilan belgilanadi."
+  },
+  "ch31-f63": {
+   "text": "Buferlarning mutlaq konsentratsiyasi ham tizimning bufer quvvatini belgilovçi muhim omil hisoblanadi. Bufer konsentratsiyalari past bölganda eritmaga qöşilgan oz miqdordagi kislota yoki asos ham pH ni sezilarli özgartiradi."
+  },
+  "ch31-f64": {
+   "text": "**Rasm 31-1** da körsatilgan titrlaş egri çiziğiga qarab, ikki sababga köra bikarbonat bufer tizimini kuçli deb kutmagan bölar edik. Birinçidan, hujayradan taşqari suyuqlikning pH qiymati taxminan 7,4, bikarbonat bufer tizimining pK qiymati esa 6,1; bu bikarbonat bufer tizimining HCO3− şaklidagi miqdori erigan CO2 şaklidagisidan taxminan 20 marta köp ekanini anglatadi. Şu sababli bu tizim bufer egri çiziğining qiyaligi kiçik va bufer quvvati zaif bölgan qismida işlaydi. Ikkinçidan, bikarbonat tizimining ikki elementi — CO2 va HCO3− ning konsentratsiyalari yuqori emas.",
+   "lead": "Bikarbonat bufer tizimi eng muhim hujayradan taşqari buferdir."
+  },
+  "ch31-f65": {
+   "text": "Bu xususiyatlarga qaramay, bikarbonat bufer tizimi organizmdagi eng kuçli hujayradan taşqari buferdir. Bu zohiriy paradoks asosan şu bilan boğliqki, keyinroq muhokama qilinganidek, bufer tizimining ikki elementi — HCO3− va CO2 mos ravişda buyraklar va öpka tomonidan boşqariladi. Bu boşqaruv natijasida hujayradan taşqari suyuqlikning pH qiymati buyraklar tomonidan HCO3− ning çiqarilişi va qöşilişining nisbiy tezligi hamda öpka tomonidan CO2 ning çiqariliş tezligi orqali aniq nazorat qilinişi mumkin."
+  },
+  "ch31-f66": {
+   "text": "Fosfat bufer tizimi"
+  },
+  "ch31-f67": {
+   "text": "Fosfat bufer tizimi hujayradan taşqari suyuqlikning asosiy buferi bölmasa-da, u buyrak kanalçalari suyuqligi va hujayra içi suyuqliklarini buferlaşda muhim rol öynaydi."
+  },
+  "ch31-f68": {
+   "text": "Fosfat bufer tizimining asosiy elementlari — H2PO4− va HPO4=. Bu ikki moddaning aralaşmasiga HCl kabi kuçli kislota qöşilganda vodorodni HPO4= asosi biriktirib oladi va u H2PO4− ga aylanadi:"
+  },
+  "ch31-f69": {
+   "text": "Bu reaksiya natijasida kuçli kislota HCl örnini qöşimça miqdordagi kuçsiz kislota — NaH2PO4 egallaydi va pH ning pasayişi minimal darajaga tuşiriladi."
+  },
+  "ch31-f70": {
+   "text": "Bufer tizimiga NaOH kabi kuçli asos qöşilganda OH− H2PO4− tomonidan buferlanadi va qöşimça miqdorda HPO4= + H2O hosil böladi:"
+  },
+  "ch31-f71": {
+   "text": "Bu holda kuçli asos NaOH kuçsiz asos Na2HPO4 ga almaşinadi va pH faqat ozgina oşadi."
+  },
+  "ch31-f72": {
+   "text": "Fosfat bufer tizimining pK qiymati 6,8 ga teng bölib, u organizm suyuqliklarining me’yoriy pH qiymati 7,4 dan unça uzoq emas; bu tizimga özining maksimal bufer quvvatiga yaqin darajada işlaşga imkon beradi. Biroq uning hujayradan taşqari suyuqlikdagi konsentratsiyasi past — bikarbonat bufer konsentratsiyasining atigi taxminan 8% ini taşkil etadi. Şu sababli hujayradan taşqari suyuqlikda fosfat tizimining umumiy bufer quvvati bikarbonat bufer tiziminikidan ança kam."
+  },
+  "ch31-f73": {
+   "text": "Hujayradan taşqari bufer sifatidagi kiçik rolidan farqli ölaroq, _fosfat bufer buyrak kanalçalari suyuqliklarida ayniqsa muhim_; buning ikki sababi bor: (1) fosfat odatda kanalçalarda kuçli konsentrlanadi va şu bilan fosfat tizimining bufer quvvati oşadi; (2) kanalça suyuqligining pH qiymati odatda hujayradan taşqari suyuqliknikidan ança past böladi, bu esa buferning işçi oraliğini tizimning pK qiymatiga (6,8) yaqinlaştiradi."
+  },
+  "ch31-f74": {
+   "text": "_Fosfat bufer tizimi hujayra içi suyuqligini buferlaşda ham muhim_, çunki bu suyuqlikdagi fosfat konsentratsiyasi hujayradan taşqari suyuqlikdagidan bir neça baravar yuqori. Bundan taşqari, hujayra içi suyuqligining pH qiymati hujayradan taşqari suyuqliknikidan past böladi va şu sababli odatda hujayradan taşqari suyuqlikka qaraganda fosfat bufer tizimining pK qiymatiga yaqinroq böladi."
+  },
+  "ch31-f75": {
+   "text": "Oqsillar muhim hujayra içi buferlaridir"
+  },
+  "ch31-f76": {
+   "text": "Oqsillar, ayniqsa hujayralarda yuqori konsentratsiyada bölgani uçun, organizmdagi eng köp miqdordagi buferlar qatoriga kiradi. Hujayralarning pH qiymati hujayradan taşqari suyuqliknikidan biroz past bölsa-da, baribir hujayradan taşqari suyuqlik pH ining özgarişlariga taxminan proporsional ravişda özgaradi. H+ va HCO3− hujayra membranasi orqali ozgina diffuziyalanadi, ammo eritrotsitlarda yuz beradigan tez muvozanatlaşuvdan taşqari, bu ionlar hujayradan taşqari suyuqlik bilan muvozanatga kelişi uçun bir neça soat kerak böladi. CO2 esa barça hujayra membranalari orqali tez diffuziyalana oladi. _Bikarbonat bufer tizimi elementlarining bu diffuziyasi hujayradan taşqari pH özgarganda hujayra içi suyuqligi pH ining ham özgarişiga sabab böladi._ Şu sababli hujayralardagi bufer tizimlari hujayradan taşqari suyuqlik pH ining özgarişlarining oldini olişga yordam beradi, ammo ular maksimal samaradorlikka erişişi uçun bir neça soat kerak bölişi mumkin."
+  },
+  "ch31-f77": {
+   "text": "Eritrotsitda gemoglobin (Hb) quyidagiça muhim bufer vazifasini bajaradi:"
+  },
+  "ch31-f78": {
+   "text": "Organizm suyuqliklaridagi umumiy kimyoviy buferlanişning taxminan 60–70% i hujayralar içida yuz beradi va bu buferlanişning asosiy qismi hujayra içi oqsillari hisobiga amalga oşadi. Biroq eritrotsitlardan taşqari, H+ va HCO3− ning hujayra membranalari orqali sekin ötişi köpinça hujayra içi oqsillarining hujayradan taşqari kislota-işqor buzilişlarini buferlaş böyiça maksimal qobiliyatini bir neça soatga keçiktiradi."
+  },
+  "ch31-f79": {
+   "text": "Hujayralardagi oqsillarning yuqori konsentratsiyasidan taşqari, ularning bufer quvvatiga hissa qöşadigan yana bir omil şundaki, bu oqsil tizimlarining köpçiligining pK qiymatlari hujayra içidagi pH ga ança yaqin."
+  },
+  "ch31-f80": {
+   "text": "Biz bufer tizimlarini göyo ular organizm suyuqliklarida alohida-alohida işlaydigandek muhokama qilib keldik. Biroq ularning barçasi birgalikda işlaydi, çunki H+ bu tizimlarning barça reaksiyalari uçun umumiydir. Şu sababli hujayradan taşqari suyuqlikda H+ konsentratsiyasi özgarganda barça bufer tizimlarining muvozanati bir vaqtning özida özgaradi. Bu hodisa _izogidrik tamoyil_ deb ataladi va quyidagi formula bilan ifodalanadi:"
+  },
+  "ch31-f81": {
+   "text": "K1, K2 va K3 — mos ravişda uçta kislota — HA1, HA2, HA3 ning dissotsiatsiya konstantalari, A1, A2, A3 esa uçta bufer tizimining asoslarini taşkil etuvçi erkin manfiy ionlarning konsentratsiyalari."
+  },
+  "ch31-f82": {
+   "text": "Bu tamoyilning mazmuni şundaki, bufer tizimlaridan birining muvozanatini özgartiradigan har qanday holat qolgan barça tizimlarning muvozanatini ham özgartiradi, çunki bufer tizimlari H+ ni özaro u yoqdan-bu yoqqa ötkazib, aslida bir-birini buferlaydi."
+  },
+  "ch31-f83": {
+   "text": "Kislota-işqor muvozanatining nafas orqali boşqarilişi"
+  },
+  "ch31-f84": {
+   "text": "Kislota-işqor buzilişlariga qarşi ikkinçi himoya çiziği — öpka tomonidan hujayradan taşqari suyuqlikdagi CO2 konsentratsiyasining nazorati. Ventilyatsiyaning kuçayişi hujayradan taşqari suyuqlikdan CO2 ni çiqaradi va bu massalar ta’siri qonuniga köra H+ konsentratsiyasini kamaytiradi. Aksinça, ventilyatsiyaning susayişi hujayradan taşqari suyuqlikda CO2 va H+ konsentratsiyalarini oşiradi."
+  },
+  "ch31-f85": {
+   "text": "CO2 ning öpka orqali çiqarilişi CO2 ning metabolik hosil bölişini muvozanatlaydi"
+  },
+  "ch31-f86": {
+   "text": "CO2 organizmda hujayra içi metabolik jarayonlari natijasida uzluksiz hosil böladi. Hosil bölgaç, u hujayralardan interstitsial suyuqliklar va qonga diffuziyalanadi, oqayotgan qon esa uni öpkaga taşiydi; u yerda CO2 alveolalarga diffuziyalanadi va söngra öpka ventilyatsiyasi orqali atmosferaga çiqariladi. Hujayradan taşqari suyuqlikda me’yorda taxminan 1,2 mol/L erigan CO2 böladi, bu 40 mm sim. ust. ga teng Pco2 ga mos keladi."
+  },
+  "ch31-f87": {
+   "text": "Agar CO2 ning metabolik hosil böliş tezligi oşsa, hujayradan taşqari suyuqlikdagi Pco2 ham şunga mos ravişda oşadi. Aksinça, metabolizm tezligining pasayişi Pco2 ni kamaytiradi. Agar öpka ventilyatsiyasi tezligi oşsa, CO2 öpkadan “puflab çiqariladi” va hujayradan taşqari suyuqlikdagi Pco2 kamayadi. Şu sababli öpka ventilyatsiyasining yoki töqimalarda CO2 hosil böliş tezligining özgarişlari hujayradan taşqari suyuqlikdagi Pco2 ni özgartirişi mumkin."
+  },
+  "ch31-f88": {
+   "text": "Alveolyar ventilyatsiyaning kuçayişi hujayradan taşqari suyuqlikdagi H+ konsentratsiyasini kamaytiradi va pH ni oşiradi"
+  },
+  "ch31-f89": {
+   "text": "Agar CO2 ning metabolik hosil bölişi özgarmasa, hujayradan taşqari suyuqlikdagi Pco2 ga ta’sir qiluvçi yagona boşqa omil — alveolyar ventilyatsiya tezligi. Alveolyar ventilyatsiya qançalik yuqori bölsa, Pco2 şunçalik past böladi. Avval muhokama qilinganidek, CO2 konsentratsiyasi oşganda H2CO3 va H+ konsentratsiyalari ham oşadi va şu bilan hujayradan taşqari suyuqlikning pH qiymati pasayadi."
+  },
+  "ch31-f90": {
+   "text": "**Rasm 31-2** da alveolyar ventilyatsiya tezligini oşiriş yoki kamaytiriş natijasida qon pH ida yuz beradigan taxminiy özgarişlar körsatilgan. E’tibor bering, alveolyar ventilyatsiyani me’yordan taxminan ikki baravar oşiriş hujayradan taşqari suyuqlik pH ini taxminan 0,23 ga oşiradi. Agar me’yoriy alveolyar ventilyatsiyada organizm suyuqliklarining pH qiymati 7,40 bölsa, ventilyatsiya tezligini ikki baravar oşiriş pH ni taxminan 7,63 gaça kötaradi. Aksinça, alveolyar ventilyatsiyaning me’yorning törtdan bir qismigaça kamayişi pH ni 0,45 ga pasaytiradi. Ya’ni me’yoriy alveolyar ventilyatsiyada pH 7,4 bölsa, ventilyatsiyani me’yorning törtdan bir qismigaça kamaytiriş pH ni 6,95 gaça pasaytiradi. Alveolyar ventilyatsiya tezligi 0 dan me’yordan 15 baravar köpgaça keskin özgarişi mumkinligi sababli nafas tizimi organizm suyuqliklarining pH qiymatini qançalik özgartira olişini oson tuşuniş mumkin."
+  },
+  "ch31-f92": {
+   "text": "H+ konsentratsiyasining oşişi alveolyar ventilyatsiyani rağbatlantiradi"
+  },
+  "ch31-f93": {
+   "text": "Alveolyar ventilyatsiya tezligi organizm suyuqliklaridagi Pco2 ni özgartiriş orqali H+ konsentratsiyasiga ta’sir qilibgina qolmay, H+ konsentratsiyasi ham alveolyar ventilyatsiya tezligiga ta’sir qiladi. Jumladan, **Rasm 31-3** da körsatilganidek, pH me’yoriy qiymat 7,4 dan kuçli kislotali qiymat 7,0 gaça pasayganda alveolyar ventilyatsiya tezligi me’yordan tört-beş baravar oşadi. Aksinça, plazma pH ining 7,4 dan oşişi ventilyatsiya tezligining kamayişiga sabab böladi. pH ning birlik özgarişiga töğri keladigan ventilyatsiya tezligining özgarişi pH ning pasaygan darajalarida (H+ konsentratsiyasining oşganiga mos keladi) pH ning oşgan darajalariga qaraganda ança katta böladi. Buning sababi şundaki, pH oşişi (H+ konsentratsiyasining kamayişi) natijasida alveolyar ventilyatsiya tezligi kamayganda qonga qöşiladigan kislorod miqdori kamayadi va qondagi kislorodning parsial bosimi (Po2) ham pasayadi, bu esa ventilyatsiya tezligini rağbatlantiradi. Şu sababli pH oşişiga nafas kompensatsiyasi pH ning keskin pasayişiga javob kabi samarali bölmaydi."
+  },
+  "ch31-f95": {
+   "text": "H+ konsentratsiyasining oşişi nafasni rağbatlantirgani va alveolyar ventilyatsiyaning kuçayişi H+ konsentratsiyasini kamaytirgani sababli nafas tizimi H+ konsentratsiyasining tipik manfiy qayta aloqa nazoratçisi vazifasini bajaradi:",
+   "lead": "H+ konsentratsiyasining nafas tizimi tomonidan qayta aloqa orqali nazorati."
+  },
+  "ch31-f96": {
+   "text": "Ya’ni H+ konsentratsiyasi me’yordan oşgan har qanday holatda nafas tizimi rağbatlanadi va alveolyar ventilyatsiya kuçayadi. Bu mexanizm hujayradan taşqari suyuqlikdagi Pco2 ni kamaytiradi va H+ konsentratsiyasini me’yorga qaytaradi. Aksinça, H+ konsentratsiyasi me’yordan pasaysa, nafas markazi susayadi, alveolyar ventilyatsiya kamayadi va H+ konsentratsiyasi me’yorga qaytib oşadi. Alkaloz nafas markazlarini susaytirişga moyil bölsa-da, bu javob odatda metabolik atsidozga javobga qaraganda kuçsizroq va kamroq oldindan aytib böladigan böladi; alveolyar ventilyatsiyaning kamayişi bilan boğliq gipoksemiya oxir-oqibat kislorodga sezgir xemoretseptorlarni faollaştiradi, ular esa ventilyatsiyani rağbatlantirişga moyil bölib, metabolik alkalozning nafas orqali kompensatsiyasini çeklaydi."
+  },
+  "ch31-f97": {
+   "text": "Nafas tizimidan taşqaridagi buziliş pH ni özgartirgan bölsa, nafas orqali nazorat H+ konsentratsiyasini töliq me’yorga qaytara olmaydi. Odatda H+ konsentratsiyasini nazorat qiluvçi nafas mexanizmi taxminan 50–75% samarali bölib, bu metabolik atsidozda 1–3 ga teng _qayta aloqa kuçaytiriş koeffitsiyentiga_ mos keladi. Ya’ni hujayradan taşqari suyuqlikka kislota qöşib pH tösatdan pasaytirilsa va pH 7,4 dan 7,0 gaça tuşsa, nafas tizimi pH ni taxminan 7,2–7,3 qiymatigaça qaytara oladi. Bu javob 3–12 daqiqa içida yuz beradi. Avval muhokama qilinganidek, metabolik alkalozga nafas javoblari alveolyar ventilyatsiyaning kamayişi bilan boğliq gipoksemiya tufayli çeklanadi.",
+   "lead": "H+ konsentratsiyasining nafas orqali nazoratining samaradorligi."
+  },
+  "ch31-f98": {
+   "text": "_Kislota-işqor muvozanatining nafas orqali boşqarilişi fiziologik turdagi bufer tizimidir_, çunki u tez ta’sir qiladi va sekin javob beradigan buyraklar nomutanosiblikni bartaraf etgunga qadar H+ konsentratsiyasining haddan taşqari özgarişiga yöl qöymaydi. Umuman olganda, nafas tizimining umumiy bufer quvvati hujayradan taşqari suyuqlikdagi boşqa barça kimyoviy buferlarning birgalikdagi bufer quvvatidan bir-ikki baravar katta. Ya’ni me’yorda bu mexanizm kimyoviy buferlarga qaraganda bir-ikki baravar köproq kislota yoki asosni buferlay oladi.",
+   "lead": "Nafas tizimining bufer quvvati."
+  },
+  "ch31-f99": {
+   "text": "Hozirgaça biz H+ konsentratsiyasi özgarişlarini buferlaş vositasi sifatida _me’yoriy_ nafas mexanizmining rolini muhokama qildik. Biroq _nafasning buzilişlari_ ham H+ konsentratsiyasining özgarişlariga sabab bölişi mumkin. Masalan, oğir emfizema kabi öpka funksiyasining buzilişi öpkaning CO2 ni çiqariş qobiliyatini kamaytiradi, bu esa hujayradan taşqari suyuqlikda CO2 töplanişiga va _respirator atsidozga_ moyillikka sabab böladi. Bundan taşqari, metabolik atsidozga javob beriş qobiliyati ham buziladi, çunki me’yorda ventilyatsiyaning kuçayişi orqali yuz beradigan Pco2 ning kompensator pasayişi susayadi. Bunday şaroitlarda hujayradan taşqari suyuqlikdagi dastlabki kimyoviy buferlanişdan söng pH ni me’yorga qaytaradigan yagona qolgan fiziologik mexanizm buyraklardir.",
+   "lead": "Öpka funksiyasining buzilişi respirator atsidozga sabab bölişi mumkin."
+  },
+  "ch31-f100": {
+   "text": "Kislota-işqor muvozanatining buyraklar orqali nazorati"
+  },
+  "ch31-f101": {
+   "text": "Buyraklar kislotali yoki işqoriy siydik çiqariş orqali kislota-işqor muvozanatini nazorat qiladi. Kislotali siydik çiqariş hujayradan taşqari suyuqlikdagi kislota miqdorini kamaytiradi, işqoriy siydik çiqariş esa hujayradan taşqari suyuqlikdan asosni çiqaradi."
+  },
+  "ch31-f102": {
+   "text": "Buyraklarning kislotali yoki işqoriy siydik çiqarişining umumiy mexanizmi quyidagiça. Kanalçalarga uzluksiz ravişda köp miqdorda HCO3− filtrlanadi va agar u siydik bilan çiqarilsa, qondan asos çiqariladi. Kanalça epiteliy hujayralari tomonidan kanalça böşliğiga köp miqdorda H+ ham sekretsiya qilinadi va şu bilan qondan kislota çiqariladi. Agar sekretsiya qilingan H+ filtrlangan HCO3− dan köp bölsa, hujayradan taşqari suyuqlikdan kislotaning sof yöqotilişi yuz beradi. Aksinça, filtrlangan HCO3− sekretsiya qilingan H+ dan köp bölsa, asosning sof yöqotilişi yuz beradi."
+  },
+  "ch31-f103": {
+   "text": "Organizm har kuni asosan oqsillar metabolizmidan taxminan 80 mEq uçmaydigan kislotalar hosil qiladi. Bu kislotalar _uçmaydigan_ deb ataladi, çunki ular H2CO3 emas va şu sababli öpka orqali çiqarila olmaydi. Bu kislotalarni organizmdan çiqarişning asosiy mexanizmi — buyraklar orqali ekskretsiya. Buyraklar şuningdek bikarbonatning siydik bilan yöqotilişining oldini olişi kerak; bu vazifa miqdoriy jihatdan uçmaydigan kislotalarni çiqarişdan ham muhimroq. Buyraklar har kuni taxminan 4320 mEq HCO3− filtrlaydi (180 L/sutka × 24 mEq/L); me’yoriy şaroitda uning deyarli hammasi kanalçalarda reabsorbsiyalanadi va şu bilan hujayradan taşqari suyuqlikning asosiy bufer tizimi saqlab qolinadi."
+  },
+  "ch31-f104": {
+   "text": "Keyinroq muhokama qilinganidek, HCO3− reabsorbsiyasi ham, H+ ekskretsiyasi ham kanalçalarda H+ sekretsiyasi jarayoni orqali amalga oşiriladi. HCO3− reabsorbsiyalanişidan oldin sekretsiya qilingan H+ bilan reaksiyaga kirişib H2CO3 hosil qilişi kerak bölgani uçun faqat filtrlangan HCO3− ni reabsorbsiyalaşning özi uçun har kuni 4320 mEq H+ sekretsiya qilinişi kerak. Söngra organizmni har kuni hosil böladigan uçmaydigan kislotalardan xalos qiliş uçun qöşimça 80 mEq H+ sekretsiya qilinişi kerak; şunday qilib, har kuni kanalça suyuqligiga jami 4400 mEq H+ sekretsiya qilinadi."
+  },
+  "ch31-f105": {
+   "text": "Hujayradan taşqari suyuqlikdagi H+ konsentratsiyasi kamayganda (alkaloz) buyraklar odatda kamroq H+ sekretsiya qiladi va filtrlangan HCO3− ning hammasini reabsorbsiyalay olmaydi, şu bilan HCO3− ekskretsiyasi oşadi. HCO3− me’yorda hujayradan taşqari suyuqlikda H+ ni buferlagani uçun HCO3− ning bunday yöqotilişi hujayradan taşqari suyuqlikka H+ qöşiş bilan barobar. Şu sababli alkalozda HCO3− ning çiqarilişi hujayradan taşqari suyuqlikdagi H+ konsentratsiyasini me’yorga qaytarib oşiradi."
+  },
+  "ch31-f106": {
+   "text": "Atsidozda buyraklar qöşimça H+ sekretsiya qiladi va HCO3− ni siydik bilan çiqarmaydi, balki filtrlangan HCO3− ning hammasini reabsorbsiyalaydi va yangi HCO3− hosil qiladi, u esa hujayradan taşqari suyuqlikka qaytariladi. Bu hujayradan taşqari suyuqlikdagi H+ konsentratsiyasini me’yorga qaytarib kamaytiradi."
+  },
+  "ch31-f107": {
+   "text": "_Şunday qilib, buyraklar hujayradan taşqari suyuqlikdagi H_+ _konsentratsiyasini uçta asosiy mexanizm orqali boşqaradi: (1) H_+ _sekretsiyasi; (2) filtrlangan HCO3− reabsorbsiyasi; (3) yangi HCO3− hosil qiliş_. Keyingi bir neça bölimda muhokama qilinganidek, bu jarayonlarning barçasi bir xil asosiy mexanizmlar orqali amalga oşiriladi."
+  },
+  "ch31-f108": {
+   "text": "Buyrak kanalçalarida H+ sekretsiyasi va HCO3− reabsorbsiyasi"
+  },
+  "ch31-f109": {
+   "text": "Vodorod ionlari sekretsiyasi va HCO3− reabsorbsiyasi Henle qovuzloğining tuşuvçi va kötariluvçi ingiçka qismlaridan taşqari kanalçalarning deyarli barça qismlarida yuz beradi. **Rasm 31-4** da kanalça böylab HCO3− reabsorbsiyasi umumlaştirilgan. Yodda tuting: _har bir reabsorbsiyalangan HCO3− uçun bitta H+ sekretsiya qilinişi kerak._"
+  },
+  "ch31-f111": {
+   "text": "HCO3− reabsorbsiyasining (va H+ sekretsiyasining) taxminan 80–90% i proksimal kanalçada yuz beradi, şuning uçun distal kanalçalar va yiğuvçi nayçalarga faqat oz miqdorda HCO3− oqib ötadi. Henle qovuzloğining yöğon kötariluvçi qismida filtrlangan HCO3− ning yana 10% i reabsorbsiyalanadi, reabsorbsiyaning qolgan qismi esa distal kanalçalar va yiğuvçi nayçalarda yuz beradi. Avval muhokama qilinganidek, HCO3− reabsorbsiyasi mexanizmi kanalçalarda H+ sekretsiyasini ham öz içiga oladi, ammo turli kanalça segmentlari bu vazifani turliça bajaradi."
+  },
+  "ch31-f133": {
+   "text": "Siydik bilan köp miqdorda H+ çiqarilişi (ba’zida kuniga 500 mEq gaça) birinçi navbatda H+ ni nayçalar suyuqligidagi buferlar bilan birlaştiriş orqali amalga oşiriladi. Eng muhim buferlar fosfat buferi va ammoniy buferidir. Urat va sitrat kabi boşqa kuçsiz bufer tizimlari ança kam ahamiyatga ega."
+  },
+  "ch31-f134": {
+   "text": "Nayçalar suyuqligidagi H+ ionlari HCO3− bilan titrlanganda, bu oldin muhokama qilinganidek, har bir ajratilgan H+ uçun bitta HCO3− ning reabsorbtsiyasiga olib keladi. Biroq, nayçalar suyuqligida ortiqça H+ bölganda, u HCO3− dan boşqa buferlar bilan birikadi va bu qonga ham öta oladigan yangi HCO3− hosil bölişiga olib keladi. Şunday qilib, hüayrayevdan taşqari suyuqlikda ortiqça H+ mavjud bölganda, buyraklar filtriklangan barça HCO3− ni qayta söribgina qolmay, balki yangi HCO3− hosil qiladi, şu tariqa atsidozda hüayrayevdan taşqari suyuqlikdan yöqolgan HCO3− örnini töldirişga yordam beradi. Keyingi ikki bölimda biz fosfat va ammoniy buferlari yangi HCO3− hosil bölişiga qanday hissa qöşiş mexanizmlarini muhokama qilamiz."
+  },
+  "ch31-f135": {
+   "text": "Fosfat bufer tizimi ortiqça H+ ni siydikka olib ötadi va yangi HCO3− hosil qiladi"
+  },
+  "ch31-f136": {
+   "text": "Fosfat bufer tizimi HPO4= dan taşkil topgan. Ikkalasi ham nayçalar suyuqligida konsentratsiyalanadi, çunki odatda suv buyrak nayçalari tomonidan fosfatga qaraganda köproq darajada qayta söriladi. Şuning uçun, fosfat hüayrayevdan taşqari suyuqlikning muhim buferi bölmasa-da, u nayçalar suyuqligida bufer sifatida ança samaralidir."
+  },
+  "ch31-f137": {
+   "text": "Fosfatni nayça buferi sifatida muhim qiladigan yana bir omil – bu tizimning pK qiymati taxminan 6,8 ga tengligi. Normal şaroitda siydik biroz kislotali böladi va siydik pH qiymati fosfat bufer tizimining pK qiymatiga yaqin keladi. Şuning uçun, nayçalarda fosfat bufer tizimi odatda özining eng samarali pH diapazoniga yaqin işlaydi."
+  },
+  "ch31-f138": {
+   "text": "**Rasm 31-7** da H+ fosfat buferi bilan birgalikda çiqarilişi va yangi HCO3− ning qonga qöşiliş mexanizmi ketma-ketligi körsatilgan. H+ ning nayçalarga sekretsiya jarayoni oldin tavsiflanganidek bir xil. Nayçalar suyuqligida ortiqça HCO3− mavjud ekan, ajratilgan H+ ning köp qismi HCO3− bilan birlaşadi. Biroq, barça HCO3− qayta sörilgaç va u bilan birlaşiş uçun mavjud bölmagaç, har qanday ortiqça H+ HPO4= va boşqa nayça buferlari bilan birlaşişi mumkin. H+ HPO4= bilan birlaşib H2PO4− ni hosil qilgandan söng, u özi bilan ortiqça H+ ni olib yurgan holda natriy tuzi (NaH2PO4) sifatida çiqarilişi mumkin."
+  },
+  "ch31-f141": {
+   "text": "H+ ning ajralib çiqişining uşbu ketma-ketligida oldin muhokama qilinganidan farqli bitta muhim farq mavjud. Bunday holda, nayça hujayrasida hosil böladigan va peritubulyar qonga kiradigan HCO3− şunçaki filtriklangan HCO3− ning örnini bosiş emas, balki qon tomonidan HCO3− ning sof ortişini anglatadi. _Şuning uçun, nayçalar lumeniga ajratilgan H+ HCO3− dan boşqa bufer bilan birlaşganda, umumiy natija qonga yangi HCO3− qöşilişidan iborat böladi_. Uşbu jarayon buyraklar hüayrayevdan taşqari suyuqlikdagi HCO3− zaxiralarini töldirişi mumkin bölgan mexanizmlardan birini körsatadi."
+  },
+  "ch31-f142": {
+   "text": "Normal şaroitda filtriklangan fosfatning köp qismi qayta söriladi va kuniga atigi 30–40 mEq H+ ni buferlaş uçun mavjud böladi. Şuning uçun, atsidoz paytida nayçalar suyuqligidagi ortiqça H+ ning katta qismi ammoniy bufer tizimi orqali buferlanadi."
+  },
+  "ch31-f143": {
+   "text": "Ammoniy bufer tizimi orqali ortiqça H+ ni çiqariş va yangi HCO3− hosil qiliş"
+  },
+  "ch31-f144": {
+   "text": "Nayçalar suyuqligidagi son jihatidan fosfat bufer tizimidan ham muhimroq bölgan ikkinçi bufer tizimi ammiak (NH3) va ammoniy ionidan (NH4+) taşkil topgan. Ammoniy ioni glutamindan sintezlanadi, u asosan jigarda aminokislotalar almaşinuvidan kelib çiqadi. Buyraklarga etkazib beriladigan glutamin proksimal nayçalar, Genle halqasining qalin kötariluvçi qismi va distal nayçalarning epitelial hujayralariga taşiladi (**Rasm 31-8**). Hujayra içiga kirgaç, har bir glutamin molekulasi oxir-oqibat ikkita NH4+ va ikkita HCO3− hosil qiliş uçun bir qator reaktsiyalarda parçalanadi. NH4+ qayta söriladigan natriy evaziga kontrtransfer mexanizmi orqali nayçalar lumeniga çiqariladi. HCO3− bazolateral membrana böylab, qayta sörilgan Na+ bilan birga, interstitsial suyuqlikka taşiladi va peritubulyar kapillyarlar tomonidan özlaştiriladi. Şunday qilib, proksimal nayçalarda parçalanadigan har bir glutamin molekulyar uçun ikkita NH4+ siydikka çiqariladi va ikkita HCO3− qonga qayta söriladi. _Uşbu jarayon natijasida hosil bölgan HCO3− yangi HCO3− ni taşkil qiladi._"
+  },
+  "ch31-f146": {
+   "text": "Yiğuvçi nayçalarda NH4+ ning nayçalar suyuqligiga qöşilişi boşqa mexanizm orqali sodir böladi (**Rasm 31-9**). Bu yerda H+ nayça membranasi tomonidan lumeniga faol ravişda çiqariladi, u yerda NH3 bilan birikib NH4+ hosil qiladi va keyinçalik çiqarib yuboriladi. Yiğuvçi nayçalar nayçalar lumeniga osongina diffuziyaga uçraydigan NH3 ga ötkazuvçan hisoblanadi. Biroq, nayçalarning bu qismining lumen membranasi NH4+ ga ança kam ötkazuvçanlikka ega; şuning uçun H+ NH3 bilan ta’sirlaşib NH4+ hosil qilgandan söng, NH4+ nayçalar lumenida uşlab qolinadi va siydik bilan yöq qilinadi. _Çiqarib yuborilgan har bir NH4_+ _uçun yangi HCO3− hosil böladi va qonga qöşiladi._"
+  },
+  "ch31-f147": {
+   "text": "+ çiqarilişini oşiradi. Buyrak ammoniy-ammiak bufer tizimining eng muhim xususiyatlaridan biri şundaki, u fiziologik boşqaruvga böysunadi. Hüayrayevdan taşqari suyuqlikdagi H+ konsentratsiyasining oşişi buyrakda glutamin almaşinuvini rağbatlantiradi va şuning uçun H+ ni buferlaşda foydalaniladigan NH4+ va yangi HCO3− hosil bölişini oşiradi; H+ konsentratsiyasining pasayişi buning aksini keltirib çiqaradi.",
+   "lead": "Surunkali atsidoz NH4"
+  },
+  "ch31-f149": {
+   "text": "_Normal şaroitda_ ammoniy bufer tizimi tomonidan yöq qilinadigan H+ miqdori kislotaning taxminan 50% va buyraklar tomonidan hosil qilingan yangi HCO3− ning 50% ni taşkil qiladi. Biroq, _surunkali atsidoz_ paytida NH4+ ning çiqariliş tezligi kuniga 500 mEq gaça oşişi mumkin. _Şuning uçun, surunkali atsidozda kislotani yöq qilişning asosiy mexanizmi NH4_+ _ni çiqarişdan iborat böladi_. Uşbu jarayon, şuningdek, surunkali atsidoz paytida yangi bikarbonat hosil qiliş uçun eng muhim mexanizmni ta’minlaydi."
+  },
+  "ch31-f150": {
+   "text": "Buyrakning kislota–asos çiqarilişini miqdoriy baholaş"
+  },
+  "ch31-f151": {
+   "text": "Oldin muhokama qilingan tamoyillarga asoslanib, biz buyraklarning kislotani sof çiqarişi yoki qondan HCO3− ni sof qöşişi yoki yöq qilişini quyidagiça miqdoriy baholaşimiz mumkin."
+  },
+  "ch31-f152": {
+   "text": "_Bikarbonat çiqarilişi_ siydik oqimi tezligini siydikdagi HCO3− konsentratsiyasiga köpaytiriş yöli bilan hisoblanadi va buyraklar qondan HCO3− ni qançalik tez olib taşlayotganini körsatadi, bu qonga H+ qöşiş bilan bir xil. Alkalozda HCO3− ning yöqolişi plazma pH qiymatini normal holatga qaytarişga yordam beradi."
+  },
+  "ch31-f153": {
+   "text": "_Istalgan vaqtda qonga qöşilgan yangi HCO3− miqdori_ bikarbonatsiz siydik buferlari bilan birga nayçalar lumeniga tuşib qolgan ajratilgan H+ miqdoriga teng. Avval muhokama qilinganidek, bikarbonatsiz siydik buferlarining asosiy manbalari NH4+ va fosfat hisoblanadi. Şuning uçun, qonga qöşilgan HCO3− ning bir qismi (va NH4+ tomonidan çiqarilgan H+) NH4+ çiqarilişini ölçaş yöli bilan hisoblanadi (siydik oqimi tezligini siydikdagi NH4+ konsentratsiyasiga köpaytiriladi)."
+  },
+  "ch31-f154": {
+   "text": "Siydikda çiqariladigan bikarbonatsiz, NH4+ bölmagan buferning qolgan qismi _titrlanadigan kislota_ deb nomlanuvçi qiymatni aniqlaş orqali ölçanadi. Siydikdagi titrlanadigan kislota miqdori siydikni NaOH kabi kuçli asos bilan normal plazmaning pH qiymatiga va glomerulyar filtratning pH qiymatiga teng bölgan 7,4 pH gaça titrlaş orqali ölçanadi. Bu titrlaş nayçalar suyuqligi ajratilgan H+ bilan titrlanganda nayçalar lumenida sodir bölgan jarayonlarni teskari özgartiradi. Şuning uçun, siydik pH qiymatini 7,4 ga qaytariş uçun talab qilinadigan NaOH milliekvivalentlari soni fosfat va boşqa organik buferlar bilan birlaşgan nayçalar suyuqligiga qöşilgan H+ milliekvivalentlari soniga teng böladi. Titrlanadigan kislota ölçovi NH4+ bilan boğlangan H+ ni öz içiga olmaydi, çunki ammiak–ammoniy reaktsiyasining pK qiymati 9,2 ga teng va pH 7,4 gaça NaOH bilan titrlaş H+ ni NH4+ dan ajratib çiqarmaydi."
+  },
+  "ch31-f155": {
+   "text": "Şunday qilib, buyraklar tomonidan _kislotaning sof çiqarilişi_ quyidagiça baholanişi mumkin:"
+  },
+  "ch31-f156": {
+   "text": "HCO3− çiqarilişini ayirib taşlaşimizning sababi şundaki, HCO3− ning yöqolişi qonga H+ qöşilişi bilan bir xil. Kislota–asos muvozanatini saqlaş uçun kislotaning sof çiqarilişi turğun bölmagan kislota hosil bölişiga teng bölişi kerak."
+  },
+  "ch31-f157": {
+   "text": "Atsidozda kislotaning sof çiqarilişi sezilarli darajada oşadi, ayniqsa NH4+ çiqarilişining kuçayişi hisobiga, şu tariqa kislotani qondan çiqarib yuboradi. Kislotaning sof çiqarilişi, şuningdek, qonga yangi HCO3− qöşiliş tezligiga teng böladi. _Şuning uçun, atsidozda köproq NH4_+ _va siydikdagi titrlanadigan kislota çiqarilganda qonga qayta yangi HCO3− qöşilişi sodir böladi._"
+  },
+  "ch31-f187": {
+   "text": "**Jadval 31-3** respirator va metabolik alkalozda hujayradan taşqari suyuqlikning umumiy xususiyatlarini körsatadi. _Respirator alkalozda_ hujayradan taşqari suyuqlik pH qiymatining ortişi va H+ konsentratsiyasining kamayişi kuzatiladi. _Alkalozning sababi giperventilyatsiya tufayli yuzaga keladigan plazma Pco2 ning kamayişidir._ Pco2 ning kamayişi öz navbatida buyrak nayçalarida H+ sekresiyasining pasayişiga olib keladi. Natijada, buyrak nayçalari suyuqligida filtrlanadigan barça HCO3− bilan reaksiyaga kirişiş uçun yetarli miqdorda H+ bölmaydi. Şu sababli, H+ bilan reaksiyaga kirişa olmaydigan HCO3− qayta sörilmaydi va siydik bilan çiqarib yuboriladi. Bu plazmadagi HCO3− konsentratsiyasining pasayişiga va alkalozning tuzatilişiga olib keladi. _Şuning uçun, respirator alkalozda Pco2 ning birlamçi pasayişiga kompensator javob reaksiyasi buyraklar orqali HCO3− çiqarilişining kuçayişi tufayli yuzaga keladigan plazma HCO3− konsentratsiyasining kamayişidir._"
+  },
+  "ch31-f188": {
+   "text": "_Metabolik alkalozda_ ham plazmadagi H+ konsentratsiyasining kamayişi va pH ning ortişi kuzatiladi. _Biroq, metabolik alkalozning sababi hujayradan taşqari suyuqlikdagi HCO3− konsentratsiyasining kötarilişidir._ Bu kötariliş nafas oliş tezligining pasayişi bilan qisman kompensatsiya qilinadi, bu esa Pco2 ni oşiradi va hujayradan taşqari suyuqlik pH qiymatini normaga qaytarişga yordam beradi. Bundan taşqari, hujayradan taşqari suyuqlikdagi HCO3− konsentratsiyasining oşişi HCO3− ning filtrlanadigan yukini oşiradi, bu öz navbatida buyrak nayçalari suyuqligida ajratilgan H+ ga nisbatan HCO3− ning ortiqça miqdorini keltirib çiqaradi. Nayçalar suyuqligidagi ortiqça HCO3− u reaksiyaga kirişa oladigan H+ mavjud bölmagani uçun qayta sörilmaydi va siydik bilan çiqarib yuboriladi. _Metabolik alkalozda birlamçi kompensatsiya mexanizmlari Pco2 ni oşiruvçi ventilyatsiyaning pasayişi va hujayradan taşqari suyuqlikdagi HCO3− konsentratsiyasining dastlabki kötarilişini kompensatsiya qilişga yordam beradigan buyraklar tomonidan HCO3− çiqarilişining oşişidir._"
+  },
+  "ch31-f189": {
+   "text": "Oldingi muhokamadan körinib turibdiki, öpka ventilyatsiyasi tezligini pasaytiradigan har qanday omil hujayradan taşqari suyuqlikning Pco2 miqdorini ham oşiradi. Bu H2CO3 va H+ konsentratsiyalarining oşişiga olib keladi, natijada atsidoz kelib çiqadi. Atsidoz nafas olişdagi buziliş tufayli yuzaga kelganligi sababli, u _respirator atsidoz_ deb ataladi.",
+   "lead": "Respirator atsidoz ventilyatsiyaning pasayişi va Pco2 ning oşişi natijasida yuzaga keladi"
+  },
+  "ch31-f190": {
+   "text": "Respirator atsidoz nafas oliş markazlarini şikastlaydigan yoki öpkaning CO2 ni çiqariş qobiliyatini pasaytiradigan patologik holatlar natijasida yuzaga kelişi mumkin. Masalan, uzunçoq miyadagi nafas oliş markazining şikastlanişi respirator atsidozga olib kelişi mumkin. Şuningdek, nafas yöllari ötkazgiçlarining tösilişi, pnevmoniya, emfizema yoki öpka membrana sirtining kamayişi, şuningdek, qon va alveolyar havo örtasidagi gazlar almaşinuviga tösqinlik qiladigan har qanday omil respirator atsidozni keltirib çiqarişi mumkin."
+  },
+  "ch31-f191": {
+   "text": "Respirator atsidozda mavjud bölgan kompensator javoblar quyidagilardan iborat: (1) tana suyuqliklarining buferlari; va (2) buzilişni kompensatsiya qiliş uçun bir neça kun talab qiladigan buyraklar."
+  },
+  "ch31-f192": {
+   "text": "Respirator alkaloz öpkaning haddan taşqari ventilyatsiyasi tufayli yuzaga keladi. Bu jismoniy patologik holatlar tufayli kamdan-kam hollarda yuzaga keladi. Biroq, psixonevroz ba’zida nafas olişni şunçalik kuçaytirişi mumkinki, odamda alkaloz rivojlanadi.",
+   "lead": "Respirator alkaloz ventilyatsiyaning oşişi va Pco2 ning pasayişi natijasida yuzaga keladi"
+  },
+  "ch31-f193": {
+   "text": "Respirator alkalozning fiziologik turi kişi baland toğli hududga çiqqanda yuzaga keladi. Havodagi kislorod miqdorining pastligi nafas olişni rağbatlantiradi, bu esa CO2 yöqolişiga va yengil respirator alkaloz rivojlanişiga olib keladi. Yana şuni ta’kidlaş kerakki, kompensatsiyaning asosiy vositalari tana suyuqliklarining kimyoviy buferlari va buyraklarning HCO3− çiqarilişini oşiriş qobiliyatidir."
+  },
+  "ch31-f194": {
+   "text": "_Metabolik atsidoz_ tana suyuqliklarida ortiqça CO2 tufayli yuzaga keladiganlardan taşqari barça boşqa turdagi atsidozlarni öz içiga oladi. Metabolik atsidoz bir neçta umumiy sabablar natijasida kelib çiqişi mumkin: (1) buyraklarning tana suyuqligida normal hosil böladigan metabolik kislotalarni çiqara olmasligi; (2) tana suyuqligida metabolik kislotalarning ortiqça miqdorda hosil bölişi; (3) kislotalarni qabul qiliş yoki infuziya qiliş yöli bilan tana suyuqligiga kislotalarning qöşilişi; va (4) tana suyuqliklaridan asosning yöqolişi, bu tana suyuqliklariga kislota qöşiş bilan bir xil ta’sirga ega. Metabolik atsidozni keltirib çiqaradigan ba’zi öziga xos holatlar keyingi bölimlarda tasvirlangan."
+  },
+  "ch31-f195": {
+   "text": "Buyrak nayçalari atsidozi buyraklar tomonidan H+ sekresiyasi, HCO3− ning qayta sörilişi yoki ikkalasining buzilişi natijasida yuzaga keladi. Uşbu buzilişlar odatda ikki turga bölinadi: (1) buyrak nayçalarida HCO3− ning qayta sörilişining buzilişi, bu siydikda HCO3− yöqolişiga olib keladi; yoki (2) buyrak nayçalarining H+ sekresiya mexanizmining normal kislotali siydik hosil qilişga qodir emasligi, bu işqoriy siydikning çiqarilişiga olib keladi. Bunday hollarda titrlanadigan kislota va NH4+ ning yetarli bölmagan miqdori çiqariladi, şuning uçun tana suyuqliklarida kislotaning aniq töplanişi yuzaga keladi. Buyrak nayçalari atsidozining ba’zi sabablariga _surunkali buyrak yetişmovçiligi_, _aldosteron sekresiyasining yetarli emasligi_ (Addison kasalligi) va nayçalar funksiyasini buzadigan bir neçta irsiy va orttirilgan kasalliklar, jumladan _Fankoni sindromi_ kiradi (**32-bob**ga qarang).",
+   "lead": "Buyrak nayçalari atsidozi."
+  },
+  "ch31-f196": {
+   "text": "Oğir diareya metabolik atsidozning ehtimol eng tez-tez uçraydigan sababidir. _Bu atsidozning sababi axlat bilan köp miqdorda natriy gidrokarbonatning yöqolişidir_. Me’da-içak sekresiyalari odatda köp miqdorda bikarbonatni öz içiga oladi va diareya organizmdan HCO3− yöqolişiga olib keladi, bu siydikda köp miqdorda bikarbonat yöqolişi bilan bir xil ta’sirga ega. Metabolik atsidozning bu şakli jiddiy bölişi va ayniqsa yoş bolalarda ölimga olib kelişi mumkin.",
+   "lead": "Iç ketişi (diareya)."
+  },
+  "ch31-f197": {
+   "text": "Faqat me’da tarkibining qusişi kislotaning yöqolişiga va oşqozon sekresiyasi yuqori darajada kislotali bölganligi sababli alkalozga moyillikka olib keladi. Biroq, me’da-içak traktining çuqurroq qismlaridan köp miqdorda qusiş bikarbonatning yöqolişiga olib keladi va diareya atsidozni keltirib çiqarişi bilan bir xil tarzda metabolik atsidozni keltirib çiqaradi.",
+   "lead": "Içak tarkibining qusişi."
+  },
+  "ch31-f198": {
+   "text": "Qandli diabet oşqozon osti bezi tomonidan insulin sekresiyasining yöqligi (1-toifa qandli diabet) yoki insulin ta’siriga nisbatan sezuvçanlikning pasayişini kompensatsiya qiliş uçun insulin sekresiyasining yetarli emasligi (2-toifa qandli diabet) tufayli yuzaga keladi. Yetarli miqdorda insulin bölmaganda, glyukozaning normal metobolizmi tösqinlikka uçraydi. Buning örniga, yoğlarning bir qismi atatsetat kislotasiga parçalanadi va bu kislota töqimalar tomonidan glyukoza örniga energiya oliş uçun metabolizmga uçraydi. Oğir qandli diabetda qondagi atatsetat kislotasi darajasi juda yuqori kötarilib, oğir metabolik atsidozni keltirib çiqarişi mumkin. Bu atsidozni kompensatsiya qilişga urinişda siydik bilan köp miqdorda kislota çiqariladi – ba’zida kuniga 500 mmol gaça.",
+   "lead": "Qandli diabet."
+  },
+  "ch31-f199": {
+   "text": "Normal oziq-ovqat tarkibida köp miqdorda kislotalar juda kamdan-kam hollarda iste’mol qilinadi. Biroq, ba’zi kislotali zaharlarni qabul qiliş natijasida vaqti-vaqti bilan oğir metabolik atsidoz kelib çiqadi. Uşbu moddalarning ba’zilari ba’zi atsetilsalisil birikmalarini (masalan, aspirin) va metabollanganda çumoli kislotasini hosil qiluvçi metil spirtini öz içiga oladi.",
+   "lead": "Kislotalarni qabul qiliş."
+  },
+  "ch31-f200": {
+   "text": "Buyrak funksiyasi sezilarli darajada pasayganda, tana suyuqliklarida buyraklar tomonidan çiqarilmaydigan kuçsiz kislotalarning anionlari töplanib qoladi. Bundan taşqari, kamaygan kouçaksimon filtratsiya tezligi fosfatlar va NH4+ ning çiqarilişini kamaytiradi, bu esa tana suyuqliklariga qaytarib qöşiladigan HCO3− miqdorini kamaytiradi. Şunday qilib, surunkali buyrak yetişmovçiligi oğir metabolik atsidoz bilan birga keçişi mumkin.",
+   "lead": "Surunkali buyrak yetişmovçiligi."
+  },
+  "ch31-f201": {
+   "text": "HCO3− ning ortiqça tutilişi yoki organizmdan H+ ning yöqolişi metabolik alkalozni keltirib çiqaradi. Metabolik alkaloz metabolik atsidoz kabi deyarli keng tarqalgan emas, lekin metabolik alkalozning ba’zi sabablari quyidagi bölimlarda tasvirlangan."
+  },
+  "ch31-f202": {
+   "text": "Barça diuretiklar nayçalar böylab suyuqlik oqimining oşişini keltirib çiqaradi, odatda distal va yiğuvçi nayçalarda oqimni oşiradi. Bu ta’sir nefronlarning uşbu qismlaridan Na+ ning qayta sörilişining oşişiga olib keladi. Bu yerda natriyning qayta sörilişi H+ sekresiyasi bilan boğlanganligi sababli, kuçaytirilgan natriy reabsorbsiyasi ham H+ sekresiyasining oşişiga va bikarbonat reabsorbsiyasining oşişiga olib keladi. Diuretiklarni qöllaş bilan boğliq ravişda hujayradan taşqari suyuqlik hajmining pasayişi odatda Ang II va aldosteron hosil bölişining kuçayişi bilan ham boğliq bölib, ularning ikkalasi ham H+ sekresiyasi va HCO3− reabsorbsiyasini rağbatlantiradi. Bu özgarişlar hujayradan taşqari suyuqlikdagi bikarbonat konsentratsiyasining oşişi bilan tavsiflanadigan alkalozning rivojlanişiga olib keladi.",
+   "lead": "Diuretiklarni qöllaş (uglerod angidraza inhibitoborlaridan taşqari)."
+  },
+  "ch31-f203": {
+   "text": "Buyrak usti bezlari tomonidan köp miqdorda aldosteron ajratilganda, yengil metabolik alkaloz rivojlanadi. Avval muhokama qilinganidek, aldosteron distal va yiğuvçi nayçalardan Na+ ning kuçli qayta sörilişini rağbatlantiradi va şu bilan birga yiğuvçi nayçalarning tutaş hujayralari tomonidan H+ sekresiyasi va HCO3− reabsorbsiyasini rağbatlantiradi. H+ sekresiyasi va HCO3− reabsorbsiyasining bu tarzda oşişi metabolik alkalozga olib keladi.",
+   "lead": "Ortiqça aldosteron."
+  },
+  "ch31-f204": {
+   "text": "Pastki me’da-içak traktining tarkibini qusmasdan, faqat me’da tarkibining qusişi me’da şilliq qavati tomonidan ajratiladigan HCl ning yöqolişiga olib keladi. Yakuniy natija hujayradan taşqari suyuqlikdan kislotaning yöqolişi va metabolik alkalozning rivojlanişidir. Alkalozning bu turi ayniqsa gipertrofiyalangan pilorik sfinkter muşaklari tufayli pilorik stenozga uçragan yangi tuğilgan çaqaloqlarda uçraydi.",
+   "lead": "Me’da tarkibining qusişi."
+  },
+  "ch31-f112": {
+   "text": "ERTAKING TURBULYAR SEGMENTLARDA IKKILAMCHI FAOL TRANSPORT ORQALI AJRALIB CHIQADIGAN H+"
+  },
+  "ch31-f113": {
+   "text": "**31-5-rasm**da körsatilgandek, proksimal nayça, Genle halqasining qalin kötariluvçi qismi va erta distal nayçaning epitelial hujayralari natriy-vodorod qarama-qarşi transporti orqali nayça suyuqligiga H+ ajratadi. H+ ning bu ikkilamçi faol sekresiyasi luminal membranadagi _natriy-vodorod almaşinuvçi oqsili_ orqali hujayra içiga Na+ transporti bilan boğlangan va konsentrasiya grafigiga qarşi H+ sekresiyasi uçun energiya Na+ ning hujayra içiga harakatlanişini ta’minlovçi natriy gradientidan hosil böladi. Bu gradient bazolateral membranadagi natriy-kaliy adenozintrifosfataz (Na+-K+ ATFaza) nasosi tomonidan örnatiladi. Bikarbonatning taxminan 95% i şu tarzda qayta söriladi, buning uçun nayçalar tomonidan har kuni taxminan 4000 mEkv H+ ajralişi talab qilinadi. Biroq, bu mexanizm faqatgina 6,7 atrofida minimal pH ni hosil qilişi mumkin; nayça suyuqligi faqat yiğuvçi nayçalarda va yiğuvçi yöllarda juda kislotali bölib qoladi, bu esa siydik pH ini taxminan 4,5 gaça past darajaga tuşirişi mumkin."
+  },
+  "ch31-f115": {
+   "text": "**31-5-rasm**da H+ sekresiyasi jarayoni qanday qilib HCO3− ning qayta sörilişiga erişişi körsatilgan. Sekresiya jarayoni CO2 nayça hujayralariga diffuziyalanganda yoki nayça epitelial hujayralarida metabolizm natijasida hosil bölganda boşlanadi. _Karbonat angidraza_ fermenti ta’sirida CO2 H2O bilan birikib H2CO3 ni hosil qiladi, u öz navbatida HCO3− va H+ ga parçalanadi. H+ natriy-vodorod qarama-qarşi transporti orqali hujayradan nayça lumeniga çiqariladi. Ya’ni, Na+ nayça lumenidan hujayra içiga harakatlanganda, u dastlab hujayra membranasining luminal çegarasidagi taşuvçi oqsil bilan birlaşadi; şu bilan birga, hujayralar içidagi H+ taşuvçi oqsil bilan birikadi. Na+ bazolateral membranadagi Na+-K+ ATFaza nasosi örnatgan konsentrasiya gradienti böylab hujayra içiga ötadi. Keyin Na+ ning hujayra içiga harakatlaniş gradienti H+ ni hujayra içidan nayça lumeniga qarama-qarşi yönalişda harakatlantiriş uçun energiya beradi."
+  },
+  "ch31-f116": {
+   "text": "Keyinçalik hujayrada hosil bölgan HCO3− (H+ H2CO3 dan ajralganda) bazolateral membrana böylab pastga qarab, buyrak oraliq suyuqligiga va peritubulyar kapillar qoniga ötadi. Yakuniy natija şundan iboratki, nayça lumeniga ajratilgan har bir H+ uçun qonga bitta HCO3− kiradi."
+  },
+  "ch31-f117": {
+   "text": "FILTRLANGAN HCO3− NAYCHALAR DAGI H+ BILAN ÖZARO TA’SIR ORQALI QAYTA SÖRILADI"
+  },
+  "ch31-f118": {
+   "text": "Bikarbonat ionlari buyrak nayçalari hujayralarining luminal membranalaridan oson ötmaydi; şuning uçun glomerulus tomonidan filtrlanadigan HCO3− töğridan-töğri qayta sörilişi mumkin emas. Buning örniga, HCO3− maxsus jarayon orqali qayta söriladi, bunda u dastlab H+ bilan birikib H2CO3 ni hosil qiladi, u oxir-oqibat CO2 va H2O ga aylanadi, **31-5-rasm**da körsatilganidek."
+  },
+  "ch31-f119": {
+   "text": "HCO3− ning bu qayta sörilişi glomerulusda filtrlangan HCO3− va nayça hujayralari tomonidan ajratilgan H+ örtasidagi nayçalardagi reaksiya bilan boşlanadi. Hosil bölgan H2CO3 keyinçalik CO2 va H2O ga parçalanadi. CO2 nayça membranasi böylab osongina harakatlana oladi; şuning uçun u darhol nayça hujayrasiga diffuziyalanadi, u yerda karbonat angidraza ta’sirida yangi H2CO3 molekulasini hosil qiliş uçun H2O bilan qayta birlaşadi. Bu H2CO3 parçalanib HCO3− va H+ ni hosil qiladi; keyin HCO3− bazolateral membrana orqali oraliq suyuqlikka diffuziyalanadi va peritubulyar kapillar qoniga özlaştiriladi. Bazolateral membrana böylab HCO3 transporti ikki mexanizm yordamida osonlaştiriladi: (1) proksimal nayçalardagi Na+-HCO3− ko-transporti; va (2) proksimal nayçaning keyingi qismlari, Genle halqasining qalin kötariluvçi qismi hamda yiğuvçi nayçalar va yöllardagi Cl−-HCO3− almaşinuvi."
+  },
+  "ch31-f120": {
+   "text": "_Şunday qilib, nayça epitelial hujayralarida har safar H+_ _hosil bölganda, bitta HCO3_− _ham hosil böladi va qonga qaytarib çiqariladi._ Bu reaksiyalarning umumiy ta’siri nayçalardan HCO3− ni “qayta söriş”dan iborat, garçi hujayradan taşqari suyuqlikka aslida kiradigan HCO3− nayçalarga filtrlanganidan farq qilsada. Filtrlangan HCO3− ning qayta sörilişi H+ ning umumiy sekresiyasiga olib kelmaydi, çunki ajratilgan H+ filtrlangan HCO3− bilan birlaşadi va şuning uçun çiqarib yuborilmaydi."
+  },
+  "ch31-f121": {
+   "text": "− Nayçalarda H+ ga qarşi titrlanadi. Normal şaroitda nayçali H+ sekresiyasi tezligi kuniga taxminan 4400 mEkv ni, va HCO3− ning filtrlaniş tezligi kuniga taxminan 4320 mEkv ni taşkil qiladi. Şunday qilib, nayçalarga kiradigan bu ikki ionning miqdori deyarli teng bölib, ular CO2 va H2O hosil qiliş uçun bir-biri bilan birlaşadi. Şuning uçun, odatda HCO3− va H+ nayçalarda bir-birini “titrlaydi” deyiladi.",
+   "lead": "HCO3"
+  },
+  "ch31-f122": {
+   "text": "Titrlaş jarayoni unçalik aniq emas, çunki siydikda çiqariladigan H+ ning odatda biroz ortiqça miqdori mavjud böladi. Bu ortiqça H+ (≈80 mEkv/kun) organizmni metabolizm natijasida hosil bölgan uçuvçan bölmagan kislotalardan tozalaydi. Keyinroq muhokama qilinişiça, bu H+ ning köp qismi erkin H+ sifatida çiqarilmaydi, balki boşqa siydik buferlari, ayniqsa fosfat va ammiak bilan birikkan holda böladi."
+  },
+  "ch31-f123": {
+   "text": "Siydikda metabolik alkalozda sodir böladigandek H+ ga nisbatan HCO3− ortiqça bölsa, bu ortiqça HCO3− qayta sörilişi mumkin emas. Şuning uçun ortiqça HCO3− nayçalarda qoladi va oxir-oqibat siydikka çiqariladi, bu metabolik alkalozni tuzatişga yordam beradi."
+  },
+  "ch31-f124": {
+   "text": "Atsidozda HCO3− ga nisbatan ortiqça H+ mavjud bölib, bu HCO3− ning töliq qayta sörilişiga olib keladi; ortiqça H+ siydik buferlari, ayniqsa fosfat va ammiak bilan birgalikda siydikka ötadi va oxir-oqibat tuzlar sifatida çiqariladi. Şunday qilib, buyraklar atsidoz yoki alkalozni töğrilaydigan asosiy mexanizm H+ ning HCO3− ga qarşi töliq bölmagan titrlanişi bölib, biri yoki boşqasining siydikka ötişiga va hujayradan taşqari suyuqlikdan çiqarilişiga sabab böladi."
+  },
+  "ch31-f125": {
+   "text": "KEYINGI DISTAL VA YIĞUVCHI NAYCHALARNING INTERKALAR HUJAYRALARIDA H+ NING BIRINCHI DARAJALI FAOL SEKRESIYASI"
+  },
+  "ch31-f126": {
+   "text": "Keçki distal nayçalardan boşlanib va nayçalar tizimining qolgan qismi böylab davom etib, nayçali epiteliy _birinçi darajali faol transport_ orqali H+ ni ajratadi. Bu transportning xarakteristikalari proksimal nayça, Genle halqasi va erta distal nayça uçun muhokama qilinganlardan farq qiladi."
+  },
+  "ch31-f127": {
+   "text": "Birinçi darajali faol H+ sekresiyasi mexanizmi 28-bobda muhokama qilingan va **31-6-rasm**da körsatilgan. U nayça hujayrasining luminal membranasida sodir böladi, bu yerda H+ maxsus oqsillar, _vodorod-transport qiluvçi ATFaza_ va _vodorod-kaliy-ATFaza taşuvçisi_ tomonidan töğridan-töğri transport qilinadi. H+ ni haydaş uçun zarur bölgan energiya ATF ning adenozindifosfatga parçalanişidan kelib çiqadi."
+  },
+  "ch31-f128": {
+   "text": "H+ ning birinçi darajali faol sekresiyasi keçki distal nayçaning va yiğuvçi nayçalarning _A tipidagi interkalar hujayralar_ deb ataladigan maxsus turdagi hujayralarida sodir böladi. Bu hujayralarda vodorod ioni sekresiyasi ikki bosqiçda amalga oşiriladi: (1) bu hujayradagi erigan CO2 H2O bilan birlaşib H2CO3 hosil qiladi; va (2) H2CO3 keyinçalik qonga qayta söriladigan HCO3− ga, şuningdek, vodorod-ATFaza va vodorod-kaliy-ATFaza taşuvçilari yordamida nayçaga ajratiladigan H+ ga parçalanadi. Ajratilgan har bir H+ uçun proksimal nayçalardagi jarayonga öxşaş tarzda bitta HCO3− qayta söriladi. Asosiy farq şundaki, nefronnig erta qismlarida sodir böladiganidek qarama-qarşi transport orqali emas, balki faol H+ nasosi orqali H+ luminal membrana böylab harakatlanadi."
+  },
+  "ch31-f129": {
+   "text": "Garçi keçki distal nayça va yiğuvçi nayçalarda H+ sekresiyasi ajratilgan umumiy H+ ning atigi 5% ini taşkil etsa-da, bu mexanizm maksimal darajada kislotali siydik hosil qilişda muhim ahamiyatga ega. Proksimal nayçalarda H+ konsentrasiyasi faqat uç-tört marta oşişi mumkin va nayçali suyuqlik pH i faqat 6,7 gaça kamayişi mumkin, garçi uşbu nefron segmenti tomonidan köp miqdorda _H+_ ajratilsada. Şu bilan birga, yiğuvçi nayçalarda H+ konsentrasiyasi 900 martagaça oşişi mumkin. Bu mexanizm nayçali suyuqlik pH ini normal buyraklarda erişiş mumkin bölgan eng quyi çegara bölgan taxminan 4,5 gaça kamaytiradi."
+  },
+  "ch31-f130": {
+   "text": "NAYCHADAGI FOSFAT VA AMMIAK BUFERLARI BILAN ORTIQÇA H+ NING BIRIKISHI “YANGI” HCO3− NI HOSIL QILADI"
+  },
+  "ch31-f131": {
+   "text": "Nayçali suyuqlikka filtrlangan HCO3− ga nisbatan H+ ortiqça miqdorda ajratilganda, ortiqça H+ ning faqat kiçik bir qismi siydikda ion şaklida (H+) çiqarilişi mumkin."
+  },
+  "ch31-f132": {
+   "text": "Bunga sabab minimal siydik pH i taxminan 4,5 ga teng bölib, bu 10−4,5 mEkv/l yoki 0,03 mEkv/l bölgan H+ konsentrasiyasiga töğri keladi. Şuning uçun, hosil bölgan har bir litr siydik uçun erkin H+ ning köpi bilan faqat 0,03 mEkv qismi çiqarilişi mumkin. Har kuni metabolizm natijasida hosil böladigan 80 mEkv uçuvçan bölmagan kislotani çiqariş uçun, agar H+ erkin eritmada qolsa, taxminan 2667 litr siydik çiqarilişi kerak bölar edi."
+  },
+  "ch31-f158": {
+   "text": "Alkalozda titrlanadigan kislota va NH4+ sekresiyasi 0 ga tuşadi, şu bilan birga HCO3− sekresiyasi ortadi. _Şuning uçun, alkalozda manfiy sof kislota sekresiyasi mavjud bölib,_ bu qondan HCO3− ning sof yöqotilişi sodir bölişini anglatadi, bu qonga H+ qöşiş bilan bir xil va buyraklar tomonidan heç qanday yangi HCO3− hosil bölmasligini bildiradi."
+  },
+  "ch31-f159": {
+   "text": "BUYRAK NAYCHALI H+ SEKRESIYASINING BOSHQARILISHI"
+  },
+  "ch31-f160": {
+   "text": "Yuqorida muhokama qilinganidek, nayçali epiteliy tomonidan H+ sekresiyasi HCO3− ning qayta sörilişi va titrlanadigan kislota hosil bölişi bilan boğliq yangi HCO3− ning paydo bölişi uçun zarurdir. Şuning uçun, buyraklar kislota–asos gomeostazidagi öz vazifalarini samarali bajarişi uçun H+ sekresiyasi tezligi diqqat bilan boşqarilişi kerak. Normal şaroitda buyrak nayçalari filtrlangan deyarli barça HCO3− ni qayta söriş uçun yetarli miqdorda H+ ajratişi şart va organizmni har kuni metabolizm natijasida hosil böladigan uçuvçan bölmagan kislotalardan tozalaş uçun titrlanadigan kislota yoki NH4+ sifatida çiqariladigan yetarli miqdorda H+ qolişi kerak."
+  },
+  "ch31-f161": {
+   "text": "Alkalozda H+ ning nayçali sekresiyasi töliq HCO3− qayta sörilişiga erişiş uçun juda past darajaga tuşiriladi, bu esa buyraklarga HCO3− sekresiyasini oşiriş imkonini beradi. Alkalozda titrlanadigan kislota va ammiak çiqarilmaydi, çunki bikarbonat bölmagan buferlar bilan birlaşiş uçun ortiqça H+ mavjud emas; şuning uçun alkalozda qonga heç qanday yangi HCO3− qöşilmaydi."
+  },
+  "ch31-f162": {
+   "text": "Atsidoz paytida nayçali H+ sekresiyasi barça filtrlangan HCO3− ni qayta sörib oliş uçun yetarli darajada oşiriladi, bunda köp miqdordagi NH4+ va titrlanadigan kislotani çiqariş uçun yetarli miqdorda H+ qoladi, şu bilan birga umumiy tana hujayradan taşqari suyuqligiga köp miqdorda yangi HCO3− qöşilişiga yordam beradi. _Atsidozda nayçalar tomonidan H+ sekresiyasini oşiriş uçun eng muhim stimullar quyidagilardan iborat: (1) respirator atsidozda hujayradan taşqari suyuqlik Pco2 ning oşişi; va (2) respirator yoki metabolik atsidozda hujayradan taşqari suyuqlik H+ konsentrasiyasining oşişi (pasaygan pH)._"
+  },
+  "ch31-f163": {
+   "text": "Nayçali hujayralar quyidagiça respirator atsidozda bölgani kabi qonning Pco2 oşişiga H+ sekresiyasi tezligining oşişi bilan töğridan-töğri javob beradi. Oşgan Pco2 nayçali hujayralarning Pco2 ni kötaradi, bu nayçali hujayralarda H+ hosil bölişining oşişiga olib keladi, bu öz navbatida H+ sekresiyasini rağbatlantiradi. H+ sekresiyasini rağbatlantiruvçi ikkinçi omil hujayradan taşqari suyuqlik H+ konsentrasiyasining oşişi (pasaygan pH) hisoblanadi."
+  },
+  "ch31-f164": {
+   "text": "Ba’zi patofiziologik şaroitlarda H+ sekresiyasini oşirişi mumkin bölgan maxsus omil ortiqça aldosteron sekresiyasidir. Aldosteron yiğuvçi nayçalar va yöllarning A tipidagi interkalar hujayralari tomonidan H+ sekresiyasini rağbatlantiradi. Şuning uçun, Conn sindromi bölgan şaxslardagidek ortiqça aldosteron sekresiyasi nayçali suyuqlikka H+ sekresiyasini oşiradi va demak, qonga qaytarib qöşiladigan HCO3− miqdorini oşiradi. Bu ta’sir odatda ortiqça aldosteron sekresiyasi bölgan bemorlarda alkalozni keltirib çiqaradi."
+  },
+  "ch31-f165": {
+   "text": "Nayçali hujayralar odatda H+ konsentrasiyasining pasayişiga (alkaloz) H+ sekresiyasini kamaytiriş orqali javob beradi. Kamaygan H+ sekresiyasi respirator alkalozdagi kabi hujayradan taşqari Pco2 ning pasayişidan yoki respirator va metabolik alkalozlarning ikkalasida ham H+ konsentrasiyasining pasayişidan kelib çiqadi."
+  },
+  "ch31-f166": {
+   "text": "**31-2-jadval**da H+ sekresiyasi va HCO3− ning qayta sörilişiga ta’sir qiluvçi asosiy omillar jamlangan. Uşbu omillarning ba’zilari kislota–asos muvozanatini boşqariş bilan bevosita boğliq emas. Masalan, proksimal nayça va Genle halqasining qalin kötariluvçi qismidagi Na+-H+ almaşinuvçisi orqali H+ sekresiyasi Na+ qayta sörilişi bilan boğlangan. Şuning uçun, hujayradan taşqari suyuqlik hajmining kamayişi va angiotensin II (Ang II) ning oşişi kabi Na+ qayta sörilişini rağbatlantiruvçi omillar ikkilamçi ravişda H+ sekresiyasi va HCO3− ning qayta sörilişini ham oşirişi mumkin."
+  },
+  "ch31-f168": {
+   "text": "Hujayradan taşqari suyuqlik hajmining yetişmasligi buyrak nayçalari tomonidan natriyning qayta sörilişini rağbatlantiradi va quyidagi mexanizmlar, jumladan: (1) buyrak nayçalaridagi Na+-H+ almaşinuvçisi faolligini töğridan-töğri rağbatlantiruvçi oşgan Ang II darajalari; va (2) qobiq yiğuvçi nayçalarining interkalar hujayralari tomonidan H+ sekresiyasini rağbatlantiruvçi oşgan aldosteron darajalari orqali H+ sekresiyasi va HCO3− ning qayta sörilişini oşiradi. Şuning uçun, hujayradan taşqari suyuqlik hajmining yetişmasligi ortiqça H+ sekresiyasi va HCO3− qayta sörilişi tufayli alkalozni keltirib çiqarişga moyil böladi."
+  },
+  "ch31-f169": {
+   "text": "Plazma kaliy konsentrasiyasidagi özgarişlar ham H+ sekresiyasiga ta’sir qilişi mumkin, bunda gipokaliyemiya proksimal nayçada H+ sekresiyasini rağbatlantiradi va giperkaliyemiya uni tormozlaydi. Plazma kaliy konsentrasiyasining pasayişi buyrak nayçali hujayralarida H+ konsentrasiyasini oşirişga moyil böladi. Bu öz navbatida H+ sekresiyasini rağbatlantiradi va"
+  },
+  "ch31-f170": {
+   "text": "HCO3− ning qayta sörilişini oşiradi hamda alkalozga olib keladi. Giperkaliyemiya H+ sekresiyasi va HCO3− ning qayta sörilişini kamaytiradi hamda atsidozni keltirib çiqarişga moyil böladi."
+  },
+  "ch31-f171": {
+   "text": "ATSIDOZNING BUYRAK TOMONIDAN TUZATILISHI — H+ NING KÖPAYGAN CHIQARILISHI VA HUJAYRADAN TASHQARI SUYUQLIKKA HCO3− QÖSHILISHI"
+  },
+  "ch31-f172": {
+   "text": "Endi buyraklar H+ ni ajratadigan va HCO3− ni qayta söradigan mexanizmlarni tasvirlab berganimizdan söng, hujayradan taşqari suyuqlik pH i ğayritabiiy bölib qolganda buyraklar uni qanday qilib qayta sozlaşini tuşuntirişimiz mumkin."
+  },
+  "ch31-f173": {
+   "text": "8-tenglamaga, Henderson–Hasselbalç tenglamasiga murojaat qilib, hujayradan taşqari suyuqlikdagi HCO3− ning CO2 ga nisbati kamayganda, şu tariqa pH pasayganda atsidoz kelib çiqişini körişimiz mumkin. Agar bu nisbat HCO3− ning pasayişi tufayli kamaysa, atsidoz _metabolik atsidoz_ deb ataladi. Agar pH Pco2 ning oşişi tufayli pasaysa, atsidoz _respirator atsidoz_ deb ataladi."
+  },
+  "ch31-f174": {
+   "text": "ATSIDOZ BUYRAK NAYCHALI SUYUQLIGIDAGI HCO3−/H+ NISBATINI KAMAYTIRADI"
+  },
+  "ch31-f175": {
+   "text": "Respirator va metabolik atsidoz ikkalasi ham buyrak nayçali suyuqligidagi HCO3−/H+ nisbatining pasayişiga olib keladi. Natijada, buyrak nayçalarida ortiqça H+ paydo böladi, bu HCO3− ning töliq qayta sörilişiga sabab böladi va baribir NH4+ va HPO4= siydik buferlari bilan birikiş uçun qöşimça H+ ni mavjud holda qoldiradi. Şunday qilib, atsidozda buyraklar filtrlangan barça HCO3− ni qayta söradi va NH4+ hamda titrlanadigan kislota hosil bölişi orqali yangi HCO3− qöşadi."
+  },
+  "ch31-f176": {
+   "text": "Metabolik atsidozda nayçali suyuqlikda HCO3− ga nisbatan H+ ning ortiqçaligi birinçi navbatda hujayradan taşqari suyuqlikdagi HCO3− konsentrasiyasining pasayişi va şuning uçun HCO3− ning glomerulyar filtrlanişining pasayişi tufayli yuzaga keladi."
+  },
+  "ch31-f177": {
+   "text": "Respirator atsidozda nayçali suyuqlikdagi ortiqça H+ asosan H+ sekresiyasini rağbatlantiradigan hujayradan taşqari suyuqlik Pco2 ning kötarilişi bilan boğliq."
+  },
+  "ch31-f178": {
+   "text": "Oldin muhokama qilinganidek, surunkali atsidozda, uning respirator yoki metabolik ekanligidan qat’i nazar, H+ sekresiyasiga qöşimça hissa qöşadigan va hujayradan taşqari suyuqlikka yangi HCO3− qöşadigan NH4+ ning işlab çiqarilişi oşadi. Oğir surunkali atsidoz bilan kuniga 500 mEkv gaça bölgan H+ asosan NH4+ şaklida siydikda çiqarilişi mumkin; bu çiqariliş öz navbatida qonga qöşiladigan kuniga 500 mEkv gaça bölgan yangi HCO3− ni ta’minlaydi."
+  },
+  "ch31-f179": {
+   "text": "Şunday qilib, surunkali atsidozda nayçalar tomonidan H+ sekresiyasining oşişi organizmdan ortiqça H+ ni yöq qilişga yordam beradi va hujayradan taşqari suyuqlikdagi HCO3− miqdorini oşiradi. Bu jarayon bikarbonat bufer tizimining HCO3− qismini oşiradi, bu esa Henderson–Hasselbalç tenglamasiga muvofiq hujayradan taşqari pH ni kötarişga va atsidozni töğrilaşga yordam beradi. Agar atsidoz metabolik ravişda vositalangan bölsa, öpkaning qöşimça kompensatsiyasi Pco2 ning pasayişiga olib keladi, bu ham atsidozni tuzatişga yordam beradi."
+  },
+  "ch31-f180": {
+   "text": "**31-3-jadval**da keyingi bölimda muhokama qilinadigan respirator va metabolik alkaloz, şuningdek respirator va metabolik atsidoz bilan boğliq bölgan hujayradan taşqari suyuqlik xarakteristikalari jamlangan. Şuni yodda tutingki, _respirator atsidozda_ pH ning pasayişi, hujayradan taşqari suyuqlik H+ konsentrasiyasining oşişi va atsidozning dastlabki sababi bölgan Pco2 ning oşişi kuzatiladi. _Kompensator javob – bu buyraklar tomonidan hujayradan taşqari suyuqlikka yangi HCO3− qöşilişi natijasida kelib çiqadigan plazma HCO3− ning oşişi._ HCO3− ning kötarilişi Pco2 ning oşişini qoplaşga yordam beradi va şu bilan plazma pH ini normaga yaqinlaştiradi."
+  },
+  "ch31-f182": {
+   "text": "Metabolik atsidozda _ham pH ning pasayişi va hujayradan taşqari suyuqlik H+ konsentrasiyasining kötarilişi kuzatiladi. Biroq, bu holda asosiy patologiya plazma HCO3_− _ning kamayişidir. Asosiy kompensatsiyalarga Pco2 ni pasaytiradigan nafas oliş tezligining oşişi va hujayradan taşqari suyuqlikka yangi HCO3− qöşiş orqali hujayradan taşqari HCO3− konsentrasiyasining dastlabki pasayişini minimallaştirişga yordam beradigan buyrak kompensatsiyasi kiradi._"
+  },
+  "ch31-f183": {
+   "text": "ALKALOZNING BUYRAK TOMONIDAN TUZATILISHI — H+ NING KAMAYGAN NAYCHALI SEKRESIYASI VA HCO3− NING OSHGAN CHIQARILISHI"
+  },
+  "ch31-f184": {
+   "text": "Alkalozga kompensator javoblar asosan atsidozda sodir böladiganlarga qarama-qarşidir. Alkalozda hujayradan taşqari suyuqlikdagi HCO3− ning CO2 ga nisbati oşib, pH ning kötarilişiga (H+ konsentrasiyasining pasayişiga) olib keladi, buni Henderson–Hasselbalç tenglamasidan aniq köriş mumkin."
+  },
+  "ch31-f185": {
+   "text": "ALKALOZ BUYRAK NAYCHALI SUYUQLIGIDAGI HCO3−/H+ NISBATINI OSHIRADI"
+  },
+  "ch31-f186": {
+   "text": "Alkaloz metabolik yoki respirator buzilişlar tufayli kelib çiqqanidan qat’i nazar, buyrak nayçali suyuqligidagi HCO3−/H+ nisbatining oşişi baribir saqlanib qoladi. Buning umumiy ta’siri nayçalardan qayta sörilişi mumkin bölmagan va şuning uçun siydikda çiqarib yuboriladigan ortiqça HCO3− dan iborat. Şunday qilib, alkalozda HCO3− buyrak orqali çiqarib yuboriliş yöli bilan hujayradan taşqari suyuqlikdan çiqariladi, bu hujayradan taşqari suyuqlikka H+ qöşiş bilan bir xil ta’sirga ega. Bu jarayon H+ konsentrasiyasi va pH ni normaga qaytarişga yordam beradi."
+  },
+  "ch31-f205": {
+   "text": "Metabolik alkalozning keng tarqalgan sababi gastrit yoki peptik yarani davolaş uçun natriy bikarbonat kabi işqoriy dorilarni qabul qilişdir.",
+   "lead": "Işqoriy dorilarni qabul qiliş."
+  },
+  "ch31-f206": {
+   "text": "Atsidoz yoki alkaloz uçun eng yaxşi davolaş bu patologiyani keltirib çiqargan holatni tuzatişdir. Bu köpinça, ayniqsa öpka faoliyatining buzilişini yoki buyrak yetişmovçiligini keltirib çiqaradigan surunkali kasalliklarda qiyin keçadi. Bunday vaziyatlarda hujayradan taşqari suyuqlikdagi ortiqça kislota yoki asosni zararsizlantiriş uçun turli xil vositalardan foydalaniş mumkin."
+  },
+  "ch31-f207": {
+   "text": "Ortiqça kislotani zararsizlantiriş uçun oğiz orqali köp miqdorda _natriy gidrokarbonat_ qabul qiliş mumkin. Natriy gidrokarbonat oşqozon-içak traktidan qonga söriladi va gidrokarbonat bufer tizimining HCO3− qismini oşiradi, şu tariqa pH qiymatini normaga qarab kötaradi. Natriy gidrokarbonat tomir içiga ham yuborilişi mumkin, biroq bunday davolaşning potensial xavfli fiziologik ta’sirlari tufayli köpinça uning örniga boşqa moddalar, jumladan, _natriy laktat_ va _natriy glyukonat_ işlatiladi. Molekulalarning laktat va glyukonat qismlari organizmda parçalanadi, natriy esa huqayradan taşqari suyuqlikda natriy gidrokarbonat şaklida qoladi va şu yöl bilan suyuqlikning pH qiymatini normaga qarab oşiradi."
+  },
+  "ch31-f208": {
+   "text": "Alkalozni davolaş uçun oğiz orqali _ammoniy xlorid_ berilişi mumkin. Ammoniy xlorid qonga sörilgaç, uning ammoniy qismi jigar tomonidan moçevinaga aylantiriladi. Bu reaksiya HCl ni ajratib çiqaradi, u darhol tana suyuqliklari buferlari bilan ta’sirlaşib, H+ konsentratsiyasini kislotali tomonga suradi. Ammoniy xlorid ba’zan tomir içiga yuboriladi, ammo NH4+ yuqori darajada zaharli bölib, bu muolaja xavfli bölişi mumkin. Eng maqbul davolaş usoli alkalozning tub sababini bartaraf etişdan iborat. Masalan, agar metabolik alkaloz huqayradan taşqari suyuqlik hajmining kamayişi bilan boğliq bölsa (lekin yurak yetişmovçiligi bölmasa), izotonik fiziologik eritmani yuboriş orqali hajmni muvofiq tiklaş köpinça alkalozni tuzatişda foydali böladi."
+  },
+  "ch31-f209": {
+   "text": "Kislota–asos buzilişlarini töğri davolaş töğri taşxis qöyişni talab qiladi. Avval tavsiflangan oddiy kislota–asos buzilişlariga arterial qon namunasidan olingan uçta ölçov: pH, plazmadagi HCO3− konsentratsiyasi va Pco2 ni tahlil qiliş orqali taşxis qöyiş mumkin."
+  },
+  "ch31-f210": {
+   "text": "Oddiy kislota–asos buzilişlariga taşxis qöyiş **Rasm 31-10** da körsatilgandek bir neça bosqiçlarni öz içiga oladi. pH ni tekşiriş orqali buziliş atsidoz yoki alkaloz ekanligini aniqlaş mumkin. 7,4 dan past pH atsidozni körsatadi, 7,4 dan yuqori pH esa alkalozni bildiradi."
+  },
+  "ch31-f212": {
+   "text": "Ikkinçi bosqiç – plazmadagi Pco2 va HCO3− konsentratsiyalarini tekşiriş. Pco2 ning normal qiymati taxminan 40 mm Hg ni, HCO3−niki esa 24 mEq/L ni taşkil qiladi. Agar buziliş atsidoz sifatida tavsiflangan bölsa va plazma Pco2 miqdori oşgan bölsa, atsidozda nafas oliş komponenti mavjud bölişi kerak. Buyrak kompensatsiyasidan söng, nafas oliş atsidozida plazmadagi HCO3− konsentratsiyasi normadan yuqoriga kötarilişga moyil böladi. _Şuning uçun, oddiy nafas oliş atsidozi uçun kutiladigan qiymatlar quyidagilardan iborat böladi: kamaygan plazma pH qiymati, oşgan Pco2 va qisman buyrak kompensatsiyasidan keyin oşgan plazma HCO3− konsentratsiyasi._"
+  },
+  "ch31-f213": {
+   "text": "Metabolik atsidoz uçun plazma pH qiymatining pasayişi ham kuzatiladi. Biroq, metabolik atsidozda asosiy özgariş plazmadagi HCO3− konsentratsiyasining kamayişi hisoblanadi. Şuning uçun, agar past pH past HCO3− konsentratsiyasi bilan boğliq bölsa, atsidozda metabolik komponent mavjud bölişi şart. Oddiy metabolik atsidozda, Pco2 oşadigan nafas oliş atsidozidan farqli ölaroq, qisman nafas oliş kompensatsiyasi tufayli Pco2 kamaygan böladi. _Şuning uçun, oddiy metabolik atsidozda past pH, past plazma HCO3− konsentratsiyasi va qisman nafas oliş kompensatsiyasidan keyin Pco2 ning pasayişini kuzatiş kutiladi._"
+  },
+  "ch31-f214": {
+   "text": "Alkaloz turlarini tasniflaş tartib-qoidalari xuddi şunday asosiy bosqiçlarni öz içiga oladi. Birinçidan, alkaloz plazma pH qiymatining oşişini bildiradi. Agar pH ning oşişi kamaygan Pco2 bilan boğliq bölsa, alkalozda nafas oliş komponenti mavjud bölişi kerak. Agar pH ning kötarilişi oşgan HCO3− bilan boğliq bölsa, alkalozda metabolik komponent mavjud bölişi kerak. _Şuning uçun, oddiy nafas oliş alkalozida plazmada oşgan pH, kamaygan Pco2 va kamaygan HCO3− konsentratsiyasini topiş kutiladi. Oddiy metabolik alkalozda esa oşgan pH, oşgan plazma HCO3− va oşgan Pco2 ni topiş kutiladi._"
+  },
+  "ch31-f215": {
+   "text": "Ba’zi hollarda kislota–asos buzilişlari tegişli kompensator javoblar bilan birga kelmaydi. Bunday vaziyat yuzaga kelganda, bu özgariş _aralaş kislota–asos buzilişi_ deb ataladi, bu kislota–asos muvozanatining buzilişiga olib keladigan ikki yoki undan ortiq tub sabablar borligini anglatadi. Masalan, pH qiymati past bölgan bemor atsidozga uçragan deb tasniflanadi. Agar buziliş metabolik tarzda kelib çiqqan bölsa, bu şuningdek plazmadagi HCO3− konsentratsiyasining pasayişi va tegişli nafas oliş kompensatsiyasidan söng Pco2 ning pasayişi bilan birga keçadi. Biroq, agar past plazma pH va past HCO3− konsentratsiyasi yuqori Pco2 bilan boğliq bölsa, atsidozning nafas oliş komponenti hamda metabolik komponenti borligiga şubha qiliş mumkin. Şuning uçun bu buziliş aralaş atsidoz sifatida tasniflanadi. Bu buziliş, masalan, ötkir holatdagi bemorda uçraşi mumkin"
+  },
+  "ch31-f216": {
+   "text": "iç ketişi (metabolik atsidoz) va amfizem (nafas oliş atsidozi) tufayli oşqozon-içak traktidan HCO3− yöqolişi."
+  },
+  "ch31-f217": {
+   "text": "**Rasm 31-11** da körsatilgandek, kislota–asos buzilişlariga taşxis qöyişning qulay usuli kislota–asos nomogrammasidan foydalanişdir. Uşbu diagramma atsidoz yoki alkaloz turini, şuningdek uning oğirlik darajasini aniqlaş uçun işlatilişi mumkin. Uşbu kislota–asos diagrammasida pH, HCO3− konsentratsiyasi va Pco2 qiymatlari Henderson-Hasselbalç tenglamasiga muvofiq kesişadi. Markazdagi oçiq doira normal qiymatlarni va hali ham normal diapazonda deb hisoblanişi mumkin bölgan oğişlarni körsatadi. Diagrammaning ştrixlangan sohalari oddiy metabolik va nafas oliş buzilişlariga normal kompensatsiyalar uçun 95% lik işonç çegaralarini körsatadi."
+  },
+  "ch31-f219": {
+   "text": "Uşbu diagrammadan foydalanganda töliq kompensator javob uçun yetarli vaqt ötgan deb faraz qiliş kerak, bu birlamçi metabolik buzilişlardagi ventilyatsion kompensatsiyalar uçun 6 soatdan 12 soatgaça va birlamçi nafas oliş buzilişlaridagi metabolik kompensatsiyalar uçun 3 kundan 5 kungaça davom etadi. Agar qiymat ştrixlangan sohada bölsa, bu oddiy kislota–asos buzilişi mavjudligini bildiradi. Aksinça, agar pH, bikarbonat yoki Pco2 qiymatlari ştrixlangan sohadan taşqarida yotsa, bu bemorda aralaş kislota–asos buzilişi bölişi mumkinligini körsatadi."
+  },
+  "ch31-f220": {
+   "text": "Şuni tuşuniş muhimki, ştrixlangan soha içidagi kislota–asos qiymati _har doim_ oddiy kislota–asos buzilişi mavjudligini anglatmaydi. Uşbu şartni yodda tutgan holda, kislota–asos diagrammalaridan kislota–asos buzilişining öziga xos turi va oğirlik darajasini aniqlaşning tezkor vositasi sifatida foydalaniş mumkin."
+  },
+  "ch31-f221": {
+   "text": "Masalan, bemorning arterial plazmasi quyidagi qiymatlarni beradi deb faraz qilaylik: pH – 7,30; plazmadagi HCO3− konsentratsiyasi – 12,0 mEq/L; va plazma Pco2 – 25 mm Hg. Uşbu qiymatlar yordamida diagrammani körib çiqiş va bu oddiy metabolik atsidozni anglatişini aniqlaş mumkin, bunda Pco2 ni normal 40 mm Hg qiymatidan 25 mm Hg gaça kamaytiradigan tegişli nafas oliş kompensatsiyasi mavjud."
+  },
+  "ch31-f222": {
+   "text": "Ikkinçi misol quyidagi qiymatlarga ega bölgan bemor bölişi mumkin: pH – 7,15; plazmadagi HCO3− konsentratsiyasi – 17 mEq/L; va plazma Pco2 – 50 mm Hg. Uşbu misolda bemorda atsidoz mavjud va metabolik komponent bornga öxşaydi, çunki plazmadagi HCO3− konsentratsiyasi normal 24 mEq/L qiymatidan pastroq. Biroq, odatda Pco2 ni pasaytiradigan nafas oliş kompensatsiyasi yöq va Pco2 normal 40 mm Hg qiymatidan biroz oşgan. Bu topilma metabolik atsidozdan, şuningdek nafas oliş komponentidan iborat bölgan aralaş kislota–asos buzilişiga mos keladi."
+  },
+  "ch31-f223": {
+   "text": "Kislota–asos nomogrammasi ğayritabiiy pH, Pco2 va plazma bikarbonat konsentratsiyalariga sabab bölişi mumkin bölgan buzilişlarning turi va oğirlik darajasini baholaşning tezkor usuli bölib xizmat qiladi. Klinik şaroitda bemorning kasallik tarixi va boşqa fizik tekşiruv natijalari ham kislota–asos buzilişlarining sabablari va davolaş usullari haqida muhim ma’lumotlarni beradi."
+  },
+  "ch31-f224": {
+   "text": "Elektr neytralligini saqlaş uçun plazmadagi anionlar va kationlar konsentratsiyasi teng bölişi şart. Şuning uçun plazmada aslida anion böşliği mavjud emas. Biroq, klinik laboratoriyada faqat ma’lum kationlar va anionlar odatda ölçanadi. Odatda ölçanadigan kation Na+, anionlar esa odatda Cl− va HCO3− hisoblanadi. Anion böşliği – bu faqat taşxisiy tuşunça bölib – ölçanmagan anionlar va ölçanmagan kationlar orasidagi farqni bildiradi va quyidagiça baholanadi:"
+  },
+  "ch31-f225": {
+   "text": "Ölçanmagan anionlar köpaysa yoki ölçanmagan kationlar kamaysa, anion böşliği oşadi. Eng muhim ölçanmagan kationlarga kalsiy, magniy va kaliy kiradi, asosiy ölçanmagan anionlar esa oqsil (albumin), fosfat, sulfat va boşqa organik anionlardir. Odatda, ölçanmagan anionlar ölçanmagan kationlardan oşib ketadi va anion böşliği 8 va 16 mEq/L oraliğida böladi."
+  },
+  "ch31-f226": {
+   "text": "Plazma anion böşliği asosan metabolik atsidozning turli sabablariga taşxis qöyişda işlatiladi. Metabolik atsidozda plazmadagi HCO3− konsentratsiyasi kamayadi. Agar plazma natriy konsentratsiyasi özgarmasa, elektr neytralligini saqlaş uçun anionlar konsentratsiyasi (Cl− yoki ölçanmagan anion) oşadi. Agar plazma Cl− miqdori plazma HCO3−ining pasayişiga mutanosib ravişda oşsa, anion böşliği normal holatda qoladi. Bu köpinça _giperxloremik metabolik atsidoz_ deb ataladi."
+  },
+  "ch31-f227": {
+   "text": "Agar plazma HCO3−ining kamayişi oşgan Cl− bilan birga kelmasa, ölçanmagan anionlar darajasi oşgan bölişi va demak, hisoblangan anion böşliği oşişi şart. Laktat kislota yoki ketoatsidlar kabi ortiqça uçuvçan bölmagan kislotalar (HCl dan taşqari) keltirib çiqaradigan metabolik atsidoz oşgan plazma anion böşliği bilan boğliq, çunki HCO3− ning pasayişi Cl− ning teng ravişdagi oşişi bilan qoplanmaydi. Normal yoki oşgan anion böşliği bilan boğliq bölgan metabolik atsidozning ba’zi misollari **Jadval 31-4** da körsatilgan. Anion böşliğini hisoblaş orqali metabolik atsidozning ba’zi potensial sabablarini toraytiriş mumkin."
+  }
+ },
+ "figures": {
+  "gh14-fig-31-01": "Bikarbonat bufer tizimi uçun titrlaş egri çiziği; unda HCO3− va CO2 (yoki H2CO3) şaklidagi bufer foizlari özgarganda hujayradan taşqari suyuqlikning pH qiymati körsatilgan.",
+  "gh14-fig-31-02": "Alveolyar ventilyatsiya tezligining oşişi yoki kamayişi natijasida hujayradan taşqari suyuqlik pH qiymatining özgarişi (normalga nisbatan neça marta ekanligi bilan ifodalangan).",
+  "gh14-fig-31-03": "Qon pH qiymatining alveolyar ventilyatsiya tezligiga ta’siri.",
+  "gh14-fig-31-04": "Buyrak nayçasining turli segmentlarida HCO3− ning sörilişi. HCO3− ning filtratsiyalangan qismining turli nayça segmentlari tomonidan sörilgan foizlari, şuningdek normal şaroitda kuniga sörilgan milliekvivalentlar soni körsatilgan.",
+  "gh14-fig-31-05": "Quyidagilar uçun hujayraviy mexanizmlar körsatilgan: (1) buyrak nayçasiga H+ ning faol sekretsiyasi; (2) CO2 va H2O hosil qiliş uçun ajralib çiqadigan H2CO3 ni hosil qiliş maqsadida H+ bilan birlaşiş orqali HCO3− ning nayçada sörilişi; va (3) sekresiya qilingan H+ evaziga Na+ ning sörilişi. H+ sekretsiyasining uşbu namunasi proximal nayçada, Genle halqasining qalin kötariluvçi qismida va distal nayçaning boşlanğiç qismida sodir böladi.",
+  "gh14-fig-31-06": "Distal va yiğuvçi nayçalarning oxirgi qismi A tipdagi interkalat epiteliya hujayralarining lyumenal membranasi orqali H+ ning faol sekretsiyasi. A tipdagi hujayralar lyumenal membranada vodorod–adenozintrifosfataza (atsetilfosfataza/ATPase) va vodorod-kaliy-ATPase ni saqlaydi hamda atsidoz paytida HCO3− va K+ ni qayta sörib olgan holda H+ ni sekresiya qiladi. E’tibor bering, har bir sekresiya qilingan H+ uçun bitta HCO3− qayta söriladi va bitta Cl- H+ bilan birga passiv ravişda sekresiya qilinadi.",
+  "gh14-fig-31-07": "Filtratsiyalangan fosfat (NaH PO4) tomonidan sekresiya qilingan H+ ni buferlaş. E’tibor bering, sekresiya qilingan H+ bilan reaksiya qiladigan har bir NaH PO4 uçun qonga yangi HCO3− qaytariladi.",
+  "gh14-fig-31-08": "Proximal nayça hujayralari tomonidan ammoniy ionining (NH4+) hosil qilinişi va sekretsiyasi. Glutamin hujayrada parçalanib, NH4+ va HCO3− hosil qiladi. NH4+ Na+-NH4+ almaşinuvçisi orqali lyumenga sekresiya qilinadi. Parçalangan har bir glutamin molekulasi uçun ikkita NH4+ hosil böladi va sekresiya qilinadi, şuningdek ikkita HCO3− qonga qaytariladi.",
+  "gh14-fig-31-09": "Yiğuvçi nayçalarda ammiak (NH3) yordamida H+ sekretsiyasini buferlaş. NH3 nayça lyumeniga diffuziyalanadi, u yerda sekresiya qilingan H+ bilan ta’sirlaşib NH4+ hosil qiladi va u keyinçalik çiqarib yuboriladi. Çiqarib yuborilgan har bir NH4+ uçun nayça hujayralarida yangi HCO3− hosil böladi va qonga qaytariladi.",
+  "gh14-fig-31-10": "Oddiy kislota–asos buzilişlarini tahlil qiliş. Agar kompensator javoblar raqamning pastki qismida körsatilganidan sezilarli darajada farq qilsa, aralaş kislota–asos buzilişidan şubhalaniş kerak.",
+  "gh14-fig-31-11": "Arterial qon pH qiymati, arterial plazma HCO3− va Pco2 qiymatlarini körsatuvçi kislota–asos nomogrammasi. Markazdagi oçiq doira soğlom odamlarda kislota–asos holatining taxminiy çegaralarini körsatadi. Nomogrammadagi ştrixlangan sohalar oddiy metabolik va nafas oliş buzilişlari keltirib çiqaradigan normal kompensatsiyalarning taxminiy çegaralarini körsatadi. Ştrixlangan sohalardan taşqarida yotgan qiymatlar uçun aralaş kislota–asos buzilişidan şubhalaniş kerak. (Cogan MG, Rector FC Jr: Acid-Based Disorders in the Kidney, 3rd ed. Philadelphia: WB Saunders, 1986 asosida özgartirilgan.)",
+  "gh14-tab-31-01": "Tana suyuqliklarining pH va H+ konsentratsiyasi",
+  "gh14-tab-31-02": "Buyrak nayçalari tomonidan H+ sekretsiyasi va HCO3− reabsorbsiyasini oşiruvçi yoki kamaytiruvçi plazma yoki hujayradan taşqari suyuqlik omillari",
+  "gh14-tab-31-03": "Birlamçi kislota–asos buzilişlarining hujayradan taşqari suyuqlik xarakteristikalari a",
+  "gh14-tab-31-04": "Normal yoki oşgan plazma anion böşliği bilan boğliq metabolik atsidoz"
+ }
+}

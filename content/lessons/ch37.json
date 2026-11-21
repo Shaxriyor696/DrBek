@@ -2,9 +2,9 @@
  "id": "ch37",
  "topicId": "06",
  "order": 5,
- "titleUz": "Gemostaz va qon ivishi",
+ "titleUz": "Gemostaz va qon ivişi",
  "titleOriginal": "Hemostasis and Blood Coagulation",
- "subtitle": "*Hemostasis and Blood Coagulation* — VI bo'lim, PDF 457–468",
+ "subtitle": "*Hemostasis and Blood Coagulation* — VI bo‘lim, PDF 457–468",
  "contentVersion": "2026-11-14.1",
  "status": "in_review",
  "translationStatus": "machine_assisted",
@@ -365,10 +365,10 @@
  "objectives": [
   "1. Tomir torayishi",
   "2. Trombotsit tiqini",
-  "3. Laxta hosil bo’lishi: vaqt jadvali",
+  "3. Laxta hosil bo‘lishi: vaqt jadvali",
   "Koagulyatsiyaning umumiy sxemasi",
   "Jadval 37-1: Ivish omillari",
-  "Protrombin aktivatorining hosil bo’lishi",
+  "Protrombin aktivatorining hosil bo‘lishi",
   "Tomir ichidagi antikoagulyantlar",
   "Fibrinoliz: plazmin",
   "Ortiqcha qonash holatlari",
@@ -381,13 +381,13 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Asosiy g’oya",
+    "text": "Asosiy ğoya",
     "id": "ch37-s-0-asosiy-goya",
     "bid": "ch37-u0"
    },
    {
     "type": "paragraph",
-    "text": "Gemostaz, ya’ni qon yo’qotilishining oldini olish, to’rt bosqichda boradi:",
+    "text": "Gemostaz, ya’ni qon yöqotilişining oldini oliş, tört bosqiçda boradi:",
     "bid": "ch37-u1"
    },
    {
@@ -395,7 +395,7 @@
     "ordered": true,
     "items": [
      {
-      "text": "**Tomir torayishi**",
+      "text": "**Tomir torayişi**",
       "depth": 0
      },
      {
@@ -407,7 +407,7 @@
       "depth": 0
      },
      {
-      "text": "**Fibroz to’qima** o’sib, teshikni doimiy yopishi",
+      "text": "**Fibroz töqima** ösib, teşikni doimiy yopişi",
       "depth": 0
      }
     ],
@@ -415,19 +415,19 @@
    },
    {
     "type": "paragraph",
-    "text": "Qon tomirda aylanayotganda **antikoagulyantlar ustun** bo’ladi. Tomir shikastlanganda **prokoagulyantlar** ustunlik qiladi va bu muvozanat laxta hosil bo’lishini belgilaydi. Laxtaning markaziy zanjiri: **protrombin aktivatori → trombin → fibrin**.",
+    "text": "Qon tomirda aylanayotganda **antikoagulyantlar ustun** böladi. Tomir şikastlanganda **prokoagulyantlar** ustunlik qiladi va bu muvozanat laxta hosil bölişini belgilaydi. Laxtaning markaziy zanjiri: **protrombin aktivatori → trombin → fibrin**.",
     "bid": "ch37-u3"
    },
    {
     "type": "heading",
     "level": 2,
-    "text": "1. Tomir torayishi",
+    "text": "1. Tomir torayişi",
     "id": "ch37-s-4-1-tomir-torayishi",
     "bid": "ch37-u4"
    },
    {
     "type": "paragraph",
-    "text": "Shikastdan darhol keyin tomir devoridagi silliq mushak qisqaradi. Sabablari:",
+    "text": "Şikastdan darhol keyin tomir devoridagi silliq muşak qisqaradi. Sabablari:",
     "bid": "ch37-u5"
    },
    {
@@ -435,15 +435,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "mahalliy miogen spazm (eng katta ulush);",
+      "text": "mahalliy miogen spazm (eng katta uluş);",
       "depth": 0
      },
      {
-      "text": "shikastlangan to’qima, endoteliy va trombotsitlardan chiqqan autakoidlar;",
+      "text": "şikastlangan töqima, endoteliy va trombotsitlardan çiqqan autakoidlar;",
       "depth": 0
      },
      {
-      "text": "og’riq impulslaridan kelgan nerv reflekslari.",
+      "text": "oğriq impulslaridan kelgan nerv reflekslari.",
       "depth": 0
      }
     ],
@@ -451,7 +451,7 @@
    },
    {
     "type": "paragraph",
-    "text": "Mayda tomirlarda trombotsitlardan chiqqan **tromboksan A₂** torayishning katta qismini beradi. Shikast qanchalik og’ir bo’lsa, spazm shunchalik kuchli; u daqiqalar yoki soatlar davom etishi mumkin.",
+    "text": "Mayda tomirlarda trombotsitlardan çiqqan **tromboksan A₂** torayişning katta qismini beradi. Şikast qançalik oğir bölsa, spazm şunçalik kuçli; u daqiqalar yoki soatlar davom etişi mumkin.",
     "bid": "ch37-u7"
    },
    {
@@ -463,7 +463,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Trombotsit tuzilishi:**",
+    "text": "**Trombotsit tuzilişi:**",
     "bid": "ch37-u9"
    },
    {
@@ -471,19 +471,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Diametri 1–4 µm bo’lgan disk, **megakariotsitlar**dan hosil bo’ladi. Normasi 150 000–450 000/µl.",
+      "text": "Diametri 1–4 µm bölgan disk, **megakariotsitlar**dan hosil böladi. Normasi 150 000–450 000/µl.",
       "depth": 0
      },
      {
-      "text": "Yadrosi yo’q va ko’paya olmaydi, lekin faol hujayra kabi ishlaydi. Tarkibida:",
+      "text": "Yadrosi yöq va köpaya olmaydi, lekin faol hujayra kabi işlaydi. Tarkibida:",
       "depth": 0
      },
      {
-      "text": "aktin, miozin va **trombostenin** (qisqaruvchi oqsillar);",
+      "text": "aktin, miozin va **trombostenin** (qisqaruvçi oqsillar);",
       "depth": 1
      },
      {
-      "text": "EPR va Golji qoldiqlari, ularda fermentlar va ko’p **Ca²⁺** zaxirasi;",
+      "text": "EPR va Golji qoldiqlari, ularda fermentlar va köp **Ca²⁺** zaxirasi;",
       "depth": 1
      },
      {
@@ -495,19 +495,19 @@
       "depth": 1
      },
      {
-      "text": "**fibrin stabillovchi omil**;",
+      "text": "**fibrin stabillovçi omil**;",
       "depth": 1
      },
      {
-      "text": "endoteliy, silliq mushak va fibroblastlarni o’stiruvchi **o’sish omili**.",
+      "text": "endoteliy, silliq muşak va fibroblastlarni östiruvçi **ösiş omili**.",
       "depth": 1
      },
      {
-      "text": "Membranasidagi **glikoprotein qoplami** normal endoteliydan itariladi, lekin shikastlangan endoteliy va **kollagen**ga yopishadi. Membranadagi **fosfolipidlar** ivishning bir necha bosqichini faollashtiradi.",
+      "text": "Membranasidagi **glikoprotein qoplami** normal endoteliydan itariladi, lekin şikastlangan endoteliy va **kollagen**ga yopişadi. Membranadagi **fosfolipidlar** ivişning bir neça bosqiçini faollaştiradi.",
       "depth": 0
      },
      {
-      "text": "Yarim umri **8–12 kun**. Ko’pi makrofaglar tomonidan, yarmidan ko’pi **taloqda**, olib tashlanadi.",
+      "text": "Yarim umri **8–12 kun**. Köpi makrofaglar tomonidan, yarmidan köpi **taloqda**, olib taşlanadi.",
       "depth": 0
      }
     ],
@@ -515,7 +515,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Tiqin hosil bo’lish mexanizmi:**",
+    "text": "**Tiqin hosil böliş mexanizmi:**",
     "bid": "ch37-u11"
    },
    {
@@ -523,23 +523,23 @@
     "ordered": true,
     "items": [
      {
-      "text": "Trombotsit shikastlangan yuzaga, ayniqsa kollagenga, tegadi.",
+      "text": "Trombotsit şikastlangan yuzaga, ayniqsa kollagenga, tegadi.",
       "depth": 0
      },
      {
-      "text": "U shishadi, psevdopodiyalar chiqaradi, qisqaruvchi oqsillari granulalarni bo’shatadi va yopishqoq bo’ladi.",
+      "text": "U şişadi, psevdopodiyalar çiqaradi, qisqaruvçi oqsillari granulalarni böşatadi va yopişqoq böladi.",
       "depth": 0
      },
      {
-      "text": "Kollagenga va plazmadan sizib chiqqan **von Willebrand omili (vWF)** ga yopishadi; vWF kollagen bilan **GpIb** retseptori o’rtasida ko’prik bo’ladi.",
+      "text": "Kollagenga va plazmadan sizib çiqqan **von Willebrand omili (vWF)** ga yopişadi; vWF kollagen bilan **GpIb** retseptori örtasida köprik böladi.",
       "depth": 0
      },
      {
-      "text": "**ADP**, **trombotsitni faollashtiruvchi omil (PAF)** va **tromboksan A₂** ajraladi. Ular qo’shni trombotsitlarni faollashtirib jalb qiladi (agregatsiya, musbat aylanish).",
+      "text": "**ADP**, **trombotsitni faollaştiruvçi omil (PAF)** va **tromboksan A₂** ajraladi. Ular qöşni trombotsitlarni faollaştirib jalb qiladi (agregatsiya, musbat aylaniş).",
       "depth": 0
      },
      {
-      "text": "Bo’sh tiqin hosil bo’ladi. Keyin fibrin iplari uni mustahkamlaydi.",
+      "text": "Böş tiqin hosil böladi. Keyin fibrin iplari uni mustahkamlaydi.",
       "depth": 0
      }
     ],
@@ -547,13 +547,13 @@
    },
    {
     "type": "paragraph",
-    "text": "**Ahamiyati:** kuniga minglab mayda tomir yorilishlari shu yo’l bilan yopiladi; trombotsitlar endoteliy bilan qo’shilib, membranani to’ldiradi. Trombotsit kam bo’lsa, teri ostida va ichki a’zolarda minglab mayda qon quyilishlar (**petexiyalar**) paydo bo’ladi.",
+    "text": "**Ahamiyati:** kuniga minglab mayda tomir yorilişlari şu yöl bilan yopiladi; trombotsitlar endoteliy bilan qöşilib, membranani töldiradi. Trombotsit kam bölsa, teri ostida va içki a’zolarda minglab mayda qon quyilişlar (**petexiyalar**) paydo böladi.",
     "bid": "ch37-u13"
    },
    {
     "type": "heading",
     "level": 2,
-    "text": "3. Laxta hosil bo’lishi: vaqt jadvali",
+    "text": "3. Laxta hosil bölişi: vaqt jadvali",
     "id": "ch37-s-14-3-laxta-hosil-bolishi-vaqt-jadvali",
     "bid": "ch37-u14"
    },
@@ -566,10 +566,10 @@
     "rows": [
      [
       "Laxta boshlanishi",
-      "og’ir shikastda 15–20 s, yengilda 1–2 min"
+      "og‘ir shikastda 15–20 s, yengilda 1–2 min"
      ],
      [
-      "Teshikni to’ldirishi",
+      "Teshikni to‘ldirishi",
       "3–6 min"
      ],
      [
@@ -581,7 +581,7 @@
       "bir necha soatdan keyin"
      ],
      [
-      "To’liq fibroz organizatsiya",
+      "To‘liq fibroz organizatsiya",
       "1–2 hafta"
      ]
     ],
@@ -589,7 +589,7 @@
    },
    {
     "type": "paragraph",
-    "text": "Laxta ikki yo’ldan birini tanlaydi:",
+    "text": "Laxta ikki yöldan birini tanlaydi:",
     "bid": "ch37-u16"
    },
    {
@@ -597,11 +597,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "**fibroz organizatsiya**: kichik teshikda, trombotsit o’sish omili yordamida;",
+      "text": "**fibroz organizatsiya**: kiçik teşikda, trombotsit ösiş omili yordamida;",
       "depth": 0
      },
      {
-      "text": "**erish**: kerak bo’lmagan joyda, plazmin orqali.",
+      "text": "**eriş**: kerak bölmagan joyda, plazmin orqali.",
       "depth": 0
      }
     ],
@@ -619,11 +619,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Qonda va to’qimalarda ivishga ta’sir qiluvchi **50 dan ortiq** modda bor.",
+      "text": "Qonda va töqimalarda ivişga ta’sir qiluvçi **50 dan ortiq** modda bor.",
       "depth": 0
      },
      {
-      "text": "Uch asosiy qadam:",
+      "text": "Uç asosiy qadam:",
       "depth": 0
      },
      {
@@ -631,19 +631,19 @@
       "depth": 1
      },
      {
-      "text": "Protrombin aktivatori **Ca²⁺** ishtirokida protrombinni **trombin**ga aylantiradi.",
+      "text": "Protrombin aktivatori **Ca²⁺** iştirokida protrombinni **trombin**ga aylantiradi.",
       "depth": 1
      },
      {
-      "text": "Trombin **fibrinogen**ni **fibrin** iplariga aylantiradi (10–15 s ichida).",
+      "text": "Trombin **fibrinogen**ni **fibrin** iplariga aylantiradi (10–15 s içida).",
       "depth": 1
      },
      {
-      "text": "**Tezlikni cheklovchi qadam** protrombin aktivatorining hosil bo’lishi; keyingi bosqichlar tez boradi.",
+      "text": "**Tezlikni çeklovçi qadam** protrombin aktivatorining hosil bölişi; keyingi bosqiçlar tez boradi.",
       "depth": 0
      },
      {
-      "text": "Protrombin avval shikastlangan joyga bog’langan trombotsitlardagi retseptorlarga yopishadi.",
+      "text": "Protrombin avval şikastlangan joyga boğlangan trombotsitlardagi retseptorlarga yopişadi.",
       "depth": 0
      }
     ],
@@ -658,7 +658,7 @@
     "rows": [
      [
       "**Protrombin**",
-      "α₂-globulin, MM 68 700, plazmada ~15 mg/dl, jigarda hosil bo’ladi. Jigar to’xtasa, bir kunda kritik pasayadi. Faollashishi uchun **K vitamini** kerak"
+      "α₂-globulin, MM 68 700, plazmada ~15 mg/dl, jigarda hosil bo‘ladi. Jigar to‘xtasa, bir kunda kritik pasayadi. Faollashishi uchun **K vitamini** kerak"
      ],
      [
       "**Trombin**",
@@ -666,14 +666,14 @@
      ],
      [
       "**Fibrinogen**",
-      "MM ~340 000, plazmada 100–700 mg/dl, jigarda hosil bo’ladi. Katta bo’lgani uchun interstitsiyga kam o’tadi, shuning uchun interstitsial suyuqlik odatda ivimaydi. Kapillyar o’tkazuvchanligi oshganda o’tib, to’qima suyuqligi ham iviydi"
+      "MM ~340 000, plazmada 100–700 mg/dl, jigarda hosil bo‘ladi. Katta bo‘lgani uchun interstitsiyga kam o‘tadi, shuning uchun interstitsial suyuqlik odatda ivimaydi. Kapillyar o‘tkazuvchanligi oshganda o‘tib, to‘qima suyuqligi ham iviydi"
      ]
     ],
     "bid": "ch37-u20"
    },
    {
     "type": "paragraph",
-    "text": "**Fibrin hosil bo’lishi:**",
+    "text": "**Fibrin hosil bölişi:**",
     "bid": "ch37-u21"
    },
    {
@@ -681,19 +681,19 @@
     "ordered": true,
     "items": [
      {
-      "text": "Trombin har bir fibrinogendan **4 ta kichik peptid**ni ajratadi, **fibrin monomeri** hosil bo’ladi.",
+      "text": "Trombin har bir fibrinogendan **4 ta kiçik peptid**ni ajratadi, **fibrin monomeri** hosil böladi.",
       "depth": 0
      },
      {
-      "text": "Monomerlar o’z-o’zidan polimerlanib fibrin iplarini hosil qiladi. Avval ular kuchsiz vodorod bog’lar bilan ushlangan, laxta bo’sh.",
+      "text": "Monomerlar öz-özidan polimerlanib fibrin iplarini hosil qiladi. Avval ular kuçsiz vodorod boğlar bilan uşlangan, laxta böş.",
       "depth": 0
      },
      {
-      "text": "**Fibrin stabillovchi omil (XIII)** plazmadan va trombotsitlardan keladi. Uni **trombin faollashtiradi**. U monomerlar va qo’shni iplar o’rtasida **kovalent ko’ndalang bog’lar** hosil qiladi, to’r mustahkamlanadi.",
+      "text": "**Fibrin stabillovçi omil (XIII)** plazmadan va trombotsitlardan keladi. Uni **trombin faollaştiradi**. U monomerlar va qöşni iplar örtasida **kovalent köndalang boğlar** hosil qiladi, tör mustahkamlanadi.",
       "depth": 0
      },
      {
-      "text": "Laxta fibrin to’ridan iborat bo’lib, unda qon hujayralari, trombotsitlar va plazma tutilgan. U shikastlangan yuzaga yopishadi.",
+      "text": "Laxta fibrin töridan iborat bölib, unda qon hujayralari, trombotsitlar va plazma tutilgan. U şikastlangan yuzaga yopişadi.",
       "depth": 0
      }
     ],
@@ -709,19 +709,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Laxta qisqarib, 20–60 min ichida suyuqligini siqib chiqaradi. Bu suyuqlik **zardob (serum)**: fibrinogen va ko’p omillardan mahrum, shuning uchun ivimaydi.",
+      "text": "Laxta qisqarib, 20–60 min içida suyuqligini siqib çiqaradi. Bu suyuqlik **zardob (serum)**: fibrinogen va köp omillardan mahrum, şuning uçun ivimaydi.",
       "depth": 0
      },
      {
-      "text": "Retraksiya uchun **trombotsitlar shart**. Retraksiya bo’lmasa, trombotsitopeniya gumon qilinadi.",
+      "text": "Retraksiya uçun **trombotsitlar şart**. Retraksiya bölmasa, trombotsitopeniya gumon qilinadi.",
       "depth": 0
      },
      {
-      "text": "Trombotsitlar fibrin iplarini bir-biriga bog’laydi, fibrin stabillovchi omil chiqaradi va trombostenin, aktin, miozin bilan qisqaradi. Bu trombin va trombotsit ichidagi Ca²⁺ zaxiralari bilan tezlashadi.",
+      "text": "Trombotsitlar fibrin iplarini bir-biriga boğlaydi, fibrin stabillovçi omil çiqaradi va trombostenin, aktin, miozin bilan qisqaradi. Bu trombin va trombotsit içidagi Ca²⁺ zaxiralari bilan tezlaşadi.",
       "depth": 0
      },
      {
-      "text": "Natijada tomir chetlari bir-biriga tortiladi.",
+      "text": "Natijada tomir çetlari bir-biriga tortiladi.",
       "depth": 0
      }
     ],
@@ -737,15 +737,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Trombin fibrinogendan tashqari protrombinning o’ziga ham ta’sir qilib, ko’proq trombin hosil qiladi.",
+      "text": "Trombin fibrinogendan taşqari protrombinning öziga ham ta’sir qilib, köproq trombin hosil qiladi.",
       "depth": 0
      },
      {
-      "text": "U VIII, IX, X, XI, XII omillarni tezlashtiradi va trombotsit agregatsiyasini kuchaytiradi.",
+      "text": "U VIII, IX, X, XI, XII omillarni tezlaştiradi va trombotsit agregatsiyasini kuçaytiradi.",
       "depth": 0
      },
      {
-      "text": "Kritik miqdorga yetgach, laxta qon oqishi to’xtaguncha o’sadi.",
+      "text": "Kritik miqdorga yetgaç, laxta qon oqişi töxtagunça ösadi.",
       "depth": 0
      }
     ],
@@ -754,7 +754,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Jadval 37-1: Ivish omillari",
+    "text": "Jadval 37-1: Iviş omillari",
     "id": "ch37-s-27-jadval-37-1-ivish-omillari",
     "bid": "ch37-u27"
    },
@@ -775,7 +775,7 @@
      ],
      [
       "III",
-      "To’qima omili, to’qima tromboplastini"
+      "To‘qima omili, to‘qima tromboplastini"
      ],
      [
       "IV",
@@ -828,14 +828,14 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Protrombin aktivatorining hosil bo’lishi",
+    "text": "Protrombin aktivatorining hosil bölişi",
     "id": "ch37-s-30-protrombin-aktivatorining-hosil-bolishi",
     "bid": "ch37-u30"
    },
    {
     "type": "heading",
     "level": 3,
-    "text": "Tashqi (extrinsic) yo’l: to’qima shikasti",
+    "text": "Taşqi (extrinsic) yöl: töqima şikasti",
     "id": "ch37-s-31-tashqi-extrinsic-yol-toqima-shikasti",
     "bid": "ch37-u31"
    },
@@ -844,15 +844,15 @@
     "ordered": true,
     "items": [
      {
-      "text": "Shikastlangan to’qima **to’qima omili (III)** ni chiqaradi. Bu fosfolipidlar va proteolitik ferment vazifasini bajaruvchi lipoprotein kompleksidan iborat.",
+      "text": "Şikastlangan töqima **töqima omili (III)** ni çiqaradi. Bu fosfolipidlar va proteolitik ferment vazifasini bajaruvçi lipoprotein kompleksidan iborat.",
       "depth": 0
      },
      {
-      "text": "To’qima omili + **VII** + Ca²⁺ → **X → Xa**.",
+      "text": "Töqima omili + **VII** + Ca²⁺ → **X → Xa**.",
       "depth": 0
      },
      {
-      "text": "**Xa + V + fosfolipidlar** (to’qima yoki trombotsitdan) + Ca²⁺ → **protrombin aktivatori**. Haqiqiy proteaza Xa; V avval nofaol, uni trombin faollashtiradi (musbat teskari aloqa).",
+      "text": "**Xa + V + fosfolipidlar** (töqima yoki trombotsitdan) + Ca²⁺ → **protrombin aktivatori**. Haqiqiy proteaza Xa; V avval nofaol, uni trombin faollaştiradi (musbat teskari aloqa).",
       "depth": 0
      }
     ],
@@ -860,13 +860,13 @@
    },
    {
     "type": "paragraph",
-    "text": "Bu yo’l \"**portlovchi**\": og’ir shikastda **15 s** ichida laxta hosil bo’ladi. Tezligi to’qima omili hamda X, VII, V miqdori bilan cheklanadi.",
+    "text": "Bu yöl “**portlovçi**”: oğir şikastda **15 s** içida laxta hosil böladi. Tezligi töqima omili hamda X, VII, V miqdori bilan çeklanadi.",
     "bid": "ch37-u33"
    },
    {
     "type": "heading",
     "level": 3,
-    "text": "Ichki (intrinsic) yo’l: qonning o’zida",
+    "text": "Içki (intrinsic) yöl: qonning özida",
     "id": "ch37-s-34-ichki-intrinsic-yol-qonning-ozida",
     "bid": "ch37-u34"
    },
@@ -875,11 +875,11 @@
     "ordered": true,
     "items": [
      {
-      "text": "Qon shikasti yoki **kollagen** bilan kontakt (yoki shisha kabi ho’llanuvchi yuza) natijasida:",
+      "text": "Qon şikasti yoki **kollagen** bilan kontakt (yoki şişa kabi höllanuvçi yuza) natijasida:",
       "depth": 0
      },
      {
-      "text": "**XII → XIIa** (konformatsion o’zgarish);",
+      "text": "**XII → XIIa** (konformatsion özgariş);",
       "depth": 1
      },
      {
@@ -887,7 +887,7 @@
       "depth": 1
      },
      {
-      "text": "**XIIa → XI → XIa**. Bu qadam **HMW kininogen** talab qiladi va **prekallikrein** bilan tezlashadi.",
+      "text": "**XIIa → XI → XIa**. Bu qadam **HMW kininogen** talab qiladi va **prekallikrein** bilan tezlaşadi.",
       "depth": 0
      },
      {
@@ -899,15 +899,15 @@
       "depth": 0
      },
      {
-      "text": "VIII yetishmasa, klassik **gemofiliya** bo’ladi.",
+      "text": "VIII yetişmasa, klassik **gemofiliya** böladi.",
       "depth": 1
      },
      {
-      "text": "Trombotsit yetishmasa, **trombotsitopeniya** bo’ladi.",
+      "text": "Trombotsit yetişmasa, **trombotsitopeniya** böladi.",
       "depth": 1
      },
      {
-      "text": "**Xa + V + fosfolipidlar** → protrombin aktivatori, ya’ni tashqi yo’l bilan bir xil yakun.",
+      "text": "**Xa + V + fosfolipidlar** → protrombin aktivatori, ya’ni taşqi yöl bilan bir xil yakun.",
       "depth": 0
      }
     ],
@@ -915,7 +915,7 @@
    },
    {
     "type": "paragraph",
-    "text": "Ichki yo’l sekinroq: **1–6 min**.",
+    "text": "Içki yöl sekinroq: **1–6 min**.",
     "bid": "ch37-u36"
    },
    {
@@ -930,15 +930,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Ichki yo’lning birinchi ikki qadamidan tashqari **barcha** reaksiyalarga Ca²⁺ kerak.",
+      "text": "Içki yölning birinçi ikki qadamidan taşqari **barça** reaksiyalarga Ca²⁺ kerak.",
       "depth": 0
      },
      {
-      "text": "Tirik organizmda Ca²⁺ ivishga ta’sir qiladigan darajada kamdan-kam pasayadi.",
+      "text": "Tirik organizmda Ca²⁺ ivişga ta’sir qiladigan darajada kamdan-kam pasayadi.",
       "depth": 0
      },
      {
-      "text": "Tanadan olingan qonda esa **sitrat** (Ca²⁺ ni ionlanmagan holga keltiradi) yoki **oksalat** (cho’ktiradi) bilan ivish to’xtatiladi.",
+      "text": "Tanadan olingan qonda esa **sitrat** (Ca²⁺ ni ionlanmagan holga keltiradi) yoki **oksalat** (çöktiradi) bilan iviş töxtatiladi.",
       "depth": 0
      }
     ],
@@ -946,13 +946,13 @@
    },
    {
     "type": "paragraph",
-    "text": "Tomir yorilganda ikkala yo’l **bir vaqtda** ishlaydi va bir-biri bilan doimiy ta’sirlashadi.",
+    "text": "Tomir yorilganda ikkala yöl **bir vaqtda** işlaydi va bir-biri bilan doimiy ta’sirlaşadi.",
     "bid": "ch37-u39"
    },
    {
     "type": "heading",
     "level": 2,
-    "text": "Tomir ichidagi antikoagulyantlar",
+    "text": "Tomir içidagi antikoagulyantlar",
     "id": "ch37-s-40-tomir-ichidagi-antikoagulyantlar",
     "bid": "ch37-u40"
    },
@@ -966,19 +966,19 @@
     "ordered": true,
     "items": [
      {
-      "text": "Silliq yuza ichki yo’lning kontakt orqali faollashuviga yo’l qo’ymaydi.",
+      "text": "Silliq yuza içki yölning kontakt orqali faollaşuviga yöl qöymaydi.",
       "depth": 0
      },
      {
-      "text": "**Glikokaliks** qatlami ivish omillari va trombotsitlarni itaradi.",
+      "text": "**Glikokaliks** qatlami iviş omillari va trombotsitlarni itaradi.",
       "depth": 0
      },
      {
-      "text": "**Trombomodulin** trombinni bog’laydi. Trombomodulin-trombin kompleksi **protein C** ni faollashtiradi, u esa **Va va VIIIa** ni faolsizlantiradi.",
+      "text": "**Trombomodulin** trombinni boğlaydi. Trombomodulin-trombin kompleksi **protein C** ni faollaştiradi, u esa **Va va VIIIa** ni faolsizlantiradi.",
       "depth": 0
      },
      {
-      "text": "Sog’lom endoteliy **prostatsiklin (PGI₂)** va **NO** chiqaradi; ikkalasi vazodilatator va trombotsit agregatsiyasi ingibitori. Shikastlangan endoteliyda ularning hosil bo’lishi keskin kamayadi.",
+      "text": "Soğlom endoteliy **prostatsiklin (PGI₂)** va **NO** çiqaradi; ikkalasi vazodilatator va trombotsit agregatsiyasi ingibitori. Şikastlangan endoteliyda ularning hosil bölişi keskin kamayadi.",
       "depth": 0
      }
     ],
@@ -986,7 +986,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Trombinni olib tashlovchilar:**",
+    "text": "**Trombinni olib taşlovçilar:**",
     "bid": "ch37-u43"
    },
    {
@@ -994,11 +994,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Fibrin iplari** hosil bo’layotgan trombinning **85–90%** ini adsorbsiyalab, laxta tarqalishini cheklaydi.",
+      "text": "**Fibrin iplari** hosil bölayotgan trombinning **85–90%** ini adsorbsiyalab, laxta tarqalişini çeklaydi.",
       "depth": 0
      },
      {
-      "text": "**Antitrombin III** (antitrombin-geparin kofaktori) qolgan trombinni bloklaydi va 12–20 min ichida faolsizlantiradi.",
+      "text": "**Antitrombin III** (antitrombin-geparin kofaktori) qolgan trombinni bloklaydi va 12–20 min içida faolsizlantiradi.",
       "depth": 0
      }
     ],
@@ -1014,19 +1014,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Kuchli manfiy zaryadlangan konjugatsiyalangan polisaxarid. O’zi deyarli ta’sir qilmaydi, lekin antitrombin III bilan birikib, uning samarasini **100–1000 marta** oshiradi.",
+      "text": "Kuçli manfiy zaryadlangan konjugatsiyalangan polisaxarid. Özi deyarli ta’sir qilmaydi, lekin antitrombin III bilan birikib, uning samarasini **100–1000 marta** oşiradi.",
       "depth": 0
      },
      {
-      "text": "Kompleks **IXa–XIIa** omillarini ham olib tashlaydi.",
+      "text": "Kompleks **IXa–XIIa** omillarini ham olib taşlaydi.",
       "depth": 0
      },
      {
-      "text": "Ko’p hujayralar hosil qiladi, lekin eng ko’pi kapillyar atrofidagi **mast hujayralar**dan (ayniqsa o’pka va kamroq jigar) va bazofillardan keladi.",
+      "text": "Köp hujayralar hosil qiladi, lekin eng köpi kapillyar atrofidagi **mast hujayralar**dan (ayniqsa öpka va kamroq jigar) va bazofillardan keladi.",
       "depth": 0
      },
      {
-      "text": "O’pka va jigar kapillyarlari venoz embollarni ko’p qabul qiladi, shuning uchun geparin u yerda ayniqsa kerak.",
+      "text": "Öpka va jigar kapillyarlari venoz embollarni köp qabul qiladi, şuning uçun geparin u yerda ayniqsa kerak.",
       "depth": 0
      }
     ],
@@ -1044,19 +1044,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Plazminogen (profibrinolizin)** faollashib **plazmin (fibrinolizin)** ga aylanadi. Plazmin tripsinga o’xshash proteaza.",
+      "text": "**Plazminogen (profibrinolizin)** faollaşib **plazmin (fibrinolizin)** ga aylanadi. Plazmin tripsinga öxşaş proteaza.",
       "depth": 0
      },
      {
-      "text": "Plazmin fibrinni, shuningdek fibrinogen, V, VIII, protrombin va XII ni hazm qiladi. Ba’zan qon gipokoagulyatsiyasiga olib keladi.",
+      "text": "Plazmin fibrinni, şuningdek fibrinogen, V, VIII, protrombin va XII ni hazm qiladi. Ba’zan qon gipokoagulyatsiyasiga olib keladi.",
       "depth": 0
      },
      {
-      "text": "Laxtada ko’p plazminogen tutilgan bo’ladi. Shikastlangan to’qima va endoteliy **to’qima plazminogen aktivatori (t-PA)** ni sekin chiqaradi. Bir necha kundan keyin, qon to’xtagach, ortiqcha laxta eritiladi.",
+      "text": "Laxtada köp plazminogen tutilgan böladi. Şikastlangan töqima va endoteliy **töqima plazminogen aktivatori (t-PA)** ni sekin çiqaradi. Bir neça kundan keyin, qon töxtagaç, ortiqça laxta eritiladi.",
       "depth": 0
      },
      {
-      "text": "Eng muhim vazifasi millionlab mayda periferik tomirlardagi mikrolaxtalarni tozalash.",
+      "text": "Eng muhim vazifasi millionlab mayda periferik tomirlardagi mikrolaxtalarni tozalaş.",
       "depth": 0
      }
     ],
@@ -1065,14 +1065,14 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Ortiqcha qonash holatlari",
+    "text": "Ortiqça qonaş holatlari",
     "id": "ch37-s-49-ortiqcha-qonash-holatlari",
     "bid": "ch37-u49"
    },
    {
     "type": "heading",
     "level": 3,
-    "text": "K vitamini yetishmovchiligi",
+    "text": "K vitamini yetişmovçiligi",
     "id": "ch37-s-50-k-vitamini-yetishmovchiligi",
     "bid": "ch37-u50"
    },
@@ -1081,7 +1081,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Deyarli barcha ivish omillari **jigarda** hosil bo’ladi; gepatit, sirroz, o’tkir sariq atrofiya ivishni susaytiradi.",
+      "text": "Deyarli barça iviş omillari **jigarda** hosil böladi; gepatit, sirroz, ötkir sariq atrofiya ivişni susaytiradi.",
       "depth": 0
      },
      {
@@ -1089,27 +1089,27 @@
       "depth": 0
      },
      {
-      "text": "K vitamini jigar **karboksilazasi** uchun kofaktor; u **protrombin, VII, IX, X va protein C** dagi glutamat qoldiqlarini karboksillaydi.",
+      "text": "K vitamini jigar **karboksilazasi** uçun kofaktor; u **protrombin, VII, IX, X va protein C** dagi glutamat qoldiqlarini karboksillaydi.",
       "depth": 1
      },
      {
-      "text": "Bu jarayonda K vitamini oksidlanib nofaol bo’ladi.",
+      "text": "Bu jarayonda K vitamini oksidlanib nofaol böladi.",
       "depth": 1
      },
      {
-      "text": "**VKORC1** (K vitamini epoksid reduktaza) uni qayta faol shaklga keltiradi.",
+      "text": "**VKORC1** (K vitamini epoksid reduktaza) uni qayta faol şaklga keltiradi.",
       "depth": 1
      },
      {
-      "text": "K vitaminini **ichak bakteriyalari** doimiy sintezlaydi. Shuning uchun parhezdan yetishmovchilik kam bo’ladi, faqat ichak florasi hali shakllanmagan **yangi tug’ilganlarda** uchraydi.",
+      "text": "K vitaminini **içak bakteriyalari** doimiy sintezlaydi. Şuning uçun parhezdan yetişmovçilik kam böladi, faqat içak florasi hali şakllanmagan **yangi tuğilganlarda** uçraydi.",
       "depth": 0
      },
      {
-      "text": "Asosiy sabab **yog' so’rilishining buzilishi**, chunki K vitamini yog’da eriydi. Eng ko’p uchraydigan holat: safro ichakka tushmasligi (safro yo’li obstruksiyasi yoki jigar kasalligi).",
+      "text": "Asosiy sabab **yoğ sörilişining buzilişi**, çunki K vitamini yoğda eriydi. Eng köp uçraydigan holat: safro içakka tuşmasligi (safro yöli obstruksiyasi yoki jigar kasalligi).",
       "depth": 0
      },
      {
-      "text": "**Klinik:** jigar kasalligi yoki safro yo’li tiqilgan bemorga operatsiyadan **4–8 soat oldin** K vitamini yuboriladi. Jigar parenximasi kamida yarim normal ishlasa, bu yetarli.",
+      "text": "**Klinik:** jigar kasalligi yoki safro yöli tiqilgan bemorga operatsiyadan **4–8 soat oldin** K vitamini yuboriladi. Jigar parenximasi kamida yarim normal işlasa, bu yetarli.",
       "depth": 0
      }
     ],
@@ -1127,39 +1127,39 @@
     "ordered": false,
     "items": [
      {
-      "text": "Deyarli faqat erkaklarda uchraydi; X xromosoma bilan bog’langan retsessiv.",
+      "text": "Deyarli faqat erkaklarda uçraydi; X xromosoma bilan boğlangan retsessiv.",
       "depth": 0
      },
      {
-      "text": "**Gemofiliya A (klassik), 85%:** VIII omil yetishmasligi. AQShda ~**1/10 000** erkak.",
+      "text": "**Gemofiliya A (klassik), 85%:** VIII omil yetişmasligi. AQŞda ~**1/10 000** erkak.",
       "depth": 1
      },
      {
-      "text": "**Gemofiliya B, 15%:** IX omil yetishmasligi.",
+      "text": "**Gemofiliya B, 15%:** IX omil yetişmasligi.",
       "depth": 1
      },
      {
-      "text": "**Irsiylanish:**",
+      "text": "**Irsiylaniş:**",
       "depth": 0
      },
      {
-      "text": "Tashuvchi onaning o’g’illarida kasallik ehtimoli 50%, qizlarida tashuvchilik ehtimoli 50%.",
+      "text": "Taşuvçi onaning öğillarida kasallik ehtimoli 50%, qizlarida taşuvçilik ehtimoli 50%.",
       "depth": 1
      },
      {
-      "text": "Tashuvchi ayolda yengil qonash bo’lishi mumkin: X ning yo’qolishi (Terner sindromi) yoki lionizatsiya tufayli.",
+      "text": "Taşuvçi ayolda yengil qonaş bölişi mumkin: X ning yöqolişi (Terner sindromi) yoki lionizatsiya tufayli.",
       "depth": 1
      },
      {
-      "text": "Ayolda to’liq kasallik uchun ikkita nuqsonli X kerak: ona tashuvchi va ota gemofiliyali bo’lishi lozim.",
+      "text": "Ayolda töliq kasallik uçun ikkita nuqsonli X kerak: ona taşuvçi va ota gemofiliyali bölişi lozim.",
       "depth": 1
      },
      {
-      "text": "Bemorlarning ~**1/3** qismida oilaviy tarix yo’q, yangi mutatsiya.",
+      "text": "Bemorlarning ~**1/3** qismida oilaviy tarix yöq, yangi mutatsiya.",
       "depth": 1
      },
      {
-      "text": "Odatda shikastdan keyin qonaydi, ba’zan sezilmaydigan darajadagi shikastdan ham. Masalan, tish olingandan keyin qonash bir necha kun davom etishi mumkin.",
+      "text": "Odatda şikastdan keyin qonaydi, ba’zan sezilmaydigan darajadagi şikastdan ham. Masalan, tiş olingandan keyin qonaş bir neça kun davom etişi mumkin.",
       "depth": 0
      },
      {
@@ -1167,11 +1167,11 @@
       "depth": 0
      },
      {
-      "text": "kichik qismi (MM ~230 000) ichki yo’l uchun muhim, uning yetishmasligi klassik gemofiliya;",
+      "text": "kiçik qismi (MM ~230 000) içki yöl uçun muhim, uning yetişmasligi klassik gemofiliya;",
       "depth": 1
      },
      {
-      "text": "katta qismi (MM millionlab) yo’qolsa, **von Willebrand kasalligi**.",
+      "text": "katta qismi (MM millionlab) yöqolsa, **von Willebrand kasalligi**.",
       "depth": 1
      },
      {
@@ -1193,7 +1193,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Qonash ko’plab mayda venula va kapillyarlardan bo’ladi, hamma joyda nuqtali qon quyilishlar paydo bo’ladi: **trombotsitopenik purpura** (petexiyalar).",
+      "text": "Qonaş köplab mayda venula va kapillyarlardan böladi, hamma joyda nuqtali qon quyilişlar paydo böladi: **trombotsitopenik purpura** (petexiyalar).",
       "depth": 0
      },
      {
@@ -1201,15 +1201,15 @@
       "depth": 0
      },
      {
-      "text": "<30 000/µl: operatsiya yoki shikastdan keyin qonash xavfi; spontan qonash odatda shu chegaradan pastda;",
+      "text": "<30 000/µl: operatsiya yoki şikastdan keyin qonaş xavfi; spontan qonaş odatda şu çegaradan pastda;",
       "depth": 1
      },
      {
-      "text": "~10 000/µl: ko’pincha o’limga olib keladi.",
+      "text": "~10 000/µl: köpinça ölimga olib keladi.",
       "depth": 1
      },
      {
-      "text": "Laxta retraksiyasi bo’lmasa, trombotsitopeniyadan dalolat beradi.",
+      "text": "Laxta retraksiyasi bölmasa, trombotsitopeniyadan dalolat beradi.",
       "depth": 0
      },
      {
@@ -1217,11 +1217,11 @@
       "depth": 0
      },
      {
-      "text": "Ko’mikda ishlab chiqarish kamayishi: infeksiya yoki sepsis, ozuqa yetishmovchiligi, mielodisplaziya.",
+      "text": "Kömikda işlab çiqariş kamayişi: infeksiya yoki sepsis, ozuqa yetişmovçiligi, mielodisplaziya.",
       "depth": 1
      },
      {
-      "text": "Antitanalar bilan periferik parchalanish.",
+      "text": "Antitanalar bilan periferik parçalaniş.",
       "depth": 1
      },
      {
@@ -1229,19 +1229,19 @@
       "depth": 1
      },
      {
-      "text": "Tromblarda sarflanish.",
+      "text": "Tromblarda sarflaniş.",
       "depth": 1
      },
      {
-      "text": "Suyuqlik yoki massiv transfuziya bilan suyultirilish.",
+      "text": "Suyuqlik yoki massiv transfuziya bilan suyultiriliş.",
       "depth": 1
      },
      {
-      "text": "Ko’pchilikda **idiopatik trombotsitopeniya**: noma’lum sabab bilan trombotsitlarga qarshi antitanalar.",
+      "text": "Köpçilikda **idiopatik trombotsitopeniya**: noma’lum sabab bilan trombotsitlarga qarşi antitanalar.",
       "depth": 0
      },
      {
-      "text": "**Davo:** yangi to’liq qon quyish 1–4 kunga yordam beradi; **splenektomiya** ba’zan deyarli to’liq davolaydi.",
+      "text": "**Davo:** yangi töliq qon quyiş 1–4 kunga yordam beradi; **splenektomiya** ba’zan deyarli töliq davolaydi.",
       "depth": 0
      }
     ],
@@ -1259,15 +1259,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Tromb** tomir ichidagi patologik laxta. **Embol** uzilib oqayotgan laxta.",
+      "text": "**Tromb** tomir içidagi patologik laxta. **Embol** uzilib oqayotgan laxta.",
       "depth": 0
      },
      {
-      "text": "Chap yurak yoki arteriyadan kelgan embol miya, buyrak va boshqa a’zolarga boradi.",
+      "text": "Çap yurak yoki arteriyadan kelgan embol miya, buyrak va boşqa a’zolarga boradi.",
       "depth": 1
      },
      {
-      "text": "Venoz yoki o’ng yurakdan kelgani o’pkaga boradi (**o’pka emboliyasi**).",
+      "text": "Venoz yoki öng yurakdan kelgani öpkaga boradi (**öpka emboliyasi**).",
       "depth": 1
      },
      {
@@ -1275,51 +1275,51 @@
       "depth": 0
      },
      {
-      "text": "G’adir-budur endoteliy: arterioskleroz, infeksiya, travma.",
+      "text": "Ğadir-budur endoteliy: arterioskleroz, infeksiya, travma.",
       "depth": 1
      },
      {
-      "text": "Juda sekin qon oqimi: doimiy hosil bo’ladigan oz trombin to’planib qoladi.",
+      "text": "Juda sekin qon oqimi: doimiy hosil böladigan oz trombin töplanib qoladi.",
       "depth": 1
      },
      {
-      "text": "**t-PA (genetik muhandislik mahsuloti):** kateter orqali yuborilib, trombni eritadi. Koronar arteriya okklyuziyasidan keyin **1–2 soat** ichida qo’llansa, yurak ko’pincha jiddiy shikastdan saqlanadi.",
+      "text": "**t-PA (genetik muhandislik mahsuloti):** kateter orqali yuborilib, trombni eritadi. Koronar arteriya okklyuziyasidan keyin **1–2 soat** içida qöllansa, yurak köpinça jiddiy şikastdan saqlanadi.",
       "depth": 0
      },
      {
-      "text": "**Son venasi trombozi va massiv o’pka emboliyasi:**",
+      "text": "**Son venasi trombozi va massiv öpka emboliyasi:**",
       "depth": 0
      },
      {
-      "text": "Yotoq rejimi va tizzalar ostiga yostiq qo’yish oyoq venalarida staz chaqiradi.",
+      "text": "Yotoq rejimi va tizzalar ostiga yostiq qöyiş oyoq venalarida staz çaqiradi.",
       "depth": 1
      },
      {
-      "text": "Laxta venoz oqim yo’nalishida o’sadi, ba’zan yonbosh venasi va pastki kovak venagacha boradi.",
+      "text": "Laxta venoz oqim yönalişida ösadi, ba’zan yonboş venasi va pastki kovak venagaça boradi.",
       "depth": 1
      },
      {
-      "text": "~**10%** holatda katta qismi uzilib, o’pka arteriyalarini to’sadi.",
+      "text": "~**10%** holatda katta qismi uzilib, öpka arteriyalarini tösadi.",
       "depth": 1
      },
      {
-      "text": "Ikkala o’pka arteriyasi to’silsa, darhol o’lim. Bittasi to’silsa, laxta o’sib soatlar–kunlarda o’ldirishi mumkin. t-PA hayot saqlab qolishi mumkin.",
+      "text": "Ikkala öpka arteriyasi tösilsa, darhol ölim. Bittasi tösilsa, laxta ösib soatlar–kunlarda öldirişi mumkin. t-PA hayot saqlab qolişi mumkin.",
       "depth": 1
      },
      {
-      "text": "**DIC (tarqoq tomir ichi ivishi):**",
+      "text": "**DIC (tarqoq tomir içi ivişi):**",
       "depth": 0
      },
      {
-      "text": "Ko’p shikastlangan yoki o’layotgan to’qima ko’p to’qima omili chiqaradi; septitsemiyada esa endotoksinlar ivishni faollashtiradi.",
+      "text": "Köp şikastlangan yoki ölayotgan töqima köp töqima omili çiqaradi; septitsemiyada esa endotoksinlar ivişni faollaştiradi.",
       "depth": 1
      },
      {
-      "text": "Natija: mayda periferik tomirlarni to’sadigan ko’p sonli mayda laxtalar, to’qimaga O₂ yetkazish kamayadi va shok kuchayadi. **Septik shok o’limi 35–50%**.",
+      "text": "Natija: mayda periferik tomirlarni tösadigan köp sonli mayda laxtalar, töqimaga O₂ yetkaziş kamayadi va şok kuçayadi. **Septik şok ölimi 35–50%**.",
       "depth": 1
      },
      {
-      "text": "Paradoks: omillar sarflanib ketadi, shuning uchun bemor **qonay** boshlaydi.",
+      "text": "Paradoks: omillar sarflanib ketadi, şuning uçun bemor **qonay** boşlaydi.",
       "depth": 1
      }
     ],
@@ -1343,12 +1343,12 @@
      [
       "Yuborilishi",
       "vena ichiga",
-      "og’iz orqali"
+      "og‘iz orqali"
      ],
      [
       "Mexanizm",
       "antitrombin III ni kuchaytiradi",
-      "**VKORC1** ni tormozlaydi; K vitamini faol shaklga qaytmaydi, protrombin, VII, IX, X karboksillanmaydi va nofaol bo’ladi"
+      "**VKORC1** ni tormozlaydi; K vitamini faol shaklga qaytmaydi, protrombin, VII, IX, X karboksillanmaydi va nofaol bo‘ladi"
      ],
      [
       "Doza va boshlanish",
@@ -1358,7 +1358,7 @@
      [
       "Davomiyligi",
       "1,5–4 soat; **geparinaza** parchalaydi",
-      "to’xtatilgach normal ivish 1–3 kunda qaytadi"
+      "to‘xtatilgach normal ivish 1–3 kunda qaytadi"
      ]
     ],
     "bid": "ch37-u59"
@@ -1366,7 +1366,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Tanadan tashqarida ivishni oldini olish",
+    "text": "Tanadan taşqarida ivişni oldini oliş",
     "id": "ch37-s-60-tanadan-tashqarida-ivishni-oldini-olish",
     "bid": "ch37-u60"
    },
@@ -1375,23 +1375,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "Oddiy shisha probirkada qon ~**6 min** da iviydi. **Silikonlangan** idishda ≥1 soat ivimaydi, chunki XII va trombotsitlarning kontakt faollashuvi bo’lmaydi.",
+      "text": "Oddiy şişa probirkada qon ~**6 min** da iviydi. **Silikonlangan** idişda ≥1 soat ivimaydi, çunki XII va trombotsitlarning kontakt faollaşuvi bölmaydi.",
       "depth": 0
      },
      {
-      "text": "**Geparin** yurak-o’pka apparati va sun’iy buyrakda ishlatiladi.",
+      "text": "**Geparin** yurak-öpka apparati va sun’iy buyrakda işlatiladi.",
       "depth": 0
      },
      {
-      "text": "**Oksalat** kalsiy oksalatni cho’ktiradi, lekin organizm uchun zaharli.",
+      "text": "**Oksalat** kalsiy oksalatni çöktiradi, lekin organizm uçun zaharli.",
       "depth": 0
      },
      {
-      "text": "**Sitrat** (natriy, ammoniy yoki kaliy tuzi) Ca²⁺ ni ionlanmagan holga keltiradi va xavfsizroq. Jigar uni bir necha daqiqada glyukozaga aylantiradi yoki yoqadi, shuning uchun 500 ml sitratli qonni bir necha daqiqada quyish mumkin.",
+      "text": "**Sitrat** (natriy, ammoniy yoki kaliy tuzi) Ca²⁺ ni ionlanmagan holga keltiradi va xavfsizroq. Jigar uni bir neça daqiqada glyukozaga aylantiradi yoki yoqadi, şuning uçun 500 ml sitratli qonni bir neça daqiqada quyiş mumkin.",
       "depth": 0
      },
      {
-      "text": "**Xavf:** jigar shikastlangan bo’lsa yoki sitratli qon juda tez (bir daqiqa ichida) quyilsa, Ca²⁺ keskin tushadi va **tetaniya, tutqanoq bilan o’lim** yuz berishi mumkin.",
+      "text": "**Xavf:** jigar şikastlangan bölsa yoki sitratli qon juda tez (bir daqiqa içida) quyilsa, Ca²⁺ keskin tuşadi va **tetaniya, tutqanoq bilan ölim** yuz berişi mumkin.",
       "depth": 0
      }
     ],
@@ -1400,7 +1400,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Ivish testlari",
+    "text": "Iviş testlari",
     "id": "ch37-s-62-ivish-testlari",
     "bid": "ch37-u62"
    },
@@ -1414,28 +1414,28 @@
     "rows": [
      [
       "**Qonash vaqti**",
-      "barmoq uchi yoki quloq yumshog’ini teshish",
-      "1–6 min. Ko’p omillar yetishmasligida uzayadi, ayniqsa **trombotsit** kamligida"
+      "barmoq uchi yoki quloq yumshog‘ini teshish",
+      "1–6 min. Ko‘p omillar yetishmasligida uzayadi, ayniqsa **trombotsit** kamligida"
      ],
      [
       "**Ivish vaqti**",
       "toza shisha probirkani har ~30 s da qiyshaytirish",
-      "6–10 min. Usulga qarab juda o’zgaradi, shuning uchun ko’p klinikalarda ishlatilmaydi"
+      "6–10 min. Usulga qarab juda o‘zgaradi, shuning uchun ko‘p klinikalarda ishlatilmaydi"
      ],
      [
       "**Protrombin vaqti (PT)**",
-      "oksalatlangan qonga ortiqcha Ca²⁺ va to’qima omili qo’shiladi (tashqi yo’l); vaqt asosan protrombin konsentratsiyasini aks ettiradi",
+      "oksalatlangan qonga ortiqcha Ca²⁺ va to‘qima omili qo‘shiladi (tashqi yo‘l); vaqt asosan protrombin konsentratsiyasini aks ettiradi",
       "~**12 s**"
      ],
      [
       "**INR**",
-      "**INR = (PTtest / PTnormal)^ISI**; ISI (1,0–2,0) to’qima omili partiyasining faolligini standartlaydi",
+      "**INR = (PTtest / PTnormal)^ISI**; ISI (1,0–2,0) to‘qima omili partiyasining faolligini standartlaydi",
       "norma **0,9–1,3**; varfarinda **2,0–3,0**; 4–5 qonash xavfi; ~0,5 tromb xavfi"
      ],
      [
       "Boshqa omillar",
-      "tekshirilayotgan omildan boshqa hammasi ortiqcha qo’shiladi",
-      "vaqt uzaysa, o’sha omil yetishmaydi"
+      "tekshirilayotgan omildan boshqa hammasi ortiqcha qo‘shiladi",
+      "vaqt uzaysa, o‘sha omil yetishmaydi"
      ]
     ],
     "bid": "ch37-u63"
@@ -1452,11 +1452,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Petexiya va purpura** trombotsit muammosini, **chuqur va uzoq qonash** (bo’g’imlar, tish olingandan keyin) omil yetishmovchiligini (gemofiliya) ko’rsatadi.",
+      "text": "**Petexiya va purpura** trombotsit muammosini, **çuqur va uzoq qonaş** (böğimlar, tiş olingandan keyin) omil yetişmovçiligini (gemofiliya) körsatadi.",
       "depth": 0
      },
      {
-      "text": "**Jigar kasalligi va safro yo’li tiqilishi** K vitamini yetishmasligiga olib keladi, operatsiyadan oldin K vitamini beriladi.",
+      "text": "**Jigar kasalligi va safro yöli tiqilişi** K vitamini yetişmasligiga olib keladi, operatsiyadan oldin K vitamini beriladi.",
       "depth": 0
      },
      {
@@ -1464,7 +1464,7 @@
       "depth": 0
      },
      {
-      "text": "**Geparin** tez ta’sir qiladi; varfarin bir necha kunda ta’sir qiladi.",
+      "text": "**Geparin** tez ta’sir qiladi; varfarin bir neça kunda ta’sir qiladi.",
       "depth": 0
      },
      {
@@ -1472,15 +1472,15 @@
       "depth": 0
      },
      {
-      "text": "**Yotoq bemorlarida** chuqur vena trombozi va o’pka emboliyasi xavfi bor.",
+      "text": "**Yotoq bemorlarida** çuqur vena trombozi va öpka emboliyasi xavfi bor.",
       "depth": 0
      },
      {
-      "text": "**DIC** bir vaqtda tromb va qonash beradi.",
+      "text": "**DIC** bir vaqtda tromb va qonaş beradi.",
       "depth": 0
      },
      {
-      "text": "**Massiv sitratli transfuziya** gipokalsiemiya va tetaniya xavfini tug’diradi.",
+      "text": "**Massiv sitratli transfuziya** gipokalsiemiya va tetaniya xavfini tuğdiradi.",
       "depth": 0
      }
     ],
@@ -1489,7 +1489,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Bog’liqlik",
+    "text": "Boğliqlik",
     "id": "ch37-s-66-bogliqlik",
     "bid": "ch37-u66"
    },
@@ -1510,7 +1510,7 @@
       "depth": 0
      },
      {
-      "text": "**24-bob:** septik shok.",
+      "text": "**24-bob:** septik şok.",
       "depth": 0
      },
      {
@@ -1518,11 +1518,11 @@
       "depth": 0
      },
      {
-      "text": "**38–39-boblar:** o’pka emboliyasi.",
+      "text": "**38–39-boblar:** öpka emboliyasi.",
       "depth": 0
      },
      {
-      "text": "**71-bob:** jigar, safro, K vitamini so’rilishi.",
+      "text": "**71-bob:** jigar, safro, K vitamini sörilişi.",
       "depth": 0
      },
      {
@@ -2401,9 +2401,9 @@
  "glossary": [
   {
    "id": "ch37-t-tomir-torayishi",
-   "termUz": "Tomir torayishi",
+   "termUz": "Tomir torayişi",
    "original": null,
-   "contextUz": "Tomir torayishi Trombotsit tiqini Qon laxtasi (koagulyatsiya) Fibroz to’qima o’sib, teshikni doimiy yopishi",
+   "contextUz": "Tomir torayişi Trombotsit tiqini Qon laxtasi (koagulyatsiya) Fibroz töqima ösib, teşikni doimiy yopişi",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2413,7 +2413,7 @@
    "id": "ch37-t-trombotsit-tiqini",
    "termUz": "Trombotsit tiqini",
    "original": null,
-   "contextUz": "Tomir torayishi Trombotsit tiqini Qon laxtasi (koagulyatsiya) Fibroz to’qima o’sib, teshikni doimiy yopishi",
+   "contextUz": "Tomir torayişi Trombotsit tiqini Qon laxtasi (koagulyatsiya) Fibroz töqima ösib, teşikni doimiy yopişi",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2423,7 +2423,7 @@
    "id": "ch37-t-qon-laxtasi",
    "termUz": "Qon laxtasi",
    "original": "koagulyatsiya",
-   "contextUz": "Tomir torayishi Trombotsit tiqini Qon laxtasi (koagulyatsiya) Fibroz to’qima o’sib, teshikni doimiy yopishi",
+   "contextUz": "Tomir torayişi Trombotsit tiqini Qon laxtasi (koagulyatsiya) Fibroz töqima ösib, teşikni doimiy yopişi",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2431,9 +2431,9 @@
   },
   {
    "id": "ch37-t-fibroz-toqima",
-   "termUz": "Fibroz to’qima",
+   "termUz": "Fibroz töqima",
    "original": null,
-   "contextUz": "Tomir torayishi Trombotsit tiqini Qon laxtasi (koagulyatsiya) Fibroz to’qima o’sib, teshikni doimiy yopishi",
+   "contextUz": "Tomir torayişi Trombotsit tiqini Qon laxtasi (koagulyatsiya) Fibroz töqima ösib, teşikni doimiy yopişi",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2443,7 +2443,7 @@
    "id": "ch37-t-antikoagulyantlar-ustun",
    "termUz": "antikoagulyantlar ustun",
    "original": null,
-   "contextUz": "Qon tomirda aylanayotganda antikoagulyantlar ustun bo’ladi.",
+   "contextUz": "Qon tomirda aylanayotganda antikoagulyantlar ustun böladi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2453,7 +2453,7 @@
    "id": "ch37-t-prokoagulyantlar",
    "termUz": "prokoagulyantlar",
    "original": null,
-   "contextUz": "Tomir shikastlanganda prokoagulyantlar ustunlik qiladi va bu muvozanat laxta hosil bo’lishini belgilaydi.",
+   "contextUz": "Tomir şikastlanganda prokoagulyantlar ustunlik qiladi va bu muvozanat laxta hosil bölişini belgilaydi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2473,7 +2473,7 @@
    "id": "ch37-t-tromboksan-a",
    "termUz": "tromboksan A₂",
    "original": null,
-   "contextUz": "Mayda tomirlarda trombotsitlardan chiqqan tromboksan A₂ torayishning katta qismini beradi.",
+   "contextUz": "Mayda tomirlarda trombotsitlardan çiqqan tromboksan A₂ torayişning katta qismini beradi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2481,9 +2481,9 @@
   },
   {
    "id": "ch37-t-trombotsit-tuzilishi",
-   "termUz": "Trombotsit tuzilishi",
+   "termUz": "Trombotsit tuzilişi",
    "original": null,
-   "contextUz": "Trombotsit tuzilishi:",
+   "contextUz": "Trombotsit tuzilişi:",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2493,7 +2493,7 @@
    "id": "ch37-t-megakariotsitlar",
    "termUz": "megakariotsitlar",
    "original": null,
-   "contextUz": "Diametri 1–4 µm bo’lgan disk, megakariotsitlardan hosil bo’ladi.",
+   "contextUz": "Diametri 1–4 µm bölgan disk, megakariotsitlardan hosil böladi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2503,7 +2503,7 @@
    "id": "ch37-t-trombostenin",
    "termUz": "trombostenin",
    "original": "qisqaruvchi oqsillar",
-   "contextUz": "Tarkibida: aktin, miozin va trombostenin (qisqaruvchi oqsillar); EPR va Golji qoldiqlari, ularda fermentlar va ko’p Ca²⁺ zaxirasi; mitoxondriyalar (ATP, ADP); prostaglandin sintez fermentlari; fibrin stabillovchi omil; endoteliy, silliq mushak va fibroblastlarni o’stiruvchi o’sish omili.",
+   "contextUz": "Tarkibida: aktin, miozin va trombostenin (qisqaruvçi oqsillar); EPR va Golji qoldiqlari, ularda fermentlar va köp Ca²⁺ zaxirasi; mitoxondriyalar (ATP, ADP); prostaglandin sintez fermentlari; fibrin stabillovçi omil; endoteliy, silliq muşak va fibroblastlarni östiruvçi ösiş omili.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2513,7 +2513,7 @@
    "id": "ch37-t-ca",
    "termUz": "Ca²⁺",
    "original": null,
-   "contextUz": "Tarkibida: aktin, miozin va trombostenin (qisqaruvchi oqsillar); EPR va Golji qoldiqlari, ularda fermentlar va ko’p Ca²⁺ zaxirasi; mitoxondriyalar (ATP, ADP); prostaglandin sintez fermentlari; fibrin stabillovchi omil; endoteliy, silliq mushak va fibroblastlarni o’stiruvchi o’sish omili.",
+   "contextUz": "Tarkibida: aktin, miozin va trombostenin (qisqaruvçi oqsillar); EPR va Golji qoldiqlari, ularda fermentlar va köp Ca²⁺ zaxirasi; mitoxondriyalar (ATP, ADP); prostaglandin sintez fermentlari; fibrin stabillovçi omil; endoteliy, silliq muşak va fibroblastlarni östiruvçi ösiş omili.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2521,9 +2521,9 @@
   },
   {
    "id": "ch37-t-fibrin-stabillovchi-omil",
-   "termUz": "fibrin stabillovchi omil",
+   "termUz": "fibrin stabillovçi omil",
    "original": null,
-   "contextUz": "Tarkibida: aktin, miozin va trombostenin (qisqaruvchi oqsillar); EPR va Golji qoldiqlari, ularda fermentlar va ko’p Ca²⁺ zaxirasi; mitoxondriyalar (ATP, ADP); prostaglandin sintez fermentlari; fibrin stabillovchi omil; endoteliy, silliq mushak va fibroblastlarni o’stiruvchi o’sish omili.",
+   "contextUz": "Tarkibida: aktin, miozin va trombostenin (qisqaruvçi oqsillar); EPR va Golji qoldiqlari, ularda fermentlar va köp Ca²⁺ zaxirasi; mitoxondriyalar (ATP, ADP); prostaglandin sintez fermentlari; fibrin stabillovçi omil; endoteliy, silliq muşak va fibroblastlarni östiruvçi ösiş omili.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2531,9 +2531,9 @@
   },
   {
    "id": "ch37-t-osish-omili",
-   "termUz": "o’sish omili",
+   "termUz": "ösiş omili",
    "original": null,
-   "contextUz": "Tarkibida: aktin, miozin va trombostenin (qisqaruvchi oqsillar); EPR va Golji qoldiqlari, ularda fermentlar va ko’p Ca²⁺ zaxirasi; mitoxondriyalar (ATP, ADP); prostaglandin sintez fermentlari; fibrin stabillovchi omil; endoteliy, silliq mushak va fibroblastlarni o’stiruvchi o’sish omili.",
+   "contextUz": "Tarkibida: aktin, miozin va trombostenin (qisqaruvçi oqsillar); EPR va Golji qoldiqlari, ularda fermentlar va köp Ca²⁺ zaxirasi; mitoxondriyalar (ATP, ADP); prostaglandin sintez fermentlari; fibrin stabillovçi omil; endoteliy, silliq muşak va fibroblastlarni östiruvçi ösiş omili.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2543,7 +2543,7 @@
    "id": "ch37-t-glikoprotein-qoplami",
    "termUz": "glikoprotein qoplami",
    "original": null,
-   "contextUz": "Membranasidagi glikoprotein qoplami normal endoteliydan itariladi, lekin shikastlangan endoteliy va kollagenga yopishadi.",
+   "contextUz": "Membranasidagi glikoprotein qoplami normal endoteliydan itariladi, lekin şikastlangan endoteliy va kollagenga yopişadi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2553,7 +2553,7 @@
    "id": "ch37-t-kollagen",
    "termUz": "kollagen",
    "original": null,
-   "contextUz": "Membranasidagi glikoprotein qoplami normal endoteliydan itariladi, lekin shikastlangan endoteliy va kollagenga yopishadi.",
+   "contextUz": "Membranasidagi glikoprotein qoplami normal endoteliydan itariladi, lekin şikastlangan endoteliy va kollagenga yopişadi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2563,7 +2563,7 @@
    "id": "ch37-t-fosfolipidlar",
    "termUz": "fosfolipidlar",
    "original": null,
-   "contextUz": "Membranadagi fosfolipidlar ivishning bir necha bosqichini faollashtiradi.",
+   "contextUz": "Membranadagi fosfolipidlar ivişning bir neça bosqiçini faollaştiradi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2583,7 +2583,7 @@
    "id": "ch37-t-taloqda",
    "termUz": "taloqda",
    "original": null,
-   "contextUz": "Ko’pi makrofaglar tomonidan, yarmidan ko’pi taloqda, olib tashlanadi.",
+   "contextUz": "Köpi makrofaglar tomonidan, yarmidan köpi taloqda, olib taşlanadi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2591,9 +2591,9 @@
   },
   {
    "id": "ch37-t-tiqin-hosil-bolish-mexanizmi",
-   "termUz": "Tiqin hosil bo’lish mexanizmi",
+   "termUz": "Tiqin hosil böliş mexanizmi",
    "original": null,
-   "contextUz": "Tiqin hosil bo’lish mexanizmi:",
+   "contextUz": "Tiqin hosil böliş mexanizmi:",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2603,7 +2603,7 @@
    "id": "ch37-t-von-willebrand-omili-vwf",
    "termUz": "von Willebrand omili (vWF)",
    "original": null,
-   "contextUz": "Kollagenga va plazmadan sizib chiqqan von Willebrand omili (vWF) ga yopishadi; vWF kollagen bilan GpIb retseptori o’rtasida ko’prik bo’ladi.",
+   "contextUz": "Kollagenga va plazmadan sizib çiqqan von Willebrand omili (vWF) ga yopişadi; vWF kollagen bilan GpIb retseptori örtasida köprik böladi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2613,7 +2613,7 @@
    "id": "ch37-t-gpib",
    "termUz": "GpIb",
    "original": null,
-   "contextUz": "Kollagenga va plazmadan sizib chiqqan von Willebrand omili (vWF) ga yopishadi; vWF kollagen bilan GpIb retseptori o’rtasida ko’prik bo’ladi.",
+   "contextUz": "Kollagenga va plazmadan sizib çiqqan von Willebrand omili (vWF) ga yopişadi; vWF kollagen bilan GpIb retseptori örtasida köprik böladi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2623,7 +2623,7 @@
    "id": "ch37-t-adp",
    "termUz": "ADP",
    "original": null,
-   "contextUz": "ADP, trombotsitni faollashtiruvchi omil (PAF) va tromboksan A₂ ajraladi.",
+   "contextUz": "ADP, trombotsitni faollaştiruvçi omil (PAF) va tromboksan A₂ ajraladi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2631,9 +2631,9 @@
   },
   {
    "id": "ch37-t-trombotsitni-faollashtiruvchi-omil-paf",
-   "termUz": "trombotsitni faollashtiruvchi omil (PAF)",
+   "termUz": "trombotsitni faollaştiruvçi omil (PAF)",
    "original": null,
-   "contextUz": "ADP, trombotsitni faollashtiruvchi omil (PAF) va tromboksan A₂ ajraladi.",
+   "contextUz": "ADP, trombotsitni faollaştiruvçi omil (PAF) va tromboksan A₂ ajraladi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2643,7 +2643,7 @@
    "id": "ch37-t-ahamiyati",
    "termUz": "Ahamiyati",
    "original": null,
-   "contextUz": "Ahamiyati: kuniga minglab mayda tomir yorilishlari shu yo’l bilan yopiladi; trombotsitlar endoteliy bilan qo’shilib, membranani to’ldiradi.",
+   "contextUz": "Ahamiyati: kuniga minglab mayda tomir yorilişlari şu yöl bilan yopiladi; trombotsitlar endoteliy bilan qöşilib, membranani töldiradi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2653,7 +2653,7 @@
    "id": "ch37-t-petexiyalar",
    "termUz": "petexiyalar",
    "original": null,
-   "contextUz": "Trombotsit kam bo’lsa, teri ostida va ichki a’zolarda minglab mayda qon quyilishlar (petexiyalar) paydo bo’ladi.",
+   "contextUz": "Trombotsit kam bölsa, teri ostida va içki a’zolarda minglab mayda qon quyilişlar (petexiyalar) paydo böladi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2663,7 +2663,7 @@
    "id": "ch37-t-fibroz-organizatsiya",
    "termUz": "fibroz organizatsiya",
    "original": null,
-   "contextUz": "fibroz organizatsiya: kichik teshikda, trombotsit o’sish omili yordamida; erish: kerak bo’lmagan joyda, plazmin orqali.",
+   "contextUz": "fibroz organizatsiya: kiçik teşikda, trombotsit ösiş omili yordamida; eriş: kerak bölmagan joyda, plazmin orqali.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2671,9 +2671,9 @@
   },
   {
    "id": "ch37-t-erish",
-   "termUz": "erish",
+   "termUz": "eriş",
    "original": null,
-   "contextUz": "fibroz organizatsiya: kichik teshikda, trombotsit o’sish omili yordamida; erish: kerak bo’lmagan joyda, plazmin orqali.",
+   "contextUz": "fibroz organizatsiya: kiçik teşikda, trombotsit ösiş omili yordamida; eriş: kerak bölmagan joyda, plazmin orqali.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2683,7 +2683,7 @@
    "id": "ch37-t-50-dan-ortiq",
    "termUz": "50 dan ortiq",
    "original": null,
-   "contextUz": "Qonda va to’qimalarda ivishga ta’sir qiluvchi 50 dan ortiq modda bor.",
+   "contextUz": "Qonda va töqimalarda ivişga ta’sir qiluvçi 50 dan ortiq modda bor.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2693,7 +2693,7 @@
    "id": "ch37-t-protrombin-aktivatori",
    "termUz": "protrombin aktivatori",
    "original": null,
-   "contextUz": "Uch asosiy qadam: 12 dan ortiq omil kaskadi protrombin aktivatorini hosil qiladi.",
+   "contextUz": "Uç asosiy qadam: 12 dan ortiq omil kaskadi protrombin aktivatorini hosil qiladi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2703,7 +2703,7 @@
    "id": "ch37-t-trombin",
    "termUz": "trombin",
    "original": null,
-   "contextUz": "Protrombin aktivatori Ca²⁺ ishtirokida protrombinni trombinga aylantiradi.",
+   "contextUz": "Protrombin aktivatori Ca²⁺ iştirokida protrombinni trombinga aylantiradi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2713,7 +2713,7 @@
    "id": "ch37-t-fibrinogen",
    "termUz": "fibrinogen",
    "original": null,
-   "contextUz": "Trombin fibrinogenni fibrin iplariga aylantiradi (10–15 s ichida).",
+   "contextUz": "Trombin fibrinogenni fibrin iplariga aylantiradi (10–15 s içida).",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2723,7 +2723,7 @@
    "id": "ch37-t-fibrin",
    "termUz": "fibrin",
    "original": null,
-   "contextUz": "Trombin fibrinogenni fibrin iplariga aylantiradi (10–15 s ichida).",
+   "contextUz": "Trombin fibrinogenni fibrin iplariga aylantiradi (10–15 s içida).",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2731,9 +2731,9 @@
   },
   {
    "id": "ch37-t-tezlikni-cheklovchi-qadam",
-   "termUz": "Tezlikni cheklovchi qadam",
+   "termUz": "Tezlikni çeklovçi qadam",
    "original": null,
-   "contextUz": "Tezlikni cheklovchi qadam protrombin aktivatorining hosil bo’lishi; keyingi bosqichlar tez boradi.",
+   "contextUz": "Tezlikni çeklovçi qadam protrombin aktivatorining hosil bölişi; keyingi bosqiçlar tez boradi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2743,7 +2743,7 @@
    "id": "ch37-t-protrombin",
    "termUz": "Protrombin",
    "original": null,
-   "contextUz": "Modda Xususiyati Protrombin α₂-globulin, MM 68 700, plazmada ~15 mg/dl, jigarda hosil bo’ladi.",
+   "contextUz": "Modda Xususiyati Protrombin α₂-globulin, MM 68 700, plazmada ~15 mg/dl, jigarda hosil böladi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2753,7 +2753,7 @@
    "id": "ch37-t-k-vitamini",
    "termUz": "K vitamini",
    "original": null,
-   "contextUz": "Faollashishi uchun K vitamini kerak Trombin MM 33 700, kuchsiz proteolitik ferment Fibrinogen MM ~340 000, plazmada 100–700 mg/dl, jigarda hosil bo’ladi.",
+   "contextUz": "Faollaşişi uçun K vitamini kerak Trombin MM 33 700, kuçsiz proteolitik ferment Fibrinogen MM ~340 000, plazmada 100–700 mg/dl, jigarda hosil böladi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2761,9 +2761,9 @@
   },
   {
    "id": "ch37-t-fibrin-hosil-bolishi",
-   "termUz": "Fibrin hosil bo’lishi",
+   "termUz": "Fibrin hosil bölişi",
    "original": null,
-   "contextUz": "Fibrin hosil bo’lishi:",
+   "contextUz": "Fibrin hosil bölişi:",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2771,9 +2771,9 @@
   },
   {
    "id": "ch37-t-4-ta-kichik-peptid",
-   "termUz": "4 ta kichik peptid",
+   "termUz": "4 ta kiçik peptid",
    "original": null,
-   "contextUz": "Trombin har bir fibrinogendan 4 ta kichik peptidni ajratadi, fibrin monomeri hosil bo’ladi.",
+   "contextUz": "Trombin har bir fibrinogendan 4 ta kiçik peptidni ajratadi, fibrin monomeri hosil böladi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2783,7 +2783,7 @@
    "id": "ch37-t-fibrin-monomeri",
    "termUz": "fibrin monomeri",
    "original": null,
-   "contextUz": "Trombin har bir fibrinogendan 4 ta kichik peptidni ajratadi, fibrin monomeri hosil bo’ladi.",
+   "contextUz": "Trombin har bir fibrinogendan 4 ta kiçik peptidni ajratadi, fibrin monomeri hosil böladi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2791,9 +2791,9 @@
   },
   {
    "id": "ch37-t-fibrin-stabillovchi-omil-xiii",
-   "termUz": "Fibrin stabillovchi omil (XIII)",
+   "termUz": "Fibrin stabillovçi omil (XIII)",
    "original": null,
-   "contextUz": "Fibrin stabillovchi omil (XIII) plazmadan va trombotsitlardan keladi.",
+   "contextUz": "Fibrin stabillovçi omil (XIII) plazmadan va trombotsitlardan keladi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2801,9 +2801,9 @@
   },
   {
    "id": "ch37-t-trombin-faollashtiradi",
-   "termUz": "trombin faollashtiradi",
+   "termUz": "trombin faollaştiradi",
    "original": null,
-   "contextUz": "Uni trombin faollashtiradi.",
+   "contextUz": "Uni trombin faollaştiradi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2811,9 +2811,9 @@
   },
   {
    "id": "ch37-t-kovalent-kondalang-boglar",
-   "termUz": "kovalent ko’ndalang bog’lar",
+   "termUz": "kovalent köndalang boğlar",
    "original": null,
-   "contextUz": "U monomerlar va qo’shni iplar o’rtasida kovalent ko’ndalang bog’lar hosil qiladi, to’r mustahkamlanadi.",
+   "contextUz": "U monomerlar va qöşni iplar örtasida kovalent köndalang boğlar hosil qiladi, tör mustahkamlanadi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2833,7 +2833,7 @@
    "id": "ch37-t-zardob-serum",
    "termUz": "zardob (serum)",
    "original": null,
-   "contextUz": "Bu suyuqlik zardob (serum): fibrinogen va ko’p omillardan mahrum, shuning uchun ivimaydi.",
+   "contextUz": "Bu suyuqlik zardob (serum): fibrinogen va köp omillardan mahrum, şuning uçun ivimaydi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2841,9 +2841,9 @@
   },
   {
    "id": "ch37-t-trombotsitlar-shart",
-   "termUz": "trombotsitlar shart",
+   "termUz": "trombotsitlar şart",
    "original": null,
-   "contextUz": "Retraksiya uchun trombotsitlar shart.",
+   "contextUz": "Retraksiya uçun trombotsitlar şart.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2861,9 +2861,9 @@
   },
   {
    "id": "ch37-t-toqima-omili-iii",
-   "termUz": "to’qima omili (III)",
+   "termUz": "töqima omili (III)",
    "original": null,
-   "contextUz": "Shikastlangan to’qima to’qima omili (III) ni chiqaradi.",
+   "contextUz": "Şikastlangan töqima töqima omili (III) ni çiqaradi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2873,7 +2873,7 @@
    "id": "ch37-t-vii",
    "termUz": "VII",
    "original": null,
-   "contextUz": "To’qima omili + VII + Ca²⁺ → X → Xa.",
+   "contextUz": "Töqima omili + VII + Ca²⁺ → X → Xa.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2883,7 +2883,7 @@
    "id": "ch37-t-x-xa",
    "termUz": "X → Xa",
    "original": null,
-   "contextUz": "To’qima omili + VII + Ca²⁺ → X → Xa.",
+   "contextUz": "Töqima omili + VII + Ca²⁺ → X → Xa.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2892,8 +2892,8 @@
   {
    "id": "ch37-t-xa-v-fosfolipidlar",
    "termUz": "Xa + V + fosfolipidlar",
-   "original": "to’qima yoki trombotsitdan",
-   "contextUz": "Xa + V + fosfolipidlar (to’qima yoki trombotsitdan) + Ca²⁺ → protrombin aktivatori.",
+   "original": "to‘qima yoki trombotsitdan",
+   "contextUz": "Xa + V + fosfolipidlar (töqima yoki trombotsitdan) + Ca²⁺ → protrombin aktivatori.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2901,9 +2901,9 @@
   },
   {
    "id": "ch37-t-portlovchi",
-   "termUz": "portlovchi",
+   "termUz": "portlovçi",
    "original": null,
-   "contextUz": "Bu yo’l \"portlovchi\": og’ir shikastda 15 s ichida laxta hosil bo’ladi.",
+   "contextUz": "Bu yöl “portlovçi”: oğir şikastda 15 s içida laxta hosil böladi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2913,7 +2913,7 @@
    "id": "ch37-t-15-s",
    "termUz": "15 s",
    "original": null,
-   "contextUz": "Bu yo’l \"portlovchi\": og’ir shikastda 15 s ichida laxta hosil bo’ladi.",
+   "contextUz": "Bu yöl “portlovçi”: oğir şikastda 15 s içida laxta hosil böladi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2922,8 +2922,8 @@
   {
    "id": "ch37-t-xii-xiia",
    "termUz": "XII → XIIa",
-   "original": "konformatsion o’zgarish",
-   "contextUz": "Qon shikasti yoki kollagen bilan kontakt (yoki shisha kabi ho’llanuvchi yuza) natijasida: XII → XIIa (konformatsion o’zgarish); trombotsitlardan fosfolipidlar (trombotsit omili 3) ajraladi.",
+   "original": "konformatsion o‘zgarish",
+   "contextUz": "Qon şikasti yoki kollagen bilan kontakt (yoki şişa kabi höllanuvçi yuza) natijasida: XII → XIIa (konformatsion özgariş); trombotsitlardan fosfolipidlar (trombotsit omili 3) ajraladi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2933,7 +2933,7 @@
    "id": "ch37-t-fosfolipidlar-trombotsit-omili-3",
    "termUz": "fosfolipidlar (trombotsit omili 3)",
    "original": null,
-   "contextUz": "Qon shikasti yoki kollagen bilan kontakt (yoki shisha kabi ho’llanuvchi yuza) natijasida: XII → XIIa (konformatsion o’zgarish); trombotsitlardan fosfolipidlar (trombotsit omili 3) ajraladi.",
+   "contextUz": "Qon şikasti yoki kollagen bilan kontakt (yoki şişa kabi höllanuvçi yuza) natijasida: XII → XIIa (konformatsion özgariş); trombotsitlardan fosfolipidlar (trombotsit omili 3) ajraladi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2953,7 +2953,7 @@
    "id": "ch37-t-hmw-kininogen",
    "termUz": "HMW kininogen",
    "original": null,
-   "contextUz": "Bu qadam HMW kininogen talab qiladi va prekallikrein bilan tezlashadi.",
+   "contextUz": "Bu qadam HMW kininogen talab qiladi va prekallikrein bilan tezlaşadi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2963,7 +2963,7 @@
    "id": "ch37-t-prekallikrein",
    "termUz": "prekallikrein",
    "original": null,
-   "contextUz": "Bu qadam HMW kininogen talab qiladi va prekallikrein bilan tezlashadi.",
+   "contextUz": "Bu qadam HMW kininogen talab qiladi va prekallikrein bilan tezlaşadi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -2993,7 +2993,7 @@
    "id": "ch37-t-gemofiliya",
    "termUz": "gemofiliya",
    "original": null,
-   "contextUz": "VIII yetishmasa, klassik gemofiliya bo’ladi.",
+   "contextUz": "VIII yetişmasa, klassik gemofiliya böladi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3003,7 +3003,7 @@
    "id": "ch37-t-trombotsitopeniya",
    "termUz": "trombotsitopeniya",
    "original": null,
-   "contextUz": "Trombotsit yetishmasa, trombotsitopeniya bo’ladi.",
+   "contextUz": "Trombotsit yetişmasa, trombotsitopeniya böladi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3013,7 +3013,7 @@
    "id": "ch37-t-1-6-min",
    "termUz": "1–6 min",
    "original": null,
-   "contextUz": "Ichki yo’l sekinroq: 1–6 min.",
+   "contextUz": "Içki yöl sekinroq: 1–6 min.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3021,9 +3021,9 @@
   },
   {
    "id": "ch37-t-barcha",
-   "termUz": "barcha",
+   "termUz": "barça",
    "original": null,
-   "contextUz": "Ichki yo’lning birinchi ikki qadamidan tashqari barcha reaksiyalarga Ca²⁺ kerak.",
+   "contextUz": "Içki yölning birinçi ikki qadamidan taşqari barça reaksiyalarga Ca²⁺ kerak.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3033,7 +3033,7 @@
    "id": "ch37-t-sitrat",
    "termUz": "sitrat",
    "original": "Ca²⁺ ni ionlanmagan holga keltiradi",
-   "contextUz": "Tanadan olingan qonda esa sitrat (Ca²⁺ ni ionlanmagan holga keltiradi) yoki oksalat (cho’ktiradi) bilan ivish to’xtatiladi.",
+   "contextUz": "Tanadan olingan qonda esa sitrat (Ca²⁺ ni ionlanmagan holga keltiradi) yoki oksalat (çöktiradi) bilan iviş töxtatiladi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3042,8 +3042,8 @@
   {
    "id": "ch37-t-oksalat",
    "termUz": "oksalat",
-   "original": "cho’ktiradi",
-   "contextUz": "Tanadan olingan qonda esa sitrat (Ca²⁺ ni ionlanmagan holga keltiradi) yoki oksalat (cho’ktiradi) bilan ivish to’xtatiladi.",
+   "original": "cho‘ktiradi",
+   "contextUz": "Tanadan olingan qonda esa sitrat (Ca²⁺ ni ionlanmagan holga keltiradi) yoki oksalat (çöktiradi) bilan iviş töxtatiladi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3053,7 +3053,7 @@
    "id": "ch37-t-bir-vaqtda",
    "termUz": "bir vaqtda",
    "original": null,
-   "contextUz": "Tomir yorilganda ikkala yo’l bir vaqtda ishlaydi va bir-biri bilan doimiy ta’sirlashadi.",
+   "contextUz": "Tomir yorilganda ikkala yöl bir vaqtda işlaydi va bir-biri bilan doimiy ta’sirlaşadi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3073,7 +3073,7 @@
    "id": "ch37-t-glikokaliks",
    "termUz": "Glikokaliks",
    "original": null,
-   "contextUz": "Glikokaliks qatlami ivish omillari va trombotsitlarni itaradi.",
+   "contextUz": "Glikokaliks qatlami iviş omillari va trombotsitlarni itaradi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3083,7 +3083,7 @@
    "id": "ch37-t-trombomodulin",
    "termUz": "Trombomodulin",
    "original": null,
-   "contextUz": "Trombomodulin trombinni bog’laydi.",
+   "contextUz": "Trombomodulin trombinni boğlaydi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3093,7 +3093,7 @@
    "id": "ch37-t-protein-c",
    "termUz": "protein C",
    "original": null,
-   "contextUz": "Trombomodulin-trombin kompleksi protein C ni faollashtiradi, u esa Va va VIIIa ni faolsizlantiradi.",
+   "contextUz": "Trombomodulin-trombin kompleksi protein C ni faollaştiradi, u esa Va va VIIIa ni faolsizlantiradi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3103,7 +3103,7 @@
    "id": "ch37-t-va-va-viiia",
    "termUz": "Va va VIIIa",
    "original": null,
-   "contextUz": "Trombomodulin-trombin kompleksi protein C ni faollashtiradi, u esa Va va VIIIa ni faolsizlantiradi.",
+   "contextUz": "Trombomodulin-trombin kompleksi protein C ni faollaştiradi, u esa Va va VIIIa ni faolsizlantiradi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3113,7 +3113,7 @@
    "id": "ch37-t-prostatsiklin-pgi",
    "termUz": "prostatsiklin (PGI₂)",
    "original": null,
-   "contextUz": "Sog’lom endoteliy prostatsiklin (PGI₂) va NO chiqaradi; ikkalasi vazodilatator va trombotsit agregatsiyasi ingibitori.",
+   "contextUz": "Soğlom endoteliy prostatsiklin (PGI₂) va NO çiqaradi; ikkalasi vazodilatator va trombotsit agregatsiyasi ingibitori.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3123,7 +3123,7 @@
    "id": "ch37-t-no",
    "termUz": "NO",
    "original": null,
-   "contextUz": "Sog’lom endoteliy prostatsiklin (PGI₂) va NO chiqaradi; ikkalasi vazodilatator va trombotsit agregatsiyasi ingibitori.",
+   "contextUz": "Soğlom endoteliy prostatsiklin (PGI₂) va NO çiqaradi; ikkalasi vazodilatator va trombotsit agregatsiyasi ingibitori.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3131,9 +3131,9 @@
   },
   {
    "id": "ch37-t-trombinni-olib-tashlovchilar",
-   "termUz": "Trombinni olib tashlovchilar",
+   "termUz": "Trombinni olib taşlovçilar",
    "original": null,
-   "contextUz": "Trombinni olib tashlovchilar:",
+   "contextUz": "Trombinni olib taşlovçilar:",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3143,7 +3143,7 @@
    "id": "ch37-t-fibrin-iplari",
    "termUz": "Fibrin iplari",
    "original": null,
-   "contextUz": "Fibrin iplari hosil bo’layotgan trombinning 85–90% ini adsorbsiyalab, laxta tarqalishini cheklaydi.",
+   "contextUz": "Fibrin iplari hosil bölayotgan trombinning 85–90% ini adsorbsiyalab, laxta tarqalişini çeklaydi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3153,7 +3153,7 @@
    "id": "ch37-t-85-90",
    "termUz": "85–90%",
    "original": null,
-   "contextUz": "Fibrin iplari hosil bo’layotgan trombinning 85–90% ini adsorbsiyalab, laxta tarqalishini cheklaydi.",
+   "contextUz": "Fibrin iplari hosil bölayotgan trombinning 85–90% ini adsorbsiyalab, laxta tarqalişini çeklaydi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3163,7 +3163,7 @@
    "id": "ch37-t-antitrombin-iii",
    "termUz": "Antitrombin III",
    "original": "antitrombin-geparin kofaktori",
-   "contextUz": "Antitrombin III (antitrombin-geparin kofaktori) qolgan trombinni bloklaydi va 12–20 min ichida faolsizlantiradi.",
+   "contextUz": "Antitrombin III (antitrombin-geparin kofaktori) qolgan trombinni bloklaydi va 12–20 min içida faolsizlantiradi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3183,7 +3183,7 @@
    "id": "ch37-t-100-1000-marta",
    "termUz": "100–1000 marta",
    "original": null,
-   "contextUz": "O’zi deyarli ta’sir qilmaydi, lekin antitrombin III bilan birikib, uning samarasini 100–1000 marta oshiradi.",
+   "contextUz": "Özi deyarli ta’sir qilmaydi, lekin antitrombin III bilan birikib, uning samarasini 100–1000 marta oşiradi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3193,7 +3193,7 @@
    "id": "ch37-t-ixa-xiia",
    "termUz": "IXa–XIIa",
    "original": null,
-   "contextUz": "Kompleks IXa–XIIa omillarini ham olib tashlaydi.",
+   "contextUz": "Kompleks IXa–XIIa omillarini ham olib taşlaydi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3203,7 +3203,7 @@
    "id": "ch37-t-mast-hujayralar",
    "termUz": "mast hujayralar",
    "original": null,
-   "contextUz": "Ko’p hujayralar hosil qiladi, lekin eng ko’pi kapillyar atrofidagi mast hujayralardan (ayniqsa o’pka va kamroq jigar) va bazofillardan keladi.",
+   "contextUz": "Köp hujayralar hosil qiladi, lekin eng köpi kapillyar atrofidagi mast hujayralardan (ayniqsa öpka va kamroq jigar) va bazofillardan keladi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3213,7 +3213,7 @@
    "id": "ch37-t-plazminogen-profibrinolizin",
    "termUz": "Plazminogen (profibrinolizin)",
    "original": null,
-   "contextUz": "Plazminogen (profibrinolizin) faollashib plazmin (fibrinolizin) ga aylanadi.",
+   "contextUz": "Plazminogen (profibrinolizin) faollaşib plazmin (fibrinolizin) ga aylanadi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3223,7 +3223,7 @@
    "id": "ch37-t-plazmin-fibrinolizin",
    "termUz": "plazmin (fibrinolizin)",
    "original": null,
-   "contextUz": "Plazminogen (profibrinolizin) faollashib plazmin (fibrinolizin) ga aylanadi.",
+   "contextUz": "Plazminogen (profibrinolizin) faollaşib plazmin (fibrinolizin) ga aylanadi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3231,9 +3231,9 @@
   },
   {
    "id": "ch37-t-toqima-plazminogen-aktivatori-t-pa",
-   "termUz": "to’qima plazminogen aktivatori (t-PA)",
+   "termUz": "töqima plazminogen aktivatori (t-PA)",
    "original": null,
-   "contextUz": "Shikastlangan to’qima va endoteliy to’qima plazminogen aktivatori (t-PA) ni sekin chiqaradi.",
+   "contextUz": "Şikastlangan töqima va endoteliy töqima plazminogen aktivatori (t-PA) ni sekin çiqaradi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3243,7 +3243,7 @@
    "id": "ch37-t-jigarda",
    "termUz": "jigarda",
    "original": null,
-   "contextUz": "Deyarli barcha ivish omillari jigarda hosil bo’ladi; gepatit, sirroz, o’tkir sariq atrofiya ivishni susaytiradi.",
+   "contextUz": "Deyarli barça iviş omillari jigarda hosil böladi; gepatit, sirroz, ötkir sariq atrofiya ivişni susaytiradi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3253,7 +3253,7 @@
    "id": "ch37-t-mexanizm",
    "termUz": "Mexanizm",
    "original": null,
-   "contextUz": "Mexanizm: K vitamini jigar karboksilazasi uchun kofaktor; u protrombin, VII, IX, X va protein C dagi glutamat qoldiqlarini karboksillaydi.",
+   "contextUz": "Mexanizm: K vitamini jigar karboksilazasi uçun kofaktor; u protrombin, VII, IX, X va protein C dagi glutamat qoldiqlarini karboksillaydi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3263,7 +3263,7 @@
    "id": "ch37-t-karboksilazasi",
    "termUz": "karboksilazasi",
    "original": null,
-   "contextUz": "Mexanizm: K vitamini jigar karboksilazasi uchun kofaktor; u protrombin, VII, IX, X va protein C dagi glutamat qoldiqlarini karboksillaydi.",
+   "contextUz": "Mexanizm: K vitamini jigar karboksilazasi uçun kofaktor; u protrombin, VII, IX, X va protein C dagi glutamat qoldiqlarini karboksillaydi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3273,7 +3273,7 @@
    "id": "ch37-t-protrombin-vii-ix-x-va-protein-c",
    "termUz": "protrombin, VII, IX, X va protein C",
    "original": null,
-   "contextUz": "Mexanizm: K vitamini jigar karboksilazasi uchun kofaktor; u protrombin, VII, IX, X va protein C dagi glutamat qoldiqlarini karboksillaydi.",
+   "contextUz": "Mexanizm: K vitamini jigar karboksilazasi uçun kofaktor; u protrombin, VII, IX, X va protein C dagi glutamat qoldiqlarini karboksillaydi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3283,7 +3283,7 @@
    "id": "ch37-t-vkorc1",
    "termUz": "VKORC1",
    "original": "K vitamini epoksid reduktaza",
-   "contextUz": "VKORC1 (K vitamini epoksid reduktaza) uni qayta faol shaklga keltiradi.",
+   "contextUz": "VKORC1 (K vitamini epoksid reduktaza) uni qayta faol şaklga keltiradi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3291,9 +3291,9 @@
   },
   {
    "id": "ch37-t-ichak-bakteriyalari",
-   "termUz": "ichak bakteriyalari",
+   "termUz": "içak bakteriyalari",
    "original": null,
-   "contextUz": "K vitaminini ichak bakteriyalari doimiy sintezlaydi.",
+   "contextUz": "K vitaminini içak bakteriyalari doimiy sintezlaydi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3301,9 +3301,9 @@
   },
   {
    "id": "ch37-t-yangi-tugilganlarda",
-   "termUz": "yangi tug’ilganlarda",
+   "termUz": "yangi tuğilganlarda",
    "original": null,
-   "contextUz": "Shuning uchun parhezdan yetishmovchilik kam bo’ladi, faqat ichak florasi hali shakllanmagan yangi tug’ilganlarda uchraydi.",
+   "contextUz": "Şuning uçun parhezdan yetişmovçilik kam böladi, faqat içak florasi hali şakllanmagan yangi tuğilganlarda uçraydi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3311,9 +3311,9 @@
   },
   {
    "id": "ch37-t-yog-sorilishining-buzilishi",
-   "termUz": "yog' so’rilishining buzilishi",
+   "termUz": "yoğ sörilişining buzilişi",
    "original": null,
-   "contextUz": "Asosiy sabab yog' so’rilishining buzilishi, chunki K vitamini yog’da eriydi.",
+   "contextUz": "Asosiy sabab yoğ sörilişining buzilişi, çunki K vitamini yoğda eriydi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3323,7 +3323,7 @@
    "id": "ch37-t-klinik",
    "termUz": "Klinik",
    "original": null,
-   "contextUz": "Klinik: jigar kasalligi yoki safro yo’li tiqilgan bemorga operatsiyadan 4–8 soat oldin K vitamini yuboriladi.",
+   "contextUz": "Klinik: jigar kasalligi yoki safro yöli tiqilgan bemorga operatsiyadan 4–8 soat oldin K vitamini yuboriladi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3333,7 +3333,7 @@
    "id": "ch37-t-4-8-soat-oldin",
    "termUz": "4–8 soat oldin",
    "original": null,
-   "contextUz": "Klinik: jigar kasalligi yoki safro yo’li tiqilgan bemorga operatsiyadan 4–8 soat oldin K vitamini yuboriladi.",
+   "contextUz": "Klinik: jigar kasalligi yoki safro yöli tiqilgan bemorga operatsiyadan 4–8 soat oldin K vitamini yuboriladi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3343,7 +3343,7 @@
    "id": "ch37-t-gemofiliya-a-klassik-85",
    "termUz": "Gemofiliya A (klassik), 85%",
    "original": null,
-   "contextUz": "Gemofiliya A (klassik), 85%: VIII omil yetishmasligi.",
+   "contextUz": "Gemofiliya A (klassik), 85%: VIII omil yetişmasligi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3353,7 +3353,7 @@
    "id": "ch37-t-1-10-000",
    "termUz": "1/10 000",
    "original": null,
-   "contextUz": "AQShda ~1/10 000 erkak.",
+   "contextUz": "AQŞda ~1/10 000 erkak.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3363,7 +3363,7 @@
    "id": "ch37-t-gemofiliya-b-15",
    "termUz": "Gemofiliya B, 15%",
    "original": null,
-   "contextUz": "Gemofiliya B, 15%: IX omil yetishmasligi.",
+   "contextUz": "Gemofiliya B, 15%: IX omil yetişmasligi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3371,9 +3371,9 @@
   },
   {
    "id": "ch37-t-irsiylanish",
-   "termUz": "Irsiylanish",
+   "termUz": "Irsiylaniş",
    "original": null,
-   "contextUz": "Irsiylanish: Tashuvchi onaning o’g’illarida kasallik ehtimoli 50%, qizlarida tashuvchilik ehtimoli 50%.",
+   "contextUz": "Irsiylaniş: Taşuvçi onaning öğillarida kasallik ehtimoli 50%, qizlarida taşuvçilik ehtimoli 50%.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3383,7 +3383,7 @@
    "id": "ch37-t-1-3",
    "termUz": "1/3",
    "original": null,
-   "contextUz": "Bemorlarning ~1/3 qismida oilaviy tarix yo’q, yangi mutatsiya.",
+   "contextUz": "Bemorlarning ~1/3 qismida oilaviy tarix yöq, yangi mutatsiya.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3393,7 +3393,7 @@
    "id": "ch37-t-viii-omil-ikki-qismdan-iborat",
    "termUz": "VIII omil ikki qismdan iborat",
    "original": null,
-   "contextUz": "VIII omil ikki qismdan iborat: kichik qismi (MM ~230 000) ichki yo’l uchun muhim, uning yetishmasligi klassik gemofiliya; katta qismi (MM millionlab) yo’qolsa, von Willebrand kasalligi.",
+   "contextUz": "VIII omil ikki qismdan iborat: kiçik qismi (MM ~230 000) içki yöl uçun muhim, uning yetişmasligi klassik gemofiliya; katta qismi (MM millionlab) yöqolsa, von Willebrand kasalligi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3403,7 +3403,7 @@
    "id": "ch37-t-von-willebrand-kasalligi",
    "termUz": "von Willebrand kasalligi",
    "original": null,
-   "contextUz": "VIII omil ikki qismdan iborat: kichik qismi (MM ~230 000) ichki yo’l uchun muhim, uning yetishmasligi klassik gemofiliya; katta qismi (MM millionlab) yo’qolsa, von Willebrand kasalligi.",
+   "contextUz": "VIII omil ikki qismdan iborat: kiçik qismi (MM ~230 000) içki yöl uçun muhim, uning yetişmasligi klassik gemofiliya; katta qismi (MM millionlab) yöqolsa, von Willebrand kasalligi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3433,7 +3433,7 @@
    "id": "ch37-t-trombotsitopenik-purpura",
    "termUz": "trombotsitopenik purpura",
    "original": "petexiyalar",
-   "contextUz": "Qonash ko’plab mayda venula va kapillyarlardan bo’ladi, hamma joyda nuqtali qon quyilishlar paydo bo’ladi: trombotsitopenik purpura (petexiyalar).",
+   "contextUz": "Qonaş köplab mayda venula va kapillyarlardan böladi, hamma joyda nuqtali qon quyilişlar paydo böladi: trombotsitopenik purpura (petexiyalar).",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3443,7 +3443,7 @@
    "id": "ch37-t-raqamlar",
    "termUz": "Raqamlar",
    "original": null,
-   "contextUz": "Raqamlar: <30 000/µl: operatsiya yoki shikastdan keyin qonash xavfi; spontan qonash odatda shu chegaradan pastda; ~10 000/µl: ko’pincha o’limga olib keladi.",
+   "contextUz": "Raqamlar: <30 000/µl: operatsiya yoki şikastdan keyin qonaş xavfi; spontan qonaş odatda şu çegaradan pastda; ~10 000/µl: köpinça ölimga olib keladi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3453,7 +3453,7 @@
    "id": "ch37-t-sabablar",
    "termUz": "Sabablar",
    "original": null,
-   "contextUz": "Sabablar: Ko’mikda ishlab chiqarish kamayishi: infeksiya yoki sepsis, ozuqa yetishmovchiligi, mielodisplaziya.",
+   "contextUz": "Sabablar: Kömikda işlab çiqariş kamayişi: infeksiya yoki sepsis, ozuqa yetişmovçiligi, mielodisplaziya.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3473,7 +3473,7 @@
    "id": "ch37-t-idiopatik-trombotsitopeniya",
    "termUz": "idiopatik trombotsitopeniya",
    "original": null,
-   "contextUz": "Ko’pchilikda idiopatik trombotsitopeniya: noma’lum sabab bilan trombotsitlarga qarshi antitanalar.",
+   "contextUz": "Köpçilikda idiopatik trombotsitopeniya: noma’lum sabab bilan trombotsitlarga qarşi antitanalar.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3483,7 +3483,7 @@
    "id": "ch37-t-splenektomiya",
    "termUz": "splenektomiya",
    "original": null,
-   "contextUz": "Davo: yangi to’liq qon quyish 1–4 kunga yordam beradi; splenektomiya ba’zan deyarli to’liq davolaydi.",
+   "contextUz": "Davo: yangi töliq qon quyiş 1–4 kunga yordam beradi; splenektomiya ba’zan deyarli töliq davolaydi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3493,7 +3493,7 @@
    "id": "ch37-t-tromb",
    "termUz": "Tromb",
    "original": null,
-   "contextUz": "Tromb tomir ichidagi patologik laxta.",
+   "contextUz": "Tromb tomir içidagi patologik laxta.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3511,9 +3511,9 @@
   },
   {
    "id": "ch37-t-opka-emboliyasi",
-   "termUz": "o’pka emboliyasi",
+   "termUz": "öpka emboliyasi",
    "original": null,
-   "contextUz": "Venoz yoki o’ng yurakdan kelgani o’pkaga boradi (o’pka emboliyasi).",
+   "contextUz": "Venoz yoki öng yurakdan kelgani öpkaga boradi (öpka emboliyasi).",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3523,7 +3523,7 @@
    "id": "ch37-t-ikki-sabab",
    "termUz": "Ikki sabab",
    "original": null,
-   "contextUz": "Ikki sabab: G’adir-budur endoteliy: arterioskleroz, infeksiya, travma.",
+   "contextUz": "Ikki sabab: Ğadir-budur endoteliy: arterioskleroz, infeksiya, travma.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3543,7 +3543,7 @@
    "id": "ch37-t-1-2-soat",
    "termUz": "1–2 soat",
    "original": null,
-   "contextUz": "Koronar arteriya okklyuziyasidan keyin 1–2 soat ichida qo’llansa, yurak ko’pincha jiddiy shikastdan saqlanadi.",
+   "contextUz": "Koronar arteriya okklyuziyasidan keyin 1–2 soat içida qöllansa, yurak köpinça jiddiy şikastdan saqlanadi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3551,9 +3551,9 @@
   },
   {
    "id": "ch37-t-son-venasi-trombozi-va-massiv-opka-emboliyasi",
-   "termUz": "Son venasi trombozi va massiv o’pka emboliyasi",
+   "termUz": "Son venasi trombozi va massiv öpka emboliyasi",
    "original": null,
-   "contextUz": "Son venasi trombozi va massiv o’pka emboliyasi: Yotoq rejimi va tizzalar ostiga yostiq qo’yish oyoq venalarida staz chaqiradi.",
+   "contextUz": "Son venasi trombozi va massiv öpka emboliyasi: Yotoq rejimi va tizzalar ostiga yostiq qöyiş oyoq venalarida staz çaqiradi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3563,7 +3563,7 @@
    "id": "ch37-t-10",
    "termUz": "10%",
    "original": null,
-   "contextUz": "~10% holatda katta qismi uzilib, o’pka arteriyalarini to’sadi.",
+   "contextUz": "~10% holatda katta qismi uzilib, öpka arteriyalarini tösadi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3571,9 +3571,9 @@
   },
   {
    "id": "ch37-t-dic-tarqoq-tomir-ichi-ivishi",
-   "termUz": "DIC (tarqoq tomir ichi ivishi)",
+   "termUz": "DIC (tarqoq tomir içi ivişi)",
    "original": null,
-   "contextUz": "DIC (tarqoq tomir ichi ivishi): Ko’p shikastlangan yoki o’layotgan to’qima ko’p to’qima omili chiqaradi; septitsemiyada esa endotoksinlar ivishni faollashtiradi.",
+   "contextUz": "DIC (tarqoq tomir içi ivişi): Köp şikastlangan yoki ölayotgan töqima köp töqima omili çiqaradi; septitsemiyada esa endotoksinlar ivişni faollaştiradi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3581,9 +3581,9 @@
   },
   {
    "id": "ch37-t-septik-shok-olimi-35-50",
-   "termUz": "Septik shok o’limi 35–50%",
+   "termUz": "Septik şok ölimi 35–50%",
    "original": null,
-   "contextUz": "Septik shok o’limi 35–50%.",
+   "contextUz": "Septik şok ölimi 35–50%.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3593,7 +3593,7 @@
    "id": "ch37-t-qonay",
    "termUz": "qonay",
    "original": null,
-   "contextUz": "Paradoks: omillar sarflanib ketadi, shuning uchun bemor qonay boshlaydi.",
+   "contextUz": "Paradoks: omillar sarflanib ketadi, şuning uçun bemor qonay boşlaydi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3603,7 +3603,7 @@
    "id": "ch37-t-darhol",
    "termUz": "darhol",
    "original": null,
-   "contextUz": "Geparin Kumarinlar (varfarin) Yuborilishi vena ichiga og’iz orqali Mexanizm antitrombin III ni kuchaytiradi VKORC1 ni tormozlaydi; K vitamini faol shaklga qaytmaydi, protrombin, VII, IX, X karboksillanmaydi va nofaol bo’ladi Doza va boshlanish 0,5–1 mg/kg; ivish vaqti ~6 min dan ≥30 min gacha darhol uzayadi darhol emas: faollik 12 soatda ~50%, 24 soatda ~20% gacha tushadi (mavjud faol omil",
+   "contextUz": "Geparin Kumarinlar (varfarin) Yuborilişi vena içiga oğiz orqali Mexanizm antitrombin III ni kuçaytiradi VKORC1 ni tormozlaydi; K vitamini faol şaklga qaytmaydi, protrombin, VII, IX, X karboksillanmaydi va nofaol böladi Doza va boşlaniş 0,5–1 mg/kg; iviş vaqti ~6 min dan ≥30 min gaça darhol uzayadi darhol emas: faollik 12 soatda ~50%, 24 soatda ~20% gaça tuşadi (mavjud faol omil",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3613,7 +3613,7 @@
    "id": "ch37-t-geparinaza",
    "termUz": "geparinaza",
    "original": null,
-   "contextUz": "Geparin Kumarinlar (varfarin) Yuborilishi vena ichiga og’iz orqali Mexanizm antitrombin III ni kuchaytiradi VKORC1 ni tormozlaydi; K vitamini faol shaklga qaytmaydi, protrombin, VII, IX, X karboksillanmaydi va nofaol bo’ladi Doza va boshlanish 0,5–1 mg/kg; ivish vaqti ~6 min dan ≥30 min gacha darhol uzayadi darhol emas: faollik 12 soatda ~50%, 24 soatda ~20% gacha tushadi (mavjud faol omil",
+   "contextUz": "Geparin Kumarinlar (varfarin) Yuborilişi vena içiga oğiz orqali Mexanizm antitrombin III ni kuçaytiradi VKORC1 ni tormozlaydi; K vitamini faol şaklga qaytmaydi, protrombin, VII, IX, X karboksillanmaydi va nofaol böladi Doza va boşlaniş 0,5–1 mg/kg; iviş vaqti ~6 min dan ≥30 min gaça darhol uzayadi darhol emas: faollik 12 soatda ~50%, 24 soatda ~20% gaça tuşadi (mavjud faol omil",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3623,7 +3623,7 @@
    "id": "ch37-t-6-min",
    "termUz": "6 min",
    "original": null,
-   "contextUz": "Oddiy shisha probirkada qon ~6 min da iviydi.",
+   "contextUz": "Oddiy şişa probirkada qon ~6 min da iviydi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3633,7 +3633,7 @@
    "id": "ch37-t-silikonlangan",
    "termUz": "Silikonlangan",
    "original": null,
-   "contextUz": "Silikonlangan idishda ≥1 soat ivimaydi, chunki XII va trombotsitlarning kontakt faollashuvi bo’lmaydi.",
+   "contextUz": "Silikonlangan idişda ≥1 soat ivimaydi, çunki XII va trombotsitlarning kontakt faollaşuvi bölmaydi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3643,7 +3643,7 @@
    "id": "ch37-t-xavf",
    "termUz": "Xavf",
    "original": null,
-   "contextUz": "Xavf: jigar shikastlangan bo’lsa yoki sitratli qon juda tez (bir daqiqa ichida) quyilsa, Ca²⁺ keskin tushadi va tetaniya, tutqanoq bilan o’lim yuz berishi mumkin.",
+   "contextUz": "Xavf: jigar şikastlangan bölsa yoki sitratli qon juda tez (bir daqiqa içida) quyilsa, Ca²⁺ keskin tuşadi va tetaniya, tutqanoq bilan ölim yuz berişi mumkin.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3651,9 +3651,9 @@
   },
   {
    "id": "ch37-t-tetaniya-tutqanoq-bilan-olim",
-   "termUz": "tetaniya, tutqanoq bilan o’lim",
+   "termUz": "tetaniya, tutqanoq bilan ölim",
    "original": null,
-   "contextUz": "Xavf: jigar shikastlangan bo’lsa yoki sitratli qon juda tez (bir daqiqa ichida) quyilsa, Ca²⁺ keskin tushadi va tetaniya, tutqanoq bilan o’lim yuz berishi mumkin.",
+   "contextUz": "Xavf: jigar şikastlangan bölsa yoki sitratli qon juda tez (bir daqiqa içida) quyilsa, Ca²⁺ keskin tuşadi va tetaniya, tutqanoq bilan ölim yuz berişi mumkin.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3661,9 +3661,9 @@
   },
   {
    "id": "ch37-t-qonash-vaqti",
-   "termUz": "Qonash vaqti",
+   "termUz": "Qonaş vaqti",
    "original": null,
-   "contextUz": "Test Usul Norma Qonash vaqti barmoq uchi yoki quloq yumshog’ini teshish 1–6 min.",
+   "contextUz": "Test Usul Norma Qonaş vaqti barmoq uçi yoki quloq yumşoğini teşiş 1–6 min.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3673,7 +3673,7 @@
    "id": "ch37-t-trombotsit",
    "termUz": "trombotsit",
    "original": null,
-   "contextUz": "Ko’p omillar yetishmasligida uzayadi, ayniqsa trombotsit kamligida Ivish vaqti toza shisha probirkani har ~30 s da qiyshaytirish 6–10 min.",
+   "contextUz": "Köp omillar yetişmasligida uzayadi, ayniqsa trombotsit kamligida Iviş vaqti toza şişa probirkani har ~30 s da qiyşaytiriş 6–10 min.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3681,9 +3681,9 @@
   },
   {
    "id": "ch37-t-ivish-vaqti",
-   "termUz": "Ivish vaqti",
+   "termUz": "Iviş vaqti",
    "original": null,
-   "contextUz": "Ko’p omillar yetishmasligida uzayadi, ayniqsa trombotsit kamligida Ivish vaqti toza shisha probirkani har ~30 s da qiyshaytirish 6–10 min.",
+   "contextUz": "Köp omillar yetişmasligida uzayadi, ayniqsa trombotsit kamligida Iviş vaqti toza şişa probirkani har ~30 s da qiyşaytiriş 6–10 min.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3693,7 +3693,7 @@
    "id": "ch37-t-protrombin-vaqti-pt",
    "termUz": "Protrombin vaqti (PT)",
    "original": null,
-   "contextUz": "Usulga qarab juda o’zgaradi, shuning uchun ko’p klinikalarda ishlatilmaydi Protrombin vaqti (PT) oksalatlangan qonga ortiqcha Ca²⁺ va to’qima omili qo’shiladi (tashqi yo’l); vaqt asosan protrombin konsentratsiyasini aks ettiradi ~12 s INR INR = (PTtest / PTnormal)^ISI; ISI (1,0–2,0) to’qima omili partiyasining faolligini standartlaydi norma 0,9–1,3; varfarinda 2,0–3,0; 4–5 ",
+   "contextUz": "Usulga qarab juda özgaradi, şuning uçun köp klinikalarda işlatilmaydi Protrombin vaqti (PT) oksalatlangan qonga ortiqça Ca²⁺ va töqima omili qöşiladi (taşqi yöl); vaqt asosan protrombin konsentratsiyasini aks ettiradi ~12 s INR INR = (PTtest / PTnormal)^ISI; ISI (1,0–2,0) töqima omili partiyasining faolligini standartlaydi norma 0,9–1,3; varfarinda 2,0–3,0; 4–5 ",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3703,7 +3703,7 @@
    "id": "ch37-t-12-s",
    "termUz": "12 s",
    "original": null,
-   "contextUz": "Usulga qarab juda o’zgaradi, shuning uchun ko’p klinikalarda ishlatilmaydi Protrombin vaqti (PT) oksalatlangan qonga ortiqcha Ca²⁺ va to’qima omili qo’shiladi (tashqi yo’l); vaqt asosan protrombin konsentratsiyasini aks ettiradi ~12 s INR INR = (PTtest / PTnormal)^ISI; ISI (1,0–2,0) to’qima omili partiyasining faolligini standartlaydi norma 0,9–1,3; varfarinda 2,0–3,0; 4–5 ",
+   "contextUz": "Usulga qarab juda özgaradi, şuning uçun köp klinikalarda işlatilmaydi Protrombin vaqti (PT) oksalatlangan qonga ortiqça Ca²⁺ va töqima omili qöşiladi (taşqi yöl); vaqt asosan protrombin konsentratsiyasini aks ettiradi ~12 s INR INR = (PTtest / PTnormal)^ISI; ISI (1,0–2,0) töqima omili partiyasining faolligini standartlaydi norma 0,9–1,3; varfarinda 2,0–3,0; 4–5 ",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3713,7 +3713,7 @@
    "id": "ch37-t-inr",
    "termUz": "INR",
    "original": null,
-   "contextUz": "Usulga qarab juda o’zgaradi, shuning uchun ko’p klinikalarda ishlatilmaydi Protrombin vaqti (PT) oksalatlangan qonga ortiqcha Ca²⁺ va to’qima omili qo’shiladi (tashqi yo’l); vaqt asosan protrombin konsentratsiyasini aks ettiradi ~12 s INR INR = (PTtest / PTnormal)^ISI; ISI (1,0–2,0) to’qima omili partiyasining faolligini standartlaydi norma 0,9–1,3; varfarinda 2,0–3,0; 4–5 ",
+   "contextUz": "Usulga qarab juda özgaradi, şuning uçun köp klinikalarda işlatilmaydi Protrombin vaqti (PT) oksalatlangan qonga ortiqça Ca²⁺ va töqima omili qöşiladi (taşqi yöl); vaqt asosan protrombin konsentratsiyasini aks ettiradi ~12 s INR INR = (PTtest / PTnormal)^ISI; ISI (1,0–2,0) töqima omili partiyasining faolligini standartlaydi norma 0,9–1,3; varfarinda 2,0–3,0; 4–5 ",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3723,7 +3723,7 @@
    "id": "ch37-t-inr-pttest-ptnormal-isi",
    "termUz": "INR = (PTtest / PTnormal)^ISI",
    "original": null,
-   "contextUz": "Usulga qarab juda o’zgaradi, shuning uchun ko’p klinikalarda ishlatilmaydi Protrombin vaqti (PT) oksalatlangan qonga ortiqcha Ca²⁺ va to’qima omili qo’shiladi (tashqi yo’l); vaqt asosan protrombin konsentratsiyasini aks ettiradi ~12 s INR INR = (PTtest / PTnormal)^ISI; ISI (1,0–2,0) to’qima omili partiyasining faolligini standartlaydi norma 0,9–1,3; varfarinda 2,0–3,0; 4–5 ",
+   "contextUz": "Usulga qarab juda özgaradi, şuning uçun köp klinikalarda işlatilmaydi Protrombin vaqti (PT) oksalatlangan qonga ortiqça Ca²⁺ va töqima omili qöşiladi (taşqi yöl); vaqt asosan protrombin konsentratsiyasini aks ettiradi ~12 s INR INR = (PTtest / PTnormal)^ISI; ISI (1,0–2,0) töqima omili partiyasining faolligini standartlaydi norma 0,9–1,3; varfarinda 2,0–3,0; 4–5 ",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3733,7 +3733,7 @@
    "id": "ch37-t-petexiya-va-purpura",
    "termUz": "Petexiya va purpura",
    "original": null,
-   "contextUz": "Petexiya va purpura trombotsit muammosini, chuqur va uzoq qonash (bo’g’imlar, tish olingandan keyin) omil yetishmovchiligini (gemofiliya) ko’rsatadi.",
+   "contextUz": "Petexiya va purpura trombotsit muammosini, çuqur va uzoq qonaş (böğimlar, tiş olingandan keyin) omil yetişmovçiligini (gemofiliya) körsatadi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3741,9 +3741,9 @@
   },
   {
    "id": "ch37-t-chuqur-va-uzoq-qonash",
-   "termUz": "chuqur va uzoq qonash",
-   "original": "bo’g’imlar, tish olingandan keyin",
-   "contextUz": "Petexiya va purpura trombotsit muammosini, chuqur va uzoq qonash (bo’g’imlar, tish olingandan keyin) omil yetishmovchiligini (gemofiliya) ko’rsatadi.",
+   "termUz": "çuqur va uzoq qonaş",
+   "original": "bo‘g‘imlar, tish olingandan keyin",
+   "contextUz": "Petexiya va purpura trombotsit muammosini, çuqur va uzoq qonaş (böğimlar, tiş olingandan keyin) omil yetişmovçiligini (gemofiliya) körsatadi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3751,9 +3751,9 @@
   },
   {
    "id": "ch37-t-jigar-kasalligi-va-safro-yoli-tiqilishi",
-   "termUz": "Jigar kasalligi va safro yo’li tiqilishi",
+   "termUz": "Jigar kasalligi va safro yöli tiqilişi",
    "original": null,
-   "contextUz": "Jigar kasalligi va safro yo’li tiqilishi K vitamini yetishmasligiga olib keladi, operatsiyadan oldin K vitamini beriladi.",
+   "contextUz": "Jigar kasalligi va safro yöli tiqilişi K vitamini yetişmasligiga olib keladi, operatsiyadan oldin K vitamini beriladi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3783,7 +3783,7 @@
    "id": "ch37-t-yotoq-bemorlarida",
    "termUz": "Yotoq bemorlarida",
    "original": null,
-   "contextUz": "Yotoq bemorlarida chuqur vena trombozi va o’pka emboliyasi xavfi bor.",
+   "contextUz": "Yotoq bemorlarida çuqur vena trombozi va öpka emboliyasi xavfi bor.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3793,7 +3793,7 @@
    "id": "ch37-t-dic",
    "termUz": "DIC",
    "original": null,
-   "contextUz": "DIC bir vaqtda tromb va qonash beradi.",
+   "contextUz": "DIC bir vaqtda tromb va qonaş beradi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",
@@ -3803,7 +3803,7 @@
    "id": "ch37-t-massiv-sitratli-transfuziya",
    "termUz": "Massiv sitratli transfuziya",
    "original": null,
-   "contextUz": "Massiv sitratli transfuziya gipokalsiemiya va tetaniya xavfini tug’diradi.",
+   "contextUz": "Massiv sitratli transfuziya gipokalsiemiya va tetaniya xavfini tuğdiradi.",
    "lessonId": "ch37",
    "topicId": "06",
    "source": "summaryUz",

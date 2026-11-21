@@ -2,9 +2,9 @@
  "id": "ch53",
  "topicId": "10",
  "order": 4,
- "titleUz": "Eshitish sezgisi",
+ "titleUz": "Eşitiş sezgisi",
  "titleOriginal": "The Sense of Hearing",
- "subtitle": "*The Sense of Hearing* — X bo'lim, PDF 628–638",
+ "subtitle": "*The Sense of Hearing* — X bo‘lim, PDF 628–638",
  "contentVersion": "2026-11-14.1",
  "status": "in_review",
  "translationStatus": "machine_assisted",
@@ -230,14 +230,14 @@
   }
  ],
  "objectives": [
-  "Tashqi va o’rta quloq",
+  "Tashqi va o‘rta quloq",
   "Koxleya tuzilishi",
   "Korti organi",
   "Chastotani aniqlash",
   "Balandlikni (loudness) aniqlash",
-  "Markaziy eshitish yo’llari (Fig 53-9)",
-  "Eshitish po’stlog’i (Fig 53-10)",
-  "Tovush yo’nalishini aniqlash",
+  "Markaziy eshitish yo‘llari (Fig 53-9)",
+  "Eshitish po‘stlog‘i (Fig 53-10)",
+  "Tovush yo‘nalishini aniqlash",
   "Markazdan pastga signallar (centrifugal)",
   "Karlik turlari"
  ],
@@ -246,13 +246,13 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Asosiy g’oya",
+    "text": "Asosiy ğoya",
     "id": "ch53-s-0-asosiy-goya",
     "bid": "ch53-u0"
    },
    {
     "type": "paragraph",
-    "text": "Tovush quyidagi yo’l bilan uzatiladi:",
+    "text": "Tovuş quyidagi yöl bilan uzatiladi:",
     "bid": "ch53-u1"
    },
    {
@@ -260,23 +260,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "Nog’ora parda va eshitish suyakchalari tovushni koxleyaga uzatadi (impedansni moslash, ~22 marta kuch).",
+      "text": "Noğora parda va eşitiş suyakçalari tovuşni koxleyaga uzatadi (impedansni moslaş, ~22 marta kuç).",
       "depth": 0
      },
      {
-      "text": "Koxleyada bazilyar membrana bo’ylab \"yuguruvchi to’lqin\" hosil bo’ladi. Har bir chastota o’z rezonans joyida eng katta amplitudaga ega bo’ladi (**place principle**).",
+      "text": "Koxleyada bazilyar membrana böylab “yuguruvçi tölqin” hosil böladi. Har bir çastota öz rezonans joyida eng katta amplitudaga ega böladi (**place principle**).",
       "depth": 0
      },
      {
-      "text": "Korti organining soch hujayralari mexanik tebranishni elektr signalga aylantiradi. Bunda endolimfaning +80 mV endokoxlear potensiali yordam beradi.",
+      "text": "Korti organining soç hujayralari mexanik tebranişni elektr signalga aylantiradi. Bunda endolimfaning +80 mV endokoxlear potensiali yordam beradi.",
       "depth": 0
      },
      {
-      "text": "Signal miya ustunidagi yadrolar orqali chakka bo’lagidagi eshitish po’stlog’iga boradi.",
+      "text": "Signal miya ustunidagi yadrolar orqali çakka bölagidagi eşitiş pöstloğiga boradi.",
       "depth": 0
      },
      {
-      "text": "Yo’nalish ikki quloq orasidagi vaqt va intensivlik farqidan aniqlanadi.",
+      "text": "Yönaliş ikki quloq orasidagi vaqt va intensivlik farqidan aniqlanadi.",
       "depth": 0
      }
     ],
@@ -285,7 +285,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Tashqi va o’rta quloq",
+    "text": "Taşqi va örta quloq",
     "id": "ch53-s-3-tashqi-va-orta-quloq",
     "bid": "ch53-u3"
    },
@@ -294,15 +294,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Suyakchalar:** bolg’acha (malleus) dastasi nog’ora parda markaziga yopishgan; sandon (incus) bilan bog’langan; sandon uzangichaga (stapes) ulangan. Uzangicha asosi oval darchada turadi.",
+      "text": "**Suyakçalar:** bolğaça (malleus) dastasi noğora parda markaziga yopişgan; sandon (incus) bilan boğlangan; sandon uzangiçaga (stapes) ulangan. Uzangiça asosi oval darçada turadi.",
       "depth": 0
      },
      {
-      "text": "**Tensor tympani** bolg’acha dastasini tortib, nog’ora pardani taranglashtiradi. Taranglik bo’lmasa, tebranish suyakchalarga uzatilmaydi.",
+      "text": "**Tensor tympani** bolğaça dastasini tortib, noğora pardani taranglaştiradi. Taranglik bölmasa, tebraniş suyakçalarga uzatilmaydi.",
       "depth": 0
      },
      {
-      "text": "**Richag tizimi:** bolg’acha va sandon tayanch nuqtasi nog’ora parda chetida bo’lgan yagona richagdek ishlaydi. Uzangicha nog’ora parda ichkariga harakatlansa itaradi, tashqariga harakatlansa tortadi.",
+      "text": "**Riçag tizimi:** bolğaça va sandon tayanç nuqtasi noğora parda çetida bölgan yagona riçagdek işlaydi. Uzangiça noğora parda içkariga harakatlansa itaradi, taşqariga harakatlansa tortadi.",
       "depth": 0
      }
     ],
@@ -311,7 +311,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Impedansni moslash",
+    "text": "Impedansni moslaş",
     "id": "ch53-s-5-impedansni-moslash",
     "bid": "ch53-u5"
    },
@@ -320,23 +320,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Harakat va kuch:** uzangicha amplitudasi bolg’acha dastasinikining atigi 3/4 qismi. Richag masofani kamaytiradi, kuchni esa ~1.3 marta oshiradi.",
+      "text": "**Harakat va kuç:** uzangiça amplitudasi bolğaça dastasinikining atigi 3/4 qismi. Riçag masofani kamaytiradi, kuçni esa ~1.3 marta oşiradi.",
       "depth": 0
      },
      {
-      "text": "**Yuza nisbati:** nog’ora parda ~55 mm², uzangicha asosi ~3.2 mm², ya’ni ~17 marta farq.",
+      "text": "**Yuza nisbati:** noğora parda ~55 mm², uzangiça asosi ~3.2 mm², ya’ni ~17 marta farq.",
       "depth": 0
      },
      {
-      "text": "**Jami:** 17 × 1.3 ≈ **22 marta** ko’proq kuch koxlear suyuqlikka tushadi. Suyuqlik inersiyasi havonikidan katta bo’lgani uchun bu zarur.",
+      "text": "**Jami:** 17 × 1.3 ≈ **22 marta** köproq kuç koxlear suyuqlikka tuşadi. Suyuqlik inersiyasi havonikidan katta bölgani uçun bu zarur.",
       "depth": 0
      },
      {
-      "text": "**Samaradorlik:** 300–3000 Hz da moslashuv mukammalning 50–75% ini tashkil qiladi.",
+      "text": "**Samaradorlik:** 300–3000 Hz da moslaşuv mukammalning 50–75% ini taşkil qiladi.",
       "depth": 0
      },
      {
-      "text": "**Suyakchalarsiz:** tovush havo orqali oval darchaga borishi mumkin, lekin sezgirlik 15–20 dB past bo’ladi (o’rtacha ovozdan zo’rg’a eshitiladigan ovozgacha).",
+      "text": "**Suyakçalarsiz:** tovuş havo orqali oval darçaga borişi mumkin, lekin sezgirlik 15–20 dB past böladi (örtaça ovozdan zörğa eşitiladigan ovozgaça).",
       "depth": 0
      }
     ],
@@ -345,7 +345,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Akustik refleks (tovushni susaytirish)",
+    "text": "Akustik refleks (tovuşni susaytiriş)",
     "id": "ch53-s-7-akustik-refleks-tovushni-susaytirish",
     "bid": "ch53-u7"
    },
@@ -354,11 +354,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Ishga tushishi:** kuchli tovushdan 40–80 ms o’tib **stapedius** va qisman tensor tympani qisqaradi. Ular qarama-qarshi tortadi va suyakchalar tizimi qattiqlashadi.",
+      "text": "**Işga tuşişi:** kuçli tovuşdan 40–80 ms ötib **stapedius** va qisman tensor tympani qisqaradi. Ular qarama-qarşi tortadi va suyakçalar tizimi qattiqlaşadi.",
       "depth": 0
      },
      {
-      "text": "**Ta’siri:** <1000 Hz past chastotalar 30–40 dB ga susayadi (baland ovoz va shivir farqidek).",
+      "text": "**Ta’siri:** <1000 Hz past çastotalar 30–40 dB ga susayadi (baland ovoz va şivir farqidek).",
       "depth": 0
      },
      {
@@ -366,15 +366,15 @@
       "depth": 0
      },
      {
-      "text": "Koxleyani zararli tebranishdan himoya qilish.",
+      "text": "Koxleyani zararli tebranişdan himoya qiliş.",
       "depth": 1
      },
      {
-      "text": "Shovqinli muhitda past chastotali fon shovqinini niqoblash va >1000 Hz dagi nutq axborotiga diqqat qilish.",
+      "text": "Şovqinli muhitda past çastotali fon şovqinini niqoblaş va >1000 Hz dagi nutq axborotiga diqqat qiliş.",
       "depth": 1
      },
      {
-      "text": "O’z ovoziga sezgirlikni kamaytirish (nutq boshlanganda kollateral signal yuboriladi).",
+      "text": "Öz ovoziga sezgirlikni kamaytiriş (nutq boşlanganda kollateral signal yuboriladi).",
       "depth": 1
      }
     ],
@@ -383,7 +383,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Suyak orqali o’tkazuvchanlik",
+    "text": "Suyak orqali ötkazuvçanlik",
     "id": "ch53-s-9-suyak-orqali-otkazuvchanlik",
     "bid": "ch53-u9"
    },
@@ -392,15 +392,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Mexanizm:** koxleya chakka suyagining suyak labirintida joylashgan. Kalla tebransa, koxlear suyuqlik ham tebranadi.",
+      "text": "**Mexanizm:** koxleya çakka suyagining suyak labirintida joylaşgan. Kalla tebransa, koxlear suyuqlik ham tebranadi.",
       "depth": 0
      },
      {
-      "text": "**Amaliyot:** kamerton yoki vibrator so’rg’ichsimon o’siqqa (mastoid) qo’yilsa eshitiladi.",
+      "text": "**Amaliyot:** kamerton yoki vibrator sörğiçsimon ösiqqa (mastoid) qöyilsa eşitiladi.",
       "depth": 0
      },
      {
-      "text": "**Cheklov:** oddiy havodagi tovush energiyasi suyak orqali eshitish uchun yetarli emas.",
+      "text": "**Çeklov:** oddiy havodagi tovuş energiyasi suyak orqali eşitiş uçun yetarli emas.",
       "depth": 0
      }
     ],
@@ -409,7 +409,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Koxleya tuzilishi",
+    "text": "Koxleya tuzilişi",
     "id": "ch53-s-11-koxleya-tuzilishi",
     "bid": "ch53-u11"
    },
@@ -418,7 +418,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Uch kanal:**",
+      "text": "**Uç kanal:**",
       "depth": 0
      },
      {
@@ -430,23 +430,23 @@
       "depth": 1
      },
      {
-      "text": "**Korti organi** bazilyar membrana ustida joylashgan va soch hujayralarini o’z ichiga oladi.",
+      "text": "**Korti organi** bazilyar membrana ustida joylaşgan va soç hujayralarini öz içiga oladi.",
       "depth": 0
      },
      {
-      "text": "**Reissner membranasi** juda yupqa, tovush o’tishiga to’sqinlik qilmaydi. Shuning uchun akustik jihatdan scala vestibuli va scala media bitta kamera hisoblanadi. Uning vazifasi scala media ichidagi maxsus suyuqlikni saqlash.",
+      "text": "**Reissner membranasi** juda yupqa, tovuş ötişiga tösqinlik qilmaydi. Şuning uçun akustik jihatdan scala vestibuli va scala media bitta kamera hisoblanadi. Uning vazifasi scala media içidagi maxsus suyuqlikni saqlaş.",
       "depth": 0
      },
      {
-      "text": "**Oval darcha:** uzangicha asosi bo’shroq halqasimon boylam bilan bog’langan va ichkari-tashqari harakatlanadi.",
+      "text": "**Oval darça:** uzangiça asosi böşroq halqasimon boylam bilan boğlangan va içkari-taşqari harakatlanadi.",
       "depth": 0
      },
      {
-      "text": "**Yumaloq darcha:** koxleya suyak bilan o’ralgan, shuning uchun oval darcha ichkariga kirsa, yumaloq darcha tashqariga bo’rtadi.",
+      "text": "**Yumaloq darça:** koxleya suyak bilan öralgan, şuning uçun oval darça içkariga kirsa, yumaloq darça taşqariga börtadi.",
       "depth": 0
      },
      {
-      "text": "**Helikotrema:** uchidagi teshik, scala vestibuli va scala tympani shu yerda tutashadi.",
+      "text": "**Helikotrema:** uçidagi teşik, scala vestibuli va scala tympani şu yerda tutaşadi.",
       "depth": 0
      }
     ],
@@ -464,19 +464,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Tolalar:** 20 000–30 000 bazilyar tola. Modiolusga qattiq birikkan, distal uchi erkin, garmon tilchalari kabi tebranadi.",
+      "text": "**Tolalar:** 20 000–30 000 bazilyar tola. Modiolusga qattiq birikkan, distal uçi erkin, garmon tilçalari kabi tebranadi.",
       "depth": 0
      },
      {
-      "text": "**Asosdan uchgacha o’zgarish:**",
+      "text": "**Asosdan uçgaça özgariş:**",
       "depth": 0
      },
      {
-      "text": "Uzunlik 0.04 mm dan 0.5 mm gacha (12 marta) ortadi.",
+      "text": "Uzunlik 0.04 mm dan 0.5 mm gaça (12 marta) ortadi.",
       "depth": 1
      },
      {
-      "text": "Diametr kamayadi, shu sababli qattiqlik >100 marta kamayadi.",
+      "text": "Diametr kamayadi, şu sababli qattiqlik >100 marta kamayadi.",
       "depth": 1
      },
      {
@@ -484,11 +484,11 @@
       "depth": 0
      },
      {
-      "text": "**Asosda** (oval darcha yonida) yuqori chastotalar rezonans beradi.",
+      "text": "**Asosda** (oval darça yonida) yuqori çastotalar rezonans beradi.",
       "depth": 1
      },
      {
-      "text": "**Uchda** (helikotrema) past chastotalar rezonans beradi. Sabab: tolalar yumshoqroq va ko’proq suyuqlik massasi (\"loading\") tebranadi.",
+      "text": "**Uçda** (helikotrema) past çastotalar rezonans beradi. Sabab: tolalar yumşoqroq va köproq suyuqlik massasi (“loading”) tebranadi.",
       "depth": 1
      }
     ],
@@ -497,7 +497,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Yuguruvchi to’lqin (traveling wave)",
+    "text": "Yuguruvçi tölqin (traveling wave)",
     "id": "ch53-s-15-yuguruvchi-tolqin-traveling-wave",
     "bid": "ch53-u15"
    },
@@ -506,27 +506,27 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Hosil bo’lishi:** uzangicha itarganda asosdagi membrana yumaloq darcha tomon egiladi. Tolalardagi elastik taranglik helikotrema tomon yuguruvchi to’lqinni boshlaydi (arteriyadagi bosim to’lqini yoki hovuz yuzasidagi to’lqin kabi).",
+      "text": "**Hosil bölişi:** uzangiça itarganda asosdagi membrana yumaloq darça tomon egiladi. Tolalardagi elastik taranglik helikotrema tomon yuguruvçi tölqinni boşlaydi (arteriyadagi bosim tölqini yoki hovuz yuzasidagi tölqin kabi).",
       "depth": 0
      },
      {
-      "text": "**So’nishi:** to’lqin o’z rezonans joyiga yetganda kuchayadi, energiyasi tarqaladi va so’nadi.",
+      "text": "**Sönişi:** tölqin öz rezonans joyiga yetganda kuçayadi, energiyasi tarqaladi va sönadi.",
       "depth": 0
      },
      {
-      "text": "Yuqori chastota qisqa masofa yuradi.",
+      "text": "Yuqori çastota qisqa masofa yuradi.",
       "depth": 1
      },
      {
-      "text": "O’rta chastota taxminan yarmigacha boradi.",
+      "text": "Örta çastota taxminan yarmigaça boradi.",
       "depth": 1
      },
      {
-      "text": "Juda past chastota butun membrana bo’ylab yuradi.",
+      "text": "Juda past çastota butun membrana böylab yuradi.",
       "depth": 1
      },
      {
-      "text": "**Tezlik:** to’lqin boshida tez, keyin sekinlashadi (elastiklik koeffitsienti kamayadi). Shu tufayli yuqori chastotalar bir-biridan ajraladi. Aks holda ular birinchi ~1 mm da to’planib qolardi.",
+      "text": "**Tezlik:** tölqin boşida tez, keyin sekinlaşadi (elastiklik koeffitsienti kamayadi). Şu tufayli yuqori çastotalar bir-biridan ajraladi. Aks holda ular birinçi ~1 mm da töplanib qolardi.",
       "depth": 0
      },
      {
@@ -548,11 +548,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Ichki soch hujayralari:** bitta qator, ~3500 ta, ~12 µm.",
+      "text": "**Içki soç hujayralari:** bitta qator, ~3500 ta, ~12 µm.",
       "depth": 0
      },
      {
-      "text": "**Tashqi soch hujayralari:** 3–4 qator, ~12 000 ta, ~8 µm.",
+      "text": "**Taşqi soç hujayralari:** 3–4 qator, ~12 000 ta, ~8 µm.",
       "depth": 0
      },
      {
@@ -560,7 +560,7 @@
       "depth": 0
      },
      {
-      "text": "Koxlear nerv uchlarining **90–95%** ichki soch hujayralarida tugaydi.",
+      "text": "Koxlear nerv uçlarining **90–95%** içki soç hujayralarida tugaydi.",
       "depth": 1
      },
      {
@@ -577,7 +577,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Soch hujayralarining qo’zg’alishi",
+    "text": "Soç hujayralarining qözğalişi",
     "id": "ch53-s-19-soch-hujayralarining-qozgalishi",
     "bid": "ch53-u19"
    },
@@ -586,51 +586,51 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Stereotsiliyalar:** tektorial membrananing gel qatlamiga tegib turadi yoki botib kiradi. Vestibulyar soch hujayralariga o’xshaydi (ch56).",
+      "text": "**Stereotsiliyalar:** tektorial membrananing gel qatlamiga tegib turadi yoki botib kiradi. Vestibulyar soç hujayralariga öxşaydi (ç56).",
       "depth": 0
      },
      {
-      "text": "Bir tomonga egilsa, depolyarizatsiya bo’ladi.",
+      "text": "Bir tomonga egilsa, depolyarizatsiya böladi.",
       "depth": 1
      },
      {
-      "text": "Teskari tomonga egilsa, giperpolyarizatsiya bo’ladi.",
+      "text": "Teskari tomonga egilsa, giperpolyarizatsiya böladi.",
       "depth": 1
      },
      {
-      "text": "**Bikr blok:** soch hujayralarining tashqi uchlari **retikulyar lamina**ga mahkamlangan. Lamina Korti tayoqchalari orqali bazilyar tolalarga tutashgan, uchalasi bitta bikr blok bo’lib harakatlanadi.",
+      "text": "**Bikr blok:** soç hujayralarining taşqi uçlari **retikulyar lamina**ga mahkamlangan. Lamina Korti tayoqçalari orqali bazilyar tolalarga tutaşgan, uçalasi bitta bikr blok bölib harakatlanadi.",
       "depth": 0
      },
      {
-      "text": "Bazilyar membrana yuqoriga harakatlansa, lamina yuqoriga va modiolus tomon og’adi.",
+      "text": "Bazilyar membrana yuqoriga harakatlansa, lamina yuqoriga va modiolus tomon oğadi.",
       "depth": 1
      },
      {
-      "text": "Pastga harakatlansa, pastga va tashqariga og’adi.",
+      "text": "Pastga harakatlansa, pastga va taşqariga oğadi.",
       "depth": 1
      },
      {
-      "text": "Natijada sochlar tektorial membranaga nisbatan siljiydi (shearing).",
+      "text": "Natijada soçlar tektorial membranaga nisbatan siljiydi (şearing).",
       "depth": 1
      },
      {
-      "text": "**Ichki va tashqi hujayralar roli:**",
+      "text": "**Içki va taşqi hujayralar roli:**",
       "depth": 0
      },
      {
-      "text": "Signallarning ~90% ichki hujayralardan keladi.",
+      "text": "Signallarning ~90% içki hujayralardan keladi.",
       "depth": 1
      },
      {
-      "text": "Ammo tashqi hujayralar shikastlansa, eshitish ancha pasayadi.",
+      "text": "Ammo taşqi hujayralar şikastlansa, eşitiş ança pasayadi.",
       "depth": 1
      },
      {
-      "text": "Tashqi hujayralar ichki hujayralarning chastotaga sezgirligini sozlaydi (\"tuning\").",
+      "text": "Taşqi hujayralar içki hujayralarning çastotaga sezgirligini sozlaydi (“tuning”).",
       "depth": 1
      },
      {
-      "text": "Miya ustunidan tashqi hujayralarga ko’p retrograd tola keladi. Ularni stimulyatsiya qilish tashqi hujayralarni qisqartiradi va bikrligini o’zgartirishi mumkin.",
+      "text": "Miya ustunidan taşqi hujayralarga köp retrograd tola keladi. Ularni stimulyatsiya qiliş taşqi hujayralarni qisqartiradi va bikrligini özgartirişi mumkin.",
       "depth": 1
      }
     ],
@@ -648,7 +648,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Tuzilish:** har hujayrada ~100 stereotsiliya bor, modiolusdan uzoqlashgan sari uzunlashadi. Qisqaroqlarining uchi qo’shni uzunroqqa ingichka \"tip link\" iplar bilan bog’langan.",
+      "text": "**Tuziliş:** har hujayrada ~100 stereotsiliya bor, modiolusdan uzoqlaşgan sari uzunlaşadi. Qisqaroqlarining uçi qöşni uzunroqqa ingiçka “tip link” iplar bilan boğlangan.",
       "depth": 0
      },
      {
@@ -656,23 +656,23 @@
       "depth": 0
      },
      {
-      "text": "Uzunlar tomonga egilganda tip link tortiladi va 200–300 kation kanali ochiladi.",
+      "text": "Uzunlar tomonga egilganda tip link tortiladi va 200–300 kation kanali oçiladi.",
       "depth": 1
      },
      {
-      "text": "Endolimfadan **K⁺ kiradi** va depolyarizatsiya boshlanadi.",
+      "text": "Endolimfadan **K⁺ kiradi** va depolyarizatsiya boşlanadi.",
       "depth": 1
      },
      {
-      "text": "Kuchlanishga bog’liq Ca²⁺ kanallari ochiladi, Ca²⁺ kirib depolyarizatsiyani kuchaytiradi.",
+      "text": "Kuçlanişga boğliq Ca²⁺ kanallari oçiladi, Ca²⁺ kirib depolyarizatsiyani kuçaytiradi.",
       "depth": 1
      },
      {
-      "text": "**Repolyarizatsiya:** Ca²⁺ ga sezgir K⁺ kanallari orqali K⁺ chiqadi.",
+      "text": "**Repolyarizatsiya:** Ca²⁺ ga sezgir K⁺ kanallari orqali K⁺ çiqadi.",
       "depth": 0
      },
      {
-      "text": "**Natija:** egilish scala vestibuli tomon bo’lsa depolyarizatsiya, teskari tomon bo’lsa giperpolyarizatsiya. O’zgaruvchan retseptor potensiali hosil bo’ladi va soch hujayralari **glutamat** chiqaradi.",
+      "text": "**Natija:** egiliş scala vestibuli tomon bölsa depolyarizatsiya, teskari tomon bölsa giperpolyarizatsiya. Özgaruvçan retseptor potensiali hosil böladi va soç hujayralari **glutamat** çiqaradi.",
       "depth": 0
      }
     ],
@@ -690,7 +690,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Perilimfa** (scala vestibuli va tympani) subaraxnoidal bo’shliq bilan tutashgan, deyarli likvorning o’zi.",
+      "text": "**Perilimfa** (scala vestibuli va tympani) subaraxnoidal böşliq bilan tutaşgan, deyarli likvorning özi.",
       "depth": 0
      },
      {
@@ -706,15 +706,15 @@
       "depth": 1
      },
      {
-      "text": "**Endolimfa va perilimfa orasida doimo +80 mV** bor, ichkarisi musbat. Uni stria vascularis K⁺ sekretsiyasi hosil qiladi.",
+      "text": "**Endolimfa va perilimfa orasida doimo +80 mV** bor, içkarisi musbat. Uni stria vascularis K⁺ sekretsiyasi hosil qiladi.",
       "depth": 0
      },
      {
-      "text": "**Soch hujayrasi potensiali:**",
+      "text": "**Soç hujayrasi potensiali:**",
       "depth": 0
      },
      {
-      "text": "Ichki muhiti perilimfaga nisbatan −70 mV.",
+      "text": "Içki muhiti perilimfaga nisbatan −70 mV.",
       "depth": 1
      },
      {
@@ -731,7 +731,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Chastotani aniqlash",
+    "text": "Çastotani aniqlaş",
     "id": "ch53-s-25-chastotani-aniqlash",
     "bid": "ch53-u25"
    },
@@ -744,11 +744,11 @@
       "depth": 0
      },
      {
-      "text": "Past chastota uchda, yuqori chastota asosda faollashtiradi.",
+      "text": "Past çastota uçda, yuqori çastota asosda faollaştiradi.",
       "depth": 1
      },
      {
-      "text": "Koxleyadan po’stloqqacha fazoviy tartib saqlanadi; muayyan neyronlar muayyan chastotaga javob beradi.",
+      "text": "Koxleyadan pöstloqqaça fazoviy tartib saqlanadi; muayyan neyronlar muayyan çastotaga javob beradi.",
       "depth": 1
      },
      {
@@ -756,15 +756,15 @@
       "depth": 0
      },
      {
-      "text": "20–200 Hz ni place bilan ajratish qiyin, chunki helikotrema hammasiga javob beradi.",
+      "text": "20–200 Hz ni place bilan ajratiş qiyin, çunki helikotrema hammasiga javob beradi.",
       "depth": 1
      },
      {
-      "text": "20 Hz dan 1500–2000 Hz gacha nerv impulslari tovush chastotasiga sinxron \"zalp\" beradi, koxlear yadrolar ularni farqlaydi.",
+      "text": "20 Hz dan 1500–2000 Hz gaça nerv impulslari tovuş çastotasiga sinxron “zalp” beradi, koxlear yadrolar ularni farqlaydi.",
       "depth": 1
      },
      {
-      "text": "Koxleyaning apikal yarmi yo’q qilinsa ham past chastota farqlash to’liq yo’qolmaydi.",
+      "text": "Koxleyaning apikal yarmi yöq qilinsa ham past çastota farqlaş töliq yöqolmaydi.",
       "depth": 1
      }
     ],
@@ -773,7 +773,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Balandlikni (loudness) aniqlash",
+    "text": "Balandlikni (loudness) aniqlaş",
     "id": "ch53-s-27-balandlikni-loudness-aniqlash",
     "bid": "ch53-u27"
    },
@@ -782,15 +782,15 @@
     "ordered": true,
     "items": [
      {
-      "text": "**Kuchliroq tebranish:** soch hujayralari nerv uchlarini tezroq qo’zg’atadi.",
+      "text": "**Kuçliroq tebraniş:** soç hujayralari nerv uçlarini tezroq qözğatadi.",
       "depth": 0
      },
      {
-      "text": "**Spatial summation:** rezonans sohasining chetlaridagi hujayralar ham qo’zg’aladi, ko’proq tola jalb qilinadi.",
+      "text": "**Spatial summation:** rezonans sohasining çetlaridagi hujayralar ham qözğaladi, köproq tola jalb qilinadi.",
       "depth": 0
      },
      {
-      "text": "**Tashqi soch hujayralari:** faqat kuchli tebranishda faollashadi va \"tovush baland\" degan ma’lumot beradi.",
+      "text": "**Taşqi soç hujayralari:** faqat kuçli tebranişda faollaşadi va “tovuş baland” degan ma’lumot beradi.",
       "depth": 0
      }
     ],
@@ -801,15 +801,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Power law:** sezgi tovush intensivligining **kub ildizi**ga proporsional.",
+      "text": "**Power law:** sezgi tovuş intensivligining **kub ildizi**ga proporsional.",
       "depth": 0
      },
      {
-      "text": "Shivirdan eng kuchli shovqingacha energiya ~1 trillion marta, bazilyar membrana amplitudasi 1 million marta ortadi.",
+      "text": "Şivirdan eng kuçli şovqingaça energiya ~1 trillion marta, bazilyar membrana amplitudasi 1 million marta ortadi.",
       "depth": 1
      },
      {
-      "text": "Ammo idrok ~10 000 marta o’zgaradi. Shkala \"siqilgan\".",
+      "text": "Ammo idrok ~10 000 marta özgaradi. Şkala “siqilgan”.",
       "depth": 1
      },
      {
@@ -821,35 +821,35 @@
       "depth": 1
      },
      {
-      "text": "1 dB energiyaning 1.26 marta ortishiga teng.",
+      "text": "1 dB energiyaning 1.26 marta ortişiga teng.",
       "depth": 1
      },
      {
-      "text": "Muloqot oralig’ida quloq ~1 dB o’zgarishni zo’rg’a farqlaydi.",
+      "text": "Muloqot oraliğida quloq ~1 dB özgarişni zörğa farqlaydi.",
       "depth": 1
      },
      {
-      "text": "**Eshitish bo’sag’asi (Fig 53-8):**",
+      "text": "**Eşitiş bösağasi (Fig 53-8):**",
       "depth": 0
      },
      {
-      "text": "3000 Hz da eng sezgir: 1 din/sm² dan −70 dB past bosimda, ya’ni 10⁻⁷ µW/sm² da eshitiladi.",
+      "text": "3000 Hz da eng sezgir: 1 din/sm² dan −70 dB past bosimda, ya’ni 10⁻⁷ µW/sm² da eşitiladi.",
       "depth": 1
      },
      {
-      "text": "100 Hz uchun 10 000 marta kuchliroq tovush kerak.",
+      "text": "100 Hz uçun 10 000 marta kuçliroq tovuş kerak.",
       "depth": 1
      },
      {
-      "text": "**Chastota diapazoni:**",
+      "text": "**Çastota diapazoni:**",
       "depth": 0
      },
      {
-      "text": "Yoshlarda **20–20 000 Hz**.",
+      "text": "Yoşlarda **20–20 000 Hz**.",
       "depth": 1
      },
      {
-      "text": "−60 dB da faqat 500–5000 Hz; to’liq diapazon faqat kuchli tovushda.",
+      "text": "−60 dB da faqat 500–5000 Hz; töliq diapazon faqat kuçli tovuşda.",
       "depth": 1
      },
      {
@@ -862,7 +862,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Markaziy eshitish yo’llari (Fig 53-9)",
+    "text": "Markaziy eşitiş yöllari (Fig 53-9)",
     "id": "ch53-s-30-markaziy-eshitish-yollari-fig-53-9",
     "bid": "ch53-u30"
    },
@@ -871,7 +871,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Yo’l bosqichlari:**",
+      "text": "**Yöl bosqiçlari:**",
       "depth": 0
      },
      {
@@ -879,7 +879,7 @@
       "depth": 1
      },
      {
-      "text": "Asosan qarama-qarshi, qisman o’z tomonidagi **yuqori oliva yadrosi**.",
+      "text": "Asosan qarama-qarşi, qisman öz tomonidagi **yuqori oliva yadrosi**.",
       "depth": 1
      },
      {
@@ -887,7 +887,7 @@
       "depth": 1
      },
      {
-      "text": "**Pastki do’mboqcha** (deyarli hammasi sinaps qiladi).",
+      "text": "**Pastki dömboqça** (deyarli hammasi sinaps qiladi).",
       "depth": 1
      },
      {
@@ -895,7 +895,7 @@
       "depth": 1
      },
      {
-      "text": "Eshitish radiatsiyasi → **eshitish po’stlog’i** (yuqori chakka pushtasi).",
+      "text": "Eşitiş radiatsiyasi → **eşitiş pöstloği** (yuqori çakka puştasi).",
       "depth": 1
      },
      {
@@ -903,7 +903,7 @@
       "depth": 0
      },
      {
-      "text": "**Ikki tomonlama uzatish:** har ikki quloq signallari ikkala tomonga boradi, qarama-qarshi tomon ustun. Kesishish uch joyda: trapetsiyasimon tana, lateral lemniscus yadrolari komissurasi, pastki do’mboqchalar komissurasi.",
+      "text": "**Ikki tomonlama uzatiş:** har ikki quloq signallari ikkala tomonga boradi, qarama-qarşi tomon ustun. Kesişiş uç joyda: trapetsiyasimon tana, lateral lemniscus yadrolari komissurasi, pastki dömboqçalar komissurasi.",
       "depth": 1
      },
      {
@@ -911,35 +911,35 @@
       "depth": 1
      },
      {
-      "text": "Retikulyar faollashtiruvchi tizimga boradi; kuchli tovush butun nerv tizimini uyg’otadi.",
+      "text": "Retikulyar faollaştiruvçi tizimga boradi; kuçli tovuş butun nerv tizimini uyğotadi.",
       "depth": 2
      },
      {
-      "text": "Serebellum chuvalchangiga ham boradi; kutilmagan shovqinda darhol faollashadi.",
+      "text": "Serebellum çuvalçangiga ham boradi; kutilmagan şovqinda darhol faollaşadi.",
       "depth": 2
      },
      {
-      "text": "**Fazoviy (tonotopik) tartib:** koxlear yadrolarda 3 ta, pastki do’mboqchada 2 ta, po’stloqda bitta aniq va kamida 5 ta noaniq xarita.",
+      "text": "**Fazoviy (tonotopik) tartib:** koxlear yadrolarda 3 ta, pastki dömboqçada 2 ta, pöstloqda bitta aniq va kamida 5 ta noaniq xarita.",
       "depth": 1
      },
      {
-      "text": "**Razryad chastotalari:**",
+      "text": "**Razryad çastotalari:**",
       "depth": 0
      },
      {
-      "text": "Koxlear nerv tolalari ≥1000/s gacha razryad beradi; chastota asosan balandlikka bog’liq.",
+      "text": "Koxlear nerv tolalari ≥1000/s gaça razryad beradi; çastota asosan balandlikka boğliq.",
       "depth": 1
      },
      {
-      "text": "2000–4000 Hz gacha tovush to’lqiniga sinxron (har to’lqinda emas).",
+      "text": "2000–4000 Hz gaça tovuş tölqiniga sinxron (har tölqinda emas).",
       "depth": 1
      },
      {
-      "text": "Miya ustunida sinxronlik faqat <200 Hz da saqlanadi; pastki do’mboqchadan yuqorida deyarli yo’qoladi.",
+      "text": "Miya ustunida sinxronlik faqat <200 Hz da saqlanadi; pastki dömboqçadan yuqorida deyarli yöqoladi.",
       "depth": 1
      },
      {
-      "text": "Ya’ni axborot koxlear yadrolardayoq ajratila boshlaydi.",
+      "text": "Ya’ni axborot koxlear yadrolardayoq ajratila boşlaydi.",
       "depth": 1
      }
     ],
@@ -948,7 +948,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Eshitish po’stlog’i (Fig 53-10)",
+    "text": "Eşitiş pöstloği (Fig 53-10)",
     "id": "ch53-s-32-eshitish-postlogi-fig-53-10",
     "bid": "ch53-u32"
    },
@@ -957,19 +957,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Joylashuvi:** asosan yuqori chakka pushtasining supratemporal tekisligida; chakka bo’lagi lateral yuzasi, insula va tepa operkulumiga ham tarqaladi.",
+      "text": "**Joylaşuvi:** asosan yuqori çakka puştasining supratemporal tekisligida; çakka bölagi lateral yuzasi, insula va tepa operkulumiga ham tarqaladi.",
       "depth": 0
      },
      {
-      "text": "**Bo’limlari:**",
+      "text": "**Bölimlari:**",
       "depth": 0
      },
      {
-      "text": "**Birlamchi po’stloq** medial tizzasimon tanadan bevosita qo’zg’aladi.",
+      "text": "**Birlamçi pöstloq** medial tizzasimon tanadan bevosita qözğaladi.",
       "depth": 1
      },
      {
-      "text": "**Assotsiatsiya (ikkilamchi) po’stloq** birlamchi po’stloqdan va talamik assotsiatsiya sohalaridan qo’zg’aladi.",
+      "text": "**Assotsiatsiya (ikkilamçi) pöstloq** birlamçi pöstloqdan va talamik assotsiatsiya sohalaridan qözğaladi.",
       "depth": 1
      },
      {
@@ -977,27 +977,27 @@
       "depth": 0
      },
      {
-      "text": "Kamida 6 ta; ko’pchiligida past chastota oldinda, yuqori chastota orqada.",
+      "text": "Kamida 6 ta; köpçiligida past çastota oldinda, yuqori çastota orqada.",
       "depth": 1
      },
      {
-      "text": "Har bir xarita alohida xususiyatni ajratadi: balandlik (pitch), yo’nalish, tovushning to’satdan boshlanishi, shovqin va sof ton farqi.",
+      "text": "Har bir xarita alohida xususiyatni ajratadi: balandlik (pitç), yönaliş, tovuşning tösatdan boşlanişi, şovqin va sof ton farqi.",
       "depth": 1
      },
      {
-      "text": "**Chastota sozlanishining o’tkirlashuvi:**",
+      "text": "**Çastota sozlanişining ötkirlaşuvi:**",
       "depth": 0
      },
      {
-      "text": "Po’stloq neyronlari koxlear yadrolardagidan ancha tor chastota oralig’iga javob beradi.",
+      "text": "Pöstloq neyronlari koxlear yadrolardagidan ança tor çastota oraliğiga javob beradi.",
       "depth": 1
      },
      {
-      "text": "Sabab: yo’l bo’ylab **lateral inhibitsiya**.",
+      "text": "Sabab: yöl böylab **lateral inhibitsiya**.",
       "depth": 1
      },
      {
-      "text": "**Assotsiatsiya neyronlari:** chastotalarni bir-biri bilan va boshqa sezgilar bilan bog’laydi. Tepa qismi somatosensor area II bilan qisman ustma-ust tushadi.",
+      "text": "**Assotsiatsiya neyronlari:** çastotalarni bir-biri bilan va boşqa sezgilar bilan boğlaydi. Tepa qismi somatosensor area II bilan qisman ustma-ust tuşadi.",
       "depth": 0
      }
     ],
@@ -1006,7 +1006,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Po’stloq shikastlanishi",
+    "text": "Pöstloq şikastlanişi",
     "id": "ch53-s-34-postloq-shikastlanishi",
     "bid": "ch53-u34"
    },
@@ -1015,15 +1015,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Ikki tomonlama to’liq olib tashlash (mushuk, maymun):**",
+      "text": "**Ikki tomonlama töliq olib taşlaş (muşuk, maymun):**",
       "depth": 0
      },
      {
-      "text": "Tovushni sezish va qo’pol reaksiya saqlanadi.",
+      "text": "Tovuşni seziş va qöpol reaksiya saqlanadi.",
       "depth": 1
      },
      {
-      "text": "Ton va ayniqsa tovush ketma-ketligi (pattern) ni farqlash yo’qoladi va qayta o’rganilmaydi.",
+      "text": "Ton va ayniqsa tovuş ketma-ketligi (pattern) ni farqlaş yöqoladi va qayta örganilmaydi.",
       "depth": 1
      },
      {
@@ -1031,15 +1031,15 @@
       "depth": 0
      },
      {
-      "text": "**Ikki tomonlama birlamchi po’stloq** yo’qolsa, sezgirlik ancha pasayadi.",
+      "text": "**Ikki tomonlama birlamçi pöstloq** yöqolsa, sezgirlik ança pasayadi.",
       "depth": 1
      },
      {
-      "text": "**Bir tomonlama** yo’qolsa, qarama-qarshi quloqda eshitish biroz pasayadi, lekin karlik yo’q (kesishmalar tufayli). Biroq manbani lokalizatsiya qilish buziladi.",
+      "text": "**Bir tomonlama** yöqolsa, qarama-qarşi quloqda eşitiş biroz pasayadi, lekin karlik yöq (kesişmalar tufayli). Biroq manbani lokalizatsiya qiliş buziladi.",
       "depth": 1
      },
      {
-      "text": "**Faqat assotsiatsiya sohasi** shikastlansa, eshitish va tonlarni farqlash saqlanadi, lekin ma’no tushunilmaydi. Masalan, **Wernicke sohasi** (yuqori chakka pushtasining orqa qismi) shikastida so’zlar eshitiladi va takrorlanadi, ammo ma’nosi tushunilmaydi (ch58).",
+      "text": "**Faqat assotsiatsiya sohasi** şikastlansa, eşitiş va tonlarni farqlaş saqlanadi, lekin ma’no tuşunilmaydi. Masalan, **Wernicke sohasi** (yuqori çakka puştasining orqa qismi) şikastida sözlar eşitiladi va takrorlanadi, ammo ma’nosi tuşunilmaydi (ç58).",
       "depth": 1
      }
     ],
@@ -1048,7 +1048,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Tovush yo’nalishini aniqlash",
+    "text": "Tovuş yönalişini aniqlaş",
     "id": "ch53-s-36-tovush-yonalishini-aniqlash",
     "bid": "ch53-u36"
    },
@@ -1057,19 +1057,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Gorizontal yo’nalish:**",
+      "text": "**Gorizontal yönaliş:**",
       "depth": 0
      },
      {
-      "text": "**Vaqt farqi:** ikki quloqqa kirish orasidagi farq; <3000 Hz da yaxshi va ancha aniq.",
+      "text": "**Vaqt farqi:** ikki quloqqa kiriş orasidagi farq; <3000 Hz da yaxşi va ança aniq.",
       "depth": 1
      },
      {
-      "text": "**Intensivlik farqi:** yuqori chastotalarda yaxshi, chunki bosh to’siq bo’ladi.",
+      "text": "**Intensivlik farqi:** yuqori çastotalarda yaxşi, çunki boş tösiq böladi.",
       "depth": 1
      },
      {
-      "text": "**Old/orqa va yuqori/past:** asosan **quloq suprasi** (pinna) shakli orqali, u yo’nalishga qarab ma’lum chastotalarni kuchaytiradi.",
+      "text": "**Old/orqa va yuqori/past:** asosan **quloq suprasi** (pinna) şakli orqali, u yönalişga qarab ma’lum çastotalarni kuçaytiradi.",
       "depth": 0
      },
      {
@@ -1077,7 +1077,7 @@
       "depth": 0
      },
      {
-      "text": "Ikki tomonlama eshitish po’stlog’i yo’qolsa, yo’nalishni aniqlash deyarli butunlay yo’qoladi. Tahlil esa **yuqori oliva yadrolari**da boshlanadi.",
+      "text": "Ikki tomonlama eşitiş pöstloği yöqolsa, yönalişni aniqlaş deyarli butunlay yöqoladi. Tahlil esa **yuqori oliva yadrolari**da boşlanadi.",
       "depth": 1
      },
      {
@@ -1089,19 +1089,19 @@
       "depth": 1
      },
      {
-      "text": "Neyronlari ikki dendritli: o’ng dendrit o’ng quloqdan, chap dendrit chap quloqdan signal oladi.",
+      "text": "Neyronlari ikki dendritli: öng dendrit öng quloqdan, çap dendrit çap quloqdan signal oladi.",
       "depth": 2
      },
      {
-      "text": "Har neyron muayyan vaqt kechikishiga sezgir; yadro bir chetidan ikkinchisiga qisqa kechikishdan uzunga qarab tartiblangan.",
+      "text": "Har neyron muayyan vaqt keçikişiga sezgir; yadro bir çetidan ikkinçisiga qisqa keçikişdan uzunga qarab tartiblangan.",
       "depth": 2
      },
      {
-      "text": "Natijada fazoviy xarita hosil bo’ladi va po’stloqqa uzatiladi.",
+      "text": "Natijada fazoviy xarita hosil böladi va pöstloqqa uzatiladi.",
       "depth": 2
      },
      {
-      "text": "Yo’nalish signallari ton signallaridan boshqa yo’l va boshqa po’stloq joyi orqali o’tadi. \"Yo’nalish\" sifati yuqori olivada ajratiladi.",
+      "text": "Yönaliş signallari ton signallaridan boşqa yöl va boşqa pöstloq joyi orqali ötadi. “Yönaliş” sifati yuqori olivada ajratiladi.",
       "depth": 1
      }
     ],
@@ -1119,15 +1119,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Yo’nalish:** har bosqichda po’stloqdan koxleyagacha retrograd yo’llar bor. Oxirgisi yuqori olivadan Korti organi soch hujayralariga boradi; ular inhibitor.",
+      "text": "**Yönaliş:** har bosqiçda pöstloqdan koxleyagaça retrograd yöllar bor. Oxirgisi yuqori olivadan Korti organi soç hujayralariga boradi; ular inhibitor.",
       "depth": 0
      },
      {
-      "text": "**Ta’siri:** olivani stimulyatsiya qilish Korti organining muayyan sohasida sezgirlikni 15–20 dB kamaytiradi.",
+      "text": "**Ta’siri:** olivani stimulyatsiya qiliş Korti organining muayyan sohasida sezgirlikni 15–20 dB kamaytiradi.",
       "depth": 0
      },
      {
-      "text": "**Ma’nosi:** diqqatni muayyan tovushga qaratish, masalan, orkestrdagi bitta cholg’uni tinglash.",
+      "text": "**Ma’nosi:** diqqatni muayyan tovuşga qaratiş, masalan, orkestrdagi bitta çolğuni tinglaş.",
       "depth": 0
      }
     ],
@@ -1149,23 +1149,23 @@
       "depth": 0
      },
      {
-      "text": "Koxleya, eshitish nervi yoki markaziy yo’llar shikastlanadi.",
+      "text": "Koxleya, eşitiş nervi yoki markaziy yöllar şikastlanadi.",
       "depth": 1
      },
      {
-      "text": "Koxleya yoki nerv to’liq yo’q qilinsa, karlik doimiy.",
+      "text": "Koxleya yoki nerv töliq yöq qilinsa, karlik doimiy.",
       "depth": 1
      },
      {
-      "text": "**O’tkazuvchan karlik:**",
+      "text": "**Ötkazuvçan karlik:**",
       "depth": 0
      },
      {
-      "text": "Tovushni o’tkazuvchi tuzilmalar shikastlanadi, masalan, nog’ora parda va suyakchalar yemirilishi yoki ankilozi (fibroz yoki ohaklanish).",
+      "text": "Tovuşni ötkazuvçi tuzilmalar şikastlanadi, masalan, noğora parda va suyakçalar yemirilişi yoki ankilozi (fibroz yoki ohaklaniş).",
       "depth": 1
      },
      {
-      "text": "Koxleya va nerv butun bo’lsa, suyak orqali eshitish saqlanadi.",
+      "text": "Koxleya va nerv butun bölsa, suyak orqali eşitiş saqlanadi.",
       "depth": 1
      },
      {
@@ -1173,19 +1173,19 @@
       "depth": 0
      },
      {
-      "text": "Quloqchin va toza ton generatori; 0 dB = normal quloqning bo’sag’asi.",
+      "text": "Quloqçin va toza ton generatori; 0 dB = normal quloqning bösağasi.",
       "depth": 1
      },
      {
-      "text": "Masalan, normaldan 30 dB yuqorida eshitsa, shu chastotada 30 dB yo’qotish.",
+      "text": "Masalan, normaldan 30 dB yuqorida eşitsa, şu çastotada 30 dB yöqotiş.",
       "depth": 1
      },
      {
-      "text": "8–10 chastota tekshiriladi va audiogramma chiziladi.",
+      "text": "8–10 çastota tekşiriladi va audiogramma çiziladi.",
       "depth": 1
      },
      {
-      "text": "Havo orqali o’tkazuvchanlik uchun quloqchin, suyak orqali o’tkazuvchanlik uchun mastoidga vibrator ishlatiladi.",
+      "text": "Havo orqali ötkazuvçanlik uçun quloqçin, suyak orqali ötkazuvçanlik uçun mastoidga vibrator işlatiladi.",
       "depth": 1
      },
      {
@@ -1193,23 +1193,23 @@
       "depth": 0
      },
      {
-      "text": "Havo va suyak o’tkazuvchanligi ikkalasi ham pasaygan.",
+      "text": "Havo va suyak ötkazuvçanligi ikkalasi ham pasaygan.",
       "depth": 1
      },
      {
-      "text": "**Qarilik:** asosan yuqori chastotalar pasayadi (koxleya asosi shikasti); deyarli barcha qariyalarda biroz kuzatiladi.",
+      "text": "**Qarilik:** asosan yuqori çastotalar pasayadi (koxleya asosi şikasti); deyarli barça qariyalarda biroz kuzatiladi.",
       "depth": 1
      },
      {
-      "text": "**Uzoq kuchli shovqin** (rok-guruh, reaktiv dvigatel): past chastotalar pasayadi, chunki past chastotali tovushlar odatda balandroq va zararliroq.",
+      "text": "**Uzoq kuçli şovqin** (rok-guruh, reaktiv dvigatel): past çastotalar pasayadi, çunki past çastotali tovuşlar odatda balandroq va zararliroq.",
       "depth": 1
      },
      {
-      "text": "**Ototoksik dorilar** (streptomitsin, gentamitsin, kanamitsin, xloramfenikol): barcha chastotalar pasayadi.",
+      "text": "**Ototoksik dorilar** (streptomitsin, gentamitsin, kanamitsin, xloramfenikol): barça çastotalar pasayadi.",
       "depth": 1
      },
      {
-      "text": "**O’rta quloq o’tkazuvchan karligi (Fig 53-12):**",
+      "text": "**Örta quloq ötkazuvçan karligi (Fig 53-12):**",
       "depth": 0
      },
      {
@@ -1217,11 +1217,11 @@
       "depth": 1
      },
      {
-      "text": "Suyak o’tkazuvchanligi normal, havo o’tkazuvchanligi barcha chastotalarda, ayniqsa pastlarida pasaygan.",
+      "text": "Suyak ötkazuvçanligi normal, havo ötkazuvçanligi barça çastotalarda, ayniqsa pastlarida pasaygan.",
       "depth": 1
      },
      {
-      "text": "**Uzangicha ankilozi:** suyakcha o’tkazuvchanligi to’liq yo’qoladi. Uzangicha olib tashlanib, teflon yoki metall protez qo’yilsa, deyarli normal eshitish tiklanadi.",
+      "text": "**Uzangiça ankilozi:** suyakça ötkazuvçanligi töliq yöqoladi. Uzangiça olib taşlanib, teflon yoki metall protez qöyilsa, deyarli normal eşitiş tiklanadi.",
       "depth": 1
      }
     ],
@@ -1243,23 +1243,23 @@
       "depth": 0
      },
      {
-      "text": "**Sensorinevral karlik:** qarilikda yuqori chastotalar; shovqindan zararlanish; ototoksik antibiotiklar (aminoglikozidlar).",
+      "text": "**Sensorinevral karlik:** qarilikda yuqori çastotalar; şovqindan zararlaniş; ototoksik antibiotiklar (aminoglikozidlar).",
       "depth": 0
      },
      {
-      "text": "**O’tkazuvchan karlik:** otoskleroz bo’lsa, stapedektomiya va protez.",
+      "text": "**Ötkazuvçan karlik:** otoskleroz bölsa, stapedektomiya va protez.",
       "depth": 0
      },
      {
-      "text": "**Audiogramma:** havo va suyak o’tkazuvchanligini taqqoslash karlik turini ajratadi.",
+      "text": "**Audiogramma:** havo va suyak ötkazuvçanligini taqqoslaş karlik turini ajratadi.",
       "depth": 0
      },
      {
-      "text": "**Wernicke sohasi shikasti:** so’z ma’nosini tushunmaslik.",
+      "text": "**Wernicke sohasi şikasti:** söz ma’nosini tuşunmaslik.",
       "depth": 0
      },
      {
-      "text": "**Bir tomonlama po’stloq shikasti:** tovush lokalizatsiyasi buziladi.",
+      "text": "**Bir tomonlama pöstloq şikasti:** tovuş lokalizatsiyasi buziladi.",
       "depth": 0
      }
     ],
@@ -1268,7 +1268,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Bog’liqlik",
+    "text": "Boğliqlik",
     "id": "ch53-s-44-bogliqlik",
     "bid": "ch53-u44"
    },
@@ -1277,31 +1277,31 @@
     "ordered": false,
     "items": [
      {
-      "text": "**ch56:** vestibulyar soch hujayralari.",
+      "text": "**ç56:** vestibulyar soç hujayralari.",
       "depth": 0
      },
      {
-      "text": "**ch47:** power law, lateral inhibitsiya.",
+      "text": "**ç47:** power law, lateral inhibitsiya.",
       "depth": 0
      },
      {
-      "text": "**ch48:** Pacinian va intensivlik.",
+      "text": "**ç48:** Pacinian va intensivlik.",
       "depth": 0
      },
      {
-      "text": "**ch58:** Wernicke sohasi, nutq.",
+      "text": "**ç58:** Wernicke sohasi, nutq.",
       "depth": 0
      },
      {
-      "text": "**ch60:** retikulyar faollashtiruvchi tizim.",
+      "text": "**ç60:** retikulyar faollaştiruvçi tizim.",
       "depth": 0
      },
      {
-      "text": "**ch57:** serebellum.",
+      "text": "**ç57:** serebellum.",
       "depth": 0
      },
      {
-      "text": "**ch15:** to’lqin o’tkazilishi.",
+      "text": "**ç15:** tölqin ötkazilişi.",
       "depth": 0
      }
     ],
@@ -2008,7 +2008,7 @@
    "id": "ch53-t-place-principle",
    "termUz": "place principle",
    "original": null,
-   "contextUz": "Har bir chastota o’z rezonans joyida eng katta amplitudaga ega bo’ladi (place principle).",
+   "contextUz": "Har bir çastota öz rezonans joyida eng katta amplitudaga ega böladi (place principle).",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2016,9 +2016,9 @@
   },
   {
    "id": "ch53-t-suyakchalar",
-   "termUz": "Suyakchalar",
+   "termUz": "Suyakçalar",
    "original": null,
-   "contextUz": "Suyakchalar: bolg’acha (malleus) dastasi nog’ora parda markaziga yopishgan; sandon (incus) bilan bog’langan; sandon uzangichaga (stapes) ulangan.",
+   "contextUz": "Suyakçalar: bolğaça (malleus) dastasi noğora parda markaziga yopişgan; sandon (incus) bilan boğlangan; sandon uzangiçaga (stapes) ulangan.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2028,7 +2028,7 @@
    "id": "ch53-t-tensor-tympani",
    "termUz": "Tensor tympani",
    "original": null,
-   "contextUz": "Tensor tympani bolg’acha dastasini tortib, nog’ora pardani taranglashtiradi.",
+   "contextUz": "Tensor tympani bolğaça dastasini tortib, noğora pardani taranglaştiradi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2036,9 +2036,9 @@
   },
   {
    "id": "ch53-t-richag-tizimi",
-   "termUz": "Richag tizimi",
+   "termUz": "Riçag tizimi",
    "original": null,
-   "contextUz": "Richag tizimi: bolg’acha va sandon tayanch nuqtasi nog’ora parda chetida bo’lgan yagona richagdek ishlaydi.",
+   "contextUz": "Riçag tizimi: bolğaça va sandon tayanç nuqtasi noğora parda çetida bölgan yagona riçagdek işlaydi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2046,9 +2046,9 @@
   },
   {
    "id": "ch53-t-harakat-va-kuch",
-   "termUz": "Harakat va kuch",
+   "termUz": "Harakat va kuç",
    "original": null,
-   "contextUz": "Harakat va kuch: uzangicha amplitudasi bolg’acha dastasinikining atigi 3/4 qismi.",
+   "contextUz": "Harakat va kuç: uzangiça amplitudasi bolğaça dastasinikining atigi 3/4 qismi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2058,7 +2058,7 @@
    "id": "ch53-t-yuza-nisbati",
    "termUz": "Yuza nisbati",
    "original": null,
-   "contextUz": "Yuza nisbati: nog’ora parda ~55 mm², uzangicha asosi ~3.",
+   "contextUz": "Yuza nisbati: noğora parda ~55 mm², uzangiça asosi ~3.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2078,7 +2078,7 @@
    "id": "ch53-t-22-marta",
    "termUz": "22 marta",
    "original": null,
-   "contextUz": "3 ≈ 22 marta ko’proq kuch koxlear suyuqlikka tushadi.",
+   "contextUz": "3 ≈ 22 marta köproq kuç koxlear suyuqlikka tuşadi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2088,7 +2088,7 @@
    "id": "ch53-t-samaradorlik",
    "termUz": "Samaradorlik",
    "original": null,
-   "contextUz": "Samaradorlik: 300–3000 Hz da moslashuv mukammalning 50–75% ini tashkil qiladi.",
+   "contextUz": "Samaradorlik: 300–3000 Hz da moslaşuv mukammalning 50–75% ini taşkil qiladi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2096,9 +2096,9 @@
   },
   {
    "id": "ch53-t-suyakchalarsiz",
-   "termUz": "Suyakchalarsiz",
+   "termUz": "Suyakçalarsiz",
    "original": null,
-   "contextUz": "Suyakchalarsiz: tovush havo orqali oval darchaga borishi mumkin, lekin sezgirlik 15–20 dB past bo’ladi (o’rtacha ovozdan zo’rg’a eshitiladigan ovozgacha).",
+   "contextUz": "Suyakçalarsiz: tovuş havo orqali oval darçaga borişi mumkin, lekin sezgirlik 15–20 dB past böladi (örtaça ovozdan zörğa eşitiladigan ovozgaça).",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2106,9 +2106,9 @@
   },
   {
    "id": "ch53-t-ishga-tushishi",
-   "termUz": "Ishga tushishi",
+   "termUz": "Işga tuşişi",
    "original": null,
-   "contextUz": "Ishga tushishi: kuchli tovushdan 40–80 ms o’tib stapedius va qisman tensor tympani qisqaradi.",
+   "contextUz": "Işga tuşişi: kuçli tovuşdan 40–80 ms ötib stapedius va qisman tensor tympani qisqaradi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2118,7 +2118,7 @@
    "id": "ch53-t-stapedius",
    "termUz": "stapedius",
    "original": null,
-   "contextUz": "Ishga tushishi: kuchli tovushdan 40–80 ms o’tib stapedius va qisman tensor tympani qisqaradi.",
+   "contextUz": "Işga tuşişi: kuçli tovuşdan 40–80 ms ötib stapedius va qisman tensor tympani qisqaradi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2128,7 +2128,7 @@
    "id": "ch53-t-tasiri",
    "termUz": "Ta’siri",
    "original": null,
-   "contextUz": "Ta’siri: <1000 Hz past chastotalar 30–40 dB ga susayadi (baland ovoz va shivir farqidek).",
+   "contextUz": "Ta’siri: <1000 Hz past çastotalar 30–40 dB ga susayadi (baland ovoz va şivir farqidek).",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2138,7 +2138,7 @@
    "id": "ch53-t-vazifalari",
    "termUz": "Vazifalari",
    "original": null,
-   "contextUz": "Vazifalari: Koxleyani zararli tebranishdan himoya qilish.",
+   "contextUz": "Vazifalari: Koxleyani zararli tebranişdan himoya qiliş.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2148,7 +2148,7 @@
    "id": "ch53-t-mexanizm",
    "termUz": "Mexanizm",
    "original": null,
-   "contextUz": "Mexanizm: koxleya chakka suyagining suyak labirintida joylashgan.",
+   "contextUz": "Mexanizm: koxleya çakka suyagining suyak labirintida joylaşgan.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2158,7 +2158,7 @@
    "id": "ch53-t-amaliyot",
    "termUz": "Amaliyot",
    "original": null,
-   "contextUz": "Amaliyot: kamerton yoki vibrator so’rg’ichsimon o’siqqa (mastoid) qo’yilsa eshitiladi.",
+   "contextUz": "Amaliyot: kamerton yoki vibrator sörğiçsimon ösiqqa (mastoid) qöyilsa eşitiladi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2166,9 +2166,9 @@
   },
   {
    "id": "ch53-t-cheklov",
-   "termUz": "Cheklov",
+   "termUz": "Çeklov",
    "original": null,
-   "contextUz": "Cheklov: oddiy havodagi tovush energiyasi suyak orqali eshitish uchun yetarli emas.",
+   "contextUz": "Çeklov: oddiy havodagi tovuş energiyasi suyak orqali eşitiş uçun yetarli emas.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2176,9 +2176,9 @@
   },
   {
    "id": "ch53-t-uch-kanal",
-   "termUz": "Uch kanal",
+   "termUz": "Uç kanal",
    "original": null,
-   "contextUz": "Uch kanal: Scala vestibuli va scala media orasida Reissner (vestibulyar) membranasi bor.",
+   "contextUz": "Uç kanal: Scala vestibuli va scala media orasida Reissner (vestibulyar) membranasi bor.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2188,7 +2188,7 @@
    "id": "ch53-t-scala-vestibuli",
    "termUz": "Scala vestibuli",
    "original": null,
-   "contextUz": "Uch kanal: Scala vestibuli va scala media orasida Reissner (vestibulyar) membranasi bor.",
+   "contextUz": "Uç kanal: Scala vestibuli va scala media orasida Reissner (vestibulyar) membranasi bor.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2198,7 +2198,7 @@
    "id": "ch53-t-scala-media",
    "termUz": "scala media",
    "original": null,
-   "contextUz": "Uch kanal: Scala vestibuli va scala media orasida Reissner (vestibulyar) membranasi bor.",
+   "contextUz": "Uç kanal: Scala vestibuli va scala media orasida Reissner (vestibulyar) membranasi bor.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2218,7 +2218,7 @@
    "id": "ch53-t-korti-organi",
    "termUz": "Korti organi",
    "original": null,
-   "contextUz": "Korti organi bazilyar membrana ustida joylashgan va soch hujayralarini o’z ichiga oladi.",
+   "contextUz": "Korti organi bazilyar membrana ustida joylaşgan va soç hujayralarini öz içiga oladi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2228,7 +2228,7 @@
    "id": "ch53-t-reissner-membranasi",
    "termUz": "Reissner membranasi",
    "original": null,
-   "contextUz": "Reissner membranasi juda yupqa, tovush o’tishiga to’sqinlik qilmaydi.",
+   "contextUz": "Reissner membranasi juda yupqa, tovuş ötişiga tösqinlik qilmaydi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2236,9 +2236,9 @@
   },
   {
    "id": "ch53-t-oval-darcha",
-   "termUz": "Oval darcha",
+   "termUz": "Oval darça",
    "original": null,
-   "contextUz": "Oval darcha: uzangicha asosi bo’shroq halqasimon boylam bilan bog’langan va ichkari-tashqari harakatlanadi.",
+   "contextUz": "Oval darça: uzangiça asosi böşroq halqasimon boylam bilan boğlangan va içkari-taşqari harakatlanadi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2246,9 +2246,9 @@
   },
   {
    "id": "ch53-t-yumaloq-darcha",
-   "termUz": "Yumaloq darcha",
+   "termUz": "Yumaloq darça",
    "original": null,
-   "contextUz": "Yumaloq darcha: koxleya suyak bilan o’ralgan, shuning uchun oval darcha ichkariga kirsa, yumaloq darcha tashqariga bo’rtadi.",
+   "contextUz": "Yumaloq darça: koxleya suyak bilan öralgan, şuning uçun oval darça içkariga kirsa, yumaloq darça taşqariga börtadi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2258,7 +2258,7 @@
    "id": "ch53-t-helikotrema",
    "termUz": "Helikotrema",
    "original": null,
-   "contextUz": "Helikotrema: uchidagi teshik, scala vestibuli va scala tympani shu yerda tutashadi.",
+   "contextUz": "Helikotrema: uçidagi teşik, scala vestibuli va scala tympani şu yerda tutaşadi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2276,9 +2276,9 @@
   },
   {
    "id": "ch53-t-asosdan-uchgacha-ozgarish",
-   "termUz": "Asosdan uchgacha o’zgarish",
+   "termUz": "Asosdan uçgaça özgariş",
    "original": null,
-   "contextUz": "Asosdan uchgacha o’zgarish: Uzunlik 0.",
+   "contextUz": "Asosdan uçgaça özgariş: Uzunlik 0.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2288,7 +2288,7 @@
    "id": "ch53-t-natija",
    "termUz": "Natija",
    "original": null,
-   "contextUz": "Natija: Asosda (oval darcha yonida) yuqori chastotalar rezonans beradi.",
+   "contextUz": "Natija: Asosda (oval darça yonida) yuqori çastotalar rezonans beradi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2298,7 +2298,7 @@
    "id": "ch53-t-asosda",
    "termUz": "Asosda",
    "original": "oval darcha yonida",
-   "contextUz": "Natija: Asosda (oval darcha yonida) yuqori chastotalar rezonans beradi.",
+   "contextUz": "Natija: Asosda (oval darça yonida) yuqori çastotalar rezonans beradi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2306,9 +2306,9 @@
   },
   {
    "id": "ch53-t-uchda",
-   "termUz": "Uchda",
+   "termUz": "Uçda",
    "original": "helikotrema",
-   "contextUz": "Uchda (helikotrema) past chastotalar rezonans beradi.",
+   "contextUz": "Uçda (helikotrema) past çastotalar rezonans beradi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2316,9 +2316,9 @@
   },
   {
    "id": "ch53-t-hosil-bolishi",
-   "termUz": "Hosil bo’lishi",
+   "termUz": "Hosil bölişi",
    "original": null,
-   "contextUz": "Hosil bo’lishi: uzangicha itarganda asosdagi membrana yumaloq darcha tomon egiladi.",
+   "contextUz": "Hosil bölişi: uzangiça itarganda asosdagi membrana yumaloq darça tomon egiladi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2326,9 +2326,9 @@
   },
   {
    "id": "ch53-t-sonishi",
-   "termUz": "So’nishi",
+   "termUz": "Sönişi",
    "original": null,
-   "contextUz": "So’nishi: to’lqin o’z rezonans joyiga yetganda kuchayadi, energiyasi tarqaladi va so’nadi.",
+   "contextUz": "Sönişi: tölqin öz rezonans joyiga yetganda kuçayadi, energiyasi tarqaladi va sönadi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2338,7 +2338,7 @@
    "id": "ch53-t-tezlik",
    "termUz": "Tezlik",
    "original": null,
-   "contextUz": "Tezlik: to’lqin boshida tez, keyin sekinlashadi (elastiklik koeffitsienti kamayadi).",
+   "contextUz": "Tezlik: tölqin boşida tez, keyin sekinlaşadi (elastiklik koeffitsienti kamayadi).",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2356,9 +2356,9 @@
   },
   {
    "id": "ch53-t-ichki-soch-hujayralari",
-   "termUz": "Ichki soch hujayralari",
+   "termUz": "Içki soç hujayralari",
    "original": null,
-   "contextUz": "Ichki soch hujayralari: bitta qator, ~3500 ta, ~12 µm.",
+   "contextUz": "Içki soç hujayralari: bitta qator, ~3500 ta, ~12 µm.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2366,9 +2366,9 @@
   },
   {
    "id": "ch53-t-tashqi-soch-hujayralari",
-   "termUz": "Tashqi soch hujayralari",
+   "termUz": "Taşqi soç hujayralari",
    "original": null,
-   "contextUz": "Tashqi soch hujayralari: 3–4 qator, ~12 000 ta, ~8 µm.",
+   "contextUz": "Taşqi soç hujayralari: 3–4 qator, ~12 000 ta, ~8 µm.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2378,7 +2378,7 @@
    "id": "ch53-t-innervatsiya",
    "termUz": "Innervatsiya",
    "original": null,
-   "contextUz": "Innervatsiya: Koxlear nerv uchlarining 90–95% ichki soch hujayralarida tugaydi.",
+   "contextUz": "Innervatsiya: Koxlear nerv uçlarining 90–95% içki soç hujayralarida tugaydi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2388,7 +2388,7 @@
    "id": "ch53-t-90-95",
    "termUz": "90–95%",
    "original": null,
-   "contextUz": "Innervatsiya: Koxlear nerv uchlarining 90–95% ichki soch hujayralarida tugaydi.",
+   "contextUz": "Innervatsiya: Koxlear nerv uçlarining 90–95% içki soç hujayralarida tugaydi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2418,7 +2418,7 @@
    "id": "ch53-t-bikr-blok",
    "termUz": "Bikr blok",
    "original": null,
-   "contextUz": "Bikr blok: soch hujayralarining tashqi uchlari retikulyar laminaga mahkamlangan.",
+   "contextUz": "Bikr blok: soç hujayralarining taşqi uçlari retikulyar laminaga mahkamlangan.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2428,7 +2428,7 @@
    "id": "ch53-t-retikulyar-lamina",
    "termUz": "retikulyar lamina",
    "original": null,
-   "contextUz": "Bikr blok: soch hujayralarining tashqi uchlari retikulyar laminaga mahkamlangan.",
+   "contextUz": "Bikr blok: soç hujayralarining taşqi uçlari retikulyar laminaga mahkamlangan.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2436,9 +2436,9 @@
   },
   {
    "id": "ch53-t-ichki-va-tashqi-hujayralar-roli",
-   "termUz": "Ichki va tashqi hujayralar roli",
+   "termUz": "Içki va taşqi hujayralar roli",
    "original": null,
-   "contextUz": "Ichki va tashqi hujayralar roli: Signallarning ~90% ichki hujayralardan keladi.",
+   "contextUz": "Içki va taşqi hujayralar roli: Signallarning ~90% içki hujayralardan keladi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2446,9 +2446,9 @@
   },
   {
    "id": "ch53-t-tuzilish",
-   "termUz": "Tuzilish",
+   "termUz": "Tuziliş",
    "original": null,
-   "contextUz": "Tuzilish: har hujayrada ~100 stereotsiliya bor, modiolusdan uzoqlashgan sari uzunlashadi.",
+   "contextUz": "Tuziliş: har hujayrada ~100 stereotsiliya bor, modiolusdan uzoqlaşgan sari uzunlaşadi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2458,7 +2458,7 @@
    "id": "ch53-t-depolyarizatsiya",
    "termUz": "Depolyarizatsiya",
    "original": null,
-   "contextUz": "Depolyarizatsiya: Uzunlar tomonga egilganda tip link tortiladi va 200–300 kation kanali ochiladi.",
+   "contextUz": "Depolyarizatsiya: Uzunlar tomonga egilganda tip link tortiladi va 200–300 kation kanali oçiladi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2468,7 +2468,7 @@
    "id": "ch53-t-k-kiradi",
    "termUz": "K⁺ kiradi",
    "original": null,
-   "contextUz": "Endolimfadan K⁺ kiradi va depolyarizatsiya boshlanadi.",
+   "contextUz": "Endolimfadan K⁺ kiradi va depolyarizatsiya boşlanadi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2478,7 +2478,7 @@
    "id": "ch53-t-repolyarizatsiya",
    "termUz": "Repolyarizatsiya",
    "original": null,
-   "contextUz": "Repolyarizatsiya: Ca²⁺ ga sezgir K⁺ kanallari orqali K⁺ chiqadi.",
+   "contextUz": "Repolyarizatsiya: Ca²⁺ ga sezgir K⁺ kanallari orqali K⁺ çiqadi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2488,7 +2488,7 @@
    "id": "ch53-t-glutamat",
    "termUz": "glutamat",
    "original": null,
-   "contextUz": "O’zgaruvchan retseptor potensiali hosil bo’ladi va soch hujayralari glutamat chiqaradi.",
+   "contextUz": "Özgaruvçan retseptor potensiali hosil böladi va soç hujayralari glutamat çiqaradi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2498,7 +2498,7 @@
    "id": "ch53-t-perilimfa",
    "termUz": "Perilimfa",
    "original": "scala vestibuli va tympani",
-   "contextUz": "Perilimfa (scala vestibuli va tympani) subaraxnoidal bo’shliq bilan tutashgan, deyarli likvorning o’zi.",
+   "contextUz": "Perilimfa (scala vestibuli va tympani) subaraxnoidal böşliq bilan tutaşgan, deyarli likvorning özi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2538,7 +2538,7 @@
    "id": "ch53-t-endolimfa-va-perilimfa-orasida-doimo-80-mv",
    "termUz": "Endolimfa va perilimfa orasida doimo +80 mV",
    "original": null,
-   "contextUz": "Endolimfa va perilimfa orasida doimo +80 mV bor, ichkarisi musbat.",
+   "contextUz": "Endolimfa va perilimfa orasida doimo +80 mV bor, içkarisi musbat.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2546,9 +2546,9 @@
   },
   {
    "id": "ch53-t-soch-hujayrasi-potensiali",
-   "termUz": "Soch hujayrasi potensiali",
+   "termUz": "Soç hujayrasi potensiali",
    "original": null,
-   "contextUz": "Soch hujayrasi potensiali: Ichki muhiti perilimfaga nisbatan −70 mV.",
+   "contextUz": "Soç hujayrasi potensiali: Içki muhiti perilimfaga nisbatan −70 mV.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2568,7 +2568,7 @@
    "id": "ch53-t-volley-frequency-principle",
    "termUz": "Volley (frequency) principle",
    "original": null,
-   "contextUz": "Volley (frequency) principle: 20–200 Hz ni place bilan ajratish qiyin, chunki helikotrema hammasiga javob beradi.",
+   "contextUz": "Volley (frequency) principle: 20–200 Hz ni place bilan ajratiş qiyin, çunki helikotrema hammasiga javob beradi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2576,9 +2576,9 @@
   },
   {
    "id": "ch53-t-kuchliroq-tebranish",
-   "termUz": "Kuchliroq tebranish",
+   "termUz": "Kuçliroq tebraniş",
    "original": null,
-   "contextUz": "Kuchliroq tebranish: soch hujayralari nerv uchlarini tezroq qo’zg’atadi.",
+   "contextUz": "Kuçliroq tebraniş: soç hujayralari nerv uçlarini tezroq qözğatadi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2588,7 +2588,7 @@
    "id": "ch53-t-spatial-summation",
    "termUz": "Spatial summation",
    "original": null,
-   "contextUz": "Spatial summation: rezonans sohasining chetlaridagi hujayralar ham qo’zg’aladi, ko’proq tola jalb qilinadi.",
+   "contextUz": "Spatial summation: rezonans sohasining çetlaridagi hujayralar ham qözğaladi, köproq tola jalb qilinadi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2598,7 +2598,7 @@
    "id": "ch53-t-power-law",
    "termUz": "Power law",
    "original": null,
-   "contextUz": "Power law: sezgi tovush intensivligining kub ildiziga proporsional.",
+   "contextUz": "Power law: sezgi tovuş intensivligining kub ildiziga proporsional.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2608,7 +2608,7 @@
    "id": "ch53-t-kub-ildizi",
    "termUz": "kub ildizi",
    "original": null,
-   "contextUz": "Power law: sezgi tovush intensivligining kub ildiziga proporsional.",
+   "contextUz": "Power law: sezgi tovuş intensivligining kub ildiziga proporsional.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2626,9 +2626,9 @@
   },
   {
    "id": "ch53-t-eshitish-bosagasi-fig-53-8",
-   "termUz": "Eshitish bo’sag’asi (Fig 53-8)",
+   "termUz": "Eşitiş bösağasi (Fig 53-8)",
    "original": null,
-   "contextUz": "Eshitish bo’sag’asi (Fig 53-8): 3000 Hz da eng sezgir: 1 din/sm² dan −70 dB past bosimda, ya’ni 10⁻⁷ µW/sm² da eshitiladi.",
+   "contextUz": "Eşitiş bösağasi (Fig 53-8): 3000 Hz da eng sezgir: 1 din/sm² dan −70 dB past bosimda, ya’ni 10⁻⁷ µW/sm² da eşitiladi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2636,9 +2636,9 @@
   },
   {
    "id": "ch53-t-chastota-diapazoni",
-   "termUz": "Chastota diapazoni",
+   "termUz": "Çastota diapazoni",
    "original": null,
-   "contextUz": "Chastota diapazoni: Yoshlarda 20–20 000 Hz.",
+   "contextUz": "Çastota diapazoni: Yoşlarda 20–20 000 Hz.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2648,7 +2648,7 @@
    "id": "ch53-t-20-20-000-hz",
    "termUz": "20–20 000 Hz",
    "original": null,
-   "contextUz": "Chastota diapazoni: Yoshlarda 20–20 000 Hz.",
+   "contextUz": "Çastota diapazoni: Yoşlarda 20–20 000 Hz.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2656,9 +2656,9 @@
   },
   {
    "id": "ch53-t-yol-bosqichlari",
-   "termUz": "Yo’l bosqichlari",
+   "termUz": "Yöl bosqiçlari",
    "original": null,
-   "contextUz": "Yo’l bosqichlari: Spiral gangliy → yuqori medulladagi dorsal va ventral koxlear yadrolar (hammasi sinaps qiladi).",
+   "contextUz": "Yöl bosqiçlari: Spiral gangliy → yuqori medulladagi dorsal va ventral koxlear yadrolar (hammasi sinaps qiladi).",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2668,7 +2668,7 @@
    "id": "ch53-t-koxlear-yadrolar",
    "termUz": "koxlear yadrolar",
    "original": "hammasi sinaps qiladi",
-   "contextUz": "Yo’l bosqichlari: Spiral gangliy → yuqori medulladagi dorsal va ventral koxlear yadrolar (hammasi sinaps qiladi).",
+   "contextUz": "Yöl bosqiçlari: Spiral gangliy → yuqori medulladagi dorsal va ventral koxlear yadrolar (hammasi sinaps qiladi).",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2678,7 +2678,7 @@
    "id": "ch53-t-yuqori-oliva-yadrosi",
    "termUz": "yuqori oliva yadrosi",
    "original": null,
-   "contextUz": "Asosan qarama-qarshi, qisman o’z tomonidagi yuqori oliva yadrosi.",
+   "contextUz": "Asosan qarama-qarşi, qisman öz tomonidagi yuqori oliva yadrosi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2696,9 +2696,9 @@
   },
   {
    "id": "ch53-t-pastki-domboqcha",
-   "termUz": "Pastki do’mboqcha",
+   "termUz": "Pastki dömboqça",
    "original": "deyarli hammasi sinaps qiladi",
-   "contextUz": "Pastki do’mboqcha (deyarli hammasi sinaps qiladi).",
+   "contextUz": "Pastki dömboqça (deyarli hammasi sinaps qiladi).",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2716,9 +2716,9 @@
   },
   {
    "id": "ch53-t-eshitish-postlogi",
-   "termUz": "eshitish po’stlog’i",
+   "termUz": "eşitiş pöstloği",
    "original": "yuqori chakka pushtasi",
-   "contextUz": "Eshitish radiatsiyasi → eshitish po’stlog’i (yuqori chakka pushtasi).",
+   "contextUz": "Eşitiş radiatsiyasi → eşitiş pöstloği (yuqori çakka puştasi).",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2728,7 +2728,7 @@
    "id": "ch53-t-muhim-jihatlar",
    "termUz": "Muhim jihatlar",
    "original": null,
-   "contextUz": "Muhim jihatlar: Ikki tomonlama uzatish: har ikki quloq signallari ikkala tomonga boradi, qarama-qarshi tomon ustun.",
+   "contextUz": "Muhim jihatlar: Ikki tomonlama uzatiş: har ikki quloq signallari ikkala tomonga boradi, qarama-qarşi tomon ustun.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2736,9 +2736,9 @@
   },
   {
    "id": "ch53-t-ikki-tomonlama-uzatish",
-   "termUz": "Ikki tomonlama uzatish",
+   "termUz": "Ikki tomonlama uzatiş",
    "original": null,
-   "contextUz": "Muhim jihatlar: Ikki tomonlama uzatish: har ikki quloq signallari ikkala tomonga boradi, qarama-qarshi tomon ustun.",
+   "contextUz": "Muhim jihatlar: Ikki tomonlama uzatiş: har ikki quloq signallari ikkala tomonga boradi, qarama-qarşi tomon ustun.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2748,7 +2748,7 @@
    "id": "ch53-t-kollateral-tolalar",
    "termUz": "Kollateral tolalar",
    "original": null,
-   "contextUz": "Kollateral tolalar: Retikulyar faollashtiruvchi tizimga boradi; kuchli tovush butun nerv tizimini uyg’otadi.",
+   "contextUz": "Kollateral tolalar: Retikulyar faollaştiruvçi tizimga boradi; kuçli tovuş butun nerv tizimini uyğotadi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2758,7 +2758,7 @@
    "id": "ch53-t-fazoviy-tonotopik-tartib",
    "termUz": "Fazoviy (tonotopik) tartib",
    "original": null,
-   "contextUz": "Fazoviy (tonotopik) tartib: koxlear yadrolarda 3 ta, pastki do’mboqchada 2 ta, po’stloqda bitta aniq va kamida 5 ta noaniq xarita.",
+   "contextUz": "Fazoviy (tonotopik) tartib: koxlear yadrolarda 3 ta, pastki dömboqçada 2 ta, pöstloqda bitta aniq va kamida 5 ta noaniq xarita.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2766,9 +2766,9 @@
   },
   {
    "id": "ch53-t-razryad-chastotalari",
-   "termUz": "Razryad chastotalari",
+   "termUz": "Razryad çastotalari",
    "original": null,
-   "contextUz": "Razryad chastotalari: Koxlear nerv tolalari ≥1000/s gacha razryad beradi; chastota asosan balandlikka bog’liq.",
+   "contextUz": "Razryad çastotalari: Koxlear nerv tolalari ≥1000/s gaça razryad beradi; çastota asosan balandlikka boğliq.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2776,9 +2776,9 @@
   },
   {
    "id": "ch53-t-joylashuvi",
-   "termUz": "Joylashuvi",
+   "termUz": "Joylaşuvi",
    "original": null,
-   "contextUz": "Joylashuvi: asosan yuqori chakka pushtasining supratemporal tekisligida; chakka bo’lagi lateral yuzasi, insula va tepa operkulumiga ham tarqaladi.",
+   "contextUz": "Joylaşuvi: asosan yuqori çakka puştasining supratemporal tekisligida; çakka bölagi lateral yuzasi, insula va tepa operkulumiga ham tarqaladi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2786,9 +2786,9 @@
   },
   {
    "id": "ch53-t-bolimlari",
-   "termUz": "Bo’limlari",
+   "termUz": "Bölimlari",
    "original": null,
-   "contextUz": "Bo’limlari: Birlamchi po’stloq medial tizzasimon tanadan bevosita qo’zg’aladi.",
+   "contextUz": "Bölimlari: Birlamçi pöstloq medial tizzasimon tanadan bevosita qözğaladi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2796,9 +2796,9 @@
   },
   {
    "id": "ch53-t-birlamchi-postloq",
-   "termUz": "Birlamchi po’stloq",
+   "termUz": "Birlamçi pöstloq",
    "original": null,
-   "contextUz": "Bo’limlari: Birlamchi po’stloq medial tizzasimon tanadan bevosita qo’zg’aladi.",
+   "contextUz": "Bölimlari: Birlamçi pöstloq medial tizzasimon tanadan bevosita qözğaladi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2806,9 +2806,9 @@
   },
   {
    "id": "ch53-t-assotsiatsiya-ikkilamchi-postloq",
-   "termUz": "Assotsiatsiya (ikkilamchi) po’stloq",
+   "termUz": "Assotsiatsiya (ikkilamçi) pöstloq",
    "original": null,
-   "contextUz": "Assotsiatsiya (ikkilamchi) po’stloq birlamchi po’stloqdan va talamik assotsiatsiya sohalaridan qo’zg’aladi.",
+   "contextUz": "Assotsiatsiya (ikkilamçi) pöstloq birlamçi pöstloqdan va talamik assotsiatsiya sohalaridan qözğaladi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2818,7 +2818,7 @@
    "id": "ch53-t-tonotopik-xaritalar",
    "termUz": "Tonotopik xaritalar",
    "original": null,
-   "contextUz": "Tonotopik xaritalar: Kamida 6 ta; ko’pchiligida past chastota oldinda, yuqori chastota orqada.",
+   "contextUz": "Tonotopik xaritalar: Kamida 6 ta; köpçiligida past çastota oldinda, yuqori çastota orqada.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2826,9 +2826,9 @@
   },
   {
    "id": "ch53-t-chastota-sozlanishining-otkirlashuvi",
-   "termUz": "Chastota sozlanishining o’tkirlashuvi",
+   "termUz": "Çastota sozlanişining ötkirlaşuvi",
    "original": null,
-   "contextUz": "Chastota sozlanishining o’tkirlashuvi: Po’stloq neyronlari koxlear yadrolardagidan ancha tor chastota oralig’iga javob beradi.",
+   "contextUz": "Çastota sozlanişining ötkirlaşuvi: Pöstloq neyronlari koxlear yadrolardagidan ança tor çastota oraliğiga javob beradi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2838,7 +2838,7 @@
    "id": "ch53-t-lateral-inhibitsiya",
    "termUz": "lateral inhibitsiya",
    "original": null,
-   "contextUz": "Sabab: yo’l bo’ylab lateral inhibitsiya.",
+   "contextUz": "Sabab: yöl böylab lateral inhibitsiya.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2848,7 +2848,7 @@
    "id": "ch53-t-assotsiatsiya-neyronlari",
    "termUz": "Assotsiatsiya neyronlari",
    "original": null,
-   "contextUz": "Assotsiatsiya neyronlari: chastotalarni bir-biri bilan va boshqa sezgilar bilan bog’laydi.",
+   "contextUz": "Assotsiatsiya neyronlari: çastotalarni bir-biri bilan va boşqa sezgilar bilan boğlaydi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2856,9 +2856,9 @@
   },
   {
    "id": "ch53-t-ikki-tomonlama-toliq-olib-tashlash-mushuk-maymun",
-   "termUz": "Ikki tomonlama to’liq olib tashlash (mushuk, maymun)",
+   "termUz": "Ikki tomonlama töliq olib taşlaş (muşuk, maymun)",
    "original": null,
-   "contextUz": "Ikki tomonlama to’liq olib tashlash (mushuk, maymun): Tovushni sezish va qo’pol reaksiya saqlanadi.",
+   "contextUz": "Ikki tomonlama töliq olib taşlaş (muşuk, maymun): Tovuşni seziş va qöpol reaksiya saqlanadi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2868,7 +2868,7 @@
    "id": "ch53-t-odamda",
    "termUz": "Odamda",
    "original": null,
-   "contextUz": "Odamda: Ikki tomonlama birlamchi po’stloq yo’qolsa, sezgirlik ancha pasayadi.",
+   "contextUz": "Odamda: Ikki tomonlama birlamçi pöstloq yöqolsa, sezgirlik ança pasayadi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2876,9 +2876,9 @@
   },
   {
    "id": "ch53-t-ikki-tomonlama-birlamchi-postloq",
-   "termUz": "Ikki tomonlama birlamchi po’stloq",
+   "termUz": "Ikki tomonlama birlamçi pöstloq",
    "original": null,
-   "contextUz": "Odamda: Ikki tomonlama birlamchi po’stloq yo’qolsa, sezgirlik ancha pasayadi.",
+   "contextUz": "Odamda: Ikki tomonlama birlamçi pöstloq yöqolsa, sezgirlik ança pasayadi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2888,7 +2888,7 @@
    "id": "ch53-t-bir-tomonlama",
    "termUz": "Bir tomonlama",
    "original": null,
-   "contextUz": "Bir tomonlama yo’qolsa, qarama-qarshi quloqda eshitish biroz pasayadi, lekin karlik yo’q (kesishmalar tufayli).",
+   "contextUz": "Bir tomonlama yöqolsa, qarama-qarşi quloqda eşitiş biroz pasayadi, lekin karlik yöq (kesişmalar tufayli).",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2898,7 +2898,7 @@
    "id": "ch53-t-faqat-assotsiatsiya-sohasi",
    "termUz": "Faqat assotsiatsiya sohasi",
    "original": null,
-   "contextUz": "Faqat assotsiatsiya sohasi shikastlansa, eshitish va tonlarni farqlash saqlanadi, lekin ma’no tushunilmaydi.",
+   "contextUz": "Faqat assotsiatsiya sohasi şikastlansa, eşitiş va tonlarni farqlaş saqlanadi, lekin ma’no tuşunilmaydi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2908,7 +2908,7 @@
    "id": "ch53-t-wernicke-sohasi",
    "termUz": "Wernicke sohasi",
    "original": "yuqori chakka pushtasining orqa qismi",
-   "contextUz": "Masalan, Wernicke sohasi (yuqori chakka pushtasining orqa qismi) shikastida so’zlar eshitiladi va takrorlanadi, ammo ma’nosi tushunilmaydi (ch58).",
+   "contextUz": "Masalan, Wernicke sohasi (yuqori çakka puştasining orqa qismi) şikastida sözlar eşitiladi va takrorlanadi, ammo ma’nosi tuşunilmaydi (ç58).",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2916,9 +2916,9 @@
   },
   {
    "id": "ch53-t-gorizontal-yonalish",
-   "termUz": "Gorizontal yo’nalish",
+   "termUz": "Gorizontal yönaliş",
    "original": null,
-   "contextUz": "Gorizontal yo’nalish: Vaqt farqi: ikki quloqqa kirish orasidagi farq; <3000 Hz da yaxshi va ancha aniq.",
+   "contextUz": "Gorizontal yönaliş: Vaqt farqi: ikki quloqqa kiriş orasidagi farq; <3000 Hz da yaxşi va ança aniq.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2928,7 +2928,7 @@
    "id": "ch53-t-vaqt-farqi",
    "termUz": "Vaqt farqi",
    "original": null,
-   "contextUz": "Gorizontal yo’nalish: Vaqt farqi: ikki quloqqa kirish orasidagi farq; <3000 Hz da yaxshi va ancha aniq.",
+   "contextUz": "Gorizontal yönaliş: Vaqt farqi: ikki quloqqa kiriş orasidagi farq; <3000 Hz da yaxşi va ança aniq.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2938,7 +2938,7 @@
    "id": "ch53-t-intensivlik-farqi",
    "termUz": "Intensivlik farqi",
    "original": null,
-   "contextUz": "Intensivlik farqi: yuqori chastotalarda yaxshi, chunki bosh to’siq bo’ladi.",
+   "contextUz": "Intensivlik farqi: yuqori çastotalarda yaxşi, çunki boş tösiq böladi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2948,7 +2948,7 @@
    "id": "ch53-t-old-orqa-va-yuqori-past",
    "termUz": "Old/orqa va yuqori/past",
    "original": null,
-   "contextUz": "Old/orqa va yuqori/past: asosan quloq suprasi (pinna) shakli orqali, u yo’nalishga qarab ma’lum chastotalarni kuchaytiradi.",
+   "contextUz": "Old/orqa va yuqori/past: asosan quloq suprasi (pinna) şakli orqali, u yönalişga qarab ma’lum çastotalarni kuçaytiradi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2958,7 +2958,7 @@
    "id": "ch53-t-quloq-suprasi",
    "termUz": "quloq suprasi",
    "original": "pinna",
-   "contextUz": "Old/orqa va yuqori/past: asosan quloq suprasi (pinna) shakli orqali, u yo’nalishga qarab ma’lum chastotalarni kuchaytiradi.",
+   "contextUz": "Old/orqa va yuqori/past: asosan quloq suprasi (pinna) şakli orqali, u yönalişga qarab ma’lum çastotalarni kuçaytiradi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2968,7 +2968,7 @@
    "id": "ch53-t-neyron-mexanizmi",
    "termUz": "Neyron mexanizmi",
    "original": null,
-   "contextUz": "Neyron mexanizmi: Ikki tomonlama eshitish po’stlog’i yo’qolsa, yo’nalishni aniqlash deyarli butunlay yo’qoladi.",
+   "contextUz": "Neyron mexanizmi: Ikki tomonlama eşitiş pöstloği yöqolsa, yönalişni aniqlaş deyarli butunlay yöqoladi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2978,7 +2978,7 @@
    "id": "ch53-t-yuqori-oliva-yadrolari",
    "termUz": "yuqori oliva yadrolari",
    "original": null,
-   "contextUz": "Tahlil esa yuqori oliva yadrolarida boshlanadi.",
+   "contextUz": "Tahlil esa yuqori oliva yadrolarida boşlanadi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -2998,7 +2998,7 @@
    "id": "ch53-t-medial-yuqori-oliva",
    "termUz": "Medial yuqori oliva",
    "original": null,
-   "contextUz": "Medial yuqori oliva: Neyronlari ikki dendritli: o’ng dendrit o’ng quloqdan, chap dendrit chap quloqdan signal oladi.",
+   "contextUz": "Medial yuqori oliva: Neyronlari ikki dendritli: öng dendrit öng quloqdan, çap dendrit çap quloqdan signal oladi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -3006,9 +3006,9 @@
   },
   {
    "id": "ch53-t-yonalish",
-   "termUz": "Yo’nalish",
+   "termUz": "Yönaliş",
    "original": null,
-   "contextUz": "Yo’nalish: har bosqichda po’stloqdan koxleyagacha retrograd yo’llar bor.",
+   "contextUz": "Yönaliş: har bosqiçda pöstloqdan koxleyagaça retrograd yöllar bor.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -3018,7 +3018,7 @@
    "id": "ch53-t-manosi",
    "termUz": "Ma’nosi",
    "original": null,
-   "contextUz": "Ma’nosi: diqqatni muayyan tovushga qaratish, masalan, orkestrdagi bitta cholg’uni tinglash.",
+   "contextUz": "Ma’nosi: diqqatni muayyan tovuşga qaratiş, masalan, orkestrdagi bitta çolğuni tinglaş.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -3028,7 +3028,7 @@
    "id": "ch53-t-nerv-sensorinevral-karlik",
    "termUz": "Nerv (sensorinevral) karlik",
    "original": null,
-   "contextUz": "Nerv (sensorinevral) karlik: Koxleya, eshitish nervi yoki markaziy yo’llar shikastlanadi.",
+   "contextUz": "Nerv (sensorinevral) karlik: Koxleya, eşitiş nervi yoki markaziy yöllar şikastlanadi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -3036,9 +3036,9 @@
   },
   {
    "id": "ch53-t-otkazuvchan-karlik",
-   "termUz": "O’tkazuvchan karlik",
+   "termUz": "Ötkazuvçan karlik",
    "original": null,
-   "contextUz": "O’tkazuvchan karlik: Tovushni o’tkazuvchi tuzilmalar shikastlanadi, masalan, nog’ora parda va suyakchalar yemirilishi yoki ankilozi (fibroz yoki ohaklanish).",
+   "contextUz": "Ötkazuvçan karlik: Tovuşni ötkazuvçi tuzilmalar şikastlanadi, masalan, noğora parda va suyakçalar yemirilişi yoki ankilozi (fibroz yoki ohaklaniş).",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -3048,7 +3048,7 @@
    "id": "ch53-t-audiometr",
    "termUz": "Audiometr",
    "original": null,
-   "contextUz": "Audiometr: Quloqchin va toza ton generatori; 0 dB = normal quloqning bo’sag’asi.",
+   "contextUz": "Audiometr: Quloqçin va toza ton generatori; 0 dB = normal quloqning bösağasi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -3058,7 +3058,7 @@
    "id": "ch53-t-nerv-karligi-audiogrammasi-fig-53-11",
    "termUz": "Nerv karligi audiogrammasi (Fig 53-11)",
    "original": null,
-   "contextUz": "Nerv karligi audiogrammasi (Fig 53-11): Havo va suyak o’tkazuvchanligi ikkalasi ham pasaygan.",
+   "contextUz": "Nerv karligi audiogrammasi (Fig 53-11): Havo va suyak ötkazuvçanligi ikkalasi ham pasaygan.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -3068,7 +3068,7 @@
    "id": "ch53-t-qarilik",
    "termUz": "Qarilik",
    "original": null,
-   "contextUz": "Qarilik: asosan yuqori chastotalar pasayadi (koxleya asosi shikasti); deyarli barcha qariyalarda biroz kuzatiladi.",
+   "contextUz": "Qarilik: asosan yuqori çastotalar pasayadi (koxleya asosi şikasti); deyarli barça qariyalarda biroz kuzatiladi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -3076,9 +3076,9 @@
   },
   {
    "id": "ch53-t-uzoq-kuchli-shovqin",
-   "termUz": "Uzoq kuchli shovqin",
+   "termUz": "Uzoq kuçli şovqin",
    "original": "rok-guruh, reaktiv dvigatel",
-   "contextUz": "Uzoq kuchli shovqin (rok-guruh, reaktiv dvigatel): past chastotalar pasayadi, chunki past chastotali tovushlar odatda balandroq va zararliroq.",
+   "contextUz": "Uzoq kuçli şovqin (rok-guruh, reaktiv dvigatel): past çastotalar pasayadi, çunki past çastotali tovuşlar odatda balandroq va zararliroq.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -3088,7 +3088,7 @@
    "id": "ch53-t-ototoksik-dorilar",
    "termUz": "Ototoksik dorilar",
    "original": "streptomitsin, gentamitsin, kanamitsin, xloramfenikol",
-   "contextUz": "Ototoksik dorilar (streptomitsin, gentamitsin, kanamitsin, xloramfenikol): barcha chastotalar pasayadi.",
+   "contextUz": "Ototoksik dorilar (streptomitsin, gentamitsin, kanamitsin, xloramfenikol): barça çastotalar pasayadi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -3096,9 +3096,9 @@
   },
   {
    "id": "ch53-t-orta-quloq-otkazuvchan-karligi-fig-53-12",
-   "termUz": "O’rta quloq o’tkazuvchan karligi (Fig 53-12)",
+   "termUz": "Örta quloq ötkazuvçan karligi (Fig 53-12)",
    "original": null,
-   "contextUz": "O’rta quloq o’tkazuvchan karligi (Fig 53-12): Sabablari: takroriy infeksiyadan keyingi fibroz yoki irsiy otoskleroz.",
+   "contextUz": "Örta quloq ötkazuvçan karligi (Fig 53-12): Sabablari: takroriy infeksiyadan keyingi fibroz yoki irsiy otoskleroz.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -3108,7 +3108,7 @@
    "id": "ch53-t-otoskleroz",
    "termUz": "otoskleroz",
    "original": null,
-   "contextUz": "O’rta quloq o’tkazuvchan karligi (Fig 53-12): Sabablari: takroriy infeksiyadan keyingi fibroz yoki irsiy otoskleroz.",
+   "contextUz": "Örta quloq ötkazuvçan karligi (Fig 53-12): Sabablari: takroriy infeksiyadan keyingi fibroz yoki irsiy otoskleroz.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -3116,9 +3116,9 @@
   },
   {
    "id": "ch53-t-uzangicha-ankilozi",
-   "termUz": "Uzangicha ankilozi",
+   "termUz": "Uzangiça ankilozi",
    "original": null,
-   "contextUz": "Uzangicha ankilozi: suyakcha o’tkazuvchanligi to’liq yo’qoladi.",
+   "contextUz": "Uzangiça ankilozi: suyakça ötkazuvçanligi töliq yöqoladi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -3138,7 +3138,7 @@
    "id": "ch53-t-sensorinevral-karlik",
    "termUz": "Sensorinevral karlik",
    "original": null,
-   "contextUz": "Sensorinevral karlik: qarilikda yuqori chastotalar; shovqindan zararlanish; ototoksik antibiotiklar (aminoglikozidlar).",
+   "contextUz": "Sensorinevral karlik: qarilikda yuqori çastotalar; şovqindan zararlaniş; ototoksik antibiotiklar (aminoglikozidlar).",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -3148,7 +3148,7 @@
    "id": "ch53-t-audiogramma",
    "termUz": "Audiogramma",
    "original": null,
-   "contextUz": "Audiogramma: havo va suyak o’tkazuvchanligini taqqoslash karlik turini ajratadi.",
+   "contextUz": "Audiogramma: havo va suyak ötkazuvçanligini taqqoslaş karlik turini ajratadi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -3156,9 +3156,9 @@
   },
   {
    "id": "ch53-t-wernicke-sohasi-shikasti",
-   "termUz": "Wernicke sohasi shikasti",
+   "termUz": "Wernicke sohasi şikasti",
    "original": null,
-   "contextUz": "Wernicke sohasi shikasti: so’z ma’nosini tushunmaslik.",
+   "contextUz": "Wernicke sohasi şikasti: söz ma’nosini tuşunmaslik.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -3166,9 +3166,9 @@
   },
   {
    "id": "ch53-t-bir-tomonlama-postloq-shikasti",
-   "termUz": "Bir tomonlama po’stloq shikasti",
+   "termUz": "Bir tomonlama pöstloq şikasti",
    "original": null,
-   "contextUz": "Bir tomonlama po’stloq shikasti: tovush lokalizatsiyasi buziladi.",
+   "contextUz": "Bir tomonlama pöstloq şikasti: tovuş lokalizatsiyasi buziladi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -3176,9 +3176,9 @@
   },
   {
    "id": "ch53-t-ch56",
-   "termUz": "ch56",
+   "termUz": "ç56",
    "original": null,
-   "contextUz": "ch56: vestibulyar soch hujayralari.",
+   "contextUz": "ç56: vestibulyar soç hujayralari.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -3186,9 +3186,9 @@
   },
   {
    "id": "ch53-t-ch47",
-   "termUz": "ch47",
+   "termUz": "ç47",
    "original": null,
-   "contextUz": "ch47: power law, lateral inhibitsiya.",
+   "contextUz": "ç47: power law, lateral inhibitsiya.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -3196,9 +3196,9 @@
   },
   {
    "id": "ch53-t-ch48",
-   "termUz": "ch48",
+   "termUz": "ç48",
    "original": null,
-   "contextUz": "ch48: Pacinian va intensivlik.",
+   "contextUz": "ç48: Pacinian va intensivlik.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -3206,9 +3206,9 @@
   },
   {
    "id": "ch53-t-ch58",
-   "termUz": "ch58",
+   "termUz": "ç58",
    "original": null,
-   "contextUz": "ch58: Wernicke sohasi, nutq.",
+   "contextUz": "ç58: Wernicke sohasi, nutq.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -3216,9 +3216,9 @@
   },
   {
    "id": "ch53-t-ch60",
-   "termUz": "ch60",
+   "termUz": "ç60",
    "original": null,
-   "contextUz": "ch60: retikulyar faollashtiruvchi tizim.",
+   "contextUz": "ç60: retikulyar faollaştiruvçi tizim.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -3226,9 +3226,9 @@
   },
   {
    "id": "ch53-t-ch57",
-   "termUz": "ch57",
+   "termUz": "ç57",
    "original": null,
-   "contextUz": "ch57: serebellum.",
+   "contextUz": "ç57: serebellum.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",
@@ -3236,9 +3236,9 @@
   },
   {
    "id": "ch53-t-ch15",
-   "termUz": "ch15",
+   "termUz": "ç15",
    "original": null,
-   "contextUz": "ch15: to’lqin o’tkazilishi.",
+   "contextUz": "ç15: tölqin ötkazilişi.",
    "lessonId": "ch53",
    "topicId": "10",
    "source": "summaryUz",

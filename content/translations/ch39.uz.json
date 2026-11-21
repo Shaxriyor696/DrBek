@@ -1,0 +1,238 @@
+{
+ "lessonId": "ch39",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 39,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "manual",
+ "translator": "Claude (DrStudy sessiyasi)",
+ "model": null,
+ "createdAt": "2026-11-18T13:59:02.581Z",
+ "updatedAt": "2026-11-18T13:59:02.590Z",
+ "coverage": {
+  "translated": 71,
+  "total": 71
+ },
+ "note": "Kitob matnining töliq özbekça tarjimasi (qisqartirilmagan). Ekspert tekşiruvidan ötmagan.",
+ "blocks": {
+  "ch39-f0": {
+   "text": "Öpkada ikki xil qon aylaniş bor: _yuqori bosimli, past oqimli qon aylaniş_ va _past bosimli, yuqori oqimli qon aylaniş_. _Yuqori bosimli, past oqimli qon aylaniş_ traxeya, bronx daraxti (terminal bronxiolalar bilan birga), öpkaning tayanç töqimalari hamda öpka arteriya va venalarining taşqi qobiqlarini (adventitsiyasini) sistem arterial qon bilan ta’minlaydi. Bu sistem arterial qonning köp qismini kökrak aortasining tarmoqlari bölgan _bronx arteriyalari_ aorta bosimidan biroz pastroq bosim bilan yetkazib beradi."
+  },
+  "ch39-f1": {
+   "text": "_Past bosimli, yuqori oqimli qon aylaniş_ tananing barça qismlaridan kelgan vena qonini alveolyar kapillyarlarga yetkazadi. U yerda qonga kislorod (O₂) qöşiladi va undan karbonat angidrid (CO₂) çiqarib yuboriladi. Öng qorinçadan qon oladigan _öpka arteriyasi_ va uning arterial tarmoqlari qonni gaz almaşinuvi uçun alveolyar kapillyarlarga olib boradi, söngra öpka venalari qonni çap bölmaçaga qaytaradi va çap qorinça uni sistem qon aylaniş orqali haydaydi."
+  },
+  "ch39-f2": {
+   "text": "Bu bobda öpka qon aylanişining öpkadagi gaz almaşinuvi uçun muhim bölgan öziga xos jihatlari körib çiqiladi."
+  },
+  "ch39-f3": {
+   "text": "Öpka qon aylaniş tizimining fiziologik anatomiyasi"
+  },
+  "ch39-f4": {
+   "text": "Öpka arteriyasi öng qorinça çöqqisidan atigi 5 santimetr davom etadi, söngra ikkala öpkani mos ravişda qon bilan ta’minlovçi öng va çap asosiy tarmoqlarga bölinadi.",
+   "lead": "Öpka tomirlari."
+  },
+  "ch39-f5": {
+   "text": "Öpka arteriyasi devorining qalinligi aorta devorining uçdan bir qismiga teng. Öpka arteriyasining tarmoqlari qisqa, barça öpka arteriyalari, hatto mayda arteriyalar va arteriolalar ham sistem qon aylanişidagi mos arteriyalardan kattaroq diametrga ega. Bu xususiyat tomirlarning yupqa va çöziluvçan ekanligi bilan birga öpka arterial daraxtiga _katta komplayens (çöziluvçanlik)_ beradi. U örtaça deyarli 7 ml/mm sim. ust. ni taşkil etadi va butun sistem arterial daraxtning komplayensiga yaqin. Bu katta komplayens öpka arteriyalariga öng qorinçaning zarb hajmini siğdirib oliş imkonini beradi."
+  },
+  "ch39-f6": {
+   "text": "Öpka venalari ham öpka arteriyalari kabi qisqa. Ular özidan oqib çiqayotgan qonni darhol çap bölmaçaga quyadi."
+  },
+  "ch39-f7": {
+   "text": "Öpkaga qon sistem qon aylanişidan boşlanadigan mayda bronx arteriyalari orqali ham keladi. Bu qon umumiy yurak haydaş hajmining 1–2% ini taşkil etadi. Bu bronx arterial qoni öpka arteriyalaridagi qisman kislorodsizlangan qondan farqli ravişda _kislorodga boyitilgan_ qondir. U öpkaning tayanç töqimalarini, jumladan biriktiruvçi töqima, töşiqlar hamda yirik va mayda bronxlarni ta’minlaydi. Bu bronx arterial qoni tayanç töqimalardan ötgaçdan keyin öng bölmaçaga qaytmasdan, öpka venalariga quyiladi va _çap bölmaçaga kiradi_. Şuning uçun çap bölmaçaga keladigan oqim va çap qorinçaning haydaş hajmi öng qorinçaning haydaş hajmidan taxminan 1–2% köp böladi.",
+   "lead": "Bronx tomirlari."
+  },
+  "ch39-f8": {
+   "text": "Limfa tomirlari öpkaning barça tayanç töqimalarida mavjud. Ular terminal bronxiolalarni örab turuvçi biriktiruvçi töqima oraliqlaridan boşlanib, öpka darvozasiga boradi va u yerdan asosan _öng kökrak limfa yöliga_ quyiladi. Alveolalarga tuşgan zarraçalar qisman şu limfa tomirlari orqali çiqarib yuboriladi. Öpka kapillyarlaridan sizib çiqqan plazma oqsillari ham öpka töqimalaridan şu yöl bilan çiqariladi va bu öpka şişining oldini olişga yordam beradi.",
+   "lead": "Limfa tomirlari."
+  },
+  "ch39-f9": {
+   "text": "Öpka tizimidagi bosimlar"
+  },
+  "ch39-f10": {
+   "text": "Öng qorinça va öpka arteriyasining bosim pulsi egri çiziqlari **Rasm 39-1** ning pastki qismida körsatilgan. Ular rasmning yuqori qismidagi ança yuqori aorta bosimi egri çiziği bilan taqqoslangan. Öng qorinçadagi me’yoriy sistolik bosim örtaça taxminan 25 mm sim. ust., diastolik bosim esa örtaça taxminan 0–1 mm sim. ust. ni taşkil etadi. Bu qiymatlar çap qorinçadagi qiymatlarning atigi beşdan bir qismiga teng.",
+   "lead": "Öng qorinçadagi bosimlar."
+  },
+  "ch39-f12": {
+   "text": "_Sistola_ vaqtida öpka arteriyasidagi bosim amalda öng qorinçadagi bosimga teng böladi. Bu ham",
+   "lead": "Öpka arteriyasidagi bosimlar."
+  },
+  "ch39-f13": {
+   "text": "**Rasm 39-1** da körsatilgan. Biroq sistola oxirida öpka klapani yopilgandan keyin qorinçadagi bosim keskin tuşib ketadi, öpka arteriyasidagi bosim esa qon öpka orqali oqib ötgani sari sekinroq pasayadi."
+  },
+  "ch39-f14": {
+   "text": "**Rasm 39-2** da körsatilganidek, odamda _öpka arteriyasidagi sistolik bosim_ me’yorda örtaça taxminan 25 mm sim. ust., _öpka arteriyasidagi diastolik bosim_ taxminan 8 mm sim. ust., _öpka arteriyasidagi örtaça bosim_ esa 15 mm sim. ust. ni taşkil etadi."
+  },
+  "ch39-f16": {
+   "text": "**Rasm 39-2** da tasvirlanganidek, öpka kapillyarlaridagi örtaça bosim taxminan 7 mm sim. ust. ga teng. Bu past kapillyar bosimning ahamiyati bobning keyingi qismida öpka kapillyarlarining suyuqlik almaşinuvi vazifalari bilan boğliq holda batafsil körib çiqiladi.",
+   "lead": "Öpka kapillyarlaridagi bosim."
+  },
+  "ch39-f17": {
+   "text": "Yotgan odamda çap bölmaça va yirik öpka venalaridagi örtaça bosim taxminan 2 mm sim. ust. ni taşkil etadi va 1 mm sim. ust. dan 5 mm sim. ust. gaça özgarib turadi. Odatda çap bölmaça bosimini bevosita ölçaydigan asbob bilan ölçab bölmaydi, çunki kateterni yurak bölmalari orqali çap bölmaçaga ötkaziş qiyin. Biroq çap bölmaça bosimini _öpka arteriyasi tiqilib qolgan joydagi bosim_ (pulmonary wedge pressure) deb ataluvçi bosimni ölçab, ma’lum aniqlik bilan baholaş mumkin. Uni ölçaş uçun kateter avval periferik vena orqali öng bölmaçaga, söngra yurakning öng tomoni va öpka arteriyasi orqali öpka arteriyasining mayda tarmoqlaridan biriga kiritiladi va nihoyat _mayda tarmoqqa mahkam tiqilib qolgunça_ itariladi.",
+   "lead": "Çap bölmaça va öpka venalaridagi bosimlar."
+  },
+  "ch39-f18": {
+   "text": "Kateter orqali ölçangan bu bosim _“tiqilib qoliş bosimi”_ deb ataladi va taxminan 5 mm sim. ust. ga teng. Tiqilib qolgan mayda arteriyada qon oqimi butunlay töxtagani va bu arteriyadan keyingi qon tomirlari öpka kapillyarlari bilan bevosita tutaşgani uçun bu bosim odatda çap bölmaça bosimidan atigi 2–3 mm sim. ust. yuqori böladi. Çap bölmaça bosimi yuqori qiymatlargaça köterilganda öpka arteriyasidagi tiqilib qoliş bosimi ham köteriladi. Şuning uçun dimlanişli yurak yetişmovçiligi bor bemorlarda tiqilib qoliş bosimini ölçaş orqali öpka kapillyarlaridagi bosim va çap bölmaça bosimining özgarişlarini baholaş mumkin."
+  },
+  "ch39-f19": {
+   "text": "Öpkadagi qon hajmi"
+  },
+  "ch39-f20": {
+   "text": "Öpkadagi qon hajmi taxminan 450 ml bölib, butun qon aylaniş tizimidagi umumiy qon hajmining taxminan 9% ini taşkil etadi. Öpkadagi bu qon hajmining taxminan 70 ml i öpka kapillyarlarida, qolgani esa öpka arteriyalari va venalari örtasida taxminan teng taqsimlangan."
+  },
+  "ch39-f21": {
+   "text": "Turli fiziologik va patologik holatlarda öpkadagi qon miqdori me’yorning yarmidan ikki baravarigaça özgarişi mumkin. Masalan, odam havoni şunçalik kuçli puflaydiki, öpkada yuqori bosim hosil böladi (masalan, truba çalganda) — bunda öpka qon aylaniş tizimidan sistem qon aylanişiga 250 ml gaça qon siqib çiqarilişi mumkin. Şuningdek, qon ketiş tufayli sistem qon aylanişidan qon yöqotilişi qonning öpkadan sistem tomirlarga avtomatik ravişda ötişi hisobiga qisman qoplanişi mumkin.",
+   "lead": "Öpka qon zaxirasi vazifasini bajaradi."
+  },
+  "ch39-f22": {
+   "text": "Yurak çap tomonining yetişmovçiligi yoki mitral stenoz yoxud mitral regurgitatsiya natijasida mitral klapan orqali qon oqimiga qarşilikning ortişi qonning öpka qon aylanişida dimlanib qolişiga sabab böladi. Bu ba’zan öpkadagi qon hajmini 100% gaça oşiradi va öpka tomirlaridagi bosimning katta ortişiga olib keladi. Sistem qon aylanişining hajmi öpka tizimi hajmidan taxminan 9 baravar katta bölgani uçun qonning bir tizimdan ikkinçisiga siljişi öpka tizimiga kuçli ta’sir qiladi, ammo sistem qon aylanişiga odatda faqat yengil ta’sir körsatadi.",
+   "lead": "Yurak patologiyasi qonni sistem qon aylanişidan öpka qon aylanişiga siljitişi mumkin."
+  },
+  "ch39-f23": {
+   "text": "Öpka orqali qon oqimi va uning taqsimlanişi"
+  },
+  "ch39-f24": {
+   "text": "Öpka orqali qon oqimi amalda yurakning daqiqalik haydaş hajmiga teng. Şuning uçun yurak haydaş hajmini boşqaruvçi omillar — 20-bobda muhokama qilinganidek, asosan periferik omillar — öpka qon oqimini ham boşqaradi. Köpçilik şaroitlarda öpka tomirlari bosim oşganda kengayadigan va bosim pasayganda torayadigan çöziluvçan naylar kabi işlaydi. Qon yetarli darajada kislorodga töyinişi uçun u öpkaning alveolalari eng yaxşi kislorod bilan ta’minlangan segmentlariga taqsimlanişi kerak. Bu taqsimlaniş quyidagi mexanizm orqali amalga oşadi."
+  },
+  "ch39-f25": {
+   "text": "Alveolalar havosidagi O₂ konsentratsiyasi me’yordan, ayniqsa me’yorning 70% idan pastga tuşganda (ya’ni Po₂ <73 mm sim. ust.), qöşni qon tomirlari torayadi (**Rasm 39-3**) va O₂ darajasi juda past bölganda tomirlar qarşiligini beş baravardan ham köproq oşirişi mumkin. Bu ta’sir past O₂ darajasiga javoban torayiş emas, balki kengayiş bilan javob beradigan _sistem tomirlardagi ta’sirga qarama-qarşidir_. Gipoksiya vaqtida öpka tomirlarining torayişiga olib keluvçi mexanizmlar töliq aniqlanmagan bölsa-da, past O₂ konsentratsiyasi quyidagi ta’sirlarni körsatişi mumkin: (1) endotelin yoki kislorodning faol şakllari kabi tomir toraytiruvçi moddalarning ajralişini yoki ularga sezgirlikni oşiradi; yoki (2) öpka töqimasidan azot oksidi kabi tomir kengaytiruvçi moddaning ajralişini kamaytiradi.",
+   "lead": "Alveolalardagi kislorodning kamayişi mahalliy alveolyar qon oqimini pasaytiradi va öpka qon oqimining taqsimlanişini boşqaradi."
+  },
+  "ch39-f27": {
+   "text": "Ayrim tadqiqotlar gipoksiya öpka tomirlari silliq muşak hujayralari membranasidagi kislorodga sezgir kaliy ion kanallarini tormozlab, tomirlarni bevosita toraytirişi mumkinligini körsatgan. Kislorodning parsial bosimi past bölganda bu kanallar berkiladi. Bu hujayra membranasining depolyarizatsiyasiga, kalsiy kanallarining faollaşişiga va kalsiy ionlarining hujayraga kirişiga olib keladi. Söngra kalsiy konsentratsiyasining ortişi mayda arteriyalar va arteriolalarning torayişiga sabab böladi."
+  },
+  "ch39-f28": {
+   "text": "Past O₂ konsentratsiyasi natijasida öpka tomirlari qarşiligining ortişi qon oqimini u eng samarali böladigan joylarga taqsimlaşdek muhim vazifani bajaradi. Ya’ni ayrim alveolalar yomon ventilyatsiyalansa va ularda O₂ konsentratsiyasi past bölsa, mahalliy tomirlar torayadi. Bu torayiş qonni öpkaning yaxşiroq havolanadigan boşqa sohalari orqali oqişga majbur qiladi. Şu tariqa öpka sohalariga qon oqimini ularning alveolyar O₂ bosimiga mutanosib ravişda taqsimlaydigan avtomatik boşqaruv tizimi hosil böladi."
+  },
+  "ch39-f29": {
+   "text": "Öpkadagi gidrostatik bosim gradiyentlarining öpka sohalaridagi qon oqimiga ta’siri"
+  },
+  "ch39-f30": {
+   "text": "15-bobda tik turgan odamning oyoq panjasidagi qon bosimi yurak sathidagi bosimdan 90 mm sim. ust. gaça yuqori bölişi mumkinligini aytib ötgan edik. Bu farq _gidrostatik bosim_, ya’ni qon tomirlaridagi qonning öz oğirligi bilan boğliq. Xuddi şunday ta’sir, lekin kamroq darajada, öpkada ham kuzatiladi. Tik turgan katta yoşli odamda öpkaning eng pastki nuqtasi odatda eng yuqori nuqtasidan taxminan 30 sm pastda joylaşgan. Bu 23 mm sim. ust. bosim farqiga mos keladi, uning taxminan 15 mm sim. ust. i yurakdan yuqorida, 8 mm sim. ust. i esa pastda. Ya’ni tik turgan odam öpkasining eng yuqori qismidagi öpka arteriyasi bosimi yurak sathidagi öpka arteriyasi bosimidan taxminan 15 mm sim. ust. past, öpkaning eng pastki qismidagi bosim esa taxminan 8 mm sim. ust. yuqori böladi."
+  },
+  "ch39-f31": {
+   "text": "Bunday bosim farqlari öpkaning turli sohalaridagi qon oqimiga kuçli ta’sir qiladi. Bu ta’sir **Rasm 39-4** dagi pastki egri çiziqda körsatilgan. Unda tik turgan odam öpkasining turli sathlarida öpka töqimasining birlik hajmiga töğri keladigan qon oqimi tasvirlangan. E’tibor bering: tinç holatda tik turganda öpkaning yuqori qismida qon oqimi kam, pastki qismida esa taxminan beş baravar köp. Bu farqlarni tuşuntiriş uçun öpka köpinça **Rasm 39-5** da körsatilganidek uçta zonaga bölinadi. Har bir zonada qon oqimining tartibi ança farq qiladi."
+  },
+  "ch39-f34": {
+   "text": "Öpka qon oqimining 1-, 2- va 3-zonalari"
+  },
+  "ch39-f35": {
+   "text": "Alveolalar devoridagi kapillyarlar içidagi qon bosimi bilan kengaytiriladi, lekin bir vaqtning özida taşqi tomondan alveolyar havo bosimi bilan siqiladi. Şuning uçun öpka alveolalaridagi havo bosimi kapillyarlardagi qon bosimidan katta bölgan har qanday holatda kapillyarlar yopiladi va qon oqimi bölmaydi. Öpkaning turli me’yoriy va patologik holatlarida öpka qon oqimining quyidagi uçta mumkin bölgan zonasidan (tartibidan) istalgan birini uçratiş mumkin: • 1-zona: _yurak siklining barça davrlarida qon oqimi bölmaydi_, çunki öpkaning şu sohasidagi mahalliy alveolyar kapillyar bosimi yurak siklining heç bir qismida alveolyar havo bosimidan yuqori köterilmaydi • 2-zona: _uzlukli qon oqimi_ faqat öpka arteriyasi bosimining çöqqilarida kuzatiladi, çunki bunda sistolik bosim alveolyar havo bosimidan katta, diastolik bosim esa alveolyar havo bosimidan kiçik böladi"
+  },
+  "ch39-f36": {
+   "text": "• 3-zona: _uzluksiz qon oqimi_, çunki alveolyar kapillyar bosimi yurak siklining butun davomida alveolyar havo bosimidan katta bölib qoladi. Me’yorda öpkada faqat 2- va 3-zona qon oqimi böladi: çöqqilarda 2-zona (uzlukli oqim), barça pastki sohalarda esa 3-zona (uzluksiz oqim). Masalan, odam tik turganda öpka çöqqisidagi öpka arteriyasi bosimi yurak sathidagi bosimdan taxminan 15 mm sim. ust. past böladi. Şuning uçun çöqqidagi sistolik bosim atigi 10 mm sim. ust. ni taşkil etadi (yurak sathidagi 25 mm sim. ust. dan 15 mm sim. ust. lik gidrostatik bosim farqi ayrilgan). Çöqqidagi bu 10 mm sim. ust. lik qon bosimi 0 ga teng alveolyar havo bosimidan katta, şuning uçun yurak sistolasi vaqtida qon öpka çöqqisidagi kapillyarlar orqali oqadi. Aksinça, diastola vaqtida yurak sathidagi 8 mm sim. ust. lik diastolik bosim diastolik kapillyar oqimni hosil qiliş uçun zarur bölgan 15 mm sim. ust. lik gidrostatik bosim gradiyentini yengib, qonni yuqoriga itarişga yetmaydi. Şuning uçun öpka çöqqi qismidagi qon oqimi uzlukli böladi: sistolada oqim bor, diastolada esa töxtaydi. Bu _2-zona qon oqimi_ deb ataladi. Soğlom öpkada 2-zona qon oqimi yurak örta sathidan taxminan 10 sm yuqoridan boşlanib, öpka çöqqisigaça davom etadi."
+  },
+  "ch39-f37": {
+   "text": "Öpkaning pastki sohalarida, yurak sathidan taxminan 10 sm yuqoridan öpkaning eng pastki qismigaça, öpka arteriyasi bosimi sistolada ham, diastolada ham 0 ga teng alveolyar havo bosimidan katta bölib qoladi. Şuning uçun alveolyar kapillyarlar orqali uzluksiz oqim, ya’ni 3-zona qon oqimi kuzatiladi. Şuningdek, odam yotganda öpkaning heç bir qismi yurak sathidan bir neça santimetrdan ortiq yuqorida bölmaydi. Bu holda soğlom odamda qon oqimi butunlay 3-zona qon oqimi böladi, öpka çöqqilari ham bunga kiradi."
+  },
+  "ch39-f38": {
+   "text": "1-zona qon oqimi, ya’ni yurak siklining heç bir paytida qon oqimining bölmasligi öpka arteriyasidagi sistolik bosim juda past yoki alveolyar bosim juda yuqori bölib, oqimga imkon bermaganda yuzaga keladi. Masalan, tik turgan odam musbat havo bosimiga qarşi nafas olsa va alveolalar içidagi havo bosimi me’yordan kamida 10 mm sim. ust. yuqori bölsa, öpka sistolik qon bosimi esa me’yoriy bölsa, öpka çöqqilarida 1-zona qon oqimi — qon oqimining yöqligi kutiladi. 1-zona qon oqimi kuzatiladigan yana bir holat — tik turgan odamda öpka arteriyasidagi sistolik bosimning juda past bölişi, masalan, kuçli qon yöqotişdan keyin.",
+   "lead": "1-zona qon oqimi faqat patologik holatlarda kuzatiladi."
+  },
+  "ch39-f39": {
+   "text": "**Rasm 39-4** ga yana qaytsak, jismoniy maşq vaqtida öpkaning barça qismlarida qon oqimi ortişini köramiz. Qon oqimi ortişining asosiy sabablaridan biri şuki, maşq vaqtida öpka tomirlaridagi bosim öpka çöqqilarini 2-zona oqim tartibidan 3-zona oqim tartibiga ötkazadigan darajagaça köteriladi.",
+   "lead": "Jismoniy maşq öpkaning barça qismlarida qon oqimini oşiradi."
+  },
+  "ch39-f40": {
+   "text": "Oğir jismoniy maşq vaqtida yurak haydaş hajmining ortişi me’yorda öpka qon aylanişida öpka arteriyasi bosimining katta ortişisiz qabul qilinadi"
+  },
+  "ch39-f41": {
+   "text": "Oğir jismoniy maşq vaqtida öpka orqali qon oqimi 4–7 baravar ortişi mumkin. Bu qöşimça oqim öpkada uç yöl bilan siğdiriladi: (1) oçiq kapillyarlar sonini ba’zan 3 baravargaça köpaytiriş; (2) barça kapillyarlarni kengaytirib, har bir kapillyar orqali oqim tezligini 2 baravardan köproq oşiriş; va (3) öpka arteriyasi bosimini oşiriş. Me’yorda dastlabki ikki özgariş öpka tomirlari qarşiligini şunçalik pasaytiradiki, hatto maksimal maşq vaqtida ham öpka arteriyasi bosimi juda kam köteriladi. Bu ta’sir **Rasm 39-6** da körsatilgan."
+  },
+  "ch39-f43": {
+   "text": "Öpkaning maşq vaqtida öpka arteriyasi bosimini oşirmasdan, keskin ortgan qon oqimini siğdira oliş qobiliyati yurak öng tomonining energiyasini tejaydi. Bu qobiliyat öpka kapillyarlari bosimining keskin ortişi va öpka şişi rivojlanişining ham oldini oladi."
+  },
+  "ch39-f44": {
+   "text": "Çap tomonlama yurak yetişmovçiligi natijasida çap bölmaça bosimi köterilganda öpka qon aylanişining işi"
+  },
+  "ch39-f45": {
+   "text": "Soğlom odamda çap bölmaça bosimi hatto eng zöriqişli maşq vaqtida ham deyarli heç qaçon +6 mm sim. ust. dan oşmaydi. Çap bölmaça bosimining bu kiçik özgarişlari öpka qon aylanişi işiga amalda ta’sir qilmaydi, çunki bu faqat öpka venulalarini kengaytiradi va köproq kapillyarlarni oçadi. Natijada qon öpka arteriyalaridan deyarli avvalgidek oson oqişda davom etadi."
+  },
+  "ch39-f46": {
+   "text": "Biroq yurakning çap tomoni yetişmovçiligida qon çap bölmaçada dimlana boşlaydi. Natijada çap bölmaça bosimi ba’zan me’yoriy 1–5 mm sim. ust. dan 40–50 mm sim. ust. gaça köterilişi mumkin. Bölmaça bosimining dastlabki, taxminan 7 mm sim. ust. gaça köterilişi öpka qon aylanişi işiga kam ta’sir qiladi. Biroq çap bölmaça bosimi 7 yoki 8 mm sim. ust. dan oşganda uning keyingi ortişi öpka arteriyasi bosimini deyarli şunça miqdorda oşiradi va bu bilan birga yurakning öng tomoniga tuşadigan yukni ham köpaytiradi. Çap bölmaça bosimining 7 yoki 8 mm sim. ust. dan har qanday ortişi kapillyar bosimni ham deyarli şunça oşiradi. Çap bölmaça bosimi 30 mm sim. ust. dan oşib, kapillyar bosimni ham şunga yaqin oşirganda, bobning keyingi qismida muhokama qilinganidek, öpka şişi rivojlanişi ehtimoli katta."
+  },
+  "ch39-f47": {
+   "text": "Öpka kapillyarlari dinamikasi"
+  },
+  "ch39-f48": {
+   "text": "Alveolyar havo bilan öpka kapillyarlaridagi qon örtasidagi gaz almaşinuvi keyingi bobda körib çiqiladi. Biroq bu yerda şuni ta’kidlaş muhimki, alveolalar devori şunçalik köp kapillyarlar bilan qoplanganki, köp joylarda kapillyarlar yonma-yon deyarli bir-biriga tegib turadi. Şuning uçun köpinça kapillyar qon alveolalar devorida alohida kapillyarlarda emas, balki “yaxlit qatlam oqimi” şaklida oqadi deyiladi."
+  },
+  "ch39-f49": {
+   "text": "Öpka kapillyarlaridagi bosimni bevosita ölçaş natijalari e’lon qilinmagan bölsa-da, bilvosita baholaşlar uning me’yorda örtaça taxminan 7 mm sim. ust. ekanini körsatgan. Bu qiymat ehtimol deyarli töğri, çunki çap bölmaçadagi örtaça bosim taxminan 2 mm sim. ust., öpka arteriyasidagi örtaça bosim esa atigi 15 mm sim. ust. Demak, öpka kapillyarlaridagi örtaça bosim şu ikki qiymat orasida bölişi kerak.",
+   "lead": "Öpka kapillyarlaridagi bosim."
+  },
+  "ch39-f50": {
+   "text": "Barça öpka kapillyarlarining umumiy köndalang kesim maydonini gistologik tekşiriş natijalaridan hisoblaş mumkinki, yurak haydaş hajmi me’yorda bölganda qon öpka kapillyarlaridan taxminan 0,8 soniyada ötadi. Yurak haydaş hajmi ortganda bu vaqt 0,3 soniyagaça qisqarişi mumkin. Agar me’yorda puçaygan holda bölgan qöşimça kapillyarlar ortgan qon oqimini siğdiriş uçun oçilmaganda edi, vaqt bundan ham ança qisqargan bölardi. Şunday qilib, alveolyar kapillyarlardan ötayotgan qon soniyaning bir qismi içida kislorodga töyinadi va ortiqça karbonat angidridni yöqotadi.",
+   "lead": "Qonning öpka kapillyarlarida qoliş vaqti."
+  },
+  "ch39-f51": {
+   "text": "Öpkada kapillyar suyuqlik almaşinuvi va öpka interstitsial suyuqligi dinamikasi"
+  },
+  "ch39-f52": {
+   "text": "Öpka kapillyarlari membranasi orqali suyuqlik almaşinuvi dinamikasi _sifat jihatidan_ periferik töqimalardagidek. Biroq _miqdoriy jihatdan_ quyidagi muhim farqlar bor: 1. Öpka kapillyarlaridagi bosim past — taxminan 7 mm sim. ust., köplab periferik töqimalardagi funksional kapillyar bosim esa ança yuqori — taxminan 17 mm sim. ust. 2. Öpkadagi interstitsial suyuqlik bosimi periferik teri osti töqimasidagiga qaraganda biroz manfiyroq. (Bu bosim ikki usulda ölçangan: öpka interstitsiysiga kiritilgan mikropipetka bilan — taxminan −5 mm sim. ust., va alveolalardan suyuqlikning sörilib oliniş bosimini ölçaş orqali — taxminan −8 mm sim. ust.) 3. Öpka interstitsial suyuqligining kolloid osmotik bosimi taxminan 14 mm sim. ust. ni taşkil etadi, köpçilik periferik töqimalarda esa bu qiymatning yarmidan ham kam. 4. Alveolalar devori juda yupqa, alveolalar yuzasini qoplab turuvçi alveolyar epiteliy esa şunçalik zaifki, interstitsial oraliqlardagi alveolyar havo bosimidan (>0 mm sim. ust.) katta bölgan har qanday musbat bosim uni yirtib yuborişi mumkin. Bu suyuqlikning interstitsial oraliqlardan alveolalarga töqilişiga imkon beradi. Endi bu miqdoriy farqlar öpkadagi suyuqlik dinamikasiga qanday ta’sir qilişini köraylik."
+  },
+  "ch39-f53": {
+   "text": "**Rasm 39-7** da öpka kapillyari, öpka alveolasi hamda qon kapillyari bilan alveola orasidagi interstitsial oraliqdan suyuqlikni olib ketuvçi limfa kapillyari körsatilgan. Qon kapillyari membranasidagi kuçlar muvozanatiga e’tibor bering:",
+   "lead": "Öpkada interstitsial suyuqlik bosimi va boşqa bosimlar örtasidagi özaro boğliqlik."
+  },
+  "ch39-f55": {
+   "text": "_Şunday qilib, me’yorda taşqariga yönalgan kuçlar içkariga yönalgan kuçlardan biroz katta. Bu öpka kapillyari membranasida örtaça filtratsiya bosimini hosil qiladi, uni +29 − 28 mm sim. ust. = +1 mm sim. ust. deb hisoblaş mumkin._"
+  },
+  "ch39-f56": {
+   "text": "Bu filtratsiya bosimi suyuqlikning öpka kapillyarlaridan interstitsial oraliqlarga kiçik, lekin uzluksiz oqimini yuzaga keltiradi. Alveolalarda buğlanib ketadigan oz miqdordan taşqari, bu suyuqlik öpka limfa tizimi orqali qon aylanişiga qaytarib haydaladi."
+  },
+  "ch39-f57": {
+   "text": "Me’yoriy şaroitda alveolalarning suyuqlik bilan tölib qolişiga nima tösqinlik qiladi? Öpka kapillyarlari va öpka limfa tizimi me’yorda interstitsial oraliqlarda biroz _manfiy bosimni_ saqlab turadi. Alveolalarda ortiqça suyuqlik paydo bölgan har qanday holatda u alveolyar epiteliy hujayralari orasidagi mayda teşikçalar orqali öpka interstitsiysiga mexanik ravişda sörib olinadi. Söngra ortiqça suyuqlik öpka limfa tomirlari orqali olib ketiladi. Şunday qilib, me’yoriy şaroitda alveolalar “quruq” saqlanadi. Faqat ularni nam saqlaş uçun epiteliydan alveolalarning içki yuzasiga sizib çiqadigan oz miqdordagi suyuqlik bundan mustasno.",
+   "lead": "Öpka interstitsiysidagi manfiy bosim va alveolalarni quruq saqlaş mexanizmi."
+  },
+  "ch39-f58": {
+   "text": "Öpka şişi tananing boşqa joylaridagi şiş kabi yuzaga keladi. Öpka kapillyarlaridan suyuqlik filtratsiyasini oşiradigan yoki öpka limfa tizimi işiga tösqinlik qilib, öpka interstitsial suyuqligi bosimini manfiy qiymatlardan musbat qiymatlarga köteradigan har qanday omil öpka interstitsial oraliqlari va alveolalarining erkin suyuqlik bilan tölişiga moyillik tuğdiradi."
+  },
+  "ch39-f59": {
+   "text": "Öpka şişining eng köp uçraydigan sabablari quyidagilar: 1. Çap tomonlama yurak yetişmovçiligi yoki mitral klapan kasalligi. Bunda öpka venalari va öpka kapillyarlaridagi bosim keskin oşib, interstitsial oraliqlar va alveolalarni suyuqlik bosadi. 2. Pnevmoniya kabi infeksiyalar yoki xlor gazi yoxud oltingugurt dioksidi gazi kabi zararli moddalar bilan nafas oliş natijasida öpka qon kapillyarlari membranasining şikastlanişi. Bu mexanizmlarning har biri plazma oqsillari va suyuqlikning kapillyarlardan öpka interstitsial oraliqlari va alveolalariga tez sizib çiqişiga sabab böladi."
+  },
+  "ch39-f60": {
+   "text": "Hayvonlarda ötkazilgan tajribalar şuni körsatdiki, sezilarli öpka şişi yuzaga keliş uçun öpka kapillyarlaridagi bosim me’yorda kamida kapillyarlar içidagi plazmaning kolloid osmotik bosimiga teng qiymatgaça köterilişi kerak. Misol tariqasida **Rasm 39-8** da itlarda çap bölmaça bosimining turli darajalari öpka şişi hosil böliş tezligini qanday oşirişi körsatilgan. Esda tuting: çap bölmaça bosimi har safar yuqori qiymatlargaça köterilganda öpka kapillyarlaridagi bosim çap bölmaça bosimidan 1–2 mm sim. ust. yuqori darajagaça köteriladi. Bu tajribalarda çap bölmaça bosimi 23 mm sim. ust. dan oşişi bilanoq (öpka kapillyarlaridagi bosim 25 mm sim. ust. dan oşganda) öpkada suyuqlik töplana boşladi. Kapillyar bosim yana oşgani sari bu suyuqlik töplaniş yanada tezlaşdi. Bu tajribalarda plazmaning kolloid osmotik bosimi şu 25 mm sim. ust. lik kritik bosim darajasiga teng edi. Şuning uçun plazmaning me’yoriy kolloid osmotik bosimi 28 mm sim. ust. bölgan odamda sezilarli öpka şişi yuzaga keliş uçun öpka kapillyarlaridagi bosim me’yoriy 7 mm sim. ust. dan 28 mm sim. ust. dan köproqqaça köterilişi kerak, deb taxmin qiliş mumkin. Bu 21 mm sim. ust. lik _öpka şişiga qarşi ötkir xavfsizlik omilini_ beradi.",
+   "lead": "Öpka şişiga qarşi xavfsizlik omili."
+  },
+  "ch39-f62": {
+   "text": "Öpka kapillyarlaridagi bosim surunkali ravişda (kamida 2 hafta) yuqori bölib tursa, öpka şişga yanada çidamliroq bölib qoladi, çunki limfa tomirlari keskin kengayib, suyuqlikni interstitsial oraliqlardan olib ketiş qobiliyatini taxminan 10 baravargaça oşiradi. Şuning uçun surunkali mitral stenozli bemorlarda öpka kapillyarlaridagi bosim 40–45 mm sim. ust. gaça ölçangan, ammo öldiruvçi öpka şişi rivojlanmagan.",
+   "lead": "Surunkali holatlardagi xavfsizlik omili."
+  },
+  "ch39-f63": {
+   "text": "Öpka kapillyarlaridagi bosim xavfsizlik omili darajasidan hatto biroz oşsa ham, öldiruvçi öpka şişi bir neça soat içida, kapillyar bosim xavfsizlik omili darajasidan 25–30 mm sim. ust. yuqori köterilsa esa hatto 20–30 daqiqa içida rivojlanişi mumkin. Şunday qilib, öpka kapillyarlaridagi bosim ba’zan haqiqatan ham 50 mm sim. ust. gaça köteriladigan ötkir çap tomonlama yurak yetişmovçiligida ötkir öpka şişi natijasida ölim 30 daqiqadan kamroq vaqt içida yuz berişi mumkin.",
+   "lead": "Şiş."
+  },
+  "ch39-f64": {
+   "text": "Plevra böşliğidagi suyuqlik"
+  },
+  "ch39-f65": {
+   "text": "Oddiy nafas olişda öpka kengayib-qisqarganda u plevra böşliğida oldinga-orqaga sirpanadi. Bu harakatni yengillaştiriş uçun parietal va visseral plevralar orasida şilimşiq suyuqlikning yupqa qatlami joylaşgan."
+  },
+  "ch39-f66": {
+   "text": "**Rasm 39-9** da plevra oraliğidagi suyuqlik almaşinuvi dinamikasi körsatilgan. Plevra membranasi mezenximal kelib çiqişli, ğovak seroz membranadir. U orqali oz miqdordagi interstitsial suyuqlik uzluksiz ravişda plevra oraliğiga transudatsiyalanib turadi. Bu suyuqliklar özi bilan töqima oqsillarini olib keladi va plevra suyuqligiga şilimşiq xususiyat beradi. Aynan şu xususiyat harakatlanayotgan öpkaning juda oson sirpanişiga imkon beradi."
+  },
+  "ch39-f68": {
+   "text": "Har bir plevra böşliğidagi suyuqlikning umumiy miqdori me’yorda juda oz — atigi bir neça millilitr. Uning miqdori plevra böşliğida oqa boşlaş uçun zörğa yetadigan darajadan oşgan har qanday holatda ortiqça suyuqlik plevra böşliğidan bevosita quyidagilarga oçiladigan limfa tomirlari orqali haydab çiqariladi: (1) kökrak oraliği; (2) diafragmaning yuqori yuzasi; va (3) parietal plevraning yon yuzalari. Şuning uçun _plevra oraliği_ — parietal va visseral plevralar orasidagi oraliq — _potensial (ehtimoliy) oraliq_ deb ataladi, çunki u me’yorda şunçalik torki, aniq jismoniy böşliq sifatida körinmaydi."
+  },
+  "ch39-f69": {
+   "text": "Öpkani kengaygan holda saqlaş uçun uning taşqi tomonida doimo manfiy kuç kerak. Bu kuçni me’yoriy plevra oraliğidagi manfiy bosim ta’minlaydi. Bu manfiy bosimning asosiy sababi suyuqlikning limfa tomirlari tomonidan oraliqdan haydab çiqarilişidir. Tananing köpçilik töqima oraliqlarida uçraydigan manfiy bosim ham şunga asoslangan. Öpkaning me’yoriy puçayiş moyilligi taxminan −4 mm sim. ust. bölgani uçun öpkani kengaygan holda saqlaş uçun plevra suyuqligi bosimi doimo kamida −4 mm sim. ust. ça manfiy bölişi kerak. Haqiqiy ölçovlar bu bosim odatda taxminan –7 mm sim. ust. ekanini, ya’ni öpkaning puçayiş bosimidan bir neça millimetr simob ustuni manfiyroq ekanini körsatgan. Şunday qilib, plevra suyuqligi bosimining manfiyligi me’yoriy öpkani kökrak böşliğining parietal plevrasiga tortib turadi. Ular orasida faqat moylovçi vazifasini bajaruvçi juda yupqa şilimşiq suyuqlik qatlami bor.",
+   "lead": "Plevra suyuqligidagi manfiy bosim."
+  },
+  "ch39-f70": {
+   "text": "Plevral effuziya töqimalardagi şiş suyuqligiga öxşaydi va uni _plevra böşliğining şişi_ deb ataş mumkin. Effuziyaning sabablari boşqa töqimalardagi şişning sabablari bilan bir xil (25-bobda muhokama qilingan), jumladan: (1) plevra böşliğidan limfa oqib ketişining töşilişi; (2) yurak yetişmovçiligi — u periferik va öpka kapillyarlaridagi bosimni haddan taşqari oşirib, suyuqlikning plevra böşliğiga ortiqça transudatsiyasiga olib keladi; (3) plazma kolloid osmotik bosimining keskin pasayişi — bu ham suyuqlikning ortiqça transudatsiyasiga imkon beradi; va (4) infeksiya yoki plevra böşliği yuzalarining yalliğlanişiga olib keluvçi boşqa har qanday sabab — u kapillyar membranalar ötkazuvçanligini oşirib, plazma oqsillari va suyuqlikning böşliqqa tez quyilişiga imkon beradi.",
+   "lead": "Plevral effuziya — plevra oraliğida köp miqdorda erkin suyuqlik töplanişi."
+  }
+ },
+ "figures": {
+  "gh14-fig-39-01": "Öng qorinça, öpka arteriyasi va aortadagi bosim pulsi egri çiziqlari.",
+  "gh14-fig-39-02": "Öpkaning turli tomirlaridagi bosimlar. Qizil egri çiziq arterial pulsatsiyalarni bildiradi. D — diastolik; M — örtaça; S — sistolik.",
+  "gh14-fig-39-03": "Mahalliy töqima gipoksiyasida öpkada qon oqimining boşqarilişi. Me’yorda mahalliy töqima qon oqimi va alveolyar ventilyatsiya optimal gaz almaşinuvi uçun özaro mos keladi (yuqori panel). Yomon ventilyatsiyalanadigan alveolalarni örab turgan töqimada Po₂ ning pasayişi qöşni arteriolalarning torayişiga sabab böladi va qon oqimini yaxşi ventilyatsiyalanadigan alveolalarga yönaltiradi (pastki panel).",
+  "gh14-fig-39-04": "Tik turgan odam öpkasining turli sathlarida tinç holatda (qizil egri çiziq) va jismoniy maşq vaqtida (kök egri çiziq) qon oqimi. E’tibor bering: odam tinç holatda bölganda öpkaning yuqori qismida qon oqimi juda past, oqimning köp qismi öpkaning pastki qismidan ötadi.",
+  "gh14-fig-39-05": "Öpkaning uçta qon oqimi zonasida qon oqimi mexanikasi: 1-zona, oqim yöq — alveolyar havo bosimi (PALV) arterial bosimdan katta; 2-zona, uzlukli oqim — sistolik arterial bosim alveolyar havo bosimidan yuqori köteriladi, ammo diastolik arterial bosim alveolyar havo bosimidan pastga tuşadi; 3-zona, uzluksiz oqim — arterial bosim va öpka kapillyarlaridagi bosim (Ppc) doimo alveolyar havo bosimidan katta bölib qoladi.",
+  "gh14-fig-39-06": "Jismoniy maşq vaqtida yurak haydaş hajmining ortişi natijasida öpka arteriyasidagi örtaça bosimning özgarişi.",
+  "gh14-fig-39-07": "Öpka kapillyari (çapda) va alveolyar membranasidagi (öngda) gidrostatik va osmotik kuçlar (mm sim. ust.). Öpka interstitsial oraliqlaridan suyuqlikni haydab çiqaruvçi limfa tomirining uçi ham körsatilgan (markazda).",
+  "gh14-fig-39-08": "Çap bölmaça bosimi (va öpka kapillyarlaridagi bosim) oşirilganda suyuqlikning öpka töqimalariga yöqotiliş tezligi. (Guyton AC, Lindsey AW: Effect of elevated left atrial pressure and decreased plasma protein concentration on the development of pulmonary edema. Circ Res 7:649, 1959 dan olingan.)",
+  "gh14-fig-39-09": "Plevra içi oraliğida suyuqlik almaşinuvi dinamikasi."
+ }
+}

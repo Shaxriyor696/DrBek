@@ -1,5 +1,5 @@
 // Shared client helpers: bookmark toggling, figure lightbox, status badges.
-import { h, icon, toast } from './ui.js';
+import { h, icon, inline, toast } from './ui.js';
 import { get, post, del } from './api.js';
 
 // Toggle a bookmark. POST is idempotent (returns the existing one), so removal = POST then DELETE.
@@ -10,18 +10,18 @@ export async function toggleBookmark(btn, { targetType, targetId, title, snippet
     if (saved) {
       await del(`/api/bookmarks/${r.bookmark.id}`);
       setBookmarkBtn(btn, false);
-      toast('Saqlanganlardan olib tashlandi.', { action: 'Qaytarish', onAction: async () => { await post(`/api/bookmarks/${r.bookmark.id}/restore`); setBookmarkBtn(btn, true); } });
+      toast('Saqlanganlardan olib taşlandi.', { action: 'Qaytariş', onAction: async () => { await post(`/api/bookmarks/${r.bookmark.id}/restore`); setBookmarkBtn(btn, true); } });
       return false;
     }
     setBookmarkBtn(btn, true);
-    toast('Saqlanganlarga qo’shildi.');
+    toast('Saqlanganlarga qöşildi.');
     return true;
   } catch (err) { toast(err.message); return saved; } finally { btn.disabled = false; }
 }
 export function setBookmarkBtn(btn, on) {
   btn.setAttribute('aria-pressed', String(on));
   btn.replaceChildren(icon(on ? 'bookmarkFill' : 'bookmark'));
-  btn.title = on ? 'Saqlangan (olib tashlash)' : 'Saqlash';
+  btn.title = on ? 'Saqlangan (olib taşlaş)' : 'Saqlaş';
   btn.setAttribute('aria-label', btn.title);
 }
 export function bookmarkButton(target, saved, extraClass = '') {
@@ -32,7 +32,7 @@ export function bookmarkButton(target, saved, extraClass = '') {
   return btn;
 }
 
-export const STATUS_LABEL = { published: 'Tasdiqlangan', in_review: 'Tekshiruvda', draft: 'Qoralama', archived: 'Arxiv', needs_review: 'Tekshirilishi kerak', approved: 'Tasdiqlangan', rejected: 'Rad etilgan', not_found: 'Topilmadi' };
+export const STATUS_LABEL = { published: 'Tasdiqlangan', in_review: 'Tekşiruvda', draft: 'Qoralama', archived: 'Arxiv', needs_review: 'Tekşirilişi kerak', approved: 'Tasdiqlangan', rejected: 'Rad etilgan', not_found: 'Topilmadi' };
 export function statusBadge(s) {
   const cls = s === 'published' || s === 'approved' ? 'ok' : s === 'archived' || s === 'rejected' ? 'gray' : 'warn';
   return h('span', { class: `badge ${cls}` }, STATUS_LABEL[s] || s);
@@ -46,7 +46,7 @@ export async function openFigure(imageIdOrFigure, { onSave, onNote } = {}) {
   }
   let scale = 1;
   const img = f.url ? h('img', { src: f.url, alt: f.altTextUz || f.originalCaption || f.figureNumber, draggable: 'false' }) : null;
-  const stage = h('div', { class: 'lb-stage' }, img || h('div', { class: 'empty' }, icon('image'), h('p', {}, 'Rasm hali kesib olinmagan. Kitob sahifasini oching.')));
+  const stage = h('div', { class: 'lb-stage' }, img || h('div', { class: 'empty' }, icon('image'), h('p', {}, 'Rasm hali kesib olinmagan. Kitob sahifasini oçing.')));
   const apply = () => { if (img) img.style.transform = `scale(${scale})`; zl.textContent = `${Math.round(scale * 100)}%`; };
   const zl = h('span', { class: 'small', 'aria-live': 'polite' }, '100%');
   const zoom = (d) => { scale = Math.min(4, Math.max(0.5, +(scale + d).toFixed(2))); apply(); };
@@ -59,25 +59,25 @@ export async function openFigure(imageIdOrFigure, { onSave, onNote } = {}) {
   const prev = document.activeElement;
   const close = () => { box.remove(); document.removeEventListener('keydown', onKey); prev?.focus?.(); };
   const onKey = (e) => { if (e.key === 'Escape') close(); if (e.key === '+' || e.key === '=') zoom(0.25); if (e.key === '-') zoom(-0.25); };
-  const closeBtn = h('button', { type: 'button', class: 'icon-btn', onclick: close, 'aria-label': 'Yopish' }, icon('x'));
+  const closeBtn = h('button', { type: 'button', class: 'icon-btn', onclick: close, 'aria-label': 'Yopiş' }, icon('x'));
   const box = h('div', { class: 'lightbox', role: 'dialog', 'aria-modal': 'true', 'aria-label': figLabel(f) },
     h('div', { class: 'lb-top' },
       h('b', { class: 'grow' }, figLabel(f)),
-      h('button', { type: 'button', class: 'icon-btn', onclick: () => zoom(-0.25), 'aria-label': 'Kichiklashtirish' }, icon('zoomOut')), zl,
-      h('button', { type: 'button', class: 'icon-btn', onclick: () => zoom(0.25), 'aria-label': 'Kattalashtirish' }, icon('zoomIn')),
+      h('button', { type: 'button', class: 'icon-btn', onclick: () => zoom(-0.25), 'aria-label': 'Kiçiklaştiriş' }, icon('zoomOut')), zl,
+      h('button', { type: 'button', class: 'icon-btn', onclick: () => zoom(0.25), 'aria-label': 'Kattalaştiriş' }, icon('zoomIn')),
       h('button', { type: 'button', class: 'btn small', onclick: () => { scale = 1; apply(); } }, '100%'),
-      onSave ? h('button', { type: 'button', class: 'btn small', onclick: () => onSave(f) }, icon('bookmark'), 'Saqlash') : null,
+      onSave ? h('button', { type: 'button', class: 'btn small', onclick: () => onSave(f) }, icon('bookmark'), 'Saqlaş') : null,
       onNote ? h('button', { type: 'button', class: 'btn small', onclick: () => { close(); onNote(f); } }, icon('note'), 'Qayd') : null,
-      window.DS_DEMO ? null : h('a', { class: 'btn small', href: pdfHref, target: '_blank', rel: 'noopener' }, icon('external'), 'Kitobdagi sahifani ochish'),
+      window.DS_DEMO ? null : h('a', { class: 'btn small', href: pdfHref, target: '_blank', rel: 'noopener' }, icon('external'), 'Kitobdagi sahifani oçiş'),
       closeBtn),
     stage,
     h('div', { class: 'lb-cap' },
       h('p', { style: { margin: '0 0 6px' } }, h('b', {}, `${f.figureNumber}. `), (f.originalCaption || '').replace(/^(Figure|Table)\s*\d+-\d+\.?\s*/, '')),
-      f.captionUz ? h('p', { style: { margin: '0 0 6px' } }, f.captionUz) : null,
+      f.captionUz ? h('p', { style: { margin: '0 0 6px' } }, inline(f.captionUz)) : null,
       h('div', { class: 'row xs', style: { flexWrap: 'wrap', gap: '8px' } },
-        h('span', {}, `Manba: Guyton & Hall, 14-nashr · kitob sahifasi ${f.printedPageLabel ?? '—'} (PDF ${f.pdfPage})`),
+        h('span', {}, `Manba: Guyton & Hall, 14-naşr · kitob sahifasi ${f.printedPageLabel ?? '—'} (PDF ${f.pdfPage})`),
         statusBadge(f.reviewStatus),
-        f.cropMethod === 'full_page_fallback' || !f.cropMethod ? h('span', { class: 'badge warn' }, 'Qo’lda kesish kerak') : null)));
+        f.cropMethod === 'full_page_fallback' || !f.cropMethod ? h('span', { class: 'badge warn' }, 'Qölda kesiş kerak') : null)));
   document.body.appendChild(box);
   document.addEventListener('keydown', onKey);
   closeBtn.focus();
@@ -88,8 +88,8 @@ const dist = (t) => Math.hypot(t[0].clientX - t[1].clientX, t[0].clientY - t[1].
 export function figureBlock(f, onOpen) {
   if (!f) return null;
   return h('figure', { class: 'book-fig', id: `fig-${f.imageId}` },
-    h('button', { type: 'button', class: 'fig-btn', onclick: () => onOpen(f), 'aria-label': `${figLabel(f)} — kattalashtirish` },
-      f.url ? h('img', { src: f.url, alt: f.altTextUz || f.originalCaption || figLabel(f), loading: 'lazy', width: f.dimensions?.[0], height: f.dimensions?.[1] }) : h('div', { class: 'empty small' }, icon('image'), 'Rasm kesib olinmagan — kitob sahifasini oching')),
-    h('figcaption', {}, h('b', {}, `${figLabel(f)}. `), f.captionUz || (f.originalCaption || '').replace(/^(Figure|Table)\s*\d+-\d+\.?\s*/, ''),
-      h('span', { class: 'xs muted', style: { display: 'block' } }, `Kitob, ${f.printedPageLabel ?? '—'}-bet · `, f.reviewStatus === 'approved' ? 'tasdiqlangan' : 'tekshirilishi kerak')));
+    h('button', { type: 'button', class: 'fig-btn', onclick: () => onOpen(f), 'aria-label': `${figLabel(f)} — kattalaştiriş` },
+      f.url ? h('img', { src: f.url, alt: f.altTextUz || f.originalCaption || figLabel(f), loading: 'lazy', width: f.dimensions?.[0], height: f.dimensions?.[1] }) : h('div', { class: 'empty small' }, icon('image'), 'Rasm kesib olinmagan — kitob sahifasini oçing')),
+    h('figcaption', {}, h('b', {}, `${figLabel(f)}. `), f.captionUz ? inline(f.captionUz) : (f.originalCaption || '').replace(/^(Figure|Table)\s*\d+-\d+\.?\s*/, ''),
+      h('span', { class: 'xs muted', style: { display: 'block' } }, `Kitob, ${f.printedPageLabel ?? '—'}-bet · `, f.reviewStatus === 'approved' ? 'tasdiqlangan' : 'tekşirilişi kerak')));
 }

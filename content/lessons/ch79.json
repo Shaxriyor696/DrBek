@@ -4,7 +4,7 @@
  "order": 5,
  "titleUz": "Insulin, glyukagon va qandli diabet",
  "titleOriginal": "Insulin, Glucagon, and Diabetes Mellitus",
- "subtitle": "*Insulin, Glucagon, and Diabetes Mellitus* — XIV bo'lim, PDF 922–938",
+ "subtitle": "*Insulin, Glucagon, and Diabetes Mellitus* — XIV bo‘lim, PDF 922–938",
  "contentVersion": "2026-11-14.1",
  "status": "in_review",
  "translationStatus": "machine_assisted",
@@ -317,11 +317,11 @@
   "Orolchalar tuzilishi",
   "Insulin: tuzilishi va sintezi",
   "Uglevod almashinuviga ta’siri",
-  "Yog' almashinuviga ta’siri",
-  "Oqsil almashinuvi va o’sish",
+  "Yog‘ almashinuviga ta’siri",
+  "Oqsil almashinuvi va o‘sish",
   "Insulin sekretsiyasi mexanizmi",
   "Sekretsiya boshqaruvi (79-1 jadval)",
-  "Uglevod va yog' yoqilg’isi o’rtasida almashish",
+  "Uglevod va yog‘ yoqilg‘isi o‘rtasida almashish",
   "Glyukagon",
   "Somatostatin",
   "Qon glyukozasini boshqarish (xulosa)",
@@ -338,19 +338,19 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Asosiy g’oya",
+    "text": "Asosiy ğoya",
     "id": "ch79-s-0-asosiy-goya",
     "bid": "ch79-u0"
    },
    {
     "type": "paragraph",
-    "text": "Oshqozon osti bezining endokrin qismi (Langerhans orolchalari) ikki asosiy gormon chiqaradi: insulin (ortiqcha energiyani saqlash gormoni) va glyukagon (qondagi glyukozani ko’taruvchi gormon). Ular birgalikda qon glyukozasini tor chegarada ushlab turadi. Insulin yetishmasligi yoki unga sezgirlik pasayishi qandli diabetga olib keladi.",
+    "text": "Oşqozon osti bezining endokrin qismi (Langerhans orolçalari) ikki asosiy gormon çiqaradi: insulin (ortiqça energiyani saqlaş gormoni) va glyukagon (qondagi glyukozani kötaruvçi gormon). Ular birgalikda qon glyukozasini tor çegarada uşlab turadi. Insulin yetişmasligi yoki unga sezgirlik pasayişi qandli diabetga olib keladi.",
     "bid": "ch79-u1"
    },
    {
     "type": "heading",
     "level": 2,
-    "text": "Orolchalar tuzilishi",
+    "text": "Orolçalar tuzilişi",
     "id": "ch79-s-2-orolchalar-tuzilishi",
     "bid": "ch79-u2"
    },
@@ -363,7 +363,7 @@
       "depth": 0
      },
      {
-      "text": "Hujayralar o’zaro ta’sir qiladi: insulin glyukagonni tormozlaydi, amilin insulinni, somatostatin ham insulin, ham glyukagonni tormozlaydi.",
+      "text": "Hujayralar özaro ta’sir qiladi: insulin glyukagonni tormozlaydi, amilin insulinni, somatostatin ham insulin, ham glyukagonni tormozlaydi.",
       "depth": 0
      }
     ],
@@ -372,7 +372,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Insulin: tuzilishi va sintezi",
+    "text": "Insulin: tuzilişi va sintezi",
     "id": "ch79-s-4-insulin-tuzilishi-va-sintezi",
     "bid": "ch79-u4"
    },
@@ -381,19 +381,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Ikki zanjirli oqsil, disulfid ko’priklar bilan bog’langan.",
+      "text": "Ikki zanjirli oqsil, disulfid köpriklar bilan boğlangan.",
       "depth": 0
      },
      {
-      "text": "Preproinsulin → proinsulin (ER) → Golji’da insulin + **C-peptid**ga ajraladi; ikkalasi teng miqdorda chiqariladi (C-peptid endogen insulin ko’rsatkichi).",
+      "text": "Preproinsulin → proinsulin (ER) → Golji’da insulin + **C-peptid**ga ajraladi; ikkalasi teng miqdorda çiqariladi (C-peptid endogen insulin körsatkiçi).",
       "depth": 0
      },
      {
-      "text": "Qonda yarim yemirilish davri ~6 daqiqa; asosan jigar va buyrakda parchalanadi.",
+      "text": "Qonda yarim yemiriliş davri ~6 daqiqa; asosan jigar va buyrakda parçalanadi.",
       "depth": 0
      },
      {
-      "text": "**Retseptor**: tirozin kinaza; insulin bog’langach autofosforlanadi, **IRS** (insulin retseptor substratlari) ni fosforlaydi → ferment faolligi o’zgaradi, GLUT4 membranaga chiqadi (soniyalar), ferment sintezi o’zgaradi (soatlar–kunlar).",
+      "text": "**Retseptor**: tirozin kinaza; insulin boğlangaç autofosforlanadi, **IRS** (insulin retseptor substratlari) ni fosforlaydi → ferment faolligi özgaradi, GLUT4 membranaga çiqadi (soniyalar), ferment sintezi özgaradi (soatlar–kunlar).",
       "depth": 0
      }
     ],
@@ -402,7 +402,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Uglevod almashinuviga ta’siri",
+    "text": "Uglevod almaşinuviga ta’siri",
     "id": "ch79-s-6-uglevod-almashinuviga-tasiri",
     "bid": "ch79-u6"
    },
@@ -411,19 +411,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Mushak**: tinch holatda membranasi glyukozaga kam o’tkazuvchan; ovqatdan keyin insulin GLUT4 orqali glyukoza kirishini ~15 barobargacha oshiradi. Jismoniy mashq vaqtida glyukoza insulinsiz ham kiradi. Ortiqcha glyukoza mushak glikogeni sifatida saqlanadi (anaerob energiya zahirasi).",
+      "text": "**Muşak**: tinç holatda membranasi glyukozaga kam ötkazuvçan; ovqatdan keyin insulin GLUT4 orqali glyukoza kirişini ~15 barobargaça oşiradi. Jismoniy maşq vaqtida glyukoza insulinsiz ham kiradi. Ortiqça glyukoza muşak glikogeni sifatida saqlanadi (anaerob energiya zahirasi).",
       "depth": 0
      },
      {
-      "text": "**Jigar**: ovqatdagi glyukozaning ~60% jigarda glikogen bo’lib saqlanadi (5–6% massa, ~100 g). Mexanizmlar: jigar fosforilazasini tormozlaydi, glyukokinazani faollashtiradi (glyukoza hujayrada ushlanadi), glikogen sintazani kuchaytiradi. Ovqatlar oralig’ida insulin tushadi → glikogen parchalanib glyukoza qonga chiqariladi (glyukoza-6-fosfataza).",
+      "text": "**Jigar**: ovqatdagi glyukozaning ~60% jigarda glikogen bölib saqlanadi (5–6% massa, ~100 g). Mexanizmlar: jigar fosforilazasini tormozlaydi, glyukokinazani faollaştiradi (glyukoza hujayrada uşlanadi), glikogen sintazani kuçaytiradi. Ovqatlar oraliğida insulin tuşadi → glikogen parçalanib glyukoza qonga çiqariladi (glyukoza-6-fosfataza).",
       "depth": 0
      },
      {
-      "text": "Jigarda glikogen to’yingach ortiqcha glyukoza yog' kislotalariga aylanib, LDL ko’rinishida yog' to’qimasiga yuboriladi. Insulin glyukoneogenezni tormozlaydi.",
+      "text": "Jigarda glikogen töyingaç ortiqça glyukoza yoğ kislotalariga aylanib, LDL körinişida yoğ töqimasiga yuboriladi. Insulin glyukoneogenezni tormozlaydi.",
       "depth": 0
      },
      {
-      "text": "**Miya** glyukozani insulinga bog’liq bo’lmagan holda oladi; shuning uchun gipoglikemiya (20–50 mg/100 ml) asabiy shok, tutqanoq, komaga olib keladi.",
+      "text": "**Miya** glyukozani insulinga boğliq bölmagan holda oladi; şuning uçun gipoglikemiya (20–50 mg/100 ml) asabiy şok, tutqanoq, komaga olib keladi.",
       "depth": 0
      }
     ],
@@ -432,7 +432,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Yog' almashinuviga ta’siri",
+    "text": "Yoğ almaşinuviga ta’siri",
     "id": "ch79-s-8-yog-almashinuviga-tasiri",
     "bid": "ch79-u8"
    },
@@ -441,15 +441,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Insulin yog' sintezi va saqlanishini kuchaytiradi: glyukozadan sitrat/izotsitrat → **asetil-KoA karboksilaza** faollashadi → yog' kislotalari; **lipoprotein lipaza** (kapillyar devorida) triglitseridlarni parchalab yog' kislotalarini yog' hujayrasiga kiritadi.",
+      "text": "Insulin yoğ sintezi va saqlanişini kuçaytiradi: glyukozadan sitrat/izotsitrat → **asetil-KoA karboksilaza** faollaşadi → yoğ kislotalari; **lipoprotein lipaza** (kapillyar devorida) triglitseridlarni parçalab yoğ kislotalarini yoğ hujayrasiga kiritadi.",
       "depth": 0
      },
      {
-      "text": "Yog' hujayrasida: **gormonga sezgir lipaza** tormozlanadi, glyukoza kirishi ortib **α-glitserofosfat** hosil bo’ladi → triglitserid sintezi.",
+      "text": "Yoğ hujayrasida: **gormonga sezgir lipaza** tormozlanadi, glyukoza kirişi ortib **α-glitserofosfat** hosil böladi → triglitserid sintezi.",
       "depth": 0
      },
      {
-      "text": "**Insulin yetishmasligida**: lipoliz kuchayadi, qonda erkin yog' kislotalari ko’payadi (asosiy energiya manbaiga aylanadi), jigarda xolesterin va fosfolipidlar ortadi (ateroskleroz xavfi), ortiqcha yog' kislotasi oksidlanishi **keton tanachalari** (asetoasetat, β-gidroksibutirat, aseton) → ketoz va atsidoz.",
+      "text": "**Insulin yetişmasligida**: lipoliz kuçayadi, qonda erkin yoğ kislotalari köpayadi (asosiy energiya manbaiga aylanadi), jigarda xolesterin va fosfolipidlar ortadi (ateroskleroz xavfi), ortiqça yoğ kislotasi oksidlanişi **keton tanaçalari** (asetoasetat, β-gidroksibutirat, aseton) → ketoz va atsidoz.",
       "depth": 0
      }
     ],
@@ -458,7 +458,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Oqsil almashinuvi va o’sish",
+    "text": "Oqsil almaşinuvi va ösiş",
     "id": "ch79-s-10-oqsil-almashinuvi-va-osish",
     "bid": "ch79-u10"
    },
@@ -467,15 +467,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Insulin aminokislotalar tashilishini, mRNK translyatsiyasini, transkripsiyani kuchaytiradi, oqsil katabolizmini va glyukoneogenezni tormozlaydi.",
+      "text": "Insulin aminokislotalar taşilişini, mRNK translyatsiyasini, transkripsiyani kuçaytiradi, oqsil katabolizmini va glyukoneogenezni tormozlaydi.",
       "depth": 0
      },
      {
-      "text": "Insulin yetishmasligida oqsil parchalanadi, plazmada aminokislotalar ortadi, mushak kuchsizlanadi.",
+      "text": "Insulin yetişmasligida oqsil parçalanadi, plazmada aminokislotalar ortadi, muşak kuçsizlanadi.",
       "depth": 0
      },
      {
-      "text": "O’sish uchun insulin va o’sish gormoni **sinergik** ta’sir qiladi: har biri alohida deyarli o’stirmaydi, birgalikda kuchli o’sish beradi.",
+      "text": "Ösiş uçun insulin va ösiş gormoni **sinergik** ta’sir qiladi: har biri alohida deyarli östirmaydi, birgalikda kuçli ösiş beradi.",
       "depth": 0
      }
     ],
@@ -493,15 +493,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Beta hujayraga glyukoza **GLUT2** orqali kiradi → **glyukokinaza** (tezlikni cheklovchi qadam, \"glyukoza sensori\") → ATF ortadi → **ATF-sezgir K⁺ kanallari** yopiladi → depolarizatsiya → kuchlanishga bog’liq Ca²⁺ kanallari ochiladi → insulin ekzotsitozi.",
+      "text": "Beta hujayraga glyukoza **GLUT2** orqali kiradi → **glyukokinaza** (tezlikni çeklovçi qadam, “glyukoza sensori”) → ATF ortadi → **ATF-sezgir K⁺ kanallari** yopiladi → depolarizatsiya → kuçlanişga boğliq Ca²⁺ kanallari oçiladi → insulin ekzotsitozi.",
       "depth": 0
      },
      {
-      "text": "**Sulfonilmochevina** preparatlari K-ATF kanallarini yopib sekretsiyani kuchaytiradi.",
+      "text": "**Sulfonilmoçevina** preparatlari K-ATF kanallarini yopib sekretsiyani kuçaytiradi.",
       "depth": 0
      },
      {
-      "text": "Ba’zi aminokislotalar, GLP-1/GIP, asetilxolin ham signalni kuchaytiradi.",
+      "text": "Ba’zi aminokislotalar, GLP-1/GIP, asetilxolin ham signalni kuçaytiradi.",
       "depth": 0
      }
     ],
@@ -510,7 +510,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Sekretsiya boshqaruvi (79-1 jadval)",
+    "text": "Sekretsiya boşqaruvi (79-1 jadval)",
     "id": "ch79-s-14-sekretsiya-boshqaruvi-79-1-jadval",
     "bid": "ch79-u14"
    },
@@ -519,31 +519,31 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Kuchaytiruvchilar**: qon glyukozasi, erkin yog' kislotalari, aminokislotalar, GI gormonlari (gastrin, CCK, sekretin, **GIP, GLP-1**), glyukagon, o’sish gormoni, kortizol, parasimpatik/asetilxolin, β-adrenergik, insulin rezistentligi, semizlik, sulfonilmochevina.",
+      "text": "**Kuçaytiruvçilar**: qon glyukozasi, erkin yoğ kislotalari, aminokislotalar, GI gormonlari (gastrin, CCK, sekretin, **GIP, GLP-1**), glyukagon, ösiş gormoni, kortizol, parasimpatik/asetilxolin, β-adrenergik, insulin rezistentligi, semizlik, sulfonilmoçevina.",
       "depth": 0
      },
      {
-      "text": "**Tormozlovchilar**: glyukozaning pasayishi, och qolish, somatostatin, α-adrenergik ta’sir, leptin.",
+      "text": "**Tormozlovçilar**: glyukozaning pasayişi, oç qoliş, somatostatin, α-adrenergik ta’sir, leptin.",
       "depth": 0
      },
      {
-      "text": "Glyukoza ta’siri: plazma glyukozasi 90 dan ortsa sekretsiya keskin oshadi; 400–600 mg/100 ml da bazal darajadan **10–25 barobar** ko’p. Javob **ikki fazali**: 3–5 daqiqada tezkor chiqish (tayyor insulin), ~15 daqiqadan boshlab 2–3 soatda sekin ortuvchi ikkinchi faza (yangi sintez).",
+      "text": "Glyukoza ta’siri: plazma glyukozasi 90 dan ortsa sekretsiya keskin oşadi; 400–600 mg/100 ml da bazal darajadan **10–25 barobar** köp. Javob **ikki fazali**: 3–5 daqiqada tezkor çiqiş (tayyor insulin), ~15 daqiqadan boşlab 2–3 soatda sekin ortuvçi ikkinçi faza (yangi sintez).",
       "depth": 0
      },
      {
-      "text": "Glyukoza–insulin teskari aloqasi juda kuchli.",
+      "text": "Glyukoza–insulin teskari aloqasi juda kuçli.",
       "depth": 0
      },
      {
-      "text": "**Aminokislotalar** (arginin, lizin) glyukoza bilan birga sekretsiyani kuchaytiradi.",
+      "text": "**Aminokislotalar** (arginin, lizin) glyukoza bilan birga sekretsiyani kuçaytiradi.",
       "depth": 0
      },
      {
-      "text": "**Inkretinlar** (GLP-1, GIP) ovqatdan oldinroq \"tayyorgarlik\" sifatida insulinni oshiradi.",
+      "text": "**Inkretinlar** (GLP-1, GIP) ovqatdan oldinroq “tayyorgarlik” sifatida insulinni oşiradi.",
       "depth": 0
      },
      {
-      "text": "Avtonom nerv: parasimpatik kuchaytiradi, simpatik (α) tormozlaydi (stress va mashqda).",
+      "text": "Avtonom nerv: parasimpatik kuçaytiradi, simpatik (α) tormozlaydi (stress va maşqda).",
       "depth": 0
      }
     ],
@@ -552,7 +552,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Uglevod va yog' yoqilg’isi o’rtasida almashish",
+    "text": "Uglevod va yoğ yoqilğisi örtasida almaşiş",
     "id": "ch79-s-16-uglevod-va-yog-yoqilgisi-ortasida-almashish",
     "bid": "ch79-u16"
    },
@@ -561,15 +561,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Glyukoza ko’p → insulin ko’p → hujayralar asosan uglevod ishlatadi, yog' saqlanadi.",
+      "text": "Glyukoza köp → insulin köp → hujayralar asosan uglevod işlatadi, yoğ saqlanadi.",
       "depth": 0
      },
      {
-      "text": "Glyukoza kam → insulin kam → yog' safarbar qilinadi (miyadan tashqari).",
+      "text": "Glyukoza kam → insulin kam → yoğ safarbar qilinadi (miyadan taşqari).",
       "depth": 0
      },
      {
-      "text": "Boshqa gormonlar ham yog’ga o’tishga yordam beradi: **o’sish gormoni**, **kortizol** (gipoglikemiyada ko’payadi, glyukoza ishlatilishini kamaytiradi, yog' safarbar qiladi), **adrenalin** (stressda glikogenoliz va lipoliz).",
+      "text": "Boşqa gormonlar ham yoğga ötişga yordam beradi: **ösiş gormoni**, **kortizol** (gipoglikemiyada köpayadi, glyukoza işlatilişini kamaytiradi, yoğ safarbar qiladi), **adrenalin** (stressda glikogenoliz va lipoliz).",
       "depth": 0
      }
     ],
@@ -591,23 +591,23 @@
       "depth": 0
      },
      {
-      "text": "Kuchli giperglikemik: ~1 µg/kg qon glyukozasini ~20 mg/100 ml ga bir necha daqiqada oshiradi.",
+      "text": "Kuçli giperglikemik: ~1 µg/kg qon glyukozasini ~20 mg/100 ml ga bir neça daqiqada oşiradi.",
       "depth": 0
      },
      {
-      "text": "**Glikogenoliz**: retseptor → adenilatsiklaza → **cAMP** → protein kinaza A → fosforilaza b kinaza → fosforilaza a → glyukoza-1-fosfat → glyukoza chiqariladi. Kaskad juda kuchaytiruvchi.",
+      "text": "**Glikogenoliz**: retseptor → adenilatsiklaza → **cAMP** → protein kinaza A → fosforilaza b kinaza → fosforilaza a → glyukoza-1-fosfat → glyukoza çiqariladi. Kaskad juda kuçaytiruvçi.",
       "depth": 0
      },
      {
-      "text": "**Glyukoneogenez**: aminokislotalar jigarga ko’proq kiradi, piruvatdan **fosfoenolpiruvat**ga o’tish kuchayadi. Glikogen tugagandan keyin ham giperglikemiyani ushlaydi.",
+      "text": "**Glyukoneogenez**: aminokislotalar jigarga köproq kiradi, piruvatdan **fosfoenolpiruvat**ga ötiş kuçayadi. Glikogen tugagandan keyin ham giperglikemiyani uşlaydi.",
       "depth": 0
      },
      {
-      "text": "Boshqa ta’sirlar (yuqori konsentratsiyada): gormonga sezgir lipazani faollashtiradi, jigarda triglitserid saqlanishini tormozlaydi, yurak qisqarishini kuchaytiradi, safro sekretsiyasini oshiradi, kislota sekretsiyasini tormozlaydi.",
+      "text": "Boşqa ta’sirlar (yuqori konsentratsiyada): gormonga sezgir lipazani faollaştiradi, jigarda triglitserid saqlanişini tormozlaydi, yurak qisqarişini kuçaytiradi, safro sekretsiyasini oşiradi, kislota sekretsiyasini tormozlaydi.",
       "depth": 0
      },
      {
-      "text": "**Sekretsiya boshqaruvi**: glyukozaning pasayishi asosiy omil (70 dan pastga tushganda keskin oshadi); **aminokislotalar** (alanin, arginin) — oqsilli ovqatdan keyin glyukoneogenezga imkon beradi va insulin sabab gipoglikemiyani oldini oladi; **jismoniy mashq** glyukagonni 4–5 barobar oshiradi.",
+      "text": "**Sekretsiya boşqaruvi**: glyukozaning pasayişi asosiy omil (70 dan pastga tuşganda keskin oşadi); **aminokislotalar** (alanin, arginin) — oqsilli ovqatdan keyin glyukoneogenezga imkon beradi va insulin sabab gipoglikemiyani oldini oladi; **jismoniy maşq** glyukagonni 4–5 barobar oşiradi.",
       "depth": 0
      }
     ],
@@ -625,15 +625,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "14 aminokislota, delta hujayralardan; yarim yemirilish ~3 daqiqa. Ovqat (glyukoza, aminokislotalar, yog' kislotalari, GI gormonlari) chiqarilishini oshiradi.",
+      "text": "14 aminokislota, delta hujayralardan; yarim yemiriliş ~3 daqiqa. Ovqat (glyukoza, aminokislotalar, yoğ kislotalari, GI gormonlari) çiqarilişini oşiradi.",
       "depth": 0
      },
      {
-      "text": "Ta’siri: insulin va glyukagonni mahalliy tormozlaydi; oshqozon, o’n ikki barmoq ichak, o’t pufagi harakatini, sekretsiya va so’rilishni kamaytiradi. Vazifasi — ovqat moddalari so’rilish davrini uzaytirish.",
+      "text": "Ta’siri: insulin va glyukagonni mahalliy tormozlaydi; oşqozon, ön ikki barmoq içak, öt pufagi harakatini, sekretsiya va sörilişni kamaytiradi. Vazifasi — ovqat moddalari söriliş davrini uzaytiriş.",
       "depth": 0
      },
      {
-      "text": "Gipotalamik somatostatin (o’sish gormonini tormozlovchi gormon) bilan bir xil modda.",
+      "text": "Gipotalamik somatostatin (ösiş gormonini tormozlovçi gormon) bilan bir xil modda.",
       "depth": 0
      }
     ],
@@ -642,7 +642,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Qon glyukozasini boshqarish (xulosa)",
+    "text": "Qon glyukozasini boşqariş (xulosa)",
     "id": "ch79-s-22-qon-glyukozasini-boshqarish-xulosa",
     "bid": "ch79-u22"
    },
@@ -651,19 +651,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Och holatda 80–90 mg/100 ml; ovqatdan keyin birinchi soatda 120–140 gacha ko’tariladi, ~2 soatda bazalga qaytadi. Uzoq ochlikda jigar glyukoneogenezi glyukozani ushlab turadi.",
+      "text": "Oç holatda 80–90 mg/100 ml; ovqatdan keyin birinçi soatda 120–140 gaça kötariladi, ~2 soatda bazalga qaytadi. Uzoq oçlikda jigar glyukoneogenezi glyukozani uşlab turadi.",
       "depth": 0
      },
      {
-      "text": "**Jigar — bufer**: ovqatdan keyin ortiqcha glyukozaning ~2/3 qismini saqlaydi, keyin chiqaradi; og’ir jigar kasalligida glyukozani ushlash qiyinlashadi.",
+      "text": "**Jigar — bufer**: ovqatdan keyin ortiqça glyukozaning ~2/3 qismini saqlaydi, keyin çiqaradi; oğir jigar kasalligida glyukozani uşlaş qiyinlaşadi.",
       "depth": 0
      },
      {
-      "text": "Insulin va glyukagon — asosiy teskari aloqa tizimlari. Og’ir gipoglikemiyada gipotalamus simpatik tizimni faollashtiradi (adrenalin). Uzoq muddatda o’sish gormoni va kortizol glyukoza ishlatilishini kamaytiradi.",
+      "text": "Insulin va glyukagon — asosiy teskari aloqa tizimlari. Oğir gipoglikemiyada gipotalamus simpatik tizimni faollaştiradi (adrenalin). Uzoq muddatda ösiş gormoni va kortizol glyukoza işlatilişini kamaytiradi.",
       "depth": 0
      },
      {
-      "text": "**Nega muhim**: miya, to’r parda, jinsiy epiteliy asosan glyukozaga bog’liq. Juda yuqori glyukoza esa osmotik suvsizlanish, osmotik diurez, to’qimalar shikastlanishi (qon tomirlar, buyrak, nerv, ko’z) ga olib keladi.",
+      "text": "**Nega muhim**: miya, tör parda, jinsiy epiteliy asosan glyukozaga boğliq. Juda yuqori glyukoza esa osmotik suvsizlaniş, osmotik diurez, töqimalar şikastlanişi (qon tomirlar, buyrak, nerv, köz) ga olib keladi.",
       "depth": 0
      }
     ],
@@ -681,15 +681,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Insulin sekretsiyasi yetishmasligi yoki to’qimalar sezgirligining pasayishi bilan uglevod, yog', oqsil almashinuvi buziladi.",
+      "text": "Insulin sekretsiyasi yetişmasligi yoki töqimalar sezgirligining pasayişi bilan uglevod, yoğ, oqsil almaşinuvi buziladi.",
       "depth": 0
      },
      {
-      "text": "Ikki asosiy tur: **1-tur** (insulinga bog’liq, sekretsiya yo’q) va **2-tur** (insulinga rezistentlik).",
+      "text": "Ikki asosiy tur: **1-tur** (insulinga boğliq, sekretsiya yöq) va **2-tur** (insulinga rezistentlik).",
       "depth": 0
      },
      {
-      "text": "Umumiy oqibatlar: giperglikemiya → glyukozuriya (buyrak ostonasi ~200 mg/100 ml dan oshganda) → osmotik diurez → suvsizlanish, poliuriya, polidipsiya; to’qimalar shikastlanishi (mikro- va makroangiopatiya, neyropatiya, retinopatiya, nefropatiya, gipertoniya).",
+      "text": "Umumiy oqibatlar: giperglikemiya → glyukozuriya (buyrak ostonasi ~200 mg/100 ml dan oşganda) → osmotik diurez → suvsizlaniş, poliuriya, polidipsiya; töqimalar şikastlanişi (mikro- va makroangiopatiya, neyropatiya, retinopatiya, nefropatiya, gipertoniya).",
       "depth": 0
      }
     ],
@@ -707,27 +707,27 @@
     "ordered": false,
     "items": [
      {
-      "text": "Barcha holatlarning ~5–10%; beta hujayralar (ko’pincha autoimmun, virus, irsiy moyillik) yemiriladi. Odatda ~14 yoshda boshlanadi (o’smirlik/bolalik), shuning uchun \"yoshlar diabeti\" deyiladi; to’satdan boshlanishi mumkin.",
+      "text": "Barça holatlarning ~5–10%; beta hujayralar (köpinça autoimmun, virus, irsiy moyillik) yemiriladi. Odatda ~14 yoşda boşlanadi (ösmirlik/bolalik), şuning uçun “yoşlar diabeti” deyiladi; tösatdan boşlanişi mumkin.",
       "depth": 0
      },
      {
-      "text": "Uch asosiy ko’rinish: giperglikemiya (300–1200 mg/100 ml), yog’ning energiya uchun safarbar qilinishi, oqsil yo’qotilishi (ozish, kuchsizlik).",
+      "text": "Uç asosiy köriniş: giperglikemiya (300–1200 mg/100 ml), yoğning energiya uçun safarbar qilinişi, oqsil yöqotilişi (oziş, kuçsizlik).",
       "depth": 0
      },
      {
-      "text": "Suvsizlanish: hujayra ichi suvsizlanishi (osmotik) + osmotik diurez.",
+      "text": "Suvsizlaniş: hujayra içi suvsizlanişi (osmotik) + osmotik diurez.",
       "depth": 0
      },
      {
-      "text": "**Ketoatsidoz**: yog' kislotalari → keton tanachalari → metabolik atsidoz (pH 7.0 gacha, ba’zan 6.9); Kussmaul nafasi; plazma bikarbonati kamayadi. Diabetik koma va o’lim xavfi.",
+      "text": "**Ketoatsidoz**: yoğ kislotalari → keton tanaçalari → metabolik atsidoz (pH 7.0 gaça, ba’zan 6.9); Kussmaul nafasi; plazma bikarbonati kamayadi. Diabetik koma va ölim xavfi.",
       "depth": 0
      },
      {
-      "text": "Oqsil yo’qotish → ozish, astenik holat, polifagiya (doimiy ochlik).",
+      "text": "Oqsil yöqotiş → oziş, astenik holat, polifagiya (doimiy oçlik).",
       "depth": 0
      },
      {
-      "text": "**Davolash**: insulin (qisqa va uzoq ta’sirli; inyeksiya yoki nasos). Ovqat tartibi va mashq bilan muvozanatlanadi.",
+      "text": "**Davolaş**: insulin (qisqa va uzoq ta’sirli; inyeksiya yoki nasos). Ovqat tartibi va maşq bilan muvozanatlanadi.",
       "depth": 0
      }
     ],
@@ -745,27 +745,27 @@
     "ordered": false,
     "items": [
      {
-      "text": "Barcha holatlarning ~90–95%; ko’pincha 30 yoshdan keyin (ammo semiz yoshlarda ham ko’paymoqda). Asosiy sabab — **insulin rezistentligi**; boshida kompensator giperinsulinemiya bo’ladi.",
+      "text": "Barça holatlarning ~90–95%; köpinça 30 yoşdan keyin (ammo semiz yoşlarda ham köpaymoqda). Asosiy sabab — **insulin rezistentligi**; boşida kompensator giperinsulinemiya böladi.",
       "depth": 0
      },
      {
-      "text": "Ko’pincha **semizlik** (ayniqsa qorin yog’i) bilan bog’liq; **metabolik sindrom**: abdominal semizlik, insulin rezistentligi, och holatda giperglikemiya, dislipidemiya (yuqori triglitserid, past HDL), gipertoniya. Yurak-qon tomir kasalligi xavfi yuqori.",
+      "text": "Köpinça **semizlik** (ayniqsa qorin yoği) bilan boğliq; **metabolik sindrom**: abdominal semizlik, insulin rezistentligi, oç holatda giperglikemiya, dislipidemiya (yuqori triglitserid, past HDL), gipertoniya. Yurak-qon tomir kasalligi xavfi yuqori.",
       "depth": 0
      },
      {
-      "text": "Rezistentlik mexanizmi: retseptordan keyingi signallar (IRS, PI3K) susayishi, ektopik lipid to’planishi.",
+      "text": "Rezistentlik mexanizmi: retseptordan keyingi signallar (IRS, PI3K) susayişi, ektopik lipid töplanişi.",
       "depth": 0
      },
      {
-      "text": "**Rezistentlik sabablari (79-2 jadval)**: semizlik, kam harakatlilik, glyukokortikoid ortiqchaligi (Kushing), o’sish gormoni ortiqchaligi (akromegaliya), homiladorlik (gestatsion diabet), **polikistoz tuxumdon sindromi** (ayollarning ~6%), lipodistrofiya, insulin retseptoriga autoantitelolar, retseptor mutatsiyalari, MODY, gemoxromatoz va boshqalar.",
+      "text": "**Rezistentlik sabablari (79-2 jadval)**: semizlik, kam harakatlilik, glyukokortikoid ortiqçaligi (Kuşing), ösiş gormoni ortiqçaligi (akromegaliya), homiladorlik (gestatsion diabet), **polikistoz tuxumdon sindromi** (ayollarning ~6%), lipodistrofiya, insulin retseptoriga autoantitelolar, retseptor mutatsiyalari, MODY, gemoxromatoz va boşqalar.",
       "depth": 0
      },
      {
-      "text": "Beta hujayralar uzoq kompensatsiyadan \"charchab\" sekretsiya pasayishi mumkin; shunda glyukoza tolerantligi yomonlashadi.",
+      "text": "Beta hujayralar uzoq kompensatsiyadan “çarçab” sekretsiya pasayişi mumkin; şunda glyukoza tolerantligi yomonlaşadi.",
       "depth": 0
      },
      {
-      "text": "**Davolash**: kaloriya cheklash, ozish, jismoniy mashq (sezgirlikni oshiradi). Dorilar: **tiazolidindionlar** (sezgirlikni oshiradi), **metformin** (jigar glyukoza ishlab chiqarishini kamaytiradi), **sulfonilmochevinalar** (sekretsiyani kuchaytiradi), **GLP-1 agonistlari** va **DPP-4 ingibitorlari** (inkretin ta’sirini kuchaytiradi), **SGLT2 ingibitorlari** (gliflozinlar; buyrakda glyukoza reabsorbsiyasini kamaytiradi). Og’ir semizlikda **metabolik (bariatrik) jarrohlik** diabetni sezilarli yaxshilaydi. Kech bosqichda insulin kerak bo’lishi mumkin.",
+      "text": "**Davolaş**: kaloriya çeklaş, oziş, jismoniy maşq (sezgirlikni oşiradi). Dorilar: **tiazolidindionlar** (sezgirlikni oşiradi), **metformin** (jigar glyukoza işlab çiqarişini kamaytiradi), **sulfonilmoçevinalar** (sekretsiyani kuçaytiradi), **GLP-1 agonistlari** va **DPP-4 ingibitorlari** (inkretin ta’sirini kuçaytiradi), **SGLT2 ingibitorlari** (gliflozinlar; buyrakda glyukoza reabsorbsiyasini kamaytiradi). Oğir semizlikda **metabolik (bariatrik) jarrohlik** diabetni sezilarli yaxşilaydi. Keç bosqiçda insulin kerak bölişi mumkin.",
       "depth": 0
      }
     ],
@@ -774,7 +774,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "1- va 2-tur taqqoslash (79-3 jadval)",
+    "text": "1- va 2-tur taqqoslaş (79-3 jadval)",
     "id": "ch79-s-30-1-va-2-tur-taqqoslash-79-3-jadval",
     "bid": "ch79-u30"
    },
@@ -798,13 +798,13 @@
      ],
      [
       "Plazma insulini",
-      "Past/yo’q",
+      "Past/yo‘q",
       "Normal yoki yuqori (boshida)"
      ],
      [
       "Plazma glyukagoni",
-      "Yuqori, bostirib bo’ladi",
-      "Yuqori, bostirib bo’lmaydi"
+      "Yuqori, bostirib bo‘ladi",
+      "Yuqori, bostirib bo‘lmaydi"
      ],
      [
       "Glyukoza",
@@ -836,19 +836,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Siydikda glyukoza**: normada deyarli yo’q; diabetda ko’p.",
+      "text": "**Siydikda glyukoza**: normada deyarli yöq; diabetda köp.",
       "depth": 0
      },
      {
-      "text": "**Och holatdagi qon glyukozasi**: normal 80–90, yuqori chegara ~115 mg/100 ml; undan yuqorisi diabetga shubha.",
+      "text": "**Oç holatdagi qon glyukozasi**: normal 80–90, yuqori çegara ~115 mg/100 ml; undan yuqorisi diabetga şubha.",
       "depth": 0
      },
      {
-      "text": "**HbA1c** (glikozillangan gemoglobin): oldingi 2–3 oy o’rtacha glyukozani aks ettiradi.",
+      "text": "**HbA1c** (glikozillangan gemoglobin): oldingi 2–3 oy örtaça glyukozani aks ettiradi.",
       "depth": 0
      },
      {
-      "text": "**Glyukoza tolerantlik testi**: 1 g/kg glyukoza ichiriladi; normada glyukoza 120–140 gacha ko’tarilib 2 soatda bazalga qaytadi. Diabetda yuqoriroq ko’tariladi va 4–6 soat davomida sekin tushadi, bazaldan pastga tushmaydi (sekretsiya javobi yo’q).",
+      "text": "**Glyukoza tolerantlik testi**: 1 g/kg glyukoza içiriladi; normada glyukoza 120–140 gaça kötarilib 2 soatda bazalga qaytadi. Diabetda yuqoriroq kötariladi va 4–6 soat davomida sekin tuşadi, bazaldan pastga tuşmaydi (sekretsiya javobi yöq).",
       "depth": 0
      },
      {
@@ -865,7 +865,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Asoratlar va davolash maqsadi",
+    "text": "Asoratlar va davolaş maqsadi",
     "id": "ch79-s-34-asoratlar-va-davolash-maqsadi",
     "bid": "ch79-u34"
    },
@@ -874,15 +874,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Diabetiklarda **ateroskleroz**, koronar kasallik, insult, periferik qon tomir kasalligi kuchli rivojlanadi (yuqori xolesterin va lipidlar; glyukozaning qon tomirga to’g’ridan-to’g’ri zarari).",
+      "text": "Diabetiklarda **ateroskleroz**, koronar kasallik, insult, periferik qon tomir kasalligi kuçli rivojlanadi (yuqori xolesterin va lipidlar; glyukozaning qon tomirga töğridan-töğri zarari).",
       "depth": 0
      },
      {
-      "text": "Mikroangiopatiya: **buyrak kasalligi** (diabetik nefropatiya — buyrak yetishmovchiligining asosiy sababi), retinopatiya (ko’rlik), periferik neyropatiya.",
+      "text": "Mikroangiopatiya: **buyrak kasalligi** (diabetik nefropatiya — buyrak yetişmovçiligining asosiy sababi), retinopatiya (körlik), periferik neyropatiya.",
       "depth": 0
      },
      {
-      "text": "Glyukozani qat’iy nazorat qilish asoratlarni kamaytiradi.",
+      "text": "Glyukozani qat’iy nazorat qiliş asoratlarni kamaytiradi.",
       "depth": 0
      }
     ],
@@ -900,15 +900,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Insulinoma** (beta hujayra o’smasi): ~10–15% xavfli; kuniga 1000 g dan ortiq glyukoza berish kerak bo’lishi mumkin. Asosan gipoglikemiya ko’rinishlari.",
+      "text": "**Insulinoma** (beta hujayra ösmasi): ~10–15% xavfli; kuniga 1000 g dan ortiq glyukoza beriş kerak bölişi mumkin. Asosan gipoglikemiya körinişlari.",
       "depth": 0
      },
      {
-      "text": "**Insulin shoki**: glyukoza 50–70 mg/100 ml — MNT qo’zg’aluvchan (gallyutsinatsiya, asabiylik, titroq, terlash); 20–50 — klonik tutqanoqlar, hushdan ketish; undan past — koma.",
+      "text": "**Insulin şoki**: glyukoza 50–70 mg/100 ml — MNT qözğaluvçan (gallyutsinatsiya, asabiylik, titroq, terlaş); 20–50 — klonik tutqanoqlar, huşdan ketiş; undan past — koma.",
       "depth": 0
      },
      {
-      "text": "Diabetik koma (ketoatsidoz) va gipoglikemik komani farqlash: ketoatsidozda aseton hidi, chuqur nafas; gipoglikemiyada aksincha. Gipoglikemiyada vena ichiga **glyukoza** yoki **glyukagon** (yoki adrenalin) tez yordam beradi.",
+      "text": "Diabetik koma (ketoatsidoz) va gipoglikemik komani farqlaş: ketoatsidozda aseton hidi, çuqur nafas; gipoglikemiyada aksinça. Gipoglikemiyada vena içiga **glyukoza** yoki **glyukagon** (yoki adrenalin) tez yordam beradi.",
       "depth": 0
      }
     ],
@@ -926,19 +926,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "C-peptid — tashqi insulin qabul qilayotgan bemorda endogen sekretsiyani baholash vositasi.",
+      "text": "C-peptid — taşqi insulin qabul qilayotgan bemorda endogen sekretsiyani baholaş vositasi.",
       "depth": 0
      },
      {
-      "text": "Sulfonilmochevinalar beta hujayra K-ATF kanallariga ta’sir qiladi; ular gipoglikemiya chaqirishi mumkin.",
+      "text": "Sulfonilmoçevinalar beta hujayra K-ATF kanallariga ta’sir qiladi; ular gipoglikemiya çaqirişi mumkin.",
       "depth": 0
      },
      {
-      "text": "Gestatsion diabet, PCOS, Kushing, akromegaliya — insulin rezistentligining ikkilamchi sabablari.",
+      "text": "Gestatsion diabet, PCOS, Kuşing, akromegaliya — insulin rezistentligining ikkilamçi sabablari.",
       "depth": 0
      },
      {
-      "text": "Ketoatsidozda kaliy, suv va bikarbonat yo’qotiladi; davolash insulin + suyuqlik.",
+      "text": "Ketoatsidozda kaliy, suv va bikarbonat yöqotiladi; davolaş insulin + suyuqlik.",
       "depth": 0
      }
     ],
@@ -947,7 +947,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Bog’liqlik",
+    "text": "Boğliqlik",
     "id": "ch79-s-40-bogliqlik",
     "bid": "ch79-u40"
    },
@@ -956,7 +956,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "68-bob (uglevod almashinuvi), 69-bob (lipidlar, keton tanachalari), 70-bob (oqsil), 71-bob (jigar), 72-bob (semizlik), 76-bob (o’sish gormoni), 78-bob (kortizol), 66-bob (GI gormonlar, inkretinlar), 31-bob (atsidoz), 27–28-boblar (buyrakda glyukoza reabsorbsiyasi).",
+      "text": "68-bob (uglevod almaşinuvi), 69-bob (lipidlar, keton tanaçalari), 70-bob (oqsil), 71-bob (jigar), 72-bob (semizlik), 76-bob (ösiş gormoni), 78-bob (kortizol), 66-bob (GI gormonlar, inkretinlar), 31-bob (atsidoz), 27–28-boblar (buyrakda glyukoza reabsorbsiyasi).",
       "depth": 0
      }
     ],
@@ -2214,7 +2214,7 @@
    "id": "ch79-t-c-peptid",
    "termUz": "C-peptid",
    "original": null,
-   "contextUz": "Preproinsulin → proinsulin (ER) → Golji’da insulin + C-peptidga ajraladi; ikkalasi teng miqdorda chiqariladi (C-peptid endogen insulin ko’rsatkichi).",
+   "contextUz": "Preproinsulin → proinsulin (ER) → Golji’da insulin + C-peptidga ajraladi; ikkalasi teng miqdorda çiqariladi (C-peptid endogen insulin körsatkiçi).",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2224,7 +2224,7 @@
    "id": "ch79-t-retseptor",
    "termUz": "Retseptor",
    "original": null,
-   "contextUz": "Retseptor: tirozin kinaza; insulin bog’langach autofosforlanadi, IRS (insulin retseptor substratlari) ni fosforlaydi → ferment faolligi o’zgaradi, GLUT4 membranaga chiqadi (soniyalar), ferment sintezi o’zgaradi (soatlar–kunlar).",
+   "contextUz": "Retseptor: tirozin kinaza; insulin boğlangaç autofosforlanadi, IRS (insulin retseptor substratlari) ni fosforlaydi → ferment faolligi özgaradi, GLUT4 membranaga çiqadi (soniyalar), ferment sintezi özgaradi (soatlar–kunlar).",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2234,7 +2234,7 @@
    "id": "ch79-t-irs",
    "termUz": "IRS",
    "original": "insulin retseptor substratlari",
-   "contextUz": "Retseptor: tirozin kinaza; insulin bog’langach autofosforlanadi, IRS (insulin retseptor substratlari) ni fosforlaydi → ferment faolligi o’zgaradi, GLUT4 membranaga chiqadi (soniyalar), ferment sintezi o’zgaradi (soatlar–kunlar).",
+   "contextUz": "Retseptor: tirozin kinaza; insulin boğlangaç autofosforlanadi, IRS (insulin retseptor substratlari) ni fosforlaydi → ferment faolligi özgaradi, GLUT4 membranaga çiqadi (soniyalar), ferment sintezi özgaradi (soatlar–kunlar).",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2242,9 +2242,9 @@
   },
   {
    "id": "ch79-t-mushak",
-   "termUz": "Mushak",
+   "termUz": "Muşak",
    "original": null,
-   "contextUz": "Mushak: tinch holatda membranasi glyukozaga kam o’tkazuvchan; ovqatdan keyin insulin GLUT4 orqali glyukoza kirishini ~15 barobargacha oshiradi.",
+   "contextUz": "Muşak: tinç holatda membranasi glyukozaga kam ötkazuvçan; ovqatdan keyin insulin GLUT4 orqali glyukoza kirişini ~15 barobargaça oşiradi.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2254,7 +2254,7 @@
    "id": "ch79-t-jigar",
    "termUz": "Jigar",
    "original": null,
-   "contextUz": "Jigar: ovqatdagi glyukozaning ~60% jigarda glikogen bo’lib saqlanadi (5–6% massa, ~100 g).",
+   "contextUz": "Jigar: ovqatdagi glyukozaning ~60% jigarda glikogen bölib saqlanadi (5–6% massa, ~100 g).",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2264,7 +2264,7 @@
    "id": "ch79-t-miya",
    "termUz": "Miya",
    "original": null,
-   "contextUz": "Miya glyukozani insulinga bog’liq bo’lmagan holda oladi; shuning uchun gipoglikemiya (20–50 mg/100 ml) asabiy shok, tutqanoq, komaga olib keladi.",
+   "contextUz": "Miya glyukozani insulinga boğliq bölmagan holda oladi; şuning uçun gipoglikemiya (20–50 mg/100 ml) asabiy şok, tutqanoq, komaga olib keladi.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2274,7 +2274,7 @@
    "id": "ch79-t-asetil-koa-karboksilaza",
    "termUz": "asetil-KoA karboksilaza",
    "original": null,
-   "contextUz": "Insulin yog' sintezi va saqlanishini kuchaytiradi: glyukozadan sitrat/izotsitrat → asetil-KoA karboksilaza faollashadi → yog' kislotalari; lipoprotein lipaza (kapillyar devorida) triglitseridlarni parchalab yog' kislotalarini yog' hujayrasiga kiritadi.",
+   "contextUz": "Insulin yoğ sintezi va saqlanişini kuçaytiradi: glyukozadan sitrat/izotsitrat → asetil-KoA karboksilaza faollaşadi → yoğ kislotalari; lipoprotein lipaza (kapillyar devorida) triglitseridlarni parçalab yoğ kislotalarini yoğ hujayrasiga kiritadi.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2284,7 +2284,7 @@
    "id": "ch79-t-lipoprotein-lipaza",
    "termUz": "lipoprotein lipaza",
    "original": "kapillyar devorida",
-   "contextUz": "Insulin yog' sintezi va saqlanishini kuchaytiradi: glyukozadan sitrat/izotsitrat → asetil-KoA karboksilaza faollashadi → yog' kislotalari; lipoprotein lipaza (kapillyar devorida) triglitseridlarni parchalab yog' kislotalarini yog' hujayrasiga kiritadi.",
+   "contextUz": "Insulin yoğ sintezi va saqlanişini kuçaytiradi: glyukozadan sitrat/izotsitrat → asetil-KoA karboksilaza faollaşadi → yoğ kislotalari; lipoprotein lipaza (kapillyar devorida) triglitseridlarni parçalab yoğ kislotalarini yoğ hujayrasiga kiritadi.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2294,7 +2294,7 @@
    "id": "ch79-t-gormonga-sezgir-lipaza",
    "termUz": "gormonga sezgir lipaza",
    "original": null,
-   "contextUz": "Yog' hujayrasida: gormonga sezgir lipaza tormozlanadi, glyukoza kirishi ortib α-glitserofosfat hosil bo’ladi → triglitserid sintezi.",
+   "contextUz": "Yoğ hujayrasida: gormonga sezgir lipaza tormozlanadi, glyukoza kirişi ortib α-glitserofosfat hosil böladi → triglitserid sintezi.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2304,7 +2304,7 @@
    "id": "ch79-t-glitserofosfat",
    "termUz": "α-glitserofosfat",
    "original": null,
-   "contextUz": "Yog' hujayrasida: gormonga sezgir lipaza tormozlanadi, glyukoza kirishi ortib α-glitserofosfat hosil bo’ladi → triglitserid sintezi.",
+   "contextUz": "Yoğ hujayrasida: gormonga sezgir lipaza tormozlanadi, glyukoza kirişi ortib α-glitserofosfat hosil böladi → triglitserid sintezi.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2312,9 +2312,9 @@
   },
   {
    "id": "ch79-t-insulin-yetishmasligida",
-   "termUz": "Insulin yetishmasligida",
+   "termUz": "Insulin yetişmasligida",
    "original": null,
-   "contextUz": "Insulin yetishmasligida: lipoliz kuchayadi, qonda erkin yog' kislotalari ko’payadi (asosiy energiya manbaiga aylanadi), jigarda xolesterin va fosfolipidlar ortadi (ateroskleroz xavfi), ortiqcha yog' kislotasi oksidlanishi keton tanachalari (asetoasetat, β-gidroksibutirat, aseton) → ketoz va atsidoz.",
+   "contextUz": "Insulin yetişmasligida: lipoliz kuçayadi, qonda erkin yoğ kislotalari köpayadi (asosiy energiya manbaiga aylanadi), jigarda xolesterin va fosfolipidlar ortadi (ateroskleroz xavfi), ortiqça yoğ kislotasi oksidlanişi keton tanaçalari (asetoasetat, β-gidroksibutirat, aseton) → ketoz va atsidoz.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2322,9 +2322,9 @@
   },
   {
    "id": "ch79-t-keton-tanachalari",
-   "termUz": "keton tanachalari",
+   "termUz": "keton tanaçalari",
    "original": "asetoasetat, β-gidroksibutirat, aseton",
-   "contextUz": "Insulin yetishmasligida: lipoliz kuchayadi, qonda erkin yog' kislotalari ko’payadi (asosiy energiya manbaiga aylanadi), jigarda xolesterin va fosfolipidlar ortadi (ateroskleroz xavfi), ortiqcha yog' kislotasi oksidlanishi keton tanachalari (asetoasetat, β-gidroksibutirat, aseton) → ketoz va atsidoz.",
+   "contextUz": "Insulin yetişmasligida: lipoliz kuçayadi, qonda erkin yoğ kislotalari köpayadi (asosiy energiya manbaiga aylanadi), jigarda xolesterin va fosfolipidlar ortadi (ateroskleroz xavfi), ortiqça yoğ kislotasi oksidlanişi keton tanaçalari (asetoasetat, β-gidroksibutirat, aseton) → ketoz va atsidoz.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2334,7 +2334,7 @@
    "id": "ch79-t-sinergik",
    "termUz": "sinergik",
    "original": null,
-   "contextUz": "O’sish uchun insulin va o’sish gormoni sinergik ta’sir qiladi: har biri alohida deyarli o’stirmaydi, birgalikda kuchli o’sish beradi.",
+   "contextUz": "Ösiş uçun insulin va ösiş gormoni sinergik ta’sir qiladi: har biri alohida deyarli östirmaydi, birgalikda kuçli ösiş beradi.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2344,7 +2344,7 @@
    "id": "ch79-t-glut2",
    "termUz": "GLUT2",
    "original": null,
-   "contextUz": "Beta hujayraga glyukoza GLUT2 orqali kiradi → glyukokinaza (tezlikni cheklovchi qadam, \"glyukoza sensori\") → ATF ortadi → ATF-sezgir K⁺ kanallari yopiladi → depolarizatsiya → kuchlanishga bog’liq Ca²⁺ kanallari ochiladi → insulin ekzotsitozi.",
+   "contextUz": "Beta hujayraga glyukoza GLUT2 orqali kiradi → glyukokinaza (tezlikni çeklovçi qadam, “glyukoza sensori”) → ATF ortadi → ATF-sezgir K⁺ kanallari yopiladi → depolarizatsiya → kuçlanişga boğliq Ca²⁺ kanallari oçiladi → insulin ekzotsitozi.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2353,8 +2353,8 @@
   {
    "id": "ch79-t-glyukokinaza",
    "termUz": "glyukokinaza",
-   "original": "tezlikni cheklovchi qadam, \"glyukoza sensori\"",
-   "contextUz": "Beta hujayraga glyukoza GLUT2 orqali kiradi → glyukokinaza (tezlikni cheklovchi qadam, \"glyukoza sensori\") → ATF ortadi → ATF-sezgir K⁺ kanallari yopiladi → depolarizatsiya → kuchlanishga bog’liq Ca²⁺ kanallari ochiladi → insulin ekzotsitozi.",
+   "original": "tezlikni cheklovchi qadam, “glyukoza sensori”",
+   "contextUz": "Beta hujayraga glyukoza GLUT2 orqali kiradi → glyukokinaza (tezlikni çeklovçi qadam, “glyukoza sensori”) → ATF ortadi → ATF-sezgir K⁺ kanallari yopiladi → depolarizatsiya → kuçlanişga boğliq Ca²⁺ kanallari oçiladi → insulin ekzotsitozi.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2364,7 +2364,7 @@
    "id": "ch79-t-atf-sezgir-k-kanallari",
    "termUz": "ATF-sezgir K⁺ kanallari",
    "original": null,
-   "contextUz": "Beta hujayraga glyukoza GLUT2 orqali kiradi → glyukokinaza (tezlikni cheklovchi qadam, \"glyukoza sensori\") → ATF ortadi → ATF-sezgir K⁺ kanallari yopiladi → depolarizatsiya → kuchlanishga bog’liq Ca²⁺ kanallari ochiladi → insulin ekzotsitozi.",
+   "contextUz": "Beta hujayraga glyukoza GLUT2 orqali kiradi → glyukokinaza (tezlikni çeklovçi qadam, “glyukoza sensori”) → ATF ortadi → ATF-sezgir K⁺ kanallari yopiladi → depolarizatsiya → kuçlanişga boğliq Ca²⁺ kanallari oçiladi → insulin ekzotsitozi.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2372,9 +2372,9 @@
   },
   {
    "id": "ch79-t-sulfonilmochevina",
-   "termUz": "Sulfonilmochevina",
+   "termUz": "Sulfonilmoçevina",
    "original": null,
-   "contextUz": "Sulfonilmochevina preparatlari K-ATF kanallarini yopib sekretsiyani kuchaytiradi.",
+   "contextUz": "Sulfonilmoçevina preparatlari K-ATF kanallarini yopib sekretsiyani kuçaytiradi.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2382,9 +2382,9 @@
   },
   {
    "id": "ch79-t-kuchaytiruvchilar",
-   "termUz": "Kuchaytiruvchilar",
+   "termUz": "Kuçaytiruvçilar",
    "original": null,
-   "contextUz": "Kuchaytiruvchilar: qon glyukozasi, erkin yog' kislotalari, aminokislotalar, GI gormonlari (gastrin, CCK, sekretin, GIP, GLP-1), glyukagon, o’sish gormoni, kortizol, parasimpatik/asetilxolin, β-adrenergik, insulin rezistentligi, semizlik, sulfonilmochevina.",
+   "contextUz": "Kuçaytiruvçilar: qon glyukozasi, erkin yoğ kislotalari, aminokislotalar, GI gormonlari (gastrin, CCK, sekretin, GIP, GLP-1), glyukagon, ösiş gormoni, kortizol, parasimpatik/asetilxolin, β-adrenergik, insulin rezistentligi, semizlik, sulfonilmoçevina.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2394,7 +2394,7 @@
    "id": "ch79-t-gip-glp-1",
    "termUz": "GIP, GLP-1",
    "original": null,
-   "contextUz": "Kuchaytiruvchilar: qon glyukozasi, erkin yog' kislotalari, aminokislotalar, GI gormonlari (gastrin, CCK, sekretin, GIP, GLP-1), glyukagon, o’sish gormoni, kortizol, parasimpatik/asetilxolin, β-adrenergik, insulin rezistentligi, semizlik, sulfonilmochevina.",
+   "contextUz": "Kuçaytiruvçilar: qon glyukozasi, erkin yoğ kislotalari, aminokislotalar, GI gormonlari (gastrin, CCK, sekretin, GIP, GLP-1), glyukagon, ösiş gormoni, kortizol, parasimpatik/asetilxolin, β-adrenergik, insulin rezistentligi, semizlik, sulfonilmoçevina.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2402,9 +2402,9 @@
   },
   {
    "id": "ch79-t-tormozlovchilar",
-   "termUz": "Tormozlovchilar",
+   "termUz": "Tormozlovçilar",
    "original": null,
-   "contextUz": "Tormozlovchilar: glyukozaning pasayishi, och qolish, somatostatin, α-adrenergik ta’sir, leptin.",
+   "contextUz": "Tormozlovçilar: glyukozaning pasayişi, oç qoliş, somatostatin, α-adrenergik ta’sir, leptin.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2414,7 +2414,7 @@
    "id": "ch79-t-10-25-barobar",
    "termUz": "10–25 barobar",
    "original": null,
-   "contextUz": "Glyukoza ta’siri: plazma glyukozasi 90 dan ortsa sekretsiya keskin oshadi; 400–600 mg/100 ml da bazal darajadan 10–25 barobar ko’p.",
+   "contextUz": "Glyukoza ta’siri: plazma glyukozasi 90 dan ortsa sekretsiya keskin oşadi; 400–600 mg/100 ml da bazal darajadan 10–25 barobar köp.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2424,7 +2424,7 @@
    "id": "ch79-t-ikki-fazali",
    "termUz": "ikki fazali",
    "original": null,
-   "contextUz": "Javob ikki fazali: 3–5 daqiqada tezkor chiqish (tayyor insulin), ~15 daqiqadan boshlab 2–3 soatda sekin ortuvchi ikkinchi faza (yangi sintez).",
+   "contextUz": "Javob ikki fazali: 3–5 daqiqada tezkor çiqiş (tayyor insulin), ~15 daqiqadan boşlab 2–3 soatda sekin ortuvçi ikkinçi faza (yangi sintez).",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2434,7 +2434,7 @@
    "id": "ch79-t-aminokislotalar",
    "termUz": "Aminokislotalar",
    "original": "arginin, lizin",
-   "contextUz": "Aminokislotalar (arginin, lizin) glyukoza bilan birga sekretsiyani kuchaytiradi.",
+   "contextUz": "Aminokislotalar (arginin, lizin) glyukoza bilan birga sekretsiyani kuçaytiradi.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2444,7 +2444,7 @@
    "id": "ch79-t-inkretinlar",
    "termUz": "Inkretinlar",
    "original": "GLP-1, GIP",
-   "contextUz": "Inkretinlar (GLP-1, GIP) ovqatdan oldinroq \"tayyorgarlik\" sifatida insulinni oshiradi.",
+   "contextUz": "Inkretinlar (GLP-1, GIP) ovqatdan oldinroq “tayyorgarlik” sifatida insulinni oşiradi.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2452,9 +2452,9 @@
   },
   {
    "id": "ch79-t-osish-gormoni",
-   "termUz": "o’sish gormoni",
+   "termUz": "ösiş gormoni",
    "original": null,
-   "contextUz": "Boshqa gormonlar ham yog’ga o’tishga yordam beradi: o’sish gormoni, kortizol (gipoglikemiyada ko’payadi, glyukoza ishlatilishini kamaytiradi, yog' safarbar qiladi), adrenalin (stressda glikogenoliz va lipoliz).",
+   "contextUz": "Boşqa gormonlar ham yoğga ötişga yordam beradi: ösiş gormoni, kortizol (gipoglikemiyada köpayadi, glyukoza işlatilişini kamaytiradi, yoğ safarbar qiladi), adrenalin (stressda glikogenoliz va lipoliz).",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2464,7 +2464,7 @@
    "id": "ch79-t-kortizol",
    "termUz": "kortizol",
    "original": null,
-   "contextUz": "Boshqa gormonlar ham yog’ga o’tishga yordam beradi: o’sish gormoni, kortizol (gipoglikemiyada ko’payadi, glyukoza ishlatilishini kamaytiradi, yog' safarbar qiladi), adrenalin (stressda glikogenoliz va lipoliz).",
+   "contextUz": "Boşqa gormonlar ham yoğga ötişga yordam beradi: ösiş gormoni, kortizol (gipoglikemiyada köpayadi, glyukoza işlatilişini kamaytiradi, yoğ safarbar qiladi), adrenalin (stressda glikogenoliz va lipoliz).",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2474,7 +2474,7 @@
    "id": "ch79-t-adrenalin",
    "termUz": "adrenalin",
    "original": "stressda glikogenoliz va lipoliz",
-   "contextUz": "Boshqa gormonlar ham yog’ga o’tishga yordam beradi: o’sish gormoni, kortizol (gipoglikemiyada ko’payadi, glyukoza ishlatilishini kamaytiradi, yog' safarbar qiladi), adrenalin (stressda glikogenoliz va lipoliz).",
+   "contextUz": "Boşqa gormonlar ham yoğga ötişga yordam beradi: ösiş gormoni, kortizol (gipoglikemiyada köpayadi, glyukoza işlatilişini kamaytiradi, yoğ safarbar qiladi), adrenalin (stressda glikogenoliz va lipoliz).",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2484,7 +2484,7 @@
    "id": "ch79-t-glikogenoliz",
    "termUz": "Glikogenoliz",
    "original": null,
-   "contextUz": "Glikogenoliz: retseptor → adenilatsiklaza → cAMP → protein kinaza A → fosforilaza b kinaza → fosforilaza a → glyukoza-1-fosfat → glyukoza chiqariladi.",
+   "contextUz": "Glikogenoliz: retseptor → adenilatsiklaza → cAMP → protein kinaza A → fosforilaza b kinaza → fosforilaza a → glyukoza-1-fosfat → glyukoza çiqariladi.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2494,7 +2494,7 @@
    "id": "ch79-t-camp",
    "termUz": "cAMP",
    "original": null,
-   "contextUz": "Glikogenoliz: retseptor → adenilatsiklaza → cAMP → protein kinaza A → fosforilaza b kinaza → fosforilaza a → glyukoza-1-fosfat → glyukoza chiqariladi.",
+   "contextUz": "Glikogenoliz: retseptor → adenilatsiklaza → cAMP → protein kinaza A → fosforilaza b kinaza → fosforilaza a → glyukoza-1-fosfat → glyukoza çiqariladi.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2504,7 +2504,7 @@
    "id": "ch79-t-glyukoneogenez",
    "termUz": "Glyukoneogenez",
    "original": null,
-   "contextUz": "Glyukoneogenez: aminokislotalar jigarga ko’proq kiradi, piruvatdan fosfoenolpiruvatga o’tish kuchayadi.",
+   "contextUz": "Glyukoneogenez: aminokislotalar jigarga köproq kiradi, piruvatdan fosfoenolpiruvatga ötiş kuçayadi.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2514,7 +2514,7 @@
    "id": "ch79-t-fosfoenolpiruvat",
    "termUz": "fosfoenolpiruvat",
    "original": null,
-   "contextUz": "Glyukoneogenez: aminokislotalar jigarga ko’proq kiradi, piruvatdan fosfoenolpiruvatga o’tish kuchayadi.",
+   "contextUz": "Glyukoneogenez: aminokislotalar jigarga köproq kiradi, piruvatdan fosfoenolpiruvatga ötiş kuçayadi.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2522,9 +2522,9 @@
   },
   {
    "id": "ch79-t-sekretsiya-boshqaruvi",
-   "termUz": "Sekretsiya boshqaruvi",
+   "termUz": "Sekretsiya boşqaruvi",
    "original": null,
-   "contextUz": "Sekretsiya boshqaruvi: glyukozaning pasayishi asosiy omil (70 dan pastga tushganda keskin oshadi); aminokislotalar (alanin, arginin) — oqsilli ovqatdan keyin glyukoneogenezga imkon beradi va insulin sabab gipoglikemiyani oldini oladi; jismoniy mashq glyukagonni 4–5 barobar oshiradi.",
+   "contextUz": "Sekretsiya boşqaruvi: glyukozaning pasayişi asosiy omil (70 dan pastga tuşganda keskin oşadi); aminokislotalar (alanin, arginin) — oqsilli ovqatdan keyin glyukoneogenezga imkon beradi va insulin sabab gipoglikemiyani oldini oladi; jismoniy maşq glyukagonni 4–5 barobar oşiradi.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2532,9 +2532,9 @@
   },
   {
    "id": "ch79-t-jismoniy-mashq",
-   "termUz": "jismoniy mashq",
+   "termUz": "jismoniy maşq",
    "original": null,
-   "contextUz": "Sekretsiya boshqaruvi: glyukozaning pasayishi asosiy omil (70 dan pastga tushganda keskin oshadi); aminokislotalar (alanin, arginin) — oqsilli ovqatdan keyin glyukoneogenezga imkon beradi va insulin sabab gipoglikemiyani oldini oladi; jismoniy mashq glyukagonni 4–5 barobar oshiradi.",
+   "contextUz": "Sekretsiya boşqaruvi: glyukozaning pasayişi asosiy omil (70 dan pastga tuşganda keskin oşadi); aminokislotalar (alanin, arginin) — oqsilli ovqatdan keyin glyukoneogenezga imkon beradi va insulin sabab gipoglikemiyani oldini oladi; jismoniy maşq glyukagonni 4–5 barobar oşiradi.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2544,7 +2544,7 @@
    "id": "ch79-t-jigar-bufer",
    "termUz": "Jigar — bufer",
    "original": null,
-   "contextUz": "Jigar — bufer: ovqatdan keyin ortiqcha glyukozaning ~2/3 qismini saqlaydi, keyin chiqaradi; og’ir jigar kasalligida glyukozani ushlash qiyinlashadi.",
+   "contextUz": "Jigar — bufer: ovqatdan keyin ortiqça glyukozaning ~2/3 qismini saqlaydi, keyin çiqaradi; oğir jigar kasalligida glyukozani uşlaş qiyinlaşadi.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2554,7 +2554,7 @@
    "id": "ch79-t-nega-muhim",
    "termUz": "Nega muhim",
    "original": null,
-   "contextUz": "Nega muhim: miya, to’r parda, jinsiy epiteliy asosan glyukozaga bog’liq.",
+   "contextUz": "Nega muhim: miya, tör parda, jinsiy epiteliy asosan glyukozaga boğliq.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2563,8 +2563,8 @@
   {
    "id": "ch79-t-1-tur",
    "termUz": "1-tur",
-   "original": "insulinga bog’liq, sekretsiya yo’q",
-   "contextUz": "Ikki asosiy tur: 1-tur (insulinga bog’liq, sekretsiya yo’q) va 2-tur (insulinga rezistentlik).",
+   "original": "insulinga bog‘liq, sekretsiya yo‘q",
+   "contextUz": "Ikki asosiy tur: 1-tur (insulinga boğliq, sekretsiya yöq) va 2-tur (insulinga rezistentlik).",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2574,7 +2574,7 @@
    "id": "ch79-t-2-tur",
    "termUz": "2-tur",
    "original": "insulinga rezistentlik",
-   "contextUz": "Ikki asosiy tur: 1-tur (insulinga bog’liq, sekretsiya yo’q) va 2-tur (insulinga rezistentlik).",
+   "contextUz": "Ikki asosiy tur: 1-tur (insulinga boğliq, sekretsiya yöq) va 2-tur (insulinga rezistentlik).",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2584,7 +2584,7 @@
    "id": "ch79-t-ketoatsidoz",
    "termUz": "Ketoatsidoz",
    "original": null,
-   "contextUz": "Ketoatsidoz: yog' kislotalari → keton tanachalari → metabolik atsidoz (pH 7.",
+   "contextUz": "Ketoatsidoz: yoğ kislotalari → keton tanaçalari → metabolik atsidoz (pH 7.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2592,9 +2592,9 @@
   },
   {
    "id": "ch79-t-davolash",
-   "termUz": "Davolash",
+   "termUz": "Davolaş",
    "original": null,
-   "contextUz": "Davolash: insulin (qisqa va uzoq ta’sirli; inyeksiya yoki nasos).",
+   "contextUz": "Davolaş: insulin (qisqa va uzoq ta’sirli; inyeksiya yoki nasos).",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2604,7 +2604,7 @@
    "id": "ch79-t-insulin-rezistentligi",
    "termUz": "insulin rezistentligi",
    "original": null,
-   "contextUz": "Asosiy sabab — insulin rezistentligi; boshida kompensator giperinsulinemiya bo’ladi.",
+   "contextUz": "Asosiy sabab — insulin rezistentligi; boşida kompensator giperinsulinemiya böladi.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2613,8 +2613,8 @@
   {
    "id": "ch79-t-semizlik",
    "termUz": "semizlik",
-   "original": "ayniqsa qorin yog’i",
-   "contextUz": "Ko’pincha semizlik (ayniqsa qorin yog’i) bilan bog’liq; metabolik sindrom: abdominal semizlik, insulin rezistentligi, och holatda giperglikemiya, dislipidemiya (yuqori triglitserid, past HDL), gipertoniya.",
+   "original": "ayniqsa qorin yog‘i",
+   "contextUz": "Köpinça semizlik (ayniqsa qorin yoği) bilan boğliq; metabolik sindrom: abdominal semizlik, insulin rezistentligi, oç holatda giperglikemiya, dislipidemiya (yuqori triglitserid, past HDL), gipertoniya.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2624,7 +2624,7 @@
    "id": "ch79-t-metabolik-sindrom",
    "termUz": "metabolik sindrom",
    "original": null,
-   "contextUz": "Ko’pincha semizlik (ayniqsa qorin yog’i) bilan bog’liq; metabolik sindrom: abdominal semizlik, insulin rezistentligi, och holatda giperglikemiya, dislipidemiya (yuqori triglitserid, past HDL), gipertoniya.",
+   "contextUz": "Köpinça semizlik (ayniqsa qorin yoği) bilan boğliq; metabolik sindrom: abdominal semizlik, insulin rezistentligi, oç holatda giperglikemiya, dislipidemiya (yuqori triglitserid, past HDL), gipertoniya.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2634,7 +2634,7 @@
    "id": "ch79-t-rezistentlik-sabablari-79-2-jadval",
    "termUz": "Rezistentlik sabablari (79-2 jadval)",
    "original": null,
-   "contextUz": "Rezistentlik sabablari (79-2 jadval): semizlik, kam harakatlilik, glyukokortikoid ortiqchaligi (Kushing), o’sish gormoni ortiqchaligi (akromegaliya), homiladorlik (gestatsion diabet), polikistoz tuxumdon sindromi (ayollarning ~6%), lipodistrofiya, insulin retseptoriga autoantitelolar, retseptor mutatsiyalari, MODY, gemoxromatoz va boshqalar.",
+   "contextUz": "Rezistentlik sabablari (79-2 jadval): semizlik, kam harakatlilik, glyukokortikoid ortiqçaligi (Kuşing), ösiş gormoni ortiqçaligi (akromegaliya), homiladorlik (gestatsion diabet), polikistoz tuxumdon sindromi (ayollarning ~6%), lipodistrofiya, insulin retseptoriga autoantitelolar, retseptor mutatsiyalari, MODY, gemoxromatoz va boşqalar.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2644,7 +2644,7 @@
    "id": "ch79-t-polikistoz-tuxumdon-sindromi",
    "termUz": "polikistoz tuxumdon sindromi",
    "original": "ayollarning ~6%",
-   "contextUz": "Rezistentlik sabablari (79-2 jadval): semizlik, kam harakatlilik, glyukokortikoid ortiqchaligi (Kushing), o’sish gormoni ortiqchaligi (akromegaliya), homiladorlik (gestatsion diabet), polikistoz tuxumdon sindromi (ayollarning ~6%), lipodistrofiya, insulin retseptoriga autoantitelolar, retseptor mutatsiyalari, MODY, gemoxromatoz va boshqalar.",
+   "contextUz": "Rezistentlik sabablari (79-2 jadval): semizlik, kam harakatlilik, glyukokortikoid ortiqçaligi (Kuşing), ösiş gormoni ortiqçaligi (akromegaliya), homiladorlik (gestatsion diabet), polikistoz tuxumdon sindromi (ayollarning ~6%), lipodistrofiya, insulin retseptoriga autoantitelolar, retseptor mutatsiyalari, MODY, gemoxromatoz va boşqalar.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2654,7 +2654,7 @@
    "id": "ch79-t-tiazolidindionlar",
    "termUz": "tiazolidindionlar",
    "original": "sezgirlikni oshiradi",
-   "contextUz": "Dorilar: tiazolidindionlar (sezgirlikni oshiradi), metformin (jigar glyukoza ishlab chiqarishini kamaytiradi), sulfonilmochevinalar (sekretsiyani kuchaytiradi), GLP-1 agonistlari va DPP-4 ingibitorlari (inkretin ta’sirini kuchaytiradi), SGLT2 ingibitorlari (gliflozinlar; buyrakda glyukoza reabsorbsiyasini kamaytiradi).",
+   "contextUz": "Dorilar: tiazolidindionlar (sezgirlikni oşiradi), metformin (jigar glyukoza işlab çiqarişini kamaytiradi), sulfonilmoçevinalar (sekretsiyani kuçaytiradi), GLP-1 agonistlari va DPP-4 ingibitorlari (inkretin ta’sirini kuçaytiradi), SGLT2 ingibitorlari (gliflozinlar; buyrakda glyukoza reabsorbsiyasini kamaytiradi).",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2664,7 +2664,7 @@
    "id": "ch79-t-metformin",
    "termUz": "metformin",
    "original": "jigar glyukoza ishlab chiqarishini kamaytiradi",
-   "contextUz": "Dorilar: tiazolidindionlar (sezgirlikni oshiradi), metformin (jigar glyukoza ishlab chiqarishini kamaytiradi), sulfonilmochevinalar (sekretsiyani kuchaytiradi), GLP-1 agonistlari va DPP-4 ingibitorlari (inkretin ta’sirini kuchaytiradi), SGLT2 ingibitorlari (gliflozinlar; buyrakda glyukoza reabsorbsiyasini kamaytiradi).",
+   "contextUz": "Dorilar: tiazolidindionlar (sezgirlikni oşiradi), metformin (jigar glyukoza işlab çiqarişini kamaytiradi), sulfonilmoçevinalar (sekretsiyani kuçaytiradi), GLP-1 agonistlari va DPP-4 ingibitorlari (inkretin ta’sirini kuçaytiradi), SGLT2 ingibitorlari (gliflozinlar; buyrakda glyukoza reabsorbsiyasini kamaytiradi).",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2672,9 +2672,9 @@
   },
   {
    "id": "ch79-t-sulfonilmochevinalar",
-   "termUz": "sulfonilmochevinalar",
+   "termUz": "sulfonilmoçevinalar",
    "original": "sekretsiyani kuchaytiradi",
-   "contextUz": "Dorilar: tiazolidindionlar (sezgirlikni oshiradi), metformin (jigar glyukoza ishlab chiqarishini kamaytiradi), sulfonilmochevinalar (sekretsiyani kuchaytiradi), GLP-1 agonistlari va DPP-4 ingibitorlari (inkretin ta’sirini kuchaytiradi), SGLT2 ingibitorlari (gliflozinlar; buyrakda glyukoza reabsorbsiyasini kamaytiradi).",
+   "contextUz": "Dorilar: tiazolidindionlar (sezgirlikni oşiradi), metformin (jigar glyukoza işlab çiqarişini kamaytiradi), sulfonilmoçevinalar (sekretsiyani kuçaytiradi), GLP-1 agonistlari va DPP-4 ingibitorlari (inkretin ta’sirini kuçaytiradi), SGLT2 ingibitorlari (gliflozinlar; buyrakda glyukoza reabsorbsiyasini kamaytiradi).",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2684,7 +2684,7 @@
    "id": "ch79-t-glp-1-agonistlari",
    "termUz": "GLP-1 agonistlari",
    "original": null,
-   "contextUz": "Dorilar: tiazolidindionlar (sezgirlikni oshiradi), metformin (jigar glyukoza ishlab chiqarishini kamaytiradi), sulfonilmochevinalar (sekretsiyani kuchaytiradi), GLP-1 agonistlari va DPP-4 ingibitorlari (inkretin ta’sirini kuchaytiradi), SGLT2 ingibitorlari (gliflozinlar; buyrakda glyukoza reabsorbsiyasini kamaytiradi).",
+   "contextUz": "Dorilar: tiazolidindionlar (sezgirlikni oşiradi), metformin (jigar glyukoza işlab çiqarişini kamaytiradi), sulfonilmoçevinalar (sekretsiyani kuçaytiradi), GLP-1 agonistlari va DPP-4 ingibitorlari (inkretin ta’sirini kuçaytiradi), SGLT2 ingibitorlari (gliflozinlar; buyrakda glyukoza reabsorbsiyasini kamaytiradi).",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2694,7 +2694,7 @@
    "id": "ch79-t-dpp-4-ingibitorlari",
    "termUz": "DPP-4 ingibitorlari",
    "original": "inkretin ta’sirini kuchaytiradi",
-   "contextUz": "Dorilar: tiazolidindionlar (sezgirlikni oshiradi), metformin (jigar glyukoza ishlab chiqarishini kamaytiradi), sulfonilmochevinalar (sekretsiyani kuchaytiradi), GLP-1 agonistlari va DPP-4 ingibitorlari (inkretin ta’sirini kuchaytiradi), SGLT2 ingibitorlari (gliflozinlar; buyrakda glyukoza reabsorbsiyasini kamaytiradi).",
+   "contextUz": "Dorilar: tiazolidindionlar (sezgirlikni oşiradi), metformin (jigar glyukoza işlab çiqarişini kamaytiradi), sulfonilmoçevinalar (sekretsiyani kuçaytiradi), GLP-1 agonistlari va DPP-4 ingibitorlari (inkretin ta’sirini kuçaytiradi), SGLT2 ingibitorlari (gliflozinlar; buyrakda glyukoza reabsorbsiyasini kamaytiradi).",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2704,7 +2704,7 @@
    "id": "ch79-t-sglt2-ingibitorlari",
    "termUz": "SGLT2 ingibitorlari",
    "original": "gliflozinlar; buyrakda glyukoza reabsorbsiyasini kamaytiradi",
-   "contextUz": "Dorilar: tiazolidindionlar (sezgirlikni oshiradi), metformin (jigar glyukoza ishlab chiqarishini kamaytiradi), sulfonilmochevinalar (sekretsiyani kuchaytiradi), GLP-1 agonistlari va DPP-4 ingibitorlari (inkretin ta’sirini kuchaytiradi), SGLT2 ingibitorlari (gliflozinlar; buyrakda glyukoza reabsorbsiyasini kamaytiradi).",
+   "contextUz": "Dorilar: tiazolidindionlar (sezgirlikni oşiradi), metformin (jigar glyukoza işlab çiqarişini kamaytiradi), sulfonilmoçevinalar (sekretsiyani kuçaytiradi), GLP-1 agonistlari va DPP-4 ingibitorlari (inkretin ta’sirini kuçaytiradi), SGLT2 ingibitorlari (gliflozinlar; buyrakda glyukoza reabsorbsiyasini kamaytiradi).",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2714,7 +2714,7 @@
    "id": "ch79-t-metabolik-bariatrik-jarrohlik",
    "termUz": "metabolik (bariatrik) jarrohlik",
    "original": null,
-   "contextUz": "Og’ir semizlikda metabolik (bariatrik) jarrohlik diabetni sezilarli yaxshilaydi.",
+   "contextUz": "Oğir semizlikda metabolik (bariatrik) jarrohlik diabetni sezilarli yaxşilaydi.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2724,7 +2724,7 @@
    "id": "ch79-t-siydikda-glyukoza",
    "termUz": "Siydikda glyukoza",
    "original": null,
-   "contextUz": "Siydikda glyukoza: normada deyarli yo’q; diabetda ko’p.",
+   "contextUz": "Siydikda glyukoza: normada deyarli yöq; diabetda köp.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2732,9 +2732,9 @@
   },
   {
    "id": "ch79-t-och-holatdagi-qon-glyukozasi",
-   "termUz": "Och holatdagi qon glyukozasi",
+   "termUz": "Oç holatdagi qon glyukozasi",
    "original": null,
-   "contextUz": "Och holatdagi qon glyukozasi: normal 80–90, yuqori chegara ~115 mg/100 ml; undan yuqorisi diabetga shubha.",
+   "contextUz": "Oç holatdagi qon glyukozasi: normal 80–90, yuqori çegara ~115 mg/100 ml; undan yuqorisi diabetga şubha.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2744,7 +2744,7 @@
    "id": "ch79-t-hba1c",
    "termUz": "HbA1c",
    "original": "glikozillangan gemoglobin",
-   "contextUz": "HbA1c (glikozillangan gemoglobin): oldingi 2–3 oy o’rtacha glyukozani aks ettiradi.",
+   "contextUz": "HbA1c (glikozillangan gemoglobin): oldingi 2–3 oy örtaça glyukozani aks ettiradi.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2754,7 +2754,7 @@
    "id": "ch79-t-glyukoza-tolerantlik-testi",
    "termUz": "Glyukoza tolerantlik testi",
    "original": null,
-   "contextUz": "Glyukoza tolerantlik testi: 1 g/kg glyukoza ichiriladi; normada glyukoza 120–140 gacha ko’tarilib 2 soatda bazalga qaytadi.",
+   "contextUz": "Glyukoza tolerantlik testi: 1 g/kg glyukoza içiriladi; normada glyukoza 120–140 gaça kötarilib 2 soatda bazalga qaytadi.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2774,7 +2774,7 @@
    "id": "ch79-t-ateroskleroz",
    "termUz": "ateroskleroz",
    "original": null,
-   "contextUz": "Diabetiklarda ateroskleroz, koronar kasallik, insult, periferik qon tomir kasalligi kuchli rivojlanadi (yuqori xolesterin va lipidlar; glyukozaning qon tomirga to’g’ridan-to’g’ri zarari).",
+   "contextUz": "Diabetiklarda ateroskleroz, koronar kasallik, insult, periferik qon tomir kasalligi kuçli rivojlanadi (yuqori xolesterin va lipidlar; glyukozaning qon tomirga töğridan-töğri zarari).",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2784,7 +2784,7 @@
    "id": "ch79-t-buyrak-kasalligi",
    "termUz": "buyrak kasalligi",
    "original": "diabetik nefropatiya — buyrak yetishmovchiligining asosiy sababi",
-   "contextUz": "Mikroangiopatiya: buyrak kasalligi (diabetik nefropatiya — buyrak yetishmovchiligining asosiy sababi), retinopatiya (ko’rlik), periferik neyropatiya.",
+   "contextUz": "Mikroangiopatiya: buyrak kasalligi (diabetik nefropatiya — buyrak yetişmovçiligining asosiy sababi), retinopatiya (körlik), periferik neyropatiya.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2793,8 +2793,8 @@
   {
    "id": "ch79-t-insulinoma",
    "termUz": "Insulinoma",
-   "original": "beta hujayra o’smasi",
-   "contextUz": "Insulinoma (beta hujayra o’smasi): ~10–15% xavfli; kuniga 1000 g dan ortiq glyukoza berish kerak bo’lishi mumkin.",
+   "original": "beta hujayra o‘smasi",
+   "contextUz": "Insulinoma (beta hujayra ösmasi): ~10–15% xavfli; kuniga 1000 g dan ortiq glyukoza beriş kerak bölişi mumkin.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2802,9 +2802,9 @@
   },
   {
    "id": "ch79-t-insulin-shoki",
-   "termUz": "Insulin shoki",
+   "termUz": "Insulin şoki",
    "original": null,
-   "contextUz": "Insulin shoki: glyukoza 50–70 mg/100 ml — MNT qo’zg’aluvchan (gallyutsinatsiya, asabiylik, titroq, terlash); 20–50 — klonik tutqanoqlar, hushdan ketish; undan past — koma.",
+   "contextUz": "Insulin şoki: glyukoza 50–70 mg/100 ml — MNT qözğaluvçan (gallyutsinatsiya, asabiylik, titroq, terlaş); 20–50 — klonik tutqanoqlar, huşdan ketiş; undan past — koma.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2814,7 +2814,7 @@
    "id": "ch79-t-glyukoza",
    "termUz": "glyukoza",
    "original": null,
-   "contextUz": "Gipoglikemiyada vena ichiga glyukoza yoki glyukagon (yoki adrenalin) tez yordam beradi.",
+   "contextUz": "Gipoglikemiyada vena içiga glyukoza yoki glyukagon (yoki adrenalin) tez yordam beradi.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",
@@ -2824,7 +2824,7 @@
    "id": "ch79-t-glyukagon",
    "termUz": "glyukagon",
    "original": "yoki adrenalin",
-   "contextUz": "Gipoglikemiyada vena ichiga glyukoza yoki glyukagon (yoki adrenalin) tez yordam beradi.",
+   "contextUz": "Gipoglikemiyada vena içiga glyukoza yoki glyukagon (yoki adrenalin) tez yordam beradi.",
    "lessonId": "ch79",
    "topicId": "14",
    "source": "summaryUz",

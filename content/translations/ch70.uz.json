@@ -1,0 +1,198 @@
+{
+ "lessonId": "ch70",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 70,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "manual",
+ "translator": "Claude (DrStudy sessiyasi)",
+ "model": null,
+ "createdAt": "2026-11-20T06:54:28.217Z",
+ "updatedAt": "2026-11-20T06:54:28.226Z",
+ "coverage": {
+  "translated": 53,
+  "total": 53
+ },
+ "note": "Kitob matnining töliq özbekça tarjimasi (qisqartirilmagan). Ekspert tekşiruvidan ötmagan.",
+ "blocks": {
+  "ch70-f0": {
+   "text": "Tana quruq massasining taxminan törtdan uç qismini oqsillar taşkil qiladi. Ularga tuzilma oqsillari, fermentlar, nukleoproteinlar, kislorod taşuvçi oqsillar, muşak qisqarişini ta’minlovçi oqsillar va organizmda hujayra içida hamda taşqarisida maxsus vazifalarni bajaruvçi boşqa oqsillar kiradi."
+  },
+  "ch70-f1": {
+   "text": "Oqsillarning turli vazifalarini tuşuntiradigan kimyoviy xususiyatlar biokimyoning katta qismini taşkil qiladi. Bu bobda oqsil almaşinuvining darslikdagi boşqa mavzularni tuşuniş uçun zarur ayrim jihatlari körib çiqiladi."
+  },
+  "ch70-f2": {
+   "text": "Oqsillarning asosiy tarkibiy qismlari aminokislotalardir. Tana oqsillarida ulardan yigirmatasi sezilarli miqdorda uçraydi. **Rasm 70-1** da ularning formulalari berilgan. Har birida kislotali guruh (–COOH) va molekulaga birikkan azot atomi mavjud. Azot odatda aminoguruh (–NH₂) tarkibiga kiradi."
+  },
+  "ch70-f4": {
+   "text": "Oqsildagi aminokislotalar _peptid boğlari_ orqali uzun zanjirlarga birikadi. Ikki aminokislota birikayotganda suv ajraladi va ular orasida –CO–NH– boği hosil böladi.",
+   "lead": "Peptid boğlari va peptid zanjirlari."
+  },
+  "ch70-f5": {
+   "text": "Bir aminokislotaning aminoguruhidagi azot ikkinçisining karboksil guruhidagi uglerodga birikadi. Aminoguruhdan vodorod, karboksil guruhidan gidroksil ajralib, bir molekula suv hosil qiladi. Yangi, uzunroq molekulaning qarama-qarşi uçlarida aminoguruh va karboksil guruh saqlanadi. Har biri yana aminokislota bilan birikib, _peptid zanjiri_ hosil qila oladi. Ayrim murakkab oqsillarda minglab aminokislota peptid boğlari bilan birikadi. Eng kiçik oqsil molekulalari ham odatda yigirmadan ortiq aminokislotadan, örtaçasi esa taxminan 400 aminokislotadan iborat."
+  },
+  "ch70-f6": {
+   "text": "Ayrim oqsillar bir neçta peptid zanjiridan tuzilgan. Bu zanjirlarni boşqa turdagi boğlar, köpinça peptidlarning CO va NH guruhlari orasidagi _vodorod boğlari_ birlaştiradi.",
+   "lead": "Oqsil molekulalaridagi boşqa boğlar."
+  },
+  "ch70-f7": {
+   "text": "Köp peptid zanjirlari öralgan yoki buklangan. Ularning ketma-ket buramalari yoki buklamalarini şunga öxşaş vodorod boğlari va boşqa kuçlar ziç spiral yoki boşqa şakllarda uşlab turadi."
+  },
+  "ch70-f8": {
+   "text": "Qondagi aminokislotalarning odatiy umumiy konsentratsiyasi 35–65 mg/dl. Bu yigirmata aminokislotaning har biriga örtaça taxminan 2 mg/dl töğri kelişini anglatadi, lekin ayrimlari boşqalaridan ança köp. Aminokislotalar qonda asosan ionlangan şaklda uçraydi. Darslik hisobida ular qonning manfiy ionlariga 2–3 milliekvivalent hissa qöşadi. Qondagi aminokislotalarning nisbati qisman ovqatdagi oqsil turlariga boğliq. Ayrim aminokislotalarning konsentratsiyasi turli hujayralardagi tanlab sintez qiliş orqali ham boşqariladi."
+  },
+  "ch70-f9": {
+   "text": "Hazm yölida oqsillarning hazm bölişi va sörilişining yakuniy mahsulotlari deyarli butunlay aminokislotalardir. Polipeptidlar yoki butun oqsil molekulalari qonga kamdan-kam ötadi. Ovqatdan köp ötmay qondagi aminokislotalar konsentratsiyasi odatda atigi bir neça mg/dl kötariladi. Birinçidan, oqsil hazmi va sörilişi odatda 2–3 soat davom etadi, şu sababli bir vaqtda oz miqdor söriladi. Ikkinçidan, qöşimça aminokislotalar qonga tuşgaç 5–10 daqiqada tana hujayralariga, ayniqsa jigarga ötadi. Şuning uçun qon va töqima suyuqligida aminokislotalar yuqori konsentratsiyada deyarli töplanmaydi. Ammo almaşinuv şu qadar tezki, har soatda oqsilning köp grammiga teng aminokislotalar tananing bir joyidan boşqasiga taşilişi mumkin.",
+   "lead": "Hazm yölidan sörilgan aminokislotalarning keyingi taqdiri."
+  },
+  "ch70-f10": {
+   "text": "Aminokislota molekulalari hujayra membranasi teşiklaridan oson diffuziyalana olmaydigan darajada yirik. Şuning uçun sezilarli miqdor membranadan içkariga yoki taşqariga taşuvçi vositasidagi yengillaşgan yoki faol transport orqali ötadi. Ayrim taşuvçilarning işlaşi töliq aniqlanmagan. Ularning bir qismi 4-bobda muhokama qilinadi.",
+   "lead": "Aminokislotalarning hujayraga faol taşilişi."
+  },
+  "ch70-f11": {
+   "text": "Buyrak koptokçalarida filtrlangan aminokislotalar proksimal kanalça epiteliysidan _ikkilamçi faol transport_ bilan qayta sörilib, qonga qaytişi mumkin. Kanalçalardagi boşqa faol taşuvçilarda bölgani kabi, har bir aminokislotani taşiş tezligining yuqori çegarasi bor. Muayyan aminokislota plazma va koptokça filtratida ortiqça köpaysa, qayta sörilişga ulgurmagan qismi siydik bilan yöqotiladi.",
+   "lead": "Aminokislotalarning buyrak bösağasi."
+  },
+  "ch70-f12": {
+   "text": "Aminokislotalar töqima hujayralariga kirgaç axborot RNKsi va ribosomalar yordamida peptid boğlari orqali birikib, hujayra oqsillarini hosil qiladi. Şu sababli köpçilik hujayralarda erkin aminokislotalar konsentratsiyasi past. Aminokislotalar asosan oqsil şaklida zaxiralanadi. Köp hujayra oqsillari lizosoma fermentlari ta’sirida tez qayta aminokislotalarga parçalanadi. Aminokislotalar hujayradan çiqib qonga qaytişi mumkin. Yadro xromosomalaridagi oqsillar, kollagen va muşak qisqaruvçi oqsillari kabi tuzilma oqsillari bu teskari parçalaniş va hujayradan taşilişga kam qöşiladi."
+  },
+  "ch70-f13": {
+   "text": "Ayrim töqimalar aminokislotalarni boşqalariga qaraganda köproq zaxiralaydi. Masalan, jigar katta a’zo bölib, aminokislotalarni qayta işlaşga mos maxsus tizimlarga ega. U tez almaşinadigan oqsillarning katta miqdorini saqlaydi. Buyraklar va içak şilliq qavati ham bu vazifani nisbatan kamroq darajada bajaradi."
+  },
+  "ch70-f14": {
+   "text": "Plazmadagi aminokislotalar konsentratsiyasi me’yordan tuşganda kerakli aminokislotalar zaxirani töldiriş uçun hujayradan plazmaga taşiladi. Şu tariqa har bir aminokislotaning plazmadagi konsentratsiyasi nisbatan barqaror turadi. Ayrim gormonlar töqima oqsillari va qonda aylanayotgan aminokislotalar örtasidagi muvozanatni özgartiradi. Masalan, ösiş gormoni va insulin töqima oqsillari hosil bölişini, buyrak usti pöstloği glukokortikoidlari esa plazmadagi aminokislotalar konsentratsiyasini oşiradi.",
+   "lead": "Aminokislotalarning hujayradan çiqişi plazmadagi miqdorni boşqaradi."
+  },
+  "ch70-f15": {
+   "text": "Jigarda va ança kam darajada boşqa töqimalarda hujayra oqsillari plazma aminokislotalaridan tez sintezlanadi. Köp oqsillar parçalanib, aminokislotalar şaklida qariyb şu tezlikda plazmaga qaytişi ham mumkin. Natijada plazma aminokislotalari va deyarli barça hujayralardagi tez almaşinadigan oqsillar orasida doimiy almaşinuv va muvozanat saqlanadi. Bir töqima oqsilga muhtoj bölsa, qondagi aminokislotalardan yangi oqsil sintezlaydi. Qondagi aminokislotalar esa boşqa hujayralarda, ayniqsa jigarda, oqsillar parçalanişi hisobiga töldiriladi. Bu saraton hujayralarida yaqqol kuzatilişi mumkin. Ular köp aminokislota işlatişi tufayli boşqa hujayralarning oqsil zaxirasi ança kamayişi mumkin.",
+   "lead": "Tananing turli qismlaridagi oqsillar örtasidagi qaytar muvozanat."
+  },
+  "ch70-f16": {
+   "text": "Har bir hujayra turi çeklangan miqdorda oqsil saqlay oladi. Hujayralardagi zaxira çegarasiga yetgaç, qondagi ortiqça aminokislotalar boşqa mahsulotlarga parçalanib energiya olişga sarflanadi yoki yoğ va glikogenga aylantirilib saqlanadi.",
+   "lead": "Oqsil zaxirasining yuqori çegarasi."
+  },
+  "ch70-f17": {
+   "text": "Plazmadagi asosiy oqsillar _albumin, globulinlar_ va _fibrinogendir_."
+  },
+  "ch70-f18": {
+   "text": "_Albumin_ plazmaning _kolloid-osmotik bosimini_ ta’minlaydi. Bu bosim suyuqlikning kapillyarlardan ortiqça çiqişiga yöl qöymaydi (16-bob)."
+  },
+  "ch70-f19": {
+   "text": "_Globulinlar_ plazmada bir neça _fermentativ vazifani_ bajaradi. Ular organizmga kirgan mikroorganizmlarga qarşi tabiiy va orttirilgan _immunitetda_ ham muhim (35-bob)."
+  },
+  "ch70-f20": {
+   "text": "Qon ivişida _fibrinogen_ uzun fibrin iplariga polimerlanadi. Iplar _qon laxtasini hosil qilib_, qon tomirining şikastlangan joyidan qon oqişini töxtatişga yordam beradi (37-bob)."
+  },
+  "ch70-f21": {
+   "text": "Plazma albumini va fibrinogenining deyarli hammasi hamda globulinlarning 50–80 foizi jigarda hosil böladi. Qolgan globulinlar deyarli butunlay limfoid töqimalarda hosil böladigan gamma-globulinlardir. Ular immun tizimining antitanalarini taşkil qiladi.",
+   "lead": "Plazma oqsillarining hosil bölişi."
+  },
+  "ch70-f22": {
+   "text": "Jigar bir sutkada 30 g gaça plazma oqsili sintezlay oladi. Ayrim kasalliklarda plazma oqsili tez yöqotiladi. Masalan, terining katta yuzalarini oçib yuborgan oğir kuyişda şu joylar orqali sutkasiga bir neça litr plazma çiqişi mumkin. Jigarning tez oqsil işlab çiqarişi bunday holatda hayotni saqlaşga yordam beradi. Oğir buyrak kasalligida ba’zan oylar davomida siydik bilan har kuni 20 g gaça plazma oqsili yöqoladi. Uning örni asosan jigarda kerakli oqsillar uzluksiz sintezlanişi hisobiga töldiriladi."
+  },
+  "ch70-f23": {
+   "text": "_Jigar sirrozida_ köp jigar hujayralari nobud böladi va ularning örnini fibroz töqima egallaydi. Natijada jigarning plazma oqsillari sintezlaş qobiliyati kamayadi. 25-bobda bayon qilinganidek, plazma kolloid-osmotik bosimining pasayişi umumiy şişga olib keladi."
+  },
+  "ch70-f24": {
+   "text": "Töqimada oqsil kamayganda plazma oqsillari uning örnini tez töldirişga xizmat qiladi. Töqima makrofaglari butun plazma oqsillarini pinotsitoz orqali qabul qilib, aminokislotalargaça parçalaydi. Aminokislotalar qonga qaytariladi va hujayra oqsili kerak bölgan joylarga yetkaziladi. Demak, plazma oqsillari tez almaşinadigan zaxira va töqimalar uçun foydalanişga tayyor aminokislota manbaidir.",
+   "lead": "Plazma oqsillari töqimalar uçun aminokislota manbai sifatida."
+  },
+  "ch70-f25": {
+   "text": "Plazma oqsillari, plazma aminokislotalari va töqima oqsillari doimiy muvozanatda (**Rasm 70-2**). Radioaktiv belgi yordamidagi tadqiqotlarga köra, aminokislotalarning uzluksiz almaşinuvida har kuni taxminan 400 g tana oqsili sintezlanadi va parçalanadi. Bu turli oqsillar örtasida aminokislotalarning qaytar almaşinuvini körsatadi. Hatto oçlik yoki oğir, holdan toydiruvçi kasallikda ham jami töqima oqsillarining jami plazma oqsillariga nisbati taxminan 33:1 darajasida saqlanadi.",
+   "lead": "Plazma va töqima oqsillari örtasidagi qaytar muvozanat."
+  },
+  "ch70-f27": {
+   "text": "Plazma va boşqa tana oqsillari örtasidagi qaytar muvozanatga boğliq holda darslik oğir, ötkir umumiy oqsil yetişmovçiligida plazma oqsilini vena içiga yuborişni muhokama qiladi. Bir neça kun, ba’zan bir neça soat içida yuborilgan oqsillarning aminokislotalari organizm hujayralariga tarqaladi va zarur joylarda yangi oqsil sintezida qatnaşadi."
+  },
+  "ch70-f28": {
+   "text": "Darslik tasnifida hayvon oqsillaridagi aminokislotalarning öntasi hujayralarda sintezlanadi. Qolgan öntasi sintezlanmaydi yoki ehtiyojni qondiriş uçun yetarli miqdorda sintezlanmaydi. Ular _almaşinmaydigan aminokislotalar_ deb ataladi va ovqatdan olinişi kerak. Almaşinadigan aminokislotalar ham oqsil sintezi uçun kerak, ammo organizm ularni özi hosil qila oladi.",
+   "lead": "Almaşinmaydigan va almaşinadigan aminokislotalar."
+  },
+  "ch70-f29": {
+   "text": "Almaşinadigan aminokislotalarning sintezi asosan ularga mos boşlanğiç birikmalar — α-ketokislotalar hosil bölişiga boğliq. Masalan, glikolizda köp hosil böladigan _pirouzum kislotasi_ _alaninning_ ketokislota boşlanğiç moddasidir. _Transaminlanişda_ aminoguruh α-ketokislotaga ötadi, donor esa mos ketokislotaga aylanadi. **Rasm 70-3** da glutamatdan piruvatga aminoguruh ötib alanin hosil bölişi körsatilgan. Aminoguruhlar _asparagin, aspartat_ va _glutamindan_ ham uzatilişi mumkin. Töqimalarda köp böladigan glutaminning asosiy vazifalaridan biri aminoazot zaxirasi bölib xizmat qilişdir."
+  },
+  "ch70-f31": {
+   "text": "Bu reaksiyalar qaytar. Şu sababli aminoguruhlar aminokislotalar parçalanayotganda ham köçirilişi mumkin."
+  },
+  "ch70-f32": {
+   "text": "Transaminlanişni bir neça ferment, jumladan _aminotransferazalar_ katalizlaydi. Ular B₆ vitamini — piridoksin hosilasidan koferment sifatida foydalanadi. Bu vitamin yetişmasa, aminokislota sintezi susayadi va oqsil odatdagidek hosil böla olmaydi."
+  },
+  "ch70-f33": {
+   "text": "Hujayra oqsil zaxirasi tölgaç, tana suyuqligidagi ortiqça aminokislotalar energiya oliş uçun parçalanadi yoki asosan yoğ, kamroq darajada glikogen şaklida saqlanadi. Parçalanişning asosiy qismi jigarda keçadi va _dezaminlanişdan_ boşlanadi."
+  },
+  "ch70-f34": {
+   "text": "Dezaminlanişning asosiy qismi _transaminlanişdan_, ya’ni aminoguruhni qabul qiluvçi boşqa moddaga köçirişdan boşlanadi. Bu oldin bayon qilingan aminokislota sinteziga teskari jarayondir.",
+   "lead": "Dezaminlaniş — aminokislotalardan aminoguruhni ajratiş."
+  },
+  "ch70-f35": {
+   "text": "Asosiy transaminlaniş sxemasi: aminokislota + α-ketoglutarat ⇌ mos α-ketokislota + glutamat."
+  },
+  "ch70-f36": {
+   "text": "Aminoguruh α-ketoglutaratga ötib, glutamat hosil qiladi. Glutamat aminoguruhni boşqa moddaga uzatişi yoki ammiak (NH₃) şaklida ajratişi mumkin. Aminoguruh ajralgaç, glutamat yana α-ketoglutaratga aylanadi va sikl takrorlanadi. Hujayrada, ayniqsa jigarda, aminokislotalar ortişi dezaminlanişning dastlabki bosqiçlarini bajaruvçi _aminotransferazalarni_ faollaştiradi."
+  },
+  "ch70-f37": {
+   "text": "Aminokislotalardan ajralgan ammiakning deyarli hammasi moçevinaga aylantirilib, qondan çiqariladi. Umumiy hisobda ikki NH₃ va bir CO₂ molekulasidan moçevina hamda suv hosil böladi: 2NH₃ + CO₂ → CO(NH₂)₂ + H₂O.",
+   "lead": "Jigarda moçevina hosil bölişi."
+  },
+  "ch70-f38": {
+   "text": "Odam tanasidagi moçevinaning deyarli hammasi jigarda sintezlanadi. Jigar işlamasa yoki oğir zararlansa, ammiak qonda töplanadi. Ortiqça ammiak, ayniqsa miya uçun, juda zaharli va _jigar komasiga_ olib kelişi mumkin."
+  },
+  "ch70-f39": {
+   "text": "Moçevina siklida azot avval karbamoilfosfat şaklida ornitin bilan birikib sitrullin hosil qiladi. Sitrullin aspartatdan ikkinçi azotni qabul qilib, argininosuksinat orqali argininga aylanadi. Arginindan moçevina ajraladi va ornitin qayta tiklanadi."
+  },
+  "ch70-f40": {
+   "text": "Moçevina hosil bölgaç, jigar hujayralaridan tana suyuqliklariga diffuziyalanadi va buyraklar orqali çiqariladi."
+  },
+  "ch70-f41": {
+   "text": "Aminokislotadan aminoguruh ajralgaç, qolgan ketokislota aksariyat hollarda metabolizm uçun energiya beriş maqsadida oksidlanişi mumkin. Bu odatda ikki bosqiçda keçadi. 1. Ketokislota limon kislotasi sikliga kira oladigan birikmaga aylanadi. 2. U siklda parçalanib, uglevod va lipid metabolizmidan hosil bölgan atsetil-KoA kabi energiya beradi (68- va 69-boblar). Bir gramm oqsil oksidlanganda hosil böladigan ATP miqdori odatda bir gramm glukoza oksidlangandagidan biroz kam.",
+   "lead": "Dezaminlangan aminokislotalarning oksidlanişi."
+  },
+  "ch70-f42": {
+   "text": "Ayrim dezaminlangan aminokislotalar, asosan jigarda, glukoza yoki yoğ kislotalari sintezida işlatiladigan substratlarga öxşaydi. Masalan, alanin piruvatga aylanadi. Undan glukoza yoki glikogen, boşqa yöl bilan esa yoğ kislotalariga aylana oladigan atsetil-KoA hosil böladi. Ikki atsetil-KoA birikib, keton tanaçalaridan biri bölgan atsetosirka kislotasini ham hosil qilişi mumkin (69-bob).",
+   "lead": "Glukoneogenez va ketogenez."
+  },
+  "ch70-f43": {
+   "text": "Aminokislotalardan glukoza yoki glikogen hosil bölişi _glukoneogenez_ deyiladi. Darslikda ularning ketokislotalar yoki yoğ kislotasi boşlanğiç moddalariga aylanişi _ketogenez_ bilan boğliq holda bayon qilinadi. Keltirilgan hisobga köra, yigirmata dezaminlangan aminokislotaning 18 tasi glukozaga, 19 tasi yoğ kislotalariga aylanişi mumkin."
+  },
+  "ch70-f44": {
+   "text": "Odam ratsionida oqsil bölmasa, tana oqsillarining bir qismi aminokislotalarga parçalanadi. Ular dezaminlanib, oksidlanadi. Sutkasiga 20–30 g oqsilga teng bu sarf _oqsilning muqarrar yöqotilişi_ deyiladi. Darslik örtaça odam uçun sof oqsil yöqotilişini qoplaşga kamida 20–30 g oqsil kerakligini, ehtiyoj muşak massasi, faollik va yoşga qarab özgarişini qayd etadi. Unda ehtiyot zaxirasi bilan sutkasiga 60–75 g miqdor keltirilgan."
+  },
+  "ch70-f45": {
+   "text": "Ovqat oqsilidan yangi töqima oqsili sintezida töliq foydalaniş uçun undagi aminokislotalar nisbati töqimadagiga yaqin bölişi kerak. Bitta almaşinmaydigan aminokislota yetişmasa, boşqalaridan töliq foydalanib bölmaydi, çunki hujayra oqsilni butun zanjir şaklida sintezlaydi (3-bob). Işlatilmagan aminokislotalar dezaminlanadi va oksidlanadi. Aminokislotalar nisbati organizmning örtaça oqsilidan ança farq qiluvçi oqsil _töliq bölmagan oqsil_ deyiladi. Uning oziq qiymati _töliq oqsilnikidan_ pastroq."
+  },
+  "ch70-f46": {
+   "text": "Sutkalik 20–30 g muqarrar oqsil sarfidan taşqari, uglevod va yoğ yetarli bölsa, energiya deyarli butunlay ulardan olinadi. Bir neça hafta oçlikdan söng bu zaxiralar tugay boşlaganda qondagi aminokislotalar energiya uçun tez dezaminlanib oksidlanadi. Şu bosqiçda töqima oqsillari sutkasiga 125 g gaça tezlikda parçalanişi va hujayra vazifalari keskin yomonlaşişi mumkin. Energiya uçun avval uglevod hamda yoğ işlatilişi sababli ular _oqsilni tejovçi moddalar_ deb ataladi.",
+   "lead": "Oçlikning oqsil parçalanişiga ta’siri."
+  },
+  "ch70-f47": {
+   "text": "Ösiş gormoni töqimalardagi oqsillarni köpaytiradi. Aniq mexanizm töliq aniqlanmagan. Aminokislotalarning membrana orqali taşilişi ortişi, oqsil sintezi bilan boğliq transkripsiya va translyatsiyaning tezlaşişi hamda töqima oqsillari oksidlanişining kamayişi muhim deb hisoblanadi.",
+   "lead": "Ösiş gormoni hujayra oqsillari sintezini oşiradi."
+  },
+  "ch70-f48": {
+   "text": "Insulin butunlay yetişmasa, oqsil sintezi deyarli nolga tuşadi. Insulin ayrim aminokislotalarning hujayraga taşilişini tezlaştiradi va şu yöl bilan sintezni rağbatlantirişi mumkin. U oqsil parçalanişini kamaytiradi va hujayralarga köproq glukoza yetkazilişiga yordam beradi. Natijada energiya uçun aminokislotalarga ehtiyoj tuşadi.",
+   "lead": "Insulin oqsil sintezi uçun zarur."
+  },
+  "ch70-f49": {
+   "text": "Buyrak usti bezlari pöstloği glukokortikoidlari _köpçilik_ töqimalarda oqsil miqdorini _kamaytiradi_, şu bilan birga plazma aminokislotalari, _jigar oqsillari va plazma oqsillarini_ köpaytiradi. Jigardan taşqaridagi oqsillar köproq parçalanganda tana suyuqliklarida aminokislotalar ortadi. Jigar ulardan hujayra va plazma oqsillarini köproq sintezlay oladi.",
+   "lead": "Glukokortikoidlar köpçilik töqima oqsillarining parçalanişini kuçaytiradi."
+  },
+  "ch70-f50": {
+   "text": "Erkak jinsiy gormoni testosteron tananing köp töqimalarida, ayniqsa muşaklarning qisqaruvçi oqsillarida oqsil töplanişini oşiradi. Darslikda muşak oqsillarining 30–50 foiz ortişi keltirilgan. Mexanizm töliq aniqlanmagan va ösiş gormoninikidan farq qiladi. Ösiş gormoni ta’sirida töqima uzoq vaqt ösişda davom etişi mumkin. Testosteron ta’sirida esa muşaklar va kamroq darajada boşqa oqsilga boy töqimalar faqat bir neça oy kattalaşadi. Ular çegarasiga yetgaç, testosteron beriş davom etsa ham qöşimça oqsil töplanişi töxtaydi.",
+   "lead": "Testosteron töqimalarda oqsil töplanişini oşiradi."
+  },
+  "ch70-f51": {
+   "text": "Asosiy ayol jinsiy gormoni estrogen ham oqsil töplanişini bir oz oşiradi. Uning ta’siri testosteronnikidan ança kuçsiz.",
+   "lead": "Estrogen."
+  },
+  "ch70-f52": {
+   "text": "Tiroksin umumiy hujayra metabolizmini oşiriş orqali oqsilga bilvosita ta’sir qiladi. Energiya uçun uglevod va yoğ yetişmasa, oqsillar tez parçalanib, energiya uçun işlatiladi. Uglevod va yoğ yetarli, hujayradan taşqari suyuqlikda aminokislota köp bölsa, tiroksin oqsil sintezini tezlaştirişi mumkin. Ösayotgan hayvon yoki odamda tiroksin yetişmasligi oqsil sintezi yetarli bölmagani sababli ösişni keskin susaytiradi. Tiroksin oqsil metabolizmiga kuçli maxsus ta’sirdan köra, uning odatdagi anabolik va katabolik reaksiyalarini tezlaştiruvçi umumiy ta’sir körsatadi.",
+   "lead": "Tiroksin hujayra metabolizmini tezlaştiradi."
+  }
+ },
+ "figures": {
+  "gh14-fig-70-01": "Aminokislotalar. Darslik tasnifidagi önta almaşinmaydigan aminokislota organizmda yetarli miqdorda sintezlanmaydi va tayyor holda ovqatdan olinişi kerak.",
+  "gh14-fig-70-02": "Töqima oqsillari, plazma oqsillari va plazma aminokislotalari örtasidagi qaytar muvozanat.",
+  "gh14-fig-70-03": "Transaminlaniş orqali pirouzum kislotasidan alanin sintezi."
+ }
+}

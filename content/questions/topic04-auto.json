@@ -1,0 +1,1829 @@
+{
+ "origin": "Claude (DrStudy sessiyasi) — kitobning özbekça izohlari (Guyton & Hall, 14-naşr) asosida, 2026-11-17. Ekspert tekşiruvi kerak.",
+ "questions": [
+  {
+   "id": "q04-c14-01",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch14",
+   "stem": "Qon hajmining eng katta qismi qayerda joylaşgan?",
+   "options": [
+    {
+     "id": "q04-c14-01-a",
+     "text": "Kapillyarlarda (~7%)"
+    },
+    {
+     "id": "q04-c14-01-b",
+     "text": "Öpkada (~9%)"
+    },
+    {
+     "id": "q04-c14-01-c",
+     "text": "Katta doira venalarida (~64%)"
+    },
+    {
+     "id": "q04-c14-01-d",
+     "text": "Arteriyalarda (~13%)"
+    }
+   ],
+   "answerOptionId": "q04-c14-01-c",
+   "explanation": "Katta doira 84% ni oladi: venalar 64%, arteriyalar 13%, arteriolalar va kapillyarlar 7%; yurak 7%, öpka 9%.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch14",
+    "topicId": "04",
+    "blockId": "ch14-u3",
+    "printedPage": 158,
+    "pdfPage": 163,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c14-02",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch14",
+   "stem": "Nima uçun kapillyarlarda qon oqimining tezligi eng past?",
+   "options": [
+    {
+     "id": "q04-c14-02-a",
+     "text": "Kapillyar devori eng qalin"
+    },
+    {
+     "id": "q04-c14-02-b",
+     "text": "Kapillyarlarda bosim eng yuqori"
+    },
+    {
+     "id": "q04-c14-02-c",
+     "text": "Kapillyarlarda qon qovuşqoqligi eng past"
+    },
+    {
+     "id": "q04-c14-02-d",
+     "text": "Kapillyarlarning umumiy kesim yuzasi eng katta"
+    }
+   ],
+   "answerOptionId": "q04-c14-02-d",
+   "explanation": "Umumiy kesim yuzasi eng katta bölgani uçun tezlik aortadagi ~33 sm/s dan kapillyarda ~0,3 mm/s gaça tuşadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch14",
+    "topicId": "04",
+    "blockId": "ch14-u3",
+    "printedPage": 158,
+    "pdfPage": 163,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c14-03",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch14",
+   "stem": "Tomir diametri 2 baravar oşsa, Puazeyl qonuniga köra oqim neça baravar oşadi?",
+   "options": [
+    {
+     "id": "q04-c14-03-a",
+     "text": "16 baravar"
+    },
+    {
+     "id": "q04-c14-03-b",
+     "text": "2 baravar"
+    },
+    {
+     "id": "q04-c14-03-c",
+     "text": "4 baravar"
+    },
+    {
+     "id": "q04-c14-03-d",
+     "text": "8 baravar"
+    }
+   ],
+   "answerOptionId": "q04-c14-03-a",
+   "explanation": "Oqim radiusning törtinçi darajasiga proporsional: 2⁴ = 16. Diametr 1, 2, 4 bölganda oqim 1, 16, 256 ml/min.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch14",
+    "topicId": "04",
+    "blockId": "ch14-u11",
+    "printedPage": 158,
+    "pdfPage": 163,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c14-04",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch14",
+   "stem": "Katta qon aylaniş doirasidagi qarşilikning ~2/3 qismini qaysi tomirlar beradi?",
+   "options": [
+    {
+     "id": "q04-c14-04-a",
+     "text": "Aorta"
+    },
+    {
+     "id": "q04-c14-04-b",
+     "text": "Kapillyarlar"
+    },
+    {
+     "id": "q04-c14-04-c",
+     "text": "Venalar"
+    },
+    {
+     "id": "q04-c14-04-d",
+     "text": "Arteriolalar"
+    }
+   ],
+   "answerOptionId": "q04-c14-04-d",
+   "explanation": "Arteriolalar diametrini ~4 marta özgartira oladi va bu oqimni ~100 marta özgartiradi; ular qarşilikning ~2/3 qismini beradi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch14",
+    "topicId": "04",
+    "blockId": "ch14-u11",
+    "printedPage": 158,
+    "pdfPage": 163,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c14-05",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch14",
+   "stem": "Bir buyrak olib taşlansa (nefrektomiya) umumiy periferik qarşilik qanday özgaradi?",
+   "options": [
+    {
+     "id": "q04-c14-05-a",
+     "text": "Oşadi, çunki parallel tarmoq yöqolib umumiy ötkazuvçanlik kamayadi"
+    },
+    {
+     "id": "q04-c14-05-b",
+     "text": "Avval kamayib, keyin nolga tuşadi"
+    },
+    {
+     "id": "q04-c14-05-c",
+     "text": "Kamayadi, çunki qon oqadigan tomirlar kamayadi"
+    },
+    {
+     "id": "q04-c14-05-d",
+     "text": "Özgarmaydi"
+    }
+   ],
+   "answerOptionId": "q04-c14-05-a",
+   "explanation": "Parallel ulanganda ötkazuvçanliklar qöşiladi; bitta tarmoq olib taşlansa umumiy ötkazuvçanlik kamayadi, qarşilik esa oşadi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch14",
+    "topicId": "04",
+    "blockId": "ch14-u11",
+    "printedPage": 158,
+    "pdfPage": 163,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c15-01",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch15",
+   "stem": "Venalar arteriyalardan neça marta çöziluvçanroq?",
+   "options": [
+    {
+     "id": "q04-c15-01-a",
+     "text": "~2 marta"
+    },
+    {
+     "id": "q04-c15-01-b",
+     "text": "~24 marta"
+    },
+    {
+     "id": "q04-c15-01-c",
+     "text": "~8 marta"
+    },
+    {
+     "id": "q04-c15-01-d",
+     "text": "~100 marta"
+    }
+   ],
+   "answerOptionId": "q04-c15-01-c",
+   "explanation": "Venalar ~8 marta çöziluvçanroq; hajmi ham ~3 marta katta bölgani uçun komplayensi ~24 marta katta.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch15",
+    "topicId": "04",
+    "blockId": "ch15-u3",
+    "printedPage": 169,
+    "pdfPage": 174,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c15-02",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch15",
+   "stem": "Puls bosimini asosan qaysi ikki omil belgilaydi?",
+   "options": [
+    {
+     "id": "q04-c15-02-a",
+     "text": "Yurak çastotasi va qon qovuşqoqligi"
+    },
+    {
+     "id": "q04-c15-02-b",
+     "text": "Kapillyar bosimi va limfa oqimi"
+    },
+    {
+     "id": "q04-c15-02-c",
+     "text": "Zarba hajmi va arterial komplayens"
+    },
+    {
+     "id": "q04-c15-02-d",
+     "text": "Venoz bosim va gematokrit"
+    }
+   ],
+   "answerOptionId": "q04-c15-02-c",
+   "explanation": "Puls bosimi ≈ zarba hajmi / arterial komplayens; uçinçi, kamroq ahamiyatli omil — haydaş xarakteri.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch15",
+    "topicId": "04",
+    "blockId": "ch15-u7",
+    "printedPage": 169,
+    "pdfPage": 174,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c15-03",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch15",
+   "stem": "Korotkov usulida birinçi eşitilgan taqillaş tovuşi nimaga töğri keladi?",
+   "options": [
+    {
+     "id": "q04-c15-03-a",
+     "text": "Örtaça arterial bosimga"
+    },
+    {
+     "id": "q04-c15-03-b",
+     "text": "Diastolik bosimga"
+    },
+    {
+     "id": "q04-c15-03-c",
+     "text": "Sistolik bosimga"
+    },
+    {
+     "id": "q04-c15-03-d",
+     "text": "Markaziy venoz bosimga"
+    }
+   ],
+   "answerOptionId": "q04-c15-03-c",
+   "explanation": "Birinçi tovuş sistolik bosimni, tovuşlarning yöqolişi esa diastolik bosimni körsatadi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch15",
+    "topicId": "04",
+    "blockId": "ch15-u11",
+    "printedPage": 169,
+    "pdfPage": 174,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c15-04",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch15",
+   "stem": "Tik turgan odamda oyoq venalaridagi bosim (qimirlamay turganda) taxminan qança?",
+   "options": [
+    {
+     "id": "q04-c15-04-a",
+     "text": "~+20 mm Hg"
+    },
+    {
+     "id": "q04-c15-04-b",
+     "text": "~+90 mm Hg"
+    },
+    {
+     "id": "q04-c15-04-c",
+     "text": "~−10 mm Hg"
+    },
+    {
+     "id": "q04-c15-04-d",
+     "text": "~0 mm Hg"
+    }
+   ],
+   "answerOptionId": "q04-c15-04-b",
+   "explanation": "Har 13,6 mm qon ustuni 1 mm Hg qöşadi; öng bölmaça ~0, oyoq venalari ~+90 mm Hg. Yurganda muşak nasosi uni <20 mm Hg da uşlaydi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch15",
+    "topicId": "04",
+    "blockId": "ch15-u15",
+    "printedPage": 169,
+    "pdfPage": 174,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c15-05",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch15",
+   "stem": "Simpatik qözğalişda taloq qisqarganda nima sodir böladi?",
+   "options": [
+    {
+     "id": "q04-c15-05-a",
+     "text": "~50 ml konsentrlangan eritrotsit çiqib, gematokrit 1–2% oşadi"
+    },
+    {
+     "id": "q04-c15-05-b",
+     "text": "Limfotsitlar işlab çiqarilişi töxtaydi"
+    },
+    {
+     "id": "q04-c15-05-c",
+     "text": "Taloq eritrotsitlarni parçalaşni tezlaştiradi"
+    },
+    {
+     "id": "q04-c15-05-d",
+     "text": "Qon hajmi 1 litrga köpayadi"
+    }
+   ],
+   "answerOptionId": "q04-c15-05-a",
+   "explanation": "Taloq qizil pulpasida uşlab qolingan eritrotsitlar simpatik qözğalişda çiqariladi — ~50 ml, gematokrit 1–2% oşadi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch15",
+    "topicId": "04",
+    "blockId": "ch15-u21",
+    "printedPage": 169,
+    "pdfPage": 174,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c16-01",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch16",
+   "stem": "Gematoensefalik tösiqning asosi nima?",
+   "options": [
+    {
+     "id": "q04-c16-01-a",
+     "text": "Limfa tomirlarining köpligi"
+    },
+    {
+     "id": "q04-c16-01-b",
+     "text": "Kapillyar devorining yöqligi"
+    },
+    {
+     "id": "q04-c16-01-c",
+     "text": "Miya kapillyarlaridagi ziç birikmalar"
+    },
+    {
+     "id": "q04-c16-01-d",
+     "text": "Kapillyarlardagi keng fenestralar"
+    }
+   ],
+   "answerOptionId": "q04-c16-01-c",
+   "explanation": "Miya kapillyarlarida asosan ziç birikmalar bor, faqat suv, O₂, CO₂ kabi juda kiçik molekulalar ötadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch16",
+    "topicId": "04",
+    "blockId": "ch16-u3",
+    "printedPage": 179,
+    "pdfPage": 184,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c16-02",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch16",
+   "stem": "Starling kuçlaridan qaysi biri suyuqlikni kapillyar içiga tortadi?",
+   "options": [
+    {
+     "id": "q04-c16-02-a",
+     "text": "Interstitsial kolloid osmotik bosimi (Πif)"
+    },
+    {
+     "id": "q04-c16-02-b",
+     "text": "Manfiy interstitsial gidrostatik bosim"
+    },
+    {
+     "id": "q04-c16-02-c",
+     "text": "Plazma kolloid osmotik (onkotik) bosimi (Πp)"
+    },
+    {
+     "id": "q04-c16-02-d",
+     "text": "Kapillyar gidrostatik bosimi (Pc)"
+    }
+   ],
+   "answerOptionId": "q04-c16-02-c",
+   "explanation": "Πp suyuqlikni içkariga tortadi; Pc, Πif va manfiy Pif esa taşqariga yönaltiradi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch16",
+    "topicId": "04",
+    "blockId": "ch16-u15",
+    "printedPage": 179,
+    "pdfPage": 184,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c16-03",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch16",
+   "stem": "Plazma onkotik bosimining ~80% qismini qaysi oqsil ta’minlaydi?",
+   "options": [
+    {
+     "id": "q04-c16-03-a",
+     "text": "Globulinlar"
+    },
+    {
+     "id": "q04-c16-03-b",
+     "text": "Albumin"
+    },
+    {
+     "id": "q04-c16-03-c",
+     "text": "Gemoglobin"
+    },
+    {
+     "id": "q04-c16-03-d",
+     "text": "Fibrinogen"
+    }
+   ],
+   "answerOptionId": "q04-c16-03-b",
+   "explanation": "Osmotik bosim molekulalar soniga boğliq; albumin eng köp va nisbatan kiçik bölgani uçun Πp ning ~80% ini beradi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch16",
+    "topicId": "04",
+    "blockId": "ch16-u23",
+    "printedPage": 179,
+    "pdfPage": 184,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c16-04",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch16",
+   "stem": "Kapillyar arterial uçida filtrlangan suyuqlikning qança qismi limfa orqali qaytadi?",
+   "options": [
+    {
+     "id": "q04-c16-04-a",
+     "text": "~1/2 qismi"
+    },
+    {
+     "id": "q04-c16-04-b",
+     "text": "~9/10 qismi"
+    },
+    {
+     "id": "q04-c16-04-c",
+     "text": "Hammasi"
+    },
+    {
+     "id": "q04-c16-04-d",
+     "text": "~1/10 qismi"
+    }
+   ],
+   "answerOptionId": "q04-c16-04-d",
+   "explanation": "Filtrlangan suyuqlikning ~9/10 qismi venoz uçida qayta söriladi, qolgan ~1/10 qismi limfaga ötadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch16",
+    "topicId": "04",
+    "blockId": "ch16-u28",
+    "printedPage": 179,
+    "pdfPage": 184,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c16-05",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch16",
+   "stem": "Jigar sirrozi yoki nefrotik sindromda şiş qaysi mexanizm bilan rivojlanadi?",
+   "options": [
+    {
+     "id": "q04-c16-05-a",
+     "text": "Albumin kamayib, plazma onkotik bosimi pasayadi"
+    },
+    {
+     "id": "q04-c16-05-b",
+     "text": "Limfa oqimi 20 marta oşadi"
+    },
+    {
+     "id": "q04-c16-05-c",
+     "text": "Kapillyar gidrostatik bosimi keskin pasayadi"
+    },
+    {
+     "id": "q04-c16-05-d",
+     "text": "Interstitsial bosim manfiyroq böladi"
+    }
+   ],
+   "answerOptionId": "q04-c16-05-a",
+   "explanation": "Albumin kamayişi Πp ni tuşiradi, suyuqlik içkariga yetarli tortilmaydi va interstitsiyda töplanadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch16",
+    "topicId": "04",
+    "blockId": "ch16-u41",
+    "printedPage": 179,
+    "pdfPage": 184,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c17-01",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch17",
+   "stem": "Bazal holatda yurak çiqarişining eng katta uluşini qaysi a’zolar oladi?",
+   "options": [
+    {
+     "id": "q04-c17-01-a",
+     "text": "Miya (~50%)"
+    },
+    {
+     "id": "q04-c17-01-b",
+     "text": "Jigar (~27%) va buyraklar (~22%)"
+    },
+    {
+     "id": "q04-c17-01-c",
+     "text": "Teri (~30%)"
+    },
+    {
+     "id": "q04-c17-01-d",
+     "text": "Yurak (~20%)"
+    }
+   ],
+   "answerOptionId": "q04-c17-01-b",
+   "explanation": "Jadval 17-1: jigar 27%, buyraklar 22%, muşaklar 15%, miya 14%.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch17",
+    "topicId": "04",
+    "blockId": "ch17-u5",
+    "printedPage": 191,
+    "pdfPage": 196,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c17-02",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch17",
+   "stem": "Arteriya qisqa vaqt yopilib, keyin oçilganda oqimning normadan 4–7 marta oşişi nima deyiladi?",
+   "options": [
+    {
+     "id": "q04-c17-02-a",
+     "text": "Reaktiv giperemiya"
+    },
+    {
+     "id": "q04-c17-02-b",
+     "text": "Aktiv giperemiya"
+    },
+    {
+     "id": "q04-c17-02-c",
+     "text": "Vazomotsiya"
+    },
+    {
+     "id": "q04-c17-02-d",
+     "text": "Autoregulyatsiya"
+    }
+   ],
+   "answerOptionId": "q04-c17-02-a",
+   "explanation": "Reaktiv giperemiyada ortiqça oqim yopiliş davrida töplangan O₂ qarzini deyarli aniq qoplaydi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch17",
+    "topicId": "04",
+    "blockId": "ch17-u9",
+    "printedPage": 191,
+    "pdfPage": 196,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c17-03",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch17",
+   "stem": "Miogen autoregulyatsiya qanday işlaydi?",
+   "options": [
+    {
+     "id": "q04-c17-03-a",
+     "text": "Simpatik nerv çözilişni sezib tomirni kengaytiradi"
+    },
+    {
+     "id": "q04-c17-03-b",
+     "text": "Tomir çözilganda silliq muşak depolyarizatsiyalanib, Ca²⁺ kiradi va tomir torayadi"
+    },
+    {
+     "id": "q04-c17-03-c",
+     "text": "O₂ köpaysa tomir kengayadi"
+    },
+    {
+     "id": "q04-c17-03-d",
+     "text": "Endoteliy çözilganda endotelin kamayadi"
+    }
+   ],
+   "answerOptionId": "q04-c17-03-b",
+   "explanation": "Miogen javob nerv va gormonlarsiz işlaydi; asosiy roli tomirni ortiqça çözilişdan himoya qiliş.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch17",
+    "topicId": "04",
+    "blockId": "ch17-u11",
+    "printedPage": 191,
+    "pdfPage": 196,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c17-04",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch17",
+   "stem": "Azot oksidi (NO) tomirni qaysi yöl orqali böşaştiradi?",
+   "options": [
+    {
+     "id": "q04-c17-04-a",
+     "text": "Adenilatsiklaza → cAMP → PKA"
+    },
+    {
+     "id": "q04-c17-04-b",
+     "text": "Ca²⁺-kalmodulin → MLCK"
+    },
+    {
+     "id": "q04-c17-04-c",
+     "text": "Fosfolipaza C → IP₃ → Ca²⁺"
+    },
+    {
+     "id": "q04-c17-04-d",
+     "text": "Guanilatsiklaza → cGMP → PKG"
+    }
+   ],
+   "answerOptionId": "q04-c17-04-d",
+   "explanation": "NO eruvçan guanilatsiklazani faollaştiradi → cGMP → PKG → tomir böşaşadi. Sildenafil cGMP parçalanişini töxtatadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch17",
+    "topicId": "04",
+    "blockId": "ch17-u13",
+    "printedPage": 191,
+    "pdfPage": 196,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c17-05",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch17",
+   "stem": "Gipoksiyada angiogenezni asosan qaysi omil işga tuşiradi?",
+   "options": [
+    {
+     "id": "q04-c17-05-a",
+     "text": "Endotelin"
+    },
+    {
+     "id": "q04-c17-05-b",
+     "text": "Angiostatin"
+    },
+    {
+     "id": "q04-c17-05-c",
+     "text": "Endostatin"
+    },
+    {
+     "id": "q04-c17-05-d",
+     "text": "HIF (gipoksiya bilan induksiyalanuvçi omil) — u VEGF va boşqa ösiş omillarini köpaytiradi"
+    }
+   ],
+   "answerOptionId": "q04-c17-05-d",
+   "explanation": "Gipoksiya HIF ni faollaştiradi, u esa VEGF, FGF, PDGF, angiogenin kabi ösiş omillarini köpaytiradi. Angiostatin va endostatin esa ingibitorlar.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch17",
+    "topicId": "04",
+    "blockId": "ch17-u15",
+    "printedPage": 191,
+    "pdfPage": 196,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c18-01",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch18",
+   "stem": "Uzunçoq miyadagi vazomotor markazning qaysi qismi IX va X nervlardan signal olib reflekslarni boşqaradi?",
+   "options": [
+    {
+     "id": "q04-c18-01-a",
+     "text": "Nucleus tractus solitarius (NTS) — sensor soha"
+    },
+    {
+     "id": "q04-c18-01-b",
+     "text": "Gipotalamusning oldingi qismi"
+    },
+    {
+     "id": "q04-c18-01-c",
+     "text": "Vazodilatator soha"
+    },
+    {
+     "id": "q04-c18-01-d",
+     "text": "Vazokonstriktor soha"
+    }
+   ],
+   "answerOptionId": "q04-c18-01-a",
+   "explanation": "NTS IX va X nervlar orqali signallarni qabul qilib, baroreflek kabi reflekslarni boşqaradi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch18",
+    "topicId": "04",
+    "blockId": "ch18-u8",
+    "printedPage": 203,
+    "pdfPage": 208,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c18-02",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch18",
+   "stem": "Simpatik vazokonstriktor tolalar doimiy ravişda qanday çastotada razryad beradi?",
+   "options": [
+    {
+     "id": "q04-c18-02-a",
+     "text": "100 impuls/s"
+    },
+    {
+     "id": "q04-c18-02-b",
+     "text": "20–50 impuls/s"
+    },
+    {
+     "id": "q04-c18-02-c",
+     "text": "Razryad bermaydi, faqat stressda işlaydi"
+    },
+    {
+     "id": "q04-c18-02-d",
+     "text": "0,5–2 impuls/s"
+    }
+   ],
+   "answerOptionId": "q04-c18-02-d",
+   "explanation": "Bu doimiy razryad vazomotor tonusni ta’minlaydi; töliq spinal anesteziyada bosim 100 dan 50 mm Hg ga tuşadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch18",
+    "topicId": "04",
+    "blockId": "ch18-u10",
+    "printedPage": 203,
+    "pdfPage": 208,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c18-03",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch18",
+   "stem": "Simpatik vazokonstriktor tolalar uçida qaysi mediator ajraladi?",
+   "options": [
+    {
+     "id": "q04-c18-03-a",
+     "text": "Dofamin"
+    },
+    {
+     "id": "q04-c18-03-b",
+     "text": "Noradrenalin (α-retseptorlarga ta’sir qiladi)"
+    },
+    {
+     "id": "q04-c18-03-c",
+     "text": "Adrenalin (β₂-retseptorlarga)"
+    },
+    {
+     "id": "q04-c18-03-d",
+     "text": "Atsetilxolin (M-retseptorlarga)"
+    }
+   ],
+   "answerOptionId": "q04-c18-03-b",
+   "explanation": "Vazokonstriktor tolalar noradrenalin çiqaradi va u α-retseptorlar orqali tomirni toraytiradi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch18",
+    "topicId": "04",
+    "blockId": "ch18-u16",
+    "printedPage": 203,
+    "pdfPage": 208,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c18-04",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch18",
+   "stem": "Vazovagal sinkopda huşdan ketiş mexanizmi qanday?",
+   "options": [
+    {
+     "id": "q04-c18-04-a",
+     "text": "Muşaklarda tomir kengayadi va vagus yurakni keskin sekinlaştiradi"
+    },
+    {
+     "id": "q04-c18-04-b",
+     "text": "Venoz qaytiş keskin oşadi"
+    },
+    {
+     "id": "q04-c18-04-c",
+     "text": "Miya tomirlari torayadi va CO₂ töplanadi"
+    },
+    {
+     "id": "q04-c18-04-d",
+     "text": "Simpatik tizim kuçli qözğalib, bosim keskin oşadi"
+    }
+   ],
+   "answerOptionId": "q04-c18-04-a",
+   "explanation": "Emotsional qözğalişda vazodilatator tizim faollaşib, bir vaqtda vagus yurakni sekinlaştiradi — bosim tuşib, miyaga qon kamayadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch18",
+    "topicId": "04",
+    "blockId": "ch18-u20",
+    "printedPage": 203,
+    "pdfPage": 208,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c19-01",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch19",
+   "stem": "Arterial bosimni uzoq muddatda asosan qaysi tizim belgilaydi?",
+   "options": [
+    {
+     "id": "q04-c19-01-a",
+     "text": "Buyrak–tana suyuqligi tizimi (bosim diurezi va natriyurezi)"
+    },
+    {
+     "id": "q04-c19-01-b",
+     "text": "Kemoreseptorlar"
+    },
+    {
+     "id": "q04-c19-01-c",
+     "text": "Baroreseptor refleksi"
+    },
+    {
+     "id": "q04-c19-01-d",
+     "text": "Simpatik vazokonstriktor tonus"
+    }
+   ],
+   "answerOptionId": "q04-c19-01-a",
+   "explanation": "Bosim oşsa buyrak köproq suv va tuz çiqaradi, qon hajmi kamayib bosim pasayadi; bu tizimning kuçaytiriş koeffitsienti deyarli çeksiz.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch19",
+    "topicId": "04",
+    "blockId": "ch19-u1",
+    "printedPage": 215,
+    "pdfPage": 220,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c19-02",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch19",
+   "stem": "Uzoq muddatli arterial bosimni qaysi ikki omil özgartira oladi?",
+   "options": [
+    {
+     "id": "q04-c19-02-a",
+     "text": "Buyrak çiqariş egri çiziğining siljişi va tuz-suv iste’moli darajasi"
+    },
+    {
+     "id": "q04-c19-02-b",
+     "text": "Baroreseptor sezgirligi va nafas çastotasi"
+    },
+    {
+     "id": "q04-c19-02-c",
+     "text": "Yurak çastotasi va qon qovuşqoqligi"
+    },
+    {
+     "id": "q04-c19-02-d",
+     "text": "Faqat umumiy periferik qarşilik"
+    }
+   ],
+   "answerOptionId": "q04-c19-02-a",
+   "explanation": "Muvozanat nuqtasi buyrak çiqariş egri çiziği va iste’mol çiziği kesişgan joyda; faqat şu ikkisi uni özgartiradi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch19",
+    "topicId": "04",
+    "blockId": "ch19-u2",
+    "printedPage": 215,
+    "pdfPage": 220,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c19-03",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch19",
+   "stem": "Umumiy periferik qarşilik oşsa, lekin buyrak normal işlasa, arterial bosim qanday özgaradi?",
+   "options": [
+    {
+     "id": "q04-c19-03-a",
+     "text": "Özgarmaydi"
+    },
+    {
+     "id": "q04-c19-03-b",
+     "text": "Darhol pasayadi"
+    },
+    {
+     "id": "q04-c19-03-c",
+     "text": "Doimiy ravişda yuqori bölib qoladi"
+    },
+    {
+     "id": "q04-c19-03-d",
+     "text": "Darhol kötariladi, lekin 1–2 kunda bosim diurezi orqali normaga qaytadi"
+    }
+   ],
+   "answerOptionId": "q04-c19-03-d",
+   "explanation": "Bosimni uzoq muddat kötaradigan narsa buyrak içidagi qarşilik (egri çiziq siljişi), butun tana qarşiligining özi emas.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch19",
+    "topicId": "04",
+    "blockId": "ch19-u10",
+    "printedPage": 215,
+    "pdfPage": 220,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c19-04",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch19",
+   "stem": "Normal odamda tuz iste’moli 6 marta oşsa, arterial bosim qanday özgaradi?",
+   "options": [
+    {
+     "id": "q04-c19-04-a",
+     "text": "50 mm Hg ga oşadi"
+    },
+    {
+     "id": "q04-c19-04-b",
+     "text": "6 marta oşadi"
+    },
+    {
+     "id": "q04-c19-04-c",
+     "text": "Keskin pasayadi"
+    },
+    {
+     "id": "q04-c19-04-d",
+     "text": "Deyarli özgarmaydi (tuzga sezgir emas)"
+    }
+   ],
+   "answerOptionId": "q04-c19-04-d",
+   "explanation": "Normal surunkali buyrak egri çiziği juda tik; tuzga sezgirlik nefronlar yöqolganda yoki angiotenzin II/aldosteron ortiqça bölganda paydo böladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch19",
+    "topicId": "04",
+    "blockId": "ch19-u5",
+    "printedPage": 215,
+    "pdfPage": 220,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c20-01",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch20",
+   "stem": "Normal şaroitda yurak çiqarişini asosan nima belgilaydi?",
+   "options": [
+    {
+     "id": "q04-c20-01-a",
+     "text": "Periferik omillar — venoz qaytiş (Frank–Starling mexanizmi orqali)"
+    },
+    {
+     "id": "q04-c20-01-b",
+     "text": "Faqat yurak uriş çastotasi"
+    },
+    {
+     "id": "q04-c20-01-c",
+     "text": "Aortaning diametri"
+    },
+    {
+     "id": "q04-c20-01-d",
+     "text": "Faqat simpatik nerv tizimi"
+    }
+   ],
+   "answerOptionId": "q04-c20-01-a",
+   "explanation": "Yurak öziga kelgan qonni avtomatik haydaydi, şuning uçun yurak çiqarişi asosan venoz qaytiş bilan belgilanadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch20",
+    "topicId": "04",
+    "blockId": "ch20-u2",
+    "printedPage": 231,
+    "pdfPage": 236,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c20-02",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch20",
+   "stem": "Yurak indeksi örtaça qança?",
+   "options": [
+    {
+     "id": "q04-c20-02-a",
+     "text": "~5 l/min/m²"
+    },
+    {
+     "id": "q04-c20-02-b",
+     "text": "~1 l/min/m²"
+    },
+    {
+     "id": "q04-c20-02-c",
+     "text": "~3 l/min/m²"
+    },
+    {
+     "id": "q04-c20-02-d",
+     "text": "~13 l/min/m²"
+    }
+   ],
+   "answerOptionId": "q04-c20-02-c",
+   "explanation": "70 kg odamda tana yuzasi ~1,7 m², yurak çiqarişi ~5 l/min, indeks ~3 l/min/m².",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch20",
+    "topicId": "04",
+    "blockId": "ch20-u6",
+    "printedPage": 231,
+    "pdfPage": 236,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c20-03",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch20",
+   "stem": "Quyidagi holatlardan qaysi birida yurak çiqarişi surunkali ravişda yuqori böladi?",
+   "options": [
+    {
+     "id": "q04-c20-03-a",
+     "text": "Beriberi, AV fistula, gipertireoz, anemiya"
+    },
+    {
+     "id": "q04-c20-03-b",
+     "text": "Kardiogen şok"
+    },
+    {
+     "id": "q04-c20-03-c",
+     "text": "Gipotireoz va tört oyoq-qöl amputatsiyasi"
+    },
+    {
+     "id": "q04-c20-03-d",
+     "text": "Yurak tamponadasi"
+    }
+   ],
+   "answerOptionId": "q04-c20-03-a",
+   "explanation": "Yuqori yurak çiqarişi deyarli doim umumiy periferik qarşilikning surunkali pasayişidan kelib çiqadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch20",
+    "topicId": "04",
+    "blockId": "ch20-u12",
+    "printedPage": 231,
+    "pdfPage": 236,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c20-04",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch20",
+   "stem": "Simpatik qözğaliş bilan birga yurak çiqarişining maksimal platosi taxminan qançaga yetadi?",
+   "options": [
+    {
+     "id": "q04-c20-04-a",
+     "text": "~60 l/min"
+    },
+    {
+     "id": "q04-c20-04-b",
+     "text": "~5 l/min"
+    },
+    {
+     "id": "q04-c20-04-c",
+     "text": "~25 l/min"
+    },
+    {
+     "id": "q04-c20-04-d",
+     "text": "~13 l/min"
+    }
+   ],
+   "answerOptionId": "q04-c20-04-c",
+   "explanation": "Normal plato ~13 l/min; simpatik qözğalişda ~25 l/min; gipertrofiya bilan birga 30–40 l/min gaça.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch20",
+    "topicId": "04",
+    "blockId": "ch20-u8",
+    "printedPage": 231,
+    "pdfPage": 236,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c21-01",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch21",
+   "stem": "Juda oğir maşqda skelet muşagi qon oqimi qançaga oşadi?",
+   "options": [
+    {
+     "id": "q04-c21-01-a",
+     "text": "2 marta"
+    },
+    {
+     "id": "q04-c21-01-b",
+     "text": "25–50 marta (100–200 ml/min/100 g)"
+    },
+    {
+     "id": "q04-c21-01-c",
+     "text": "1000 marta"
+    },
+    {
+     "id": "q04-c21-01-d",
+     "text": "5 marta"
+    }
+   ],
+   "answerOptionId": "q04-c21-01-b",
+   "explanation": "Tinç holatda 3–4 ml/min/100 g; juda oğir maşqda 25–50 marta oşadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch21",
+    "topicId": "04",
+    "blockId": "ch21-u5",
+    "printedPage": 245,
+    "pdfPage": 250,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c21-02",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch21",
+   "stem": "Maşq paytida muşak qon oqimining asosiy nazorat omili nima?",
+   "options": [
+    {
+     "id": "q04-c21-02-a",
+     "text": "Vazopressin"
+    },
+    {
+     "id": "q04-c21-02-b",
+     "text": "O₂ ning kamayişi (töğridan-töğri va vazodilatatorlar orqali)"
+    },
+    {
+     "id": "q04-c21-02-c",
+     "text": "Angiotenzin II"
+    },
+    {
+     "id": "q04-c21-02-d",
+     "text": "Simpatik vazokonstriktorlar"
+    }
+   ],
+   "answerOptionId": "q04-c21-02-b",
+   "explanation": "O₂ kamayişi tomirni bevosita böşaştiradi va vazodilatatorlarni (adenozin, K⁺, sut kislotasi, CO₂) çiqartiradi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch21",
+    "topicId": "04",
+    "blockId": "ch21-u5",
+    "printedPage": 245,
+    "pdfPage": 250,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c21-03",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch21",
+   "stem": "Maşq paytida qaysi tomirlar simpatik torayişdan saqlanadi?",
+   "options": [
+    {
+     "id": "q04-c21-03-a",
+     "text": "Buyrak va içak tomirlari"
+    },
+    {
+     "id": "q04-c21-03-b",
+     "text": "Taloq tomirlari"
+    },
+    {
+     "id": "q04-c21-03-c",
+     "text": "Teri tomirlari"
+    },
+    {
+     "id": "q04-c21-03-d",
+     "text": "Koronar va miya tomirlari"
+    }
+   ],
+   "answerOptionId": "q04-c21-03-d",
+   "explanation": "Koronar va miya tomirlarining vazokonstriktor innervatsiyasi kuçsiz, şuning uçun ular torayişdan saqlanadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch21",
+    "topicId": "04",
+    "blockId": "ch21-u9",
+    "printedPage": 245,
+    "pdfPage": 250,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c21-04",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch21",
+   "stem": "Butun tana maşqida (yuguriş, suziş) arterial bosim odatda qançaga kötariladi?",
+   "options": [
+    {
+     "id": "q04-c21-04-a",
+     "text": "5 mm Hg ga pasayadi"
+    },
+    {
+     "id": "q04-c21-04-b",
+     "text": "100 mm Hg"
+    },
+    {
+     "id": "q04-c21-04-c",
+     "text": "20–40 mm Hg"
+    },
+    {
+     "id": "q04-c21-04-d",
+     "text": "Umuman özgarmaydi"
+    }
+   ],
+   "answerOptionId": "q04-c21-04-c",
+   "explanation": "Köp muşak kengaygani uçun bosim faqat 20–40 mm Hg kötariladi; kam muşak işlab tarang turganda 170 mm Hg gaça çiqişi mumkin.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch21",
+    "topicId": "04",
+    "blockId": "ch21-u11",
+    "printedPage": 245,
+    "pdfPage": 250,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c22-01",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch22",
+   "stem": "Yurak yetişmovçiligining eng köp uçraydigan sababi nima?",
+   "options": [
+    {
+     "id": "q04-c22-01-a",
+     "text": "Tuğma klapan nuqsoni"
+    },
+    {
+     "id": "q04-c22-01-b",
+     "text": "Koronar işemiya tufayli miokard qisqaruvçanligining pasayişi"
+    },
+    {
+     "id": "q04-c22-01-c",
+     "text": "B vitamini tanqisligi"
+    },
+    {
+     "id": "q04-c22-01-d",
+     "text": "Yurakka taşqi bosim"
+    }
+   ],
+   "answerOptionId": "q04-c22-01-b",
+   "explanation": "Eng köp sabab — koronar işemiya; boşqa sabablari: klapan nuqsonlari, taşqi bosim, B vitamini tanqisligi, birlamçi muşak kasalligi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch22",
+    "topicId": "04",
+    "blockId": "ch22-u1",
+    "printedPage": 256,
+    "pdfPage": 261,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c22-02",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch22",
+   "stem": "Ötkir yurak yetişmovçiligidan keyin simpatik reflekslar qança vaqtda töliq kuçiga çiqadi?",
+   "options": [
+    {
+     "id": "q04-c22-02-a",
+     "text": "~24 soat"
+    },
+    {
+     "id": "q04-c22-02-b",
+     "text": "~5–7 hafta"
+    },
+    {
+     "id": "q04-c22-02-c",
+     "text": "~30 s içida"
+    },
+    {
+     "id": "q04-c22-02-d",
+     "text": "~1 hafta"
+    }
+   ],
+   "answerOptionId": "q04-c22-02-c",
+   "explanation": "Reflekslar ~30 s da töliq işlaydi, yurak çiqarişi egri çiziği ~2 marta kötariladi, Psf 7 dan 12–14 mm Hg ga oşadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch22",
+    "topicId": "04",
+    "blockId": "ch22-u12",
+    "printedPage": 256,
+    "pdfPage": 261,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c22-03",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch22",
+   "stem": "Kompensatsiyalangan yurak yetişmovçiligida örtaça suyuqlik uşlanişining foydasi nimada?",
+   "options": [
+    {
+     "id": "q04-c22-03-a",
+     "text": "Yurak uriş tezligi kamayadi"
+    },
+    {
+     "id": "q04-c22-03-b",
+     "text": "Psf oşib, venoz qaytiş köpayadi va tinç holatda yurak çiqarişi deyarli normal saqlanadi"
+    },
+    {
+     "id": "q04-c22-03-c",
+     "text": "Yurakning maksimal nasos qobiliyati normaga qaytadi"
+    },
+    {
+     "id": "q04-c22-03-d",
+     "text": "Arterial bosim keskin pasayadi"
+    }
+   ],
+   "answerOptionId": "q04-c22-03-b",
+   "explanation": "Örtaça suyuqlik uşlanişi Psf ni oşiradi va venoz qaytişga qarşilikni kamaytiradi; nasos 40–50% ga tuşsa ham tinç holatda çiqariş normal böladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch22",
+    "topicId": "04",
+    "blockId": "ch22-u14",
+    "printedPage": 256,
+    "pdfPage": 261,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c22-04",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch22",
+   "stem": "Dekompensatsiyalangan yurak yetişmovçiligining tipik belgilari qaysilar?",
+   "options": [
+    {
+     "id": "q04-c22-04-a",
+     "text": "Gematokritning keskin oşişi"
+    },
+    {
+     "id": "q04-c22-04-b",
+     "text": "Siydikning köpayişi"
+    },
+    {
+     "id": "q04-c22-04-c",
+     "text": "Öpka şişi, nam xirillaşlar va hansiraş"
+    },
+    {
+     "id": "q04-c22-04-d",
+     "text": "Bradikardiya va gipertoniya"
+    }
+   ],
+   "answerOptionId": "q04-c22-04-c",
+   "explanation": "Suyuqlik uzluksiz uşlanib ayovsiz doira hosil böladi; şiş, ayniqsa öpka şişi, rales va dispnoe paydo böladi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch22",
+    "topicId": "04",
+    "blockId": "ch22-u20",
+    "printedPage": 256,
+    "pdfPage": 261,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c23-01",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch23",
+   "stem": "Birinçi yurak toni (I ton, \"lub\") qaçon hosil böladi?",
+   "options": [
+    {
+     "id": "q04-c23-01-a",
+     "text": "Sistola boşida A-V klapanlar yopilganda"
+    },
+    {
+     "id": "q04-c23-01-b",
+     "text": "Diastola örtasida"
+    },
+    {
+     "id": "q04-c23-01-c",
+     "text": "Klapanlar oçilganda"
+    },
+    {
+     "id": "q04-c23-01-d",
+     "text": "Sistola oxirida yarimoysimon klapanlar yopilganda"
+    }
+   ],
+   "answerOptionId": "q04-c23-01-a",
+   "explanation": "I ton A-V klapanlar (trikuspidal va mitral) yopilişidan, II ton yarimoysimon klapanlar yopilişidan hosil böladi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch23",
+    "topicId": "04",
+    "blockId": "ch23-u3",
+    "printedPage": 267,
+    "pdfPage": 272,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c23-02",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch23",
+   "stem": "Mitral klapanni eşitiş nuqtasi qayerda?",
+   "options": [
+    {
+     "id": "q04-c23-02-a",
+     "text": "Öng qorinça ustida"
+    },
+    {
+     "id": "q04-c23-02-b",
+     "text": "Töş suyagining öng çetida, 2-qovurğa oraliğida"
+    },
+    {
+     "id": "q04-c23-02-c",
+     "text": "Yurak çöqqisida"
+    },
+    {
+     "id": "q04-c23-02-d",
+     "text": "Böyinda"
+    }
+   ],
+   "answerOptionId": "q04-c23-02-c",
+   "explanation": "Eşitiş nuqtalari tovuş tarqaladigan yönalişda: mitral — çöqqida, trikuspidal — öng qorinça ustida, aorta va öpka — tegişli arteriyalar böylab yuqorida.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch23",
+    "topicId": "04",
+    "blockId": "ch23-u3",
+    "printedPage": 267,
+    "pdfPage": 272,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c23-03",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch23",
+   "stem": "Revmatik klapan kasalligi qaysi mikroorganizm bilan boğliq?",
+   "options": [
+    {
+     "id": "q04-c23-03-a",
+     "text": "Stafilokokk"
+    },
+    {
+     "id": "q04-c23-03-b",
+     "text": "Pnevmokokk"
+    },
+    {
+     "id": "q04-c23-03-c",
+     "text": "A guruh gemolitik streptokokk"
+    },
+    {
+     "id": "q04-c23-03-d",
+     "text": "Içak tayoqçasi"
+    }
+   ],
+   "answerOptionId": "q04-c23-03-c",
+   "explanation": "Streptokokk oqsillariga qarşi antitanalar tananing öz oqsillariga hujum qiladi; eng köp mitral, keyin aorta klapani zararlanadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch23",
+    "topicId": "04",
+    "blockId": "ch23-u6",
+    "printedPage": 267,
+    "pdfPage": 272,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c23-04",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch23",
+   "stem": "Klapan stenozi va regurgitatsiyasida eşitiladigan şovqin (murmur) nima sababdan paydo böladi?",
+   "options": [
+    {
+     "id": "q04-c23-04-a",
+     "text": "Laminar oqim tezlaşganidan"
+    },
+    {
+     "id": "q04-c23-04-b",
+     "text": "Perikard işqalanişidan"
+    },
+    {
+     "id": "q04-c23-04-c",
+     "text": "Klapanlarning oçilişidan"
+    },
+    {
+     "id": "q04-c23-04-d",
+     "text": "Turbulent qon oqimidan"
+    }
+   ],
+   "answerOptionId": "q04-c23-04-d",
+   "explanation": "Stenoz ham, regurgitatsiya ham turbulent oqim hosil qiladi va u şovqin sifatida eşitiladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch23",
+    "topicId": "04",
+    "blockId": "ch23-u1",
+    "printedPage": 267,
+    "pdfPage": 272,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c24-01",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch24",
+   "stem": "Şok deb nimaga aytiladi?",
+   "options": [
+    {
+     "id": "q04-c24-01-a",
+     "text": "Butun tanada qon oqimining töqimalar şikastlanadigan darajada yetişmasligi"
+    },
+    {
+     "id": "q04-c24-01-b",
+     "text": "Faqat arterial bosimning 90 mm Hg dan pastga tuşişi"
+    },
+    {
+     "id": "q04-c24-01-c",
+     "text": "Yurak urişining töxtaşi"
+    },
+    {
+     "id": "q04-c24-01-d",
+     "text": "Qon hajmining 10% ga kamayişi"
+    }
+   ],
+   "answerOptionId": "q04-c24-01-a",
+   "explanation": "Şokda hujayralarga O₂ va ozuqa yetmaydi; şok bir marta boşlansa özini özi kuçaytiradi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch24",
+    "topicId": "04",
+    "blockId": "ch24-u1",
+    "printedPage": 276,
+    "pdfPage": 281,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c24-02",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch24",
+   "stem": "Simpatik reflekslar bölganda odam 30 daqiqada qon hajmining qança qismini yöqotişiga çidaşi mumkin?",
+   "options": [
+    {
+     "id": "q04-c24-02-a",
+     "text": "60–70%"
+    },
+    {
+     "id": "q04-c24-02-b",
+     "text": "30–40%"
+    },
+    {
+     "id": "q04-c24-02-c",
+     "text": "5%"
+    },
+    {
+     "id": "q04-c24-02-d",
+     "text": "15–20%"
+    }
+   ],
+   "answerOptionId": "q04-c24-02-b",
+   "explanation": "Reflekslarsiz 15–20% yöqotişda ölim keladi, reflekslar bilan 30–40% ga çidaş mumkin — çidamlilik ~2 baravar oşadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch24",
+    "topicId": "04",
+    "blockId": "ch24-u9",
+    "printedPage": 276,
+    "pdfPage": 281,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c24-03",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch24",
+   "stem": "Şokda yurak va miya qon oqimi qaçongaça normal saqlanadi?",
+   "options": [
+    {
+     "id": "q04-c24-03-a",
+     "text": "Örtaça arterial bosim ~70 mm Hg dan pastga tuşmagunça"
+    },
+    {
+     "id": "q04-c24-03-b",
+     "text": "Faqat qon yöqotiş 5% dan kam bölganda"
+    },
+    {
+     "id": "q04-c24-03-c",
+     "text": "Umuman saqlanmaydi"
+    },
+    {
+     "id": "q04-c24-03-d",
+     "text": "Bosim 120 mm Hg dan pastga tuşmagunça"
+    }
+   ],
+   "answerOptionId": "q04-c24-03-a",
+   "explanation": "Bu a’zolarda simpatik torayiş kuçsiz va autoregulyatsiya yaxşi, şuning uçun bosim ~70 mm Hg gaça ular himoyalangan.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch24",
+    "topicId": "04",
+    "blockId": "ch24-u9",
+    "printedPage": 276,
+    "pdfPage": 281,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q04-c24-04",
+   "version": 1,
+   "topicId": "04",
+   "lessonId": "ch24",
+   "stem": "Nima uçun arterial bosim şok uçun işonçli körsatkiç emas?",
+   "options": [
+    {
+     "id": "q04-c24-04-a",
+     "text": "Şokda bosim doimo 0 ga teng"
+    },
+    {
+     "id": "q04-c24-04-b",
+     "text": "Bosim faqat kardiogen şokda özgaradi"
+    },
+    {
+     "id": "q04-c24-04-c",
+     "text": "Kuçli reflekslar tufayli oğir şokda ham bosim deyarli normal bölişi mumkin"
+    },
+    {
+     "id": "q04-c24-04-d",
+     "text": "Bosimni şokda ölçab bölmaydi"
+    }
+   ],
+   "answerOptionId": "q04-c24-04-c",
+   "explanation": "Reflekslar asosan qarşilikni oşirib bosimni uşlab turadi, töqimalar esa bu paytda yetarli qon olmasligi mumkin.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch24",
+    "topicId": "04",
+    "blockId": "ch24-u5",
+    "printedPage": 276,
+    "pdfPage": 281,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  }
+ ]
+}

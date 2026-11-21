@@ -1,0 +1,546 @@
+{
+ "lessonId": "ch28",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 28,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "manual",
+ "translator": "Claude (DrStudy sessiyasi)",
+ "model": null,
+ "createdAt": "2026-11-18T06:06:16.210Z",
+ "updatedAt": "2026-11-18T06:06:16.211Z",
+ "coverage": {
+  "translated": 185,
+  "total": 185
+ },
+ "note": "Kitob matnining töliq özbekça tarjimasi (qisqartirilmagan). Ekspert tekşiruvidan ötmagan.",
+ "blocks": {
+  "ch28-f0": {
+   "text": "Koptokça filtrati buyrak kanalçalariga tuşgaç, siydik sifatida çiqarilişidan oldin kanalçaning ketma-ket joylaşgan qismlari — _proksimal kanalça, Henle qovuzloği, distal kanalça, yiğuvçi kanalça_ va _yiğuvçi nay_ — orqali birin-ketin oqib ötadi. Şu yöl davomida ayrim moddalar kanalçalardan tanlab qonga qayta söriladi, boşqalari esa qondan kanalça böşliğiga sekretsiya qilinadi. Natijada hosil bölgan siydik va undagi barça moddalar buyrakdagi uçta asosiy jarayon — koptokça filtratsiyasi, kanalça reabsorbsiyasi va kanalça sekretsiyasi — yiğindisini ifodalaydi:"
+  },
+  "ch28-f1": {
+   "text": "Köpgina moddalar uçun siydik bilan yakuniy çiqariliş tezligini belgilaşda kanalça reabsorbsiyasi sekretsiyaga qaraganda ança muhimroq rol öynaydi. Biroq siydikda paydo böladigan kaliy ionlari, vodorod ionlari va boşqa ayrim moddalarning sezilarli miqdori aynan kanalça sekretsiyasi hisobiga töğri keladi."
+  },
+  "ch28-f2": {
+   "text": "Kanalça reabsorbsiyasi miqdoran katta va yuqori darajada tanlovçan"
+  },
+  "ch28-f3": {
+   "text": "**Jadval 28-1** da buyraklarda erkin filtrlanadigan va turli tezlikda reabsorbsiyalanadigan bir neçta moddaning buyrakda qanday “qayta işlanişi” körsatilgan. Bu moddalarning har biri filtrlanadigan tezlik quyidagiça hisoblanadi:"
+  },
+  "ch28-f5": {
+   "text": "Bu hisob modda erkin filtrlanadi va plazma oqsillari bilan boğlanmagan, degan farazga asoslanadi. Masalan, plazmadagi glukoza konsentratsiyasi 1 g/L bölsa, har kuni filtrlanadigan glukoza miqdori taxminan 180 L/kun × 1 g/L, ya’ni 180 g/kun ni taşkil qiladi. Me’yorda filtrlangan glukozaning deyarli heç qançasi siydik bilan çiqarilmagani sababli, glukoza reabsorbsiyasining tezligi ham 180 g/kun ga teng."
+  },
+  "ch28-f6": {
+   "text": "**Jadval 28-1** dan ikki narsa darhol közga taşlanadi. Birinçidan, köpgina moddalar uçun koptokça filtratsiyasi va kanalça reabsorbsiyasi jarayonlari siydik bilan çiqarilişga nisbatan miqdoran juda katta. Şu sababli koptokça filtratsiyasi yoki kanalça reabsorbsiyasidagi kiçik özgariş siydik bilan çiqarilişda nisbatan katta özgarişga olib kelişi mumkin. Masalan, koptokça filtratsiyasi tezligi (KFT; glomerular filtration rate, GFR) özgarmay qolgan holda kanalça reabsorbsiyasining 10% ga, ya’ni 178,5 dan 160,7 L/kun gaça kamayişi siydik hajmini 1,5 dan 19,3 L/kun gaça (deyarli 13 baravar) oşirgan bölar edi. Aslida esa kanalça reabsorbsiyasi va koptokça filtratsiyasidagi özgarişlar özaro çambarças muvofiqlaştirilgan böladi, şuning uçun siydik bilan çiqarilişda katta tebranişlar yuzaga kelmaydi."
+  },
+  "ch28-f7": {
+   "text": "Ikkinçidan, nisbatan tanlovsiz bölgan koptokça filtratsiyasidan (plazmadagi deyarli barça erigan moddalar, plazma oqsillari yoki ular bilan boğlangan moddalardan taşqari, filtrlanadi) farqli ölaroq, _kanalça reabsorbsiyasi yuqori darajada tanlovçandir_. Glukoza va aminokislotalar kabi ayrim moddalar kanalçalardan deyarli töliq reabsorbsiyalanadi, şuning uçun ularning siydik bilan çiqariliş tezligi amalda nolga teng. Plazmadagi köplab ionlar, masalan, natriy, xlorid va bikarbonat ham kuçli reabsorbsiyalanadi, biroq ularning reabsorbsiyasi va siydik bilan çiqariliş tezligi organizm ehtiyojiga qarab özgarib turadi. Aksinça, moçevina va kreatinin kabi çiqindi mahsulotlar kanalçalardan yomon reabsorbsiyalanadi va nisbatan katta miqdorda çiqariladi."
+  },
+  "ch28-f8": {
+   "text": "Demak, buyraklar turli moddalarning reabsorbsiyasini boşqariş orqali erigan moddalarning çiqarilişini bir-biridan mustaqil ravişda tartibga soladi; bu qobiliyat organizm suyuqliklari tarkibini aniq boşqariş uçun zarurdir. Uşbu bobda buyraklarga turli moddalarni turliça tezlikda tanlab reabsorbsiya yoki sekretsiya qiliş imkonini beradigan mexanizmlarni muhokama qilamiz."
+  },
+  "ch28-f9": {
+   "text": "Kanalça reabsorbsiyasi passiv va faol mexanizmlarni öz içiga oladi"
+  },
+  "ch28-f10": {
+   "text": "Modda reabsorbsiyalanişi uçun avval (1) kanalça epiteliysi membranalari orqali buyrak interstitsial suyuqligiga, söngra (2) peritubulyar kapillyar membranasi orqali qayta qonga taşilişi kerak (**Rasm 28-1**). Demak, suv va erigan moddalar reabsorbsiyasi bir qator transport bosqiçlaridan iborat. Kanalça epiteliysi orqali interstitsial suyuqlikka reabsorbsiya organizmning boşqa hujayra membranalari orqali transport uçun 4-bobda muhokama qilingan öşa asosiy mexanizmlar — faol yoki passiv transport yordamida amalga oşadi. Masalan, suv va erigan moddalar hujayra membranalari orqali _(tranşujayraviy yöl)_ yoki hujayralar birikmalari orasidagi böşliqlar orqali _(parahujayraviy yöl)_ taşilişi mumkin. Söngra kanalça epiteliy hujayralari orqali interstitsial suyuqlikka sörilgandan keyin suv va erigan moddalar peritubulyar kapillyarlar devori orqali qonga gidrostatik va kolloid-osmotik kuçlar vositasidagi _ultrafiltratsiya (yalpi oqim)_ yöli bilan ötadi. Peritubulyar kapillyarlar boşqa köpgina kapillyarlarning venoz uçlariga öxşab işlaydi, çunki ularda suyuqlik va erigan moddalarni interstitsiydan qonga suruvçi sof reabsorbsion kuç mavjud."
+  },
+  "ch28-f12": {
+   "text": "Faol transport erigan moddani elektrokimyoviy gradiyentga qarşi harakatlantira oladi; buning uçun moddalar almaşinuvidan olinadigan energiya talab qilinadi. Adenozintrifosfat (ATF) gidrolizi kabi energiya manbaiga bevosita boğlangan transport _birlamçi faol transport_ deb ataladi. Bu mexanizmning misoli buyrak kanalçasining köpgina qismlarida işlaydigan natriy-kaliy adenozintrifosfataza (ATFaza) nasosidir (Na+-K+ ATFaza nasosi). Energiya manbaiga _bilvosita_ boğlangan, masalan, ion gradiyenti hisobiga amalga oşadigan transport _ikkilamçi faol transport_ deb ataladi. Glukozaning buyrak kanalçasida reabsorbsiyalanişi ikkilamçi faol transportga misoldir. Erigan moddalar kanalçada faol va/yoki passiv mexanizmlar yordamida reabsorbsiyalanişi mumkin bölsa-da, suv kanalça epiteliysi membranasi orqali doimo passiv ravişda — _osmos_ jarayoni orqali reabsorbsiyalanadi."
+  },
+  "ch28-f13": {
+   "text": "Buyrak kanalçasi hujayralari, boşqa epiteliy hujayralari kabi, bir-biri bilan _ziç birikmalar_ (tight junctions) orqali tutaşgan. Ziç birikmalar ortida kanalça epiteliy hujayralarini bir-biridan ajratib turadigan lateral hujayralararo böşliqlar joylaşgan. Erigan moddalar hujayralar orqali _tranşujayraviy yöl_ bilan yoki hujayralar orasidan — ziç birikmalar va hujayralararo böşliqlar orqali _parahujayraviy yöl_ bilan reabsorbsiya yoki sekretsiya qilinişi mumkin. Natriy har ikkala yöl orqali harakatlanadigan moddadir, ammo natriyning asosiy qismi tranşujayraviy yöl orqali taşiladi. Ayrim nefron segmentlarida, ayniqsa proksimal kanalçada, suv ham parahujayraviy yöl orqali reabsorbsiyalanadi va suvda erigan moddalar, ayniqsa kaliy, magniy va xlorid ionlari, reabsorbsiyalanayotgan suyuqlik bilan birga hujayralar orasidan olib ötiladi.",
+   "lead": "Erigan moddalar epiteliy hujayralari orqali yoki hujayralar orasidan taşilişi mumkin."
+  },
+  "ch28-f14": {
+   "text": "_Birlamçi faol transportning alohida ahamiyati şundaki, u erigan moddalarni elektrokimyoviy gradiyentga qarşi harakatlantira oladi._ Bu faol transport uçun energiya membranaga boğlangan ATFaza yordamida ATF ning gidrolizlanişidan olinadi; ATFaza erigan moddalarni boğlab, hujayra membranasi orqali ötkazadigan taşuvçi mexanizmning ham tarkibiy qismidir. Buyraklarda ma’lum bölgan birlamçi faol taşuvçilarga _Na+-K+ ATFaza, vodorod ATFaza, vodorod-kaliy ATFaza_ va _kalsiy ATFaza_ kiradi.",
+   "lead": "Adenozintrifosfat gidrolizi bilan boğlangan kanalça membranasi orqali birlamçi faol transport."
+  },
+  "ch28-f15": {
+   "text": "Birlamçi faol transport tizimining yaxşi misoli — **Rasm 28-2** da körsatilganidek, natriy ionlarining proksimal kanalça membranasi orqali reabsorbsiyalanişidir. Kanalça epiteliy hujayrasining bazolateral tomonlarida hujayra membranasi keng Na+-K+ ATFaza tizimiga ega; bu tizim ATF ni gidrolizlaydi va ajralgan energiyadan natriy ionlarini hujayradan interstitsiyga çiqariş uçun foydalanadi. Ayni paytda kaliy interstitsiydan hujayra içiga taşiladi. Bu ion nasosining işlaşi hujayra içida natriyning past va kaliyning yuqori konsentratsiyasini saqlab turadi hamda hujayra içida taxminan −70 millivolt sof manfiy zaryad hosil qiladi. Natriyning hujayradan _bazolateral_ membrana orqali faol çiqarib turilişi ikki sababga köra natriyning hujayra _luminal_ membranasi orqali kanalça böşliğidan hujayra içiga passiv diffuziyalanişiga yordam beradi: (1) hujayra içidagi natriy konsentratsiyasi past (12 mEq/L), kanalça suyuqligidagi natriy konsentratsiyasi esa yuqori (140 mEq/L) bölgani uçun natriyning hujayraga diffuziyasiga yordam beruvçi konsentratsiya gradiyenti mavjud; (2) hujayra içidagi −70 millivoltlik manfiy potensial musbat natriy ionlarini kanalça böşliğidan hujayra içiga tortadi."
+  },
+  "ch28-f17": {
+   "text": "Natriyning Na+-K+ ATFaza yordamida faol reabsorbsiyasi kanalçaning köpgina qismlarida sodir böladi. Nefronning ayrim qismlarida esa katta miqdordagi natriyni hujayra içiga ötkaziş uçun qöşimça moslamalar ham mavjud. Proksimal kanalçada membranasining luminal tomonida (kanalça böşliğiga qaragan tomonida) yuza maydonini taxminan 20 baravar oşiradigan keng çötkasimon hoşiya bor. Şuningdek, membrananing luminal yuzasida natriy ionlarini boğlab, ularni hujayra içida qöyib yuboradigan taşuvçi oqsillar ham bölib, ular natriyning membrana orqali hujayraga _yengillaştirilgan diffuziyasini_ ta’minlaydi. Bu natriy taşuvçi oqsillar, keyinroq muhokama qilinganidek, glukoza va aminokislotalar kabi boşqa moddalarning ikkilamçi faol transporti uçun ham muhimdir."
+  },
+  "ch28-f18": {
+   "text": "Şunday qilib, natriy ionlarining kanalça böşliğidan qayta qonga sof reabsorbsiyasi kamida uç bosqiçni öz içiga oladi: 1. Natriy luminal membrana (u _apikal membrana_ deb ham ataladi) orqali membrananing bazolateral tomonidagi Na+-K+ ATFaza nasosi hosil qilgan elektrokimyoviy gradiyent böylab hujayra içiga diffuziyalanadi. 2. Natriy Na+-K+ ATFaza nasosi yordamida bazolateral membrana orqali elektrokimyoviy gradiyentga qarşi taşiladi. 3. Natriy, suv va boşqa moddalar interstitsial suyuqlikdan peritubulyar kapillyarlarga ultrafiltratsiya yöli bilan reabsorbsiyalanadi; bu gidrostatik va kolloid-osmotik bosim gradiyentlari harakatga keltiradigan passiv jarayondir."
+  },
+  "ch28-f19": {
+   "text": "Ikkilamçi faol transportda ikki yoki undan ortiq modda membranadagi öziga xos oqsil (taşuvçi molekula) bilan özaro ta’sirlaşadi va membrana orqali birgalikda taşiladi. Moddalardan biri (masalan, natriy) öz elektrokimyoviy gradiyenti böylab diffuziyalanar ekan, ajralib çiqadigan energiya boşqa moddani (masalan, glukozani) uning elektrokimyoviy gradiyentiga qarşi harakatlantiriş uçun sarflanadi. Demak, ikkilamçi faol transport energiyani bevosita ATF dan yoki boşqa yuqori energiyali fosfat manbalaridan talab qilmaydi. Aksinça, energiyaning bevosita manbai — taşilayotgan boşqa moddaning öz elektrokimyoviy gradiyenti böylab bir vaqtda sodir böladigan yengillaştirilgan diffuziyasi natijasida ajraladigan energiyadir.",
+   "lead": "Kanalça membranasi orqali ikkilamçi faol reabsorbsiya."
+  },
+  "ch28-f20": {
+   "text": "**Rasm 28-3** da proksimal kanalçada glukoza va aminokislotalarning ikkilamçi faol transporti körsatilgan. Har ikki holatda ham çötkasimon hoşiyadagi öziga xos taşuvçi oqsillar bir vaqtning özida natriy ioni va aminokislota yoki glukoza molekulasi bilan birikadi. Bu transport mexanizmlari şunçalik samaraliki, ular kanalça böşliğidagi deyarli barça glukoza va aminokislotalarni olib çiqadi. Hujayraga kirgandan söng glukoza va aminokislotalar bazolateral membranalar orqali diffuziya yöli bilan çiqadi; bu jarayonni hujayradagi glukoza va aminokislotalarning yuqori konsentratsiyasi harakatga keltiradi va öziga xos transport oqsillari yengillaştiradi."
+  },
+  "ch28-f22": {
+   "text": "_Natriy-glukoza kotransporterlari (SGLT2_ va _SGLT1)_ proksimal kanalça hujayralarining çötkasimon hoşiyasida joylaşgan bölib, yuqorida tasvirlanganidek, glukozani konsentratsiya gradiyentiga qarşi hujayra sitoplazmasiga olib kiradi. Filtrlangan glukozaning taxminan 90% i proksimal kanalçaning boşlanğiç qismida (S1 segmenti) SGLT2 orqali reabsorbsiyalanadi, qolgan 10% i esa proksimal kanalçaning keyingi segmentlarida SGLT1 orqali taşiladi. Membrananing bazolateral tomonida glukoza _glukoza taşuvçilari_ — proksimal kanalçaning S1 segmentida _GLUT2_ va keyingi qismida (S3 segmenti) _GLUT1_ — yordamida hujayradan interstitsial böşliqlarga diffuziyalanadi."
+  },
+  "ch28-f23": {
+   "text": "Glukozaning kimyoviy gradiyentga qarşi taşilişi ATF dan bevosita foydalanmasa-da, glukoza reabsorbsiyasi bazolateral membranadagi birlamçi faol Na+-K+ ATFaza nasosi sarflaydigan energiyaga boğliq. Bu nasosning faoliyati tufayli natriyning luminal membrana orqali yengillaştirilgan diffuziyasi uçun elektrokimyoviy gradiyent saqlanib turadi; aynan natriyning hujayra içiga gradiyent böylab “pastga” diffuziyalanişi glukozaning luminal membrana orqali bir vaqtda gradiyentga qarşi “yuqoriga” taşilişi uçun energiya beradi. Şu sababli glukozaning bu reabsorbsiyasi _ikkilamçi faol transport_ deb ataladi: glukozaning özi kimyoviy gradiyentga qarşi reabsorbsiyalanadi, ammo bu jarayon natriyning birlamçi faol transportiga boğliq, ya’ni undan ikkilamçidir."
+  },
+  "ch28-f24": {
+   "text": "Yana bir muhim jihat şundaki, reabsorbsiya bosqiçlaridan kamida bittasi birlamçi yoki ikkilamçi faol transportni öz içiga olsa, reabsorbsiya jarayonining boşqa bosqiçlari passiv bölsa ham, modda faol transportga uçraydi, deb hisoblanadi. Glukoza reabsorbsiyasida luminal membranada ikkilamçi faol transport, bazolateral membranada passiv yengillaştirilgan diffuziya, peritubulyar kapillyarlarda esa yalpi oqim orqali passiv söriliş sodir böladi."
+  },
+  "ch28-f25": {
+   "text": "Ayrim moddalar kanalçalarga ikkilamçi faol transport yöli bilan sekretsiya qilinadi; bu köpinça moddaning natriy ionlari bilan _kontrtransportini_ (qarama-qarşi transportini) öz içiga oladi. Kontrtransportda moddalardan birining (masalan, natriy ionlarining) gradiyent böylab harakatidan ajralib çiqadigan energiya ikkinçi moddaning qarama-qarşi yönalişda gradiyentga qarşi harakatlanişini ta’minlaydi.",
+   "lead": "Kanalçalarga ikkilamçi faol sekretsiya."
+  },
+  "ch28-f26": {
+   "text": "**Rasm 28-3** da körsatilgan kontrtransportning bir misoli — proksimal kanalçaning luminal membranasida natriy reabsorbsiyasi bilan boğlangan vodorod ionlarining faol sekretsiyasidir. Bu holatda natriyning hujayraga kirişi natriy-vodorod kontrtransporti orqali vodorodning hujayradan çiqarilişi bilan boğlangan. Bu transportni luminal membrananing çötkasimon hoşiyasidagi öziga xos oqsil _(natriy-vodorod almaşinuvçisi)_ amalga oşiradi. Natriy hujayra içiga olib kirilar ekan, vodorod ionlari qarama-qarşi yönalişda — kanalça böşliğiga majburan çiqariladi. Birlamçi va ikkilamçi faol transportning asosiy tamoyillari 4-bobda muhokama qilingan."
+  },
+  "ch28-f27": {
+   "text": "Kanalçaning ayrim qismlari, ayniqsa proksimal kanalça, oqsillar kabi yirik molekulalarni _endotsitoz_ ning bir turi bölgan _pinotsitoz_ orqali reabsorbsiya qiladi. Bu jarayonda oqsil luminal membrananing çötkasimon hoşiyasiga birikadi, söng membrananing şu qismi hujayra içiga botib kiradi va töliq ajralib, içida oqsil bölgan pufakça hosil böladi. Hujayra içida oqsil özini taşkil etuvçi aminokislotalargaça parçalanadi va ular bazolateral membrana orqali interstitsial suyuqlikka reabsorbsiyalanadi. Pinotsitoz energiya talab qilgani uçun u faol transportning bir şakli hisoblanadi.",
+   "lead": "Pinotsitoz — oqsillar reabsorbsiyasining faol transport mexanizmi."
+  },
+  "ch28-f28": {
+   "text": "Faol reabsorbsiya yoki sekretsiya qilinadigan moddalarning köpçiligi uçun erigan moddaning taşiliş tezligi çegaralangan bölib, bu çegara köpinça _transport maksimumi_ deb ataladi. Bu çegara kanalçaga yetkazib berilayotgan erigan modda miqdori (_kanalça yuki_ deb ataladi) transport jarayonida iştirok etuvçi taşuvçi oqsillar va öziga xos fermentlarning imkoniyatidan oşib ketganda, tegişli transport tizimlarining töyinişi bilan boğliq.",
+   "lead": "Faol reabsorbsiyalanadigan moddalar uçun transport maksimumi."
+  },
+  "ch28-f29": {
+   "text": "Proksimal kanalçadagi glukoza transport tizimi bunga yaxşi misoldir. Me’yorda siydikda ölçab böladigan miqdorda glukoza bölmaydi, çunki filtrlangan glukozaning deyarli hammasi proksimal kanalçada reabsorbsiyalanadi. Biroq filtrlangan yuk kanalçalarning glukozani reabsorbsiya qiliş imkoniyatidan oşib ketsa, glukoza siydik bilan çiqarila boşlaydi."
+  },
+  "ch28-f30": {
+   "text": "Katta yoşli odamda glukoza uçun transport maksimumi örtaça taxminan 375 mg/min ni taşkil qiladi, glukozaning filtrlangan yuki esa atigi 125 mg/min atrofida böladi (KFT × plazma glukozasi = 125 ml/min × 1 mg/ml). KFT va/yoki plazmadagi glukoza konsentratsiyasi keskin oşib, glukozaning filtrlangan yuki 375 mg/min dan ortib ketganda, ortiqça filtrlangan glukoza reabsorbsiyalanmaydi va siydikka ötadi."
+  },
+  "ch28-f31": {
+   "text": "**Rasm 28-4** da plazmadagi glukoza konsentratsiyasi, glukozaning filtrlangan yuki, glukoza uçun kanalça transport maksimumi va glukozaning siydik bilan yöqotiliş tezligi örtasidagi boğliqlik körsatilgan. E’tibor bering: plazmadagi glukoza konsentratsiyasi 100 mg/100 ml va filtrlangan yuk me’yoriy darajada (125 mg/min) bölganda glukoza siydik bilan yöqotilmaydi. Biroq plazmadagi glukoza konsentratsiyasi taxminan 200 mg/100 ml dan oşib, filtrlangan yuk taxminan 250 mg/min gaça kötarilganda, siydikda oz miqdorda glukoza paydo böla boşlaydi. Bu nuqta glukoza uçun _ostona_ deb ataladi. _E’tibor bering, glukozaning siydikda paydo bölişi (ostonada) transport maksimumiga erişilişidan oldin sodir böladi_. Ostona va transport maksimumi örtasidagi farqning sabablaridan biri şundaki, barça nefronlarning glukoza uçun transport maksimumi bir xil emas, şuning uçun ayrim nefronlar boşqalari öz transport maksimumiga yetmasdanoq glukozani çiqara boşlaydi. _Buyraklarning umumiy transport maksimumiga (me’yorda taxminan 375 mg/min) barça nefronlar glukozani reabsorbsiya qilişning maksimal imkoniyatiga yetganda erişiladi._"
+  },
+  "ch28-f33": {
+   "text": "Soğlom odamda plazma glukozasi hatto ovqatdan keyin ham deyarli heç qaçon siydik bilan glukoza çiqarilişiga olib keladigan darajada oşmaydi. Biroq nazorat qilinmaydigan _qandli diabetda_ plazmadagi glukoza konsentratsiyasi yuqori darajalargaça kötarilişi mumkin; bunda glukozaning filtrlangan yuki transport maksimumidan oşib ketadi va glukoza siydik bilan çiqariladi. Kanalçalarda _faol reabsorbsiyalanadigan_ moddalar uçun muhim transport maksimumlarining ayrimlari quyidagilar:"
+  },
+  "ch28-f34": {
+   "text": "_Faol sekretsiya qilinadigan_ moddalar ham quyidagiça transport maksimumlariga ega:",
+   "lead": "Faol sekretsiya qilinadigan moddalar uçun transport maksimumlari."
+  },
+  "ch28-f35": {
+   "text": "Faol taşiladigan erigan moddalarning köpinça transport maksimumiga ega bölişining sababi şundaki, kanalça yuki ortişi bilan taşuvçi tizim töyinib qoladi. _Faol reabsorbsiyalanadigan ayrim moddalarda esa transport maksimumi kuzatilmaydi_, çunki ularning taşiliş tezligi boşqa omillar bilan belgilanadi, masalan: (1) moddaning membrana orqali diffuziyasi uçun elektrokimyoviy gradiyent; (2) membrananing şu modda uçun ötkazuvçanligi; (3) moddani tutgan suyuqlikning kanalça içida qoliş vaqti. Bunday transport _gradiyent-vaqt transporti_ deb ataladi, çunki taşiliş tezligi elektrokimyoviy gradiyentga va moddaning kanalçada böliş vaqtiga boğliq, bu vaqt esa öz navbatida kanalçadagi oqim tezligiga boğliq.",
+   "lead": "Faol taşiladigan, ammo transport maksimumiga ega bölmagan moddalar."
+  },
+  "ch28-f36": {
+   "text": "Gradiyent-vaqt transportiga misol — proksimal kanalçadagi natriy reabsorbsiyasi. Bu yerda bazolateral Na+-K+ ATFaza nasosining maksimal transport imkoniyati odatda natriy sof reabsorbsiyasining haqiqiy tezligidan ança yuqori böladi, çunki hujayradan çiqarilgan natriyning sezilarli qismi epiteliy hujayralari birikmalari orqali kanalça böşliğiga qaytib sizib çiqadi. Bu teskari sizib çiqiş tezligi (1) ziç birikmalarning ötkazuvçanligiga va (2) interstitsial suyuqlikdan peritubulyar kapillyarlarga yalpi oqim yöli bilan reabsorbsiya tezligini belgilaydigan interstitsial fizik kuçlarga boğliq. Şu sababli proksimal kanalçalardagi natriy transporti kanalça transport maksimumi xususiyatlariga emas, asosan gradiyent-vaqt transporti tamoyillariga böysunadi. Bu kuzatuv şuni anglatadiki, proksimal kanalçalarda natriy konsentratsiyasi qançalik yuqori bölsa, uning reabsorbsiya tezligi ham şunçalik yuqori böladi. Şuningdek, kanalça suyuqligining oqim tezligi qançalik sekin bölsa, proksimal kanalçalardan natriyning şunçalik katta foizi reabsorbsiyalanişi mumkin."
+  },
+  "ch28-f37": {
+   "text": "Nefronning distalroq qismlarida epiteliy hujayralari ança ziçroq birikmalarga ega va natriyni ança kam miqdorda taşiydi. Bu segmentlarda natriy reabsorbsiyasi boşqa faol taşiladigan moddalarnikiga öxşaş transport maksimumiga ega. Bundan taşqari, bu transport maksimumini _aldosteron_ kabi ayrim gormonlar oşirişi mumkin."
+  },
+  "ch28-f38": {
+   "text": "Natriy reabsorbsiyasi bilan asosan boğlangan suvning osmos orqali passiv reabsorbsiyasi"
+  },
+  "ch28-f39": {
+   "text": "Erigan moddalar birlamçi yoki ikkilamçi faol transport yöli bilan kanalçadan taşqariga taşilganda, ularning konsentratsiyasi kanalça içida kamayişga, buyrak interstitsiysida esa ortişga moyil böladi. Bu hodisa konsentratsiyalar farqini yuzaga keltiradi va u suvning erigan moddalar taşilayotgan yönalişda — kanalça böşliğidan buyrak interstitsiysiga osmos yöli bilan ötişiga sabab böladi. Buyrak kanalçasining ayrim qismlari, ayniqsa proksimal kanalça, suvni juda yaxşi ötkazadi va suv reabsorbsiyasi şu qadar tez sodir böladiki, kanalça membranasi orqali erigan moddalar uçun faqat kiçik konsentratsiya gradiyenti qoladi."
+  },
+  "ch28-f40": {
+   "text": "Proksimal kanalçalarda suv osmotik oqimining katta qismi hujayra membranalaridagi suv kanallari _(akvaporinlar)_ orqali, şuningdek epiteliy hujayralari orasidagi _ziç birikmalar_ orqali sodir böladi. Yuqorida ta’kidlanganidek, hujayralar orasidagi birikmalar nomlari anglatgançalik ziç emas va suv hamda kiçik ionlarning sezilarli diffuziyasiga imkon beradi. Bu, ayniqsa, suvni yuqori darajada, natriy, xlorid, kaliy, kalsiy va magniy kabi köpgina ionlarni esa kamroq, ammo sezilarli darajada ötkazadigan proksimal kanalçalarga xosdir."
+  },
+  "ch28-f41": {
+   "text": "Ziç birikmalar orqali osmos yöli bilan harakatlanayotgan suv özi bilan birga erigan moddalarning bir qismini ham olib ötadi; bu jarayon _erituvçi bilan sudraliş_ (solvent drag) deb ataladi. Bundan taşqari, suv, organik erigan moddalar va ionlar reabsorbsiyasi natriy reabsorbsiyasi bilan boğlangani sababli, natriy reabsorbsiyasidagi özgarişlar suv va boşqa köplab erigan moddalarning reabsorbsiyasiga sezilarli ta’sir körsatadi."
+  },
+  "ch28-f42": {
+   "text": "Nefronning distalroq qismlarida — Henle qovuzloğidan boşlab yiğuvçi kanalçagaça — ziç birikmalar suv va erigan moddalarni ança kam ötkazadi, epiteliy hujayralarining membrana yuzasi ham keskin kiçrayadi. Şu sababli suv kanalça membranasining ziç birikmalari orqali osmos yöli bilan oson öta olmaydi. Biroq antidiuretik gormon (ADG) distal va yiğuvçi kanalçalarda suv ötkazuvçanligini keskin oşiradi."
+  },
+  "ch28-f43": {
+   "text": "Demak, osmotik gradiyent qançalik katta bölmasin, suv kanalça epiteliysi orqali faqat membrana suvni ötkazadigan bölsagina harakatlana oladi. Proksimal kanalça va Henle qovuzloğining tuşuvçi qismida suv ötkazuvçanligi doimo yuqori bölib, suv atrofdagi interstitsial suyuqlik bilan osmotik muvozanatga erişgunça tez reabsorbsiyalanadi. Bu yuqori ötkazuvçanlik luminal va bazolateral membranalarda _akvaporin-1_ (AQP-1) suv kanalining köp miqdorda ekspressiyalanişi bilan boğliq. Henle qovuzloğining kötariluvçi qismida suv ötkazuvçanligi doimo past, şuning uçun katta osmotik gradiyentga qaramay suv deyarli reabsorbsiyalanmaydi. Kanalçalarning oxirgi qismlarida — distal kanalçalar, yiğuvçi kanalçalar va yiğuvçi naylarda — suv ötkazuvçanligi akvaporinlar orqali amalga oşadi va ADG bor-yöqligiga qarab yuqori yoki past bölişi mumkin."
+  },
+  "ch28-f44": {
+   "text": "Xlorid, moçevina va boşqa erigan moddalarning passiv diffuziya orqali reabsorbsiyasi"
+  },
+  "ch28-f45": {
+   "text": "Natriy kanalça epiteliy hujayrasi orqali reabsorbsiyalanganda xlorid kabi manfiy ionlar elektr potensiallari tufayli natriy bilan birga taşiladi. Boşqaça aytganda, musbat zaryadli natriy ionlarining kanalça böşliğidan çiqarilişi böşliq içini interstitsial suyuqlikka nisbatan manfiy zaryadlangan holda qoldiradi, bu esa xlorid ionlarining _parahujayraviy yöl_ orqali _passiv_ diffuziyalanişiga sabab böladi. Xlorid ionlarining qöşimça reabsorbsiyasi suv kanalçadan osmos yöli bilan reabsorbsiyalanganda yuzaga keladigan xlorid konsentratsiya gradiyenti hisobiga sodir böladi, çunki bunda kanalça böşliğida xlorid ionlari konsentrlanadi (**Rasm 28-5**). Şunday qilib, natriyning faol reabsorbsiyasi elektr potensiali va xlorid konsentratsiya gradiyenti orqali xloridning passiv reabsorbsiyasi bilan çambarças boğlangan."
+  },
+  "ch28-f47": {
+   "text": "Xlorid ionlari ikkilamçi faol transport yöli bilan ham reabsorbsiyalanişi mumkin. Xlorid reabsorbsiyasidagi ikkilamçi faol transport jarayonlarining eng muhimi xloridning natriy bilan birga luminal membrana orqali kotransportidir."
+  },
+  "ch28-f48": {
+   "text": "Moçevina ham kanalçadan passiv reabsorbsiyalanadi, ammo xlorid ionlariga qaraganda ança kam darajada. Suv kanalçalardan (natriy reabsorbsiyasi bilan boğlangan osmos yöli bilan) reabsorbsiyalanar ekan, kanalça böşliğida moçevina konsentratsiyasi ortadi (qarang: **Rasm 28-5**). Bu ortiş moçevina reabsorbsiyasiga yordam beruvçi konsentratsiya gradiyentini hosil qiladi. Biroq moçevina kanalça devoridan suv kabi oson ötmaydi. Nefronning ayrim qismlarida, ayniqsa mağiz qavatining içki qismidagi yiğuvçi naylarda, moçevinaning passiv reabsorbsiyasini öziga xos _moçevina taşuvçilari_ yengillaştiradi. Şunga qaramay, koptokça kapillyarlarida filtrlangan moçevinaning faqat yarmiga yaqini kanalçalardan reabsorbsiyalanadi. Qolgan moçevina siydikka ötadi va bu buyraklarga moddalar almaşinuvining uşbu çiqindi mahsulotini katta miqdorda çiqariş imkonini beradi. Sutemizuvçilarda asosan jigarda oqsillar almaşinuvi mahsuloti sifatida hosil böladigan çiqindi azotning 90% dan ortiği me’yorda buyraklar orqali moçevina şaklida çiqariladi."
+  },
+  "ch28-f49": {
+   "text": "Moddalar almaşinuvining yana bir çiqindi mahsuloti — kreatinin moçevinadan ham yirikroq molekula bölib, kanalça membranasidan amalda ötmaydi. Şu sababli filtrlangan kreatinin deyarli reabsorbsiyalanmaydi va koptokçada filtrlangan kreatininning deyarli hammasi siydik bilan çiqariladi."
+  },
+  "ch28-f50": {
+   "text": "Nefronning turli qismlarida reabsorbsiya va sekretsiya"
+  },
+  "ch28-f51": {
+   "text": "Oldingi bölimlarda suv va erigan moddalarning kanalça membranasi orqali taşilişining asosiy tamoyillarini muhokama qildik. Uşbu umumlaşmalarni yodda tutgan holda, endi alohida kanalça segmentlarining öziga xos vazifalarini bajarişga imkon beradigan turli xususiyatlarini körib çiqişimiz mumkin. Faqat miqdoran eng muhim bölgan kanalça transport funksiyalari, ayniqsa natriy, xlorid va suv reabsorbsiyasiga taalluqli bölganlari muhokama qilinadi. Keyingi boblarda kanalça tizimining turli qismlarida boşqa moddalarning reabsorbsiyasi va sekretsiyasini muhokama qilamiz."
+  },
+  "ch28-f52": {
+   "text": "Proksimal kanalçada reabsorbsiya"
+  },
+  "ch28-f53": {
+   "text": "Me’yorda filtrat Henle qovuzloğiga yetib borgunça natriy va suv filtrlangan yukining taxminan 65% i va filtrlangan xloridning biroz kamroq foizi proksimal kanalçada reabsorbsiyalanadi. Keyinroq muhokama qilinganidek, bu foizlar turli fiziologik şaroitlarda ortişi yoki kamayişi mumkin."
+  },
+  "ch28-f54": {
+   "text": "Proksimal kanalçaning reabsorbsiya uçun yuqori imkoniyati, **Rasm 28-6** da körsatilganidek, uning hujayralarining öziga xos xususiyatlari bilan boğliq. Proksimal kanalça epiteliy hujayralarida moddalar almaşinuvi juda faol bölib, ular kuçli faol transport jarayonlarini ta’minlaş uçun köp sonli mitoxondriyalarga ega. Bundan taşqari, proksimal kanalça hujayralari membranasining luminal (apikal) tomonida keng çötkasimon hoşiya, şuningdek hujayralararo va bazal kanallarning keng labirinti mavjud; bularning barçasi birgalikda natriy ionlari va boşqa moddalarni tez taşiş uçun epiteliyning luminal va bazolateral tomonlarida keng membrana yuzasini ta’minlaydi.",
+   "lead": "Proksimal kanalçalar faol va passiv reabsorbsiya uçun yuqori imkoniyatga ega."
+  },
+  "ch28-f56": {
+   "text": "Epiteliy çötkasimon hoşiyasining keng membrana yuzasi, şuningdek, natriy ionlarining katta qismini luminal membrana orqali aminokislotalar va glukoza kabi köplab organik ozuqa moddalar bilan _kotransport_ mexanizmi vositasida taşiydigan oqsil taşuvçi molekulalarga boy. Qöşimça natriy kanalça böşliğidan hujayraga _kontrtransport_ mexanizmlari orqali taşiladi; ular natriyni reabsorbsiya qilgan holda boşqa moddalarni, ayniqsa vodorod ionlarini, kanalça böşliğiga sekretsiya qiladi. 31-bobda muhokama qilinganidek, vodorod ionlarining kanalça böşliğiga sekretsiyasi bikarbonat ionlarini kanalçadan olib taşlaşning muhim bosqiçidir (H+ HCO3− bilan birikib H2CO3 hosil qiladi, u esa H2O va CO2 ga dissotsiyalanadi)."
+  },
+  "ch28-f57": {
+   "text": "Na+-K+ ATFaza nasosi butun proksimal kanalça böylab natriy, xlorid va suv reabsorbsiyasining asosiy harakatlantiruvçi kuçini ta’minlasa-da, natriy va xloridning proksimal kanalça membranasining boşlanğiç va oxirgi qismlarida luminal tomon orqali taşiliş mexanizmlarida ayrim farqlar mavjud."
+  },
+  "ch28-f58": {
+   "text": "Proksimal kanalçaning birinçi yarmida natriy glukoza, aminokislotalar va boşqa erigan moddalar bilan birga kotransport yöli bilan reabsorbsiyalanadi. Biroq proksimal kanalçaning ikkinçi yarmida reabsorbsiyalanişi kerak bölgan glukoza va aminokislotalar juda oz qoladi. Buning örniga endi natriy asosan xlorid ionlari bilan birga reabsorbsiyalanadi. Proksimal kanalçaning ikkinçi yarmida xlorid konsentratsiyasi (≈140 mEq/L) boşlanğiç proksimal kanalçadagiga (≈105 mEq/L) nisbatan ança yuqori, çunki boşlanğiç proksimal kanalçada natriy reabsorbsiyalanganda özi bilan birga asosan glukoza, bikarbonat va organik ionlarni olib ketadi va ortda xlorid konsentratsiyasi yuqoriroq bölgan eritma qoladi. Proksimal kanalçaning ikkinçi yarmida xloridning yuqoriroq konsentratsiyasi bu ionning kanalça böşliğidan hujayralararo birikmalar orqali buyrak interstitsial suyuqligiga diffuziyalanişiga yordam beradi. Kamroq miqdordagi xlorid proksimal kanalça hujayra membranasidagi öziga xos xlorid kanallari orqali ham reabsorbsiyalanişi mumkin."
+  },
+  "ch28-f59": {
+   "text": "**Rasm 28-7** da proksimal kanalça böylab turli erigan moddalar konsentratsiyasining özgarişlari umumlaştirilgan. Kanalça suyuqligidagi natriyning _miqdori_ proksimal kanalça böylab keskin kamaysa-da, natriy _konsentratsiyasi_ (va umumiy osmolyarlik) nisbatan özgarmas qoladi, çunki proksimal kanalçalarning suv ötkazuvçanligi şu qadar yuqoriki, suv reabsorbsiyasi natriy reabsorbsiyasidan ortda qolmaydi. Glukoza, aminokislotalar va bikarbonat kabi ayrim organik erigan moddalar suvga qaraganda ança jadal reabsorbsiyalanadi va ularning konsentratsiyasi proksimal kanalça uzunligi böylab keskin kamayadi. Kreatinin kabi kamroq ötkazuvçan va faol reabsorbsiyalanmaydigan boşqa organik erigan moddalarning konsentratsiyasi esa proksimal kanalça böylab ortib boradi. Nefronning bu qismi suvni juda yuqori darajada ötkazgani sababli, osmolyarlik bilan ifodalanadigan umumiy erigan moddalar konsentratsiyasi butun proksimal kanalça böylab amalda bir xil saqlanadi.",
+   "lead": "Proksimal kanalçalar böylab erigan moddalarning konsentratsiyalari."
+  },
+  "ch28-f61": {
+   "text": "Proksimal kanalça, şuningdek, _öt tuzlari_, _oksalat_, _urat_ va _katexolaminlar_ kabi organik kislotalar va asoslar sekretsiyasining muhim joyidir. Bu moddalarning köpi moddalar almaşinuvining oxirgi mahsulotlari bölib, organizmdan tez çiqarib yuborilişi kerak. Bu moddalarning proksimal kanalçaga _sekretsiyasi_, koptokça kapillyarlari orqali proksimal kanalçaga _filtratsiyasi_ va kanalçalarda deyarli butunlay reabsorbsiyalanmasligi — bularning barçasi birgalikda ularning siydik bilan tez çiqarilişiga hissa qöşadi.",
+   "lead": "Proksimal kanalçalarda organik kislotalar va asoslarning sekretsiyasi."
+  },
+  "ch28-f62": {
+   "text": "Moddalar almaşinuvining çiqindi mahsulotlaridan taşqari, buyraklar köplab potensial zararli dorilar yoki toksinlarni kanalçalarga sekretsiya qiladi va bu moddalarni qondan tez tozalaydi. Penitsillin va salitsilatlar kabi ayrim dorilar holatida buyraklar tomonidan tez tozalanişi dorining terapevtik samarali konsentratsiyasini saqlab turişni qiyinlaştiradi."
+  },
+  "ch28-f63": {
+   "text": "Proksimal kanalçada tez sekretsiya qilinadigan yana bir birikma — para-aminogippur kislota (PAG; PAH). PAG şu qadar tez sekretsiya qilinadiki, örtaça odam buyraklar orqali oqib ötayotgan plazmadagi PAG ning taxminan 90% ini tozalab, siydik bilan çiqarişi mumkin. Şu sababli, keyinroq muhokama qilinganidek, PAG klirensi tezligidan buyrak plazma oqimini (BPO; RPF) baholaş uçun foydalaniş mumkin."
+  },
+  "ch28-f64": {
+   "text": "Henle qovuzloğida erigan moddalar va suvning taşilişi"
+  },
+  "ch28-f65": {
+   "text": "Henle qovuzloği funksional jihatdan farq qiluvçi uçta segmentdan iborat — _ingiçka tuşuvçi segment, ingiçka kötariluvçi segment_ va _yöğon kötariluvçi segment_. Ingiçka tuşuvçi va ingiçka kötariluvçi segmentlar, nomlaridan körinib turibdiki, çötkasimon hoşiyasiz, mitoxondriyalari kam va moddalar almaşinuvi faolligi minimal bölgan yupqa epiteliy membranalariga ega (**Rasm 28-8**)."
+  },
+  "ch28-f67": {
+   "text": "Ingiçka segmentning tuşuvçi qismi suvni yuqori darajada, moçevina va natriyni öz içiga olgan köpgina erigan moddalarni esa örtaça darajada ötkazadi. Nefronning bu segmentining vazifasi asosan moddalarning uning devori orqali oddiy diffuziyasiga imkon berişdan iborat. Filtrlangan suvning taxminan 20% i Henle qovuzloğida reabsorbsiyalanadi va buning deyarli hammasi ingiçka tuşuvçi tirsakda sodir böladi. Kötariluvçi tirsak, uning ingiçka va yöğon qismlari bilan birga, suvni amalda ötkazmaydi; bu xususiyat siydikni konsentrlaş uçun muhimdir."
+  },
+  "ch28-f68": {
+   "text": "Kötariluvçi tirsakning taxminan yarmidan boşlanadigan Henle qovuzloğining yöğon segmenti moddalar almaşinuvi faolligi yuqori bölgan qalin epiteliy hujayralariga ega bölib, natriy, xlorid va kaliyni faol reabsorbsiya qila oladi (qarang: **Rasm 28-8**). Natriy, xlorid va kaliy filtrlangan yuklarining taxminan 25% i Henle qovuzloğida, asosan yöğon kötariluvçi tirsakda reabsorbsiyalanadi. Kalsiy, bikarbonat va magniy kabi boşqa ionlarning ham ança katta miqdori Henle qovuzloğining yöğon kötariluvçi qismida reabsorbsiyalanadi. Kötariluvçi tirsakning ingiçka segmenti yöğon segmentga qaraganda ança past reabsorbsiya imkoniyatiga ega, ingiçka tuşuvçi tirsak esa bu erigan moddalarning birortasini ham sezilarli miqdorda reabsorbsiya qilmaydi."
+  },
+  "ch28-f69": {
+   "text": "Yöğon kötariluvçi tirsakda erigan moddalar reabsorbsiyasining muhim tarkibiy qismi epiteliy hujayralarining bazolateral membranalaridagi Na+-K+ ATFaza nasosidir. Proksimal kanalçadagi kabi, Henle qovuzloği kötariluvçi qismining yöğon segmentida boşqa erigan moddalarning reabsorbsiyasi hujayra içida natriyning past konsentratsiyasini saqlab turuvçi Na+-K+ ATFaza nasosining reabsorbsiya imkoniyati bilan çambarças boğliq. Hujayra içidagi natriyning past konsentratsiyasi, öz navbatida, natriyning kanalça suyuqligidan hujayraga ötişi uçun qulay gradiyent yaratadi. _Yöğon kötariluvçi qismda natriyning luminal membrana orqali harakatini asosan 1-natriy_, _2-xlorid_, _1-kaliy kotransporteri_ (NKCC2) amalga oşiradi (**Rasm 28-9**). Luminal membranadagi bu kotransport oqsili natriyning hujayraga gradiyent böylab diffuziyasida ajralib çiqadigan potensial energiyadan kaliyni konsentratsiya gradiyentiga qarşi hujayraga reabsorbsiya qiliş uçun foydalanadi."
+  },
+  "ch28-f71": {
+   "text": "Henle qovuzloğining yöğon kötariluvçi tirsagi kuçli _qovuzloq diuretiklari — furosemid, etakrin kislota_ va _bumetanid_ ning ta’sir joyi bölib, ularning barçasi NKCC2 kotransporterining ta’sirini tormozlaydi. Bu diuretiklar 32-bobda muhokama qilinadi. Yöğon kötariluvçi tirsakning luminal hujayra membranasida natriy reabsorbsiyasi va vodorod sekretsiyasini ta’minlaydigan natriy-vodorod kontrtransport mexanizmi ham mavjud (qarang: **Rasm 28-9**)."
+  },
+  "ch28-f72": {
+   "text": "Yöğon kötariluvçi tirsakda kanalça böşliğining interstitsial suyuqlikka nisbatan biroz musbat zaryadlanganligi tufayli Mg2+, Ca2+, Na+ va K+ kabi kationlarning sezilarli parahujayraviy reabsorbsiyasi ham sodir böladi. NKCC2 kotransporteri hujayraga teng miqdorda kation va anionlarni ötkazsa-da, kaliy ionlarining böşliqqa biroz qaytib sizib çiqişi kuzatiladi va bu kanalça böşliğida taxminan +8 millivoltlik musbat zaryad hosil qiladi. Bu musbat zaryad Mg2+ va Ca2+ kabi kationlarni kanalça böşliğidan parahujayraviy böşliq orqali interstitsial suyuqlikka diffuziyalanişga majbur qiladi."
+  },
+  "ch28-f73": {
+   "text": "_Henle qovuzloği kötariluvçi qismining yöğon segmenti suvni amalda ötkazmaydi_. Şu sababli katta miqdordagi erigan moddalar reabsorbsiyalanişiga qaramay, bu segmentga yetib kelgan suvning asosiy qismi kanalçada qoladi. Kötariluvçi tirsakdagi kanalça suyuqligi distal kanalça tomon oqar ekan, juda suyultirilgan bölib qoladi; 29-bobda batafsilroq muhokama qilinganidek, bu xususiyat buyraklarga turli şaroitlarda siydikni suyultiriş yoki konsentrlaş imkonini beradi."
+  },
+  "ch28-f74": {
+   "text": "Henle qovuzloği kötariluvçi tirsagining yöğon segmenti _distal kanalçaga_ quyiladi. Distal kanalçaning birinçi qismi _ziç doğni_ (macula densa) hosil qiladi; bu _yukstaglomerulyar kompleks_ ning bir qismi bölgan, bir-biriga ziç joylaşgan epiteliy hujayralari guruhi bölib, ayni şu nefronda KFT va qon oqimini teskari aloqa orqali boşqarişni ta’minlaydi."
+  },
+  "ch28-f75": {
+   "text": "Distal kanalçaning keyingi qismi kuçli buralgan bölib, Henle qovuzloği kötariluvçi tirsagining yöğon segmentiga xos reabsorbsiya xususiyatlarining köpiga ega. Ya’ni u natriy, kaliy va xloridni öz içiga olgan ionlarning köpçiligini jadal reabsorbsiya qiladi, biroq suv va moçevinani amalda ötkazmaydi. Şu sababli u kanalça suyuqligini ham suyultirgani uçun _suyultiruvçi segment_ deb ataladi."
+  },
+  "ch28-f76": {
+   "text": "Natriy xlorid filtrlangan yukining taxminan 5% i boşlanğiç distal kanalçada reabsorbsiyalanadi. _Natriy-xlorid kotransporteri_ natriy xloridni kanalça böşliğidan hujayraga ötkazadi, Na+-K+ ATFaza nasosi esa natriyni bazolateral membrana orqali hujayradan çiqaradi (**Rasm 28-10**). Xlorid bazolateral membranadagi xlorid kanallari orqali hujayradan buyrak interstitsial suyuqligiga diffuziyalanadi."
+  },
+  "ch28-f78": {
+   "text": "Gipertoniya va yurak yetişmovçiligi kabi kasalliklarni davolaşda keng qöllaniladigan _tiazid diuretiklari_ natriy-xlorid kotransporterini tormozlaydi."
+  },
+  "ch28-f79": {
+   "text": "Oxirgi distal kanalçalar va pöstloq yiğuvçi kanalçalari"
+  },
+  "ch28-f80": {
+   "text": "Distal kanalçaning ikkinçi yarmi va undan keyingi pöstloq yiğuvçi kanalçasi öxşaş funksional xususiyatlarga ega. Anatomik jihatdan ular ikki xil hujayra turidan — _asosiy hujayralar_ va _oraliq (interkalyar) hujayralardan_ taşkil topgan"
+  },
+  "ch28-f81": {
+   "text": "(**Rasm 28-11**). Asosiy hujayralar kanalça böşliğidan natriy va suvni reabsorbsiya qiladi hamda böşliqqa kaliy ionlarini sekretsiya qiladi. A turidagi oraliq hujayralar kaliy ionlarini reabsorbsiya qiladi va kanalça böşliğiga vodorod ionlarini sekretsiya qiladi."
+  },
+  "ch28-f83": {
+   "text": "Asosiy hujayralarda natriy _reabsorbsiyasi_ va kaliy _sekretsiyasi_ har bir hujayraning bazolateral membranasidagi Na+-K+ ATFaza nasosining faolligiga boğliq (**Rasm 28-12**). Bu nasos hujayra içida natriyning past konsentratsiyasini saqlab turadi va şu tariqa natriyning maxsus kanallar orqali hujayraga diffuziyalanişiga yordam beradi. Bu hujayralarning kaliyni qondan kanalça böşliğiga sekretsiya qilişi ikki bosqiçdan iborat: (1) kaliy hujayra içida kaliyning yuqori konsentratsiyasini saqlab turuvçi Na+-K+ ATFaza nasosi tufayli hujayraga kiradi; (2) hujayraga kirgaç, kaliy öz konsentratsiya gradiyenti böylab luminal membrana orqali kanalça suyuqligiga diffuziyalanadi.",
+   "lead": "Asosiy hujayralar natriyni reabsorbsiya qiladi va kaliyni sekretsiya qiladi."
+  },
+  "ch28-f85": {
+   "text": "Asosiy hujayralar spironolakton, eplerenon, amilorid va triamteren kabi _kaliyni tejovçi diuretiklarning_ asosiy ta’sir joyidir. _Spironolakton_ va _eplerenon_ asosiy hujayralardagi retseptor joylari uçun aldosteron bilan raqobatlaşadigan _mineralokortikoid retseptor antagonistlari_ bölib, şu tariqa aldosteronning natriy reabsorbsiyasi va kaliy sekretsiyasiga rağbatlantiruvçi ta’sirini tormozlaydi. _Amilorid_ va _triamteren_ — _natriy kanallari blokatorlari_ bölib, ular natriyning luminal membranalardagi natriy kanallariga kirişini bevosita tormozlaydi va şu orqali Na+-K+ ATFaza nasosi bazolateral membranalar orqali taşiy oladigan natriy miqdorini kamaytiradi. Bu, öz navbatida, kaliyning hujayralarga taşilişini kamaytiradi va oxir-oqibat kaliyning kanalça suyuqligiga sekretsiyasini pasaytiradi. Şu sababli natriy kanallari blokatorlari ham, aldosteron antagonistlari ham kaliyning siydik bilan çiqarilişini kamaytiradi va _kaliyni tejovçi diuretiklar_ sifatida ta’sir qiladi."
+  },
+  "ch28-f86": {
+   "text": "Oraliq hujayralar kislota-asos muvozanatini boşqarişda katta rol öynaydi va yiğuvçi kanalçalar hamda yiğuvçi naylardagi hujayralarning 30% dan 40% gaçasini taşkil qiladi. Oraliq hujayralarning ikki turi mavjud — A turi va B turi (**Rasm 28-13**). A turidagi oraliq hujayralar vodorod ionlarini vodorod-ATFaza taşuvçisi va vodorod-kaliy-ATFaza taşuvçisi yordamida sekretsiya qiladi. Bu hujayrada vodorod karboangidrazaning suv va karbonat angidridga ta’sir qilib karbonat kislota hosil qilişi natijasida yuzaga keladi; karbonat kislota esa vodorod ionlari va bikarbonat ionlariga dissotsiyalanadi. Söngra vodorod ionlari kanalça böşliğiga sekretsiya qilinadi va sekretsiya qilingan har bir vodorod ioni uçun bitta bikarbonat ioni bazolateral membrana orqali reabsorbsiyalaniş uçun tayyor böladi. A turidagi oraliq hujayralar atsidozda vodorod ionlarini çiqarib, bikarbonatni reabsorbsiya qilişda ayniqsa muhimdir.",
+   "lead": "Oraliq hujayralar vodorod, bikarbonat va kaliy ionlarini sekretsiya yoki reabsorbsiya qila oladi."
+  },
+  "ch28-f88": {
+   "text": "B turidagi oraliq hujayralar A turidagi hujayralarnikiga qarama-qarşi vazifalarni bajaradi: alkalozda ular kanalça böşliğiga bikarbonat sekretsiya qiladi va vodorod ionlarini reabsorbsiya qiladi. B turidagi oraliq hujayralarda vodorod va bikarbonat taşuvçilari A turidagi hujayralarga nisbatan hujayra membranasining qarama-qarşi tomonlarida joylaşgan. B turidagi hujayralar apikal membranasidagi xlorid-bikarbonat kontrtransporteri _pendrin_ deb ataladi va A turidagi hujayralarning xlorid-bikarbonat taşuvçisidan farq qiladi. Vodorod ionlari B turidagi oraliq hujayradan hujayra membranasining bazolateral tomonida vodorod-ATFaza yordamida faol çiqariladi, bikarbonat esa böşliqqa sekretsiya qilinadi va şu tariqa alkalozda plazmadagi ortiqça bikarbonat çiqarib yuboriladi. Surunkali metabolik alkaloz yuzaga keltirilsa, B turidagi oraliq hujayralar soni ortadi va bu bikarbonat çiqarilişining kuçayişiga hissa qöşadi, atsidoz esa A turidagi hujayralar sonini oşiradi."
+  },
+  "ch28-f89": {
+   "text": "Bu mexanizm 31-bobda batafsilroq muhokama qilinadi. **Rasm 28-13** da körsatilganidek, oraliq hujayralar kaliy ionlarini ham reabsorbsiya yoki sekretsiya qila oladi."
+  },
+  "ch28-f90": {
+   "text": "_Oxirgi distal kanalça_ va _pöstloq yiğuvçi kanalçasining_ funksional xususiyatlarini quyidagiça umumlaştiriş mumkin: 1. Har ikkala segmentning kanalça membranalari, boşlanğiç distal kanalçaning suyultiruvçi segmenti kabi, moçevinani deyarli butunlay ötkazmaydi. Şu sababli bu segmentlarga kirgan moçevinaning deyarli hammasi ulardan ötib, yiğuvçi nayga yetib boradi va siydik bilan çiqariladi, garçi mağiz qavati yiğuvçi naylarida moçevinaning bir qismi reabsorbsiyalansa ham. 2. Oxirgi distal kanalça ham, pöstloq yiğuvçi kanalçasi ham natriy ionlarini reabsorbsiya qiladi va reabsorbsiya tezligi gormonlar, ayniqsa aldosteron tomonidan boşqariladi. Ayni paytda bu segmentlar kaliy ionlarini peritubulyar kapillyar qonidan kanalça böşliğiga sekretsiya qiladi; bu jarayon ham aldosteron va organizm suyuqliklaridagi kaliy ionlari konsentratsiyasi kabi boşqa omillar tomonidan boşqariladi. 3. Bu nefron segmentlarining A turidagi oraliq hujayralari atsidozda faol vodorod-ATFaza mexanizmi yordamida vodorod ionlarini jadal sekretsiya qila oladi. Bu jarayon proksimal kanalçadagi vodorod ionlarining ikkilamçi faol sekretsiyasidan farq qiladi, çunki u vodorod ionlarini 1000 ga 1 gaça bölgan katta konsentratsiya gradiyentiga qarşi sekretsiya qila oladi. Bu proksimal kanalçada ikkilamçi faol sekretsiya orqali vodorod ionlari uçun erişiş mumkin bölgan nisbatan kiçik gradiyentdan (4–10 baravar) keskin farq qiladi."
+  },
+  "ch28-f91": {
+   "text": "Alkalozda B turidagi oraliq hujayralar bikarbonat sekretsiya qiladi va vodorod ionlarini faol reabsorbsiya qiladi. Şunday qilib, oraliq hujayralar organizm suyuqliklarining kislota-asos muvozanatini boşqarişda asosiy rol öynaydi. 4. Oxirgi distal kanalça va pöstloq yiğuvçi nayining suv ötkazuvçanligi _vazopressin_ deb ham ataladigan ADG konsentratsiyasi bilan boşqariladi. ADG darajasi yuqori bölganda bu kanalça segmentlari suvni ötkazadi, ADG bölmaganda esa suvni amalda ötkazmaydi. Bu öziga xos xususiyat siydikning suyultiriliş yoki konsentrlaniş darajasini boşqarişning muhim mexanizmini ta’minlaydi."
+  },
+  "ch28-f92": {
+   "text": "Mağiz qavati yiğuvçi naylari"
+  },
+  "ch28-f93": {
+   "text": "Mağiz qavati yiğuvçi naylari odatda filtrlangan suv va natriyning 5% dan kamroğini reabsorbsiya qilsa-da, ular siydikni qayta işlaşning sönggi joyi bölib, şu sababli suv va erigan moddalarning yakuniy siydik bilan çiqarilişini belgilaşda hal qiluvçi rol öynaydi."
+  },
+  "ch28-f94": {
+   "text": "Yiğuvçi naylarning epiteliy hujayralari deyarli kubsimon şaklda bölib, silliq yuzaga va nisbatan kam mitoxondriyalarga ega (**Rasm 28-14**). Kanalçaning bu segmentining öziga xos xususiyatlari quyidagilar: 1. Mağiz qavati yiğuvçi nayining suv ötkazuvçanligi ADG darajasi bilan boşqariladi. ADG darajasi yuqori bölganda suv mağiz qavati interstitsiysiga jadal reabsorbsiyalanadi, natijada siydik hajmi kamayadi va erigan moddalarning köpçiligi siydikda konsentrlanadi. 2. Pöstloq yiğuvçi kanalçasidan farqli ölaroq, mağiz qavati yiğuvçi nayi moçevinani ötkazadi va unda luminal hamda bazolateral membranalar orqali moçevina diffuziyasini yengillaştiradigan maxsus _moçevina taşuvçilari_ mavjud. Şu sababli kanalçadagi moçevinaning bir qismi mağiz qavati interstitsiysiga reabsorbsiyalanadi; bu buyrakning uşbu sohasida osmolyallikni oşirişga yordam beradi va buyraklarning konsentrlangan siydik hosil qiliş umumiy qobiliyatiga hissa qöşadi. Bu mavzu 29-bobda muhokama qilinadi. 3. Mağiz qavati yiğuvçi nayi, pöstloq yiğuvçi kanalçasidagi kabi, vodorod ionlarini katta konsentratsiya gradiyentiga qarşi sekretsiya qila oladi. Şunday qilib, mağiz qavati yiğuvçi nayi ham kislota-asos muvozanatini boşqarişda asosiy rol öynaydi."
+  },
+  "ch28-f96": {
+   "text": "Turli kanalça segmentlarida turli erigan moddalar konsentratsiyalarining umumiy körinişi"
+  },
+  "ch28-f97": {
+   "text": "Erigan moddaning kanalça suyuqligida konsentrlanişi yoki konsentrlanmasligi şu modda reabsorbsiyasining suv reabsorbsiyasiga nisbatan darajasi bilan belgilanadi. Agar suvning kattaroq foizi reabsorbsiyalansa, modda konsentrlanadi. Agar erigan moddaning kattaroq foizi reabsorbsiyalansa, modda suyultiriladi."
+  },
+  "ch28-f98": {
+   "text": "**Rasm 28-15** da bir neçta moddaning turli kanalça segmentlarida konsentrlaniş darajasi körsatilgan. Bu rasmdagi barça qiymatlar moddaning kanalça suyuqligidagi konsentratsiyasini uning plazmadagi konsentratsiyasiga bölinganini ifodalaydi. Agar moddaning plazmadagi konsentratsiyasi özgarmas deb faraz qilinsa, kanalça suyuqligi/plazma konsentratsiyalari nisbatidagi har qanday özgariş kanalça suyuqligidagi konsentratsiya özgarişlarini aks ettiradi."
+  },
+  "ch28-f100": {
+   "text": "Filtrat kanalça tizimi böylab harakatlanar ekan, agar erigan moddaga nisbatan köproq suv reabsorbsiyalansa yoki erigan modda kanalça suyuqligiga sof sekretsiya qilingan bölsa, konsentratsiya asta-sekin ortib, 1,0 dan yuqori böladi. Agar konsentratsiyalar nisbati borgan sari 1,0 dan kiçiklaşsa, bu suvga nisbatan erigan moddaning nisbatan köproq reabsorbsiyalanganini bildiradi."
+  },
+  "ch28-f101": {
+   "text": "**Rasm 28-15** ning yuqori qismida tasvirlangan kreatinin kabi moddalar siydikda yuqori darajada konsentrlanadi. Umuman olganda, bu moddalar organizmga kerak emas va buyraklar ularni faqat ozgina reabsorbsiya qilişga yoki umuman reabsorbsiya qilmaslikka, hatto kanalçalarga sekretsiya qilişga moslaşgan; şu tariqa ular siydik bilan katta miqdorda çiqariladi. Aksinça, rasmning pastki qismida tasvirlangan glukoza va aminokislotalar kabi moddalarning barçasi kuçli reabsorbsiyalanadi. Bularning barçasi organizm saqlab qolişi kerak bölgan moddalar bölib, ularning deyarli heç biri siydik bilan yöqotilmaydi."
+  },
+  "ch28-f102": {
+   "text": "KFT ni ölçaş uçun işlatiladigan polisaxarid — inulin buyrak kanalçalarida reabsorbsiyalanmaydi va sekretsiya qilinmaydi. Şu sababli buyrak kanalçasi böylab turli nuqtalarda inulin konsentratsiyasining özgarişlari kanalça suyuqligidagi suv miqdorining özgarişlarini aks ettiradi.",
+   "lead": "Kanalça suyuqligi/plazmadagi inulin konsentratsiyalari nisbati buyrak kanalçalarida suv reabsorbsiyasini baholaş uçun işlatilişi mumkin."
+  },
+  "ch28-f103": {
+   "text": "Masalan, proksimal kanalçalar oxirida inulin uçun kanalça suyuqligi/plazma konsentratsiyalari nisbati taxminan 3,0 gaça kötariladi; bu kanalça suyuqligidagi inulin konsentratsiyasi plazma va koptokça filtratidagiga qaraganda uç baravar yuqori ekanini körsatadi. Inulin kanalçalarda sekretsiya qilinmagani va reabsorbsiyalanmagani uçun kanalça suyuqligi/plazma konsentratsiyalari nisbatining 3,0 ga tengligi filtrlangan suvning faqat uçdan bir qismi buyrak kanalçasida qolganini, uçdan ikki qismi esa suyuqlik proksimal kanalçadan ötayotganda reabsorbsiyalanganini anglatadi. Yiğuvçi naylar oxirida inulin uçun kanalça suyuqligi/plazma konsentratsiyalari nisbati taxminan 125 gaça kötariladi (qarang: **Rasm 28-15**); bu filtrlangan suvning faqat 1/125 qismi kanalçada qolganini va 99% dan ortiği reabsorbsiyalanganini körsatadi."
+  },
+  "ch28-f104": {
+   "text": "Kanalça reabsorbsiyasining boşqarilişi"
+  },
+  "ch28-f105": {
+   "text": "Kanalça reabsorbsiyasi bilan koptokça filtratsiyasi örtasida aniq muvozanatni saqlaş juda muhim bölgani sababli, koptokça filtratsiyasini boşqarişdagi kabi, kanalça reabsorbsiyasini ham bir qança nerv, gormonal va mahalliy boşqaruv mexanizmlari tartibga soladi. Kanalça reabsorbsiyasining muhim xususiyati şundaki, ayrim erigan moddalarning reabsorbsiyasi, ayniqsa gormonal boşqaruv mexanizmlari orqali, boşqalarinikidan mustaqil ravişda boşqarilişi mumkin."
+  },
+  "ch28-f106": {
+   "text": "Glomerulotubulyar muvozanat — kanalça yuki ortişiga javoban reabsorbsiya tezligi ortadi"
+  },
+  "ch28-f107": {
+   "text": "Kanalça reabsorbsiyasini boşqarişning eng asosiy mexanizmlaridan biri kanalçalarning kanalça yuki ortişiga (kanalçaga oqib kirişning ortişiga) javoban öz reabsorbsiya tezligini oşiriş böyiça içki qobiliyatidir. Bu hodisa _glomerulotubulyar muvozanat_ deb ataladi. Masalan, KFT 125 dan 150 ml/min gaça oşsa, proksimal kanalça reabsorbsiyasining mutlaq tezligi ham taxminan 81 ml/min dan (KFT ning 65% i) taxminan 97,5 ml/min gaça (KFT ning 65% i) ortadi. Demak, glomerulotubulyar muvozanat filtrlangan yuk ortişi bilan reabsorbsiyaning umumiy tezligi ortişini anglatadi, garçi proksimal kanalçada reabsorbsiyalanadigan KFT uluşi taxminan 65% da nisbatan özgarmas qolsa ham."
+  },
+  "ch28-f108": {
+   "text": "Glomerulotubulyar muvozanat ma’lum darajada boşqa kanalça segmentlarida, ayniqsa Henle qovuzloğida ham kuzatiladi. Bunga sabab böluvçi aniq mexanizmlar töliq aniqlanmagan, ammo ular qisman, keyinroq muhokama qilinganidek, kanalça va uni örab turgan buyrak interstitsiysidagi fizik kuçlarning özgarişi bilan boğliq bölişi mumkin. Şunisi aniqki, glomerulotubulyar muvozanat mexanizmlari gormonlardan mustaqil ravişda amalga oşişi mumkin va ularni butunlay ajratib olingan buyraklarda, hatto butunlay ajratib olingan proksimal kanalça segmentlarida ham namoyiş qiliş mumkin."
+  },
+  "ch28-f109": {
+   "text": "Glomerulotubulyar muvozanat KFT ortganda distal kanalça segmentlarining ortiqça yuklanişining oldini olişga yordam beradi. Glomerulotubulyar muvozanat KFT ning öz-özidan yuzaga keladigan özgarişlarining siydik ajralişiga ta’sirini yumşatuvçi yana bir himoya çiziği vazifasini bajaradi. (Yuqorida muhokama qilingan boşqa himoya çiziği buyrak autoregulyatsiya mexanizmlarini, ayniqsa KFT ning katta özgarişlarining oldini olişga yordam beradigan tubuloglomerulyar teskari aloqani öz içiga oladi.) Autoregulyatsiya va glomerulotubulyar muvozanat mexanizmlari birgalikda işlab, arterial bosim özgarganda yoki aks holda natriy va hajm gomeostazini buzişi mumkin bölgan boşqa buzilişlar yuz berganda distal kanalçalardagi suyuqlik oqimining katta özgarişlarining oldini oladi."
+  },
+  "ch28-f110": {
+   "text": "Peritubulyar kapillyarlar va buyrak interstitsial suyuqligidagi fizik kuçlar"
+  },
+  "ch28-f111": {
+   "text": "Gidrostatik va kolloid-osmotik kuçlar koptokça kapillyarlarida filtratsiyani qanday boşqarsa, peritubulyar kapillyarlar orqali reabsorbsiya tezligini ham xuddi şunday boşqaradi. Peritubulyar kapillyarlardagi reabsorbsiyaning özgarişlari, öz navbatida, buyrak interstitsiysidagi gidrostatik va kolloid-osmotik bosimlarga va oxir-oqibat buyrak kanalçalaridan suv va erigan moddalarning reabsorbsiyasiga ta’sir qilişi mumkin."
+  },
+  "ch28-f112": {
+   "text": "Koptokça filtrati buyrak kanalçalaridan ötar ekan, me’yorda suvning 99% dan ortiği va erigan moddalarning köpçiligi reabsorbsiyalanadi. Suyuqlik va elektrolitlar kanalçalardan buyrak interstitsiysiga, u yerdan esa peritubulyar kapillyarlarga reabsorbsiyalanadi. Peritubulyar kapillyarlardagi reabsorbsiyaning me’yoriy tezligi taxminan 124 ml/min ni taşkil qiladi.",
+   "lead": "Fizik kuçlar va reabsorbsiya tezligining me’yoriy qiymatlari."
+  },
+  "ch28-f113": {
+   "text": "Peritubulyar kapillyarlar orqali reabsorbsiyani quyidagiça hisoblaş mumkin:"
+  },
+  "ch28-f114": {
+   "text": "Sof reabsorbsion kuç peritubulyar kapillyarlar orqali reabsorbsiyaga yordam beruvçi yoki unga qarşilik qiluvçi gidrostatik va kolloid-osmotik kuçlar yiğindisini ifodalaydi. Bu kuçlarga quyidagilar kiradi: (1) reabsorbsiyaga qarşilik qiluvçi peritubulyar kapillyarlar içidagi gidrostatik bosim (peritubulyar gidrostatik bosim [Pc]);"
+  },
+  "ch28-f115": {
+   "text": "(2) reabsorbsiyaga yordam beruvçi kapillyarlardan taşqaridagi buyrak interstitsiysidagi gidrostatik bosim (Pif); (3) reabsorbsiyaga yordam beruvçi peritubulyar kapillyar plazma oqsillarining kolloid-osmotik bosimi (πc); (4) reabsorbsiyaga qarşilik qiluvçi buyrak interstitsiysidagi oqsillarning kolloid-osmotik bosimi (πif)."
+  },
+  "ch28-f116": {
+   "text": "**Rasm 28-16** da peritubulyar reabsorbsiyaga yordam beruvçi va unga qarşilik qiluvçi kuçlarning taxminiy me’yoriy qiymatlari körsatilgan. Peritubulyar kapillyarlardagi me’yoriy bosim örtaça taxminan 13 mm Hg, buyrak interstitsial suyuqligining gidrostatik bosimi esa örtaça 6 mm Hg bölgani sababli, peritubulyar kapillyardan interstitsial suyuqlikka yönalgan taxminan 7 mm Hg li musbat gidrostatik bosim gradiyenti mavjud bölib, u suyuqlik reabsorbsiyasiga qarşilik qiladi. Suyuqlik reabsorbsiyasiga bu qarşilik reabsorbsiyaga yordam beruvçi kolloid-osmotik bosimlar tomonidan ortiği bilan qoplanadi. Reabsorbsiyaga yordam beruvçi plazma kolloid-osmotik bosimi taxminan 32 mm Hg, reabsorbsiyaga qarşilik qiluvçi interstitsiyning kolloid-osmotik bosimi esa 15 mm Hg ni taşkil qiladi; natijada reabsorbsiyaga yordam beruvçi taxminan 17 mm Hg li sof kolloid-osmotik kuç yuzaga keladi. Şu sababli reabsorbsiyaga yordam beruvçi sof kolloid-osmotik kuçlardan (17 mm Hg) reabsorbsiyaga qarşilik qiluvçi sof gidrostatik kuçlarni (7 mm Hg) ayirsak, taxminan 10 mm Hg li sof reabsorbsion kuç hosil böladi. Bu yuqori qiymat bölib, koptokça kapillyarlaridagiga öxşaydi, ammo qarama-qarşi yönalişga ega."
+  },
+  "ch28-f118": {
+   "text": "Peritubulyar kapillyarlarda suyuqlik reabsorbsiyasining yuqori tezligiga hissa qöşadigan yana bir omil — kapillyarlarning yuqori gidravlik ötkazuvçanligi va katta yuza maydoni tufayli filtratsiya koeffitsiyentining (Kf) kattaligidir. Reabsorbsiya tezligi me’yorda taxminan 124 ml/min, sof reabsorbsiya bosimi esa 10 mm Hg bölgani sababli, Kf me’yorda taxminan 12,4 ml/min/mm Hg ga teng."
+  },
+  "ch28-f119": {
+   "text": "Peritubulyar kapillyarlardagi reabsorbsiyaning buyrak gemodinamikasi özgarişlari bevosita ta’sir qiladigan ikki belgilovçisi — peritubulyar kapillyarlarning gidrostatik va kolloid-osmotik bosimlaridir. _Peritubulyar kapillyarlardagi gidrostatik bosimga arterial bosim hamda olib keluvçi va olib ketuvçi arteriolalarning qarşiligi_ quyidagiça ta’sir qiladi: 1. Arterial bosimning ortişi peritubulyar kapillyarlardagi gidrostatik bosimni oşirişga va reabsorbsiya tezligini pasaytirişga moyil böladi. Bu ta’sir buyrak qon oqimini, şuningdek buyrak qon tomirlaridagi gidrostatik bosimlarni nisbatan özgarmas saqlab turuvçi autoregulyatsiya mexanizmlari tomonidan ma’lum darajada yumşatiladi. 2. Olib keluvçi yoki olib ketuvçi arteriolalar qarşiligining ortişi peritubulyar kapillyarlardagi gidrostatik bosimni pasaytiradi va reabsorbsiya tezligini oşirişga moyil böladi. Olib ketuvçi arteriolalarning torayişi koptokça kapillyarlaridagi gidrostatik bosimni oşirsa-da, peritubulyar kapillyarlardagi gidrostatik bosimni pasaytiradi. Peritubulyar kapillyarlardagi reabsorbsiyaning ikkinçi asosiy belgilovçisi — bu kapillyarlardagi plazmaning _kolloid-osmotik bosimi_; kolloid-osmotik bosimning ortişi peritubulyar kapillyarlardagi reabsorbsiyani oşiradi. _Peritubulyar kapillyarlarning kolloid-osmotik bosimini quyidagilar belgilaydi:_ (1) _sistemali plazma kolloid-osmotik bosimi_ (sistemali qonda plazma oqsillari konsentratsiyasining ortişi peritubulyar kapillyarlarning kolloid-osmotik bosimini oşirişga va şu orqali reabsorbsiyani kuçaytirişga moyil böladi); (2) _filtratsiya fraksiyasi_ — filtratsiya fraksiyasi qançalik yuqori bölsa, koptokça orqali plazmaning şunçalik katta uluşi filtrlanadi va natijada ortda qolgan plazmada oqsil şunçalik konsentrlanadi. Demak, filtratsiya fraksiyasining ortişi ham peritubulyar kapillyarlardagi reabsorbsiya tezligini oşirişga moyil böladi. Filtratsiya fraksiyasi KFT/BPO nisbati sifatida aniqlangani sababli, filtratsiya fraksiyasining ortişi KFT ortişi yoki BPO kamayişi natijasida yuzaga kelişi mumkin. Keyinroq muhokama qilinganidek, angiotenzin II kabi ayrim buyrak vazokonstriktorlari BPO ni kamaytirib, filtratsiya fraksiyasini oşiriş orqali peritubulyar kapillyarlardagi reabsorbsiyani kuçaytiradi.",
+   "lead": "Peritubulyar kapillyarlardagi fizik kuçlarning boşqarilişi."
+  },
+  "ch28-f120": {
+   "text": "Peritubulyar kapillyarlar Kf ining özgarişlari ham reabsorbsiya tezligiga ta’sir qilişi mumkin, çunki Kf kapillyarlarning ötkazuvçanligi va yuza maydonining ölçovidir. Kf ning ortişi reabsorbsiyani oşiradi, kamayişi esa peritubulyar kapillyarlardagi reabsorbsiyani pasaytiradi. Köpgina fiziologik şaroitlarda Kf nisbatan özgarmas qoladi. **Jadval 28-2** da peritubulyar kapillyarlardagi reabsorbsiya tezligiga ta’sir qilişi mumkin bölgan omillar umumlaştirilgan."
+  },
+  "ch28-f122": {
+   "text": "Oxir-oqibat peritubulyar kapillyarlardagi fizik kuçlarning özgarişlari kanalçalarni örab turgan buyrak interstitsiysidagi fizik kuçlarni özgartiriş orqali kanalça reabsorbsiyasiga ta’sir qiladi. Masalan, peritubulyar kapillyarlardagi gidrostatik bosimning ortişi yoki kolloid-osmotik bosimning kamayişi natijasida peritubulyar kapillyar membranalari orqali reabsorbsion kuçning pasayişi suyuqlik va erigan moddalarning interstitsiydan peritubulyar kapillyarlarga sörilişini kamaytiradi. Bu esa, öz navbatida, buyrak interstitsial suyuqligining gidrostatik bosimini oşiradi va buyrak interstitsiysidagi oqsillarning suyulişi tufayli interstitsial suyuqlikning kolloid-osmotik bosimini pasaytiradi. Söngra bu özgarişlar suyuqlikning buyrak kanalçalaridan interstitsiyga sof reabsorbsiyasini, ayniqsa proksimal kanalçalarda, kamaytiradi.",
+   "lead": "Buyrak interstitsiysidagi gidrostatik va kolloid-osmotik bosimlar."
+  },
+  "ch28-f123": {
+   "text": "Interstitsial suyuqlikdagi gidrostatik va kolloid-osmotik bosimlar özgarişlarining kanalça reabsorbsiyasiga ta’sir qiliş mexanizmlarini erigan moddalar va suv reabsorbsiyalanadigan yöllarni körib çiqiş orqali tuşuniş mumkin (**Rasm 28-17**). Erigan moddalar faol transport yoki passiv diffuziya orqali hujayralararo kanallarga yoki buyrak interstitsiysiga kirgaç, suv kanalça böşliğidan interstitsiyga osmos yöli bilan tortiladi. Bundan taşqari, suv va erigan moddalar interstitsial böşliqlarga tuşgaç, ular peritubulyar kapillyarlarga sörib olinişi yoki epiteliy birikmalari orqali kanalça böşliğiga qaytib diffuziyalanişi mumkin. Proksimal kanalça epiteliy hujayralari orasidagi ziç deb ataladigan birikmalar aslida ötkazuvçan bölib, natriyning ançagina miqdori bu birikmalar orqali har ikki yönalişda diffuziyalanişi mumkin. Peritubulyar kapillyarlarda reabsorbsiyaning me’yoriy yuqori tezligida suv va erigan moddalarning sof harakati peritubulyar kapillyarlarga yönalgan bölib, kanalça böşliğiga qaytib sizib çiqiş juda kam böladi. Biroq peritubulyar kapillyarlardagi reabsorbsiya kamayganda interstitsial suyuqlikning gidrostatik bosimi ortadi va erigan moddalar hamda suvning kattaroq miqdori kanalça böşliğiga qaytib sizib çiqişga moyil böladi, bu esa sof reabsorbsiya tezligini kamaytiradi (qarang: **Rasm 28-17**)."
+  },
+  "ch28-f125": {
+   "text": "Peritubulyar kapillyarlardagi reabsorbsiya me’yoriy darajadan oşganda buning aksi kuzatiladi. Peritubulyar kapillyarlar tomonidan reabsorbsiyaning dastlabki ortişi interstitsial suyuqlikning gidrostatik bosimini pasaytirişga va kolloid-osmotik bosimini oşirişga moyil böladi. Bu ikkala kuç suyuqlik va erigan moddalarning kanalça böşliğidan interstitsiyga ötişiga yordam beradi; şu sababli suv va erigan moddalarning kanalça böşliğiga qaytib sizib çiqişi kamayadi va kanalçadagi sof reabsorbsiya ortadi."
+  },
+  "ch28-f126": {
+   "text": "Şunday qilib, buyrak interstitsiysidagi gidrostatik va kolloid-osmotik bosimlarning özgarişlari orqali suv va erigan moddalarning peritubulyar kapillyarlarga sörilişi ularning kanalça böşliğidan interstitsiyga sof reabsorbsiyasiga aniq moslaştiriladi. Umuman olganda, _peritubulyar kapillyarlardagi reabsorbsiyani oşiruvçi kuçlar buyrak kanalçalaridan reabsorbsiyani ham oşiradi_. _Aksinça_, _peritubulyar kapillyarlardagi reabsorbsiyani tormozlovçi gemodinamik özgarişlar suv va erigan moddalarning kanalça reabsorbsiyasini ham tormozlaydi_."
+  },
+  "ch28-f127": {
+   "text": "Arterial bosimning siydik ajralişiga ta’siri — bosim natriurezi va bosim diurezi"
+  },
+  "ch28-f128": {
+   "text": "Arterial bosimning hatto kiçik ortişi ham natriy va suvning siydik bilan çiqarilişini keskin oşirişi mumkin; bu hodisalar _bosim natriurezi_ va _bosim diurezi_ deb ataladi. 27-bobda tasvirlangan autoregulyatsiya mexanizmlari tufayli arterial bosimning 75 dan 160 mm Hg gaça çegarada ortişi odatda buyrak qon oqimi va KFT ga juda kam ta’sir qiladi. KFT ning yuzaga keladigan ozgina ortişi arterial bosim ortişining siydik ajralişiga ta’siriga qisman hissa qöşadi. Buyrak kasalliklarida tez-tez uçraydiganidek, KFT autoregulyatsiyasi buzilganda arterial bosimning ortişi KFT ni ança köproq oşirişi mumkin."
+  },
+  "ch28-f129": {
+   "text": "Buyrak arterial bosimi ortişining siydik ajralişini oşiruvçi ikkinçi ta’siri şundaki, u natriy va suv filtrlangan yuklarining kanalçalarda reabsorbsiyalanadigan foizini kamaytiradi. Bu ta’sir uçun mas’ul mexanizmlar töliq aniqlanmagan bölsa-da, ular fizik omillar zanjirini, şuningdek parakrin va gormonal ta’sirlarni öz içiga oladi. Arterial bosimning ortişi peritubulyar kapillyarlarda, ayniqsa buyrak mağiz qavatidagi töğri tomirlarda (vasa recta), gidrostatik bosimning biroz ortişiga va buning ortidan _buyrak interstitsial suyuqligi gidrostatik bosimining ortişiga_ sabab böladi. Yuqorida muhokama qilinganidek, buyrak interstitsial suyuqligi gidrostatik bosimining ortişi natriyning kanalça böşliğiga qaytib sizib çiqişini kuçaytiradi, şu orqali natriy va suvning sof reabsorbsiyasini kamaytiradi va buyrak arterial bosimi kötarilganda siydik ajraliş tezligini yanada oşiradi."
+  },
+  "ch28-f130": {
+   "text": "Bosim natriurezi va bosim diureziga hissa qöşadigan uçinçi omil — _angiotenzin II hosil bölişining kamayişi_. Angiotenzin II ning özi kanalçalarda natriy reabsorbsiyasini oşiradi va aldosteron sekretsiyasini rağbatlantiradi, aldosteron esa natriy reabsorbsiyasini yanada kuçaytiradi. Şu sababli angiotenzin II hosil bölişining kamayişi arterial bosim ortganda kuzatiladigan kanalçadagi natriy reabsorbsiyasining pasayişiga hissa qöşadi."
+  },
+  "ch28-f131": {
+   "text": "Bosim natriureziga hissa qöşişi mumkin bölgan törtinçi omil — buyrak kanalçalarida _natriy taşuvçi oqsillarning_ apikal membranalardan sitoplazmaga _internalizatsiyasi_ (içkariga olinişi) bölib, bu hujayra membranalari orqali taşilişi mumkin bölgan natriy miqdorini kamaytiradi. Arterial bosim ortişining bu ta’siri qisman angiotenzin II hosil bölişining kamayişi va boşqa autakoid yoki parakrin signallar orqali amalga oşişi mumkin."
+  },
+  "ch28-f132": {
+   "text": "Kanalça reabsorbsiyasining gormonal boşqarilişi"
+  },
+  "ch28-f133": {
+   "text": "Organizm suyuqliklari hajmi va erigan moddalar konsentratsiyalarini aniq boşqariş uçun buyraklar turli erigan moddalar va suvni turliça tezlikda, ba’zan bir-biridan mustaqil ravişda çiqarişi kerak. Masalan, kaliy iste’moli ortganda buyraklar natriy va boşqa elektrolitlarning me’yoriy çiqarilişini saqlagan holda köproq kaliy çiqarişi kerak. Xuddi şuningdek, natriy iste’moli özgarganda buyraklar boşqa elektrolitlar çiqarilişini sezilarli özgartirmasdan natriyning siydik bilan çiqarilişini tegişliça moslaştirişi kerak. Organizmdagi bir qança gormonlar turli elektrolitlar va suv uçun kanalça reabsorbsiyasining ana şunday öziga xosligini ta’minlaydi. **Jadval 28-3** da kanalça reabsorbsiyasini boşqaruvçi eng muhim gormonlarning ayrimlari, ularning buyrak kanalçasidagi asosiy ta’sir joylari hamda erigan moddalar va suv çiqarilişiga ta’siri umumlaştirilgan. Bu gormonlarning ayrimlari 29- va 30-boblarda batafsilroq muhokama qilinadi, bu yerda esa ularning buyrak kanalçalariga ta’sirini qisqaça körib çiqamiz."
+  },
+  "ch28-f135": {
+   "text": "Buyrak usti bezi pöstloğining koptokçali zonasi (zona glomerulosa) hujayralari sekretsiya qiladigan aldosteron natriy reabsorbsiyasining hamda buyrak kanalçalarida kaliy va vodorod ionlari sekretsiyasining muhim boşqaruvçisidir. _Aldosteron ta’sir qiladigan asosiy kanalça joyi — pöstloq yiğuvçi kanalçasining asosiy hujayralari_. Aldosteron natriy reabsorbsiyasi va kaliy sekretsiyasini pöstloq yiğuvçi kanalçasi membranasining bazolateral tomonidagi Na+-K+ ATFaza nasosini rağbatlantiriş orqali oşiradi. Aldosteron, şuningdek, epiteliy natriy kanallarini membranaga joylaştiriş orqali membrana luminal tomonining natriy ötkazuvçanligini ham oşiradi. Aldosteron ta’sirining hujayra mexanizmlari 78-bobda muhokama qilinadi.",
+   "lead": "Aldosteron buyrakda natriy reabsorbsiyasini va kaliy sekretsiyasini rağbatlantiradi."
+  },
+  "ch28-f136": {
+   "text": "Aldosteron sekretsiyasining eng muhim stimullari quyidagilar: (1) hujayradan taşqari kaliy konsentratsiyasining ortişi; (2) odatda natriy va hajm kamayişi yoki past qon bosimi bilan keçadigan holatlarda kuzatiladigan angiotenzin II darajasining ortişi. Bu holatlarda aldosteron sekretsiyasining ortişi buyraklarda natriy va suvning uşlanib qolişiga sabab böladi va hujayradan taşqari suyuqlik hajmi hamda qon bosimini me’yorga qaytarişga yordam beradi."
+  },
+  "ch28-f137": {
+   "text": "Buyrak usti bezining yemirilişi yoki faoliyati buzilişida _(Addison kasalligi)_ kuzatiladiganidek, aldosteron yetişmaganda organizmdan natriy köp yöqotiladi va kaliy töplanadi. Aksinça, buyrak usti bezi ösmalari bölgan bemorlarda _(Konn sindromi)_ kuzatiladiganidek, aldosteronning ortiqça sekretsiyasi natriyning uşlanib qolişi va plazmadagi kaliy konsentratsiyasining pasayişi bilan keçadi; kaliyning pasayişi qisman buyraklar tomonidan kaliyning haddan taşqari köp sekretsiya qilinişi bilan boğliq. Aldosteronning minimal darajasi mavjud ekan, natriy balansining kundalik boşqarilişi saqlanib qolişi mumkin bölsa-da, aldosteron sekretsiyasini tegişliça moslaştira olmaslik kaliyning buyrak orqali çiqarilişi va organizm suyuqliklaridagi kaliy konsentratsiyasining boşqarilişini keskin buzadi. Demak, 30-bobda muhokama qilinganidek, aldosteron natriy konsentratsiyasiga qaraganda kaliy konsentratsiyasining boşqaruvçisi sifatida yanada muhimroqdir."
+  },
+  "ch28-f138": {
+   "text": "Angiotenzin II, ehtimol, organizmdagi natriyni uşlab qoluvçi eng kuçli gormondir. 19-bobda muhokama qilinganidek, angiotenzin II hosil bölişi past qon bosimi va/yoki hujayradan taşqari suyuqlik hajmining kamligi bilan keçadigan holatlarda — masalan, qon ketişda yoki haddan taşqari terlaş yoki oğir diareya tufayli organizm suyuqliklaridan tuz va suv yöqotilganda — ortadi. Angiotenzin II hosil bölişining ortişi buyrak kanalçalaridan natriy va suv reabsorbsiyasini uçta asosiy ta’sir orqali oşirib, qon bosimi va hujayradan taşqari hajmni me’yorga qaytarişga yordam beradi: 1. _Angiotenzin II aldosteron sekretsiyasini rağbatlantiradi_, aldosteron esa öz navbatida natriy reabsorbsiyasini oşiradi. 2. _Angiotenzin II olib ketuvçi arteriolalarni toraytiradi_; bu peritubulyar kapillyarlar dinamikasiga natriy va suv reabsorbsiyasini oşiruvçi ikki xil ta’sir körsatadi. Birinçidan, olib ketuvçi arteriolaning torayişi peritubulyar kapillyarlardagi gidrostatik bosimni pasaytiradi, bu esa kanalçadagi sof reabsorbsiyani, ayniqsa proksimal kanalçalarda, oşiradi. Ikkinçidan, olib ketuvçi arteriolaning torayişi buyrak qon oqimini kamaytirib, koptokçada filtratsiya fraksiyasini oşiradi hamda peritubulyar kapillyarlarda oqsillar konsentratsiyasi va kolloid-osmotik bosimni kötaradi. Bu mexanizm ham peritubulyar kapillyarlardagi reabsorbsion kuçni oşiradi va kanalçalarda natriy va suv reabsorbsiyasini kuçaytiradi. 3. _Angiotenzin II proksimal kanalçalar, Henle qovuzloği, distal kanalçalar va yiğuvçi kanalçalarda natriy reabsorbsiyasini bevosita rağbatlantiradi._ Angiotenzin II ning bevosita ta’sirlaridan biri — kanalça epiteliy hujayralarining bazolateral membranasidagi Na+-K+ ATFaza nasosini rağbatlantirişdir. Ikkinçi ta’siri — luminal membranada, ayniqsa proksimal kanalçada, natriy-vodorod almaşinuvini rağbatlantirişdir. Angiotenzin II ning uçinçi ta’siri — bazolateral membranada natriy-bikarbonat kotransportini rağbatlantirişdir (**Rasm 28-18**). Şunday qilib, angiotenzin II buyrak kanalçalarining köpgina segmentlarida epiteliy hujayra membranasining ham luminal, ham bazolateral yuzalari orqali natriy transportini rağbatlantiradi. Angiotenzin II ning bu köp tomonlama ta’sirlari uning darajasi ortganda buyraklarda natriy va suvning sezilarli uşlanib qolişiga sabab böladi va, 30-bobda muhokama qilinganidek, organizmning hujayradan taşqari suyuqlik hajmi va qon bosimida katta özgarişlarsiz natriy iste’molining keng özgarişlariga moslaşişida hal qiluvçi rol öynaydi.",
+   "lead": "Angiotenzin II natriy va suv reabsorbsiyasini oşiradi."
+  },
+  "ch28-f140": {
+   "text": "Angiotenzin II buyrak kanalçalarida natriy reabsorbsiyasini oşiriş bilan bir vaqtda, uning olib ketuvçi arteriolalarga vazokonstriktor ta’siri çiqarilişi asosan yetarli KFT ga boğliq bölgan moçevina va kreatinin kabi metabolik çiqindi mahsulotlarning me’yoriy çiqarilişini saqlaşga ham yordam beradi. Şunday qilib, angiotenzin II hosil bölişining ortişi buyraklarga metabolik çiqindi mahsulotlarni uşlab qolmasdan natriy va suvni uşlab qoliş imkonini beradi."
+  },
+  "ch28-f141": {
+   "text": "ADG ning buyrakdagi eng muhim ta’siri distal kanalça, yiğuvçi kanalça va yiğuvçi nay epiteliysining suv ötkazuvçanligini oşirişdir. Bu ta’sir organizmga suvsizlaniş kabi holatlarda suvni tejaşga yordam beradi. ADG bölmaganda distal kanalçalar va yiğuvçi naylarning suv ötkazuvçanligi past böladi va buyraklar katta miqdorda suyultirilgan siydik çiqaradi; bu holat _qandsiz diabet_ (diabetes insipidus) deb ataladi. Demak, 29- va 76-boblarda batafsilroq muhokama qilinganidek, ADG ning ta’sirlari siydikning suyultiriliş yoki konsentrlaniş darajasini boşqarişda asosiy rol öynaydi.",
+   "lead": "Antidiuretik gormon suv reabsorbsiyasini oşiradi."
+  },
+  "ch28-f142": {
+   "text": "ADG oxirgi distal kanalçalar, yiğuvçi kanalçalar va yiğuvçi naylardagi öziga xos _V2 retseptorlariga_ birikib, siklik adenozinmonofosfat hosil bölişini oşiradi va protein kinazalarni faollaştiradi (**Rasm 28-19**). Bu, öz navbatida, _akvaporin-2_ (AQP-2) deb ataladigan hujayra içi oqsilining hujayra membranalarining luminal tomoniga harakatlanişini rağbatlantiradi. AQP-2 molekulalari bir joyga töplanadi va ekzotsitoz yöli bilan hujayra membranasi bilan qöşilib, suvning hujayralar orqali tez diffuziyalanişiga imkon beruvçi _suv kanallarini_ hosil qiladi. Hujayra membranasining bazolateral tomonida boşqa akvaporinlar — AQP-3 va AQP-4 ham mavjud bölib, ular suvning hujayradan tez çiqişi uçun yöl oçadi, ammo bu akvaporinlar ADG tomonidan boşqarilmaydi. ADG darajasining surunkali ortişi AQP-2 geni transkripsiyasini rağbatlantiriş orqali buyrak kanalçasi hujayralarida AQP-2 oqsili hosil bölişini ham oşiradi. ADG konsentratsiyasi kamayganda AQP-2 molekulalari hujayra sitoplazmasiga qaytariladi, natijada suv kanallari luminal membranadan olib taşlanadi va suv ötkazuvçanligi pasayadi. ADG ning bu ta’sirlari 29- va 76-boblarda batafsilroq muhokama qilinadi."
+  },
+  "ch28-f144": {
+   "text": "Yurak bölmaçalarining öziga xos hujayralari plazma hajmining kengayişi va bölmaçalardagi qon bosimining ortişi tufayli çözilganda, ular _bölmaça natriyuretik peptidi_ (atrial natriuretic peptide, ANP) deb ataladigan peptidni sekretsiya qiladi. Bu peptid darajasining ortişi, öz navbatida, buyrak kanalçalarida, ayniqsa yiğuvçi naylarda, natriy va suv reabsorbsiyasini bevosita tormozlaydi. ANP renin sekretsiyasini va şu orqali angiotenzin II hosil bölişini ham tormozlaydi, bu esa öz navbatida buyrak kanalçalaridagi reabsorbsiyani kamaytiradi. Natriy va suv reabsorbsiyasining bunday kamayişi siydik bilan çiqarilişni oşiradi va qon hajmini me’yorga qaytarişga yordam beradi.",
+   "lead": "Bölmaça natriyuretik peptidi natriy va suv reabsorbsiyasini kamaytiradi."
+  },
+  "ch28-f145": {
+   "text": "Dimlanişli yurak yetişmovçiligida qorinçalarning nasos funksiyasi buzilişi tufayli yurak bölmaçalari çözilganda ANP darajasi keskin kötariladi. ANP darajasining ortişi yurak yetişmovçiligida natriy va suvning uşlanib qolişini susaytirişga yordam beradi."
+  },
+  "ch28-f146": {
+   "text": "Paratireoid gormon organizmda kalsiyni boşqaruvçi eng muhim gormonlardan biridir. Uning buyraklardagi asosiy ta’siri kalsiyning kanalçalarda reabsorbsiyasini, ayniqsa _distal kanalçalarda_ va distal kanalçalarni pöstloq yiğuvçi nayi bilan boğlovçi kanalça segmenti — _biriktiruvçi kanalçalarda_ oşirişdir. 30-bobda muhokama qilinganidek, paratireoid gormon boşqa ta’sirlarga ham ega, jumladan proksimal kanalçada fosfat reabsorbsiyasini tormozlaydi va Henle qovuzloğida magniy reabsorbsiyasini rağbatlantiradi.",
+   "lead": "Paratireoid gormon kalsiy reabsorbsiyasini oşiradi."
+  },
+  "ch28-f147": {
+   "text": "Simpatik nerv tizimining faollaşuvi natriy reabsorbsiyasini oşiradi"
+  },
+  "ch28-f148": {
+   "text": "Simpatik nerv tizimining faollaşuvi, agar kuçli bölsa, buyrak arteriolalarini toraytirib, KFT ni pasaytiriş orqali natriy va suv çiqarilişini kamaytirişi mumkin. Biroq simpatik faollaşuvning hatto past darajalari ham proksimal kanalçada, Henle qovuzloğining yöğon kötariluvçi tirsagida va, ehtimol, buyrak kanalçasining distalroq qismlarida natriy reabsorbsiyasini oşiriş orqali natriy va suv çiqarilişini kamaytiradi. Bu buyrak kanalçasi epiteliy hujayralaridagi α-adrenergik retseptorlarning faollaşuvi orqali amalga oşadi."
+  },
+  "ch28-f149": {
+   "text": "Simpatik nerv tizimining stimulyatsiyasi renin ajralişini va angiotenzin II hosil bölişini ham oşiradi; bu kanalça reabsorbsiyasini oşiriş va natriyning buyrak orqali çiqarilişini kamaytirişga qaratilgan umumiy ta’sirni yanada kuçaytiradi."
+  },
+  "ch28-f150": {
+   "text": "Buyrak funksiyasini miqdoriy baholaşda klirens usullaridan foydalaniş"
+  },
+  "ch28-f151": {
+   "text": "Turli moddalarning plazmadan tozalaniş tezliklari buyraklarning turli moddalarni çiqariş samaradorligini miqdoriy baholaşning qulay usulini beradi (**Jadval 28-4**). Ta’rifga köra, moddaning buyrak klirensi — vaqt birligi içida _buyraklar tomonidan şu moddadan_ töliq tozalanadigan plazma hajmidir."
+  },
+  "ch28-f153": {
+   "text": "Garçi moddadan _töliq_ tozalanadigan alohida plazma hajmi mavjud bölmasa-da, buyrak klirensi buyraklarning ekskretor funksiyasini miqdoriy baholaşning qulay usulini beradi. Buyrak klirensidan buyrak qon oqimini, KFT ni, kanalça reabsorbsiyasi va kanalça sekretsiyasini miqdoriy baholaş uçun foydalanişimiz mumkin."
+  },
+  "ch28-f154": {
+   "text": "Klirens tamoyilini tuşuntiriş uçun quyidagi misolni körib çiqamiz. Agar buyraklardan ötayotgan plazmaning har bir millilitrida 1 milligramm modda bölsa va har daqiqada şu moddaning 1 milligrammi siydik bilan çiqarilsa, demak, plazmaning 1 ml/min qismi şu moddadan tozalanadi. Klirens — vaqt birligi içida siydik bilan çiqarilgan modda miqdorini yetkazib beriş uçun zarur bölgan plazma hajmidir. Matematik körinişda:"
+  },
+  "ch28-f155": {
+   "text": "Cs × Ps = Us × V bu yerda Cs — s moddaning klirens tezligi, Ps — moddaning plazmadagi konsentratsiyasi, Us — şu moddaning siydikdagi konsentratsiyasi, V esa siydik oqimi tezligi. Bu tenglamani özgartirib, klirensni quyidagiça ifodalaş mumkin:"
+  },
+  "ch28-f156": {
+   "text": "Ps Demak, moddaning buyrak klirensi şu moddaning siydik bilan çiqariliş tezligini (Us × V) uning plazmadagi konsentratsiyasiga böliş orqali hisoblanadi."
+  },
+  "ch28-f157": {
+   "text": "Inulin klirensi koptokça filtratsiyasi tezligini baholaş uçun işlatilişi mumkin"
+  },
+  "ch28-f158": {
+   "text": "Agar modda erkin filtrlansa (suv kabi erkin filtrlansa) va buyrak kanalçalarida reabsorbsiyalanmasa yoki sekretsiya qilinmasa, şu moddaning siydik bilan çiqariliş tezligi (Us × V) uning buyraklarda filtrlaniş tezligiga (KFT × Ps) teng böladi. Demak:"
+  },
+  "ch28-f159": {
+   "text": "Şu sababli KFT ni şu moddaning klirensi sifatida quyidagiça hisoblaş mumkin:"
+  },
+  "ch28-f160": {
+   "text": "Bu mezonlarga javob beradigan modda — molekulyar massasi taxminan 5200 bölgan polisaxarid molekulasi _inulindir_. Inulin organizmda hosil bölmaydi, ayrim ösimliklarning ildizlarida uçraydi va KFT ni ölçaş uçun bemorga vena içiga yuborilişi kerak."
+  },
+  "ch28-f161": {
+   "text": "**Rasm 28-20** da inulinning buyrakda qanday “qayta işlanişi” körsatilgan. Bu misolda plazmadagi konsentratsiya 1 mg/ml, siydikdagi konsentratsiya 125 mg/ml, siydik oqimi tezligi esa 1 ml/min. Demak, siydikka daqiqasiga 125 mg inulin ötadi. Söngra inulin klirensi inulinning siydik bilan çiqariliş tezligini plazmadagi konsentratsiyaga böliş orqali hisoblanadi va 125 ml/min qiymati olinadi. Şunday qilib, siydikda paydo böladigan inulinni yetkazib beriş uçun buyraklardan oqib ötayotgan 125 millilitr plazma filtrlanişi kerak."
+  },
+  "ch28-f163": {
+   "text": "KFT ni aniqlaş uçun işlatilişi mumkin bölgan yagona modda inulin emas. KFT ni baholaş uçun klinikada qöllanilgan boşqa moddalarga _iotalamat, xrom-etilendiamintetrasirka kislota_ (EDTA), _sistatin C_ va _kreatinin_ kiradi."
+  },
+  "ch28-f164": {
+   "text": "Kreatinin klirensi va plazmadagi kreatinin konsentratsiyasi koptokça filtratsiyasi tezligini baholaş uçun işlatilişi mumkin"
+  },
+  "ch28-f165": {
+   "text": "Kreatinin muskullar moddalar almaşinuvining qöşimça mahsuloti bölib, organizm suyuqliklaridan deyarli butunlay koptokça filtratsiyasi orqali tozalanadi. Şu sababli kreatinin klirensidan ham KFT ni baholaş uçun foydalaniş mumkin. Kreatinin klirensini ölçaş bemorga vena içiga infuziya qilişni talab qilmagani uçun bu usul klinikada KFT ni baholaşda inulin klirensiga qaraganda ança keng qöllaniladi. Biroq kreatinin klirensi KFT ning mukammal körsatkiçi emas, çunki kreatininning oz qismi kanalçalarda sekretsiya qilinadi va şu sababli çiqarilgan kreatinin miqdori filtrlangan miqdordan biroz ortiq böladi. Plazmadagi kreatininni ölçaşda me’yorda kiçik xatolik bölib, u plazmadagi kreatinin konsentratsiyasini oşirib körsatadi; omadli tasodif tufayli bu ikki xatolik bir-birini muvozanatlaşga moyil. Şu sababli kreatinin klirensi KFT ni yetarliça töğri baholaş imkonini beradi."
+  },
+  "ch28-f166": {
+   "text": "Ayrim hollarda kreatinin klirensini (CCr) ölçaş uçun bemordan siydik yiğiş amaliy jihatdan qulay bölmasligi mumkin. Biroq KFT _özgarişlarini_ taxminiy baholaşni KFT ga teskari proporsional bölgan plazmadagi kreatinin konsentratsiyasini (PCr) ölçaşning özi bilan oliş mumkin:"
+  },
+  "ch28-f167": {
+   "text": "Agar KFT tösatdan 50% ga kamaysa, buyraklar vaqtinça atigi yarim miqdordagi kreatininni filtrlaydi va çiqaradi; bu kreatininning organizm suyuqliklarida töplanişiga va plazmadagi konsentratsiyasining ortişiga sabab böladi. Plazmadagi kreatinin konsentratsiyasi kreatininning filtrlangan yuki (PCr × KFT) va kreatinin çiqarilişi (UCr × V) me’yorga qaytgunga hamda kreatinin hosil bölişi bilan kreatinin çiqarilişi örtasidagi muvozanat qayta tiklangunça ortişda davom etadi. **Rasm 28-21** da körsatilganidek, bu javob plazmadagi kreatinin darajasi me’yordan taxminan ikki baravar oşganda yuzaga keladi."
+  },
+  "ch28-f169": {
+   "text": "Agar KFT me’yorning törtdan biriga tuşsa, plazmadagi kreatinin darajasi me’yordan taxminan tört baravar oşadi, KFT ning me’yorning sakkizdan biriga kamayişi esa plazmadagi kreatinin darajasini me’yordan sakkiz baravar oşiradi. Şunday qilib, barqaror holat şaroitida KFT kamayişiga qaramay kreatininning çiqariliş tezligi uning hosil böliş tezligiga teng böladi. Biroq **Rasm 28-22** da körsatilganidek, kreatinin çiqarilişining bu me’yoriy tezligi plazmadagi kreatinin konsentratsiyasining ortişi hisobiga ta’minlanadi."
+  },
+  "ch28-f171": {
+   "text": "Para-aminogippur kislota klirensi buyrak plazma oqimini baholaş uçun işlatilişi mumkin"
+  },
+  "ch28-f172": {
+   "text": "Nazariy jihatdan, agar modda plazmadan _töliq_ tozalansa, şu moddaning klirens tezligi umumiy BPO ga teng böladi. Boşqaça aytganda, qon bilan buyraklarga yetkazib berilgan modda miqdori (BPO × Ps) siydik bilan çiqarilgan miqdorga (Us × V˙) teng bölar edi. Demak, BPO ni quyidagiça hisoblaş mumkin:"
+  },
+  "ch28-f173": {
+   "text": "KFT umumiy plazma oqimining atigi taxminan 20% ini taşkil qilgani sababli, plazmadan töliq tozalanadigan modda koptokça filtratsiyasi bilan bir qatorda kanalça sekretsiyasi orqali ham çiqarilişi kerak (**Rasm 28-23**). Buyraklar tomonidan _töliq_ tozalanadigan biror modda ma’lum emas. PAG deb ataladigan modda plazmadan taxminan 90% ga tozalanadi. Şu sababli PAG klirensidan BPO ni taxminiy baholaş uçun foydalaniş mumkin. Aniqroq bölişi uçun buyraklardan çiqib ketayotgan qonda hali ham qolgan PAG foiziga tuzatiş kiritiş mumkin. Qondan olib taşlangan PAG foizi _PAG ning ekstraksiya koeffitsiyenti_ deb ataladi va soğlom buyraklarda örtaça taxminan 90% ni taşkil qiladi. Kasallangan buyraklarda şikastlangan kanalçalarning PAG ni kanalça suyuqligiga sekretsiya qila olmasligi tufayli bu ekstraksiya koeffitsiyenti kamayişi mumkin."
+  },
+  "ch28-f175": {
+   "text": "BPO ni hisoblaşni quyidagi misolda körsatiş mumkin. Faraz qilaylik, plazmadagi PAG konsentratsiyasi 0,01 mg/ml, siydikdagi konsentratsiyasi 5,85 mg/ml, siydik oqimi tezligi esa 1 ml/min. PAG klirensi PAG ning siydik bilan çiqariliş tezligini (5,85 [mg/ml] × 1 [ml/min]) plazmadagi PAG konsentratsiyasiga (0,01 mg/ml) böliş orqali hisoblanadi. Demak, PAG klirensi 585 ml/min ga teng."
+  },
+  "ch28-f176": {
+   "text": "Agar PAG ning ekstraksiya koeffitsiyenti 90% bölsa, haqiqiy BPO ni 585 ml/min ni 0,9 ga böliş orqali hisoblaş mumkin va 650 ml/min qiymati olinadi. Demak, umumiy BPO ni quyidagiça hisoblaş mumkin:"
+  },
+  "ch28-f177": {
+   "text": "Ekstraksiya koeffitsiyenti (EPAH) buyrak arteriyasidagi PAG (PPAH) va buyrak venasidagi PAG (VPAH) konsentratsiyalari orasidagi farqni buyrak arteriyasidagi PAG konsentratsiyasiga böliş orqali hisoblanadi:"
+  },
+  "ch28-f178": {
+   "text": "Buyraklar orqali ötadigan umumiy qon oqimini umumiy BPO va gematokrit (qondagi eritrotsitlar foizi) asosida hisoblaş mumkin. Agar gematokrit 0,45 va umumiy BPO 650 ml/min bölsa, ikkala buyrak orqali ötadigan umumiy qon oqimi 650/(1 − 0,45), ya’ni 1182 ml/min ga teng."
+  },
+  "ch28-f179": {
+   "text": "Filtratsiya fraksiyasi KFT ni BPO ga böliş orqali hisoblanadi"
+  },
+  "ch28-f180": {
+   "text": "Plazmaning koptokça membranasi orqali filtrlanadigan uluşi bölgan filtratsiya fraksiyasini hisoblaş uçun avval BPO (PAG klirensi) va KFT (inulin klirensi) ni biliş kerak. Agar BPO 650 ml/min va KFT 125 ml/min bölsa, filtratsiya fraksiyasi (FF) quyidagiça hisoblanadi:"
+  },
+  "ch28-f181": {
+   "text": "Buyrak klirenslari asosida kanalça reabsorbsiyasi yoki sekretsiyasini hisoblaş"
+  },
+  "ch28-f182": {
+   "text": "Agar moddaning koptokça filtratsiyasi va buyrak orqali çiqariliş tezliklari ma’lum bölsa, şu modda buyrak kanalçalarida sof reabsorbsiyalanadimi yoki sof sekretsiya qilinadimi — buni hisoblaş mumkin. Masalan, agar moddaning çiqariliş tezligi (Us × V) uning filtrlangan yukidan (KFT × Ps) kam bölsa, demak, moddaning bir qismi buyrak kanalçalaridan reabsorbsiyalangan bölişi kerak. Aksinça, agar moddaning çiqariliş tezligi uning filtrlangan yukidan katta bölsa, uning siydikda paydo böliş tezligi koptokça filtratsiyasi tezligi va kanalça sekretsiyasi yiğindisini ifodalaydi."
+  },
+  "ch28-f183": {
+   "text": "Quyidagi misol kanalça reabsorbsiyasini hisoblaşni körsatadi. Faraz qilaylik, bemorda quyidagi laboratoriya qiymatlari olingan: • Siydik oqimi tezligi = 1 ml/min • Siydikdagi natriy konsentratsiyasi (UNa) = 70 mEq/L = 70 μEq/ml • Plazmadagi natriy konsentratsiyasi = 140 mEq/L = 140 μEq/ml • KFT (inulin klirensi) = 100 ml/min. Bu misolda natriyning filtrlangan yuki KFT × PNa, ya’ni 100 ml/min × 140 μEq/ml = 14 000 μEq/min. Natriyning siydik bilan çiqarilişi (UNa × siydik oqimi tezligi) 70 μEq/min ni taşkil qiladi. Demak, natriyning kanalça reabsorbsiyasi filtrlangan yuk bilan siydik bilan çiqariliş örtasidagi farqqa, ya’ni 14 000 μEq/min − 70 μEq/min = 13 930 μEq/min ga teng."
+  },
+  "ch28-f184": {
+   "text": "Moddaning klirensini KFT ni ölçaşning “oltin standarti” bölgan inulin klirensi bilan taqqoslaş orqali quyidagi umumlaşmalarni qiliş mumkin: (1) agar moddaning klirens tezligi inulinnikiga teng bölsa, modda faqat filtrlanadi, reabsorbsiyalanmaydi va sekretsiya qilinmaydi; (2) agar moddaning klirens tezligi inulin klirensidan kam bölsa, modda nefron kanalçalarida reabsorbsiyalangan bölişi kerak; (3) agar moddaning klirens tezligi inulinnikidan katta bölsa, modda nefron kanalçalarida sekretsiya qilinişi kerak. Quyida buyraklarda me’yorda “qayta işlanadigan” ayrim moddalarning taxminiy klirens tezliklari keltirilgan:",
+   "lead": "Inulin klirensini turli erigan moddalar klirenslari bilan taqqoslaş."
+  }
+ },
+ "figures": {
+  "gh14-fig-28-01": "Filtrlangan suv va erigan moddalarning kanalça böşliğidan kanalça epiteliy hujayralari orqali, buyrak interstitsiysi orqali qayta qonga reabsorbsiyasi. Erigan moddalar hujayralar orqali (tranşujayraviy yöl) passiv diffuziya yoki faol transport yöli bilan yoki hujayralar orasidan (parahujayraviy yöl) diffuziya yöli bilan taşiladi. Suv kanalça hujayralari orqali va ular orasidan osmos yöli bilan taşiladi. Suv va erigan moddalarning interstitsial suyuqlikdan peritubulyar kapillyarlarga taşilişi ultrafiltratsiya (yalpi oqim) yöli bilan sodir böladi.",
+  "gh14-fig-28-02": "Natriyning kanalça epiteliy hujayrasi orqali faol transportining asosiy mexanizmi. Natriy-kaliy nasosi natriyni hujayra içidan bazolateral membrana orqali taşib çiqaradi va hujayra içida natriyning past konsentratsiyasini hamda manfiy elektr potensialini hosil qiladi. Hujayra içidagi natriyning past konsentratsiyasi va manfiy elektr potensiali natriy ionlarining kanalça böşliğidan çötkasimon hoşiya orqali hujayraga diffuziyalanişiga sabab böladi.",
+  "gh14-fig-28-03": "Ikkilamçi faol transport mexanizmlari. Yuqoridagi hujayrada glukoza va aminokislotalarning natriy ionlari bilan birga kanalça epiteliy hujayralarining apikal tomoni orqali kotransporti, söngra bazolateral membranalar orqali yengillaştirilgan diffuziyasi körsatilgan. Pastdagi hujayrada vodorod ionlarining hujayra içidan apikal membrana orqali kanalça böşliğiga kontrtransporti körsatilgan; natriy ionlarining bazolateral membranadagi natriy-kaliy nasosi hosil qilgan elektrokimyoviy gradiyent böylab hujayraga kirişi vodorod ionlarini hujayra içidan kanalça böşliğiga taşiş uçun energiya beradi. ATP — adenozintrifosfat; GLUT — glukoza taşuvçisi; NHE — natriy-vodorod almaşinuvçisi; SGLT — natriy-glukoza kotransporteri.",
+  "gh14-fig-28-04": "Glukozaning filtrlangan yuki, buyrak kanalçalarida glukoza reabsorbsiyasi tezligi va glukozaning siydik bilan çiqariliş tezligi örtasidagi boğliqliklar. Transport maksimumi — glukozaning kanalçalardan reabsorbsiyalanişi mumkin bölgan maksimal tezligi. Glukoza ostonasi — glukoza siydik bilan ilk bor çiqarila boşlaydigan glukozaning filtrlangan yuki.",
+  "gh14-fig-28-05": "Suv, xlorid va moçevina reabsorbsiyasining natriy reabsorbsiyasi bilan boğlaniş mexanizmlari.",
+  "gh14-fig-28-06": "Proksimal kanalçaning hujayra ultratuzilişi va asosiy transport xususiyatlari. Proksimal kanalçalar filtrlangan natriy, xlorid, bikarbonat va kaliyning taxminan 65% ini hamda filtrlangan glukoza va aminokislotalarning deyarli hammasini reabsorbsiya qiladi. Proksimal kanalçalar, şuningdek, kanalça böşliğiga organik kislotalar, asoslar va vodorod ionlarini sekretsiya qiladi.",
+  "gh14-fig-28-07": "Proksimal buralgan kanalça böylab kanalça suyuqligidagi turli moddalar konsentratsiyalarining şu moddalarning plazma va koptokça filtratidagi konsentratsiyalariga nisbatan özgarişlari. 1,0 qiymati moddaning kanalça suyuqligidagi konsentratsiyasi plazmadagi konsentratsiyasi bilan bir xil ekanini körsatadi. 1,0 dan past qiymatlar modda suvga qaraganda jadalroq reabsorbsiyalanişini, 1,0 dan yuqori qiymatlar esa modda suvga qaraganda kamroq reabsorbsiyalanişini yoki kanalçalarga sekretsiya qilinişini körsatadi.",
+  "gh14-fig-28-08": "Henle qovuzloğining ingiçka tuşuvçi qismi (yuqorida) va yöğon kötariluvçi segmentining (pastda) hujayra ultratuzilişi va transport xususiyatlari. Henle qovuzloği ingiçka segmentining tuşuvçi qismi suvni yuqori darajada, köpgina erigan moddalarni örtaça darajada ötkazadi, ammo mitoxondriyalari kam va faol reabsorbsiyasi juda oz yoki umuman yöq. Henle qovuzloğining yöğon kötariluvçi tirsagi natriy, xlorid va kaliy filtrlangan yuklarining taxminan 25% ini, şuningdek katta miqdordagi kalsiy, bikarbonat va magniyni reabsorbsiya qiladi. Bu segment kanalça böşliğiga vodorod ionlarini ham sekretsiya qiladi.",
+  "gh14-fig-28-09": "Henle qovuzloğining yöğon kötariluvçi qismida natriy, xlorid va kaliy transporti mexanizmlari. Bazolateral hujayra membranasidagi Na+-K+ ATFaza nasosi hujayra içida natriyning past konsentratsiyasini va manfiy elektr potensialini saqlab turadi. Luminal membranadagi 1-natriy, 2-xlorid, 1-kaliy kotransporteri natriyning elektrokimyoviy gradiyent böylab hujayraga diffuziyasida ajraladigan potensial energiyadan foydalanib, bu uç ionni kanalça böşliğidan hujayralarga taşiydi. Natriy kanalça hujayrasiga natriy-vodorod kontrtransporti orqali ham taşiladi. Kanalça böşliğining interstitsial suyuqlikka nisbatan musbat zaryadi (+8 mV) Mg2+ va Ca2+ kabi kationlarni böşliqdan interstitsial suyuqlikka parahujayraviy yöl orqali diffuziyalanişga majbur qiladi.",
+  "gh14-fig-28-10": "Boşlanğiç distal kanalçada natriy xlorid transporti mexanizmi. Natriy va xlorid kanalça böşliğidan hujayraga tiazid diuretiklari tormozlaydigan kotransporter orqali taşiladi. Natriy hujayradan Na+-K+ adenozintrifosfataza yordamida haydab çiqariladi, xlorid esa xlorid kanallari orqali interstitsial suyuqlikka diffuziyalanadi.",
+  "gh14-fig-28-11": "Boşlanğiç distal kanalça hamda oxirgi distal kanalça va yiğuvçi kanalçaning hujayra ultratuzilişi va transport xususiyatlari. Boşlanğiç distal kanalça Henle qovuzloğining yöğon kötariluvçi qismi xususiyatlarining köpiga ega bölib, natriy, xlorid, kalsiy va magniyni reabsorbsiya qiladi, ammo suv va moçevinani amalda ötkazmaydi. Oxirgi distal kanalçalar va pöstloq yiğuvçi kanalçalari ikki xil hujayra turidan — asosiy hujayralar va oraliq hujayralardan taşkil topgan. Asosiy hujayralar böşliqdan natriyni reabsorbsiya qiladi va böşliqqa kaliy ionlarini sekretsiya qiladi. A turidagi oraliq hujayralar böşliqdan kaliy va bikarbonat ionlarini reabsorbsiya qiladi hamda böşliqqa vodorod ionlarini sekretsiya qiladi. Kanalçaning bu segmentida suv reabsorbsiyasi antidiuretik gormon konsentratsiyasi bilan boşqariladi.",
+  "gh14-fig-28-12": "Oxirgi distal kanalçalar va pöstloq yiğuvçi kanalçalarining asosiy hujayralarida natriy xlorid reabsorbsiyasi va kaliy sekretsiyasi mexanizmi. Natriy hujayraga maxsus kanallar orqali kiradi va hujayradan Na+-K+ ATFaza nasosi yordamida çiqariladi. Aldosteron antagonistlari hujayradagi boğlaniş joylari uçun aldosteron bilan raqobatlaşadi va şu orqali aldosteronning natriy reabsorbsiyasi va kaliy sekretsiyasini rağbatlantiruvçi ta’sirlarini tormozlaydi. Natriy kanallari blokatorlari natriyning natriy kanallariga kirişini bevosita tormozlaydi.",
+  "gh14-fig-28-13": "Yiğuvçi kanalçaning A va B turidagi oraliq hujayralari. A turidagi hujayralarning luminal membranasida vodorod-ATFaza va vodorod-kaliy-ATFaza bölib, ular atsidozda vodorod ionlarini sekretsiya qiladi hamda bikarbonat va kaliy ionlarini reabsorbsiya qiladi. B turidagi hujayralarda vodorod-ATFaza va vodorod-kaliy-ATFaza taşuvçilari bazolateral membranada joylaşgan bölib, ular alkalozda vodorod ionlarini reabsorbsiya qiladi hamda bikarbonat va kaliy ionlarini sekretsiya qiladi. B turidagi hujayralar apikal membranasidagi xlorid-bikarbonat kontrtransporteri pendrin deb ataladi va A turidagi oraliq hujayralarning xlorid-bikarbonat taşuvçisidan farq qiladi.",
+  "gh14-fig-28-14": "Mağiz qavati yiğuvçi nayining hujayra ultratuzilişi va transport xususiyatlari. Mağiz qavati yiğuvçi naylari natriyni faol reabsorbsiya qiladi va vodorod ionlarini sekretsiya qiladi hamda moçevinani ötkazadi, moçevina esa kanalçaning bu segmentlarida reabsorbsiyalanadi. Mağiz qavati yiğuvçi naylarida suv reabsorbsiyasi antidiuretik gormon konsentratsiyasi bilan boşqariladi.",
+  "gh14-fig-28-15": "Kanalça tizimining turli nuqtalarida turli moddalar örtaça konsentratsiyalarining şu moddaning plazma va koptokça filtratidagi konsentratsiyasiga nisbatan özgarişlari. 1,0 qiymati moddaning kanalça suyuqligidagi konsentratsiyasi uning plazmadagi konsentratsiyasi bilan bir xil ekanini körsatadi. 1,0 dan past qiymatlar modda suvga qaraganda jadalroq reabsorbsiyalanişini, 1,0 dan yuqori qiymatlar esa modda suvga qaraganda kamroq reabsorbsiyalanişini yoki kanalçalarga sekretsiya qilinişini körsatadi. PAH — para-aminogippur kislota.",
+  "gh14-fig-28-16": "Peritubulyar kapillyarlarda suyuqlik reabsorbsiyasini belgilaydigan gidrostatik va kolloid-osmotik kuçlarning umumiy körinişi. Körsatilgan son qiymatlari odam uçun me’yoriy qiymatlarning taxminiy baholaridir. Sof reabsorbsion bosim me’yorda taxminan 10 mm Hg bölib, suyuqlik va erigan moddalar buyrak kanalçasi hujayralari orqali taşilar ekan, ularning peritubulyar kapillyarlarga reabsorbsiyalanişiga sabab böladi. ATP — adenozintrifosfat; Pc — peritubulyar kapillyarlardagi gidrostatik bosim; Pif — interstitsial suyuqlikning gidrostatik bosimi; πc — peritubulyar kapillyarlarning kolloid-osmotik bosimi; πif — interstitsial suyuqlikning kolloid-osmotik bosimi.",
+  "gh14-fig-28-17": "Me’yoriy şaroitda (yuqorida) va peritubulyar kapillyarlardagi gidrostatik bosimning (Pc) ortişi yoki peritubulyar kapillyarlar kolloid-osmotik bosimining (πc) kamayişi natijasida peritubulyar kapillyarlarda reabsorbsiya pasayganda (pastda) proksimal kanalça va peritubulyar kapillyarlardagi reabsorbsiya. Peritubulyar kapillyarlarda reabsorbsiyaning pasayişi, öz navbatida, kanalça epiteliy hujayralarining ziç birikmalari orqali kanalça böşliğiga qaytib sizib çiqadigan erigan moddalar va suv miqdorini oşirib, ularning sof reabsorbsiyasini, ayniqsa proksimal kanalçada, kamaytiradi.",
+  "gh14-fig-28-18": "Angiotenzin II (Ang II) ning proksimal kanalçada natriy reabsorbsiyasini oşiruvçi bevosita ta’sirlari. Ang II luminal membranada natriy-vodorod almaşinuvini (NHE), bazolateral membranada esa Na+-K+ ATFaza taşuvçisini hamda natriy-bikarbonat kotransportini rağbatlantiradi. Ang II ning xuddi şunday ta’sirlari buyrak kanalçasining boşqa bir qança qismlarida, jumladan Henle qovuzloği, distal kanalça va yiğuvçi kanalçada ham kuzatilsa kerak. AT1 — angiotenzin II ning 1-turdagi retseptori.",
+  "gh14-fig-28-19": "Arginin-vazopressinning (AVP) oxirgi distal kanalçalar, yiğuvçi kanalçalar va yiğuvçi naylar epiteliy hujayralariga ta’sir mexanizmi. AVP özining V2 retseptorlariga birikadi; bu retseptorlar adenilatsiklazani (AC) faollaştiruvçi va siklik adenozinmonofosfat (cAMP) hosil bölişini rağbatlantiruvçi stimullovçi G oqsillar (Gs) bilan boğlangan. Bu, öz navbatida, protein kinaza A ni va hujayra içi oqsillarining fosforlanişini faollaştiradi, natijada akvaporin-2 (AQP-2) hujayra membranasining luminal tomoniga harakatlanadi. AQP-2 molekulalari birlaşib, suv kanallarini hosil qiladi. Hujayra membranasining bazolateral tomonida suvning hujayradan oqib çiqişiga imkon beruvçi boşqa akvaporinlar — AQP-3 va AQP-4 mavjud, ammo bu akvaporinlar AVP tomonidan boşqarilmasa kerak.",
+  "gh14-fig-28-20": "Koptokça filtratsiyasi tezligini (KFT) inulinning buyrak klirensi asosida ölçaş. Inulin koptokça kapillyarlarida erkin filtrlanadi, ammo buyrak kanalçalarida reabsorbsiyalanmaydi. Pinulin — plazmadagi inulin konsentratsiyasi; Uinulin — siydikdagi inulin konsentratsiyasi; V˙ — siydik oqimi tezligi.",
+  "gh14-fig-28-21": "Kreatinin hosil böliş tezligi özgarmas bölganda koptokça filtratsiyasi tezligining (KFT) 50% ga kamayişining zardobdagi kreatinin konsentratsiyasi va kreatininning çiqariliş tezligiga ta’siri. PCreatinine — plazmadagi kreatinin konsentratsiyasi.",
+  "gh14-fig-28-22": "Barqaror holat şaroitida koptokça filtratsiyasi tezligi (KFT) va plazmadagi kreatinin konsentratsiyasi örtasidagi taxminiy boğliqlik. Organizmda kreatinin hosil bölişi özgarmas qolsa, KFT ning 50% ga kamayişi plazmadagi kreatinin darajasini me’yordan ikki baravar oşiradi.",
+  "gh14-fig-28-23": "Buyrak plazma oqimini para-aminogippur kislotaning (PAG) buyrak klirensi asosida ölçaş. PAG koptokça kapillyarlarida erkin filtrlanadi, şuningdek peritubulyar kapillyar qonidan kanalça böşliğiga sekretsiya qilinadi. Buyrak arteriyasi plazmasidagi PAG miqdori siydik bilan çiqarilgan PAG miqdoriga taxminan teng. Şu sababli buyrak plazma oqimini PAG klirensidan hisoblaş mumkin. Aniqroq bölişi uçun buyraklardan çiqib ketayotgan qonda hali ham qolgan PAG foiziga tuzatiş kiritiş mumkin. PPAH — arterial plazmadagi PAG konsentratsiyasi; UPAH — siydikdagi PAG konsentratsiyasi; V — siydik oqimi tezligi.",
+  "gh14-tab-28-01": "Buyraklarda turli moddalarning filtratsiya, reabsorbsiya va çiqariliş tezliklari",
+  "gh14-tab-28-02": "Peritubulyar kapillyarlarda reabsorbsiyaga ta’sir qilişi mumkin bölgan omillar",
+  "gh14-tab-28-03": "Kanalça reabsorbsiyasini boşqaruvçi gormonlar",
+  "gh14-tab-28-04": "Buyrak funksiyasini miqdoriy baholaşda klirensdan foydalaniş"
+ }
+}

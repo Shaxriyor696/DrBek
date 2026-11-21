@@ -4,7 +4,7 @@
  "order": 5,
  "titleUz": "Yurak aritmiyalari va ularning EKG talqini",
  "titleOriginal": "Cardiac Arrhythmias and Their Electrocardiographic Interpretation",
- "subtitle": "*Cardiac Arrhythmias and Their Electrocardiographic Interpretation* — III bo'lim (Yurak), PDF 151–162",
+ "subtitle": "*Cardiac Arrhythmias and Their Electrocardiographic Interpretation* — III bo‘lim (Yurak), PDF 151–162",
  "contentVersion": "2026-11-14.1",
  "status": "in_review",
  "translationStatus": "machine_assisted",
@@ -326,11 +326,11 @@
   "Ekstrasistolalar (premature contractions)",
   "Uzun QT sindromi (LQTS)",
   "Paroksizmal taxikardiya",
-  "Qayta kirish (re-entry) va \"aylanma harakat\"",
+  "Qayta kirish (re-entry) va “aylanma harakat”",
   "Qorincha fibrillyatsiyasi",
-  "Bo’lmacha fibrillyatsiyasi",
-  "Bo’lmacha titrashi (flutter)",
-  "Yurak to’xtashi (cardiac arrest)",
+  "Bo‘lmacha fibrillyatsiyasi",
+  "Bo‘lmacha titrashi (flutter)",
+  "Yurak to‘xtashi (cardiac arrest)",
   "Muhim raqamlar"
  ],
  "blocks": {
@@ -338,19 +338,19 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Asosiy g’oya",
+    "text": "Asosiy ğoya",
     "id": "ch13-s-0-asosiy-goya",
     "bid": "ch13-u0"
    },
    {
     "type": "paragraph",
-    "text": "Aritmiyalar yurakning ritm hosil qilish va o’tkazish tizimidagi buzilishlardan kelib chiqadi. Sabablar: sinus tugunining g’ayritabiiy ritmi; normal yetakchining (pacemaker) boshqa joyga ko’chishi; o’tkazish yo’lida blok; g’ayritabiiy impuls o’tkazish yo’llari; yurakning istalgan qismida o’z-o’zidan paydo bo’ladigan impulslar.",
+    "text": "Aritmiyalar yurakning ritm hosil qiliş va ötkaziş tizimidagi buzilişlardan kelib çiqadi. Sabablar: sinus tugunining ğayritabiiy ritmi; normal yetakçining (pacemaker) boşqa joyga köçişi; ötkaziş yölida blok; ğayritabiiy impuls ötkaziş yöllari; yurakning istalgan qismida öz-özidan paydo böladigan impulslar.",
     "bid": "ch13-u1"
    },
    {
     "type": "heading",
     "level": 2,
-    "text": "Sinus ritmining buzilishlari",
+    "text": "Sinus ritmining buzilişlari",
     "id": "ch13-s-2-sinus-ritmining-buzilishlari",
     "bid": "ch13-u2"
    },
@@ -359,15 +359,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Taxikardiya** (>100/min). Isitma har 1°F uchun ~10 zarba/min (1°C uchun ~18) qo’shadi, taxminan 40,5°C gacha. Bundan yuqorida miokard zaiflashadi. Qon yo’qotishda reflektor ravishda 150–180/min gacha yetadi.",
+      "text": "**Taxikardiya** (>100/min). Isitma har 1°F uçun ~10 zarba/min (1°C uçun ~18) qöşadi, taxminan 40,5°C gaça. Bundan yuqorida miokard zaiflaşadi. Qon yöqotişda reflektor ravişda 150–180/min gaça yetadi.",
       "depth": 0
      },
      {
-      "text": "**Bradikardiya** (<60/min). Sportchilarda zarba hajmi katta bo’lgani uchun uchraydi. Vagus qo’zg’alishida ham kuzatiladi. **Karotid sinus sindromida** baroretseptorlar sezgirligi oshgan (ateroskleroz), shuning uchun bosim yurakni 5–10 s to’xtatib, hushdan ketishga olib kelishi mumkin.",
+      "text": "**Bradikardiya** (<60/min). Sportçilarda zarba hajmi katta bölgani uçun uçraydi. Vagus qözğalişida ham kuzatiladi. **Karotid sinus sindromida** baroretseptorlar sezgirligi oşgan (ateroskleroz), şuning uçun bosim yurakni 5–10 s töxtatib, huşdan ketişga olib kelişi mumkin.",
       "depth": 0
      },
      {
-      "text": "**Sinus aritmiyasi.** Nafas bilan bog’liq: tinch nafasda ±5%, chuqur nafasda ±30% gacha. Sababi nafas markazidan vazomotor markazga signal \"toshib o’tishi\" (spillover).",
+      "text": "**Sinus aritmiyasi.** Nafas bilan boğliq: tinç nafasda ±5%, çuqur nafasda ±30% gaça. Sababi nafas markazidan vazomotor markazga signal “toşib ötişi” (spillover).",
       "depth": 0
      }
     ],
@@ -385,35 +385,35 @@
     "ordered": false,
     "items": [
      {
-      "text": "**S-A blok.** Impuls sinus tugunidan bo’lmachalarga chiqmaydi. P to’lqini yo’qoladi, keyin A-V tugun ritmi boshlanadi.",
+      "text": "**S-A blok.** Impuls sinus tugunidan bölmaçalarga çiqmaydi. P tölqini yöqoladi, keyin A-V tugun ritmi boşlanadi.",
       "depth": 0
      },
      {
-      "text": "**A-V blok sabablari:** ishemiya, chandiq yoki kalsiy bilan siqilish, yallig’lanish (difteriya, revmatizm), kuchli vagus ta’siri, degeneratsiya, digitalis yoki beta-blokatorlar.",
+      "text": "**A-V blok sabablari:** işemiya, çandiq yoki kalsiy bilan siqiliş, yalliğlaniş (difteriya, revmatizm), kuçli vagus ta’siri, degeneratsiya, digitalis yoki beta-blokatorlar.",
       "depth": 0
      },
      {
-      "text": "**I daraja:** P-R oralig’i >0,20 s, kamdan-kam hollarda 0,35–0,45 s dan oshadi.",
+      "text": "**I daraja:** P-R oraliği >0,20 s, kamdan-kam hollarda 0,35–0,45 s dan oşadi.",
       "depth": 1
      },
      {
-      "text": "**II daraja, Mobitz I (Wenckebach):** P-R asta-sekin uzayadi, keyin bitta QRS tushib qoladi. Muammo A-V tugunda, ko’pincha xavfsiz.",
+      "text": "**II daraja, Mobitz I (Wenckebaç):** P-R asta-sekin uzayadi, keyin bitta QRS tuşib qoladi. Muammo A-V tugunda, köpinça xavfsiz.",
       "depth": 1
      },
      {
-      "text": "**II daraja, Mobitz II:** P-R uzaymaydi, lekin 2:1, 3:2 yoki 3:1 nisbatda QRS tushib qoladi. Muammo His-Purkinye tizimida, sun’iy yetakchi (pacemaker) kerak bo’lishi mumkin.",
+      "text": "**II daraja, Mobitz II:** P-R uzaymaydi, lekin 2:1, 3:2 yoki 3:1 nisbatda QRS tuşib qoladi. Muammo His-Purkinye tizimida, sun’iy yetakçi (pacemaker) kerak bölişi mumkin.",
       "depth": 1
      },
      {
-      "text": "**III daraja (to’liq blok):** bo’lmachalar ~100/min, qorinchalar mustaqil ravishda <40/min ishlaydi.",
+      "text": "**III daraja (töliq blok):** bölmaçalar ~100/min, qorinçalar mustaqil ravişda <40/min işlaydi.",
       "depth": 1
      },
      {
-      "text": "**Stokes-Adams sindromi.** Blok bo’lganda qorinchalar \"overdrive suppression\" sababli 5–30 s ishga tushmaydi. Miya qon oqimisiz faqat 4–7 s chidaydi, shuning uchun bemor hushdan ketadi. Qorinchaning qochish ritmi 15–40/min. Davolash: o’ng qorinchaga sun’iy yetakchi qo’yish.",
+      "text": "**Stokes-Adams sindromi.** Blok bölganda qorinçalar “overdrive suppression” sababli 5–30 s işga tuşmaydi. Miya qon oqimisiz faqat 4–7 s çidaydi, şuning uçun bemor huşdan ketadi. Qorinçaning qoçiş ritmi 15–40/min. Davolaş: öng qorinçaga sun’iy yetakçi qöyiş.",
       "depth": 0
      },
      {
-      "text": "**Purkinye tizimidagi to’liqmas blok.** QRS voltaji har ikkinchi zarbada o’zgaradi (*electrical alternans*). Sabablari: ishemiya, miokardit, digitalis.",
+      "text": "**Purkinye tizimidagi töliqmas blok.** QRS voltaji har ikkinçi zarbada özgaradi (*electrical alternans*). Sabablari: işemiya, miokardit, digitalis.",
       "depth": 0
      }
     ],
@@ -431,35 +431,35 @@
     "ordered": false,
     "items": [
      {
-      "text": "Ektopik o’chog’ga sabab bo’luvchilar: ishemiya, kalsiylangan blyashkalar, toksinlar, nikotin, kofein, uyqusizlik, kateter ta’siri.",
+      "text": "Ektopik öçoğga sabab böluvçilar: işemiya, kalsiylangan blyaşkalar, toksinlar, nikotin, kofein, uyqusizlik, kateter ta’siri.",
       "depth": 0
      },
      {
-      "text": "**Bo’lmacha ekstrasistolasi:** P-R qisqa, keyin kompensator pauza keladi. Qorincha yetarli to’lmagani uchun periferiyada puls tushib qoladi (*pulse deficit*).",
+      "text": "**Bölmaça ekstrasistolasi:** P-R qisqa, keyin kompensator pauza keladi. Qorinça yetarli tölmagani uçun periferiyada puls tuşib qoladi (*pulse deficit*).",
       "depth": 0
      },
      {
-      "text": "**A-V tugun ekstrasistolasi:** P to’lqini QRS ichida yashirinadi yoki teskari bo’ladi.",
+      "text": "**A-V tugun ekstrasistolasi:** P tölqini QRS içida yaşirinadi yoki teskari böladi.",
       "depth": 0
      },
      {
-      "text": "**Qorincha ekstrasistolasi (PVC):**",
+      "text": "**Qorinça ekstrasistolasi (PVC):**",
       "depth": 0
      },
      {
-      "text": "QRS keng va yuqori voltajli, T to’lqini QRS ga teskari.",
+      "text": "QRS keng va yuqori voltajli, T tölqini QRS ga teskari.",
       "depth": 1
      },
      {
-      "text": "Bigeminiya kuzatilishi mumkin.",
+      "text": "Bigeminiya kuzatilişi mumkin.",
       "depth": 1
      },
      {
-      "text": "Kelib chiqish joyini vektor tahlil bilan aniqlash mumkin.",
+      "text": "Kelib çiqiş joyini vektor tahlil bilan aniqlaş mumkin.",
       "depth": 1
      },
      {
-      "text": "Xavfi shundaki, T to’lqini oxiridagi \"zaif davr\"da (vulnerable period) kelsa, qorincha fibrillyatsiyasini boshlab yuborishi mumkin.",
+      "text": "Xavfi şundaki, T tölqini oxiridagi “zaif davr”da (vulnerable period) kelsa, qorinça fibrillyatsiyasini boşlab yuborişi mumkin.",
       "depth": 1
      }
     ],
@@ -477,23 +477,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "Repolyarizatsiya kechikadi, natijada *torsades de pointes* (QRS o’qi atrofida \"buraluvchi\" taxikardiya) yuzaga kelib, fibrillyatsiyaga o’tishi mumkin.",
+      "text": "Repolyarizatsiya keçikadi, natijada *torsades de pointes* (QRS öqi atrofida “buraluvçi” taxikardiya) yuzaga kelib, fibrillyatsiyaga ötişi mumkin.",
       "depth": 0
      },
      {
-      "text": "**Tug’ma shakli:** Na⁺ va K⁺ kanallarida kamida 17 xil mutatsiya.",
+      "text": "**Tuğma şakli:** Na⁺ va K⁺ kanallarida kamida 17 xil mutatsiya.",
       "depth": 0
      },
      {
-      "text": "**Orttirilgan shakli:** past Mg²⁺, K⁺ yoki Ca²⁺; dorilar (xinidin, ftorxinolonlar, eritromitsin).",
+      "text": "**Orttirilgan şakli:** past Mg²⁺, K⁺ yoki Ca²⁺; dorilar (xinidin, ftorxinolonlar, eritromitsin).",
       "depth": 0
      },
      {
-      "text": "Qo’zg’atuvchilar: jismoniy zo’riqish, qo’rquv.",
+      "text": "Qözğatuvçilar: jismoniy zöriqiş, qörquv.",
       "depth": 0
      },
      {
-      "text": "Davolash: MgSO₄, beta-blokatorlar, implantatsiya qilinadigan defibrillyator (ICD).",
+      "text": "Davolaş: MgSO₄, beta-blokatorlar, implantatsiya qilinadigan defibrillyator (ICD).",
       "depth": 0
      }
     ],
@@ -511,27 +511,27 @@
     "ordered": false,
     "items": [
      {
-      "text": "Odatda qayta kirish (re-entry) halqasi yoki tez ishlovchi ektopik o’choq sabab bo’ladi.",
+      "text": "Odatda qayta kiriş (re-entry) halqasi yoki tez işlovçi ektopik öçoq sabab böladi.",
       "depth": 0
      },
      {
-      "text": "Birdan boshlanadi va birdan tugaydi. Vagusni qo’zg’atish (karotid sinusni bosish) bilan to’xtatilishi mumkin.",
+      "text": "Birdan boşlanadi va birdan tugaydi. Vagusni qözğatiş (karotid sinusni bosiş) bilan töxtatilişi mumkin.",
       "depth": 0
      },
      {
-      "text": "**Bo’lmacha shakli:** P to’lqini teskari, chastota masalan 95 dan 150/min gacha sakraydi.",
+      "text": "**Bölmaça şakli:** P tölqini teskari, çastota masalan 95 dan 150/min gaça sakraydi.",
       "depth": 0
      },
      {
-      "text": "**A-V tugun shakli (supraventrikulyar):** yoshlarda ko’pincha xavfsiz.",
+      "text": "**A-V tugun şakli (supraventrikulyar):** yoşlarda köpinça xavfsiz.",
       "depth": 0
      },
      {
-      "text": "**Qorincha paroksizmal taxikardiyasi:**",
+      "text": "**Qorinça paroksizmal taxikardiyasi:**",
       "depth": 0
      },
      {
-      "text": "Og’ir holat: odatda ishemik shikastlanish yoki digitalis zaharlanishi sabab bo’ladi va fibrillyatsiyaga o’tishi mumkin.",
+      "text": "Oğir holat: odatda işemik şikastlaniş yoki digitalis zaharlanişi sabab böladi va fibrillyatsiyaga ötişi mumkin.",
       "depth": 1
      },
      {
@@ -539,7 +539,7 @@
       "depth": 1
      },
      {
-      "text": "Elektr kardioversiya ham qo’llanadi.",
+      "text": "Elektr kardioversiya ham qöllanadi.",
       "depth": 1
      }
     ],
@@ -548,13 +548,13 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Qayta kirish (re-entry) va \"aylanma harakat\"",
+    "text": "Qayta kiriş (re-entry) va “aylanma harakat”",
     "id": "ch13-s-12-qayta-kirish-re-entry-va-aylanma-harakat",
     "bid": "ch13-u12"
    },
    {
     "type": "paragraph",
-    "text": "Normal holatda impuls refrakter to’qimaga duch kelib so’nadi. Impuls aylanib, qayta qo’zg’aluvchan to’qimaga yetib kelishi uchun quyidagilardan biri kerak:",
+    "text": "Normal holatda impuls refrakter töqimaga duç kelib sönadi. Impuls aylanib, qayta qözğaluvçan töqimaga yetib kelişi uçun quyidagilardan biri kerak:",
     "bid": "ch13-u13"
    },
    {
@@ -562,11 +562,11 @@
     "ordered": true,
     "items": [
      {
-      "text": "**Yo’l uzun:** kengaygan yurak.",
+      "text": "**Yöl uzun:** kengaygan yurak.",
       "depth": 0
      },
      {
-      "text": "**O’tkazish sekin:** Purkinye bloki, ishemiya yoki yuqori K⁺.",
+      "text": "**Ötkaziş sekin:** Purkinye bloki, işemiya yoki yuqori K⁺.",
       "depth": 0
      },
      {
@@ -579,7 +579,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Qorincha fibrillyatsiyasi",
+    "text": "Qorinça fibrillyatsiyasi",
     "id": "ch13-s-15-qorincha-fibrillyatsiyasi",
     "bid": "ch13-u15"
    },
@@ -588,15 +588,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Eng xavfli aritmiya: 1–3 daqiqa ichida o’limga olib keladi, odam 4–5 s ichida hushini yo’qotadi.",
+      "text": "Eng xavfli aritmiya: 1–3 daqiqa içida ölimga olib keladi, odam 4–5 s içida huşini yöqotadi.",
       "depth": 0
      },
      {
-      "text": "Qo’zg’atuvchilar: elektr toki urishi, ishemiya.",
+      "text": "Qözğatuvçilar: elektr toki urişi, işemiya.",
       "depth": 0
      },
      {
-      "text": "**Mexanizm:** 60 Hz o’zgaruvchan tok yoki zaif davrdagi ekstrasistola impulsni bo’laklaydi. Har bir bo’lak yangi to’lqinlar hosil qilib, zanjirli reaksiya boshlanadi. Natijada bir vaqtda 30–50 ta mayda qism tartibsiz qisqaradi va yurak nasos sifatida ishlamaydi.",
+      "text": "**Mexanizm:** 60 Hz özgaruvçan tok yoki zaif davrdagi ekstrasistola impulsni bölaklaydi. Har bir bölak yangi tölqinlar hosil qilib, zanjirli reaksiya boşlanadi. Natijada bir vaqtda 30–50 ta mayda qism tartibsiz qisqaradi va yurak nasos sifatida işlamaydi.",
       "depth": 0
      },
      {
@@ -608,27 +608,27 @@
       "depth": 0
      },
      {
-      "text": "Ochiq yurakda: ~1000 V, bir necha millisekund.",
+      "text": "Oçiq yurakda: ~1000 V, bir neça millisekund.",
       "depth": 1
      },
      {
-      "text": "Ko’krak orqali: bir necha ming voltgacha zaryadlangan kondensator.",
+      "text": "Kökrak orqali: bir neça ming voltgaça zaryadlangan kondensator.",
       "depth": 1
      },
      {
-      "text": "Bugungi qurilmalar ikki fazali (biphasic) tok ishlatadi.",
+      "text": "Bugungi qurilmalar ikki fazali (biphasic) tok işlatadi.",
       "depth": 1
      },
      {
-      "text": "Zarbadan keyin yurak 3–5 s jim turadi, so’ng normal ritm tiklanadi.",
+      "text": "Zarbadan keyin yurak 3–5 s jim turadi, söng normal ritm tiklanadi.",
       "depth": 1
      },
      {
-      "text": "ICD, jumladan teri ostiga qo’yiladigan turlari ham bor.",
+      "text": "ICD, jumladan teri ostiga qöyiladigan turlari ham bor.",
       "depth": 1
      },
      {
-      "text": "Defibrillyatsiya 1 daqiqa ichida bo’lsa samarali. Yurakni qo’lda massaj qilib, 90 daqiqadan keyin ham muvaffaqiyatli defibrillyatsiya qilingan holatlar bor. Yurak-o’pka reanimatsiyasi (CPR) bo’lmasa, 5–8 daqiqadan keyin miya shikastlanadi.",
+      "text": "Defibrillyatsiya 1 daqiqa içida bölsa samarali. Yurakni qölda massaj qilib, 90 daqiqadan keyin ham muvaffaqiyatli defibrillyatsiya qilingan holatlar bor. Yurak-öpka reanimatsiyasi (CPR) bölmasa, 5–8 daqiqadan keyin miya şikastlanadi.",
       "depth": 0
      }
     ],
@@ -637,7 +637,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Bo’lmacha fibrillyatsiyasi",
+    "text": "Bölmaça fibrillyatsiyasi",
     "id": "ch13-s-17-bolmacha-fibrillyatsiyasi",
     "bid": "ch13-u17"
    },
@@ -646,23 +646,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "Asosiy sabab: bo’lmacha kattalashishi (klapan nuqsonlari, qorincha yetishmovchiligi).",
+      "text": "Asosiy sabab: bölmaça kattalaşişi (klapan nuqsonlari, qorinça yetişmovçiligi).",
       "depth": 0
      },
      {
-      "text": "Qorinchalar baribir to’ladi, shuning uchun nasos samaradorligi faqat 20–30% kamayadi.",
+      "text": "Qorinçalar baribir töladi, şuning uçun nasos samaradorligi faqat 20–30% kamayadi.",
       "depth": 0
      },
      {
-      "text": "**Asosiy xavf:** quloqchada (atrial appendage) tromb hosil bo’ladi, bu insultga olib keladi. Shuning uchun antikoagulyantlar beriladi.",
+      "text": "**Asosiy xavf:** quloqçada (atrial appendage) tromb hosil böladi, bu insultga olib keladi. Şuning uçun antikoagulyantlar beriladi.",
       "depth": 0
      },
      {
-      "text": "**EKG:** P to’lqinlari yo’q, mayda tebranishlar bor. Qorincha oraliqlari tartibsiz (0,35–0,95 s), chastota 125–150/min.",
+      "text": "**EKG:** P tölqinlari yöq, mayda tebranişlar bor. Qorinça oraliqlari tartibsiz (0,35–0,95 s), çastota 125–150/min.",
       "depth": 0
      },
      {
-      "text": "Davolash: QRS bilan sinxronlangan elektr kardioversiya.",
+      "text": "Davolaş: QRS bilan sinxronlangan elektr kardioversiya.",
       "depth": 0
      }
     ],
@@ -671,7 +671,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Bo’lmacha titrashi (flutter)",
+    "text": "Bölmaça titraşi (flutter)",
     "id": "ch13-s-19-bolmacha-titrashi-flutter",
     "bid": "ch13-u19"
    },
@@ -680,15 +680,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Bitta katta aylanma to’lqin hosil bo’ladi, chastotasi 200–350/min.",
+      "text": "Bitta katta aylanma tölqin hosil böladi, çastotasi 200–350/min.",
       "depth": 0
      },
      {
-      "text": "A-V tugun impulslarni 2:1 yoki 3:1 nisbatda o’tkazadi.",
+      "text": "A-V tugun impulslarni 2:1 yoki 3:1 nisbatda ötkazadi.",
       "depth": 0
      },
      {
-      "text": "EKG da kuchli, \"arra tishi\" shaklidagi P to’lqinlari ko’rinadi.",
+      "text": "EKG da kuçli, “arra tişi” şaklidagi P tölqinlari körinadi.",
       "depth": 0
      }
     ],
@@ -697,7 +697,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Yurak to’xtashi (cardiac arrest)",
+    "text": "Yurak töxtaşi (cardiac arrest)",
     "id": "ch13-s-21-yurak-toxtashi-cardiac-arrest",
     "bid": "ch13-u21"
    },
@@ -706,11 +706,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Sabablari: chuqur anesteziya, gipoksiya, metabolik buzilish.",
+      "text": "Sabablari: çuqur anesteziya, gipoksiya, metabolik buziliş.",
       "depth": 0
      },
      {
-      "text": "Uzoq davom etgan CPR bilan tiklanishi mumkin. Surunkali shakllarida sun’iy yetakchi qo’yiladi.",
+      "text": "Uzoq davom etgan CPR bilan tiklanişi mumkin. Surunkali şakllarida sun’iy yetakçi qöyiladi.",
       "depth": 0
      }
     ],
@@ -726,7 +726,7 @@
    {
     "type": "table",
     "header": [
-     "Ko’rsatkich",
+     "Körsatkiç",
      "Qiymat"
     ],
     "rows": [
@@ -735,7 +735,7 @@
       "P-R >0,20 s"
      ],
      [
-      "To’liq blokda qorinchalar",
+      "To‘liq blokda qorinchalar",
       "<40/min (qochish ritmi 15–40)"
      ],
      [
@@ -743,11 +743,11 @@
       "4–7 s chidaydi"
      ],
      [
-      "Bo’lmacha titrashi",
+      "Bo‘lmacha titrashi",
       "200–350/min"
      ],
      [
-      "Bo’lmacha fibrillyatsiyasida qorinchalar",
+      "Bo‘lmacha fibrillyatsiyasida qorinchalar",
       "125–150/min, nasos 20–30% kamayadi"
      ]
     ],
@@ -756,7 +756,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Bog’liqlik",
+    "text": "Boğliqlik",
     "id": "ch13-s-25-bogliqlik",
     "bid": "ch13-u25"
    },
@@ -765,7 +765,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "**10-bob:** ritmik qo’zg’alish va overdrive suppression.",
+      "text": "**10-bob:** ritmik qözğaliş va overdrive suppression.",
       "depth": 0
      },
      {
@@ -781,7 +781,7 @@
       "depth": 0
      },
      {
-      "text": "**22-bob:** yurak yetishmovchiligi.",
+      "text": "**22-bob:** yurak yetişmovçiligi.",
       "depth": 0
      }
     ],
@@ -799,19 +799,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Mobitz II, ya’ni His-Purkinye darajasidagi blok, pacemaker talab qilishi mumkin. Wenckebach esa ko’pincha xavfsiz.",
+      "text": "Mobitz II, ya’ni His-Purkinye darajasidagi blok, pacemaker talab qilişi mumkin. Wenckebaç esa köpinça xavfsiz.",
       "depth": 0
      },
      {
-      "text": "Uzun QT bo’lsa, QT ni uzaytiradigan dorilardan (makrolidlar, ftorxinolonlar) ehtiyot bo’lish kerak.",
+      "text": "Uzun QT bölsa, QT ni uzaytiradigan dorilardan (makrolidlar, ftorxinolonlar) ehtiyot böliş kerak.",
       "depth": 0
      },
      {
-      "text": "Bo’lmacha fibrillyatsiyasida asosiy xavf insult, shuning uchun antikoagulyatsiya qilinadi.",
+      "text": "Bölmaça fibrillyatsiyasida asosiy xavf insult, şuning uçun antikoagulyatsiya qilinadi.",
       "depth": 0
      },
      {
-      "text": "Qorincha fibrillyatsiyasida darhol defibrillyatsiya va CPR o’tkaziladi.",
+      "text": "Qorinça fibrillyatsiyasida darhol defibrillyatsiya va CPR ötkaziladi.",
       "depth": 0
      }
     ],
@@ -1663,7 +1663,7 @@
    "id": "ch13-t-karotid-sinus-sindromida",
    "termUz": "Karotid sinus sindromida",
    "original": null,
-   "contextUz": "Karotid sinus sindromida baroretseptorlar sezgirligi oshgan (ateroskleroz), shuning uchun bosim yurakni 5–10 s to’xtatib, hushdan ketishga olib kelishi mumkin.",
+   "contextUz": "Karotid sinus sindromida baroretseptorlar sezgirligi oşgan (ateroskleroz), şuning uçun bosim yurakni 5–10 s töxtatib, huşdan ketişga olib kelişi mumkin.",
    "lessonId": "ch13",
    "topicId": "03",
    "source": "summaryUz",
@@ -1673,7 +1673,7 @@
    "id": "ch13-t-sinus-aritmiyasi",
    "termUz": "Sinus aritmiyasi.",
    "original": null,
-   "contextUz": "Sinus aritmiyasi. Nafas bilan bog’liq: tinch nafasda ±5%, chuqur nafasda ±30% gacha.",
+   "contextUz": "Sinus aritmiyasi. Nafas bilan boğliq: tinç nafasda ±5%, çuqur nafasda ±30% gaça.",
    "lessonId": "ch13",
    "topicId": "03",
    "source": "summaryUz",
@@ -1683,7 +1683,7 @@
    "id": "ch13-t-s-a-blok",
    "termUz": "S-A blok.",
    "original": null,
-   "contextUz": "S-A blok. Impuls sinus tugunidan bo’lmachalarga chiqmaydi.",
+   "contextUz": "S-A blok. Impuls sinus tugunidan bölmaçalarga çiqmaydi.",
    "lessonId": "ch13",
    "topicId": "03",
    "source": "summaryUz",
@@ -1693,7 +1693,7 @@
    "id": "ch13-t-a-v-blok-sabablari",
    "termUz": "A-V blok sabablari",
    "original": null,
-   "contextUz": "A-V blok sabablari: ishemiya, chandiq yoki kalsiy bilan siqilish, yallig’lanish (difteriya, revmatizm), kuchli vagus ta’siri, degeneratsiya, digitalis yoki beta-blokatorlar.",
+   "contextUz": "A-V blok sabablari: işemiya, çandiq yoki kalsiy bilan siqiliş, yalliğlaniş (difteriya, revmatizm), kuçli vagus ta’siri, degeneratsiya, digitalis yoki beta-blokatorlar.",
    "lessonId": "ch13",
    "topicId": "03",
    "source": "summaryUz",
@@ -1703,7 +1703,7 @@
    "id": "ch13-t-i-daraja",
    "termUz": "I daraja",
    "original": null,
-   "contextUz": "I daraja: P-R oralig’i >0,20 s, kamdan-kam hollarda 0,35–0,45 s dan oshadi.",
+   "contextUz": "I daraja: P-R oraliği >0,20 s, kamdan-kam hollarda 0,35–0,45 s dan oşadi.",
    "lessonId": "ch13",
    "topicId": "03",
    "source": "summaryUz",
@@ -1711,9 +1711,9 @@
   },
   {
    "id": "ch13-t-ii-daraja-mobitz-i-wenckebach",
-   "termUz": "II daraja, Mobitz I (Wenckebach)",
+   "termUz": "II daraja, Mobitz I (Wenckebaç)",
    "original": null,
-   "contextUz": "II daraja, Mobitz I (Wenckebach): P-R asta-sekin uzayadi, keyin bitta QRS tushib qoladi.",
+   "contextUz": "II daraja, Mobitz I (Wenckebaç): P-R asta-sekin uzayadi, keyin bitta QRS tuşib qoladi.",
    "lessonId": "ch13",
    "topicId": "03",
    "source": "summaryUz",
@@ -1723,7 +1723,7 @@
    "id": "ch13-t-ii-daraja-mobitz-ii",
    "termUz": "II daraja, Mobitz II",
    "original": null,
-   "contextUz": "II daraja, Mobitz II: P-R uzaymaydi, lekin 2:1, 3:2 yoki 3:1 nisbatda QRS tushib qoladi.",
+   "contextUz": "II daraja, Mobitz II: P-R uzaymaydi, lekin 2:1, 3:2 yoki 3:1 nisbatda QRS tuşib qoladi.",
    "lessonId": "ch13",
    "topicId": "03",
    "source": "summaryUz",
@@ -1731,9 +1731,9 @@
   },
   {
    "id": "ch13-t-iii-daraja-toliq-blok",
-   "termUz": "III daraja (to’liq blok)",
+   "termUz": "III daraja (töliq blok)",
    "original": null,
-   "contextUz": "III daraja (to’liq blok): bo’lmachalar ~100/min, qorinchalar mustaqil ravishda <40/min ishlaydi.",
+   "contextUz": "III daraja (töliq blok): bölmaçalar ~100/min, qorinçalar mustaqil ravişda <40/min işlaydi.",
    "lessonId": "ch13",
    "topicId": "03",
    "source": "summaryUz",
@@ -1743,7 +1743,7 @@
    "id": "ch13-t-stokes-adams-sindromi",
    "termUz": "Stokes-Adams sindromi.",
    "original": null,
-   "contextUz": "Stokes-Adams sindromi. Blok bo’lganda qorinchalar \"overdrive suppression\" sababli 5–30 s ishga tushmaydi.",
+   "contextUz": "Stokes-Adams sindromi. Blok bölganda qorinçalar “overdrive suppression” sababli 5–30 s işga tuşmaydi.",
    "lessonId": "ch13",
    "topicId": "03",
    "source": "summaryUz",
@@ -1751,9 +1751,9 @@
   },
   {
    "id": "ch13-t-purkinye-tizimidagi-toliqmas-blok",
-   "termUz": "Purkinye tizimidagi to’liqmas blok.",
+   "termUz": "Purkinye tizimidagi töliqmas blok.",
    "original": null,
-   "contextUz": "Purkinye tizimidagi to’liqmas blok. QRS voltaji har ikkinchi zarbada o’zgaradi (*electrical alternans*).",
+   "contextUz": "Purkinye tizimidagi töliqmas blok. QRS voltaji har ikkinçi zarbada özgaradi (*electrical alternans*).",
    "lessonId": "ch13",
    "topicId": "03",
    "source": "summaryUz",
@@ -1761,9 +1761,9 @@
   },
   {
    "id": "ch13-t-bolmacha-ekstrasistolasi",
-   "termUz": "Bo’lmacha ekstrasistolasi",
+   "termUz": "Bölmaça ekstrasistolasi",
    "original": null,
-   "contextUz": "Bo’lmacha ekstrasistolasi: P-R qisqa, keyin kompensator pauza keladi.",
+   "contextUz": "Bölmaça ekstrasistolasi: P-R qisqa, keyin kompensator pauza keladi.",
    "lessonId": "ch13",
    "topicId": "03",
    "source": "summaryUz",
@@ -1773,7 +1773,7 @@
    "id": "ch13-t-a-v-tugun-ekstrasistolasi",
    "termUz": "A-V tugun ekstrasistolasi",
    "original": null,
-   "contextUz": "A-V tugun ekstrasistolasi: P to’lqini QRS ichida yashirinadi yoki teskari bo’ladi.",
+   "contextUz": "A-V tugun ekstrasistolasi: P tölqini QRS içida yaşirinadi yoki teskari böladi.",
    "lessonId": "ch13",
    "topicId": "03",
    "source": "summaryUz",
@@ -1781,9 +1781,9 @@
   },
   {
    "id": "ch13-t-qorincha-ekstrasistolasi-pvc",
-   "termUz": "Qorincha ekstrasistolasi (PVC)",
+   "termUz": "Qorinça ekstrasistolasi (PVC)",
    "original": null,
-   "contextUz": "Qorincha ekstrasistolasi (PVC): QRS keng va yuqori voltajli, T to’lqini QRS ga teskari.",
+   "contextUz": "Qorinça ekstrasistolasi (PVC): QRS keng va yuqori voltajli, T tölqini QRS ga teskari.",
    "lessonId": "ch13",
    "topicId": "03",
    "source": "summaryUz",
@@ -1791,9 +1791,9 @@
   },
   {
    "id": "ch13-t-tugma-shakli",
-   "termUz": "Tug’ma shakli",
+   "termUz": "Tuğma şakli",
    "original": null,
-   "contextUz": "Tug’ma shakli: Na⁺ va K⁺ kanallarida kamida 17 xil mutatsiya.",
+   "contextUz": "Tuğma şakli: Na⁺ va K⁺ kanallarida kamida 17 xil mutatsiya.",
    "lessonId": "ch13",
    "topicId": "03",
    "source": "summaryUz",
@@ -1801,9 +1801,9 @@
   },
   {
    "id": "ch13-t-orttirilgan-shakli",
-   "termUz": "Orttirilgan shakli",
+   "termUz": "Orttirilgan şakli",
    "original": null,
-   "contextUz": "Orttirilgan shakli: past Mg²⁺, K⁺ yoki Ca²⁺; dorilar (xinidin, ftorxinolonlar, eritromitsin).",
+   "contextUz": "Orttirilgan şakli: past Mg²⁺, K⁺ yoki Ca²⁺; dorilar (xinidin, ftorxinolonlar, eritromitsin).",
    "lessonId": "ch13",
    "topicId": "03",
    "source": "summaryUz",
@@ -1811,9 +1811,9 @@
   },
   {
    "id": "ch13-t-bolmacha-shakli",
-   "termUz": "Bo’lmacha shakli",
+   "termUz": "Bölmaça şakli",
    "original": null,
-   "contextUz": "Bo’lmacha shakli: P to’lqini teskari, chastota masalan 95 dan 150/min gacha sakraydi.",
+   "contextUz": "Bölmaça şakli: P tölqini teskari, çastota masalan 95 dan 150/min gaça sakraydi.",
    "lessonId": "ch13",
    "topicId": "03",
    "source": "summaryUz",
@@ -1821,9 +1821,9 @@
   },
   {
    "id": "ch13-t-a-v-tugun-shakli-supraventrikulyar",
-   "termUz": "A-V tugun shakli (supraventrikulyar)",
+   "termUz": "A-V tugun şakli (supraventrikulyar)",
    "original": null,
-   "contextUz": "A-V tugun shakli (supraventrikulyar): yoshlarda ko’pincha xavfsiz.",
+   "contextUz": "A-V tugun şakli (supraventrikulyar): yoşlarda köpinça xavfsiz.",
    "lessonId": "ch13",
    "topicId": "03",
    "source": "summaryUz",
@@ -1831,9 +1831,9 @@
   },
   {
    "id": "ch13-t-qorincha-paroksizmal-taxikardiyasi",
-   "termUz": "Qorincha paroksizmal taxikardiyasi",
+   "termUz": "Qorinça paroksizmal taxikardiyasi",
    "original": null,
-   "contextUz": "Qorincha paroksizmal taxikardiyasi: Og’ir holat: odatda ishemik shikastlanish yoki digitalis zaharlanishi sabab bo’ladi va fibrillyatsiyaga o’tishi mumkin.",
+   "contextUz": "Qorinça paroksizmal taxikardiyasi: Oğir holat: odatda işemik şikastlaniş yoki digitalis zaharlanişi sabab böladi va fibrillyatsiyaga ötişi mumkin.",
    "lessonId": "ch13",
    "topicId": "03",
    "source": "summaryUz",
@@ -1841,9 +1841,9 @@
   },
   {
    "id": "ch13-t-yol-uzun",
-   "termUz": "Yo’l uzun",
+   "termUz": "Yöl uzun",
    "original": null,
-   "contextUz": "Yo’l uzun: kengaygan yurak.",
+   "contextUz": "Yöl uzun: kengaygan yurak.",
    "lessonId": "ch13",
    "topicId": "03",
    "source": "summaryUz",
@@ -1851,9 +1851,9 @@
   },
   {
    "id": "ch13-t-otkazish-sekin",
-   "termUz": "O’tkazish sekin",
+   "termUz": "Ötkaziş sekin",
    "original": null,
-   "contextUz": "O’tkazish sekin: Purkinye bloki, ishemiya yoki yuqori K⁺.",
+   "contextUz": "Ötkaziş sekin: Purkinye bloki, işemiya yoki yuqori K⁺.",
    "lessonId": "ch13",
    "topicId": "03",
    "source": "summaryUz",
@@ -1873,7 +1873,7 @@
    "id": "ch13-t-mexanizm",
    "termUz": "Mexanizm",
    "original": null,
-   "contextUz": "Mexanizm: 60 Hz o’zgaruvchan tok yoki zaif davrdagi ekstrasistola impulsni bo’laklaydi.",
+   "contextUz": "Mexanizm: 60 Hz özgaruvçan tok yoki zaif davrdagi ekstrasistola impulsni bölaklaydi.",
    "lessonId": "ch13",
    "topicId": "03",
    "source": "summaryUz",
@@ -1893,7 +1893,7 @@
    "id": "ch13-t-defibrillyatsiya",
    "termUz": "Defibrillyatsiya",
    "original": null,
-   "contextUz": "Defibrillyatsiya: Ochiq yurakda: ~1000 V, bir necha millisekund.",
+   "contextUz": "Defibrillyatsiya: Oçiq yurakda: ~1000 V, bir neça millisekund.",
    "lessonId": "ch13",
    "topicId": "03",
    "source": "summaryUz",
@@ -1903,7 +1903,7 @@
    "id": "ch13-t-asosiy-xavf",
    "termUz": "Asosiy xavf",
    "original": null,
-   "contextUz": "Asosiy xavf: quloqchada (atrial appendage) tromb hosil bo’ladi, bu insultga olib keladi.",
+   "contextUz": "Asosiy xavf: quloqçada (atrial appendage) tromb hosil böladi, bu insultga olib keladi.",
    "lessonId": "ch13",
    "topicId": "03",
    "source": "summaryUz",

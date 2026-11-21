@@ -1,0 +1,1335 @@
+{
+ "origin": "Claude (DrStudy sessiyasi) — kitobning özbekça izohlari (Guyton & Hall, 14-naşr) asosida, 2026-11-17. Ekspert tekşiruvi kerak.",
+ "questions": [
+  {
+   "id": "q05-c25-01",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch25",
+   "stem": "70 kg odamda tana umumiy suvi taxminan qança?",
+   "options": [
+    {
+     "id": "q05-c25-01-a",
+     "text": "~28 L (~40%)"
+    },
+    {
+     "id": "q05-c25-01-b",
+     "text": "~42 L (tana vaznining ~60%)"
+    },
+    {
+     "id": "q05-c25-01-c",
+     "text": "~14 L (~20%)"
+    },
+    {
+     "id": "q05-c25-01-d",
+     "text": "~5 L (~7%)"
+    }
+   ],
+   "answerOptionId": "q05-c25-01-b",
+   "explanation": "TBW ~42 L: ICF ~28 L (40%), ECF ~14 L (20%).",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch25",
+    "topicId": "05",
+    "blockId": "ch25-u6",
+    "printedPage": 286,
+    "pdfPage": 291,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c25-02",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch25",
+   "stem": "Hujayradan taşqari suyuqlikning qança qismini plazma taşkil qiladi?",
+   "options": [
+    {
+     "id": "q05-c25-02-a",
+     "text": "~1/10 qismi"
+    },
+    {
+     "id": "q05-c25-02-b",
+     "text": "~1/2 qismi"
+    },
+    {
+     "id": "q05-c25-02-c",
+     "text": "~1/4 qismi (~3 L)"
+    },
+    {
+     "id": "q05-c25-02-d",
+     "text": "~3/4 qismi (~11 L)"
+    }
+   ],
+   "answerOptionId": "q05-c25-02-c",
+   "explanation": "ECF ~14 L: interstitsial ~11 L (3/4), plazma ~3 L (1/4).",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch25",
+    "topicId": "05",
+    "blockId": "ch25-u6",
+    "printedPage": 286,
+    "pdfPage": 291,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c25-03",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch25",
+   "stem": "Kuyişda teri orqali suv buğlanişi nima uçun keskin oşadi?",
+   "options": [
+    {
+     "id": "q05-c25-03-a",
+     "text": "Plazma onkotik bosimi oşadi"
+    },
+    {
+     "id": "q05-c25-03-b",
+     "text": "Muguzsimon qatlam (tösiq) yöqoladi va buğlaniş ~10 marta oşadi"
+    },
+    {
+     "id": "q05-c25-03-c",
+     "text": "Ter bezlari faollaşadi"
+    },
+    {
+     "id": "q05-c25-03-d",
+     "text": "Buyrak suvni çiqarişni töxtatadi"
+    }
+   ],
+   "answerOptionId": "q05-c25-03-b",
+   "explanation": "Normal holda sezilmas buğlanişni muguzsimon qatlam çeklaydi; kuyişda bu tösiq yöqolib, yöqotiş 3–5 L/kun ga yetadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch25",
+    "topicId": "05",
+    "blockId": "ch25-u4",
+    "printedPage": 286,
+    "pdfPage": 291,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c25-04",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch25",
+   "stem": "Hujayra içida (ICF) qaysi kation eng köp?",
+   "options": [
+    {
+     "id": "q05-c25-04-a",
+     "text": "Ca²⁺"
+    },
+    {
+     "id": "q05-c25-04-b",
+     "text": "Mg²⁺ (~140 mEq/L)"
+    },
+    {
+     "id": "q05-c25-04-c",
+     "text": "Na⁺ (~142 mEq/L)"
+    },
+    {
+     "id": "q05-c25-04-d",
+     "text": "K⁺ (~140 mEq/L)"
+    }
+   ],
+   "answerOptionId": "q05-c25-04-d",
+   "explanation": "Plazmada Na⁺ 142, ICF da 14 mEq/L; K⁺ esa plazmada 4,2, ICF da 140 mEq/L.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch25",
+    "topicId": "05",
+    "blockId": "ch25-u9",
+    "printedPage": 286,
+    "pdfPage": 291,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c25-05",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch25",
+   "stem": "Şişga qarşi normal \"xavfsizlik omillari\"ning jami qiymati taxminan qança?",
+   "options": [
+    {
+     "id": "q05-c25-05-a",
+     "text": "~100 mm Hg"
+    },
+    {
+     "id": "q05-c25-05-b",
+     "text": "~2 mm Hg"
+    },
+    {
+     "id": "q05-c25-05-c",
+     "text": "~50 mm Hg"
+    },
+    {
+     "id": "q05-c25-05-d",
+     "text": "~17 mm Hg"
+    }
+   ],
+   "answerOptionId": "q05-c25-05-d",
+   "explanation": "Bobda şişga qarşi uçta xavfsizlik omili keltirilgan, ularning jami ~17 mm Hg.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch25",
+    "topicId": "05",
+    "blockId": "ch25-u1",
+    "printedPage": 286,
+    "pdfPage": 291,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c26-01",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch26",
+   "stem": "Buyrak orqali moddaning ekskretsiyasi qanday hisoblanadi?",
+   "options": [
+    {
+     "id": "q05-c26-01-a",
+     "text": "Filtratsiya + Reabsorbsiya − Sekretsiya"
+    },
+    {
+     "id": "q05-c26-01-b",
+     "text": "Filtratsiya − Reabsorbsiya + Sekretsiya"
+    },
+    {
+     "id": "q05-c26-01-c",
+     "text": "Faqat filtratsiya"
+    },
+    {
+     "id": "q05-c26-01-d",
+     "text": "Reabsorbsiya − Sekretsiya"
+    }
+   ],
+   "answerOptionId": "q05-c26-01-b",
+   "explanation": "Siydik tarkibi uçta jarayon yiğindisidan iborat: filtratsiya, reabsorbsiya (ayiriladi) va sekretsiya (qöşiladi).",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch26",
+    "topicId": "05",
+    "blockId": "ch26-u2",
+    "printedPage": 302,
+    "pdfPage": 307,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c26-02",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch26",
+   "stem": "Qondagi eritropoetinning deyarli hammasini qaysi a’zo işlab çiqaradi?",
+   "options": [
+    {
+     "id": "q05-c26-02-a",
+     "text": "Taloq"
+    },
+    {
+     "id": "q05-c26-02-b",
+     "text": "Jigar"
+    },
+    {
+     "id": "q05-c26-02-c",
+     "text": "Buyrak"
+    },
+    {
+     "id": "q05-c26-02-d",
+     "text": "Suyak iligi"
+    }
+   ],
+   "answerOptionId": "q05-c26-02-c",
+   "explanation": "Asosiy stimul gipoksiya; oğir buyrak kasalligi yoki gemodializda oğir anemiya rivojlanadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch26",
+    "topicId": "05",
+    "blockId": "ch26-u4",
+    "printedPage": 302,
+    "pdfPage": 307,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c26-03",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch26",
+   "stem": "Vitamin D ning faol şakli (kalsitriol) hosil bölişi uçun buyrakda qaysi pozitsiyada gidroksillanadi?",
+   "options": [
+    {
+     "id": "q05-c26-03-a",
+     "text": "3-pozitsiyada"
+    },
+    {
+     "id": "q05-c26-03-b",
+     "text": "1-pozitsiyada (1,25-(OH)₂D₃)"
+    },
+    {
+     "id": "q05-c26-03-c",
+     "text": "7-pozitsiyada"
+    },
+    {
+     "id": "q05-c26-03-d",
+     "text": "25-pozitsiyada"
+    }
+   ],
+   "answerOptionId": "q05-c26-03-b",
+   "explanation": "Buyrak vitamin D ni 1-pozitsiyada gidroksillab 1,25-(OH)₂D₃ hosil qiladi; u suyak va içakda Ca²⁺ uçun zarur.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch26",
+    "topicId": "05",
+    "blockId": "ch26-u4",
+    "printedPage": 302,
+    "pdfPage": 307,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c26-04",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch26",
+   "stem": "Buyrak qon aylanişining noyob xususiyati nima?",
+   "options": [
+    {
+     "id": "q05-c26-04-a",
+     "text": "Ikkita kapillyar töri (glomerulyar va peritubulyar) ketma-ket joylaşgan"
+    },
+    {
+     "id": "q05-c26-04-b",
+     "text": "Buyrakda kapillyarlar umuman yöq"
+    },
+    {
+     "id": "q05-c26-04-c",
+     "text": "Glomerulyar kapillyarlarda bosim eng past"
+    },
+    {
+     "id": "q05-c26-04-d",
+     "text": "Buyrak venalari arteriyalarga perpendikulyar boradi"
+    }
+   ],
+   "answerOptionId": "q05-c26-04-a",
+   "explanation": "Afferent arteriola → glomerulyar kapillyarlar → efferent arteriola → peritubulyar kapillyarlar; glomerulyar bosim ~60 mm Hg.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch26",
+    "topicId": "05",
+    "blockId": "ch26-u10",
+    "printedPage": 302,
+    "pdfPage": 307,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c27-01",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch27",
+   "stem": "Normal koptokçalar filtratsiyasi tezligi (GFR) qança?",
+   "options": [
+    {
+     "id": "q05-c27-01-a",
+     "text": "~125 ml/min (180 L/kun)"
+    },
+    {
+     "id": "q05-c27-01-b",
+     "text": "~1100 ml/min"
+    },
+    {
+     "id": "q05-c27-01-c",
+     "text": "~625 ml/min"
+    },
+    {
+     "id": "q05-c27-01-d",
+     "text": "~1 ml/min"
+    }
+   ],
+   "answerOptionId": "q05-c27-01-a",
+   "explanation": "GFR ≈ 125 ml/min; buyrak plazma oqimi ≈ 625 ml/min; filtratsiya fraksiyasi ≈ 0,2.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch27",
+    "topicId": "05",
+    "blockId": "ch27-u5",
+    "printedPage": 312,
+    "pdfPage": 317,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c27-02",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch27",
+   "stem": "Albumin filtrlanmasligining asosiy sababi nima?",
+   "options": [
+    {
+     "id": "q05-c27-02-a",
+     "text": "Filtratsiya tösiğining manfiy zaryadi"
+    },
+    {
+     "id": "q05-c27-02-b",
+     "text": "Albuminning ölçami teşiklardan juda katta"
+    },
+    {
+     "id": "q05-c27-02-c",
+     "text": "Albumin kapillyarda parçalanadi"
+    },
+    {
+     "id": "q05-c27-02-d",
+     "text": "Podotsitlar albuminni faol qayta söradi"
+    }
+   ],
+   "answerOptionId": "q05-c27-02-a",
+   "explanation": "Albumin diametri ~6 nm, teşiklar ~8 nm; uni asosan tösiqning manfiy zaryadi uşlab qoladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch27",
+    "topicId": "05",
+    "blockId": "ch27-u10",
+    "printedPage": 312,
+    "pdfPage": 317,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c27-03",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch27",
+   "stem": "Glomerulyar kapillyarlarda sof filtratsiya bosimi taxminan qança?",
+   "options": [
+    {
+     "id": "q05-c27-03-a",
+     "text": "+60 mm Hg"
+    },
+    {
+     "id": "q05-c27-03-b",
+     "text": "0 mm Hg"
+    },
+    {
+     "id": "q05-c27-03-c",
+     "text": "+32 mm Hg"
+    },
+    {
+     "id": "q05-c27-03-d",
+     "text": "+10 mm Hg"
+    }
+   ],
+   "answerOptionId": "q05-c27-03-d",
+   "explanation": "P_G 60 − P_B 18 − π_G 32 + π_B 0 = +10 mm Hg.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch27",
+    "topicId": "05",
+    "blockId": "ch27-u14",
+    "printedPage": 312,
+    "pdfPage": 317,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c27-04",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch27",
+   "stem": "Buyrak GFR ni autoregulyatsiya qiladigan mexanizmlar qaysilar?",
+   "options": [
+    {
+     "id": "q05-c27-04-a",
+     "text": "Baroreseptor refleksi"
+    },
+    {
+     "id": "q05-c27-04-b",
+     "text": "Tubuloglomerulyar feedback (macula densa) va miogen mexanizm"
+    },
+    {
+     "id": "q05-c27-04-c",
+     "text": "Faqat ADH"
+    },
+    {
+     "id": "q05-c27-04-d",
+     "text": "Faqat simpatik nervlar"
+    }
+   ],
+   "answerOptionId": "q05-c27-04-b",
+   "explanation": "Buyrak GFR va qon oqimini tubuloglomerulyar feedback hamda miogen mexanizm orqali özi boşqaradi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch27",
+    "topicId": "05",
+    "blockId": "ch27-u3",
+    "printedPage": 312,
+    "pdfPage": 317,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c27-05",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch27",
+   "stem": "Minimal özgarişli nefropatiyada proteinuriya sababi nima?",
+   "options": [
+    {
+     "id": "q05-c27-05-a",
+     "text": "Podotsit oyoqçalarining yassilanişi (effacement) va manfiy zaryadning yöqolişi"
+    },
+    {
+     "id": "q05-c27-05-b",
+     "text": "Glomerulyar bosimning keskin oşişi"
+    },
+    {
+     "id": "q05-c27-05-c",
+     "text": "Bazal membrananing qalinlaşişi"
+    },
+    {
+     "id": "q05-c27-05-d",
+     "text": "Kanalçalarda oqsil sekretsiyasi"
+    }
+   ],
+   "answerOptionId": "q05-c27-05-a",
+   "explanation": "Elektron mikroskopda podotsit oyoqçalari yassilangan; ehtimoliy sababi immun mexanizm, natijada albuminuriya.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch27",
+    "topicId": "05",
+    "blockId": "ch27-u10",
+    "printedPage": 312,
+    "pdfPage": 317,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c28-01",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch28",
+   "stem": "Filtrlangan glyukozaning qança qismi normal holda qayta söriladi?",
+   "options": [
+    {
+     "id": "q05-c28-01-a",
+     "text": "100%"
+    },
+    {
+     "id": "q05-c28-01-b",
+     "text": "99,4%"
+    },
+    {
+     "id": "q05-c28-01-c",
+     "text": "0%"
+    },
+    {
+     "id": "q05-c28-01-d",
+     "text": "50%"
+    }
+   ],
+   "answerOptionId": "q05-c28-01-a",
+   "explanation": "Glyukoza töliq (180 g/kun) qayta söriladi; moçevina 50%, kreatinin esa umuman sörilmaydi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch28",
+    "topicId": "05",
+    "blockId": "ch28-u3",
+    "printedPage": 324,
+    "pdfPage": 329,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c28-02",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch28",
+   "stem": "Proksimal kanalçada filtrlangan glyukozaning ~90% ini qaysi taşuvçi söradi?",
+   "options": [
+    {
+     "id": "q05-c28-02-a",
+     "text": "SGLT2"
+    },
+    {
+     "id": "q05-c28-02-b",
+     "text": "GLUT4"
+    },
+    {
+     "id": "q05-c28-02-c",
+     "text": "SGLT1"
+    },
+    {
+     "id": "q05-c28-02-d",
+     "text": "NKCC2"
+    }
+   ],
+   "answerOptionId": "q05-c28-02-a",
+   "explanation": "SGLT2 S1 segmentida ~90%, SGLT1 keyingi segmentlarda qolgan 10% ni söradi; glyukoza bazolateraldan GLUT2/GLUT1 orqali çiqadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch28",
+    "topicId": "05",
+    "blockId": "ch28-u7",
+    "printedPage": 324,
+    "pdfPage": 329,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c28-03",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch28",
+   "stem": "Plazma glyukozasi qançadan oşganda siydikda glyukoza paydo böladi (ostona)?",
+   "options": [
+    {
+     "id": "q05-c28-03-a",
+     "text": "~90 mg/dl"
+    },
+    {
+     "id": "q05-c28-03-b",
+     "text": "~200 mg/dl"
+    },
+    {
+     "id": "q05-c28-03-c",
+     "text": "~375 mg/dl"
+    },
+    {
+     "id": "q05-c28-03-d",
+     "text": "~1000 mg/dl"
+    }
+   ],
+   "answerOptionId": "q05-c28-03-b",
+   "explanation": "Ostona ~200 mg/dl; glyukoza Tm ≈ 375 mg/min. Ostona Tm dan oldin keladi, çunki nefronlarning Tm lari har xil.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch28",
+    "topicId": "05",
+    "blockId": "ch28-u9",
+    "printedPage": 324,
+    "pdfPage": 329,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c28-04",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch28",
+   "stem": "Buyrak kanalçalaridagi deyarli barça transportning energiya manbai nima?",
+   "options": [
+    {
+     "id": "q05-c28-04-a",
+     "text": "Apikal H⁺-ATPaza"
+    },
+    {
+     "id": "q05-c28-04-b",
+     "text": "Akvaporinlar"
+    },
+    {
+     "id": "q05-c28-04-c",
+     "text": "Bazolateral Na⁺-K⁺ ATPaza"
+    },
+    {
+     "id": "q05-c28-04-d",
+     "text": "Glyukoza taşuvçilari"
+    }
+   ],
+   "answerOptionId": "q05-c28-04-c",
+   "explanation": "Na⁺-K⁺ ATPaza hujayra içida past Na⁺ hosil qiladi; şu gradient ikkilamçi faol transportni harakatlantiradi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch28",
+    "topicId": "05",
+    "blockId": "ch28-u7",
+    "printedPage": 324,
+    "pdfPage": 329,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c29-01",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch29",
+   "stem": "Buyrakda siydikni konsentratsiyalaşda asosiy gormon qaysi?",
+   "options": [
+    {
+     "id": "q05-c29-01-a",
+     "text": "ADH (antidiuretik gormon)"
+    },
+    {
+     "id": "q05-c29-01-b",
+     "text": "Paratgormon"
+    },
+    {
+     "id": "q05-c29-01-c",
+     "text": "Aldosteron"
+    },
+    {
+     "id": "q05-c29-01-d",
+     "text": "Angiotenzin II"
+    }
+   ],
+   "answerOptionId": "q05-c29-01-a",
+   "explanation": "Konsentrlangan siydik uçun yuqori ADH va giperosmotik medulla interstitsiyi kerak.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch29",
+    "topicId": "05",
+    "blockId": "ch29-u1",
+    "printedPage": 346,
+    "pdfPage": 351,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c29-02",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch29",
+   "stem": "Henle qovuzloğining qalin kötariluvçi qismining xususiyati nima?",
+   "options": [
+    {
+     "id": "q05-c29-02-a",
+     "text": "Faqat suvni ötkazadi"
+    },
+    {
+     "id": "q05-c29-02-b",
+     "text": "Na⁺, K⁺, Cl⁻ ni söradi, lekin ADH bölsa ham suvni ötkazmaydi"
+    },
+    {
+     "id": "q05-c29-02-c",
+     "text": "ADH ta’sirida suvni söradi"
+    },
+    {
+     "id": "q05-c29-02-d",
+     "text": "Moçevinani faol sekretsiya qiladi"
+    }
+   ],
+   "answerOptionId": "q05-c29-02-b",
+   "explanation": "Şu sababli erta distal kanalçaga doimo gipoosmotik (~100 mOsm/L) suyuqlik yetadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch29",
+    "topicId": "05",
+    "blockId": "ch29-u3",
+    "printedPage": 346,
+    "pdfPage": 351,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c29-03",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch29",
+   "stem": "Nima uçun dengiz suvini içiş suvsizlanişni kuçaytiradi?",
+   "options": [
+    {
+     "id": "q05-c29-03-a",
+     "text": "Dengiz suvidagi tuz ter bilan çiqadi"
+    },
+    {
+     "id": "q05-c29-03-b",
+     "text": "1 L dengiz suvidagi tuzni çiqariş uçun ~1,5 L siydik kerak böladi"
+    },
+    {
+     "id": "q05-c29-03-c",
+     "text": "Dengiz suvi umuman sörilmaydi"
+    },
+    {
+     "id": "q05-c29-03-d",
+     "text": "Dengiz suvi ADH ni bostiradi"
+    }
+   ],
+   "answerOptionId": "q05-c29-03-b",
+   "explanation": "Buyrak NaCl ni ~600 mOsm/L gaça konsentrlay oladi; 1200 mOsm NaCl uçun 2 L siydik kerak — har litrda 0,5 L suv yöqotiladi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch29",
+    "topicId": "05",
+    "blockId": "ch29-u6",
+    "printedPage": 346,
+    "pdfPage": 351,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c29-04",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch29",
+   "stem": "Kunlik majburiy siydik hajmi taxminan qança?",
+   "options": [
+    {
+     "id": "q05-c29-04-a",
+     "text": "~5 L"
+    },
+    {
+     "id": "q05-c29-04-b",
+     "text": "~0,1 L"
+    },
+    {
+     "id": "q05-c29-04-c",
+     "text": "~0,5 L"
+    },
+    {
+     "id": "q05-c29-04-d",
+     "text": "~2 L"
+    }
+   ],
+   "answerOptionId": "q05-c29-04-c",
+   "explanation": "Kuniga ~600 mOsm modda çiqarilişi kerak; maksimal konsentratsiya 1200 mOsm/L bölsa, 600/1200 = 0,5 L.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch29",
+    "topicId": "05",
+    "blockId": "ch29-u6",
+    "printedPage": 346,
+    "pdfPage": 351,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c30-01",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch30",
+   "stem": "Tanadagi K⁺ ning qança qismi hujayra içida joylaşgan?",
+   "options": [
+    {
+     "id": "q05-c30-01-a",
+     "text": "~50%"
+    },
+    {
+     "id": "q05-c30-01-b",
+     "text": "~2%"
+    },
+    {
+     "id": "q05-c30-01-c",
+     "text": "~75%"
+    },
+    {
+     "id": "q05-c30-01-d",
+     "text": ">98%"
+    }
+   ],
+   "answerOptionId": "q05-c30-01-d",
+   "explanation": "ICF: 140 × 28 L = 3920 mEq; ECF: 4,2 × 14 L = 59 mEq.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch30",
+    "topicId": "05",
+    "blockId": "ch30-u4",
+    "printedPage": 363,
+    "pdfPage": 368,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c30-02",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch30",
+   "stem": "Qaysi omil K⁺ ni hujayra içiga kiritadi?",
+   "options": [
+    {
+     "id": "q05-c30-02-a",
+     "text": "Atsidoz"
+    },
+    {
+     "id": "q05-c30-02-b",
+     "text": "Insulin"
+    },
+    {
+     "id": "q05-c30-02-c",
+     "text": "Hujayra lizisi"
+    },
+    {
+     "id": "q05-c30-02-d",
+     "text": "β-blokada"
+    }
+   ],
+   "answerOptionId": "q05-c30-02-b",
+   "explanation": "Insulin, aldosteron, β₂-adrenergik stimulyatsiya va alkaloz K⁺ ni hujayraga kiritadi; şuning uçun giperkaliemiyada insulin beriladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch30",
+    "topicId": "05",
+    "blockId": "ch30-u7",
+    "printedPage": 363,
+    "pdfPage": 368,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c30-03",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch30",
+   "stem": "K⁺ ekskretsiyasining kundalik özgarişi asosan qaysi segmentda boşqariladi?",
+   "options": [
+    {
+     "id": "q05-c30-03-a",
+     "text": "Glomerulada"
+    },
+    {
+     "id": "q05-c30-03-b",
+     "text": "Keç distal va kortikal yiğuvçi kanalçalarning asosiy hujayralarida"
+    },
+    {
+     "id": "q05-c30-03-c",
+     "text": "Henle qovuzloğining ingiçka qismida"
+    },
+    {
+     "id": "q05-c30-03-d",
+     "text": "Proksimal kanalçada"
+    }
+   ],
+   "answerOptionId": "q05-c30-03-b",
+   "explanation": "Proksimal kanalça 65%, Henle qovuzloği 25–30% ni söradi; kunlik özgariş asosiy hujayralardagi sekretsiya bilan belgilanadi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch30",
+    "topicId": "05",
+    "blockId": "ch30-u11",
+    "printedPage": 363,
+    "pdfPage": 368,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c30-04",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch30",
+   "stem": "Conn sindromida (birlamçi giperaldosteronizm) qanday elektrolit buzilişi kuzatiladi?",
+   "options": [
+    {
+     "id": "q05-c30-04-a",
+     "text": "Giperkaliemiya"
+    },
+    {
+     "id": "q05-c30-04-b",
+     "text": "Gipernatriyemiya bölmaydi, faqat gipokalsiyemiya"
+    },
+    {
+     "id": "q05-c30-04-c",
+     "text": "Giperkalsiyemiya"
+    },
+    {
+     "id": "q05-c30-04-d",
+     "text": "Gipokaliemiya"
+    }
+   ],
+   "answerOptionId": "q05-c30-04-d",
+   "explanation": "Ortiqça aldosteron K⁺ sekretsiyasini kuçaytiradi — gipokaliemiya; Addison kasalligida esa giperkaliemiya.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch30",
+    "topicId": "05",
+    "blockId": "ch30-u8",
+    "printedPage": 363,
+    "pdfPage": 368,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c31-01",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch31",
+   "stem": "Arterial qonning normal pH qiymati qança?",
+   "options": [
+    {
+     "id": "q05-c31-01-a",
+     "text": "6,10"
+    },
+    {
+     "id": "q05-c31-01-b",
+     "text": "7,80"
+    },
+    {
+     "id": "q05-c31-01-c",
+     "text": "7,00"
+    },
+    {
+     "id": "q05-c31-01-d",
+     "text": "7,40"
+    }
+   ],
+   "answerOptionId": "q05-c31-01-d",
+   "explanation": "Normal H⁺ 40 nEq/L, bu pH 7,4 ga töğri keladi; venoz qon ~7,35.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch31",
+    "topicId": "05",
+    "blockId": "ch31-u5",
+    "printedPage": 382,
+    "pdfPage": 387,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c31-02",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch31",
+   "stem": "Kislota-asos muvozanatini eng kuçli, lekin eng sekin boşqaradigan tizim qaysi?",
+   "options": [
+    {
+     "id": "q05-c31-02-a",
+     "text": "Jigar"
+    },
+    {
+     "id": "q05-c31-02-b",
+     "text": "Kimyoviy buferlar"
+    },
+    {
+     "id": "q05-c31-02-c",
+     "text": "Buyrak"
+    },
+    {
+     "id": "q05-c31-02-d",
+     "text": "Nafas"
+    }
+   ],
+   "answerOptionId": "q05-c31-02-c",
+   "explanation": "Buferlar soniyalarda, nafas daqiqalarda, buyrak esa soatlar-kunlarda işlaydi va eng kuçli tizim hisoblanadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch31",
+    "topicId": "05",
+    "blockId": "ch31-u2",
+    "printedPage": 382,
+    "pdfPage": 387,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c31-03",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch31",
+   "stem": "Bikarbonat bufer tizimi uçun Henderson–Hasselbalç tenglamasidagi pK qiymati qança?",
+   "options": [
+    {
+     "id": "q05-c31-03-a",
+     "text": "6,8"
+    },
+    {
+     "id": "q05-c31-03-b",
+     "text": "4,5"
+    },
+    {
+     "id": "q05-c31-03-c",
+     "text": "6,1"
+    },
+    {
+     "id": "q05-c31-03-d",
+     "text": "7,4"
+    }
+   ],
+   "answerOptionId": "q05-c31-03-c",
+   "explanation": "pH = 6,1 + log(HCO₃⁻ / 0,03·Pco₂); normal holatda HCO₃⁻ : CO₂ ≈ 20 : 1.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch31",
+    "topicId": "05",
+    "blockId": "ch31-u12",
+    "printedPage": 382,
+    "pdfPage": 387,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c31-04",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch31",
+   "stem": "Bikarbonat buferi nima uçun ECF ning eng kuçli buferi hisoblanadi?",
+   "options": [
+    {
+     "id": "q05-c31-04-a",
+     "text": "Uning konsentratsiyasi boşqa buferlardan 100 marta köp"
+    },
+    {
+     "id": "q05-c31-04-b",
+     "text": "U faqat hujayra içida işlaydi"
+    },
+    {
+     "id": "q05-c31-04-c",
+     "text": "Ikkala komponenti alohida boşqariladi: HCO₃⁻ ni buyrak, CO₂ ni öpka boşqaradi"
+    },
+    {
+     "id": "q05-c31-04-d",
+     "text": "Uning pK qiymati 7,4 ga juda yaqin"
+    }
+   ],
+   "answerOptionId": "q05-c31-04-c",
+   "explanation": "pK (6,1) pH dan uzoq bölsa ham, komponentlarning mustaqil boşqarilişi uni eng kuçli bufer qiladi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch31",
+    "topicId": "05",
+    "blockId": "ch31-u12",
+    "printedPage": 382,
+    "pdfPage": 387,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c31-05",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch31",
+   "stem": "Fosfat bufer tizimi qayerda eng muhim ahamiyatga ega?",
+   "options": [
+    {
+     "id": "q05-c31-05-a",
+     "text": "Me’da şirasida"
+    },
+    {
+     "id": "q05-c31-05-b",
+     "text": "Orqa miya suyuqligida"
+    },
+    {
+     "id": "q05-c31-05-c",
+     "text": "Arterial qon plazmasida"
+    },
+    {
+     "id": "q05-c31-05-d",
+     "text": "Kanalça suyuqligi va hujayra içida"
+    }
+   ],
+   "answerOptionId": "q05-c31-05-d",
+   "explanation": "ECF da fosfat konsentratsiyasi bikarbonatning atigi ~8% i; kanalça suyuqligi va ICF da u konsentrlangan va pK (6,8) pH ga yaqin.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch31",
+    "topicId": "05",
+    "blockId": "ch31-u15",
+    "printedPage": 382,
+    "pdfPage": 387,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c32-01",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch32",
+   "stem": "Eng kuçli diuretiklar guruhi qaysi va ular qayerga ta’sir qiladi?",
+   "options": [
+    {
+     "id": "q05-c32-01-a",
+     "text": "Tiazidlar — proksimal kanalçada"
+    },
+    {
+     "id": "q05-c32-01-b",
+     "text": "Spironolakton — glomerulada"
+    },
+    {
+     "id": "q05-c32-01-c",
+     "text": "Atsetazolamid — yiğuvçi nayçada"
+    },
+    {
+     "id": "q05-c32-01-d",
+     "text": "Qovuzloq diuretiklari (furosemid) — qalin kötariluvçi tirsakdagi NKCC2 ni bloklaydi"
+    }
+   ],
+   "answerOptionId": "q05-c32-01-d",
+   "explanation": "Furosemid NKCC2 ni bloklaydi; filtratning 20–30% i siydikka ötişi mumkin.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch32",
+    "topicId": "05",
+    "blockId": "ch32-u5",
+    "printedPage": 400,
+    "pdfPage": 405,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c32-02",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch32",
+   "stem": "Qaysi diuretiklar K⁺ tejovçi hisoblanadi?",
+   "options": [
+    {
+     "id": "q05-c32-02-a",
+     "text": "Gidroxlorotiazid va xlortalidon"
+    },
+    {
+     "id": "q05-c32-02-b",
+     "text": "Spironolakton, eplerenon, amilorid, triamteren"
+    },
+    {
+     "id": "q05-c32-02-c",
+     "text": "Furosemid va bumetanid"
+    },
+    {
+     "id": "q05-c32-02-d",
+     "text": "Mannitol"
+    }
+   ],
+   "answerOptionId": "q05-c32-02-b",
+   "explanation": "Mineralokortikoid antagonistlari va ENaC blokatorlari yiğuvçi kanalçada K⁺ sekretsiyasini kamaytiradi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch32",
+    "topicId": "05",
+    "blockId": "ch32-u5",
+    "printedPage": 400,
+    "pdfPage": 405,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c32-03",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch32",
+   "stem": "Karboangidraza ingibitori atsetazolamid qanday nojöya kislota-asos holatini keltirib çiqaradi?",
+   "options": [
+    {
+     "id": "q05-c32-03-a",
+     "text": "Atsidoz (HCO₃⁻ yöqotiladi)"
+    },
+    {
+     "id": "q05-c32-03-b",
+     "text": "Heç qanday özgariş bermaydi"
+    },
+    {
+     "id": "q05-c32-03-c",
+     "text": "Alkaloz"
+    },
+    {
+     "id": "q05-c32-03-d",
+     "text": "Respirator alkaloz"
+    }
+   ],
+   "answerOptionId": "q05-c32-03-a",
+   "explanation": "Atsetazolamid H⁺ sekretsiyasi va HCO₃⁻ reabsorbsiyasini tormozlaydi; HCO₃⁻ siydik bilan yöqolib atsidoz rivojlanadi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch32",
+    "topicId": "05",
+    "blockId": "ch32-u5",
+    "printedPage": 400,
+    "pdfPage": 405,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q05-c32-04",
+   "version": 1,
+   "topicId": "05",
+   "lessonId": "ch32",
+   "stem": "Nima uçun buyrak prerenal işemiyaga nisbatan bardoşli?",
+   "options": [
+    {
+     "id": "q05-c32-04-a",
+     "text": "GFR tuşganda filtrlangan NaCl kamayadi, uni sörişga sarflanadigan O₂ ham kamayadi"
+    },
+    {
+     "id": "q05-c32-04-b",
+     "text": "Buyrakda O₂ zaxirasi bor"
+    },
+    {
+     "id": "q05-c32-04-c",
+     "text": "Işemiyada buyrak qon oqimi oşadi"
+    },
+    {
+     "id": "q05-c32-04-d",
+     "text": "Buyrak umuman O₂ sarflamaydi"
+    }
+   ],
+   "answerOptionId": "q05-c32-04-a",
+   "explanation": "Buyrak O₂ ning asosiy qismini NaCl reabsorbsiyasiga sarflaydi; GFR tuşsa O₂ sarfi ham pasayadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch32",
+    "topicId": "05",
+    "blockId": "ch32-u12",
+    "printedPage": 400,
+    "pdfPage": 405,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  }
+ ]
+}

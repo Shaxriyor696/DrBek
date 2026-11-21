@@ -4,7 +4,7 @@ import { get, post, streamPost } from './api.js';
 import { openFigure } from './common.js';
 import { navigate } from './main.js';
 
-const QUICK = [['explain', 'Soddalashtir', 'zap'], ['example', 'Misol keltir', 'book'], ['term', 'Atamani izohla', 'file'], ['quiz', 'Savol ber', 'help']];
+const QUICK = [['explain', 'Soddalaştir', 'zap'], ['example', 'Misol keltir', 'book'], ['term', 'Atamani izohla', 'file'], ['quiz', 'Savol ber', 'help']];
 
 export function createChat({ lessonId = null, topicId = null, threadId = null, onThread, compact = false, onSaveNote, onSources } = {}) {
   let tid = threadId;
@@ -12,7 +12,7 @@ export function createChat({ lessonId = null, topicId = null, threadId = null, o
   let busy = null; // AbortController while streaming
   const log = h('div', { class: 'chat-log', 'aria-live': 'polite' });
   const ta = h('textarea', { rows: 2, placeholder: 'Savolingizni yozing…', 'aria-label': 'AI ga savol', maxlength: 2000 });
-  const sendBtn = h('button', { type: 'submit', class: 'btn primary', 'aria-label': 'Yuborish' }, icon('send'));
+  const sendBtn = h('button', { type: 'submit', class: 'btn primary', 'aria-label': 'Yuboriş' }, icon('send'));
   const micBtn = h('button', { type: 'button', class: 'btn mic-btn hidden', 'aria-label': 'Ovozli savol', title: 'Ovozli savol: bosing, gapiring, yana bosing' }, icon('mic'));
   const ctxChip = h('div', { class: 'ctx-chip hidden' });
   let pendingSel = null;
@@ -32,7 +32,7 @@ export function createChat({ lessonId = null, topicId = null, threadId = null, o
   const micIdle = () => { micBtn.classList.remove('rec'); micBtn.disabled = false; mount(micBtn, icon('mic')); micBtn.setAttribute('aria-label', 'Ovozli savol'); };
   micBtn.addEventListener('click', async () => {
     if (rec) { rec.stop(); return; }
-    if (!navigator.mediaDevices?.getUserMedia || typeof MediaRecorder === 'undefined') { toast('Bu brauzer ovoz yozishni qo’llamaydi.'); return; }
+    if (!navigator.mediaDevices?.getUserMedia || typeof MediaRecorder === 'undefined') { toast('Bu brauzer ovoz yozişni qöllamaydi.'); return; }
     let stream;
     try { stream = await navigator.mediaDevices.getUserMedia({ audio: true }); }
     catch { toast('Mikrofonga ruxsat berilmadi.'); return; }
@@ -51,14 +51,14 @@ export function createChat({ lessonId = null, topicId = null, threadId = null, o
       try {
         const res = await post('/api/chat/transcribe', { mimeType: audioType(blob.type), audio: await toB64(blob) });
         if (res.text) { ta.value = [ta.value.trim(), res.text].filter(Boolean).join(' '); ta.focus(); }
-        else toast('Ovoz tushunilmadi. Qayta urinib ko’ring.');
+        else toast('Ovoz tuşunilmadi. Qayta urinib köring.');
       } catch (e) { toast(e.message); }
       ta.placeholder = ph;
       micIdle();
     };
     r.start();
     rec = r;
-    micBtn.classList.add('rec'); mount(micBtn, icon('stop')); micBtn.setAttribute('aria-label', 'Yozishni to’xtatish');
+    micBtn.classList.add('rec'); mount(micBtn, icon('stop')); micBtn.setAttribute('aria-label', 'Yozişni töxtatiş');
   });
   ta.addEventListener('keydown', (e) => { if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); form.requestSubmit(); } });
 
@@ -68,7 +68,7 @@ export function createChat({ lessonId = null, topicId = null, threadId = null, o
     pendingSel = sel;
     if (!sel) { ctxChip.classList.add('hidden'); return; }
     mount(ctxChip, icon('file', 'sm'), h('span', { class: 'grow' }, `Belgilangan matn: “${sel.text.slice(0, 140)}${sel.text.length > 140 ? '…' : ''}”`),
-      h('button', { type: 'button', class: 'icon-btn', style: { width: '28px', height: '28px', minHeight: 0 }, 'aria-label': 'Olib tashlash', onclick: () => setSelection(null) }, icon('x', 'sm')));
+      h('button', { type: 'button', class: 'icon-btn', style: { width: '28px', height: '28px', minHeight: 0 }, 'aria-label': 'Olib taşlaş', onclick: () => setSelection(null) }, icon('x', 'sm')));
     ctxChip.classList.remove('hidden');
   }
 
@@ -77,10 +77,10 @@ export function createChat({ lessonId = null, topicId = null, threadId = null, o
     const cited = new Set((citations || []).map((c) => c.sourceId));
     const shown = cited.size ? sources.filter((s) => cited.has(s.sourceId)) : sources;
     return h('details', { open: !cited.size },
-      h('summary', { class: 'xs', style: { cursor: 'pointer', fontWeight: 700 } }, cited.size ? `Manbalar (${shown.length})` : `Topilgan manba parchalari (${shown.length})`),
+      h('summary', { class: 'xs', style: { cursor: 'pointer', fontWeight: 700 } }, cited.size ? `Manbalar (${shown.length})` : `Topilgan manba parçalari (${shown.length})`),
       h('ul', { class: 'src-list' }, shown.map((s) => h('li', { id: `src-${s.sourceId}` },
         h('b', {}, `[${s.n}] `), srcLink(s),
-        h('div', { class: 'xs muted' }, `${s.lang === 'en' ? 'Asl matn (EN)' : s.kind === 'figure' ? 'Kitob rasmi' : 'O’zbekcha izoh'}${s.pdfPage ? ` · kitob ${s.printedPage}-bet (PDF ${s.pdfPage})` : ''}${s.lessonStatus && s.lessonStatus !== 'published' ? ' · tekshiruvda' : ''}`),
+        h('div', { class: 'xs muted' }, `${s.lang === 'en' ? 'Ma’lumot (EN)' : s.kind === 'figure' ? 'Kitob rasmi' : 'Umumiy ma’lumot'}${s.pdfPage ? ` · kitob ${s.printedPage}-bet (PDF ${s.pdfPage})` : ''}${s.lessonStatus && s.lessonStatus !== 'published' ? ' · tekşiruvda' : ''}`),
         s.snippet ? h('div', { class: 'xs', style: { marginTop: '4px' } }, `“${s.snippet.replace(/\*\*/g, '')}…”`) : null))));
   }
   function srcLink(s) {
@@ -114,21 +114,21 @@ export function createChat({ lessonId = null, topicId = null, threadId = null, o
       return h('div', { class: 'msg user' }, m.context?.selection ? h('div', { class: 'xs muted', style: { marginLeft: '24px' } }, `Belgilangan: “${m.context.selection.slice(0, 100)}…”`) : null, h('div', { class: 'bubble' }, m.content));
     }
     const sources = m.context?.sources || [];
-    const warn = { no_source: 'Manbada topilmadi', unavailable: 'AI ulanmagan', timeout: 'Vaqt tugadi', error: 'Xato', stopped: 'To’xtatildi', refused: 'Javob berilmadi' }[m.status];
+    const warn = { no_source: 'Manbada topilmadi', unavailable: 'AI ulanmagan', timeout: 'Vaqt tugadi', error: 'Xato', stopped: 'Töxtatildi', refused: 'Javob berilmadi' }[m.status];
     return h('div', { class: 'msg ai' },
-      h('div', { class: 'row xs muted', style: { gap: '6px', marginBottom: '4px' } }, icon('sparkles', 'sm'), 'AI yordamchi', warn ? h('span', { class: 'badge warn' }, warn) : null,
-        m.status === 'complete' && !(m.citations || []).length ? h('span', { class: 'badge warn', title: 'Javobda manbaga havola yo’q — ehtiyot bo’ling' }, 'Manbasiz') : null),
+      h('div', { class: 'row xs muted', style: { gap: '6px', marginBottom: '4px' } }, icon('sparkles', 'sm'), 'AI yordamçi', warn ? h('span', { class: 'badge warn' }, warn) : null,
+        m.status === 'complete' && !(m.citations || []).length ? h('span', { class: 'badge warn', title: 'Javobda manbaga havola yöq — ehtiyot böling' }, 'Manbasiz') : null),
       answerBody(m.content || '', m.citations, sources),
       sourceList(sources, m.citations),
       m.id && ['complete'].includes(m.status) ? h('div', { class: 'row', style: { gap: '6px', marginTop: '6px' } },
-        h('button', { type: 'button', class: 'btn small', onclick: async () => { try { await post('/api/bookmarks', { targetType: 'ai_answer', targetId: m.id, title: (m.content || '').slice(0, 80), snippet: (m.content || '').slice(0, 600) }); toast('Javob saqlandi.'); } catch (e) { toast(e.message); } } }, icon('bookmark', 'sm'), 'Saqlash'),
+        h('button', { type: 'button', class: 'btn small', onclick: async () => { try { await post('/api/bookmarks', { targetType: 'ai_answer', targetId: m.id, title: (m.content || '').slice(0, 80), snippet: (m.content || '').slice(0, 600) }); toast('Javob saqlandi.'); } catch (e) { toast(e.message); } } }, icon('bookmark', 'sm'), 'Saqlaş'),
         onSaveNote ? h('button', { type: 'button', class: 'btn small', onclick: () => onSaveNote(m) }, icon('note', 'sm'), 'Qaydga') : null) : null);
   }
 
   async function load() {
     try {
       status = await get('/api/chat/status');
-      if (!status.available) { notice.textContent = status.demo ? 'Web ko’rinishda AI ulanmagan. Savol yuborsangiz, kitobdan mos parchalar ko’rsatiladi.' : `AI hali ulanmagan: serverda ${status.provider === 'gemini' ? 'GEMINI_API_KEY' : 'ANTHROPIC_API_KEY'} yo’q. Savol yuborsangiz, kitobdan mos parchalar ko’rsatiladi.`; notice.classList.remove('hidden'); }
+      if (!status.available) { notice.textContent = status.demo ? 'Web körinişda AI ulanmagan. Savol yuborsangiz, kitobdan mos parçalar körsatiladi.' : `AI hali ulanmagan: serverda ${({ gemini: 'GEMINI_API_KEY', grok: 'XAI_API_KEY' })[status.provider] || 'ANTHROPIC_API_KEY'} yöq. Savol yuborsangiz, kitobdan mos parçalar körsatiladi.`; notice.classList.remove('hidden'); }
       if (status.voice) micBtn.classList.remove('hidden');
       if (tid) {
         const r = await get(`/api/chat/threads/${tid}`);
@@ -154,10 +154,10 @@ export function createChat({ lessonId = null, topicId = null, threadId = null, o
     ta.value = ''; setSelection(null);
     log.appendChild(renderMsg({ role: 'user', content: [action ? QUICK.find((q) => q[0] === action)?.[1] || action : '', text].filter(Boolean).join(': '), context: { selection: sel?.text } }));
     const live = h('div', { class: 'bubble' }, h('span', { class: 'muted' }, 'Manbalar qidirilmoqda…'));
-    const liveWrap = h('div', { class: 'msg ai' }, h('div', { class: 'row xs muted', style: { gap: '6px', marginBottom: '4px' } }, icon('sparkles', 'sm'), 'AI yordamchi'), live);
+    const liveWrap = h('div', { class: 'msg ai' }, h('div', { class: 'row xs muted', style: { gap: '6px', marginBottom: '4px' } }, icon('sparkles', 'sm'), 'AI yordamçi'), live);
     log.appendChild(liveWrap); log.scrollTop = log.scrollHeight;
     busy = new AbortController();
-    mount(sendBtn, icon('stop')); sendBtn.type = 'button'; sendBtn.setAttribute('aria-label', 'To’xtatish');
+    mount(sendBtn, icon('stop')); sendBtn.type = 'button'; sendBtn.setAttribute('aria-label', 'Töxtatiş');
     const stop = () => busy?.abort();
     sendBtn.addEventListener('click', stop, { once: true });
     let sources = []; let textAcc = ''; const cits = [];
@@ -173,11 +173,11 @@ export function createChat({ lessonId = null, topicId = null, threadId = null, o
         },
       });
     } catch (e) {
-      if (e.name === 'AbortError') liveWrap.replaceWith(renderMsg({ role: 'assistant', content: `${textAcc}\n\n(To’xtatildi)`, citations: cits, status: 'stopped', context: { sources } }));
+      if (e.name === 'AbortError') liveWrap.replaceWith(renderMsg({ role: 'assistant', content: `${textAcc}\n\n(Töxtatildi)`, citations: cits, status: 'stopped', context: { sources } }));
       else liveWrap.replaceWith(h('div', { class: 'banner danger' }, e.message));
     } finally {
       sendBtn.removeEventListener('click', stop);
-      busy = null; mount(sendBtn, icon('send')); sendBtn.type = 'submit'; sendBtn.setAttribute('aria-label', 'Yuborish');
+      busy = null; mount(sendBtn, icon('send')); sendBtn.type = 'submit'; sendBtn.setAttribute('aria-label', 'Yuboriş');
       log.scrollTop = log.scrollHeight;
     }
   }

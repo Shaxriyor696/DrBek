@@ -1,0 +1,1145 @@
+{
+ "origin": "Claude (DrStudy sessiyasi) — kitobning özbekça izohlari (Guyton & Hall, 14-naşr) asosida, 2026-11-17. Ekspert tekşiruvi kerak.",
+ "questions": [
+  {
+   "id": "q02-c04-01",
+   "version": 1,
+   "topicId": "02",
+   "lessonId": "ch04",
+   "stem": "Hujayradan taşqari suyuqlikda (ECF) Na⁺ konsentratsiyasi taxminan qança?",
+   "options": [
+    {
+     "id": "q02-c04-01-a",
+     "text": "142 mEq/L"
+    },
+    {
+     "id": "q02-c04-01-b",
+     "text": "140 mEq/L"
+    },
+    {
+     "id": "q02-c04-01-c",
+     "text": "4 mEq/L"
+    },
+    {
+     "id": "q02-c04-01-d",
+     "text": "10 mEq/L"
+    }
+   ],
+   "answerOptionId": "q02-c04-01-a",
+   "explanation": "Fig. 4-1: Na⁺ ECF da 142, ICF da 10 mEq/L; K⁺ esa ECF da 4, ICF da 140 mEq/L.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch04",
+    "topicId": "02",
+    "blockId": "ch04-u3",
+    "printedPage": 46,
+    "pdfPage": 51,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q02-c04-02",
+   "version": 1,
+   "topicId": "02",
+   "lessonId": "ch04",
+   "stem": "Nima uçun K⁺ kanali K⁺ ni Na⁺ dan ~1000 marta oson ötkazadi?",
+   "options": [
+    {
+     "id": "q02-c04-02-a",
+     "text": "Kanal teşigi kuçli manfiy zaryadli aminokislotalar bilan qoplangan"
+    },
+    {
+     "id": "q02-c04-02-b",
+     "text": "Na⁺ ioni K⁺ dan kattaroq bölgani uçun teşikka siğmaydi"
+    },
+    {
+     "id": "q02-c04-02-c",
+     "text": "Kanal faqat ATP bor paytda oçiladi"
+    },
+    {
+     "id": "q02-c04-02-d",
+     "text": "Selektiv filtr karbonil kislorodlari bilan qoplangan, K⁺ gidrat qobiğini taşlab ular bilan ta’sirlaşadi"
+    }
+   ],
+   "answerOptionId": "q02-c04-02-d",
+   "explanation": "K⁺ kanali filtridagi karbonil kislorodlar K⁺ bilan yaqin ta’sirlaşadi; Na⁺ juda kiçik bölgani uçun ular bilan yaqin ta’sirlaşa olmaydi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch04",
+    "topicId": "02",
+    "blockId": "ch04-u6",
+    "printedPage": 46,
+    "pdfPage": 51,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q02-c04-03",
+   "version": 1,
+   "topicId": "02",
+   "lessonId": "ch04",
+   "stem": "Yengillaştirilgan (taşuvçi vositasidagi) diffuziyaning asosiy xususiyati qaysi?",
+   "options": [
+    {
+     "id": "q02-c04-03-a",
+     "text": "Töğridan-töğri ATP energiyasini sarflaydi"
+    },
+    {
+     "id": "q02-c04-03-b",
+     "text": "Tezligi konsentratsiyaga çeksiz proporsional oşadi"
+    },
+    {
+     "id": "q02-c04-03-c",
+     "text": "Konsentratsiya oşgani sari tezlik maksimal qiymatga (Vmax) yetib töxtaydi"
+    },
+    {
+     "id": "q02-c04-03-d",
+     "text": "Moddani konsentratsiya gradientiga qarşi taşiydi"
+    }
+   ],
+   "answerOptionId": "q02-c04-03-c",
+   "explanation": "Taşuvçining konformatsiya özgariş tezligi çeklagani uçun yengillaştirilgan diffuziya Vmax ga yetadi; glyukoza va köp aminokislotalar şu yöl bilan ötadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch04",
+    "topicId": "02",
+    "blockId": "ch04-u6",
+    "printedPage": 46,
+    "pdfPage": 51,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q02-c04-04",
+   "version": 1,
+   "topicId": "02",
+   "lessonId": "ch04",
+   "stem": "58,5 g NaCl eritmada neça osmolga teng?",
+   "options": [
+    {
+     "id": "q02-c04-04-a",
+     "text": "2 osm"
+    },
+    {
+     "id": "q02-c04-04-b",
+     "text": "1 osm"
+    },
+    {
+     "id": "q02-c04-04-c",
+     "text": "0,5 osm"
+    },
+    {
+     "id": "q02-c04-04-d",
+     "text": "58,5 osm"
+    }
+   ],
+   "answerOptionId": "q02-c04-04-a",
+   "explanation": "Osmotik bosim zarraçalar soniga boğliq: NaCl Na⁺ va Cl⁻ ga dissotsiatsiyalanadi, şuning uçun 1 mol = 2 osm (180 g glyukoza = 1 osm).",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch04",
+    "topicId": "02",
+    "blockId": "ch04-u17",
+    "printedPage": 46,
+    "pdfPage": 51,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q02-c04-05",
+   "version": 1,
+   "topicId": "02",
+   "lessonId": "ch04",
+   "stem": "Na⁺-K⁺ nasosi bitta siklda neçta ionni taşiydi?",
+   "options": [
+    {
+     "id": "q02-c04-05-a",
+     "text": "1 Na⁺ taşqariga, 1 K⁺ içkariga"
+    },
+    {
+     "id": "q02-c04-05-b",
+     "text": "2 Na⁺ taşqariga, 3 K⁺ içkariga"
+    },
+    {
+     "id": "q02-c04-05-c",
+     "text": "3 Na⁺ taşqariga, 2 K⁺ içkariga, 1 ATP sarflab"
+    },
+    {
+     "id": "q02-c04-05-d",
+     "text": "3 K⁺ taşqariga, 2 Na⁺ içkariga"
+    }
+   ],
+   "answerOptionId": "q02-c04-05-c",
+   "explanation": "Nasos har siklda 3 Na⁺ ni çiqarib, 2 K⁺ ni kiritadi va 1 ATP sarflaydi; şuning uçun u elektrogen.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch04",
+    "topicId": "02",
+    "blockId": "ch04-u21",
+    "printedPage": 46,
+    "pdfPage": 51,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q02-c04-06",
+   "version": 1,
+   "topicId": "02",
+   "lessonId": "ch04",
+   "stem": "Na⁺–glyukoza ko-transporti qaysi transport turiga kiradi?",
+   "options": [
+    {
+     "id": "q02-c04-06-a",
+     "text": "Oddiy diffuziya"
+    },
+    {
+     "id": "q02-c04-06-b",
+     "text": "Ikkilamçi faol transport"
+    },
+    {
+     "id": "q02-c04-06-c",
+     "text": "Pinotsitoz"
+    },
+    {
+     "id": "q02-c04-06-d",
+     "text": "Birlamçi faol transport"
+    }
+   ],
+   "answerOptionId": "q02-c04-06-b",
+   "explanation": "Ko-transport energiyani bevosita ATP dan emas, Na⁺ gradientida saqlangan energiyadan oladi — bu ikkilamçi faol transport.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch04",
+    "topicId": "02",
+    "blockId": "ch04-u21",
+    "printedPage": 46,
+    "pdfPage": 51,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q02-c05-01",
+   "version": 1,
+   "topicId": "02",
+   "lessonId": "ch05",
+   "stem": "Nernst tenglamasiga köra (37°C), içkarida K⁺ konsentratsiyasi taşqaridagidan 10 baravar köp bölsa, K⁺ ning muvozanat potensiali qança?",
+   "options": [
+    {
+     "id": "q02-c05-01-a",
+     "text": "+61 mV"
+    },
+    {
+     "id": "q02-c05-01-b",
+     "text": "−94 mV"
+    },
+    {
+     "id": "q02-c05-01-c",
+     "text": "−61 mV"
+    },
+    {
+     "id": "q02-c05-01-d",
+     "text": "−10 mV"
+    }
+   ],
+   "answerOptionId": "q02-c05-01-c",
+   "explanation": "EMF = ±61 × log(C_içki/C_taşqi); log10 = 1, musbat ion uçun belgi manfiy → −61 mV.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch05",
+    "topicId": "02",
+    "blockId": "ch05-u3",
+    "printedPage": 58,
+    "pdfPage": 63,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q02-c05-02",
+   "version": 1,
+   "topicId": "02",
+   "lessonId": "ch05",
+   "stem": "Yirik nerv tolasida faqat K⁺ diffuziyasi hosil qiladigan potensial qança?",
+   "options": [
+    {
+     "id": "q02-c05-02-a",
+     "text": "−86 mV"
+    },
+    {
+     "id": "q02-c05-02-b",
+     "text": "+61 mV"
+    },
+    {
+     "id": "q02-c05-02-c",
+     "text": "−70 mV"
+    },
+    {
+     "id": "q02-c05-02-d",
+     "text": "−94 mV"
+    }
+   ],
+   "answerOptionId": "q02-c05-02-d",
+   "explanation": "K⁺ nisbati 35, log35 = 1,54 × (−61) = −94 mV. Na⁺ qöşilsa −86 mV, nasos hissasi bilan ≈ −90 mV.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch05",
+    "topicId": "02",
+    "blockId": "ch05-u9",
+    "printedPage": 58,
+    "pdfPage": 63,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q02-c05-03",
+   "version": 1,
+   "topicId": "02",
+   "lessonId": "ch05",
+   "stem": "Aksion potensialning depolyarizatsiya bosqiçi nima sababdan yuz beradi?",
+   "options": [
+    {
+     "id": "q02-c05-03-a",
+     "text": "K⁺ kanallari köproq oçiladi"
+    },
+    {
+     "id": "q02-c05-03-b",
+     "text": "Na⁺-K⁺ nasosi tezlaşadi"
+    },
+    {
+     "id": "q02-c05-03-c",
+     "text": "Membrananing Na⁺ ga ötkazuvçanligi keskin oşadi"
+    },
+    {
+     "id": "q02-c05-03-d",
+     "text": "Cl⁻ ionlari hujayraga kiradi"
+    }
+   ],
+   "answerOptionId": "q02-c05-03-c",
+   "explanation": "Kuçlanişga boğliq Na⁺ kanallari oçilib, Na⁺ ötkazuvçanligi 500–5000 marta oşadi va Na⁺ hujayraga kiradi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch05",
+    "topicId": "02",
+    "blockId": "ch05-u13",
+    "printedPage": 58,
+    "pdfPage": 63,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q02-c05-04",
+   "version": 1,
+   "topicId": "02",
+   "lessonId": "ch05",
+   "stem": "Tetrodotoksin qaysi kanalni tösadi?",
+   "options": [
+    {
+     "id": "q02-c05-04-a",
+     "text": "Atsetilxolin reseptorini"
+    },
+    {
+     "id": "q02-c05-04-b",
+     "text": "K⁺ kanalini içki tomondan"
+    },
+    {
+     "id": "q02-c05-04-c",
+     "text": "Kuçlanişga boğliq Na⁺ kanalini taşqi tomondan"
+    },
+    {
+     "id": "q02-c05-04-d",
+     "text": "Ca²⁺ kanallarini"
+    }
+   ],
+   "answerOptionId": "q02-c05-04-c",
+   "explanation": "Voltaj-qisqiç tajribalarida tetrodotoksin Na⁺ kanallarini taşqaridan, tetraetilammoniy esa K⁺ kanallarini içkaridan tösgan.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch05",
+    "topicId": "02",
+    "blockId": "ch05-u13",
+    "printedPage": 58,
+    "pdfPage": 63,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q02-c05-05",
+   "version": 1,
+   "topicId": "02",
+   "lessonId": "ch05",
+   "stem": "Miyelinli tolada aksion potensial qayerda hosil böladi?",
+   "options": [
+    {
+     "id": "q02-c05-05-a",
+     "text": "Butun tola böylab uzluksiz"
+    },
+    {
+     "id": "q02-c05-05-b",
+     "text": "Faqat Ranvye böğinlarida (saltator ötkaziş)"
+    },
+    {
+     "id": "q02-c05-05-c",
+     "text": "Faqat Şvann hujayralari içida"
+    },
+    {
+     "id": "q02-c05-05-d",
+     "text": "Faqat akson tepaçasida"
+    }
+   ],
+   "answerOptionId": "q02-c05-05-b",
+   "explanation": "Miyelin ion oqimini ~5000 marta kamaytiradi, şuning uçun AP faqat böğinlarda hosil bölib, \"sakrab\" tarqaladi — bu tezlikni 5–50 baravar oşiradi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch05",
+    "topicId": "02",
+    "blockId": "ch05-u28",
+    "printedPage": 58,
+    "pdfPage": 63,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q02-c05-06",
+   "version": 1,
+   "topicId": "02",
+   "lessonId": "ch05",
+   "stem": "Mahalliy anestetiklar (prokain, tetrakain) qanday ta’sir qiladi?",
+   "options": [
+    {
+     "id": "q02-c05-06-a",
+     "text": "Na⁺ kanallarining aktivatsiya darvozalarini qiyin oçiladigan qiladi"
+    },
+    {
+     "id": "q02-c05-06-b",
+     "text": "Na⁺-K⁺ nasosini töxtatadi"
+    },
+    {
+     "id": "q02-c05-06-c",
+     "text": "K⁺ kanallarini doimiy oçiq tutadi"
+    },
+    {
+     "id": "q02-c05-06-d",
+     "text": "Hujayradan taşqari Ca²⁺ ni kamaytiradi"
+    }
+   ],
+   "answerOptionId": "q02-c05-06-a",
+   "explanation": "Ular Na⁺ aktivatsiya darvozalari oçilişini qiyinlaştiradi; xavfsizlik omili 1 dan kam bölsa impuls ötmaydi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch05",
+    "topicId": "02",
+    "blockId": "ch05-u33",
+    "printedPage": 58,
+    "pdfPage": 63,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q02-c06-01",
+   "version": 1,
+   "topicId": "02",
+   "lessonId": "ch06",
+   "stem": "Sarkomer nima?",
+   "options": [
+    {
+     "id": "q02-c06-01-a",
+     "text": "I disk va H zona birligi"
+    },
+    {
+     "id": "q02-c06-01-b",
+     "text": "Ikki qöşni Z disk orasidagi qism"
+    },
+    {
+     "id": "q02-c06-01-c",
+     "text": "Ikki A disk orasidagi qism"
+    },
+    {
+     "id": "q02-c06-01-d",
+     "text": "Bitta miozin ipi"
+    }
+   ],
+   "answerOptionId": "q02-c06-01-b",
+   "explanation": "Sarkomer — ikki Z disk orasi; qisqargan holatda ~2 µm uzunlikda maksimal kuç beradi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch06",
+    "topicId": "02",
+    "blockId": "ch06-u3",
+    "printedPage": 73,
+    "pdfPage": 78,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q02-c06-02",
+   "version": 1,
+   "topicId": "02",
+   "lessonId": "ch06",
+   "stem": "Tinç holatda aktindagi faol joylarni qaysi oqsil yopib turadi?",
+   "options": [
+    {
+     "id": "q02-c06-02-a",
+     "text": "Troponin C"
+    },
+    {
+     "id": "q02-c06-02-b",
+     "text": "Miozin"
+    },
+    {
+     "id": "q02-c06-02-c",
+     "text": "Titin"
+    },
+    {
+     "id": "q02-c06-02-d",
+     "text": "Tropomiozin"
+    }
+   ],
+   "answerOptionId": "q02-c06-02-d",
+   "explanation": "Tropomiozin tinçlikda faol joylarni yopadi; Ca²⁺ troponin C ga boğlangaç tropomiozin siljiydi va faol joylar oçiladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch06",
+    "topicId": "02",
+    "blockId": "ch06-u11",
+    "printedPage": 73,
+    "pdfPage": 78,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q02-c06-03",
+   "version": 1,
+   "topicId": "02",
+   "lessonId": "ch06",
+   "stem": "Miozin boşining aktindan ajralişi uçun nima kerak?",
+   "options": [
+    {
+     "id": "q02-c06-03-a",
+     "text": "Yangi ATP molekulasining boğlanişi"
+    },
+    {
+     "id": "q02-c06-03-b",
+     "text": "Atsetilxolin"
+    },
+    {
+     "id": "q02-c06-03-c",
+     "text": "Ca²⁺ ning troponin C ga boğlanişi"
+    },
+    {
+     "id": "q02-c06-03-d",
+     "text": "ADP ning boğlanişi"
+    }
+   ],
+   "answerOptionId": "q02-c06-03-a",
+   "explanation": "ADP va Pi ajralgaç yangi ATP boğlanadi va boş aktindan ajraladi; ATP yöqligida köprikçalar ajralmaydi (rigor mortis).",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch06",
+    "topicId": "02",
+    "blockId": "ch06-u11",
+    "printedPage": 73,
+    "pdfPage": 78,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q02-c06-04",
+   "version": 1,
+   "topicId": "02",
+   "lessonId": "ch06",
+   "stem": "Muskuldagi ATP va fosfokreatin birgalikda neça soniya maksimal qisqarişni ta’minlaydi?",
+   "options": [
+    {
+     "id": "q02-c06-04-a",
+     "text": "1–2 s"
+    },
+    {
+     "id": "q02-c06-04-b",
+     "text": "~1 daqiqa"
+    },
+    {
+     "id": "q02-c06-04-c",
+     "text": "5–8 s"
+    },
+    {
+     "id": "q02-c06-04-d",
+     "text": "2–4 soat"
+    }
+   ],
+   "answerOptionId": "q02-c06-04-c",
+   "explanation": "Faqat ATP 1–2 s ga yetadi; fosfokreatin bilan birga 5–8 s; glikoliz ~1 daqiqagaça, oksidativ metabolizm esa soatlab.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch06",
+    "topicId": "02",
+    "blockId": "ch06-u22",
+    "printedPage": 73,
+    "pdfPage": 78,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q02-c06-05",
+   "version": 1,
+   "topicId": "02",
+   "lessonId": "ch06",
+   "stem": "Sekin (I tip, qizil) muskul tolalari uçun nima xos?",
+   "options": [
+    {
+     "id": "q02-c06-05-a",
+     "text": "Köp mitoxondriya, köp kapillyar va köp mioglobin"
+    },
+    {
+     "id": "q02-c06-05-b",
+     "text": "Mitoxondriyaning yöqligi"
+    },
+    {
+     "id": "q02-c06-05-c",
+     "text": "Yirik tolalar va kuçli rivojlangan SR"
+    },
+    {
+     "id": "q02-c06-05-d",
+     "text": "Köp glikolitik ferment va kam qon ta’minoti"
+    }
+   ],
+   "answerOptionId": "q02-c06-05-a",
+   "explanation": "Sekin tolalar kiçik, köp kapillyar, mitoxondriya va mioglobinga ega; tez tolalar katta, SR va glikolitik fermentlarga boy.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch06",
+    "topicId": "02",
+    "blockId": "ch06-u24",
+    "printedPage": 73,
+    "pdfPage": 78,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q02-c06-06",
+   "version": 1,
+   "topicId": "02",
+   "lessonId": "ch06",
+   "stem": "Rigor mortis (ölim qotişi) sababi nima?",
+   "options": [
+    {
+     "id": "q02-c06-06-a",
+     "text": "Muskul oqsillarining darhol parçalanişi"
+    },
+    {
+     "id": "q02-c06-06-b",
+     "text": "ATP tugaşi tufayli köprikçalar aktindan ajrala olmaydi"
+    },
+    {
+     "id": "q02-c06-06-c",
+     "text": "Atsetilxolinning töplanişi"
+    },
+    {
+     "id": "q02-c06-06-d",
+     "text": "Ca²⁺ ning SR ga qaytarilişi"
+    }
+   ],
+   "answerOptionId": "q02-c06-06-b",
+   "explanation": "Ölimdan bir neça soat keyin ATP tugaydi va köprikçalar ajralmaydi; 15–25 soatda lizosoma fermentlari ta’sirida ötadi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch06",
+    "topicId": "02",
+    "blockId": "ch06-u31",
+    "printedPage": 73,
+    "pdfPage": 78,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q02-c07-01",
+   "version": 1,
+   "topicId": "02",
+   "lessonId": "ch07",
+   "stem": "Nerv-muskul birikmasida sinaptik yoriqda atsetilxolinni qaysi ferment parçalaydi?",
+   "options": [
+    {
+     "id": "q02-c07-01-a",
+     "text": "Xolinatsetiltransferaza"
+    },
+    {
+     "id": "q02-c07-01-b",
+     "text": "Monoaminoksidaza"
+    },
+    {
+     "id": "q02-c07-01-c",
+     "text": "Atsetilxolinesteraza"
+    },
+    {
+     "id": "q02-c07-01-d",
+     "text": "Katalaza"
+    }
+   ],
+   "answerOptionId": "q02-c07-01-c",
+   "explanation": "Yoriqdagi atsetilxolinesteraza ACh ni bir neça millisekundda atsetat va xolinga parçalaydi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch07",
+    "topicId": "02",
+    "blockId": "ch07-u3",
+    "printedPage": 87,
+    "pdfPage": 92,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q02-c07-02",
+   "version": 1,
+   "topicId": "02",
+   "lessonId": "ch07",
+   "stem": "Nerv uçidan atsetilxolin pufakçalarining çiqişini bevosita qaysi ion qözğatadi?",
+   "options": [
+    {
+     "id": "q02-c07-02-a",
+     "text": "K⁺ ning çiqişi"
+    },
+    {
+     "id": "q02-c07-02-b",
+     "text": "Ca²⁺ ning terminalga kirişi"
+    },
+    {
+     "id": "q02-c07-02-c",
+     "text": "Mg²⁺ ning kirişi"
+    },
+    {
+     "id": "q02-c07-02-d",
+     "text": "Cl⁻ ning kirişi"
+    }
+   ],
+   "answerOptionId": "q02-c07-02-b",
+   "explanation": "AP kuçlanişga boğliq Ca²⁺ kanallarini oçadi; Ca²⁺ ~100 baravar oşib, pufakçalarning ekzotsitozini qözğatadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch07",
+    "topicId": "02",
+    "blockId": "ch07-u6",
+    "printedPage": 87,
+    "pdfPage": 92,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q02-c07-03",
+   "version": 1,
+   "topicId": "02",
+   "lessonId": "ch07",
+   "stem": "Oxirgi plastinka potensialining xavfsizlik omili taxminan qança?",
+   "options": [
+    {
+     "id": "q02-c07-03-a",
+     "text": "Kerakligiga teng"
+    },
+    {
+     "id": "q02-c07-03-b",
+     "text": "Kerakligidan 10 baravar kiçik"
+    },
+    {
+     "id": "q02-c07-03-c",
+     "text": "Kerakligidan 100 baravar katta"
+    },
+    {
+     "id": "q02-c07-03-d",
+     "text": "AP uçun kerakligidan ~3 baravar katta"
+    }
+   ],
+   "answerOptionId": "q02-c07-03-d",
+   "explanation": "EPP kerakligidan ~3 baravar katta, şuning uçun uzatiş işonçli; faqat juda yuqori çastotada uzoq qözğatilsa çarçoq paydo böladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch07",
+    "topicId": "02",
+    "blockId": "ch07-u9",
+    "printedPage": 87,
+    "pdfPage": 92,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q02-c07-04",
+   "version": 1,
+   "topicId": "02",
+   "lessonId": "ch07",
+   "stem": "Miasteniya gravisning sababi nima?",
+   "options": [
+    {
+     "id": "q02-c07-04-a",
+     "text": "Atsetilxolinesterazaning ortiqça faolligi"
+    },
+    {
+     "id": "q02-c07-04-b",
+     "text": "Ca²⁺ kanallarining mutatsiyasi"
+    },
+    {
+     "id": "q02-c07-04-c",
+     "text": "Botulin toksini"
+    },
+    {
+     "id": "q02-c07-04-d",
+     "text": "Atsetilxolin reseptorlariga qarşi autoantitelolar"
+    }
+   ],
+   "answerOptionId": "q02-c07-04-d",
+   "explanation": "Autoantitelolar ACh reseptorlarini kamaytiradi, EPP Na⁺ kanallarini oçişga yetmaydi; neostigmin holatni bir neça soatga yaxşilaydi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch07",
+    "topicId": "02",
+    "blockId": "ch07-u15",
+    "printedPage": 87,
+    "pdfPage": 92,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q02-c07-05",
+   "version": 1,
+   "topicId": "02",
+   "lessonId": "ch07",
+   "stem": "Skelet muskulida T-nayçadagi aksion potensial qaysi reseptorlar orqali SR dan Ca²⁺ çiqaradi?",
+   "options": [
+    {
+     "id": "q02-c07-05-a",
+     "text": "Dihidropiridin reseptorlari → rianodin reseptorlari"
+    },
+    {
+     "id": "q02-c07-05-b",
+     "text": "Atsetilxolin reseptorlari → SERCA"
+    },
+    {
+     "id": "q02-c07-05-c",
+     "text": "Kalmodulin → MLCK"
+    },
+    {
+     "id": "q02-c07-05-d",
+     "text": "β-adrenoreseptorlar → cAMP"
+    }
+   ],
+   "answerOptionId": "q02-c07-05-a",
+   "explanation": "DHP reseptorlari kuçlaniş sensori bölib, SR dagi rianodin reseptorlarini (Ca²⁺ çiqariş kanallarini) oçadi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch07",
+    "topicId": "02",
+    "blockId": "ch07-u19",
+    "printedPage": 87,
+    "pdfPage": 92,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q02-c07-06",
+   "version": 1,
+   "topicId": "02",
+   "lessonId": "ch07",
+   "stem": "Xavfli gipertermiyani davolaşda qaysi dori işlatiladi?",
+   "options": [
+    {
+     "id": "q02-c07-06-a",
+     "text": "Dantrolen (rianodin reseptori antagonisti)"
+    },
+    {
+     "id": "q02-c07-06-b",
+     "text": "Galotan"
+    },
+    {
+     "id": "q02-c07-06-c",
+     "text": "Neostigmin"
+    },
+    {
+     "id": "q02-c07-06-d",
+     "text": "Suksinilxolin"
+    }
+   ],
+   "answerOptionId": "q02-c07-06-a",
+   "explanation": "Xavfli gipertermiyada SR dan nazoratsiz Ca²⁺ çiqadi; davo — tez sovutiş va dantrolen. Galotan va suksinilxolin esa uni qözğatadi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch07",
+    "topicId": "02",
+    "blockId": "ch07-u24",
+    "printedPage": 87,
+    "pdfPage": 92,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q02-c08-01",
+   "version": 1,
+   "topicId": "02",
+   "lessonId": "ch08",
+   "stem": "Silliq muskulda Ca²⁺ qaysi oqsilga boğlanib qisqarişni boşlaydi?",
+   "options": [
+    {
+     "id": "q02-c08-01-a",
+     "text": "Kalmodulin"
+    },
+    {
+     "id": "q02-c08-01-b",
+     "text": "Kalsekvestrin"
+    },
+    {
+     "id": "q02-c08-01-c",
+     "text": "Tropomiozin"
+    },
+    {
+     "id": "q02-c08-01-d",
+     "text": "Troponin C"
+    }
+   ],
+   "answerOptionId": "q02-c08-01-a",
+   "explanation": "Silliq muskulda troponin yöq: Ca²⁺ kalmodulinga boğlanib, miozin yengil zanjir kinazasini (MLCK) faollaştiradi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch08",
+    "topicId": "02",
+    "blockId": "ch08-u1",
+    "printedPage": 95,
+    "pdfPage": 100,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q02-c08-02",
+   "version": 1,
+   "topicId": "02",
+   "lessonId": "ch08",
+   "stem": "Qaysi a’zolarning silliq muskuli unitar (visseral) turga kiradi?",
+   "options": [
+    {
+     "id": "q02-c08-02-a",
+     "text": "Közning siliar muskuli va rangdor parda"
+    },
+    {
+     "id": "q02-c08-02-b",
+     "text": "Soç kötaruvçi muskullar"
+    },
+    {
+     "id": "q02-c08-02-c",
+     "text": "Içak, siydik yöllari va baçadon"
+    },
+    {
+     "id": "q02-c08-02-d",
+     "text": "Skelet muskullari"
+    }
+   ],
+   "answerOptionId": "q02-c08-02-c",
+   "explanation": "Unitar silliq muskulda tolalar tirqişli birikmalar bilan boğlanib bir birlik bölib qisqaradi; siliar muskul, rangdor parda va piloerektorlar — köp birlikli.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch08",
+    "topicId": "02",
+    "blockId": "ch08-u3",
+    "printedPage": 95,
+    "pdfPage": 100,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q02-c08-03",
+   "version": 1,
+   "topicId": "02",
+   "lessonId": "ch08",
+   "stem": "\"Latç\" mexanizmining ahamiyati nimada?",
+   "options": [
+    {
+     "id": "q02-c08-03-a",
+     "text": "Muskulni çarçoqdan butunlay himoya qiliş"
+    },
+    {
+     "id": "q02-c08-03-b",
+     "text": "Juda kam energiya sarflab uzoq vaqt kuçni saqlaş"
+    },
+    {
+     "id": "q02-c08-03-c",
+     "text": "Ca²⁺ siz qisqariş"
+    },
+    {
+     "id": "q02-c08-03-d",
+     "text": "Skelet muskulidan tezroq qisqariş"
+    }
+   ],
+   "answerOptionId": "q02-c08-03-b",
+   "explanation": "Latç holatida qözğaliş kamaysa ham kuç saqlanadi, energiya sarfi 1/300 gaça kamayadi — soatlab tonus uçun muhim.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch08",
+    "topicId": "02",
+    "blockId": "ch08-u9",
+    "printedPage": 95,
+    "pdfPage": 100,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q02-c08-04",
+   "version": 1,
+   "topicId": "02",
+   "lessonId": "ch08",
+   "stem": "Qovuq tez töldirilganda bosim avval keskin oşib, 15–60 s içida deyarli dastlabki darajaga qaytadi. Bu hodisa nima deyiladi?",
+   "options": [
+    {
+     "id": "q02-c08-04-a",
+     "text": "Zinapoya effekti"
+    },
+    {
+     "id": "q02-c08-04-b",
+     "text": "Tetanizatsiya"
+    },
+    {
+     "id": "q02-c08-04-c",
+     "text": "Stress-relaksatsiya"
+    },
+    {
+     "id": "q02-c08-04-d",
+     "text": "Latç mexanizmi"
+    }
+   ],
+   "answerOptionId": "q02-c08-04-c",
+   "explanation": "Stress-relaksatsiya kovak a’zoga hajm özgarsa ham bosimni saqlaş imkonini beradi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch08",
+    "topicId": "02",
+    "blockId": "ch08-u9",
+    "printedPage": 95,
+    "pdfPage": 100,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q02-c08-05",
+   "version": 1,
+   "topicId": "02",
+   "lessonId": "ch08",
+   "stem": "Silliq muskulda qisqariş uçun Ca²⁺ asosan qayerdan keladi?",
+   "options": [
+    {
+     "id": "q02-c08-05-a",
+     "text": "Hujayradan taşqari suyuqlikdan"
+    },
+    {
+     "id": "q02-c08-05-b",
+     "text": "Yadrodan"
+    },
+    {
+     "id": "q02-c08-05-c",
+     "text": "Faqat kuçli rivojlangan SR dan"
+    },
+    {
+     "id": "q02-c08-05-d",
+     "text": "Mitoxondriyadan"
+    }
+   ],
+   "answerOptionId": "q02-c08-05-a",
+   "explanation": "Silliq muskulda SR kam rivojlangan, Ca²⁺ asosan ECF dan kiradi; şuning uçun qisqariş kuçi taşqi Ca²⁺ ga kuçli boğliq.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch08",
+    "topicId": "02",
+    "blockId": "ch08-u11",
+    "printedPage": 95,
+    "pdfPage": 100,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q02-c08-06",
+   "version": 1,
+   "topicId": "02",
+   "lessonId": "ch08",
+   "stem": "Silliq muskulning tinçlik membrana potensiali qança?",
+   "options": [
+    {
+     "id": "q02-c08-06-a",
+     "text": "−80...−90 mV"
+    },
+    {
+     "id": "q02-c08-06-b",
+     "text": "−50...−60 mV"
+    },
+    {
+     "id": "q02-c08-06-c",
+     "text": "+30 mV"
+    },
+    {
+     "id": "q02-c08-06-d",
+     "text": "−94 mV"
+    }
+   ],
+   "answerOptionId": "q02-c08-06-b",
+   "explanation": "Silliq muskulda tinçlik potensiali −50...−60 mV, ya’ni skelet muskulinikidan ~30 mV kam manfiy.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch08",
+    "topicId": "02",
+    "blockId": "ch08-u19",
+    "printedPage": 95,
+    "pdfPage": 100,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  }
+ ]
+}

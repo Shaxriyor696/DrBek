@@ -1,0 +1,170 @@
+{
+ "lessonId": "ch07",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 7,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "machine",
+ "translator": "Gemini API",
+ "model": "gemini-3.5-flash-lite",
+ "createdAt": "2026-11-18T10:39:07.964Z",
+ "updatedAt": "2026-11-18T10:57:19.901Z",
+ "coverage": {
+  "translated": 51,
+  "total": 51
+ },
+ "note": "Kitob matnining töliq özbekça tarjimasi (qisqartirilmagan). Ekspert tekşiruvidan ötmagan.",
+ "blocks": {
+  "ch07-f0": {
+   "text": "Nerv-muskul sinapsi va impulslarning nerv uçlaridan skelet muskul tolalariga uzatilişi"
+  },
+  "ch07-f1": {
+   "text": "Skelet muskul tolalarini orqa miya oldingi şoxlaridagi yirik motoneyronlardan boşlanadigan yirik miyelinli nerv tolalari innervatsiya qiladi. 6-bobda muhokama qilinganidek, har bir nerv tolasi muskul qorinçasiga kirgaç, odatda tarmoqlanib, uçtadan bir neça yuztagaça skelet muskul tolasini qözğatadi. Har bir nerv uçi muskul tolasi bilan uning örta qismi yaqinida _nerv-muskul sinapsi_ (nerv-muskul birikmasi) deb ataladigan birikma hosil qiladi. Nerv signali muskul tolasida yuzaga keltirgan harakat potensiali muskul tolasining har ikki uçi tomon tarqaladi. Muskul tolalarining taxminan 2% idan taşqari, har bir muskul tolasida faqat bittadan şunday sinaps böladi."
+  },
+  "ch07-f2": {
+   "text": "Nerv-muskul sinapsining fiziologik anatomiyasi — harakat oxirgi plastinkasi"
+  },
+  "ch07-f3": {
+   "text": "**Rasm 7-1A** va **B** da yirik miyelinli nerv tolasidan skelet muskul tolasiga ötuvçi nerv-muskul sinapsi körsatilgan. Nerv tolasi muskul tolasi yuzasiga botib kiradigan, biroq muskul tolasining plazmatik membranasidan taşqarida joylaşgan _tarmoqlanuvçi nerv terminallari_ majmuasini hosil qiladi. Bu butun tuzilma _harakat oxirgi plastinkasi_ (motor end plate) deb ataladi. Uni atrofdagi suyuqliklardan izolyatsiya qiluvçi bir yoki bir neçta Şvann hujayrasi qoplab turadi."
+  },
+  "ch07-f5": {
+   "text": "**Rasm 7-1C** da bitta akson terminali bilan muskul tolasi membranasi örtasidagi birikma körsatilgan. Botib kirgan membrana _sinaptik ariqça_ yoki _sinaptik novça_ deb ataladi, terminal bilan tola membranasi orasidagi böşliq esa _sinaptik böşliq_ yoki _sinaptik yoriq_ deb ataladi; uning kengligi 20–30 nanometr. Ariqça tubida muskul membranasining köplab mayda _burmalari_ bölib, ular _nerv osti yoriqlari_ deb ataladi; bu burmalar sinaptik mediator ta’sir qila oladigan yuza maydonini ança kengaytiradi."
+  },
+  "ch07-f6": {
+   "text": "Akson terminalida köplab mitoxondriyalar bölib, ular muskul tolasi membranasini qözğatuvçi mediator — _atsetilxolin_ sintezi uçun energiya manbai bölgan adenozintrifosfatni (ATF) yetkazib beradi. Atsetilxolin terminal sitoplazmasida sintezlanadi, biroq tezda köplab mayda _sinaptik pufakçalarga_ söriladi; me’yorda bitta oxirgi plastinka terminallarida bunday pufakçalar taxminan 300 000 ta böladi. Sinaptik böşliqda köp miqdorda _atsetilxolinesteraza_ fermenti bölib, u atsetilxolinni sinaptik pufakçalardan ajralib çiqqanidan bir neça millisekund ötgaç parçalaydi."
+  },
+  "ch07-f7": {
+   "text": "Nerv terminallari tomonidan atsetilxolin sekretsiyasi"
+  },
+  "ch07-f8": {
+   "text": "Nerv impulsi nerv-muskul sinapsiga yetib kelganda terminallardan sinaptik böşliqqa atsetilxolinli taxminan 125 ta pufakça çiqariladi. Bu mexanizmning ayrim tafsilotlarini **Rasm 7-2** da köriş mumkin: unda sinaptik böşliq kattalaştirilgan holda körsatilgan bölib, yuqorida nerv membranasi, pastda esa muskul membranasi va uning nerv osti yoriqlari joylaşgan."
+  },
+  "ch07-f10": {
+   "text": "Nerv membranasining içki yuzasida çiziqsimon _ziç tasmalar_ joylaşgan; ular **Rasm 7-2** da köndalang kesimda körsatilgan. Har bir ziç tasmaning ikki yonida nerv membranasini teşib ötuvçi oqsil zarraçalari bor; bular _potensialga boğliq kalsiy kanallari_. Harakat potensiali terminal böylab tarqalganda bu kanallar oçiladi va kalsiy ionlarining sinaptik böşliqdan nerv terminali içiga diffuziyalanişiga imkon beradi. Kalsiy ionlari öz navbatida _Ca2+-kalmodulinga boğliq proteinkinazani_ faollaştiradi, deb hisoblanadi; bu ferment esa atsetilxolin pufakçalarini presinaptik terminal sitoskeletiga boğlab turuvçi _sinapsin_ oqsillarini fosforlaydi. Bu jarayon atsetilxolin pufakçalarini sitoskeletdan böşatadi va ularning presinaptik nerv membranasining ziç tasmalarga qöşni _faol zonasiga_ harakatlanişiga imkon beradi. Söngra pufakçalar ajraliş joylariga birikadi, nerv membranasi bilan qöşiladi va _ekzotsitoz_ jarayoni orqali öz atsetilxolinini sinaptik böşliqqa böşatadi."
+  },
+  "ch07-f11": {
+   "text": "Yuqorida keltirilgan tafsilotlarning ayrimlari taxminiy bölsa-da, pufakçalardan atsetilxolin ajralişini yuzaga keltiruvçi samarali ta’sirot kalsiy ionlarining kirişi ekani va pufakçalardagi atsetilxolin keyin ziç tasmalarga qöşni nerv membranasi orqali böşatilişi ma’lum."
+  },
+  "ch07-f12": {
+   "text": "**Rasm 7-2** da, şuningdek, muskul tolasi membranasidagi köplab mayda _atsetilxolin retseptorlari_ va _potensialga boğliq natriy kanallari_ körsatilgan. _Atsetilxolinga boğliq ion kanallari_ deyarli butunlay atsetilxolin sinaptik böşliqqa böşatiladigan ziç tasma sohalarining bevosita ostida yotgan nerv osti yoriqlarining oğizlari yaqinida joylaşgan. Potensialga boğliq natriy kanallari ham nerv osti yoriqlarini qoplab turadi.",
+   "lead": "Atsetilxolin postsinaptik membranalardagi ion kanallarini oçadi."
+  },
+  "ch07-f13": {
+   "text": "Har bir atsetilxolin retseptori umumiy molekulyar massasi taxminan 275 000 bölgan oqsil kompleksidir. Homila atsetilxolin retseptori kompleksi beşta subbirlik oqsildan iborat: ikkita _alfa_ oqsil hamda bittadan _beta, delta_ va _gamma_ oqsillar. Kattalarda bu retseptor kompleksida gamma oqsil örnini _epsilon_ oqsil egallaydi. Bu oqsil molekulalari membranani butunlay teşib ötadi va doira böylab yonma-yon joylaşib, **Rasm 7-3** da tasvirlangan naysimon kanalni hosil qiladi. Rasmning A qismida körsatilganidek, ikkita atsetilxolin molekulasi mos ravişda ikkita _alfa_ subbirlik oqsiliga birikmagunça kanal toraygan holda qoladi. Bu birikiş kanalni oçuvçi konformatsion özgarişga sabab böladi; bu rasmning B qismida körsatilgan."
+  },
+  "ch07-f15": {
+   "text": "Atsetilxolinga boğliq kanalning diametri taxminan 0,65 nanometr bölib, bu muhim musbat ionlar — natriy (Na+), kaliy (K+) va kalsiy (Ca2+) ning teşik orqali oson ötişi uçun yetarli. Patch-klamp tadqiqotlari şuni körsatdiki, bunday kanallardan biri atsetilxolin ta’sirida oçilganda 1 millisekundda 15 000 dan 30 000 gaça natriy ionini ötkaza oladi. Aksinça, xlorid ionlari kabi manfiy ionlar kanal oğzidagi kuçli manfiy zaryadlar ularni itarişi sababli ötmaydi."
+  },
+  "ch07-f16": {
+   "text": "Amalda atsetilxolinga boğliq kanallar orqali ikki sababga köra natriy ionlari boşqa har qanday ionga qaraganda ança köp oqib ötadi. Birinçidan, yuqori konsentratsiyada mavjud bölgan musbat ionlar faqat ikkita: hujayradan taşqari suyuqlikdagi natriy ionlari va hujayra içi suyuqligidagi kaliy ionlari. Ikkinçidan, muskul membranasining içki tomonidagi −80 dan −90 millivoltgaça bölgan manfiy potensial musbat zaryadlangan natriy ionlarini tola içiga tortadi va bir vaqtning özida musbat zaryadlangan kaliy ionlari taşqariga ötişga uringanda ularning çiqişiga tösqinlik qiladi."
+  },
+  "ch07-f17": {
+   "text": "**Rasm 7-3B** da körsatilganidek, atsetilxolinga boğliq kanallar oçilişining asosiy ta’siri — natriy ionlarining özlari bilan musbat zaryadlarni olib, tola içiga oqib kirişiga imkon beriş. Bu muskul tolasi membranasi içida _oxirgi plastinka potensiali_ deb ataladigan mahalliy musbat potensial özgarişini hosil qiladi. Bu oxirgi plastinka potensiali me’yorda qöşni potensialga boğliq natriy kanallarini oçiş uçun yetarli depolyarizatsiyani yuzaga keltiradi; bu natriy ionlarining yanada köproq kirişiga imkon beradi va muskul membranasi böylab tarqalib, muskul qisqarişiga sabab böladigan harakat potensialini boşlab beradi."
+  },
+  "ch07-f18": {
+   "text": "Sinaptik böşliqqa çiqarilgan atsetilxolin böşliqda saqlanib turar ekan, atsetilxolin retseptorlarini faollaştirişda davom etadi. Biroq u _atsetilxolinesteraza_ fermenti tomonidan tez parçalanadi; bu ferment asosan presinaptik nerv terminali bilan postsinaptik muskul membranasi orasidagi sinaptik böşliqni töldirib turuvçi nozik biriktiruvçi töqimaning ğovak qatlamiga birikkan böladi. Atsetilxolinning oz qismi sinaptik böşliqdan taşqariga diffuziyalanib ketadi va keyin muskul tolasi membranasiga ta’sir qila olmaydi.",
+   "lead": "Ajralib çiqqan atsetilxolinning atsetilxolinesteraza tomonidan parçalanişi."
+  },
+  "ch07-f19": {
+   "text": "Atsetilxolinning sinaptik böşliqda qoladigan qisqa vaqti — köpi bilan bir neça millisekund — me’yorda muskul tolasini qözğatiş uçun yetarli. Söngra atsetilxolinning tez yöqotilişi muskul tolasi dastlabki harakat potensialidan tiklanganidan keyin muskulning qayta-qayta qözğalişining oldini oladi."
+  },
+  "ch07-f20": {
+   "text": "Atsetilxolinga boğliq kanallar oçilganda natriy ionlarining muskul tolasiga tösatdan yopirilib kirişi tola içidagi elektr potensialini _oxirgi plastinkaning mahalliy sohasida_ musbat tomonga 50–75 millivoltgaça oşiradi va _oxirgi plastinka potensiali_ deb ataladigan _mahalliy potensial_ hosil qiladi. 5-bobdan eslaylik: nerv membranasi potensialining 20–30 millivoltdan ortiq tösatdan oşişi odatda tobora köproq natriy kanallarining oçilişini boşlaş va şu tariqa muskul tolasi membranasida harakat potensialini yuzaga keltiriş uçun yetarli.",
+   "lead": "Oxirgi plastinka potensiali va skelet muskul tolasining qözğalişi."
+  },
+  "ch07-f21": {
+   "text": "**Rasm 7-4** da harakat potensialini boşlab beruvçi oxirgi plastinka potensiali tasvirlangan. Bu rasmda uçta alohida oxirgi plastinka potensiali körsatilgan. A va C oxirgi plastinka potensiallari harakat potensialini yuzaga keltiriş uçun juda kuçsiz, biroq rasmda qayd etilganidek, ular oxirgi plastinkada kuçsiz mahalliy kuçlaniş özgarişlarini hosil qiladi. Aksinça, B oxirgi plastinka potensiali ança kuçli bölib, yetarliça köp natriy kanallarining oçilişiga sabab böladi va tola içiga tobora köproq natriy ionlari oqib kirişining öz-özini kuçaytiruvçi ta’siri harakat potensialini boşlab beradi. A nuqtadagi oxirgi plastinka potensialining kuçsizligi muskul tolasining _kurare_ bilan zaharlanişi natijasidir; bu dori atsetilxolin retseptor joylari uçun raqobatlaşib, atsetilxolinning atsetilxolin kanallariga darvozalovçi ta’sirini tösib qöyadi. C nuqtadagi oxirgi plastinka potensialining kuçsizligi esa nerv terminallaridan ajraladigan atsetilxolin miqdorini kamaytiruvçi bakterial zahar — _botulinik toksin_ ta’siri natijasidir."
+  },
+  "ch07-f23": {
+   "text": "Odatda nerv-muskul sinapsiga yetib kelgan har bir impuls muskul tolasini qözğatiş uçun zarur bölganidan taxminan uç baravar katta oxirgi plastinka potensialini hosil qiladi. Şuning uçun me’yoriy nerv-muskul sinapsi yuqori _xavfsizlik omiliga_ ega deyiladi. Biroq nerv tolasining bir neça daqiqa davomida sekundiga 100 martadan köproq çastotada qözğatilişi atsetilxolin pufakçalari sonini şu qadar kamaytirişi mumkinki, impulslar muskul tolasiga ötmay qoladi. Bu holat nerv-muskul sinapsining _çarçaşi_ deb ataladi; xuddi şu hodisa markaziy nerv tizimida sinapslar haddan taşqari qözğatilganda ularning çarçaşiga sabab böladi. Me’yoriy faoliyat şaroitida nerv-muskul sinapsining ölçab böladigan darajadagi çarçaşi kamdan-kam kuzatiladi, kuzatilganda ham faqat muskul faoliyatining eng toliqtiruvçi darajalarida yuz beradi.",
+   "lead": "Nerv-muskul sinapsida uzatilişning xavfsizlik omili — sinapsning çarçaşi."
+  },
+  "ch07-f24": {
+   "text": "Nerv-muskul sinapsida atsetilxolinning hosil bölişi va ajralişi quyidagi bosqiçlarda sodir böladi: 1. Orqa miyadagi motoneyron tanasida Golji apparati ölçami taxminan 40 nanometr bölgan mayda pufakçalarni hosil qiladi. Söngra bu pufakçalar orqa miyadagi markaziy hujayra tanasidan periferik nerv tolalarining uçlaridagi nerv-muskul sinapsigaça akson özagi böylab oqadigan aksoplazma yordamida taşiladi. Bitta skelet muskul oxirgi plastinkasining nerv terminallarida bunday mayda pufakçalardan taxminan 300 000 tasi töplanadi. 2. Atsetilxolin nerv tolasi terminalining sitozolida sintezlanadi, biroq darhol pufakçalar membranalari orqali ularning içiga taşiladi va u yerda yuqori konsentratsiyali şaklda — har bir pufakçada taxminan 10 000 atsetilxolin molekulasi holida saqlanadi. 3. Harakat potensiali nerv terminaliga yetib kelganda nerv terminali membranasidagi köplab _kalsiy kanallarini_ oçadi, çunki bu terminalda potensialga boğliq kalsiy kanallari juda köp. Natijada terminal membranasi içidagi kalsiy ionlari konsentratsiyasi taxminan 100 baravar ortadi, bu esa öz navbatida atsetilxolin pufakçalarining terminal membranasi bilan qöşiliş tezligini taxminan 10 000 baravar oşiradi. Bu qöşiliş köplab pufakçalarning yorilişiga va atsetilxolinning sinaptik böşliqqa _ekzotsitoziga_ imkon beradi. Har bir harakat potensialida odatda taxminan 125 ta pufakça yoriladi. Söngra bir neça millisekunddan keyin atsetilxolin atsetilxolinesteraza tomonidan atsetat ioni va xolinga parçalanadi, xolin esa yangi atsetilxolin hosil qilişda qayta foydalaniş uçun nerv terminaliga faol qayta söriladi. Bu hodisalar ketma-ketligi 5–10 millisekund içida sodir böladi. 4. Nerv uçidagi mavjud pufakçalar soni nervdan muskulga faqat bir neça ming impulsni uzatiş uçun yetarli. Şuning uçun nerv-muskul sinapsining uzluksiz işlaşi uçun yangi pufakçalar tez qayta hosil bölişi kerak. Har bir harakat potensiali tugaganidan keyin bir neça sekund içida terminal nerv membranasida qoplangan çuqurçalar paydo böladi; ularni nerv uçidagi qisqaruvçi oqsillar, ayniqsa dastlabki pufakçalar joylaşgan sohalarda membranaga birikkan _klatrin_ oqsili hosil qiladi. Taxminan 20 sekund içida bu oqsillar qisqaradi va çuqurçalarning membrana içiga uzilib tuşişiga sabab bölib, yangi pufakçalarni hosil qiladi. Yana bir neça sekund içida atsetilxolin bu pufakçalar içiga taşiladi va ular atsetilxolin ajratişning yangi sikliga tayyor böladi."
+  },
+  "ch07-f25": {
+   "text": "_Metaxolin, karbaxol_ va _nikotin_ kabi birikmalar muskul tolasiga atsetilxolin bilan deyarli bir xil ta’sir körsatadi. Uşbu dorilar va atsetilxolin örtasidagi asosiy farqlar şundan iboratki, dorilar xolinesteraza tomonidan parçalanmaydi yoki şunçalik sekin parçalanadiki, ularning ta’siri köpinça bir neça daqiqadan bir neça soatgaça davom etadi. Dorilar atsetilxolin retseptorlari joylaşgan motor plastinkada muskul tola membranasi depolarizatsiyasining lokal hududlarini keltirib çiqariş orqali işlaydi. Keyinçalik, muskul tolasi oldingi qisqarişdan har safar tiklanganda, bu depolarizatsiyalangan hududlar, ionlarning sizib çiqişi tufayli, yangi harakat potensialini boşlab beradi va şu tariqa muskul spazmi holatini keltirib çiqaradi.",
+   "lead": "Atsetilxolinga öxşaş ta’sir körsatib, muskul tolasini qözğatuvçi dorilar."
+  },
+  "ch07-f26": {
+   "text": "Uçta juda maşhur dori – _neostigmin, fizostigmin_ va _diizopropilftorfosfat_ sinapslardagi atsetilxolinesterazani inaktivatsiya qiladi, şuning uçun u endi atsetilxolinni gidroliz qilmaydi. Şuning uçun, har bir keyingi nerv impulsi bilan qöşimça atsetilxolin töplanadi va muskul tolasini qayta-qayta qözğatadi. Bu faollik hatto bir neçta nerv impulslari muskulga yetib borganda ham _muskul spazmini_ keltirib çiqaradi. Afsuski, u şuningdek, insonni böğib qöyadigan hiqildoq spazmi natijasida ölimga olib kelişi mumkin.",
+   "lead": "Atsetilxolinesterazani inaktivatsiya qiliş orqali nerv-muskul birikmasini qözğatuvçi dorilar."
+  },
+  "ch07-f27": {
+   "text": "Neostigmin va fizostigmin bir neça soatgaça atsetilxolinesterazani inaktivatsiya qiliş uçun u bilan birikadi, şundan söng bu dorilar atsetilxolinesterazadan siqib çiqariladi, şunda esteraza yana faol bölib qoladi. Aksinça, kuçli nerv gazi zahri bölgan diizopropilftorfosfat atsetilxolinesterazani haftalab inaktivatsiya qiladi, bu esa bu zaharni ayniqsa ölimga olib keluvçi qiladi."
+  },
+  "ch07-f28": {
+   "text": "_Kurarimon dorilar_ deb nomlanuvçi dorilar guruhi impulslarning nerv oxiridan muskulga ötişining oldini olib turişi mumkin. Masalan, d-tubokurarin atsetilxolinning muskul tolasi atsetilxolin retseptorlariga ta’sirini bloklaydi, şu bilan harakat potensialini boşlaş uçun muskul membranasi kanallarining ötkazuvçanligi yetarliça oşişining oldini oladi.",
+   "lead": "Nerv-muskul birikmasidagi ötkazuvçanlikni bloklovçi dorilar."
+  },
+  "ch07-f29": {
+   "text": "_Miassteniya gravis_ (Myasthenia gravis), taxminan har 20 000 kişidan 1 nafarida uçraydi, nerv tolalaridan muskul tolalariga yetarliça signallarni uzatiş uçun nerv-muskul birikmalarining qobiliyatsizligi tufayli muskul zaifligini keltirib çiqaradi. Atsetilxolin retseptorlariga hujum qiluvçi antitelolar miassteniya gravis bilan oğrigan köpçilik bemorlarning qonida aniqlangan. Şuning uçun, miassteniya gravis bemorlarda postsinaptik nerv-muskul birikmasida özlarining atsetilxolin retseptorlarini bloklaydigan yoki yöq qiladigan antitelolarni işlab çiqqan autoimmun kasallik deb hisoblanadi."
+  },
+  "ch07-f30": {
+   "text": "Sababidan qat’i nazar, muskul tolalarida sodir böladigan oxirgi plastinka potensiallari kuçlanişga boğliq natriy kanallarining oçilişini boşlaş uçun asosan juda zaif böladi va muskul tolasi depolarizatsiyasi sodir bölmaydi. Agar kasallik yetarliça kuçli bölsa, bemor nafas oliş muskullarining oğir zaiflaşişi natijasida nafas yetişmovçiligidan vafot etişi mumkin. Kasallik odatda _neostigmin_ yoki sinaptik fazoda odatdagidan köproq miqdordagi atsetilxolinning töplanişiga imkon beradigan boşqa antixolinesteraza dorisini yuboriş orqali bir neça soat davomida yaxşilanişi mumkin. Bir neça daqiqada ta’sirlanganlarning ba’zilari bir neça soatdan keyin yangi neostigmin dozasi talab qilinmagunça deyarli normal işlay boşlaşi mumkin."
+  },
+  "ch07-f31": {
+   "text": "MUSKUL HARAKAT POTENSIALI"
+  },
+  "ch07-f32": {
+   "text": "5-bobda nerv tolalarida harakat potensiallarining boşlanişi va ötkazilişi böyiça muhokama qilingan deyarli hamma narsa miqdoriy farqlardan taşqari skelet muskul tolalariga ham birdek tegişli. Muskul potensiallarining miqdoriy jihatlaridan ba’zilari quyidagilardan iborat: 1. Skelet tolalarida tinçlik membranasi potensiali taxminan –80 dan –90 millivoltgaça bölib, neyronlardagiga qaraganda taxminan 10–20 millivoltga manfiyroq. 2. Harakat potensialining davomiyligi skelet muskullarida 1–5 millisekundni taşkil qiladi, bu yirik miyelinli nervlardagiga qaraganda taxminan beş baravar uzun. 3. Ötkazuvçanlik tezligi 3–5 m/s ni taşkil qiladi, bu skelet muskulini qözğatuvçi yirik miyelinli nerv tolalaridagi ötkazuvçanlik tezligining taxminan 1/13 qismiga teng."
+  },
+  "ch07-f33": {
+   "text": "Harakat potensiallarining köndalang nayçalar orqali muskul tolasining içki qismiga tarqalişi"
+  },
+  "ch07-f34": {
+   "text": "Skelet muskul tolasi şunçalik kattaki, uning sirt membranasi böylab tarqaladigan harakat potensiallari tolaning çuqur qismida deyarli tok oqişini keltirib çiqarmaydi. Biroq, maksimal muskul qisqarişi tokning muskul tolasi içiga çuqur kirib borişini va alohida miofibrillalar atrofiga yetib kelişini talab qiladi. Uşbu kirib boriş **Rasm 7-5** da körsatilgandek, muskul tolasining bir çetidan ikkinçi çetigaça, butun muskul tolasi böylab kirib boruvçi _köndalang nayçalar_ (T nayçalar) böylab harakat potensiallarini ötkaziş orqali erişiladi. T nayça harakat potensiallari muskul tolasi içida miofibrillalarning bevosita yaqinida kaltsiy ionlarining ajralib çiqişiga sabab böladi va bu kaltsiy ionlari keyin qisqarişni keltirib çiqaradi. Umumiy jarayon _qözğatiş-qisqariş_ boğlanişi deb ataladi."
+  },
+  "ch07-f36": {
+   "text": "QÖZĞATISH-QISQARISH BOĞLANISHI"
+  },
+  "ch07-f37": {
+   "text": "Köndalang nayça – sarkoplazmatik retikulum tizimi"
+  },
+  "ch07-f38": {
+   "text": "**Rasm 7-5**da T nayça – sarkoplazmatik retikulum tizimi bilan öralgan miofibrillar körsatilgan. T nayçalar kiçik bölib, miofibrillarga köndalang yönalişda ötadi. Ular hujayra membranali sathidan boşlanib, muskul tolasining bir tomonidan qarama-qarşi tomonigaça butunlay ötib boradi. Rasmda körsatilmagan bölsa-da, bu nayçalar özaro tarmoqlanib, barça alohida miofibrillar orasida tör hosil qiluvçi T nayçalarning butun _tekisliklarini_ hosil qiladi. Şuningdek, _T nayçalar hujayra membranasidan boşlanadigan joyida muskul tolasining taşqi muhitiga oçiq böladi._ Şuning uçun ular muskul tolasini örab turgan hujayrataşqi suyuqlik bilan muloqot qiladi va öz lümenida hujayrataşqi suyuqlikni saqlaydi. Boşqaça qilib aytganda, _T nayçalar aslida hujayra membranasining içki davomi hisoblanadi_. Şuning uçun, harakat potensiali muskul tolasi membranasi böylab tarqalganida, potensial özgarişi ham T nayçalar böylab muskul tolasining çuqur içki qismiga tarqaladi. Uşbu T nayçalarni örab turgan elektr toki keyinçalik muskul qisqarişini keltirib çiqaradi."
+  },
+  "ch07-f39": {
+   "text": "**Rasm 7-5**da, şuningdek, sariq rangda sarkoplazmatik _retikulum_ körsatilgan. Uşbu sarkoplazmatik retikulum ikkita asosiy qismdan iborat: (1) T nayçalar bilan tutaşgan _terminal sisternalar_ deb ataluvçi yirik kameralar; va (2) qisqaruvçi miofibrillarning barça yuzalarini örab turgan uzun böylama nayçalar."
+  },
+  "ch07-f40": {
+   "text": "Sarkoplazmatik retikulum tomonidan kalsiy ionlarining çiqarilişi"
+  },
+  "ch07-f41": {
+   "text": "Sarkoplazmatik retikulumning öziga xos xususiyatlaridan biri şundaki, uning pufakçali nayçalari içida yuqori konsentratsiyadagi kalsiy ionlari ortiği bilan mavjud böladi. Qöşni T nayçada harakat potensiali yuzaga kelganda, bu ionlarning köp qismi har bir pufakçadan çiqariladi."
+  },
+  "ch07-f42": {
+   "text": "**Rasm 7-6 va 7-7**da körsatilişiça, T nayçaning harakat potensiali T nayça bilan tutaşgan sarkoplazmatik retikulum sisternalariga oqim ötişini keltirib çiqaradi. Harakat potensiali T nayçaga yetib kelişi bilan, kuçlaniş özgarişi qöşni sarkoplazmatik retikulum sisternalaridagi _kalsiy çiqaruvçi kanallar_ (şuningdek, _rianodin retseptor kanallari_ deb ham ataladi) bilan boğlangan digidropiridin _retseptorlari_ tomonidan seziladi (**Rasm 7-6**ni qarang). Digidropiridin retseptorlarining faollaşişi sisternalardagi, şuningdek ularga biriktirilgan böylama nayçalardagi kalsiy çiqaruvçi kanallarning oçilişini keltirib çiqaradi. Bu kanallar bir neça millisekund davomida oçiq qoladi, kalsiy ionlarini miofibrillarni örab turgan sarkoplazmaga çiqaradi va 6-bobda muhokama qilinganidek qisqarişni keltirib çiqaradi."
+  },
+  "ch07-f45": {
+   "text": "Kalsiy ionlari sarkoplazmatik nayçalardan çiqarilgandan va miofibrillar orasida diffuziyalangandan söng, kalsiy ionlari konsentratsiyasi yuqori bölib qolgunça muskul qisqarişi davom etadi. Biroq, sarkoplazmatik retikulum devorlarida joylaşgan doimiy faol kalsiy nasosi kalsiy ionlarini miofibrillardan uzoqlaştirib, yana sarkoplazmatik nayçalarga haydaydi (**Rasm 7-6**ni qarang). SERCA (**s**arkoplazmatik **r**etikulum **C**a2+-**A**TPase) deb ataladigan uşbu nasos nayçalar içidagi kalsiy ionlari konsentratsiyasini taxminan 10 000 marta oşirişi mumkin. Bundan taşqari, retikulum içida har bir kalsiysekvestrin molekulasiga 40 tagaça kalsiy ionini boğlay oladigan _kalsiy boğlovçi oqsil_ – _kalsiysekvestrin_ mavjud.",
+   "lead": "Kalsiy nasosi qisqariş sodir bölgandan keyin miofibrillar suyuqligidan kalsiy ionlarini çiqarib yuboradi."
+  },
+  "ch07-f46": {
+   "text": "Miofibrillarni qoplab yotuvçi sitozoldagi kalsiy ionlarining normal tinç holatdagi konsentratsiyasi (<10−7 M) qisqarişni keltirib çiqariş uçun juda kamlik qiladi. Şuning uçun troponin-tropomiorozin kompleks aktin filamentlarini tormozlangan holda saqlaydi va muskulning böşaşgan holatini ta’minlaydi.",
+   "lead": "Kalsiy ionlarining qözğatuvçi impulsi."
+  },
+  "ch07-f47": {
+   "text": "Aksinça, T nayça va sarkoplazmatik retikulum tizimining töliq qözğalişi miofibrillar suyuqligidagi konsentratsiyani 2 × 10−4 molyar konsentratsiyagaça, ya’ni 500 marta oşiriş uçun yetarli miqdorda kalsiy ionlari çiqarilişini keltirib çiqaradi, bu maksimal muskul qisqarişini keltirib çiqariş uçun zarur bölgan darajadan taxminan 10 marta köpdir. Şundan söng darhol kalsiy nasosi kalsiy ionlarini yana kamaytiradi. Odatdagi skelet muskul tolasida bu kalsiy impulsining umumiy davomiyligi taxminan 1/20 sekundni taşkil qiladi, garçi ba’zi tolalarda bundan bir neça marta uzunroq, boşqalarida esa bir neça marta qisqaroq bölişi mumkin. Yurak muşagida kalsiy impulsi yurak harakat potensialining uzoq davom etişi tufayli taxminan uçdan bir sekund davom etadi."
+  },
+  "ch07-f48": {
+   "text": "Uşbu kalsiy impulsi davomida muskul qisqarişi sodir böladi. Agar qisqariş uzoq vaqt davomida uzilişlarsiz davom etişi kerak bölsa, 6-bobda muhokama qilinganidek, takrorlanuvçi harakat potensiallarining uzluksiz seriyasi orqali kalsiy impulslari seriyasini boşlaş kerak."
+  },
+  "ch07-f49": {
+   "text": "Meylkan şaxslarda _malignant gipertermiya_ va _gipermetabolik kriz_ galotan va izoflyuran kabi ayrim turdagi anestetiklar yoki suksinilxolin ta’sirida qözğatilişi mumkin. Kamida oltita genetik mutatsiya, ayniqsa rianodin retseptorlari yoki degidropiridin retseptorlari genlarining mutatsiyalari anesteziya paytida malignant gipertermiyaning rivojlaniş moyilligini keskin oşirişi körsatilgan. Anestetiklarning malignant gipertermiyani qözğatiş uçun uşbu ğayritabiiy retseptorlar bilan özaro ta’sir qiluvçi öziga xos mexanizmlari haqida kam narsa ma’lum. Biroq, bu mutatsiyalar kalsiyning sarkoplazmatik retikulumdan hujayra içki böşliqlariga nazoratsiz ötişiga sabab bölişi ma’lum, bu öz navbatida muskul tolalarining haddan taşqari qisqarişiga olib keladi. Uşbu davomiy muskul qisqarişlari metabolizm tezligini keskin oşiradi, köp miqdorda issiqlik hosil qiladi va hujayraviy atsidozni, şuningdek, energiya zaxiralarining tugaşini keltirib çiqaradi."
+  },
+  "ch07-f50": {
+   "text": "Malignant gipertermiyaning alomatlariga muskul rigidligi, yuqori isitma va tez yurak urişi kiradi. Oğir holatlarda qöşimça asoratlar skelet muskulining tez parçalanişini (_rabdomioliz_) va şikastlangan muskul hujayralaridan köp miqdorda kaliy çiqarilişi tufayli plazmada yuqori kaliy miqdorini öz içiga olişi mumkin. Malignant gipertermiyani davolaş odatda tez sovutişni va rianodin retseptorlarini antagonizatsiya qiluvçi, sarkoplazmatik retikulumdan kalsiy ionlarining çiqişini tormozlovçi va şu tariqa muskul qisqarişini susaytiruvçi dori – _dantrolen_ administratsiyasini öz içiga oladi."
+  }
+ },
+ "figures": {
+  "gh14-fig-07-01": "Dvigateliya plastinkasining har xil körinişlari. A, Plastinka orqali uzunlamasiga kesim. B, Plastinkaning sirtqi körinişi. C, Bitta akson terminali va muskul tolasi membranasi orasidagi the özaro aloqa nuqtasining elektron mikrografik körinişi.",
+  "gh14-fig-07-03": "Atsetilxolin-boşqariladigan kanal. A, Yopiq holat. B, Atsetilxolin (Ach) birikib, konformatsion özgariş kanalni oçgandan söng, natriy ionlarining muskul tolasiga kirişiga va qisqarişni qözğatişiga imkon beradi. Xlorid ionlari kabi manfiy ionlarning ötişiga tösqinlik qiluvçi kanal oğzidagi manfiy zaryadlarga e’tibor bering.",
+  "gh14-fig-07-04": "Plastinka oxiri potensiallari (millivoltlarda). A, Ta’sir potensialini keltirib çiqariş uçun juda zaif bölgan curarizatsiya qilingan muskilda qayd etilgan zaiflaşgan plastinka oxiri potensiali. B, Muşak harakat potensialini keltirib çiqaruvçi normal plastinka oxiri potensiali. C, Atsetilxolunning plastinka oxiridan ajralişini kamaytiradigan botulinum toksini keltirib çiqaradigan zaiflaşgan plastinka oxiri potensiali, bu ham muşak harakat potensialini keltirib çiqariş uçun juda zaif.",
+  "gh14-fig-07-05": "Köndalang (T) nayça–sarkoplazmatik retikulum tizimi. T nayçalari hujayra membranasining taşqi tomoni bilan boğlanişiga va muskul tolasining içkarisida har bir T nayçasi qisqaradigan haqiqiy miofibrillarning barça tomonlarini örab turgan uzunlamasiga sarkoplazmatik retikulum nayçalarining uçlariga yondoş ekanligiga e’tibor bering. Uşbu rasm har bir sarkomer uçun Z diskida joylaşgan bitta T nayçasiga ega bölgan qurbaqa muskulidan çizilgan. Şunga öxşaş tartib sutemizuvçilarning yurak muskulida ham uçraydi, biroq sutemizuvçilarning skelet muskulida har bir sarkomer uçun A-I disk tutaşgan joylarida joylaşgan ikkita T nayçasi mavjud.",
+  "gh14-fig-07-06": "Skelet muskulida qözğaliş-qisqariş böylanişi. Yuqori panel kuçlanişni sezuvçi digidropiridin (DHP) retseptorlarida konformatsion özgarişlarni keltirib çiqaradigan, sarkoplazmatik retikulumning terminal sisternalaridagi rianodin (RyR) Ca2+ çiqariş kanallarini oçadigan va Ca2+-ning sarkoplazmaga tez diffuziya qilişiga va muskul qisqarişini boşlaşiga imkon beruvçi köndalang nayçadagi ta’sir potensialini körsatadi. Repolyarizatsiya paytida (pastki panel) DHP retseptoridagi konformatsion özgariş Ca2+ çiqariş kanallarini yopadi va Ca2+ SERCA (sarkoplazmatik retikulum Ca2+-ATFaza) deb ataladigan adenozintrifosfatga boğliq kalsiy nasosi tomonidan sarkoplazmadan sarkoplazmatik retikulumga taşiladi.",
+  "gh14-fig-07-07": "Muskuldagi qözğaliş-qisqariş böylanişi, (1) sarkoplazmatik retikulumdan kalsiy ionlarining çiqarilişiga sabab böladigan harakat potensialini va keyin (2) kalsiy ionlarining kalsiy nasosi tomonidan qayta qamrab olinişini körsatadi. ATP, Adenozintrifosfat.",
+  "gh14-fig-07-02": "Nerv-muşak tutashuvida atsetilxolinning nerv membranasidagi sinaptik pufakçalardan ajralişi. Nerv membranasidagi ajraliş joylari muşak membranasida, nerv osti tirqişlari oğzida joylaşgan atsetilxolin retseptorlariga yaqinligiga e’tibor bering."
+ }
+}

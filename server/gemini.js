@@ -28,13 +28,13 @@ export async function geminiStream(config, opts, onText = () => {}) {
       lastErr = e;
       const slowStart = ac.signal.aborted && ac.signal.reason?.message === 'slow_start';
       if (sent || opts.signal?.aborted || !(slowStart || [429, 500, 503].includes(e.status))) throw e;
-      console.warn(`[gemini] ${model} ${slowStart ? `${FIRST_TEXT_MS / 1000}s ichida javob boshlamadi` : `band (${e.status})`}, keyingi model sinaladi`);
+      console.warn(`[gemini] ${model} ${slowStart ? `${FIRST_TEXT_MS / 1000}s içida javob boşlamadi` : `band (${e.status})`}, keyingi model sinaladi`);
     } finally {
       clearTimeout(slow);
       opts.signal?.removeEventListener('abort', onOuter);
     }
   }
-  throw lastErr || new Error('GEMINI_MODEL bo’sh');
+  throw lastErr || new Error('GEMINI_MODEL böş');
 }
 
 async function geminiStreamOne(config, { system, input, maxTokens = 4096, thinking, signal, onActivity }, onText) {

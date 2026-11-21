@@ -1,0 +1,320 @@
+{
+ "lessonId": "ch34",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 34,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "manual",
+ "translator": "Claude (DrStudy sessiyasi)",
+ "model": null,
+ "createdAt": "2026-11-17T14:19:02.308Z",
+ "updatedAt": "2026-11-17T14:19:02.315Z",
+ "coverage": {
+  "translated": 98,
+  "total": 98
+ },
+ "note": "Kitob matnining töliq özbekça tarjimasi (qisqartirilmagan). Ekspert tekşiruvidan ötmagan.",
+ "blocks": {
+  "ch34-f0": {
+   "text": "Organizmimiz doimiy ravişda bakteriyalar, viruslar, zamburuğlar va parazitlar ta’siriga duç keladi; ularning barçasi odatda teri, oğiz böşliği, nafas yöllari, içak trakti, közlarni qoplovçi pardalar va hatto siydik yöllarida turli darajada uçraydi. Bu yuqumli agentlarning köpçiligi çuqurroq töqimalarga kirib olsa, jiddiy patologik fiziologik özgarişlarga yoki hatto ölimga sabab bölişi mumkin. Bundan taşqari, biz vaqti-vaqti bilan odatda mavjud bölganlardan taşqari boşqa, öta yuqumli bakteriya va viruslarga ham duç kelamiz; bu agentlar zotiljam (pnevmoniya), streptokokk infeksiyasi va qorin tifi kabi ötkir, ölimga olib keluvçi kasalliklarni keltirib çiqarişi mumkin."
+  },
+  "ch34-f1": {
+   "text": "Organizmimizda turli yuqumli va zaharli agentlarga qarşi kuraşuvçi maxsus tizim mavjud. Bu tizim qon leykotsitlari (oq qon hujayralari, OQH) va leykotsitlardan kelib çiqqan töqima hujayralaridan taşkil topgan. Bu hujayralar kasallikning oldini oliş uçun ikki yöl bilan birgalikda işlaydi: (1) bostirib kirgan bakteriya yoki viruslarni _fagotsitoz_ yöli bilan bevosita yöq qiliş orqali; (2) bostirib kirgan agentni yöq qilişi yoki nofaol holga keltirişi mumkin bölgan _antitelolar_ va _sensibilizatsiyalangan limfotsitlar_ hosil qiliş orqali. Uşbu bobda bu usullarning birinçisi, 35-bobda esa ikkinçisi muhokama qilinadi."
+  },
+  "ch34-f2": {
+   "text": "Leykotsitlar (oq qon hujayralari)"
+  },
+  "ch34-f3": {
+   "text": "Leykotsitlar, ular _oq qon hujayralari_ deb ham ataladi, organizm himoya tizimining _harakatçan birliklari_ hisoblanadi. Ular qisman suyak kömigida (_granulotsitlar_, _monotsitlar_ va oz miqdordagi _limfotsitlar_), qisman esa limfa töqimasida (_limfotsitlar_ va _plazmatik hujayralar_) hosil böladi. Hosil bölgandan söng ular qon orqali organizmning özlari zarur bölgan turli qismlariga taşiladi."
+  },
+  "ch34-f4": {
+   "text": "OQH larning asl ahamiyati şundaki, ularning köpçiligi aynan jiddiy infeksiya va yalliğlaniş öçoqlariga taşiladi va şu tariqa yuqumli agentlarga qarşi tezkor va kuçli himoyani ta’minlaydi. Keyinroq körib çiqamizki, granulotsitlar va monotsitlar begona bosqinçini “izlab topiş va yöq qiliş” böyiça alohida qobiliyatga ega."
+  },
+  "ch34-f5": {
+   "text": "Leykotsitlarning umumiy xususiyatlari"
+  },
+  "ch34-f6": {
+   "text": "Qonda odatda OQH ning olti turi mavjud: _neytrofillar (polimorf-yadroli),_",
+   "lead": "Oq qon hujayralarining turlari."
+  },
+  "ch34-f7": {
+   "text": "_eozinofillar_ (polimorf-yadroli), _bazofillar_ (polimorf-yadroli), _monotsitlar, limfotsitlar_ va ba’zan _plazmatik hujayralar_. Bundan taşqari, qonda köp miqdorda _trombotsitlar_ böladi; ular suyak kömigida uçraydigan, OQH larga öxşaş boşqa bir hujayra turi — _megakariotsitning_ bölaklaridir. Dastlabki uç turdagi hujayralar, ya’ni polimorf-yadroli hujayralar, **Rasm 34-1** dagi 7, 10 va 12-raqamli hujayralarda körsatilganidek, donador körinişga ega; şu sababli ular _granulotsitlar_ deb ataladi."
+  },
+  "ch34-f9": {
+   "text": "Granulotsitlar va monotsitlar organizmni bostirib kirgan mikroorganizmlardan ularni yutib (_fagotsitoz_ yöli bilan) yoki zararli mikroorganizmni yöq qilişga yordam beruvçi köp qirrali ta’sirga ega antimikrob yoki yalliğlaniş moddalarini ajratib çiqarib himoya qiladi. Limfotsitlar va plazmatik hujayralar, 35-bobda muhokama qilinganidek, asosan immun tizim bilan boğliq holda faoliyat körsatadi. Nihoyat, trombotsitlarning vazifasi aynan qon iviş mexanizmini faollaştirişdan iborat; bu 37-bobda muhokama qilinadi."
+  },
+  "ch34-f10": {
+   "text": "Katta yoşli odamda bir _mikrolitr_ qonda taxminan 7000 ta OQH böladi (taqqoslaş uçun, bir mikrolitrda 5 million eritrotsit [qizil qon hujayrasi] bor). Umumiy OQH lar orasida turli xillarining normal uluşi taxminan quyidagiça: • Neytrofillar: 62,0% • Eozinofillar: 2,3% • Bazofillar: 0,4% • Monotsitlar: 5,3% • Limfotsitlar: 30,0% Faqat hujayra bölaklaridan iborat trombotsitlarning har bir mikrolitr qondagi soni odatda 150 000 dan 450 000 gaça, örtaça esa taxminan 300 000 ni taşkil qiladi.",
+   "lead": "Qondagi turli oq qon hujayralarining konsentratsiyasi."
+  },
+  "ch34-f11": {
+   "text": "Oq qon hujayralarining hosil bölişi"
+  },
+  "ch34-f12": {
+   "text": "Köp potensiyali (multipotent) gemopoetik özak hujayraning turli yönalişga ixtisoslaşgan (kommitirlangan) özak hujayralarga erta differensiatsiyasi oldingi bobdagi **Rasm 33-2** da körsatilgan edi. Eritrotsitlar hosil qilişga yönaltirilgan hujayralardan taşqari, OQH larning ikkita asosiy qatori — mielotsitar va limfotsitar qatorlar hosil böladi. **Rasm 34-1** ning çap tomonida"
+  },
+  "ch34-f13": {
+   "text": "_mieloblastdan_ boşlanadigan _mielotsitar qator_, öng tomonida esa _limfoblastdan_ boşlanadigan _limfotsitar qator_ körsatilgan."
+  },
+  "ch34-f14": {
+   "text": "Granulotsitlar va monotsitlar faqat suyak kömigida hosil böladi. Limfotsitlar va plazmatik hujayralar esa asosan turli limfopoetik töqimalarda — ayniqsa limfa bezlari (tugunlari), taloq, timus, bodomsimon bezlar hamda organizmning boşqa joylaridagi limfoid töqima töplamlarida, masalan, suyak kömigida va içak devoridagi epiteliy ostida joylaşgan _Peyer pilakçalarida_ işlab çiqariladi."
+  },
+  "ch34-f15": {
+   "text": "Suyak kömigida hosil bölgan OQH lar qon aylaniş tizimida ularga ehtiyoj tuğilgunga qadar kömikda saqlanadi. Söngra, ehtiyoj paydo bölganda, turli omillar ularning qonga çiqarilişiga sabab böladi (bu omillar keyinroq muhokama qilinadi). Odatda kömikda butun qonda aylanib yurganidan taxminan uç baravar köp OQH saqlanadi. Bu miqdor uşbu hujayralarning taxminan 6 kunlik zaxirasiga teng."
+  },
+  "ch34-f16": {
+   "text": "Limfotsitlar asosan turli limfoid töqimalarda saqlanadi; faqat ularning kiçik bir qismi vaqtinça qon orqali taşilib yuradi."
+  },
+  "ch34-f17": {
+   "text": "**Rasm 34-1** da körsatilganidek, megakariotsitlar (3-hujayra) ham suyak kömigida hosil böladi. Bu megakariotsitlar suyak kömigida bölaklarga ajraladi va _trombotsitlar_ (yoki _qon plastinkalari_) deb ataladigan mayda bölaklar keyin qonga ötadi. Ular qon ivişini boşlaşda juda muhim ahamiyatga ega."
+  },
+  "ch34-f18": {
+   "text": "Oq qon hujayralarining yaşaş davomiyligi"
+  },
+  "ch34-f19": {
+   "text": "Granulotsitlar suyak kömigidan çiqarilgandan söng odatda 4–8 soat qonda aylanib yuradi va yana 4–5 kun özlari zarur bölgan töqimalarda yaşaydi. Töqimada jiddiy infeksiya bölgan paytlarda bu umumiy yaşaş muddati köpinça bor-yöği bir neça soatgaça qisqaradi, çunki granulotsitlar infeksiyalangan sohaga yanada tezroq boradi, öz vazifalarini bajaradi va bu jarayonda özlari ham halok böladi."
+  },
+  "ch34-f20": {
+   "text": "Monotsitlar ham kapillyar membranalari orqali töqimalarga ötib ketişidan oldin qonda qisqa vaqt — 10–20 soat böladi. Töqimalarga tuşgaç, ular ança kattalaşib _töqima makrofaglariga_ aylanadi va bu şaklda, fagotsitar vazifalarni bajariş jarayonida halok bölmasa, bir neça oy yaşaşi mumkin. Bu töqima makrofaglari infeksiyaga qarşi uzluksiz himoyani ta’minlovçi _töqima makrofaglari tizimining_ (keyinroq batafsilroq muhokama qilinadi) asosini taşkil etadi."
+  },
+  "ch34-f21": {
+   "text": "Limfotsitlar limfa tugunlari va boşqa limfoid töqimalardan limfa oqib çiqişi bilan birga qon aylaniş tizimiga uzluksiz kirib turadi. Bir neça soatdan söng ular _diapedez/ekstravazatsiya_ yöli bilan qondan yana töqimalarga çiqadi. Söngra ular qaytadan limfaga kiradi va qayta-qayta qonga qaytadi; şu tariqa limfotsitlar organizm böylab uzluksiz aylanib turadi. Limfotsitlar organizmning bu hujayralarga bölgan ehtiyojiga qarab bir neça hafta yoki oy yaşaydi."
+  },
+  "ch34-f22": {
+   "text": "Qondagi trombotsitlar taxminan har 10 kunda bir marta yangilanadi. Boşqaça aytganda, har bir mikrolitr qon uçun har kuni taxminan 30 000 ta trombotsit hosil böladi."
+  },
+  "ch34-f23": {
+   "text": "Neytrofillar va makrofaglar infeksiyalardan himoya qiladi"
+  },
+  "ch34-f24": {
+   "text": "Bostirib kirgan bakteriyalar, viruslar va boşqa zararli agentlarga hujum qilib, ularni yöq qiladigan hujayralar asosan neytrofillar va töqima makrofaglaridir. Neytrofillar yetuk hujayralar bölib, bakteriyalarga hatto aylanib yurgan qonning özida ham hujum qilib, ularni yöq qila oladi. Aksinça, töqima makrofaglari öz hayotini qon monotsitlari sifatida boşlaydi; monotsitlar qonda bölgan vaqtida hali yetilmagan hujayralar bölib, bu paytda yuqumli agentlarga qarşi kuraşiş qobiliyati kam böladi. Biroq töqimalarga kirgaç, ular şişa boşlaydi — ba’zan diametri beş baravargaça, ya’ni 60–80 mikrometrgaça kattalaşadi; bu ölçamdagi hujayrani oddiy köz bilan arang köriş mumkin. Endi bu hujayralar _makrofaglar_ deb ataladi va ular töqimalarda kasallik qözğatuvçilariga qarşi kuraşişda nihoyatda qobiliyatlidir."
+  },
+  "ch34-f25": {
+   "text": "Neytrofillar va monotsitlar qon kapillyarlari va postkapillyar venulalarning endotelial hujayralari orasidagi tirqişlardan _diapedez_ yöli bilan siqilib öta oladi. Hujayralararo tirqişlar hujayradan ança kiçik bölsa-da, har safar hujayraning kiçik bir qismi tirqiş orqali sirpanib ötadi; **Rasm 34-2** da körsatilganidek (şuningdek, **Rasm 34-6** ga qarang), sirpanib ötayotgan qism bir lahzaga tirqiş ölçamigaça toraygan böladi.",
+   "lead": "Oq qon hujayralari töqima oraliqlariga diapedez yöli bilan kiradi."
+  },
+  "ch34-f28": {
+   "text": "Neytrofillar ham, makrofaglar ham 2-bobda tasvirlangan amyobasimon harakat orqali töqimalar içida siljiy oladi. Ba’zi hujayralar 40 μm/min gaça tezlikda, ya’ni har daqiqada öz uzunligiga teng masofaga harakatlanadi.",
+   "lead": "Oq qon hujayralari töqima oraliqlarida amyobasimon harakat orqali siljiydi."
+  },
+  "ch34-f29": {
+   "text": "Töqimalardagi köplab turli kimyoviy moddalar neytrofillarni ham, makrofaglarni ham uşbu kimyoviy modda manbai tomon harakatlanişga majbur qiladi. **Rasm 34-2** da körsatilgan bu hodisa _xemotaksis_ deb ataladi. Töqima yalliğlanganda, yalliğlangan soha tomon xemotaksisni keltirib çiqara oladigan kamida önlab turli mahsulotlar hosil böladi (Video 34-1). Ularga quyidagilar kiradi: (1) bakterial yoki virus toksinlarining bir qismi; (2) yalliğlangan töqimalarning degenerativ mahsulotlari; (3) yalliğlangan töqimalarda faollaşgan komplement kompleksining (35-bobda muhokama qilinadi) bir qança reaksiya mahsulotlari; (4) yalliğlangan sohada plazma ivişi natijasida hosil böladigan bir qança reaksiya mahsulotlari, şuningdek, boşqa moddalar.",
+   "lead": "Oq qon hujayralari yalliğlangan töqima sohalariga xemotaksis orqali jalb qilinadi."
+  },
+  "ch34-f30": {
+   "text": "**Rasm 34-2** da körsatilganidek, xemotaksis xemotaktik modda konsentratsiyasining gradiyentiga boğliq. Konsentratsiya manba yaqinida eng yuqori böladi va bu OQH larning bir yönalişda harakatlanişini ta’minlaydi. Xemotaksis yalliğlangan töqimadan 100 mikrometrgaça bölgan masofada samarali böladi. Demak, deyarli heç bir töqima sohasi kapillyardan 50 mikrometrdan uzoqda joylaşmaganligi sababli, xemotaktik signal kapillyarlardan yalliğlangan sohaga OQH larning töda-töda bölib köçişini osongina ta’minlay oladi."
+  },
+  "ch34-f31": {
+   "text": "Neytrofillar va makrofaglarning asosiy vazifalaridan biri _fagotsitoz_, ya’ni zararli agentni hujayra tomonidan yutilişidir. Fagotsitlar fagotsitoz qilinadigan materialni tanlab olişi kerak; aks holda organizmning normal hujayralari va tuzilmalari ham yutib yuborilişi mumkin edi. Fagotsitoz sodir böliş-bölmasligi ayniqsa uçta tanlaş jarayoniga boğliq (**Rasm 34-3**)."
+  },
+  "ch34-f33": {
+   "text": "Birinçidan, töqimalardagi tabiiy tuzilmalarning köpçiligi silliq yuzaga ega bölib, bu fagotsitozga tösqinlik qiladi. Biroq yuza ğadir-budur bölsa, fagotsitoz ehtimoli ortadi."
+  },
+  "ch34-f34": {
+   "text": "Ikkinçidan, organizmdagi tabiiy moddalarning köpçiligi fagotsitlarni itaruvçi himoya oqsil qobiğiga ega. Aksinça, ölik töqimalar va begona zarraçalarning köpçiligida himoya qobiği bölmaydi, bu esa ularni fagotsitozga moyil qiladi."
+  },
+  "ch34-f35": {
+   "text": "Uçinçidan, organizmning immun tizimi (35-bobda tasvirlangan) bakteriyalar kabi yuqumli agentlarga qarşi _antitelolar_ işlab çiqaradi. Söngra antitelolar bakteriya membranalariga yopişadi va şu bilan bakteriyalarni fagotsitozga ayniqsa moyil qilib qöyadi. Buning uçun antitelo molekulasi, şuningdek, keyingi bobda muhokama qilinadigan immun tizimning qöşimça qismi bölgan _komplement kaskadining_ C3 mahsuloti bilan ham birikadi. C3 molekulalari, öz navbatida, fagotsit membranasidagi retseptorlarga birikadi va şu bilan fagotsitozni boşlab beradi. Patogenning fagotsitoz va yöq qiliniş uçun tanlab olinişidan iborat bu jarayon _opsonizatsiya_ deb ataladi."
+  },
+  "ch34-f36": {
+   "text": "Töqimalarga kirayotgan neytrofillar allaqaçon yetuk hujayralar bölib, darhol fagotsitozni boşlay oladi. Fagotsitoz qilinadigan zarraçaga yaqinlaşganda neytrofil avval zarraçaga yopişadi, söngra zarraça atrofida barça yönalişlarda _psevdopodiyalar_ çiqaradi. Psevdopodiyalar zarraçaning qarama-qarşi tomonida bir-biri bilan uçraşib, qöşilib ketadi. Natijada fagotsitoz qilingan zarraçani öz içiga olgan berk kamera hosil böladi. Söngra bu kamera sitoplazma böşliği içiga botib kiradi va taşqi hujayra membranasidan ajralib, sitoplazma içida erkin suzib yuruvçi _fagotsitar pufakça_ (u _fagosoma_ deb ham ataladi) hosil qiladi. Bitta neytrofil odatda nofaol bölib halok bölgunga qadar 3 tadan 20 tagaça bakteriyani fagotsitoz qila oladi.",
+   "lead": "Neytrofillar tomonidan fagotsitoz."
+  },
+  "ch34-f37": {
+   "text": "Makrofaglar qondan töqimalarga kirgan monotsitlarning sönggi rivojlaniş bosqiçidagi mahsulotidir. 35-bobda tasvirlanganidek, immun tizim tomonidan faollaştirilganda, ular neytrofillarga qaraganda ança kuçliroq fagotsitlar bölib, köpinça 100 tagaça bakteriyani fagotsitoz qila oladi. Ular, şuningdek, ança yirik zarraçalarni, hatto butun eritrotsitlarni yoki ba’zan bezgak parazitlarini ham yutib yubora oladi; neytrofillar esa bakteriyalardan ança katta zarraçalarni fagotsitoz qila olmaydi. Bundan taşqari, zarraçalarni hazm qilgandan söng makrofaglar qoldiq mahsulotlarni taşqariga çiqarib taşlay oladi va köpinça yana köp oylar davomida yaşab, faoliyat körsatadi.",
+   "lead": "Makrofaglar tomonidan fagotsitoz."
+  },
+  "ch34-f38": {
+   "text": "Begona zarraça fagotsitoz qilingaç, neytrofil yoki makrofagdagi lizosomalar va boşqa sitoplazmatik donaçalar darhol fagotsitar pufakça bilan tutaşadi va ularning membranalari qöşilib ketadi; natijada pufakça içiga köplab hazm fermentlari va bakteritsid moddalar quyiladi. Şu tariqa fagotsitar pufakça endi _hazm pufakçasiga_ aylanadi va fagotsitoz qilingan zarraçaning hazm qilinişi darhol boşlanadi.",
+   "lead": "Fagotsitoz qilingan zarraçalarning köpçiligi hujayra içidagi fermentlar tomonidan hazm qilinadi."
+  },
+  "ch34-f39": {
+   "text": "Neytrofillar ham, makrofaglar ham bakteriyalar va boşqa begona oqsil moddalarni hazm qilişga maxsus moslaşgan _proteolitik fermentlar_ bilan tölgan köplab lizosomalarga ega. Makrofaglarning lizosomalarida (neytrofillarnikida emas) köp miqdorda _lipazalar_ ham böladi; ular sil tayoqçasi kabi ba’zi bakteriyalarga xos qalin lipid membranalarni hazm qiladi."
+  },
+  "ch34-f40": {
+   "text": "Yutilgan bakteriyalarni fagosomalarda hazm qilişdan taşqari, neytrofillar va makrofaglar tarkibida, hatto lizosomal fermentlar ularni hazm qila olmagan hollarda ham, köpçilik bakteriyalarni öldiradigan _bakteritsid moddalar_ mavjud. Bu xususiyat ayniqsa muhim, çunki ba’zi bakteriyalar ularni hazm fermentlari ta’sirida yemirilişdan saqlovçi himoya qobiqlari yoki boşqa omillarga ega. Öldiruvçi ta’sirning katta qismi fagosoma membranasidagi fermentlar yoki _peroksisoma_ deb ataladigan maxsus organella tomonidan hosil qilinadigan bir qança kuçli _oksidlovçi moddalarga_ boğliq. Bu oksidlovçi moddalarga köp miqdordagi _superoksid_ (O2−), _vodorod peroksid_ (H2O2) va _gidroksil ionlari_ (OH−) kiradi; ular hatto oz miqdorda ham köpçilik bakteriyalar uçun halokatlidir. Şuningdek, lizosomal fermentlardan biri — mieloperoksidaza H2O2 va xlorid ionlari orasidagi reaksiyani katalizlab, nihoyatda kuçli bakteritsid ta’sirga ega bölgan gipoxlorit hosil qiladi.",
+   "lead": "Neytrofillar va makrofaglar bakteriyalarni öldira oladi."
+  },
+  "ch34-f41": {
+   "text": "Ba’zi bakteriyalar, xususan, sil tayoqçasi, lizosomal hazm qilinişga çidamli qobiqqa ega bölib, neytrofillar va makrofaglarning öldiruvçi ta’siriga qisman qarşilik körsatuvçi moddalar ham ajratadi. Bu bakteriyalar sil kabi köplab surunkali kasalliklarga sabab böladi."
+  },
+  "ch34-f42": {
+   "text": "Monotsit-makrofag hujayralar tizimi (retikuloendotelial tizim)"
+  },
+  "ch34-f43": {
+   "text": "Oldingi xatboşilarda biz makrofaglarni asosan töqimalar böylab köçib yura oladigan harakatçan hujayralar sifatida tasvirladik. Biroq töqimalarga kirib makrofagga aylangandan söng monotsitlarning yana bir katta qismi töqimalarga birikib oladi va ma’lum mahalliy himoya vazifalarini bajarişga çaqirilgunga qadar oylar yoki hatto yillar davomida birikkan holda qoladi. Ular harakatçan makrofaglar singari töqimadagi köp miqdordagi bakteriyalar, viruslar, nekrozga uçragan töqima yoki boşqa begona zarraçalarni fagotsitoz qiliş qobiliyatiga ega. Bundan taşqari, tegişliça qözğatilganda, ular birikkan joyidan ajralib, yana xemotaksisga va yalliğlaniş jarayoni bilan boğliq boşqa barça stimullarga javob beruvçi harakatçan makrofaglarga aylana oladi. Şunday qilib, organizmda deyarli barça töqima sohalarida keng tarqalgan monotsit-makrofag tizimi mavjud."
+  },
+  "ch34-f44": {
+   "text": "Monotsitlar, harakatçan makrofaglar, fiksatsiyalangan töqima makrofaglari hamda suyak kömigi, taloq va limfa tugunlaridagi bir qança ixtisoslaşgan endotelial hujayralarning umumiy majmui _retikuloendotelial tizim_ deb ataladi. Biroq bu hujayralarning barçasi yoki deyarli barçasi monotsitar özak hujayralardan kelib çiqadi; şu sababli retikuloendotelial tizim deyarli monotsit-makrofag tizimining sinonimi hisoblanadi. _Retikuloendotelial tizim_ atamasi tibbiy adabiyotda _monotsit-makrofag tizimi_ atamasidan ança maşhur bölgani uçun uni barça töqimalarda, ayniqsa köp miqdordagi zarraçalar, toksinlar va boşqa keraksiz moddalar yöq qilinişi lozim bölgan töqima sohalarida joylaşgan umumlaşgan fagotsitar tizim sifatida yodda tutiş lozim."
+  },
+  "ch34-f45": {
+   "text": "Teri, şikastlangan holatlar bundan mustasno, asosan yuqumli agentlar uçun ötib bölmas tösiqdir. Infeksiya teri osti töqimasida boşlanib, mahalliy yalliğlaniş rivojlanganda, mahalliy töqima makrofaglari öşa joyning özida (in situ) bölinib, yanada köproq makrofaglar hosil qilişi mumkin. Söngra ular yuqorida tasvirlanganidek, yuqumli agentlarga hujum qilib, ularni yöq qilişdan iborat odatiy vazifalarini bajaradi.",
+   "lead": "Teri va teri osti töqimalaridagi töqima makrofaglari (gistiotsitlar)."
+  },
+  "ch34-f46": {
+   "text": "Töqimalarga tuşgan bakteriyalar kabi zarraçali moddalarning deyarli heç biri kapillyar membranalari orqali töğridan-töğri qonga sörila olmaydi. Buning örniga, agar zarraçalar töqimalarda mahalliy ravişda yöq qilinmasa, ular limfaga tuşadi va limfa oqimi yöli böylab oraliq-oraliq joylaşgan limfa tugunlariga oqib boradi. Söngra begona zarraçalar bu tugunlarda _töqima makrofaglari_ bilan qoplangan sinuslar törida tutib qolinadi.",
+   "lead": "Limfa tugunlaridagi makrofaglar."
+  },
+  "ch34-f47": {
+   "text": "**Rasm 34-4** da limfa tugunining umumiy tuzilişi tasvirlangan: limfa tugun kapsulasi orqali _olib keluvçi limfa tomirlari_ böylab kiradi, söngra _tugunning mağiz (medullyar) sinuslari_ orqali oqadi va nihoyat _darvoza_ (hilus) orqali _olib ketuvçi limfa tomirlariga_ çiqadi; bu tomirlar oxir-oqibat venoz qonga quyiladi."
+  },
+  "ch34-f49": {
+   "text": "Limfa sinuslarini köp sonli makrofaglar qoplab turadi va agar biror zarraça limfa orqali sinuslarga tuşsa, makrofaglar uni fagotsitoz qiladi va organizm böylab umumiy tarqalişining oldini oladi."
+  },
+  "ch34-f50": {
+   "text": "Bostirib kiruvçi mikroorganizmlarning organizmga tez-tez kiradigan yana bir yöli öpkalardir. Alveola devorlarining ajralmas tarkibiy qismi sifatida köp sonli töqima makrofaglari mavjud. Ular alveolalarda tutilib qolgan zarraçalarni fagotsitoz qila oladi. Agar zarraçalar hazm böladigan bölsa, makrofaglar ularni hazm qilib, hazm mahsulotlarini limfaga çiqarişi ham mumkin. Agar zarraça hazm bölmaydigan bölsa, makrofaglar köpinça zarraça atrofida, u sekin-asta eriy olguniga qadar — agar bu umuman sodir bölsa — gigant hujayrali kapsula hosil qiladi. Bunday kapsulalar köpinça sil tayoqçalari, kremniy (silikat) çangi zarraçalari va hatto kömir zarraçalari atrofida hosil böladi.",
+   "lead": "Öpkadagi alveolyar makrofaglar."
+  },
+  "ch34-f51": {
+   "text": "Bakteriyalar organizmga kiradigan yana bir yöl — oşqozon-içak traktidir. Iste’mol qilingan ovqat bilan tuşgan köp sonli bakteriyalar doimiy ravişda oşqozon-içak şilliq qavati orqali darvoza venasi qoniga ötadi. Bu qon umumiy qon aylanişiga tuşişidan oldin jigar sinusoidlari orqali ötadi; sinusoidlar **Rasm 34-5** da körsatilgan, _Kupfer hujayralari_ deb ataladigan töqima makrofaglari bilan qoplangan. Bu hujayralar şunçalik samarali zarraça filtrlaş tizimini hosil qiladiki, oşqozon-içak traktidan kelgan bakteriyalarning deyarli heç biri darvoza venasi qonidan umumiy sistemaviy qon aylanişiga ötmaydi. Haqiqatan ham, Kupfer hujayralari fagotsitozining videotasvirlarida bitta bakteriyaning 0,01 sekunddan kamroq vaqtda fagotsitoz qilinişi kuzatilgan.",
+   "lead": "Jigar sinusoidlaridagi makrofaglar (Kupfer hujayralari)."
+  },
+  "ch34-f53": {
+   "text": "Agar bostirib kirgan mikroorganizm umumiy qon aylanişiga tuşişga muvaffaq bölsa, töqima makrofaglari tizimining boşqa himoya çiziqlari — ayniqsa taloq va suyak kömigi makrofaglari mavjud. Bu ikkala töqimada makrofaglar uşbu ikki a’zoning retikulyar törida uşlanib qoladi va begona zarraçalar bu makrofaglar bilan töqnaşganda fagotsitoz qilinadi.",
+   "lead": "Taloq va suyak kömigi makrofaglari."
+  },
+  "ch34-f54": {
+   "text": "Taloq limfa tugunlariga öxşaydi, faqat taloqning töqima oraliqlari orqali limfa emas, balki qon oqadi. **Rasm 34-6** da taloq töqimasining kiçik periferik qismi körsatilgan. E’tibor bering: kiçik arteriya taloq kapsulasidan _taloq pulpasiga_ kirib boradi va mayda kapillyarlar bilan tugaydi. Kapillyarlar juda ğovak bölib, butun qonning kapillyarlardan _qizil pulpa tortmalariga_ çiqişiga imkon beradi. Söngra qon bu tortmalarning trabekulyar töri orqali sekin-asta _siqilib_ ötadi va oxir-oqibat _venoz sinuslarning_ endotelial devorlari orqali qon aylanişiga qaytadi. Qizil pulpa trabekulalari va venoz sinuslar juda köp sonli makrofaglar bilan qoplangan. Qonning qizil pulpa tortmalari orqali bunday öziga xos tarzda ötişi qondagi keraksiz qoldiqlarni, ayniqsa eskirgan va anomal eritrotsitlarni fagotsitoz qiliş uçun alohida imkoniyat yaratadi."
+  },
+  "ch34-f55": {
+   "text": "Yalliğlaniş: neytrofillar va makrofaglarning roli"
+  },
+  "ch34-f56": {
+   "text": "Bakteriyalar, jarohat, kimyoviy moddalar, issiqlik yoki boşqa har qanday hodisa sabab bölişidan qat’i nazar, töqima şikastlanganda şikastlangan töqimalardan köplab moddalar ajralib çiqadi va atrofdagi şikastlanmagan töqimalarda keskin ikkilamçi özgarişlarni keltirib çiqaradi. Töqimadagi özgarişlarning bu butun majmui _yalliğlaniş_ deb ataladi."
+  },
+  "ch34-f57": {
+   "text": "Yalliğlaniş quyidagilar bilan tavsiflanadi: (1) mahalliy qon tomirlarining kengayişi (vazodilatatsiya) va buning natijasida mahalliy qon oqimining ortişi; (2) kapillyarlar ötkazuvçanligining ortişi, bu esa köp miqdordagi suyuqlikning interstitsial oraliqlarga sizib çiqişiga imkon beradi; (3) köpinça kapillyarlardan sizib çiqqan fibrinogen va boşqa oqsillar miqdori ortişi sababli interstitsial oraliqlardagi suyuqlikning ivişi; (4) töqimaga köp sonli granulotsitlar va monotsitlarning köçib ötişi (migratsiyasi); (5) töqima hujayralarining şişişi. Bu reaksiyalarni keltirib çiqaruvçi köplab töqima mahsulotlarining ayrimlari _gistamin, bradikinin, serotonin, prostaglandinlar,_ bir qança turli _komplement_"
+  },
+  "ch34-f58": {
+   "text": "_tizimining reaksiya mahsulotlari_ (35-bobda tasvirlangan), _qon iviş tizimining reaksiya mahsulotlari_ hamda sensibilizatsiyalangan T hujayralar (immun tizimning bir qismi; bu ham 35-bobda muhokama qilinadi) tomonidan ajratiladigan _limfokinlar_ deb ataluvçi köplab moddalardir. Bu moddalarning bir neçtasi makrofaglar tizimini kuçli faollaştiradi va bir neça soat içida makrofaglar yemirilgan töqimalarni yuta boşlaydi. Biroq ba’zida makrofaglar hali tirik bölgan töqima hujayralarini ham qöşimça şikastlaşi mumkin."
+  },
+  "ch34-f59": {
+   "text": "Yalliğlanişning dastlabki natijalaridan biri — şikastlangan sohani qolgan töqimalardan ajratib, örab olişdir. Yalliğlangan sohadagi töqima oraliqlari va limfa tomirlari fibrinogen laxtalari bilan berkiladi, natijada bir munça vaqtdan söng suyuqlik bu oraliqlar orqali arang oqadi. Bu çegaralaş jarayoni bakteriyalar yoki zaharli mahsulotlarning tarqalişini sekinlaştiradi.",
+   "lead": "Yalliğlanişning çegaralovçi (örab oluvçi) ta’siri."
+  },
+  "ch34-f60": {
+   "text": "Yalliğlaniş jarayonining jadalligi odatda töqima şikastlanişi darajasiga mutanosib böladi. Masalan, _stafilokokklar_ töqimalarga kirganda, ular öta halokatli hujayra toksinlarini ajratadi. Natijada yalliğlaniş tez rivojlanadi — aslida stafilokokklar köpayib tarqalişidan ança tezroq. Şu sababli mahalliy stafilokokk infeksiyasi öziga xos tarzda tezda çegaralanadi va organizm böylab tarqalişining oldi olinadi. Streptokokklar esa, aksinça, töqimaning bunday kuçli mahalliy yemirilişini keltirib çiqarmaydi. Şuning uçun çegaralaş jarayoni köp soatlar davomida sekin rivojlanadi, bu vaqt içida esa köplab streptokokklar köpayadi va köçib tarqaladi. Natijada streptokokklar, garçi stafilokokklar töqimalarni ança kuçliroq yemirsa-da, organizm böylab tarqaliş va ölimga sabab böliş moyilligi böyiça stafilokokklardan köpinça ança ustun turadi."
+  },
+  "ch34-f61": {
+   "text": "Yalliğlaniş paytidagi makrofag va neytrofil javoblari"
+  },
+  "ch34-f62": {
+   "text": "Yalliğlaniş boşlangandan bir neça daqiqa ötmay töqimalarda allaqaçon mavjud bölgan makrofaglar — xoh teri osti töqimalaridagi gistiotsitlar, xoh öpkadagi alveolyar makrofaglar, xoh boş miyadagi mikrogliya yoki boşqalar bölsin — darhol fagotsitar faoliyatini boşlaydi. Infeksiya va yalliğlaniş mahsulotlari ta’sirida faollaşganda, birinçi ta’sir bu hujayralarning har birining tez kattalaşişidir. Söngra ilgari ötroq bölgan makrofaglarning köpçiligi birikkan joylaridan ajralib, harakatçan böladi va dastlabki taxminan bir soat davomida infeksiyaga qarşi birinçi himoya çiziğini hosil qiladi. Bu erta safarbar qilingan makrofaglar soni köpinça unçalik köp bölmaydi, ammo ular hayotni saqlab qoladi.",
+   "lead": "Töqima makrofaglari infeksiyaga qarşi birinçi himoya çiziğini ta’minlaydi."
+  },
+  "ch34-f63": {
+   "text": "Yalliğlaniş boşlangandan keyingi taxminan birinçi soat içida köp sonli neytrofillar qondan yalliğlangan sohaga kira boşlaydi. Bu jarayonga yalliğlaniş sitokinlari (masalan, ösma nekrozi omili va interleykin-1) hamda yalliğlangan töqimalar işlab çiqaradigan boşqa biokimyoviy mahsulotlar sabab böladi; ular quyidagi reaksiyalarni boşlab beradi:",
+   "lead": "Neytrofillarning yalliğlangan sohaga kirib borişi ikkinçi himoya çiziğidir."
+  },
+  "ch34-f64": {
+   "text": "1. Ular kapillyarlar va venulalardagi endotelial hujayralar yuzasida _selektinlar_ va _hujayralararo adgeziya molekulasi-1_ (ICAM-1) kabi _adgeziya molekulalari_ ekspressiyasining ortişiga sabab böladi. Bu adgeziya molekulalari neytrofillardagi ularga komplementar _integrin_ molekulalari bilan özaro ta’sirlaşib, neytrofillarning yalliğlangan sohadagi kapillyar va venula devorlariga yopişişiga olib keladi. Bu hodisa _marginatsiya_ deb ataladi va u **Rasm 34-2** da, batafsilroq esa **Rasm 34-7** da körsatilgan. 2. Ular, şuningdek, kapillyarlar va mayda venulalarning endotelial hujayralari orasidagi hujayralararo birikmalarning böşaşişiga sabab böladi; natijada neytrofillarning kapillyarlardan diapedez yöli bilan töqima oraliqlariga örmalab ötişi uçun yetarliça katta teşiklar hosil böladi. 3. Söngra ular, yuqorida tuşuntirilganidek, neytrofillarning şikastlangan töqimalar tomon _xemotaksisini_ keltirib çiqaradi. Neytrofillarning (yoki boşqa moddalar va monotsitlar kabi hujayralarning) kapillyarlar orqali ularni örab turgan töqimalarga köçib ötişining butun jarayoni _ekstravazatsiya_ deb ataladi; qon hujayralarining kapillyarlarning butun (şikastlanmagan) devorlari orqali aynan ötişi esa _diapedez_ deb ataladi, garçi qon hujayralarining kapillyarlardan töqimalarga harakati haqida gap ketganda bu atama köpinça ekstravazatsiya bilan bir ma’noda işlatilsa ham. Şunday qilib, töqima şikastlanişi boşlangandan bir neça soat ötib, bu soha neytrofillar bilan yaxşi ta’minlanadi. Qondagi neytrofillar allaqaçon yetuk hujayralar bölgani uçun ular bakteriyalarni öldiriş va begona moddalarni çiqarib taşlaşdan iborat tozalovçi vazifalarini darhol boşlaşga tayyor böladi."
+  },
+  "ch34-f66": {
+   "text": "Şuningdek, ötkir oğir yalliğlaniş boşlangandan bir neça soat ötib qondagi neytrofillar soni ba’zan tört-beş baravar — normal 4000–5000 dan 15 000–25 000 neytrofil/μl gaça ortadi. Bu _neytrofiliya_, ya’ni qondagi neytrofillar sonining ortişi deb ataladi. Neytrofiliyani qon oqimiga tuşib, suyak kömigiga taşiladigan va u yerda kömikda saqlanayotgan neytrofillarga ta’sir etib, ularni aylanib yuruvçi qonga safarbar qiladigan yalliğlaniş mahsulotlari keltirib çiqaradi. Bu esa yalliğlangan töqima sohasi uçun yanada köproq neytrofillarni yetkazib beradi.",
+   "lead": "Qondagi neytrofillar sonining ötkir ortişi — neytrofiliya."
+  },
+  "ch34-f67": {
+   "text": "Neytrofillar kirib borişi bilan birga qondagi monotsitlar ham yalliğlangan töqimaga kiradi va kattalaşib makrofaglarga aylanadi. Biroq aylanib yuruvçi qondagi monotsitlar soni kam. Bundan taşqari, suyak kömigidagi monotsitlar zaxirasi neytrofillarnikidan ança kiçik. Şu sababli yalliğlangan töqima sohasida makrofaglarning töplanişi neytrofillarnikiga qaraganda ança sekin keçadi va samarali bölişi uçun bir neça kun talab etiladi. Bundan taşqari, yalliğlangan töqimaga kirgandan keyin ham monotsitlar hali yetilmagan hujayralar bölib, ança kattalaşişi va juda köp miqdorda lizosomalar hosil qilişi uçun 8 soat yoki undan köproq vaqt kerak böladi. Faqat şundan keyingina ular fagotsitoz böyiça _töqima makrofaglarining_ töliq qobiliyatiga ega böladi. Bir neça kundan bir neça haftagaça vaqt ötib, keyinroq tuşuntirilganidek, suyak kömigida yangi monotsitlar işlab çiqarilişi keskin ortişi tufayli makrofaglar nihoyat yalliğlangan sohadagi fagotsitar hujayralar orasida ustunlik qila boşlaydi.",
+   "lead": "Makrofaglarning yalliğlangan töqimaga ikkinçi marta kirib borişi uçinçi himoya çiziğidir."
+  },
+  "ch34-f68": {
+   "text": "Yuqorida qayd etilganidek, makrofaglar neytrofillarga qaraganda ança köp bakteriyani (taxminan beş baravar köp) va ança yirik zarraçalarni, jumladan hatto neytrofillarni va köp miqdordagi nekrozga uçragan töqimani fagotsitoz qila oladi. Şuningdek, 35-bobda muhokama qilinganidek, makrofaglar antitelolar hosil bölişini boşlaşda muhim rol öynaydi."
+  },
+  "ch34-f69": {
+   "text": "Törtinçi himoya çiziği suyak kömigida granulotsitlar va monotsitlar işlab çiqarilişining keskin ortişidir. Bu kömikdagi granulotsitar va monotsitar progenitor (ötmişdoş) hujayralarning stimullanişi natijasidir. Biroq yangi hosil bölgan granulotsitlar va monotsitlar suyak kömigini tark etiş bosqiçiga yetişi uçun 3–4 kun kerak böladi. Agar yalliğlangan töqimadan keluvçi stimul davom etsa, suyak kömigi bu hujayralarni köp miqdorda oylar va hatto yillar davomida, ba’zan normadan 20–50 baravar yuqori tezlikda işlab çiqarişda davom etişi mumkin.",
+   "lead": "Suyak kömigida granulotsitlar va monotsitlar işlab çiqarilişining ortişi törtinçi himoya çiziğidir."
+  },
+  "ch34-f70": {
+   "text": "Makrofag va neytrofil javoblarining teskari aloqa orqali boşqarilişi"
+  },
+  "ch34-f71": {
+   "text": "Makrofaglarning yalliğlanişga javobini boşqarişda yigirmadan ortiq omil iştirok etişi aniqlangan bölsa-da, ulardan beştasi hal qiluvçi rol öynaydi deb hisoblanadi. Ular **Rasm 34-8** da körsatilgan bölib, quyidagilardan iborat: (1) _ösma nekrozi omili_ (TNF); (2) _interleykin-1_ (IL-1); (3) _granulotsit-monotsit koloniyani stimullovçi omil_ (GM-CSF); (4) _granulotsit koloniyani stimullovçi omil_ (G-CSF); (5) _monotsit koloniyani stimullovçi omil_ (M-CSF). Bu omillar yalliğlangan töqimalardagi faollaşgan makrofag hujayralari tomonidan, kamroq miqdorda esa yalliğlangan töqimaning boşqa hujayralari tomonidan hosil qilinadi."
+  },
+  "ch34-f73": {
+   "text": "Suyak kömigida granulotsitlar va monotsitlar işlab çiqarilişi ortişining sababi asosan uçta koloniyani stimullovçi omildir: ulardan biri, GM-CSF, ham granulotsitlar, ham monotsitlar işlab çiqarilişini rağbatlantiradi; qolgan ikkitasi, G-CSF va M-CSF, mos ravişda granulotsitlar va monotsitlar işlab çiqarilişini rağbatlantiradi. TNF, IL-1 va koloniyani stimullovçi omillarning bu birikmasi töqima yalliğlanişidan boşlanib, yalliğlaniş sababini bartaraf etişga yordam beradigan köp sonli himoyaviy OQH lar hosil bölişigaça davom etadigan kuçli teskari aloqa mexanizmini ta’minlaydi."
+  },
+  "ch34-f74": {
+   "text": "Neytrofillar va makrofaglar köp sonli bakteriyalar va nekrozga uçragan töqimani yutganda, oxir-oqibat deyarli barça neytrofillar va makrofaglarning köpçiligi, balki aksariyati halok böladi. Bir neça kundan söng yalliğlangan töqimalarda köpinça böşliq hosil böladi. Bu böşliqda turli nisbatlarda nekrozga uçragan töqima, ölik neytrofillar, ölik makrofaglar va töqima suyuqligi böladi. Bu aralaşma odatda _yiring_ deb ataladi. Infeksiya bostirilgandan söng yiringdagi ölik hujayralar va nekrozga uçragan töqima bir neça kun davomida asta-sekin autolizga uçraydi, oxirgi mahsulotlar esa oxir-oqibat atrofdagi töqimalar va limfaga söriladi va natijada töqima şikastlanişining belgilari deyarli butunlay yöqoladi."
+  },
+  "ch34-f75": {
+   "text": "Eozinofillar"
+  },
+  "ch34-f76": {
+   "text": "Eozinofillar odatda qondagi barça leykotsitlarning taxminan 2% ini taşkil qiladi. Eozinofillar kuçsiz fagotsitlar bölib, xemotaksis xususiyatini namoyon qiladi, ammo neytrofillarga nisbatan olganda, eozinofillarning odatiy turdagi infeksiyalardan himoya qilişda ahamiyati borligi şubhali."
+  },
+  "ch34-f77": {
+   "text": "Biroq parazitar infeksiyalari bölgan odamlarda eozinofillar köpinça köp miqdorda işlab çiqariladi va ular parazitlar bilan zararlangan töqimalarga köçib boradi. Parazitlarning köpçiligi eozinofillar yoki boşqa har qanday fagotsitar hujayralar tomonidan fagotsitoz qilinişi uçun juda katta bölsa-da, eozinofillar maxsus yuza molekulalari yordamida parazitlarga yopişadi va köplab parazitlarni öldiradigan moddalarni ajratadi. Masalan, eng keng tarqalgan infeksiyalardan biri _şistosomoz_ bölib, bu parazitar infeksiya Afrika, Osiyo va Janubiy Amerikadagi ba’zi rivojlanayotgan mamlakatlar aholisining uçdan bir qismigaça uçraydi. Dunyodagi şistosomoz holatlarining taxminan 85–90% i Afrikaga töğri keladi. Şistosoma parazit çuvalçanglari organizmning istalgan qismiga kirib borişi mumkin. Eozinofillar parazitning yoş şakllariga yopişadi va ularning köpçiligini öldiradi. Ular buni bir neça yöl bilan amalga oşiradi: (1) modifikatsiyalangan lizosomalar hisoblangan donaçalaridan gidrolitik fermentlar ajratib; (2) ehtimol, parazitlar uçun ayniqsa halokatli bölgan kislorodning yuqori reaktiv şakllarini ham ajratib; (3) donaçalardan _asosiy işqoriy oqsil_ (major basic protein) deb ataladigan, liçinkalarni kuçli öldiruvçi polipeptidni ajratib."
+  },
+  "ch34-f78": {
+   "text": "Dunyoning ayrim hududlarida eozinofiliyaga sabab böladigan yana bir parazitar kasallik — _trixinellyoz_ dir. Bu kasallik odam yetarliça pişirilmagan, parazit bilan zararlangan çöçqa göştini iste’mol qilgandan söng _Triçinella_ parazitining (çöçqa çuvalçangining) organizm muskullariga kirib olişi natijasida yuzaga keladi."
+  },
+  "ch34-f79": {
+   "text": "Eozinofillar, şuningdek, allergik reaksiyalar sodir böladigan töqimalarda — masalan, astma bilan oğrigan odamlarda öpkaning bronx atrofi töqimalarida va allergik teri reaksiyasidan keyin terida — töplanişga alohida moyillikka ega. Bunga, heç bölmaganda qisman, keyingi xatboşida muhokama qilinganidek, köplab semiz hujayralar (mast hujayralar) va bazofillarning allergik reaksiyalarda iştirok etişi sabab böladi. Semiz hujayralar va bazofillar eozinofillarning yalliğlangan allergik töqima tomon köçişiga sabab böladigan _eozinofil xemotaktik omilini_ ajratadi. Eozinofillar semiz hujayralar va bazofillar ajratadigan yalliğlanişni keltirib çiqaruvçi ayrim moddalarni zararsizlantiradi, şuningdek, ehtimol, allergen-antitelo komplekslarini fagotsitoz qilib yöq qiladi va şu bilan mahalliy yalliğlaniş jarayonining haddan taşqari tarqalişining oldini oladi, deb hisoblanadi."
+  },
+  "ch34-f80": {
+   "text": "Bazofillar"
+  },
+  "ch34-f81": {
+   "text": "Aylanib yuruvçi qondagi bazofillar organizmdagi köplab kapillyarlarning bevosita taşqarisida joylaşgan yirik töqima _semiz hujayralariga_ (mast hujayralarga) öxşaydi. Semiz hujayralar ham, bazofillar ham qonga _geparin_ ajratadi. Geparin qon ivişining oldini ola oladigan moddadir."
+  },
+  "ch34-f82": {
+   "text": "Semiz hujayralar va bazofillar, şuningdek, _gistamin_ hamda kamroq miqdorda _bradikinin_ va _serotonin_ ajratadi. Yalliğlaniş paytida bu moddalarni asosan yalliğlangan töqimalardagi semiz hujayralar ajratadi."
+  },
+  "ch34-f83": {
+   "text": "Semiz hujayralar va bazofillar allergik reaksiyalarning ayrim turlarida muhim rol öynaydi, çunki allergik reaksiyalarni keltirib çiqaruvçi antitelo turi — immunoglobulin E (IgE) semiz hujayralar va bazofillarga birikişga alohida moyillikka ega. Söngra uşbu IgE antiteloga xos antigen keyinçalik antitelo bilan reaksiyaga kirişganda, antigenning antiteloga birikişi semiz hujayra yoki bazofilning köproq miqdorda _gistamin, bradikinin, serotonin, geparin, anafilaksiyaning sekin ta’sir etuvçi moddasi_ (uçta _leykotriyen_ aralaşmasi) va bir qança _lizosomal fermentlar_ ajratişiga sabab böladi. Bu moddalar allergik körinişlarning köpçiligini, balki aksariyatini yuzaga keltiruvçi mahalliy tomir va töqima reaksiyalarini çaqiradi. Bu reaksiyalar 35-bobda batafsilroq muhokama qilinadi."
+  },
+  "ch34-f84": {
+   "text": "Leykopeniya"
+  },
+  "ch34-f85": {
+   "text": "Ba’zan suyak kömigi juda kam OQH işlab çiqaradigan, _leykopeniya_ deb ataladigan klinik holat uçraydi. Bu holat organizmni töqimalarga kirib olişi mumkin bölgan köplab bakteriyalar va boşqa agentlarga qarşi himoyasiz qoldiradi."
+  },
+  "ch34-f86": {
+   "text": "Odatda inson organizmi köplab bakteriyalar bilan simbiozda yaşaydi, çunki organizmning şilliq pardalari doimiy ravişda köp sonli bakteriyalar ta’siriga duç keladi. Oğiz böşliğida deyarli har doim turli spiroxetalar, pnevmokokklar va streptokokklar böladi, xuddi şu bakteriyalar kamroq darajada butun nafas yöllarida ham uçraydi. Oşqozon-içak traktining distal qismi ayniqsa içak tayoqçalariga töla. Bundan taşqari, közlar, siydik çiqariş kanali va qin yuzalarida har doim bakteriyalarni topiş mumkin. OQH lar sonining har qanday kamayişi allaqaçon mavjud bölgan bakteriyalarning qöşni töqimalarga darhol kirib borişiga imkon beradi."
+  },
+  "ch34-f87": {
+   "text": "Suyak kömigi OQH işlab çiqarişni töxtatgandan keyin 2 kun içida oğiz böşliği va yöğon içakda yaralar paydo bölişi yoki qandaydir oğir nafas yöllari infeksiyasi rivojlanişi mumkin. Yaralardagi bakteriyalar atrofdagi töqimalarga va qonga tez kirib boradi. Davolanmasa, ötkir töliq leykopeniya boşlangandan keyin köpinça 1 haftadan kamroq vaqt içida ölim yuz beradi."
+  },
+  "ch34-f88": {
+   "text": "Organizmning rentgen yoki gamma nurlari bilan nurlanişi yoki tarkibida benzol yoki antratsen halqalari bölgan dori-darmonlar va kimyoviy moddalar ta’siri suyak kömigi aplaziyasini keltirib çiqarişi ehtimoli yuqori. Xloramfenikol (antibiotik), tiouratsil (tireotoksikozni davolaşda qöllaniladi) kabi ba’zi keng tarqalgan dori vositalari va hatto turli barbiturat uyqu dorilari ham kamdan-kam hollarda leykopeniyaga sabab böladi va şu bilan bu kasallikka xos infeksion jarayonlarning butun zanjirini işga tuşiradi."
+  },
+  "ch34-f89": {
+   "text": "Suyak kömigi örtaça darajada nurlaniş şikastiga uçragandan keyin kömikda ba’zi özak hujayralar, mieloblastlar va gemotsitoblastlar yemirilmay qolişi mumkin va ular, yetarliça vaqt bölsa, suyak kömigini qayta tiklaşga qodir. Qon quyiş hamda infeksiyaning oldini oliş uçun antibiotiklar va boşqa dorilar bilan töğri davolangan bemorda odatda bir neça hafta yoki oy içida qon hujayralari konsentratsiyasini normaga qaytariş uçun yetarli yangi suyak kömigi rivojlanadi."
+  },
+  "ch34-f90": {
+   "text": "Leykozlar"
+  },
+  "ch34-f91": {
+   "text": "OQH larning nazoratsiz işlab çiqarilişiga mielogen yoki limfogen hujayraning saraton mutatsiyasi sabab bölişi mumkin. Bu jarayon _leykozni_ (leykemiyani) keltirib çiqaradi; leykoz odatda aylanib yuruvçi qonda anomal OQH lar sonining keskin ortişi bilan tavsiflanadi."
+  },
+  "ch34-f92": {
+   "text": "Leykozning ikki umumiy turi mavjud: limfotsitar va mielogen. _Limfotsitar leykozlar_ limfoid hujayralarning saraton tipida işlab çiqarilişi natijasida yuzaga keladi; ular odatda limfa tugunida yoki boşqa limfotsitar töqimada boşlanib, organizmning boşqa sohalariga tarqaladi. Leykozning ikkinçi turi — _mielogen leykoz_ suyak kömigida yoş mielogen hujayralarning saraton tipida işlab çiqarilişi bilan boşlanadi va söngra butun organizm böylab tarqaladi, natijada OQH lar köplab kömikdan taşqari (ekstramedullyar) töqimalarda — ayniqsa limfa tugunlari, taloq va jigarda işlab çiqariladi."
+  },
+  "ch34-f93": {
+   "text": "Mielogen leykozda saraton jarayoni ba’zan qisman differensiatsiyalangan hujayralarni hosil qiladi; natijada _neytrofil leykoz, eozinofil leykoz, bazofil leykoz_ yoki _monotsitar leykoz_ deb ataş mumkin bölgan holatlar yuzaga keladi. Biroq köpinça leykoz hujayralari ğalati körinişdagi va differensiatsiyalanmagan bölib, normal OQH larning birortasiga ham öxşamaydi. Odatda hujayra qançalik kam differensiatsiyalangan bölsa, leykoz şunçalik _ötkir_ keçadi va davolanmasa, köpinça bir neça oy içida ölimga olib keladi. Ança differensiatsiyalangan hujayralarda esa jarayon _surunkali_ bölişi, ba’zan 10–20 yil davomida sekin rivojlanişi mumkin. Leykoz hujayralari, ayniqsa juda kam differensiatsiyalanganlari, odatda infeksiyaga qarşi normal himoyani ta’minlaş nuqtai nazaridan funksional emas."
+  },
+  "ch34-f94": {
+   "text": "Leykozning organizmga ta’siri"
+  },
+  "ch34-f95": {
+   "text": "Leykozning birinçi ta’siri — leykoz hujayralarining organizmning odatiy bölmagan sohalarida metastatik ösişidir. Suyak kömigidagi leykoz hujayralari şu darajada köpayişi mumkinki, ular atrofdagi suyakka kirib boradi, oğriq keltirib çiqaradi va oxir-oqibat suyaklarning oson sinişga moyilligini yuzaga keltiradi."
+  },
+  "ch34-f96": {
+   "text": "Leykoz suyak kömigida yoki limfa tugunlarida boşlanganidan qat’i nazar, deyarli barça leykozlar oxir-oqibat taloq, limfa tugunlari, jigar va boşqa qon tomirlarga boy sohalarga tarqaladi. Leykozda infeksiya rivojlanişi, oğir anemiya va _trombotsitopeniya_ (trombotsitlar yetişmovçiligi) sababli qon ketişga moyillik keng tarqalgan ta’sirlardir. Bu ta’sirlar asosan normal suyak kömigi va limfoid hujayralarning funksional bölmagan leykoz hujayralari tomonidan siqib çiqarilişi natijasida yuzaga keladi."
+  },
+  "ch34-f97": {
+   "text": "Nihoyat, leykozning organizmga muhim ta’sirlaridan biri — ösib borayotgan saraton hujayralari tomonidan metabolik substratlarning haddan taşqari köp sarflanişidir. Leykoz töqimalari yangi hujayralarni şu qadar tez hosil qiladiki, organizmning oziq moddalar, muayyan aminokislotalar va vitaminlar zaxiralariga juda katta talab qöyiladi. Natijada bemorning quvvati keskin kamayadi, leykoz hujayralari tomonidan aminokislotalarning haddan taşqari köp sarflanişi esa organizmning normal oqsil töqimalarining ayniqsa tez yemirilişiga olib keladi. Şunday qilib, leykoz töqimalari ösib borgani sari boşqa töqimalar holdan toyadi. Metabolik oçlik yetarliça uzoq davom etgaç, birgina şu omilning özi ölimga sabab bölişi uçun yetarli böladi."
+  }
+ },
+ "figures": {
+  "gh14-fig-34-01": "Oq qon hujayralarining hosil bölişi. Mielotsitar qatorning turli hujayralari körsatilgan: 1 — mieloblast; 2 — promielotsit; 3 — megakariotsit; 4 — neytrofil mielotsit; 5 — yoş neytrofil metamielotsit; 6 — tayoqça yadroli neytrofil metamielotsit; 7 — neytrofil; 8 — eozinofil mielotsit; 9 — eozinofil metamielotsit; 10 — eozinofil; 11 — bazofil mielotsit; 12 — bazofil; 13–16 — monotsit hosil böliş bosqiçlari.",
+  "gh14-fig-34-02": "Neytrofillarning kapillyar teşiklari orqali diapedez yoki ekstravazatsiya yöli bilan va töqima şikastlangan soha tomon xemotaksis orqali harakatlanişi.",
+  "gh14-fig-34-03": "Bakteriyalar kabi patogenlarning makrofag kabi fagotsitar hujayra tomonidan fagotsitozi. Antitelolar bakteriyalarni qoplab, ularni bakteriyani yutib, hujayra içiga kiritadigan va fagosoma hosil qiladigan makrofag tomonidan fagotsitoz qilinişga moyilroq qiladi. Söngra lizosomalar fagosomaga birikib, bostirib kirgan patogenni hazm qiladigan fagolizosoma hosil qiladi. Keyin fagotsitar hujayra hazm mahsulotlarini ekzotsitoz yöli bilan çiqarib yuboradi.",
+  "gh14-fig-34-04": "Limfa tugunining funksional sxemasi.",
+  "gh14-fig-34-05": "Jigar sinusoidlarini qoplab turgan Kupfer hujayralari; tuş (India ink) zarraçalarining Kupfer hujayralari sitoplazmasiga fagotsitoz qilinişi körsatilgan.",
+  "gh14-fig-34-06": "Taloqning funksional tuzilmalari.",
+  "gh14-fig-34-07": "Neytrofillarning qondan yalliğlangan töqimaga köçişi. Yalliğlangan töqimaning sitokinlari va boşqa biokimyoviy mahsulotlari endotelial hujayralar yuzasida selektinlar va hujayralararo adgeziya molekulasi-1 (ICAM-1) ekspressiyasining ortişiga sabab böladi. Bu adgeziya molekulalari neytrofildagi komplementar molekulalar yoki retseptorlarga birikib, uning kapillyar yoki venula devoriga yopişişiga olib keladi. Söngra neytrofil diapedez yoki ekstravazatsiya yöli bilan tomir devori orqali töqima şikastlangan joy tomon köçadi.",
+  "gh14-fig-34-08": "Yalliğlangan töqimadagi faollaşgan makrofaglardan ajraladigan köplab ösiş omillariga javoban suyak kömigida granulotsitlar va monotsit-makrofaglar işlab çiqarilişining boşqarilişi. G-CSF — granulotsit koloniyani stimullovçi omil; GM-CSF — granulotsit-monotsit koloniyani stimullovçi omil; IL-1 — interleykin-1; M-CSF — monotsit koloniyani stimullovçi omil; TNF — ösma nekrozi omili."
+ }
+}

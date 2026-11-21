@@ -2,9 +2,9 @@
  "id": "ch20",
  "topicId": "04",
  "order": 7,
- "titleUz": "Yurak chiqarishi, venoz qaytish va ularning boshqarilishi",
+ "titleUz": "Yurak çiqarişi, venoz qaytiş va ularning boşqarilişi",
  "titleOriginal": "Cardiac Output, Venous Return, and Their Regulation",
- "subtitle": "*Cardiac Output, Venous Return, and Their Regulation* — IV bo'lim, PDF 236–249",
+ "subtitle": "*Cardiac Output, Venous Return, and Their Regulation* — IV bo‘lim, PDF 236–249",
  "contentVersion": "2026-11-14.1",
  "status": "in_review",
  "translationStatus": "machine_assisted",
@@ -325,28 +325,28 @@
   "Yurak chiqarishining chegaralari (yurak chiqarishi egri chiziqlari)",
   "Nerv tizimining roli",
   "Patologik yuqori va past yurak chiqarishi",
-  "Tashqi bosimning yurak chiqarishi egri chizig’iga ta’siri",
+  "Tashqi bosimning yurak chiqarishi egri chizig‘iga ta’siri",
   "Venoz qaytish egri chiziqlari",
   "Ikkala egri chiziqni birga tahlil qilish",
-  "Yurak chiqarishini o’lchash usullari"
+  "Yurak chiqarishini o‘lchash usullari"
  ],
  "blocks": {
   "simple": [
    {
     "type": "heading",
     "level": 2,
-    "text": "Asosiy g’oya",
+    "text": "Asosiy ğoya",
     "id": "ch20-s-0-asosiy-goya",
     "bid": "ch20-u0"
    },
    {
     "type": "paragraph",
-    "text": "**Yurak chiqarishi** — yurakning har daqiqada aortaga haydaydigan qon miqdori. **Venoz qaytish** — venalardan o’ng bo’lmachaga keladigan qon miqdori. Yurak qisqa muddatda qonni to’plab yoki bo’shatib turishini hisobga olmasak, ikkalasi doim teng.",
+    "text": "**Yurak çiqarişi** — yurakning har daqiqada aortaga haydaydigan qon miqdori. **Venoz qaytiş** — venalardan öng bölmaçaga keladigan qon miqdori. Yurak qisqa muddatda qonni töplab yoki böşatib turişini hisobga olmasak, ikkalasi doim teng.",
     "bid": "ch20-u1"
    },
    {
     "type": "paragraph",
-    "text": "Normal sharoitda yurak chiqarishini **yurakning o’zi emas, periferik omillar (venoz qaytish)** belgilaydi. Sababi **Frank–Starling mexanizmi**: yurak o’ziga kelgan qonni avtomatik haydab beradi. Bunga qo’shimcha ravishda:",
+    "text": "Normal şaroitda yurak çiqarişini **yurakning özi emas, periferik omillar (venoz qaytiş)** belgilaydi. Sababi **Frank–Starling mexanizmi**: yurak öziga kelgan qonni avtomatik haydab beradi. Bunga qöşimça ravişda:",
     "bid": "ch20-u2"
    },
    {
@@ -354,11 +354,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "sinus tugunining cho’zilishi urish tezligini 10–15% oshiradi;",
+      "text": "sinus tugunining çözilişi uriş tezligini 10–15% oşiradi;",
       "depth": 0
      },
      {
-      "text": "Bainbridge refleksi ham tezlikni oshiradi.",
+      "text": "Bainbridge refleksi ham tezlikni oşiradi.",
       "depth": 0
      }
     ],
@@ -366,7 +366,7 @@
    },
    {
     "type": "paragraph",
-    "text": "Faqat qaytib kelayotgan qon yurak hayday oladiganidan ko’p bo’lsa, yurakning o’zi cheklovchi omilga aylanadi.",
+    "text": "Faqat qaytib kelayotgan qon yurak hayday oladiganidan köp bölsa, yurakning özi çeklovçi omilga aylanadi.",
     "bid": "ch20-u4"
    },
    {
@@ -381,7 +381,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Tinch holatda:** yosh erkaklarda ~5,6 l/min, ayollarda ~4,9 l/min, kattalarda o’rtacha ~5 l/min.",
+      "text": "**Tinç holatda:** yoş erkaklarda ~5,6 l/min, ayollarda ~4,9 l/min, kattalarda örtaça ~5 l/min.",
       "depth": 0
      },
      {
@@ -389,23 +389,23 @@
       "depth": 0
      },
      {
-      "text": "10 yoshda >4 l/min/m², 80 yoshda ~2,4 l/min/m² ga tushadi. Kamayishi faollik va mushak massasi kamayganini aks ettiradi.",
+      "text": "10 yoşda >4 l/min/m², 80 yoşda ~2,4 l/min/m² ga tuşadi. Kamayişi faollik va muşak massasi kamayganini aks ettiradi.",
       "depth": 1
      },
      {
-      "text": "Yurak chiqarishi **barcha to’qima oqimlarining yig’indisi**. Har bir to’qimaning oqimi o’z metabolizmiga bog’liq (17-bob). Mashqda O₂ iste’moli va yurak chiqarishi parallel ravishda oshadi.",
+      "text": "Yurak çiqarişi **barça töqima oqimlarining yiğindisi**. Har bir töqimaning oqimi öz metabolizmiga boğliq (17-bob). Maşqda O₂ iste’moli va yurak çiqarişi parallel ravişda oşadi.",
       "depth": 0
      },
      {
-      "text": "**Arterial bosim o’zgarmasa, yurak chiqarishi UPQ (umumiy periferik qarshilik) ga teskari proporsional:** yurak chiqarishi = arterial bosim / UPQ.",
+      "text": "**Arterial bosim özgarmasa, yurak çiqarişi UPQ (umumiy periferik qarşilik) ga teskari proporsional:** yurak çiqarişi = arterial bosim / UPQ.",
       "depth": 0
      },
      {
-      "text": "UPQ past holatlar (yurak chiqarishi yuqori): AV shunt, gipertireoz, beriberi, anemiya, Paget kasalligi.",
+      "text": "UPQ past holatlar (yurak çiqarişi yuqori): AV shunt, gipertireoz, beriberi, anemiya, Paget kasalligi.",
       "depth": 1
      },
      {
-      "text": "UPQ yuqori holatlar (yurak chiqarishi past): gipotireoz, to’rt oyoq-qo’l amputatsiyasi, o’pka kasalligi.",
+      "text": "UPQ yuqori holatlar (yurak çiqarişi past): gipotireoz, tört oyoq-qöl amputatsiyasi, öpka kasalligi.",
       "depth": 1
      }
     ],
@@ -414,7 +414,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Yurak chiqarishining chegaralari (yurak chiqarishi egri chiziqlari)",
+    "text": "Yurak çiqarişining çegaralari (yurak çiqarişi egri çiziqlari)",
     "id": "ch20-s-7-yurak-chiqarishining-chegaralari-yurak-chiqarishi-egri-chizi",
     "bid": "ch20-u7"
    },
@@ -427,23 +427,23 @@
       "depth": 0
      },
      {
-      "text": "**Giperefektiv yurak** (kuchliroq nasos):",
+      "text": "**Giperefektiv yurak** (kuçliroq nasos):",
       "depth": 0
      },
      {
-      "text": "Simpatik qo’zg’alish va parasimpatik tormozlanish: urish tezligi 72 dan 180–200/min gacha (yoshlarda), qisqarish kuchi 2 marta oshadi. Plato ~25 l/min gacha ko’tariladi.",
+      "text": "Simpatik qözğaliş va parasimpatik tormozlaniş: uriş tezligi 72 dan 180–200/min gaça (yoşlarda), qisqariş kuçi 2 marta oşadi. Plato ~25 l/min gaça kötariladi.",
       "depth": 1
      },
      {
-      "text": "**Gipertrofiya:** marafonchilarda yurak massasi 50–75% katta, plato 60–100% yuqori.",
+      "text": "**Gipertrofiya:** marafonçilarda yurak massasi 50–75% katta, plato 60–100% yuqori.",
       "depth": 1
      },
      {
-      "text": "Ikkalasi birga 30–40 l/min gacha beradi (oddiy odamdan ~2,5 marta ko’p).",
+      "text": "Ikkalasi birga 30–40 l/min gaça beradi (oddiy odamdan ~2,5 marta köp).",
       "depth": 1
      },
      {
-      "text": "**Gipoefektiv yurak** sabablari: yuqori arterial bosim, nerv tormozlanishi, aritmiya, koronar okklyuziya (infarkt), klapan va tug’ma nuqsonlar, miokardit, yurak gipoksiyasi.",
+      "text": "**Gipoefektiv yurak** sabablari: yuqori arterial bosim, nerv tormozlanişi, aritmiya, koronar okklyuziya (infarkt), klapan va tuğma nuqsonlar, miokardit, yurak gipoksiyasi.",
       "depth": 0
      }
     ],
@@ -461,23 +461,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Dinitrofenol tajribasi.** Dinitrofenol metabolizmni ~4 marta oshirib, tomirlarni kengaytiradi.",
+      "text": "**Dinitrofenol tajribasi.** Dinitrofenol metabolizmni ~4 marta oşirib, tomirlarni kengaytiradi.",
       "depth": 0
      },
      {
-      "text": "Nerv nazorati ishlaganda bosim deyarli o’zgarmagan, yurak chiqarishi ~4 marta oshgan.",
+      "text": "Nerv nazorati işlaganda bosim deyarli özgarmagan, yurak çiqarişi ~4 marta oşgan.",
       "depth": 1
      },
      {
-      "text": "Vegetativ tizim bloklanganda bosim yarmiga tushgan, yurak chiqarishi faqat 1,6 marta oshgan.",
+      "text": "Vegetativ tizim bloklanganda bosim yarmiga tuşgan, yurak çiqarişi faqat 1,6 marta oşgan.",
       "depth": 1
      },
      {
-      "text": "Xulosa: yuqori yurak chiqarishi uchun bosimni nerv yo’li bilan saqlab turish shart.",
+      "text": "Xulosa: yuqori yurak çiqarişi uçun bosimni nerv yöli bilan saqlab turiş şart.",
       "depth": 1
      },
      {
-      "text": "**Jismoniy mashqda** mushak arteriolalari kengayadi va UPQ kamayadi. Shu bilan birga motor signallar vegetativ markazlarni ham qo’zg’atadi:",
+      "text": "**Jismoniy maşqda** muşak arteriolalari kengayadi va UPQ kamayadi. Şu bilan birga motor signallar vegetativ markazlarni ham qözğatadi:",
       "depth": 0
      },
      {
@@ -485,11 +485,11 @@
       "depth": 1
      },
      {
-      "text": "yurak urishi tezlashadi va qisqarish kuchayadi.",
+      "text": "yurak urişi tezlaşadi va qisqariş kuçayadi.",
       "depth": 1
      },
      {
-      "text": "Bosim normadan yuqoriga chiqadi va yurak chiqarishiga qo’shimcha **30–100%** qo’shadi.",
+      "text": "Bosim normadan yuqoriga çiqadi va yurak çiqarişiga qöşimça **30–100%** qöşadi.",
       "depth": 1
      }
     ],
@@ -498,7 +498,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Patologik yuqori va past yurak chiqarishi",
+    "text": "Patologik yuqori va past yurak çiqarişi",
     "id": "ch20-s-11-patologik-yuqori-va-past-yurak-chiqarishi",
     "bid": "ch20-u11"
    },
@@ -507,11 +507,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Yuqori yurak chiqarishi** deyarli doim UPQ surunkali pasayishidan kelib chiqadi, yurakning ortiqcha qo’zg’alishidan emas:",
+      "text": "**Yuqori yurak çiqarişi** deyarli doim UPQ surunkali pasayişidan kelib çiqadi, yurakning ortiqça qözğalişidan emas:",
       "depth": 0
      },
      {
-      "text": "**Beriberi** (B₁ tanqisligi): to’qimalar oziqni yaxshi ishlata olmaydi va tomirlar kengayadi. UPQ yarmigacha tushadi, yurak chiqarishi 2 marta oshadi.",
+      "text": "**Beriberi** (B₁ tanqisligi): töqimalar oziqni yaxşi işlata olmaydi va tomirlar kengayadi. UPQ yarmigaça tuşadi, yurak çiqarişi 2 marta oşadi.",
       "depth": 1
      },
      {
@@ -519,31 +519,31 @@
       "depth": 1
      },
      {
-      "text": "**Gipertireoz:** metabolizm oshadi, yurak chiqarishi 40–80% oshadi.",
+      "text": "**Gipertireoz:** metabolizm oşadi, yurak çiqarişi 40–80% oşadi.",
       "depth": 1
      },
      {
-      "text": "**Anemiya:** qovushqoqlik kamayadi va O₂ yetkazilishi pasayib, tomirlar kengayadi.",
+      "text": "**Anemiya:** qovuşqoqlik kamayadi va O₂ yetkazilişi pasayib, tomirlar kengayadi.",
       "depth": 1
      },
      {
-      "text": "**Past yurak chiqarishi** ikki sababdan kelib chiqadi.",
+      "text": "**Past yurak çiqarişi** ikki sababdan kelib çiqadi.",
       "depth": 0
      },
      {
-      "text": "**Yurak omillari:** og’ir infarkt, og’ir klapan kasalligi, miokardit, tamponada, metabolik buzilishlar. To’qimalar oziqlanmay qolsa, bu **kardiogen shok** (22-bob).",
+      "text": "**Yurak omillari:** oğir infarkt, oğir klapan kasalligi, miokardit, tamponada, metabolik buzilişlar. Töqimalar oziqlanmay qolsa, bu **kardiogen şok** (22-bob).",
       "depth": 1
      },
      {
-      "text": "**Periferik omillar (venoz qaytish kamayadi):**",
+      "text": "**Periferik omillar (venoz qaytiş kamayadi):**",
       "depth": 1
      },
      {
-      "text": "Qon hajmi kamayishi (qon ketish) — eng ko’p uchraydigan sabab.",
+      "text": "Qon hajmi kamayişi (qon ketiş) — eng köp uçraydigan sabab.",
       "depth": 2
      },
      {
-      "text": "O’tkir venoz kengayish (simpatik faollik to’satdan yo’qolishi, masalan hushdan ketish).",
+      "text": "Ötkir venoz kengayiş (simpatik faollik tösatdan yöqolişi, masalan huşdan ketiş).",
       "depth": 2
      },
      {
@@ -551,15 +551,15 @@
       "depth": 2
      },
      {
-      "text": "To’qima massasi, ayniqsa mushak massasi kamayishi (keksalik, harakatsizlik).",
+      "text": "Töqima massasi, ayniqsa muşak massasi kamayişi (keksalik, harakatsizlik).",
       "depth": 2
      },
      {
-      "text": "Metabolizm pasayishi (uzoq yotish, gipotireoz).",
+      "text": "Metabolizm pasayişi (uzoq yotiş, gipotireoz).",
       "depth": 2
      },
      {
-      "text": "Yurak chiqarishi to’qimalar ehtiyojidan pastga tushsa, bu **qon aylanish shoki** (24-bob). U daqiqalardan soatlargacha bo’lgan vaqtda o’ldirishi mumkin.",
+      "text": "Yurak çiqarişi töqimalar ehtiyojidan pastga tuşsa, bu **qon aylaniş şoki** (24-bob). U daqiqalardan soatlargaça bölgan vaqtda öldirişi mumkin.",
       "depth": 0
      }
     ],
@@ -568,7 +568,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Tashqi bosimning yurak chiqarishi egri chizig’iga ta’siri",
+    "text": "Taşqi bosimning yurak çiqarişi egri çiziğiga ta’siri",
     "id": "ch20-s-13-tashqi-bosimning-yurak-chiqarishi-egri-chizigiga-tasiri",
     "bid": "ch20-u13"
    },
@@ -577,39 +577,39 @@
     "ordered": false,
     "items": [
      {
-      "text": "Normal plevra ichi bosimi ~−4 mm Hg.",
+      "text": "Normal plevra içi bosimi ~−4 mm Hg.",
       "depth": 0
      },
      {
-      "text": "Plevra ichi bosimi −2 ga ko’tarilsa, egri chiziq 2 mm Hg o’ngga siljiydi. +2 ga ko’tarilsa, 6 mm Hg o’ngga siljiydi.",
+      "text": "Plevra içi bosimi −2 ga kötarilsa, egri çiziq 2 mm Hg öngga siljiydi. +2 ga kötarilsa, 6 mm Hg öngga siljiydi.",
       "depth": 0
      },
      {
-      "text": "Siljituvchi omillar:",
+      "text": "Siljituvçi omillar:",
       "depth": 0
      },
      {
-      "text": "Nafas siklidagi o’zgarishlar: oddiy nafasda ±2, zo’r nafasda ±50 mm Hg gacha.",
+      "text": "Nafas siklidagi özgarişlar: oddiy nafasda ±2, zör nafasda ±50 mm Hg gaça.",
       "depth": 1
      },
      {
-      "text": "Manfiy bosim bilan nafas olish egri chiziqni chapga suradi.",
+      "text": "Manfiy bosim bilan nafas oliş egri çiziqni çapga suradi.",
       "depth": 1
      },
      {
-      "text": "Musbat bosimli ventilyatsiya o’ngga suradi.",
+      "text": "Musbat bosimli ventilyatsiya öngga suradi.",
       "depth": 1
      },
      {
-      "text": "Ko’krak qafasini ochish bosimni 0 ga keltiradi va egri chiziqni 4 mm Hg o’ngga suradi.",
+      "text": "Kökrak qafasini oçiş bosimni 0 ga keltiradi va egri çiziqni 4 mm Hg öngga suradi.",
       "depth": 1
      },
      {
-      "text": "**Yurak tamponadasi** egri chiziqni o’ngga suradi. Yuqori qismi ko’proq siljiydi, chunki yurak to’lgani sari tashqi bosim oshadi.",
+      "text": "**Yurak tamponadasi** egri çiziqni öngga suradi. Yuqori qismi köproq siljiydi, çunki yurak tölgani sari taşqi bosim oşadi.",
       "depth": 1
      },
      {
-      "text": "Bir egri chiziq ikkala omilni birga ifodalaydi: nasos samaradorligi va tashqi bosim.",
+      "text": "Bir egri çiziq ikkala omilni birga ifodalaydi: nasos samaradorligi va taşqi bosim.",
       "depth": 0
      }
     ],
@@ -618,13 +618,13 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Venoz qaytish egri chiziqlari",
+    "text": "Venoz qaytiş egri çiziqlari",
     "id": "ch20-s-15-venoz-qaytish-egri-chiziqlari",
     "bid": "ch20-u15"
    },
    {
     "type": "paragraph",
-    "text": "Venoz qaytishga uchta omil ta’sir qiladi:",
+    "text": "Venoz qaytişga uçta omil ta’sir qiladi:",
     "bid": "ch20-u16"
    },
    {
@@ -632,15 +632,15 @@
     "ordered": true,
     "items": [
      {
-      "text": "**O’ng bo’lmacha bosimi** — orqaga qarshi ta’sir qiladi.",
+      "text": "**Öng bölmaça bosimi** — orqaga qarşi ta’sir qiladi.",
       "depth": 0
      },
      {
-      "text": "**O’rtacha sistemik to’lish bosimi (Psf)** — qonni yurakka itaradi.",
+      "text": "**Örtaça sistemik töliş bosimi (Psf)** — qonni yurakka itaradi.",
       "depth": 0
      },
      {
-      "text": "**Venoz qaytishga qarshilik.**",
+      "text": "**Venoz qaytişga qarşilik.**",
       "depth": 0
      }
     ],
@@ -649,7 +649,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Normal egri chiziq",
+    "text": "Normal egri çiziq",
     "id": "ch20-s-18-normal-egri-chiziq",
     "bid": "ch20-u18"
    },
@@ -658,11 +658,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Nerv reflekslari bo’lmasa, o’ng bo’lmacha bosimi **~+7 mm Hg** ga yetganda venoz qaytish 0 ga tushadi. Bu nuqta Psf ga teng.",
+      "text": "Nerv reflekslari bölmasa, öng bölmaça bosimi **~+7 mm Hg** ga yetganda venoz qaytiş 0 ga tuşadi. Bu nuqta Psf ga teng.",
       "depth": 0
      },
      {
-      "text": "O’ng bo’lmacha bosimi <0 bo’lsa, ko’krakka kiruvchi katta venalar puchayib qoladi. ~−2 mm Hg dan pastda **plato** hosil bo’ladi: −20 yoki −50 mm Hg da ham qaytish oshmaydi.",
+      "text": "Öng bölmaça bosimi <0 bölsa, kökrakka kiruvçi katta venalar puçayib qoladi. ~−2 mm Hg dan pastda **plato** hosil böladi: −20 yoki −50 mm Hg da ham qaytiş oşmaydi.",
       "depth": 0
      }
     ],
@@ -671,7 +671,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "O’rtacha to’lish bosimi",
+    "text": "Örtaça töliş bosimi",
     "id": "ch20-s-20-ortacha-tolish-bosimi",
     "bid": "ch20-u20"
    },
@@ -680,31 +680,31 @@
     "ordered": false,
     "items": [
      {
-      "text": "**O’rtacha qon aylanish to’lish bosimi:** yurak to’xtatilgach (masalan, fibrillyatsiya qildirilgach) barcha tomirlarda tenglashgan bosim.",
+      "text": "**Örtaça qon aylaniş töliş bosimi:** yurak töxtatilgaç (masalan, fibrillyatsiya qildirilgaç) barça tomirlarda tenglaşgan bosim.",
       "depth": 0
      },
      {
-      "text": "Qon hajmi ~4000 ml bo’lganda ~0 (bu \"cho’zilmagan\" hajm). 5000 ml da **7 mm Hg**. Undan yuqorida deyarli chiziqli ortadi.",
+      "text": "Qon hajmi ~4000 ml bölganda ~0 (bu “çözilmagan” hajm). 5000 ml da **7 mm Hg**. Undan yuqorida deyarli çiziqli ortadi.",
       "depth": 1
      },
      {
-      "text": "Kuchli simpatik qo’zg’alishda ~14 mm Hg, simpatik to’liq tormozlanganda ~4 mm Hg.",
+      "text": "Kuçli simpatik qözğalişda ~14 mm Hg, simpatik töliq tormozlanganda ~4 mm Hg.",
       "depth": 1
      },
      {
-      "text": "Egri chiziq juda tik: hajm yoki sig’imning ozgina o’zgarishi bosimni ko’p o’zgartiradi.",
+      "text": "Egri çiziq juda tik: hajm yoki siğimning ozgina özgarişi bosimni köp özgartiradi.",
       "depth": 1
      },
      {
-      "text": "**Psf** (faqat katta qon aylanish doirasi uchun) deyarli shu qiymatga teng. Sababi: o’pka qon aylanishining sig’imi katta doiranikidan <1/8, qon hajmi ~1/10.",
+      "text": "**Psf** (faqat katta qon aylaniş doirasi uçun) deyarli şu qiymatga teng. Sababi: öpka qon aylanişining siğimi katta doiranikidan <1/8, qon hajmi ~1/10.",
       "depth": 0
      },
      {
-      "text": "Psf oshsa (masalan, 14), egri chiziq yuqoriga va o’ngga siljiydi. Kamaysa (3,5), pastga va chapga siljiydi.",
+      "text": "Psf oşsa (masalan, 14), egri çiziq yuqoriga va öngga siljiydi. Kamaysa (3,5), pastga va çapga siljiydi.",
       "depth": 0
      },
      {
-      "text": "**Venoz qaytish uchun bosim gradienti** = Psf − o’ng bo’lmacha bosimi. Gradient 0 bo’lsa, oqim ham 0. Shuning uchun yurak qanchalik zaiflashmasin, o’ng bo’lmacha bosimi Psf dan oshmaydi.",
+      "text": "**Venoz qaytiş uçun bosim gradienti** = Psf − öng bölmaça bosimi. Gradient 0 bölsa, oqim ham 0. Şuning uçun yurak qançalik zaiflaşmasin, öng bölmaça bosimi Psf dan oşmaydi.",
       "depth": 0
      }
     ],
@@ -713,13 +713,13 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Venoz qaytishga qarshilik",
+    "text": "Venoz qaytişga qarşilik",
     "id": "ch20-s-22-venoz-qaytishga-qarshilik",
     "bid": "ch20-u22"
    },
    {
     "type": "paragraph",
-    "text": "**Formula:** venoz qaytish = (Psf − o’ng bo’lmacha bosimi) / venoz qaytishga qarshilik.",
+    "text": "**Formula:** venoz qaytiş = (Psf − öng bölmaça bosimi) / venoz qaytişga qarşilik.",
     "bid": "ch20-u23"
    },
    {
@@ -732,15 +732,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Qarshilikning ~2/3 qismini venalar, ~1/3 qismini arteriolalar va mayda arteriyalar beradi.",
+      "text": "Qarşilikning ~2/3 qismini venalar, ~1/3 qismini arteriolalar va mayda arteriyalar beradi.",
       "depth": 0
      },
      {
-      "text": "**Nega venalar muhimroq.** Vena qarshiligi oshsa, qon venalarda to’planadi. Venalar juda cho’ziluvchan, shuning uchun bosim deyarli oshmaydi va qaytish keskin kamayadi. Arteriyalar sig’imi venalarnikidan 30 marta kichik: ularda qon to’plansa, bosim keskin oshib, qarshilikni yengadi.",
+      "text": "**Nega venalar muhimroq.** Vena qarşiligi oşsa, qon venalarda töplanadi. Venalar juda çöziluvçan, şuning uçun bosim deyarli oşmaydi va qaytiş keskin kamayadi. Arteriyalar siğimi venalarnikidan 30 marta kiçik: ularda qon töplansa, bosim keskin oşib, qarşilikni yengadi.",
       "depth": 0
      },
      {
-      "text": "Qarshilik yarmiga tushsa, egri chiziq qiyaligi 2 marta oshadi. Qarshilik 2 marta oshsa, qiyalik yarmiga tushadi. Egri chiziq nolga tushadigan nuqta (Psf) o’zgarmaydi.",
+      "text": "Qarşilik yarmiga tuşsa, egri çiziq qiyaligi 2 marta oşadi. Qarşilik 2 marta oşsa, qiyalik yarmiga tuşadi. Egri çiziq nolga tuşadigan nuqta (Psf) özgarmaydi.",
       "depth": 0
      }
     ],
@@ -749,35 +749,35 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Ikkala egri chiziqni birga tahlil qilish",
+    "text": "Ikkala egri çiziqni birga tahlil qiliş",
     "id": "ch20-s-26-ikkala-egri-chiziqni-birga-tahlil-qilish",
     "bid": "ch20-u26"
    },
    {
     "type": "paragraph",
-    "text": "Yurak chiqarishi va venoz qaytish teng bo’lishi, o’ng bo’lmacha bosimi esa ikkalasi uchun bir xil bo’lishi kerak. Shuning uchun egri chiziqlar kesishgan **muvozanat nuqtasi** (A) holatni belgilaydi. Normada bu nuqtada yurak chiqarishi 5 l/min, o’ng bo’lmacha bosimi 0.",
+    "text": "Yurak çiqarişi va venoz qaytiş teng bölişi, öng bölmaça bosimi esa ikkalasi uçun bir xil bölişi kerak. Şuning uçun egri çiziqlar kesişgan **muvozanat nuqtasi** (A) holatni belgilaydi. Normada bu nuqtada yurak çiqarişi 5 l/min, öng bölmaça bosimi 0.",
     "bid": "ch20-u27"
    },
    {
     "type": "table",
     "header": [
      "Holat",
-     "Nima o’zgaradi",
+     "Nima özgaradi",
      "Natija"
     ],
     "rows": [
      [
       "**Qon hajmi +20%**",
       "Psf 16 ga oshadi, qarshilik kamayadi (tomirlar kengayadi)",
-      "Yurak chiqarishi 2,5–3 marta oshadi, o’ng bo’lmacha bosimi +8"
+      "Yurak chiqarishi 2,5–3 marta oshadi, o‘ng bo‘lmacha bosimi +8"
      ],
      [
-      "**Maksimal simpatik qo’zg’alish**",
+      "**Maksimal simpatik qo‘zg‘alish**",
       "Psf 17 ga oshadi, yurak samaradorligi ~+100%, qarshilik biroz oshadi",
-      "Yurak chiqarishi ~2 marta oshadi, o’ng bo’lmacha bosimi deyarli o’zgarmaydi"
+      "Yurak chiqarishi ~2 marta oshadi, o‘ng bo‘lmacha bosimi deyarli o‘zgarmaydi"
      ],
      [
-      "**To’liq spinal anesteziya** (yoki geksametoniy)",
+      "**To‘liq spinal anesteziya** (yoki geksametoniy)",
       "Psf ~4 ga tushadi, yurak samaradorligi ~80%",
       "Yurak chiqarishi ~60% gacha kamayadi"
      ]
@@ -786,7 +786,7 @@
    },
    {
     "type": "paragraph",
-    "text": "Qon hajmi oshganda yuqori yurak chiqarishi 10–40 daqiqada normaga qaytadi. Uchta kompensatsiya ishlaydi:",
+    "text": "Qon hajmi oşganda yuqori yurak çiqarişi 10–40 daqiqada normaga qaytadi. Uçta kompensatsiya işlaydi:",
     "bid": "ch20-u29"
    },
    {
@@ -794,15 +794,15 @@
     "ordered": true,
     "items": [
      {
-      "text": "Kapillyar bosim oshib, suyuqlik to’qimaga chiqadi.",
+      "text": "Kapillyar bosim oşib, suyuqlik töqimaga çiqadi.",
       "depth": 0
      },
      {
-      "text": "Venalar stress-relaxation bilan cho’ziladi (jigar, taloq), Psf kamayadi.",
+      "text": "Venalar stress-relaxation bilan çöziladi (jigar, taloq), Psf kamayadi.",
       "depth": 0
      },
      {
-      "text": "Autoregulyatsiya tomir qarshiligini oshiradi.",
+      "text": "Autoregulyatsiya tomir qarşiligini oşiradi.",
       "depth": 0
      }
     ],
@@ -811,17 +811,17 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Katta AV fistula ochilganda",
+    "text": "Katta AV fistula oçilganda",
     "id": "ch20-s-31-katta-av-fistula-ochilganda",
     "bid": "ch20-u31"
    },
    {
     "type": "table",
     "header": [
-     "Bosqich",
-     "O’zgarish",
-     "Yurak chiqarishi",
-     "O’ng bo’lmacha bosimi"
+     "Bosqiç",
+     "Özgariş",
+     "Yurak çiqarişi",
+     "Öng bölmaça bosimi"
     ],
     "rows": [
      [
@@ -838,7 +838,7 @@
      ],
      [
       "C (~1 daqiqa)",
-      "Simpatik reflekslar ishga tushadi: Psf 7 dan 9 ga oshadi, yurak qo’zg’aladi",
+      "Simpatik reflekslar ishga tushadi: Psf 7 dan 9 ga oshadi, yurak qo‘zg‘aladi",
       "~16 l/min",
       "~4"
      ],
@@ -854,7 +854,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Yurak chiqarishini o’lchash usullari",
+    "text": "Yurak çiqarişini ölçaş usullari",
     "id": "ch20-s-33-yurak-chiqarishini-olchash-usullari",
     "bid": "ch20-u33"
    },
@@ -863,47 +863,47 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Elektromagnit yoki ultratovush flowmetr** (hayvonlarda): aorta ildizidagi oqim sistolada cho’qqiga chiqadi. Sistola oxirida oqim qisqa vaqt teskari yo’nalib, aorta klapanini yopadi.",
+      "text": "**Elektromagnit yoki ultratovuş flowmetr** (hayvonlarda): aorta ildizidagi oqim sistolada çöqqiga çiqadi. Sistola oxirida oqim qisqa vaqt teskari yönalib, aorta klapanini yopadi.",
       "depth": 0
      },
      {
-      "text": "**Fik printsipi (O₂ bo’yicha):** yurak chiqarishi = o’pkada so’rilgan O₂ (ml/min) / arteriovenoz O₂ farqi (ml/l).",
+      "text": "**Fik printsipi (O₂ böyiça):** yurak çiqarişi = öpkada sörilgan O₂ (ml/min) / arteriovenoz O₂ farqi (ml/l).",
       "depth": 0
      },
      {
-      "text": "Misol: O₂ 200 ml/min so’riladi; venoz qonda 160, arterial qonda 200 ml/l. Farq 40 ml/l, demak 200/40 = 5 l/min.",
+      "text": "Misol: O₂ 200 ml/min söriladi; venoz qonda 160, arterial qonda 200 ml/l. Farq 40 ml/l, demak 200/40 = 5 l/min.",
       "depth": 1
      },
      {
-      "text": "Aralash venoz qon kateter orqali o’ng qorincha yoki o’pka arteriyasidan olinadi. Arterial qon istalgan arteriyadan olinadi.",
+      "text": "Aralaş venoz qon kateter orqali öng qorinça yoki öpka arteriyasidan olinadi. Arterial qon istalgan arteriyadan olinadi.",
       "depth": 1
      },
      {
-      "text": "**Indikator suyultirish usuli:**",
+      "text": "**Indikator suyultiriş usuli:**",
       "depth": 0
      },
      {
-      "text": "Bo’yoq (masalan, 5 mg Cardiogreen) o’ng bo’lmachaga yuboriladi. Arteriyada ~3 s dan keyin paydo bo’ladi, 6–7 s da cho’qqiga chiqadi.",
+      "text": "Böyoq (masalan, 5 mg Cardiogreen) öng bölmaçaga yuboriladi. Arteriyada ~3 s dan keyin paydo böladi, 6–7 s da çöqqiga çiqadi.",
       "depth": 1
      },
      {
-      "text": "Bo’yoq qayta aylanib kelgani uchun egri chiziqning tushuvchi qismi nolgacha davom ettirib (ekstrapolyatsiya) hisoblanadi.",
+      "text": "Böyoq qayta aylanib kelgani uçun egri çiziqning tuşuvçi qismi nolgaça davom ettirib (ekstrapolyatsiya) hisoblanadi.",
       "depth": 1
      },
      {
-      "text": "Formula: yurak chiqarishi (ml/min) = yuborilgan mg × 60 / (o’rtacha konsentratsiya mg/ml × egri chiziq davomiyligi, s).",
+      "text": "Formula: yurak çiqarişi (ml/min) = yuborilgan mg × 60 / (örtaça konsentratsiya mg/ml × egri çiziq davomiyligi, s).",
       "depth": 1
      },
      {
-      "text": "Misol: 5 mg, o’rtacha 0,25 mg/dl, 12 s. Natija 10 l/min.",
+      "text": "Misol: 5 mg, örtaça 0,25 mg/dl, 12 s. Natija 10 l/min.",
       "depth": 1
      },
      {
-      "text": "**Exokardiografiya:** aorta kesimi va qon tezligidan zarba hajmi topiladi. Uni urish tezligiga ko’paytirib yurak chiqarishi olinadi.",
+      "text": "**Exokardiografiya:** aorta kesimi va qon tezligidan zarba hajmi topiladi. Uni uriş tezligiga köpaytirib yurak çiqarişi olinadi.",
       "depth": 0
      },
      {
-      "text": "**Ko’krak elektr bioimpedansi:** har urishdagi impedans o’zgarishi o’lchanadi. Interferensiya, harakat, o’pkadagi suyuqlik va aritmiya xato beradi; xato 20–40% gacha bo’lishi mumkin.",
+      "text": "**Kökrak elektr bioimpedansi:** har urişdagi impedans özgarişi ölçanadi. Interferensiya, harakat, öpkadagi suyuqlik va aritmiya xato beradi; xato 20–40% gaça bölişi mumkin.",
       "depth": 0
      }
     ],
@@ -912,7 +912,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Bog’liqlik",
+    "text": "Boğliqlik",
     "id": "ch20-s-35-bogliqlik",
     "bid": "ch20-u35"
    },
@@ -921,7 +921,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "**9-bob:** Frank–Starling, yurak funksiya egri chiziqlari.",
+      "text": "**9-bob:** Frank–Starling, yurak funksiya egri çiziqlari.",
       "depth": 0
      },
      {
@@ -941,19 +941,19 @@
       "depth": 0
      },
      {
-      "text": "**21-bob:** mashq va koronar oqim.",
+      "text": "**21-bob:** maşq va koronar oqim.",
       "depth": 0
      },
      {
-      "text": "**22-bob:** yurak yetishmovchiligi.",
+      "text": "**22-bob:** yurak yetişmovçiligi.",
       "depth": 0
      },
      {
-      "text": "**24-bob:** shok.",
+      "text": "**24-bob:** şok.",
       "depth": 0
      },
      {
-      "text": "**41-bob:** gaz almashinuvi (Fik).",
+      "text": "**41-bob:** gaz almaşinuvi (Fik).",
       "depth": 0
      },
      {
@@ -975,27 +975,27 @@
     "ordered": false,
     "items": [
      {
-      "text": "Yurak chiqarishi yuqori bo’lgan holatlar: anemiya, gipertireoz, beriberi, AV shunt (masalan, gemodializ fistulasi), homiladorlik.",
+      "text": "Yurak çiqarişi yuqori bölgan holatlar: anemiya, gipertireoz, beriberi, AV shunt (masalan, gemodializ fistulasi), homiladorlik.",
       "depth": 0
      },
      {
-      "text": "**Yurak tamponadasi:** egri chiziq o’ngga siljiydi, yurak chiqarishi tushadi.",
+      "text": "**Yurak tamponadasi:** egri çiziq öngga siljiydi, yurak çiqarişi tuşadi.",
       "depth": 0
      },
      {
-      "text": "Musbat bosimli ventilyatsiya venoz qaytishni kamaytiradi.",
+      "text": "Musbat bosimli ventilyatsiya venoz qaytişni kamaytiradi.",
       "depth": 0
      },
      {
-      "text": "**Spinal anesteziya yoki vazovagal holatda** Psf tushadi va gipotenziya rivojlanadi.",
+      "text": "**Spinal anesteziya yoki vazovagal holatda** Psf tuşadi va gipotenziya rivojlanadi.",
       "depth": 0
      },
      {
-      "text": "Gipovolemiyada asosiy muammo past Psf, shuning uchun suyuqlik va qon quyish qo’llanadi.",
+      "text": "Gipovolemiyada asosiy muammo past Psf, şuning uçun suyuqlik va qon quyiş qöllanadi.",
       "depth": 0
      },
      {
-      "text": "Yurak chiqarishini o’lchashda \"oltin standart\"lar Fik va termodilyutsiya (indikator suyultirish) usullari. Exokardiografiya noinvaziv, impedans esa noaniq.",
+      "text": "Yurak çiqarişini ölçaşda “oltin standart”lar Fik va termodilyutsiya (indikator suyultiriş) usullari. Exokardiografiya noinvaziv, impedans esa noaniq.",
       "depth": 0
      }
     ],
@@ -1825,9 +1825,9 @@
  "glossary": [
   {
    "id": "ch20-t-yurak-chiqarishi",
-   "termUz": "Yurak chiqarishi",
+   "termUz": "Yurak çiqarişi",
    "original": null,
-   "contextUz": "Yurak chiqarishi — yurakning har daqiqada aortaga haydaydigan qon miqdori.",
+   "contextUz": "Yurak çiqarişi — yurakning har daqiqada aortaga haydaydigan qon miqdori.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -1835,9 +1835,9 @@
   },
   {
    "id": "ch20-t-venoz-qaytish",
-   "termUz": "Venoz qaytish",
+   "termUz": "Venoz qaytiş",
    "original": null,
-   "contextUz": "Venoz qaytish — venalardan o’ng bo’lmachaga keladigan qon miqdori.",
+   "contextUz": "Venoz qaytiş — venalardan öng bölmaçaga keladigan qon miqdori.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -1845,9 +1845,9 @@
   },
   {
    "id": "ch20-t-yurakning-ozi-emas-periferik-omillar-venoz-qaytish",
-   "termUz": "yurakning o’zi emas, periferik omillar (venoz qaytish)",
+   "termUz": "yurakning özi emas, periferik omillar (venoz qaytiş)",
    "original": null,
-   "contextUz": "Normal sharoitda yurak chiqarishini yurakning o’zi emas, periferik omillar (venoz qaytish) belgilaydi.",
+   "contextUz": "Normal şaroitda yurak çiqarişini yurakning özi emas, periferik omillar (venoz qaytiş) belgilaydi.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -1857,7 +1857,7 @@
    "id": "ch20-t-frank-starling-mexanizmi",
    "termUz": "Frank–Starling mexanizmi",
    "original": null,
-   "contextUz": "Sababi Frank–Starling mexanizmi: yurak o’ziga kelgan qonni avtomatik haydab beradi.",
+   "contextUz": "Sababi Frank–Starling mexanizmi: yurak öziga kelgan qonni avtomatik haydab beradi.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -1865,9 +1865,9 @@
   },
   {
    "id": "ch20-t-tinch-holatda",
-   "termUz": "Tinch holatda",
+   "termUz": "Tinç holatda",
    "original": null,
-   "contextUz": "Tinch holatda: yosh erkaklarda ~5,6 l/min, ayollarda ~4,9 l/min, kattalarda o’rtacha ~5 l/min.",
+   "contextUz": "Tinç holatda: yoş erkaklarda ~5,6 l/min, ayollarda ~4,9 l/min, kattalarda örtaça ~5 l/min.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -1885,9 +1885,9 @@
   },
   {
    "id": "ch20-t-barcha-toqima-oqimlarining-yigindisi",
-   "termUz": "barcha to’qima oqimlarining yig’indisi",
+   "termUz": "barça töqima oqimlarining yiğindisi",
    "original": null,
-   "contextUz": "Yurak chiqarishi barcha to’qima oqimlarining yig’indisi.",
+   "contextUz": "Yurak çiqarişi barça töqima oqimlarining yiğindisi.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -1907,7 +1907,7 @@
    "id": "ch20-t-giperefektiv-yurak",
    "termUz": "Giperefektiv yurak",
    "original": "kuchliroq nasos",
-   "contextUz": "Giperefektiv yurak (kuchliroq nasos): Simpatik qo’zg’alish va parasimpatik tormozlanish: urish tezligi 72 dan 180–200/min gacha (yoshlarda), qisqarish kuchi 2 marta oshadi.",
+   "contextUz": "Giperefektiv yurak (kuçliroq nasos): Simpatik qözğaliş va parasimpatik tormozlaniş: uriş tezligi 72 dan 180–200/min gaça (yoşlarda), qisqariş kuçi 2 marta oşadi.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -1917,7 +1917,7 @@
    "id": "ch20-t-gipertrofiya",
    "termUz": "Gipertrofiya",
    "original": null,
-   "contextUz": "Gipertrofiya: marafonchilarda yurak massasi 50–75% katta, plato 60–100% yuqori.",
+   "contextUz": "Gipertrofiya: marafonçilarda yurak massasi 50–75% katta, plato 60–100% yuqori.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -1927,7 +1927,7 @@
    "id": "ch20-t-gipoefektiv-yurak",
    "termUz": "Gipoefektiv yurak",
    "original": null,
-   "contextUz": "Gipoefektiv yurak sabablari: yuqori arterial bosim, nerv tormozlanishi, aritmiya, koronar okklyuziya (infarkt), klapan va tug’ma nuqsonlar, miokardit, yurak gipoksiyasi.",
+   "contextUz": "Gipoefektiv yurak sabablari: yuqori arterial bosim, nerv tormozlanişi, aritmiya, koronar okklyuziya (infarkt), klapan va tuğma nuqsonlar, miokardit, yurak gipoksiyasi.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -1937,7 +1937,7 @@
    "id": "ch20-t-dinitrofenol-tajribasi",
    "termUz": "Dinitrofenol tajribasi.",
    "original": null,
-   "contextUz": "Dinitrofenol tajribasi. Dinitrofenol metabolizmni ~4 marta oshirib, tomirlarni kengaytiradi.",
+   "contextUz": "Dinitrofenol tajribasi. Dinitrofenol metabolizmni ~4 marta oşirib, tomirlarni kengaytiradi.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -1945,9 +1945,9 @@
   },
   {
    "id": "ch20-t-jismoniy-mashqda",
-   "termUz": "Jismoniy mashqda",
+   "termUz": "Jismoniy maşqda",
    "original": null,
-   "contextUz": "Jismoniy mashqda mushak arteriolalari kengayadi va UPQ kamayadi.",
+   "contextUz": "Jismoniy maşqda muşak arteriolalari kengayadi va UPQ kamayadi.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -1957,7 +1957,7 @@
    "id": "ch20-t-30-100",
    "termUz": "30–100%",
    "original": null,
-   "contextUz": "Bosim normadan yuqoriga chiqadi va yurak chiqarishiga qo’shimcha 30–100% qo’shadi.",
+   "contextUz": "Bosim normadan yuqoriga çiqadi va yurak çiqarişiga qöşimça 30–100% qöşadi.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -1965,9 +1965,9 @@
   },
   {
    "id": "ch20-t-yuqori-yurak-chiqarishi",
-   "termUz": "Yuqori yurak chiqarishi",
+   "termUz": "Yuqori yurak çiqarişi",
    "original": null,
-   "contextUz": "Yuqori yurak chiqarishi deyarli doim UPQ surunkali pasayishidan kelib chiqadi, yurakning ortiqcha qo’zg’alishidan emas: Beriberi (B₁ tanqisligi): to’qimalar oziqni yaxshi ishlata olmaydi va tomirlar kengayadi.",
+   "contextUz": "Yuqori yurak çiqarişi deyarli doim UPQ surunkali pasayişidan kelib çiqadi, yurakning ortiqça qözğalişidan emas: Beriberi (B₁ tanqisligi): töqimalar oziqni yaxşi işlata olmaydi va tomirlar kengayadi.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -1977,7 +1977,7 @@
    "id": "ch20-t-beriberi",
    "termUz": "Beriberi",
    "original": "B₁ tanqisligi",
-   "contextUz": "Yuqori yurak chiqarishi deyarli doim UPQ surunkali pasayishidan kelib chiqadi, yurakning ortiqcha qo’zg’alishidan emas: Beriberi (B₁ tanqisligi): to’qimalar oziqni yaxshi ishlata olmaydi va tomirlar kengayadi.",
+   "contextUz": "Yuqori yurak çiqarişi deyarli doim UPQ surunkali pasayişidan kelib çiqadi, yurakning ortiqça qözğalişidan emas: Beriberi (B₁ tanqisligi): töqimalar oziqni yaxşi işlata olmaydi va tomirlar kengayadi.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -1987,7 +1987,7 @@
    "id": "ch20-t-av-fistula-shunt",
    "termUz": "AV fistula (shunt).",
    "original": null,
-   "contextUz": "AV fistula (shunt). Gipertireoz: metabolizm oshadi, yurak chiqarishi 40–80% oshadi.",
+   "contextUz": "AV fistula (shunt). Gipertireoz: metabolizm oşadi, yurak çiqarişi 40–80% oşadi.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -1997,7 +1997,7 @@
    "id": "ch20-t-gipertireoz",
    "termUz": "Gipertireoz",
    "original": null,
-   "contextUz": " Gipertireoz: metabolizm oshadi, yurak chiqarishi 40–80% oshadi.",
+   "contextUz": " Gipertireoz: metabolizm oşadi, yurak çiqarişi 40–80% oşadi.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -2007,7 +2007,7 @@
    "id": "ch20-t-anemiya",
    "termUz": "Anemiya",
    "original": null,
-   "contextUz": "Anemiya: qovushqoqlik kamayadi va O₂ yetkazilishi pasayib, tomirlar kengayadi.",
+   "contextUz": "Anemiya: qovuşqoqlik kamayadi va O₂ yetkazilişi pasayib, tomirlar kengayadi.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -2015,9 +2015,9 @@
   },
   {
    "id": "ch20-t-past-yurak-chiqarishi",
-   "termUz": "Past yurak chiqarishi",
+   "termUz": "Past yurak çiqarişi",
    "original": null,
-   "contextUz": "Past yurak chiqarishi ikki sababdan kelib chiqadi.",
+   "contextUz": "Past yurak çiqarişi ikki sababdan kelib çiqadi.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -2027,7 +2027,7 @@
    "id": "ch20-t-yurak-omillari",
    "termUz": "Yurak omillari",
    "original": null,
-   "contextUz": "Yurak omillari: og’ir infarkt, og’ir klapan kasalligi, miokardit, tamponada, metabolik buzilishlar.",
+   "contextUz": "Yurak omillari: oğir infarkt, oğir klapan kasalligi, miokardit, tamponada, metabolik buzilişlar.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -2035,9 +2035,9 @@
   },
   {
    "id": "ch20-t-kardiogen-shok",
-   "termUz": "kardiogen shok",
+   "termUz": "kardiogen şok",
    "original": "22-bob",
-   "contextUz": "To’qimalar oziqlanmay qolsa, bu kardiogen shok (22-bob).",
+   "contextUz": "Töqimalar oziqlanmay qolsa, bu kardiogen şok (22-bob).",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -2045,9 +2045,9 @@
   },
   {
    "id": "ch20-t-periferik-omillar-venoz-qaytish-kamayadi",
-   "termUz": "Periferik omillar (venoz qaytish kamayadi)",
+   "termUz": "Periferik omillar (venoz qaytiş kamayadi)",
    "original": null,
-   "contextUz": "Periferik omillar (venoz qaytish kamayadi): Qon hajmi kamayishi (qon ketish) — eng ko’p uchraydigan sabab.",
+   "contextUz": "Periferik omillar (venoz qaytiş kamayadi): Qon hajmi kamayişi (qon ketiş) — eng köp uçraydigan sabab.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -2055,9 +2055,9 @@
   },
   {
    "id": "ch20-t-qon-aylanish-shoki",
-   "termUz": "qon aylanish shoki",
+   "termUz": "qon aylaniş şoki",
    "original": "24-bob",
-   "contextUz": "Yurak chiqarishi to’qimalar ehtiyojidan pastga tushsa, bu qon aylanish shoki (24-bob).",
+   "contextUz": "Yurak çiqarişi töqimalar ehtiyojidan pastga tuşsa, bu qon aylaniş şoki (24-bob).",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -2067,7 +2067,7 @@
    "id": "ch20-t-yurak-tamponadasi",
    "termUz": "Yurak tamponadasi",
    "original": null,
-   "contextUz": "Yurak tamponadasi egri chiziqni o’ngga suradi.",
+   "contextUz": "Yurak tamponadasi egri çiziqni öngga suradi.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -2075,9 +2075,9 @@
   },
   {
    "id": "ch20-t-ong-bolmacha-bosimi",
-   "termUz": "O’ng bo’lmacha bosimi",
+   "termUz": "Öng bölmaça bosimi",
    "original": null,
-   "contextUz": "O’ng bo’lmacha bosimi — orqaga qarshi ta’sir qiladi.",
+   "contextUz": "Öng bölmaça bosimi — orqaga qarşi ta’sir qiladi.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -2085,9 +2085,9 @@
   },
   {
    "id": "ch20-t-ortacha-sistemik-tolish-bosimi-psf",
-   "termUz": "O’rtacha sistemik to’lish bosimi (Psf)",
+   "termUz": "Örtaça sistemik töliş bosimi (Psf)",
    "original": null,
-   "contextUz": "O’rtacha sistemik to’lish bosimi (Psf) — qonni yurakka itaradi.",
+   "contextUz": "Örtaça sistemik töliş bosimi (Psf) — qonni yurakka itaradi.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -2095,9 +2095,9 @@
   },
   {
    "id": "ch20-t-venoz-qaytishga-qarshilik",
-   "termUz": "Venoz qaytishga qarshilik.",
+   "termUz": "Venoz qaytişga qarşilik.",
    "original": null,
-   "contextUz": "Venoz qaytishga qarshilik.",
+   "contextUz": "Venoz qaytişga qarşilik.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -2107,7 +2107,7 @@
    "id": "ch20-t-7-mm-hg",
    "termUz": "~+7 mm Hg",
    "original": null,
-   "contextUz": "Nerv reflekslari bo’lmasa, o’ng bo’lmacha bosimi ~+7 mm Hg ga yetganda venoz qaytish 0 ga tushadi.",
+   "contextUz": "Nerv reflekslari bölmasa, öng bölmaça bosimi ~+7 mm Hg ga yetganda venoz qaytiş 0 ga tuşadi.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -2117,7 +2117,7 @@
    "id": "ch20-t-plato",
    "termUz": "plato",
    "original": null,
-   "contextUz": "~−2 mm Hg dan pastda plato hosil bo’ladi: −20 yoki −50 mm Hg da ham qaytish oshmaydi.",
+   "contextUz": "~−2 mm Hg dan pastda plato hosil böladi: −20 yoki −50 mm Hg da ham qaytiş oşmaydi.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -2125,9 +2125,9 @@
   },
   {
    "id": "ch20-t-ortacha-qon-aylanish-tolish-bosimi",
-   "termUz": "O’rtacha qon aylanish to’lish bosimi",
+   "termUz": "Örtaça qon aylaniş töliş bosimi",
    "original": null,
-   "contextUz": "O’rtacha qon aylanish to’lish bosimi: yurak to’xtatilgach (masalan, fibrillyatsiya qildirilgach) barcha tomirlarda tenglashgan bosim.",
+   "contextUz": "Örtaça qon aylaniş töliş bosimi: yurak töxtatilgaç (masalan, fibrillyatsiya qildirilgaç) barça tomirlarda tenglaşgan bosim.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -2147,7 +2147,7 @@
    "id": "ch20-t-psf",
    "termUz": "Psf",
    "original": "faqat katta qon aylanish doirasi uchun",
-   "contextUz": "Psf (faqat katta qon aylanish doirasi uchun) deyarli shu qiymatga teng.",
+   "contextUz": "Psf (faqat katta qon aylaniş doirasi uçun) deyarli şu qiymatga teng.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -2155,9 +2155,9 @@
   },
   {
    "id": "ch20-t-venoz-qaytish-uchun-bosim-gradienti",
-   "termUz": "Venoz qaytish uchun bosim gradienti",
+   "termUz": "Venoz qaytiş uçun bosim gradienti",
    "original": null,
-   "contextUz": "Venoz qaytish uchun bosim gradienti = Psf − o’ng bo’lmacha bosimi.",
+   "contextUz": "Venoz qaytiş uçun bosim gradienti = Psf − öng bölmaça bosimi.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -2167,7 +2167,7 @@
    "id": "ch20-t-formula",
    "termUz": "Formula",
    "original": null,
-   "contextUz": "Formula: venoz qaytish = (Psf − o’ng bo’lmacha bosimi) / venoz qaytishga qarshilik.",
+   "contextUz": "Formula: venoz qaytiş = (Psf − öng bölmaça bosimi) / venoz qaytişga qarşilik.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -2177,7 +2177,7 @@
    "id": "ch20-t-nega-venalar-muhimroq",
    "termUz": "Nega venalar muhimroq.",
    "original": null,
-   "contextUz": "Nega venalar muhimroq. Vena qarshiligi oshsa, qon venalarda to’planadi.",
+   "contextUz": "Nega venalar muhimroq. Vena qarşiligi oşsa, qon venalarda töplanadi.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -2187,7 +2187,7 @@
    "id": "ch20-t-muvozanat-nuqtasi",
    "termUz": "muvozanat nuqtasi",
    "original": null,
-   "contextUz": "Shuning uchun egri chiziqlar kesishgan muvozanat nuqtasi (A) holatni belgilaydi.",
+   "contextUz": "Şuning uçun egri çiziqlar kesişgan muvozanat nuqtasi (A) holatni belgilaydi.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -2197,7 +2197,7 @@
    "id": "ch20-t-qon-hajmi-20",
    "termUz": "Qon hajmi +20%",
    "original": null,
-   "contextUz": "Holat Nima o’zgaradi Natija Qon hajmi +20% Psf 16 ga oshadi, qarshilik kamayadi (tomirlar kengayadi) Yurak chiqarishi 2,5–3 marta oshadi, o’ng bo’lmacha bosimi +8 Maksimal simpatik qo’zg’alish Psf 17 ga oshadi, yurak samaradorligi ~+100%, qarshilik biroz oshadi Yurak chiqarishi ~2 marta oshadi, o’ng bo’lmacha bosimi deyarli o’zgarmaydi To’liq spinal anesteziya (yoki geksametoniy) Psf ~",
+   "contextUz": "Holat Nima özgaradi Natija Qon hajmi +20% Psf 16 ga oşadi, qarşilik kamayadi (tomirlar kengayadi) Yurak çiqarişi 2,5–3 marta oşadi, öng bölmaça bosimi +8 Maksimal simpatik qözğaliş Psf 17 ga oşadi, yurak samaradorligi ~+100%, qarşilik biroz oşadi Yurak çiqarişi ~2 marta oşadi, öng bölmaça bosimi deyarli özgarmaydi Töliq spinal anesteziya (yoki geksametoniy) Psf ~",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -2205,9 +2205,9 @@
   },
   {
    "id": "ch20-t-maksimal-simpatik-qozgalish",
-   "termUz": "Maksimal simpatik qo’zg’alish",
+   "termUz": "Maksimal simpatik qözğaliş",
    "original": null,
-   "contextUz": "Holat Nima o’zgaradi Natija Qon hajmi +20% Psf 16 ga oshadi, qarshilik kamayadi (tomirlar kengayadi) Yurak chiqarishi 2,5–3 marta oshadi, o’ng bo’lmacha bosimi +8 Maksimal simpatik qo’zg’alish Psf 17 ga oshadi, yurak samaradorligi ~+100%, qarshilik biroz oshadi Yurak chiqarishi ~2 marta oshadi, o’ng bo’lmacha bosimi deyarli o’zgarmaydi To’liq spinal anesteziya (yoki geksametoniy) Psf ~",
+   "contextUz": "Holat Nima özgaradi Natija Qon hajmi +20% Psf 16 ga oşadi, qarşilik kamayadi (tomirlar kengayadi) Yurak çiqarişi 2,5–3 marta oşadi, öng bölmaça bosimi +8 Maksimal simpatik qözğaliş Psf 17 ga oşadi, yurak samaradorligi ~+100%, qarşilik biroz oşadi Yurak çiqarişi ~2 marta oşadi, öng bölmaça bosimi deyarli özgarmaydi Töliq spinal anesteziya (yoki geksametoniy) Psf ~",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -2215,9 +2215,9 @@
   },
   {
    "id": "ch20-t-toliq-spinal-anesteziya",
-   "termUz": "To’liq spinal anesteziya",
+   "termUz": "Töliq spinal anesteziya",
    "original": "yoki geksametoniy",
-   "contextUz": "Holat Nima o’zgaradi Natija Qon hajmi +20% Psf 16 ga oshadi, qarshilik kamayadi (tomirlar kengayadi) Yurak chiqarishi 2,5–3 marta oshadi, o’ng bo’lmacha bosimi +8 Maksimal simpatik qo’zg’alish Psf 17 ga oshadi, yurak samaradorligi ~+100%, qarshilik biroz oshadi Yurak chiqarishi ~2 marta oshadi, o’ng bo’lmacha bosimi deyarli o’zgarmaydi To’liq spinal anesteziya (yoki geksametoniy) Psf ~",
+   "contextUz": "Holat Nima özgaradi Natija Qon hajmi +20% Psf 16 ga oşadi, qarşilik kamayadi (tomirlar kengayadi) Yurak çiqarişi 2,5–3 marta oşadi, öng bölmaça bosimi +8 Maksimal simpatik qözğaliş Psf 17 ga oşadi, yurak samaradorligi ~+100%, qarşilik biroz oşadi Yurak çiqarişi ~2 marta oşadi, öng bölmaça bosimi deyarli özgarmaydi Töliq spinal anesteziya (yoki geksametoniy) Psf ~",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -2225,9 +2225,9 @@
   },
   {
    "id": "ch20-t-elektromagnit-yoki-ultratovush-flowmetr",
-   "termUz": "Elektromagnit yoki ultratovush flowmetr",
+   "termUz": "Elektromagnit yoki ultratovuş flowmetr",
    "original": "hayvonlarda",
-   "contextUz": "Elektromagnit yoki ultratovush flowmetr (hayvonlarda): aorta ildizidagi oqim sistolada cho’qqiga chiqadi.",
+   "contextUz": "Elektromagnit yoki ultratovuş flowmetr (hayvonlarda): aorta ildizidagi oqim sistolada çöqqiga çiqadi.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -2235,9 +2235,9 @@
   },
   {
    "id": "ch20-t-fik-printsipi-o-boyicha",
-   "termUz": "Fik printsipi (O₂ bo’yicha)",
+   "termUz": "Fik printsipi (O₂ böyiça)",
    "original": null,
-   "contextUz": "Fik printsipi (O₂ bo’yicha): yurak chiqarishi = o’pkada so’rilgan O₂ (ml/min) / arteriovenoz O₂ farqi (ml/l).",
+   "contextUz": "Fik printsipi (O₂ böyiça): yurak çiqarişi = öpkada sörilgan O₂ (ml/min) / arteriovenoz O₂ farqi (ml/l).",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -2245,9 +2245,9 @@
   },
   {
    "id": "ch20-t-indikator-suyultirish-usuli",
-   "termUz": "Indikator suyultirish usuli",
+   "termUz": "Indikator suyultiriş usuli",
    "original": null,
-   "contextUz": "Indikator suyultirish usuli: Bo’yoq (masalan, 5 mg Cardiogreen) o’ng bo’lmachaga yuboriladi.",
+   "contextUz": "Indikator suyultiriş usuli: Böyoq (masalan, 5 mg Cardiogreen) öng bölmaçaga yuboriladi.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -2265,9 +2265,9 @@
   },
   {
    "id": "ch20-t-kokrak-elektr-bioimpedansi",
-   "termUz": "Ko’krak elektr bioimpedansi",
+   "termUz": "Kökrak elektr bioimpedansi",
    "original": null,
-   "contextUz": "Ko’krak elektr bioimpedansi: har urishdagi impedans o’zgarishi o’lchanadi.",
+   "contextUz": "Kökrak elektr bioimpedansi: har urişdagi impedans özgarişi ölçanadi.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",
@@ -2277,7 +2277,7 @@
    "id": "ch20-t-spinal-anesteziya-yoki-vazovagal-holatda",
    "termUz": "Spinal anesteziya yoki vazovagal holatda",
    "original": null,
-   "contextUz": "Spinal anesteziya yoki vazovagal holatda Psf tushadi va gipotenziya rivojlanadi.",
+   "contextUz": "Spinal anesteziya yoki vazovagal holatda Psf tuşadi va gipotenziya rivojlanadi.",
    "lessonId": "ch20",
    "topicId": "04",
    "source": "summaryUz",

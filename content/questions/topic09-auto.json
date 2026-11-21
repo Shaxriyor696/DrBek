@@ -1,0 +1,803 @@
+{
+ "origin": "Claude (DrStudy sessiyasi) — kitobning özbekça izohlari (Guyton & Hall, 14-naşr) asosida, 2026-11-17. Ekspert tekşiruvi kerak.",
+ "questions": [
+  {
+   "id": "q09-c46-01",
+   "version": 1,
+   "topicId": "09",
+   "lessonId": "ch46",
+   "stem": "Markaziy nerv tizimida taxminan qança neyron bor?",
+   "options": [
+    {
+     "id": "q09-c46-01-a",
+     "text": "80–100 milliard"
+    },
+    {
+     "id": "q09-c46-01-b",
+     "text": "10 million"
+    },
+    {
+     "id": "q09-c46-01-c",
+     "text": "1–2 milliard"
+    },
+    {
+     "id": "q09-c46-01-d",
+     "text": "1 trillion dan ortiq"
+    }
+   ],
+   "answerOptionId": "q09-c46-01-a",
+   "explanation": "MNS da 80–100 milliard neyron bor; bitta neyronda 200 000 gaça sinaps bölişi mumkin.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch46",
+    "topicId": "09",
+    "blockId": "ch46-u5",
+    "printedPage": 536,
+    "pdfPage": 541,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q09-c46-02",
+   "version": 1,
+   "topicId": "09",
+   "lessonId": "ch46",
+   "stem": "Postsinaptik neyronda harakat potensiali qayerda hosil böladi?",
+   "options": [
+    {
+     "id": "q09-c46-02-a",
+     "text": "Akson boşlanğiç segmentida"
+    },
+    {
+     "id": "q09-c46-02-b",
+     "text": "Presinaptik terminalda"
+    },
+    {
+     "id": "q09-c46-02-c",
+     "text": "Dendrit uçlarida"
+    },
+    {
+     "id": "q09-c46-02-d",
+     "text": "Sinaptik yoriqda"
+    }
+   ],
+   "answerOptionId": "q09-c46-02-a",
+   "explanation": "Neyron EPSP va IPSP larni jamlaydi va akson boşlanğiç segmentida AP çiqaradi yoki çiqarmaydi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch46",
+    "topicId": "09",
+    "blockId": "ch46-u3",
+    "printedPage": 536,
+    "pdfPage": 541,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q09-c46-03",
+   "version": 1,
+   "topicId": "09",
+   "lessonId": "ch46",
+   "stem": "Kimyoviy sinapsning asosiy xususiyati nima?",
+   "options": [
+    {
+     "id": "q09-c46-03-a",
+     "text": "Signalni faqat bir tomonga ötkazadi"
+    },
+    {
+     "id": "q09-c46-03-b",
+     "text": "Faqat tormozlovçi ta’sir beradi"
+    },
+    {
+     "id": "q09-c46-03-c",
+     "text": "Mediatorsiz işlaydi"
+    },
+    {
+     "id": "q09-c46-03-d",
+     "text": "Signalni ikki tomonga teng ötkazadi"
+    }
+   ],
+   "answerOptionId": "q09-c46-03-a",
+   "explanation": "Kimyoviy sinaps signalni presinaptik neyrondan postsinaptik neyronga bir yönalişda ötkazadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch46",
+    "topicId": "09",
+    "blockId": "ch46-u3",
+    "printedPage": 536,
+    "pdfPage": 541,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q09-c46-04",
+   "version": 1,
+   "topicId": "09",
+   "lessonId": "ch46",
+   "stem": "Sezgi ma’lumotlarining qança qismi ahamiyatsiz deb taşlab yuboriladi?",
+   "options": [
+    {
+     "id": "q09-c46-04-a",
+     "text": "~50%"
+    },
+    {
+     "id": "q09-c46-04-b",
+     "text": ">99%"
+    },
+    {
+     "id": "q09-c46-04-c",
+     "text": "~10%"
+    },
+    {
+     "id": "q09-c46-04-d",
+     "text": "Heç biri"
+    }
+   ],
+   "answerOptionId": "q09-c46-04-b",
+   "explanation": "Kiyim tegişi, örindiq bosimi, fon şovqini kabi ma’lumotlarning >99% i taşlanadi; muhimlari integrativ sohalarga yönaltiriladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch46",
+    "topicId": "09",
+    "blockId": "ch46-u12",
+    "printedPage": 536,
+    "pdfPage": 541,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q09-c46-05",
+   "version": 1,
+   "topicId": "09",
+   "lessonId": "ch46",
+   "stem": "Xotira sinaps darajasida qanday mexanizmga asoslangan?",
+   "options": [
+    {
+     "id": "q09-c46-05-a",
+     "text": "Signal bir xil sinapslar ketma-ketligidan köp ötgan sari ular yengillaşadi (fasilitatsiya)"
+    },
+    {
+     "id": "q09-c46-05-b",
+     "text": "Faqat orqa miyada saqlanadi"
+    },
+    {
+     "id": "q09-c46-05-c",
+     "text": "Sinapslar soni kamayadi"
+    },
+    {
+     "id": "q09-c46-05-d",
+     "text": "Har bir xotira uçun yangi neyron hosil böladi"
+    }
+   ],
+   "answerOptionId": "q09-c46-05-a",
+   "explanation": "Fasilitatsiya tufayli miya keyinçalik şu yölni içkaridan qözğata oladi va sezgi xotira sifatida qayta his qilinadi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch46",
+    "topicId": "09",
+    "blockId": "ch46-u14",
+    "printedPage": 536,
+    "pdfPage": 541,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q09-c47-01",
+   "version": 1,
+   "topicId": "09",
+   "lessonId": "ch47",
+   "stem": "\"Labeled line\" (belgilangan yöl) tamoyili nimani bildiradi?",
+   "options": [
+    {
+     "id": "q09-c47-01-a",
+     "text": "Sezgi faqat stimul kuçiga boğliq"
+    },
+    {
+     "id": "q09-c47-01-b",
+     "text": "Kuçli stimul har doim oğriq beradi"
+    },
+    {
+     "id": "q09-c47-01-c",
+     "text": "Sezgi turi stimulga emas, tola MNSning qaysi joyida tugaşiga boğliq"
+    },
+    {
+     "id": "q09-c47-01-d",
+     "text": "Har bir retseptor barça stimullarga bir xil sezgir"
+    }
+   ],
+   "answerOptionId": "q09-c47-01-c",
+   "explanation": "Oğriq tolasi qanday qözğatilmasin (elektr, issiqlik, eziş) — oğriq sezgisi beradi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch47",
+    "topicId": "09",
+    "blockId": "ch47-u4",
+    "printedPage": 553,
+    "pdfPage": 558,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q09-c47-02",
+   "version": 1,
+   "topicId": "09",
+   "lessonId": "ch47",
+   "stem": "Qaysi retseptorlar elektromagnit retseptorlarga kiradi?",
+   "options": [
+    {
+     "id": "q09-c47-02-a",
+     "text": "Karotid tanaçalari"
+    },
+    {
+     "id": "q09-c47-02-b",
+     "text": "Pacinian tanaçalari"
+    },
+    {
+     "id": "q09-c47-02-c",
+     "text": "Tayoqçalar va kolbaçalar"
+    },
+    {
+     "id": "q09-c47-02-d",
+     "text": "Muşak duklari"
+    }
+   ],
+   "answerOptionId": "q09-c47-02-c",
+   "explanation": "Elektromagnit (yoruğlik) retseptorlari — köz tör pardasidagi tayoqça va kolbaçalar.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch47",
+    "topicId": "09",
+    "blockId": "ch47-u3",
+    "printedPage": 553,
+    "pdfPage": 558,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q09-c47-03",
+   "version": 1,
+   "topicId": "09",
+   "lessonId": "ch47",
+   "stem": "Retseptor potensialining kuçi qanday kodlanadi?",
+   "options": [
+    {
+     "id": "q09-c47-03-a",
+     "text": "Harakat potensiallari çastotasi bilan — bösağadan qança yuqori bölsa, çastota şunça katta"
+    },
+    {
+     "id": "q09-c47-03-b",
+     "text": "Faqat bitta AP bilan"
+    },
+    {
+     "id": "q09-c47-03-c",
+     "text": "AP davomiyligi bilan"
+    },
+    {
+     "id": "q09-c47-03-d",
+     "text": "AP amplitudasi bilan"
+    }
+   ],
+   "answerOptionId": "q09-c47-03-a",
+   "explanation": "Retseptor potensiali bösağadan oşsa AP lar boşlanadi; uning kattaligi AP çastotasini belgilaydi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch47",
+    "topicId": "09",
+    "blockId": "ch47-u7",
+    "printedPage": 553,
+    "pdfPage": 558,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q09-c47-04",
+   "version": 1,
+   "topicId": "09",
+   "lessonId": "ch47",
+   "stem": "Qaysi retseptorlar eng tez adaptatsiyalanadi?",
+   "options": [
+    {
+     "id": "q09-c47-04-a",
+     "text": "Muşak duklari"
+    },
+    {
+     "id": "q09-c47-04-b",
+     "text": "Pacinian tanaçalari"
+    },
+    {
+     "id": "q09-c47-04-c",
+     "text": "Oğriq retseptorlari"
+    },
+    {
+     "id": "q09-c47-04-d",
+     "text": "Baroretseptorlar"
+    }
+   ],
+   "answerOptionId": "q09-c47-04-b",
+   "explanation": "Pacinian soniyaning yuzdan birlarida adaptatsiyalanadi; oğriq va xemoretseptorlar deyarli adaptatsiyalanmaydi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch47",
+    "topicId": "09",
+    "blockId": "ch47-u9",
+    "printedPage": 553,
+    "pdfPage": 558,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q09-c47-05",
+   "version": 1,
+   "topicId": "09",
+   "lessonId": "ch47",
+   "stem": "Qaysi retseptorlar tonik (sekin adaptatsiyalanuvçi) hisoblanadi?",
+   "options": [
+    {
+     "id": "q09-c47-05-a",
+     "text": "Muşak duklari, Golgi pay organlari, oğriq retseptorlari, baroretseptorlar"
+    },
+    {
+     "id": "q09-c47-05-b",
+     "text": "Pacinian tanaçalari va tuk retseptorlari"
+    },
+    {
+     "id": "q09-c47-05-c",
+     "text": "Barça teri retseptorlari"
+    },
+    {
+     "id": "q09-c47-05-d",
+     "text": "Faqat Meissner tanaçalari"
+    }
+   ],
+   "answerOptionId": "q09-c47-05-a",
+   "explanation": "Tonik retseptorlar tana holatini uzluksiz xabar qiladi; fazik retseptorlar (Pacinian) esa faqat özgarişga javob beradi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch47",
+    "topicId": "09",
+    "blockId": "ch47-u9",
+    "printedPage": 553,
+    "pdfPage": 558,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q09-c48-01",
+   "version": 1,
+   "topicId": "09",
+   "lessonId": "ch48",
+   "stem": "Dorsal column–medial lemniscal tizimning xususiyati qaysi?",
+   "options": [
+    {
+     "id": "q09-c48-01-a",
+     "text": "Faqat oğriq va haroratni uzatadi"
+    },
+    {
+     "id": "q09-c48-01-b",
+     "text": "Sekin va qöpol, köp turdagi sezgilarni uzatadi"
+    },
+    {
+     "id": "q09-c48-01-c",
+     "text": "Faqat içki a’zolardan signal uzatadi"
+    },
+    {
+     "id": "q09-c48-01-d",
+     "text": "Tez, aniq lokalizatsiya va kuçni nozik farqlaydi"
+    }
+   ],
+   "answerOptionId": "q09-c48-01-d",
+   "explanation": "Anterolateral tizim esa sekin va qöpol, lekin oğriq, harorat kabi köp turdagi sezgilarni uzatadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch48",
+    "topicId": "09",
+    "blockId": "ch48-u2",
+    "printedPage": 565,
+    "pdfPage": 570,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q09-c48-02",
+   "version": 1,
+   "topicId": "09",
+   "lessonId": "ch48",
+   "stem": "Qaysi retseptor doimiy teginişni bildiradi (sekin adaptatsiyalanadi)?",
+   "options": [
+    {
+     "id": "q09-c48-02-a",
+     "text": "Meissner tanaçasi"
+    },
+    {
+     "id": "q09-c48-02-b",
+     "text": "Pacinian tanaçasi"
+    },
+    {
+     "id": "q09-c48-02-c",
+     "text": "Merkel disklari"
+    },
+    {
+     "id": "q09-c48-02-d",
+     "text": "Tuk end-organi"
+    }
+   ],
+   "answerOptionId": "q09-c48-02-c",
+   "explanation": "Merkel disklari avval kuçli, keyin sekin adaptatsiyalanuvçi uzluksiz signal beradi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch48",
+    "topicId": "09",
+    "blockId": "ch48-u6",
+    "printedPage": 565,
+    "pdfPage": 570,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q09-c48-03",
+   "version": 1,
+   "topicId": "09",
+   "lessonId": "ch48",
+   "stem": "Pacinian tanaçalari qaysi çastotadagi vibratsiyani sezadi?",
+   "options": [
+    {
+     "id": "q09-c48-03-a",
+     "text": "30–800 Hz"
+    },
+    {
+     "id": "q09-c48-03-b",
+     "text": "0,1–1 Hz"
+    },
+    {
+     "id": "q09-c48-03-c",
+     "text": "5000–10 000 Hz"
+    },
+    {
+     "id": "q09-c48-03-d",
+     "text": "2–80 Hz"
+    }
+   ],
+   "answerOptionId": "q09-c48-03-a",
+   "explanation": "Pacinian 30–800 Hz, Meissner esa 2–80 Hz (past çastotali) vibratsiyani sezadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch48",
+    "topicId": "09",
+    "blockId": "ch48-u10",
+    "printedPage": 565,
+    "pdfPage": 570,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q09-c48-04",
+   "version": 1,
+   "topicId": "09",
+   "lessonId": "ch48",
+   "stem": "Qitiq va qiçişiş signallari qaysi tolalar orqali uzatiladi?",
+   "options": [
+    {
+     "id": "q09-c48-04-a",
+     "text": "Aδ tolalar"
+    },
+    {
+     "id": "q09-c48-04-b",
+     "text": "C tolalar"
+    },
+    {
+     "id": "q09-c48-04-c",
+     "text": "Aβ tolalar"
+    },
+    {
+     "id": "q09-c48-04-d",
+     "text": "Aα tolalar"
+    }
+   ],
+   "answerOptionId": "q09-c48-04-b",
+   "explanation": "Qitiqni terining yuza qatlamidagi erkin uçlar sezadi va u ingiçka C tolalar (2 m/s gaça) orqali uzatiladi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch48",
+    "topicId": "09",
+    "blockId": "ch48-u10",
+    "printedPage": 565,
+    "pdfPage": 570,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q09-c48-05",
+   "version": 1,
+   "topicId": "09",
+   "lessonId": "ch48",
+   "stem": "Korneada (şox pardada) qanday retseptorlar bor?",
+   "options": [
+    {
+     "id": "q09-c48-05-a",
+     "text": "Merkel disklari"
+    },
+    {
+     "id": "q09-c48-05-b",
+     "text": "Faqat erkin nerv uçlari"
+    },
+    {
+     "id": "q09-c48-05-c",
+     "text": "Meissner tanaçalari"
+    },
+    {
+     "id": "q09-c48-05-d",
+     "text": "Pacinian tanaçalari"
+    }
+   ],
+   "answerOptionId": "q09-c48-05-b",
+   "explanation": "Korneada faqat erkin nerv uçlari bor, lekin ular teginiş va bosimni ham sezadi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch48",
+    "topicId": "09",
+    "blockId": "ch48-u6",
+    "printedPage": 565,
+    "pdfPage": 570,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q09-c49-01",
+   "version": 1,
+   "topicId": "09",
+   "lessonId": "ch49",
+   "stem": "Tez oğriq stimuldan keyin qança vaqtda seziladi?",
+   "options": [
+    {
+     "id": "q09-c49-01-a",
+     "text": "~1 daqiqadan keyin"
+    },
+    {
+     "id": "q09-c49-01-b",
+     "text": "~0,1 s içida"
+    },
+    {
+     "id": "q09-c49-01-c",
+     "text": "≥1 s dan keyin"
+    },
+    {
+     "id": "q09-c49-01-d",
+     "text": "Bir neça soatdan keyin"
+    }
+   ],
+   "answerOptionId": "q09-c49-01-b",
+   "explanation": "Tez oğriq ~0,1 s da seziladi; sekin oğriq ≥1 s dan keyin boşlanib soniyalar-daqiqalar davomida kuçayadi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch49",
+    "topicId": "09",
+    "blockId": "ch49-u4",
+    "printedPage": 578,
+    "pdfPage": 583,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q09-c49-02",
+   "version": 1,
+   "topicId": "09",
+   "lessonId": "ch49",
+   "stem": "Oğriq retseptorlarining asosiy xususiyati nima?",
+   "options": [
+    {
+     "id": "q09-c49-02-a",
+     "text": "Faqat çuqur töqimalarda joylaşgan"
+    },
+    {
+     "id": "q09-c49-02-b",
+     "text": "Juda tez adaptatsiyalanadi"
+    },
+    {
+     "id": "q09-c49-02-c",
+     "text": "Faqat mexanik stimulga javob beradi"
+    },
+    {
+     "id": "q09-c49-02-d",
+     "text": "Deyarli adaptatsiyalanmaydi, aksinça sezgirlik oşib boradi (giperalgeziya)"
+    }
+   ],
+   "answerOptionId": "q09-c49-02-d",
+   "explanation": "Şu tufayli oğriq zararli stimul davom etgunça xabar berib turadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch49",
+    "topicId": "09",
+    "blockId": "ch49-u8",
+    "printedPage": 578,
+    "pdfPage": 583,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q09-c49-03",
+   "version": 1,
+   "topicId": "09",
+   "lessonId": "ch49",
+   "stem": "Teri qanday haroratdan qizdirilganda oğriq boşlanadi?",
+   "options": [
+    {
+     "id": "q09-c49-03-a",
+     "text": ">100°C"
+    },
+    {
+     "id": "q09-c49-03-b",
+     "text": ">37°C"
+    },
+    {
+     "id": "q09-c49-03-c",
+     "text": ">45°C"
+    },
+    {
+     "id": "q09-c49-03-d",
+     "text": ">60°C"
+    }
+   ],
+   "answerOptionId": "q09-c49-03-c",
+   "explanation": "45°C — töqima şikastlanişi boşlanadigan harorat; oğriq şikastlaniş tezligiga mos keladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch49",
+    "topicId": "09",
+    "blockId": "ch49-u10",
+    "printedPage": 578,
+    "pdfPage": 583,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q09-c49-04",
+   "version": 1,
+   "topicId": "09",
+   "lessonId": "ch49",
+   "stem": "Qaysi modda eng oğriqli kimyoviy omil bölişi mumkin?",
+   "options": [
+    {
+     "id": "q09-c49-04-a",
+     "text": "Glyukoza"
+    },
+    {
+     "id": "q09-c49-04-b",
+     "text": "Albumin"
+    },
+    {
+     "id": "q09-c49-04-c",
+     "text": "Natriy xlorid"
+    },
+    {
+     "id": "q09-c49-04-d",
+     "text": "Bradikinin"
+    }
+   ],
+   "answerOptionId": "q09-c49-04-d",
+   "explanation": "Kimyoviy qözğatuvçilar: bradikinin, serotonin, gistamin, K⁺, kislotalar va boşqalar; bradikinin eng oğriqlisi bölişi mumkin.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch49",
+    "topicId": "09",
+    "blockId": "ch49-u10",
+    "printedPage": 578,
+    "pdfPage": 583,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q09-c49-05",
+   "version": 1,
+   "topicId": "09",
+   "lessonId": "ch49",
+   "stem": "Tez oğriq qaysi tolalar orqali uzatiladi?",
+   "options": [
+    {
+     "id": "q09-c49-05-a",
+     "text": "C tolalar (0,5–2 m/s)"
+    },
+    {
+     "id": "q09-c49-05-b",
+     "text": "Aδ tolalar (6–30 m/s)"
+    },
+    {
+     "id": "q09-c49-05-c",
+     "text": "Aβ tolalar (30–70 m/s)"
+    },
+    {
+     "id": "q09-c49-05-d",
+     "text": "Avtonom B tolalar"
+    }
+   ],
+   "answerOptionId": "q09-c49-05-b",
+   "explanation": "Tez oğriq Aδ tolalar (neospinotalamik), sekin oğriq C tolalar (paleospinotalamik) orqali ötadi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch49",
+    "topicId": "09",
+    "blockId": "ch49-u17",
+    "printedPage": 578,
+    "pdfPage": 583,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q09-c49-06",
+   "version": 1,
+   "topicId": "09",
+   "lessonId": "ch49",
+   "stem": "Prostaglandinlar oğriqqa qanday ta’sir qiladi?",
+   "options": [
+    {
+     "id": "q09-c49-06-a",
+     "text": "Kuçli oğriq qözğatadi"
+    },
+    {
+     "id": "q09-c49-06-b",
+     "text": "Faqat tez oğriqni qözğatadi"
+    },
+    {
+     "id": "q09-c49-06-c",
+     "text": "Retseptorlar sezgirligini oşiradi, lekin özlari oğriq qözğatmaydi"
+    },
+    {
+     "id": "q09-c49-06-d",
+     "text": "Oğriqni butunlay bostiradi"
+    }
+   ],
+   "answerOptionId": "q09-c49-06-c",
+   "explanation": "Prostaglandinlar va substance P sezgirlikni oşiradi, lekin özlari töğridan-töğri qözğatmaydi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch49",
+    "topicId": "09",
+    "blockId": "ch49-u8",
+    "printedPage": 578,
+    "pdfPage": 583,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  }
+ ]
+}

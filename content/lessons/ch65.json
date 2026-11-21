@@ -2,9 +2,9 @@
  "id": "ch65",
  "topicId": "12",
  "order": 3,
- "titleUz": "Ovqat hazm qilish yo’lining sekretor funksiyalari",
+ "titleUz": "Ovqat hazm qiliş yölining sekretor funksiyalari",
  "titleOriginal": "Secretory Functions of the Alimentary Tract",
- "subtitle": "*Secretory Functions of the Alimentary Tract* — XII bo'lim, PDF 764–779",
+ "subtitle": "*Secretory Functions of the Alimentary Tract* — XII bo‘lim, PDF 764–779",
  "contentVersion": "2026-11-14.1",
  "status": "in_review",
  "translationStatus": "machine_assisted",
@@ -413,20 +413,20 @@
  ],
  "objectives": [
   "Umumiy tamoyillar",
-  "So’lak",
-  "Qizilo’ngach sekretsiyasi",
+  "So‘lak",
+  "Qizilo‘ngach sekretsiyasi",
   "Oshqozon sekretsiyasi",
   "Me’da osti bezi sekretsiyasi",
-  "Jigarning o’t sekretsiyasi",
+  "Jigarning o‘t sekretsiyasi",
   "Ingichka ichak sekretsiyasi",
-  "Yo’g’on ichak sekretsiyasi"
+  "Yo‘g‘on ichak sekretsiyasi"
  ],
  "blocks": {
   "simple": [
    {
     "type": "heading",
     "level": 2,
-    "text": "Asosiy g’oya",
+    "text": "Asosiy ğoya",
     "id": "ch65-s-0-asosiy-goya",
     "bid": "ch65-u0"
    },
@@ -440,11 +440,11 @@
     "ordered": true,
     "items": [
      {
-      "text": "Og’izdan yonbosh ichak oxirigacha hazm fermentlarini ajratish.",
+      "text": "Oğizdan yonboş içak oxirigaça hazm fermentlarini ajratiş.",
       "depth": 0
      },
      {
-      "text": "Og’izdan anusgacha moylovchi va himoya qiluvchi shilliq (mukus) ajratish.",
+      "text": "Oğizdan anusgaça moylovçi va himoya qiluvçi şilliq (mukus) ajratiş.",
       "depth": 0
      }
     ],
@@ -452,7 +452,7 @@
    },
    {
     "type": "paragraph",
-    "text": "Sekretsiya ovqat borligiga javoban hosil bo’ladi va miqdori hazm uchun kerakli darajada bo’ladi. Ba’zi joylarda fermentlar turi ham ovqat turiga moslashadi.",
+    "text": "Sekretsiya ovqat borligiga javoban hosil böladi va miqdori hazm uçun kerakli darajada böladi. Ba’zi joylarda fermentlar turi ham ovqat turiga moslaşadi.",
     "bid": "ch65-u3"
    },
    {
@@ -472,27 +472,27 @@
     "ordered": true,
     "items": [
      {
-      "text": "Bir hujayrali shilliq hujayralar (qadahsimon hujayralar). Mahalliy ta’sirlanishga javoban shilliqni to’g’ridan-to’g’ri yuzaga chiqaradi.",
+      "text": "Bir hujayrali şilliq hujayralar (qadahsimon hujayralar). Mahalliy ta’sirlanişga javoban şilliqni töğridan-töğri yuzaga çiqaradi.",
       "depth": 0
      },
      {
-      "text": "Chuqurchalar. Ingichka ichakda ular **Lieberkühn kriptalari**, ichida maxsus sekretor hujayralar bor.",
+      "text": "Çuqurçalar. Ingiçka içakda ular **Lieberkühn kriptalari**, içida maxsus sekretor hujayralar bor.",
       "depth": 0
      },
      {
-      "text": "Oshqozon va o’n ikki barmoqli ichakning yuqori qismidagi chuqur naysimon bezlar (masalan, oksintik bez).",
+      "text": "Oşqozon va ön ikki barmoqli içakning yuqori qismidagi çuqur naysimon bezlar (masalan, oksintik bez).",
       "depth": 0
      },
      {
-      "text": "Murakkab bezlar: so’lak bezlari, me’da osti bezi, jigar.",
+      "text": "Murakkab bezlar: sölak bezlari, me’da osti bezi, jigar.",
       "depth": 0
      },
      {
-      "text": "So’lak bezlari va me’da osti bezi murakkab atsinoz bezlar.",
+      "text": "Sölak bezlari va me’da osti bezi murakkab atsinoz bezlar.",
       "depth": 1
      },
      {
-      "text": "Ular yo’l devoridan tashqarida joylashgan. Millionlab atsinuslar yo’llar tizimi orqali ichakka quyiladi.",
+      "text": "Ular yöl devoridan taşqarida joylaşgan. Millionlab atsinuslar yöllar tizimi orqali içakka quyiladi.",
       "depth": 1
      }
     ],
@@ -508,31 +508,31 @@
     "ordered": false,
     "items": [
      {
-      "text": "Ovqat epiteliyga tegsa, o’sha va qo’shni sohalar bezlari sekretsiya qiladi.",
+      "text": "Ovqat epiteliyga tegsa, öşa va qöşni sohalar bezlari sekretsiya qiladi.",
       "depth": 0
      },
      {
-      "text": "Qisman to’g’ridan-to’g’ri kontakt bilan, ayniqsa shilliq hujayralarda.",
+      "text": "Qisman töğridan-töğri kontakt bilan, ayniqsa şilliq hujayralarda.",
       "depth": 1
      },
      {
-      "text": "Qisman enterik tizim orqali. Uni teginish, kimyoviy ta’sirlanish va cho’zilish faollashtiradi.",
+      "text": "Qisman enterik tizim orqali. Uni teginiş, kimyoviy ta’sirlaniş va çöziliş faollaştiradi.",
       "depth": 1
      },
      {
-      "text": "**Parasimpatik** deyarli doim sekretsiyani oshiradi.",
+      "text": "**Parasimpatik** deyarli doim sekretsiyani oşiradi.",
       "depth": 0
      },
      {
-      "text": "Ayniqsa yuqori qism bezlarida (IX va X nervlar): so’lak, qizilo’ngach, oshqozon, me’da osti bezi, Brunner bezlari.",
+      "text": "Ayniqsa yuqori qism bezlarida (IX va X nervlar): sölak, qizilöngaç, oşqozon, me’da osti bezi, Brunner bezlari.",
       "depth": 1
      },
      {
-      "text": "Yo’g’on ichakning distal qismida tos nervlari orqali.",
+      "text": "Yöğon içakning distal qismida tos nervlari orqali.",
       "depth": 1
      },
      {
-      "text": "Ingichka ichakning qolgan qismi va yo’g’on ichakning birinchi uchdan ikki qismi asosan mahalliy nerv va gormonal stimullarga bo’ysunadi.",
+      "text": "Ingiçka içakning qolgan qismi va yöğon içakning birinçi uçdan ikki qismi asosan mahalliy nerv va gormonal stimullarga böysunadi.",
       "depth": 1
      },
      {
@@ -540,15 +540,15 @@
       "depth": 0
      },
      {
-      "text": "Yolg’iz o’zi sekretsiyani biroz oshiradi.",
+      "text": "Yolğiz özi sekretsiyani biroz oşiradi.",
       "depth": 1
      },
      {
-      "text": "Parasimpatik yoki gormon allaqachon mo’l sekretsiya chaqirayotgan bo’lsa, vazokonstriksiya orqali uni kamaytiradi.",
+      "text": "Parasimpatik yoki gormon allaqaçon möl sekretsiya çaqirayotgan bölsa, vazokonstriksiya orqali uni kamaytiradi.",
       "depth": 1
      },
      {
-      "text": "**Gormonlar** (polipeptidlar) shilliq qavatdan qonga chiqadi va bezlarni qo’zg’atadi. Ayniqsa oshqozon va me’da osti bezi shirasi uchun muhim.",
+      "text": "**Gormonlar** (polipeptidlar) şilliq qavatdan qonga çiqadi va bezlarni qözğatadi. Ayniqsa oşqozon va me’da osti bezi şirasi uçun muhim.",
       "depth": 0
      }
     ],
@@ -564,7 +564,7 @@
     "ordered": true,
     "items": [
      {
-      "text": "Kerakli moddalar kapillyardan hujayra asosiga diffuziya yoki faol tashish bilan kiradi.",
+      "text": "Kerakli moddalar kapillyardan hujayra asosiga diffuziya yoki faol taşiş bilan kiradi.",
       "depth": 0
      },
      {
@@ -572,23 +572,23 @@
       "depth": 0
      },
      {
-      "text": "Organik moddalar endoplazmatik to’r va Golgi apparatida sintezlanadi. Oqsillarni to’rga yopishgan ribosomalar hosil qiladi.",
+      "text": "Organik moddalar endoplazmatik tör va Golgi apparatida sintezlanadi. Oqsillarni törga yopişgan ribosomalar hosil qiladi.",
       "depth": 0
      },
      {
-      "text": "Moddalar to’r naychalari orqali taxminan 20 daqiqada Golgi pufakchalariga yetadi.",
+      "text": "Moddalar tör nayçalari orqali taxminan 20 daqiqada Golgi pufakçalariga yetadi.",
       "depth": 0
      },
      {
-      "text": "Golgida o’zgartiriladi, konsentrlanadi va sekretor pufakchalar shaklida hujayra uchida saqlanadi.",
+      "text": "Golgida özgartiriladi, konsentrlanadi va sekretor pufakçalar şaklida hujayra uçida saqlanadi.",
       "depth": 0
      },
      {
-      "text": "Nerv yoki gormon signali kelganda Ca²⁺ kiradi, pufakchalar apikal membrana bilan qo’shilib, tashqariga chiqadi (**ekzotsitoz**).",
+      "text": "Nerv yoki gormon signali kelganda Ca²⁺ kiradi, pufakçalar apikal membrana bilan qöşilib, taşqariga çiqadi (**ekzotsitoz**).",
       "depth": 0
      },
      {
-      "text": "Bundan tashqari suv va elektrolitlar ham ajraladi va organik moddalarni yuvib chiqaradi. So’lak bezlarida bu nerv stimuli bilan bo’ladi.",
+      "text": "Bundan taşqari suv va elektrolitlar ham ajraladi va organik moddalarni yuvib çiqaradi. Sölak bezlarida bu nerv stimuli bilan böladi.",
       "depth": 0
      }
     ],
@@ -596,7 +596,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Shilliq (mukus):** suv, elektrolitlar va glikoproteinlardan iborat.",
+    "text": "**Şilliq (mukus):** suv, elektrolitlar va glikoproteinlardan iborat.",
     "bid": "ch65-u11"
    },
    {
@@ -604,7 +604,7 @@
     "ordered": true,
     "items": [
      {
-      "text": "Ovqat zarralariga yopishadi va yupqa parda bo’lib yoyiladi.",
+      "text": "Ovqat zarralariga yopişadi va yupqa parda bölib yoyiladi.",
       "depth": 0
      },
      {
@@ -612,23 +612,23 @@
       "depth": 0
      },
      {
-      "text": "Sirpanishga qarshiligi past.",
+      "text": "Sirpanişga qarşiligi past.",
       "depth": 0
      },
      {
-      "text": "Najas zarralarini bir-biriga yopishtiradi.",
+      "text": "Najas zarralarini bir-biriga yopiştiradi.",
       "depth": 0
      },
      {
-      "text": "Fermentlar bilan hazm bo’lmaydi.",
+      "text": "Fermentlar bilan hazm bölmaydi.",
       "depth": 0
      },
      {
-      "text": "Amfoter: oz miqdordagi kislota va ishqorni buferlaydi. Ko’pincha HCO₃⁻ ham bor.",
+      "text": "Amfoter: oz miqdordagi kislota va işqorni buferlaydi. Köpinça HCO₃⁻ ham bor.",
       "depth": 0
      },
      {
-      "text": "So’lak bo’lmasa, ko’p suv bilan ham qattiq ovqatni yutish qiyin.",
+      "text": "Sölak bölmasa, köp suv bilan ham qattiq ovqatni yutiş qiyin.",
       "depth": 0
      }
     ],
@@ -647,13 +647,13 @@
    {
     "type": "table",
     "header": [
-     "Shira",
+     "Şira",
      "Hajm (ml/kun)",
      "pH"
     ],
     "rows": [
      [
-      "So’lak",
+      "So‘lak",
       "1000",
       "6.0–7.0"
      ],
@@ -668,7 +668,7 @@
       "8.0–8.3"
      ],
      [
-      "O’t",
+      "O‘t",
       "1000",
       "7.8"
      ],
@@ -683,7 +683,7 @@
       "8.0–8.9"
      ],
      [
-      "Yo’g’on ichak",
+      "Yo‘g‘on ichak",
       "200",
       "7.5–8.0"
      ],
@@ -698,7 +698,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "So’lak",
+    "text": "Sölak",
     "id": "ch65-s-16-solak",
     "bid": "ch65-u16"
    },
@@ -707,7 +707,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Bezlar: quloq oldi (parotid), jag' osti, til osti va ko’p mayda lunj bezlari. Kuniga 800–1500 ml (o’rtacha 1000).",
+      "text": "Bezlar: quloq oldi (parotid), jağ osti, til osti va köp mayda lunj bezlari. Kuniga 800–1500 ml (örtaça 1000).",
       "depth": 0
      },
      {
@@ -715,19 +715,19 @@
       "depth": 0
      },
      {
-      "text": "**Seroz:** ptialin (α-amilaza), kraxmalni parchalaydi.",
+      "text": "**Seroz:** ptialin (α-amilaza), kraxmalni parçalaydi.",
       "depth": 1
      },
      {
-      "text": "**Shilliq:** mutsin, moylash va himoya uchun.",
+      "text": "**Şilliq:** mutsin, moylaş va himoya uçun.",
       "depth": 1
      },
      {
-      "text": "Quloq oldi bezi deyarli faqat seroz sekret ajratadi. Jag' osti va til osti bezlari ikkalasini, lunj bezlari faqat shilliq ajratadi.",
+      "text": "Quloq oldi bezi deyarli faqat seroz sekret ajratadi. Jağ osti va til osti bezlari ikkalasini, lunj bezlari faqat şilliq ajratadi.",
       "depth": 0
      },
      {
-      "text": "pH 6.0–7.0, ptialin uchun qulay.",
+      "text": "pH 6.0–7.0, ptialin uçun qulay.",
       "depth": 0
      }
     ],
@@ -735,7 +735,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Ion tarkibi** (K⁺ va HCO₃⁻ ko’p, Na⁺ va Cl⁻ kam). Sekretsiya ikki bosqichda bo’ladi:",
+    "text": "**Ion tarkibi** (K⁺ va HCO₃⁻ köp, Na⁺ va Cl⁻ kam). Sekretsiya ikki bosqiçda böladi:",
     "bid": "ch65-u18"
    },
    {
@@ -743,27 +743,27 @@
     "ordered": true,
     "items": [
      {
-      "text": "**Atsinuslar** birlamchi sekret ajratadi: ptialin va/yoki mutsin, ionlari hujayradan tashqari suyuqlikka yaqin.",
+      "text": "**Atsinuslar** birlamçi sekret ajratadi: ptialin va/yoki mutsin, ionlari hujayradan taşqari suyuqlikka yaqin.",
       "depth": 0
      },
      {
-      "text": "**Yo’llarda** tarkib o’zgaradi:",
+      "text": "**Yöllarda** tarkib özgaradi:",
       "depth": 0
      },
      {
-      "text": "Na⁺ faol so’riladi, K⁺ uning o’rniga faol chiqariladi.",
+      "text": "Na⁺ faol söriladi, K⁺ uning örniga faol çiqariladi.",
       "depth": 1
      },
      {
-      "text": "Na⁺ so’rilishi K⁺ chiqishidan ko’p, shuning uchun yo’lda taxminan −70 mV hosil bo’ladi va Cl⁻ passiv so’riladi.",
+      "text": "Na⁺ sörilişi K⁺ çiqişidan köp, şuning uçun yölda taxminan −70 mV hosil böladi va Cl⁻ passiv söriladi.",
       "depth": 1
      },
      {
-      "text": "HCO₃⁻ yo’l epiteliysidan chiqariladi: qisman Cl⁻ bilan almashinuv, qisman faol.",
+      "text": "HCO₃⁻ yöl epiteliysidan çiqariladi: qisman Cl⁻ bilan almaşinuv, qisman faol.",
       "depth": 1
      },
      {
-      "text": "**Tinch holatda:**",
+      "text": "**Tinç holatda:**",
       "depth": 0
      },
      {
@@ -771,11 +771,11 @@
       "depth": 1
      },
      {
-      "text": "K⁺ taxminan 30 mEq/L, plazmadagidan 7 baravar ko’p.",
+      "text": "K⁺ taxminan 30 mEq/L, plazmadagidan 7 baravar köp.",
       "depth": 1
      },
      {
-      "text": "HCO₃⁻ 50–70 mEq/L, plazmadagidan 2–3 baravar ko’p.",
+      "text": "HCO₃⁻ 50–70 mEq/L, plazmadagidan 2–3 baravar köp.",
       "depth": 1
      },
      {
@@ -783,11 +783,11 @@
       "depth": 0
      },
      {
-      "text": "Atsinus sekretsiyasi 20 baravargacha ortadi, yo’llarda qayta ishlash kamayadi.",
+      "text": "Atsinus sekretsiyasi 20 baravargaça ortadi, yöllarda qayta işlaş kamayadi.",
       "depth": 1
      },
      {
-      "text": "NaCl plazmaning 1/2–2/3 qismiga teng bo’ladi, K⁺ faqat 4 baravar yuqori.",
+      "text": "NaCl plazmaning 1/2–2/3 qismiga teng böladi, K⁺ faqat 4 baravar yuqori.",
       "depth": 1
      }
     ],
@@ -795,7 +795,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Og’iz gigiyenasi:**",
+    "text": "**Oğiz gigiyenasi:**",
     "bid": "ch65-u20"
    },
    {
@@ -803,11 +803,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Uyg’oq bazal holatda taxminan 0.5 ml/min, asosan shilliq tipdagi so’lak ajraladi. Uyquda juda kam.",
+      "text": "Uyğoq bazal holatda taxminan 0.5 ml/min, asosan şilliq tipdagi sölak ajraladi. Uyquda juda kam.",
       "depth": 0
      },
      {
-      "text": "Og’iz patogen bakteriyalarga to’la. So’lak ularga qarshi uch yo’l bilan kurashadi:",
+      "text": "Oğiz patogen bakteriyalarga töla. Sölak ularga qarşi uç yöl bilan kuraşadi:",
       "depth": 0
      },
      {
@@ -823,15 +823,15 @@
       "depth": 2
      },
      {
-      "text": "Proteolitik fermentlar, eng muhimi **lizotsim**. U bakteriyalarga hujum qiladi, tiotsianatning ichkariga kirishiga yordam beradi va ovqat zarralarini hazm qiladi.",
+      "text": "Proteolitik fermentlar, eng muhimi **lizotsim**. U bakteriyalarga hujum qiladi, tiotsianatning içkariga kirişiga yordam beradi va ovqat zarralarini hazm qiladi.",
       "depth": 2
      },
      {
-      "text": "Antitanachalar, jumladan karies chaqiruvchi bakteriyalarga qarshi.",
+      "text": "Antitanaçalar, jumladan karies çaqiruvçi bakteriyalarga qarşi.",
       "depth": 1
      },
      {
-      "text": "So’lak bo’lmasa, og’iz to’qimalari yaralanadi va karies keng tarqaladi.",
+      "text": "Sölak bölmasa, oğiz töqimalari yaralanadi va karies keng tarqaladi.",
       "depth": 0
      }
     ],
@@ -839,7 +839,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Nerv boshqaruvi:**",
+    "text": "**Nerv boşqaruvi:**",
     "bid": "ch65-u22"
    },
    {
@@ -847,15 +847,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Asosan parasimpatik. **Yuqori va pastki so’lak yadrolari** uzunchoq miya va ko’prik chegarasida.",
+      "text": "Asosan parasimpatik. **Yuqori va pastki sölak yadrolari** uzunçoq miya va köprik çegarasida.",
       "depth": 0
      },
      {
-      "text": "Yo’llar:",
+      "text": "Yöllar:",
       "depth": 0
      },
      {
-      "text": "Yuqori yadro → VII nerv (chorda tympani) → jag' osti gangliyasi → jag' osti va til osti bezlari.",
+      "text": "Yuqori yadro → VII nerv (çorda tympani) → jağ osti gangliyasi → jağ osti va til osti bezlari.",
       "depth": 1
      },
      {
@@ -871,19 +871,19 @@
       "depth": 1
      },
      {
-      "text": "Silliq narsalar (masalan, tosh) ko’p so’lak chaqiradi. G’adir-budur narsalar kamroq chaqiradi yoki tormozlaydi.",
+      "text": "Silliq narsalar (masalan, toş) köp sölak çaqiradi. Ğadir-budur narsalar kamroq çaqiradi yoki tormozlaydi.",
       "depth": 1
      },
      {
-      "text": "Yuqori markazlar: yoqimli ovqat ko’proq so’lak chaqiradi. Ishtaha sohasi old gipotalamusning parasimpatik markazlari yonida, ta’m-hid po’stlog’i va amigdala signallariga javob beradi.",
+      "text": "Yuqori markazlar: yoqimli ovqat köproq sölak çaqiradi. Iştaha sohasi old gipotalamusning parasimpatik markazlari yonida, ta’m-hid pöstloği va amigdala signallariga javob beradi.",
       "depth": 1
      },
      {
-      "text": "Oshqozon va ingichka ichakdan reflekslar: ta’sirlovchi ovqat yoki ko’ngil aynishda so’lak ko’payadi va yutilib ta’sirlovchini suyultiradi.",
+      "text": "Oşqozon va ingiçka içakdan reflekslar: ta’sirlovçi ovqat yoki köngil aynişda sölak köpayadi va yutilib ta’sirlovçini suyultiradi.",
       "depth": 1
      },
      {
-      "text": "Simpatik biroz va quyuqroq so’lak beradi. Yuqori bo’yin gangliyasidan tomirlar bo’ylab keladi.",
+      "text": "Simpatik biroz va quyuqroq sölak beradi. Yuqori böyin gangliyasidan tomirlar böylab keladi.",
       "depth": 0
      },
      {
@@ -891,11 +891,11 @@
       "depth": 0
      },
      {
-      "text": "Parasimpatik tomirlarni mo''tadil kengaytiradi.",
+      "text": "Parasimpatik tomirlarni mö’tadil kengaytiradi.",
       "depth": 1
      },
      {
-      "text": "Faol hujayralar **kallikrein** ajratadi. U α2-globulindan **bradikinin** hosil qiladi, kuchli vazodilatator.",
+      "text": "Faol hujayralar **kallikrein** ajratadi. U α2-globulindan **bradikinin** hosil qiladi, kuçli vazodilatator.",
       "depth": 1
      }
     ],
@@ -904,7 +904,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Qizilo’ngach sekretsiyasi",
+    "text": "Qizilöngaç sekretsiyasi",
     "id": "ch65-s-24-qizilongach-sekretsiyasi",
     "bid": "ch65-u24"
    },
@@ -913,27 +913,27 @@
     "ordered": false,
     "items": [
      {
-      "text": "Faqat shilliq, yutishda moylaydi.",
+      "text": "Faqat şilliq, yutişda moylaydi.",
       "depth": 0
      },
      {
-      "text": "Qizilo’ngach tanasida oddiy shilliq bezlar ko’p.",
+      "text": "Qizilöngaç tanasida oddiy şilliq bezlar köp.",
       "depth": 0
      },
      {
-      "text": "Oshqozon tomondagi va kamroq boshlang’ich qismdagi murakkab bezlar:",
+      "text": "Oşqozon tomondagi va kamroq boşlanğiç qismdagi murakkab bezlar:",
       "depth": 0
      },
      {
-      "text": "Yuqorida yangi kelgan ovqat tirnashidan himoya qiladi.",
+      "text": "Yuqorida yangi kelgan ovqat tirnaşidan himoya qiladi.",
       "depth": 1
      },
      {
-      "text": "Pastda reflyuks bo’lgan kislotali shiradan himoya qiladi.",
+      "text": "Pastda reflyuks bölgan kislotali şiradan himoya qiladi.",
       "depth": 1
      },
      {
-      "text": "Shunga qaramay, oshqozon tomonda peptik yara bo’lishi mumkin.",
+      "text": "Şunga qaramay, oşqozon tomonda peptik yara bölişi mumkin.",
       "depth": 1
      }
     ],
@@ -942,7 +942,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Oshqozon sekretsiyasi",
+    "text": "Oşqozon sekretsiyasi",
     "id": "ch65-s-26-oshqozon-sekretsiyasi",
     "bid": "ch65-u26"
    },
@@ -956,11 +956,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Oksintik bezlar:** tana va fundusda (oshqozonning proksimal 80%). HCl, pepsinogen, ichki omil (intrinsic factor) va shilliq ajratadi.",
+      "text": "**Oksintik bezlar:** tana va fundusda (oşqozonning proksimal 80%). HCl, pepsinogen, içki omil (intrinsic factor) va şilliq ajratadi.",
       "depth": 0
      },
      {
-      "text": "**Pilorik bezlar:** antrumda (distal 20%). Asosan shilliq va gastrin ajratadi.",
+      "text": "**Pilorik bezlar:** antrumda (distal 20%). Asosan şilliq va gastrin ajratadi.",
       "depth": 0
      }
     ],
@@ -976,19 +976,19 @@
     "ordered": true,
     "items": [
      {
-      "text": "Bo’yin shilliq hujayralari: shilliq.",
+      "text": "Böyin şilliq hujayralari: şilliq.",
       "depth": 0
      },
      {
-      "text": "Bosh (peptik) hujayralar: ko’p pepsinogen.",
+      "text": "Boş (peptik) hujayralar: köp pepsinogen.",
       "depth": 0
      },
      {
-      "text": "Qoplovchi (parietal, oksintik) hujayralar: HCl va ichki omil.",
+      "text": "Qoplovçi (parietal, oksintik) hujayralar: HCl va içki omil.",
       "depth": 0
      },
      {
-      "text": "ECL hujayralar (enteroxromaffinga o’xshash): gistamin.",
+      "text": "ECL hujayralar (enteroxromaffinga öxşaş): gistamin.",
       "depth": 0
      }
     ],
@@ -1004,39 +1004,39 @@
     "ordered": false,
     "items": [
      {
-      "text": "Qoplovchi hujayra taxminan 160 mmol/L HCl ajratadi. Eritma tana suyuqliklariga deyarli izotonik, pH taxminan 0.8.",
+      "text": "Qoplovçi hujayra taxminan 160 mmol/L HCl ajratadi. Eritma tana suyuqliklariga deyarli izotonik, pH taxminan 0.8.",
       "depth": 0
      },
      {
-      "text": "H⁺ konsentratsiyasi arterial qondagidan taxminan 3 mln baravar yuqori. Buning uchun 1 l shiraga 1500 kaloriyadan ko’p energiya kerak.",
+      "text": "H⁺ konsentratsiyasi arterial qondagidan taxminan 3 mln baravar yuqori. Buning uçun 1 l şiraga 1500 kaloriyadan köp energiya kerak.",
       "depth": 0
      },
      {
-      "text": "Bir vaqtda HCO₃⁻ qonga o’tadi, shuning uchun oshqozon venoz qonining pH i arterial qondan yuqori.",
+      "text": "Bir vaqtda HCO₃⁻ qonga ötadi, şuning uçun oşqozon venoz qonining pH i arterial qondan yuqori.",
       "depth": 0
      },
      {
-      "text": "Kislota hujayra ichidagi tarmoqlangan **kanalchalarda** vorsinkasimon o’simtalar ustida hosil bo’ladi.",
+      "text": "Kislota hujayra içidagi tarmoqlangan **kanalçalarda** vorsinkasimon ösimtalar ustida hosil böladi.",
       "depth": 0
      },
      {
-      "text": "Asosiy harakatlantiruvchi kuch **H⁺-K⁺ ATPaza**:",
+      "text": "Asosiy harakatlantiruvçi kuç **H⁺-K⁺ ATPaza**:",
       "depth": 0
      },
      {
-      "text": "Suv H⁺ va OH⁻ ga dissotsiatsiyalanadi. H⁺ K⁺ ga almashinib kanalchaga faol chiqariladi.",
+      "text": "Suv H⁺ va OH⁻ ga dissotsiatsiyalanadi. H⁺ K⁺ ga almaşinib kanalçaga faol çiqariladi.",
       "depth": 1
      },
      {
-      "text": "Bazolateral Na⁺-K⁺ ATPaza kiritgan K⁺ kanalchaga sizib chiqadi va H⁺-K⁺ ATPaza orqali qaytariladi.",
+      "text": "Bazolateral Na⁺-K⁺ ATPaza kiritgan K⁺ kanalçaga sizib çiqadi va H⁺-K⁺ ATPaza orqali qaytariladi.",
       "depth": 2
      },
      {
-      "text": "Hujayra ichidagi past Na⁺ kanalchadagi Na⁺ ni so’rishga yordam beradi.",
+      "text": "Hujayra içidagi past Na⁺ kanalçadagi Na⁺ ni sörişga yordam beradi.",
       "depth": 2
      },
      {
-      "text": "OH⁻ CO₂ bilan HCO₃⁻ hosil qiladi (karboangidraza). HCO₃⁻ bazolateral tomondan Cl⁻ ga almashinadi. Cl⁻ xlor kanallari orqali kanalchaga chiqadi.",
+      "text": "OH⁻ CO₂ bilan HCO₃⁻ hosil qiladi (karboangidraza). HCO₃⁻ bazolateral tomondan Cl⁻ ga almaşinadi. Cl⁻ xlor kanallari orqali kanalçaga çiqadi.",
       "depth": 1
      },
      {
@@ -1048,7 +1048,7 @@
       "depth": 0
      },
      {
-      "text": "**Oshqozon to’sig’i:** ishqoriy shilliq va zich birikmalar kislotaning qaytib sizishini oldini oladi. Aspirin yoki alkogol bilan buzilsa, kislota shilliq qavatga kirib uni shikastlaydi.",
+      "text": "**Oşqozon tösiği:** işqoriy şilliq va ziç birikmalar kislotaning qaytib sizişini oldini oladi. Aspirin yoki alkogol bilan buzilsa, kislota şilliq qavatga kirib uni şikastlaydi.",
       "depth": 0
      }
     ],
@@ -1064,11 +1064,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "**ACh** (parasimpatik): pepsinogen, HCl va shilliqni qo’zg’atadi.",
+      "text": "**ACh** (parasimpatik): pepsinogen, HCl va şilliqni qözğatadi.",
       "depth": 0
      },
      {
-      "text": "**Gastrin va gistamin**: kuchli ravishda faqat kislotani qo’zg’atadi.",
+      "text": "**Gastrin va gistamin**: kuçli ravişda faqat kislotani qözğatadi.",
       "depth": 0
      }
     ],
@@ -1084,11 +1084,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Bosh va shilliq hujayralar bir necha xil, lekin bir xil vazifali pepsinogenlarni ajratadi.",
+      "text": "Boş va şilliq hujayralar bir neça xil, lekin bir xil vazifali pepsinogenlarni ajratadi.",
       "depth": 0
      },
      {
-      "text": "HCl bilan faol pepsinga aylanadi: molekulyar og’irligi taxminan 42 500 dan 35 000 ga tushadi.",
+      "text": "HCl bilan faol pepsinga aylanadi: molekulyar oğirligi taxminan 42 500 dan 35 000 ga tuşadi.",
       "depth": 0
      },
      {
@@ -1096,7 +1096,7 @@
       "depth": 0
      },
      {
-      "text": "Oshqozonda oqsil hazmi uchun HCl pepsin kabi zarur (66-bob).",
+      "text": "Oşqozonda oqsil hazmi uçun HCl pepsin kabi zarur (66-bob).",
       "depth": 0
      }
     ],
@@ -1104,7 +1104,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Ichki omil:**",
+    "text": "**Içki omil:**",
     "bid": "ch65-u37"
    },
    {
@@ -1112,11 +1112,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Qoplovchi hujayralar HCl bilan birga ajratadi. Yonbosh ichakda B12 so’rilishi uchun zarur.",
+      "text": "Qoplovçi hujayralar HCl bilan birga ajratadi. Yonboş içakda B12 sörilişi uçun zarur.",
       "depth": 0
      },
      {
-      "text": "Surunkali gastritda qoplovchi hujayralar yemirilsa, **axlorgidriya** va **pernitsioz anemiya** rivojlanadi (33-bob).",
+      "text": "Surunkali gastritda qoplovçi hujayralar yemirilsa, **axlorgidriya** va **pernitsioz anemiya** rivojlanadi (33-bob).",
       "depth": 0
      }
     ],
@@ -1132,11 +1132,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Tuzilishi oksintik bezlarga o’xshash, lekin bosh hujayralar kam, qoplovchi hujayralar deyarli yo’q.",
+      "text": "Tuzilişi oksintik bezlarga öxşaş, lekin boş hujayralar kam, qoplovçi hujayralar deyarli yöq.",
       "depth": 0
      },
      {
-      "text": "Asosan bo’yin shilliq hujayralariga o’xshash shilliq hujayralar: oz pepsinogen va ko’p suyuq shilliq ajratadi.",
+      "text": "Asosan böyin şilliq hujayralariga öxşaş şilliq hujayralar: oz pepsinogen va köp suyuq şilliq ajratadi.",
       "depth": 0
      },
      {
@@ -1148,7 +1148,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Yuza shilliq hujayralari:**",
+    "text": "**Yuza şilliq hujayralari:**",
     "bid": "ch65-u41"
    },
    {
@@ -1160,11 +1160,11 @@
       "depth": 0
      },
      {
-      "text": "Qalinligi ko’pincha 1 mm dan ortiq, yopishqoq, **ishqoriy** gel qatlam hosil qiladi.",
+      "text": "Qalinligi köpinça 1 mm dan ortiq, yopişqoq, **işqoriy** gel qatlam hosil qiladi.",
       "depth": 0
      },
      {
-      "text": "Eng kichik kontakt yoki ta’sirlanishda ham ko’proq ajraladi.",
+      "text": "Eng kiçik kontakt yoki ta’sirlanişda ham köproq ajraladi.",
       "depth": 0
      }
     ],
@@ -1172,7 +1172,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Kislota sekretsiyasini boshqarish:**",
+    "text": "**Kislota sekretsiyasini boşqariş:**",
     "bid": "ch65-u43"
    },
    {
@@ -1180,19 +1180,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Kislotani faqat qoplovchi hujayralar ajratadi va u endokrin hamda nerv nazoratida.",
+      "text": "Kislotani faqat qoplovçi hujayralar ajratadi va u endokrin hamda nerv nazoratida.",
       "depth": 0
      },
      {
-      "text": "**ECL hujayralar** oksintik bezlarning chuqur qismida joylashgan va gistaminni to’g’ridan-to’g’ri qoplovchi hujayralarga beradi.",
+      "text": "**ECL hujayralar** oksintik bezlarning çuqur qismida joylaşgan va gistaminni töğridan-töğri qoplovçi hujayralarga beradi.",
       "depth": 0
      },
      {
-      "text": "HCl hosil bo’lishi ajralgan gistamin miqdoriga to’g’ridan-to’g’ri bog’liq.",
+      "text": "HCl hosil bölişi ajralgan gistamin miqdoriga töğridan-töğri boğliq.",
       "depth": 1
      },
      {
-      "text": "ECL hujayralarni asosan gastrin qo’zg’atadi, ehtimol enterik tizim gormonlari ham.",
+      "text": "ECL hujayralarni asosan gastrin qözğatadi, ehtimol enterik tizim gormonlari ham.",
       "depth": 1
      },
      {
@@ -1204,31 +1204,31 @@
       "depth": 1
      },
      {
-      "text": "Ikki shakli bor: G-34 va ko’proq uchraydigan G-17.",
+      "text": "Ikki şakli bor: G-34 va köproq uçraydigan G-17.",
       "depth": 1
      },
      {
-      "text": "Go’sht yoki boshqa oqsilli ovqat antrumga yetganda ajraladi.",
+      "text": "Göşt yoki boşqa oqsilli ovqat antrumga yetganda ajraladi.",
       "depth": 1
      },
      {
-      "text": "Kuchli aralashish uni tez tanaga, ECL hujayralarga yetkazadi. Gistamin ajraladi va kislota sekretsiyasi tez boshlanadi.",
+      "text": "Kuçli aralaşiş uni tez tanaga, ECL hujayralarga yetkazadi. Gistamin ajraladi va kislota sekretsiyasi tez boşlanadi.",
       "depth": 1
      },
      {
-      "text": "**Pepsinogen sekretsiyasini boshqarish:**",
+      "text": "**Pepsinogen sekretsiyasini boşqariş:**",
       "depth": 0
      },
      {
-      "text": "Vagus yoki enterik chigaldan ACh.",
+      "text": "Vagus yoki enterik çigaldan ACh.",
       "depth": 1
      },
      {
-      "text": "Oshqozondagi kislota, ehtimol enterik reflekslar orqali.",
+      "text": "Oşqozondagi kislota, ehtimol enterik reflekslar orqali.",
       "depth": 1
      },
      {
-      "text": "Kislota ajratish qobiliyatini yo’qotganlarda pepsinogen ham kamayadi.",
+      "text": "Kislota ajratiş qobiliyatini yöqotganlarda pepsinogen ham kamayadi.",
       "depth": 1
      }
     ],
@@ -1236,7 +1236,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Oshqozon sekretsiyasi fazalari:**",
+    "text": "**Oşqozon sekretsiyasi fazalari:**",
     "bid": "ch65-u45"
    },
    {
@@ -1244,19 +1244,19 @@
     "ordered": true,
     "items": [
      {
-      "text": "**Bosh (sefalik) faza:** taxminan 30%.",
+      "text": "**Boş (sefalik) faza:** taxminan 30%.",
       "depth": 0
      },
      {
-      "text": "Ovqat ko’rinishi, hidi, o’ylanishi yoki ta’mi qo’zg’atadi. Ishtaha qancha kuchli bo’lsa, shuncha kuchli.",
+      "text": "Ovqat körinişi, hidi, öylanişi yoki ta’mi qözğatadi. Iştaha qança kuçli bölsa, şunça kuçli.",
       "depth": 1
      },
      {
-      "text": "Signal yo’li: po’stloq, amigdala va gipotalamus ishtaha markazlari → vagusning dorsal motor yadrosi → vagus.",
+      "text": "Signal yöli: pöstloq, amigdala va gipotalamus iştaha markazlari → vagusning dorsal motor yadrosi → vagus.",
       "depth": 1
      },
      {
-      "text": "**Oshqozon fazasi:** taxminan 60%.",
+      "text": "**Oşqozon fazasi:** taxminan 60%.",
       "depth": 0
      },
      {
@@ -1264,11 +1264,11 @@
       "depth": 1
      },
      {
-      "text": "Ovqat turganicha soatlab davom etadi. Kunlik taxminan 1500 ml shiraning asosiy qismi shu fazada.",
+      "text": "Ovqat turganiça soatlab davom etadi. Kunlik taxminan 1500 ml şiraning asosiy qismi şu fazada.",
       "depth": 1
      },
      {
-      "text": "**Ichak fazasi:** taxminan 10%. O’n ikki barmoqli ichak shilliq qavatidan ajraladigan oz gastrin hisobiga.",
+      "text": "**Içak fazasi:** taxminan 10%. Ön ikki barmoqli içak şilliq qavatidan ajraladigan oz gastrin hisobiga.",
       "depth": 0
      }
     ],
@@ -1276,7 +1276,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Ichak omillarining tormozlovchi ta’siri:**",
+    "text": "**Içak omillarining tormozlovçi ta’siri:**",
     "bid": "ch65-u47"
    },
    {
@@ -1284,23 +1284,23 @@
     "ordered": true,
     "items": [
      {
-      "text": "**Teskari enterogastral refleks** (myenterik, simpatik va vagus orqali). Qo’zg’atuvchilar: ingichka ichak cho’zilishi, kislota, oqsil parchalanish mahsulotlari, shilliq qavat ta’sirlanishi.",
+      "text": "**Teskari enterogastral refleks** (myenterik, simpatik va vagus orqali). Qözğatuvçilar: ingiçka içak çözilişi, kislota, oqsil parçalaniş mahsulotlari, şilliq qavat ta’sirlanişi.",
       "depth": 0
      },
      {
-      "text": "**Gormonlar:** kislota, yog', oqsil mahsulotlari, gipo- yoki giperosmotik suyuqlik yoki ta’sirlovchi ta’sirida ajraladi.",
+      "text": "**Gormonlar:** kislota, yoğ, oqsil mahsulotlari, gipo- yoki giperosmotik suyuqlik yoki ta’sirlovçi ta’sirida ajraladi.",
       "depth": 0
      },
      {
-      "text": "Sekretin oshqozon sekretsiyasiga qarshi ta’sir qiladi.",
+      "text": "Sekretin oşqozon sekretsiyasiga qarşi ta’sir qiladi.",
       "depth": 1
      },
      {
-      "text": "GIP, VIP va somatostatin biroz yoki mo''tadil tormozlaydi.",
+      "text": "GIP, VIP va somatostatin biroz yoki mö’tadil tormozlaydi.",
       "depth": 1
      },
      {
-      "text": "Maqsad: ichak to’lib qolganda yoki ortiqcha faol bo’lganda ximus o’tishini sekinlashtirish. Bu omillar harakatni ham sekinlashtiradi (64-bob).",
+      "text": "Maqsad: içak tölib qolganda yoki ortiqça faol bölganda ximus ötişini sekinlaştiriş. Bu omillar harakatni ham sekinlaştiradi (64-bob).",
       "depth": 0
      }
     ],
@@ -1308,7 +1308,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Ovqatlar oralig’i (interdigestiv davr):**",
+    "text": "**Ovqatlar oraliği (interdigestiv davr):**",
     "bid": "ch65-u49"
    },
    {
@@ -1316,11 +1316,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Soatiga bir necha ml, asosan oksintik bo’lmagan shilliq, oz pepsin va deyarli kislotasiz.",
+      "text": "Soatiga bir neça ml, asosan oksintik bölmagan şilliq, oz pepsin va deyarli kislotasiz.",
       "depth": 0
      },
      {
-      "text": "Hissiy stimullar bu sekretsiyani soatiga 50 ml dan ko’proqqa oshirishi mumkin. Bu sekret pepsin va kislotaga boy. Peptik yara rivojlanishiga hissa qo’shishi mumkin (67-bob).",
+      "text": "Hissiy stimullar bu sekretsiyani soatiga 50 ml dan köproqqa oşirişi mumkin. Bu sekret pepsin va kislotaga boy. Peptik yara rivojlanişiga hissa qöşişi mumkin (67-bob).",
       "depth": 0
      }
     ],
@@ -1336,7 +1336,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Molekulyar og’irligi: gastrin taxminan 2000, CCK taxminan 4200, sekretin taxminan 3400.",
+      "text": "Molekulyar oğirligi: gastrin taxminan 2000, CCK taxminan 4200, sekretin taxminan 3400.",
       "depth": 0
      },
      {
@@ -1352,7 +1352,7 @@
       "depth": 1
      },
      {
-      "text": "Sekretinning barcha aminokislotalari zarur.",
+      "text": "Sekretinning barça aminokislotalari zarur.",
       "depth": 0
      },
      {
@@ -1374,23 +1374,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "Oshqozon ostida unga parallel yotadi. Tuzilishi so’lak bezlariga o’xshash murakkab bez.",
+      "text": "Oşqozon ostida unga parallel yotadi. Tuzilişi sölak bezlariga öxşaş murakkab bez.",
       "depth": 0
      },
      {
-      "text": "Fermentlarni atsinuslar, NaHCO₃ eritmasini kichik va katta yo’llar ajratadi.",
+      "text": "Fermentlarni atsinuslar, NaHCO₃ eritmasini kiçik va katta yöllar ajratadi.",
       "depth": 0
      },
      {
-      "text": "Shira uzun me’da osti bezi yo’li orqali oqadi. U odatda jigar yo’li bilan qo’shilib, **Vater so’rg’ichi** orqali o’n ikki barmoqli ichakka quyiladi. So’rg’ich atrofida **Oddi sfinkteri** bor.",
+      "text": "Şira uzun me’da osti bezi yöli orqali oqadi. U odatda jigar yöli bilan qöşilib, **Vater sörğiçi** orqali ön ikki barmoqli içakka quyiladi. Sörğiç atrofida **Oddi sfinkteri** bor.",
       "depth": 0
      },
      {
-      "text": "Ximus ingichka ichakning yuqori qismiga tushganda eng ko’p ajraladi. Tarkibi qisman ovqat turiga bog’liq.",
+      "text": "Ximus ingiçka içakning yuqori qismiga tuşganda eng köp ajraladi. Tarkibi qisman ovqat turiga boğliq.",
       "depth": 0
      },
      {
-      "text": "Insulin boshqa to’qimadan, Langerhans orolchalaridan to’g’ridan-to’g’ri qonga ajraladi (79-bob).",
+      "text": "Insulin boşqa töqimadan, Langerhans orolçalaridan töğridan-töğri qonga ajraladi (79-bob).",
       "depth": 0
      }
     ],
@@ -1410,23 +1410,23 @@
       "depth": 0
      },
      {
-      "text": "Tripsin (eng ko’p) va ximotripsin oqsillarni turli o’lchamdagi peptidlarga parchalaydi, alohida aminokislotalar chiqarmaydi.",
+      "text": "Tripsin (eng köp) va ximotripsin oqsillarni turli ölçamdagi peptidlarga parçalaydi, alohida aminokislotalar çiqarmaydi.",
       "depth": 1
      },
      {
-      "text": "Karboksipolipeptidaza ba’zi peptidlarni aminokislotalargacha parchalaydi.",
+      "text": "Karboksipolipeptidaza ba’zi peptidlarni aminokislotalargaça parçalaydi.",
       "depth": 1
      },
      {
-      "text": "**Uglevod:** me’da osti bezi amilazasi kraxmal, glikogen va boshqa uglevodlarni (sellulozadan tashqari) asosan disaxaridlar va oz trisaxaridlarga parchalaydi.",
+      "text": "**Uglevod:** me’da osti bezi amilazasi kraxmal, glikogen va boşqa uglevodlarni (sellulozadan taşqari) asosan disaxaridlar va oz trisaxaridlarga parçalaydi.",
       "depth": 0
      },
      {
-      "text": "**Yog':**",
+      "text": "**Yoğ:**",
       "depth": 0
      },
      {
-      "text": "Lipaza neytral yog’ni yog' kislotalari va monogliseridlarga parchalaydi.",
+      "text": "Lipaza neytral yoğni yoğ kislotalari va monogliseridlarga parçalaydi.",
       "depth": 1
      },
      {
@@ -1434,31 +1434,31 @@
       "depth": 1
      },
      {
-      "text": "Fosfolipaza fosfolipidlardan yog' kislotalarini ajratadi.",
+      "text": "Fosfolipaza fosfolipidlardan yoğ kislotalarini ajratadi.",
       "depth": 1
      },
      {
-      "text": "**Faollashuv:**",
+      "text": "**Faollaşuv:**",
       "depth": 0
      },
      {
-      "text": "Proteolitik fermentlar faol bo’lmagan shaklda sintezlanadi: tripsinogen, ximotripsinogen, prokarboksipolipeptidaza.",
+      "text": "Proteolitik fermentlar faol bölmagan şaklda sintezlanadi: tripsinogen, ximotripsinogen, prokarboksipolipeptidaza.",
       "depth": 1
      },
      {
-      "text": "Ichakka tushgandan keyin faollashadi:",
+      "text": "Içakka tuşgandan keyin faollaşadi:",
       "depth": 1
      },
      {
-      "text": "Tripsinogenni ichak shilliq qavati ajratadigan **enterokinaza** faollashtiradi.",
+      "text": "Tripsinogenni içak şilliq qavati ajratadigan **enterokinaza** faollaştiradi.",
       "depth": 2
      },
      {
-      "text": "Tripsin o’zi ham tripsinogenni avtokatalitik faollashtiradi.",
+      "text": "Tripsin özi ham tripsinogenni avtokatalitik faollaştiradi.",
       "depth": 2
      },
      {
-      "text": "Ximotripsinogen va prokarboksipolipeptidazani tripsin faollashtiradi.",
+      "text": "Ximotripsinogen va prokarboksipolipeptidazani tripsin faollaştiradi.",
       "depth": 2
      },
      {
@@ -1466,19 +1466,19 @@
       "depth": 0
      },
      {
-      "text": "Proteolitik fermentlarni ajratuvchi hujayralar bir vaqtda uni ham ajratadi.",
+      "text": "Proteolitik fermentlarni ajratuvçi hujayralar bir vaqtda uni ham ajratadi.",
       "depth": 1
      },
      {
-      "text": "Tripsinning hujayra, atsinus va yo’llarda faollashishini, demak boshqa fermentlarning ham faollashishini to’xtatadi.",
+      "text": "Tripsinning hujayra, atsinus va yöllarda faollaşişini, demak boşqa fermentlarning ham faollaşişini töxtatadi.",
       "depth": 1
      },
      {
-      "text": "Bez og’ir shikastlansa yoki yo’l tiqilsa, shira to’planib ingibitorni yengadi va bezni bir necha soatda hazm qiladi. Bu **o’tkir pankreatit**.",
+      "text": "Bez oğir şikastlansa yoki yöl tiqilsa, şira töplanib ingibitorni yengadi va bezni bir neça soatda hazm qiladi. Bu **ötkir pankreatit**.",
       "depth": 1
      },
      {
-      "text": "Qon aylanish shoki tufayli o’limga olib kelishi mumkin. Tirik qolsa, ko’pincha umrbod pankreatik yetishmovchilik qoladi.",
+      "text": "Qon aylaniş şoki tufayli ölimga olib kelişi mumkin. Tirik qolsa, köpinça umrbod pankreatik yetişmovçilik qoladi.",
       "depth": 1
      }
     ],
@@ -1494,7 +1494,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "HCO₃⁻ va suvni asosan yo’llar epiteliysi ajratadi. Mo’l sekretsiyada HCO₃⁻ 145 mEq/L gacha, plazmadagidan taxminan 5 baravar ko’p.",
+      "text": "HCO₃⁻ va suvni asosan yöllar epiteliysi ajratadi. Möl sekretsiyada HCO₃⁻ 145 mEq/L gaça, plazmadagidan taxminan 5 baravar köp.",
       "depth": 0
      },
      {
@@ -1506,19 +1506,19 @@
       "depth": 1
      },
      {
-      "text": "Qo’shimcha HCO₃⁻ bazolateral membranadan Na⁺ bilan birga kiradi.",
+      "text": "Qöşimça HCO₃⁻ bazolateral membranadan Na⁺ bilan birga kiradi.",
       "depth": 2
      },
      {
-      "text": "HCO₃⁻ luminal membranada ikkilamchi faol tashish bilan Cl⁻ ga almashinadi. Cl⁻ maxsus xlor kanallari orqali bo’shliqqa qaytariladi.",
+      "text": "HCO₃⁻ luminal membranada ikkilamçi faol taşiş bilan Cl⁻ ga almaşinadi. Cl⁻ maxsus xlor kanallari orqali böşliqqa qaytariladi.",
       "depth": 2
      },
      {
-      "text": "H⁺ bazolateral tomonda Na⁺ ga almashinadi. Na⁺ luminal tomonga o’tadi. Bo’shliqning manfiy potensiali ham Na⁺ ni zich birikmalar orqali tortadi.",
+      "text": "H⁺ bazolateral tomonda Na⁺ ga almaşinadi. Na⁺ luminal tomonga ötadi. Böşliqning manfiy potensiali ham Na⁺ ni ziç birikmalar orqali tortadi.",
       "depth": 1
      },
      {
-      "text": "Na⁺ va HCO₃⁻ ning qondan bo’shliqqa harakati osmotik gradient hosil qiladi, suv kiradi. Natijada deyarli izosmotik bikarbonat eritmasi.",
+      "text": "Na⁺ va HCO₃⁻ ning qondan böşliqqa harakati osmotik gradient hosil qiladi, suv kiradi. Natijada deyarli izosmotik bikarbonat eritmasi.",
       "depth": 1
      }
     ],
@@ -1526,7 +1526,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Boshqarish:** uchta asosiy stimul bor.",
+    "text": "**Boşqariş:** uçta asosiy stimul bor.",
     "bid": "ch65-u59"
    },
    {
@@ -1538,11 +1538,11 @@
       "depth": 0
      },
      {
-      "text": "**CCK:** ovqat ingichka ichakka tushganda o’n ikki barmoqli va yuqori och ichakdan ajraladi.",
+      "text": "**CCK:** ovqat ingiçka içakka tuşganda ön ikki barmoqli va yuqori oç içakdan ajraladi.",
       "depth": 0
      },
      {
-      "text": "**Sekretin:** kislotali ovqat tushganda o’n ikki barmoqli va och ichak shilliq qavatidan ajraladi.",
+      "text": "**Sekretin:** kislotali ovqat tuşganda ön ikki barmoqli va oç içak şilliq qavatidan ajraladi.",
       "depth": 0
      }
     ],
@@ -1553,15 +1553,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "ACh va CCK atsinuslarni qo’zg’atadi: ko’p ferment, lekin oz suv va elektrolit. Suv kelguncha fermentlar atsinus va yo’llarda saqlanadi.",
+      "text": "ACh va CCK atsinuslarni qözğatadi: köp ferment, lekin oz suv va elektrolit. Suv kelgunça fermentlar atsinus va yöllarda saqlanadi.",
       "depth": 0
      },
      {
-      "text": "Sekretin yo’l epiteliysidan ko’p NaHCO₃ eritmasi ajratadi.",
+      "text": "Sekretin yöl epiteliysidan köp NaHCO₃ eritmasi ajratadi.",
       "depth": 0
      },
      {
-      "text": "Stimullar bir vaqtda ta’sir qilsa, natija ularning yig’indisidan ancha katta, ya’ni bir-birini **potensiallaydi**.",
+      "text": "Stimullar bir vaqtda ta’sir qilsa, natija ularning yiğindisidan ança katta, ya’ni bir-birini **potensiallaydi**.",
       "depth": 0
      }
     ],
@@ -1577,15 +1577,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Bosh faza:** vagus ACh orqali fermentlarning taxminan 20% ini ajratadi, lekin suv kam bo’lgani uchun ichakka oz yetadi.",
+      "text": "**Boş faza:** vagus ACh orqali fermentlarning taxminan 20% ini ajratadi, lekin suv kam bölgani uçun içakka oz yetadi.",
       "depth": 0
      },
      {
-      "text": "**Oshqozon fazasi:** yana 5–10%, yana oz yetadi.",
+      "text": "**Oşqozon fazasi:** yana 5–10%, yana oz yetadi.",
       "depth": 0
      },
      {
-      "text": "**Ichak fazasi:** mo’l sekretsiya, asosan sekretin ta’sirida.",
+      "text": "**Içak fazasi:** möl sekretsiya, asosan sekretin ta’sirida.",
       "depth": 0
      }
     ],
@@ -1601,23 +1601,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "27 aminokislotali polipeptid (molekulyar og’irligi taxminan 3400).",
+      "text": "27 aminokislotali polipeptid (molekulyar oğirligi taxminan 3400).",
       "depth": 0
      },
      {
-      "text": "O’n ikki barmoqli va och ichak shilliq qavatidagi S hujayralarda faol bo’lmagan **prosekretin** shaklida saqlanadi.",
+      "text": "Ön ikki barmoqli va oç içak şilliq qavatidagi S hujayralarda faol bölmagan **prosekretin** şaklida saqlanadi.",
       "depth": 0
      },
      {
-      "text": "pH 4.5–5.0 dan past ximus tushganda faollashib qonga chiqadi. pH 3.0 ga tushganda ajralish keskin ortadi. Haqiqiy kuchli stimul faqat oshqozon HCl i.",
+      "text": "pH 4.5–5.0 dan past ximus tuşganda faollaşib qonga çiqadi. pH 3.0 ga tuşganda ajraliş keskin ortadi. Haqiqiy kuçli stimul faqat oşqozon HCl i.",
       "depth": 0
      },
      {
-      "text": "Me’da osti bezidan HCO₃⁻ ga boy (145 mEq/L gacha) va Cl⁻ ga kambag’al shira chaqiradi.",
+      "text": "Me’da osti bezidan HCO₃⁻ ga boy (145 mEq/L gaça) va Cl⁻ ga kambağal şira çaqiradi.",
       "depth": 0
      },
      {
-      "text": "O’n ikki barmoqli ichakda: HCl + NaHCO₃ → NaCl + H₂CO₃. H₂CO₃ CO₂ va suvga ajraladi. CO₂ qonga so’riladi va o’pka orqali chiqariladi, neytral NaCl eritmasi qoladi.",
+      "text": "Ön ikki barmoqli içakda: HCl + NaHCO₃ → NaCl + H₂CO₃. H₂CO₃ CO₂ va suvga ajraladi. CO₂ qonga söriladi va öpka orqali çiqariladi, neytral NaCl eritmasi qoladi.",
       "depth": 0
      },
      {
@@ -1625,11 +1625,11 @@
       "depth": 0
      },
      {
-      "text": "Peptik hazm darhol to’xtaydi. Ingichka ichak shilliq qavati kislotaga chidamaydi, shuning uchun bu o’n ikki barmoqli ichak yarasining oldini oladi (67-bob).",
+      "text": "Peptik hazm darhol töxtaydi. Ingiçka içak şilliq qavati kislotaga çidamaydi, şuning uçun bu ön ikki barmoqli içak yarasining oldini oladi (67-bob).",
       "depth": 1
      },
      {
-      "text": "Me’da osti bezi fermentlari uchun optimal muhit pH 7.0–8.0. Shira pH i o’rtacha 8.0.",
+      "text": "Me’da osti bezi fermentlari uçun optimal muhit pH 7.0–8.0. Şira pH i örtaça 8.0.",
       "depth": 1
      }
     ],
@@ -1645,35 +1645,35 @@
     "ordered": false,
     "items": [
      {
-      "text": "33 aminokislotali polipeptid. O’n ikki barmoqli va yuqori och ichakdagi **I hujayralar** ajratadi.",
+      "text": "33 aminokislotali polipeptid. Ön ikki barmoqli va yuqori oç içakdagi **I hujayralar** ajratadi.",
       "depth": 0
      },
      {
-      "text": "Stimuli: proteozalar va peptonlar (qisman parchalangan oqsil) hamda uzun zanjirli yog' kislotalari.",
+      "text": "Stimuli: proteozalar va peptonlar (qisman parçalangan oqsil) hamda uzun zanjirli yoğ kislotalari.",
       "depth": 0
      },
      {
-      "text": "Asosan atsinuslardan fermentlarni ajratadi. Ta’siri vagusga o’xshash, lekin kuchliroq: ovqatdan keyingi fermentlarning 70–80%.",
+      "text": "Asosan atsinuslardan fermentlarni ajratadi. Ta’siri vagusga öxşaş, lekin kuçliroq: ovqatdan keyingi fermentlarning 70–80%.",
       "depth": 0
      },
      {
-      "text": "Rasm 65-9 bo’yicha:",
+      "text": "Rasm 65-9 böyiça:",
       "depth": 0
      },
      {
-      "text": "Kislota → sekretin → kuchli NaHCO₃ sekretsiyasi.",
+      "text": "Kislota → sekretin → kuçli NaHCO₃ sekretsiyasi.",
       "depth": 1
      },
      {
-      "text": "Yog' (sovun) → ikki tomonlama ta’sir.",
+      "text": "Yoğ (sovun) → ikki tomonlama ta’sir.",
       "depth": 1
      },
      {
-      "text": "Peptonlar → CCK → kuchli ferment sekretsiyasi.",
+      "text": "Peptonlar → CCK → kuçli ferment sekretsiyasi.",
       "depth": 1
      },
      {
-      "text": "Kunlik me’da osti bezi shirasi taxminan 1 l.",
+      "text": "Kunlik me’da osti bezi şirasi taxminan 1 l.",
       "depth": 0
      }
     ],
@@ -1687,7 +1687,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Jigarning o’t sekretsiyasi",
+    "text": "Jigarning öt sekretsiyasi",
     "id": "ch65-s-69-jigarning-ot-sekretsiyasi",
     "bid": "ch65-u69"
    },
@@ -1704,19 +1704,19 @@
       "depth": 0
      },
      {
-      "text": "Yog' hazmi va so’rilishi. O’tda yog’ni parchalovchi ferment yo’q, lekin o’t kislotalari:",
+      "text": "Yoğ hazmi va sörilişi. Ötda yoğni parçalovçi ferment yöq, lekin öt kislotalari:",
       "depth": 1
      },
      {
-      "text": "Katta yog' zarralarini mayda zarralarga emulsiyalaydi, ularga lipaza ta’sir qiladi.",
+      "text": "Katta yoğ zarralarini mayda zarralarga emulsiyalaydi, ularga lipaza ta’sir qiladi.",
       "depth": 2
      },
      {
-      "text": "Yog' hazm mahsulotlarining shilliq qavat orqali so’rilishiga yordam beradi.",
+      "text": "Yoğ hazm mahsulotlarining şilliq qavat orqali sörilişiga yordam beradi.",
       "depth": 2
      },
      {
-      "text": "Chiqindilarni chiqarish: **bilirubin** (gemoglobin parchalanishining yakuniy mahsuloti) va ortiqcha xolesterol.",
+      "text": "Çiqindilarni çiqariş: **bilirubin** (gemoglobin parçalanişining yakuniy mahsuloti) va ortiqça xolesterol.",
       "depth": 1
      }
     ],
@@ -1724,7 +1724,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Ikki bosqichli sekretsiya:**",
+    "text": "**Ikki bosqiçli sekretsiya:**",
     "bid": "ch65-u71"
    },
    {
@@ -1732,19 +1732,19 @@
     "ordered": true,
     "items": [
      {
-      "text": "**Gepatotsitlar** o’t kislotalari, xolesterol va boshqa organik moddalarga boy dastlabki o’tni hujayralar orasidagi o’t kapillyarlariga (kanalchalarga) ajratadi (71-1 rasm).",
+      "text": "**Gepatotsitlar** öt kislotalari, xolesterol va boşqa organik moddalarga boy dastlabki ötni hujayralar orasidagi öt kapillyarlariga (kanalçalarga) ajratadi (71-1 rasm).",
       "depth": 0
      },
      {
-      "text": "O’t kanalchalar orqali bo’laklararo to’siqlarga, terminal yo’llarga, so’ng tobora kattaroq yo’llarga, jigar va umumiy o’t yo’liga oqadi.",
+      "text": "Öt kanalçalar orqali bölaklararo tösiqlarga, terminal yöllarga, söng tobora kattaroq yöllarga, jigar va umumiy öt yöliga oqadi.",
       "depth": 0
      },
      {
-      "text": "U yerdan to’g’ridan-to’g’ri o’n ikki barmoqli ichakka quyiladi yoki pufak yo’li orqali daqiqalardan bir necha soatgacha o’t pufagiga yo’naltiriladi.",
+      "text": "U yerdan töğridan-töğri ön ikki barmoqli içakka quyiladi yoki pufak yöli orqali daqiqalardan bir neça soatgaça öt pufagiga yönaltiriladi.",
       "depth": 1
      },
      {
-      "text": "Yo’l bo’ylab epiteliy Na⁺ va HCO₃⁻ ga boy suvli eritma qo’shadi. U o’t hajmini 100% gacha oshirishi mumkin va asosan sekretin bilan qo’zg’aladi.",
+      "text": "Yöl böylab epiteliy Na⁺ va HCO₃⁻ ga boy suvli eritma qöşadi. U öt hajmini 100% gaça oşirişi mumkin va asosan sekretin bilan qözğaladi.",
       "depth": 1
      }
     ],
@@ -1752,7 +1752,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**O’t pufagi:**",
+    "text": "**Öt pufagi:**",
     "bid": "ch65-u73"
    },
    {
@@ -1764,19 +1764,19 @@
       "depth": 0
      },
      {
-      "text": "Sababi: suv, Na⁺, Cl⁻ va boshqa kichik elektrolitlar doimiy so’riladi.",
+      "text": "Sababi: suv, Na⁺, Cl⁻ va boşqa kiçik elektrolitlar doimiy söriladi.",
       "depth": 0
      },
      {
-      "text": "Asosiy mexanizm Na⁺ ning faol tashilishi, Cl⁻ va suv uning ortidan.",
+      "text": "Asosiy mexanizm Na⁺ ning faol taşilişi, Cl⁻ va suv uning ortidan.",
       "depth": 1
      },
      {
-      "text": "O’t tuzlari, xolesterol, letsitin va bilirubin konsentrlanadi.",
+      "text": "Öt tuzlari, xolesterol, letsitin va bilirubin konsentrlanadi.",
       "depth": 1
      },
      {
-      "text": "Odatda taxminan 5 baravar, maksimal 20 baravargacha konsentrlanadi.",
+      "text": "Odatda taxminan 5 baravar, maksimal 20 baravargaça konsentrlanadi.",
       "depth": 0
      }
     ],
@@ -1784,7 +1784,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**O’t tarkibi (Jadval 65-2):**",
+    "text": "**Öt tarkibi (Jadval 65-2):**",
     "bid": "ch65-u75"
    },
    {
@@ -1796,8 +1796,8 @@
     "type": "table",
     "header": [
      "Modda",
-     "Jigar o’ti",
-     "Pufak o’ti"
+     "Jigar öti",
+     "Pufak öti"
     ],
     "rows": [
      [
@@ -1806,7 +1806,7 @@
       "92 g/dl"
      ],
      [
-      "O’t tuzlari",
+      "O‘t tuzlari",
       "1.1 g/dl",
       "6 g/dl"
      ],
@@ -1821,7 +1821,7 @@
       "0.3–0.9 g/dl"
      ],
      [
-      "Yog' kislotalari",
+      "Yog‘ kislotalari",
       "0.12 g/dl",
       "0.3–1.2 g/dl"
      ],
@@ -1863,11 +1863,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "O’t tuzlari erigan moddalarning taxminan yarmi.",
+      "text": "Öt tuzlari erigan moddalarning taxminan yarmi.",
       "depth": 0
      },
      {
-      "text": "Pufakda suv va ko’p elektrolitlar (Ca²⁺ dan tashqari) so’riladi. O’t tuzlari, xolesterol va letsitin so’rilmaydi va konsentrlanadi.",
+      "text": "Pufakda suv va köp elektrolitlar (Ca²⁺ dan taşqari) söriladi. Öt tuzlari, xolesterol va letsitin sörilmaydi va konsentrlanadi.",
       "depth": 0
      }
     ],
@@ -1875,7 +1875,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Bo’shalish:**",
+    "text": "**Böşaliş:**",
     "bid": "ch65-u79"
    },
    {
@@ -1883,23 +1883,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "Ovqat hazmi boshlanganda, ayniqsa yog’li ovqat o’n ikki barmoqli ichakka yetganda (ovqatdan taxminan 30 daqiqa keyin) boshlanadi.",
+      "text": "Ovqat hazmi boşlanganda, ayniqsa yoğli ovqat ön ikki barmoqli içakka yetganda (ovqatdan taxminan 30 daqiqa keyin) boşlanadi.",
       "depth": 0
      },
      {
-      "text": "Mexanizm: pufak devorining ritmik qisqarishi va bir vaqtda Oddi sfinkterining bo’shashishi.",
+      "text": "Mexanizm: pufak devorining ritmik qisqarişi va bir vaqtda Oddi sfinkterining böşaşişi.",
       "depth": 0
      },
      {
-      "text": "Eng kuchli stimul **CCK**, asosan yog’li ovqat ta’sirida ajraladi. U me’da osti bezi fermentlarini ham oshiradi.",
+      "text": "Eng kuçli stimul **CCK**, asosan yoğli ovqat ta’sirida ajraladi. U me’da osti bezi fermentlarini ham oşiradi.",
       "depth": 0
      },
      {
-      "text": "Vagus va enterik tizimning ACh tolalari kuchsizroq qo’zg’atadi.",
+      "text": "Vagus va enterik tizimning ACh tolalari kuçsizroq qözğatadi.",
       "depth": 0
      },
      {
-      "text": "Ovqatda yog' bo’lmasa, pufak yomon bo’shaydi. Ko’p yog' bo’lsa, taxminan 1 soatda to’liq bo’shaydi.",
+      "text": "Ovqatda yoğ bölmasa, pufak yomon böşaydi. Köp yoğ bölsa, taxminan 1 soatda töliq böşaydi.",
       "depth": 0
      }
     ],
@@ -1907,7 +1907,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**O’t tuzlari:**",
+    "text": "**Öt tuzlari:**",
     "bid": "ch65-u81"
    },
    {
@@ -1927,11 +1927,11 @@
       "depth": 1
      },
      {
-      "text": "Bu kislotalar asosan glitsin, kamroq taurin bilan qo’shiladi (glitsin va taurin konyugatlari).",
+      "text": "Bu kislotalar asosan glitsin, kamroq taurin bilan qöşiladi (glitsin va taurin konyugatlari).",
       "depth": 1
      },
      {
-      "text": "Asosan natriy tuzlari shaklida o’tga chiqariladi.",
+      "text": "Asosan natriy tuzlari şaklida ötga çiqariladi.",
       "depth": 1
      },
      {
@@ -1939,23 +1939,23 @@
       "depth": 0
      },
      {
-      "text": "**Detergent (emulsiyalovchi) ta’sir:** yog' zarralarining sirt tarangligini pasaytiradi. Ichak harakati yog' tomchilarini mayda zarralarga parchalaydi.",
+      "text": "**Detergent (emulsiyalovçi) ta’sir:** yoğ zarralarining sirt tarangligini pasaytiradi. Içak harakati yoğ tomçilarini mayda zarralarga parçalaydi.",
       "depth": 1
      },
      {
-      "text": "**So’rilish (bundan ham muhimroq):** yog' kislotalari, monogliseridlar, xolesterol va boshqa lipidlar bilan **mitsellalar** hosil qiladi.",
+      "text": "**Söriliş (bundan ham muhimroq):** yoğ kislotalari, monogliseridlar, xolesterol va boşqa lipidlar bilan **mitsellalar** hosil qiladi.",
       "depth": 1
      },
      {
-      "text": "Mitsellalar o’t tuzlarining zaryadi tufayli ximusda yarim eriydi.",
+      "text": "Mitsellalar öt tuzlarining zaryadi tufayli ximusda yarim eriydi.",
       "depth": 2
      },
      {
-      "text": "Lipidlarni shilliq qavatgacha \"tashiydi\" (66-bob).",
+      "text": "Lipidlarni şilliq qavatgaça “taşiydi” (66-bob).",
       "depth": 2
      },
      {
-      "text": "O’t tuzlari bo’lmasa, yeyilgan yog’ning 40% gacha najas bilan yo’qoladi va metabolik tanqislik rivojlanadi.",
+      "text": "Öt tuzlari bölmasa, yeyilgan yoğning 40% gaça najas bilan yöqoladi va metabolik tanqislik rivojlanadi.",
       "depth": 0
      }
     ],
@@ -1963,7 +1963,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Enterogepatik aylanish:**",
+    "text": "**Enterogepatik aylaniş:**",
     "bid": "ch65-u83"
    },
    {
@@ -1971,31 +1971,31 @@
     "ordered": false,
     "items": [
      {
-      "text": "O’t tuzlarining taxminan 94% ingichka ichakdan qonga qayta so’riladi.",
+      "text": "Öt tuzlarining taxminan 94% ingiçka içakdan qonga qayta söriladi.",
       "depth": 0
      },
      {
-      "text": "Yarmi ingichka ichakning boshlang’ich qismida diffuziya bilan.",
+      "text": "Yarmi ingiçka içakning boşlanğiç qismida diffuziya bilan.",
       "depth": 1
      },
      {
-      "text": "Qolgani distal yonbosh ichakda faol tashish bilan.",
+      "text": "Qolgani distal yonboş içakda faol taşiş bilan.",
       "depth": 1
      },
      {
-      "text": "Darvoza venasi orqali jigarga qaytadi va sinusoidlardan birinchi o’tishda deyarli to’liq gepatotsitlarga so’rilib, yana o’tga chiqariladi.",
+      "text": "Darvoza venasi orqali jigarga qaytadi va sinusoidlardan birinçi ötişda deyarli töliq gepatotsitlarga sörilib, yana ötga çiqariladi.",
       "depth": 0
      },
      {
-      "text": "O’rtacha har bir tuz najasga chiqquncha taxminan 17 marta aylanadi. Yo’qotilgani jigarda yangidan sintezlanadi.",
+      "text": "Örtaça har bir tuz najasga çiqqunça taxminan 17 marta aylanadi. Yöqotilgani jigarda yangidan sintezlanadi.",
       "depth": 0
      },
      {
-      "text": "Aylanishdagi umumiy miqdor atigi taxminan 2.5 g. Kunlik o’t hajmi shu miqdorga kuchli bog’liq: qo’shimcha o’t tuzlari iste’moli sekretsiyani kuniga bir necha yuz ml ga oshiradi.",
+      "text": "Aylanişdagi umumiy miqdor atigi taxminan 2.5 g. Kunlik öt hajmi şu miqdorga kuçli boğliq: qöşimça öt tuzlari iste’moli sekretsiyani kuniga bir neça yuz ml ga oşiradi.",
       "depth": 0
      },
      {
-      "text": "O’t oqmasi (fistula) bir necha kun yoki hafta tuzlarni tashqariga chiqarsa, jigar ishlab chiqarishni 6–10 baravar oshiradi va o’t sekretsiyasi deyarli normaga qaytadi.",
+      "text": "Öt oqmasi (fistula) bir neça kun yoki hafta tuzlarni taşqariga çiqarsa, jigar işlab çiqarişni 6–10 baravar oşiradi va öt sekretsiyasi deyarli normaga qaytadi.",
       "depth": 0
      }
     ],
@@ -2003,7 +2003,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Sekretin va o':**",
+    "text": "**Sekretin va ö:**",
     "bid": "ch65-u85"
    },
    {
@@ -2011,11 +2011,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Sekretin ovqatdan keyin bir necha soat o’t sekretsiyasini ba’zan 2 baravardan ko’proq oshiradi.",
+      "text": "Sekretin ovqatdan keyin bir neça soat öt sekretsiyasini ba’zan 2 baravardan köproq oşiradi.",
       "depth": 0
      },
      {
-      "text": "Bu deyarli butunlay yo’l va yo’lchalar epiteliysining NaHCO₃ ga boy suvli sekretsiyasi, gepatotsitlar sekretsiyasi emas.",
+      "text": "Bu deyarli butunlay yöl va yölçalar epiteliysining NaHCO₃ ga boy suvli sekretsiyasi, gepatotsitlar sekretsiyasi emas.",
       "depth": 0
      },
      {
@@ -2027,7 +2027,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Xolesterol va o’t toshlari:**",
+    "text": "**Xolesterol va öt toşlari:**",
     "bid": "ch65-u87"
    },
    {
@@ -2035,51 +2035,51 @@
     "ordered": false,
     "items": [
      {
-      "text": "O’t tuzlari hosil bo’lishida kuniga 1–2 g xolesterol plazmadan o’tga chiqariladi.",
+      "text": "Öt tuzlari hosil bölişida kuniga 1–2 g xolesterol plazmadan ötga çiqariladi.",
       "depth": 0
      },
      {
-      "text": "Xolesterol toza suvda deyarli erimaydi. O’t tuzlari va letsitin bilan ultramikroskopik mitsellalar hosil qilib, kolloid eritmada turadi. Pufakda ular birga konsentrlanadi va xolesterol eriydigan holda qoladi.",
+      "text": "Xolesterol toza suvda deyarli erimaydi. Öt tuzlari va letsitin bilan ultramikroskopik mitsellalar hosil qilib, kolloid eritmada turadi. Pufakda ular birga konsentrlanadi va xolesterol eriydigan holda qoladi.",
       "depth": 0
      },
      {
-      "text": "Patologik holatda xolesterol cho’kib, **xolesterol toshlari** hosil qiladi.",
+      "text": "Patologik holatda xolesterol çökib, **xolesterol toşlari** hosil qiladi.",
       "depth": 0
      },
      {
-      "text": "Toshlar sabablari (Rasm 65-12):",
+      "text": "Toşlar sabablari (Rasm 65-12):",
       "depth": 0
      },
      {
-      "text": "O’tdan juda ko’p suv so’rilishi.",
+      "text": "Ötdan juda köp suv sörilişi.",
       "depth": 1
      },
      {
-      "text": "Juda ko’p o’t kislotalari so’rilishi.",
+      "text": "Juda köp öt kislotalari sörilişi.",
       "depth": 1
      },
      {
-      "text": "O’tda xolesterol juda ko’pligi.",
+      "text": "Ötda xolesterol juda köpligi.",
       "depth": 1
      },
      {
-      "text": "Epiteliy yallig’lanishi.",
+      "text": "Epiteliy yalliğlanişi.",
       "depth": 1
      },
      {
-      "text": "O’tdagi xolesterol miqdori qisman iste’mol qilingan yog’ga bog’liq, chunki jigar yog' metabolizmi mahsuloti sifatida xolesterol sintezlaydi. Shuning uchun yillab yog’li ovqat yegan semiz odamlarda xavf yuqori.",
+      "text": "Ötdagi xolesterol miqdori qisman iste’mol qilingan yoğga boğliq, çunki jigar yoğ metabolizmi mahsuloti sifatida xolesterol sintezlaydi. Şuning uçun yillab yoğli ovqat yegan semiz odamlarda xavf yuqori.",
       "depth": 0
      },
      {
-      "text": "Boshqa xavf omillari: yosh, ayol jinsi, qandli diabet, genetik moyillik.",
+      "text": "Boşqa xavf omillari: yoş, ayol jinsi, qandli diabet, genetik moyillik.",
       "depth": 0
      },
      {
-      "text": "Surunkali past darajali infeksiya tufayli epiteliy yallig’lansa, so’rilish xossalari o’zgaradi: suv va o’t tuzlari ortiqcha so’riladi, xolesterol tobora konsentrlanadi.",
+      "text": "Surunkali past darajali infeksiya tufayli epiteliy yalliğlansa, söriliş xossalari özgaradi: suv va öt tuzlari ortiqça söriladi, xolesterol tobora konsentrlanadi.",
       "depth": 0
      },
      {
-      "text": "Avval yallig’langan shilliq qavat yuzasida mayda kristallar hosil bo’ladi, so’ng katta toshlarga aylanadi.",
+      "text": "Avval yalliğlangan şilliq qavat yuzasida mayda kristallar hosil böladi, söng katta toşlarga aylanadi.",
       "depth": 1
      }
     ],
@@ -2093,7 +2093,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Ingichka ichak sekretsiyasi",
+    "text": "Ingiçka içak sekretsiyasi",
     "id": "ch65-s-90-ingichka-ichak-sekretsiyasi",
     "bid": "ch65-u90"
    },
@@ -2107,19 +2107,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "O’n ikki barmoqli ichakning birinchi bir necha sm ida, asosan pilorus va Vater so’rg’ichi orasida joylashgan murakkab shilliq bezlar.",
+      "text": "Ön ikki barmoqli içakning birinçi bir neça sm ida, asosan pilorus va Vater sörğiçi orasida joylaşgan murakkab şilliq bezlar.",
       "depth": 0
      },
      {
-      "text": "Ko’p ishqoriy shilliq ajratadi. Stimullar:",
+      "text": "Köp işqoriy şilliq ajratadi. Stimullar:",
       "depth": 0
      },
      {
-      "text": "Shilliq qavatga teginish yoki ta’sirlanish.",
+      "text": "Şilliq qavatga teginiş yoki ta’sirlaniş.",
       "depth": 1
      },
      {
-      "text": "Vagus (oshqozon sekretsiyasi bilan bir vaqtda).",
+      "text": "Vagus (oşqozon sekretsiyasi bilan bir vaqtda).",
       "depth": 1
      },
      {
@@ -2127,11 +2127,11 @@
       "depth": 1
      },
      {
-      "text": "Vazifasi: o’n ikki barmoqli ichak devorini kislotali shiradan himoya qilish. Shilliq ko’p HCO₃⁻ ga ega va me’da osti bezi va o’t HCO₃⁻ i bilan birga kislotani neytrallaydi.",
+      "text": "Vazifasi: ön ikki barmoqli içak devorini kislotali şiradan himoya qiliş. Şilliq köp HCO₃⁻ ga ega va me’da osti bezi va öt HCO₃⁻ i bilan birga kislotani neytrallaydi.",
       "depth": 0
      },
      {
-      "text": "Simpatik ularni tormozlaydi. Juda qo’zg’aluvchan odamlarda o’n ikki barmoqli ichak piyozchasi himoyasiz qolishi mumkin. Bu peptik yaralarning taxminan 50% shu joyda bo’lishining sabablaridan biri bo’lishi mumkin.",
+      "text": "Simpatik ularni tormozlaydi. Juda qözğaluvçan odamlarda ön ikki barmoqli içak piyozçasi himoyasiz qolişi mumkin. Bu peptik yaralarning taxminan 50% şu joyda bölişining sabablaridan biri bölişi mumkin.",
       "depth": 0
      }
     ],
@@ -2147,7 +2147,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Butun ingichka ichakda vorsinkalar orasida joylashgan.",
+      "text": "Butun ingiçka içakda vorsinkalar orasida joylaşgan.",
       "depth": 0
      },
      {
@@ -2155,15 +2155,15 @@
       "depth": 0
      },
      {
-      "text": "Mo''tadil sondagi **qadahsimon hujayralar**: moylovchi va himoya qiluvchi shilliq.",
+      "text": "Mö’tadil sondagi **qadahsimon hujayralar**: moylovçi va himoya qiluvçi şilliq.",
       "depth": 1
      },
      {
-      "text": "Ko’p sondagi **enterotsitlar**: kriptalarda ko’p suv va elektrolit ajratadi, vorsinkalar yuzasida ularni hazm mahsulotlari bilan birga qayta so’radi.",
+      "text": "Köp sondagi **enterotsitlar**: kriptalarda köp suv va elektrolit ajratadi, vorsinkalar yuzasida ularni hazm mahsulotlari bilan birga qayta söradi.",
       "depth": 1
      },
      {
-      "text": "Kriptalar kuniga taxminan 1800 ml deyarli toza hujayradan tashqari suyuqlik ajratadi, pH 7.5–8.0. U vorsinkalar tomonidan tez qayta so’riladi va so’rilish uchun suyuq muhit bo’ladi.",
+      "text": "Kriptalar kuniga taxminan 1800 ml deyarli toza hujayradan taşqari suyuqlik ajratadi, pH 7.5–8.0. U vorsinkalar tomonidan tez qayta söriladi va söriliş uçun suyuq muhit böladi.",
       "depth": 0
      },
      {
@@ -2179,7 +2179,7 @@
       "depth": 1
      },
      {
-      "text": "Ular Na⁺ ni elektr tortadi, keyin suv osmos bilan o’tadi.",
+      "text": "Ular Na⁺ ni elektr tortadi, keyin suv osmos bilan ötadi.",
       "depth": 1
      }
     ],
@@ -2195,31 +2195,31 @@
     "ordered": false,
     "items": [
      {
-      "text": "Hujayra qoldiqlarisiz yig’ilgan ichak shirasida deyarli ferment yo’q.",
+      "text": "Hujayra qoldiqlarisiz yiğilgan içak şirasida deyarli ferment yöq.",
       "depth": 0
      },
      {
-      "text": "Fermentlar enterotsitlar ichida, ayniqsa vorsinkalar yuzasidagilarida. Ular moddalarni epiteliy orqali so’rilayotgan paytda hazm qiladi:",
+      "text": "Fermentlar enterotsitlar içida, ayniqsa vorsinkalar yuzasidagilarida. Ular moddalarni epiteliy orqali sörilayotgan paytda hazm qiladi:",
       "depth": 0
      },
      {
-      "text": "Kichik peptidlarni aminokislotalarga parchalovchi peptidazalar.",
+      "text": "Kiçik peptidlarni aminokislotalarga parçalovçi peptidazalar.",
       "depth": 1
      },
      {
-      "text": "Disaxaridlarni monosaxaridlarga parchalovchi to’rt ferment: saxaraza, maltaza, izomaltaza, laktaza.",
+      "text": "Disaxaridlarni monosaxaridlarga parçalovçi tört ferment: saxaraza, maltaza, izomaltaza, laktaza.",
       "depth": 1
      },
      {
-      "text": "Neytral yog’ni glitserin va yog' kislotalariga parchalovchi oz miqdordagi ichak lipazasi.",
+      "text": "Neytral yoğni glitserin va yoğ kislotalariga parçalovçi oz miqdordagi içak lipazasi.",
       "depth": 1
      },
      {
-      "text": "Kripta tubidagi hujayralar doimiy bo’linadi. Yangi hujayralar bazal membrana bo’ylab vorsinka uchiga ko’tariladi, eski hujayralar ichak shirasiga tushadi.",
+      "text": "Kripta tubidagi hujayralar doimiy bölinadi. Yangi hujayralar bazal membrana böylab vorsinka uçiga kötariladi, eski hujayralar içak şirasiga tuşadi.",
       "depth": 0
      },
      {
-      "text": "Ichak epiteliy hujayrasining umri taxminan 5 kun. Bu shilliq qavat shikastlarining tez tiklanishiga ham imkon beradi.",
+      "text": "Içak epiteliy hujayrasining umri taxminan 5 kun. Bu şilliq qavat şikastlarining tez tiklanişiga ham imkon beradi.",
       "depth": 0
      },
      {
@@ -2236,13 +2236,13 @@
    },
    {
     "type": "paragraph",
-    "text": "**Boshqarish:** eng muhimi mahalliy enterik reflekslar, ayniqsa ximusning teginish va ta’sirlovchi stimullaridan.",
+    "text": "**Boşqariş:** eng muhimi mahalliy enterik reflekslar, ayniqsa ximusning teginiş va ta’sirlovçi stimullaridan.",
     "bid": "ch65-u98"
    },
    {
     "type": "heading",
     "level": 2,
-    "text": "Yo’g’on ichak sekretsiyasi",
+    "text": "Yöğon içak sekretsiyasi",
     "id": "ch65-s-99-yogon-ichak-sekretsiyasi",
     "bid": "ch65-u99"
    },
@@ -2251,27 +2251,27 @@
     "ordered": false,
     "items": [
      {
-      "text": "Kriptalar bor, lekin vorsinkalar yo’q. Hujayralar deyarli ferment ajratmaydi, asosan shilliq hujayralar.",
+      "text": "Kriptalar bor, lekin vorsinkalar yöq. Hujayralar deyarli ferment ajratmaydi, asosan şilliq hujayralar.",
       "depth": 0
      },
      {
-      "text": "Shilliqda shilliq ajratmaydigan oz sonli hujayralardan kelgan mo''tadil miqdorda HCO₃⁻ bor.",
+      "text": "Şilliqda şilliq ajratmaydigan oz sonli hujayralardan kelgan mö’tadil miqdorda HCO₃⁻ bor.",
       "depth": 0
      },
      {
-      "text": "Boshqarish:",
+      "text": "Boşqariş:",
       "depth": 0
      },
      {
-      "text": "Asosan epiteliyga to’g’ridan-to’g’ri teginish va kriptalardagi mahalliy reflekslar.",
+      "text": "Asosan epiteliyga töğridan-töğri teginiş va kriptalardagi mahalliy reflekslar.",
       "depth": 1
      },
      {
-      "text": "Yo’g’on ichakning distal 1/2–2/3 qismiga boradigan tos nervlarining parasimpatik stimulyatsiyasi shilliqni keskin oshiradi va harakatni kuchaytiradi (64-bob).",
+      "text": "Yöğon içakning distal 1/2–2/3 qismiga boradigan tos nervlarining parasimpatik stimulyatsiyasi şilliqni keskin oşiradi va harakatni kuçaytiradi (64-bob).",
       "depth": 1
      },
      {
-      "text": "Kuchli parasimpatik stimulyatsiyada, ko’pincha hissiy buzilishlarda, har 30 daqiqada deyarli najassiz, ipsimon shilliq chiqishi mumkin.",
+      "text": "Kuçli parasimpatik stimulyatsiyada, köpinça hissiy buzilişlarda, har 30 daqiqada deyarli najassiz, ipsimon şilliq çiqişi mumkin.",
       "depth": 0
      },
      {
@@ -2279,19 +2279,19 @@
       "depth": 0
      },
      {
-      "text": "Devorni tirnalishdan himoya qiladi.",
+      "text": "Devorni tirnalişdan himoya qiladi.",
       "depth": 1
      },
      {
-      "text": "Najasni bir-biriga yopishtiradi.",
+      "text": "Najasni bir-biriga yopiştiradi.",
       "depth": 1
      },
      {
-      "text": "Najasdagi kuchli bakterial faollikdan devorni himoya qiladi.",
+      "text": "Najasdagi kuçli bakterial faollikdan devorni himoya qiladi.",
       "depth": 1
      },
      {
-      "text": "Ishqoriyligi (pH 8.0, ko’p NaHCO₃) najasda hosil bo’lgan kislotalardan to’siq bo’ladi.",
+      "text": "Işqoriyligi (pH 8.0, köp NaHCO₃) najasda hosil bölgan kislotalardan tösiq böladi.",
       "depth": 1
      },
      {
@@ -2299,15 +2299,15 @@
       "depth": 0
      },
      {
-      "text": "Masalan, enteritda bakterial infeksiya keng tarqalganda shilliq qavat kuchli ta’sirlanadi va oddiy shilliqqa qo’shimcha ko’p suv va elektrolit ajratadi.",
+      "text": "Masalan, enteritda bakterial infeksiya keng tarqalganda şilliq qavat kuçli ta’sirlanadi va oddiy şilliqqa qöşimça köp suv va elektrolit ajratadi.",
       "depth": 1
      },
      {
-      "text": "Bu ta’sirlovchilarni suyultiradi va najasni anus tomon tez suradi. Natijada ko’p suv va elektrolit yo’qoladi.",
+      "text": "Bu ta’sirlovçilarni suyultiradi va najasni anus tomon tez suradi. Natijada köp suv va elektrolit yöqoladi.",
       "depth": 1
      },
      {
-      "text": "Lekin ta’sirlovchilarni yuvib chiqarib, tezroq tuzalishga yordam beradi.",
+      "text": "Lekin ta’sirlovçilarni yuvib çiqarib, tezroq tuzalişga yordam beradi.",
       "depth": 1
      }
     ],
@@ -2325,11 +2325,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "So’lak yo’qligi (kserostomiya): yutish qiyinlashadi, og’iz yaralari va karies.",
+      "text": "Sölak yöqligi (kserostomiya): yutiş qiyinlaşadi, oğiz yaralari va karies.",
       "depth": 0
      },
      {
-      "text": "Aspirin va alkogol oshqozon to’sig’ini buzadi.",
+      "text": "Aspirin va alkogol oşqozon tösiğini buzadi.",
       "depth": 0
      },
      {
@@ -2337,27 +2337,27 @@
       "depth": 0
      },
      {
-      "text": "Hissiy stress interdigestiv sekretsiyani oshiradi, peptik yara xavfi.",
+      "text": "Hissiy stress interdigestiv sekretsiyani oşiradi, peptik yara xavfi.",
       "depth": 0
      },
      {
-      "text": "O’tkir pankreatit: tripsin ingibitori yengiladi, bez o’zini hazm qiladi.",
+      "text": "Ötkir pankreatit: tripsin ingibitori yengiladi, bez özini hazm qiladi.",
       "depth": 0
      },
      {
-      "text": "O’t tuzlari bo’lmasa, yog' najas bilan yo’qoladi (steatoreya).",
+      "text": "Öt tuzlari bölmasa, yoğ najas bilan yöqoladi (steatoreya).",
       "depth": 0
      },
      {
-      "text": "O’t oqmasi (fistula) jigarning o’t tuzlari sintezini oshiradi.",
+      "text": "Öt oqmasi (fistula) jigarning öt tuzlari sintezini oşiradi.",
       "depth": 0
      },
      {
-      "text": "Xolesterol o’t toshlari: semizlik, yog’li ovqat, yosh, ayol jinsi, diabet, genetika, yallig’lanish.",
+      "text": "Xolesterol öt toşlari: semizlik, yoğli ovqat, yoş, ayol jinsi, diabet, genetika, yalliğlaniş.",
       "depth": 0
      },
      {
-      "text": "Simpatik ta’sir Brunner bezlarini tormozlaydi: o’n ikki barmoqli ichak piyozchasi yarasi.",
+      "text": "Simpatik ta’sir Brunner bezlarini tormozlaydi: ön ikki barmoqli içak piyozçasi yarasi.",
       "depth": 0
      },
      {
@@ -2370,13 +2370,13 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Bog’liqlik",
+    "text": "Boğliqlik",
     "id": "ch65-s-103-bogliqlik",
     "bid": "ch65-u103"
    },
    {
     "type": "paragraph",
-    "text": "7, 33 (B12, pernitsioz anemiya), 61 (avtonom tizim), 63 (gormonlar), 64 (harakat va bo’shalish), 66 (hazm va so’rilish), 67 (yara, pankreatit), 71 (jigar), 79 (insulin).",
+    "text": "7, 33 (B12, pernitsioz anemiya), 61 (avtonom tizim), 63 (gormonlar), 64 (harakat va böşaliş), 66 (hazm va söriliş), 67 (yara, pankreatit), 71 (jigar), 79 (insulin).",
     "bid": "ch65-u104"
    }
   ],
@@ -3579,7 +3579,7 @@
    "id": "ch65-t-lieberk-hn-kriptalari",
    "termUz": "Lieberkühn kriptalari",
    "original": null,
-   "contextUz": "Ingichka ichakda ular Lieberkühn kriptalari, ichida maxsus sekretor hujayralar bor.",
+   "contextUz": "Ingiçka içakda ular Lieberkühn kriptalari, içida maxsus sekretor hujayralar bor.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -3599,7 +3599,7 @@
    "id": "ch65-t-parasimpatik",
    "termUz": "Parasimpatik",
    "original": null,
-   "contextUz": "Parasimpatik deyarli doim sekretsiyani oshiradi.",
+   "contextUz": "Parasimpatik deyarli doim sekretsiyani oşiradi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -3609,7 +3609,7 @@
    "id": "ch65-t-simpatik",
    "termUz": "Simpatik",
    "original": null,
-   "contextUz": "Simpatik ikki xil ta’sir qiladi: Yolg’iz o’zi sekretsiyani biroz oshiradi.",
+   "contextUz": "Simpatik ikki xil ta’sir qiladi: Yolğiz özi sekretsiyani biroz oşiradi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -3619,7 +3619,7 @@
    "id": "ch65-t-gormonlar",
    "termUz": "Gormonlar",
    "original": "polipeptidlar",
-   "contextUz": "Gormonlar (polipeptidlar) shilliq qavatdan qonga chiqadi va bezlarni qo’zg’atadi.",
+   "contextUz": "Gormonlar (polipeptidlar) şilliq qavatdan qonga çiqadi va bezlarni qözğatadi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -3639,7 +3639,7 @@
    "id": "ch65-t-ekzotsitoz",
    "termUz": "ekzotsitoz",
    "original": null,
-   "contextUz": "Nerv yoki gormon signali kelganda Ca²⁺ kiradi, pufakchalar apikal membrana bilan qo’shilib, tashqariga chiqadi (ekzotsitoz).",
+   "contextUz": "Nerv yoki gormon signali kelganda Ca²⁺ kiradi, pufakçalar apikal membrana bilan qöşilib, taşqariga çiqadi (ekzotsitoz).",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -3647,9 +3647,9 @@
   },
   {
    "id": "ch65-t-shilliq-mukus",
-   "termUz": "Shilliq (mukus)",
+   "termUz": "Şilliq (mukus)",
    "original": null,
-   "contextUz": "Shilliq (mukus): suv, elektrolitlar va glikoproteinlardan iborat.",
+   "contextUz": "Şilliq (mukus): suv, elektrolitlar va glikoproteinlardan iborat.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -3679,7 +3679,7 @@
    "id": "ch65-t-seroz",
    "termUz": "Seroz",
    "original": null,
-   "contextUz": "Ikki xil oqsil sekretsiyasi: Seroz: ptialin (α-amilaza), kraxmalni parchalaydi.",
+   "contextUz": "Ikki xil oqsil sekretsiyasi: Seroz: ptialin (α-amilaza), kraxmalni parçalaydi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -3687,9 +3687,9 @@
   },
   {
    "id": "ch65-t-shilliq",
-   "termUz": "Shilliq",
+   "termUz": "Şilliq",
    "original": null,
-   "contextUz": "Shilliq: mutsin, moylash va himoya uchun.",
+   "contextUz": "Şilliq: mutsin, moylaş va himoya uçun.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -3698,8 +3698,8 @@
   {
    "id": "ch65-t-ion-tarkibi",
    "termUz": "Ion tarkibi",
-   "original": "K⁺ va HCO₃⁻ ko’p, Na⁺ va Cl⁻ kam",
-   "contextUz": "Ion tarkibi (K⁺ va HCO₃⁻ ko’p, Na⁺ va Cl⁻ kam).",
+   "original": "K⁺ va HCO₃⁻ ko‘p, Na⁺ va Cl⁻ kam",
+   "contextUz": "Ion tarkibi (K⁺ va HCO₃⁻ köp, Na⁺ va Cl⁻ kam).",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -3709,7 +3709,7 @@
    "id": "ch65-t-atsinuslar",
    "termUz": "Atsinuslar",
    "original": null,
-   "contextUz": "Atsinuslar birlamchi sekret ajratadi: ptialin va/yoki mutsin, ionlari hujayradan tashqari suyuqlikka yaqin.",
+   "contextUz": "Atsinuslar birlamçi sekret ajratadi: ptialin va/yoki mutsin, ionlari hujayradan taşqari suyuqlikka yaqin.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -3717,9 +3717,9 @@
   },
   {
    "id": "ch65-t-yollarda",
-   "termUz": "Yo’llarda",
+   "termUz": "Yöllarda",
    "original": null,
-   "contextUz": "Yo’llarda tarkib o’zgaradi: Na⁺ faol so’riladi, K⁺ uning o’rniga faol chiqariladi.",
+   "contextUz": "Yöllarda tarkib özgaradi: Na⁺ faol söriladi, K⁺ uning örniga faol çiqariladi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -3727,9 +3727,9 @@
   },
   {
    "id": "ch65-t-tinch-holatda",
-   "termUz": "Tinch holatda",
+   "termUz": "Tinç holatda",
    "original": null,
-   "contextUz": "Tinch holatda: Na⁺ va Cl⁻ har biri taxminan 15 mEq/L, plazmadagidan 7–10 baravar kam.",
+   "contextUz": "Tinç holatda: Na⁺ va Cl⁻ har biri taxminan 15 mEq/L, plazmadagidan 7–10 baravar kam.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -3739,7 +3739,7 @@
    "id": "ch65-t-maksimal-sekretsiyada",
    "termUz": "Maksimal sekretsiyada",
    "original": null,
-   "contextUz": "Maksimal sekretsiyada: Atsinus sekretsiyasi 20 baravargacha ortadi, yo’llarda qayta ishlash kamayadi.",
+   "contextUz": "Maksimal sekretsiyada: Atsinus sekretsiyasi 20 baravargaça ortadi, yöllarda qayta işlaş kamayadi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -3747,9 +3747,9 @@
   },
   {
    "id": "ch65-t-ogiz-gigiyenasi",
-   "termUz": "Og’iz gigiyenasi",
+   "termUz": "Oğiz gigiyenasi",
    "original": null,
-   "contextUz": "Og’iz gigiyenasi:",
+   "contextUz": "Oğiz gigiyenasi:",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -3767,9 +3767,9 @@
   },
   {
    "id": "ch65-t-nerv-boshqaruvi",
-   "termUz": "Nerv boshqaruvi",
+   "termUz": "Nerv boşqaruvi",
    "original": null,
-   "contextUz": "Nerv boshqaruvi:",
+   "contextUz": "Nerv boşqaruvi:",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -3777,9 +3777,9 @@
   },
   {
    "id": "ch65-t-yuqori-va-pastki-solak-yadrolari",
-   "termUz": "Yuqori va pastki so’lak yadrolari",
+   "termUz": "Yuqori va pastki sölak yadrolari",
    "original": null,
-   "contextUz": "Yuqori va pastki so’lak yadrolari uzunchoq miya va ko’prik chegarasida.",
+   "contextUz": "Yuqori va pastki sölak yadrolari uzunçoq miya va köprik çegarasida.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -3799,7 +3799,7 @@
    "id": "ch65-t-bradikinin",
    "termUz": "bradikinin",
    "original": null,
-   "contextUz": "U α2-globulindan bradikinin hosil qiladi, kuchli vazodilatator.",
+   "contextUz": "U α2-globulindan bradikinin hosil qiladi, kuçli vazodilatator.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -3809,7 +3809,7 @@
    "id": "ch65-t-oksintik-bezlar",
    "termUz": "Oksintik bezlar",
    "original": null,
-   "contextUz": "Oksintik bezlar: tana va fundusda (oshqozonning proksimal 80%).",
+   "contextUz": "Oksintik bezlar: tana va fundusda (oşqozonning proksimal 80%).",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -3847,9 +3847,9 @@
   },
   {
    "id": "ch65-t-kanalchalarda",
-   "termUz": "kanalchalarda",
+   "termUz": "kanalçalarda",
    "original": null,
-   "contextUz": "Kislota hujayra ichidagi tarmoqlangan kanalchalarda vorsinkasimon o’simtalar ustida hosil bo’ladi.",
+   "contextUz": "Kislota hujayra içidagi tarmoqlangan kanalçalarda vorsinkasimon ösimtalar ustida hosil böladi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -3859,7 +3859,7 @@
    "id": "ch65-t-h-k-atpaza",
    "termUz": "H⁺-K⁺ ATPaza",
    "original": null,
-   "contextUz": "Asosiy harakatlantiruvchi kuch H⁺-K⁺ ATPaza: Suv H⁺ va OH⁻ ga dissotsiatsiyalanadi.",
+   "contextUz": "Asosiy harakatlantiruvçi kuç H⁺-K⁺ ATPaza: Suv H⁺ va OH⁻ ga dissotsiatsiyalanadi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -3867,9 +3867,9 @@
   },
   {
    "id": "ch65-t-oshqozon-tosigi",
-   "termUz": "Oshqozon to’sig’i",
+   "termUz": "Oşqozon tösiği",
    "original": null,
-   "contextUz": "Oshqozon to’sig’i: ishqoriy shilliq va zich birikmalar kislotaning qaytib sizishini oldini oladi.",
+   "contextUz": "Oşqozon tösiği: işqoriy şilliq va ziç birikmalar kislotaning qaytib sizişini oldini oladi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -3889,7 +3889,7 @@
    "id": "ch65-t-ach",
    "termUz": "ACh",
    "original": "parasimpatik",
-   "contextUz": "ACh (parasimpatik): pepsinogen, HCl va shilliqni qo’zg’atadi.",
+   "contextUz": "ACh (parasimpatik): pepsinogen, HCl va şilliqni qözğatadi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -3899,7 +3899,7 @@
    "id": "ch65-t-gastrin-va-gistamin",
    "termUz": "Gastrin va gistamin",
    "original": null,
-   "contextUz": "Gastrin va gistamin: kuchli ravishda faqat kislotani qo’zg’atadi.",
+   "contextUz": "Gastrin va gistamin: kuçli ravişda faqat kislotani qözğatadi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -3917,9 +3917,9 @@
   },
   {
    "id": "ch65-t-ichki-omil",
-   "termUz": "Ichki omil",
+   "termUz": "Içki omil",
    "original": null,
-   "contextUz": "Ichki omil:",
+   "contextUz": "Içki omil:",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -3929,7 +3929,7 @@
    "id": "ch65-t-axlorgidriya",
    "termUz": "axlorgidriya",
    "original": null,
-   "contextUz": "Surunkali gastritda qoplovchi hujayralar yemirilsa, axlorgidriya va pernitsioz anemiya rivojlanadi (33-bob).",
+   "contextUz": "Surunkali gastritda qoplovçi hujayralar yemirilsa, axlorgidriya va pernitsioz anemiya rivojlanadi (33-bob).",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -3939,7 +3939,7 @@
    "id": "ch65-t-pernitsioz-anemiya",
    "termUz": "pernitsioz anemiya",
    "original": null,
-   "contextUz": "Surunkali gastritda qoplovchi hujayralar yemirilsa, axlorgidriya va pernitsioz anemiya rivojlanadi (33-bob).",
+   "contextUz": "Surunkali gastritda qoplovçi hujayralar yemirilsa, axlorgidriya va pernitsioz anemiya rivojlanadi (33-bob).",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -3947,9 +3947,9 @@
   },
   {
    "id": "ch65-t-yuza-shilliq-hujayralari",
-   "termUz": "Yuza shilliq hujayralari",
+   "termUz": "Yuza şilliq hujayralari",
    "original": null,
-   "contextUz": "Yuza shilliq hujayralari:",
+   "contextUz": "Yuza şilliq hujayralari:",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -3957,9 +3957,9 @@
   },
   {
    "id": "ch65-t-ishqoriy",
-   "termUz": "ishqoriy",
+   "termUz": "işqoriy",
    "original": null,
-   "contextUz": "Qalinligi ko’pincha 1 mm dan ortiq, yopishqoq, ishqoriy gel qatlam hosil qiladi.",
+   "contextUz": "Qalinligi köpinça 1 mm dan ortiq, yopişqoq, işqoriy gel qatlam hosil qiladi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -3967,9 +3967,9 @@
   },
   {
    "id": "ch65-t-kislota-sekretsiyasini-boshqarish",
-   "termUz": "Kislota sekretsiyasini boshqarish",
+   "termUz": "Kislota sekretsiyasini boşqariş",
    "original": null,
-   "contextUz": "Kislota sekretsiyasini boshqarish:",
+   "contextUz": "Kislota sekretsiyasini boşqariş:",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -3979,7 +3979,7 @@
    "id": "ch65-t-ecl-hujayralar",
    "termUz": "ECL hujayralar",
    "original": null,
-   "contextUz": "ECL hujayralar oksintik bezlarning chuqur qismida joylashgan va gistaminni to’g’ridan-to’g’ri qoplovchi hujayralarga beradi.",
+   "contextUz": "ECL hujayralar oksintik bezlarning çuqur qismida joylaşgan va gistaminni töğridan-töğri qoplovçi hujayralarga beradi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4007,9 +4007,9 @@
   },
   {
    "id": "ch65-t-pepsinogen-sekretsiyasini-boshqarish",
-   "termUz": "Pepsinogen sekretsiyasini boshqarish",
+   "termUz": "Pepsinogen sekretsiyasini boşqariş",
    "original": null,
-   "contextUz": "Pepsinogen sekretsiyasini boshqarish: Vagus yoki enterik chigaldan ACh.",
+   "contextUz": "Pepsinogen sekretsiyasini boşqariş: Vagus yoki enterik çigaldan ACh.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4017,9 +4017,9 @@
   },
   {
    "id": "ch65-t-oshqozon-sekretsiyasi-fazalari",
-   "termUz": "Oshqozon sekretsiyasi fazalari",
+   "termUz": "Oşqozon sekretsiyasi fazalari",
    "original": null,
-   "contextUz": "Oshqozon sekretsiyasi fazalari:",
+   "contextUz": "Oşqozon sekretsiyasi fazalari:",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4027,9 +4027,9 @@
   },
   {
    "id": "ch65-t-bosh-sefalik-faza",
-   "termUz": "Bosh (sefalik) faza",
+   "termUz": "Boş (sefalik) faza",
    "original": null,
-   "contextUz": "Bosh (sefalik) faza: taxminan 30%.",
+   "contextUz": "Boş (sefalik) faza: taxminan 30%.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4037,9 +4037,9 @@
   },
   {
    "id": "ch65-t-oshqozon-fazasi",
-   "termUz": "Oshqozon fazasi",
+   "termUz": "Oşqozon fazasi",
    "original": null,
-   "contextUz": "Oshqozon fazasi: taxminan 60%.",
+   "contextUz": "Oşqozon fazasi: taxminan 60%.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4047,9 +4047,9 @@
   },
   {
    "id": "ch65-t-ichak-fazasi",
-   "termUz": "Ichak fazasi",
+   "termUz": "Içak fazasi",
    "original": null,
-   "contextUz": "Ichak fazasi: taxminan 10%.",
+   "contextUz": "Içak fazasi: taxminan 10%.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4057,9 +4057,9 @@
   },
   {
    "id": "ch65-t-ichak-omillarining-tormozlovchi-tasiri",
-   "termUz": "Ichak omillarining tormozlovchi ta’siri",
+   "termUz": "Içak omillarining tormozlovçi ta’siri",
    "original": null,
-   "contextUz": "Ichak omillarining tormozlovchi ta’siri:",
+   "contextUz": "Içak omillarining tormozlovçi ta’siri:",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4077,9 +4077,9 @@
   },
   {
    "id": "ch65-t-ovqatlar-oraligi-interdigestiv-davr",
-   "termUz": "Ovqatlar oralig’i (interdigestiv davr)",
+   "termUz": "Ovqatlar oraliği (interdigestiv davr)",
    "original": null,
-   "contextUz": "Ovqatlar oralig’i (interdigestiv davr):",
+   "contextUz": "Ovqatlar oraliği (interdigestiv davr):",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4107,9 +4107,9 @@
   },
   {
    "id": "ch65-t-vater-sorgichi",
-   "termUz": "Vater so’rg’ichi",
+   "termUz": "Vater sörğiçi",
    "original": null,
-   "contextUz": "U odatda jigar yo’li bilan qo’shilib, Vater so’rg’ichi orqali o’n ikki barmoqli ichakka quyiladi.",
+   "contextUz": "U odatda jigar yöli bilan qöşilib, Vater sörğiçi orqali ön ikki barmoqli içakka quyiladi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4119,7 +4119,7 @@
    "id": "ch65-t-oddi-sfinkteri",
    "termUz": "Oddi sfinkteri",
    "original": null,
-   "contextUz": "So’rg’ich atrofida Oddi sfinkteri bor.",
+   "contextUz": "Sörğiç atrofida Oddi sfinkteri bor.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4139,7 +4139,7 @@
    "id": "ch65-t-oqsil",
    "termUz": "Oqsil",
    "original": null,
-   "contextUz": "Oqsil: Tripsin (eng ko’p) va ximotripsin oqsillarni turli o’lchamdagi peptidlarga parchalaydi, alohida aminokislotalar chiqarmaydi.",
+   "contextUz": "Oqsil: Tripsin (eng köp) va ximotripsin oqsillarni turli ölçamdagi peptidlarga parçalaydi, alohida aminokislotalar çiqarmaydi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4149,7 +4149,7 @@
    "id": "ch65-t-uglevod",
    "termUz": "Uglevod",
    "original": null,
-   "contextUz": "Uglevod: me’da osti bezi amilazasi kraxmal, glikogen va boshqa uglevodlarni (sellulozadan tashqari) asosan disaxaridlar va oz trisaxaridlarga parchalaydi.",
+   "contextUz": "Uglevod: me’da osti bezi amilazasi kraxmal, glikogen va boşqa uglevodlarni (sellulozadan taşqari) asosan disaxaridlar va oz trisaxaridlarga parçalaydi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4157,9 +4157,9 @@
   },
   {
    "id": "ch65-t-yog",
-   "termUz": "Yog'",
+   "termUz": "Yoğ",
    "original": null,
-   "contextUz": "Yog': Lipaza neytral yog’ni yog' kislotalari va monogliseridlarga parchalaydi.",
+   "contextUz": "Yoğ: Lipaza neytral yoğni yoğ kislotalari va monogliseridlarga parçalaydi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4167,9 +4167,9 @@
   },
   {
    "id": "ch65-t-faollashuv",
-   "termUz": "Faollashuv",
+   "termUz": "Faollaşuv",
    "original": null,
-   "contextUz": "Faollashuv: Proteolitik fermentlar faol bo’lmagan shaklda sintezlanadi: tripsinogen, ximotripsinogen, prokarboksipolipeptidaza.",
+   "contextUz": "Faollaşuv: Proteolitik fermentlar faol bölmagan şaklda sintezlanadi: tripsinogen, ximotripsinogen, prokarboksipolipeptidaza.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4179,7 +4179,7 @@
    "id": "ch65-t-enterokinaza",
    "termUz": "enterokinaza",
    "original": null,
-   "contextUz": "Ichakka tushgandan keyin faollashadi: Tripsinogenni ichak shilliq qavati ajratadigan enterokinaza faollashtiradi.",
+   "contextUz": "Içakka tuşgandan keyin faollaşadi: Tripsinogenni içak şilliq qavati ajratadigan enterokinaza faollaştiradi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4189,7 +4189,7 @@
    "id": "ch65-t-tripsin-ingibitori",
    "termUz": "Tripsin ingibitori",
    "original": null,
-   "contextUz": "Tripsin ingibitori: Proteolitik fermentlarni ajratuvchi hujayralar bir vaqtda uni ham ajratadi.",
+   "contextUz": "Tripsin ingibitori: Proteolitik fermentlarni ajratuvçi hujayralar bir vaqtda uni ham ajratadi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4197,9 +4197,9 @@
   },
   {
    "id": "ch65-t-otkir-pankreatit",
-   "termUz": "o’tkir pankreatit",
+   "termUz": "ötkir pankreatit",
    "original": null,
-   "contextUz": "Bu o’tkir pankreatit.",
+   "contextUz": "Bu ötkir pankreatit.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4217,9 +4217,9 @@
   },
   {
    "id": "ch65-t-boshqarish",
-   "termUz": "Boshqarish",
+   "termUz": "Boşqariş",
    "original": null,
-   "contextUz": "Boshqarish: uchta asosiy stimul bor.",
+   "contextUz": "Boşqariş: uçta asosiy stimul bor.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4229,7 +4229,7 @@
    "id": "ch65-t-cck",
    "termUz": "CCK",
    "original": null,
-   "contextUz": "CCK: ovqat ingichka ichakka tushganda o’n ikki barmoqli va yuqori och ichakdan ajraladi.",
+   "contextUz": "CCK: ovqat ingiçka içakka tuşganda ön ikki barmoqli va yuqori oç içakdan ajraladi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4239,7 +4239,7 @@
    "id": "ch65-t-sekretin",
    "termUz": "Sekretin",
    "original": null,
-   "contextUz": "Sekretin: kislotali ovqat tushganda o’n ikki barmoqli va och ichak shilliq qavatidan ajraladi.",
+   "contextUz": "Sekretin: kislotali ovqat tuşganda ön ikki barmoqli va oç içak şilliq qavatidan ajraladi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4249,7 +4249,7 @@
    "id": "ch65-t-potensiallaydi",
    "termUz": "potensiallaydi",
    "original": null,
-   "contextUz": "Stimullar bir vaqtda ta’sir qilsa, natija ularning yig’indisidan ancha katta, ya’ni bir-birini potensiallaydi.",
+   "contextUz": "Stimullar bir vaqtda ta’sir qilsa, natija ularning yiğindisidan ança katta, ya’ni bir-birini potensiallaydi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4267,9 +4267,9 @@
   },
   {
    "id": "ch65-t-bosh-faza",
-   "termUz": "Bosh faza",
+   "termUz": "Boş faza",
    "original": null,
-   "contextUz": "Bosh faza: vagus ACh orqali fermentlarning taxminan 20% ini ajratadi, lekin suv kam bo’lgani uchun ichakka oz yetadi.",
+   "contextUz": "Boş faza: vagus ACh orqali fermentlarning taxminan 20% ini ajratadi, lekin suv kam bölgani uçun içakka oz yetadi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4279,7 +4279,7 @@
    "id": "ch65-t-prosekretin",
    "termUz": "prosekretin",
    "original": null,
-   "contextUz": "O’n ikki barmoqli va och ichak shilliq qavatidagi S hujayralarda faol bo’lmagan prosekretin shaklida saqlanadi.",
+   "contextUz": "Ön ikki barmoqli va oç içak şilliq qavatidagi S hujayralarda faol bölmagan prosekretin şaklida saqlanadi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4289,7 +4289,7 @@
    "id": "ch65-t-i-hujayralar",
    "termUz": "I hujayralar",
    "original": null,
-   "contextUz": "O’n ikki barmoqli va yuqori och ichakdagi I hujayralar ajratadi.",
+   "contextUz": "Ön ikki barmoqli va yuqori oç içakdagi I hujayralar ajratadi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4299,7 +4299,7 @@
    "id": "ch65-t-ikki-vazifasi",
    "termUz": "Ikki vazifasi",
    "original": null,
-   "contextUz": "Ikki vazifasi: Yog' hazmi va so’rilishi.",
+   "contextUz": "Ikki vazifasi: Yoğ hazmi va sörilişi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4309,7 +4309,7 @@
    "id": "ch65-t-bilirubin",
    "termUz": "bilirubin",
    "original": "gemoglobin parchalanishining yakuniy mahsuloti",
-   "contextUz": "Chiqindilarni chiqarish: bilirubin (gemoglobin parchalanishining yakuniy mahsuloti) va ortiqcha xolesterol.",
+   "contextUz": "Çiqindilarni çiqariş: bilirubin (gemoglobin parçalanişining yakuniy mahsuloti) va ortiqça xolesterol.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4317,9 +4317,9 @@
   },
   {
    "id": "ch65-t-ikki-bosqichli-sekretsiya",
-   "termUz": "Ikki bosqichli sekretsiya",
+   "termUz": "Ikki bosqiçli sekretsiya",
    "original": null,
-   "contextUz": "Ikki bosqichli sekretsiya:",
+   "contextUz": "Ikki bosqiçli sekretsiya:",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4329,7 +4329,7 @@
    "id": "ch65-t-gepatotsitlar",
    "termUz": "Gepatotsitlar",
    "original": null,
-   "contextUz": "Gepatotsitlar o’t kislotalari, xolesterol va boshqa organik moddalarga boy dastlabki o’tni hujayralar orasidagi o’t kapillyarlariga (kanalchalarga) ajratadi (71-1 rasm).",
+   "contextUz": "Gepatotsitlar öt kislotalari, xolesterol va boşqa organik moddalarga boy dastlabki ötni hujayralar orasidagi öt kapillyarlariga (kanalçalarga) ajratadi (71-1 rasm).",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4337,9 +4337,9 @@
   },
   {
    "id": "ch65-t-ot-pufagi",
-   "termUz": "O’t pufagi",
+   "termUz": "Öt pufagi",
    "original": null,
-   "contextUz": "O’t pufagi:",
+   "contextUz": "Öt pufagi:",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4347,9 +4347,9 @@
   },
   {
    "id": "ch65-t-ot-tarkibi-jadval-65-2",
-   "termUz": "O’t tarkibi (Jadval 65-2)",
+   "termUz": "Öt tarkibi (Jadval 65-2)",
    "original": null,
-   "contextUz": "O’t tarkibi (Jadval 65-2):",
+   "contextUz": "Öt tarkibi (Jadval 65-2):",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4357,9 +4357,9 @@
   },
   {
    "id": "ch65-t-boshalish",
-   "termUz": "Bo’shalish",
+   "termUz": "Böşaliş",
    "original": null,
-   "contextUz": "Bo’shalish:",
+   "contextUz": "Böşaliş:",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4367,9 +4367,9 @@
   },
   {
    "id": "ch65-t-ot-tuzlari",
-   "termUz": "O’t tuzlari",
+   "termUz": "Öt tuzlari",
    "original": null,
-   "contextUz": "O’t tuzlari:",
+   "contextUz": "Öt tuzlari:",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4377,9 +4377,9 @@
   },
   {
    "id": "ch65-t-detergent-emulsiyalovchi-tasir",
-   "termUz": "Detergent (emulsiyalovchi) ta’sir",
+   "termUz": "Detergent (emulsiyalovçi) ta’sir",
    "original": null,
-   "contextUz": "Ikki vazifasi: Detergent (emulsiyalovchi) ta’sir: yog' zarralarining sirt tarangligini pasaytiradi.",
+   "contextUz": "Ikki vazifasi: Detergent (emulsiyalovçi) ta’sir: yoğ zarralarining sirt tarangligini pasaytiradi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4387,9 +4387,9 @@
   },
   {
    "id": "ch65-t-sorilish-bundan-ham-muhimroq",
-   "termUz": "So’rilish (bundan ham muhimroq)",
+   "termUz": "Söriliş (bundan ham muhimroq)",
    "original": null,
-   "contextUz": "So’rilish (bundan ham muhimroq): yog' kislotalari, monogliseridlar, xolesterol va boshqa lipidlar bilan mitsellalar hosil qiladi.",
+   "contextUz": "Söriliş (bundan ham muhimroq): yoğ kislotalari, monogliseridlar, xolesterol va boşqa lipidlar bilan mitsellalar hosil qiladi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4399,7 +4399,7 @@
    "id": "ch65-t-mitsellalar",
    "termUz": "mitsellalar",
    "original": null,
-   "contextUz": "So’rilish (bundan ham muhimroq): yog' kislotalari, monogliseridlar, xolesterol va boshqa lipidlar bilan mitsellalar hosil qiladi.",
+   "contextUz": "Söriliş (bundan ham muhimroq): yoğ kislotalari, monogliseridlar, xolesterol va boşqa lipidlar bilan mitsellalar hosil qiladi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4407,9 +4407,9 @@
   },
   {
    "id": "ch65-t-enterogepatik-aylanish",
-   "termUz": "Enterogepatik aylanish",
+   "termUz": "Enterogepatik aylaniş",
    "original": null,
-   "contextUz": "Enterogepatik aylanish:",
+   "contextUz": "Enterogepatik aylaniş:",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4417,9 +4417,9 @@
   },
   {
    "id": "ch65-t-sekretin-va-o",
-   "termUz": "Sekretin va o'",
+   "termUz": "Sekretin va ö",
    "original": null,
-   "contextUz": "Sekretin va o':",
+   "contextUz": "Sekretin va ö:",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4427,9 +4427,9 @@
   },
   {
    "id": "ch65-t-xolesterol-va-ot-toshlari",
-   "termUz": "Xolesterol va o’t toshlari",
+   "termUz": "Xolesterol va öt toşlari",
    "original": null,
-   "contextUz": "Xolesterol va o’t toshlari:",
+   "contextUz": "Xolesterol va öt toşlari:",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4437,9 +4437,9 @@
   },
   {
    "id": "ch65-t-xolesterol-toshlari",
-   "termUz": "xolesterol toshlari",
+   "termUz": "xolesterol toşlari",
    "original": null,
-   "contextUz": "Patologik holatda xolesterol cho’kib, xolesterol toshlari hosil qiladi.",
+   "contextUz": "Patologik holatda xolesterol çökib, xolesterol toşlari hosil qiladi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4459,7 +4459,7 @@
    "id": "ch65-t-qadahsimon-hujayralar",
    "termUz": "qadahsimon hujayralar",
    "original": null,
-   "contextUz": "Epiteliysi ikki xil hujayradan iborat: Mo''tadil sondagi qadahsimon hujayralar: moylovchi va himoya qiluvchi shilliq.",
+   "contextUz": "Epiteliysi ikki xil hujayradan iborat: Mö’tadil sondagi qadahsimon hujayralar: moylovçi va himoya qiluvçi şilliq.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4469,7 +4469,7 @@
    "id": "ch65-t-enterotsitlar",
    "termUz": "enterotsitlar",
    "original": null,
-   "contextUz": "Ko’p sondagi enterotsitlar: kriptalarda ko’p suv va elektrolit ajratadi, vorsinkalar yuzasida ularni hazm mahsulotlari bilan birga qayta so’radi.",
+   "contextUz": "Köp sondagi enterotsitlar: kriptalarda köp suv va elektrolit ajratadi, vorsinkalar yuzasida ularni hazm mahsulotlari bilan birga qayta söradi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4489,7 +4489,7 @@
    "id": "ch65-t-vazifalari",
    "termUz": "Vazifalari",
    "original": null,
-   "contextUz": "Vazifalari: Devorni tirnalishdan himoya qiladi.",
+   "contextUz": "Vazifalari: Devorni tirnalişdan himoya qiladi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",
@@ -4499,7 +4499,7 @@
    "id": "ch65-t-diareya",
    "termUz": "Diareya",
    "original": null,
-   "contextUz": "Diareya: Masalan, enteritda bakterial infeksiya keng tarqalganda shilliq qavat kuchli ta’sirlanadi va oddiy shilliqqa qo’shimcha ko’p suv va elektrolit ajratadi.",
+   "contextUz": "Diareya: Masalan, enteritda bakterial infeksiya keng tarqalganda şilliq qavat kuçli ta’sirlanadi va oddiy şilliqqa qöşimça köp suv va elektrolit ajratadi.",
    "lessonId": "ch65",
    "topicId": "12",
    "source": "summaryUz",

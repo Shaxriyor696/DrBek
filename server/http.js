@@ -13,11 +13,11 @@ export class ApiError extends Error {
 }
 export const E = {
   unauth: () => new ApiError(401, 'unauthenticated', 'Avval tizimga kiring.'),
-  forbidden: () => new ApiError(403, 'forbidden', 'Bu amal uchun ruxsat yo’q.'),
+  forbidden: () => new ApiError(403, 'forbidden', 'Bu amal uçun ruxsat yöq.'),
   notFound: (what = 'Manba') => new ApiError(404, 'not_found', `${what} topilmadi.`),
   conflict: (m) => new ApiError(409, 'conflict', m),
-  invalid: (fieldErrors, m = 'Maʼlumotlarni tekshiring.') => new ApiError(422, 'validation_error', m, fieldErrors),
-  rate: (m = 'Juda ko’p urinish. Birozdan so’ng qayta urinib ko’ring.') => new ApiError(429, 'rate_limited', m),
+  invalid: (fieldErrors, m = 'Ma’lumotlarni tekşiring.') => new ApiError(422, 'validation_error', m, fieldErrors),
+  rate: (m = 'Juda köp uriniş. Birozdan söng qayta urinib köring.') => new ApiError(429, 'rate_limited', m),
 };
 
 export const id = (p = '') => p + crypto.randomBytes(12).toString('base64url');
@@ -55,13 +55,13 @@ export async function readJson(req, limit = 256 * 1024) {
   let size = 0;
   for await (const c of req) {
     size += c.length;
-    if (size > limit) throw new ApiError(413, 'payload_too_large', 'So’rov hajmi juda katta.');
+    if (size > limit) throw new ApiError(413, 'payload_too_large', 'Sörov hajmi juda katta.');
     chunks.push(c);
   }
   if (!size) return {};
   const ct = req.headers['content-type'] || '';
   if (!ct.includes('application/json')) throw new ApiError(415, 'unsupported_media_type', 'JSON kutilmoqda.');
-  try { return JSON.parse(Buffer.concat(chunks).toString('utf8')); } catch { throw new ApiError(400, 'bad_json', 'JSON noto’g’ri.'); }
+  try { return JSON.parse(Buffer.concat(chunks).toString('utf8')); } catch { throw new ApiError(400, 'bad_json', 'JSON notöğri.'); }
 }
 
 export function parseCookies(req) {
@@ -84,7 +84,7 @@ export function sendError(res, err, requestId) {
     return sendJson(res, err.status, { code: err.code, message: err.message, fieldErrors: err.fieldErrors, requestId });
   }
   console.error(`[${requestId}]`, err);
-  return sendJson(res, 500, { code: 'internal', message: 'Serverda kutilmagan xato. Qayta urinib ko’ring.', requestId });
+  return sendJson(res, 500, { code: 'internal', message: 'Serverda kutilmagan xato. Qayta urinib köring.', requestId });
 }
 
 const MIME = {
@@ -137,20 +137,20 @@ export function v(obj, spec) {
       if (typeof val !== 'string') { errs[k] = 'Matn kutilmoqda.'; continue; }
       val = val.trim();
       if (rule.min && val.length < rule.min) { errs[k] = rule.msg || `Kamida ${rule.min} belgi.`; continue; }
-      if (rule.max && val.length > rule.max) { errs[k] = `Ko’pi bilan ${rule.max} belgi.`; continue; }
-      if (rule.re && !rule.re.test(val)) { errs[k] = rule.msg || 'Format noto’g’ri.'; continue; }
+      if (rule.max && val.length > rule.max) { errs[k] = `Köpi bilan ${rule.max} belgi.`; continue; }
+      if (rule.re && !rule.re.test(val)) { errs[k] = rule.msg || 'Format notöğri.'; continue; }
       if (rule.oneOf && !rule.oneOf.includes(val)) { errs[k] = 'Ruxsat etilmagan qiymat.'; continue; }
     } else if (rule.type === 'int') {
       val = Number(val);
       if (!Number.isInteger(val)) { errs[k] = 'Butun son kutilmoqda.'; continue; }
       if (rule.min !== undefined && val < rule.min) { errs[k] = `Kamida ${rule.min}.`; continue; }
-      if (rule.max !== undefined && val > rule.max) { errs[k] = `Ko’pi bilan ${rule.max}.`; continue; }
+      if (rule.max !== undefined && val > rule.max) { errs[k] = `Köpi bilan ${rule.max}.`; continue; }
       if (rule.oneOf && !rule.oneOf.includes(val)) { errs[k] = 'Ruxsat etilmagan qiymat.'; continue; }
     } else if (rule.type === 'number') {
       val = Number(val);
       if (!Number.isFinite(val)) { errs[k] = 'Son kutilmoqda.'; continue; }
       if (rule.min !== undefined && val < rule.min) { errs[k] = `Kamida ${rule.min}.`; continue; }
-      if (rule.max !== undefined && val > rule.max) { errs[k] = `Ko’pi bilan ${rule.max}.`; continue; }
+      if (rule.max !== undefined && val > rule.max) { errs[k] = `Köpi bilan ${rule.max}.`; continue; }
     } else if (rule.type === 'bool') {
       val = !!val;
     }

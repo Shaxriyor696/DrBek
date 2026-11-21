@@ -1,0 +1,330 @@
+{
+ "lessonId": "ch14",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 14,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "manual",
+ "translator": "Claude (DrStudy sessiyasi)",
+ "model": null,
+ "createdAt": "2026-11-18T06:08:16.371Z",
+ "updatedAt": "2026-11-18T06:08:16.372Z",
+ "coverage": {
+  "translated": 104,
+  "total": 104
+ },
+ "note": "Kitob matnining töliq özbekça tarjimasi (qisqartirilmagan). Ekspert tekşiruvidan ötmagan.",
+ "blocks": {
+  "ch14-f0": {
+   "text": "Qon aylanişining vazifasi — tana töqimalarining ehtiyojlariga xizmat qiliş: töqimalarga oziq moddalarni yetkaziş, çiqindi mahsulotlarni olib ketiş, gormonlarni tananing bir qismidan boşqasiga taşiş va, umuman olganda, hujayralarning yaşaşi va eng yaxşi işlaşi uçun barça töqima suyuqliklarida tegişli muhitni saqlab turiş."
+  },
+  "ch14-f1": {
+   "text": "Köplab töqimalar orqali ötadigan qon oqimi tezligi asosan ularning oziq moddalarga bölgan ehtiyoji va metabolizm çiqindi mahsulotlarini çiqarib yuboriş zaruratiga javoban boşqariladi. Buyraklar kabi ba’zi a’zolarda qon aylanişi qöşimça vazifalarni ham bajaradi. Masalan, buyrakka keladigan qon oqimi uning metabolik ehtiyojlaridan ança ortiq bölib, uning ajratiş funksiyasi bilan boğliq: bu funksiya har daqiqada katta hajmdagi qonning filtrlanişini talab qiladi."
+  },
+  "ch14-f2": {
+   "text": "Yurak va qon tomirlar esa, öz navbatida, töqimalarni yetarli qon oqimi bilan ta’minlaş uçun zarur bölgan yurak çiqarişi (yurakning daqiqalik hajmi) va arterial bosimni ta’minlaydigan tarzda boşqariladi. Qon hajmi va qon oqimini boşqariş mexanizmlari qanday va bu jarayon qon aylanişining boşqa funksiyalari bilan qanday boğliq? Qon aylanişiga bağişlangan uşbu bölimda muhokama qilinadigan mavzu va savollarning ba’zilari şulardir."
+  },
+  "ch14-f3": {
+   "text": "Qon aylanişining fizik xususiyatlari"
+  },
+  "ch14-f4": {
+   "text": "**Rasm 14-1** da körsatilgan qon aylanişi _katta (sistemali) qon aylanişi_ va _kiçik (öpka) qon aylanişiga_ bölinadi. Sistemali qon aylanişi öpkadan taşqari tananing barça töqimalarini qon bilan ta’minlagani uçun u _katta qon aylaniş doirasi_ yoki _periferik qon aylanişi_ deb ham ataladi."
+  },
+  "ch14-f6": {
+   "text": "Qon aylanişi funksiyasining tafsilotlarini muhokama qilişdan oldin qon aylanişining har bir qismi qanday rol öynaşini tuşunib oliş muhim.",
+   "lead": "Qon aylanişining funksional qismlari."
+  },
+  "ch14-f7": {
+   "text": "_Arteriyalarning_ vazifasi — qonni _yuqori bosim ostida_ töqimalarga yetkaziş. Şu sababli arteriyalarning tomir devorlari mustahkam böladi va arteriyalarda qon yuqori tezlikda oqadi."
+  },
+  "ch14-f8": {
+   "text": "_Arteriolalar_ — arterial tizimning eng oxirgi mayda tarmoqlari; ular qon kapillyarlarga çiqariladigan _boşqaruvçi kanallar_ vazifasini bajaradi. Arteriolalarning muskul devorlari kuçli bölib, ular arteriolalarni butunlay yopib qöyişi yoki böşaşib, tomirlarni bir neça barobar kengaytirişi mumkin; şunday qilib, arteriolalar har bir töqimadagi qon oqimini uning ehtiyojlariga javoban keskin özgartira oladi."
+  },
+  "ch14-f9": {
+   "text": "_Kapillyarlarning_ vazifasi — qon va interstitsial suyuqlik örtasida suyuqlik, oziq moddalar, elektrolitlar, gormonlar va boşqa moddalar almaşinuvini ta’minlaş. Bu vazifani bajariş uçun kapillyar devorlari yupqa bölib, ularda suv va boşqa kiçik molekulali moddalarni ötkazadigan köplab mayda _kapillyar teşikçalar (poralar)_ bor."
+  },
+  "ch14-f10": {
+   "text": "_Venulalar_ kapillyarlardan qonni yiğadi va asta-sekin qöşilib, tobora yirikroq venalarni hosil qiladi."
+  },
+  "ch14-f11": {
+   "text": "_Venalar_ qonni venulalardan yurakka qaytarib olib boruvçi kanallar vazifasini bajaradi. Venalar, şuningdek, ortiqça qonning asosiy zaxirasi (rezervuari) bölib xizmat qiladi. Vena tizimida bosim past bölgani uçun vena devorlari yupqa. Şunga qaramay, ular qisqarişi yoki kengayişi uçun yetarliça muskulga ega va şu tufayli qon aylanişining ehtiyojlariga qarab ortiqça qonning oz yoki köp miqdori uçun boşqariladigan zaxira vazifasini bajaradi."
+  },
+  "ch14-f12": {
+   "text": "**Rasm 14-1** da qon aylanişining umumiy körinişi berilgan va qon aylanişining asosiy bölimlaridagi qon hajmining umumiy qon hajmiga nisbatan foizlari körsatilgan. Masalan, tanadagi butun qon hajmining taxminan 84% i sistemali qon aylanişida, 16% i esa yurak va öpkada joylaşgan. Sistemali qon aylanişidagi 84% ning taxminan 64% i venalarda, 13% i arteriyalarda, 7% i esa sistemali arteriolalar va kapillyarlarda böladi. Yurakda qonning 7% i, öpka tomirlarida esa 9% i böladi.",
+   "lead": "Qon aylanişining turli qismlaridagi qon hajmlari."
+  },
+  "ch14-f13": {
+   "text": "Eng ajablanarlisi — kapillyarlardagi qon hajmining kamligi. Biroq 16-bobda muhokama qilinganidek, qon aylanişining eng muhim vazifasi — moddalarning qon va töqimalar örtasida u yoqdan-bu yoqqa diffuziyalanişi aynan şu yerda sodir böladi."
+  },
+  "ch14-f14": {
+   "text": "Agar har bir turdagi barça _sistemali tomirlar_ yonma-yon qöyilsa, örtaça odamda ularning taxminiy umumiy köndalang kesim yuzalari quyidagiça böladi:",
+   "lead": "Köndalang kesim yuzalari va qon oqimi tezliklari."
+  },
+  "ch14-f15": {
+   "text": "Ayniqsa e’tibor beringki, venalarning köndalang kesim yuzalari arteriyalarnikidan ança katta bölib, örtaça tegişli arteriyalarnikidan taxminan tört barobar katta. Bu farq vena tizimining arterial tizimga nisbatan qonni saqlaş siğimi kattaligini tuşuntiradi."
+  },
+  "ch14-f16": {
+   "text": "Qon aylanişining har bir bölimidan har daqiqada bir xil hajmdagi qon oqimi (F) ötişi kerak bölgani sababli, qon oqimi tezligi (v) tomirlarning köndalang kesim yuzasiga (A) teskari proporsional:"
+  },
+  "ch14-f17": {
+   "text": "Şunday qilib, tinç holatda qon oqimi tezligi aortada örtaça taxminan 33 sm/s ni taşkil etadi, kapillyarlarda esa atigi 1/1000 qismiça — taxminan 0,3 mm/s. Biroq kapillyarlarning odatiy uzunligi atigi 0,3–1 millimetr bölgani uçun qon kapillyarlarda atigi 1–3 soniya qoladi; bu hayratlanarli, çunki kapillyar devorlari orqali sodir böladigan oziq moddalar va elektrolitlarning barça diffuziyasi aynan şu qisqa vaqt içida amalga oşişi kerak."
+  },
+  "ch14-f18": {
+   "text": "Yurak qonni aortaga uzluksiz haydab turgani sababli aortadagi örtaça bosim yuqori bölib, örtaça taxminan 100 mm Hg ni taşkil etadi. Şuningdek, yurakning nasos faoliyati pulsatsiyali (zarbli) bölgani uçun, **Rasm 14-2** ning çap tomonida körsatilganidek, tinç holatda arterial bosim odatda örtaça 120 mm Hg li _sistolik bosim darajasi_ va 80 mm Hg li _diastolik bosim darajasi_ örtasida özgarib turadi.",
+   "lead": "Qon aylanişining turli qismlaridagi bosimlar."
+  },
+  "ch14-f20": {
+   "text": "Qon _sistemali qon aylanişi_ böylab oqar ekan, uning örtaça bosimi asta-sekin pasayib boradi va yuqori hamda pastki kovak venalarning yurakning öng bölmaçasiga quyiladigan oxirgi qismiga yetganda taxminan 0 mm Hg gaça tuşadi."
+  },
+  "ch14-f21": {
+   "text": "Köplab sistemali kapillyarlardagi bosim arteriola uçlari yaqinida 35 mm Hg gaça yuqori, vena uçlari yaqinida esa 10 mm Hg gaça past böladi, biroq köpçilik tomir törlarida ularning örtaça funksional bosimi taxminan 17 mm Hg ni taşkil etadi. Bu bosim şunçalik pastki, kapillyar devorlaridagi mayda _teşikçalar_ orqali plazmaning oz qismigina sizib çiqadi, holbuki oziq moddalar xuddi şu teşikçalar orqali atrofdagi töqima hujayralariga oson _diffuziyalana_ oladi. Ba’zi kapillyarlarda, masalan, buyraklarning koptokça kapillyarlarida bosim ança yuqori bölib, örtaça taxminan 60 mm Hg ni taşkil etadi va suyuqlik filtrlanişining ança yuqori tezligini ta’minlaydi."
+  },
+  "ch14-f22": {
+   "text": "**Rasm 14-2** ning eng öng tomonida _kiçik (öpka) qon aylanişining_ turli qismlaridagi tegişli bosimlarga e’tibor bering. Öpka arteriyalarida bosim xuddi aortadagi kabi pulsatsiyali, ammo ança past: _öpka arteriyasidagi sistolik bosim_ örtaça taxminan 25 mm Hg, _diastolik bosim_ esa örtaça taxminan 8 mm Hg bölib, öpka arteriyasidagi örtaça bosim atigi 16 mm Hg ni taşkil etadi. Öpka kapillyarlaridagi örtaça bosim esa örtaça atigi 7 mm Hg ga teng. Şunga qaramay, har daqiqada öpka orqali ötadigan umumiy qon oqimi sistemali qon aylanişidagi bilan bir xil. Öpka tizimidagi bosimlarning pastligi öpkaning ehtiyojlariga mos keladi, çunki bu yerda faqat öpka kapillyarlaridagi qonni öpka alveolalaridagi kislorod va boşqa gazlar bilan töqnaştiriş talab qilinadi."
+  },
+  "ch14-f23": {
+   "text": "Qon aylanişi funksiyasining asosiy tamoyillari"
+  },
+  "ch14-f24": {
+   "text": "Qon aylanişi funksiyasining tafsilotlari murakkab bölsa-da, tizimning barça funksiyalari uçta asosiy tamoyilga asoslanadi. 1. _Köpçilik töqimalardagi qon oqimi töqima ehtiyojlariga muvofiq boşqariladi._ Töqimalar faol bölganda ularga oziq moddalar köproq yetkazilişi va şuning uçun tinç holatdagiga qaraganda köproq qon oqimi kerak böladi, ba’zan tinç holatdagi darajadan 20–30 baravargaça köp. Biroq yurak odatda yurak çiqarişini tinç holatdagi darajadan tört-yetti baravardan ortiq oşira olmaydi. Şuning uçun biror töqima qon oqimining ortişini talab qilganda tananing hamma joyida qon oqimini şunçaki oşirib bölmaydi. Buning örniga har bir töqimaning mikrotomirlari, ayniqsa arteriolalar, töqima ehtiyojlarini — masalan, kislorod va boşqa oziq moddalarning mavjudligini hamda karbonat angidrid va boşqa töqima çiqindi mahsulotlarining töplanişini — uzluksiz kuzatib boradi. Bu mikrotomirlar, öz navbatida, mahalliy qon oqimini töqima faolligi uçun zarur darajada uşlab turiş maqsadida kengayadi yoki torayadi. Şuningdek, markaziy nerv tizimi tomonidan qon aylanişining nerv orqali boşqarilişi va gormonlar töqima qon oqimini boşqarişda qöşimça yordam beradi."
+  },
+  "ch14-f25": {
+   "text": "2. _Yurak çiqarişi — barça mahalliy töqima qon oqimlarining yiğindisi._ Qon töqima orqali ötgaç, darhol venalar orqali yurakka qaytadi. Yurak qon oqimining bu tarzda köpayişiga avtomatik ravişda javob beradi va uni darhol arteriyalarga qaytarib haydaydi. Şunday qilib, yurak me’yoriy işlayotgan ekan, u töqimalar talablariga javob beruvçi avtomat kabi harakat qiladi. Biroq yurak zarur miqdordagi qonni haydaşi uçun köpinça maxsus nerv signallari körinişidagi yordamga muhtoj böladi. 3. _Arterial bosimning boşqarilişi odatda mahalliy qon oqimini boşqarişga ham, yurak çiqarişini boşqarişga ham boğliq emas._ Qon aylaniş tizimi arterial qon bosimini boşqarişning keng qamrovli tizimi bilan ta’minlangan. Masalan, agar biror vaqtda bosim taxminan 100 mm Hg li me’yoriy darajadan sezilarli pasaysa, köplab nerv reflekslari bir neça soniya içida bosimni me’yorga qaytariş uçun qon aylanişida bir qator özgarişlarni keltirib çiqaradi. Nerv signallari ayniqsa quyidagilarni amalga oşiradi: (a) yurakning nasos kuçini oşiradi; (b) yurakka köproq qon yetkaziş uçun yirik vena zaxiralarini qisqartiradi; (c) köplab töqimalardagi arteriolalarning umumiy torayişiga sabab böladi, natijada yirik arteriyalarda köproq qon töplanib, arterial bosim oşadi. Söngra uzoqroq davrlar — soatlar va kunlar davomida buyraklar bosimni boşqaruvçi gormonlarni ajratiş va qon hajmini boşqariş orqali bosimni nazorat qilişda qöşimça muhim rol öynaydi. Şunday qilib, qon aylanişi alohida töqimalarning ehtiyojlariga aniq moslaşgan holda xizmat qiladi. Uşbu bobning qolgan qismida töqima qon oqimi, yurak çiqarişi va arterial bosimning asosiy boşqarilişini muhokama qilişni boşlaymiz."
+  },
+  "ch14-f26": {
+   "text": "Bosim, qon oqimi va qarşilikning özaro boğliqligi"
+  },
+  "ch14-f27": {
+   "text": "Qon tomiri orqali ötadigan qon oqimi ikki omil bilan belgilanadi: (1) tomirning ikki uçi orasidagi qon _bosimlari farqi_ — u ba’zan tomir böylab _bosim gradiyenti_ deb ham ataladi va qonni tomir böylab itaradi; (2) qonning tomir orqali oqişiga tösqinlik — u _tomir qarşiligi_ deb ataladi. **Rasm 14-3** da qon aylaniş tizimining istalgan joyida joylaşgan qon tomiri bölagi orqali bu boğliqliklar körsatilgan."
+  },
+  "ch14-f29": {
+   "text": "P1 tomirning boşlanişidagi bosimni, P2 esa uning ikkinçi uçidagi bosimni ifodalaydi. Qarşilik oqayotgan qon bilan tomirning butun içki yuzasi böylab joylaşgan tomir içi endoteliysi örtasidagi işqalaniş natijasida yuzaga keladi. Tomir orqali ötadigan qon oqimini _Om qonuni_ deb ataladigan quyidagi formula bilan hisoblaş mumkin:"
+  },
+  "ch14-f30": {
+   "text": "bu yerda F — qon oqimi, ΔP — tomirning ikki uçi orasidagi bosimlar farqi (P1 − P2), R esa qarşilik. Bu formulaga köra, qon oqimi bosimlar farqiga töğri proporsional, qarşilikka esa teskari proporsional."
+  },
+  "ch14-f31": {
+   "text": "E’tibor beringki, oqim tezligini tomirdagi mutlaq bosim emas, balki tomirning ikki uçi orasidagi bosim _farqi_ belgilaydi. Masalan, agar tomirning ikkala uçidagi bosim 100 mm Hg bölsa va ikki uç örtasida heç qanday farq bölmasa, 100 mm Hg bosim mavjud bölişiga qaramay, oqim bölmaydi."
+  },
+  "ch14-f32": {
+   "text": "Yuqoridagi formulada ifodalangan Om qonuni öquvçi qon aylanişi gemodinamikasini anglaşi uçun tuşunişi zarur bölgan barça boğliqliklar içida eng muhimlaridan birini ifodalaydi. Bu formula öta muhim bölgani sababli öquvçi uning boşqa algebraik şakllari bilan ham tanişib çiqişi lozim:"
+  },
+  "ch14-f33": {
+   "text": "Qon oqimi tezligi deganda ma’lum vaqt davomida qon aylanişining ma’lum nuqtasidan ötadigan qon miqdori tuşuniladi."
+  },
+  "ch14-f34": {
+   "text": "Odatda qon oqimi _millilitr/daqiqa_ yoki _litr/daqiqa_ birliklarida ifodalanadi, biroq uni millilitr/soniya yoki boşqa har qanday oqim va vaqt birliklarida ham ifodalaş mumkin."
+  },
+  "ch14-f35": {
+   "text": "Tinç holatdagi katta yoşli odamda butun qon aylanişidagi umumiy qon oqimi taxminan 5000 ml/daq ni taşkil etadi. U _yurak çiqarişi_ (yurakning daqiqalik hajmi) deb ataladi, çunki bu yurak har daqiqada aortaga haydaydigan qon miqdoridir."
+  },
+  "ch14-f36": {
+   "text": "Qon oqimini ölçaş uçun köplab mexanik va mexanoelektrik _oqim ölçagiç_ (flowmetr) qurilmalarini qon tomiriga ketma-ket ulaş yoki ba’zi hollarda tomirning taşqi yuzasiga qöyiş mumkin.",
+   "lead": "Qon oqimini ölçaş usullari."
+  },
+  "ch14-f37": {
+   "text": "Işlaş tamoyillari **Rasm 14-4** da tasvirlangan elektromagnit flowmetr yordamida qon tomirini oçmasdan turib tajribada qon oqimini ölçaş mumkin. **Rasm 14-4**_A_ da magnit maydoni orqali köndalang yönalişda tez harakatlantirilgan simda elektr yurituvçi kuç (elektr kuçlanişi) hosil bölişi körsatilgan. Bu elektr generatorida elektr energiyasi hosil qilişning yaxşi ma’lum tamoyili. **Rasm 14-4**_B_ da xuddi şu tamoyil magnit maydoni orqali harakatlanayotgan qonda elektr yurituvçi kuç hosil bölişiga ham taalluqli ekanligi körsatilgan. Bu holatda qon tomiri kuçli magnitning qutblari orasiga joylaştiriladi, elektrodlar esa tomirning ikki tomoniga magnit kuç çiziqlariga perpendikulyar qilib qöyiladi. Qon tomir orqali oqqanda ikki elektrod örtasida qon oqimi tezligiga proporsional elektr kuçlanişi hosil böladi va bu kuçlaniş tegişli voltmetr yoki elektron yozib oluvçi apparat yordamida qayd etiladi. **Rasm 14-4**_C_ da qon oqimini yozib oliş uçun yirik qon tomiriga qöyiladigan haqiqiy datçik körsatilgan. Datçik içida ham kuçli magnit, ham elektrodlar joylaşgan.",
+   "lead": "Elektromagnit flowmetr."
+  },
+  "ch14-f39": {
+   "text": "Elektromagnit flowmetrning alohida afzalligi şundaki, u oqimdagi özgarişlarni soniyaning 1/100 qismidan kamroq vaqt içida qayd eta oladi; bu barqaror oqimni ham, oqimning pulsatsiyali özgarişlarini ham aniq yozib oliş imkonini beradi."
+  },
+  "ch14-f40": {
+   "text": "Tomirning taşqi yuzasiga qöyilişi mumkin bölgan va elektromagnit flowmetrning köplab afzalliklariga ega bölgan flowmetrning yana bir turi — **Rasm 14-5** da körsatilgan _ultratovuşli Doppler flowmetr_. Qurilma devorining bir uçiga juda kiçik pyezoelektrik kristall örnatilgan. Bu kristall tegişli elektron apparat yordamida energiya bilan ta’minlanganda, oqayotgan qon böylab oqim yönalişida soniyasiga bir neça yuz ming sikl çastotali ultratovuş çiqaradi. Tovuşning bir qismi oqayotgan qondagi eritrotsitlardan qaytadi. Söngra qaytgan ultratovuş tölqinlari qon hujayralaridan kristall tomon orqaga tarqaladi. Bu qaytgan tölqinlarning çastotasi yuborilgan tölqinnikidan pastroq böladi, çunki eritrotsitlar uzatuvçi kristalldan uzoqlaşib boradi. Bu hodisa _Doppler effekti_ deb ataladi. (Bu poyezd huştak çalib yaqinlaşib kelib, yonidan ötib ketganda odam sezadigan effektning xuddi özi. Huştak odamning yonidan ötib ketgaç, huştak tovuşining balandligi poyezd yaqinlaşib kelayotgandagiga qaraganda tösatdan ança pasayadi.)",
+   "lead": "Ultratovuşli Doppler flowmetr."
+  },
+  "ch14-f42": {
+   "text": "**Rasm 14-5** da körsatilgan flowmetrda yuqori çastotali ultratovuş tölqini vaqti-vaqti bilan uzib turiladi, qaytgan tölqin esa yana kristallga qabul qilinadi va elektron apparat tomonidan kuçli darajada kuçaytiriladi. Elektron apparatning boşqa bir qismi yuborilgan tölqin va qaytgan tölqin örtasidagi çastota farqini aniqlaydi va şu orqali qon oqimi tezligini aniqlaydi. Qon tomirining diametri özgarmas ekan, tomirdagi qon oqimining özgarişlari oqim tezligining özgarişlari bilan bevosita boğliq böladi."
+  },
+  "ch14-f43": {
+   "text": "Elektromagnit flowmetr kabi ultratovuşli Doppler flowmetr ham barqaror oqimni, şuningdek, oqimning tez pulsatsiyali özgarişlarini yozib olişga qodir."
+  },
+  "ch14-f44": {
+   "text": "Qon uzun, silliq qon tomiri orqali barqaror tezlikda oqqanda u _oqim çiziqlari_ böylab oqadi, bunda qonning har bir qatlami tomir devoridan bir xil masofada qoladi. Şuningdek, qonning eng markaziy qismi tomir markazida qoladi. Bunday oqim _laminar oqim_ yoki _qatlamli oqim_ deb ataladi; keyinroq muhokama qilinadigan _turbulent oqim_ esa bundan farqli ölaroq, qonning tomirda barça yönalişlarda oqişi va tomir içida uzluksiz aralaşib turişidir.",
+   "lead": "Tomirlarda qonning laminar oqimi."
+  },
+  "ch14-f45": {
+   "text": "Laminar oqimda tomir markazidagi oqim tezligi taşqi çetlarga yaqin joydagidan ança yuqori böladi. Bu hodisa **Rasm 14-6** da körsatilgan. **Rasm 14-6A** da tomirda ikki xil suyuqlik bor: çapdagisi böyoq bilan böyalgan, öngdagisi esa tiniq suyuqlik, biroq tomirda oqim yöq. Suyuqliklar oqişga majbur qilinganda, **Rasm 14-6B** da 1 soniyadan keyin körsatilganidek, ular orasida parabolik çegara hosil böladi. Suyuqlikning tomir devoriga tutaşgan qismi deyarli siljimagan, devordan biroz uzoqroqdagi qismi kiçik masofaga siljigan, tomir markazidagi qismi esa uzoq masofaga siljigan. Bu effekt _qon oqimi tezligining parabolik profili_ deb ataladi.",
+   "lead": "Laminar oqimda tezlikning parabolik profili."
+  },
+  "ch14-f47": {
+   "text": "Parabolik profilning sababi quyidagiça. Devorga tegib turgan suyuqlik molekulalari tomir devoriga yopişişi tufayli sekin harakatlanadi. Molekulalarning keyingi qatlami bular ustidan sirpanib ötadi, uçinçi qatlam ikkinçisi ustidan, törtinçi qatlam uçinçisi ustidan va hokazo. Şuning uçun tomir örtasidagi suyuqlik tez harakatlana oladi, çunki tomir örtasi bilan tomir devori orasida sirpanuvçi molekulalarning köplab qatlamlari mavjud. Şunday qilib, markazga yaqinroq har bir qatlam taşqi qatlamlarga nisbatan tobora tezroq oqadi."
+  },
+  "ch14-f48": {
+   "text": "Qon oqimi tezligi haddan taşqari oşib ketganda, qon tomirdagi tösiq yonidan ötganda, keskin buriliş qilganda yoki notekis yuza ustidan ötganda, oqim qatlamli emas, balki _turbulent_, ya’ni tartibsiz bölib qolişi mumkin (**Rasm 14-6C**). Turbulent oqim qonning tomirda ham köndalang, ham tomir böylab oqişini anglatadi; bunda qonda odatda _girdobli oqimlar_ deb ataladigan uyurmalar hosil böladi. Bu girdobli oqimlar tez oqayotgan daryoda tösiq bor joyda köriş mumkin bölgan girdoblarga öxşaydi. Girdobli oqimlar mavjud bölganda qon qatlamli oqimdagiga qaraganda ança katta qarşilik bilan oqadi, çunki girdoblar tomirdagi oqimning umumiy işqalanişini keskin oşiradi.",
+   "lead": "Ba’zi şaroitlarda qonning turbulent oqimi."
+  },
+  "ch14-f49": {
+   "text": "Turbulent oqimga moyillik qon oqimi tezligiga, qon tomiri diametriga va qon ziçligiga töğri proporsional ravişda ortadi hamda quyidagi tenglamaga muvofiq qon qovuşqoqligiga teskari proporsionaldir:"
+  },
+  "ch14-f50": {
+   "text": "bu yerda _Re_ — turbulentlik yuzaga kelişiga moyillikning ölçovi bölgan _Reynolds soni_, _v_ — qon oqimining örtaça tezligi (sm/s da), _d_ — tomir diametri (santimetrda), ρ — ziçlik (g/ml da), _η_ esa qovuşqoqlik (puazda). Qonning qovuşqoqligi odatda taxminan 1/30 puaz, ziçligi esa 1 dan biroz kattaroq. Reynolds soni 200–400 dan oşganda turbulent oqim tomirlarning ba’zi tarmoqlaniş joylarida yuzaga keladi, ammo tomirlarning silliq qismlari böylab sönadi. Biroq Reynolds soni taxminan 2000 dan oşganda turbulentlik odatda hatto töğri, silliq tomirda ham yuzaga keladi."
+  },
+  "ch14-f51": {
+   "text": "Tomirlar tizimidagi oqim uçun Reynolds soni odatda hatto yirik arteriyalarda ham 200–400 gaça kötariladi. Natijada bu tomirlarning tarmoqlaniş joylarida deyarli har doim oqimning ma’lum darajada turbulentligi kuzatiladi. Aorta va öpka arteriyasining proksimal qismlarida qorinçalardan qon tez haydaliş fazasida Reynolds soni bir neça minggaça kötarilişi mumkin, bu esa proksimal aorta va öpka arteriyasida sezilarli turbulentlikka sabab böladi; bu joylarda turbulentlik uçun köplab şaroitlar mavjud, masalan: (1) qon oqimining yuqori tezligi; (2) oqimning pulsatsiyali tabiati; (3) tomir diametrining keskin özgarişi; (4) tomir diametrining kattaligi. Biroq mayda tomirlarda Reynolds soni turbulentlikni keltirib çiqaradigan darajada deyarli heç qaçon yuqori bölmaydi."
+  },
+  "ch14-f52": {
+   "text": "Qon bosimi deyarli har doim simob ustuni millimetrlarida (mm Hg) ölçanadi, çunki 1846-yilda Puazeyl tomonidan ixtiro qilinganidan beri simobli manometr bosimni ölçaşda standart ölçov vositasi sifatida qöllanib kelinadi. Aslida qon bosimi _qonning tomir devorining har bir birlik yuzasiga körsatadigan kuçini_ anglatadi. Agar tomirdagi bosim 100 mm Hg bölsa, bu körsatilayotgan kuç simob ustunini oğirlik kuçiga qarşi 50 millimetr balandlikkaça kötariş uçun yetarli ekanligini bildiradi.",
+   "lead": "Bosimning standart birliklari."
+  },
+  "ch14-f53": {
+   "text": "Ba’zan bosim _suv ustuni santimetrlarida_ (sm H2O) ölçanadi. 10 sm H2O bosim suv ustunini oğirlik kuçiga qarşi 10 santimetr balandlikkaça kötariş uçun yetarli bosimni anglatadi. _Bir millimetr simob ustuni bosimi 1,36 santimetr suv ustuni bosimiga teng_, çunki simobning soliştirma oğirligi suvnikidan 13,6 baravar katta, 1 santimetr esa 1 millimetrdan 10 baravar katta."
+  },
+  "ch14-f54": {
+   "text": "Manometrdagi simob şunçalik katta inersiyaga egaki, u tez kötarilib-tuşa olmaydi. Şu sababli simobli manometr barqaror bosimlarni yozib oliş uçun a’lo darajada bölsa-da, taxminan har 2–3 soniyada bir sikldan tezroq sodir böladigan bosim özgarişlariga javob bera olmaydi. Tez özgaruvçan bosimlarni yozib oliş zarur bölganda bosimni qayd etuvçi boşqa turdagi qurilma kerak böladi. **Rasm 14-7** da qon bosimini va/yoki bosimning tez özgarişlarini elektr signallariga aylantiriş va söngra bu elektr signallarini tezkor elektr yozib oluvçi qurilmada qayd etiş uçun keng qöllaniladigan uçta elektron bosim _datçigining_ (transduserining) asosiy tamoyillari körsatilgan. Bu datçiklarning har biri suyuqlik kamerasining bir devorini taşkil etuvçi juda yupqa, kuçli tarang tortilgan metall membranadan foydalanadi. Suyuqlik kamerasi esa, öz navbatida, bosim ölçanişi kerak bölgan qon tomiriga kiritilgan igna yoki kateter orqali ulanadi. Bosim yuqori bölganda membrana biroz börtib çiqadi, past bölganda esa tinç holatiga qaytadi.",
+   "lead": "Qon bosimini yuqori aniqlikda ölçaş usullari."
+  },
+  "ch14-f56": {
+   "text": "**Rasm 14-7A** da membranadan bir neça yuzdan bir santimetr yuqorida oddiy metall plastinka joylaştirilgan. Membrana börtganda u plastinkaga yaqinlaşadi, bu esa ular orasidagi _elektr siğimini_ oşiradi; siğimdagi bu özgarişni tegişli elektron tizim yordamida yozib oliş mumkin."
+  },
+  "ch14-f57": {
+   "text": "**Rasm 14-7B** da membrana ustida kiçik temir özak turadi va bu özak yuqoriga, elektr simi ğaltagining içidagi markaziy böşliqqa siljişi mumkin. Temirning ğaltak içiga harakatlanişi ğaltakning _induktivligini_ oşiradi va buni ham elektron usulda yozib oliş mumkin."
+  },
+  "ch14-f58": {
+   "text": "Nihoyat, **Rasm 14-7C** da membranaga juda ingiçka, tarang tortilgan qarşilik simi ulangan. Bu sim kuçli çözilganda uning qarşiligi ortadi, kamroq çözilganda esa qarşiligi kamayadi. Bu özgarişlarni ham elektron tizim yordamida yozib oliş mumkin."
+  },
+  "ch14-f59": {
+   "text": "Datçikdan çiqqan elektr signallari kuçaytirgiçga, söngra tegişli yozib oluvçi qurilmaga yuboriladi. Ba’zi bunday yuqori aniqlikdagi yozib oliş tizimlari yordamida soniyasiga 500 siklgaça bölgan bosim sikllari aniq qayd etilgan. **Rasm 14-7C** dagi yozib oluvçi qurilmada körsatilganidek, soniyasiga 20–100 sikl tezlikda sodir böladigan bosim özgarişlarini qayd eta oladigan yozib oluvçi qurilmalar keng qöllaniladi."
+  },
+  "ch14-f60": {
+   "text": "Qon oqimiga qarşilik"
+  },
+  "ch14-f61": {
+   "text": "Qarşilik — tomirdagi qon oqimiga tösqinlik, ammo uni heç qanday bevosita usul bilan ölçab bölmaydi. Buning örniga qarşilik qon oqimi va tomirning ikki nuqtasi orasidagi bosimlar farqini ölçaş natijalari asosida hisoblanişi kerak. Agar ikki nuqta orasidagi bosimlar farqi 1 mm Hg, oqim esa 1 ml/s bölsa, qarşilik _1 periferik qarşilik birligiga_ teng deyiladi; u odatda _PRU_ (inglizça peripheral resistance unit) deb qisqartiriladi.",
+   "lead": "Qarşilik birliklari."
+  },
+  "ch14-f62": {
+   "text": "Ba’zan qarşilikni ifodalaş uçun SGS (santimetr, gramm, soniya) birligi deb ataladigan asosiy fizik birlik qöllaniladi. Bu birlik — din·s/sm5. Bu birliklardagi qarşilikni quyidagi formula böyiça hisoblaş mumkin:",
+   "lead": "Qarşilikni SGS birliklarida ifodalaş."
+  },
+  "ch14-f63": {
+   "text": "Umumiy periferik tomir qarşiligi va umumiy öpka tomir qarşiligi. Butun qon aylaniş tizimi orqali ötadigan qon oqimi tezligi yurakning qon haydaş tezligiga, ya’ni yurak çiqarişiga teng. Katta yoşli odamda bu örtaça taxminan 100 ml/s ni taşkil etadi. Sistemali arteriyalardan sistemali venalargaça bölgan bosimlar farqi taxminan 100 mm Hg. Şuning uçun butun sistemali qon aylanişining qarşiligi — u _umumiy periferik qarşilik_ deb ataladi — taxminan 100/100, ya’ni 1 PRU ga teng. Tanadagi barça qon tomirlari kuçli torayadigan holatlarda umumiy periferik qarşilik ba’zan 4 PRU gaça kötariladi. Aksinça, tomirlar kuçli kengayganda qarşilik 0,2 PRU gaça pasayişi mumkin."
+  },
+  "ch14-f64": {
+   "text": "Öpka tizimida öpka arteriyasidagi örtaça bosim örtaça 16 mm Hg, çap bölmaçadagi örtaça bosim esa örtaça 2 mm Hg bölib, sof bosimlar farqi 14 mm ni taşkil etadi. Şuning uçun yurak çiqarişi taxminan 100 ml/s lik me’yoriy darajada bölganda _umumiy öpka tomir qarşiligi_ hisob böyiça taxminan 0,14 PRU ga teng böladi (sistemali qon aylanişidagining taxminan yettidan bir qismi)."
+  },
+  "ch14-f65": {
+   "text": "Ötkazuvçanlik — ma’lum bosimlar farqida tomir orqali ötadigan qon oqimining ölçovi. Bu kattalik odatda 1 mm Hg bosimga töğri keladigan ml/s birliklarida ifodalanadi, biroq uni 1 mm Hg ga töğri keladigan L/s yoki qon oqimi va bosimning boşqa har qanday birliklarida ham ifodalaş mumkin.",
+   "lead": "Tomirdagi qon ötkazuvçanligi qarşilikka teskari kattalikdir."
+  },
+  "ch14-f66": {
+   "text": "Körinib turibdiki, quyidagi tenglamaga muvofiq ötkazuvçanlik qarşilikka aynan teskari kattalikdir:"
+  },
+  "ch14-f67": {
+   "text": "Qon oqimi qatlamli bölganda tomir diametrining ozgina özgarişi tomirning qon ötkaziş qobiliyatini juda katta özgartiradi. Bu hodisa **Rasm 14-8A** da tasvirlangan: unda nisbiy diametrlari 1, 2 va 4 bölgan, ammo ikki uçi orasidagi bosimlar farqi bir xil — 100 mm Hg bölgan uçta tomir körsatilgan. Bu tomirlarning diametrlari atigi tört barobar ortgan bölsa-da, tegişli oqimlar 1, 16 va 256 ml/daq ni taşkil etadi, ya’ni oqim 256 barobar ortadi. Şunday qilib, quyidagi formulaga muvofiq tomirning ötkazuvçanligi _diametrning törtinçi darajasiga_ proporsional ravişda ortadi:",
+   "lead": "Tomir diametrining kiçik özgarişlari uning ötkazuvçanligini keskin özgartiradi."
+  },
+  "ch14-f69": {
+   "text": "Puazeyl qonuni. Diametr ortganda ötkazuvçanlikning bunday katta ortişining sababini **Rasm 14-8B** yordamida tuşuntiriş mumkin; unda katta va kiçik tomirlarning köndalang kesimlari körsatilgan. Tomirlar içidagi konsentrik halqalar bobning avvalida muhokama qilingan _laminar_ oqim tufayli har bir halqadagi oqim tezligi qöşni halqalardagidan farq qilişini körsatadi. Ya’ni tomir devoriga tegib turgan halqadagi qon tomir endoteliysiga yopişganligi sababli deyarli oqmaydi. Tomir markaziga qarab keyingi qon halqasi birinçi halqa yonidan sirpanib ötadi va şuning uçun tezroq oqadi. Xuddi şunday, uçinçi, törtinçi, beşinçi va oltinçi halqalar tobora ortib boruvçi tezliklarda oqadi. Şunday qilib, tomir devori yaqinidagi qon sekin oqadi, tomir örtasidagisi esa ança tez oqadi."
+  },
+  "ch14-f70": {
+   "text": "Kiçik tomirda deyarli barça qon devorga yaqin joylaşgan, şuning uçun öta tez oqadigan markaziy qon oqimi umuman mavjud bölmaydi. Oqayotgan qonning barça konsentrik halqalari tezliklarini integrallab va ularni halqalar yuzalariga köpaytirib, _Puazeyl qonuni_ deb nomlanuvçi quyidagi formulani keltirib çiqariş mumkin:"
+  },
+  "ch14-f71": {
+   "text": "bu yerda F — qon oqimi tezligi, ΔP — tomir uçlari orasidagi bosimlar farqi, r — tomir radiusi, l — tomir uzunligi, η esa qonning qovuşqoqligi."
+  },
+  "ch14-f72": {
+   "text": "Bu tenglamada ayniqsa şunga e’tibor beringki, qon oqimi tezligi tomir _radiusining törtinçi darajasiga_ töğri proporsional; bu yana bir bor qon tomirining diametri (u radiusning ikki barobariga teng) tomir orqali ötadigan qon oqimi tezligini belgilovçi barça omillar içida eng katta rol öynaşini körsatadi."
+  },
+  "ch14-f73": {
+   "text": "Sistemali qon aylanişida qon oqimiga sistemali umumiy qarşilikning taxminan uçdan ikki qismi mayda arteriolalardagi qarşilikka töğri keladi. Arteriolalarning içki diametrlari 4 mikrometrdan 25 mikrometrgaça böladi. Biroq ularning mustahkam tomir devorlari içki diametrlarning juda katta, köpinça tört barobargaça özgarişiga imkon beradi. Yuqorida muhokama qilingan, qon oqimini tomir diametri bilan boğlovçi törtinçi daraja qonunidan körinib turibdiki, tomir diametrining tört barobar ortişi oqimni 256 barobargaça oşirişi mumkin. Şunday qilib, bu törtinçi daraja qonuni nerv signallari yoki mahalliy töqima kimyoviy signallariga diametrning atigi kiçik özgarişlari bilan javob beradigan arteriolalarga töqimaga qon oqimini deyarli butunlay töxtatiş yoki, boşqa çekka holatda, oqimni juda katta darajada oşiriş imkonini beradi. Alohida töqima sohalarida arteriolalarning maksimal torayişi va maksimal kengayişi çegaralari orasida qon oqimining 100 barobardan ortiq diapazonlari qayd etilgan.",
+   "lead": "Arteriola qarşiligini belgilaşda tomir diametrining törtinçi daraja qonunining ahamiyati."
+  },
+  "ch14-f74": {
+   "text": "Yurak haydagan qon sistemali qon aylanişining yuqori bosimli qismidan (ya’ni aortadan) past bosimli tomoniga (ya’ni kovak venalarga) ketma-ket va parallel joylaşgan köp kilometrli qon tomirlari orqali oqadi. Arteriyalar, arteriolalar, kapillyarlar, venulalar va venalar birgalikda ketma-ket joylaşgan. Qon tomirlari ketma-ket joylaşganda har bir qon tomiri orqali ötadigan oqim bir xil böladi va qon oqimiga umumiy qarşilik (Rumumiy) har bir tomir qarşiliklarining yiğindisiga teng:",
+   "lead": "Ketma-ket va parallel tomir zanjirlarida qon oqimiga qarşilik."
+  },
+  "ch14-f75": {
+   "text": "Şunday qilib, umumiy periferik tomir qarşiligi arteriyalar, arteriolalar, kapillyarlar, venulalar va venalar qarşiliklarining yiğindisiga teng. **Rasm 14-9A** da körsatilgan misolda umumiy tomir qarşiligi R1 va R2 ning yiğindisiga teng."
+  },
+  "ch14-f77": {
+   "text": "Qon tomirlari keng tarmoqlanib, tanadagi köplab a’zo va töqimalarni qon bilan ta’minlaydigan parallel zanjirlarni hosil qiladi. Bunday parallel joylaşuv har bir töqimaga öz qon oqimini boşqa töqimalardagi oqimdan katta darajada mustaqil ravişda boşqariş imkonini beradi."
+  },
+  "ch14-f78": {
+   "text": "Parallel joylaşgan qon tomirlari uçun (**Rasm 14-9B**) qon oqimiga umumiy qarşilik quyidagiça ifodalanadi:"
+  },
+  "ch14-f79": {
+   "text": "Ravşanki, ma’lum bosim gradiyentida bu parallel tizim orqali alohida olingan har qanday qon tomiri orqali ötadiganidan ança köp qon oqadi. Şuning uçun umumiy qarşilik har qanday bitta qon tomirining qarşiligidan ança kiçik. **Rasm 14-9B** dagi parallel tomirlarning har biri orqali ötadigan oqim boşqa parallel qon tomirlarining qarşiligi bilan emas, balki bosim gradiyenti va şu tomirning öz qarşiligi bilan belgilanadi. Biroq qon tomirlarining istalgan birining qarşiligi ortişi umumiy tomir qarşiligini oşiradi."
+  },
+  "ch14-f80": {
+   "text": "Zanjirga köproq qon tomirlari qöşilişi umumiy tomir qarşiligini kamaytirişi paradoks bölib tuyulişi mumkin. Biroq köplab parallel qon tomirlari qonning zanjir orqali oqişini osonlaştiradi, çunki har bir parallel tomir qon oqimi uçun qöşimça yöl, ya’ni _ötkazuvçanlik_ yaratadi. Qon oqimi uçun umumiy ötkazuvçanlik (Cumumiy) har bir parallel yöl ötkazuvçanliklarining yiğindisiga teng:"
+  },
+  "ch14-f81": {
+   "text": "Masalan, boş miya, buyrak, muskullar, oşqozon-içak, teri va koronar qon aylanişlari parallel joylaşgan va har bir töqima sistemali qon aylanişining umumiy ötkazuvçanligiga öz hissasini qöşadi. Har bir töqima orqali ötadigan qon oqimi umumiy qon oqimining (yurak çiqarişining) bir qismi bölib, töqimadagi qon oqimiga qarşilik (ötkazuvçanlikka teskari kattalik) hamda bosim gradiyenti bilan belgilanadi. Şuning uçun oyoq-qölning amputatsiyasi yoki buyrakning jarrohlik yöli bilan olib taşlanişi parallel zanjirni ham yöq qiladi va umumiy tomir ötkazuvçanligini hamda umumiy qon oqimini (ya’ni yurak çiqarişini) kamaytiradi, umumiy periferik tomir qarşiligini esa oşiradi."
+  },
+  "ch14-f82": {
+   "text": "Qon gematokriti va qon qovuşqoqligining tomir qarşiligi va qon oqimiga ta’siri"
+  },
+  "ch14-f83": {
+   "text": "E’tibor beringki, Puazeyl tenglamasidagi yana bir muhim omil — qonning qovuşqoqligi. Boşqa barça omillar özgarmas bölganda qovuşqoqlik qançalik katta bölsa, tomirdagi oqim şunçalik kam böladi. Bundan taşqari, _me’yoriy qonning qovuşqoqligi suvning qovuşqoqligidan taxminan uç barobar katta._"
+  },
+  "ch14-f84": {
+   "text": "Qonni nima bunçalik qovuşqoq qiladi? Bu asosan qonda muallaq holatda bölgan köp sonli eritrotsitlar bölib, ularning har biri qöşni hujayralarga va qon tomiri devoriga işqalaniş qarşiligini körsatadi."
+  },
+  "ch14-f85": {
+   "text": "Agar odamning gematokriti 40 bölsa, bu qon hajmining 40% i hujayralardan, qolgan qismi esa plazmadan iborat ekanligini bildiradi. Katta yoşli erkaklarda gematokrit örtaça taxminan 42, ayollarda esa örtaça taxminan 38 ga teng. Bu qiymatlar odamda kamqonlik bor-yöqligiga, jismoniy faollik darajasiga va odam yaşaydigan joyning dengiz sathidan balandligiga qarab katta farq qilişi mumkin. Gematokritdagi bu özgarişlar 33-bobda eritrotsitlar va ularning kislorod taşiş funksiyasi bilan boğliq holda muhokama qilinadi.",
+   "lead": "Gematokrit — qonning eritrotsitlardan iborat uluşi."
+  },
+  "ch14-f86": {
+   "text": "**Rasm 14-10** da körsatilganidek, gematokrit qonni darajalangan probirkada sentrifugalaş yöli bilan aniqlanadi. Darajalar hujayralar foizini bevosita öqiş imkonini beradi."
+  },
+  "ch14-f88": {
+   "text": "**Rasm 14-11** da körsatilganidek, gematokrit ortişi bilan qon qovuşqoqligi keskin ortadi. Me’yoriy gematokritda butun qonning qovuşqoqligi taxminan 3–4 ga teng; bu butun qonni bir xil qon tomiri orqali ötkaziş uçun suvni ötkazişdagiga qaraganda uç-tört barobar köp bosim talab qilinişini anglatadi. Gematokrit 60 yoki 70 gaça kötarilganda — bu _politsitemiya_ bölgan odamlarda tez-tez kuzatiladi — qon qovuşqoqligi suvnikidan 10 barobargaça katta bölişi mumkin va uning qon tomirlari orqali oqişi juda sekinlaşadi.",
+   "lead": "Gematokritning ortişi qon qovuşqoqligini keskin oşiradi."
+  },
+  "ch14-f90": {
+   "text": "Qon qovuşqoqligiga ta’sir qiluvçi boşqa omillar — plazmadagi oqsillar konsentratsiyasi va oqsillar turlari, biroq bu ta’sirlar gematokrit ta’siridan şunçalik kiçikki, köpçilik gemodinamik tadqiqotlarda ular muhim ahamiyatga ega emas. Qon plazmasining qovuşqoqligi suvnikidan taxminan 1,5 barobar katta."
+  },
+  "ch14-f91": {
+   "text": "Bosimning tomir qarşiligi va töqima qon oqimiga ta’siri"
+  },
+  "ch14-f92": {
+   "text": "Hozirgaça bölgan muhokamadan arterial bosimning ortişi tana töqimalari orqali ötadigan qon oqimining mutanosib ravişda ortişiga olib keladi, deb kutiş mumkin. Biroq **Rasm 14-12** da körsatilganidek, köplab töqimalarda arterial bosimning qon oqimiga ta’siri odatda kutilganidan ança kam böladi. Buning sababi şundaki, arterial bosimning ortişi nafaqat qonni tomirlar orqali itaruvçi kuçni oşiradi, balki 17-bobda muhokama qilinadigan mahalliy boşqaruv mexanizmlarini faollaştiriş orqali bir neça soniya içida tomir qarşiligining kompensator ortişini ham boşlab beradi. Aksinça, arterial bosim pasayganda köpçilik töqimalarda tomir qarşiligi tezda kamayadi va qon oqimi nisbatan doimiy darajada saqlanib qoladi. Har bir töqimaning arterial bosim taxminan 70 dan 175 mm Hg gaça oraliqda özgarganda öz tomir qarşiligini moslaştiriş va me’yoriy qon oqimini saqlab turiş qobiliyati _qon oqimining autoregulyatsiyasi_ deb ataladi.",
+   "lead": "Autoregulyatsiya arterial bosimning töqima qon oqimiga ta’sirini susaytiradi."
+  },
+  "ch14-f94": {
+   "text": "**Rasm 14-12** da e’tibor beringki, qon oqimining özgarişlari qon tomirlarini _toraytiruvçi_ kuçli simpatik qözğaliş natijasida yuzaga kelişi mumkin. Xuddi şunday, _noradrenalin (norepinefrin), angiotenzin II, vazopressin_ yoki _endotelin_ kabi gormonal vazokonstriktorlar ham qon oqimini heç bölmaganda vaqtinça kamaytirişi mumkin."
+  },
+  "ch14-f95": {
+   "text": "Köpçilik töqimalarda arterial bosimning ortişi yoki vazokonstriktorlar darajasining kötarilişi uzoq saqlanib qolgan taqdirda ham qon oqimining özgarişlari kamdan-kam hollarda bir neça soatdan ortiq davom etadi. Qon oqimining nisbatan doimiyligining sababi şundaki, har bir töqimaning mahalliy autoregulyator mexanizmlari oxir-oqibat vazokonstriktorlar ta’sirining köp qismini bartaraf etib, töqima ehtiyojlariga mos keladigan qon oqimini ta’minlaydi."
+  },
+  "ch14-f96": {
+   "text": "Ajratib olingan qon tomirlarida yoki autoregulyatsiya kuzatilmaydigan töqimalarda arterial bosimning özgarişlari qon oqimiga muhim ta’sir körsatişi mumkin. **Rasm 14-13** dagi yuqoriga egilgan çiziqlarda körsatilganidek, bosimning qon oqimiga ta’siri Puazeyl tenglamasi başorat qilganidan kattaroq bölişi mumkin. Buning sababi şundaki, arterial bosimning ortişi nafaqat qonni tomirlar orqali itaruvçi kuçni oşiradi, balki elastik tomirlarni çözib kengaytiradi va şu bilan tomir qarşiligini amalda _kamaytiradi_. Aksinça, passiv qon tomirlarida arterial bosimning pasayişi qarşilikni oşiradi, çunki kengaytiruvçi bosim kamayişi tufayli elastik tomirlar asta-sekin puçayib boradi. Bosim _kritik yopiliş bosimi_ deb ataladigan kritik darajadan pastga tuşganda qon tomirlari butunlay puçayib qolgani sababli oqim töxtaydi.",
+   "lead": "Passiv tomir törlarida bosim va oqim örtasidagi boğliqlik."
+  },
+  "ch14-f98": {
+   "text": "Simpatik qözğaliş va boşqa vazokonstriktorlar **Rasm 14-13** da körsatilgan passiv bosim-oqim boğliqligini özgartirişi mumkin. Şunday qilib, simpatik faollikning _susayişi_ tomirlarni _kuçli kengaytiradi_ va qon oqimini ikki barobar yoki undan köproq oşirişi mumkin. Aksinça, juda kuçli simpatik qözğaliş tomirlarni şu darajada _toraytirişi_ mumkinki, arterial bosim yuqori bölişiga qaramay qon oqimi ba’zan bir neça soniya davomida nolgaça kamayadi."
+  },
+  "ch14-f99": {
+   "text": "Aslida töqimalar **Rasm 14-13** da körsatilgan passiv bosim-oqim boğliqligini namoyon qiladigan fiziologik holatlar kam. 17-bobda muhokama qilinganidek, arterial bosimning ötkir özgarişlari paytida qon oqimini samarali autoregulyatsiya qila olmaydigan töqimalarda ham bosim özgarişlari uzoq saqlanib qolganda qon oqimi töqima ehtiyojlariga muvofiq boşqariladi."
+  },
+  "ch14-f100": {
+   "text": "Qon tomiri devorining tarangligi transmural bosim gradiyentlariga javoban yuzaga keladi va tomir silliq muskul hujayralari hamda endotelial hujayralarni barça yönalişlarda çözadi (**Rasm 14-14A**). _Laplas qonuniga_ köra, yupqa devorli nayça uçun devor tarangligi (T) transmural bosim gradiyenti (ΔP) bilan qon tomiri radiusi (_r_) köpaytmasining devor qalinligiga (h) nisbatiga proporsional:",
+   "lead": "Tomir devorining tarangligi."
+  },
+  "ch14-f102": {
+   "text": "Şunday qilib, aorta kabi yuqori bosim ta’siridagi yirik qon tomirlari yuqoriroq taranglikka bardoş beriş uçun mustahkamroq devorlarga ega bölişi kerak va ular odatda kollagenning fibroz tasmalari bilan mustahkamlangan böladi. Aksinça, kapillyarlarning radiuslari ança kiçik va şuning uçun ularga ta’sir qiladigan devor tarangligi ança past böladi; bu ularga buyraklar kabi ba’zi a’zolarda 65–70 mm Hg gaça bölgan bosimlarga bardoş beriş imkonini beradi. 17-bobda muhokama qilinganidek, qon bosimining surunkali özgarişlari devor tarangligidagi tegişli özgarişlarga moslaşiş uçun qon tomirlarining qayta tuzilişiga (remodellanişiga) olib keladi."
+  },
+  "ch14-f103": {
+   "text": "Qon oqar ekan, u qon tomirlarini içki tomondan qoplab turuvçi endotelial hujayralarga işqalaniş kuçi, ya’ni tortuvçi kuç ta’sir körsatadi (qarang: **Rasm 14-14B**). _Siljiş kuçlanişi_ (şear stress) deb ataladigan bu kuç qon oqimi tezligi va qon qovuşqoqligiga proporsional, radiusning kubiga esa teskari boğliq bölib, odatda kuç/birlik yuza birliklarida (masalan, din/sm2) ifodalanadi. Klinik amaliyotda siljiş kuçlanişini ölçaşning keng qöllaniladigan yagona usuli yöq. Biroq qisqaruvçi kuçlar yoki qon bosimi tufayli devorning çözilişiga nisbatan kattaligi nisbatan kiçik bölişiga qaramay, siljiş kuçlanişi tomirlar tizimining rivojlanişi va töqimalarning qon oqimiga bölgan ehtiyojlariga moslaşişida muhim ahamiyatga ega. Endotelial hujayralarda birgalikda mexanik sensorlar vazifasini bajaradigan va signal yöllarini boşqaradigan köplab oqsillar mavjud; bu yöllar embrional rivojlaniş davrida tomirlar tarmoğini şakllantiradi va 17-bobda batafsilroq muhokama qilinganidek, katta yoşda ham töqimalarga qon yetkazilişini optimallaştiriş uçun qon tomirlari morfologiyasini özgartirişda davom etadi.",
+   "lead": "Tomirdagi siljiş kuçlanişi."
+  }
+ },
+ "figures": {
+  "gh14-fig-14-01": "Qon aylaniş tizimining turli qismlarida qonning taqsimlanişi (umumiy qon hajmiga nisbatan foizlarda).",
+  "gh14-fig-14-02": "Odam gorizontal holatda yotganda qon aylaniş tizimining turli qismlaridagi me’yoriy qon bosimlari (mm Hg da).",
+  "gh14-fig-14-03": "Bosim, qarşilik va qon oqimining özaro boğliqligi. P1 — tomir boşlanişidagi bosim; P2 — tomirning ikkinçi uçidagi bosim.",
+  "gh14-fig-14-04": "A — elektromagnit flowmetr: sim elektromagnit maydon orqali ötganda unda elektr kuçlanişi hosil bölişi körsatilgan. B — qon tomiri kuçli magnit maydoniga joylaştirilganda va tomir orqali qon oqqanda tomir ustidagi elektrodlarda elektr kuçlanişining hosil bölişi. C — qon tomirlari atrofiga uzoq muddatga implantatsiya qiliş uçun möljallangan zamonaviy elektromagnit flowmetr datçigi. N va S — magnitning şimoliy va janubiy qutblari.",
+  "gh14-fig-14-05": "Ultratovuşli Doppler flowmetr.",
+  "gh14-fig-14-06": "A — oqim boşlanişidan oldingi ikki suyuqlik (biri qizil rangga böyalgan, ikkinçisi tiniq). B — öşa suyuqliklar oqim boşlanganidan 1 soniya ötgaç. C — turbulent oqim: suyuqlik zarralari tartibsiz harakatlanadi.",
+  "gh14-fig-14-07": "A–C — tez özgaruvçan qon bosimlarini yozib oliş uçun uç turdagi elektron datçiklarning işlaş tamoyillari (matnga qarang).",
+  "gh14-fig-14-08": "A — tomir diametrining qon oqimiga ta’sirini namoyiş qiliş. B — turli tezliklarda oqayotgan qonning konsentrik halqalari; tomir devoridan qançalik uzoqda bölsa, oqim şunçalik tez. d — diametr; P — tomirlarning ikki uçi orasidagi bosimlar farqi.",
+  "gh14-fig-14-09": "Tomir qarşiligi (R). A — ketma-ket ulaniş. B — parallel ulaniş.",
+  "gh14-fig-14-10": "Soğlom (me’yoriy) odamda hamda kamqonlik va politsitemiya bölgan bemorlarda gematokrit qiymatlari. Raqamlar qonning eritrotsitlardan iborat qismining foizini bildiradi.",
+  "gh14-fig-14-11": "Gematokritning qon qovuşqoqligiga ta’siri (suv qovuşqoqligi = 1).",
+  "gh14-fig-14-12": "Bir neça daqiqa davomida arterial bosim özgarişlarining skelet muskuli kabi töqimadagi qon oqimiga ta’siri. E’tibor bering: 70 dan 175 mm Hg gaça bölgan bosimlarda qon oqimi autoregulyatsiya qilinadi. Kök çiziq simpatik nerv qözğalişining yoki noradrenalin, angiotenzin II, vazopressin yoxud endotelin kabi gormonlar ta’siridagi vazokonstriksiyaning bu boğliqlikka ta’sirini körsatadi. Töqima qon oqimining kamayişi kamdan-kam hollarda bir neça soatdan ortiq saqlanib qoladi, çunki mahalliy autoregulyator mexanizmlar faollaşib, oxir-oqibat qon oqimini me’yorga qaytaradi.",
+  "gh14-fig-14-13": "Tomirning simpatik qözğalişi ortişi yoki kamayişi tufayli yuzaga kelgan tomir tonusining turli darajalarida arterial bosimning passiv qon tomiri orqali ötadigan qon oqimiga ta’siri.",
+  "gh14-fig-14-14": "Tomir devori tarangligi va siljiş kuçlanişining qon tomirlariga ta’siri tasviri. Devor tarangligi transmural bosim gradiyentlariga javoban yuzaga keladi va endotelial hamda tomir silliq muskul hujayralarini barça yönalişlarda çözadi. Siljiş kuçlanişi — oqayotgan qon tufayli endotelial hujayralarga ta’sir qiluvçi işqalaniş yoki tortuvçi kuç. Siljiş kuçlanişi endotelial hujayralarning bir yönalişda deformatsiyalanişiga olib keladi."
+ }
+}

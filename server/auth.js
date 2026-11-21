@@ -57,7 +57,7 @@ export function authRoutes(router, { db, config, mailer }) {
     const row = db.prepare('SELECT * FROM auth_tokens WHERE token_hash=? AND kind=?').get(sha(String(token || '')), kind);
     if (!row || row.used_at) throw new Error('invalid_token');
     if (row.expires_at < nowIso()) {
-      const e = E.invalid({ token: 'Havola muddati tugagan.' }, 'Havola muddati tugagan. Yangisini so’rang.');
+      const e = E.invalid({ token: 'Havola muddati tugagan.' }, 'Havola muddati tugagan. Yangisini sörang.');
       e.code = 'token_expired';
       throw e;
     }
@@ -68,15 +68,15 @@ export function authRoutes(router, { db, config, mailer }) {
   router.post('/api/auth/register', async ({ body, ip, res }) => {
     rateLimit(db, `register:${ip}`, 10, 3600);
     const d = v(body, {
-      email: { type: 'string', required: true, re: EMAIL_RE, max: 254, msg: 'Email manzil noto’g’ri.' },
-      password: { type: 'string', required: true, min: 8, max: 200, msg: 'Parol kamida 8 belgidan iborat bo’lsin.' },
+      email: { type: 'string', required: true, re: EMAIL_RE, max: 254, msg: 'Email manzil notöğri.' },
+      password: { type: 'string', required: true, min: 8, max: 200, msg: 'Parol kamida 8 belgidan iborat bölsin.' },
       name: { type: 'string', required: true, min: 2, max: 80, msg: 'Ismingizni kiriting.' },
     });
     const email = d.email.toLowerCase();
     const exists = db.prepare('SELECT id FROM users WHERE email=?').get(email);
     if (exists) {
       // do not reveal that the account exists: same response, notify by email instead
-      mailer.send(email, 'DrBek: hisob allaqachon mavjud', 'Bu email bilan hisob mavjud. Kirish yoki parolni tiklashdan foydalaning.');
+      mailer.send(email, 'iMedu: hisob allaqaçon mavjud', 'Bu email bilan hisob mavjud. Kiriş yoki parolni tiklaşdan foydalaning.');
       return { status: 202, body: { ok: true, verificationRequired: true } };
     }
     const uid = id('u_');
@@ -88,7 +88,7 @@ export function authRoutes(router, { db, config, mailer }) {
       db.exec('COMMIT');
     } catch (e) { db.exec('ROLLBACK'); throw e; }
     const t = issueToken(uid, 'verify', 48);
-    mailer.send(email, 'DrBek: emailni tasdiqlang', `Tasdiqlash havolasi: ${config.publicUrl}/verify-email?token=${t}`);
+    mailer.send(email, 'iMedu: emailni tasdiqlang', `Tasdiqlaş havolasi: ${config.publicUrl}/verify-email?token=${t}`);
     // Login right away; unverified accounts can study, a banner asks to verify.
     res.setHeader('set-cookie', cookie(createSession(uid), SESSION_DAYS * 86400));
     return { status: 201, body: { ok: true, verificationRequired: true } };
@@ -101,7 +101,7 @@ export function authRoutes(router, { db, config, mailer }) {
     rateLimit(db, `login:${email}`, 8, 900);
     const u = db.prepare('SELECT * FROM users WHERE email=?').get(email);
     const ok = u ? verifyPassword(d.password, u.password_hash) : (verifyPassword(d.password, hashPassword('timing-dummy')), false);
-    if (!ok) throw new ApiError(401, 'invalid_credentials', 'Email yoki parol noto’g’ri.');
+    if (!ok) throw new ApiError(401, 'invalid_credentials', 'Email yoki parol notöğri.');
     res.setHeader('set-cookie', cookie(createSession(u.id), SESSION_DAYS * 86400));
     return { body: { ok: true } };
   });
@@ -117,7 +117,7 @@ export function authRoutes(router, { db, config, mailer }) {
     let uid;
     try { uid = consumeToken(body.token, 'verify'); } catch (e) {
       if (e.code === 'token_expired') throw e;
-      throw E.invalid({ token: 'Havola yaroqsiz.' }, 'Tasdiqlash havolasi yaroqsiz yoki ishlatilgan.');
+      throw E.invalid({ token: 'Havola yaroqsiz.' }, 'Tasdiqlaş havolasi yaroqsiz yoki işlatilgan.');
     }
     db.prepare('UPDATE users SET email_verified_at=? WHERE id=?').run(nowIso(), uid);
     return { body: { ok: true } };
@@ -128,17 +128,17 @@ export function authRoutes(router, { db, config, mailer }) {
     rateLimit(db, `verify:${user.id}`, 3, 3600);
     if (user.emailVerified) return { body: { ok: true } };
     const t = issueToken(user.id, 'verify', 48);
-    mailer.send(user.email, 'DrBek: emailni tasdiqlang', `Tasdiqlash havolasi: ${config.publicUrl}/verify-email?token=${t}`);
+    mailer.send(user.email, 'iMedu: emailni tasdiqlang', `Tasdiqlaş havolasi: ${config.publicUrl}/verify-email?token=${t}`);
     return { body: { ok: true } };
   });
 
   router.post('/api/auth/forgot-password', async ({ body, ip }) => {
     rateLimit(db, `forgot:${ip}`, 5, 3600);
-    const d = v(body, { email: { type: 'string', required: true, re: EMAIL_RE, msg: 'Email manzil noto’g’ri.' } });
+    const d = v(body, { email: { type: 'string', required: true, re: EMAIL_RE, msg: 'Email manzil notöğri.' } });
     const u = db.prepare('SELECT id, email FROM users WHERE email=?').get(d.email.toLowerCase());
     if (u) {
       const t = issueToken(u.id, 'reset', 1);
-      mailer.send(u.email, 'DrBek: parolni tiklash', `Yangi parol o’rnatish havolasi (1 soat amal qiladi): ${config.publicUrl}/reset-password?token=${t}`);
+      mailer.send(u.email, 'iMedu: parolni tiklaş', `Yangi parol örnatiş havolasi (1 soat amal qiladi): ${config.publicUrl}/reset-password?token=${t}`);
     }
     return { status: 202, body: { ok: true } }; // same answer whether or not the account exists
   });
@@ -146,12 +146,12 @@ export function authRoutes(router, { db, config, mailer }) {
   router.post('/api/auth/reset-password', async ({ body, res }) => {
     const d = v(body, {
       token: { type: 'string', required: true },
-      password: { type: 'string', required: true, min: 8, max: 200, msg: 'Parol kamida 8 belgidan iborat bo’lsin.' },
+      password: { type: 'string', required: true, min: 8, max: 200, msg: 'Parol kamida 8 belgidan iborat bölsin.' },
     });
     let uid;
     try { uid = consumeToken(d.token, 'reset'); } catch (e) {
       if (e.code === 'token_expired') throw e;
-      throw E.invalid({ token: 'Havola yaroqsiz.' }, 'Tiklash havolasi yaroqsiz yoki ishlatilgan.');
+      throw E.invalid({ token: 'Havola yaroqsiz.' }, 'Tiklaş havolasi yaroqsiz yoki işlatilgan.');
     }
     db.prepare('UPDATE users SET password_hash=? WHERE id=?').run(hashPassword(d.password), uid);
     db.prepare('DELETE FROM sessions WHERE user_id=?').run(uid);

@@ -1,0 +1,324 @@
+{
+ "lessonId": "ch50",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 50,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "manual",
+ "translator": "Claude (DrStudy sessiyasi)",
+ "model": null,
+ "createdAt": "2026-11-18T14:07:14.944Z",
+ "updatedAt": "2026-11-18T14:07:14.949Z",
+ "coverage": {
+  "translated": 106,
+  "total": 106
+ },
+ "note": "Kitob matnining töliq özbekça tarjimasi (qisqartirilmagan). Ekspert tekşiruvidan ötmagan.",
+ "blocks": {
+  "ch50-f0": {
+   "text": "Optikaning fizik tamoyillari"
+  },
+  "ch50-f1": {
+   "text": "Közning optik tizimini tuşuniş uçun optikaning asosiy tamoyillari, jumladan yoruğlikning sinişi, fokuslaş va fokus çuqurligi fizikasi kabi omillar bilan taniş böliş kerak. Bu bobda avval şu fizik tamoyillar qisqaça körib çiqiladi, söngra köz optikasi muhokama qilinadi."
+  },
+  "ch50-f2": {
+   "text": "Yoruğlik nurlari havoda taxminan 300 000 km/s tezlikda tarqaladi, ammo tiniq qattiq jismlar va suyuqliklarda ança sekin harakatlanadi. Tiniq moddaning sindiriş körsatkiçi yoruğlikning havodagi tezligining şu moddadagi tezligiga _nisbatidir_. Havoning sindiriş körsatkiçi 1,00. Demak, agar yoruğlik ma’lum turdagi şişada 200 000 km/s tezlikda tarqalsa, bu şişaning sindiriş körsatkiçi 300 000 ni 200 000 ga bölganiga, ya’ni 1,50 ga teng.",
+   "lead": "Tiniq moddaning sindiriş körsatkiçi."
+  },
+  "ch50-f3": {
+   "text": "Dasta bölib oldinga tarqalayotgan yoruğlik nurlari (**Rasm 50-1A** da körsatilganidek) dastaga _perpendikulyar_ çegaraga tuşganda nurlar ikkinçi muhitga yönalişini özgartirmasdan kiradi. Yuz beradigan yagona ta’sir — rasmda tölqin frontlari orasidagi masofalarning qisqarişi bilan körsatilganidek, tarqaliş tezligining kamayişi va tölqin uzunligining qisqarişi.",
+   "lead": "Sindiriş körsatkiçlari turliça bölgan ikki muhit çegarasida yoruğlik nurlarining sinişi."
+  },
+  "ch50-f5": {
+   "text": "Agar yoruğlik nurlari **Rasm 50-1B** da körsatilganidek, qiya çegaradan ötsa va ikki muhitning sindiriş körsatkiçlari bir-biridan farq qilsa, nurlar egiladi. Bu rasmda yoruğlik nurlari sindiriş körsatkiçi 1,00 bölgan havodan çiqib, sindiriş körsatkiçi 1,50 bölgan şişa bölagiga kirmoqda. Dasta qiya çegaraga birinçi tuşganda dastaning pastki çeti şişaga yuqori çetidan oldin kiradi. Dastaning yuqori qismidagi tölqin fronti 300 000 km/s tezlikda harakatlanişda davom etadi, şişaga kirgan qismi esa 200 000 km/s tezlikda harakatlanadi. Bu tezlik farqi tölqin frontining yuqori qismini pastki qismidan oldinga ötib ketişiga sabab böladi, şuning uçun tölqin fronti endi vertikal emas, öngga qiyalangan böladi. _Yoruğlik tarqaliş yönalişi doimo tölqin fronti tekisligiga perpendikulyar bölgani_ uçun yoruğlik dastasining yönalişi pastga egiladi."
+  },
+  "ch50-f6": {
+   "text": "Yoruğlik nurlarining qiya çegarada bunday egilişi _refraksiya (siniş)_ deb ataladi. Ayniqsa e’tibor bering: siniş darajasi quyidagilarga boğliq ravişda ortadi: (1) ikki tiniq muhit sindiriş körsatkiçlarining nisbati; va (2) çegara bilan kirayotgan tölqin fronti orasidagi qiyalik darajasi."
+  },
+  "ch50-f7": {
+   "text": "**Rasm 50-2** da qavariq linzaga kirayotgan parallel yoruğlik nurlari körsatilgan. Linza markazidan ötayotgan yoruğlik nurlari linza yuzasiga aniq perpendikulyar tuşadi va şuning uçun linzadan sinmasdan ötadi. Biroq linzaning har ikki çetiga qarab yoruğlik nurlari tobora qiyaroq çegaraga tuşadi. Taşqi nurlar markazga qarab tobora köproq egiladi, bu nurlarning _konvergensiyasi (yiğilişi)_ deb ataladi. Egilişning yarmi nurlar linzaga kirganda, yarmi esa ular qarama-qarşi tomondan çiqqanda yuz beradi. Agar linzaning egriligi aynan kerakli bölsa, linzaning har bir qismidan ötayotgan parallel yoruğlik nurlari şunçalik aniq egiladiki, barça nurlar _fokus nuqtasi_ deb ataluvçi bitta nuqtadan ötadi.",
+   "lead": "Qavariq linza yoruğlik nurlarini fokuslaydi."
+  },
+  "ch50-f9": {
+   "text": "**Rasm 50-3** da botiq linzaning parallel yoruğlik nurlariga ta’siri körsatilgan. Linza markaziga kirgan nurlar dastaga perpendikulyar çegaraga tuşadi va şuning uçun sinmaydi. Linza çetidagi nurlar linzaga markazdagi nurlardan oldin kiradi. Bu ta’sir qavariq linzadagi ta’sirga qarama-qarşi bölib, periferik yoruğlik nurlarining linza markazidan ötayotgan nurlardan _uzoqlaşişiga (divergensiyasiga)_ sabab böladi. Şunday qilib, botiq linza yoruğlik nurlarini _tarqatadi_, qavariq linza esa yoruğlik nurlarini _yiğadi_.",
+   "lead": "Botiq linza yoruğlik nurlarini tarqatadi."
+  },
+  "ch50-f11": {
+   "text": "**Rasm 50-4** da ham qavariq _sferik_ linza, ham qavariq _silindrik_ linza körsatilgan. E’tibor bering: silindrik linza yoruğlik nurlarini linzaning ikki yon tomonidan egadi, ammo yuqori yoki pastki tomonidan egmaydi — ya’ni egiliş bitta tekislikda yuz beradi, ikkinçisida yuz bermaydi. Şunday qilib, parallel yoruğlik nurlari _fokus çizigiga_ egiladi. Aksinça, sferik linzadan ötayotgan yoruğlik nurlari linzaning barça çetlarida (ikkala tekislikda) markaziy nurga qarab sinadi va barça nurlar _fokus nuqtasiga_ yiğiladi.",
+   "lead": "Silindrik linza yoruğlik nurlarini faqat bitta tekislikda egadi — sferik linzalar bilan taqqoslaş."
+  },
+  "ch50-f13": {
+   "text": "Silindrik linzani suv bilan töldirilgan probirka yordamida yaxşi körsatiş mumkin. Agar probirka quyoş nuri dastasiga qöyilib, probirkaning qarama-qarşi tomoniga qoğoz bölagi asta-sekin yaqinlaştirilsa, yoruğlik nurlari _fokus çizigiga_ yiğiladigan ma’lum masofa topiladi. Sferik linzani oddiy lupa bilan körsatiş mumkin. Agar bunday linza quyoş nuri dastasiga qöyilib, linzaga qoğoz bölagi asta-sekin yaqinlaştirilsa, yoruğlik nurlari tegişli masofada umumiy fokus nuqtasiga tuşadi."
+  },
+  "ch50-f14": {
+   "text": "_Botiq_ silindrik linzalar yoruğlik nurlarini xuddi _qavariq_ silindrik linzalar ularni bitta tekislikda _yiğgani_ kabi faqat bitta tekislikda _tarqatadi_. **Rasm 50-5A** da silindrik linza nuqtaviy manbadan kelgan yoruğlikni çiziqli fokusga qanday fokuslaşi körsatilgan."
+  },
+  "ch50-f16": {
+   "text": "bir-biriga töğri burçak ostida joylaşgan silindrik linzalar. Vertikal silindrik linza linzaning ikki yon tomonidan ötayotgan yoruğlik nurlarini yiğadi, gorizontal linza esa yuqori va pastki nurlarni yiğadi. Şunday qilib, barça yoruğlik nurlari bitta nuqtaviy fokusga yiğiladi. Boşqaça aytganda, _bir-biriga töğri burçak ostida kesişgan ikki silindrik linza xuddi şunday sindiriş kuçiga ega bitta sferik linza bilan bir xil vazifani bajaradi._"
+  },
+  "ch50-f17": {
+   "text": "Qavariq linzadan keyin _parallel_ nurlar umumiy fokus nuqtasiga yiğiladigan masofa linzaning _fokus masofasi_ deb ataladi. **Rasm 50-6** ning yuqori qismidagi sxema parallel yoruğlik nurlarining şunday fokuslanişini körsatadi."
+  },
+  "ch50-f19": {
+   "text": "Örtadagi sxemada qavariq linzaga kirayotgan yoruğlik nurlari parallel emas, balki _tarqaluvçi_, çunki yoruğlik manbai linzadan uzoq bölmagan nuqtaviy manba. Bu nurlar nuqtaviy manbadan taşqariga tarqalayotgani uçun ular linzadan parallel nurlar bilan bir xil masofada fokuslanmaydi. Boşqaça aytganda, allaqaçon tarqalayotgan yoruğlik nurlari qavariq linzaga kirganda linzaning narigi tomonidagi fokus masofasi linzaning parallel nurlar uçun fokus masofasidan uzoqroq böladi."
+  },
+  "ch50-f20": {
+   "text": "**Rasm 50-6** ning pastki sxemasida rasmdagi qolgan ikki linzaga qaraganda ança katta egrilikka ega qavariq linzaga qarab tarqalayotgan yoruğlik nurlari körsatilgan. Bu sxemada yoruğlik nurlari fokuslanadigan linzadan masofa birinçi sxemadagi masofa bilan aynan bir xil — u yerda linza kamroq qavariq, ammo unga kirayotgan nurlar parallel. Bu linza öz qavariqligini özgartirsa, ham parallel, ham tarqaluvçi nurlarni linzadan keyin bir xil masofada fokuslaş mumkinligini körsatadi."
+  },
+  "ch50-f21": {
+   "text": "**Rasm 50-7A** da çap tomonida ikkita nuqtaviy yoruğlik manbai bölgan qavariq linza körsatilgan. Yoruğlik nurlari qavariq linzaning markazidan heç qaysi tomonga sinmasdan ötgani uçun har bir nuqtaviy yoruğlik manbaidan kelgan nurlar linzaning qarama-qarşi tomonida _nuqtaviy manba va linza markazi bilan bir töğri çiziqda_ nuqtaviy fokusga yiğilişi körsatilgan."
+  },
+  "ch50-f23": {
+   "text": "Linza oldidagi har qanday obyekt aslida nuqtaviy yoruğlik manbalarining mozaikasidir. Bu nuqtalarning ayrimlari juda yorqin, ayrimlari juda xira bölib, rangi ham turliça. Obyektdagi har bir nuqtaviy yoruğlik manbai linzaning qarama-qarşi tomonida linza markazi bilan bir çiziqda alohida nuqtaviy fokusga yiğiladi. Agar linzadan fokus masofasida oq qoğoz varaği qöyilsa, **Rasm 50-7B** da körsatilganidek, obyektning tasvirini köriş mumkin. Biroq bu tasvir asl obyektga nisbatan teskari böladi va tasvirning ikki yon tomoni almaşgan böladi. Fotoapparat linzasi tasvirlarni plyonkaga aynan şu usulda fokuslaydi."
+  },
+  "ch50-f24": {
+   "text": "Linza yoruğlik nurlarini qança köp egsa, uning “sindiriş kuçi” şunça katta böladi. Bu sindiriş kuçi _dioptriyalarda_ ölçanadi. Qavariq linzaning dioptriyalardagi sindiriş kuçi 1 metrni uning fokus masofasiga bölganga teng. Şunday qilib, **Rasm 50-8** da körsatilganidek, parallel yoruğlik nurlarini linzadan 1 metr narida fokus nuqtasiga yiğadigan sferik linzaning sindiriş kuçi +1 dioptriya. Agar linza parallel yoruğlik nurlarini +1 dioptriyali linzadan ikki baravar köp egsa, uning kuçi +2 dioptriya deyiladi va yoruğlik nurlari linzadan 0,5 metr narida fokus nuqtasiga yiğiladi. Parallel yoruğlik nurlarini linzadan atigi 10 santimetr (0,10 metr) narida fokus nuqtasiga yiğa oladigan linzaning sindiriş kuçi +10 dioptriya."
+  },
+  "ch50-f26": {
+   "text": "Botiq linzalarning sindiriş kuçini linzadan keyingi fokus masofasi orqali ifodalab bölmaydi, çunki yoruğlik nurlari nuqtaga fokuslanmaydi, balki tarqaladi. Biroq agar botiq linza yoruğlik nurlarini 1 dioptriyali qavariq linza ularni yiğadigan darajada tarqatsa, botiq linzaning dioptrik kuçi −1 deyiladi. Xuddi şunday, agar botiq linza yoruğlik nurlarini +10 dioptriyali linza ularni yiğadigan darajada tarqatsa, bu linzaning kuçi −10 dioptriya deyiladi."
+  },
+  "ch50-f27": {
+   "text": "Botiq linzalar qavariq linzalarning sindiriş kuçini “neytrallaydi”. Şunday qilib, 1 dioptriyali botiq linzani 1 dioptriyali qavariq linzaning bevosita oldiga qöyiş sindiriş kuçi nolga teng linzalar tizimini hosil qiladi."
+  },
+  "ch50-f28": {
+   "text": "Silindrik linzalarning kuçi sferik linzalarniki kabi hisoblanadi, faqat silindrik linzaning kuçidan taşqari uning _öqi_ ham körsatilişi kerak. Agar silindrik linza parallel yoruğlik nurlarini linzadan 1 metr narida çiziqli fokusga yiğsa, uning kuçi +1 dioptriya. Aksinça, agar botiq turdagi silindrik linza yoruğlik nurlarini +1 dioptriyali silindrik linza ularni _yiğgan_ darajada _tarqatsa_, uning kuçi −1 dioptriya. Agar fokuslangan çiziq gorizontal bölsa, uning öqi 0 gradus, vertikal bölsa 90 gradus deyiladi."
+  },
+  "ch50-f29": {
+   "text": "Köz optikasi"
+  },
+  "ch50-f30": {
+   "text": "Közning linzalar tizimi (**Rasm 50-9**) törtta sindiruvçi çegaradan iborat: (1) havo va şox pardaning oldingi yuzasi orasidagi çegara; (2) şox pardaning orqa yuzasi va suvsimon suyuqlik orasidagi çegara; (3) suvsimon suyuqlik va köz gavharining oldingi yuzasi orasidagi çegara; va (4) gavharning orqa yuzasi va şişasimon tana orasidagi çegara. Sindiriş körsatkiçi havoda 1, şox pardada 1,38, suvsimon suyuqlikda 1,33, köz gavharida (örtaça) 1,40 va şişasimon tanada 1,34."
+  },
+  "ch50-f32": {
+   "text": "Agar közning barça sindiruvçi yuzalari algebraik qöşilib, bitta yagona linza deb hisoblansa, soğlom köz optikasini soddalaştirib, sxematik ravişda “reduksiyalangan köz” sifatida ifodalaş mumkin. Bu tasvir oddiy hisob-kitoblarda foydali. Reduksiyalangan közda markaziy nuqtasi tör pardadan 17 millimetr oldinda joylaşgan va gavhar uzoqni köriş uçun akkomodatsiyalanganda umumiy sindiriş kuçi 59 dioptriya bölgan bitta sindiruvçi yuza mavjud deb hisoblanadi.",
+   "lead": "Közning barça sindiruvçi yuzalarini bitta linza sifatida körib çiqiş — “reduksiyalangan” köz."
+  },
+  "ch50-f33": {
+   "text": "Közning 59 dioptriyalik sindiriş kuçining taxminan uçdan ikki qismini şox pardaning oldingi yuzasi ta’minlaydi (köz gavhari _emas_). Bu hodisaning asosiy sababi şuki, şox pardaning sindiriş körsatkiçi havonikidan keskin farq qiladi, köz gavharining sindiriş körsatkiçi esa suvsimon suyuqlik va şişasimon tananing körsatkiçlaridan unçalik farq qilmaydi."
+  },
+  "ch50-f34": {
+   "text": "Közda har ikki tomondan suyuqlik bilan örab turgan holatda köz içidagi gavharning umumiy sindiriş kuçi atigi 20 dioptriya, ya’ni közning umumiy sindiriş kuçining taxminan uçdan biri. Biroq içki gavharning ahamiyati şundaki, miyadan keladigan nerv signallariga javoban _uning egriligi_ keskin _ortişi_ va bobning keyingi qismida muhokama qilinadigan “akkomodatsiyani” ta’minlaşi mumkin."
+  },
+  "ch50-f35": {
+   "text": "Şişa linza tasvirni qoğoz varağiga fokuslay olgani kabi közning linzalar tizimi ham tasvirni tör pardaga fokuslay oladi.",
+   "lead": "Tör pardada tasvirning hosil bölişi."
+  },
+  "ch50-f36": {
+   "text": "Tasvir obyektga nisbatan teskari va yon tomonlari almaşgan böladi. Biroq tör pardadagi teskari joylaşuvga qaramay, ong obyektlarni tik holatda idrok etadi, çunki miya teskari tasvirni me’yoriy deb hisoblaşga örgatilgan."
+  },
+  "ch50-f37": {
+   "text": "“Akkomodatsiya” mexanizmi"
+  },
+  "ch50-f38": {
+   "text": "Bolalarda köz gavharining sindiriş kuçini ixtiyoriy ravişda 20 dioptriyadan taxminan 34 dioptriyagaça oşiriş mumkin, bu 14 dioptriyalik “akkomodatsiya”dir. Bu akkomodatsiyani amalga oşiriş uçun gavharning şakli örtaça qavariq linza şaklidan juda qavariq linza şakliga özgaradi."
+  },
+  "ch50-f39": {
+   "text": "Yoş odamda gavhar qovuşqoq, oqsilga boy, ammo tiniq suyuqlik bilan töldirilgan mustahkam elastik kapsuladan iborat. Gavhar böşaşgan holatda, kapsulasiga heç qanday taranglik ta’sir qilmaganda, asosan gavhar kapsulasining elastik qisqarişi tufayli deyarli sferik şaklga kiradi. Biroq **Rasm 50-10** da körsatilganidek, gavhar atrofiga radial ravişda taxminan 70 ta _osuvçi boylam_ birikib, gavhar çetlarini köz olmasining taşqi aylanasiga qarab tortadi. Bu boylamlar tomir parda va tör pardaning oldingi çetiga birikkanligi tufayli doimo taranglaşgan böladi. Boylamlardagi taranglik közning odatdagi holatida gavharning nisbatan yassi bölib turişiga sabab böladi."
+  },
+  "ch50-f41": {
+   "text": "Gavhar boylamlarining köz olmasiga lateral birikiş joylarida, şuningdek, ikki alohida silliq muşak tolalari töplamiga — _meridional tolalar_ va _aylana tolalarga_ ega _kiprikli muşak_ ham joylaşgan. Meridional tolalar osuvçi boylamlarning periferik uçlaridan şox parda-sklera birikmasigaça boradi. Bu muşak tolalari qisqarganda gavhar boylamlarining _periferik birikiş joylari_ medial tomonga, şox parda çetlariga qarab tortiladi va şu bilan boylamlarning gavharga körsatadigan tarangligi böşaşadi. Aylana tolalar boylamlar birikiş joylari atrofida butun aylana böylab joylaşgan, şuning uçun ular qisqarganda sfinktersimon ta’sir yuzaga keladi va boylamlar birikiş aylanasining diametri kiçrayadi. Bu ta’sir ham boylamlarning gavhar kapsulasini kamroq tortişiga imkon beradi."
+  },
+  "ch50-f42": {
+   "text": "Şunday qilib, kiprikli muşakdagi silliq muşak tolalarining istalgan töplami qisqarişi gavhar kapsulasiga boradigan boylamlarni böşaştiradi va gavhar kapsulasining tabiiy elastikligi tufayli şarsimon (puflakka öxşaş) şaklga yaqinlaşadi."
+  },
+  "ch50-f43": {
+   "text": "52-bobda tuşuntirilganidek, kiprikli muşak deyarli butunlay miya stvolidagi uçinçi nerv yadrosidan uçinçi boş miya nervi orqali közga uzatiladigan parasimpatik nerv signallari bilan boşqariladi. Parasimpatik nervlarning qözğalişi kiprikli muşak tolalarining ikkala töplamini qisqartiradi, bu gavhar boylamlarini böşaştiradi va gavharning qalinlaşib, sindiriş kuçini oşirişiga imkon beradi. Sindiriş kuçi ortganda köz sindiriş kuçi kamroq bölgandagiga qaraganda yaqinroqdagi obyektlarga fokuslanadi. Şuning uçun uzoqdagi obyekt közga yaqinlaşgani sari közning obyektni doimo fokusda uşlab turişi uçun kiprikli muşakka keladigan parasimpatik impulslar soni borgan sari ortişi kerak. Simpatik qözğaliş kiprikli muşakni böşaştirişda qöşimça ta’sir körsatadi, ammo bu ta’sir şunçalik kuçsizki, me’yoriy akkomodatsiya mexanizmida deyarli rol öynamaydi. Bu mexanizmning neyrofiziologiyasi 52-bobda muhokama qilinadi.",
+   "lead": "Akkomodatsiyani parasimpatik nervlar boşqaradi."
+  },
+  "ch50-f44": {
+   "text": "Odam qarigani sari gavhar kattalaşadi, qalinlaşadi va qisman gavhar oqsillarining asta-sekin denaturatsiyalanişi tufayli ança kam elastik bölib qoladi. Gavharning şaklini özgartiriş qobiliyati yoş bilan kamayadi. Akkomodatsiya kuçi bolalardagi taxminan 14 dioptriyadan 45–50 yoşga kelib 2 dioptriyadan kamgaça va 70 yoşda amalda 0 dioptriyagaça kamayadi. Şundan keyin gavhar deyarli butunlay akkomodatsiyalanmaydigan bölib qoladi. Bu holat _presbiopiya_ deb ataladi.",
+   "lead": "Presbiopiya — gavharning akkomodatsiya qobiliyatini yöqotişi."
+  },
+  "ch50-f45": {
+   "text": "Odam presbiopiya holatiga yetgaçdan keyin har bir köz deyarli doimiy masofaga doimiy fokuslangan bölib qoladi. Bu masofa har bir odam közlarining fizik xususiyatlariga boğliq. Közlar endi ham yaqinni, ham uzoqni köriş uçun akkomodatsiyalana olmaydi. Uzoqni ham, yaqinni ham aniq köriş uçun keksa odam yuqori qismi uzoqni köriş uçun, pastki qismi esa yaqinni köriş (masalan, öqiş) uçun fokuslangan bifokal közoynak taqişi kerak."
+  },
+  "ch50-f46": {
+   "text": "Rangdor pardaning asosiy vazifasi qoronğida közga kiradigan yoruğlik miqdorini oşiriş va kunduzi közga kiradigan yoruğlik miqdorini kamaytirişdir. Bu mexanizmni boşqaradigan reflekslar 52-bobda körib çiqiladi."
+  },
+  "ch50-f47": {
+   "text": "Qoraçiq orqali közga kiradigan yoruğlik miqdori qoraçiqning _maydoniga_ yoki qoraçiq _diametrining kvadratiga_ mutanosib. Inson közining qoraçiği diametri taxminan 1,5 millimetrgaça kiçrayişi va 8 millimetrgaça kattalaşişi mumkin. Qoraçiq teşigining özgarişi natijasida közga kiradigan yoruğlik miqdori taxminan 30 baravar özgarişi mumkin."
+  },
+  "ch50-f48": {
+   "text": "**Rasm 50-11** da qoraçiq teşiklarining diametridan taşqari aynan bir xil bölgan ikki köz körsatilgan. Yuqoridagi közda qoraçiq teşigi kiçik, pastki közda esa katta. Bu ikki közning har birining oldida ikkita kiçik nuqtaviy yoruğlik manbai bor. Ularning har biridan kelgan yoruğlik qoraçiq teşigidan ötib, tör pardaga fokuslanadi. Natijada ikkala közda ham tör parda ikki yoruğlik nuqtasini aniq fokusda köradi. Agar tör parda fokusdan taşqari holatga (uzuq çiziqlar) oldinga yoki orqaga siljitilsa, yuqoridagi közda har bir nuqtaning ölçami unçalik özgarmaydi, pastki közda esa har bir nuqtaning ölçami keskin kattalaşib, “xiralik doirasiga” aylanadi. Boşqaça aytganda, yuqoridagi linzalar tizimining _fokus çuqurligi_ pastkisinikidan ança katta. Linzalar tizimining fokus çuqurligi katta bölganda tör parda fokus tekisligidan ança siljişi yoki linza kuçi me’yordan ança özgarişi mumkin va tasvir baribir deyarli aniq fokusda qoladi. Linzalar tizimining fokus çuqurligi “sayoz” bölganda esa tör pardani fokus tekisligidan ozgina siljitiş ham kuçli xiralaşişga sabab böladi.",
+   "lead": "Qoraçiq diametri kiçraygani sari linzalar tizimining “fokus çuqurligi” ortadi."
+  },
+  "ch50-f50": {
+   "text": "Eng katta fokus çuqurligi qoraçiq juda kiçik bölganda yuzaga keladi. Buning sababi şuki, juda kiçik teşikda deyarli barça nurlar linza markazidan ötadi, yuqorida tuşuntirilganidek, eng markaziy nurlar esa doimo fokusda böladi."
+  },
+  "ch50-f51": {
+   "text": "Qarang: Video 50-1."
+  },
+  "ch50-f52": {
+   "text": "**Rasm 50-12** da körsatilganidek, agar _kiprikli muşak butunlay böşaşgan holatda uzoqdagi obyektlardan_ kelayotgan parallel yoruğlik nurlari tör pardada aniq fokuslansa, köz me’yoriy yoki _emmetrop_ hisoblanadi. Bu emmetrop köz kiprikli muşagi böşaşgan holda barça uzoqdagi obyektlarni aniq köra olişini bildiradi. Biroq yaqin masofadagi obyektlarni fokuslaş uçun köz kiprikli muşagini qisqartirib, tegişli darajadagi akkomodatsiyani ta’minlaşi kerak.",
+   "lead": "Emmetropiya (me’yoriy köriş)."
+  },
+  "ch50-f54": {
+   "text": "“Uzoqni köriş” deb ham ataladigan gipermetropiya odatda köz olmasining juda qisqa bölişi yoki ba’zan linzalar tizimining juda kuçsiz bölişi bilan boğliq. Bu holatda **Rasm 50-12** ning örta qismida körsatilganidek, parallel yoruğlik nurlari böşaşgan linzalar tizimida tör pardaga yetgunça fokuslaniş uçun yetarli darajada egilmaydi. Bu nuqsonni yengiş uçun kiprikli muşak gavhar kuçini oşiriş maqsadida qisqarişi kerak. Akkomodatsiya mexanizmidan foydalanib, uzoqni köruvçi odam uzoqdagi obyektlarni tör pardaga fokuslay oladi. Agar odam uzoqdagi obyektlar uçun akkomodatsiyaga kiprikli muşak kuçining faqat ozgina qismini sarflagan bölsa, unda hali köp akkomodatsiya kuçi qoladi va kiprikli muşak öz çegarasigaça qisqargunça közga tobora yaqinroq obyektlarni ham aniq fokuslaş mumkin. Keksalikda, gavhar “presbiopik” bölib qolganda, uzoqni köruvçi odam köpinça hatto uzoqdagi obyektlarga ham, yaqindagi obyektlarga esa undan ham ziyoda, fokuslaş uçun gavharni yetarli darajada akkomodatsiyalay olmaydi.",
+   "lead": "Gipermetropiya (uzoqni köriş)."
+  },
+  "ch50-f55": {
+   "text": "Miopiyada, ya’ni “yaqinni körişda”, kiprikli muşak butunlay böşaşgan holatda uzoqdagi obyektlardan kelayotgan yoruğlik nurlari **Rasm 50-12** ning pastki qismida körsatilganidek, tör pardaning oldida fokuslanadi. Bu holat odatda köz olmasining juda uzunligi bilan boğliq, ammo közning linzalar tizimidagi sindiriş kuçining haddan taşqari kattaligi natijasida ham yuzaga kelişi mumkin.",
+   "lead": "Miopiya (yaqinni köriş)."
+  },
+  "ch50-f56": {
+   "text": "Közning gavhar kuçini kiprikli muşak butunlay böşaşgan holatdagidan kamroqqaça kamaytiradigan heç qanday mexanizmi yöq. Miop odamda uzoqdagi obyektlarni tör pardaga aniq fokuslaydigan mexanizm yöq. Biroq obyekt odamning közga yaqinlaşgani sari oxir-oqibat uning tasviri fokuslanadigan darajada yaqin keladi. Söngra obyekt közga yana yaqinlaşganda odam tasvirni aniq fokusda saqlaş uçun akkomodatsiya mexanizmidan foydalana oladi. Miop odamda aniq köriş uçun aniq çegaraviy “uzoq nuqta” bor."
+  },
+  "ch50-f57": {
+   "text": "Agar közning sindiruvçi yuzalari _miopiyadagi_ kabi haddan taşqari köp sindiriş kuçiga ega bölsa, bu ortiqça sindiriş kuçini közning oldiga nurlarni tarqatadigan botiq sferik linza qöyiş orqali neytrallaş mumkin. Bunday tuzatiş **Rasm 50-13** ning yuqori sxemasida körsatilgan.",
+   "lead": "Miopiya va gipermetropiyani linzalar yordamida tuzatiş."
+  },
+  "ch50-f59": {
+   "text": "Aksinça, _gipermetropiyasi_ bor, ya’ni linzalar tizimi juda kuçsiz odamda közning oldiga qavariq linza qöyib sindiriş kuçini qöşiş orqali nuqsonli körişni tuzatiş mumkin. Bu tuzatiş **Rasm 50-13** ning pastki sxemasida körsatilgan."
+  },
+  "ch50-f60": {
+   "text": "Aniq köriş uçun zarur bölgan botiq yoki qavariq linzaning kuçi odatda “sinov va xato” yöli bilan, ya’ni avval kuçli linzani, söngra kuçliroq yoki kuçsizroq linzani sinab, eng yaxşi köriş ötkirligini beradigan linza topilgunça aniqlanadi."
+  },
+  "ch50-f61": {
+   "text": "Astigmatizm közning sindiriş nuqsoni bölib, unda bir tekislikdagi köriş tasviri unga töğri burçak ostidagi tekislikdagidan boşqa masofada fokuslanadi. Astigmatizm odatda şox pardaning közning bir tekisligida haddan taşqari egriligi natijasida yuzaga keladi. Astigmatik linzaga misol qilib kiruvçi yoruğlikka yonboşlab yotgan tuxum yuzasiga öxşaş linza yuzasini keltiriş mumkin. Tuxumning uzun öqi orqali ötadigan tekislikdagi egrilik darajasi qisqa öqi orqali ötadigan tekislikdagi egrilik darajasidan ança kiçik.",
+   "lead": "Astigmatizm."
+  },
+  "ch50-f62": {
+   "text": "Astigmatik linzaning bir tekislik böylab egriligi ikkinçi tekislik böylab egriligidan kamroq bölgani uçun bir tekislikda linzaning periferik qismlariga tuşadigan yoruğlik nurlari ikkinçi tekislikning periferik qismlariga tuşadigan nurlarga qaraganda ança kam egiladi. Bu ta’sir **Rasm 50-14** da körsatilgan. Unda nuqtaviy manbadan çiqib, çözinçoq astigmatik linzadan ötayotgan yoruğlik nurlari tasvirlangan. BD tekisligi bilan belgilangan vertikal tekislikdagi yoruğlik nurlari astigmatik linzada kuçli sinadi, çunki vertikal yönalişdagi egrilik gorizontal yönalişdagidan katta. Aksinça, AC tekisligi bilan belgilangan gorizontal tekislikdagi yoruğlik nurlari vertikal BD tekisligidagi nurlarga qaraganda ança kam egiladi. Şuning uçun astigmatik linzadan ötayotgan yoruğlik nurlarining hammasi umumiy fokus nuqtasiga yiğilmaydi, çunki bir tekislikdan ötayotgan nurlar ikkinçi tekislikdan ötayotganlardan ança oldinda fokuslanadi."
+  },
+  "ch50-f64": {
+   "text": "Közning akkomodatsiya qobiliyati astigmatizmni heç qaçon qoplay olmaydi, çunki akkomodatsiya vaqtida köz gavharining egriligi ikkala tekislikda taxminan teng özgaradi. Şuning uçun astigmatizmda ikki tekislikning har biri turli darajadagi akkomodatsiyani talab qiladi. Demak, közoynak yordamisiz astigmatizmi bor odam heç qaçon aniq fokusda körmaydi."
+  },
+  "ch50-f65": {
+   "text": "Astigmatik közni turli kuçdagi va bir-biriga töğri burçak ostida joylaşgan ikki silindrik linzadan iborat linzalar tizimiga ega köz deb hisoblaş mumkin. Astigmatizmni tuzatiş uçun odatda sinov va xato yöli bilan astigmatik linzaning ikki tekisligidan birida fokusni tuzatadigan sferik linza topiladi. Söngra qolgan tekislikdagi qolgan xatoni tuzatiş uçun qöşimça silindrik linza işlatiladi. Buning uçun zarur silindrik linzaning ham _öqi_, ham _kuçi_ aniqlanişi kerak.",
+   "lead": "Astigmatizmni silindrik linza bilan tuzatiş."
+  },
+  "ch50-f66": {
+   "text": "Köz linzalar tizimining nuqsonli silindrik komponenti öqini aniqlaşning bir neça usuli bor. Ulardan biri **Rasm 50-15** da körsatilgan turdagi parallel qora çiziqlardan foydalanişga asoslangan. Bu parallel çiziqlarning ayrimlari vertikal, ayrimlari gorizontal, ayrimlari esa vertikal va gorizontal öqlarga nisbatan turli burçaklarda joylaşgan. Astigmatik közning oldiga turli sferik linzalar qöyilgandan keyin odatda bir guruh parallel çiziqlarni aniq fokuslaydigan, ammo aniq çiziqlarga töğri burçak ostidagi çiziqlar guruhining xiraligini tuzatmaydigan linza kuçi topiladi. Bobning avvalgi qismida muhokama qilingan optikaning fizik tamoyillaridan optik tizimning _fokusdan taşqari_ silindrik komponentining _öqi_ xira çiziqlarga parallel ekanini körsatiş mumkin. Bu öq topilgaçdan keyin tekşiruvçi öqlari fokusdan taşqari çiziqlar bilan bir çiziqqa qöyilgan tobora kuçliroq va kuçsizroq musbat yoki manfiy _silindrik_ linzalarni bemor barça kesişgan çiziqlarni bir xil aniqlikda körgunça sinab köradi. Bu maqsadga erişilgaçdan keyin tekşiruvçi optikka sferik tuzatiş va tegişli öqdagi silindrik tuzatişni birlaştiradigan maxsus linza tayyorlaşni buyuradi."
+  },
+  "ch50-f68": {
+   "text": "Şox pardaning oldingi yuzasiga ziç yopişadigan şişa yoki plastik kontakt linzalarni qöyiş mumkin. Bu linzalar kontakt linza va közning oldingi yuzasi orasidagi oraliqni töldiradigan yupqa köz yoşi qatlami bilan joyida uşlab turiladi.",
+   "lead": "Optik nuqsonlarni kontakt linzalar bilan tuzatiş."
+  },
+  "ch50-f69": {
+   "text": "Kontakt linzaning öziga xos xususiyati şundaki, u me’yorda şox pardaning oldingi yuzasida yuz beradigan sinişni deyarli butunlay yöqqa çiqaradi. Buning sababi şuki, kontakt linza va şox parda orasidagi köz yoşining sindiriş körsatkiçi şox pardanikiga deyarli teng, şuning uçun şox pardaning oldingi yuzasi endi közning optik tizimida sezilarli rol öynamaydi. Buning örniga kontakt linzaning taşqi yuzasi asosiy rolni öynaydi. Şunday qilib, kontakt linzaning bu yuzasidagi siniş şox pardaning odatdagi sinişi örnini bosadi. Bu omil ayniqsa közining sindiriş nuqsonlari şox pardaning ğayritabiiy şakli bilan boğliq odamlarda, masalan, şox pardasi ğalati şaklda börtib çiqqan — _keratokonus_ deb ataluvçi holat bor odamlarda muhim. Kontakt linzasiz börtgan şox parda körişni şunçalik oğir buzadiki, deyarli heç qanday közoynak körişni qoniqarli tuzata olmaydi. Kontakt linza işlatilganda esa şox pardaning sinişi neytrallanadi va uning örnini kontakt linza taşqi yuzasining me’yoriy sinişi egallaydi."
+  },
+  "ch50-f70": {
+   "text": "Kontakt linzaning yana bir qator afzalliklari bor, jumladan: (1) linza köz bilan birga buriladi va közoynakka qaraganda kengroq aniq köriş maydonini beradi; va (2) kontakt linza odam linza orqali köradigan obyektning ölçamiga kam ta’sir qiladi, közdan taxminan 1 santimetr oldinda joylaşgan linzalar esa fokusni tuzatişdan taşqari tasvir ölçamiga ham ta’sir qiladi."
+  },
+  "ch50-f71": {
+   "text": "“Katarakta” asosan keksa odamlarda uçraydigan ayniqsa keng tarqalgan köz nuqsonidir. Katarakta gavhardagi xira yoki noşaffof soha (yoki sohalar). Katarakta hosil bölişining dastlabki bosqiçida gavharning ayrim tolalaridagi oqsillar denaturatsiyalanadi. Keyinroq xuddi şu oqsillar koagulyatsiyalanib, me’yoriy tiniq oqsil tolalari örnida noşaffof sohalar hosil qiladi.",
+   "lead": "Katarakta — gavhardagi xiralaşgan sohalar."
+  },
+  "ch50-f72": {
+   "text": "Katarakta yoruğlik ötişini şunçalik töşib qöysaki, körişni jiddiy buzsa, bu holatni gavharni jarrohlik yöli bilan olib taşlaş orqali tuzatiş mumkin. Gavhar olib taşlanganda köz sindiriş kuçining katta qismini yöqotadi. Uni közning oldiga kuçli qavariq linza qöyiş bilan almaştiriş kerak, ammo odatda olib taşlangan gavhar örniga közga sun’iy plastik linza implantatsiya qilinadi."
+  },
+  "ch50-f73": {
+   "text": "Nazariy jihatdan uzoqdagi nuqtaviy manbadan kelgan yoruğlik tör pardaga fokuslanganda çeksiz kiçik bölişi kerak. Biroq közning linzalar tizimi heç qaçon mukammal bölmagani uçun me’yoriy köz optik tizimining maksimal ajrata oliş qobiliyatida ham bunday tör parda nuqtasining umumiy diametri odatda taxminan 11 mikrometr böladi. **Rasm 50-16** dagi ikki nuqtali tasvirlarda körsatilganidek, nuqta markazida eng yorqin bölib, çetlariga qarab asta-sekin xiralaşadi."
+  },
+  "ch50-f75": {
+   "text": "Tör pardaning köriş eng yuqori rivojlangan markaziy qismi — _markaziy çuqurçadagi_ (fovea) kolbaçalarning örtaça diametri taxminan 1,5 mikrometr bölib, bu yoruğlik nuqtasi diametrining yettidan biriga teng. Şunga qaramay, yoruğlik nuqtasining markazi yorqin, çetlari xira bölgani uçun odam me’yorda tör pardada markazlari bir-biridan 2 mikrometrgaça uzoqlikda joylaşgan ikki alohida nuqtani farqlay oladi. Bu fovea kolbaçasining kengligidan biroz katta. Nuqtalarni bunday farqlaş ham **Rasm 50-16** da körsatilgan."
+  },
+  "ch50-f76": {
+   "text": "Inson közining nuqtaviy yoruğlik manbalarini farqlaşdagi me’yoriy köriş ötkirligi taxminan 25 yoy sekundi. Ya’ni ikki alohida nuqtadan kelgan yoruğlik nurlari közga ular orasida kamida 25 sekundlik burçak bilan tuşganda ular odatda bitta emas, ikki nuqta sifatida taniladi. Bu me’yoriy köriş ötkirligiga ega odam 10 metr uzoqlikdagi ikki yorqin nuqtaviy yoruğlikka qaraganda ular bir-biridan 1,5–2 millimetr uzoqlikda bölsa, ularni alohida obyektlar sifatida zörğa farqlay olişini bildiradi."
+  },
+  "ch50-f77": {
+   "text": "Fovea diametri 0,5 millimetrdan (<500 mikrometr) kam, bu maksimal köriş ötkirligi köriş maydonining 2 gradusdan kam qismida bölişini bildiradi. Bu fovea sohasidan taşqarida köriş ötkirligi borgan sari yomonlaşadi va periferiyaga yaqinlaşganda 10 baravardan ortiq kamayadi. Buning sababi, 52-bobda muhokama qilinganidek, tör pardaning fovea bölmagan, periferikroq qismlarida har bir köruv nervi tolasiga tobora köproq tayoqça va kolbaçalarning ulanişidir."
+  },
+  "ch50-f78": {
+   "text": "Közni tekşiriş jadvali odatda tekşirilayotgan odamdan 20 fut uzoqlikka qöyilgan turli ölçamdagi harflardan iborat. Agar odam 20 futdan körişi kerak bölgan ölçamdagi harflarni yaxşi körsa, unda 20/20 köriş, ya’ni me’yoriy köriş bor deyiladi. Agar odam faqat 200 futdan körişi kerak bölgan harflarni köra olsa, unda 20/200 köriş bor deyiladi. Boşqaça aytganda, köriş ötkirligini ifodalaşning klinik usuli ikki masofa nisbatini ifodalaydigan matematik kasrdan foydalanişdir. Bu, şuningdek, odamning köriş ötkirligining me’yoriy köriş ötkirligiga ega odamnikiga nisbatidir.",
+   "lead": "Köriş ötkirligini ifodalaşning klinik usuli."
+  },
+  "ch50-f79": {
+   "text": "Obyektning közdan uzoqligini aniqlaş — “çuqurlikni idrok etiş”"
+  },
+  "ch50-f80": {
+   "text": "Odam me’yorda masofani uçta asosiy yöl bilan idrok etadi: (1) tör pardadagi ma’lum obyektlar tasvirlarining ölçami; (2) harakatdagi parallaks hodisasi; va (3) stereopsis hodisasi. Masofani aniqlaşning bu qobiliyati _çuqurlikni idrok etiş_ deb ataladi."
+  },
+  "ch50-f81": {
+   "text": "Agar qaralayotgan odamning böyi 6 fut ekanligi ma’lum bölsa, uning qança uzoqda ekanini şunçaki uning tör pardadagi tasvirining ölçamiga qarab aniqlaş mumkin. Odam ölçam haqida ongli ravişda öylamaydi, ammo miya ölçamlari ma’lum bölganda obyektlar masofasini tasvir ölçamlaridan avtomatik hisoblaşni örganib olgan.",
+   "lead": "Masofani ma’lum obyektlarning tör pardadagi tasvir ölçamlari orqali aniqlaş."
+  },
+  "ch50-f82": {
+   "text": "Közlarning masofani aniqlaşining yana bir muhim yöli — _harakatdagi parallaks_, ya’ni ikki xil köriş çizigi böylab qaralayotgan obyektning körinma holatining siljişi. Agar odam közlarini butunlay qimirlatmasdan uzoqqa qarasa, u heç qanday harakatdagi parallaksni sezmaydi. Biroq odam boşini u yoki bu tomonga harakatlantirsa, yaqindagi obyektlarning tasvirlari tör pardalar böylab tez harakatlanadi, uzoqdagi obyektlarning tasvirlari esa deyarli butunlay qimirlamay qoladi. Masalan, obyekt közdan atigi 1 dyuym oldinda bölganda boşni yon tomonga 1 dyuym harakatlantiriş tasvirni tör pardalar böylab deyarli butunlay ötkazadi, közdan 200 fut uzoqlikdagi obyektning tasviri esa sezilarli harakatlanmaydi. Şunday qilib, harakatdagi parallaksning bu mexanizmidan foydalanib, hatto faqat bitta közdan foydalanganda ham turli obyektlarning _nisbiy masofalarini_ aniqlaş mumkin.",
+   "lead": "Masofani harakatdagi parallaks orqali aniqlaş."
+  },
+  "ch50-f83": {
+   "text": "Parallaksni idrok etişning yana bir usuli — _binokulyar köriş_. Bir köz ikkinçisidan 2 dyuymdan biroz köproq yonda joylaşgani uçun ikki tör pardadagi tasvirlar bir-biridan farq qiladi. Masalan, burundan 1 dyuym oldindagi obyekt çap köz tör pardasining çap tomonida, öng köz tör pardasining esa öng tomonida tasvir hosil qiladi, burundan 20 fut oldindagi kiçik obyektning tasviri esa ikki tör parda markazlaridagi bir-biriga yaqin mos keladigan nuqtalarda böladi. Parallaksning bu turi",
+   "lead": "Masofani stereopsis orqali aniqlaş — binokulyar köriş."
+  },
+  "ch50-f84": {
+   "text": "**Rasm 50-17** da körsatilgan: közlardan turli masofada bölgani uçun qizil nuqta va sariq kvadratning tasvirlari ikki tör pardada haqiqatan ham teskari joylaşgan. Bu ikkala köz işlatilganda doimo mavjud bölgan parallaks turini beradi. Ikki közli odamga bitta közli odamga qaraganda _obyektlar yaqin bölganda_ nisbiy masofalarni baholaşda ança katta qobiliyat beradigan narsa deyarli butunlay şu binokulyar parallaks (yoki _stereopsis_). Biroq 50–200 futdan uzoq masofalarda stereopsis çuqurlikni idrok etiş uçun amalda foydasiz."
+  },
+  "ch50-f86": {
+   "text": "Közning suyuqlik tizimi — köz içi suyuqligi"
+  },
+  "ch50-f87": {
+   "text": "Köz _köz içi suyuqligi_ bilan tölgan. U köz olmasida uni tarang holda saqlaş uçun yetarli bosimni ta’minlaydi. **Rasm 50-18** bu suyuqlikni ikki qismga ajratiş mumkinligini körsatadi: gavharning oldida joylaşgan _suvsimon suyuqlik_ va gavharning orqa yuzasi bilan tör parda orasidagi _şişasimon tana_. Suvsimon suyuqlik erkin oqadigan suyuqlik, ba’zan _şişasimon jism_ deb ataladigan şişasimon tana esa asosan juda çözinçoq proteoglikan molekulalaridan iborat nozik fibrillyar tör bilan bir-biriga boğlangan jelatinsimon massadir. Şişasimon tanada suv ham, erigan moddalar ham sekin _diffuziyalana_ oladi, ammo suyuqlik _oqimi_ juda kam."
+  },
+  "ch50-f89": {
+   "text": "Suvsimon suyuqlik uzluksiz hosil bölib, qayta sörilib turadi. Suvsimon suyuqlikning hosil bölişi va qayta sörilişi orasidagi muvozanat köz içi suyuqligining umumiy hajmi va bosimini boşqaradi."
+  },
+  "ch50-f90": {
+   "text": "Kiprikli tana tomonidan suvsimon suyuqlikning hosil bölişi"
+  },
+  "ch50-f91": {
+   "text": "Suvsimon suyuqlik közda _daqiqasiga örtaça 2–3 μL tezlikda_ hosil böladi. Uning deyarli hammasini _kiprikli ösimtalar_ ajratadi. Ular _kiprikli tanadan_ rangdor parda orqasidagi, gavhar boylamlari va kiprikli muşak köz olmasiga birikadigan oraliqqa börtib çiqqan çiziqli burmalardir. Bu kiprikli ösimtalarning köndalang kesimi **Rasm 50-19** da, ularning közning suyuqlik kameralariga munosabati esa **Rasm 50-18** da körsatilgan. Burmalangan tuzilişi tufayli har bir közda kiprikli ösimtalarning umumiy yuzasi taxminan 6 kvadrat santimetr — kiprikli tananing kiçik ölçamini hisobga olsak, bu katta maydon. Bu ösimtalarning yuzasi yuqori sekretor faollikka ega epiteliy hujayralari bilan qoplangan, ularning bevosita ostida esa qon tomirlariga juda boy soha joylaşgan."
+  },
+  "ch50-f93": {
+   "text": "Suvsimon suyuqlik deyarli butunlay kiprikli ösimtalar epiteliysining faol sekretsiyasi sifatida hosil böladi. Sekretsiya natriy ionlarining epiteliy hujayralari orasidagi oraliqlarga faol taşilişidan boşlanadi. Natriy ionlari elektr neytralligini saqlaş uçun xlorid va bikarbonat ionlarini özi bilan tortadi. Söngra bu ionlarning barçasi birgalikda pastda joylaşgan qon kapillyarlaridan xuddi şu epiteliy hujayralararo oraliqlarga suvning osmozini yuzaga keltiradi. Hosil bölgan eritma kiprikli ösimtalar oraliqlaridan közning oldingi kamerasiga yuvilib tuşadi. Bundan taşqari, aminokislotalar, askorbin kislota va glyukoza kabi bir qator ozuqa moddalari epiteliy orqali faol taşiliş yoki yengillaşgan diffuziya yöli bilan taşiladi."
+  },
+  "ch50-f94": {
+   "text": "Suvsimon suyuqlikning közdan oqib ketişi"
+  },
+  "ch50-f95": {
+   "text": "Suvsimon suyuqlik kiprikli ösimtalarda hosil bölgaçdan keyin **Rasm 50-18** da körsatilganidek, avval _qoraçiq orqali közning oldingi kamerasiga_ oqadi. U yerdan suyuqlik _gavharning oldidan_ _şox parda va rangdor parda orasidagi burçakka_ oqadi, söngra _trabekulalar_ töri orqali ötib, nihoyat köz taşqarisidagi venalarga quyiladigan _Şlemm kanaliga_ kiradi. **Rasm 50-20** da şu rangdor parda-şox parda burçagidagi anatomik tuzilmalar körsatilgan: trabekulalar orasidagi oraliqlar oldingi kameradan Şlemm kanaligaça butunlay davom etadi. Şlemm kanali köz atrofini butunlay aylanib ötadigan yupqa devorli venadir. Uning endotelial membranasi şunçalik ğovakki, hatto yirik oqsil molekulalari, şuningdek eritrotsitlar ölçamigaça bölgan mayda zarraçalar ham oldingi kameradan Şlemm kanaliga öta oladi. Şlemm kanali aslida venoz qon tomiri bölsa-da, me’yorda unga şunçalik köp suvsimon suyuqlik oqadiki, u qon bilan emas, faqat suvsimon suyuqlik bilan tölgan böladi. Şlemm kanalidan közning yirikroq venalariga boradigan mayda venalar odatda faqat suvsimon suyuqlik saqlaydi; ular _suvsimon venalar_ deb ataladi."
+  },
+  "ch50-f97": {
+   "text": "Köz içi bosimi"
+  },
+  "ch50-f98": {
+   "text": "Me’yoriy köz içi bosimi örtaça taxminan 15 mm sim. ust., 12 dan 20 mm sim. ust. gaça oraliqda böladi."
+  },
+  "ch50-f99": {
+   "text": "Köz içi bosimini ölçaş uçun bemorning közga igna kiritiş amaliy jihatdan noqulay bölgani uçun bu bosim klinikada “tonometr” yordamida ölçanadi. Uning tamoyili **Rasm 50-21** da körsatilgan. Közning şox pardasi mahalliy anestetik bilan oğriqsizlantiriladi va tonometrning tayanç plastinkasi şox pardaga qöyiladi. Söngra markaziy plunjerga kiçik kuç beriladi va şox pardaning plunjer ostidagi qismi içkariga botadi. Botiş miqdori tonometr şkalasida qayd etiladi va u köz içi bosimi birliklarida kalibrlangan.",
+   "lead": "Köz içi bosimini tonometriya bilan ölçaş."
+  },
+  "ch50-f101": {
+   "text": "Soğlom közda köz içi bosimi doimiy bölib, odatda örtaça taxminan 15 mm sim. ust. bölgan me’yoriy darajasidan ±2 mm sim. ust. çegarasida saqlanadi. Bu bosim darajasi asosan suvsimon suyuqlikning oldingi kameradan Şlemm kanaliga oqib ketişiga qarşilik bilan belgilanadi. Bu oqib ketişga qarşilikni suyuqlik oldingi kameraning yon burçaklaridan Şlemm kanali devoriga boriş yölida sizib ötişi kerak bölgan trabekulalar töri hosil qiladi. Bu trabekulalarda atigi 2–3 mikrometrlik mitti teşikçalar bor. Bosim ortgani sari kanalga suyuqlik oqimi tezligi keskin ortadi. Soğlom közda taxminan 15 mm sim. ust. da közdan Şlemm kanali orqali çiqadigan suyuqlik miqdori odatda örtaça 2,5 μl/daq bölib, kiprikli tanadan suyuqlik kelişiga teng böladi. Bosim me’yorda taxminan şu 15 mm sim. ust. darajasida saqlanadi.",
+   "lead": "Köz içi bosimining boşqarilişi."
+  },
+  "ch50-f102": {
+   "text": "Suvsimon suyuqlikda köp miqdorda qoldiqlar bölganda, masalan, közga qon quyilgandan keyin yoki köz içi infeksiyasi vaqtida, qoldiqlar oldingi kameradan Şlemm kanaliga boradigan trabekulyar oraliqlarda töplanişi mumkin. Bu qoldiqlar oldingi kameradan suyuqlikning yetarli qayta sörilişiga tösqinlik qilib, keyinroq tuşuntirilganidek, ba’zan “glaukoma”ga sabab bölişi mumkin. Biroq trabekulyar plastinkalar yuzasida köp sonli fagotsitar hujayralar bor. Şlemm kanalining bevosita taşqarisida qoldiqlarni yutib, ularni keyin sörilişi mumkin bölgan mayda molekulali moddalargaça hazm qiliş qobiliyati juda yuqori bölgan köp sonli retikuloendotelial hujayralarni saqlovçi interstitsial gel qatlami bor. Şunday qilib, bu fagotsitar tizim trabekulyar oraliqlarni toza saqlaydi. Rangdor parda yuzasi va közning rangdor parda orqasidagi boşqa yuzalari suvsimon suyuqlikdagi oqsillar va mayda zarraçalarni fagotsitoz qila oladigan epiteliy bilan qoplangan va şu bilan suyuqlikning tiniqligini saqlaşga yordam beradi.",
+   "lead": "Trabekulyar oraliqlar va köz içi suyuqligini tozalaş mexanizmi."
+  },
+  "ch50-f103": {
+   "text": "Körlikning eng köp uçraydigan sabablaridan biri bölgan glaukoma — köz içi bosimi patologik yuqori bölib qoladigan, ba’zan ötkir ravişda 60–70 mm sim. ust. gaça köteriladigan köz kasalligi. 25–30 mm sim. ust. dan yuqori bosimlar uzoq vaqt saqlansa, körişning yöqolişiga olib kelişi mumkin. Juda yuqori bosimlar bir neça kun yoki hatto soat içida körlikka sabab bölişi mumkin. Bosim ortgani sari köruv nervi aksonlari köz olmasidan köruv nervi diski orqali çiqadigan joyda siqiladi. Bu siqiliş tör parda neyronlarining hujayra tanalaridan miyaga boradigan köruv nervi tolalariga sitoplazmaning aksonal oqimini töşib qöyadi, deb hisoblanadi. Natijada tolalar tegişliça oziqlanmaydi va bu oxir-oqibat zararlangan tolalarning nobud bölişiga olib keladi. Köz olmasiga köruv nervi diski orqali kiradigan tör parda arteriyasining siqilişi ham tör pardaning oziqlanişini kamaytirib, neyronlar şikastlanişini kuçaytirişi mumkin.",
+   "lead": "“Glaukoma” köz içi bosimining yuqori bölişiga sabab böladi va körlikning asosiy sabablaridan biri hisoblanadi."
+  },
+  "ch50-f104": {
+   "text": "Glaukomaning köp hollarida ğayritabiiy yuqori bosim rangdor parda-şox parda birikmasida trabekulyar oraliqlar orqali Şlemm kanaliga suyuqlik oqib ketişiga qarşilikning ortişi natijasida yuzaga keladi. Masalan, közning ötkir yalliğlanişida oq qon hujayralari va töqima qoldiqlari bu trabekulyar oraliqlarni berkitib, köz içi bosimining ötkir ortişiga sabab bölişi mumkin. Surunkali holatlarda, ayniqsa keksa odamlarda, trabekulyar oraliqlarning fibroz berkilişi ehtimoliy aybdor bölib körinadi."
+  },
+  "ch50-f105": {
+   "text": "Glaukomani ba’zan köz olmasiga diffuziyalanib, suvsimon suyuqlik sekretsiyasini kamaytiradigan yoki uning sörilişini oşiradigan dori saqlovçi tomçilarni közga tomiziş orqali davolaş mumkin. Dori bilan davolaş samara bermaganda trabekulalar oraliqlarini oçiş yoki suyuqlikning köz olmasining suyuqlik böşliğidan bevosita köz olmasidan taşqaridagi kon’yunktiva osti oraliğiga oqişi uçun kanallar hosil qiliş bilan boğliq operativ usullar köpinça bosimni samarali pasaytira oladi."
+  }
+ },
+ "figures": {
+  "gh14-fig-50-01": "Yoruğlik nurlariga perpendikulyar şişa yuzasiga (A) va yoruğlik nurlariga nisbatan qiya şişa yuzasiga (B) kirayotgan yoruğlik nurlari. Bu rasm tölqinlar orasidagi masofa şişaga kirgandan keyin havodagining taxminan uçdan ikki qismigaça qisqarişini körsatadi. Şuningdek, qiya şişa yuzasiga tuşgan yoruğlik nurlari egilişi körsatilgan.",
+  "gh14-fig-50-02": "Qavariq sferik linzaning har bir yuzasida yoruğlik nurlarining egilişi: parallel yoruğlik nurlari fokus nuqtasiga fokuslanadi.",
+  "gh14-fig-50-03": "Botiq sferik linzaning har bir yuzasida yoruğlik nurlarining egilişi: parallel yoruğlik nurlari tarqaladi.",
+  "gh14-fig-50-04": "A, Sferik qavariq linza tomonidan parallel yoruğlik nurlarining nuqtaviy fokuslanişi. B, Silindrik qavariq linza tomonidan parallel yoruğlik nurlarining çiziqli fokuslanişi.",
+  "gh14-fig-50-05": "A, Silindrik linza tomonidan nuqtaviy manbadan kelgan yoruğlikning çiziqli fokusga fokuslanişi. B, Bir-biriga töğri burçak ostida joylaşgan ikki silindrik qavariq linza: bir linza yoruğlik nurlarini bitta tekislikda, ikkinçi linza esa unga töğri burçak ostidagi tekislikda yiğadi. Birgalikda ikki linza bitta sferik qavariq linza bilan olinadigan nuqtaviy fokusni beradi.",
+  "gh14-fig-50-06": "Bu rasmdagi ikki yuqori linzaning fokus masofasi bir xil, ammo yuqori linzaga kirayotgan yoruğlik nurlari parallel, örta linzaga kirayotganlari esa tarqaluvçi. Parallel va tarqaluvçi nurlarning fokus masofasiga ta’siri körsatilgan. Pastki linzaning sindiriş kuçi qolgan ikki linzanikidan ança katta (ya’ni fokus masofasi ança qisqa): bu linza qança kuçli bölsa, fokus nuqtasi linzaga şunça yaqin ekanini körsatadi.",
+  "gh14-fig-50-07": "A, Ikkita nuqtaviy yoruğlik manbaining linzaning qarama-qarşi tomonida ikki alohida nuqtaga fokuslanişi. B, Qavariq sferik linza yordamida tasvirning hosil bölişi.",
+  "gh14-fig-50-08": "Linza kuçining fokus masofasiga ta’siri.",
+  "gh14-fig-50-09": "Köz fotoapparat sifatida. Raqamlar — sindiriş körsatkiçlari.",
+  "gh14-fig-50-10": "Akkomodatsiya (fokuslaş) mexanizmi.",
+  "gh14-fig-50-11": "Qoraçiq teşigi kiçik (yuqorida) va katta (pastda) bölganda uning fokus çuqurligiga ta’siri.",
+  "gh14-fig-50-12": "Parallel yoruğlik nurlari emmetropiyada tör pardada, gipermetropiyada tör parda orqasida, miopiyada esa tör parda oldida fokuslanadi.",
+  "gh14-fig-50-13": "Miopiyani botiq linza bilan tuzatiş (yuqorida) va gipermetropiyani qavariq linza bilan tuzatiş (pastda).",
+  "gh14-fig-50-14": "Astigmatizm: yoruğlik nurlari bir fokus tekisligida (AC tekisligi) bir fokus masofasida, unga töğri burçak ostidagi tekislikda (BD tekisligi) esa boşqa fokus masofasida fokuslanadi.",
+  "gh14-fig-50-15": "Astigmatizm öqini aniqlaş uçun turli burçak ostida joylaşgan parallel qora çiziqlardan iborat jadval.",
+  "gh14-fig-50-16": "Ikki nuqtaviy yoruğlik manbai uçun maksimal köriş ötkirligi.",
+  "gh14-fig-50-17": "Masofani tör pardadagi tasvir ölçami orqali (1) va stereopsis natijasida (2) idrok etiş.",
+  "gh14-fig-50-18": "Közda suyuqlikning hosil bölişi va oqişi.",
+  "gh14-fig-50-19": "Kiprikli ösimtalarning anatomiyasi. Suvsimon suyuqlik yuzalarda hosil böladi.",
+  "gh14-fig-50-20": "Rangdor parda-şox parda burçagining anatomiyasi: suvsimon suyuqlikning köz olmasidan kon’yunktiva venalariga oqib ketiş tizimi körsatilgan.",
+  "gh14-fig-50-21": "Tonometrning işlaş tamoyillari."
+ }
+}

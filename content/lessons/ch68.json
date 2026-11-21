@@ -2,9 +2,9 @@
  "id": "ch68",
  "topicId": "13",
  "order": 1,
- "titleUz": "Uglevodlar metabolizmi va ATP hosil bo’lishi",
+ "titleUz": "Uglevodlar metabolizmi va ATP hosil bölişi",
  "titleOriginal": "Metabolism of Carbohydrates and Formation of Adenosine Triphosphate",
- "subtitle": "*Metabolism of Carbohydrates and Formation of Adenosine Triphosphate* — XIII bo'lim, PDF 797–806",
+ "subtitle": "*Metabolism of Carbohydrates and Formation of Adenosine Triphosphate* — XIII bo‘lim, PDF 797–806",
  "contentVersion": "2026-11-14.1",
  "status": "in_review",
  "translationStatus": "machine_assisted",
@@ -34,7 +34,7 @@
  "outline": [],
  "objectives": [
   "Ovqatdan energiya ajralishi",
-  "ATP — tananing \"energiya valyutasi\"",
+  "ATP — tananing “energiya valyutasi”",
   "Glyukozaning markaziy roli",
   "Glikogen",
   "Glikoliz",
@@ -44,8 +44,8 @@
   "Bir glyukozadan ATP hisobi",
   "ATP va ADP orqali boshqarish",
   "Anaerob glikoliz",
-  "Pentoza fosfat yo’li",
-  "Glyukozaning glikogen yoki yog’ga aylanishi",
+  "Pentoza fosfat yo‘li",
+  "Glyukozaning glikogen yoki yog‘ga aylanishi",
   "Glyukoneogenez",
   "Qon glyukozasi"
  ],
@@ -54,19 +54,19 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Asosiy g’oya",
+    "text": "Asosiy ğoya",
     "id": "ch68-s-0-asosiy-goya",
     "bid": "ch68-u0"
    },
    {
     "type": "paragraph",
-    "text": "Metabolizm hujayralar yashashini ta’minlovchi kimyoviy jarayonlardir. Bu boblar biokimyoviy tafsilotlarni emas, asosiy jarayonlarni va ularning fiziologik ma’nosini, ya’ni gomeostazga qanday mos kelishini ko’rib chiqadi.",
+    "text": "Metabolizm hujayralar yaşaşini ta’minlovçi kimyoviy jarayonlardir. Bu boblar biokimyoviy tafsilotlarni emas, asosiy jarayonlarni va ularning fiziologik ma’nosini, ya’ni gomeostazga qanday mos kelişini körib çiqadi.",
     "bid": "ch68-u1"
    },
    {
     "type": "heading",
     "level": 2,
-    "text": "Ovqatdan energiya ajralishi",
+    "text": "Ovqatdan energiya ajralişi",
     "id": "ch68-s-2-ovqatdan-energiya-ajralishi",
     "bid": "ch68-u2"
    },
@@ -75,27 +75,27 @@
     "ordered": false,
     "items": [
      {
-      "text": "Energiya mushak ishi, bez sekretsiyasi, membrana potensiali, sintez va so’rilish uchun kerak.",
+      "text": "Energiya muşak işi, bez sekretsiyasi, membrana potensiali, sintez va söriliş uçun kerak.",
       "depth": 0
      },
      {
-      "text": "**Bog’langan (coupled) reaksiyalar:**",
+      "text": "**Boğlangan (coupled) reaksiyalar:**",
       "depth": 0
      },
      {
-      "text": "Uglevod, yog' va oqsil hujayrada oksidlanib ko’p energiya beradi.",
+      "text": "Uglevod, yoğ va oqsil hujayrada oksidlanib köp energiya beradi.",
       "depth": 1
      },
      {
-      "text": "Tashqarida yondirilsa, energiya birdaniga va faqat issiqlik sifatida ajraladi.",
+      "text": "Taşqarida yondirilsa, energiya birdaniga va faqat issiqlik sifatida ajraladi.",
       "depth": 1
      },
      {
-      "text": "Hujayraga issiqlik emas, mexanik ish, moddalarni konsentrlash va hokazo kerak. Shuning uchun reaksiyalar maxsus fermentlar va energiya tashish tizimlari bilan funksiyalarga bog’lanadi.",
+      "text": "Hujayraga issiqlik emas, mexanik iş, moddalarni konsentrlaş va hokazo kerak. Şuning uçun reaksiyalar maxsus fermentlar va energiya taşiş tizimlari bilan funksiyalarga boğlanadi.",
       "depth": 1
      },
      {
-      "text": "**Erkin energiya (ΔG):** ovqat to’liq oksidlanganda ajraladigan energiya, kal/mol da ifodalanadi. 1 mol (180 g) glyukoza to’liq oksidlanganda 686 000 kal ajraladi.",
+      "text": "**Erkin energiya (ΔG):** ovqat töliq oksidlanganda ajraladigan energiya, kal/mol da ifodalanadi. 1 mol (180 g) glyukoza töliq oksidlanganda 686 000 kal ajraladi.",
       "depth": 0
      }
     ],
@@ -104,7 +104,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "ATP — tananing \"energiya valyutasi\"",
+    "text": "ATP — tananing “energiya valyutasi”",
     "id": "ch68-s-4-atp-tananing-energiya-valyutasi",
     "bid": "ch68-u4"
    },
@@ -113,23 +113,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "Energiya hosil qiluvchi va sarflovchi jarayonlar orasidagi markaziy bo’g’in.",
+      "text": "Energiya hosil qiluvçi va sarflovçi jarayonlar orasidagi markaziy böğin.",
       "depth": 0
      },
      {
-      "text": "Oksidlanish energiyasi ADP ni ATP ga aylantiradi.",
+      "text": "Oksidlaniş energiyasi ADP ni ATP ga aylantiradi.",
       "depth": 1
      },
      {
-      "text": "ATP ion tashish, mushak qisqarishi, molekulalar sintezi, hujayra bo’linishi va o’sishiga sarflanadi.",
+      "text": "ATP ion taşiş, muşak qisqarişi, molekulalar sintezi, hujayra bölinişi va ösişiga sarflanadi.",
       "depth": 1
      },
      {
-      "text": "Tarkibi: adenin, riboza va uchta fosfat. Oxirgi ikki fosfat **yuqori energiyali bog’lar** (∼) bilan bog’langan.",
+      "text": "Tarkibi: adenin, riboza va uçta fosfat. Oxirgi ikki fosfat **yuqori energiyali boğlar** (∼) bilan boğlangan.",
       "depth": 0
      },
      {
-      "text": "Har bir bog' standart sharoitda taxminan 7300 kal/mol, tana sharoitida taxminan 12 000 kal/mol energiya beradi.",
+      "text": "Har bir boğ standart şaroitda taxminan 7300 kal/mol, tana şaroitida taxminan 12 000 kal/mol energiya beradi.",
       "depth": 0
      },
      {
@@ -137,11 +137,11 @@
       "depth": 0
      },
      {
-      "text": "Barcha hujayralarning sitoplazmasi va nukleoplazmasida bor. Energiya talab qiluvchi deyarli barcha mexanizmlar uni ATP dan (yoki GTP dan) oladi.",
+      "text": "Barça hujayralarning sitoplazmasi va nukleoplazmasida bor. Energiya talab qiluvçi deyarli barça mexanizmlar uni ATP dan (yoki GTP dan) oladi.",
       "depth": 0
      },
      {
-      "text": "Tanada ishlatiladigan uglevodlarning 90% yoki ko’prog’i ATP hosil qilish uchun.",
+      "text": "Tanada işlatiladigan uglevodlarning 90% yoki köproği ATP hosil qiliş uçun.",
       "depth": 0
      }
     ],
@@ -163,19 +163,19 @@
       "depth": 0
      },
      {
-      "text": "So’rilgandan keyin fruktozaning ko’p qismi va galaktozaning deyarli hammasi jigarda tez glyukozaga aylanadi.",
+      "text": "Sörilgandan keyin fruktozaning köp qismi va galaktozaning deyarli hammasi jigarda tez glyukozaga aylanadi.",
       "depth": 0
      },
      {
-      "text": "Demak glyukoza deyarli barcha uglevodlarni to’qimalarga tashishning yakuniy umumiy yo’li.",
+      "text": "Demak glyukoza deyarli barça uglevodlarni töqimalarga taşişning yakuniy umumiy yöli.",
       "depth": 0
      },
      {
-      "text": "Jigarda monosaxaridlar o’zaro aylana oladi. Jigar qonga chiqarganda deyarli faqat glyukoza chiqadi, chunki jigarda ko’p **glyukoza fosfataza** bor: glyukoza-6-fosfat glyukoza va fosfatga parchalanadi, glyukoza qonga o’tadi.",
+      "text": "Jigarda monosaxaridlar özaro aylana oladi. Jigar qonga çiqarganda deyarli faqat glyukoza çiqadi, çunki jigarda köp **glyukoza fosfataza** bor: glyukoza-6-fosfat glyukoza va fosfatga parçalanadi, glyukoza qonga ötadi.",
       "depth": 0
      },
      {
-      "text": "Qondagi monosaxaridlarning 95% dan ko’pi glyukoza.",
+      "text": "Qondagi monosaxaridlarning 95% dan köpi glyukoza.",
       "depth": 0
      }
     ],
@@ -183,7 +183,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Membrana orqali tashilish:**",
+    "text": "**Membrana orqali taşiliş:**",
     "bid": "ch68-u8"
    },
    {
@@ -191,15 +191,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Glyukoza teshiklardan oson diffuziyalanmaydi: molekulyar og’irligi 180, oson diffuziya chegarasi taxminan 100.",
+      "text": "Glyukoza teşiklardan oson diffuziyalanmaydi: molekulyar oğirligi 180, oson diffuziya çegarasi taxminan 100.",
       "depth": 0
      },
      {
-      "text": "Oqsil tashuvchilar orqali **yengillashtirilgan diffuziya** bilan o’tadi, faqat yuqori konsentratsiyadan pastga.",
+      "text": "Oqsil taşuvçilar orqali **yengillaştirilgan diffuziya** bilan ötadi, faqat yuqori konsentratsiyadan pastga.",
       "depth": 0
      },
      {
-      "text": "Ichak va buyrak kanalchalari epiteliysida esa Na-glyukoza kotransporti bilan konsentratsiyaga qarshi tashiladi.",
+      "text": "Içak va buyrak kanalçalari epiteliysida esa Na-glyukoza kotransporti bilan konsentratsiyaga qarşi taşiladi.",
       "depth": 0
      }
     ],
@@ -215,15 +215,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Ko’p hujayralarda glyukoza tashilishini 10 baravar yoki ko’proq oshiradi.",
+      "text": "Köp hujayralarda glyukoza taşilişini 10 baravar yoki köproq oşiradi.",
       "depth": 0
      },
      {
-      "text": "Insulinsiz jigar va miyadan tashqari ko’p hujayralarga yetarli glyukoza kirmaydi.",
+      "text": "Insulinsiz jigar va miyadan taşqari köp hujayralarga yetarli glyukoza kirmaydi.",
       "depth": 0
      },
      {
-      "text": "Uglevod ishlatilish tezligi insulin sekretsiyasi va to’qimalarning unga sezgirligi bilan belgilanadi (79-bob).",
+      "text": "Uglevod işlatiliş tezligi insulin sekretsiyasi va töqimalarning unga sezgirligi bilan belgilanadi (79-bob).",
       "depth": 0
      }
     ],
@@ -231,7 +231,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Fosforillanish:**",
+    "text": "**Fosforillaniş:**",
     "bid": "ch68-u12"
    },
    {
@@ -239,15 +239,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Glyukoza + ATP → glyukoza-6-fosfat. Jigarda **glyukokinaza**, boshqa hujayralarda **geksokinaza** katalizlaydi.",
+      "text": "Glyukoza + ATP → glyukoza-6-fosfat. Jigarda **glyukokinaza**, boşqa hujayralarda **geksokinaza** katalizlaydi.",
       "depth": 0
      },
      {
-      "text": "Deyarli qaytmas. Faqat jigar, buyrak kanalchalari va ichak epiteliysida glyukoza fosfataza bilan qaytariladi.",
+      "text": "Deyarli qaytmas. Faqat jigar, buyrak kanalçalari va içak epiteliysida glyukoza fosfataza bilan qaytariladi.",
       "depth": 0
      },
      {
-      "text": "Ko’p to’qimalarda glyukozani hujayra ichida \"ushlab qoladi\".",
+      "text": "Köp töqimalarda glyukozani hujayra içida “uşlab qoladi”.",
       "depth": 0
      }
     ],
@@ -269,15 +269,15 @@
       "depth": 0
      },
      {
-      "text": "Jigar o’z og’irligining 5–8% igacha, mushak 1–3% igacha saqlay oladi.",
+      "text": "Jigar öz oğirligining 5–8% igaça, muşak 1–3% igaça saqlay oladi.",
       "depth": 1
      },
      {
-      "text": "O’rtacha molekulyar og’irligi 5 mln yoki ko’proq, qattiq granulalar shaklida cho’kadi.",
+      "text": "Örtaça molekulyar oğirligi 5 mln yoki köproq, qattiq granulalar şaklida çökadi.",
       "depth": 1
      },
      {
-      "text": "Shu tufayli ko’p uglevod hujayra ichi osmotik bosimini o’zgartirmasdan saqlanadi.",
+      "text": "Şu tufayli köp uglevod hujayra içi osmotik bosimini özgartirmasdan saqlanadi.",
       "depth": 0
      },
      {
@@ -285,11 +285,11 @@
       "depth": 0
      },
      {
-      "text": "Glyukozaga aylana oladigan har qanday monosaxarid qatnasha oladi.",
+      "text": "Glyukozaga aylana oladigan har qanday monosaxarid qatnaşa oladi.",
       "depth": 1
      },
      {
-      "text": "Laktat, glitserin, piruvat va dezaminlangan aminokislotalar ham glyukoza orqali glikogenga aylanishi mumkin.",
+      "text": "Laktat, glitserin, piruvat va dezaminlangan aminokislotalar ham glyukoza orqali glikogenga aylanişi mumkin.",
       "depth": 1
      },
      {
@@ -297,23 +297,23 @@
       "depth": 0
      },
      {
-      "text": "Har bir shoxdagi glyukoza **fosforilaza** yordamida fosforillanib ajratiladi.",
+      "text": "Har bir şoxdagi glyukoza **fosforilaza** yordamida fosforillanib ajratiladi.",
       "depth": 1
      },
      {
-      "text": "Tinch holatda fosforilaza faol emas.",
+      "text": "Tinç holatda fosforilaza faol emas.",
       "depth": 1
      },
      {
-      "text": "**Epinefrin** va **glyukagon** cAMP orqali reaksiyalar kaskadini boshlab, fosforilazani faollashtiradi.",
+      "text": "**Epinefrin** va **glyukagon** cAMP orqali reaksiyalar kaskadini boşlab, fosforilazani faollaştiradi.",
       "depth": 1
      },
      {
-      "text": "Epinefrin simpatik stimulyatsiyada buyrak usti mag’zidan ajraladi. Jigar va mushakda glyukozani tez energiya uchun tayyorlaydi (61-bob).",
+      "text": "Epinefrin simpatik stimulyatsiyada buyrak usti mağzidan ajraladi. Jigar va muşakda glyukozani tez energiya uçun tayyorlaydi (61-bob).",
       "depth": 2
      },
      {
-      "text": "Glyukagon pastki qand darajasida me’da osti bezi alfa hujayralaridan ajraladi. Asosan jigar glikogenini glyukozaga aylantirib qonga chiqaradi (79-bob).",
+      "text": "Glyukagon pastki qand darajasida me’da osti bezi alfa hujayralaridan ajraladi. Asosan jigar glikogenini glyukozaga aylantirib qonga çiqaradi (79-bob).",
       "depth": 2
      }
     ],
@@ -331,15 +331,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "686 000 kal ni bir yo’la chiqarib, bitta ATP hosil qilish isrofgarchilik bo’lardi.",
+      "text": "686 000 kal ni bir yöla çiqarib, bitta ATP hosil qiliş isrofgarçilik bölardi.",
       "depth": 0
      },
      {
-      "text": "Hujayralar glyukozani ko’p bosqichda asta parchalaydi va 1 mol glyukozadan jami **38 mol ATP** hosil qiladi.",
+      "text": "Hujayralar glyukozani köp bosqiçda asta parçalaydi va 1 mol glyukozadan jami **38 mol ATP** hosil qiladi.",
       "depth": 0
      },
      {
-      "text": "**Glikoliz** glyukozaning ikki molekula **piruvat** ga parchalanishi. 10 ta ketma-ket reaksiya, har biri o’z fermenti bilan.",
+      "text": "**Glikoliz** glyukozaning ikki molekula **piruvat** ga parçalanişi. 10 ta ketma-ket reaksiya, har biri öz fermenti bilan.",
       "depth": 0
      },
      {
@@ -355,7 +355,7 @@
       "depth": 1
      },
      {
-      "text": "Ikkita 3 uglerodli molekula hosil bo’ladi: gliseraldegid-3-fosfat va dihidroksiaseton fosfat.",
+      "text": "Ikkita 3 uglerodli molekula hosil böladi: gliseraldegid-3-fosfat va dihidroksiaseton fosfat.",
       "depth": 1
      },
      {
@@ -363,7 +363,7 @@
       "depth": 1
      },
      {
-      "text": "ATP 1,3-difosfoglitserat → 3-fosfoglitserat va fosfoenolpiruvat → piruvat bosqichlarida hosil bo’ladi. Bu yerda energiya 12 000 kal/mol dan katta.",
+      "text": "ATP 1,3-difosfoglitserat → 3-fosfoglitserat va fosfoenolpiruvat → piruvat bosqiçlarida hosil böladi. Bu yerda energiya 12 000 kal/mol dan katta.",
       "depth": 0
      },
      {
@@ -371,7 +371,7 @@
       "depth": 0
      },
      {
-      "text": "Har bir fruktoza-1,6-difosfatdan 4 ATP hosil bo’ladi, boshida 2 ATP sarflangan. **Sof foyda 2 ATP**.",
+      "text": "Har bir fruktoza-1,6-difosfatdan 4 ATP hosil böladi, boşida 2 ATP sarflangan. **Sof foyda 2 ATP**.",
       "depth": 1
      },
      {
@@ -379,7 +379,7 @@
       "depth": 1
      },
      {
-      "text": "Samaradorlik: ATP ga 24 000 kal o’tadi, glyukozadan jami 56 000 kal yo’qoladi. Samaradorlik 43%, qolgan 57% issiqlik.",
+      "text": "Samaradorlik: ATP ga 24 000 kal ötadi, glyukozadan jami 56 000 kal yöqoladi. Samaradorlik 43%, qolgan 57% issiqlik.",
       "depth": 0
      }
     ],
@@ -405,7 +405,7 @@
       "depth": 0
      },
      {
-      "text": "Bu bosqichda ATP hosil bo’lmaydi, lekin 4H keyinchalik oksidlanib 6 tagacha ATP beradi.",
+      "text": "Bu bosqiçda ATP hosil bölmaydi, lekin 4H keyinçalik oksidlanib 6 tagaça ATP beradi.",
       "depth": 0
      }
     ],
@@ -423,15 +423,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Atsetil-KoA ning atsetil qismi CO₂ va H atomlariga parchalanadi. Mitoxondriya matritsasida boradi.",
+      "text": "Atsetil-KoA ning atsetil qismi CO₂ va H atomlariga parçalanadi. Mitoxondriya matritsasida boradi.",
       "depth": 0
      },
      {
-      "text": "Sikl oksaloatsetatdan boshlanib, oksaloatsetat bilan tugaydi:",
+      "text": "Sikl oksaloatsetatdan boşlanib, oksaloatsetat bilan tugaydi:",
       "depth": 0
      },
      {
-      "text": "Oksaloatsetat + atsetil-KoA → sitrat (KoA ajraladi va qayta ishlatiladi).",
+      "text": "Oksaloatsetat + atsetil-KoA → sitrat (KoA ajraladi va qayta işlatiladi).",
       "depth": 1
      },
      {
@@ -439,11 +439,11 @@
       "depth": 1
      },
      {
-      "text": "Bir glyukoza uchun sof reaksiya: 2 atsetil-KoA + 6H₂O + 2ADP → 4CO₂ + 16H + 2KoA + 2ATP.",
+      "text": "Bir glyukoza uçun sof reaksiya: 2 atsetil-KoA + 6H₂O + 2ADP → 4CO₂ + 16H + 2KoA + 2ATP.",
       "depth": 0
      },
      {
-      "text": "ATP faqat α-ketoglutarat → suksinat bosqichida hosil bo’ladi: har sikl 1 ATP, bir glyukozaga 2 ATP.",
+      "text": "ATP faqat α-ketoglutarat → suksinat bosqiçida hosil böladi: har sikl 1 ATP, bir glyukozaga 2 ATP.",
       "depth": 0
      }
     ],
@@ -459,7 +459,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Bir glyukozadan jami 24 H ajraladi: glikolizda 4, atsetil-KoA hosil bo’lishida 4, Krebs siklida 16.",
+      "text": "Bir glyukozadan jami 24 H ajraladi: glikolizda 4, atsetil-KoA hosil bölişida 4, Krebs siklida 16.",
       "depth": 0
      },
      {
@@ -471,7 +471,7 @@
       "depth": 0
      },
      {
-      "text": "Qolgan 4 tasi (suksinat → fumarat bosqichida) NAD⁺ ga o’tmaydi, degidrogenazadan to’g’ridan-to’g’ri oksidlanish jarayoniga kiradi.",
+      "text": "Qolgan 4 tasi (suksinat → fumarat bosqiçida) NAD⁺ ga ötmaydi, degidrogenazadan töğridan-töğri oksidlaniş jarayoniga kiradi.",
       "depth": 0
      }
     ],
@@ -479,13 +479,13 @@
    },
    {
     "type": "paragraph",
-    "text": "**Dekarboksilazalar:** CO₂ ni substratdan ajratadi. Atsetil-KoA hosil bo’lishi va Krebs siklida jami 3 bosqichda CO₂ ajraladi. CO₂ suyuqliklarda eriydi va o’pka orqali chiqariladi (41-bob).",
+    "text": "**Dekarboksilazalar:** CO₂ ni substratdan ajratadi. Atsetil-KoA hosil bölişi va Krebs siklida jami 3 bosqiçda CO₂ ajraladi. CO₂ suyuqliklarda eriydi va öpka orqali çiqariladi (41-bob).",
     "bid": "ch68-u24"
    },
    {
     "type": "heading",
     "level": 2,
-    "text": "Oksidlovchi fosforillanish (xemiosmotik mexanizm)",
+    "text": "Oksidlovçi fosforillaniş (xemiosmotik mexanizm)",
     "id": "ch68-s-25-oksidlovchi-fosforillanish-xemiosmotik-mexanizm",
     "bid": "ch68-u25"
    },
@@ -494,15 +494,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Glikoliz va Krebs sikli bir glyukozaga atigi 2+2 ATP beradi. ATP ning taxminan 90% vodorod atomlari oksidlanishidan hosil bo’ladi.",
+      "text": "Glikoliz va Krebs sikli bir glyukozaga atigi 2+2 ATP beradi. ATP ning taxminan 90% vodorod atomlari oksidlanişidan hosil böladi.",
       "depth": 0
      },
      {
-      "text": "Oldingi bosqichlarning asosiy vazifasi glyukoza vodorodini oksidlanadigan shaklga keltirish.",
+      "text": "Oldingi bosqiçlarning asosiy vazifasi glyukoza vodorodini oksidlanadigan şaklga keltiriş.",
       "depth": 0
      },
      {
-      "text": "Mitoxondriyada bo’ladi:",
+      "text": "Mitoxondriyada böladi:",
       "depth": 0
      },
      {
@@ -510,7 +510,7 @@
       "depth": 1
      },
      {
-      "text": "Juft H dan biri darhol H⁺ bo’ladi, ikkinchisi NAD⁺ bilan NADH hosil qiladi.",
+      "text": "Juft H dan biri darhol H⁺ böladi, ikkinçisi NAD⁺ bilan NADH hosil qiladi.",
       "depth": 2
      },
      {
@@ -518,11 +518,11 @@
       "depth": 2
      },
      {
-      "text": "**Elektron tashish zanjiri:**",
+      "text": "**Elektron taşiş zanjiri:**",
       "depth": 1
      },
      {
-      "text": "Elektronlar mitoxondriya ichki membranasidagi akseptorlar zanjiriga o’tadi. Akseptorlar qaytar holda qaytariladi va oksidlanadi.",
+      "text": "Elektronlar mitoxondriya içki membranasidagi akseptorlar zanjiriga ötadi. Akseptorlar qaytar holda qaytariladi va oksidlanadi.",
       "depth": 2
      },
      {
@@ -538,11 +538,11 @@
       "depth": 1
      },
      {
-      "text": "Zanjirda ajralgan energiya H⁺ ni matritsadan ichki va tashqi membranalar orasidagi tashqi kameraga haydaydi.",
+      "text": "Zanjirda ajralgan energiya H⁺ ni matritsadan içki va taşqi membranalar orasidagi taşqi kameraga haydaydi.",
       "depth": 2
      },
      {
-      "text": "U yerda H⁺ konsentratsiyasi yuqori, matritsada kuchli manfiy potensial hosil bo’ladi.",
+      "text": "U yerda H⁺ konsentratsiyasi yuqori, matritsada kuçli manfiy potensial hosil böladi.",
       "depth": 2
      },
      {
@@ -550,19 +550,19 @@
       "depth": 1
      },
      {
-      "text": "Ichki membranadan o’tib, matritsaga tugmasimon boshi bilan chiqib turgan katta ATPaza oqsili.",
+      "text": "Içki membranadan ötib, matritsaga tugmasimon boşi bilan çiqib turgan katta ATPaza oqsili.",
       "depth": 2
      },
      {
-      "text": "H⁺ gradient bo’ylab u orqali matritsaga qaytadi va energiyasi ADP + Pᵢ → ATP uchun ishlatiladi.",
+      "text": "H⁺ gradient böylab u orqali matritsaga qaytadi va energiyasi ADP + Pᵢ → ATP uçun işlatiladi.",
       "depth": 2
      },
      {
-      "text": "ATP ichki membranadan yengillashtirilgan diffuziya, tashqi membranadan oddiy diffuziya bilan sitoplazmaga chiqadi. ADP teskari yo’nalishda kiradi.",
+      "text": "ATP içki membranadan yengillaştirilgan diffuziya, taşqi membranadan oddiy diffuziya bilan sitoplazmaga çiqadi. ADP teskari yönalişda kiradi.",
       "depth": 1
      },
      {
-      "text": "Zanjirdan o’tgan har 2 elektron (2 H) uchun 3 tagacha ATP hosil bo’ladi.",
+      "text": "Zanjirdan ötgan har 2 elektron (2 H) uçun 3 tagaça ATP hosil böladi.",
       "depth": 0
      }
     ],
@@ -580,19 +580,19 @@
     "ordered": true,
     "items": [
      {
-      "text": "Glikoliz: 4 ATP hosil bo’ladi, 2 sarflanadi, **sof 2**.",
+      "text": "Glikoliz: 4 ATP hosil böladi, 2 sarflanadi, **sof 2**.",
       "depth": 0
      },
      {
-      "text": "Krebs sikli: har aylanishda 1, bir glyukozaga 2 aylanish, **2 ATP**.",
+      "text": "Krebs sikli: har aylanişda 1, bir glyukozaga 2 aylaniş, **2 ATP**.",
       "depth": 0
      },
      {
-      "text": "24 H dan 20 tasi to’liq xemiosmotik zanjirda: har 2 H ga 3 ATP, **30 ATP**.",
+      "text": "24 H dan 20 tasi töliq xemiosmotik zanjirda: har 2 H ga 3 ATP, **30 ATP**.",
       "depth": 0
      },
      {
-      "text": "Qolgan 4 H zanjirga birinchi bosqichdan keyin kiradi: har 2 H ga 2 ATP, **4 ATP**.",
+      "text": "Qolgan 4 H zanjirga birinçi bosqiçdan keyin kiradi: har 2 H ga 2 ATP, **4 ATP**.",
       "depth": 0
      },
      {
@@ -609,7 +609,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "ATP va ADP orqali boshqarish",
+    "text": "ATP va ADP orqali boşqariş",
     "id": "ch68-s-29-atp-va-adp-orqali-boshqarish",
     "bid": "ch68-u29"
    },
@@ -618,39 +618,39 @@
     "ordered": false,
     "items": [
      {
-      "text": "Kerak bo’lmaganda energiya ajratish isrof bo’lardi, shuning uchun jarayon ATP ehtiyojiga qarab boshqariladi.",
+      "text": "Kerak bölmaganda energiya ajratiş isrof bölardi, şuning uçun jarayon ATP ehtiyojiga qarab boşqariladi.",
       "depth": 0
      },
      {
-      "text": "**Fosfofruktokinaza** (fruktoza-1,6-difosfat hosil qiluvchi ferment):",
+      "text": "**Fosfofruktokinaza** (fruktoza-1,6-difosfat hosil qiluvçi ferment):",
       "depth": 0
      },
      {
-      "text": "Ortiqcha ATP uni tormozlaydi, glikoliz va uglevod metabolizmi sekinlashadi yoki to’xtaydi.",
+      "text": "Ortiqça ATP uni tormozlaydi, glikoliz va uglevod metabolizmi sekinlaşadi yoki töxtaydi.",
       "depth": 1
      },
      {
-      "text": "ADP va AMP uning faolligini keskin oshiradi.",
+      "text": "ADP va AMP uning faolligini keskin oşiradi.",
       "depth": 1
      },
      {
-      "text": "ATP sarflanganda tormoz kamayadi, ADP ko’payadi, glikoliz yoqiladi va ATP zaxirasi tiklanadi.",
+      "text": "ATP sarflanganda tormoz kamayadi, ADP köpayadi, glikoliz yoqiladi va ATP zaxirasi tiklanadi.",
       "depth": 1
      },
      {
-      "text": "**Sitrat** ortiqcha bo’lsa ham fosfofruktokinazani kuchli tormozlaydi. Glikoliz Krebs siklining piruvatni ishlatish qobiliyatidan oshib ketmaydi.",
+      "text": "**Sitrat** ortiqça bölsa ham fosfofruktokinazani kuçli tormozlaydi. Glikoliz Krebs siklining piruvatni işlatiş qobiliyatidan oşib ketmaydi.",
       "depth": 0
      },
      {
-      "text": "Barcha ADP ATP ga aylangan bo’lsa, yangi ATP hosil bo’lmaydi. Glyukoza, yog' va oqsilni ishlatish ketma-ketligi to’xtaydi.",
+      "text": "Barça ADP ATP ga aylangan bölsa, yangi ATP hosil bölmaydi. Glyukoza, yoğ va oqsilni işlatiş ketma-ketligi töxtaydi.",
       "depth": 0
      },
      {
-      "text": "ATP sarflanib ADP va AMP hosil bo’lsa, jarayon yana yoqiladi.",
+      "text": "ATP sarflanib ADP va AMP hosil bölsa, jarayon yana yoqiladi.",
       "depth": 1
      },
      {
-      "text": "Shunday qilib, juda og’ir mashqdan tashqari, ATP zaxirasi avtomatik deyarli to’liq saqlanadi.",
+      "text": "Şunday qilib, juda oğir maşqdan taşqari, ATP zaxirasi avtomatik deyarli töliq saqlanadi.",
       "depth": 1
      }
     ],
@@ -668,15 +668,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Kislorod bo’lmasa yoki yetmasa, oksidlovchi fosforillanish bo’lmaydi. Glikoliz esa kislorod talab qilmaydi.",
+      "text": "Kislorod bölmasa yoki yetmasa, oksidlovçi fosforillaniş bölmaydi. Glikoliz esa kislorod talab qilmaydi.",
       "depth": 0
      },
      {
-      "text": "Juda isrofli: bir glyukozadan ATP ga atigi 24 000 kal o’tadi, glyukoza energiyasining 3% dan biroz ko’pi.",
+      "text": "Juda isrofli: bir glyukozadan ATP ga atigi 24 000 kal ötadi, glyukoza energiyasining 3% dan biroz köpi.",
       "depth": 0
      },
      {
-      "text": "Shunga qaramay, bir necha daqiqagacha hayotni saqlab qolishi mumkin.",
+      "text": "Şunga qaramay, bir neça daqiqagaça hayotni saqlab qolişi mumkin.",
       "depth": 0
      }
     ],
@@ -684,7 +684,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Laktat hosil bo’lishi:**",
+    "text": "**Laktat hosil bölişi:**",
     "bid": "ch68-u33"
    },
    {
@@ -692,19 +692,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Massalar ta’siri qonuniga ko’ra, mahsulotlar to’plansa reaksiya to’xtaydi.",
+      "text": "Massalar ta’siri qonuniga köra, mahsulotlar töplansa reaksiya töxtaydi.",
       "depth": 0
      },
      {
-      "text": "Glikoliz mahsulotlari piruvat va NADH + H⁺. Ular ko’payganda o’zaro reaksiyaga kirishadi: piruvat + NADH + H⁺ → (laktat degidrogenaza) → laktat + NAD⁺.",
+      "text": "Glikoliz mahsulotlari piruvat va NADH + H⁺. Ular köpayganda özaro reaksiyaga kirişadi: piruvat + NADH + H⁺ → (laktat degidrogenaza) → laktat + NAD⁺.",
       "depth": 0
      },
      {
-      "text": "Laktat hujayralardan hujayradan tashqari suyuqlikka va kam faol hujayralarga oson chiqib ketadi. U glikoliz mahsulotlari uchun \"chuqurlik\" (sinkhole) vazifasini bajaradi.",
+      "text": "Laktat hujayralardan hujayradan taşqari suyuqlikka va kam faol hujayralarga oson çiqib ketadi. U glikoliz mahsulotlari uçun “çuqurlik” (sinkhole) vazifasini bajaradi.",
       "depth": 0
      },
      {
-      "text": "Shu tufayli glikoliz bir necha soniya o’rniga bir necha daqiqa davom etib, qo’shimcha ATP beradi.",
+      "text": "Şu tufayli glikoliz bir neça soniya örniga bir neça daqiqa davom etib, qöşimça ATP beradi.",
       "depth": 0
      }
     ],
@@ -720,19 +720,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Laktat tez piruvat va NADH + H⁺ ga qaytadi. Ularning katta qismi oksidlanib ko’p ATP beradi.",
+      "text": "Laktat tez piruvat va NADH + H⁺ ga qaytadi. Ularning katta qismi oksidlanib köp ATP beradi.",
       "depth": 0
      },
      {
-      "text": "Bu ATP qolgan ortiqcha piruvatning 75% gacha qismini glyukozaga qaytaradi.",
+      "text": "Bu ATP qolgan ortiqça piruvatning 75% gaça qismini glyukozaga qaytaradi.",
       "depth": 0
      },
      {
-      "text": "Ko’pi jigarda, ozgina boshqa to’qimalarda bo’ladi.",
+      "text": "Köpi jigarda, ozgina boşqa töqimalarda böladi.",
       "depth": 0
      },
      {
-      "text": "**Yurak mushagi** laktatni piruvatga aylantirib energiya uchun yaxshi ishlatadi. Og’ir mashqda skelet mushaklari qonga chiqargan laktatni yurak qo’shimcha energiya manbai sifatida iste’mol qiladi.",
+      "text": "**Yurak muşagi** laktatni piruvatga aylantirib energiya uçun yaxşi işlatadi. Oğir maşqda skelet muşaklari qonga çiqargan laktatni yurak qöşimça energiya manbai sifatida iste’mol qiladi.",
       "depth": 0
      }
     ],
@@ -741,7 +741,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Pentoza fosfat yo’li",
+    "text": "Pentoza fosfat yöli",
     "id": "ch68-s-37-pentoza-fosfat-yoli",
     "bid": "ch68-u37"
    },
@@ -750,15 +750,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Fosfoglyukonat yo’li deb ham ataladi.",
+      "text": "Fosfoglyukonat yöli deb ham ataladi.",
       "depth": 0
      },
      {
-      "text": "Jigarda glyukoza parchalanishining 30% gacha, yog' hujayralarida undan ham ko’p.",
+      "text": "Jigarda glyukoza parçalanişining 30% gaça, yoğ hujayralarida undan ham köp.",
       "depth": 0
      },
      {
-      "text": "Krebs sikli fermentlaridan mustaqil energiya beradi. Ba’zi fermentativ anomaliyalarda muqobil yo’l. Sintez jarayonlari uchun alohida ahamiyatga ega.",
+      "text": "Krebs sikli fermentlaridan mustaqil energiya beradi. Ba’zi fermentativ anomaliyalarda muqobil yöl. Sintez jarayonlari uçun alohida ahamiyatga ega.",
       "depth": 0
      },
      {
@@ -766,7 +766,7 @@
       "depth": 0
      },
      {
-      "text": "Keyin 5, 4, 7 va 3 uglerodli shakarlarga aylanadi va qayta glyukoza sintezlanadi. Har 6 glyukozadan 5 tasi qayta hosil bo’ladi, ya’ni har aylanishda 1 glyukoza parchalanadi.",
+      "text": "Keyin 5, 4, 7 va 3 uglerodli şakarlarga aylanadi va qayta glyukoza sintezlanadi. Har 6 glyukozadan 5 tasi qayta hosil böladi, ya’ni har aylanişda 1 glyukoza parçalanadi.",
       "depth": 0
      },
      {
@@ -774,15 +774,15 @@
       "depth": 0
      },
      {
-      "text": "**NADP⁺:** vodorod NAD⁺ ga emas, NADP⁺ ga (qo’shimcha fosfat radikali bor) birikadi.",
+      "text": "**NADP⁺:** vodorod NAD⁺ ga emas, NADP⁺ ga (qöşimça fosfat radikali bor) birikadi.",
       "depth": 0
      },
      {
-      "text": "Faqat NADPH shaklidagi vodorod uglevodlardan yog' sintezida (69-bob) va boshqa sintezlarda ishlatiladi.",
+      "text": "Faqat NADPH şaklidagi vodorod uglevodlardan yoğ sintezida (69-bob) va boşqa sintezlarda işlatiladi.",
       "depth": 1
      },
      {
-      "text": "Hujayra faolligi kamayib glikoliz sekinlashganda, pentoza yo’li (asosan jigarda) ortiqcha glyukozani parchalaydi. Ko’p NADPH hosil bo’lib, atsetil-KoA dan uzun yog' kislotalari zanjirlarini sintezlashga yordam beradi.",
+      "text": "Hujayra faolligi kamayib glikoliz sekinlaşganda, pentoza yöli (asosan jigarda) ortiqça glyukozani parçalaydi. Köp NADPH hosil bölib, atsetil-KoA dan uzun yoğ kislotalari zanjirlarini sintezlaşga yordam beradi.",
       "depth": 1
      }
     ],
@@ -791,7 +791,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Glyukozaning glikogen yoki yog’ga aylanishi",
+    "text": "Glyukozaning glikogen yoki yoğga aylanişi",
     "id": "ch68-s-39-glyukozaning-glikogen-yoki-yogga-aylanishi",
     "bid": "ch68-u39"
    },
@@ -800,11 +800,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Darhol kerak bo’lmagan glyukoza avval glikogen sifatida saqlanadi. Bu tananing faqat 12–24 soatlik energiya ehtiyojiga yetadi.",
+      "text": "Darhol kerak bölmagan glyukoza avval glikogen sifatida saqlanadi. Bu tananing faqat 12–24 soatlik energiya ehtiyojiga yetadi.",
       "depth": 0
      },
      {
-      "text": "Jigar va mushak glikogen bilan to’yinsa, qo’shimcha glyukoza jigar va yog' hujayralarida yog’ga aylanadi va yog' hujayralarida saqlanadi (69-bob).",
+      "text": "Jigar va muşak glikogen bilan töyinsa, qöşimça glyukoza jigar va yoğ hujayralarida yoğga aylanadi va yoğ hujayralarida saqlanadi (69-bob).",
       "depth": 0
      }
     ],
@@ -822,19 +822,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Uglevod zaxirasi kamayganda aminokislotalar va yog’ning glitserin qismidan glyukoza hosil bo’lishi.",
+      "text": "Uglevod zaxirasi kamayganda aminokislotalar va yoğning glitserin qismidan glyukoza hosil bölişi.",
       "depth": 0
      },
      {
-      "text": "Ochlikda qon glyukozasining keskin pasayishini oldini olish uchun muhim. Miya va eritrotsitlarning asosiy substrati glyukoza.",
+      "text": "Oçlikda qon glyukozasining keskin pasayişini oldini oliş uçun muhim. Miya va eritrotsitlarning asosiy substrati glyukoza.",
       "depth": 0
      },
      {
-      "text": "Ochlikda jigar qon glyukozasini glikogenoliz va glyukoneogenez (asosan laktat va aminokislotalardan) bilan ushlab turadi. Jigar glyukoza ishlab chiqarishining taxminan 25% glyukoneogenezdan.",
+      "text": "Oçlikda jigar qon glyukozasini glikogenoliz va glyukoneogenez (asosan laktat va aminokislotalardan) bilan uşlab turadi. Jigar glyukoza işlab çiqarişining taxminan 25% glyukoneogenezdan.",
       "depth": 0
      },
      {
-      "text": "Uzoq ochlikda buyraklar ham aminokislotalar va boshqa prekursorlardan ko’p glyukoza sintezlaydi.",
+      "text": "Uzoq oçlikda buyraklar ham aminokislotalar va boşqa prekursorlardan köp glyukoza sintezlaydi.",
       "depth": 0
      },
      {
@@ -842,11 +842,11 @@
       "depth": 0
      },
      {
-      "text": "Masalan, alanin dezaminlanib to’g’ridan-to’g’ri piruvatga aylanadi.",
+      "text": "Masalan, alanin dezaminlanib töğridan-töğri piruvatga aylanadi.",
       "depth": 1
      },
      {
-      "text": "Murakkabroqlari 3, 4, 5, 7 uglerodli shakarlarga aylanib, fosfoglyukonat yo’liga kiradi.",
+      "text": "Murakkabroqlari 3, 4, 5, 7 uglerodli şakarlarga aylanib, fosfoglyukonat yöliga kiradi.",
       "depth": 1
      },
      {
@@ -858,7 +858,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Boshqarish:**",
+    "text": "**Boşqariş:**",
     "bid": "ch68-u43"
    },
    {
@@ -866,7 +866,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Asosiy stimullar hujayralarda uglevod kamayishi va qon qandining pasayishi. Bunda ko’p glikolitik va fosfoglyukonat reaksiyalari teskari ketadi.",
+      "text": "Asosiy stimullar hujayralarda uglevod kamayişi va qon qandining pasayişi. Bunda köp glikolitik va fosfoglyukonat reaksiyalari teskari ketadi.",
       "depth": 0
      },
      {
@@ -874,19 +874,19 @@
       "depth": 0
      },
      {
-      "text": "Uglevod yetishmaganda adenogipofiz (sababi to’liq aniq emas) ko’proq ACTH ajratadi.",
+      "text": "Uglevod yetişmaganda adenogipofiz (sababi töliq aniq emas) köproq ACTH ajratadi.",
       "depth": 1
      },
      {
-      "text": "ACTH buyrak usti po’stlog’idan glyukokortikoidlar, ayniqsa **kortizol** ajratadi.",
+      "text": "ACTH buyrak usti pöstloğidan glyukokortikoidlar, ayniqsa **kortizol** ajratadi.",
       "depth": 1
      },
      {
-      "text": "Kortizol deyarli barcha hujayralardan oqsillarni safarbar qiladi va aminokislotalar suyuqliklarga chiqadi.",
+      "text": "Kortizol deyarli barça hujayralardan oqsillarni safarbar qiladi va aminokislotalar suyuqliklarga çiqadi.",
       "depth": 1
      },
      {
-      "text": "Ularning katta qismi jigarda darhol dezaminlanadi va glyukoza uchun ideal substrat bo’ladi.",
+      "text": "Ularning katta qismi jigarda darhol dezaminlanadi va glyukoza uçun ideal substrat böladi.",
       "depth": 1
      }
     ],
@@ -908,11 +908,11 @@
       "depth": 0
      },
      {
-      "text": "Ko’p uglevodli ovqatdan keyin diabet bo’lmasa kamdan-kam 140 mg/dl dan oshadi.",
+      "text": "Köp uglevodli ovqatdan keyin diabet bölmasa kamdan-kam 140 mg/dl dan oşadi.",
       "depth": 0
      },
      {
-      "text": "Insulin va glyukagon bilan boshqariladi (79-bob).",
+      "text": "Insulin va glyukagon bilan boşqariladi (79-bob).",
       "depth": 0
      }
     ],
@@ -930,23 +930,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "Insulin tashilishni boshqaradi. Jigar va miyaga glyukoza insulinsiz kiradi.",
+      "text": "Insulin taşilişni boşqaradi. Jigar va miyaga glyukoza insulinsiz kiradi.",
       "depth": 0
      },
      {
-      "text": "Anaerob glikolizda laktat to’planadi. Kislorod qaytganda u qayta ishlanadi, yurak laktatni yoqadi.",
+      "text": "Anaerob glikolizda laktat töplanadi. Kislorod qaytganda u qayta işlanadi, yurak laktatni yoqadi.",
       "depth": 0
      },
      {
-      "text": "Pentoza yo’li va NADPH yog' sintezi uchun.",
+      "text": "Pentoza yöli va NADPH yoğ sintezi uçun.",
       "depth": 0
      },
      {
-      "text": "Kortizol glyukoneogenezni kuchaytiradi.",
+      "text": "Kortizol glyukoneogenezni kuçaytiradi.",
       "depth": 0
      },
      {
-      "text": "Normal qon glyukozasi: och qoringa 90 mg/dl, ovqatdan keyin 140 mg/dl dan oshmaydi. Diabet 79-bobda.",
+      "text": "Normal qon glyukozasi: oç qoringa 90 mg/dl, ovqatdan keyin 140 mg/dl dan oşmaydi. Diabet 79-bobda.",
       "depth": 0
      }
     ],
@@ -955,13 +955,13 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Bog’liqlik",
+    "text": "Boğliqlik",
     "id": "ch68-s-49-bogliqlik",
     "bid": "ch68-u49"
    },
    {
     "type": "paragraph",
-    "text": "4 (yengillashtirilgan diffuziya), 41 (CO₂ tashilishi), 61 (epinefrin), 66 (so’rilish), 69 (yog' sintezi), 70 (oqsillar), 73 (energetika), 77 (kortizol), 79 (insulin, glyukagon).",
+    "text": "4 (yengillaştirilgan diffuziya), 41 (CO₂ taşilişi), 61 (epinefrin), 66 (söriliş), 69 (yoğ sintezi), 70 (oqsillar), 73 (energetika), 77 (kortizol), 79 (insulin, glyukagon).",
     "bid": "ch68-u50"
    }
   ],
@@ -1624,9 +1624,9 @@
  "glossary": [
   {
    "id": "ch68-t-boglangan-coupled-reaksiyalar",
-   "termUz": "Bog’langan (coupled) reaksiyalar",
+   "termUz": "Boğlangan (coupled) reaksiyalar",
    "original": null,
-   "contextUz": "Bog’langan (coupled) reaksiyalar: Uglevod, yog' va oqsil hujayrada oksidlanib ko’p energiya beradi.",
+   "contextUz": "Boğlangan (coupled) reaksiyalar: Uglevod, yoğ va oqsil hujayrada oksidlanib köp energiya beradi.",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",
@@ -1636,7 +1636,7 @@
    "id": "ch68-t-erkin-energiya-g",
    "termUz": "Erkin energiya (ΔG)",
    "original": null,
-   "contextUz": "Erkin energiya (ΔG): ovqat to’liq oksidlanganda ajraladigan energiya, kal/mol da ifodalanadi.",
+   "contextUz": "Erkin energiya (ΔG): ovqat töliq oksidlanganda ajraladigan energiya, kal/mol da ifodalanadi.",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",
@@ -1644,9 +1644,9 @@
   },
   {
    "id": "ch68-t-yuqori-energiyali-boglar",
-   "termUz": "yuqori energiyali bog’lar",
+   "termUz": "yuqori energiyali boğlar",
    "original": null,
-   "contextUz": "Oxirgi ikki fosfat yuqori energiyali bog’lar (∼) bilan bog’langan.",
+   "contextUz": "Oxirgi ikki fosfat yuqori energiyali boğlar (∼) bilan boğlangan.",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",
@@ -1656,7 +1656,7 @@
    "id": "ch68-t-glyukoza-fosfataza",
    "termUz": "glyukoza fosfataza",
    "original": null,
-   "contextUz": "Jigar qonga chiqarganda deyarli faqat glyukoza chiqadi, chunki jigarda ko’p glyukoza fosfataza bor: glyukoza-6-fosfat glyukoza va fosfatga parchalanadi, glyukoza qonga o’tadi.",
+   "contextUz": "Jigar qonga çiqarganda deyarli faqat glyukoza çiqadi, çunki jigarda köp glyukoza fosfataza bor: glyukoza-6-fosfat glyukoza va fosfatga parçalanadi, glyukoza qonga ötadi.",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",
@@ -1664,9 +1664,9 @@
   },
   {
    "id": "ch68-t-membrana-orqali-tashilish",
-   "termUz": "Membrana orqali tashilish",
+   "termUz": "Membrana orqali taşiliş",
    "original": null,
-   "contextUz": "Membrana orqali tashilish:",
+   "contextUz": "Membrana orqali taşiliş:",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",
@@ -1674,9 +1674,9 @@
   },
   {
    "id": "ch68-t-yengillashtirilgan-diffuziya",
-   "termUz": "yengillashtirilgan diffuziya",
+   "termUz": "yengillaştirilgan diffuziya",
    "original": null,
-   "contextUz": "Oqsil tashuvchilar orqali yengillashtirilgan diffuziya bilan o’tadi, faqat yuqori konsentratsiyadan pastga.",
+   "contextUz": "Oqsil taşuvçilar orqali yengillaştirilgan diffuziya bilan ötadi, faqat yuqori konsentratsiyadan pastga.",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",
@@ -1694,9 +1694,9 @@
   },
   {
    "id": "ch68-t-fosforillanish",
-   "termUz": "Fosforillanish",
+   "termUz": "Fosforillaniş",
    "original": null,
-   "contextUz": "Fosforillanish:",
+   "contextUz": "Fosforillaniş:",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",
@@ -1706,7 +1706,7 @@
    "id": "ch68-t-glyukokinaza",
    "termUz": "glyukokinaza",
    "original": null,
-   "contextUz": "Jigarda glyukokinaza, boshqa hujayralarda geksokinaza katalizlaydi.",
+   "contextUz": "Jigarda glyukokinaza, boşqa hujayralarda geksokinaza katalizlaydi.",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",
@@ -1716,7 +1716,7 @@
    "id": "ch68-t-geksokinaza",
    "termUz": "geksokinaza",
    "original": null,
-   "contextUz": "Jigarda glyukokinaza, boshqa hujayralarda geksokinaza katalizlaydi.",
+   "contextUz": "Jigarda glyukokinaza, boşqa hujayralarda geksokinaza katalizlaydi.",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",
@@ -1746,7 +1746,7 @@
    "id": "ch68-t-fosforilaza",
    "termUz": "fosforilaza",
    "original": null,
-   "contextUz": "Har bir shoxdagi glyukoza fosforilaza yordamida fosforillanib ajratiladi.",
+   "contextUz": "Har bir şoxdagi glyukoza fosforilaza yordamida fosforillanib ajratiladi.",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",
@@ -1756,7 +1756,7 @@
    "id": "ch68-t-epinefrin",
    "termUz": "Epinefrin",
    "original": null,
-   "contextUz": "Epinefrin va glyukagon cAMP orqali reaksiyalar kaskadini boshlab, fosforilazani faollashtiradi.",
+   "contextUz": "Epinefrin va glyukagon cAMP orqali reaksiyalar kaskadini boşlab, fosforilazani faollaştiradi.",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",
@@ -1766,7 +1766,7 @@
    "id": "ch68-t-glyukagon",
    "termUz": "glyukagon",
    "original": null,
-   "contextUz": "Epinefrin va glyukagon cAMP orqali reaksiyalar kaskadini boshlab, fosforilazani faollashtiradi.",
+   "contextUz": "Epinefrin va glyukagon cAMP orqali reaksiyalar kaskadini boşlab, fosforilazani faollaştiradi.",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",
@@ -1776,7 +1776,7 @@
    "id": "ch68-t-38-mol-atp",
    "termUz": "38 mol ATP",
    "original": null,
-   "contextUz": "Hujayralar glyukozani ko’p bosqichda asta parchalaydi va 1 mol glyukozadan jami 38 mol ATP hosil qiladi.",
+   "contextUz": "Hujayralar glyukozani köp bosqiçda asta parçalaydi va 1 mol glyukozadan jami 38 mol ATP hosil qiladi.",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",
@@ -1786,7 +1786,7 @@
    "id": "ch68-t-glikoliz",
    "termUz": "Glikoliz",
    "original": null,
-   "contextUz": "Glikoliz glyukozaning ikki molekula piruvat ga parchalanishi.",
+   "contextUz": "Glikoliz glyukozaning ikki molekula piruvat ga parçalanişi.",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",
@@ -1796,7 +1796,7 @@
    "id": "ch68-t-piruvat",
    "termUz": "piruvat",
    "original": null,
-   "contextUz": "Glikoliz glyukozaning ikki molekula piruvat ga parchalanishi.",
+   "contextUz": "Glikoliz glyukozaning ikki molekula piruvat ga parçalanişi.",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",
@@ -1846,7 +1846,7 @@
    "id": "ch68-t-vodorod-ionlanadi",
    "termUz": "Vodorod ionlanadi",
    "original": null,
-   "contextUz": "Mitoxondriyada bo’ladi: Vodorod ionlanadi: Juft H dan biri darhol H⁺ bo’ladi, ikkinchisi NAD⁺ bilan NADH hosil qiladi.",
+   "contextUz": "Mitoxondriyada böladi: Vodorod ionlanadi: Juft H dan biri darhol H⁺ böladi, ikkinçisi NAD⁺ bilan NADH hosil qiladi.",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",
@@ -1854,9 +1854,9 @@
   },
   {
    "id": "ch68-t-elektron-tashish-zanjiri",
-   "termUz": "Elektron tashish zanjiri",
+   "termUz": "Elektron taşiş zanjiri",
    "original": null,
-   "contextUz": "Elektron tashish zanjiri: Elektronlar mitoxondriya ichki membranasidagi akseptorlar zanjiriga o’tadi.",
+   "contextUz": "Elektron taşiş zanjiri: Elektronlar mitoxondriya içki membranasidagi akseptorlar zanjiriga ötadi.",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",
@@ -1876,7 +1876,7 @@
    "id": "ch68-t-h-nasosi",
    "termUz": "H⁺ nasosi",
    "original": null,
-   "contextUz": "H⁺ nasosi: Zanjirda ajralgan energiya H⁺ ni matritsadan ichki va tashqi membranalar orasidagi tashqi kameraga haydaydi.",
+   "contextUz": "H⁺ nasosi: Zanjirda ajralgan energiya H⁺ ni matritsadan içki va taşqi membranalar orasidagi taşqi kameraga haydaydi.",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",
@@ -1886,7 +1886,7 @@
    "id": "ch68-t-atp-sintetaza",
    "termUz": "ATP sintetaza",
    "original": null,
-   "contextUz": "ATP sintetaza: Ichki membranadan o’tib, matritsaga tugmasimon boshi bilan chiqib turgan katta ATPaza oqsili.",
+   "contextUz": "ATP sintetaza: Içki membranadan ötib, matritsaga tugmasimon boşi bilan çiqib turgan katta ATPaza oqsili.",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",
@@ -1896,7 +1896,7 @@
    "id": "ch68-t-sof-2",
    "termUz": "sof 2",
    "original": null,
-   "contextUz": "Glikoliz: 4 ATP hosil bo’ladi, 2 sarflanadi, sof 2.",
+   "contextUz": "Glikoliz: 4 ATP hosil böladi, 2 sarflanadi, sof 2.",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",
@@ -1906,7 +1906,7 @@
    "id": "ch68-t-2-atp",
    "termUz": "2 ATP",
    "original": null,
-   "contextUz": "Krebs sikli: har aylanishda 1, bir glyukozaga 2 aylanish, 2 ATP.",
+   "contextUz": "Krebs sikli: har aylanişda 1, bir glyukozaga 2 aylaniş, 2 ATP.",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",
@@ -1916,7 +1916,7 @@
    "id": "ch68-t-30-atp",
    "termUz": "30 ATP",
    "original": null,
-   "contextUz": "24 H dan 20 tasi to’liq xemiosmotik zanjirda: har 2 H ga 3 ATP, 30 ATP.",
+   "contextUz": "24 H dan 20 tasi töliq xemiosmotik zanjirda: har 2 H ga 3 ATP, 30 ATP.",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",
@@ -1926,7 +1926,7 @@
    "id": "ch68-t-4-atp",
    "termUz": "4 ATP",
    "original": null,
-   "contextUz": "Qolgan 4 H zanjirga birinchi bosqichdan keyin kiradi: har 2 H ga 2 ATP, 4 ATP.",
+   "contextUz": "Qolgan 4 H zanjirga birinçi bosqiçdan keyin kiradi: har 2 H ga 2 ATP, 4 ATP.",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",
@@ -1956,7 +1956,7 @@
    "id": "ch68-t-fosfofruktokinaza",
    "termUz": "Fosfofruktokinaza",
    "original": "fruktoza-1,6-difosfat hosil qiluvchi ferment",
-   "contextUz": "Fosfofruktokinaza (fruktoza-1,6-difosfat hosil qiluvchi ferment): Ortiqcha ATP uni tormozlaydi, glikoliz va uglevod metabolizmi sekinlashadi yoki to’xtaydi.",
+   "contextUz": "Fosfofruktokinaza (fruktoza-1,6-difosfat hosil qiluvçi ferment): Ortiqça ATP uni tormozlaydi, glikoliz va uglevod metabolizmi sekinlaşadi yoki töxtaydi.",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",
@@ -1966,7 +1966,7 @@
    "id": "ch68-t-sitrat",
    "termUz": "Sitrat",
    "original": null,
-   "contextUz": "Sitrat ortiqcha bo’lsa ham fosfofruktokinazani kuchli tormozlaydi.",
+   "contextUz": "Sitrat ortiqça bölsa ham fosfofruktokinazani kuçli tormozlaydi.",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",
@@ -1974,9 +1974,9 @@
   },
   {
    "id": "ch68-t-laktat-hosil-bolishi",
-   "termUz": "Laktat hosil bo’lishi",
+   "termUz": "Laktat hosil bölişi",
    "original": null,
-   "contextUz": "Laktat hosil bo’lishi:",
+   "contextUz": "Laktat hosil bölişi:",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",
@@ -1994,9 +1994,9 @@
   },
   {
    "id": "ch68-t-yurak-mushagi",
-   "termUz": "Yurak mushagi",
+   "termUz": "Yurak muşagi",
    "original": null,
-   "contextUz": "Yurak mushagi laktatni piruvatga aylantirib energiya uchun yaxshi ishlatadi.",
+   "contextUz": "Yurak muşagi laktatni piruvatga aylantirib energiya uçun yaxşi işlatadi.",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",
@@ -2006,7 +2006,7 @@
    "id": "ch68-t-nadp",
    "termUz": "NADP⁺",
    "original": null,
-   "contextUz": "NADP⁺: vodorod NAD⁺ ga emas, NADP⁺ ga (qo’shimcha fosfat radikali bor) birikadi.",
+   "contextUz": "NADP⁺: vodorod NAD⁺ ga emas, NADP⁺ ga (qöşimça fosfat radikali bor) birikadi.",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",
@@ -2014,9 +2014,9 @@
   },
   {
    "id": "ch68-t-boshqarish",
-   "termUz": "Boshqarish",
+   "termUz": "Boşqariş",
    "original": null,
-   "contextUz": "Boshqarish:",
+   "contextUz": "Boşqariş:",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",
@@ -2026,7 +2026,7 @@
    "id": "ch68-t-acth-va-glyukokortikoidlar",
    "termUz": "ACTH va glyukokortikoidlar",
    "original": null,
-   "contextUz": "ACTH va glyukokortikoidlar: Uglevod yetishmaganda adenogipofiz (sababi to’liq aniq emas) ko’proq ACTH ajratadi.",
+   "contextUz": "ACTH va glyukokortikoidlar: Uglevod yetişmaganda adenogipofiz (sababi töliq aniq emas) köproq ACTH ajratadi.",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",
@@ -2036,7 +2036,7 @@
    "id": "ch68-t-kortizol",
    "termUz": "kortizol",
    "original": null,
-   "contextUz": "ACTH buyrak usti po’stlog’idan glyukokortikoidlar, ayniqsa kortizol ajratadi.",
+   "contextUz": "ACTH buyrak usti pöstloğidan glyukokortikoidlar, ayniqsa kortizol ajratadi.",
    "lessonId": "ch68",
    "topicId": "13",
    "source": "summaryUz",

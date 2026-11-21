@@ -1,0 +1,917 @@
+{
+ "origin": "Claude (DrStudy sessiyasi) — kitobning özbekça izohlari (Guyton & Hall, 14-naşr) asosida, 2026-11-17. Ekspert tekşiruvi kerak.",
+ "questions": [
+  {
+   "id": "q01-c01-01",
+   "version": 1,
+   "topicId": "01",
+   "lessonId": "ch01",
+   "stem": "Organizmning \"içki muhiti\" (milieu intérieur) deb nimaga aytiladi?",
+   "options": [
+    {
+     "id": "q01-c01-01-a",
+     "text": "Orqa miya suyuqligiga"
+    },
+    {
+     "id": "q01-c01-01-b",
+     "text": "Hujayra içidagi suyuqlikka (ICF)"
+    },
+    {
+     "id": "q01-c01-01-c",
+     "text": "Hujayradan taşqari suyuqlikka (ECF)"
+    },
+    {
+     "id": "q01-c01-01-d",
+     "text": "Faqat qon plazmasiga"
+    }
+   ],
+   "answerOptionId": "q01-c01-01-c",
+   "explanation": "Claude Bernard içki muhit deb hujayralarni örab turgan hujayradan taşqari suyuqlikni (ECF) atagan; barça a’zolar uning doimiyligini saqlaşga xizmat qiladi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch01",
+    "topicId": "01",
+    "blockId": "ch01-u1",
+    "printedPage": 3,
+    "pdfPage": 8,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q01-c01-02",
+   "version": 1,
+   "topicId": "01",
+   "lessonId": "ch01",
+   "stem": "Kattalar tanasidagi suyuqlikning taxminan qança qismi hujayra içida joylaşgan?",
+   "options": [
+    {
+     "id": "q01-c01-02-a",
+     "text": "~1/2 qismi"
+    },
+    {
+     "id": "q01-c01-02-b",
+     "text": "~1/10 qismi"
+    },
+    {
+     "id": "q01-c01-02-c",
+     "text": "~2/3 qismi"
+    },
+    {
+     "id": "q01-c01-02-d",
+     "text": "~1/3 qismi"
+    }
+   ],
+   "answerOptionId": "q01-c01-02-c",
+   "explanation": "Tana suyuqligining ~2/3 qismi hujayra içida (ICF), ~1/3 qismi hujayradan taşqarida (ECF).",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch01",
+    "topicId": "01",
+    "blockId": "ch01-u3",
+    "printedPage": 3,
+    "pdfPage": 8,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q01-c01-03",
+   "version": 1,
+   "topicId": "01",
+   "lessonId": "ch01",
+   "stem": "Qaysi ionlar asosan hujayra içidagi suyuqlikda (ICF) köp böladi?",
+   "options": [
+    {
+     "id": "q01-c01-03-a",
+     "text": "K⁺, Mg²⁺ va fosfat"
+    },
+    {
+     "id": "q01-c01-03-b",
+     "text": "Na⁺ va glyukoza"
+    },
+    {
+     "id": "q01-c01-03-c",
+     "text": "Na⁺, Cl⁻ va HCO₃⁻"
+    },
+    {
+     "id": "q01-c01-03-d",
+     "text": "Ca²⁺ va Cl⁻"
+    }
+   ],
+   "answerOptionId": "q01-c01-03-a",
+   "explanation": "ECF da Na⁺, Cl⁻, HCO₃⁻ köp; ICF da esa K⁺, Mg²⁺ va fosfat ustun.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch01",
+    "topicId": "01",
+    "blockId": "ch01-u3",
+    "printedPage": 3,
+    "pdfPage": 8,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q01-c01-04",
+   "version": 1,
+   "topicId": "01",
+   "lessonId": "ch01",
+   "stem": "Baroreseptor refleksida arterial bosim oşganda nima yuz beradi?",
+   "options": [
+    {
+     "id": "q01-c01-04-a",
+     "text": "Simpatik faollik oşib, tomirlar torayadi"
+    },
+    {
+     "id": "q01-c01-04-b",
+     "text": "Nafas markazi qözğaladi va bosim pasayadi"
+    },
+    {
+     "id": "q01-c01-04-c",
+     "text": "Yurak qisqariş kuçi oşadi"
+    },
+    {
+     "id": "q01-c01-04-d",
+     "text": "Vazomotor markaz tormozlanadi, simpatik faollik kamayadi va bosim pasayadi"
+    }
+   ],
+   "answerOptionId": "q01-c01-04-d",
+   "explanation": "Uyqu arteriyasi va aorta ravoğidagi çöziliş reseptorlari uzunçoq miyaga signal beradi → vazomotor markaz tormozlanadi → tomirlar kengayadi, yurak kuçi kamayadi → bosim pasayadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch01",
+    "topicId": "01",
+    "blockId": "ch01-u9",
+    "printedPage": 3,
+    "pdfPage": 8,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q01-c01-05",
+   "version": 1,
+   "topicId": "01",
+   "lessonId": "ch01",
+   "stem": "Bosim 100→175 mm Hg ga oşişi kerak bölgan holatda baroreseptorlar bilan u faqat 25 mm Hg ga oşdi. Tizimning kuçaytiriş koeffitsienti (gain) qança?",
+   "options": [
+    {
+     "id": "q01-c01-05-a",
+     "text": "−2"
+    },
+    {
+     "id": "q01-c01-05-b",
+     "text": "−3"
+    },
+    {
+     "id": "q01-c01-05-c",
+     "text": "−33"
+    },
+    {
+     "id": "q01-c01-05-d",
+     "text": "−0,5"
+    }
+   ],
+   "answerOptionId": "q01-c01-05-a",
+   "explanation": "Gain = tuzatiş / qolgan xato = −50 / +25 = −2. Harorat nazoratining gain qiymati esa ≈ −33.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch01",
+    "topicId": "01",
+    "blockId": "ch01-u13",
+    "printedPage": 3,
+    "pdfPage": 8,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q01-c01-06",
+   "version": 1,
+   "topicId": "01",
+   "lessonId": "ch01",
+   "stem": "Organizmdagi nazorat tizimlarining köpçiligi qaysi tamoyil asosida işlaydi?",
+   "options": [
+    {
+     "id": "q01-c01-06-a",
+     "text": "Manfiy qayta aloqa"
+    },
+    {
+     "id": "q01-c01-06-b",
+     "text": "Oldindan boşqariş (feed-forward)"
+    },
+    {
+     "id": "q01-c01-06-c",
+     "text": "Musbat qayta aloqa"
+    },
+    {
+     "id": "q01-c01-06-d",
+     "text": "Adaptiv nazorat"
+    }
+   ],
+   "answerOptionId": "q01-c01-06-a",
+   "explanation": "Köpçilik tizimlarda oğiş uni bartaraf etuvçi javobni çaqiradi — bu manfiy qayta aloqa.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch01",
+    "topicId": "01",
+    "blockId": "ch01-u13",
+    "printedPage": 3,
+    "pdfPage": 8,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q01-c01-07",
+   "version": 1,
+   "topicId": "01",
+   "lessonId": "ch01",
+   "stem": "Quyidagilardan qaysi biri foydali musbat qayta aloqaga misol böladi?",
+   "options": [
+    {
+     "id": "q01-c01-07-a",
+     "text": "Tuğruq paytida baçadon böyni çözilişining qisqarişni kuçaytirişi"
+    },
+    {
+     "id": "q01-c01-07-b",
+     "text": "CO₂ oşganda nafasning tezlaşişi"
+    },
+    {
+     "id": "q01-c01-07-c",
+     "text": "Tana haroratining terlaş orqali tuşirilişi"
+    },
+    {
+     "id": "q01-c01-07-d",
+     "text": "Baroreseptor refleksi"
+    }
+   ],
+   "answerOptionId": "q01-c01-07-a",
+   "explanation": "Musbat qayta aloqaning foydali misollari: qon ivişi, tuğruq (baçadon böyni çözilişi → kuçliroq qisqariş) va nerv impulsidagi Na⁺ kanallarining oçilişi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch01",
+    "topicId": "01",
+    "blockId": "ch01-u13",
+    "printedPage": 3,
+    "pdfPage": 8,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q01-c01-08",
+   "version": 1,
+   "topicId": "01",
+   "lessonId": "ch01",
+   "stem": "Qondagi Ca²⁺ konsentratsiyasi me’yorning yarmidan pastga tuşsa qanday holat kuzatiladi?",
+   "options": [
+    {
+     "id": "q01-c01-08-a",
+     "text": "Atsidoz"
+    },
+    {
+     "id": "q01-c01-08-b",
+     "text": "Tetaniya"
+    },
+    {
+     "id": "q01-c01-08-c",
+     "text": "Falaj"
+    },
+    {
+     "id": "q01-c01-08-d",
+     "text": "Yurak depressiyasi"
+    }
+   ],
+   "answerOptionId": "q01-c01-08-b",
+   "explanation": "Table 1-1 böyiça: Ca²⁺ yarmidan pastda — tetaniya; K⁺ 1/3 dan pastda — falaj; K⁺ 2 baravardan oşsa — yurak depressiyasi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch01",
+    "topicId": "01",
+    "blockId": "ch01-u9",
+    "printedPage": 3,
+    "pdfPage": 8,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q01-c02-01",
+   "version": 1,
+   "topicId": "01",
+   "lessonId": "ch02",
+   "stem": "Hujayra energiyasining qança qismi mitoxondriyada ATP sifatida hosil böladi?",
+   "options": [
+    {
+     "id": "q01-c02-01-a",
+     "text": "~75%"
+    },
+    {
+     "id": "q01-c02-01-b",
+     "text": "~50%"
+    },
+    {
+     "id": "q01-c02-01-c",
+     "text": "~5%"
+    },
+    {
+     "id": "q01-c02-01-d",
+     "text": ">95%"
+    }
+   ],
+   "answerOptionId": "q01-c02-01-d",
+   "explanation": "Hujayra energiyasining 95% dan ortiği mitoxondriyada hosil böladi; glikoliz 5% dan kamini beradi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch02",
+    "topicId": "01",
+    "blockId": "ch02-u1",
+    "printedPage": 12,
+    "pdfPage": 17,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q01-c02-02",
+   "version": 1,
+   "topicId": "01",
+   "lessonId": "ch02",
+   "stem": "Hujayra membranasining tarkibida qaysi komponent eng köp?",
+   "options": [
+    {
+     "id": "q01-c02-02-a",
+     "text": "Fosfolipid (~55%)"
+    },
+    {
+     "id": "q01-c02-02-b",
+     "text": "Xolesterin (~40%)"
+    },
+    {
+     "id": "q01-c02-02-c",
+     "text": "Oqsil (~55%)"
+    },
+    {
+     "id": "q01-c02-02-d",
+     "text": "Uglevod (~25%)"
+    }
+   ],
+   "answerOptionId": "q01-c02-02-c",
+   "explanation": "Membrana: 55% oqsil, 25% fosfolipid, 13% xolesterin, 4% boşqa lipid, 3% uglevod.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch02",
+    "topicId": "01",
+    "blockId": "ch02-u7",
+    "printedPage": 12,
+    "pdfPage": 17,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q01-c02-03",
+   "version": 1,
+   "topicId": "01",
+   "lessonId": "ch02",
+   "stem": "Qaysi moddalar lipid ikki qavati orqali oson ötadi?",
+   "options": [
+    {
+     "id": "q01-c02-03-a",
+     "text": "Oqsillar"
+    },
+    {
+     "id": "q01-c02-03-b",
+     "text": "Moçevina va ionlar"
+    },
+    {
+     "id": "q01-c02-03-c",
+     "text": "O₂, CO₂ va spirt kabi yoğda eruvçi moddalar"
+    },
+    {
+     "id": "q01-c02-03-d",
+     "text": "Ionlar va glyukoza"
+    }
+   ],
+   "answerOptionId": "q01-c02-03-c",
+   "explanation": "Lipid ikki qavati suvda eruvçi moddalarni (ionlar, glyukoza, moçevina) ötkazmaydi, yoğda eruvçilar (O₂, CO₂, spirt) esa oson ötadi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch02",
+    "topicId": "01",
+    "blockId": "ch02-u7",
+    "printedPage": 12,
+    "pdfPage": 17,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q01-c02-04",
+   "version": 1,
+   "topicId": "01",
+   "lessonId": "ch02",
+   "stem": "Silliq endoplazmatik törning asosiy vazifalaridan biri qaysi?",
+   "options": [
+    {
+     "id": "q01-c02-04-a",
+     "text": "Ribosomalar yordamida oqsil sintezi"
+    },
+    {
+     "id": "q01-c02-04-b",
+     "text": "ATP sintezi"
+    },
+    {
+     "id": "q01-c02-04-c",
+     "text": "Lizosomalarni hosil qiliş"
+    },
+    {
+     "id": "q01-c02-04-d",
+     "text": "Lipid sintezi va dori-zaharlarni zararsizlantiriş"
+    }
+   ],
+   "answerOptionId": "q01-c02-04-d",
+   "explanation": "Silliq ER lipid sintezlaydi, glikogen parçalovçi fermentlarga ega va dori-zaharlarni zararsizlantiradi. Oqsil sintezi donador ERda böladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch02",
+    "topicId": "01",
+    "blockId": "ch02-u10",
+    "printedPage": 12,
+    "pdfPage": 17,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q01-c02-05",
+   "version": 1,
+   "topicId": "01",
+   "lessonId": "ch02",
+   "stem": "Lizosomalar içidagi muhit pH qiymati taxminan qança?",
+   "options": [
+    {
+     "id": "q01-c02-05-a",
+     "text": "~8"
+    },
+    {
+     "id": "q01-c02-05-b",
+     "text": "~5"
+    },
+    {
+     "id": "q01-c02-05-c",
+     "text": "~7,4"
+    },
+    {
+     "id": "q01-c02-05-d",
+     "text": "~2"
+    }
+   ],
+   "answerOptionId": "q01-c02-05-b",
+   "explanation": "Lizosomalar 250–750 nm kattalikda, 40 gaça gidrolaza saqlaydi, içki pH ~5.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch02",
+    "topicId": "01",
+    "blockId": "ch02-u10",
+    "printedPage": 12,
+    "pdfPage": 17,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q01-c02-06",
+   "version": 1,
+   "topicId": "01",
+   "lessonId": "ch02",
+   "stem": "Içilgan spirtning taxminan yarmini atsetaldegidga aylantiradigan organella qaysi?",
+   "options": [
+    {
+     "id": "q01-c02-06-a",
+     "text": "Lizosoma"
+    },
+    {
+     "id": "q01-c02-06-b",
+     "text": "Mitoxondriya"
+    },
+    {
+     "id": "q01-c02-06-c",
+     "text": "Peroksisoma"
+    },
+    {
+     "id": "q01-c02-06-d",
+     "text": "Golji apparati"
+    }
+   ],
+   "answerOptionId": "q01-c02-06-c",
+   "explanation": "Peroksisomalar oksidazalar va katalaza (H₂O₂) yordamida zaharlarni oksidlaydi, içilgan spirtning ~yarmini atsetaldegidga aylantiradi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch02",
+    "topicId": "01",
+    "blockId": "ch02-u10",
+    "printedPage": 12,
+    "pdfPage": 17,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q01-c02-07",
+   "version": 1,
+   "topicId": "01",
+   "lessonId": "ch02",
+   "stem": "Pinotsitoz jarayonida qoplangan çuqurçalar ostida qaysi oqsil joylaşgan?",
+   "options": [
+    {
+     "id": "q01-c02-07-a",
+     "text": "Dinein"
+    },
+    {
+     "id": "q01-c02-07-b",
+     "text": "Klatrin"
+    },
+    {
+     "id": "q01-c02-07-c",
+     "text": "Aktin"
+    },
+    {
+     "id": "q01-c02-07-d",
+     "text": "Tubulin"
+    }
+   ],
+   "answerOptionId": "q01-c02-07-b",
+   "explanation": "Oqsil reseptorga boğlanadi → qoplangan çuqurçalar hosil böladi, ularning ostida klatrin joylaşgan → invaginatsiya → pufakça.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch02",
+    "topicId": "01",
+    "blockId": "ch02-u21",
+    "printedPage": 12,
+    "pdfPage": 17,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q01-c02-08",
+   "version": 1,
+   "topicId": "01",
+   "lessonId": "ch02",
+   "stem": "Harakatçan kiprikçaning tuzilişi qanday?",
+   "options": [
+    {
+     "id": "q01-c02-08-a",
+     "text": "9+0 mikronayça, harakatni miozin ta’minlaydi"
+    },
+    {
+     "id": "q01-c02-08-b",
+     "text": "9 ta uçlik mikronayça (sentriola kabi)"
+    },
+    {
+     "id": "q01-c02-08-c",
+     "text": "9+2 mikronayça (aksonema), harakatni dinein ta’minlaydi"
+    },
+    {
+     "id": "q01-c02-08-d",
+     "text": "Aktin filamentlari töplami"
+    }
+   ],
+   "answerOptionId": "q01-c02-08-c",
+   "explanation": "Kiprikça 9+2 mikronayçadan iborat; dinein (ATPaza) qöllari qöşni dubletda \"örmalab\" egilişni hosil qiladi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch02",
+    "topicId": "01",
+    "blockId": "ch02-u29",
+    "printedPage": 12,
+    "pdfPage": 17,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q01-c03-01",
+   "version": 1,
+   "topicId": "01",
+   "lessonId": "ch03",
+   "stem": "DNKda qaysi azotli asoslar özaro juftlaşadi?",
+   "options": [
+    {
+     "id": "q01-c03-01-a",
+     "text": "A–T va G–C"
+    },
+    {
+     "id": "q01-c03-01-b",
+     "text": "A–C va G–T"
+    },
+    {
+     "id": "q01-c03-01-c",
+     "text": "A–U va G–C"
+    },
+    {
+     "id": "q01-c03-01-d",
+     "text": "A–G va T–C"
+    }
+   ],
+   "answerOptionId": "q01-c03-01-a",
+   "explanation": "DNK zanjirlari orasida kuçsiz vodorod boğlari: adenin–timin, guanin–sitozin.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch03",
+    "topicId": "01",
+    "blockId": "ch03-u3",
+    "printedPage": 29,
+    "pdfPage": 34,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q01-c03-02",
+   "version": 1,
+   "topicId": "01",
+   "lessonId": "ch03",
+   "stem": "RNK DNKdan qanday farq qiladi?",
+   "options": [
+    {
+     "id": "q01-c03-02-a",
+     "text": "Dezoksiribozaga ega va urasil örniga timin bor"
+    },
+    {
+     "id": "q01-c03-02-b",
+     "text": "Ikki zanjirli va timin saqlaydi"
+    },
+    {
+     "id": "q01-c03-02-c",
+     "text": "Fosfat örniga sulfat saqlaydi"
+    },
+    {
+     "id": "q01-c03-02-d",
+     "text": "Ribozaga ega va timin örniga urasil bor"
+    }
+   ],
+   "answerOptionId": "q01-c03-02-d",
+   "explanation": "RNKda qand — riboza (qöşimça OH), timin örniga esa urasil böladi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch03",
+    "topicId": "01",
+    "blockId": "ch03-u11",
+    "printedPage": 29,
+    "pdfPage": 34,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q01-c03-03",
+   "version": 1,
+   "topicId": "01",
+   "lessonId": "ch03",
+   "stem": "Pre-mRNKdan intronlarni olib taşlaş jarayoni nima deyiladi?",
+   "options": [
+    {
+     "id": "q01-c03-03-a",
+     "text": "Metillaniş"
+    },
+    {
+     "id": "q01-c03-03-b",
+     "text": "Splaysing"
+    },
+    {
+     "id": "q01-c03-03-c",
+     "text": "Translyatsiya"
+    },
+    {
+     "id": "q01-c03-03-d",
+     "text": "Replikatsiya"
+    }
+   ],
+   "answerOptionId": "q01-c03-03-b",
+   "explanation": "Pre-mRNKdagi intronlar splaysing orqali olib taşlanadi, ekzonlar qoladi; buni snRNK boşqaradi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch03",
+    "topicId": "01",
+    "blockId": "ch03-u11",
+    "printedPage": 29,
+    "pdfPage": 34,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q01-c03-04",
+   "version": 1,
+   "topicId": "01",
+   "lessonId": "ch03",
+   "stem": "Translyatsiyada har bir aminokislotani zanjirga qöşiş uçun neçta yuqori energiyali boğ sarflanadi?",
+   "options": [
+    {
+     "id": "q01-c03-04-a",
+     "text": "2 ta"
+    },
+    {
+     "id": "q01-c03-04-b",
+     "text": "8 ta"
+    },
+    {
+     "id": "q01-c03-04-c",
+     "text": "4 ta"
+    },
+    {
+     "id": "q01-c03-04-d",
+     "text": "1 ta"
+    }
+   ],
+   "answerOptionId": "q01-c03-04-c",
+   "explanation": "Aminokislotani faollaştirişga 2 ta, peptid boğ hosil qilişga yana 2 ta (GTP) — jami 4 ta yuqori energiyali boğ.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch03",
+    "topicId": "01",
+    "blockId": "ch03-u17",
+    "printedPage": 29,
+    "pdfPage": 34,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q01-c03-05",
+   "version": 1,
+   "topicId": "01",
+   "lessonId": "ch03",
+   "stem": "Bazal promotorning TATA box qismiga qaysi oqsil birinçi bölib boğlanadi?",
+   "options": [
+    {
+     "id": "q01-c03-05-a",
+     "text": "Helikaza"
+    },
+    {
+     "id": "q01-c03-05-b",
+     "text": "RNK-polimeraza III"
+    },
+    {
+     "id": "q01-c03-05-c",
+     "text": "DNK-ligaza"
+    },
+    {
+     "id": "q01-c03-05-d",
+     "text": "TATA-boğlovçi oqsil (TFIID kompleksi bilan)"
+    }
+   ],
+   "answerOptionId": "q01-c03-05-d",
+   "explanation": "Bazal promotor — TATA box (TATAAA); unga TATA-boğlovçi oqsil va TFIID kompleks boğlanadi, TFIIB esa RNK-polimeraza II ni boğlaydi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch03",
+    "topicId": "01",
+    "blockId": "ch03-u21",
+    "printedPage": 29,
+    "pdfPage": 34,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q01-c03-06",
+   "version": 1,
+   "topicId": "01",
+   "lessonId": "ch03",
+   "stem": "Hujayra hayot siklining qaysi bosqiçi eng köp vaqt oladi?",
+   "options": [
+    {
+     "id": "q01-c03-06-a",
+     "text": "Mitoz"
+    },
+    {
+     "id": "q01-c03-06-b",
+     "text": "Interfaza (>95% vaqt)"
+    },
+    {
+     "id": "q01-c03-06-c",
+     "text": "Metafaza"
+    },
+    {
+     "id": "q01-c03-06-d",
+     "text": "Telofaza"
+    }
+   ],
+   "answerOptionId": "q01-c03-06-b",
+   "explanation": "Hayot sikli 10–30 soat; mitoz ~30 min davom etadi, 95% dan ortiq vaqt interfazaga töğri keladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch03",
+    "topicId": "01",
+    "blockId": "ch03-u24",
+    "printedPage": 29,
+    "pdfPage": 34,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q01-c03-07",
+   "version": 1,
+   "topicId": "01",
+   "lessonId": "ch03",
+   "stem": "Telomerazalar qaysi hujayralarda faol böladi?",
+   "options": [
+    {
+     "id": "q01-c03-07-a",
+     "text": "Faqat eritrotsitlarda"
+    },
+    {
+     "id": "q01-c03-07-b",
+     "text": "Ilik va teri ildiz hujayralari, jinsiy hujayralar (saratonda ham)"
+    },
+    {
+     "id": "q01-c03-07-c",
+     "text": "Faqat neyronlarda"
+    },
+    {
+     "id": "q01-c03-07-d",
+     "text": "Barça yetuk somatik hujayralarda bir xil"
+    }
+   ],
+   "answerOptionId": "q01-c03-07-b",
+   "explanation": "Telomeraza ilik va teri ildiz hujayralari hamda jinsiy hujayralarda faol, saratonda patologik faollaşadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch03",
+    "topicId": "01",
+    "blockId": "ch03-u28",
+    "printedPage": 29,
+    "pdfPage": 34,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q01-c03-08",
+   "version": 1,
+   "topicId": "01",
+   "lessonId": "ch03",
+   "stem": "Apoptozning nekrozdan asosiy farqi nimada?",
+   "options": [
+    {
+     "id": "q01-c03-08-a",
+     "text": "Kaspazalar bilan dasturlangan, hujayra qisqaradi va yalliğlaniş çaqirmaydi"
+    },
+    {
+     "id": "q01-c03-08-b",
+     "text": "Faqat embrionda kuzatiladi"
+    },
+    {
+     "id": "q01-c03-08-c",
+     "text": "Faqat bakteriya ta’sirida yuz beradi"
+    },
+    {
+     "id": "q01-c03-08-d",
+     "text": "Hujayra şişib yoriladi va yalliğlaniş böladi"
+    }
+   ],
+   "answerOptionId": "q01-c03-08-a",
+   "explanation": "Apoptozda kaspazalar kaskadi işlaydi, hujayra qisqaradi va makrofag yutadi — yalliğlanişsiz. Nekrozda hujayra şişib yoriladi va yalliğlaniş çaqiradi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch03",
+    "topicId": "01",
+    "blockId": "ch03-u28",
+    "printedPage": 29,
+    "pdfPage": 34,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  }
+ ]
+}

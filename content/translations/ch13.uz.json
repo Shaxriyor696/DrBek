@@ -1,0 +1,370 @@
+{
+ "lessonId": "ch13",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 13,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "manual",
+ "translator": "Claude (DrStudy sessiyasi)",
+ "model": null,
+ "createdAt": "2026-11-18T06:04:04.404Z",
+ "updatedAt": "2026-11-18T06:04:04.405Z",
+ "coverage": {
+  "translated": 126,
+  "total": 126
+ },
+ "note": "Kitob matnining töliq özbekça tarjimasi (qisqartirilmagan). Ekspert tekşiruvidan ötmagan.",
+ "blocks": {
+  "ch13-f0": {
+   "text": "Yurak faoliyatining eng oğir buzilişlaridan ba’zilari yurak ritmining ğayritabiiyligi tufayli yuzaga keladi. Masalan, ba’zan bölmaçalar qisqarişi qorinçalar qisqarişi bilan muvofiqlaşmaydi, natijada bölmaçalar qorinçalarning tölişini eng yaxşi darajaga yetkaziş vazifasini bajarmay qöyadi."
+  },
+  "ch13-f1": {
+   "text": "Uşbu bobning maqsadi — keng tarqalgan yurak aritmiyalarining fiziologiyasini, ularning yurakning nasos faoliyatiga ta’sirini hamda elektrokardiografiya yordamida taşxislanişini muhokama qiliş. Yurak aritmiyalarining sabablari odatda yurakning ritmiklik-ötkazuvçanlik tizimidagi quyidagi buzilişlardan biri yoki ularning birikmasidir: • Ritm boşqaruvçisining (peysmeykerning) ğayritabiiy ritmikligi • Ritm boşqaruvçisining sinus tugunidan yurakning boşqa joyiga köçişi • Impulsning yurak böylab tarqaliş yölining turli nuqtalaridagi blokadalar • Impulsning yurak böylab ğayritabiiy yöllar orqali ötişi • Yurakning deyarli istalgan qismida soxta impulslarning öz-özidan hosil bölişi"
+  },
+  "ch13-f2": {
+   "text": "Sinus ritmining buzilişlari"
+  },
+  "ch13-f3": {
+   "text": "_Taxikardiya_ atamasi _yurak urişining tezlaşişini_ anglatadi; kattalarda odatda daqiqasiga 100 martadan tez uriş şunday deb ta’riflanadi. Taxikardiyali bemordan yozib olingan elektrokardiogramma (EKG) **Rasm 13-1** da körsatilgan. Bu EKG me’yoriy, faqat QRS komplekslari orasidagi vaqt oraliqlariga köra aniqlangan yurak uriş tezligi me’yordagi 72 uriş/daq örniga taxminan 150 uriş/daq ni taşkil etadi. Taxikardiyaning ba’zi sabablari: tana haroratining oşişi, suvsizlaniş, qon yöqotiş natijasidagi kamqonlik, yurakning simpatik nervlar tomonidan qözğatilişi va yurakning toksik holatlari."
+  },
+  "ch13-f5": {
+   "text": "Tana harorati har bir Farengeyt darajasiga oşganda yurak uriş tezligi odatda taxminan 10 uriş/daq ga ortadi (har bir Selsiy darajasiga 18 uriş/daq ga), bu holat tana harorati taxminan 105°F (40,5°C) ga yetgunça davom etadi. Bundan yuqorida isitma tufayli yurak muskulining tobora zaiflaşib borişi natijasida yurak uriş tezligi kamayişi mumkin. Isitma taxikardiyaga olib keladi, çunki harorat oşişi sinus tugunidagi metabolizm tezligini oşiradi, bu esa öz navbatida uning qözğaluvçanligi va ritm tezligini bevosita oşiradi."
+  },
+  "ch13-f6": {
+   "text": "Uşbu kitobda muhokama qilinganidek, köplab omillar simpatik nerv tizimini yurakni qözğatişga majbur qilişi mumkin. Masalan, bemor köp qon yöqotganda yurakning reflektor simpatik qözğatilişi yurak uriş tezligini 150–180 uriş/daq gaça oşirişi mumkin. Miokardning oddiy zaiflaşuvi ham odatda yurak uriş tezligini oşiradi, çunki zaiflaşgan yurak qonni arteriyalar tizimiga me’yoriy hajmda haydab bera olmaydi; bu qon bosimining pasayişiga olib keladi va yurak uriş tezligini oşiruvçi simpatik reflekslarni keltirib çiqaradi."
+  },
+  "ch13-f7": {
+   "text": "_Bradikardiya_ atamasi yurak urişining sekinlaşişini anglatadi va odatda daqiqasiga 60 martadan kam uriş şunday deb ta’riflanadi. Bradikardiya **Rasm 13-2** dagi EKG da körsatilgan."
+  },
+  "ch13-f9": {
+   "text": "Yaxşi çiniqqan sportçining yuragi köpinça oddiy odamnikidan kattaroq va ança kuçliroq böladi; bu sportçi yuragiga hatto tinç holatda ham har bir qisqarişda katta zarb hajmini haydaş imkonini beradi. Sportçi tinç holatda bölganda har bir qisqarişda arteriyalar tizimiga haydalgan qonning köp miqdori qon aylanişining teskari aloqa reflekslarini yoki bradikardiyaga olib keluvçi boşqa ta’sirlarni işga tuşiradi.",
+   "lead": "Sportçilardagi bradikardiya."
+  },
+  "ch13-f10": {
+   "text": "Adaşgan (vagus) nervlarni qözğatuvçi har qanday qon aylaniş refleksi yurakdagi vagus nerv uçlaridan atsetilxolin ajralişiga sabab böladi va parasimpatik ta’sir yuzaga keladi. Bu hodisaning ehtimol eng yorqin misoli _karotid sinus sindromi_ bölgan bemorlarda kuzatiladi. Bunday bemorlarda uyqu arteriyasi devorlarining karotid sinus sohasidagi bosim retseptorlari (baroretseptorlar) haddan taşqari sezgir böladi. Şuning uçun böyinga taşqaridan hatto kuçsiz bosim ham kuçli baroretseptor refleksini keltirib çiqaradi va yurakka vagus-atsetilxolinning kuçli ta’sirini, jumladan, öta kuçli bradikardiyani yuzaga keltiradi. Ba’zan bu refleks şunçalik kuçli böladiki, yurakni haqiqatan ham 5–10 soniyaga töxtatib qöyadi va huşdan ketişga (sinkopega) olib keladi.",
+   "lead": "Adaşgan nervning qözğalişi bradikardiyaga olib keladi."
+  },
+  "ch13-f11": {
+   "text": "**Rasm 13-3** da yurak uriş tezligining _kardiotaxometr_ yordamida yozib olingan qaydi körsatilgan: dastlab me’yoriy nafas oliş paytida, söngra yozuvning ikkinçi yarmida çuqur nafas oliş paytida. Kardiotaxometr — EKG dagi ketma-ket QRS komplekslari orasidagi interval davomiyligini _ketma-ket çöqqilar balandligi orqali_ yozib oluvçi asbob. Bu yozuvdan körinib turibdiki, sokin nafas oliş paytida (yozuvning çap yarmida körsatilgan) yurak uriş tezligi 5% dan ortiq oşmagan va kamaymagan. Söngra _çuqur nafas oliş paytida_ yurak uriş tezligi har bir nafas sikli bilan 30% gaça oşib-kamaygan."
+  },
+  "ch13-f13": {
+   "text": "Sinus aritmiyasi yurakning sinus tuguniga boradigan simpatik va parasimpatik nerv signallari kuçini özgartiruvçi köplab qon aylaniş holatlarining istalgan biri natijasida yuzaga kelişi mumkin. Sinus aritmiyasining nafas bilan boğliq turi asosan nafas oliş va nafas çiqariş sikllari davomida uzunçoq miyadagi nafas markazidan signallarning qöşni vazomotor markazga “tökilib ötişi” natijasida yuzaga keladi. Bu tökilib ötgan signallar simpatik va adaşgan nervlar orqali yurakka uzatiladigan impulslar sonining navbatma-navbat ortişi va kamayişiga sabab böladi."
+  },
+  "ch13-f14": {
+   "text": "Yurak içidagi ötkazuvçi yöllardagi blokada"
+  },
+  "ch13-f15": {
+   "text": "Kamdan-kam hollarda sinus tugunidan çiqqan impuls bölmaça muskuliga kirişidan oldin tösib qöyiladi. Bu hodisa **Rasm 13-4** da körsatilgan: unda P tişçalarining tösatdan yöqolişi va natijada bölmaçalarning töxtab qolişi körinadi. Biroq qorinçalar yangi ritmni “ilib oladi”: impuls odatda atrioventrikulyar (A-V) tugunda öz-özidan hosil böladi, şuning uçun qorinça QRS-T kompleksining tezligi sekinlaşadi, ammo boşqa jihatdan özgarmaydi. Sinoatrial blokada sinus tuguniga ta’sir qiluvçi miokard işemiyasi, yurakning yalliğlanişi yoki infeksiyasi yoxud ba’zi dorilarning nojöya ta’siri natijasida yuzaga kelişi mumkin; u yaxşi çiniqqan sportçilarda ham kuzatilişi mumkin."
+  },
+  "ch13-f17": {
+   "text": "Atrioventrikulyar blokada"
+  },
+  "ch13-f18": {
+   "text": "Odatda impulslar bölmaçalardan qorinçalarga ötişi mumkin bölgan yagona yöl — _A-V tutam_, u _Gis tutami_ deb ham ataladi. Bu tutamda impuls ötkaziliş tezligini pasaytirişi yoki impulsni butunlay tösib qöyişi mumkin bölgan holatlar quyidagilar: 1. _A-V tugun yoki A-V tutam tolalarining işemiyasi_ köpinça bölmaçalardan qorinçalarga ötkazilişni keçiktiradi yoki tösadi. Koronar yetişmovçilik miokard işemiyasini keltirib çiqargani kabi A-V tugun va tutam işemiyasini ham keltirib çiqarişi mumkin. 2. _A-V tutamning_ çandiq töqima yoki yurakning ohaklangan qismlari tomonidan _ezilişi_ bölmaçalardan qorinçalarga ötkazilişni susaytirişi yoki tösişi mumkin. 3. _A-V tugun yoki A-V tutamning yalliğlanişi_ bölmaçalardan qorinçalarga ötkazilişni susaytirişi mumkin. Yalliğlaniş köpinça, masalan, difteriya yoki revmatik isitma sabab böladigan turli xil miokarditlar natijasida yuzaga keladi. 4. _Yurakning adaşgan nervlar tomonidan öta kuçli qözğatilişi_ kamdan-kam hollarda A-V tugun orqali impuls ötkazilişini tösib qöyadi. Bunday vagus qözğalişi ba’zan _karotid sinus sindromi_ bölgan odamlarda baroretseptorlarning kuçli qözğalişi natijasida yuzaga keladi; bu sindrom yuqorida bradikardiya bilan boğliq holda muhokama qilingan. 5. _A-V ötkazuvçi tizimning degeneratsiyasi_ — ba’zan keksa bemorlarda kuzatiladi. 6. _Digitalis yoki beta-adrenergik antagonistlar kabi dorilar_ ayrim hollarda A-V ötkazuvçanlikni buzişi mumkin."
+  },
+  "ch13-f19": {
+   "text": "Töliq bölmagan atrioventrikulyar blokada"
+  },
+  "ch13-f20": {
+   "text": "Yurak me’yoriy tezlikda urayotganda P tişçasining _boşlanişi_ va QRS kompleksining _boşlanişi_ orasidagi odatiy vaqt taxminan 0,16 soniyani taşkil etadi. Bu _P-R interval_ deb ataladigan oraliq odatda yurak tez urganda qisqaradi, sekin urganda esa uzayadi. Umuman olganda, P-R interval 0,20 soniyadan oşsa, P-R interval uzaygan deyiladi va bemorda _birinçi darajali töliq bölmagan yurak blokadasi_ bor deb hisoblanadi.",
+   "lead": "Birinçi darajali blokada — P-R intervalining uzayişi."
+  },
+  "ch13-f21": {
+   "text": "**Rasm 13-5** da P-R intervali uzaygan EKG körsatilgan; bu holatda interval me’yordagi 0,20 soniya yoki undan kam örniga taxminan 0,30 soniyani taşkil etadi. Şunday qilib, birinçi darajali blokada bölmaçalardan qorinçalarga ötkazilişning haqiqiy tösilişi emas, balki uning _keçikişi_ sifatida ta’riflanadi. P-R interval kamdan-kam hollarda 0,35–0,45 soniyadan oşadi, çunki bu vaqtga kelib A-V tutam orqali ötkaziliş şunçalik susayadiki, ötkaziliş butunlay töxtaydi. Ba’zi yurak kasalliklari, masalan, _ötkir revmatik yurak kasalligining_ oğirlik darajasini aniqlaş usullaridan biri — P-R intervalini ölçaş."
+  },
+  "ch13-f23": {
+   "text": "A-V tutam orqali ötkaziliş P-R intervalini 0,25–0,45 soniyagaça uzaytiradigan darajada sekinlaşganda, harakat potensiali ba’zan tutam orqali qorinçalarga ötiş uçun yetarliça kuçli böladi, ba’zan esa yetarli kuçga ega bölmaydi. Bunday holatda bölmaça P tişçasi böladi, lekin QRS-T tölqini bölmaydi va qorinçalarning “tuşib qolgan qisqarişlari” bor deyiladi. Bu holat _ikkinçi darajali yurak blokadasi_ deb ataladi.",
+   "lead": "Ikkinçi darajali blokada."
+  },
+  "ch13-f24": {
+   "text": "Ikkinçi darajali A-V blokadaning ikki turi bor — _Mobits I tipi_ (_Venkebax davriyligi_ deb ham ataladi) va _Mobits II tipi_. I tip blokada P-R intervalining qorinça qisqarişi tuşib qolgunça asta-sekin uzayib borişi bilan tavsiflanadi; şundan söng P-R interval dastlabki holatiga qaytadi va ğayritabiiy sikl takrorlanadi. I tip blokadaga deyarli har doim A-V tugundagi buziliş sabab böladi. Köp hollarda bu turdagi blokada xavfsiz bölib, maxsus davolaş talab qilinmaydi."
+  },
+  "ch13-f25": {
+   "text": "II tip blokadada odatda har bir QRS kompleksiga ma’lum, özgarmas sondagi ötkazilmagan P tişçalari töğri keladi. Masalan, 2:1 blokada har bir QRS kompleksiga ikkita P tişçasi töğri kelişini bildiradi. Boşqa hollarda 3:2 yoki 3:1 ritmlar rivojlanişi mumkin. I tip blokadadan farqli ölaroq, II tip blokadada P-R interval tuşib qolgan qisqarişdan oldin özgarmaydi — u doimiy bölib qoladi. II tip blokadaga odatda Gis tutami — Purkinye tizimidagi buziliş sabab böladi va töliq yurak blokadasi hamda yurak töxtaşiga ötişning oldini oliş uçun sun’iy ritm boşqaruvçini (peysmekerni) örnatiş talab qilinişi mumkin."
+  },
+  "ch13-f26": {
+   "text": "**Rasm 13-6** da I tip (Venkebax) blokadaga xos bölgan P-R intervalining asta-sekin uzayişi körsatilgan. E’tibor bering: tuşib qolgan qisqarişdan oldin P-R interval uzayadi, undan keyin esa P-R interval qisqaradi."
+  },
+  "ch13-f28": {
+   "text": "A-V tugun yoki A-V tutamda ötkazuvçanlikning yomonlaşişiga sabab bölgan holat oğirlaşganda, impulsning bölmaçalardan qorinçalarga ötişi butunlay tösiladi. Bunday holatda qorinçalar öz-özidan öz signalini hosil qiladi; bu signal odatda blokadadan distalroqdagi A-V tugun yoki A-V tutamdan boşlanadi. Şuning uçun **Rasm 13-7** da körsatilganidek, P tişçalari QRS-T komplekslaridan ajralib (dissotsiatsiyalanib) qoladi. E’tibor bering: bu EKG da _bölmaçalar ritmining tezligi_ taxminan 100 uriş/daq, _qorinçalar qisqarişining tezligi_ esa 40 uriş/daq dan kam. Bundan taşqari, P tişçalari ritmi bilan QRS-T komplekslari ritmi örtasida heç qanday boğliqlik yöq, çunki qorinçalar bölmaçalar nazoratidan “qoçib çiqqan” va özlarining tabiiy tezligida qisqaradi; bu tezlikni köpinça blokada joylaşgan A-V tugun yoki A-V tutamdan distalroqda hosil böladigan ritmik signallar boşqaradi.",
+   "lead": "Töliq A-V blokada (uçinçi darajali blokada)."
+  },
+  "ch13-f30": {
+   "text": "A-V blokadasi bölgan ba’zi bemorlarda töliq blokada paydo bölib, yana yöqolib turadi; ya’ni impulslar ma’lum vaqt bölmaçalardan qorinçalarga ötkaziladi, söngra tösatdan ötkazilmay qoladi. Ötkaziliş tiklangunça blokada bir neça soniya, bir neça daqiqa, bir neça soat yoki hatto bir neça hafta va undan uzoqroq davom etişi mumkin. Bu holat ötkazuvçi tizimida çegaraviy işemiya bölgan yuraklarda yuzaga keladi.",
+   "lead": "Stoks-Adams sindromi — qorinçalarning “qoçişi”."
+  },
+  "ch13-f31": {
+   "text": "Har safar A-V ötkaziliş töxtaganda qorinçalar köpinça öz qisqarişlarini faqat 5–30 soniyalik keçikişdan keyin boşlaydi. Bu keçikiş _tezroq ritm bilan bostiriliş_ (overdrive suppression) deb ataladigan hodisa natijasidir. Tezroq ritm bilan bostiriliş şuni anglatadiki, qorinçalarning qözğaluvçanligi dastlab bostirilgan böladi, çunki qorinçalar şu paytgaça bölmaçalar tomonidan özlarining tabiiy ritm tezligidan yuqori tezlikda boşqarib kelingan. Biroq bir neça soniyadan söng Purkinye tizimining blokadadan keyingi biror qismi — odatda A-V tugunning blokada nuqtasidan keyingi distal qismi yoki A-V tutam — daqiqasiga 15–40 marta tezlikda ritmik razryad bera boşlaydi va qorinçalarning ritm boşqaruvçisi vazifasini bajaradi. Bu hodisa _qorinçalarning “qoçişi”_ (ventricular escape) deb ataladi."
+  },
+  "ch13-f32": {
+   "text": "Boş miya qon ta’minotisiz 4–7 soniyadan ortiq faol holda qola olmaganligi sababli, köpçilik odamlar töliq blokada yuzaga kelganidan bir neça soniya ötib huşini yöqotadi, çunki qorinçalar “qoçgunça” yurak 5–30 soniya davomida umuman qon haydamaydi. Biroq “qoçiş”dan keyin sekin qisqarayotgan qorinçalar (odatda 40 uriş/daq dan kam) huşdan ketiş holatidan tez tiklaniş va keyinçalik odamning hayotini saqlab turiş uçun odatda yetarli miqdorda qon haydaydi. Bu davriy huşdan ketiş xurujlari (sinkope) _Stoks-Adams sindromi_ deb ataladi."
+  },
+  "ch13-f33": {
+   "text": "Ba’zan töliq blokada boşlanişidagi qorinçalar töxtab turiş davri şunçalik uzoq davom etadiki, bemorning soğliğiga zarar yetkazadi yoki hatto ölimga olib keladi. Şu sababli bunday bemorlarning köpçiligiga _sun’iy ritm boşqaruvçi_ (peysmeker) örnatiladi: bu teri ostiga joylaştiriladigan, batareya bilan işlaydigan kiçik elektr stimulyator bölib, uning elektrodlari odatda öng qorinçaga ulanadi. Peysmeker qorinçalarga uzluksiz ritmik impulslar yetkazib beradi."
+  },
+  "ch13-f34": {
+   "text": "Töliq bölmagan qorinça içi blokadasi — elektr alternansi"
+  },
+  "ch13-f35": {
+   "text": "A-V blokadaga sabab bölişi mumkin bölgan omillarning aksariyati qorinçalarning periferik Purkinye tizimida ham impuls ötkazilişini tösib qöyişi mumkin. **Rasm 13-8** da _elektr alternansi_ deb ataladigan holat körsatilgan; u har ikkinçi yurak qisqarişida qisman qorinça içi blokadasi yuzaga kelişi natijasidir. Bu EKG da _taxikardiya_ (yurak urişining tezlaşişi) ham körinadi, va ehtimol blokadaning yuzaga kelişiga aynan şu sabab bölgan. Buning sababi şundaki, yurak tez urganda Purkinye tizimining ba’zi qismlari oldingi refrakter davrdan har bir navbatdagi yurak qisqarişiga javob bera oladigan darajada tez tiklana olmasligi mumkin. Şuningdek, yurak faoliyatini susaytiruvçi köplab holatlar, masalan, işemiya, miokardit yoki digitalis bilan zaharlaniş töliq bölmagan qorinça içi blokadasini va natijada elektr alternansini keltirib çiqarişi mumkin."
+  },
+  "ch13-f37": {
+   "text": "Ekstrasistolalar (muddatidan oldingi qisqarişlar)"
+  },
+  "ch13-f38": {
+   "text": "Ekstrasistola — yurakning me’yoriy qisqarişi kutilgan vaqtdan oldin sodir böladigan qisqarişi. Bu holat _ekstrasistola, muddatidan oldingi qisqariş_ yoki _ektopik qisqariş_ deb ham ataladi."
+  },
+  "ch13-f39": {
+   "text": "Ekstrasistolalarning sabablari"
+  },
+  "ch13-f40": {
+   "text": "Ekstrasistolalarning aksariyati yurakdagi _ektopik öçoqlar_ natijasida yuzaga keladi; bu öçoqlar yurak ritmi davomida ğayrioddiy paytlarda ğayritabiiy impulslar çiqaradi. Ektopik öçoqlarning ehtimoliy sabablari quyidagilar: (1) mahalliy işemiya sohalari; (2) yurakning turli nuqtalaridagi kiçik ohaklangan pilakçalar — ular qöşni yurak muskuliga bosim ötkazib, ba’zi tolalarni ta’sirlantiradi; (3) A-V tugun, Purkinye tizimi yoki miokardning infeksiya, dorilar, nikotin yoki kofein tufayli toksik ta’sirlanişi. Yurakni kateterlaş paytida ekstrasistolalarning mexanik yöl bilan qözğatilişi ham köp uçraydi: kateter qorinçaga kirib, endokardga bosganda köpinça köp sonli ekstrasistolalar paydo böladi."
+  },
+  "ch13-f41": {
+   "text": "Bölmaça ekstrasistolalari"
+  },
+  "ch13-f42": {
+   "text": "**Rasm 13-9** da bitta bölmaça ekstrasistolasi (BE; inglizça PAC) körsatilgan. Bu qisqarişning P tişçasi yurak siklida juda erta paydo bölgan; P-R interval qisqargan, bu esa qisqarişning ektopik manbai bölmaçalarda, A-V tugunga yaqin joyda ekanligini körsatadi. Şuningdek, ekstrasistola bilan undan keyingi qisqariş orasidagi interval biroz uzaygan; bu _kompensator pauza_ deb ataladi. Bu kompensator pauzaning sabablaridan biri şundaki, ekstrasistola bölmaçada sinus tugunidan ma’lum masofada boşlangan va impuls sinus tugunini razryadlaşidan oldin bölmaça muskulining ança qismi böylab ötişi kerak bölgan. Natijada sinus tuguni muddatidan oldingi siklda keç razryadlangan, bu esa sinus tugunining keyingi razryadi ham keç paydo bölişiga olib kelgan."
+  },
+  "ch13-f44": {
+   "text": "Bölmaça ekstrasistolalari boşqa jihatdan soğlom odamlarda ham tez-tez uçraydi. Ular köpinça yuragi juda soğlom holatdagi sportçilarda kuzatiladi. Çekiş, uyqusizlik, haddan taşqari köp kofe içiş, alkogolizm va turli dorilarni qabul qiliş kabi omillar natijasidagi yengil toksik holatlar ham bunday qisqarişlarni keltirib çiqarişi mumkin."
+  },
+  "ch13-f45": {
+   "text": "Yurak muddatidan oldin qisqarganda qorinçalar qonga me’yoriy darajada tölib ulgurmaydi va şu qisqarişdagi zarb hajmi kamayadi yoki deyarli bölmaydi. Şuning uçun ekstrasistoladan keyin periferik arteriyalarga ötadigan puls tölqini şunçalik kuçsiz bölişi mumkinki, uni bilak arteriyasida paypaslab bölmaydi. Şunday qilib, bilak arteriyasidagi puls zarbalari soni yurakning haqiqiy qisqarişlari soniga nisbatan kam böladi, ya’ni puls defitsiti yuzaga keladi.",
+   "lead": "Puls defitsiti."
+  },
+  "ch13-f46": {
+   "text": "A-V tugun yoki A-V tutam ekstrasistolalari"
+  },
+  "ch13-f47": {
+   "text": "**Rasm 13-10** da A-V tugun yoki A-V tutamdan boşlangan ekstrasistola körsatilgan. Ekstrasistolaning elektrokardiografik yozuvida P tişçasi yöq. Buning örniga P tişçasi QRS-T kompleksi ustiga tuşib qolgan, çunki yurak impulsi qorinçalarga oldinga tarqaliş bilan bir vaqtda bölmaçalarga orqaga ham tarqalgan. Bu P tişçasi QRS-T kompleksini biroz buzadi, lekin P tişçasining özini alohida ajratib bölmaydi. Umuman olganda, A-V tugun ekstrasistolalarining ahamiyati va sabablari bölmaça ekstrasistolalariniki bilan bir xil."
+  },
+  "ch13-f49": {
+   "text": "Qorinça ekstrasistolalari"
+  },
+  "ch13-f50": {
+   "text": "**Rasm 13-11** dagi EKG da me’yoriy qisqarişlar bilan navbatlaşib keladigan bir qator qorinça ekstrasistolalari (QE; inglizça PVC) körsatilgan; bunday köriniş _bigeminiya_ deb ataladi. Qorinça ekstrasistolalari EKG da quyidagi öziga xos özgarişlarni keltirib çiqaradi: 1. _QRS kompleksi odatda ança uzaygan böladi._ Bu uzayişning sababi şundaki, impuls Purkinye tizimi orqali emas, asosan qorinçalarning sekin ötkazuvçi muskuli orqali ötkaziladi. 2. _QRS kompleksi yuqori voltajga ega böladi._ Me’yoriy impuls yurak orqali ötganda u ikkala qorinça orqali deyarli bir vaqtda ötadi. Natijada me’yoriy yurakda yurakning ikki tomonidagi depolyarizatsiya tölqinlari — asosan bir-biriga qarama-qarşi qutblanişga ega bölgani uçun — EKG da bir-birini qisman neytrallaydi. Qorinça ekstrasistolasi yuzaga kelganda impuls deyarli har doim faqat bir yönalişda tarqaladi, şuning uçun bunday neytrallaş ta’siri bölmaydi va qorinçalarning bir butun tomoni yoki uçi ikkinçisidan oldin depolyarizatsiyalanadi; bu esa **Rasm 13-11** dagi qorinça ekstrasistolalarida körsatilganidek, katta elektr potensiallarini hosil qiladi."
+  },
+  "ch13-f52": {
+   "text": "3. Deyarli barça qorinça ekstrasistolalaridan keyin _T tişçasining elektr potensiali qutbliligi QRS kompleksinikiga mutlaqo qarama-qarşi böladi_, çunki impulsning yurak muskuli orqali _sekin ötkazilişi_ birinçi bölib depolyarizatsiyalangan muskul tolalarining birinçi bölib repolyarizatsiyalanişiga ham olib keladi. Ba’zi qorinça ekstrasistolalari yurakning umumiy nasos faoliyatiga ta’siri jihatidan nisbatan xavfsiz; ular sigaret çekiş, haddan taşqari köp kofe içiş, uyqusizlik, turli yengil toksik holatlar va hatto hissiy qözğaluvçanlik kabi omillar natijasida yuzaga kelişi mumkin. Aksinça, boşqa köplab qorinça ekstrasistolalari yurakning infarkt yoki işemiyaga uçragan sohalari çegaralari atrofida paydo böladigan adaşgan impulslar yoki qayta kiruvçi (re-entri) signallar natijasida yuzaga keladi. Bunday qorinça ekstrasistolalarining mavjudligiga yengil qaraş mumkin emas. Qorinça ekstrasistolalari köp bölgan odamlarda öz-özidan rivojlanadigan, ölimga olib keluvçi qorinçalar fibrillyatsiyasi xavfi köpinça me’yordagidan ança yuqori böladi; fibrillyatsiyani, taxminan, ekstrasistolalardan biri boşlab beradi. Bu ayniqsa ekstrasistolalar fibrillyatsiya keltirib çiqariş uçun zaif davrda — T tişçasining aynan oxirida, qorinçalar refrakter holatdan çiqayotgan paytda — yuzaga kelganda töğri; bu haqda bobning keyingi qismida tuşuntiriladi."
+  },
+  "ch13-f53": {
+   "text": "Vektor tahlilining tamoyillari 12-bobda tuşuntirilgan. Bu tamoyillarni qöllab, **Rasm 13-11** dagi EKG dan qorinça ekstrasistolasining boşlaniş nuqtasini quyidagiça aniqlaş mumkin. E’tibor bering: II va III ulanişlardagi ekstrasistolalar potensiallari ikkalasi ham kuçli musbat. Bu potensiallarni II va III ulanişlar öqlariga qöyib, yurakdagi örtaça QRS vektorini vektor tahlili yordamida aniqlasak, bu ekstrasistola vektorining manfiy uçi (boşlanişi) yurak asosida, musbat uçi esa çöqqi tomonga yönalganini köramiz. Demak, bu ekstrasistola paytida yurakning birinçi bölib depolyarizatsiyalanadigan qismi qorinçalar asosi yaqinida joylaşgan va şuning uçun ektopik öçoq aynan şu yerda boşlanadi.",
+   "lead": "Ektopik qorinça ekstrasistolasi manbaining vektor tahlili."
+  },
+  "ch13-f54": {
+   "text": "Eslatib ötamiz, Q tişçasi qorinçalar depolyarizatsiyasiga, T tişçasi esa qorinçalar repolyarizatsiyasiga mos keladi. Q-T interval — Q nuqtasidan T tişçasi oxirigaça bölgan vaqt. Harakat potensialidan keyin qorinça muskuli repolyarizatsiyasini keçiktiruvçi buzilişlar qorinça harakat potensiallarining uzayişiga va şuning uçun EKG da Q-T intervallarining haddan taşqari uzun bölişiga olib keladi; bu holat _uzun QT sindromi_ (UQTS; inglizça LQTS) deb ataladi.",
+   "lead": "Yurak repolyarizatsiyasining buzilişlari — uzun QT sindromlari."
+  },
+  "ch13-f55": {
+   "text": "Uzun QT sindromining xavotirli bölişining asosiy sababi şundaki, qorinça muskuli repolyarizatsiyasining keçikişi odamda _torsades de pointes_ deb ataladigan qorinça aritmiyalari rivojlanişiga moyillikni oşiradi; bu atama sözma-söz “çöqqilarning buralişi” degan ma’noni anglatadi. Bu turdagi aritmiyaning xususiyatlari **Rasm 13-12** da körsatilgan. QRS kompleksining şakli vaqt ötişi bilan özgarişi mumkin; aritmiya odatda ekstrasistola, pauza va söngra Q-T intervali uzun bölgan yana bir qisqarişdan keyin boşlanadi, bu esa aritmiyalar, taxikardiya va ba’zi hollarda qorinçalar fibrillyatsiyasini qözğatişi mumkin."
+  },
+  "ch13-f57": {
+   "text": "Uzun QT sindromiga olib keluvçi yurak repolyarizatsiyasi buzilişlari irsiy yoki orttirilgan bölişi mumkin. Uzun QT sindromining tuğma şakllari natriy yoki kaliy kanallari genlarining mutatsiyalari sabab böladigan kam uçraydigan kasalliklardir. Bu genlarning Q-T intervalini turli darajada uzaytiruvçi kamida 17 xil mutatsiyasi aniqlangan."
+  },
+  "ch13-f58": {
+   "text": "Uzun QT sindromining orttirilgan şakllari köproq uçraydi; ular gipomagniyemiya, gipokaliyemiya yoki gipokalsiyemiya kabi qon plazmasidagi elektrolitlar buzilişlari bilan yoki Q-T intervalini uzaytiruvçi xinidin kabi antiaritmik dorilar yoxud ftorxinolonlar yoki eritromitsin kabi ba’zi antibiotiklarning ortiqça miqdorda qöllanilişi bilan boğliq."
+  },
+  "ch13-f59": {
+   "text": "Uzun QT sindromi bölgan ba’zi odamlarda (Q-T intervalining uzayişidan taşqari) jiddiy alomatlar kuzatilmasa-da, boşqalarda huşdan ketiş va jismoniy maşqlar, qörquv yoki ğazab kabi kuçli hissiyotlar yoxud şovqindan çöçib ketiş qözğatişi mumkin bölgan qorinça aritmiyalari kuzatiladi. Uzun QT sindromi bilan boğliq qorinça aritmiyalari ba’zi hollarda qorinçalar fibrillyatsiyasiga va tösatdan ölimga ötişi mumkin."
+  },
+  "ch13-f60": {
+   "text": "Davolaş ötkir uzun QT sindromida magniy sulfatni, uzoq davom etuvçi uzun QT sindromida esa beta-adrenoblokatorlar kabi antiaritmik dorilarni yoki yurak defibrillyatorini jarrohlik yöli bilan örnatişni öz içiga olişi mumkin."
+  },
+  "ch13-f61": {
+   "text": "Paroksizmal taxikardiya"
+  },
+  "ch13-f62": {
+   "text": "Yurakning turli qismlaridagi, jumladan bölmaçalar, Purkinye tizimi yoki qorinçalardagi ba’zi buzilişlar vaqti-vaqti bilan impulslarning tez ritmik razryadlanişiga sabab bölişi mumkin; bu impulslar yurak böylab barça yönalişlarda tarqaladi. Bu hodisa köpinça mahalliy takroriy öz-özini qayta qözğatişni yuzaga keltiruvçi qayta kiruvçi _aylanma harakat_ (circus movement) teskari aloqa yöllari tufayli yuzaga keladi, deb hisoblanadi. Ta’sirçan öçoqdagi ritm tez bölgani uçun bu öçoq yurakning ritm boşqaruvçisiga aylanadi."
+  },
+  "ch13-f63": {
+   "text": "_Paroksizmal_ atamasi yurak urişining xurujlar (paroksizmlar) şaklida tezlaşişini anglatadi: xuruj tösatdan boşlanib, bir neça soniya, bir neça daqiqa, bir neça soat yoki ança uzoqroq davom etadi. Xuruj odatda qanday tösatdan boşlangan bölsa, xuddi şunday tösatdan tugaydi va yurakning ritm boşqaruvçisi bir zumda yana sinus tuguniga qaytadi."
+  },
+  "ch13-f64": {
+   "text": "Paroksizmal taxikardiyani köpinça vagus refleksini qözğatiş orqali töxtatiş mumkin. Bu maqsadda ba’zan qöllaniladigan vagus refleksi turlaridan biri — böyinning karotid sinuslar sohasiga bosiş; bu xurujni töxtatiş uçun yetarli darajadagi vagus refleksini keltirib çiqarişi mumkin. Yurak töqimalarida ötkazilişni sekinlaştiriş yoki refrakter davrni uzaytiriş uçun antiaritmik dorilar ham qöllanilişi mumkin."
+  },
+  "ch13-f65": {
+   "text": "Paroksizmal bölmaça taxikardiyasi"
+  },
+  "ch13-f66": {
+   "text": "**Rasm 13-13** da yozuvning örtasida yurak uriş tezligining taxminan 95 dan taxminan 150 uriş/daq gaça tösatdan ortişi körsatilgan. EKG sinçiklab örganilganda, tez yurak urişi davomida har bir QRS-T kompleksidan oldin manfiy (inversiyalangan) P tişçasi körinadi va bu P tişçasi oldingi qisqarişning me’yoriy T tişçasi ustiga qisman tuşib qolgan. Bu holat uşbu paroksizmal taxikardiyaning manbai bölmaçada ekanligini, biroq P tişçasining şakli ğayritabiiy bölgani uçun manba sinus tuguni yaqinida emasligini körsatadi."
+  },
+  "ch13-f68": {
+   "text": "Paroksizmal taxikardiya köpinça A-V tugunni öz içiga olgan ğayritabiiy (aberrant) ritm natijasida yuzaga keladi; bunda odatda QRS-T komplekslari deyarli me’yoriy böladi, P tişçalari esa butunlay yöq yoki körinmaydi.",
+   "lead": "A-V tugun paroksizmal taxikardiyasi."
+  },
+  "ch13-f69": {
+   "text": "Bölmaça yoki A-V tugun paroksizmal taxikardiyasi — ikkalasi ham _supraventrikulyar taxikardiyalar_ deb ataladi — odatda yoş, boşqa jihatdan soğlom odamlarda uçraydi va ular odatda ösmirlik davridan keyin taxikardiyaga moyillikdan xalos böladi. Umuman olganda, supraventrikulyar taxikardiya odamni qattiq qörqitadi va xuruj paytida holsizlikka sabab bölişi mumkin, ammo odatda xuruj doimiy zarar yetkazmaydi."
+  },
+  "ch13-f70": {
+   "text": "Qorinça taxikardiyasi"
+  },
+  "ch13-f71": {
+   "text": "**Rasm 13-14** da qorinça taxikardiyasining tipik qisqa xuruji körsatilgan. Qorinça taxikardiyasidagi EKG oralarida heç qanday me’yoriy qisqariş bölmagan, birin-ketin keladigan bir qator qorinça ekstrasistolalari körinişiga ega."
+  },
+  "ch13-f73": {
+   "text": "Qorinça taxikardiyasi odatda ikki sababga köra jiddiy holat hisoblanadi. Birinçidan, bu turdagi taxikardiya odatda qorinçalarda sezilarli işemik şikastlaniş bölmasa yuzaga kelmaydi. Ikkinçidan, keyingi bölimda muhokama qilinganidek, qorinça muskulining tez takroriy qözğatilişi tufayli _qorinça taxikardiyasi köpinça ölimga olib keluvçi qorinçalar fibrillyatsiyasini boşlab beradi_."
+  },
+  "ch13-f74": {
+   "text": "Ba’zan yurak yetişmovçiligini davolaşda qöllaniladigan _digitalis_ dorisidan zaharlaniş qorinça taxikardiyasiga olib keluvçi ta’sirçan öçoqlarni yuzaga keltiradi. Qorinça taxikardiyasini davolaş uçun _amiodaron_ yoki _lidokain_ kabi antiaritmik dorilar qöllanilişi mumkin. Lidokain harakat potensiali hosil bölayotganda yurak muskuli membranasining natriyga ötkazuvçanligining me’yoriy ortişini susaytiradi va şu orqali paroksizmal xurujga sabab bölayotgan öçoqning ritmik razryadlanişini köpinça töxtatadi. Amiodaron köp tomonlama ta’sirga ega, masalan, yurak muskulida harakat potensiali va refrakter davrni uzaytiradi hamda A-V ötkazilişni sekinlaştiradi. Ba’zi hollarda me’yoriy yurak ritmini tiklaş uçun yurakka elektr toki zarbasi beriş yöli bilan _kardioversiya_ ötkaziş zarur böladi."
+  },
+  "ch13-f75": {
+   "text": "Qorinçalar fibrillyatsiyasi"
+  },
+  "ch13-f76": {
+   "text": "Barça yurak aritmiyalari içida eng xavflisi qorinçalar fibrillyatsiyasi bölib, agar u 1–3 daqiqa içida töxtatilmasa, deyarli har doim ölim bilan tugaydi. Qorinçalar fibrillyatsiyasi qorinça muskuli massasi içida “boşboşdoq” bölib ketgan yurak impulslari natijasida yuzaga keladi: ular avval qorinça muskulining bir qismini, keyin boşqa qismini, keyin yana boşqasini qözğatadi va oxir-oqibat öz-öziga qaytib, xuddi öşa qorinça muskulini qayta-qayta, töxtovsiz qözğatadi. Bu hodisa yuz berganda qorinça muskulining köplab kiçik qismlari bir vaqtning özida qisqarayotgan böladi, xuddi şunça boşqa qismlari esa böşaşayotgan böladi. Şunday qilib, yurakning nasos sikli uçun zarur bölgan butun qorinça muskulining bir vaqtda muvofiqlaşgan qisqarişi heç qaçon sodir bölmaydi. Qözğatuvçi signallar qorinçalar böylab ommaviy harakatlanişiga qaramay, qorinça böşliqlari na kengayadi, na qisqaradi, balki qisman qisqarişning noaniq bosqiçida qoladi va umuman qon haydamaydi yoki juda oz miqdorda haydaydi. Şuning uçun fibrillyatsiya boşlangandan keyin boş miyaga qon oqimi yetişmasligi tufayli 4–5 soniya içida huş yöqoladi va bir neça daqiqa içida butun tanada töqimalarning qaytarib bölmaydigan nobud bölişi boşlanadi."
+  },
+  "ch13-f77": {
+   "text": "Qorinçalar fibrillyatsiyasining boşlanişiga köplab omillar turtki bölişi mumkin; odamning yuragi bir lahzada me’yoriy urib turgan bölişi, ammo 1 soniyadan söng qorinçalar fibrillyatsiya holatida bölişi mumkin. Fibrillyatsiyani ayniqsa yurakning tösatdan elektr toki urişi, yurak muskuli işemiyasi yoki maxsus ötkazuvçi tizim işemiyasi boşlab berişi ehtimoli yuqori."
+  },
+  "ch13-f78": {
+   "text": "Qayta kiriş (re-entri) hodisasi — qorinçalar fibrillyatsiyasining asosi sifatidagi aylanma harakatlar"
+  },
+  "ch13-f79": {
+   "text": "Me’yoriy yurakda _me’yoriy_ yurak impulsi qorinçalarning butun hajmi böylab ötib bölgaç, uning boradigan joyi qolmaydi, çunki butun qorinça muskuli refrakter holatda böladi va impulsni boşqa ötkaza olmaydi. Şuning uçun bu impuls sönadi va yurak sinus tugunida yangi harakat potensiali boşlanişini kutadi."
+  },
+  "ch13-f80": {
+   "text": "Biroq ba’zi şaroitlarda voqealarning bu me’yoriy ketma-ketligi buziladi. Şuning uçun quyida qayta kirişni boşlab berişi va _aylanma harakatlar_ deb ataladigan holatga olib kelişi mumkin bölgan asosiy şart-şaroitlar töliqroq tuşuntiriladi; aylanma harakatlar esa öz navbatida qorinçalar fibrillyatsiyasini keltirib çiqaradi."
+  },
+  "ch13-f81": {
+   "text": "**Rasm 13-15** da halqa şaklida kesilgan bir neçta kiçik yurak muskuli tasmalari körsatilgan. Agar bunday tasma soat 12 holatida _impuls faqat bir yönalişda tarqaladigan qilib_ qözğatilsa, impuls halqa böylab asta-sekin tarqalib, yana soat 12 holatiga qaytib keladi. Agar dastlab qözğatilgan muskul tolalari hali refrakter holatda bölsa, impuls sönadi, çunki refrakter muskul ikkinçi impulsni ötkaza olmaydi. Biroq uç xil holat bu impulsning halqa böylab harakatlanişda davom etişiga, ya’ni impulsning allaqaçon qözğalgan muskulga qayta kirişiga (aylanma harakatga) sabab bölişi mumkin: 1. Agar _halqa böylab yöl me’yordagidan ança uzun bölsa_, impuls soat 12 holatiga qaytib kelgunga qadar dastlab qözğatilgan muskul refrakter holatdan çiqib böladi va impuls halqa böylab qayta-qayta aylanişda davom etadi. 2. Agar yöl uzunligi özgarmay qolsa-yu, _ötkaziliş tezligi_ yetarli darajada _kamaysa_, impuls soat 12 holatiga qaytib kelgunça köproq vaqt ötadi. Bu vaqtga kelib dastlab qözğatilgan muskul refrakter holatdan çiqqan bölişi mumkin va impuls halqa böylab qayta-qayta aylanişda davom etişi mumkin. 3. _Muskulning refrakter davri keskin qisqarişi mumkin._ Bu holatda ham impuls halqa böylab aylanib yurişda davom etişi mumkin. Bu holatlarning barçasi inson yuragining turli patologik holatlarida uçraydi: (1) uzun yöl odatda kengaygan (dilatatsiyalangan) yuraklarda kuzatiladi; (2) ötkaziliş tezligining pasayişi köpinça Purkinye tizimining blokadasi, muskul işemiyasi, qonda kaliy miqdorining yuqoriligi yoki boşqa köplab omillar natijasida yuzaga keladi; (3) refrakter davrning qisqarişi odatda epinefrin kabi turli dorilarga javoban yoki takroriy elektr stimulyatsiyasidan keyin yuzaga keladi. Şunday qilib, yurakning köplab buzilişlarida qayta kiriş yurak qisqarişining ğayritabiiy körinişlarini yoki sinus tugunining ritm belgilovçi ta’sirini e’tiborga olmaydigan ğayritabiiy yurak ritmlarini keltirib çiqarişi mumkin."
+  },
+  "ch13-f83": {
+   "text": "Fibrillyatsiyaning zanjir reaksiyasi mexanizmi"
+  },
+  "ch13-f84": {
+   "text": "Qorinçalar fibrillyatsiyasida yurak muskuli böylab bir vaqtning özida turli yönalişlarda tarqalayotgan köplab alohida, kiçik qisqariş tölqinlarini köriş mumkin. Fibrillyatsiyadagi qayta kiruvçi impulslar **Rasm 13-15** da körsatilganidek, halqa böylab harakatlanayotgan oddiy yagona impuls emas. Aksinça, ular zanjir reaksiyasi körinişiga ega bölgan bir qator köplab tölqin frontlariga aylanib ketgan. Fibrillyatsiyadagi bu jarayonni tuşuntirişning eng yaxşi usullaridan biri — fibrillyatsiyaning 60 sikl/s çastotali özgaruvçan elektr toki zarbasi bilan boşlanişini tasvirlaş."
+  },
+  "ch13-f85": {
+   "text": "**Rasm 13-16** dagi A yurak qorinçalarining markaziy nuqtasiga stimullovçi elektrod orqali 60 sikl/s çastotali elektr stimuli beriladi. Elektr stimulining birinçi sikli depolyarizatsiya tölqinining barça yönalişlarda tarqalişiga sabab böladi va elektrod ostidagi butun muskulni refrakter holatda qoldiradi. Taxminan 0,25 soniyadan söng bu muskulning bir qismi refrakter holatdan çiqa boşlaydi. Ba’zi qismlar refrakter holatdan boşqa qismlardan oldinroq çiqadi. Bu holat A yurakda qözğaluvçan yurak muskulini ifodalovçi köplab oçroq doğlar va hali refrakter holatdagi muskulni ifodalovçi töq doğlar bilan tasvirlangan. Endi elektroddan davom etayotgan 60 sikl/s stimullar impulslarning yurak böylab barça yönalişlarda emas, balki faqat ma’lum yönalişlarda tarqalişiga sabab bölişi mumkin. Şunday qilib, A yurakda ba’zi impulslar yurakning refrakter sohalariga yetgunça qisqa masofalarni bosib ötadi va keyin tösiladi. Biroq boşqa impulslar refrakter sohalar orasidan ötib, qözğaluvçan sohalarda tarqalişda davom etadi. Söngra tez ketma-ketlikda bir neça hodisa yuz beradi; ularning barçasi bir vaqtda sodir böladi va oxir-oqibat fibrillyatsiya holatiga olib keladi.",
+   "lead": "60 sikl/s çastotali özgaruvçan tok keltirib çiqargan fibrillyatsiya."
+  },
+  "ch13-f87": {
+   "text": "Birinçidan, impulslarning ba’zi yönalişlarda tösilişi, boşqa yönalişlarda esa muvaffaqiyatli ötkazilişi qayta kiruvçi signal rivojlanişi uçun zarur şartlardan birini yaratadi — ya’ni _depolyarizatsiya tölqinlarining bir qismi yurak böylab boşqa yönalişlarda emas, faqat ba’zi yönalişlarda tarqaladi._"
+  },
+  "ch13-f88": {
+   "text": "Ikkinçidan, yurakning tez qözğatilişi yurak muskulida ikki özgarişni keltirib çiqaradi va ularning ikkalasi ham aylanma harakatga moyillik tuğdiradi: (1) _yurak muskuli orqali ötkaziliş tezligi kamayadi_, bu esa impulslarning yurak böylab aylanib çiqişi uçun köproq vaqt beradi; (2) _muskulning refrakter davri qisqaradi_, bu esa impulsning ilgari qözğalgan yurak muskuliga me’yordagidan ança qisqa vaqt içida qayta kirişiga imkon beradi."
+  },
+  "ch13-f89": {
+   "text": "Uçinçidan, qorinçalar fibrillyatsiyasining eng muhim xususiyatlaridan biri — **Rasm 13-16** dagi A yurakda körsatilganidek, _impulslarning bölinişi_. Depolyarizatsiya tölqini yurakdagi refrakter sohaga yetganda, u refrakter sohani ikki tomondan aylanib ötadi. Şunday qilib, bitta impuls ikkita impulsga aylanadi. Söngra bu impulslarning har biri boşqa refrakter sohaga yetganda yana bölinib, yana ikkita impuls hosil qiladi. Şu tarzda progressiv _zanjir reaksiyalari_ orqali yurakda doimiy ravişda köplab yangi tölqin frontlari hosil bölib boradi va nihoyat köplab kiçik depolyarizatsiya tölqinlari bir vaqtning özida köp yönalişlarda tarqaladi. Bundan taşqari, impulslar tarqalişining bu tartibsiz körinişi _impulslar uçun köplab aylanma yöllarni yuzaga keltiradi va ötkazuvçi yölni keskin uzaytiradi; bu esa fibrillyatsiyani saqlab turuvçi şartlardan biridir._ Şuningdek, bu yurakda doğ-doğ refrakter sohalarning doimiy tartibsiz manzarasiga olib keladi."
+  },
+  "ch13-f90": {
+   "text": "Ayovsiz doira qaçon boşlanganini osongina köriş mumkin. Tobora köproq impulslar hosil böladi; bu impulslar refrakter muskulning tobora köproq doğlarini yuzaga keltiradi, refrakter doğlar esa impulslarning tobora köproq bölinişiga sabab böladi. Şuning uçun yurak muskulining biror sohasi refrakter holatdan çiqqan zahoti, şu sohaga qayta kirişga tayyor impuls yaqin joyda böladi."
+  },
+  "ch13-f91": {
+   "text": "**Rasm 13-16** dagi B yurak qorinçalar fibrillyatsiyasida rivojlanadigan yakuniy holatni körsatadi. Bu yerda barça yönalişlarda tarqalayotgan köplab impulslarni köriş mumkin: ularning ba’zilari bölinib, impulslar sonini oşiradi, boşqalari esa refrakter sohalarda tösiladi. Uşbu zaif davr mobaynida berilgan bitta elektr zarbasi köpinça muskulning refrakter sohalari atrofida köp yönalişlarda tarqaluvçi impulslarning ğayrioddiy manzarasiga olib kelişi mumkin, bu esa qorinçalar fibrillyatsiyasiga sabab böladi."
+  },
+  "ch13-f92": {
+   "text": "Qorinçalar fibrillyatsiyasidagi elektrokardiogramma"
+  },
+  "ch13-f93": {
+   "text": "Qorinçalar fibrillyatsiyasida EKG ğalati körinişga ega (**Rasm 13-17**) va odatda heç qanday muntazam ritmga moyillik körsatmaydi. Qorinçalar fibrillyatsiyasining dastlabki bir neça soniyasida nisbatan katta muskul massalari bir vaqtda qisqaradi, bu esa EKG da yirik, notekis tölqinlarni hosil qiladi. Yana bir neça soniyadan söng qorinçalarning yirik qisqarişlari yöqoladi va EKG past voltajli, juda notekis tölqinlardan iborat yangi körinişga ötadi. Şunday qilib, qorinçalar fibrillyatsiyasiga biror takrorlanuvçi elektrokardiografik körinişni xos deb bölmaydi. Aksinça, qorinça muskuli bir vaqtning özida 30–50 tagaça kiçik muskul doğlarida qisqaradi va elektrokardiografik potensiallar doimiy hamda tartibsiz ravişda özgarib turadi, çunki yurakdagi elektr toklari avval bir yönalişda, keyin boşqa yönalişda oqadi va biror aniq siklni kamdan-kam takrorlaydi."
+  },
+  "ch13-f95": {
+   "text": "Qorinçalar fibrillyatsiyasidagi EKG tölqinlarining voltaji fibrillyatsiya endigina boşlanganda odatda taxminan 0,5 millivolt böladi, biroq tez pasayadi; şuning uçun 20–30 soniyadan söng u odatda atigi 0,2–0,3 millivoltni taşkil etadi. Qorinçalar fibrillyatsiyasi boşlanganidan keyin 10 daqiqa yoki undan köproq vaqt davomida 0,1 millivolt yoki undan past juda kiçik voltajlar yozib olinişi mumkin. Yuqorida ta’kidlanganidek, qorinçalar fibrillyatsiyasi paytida qon umuman haydalmagani sababli, agar bu holat muvaffaqiyatli davo — masalan, keyingi bölimda tuşuntirilganidek, yurak orqali zudlik bilan elektr zarbasi beriş (defibrillyatsiya) — bilan töxtatilmasa, ölimga olib keladi."
+  },
+  "ch13-f96": {
+   "text": "Qorinçalar defibrillyatsiyasi"
+  },
+  "ch13-f97": {
+   "text": "Qorinçalarga bevosita qöyilgan örtaça kuçlanişli özgaruvçan tok deyarli har doim qorinçalarni fibrillyatsiya holatiga tuşirsa-da, qorinçalar orqali soniyaning bir uluşi davomida ötkazilgan kuçli, yuqori kuçlanişli elektr toki butun qorinça muskulini bir vaqtning özida refrakter holatga keltirib, fibrillyatsiyani töxtatişi mumkin. Bunga yurakning ikki tomoniga qöyilgan katta elektrodlar orqali kuçli tok ötkaziş yöli bilan erişiladi. Tok qorinçalar tolalarining köpçiligiga bir vaqtda kirib boradi va şu tariqa qorinçalarning deyarli barça qismlarini bir vaqtda qözğatib, ularning hammasini refrakter holatga keltiradi. Barça harakat potensiallari töxtaydi va yurak 3–5 soniya tinç turadi, şundan söng yana ura boşlaydi; bunda odatda sinus tuguni yoki yurakning boşqa biror qismi ritm boşqaruvçisiga aylanadi. Biroq qorinçalarni dastlab fibrillyatsiyaga tuşirgan öşa qayta kiriş öçoği hali ham mavjud bölsa, fibrillyatsiya darhol qayta boşlanişi mumkin."
+  },
+  "ch13-f98": {
+   "text": "Elektrodlar bevosita yurakning ikki tomoniga qöyilganda fibrillyatsiyani odatda soniyaning bir neça mingdan bir uluşi davomida berilgan 1000 voltli özgarmas tok bilan töxtatiş mumkin. **Rasm 13-18** da körsatilganidek, tok kökrak qafasi devoridagi ikkita elektrod orqali berilganda odatiy usul şundan iborat: katta elektr kondensatori bir neça ming voltgaça zaryadlanadi, söngra u soniyaning bir neça mingdan bir uluşi davomida elektrodlar va yurak orqali razryadlanadi."
+  },
+  "ch13-f100": {
+   "text": "Köpçilik hollarda defibrillyatsiya toki yurakka ikki fazali tölqin şaklida, ya’ni tok impulsining yurak orqali yönalişini almaştirib turgan holda beriladi. Bunday usul muvaffaqiyatli defibrillyatsiya uçun zarur energiyani sezilarli darajada kamaytiradi va şu orqali kuyiş hamda yurak şikastlanişi xavfini pasaytiradi."
+  },
+  "ch13-f101": {
+   "text": "Qorinçalar fibrillyatsiyasi xavfi yuqori bölgan bemorlarga elektrod simlari öng qorinçaga joylaştirilgan, batareya bilan işlaydigan kiçik implantatsiya qilinadigan kardioverter-defibrillyator (IKD; inglizça ICD) örnatilişi mumkin. Qurilma qorinçalar fibrillyatsiyasini aniqlaş va yurakka qisqa elektr impulsi beriş orqali uni bartaraf etiş uçun dasturlangan. Elektronika va batareyalar sohasidagi yutuqlar yurakning içiga yoki ustiga emas, balki teri ostiga, yurak yaqinida qovurğa qafasidan taşqariga joylaştirilgan elektrod simlari orqali yurakni defibrillyatsiya qiliş uçun yetarli elektr tokini bera oladigan IKD larni yaratiş imkonini berdi. Bu qurilmalarni kiçik jarrohlik muolajasi yordamida örnatiş mumkin."
+  },
+  "ch13-f102": {
+   "text": "Defibrillyatsiyaga yordam sifatida yurakni qöl bilan nasoslaş (yurak-öpka reanimatsiyasi)"
+  },
+  "ch13-f103": {
+   "text": "Agar qorinçalar fibrillyatsiyasi boşlanganidan keyin 1 daqiqa içida defibrillyatsiya qilinmasa, koronar qon oqimidan oziqlaniş yetişmasligi tufayli yurak odatda defibrillyatsiya bilan qayta tiklaniş uçun haddan taşqari zaiflaşib qoladi. Biroq yurakni avval qöl bilan nasoslab (vaqti-vaqti bilan qöl bilan siqib), keyinroq defibrillyatsiya qiliş orqali uni hali ham tiklaş mumkin. Şu yöl bilan aortaga oz miqdorda qon yetkaziladi va koronar qon ta’minoti qayta tiklanadi. Söngra bir neça daqiqa qöl bilan nasoslaşdan keyin elektr defibrillyatsiyasi köpinça mumkin bölib qoladi. Fibrillyatsiya holatidagi yuraklarni 90 daqiqagaça qöl bilan nasoslab, söngra muvaffaqiyatli defibrillyatsiya qilingan hollar bölgan."
+  },
+  "ch13-f104": {
+   "text": "Kökrak qafasini oçmasdan yurakni nasoslaş usuli sun’iy nafas beriş bilan birga kökrak qafasi devoriga vaqti-vaqti bilan bosim berib turişdan iborat. Bu jarayon defibrillyatsiya bilan birgalikda _yurak-öpka reanimatsiyasi_ (YÖR; inglizça CPR) deb ataladi."
+  },
+  "ch13-f105": {
+   "text": "Boş miyaga 5–8 daqiqadan ortiq qon oqimi bormasligi odatda doimiy aqliy zaiflikka yoki hatto miya töqimasining yemirilişiga olib keladi. Yurak qayta tiklangan taqdirda ham odam miya şikastlanişi oqibatlaridan vafot etişi yoki doimiy aqliy zaiflik bilan yaşaşi mumkin."
+  },
+  "ch13-f106": {
+   "text": "Bölmaçalar fibrillyatsiyasi"
+  },
+  "ch13-f107": {
+   "text": "Esda tutingki, A-V tutam orqali ötadigan ötkazuvçi yöldan taşqari, bölmaça muskuli massasi qorinça muskuli massasidan fibroz töqima bilan ajratilgan. Şuning uçun qorinçalar fibrillyatsiyasi köpinça bölmaçalar fibrillyatsiyasisiz yuzaga keladi. Xuddi şunday, bölmaçalarda ham fibrillyatsiya köpinça qorinçalar fibrillyatsiyasisiz yuzaga keladi (**Rasm 13-20** ning öng tomonida körsatilgan)."
+  },
+  "ch13-f109": {
+   "text": "Bölmaçalar fibrillyatsiyasining mexanizmi qorinçalar fibrillyatsiyasinikiga aynan öxşaş, faqat jarayon qorinça massasida emas, balki faqat bölmaça muskuli massasida sodir böladi. Bölmaçalar fibrillyatsiyasining keng tarqalgan sababi — bölmaçalarning kattalaşişi; u, masalan, bölmaçalarning qorinçalarga yetarliça böşalişiga tösqinlik qiluvçi yurak klapanlari şikastlanişi yoki bölmaçalarda qonning haddan taşqari dimlanişiga olib keluvçi qorinçalar yetişmovçiligi natijasida yuzaga kelişi mumkin. Kengaygan bölmaça devorlari uzun ötkazuvçi yöl hamda sekin ötkaziliş uçun ideal şaroit yaratadi; bularning ikkalasi ham bölmaçalar fibrillyatsiyasiga moyillik tuğdiradi."
+  },
+  "ch13-f110": {
+   "text": "Qorinçalar fibrillyatsiyasi paytida qorinçalar qon haydamaganidek, xuddi şu sabablarga köra bölmaçalar fibrillyatsiyasida bölmaçalar ham qon haydamaydi. Şuning uçun bölmaçalar qorinçalar uçun dastlabki (yordamçi) nasos sifatida foydasiz bölib qoladi. Şunga qaramay, qon bölmaçalar orqali qorinçalarga passiv oqib ötadi va qorinçalar nasos faoliyatining samaradorligi atigi 20–30% ga kamayadi. Şu sababli, ölimga olib keluvçi qorinçalar fibrillyatsiyasidan farqli ölaroq, odam bölmaçalar fibrillyatsiyasi bilan yurakning umumiy nasos samaradorligi pasaygan holda bölsa-da, yillar davomida yaşaşi mumkin. Biroq bölmaçalarning qisqariş funksiyasi pasaygani sababli qon dimlanib qolişi mumkin, bu esa bölmaça quloqçasida qon laxtalari hosil bölişiga imkon beradi. Bu qon laxtalari ajralib çiqib, boş miyaga borib insultga sabab bölişi yoki tananing boşqa qismlariga borişi mumkin. Şuning uçun bölmaçalar fibrillyatsiyasi bölgan bemorlarga emboliya xavfini kamaytiriş maqsadida köpinça qonni suyultiruvçi dorilar (antikoagulyantlar) buyuriladi.",
+   "lead": "Bölmaçalar fibrillyatsiyasida bölmaçalar nasos faoliyatining buzilişi."
+  },
+  "ch13-f111": {
+   "text": "Bölmaçalar fibrillyatsiyasidagi elektrokardiogramma"
+  },
+  "ch13-f112": {
+   "text": "**Rasm 13-19** da bölmaçalar fibrillyatsiyasi paytidagi EKG körsatilgan. Bölmaçalar fibrillyatsiyasida bölmaçalar böylab barça yönalişlarda köplab kiçik depolyarizatsiya tölqinlari tarqaladi. Tölqinlar kuçsiz bölgani va istalgan paytda ularning köpçiligi qarama-qarşi qutblanişga ega bölgani uçun ular odatda bir-birini elektr jihatdan deyarli töliq neytrallaydi. Şuning uçun EKG da bölmaçalardan keladigan P tişçalari umuman körinmaydi yoki faqat mayda, yuqori çastotali, juda past voltajli tölqinlar yozuvi körinadi. Aksinça, qorinçalarda biror patologiya bölmasa, QRS-T komplekslari me’yoriy böladi, ammo quyida tuşuntirilganidek, ularning paydo böliş vaqti notekis böladi."
+  },
+  "ch13-f114": {
+   "text": "Bölmaçalar fibrillyatsiyasida qorinçalar ritmining notekisligi"
+  },
+  "ch13-f115": {
+   "text": "Bölmaçalar fibrillyatsiya holatida bölganda bölmaça muskulidan A-V tugunga impulslar tez, lekin notekis keladi. A-V tugun oldingi impulsdan keyin taxminan 0,35 soniya davomida ikkinçi impulsni ötkazmagani sababli, bir qorinça qisqarişi bilan keyingisi orasida kamida 0,35 soniya ötişi kerak. Söngra bölmaçalarning notekis fibrillyatsion impulslaridan biri tasodifan A-V tugunga yetib kelgunça qöşimça, lekin özgaruvçan 0–0,6 soniyalik interval ötadi. Şunday qilib, ketma-ket qorinça qisqarişlari orasidagi interval eng kamida taxminan 0,35 soniyadan eng köpi bilan taxminan 0,95 soniyagaça özgarib turadi va bu yurak urişining juda notekis bölişiga olib keladi. Darhaqiqat, **Rasm 13-19** dagi EKG da yurak qisqarişlari orasidagi oraliqlarning har xilligi bilan namoyon böladigan bu notekislik uşbu holatni taşxislaşda qöllaniladigan klinik belgilardan biridir. Şuningdek, bölmaçalardagi fibrillyatsion impulslarning tezligi yuqori bölgani sababli qorinça tez ritmda — odatda daqiqasiga 125–150 marta — qisqarişga majbur böladi."
+  },
+  "ch13-f116": {
+   "text": "Bölmaçalar fibrillyatsiyasini elektr zarbasi bilan davolaş"
+  },
+  "ch13-f117": {
+   "text": "Qorinçalar fibrillyatsiyasini elektr zarbasi yordamida me’yoriy ritmga qaytariş mumkin bölganidek, bölmaçalar fibrillyatsiyasini ham elektr zarbasi bilan me’yoriy ritmga ötkaziş mumkin. Muolaja qorinçalar fibrillyatsiyasini bartaraf etişdagiga öxşaydi, faqat bitta elektr zarbasi qorinçalar qözğalişga nisbatan refrakter bölgan QRS kompleksi paytidagina beriladigan qilib dasturlanadi (yoki sinxronlaştiriladi). _Agar yurak me’yoriy ritm hosil qilişga qodir bölsa_, köpinça me’yoriy ritm tiklanadi. Bu muolaja qorinçalar fibrillyatsiyasidagi _defibrillyatsiyadan_ farqli ravişda sinxronlaştirilgan _kardioversiya_ deb ataladi."
+  },
+  "ch13-f118": {
+   "text": "Bölmaçalar titraşi (trepetaniyasi)"
+  },
+  "ch13-f119": {
+   "text": "Bölmaçalar titraşi (trepetaniyasi) — bölmaçalardagi aylanma harakat natijasida yuzaga keladigan yana bir holat. Bölmaçalar titraşi bölmaçalar fibrillyatsiyasidan şunisi bilan farq qiladiki, **Rasm 13-20** ning çap tomonida körsatilganidek, elektr signali bitta katta tölqin şaklida, doimo bir yönalişda, bölmaça muskuli massasi böylab aylanib harakatlanadi. Bölmaçalar titraşi bölmaçalarning tez qisqarişiga — odatda daqiqasiga 200–350 marta — sabab böladi. Biroq bölmaçalarning bir tomoni qisqarayotganda ikkinçi tomoni böşaşayotgani sababli bölmaçalar haydaydigan qon miqdori kamayadi. Bundan taşqari, signallar A-V tugunga şunçalik tez yetib keladiki, ularning hammasi qorinçalarga ötkazila olmaydi, çunki A-V tugun va A-V tutamning refrakter davrlari bölmaça signallarining faqat bir qismini ötkazişga imkon beradigan darajada uzun. Şuning uçun odatda qorinçalarning har bir qisqarişiga bölmaçalarning ikki-uç qisqarişi töğri keladi."
+  },
+  "ch13-f120": {
+   "text": "**Rasm 13-21** da bölmaçalar titraşidagi tipik EKG körsatilgan. P tişçalari kuçli, çunki qisman muvofiqlaşgan muskul massalari qisqaradi. Biroq e’tibor bering: QRS-T kompleksi bölmaça P tişçasidan keyin bölmaçalarning har ikki qisqarişida faqat bir marta keladi, ya’ni 2:1 ritm hosil böladi."
+  },
+  "ch13-f122": {
+   "text": "Yurakning töxtaşi"
+  },
+  "ch13-f123": {
+   "text": "Yurak ritmikligi va ötkazuvçanlik tizimining sönggi jiddiy buzilişi — _yurakning töxtaşi_ bölib, u yurakdagi barça boşqaruvçi elektr signallarining töxtaşi natijasida yuzaga keladi. Ya’ni heç qanday öz-özidan paydo böladigan ritm qolmaydi."
+  },
+  "ch13-f124": {
+   "text": "Yurakning töxtaşi _çuqur narkoz paytida_ yuzaga kelişi mumkin; bunda nafasning yetarli emasligi tufayli oğir gipoksiya rivojlanişi mumkin. Gipoksiya muskul tolalari va ötkazuvçi tolalarning membranalari orqali elektrolitlar konsentratsiyalaridagi me’yoriy farqlarni saqlab turişiga tösqinlik qiladi va ularning qözğaluvçanligi şu darajada buzilişi mumkinki, avtomatik ritmiklik yöqoladi."
+  },
+  "ch13-f125": {
+   "text": "Narkoz tufayli yurak töxtaşining köp hollarida uzoq davom etgan yurak-öpka reanimatsiyasi (köp daqiqalar yoki hatto soatlar davomida) me’yoriy yurak ritmini tiklaşda ança muvaffaqiyatli böladi. Ba’zi bemorlarda oğir miokard kasalligi doimiy yoki uzoq muddatli yurak töxtaşiga sabab bölişi mumkin, bu esa ölimga olib kelişi mumkin. Bu holatni davolaş uçun _implantatsiya qilingan elektron yurak ritm boşqaruvçisidan_ (peysmekerdan) keladigan ritmik elektr impulslari bemorlarning hayotini oylar va yillar davomida saqlab qolişda muvaffaqiyatli qöllanilgan."
+  }
+ },
+ "figures": {
+  "gh14-fig-13-01": "Sinus taxikardiyasi (I ulaniş).",
+  "gh14-fig-13-02": "Sinus bradikardiyasi (III ulaniş).",
+  "gh14-fig-13-03": "Kardiotaxometr yordamida yozib olingan sinus aritmiyasi. Çapda — tekşiriluvçi me’yoriy nafas olayotgandagi yozuv; öngda — çuqur nafas olayotgandagi yozuv.",
+  "gh14-fig-13-04": "Sinoatrial (S-A) tugun blokadasi; blokada davrida atrioventrikulyar tugun ritmi kuzatiladi (III ulaniş).",
+  "gh14-fig-13-05": "Birinçi darajali atrioventrikulyar yurak blokadasi sabab bölgan P-R intervalining uzayişi (II ulaniş).",
+  "gh14-fig-13-06": "I tip ikkinçi darajali atrioventrikulyar blokada: tuşib qolgan qisqarişdan oldin P-R intervalining asta-sekin uzayişi körinadi.",
+  "gh14-fig-13-07": "Töliq atrioventrikulyar blokada (II ulaniş).",
+  "gh14-fig-13-08": "Qisman qorinça içi blokadasi — elektr alternansi (I ulaniş).",
+  "gh14-fig-13-09": "Bölmaça ekstrasistolasi (I ulaniş).",
+  "gh14-fig-13-10": "Atrioventrikulyar tugun ekstrasistolasi (III ulaniş).",
+  "gh14-fig-13-11": "Katta, ğayritabiiy QRS-T komplekslari bilan namoyon bölgan qorinça ekstrasistolalari (II va III ulanişlar). Ekstrasistolalar öqi 12-bobda tuşuntirilgan vektor tahlili tamoyillariga muvofiq çizilgan va qorinça ekstrasistolasining manbai qorinçalar asosi yaqinida ekanligini körsatadi.",
+  "gh14-fig-13-12": "Uzun QT sindromida aritmiyalarning rivojlanişi. Repolyarizatsiya keçikişi natijasida qorinça muskul tolasining harakat potensiali uzayganda, töliq repolyarizatsiyadan oldin muddatidan oldingi depolyarizatsiya (yuqori çap rasmdagi uzuq çiziq) yuzaga kelişi mumkin. Takroriy muddatidan oldingi depolyarizatsiyalar (yuqori öng rasm) ma’lum şaroitlarda köplab depolyarizatsiyalarga olib kelişi mumkin. _Torsades de pointes_ da (pastki rasm) qorinça ekstrasistolalari pauzalarga, pauzadan keyingi Q-T interval uzayişiga va aritmiyalarga olib keladi. (Murray KT, Roden DM: Disorders of cardiac repolarization: the long QT syndromes. In: Crawford MG, DiMarco JP [eds]: Cardiology. London: Mosby, 2001 dan özgartirilgan.)",
+  "gh14-fig-13-13": "Paroksizmal bölmaça taxikardiyasi — yozuvning örtasida boşlanadi (I ulaniş).",
+  "gh14-fig-13-14": "Qorinçalar paroksizmal taxikardiyasi (III ulaniş).",
+  "gh14-fig-13-15": "Aylanma harakat: qisqa yölda impulsning sönişi va uzun yölda impulsning tarqalişda davom etişi körsatilgan.",
+  "gh14-fig-13-16": "A — refrakter muskul doğlari mavjud bölganda yurakda fibrillyatsiyaning boşlanişi. B — fibrillyatsiya holatidagi qorinçada fibrillyatsion impulslarning tarqalişda davom etişi.",
+  "gh14-fig-13-17": "Qorinçalar fibrillyatsiyasi (II ulaniş).",
+  "gh14-fig-13-18": "Qorinçalar fibrillyatsiyasini töxtatiş uçun kökrak qafasiga elektr toki beriş.",
+  "gh14-fig-13-19": "Bölmaçalar fibrillyatsiyasi (II ulaniş). Körinib turgan tölqinlar — qorinçalarning QRS va T tölqinlari.",
+  "gh14-fig-13-20": "Bölmaçalar titraşi va bölmaçalar fibrillyatsiyasida impulslarning tarqaliş yöllari.",
+  "gh14-fig-13-21": "Daqiqasiga 250 marta bölgan bölmaçalar titraşi; bölmaçalar va qorinçalar ritmi nisbati 2:1, qorinçalar ritmi daqiqasiga 125 marta (II ulaniş)."
+ }
+}

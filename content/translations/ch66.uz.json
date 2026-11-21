@@ -1,0 +1,382 @@
+{
+ "lessonId": "ch66",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 66,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "manual",
+ "translator": "Claude (DrStudy sessiyasi)",
+ "model": null,
+ "createdAt": "2026-11-19T12:08:24.752Z",
+ "updatedAt": "2026-11-19T12:08:24.766Z",
+ "coverage": {
+  "translated": 114,
+  "total": 114
+ },
+ "note": "Kitob matnining töliq özbekça tarjimasi (qisqartirilmagan). Ekspert tekşiruvidan ötmagan.",
+ "blocks": {
+  "ch66-f0": {
+   "text": "Organizm uçun asosiy oziq moddalar _uglevodlar, yoğlar_ va _oqsillardir_. Bundan taşqari, organizmga oz miqdorda vitamin va minerallar ham kerak. Uglevodlar, yoğlar va oqsillar tabiiy şaklida odatda me’da-içak şilliq qavati orqali sörila olmaydi. Şu sababli oldindan hazm bölmasa, ular oziq modda sifatida işlatilmaydi. Bu bobda uglevodlar, yoğlar va oqsillarning sörila oladigan darajada kiçik birikmalarga parçalanişi, şuningdek hazmning yakuniy mahsulotlari, suv, elektrolitlar va boşqa moddalarning söriliş mexanizmlari körib çiqiladi."
+  },
+  "ch66-f1": {
+   "text": "Turli oziq moddalarning gidroliz orqali hazm bölişi"
+  },
+  "ch66-f2": {
+   "text": "Ovqatdagi uglevodlarning deyarli hammasi yirik _polisaxaridlar_ yoki _disaxaridlardir_. Ular _kondensatsiya_ yöli bilan bir-biriga boğlangan _monosaxaridlardan_ tuzilgan. Bunda bir monosaxariddan vodorod ioni (H⁺), keyingisidan esa gidroksil ioni (OH⁻) ajraladi. Ikki monosaxarid şu ionlar ajralgan joylarida birikadi, H⁺ bilan OH⁻ esa suv (H₂O) hosil qiladi.",
+   "lead": "Uglevodlar gidrolizi."
+  },
+  "ch66-f3": {
+   "text": "Uglevodlar hazm bölganida jarayon teskari yönalişda keçadi va ular monosaxaridlarga ajraladi. Hazm yöli şiralaridagi maxsus fermentlar suvdan kelgan H⁺ va OH⁻ ni polisaxaridlarning boğlangan qismlariga qaytarib, monosaxaridlarni bir-biridan ajratadi. Bu jarayon _gidroliz_ deyiladi. Masalan, R″–R′ disaxaridi uçun reaksiya R″–R′ + H₂O → R″–OH + H–R′ körinişida ifodalanadi."
+  },
+  "ch66-f4": {
+   "text": "Ovqat yoğlarining deyarli hammasi triglitseridlar, ya’ni neytral yoğlardir. Har bir triglitserid uçta _yoğ kislotasi_ molekulasi bilan bitta _glitserin_ molekulasining kondensatsiyalanişidan hosil böladi. Bunda uçta suv molekulasi ajraladi.",
+   "lead": "Yoğlar gidrolizi."
+  },
+  "ch66-f5": {
+   "text": "Triglitseridlarning _gidrolizi_, ya’ni hazm bölişi, teskari jarayondir. Yoğlarni hazm qiluvçi fermentlar triglitserid molekulasiga uçta suv molekulasini qaytarib, yoğ kislotalarini glitserindan ajratadi."
+  },
+  "ch66-f6": {
+   "text": "Oqsillar _peptid boğlari_ bilan birikkan köplab _aminokislotalardan_ tuzilgan. Har bir boğ hosil bölganda bir aminokislotadan OH⁻, keyingisidan H⁺ ajraladi. Demak, oqsil zanjiridagi ketma-ket aminokislotalar ham kondensatsiya yöli bilan birikadi va hazmda teskari jarayon — gidroliz keçadi. Proteolitik fermentlar suv molekulalaridan kelgan H⁺ va OH⁻ ni oqsildagi boğlaniş joylariga qaytaradi. Natijada oqsil uni taşkil etgan aminokislotalarga parçalanadi.",
+   "lead": "Oqsillar gidrolizi."
+  },
+  "ch66-f7": {
+   "text": "Hazmning kimyoviy asosi sodda, çunki oziq moddalarning uç asosiy turida ham bir xil jarayon — _gidroliz_ keçadi. Farq har bir oziq moddaning gidroliz reaksiyasini tezlaştiradigan ferment turidadir."
+  },
+  "ch66-f8": {
+   "text": "Barça hazm fermentlari oqsillardir. Ularning me’da-içak bezlaridan ajralişi 65-bobda körib çiqilgan."
+  },
+  "ch66-f9": {
+   "text": "Uglevodlarning hazm bölişi"
+  },
+  "ch66-f10": {
+   "text": "Odatdagi inson ratsionida uglevodlarning uç asosiy manbai bor: qamiş şakari sifatida tanilgan disaxarid _saxaroza_, sutdagi disaxarid _laktoza_ hamda hayvon mahsulotlaridan taşqari deyarli barça ovqatlarda, ayniqsa kartoşka va donlarda uçraydigan yirik polisaxaridlar — _kraxmallar_. Ratsionda oz miqdorda _amiloza, glikogen, spirt, sut kislotasi, pirouzum kislotasi, pektinlar, dekstrinlar_ va _göştdagi uglevod hosilalari_ ham böladi.",
+   "lead": "Ovqatdagi uglevodlar."
+  },
+  "ch66-f11": {
+   "text": "Ratsionda köp miqdorda _selluloza_ ham bor. U uglevod bölsa-da, odamning hazm yöli uni gidrolizlaydigan ferment ajratmaydi. Şu sababli sellulozadan hazm böladigan oziq modda sifatida foydalanilmaydi."
+  },
+  "ch66-f12": {
+   "text": "Ovqat çaynalganida asosan quloq oldi bezlari ajratadigan _ptialin_ (α-amilaza) fermenti bor sölak bilan aralaşadi. **Rasm 66-1** da körsatilganidek, ferment kraxmalni _maltoza_ disaxaridi va uçdan töqqiztagaça glukoza molekulasidan tuzilgan boşqa kiçik polimerlarga gidrolizlaydi. Ovqat oğizda qisqa vaqt qoladi. Şuning uçun yutiliş paytigaça kraxmalning, ehtimol, köpi bilan 5 foizi gidrolizlanadi.",
+   "lead": "Uglevodlarning hazmi oğiz va me’dada boşlanadi."
+  },
+  "ch66-f14": {
+   "text": "Kraxmalning hazmi ovqat me’da şirasi bilan aralaşgunça me’da tanasi va tubida ba’zan bir soatgaça davom etadi. Keyin me’da kislotasi sölak amilazasini tormozlaydi, çunki muhit pH qiymati taxminan 4,0 dan pastga tuşganida bu ferment deyarli faolsizlanadi. Şunga qaramay, ovqat va unga qöşilgan sölak me’da şirasi bilan töliq aralaşgunça kraxmalning örtaça 30–40 foizigaça gidrolizlanib, asosan _maltoza_ hosil qiladi."
+  },
+  "ch66-f15": {
+   "text": "Ingiçka içakda uglevodlarning hazm bölişi"
+  },
+  "ch66-f16": {
+   "text": "Sölak singari me’da osti bezi şirasida ham köp miqdorda α-amilaza bor. Uning vazifasi sölakdagi α-amilazanikiga deyarli bir xil, lekin ta’siri bir neça baravar kuçli. Ximus me’dadan ön ikki barmoq içakka ötib, me’da osti bezi şirasi bilan aralaşganidan keyin 15–30 daqiqada uglevodlarning deyarli hammasi parçalanadi.",
+   "lead": "Me’da osti bezi amilazasi ta’sirida hazm."
+  },
+  "ch66-f17": {
+   "text": "Odatda uglevodlar ön ikki barmoq içak yoki oç içakning yuqori qismidan ötib ketgunça deyarli butunlay _maltoza_ yoki _boşqa kiçik glukoza polimerlariga_ aylanadi."
+  },
+  "ch66-f18": {
+   "text": "Ingiçka içak vorsinkalarini qoplovçi _enterotsitlarda_ törtta ferment — _laktaza, saxaraza, maltaza_ va _α-dekstrinaza_ bor. Ular laktoza, saxaroza va maltoza disaxaridlarini hamda boşqa kiçik glukoza polimerlarini ularni taşkil etgan monosaxaridlarga ajratadi. Fermentlar içak mikrovorsinkalarining _çötkasimon hoşiyasini_ hosil qiladigan enterotsitlarda joylaşadi. Disaxaridlar şu enterotsitlarga tegişi bilan hazm böladi.",
+   "lead": "Içak epiteliysi fermentlari disaxaridlar va kiçik glukoza polimerlarini monosaxaridlarga parçalaydi."
+  },
+  "ch66-f19": {
+   "text": "Laktoza bittadan _galaktoza_ va _glukoza_ molekulasiga parçalanadi. Saxarozadan bittadan _fruktoza_ va _glukoza_ hosil böladi. Maltoza va boşqa kiçik glukoza polimerlari esa _bir neça glukoza molekulasiga_ ajraladi. Demak, uglevod hazmining barça yakuniy mahsulotlari monosaxaridlardir. Ularning hammasi suvda eriydi va darhol darvoza venasi qoniga söriladi."
+  },
+  "ch66-f20": {
+   "text": "Odatdagi ratsionda kraxmal boşqa uglevodlarning jami miqdoridan ança köp. Şu sababli uglevod hazmining yakuniy mahsulotlarida glukoza 80 foizdan ortiq uluşni taşkil etadi. Galaktoza va fruktozaning har biri kamdan-kam hollarda 10 foizdan oşadi."
+  },
+  "ch66-f21": {
+   "text": "Uglevodlar hazmining asosiy bosqiçlari **Rasm 66-1** da umumlaştirilgan."
+  },
+  "ch66-f22": {
+   "text": "Oqsillarning hazm bölişi"
+  },
+  "ch66-f23": {
+   "text": "Ovqat oqsillari kimyoviy jihatdan _peptid boğlari_ bilan birikkan aminokislotalarning uzun zanjirlaridir. Bunday boğning odatiy tuziliş belgisi — –CO–NH–.",
+   "lead": "Ovqatdagi oqsillar."
+  },
+  "ch66-f24": {
+   "text": "Har bir oqsilning xossalarini uning tarkibidagi aminokislota turlari va ularning zanjirda joylaşiş tartibi belgilaydi. Odam töqimalari uçun muhim turli oqsillarning fizik va kimyoviy xossalari 70-bobda körib çiqiladi."
+  },
+  "ch66-f25": {
+   "text": "Me’daning muhim proteolitik fermenti _pepsin_ pH 2,0–3,0 oraliğida eng faol böladi. pH taxminan 5,0 dan oşganda u faolsizlanadi. Şuning uçun oqsillarni hazm qilişi uçun me’da şirasi kislotali bölişi kerak. 65-bobda bayon qilinganidek, me’da bezlari köp miqdorda xlorid kislota ajratadi. Uni bezlarning pariyetal (oksintik) hujayralari taxminan pH 0,8 da ajratadi.",
+   "lead": "Me’dada oqsillarning hazm bölişi."
+  },
+  "ch66-f26": {
+   "text": "Kislota me’da tarkibi va oksintik bölmagan hujayralar ajralmasi bilan aralaşgaç, pH örtaça 2,0–3,0 atrofida böladi. Bu pepsin faolligi uçun juda qulay oraliq."
+  },
+  "ch66-f27": {
+   "text": "Pepsin ta’sirining muhim xususiyati — boşqa hazm fermentlari kam ta’sir qiladigan albuminoid turidagi _kollagen_ oqsilini parçalaşidir. Kollagen göştdagi hujayralararo biriktiruvçi töqimaning asosiy tarkibiy qismlaridan biri. Boşqa fermentlar göşt içiga kirib, qolgan oqsillarni hazm qilişi uçun avval kollagen tolalari parçalanişi kerak. Me’da şirasida pepsin yetişmagan odamlarda boşqa fermentlar göştga yomonroq kiradi va u yetarliça hazm bölmasligi mumkin."
+  },
+  "ch66-f28": {
+   "text": "**Rasm 66-2** da körsatilganidek, pepsin oqsil hazmini boşlab beradi. U odatda jami oqsil hazmining atigi 10–20 foizini amalga oşirib, oqsilni proteozlar, peptonlar va ayrim polipeptidlarga aylantiradi. Bu parçalaniş aminokislotalar orasidagi peptid boğlarining gidrolizi orqali keçadi."
+  },
+  "ch66-f30": {
+   "text": "Oqsil hazmining asosiy qismi ingiçka içakning yuqori qismida, ya’ni ön ikki barmoq içak va oç içakda, me’da osti bezi şirasidagi proteolitik fermentlar ta’sirida keçadi. Oqsilli ovqatning qisman parçalaniş mahsulotlari me’dadan ingiçka içakka tuşişi bilan ularga _tripsin, ximotripsin, karboksipolipeptidaza_ va _elastaza_ ta’sir qiladi (**Rasm 66-2**). Tripsin va ximotripsin oqsillarni kiçik polipeptidlarga ajratadi. Karboksipolipeptidaza polipeptidlarning karboksil uçidan alohida aminokislotalarni uzib oladi. _Proelastaza_ _elastazaga_ aylanadi. Elastaza göşt töqimasining tuzilişini saqlab turuvçi elastin tolalarini parçalaydi.",
+   "lead": "Oqsillarning asosiy qismi me’da osti bezining proteolitik fermentlari ta’sirida hazm böladi."
+  },
+  "ch66-f31": {
+   "text": "Me’da osti bezi şirasi oqsillarning faqat oz qismini alohida aminokislotalargaça parçalaydi. Parçalaniş mahsulotlarining köpçiligi dipeptid va tripeptidlar şaklida qoladi."
+  },
+  "ch66-f32": {
+   "text": "Içak böşliğida oqsillar hazmining oxirgi bosqiçini asosan ön ikki barmoq içak va oç içak vorsinkalarini qoplagan enterotsitlar amalga oşiradi. Bu hujayralarning yuzasidan yuzlab _mikrovorsinkalar_ çiqib, _çötkasimon hoşiya_ hosil qiladi. Har bir mikrovorsinka membranasida bir qança _peptidazalar_ bor. Ular membranadan taşqariga çiqib, içak suyuqligi bilan tutaşadi.",
+   "lead": "Peptidlarning içak vorsinkalarini qoplovçi enterotsitlardagi peptidazalar orqali hazm bölişi."
+  },
+  "ch66-f33": {
+   "text": "Ikki turdagi peptidaza ayniqsa muhim: _aminopolipeptidaza_ va bir neça xil _dipeptidaza_. Ular qolgan yirik polipeptidlarni tripeptid, dipeptid va qisman aminokislotalarga parçalaydi. Aminokislotalar, dipeptidlar va tripeptidlar mikrovorsinka membranasi orqali enterotsit içiga oson taşiladi."
+  },
+  "ch66-f34": {
+   "text": "Enterotsit sitozolida aminokislotalar orasidagi qolgan turdagi boğlarga xos boşqa peptidazalar bor. Bir neça daqiqada qolgan dipeptid va tripeptidlarning deyarli hammasi alohida aminokislotalargaça parçalanadi. Aminokislotalar enterotsitning qarama-qarşi tomoniga ötib, u yerdan qonga tuşadi."
+  },
+  "ch66-f35": {
+   "text": "Sörilgan oqsil hazmi mahsulotlarining 99 foizdan ortiği alohida aminokislotalardir. Peptidlar kamdan-kam, butun oqsil molekulalari esa juda kamdan-kam söriladi. Şunday oz miqdordagi butun oqsil ham ba’zan jiddiy allergik yoki immun buzilişlarga olib kelişi mumkin. Bu mavzu 35-bobda körib çiqiladi."
+  },
+  "ch66-f36": {
+   "text": "Ovqatda eng köp uçraydigan yoğlar neytral yoğlar, ya’ni _triglitseridlardir_. Har bir molekula glitserin özagi va uçta yon yoğ kislotasi zanjiridan tuzilgan (**Rasm 66-3**). Neytral yoğ hayvon mahsulotlarining muhim tarkibiy qismi, ösimlik mahsulotlarida esa uning uluşi ança kam.",
+   "lead": "Ovqatdagi yoğlar."
+  },
+  "ch66-f38": {
+   "text": "Odatdagi ratsionda oz miqdorda fosfolipidlar, xolesterin va xolesterin efirlari ham böladi. Fosfolipidlar va xolesterin efirlari tarkibida yoğ kislotalari bor, şuning uçun ularni yoğlar qatoriga kiritiş mumkin. Xolesterin yoğ kislotasi tutmaydigan sterol birikmasi, ammo yoğlarga xos ayrim fizik va kimyoviy xususiyatlarga ega. U yoğlardan hosil böladi va almaşinuvi ham yoğlarnikiga öxşaydi. Şu bois oziqlaniş nuqtayi nazaridan xolesterin yoğlar qatoriga kiritiladi."
+  },
+  "ch66-f39": {
+   "text": "Oğizdagi til bezlari işlab çiqarib, sölak bilan yutiladigan _til lipazasi_ triglitseridlarning oz qismini _me’dada_ parçalaydi. Bu uluş 10 foizdan kam va odatda katta ahamiyatga ega emas. Yoğlarning deyarli hammasi quyida bayon qilinadigan tarzda ingiçka içakda hazm böladi.",
+   "lead": "Yoğlar asosan ingiçka içakda hazm böladi."
+  },
+  "ch66-f40": {
+   "text": "Suvda eriydigan hazm fermentlari yoğ tomçilari yuzasiga ta’sir qilişi uçun dastlab yirik tomçilar fizik yöl bilan maydalaşadi. Bu jarayon _yoğning emulsiyalanişi_ deyiladi. U me’dadagi aralaştiruvçi harakatlar yoğni me’dadagi hazm mahsulotlari bilan aralaştirganda boşlanadi.",
+   "lead": "Yoğ hazmining birinçi bosqiçi — öt kislotalari va letsitin yordamida emulsiyalaş."
+  },
+  "ch66-f41": {
+   "text": "Emulsiyalanişning asosiy qismi keyin ön ikki barmoq içakda, jigar ajratadigan _öt_ ta’sirida keçadi. Ötda hazm fermentlari yöq, ammo köp miqdorda _öt tuzlari_ va _letsitin_ fosfolipidi bor. Ikkalasi ham, ayniqsa letsitin, yoğni emulsiyalaşda juda muhim. Ularning qutbli qismlari, ya’ni suvda ionlaşadigan joylari suvda yaxşi eriydi. Molekulalarning qolgan qismining katta uluşi yoğda yaxşi eriydi. Şu sababli yoğda eriydigan qismlar yoğ tomçisi sirt qatlamiga kiradi, qutbli qismlar esa taşqariga çiqib turadi. Taşqariga çiqqan qutbli qismlar atrofdagi suvli suyuqlikda eriydi. Bu yoğ bilan suv çegarasidagi sirt tarangligini keskin kamaytirib, yoğning suvli muhitda tarqalişiga yordam beradi."
+  },
+  "ch66-f42": {
+   "text": "Suv bilan aralaşmaydigan suyuqlik tomçisining fazalararo tarangligi past bölsa, aralaştiriş uni köp mayda tomçilarga oson böladi. Şu sababli öt tuzlari va letsitinning asosiy vazifalaridan biri ingiçka içakda suvli muhit bilan aralaştirilganda yoğ tomçilarining oson maydalanişini ta’minlaşdir. Yoğni ketkaziş uçun işlatiladigan köplab maişiy yuviş vositalari ham şu tarzda ta’sir qiladi."
+  },
+  "ch66-f43": {
+   "text": "Ingiçka içakda aralaştiriş yoğ tomçilari diametrini sezilarli kiçraytirgan har safar yoğning jami sirt maydoni köp baravar ortadi. Emulsiyalaşdan keyin içakdagi yoğ zarraçalarining örtaça diametri 1 mikrometrdan kam böladi. Jami sirt maydoni şu hisobga 1 000 baravargaça ortişi mumkin."
+  },
+  "ch66-f44": {
+   "text": "Lipazalar suvda eriydi va yoğ tomçilariga faqat ularning yuzasida ta’sir qila oladi. Şuning uçun öt tuzlari va letsitinning sirt faol ta’siri yoğlar hazmi uçun juda muhim."
+  },
+  "ch66-f45": {
+   "text": "Triglitseridlarni hazm qiluvçi eng muhim ferment _me’da osti bezi lipazasidir_. Bez şirasida u şu qadar köpki, özi tegişi mumkin bölgan barça triglitseridlarni bir daqiqa içida parçalaşga yetadi. Ingiçka içak enterotsitlarida _içak lipazasi_ deb ataluvçi qöşimça lipaza ham bor, lekin odatda unga ehtiyoj qolmaydi.",
+   "lead": "Triglitseridlarni me’da osti bezi lipazasi parçalaydi."
+  },
+  "ch66-f46": {
+   "text": "Ovqat triglitseridlarining aksariyatini me’da osti bezi lipazasi _erkin yoğ kislotalari_ va _2-monoglitseridlarga_ parçalaydi (**Rasm 66-4**).",
+   "lead": "Yoğ hazmining yakuniy mahsulotlari orasida erkin yoğ kislotalari bor."
+  },
+  "ch66-f48": {
+   "text": "Triglitseridlar gidrolizi oson qaytariladigan jarayon. Şu sababli parçalanayotgan yoğ atrofida monoglitserid va erkin yoğ kislotalari töplanişi hazmning davom etişini tez tösadi. Öt tuzlarining yana bir muhim vazifasi monoglitseridlar va erkin yoğ kislotalarini yoğ tomçilari atrofidan deyarli ular hosil böliş tezligida olib ketişdir.",
+   "lead": "Öt tuzlari yoğ hazmini tezlaştiruvçi mitsellalar hosil qiladi."
+  },
+  "ch66-f49": {
+   "text": "Suvli muhitda öt tuzlari yetarliça yuqori konsentratsiyaga yetganda _mitsellalar_ hosil qiladi. Bular diametri 3–6 nanometrli, 20–40 ta öt tuzi molekulasidan tuzilgan mayda şarsimon yoki silindrsimon tuzilmalardir. Har bir öt tuzi molekulasida yoğda yaxşi eriydigan sterol özagi va suvda yaxşi eriydigan qutbli guruh bor. Sterol özaklari yoğ hazmi mahsulotlarini örab, mitsella markazida mayda yoğ tomçisini hosil qiladi, qutbli guruhlar esa taşqariga qarab joylaşadi. Ular manfiy zaryadlanganligi sababli mitsella hazm suyuqligining suvli muhitida erib, yoğ sörilgunça barqaror qoladi."
+  },
+  "ch66-f50": {
+   "text": "Öt tuzi mitsellalari suvda nisbatan yomon eriydigan monoglitserid va erkin yoğ kislotalarini içak epiteliy hujayralarining çötkasimon hoşiyasiga taşiydi. U yerda bu moddalar söriladi. Jarayon quyida batafsil tuşuntiriladi. Öt tuzlari esa ximusga qaytadi va şu taşiş jarayonida qayta-qayta işlatiladi."
+  },
+  "ch66-f51": {
+   "text": "Ovqatdagi xolesterinning katta qismi erkin xolesterin va bitta yoğ kislotasi birikmasidan hosil bölgan xolesterin efirlari şaklida böladi. Fosfolipid molekulalarida ham yoğ kislotalari bor. Me’da osti bezi şirasidagi yana ikki lipaza bu birikmalarni gidrolizlab, yoğ kislotalarini ajratadi. _Xolesterin efiri gidrolazasi_ xolesterin efirini, _fosfolipaza A₂_ esa fosfolipidni parçalaydi.",
+   "lead": "Xolesterin efirlari va fosfolipidlarning hazm bölişi."
+  },
+  "ch66-f52": {
+   "text": "Öt tuzi mitsellalari erkin xolesterin va fosfolipid hazmi mahsulotlarini monoglitserid hamda erkin yoğ kislotalari kabi taşiydi. Mitsellalarning şu vazifasisiz xolesterin deyarli sörilmaydi."
+  },
+  "ch66-f53": {
+   "text": "Me’da-içak yölida sörilişning asosiy tamoyillari"
+  },
+  "ch66-f54": {
+   "text": "Moddalarning hujayra membranasi orqali taşilişiga oid asosiy tamoyillar 4-bobda muhokama qilingan. Quyidagi xatboşilarda bu transport jarayonlari me’da-içak yölida söriliş vaqtida qanday qöllanişi bayon qilinadi."
+  },
+  "ch66-f55": {
+   "text": "Içak har kuni içilgan taxminan 1,5 litr suyuqlikni va me’da-içak şiralarida ajralgan taxminan 7 litr suyuqlikni, jami 8–9 litrni sörişi kerak. Taxminan 1,5 litri qolgunça bu suyuqlik ingiçka içakda söriladi. Qolgan 1,5 litri har kuni ileotsekal klapan orqali çambar içakka ötadi.",
+   "lead": "Sörilişning anatomik asosi."
+  },
+  "ch66-f56": {
+   "text": "Me’dada söriliş sust. Unda vorsinkalardan tuzilgan odatiy söruvçi yuza yöq va epiteliy hujayralari ziç birikmalar bilan tutaşgan. Faqat yoğda juda yaxşi eriydigan ayrim moddalar, masalan, spirt va aspirin kabi ayrim dorilar, oz miqdorda sörilişi mumkin."
+  },
+  "ch66-f57": {
+   "text": "**Rasm 66-5** ingiçka içak şilliq qavatining söruvçi yuzasini körsatadi. _Aylana burmalar_ yoki _Kerkring burmalari_ deb ataluvçi köp sonli burmalar şilliq qavat söruvçi yuzasini taxminan uç baravar kengaytiradi. Ular içak aylanasining katta qismi böylab çözilgan. Ön ikki barmoq içak va oç içakda ayniqsa rivojlangan bölib, köpinça içak böşliğiga 8 mm gaça börtib kiradi.",
+   "lead": "Kerkring burmalari, vorsinkalar va mikrovorsinkalar söriliş yuzasini qariyb 1 000 baravar kengaytiradi."
+  },
+  "ch66-f59": {
+   "text": "Ingiçka içak epiteliy yuzasida ileotsekal klapangaça millionlab mayda _vorsinkalar_ joylaşgan. Ular şilliq qavat yuzasidan taxminan 1 mm börtib turadi. **Rasm 66-5** da ular aylana burmalar yuzasida, **Rasm 66-6** da alohida holda körsatilgan. Ingiçka içakning yuqori qismida vorsinkalar şu qadar ziçki, köp joyda bir-biriga tegib turadi. Distal qismda ular siyrakroq. Vorsinkalar jami söriliş yuzasini yana taxminan ön baravar oşiradi."
+  },
+  "ch66-f61": {
+   "text": "Har bir vorsinkadagi içak epiteliy hujayrasi _çötkasimon hoşiyaga_ ega. U içak ximusiga qarab çiqib turadigan, uzunligi 1 mikrometr va diametri 0,1 mikrometr bölgan 1 000 tagaça _mikrovorsinkadan_ iborat. Ular **Rasm 66-7** dagi elektron mikrofotografiyada körsatilgan. Bu hoşiya içak tarkibiga tegib turadigan sirt maydonini yana kamida 20 baravar oşiradi."
+  },
+  "ch66-f63": {
+   "text": "Kerkring burmalari, vorsinkalar va mikrovorsinkalar birgalikda şilliq qavatning söruvçi yuzasini ehtimol 1 000 baravargaça kengaytiradi. Ingiçka içakning jami söruvçi yuzasi 250 kvadrat metr yoki undan ortiq, ya’ni taxminan tennis maydoni yuzasiga teng böladi."
+  },
+  "ch66-f64": {
+   "text": "**Rasm 66-6** ning A qismida vorsinkaning böylama kesimi, xususan (1) suyuqlik va unda erigan moddalarning darvoza venasi qoniga sörilişiga mos qon tomirlari hamda (2) moddalarni limfaga söruvçi _markaziy limfa kapillyari_ körsatilgan. Rasmning B qismida vorsinkaning köndalang kesimi berilgan. **Rasm 66-7** da köplab mayda _pinotsitoz pufakçalari_ körinadi. Ular enterotsit membranasi içkariga bukilib, içiga suyuqlik olgaç, undan ajralib çiqadi. Moddalarning oz qismi şu fizik jarayon — _pinotsitoz_ orqali söriladi."
+  },
+  "ch66-f65": {
+   "text": "Epiteliy hujayrasi tanasidan çötkasimon hoşiyaning har bir mikrovorsinkasiga köplab _aktin filamentlari_ ötadi. Ularning ritmik qisqarişi mikrovorsinkalarni uzluksiz harakatlantirib, içak suyuqligining yangi qismlari bilan doimiy tutaşişini ta’minlaydi."
+  },
+  "ch66-f66": {
+   "text": "Ingiçka içakda söriliş"
+  },
+  "ch66-f67": {
+   "text": "Ingiçka içakda har kuni bir neça yuz gramm uglevod, 100 g yoki undan köp yoğ, 50–100 g aminokislota, 50–100 g ion va 7–8 litr suv söriladi. Soğlom ingiçka içakning söriş _quvvati_ bundan ança katta. U bir sutkada bir neça kilogramm uglevod, 500 g yoğ, 500–700 g oqsil va 20 litr yoki undan köp suvni söra oladi. _Yöğon içak_ juda oz oziq modda sörsa ham, qöşimça suv va ionlarni söra oladi."
+  },
+  "ch66-f68": {
+   "text": "Suv içak membranasi orqali töliq _diffuziya_ yöli bilan taşiladi. Bu diffuziya osmos qonunlariga böysunadi. Ximus yetarliça suyultirilgan bölsa, suv şilliq qavat orqali vorsinkalar qoniga deyarli butunlay osmos yöli bilan söriladi.",
+   "lead": "Suvning izoosmotik sörilişi."
+  },
+  "ch66-f69": {
+   "text": "Suv teskari yönalişda ham, ya’ni plazmadan ximusga ötişi mumkin. Bu ayniqsa me’dadan ön ikki barmoq içakka giperosmotik eritma tuşganda yuz beradi. Odatda bir neça daqiqa içida osmos orqali yetarli suv ötadi va ximusning osmolyalligi plazmanikiga tenglaşadi."
+  },
+  "ch66-f70": {
+   "text": "Içak ajralmalari bilan har kuni 20–30 g natriy çiqariladi. Bundan taşqari, odam kuniga örtaça 5–8 g natriy iste’mol qiladi. Najasda natriyning sof yöqotilişiga yöl qöymaslik uçun içak har kuni 25–35 g natriyni sörişi kerak. Bu tanadagi barça natriyning taxminan yettidan biriga teng.",
+   "lead": "Natriy içak membranasi orqali faol taşiladi."
+  },
+  "ch66-f71": {
+   "text": "Oğir diareyadagi kabi içak ajralmalarining katta qismi taşqariga çiqib ketsa, organizmdagi natriy zaxirasi ba’zan bir neça soatda hayot uçun xavfli darajagaça kamayadi. Odatda içakdagi natriyning har kuni 0,5 foizdan kamroği najas bilan yöqotiladi, çunki natriy içak şilliq qavati orqali tez söriladi. Natriy şakarlar va aminokislotalarning sörilişida ham muhim rol öynaydi."
+  },
+  "ch66-f72": {
+   "text": "Natriyning içakdan söriliş mexanizmi **Rasm 66-8** da körsatilgan. 4-bobda muhokama qilingan bu tamoyillar öt pufagi va buyrak kanalçalaridan natriy sörilişining 28-bobda bayon qilingan tamoyillariga mohiyatan öxşaydi."
+  },
+  "ch66-f74": {
+   "text": "Natriy epiteliy hujayralarining içidan ularning bazal va yon tomonlari orqali hujayralararo böşliqlarga faol taşiladi. Şu jarayon natriy sörilişini harakatga keltiradi. Faol transport energiya talab qiladi va bu jarayonni hujayra membranasidagi tegişli adenozin trifosfataza (ATFaza) fermentlari katalizlaydi (4-bobga qarang). Natriyning bir qismi xlorid ionlari bilan birga söriladi. Manfiy zaryadlangan xlorid ionlari, asosan, natriy ionlarining musbat zaryadi ta’sirida passiv ravişda ularning ortidan ötadi."
+  },
+  "ch66-f75": {
+   "text": "Natriyning bazolateral membranalar orqali faol çiqarilişi hujayra içidagi natriy konsentratsiyasini taxminan 50 mEkv/l gaça pasaytiradi. Ximusdagi natriy konsentratsiyasi odatda taxminan 142 mEkv/l, ya’ni plazmadagiga yaqin. Şu sababli natriy katta elektrokimyoviy gradiyent böylab ximusdan çötkasimon hoşiya orqali epiteliy hujayrasi sitoplazmasiga ötadi. Natriy hoşiya membranasidan maxsus taşuvçi oqsillar orqali ham taşiladi. Bularga (1) natriy va glukozani birga taşuvçi SGLT1, (2) natriy va aminokislotalarni birga taşuvçilar hamda (3) natriy-vodorod almaştirgiçi kiradi. Ular 28-bobda bayon qilingan buyrak kanalçalaridagi taşuvçilarga öxşab işlaydi va epiteliy hujayralarining oraliq suyuqlikka hamda hujayralararo böşliqlarga yanada köproq natriy ionini taşişiga imkon beradi. Şu bilan birga ular glukoza va aminokislotalarning ikkilamçi faol sörilişini ta’minlaydi. Buning uçun harakatlantiruvçi kuçni bazolateral membranadagi Na⁺/K⁺-ATFaza nasosi yaratadi."
+  },
+  "ch66-f76": {
+   "text": "Keyingi bosqiçda suv osmos orqali hujayralar içidan va hujayralar orasidan ötadi. Hujayralararo böşliqlardagi yuqori ion konsentratsiyasi katta osmotik gradiyent hosil qiladi. Suvning katta qismi epiteliy hujayralari apikal çekkalari orasidagi ziç birikmalardan, ya’ni hujayralararo yöl bilan ötadi. Ança qismi hujayralarning özi orqali, ya’ni transsellulyar yöl bilan ham ötadi. Osmos suyuqlikni hujayralararo böşliqlarga, u yerdan esa vorsinkadagi aylanib turgan qonga olib boradi.",
+   "lead": "Suvning osmos orqali ötişi."
+  },
+  "ch66-f77": {
+   "text": "Odam suvsizlanganda buyrak usti bezlarining pöstloq qavati köp aldosteron ajratadi. Aldosteron 1–3 soat içida içak epiteliysida natriy sörilişining barça bosqiçlarida qatnaşuvçi ferment va transport mexanizmlarini faollaştiradi. Natriy köproq sörilgaç, xlorid ionlari, suv va ayrim boşqa moddalarning sörilişi ham ikkilamçi ravişda ortadi.",
+   "lead": "Aldosteron natriy sörilişini ança kuçaytiradi."
+  },
+  "ch66-f78": {
+   "text": "Aldosteronning bu ta’siri çambar içakda ayniqsa muhim. Uning yordamida najas bilan deyarli heç qança natriy xlorid yöqotilmaydi va suv yöqotilişi ham kam böladi. Demak, aldosteron içakda ham, buyrak kanalçalarida ham tanada natriy xlorid va suvni saqlaydi. Bu natriy xlorid zaxirasi kamayib, odam suvsizlanganda muhim."
+  },
+  "ch66-f79": {
+   "text": "Ingiçka içakning yuqori qismida xlorid ionlari tez, asosan diffuziya orqali söriladi. Natriy epiteliy orqali sörilganda ximusda manfiy, hujayralararo böşliqlarda esa musbat potensial paydo böladi. Xlorid ionlari şu elektr gradiyenti böylab natriy ionlarining ortidan ötadi. Yonboş içak va yöğon içakning ayrim qismlarida xlorid çötkasimon hoşiya membranasidagi xlorid-bikarbonat almaştirgiçi orqali ham söriladi (**Rasm 66-8**). Xlorid hujayradan bazolateral membranadagi xlorid kanallari orqali çiqadi.",
+   "lead": "Ingiçka içakda xlorid ionlarining sörilişi."
+  },
+  "ch66-f80": {
+   "text": "Me’da osti bezi şirasi va öt orqali ön ikki barmoq içakka köp bikarbonat (HCO₃⁻) ajraladi. Şu sababli ingiçka içakning yuqori qismida köp miqdorda bikarbonat qayta sörilişi kerak. Bikarbonat bilvosita söriladi. Natriy ionlari sörilayotganida ularning bir qismi evaziga örtaça miqdorda H⁺ içak böşliğiga çiqariladi. H⁺ HCO₃⁻ bilan birikib, karbonat kislota (H₂CO₃) hosil qiladi. U suv va karbonat angidridga (CO₂) parçalanadi. Suv içakdagi ximus tarkibida qoladi. CO₂ esa qonga oson sörilib, keyin öpka orqali çiqariladi. Bu jarayon «HCO₃⁻ ning faol sörilişi» deb ataladi. Buyrak kanalçalarida ham şu mexanizm işlaydi (31-bobga qarang).",
+   "lead": "Ön ikki barmoq içak va oç içakda bikarbonat ionlarining sörilişi."
+  },
+  "ch66-f81": {
+   "text": "Yonboş içak vorsinkalari yuzasidagi va yöğon içakning butun yuzasidagi epiteliy hujayralari xlorid ionlarini sörayotganida ularning evaziga HCO₃⁻ ajrata oladi (**Rasm 66-8**). Bu muhim, çunki işqoriy bikarbonat yöğon içak bakteriyalari hosil qiladigan kislotali mahsulotlarni neytrallaydi.",
+   "lead": "Yonboş va yöğon içakda bikarbonat ajralişi va xlorid sörilişi."
+  },
+  "ch66-f82": {
+   "text": "Içak epiteliysi burmalari orasidagi çuqur joylarda bölinib yangi hujayralar hosil qiladigan yetilmagan epiteliy hujayralari bor. Yangi hujayralar içak böşliğiga qaragan yuzaga tarqaladi. Ular burmalarning çuqur qismida turganidayoq içak böşliğiga natriy xlorid va suv ajratadi. Bu ajralmani burmalardan taşqaridagi yetilgan epiteliy hujayralari qayta söradi. Şu suyuqlik oqimi içakdagi hazm mahsulotlarining sörilişiga yordam beradi.",
+   "lead": "Diareyaning ayrim turlarida yöğon içak epiteliysidan xlorid, natriy va suvning haddan taşqari köp ajralişi."
+  },
+  "ch66-f83": {
+   "text": "_Vabo toksini_ va diareyaga sabab böladigan ayrim boşqa bakteriyalarning toksinlari epiteliy burmalaridagi sekretsiyani şu qadar kuçaytiradiki, ajralgan miqdor köpinça qayta sörilişdan oşib ketadi. Ba’zan _diareya_ bilan kuniga 5–10 litr suv va unda erigan natriy xlorid yöqotiladi. Oğir zararlangan köplab bemorlar faqat şu suyuqlik yöqotilişi tufayli 1–5 kun içida vafot etişi mumkin."
+  },
+  "ch66-f84": {
+   "text": "Vabo toksinining bir subbirligi epiteliy hujayralariga kirganda diareyaga olib keladigan kuçli sekretsiya boşlanadi. Subbirlik siklik adenozin monofosfatning ortiqça hosil bölişini qözğatadi. Bu köp xlorid kanallarini oçib, xlorid ionlarining hujayra içidan içak kriptalariga tez çiqişiga imkon beradi. Şu ta’sir, taxmin qilinişiça, xlorid bilan birga natriy ionlarini ham kriptalarga çiqaradigan natriy nasosini faollaştiradi. Ortiqça natriy xlorid natijasida qondan köp suv osmos orqali ötadi va suyuqlik tuz bilan birga tez oqadi. Ortiqça suyuqlik bakteriyalarning katta qismini yuvib çiqarib, kasallikka qarşi kuraşişda yordam beradi. Suyuqlikning haddan taşqari yöqotilişi esa oğir suvsizlanişga va ölimga olib kelişi mumkin. Köp hollarda yöqotilgan suyuqlik va tuz örnini yetarli miqdorda natriy xloridli eritma bilan töldiriş bemorning hayotini saqlab qoladi."
+  },
+  "ch66-f85": {
+   "text": "_Kalsiy ionlari_ qonga faol söriladi. Bu ayniqsa ön ikki barmoq içakda kuzatiladi. Söriladigan kalsiy miqdori organizmning kunlik ehtiyojiga mos ravişda aniq boşqariladi. Bunda qalqonoldi bezlari ajratadigan _paratireoid gormon_ hamda _D vitamini_ muhim. Paratireoid gormon D vitaminini faollaştiradi. Faol D vitamini esa kalsiy sörilişini ança kuçaytiradi. Bu ta’sirlar 80-bobda bayon qilingan.",
+   "lead": "Kalsiy, temir, kaliy, magniy va fosfatning faol sörilişi."
+  },
+  "ch66-f86": {
+   "text": "_Temir ionlari_ ham ingiçka içakdan faol söriladi. Temir sörilişining asosiy tamoyillari hamda uning organizm ehtiyojiga, ayniqsa gemoglobin hosil qiliş uçun zarur miqdorga qarab boşqarilişi 33-bobda körib çiqilgan."
+  },
+  "ch66-f87": {
+   "text": "_Kaliy, magniy, fosfat_ va ehtimol boşqa ayrim ionlar ham içak şilliq qavati orqali faol sörilişi mumkin. Bir valentli ionlar odatda oson va köp miqdorda söriladi. Ikki valentli ionlar esa odatda oz miqdorda söriladi. Masalan, kalsiy ionlarining eng köp sörilişi natriy ionlarining odatiy sörilişining atigi ellikdan biriga teng. Organizmning ikki valentli ionlarga kunlik ehtiyoji odatda kam."
+  },
+  "ch66-f88": {
+   "text": "Oziq moddalarning sörilişi"
+  },
+  "ch66-f89": {
+   "text": "Uglevodlar asosan monosaxaridlar şaklida söriladi"
+  },
+  "ch66-f90": {
+   "text": "Ovqatdagi uglevodlarning deyarli hammasi monosaxaridlar şaklida söriladi. Faqat oz qismi disaxaridlar şaklida söriladi, yirikroq uglevod birikmalari esa deyarli sörilmaydi. Eng köp söriladigan monosaxarid _glukoza_ bölib, u odatda sörilgan uglevod kaloriyalarining 80 foizidan ortiğini taşkil etadi. Sababi glukoza ratsiondagi eng köp uglevod — kraxmalning yakuniy hazm mahsulotidir. Qolgan qariyb 20 foiz deyarli töliq _galaktoza_ va _fruktozadan_ iborat. Galaktoza sutdan, fruktoza esa qamiş şakari hazm bölganda hosil böladi."
+  },
+  "ch66-f91": {
+   "text": "Monosaxaridlarning deyarli hammasi ikkilamçi faol transport orqali söriladi. Avval glukozaning sörilişi körib çiqiladi."
+  },
+  "ch66-f92": {
+   "text": "Içak membranasi orqali natriy taşilmasa, glukoza deyarli sörilmaydi. Çunki glukozaning sörilişi natriyning faol transportiga boğlangan birgalikdagi taşiliş orqali yuz beradi (**Rasm 66-9**).",
+   "lead": "Glukoza natriy bilan birga taşiladi."
+  },
+  "ch66-f94": {
+   "text": "Natriy va glukoza içak epiteliysi orqali ikki bosqiçda taşiladi. Avval natriy ionlari içak epiteliy hujayralarining bazolateral membranalari orqali oraliq suyuqlikka faol çiqariladi. Natijada epiteliy hujayralarida natriy kamayadi. Keyin hujayra içidagi natriy konsentratsiyasi pastligi sababli içak böşliğidagi natriy çötkasimon hoşiya orqali hujayraga _ikkilamçi faol transport_ bilan ötadi. Natriy ioni SGLT1 taşuvçi oqsiliga boğlanadi. SGLT1 glukozani ham boğlamagunça natriyni hujayra içiga taşimaydi. Natriy ioni va glukoza molekulasi oqsilga bir vaqtda boğlangaç, ikkalasi birga hujayra içiga ötadi. Şu tariqa hujayra içidagi natriyning past konsentratsiyasi natriyni içkariga tortadi va glukoza ham u bilan ötadi. Hujayra içiga kirgan glukozaning bazolateral membrana orqali hujayralararo böşliqqa, u yerdan esa qonga ötişini boşqa taşuvçi oqsil — GLUT2 yengillaştiradi (**Rasm 66-9**)."
+  },
+  "ch66-f95": {
+   "text": "Demak, içak epiteliy hujayralarining bazolateral membranalari orqali natriyning dastlabki faol taşilişi glukozaning ham membranalar orqali ötişi uçun harakatlantiruvçi kuçni yaratadi."
+  },
+  "ch66-f96": {
+   "text": "Galaktoza deyarli glukoza kabi taşiladi. U içak böşliğiga qaragan membranadan SGLT1, bazolateral membranadan esa GLUT2 yordamida ötadi (**Rasm 66-9**). Fruktoza natriy bilan birga taşilmaydi. U içak epiteliysi orqali natriy transportiga boğlanmagan yengillaşgan diffuziya bilan ötadi. Fruktozaning içak böşliğidan hujayra içiga kirişiga GLUT5, hujayradan hujayralararo böşliqqa çiqişiga esa GLUT2 yordam beradi (**Rasm 66-9**).",
+   "lead": "Boşqa monosaxaridlarning sörilişi."
+  },
+  "ch66-f97": {
+   "text": "Fruktozaning bir qismi hujayraga kirgaç fosforillanadi. Söng u glukozaga aylanadi va qonga glukoza şaklida ötadi. Fruktoza natriy bilan birga taşilmagani uçun uning umumiy taşiliş tezligi glukoza yoki galaktozanikining taxminan yarmiga teng."
+  },
+  "ch66-f98": {
+   "text": "Oqsillarning dipeptid, tripeptid va aminokislotalar şaklida sörilişi"
+  },
+  "ch66-f99": {
+   "text": "Hazmdan keyin oqsillarning köp qismi içak epiteliy hujayralarining böşliqqa qaragan membranasi orqali dipeptid, tripeptid va ayrim erkin aminokislotalar şaklida söriladi. Darslik bu transportning katta qismini glukozaning natriy bilan taşilişiga öxşatib tuşuntiradi. Peptid yoki aminokislota molekulasi mikrovorsinka membranasidagi maxsus taşuvçi oqsilga boğlanadi. Transport natriy ham boğlangandan keyin yuz beradi. Natriy ioni elektrokimyoviy gradiyenti böylab hujayra içiga ötib, aminokislota yoki peptidni ham olib kiradi. Bu jarayon _birga taşiliş_, ya’ni _ikkilamçi faol transport_ deb ataladi (**Rasm 66-8**). Ayrim aminokislotalarga natriy bilan birga taşiliş talab qilinmaydi. Ular fruktoza kabi maxsus membrana taşuvçilari orqali yengillaşgan diffuziya bilan ötadi."
+  },
+  "ch66-f100": {
+   "text": "Içak epiteliy hujayralarida aminokislotalar va peptidlar uçun kamida ön turdagi taşuvçi oqsil topilgan. Turli aminokislotalar va peptidlarning boğlaniş xossalari farq qilgani uçun şunça turdagi taşuvçi kerak böladi."
+  },
+  "ch66-f101": {
+   "text": "Yoğlar monoglitserid va erkin yoğ kislotalarigaça hazm bölganda ikkala yakuniy mahsulot avval _öt mitsellalarining_ markaziy lipid qismida eriydi. Diametri atigi 3–6 nanometr va taşqi yuzasi kuçli zaryadlangan bu mitsellalar ximusda eriy oladi. Ular monoglitseridlar va erkin yoğ kislotalarini çötkasimon hoşiya mikrovorsinkalari yuzasiga yetkazadi, söng harakatlanib turgan mikrovorsinkalar orasidagi çuqurçalarga kiradi. Bu yerda monoglitseridlar va yoğ kislotalari mitsellalardan tez ajralib, epiteliy hujayralari içiga diffuziyalanadi. Bunga lipidlarning epiteliy hujayrasi membranasida ham erişi imkon beradi. Öt mitsellalari ximusda qolib, yangi monoglitseridlar va yoğ kislotalarining sörilişida qayta-qayta qatnaşadi."
+  },
+  "ch66-f102": {
+   "text": "Demak, mitsellalarning taşiş vazifasi yoğlar sörilişida juda muhim. Öt mitsellalari köp bölsa, yoğning taxminan 97 foizi söriladi. Ular bölmasa, atigi 40–50 foizi sörilişi mumkin. Epiteliy hujayrasiga kirgaç, yoğ kislotalari va monoglitseridlar silliq endoplazmatik törga olinadi. U yerda ulardan asosan yangi triglitseridlar hosil böladi. Triglitseridlar epiteliy hujayrasining bazal tomonidan _xilomikronlar_ şaklida çiqariladi. Xilomikronlar kökrak limfa nayi orqali yuqoriga oqib, aylanib turgan qonga quyiladi."
+  },
+  "ch66-f103": {
+   "text": "Sariyoğ yoğidagi kabi qisqa va örta zanjirli yoğ kislotalarining oz qismi triglitseridlarga aylantirilib limfa orqali ötiş örniga bevosita darvoza venasi qoniga söriladi. Qisqa zanjirli yoğ kislotalarining uzun zanjirlilaridan farqi şundaki, ular suvda yaxşiroq eriydi va endoplazmatik törda aksariyat hollarda qayta triglitseridga aylantirilmaydi. Şu sababli ular içak epiteliy hujayralaridan vorsinkalar kapillyarlaridagi qonga bevosita diffuziyalanadi.",
+   "lead": "Yoğ kislotalarining bevosita darvoza venasi qoniga sörilişi."
+  },
+  "ch66-f104": {
+   "text": "Yöğon içakda söriliş va najas hosil bölişi"
+  },
+  "ch66-f105": {
+   "text": "Odatda har kuni taxminan 1 500 ml ximus ileotsekal klapan orqali yöğon içakka ötadi. Undagi suv va elektrolitlarning asosiy qismi çambar içakda söriladi. Natijada najas bilan çiqadigan suyuqlik odatda 100 ml dan kam. Deyarli barça ionlar ham sörilib, natriy va xlorid ionlarining har biridan atigi 1–5 mEkv najas bilan yöqotiladi."
+  },
+  "ch66-f106": {
+   "text": "Yöğon içakdagi sörilişning asosiy qismi çambar içakning boşlanğiç yarmida keçadi. Şu sababli bu qism _söruvçi çambar içak_ deyiladi. Distal qism esa najasni qulay paytgaça saqlaydi va _saqlovçi çambar içak_ deb ataladi."
+  },
+  "ch66-f107": {
+   "text": "Ingiçka içak singari yöğon içak şilliq qavati ham natriyni faol söriş qobiliyatiga ega. Natriy sörilişidan hosil bölgan elektr potensiallardagi farq xloridning ham sörilişiga sabab böladi. Yöğon içak epiteliy hujayralari orasidagi ziç birikmalar ingiçka içaknikidan ança mahkam. Natijada ionlarning bu birikmalar orqali orqaga sezilarli diffuziyalanişi çeklanadi. Şu tufayli yöğon içak şilliq qavati natriyni ingiçka içakka qaraganda tölaroq, ya’ni kattaroq konsentratsiya gradiyentiga qarşi söra oladi. Bu ayniqsa aldosteron köp bölganida kuzatiladi, çunki u natriy taşilişini ança kuçaytiradi.",
+   "lead": "Elektrolitlar va suvning sörilişi va ajralişi."
+  },
+  "ch66-f108": {
+   "text": "Ingiçka içakning distal qismida bölganidek, yöğon içak şilliq qavati almaşinuv transporti orqali _HCO₃⁻ ajratadi_ va ayni vaqtda teng miqdorda xlorid ionini söradi. _HCO₃⁻_ yöğon içakdagi bakteriyalar faoliyatidan hosil bölgan kislotali yakuniy mahsulotlarni neytrallaşga yordam beradi."
+  },
+  "ch66-f109": {
+   "text": "Natriy va xlorid ionlarining sörilişi yöğon içak şilliq qavatining ikki tomonida osmotik gradiyent hosil qiladi. Bu gradiyent suvning sörilişiga olib keladi."
+  },
+  "ch66-f110": {
+   "text": "Yöğon içak bir sutkada köpi bilan 5–8 litr suyuqlik va unda erigan elektrolitlarni söra oladi. Ileotsekal klapan orqali keladigan va yöğon içakning özida ajraladigan suyuqlikning jami bu miqdordan oşsa, ortiqça suyuqlik diareya şaklida najasga çiqadi. Yuqorida aytilganidek, vabo yoki ayrim boşqa bakterial infeksiyalar toksinlari yonboş içakning oxirgi qismi va yöğon içak kriptalarida bir sutkada 10 litr yoki undan köp suyuqlik ajralişiga sabab bölişi mumkin. Bu oğir va ba’zan ölimga olib keluvçi diareyani yuzaga keltiradi.",
+   "lead": "Yöğon içakning maksimal söriş quvvati."
+  },
+  "ch66-f111": {
+   "text": "Soğlom odamda ham çambar içakning söruvçi qismida _köplab bakteriyalar_, ayniqsa içak tayoqçalari mavjud. Ular oz miqdorda sellulozani parçalab, organizmga bir neça qöşimça kaloriya beradi. Ötxör hayvonlarda bu muhim energiya manbai, odamlarda esa uning ahamiyati juda kiçik.",
+   "lead": "Çambar içakda bakteriyalarning faoliyati."
+  },
+  "ch66-f112": {
+   "text": "Bakteriyalar faoliyati natijasida K vitamini, B₁₂ vitamini, tiamin, riboflavin va çambar içakdagi _gazlar_ hosil böladi. Gazlar orasida ayniqsa CO₂, vodorod va metan bor. Bakteriyalar hosil qiladigan K vitamini ayniqsa muhim, çunki darslikda qayd etilişiça, odatiy ratsiondagi K vitamini qonning yetarli darajada ivişini saqlaş uçun odatda yetarli bölmaydi."
+  },
+  "ch66-f113": {
+   "text": "Najas odatda taxminan törtdan uç qism _suv_ va törtdan bir qism _qattiq moddadan_ iborat. Qattiq moddaning taxminan 30 foizi _ölik bakteriyalar_, 10–20 foizi _yoğ_, 10–20 foizi _anorganik modda_, 2–3 foizi _oqsil_ va 30 foizi _hazm bölmagan dağal ovqat qoldiqlari_ hamda öt pigmenti va köçib tuşgan epiteliy hujayralari kabi quruq tarkibiy qismlardan iborat. Najasning jigarrang tusini bilirubin hosilalari — sterkobilin va _urobilin_ beradi. Hidi asosan bakteriyalar faoliyati mahsulotlaridan keladi. Ular har bir odamning içak mikroflorasi va iste’mol qilgan ovqatiga qarab farq qiladi. Hid beruvçi moddalarga _indol, skatol, merkaptanlar_ va _vodorod sulfidi_ kiradi.",
+   "lead": "Najas tarkibi."
+  }
+ },
+ "figures": {
+  "gh14-fig-66-01": "Uglevodlarning hazm bölişi.",
+  "gh14-fig-66-02": "Oqsillarning hazm bölişi.",
+  "gh14-fig-66-03": "Lipaza katalizlaydigan neytral yoğ gidrolizi.",
+  "gh14-fig-66-04": "Yoğlarning hazm bölişi.",
+  "gh14-fig-66-05": "Ingiçka içakning böylama kesimi. Vorsinkalar bilan qoplangan aylana burmalar (Kerkring burmalari) körsatilgan.",
+  "gh14-fig-66-06": "Vorsinkaning funksional tuzilişi. A — böylama kesim. B — epiteliy hujayralari ostidagi bazal membrana va hujayralarning qarama-qarşi uçidagi çötkasimon hoşiya körsatilgan köndalang kesim.",
+  "gh14-fig-66-07": "Me’da-içak epiteliysi hujayrasining çötkasimon hoşiyasi. Hoşiya ostida pinotsitoz pufakçalari, mitoxondriyalar va endoplazmatik tör körsatilgan. Tasvirni doktor Uilyam Lokvud taqdim etgan.",
+  "gh14-fig-66-08": "Natriy, xlorid, glukoza va aminokislotalarning içak epiteliysi orqali sörilişi. Suvning osmos orqali, ya’ni natriy ortidan epiteliy membranasidan ötib sörilişi ham körsatilgan.",
+  "gh14-fig-66-09": "Glukoza, galaktoza va fruktozaning içak epiteliysi orqali sörilişi. ATP — adenozin trifosfat, GLUT2 — glukoza taşuvçisi 2, GLUT5 — glukoza taşuvçisi 5, SGLT1 — natriy va glukozani birga taşuvçi oqsil 1."
+ }
+}

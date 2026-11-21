@@ -1,0 +1,350 @@
+{
+ "lessonId": "ch27",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 27,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "manual",
+ "translator": "Claude (DrStudy sessiyasi)",
+ "model": null,
+ "createdAt": "2026-11-18T06:09:01.636Z",
+ "updatedAt": "2026-11-18T06:09:01.637Z",
+ "coverage": {
+  "translated": 117,
+  "total": 117
+ },
+ "note": "Kitob matnining töliq özbekça tarjimasi (qisqartirilmagan). Ekspert tekşiruvidan ötmagan.",
+ "blocks": {
+  "ch27-f0": {
+   "text": "Koptokça filtratsiyasi — siydik hosil bölişining birinçi bosqiçi"
+  },
+  "ch27-f1": {
+   "text": "Siydik hosil bölişining birinçi bosqiçi — köp miqdordagi suyuqlikning, kuniga deyarli 180 L, koptokça kapillyarlari orqali Boumen kapsulasiga filtrlanişidir. Bu filtratning köp qismi qayta söriladi va har kuni faqat taxminan 1 litr suyuqlik çiqariladi, garçi buyraklar orqali suyuqlik çiqariliş tezligi suyuqlik qabuliga qarab juda özgaruvçan bölsa-da. Koptokça filtratsiyasining yuqori tezligi buyrak qon oqimining yuqori tezligiga, şuningdek, koptokça kapillyarlari membranalarining öziga xos xususiyatlariga boğliq. Uşbu bobda koptokça filtratsiyasi tezligini (GFR) belgilovçi fizik kuçlarni, şuningdek, GFR va buyrak qon oqimini boşqaruvçi fiziologik mexanizmlarni muhokama qilamiz."
+  },
+  "ch27-f2": {
+   "text": "Koptokça filtratining tarkibi"
+  },
+  "ch27-f3": {
+   "text": "Köpçilik kapillyarlar singari koptokça kapillyarlari ham oqsillar uçun nisbatan ötkazmaydigan böladi, şu sababli filtrlangan suyuqlik (_koptokça filtrati_ deb ataladi) amalda oqsilsiz bölib, eritrotsitlarni ham öz içiga olgan hujayraviy elementlardan xoli böladi. Koptokça filtratining boşqa tarkibiy qismlari, jumladan köpçilik tuzlar va organik molekulalarning konsentratsiyalari plazmadagi konsentratsiyalarga öxşaş. Bu umumiy qoidadan istisno — plazma oqsillari bilan qisman boğlangani uçun erkin filtrlanmaydigan kalsiy va yoğ kislotalari kabi bir neçta kiçik molekulyar massali moddalardir. Masalan, plazmadagi kalsiyning deyarli yarmi va plazmadagi yoğ kislotalarining köp qismi oqsillar bilan boğlangan bölib, bu boğlangan qismlar koptokça kapillyarlari orqali filtrlanmaydi."
+  },
+  "ch27-f4": {
+   "text": "Koptokça filtratsiyasi tezligi buyrak plazma oqimining taxminan 20% ini taşkil qiladi"
+  },
+  "ch27-f5": {
+   "text": "Boşqa kapillyarlarga öxşab, koptokça kapillyarlari ham suyuqlikni quyidagilar bilan belgilanadigan tezlikda filtrlaydi: (1) kapillyar membranasi orqali ta’sir etuvçi gidrostatik va kolloid osmotik kuçlar muvozanati; (2) kapillyar filtratsiya koeffitsiyenti (Kf) — kapillyarlar ötkazuvçanligi va filtrlovçi sirt maydonining köpaytmasi. Koptokça kapillyarlari koptokçadagi yuqori gidrostatik bosim va katta Kf tufayli boşqa köpçilik kapillyarlarga qaraganda ança yuqori filtratsiya tezligiga ega. Örtaça katta yoşli odamda"
+  },
+  "ch27-f6": {
+   "text": "GFR taxminan 125 ml/min, ya’ni kuniga 180 L ni taşkil qiladi. Buyrak plazma oqimining filtrlanadigan uluşi (filtratsiya fraksiyasi) örtaça taxminan 0,2 ga teng, ya’ni buyrak orqali oqayotgan plazmaning taxminan 20% i koptokça kapillyarlari orqali filtrlanadi (**Rasm 27-1**). Filtratsiya fraksiyasi quyidagiça hisoblanadi:"
+  },
+  "ch27-f8": {
+   "text": "Koptokça kapillyar membranasi"
+  },
+  "ch27-f9": {
+   "text": "Koptokça kapillyar membranasi boşqa kapillyarlarnikiga öxşaş, faqat u uçta (odatdagi ikkita örniga) asosiy qavatga ega: (1) kapillyar _endoteliysi_; (2) _bazal membrana_; (3) kapillyar bazal membranasining taşqi yuzasini örab turuvçi _epiteliy hujayralari (podotsitlar)_ qavati (**Rasm 27-2**). Bu qavatlar birgalikda filtratsiya tösiğini hosil qiladi; u uç qavatli bölişiga qaramay, odatdagi kapillyar membranasiga qaraganda bir neça yuz baravar köp suv va erigan moddalarni filtrlaydi. Filtratsiyaning bunday yuqori tezligiga qaramay, koptokça kapillyar membranasi normada plazma oqsillarining faqat oz miqdorini filtrlaydi."
+  },
+  "ch27-f11": {
+   "text": "Koptokça kapillyar membranasi orqali filtratsiyaning yuqori tezligi qisman uning öziga xos xususiyatlari bilan boğliq. Kapillyar _endoteliysi_ jigarda uçraydigan fenestrlangan kapillyarlarga öxşab, _fenestralar_ deb ataladigan minglab mayda teşikçalar bilan teşilgan, biroq bu teşikçalar jigardagi fenestralardan kiçikroq. Fenestralar nisbatan katta bölsa-da, endoteliy hujayralarining oqsillari plazma oqsillarining ötişiga tösqinlik qiluvçi qayd etilgan manfiy zaryadlarga boy."
+  },
+  "ch27-f12": {
+   "text": "Endoteliyni _bazal membrana_ örab turadi; u kollagen va proteoglikan fibrillalaridan iborat tördan taşkil topgan bölib, bu törda köp miqdordagi suv va kiçik erigan moddalar filtrlanib öta oladigan katta böşliqlar mavjud. Bazal membrana plazma oqsillarining filtratsiyasiga kuçli tösqinlik qiladi; bu qisman proteoglikanlar bilan boğliq kuçli manfiy elektr zaryadlari hisobiga yuzaga keladi."
+  },
+  "ch27-f13": {
+   "text": "Koptokça membranasining oxirgi qismi koptokçaning taşqi yuzasini qoplab turuvçi epiteliy hujayralari (podotsitlar) qavatidir. Bu podotsitlar uzluksiz qavat hosil qilmaydi, balki kapillyarlarning taşqi yuzasini örab oluvçi uzun oyoqsimon ösimtalarga (pedikulalarga) ega (**Rasm 27-2** ga qarang). Oyoqsimon ösimtalar bir-biridan _tirqişsimon teşiklar_ (slit pores) deb ataladigan oraliqlar bilan ajralgan bölib, koptokça filtrati ular orqali ötadi. Manfiy zaryadga ega bölgan epiteliy hujayralari plazma oqsillarining filtratsiyasini qöşimça çeklaydi. Şunday qilib, koptokça kapillyar devorining barça qavatlari plazma oqsillarining filtratsiyasiga tösiq böladi, ammo plazmadagi suv va köpçilik erigan moddalarning tez filtrlanişiga imkon beradi."
+  },
+  "ch27-f14": {
+   "text": "Koptokça kapillyar membranasi boşqa köpçilik kapillyarlarnikidan qalinroq, ammo u ança ğovakroq ham, şu sababli suyuqlikni yuqori tezlikda filtrlaydi. Filtratsiya tezligi yuqori bölişiga qaramay, koptokça filtratsiya tösiği qaysi molekulalar filtrlanişini ularning ölçami va elektr zaryadiga qarab tanlab belgilaydi.",
+   "lead": "Erigan moddalarning filtrlanuvçanligi ularning ölçamiga teskari boğliq."
+  },
+  "ch27-f15": {
+   "text": "**Jadval 27-1** da molekula ölçamining turli molekulalarning filtrlanuvçanligiga ta’siri keltirilgan. Filtrlanuvçanlik 1,0 ga teng bölişi modda suv kabi erkin filtrlanişini, 0,75 ga teng bölişi esa modda suvga nisbatan faqat 75% tezlikda filtrlanişini bildiradi. E’tibor beringki, natriy kabi elektrolitlar va glyukoza kabi kiçik organik birikmalar erkin filtrlanadi. Molekulaning molekulyar massasi albuminnikiga yaqinlaşgan sari filtrlanuvçanlik tez kamayib, nolga yaqinlaşadi."
+  },
+  "ch27-f17": {
+   "text": "Plazma oqsili albuminning molekulyar diametri atigi taxminan 6 nanometrni taşkil qiladi, koptokça membranasining teşikçalari esa taxminan 8 nanometr (80 angstrem [Å]) deb hisoblanadi. Biroq albumin manfiy zaryadi va koptokça kapillyar devori proteoglikanlarining manfiy zaryadlari körsatadigan elektrostatik itariliş tufayli filtrlanişdan çeklanadi.",
+   "lead": "Manfiy zaryadlangan yirik molekulalar bir xil ölçamdagi musbat zaryadlangan molekulalarga qaraganda qiyinroq filtrlanadi."
+  },
+  "ch27-f18": {
+   "text": "**Rasm 27-3** da elektr zaryadining turli molekulyar massali dekstranlarning koptokçada filtrlanişiga qanday ta’sir qilişi körsatilgan. Dekstranlar neytral molekulalar sifatida yoki manfiy yoxud musbat zaryadli holda işlab çiqarilişi mumkin bölgan polisaxaridlardir. E’tibor beringki, har qanday muayyan molekulyar radiusda musbat zaryadlangan molekulalar manfiy zaryadlangan molekulalarga qaraganda ança oson filtrlanadi. Neytral dekstranlar ham bir xil molekulyar massali manfiy zaryadlangan dekstranlarga qaraganda osonroq filtrlanadi. Filtrlanuvçanlikdagi bu farqlarning sababi şundaki, bazal membrana va podotsitlarning manfiy zaryadlari plazma oqsillarini ham öz içiga olgan yirik manfiy zaryadlangan molekulalarni çeklaşning muhim vositasi hisoblanadi."
+  },
+  "ch27-f20": {
+   "text": "_Minimal özgarişli nefropatiyada_ koptokçalar oddiy yoruğlik mikroskopida normal körinsa-da, plazma oqsillari uçun ötkazuvçanroq bölib qoladi. Biroq elektron mikroskopda katta kattalaştirişda körilganda, koptokçalarda odatda oyoqsimon ösimtalari koptokça bazal membranasidan ajralib qolişi mumkin bölgan yassilangan podotsitlar aniqlanadi (_podotsitlarning yassilanişi_, podocyte effacement).",
+   "lead": "Minimal özgarişli nefropatiya va koptokçalarning plazma oqsillari uçun ötkazuvçanligining ortişi."
+  },
+  "ch27-f21": {
+   "text": "Minimal özgarişli nefropatiyaning sabablari noaniq, ammo ular heç bölmaganda qisman immunologik javob va T-hujayralar tomonidan podotsitlarni şikastlab, ularning ayrim kiçikroq molekulyar massali oqsillar, ayniqsa, albumin uçun ötkazuvçanligini oşiruvçi sitokinlarning ğayritabiiy sekretsiyasi bilan boğliq bölişi mumkin. Ötkazuvçanlikning bu ortişi oqsillarning koptokça kapillyarlari tomonidan filtrlanib, siydik bilan çiqarilişiga imkon beradi; bu holat _proteinuriya_ yoki _albuminuriya_ deb ataladi. Minimal özgarişli nefropatiya köproq yoş bolalarda uçraydi, ammo kattalarda, ayniqsa, autoimmun kasalliklari bölganlarda ham yuzaga kelişi mumkin."
+  },
+  "ch27-f22": {
+   "text": "Koptokça filtratsiyasi tezligini belgilovçi omillar"
+  },
+  "ch27-f23": {
+   "text": "GFR quyidagilar bilan belgilanadi: (1) koptokça membranasi orqali ta’sir etuvçi gidrostatik va kolloid osmotik kuçlarning yiğindisi, bu _sof filtratsiya bosimini_ beradi; (2) koptokça Kf i. Matematik ifodada GFR Kf va sof filtratsiya bosimining köpaytmasiga teng:"
+  },
+  "ch27-f24": {
+   "text": "GFR = Kf × Sof filtratsiya bosimi. Sof filtratsiya bosimi koptokça kapillyarlari orqali filtratsiyaga yordam beruvçi yoki unga qarşilik qiluvçi gidrostatik va kolloid osmotik kuçlarning yiğindisini ifodalaydi (**Rasm 27-4**). Bu kuçlarga quyidagilar kiradi: (1) koptokça kapillyarlari içidagi gidrostatik bosim (koptokça gidrostatik bosimi, PG) — filtratsiyaga yordam beradi; (2) kapillyarlardan taşqaridagi Boumen kapsulasidagi gidrostatik bosim (PB) — filtratsiyaga qarşilik qiladi; (3) koptokça kapillyarlaridagi plazma oqsillarining kolloid osmotik bosimi (πG) — filtratsiyaga qarşilik qiladi; (4) Boumen kapsulasidagi oqsillarning kolloid osmotik bosimi (πB) — filtratsiyaga yordam beradi. Normal şaroitda koptokça filtratidagi oqsil konsentratsiyasi şu qadar past böladiki, Boumen kapsulasi suyuqligining kolloid osmotik bosimi nolga teng deb hisoblanadi."
+  },
+  "ch27-f26": {
+   "text": "Şu sababli GFR ni quyidagiça ifodalaş mumkin:"
+  },
+  "ch27-f27": {
+   "text": "GFR ni belgilovçi omillarning normal qiymatlari odamda bevosita ölçanmagan bölsa-da, ular itlar va kalamuşlar kabi hayvonlarda baholangan. Tajriba hayvonlarida olingan natijalarga asoslanib, odamda koptokça filtratsiyasiga yordam beruvçi va qarşilik qiluvçi taxminiy normal kuçlar quyidagiça deb hisoblanadi (**Rasm 27-4** ga qarang):"
+  },
+  "ch27-f28": {
+   "text": "Şunday qilib, sof filtratsiya bosimi = 60 − 18 − 32 = +10 mm Hg."
+  },
+  "ch27-f29": {
+   "text": "Keyinroq muhokama qilinganidek, bu qiymatlarning ayrimlari turli fiziologik şaroitlarda sezilarli darajada özgarişi mumkin, boşqalari esa asosan kasallik holatlarida özgaradi."
+  },
+  "ch27-f30": {
+   "text": "Koptokça kapillyar filtratsiya koeffitsiyentining ortişi koptokça filtratsiyasi tezligini oşiradi"
+  },
+  "ch27-f31": {
+   "text": "Kf koptokça kapillyarlarining gidravlik ötkazuvçanligi va sirt maydoni köpaytmasining ölçovidir. Kf ni bevosita ölçab bölmaydi, ammo uni tajribada GFR ni sof filtratsiya bosimiga böliş orqali baholaş mumkin:"
+  },
+  "ch27-f32": {
+   "text": "Ikkala buyrak uçun umumiy GFR taxminan 125 ml/min, sof filtratsiya bosimi esa 10 mm Hg bölgani uçun normal Kf filtratsiya bosimining har bir mm Hg iga taxminan 12,5 ml/min deb hisoblanadi. Kf buyrak vaznining har 100 grammiga nisbatan ifodalanganda u örtaça har bir mm Hg ga taxminan 4,2 ml/min ni taşkil qiladi; bu qiymat tanadagi boşqa köpçilik kapillyar tizimlarining Kf idan taxminan 400 baravar yuqori. Tanadagi boşqa köplab töqimalarning örtaça Kf i atigi taxminan 0,01 ml/min/mm Hg/100 g ni taşkil qiladi. Koptokça kapillyarlarining bunday yuqori Kf i ularda suyuqlikning tez filtrlanişiga hissa qöşadi."
+  },
+  "ch27-f33": {
+   "text": "Kf ning ortişi GFR ni oşirsa, Kf ning kamayişi esa GFR ni pasaytirsa-da, Kf özgarişlari GFR ning normal kundalik boşqarilişida, ehtimol, asosiy mexanizm bölib xizmat qilmaydi. Biroq ayrim kasalliklar faol koptokça kapillyarlari sonini kamaytiriş (şu tariqa filtratsiya sirt maydonini kamaytiriş) yoki koptokça kapillyar membranasining qalinligini oşirib, uning gidravlik ötkazuvçanligini pasaytiriş orqali Kf ni kamaytiradi. Masalan, surunkali nazoratsiz gipertenziya koptokça kapillyar bazal membranasining qalinligini oşiriş va oxir-oqibat kapillyarlarni şu qadar oğir şikastlab, kapillyar faoliyati yöqolişiga olib keliş orqali Kf ni asta-sekin kamaytirişi mumkin."
+  },
+  "ch27-f34": {
+   "text": "Boumen kapsulasidagi gidrostatik bosimning ortişi koptokça filtratsiyasi tezligini pasaytiradi"
+  },
+  "ch27-f35": {
+   "text": "Tajriba hayvonlarida mikropipetkalar yordamida Boumen kapsulasida va proksimal kanalçaning turli nuqtalarida gidrostatik bosimni bevosita ölçaş natijalari odamda normal şaroitda Boumen kapsulasidagi bosimni taxminan 18 mm Hg deb baholaş maqbul ekanligini körsatgan. Boumen kapsulasidagi gidrostatik bosimning ortişi GFR ni pasaytiradi, bu bosimning kamayişi esa GFR ni oşiradi. Biroq Boumen kapsulasidagi bosimning özgarişlari normada GFR ni boşqarişning asosiy vositasi bölib xizmat qilmaydi."
+  },
+  "ch27-f36": {
+   "text": "Siydik yöllarining tiqilişi bilan keçadigan ayrim patologik holatlarda Boumen kapsulasidagi bosim sezilarli darajada ortib, GFR ning jiddiy pasayişiga sabab bölişi mumkin. Masalan, kalsiy yoki siydik kislotasining çökişi siydik yöllarida, köpinça siydik nayida tiqilib qoladigan toşlar hosil bölişiga olib kelişi mumkin; bu siydik yöllaridan siydik çiqişini tösib, Boumen kapsulasidagi bosimni oşiradi. Bu holat GFR ni pasaytiradi va oxir-oqibat _gidronefroz_ (buyrak jomi va kosaçalarining çözilişi va kengayişi) ga sabab bölişi hamda tiqiliş bartaraf etilmasa, buyrakni şikastlaşi yoki hatto butunlay yemirişi mumkin."
+  },
+  "ch27-f37": {
+   "text": "Koptokça kapillyarlaridagi kolloid osmotik bosimning ortişi koptokça filtratsiyasi tezligini pasaytiradi"
+  },
+  "ch27-f38": {
+   "text": "Qon afferent (olib keluvçi) arterioladan koptokça kapillyarlari orqali efferent (olib ketuvçi) arteriolalarga ötar ekan, plazmadagi oqsil konsentratsiyasi taxminan 20% ga ortadi (**Rasm 27-5**). Bu ortişning sababi şundaki, kapillyarlardagi suyuqlikning taxminan beşdan bir qismi Boumen kapsulasiga filtrlanadi va şu tariqa filtrlanmaydigan koptokça plazma oqsillari konsentrlanadi. Koptokça kapillyarlariga kirayotgan plazmaning normal kolloid osmotik bosimi 28 mm Hg deb faraz qilinsa, qon kapillyarlarning efferent uçiga yetib borgunça bu qiymat odatda taxminan 36 mm Hg gaça kötariladi. Şu sababli koptokça kapillyarlaridagi plazma oqsillarining örtaça kolloid osmotik bosimi 28 va 36 mm Hg ning örtasida, ya’ni taxminan 32 mm Hg böladi."
+  },
+  "ch27-f40": {
+   "text": "Koptokça kapillyarlaridagi kolloid osmotik bosimga ta’sir qiluvçi ikki omil quyidagilardir: (1) arterial plazmaning kolloid osmotik bosimi; (2) koptokça kapillyarlari tomonidan filtrlanadigan plazma uluşi (filtratsiya fraksiyasi). Arterial plazma kolloid osmotik bosimining ortişi koptokça kapillyarlaridagi kolloid osmotik bosimni oşiradi, bu esa öz navbatida GFR ni pasaytirişga moyil böladi."
+  },
+  "ch27-f41": {
+   "text": "_Filtratsiya fraksiyasining ortişi ham plazma oqsillarini konsentrlaydi va koptokçadagi kolloid osmotik bosimni oşiradi_ (**Rasm 27-5** ga qarang). Filtratsiya fraksiyasi GFR ning buyrak plazma oqimiga nisbati sifatida ta’riflangani uçun filtratsiya fraksiyasini GFR ni oşiriş yoki buyrak plazma oqimini kamaytiriş orqali oşiriş mumkin. Masalan, GFR dastlab özgarmagan holda buyrak plazma oqimining kamayişi filtratsiya fraksiyasini oşirişga moyil böladi, bu esa koptokça kapillyarlaridagi kolloid osmotik bosimni oşirib, GFR ni pasaytirişga moyil böladi. Şu sababli buyrak qon oqimining özgarişlari koptokça gidrostatik bosimining özgarişlaridan mustaqil ravişda GFR ga ta’sir qilişi mumkin."
+  },
+  "ch27-f42": {
+   "text": "Buyrak qon oqimi ortganda dastlab koptokça kapillyarlaridan plazmaning kiçikroq uluşi filtrlanadi, bu esa koptokça kapillyarlaridagi kolloid osmotik bosimning sekinroq kötarilişiga va GFR ga kamroq töxtatuvçi ta’sirga olib keladi. _Binobarin, koptokça gidrostatik bosimi doimiy bölganda ham_, _koptokçaga qon oqimining yuqoriroq tezligi GFR ni oşirişga, koptokçaga qon oqimining pastroq tezligi esa GFR ni pasaytirişga moyil böladi_."
+  },
+  "ch27-f43": {
+   "text": "Koptokça kapillyarlaridagi gidrostatik bosimning ortişi koptokça filtratsiyasi tezligini oşiradi"
+  },
+  "ch27-f44": {
+   "text": "Koptokça kapillyarlaridagi gidrostatik bosim normal şaroitda taxminan 60 mm Hg deb baholangan. Koptokça gidrostatik bosimining özgarişlari GFR ni fiziologik boşqarişning asosiy vositasi bölib xizmat qiladi. Koptokça gidrostatik bosimining ortişi GFR ni oşiradi, koptokça gidrostatik bosimining pasayişi esa GFR ni kamaytiradi."
+  },
+  "ch27-f45": {
+   "text": "Koptokça gidrostatik bosimi har biri fiziologik nazorat ostida bölgan uçta özgaruvçi bilan belgilanadi: (1) _arterial bosim_; (2) _afferent arteriola qarşiligi_; (3) _efferent arteriola qarşiligi_."
+  },
+  "ch27-f46": {
+   "text": "Arterial bosimning ortişi koptokça gidrostatik bosimini oşirişga va şu tariqa GFR ni oşirişga moyil böladi. Biroq keyinroq muhokama qilinganidek, bu ta’sir arterial bosim özgarib turganda koptokça bosimini nisbatan doimiy saqlab turuvçi autoregulyator mexanizmlar tomonidan yumşatiladi."
+  },
+  "ch27-f47": {
+   "text": "Afferent arteriolalar qarşiligining ortişi koptokça gidrostatik bosimini pasaytiradi va GFR ni kamaytiradi (**Rasm 27-6**). Aksinça, afferent arteriolalarning kengayişi koptokça gidrostatik bosimini va GFR ni oşiradi."
+  },
+  "ch27-f49": {
+   "text": "Efferent arteriolalarning torayişi koptokça kapillyarlaridan qon çiqib ketişiga qarşilikni oşiradi. Bu mexanizm koptokça gidrostatik bosimini oşiradi va efferent qarşilikning ortişi buyrak qon oqimini haddan taşqari kamaytirmas ekan, GFR biroz ortadi (**Rasm 27-6** ga qarang). Biroq efferent arteriolalarning torayişi buyrak qon oqimini ham kamaytirgani uçun efferent arteriola qarşiligi ortgan sari filtratsiya fraksiyasi va koptokçadagi kolloid osmotik bosim ortadi. Şu sababli efferent arteriolalarning torayişi kuçli bölsa (efferent arteriola qarşiligining taxminan uç baravardan köproq ortişi), kolloid osmotik bosimning kötarilişi efferent arteriolalar torayişi natijasida koptokça kapillyarlaridagi gidrostatik bosimning ortişidan oşib ketadi. Bu holat yuzaga kelganda filtratsiyaning _sof kuçi_ aslida kamayadi va GFR pasayadi."
+  },
+  "ch27-f50": {
+   "text": "Şunday qilib, efferent arteriolalarning torayişi GFR ga ikki fazali ta’sir körsatadi (**Rasm 27-7**). Örtaça darajadagi torayişda GFR biroz ortadi, ammo kuçli torayişda GFR kamayadi. GFR ning oxir-oqibat kamayişining asosiy sababi quyidagiça. Efferent torayiş kuçaygan va plazmadagi oqsil konsentratsiyasi ortgan sari Donnan effekti tufayli kolloid osmotik bosim tez va noçiziqli ravişda ortadi; 16-bobda muhokama qilinganidek, oqsil konsentratsiyasi qançalik yuqori bölsa, plazma oqsillari bilan boğlangan va özi ham osmotik ta’sir körsatadigan ionlarning özaro ta’siri tufayli kolloid osmotik bosim şunçalik tez kötariladi."
+  },
+  "ch27-f52": {
+   "text": "Xulosa qilib aytganda, afferent arteriolalarning torayişi GFR ni kamaytiradi. Biroq efferent arteriolalar torayişining ta’siri torayiş darajasiga boğliq: efferent arteriolalarning örtaça torayişi GFR ni oşiradi, kuçli torayişi (qarşilikning uç baravardan köproq ortişi) esa GFR ni kamaytirişga moyil böladi."
+  },
+  "ch27-f53": {
+   "text": "**Jadval 27-2** da GFR ni kamaytirişi mumkin bölgan omillar umumlaştirilgan."
+  },
+  "ch27-f55": {
+   "text": "Buyrak qon oqimi"
+  },
+  "ch27-f56": {
+   "text": "70 kg vaznli erkakda ikkala buyrak orqali ötadigan umumiy qon oqimi taxminan 1100 ml/min, ya’ni yurak minutlik hajmining taxminan 22% ini taşkil qiladi. Ikkala buyrak tana umumiy vaznining atigi taxminan 0,4% ini taşkil qilişini hisobga olsak, ular boşqa a’zolarga qaraganda nihoyatda yuqori qon oqimi olişini osongina köriş mumkin."
+  },
+  "ch27-f57": {
+   "text": "Boşqa töqimalarda bölgani kabi, qon oqimi buyraklarni ozuqa moddalari bilan ta’minlaydi va çiqindi mahsulotlarni olib ketadi. Biroq buyraklarga keladigan yuqori qon oqimi bu ehtiyojdan ança oşib ketadi. Bu qöşimça oqimning maqsadi tana suyuqliklari hajmi va erigan moddalar konsentratsiyalarini aniq boşqariş uçun zarur bölgan koptokça filtratsiyasining yuqori tezligini ta’minlaşga yetarli plazma yetkazib berişdir. Kutilganidek, buyrak qon oqimini boşqaruvçi mexanizmlar GFR va buyraklarning ekskretor funksiyalarini boşqariş bilan çambarças boğliq."
+  },
+  "ch27-f58": {
+   "text": "Buyrak qon oqimi va kislorod iste’moli"
+  },
+  "ch27-f59": {
+   "text": "Bir gramm vaznga hisoblaganda buyraklar normada boş miyaga qaraganda ikki baravar köp kislorod iste’mol qiladi, ammo ularning qon oqimi boş miyanikidan deyarli yetti baravar köp. Şunday qilib, buyraklarga yetkazib beriladigan kislorod ularning metabolik ehtiyojlaridan ança ortiq bölib, kislorodning arterio-venoz ekstraksiyasi boşqa köpçilik töqimalarnikiga qaraganda nisbatan past böladi."
+  },
+  "ch27-f60": {
+   "text": "Buyraklar iste’mol qiladigan kislorodning katta qismi buyrak kanalçalarida natriyning faol qayta sörilişining yuqori tezligi bilan boğliq. Agar buyrak qon oqimi va GFR kamaysa hamda kamroq natriy filtrlansa, kamroq natriy qayta söriladi va kamroq kislorod iste’mol qilinadi. Şu sababli buyrakning kislorod iste’moli buyrak kanalçalarida natriyning qayta sörilişiga mutanosib ravişda özgaradi, bu esa öz navbatida GFR va filtrlangan natriy miqdori bilan çambarças boğliq (**Rasm 27-8**). Agar koptokça filtratsiyasi butunlay töxtasa, buyrakda natriyning qayta sörilişi ham töxtaydi va kislorod iste’moli normaning taxminan törtdan bir qismigaça kamayadi. Bu qoldiq kislorod iste’moli buyrak hujayralarining asosiy metabolik ehtiyojlarini aks ettiradi."
+  },
+  "ch27-f62": {
+   "text": "Buyrak qon oqimini belgilovçi omillar"
+  },
+  "ch27-f63": {
+   "text": "Buyrak qon oqimi (RBF) buyrak tomirlari böylab bosim gradiyentining (buyrak arteriyasi va buyrak venasidagi gidrostatik bosimlar farqining) buyrak tomirlarining umumiy qarşiligiga nisbati bilan belgilanadi:"
+  },
+  "ch27-f64": {
+   "text": "Buyrak arteriyasidagi bosim taxminan tizimli arterial bosimga teng, buyrak venasidagi bosim esa köpçilik şaroitlarda örtaça taxminan 3–4 mm Hg ni taşkil qiladi. Boşqa tomir özanlarida bölgani kabi, buyraklar orqali umumiy tomir qarşiligi alohida tomir segmentlari, jumladan arteriyalar, arteriolalar, kapillyarlar va venalar qarşiliklarining yiğindisi bilan belgilanadi (**Jadval 27-3**)."
+  },
+  "ch27-f66": {
+   "text": "Buyrak tomirlari qarşiligining köp qismi uçta asosiy segmentga — bölakçalararo arteriyalar, afferent arteriolalar va efferent arteriolalarga töğri keladi. Keyinroq muhokama qilinganidek, bu tomirlarning qarşiligi simpatik nerv tizimi, turli gormonlar va buyrak içidagi mahalliy boşqaruv mexanizmlari tomonidan boşqariladi. Agar buyrak arteriyasi va buyrak venasidagi bosimlar doimiy qolsa, buyrak tomir segmentlaridan istalgan birining qarşiligi ortişi buyrak qon oqimini kamaytirişga moyil böladi, tomir qarşiligining pasayişi esa buyrak qon oqimini oşiradi."
+  },
+  "ch27-f67": {
+   "text": "Arterial bosimning özgarişlari buyrak qon oqimiga ma’lum darajada ta’sir qilsa-da, buyraklar arterial bosim 80 dan 170 mm Hg gaça bölgan diapazonda buyrak qon oqimi va GFR ni nisbatan doimiy saqlab turuvçi samarali mexanizmlarga ega; bu jarayon _autoregulyatsiya_ deb ataladi. Uşbu bobning keyingi qismida muhokama qilinganidek, autoregulyatsiya qobiliyati buyraklarning öziga xos içki mexanizmlari orqali amalga oşadi."
+  },
+  "ch27-f68": {
+   "text": "Buyrak mağiz qavati töğri tomirlaridagi qon oqimi pöstloq qavatidagiga qaraganda past"
+  },
+  "ch27-f69": {
+   "text": "Buyrakning taşqi qismi — buyrak pöstloği buyrak qon oqimining köp qismini oladi. Buyrak mağiz qavatidagi qon oqimi buyrak umumiy qon oqimining atigi 1–2% ini taşkil qiladi. Buyrak mağiz qavatiga qon kanalçalar atrofi kapillyar tizimining _töğri tomirlar_ (vasa recta) deb ataladigan maxsus qismi orqali yetkaziladi. Bu tomirlar Genle qovuzloqlariga parallel ravişda mağiz qavatiga tuşadi, söngra Genle qovuzloqlari bilan birga qayrilib, vena tizimiga quyilişidan oldin pöstloq qavatiga qaytadi. 29-bobda muhokama qilinganidek, töğri tomirlar buyraklarga konsentrlangan siydik hosil qiliş imkonini berişda muhim rol öynaydi."
+  },
+  "ch27-f70": {
+   "text": "Koptokça filtratsiyasi va buyrak qon oqimining fiziologik boşqarilişi"
+  },
+  "ch27-f71": {
+   "text": "GFR ni belgilovçi omillar içida eng özgaruvçan va fiziologik nazoratga böysunadigani koptokça gidrostatik bosimidir. Bu özgaruvçiga esa öz navbatida simpatik nerv tizimi, gormonlar, autakoidlar (buyraklarda ajralib, mahalliy ta’sir körsatadigan vazoaktiv moddalar) va buyraklarning öziga xos boşqa teskari aloqa mexanizmlari ta’sir qiladi."
+  },
+  "ch27-f72": {
+   "text": "Simpatik nerv tizimining kuçli faollaşuvi koptokça filtratsiyasi tezligini pasaytiradi"
+  },
+  "ch27-f73": {
+   "text": "Buyraklarning amalda barça qon tomirlari, jumladan afferent va efferent arteriolalar simpatik nerv tolalari bilan boy innervatsiyalangan. Buyrak simpatik nervlarining kuçli faollaşuvi buyrak arteriolalarini toraytirib, buyrak qon oqimi va GFR ni kamaytirişi mumkin. Örtaça yoki yengil simpatik qözğaliş buyrak qon oqimi va GFR ga kam ta’sir qiladi. Masalan, uyqu arteriyasi sinusi baroretseptorlari yoki yurak-öpka retseptorlarida bosimning örtaça pasayişi natijasida simpatik nerv tizimining reflektor faollaşuvi buyrak qon oqimi yoki GFR ga kam ta’sir körsatadi. Biroq 28-bobda muhokama qilinganidek, buyrak simpatik faolligining hatto yengil ortişi ham renin ajralişini rağbatlantirişi va buyrak kanalçalarida qayta sörilişni oşirib, natriy va suv çiqarilişini kamaytirişi mumkin."
+  },
+  "ch27-f74": {
+   "text": "Buyrak simpatik nervlari himoya reaksiyasi, boş miya işemiyasi yoki oğir qon ketiş kabi bir neça daqiqadan bir neça soatgaça davom etadigan oğir ötkir buzilişlar paytida GFR ni kamaytirişda eng muhim ahamiyatga ega bölsa kerak."
+  },
+  "ch27-f75": {
+   "text": "Buyrak qon aylanişining gormonal va autakoid boşqarilişi"
+  },
+  "ch27-f76": {
+   "text": "**Jadval 27-4** da umumlaştirilganidek, bir neçta gormon va autakoidlar GFR va buyrak qon oqimiga ta’sir qilişi mumkin."
+  },
+  "ch27-f78": {
+   "text": "Afferent va efferent arteriolalarni toraytirib, GFR va buyrak qon oqimini kamaytiruvçi gormonlarga buyrak usti bezining mağiz qavatidan ajraladigan _noradrenalin_ va _adrenalin_ kiradi. Umuman olganda, bu gormonlarning qondagi darajasi simpatik nerv tizimi faolligiga mos ravişda özgaradi; şu sababli noradrenalin va adrenalin, oğir qon ketiş kabi simpatik nerv tizimining kuçli faollaşuvi bilan keçadigan holatlardan taşqari, buyrak gemodinamikasiga kam ta’sir körsatadi.",
+   "lead": "Noradrenalin, adrenalin va endotelin buyrak qon tomirlarini toraytiradi va koptokça filtratsiyasi tezligini pasaytiradi."
+  },
+  "ch27-f79": {
+   "text": "Yana bir vazokonstriktor — _endotelin_ buyraklarning şikastlangan tomir endoteliy hujayralari, şuningdek, boşqa töqimalar tomonidan ajralişi mumkin bölgan peptiddir. Bu autakoidning fiziologik roli töliq aniqlanmagan. Biroq qon tomiri kesilganda endoteliy şikastlanadi va bu kuçli vazokonstriktor ajraladi, şu tariqa endotelin gemostazga (qon yöqotilişini minimal darajaga tuşirişga) hissa qöşişi mumkin. Plazmadagi endotelin darajasi homiladorlik toksikozi, ötkir buyrak yetişmovçiligi va surunkali uremiya kabi tomir şikastlanişi bilan keçadigan köplab kasallik holatlarida ham ortadi va uşbu patofiziologik holatlarning ayrimlarida buyrak tomirlarining torayişi va GFR ning pasayişiga hissa qöşişi mumkin."
+  },
+  "ch27-f80": {
+   "text": "Kuçli buyrak vazokonstriktori bölgan _angiotenzin II_ ni ham qonda aylanuvçi gormon, ham mahalliy hosil böluvçi _autakoid_ yoki _parakrin gormon_ deb hisoblaş mumkin, çunki u buyraklarda ham, tizimli qon aylanişida ham hosil böladi. Angiotenzin II retseptorlari buyraklarning amalda barça qon tomirlarida mavjud. Biroq renin-angiotenzin tizimining faollaşuvi bilan keçadigan köpçilik fiziologik holatlarda, masalan, natriy kam parhezda yoki buyrak arteriyasi stenozi tufayli buyrak perfuziya bosimi pasayganda, koptokçagaça bölgan qon tomirlari, ayniqsa, afferent arteriolalar angiotenzin II vositaçiligidagi torayişdan nisbatan himoyalangan körinadi. Bu himoya uşbu qon tomirlarida angiotenzin II ning vazokonstriktor ta’siriga qarşi ta’sir körsatuvçi vazodilatatorlar, ayniqsa, _azot oksidi_ va _prostaglandinlar_ ajralişi bilan boğliq.",
+   "lead": "Köpçilik fiziologik holatlarda angiotenzin II asosan efferent arteriolalarni toraytiradi."
+  },
+  "ch27-f81": {
+   "text": "Biroq efferent arteriolalar angiotenzin II ga juda sezgir. Köpçilik fiziologik holatlarda angiotenzin II asosan efferent arteriolalarni toraytirgani uçun angiotenzin II darajasining ortişi buyrak qon oqimini kamaytirgan holda koptokça gidrostatik bosimini oşiradi. Şuni yodda tutiş kerakki, angiotenzin II hosil bölişining ortişi odatda GFR ni pasaytirişga moyil bölgan arterial bosimning pasayişi yoki hajm kamayişi bilan boğliq vaziyatlarda yuzaga keladi. Bunday vaziyatlarda angiotenzin II darajasining ortişi efferent arteriolalarni toraytiriş orqali koptokça gidrostatik bosimi va GFR ning pasayişining _oldini olişga_ yordam beradi. Şu bilan birga, efferent arteriolalar torayişi natijasida buyrak qon oqimining kamayişi kanalçalar atrofi kapillyarlari orqali oqimning kamayişiga hissa qöşadi, bu esa öz navbatida, 28-bobda muhokama qilinganidek, natriy va suvning qayta sörilişini oşiradi."
+  },
+  "ch27-f82": {
+   "text": "Şunday qilib, natriy kam parhezda yoki hajm kamayişida yuzaga keladigan angiotenzin II darajasining ortişi GFR ni hamda çiqarilişi koptokça filtratsiyasiga boğliq bölgan moçevina va kreatinin kabi metabolik çiqindi mahsulotlarning normal çiqarilişini saqlab turişga yordam beradi. Şu bilan birga, angiotenzin II ta’sirida efferent arteriolalarning torayişi kanalçalarda natriy va suvning qayta sörilişini oşiradi, bu esa qon hajmi va qon bosimini tiklaşga yordam beradi. Angiotenzin II ning GFR autoregulyatsiyasiga yordam beruvçi bu ta’siri uşbu bobning keyingi qismida batafsilroq muhokama qilinadi."
+  },
+  "ch27-f83": {
+   "text": "Buyrak tomirlari qarşiligini pasaytiruvçi va butun tanadagi tomir endoteliysi tomonidan ajraladigan autakoid — _endoteliy hosil qiladigan azot oksidi_ hisoblanadi. Azot oksidining bazal darajada işlab çiqarilişi buyrak tomirlarining kengaygan holatini hamda natriy va suvning normal çiqarilişini saqlab turiş uçun muhim körinadi. Şu sababli azot oksidi hosil bölişini töxtatuvçi dorilarni yuboriş buyrak tomirlari qarşiligini oşiradi, GFR va natriyning siydik bilan çiqarilişini kamaytiradi va oxir-oqibat yuqori qon bosimiga sabab böladi. Ayrim gipertenziyali bemorlarda yoki aterosklerozli bemorlarda tomir endoteliysining şikastlanişi va azot oksidi işlab çiqarilişining buzilişi buyrak tomirlari torayişining kuçayişi va qon bosimining kötarilişiga hissa qöşişi mumkin.",
+   "lead": "Endoteliy hosil qiladigan azot oksidi buyrak tomirlari qarşiligini pasaytiradi va koptokça filtratsiyasi tezligini oşiradi."
+  },
+  "ch27-f84": {
+   "text": "Prostaglandinlar (PGE2 va PGI2) va bradikinin tomirlarning kengayişiga, buyrak qon oqimining ortişiga va GFR ning ortişiga sabab böluvçi gormonlar va autakoidlar vazifasini bajaradi. Bu moddalar 17-bobda muhokama qilingan. Bu vazodilatatorlar normal şaroitda buyrak qon oqimi yoki GFR ni boşqarişda katta ahamiyatga ega bölmasa-da, ular simpatik nervlar yoki angiotenzin II ning buyrak tomirlarini toraytiruvçi ta’sirlarini, ayniqsa, ularning afferent arteriolalarni toraytiruvçi ta’sirini yumşatişi mumkin.",
+   "lead": "Prostaglandinlar va bradikinin buyrak tomirlari qarşiligini pasaytiradi va koptokça filtratsiyasi tezligini oşirişga moyil böladi."
+  },
+  "ch27-f85": {
+   "text": "Afferent arteriolalarning torayişiga qarşilik qiliş orqali prostaglandinlar GFR va buyrak qon oqimining haddan taşqari kamayişining oldini olişga yordam beradi. Hajm kamayişi kabi stress holatlarida yoki jarrohlik amaliyotidan keyin prostaglandinlar sintezini töxtatuvçi aspirin kabi nosteroid yalliğlanişga qarşi vositalarni (NSAIDs) qöllaş GFR ning sezilarli pasayişiga sabab bölişi mumkin."
+  },
+  "ch27-f86": {
+   "text": "Koptokça filtratsiyasi tezligi va buyrak qon oqimining autoregulyatsiyasi"
+  },
+  "ch27-f87": {
+   "text": "Buyraklarning öziga xos teskari aloqa mexanizmlari normada arterial qon bosimining sezilarli özgarişlariga qaramay buyrak qon oqimi va GFR ni nisbatan doimiy saqlab turadi."
+  },
+  "ch27-f88": {
+   "text": "Bu mexanizmlar tanadan olib taşlangan va qon bilan perfuziya qilinayotgan buyraklarda ham tizimli ta’sirlardan mustaqil ravişda işlaşda davom etadi. GFR va buyrak qon oqimining bu nisbiy doimiyligi _autoregulyatsiya_ deb ataladi (**Rasm 27-9**)."
+  },
+  "ch27-f90": {
+   "text": "Buyraklardan taşqari köpçilik töqimalarda qon oqimi autoregulyatsiyasining asosiy vazifasi arterial bosimning özgarişlariga qaramay kislorod va ozuqa moddalarining yetkazib berilişini normal darajada saqlab turiş va metabolizm çiqindi mahsulotlarini olib ketişdir. Buyraklarda esa normal qon oqimi bu vazifalar uçun zarur bölgandan ança yuqori. Buyraklarda autoregulyatsiyaning asosiy vazifasi GFR ni nisbatan doimiy saqlab turiş va suv hamda erigan moddalarning buyraklar orqali çiqarilişini aniq boşqariş imkonini berişdir."
+  },
+  "ch27-f91": {
+   "text": "Odamning odatdagi faoliyati davomida arterial bosimning sezilarli tebranişlariga qaramay GFR normada nisbatan doimiy bölib qoladi. Masalan, arterial bosimning 70–75 mm Hg gaça pasayişi yoki 160–180 mm Hg gaça kötarilişi odatda GFR ni 10% dan kamroq özgartiradi. Umuman olganda, buyrak qon oqimi GFR bilan parallel ravişda autoregulyatsiyalanadi, ammo ayrim şaroitlarda GFR samaraliroq autoregulyatsiyalanadi."
+  },
+  "ch27-f92": {
+   "text": "Buyraklar orqali çiqarilişning keskin özgarişlarining oldini olişda koptokça filtratsiyasi tezligi autoregulyatsiyasining ahamiyati"
+  },
+  "ch27-f93": {
+   "text": "Buyrak autoregulyator mexanizmlari mukammal bölmasa-da, ular aks holda qon bosimi özgarganda yuzaga kelişi mumkin bölgan GFR hamda suv va erigan moddalarning buyraklar orqali çiqarilişidagi potensial katta özgarişlarning oldini oladi. Autoregulyatsiyaning miqdoriy ahamiyatini koptokça filtratsiyasi, kanalçalarda qayta söriliş va buyraklar orqali çiqarilişning nisbiy kattaliklarini hamda autoregulyator mexanizmlar bölmaganda buyraklar orqali çiqarilişda yuz beradigan özgarişlarni körib çiqiş orqali tuşuniş mumkin."
+  },
+  "ch27-f94": {
+   "text": "Normada GFR kuniga taxminan 180 L ni, kanalçalarda qayta söriliş esa kuniga 178,5 L ni taşkil qiladi, natijada kuniga 1,5 L suyuqlik siydik bilan çiqariladi. Autoregulyatsiya bölmaganda qon bosimining nisbatan kiçik ortişi (100 dan 125 mm Hg gaça) GFR ning ham şunga öxşaş 25% ga ortişiga (kuniga taxminan 180 dan 225 L gaça) sabab bölar edi. Agar kanalçalarda qayta söriliş kuniga 178,5 L darajasida doimiy qolsa, siydik oqimi kuniga 46,5 L gaça (GFR va kanalçalarda qayta söriliş örtasidagi farq) — ya’ni umumiy hisobda 30 baravardan köproq ortgan bölar edi. Plazmaning umumiy hajmi atigi taxminan 3 litr bölgani uçun bunday özgariş qon hajmini tezda kamaytirib yuborar edi."
+  },
+  "ch27-f95": {
+   "text": "Haqiqatda arterial bosimning özgarişlari odatda siydik hajmiga ança kamroq ta’sir körsatadi, buning ikki sababi bor: (1) buyrak autoregulyatsiyasi aks holda yuzaga keladigan GFR ning katta özgarişlarining oldini oladi; (2) buyrak kanalçalarida GFR kötarilganda ularning qayta söriş tezligini oşiruvçi qöşimça moslaşuv mexanizmlari mavjud; bu hodisa _glomerulotubulyar muvozanat_ deb ataladi (28-bobda muhokama qilinadi). Hatto bu maxsus boşqaruv mexanizmlari mavjud bölganda ham arterial bosimning özgarişlari suv va natriyning buyraklar orqali çiqarilişiga sezilarli ta’sir körsatadi; bu ta’sir _bosim diurezi_ yoki _bosim natriyurezi_ deb ataladi va 19- va 30-boblarda muhokama qilinganidek, tana suyuqliklari hajmi va arterial bosimni boşqarişda hal qiluvçi ahamiyatga ega."
+  },
+  "ch27-f96": {
+   "text": "Tubuloglomerulyar teskari aloqa va koptokça filtratsiyasi tezligining autoregulyatsiyasi"
+  },
+  "ch27-f97": {
+   "text": "Buyraklar ziç doğ (macula densa) sohasidagi natriy xlorid konsentratsiyasining özgarişlarini buyrak arteriolalari qarşiligini boşqariş va GFR autoregulyatsiyasi bilan boğlovçi maxsus teskari aloqa mexanizmiga ega. Bu teskari aloqa distal kanalçaga natriy xloridning nisbatan doimiy yetkazib berilişini ta’minlaşga va aks holda buyraklar orqali çiqarilişda yuz beradigan tasodifiy tebranişlarning oldini olişga yordam beradi. Köp hollarda bu teskari aloqa buyrak qon oqimi va GFR ni parallel ravişda autoregulyatsiya qiladi. Biroq bu mexanizm aynan distal kanalçaga natriy xlorid yetkazib berilişini barqarorlaştirişga yönaltirilgani uçun, keyinroq muhokama qilinganidek, GFR buyrak qon oqimining özgarişlari hisobiga autoregulyatsiyalanadigan holatlar ham uçraydi. Boşqa hollarda bu mexanizm buyrak kanalçalarida natriy xlorid qayta sörilişining birlamçi özgarişlariga javoban GFR ning özgarişlariga ham sabab bölişi mumkin."
+  },
+  "ch27-f98": {
+   "text": "Tubuloglomerulyar teskari aloqa mexanizmi GFR ni boşqariş uçun birgalikda ta’sir qiluvçi ikki tarkibiy qismga ega: (1) afferent arteriola teskari aloqa mexanizmi; (2) efferent arteriola teskari aloqa mexanizmi. Bu teskari aloqa mexanizmlari _yukstaglomerulyar kompleksning_ maxsus anatomik tuzilişiga boğliq (**Rasm 27-10**)."
+  },
+  "ch27-f100": {
+   "text": "Yukstaglomerulyar kompleks distal kanalçaning boşlanğiç qismidagi _ziç doğ hujayralari_ (macula densa) hamda afferent va efferent arteriolalar devoridagi _yukstaglomerulyar hujayralardan_ iborat. Ziç doğ — distal kanalçalardagi afferent va efferent arteriolalar bilan yaqin aloqada böladigan maxsus epiteliy hujayralari guruhidir. Ziç doğ hujayralarida arteriolalar tomon yönalgan hujayra içi sekretor organellalaridan iborat Golji apparati mavjud; bu uşbu hujayralar arteriolalar tomon biror moddani sekretsiya qilişi mumkinligini körsatadi."
+  },
+  "ch27-f101": {
+   "text": "Ziç doğ hujayralari distal kanalçaga natriy xlorid yetkazib berilişidagi özgarişlarni hali töliq aniqlanmagan signallar orqali sezadi. Tajriba tadqiqotlari GFR ning pasayişi Genle qovuzloğida oqim tezligini sekinlaştirişini, bu esa Genle qovuzloğining kötariluvçi qismiga yetkazilgan natriy va xlor ionlari uluşining qayta sörilişini oşirib, şu tariqa ziç doğ hujayralari sohasida natriy xlorid konsentratsiyasini kamaytirişini körsatgan. Natriy xlorid konsentratsiyasining bu kamayişi ziç doğdan ikki xil ta’sirga ega signalni boşlab beradi (**Rasm 27-11**): (1) u afferent arteriolalarda qon oqimiga qarşilikni pasaytiradi, bu koptokça gidrostatik bosimini oşiradi va GFR ni normaga qaytarişga yordam beradi; (2) u reninning asosiy saqlaniş joylari bölgan afferent va efferent arteriolalarning yukstaglomerulyar hujayralaridan renin ajralişini oşiradi. Bu hujayralardan ajralgan renin keyin angiotenzin I hosil bölişini oşiruvçi ferment vazifasini bajaradi, angiotenzin I esa angiotenzin II ga aylanadi. Nihoyat, angiotenzin II efferent arteriolalarni toraytirib, koptokça gidrostatik bosimini oşiradi va GFR ni normaga qaytarişga yordam beradi.",
+   "lead": "Ziç doğda natriy xloridning kamayişi afferent arteriolalarning kengayişiga va renin ajralişining ortişiga sabab böladi."
+  },
+  "ch27-f103": {
+   "text": "Tubuloglomerulyar teskari aloqa mexanizmining yukstaglomerulyar apparatning maxsus anatomik tuzilişi orqali birgalikda işlaydigan bu ikki tarkibiy qismi arterial bosim özgarganda GFR ning samarali autoregulyatsiyasi uçun afferent va efferent arteriolalarga teskari aloqa signallarini yetkazib beradi. Bu ikkala mexanizm birgalikda işlaganda, arterial bosim 75 va 160 mm Hg çegaralari orasida katta tebranganda ham GFR atigi bir neça foizga özgaradi."
+  },
+  "ch27-f104": {
+   "text": "Yuqorida muhokama qilinganidek, angiotenzin II ning asosan efferent arteriolalarga toraytiruvçi ta’siri buyrak perfuziya bosimi normadan pastga tuşganda koptokça gidrostatik bosimi va GFR ning jiddiy pasayişining oldini olişga yordam beradi. Angiotenzin II hosil bölişini bloklovçi (angiotenzinga aylantiruvçi ferment ingibitorlari) yoki angiotenzin II ta’sirini bloklovçi (angiotenzin II retseptorlari antagonistlari) dorilarni qöllaş buyrak arterial bosimi normadan pastga tuşganda GFR ning odatdagidan köproq pasayişiga sabab bölişi mumkin. Şu sababli bu dorilarni buyrak arteriyasi stenozi (buyrak arteriyasining qisman tiqilişi) tufayli gipertenziyasi bölgan bemorlarni davolaşda qöllaşning muhim asorati — GFR ning keskin pasayişi bölib, u ayrim hollarda ötkir buyrak yetişmovçiligiga sabab bölişi mumkin. Şunga qaramay, bemorlar GFR ning keskin pasayişi yuz bermasligini ta’minlaş uçun kuzatib borilsa, angiotenzin II ni bloklovçi dorilar gipertenziya, dimlanişli yurak yetişmovçiligi va boşqa holatlari bölgan köplab bemorlarda muhim davolaş vositalari hisoblanadi.",
+   "lead": "Buyrak gipoperfuziyasida angiotenzin II hosil bölişining blokadasi koptokça filtratsiyasi tezligini yanada pasaytiradi."
+  },
+  "ch27-f105": {
+   "text": "Buyrak qon oqimi va koptokça filtratsiyasi tezligining miogen autoregulyatsiyasi"
+  },
+  "ch27-f106": {
+   "text": "Buyrak qon oqimi va GFR ni nisbatan doimiy saqlab turişga hissa qöşadigan yana bir mexanizm — alohida qon tomirlarining arterial bosim ortganda çözilişga qarşilik körsatiş qobiliyati bölib, u _miogen mexanizm_ deb ataladi. Butun tanadagi alohida qon tomirlarini (ayniqsa, mayda arteriolalarni) örganiş ular devor tarangligi yoki devor çözilişining ortişiga tomir silliq muskulining qisqarişi bilan javob berişini körsatgan. Tomir devorining çözilişi kalsiy ionlarining hujayradan taşqari suyuqlikdan hujayralarga köproq ötişiga imkon beradi va 8-bobda muhokama qilingan mexanizmlar orqali ularning qisqarişiga sabab böladi. Bu qisqariş tomirning haddan taşqari çözilişining oldini oladi va şu bilan birga tomir qarşiligini oşiriş orqali arterial bosim ortganda buyrak qon oqimi va GFR ning haddan taşqari ortişining oldini olişga yordam beradi."
+  },
+  "ch27-f107": {
+   "text": "Miogen mexanizm, ehtimol, butun tanadagi köpçilik arteriolalarda işlasa-da, uning buyrak qon oqimi va GFR autoregulyatsiyasidagi ahamiyati ayrim fiziologlar tomonidan şubha ostiga olingan, çunki bosimga sezgir bu mexanizm buyrak qon oqimi yoki GFR ning özidagi özgarişlarni bevosita aniqlaş vositasiga ega emas. Boşqa tomondan, bu mexanizm buyrakni gipertenziya keltirib çiqaradigan şikastlanişdan himoya qilişda muhimroq bölişi mumkin. Qon bosimining tösatdan ortişiga javoban afferent arteriolalardagi miogen toraytiruvçi javob bir neça soniya içida yuzaga keladi va şu tariqa ortgan arterial bosimning koptokça kapillyarlariga uzatilişini susaytiradi."
+  },
+  "ch27-f108": {
+   "text": "Buyrak qon oqimi va GFR köpçilik şaroitlarda nisbatan barqaror bölsa-da, bu özgaruvçilar sezilarli özgaradigan vaziyatlar ham mavjud. Masalan, _oqsilni köp iste’mol qiliş buyrak qon oqimi va GFR ni oşirişi ma’lum_. Köp miqdorda göşt saqlovçi kabi uzoq muddatli yuqori oqsilli parhezda GFR va buyrak qon oqimining ortişi qisman buyraklarning kattalaşişi bilan boğliq. Biroq odam yuqori oqsilli ovqat iste’mol qilgandan keyin 1–2 soat içida ham GFR va buyrak qon oqimi 20–30% ga ortadi.",
+   "lead": "Oqsilni köp iste’mol qiliş va giperglikemiya buyrak qon oqimi va koptokça filtratsiyasi tezligini oşiradi."
+  },
+  "ch27-f109": {
+   "text": "GFR ortişining ehtimoliy tuşuntirişlaridan biri quyidagiça. Yuqori oqsilli ovqat qonga aminokislotalar çiqaradi va ular proksimal kanalçalarda qayta söriladi. Aminokislotalar va natriy proksimal kanalçalarda kotransport orqali birgalikda qayta sörilgani uçun aminokislotalar qayta sörilişining ortişi natriyning qayta sörilişini ham rağbatlantiradi. Natriy qayta sörilişining bu ortişi ziç doğga natriy yetkazib berilişini kamaytiradi (**Rasm 27-12** ga qarang), bu esa yuqorida muhokama qilinganidek, tubuloglomerulyar teskari aloqa vositasida afferent arteriolalar qarşiligining pasayişini keltirib çiqaradi. Afferent arteriolalar qarşiligining pasayişi keyin buyrak qon oqimi va GFR ni oşiradi, bu esa natriy çiqarilişini deyarli normal darajada saqlab turgan holda moçevina kabi oqsil almaşinuvi çiqindi mahsulotlarining çiqarilişini oşiriş imkonini beradi."
+  },
+  "ch27-f111": {
+   "text": "_Xuddi şunday mexanizm nazoratsiz qandli diabeti bölgan odamlarda qondagi glyukoza darajasining katta ortişida kuzatiladigan buyrak qon oqimi va GFR ning sezilarli ortişini ham tuşuntirişi mumkin._ Glyukoza ham ayrim aminokislotalar singari proksimal kanalçada natriy bilan birga qayta sörilgani uçun kanalçalarga glyukoza yetkazib berilişining ortişi ularning glyukoza bilan birga ortiqça natriyni ham qayta sörişiga sabab böladi. Natriy qayta sörilişining bu ortişi esa öz navbatida ziç doğ sohasida natriy xlorid konsentratsiyasini kamaytirib, tubuloglomerulyar teskari aloqa vositasida afferent arteriolalarning kengayişini va buning ortidan buyrak qon oqimi va GFR ning ortişini faollaştiradi."
+  },
+  "ch27-f112": {
+   "text": "Bu misollar buyrak qon oqimi va GFR ning özi tubuloglomerulyar teskari aloqa mexanizmi tomonidan boşqariladigan asosiy özgaruvçilar emasligini körsatadi. Bu teskari aloqaning asosiy maqsadi siydikning yakuniy qayta işlanişi sodir böladigan distal kanalçaga natriy xloridning doimiy yetkazib berilişini ta’minlaşdir. Şunday qilib, ziç doğgaça bölgan kanalça qismlarida natriy xloridning qayta sörilişini oşirişga moyil bölgan buzilişlar buyrak qon oqimi va GFR ning ortişini keltirib çiqarişga moyil böladi; bu distal qismga natriy xlorid yetkazib berilişini normaga qaytarişga yordam beradi va natijada natriy va suvning normal çiqariliş tezligini saqlab turiş mumkin böladi (**Rasm 27-12** ga qarang)."
+  },
+  "ch27-f113": {
+   "text": "Proksimal kanalçalarda qayta söriliş kamayganda hodisalar teskari ketma-ketlikda yuz beradi. Masalan, proksimal kanalçalar şikastlanganda (bu simob kabi oğir metallar bilan zaharlaniş yoki tetratsiklinlar kabi dorilarning katta dozalari natijasida yuzaga kelişi mumkin) ularning natriy xloridni qayta söriş qobiliyati pasayadi. Natijada distal kanalçaga köp miqdorda natriy xlorid yetkaziladi va tegişli kompensatsiya bölmaganda bu tezda hajmning haddan taşqari kamayişiga sabab bölar edi. Muhim kompensator javoblardan biri bunday vaziyatlarda ziç doğga natriy xlorid yetkazib berilişining ortişiga javoban yuzaga keladigan tubuloglomerulyar teskari aloqa vositasidagi buyrak tomirlarining torayişi bölsa kerak. Bu misollar yana bir bor bu teskari aloqa mexanizmining distal kanalçalarga natriy xlorid, kanalça suyuqligidagi boşqa erigan moddalar va kanalça suyuqligi hajmi töğri tezlikda yetkazib berilişini ta’minlaşdagi ahamiyatini körsatadi; natijada bu moddalar siydik bilan tegişli miqdorda çiqariladi."
+  },
+  "ch27-f114": {
+   "text": "GFR va buyrak qon oqimi tuğilganda past böladi, hayotning taxminan 2 yilidan keyin kattalardagi normal darajaga yaqinlaşadi va buyrak kasalligi bölmaganda törtinçi ön yillikkaça nisbatan doimiy saqlanadi. Şundan söng GFR har ön yilda taxminan 5–10% ga kamayadi, ammo bu körsatkiç odamlar orasida sezilarli farq qiladi. GFR ning bu kamayişi azot oksidi yetişmovçiligi, oksidlovçi stressning ortişi va faol nefronlarning yöqolişi bilan bir vaqtga töğri keladi; bu qisman yoş ötişi bilan koptokçalarning jamlanib boruvçi şikastlanişiga sabab böladigan qon bosimining ortişi, metabolik buzilişlar va boşqa zararli ta’sirlar bilan boğliq bölişi mumkin.",
+   "lead": "Buyrak qon oqimi va koptokça filtratsiyasi tezligiga ta’sir qiluvçi boşqa omillar."
+  },
+  "ch27-f115": {
+   "text": "Erkaklarda buyrak qon oqimi va GFR, hatto tana massasiga nisbatan tuzatilganda ham, ayollarnikidan yuqori böladi. Biroq erkaklarda yoş ötişi bilan GFR ning kamayişi ham menopauzagaça bölgan ayollarnikiga qaraganda tezroq keçadi. Bu jinsiy farqlar uçun javobgar mexanizmlar töliq aniqlanmagan bölsa-da, qisman tuşuntiriş sifatida estrogenlarning buyraklarga foydali ta’siri va androgenlarning zararli ta’siri taxmin qilingan. **Jadval 27-5** da buyrak qon oqimi va GFR boşqarilişiga ta’sir qiluvçi va buyrak faoliyatini baholaşda hisobga olinişi kerak bölgan ba’zi qöşimça omillar umumlaştirilgan."
+  }
+ },
+ "figures": {
+  "gh14-fig-27-01": "Buyrak plazma umumiy oqimi (RPF), koptokça filtratsiyasi tezligi (GFR), kanalçalarda qayta söriliş (REAB) va siydik oqimi tezligining örtaça qiymatlari. RPF buyrak qon oqimi × (1 − gematokrit) ga teng. E’tibor beringki, GFR örtaça RPF ning taxminan 20% ini taşkil qiladi, siydik oqimi tezligi esa GFR ning 1% idan kam. Şu sababli normada filtrlangan suyuqlikning 99% dan ortiği qayta söriladi. Filtratsiya fraksiyasi GFR/RPF ga teng.",
+  "gh14-fig-27-02": "A — koptokça kapillyarlarining asosiy ultratuzilişi. B — koptokça kapillyar membranasining köndalang kesimi va uning asosiy tarkibiy qismlari: kapillyar endoteliysi, bazal membrana va epiteliy (podotsitlar).",
+  "gh14-fig-27-03": "Dekstranning molekulyar radiusi va elektr zaryadining uning koptokça kapillyarlari orqali filtrlanuvçanligiga ta’siri. 1,0 qiymat modda suv kabi erkin filtrlanişini, 0 qiymat esa u filtrlanmasligini bildiradi. Dekstranlar neytral molekulalar sifatida yoki manfiy yoxud musbat zaryadli holda hamda turli molekulyar massalarda işlab çiqarilişi mumkin bölgan polisaxaridlardir.",
+  "gh14-fig-27-04": "Koptokça kapillyarlarida filtratsiyani yuzaga keltiruvçi kuçlarning umumiy sxemasi. Körsatilgan qiymatlar soğlom odamlar uçun taxminiy baholardir.",
+  "gh14-fig-27-05": "Koptokça kapillyari orqali oqayotgan plazmada kolloid osmotik bosimning ortişi. Normada koptokça kapillyarlaridagi suyuqlikning taxminan beşdan bir qismi Boumen kapsulasiga filtrlanadi va şu tariqa filtrlanmaydigan plazma oqsillari konsentrlanadi. Filtratsiya fraksiyasining (koptokça filtratsiyasi tezligi/buyrak plazma oqimi) ortişi plazma kolloid osmotik bosimining koptokça kapillyari böylab kötariliş tezligini oşiradi; filtratsiya fraksiyasining kamayişi esa teskari ta’sir körsatadi.",
+  "gh14-fig-27-06": "Afferent arteriola qarşiligi (RA, yuqori panel) yoki efferent arteriola qarşiligi (RE, pastki panel) ortişining buyrak qon oqimi, koptokça gidrostatik bosimi (PG) va koptokça filtratsiyasi tezligiga (GFR) ta’siri.",
+  "gh14-fig-27-07": "Afferent arteriola qarşiligi yoki efferent arteriola qarşiligi özgarişining koptokça filtratsiyasi tezligi va buyrak qon oqimiga ta’siri.",
+  "gh14-fig-27-08": "It buyraklarida kislorod iste’moli va natriyning qayta sörilişi örtasidagi boğliqlik. (Kramer K, Deetjen P: [Relation of renal oxygen consumption to blood supply and glomerular filtration during variations of blood pressure.] Pflugers Arch Physiol 271:782, 1960 manbasidan.)",
+  "gh14-fig-27-09": "Buyrak arterial bosimi özgarganda buyrak qon oqimi va koptokça filtratsiyasi tezligining autoregulyatsiyasi, ammo siydik oqimining autoregulyatsiyasi yöqligi.",
+  "gh14-fig-27-10": "Yukstaglomerulyar apparatning tuzilişi va uning nefron faoliyatini boşqarişdagi ehtimoliy teskari aloqa roli.",
+  "gh14-fig-27-11": "Buyrak arterial bosimi pasayganda koptokça gidrostatik bosimi va koptokça filtratsiyasi tezligining (GFR) autoregulyatsiyasi uçun ziç doğ teskari aloqa mexanizmi.",
+  "gh14-fig-27-12": "Yuqori oqsilli ovqatdan keyin koptokça filtratsiyasi tezligi (GFR) ortişiga vositaçilik qilişda ziç doğ teskari aloqasining ehtimoliy roli.",
+  "gh14-tab-27-01": "Moddalarning molekulyar massasiga köra koptokça kapillyarlari orqali filtrlanuvçanligi",
+  "gh14-tab-27-02": "Koptokça filtratsiyasi tezligini pasaytirişi mumkin bölgan omillar",
+  "gh14-tab-27-03": "Normal buyrak qon aylanişidagi taxminiy bosimlar va tomir qarşiliklari",
+  "gh14-tab-27-04": "Koptokça filtratsiyasi tezligiga (GFR) ta’sir qiluvçi gormonlar va autakoidlar",
+  "gh14-tab-27-05": "Buyrak qon oqimi (RBF) va koptokça filtratsiyasi tezligiga (GFR) ta’sir qiluvçi ayrim holatlar"
+ }
+}

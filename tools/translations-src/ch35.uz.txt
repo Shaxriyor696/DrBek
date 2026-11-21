@@ -1,0 +1,372 @@
+# Guyton & Hall, 14-nashr, 35-bob — to‘liq o‘zbekcha tarjima.
+# Format: har bir blok "@@ <bid>" qatoridan boshlanadi; "LEAD: ..." ixtiyoriy qator — xatboshi boshidagi qalin sarlavha.
+# Tarjimon: Claude (DrStudy sessiyasi), 2026-11-17. Holat: ekspert tekshiruvi kerak.
+
+@@ ch35-f0
+Inson organizmi töqima va a’zolarni şikastlaşga moyil bölgan deyarli barça turdagi mikroorganizmlar yoki toksinlarga qarşilik körsatiş qobiliyatiga ega. Bu qobiliyat _immunitet_ deb ataladi. Immunitetning katta qismi _orttirilgan immunitet_ bölib, u organizmga birinçi marta bakteriya, virus yoki toksin hujum qilmagunça rivojlanmaydi; immunitet rivojlanişi uçun köpinça bir neça hafta yoki oy talab etiladi. Immunitetning muayyan kasallik qözğatuvçilariga qaratilgan jarayonlar emas, balki umumiy jarayonlar natijasida yuzaga keladigan qöşimça tarkibiy qismi _tuğma immunitet_ deb ataladi va u quyidagi jihatlarni öz içiga oladi: 1. 34-bobda tasvirlanganidek, bakteriyalar va boşqa bosqinçilarning oq qon hujayralari va töqima makrofaglari tizimi hujayralari tomonidan fagotsitozi 2. Yutilgan mikroorganizmlarning oşqozonning kislotali sekretlari va hazm fermentlari tomonidan yöq qilinişi 3. Terining mikroorganizmlar kirib kelişiga qarşiligi 4. Qonda begona mikroorganizmlar yoki toksinlarga birikib, ularni yöq qiladigan ayrim kimyoviy moddalar va hujayralarning mavjudligi. Ularning ba’zilari quyidagilardir: (1) _lizotsim_ — bakteriyalarga hujum qilib, ularni eritib yuboradigan mukolitik polisaxarid; (2) _işqoriy polipeptidlar_ — gramm-musbat bakteriyalarning ayrim turlari bilan reaksiyaga kirişib, ularni nofaol holga keltiradi; (3) _komplement kompleksi_ — keyinroq tasvirlanadigan, bakteriyalarni yöq qiliş uçun turli yöllar bilan faollaştirilişi mumkin bölgan taxminan 20 ta oqsildan iborat tizim; (4) begona hujayralarni, ösma hujayralarini va hatto ayrim infeksiyalangan hujayralarni taniy oladigan va yöq qila oladigan _tabiiy killer limfotsitlar_. Bu tuğma immunitet inson organizmini hayvonlarning ayrim falajlovçi virusli infeksiyalari, çöçqa ölati, qoramol ölati va distemper (itlar ölati) — kasallangan itlarning katta qismini nobud qiladigan virusli kasallik kabi kasalliklarga çidamli qiladi. Xuddi şunday, köplab hayvonlar odam uçun juda xavfli yoki hatto ölimga olib keluvçi poliomiyelit, tepki (parotit), odam vabosi, qizamiq va zaxm kabi köplab odam kasalliklariga çidamli yoki hatto immunitetga ega.
+
+@@ ch35-f1
+Orttirilgan (adaptiv) immunitet
+
+@@ ch35-f2
+Umumiy tuğma immunitetdan taşqari, inson organizmi ölimga olib keluvçi bakteriyalar, viruslar, toksinlar va hatto boşqa hayvonlarning begona töqimalari kabi alohida bostirib kiruvçi agentlarga qarşi öta kuçli öziga xos (spetsifik) immunitet hosil qiliş qobiliyatiga ega. Bu qobiliyat _orttirilgan_ yoki _adaptiv immunitet_ deb ataladi. Orttirilgan immunitetni muayyan bostirib kirgan mikroorganizm yoki toksinga hujum qilib, uni yöq qiladigan antitelolar va/yoki faollaşgan limfotsitlarni hosil qiluvçi maxsus immun tizim ta’minlaydi.
+
+@@ ch35-f3
+Orttirilgan immunitet köpinça juda yuqori darajadagi himoyani ta’minlay oladi. Masalan, falajlovçi botulinik toksin yoki qoqşol toksini kabi ayrim toksinlarga qarşi immunitetsiz holatda ölimga olib keladigan miqdordan 100 000 baravargaça yuqori dozalarda ham himoya bölişi mumkin. Aynan şu sababli, uşbu bobda keyinroq tuşuntirilganidek, _immunizatsiya_ deb ataladigan davolaş-profilaktika jarayoni odamlarni kasalliklar va toksinlardan himoya qilişda juda muhim ahamiyatga ega.
+
+@@ ch35-f4
+Orttirilgan immunitetning asosiy turlari — gumoral va hujayraviy
+
+@@ ch35-f5
+Organizmda orttirilgan immunitetning bir-biri bilan çambarças boğliq ikki asosiy turi mavjud. Ulardan birida organizm aylanib yuruvçi antitelolar — qon plazmasidagi bostirib kirgan agentga hujum qila oladigan globulin molekulalarini hosil qiladi. Antitelolarni B limfotsitlar işlab çiqargani uçun immunitetning bu turi _gumoral immunitet_ yoki _B-hujayraviy immunitet_ deb ataladi. Orttirilgan immunitetning ikkinçi turi limfa tugunlarida begona agentni yöq qilişga aynan moslab yaratiladigan köp sonli faollaşgan _T limfotsitlar_ hosil bölişi orqali amalga oşadi. Faollaşgan limfotsitlar T limfotsitlar bölgani uçun immunitetning bu turi _hujayraviy immunitet_ yoki _T-hujayraviy immunitet_ deb ataladi. Antitelolar ham, faollaşgan limfotsitlar ham organizmning limfoid töqimalarida hosil böladi.
+
+@@ ch35-f6
+Orttirilgan immunitetning ikkala turi ham antigenlar ta’sirida boşlanadi
+
+@@ ch35-f7
+Orttirilgan immunitet organizmga begona mikroorganizm yoki toksin kirib kelmagunça rivojlanmasligi sababli, organizmda bu bosqinni tanib oliş uçun qandaydir mexanizm bölişi kerakligi aniq. Har bir toksin yoki mikroorganizm tarkibida deyarli har doim boşqa barça birikmalardan farq qiladigan bir yoki bir neçta öziga xos kimyoviy birikma böladi. Umuman olganda, orttirilgan immunitetni boşlab beradigan bunday moddalar oqsillar yoki yirik polisaxaridlardir; bu moddalar _antigenlar_ (antitelo generatorlari, ya’ni antitelo hosil qiluvçilar) deb ataladi.
+
+@@ ch35-f8
+Modda antigenlik xususiyatiga ega bölişi uçun odatda uning molekulyar massasi yuqori — 8000 yoki undan köp bölişi kerak. Bundan taşqari, antigenlik jarayoni odatda yirik molekula yuzasida muntazam takrorlanib turadigan, _epitoplar_ deb ataladigan molekulyar guruhlarga boğliq. Bu omil oqsillar va yirik polisaxaridlarning deyarli har doim antigenlik xususiyatiga ega bölişini ham tuşuntiradi, çunki bu ikkala modda ham ana şunday stereokimyoviy xususiyatga ega.
+
+@@ ch35-f9
+Orttirilgan immunitet uçun limfotsitlar javobgar
+
+@@ ch35-f10
+Orttirilgan immunitet organizm limfotsitlarining mahsulidir. Genetik jihatdan limfotsitlari bölmagan yoki limfotsitlari nurlaniş yoki kimyoviy moddalar ta’sirida yemirilgan odamlarda orttirilgan immunitet rivojlana olmaydi. Bunday odam, agar favqulodda çoralar bilan davolanmasa, tuğilgandan keyin bir neça kun içida yaşin tezligida keçuvçi bakterial infeksiyadan halok böladi. Demak, limfotsitlar inson hayoti uçun zarur ekanligi aniq.
+
+@@ ch35-f11
+Limfotsitlar eng köp limfa tugunlarida joylaşadi, biroq ular taloq, oşqozon-içak traktining şilliq osti sohalari, timus va suyak kömigi kabi maxsus limfoid töqimalarda ham uçraydi. Limfoid töqima organizmda bostirib kiruvçi mikroorganizmlar yoki toksinlarni ular juda keng tarqalib ketmasidan oldin tutib qoliş uçun qulay tarzda taqsimlangan.
+
+@@ ch35-f12
+Köpçilik hollarda bostirib kirgan agent avval töqima suyuqliklariga tuşadi, söngra limfa tomirlari orqali limfa tuguniga yoki boşqa limfoid töqimaga olib boriladi. Masalan, oşqozon-içak devorlarining limfoid töqimasi içakdan kirib keladigan antigenlar ta’siriga darhol duç keladi. Tomoq va halqum limfoid töqimasi (jumladan, bodomsimon bezlar va adenoidlar) yuqori nafas yöllari orqali kiradigan antigenlarni tutib qoliş uçun qulay joylaşgan. Limfa tugunlaridagi limfoid töqima organizmning periferik töqimalariga kirib kelgan antigenlar ta’siriga uçraydi, taloq, timus va suyak kömigining limfoid töqimasi esa aylanib yuruvçi qonga yetib borişga muvaffaq bölgan antigen agentlarni tutib qolişda öziga xos rol öynaydi.
+
+@@ ch35-f13
+LEAD: T va B limfotsitlar hujayraviy va gumoral immunitetni ta’minlaydi.
+Normal limfoid töqimadagi limfotsitlarning köpçiligi mikroskop ostida örganilganda bir-biriga öxşaş körinsa-da, bu hujayralar ikkita asosiy populyatsiyaga aniq bölinadi. Populyatsiyalardan biri — _T limfotsitlar_ hujayraviy immunitetni ta’minlovçi faollaşgan limfotsitlarni hosil qiliş uçun, ikkinçi populyatsiya — _B limfotsitlar_ esa gumoral immunitetni ta’minlovçi antitelolarni hosil qiliş uçun javobgardir.
+
+@@ ch35-f14
+Limfotsitlarning ikkala turi ham dastlab embrionda _multipotent gemopoetik özak hujayralardan_ kelib çiqadi; bu özak hujayralar differensiatsiyalaniş jarayonida eng muhim avlodlaridan biri sifatida _umumiy limfoid progenitor hujayralarni_ hosil qiladi. Hosil bölgan limfotsitlarning deyarli barçasi oxir-oqibat limfoid töqimaga borib joylaşadi, biroq bundan oldin ular quyidagi yöllar bilan qöşimça differensiatsiyalanadi yoki dastlabki işlovdan (preprotsessingdan) ötadi.
+
+@@ ch35-f15
+Oxir-oqibat faollaşgan T limfotsitlarni hosil qilişi lozim bölgan limfoid progenitor hujayralar avval timus (ayrisimon bez) ga köçib boradi va u yerda dastlabki işlovdan ötadi; şu sababli timusning rolini körsatiş uçun ular _T_ limfotsitlar deb ataladi. Ular hujayraviy immunitet uçun javobgardir.
+
+@@ ch35-f16
+Limfotsitlarning boşqa populyatsiyasi — antitelolar hosil qilişi lozim bölgan B limfotsitlar homila hayotining örta davrida jigarda, homila hayotining oxirgi davrida va tuğilgandan keyin esa suyak kömigida dastlabki işlovdan ötadi. Bu hujayralar populyatsiyasi birinçi marta quşlarda kaşf etilgan; quşlarda _Fabritsiy xaltasi_ (bursa of Fabricius) deb ataladigan maxsus dastlabki işlov a’zosi mavjud. Şu sababli bursaning rolini körsatiş uçun bu limfotsitlar _B_ limfotsitlar deb ataladi va ular gumoral immunitet uçun javobgardir. **Rasm 35-1** da mos ravişda (1) faollaşgan T limfotsitlar va (2) antitelolar hosil qiluvçi ikki limfotsitar tizim körsatilgan.
+
+@@ ch35-f18
+T va B limfotsitlarning dastlabki işlovi
+
+@@ ch35-f19
+Organizmdagi barça limfotsitlar embrionning _limfotsitlar hosil qilişga yönaltirilgan özak hujayralaridan_ kelib çiqsa-da, bu özak hujayralar faollaşgan T limfotsitlar yoki antitelolarni bevosita hosil qila olmaydi. Buning uçun ular avval tegişli işlov sohalarida quyidagiça qöşimça differensiatsiyalanişi kerak.
+
+@@ ch35-f20
+LEAD: Timus T limfotsitlarga dastlabki işlov beradi.
+T limfotsitlar suyak kömigida paydo bölgandan söng avval timusga köçib boradi. U yerda ular tez bölinadi va bir vaqtning özida turli öziga xos antigenlarga qarşi reaksiyaga kirişiş böyiça nihoyatda katta xilma-xillikka erişadi. Ya’ni timusdagi bir limfotsit bitta antigenga nisbatan öziga xos reaktivlikka ega böladi, keyingi limfotsit esa boşqa antigenga nisbatan öziga xoslikka ega böladi. Bu jarayon minglab turli antigenlarga nisbatan öziga xos reaktivlikka ega bölgan minglab turdagi timus limfotsitlari hosil bölgunga qadar davom etadi. Dastlabki işlovdan ötgan bu turli xil T limfotsitlar endi timusni tark etadi va qon orqali butun organizm böylab tarqalib, hamma joydagi limfoid töqimaga joylaşadi.
+
+@@ ch35-f21
+Timus, şuningdek, undan çiqayotgan har qanday T limfotsit organizmning öz töqimalarida mavjud bölgan oqsillar yoki boşqa antigenlarga qarşi reaksiyaga kirişmasligini ta’minlaydi; aks holda T limfotsitlar bir neça kun içida odamning öz organizmi uçun halokatli bölib qolardi. Timus qaysi T limfotsitlar çiqarilişini tanlaş uçun avval ularni organizmning öz töqimalaridagi deyarli barça öziga xos _xususiy antigenlar_ (autoantigenlar) bilan aralaştiradi. Agar T limfotsit reaksiyaga kirişsa, u çiqariliş örniga yöq qilinadi va fagotsitoz qilinadi; bu hujayralarning 90% igaça bölgan qismida sodir böladi. Şunday qilib, oxir-oqibat faqat organizmning öz antigenlariga nisbatan reaksiyaga kirişmaydigan hujayralar çiqariladi — ular faqat taşqi manbadan, masalan, bakteriya, toksin yoki hatto boşqa odamdan köçirib ötkazilgan töqimadan kelgan antigenlarga qarşi reaksiyaga kirişadi.
+
+@@ ch35-f22
+T limfotsitlarning timusdagi dastlabki işlovining asosiy qismi bola tuğilişidan biroz oldin va tuğilgandan keyingi bir neça oy davomida sodir böladi. Bu davrdan keyin timusni olib taşlaş T-limfotsitar immun tizimni susaytiradi (ammo butunlay yöq qilmaydi). Biroq timusni tuğilişdan bir neça oy oldin olib taşlaş barça hujayraviy immunitetning, jumladan köçirib ötkazilgan a’zolarni rad etişning rivojlanişiga tösqinlik qilişi mumkin.
+
+@@ ch35-f23
+LEAD: Jigar va suyak kömigi B limfotsitlarga dastlabki işlov beradi.
+Odamda B limfotsitlar homila hayotining örta davrida jigarda, homila hayotining oxirgi davrida va tuğilgandan keyin esa suyak kömigida dastlabki işlovdan ötadi. B limfotsitlar T limfotsitlardan ikki jihatdan farq qiladi: 1. T limfotsitlardagidek butun hujayra antigenga qarşi reaktivlikka ega bölişi örniga, B limfotsitlar reaktiv agent bölgan _antitelolarni_ faol sekretsiya qiladi. Bu agentlar uşbu bobning boşqa qismlarida va 34-bobda tuşuntirilganidek, antigen modda bilan birikib, uni yöq qila oladigan yirik oqsillardir. 2. B limfotsitlar T limfotsitlarga qaraganda yanada katta xilma-xillikka ega bölib, turli öziga xos reaktivlikka ega bölgan köp millionlab turdagi B-limfotsitar antitelolarni hosil qiladi. Dastlabki işlovdan söng B limfotsitlar ham T limfotsitlar singari butun organizmdagi limfoid töqimaga köçib boradi va u yerda T-limfotsitar sohalar yaqinida, lekin ulardan biroz çetroqda joylaşadi.
+
+@@ ch35-f24
+T limfotsitlar va B-limfotsitar antitelolar öziga xos antigenlarga qarşi reaksiyaga kirişadi — limfotsit klonlarining roli
+
+@@ ch35-f25
+Öziga xos antigenlar limfoid töqimadagi T va B limfotsitlar bilan töqnaşganda, T limfotsitlarning bir qismi faollaşib, faollaşgan T hujayralarni hosil qiladi, B limfotsitlarning bir qismi esa faollaşib, antitelolar hosil qiladi. Faollaşgan T hujayralar va antitelolar, öz navbatida, özlarining rivojlanişini boşlab bergan aynan öşa turdagi antigenlarga qarşi juda öziga xos tarzda reaksiyaga kirişadi. Bu öziga xoslik mexanizmi quyida tasvirlanadi.
+
+@@ ch35-f26
+LEAD: Limfoid töqimada millionlab öziga xos turdagi limfotsitlar saqlanadi.
+Yuqorida tuşuntirilganidek, limfa töqimasida juda öziga xos turdagi antitelolar yoki T hujayralarni hosil qila oladigan millionlab turli xil oldindan şakllangan B limfotsitlar va oldindan şakllangan T limfotsitlar saqlanadi. Bu oldindan şakllangan limfotsitlarning har biri faqat bitta öziga xoslikka ega bölgan faqat bir turdagi antitelo yoki bir turdagi T hujayra hosil qila oladi va uni faqat muayyan turdagi antigen faollaştira oladi. Öziga xos limfotsit öz antigeni tomonidan faollaştirilgaç, u jadal köpayib, juda köp sonli bir xil nusxa limfotsitlarni hosil qiladi (**Rasm 35-2**). Agar bu B limfotsit bölsa, uning avlodi oxir-oqibat butun organizm böylab aylanib yuradigan öziga xos turdagi antitelo sekretsiya qiladi. Agar bu T limfotsit bölsa, uning avlodi limfaga çiqariladigan, qonga olib boriladigan, söngra barça töqima suyuqliklari orqali aylanib, yana limfaga qaytadigan öziga xos sensibilizatsiyalangan T hujayralar bölib, ular ba’zan bu aylanma yölda oylar yoki yillar davomida qayta-qayta aylanib yuradi.
+
+@@ ch35-f28
+Bitta öziga xos antitelo yoki T hujayra hosil qila oladigan barça turli limfotsitlar _limfotsitlar kloni_ deb ataladi. Ya’ni har bir klondagi limfotsitlar bir xil bölib, dastlab özining öziga xos turidagi bitta yoki bir neçta erta limfotsitdan kelib çiqqan.
+
+@@ ch35-f29
+Köplab limfotsit klonlarining kelib çiqişi
+
+@@ ch35-f30
+Millionlab turli xil antitelolar va T limfotsitlarni bor-yöği bir neça yuzdan bir neça minggaça gen kodlaydi. Dastlab şunçalik kam gen limfoid töqima işlab çiqaradigan antitelolar yoki T hujayralarning millionlab turli öziga xosliklarini qanday kodlay olişi sir bölib qolgan edi. Endi bu sir oçilgan.
+
+@@ ch35-f31
+Har bir turdagi T hujayra yoki B hujayrani hosil qiliş uçun töliq gen funksional immun hujayralar hosil böladigan dastlabki özak hujayralarda heç qaçon mavjud bölmaydi. Buning örniga, ularda töliq genlar emas, faqat gen segmentlari — aslida bunday segmentlarning yuzlabtasi — böladi. Tegişli T va B limfotsitlarning dastlabki işlovi jarayonida bu gen segmentlari bir-biri bilan tasodifiy kombinatsiyalarda aralaşib, nihoyat töliq genlarni hosil qiladi.
+
+@@ ch35-f32
+Gen segmentlarining bir neça yuz turi mavjudligi, şuningdek, bu segmentlarning alohida hujayralarda joylaşişi mumkin bölgan millionlab turli kombinatsiyalari borligi sababli, millionlab turli hujayra gen turlari paydo bölişi mumkinligini tuşuniş qiyin emas. Oxir-oqibat hosil böladigan har bir funksional T yoki B limfotsit uçun gen tuzilişi faqat bitta antigen öziga xosligini kodlaydi. Söngra bu yetuk hujayralar limfoid töqimaga tarqalib, uni töldiradigan juda öziga xos T va B hujayralarga aylanadi.
+
+@@ ch35-f33
+Limfotsit klonlarini faollaştiriş mexanizmi
+
+@@ ch35-f34
+Har bir limfotsitlar kloni faqat bir turdagi antigenga (yoki deyarli aynan bir xil stereokimyoviy xususiyatlarga ega bölgan bir neçta öxşaş antigenlarga) javob beradi. Buning sababi quyidagiça. B limfotsitlar holatida ularning har birining hujayra yuza membranasida faqat bir turdagi antigen bilan juda öziga xos tarzda reaksiyaga kirişadigan taxminan 100 000 ta antitelo molekulasi böladi. Şu sababli tegişli antigen paydo bölganda, u darhol hujayra membranasidagi antiteloga birikadi; bu esa keyinroq batafsilroq tasvirlanadigan faollaşiş jarayoniga olib keladi. T limfotsitlar holatida T hujayra membranasi yuzasida antitelolarga öxşaş, _yuza retseptor oqsillari_ (yoki _T-hujayra retseptorlari_) deb ataladigan molekulalar böladi va ular ham bitta muayyan faollaştiruvçi antigenga nisbatan juda öziga xosdir. Şuning uçun antigen faqat öziga komplementar retseptorlarga ega bölgan va unga javob berişga allaqaçon yönaltirilgan hujayralarnigina stimullaydi.
+
+@@ ch35-f35
+LEAD: Faollaşiş jarayonida makrofaglarning roli.
+Limfoid töqimadagi limfotsitlardan taşqari, xuddi şu töqimada tom ma’noda millionlab makrofaglar ham mavjud. Bu makrofaglar limfa tugunlari, taloq va boşqa limfoid töqimaning sinusoidlarini qoplab turadi va limfa tugunidagi köplab limfotsitlarga ziç yondaşib joylaşadi. Bostirib kirgan mikroorganizmlarning köpçiligi avval makrofaglar tomonidan fagotsitoz qilinadi va qisman hazm qilinadi, antigen mahsulotlari esa makrofag sitozoliga ajralib çiqadi. Söngra makrofaglar bu antigenlarni hujayra-hujayra aloqasi orqali bevosita limfotsitlarga uzatadi va şu bilan tegişli limfotsitar klonlarning faollaşişiga olib keladi. Bundan taşqari, makrofaglar öziga xos limfotsitlarning yanada ösişi va köpayişiga yordam beradigan maxsus faollaştiruvçi modda — _interleykin-1_ ni sekretsiya qiladi.
+
+@@ ch35-f36
+LEAD: B limfotsitlarning faollaşişida T hujayralarning roli.
+Köpçilik antigenlar bir vaqtning özida ham T limfotsitlarni, ham B limfotsitlarni faollaştiradi. Hosil böladigan T hujayralarning bir qismi — _T-xelperlar_ (yordamçi T hujayralar) öziga xos B limfotsitlarni faollaştiradigan maxsus moddalarni (ular umumiy nom bilan _limfokinlar_ deb ataladi) sekretsiya qiladi. Haqiqatan ham, bu T-xelperlar yordamisiz B limfotsitlar hosil qiladigan antitelolar miqdori odatda kam böladi. Yordamçi T hujayralar va B hujayralar örtasidagi bu hamkorlikni T-hujayraviy immunitet tizimi mexanizmlarini tasvirlagandan keyin muhokama qilamiz.
+
+@@ ch35-f37
+B-limfotsitar tizimning öziga xos xususiyatlari — gumoral immunitet va antitelolar
+
+@@ ch35-f38
+LEAD: Plazmatik hujayralar tomonidan antitelolar hosil qilinişi.
+Öziga xos antigen ta’siriga uçragunga qadar B limfotsitlar klonlari limfoid töqimada tinç (nofaol) holatda qoladi. Begona antigen kirib kelganda, limfoid töqimadagi makrofaglar antigenni fagotsitoz qiladi, söngra uni qöşni B limfotsitlarga taqdim etadi. Bundan taşqari, antigen bir vaqtning özida T hujayralarga ham taqdim etiladi va faollaşgan T-xelperlar hosil böladi. Keyinroq muhokama qilinganidek, bu yordamçi hujayralar ham B limfotsitlarning öta kuçli faollaşişiga hissa qöşadi.
+
+@@ ch35-f39
+Antigenga xos B limfotsitlar darhol kattalaşadi va _limfoblastlar_ körinişini oladi.
+
+@@ ch35-f40
+Limfoblastlarning bir qismi yanada differensiatsiyalanib, plazmatik hujayralarning ötmişdoşlari bölgan _plazmoblastlarni_ hosil qiladi. Plazmoblastlarda sitoplazma kengayadi va donador endoplazmatik tör juda kuçli ösadi. Söngra plazmoblastlar taxminan har 10 soatda bir marta bölinib, taxminan töqqiz marta bölinadi va natijada 4 kun içida har bir dastlabki plazmoblastdan jami taxminan 500 ta hujayra hosil böladi. Söngra yetuk plazmatik hujayra gamma-globulin antitelolarni nihoyatda yuqori tezlikda — har bir plazmatik hujayra sekundiga taxminan 2000 ta molekula işlab çiqaradi. Öz navbatida, antitelolar limfaga sekretsiya qilinadi va aylanib yuruvçi qonga olib boriladi. Bu jarayon bir neça kun yoki hafta davom etadi va nihoyat plazmatik hujayralar holdan toyib, halok böladi.
+
+@@ ch35-f41
+LEAD: Xotira hujayralarining hosil bölişi antigen bilan keyingi töqnaşuvlarda antitelo javobini kuçaytiradi.
+B limfotsitlar klonining faollaşişi natijasida hosil bölgan limfoblastlarning ozgina qismi plazmatik hujayralarga aylanmaydi, balki dastlabki klondagilarga öxşaş örtaça miqdordagi yangi B limfotsitlarni hosil qiladi. Boşqaça aytganda, öziga xos tarzda faollaşgan klonning B-hujayra populyatsiyasi sezilarli darajada köpayadi va yangi B limfotsitlar öşa klonning dastlabki limfotsitlariga qöşiladi. Ular ham butun organizm böylab aylanib, barça limfoid töqimaga joylaşadi; biroq immunologik jihatdan ular xuddi şu antigenning yangi miqdori ta’sirida qayta faollaşgunga qadar tinç holatda qoladi. Bu limfotsitlar _xotira hujayralari_ deb ataladi. Xuddi şu antigen bilan keyingi töqnaşuv bu ikkinçi safar ança tez va kuçli antitelo javobini keltirib çiqaradi, çunki xotira hujayralari öziga xos klonning dastlabki B limfotsitlariga qaraganda ança köp böladi.
+
+@@ ch35-f42
+**Rasm 35-3** da muayyan antigen bilan birinçi töqnaşuvda yuzaga keladigan antitelo hosil bölişining birlamçi javobi va xuddi şu antigen bilan ikkinçi töqnaşuvdan keyin yuzaga keladigan ikkilamçi javob örtasidagi farqlar körsatilgan. Birlamçi javobning paydo bölişidagi 1 haftalik keçikişga, uning kuçsizligiga va qisqa davom etişiga e’tibor bering. Ikkilamçi javob esa, aksinça, antigen ta’siridan keyin tez boşlanadi
+
+@@ ch35-f44
+(köpinça bir neça soat içida), ança kuçli böladi va antitelolarni bir neça hafta emas, balki köp oylar davomida hosil qiladi. Ikkilamçi javobning kuçliroq va uzoqroq davom etişi immunizatsiya nima uçun odatda antigenni bir neça dozada, inyeksiyalar orasida bir neça hafta yoki bir neça oylik oraliqlar bilan yuboriş orqali amalga oşirilişini tuşuntiradi.
+
+@@ ch35-f45
+LEAD: Plazmatik hujayralar tomonidan umrbod immunitetning hosil qilinişi.
+Sodda (naïve) B limfotsitlar özlariga mos antigenlarga duç kelib, faollaşganda va klonal ekspansiyaga uçraganda, ular köp miqdorda antitelo işlab çiqaradigan _qisqa umrli_ yoki _uzoq umrli plazmatik hujayralarga_ differensiatsiyalanadi. Qisqa umrli plazmatik hujayralar tez himoyani ta’minlaydi, biroq bir neça kunlik jadal antitelo sekretsiyasidan söng apoptozga uçraydi. Uzoq umrli plazmatik hujayralar esa suyak kömigi va içak bilan boğliq limfoid töqima kabi töqimalarda joylaşadi va köp yillar davomida antitelolar işlab çiqarişda davom etib, qizamiq va çeçak kabi yuqumli kasalliklarga qarşi umrbod immunitetni ta’minlaydi. Masalan, bolaligida, 70 yil oldin emlangan şaxslar qonida çeçakka xos antitelolarning yuqori titrlari aniqlangan. Şuningdek, 1918-yildagi H1N1 gripp virusi pandemiyasidan omon qolgan keksa odamlarda infeksiyaga uçraganlaridan 90 yil ötib ham bu virulent virusga qarşi yuqori darajada funksional, virusni neytrallovçi antitelolar borligi körsatilgan. Şunday qilib, virusni neytrallovçi antitelolar işlab çiqaradigan plazmatik hujayralar antigen ta’siridan keyin köp ön yilliklar davomida, odamda hatto hayotning öninçi ön yilligigaça saqlanib qolişi mumkin.
+
+@@ ch35-f46
+Antitelolar _immunoglobulinlar_ (Ig) deb ataladigan gamma-globulinlar bölib, ularning molekulyar massasi 160 000 dan 970 000 gaça böladi va ular barça plazma oqsillarining taxminan 20% ini taşkil qiladi. Barça immunoglobulinlar _yengil_ va _oğir polipeptid zanjirlarning_ birikmalaridan taşkil topgan. Ularning köpçiligi **Rasm 35-4** da körsatilganidek, ikkita yengil va ikkita oğir zanjir birikmasidan iborat. Biroq ayrim immunoglobulinlarda 10 tagaça oğir va 10 tagaça yengil zanjir birikmalari böladi va bu yuqori molekulyar massali immunoglobulinlarni hosil qiladi. Şunga qaramay, barça immunoglobulinlarda har bir oğir zanjirning bir uçiga parallel ravişda yengil zanjir joylaşib, oğir-yengil juftlikni hosil qiladi; har bir immunoglobulin molekulasida bunday juftliklar har doim kamida ikkita va köpi bilan 10 ta böladi.
+
+@@ ch35-f48
+**Rasm 35-4** da har bir yengil va oğir zanjirning _özgaruvçan (variabel) qism_ deb ataladigan ma’lum bir uçi körsatilgan; har bir zanjirning qolgan qismi _doimiy (konstant) qism_ deb ataladi. Özgaruvçan qism har bir öziga xos antitelo uçun har xil böladi va aynan şu qism muayyan turdagi antigenga öziga xos tarzda birikadi. Doimiy qism esa antiteloning boşqa xususiyatlarini belgilaydi: antiteloning töqimalarda diffuziyalaniş qobiliyati, töqimalardagi muayyan tuzilmalarga yopişişi, komplement kompleksiga birikişi, antitelolarning membranalar orqali ötiş osonligi va antiteloning boşqa biologik xususiyatlari kabi omillarni aniqlaydi. Yengil va oğir zanjirlarni nokovalent va kovalent (disulfid) boğlar birikmasi bir-biriga boğlab turadi.
+
+@@ ch35-f49
+LEAD: Antitelolarning öziga xosligi.
+Har bir antitelo muayyan antigenga xos böladi; bu xususiyat yengil va oğir zanjirlarning özgaruvçan qismlaridagi aminokislotalarning noyob tuzilmaviy tartibi natijasidir. Aminokislotalar tartibi har bir antigen öziga xosligi uçun turliça fazoviy (sterik) şaklga ega, şuning uçun antigen u bilan töqnaşganda antigenning köplab prostetik guruhlari antitelonikiga közgudagi aksdek mos tuşadi va bu antitelo bilan antigen örtasida tez va mustahkam boğlanişga imkon beradi. Antitelo yuqori darajada öziga xos bölganda, boğlaniş joylari şunçalik köp böladiki, antitelo-antigen birikmasi nihoyatda mustahkam böladi va uni (1) gidrofob boğlaniş; (2) vodorod boğlaniş; (3) ion tortişuv kuçlari; (4) van der Vaals kuçlari uşlab turadi. U, şuningdek, termodinamik massalar ta’siri qonuniga böysunadi:
+
+@@ ch35-f50
+Ka _affinlik konstantasi_ deb ataladi va u antiteloning antigen bilan qançalik mustahkam boğlanişining ölçovidir.
+
+@@ ch35-f51
+**Rasm 35-4** da tasvirlangan antitelo antigenlarni biriktiriş uçun ikkita özgaruvçan joyga ega ekanligiga, ya’ni bu turdagi antitelo _bivalent_ (ikki valentli) ekanligiga alohida e’tibor bering. 10 tagaça yengil va 10 tagaça oğir zanjir birikmalaridan taşkil topgan antitelolarning kiçik bir qismida 10 tagaça boğlaniş joyi böladi.
+
+@@ ch35-f52
+LEAD: Antitelolarning beşta umumiy sinfi.
+Antitelolarning mos ravişda _IgM, IgG, IgA, IgD_ va _IgE_ deb ataladigan beşta umumiy sinfi mavjud. “Ig” immunoglobulinni bildiradi, qolgan beşta harf esa tegişli sinflarni belgilaydi.
+
+@@ ch35-f53
+Bizning çeklangan muhokamamiz uçun bu antitelo sinflaridan ikkitasi alohida ahamiyatga ega: bivalent antitelo bölgan va soğlom odamdagi antitelolarning taxminan 75% ini taşkil qiladigan IgG, şuningdek, antitelolarning faqat kiçik foizini taşkil qilsa-da, allergiyalarda alohida iştirok etadigan IgE. IgM sinfi ham qiziqarli, çunki birlamçi javob davomida hosil böladigan antitelolarning katta qismi aynan şu turga mansub. Bu antitelolarda 10 ta boğlaniş joyi bölib, IgM antitelolar köp bölmasa-da, bu ularni organizmni bosqinçilardan himoya qilişda nihoyatda samarali qiladi.
+
+@@ ch35-f54
+Antitelolarning ta’sir mexanizmlari
+
+@@ ch35-f55
+Antitelolar organizmni bostirib kiruvçi agentlardan asosan ikki yöl bilan himoya qiladi: (1) bosqinçiga bevosita hujum qiliş orqali; (2) bosqinçini yöq qiliş uçun özining köplab vositalariga ega bölgan komplement tizimini faollaştiriş orqali.
+
+@@ ch35-f56
+LEAD: Antitelolarning bostirib kiruvçi agentlarga bevosita ta’siri.
+**Rasm 35-5** da antitelolarning (qizil Y-simon tayoqçalar bilan belgilangan) antigenlar (soyali obyektlar bilan belgilangan) bilan reaksiyaga kirişişi körsatilgan. Antitelolarning bivalentligi va köpçilik bostirib kiruvçi agentlarda antigen joylari köp bölişi sababli, antitelolar bostirib kirgan agentni quyidagi bir neça yöldan biri bilan nofaol holga keltira oladi: 1. Agglyutinatsiya — yuzasida antigenlari bölgan köplab yirik zarraçalar (masalan, bakteriyalar yoki eritrotsitlar) bir-biri bilan boğlanib, bir töda (konglomerat) hosil qiladi 2. Pretsipitatsiya — eriydigan antigen (masalan, qoqşol toksini) va antitelodan iborat molekulyar kompleks şunçalik kattalaşadiki, u erimaydigan holga kelib, çökmaga tuşadi 3. Neytrallaş — antitelolar antigen agentning zaharli joylarini qoplab oladi 4. Lizis — ba’zi kuçli antitelolar ba’zan hujayrali agentlarning membranalariga bevosita hujum qilib, agentning yorilişiga sabab böla oladi. Antitelolarning bu bevosita ta’sirlari köpinça organizmni bosqinçidan himoya qilişda asosiy rol öynaş uçun yetarliça kuçli bölmaydi. Himoyaning asosiy qismi quyida tasvirlanadigan komplement tizimining kuçaytiruvçi ta’sirlari orqali amalga oşadi.
+
+@@ ch35-f58
+Antitelolar ta’siri uçun komplement tizimi
+
+@@ ch35-f59
+Komplement tizimining asosiy vazifasi patogenlarni neytrallaş va yöq qiliş, şikastlangan hujayralarni organizmdan çiqarib taşlaş va yalliğlanişni kuçaytirişda antitelolar va fagotsitar hujayralarning ta’sirini kuçaytiriş (töldiriş — komplementlaş) dan iborat. _Komplement_ — köpçiligi fermentlarning ötmişdoşlari (proferment) bölgan taxminan 20 ta oqsildan iborat tizimni ifodalovçi umumiy atama. Bu tizimdagi asosiy iştirokçilar **Rasm 35-6** da körsatilgan, C1 dan C9 gaça, B va D deb belgilangan 11 ta oqsildir. Bularning barçasi odatda qondagi plazma oqsillari orasida, şuningdek, kapillyarlardan töqima oraliqlariga sizib çiqadigan oqsillar orasida mavjud. Ferment ötmişdoşlari odatda nofaol böladi, biroq ular _klassik yöl_ deb ataladigan yöl orqali faollaştirilişi mumkin.
+
+@@ ch35-f61
+LEAD: Klassik yöl.
+Klassik yöl antigen-antitelo reaksiyasi bilan boşlanadi. Ya’ni antitelo antigen bilan birikkanda, antiteloning doimiy qismidagi muayyan reaktiv joy oçiladi yoki faollaşadi va bu, öz navbatida, komplement tizimining C1 molekulasi bilan bevosita birikadi. Bu **Rasm 35-6** da körsatilgan, C1 proferment faollaşişidan boşlanadigan ketma-ket reaksiyalar kaskadini harakatga keltiradi. Hosil bölgan C1 fermentlari söngra tizimning keyingi bosqiçlarida tobora köpayib boruvçi miqdordagi fermentlarni ketma-ket faollaştiradi, natijada kiçik boşlanişdan nihoyatda katta, kuçaytirilgan reaksiya yuzaga keladi. Rasmning öng tomonida körsatilganidek, köplab oxirgi mahsulotlar hosil böladi va ularning bir neçtasi bostirib kirgan mikroorganizm yoki toksin keltirib çiqaradigan organizm töqimalari şikastlanişining oldini olişga yordam beradigan muhim ta’sirlarga ega. Eng muhim ta’sirlar qatoriga quyidagilar kiradi: 1. _Opsonizatsiya va fagotsitoz._ Komplement kaskadining mahsulotlaridan biri — C3b neytrofillar va makrofaglar tomonidan fagotsitozni kuçli faollaştiradi va bu hujayralarning antigen-antitelo komplekslari birikkan bakteriyalarni yutişiga sabab böladi. Bu jarayon _opsonizatsiya_ deb ataladi. U köpinça yöq qilinişi mumkin bölgan bakteriyalar sonini bir neça yuz baravar oşiradi. 2. _Lizis._ Komplement kaskadining barça mahsulotlari orasida eng muhimlaridan biri — _membranaga hujum qiluvçi kompleks_ (u _sitolitik kompleks_ deb ham ataladi) bölib, u C5b6789 deb belgilangan köplab komplement omillarining birikmasidir. Bu membranaga hujum qiluvçi kompleks hujayra membranasining lipid qöş qavatiga kirib joylaşadi, ionlar uçun ötkazuvçan teşiklar hosil qiladi va bakteriyalar yoki boşqa bostirib kirgan mikroorganizmlar hujayra membranalarining osmotik yorilişiga sabab böladi. 3. _Agglyutinatsiya._ Komplement mahsulotlari, şuningdek, bostirib kirgan mikroorganizmlar yuzasini özgartirib, ularning bir-biriga yopişişiga sabab böladi va şu bilan agglyutinatsiyaga yordam beradi. 4. _Viruslarni neytrallaş._ Komplement fermentlari va boşqa komplement mahsulotlari ba’zi viruslarning tuzilmalariga hujum qilib, ularni virulent bölmagan holga keltira oladi. 5. _Xemotaksis._ C5a fragmenti neytrofillar va makrofaglarning xemotaksisini boşlab beradi va şu bilan bu fagotsitlarning köp sonli qismining antigen agentga qöşni töqima sohasiga köçişiga sabab böladi. 6. _Semiz hujayralar va bazofillarning faollaşişi._ C3a, C4a va C5a fragmentlari semiz hujayralar va bazofillarni faollaştiradi va ularning mahalliy suyuqliklarga gistamin, geparin va boşqa bir qança moddalarni ajratişiga sabab böladi. Bu moddalar, öz navbatida, mahalliy qon oqimining ortişiga, suyuqlik va plazma oqsillarining töqimaga köproq sizib çiqişiga hamda antigen agentni nofaol yoki harakatsiz holga keltirişga yordam beradigan boşqa mahalliy töqima reaksiyalariga sabab böladi. Xuddi şu omillar yalliğlanişda (34-bobda muhokama qilingan) va keyinroq muhokama qilinadigan allergiyada asosiy rol öynaydi.
+
+@@ ch35-f62
+7. _Yalliğlaniş ta’sirlari._ Semiz hujayralar va bazofillarning faollaşişi natijasida yuzaga keladigan yalliğlaniş ta’sirlaridan taşqari, boşqa bir qança komplement mahsulotlari ham mahalliy yalliğlanişga hissa qöşadi. Bu mahsulotlar (1) allaqaçon ortgan qon oqimining yanada ortişiga; (2) kapillyarlardan oqsillar sizib çiqişining kuçayişiga; (3) interstitsial suyuqlik oqsillarining töqima oraliqlarida ivişiga sabab böladi va şu bilan bostirib kirgan mikroorganizmning töqimalar böylab harakatlanişiga tösqinlik qiladi.
+
+@@ ch35-f63
+T-limfotsitar tizimning öziga xos xususiyatlari — faollaşgan T hujayralar va hujayraviy immunitet
+
+@@ ch35-f64
+LEAD: Faollaşgan T hujayralarning limfoid töqimadan çiqarilişi va xotira hujayralarining hosil bölişi.
+Qöşni makrofaglar tomonidan taqdim etilgan tegişli antigen ta’sirida muayyan limfotsitar klonning T limfotsitlari proliferatsiyalanadi va faollaşgan B hujayralarning antitelo çiqarişiga öxşaş tarzda köp sonli faollaşgan, öziga xos reaksiyaga kirişuvçi T hujayralarni çiqaradi. Asosiy farq şundaki, antitelolar çiqariş örniga butun faollaşgan T hujayralar hosil bölib, limfaga çiqariladi. Söngra bu T hujayralar qon aylanişiga ötadi, butun organizm böylab tarqaladi, kapillyar devorlari orqali töqima oraliqlariga, yana limfa va qonga qaytib ötadi hamda butun organizm böylab qayta-qayta aylanib yuradi va ba’zan oylar yoki hatto yillar davomida saqlanib qoladi.
+
+@@ ch35-f65
+Şuningdek, antitelolar tizimida B xotira hujayralari qanday hosil bölsa, _T-limfotsitar xotira hujayralari_ ham xuddi şunday hosil böladi. Ya’ni T limfotsitlar kloni antigen tomonidan faollaştirilganda, yangi hosil bölgan limfotsitlarning köpçiligi limfoid töqimada saqlanib qolib, öşa muayyan klonning qöşimça T limfotsitlariga aylanadi; aslida bu xotira hujayralari hatto butun organizmning limfoid töqimasi böylab tarqaladi. Şu sababli organizmning istalgan joyida xuddi şu antigen bilan keyingi töqnaşuvda faollaşgan T hujayralarning çiqarilişi birinçi töqnaşuvdagiga qaraganda ança tez va ança kuçli sodir böladi.
+
+@@ ch35-f66
+LEAD: Antigen taqdim etuvçi hujayralar, asosiy gistomoslik kompleksi oqsillari va T limfotsitlardagi antigen retseptorlari.
+T-hujayraviy javoblar B hujayralarning antitelo javoblari singari nihoyatda antigenga xos bölib, infeksiyadan himoyalanişda kamida antitelolar kabi muhimdir. Aslida orttirilgan immun javoblar jarayonni boşlaş uçun odatda T hujayralarning yordamini talab qiladi va T hujayralar bostirib kirgan patogenlarni bartaraf etişga yordam berişda asosiy rol öynaydi.
+
+@@ ch35-f67
+B limfotsitlar butun (özgarmagan) antigenlarni tanisa-da, T limfotsitlar antigenlarga faqat ular limfoid töqimalardagi _antigen taqdim etuvçi hujayralar_ yuzasidagi _MHC oqsillari_ deb ataladigan maxsus molekulalarga birikkan holdagina javob beradi (**Rasm 35-7**). Antigen taqdim etuvçi hujayralarning uçta asosiy turi — _makrofaglar, B limfotsitlar_ va _dendrit hujayralar_. Antigen taqdim etuvçi hujayralar orasida eng kuçlisi bölgan dendrit hujayralar (ular _yordamçi (aksessuar) hujayralar_ deb ham ataladi) butun organizm böylab joylaşgan va ularning asosiy vazifasi antigenlarni T hujayralarga taqdim etişdir. Hujayra adgeziya oqsillarining özaro ta’siri T hujayralarning faollaşişi uçun yetarliça uzoq vaqt antigen taqdim etuvçi hujayralarga birikib turişiga imkon berişda hal qiluvçi ahamiyatga ega.
+
+@@ ch35-f69
+MHC oqsillari _asosiy gistomoslik kompleksi_ (MHC) deb ataladigan katta genlar guruhi tomonidan kodlanadi. MHC oqsillari antigen taqdim etuvçi hujayralar içida parçalangan antigen oqsillarining peptid bölaklarini biriktirib oladi, söngra ularni hujayra yuzasiga taşiydi. MHC oqsillarining ikki turi mavjud: (1) antigenlarni _sitotoksik T hujayralarga_ taqdim etuvçi _MHC I oqsillari_; (2) antigenlarni _T-xelperlarga_ taqdim etuvçi _MHC II oqsillari_. Sitotoksik T hujayralar va T-xelperlarning öziga xos vazifalari keyinroq muhokama qilinadi.
+
+@@ ch35-f70
+Antigen taqdim etuvçi hujayralar yuzasidagi antigenlar T hujayralar yuzasidagi retseptor molekulalari bilan xuddi plazma oqsili bölgan antitelolar bilan birikkani kabi birikadi. Bu retseptor molekulalari gumoral antiteloning özgaruvçan qismiga öxşaş özgaruvçan birlikdan iborat, biroq uning özak (poya) qismi T limfotsitning hujayra membranasiga mustahkam birikkan. Bitta T hujayrada 100 000 tagaça retseptor joyi böladi.
+
+@@ ch35-f71
+T hujayralarning turli xillari va ularning vazifalari
+
+@@ ch35-f72
+T hujayralarning bir neça turi mavjudligi aniq böldi; ular uçta asosiy guruhga bölinadi: (1) _T-xelperlar_; (2) _sitotoksik T hujayralar_; (3) _regulyator T hujayralar_ (ular _supressor T hujayralar_ deb ham ataladi). Bu T hujayralarning har birining vazifalari bir-biridan farq qiladi.
+
+@@ ch35-f73
+T-xelperlar eng köp sonli T hujayralardir
+
+@@ ch35-f74
+T-xelperlar T hujayralar orasida eng köp sonli bölib, odatda ularning barçasining 75% idan köproğini taşkil qiladi. Nomidan körinib turibdiki, ular immun tizim vazifalariga köp jihatdan yordam beradi. **Rasm 35-8** da körsatilganidek, ular deyarli barça immun funksiyalarning asosiy boşqaruvçisi bölib xizmat qiladi. Ular buni immun tizimining boşqa hujayralariga, şuningdek, suyak kömigi hujayralariga ta’sir qiladigan, _limfokinlar_ deb ataladigan bir qator oqsil mediatorlarini hosil qiliş orqali amalga oşiradi.
+
+@@ ch35-f76
+Stimullanganda sodda (naïve) CD4+ T-xelperlar turli limfokinlar işlab çiqaradigan va turli vazifalarni bajaradigan kiçik guruhlarga (subpopulyatsiyalarga) differensiatsiyalanişi mumkin. **Jadval 35-1** da T-xelperlarning asosiy kiçik guruhlari, har bir kiçik guruhni yuzaga keltiruvçi limfokinlar, kiçik guruhlar işlab çiqaradigan limfokinlar va har bir kiçik guruh işga tuşiradigan immunologik reaksiyalar umumlaştirilgan.
+
+@@ ch35-f78
+LEAD: Limfokinlarning öziga xos boşqaruv vazifalari.
+T-xelperlardan keladigan limfokinlar bölmasa, immun tizimning qolgan qismi deyarli falaj bölib qoladi. Aslida _odam immunitet tanqisligi virusi_ (OIV) aynan T-xelperlarni nofaol holga keltiradi yoki yöq qiladi; bu esa organizmni yuqumli kasalliklarga qarşi deyarli butunlay himoyasiz qoldiradi va şu tariqa bugungi kunda yaxşi ma’lum bölgan _orttirilgan immunitet tanqisligi sindromining_ (OITS) holdan toydiruvçi va ölimga olib keluvçi oqibatlariga sabab böladi. Ayrim öziga xos boşqaruv vazifalari quyidagi bölimlarda tasvirlanadi.
+
+@@ ch35-f79
+LEAD: Sitotoksik T hujayralar va regulyator T hujayralarning ösişi va proliferatsiyasini stimullaş.
+T-xelperlar bölmaganda sitotoksik T hujayralar va regulyator T hujayralarni hosil qiluvçi klonlar köpçilik antigenlar ta’sirida juda kuçsiz faollaşadi. _Interleykin-2_ limfokini sitotoksik va regulyator T hujayralarning ösişi va proliferatsiyasini keltirib çiqarişda ayniqsa kuçli stimullovçi ta’sirga ega. Bundan taşqari, boşqa bir qança limfokinlar ham kuçsizroq ta’sir körsatadi.
+
+@@ ch35-f80
+LEAD: B hujayralarning ösişi va plazmatik hujayralar hamda antitelolar hosil qiliş uçun differensiatsiyalanişini stimullaş.
+T-xelperlar yordamisiz antigenlarning B hujayralar ösişi, proliferatsiyasi, plazmatik hujayralar hosil bölişi va antitelolar sekretsiyasini keltirib çiqaruvçi bevosita ta’sirlari ham kuçsiz böladi. Deyarli barça interleykinlar B-hujayraviy javobda iştirok etadi, ammo ayniqsa _interleykin-4, 5 va 6_. Bu uçta interleykin B hujayralarga şunçalik kuçli ta’sir körsatadiki, ular _B hujayralarni stimullovçi omillar_ yoki _B hujayralar ösiş omillari_ deb ataladi.
+
+@@ ch35-f81
+LEAD: Makrofaglar tizimining faollaşişi.
+Limfokinlar makrofaglarga ham ta’sir körsatadi. Birinçidan, ular makrofaglar xemotaksis orqali yalliğlangan töqima sohasiga jalb qilingandan söng ularning köçişini sekinlaştiradi yoki töxtatadi va şu bilan makrofaglarning köplab töplanişiga sabab böladi. Ikkinçidan, ular makrofaglarni yanada samarali fagotsitoz qilişga faollaştiradi va bu ularga tobora köproq bostirib kirgan bakteriyalar yoki boşqa töqimani yemiruvçi agentlarga hujum qilib, ularni yöq qiliş imkonini beradi.
+
+@@ ch35-f82
+LEAD: T-xelperlarga teskari aloqa orqali stimullovçi ta’sir.
+Ayrim limfokinlar, ayniqsa interleykin-2, T-xelperlarning faollaşişini stimullaşda bevosita musbat teskari aloqa ta’siriga ega. Bu kuçaytirgiç vazifasini bajarib, yordamçi hujayralar javobini, şuningdek, bostirib kirgan antigenga qarşi butun immun javobni yanada kuçaytiradi.
+
+@@ ch35-f83
+Sitotoksik T hujayralar — killer (öldiruvçi) hujayralar
+
+@@ ch35-f84
+Sitotoksik T hujayra mikroorganizmlarni va ba’zida hatto organizmning öz hujayralarini ham öldira oladigan bevosita hujum qiluvçi hujayradir. Şu sababli bu hujayralar _killer hujayralar_ deb ataladi. CD8+ sitotoksik hujayralar yuzasidagi retseptor oqsillari ularning tegişli öziga xos boğlanuvçi antigenni tutgan mikroorganizmlar yoki hujayralarga mustahkam birikişiga sabab böladi. Söngra ular hujum qilingan hujayrani **Rasm 35-9** da körsatilgan tarzda öldiradi. Birikkandan söng sitotoksik T hujayra hujum qilingan hujayra membranasida tom ma’noda dumaloq teşiklar oçadigan, _perforinlar_ deb ataladigan teşik hosil qiluvçi oqsillarni sekretsiya qiladi. Söngra suyuqlik interstitsial böşliqdan hujayraga tez oqib kiradi. Bundan taşqari, sitotoksik T hujayra sitotoksik moddalarni bevosita hujum qilingan hujayra içiga çiqaradi. Deyarli darhol hujum qilingan hujayra kuçli şişadi va odatda tez orada eriydi.
+
+@@ ch35-f86
+Alohida ahamiyatli jihati şundaki, bu sitotoksik killer hujayralar teşiklar oçib, sitotoksik moddalarni yetkazib bergandan söng nişon hujayralardan ajralib, yana boşqa hujayralarni öldiriş uçun harakatlanişi mumkin. Bu hujayralarning bir qismi töqimalarda oylab saqlanib qoladi.
+
+@@ ch35-f87
+Ayrim sitotoksik T hujayralar viruslar kirib olgan töqima hujayralari uçun ayniqsa halokatlidir, çunki köplab virus zarraçalari töqima hujayralarining membranalarida tutilib qoladi va virus antigenligiga javoban T hujayralarni jalb qiladi. Sitotoksik hujayralar, şuningdek, saraton hujayralarini, köçirib ötkazilgan yurak hujayralarini yoki odamning öz organizmi uçun begona bölgan boşqa turdagi hujayralarni yöq qilişda muhim rol öynaydi.
+
+@@ ch35-f88
+Regulyator T hujayralar haqida boşqalarga qaraganda ança kam ma’lumot mavjud, biroq ular ham sitotoksik hujayralar, ham T-xelperlar vazifalarini bostira oladi. CD4+ regulyator T hujayralarning bu supressor vazifalari sitotoksik hujayralarning organizmning öz töqimalarini şikastlaşi mumkin bölgan haddan taşqari immun reaksiyalarni keltirib çiqarişining oldini oladi, deb hisoblanadi. Ehtimol, supressor T-hujayra tizimi keyingi bölimda muhokama qilinganidek, immun tizimning odamning öz tana töqimalariga hujum qiliş qobiliyatini çeklaşda — bu _immun tolerantlik_ deb ataladi — muhim rol öynaydi.
+
+@@ ch35-f89
+Orttirilgan immunitet tizimining organizmning öz töqimalariga tolerantligi — timus va suyak kömigidagi dastlabki işlovning roli
+
+@@ ch35-f90
+Agar odam öz töqimalariga nisbatan immunitetga ega bölib qolsa, orttirilgan immunitet jarayoni uning öz organizmini yemirib yuborgan bölardi. Immun mexanizm odatda odamning öz töqimalarini bakteriyalar yoki viruslardan farqli deb taniydi va odamning immun tizimi uning öz antigenlariga qarşi juda kam antitelolar yoki faollaşgan T hujayralar hosil qiladi.
+
+@@ ch35-f91
+LEAD: Tolerantlikning köp qismi dastlabki işlov davomida klon tanlanişi natijasida yuzaga keladi.
+Tolerantlikning köp qismi T limfotsitlarning timusda va B limfotsitlarning suyak kömigida dastlabki işlovdan ötişi davomida rivojlanadi, deb hisoblanadi. Buning sababi şundaki, limfotsitlar uşbu ikki sohada dastlabki işlovdan ötayotgan paytda homilaga kuçli antigen yuborilsa, limfoid töqimada yuborilgan antigenga xos limfotsit klonlarining rivojlanişiga tösqinlik qiladi. Tajribalar şuni körsatdiki, timusdagi öziga xos yetilmagan limfotsitlar kuçli antigen ta’siriga uçraganda limfoblastga aylanadi, ança köpayadi, söngra stimullovçi antigen bilan birikadi — bu ta’sir hujayralar butun organizm limfoid töqimasiga köçib borib, uni egallaşidan oldin timus epitelial hujayralari tomonidan yöq qilinişiga sabab böladi, deb hisoblanadi.
+
+@@ ch35-f92
+Limfotsitlarning timus va suyak kömigida dastlabki işlovi davomida organizmning öz töqimalarini şikastlaşga qaratilgan limfotsit klonlarining barçasi yoki köpçiligi organizm antigenlari ta’siriga doimiy duç kelişi sababli öz-özini yöq qiladi, şekilli.
+
+@@ ch35-f93
+LEAD: Tolerantlik mexanizmining buzilişi autoimmun kasalliklarga sabab böladi.
+Ba’zan odamlar öz töqimalariga nisbatan immun tolerantlikni yöqotadi. Bu hodisa odam qança keksaysa, şunça köproq uçraydi. U odatda organizmning öz töqimalarining bir qismi yemirilgandan söng yuzaga keladi; bu yemiriliş natijasida organizmda aylanib yuradigan va, ehtimol, faollaşgan T hujayralar yoki antitelolar körinişida orttirilgan immunitetni keltirib çiqaradigan köp miqdordagi _xususiy antigenlar_ (autoantigenlar) ajralib çiqadi.
+
+@@ ch35-f94
+Autoimmunitet natijasida yuzaga keladigan 100 dan ortiq kasallik tasvirlangan, ular jumlasiga quyidagilar kiradi: (1) _revmatik isitma_ — bunda molekulyar tuzilişida organizmning ayrim xususiy antigenlari tuzilişiga öxşaş epitopga ega bölgan muayyan turdagi streptokokk toksini ta’siridan söng organizm böğimlar va yurak töqimalariga, ayniqsa yurak qopqoqlariga qarşi immunizatsiyalanadi; (2) _glomerulonefritning_ bir turi — bunda odam koptokçalarning bazal membranalariga qarşi immunizatsiyalanadi; (3) _miasteniya gravis_ (oğir miasteniya) — bunda nerv-muskul sinapsining atsetilxolin retseptor oqsillariga qarşi immunitet rivojlanib, falajlikka sabab böladi; (4) _tarqoq skleroz_ (TS) — bunda immun tizim nerv tolalarini qoplab turuvçi mielinga hujum qilib, nerv tizimidagi aloqani buzadi; (5) _tizimli qizil yugurik_ (TQY) — bunda odam bir vaqtning özida organizmning köplab turli töqimalariga qarşi immunizatsiyalanadi; bu kasallik oğir keçganda keng kölamli şikastlanişga va hatto ölimga sabab böladi.
+
+@@ ch35-f95
+Antigenlarni yuboriş orqali immunizatsiya
+
+@@ ch35-f96
+Immunizatsiya köp yillardan beri muayyan kasalliklarga qarşi orttirilgan immunitet hosil qiliş uçun qöllanib kelinmoqda. Odamni kasallik keltirib çiqariş qobiliyatini yöqotgan, ammo kimyoviy antigenlarining bir qismini hali saqlab qolgan öldirilgan mikroorganizmlarni yuboriş orqali immunizatsiya qiliş mumkin. Immunizatsiyaning bu turi qorin tifi, kökyötal, difteriya va boşqa köplab bakterial kasalliklardan himoya qiliş uçun qöllaniladi.
+
+@@ ch35-f97
+Kimyoviy moddalar bilan işlov berilib, zaharli xususiyati yöqotilgan, ammo immunitet keltirib çiqaruvçi antigenlari saqlanib qolgan toksinlarga qarşi ham immunitet hosil qiliş mumkin. Bu usul qoqşol, botulizm va şunga öxşaş boşqa toksik kasalliklarga qarşi immunizatsiyada qöllaniladi.
+
+@@ ch35-f98
+Va nihoyat, odamni susaytirilgan (attenuatsiyalangan) tirik mikroorganizmlar bilan infeksiyalaş orqali immunizatsiya qiliş mumkin. Ya’ni bu mikroorganizmlar maxsus ozuqa muhitlarida östirilgan yoki bir qator hayvonlar orqali ötkazilgan bölib, ular kasallik keltirib çiqarmaydigan, ammo immunizatsiya uçun zarur bölgan öziga xos antigenlarni hali ham taşiydigan darajada mutatsiyaga uçragan. Bu usul çeçak, sariq isitma, poliomiyelit, qizamiq va boşqa köplab virusli kasalliklardan himoya qiliş uçun qöllaniladi.
+
+@@ ch35-f99
+Hozirgaça biz muhokama qilgan barça orttirilgan immunitet _faol immunitet_ edi — ya’ni organizmga begona antigen kirib kelişiga javoban odamning öz organizmi antitelolar yoki faollaşgan T hujayralar hosil qiladi. Biroq odamda heç qanday antigen yubormasdan ham vaqtinçalik immunitet hosil qiliş mumkin. Bu vaqtinçalik immunitet antigenga qarşi faol immunizatsiya qilingan boşqa odam yoki boşqa biror hayvon qonidan olingan antitelolar, faollaşgan T hujayralar yoki ikkalasini ham quyiş orqali hosil qilinadi.
+
+@@ ch35-f100
+Antitelolar retsipiyent organizmida 2–3 hafta saqlanadi va şu vaqt mobaynida odam bostirib kiruvçi kasallikdan himoyalangan böladi. Faollaşgan T hujayralar boşqa odamdan quyilsa bir neça hafta, hayvondan quyilsa esa bor-yöği bir neça soatdan bir neça kungaça saqlanadi. Immunitet beriş maqsadida antitelolar yoki T limfotsitlarni bunday quyiş _passiv immunitet_ deb ataladi.
+
+@@ ch35-f101
+Allergiya va öta sezuvçanlik
+
+@@ ch35-f102
+Immunitetning muhim nojöya ta’sirlaridan biri — ayrim şaroitlarda allergiya yoki _immun öta sezuvçanlikning_ (gipersensitivlikning) boşqa turining rivojlanişidir. Allergiya va boşqa öta sezuvçanliklarning bir neça turi mavjud bölib, ularning ba’zilari faqat muayyan allergik moyilligi bölgan odamlarda uçraydi.
+
+@@ ch35-f103
+Faollaşgan T hujayralar keltirib çiqaradigan allergiya: keçikkan turdagi allergiya
+
+@@ ch35-f104
+Keçikkan turdagi allergiyani antitelolar emas, balki faollaşgan T hujayralar keltirib çiqaradi. _Zaharli peçakgul_ (poison ivy) misolida, zaharli peçakgul toksinining özi töqimalarga unçalik zarar yetkazmaydi. Biroq takroriy ta’sirda u faollaşgan yordamçi va sitotoksik T hujayralar hosil bölişiga sabab böladi. Söngra zaharli peçakgul toksini bilan keyingi töqnaşuvdan taxminan bir kun ötib, faollaşgan T hujayralar zaharli peçakgul toksiniga javob beriş uçun aylanib yuruvçi qondan teriga köp sonda diffuziyalanadi. Bir vaqtning özida bu T hujayralar hujayraviy turdagi immun reaksiyani yuzaga keltiradi. Immunitetning bu turi faollaşgan T hujayralardan köplab zaharli moddalar ajralib çiqişiga, şuningdek, töqimalarga makrofaglarning keng kölamda kirib borişiga va ularning keyingi ta’sirlariga sabab bölişi mumkinligini eslasak, ayrim keçikkan turdagi allergiyalarning yakuniy natijasi töqimalarning jiddiy şikastlanişi bölişi mumkinligini tuşuniş qiyin emas. Şikastlaniş odatda qözğatuvçi antigen mavjud bölgan töqima sohasida yuzaga keladi: masalan, zaharli peçakgul holatida terida yoki havo orqali tarqaluvçi ayrim antigenlar holatida öpkada bölib, öpka şişi yoki _astma xurujlariga_ sabab böladi.
+
+@@ ch35-f105
+Ortiqça IgE antitelolar bilan boğliq atopik allergiyalar
+
+@@ ch35-f106
+Ba’zi odamlarda allergik moyillik böladi. Ularning allergiyalari _atopik allergiyalar_ deb ataladi, çunki ular immun tizimning ğayrioddiy javobi natijasida yuzaga keladi. Allergik moyillik genetik yöl bilan ota-onadan bolaga ötadi va qonda köp miqdorda IgE antitelolar bölişi bilan tavsiflanadi. Bu antitelolar ularni köproq uçraydigan IgG antitelolardan farqlaş uçun _reaginlar_ yoki _sensibilizatsiyalovçi antitelolar_ deb ataladi. Organizmga _allergen_ (muayyan turdagi IgE reagin antitelo bilan öziga xos tarzda reaksiyaga kirişadigan antigen) kirganda, allergen-reagin reaksiyasi sodir böladi va undan keyin allergik reaksiya yuzaga keladi.
+
+@@ ch35-f107
+IgE antitelolarning (reaginlarning) öziga xos xususiyati — semiz hujayralar va bazofillarga birikişga kuçli moyillikdir. Haqiqatan ham, bitta semiz hujayra yoki bazofil yarim milliongaça IgE antitelo molekulasini biriktirib olişi mumkin. Söngra köplab boğlaniş joylariga ega bölgan antigen (allergen) semiz hujayra yoki bazofilga allaqaçon birikkan bir neçta IgE antitelo bilan birikkanda, semiz hujayra yoki bazofil membranasida darhol özgariş yuz beradi; bu, ehtimol, antitelo molekulalarining hujayra membranasini qiyşaytiruvçi fizik ta’siri natijasidir. Har holda, köplab semiz hujayralar va bazofillar yoriladi; boşqalari esa darhol yoki birozdan söng maxsus moddalarni ajratadi, jumladan _gistamin, proteaza, anafilaksiyaning sekin ta’sir etuvçi moddasi_ (zaharli leykotriyenlar aralaşmasi), _eozinofil_
+
+@@ ch35-f108
+_xemotaktik moddasi, neytrofil xemotaktik moddasi, geparin_ va _trombotsitlarni faollaştiruvçi omillar_. Bu moddalar mahalliy qon tomirlarining kengayişi, eozinofillar va neytrofillarning reaksiya joyiga jalb qilinişi, kapillyarlar ötkazuvçanligining ortib, suyuqlikning töqimalarga çiqib ketişi va mahalliy silliq muskul hujayralarining qisqarişi kabi ta’sirlarni keltirib çiqaradi. Şu sababli allergen-reagin reaksiyasi sodir böladigan töqima turiga qarab turli töqima javoblari yuzaga kelişi mumkin. Şu tarzda yuzaga keladigan allergik reaksiyalarning ayrim turlari quyida tasvirlanadi.
+
+@@ ch35-f109
+LEAD: Anafilaksiya — keng tarqalgan allergik reaksiya.
+Muayyan allergen töğridan-töğri qon aylanişiga yuborilganda, agar bazofillar va semiz hujayralar IgE reaginlarining birikişi orqali sensibilizatsiyalangan bölsa, allergen qondagi bazofillar va mayda qon tomirlarining bevosita taşqarisida joylaşgan töqimalardagi semiz hujayralar bilan reaksiyaga kirişişi mumkin. Şu sababli butun qon tomir tizimi va u bilan çambarças boğliq töqimalarda keng tarqalgan allergik reaksiya yuzaga keladi. Bu reaksiya _anafilaksiya_ deb ataladi. Gistamin qon aylanişiga çiqariladi va butun organizm böylab tomirlar kengayişiga, şuningdek, kapillyarlar ötkazuvçanligining ortişiga sabab böladi, natijada qon aylanişidan plazma sezilarli darajada yöqotiladi. Ba’zan bunday reaksiyani boşdan keçirgan odam, gistamin ta’sirini bartaraf etiş uçun epinefrin (adrenalin) bilan davolanmasa, bir neça daqiqa içida qon aylaniş şokidan halok böladi.
+
+@@ ch35-f110
+Faollaşgan bazofillar va semiz hujayralardan, şuningdek, _anafilaksiyaning sekin ta’sir etuvçi moddasi_ deb ataladigan leykotriyenlar aralaşmasi ham ajraladi. Bu leykotriyenlar bronxiolalar silliq muskulining spazmiga sabab bölib, astmaga öxşaş xurujni keltirib çiqarişi va ba’zan böğiliş (asfiksiya) natijasida ölimga olib kelişi mumkin.
+
+@@ ch35-f111
+LEAD: Eşakemi (urtikariya) — mahalliy anafilaktoid reaksiyalar.
+Eşakemi antigen terining muayyan sohalariga kirib, mahalliy anafilaktoid reaksiyalarni keltirib çiqarişi natijasida yuzaga keladi. Mahalliy ajralgan gistamin: (1) darhol qizariş (giperemiya) çaqiruvçi tomir kengayişiga; (2) kapillyarlarning mahalliy ötkazuvçanligi ortişiga sabab böladi, bu esa yana bir neça daqiqa içida terining çegaralangan mahalliy sohalari şişişiga olib keladi. Bu şişlar odatda _qavarçiqlar_ (pufaklar) deb ataladi. Odamga allergen ta’siridan oldin antigistamin dorilar berilsa, qavarçiqlar paydo bölişining oldi olinadi.
+
+@@ ch35-f112
+LEAD: Piçan isitmasi (allergik rinit).
+Piçan isitmasida allergen-reagin reaksiyasi burunda sodir böladi. Reaksiyaga javoban ajralgan gistamin burun içidagi tomirlarning mahalliy kengayişiga sabab böladi, natijada kapillyar bosimi va kapillyarlar ötkazuvçanligi ortadi. Bu ikkala ta’sir suyuqlikning burun böşliqlariga va burunning u bilan boğliq çuqurroq töqimalariga tez sizib çiqişiga sabab böladi, burun şilliq qavati esa şişib, köp sekret ajrata boşlaydi. Bu yerda ham antigistamin dorilarni qöllaş bu şişiş reaksiyasining oldini olişi mumkin. Biroq allergen-reagin reaksiyasining boşqa mahsulotlari baribir burunni ta’sirlab, odatiy aksiriş sindromini keltirib çiqarişi mumkin.
+
+@@ ch35-f113
+LEAD: Astma.
+Astma köpinça öta sezuvçan allergik odamlarda uçraydi. Bunday şaxslarda allergen-reagin reaksiyasi öpkaning bronxiolalarida sodir böladi. Bu yerda semiz hujayralardan ajraladigan muhim mahsulot bronxiolalar silliq muskulining spazmiga sabab böladigan _anafilaksiyaning sekin ta’sir etuvçi moddasi_ (uçta leykotriyen aralaşmasi) deb hisoblanadi. Natijada allergik reaksiyaning reaktiv mahsulotlari bartaraf etilgunga qadar odam qiyinçilik bilan nafas oladi. Antigistamin dorilarni qöllaş astma keçişiga kamroq ta’sir körsatadi, çunki gistamin astmatik reaksiyani keltirib çiqaruvçi asosiy omil emas, şekilli.
+
+@@ fig:gh14-fig-35-01
+Antigenlarga javoban limfa tugunida antitelolar va sensibilizatsiyalangan limfotsitlarning hosil bölişi. Bu rasmda, şuningdek, mos ravişda hujayraviy va gumoral immun jarayonlar uçun javobgar bölgan timus (T) va bursa (B) limfotsitlarining kelib çiqişi ham körsatilgan.
+
+@@ fig:gh14-fig-35-02
+Antigen faqat hujayra yuzasida unga komplementar bölgan va muayyan antigenni taniydigan retseptorlarga ega limfotsitlarni faollaştiradi. Limfotsitlarning millionlab turli klonlari mavjud (B1, B2 va B3 körinişida körsatilgan). Limfotsit kloni (bu misolda B2) öz antigeni tomonidan faollaştirilganda, u köpayib, köp sonli bir xil nusxa limfotsitlarni hosil qiladi, ular esa keyin antitelolar sekretsiya qiladi.
+
+@@ fig:gh14-fig-35-03
+Antigenning birlamçi yuborilişiga va bir neça hafta ötgaç ikkilamçi yuborilişiga javoban aylanib yuruvçi qonda antitelo javobining vaqt böyiça keçişi.
+
+@@ fig:gh14-fig-35-04
+Tipik IgG antiteloning tuzilişi: u ikkita oğir polipeptid zanjir va ikkita yengil polipeptid zanjirdan taşkil topgan. Antigen zanjirlarning özgaruvçan qismlaridagi ikki xil joyga birikadi.
+
+@@ fig:gh14-fig-35-05
+Antigen molekulalarining bivalent antitelolar yordamida bir-biriga boğlanişi.
+
+@@ fig:gh14-fig-35-06
+Komplementning klassik yöl orqali faollaşişi davomidagi reaksiyalar kaskadi.
+
+@@ fig:gh14-fig-35-07
+T hujayralarning faollaşişi uçun T-hujayra retseptorlarining asosiy gistomoslik kompleksi (MHC) oqsili tomonidan antigen taqdim etuvçi hujayra yuzasiga taşib çiqarilgan antigen (begona oqsil) bilan özaro ta’siri zarur. Hujayralararo adgeziya oqsillari T hujayraga faollaşişi uçun yetarliça uzoq vaqt antigen taqdim etuvçi hujayraga birikib turiş imkonini beradi.
+
+@@ fig:gh14-fig-35-08
+Immun tizimning boşqarilişi; T-xelperlarning markaziy roli alohida ta’kidlangan. MHC — asosiy gistomoslik kompleksi.
+
+@@ fig:gh14-fig-35-09
+Bostirib kirgan hujayraning sensibilizatsiyalangan limfotsitlar (sitotoksik T hujayralar) tomonidan bevosita yöq qilinişi.
+
+@@ fig:gh14-tab-35-01
+T-xelperlarning kiçik guruhlari
+

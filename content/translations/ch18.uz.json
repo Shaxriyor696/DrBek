@@ -1,0 +1,324 @@
+{
+ "lessonId": "ch18",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 18,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "manual",
+ "translator": "Claude (DrStudy sessiyasi)",
+ "model": null,
+ "createdAt": "2026-11-18T06:10:38.573Z",
+ "updatedAt": "2026-11-18T06:10:38.574Z",
+ "coverage": {
+  "translated": 98,
+  "total": 98
+ },
+ "note": "Kitob matnining töliq özbekça tarjimasi (qisqartirilmagan). Ekspert tekşiruvidan ötmagan.",
+ "blocks": {
+  "ch18-f0": {
+   "text": "Qon aylanişining nerv orqali boşqarilişi"
+  },
+  "ch18-f1": {
+   "text": "17-bobda muhokama qilinganidek, tananing töqima va a’zolarida qon oqimini moslaştiriş asosan mahalliy töqima boşqaruv mexanizmlarining vazifasidir. Uşbu bobda qon aylanişining nerv orqali boşqarilişi qanday qilib umumiyroq vazifalarni bajarişini — masalan, qon oqimini tananing turli sohalariga qayta taqsimlaş, yurakning nasos faolligini oşiriş yoki kamaytiriş hamda tizimli arterial bosimni tezkor boşqarişni muhokama qilamiz."
+  },
+  "ch18-f2": {
+   "text": "Nerv tizimi qon aylanişini deyarli butunlay _vegetativ (avtonom) nerv tizimi_ orqali boşqaradi. Bu tizimning umumiy faoliyati 61-bobda bayon qilingan, bu mavzu 17-bobda ham qisqaça yoritilgan edi. Uşbu bobda uning qöşimça öziga xos anatomik va funksional xususiyatlarini körib çiqamiz."
+  },
+  "ch18-f3": {
+   "text": "Vegetativ nerv tizimi"
+  },
+  "ch18-f4": {
+   "text": "Vegetativ nerv tizimining qon aylanişini boşqarişdagi eng muhim qismi — _simpatik nerv tizimi_. Biroq bobning keyingi qismida tasvirlanganidek, _parasimpatik nerv tizimi_ ham yurak faoliyatini boşqarişga muhim hissa qöşadi."
+  },
+  "ch18-f5": {
+   "text": "**Rasm 18-1** da qon aylanişining simpatik nerv orqali boşqarilişi anatomiyasi körsatilgan. Simpatik vazomotor nerv tolalari orqa miyadan barça kökrak orqa miya nervlari hamda birinçi bir-ikki bel orqa miya nervlari orqali çiqadi. Söngra ular darhol _simpatik zanjirga_ ötadi; bunday zanjirlar umurtqa poğonasining har ikki tomonida bittadan joylaşgan. Keyin ular qon aylaniş tizimiga ikki yöl bilan boradi: (1) **Rasm 18-1** ning öng tomonida körsatilganidek, asosan içki a’zolar tomirlari va yurakni innervatsiya qiluvçi maxsus _simpatik nervlar_ orqali; (2) deyarli darhol periferik sohalar tomirlariga tarqaluvçi _orqa miya nervlarining_ periferik qismlariga. Bu tolalarning orqa miya va simpatik zanjirlardagi aniq yöllari 61-bobda muhokama qilinadi.",
+   "lead": "Simpatik nerv tizimi."
+  },
+  "ch18-f7": {
+   "text": "**Rasm 18-2** da simpatik nerv tolalarining qon tomirlariga tarqalişi körsatilgan; u köpçilik töqimalarda kapillyarlardan _taşqari_ barça tomirlar innervatsiya qilinişini namoyiş etadi. Ba’zi töqimalarda, masalan, tutqiç (mezenterial) qon tomirlarida prekapillyar sfinkterlar va metarteriolalar ham innervatsiya qilinadi, biroq ularning simpatik innervatsiyasi odatda kiçik arteriyalar, arteriolalar va venalardagidek ziç emas.",
+   "lead": "Qon tomirlarining simpatik innervatsiyasi."
+  },
+  "ch18-f9": {
+   "text": "_Kiçik arteriyalar_ va _arteriolalarning_ innervatsiyasi simpatik qözğaliş orqali qon oqimiga _qarşilikni_ oşiriş va şu tariqa töqimalar orqali qon oqimi tezligini _kamaytiriş_ imkonini beradi."
+  },
+  "ch18-f10": {
+   "text": "Yirik tomirlarning, ayniqsa _venalarning_ innervatsiyasi simpatik qözğaliş orqali bu tomirlarning hajmini _kamaytiriş_ imkonini beradi. Hajmning bunday kamayişi qonni yurakka surişi mumkin va şu tariqa, uşbu va keyingi boblarda tuşuntirganimizdek, yurakning nasos faoliyatini boşqarişda katta rol öynaydi."
+  },
+  "ch18-f11": {
+   "text": "**Rasm 18-1** da körsatilganidek, simpatik tolalar bevosita yurakka ham boradi. 9-bobda muhokama qilinganidek, simpatik qözğaliş yurak faolligini keskin oşiradi: yurak uriş tezligini ham oşiradi, nasos faoliyatining kuçi va hajmini ham kuçaytiradi.",
+   "lead": "Simpatik qözğaliş yurak uriş tezligi va qisqaruvçanligini oşiradi."
+  },
+  "ch18-f12": {
+   "text": "Parasimpatik nerv tizimi tananing boşqa köplab vegetativ funksiyalari, masalan, me’da-içak yölining köplab faoliyatlarini boşqariş uçun nihoyatda muhim bölsa-da, köpçilik töqimalarda tomirlar faoliyatini boşqarişda faqat kiçik rol öynaydi. Uning qon aylanişiga eng muhim ta’siri — _adaşgan (vagus) nervlar_ tarkibida yurakka boruvçi _parasimpatik nerv tolalari_ orqali yurak uriş tezligini boşqariş; bu **Rasm 18-1** da uzunçoq miyadan bevosita yurakka boruvçi uzuq-uzuq qizil çiziq bilan körsatilgan.",
+   "lead": "Parasimpatik qözğaliş yurak uriş tezligi va qisqaruvçanligini kamaytiradi."
+  },
+  "ch18-f13": {
+   "text": "Parasimpatik qözğalişning yurak faoliyatiga ta’siri 9-bobda batafsil muhokama qilingan. Asosan parasimpatik qözğaliş yurak uriş tezligini keskin _kamaytiradi_ va yurak muskuli qisqaruvçanligini biroz pasaytiradi."
+  },
+  "ch18-f14": {
+   "text": "Simpatik vazokonstriktor tizim va uning markaziy nerv tizimi tomonidan boşqarilişi"
+  },
+  "ch18-f15": {
+   "text": "Simpatik nervlar tarkibida juda köp _vazokonstriktor nerv tolalari_ va faqat oz sonli vazodilatator tolalar böladi. Vazokonstriktor tolalar qon aylaniş tizimining amalda barça segmentlariga tarqaladi, biroq ba’zi töqimalarga boşqalariga qaraganda köproq boradi. Bu simpatik vazokonstriktor ta’sir ayniqsa buyraklar, içaklar, taloq va terida kuçli, skelet muskuli, yurak va boş miyada esa ança kuçsiz."
+  },
+  "ch18-f16": {
+   "text": "Uzunçoq miya va Varoliy köprigining pastki uçdan bir qismining asosan törsimon moddasida ikki tomonlama _vazomotor markaz_ deb ataladigan soha joylaşgan; u **Rasm 18-1** va **Rasm 18-3** da körsatilgan. Bu markaz parasimpatik impulslarni adaşgan nervlar orqali yurakka, simpatik impulslarni esa orqa miya va periferik simpatik nervlar orqali tanadagi amalda barça arteriyalar, arteriolalar va venalarga uzatadi.",
+   "lead": "Boş miyadagi vazomotor markaz va uning vazokonstriktor tizimni boşqarişi."
+  },
+  "ch18-f18": {
+   "text": "Vazomotor markazning umumiy tuzilişi hali töliq aniq bölmasa-da, tajribalar bu markazdagi ayrim muhim sohalarni aniqlaş imkonini bergan: 1. Uzunçoq miya yuqori qismining oldingi-yon bölimlarida ikki tomonlama joylaşgan _vazokonstriktor soha_. Bu sohada boşlanadigan neyronlar öz tolalarini orqa miyaning barça darajalariga yuboradi va u yerda simpatik nerv tizimining preganglionar vazokonstriktor neyronlarini qözğatadi. 2. Uzunçoq miya pastki yarmining oldingi-yon bölimlarida ikki tomonlama joylaşgan _vazodilatator soha_. Bu neyronlarning tolalari yuqoriga — yuqorida tasvirlangan vazokonstriktor sohaga boradi, şu sohaning vazokonstriktor faolligini tormozlaydi va vazodilatatsiyaga sabab böladi. 3. Uzunçoq miya va Varoliy köprigi pastki qismining orqa-yon bölimlaridagi _yakka yöl yadrosida_ (nucleus tractus solitarius) ikki tomonlama joylaşgan _sezuvçi soha_. Bu soha neyronlari qon aylaniş tizimidan sezgi nerv signallarini asosan _adaşgan_ va _til-halqum nervlari_ orqali oladi; bu sezuvçi sohadan çiquvçi signallar esa vazomotor markazning vazokonstriktor va vazodilatator sohalari faoliyatini boşqarişga yordam beradi va şu tariqa qon aylanişining köplab funksiyalarini refleks yöli bilan boşqarişni ta’minlaydi. Bunga misol — bobning keyingi qismida tasvirlangan arterial bosimni boşqaruvçi _baroretseptor refleksi_."
+  },
+  "ch18-f19": {
+   "text": "Me’yoriy şaroitda vazomotor markazning vazokonstriktor sohasi butun tana böylab simpatik vazokonstriktor nerv tolalariga uzluksiz signallar yuborib turadi; natijada bu tolalar sekundiga taxminan 0,5–2 impuls tezlikda sekin razryad beradi. Bu uzluksiz razryad _simpatik vazokonstriktor tonus_ deb ataladi. Bu impulslar me’yorda qon tomirlarini qisman toraygan holatda saqlab turadi; bu holat _vazomotor tonus_ deb ataladi.",
+   "lead": "Simpatik vazokonstriktor tonus tufayli qon tomirlarining uzluksiz qisman torayişi."
+  },
+  "ch18-f20": {
+   "text": "**Rasm 18-4** da vazokonstriktor tonusning ahamiyati körsatilgan. Bu rasmda körsatilgan tajribada hayvonga spinal anesteziya qilingan. Bu anestetik simpatik nerv impulslarining orqa miyadan periferiyaga uzatilişini butunlay tösib qöygan. Natijada arterial bosim 100 dan 50 mm Hg gaça tuşgan; bu butun tanada vazokonstriktor tonus yöqolişining ta’sirini körsatadi. Bir neça daqiqadan keyin qonga oz miqdorda noradrenalin gormoni yuborilgan (noradrenalin simpatik vazokonstriktor nerv tolalarining uçlarida ajraladigan asosiy vazokonstriktor gormonal modda). Yuborilgan gormon qon orqali qon tomirlariga yetib borgaç, tomirlar yana toraygan va arterial bosim noradrenalin parçalanib ketgunça 1–3 daqiqa davomida hatto me’yordan ham yuqori darajaga kötarilgan."
+  },
+  "ch18-f22": {
+   "text": "Vazomotor markaz tomirlarning torayiş darajasini boşqariş bilan bir vaqtda yurak faoliyatini ham boşqaradi. Yurak uriş tezligi va qisqaruvçanligini oşiriş zarur bölganda vazomotor markazning _yon_ qismlari simpatik nerv tolalari orqali yurakka qözğatuvçi impulslar yuboradi. Aksinça, yurakning nasos faoliyatini kamaytiriş zarur bölganda vazomotor markazning _medial_ qismi qöşni _adaşgan nervlarning dorsal harakat yadrolariga_ signallar yuboradi; ular esa yurak uriş tezligi va qisqaruvçanligini kamaytiriş uçun adaşgan nervlar orqali yurakka parasimpatik impulslar uzatadi. Şu sababli vazomotor markaz yurak faoliyatini oşirişi yoki kamaytirişi mumkin. Odatda vazokonstriksiya yuz berganda yurak uriş tezligi va yurak qisqarişlari kuçi ortadi, vazokonstriksiya tormozlanganda esa kamayadi.",
+   "lead": "Vazomotor markazning yurak faoliyatini boşqarişi."
+  },
+  "ch18-f23": {
+   "text": "_Varoliy köprigi, örta miya_ va _oraliq miyaning_ butun _törsimon moddasi_ böylab joylaşgan juda köp sonli kiçik neyronlar vazomotor markazni qözğatişi yoki tormozlaşi mumkin. Bu törsimon modda **Rasm 18-3** da körsatilgan. Umuman olganda, törsimon moddaning lateralroq va yuqoriroq qismlaridagi neyronlar qözğalişga, medialroq va pastroq qismlaridagilar esa tormozlanişga sabab böladi.",
+   "lead": "Vazomotor markazning yuqori nerv markazlari tomonidan boşqarilişi."
+  },
+  "ch18-f24": {
+   "text": "_Gipotalamus_ vazokonstriktor tizimni boşqarişda alohida rol öynaydi, çunki u vazomotor markazga kuçli qözğatuvçi yoki tormozlovçi ta’sir körsatişi mumkin. Gipotalamusning _orqa-yon qismlari_ asosan qözğalişga sabab böladi, _oldingi qismi_ esa oldingi gipotalamusning aynan qaysi qismi qözğatilganiga qarab yengil qözğaliş yoki tormozlanişga sabab bölişi mumkin."
+  },
+  "ch18-f25": {
+   "text": "_Boş miya pöstloğining_ köplab qismlari ham vazomotor markazni qözğatişi yoki tormozlaşi mumkin. Masalan, _harakat pöstloğining_ qözğalişi pastga — gipotalamusga, söngra vazomotor markazga uzatiladigan impulslar tufayli vazomotor markazni qözğatadi. Şuningdek, _çakka bölagining oldingi qismi_, _peşona pöstloğining orbital sohalari_, _belboğ puştasining oldingi qismi, bodomsimon tana, tösiq_ (septum) va _gippokampning_ qözğalişi ham bu sohalarning aynan qaysi qismlari qözğatilgani va stimul kuçiga qarab vazomotor markazni qözğatişi yoki tormozlaşi mumkin. Şunday qilib, boş miyaning keng bazal sohalari yurak-qon tomir faoliyatiga çuqur ta’sir körsatişi mumkin."
+  },
+  "ch18-f26": {
+   "text": "Vazokonstriktor nervlarning uçlarida ajraladigan modda deyarli butunlay noradrenalindir; 61-bobda muhokama qilinganidek, u tomir silliq muskulining _alfa-adrenergik retseptorlariga_ bevosita ta’sir qilib, vazokonstriksiyaga sabab böladi.",
+   "lead": "Noradrenalin — simpatik vazokonstriktor neyromediator."
+  },
+  "ch18-f27": {
+   "text": "Simpatik impulslar qon tomirlariga uzatilişi bilan bir vaqtda buyrak usti bezlarining mağiz qavatiga ham uzatiladi. Bu impulslar mağiz qavatining _aylanayotgan qonga adrenalin va noradrenalin ajratişiga_ sabab böladi. Bu ikki gormon qon oqimi bilan tananing barça qismlariga taşiladi va u yerda barça qon tomirlariga bevosita ta’sir qilib, odatda vazokonstriksiyaga sabab böladi. 61-bobda muhokama qilinganidek, bir neçta töqimalarda _adrenalin_ vazodilatatsiyaga sabab böladi, çunki u _beta-adrenergik retseptorlarni_ ham qözğatadi; bu esa ayrim tomirlarni toraytirmaydi, balki kengaytiradi.",
+   "lead": "Buyrak usti bezlarining mağiz qavati va uning simpatik vazokonstriktor tizim bilan boğliqligi."
+  },
+  "ch18-f28": {
+   "text": "Skelet muskullariga boruvçi simpatik nervlar tarkibida toraytiruvçi tolalar bilan bir qatorda simpatik _vazodilatator_ tolalar ham böladi. Ba’zi hayvonlarda, masalan, muşukda bu kengaytiruvçi tolalar öz uçlarida noradrenalin emas, balki _atsetilxolin_ ajratadi. Biroq primatlarda vazodilatator ta’sir muskul tomirlaridagi maxsus beta-adrenergik retseptorlarni qözğatuvçi adrenalin tufayli yuzaga keladi, deb hisoblanadi.",
+   "lead": "Simpatik vazodilatator tizim va uning markaziy nerv tizimi tomonidan boşqarilişi."
+  },
+  "ch18-f29": {
+   "text": "Vazodilatator tizimni markaziy nerv tizimi (MNT) tomonidan boşqariş yöli **Rasm 18-3** da uzuq-uzuq çiziqlar bilan körsatilgan. Bu tizimni boşqaruvçi boş miyaning asosiy sohasi — _oldingi gipotalamus._"
+  },
+  "ch18-f30": {
+   "text": "Simpatik vazodilatator tizim odamda qon aylanişini boşqarişda katta rol öynamasa kerak, çunki muskullarga boruvçi simpatik nervlarning töliq blokadasi köplab fiziologik şaroitlarda bu muskullarning öz qon oqimini boşqariş qobiliyatiga deyarli ta’sir qilmaydi. Şunga qaramay, ba’zi tajribalar jismoniy maşq boşlanişida simpatik tizim skelet muskullarida dastlabki vazodilatatsiyani yuzaga keltirib, muskullar qöşimça oziq moddalarga ehtiyoj sezmasidan oldinroq _qon oqimining oldindan ortişiga_ imkon berişi mumkinligini körsatgan. Odamda skelet muskullaridagi bu simpatik vazodilatator javob beta-adrenergik retseptorlarni qözğatuvçi aylanayotgan adrenalin yoki atsetilxolin ta’sirida tomir endoteliysidan ajraladigan azot oksidi vositasida amalga oşişi mumkinligi haqida dalillar bor.",
+   "lead": "Simpatik vazodilatator tizimning ehtimoliy roli."
+  },
+  "ch18-f31": {
+   "text": "Huşdan ketişga sabab böladigan kuçli hissiy iztiroblarni boşdan keçirgan odamlarda qiziqarli vazodilatatsiyalovçi reaksiya yuz beradi. Bunda muskul vazodilatator tizimi faollaşadi va ayni paytda adaşgan nervning kardioingibitor markazi yurakka kuçli signallar yuborib, yurak uriş tezligini keskin sekinlaştiradi. Arterial bosim tez pasayadi, bu boş miyaga keladigan qon oqimini kamaytiradi va odam huşini yöqotadi. Bu umumiy ta’sir _vazovagal sinkope_ deb ataladi. Hissiy huşdan ketiş boş miya pöstloğida bezovta qiluvçi fikrlar bilan boşlanadi. Söngra yöl, ehtimol, uzunçoq miyadagi adaşgan nerv markazlari yonidagi oldingi gipotalamusning vazodilatator markaziga, adaşgan nervlar orqali yurakka, şuningdek, orqa miya orqali muskullarning _simpatik vazodilatator_ nervlariga boradi.",
+   "lead": "Hissiy huşdan ketiş — vazovagal sinkope."
+  },
+  "ch18-f32": {
+   "text": "Arterial bosimni tezkor boşqarişda nerv tizimining roli"
+  },
+  "ch18-f33": {
+   "text": "Qon aylanişini nerv orqali boşqarişning eng muhim vazifalaridan biri — arterial bosimni tez oşiriş qobiliyati. Buning uçun simpatik nerv tizimining barça vazokonstriktor va yurakni tezlaştiruvçi funksiyalari birgalikda qözğatiladi. Ayni paytda yurakka boruvçi parasimpatik (vagus) tormozlovçi signallar özaro tormozlanadi. Şunday qilib, bir vaqtning özida quyidagi uçta asosiy özgariş yuz beradi va ularning har biri arterial bosimni oşirişga yordam beradi: 1. _Katta qon aylaniş doirasidagi arteriolalarning köpçiligi torayadi_; bu umumiy periferik qarşilikni keskin oşiradi va şu tariqa arterial bosimni kötaradi. 2. _Ayniqsa venalar (şuningdek, qon aylanişining boşqa yirik tomirlari ham) kuçli torayadi._ Bu torayiş qonni yirik periferik qon tomirlaridan yurak tomon siqib çiqaradi va şu tariqa yurak böşliqlaridagi qon hajmini oşiradi. Yurakning çözilişi esa uning kuçliroq urişiga va şu tufayli köproq qon haydaşiga sabab böladi. Bu ham arterial bosimni oşiradi. 3. Nihoyat, _yurak vegetativ nerv tizimi tomonidan bevosita qözğatiladi va bu yurakning nasos faoliyatini yanada kuçaytiradi._ Yurak nasos faoliyatining bu kuçayişi köp jihatdan yurak uriş tezligining ortişi hisobiga böladi; u ba’zan me’yordan uç martagaça ortadi. Bundan taşqari, simpatik nerv signallari yurak muskulining qisqariş kuçini bevosita oşiradi va yurakning kattaroq hajmdagi qonni haydaş qobiliyatini kuçaytiradi. Kuçli simpatik qözğaliş paytida yurak me’yoriy şaroitdagiga qaraganda taxminan ikki baravar köp qon haydaşi mumkin; bu arterial bosimning tezkor kötarilişiga yanada köproq hissa qöşadi."
+  },
+  "ch18-f34": {
+   "text": "Arterial bosimni nerv orqali boşqarişning ayniqsa muhim xususiyati — javobning tezligi: u bir neça soniya içida boşlanadi va köpinça 5–10 soniya içida bosimni me’yordan ikki baravar oşiradi. Aksinça, yurak-qon tomir tizimini nerv orqali qözğatişning tösatdan tormozlanişi arterial bosimni 10–40 soniya içida me’yorning yarmigaça pasaytirişi mumkin. Şu sababli nerv orqali boşqariş arterial bosimni boşqarişning eng tezkor mexanizmidir.",
+   "lead": "Arterial bosimning nerv orqali boşqarilişi tezkor."
+  },
+  "ch18-f35": {
+   "text": "Muskul maşqi va boşqa stresslar paytida arterial bosimning kötarilişi"
+  },
+  "ch18-f36": {
+   "text": "Nerv tizimining arterial bosimni oşiriş qobiliyatining muhim misoli — muskul maşqi paytida yuz beradigan bosim kötarilişi. Oğir jismoniy maşq paytida muskullar ança köp qon oqimini talab qiladi. 17-bobda tuşuntirilganidek, bu ortişning bir qismi muskul hujayralarida metabolizm kuçayişi tufayli muskul tomirlarining mahalliy kengayişidan kelib çiqadi. Qöşimça ortiş esa maşq paytida butun qon aylanişining simpatik qözğalişi tufayli bir vaqtda arterial bosimning kötarilişi hisobiga yuz beradi. Oğir maşqda arterial bosim taxminan 30–40% kötariladi va bu qon oqimini yana deyarli 2 baravar oşiradi."
+  },
+  "ch18-f37": {
+   "text": "Maşq paytida arterial bosimning kötarilişi asosan nerv tizimining ta’siri natijasidir. Boş miyaning harakat sohalari maşqni yuzaga keltiriş uçun faollaşişi bilan bir vaqtda miya ustunining retikulyar faollaştiruvçi tizimining katta qismi ham faollaşadi; bunga vazomotor markazning vazokonstriktor va yurakni tezlaştiruvçi sohalarining keskin kuçaygan qözğalişi ham kiradi. Bu ta’sirlar muskul faolligining ortişiga hamohang ravişda arterial bosimni tez oşiradi."
+  },
+  "ch18-f38": {
+   "text": "Muskul maşqidan taşqari boşqa köplab stress turlarida ham bosimning şunga öxşaş kötarilişi yuz berişi mumkin. Masalan, qattiq qörquv paytida arterial bosim ba’zan bir neça soniya içida 75–100 mm Hg gaça kötariladi. Bu javob _xavotir reaksiyasi_ (alarm reaksiyasi) deb ataladi; u arterial bosimni oşirib, xavfdan qoçiş uçun darhol javob berişi kerak bölişi mumkin bölgan tana muskullarini zudlik bilan qon bilan ta’minlaydi."
+  },
+  "ch18-f39": {
+   "text": "Me’yoriy arterial bosimni saqlab turuvçi refleks mexanizmlar"
+  },
+  "ch18-f40": {
+   "text": "Vegetativ nerv tizimining jismoniy maşq va stress paytida arterial bosimni oşiriş funksiyalaridan taşqari, arterial bosimni me’yoriy darajada yoki unga yaqin saqlab turiş uçun bir qator ongsiz maxsus nerv boşqaruv mexanizmlari doimo işlab turadi. Ularning deyarli barçasi quyidagi bölimlarda tasvirlangan _manfiy qaytar aloqali refleks mexanizmlardir_."
+  },
+  "ch18-f41": {
+   "text": "Arterial bosimni boşqaruvçi baroretseptor tizimi — baroretseptor reflekslari"
+  },
+  "ch18-f42": {
+   "text": "Arterial bosimni boşqaruvçi nerv mexanizmlari içida eng yaxşi ma’lumi — _baroretseptor refleksi_. Asosan bu refleks bir neçta yirik tizimli arteriyalar devorining muayyan nuqtalarida joylaşgan, _baroretseptorlar_ yoki _pressoretseptorlar_ deb ataladigan çöziliş retseptorlari tomonidan boşlanadi. Arterial bosimning kötarilişi baroretseptorlarni çözadi va ularning MNT ga signallar yuborişiga sabab böladi. Söngra arterial bosimni me’yoriy darajaga tuşiriş uçun vegetativ nerv tizimi orqali qon aylaniş tizimiga qaytar aloqa signallari yuboriladi."
+  },
+  "ch18-f43": {
+   "text": "Baroretseptorlar arteriyalar devorida joylaşgan, çözilganda qözğaladigan butasimon (şoxlangan) nerv uçlaridir. Kökrak va böyin sohalaridagi deyarli har bir yirik arteriya devorida bir neçta baroretseptor bor, biroq **Rasm 18-5** da körsatilganidek, baroretseptorlar quyidagi sohalarda ayniqsa köp: (1) uyqu arteriyasi bifurkatsiyasidan biroz yuqorida, har bir içki uyqu arteriyasining devorida — _karotid sinus_ deb ataladigan sohada; (2) aorta ravoğining devorida.",
+   "lead": "Baroretseptorlarning fiziologik anatomiyasi va ularning innervatsiyasi."
+  },
+  "ch18-f45": {
+   "text": "**Rasm 18-5** da körsatilganidek, karotid baroretseptorlardan keladigan signallar kiçik _Hering nervlari_ orqali böyinning yuqori qismida _til-halqum nervlariga_, söngra miya ustunining uzunçoq miya sohasidagi _yakka yöl yadrosiga_ uzatiladi. Aorta ravoğidagi aortal baroretseptorlardan keladigan signallar esa _adaşgan nervlar_ orqali uzunçoq miyaning xuddi şu yakka yöl yadrosiga uzatiladi."
+  },
+  "ch18-f46": {
+   "text": "**Rasm 18-6** da arterial bosimning turli darajalari karotid sinusning Hering nervida impulslar uzatiliş tezligiga qanday ta’sir qilişi körsatilgan. E’tibor bering: karotid sinus baroretseptorlari 0 dan 50–60 mm Hg gaça bölgan bosimlarda umuman qözğalmaydi, biroq bu darajalardan yuqorida ular tobora tezroq javob beradi va taxminan 180 mm Hg da maksimumga yetadi. Aortal baroretseptorlarning javoblari karotid retseptorlarnikiga öxşaş, faqat ular umuman olganda taxminan 30 mm Hg yuqoriroq arterial bosim darajalarida işlaydi.",
+   "lead": "Baroretseptorlarning arterial bosim özgarişlariga javobi."
+  },
+  "ch18-f48": {
+   "text": "Ayniqsa şunga e’tibor beringki, arterial bosimning me’yoriy iş oraliğida, ya’ni taxminan 100 mm Hg atrofida, bosimning ozgina özgarişi ham arterial bosimni me’yor tomon qayta moslaştiriş uçun barorefleks signalining kuçli özgarişiga sabab böladi. Şunday qilib, baroretseptor qaytar aloqa mexanizmi eng zarur bölgan bosim oraliğida eng samarali işlaydi."
+  },
+  "ch18-f49": {
+   "text": "Baroretseptorlar arterial bosim özgarişlariga tez javob beradi; impulslar çastotasi har bir sistola paytida sekundning bir uluşi içida ortadi va diastola paytida yana kamayadi. Bundan taşqari, baroretseptorlar turğun bosimga qaraganda _tez özgarayotgan bosimga ança kuçliroq javob beradi_. Ya’ni agar örtaça arterial bosim 150 mm Hg bölsa-yu, lekin ayni lahzada tez kötarilayotgan bölsa, impulslar uzatiliş tezligi bosim 150 mm Hg da turğun bölgandagiga qaraganda ikki baravargaça yuqori bölişi mumkin."
+  },
+  "ch18-f50": {
+   "text": "Baroretseptor signallari uzunçoq miyaning yakka yöl yadrosiga kirgandan keyin ikkilamçi signallar uzunçoq miyaning",
+   "lead": "Baroretseptorlar boşlaydigan qon aylaniş refleksi."
+  },
+  "ch18-f51": {
+   "text": "_vazokonstriktor markazini tormozlaydi_ va _adaşgan nervning parasimpatik markazini qözğatadi_. Yakuniy ta’sirlar quyidagilar: (1) butun periferik qon aylaniş tizimidagi venalar va arteriolalarning _kengayişi_; (2) _yurak uriş tezligi_ va _yurak qisqarişi kuçining kamayişi_. Şu sababli arteriyalardagi yuqori bosim tufayli baroretseptorlarning qözğalişi periferik qarşilik va yurak çiqarişining kamayişi hisobiga refleks yöli bilan _arterial bosimning pasayişiga sabab böladi_. Aksinça, past bosim teskari ta’sir körsatib, refleks yöli bilan bosimni me’yor tomon qayta kötaradi."
+  },
+  "ch18-f52": {
+   "text": "**Rasm 18-7** da ikkala umumiy uyqu arteriyasini berkitiş natijasida arterial bosimning tipik refleks özgarişi körsatilgan. Bu karotid sinusdagi bosimni pasaytiradi; natijada baroretseptorlardan keladigan signallar kamayadi va vazomotor markazga tormozlovçi ta’sir susayadi. Şunda vazomotor markaz odatdagidan ança faolroq bölib qoladi va uyqu arteriyalari berkitilgan 10 daqiqa davomida aorta arterial bosimining kötarilişiga va yuqori darajada saqlanişiga sabab böladi. Okklyuziya olib taşlanganda karotid sinuslardagi bosim kötariladi va endi karotid sinus refleksi aorta bosimini deyarli darhol, bir lahzalik ortiqça kompensatsiya sifatida, me’yordan biroz pastga tuşiradi, söngra yana bir daqiqa içida bosim me’yorga qaytadi."
+  },
+  "ch18-f54": {
+   "text": "Baroretseptorlarning tananing yuqori qismida arterial bosimni nisbatan doimiy saqlab turiş qobiliyati odam yotgan holatdan turganda muhim ahamiyatga ega. Odam örnidan turişi bilanoq boş va tananing yuqori qismidagi arterial bosim pasayişga moyil böladi va bu bosimning keskin pasayişi huşdan ketişga sabab bölişi mumkin. Biroq baroretseptorlardagi bosimning pasayişi darhol refleksni qözğatadi; natijada butun tana böylab kuçli simpatik razryad yuz beradi va bu boş hamda tananing yuqori qismidagi bosim pasayişini minimal darajaga tuşiradi.",
+   "lead": "Baroretseptorlar tana holati özgarganda qon bosimi özgarişlarini yumşatadi."
+  },
+  "ch18-f55": {
+   "text": "Baroretseptor tizimi arterial bosimning kötarilişi yoki pasayişiga qarşilik körsatgani uçun u _bosimni buferlovçi tizim_, baroretseptorlardan keluvçi nervlar esa _bufer nervlar_ deb ataladi.",
+   "lead": "Baroretseptor boşqaruv tizimining bosimni buferlaş funksiyasi."
+  },
+  "ch18-f56": {
+   "text": "**Rasm 18-8** da baroretseptorlarning bu buferlaş funksiyasining ahamiyati körsatilgan. Rasmning yuqori panelida soğlom itdan 2 soat davomida yozib olingan arterial bosim, pastki panelida esa karotid sinuslar va aortadan keluvçi baroretseptor nervlari olib taşlangan itdan yozib olingan arterial bosim körsatilgan. Denervatsiya qilingan itda yotiş, turiş, hayajonlaniş, ovqatlaniş, defekatsiya va şovqinlar kabi kundalik oddiy hodisalar tufayli bosimning nihoyatda özgaruvçanligiga e’tibor bering."
+  },
+  "ch18-f58": {
+   "text": "**Rasm 18-9** da soğlom va denervatsiya qilingan itda 24 soatlik sutka davomida qayd etilgan örtaça arterial bosimlarning çastota taqsimoti körsatilgan. E’tibor bering: baroretseptorlar me’yorida işlaganda örtaça arterial bosim kun böyi 85 dan 115 mm Hg gaça bölgan tor oraliqda saqlangan va kunning köp qismida taxminan 100 mm Hg atrofida bölgan. Biroq baroretseptorlar denervatsiyasidan keyin çastota taqsimoti egri çiziği yassilaşgan; bu bosim oraliğining 2,5 baravar kengayganini körsatadi: bosim tez-tez 50 mm Hg gaça tuşgan yoki 160 mm Hg dan oşgan. Şunday qilib, arterial baroretseptor tizimi bölmaganda bosimning nihoyatda özgaruvçan bölişini köriş mumkin."
+  },
+  "ch18-f60": {
+   "text": "Demak, arterial baroretseptor tizimining asosiy maqsadi — arterial bosimning daqiqama-daqiqa özgarişlarini baroretseptor tizimi bölmaganda yuz beradigan özgarişlarning taxminan uçdan bir qismigaça kamaytiriş."
+  },
+  "ch18-f61": {
+   "text": "Arterial baroretseptorlar arterial bosimni har lahzada kuçli nazorat qilsa-da, ularning qon bosimini uzoq muddatli boşqarişdagi ahamiyati munozarali bölib kelgan. Ba’zi fiziologlar baroretseptorlarni arterial bosimni surunkali boşqarişda nisbatan ahamiyatsiz deb hisoblaşining sabablaridan biri şundaki, ular 1–2 kun içida özlari ta’sirida bölgan bosim darajasiga _qayta sozlanişga_ (moslaşişga) moyil. Ya’ni agar arterial bosim me’yoriy qiymat bölgan 100 dan 160 mm Hg gaça kötarilsa, dastlab baroretseptorlardan juda yuqori çastotali impulslar uzatiladi. Keyingi bir neça daqiqa davomida impulslar çastotasi sezilarli kamayadi. Söngra keyingi 1–2 kun davomida u ança sekin kamayib boradi va bu davr oxiriga kelib, örtaça arterial bosim hamon 160 mm Hg da saqlanib turişiga qaramay, impulslar çastotasi deyarli me’yorga qaytadi. Aksinça, arterial bosim juda past darajaga tuşganda baroretseptorlar dastlab umuman impuls uzatmaydi, biroq asta-sekin, 1–2 kun davomida baroretseptorlar impulslari çastotasi nazorat darajasiga qaytadi.",
+   "lead": "Baroretseptorlar arterial bosimni uzoq muddatli boşqarişda muhimmi?"
+  },
+  "ch18-f62": {
+   "text": "Baroretseptorlarning bunday qayta sozlanişi ularning arterial bosimni bir neça kundan uzoqroq vaqt davomida özgartirişga intiluvçi buzilişlarni tuzatuvçi boşqaruv tizimi sifatidagi kuçini susaytirişi mumkin. Biroq tajriba tadqiqotlari baroretseptorlar töliq qayta sozlanmasligini va şu sababli qon bosimini uzoq muddatli boşqarişga, ayniqsa buyraklarning simpatik nerv faolligiga ta’sir qiliş orqali hissa qöşişi mumkinligini körsatgan. Masalan, arterial bosim uzoq vaqt oşganda baroretseptor reflekslari buyrak simpatik nerv faolligining kamayişiga vositaçilik qilişi mumkin; bu esa buyraklar orqali natriy va suv çiqarilişining ortişiga yordam beradi. Bu ta’sir, öz navbatida, qon hajmining asta-sekin kamayişiga sabab böladi va arterial bosimni me’yorga qaytarişga yordam beradi. Şunday qilib, örtaça arterial bosimni baroretseptorlar orqali uzoq muddatli boşqariş qöşimça tizimlar, asosan 19- va 30-boblarda muhokama qilinadigan buyrak — tana suyuqliklari — bosim boşqaruv tizimi (u bilan boğliq nerv va gormonal mexanizmlar bilan birga) bilan özaro ta’sirni talab qiladi."
+  },
+  "ch18-f63": {
+   "text": "Tajriba tadqiqotlari va klinik sinovlar karotid sinus afferent nerv tolalarini surunkali elektr bilan qözğatiş simpatik nerv tizimi faolligini va arterial bosimni kamida 15–20 mm Hg ga barqaror pasaytirişi mumkinligini körsatgan. Bu kuzatişlar şuni körsatadiki, arterial bosim barqaror oşganda, masalan, surunkali gipertenziyada yuz beradigan baroretseptor refleksi qayta sozlanişining hammasi bölmasa ham köp qismi markaziy nerv tizimidagi vazomotor markazlarning qayta sozlanişi emas, balki karotid sinus nervi mexanoretseptorlarining özining qayta sozlanişi bilan boğliq."
+  },
+  "ch18-f64": {
+   "text": "Baroretseptor bosim boşqaruv tizimi bilan çambarças boğliq bölgan _xemoretseptor refleksi_ ham mavjud; u baroretseptor refleksiga juda öxşaş tarzda işlaydi, faqat javobni çöziliş retseptorlari emas, balki _xemoretseptorlar_ boşlab beradi.",
+   "lead": "Arterial bosimning karotid va aortal xemoretseptorlar tomonidan boşqarilişi — kislorod kamligining arterial bosimga ta’siri."
+  },
+  "ch18-f65": {
+   "text": "Xemoretseptor hujayralar kislorodning kamayişiga yoki karbonat angidrid va vodorod ionlari darajasining ortişiga sezgir. Ular kattaligi taxminan 2 millimetr bölgan bir neçta kiçik _xemoretseptor a’zolarda_ joylaşgan (ikkita _karotid tanaça_ — ularning har biri har bir umumiy uyqu arteriyasining bifurkatsiyasida joylaşgan — va odatda aorta yonida joylaşgan bittadan uçtagaça _aortal tanaça_). Xemoretseptorlar nerv tolalarini qözğatadi; bu tolalar baroretseptor tolalari bilan birga Hering nervlari va adaşgan nervlar orqali miya ustunidagi vazomotor markazga boradi."
+  },
+  "ch18-f66": {
+   "text": "Har bir karotid yoki aortal tanaça kiçik oziqlantiruvçi arteriya orqali möl qon oqimi bilan ta’minlanadi, şuning uçun xemoretseptorlar doimo arterial qon bilan yaqin aloqada böladi. Arterial bosim kritik darajadan pastga tuşganda xemoretseptorlar qözğaladi, çunki qon oqimining kamayişi kislorodning kamayişiga, şuningdek, sekin oqayotgan qon olib keta olmaydigan karbonat angidrid va vodorod ionlarining ortiqça töplanişiga sabab böladi."
+  },
+  "ch18-f67": {
+   "text": "Xemoretseptorlardan uzatiladigan signallar vazomotor markazni _qözğatadi_ va bu javob arterial bosimni yana me’yor tomon kötaradi. Biroq arterial bosim 80 mm Hg dan pastga tuşmagunça bu xemoretseptor refleksi arterial bosimning kuçli boşqaruvçisi bölmaydi. Şu sababli bu refleks aynan past bosimlarda arterial bosimning yanada pasayişining oldini olişda muhim ahamiyat kasb etadi."
+  },
+  "ch18-f68": {
+   "text": "Xemoretseptorlar 42-bobda _nafasni boşqariş_ bilan boğliq holda ança batafsil muhokama qilinadi; me’yorda ular nafasni boşqarişda qon bosimini boşqarişdagiga qaraganda ança muhimroq rol öynaydi. Biroq xemoretseptorlarning faollaşişi oğir semizlik va _obstruktiv uyqu apnoesi_ — tungi nafas töxtaşi va gipoksiyaning takroriy epizodlari bilan keçadigan jiddiy uyqu buzilişi — kabi holatlarda arterial bosim ortişiga ham hissa qöşişi mumkin."
+  },
+  "ch18-f69": {
+   "text": "Bölmaçalar va öpka arteriyalari devorida _past bosim retseptorlari_ deb ataladigan çöziliş retseptorlari bor. Past bosim retseptorlari yirik tizimli arteriyalarning baroretseptor çöziliş retseptorlariga öxşaydi. Bu past bosim retseptorlari, ayniqsa qon hajmi özgarişlariga javoban arterial bosim özgarişlarini minimal darajaga tuşirişda muhim rol öynaydi. Masalan, agar barça retseptorlari butun bölgan itga tösatdan 300 millilitr qon quyilsa, arterial bosim atigi taxminan 15 mm Hg ga kötariladi. _Arterial baroretseptorlar denervatsiya qilinganda_ bosim taxminan 40 mm Hg ga kötariladi. Agar _past bosim retseptorlari_ ham denervatsiya qilinsa, arterial bosim taxminan 100 mm Hg ga kötariladi.",
+   "lead": "Bölmaça va öpka arteriyasi reflekslari arterial bosimni boşqaradi."
+  },
+  "ch18-f70": {
+   "text": "Şunday qilib, öpka arteriyasi va bölmaçalardagi past bosim retseptorlari tizimli arterial bosimni aniqlay olmasa-da, ular qon aylanişining past bosimli sohalarida hajm ortişi tufayli bir vaqtda yuz beradigan bosim ortişini aniqlaydi. Şuningdek, ular baroretseptor reflekslariga parallel reflekslarni qözğatib, umumiy refleks tizimini arterial bosimni boşqarişda yanada kuçliroq qiladi."
+  },
+  "ch18-f71": {
+   "text": "Bölmaçalarning çözilişi va bölmaçalardagi past bosim retseptorlarining faollaşişi, şuningdek, buyrak simpatik nerv faolligining refleks kamayişiga, kanalçalarda reabsorbsiyaning kamayişiga va buyraklarda olib keluvçi arteriolalarning kengayişiga sabab böladi (**Rasm 18-10**). Bir vaqtning özida bölmaçalardan gipotalamusga ham antidiuretik gormon (ADH) sekretsiyasini kamaytiriş uçun signallar uzatiladi. Buyraklarda olib keluvçi arteriolalar qarşiligining kamayişi koptokça kapillyarlaridagi bosimning kötarilişiga va natijada suyuqlikning buyrak kanalçalariga filtratsiyasining ortişiga sabab böladi. ADH darajasining pasayişi kanalçalardan suv reabsorbsiyasini kamaytiradi. Bu ta’sirlarning birgalikdagi natijasi — koptokça filtratsiyasining ortişi va suyuqlik reabsorbsiyasining kamayişi — buyraklar orqali suyuqlik yöqotilişini oşiradi va ortgan qon hajmini kamaytiradi. Qon hajmi ortişi tufayli bölmaçalarning çözilişi, şuningdek, _bölmaça natriyuretik peptidi_ ajralişini ham qözğatadi; bu gormon natriy va suvning siydik bilan çiqarilişini yanada oşiradi va qon hajmini me’yorga qaytarişga yordam beradi (qarang: **Rasm 18-10**).",
+   "lead": "Buyraklarni faollaştiruvçi bölmaça reflekslari — hajm refleksi."
+  },
+  "ch18-f73": {
+   "text": "Hajm ortiqçaligidan keyin qon hajmini me’yorga qaytarişga intiluvçi bu mexanizmlarning barçasi qon hajmi boşqaruvçilari böliş bilan birga bilvosita bosim boşqaruvçilari sifatida ham işlaydi, çunki ortiqça hajm yurakni kattaroq yurak çiqarişiga va arterial bosimning yuqoriroq bölişiga majbur qiladi. Bu _hajm refleksi_ mexanizmi qon hajmini boşqarişning boşqa mexanizmlari bilan birga 30-bobda yana muhokama qilinadi."
+  },
+  "ch18-f74": {
+   "text": "Bölmaça bosimining ortişi ba’zan yurak uriş tezligini 75% gaça oşiradi, ayniqsa dastlabki yurak uriş tezligi sekin bölganda. Yurak uriş tezligi yuqori bölganda suyuqlik quyilişi tufayli bölmaçalarning çözilişi arterial baroretseptorlarning faollaşişi hisobiga yurak uriş tezligini kamaytirişi mumkin. Şunday qilib, **Rasm 18-10** da körsatilganidek, qon hajmining ortişi va bölmaçalar çözilişining yurak uriş tezligiga yakuniy ta’siri baroretseptor reflekslari (ular yurak urişini sekinlaştirişga intiladi) va yurak urişini tezlaştirişga intiluvçi _Beynbridj refleksining_ nisbiy hissasiga boğliq. Qon hajmi me’yordan ortganda Beynbridj refleksi barorefleksning tormozlovçi ta’siriga qaramay köpinça yurak uriş tezligini oşiradi.",
+   "lead": "Bölmaça bosimining ortişi yurak uriş tezligini oşiradi — Beynbridj refleksi."
+  },
+  "ch18-f75": {
+   "text": "Qon hajmining ortişi va bölmaçalar çözilişi bilan boğliq yurak uriş tezligi ortişining kiçik bir qismi ortgan bölmaça hajmining sinus tugunini bevosita çözişi natijasida yuzaga keladi; 10-bobda bunday bevosita çöziliş yurak uriş tezligini 15% gaça oşirişi mumkinligi qayd etilgan edi. Yurak uriş tezligining yana 40–60% ga ortişiga Beynbridj refleksi sabab böladi. Beynbridj refleksini qözğatuvçi bölmaçalarning çöziliş retseptorlari öz afferent signallarini adaşgan nervlar orqali boş miyaning uzunçoq miyasiga uzatadi. Söngra efferent signallar yurak uriş tezligi va yurak qisqarişi kuçini oşiriş uçun adaşgan va simpatik nervlar orqali qaytib uzatiladi. Şunday qilib, bu refleks venalar, bölmaçalar va kiçik qon aylaniş doirasida qonning dimlanib qolişining oldini olişga yordam beradi."
+  },
+  "ch18-f76": {
+   "text": "Boş miya vazomotor markaziga qon oqimining kamayişi qon bosimini oşiradi — MNT işemik javobi"
+  },
+  "ch18-f77": {
+   "text": "Qon bosimini nerv orqali boşqarişning katta qismi baroretseptorlar, xemoretseptorlar va past bosim retseptorlaridan boşlanadigan reflekslar orqali amalga oşadi; ularning barçasi boş miyadan taşqarida, periferik qon aylanişida joylaşgan. Biroq miya ustuni pastki qismidagi vazomotor markazga keladigan qon oqimi oziqlaniş yetişmovçiligiga — ya’ni _miya işemiyasiga_ — sabab böladigan darajada keskin kamayganda vazomotor markazdagi vazokonstriktor va yurakni tezlaştiruvçi neyronlar işemiyaga bevosita javob beradi va kuçli qözğaladi. Bu qözğaliş yuz berganda tizimli arterial bosim köpinça yurak haydab bera oladigan eng yuqori darajagaça kötariladi. Bu ta’sir sekin oqayotgan qonning karbonat angidridni miya ustunidagi vazomotor markazdan olib keta olmasligi tufayli yuzaga keladi, deb hisoblanadi. Vazomotor markazga qon oqimi past bölganda karbonat angidridning mahalliy konsentratsiyasi keskin ortadi va u uzunçoq miyadagi simpatik vazomotor nerv boşqaruv sohalarini nihoyatda kuçli qözğatadi."
+  },
+  "ch18-f78": {
+   "text": "Vazomotor markazda sut kislotasi va boşqa kislotali moddalarning töplanişi kabi boşqa omillar ham kuçli qözğaliş va arterial bosim kötarilişiga hissa qöşişi mumkin. Miya işemiyasiga javoban arterial bosimning bunday kötarilişi _MNT işemik javobi_ deb ataladi."
+  },
+  "ch18-f79": {
+   "text": "Işemiyaning vazomotor faollikka ta’siri örtaça arterial bosimni keskin, ba’zan 10 daqiqagaça davom etadigan 250 mm Hg gaça kötarişi mumkin. _Kuçli miya işemiyasi keltirib çiqaradigan simpatik vazokonstriksiya darajasi köpinça şu qadar kuçli böladiki, ba’zi periferik tomirlar butunlay yoki deyarli butunlay berkilib qoladi._ Masalan, simpatik razryadga javoban buyrak arteriolalarining torayişi tufayli buyraklar köpinça siydik hosil qilişni butunlay töxtatadi. Şu sababli _MNT işemik_"
+  },
+  "ch18-f80": {
+   "text": "_javobi simpatik vazokonstriktor tizimning eng kuçli faollaştiruvçilaridan biridir._"
+  },
+  "ch18-f81": {
+   "text": "MNT işemik javobi kuçli bölişiga qaramay, arterial bosim me’yordan ança pastga — 60 mm Hg va undan pastga tuşmagunça u sezilarli ahamiyat kasb etmaydi; qözğalişning eng yuqori darajasiga esa 15–20 mm Hg bosimda yetadi. Şu sababli MNT işemik javobi arterial bosimni boşqarişning me’yoriy mexanizmlaridan biri hisoblanmaydi. Aksinça, u asosan _boş miyaga keladigan qon oqimi xavfli darajada ölimga olib keladigan darajaga yaqinlaşganda arterial bosimning yanada pasayişining oldini oliş uçun tez va kuçli ta’sir qiluvçi favqulodda bosim boşqaruv tizimi sifatida işlaydi._ U ba’zan _bosimni boşqarişning “sönggi çegara” mexanizmi_ deb ataladi.",
+   "lead": "MNT işemik javobining arterial bosim boşqaruvçisi sifatidagi ahamiyati."
+  },
+  "ch18-f82": {
+   "text": "_Kuşing reaksiyasi_ — MNT işemik javobining maxsus turi bölib, u kalla gumbazida boş miyani örab turgan orqa miya suyuqligi bosimining ortişi natijasida yuzaga keladi. Masalan, orqa miya suyuqligi bosimi arterial bosimga tenglaşgunça kötarilganda u butun boş miyani, şuningdek, miyadagi arteriyalarni ham siqadi va miyaning qon bilan ta’minlanişini töxtatadi. Bu MNT işemik javobini boşlab beradi va arterial bosimning kötarilişiga sabab böladi. Arterial bosim orqa miya suyuqligi bosimidan yuqori darajaga kötarilgaç, qon yana miya tomirlariga oqib kiradi va miya işemiyasini bartaraf etadi. Odatda qon bosimi orqa miya suyuqligi bosimidan biroz yuqori bölgan yangi muvozanat darajasiga yetadi va şu tariqa qon yana boş miya orqali oqa boşlaydi. Agar orqa miya suyuqligi bosimi miya arteriyalarini siqadigan darajada kötarilsa, Kuşing reaksiyasi boş miyaning hayotiy muhim markazlarini oziqlanişdan mahrum bölişdan himoya qilişga yordam beradi.",
+   "lead": "Boş miya atrofidagi bosim ortişiga Kuşing reaksiyasi."
+  },
+  "ch18-f83": {
+   "text": "Arterial bosimni nerv orqali boşqarişning maxsus xususiyatlari"
+  },
+  "ch18-f84": {
+   "text": "Yurak çiqarişi va arterial bosimni oşirişda skelet nervlari va skelet muskullarining roli"
+  },
+  "ch18-f85": {
+   "text": "Qon aylanişini tez ta’sir qiluvçi nerv orqali boşqarişning katta qismi vegetativ nerv tizimi orqali amalga oşirilsa-da, kamida ikki holatda skelet nervlari va muskullari ham qon aylaniş javoblarida katta rol öynaydi."
+  },
+  "ch18-f86": {
+   "text": "Baroretseptor yoki xemoretseptor refleksi qözğalganda nerv signallari bir vaqtning özida skelet nervlari orqali tananing skelet muskullariga, ayniqsa qorin muskullariga uzatiladi. Muskullarning qisqarişi esa qorin böşliğidagi barça venoz rezervuarlarni siqadi va qonning qorin böşliği tomir rezervuarlaridan yurak tomon siljişiga yordam beradi. Natijada yurak haydaşi uçun köproq qon mavjud böladi. Bu umumiy javob _qorin böşliğini siqiş refleksi_ deb ataladi. Uning qon aylanişiga ta’siri simpatik vazokonstriktor impulslar venalarni toraytirgandagi ta’sir bilan bir xil — yurak çiqarişi ham, arterial bosim ham ortadi. Qorin böşliğini siqiş refleksi ilgari tasavvur qilinganidan ança muhimroq bölsa kerak, çunki skelet muskullari falajlangan odamlarda gipotenziya epizodlari skelet muskullari me’yoriy bölgan odamlarga qaraganda sezilarli darajada köproq uçraşi yaxşi ma’lum.",
+   "lead": "Qorin böşliğini siqiş refleksi yurak çiqarişi va arterial bosimni oşiradi."
+  },
+  "ch18-f87": {
+   "text": "Jismoniy maşq paytida skelet muskullari qisqarganda ular butun tanadagi qon tomirlarini siqadi. Hatto maşqni kutişning özi ham muskullarni taranglaştiradi va şu tariqa muskullar va qorin böşliğidagi tomirlarni siqadi. Bu siqiliş qonni periferik tomirlardan yurak va öpkalarga siljitadi va şu sababli yurak çiqarişini oşiradi. Bu ta’sir oğir jismoniy maşq paytida ba’zan kuzatiladigan yurak çiqarişining beş-yetti baravar ortişini yuzaga keltirişda muhim ahamiyatga ega. Yurak çiqarişining ortişi esa, öz navbatida, maşq paytida arterial bosimni me’yoriy örtaça 100 mm Hg dan 130–160 mm Hg gaça oşirişning muhim tarkibiy qismidir.",
+   "lead": "Jismoniy maşq paytida skelet muskullarining qisqarişi yurak çiqarişi va arterial bosimni oşiradi."
+  },
+  "ch18-f88": {
+   "text": "Arterial bosimdagi nafas tölqinlari"
+  },
+  "ch18-f89": {
+   "text": "Har bir nafas siklida arterial bosim odatda tölqinsimon tarzda 4–6 mm Hg ga kötarilib-pasayadi va arterial bosimda _nafas tölqinlarini_ hosil qiladi. Bu tölqinlar bir neçta turli ta’sirlar natijasida yuzaga keladi; ularning ba’zilari refleks tabiatga ega: 1. Uzunçoq miyadagi nafas markazida hosil böladigan nafas signallarining köpçiligi har bir nafas siklida vazomotor markazga ham ötib ketadi. 2. Odam har safar nafas olganda kökrak qafasi böşliğidagi bosim odatdagidan manfiyroq böladi va kökrak qafasidagi qon tomirlarining kengayişiga sabab böladi. Bu yurakning çap tomoniga qaytayotgan qon miqdorini kamaytiradi va şu tariqa yurak çiqarişi va arterial bosimni bir lahzaga pasaytiradi. 3. Nafas oliş tufayli kökrak qafasi tomirlarida yuzaga keladigan bosim özgarişlari tomir va bölmaçalardagi çöziliş retseptorlarini qözğatişi mumkin. Nafas tölqinlarini yuzaga keltirişda bu omillarning barçasi örtasidagi aniq munosabatlarni tahlil qiliş qiyin bölsa-da, me’yoriy nafas olişda yakuniy natija odatda nafas çiqarişning dastlabki qismida arterial bosimning kötarilişi va nafas siklining qolgan qismida bosimning pasayişidir. Çuqur nafas olişda qon bosimi har bir nafas siklida 20 mm Hg gaça kötarilib-pasayişi mumkin."
+  },
+  "ch18-f90": {
+   "text": "Arterial bosimning vazomotor tölqinlari — bosimni refleks boşqariş tizimlarining tebranişi"
+  },
+  "ch18-f91": {
+   "text": "Köpinça arterial bosim yozib olinayotganda nafas oliş tufayli yuzaga keladigan kiçik bosim tölqinlaridan taşqari, nafas tölqinlariga qaraganda sekinroq kötarilib-pasayadigan ança katta — ba’zan 10–40 mm Hg gaça yetadigan — tölqinlar ham qayd etiladi. Har bir siklning davomiyligi narkoz berilgan itda 26 soniyadan narkoz berilmagan odamda 7–10 soniyagaça özgaradi. Bu tölqinlar _vazomotor tölqinlar_ yoki _Mayer tölqinlari_ deb ataladi. Bunday yozuvlar arterial bosimning davriy kötarilişi va pasayişini körsatuvçi **Rasm 18-11** da tasvirlangan."
+  },
+  "ch18-f93": {
+   "text": "Vazomotor tölqinlarning sababi — bosimni nerv orqali boşqaruvçi bir yoki bir neçta mexanizmning refleks tebranişi; ularning ba’zilari quyidagilar."
+  },
+  "ch18-f94": {
+   "text": "**Rasm 18-11B** dagi vazomotor tölqinlar tajribaviy bosim yozuvlarida tez-tez uçraydi, garçi ular odatda rasmda körsatilganidan ança kuçsizroq bölsa-da. Ular asosan _baroretseptor refleksining_ tebranişi tufayli yuzaga keladi. Ya’ni yuqori bosim baroretseptorlarni qözğatadi, ular esa simpatik nerv tizimini tormozlaydi va bir neça soniyadan keyin bosimni pasaytiradi. Pasaygan bosim, öz navbatida, baroretseptorlarning qözğalişini kamaytiradi va vazomotor markazning yana faollaşişiga imkon berib, bosimni yuqori qiymatga kötaradi. Javob bir zumda yuz bermaydi, balki bir neça soniyaga keçikadi. Söngra bu yuqori bosim yangi siklni boşlaydi va tebraniş davom etadi.",
+   "lead": "Baroretseptor va xemoretseptor reflekslarining tebranişi."
+  },
+  "ch18-f95": {
+   "text": "_Xemoretseptor refleksi_ ham tebranib, xuddi şunday tölqinlarni hosil qilişi mumkin. Bu refleks odatda baroretseptor refleksi bilan bir vaqtda tebranadi. Arterial bosim 40–80 mm Hg oraliğida bölganda vazomotor tölqinlarni yuzaga keltirişda, ehtimol, aynan u asosiy rol öynaydi, çunki bu past oraliqda qon aylanişining xemoretseptorlar tomonidan boşqarilişi kuçli, baroretseptorlar tomonidan boşqarilişi esa kuçsizroq böladi."
+  },
+  "ch18-f96": {
+   "text": "**Rasm 18-11A** dagi yozuv MNT işemik bosim boşqaruv mexanizmining tebranişi natijasida olingan. Bu tajribada orqa miya suyuqligi bosimi 160 mm Hg gaça oşirilgan; bu miya tomirlarini siqqan va bosimni 200 mm Hg gaça kötaruvçi MNT işemik javobini boşlab bergan. Arterial bosim şunday yuqori qiymatga kötarilganda miya işemiyasi bartaraf bölgan va simpatik nerv tizimi nofaol bölib qolgan. Natijada arterial bosim tezda ança past qiymatga qaytib tuşgan va yana miya işemiyasiga sabab bölgan. Keyin işemiya bosimning navbatdagi kötarilişini boşlab bergan. Yana işemiya bartaraf bölgan va yana bosim pasaygan. Orqa miya suyuqligi bosimi yuqoriligiça qolgan vaqt davomida bu javob davriy ravişda takrorlanib turgan.",
+   "lead": "MNT işemik javobining tebranişi."
+  },
+  "ch18-f97": {
+   "text": "Şunday qilib, agar qaytar aloqa kuçi yetarliça katta bölsa va bosim retseptorining qözğalişi bilan undan keyingi bosim javobi örtasida keçikiş bölsa, har qanday refleks bosim boşqaruv mexanizmi tebranişi mumkin. Vazomotor tölqinlar arterial bosimni boşqaruvçi nerv reflekslari mexanik va elektr boşqaruv tizimlariga taalluqli bölgan tamoyillarga böysunişini körsatadi. Masalan, agar samolyot avtopilotining yönaltiruvçi mexanizmida qaytar aloqa kuçaytiriş koeffitsiyenti juda katta bölsa va yönaltiruvçi mexanizmning javob vaqtida keçikiş ham bölsa, samolyot töğri yönalişda uçiş örniga u yoqdan-bu yoqqa tebranadi."
+  }
+ },
+ "figures": {
+  "gh14-fig-18-01": "Qon aylanişini simpatik nerv orqali boşqariş anatomiyasi. Uzuq-uzuq qizil çiziq bilan yurakka parasimpatik signallarni olib boruvçi adaşgan nerv ham körsatilgan.",
+  "gh14-fig-18-02": "Katta qon aylaniş doirasining simpatik innervatsiyasi.",
+  "gh14-fig-18-03": "Boş miyaning qon aylanişini nerv orqali boşqarişda muhim rol öynaydigan sohalari. Uzuq-uzuq çiziqlar tormozlovçi yöllarni ifodalaydi.",
+  "gh14-fig-18-04": "Töliq spinal anesteziyaning arterial bosimga ta’siri: vazomotor tonus yöqolişi natijasida bosimning keskin pasayişi körsatilgan.",
+  "gh14-fig-18-05": "Arterial bosimni boşqaruvçi baroretseptor tizimi.",
+  "gh14-fig-18-06": "Arterial bosimning turli darajalarida baroretseptorlarning faollaşişi. ΔI — karotid sinus nervida sekundiga impulslar sonining özgarişi; ΔP — arterial qon bosimining özgarişi (mm Hg da).",
+  "gh14-fig-18-07": "Ikkala umumiy uyqu arteriyasini qisiş (ikkala adaşgan nerv kesilgandan keyin) natijasida karotid sinus refleksining aorta arterial bosimiga tipik ta’siri.",
+  "gh14-fig-18-08": "Soğlom itda (yuqorida) va xuddi şu itda baroretseptorlar denervatsiya qilingandan bir neça hafta ötgaç (pastda) arterial bosimning ikki soatlik yozuvlari. (Cowley AW Jr, Liard JF, Guyton AC: Role of baroreceptor reflex in daily control of arterial blood pressure and other variables in dogs. Circ Res 32:564, 1973 dan özgartirilgan.)",
+  "gh14-fig-18-09": "Soğlom itda va xuddi şu itda baroretseptorlar denervatsiya qilingandan bir neça hafta ötgaç 24 soatlik davr uçun arterial bosimning çastota taqsimoti egri çiziqlari. (Cowley AW Jr, Liard JP, Guyton AC: Role of baroreceptor reflex in daily control of arterial blood pressure and other variables in dogs. Circ Res 32:564, 1973 dan özgartirilgan.)",
+  "gh14-fig-18-10": "Qon hajmining ortişiga javoban yuzaga keladigan, arterial bosim va bölmaçalar çözilişini oşiruvçi refleks javoblar.",
+  "gh14-fig-18-11": "A — MNT işemik javobining tebranişi tufayli yuzaga keladigan vazomotor tölqinlar. B — baroretseptor refleksining tebranişi tufayli yuzaga keladigan vazomotor tölqinlar."
+ }
+}

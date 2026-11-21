@@ -17,14 +17,14 @@ export function adminRoutes(router, { db, content, config, rootDir }) {
     const l = content.lessonFile(lessonId);
     const status = content.status('lesson', lessonId, l.status);
     const missing = [];
-    if (status !== 'approved') missing.push('Dars tekshiruvchi tomonidan tasdiqlanmagan (status: ' + status + ').');
-    if (!l.blocks.simple.length) missing.push('O’zbekcha izoh yo’q.');
-    if (!l.blocks.full.length) missing.push('Asl manba matni yo’q.');
+    if (status !== 'approved') missing.push('Dars tekşiruvçi tomonidan tasdiqlanmagan (status: ' + status + ').');
+    if (!l.blocks.simple.length) missing.push('Özbekça izoh yöq.');
+    if (!l.blocks.full.length) missing.push('Asl manba matni yöq.');
     const figs = l.figureIds.map((f) => content.figure(f));
     const notIncluded = figs.filter((f) => f.coverage !== 'included');
     if (notIncluded.length) missing.push(`${notIncluded.length} ta rasm avtomatik kesilmagan: ${notIncluded.map((f) => f.figureNumber).join(', ')}.`);
     const unreviewedFigs = figs.filter((f) => content.status('figure', f.imageId, f.reviewStatus) !== 'approved');
-    if (unreviewedFigs.length) missing.push(`${unreviewedFigs.length} ta rasm hali tekshirilmagan.`);
+    if (unreviewedFigs.length) missing.push(`${unreviewedFigs.length} ta rasm hali tekşirilmagan.`);
     const qs = db.prepare(`SELECT q.id, q.status FROM questions q JOIN (SELECT id, MAX(version) v FROM questions GROUP BY id) m ON m.id=q.id AND m.v=q.version WHERE q.lesson_id=?`).all(lessonId);
     const approvedQ = qs.filter((q) => content.status('question', q.id, q.status) === 'approved').length;
     if (approvedQ < 5) missing.push(`Tasdiqlangan test savollari ${approvedQ} ta (kamida 5 ta tavsiya etiladi).`);
@@ -66,7 +66,7 @@ export function adminRoutes(router, { db, content, config, rootDir }) {
   router.get('/api/admin/lessons/:id', ({ user, params }) => {
     guard(user, 'editor', 'reviewer');
     const l = content.lessonFile(params.id);
-    if (!l) throw E.notFound('Bo’lim');
+    if (!l) throw E.notFound('Bölim');
     const figures = l.figureIds.map((f) => ({ ...content.figure(f), reviewStatus: content.status('figure', f, content.figure(f).reviewStatus) }));
     const reviews = db.prepare('SELECT * FROM content_reviews WHERE target_id=? ORDER BY at DESC').all(params.id);
     return { body: { lesson: { id: l.id, titleUz: l.titleUz, titleOriginal: l.titleOriginal, status: content.status('lesson', l.id, l.status), contentVersion: l.contentVersion, translationStatus: l.translationStatus, source: l.source }, figures, gate: publishGate(l.id), reviews } };
@@ -78,9 +78,9 @@ export function adminRoutes(router, { db, content, config, rootDir }) {
       targetType: { type: 'string', required: true, oneOf: ['lesson', 'figure', 'question'] }, targetId: { type: 'string', required: true, max: 60 },
       decision: { type: 'string', required: true, oneOf: ['approve', 'request_changes', 'reject'] }, reason: { type: 'string', max: 1000 },
     });
-    if (d.decision !== 'approve' && !d.reason) throw E.invalid({ reason: 'Qaytarish sababini yozing.' });
+    if (d.decision !== 'approve' && !d.reason) throw E.invalid({ reason: 'Qaytariş sababini yozing.' });
     let version = null;
-    if (d.targetType === 'lesson') { const l = content.lessonFile(d.targetId); if (!l) throw E.notFound('Bo’lim'); version = l.contentVersion; if (content.status('lesson', l.id, l.status) === 'published' && d.decision === 'approve') throw E.conflict('Dars allaqachon nashr etilgan.'); }
+    if (d.targetType === 'lesson') { const l = content.lessonFile(d.targetId); if (!l) throw E.notFound('Bölim'); version = l.contentVersion; if (content.status('lesson', l.id, l.status) === 'published' && d.decision === 'approve') throw E.conflict('Dars allaqaçon naşr etilgan.'); }
     if (d.targetType === 'figure' && !content.figure(d.targetId)) throw E.notFound('Rasm');
     if (d.targetType === 'question' && !db.prepare('SELECT 1 FROM questions WHERE id=?').get(d.targetId)) throw E.notFound('Savol');
     const status = d.decision === 'approve' ? 'approved' : d.decision === 'reject' ? (d.targetType === 'lesson' ? 'changes_requested' : 'rejected') : 'changes_requested';
@@ -94,9 +94,9 @@ export function adminRoutes(router, { db, content, config, rootDir }) {
     guard(user);
     const d = v(body, { lessonId: { type: 'string', required: true, re: /^ch\d{2}$/ } });
     const l = content.lessonFile(d.lessonId);
-    if (!l) throw E.notFound('Bo’lim');
+    if (!l) throw E.notFound('Bölim');
     const gate = publishGate(l.id);
-    if (gate.blocking.length) return { status: 409, body: { code: 'publish_gate', message: 'Nashrdan oldin quyidagilar bajarilishi kerak.', missing: gate.missing } };
+    if (gate.blocking.length) return { status: 409, body: { code: 'publish_gate', message: 'Naşrdan oldin quyidagilar bajarilişi kerak.', missing: gate.missing } };
     setState(user, 'lesson', l.id, 'published', l.contentVersion);
     audit(user, 'lesson.publish', `lesson:${l.id}`, { version: l.contentVersion, warnings: gate.missing });
     return { body: { status: 'published', warnings: gate.missing } };
@@ -105,7 +105,7 @@ export function adminRoutes(router, { db, content, config, rootDir }) {
   router.post('/api/admin/archive', ({ user, body }) => {
     guard(user);
     const d = v(body, { lessonId: { type: 'string', required: true, re: /^ch\d{2}$/ } });
-    if (!content.lessonFile(d.lessonId)) throw E.notFound('Bo’lim');
+    if (!content.lessonFile(d.lessonId)) throw E.notFound('Bölim');
     setState(user, 'lesson', d.lessonId, 'archived');
     audit(user, 'lesson.archive', `lesson:${d.lessonId}`);
     return { body: { status: 'archived' } };
@@ -117,7 +117,7 @@ export function adminRoutes(router, { db, content, config, rootDir }) {
     const roles = d.roles.split(',').map((s) => s.trim()).filter(Boolean);
     if (!roles.every((r) => ['student', 'editor', 'reviewer', 'admin'].includes(r))) throw E.invalid({ roles: 'student, editor, reviewer, admin' });
     const r = db.prepare('UPDATE users SET roles=? WHERE email=?').run(JSON.stringify(roles), d.email.toLowerCase());
-    if (!r.changes) throw E.notFound('Foydalanuvchi');
+    if (!r.changes) throw E.notFound('Foydalanuvçi');
     audit(user, 'user.roles', d.email, { roles });
     return { body: { ok: true } };
   });
@@ -127,13 +127,13 @@ export function adminRoutes(router, { db, content, config, rootDir }) {
   let running = null;
   router.post('/api/admin/imports', ({ user }) => {
     guard(user);
-    if (running) return { status: 409, body: { code: 'job_running', message: 'Import allaqachon ishlayapti.', jobId: running } };
+    if (running) return { status: 409, body: { code: 'job_running', message: 'Import allaqaçon işlayapti.', jobId: running } };
     const need = { BOOK_PDF_PATH: config.bookPdfPath, GUYTON_NOTES_DIR: config.notesDir, UI_TOPICS_JSON: config.uiTopicsJson };
     const missing = Object.entries(need).filter(([, val]) => !val || !fs.existsSync(val)).map(([k]) => k);
     const jid = id('job_');
     if (missing.length) {
       db.prepare('INSERT INTO import_jobs (id, kind, status, detail, created_by, created_at, finished_at) VALUES (?,?,?,?,?,?,?)').run(jid, 'book', 'failed', `Sozlanmagan: ${missing.join(', ')}`, user.id, nowIso(), nowIso());
-      return { status: 422, body: { code: 'import_not_configured', message: `Import uchun .env da sozlang: ${missing.join(', ')}`, jobId: jid } };
+      return { status: 422, body: { code: 'import_not_configured', message: `Import uçun .env da sozlang: ${missing.join(', ')}`, jobId: jid } };
     }
     db.prepare('INSERT INTO import_jobs (id, kind, status, created_by, created_at) VALUES (?,?,?,?,?)').run(jid, 'book', 'processing', user.id, nowIso());
     running = jid;

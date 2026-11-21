@@ -6,7 +6,7 @@ export function h(tag, attrs = {}, ...children) {
     for (const [k, v] of Object.entries(attrs)) {
       if (v === undefined || v === null || v === false) continue;
       if (k === 'class') el.className = v;
-      else if (k === 'style' && typeof v === 'object') Object.assign(el.style, v);
+      else if (k === 'style' && typeof v === 'object') { for (const [sk, sv] of Object.entries(v)) { if (sk.startsWith('--')) el.style.setProperty(sk, sv); else el.style[sk] = sv; } }
       else if (k.startsWith('on') && typeof v === 'function') el.addEventListener(k.slice(2).toLowerCase(), v);
       else if (k === 'html') throw new Error('raw html not allowed');
       else if (v === true) el.setAttribute(k, '');
@@ -157,11 +157,11 @@ export function modal({ title, body, actions = [] }) {
     (box.querySelector('input,textarea,button.primary') || box.querySelector('button'))?.focus();
   });
 }
-export const confirmBox = (title, body, okLabel = 'Ha', danger = false) => modal({ title, body, actions: [{ label: 'Bekor qilish', value: false }, { label: okLabel, value: true, primary: !danger, danger }] });
+export const confirmBox = (title, body, okLabel = 'Ha', danger = false) => modal({ title, body, actions: [{ label: 'Bekor qiliş', value: false }, { label: okLabel, value: true, primary: !danger, danger }] });
 
 export function promptBox(title, label, value = '') {
   const input = h('input', { id: 'pb', value, maxlength: 60 });
-  return modal({ title, body: h('div', { class: 'field' }, h('label', { for: 'pb' }, label), input), actions: [{ label: 'Bekor qilish', value: null }, { label: 'Saqlash', value: 'ok', primary: true }] })
+  return modal({ title, body: h('div', { class: 'field' }, h('label', { for: 'pb' }, label), input), actions: [{ label: 'Bekor qiliş', value: null }, { label: 'Saqlaş', value: 'ok', primary: true }] })
     .then((r) => (r === 'ok' ? input.value.trim() : null));
 }
 
@@ -172,8 +172,8 @@ export function skeleton(lines = 4) {
 export function errorBox(err, retry) {
   return h('div', { class: 'card pad empty', role: 'alert' }, icon('alert'),
     h('p', {}, err?.message || 'Xato yuz berdi.'),
-    err?.status === 0 ? h('p', { class: 'small' }, 'Internet aloqasini tekshiring.') : null,
-    retry ? h('button', { class: 'btn primary', type: 'button', onclick: retry }, icon('refresh'), 'Qayta urinish') : null);
+    err?.status === 0 ? h('p', { class: 'small' }, 'Internet aloqasini tekşiring.') : null,
+    retry ? h('button', { class: 'btn primary', type: 'button', onclick: retry }, icon('refresh'), 'Qayta uriniş') : null);
 }
 
 export function emptyBox(iconName, title, text, action) {

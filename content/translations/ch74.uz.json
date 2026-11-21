@@ -1,0 +1,405 @@
+{
+ "lessonId": "ch74",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 74,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "manual",
+ "translator": "Claude (DrStudy sessiyasi)",
+ "model": null,
+ "createdAt": "2026-11-20T07:41:40.371Z",
+ "updatedAt": "2026-11-20T07:41:40.378Z",
+ "coverage": {
+  "translated": 126,
+  "total": 126
+ },
+ "note": "Kitob matnining töliq özbekça tarjimasi (qisqartirilmagan). Ekspert tekşiruvidan ötmagan.",
+ "blocks": {
+  "ch74-f0": {
+   "text": "TANANING ME’YORIY HARORATI"
+  },
+  "ch74-f1": {
+   "text": "Organizm çuqur töqimalarining — tana “yadrosi”ning harorati, odam isitmali kasallik bilan oğrigan hollardan taşqari, odatda ±0,6°C (±1°F) oraliğida juda doimiy saqlanadi. Haqiqatan ham, yalanğoç odam _quruq_ havoda 13°C (55°F) gaça past yoki 54°C (130°F) gaça yuqori haroratga duç kelganda ham yadro haroratini deyarli doimiy saqlay oladi. Tana haroratini boşqariş mexanizmlari ajoyib tarzda tuzilgan boşqaruv tizimini ifodalaydi. Bu bobda biz bu tizimning soğlom holatda va kasallikda qanday işlaşini muhokama qilamiz.",
+   "lead": "Tana içki (yadro) harorati va teri harorati."
+  },
+  "ch74-f2": {
+   "text": "_Teri harorati_ esa _yadro haroratidan_ farqli ravişda atrof-muhit harorati bilan birga köteriladi va pasayadi. Terining atrof-muhitga issiqlik beriş qobiliyati haqida gapirganda teri harorati muhim."
+  },
+  "ch74-f3": {
+   "text": "Heç bir yagona yadro haroratini me’yoriy deb hisoblab bölmaydi, çunki köplab soğlom odamlarda ötkazilgan ölçovlar **Rasm 74-1** da körsatilganidek, oğizda ölçangan me’yoriy haroratlarning 36°C (97°F) dan pastdan 37,5°C (99,5°F) dan yuqorigaça bölgan _oraliğini_ körsatgan. Örtaça me’yoriy yadro harorati odatda oğizda ölçanganda 36,7–37,0°C (98,0–98,6°F) oraliğida, töğri içakda ölçanganda esa taxminan 0,6°C (1°F) yuqori deb hisoblanadi.",
+   "lead": "Me’yoriy yadro harorati."
+  },
+  "ch74-f5": {
+   "text": "Haroratni boşqariş mexanizmlari mukammal bölmagani uçun tana harorati jismoniy yuklama paytida ortadi va atrof-muhitning haddan taşqari haroratlariga qarab özgaradi. Kuçli jismoniy yuklama tufayli organizmda ortiqça issiqlik hosil bölganda harorat vaqtinça 38,3–40°C (101–104°F) gaça köterilişi mumkin. Aksinça, organizm qattiq sovuqqa duç kelganda harorat 35,5°C (96°F) dan pastga tuşişi mumkin."
+  },
+  "ch74-f6": {
+   "text": "TANA HARORATI ISSIQLIK HOSIL BÖLIŞI VA ISSIQLIK YÖQOTILIŞINI MUVOZANATLAŞ ORQALI BOŞQARILADI"
+  },
+  "ch74-f7": {
+   "text": "Organizmda issiqlik hosil böliş tezligi issiqlik yöqotiliş tezligidan katta bölganda organizmda issiqlik töplanadi va tana harorati köteriladi. Aksinça, issiqlik yöqotiliş köproq bölganda tana issiqligi ham, tana harorati ham pasayadi. Bu bobning qolgan qismining köp qismi issiqlik hosil bölişi va issiqlik yöqotilişi örtasidagi şu muvozanatga hamda organizm bu hosil böliş va yöqotilişni boşqaradigan mexanizmlarga bağişlangan."
+  },
+  "ch74-f8": {
+   "text": "Issiqlik hosil bölişi metabolizmning asosiy qöşimça mahsulotidir. Organizm energetikasini umumlaştiruvçi 73-bobda _organizmning metabolizm tezligi_ deb ataladigan issiqlik hosil böliş tezligini belgilaydigan turli omillarni muhokama qilganmiz. Bu omillarning eng muhimlari bu yerda yana sanab ötiladi: (1) organizmdagi barça hujayralarning bazal metabolizm tezligi; (2) muskul faolligi, jumladan titraş tufayli yuzaga keladigan muskul qisqarişlari keltirib çiqaradigan qöşimça metabolizm tezligi; (3) tiroksinning (va kamroq darajada ösiş gormoni va testosteron kabi boşqa gormonlarning) hujayralarga ta’siri keltirib çiqaradigan qöşimça metabolizm; (4) epinefrin, norepinefrin va simpatik qözğalişning hujayralarga ta’siri keltirib çiqaradigan qöşimça metabolizm; (5) hujayralardagi kimyoviy faollikning, ayniqsa hujayra harorati köterilganda ortişi keltirib çiqaradigan qöşimça metabolizm; va (6) ovqatni hazm qiliş, sörib oliş va zaxiralaş uçun zarur qöşimça metabolizm (ovqatning termogen ta’siri)."
+  },
+  "ch74-f9": {
+   "text": "Organizmda hosil böladigan issiqlikning köp qismi çuqur a’zolarda, ayniqsa jigar, miya va yurakda, jismoniy faollik paytida esa skelet muskullarida hosil böladi. Söngra bu issiqlik çuqur a’zolar va töqimalardan teriga uzatiladi va u yerda havoga hamda boşqa atrof-muhitga yöqotiladi. Şuning uçun issiqlik yöqotiliş tezligi deyarli töliq ikki omil bilan belgilanadi: (1) issiqlik tana yadrosida hosil bölgan joyidan teriga qança tez ötkazilişi mumkinligi va (2) söngra issiqlik teridan atrof-muhitga qança tez uzatilişi mumkinligi. Keling, yadroni teri yuzasidan izolyatsiya qiladigan tizimni muhokama qilişdan boşlaylik."
+  },
+  "ch74-f10": {
+   "text": "Organizmning izolyatsiya tizimi"
+  },
+  "ch74-f11": {
+   "text": "Teri, teri osti töqimalari va ayniqsa teri osti töqimalaridagi yoğ birgalikda organizm uçun issiqlik izolyatori vazifasini bajaradi. Yoğ muhim, çunki u issiqlikni boşqa töqimalarga qaraganda atigi _uçdan bir_ marta yaxşi ötkazadi. Isigan içki a’zolardan teriga qon oqmaganda me’yoriy erkak tanasining izolyatsiya xususiyatlari odatiy kostyum-şimning izolyatsiya xususiyatlarining taxminan tördan uç qismiga teng. Ayollarda bu izolyatsiya bundan ham yaxşiroq."
+  },
+  "ch74-f12": {
+   "text": "Teri ostidagi izolyatsiya teri haroratining atrof-muhit haroratiga yaqinlaşişiga yöl qöysa ham, me’yoriy içki yadro haroratini saqlaşning samarali vositasidir."
+  },
+  "ch74-f13": {
+   "text": "Tana yadrosidan teriga qon oqimi issiqlik uzatilişini ta’minlaydi"
+  },
+  "ch74-f14": {
+   "text": "Teri ostida qon tomirlari köp miqdorda taqsimlangan. **Rasm 74-2** da körsatilgan, teri kapillyarlaridan keladigan qon bilan ta’minlanadigan uzluksiz venoz çigal ayniqsa muhim. Tananing eng oçiq sohalarida — qöllar, oyoqlar va quloqlarda — çigalga qon kiçik arteriyalardan kuçli muskulli _arteriovenoz anastomozlar_ orqali bevosita ham keladi."
+  },
+  "ch74-f16": {
+   "text": "Teri venoz çigaliga qon oqimi tezligi juda keng oraliqda — noldan zörğa yuqoridan yurakning umumiy daqiqalik hajmining 30% igaça özgarişi mumkin. Teri qon oqimining yuqori tezligi issiqlikning tana yadrosidan teriga juda samarali ötkazilişiga sabab böladi, teri qon oqimi tezligining kamayişi esa yadrodan issiqlik ötkazilişini juda kam darajagaça pasaytirişi mumkin."
+  },
+  "ch74-f17": {
+   "text": "**Rasm 74-3** atrof-muhit havosi haroratining issiqlikning yadrodan teri yuzasiga, söngra havoga ötkazilişiga ta’sirini miqdoriy körsatadi: töliq vazokonstriksiya holati va töliq vazodilatatsiya holati örtasida issiqlik ötkazuvçanligi taxminan sakkiz barobar ortadi."
+  },
+  "ch74-f19": {
+   "text": "Şunday qilib, teri samarali _boşqariladigan “issiqlik radiatori” tizimidir_ va teriga qon oqimi issiqlikni tana yadrosidan teriga uzatişning eng samarali mexanizmidir."
+  },
+  "ch74-f20": {
+   "text": "Qon orqali teriga issiqlik ötkazilişi terining venoz çigalini qon bilan ta’minlaydigan arteriolalar va arteriovenoz anastomozlarning vazokonstriksiya darajasi bilan boşqariladi. Bu vazokonstriksiya tana yadrosi harorati va atrof-muhit harorati özgarişlariga javoban deyarli töliq simpatik nerv tizimi tomonidan boşqariladi. Bu bobning keyingi qismida tana haroratining gipotalamus tomonidan boşqarilişi munosabati bilan muhokama qilinadi.",
+   "lead": "Teriga issiqlik ötkazilişining simpatik nerv tizimi tomonidan boşqarilişi."
+  },
+  "ch74-f21": {
+   "text": "Teri yuzasidan issiqlik yöqotilişining asosiy fizikasi"
+  },
+  "ch74-f22": {
+   "text": "Issiqlikning teridan atrof-muhitga yöqotilişining turli usullari **Rasm 74-4** da körsatilgan. Ularga _nurlaniş, ötkazuvçanlik_ (konduksiya) va _buğlanişi_ kiradi; ular quyida tuşuntiriladi."
+  },
+  "ch74-f24": {
+   "text": "**Rasm 74-4** da körsatilganidek, me’yoriy xona haroratida xona içida ötirgan yalanğoç odamda umumiy issiqlik yöqotilişining taxminan 60% i nurlaniş orqali yuz beradi.",
+   "lead": "Nurlaniş infraqizil nurlar şaklida issiqlik yöqotilişiga sabab böladi."
+  },
+  "ch74-f25": {
+   "text": "Organizmdan nurlanadigan infraqizil issiqlik nurlarining (elektromagnit nurlarning bir turi) köpçiligining tölqin uzunligi 5 dan"
+  },
+  "ch74-f26": {
+   "text": "20 mikrometrgaça bölib, bu yoruğlik nurlari tölqin uzunligidan 10–30 barobar katta. Absolyut nol haroratda bölmagan barça jismlar şunday nurlar taratadi. Inson tanasi issiqlik nurlarini barça yönalişlarda taratadi. Xona devorlari va boşqa jismlardan ham tanaga qarab issiqlik nurlari taraladi. Agar tana harorati atrof-muhit haroratidan yuqori bölsa, tanaga taraladigan issiqlikka qaraganda tanadan köproq issiqlik taraladi."
+  },
+  "ch74-f27": {
+   "text": "**Rasm 74-4** da körsatilganidek, me’yorda organizmdan tana yuzasidan stul yoki töşak kabi _qattiq jismlarga_ bevosita ötkazuvçanlik orqali juda oz miqdorda — taxminan 3% issiqlik yöqotiladi. Biroq _havoga ötkazuvçanlik_ orqali issiqlik yöqotiliş hatto me’yoriy şaroitda ham organizm issiqlik yöqotilişining katta ulişini (≈15%) taşkil etadi.",
+   "lead": "Ötkazuvçanlik orqali issiqlik yöqotiliş jism bilan bevosita tegiş orqali yuz beradi."
+  },
+  "ch74-f28": {
+   "text": "Issiqlik aslida molekulalar harakatining kinetik energiyasi bölib, teri molekulalari doimiy tebraniş harakatida böladi. Agar havo teridan sovuqroq bölsa, bu harakat energiyasining köp qismi havoga uzatilişi va havo molekulalari harakati tezligini oşirişi mumkin. Teriga tutaş havo harorati teri haroratiga tenglaşgaç, bu yöl bilan issiqlik yöqotiliş töxtaydi, çunki endi havodan tanaga teng miqdorda issiqlik ötkaziladi. Şuning uçun issiqlikning tanadan havoga ötkazilişi _isigan havo teridan uzoqlaşmasa_ öz-özidan çeklanadi; isigan havo uzoqlaşganda esa teriga doimiy ravişda yangi, isimagan havo tegib turadi — bu hodisa _havo konveksiyasi_ deb ataladi."
+  },
+  "ch74-f29": {
+   "text": "Teridagi issiqlik avval havoga _ötkaziladi_, söngra konveksion havo oqimlari bilan olib ketiladi.",
+   "lead": "Konveksiya orqali issiqlik yöqotiliş havo harakati natijasida yuz beradi."
+  },
+  "ch74-f30": {
+   "text": "Teriga tutaş havo isiganda yuqoriga köterilişga moyil bölgani uçun tana atrofida deyarli har doim ozgina konveksiya yuz beradi. Şuning uçun sezilarli havo harakati bölmagan qulay xonada ötirgan yalanğoç odamda umumiy issiqlik yöqotilişining taxminan 15% i havoga ötkazuvçanlik va söngra havo konveksiyasi orqali tanadan uzoqlaşiş yöli bilan yuz beradi."
+  },
+  "ch74-f31": {
+   "text": "Tana şamolga duç kelganda teriga bevosita tutaş havo qatlami me’yordagidan ança tez yangi havo bilan almaşadi va konveksiya orqali issiqlik yöqotiliş mos ravişda ortadi. Past tezliklarda şamolning sovutuvçi ta’siri taxminan _şamol tezligining kvadrat ildiziga_ mutanosib. Masalan, soatiga 4 milya tezlikdagi şamol soatiga 1 milya tezlikdagi şamolga qaraganda sovutişda taxminan ikki barobar samaraliroq.",
+   "lead": "Şamolning sovutuvçi ta’siri."
+  },
+  "ch74-f32": {
+   "text": "Suvning solişturma issiqlik siğimi havonikidan bir neça ming barobar katta, şuning uçun teriga tutaş suvning har bir birlik qismi havoga qaraganda ança köp issiqlik yuta oladi. Bundan taşqari, suvning issiqlik ötkazuvçanligi havonikiga nisbatan juda yuqori. Natijada tana havodagi kabi “izolyatsiya zonasi” hosil qiliş uçun tanaga tutaş yupqa suv qatlamini isita olmaydi. Şuning uçun agar suv harorati tana haroratidan past bölsa, suvga issiqlik yöqotiliş tezligi odatda havoga issiqlik yöqotiliş tezligidan köp barobar yuqori böladi.",
+   "lead": "Suvda turgan odamdan issiqlikning ötkazuvçanlik va konveksiya orqali yöqotilişi."
+  },
+  "ch74-f33": {
+   "text": "Tana yuzasidan suv buğlanganda har bir gramm buğlangan suv uçun 0,58 Kaloriya (kilokaloriya) issiqlik yöqotiladi. Odam terlamayotgan bölsa ham suv teri va öpkalardan kuniga taxminan 600–700 ml tezlikda _sezilmasdan_ buğlanadi. Bu sezilmas buğlaniş soatiga 16–19 Kaloriya tezlikda doimiy issiqlik yöqotilişiga sabab böladi. Teri va öpkalar orqali sezilmas buğlanişni haroratni boşqariş maqsadida nazorat qilib bölmaydi, çunki u suv molekulalarining teri va nafas yuzalari orqali doimiy diffuziyasi natijasidir. Biroq _ter buğlanişi_ orqali issiqlik yöqotilişini terlaş tezligini boşqariş orqali nazorat qiliş mumkin; bu bobning keyingi qismida muhokama qilinadi."
+  },
+  "ch74-f34": {
+   "text": "Teri harorati atrof-muhit haroratidan yuqori ekan, issiqlik nurlaniş va ötkazuvçanlik orqali yöqotilişi mumkin. Biroq atrof-muhit harorati teri haroratidan yuqori bölganda organizm issiqlik yöqotiş örniga nurlaniş va ötkazuvçanlik orqali issiqlik oladi. Bu şaroitda _organizmning issiqlikdan xalos bölişining yagona yöli — buğlaniş_.",
+   "lead": "Juda yuqori havo haroratida buğlaniş zarur sovutiş mexanizmidir."
+  },
+  "ch74-f35": {
+   "text": "Şuning uçun atrof-muhit harorati teri haroratidan yuqori bölganda yetarli buğlanişga tösqinlik qiladigan har qanday narsa tananing içki harorati köterilişiga sabab böladi. Bu hodisa ba’zan ter bezlari tuğma bölmagan odamlarda kuzatiladi. Bu odamlar sovuq haroratga me’yoriy odamlar kabi çiday oladi, ammo tropik zonalarda kuçli stressga tuşib, issiqlik urişidan ölişi mumkin, çunki buğlanişli sovutiş tizimi bölmagani uçun havo harorati tana haroratidan yuqori bölganda tana harorati köterilişining oldini ola olmaydi."
+  },
+  "ch74-f36": {
+   "text": "Kiyim teriga tutaş havoni mato töqimasi içida uşlab qoladi va şu bilan teriga tutaş havoning “şaxsiy zona” deb ataladigan",
+   "lead": "Kiyim ötkazuvçanlik va konveksiya orqali issiqlik yöqotilişini kamaytiradi."
+  },
+  "ch74-f37": {
+   "text": "qatlamining qalinligini oşiradi hamda konvektiv havo oqimlarini kamaytiradi. Natijada organizmdan ötkazuvçanlik va konveksiya orqali issiqlik yöqotiliş tezligi keskin pasayadi. Odatiy kiyim-boş issiqlik yöqotiliş tezligini yalanğoç tanadagining taxminan yarmigaça kamaytiradi, arktika tipidagi kiyim esa bu issiqlik yöqotilişni oltidan bir qismigaça kamaytirişi mumkin."
+  },
+  "ch74-f38": {
+   "text": "Teridan kiyimga uzatiladigan issiqlikning taxminan yarmi oradagi kiçik bösliq orqali ötkazilmasdan, kiyimga nurlaniş orqali uzatiladi. Şuning uçun kiyimning içki tomonini nurlanadigan issiqlikni tanaga qaytaradigan kumuş yoki oltin kabi metallning yupqa qatlami bilan qoplaş kiyimning izolyatsiya xususiyatlarini ança samaraliroq qiladi. Bu usuldan foydalanib, arktikada kiyiladigan kiyimning vaznini taxminan yarmigaça kamaytiriş mumkin."
+  },
+  "ch74-f39": {
+   "text": "Kiyim höl bölganda uning tana haroratini saqlaşdagi samaradorligi deyarli töliq yöqoladi, çunki suvning yuqori ötkazuvçanligi mato orqali issiqlik uzatiliş tezligini 20 barobar va undan köp oşiradi. Şuning uçun arktika hududlarida organizmni sovuqdan himoya qilişning eng muhim omillaridan biri — kiyimning höl bölişiga yöl qöymaslik uçun ğoyat ehtiyotkorlik. Haqiqatan ham, hatto vaqtinça ham haddan taşqari qizib ketmaslikka ehtiyot böliş kerak, çunki kiyim içida terlaş uni keyinçalik izolyator sifatida ança kam samarali qiladi."
+  },
+  "ch74-f40": {
+   "text": "Terlaş va uning vegetativ nerv tizimi tomonidan boşqarilişi"
+  },
+  "ch74-f41": {
+   "text": "Miyadagi oldingi gipotalamus–preoptik sohani elektr toki yoki ortiqça issiqlik bilan qözğatiş terlaşga sabab böladi. Bu sohadan terlaşni keltirib çiqaradigan nerv impulslari vegetativ yöllar orqali orqa miyaga, söngra simpatik çiquvçi yöllar orqali teriga uzatiladi."
+  },
+  "ch74-f42": {
+   "text": "61-bobdagi vegetativ nerv tizimi muhokamasidan esga oling: ter bezlari _xolinergik_ nerv tolalari (atsetilxolin ajratadigan, ammo adrenergik tolalar bilan birga simpatik nervlar tarkibida ötadigan tolalar) bilan innervatsiyalanadi. Bu bezlarning özida adrenergik innervatsiya bölmasa-da, ularni qonda aylanib yurgan epinefrin yoki norepinefrin ham ma’lum darajada qözğatişi mumkin. Bu mexanizm jismoniy yuklama paytida muhim: bu vaqtda bu gormonlar buyrak usti bezlari mağiz qavati tomonidan ajraladi va organizm faol muskullar hosil qilgan ortiqça issiqlikni yöqotişi kerak böladi."
+  },
+  "ch74-f43": {
+   "text": "**Rasm 74-5** da ter bezi ikki qismdan iborat naysimon tuzilma sifatida körsatilgan: (1) terni ajratadigan çuqur, derma ostidagi _buralgan qism_ va (2) terining dermasi va epidermisi orqali taşqariga çiqadigan _yöl qismi_. Köplab boşqa bezlardagi kabi ter bezining sekretor qismi _birlamçi sekret_ yoki _dastlabki sekret_ deb ataladigan suyuqlik ajratadi; söngra suyuqlik yöl orqali oqayotganda undagi tarkibiy qismlar konsentratsiyasi özgaradi.",
+   "lead": "Ter ajraliş mexanizmi."
+  },
+  "ch74-f45": {
+   "text": "Dastlabki sekret ter bezining buralgan qismini qoplab turgan epiteliy hujayralarining faol sekretor mahsulotidir. Bez hujayralarida yoki ularning yaqinida tugaydigan xolinergik simpatik nerv tolalari bu sekretsiyani yuzaga keltiradi."
+  },
+  "ch74-f46": {
+   "text": "Dastlabki sekret tarkibi plazmanikiga öxşaydi, faqat unda plazma oqsillari bölmaydi. Natriy konsentratsiyasi taxminan 142 mEkv/l, xloridniki taxminan 104 mEkv/l, plazmaning boşqa erigan moddalari konsentratsiyasi esa ança past. Bu dastlabki eritma bezning yöl qismi orqali oqayotganda natriy va xlorid ionlarining köp qismining reabsorbsiyasi tufayli özgaradi. Bu reabsorbsiya darajasi terlaş tezligiga boğliq."
+  },
+  "ch74-f47": {
+   "text": "Ter bezlari faqat ozgina qözğatilganda dastlabki suyuqlik yöl orqali sekin ötadi. Bu holda deyarli barça natriy va xlorid ionlari reabsorbsiyalanadi va ularning har birining konsentratsiyasi 5 mEkv/l gaça tuşadi. Bu jarayon ter suyuqligining osmotik bosimini şunça past darajagaça kamaytiradiki, suvning köp qismi ham reabsorbsiyalanadi va bu boşqa tarkibiy qismlarning köpçiligini konsentrlaydi. Şuning uçun terlaşning past tezliklarida moçevina, sut kislotasi va kaliy ionlari kabi tarkibiy qismlar odatda juda konsentrlangan böladi."
+  },
+  "ch74-f48": {
+   "text": "Aksinça, ter bezlari simpatik nerv tizimi tomonidan kuçli qözğatilganda köp miqdorda dastlabki sekret hosil böladi va yöl natriy xloridning yarmidan sal köproğinigina reabsorbsiyalay oladi; natijada natriy va xlorid ionlarining konsentratsiyasi (_moslaşmagan_ odamda) maksimal taxminan 50–60 mEkv/l ni, ya’ni plazmadagi konsentratsiyalarning yarmidan biroz kamini taşkil etadi. Bundan taşqari, ter bez naylari orqali şunça tez oqadiki, suvning oz qismi reabsorbsiyalanadi. Şuning uçun terning boşqa erigan tarkibiy qismlari konsentratsiyasi faqat örtaça ortadi: moçevina plazmadagidan taxminan 2 barobar, sut kislotasi taxminan 4 barobar va kaliy taxminan 1,2 barobar köp böladi."
+  },
+  "ch74-f49": {
+   "text": "Odam issiqqa moslaşmagan bölganda ter bilan sezilarli miqdorda natriy xlorid yöqotiladi. Odam moslaşgaçdan keyin terlaş qobiliyati ortganiga qaramay, elektrolitlar ança kam yöqotiladi."
+  },
+  "ch74-f50": {
+   "text": "Me’yoriy, moslaşmagan odam kamdan-kam soatiga taxminan 1 litrdan köp ter ajratsa-da, bu odam 1–6 hafta davomida issiq havoga duç kelganda köproq terlay boşlaydi va köpinça maksimal ter ajratişni soatiga 2–3 l gaça oşiradi. Bunça terning buğlanişi organizmdan issiqlikni me’yoriy bazal issiqlik hosil böliş tezligidan _10 barobardan köproq_ tezlikda çiqarişi mumkin. Terlaş mexanizmining bu samaradorligi ortişi ter bezi hujayralarining terlaş qobiliyatini oşiradigan içki özgarişlar tufayli yuzaga keladi.",
+   "lead": "Terlaş mexanizmining issiqqa moslaşuvi — aldosteronning roli."
+  },
+  "ch74-f51": {
+   "text": "Moslaşuv bilan birga terdagi natriy xlorid konsentratsiyasi yanada kamayadi, bu esa organizmdagi tuzni tobora yaxşiroq saqlab qolişga imkon beradi. Bu ta’sirning köp qismi hujayradan taşqari suyuqlik va plazmada natriy xlorid konsentratsiyasining biroz pasayişi natijasida buyrak usti bezlari pöstloği tomonidan _aldosteron sekretsiyasining ortişi_ bilan boğliq. Köp terlaydigan _moslaşmagan_ odam dastlabki bir neça kunda köpinça har kuni 15–30 gramm tuz yöqotadi. 4–6 haftalik moslaşuvdan keyin yöqotiş odatda kuniga 3–5 g ni taşkil etadi."
+  },
+  "ch74-f52": {
+   "text": "Köplab hayvonlarning tana yuzasidan issiqlik yöqotiş qobiliyati ikki sababga köra past: (1) tana yuzasi köpinça jun bilan qoplangan va (2) köpçilik hayvonlarning terisida ter bezlari bölmaydi, bu esa teridan buğlaniş orqali issiqlik yöqotilişining köp qismiga tösqinlik qiladi. Köplab hayvonlar issiqlikni tarqatiş vositasi sifatida örinbosar mexanizm — _hansiraş_ (tez-tez yuzaki nafas oliş) mexanizmidan foydalanadi."
+  },
+  "ch74-f53": {
+   "text": "Hansiraş hodisasini miyaning termoregulyator markazlari “yoqadi”. Ya’ni qon haddan taşqari qizib ketganda gipotalamus tana haroratini pasaytiriş uçun neyrogen signallarni boşlab beradi. Bu signallardan biri hansiraşni boşlaydi. Hansiraşning haqiqiy jarayoni Varoliy köprigida joylaşgan pnevmotaksik nafas markazi bilan boğliq _hansiraş markazi_ tomonidan boşqariladi."
+  },
+  "ch74-f54": {
+   "text": "Hayvon hansiraganda tez-tez nafas olib çiqaradi va natijada taşqaridan köp miqdorda yangi havo nafas yöllarining yuqori qismlariga tegadi. Bu mexanizm şilliq qavat yuzalaridan suvning buğlanişi, ayniqsa tildan sölakning buğlanişi natijasida nafas yöllari şilliq qavatidagi qonni sovutadi. Şunga qaramay, hansiraş alveolyar ventilyatsiyani qon gazlarini tegişliça boşqariş uçun zarur bölganidan köp oşirmaydi, çunki har bir nafas juda yuzaki; şuning uçun alveolalarga kiradigan havoning köp qismi atmosferadan emas, asosan traxeyadan keladigan ölik bösliq havosidir."
+  },
+  "ch74-f55": {
+   "text": "TANA HARORATINING BOŞQARILIŞI — GIPOTALAMUSNING ROLI"
+  },
+  "ch74-f56": {
+   "text": "**Rasm 74-6** yalanğoç odam bir neça soat davomida −1°C dan 71°C gaça (30–160°F) bölgan _quruq_ havoga duç kelgandan keyin tana “yadrosi” harorati qanday özgarişini körsatadi. Bu egri çiziqning aniq ölçamlari havodagi şamol harakatiga, havodagi namlik miqdoriga va hatto atrof-muhitning tabiatiga boğliq. Umuman olganda, 13–54°C (55–130°F) oraliğidagi quruq havoda yalanğoç odam tana yadrosining me’yoriy haroratini taxminan 36–38°C (97–100°F) oraliğida saqlay oladi."
+  },
+  "ch74-f58": {
+   "text": "Tana harorati deyarli töliq nerv teskari aloqa mexanizmlari orqali boşqariladi va bu mexanizmlarning deyarli hammasi _gipotalamusda_ joylaşgan _haroratni boşqaruvçi markazlar_ orqali işlaydi. Bu teskari aloqa mexanizmlari işlaşi uçun tana harorati haddan taşqari yuqori yoki past bölganini aniqlaydigan harorat sezgiçlari ham bölişi kerak."
+  },
+  "ch74-f59": {
+   "text": "HARORATNI TERMOSTATIK ANIQLAŞDA OLDINGI GIPOTALAMUS–PREOPTIK SOHANING ROLI"
+  },
+  "ch74-f60": {
+   "text": "Oldingi gipotalamus–preoptik sohada köp sonli issiqqa sezgir neyronlar, şuningdek ulardan taxminan uç barobar kam sovuqqa sezgir neyronlar bor. Bu neyronlar tana haroratini boşqariş uçun harorat sezgiçlari vazifasini bajaradi, deb hisoblanadi. Issiqqa sezgir neyronlar tana haroratining 10°C ga ortişiga javoban razryadlaniş tezligini 2–10 barobar oşiradi. Sovuqqa sezgir neyronlar esa, aksinça, tana harorati pasayganda razryadlaniş tezligini oşiradi."
+  },
+  "ch74-f61": {
+   "text": "Preoptik soha isitilganda butun tana terisida darhol köp ter çiqadi, butun tana bö’ylab teri qon tomirlari esa keskin kengayadi. Bu javob organizmni issiqlik yöqotişga majbur qiladigan va şu bilan tana haroratini me’yoriy darajaga qaytarişga yordam beradigan darhol reaksiyadir. Bundan taşqari, organizmda ortiqça issiqlik hosil bölişi tormozlanadi. Demak, gipotalamus–preoptik soha tana haroratini termostatik boşqaruv markazi bölib xizmat qiliş qobiliyatiga ega ekani aniq."
+  },
+  "ch74-f62": {
+   "text": "HARORATNING TERI VA TANA ÇUQUR TÖQIMALARIDAGI RETSEPTORLAR TOMONIDAN ANIQLANIŞI"
+  },
+  "ch74-f63": {
+   "text": "Gipotalamusning harorat retseptorlari hosil qiladigan signallar tana haroratini boşqarişda juda kuçli bölsa-da, tananing boşqa qismlaridagi retseptorlar ham haroratni boşqarişda qöşimça rol öynaydi. Bu ayniqsa teridagi va tananing bir neça maxsus çuqur töqimalaridagi harorat retseptorlariga taalluqli."
+  },
+  "ch74-f64": {
+   "text": "49-bobdagi sezgi retseptorlari muhokamasidan esga oling: terida ham _sovuq_, ham _issiqlik_ retseptorlari bor. Terida sovuq retseptorlari issiqlik retseptorlaridan ança köp — aslida terining köp qismlarida 10 barobar köp. Şuning uçun haroratning periferik aniqlanişi asosan iliq haroratni emas, balki salqin va sovuqni aniqlaş bilan boğliq."
+  },
+  "ch74-f65": {
+   "text": "Harorat özgarişlarini sezişning molekulyar mexanizmlari yaxşi örganilmagan bölsa-da, tajriba tadqiqotlari somatosensor neyronlar va epidermis hujayralarida uçraydigan _tranzitor retseptor potensiali oilasiga mansub kation kanallari_ terining keng harorat oraliğida harorat sezgisini ta’minlaşi mumkinligini körsatadi."
+  },
+  "ch74-f66": {
+   "text": "Butun tana terisi sovuqqa duç kelganda darhol reflektor ta’sirlar işga tuşadi va tana haroratini bir neça yöl bilan oşira boşlaydi: (1) titraşni keltirib çiqaradigan kuçli qözğatuvçi berib, natijada organizmda issiqlik hosil böliş tezligini oşiradi; (2) agar terlaş allaqaçon boşlangan bölsa, uni tormozlaydi; va (3) teridan tana issiqligi yöqotilişini kamaytiriş uçun teri vazokonstriksiyasini kuçaytiradi."
+  },
+  "ch74-f67": {
+   "text": "Tana çuqur harorat retseptorlari asosan _orqa miyada_, _qorin bösliği a’zolarida_ va qorinning yuqori qismi hamda kökrak qafasidagi _yirik venalarda_ yoki ularning atrofida joylaşgan. Bu çuqur retseptorlar teri retseptorlaridan farqli işlaydi, çunki ular tana yuzasi haroratiga emas, tana yadrosi haroratiga duç keladi. Şunga qaramay, ular ham teri harorat retseptorlari kabi asosan issiqlikni emas, sovuqni aniqlaydi. Ehtimol, teri va tana çuqur retseptorlarining ikkalasi ham _gipotermiyaning_ — ya’ni tana harorati pasayişining oldini oliş bilan boğliq."
+  },
+  "ch74-f68": {
+   "text": "ORQA GIPOTALAMUS MARKAZIY VA PERIFERIK HARORAT SEZGI SIGNALLARINI INTEGRATSIYALAYDI"
+  },
+  "ch74-f69": {
+   "text": "Köplab harorat sezgi signallari periferik retseptorlarda paydo bölsa-da, bu signallar tana haroratini boşqarişga asosan gipotalamus orqali hissa qöşadi. Ular qözğatadigan gipotalamus sohasi orqa gipotalamusda ikki tomonlama, taxminan söröqsimon tanalar darajasida joylaşgan. Oldingi gipotalamus–preoptik sohadan keladigan harorat sezgi signallari ham şu orqa gipotalamus sohasiga uzatiladi. Bu yerda preoptik sohadan keladigan signallar va tananing boşqa joylaridan keladigan signallar birlaştirilib integratsiyalanadi va organizmning issiqlik hosil qiluvçi hamda issiqlikni saqlovçi reaksiyalarini boşqaradi."
+  },
+  "ch74-f70": {
+   "text": "TANA HARORATINI PASAYTIRADIGAN YOKI OŞIRADIGAN NEYRON EFFEKTOR MEXANIZMLARI"
+  },
+  "ch74-f71": {
+   "text": "Gipotalamusdagi harorat markazlari tana harorati juda yuqori yoki juda past ekanini aniqlaganda, ular haroratni pasaytiruvçi yoki oşiruvçi tegişli jarayonlarni işga tuşiradi. Öquvçi bu jarayonlarning köpçiligi bilan şaxsiy tajribasidan taniş bölsa kerak, ammo ularning öziga xos xususiyatlari keyingi bölimlarda tasvirlanadi."
+  },
+  "ch74-f72": {
+   "text": "Tana juda issiq bölganda haroratni pasaytiruvçi mexanizmlar"
+  },
+  "ch74-f73": {
+   "text": "Tana harorati haddan taşqari köterilganda haroratni boşqariş tizimi tana issiqligini kamaytiriş uçun uçta muhim mexanizmdan foydalanadi: 1. _Teri qon tomirlarining vazodilatatsiyasi._ Tananing deyarli barça sohalarida teri qon tomirlari keskin kengayadi. Bu kengayiş orqa gipotalamusdagi vazokonstriksiyaga sabab böladigan simpatik markazlarning tormozlanişi tufayli yuzaga keladi. Töliq vazodilatatsiya teriga issiqlik uzatiliş tezligini sakkiz barobargaça oşirişi mumkin. 2. _Terlaş._ Tana harorati ortişining terlaşga olib keliş ta’siri **Rasm 74-7** dagi kök egri çiziqda körsatilgan: tana yadrosi harorati 37,1°C (98,8°F) kritik darajadan oşganda terlaş natijasida buğlaniş orqali issiqlik yöqotiş tezligi keskin ortadi. Tana haroratining yana 1°C ga köterilişi tana issiqligi hosil bölişining bazal tezligidan 10 barobar köp issiqlikni çiqarib yuboriş uçun yetarli terlaşga sabab böladi. 3. _Issiqlik hosil bölişining kamayişi._ Titraş va kimyoviy termogenez kabi ortiqça issiqlik hosil qiladigan mexanizmlar kuçli tormozlanadi."
+  },
+  "ch74-f75": {
+   "text": "Tana juda sovuq bölganda haroratni oşiruvçi mexanizmlar"
+  },
+  "ch74-f76": {
+   "text": "Tana juda sovuq bölganda haroratni boşqariş tizimi tana juda issiq bölgandagiga qarama-qarşi jarayonlarni işga tuşiradi: 1. _Butun tana bö’ylab teri vazokonstriksiyasi._ Bu vazokonstriksiya orqa gipotalamusdagi simpatik markazlarning qözğalişi tufayli yuzaga keladi. 2. _Piloereksiya._ Piloereksiya tuklarning “tikka turişi”ni anglatadi. Simpatik qözğaliş tuk follikulalariga birikkan tuk köteruvçi muskullarning qisqarişiga sabab böladi, bu tuklarni tik holatga keltiradi va tuklar asosida terida “_ğoz terisi_” hosil qiladi. Bu mexanizm odamlarda muhim emas, ammo köplab hayvonlarda tuklarning tik turişi teriga tutaş qalin “izolyatsion havo” qatlamini uşlab qolişga imkon beradi va şu bilan atrof-muhitga issiqlik uzatiliş keskin kamayadi. 3. _Termogenezning (issiqlik hosil bölişining) ortişi._ Metabolik tizimlar tomonidan issiqlik hosil bölişi titraşni, issiqlik hosil bölişining simpatik qözğalişini va tiroksin sekretsiyasini kuçaytiriş orqali oşiriladi. Issiqlikni oşirişning bu usullari qöşimça tuşuntirişni talab qiladi; u keyingi bölimlarda berilgan."
+  },
+  "ch74-f77": {
+   "text": "Orqa gipotalamusning dorsomedial qismida, uçinçi qorinça devoriga yaqin joyda _titraşning birlamçi harakat markazi_ deb ataladigan soha joylaşgan. Bu soha me’yorda oldingi gipotalamus–preoptik sohadagi issiqlik markazidan keladigan signallar bilan tormozlanadi, ammo teri va orqa miyadan keladigan sovuq signallari bilan qözğaladi. Şuning uçun “issiqlik hosil bölişi”ning keskin ortişidan körinib turganidek (qarang: **Rasm 74-7** dagi qizil egri çiziq), tana harorati kritik harorat darajasidan hatto bir daraja ulişiga pasayganda ham bu markaz faollaşadi. Söngra u titraşni keltirib çiqaradigan signallarni miya stvoli bö’ylab pastga, orqa miyaning yon ustunlariga va nihoyat oldingi motoneyronlarga boradigan ikki tomonlama yöllar orqali uzatadi. Bu signallar ritmik emas va muskullarning haqiqiy qaltiraşiga sabab bölmaydi. Buning örniga ular oldingi motoneyronlar faolligini yengillaştiriş orqali butun tana skelet muskullarining tonusini oşiradi. Tonus ma’lum kritik darajadan oşganda titraş boşlanadi. Bu reaksiya ehtimol 55-bobda muhokama qilingan muskul duköqi çöziliş refleksi mexanizmining teskari aloqa tebranişi natijasida yuzaga keladi. _Maksimal titraş paytida organizmda issiqlik hosil bölişi me’yordan tört-beş barobar oşişi mumkin_.",
+   "lead": "Gipotalamusning titraşni qözğatişi."
+  },
+  "ch74-f78": {
+   "text": "73-bobda qayd etilganidek, simpatik qözğalişning yoki qonda aylanib yurgan norepinefrin va epinefrinning ortişi hujayra metabolizmi tezligini tez oşirişi mumkin. Bu ta’sir _kimyoviy termogenez_ yoki _titraşsiz termogenez_ deb ataladi. U heç bölmaganda qisman norepinefrin va epinefrinning oksidlovçi fosforillanişni _ajratiş_ (uncoupling) qobiliyati natijasidir; bu ortiqça ozuqa moddalari oksidlanib, energiyani issiqlik şaklida ajratişini, ammo adenozintrifosfat hosil qilmasligini anglatadi.",
+   "lead": "Issiqlik hosil bölişining simpatik “kimyoviy” qözğalişi."
+  },
+  "ch74-f79": {
+   "text": "Hayvonda yuz beradigan kimyoviy termogenez darajasi hayvon töqimalaridagi _qönğir yoğ_ miqdoriga deyarli töğri mutanosib. 73-bobda tasvirlanganidek, bu turdagi yoğda ajratilgan oksidlaniş yuz beradigan köp sonli maxsus mitoxondriyalar bor. Qönğir yoğ norepinefrin ajratadigan simpatik nervlar bilan boy ta’minlangan; norepinefrin töqimada _mitoxondrial ajratuvçi oqsil 1_ (_UCP1_, _termogenin_ deb ham ataladi) ekspressiyasini qözğatadi va termogenezni oşiradi."
+  },
+  "ch74-f80": {
+   "text": "Moslaşuv kimyoviy termogenez intensivligiga katta ta’sir qiladi: bir neça hafta davomida sovuq muhitga duç kelgan kalamuşlar kabi ayrim hayvonlar keskin sovuqqa duç kelganda issiqlik hosil bölişini 100–500% ga oşiradi; moslaşmagan hayvon esa ehtimol bundan uç barobar kam ortiş bilan javob beradi. Bu termogenez ortişi ovqat iste’molining mos ravişda ortişiga ham olib keladi."
+  },
+  "ch74-f81": {
+   "text": "Deyarli qönğir yoği bölmagan katta yoşli odamlarda kimyoviy termogenez issiqlik hosil böliş tezligini 10–15% dan köp oşirişi kamdan-kam uçraydi. Biroq kuraklararo sohada ozroq qönğir yoği _bölgan_ gödaklarda kimyoviy termogenez issiqlik hosil böliş tezligini 100% ga oşirişi mumkin; bu ehtimol yangi tuğilgan çaqaloqlarda me’yoriy tana haroratini saqlaşning muhim omilidir."
+  },
+  "ch74-f82": {
+   "text": "Oldingi gipotalamus–preoptik sohaning sovuşi gipotalamus tomonidan neyrosekretor gormon — _tireotropin-rilizing gormon_ işlab çiqarilişini ham oşiradi. Bu gormon gipotalamusning portal venalari orqali gipofiz oldingi bölagiga olib boriladi va u yerda _tireotrop gormon_ sekretsiyasini qözğatadi.",
+   "lead": "Tiroksin ajralişining ortişi — issiqlik hosil bölişi ortişining uzoq muddatli sababi."
+  },
+  "ch74-f83": {
+   "text": "Tireotrop gormon esa 77-bobda tuşuntirilganidek, qalqonsimon bez tomonidan _tiroksin_ ajralişining ortişini qözğatadi. Ortgan tiroksin ajratuvçi oqsilni faollaştiradi va butun organizmda hujayra metabolizmi tezligini oşiradi; bu _kimyoviy termogenezning_ yana bir mexanizmidir. Metabolizmning bu ortişi darhol yuz bermaydi, balki qalqonsimon bez gipertrofiyalanib, tiroksin sekretsiyasining yangi darajasiga yetişi uçun bir neça hafta sovuqqa duç keliş talab qilinadi."
+  },
+  "ch74-f84": {
+   "text": "Hayvonlarni bir neça hafta qattiq sovuqqa duç keltiriş ularning qalqonsimon bezlarini 20–40% ga kattalaştirişi mumkin. Biroq odamlar özlarini köplab hayvonlar köpinça duç keladigan darajadagi sovuqqa kamdan-kam duç keltiradi. Şuning uçun qalqonsimon bezning sovuqqa moslaşuv mexanizmi odamda qança muhim ekanini miqdoriy jihatdan hali bilmaymiz."
+  },
+  "ch74-f85": {
+   "text": "Alohida ölçovlar arktikada bir neça oy yaşaydigan harbiy xizmatçilarda metabolizm tezligi ortişini körsatgan; Alyaska, Kanada yoki Grenlandiyaning Arktika hududlarida yaşaydigan tub xalq — inuitlarning ayrimlarida ham bazal metabolizm tezligi ğayrioddiy yuqori. Bundan taşqari, sovuqning qalqonsimon bezga doimiy qözğatuvçi ta’siri sovuq iqlimda yaşaydigan odamlarda issiq iqlimda yaşaydiganlarga qaraganda toksik buqoq ança köp uçrayişini tuşuntirişi mumkin."
+  },
+  "ch74-f86": {
+   "text": "HARORATNI BOŞQARIŞNING “BELGILANGAN NUQTASI”"
+  },
+  "ch74-f87": {
+   "text": "**Rasm 74-7** misolida tana yadrosining taxminan 37,1°C (98,8°F) kritik haroratida issiqlik yöqotiş va issiqlik hosil böliş tezliklarida keskin özgarişlar yuz berişi aniq körinadi. Bu darajadan yuqori haroratlarda issiqlik yöqotiş tezligi issiqlik hosil böliş tezligidan katta, şuning uçun tana harorati pasayib, 37,1°C darajasiga yaqinlaşadi. Bu darajadan past haroratlarda issiqlik hosil böliş tezligi issiqlik yöqotiş tezligidan katta, şuning uçun tana harorati köterilib, yana 37,1°C darajasiga yaqinlaşadi. Bu hal qiluvçi harorat darajasi haroratni boşqariş mexanizmining “belgilangan nuqtasi” deb ataladi — ya’ni haroratni boşqarişning barça mexanizmlari tana haroratini doimiy ravişda şu belgilangan nuqta darajasiga qaytarişga intiladi."
+  },
+  "ch74-f88": {
+   "text": "1-bobda muhokama qilinganidek, teskari aloqa kuçaytiriş koeffitsiyenti boşqaruv tizimi samaradorligining ölçovidir. Tana haroratini boşqariş holatida, atrof-muhit harorati kundan-kunga yoki hatto soatdan-soatga keskin özgarişi mumkin bölsa ham, içki yadro haroratining iloji boriça kam özgarişi muhim. Haroratni boşqariş tizimining _teskari aloqa kuçaytiriş koeffitsiyenti_ atrof-muhit harorati özgarişining tana yadrosi harorati özgarişiga nisbatidan 1,0 ni ayirganga teng (bu formula uçun qarang: 1-bob). Tajribalar odamning tana harorati atrof-muhit haroratining har 25–30°C ga özgarişida taxminan 1°C ga özgarişini körsatgan. Şuning uçun tana haroratini boşqarişning umumiy mexanizmining teskari aloqa kuçaytiriş koeffitsiyenti örtaça taxminan 27 ga teng (28/1,0 − 1,0 = 27); bu biologik boşqaruv tizimi uçun juda yuqori koeffitsiyent (taqqoslaş uçun, arterial bosimni baroretseptorlar orqali boşqariş tizimining teskari aloqa kuçaytiriş koeffitsiyenti <2).",
+   "lead": "Tana haroratini boşqarişda teskari aloqa kuçaytiriş koeffitsiyenti."
+  },
+  "ch74-f89": {
+   "text": "Teri harorati yadro haroratini boşqarişning belgilangan nuqtasini biroz özgartirişi mumkin"
+  },
+  "ch74-f90": {
+   "text": "Gipotalamusda undan yuqorida terlaş va undan pastda titraş boşlanadigan kritik harorat belgilangan nuqtasi asosan oldingi gipotalamus–preoptik sohadagi issiqlik harorat retseptorlarining faollik darajasi bilan belgilanadi. Biroq tananing periferik sohalaridan, ayniqsa teri va ayrim çuqur töqimalardan (masalan, orqa miya va qorin bösliği a’zolari) keladigan harorat signallari ham gipotalamusdagi haroratni boşqariş markazining belgilangan nuqtasini özgartiriş orqali tana haroratini boşqarişga biroz hissa qöşadi. Bu ta’sir **Rasm 74-8** va **74-9** da körsatilgan."
+  },
+  "ch74-f91": {
+   "text": "**Rasm 74-8** teri haroratining turli qiymatlarining terlaş uçun belgilangan nuqtaga ta’sirini körsatadi: teri harorati pasaygan sari belgilangan nuqta ortadi. Şunday qilib, bu rasmda aks ettirilgan odamda gipotalamus belgilangan nuqtasi teri harorati 33°C dan yuqori bölganda 36,7°C dan teri harorati 29°C gaça tuşganda 37,4°C gaça ortgan. Demak, teri harorati yuqori bölganda terlaş teri harorati past bölgandagiga qaraganda pastroq gipotalamus haroratida boşlangan. Bunday tizimning foydasini oson tuşuniş mumkin, çunki teri harorati past bölganda terlaşning tormozlanişi muhim; aks holda past teri harorati va terlaşning birgalikdagi ta’siri tana issiqligining haddan taşqari köp yöqotilişiga sabab bölişi mumkin."
+  },
+  "ch74-f93": {
+   "text": "**Rasm 74-9** da körsatilganidek, titraşda ham xuddi şunday ta’sir yuz beradi. Ya’ni teri sovuganda gipotalamus harorati hali me’yorning issiq tomonida bölsa ham, u gipotalamus markazlarini titraş bösağasiga olib keladi. Bu yerda ham boşqaruv tizimining foydasini tuşuniş mumkin, çunki issiqlik hosil bölişi oşirilmasa, terining sovuq harorati tez orada tana haroratining çuqur pasayişiga olib kelardi. Şunday qilib, terining sovuq harorati aslida tana içki haroratining pasayişini “oldindan sezadi” va uning oldini oladi."
+  },
+  "ch74-f94": {
+   "text": "TANA HARORATINING XULQ-ATVOR ORQALI BOŞQARILIŞI"
+  },
+  "ch74-f95": {
+   "text": "Tana haroratini boşqarişning ongsiz mexanizmlaridan taşqari, organizmda bundan ham kuçliroq yana bir haroratni boşqariş mexanizmi bor — _haroratning xulq-atvor orqali boşqarilişi_."
+  },
+  "ch74-f96": {
+   "text": "Tananing içki harorati haddan taşqari köterilganda miyadagi haroratni boşqaruvçi sohalardan keladigan signallar odamda qizib ketganlik ruhiy hissini uyğotadi. Aksinça, tana haddan taşqari soviganda teridan va ehtimol ayrim çuqur tana retseptorlaridan keladigan signallar sovuqdan noqulaylik hissini keltirib çiqaradi. Şuning uçun odam qulaylikni tiklaş uçun atrof-muhitga tegişli özgarişlar kiritadi, masalan, isitilgan xonaga ötadi yoki sovuq havoda yaxşi izolyatsiyalangan kiyim kiyadi. Haroratning xulq-atvor orqali boşqarilişi qattiq sovuq muhitda tana issiqligini nazorat qilişning haqiqatan samarali yagona mexanizmidir."
+  },
+  "ch74-f97": {
+   "text": "Odam oyoğini issiq lampa ostiga qöyib, qisqa vaqt qoldirganda _mahalliy vazodilatatsiya_ va yengil _mahalliy terlaş_ yuz beradi. Aksinça, oyoqni sovuq suvga solganda mahalliy vazokonstriksiya va mahalliy terlaşning töxtaşi yuz beradi. Bu reaksiyalar haroratning qon tomirlariga bevosita mahalliy ta’siri, şuningdek teri retseptorlaridan orqa miyaga va qaytib xuddi şu teri sohasi hamda ter bezlariga ötkaziladigan mahalliy orqa miya reflekslari tufayli yuzaga keladi. Bundan taşqari, bu mahalliy ta’sirlarning intensivligi miyadagi markaziy harorat boşqaruvçisi tomonidan nazorat qilinadi, şuning uçun ularning umumiy ta’siri gipotalamusning issiqlikni boşqariş signalining mahalliy signalga _köpaytmasiga_ mutanosib. Bunday reflekslar tananing mahalliy sovugan yoki isigan qismlaridan haddan taşqari issiqlik almaşinuvining oldini olişga yordam beradi."
+  },
+  "ch74-f98": {
+   "text": "Agar orqa miya böyin qismida, orqa miyadan simpatik çiquvçi yöllar boşlanadigan joydan yuqorida kesilsa, tana haroratini boşqariş juda yomonlaşadi, çunki gipotalamus endi tananing heç bir joyida teri qon oqimini ham, terlaş darajasini ham boşqara olmaydi. Bu teri, orqa miya va qorin bösliği içidagi retseptorlardan boşlanadigan mahalliy harorat reflekslari saqlanib qolgan bölsa ham şunday. Bu reflekslar tana haroratini gipotalamus tomonidan boşqarişga nisbatan juda kuçsiz.",
+   "lead": "Orqa miya kesilganda tana içki haroratining boşqarilişi buziladi."
+  },
+  "ch74-f99": {
+   "text": "Bunday holatdagi odamlarda tana harorati asosan bemorning boş sohasidagi sovuq va issiq sezgilarga ruhiy javobi — ya’ni kiyimni xulq-atvor orqali tanlaş va tegişli iliq yoki sovuq muhitga ötiş orqali boşqarilişi kerak."
+  },
+  "ch74-f100": {
+   "text": "TANA HARORATI BOŞQARILIŞINING BUZILIŞLARI"
+  },
+  "ch74-f101": {
+   "text": "Isitma, ya’ni tana haroratining odatiy me’yoriy oraliqdan yuqori bölişi, miyadagi buzilişlar yoki haroratni boşqaruvçi markazlarga ta’sir qiladigan toksik moddalar tufayli yuzaga kelişi mumkin. Isitmaning (şuningdek tana haroratining me’yordan pastligining) ayrim sabablari **Rasm 74-10** da keltirilgan. Ularga bakterial yoki virusli infeksiyalar, miya ösmalari va issiqlik urişi bilan yakunlanişi mumkin bölgan atrof-muhit şaroitlari kiradi."
+  },
+  "ch74-f103": {
+   "text": "Isitmali kasalliklarda gipotalamusdagi haroratni boşqaruvçi markazning qayta sozlanişi — pirogenlarning ta’siri"
+  },
+  "ch74-f104": {
+   "text": "Köplab oqsillar, oqsillarning parçalaniş mahsulotlari va ayrim boşqa moddalar, ayniqsa bakteriya hujayra membranalaridan ajraladigan lipopolisaxarid toksinlar gipotalamus termostatining belgilangan nuqtasini köterişi mumkin. Bu ta’sirni keltirib çiqaradigan moddalar _pirogenlar_ deb ataladi."
+  },
+  "ch74-f106": {
+   "text": "Toksik bakteriyalardan yoki degeneratsiyaga uçrayotgan tana töqimalaridan ajraladigan pirogenlar kasallik paytida isitmaga sabab böladi. Gipotalamusdagi haroratni boşqaruvçi markazning belgilangan nuqtasi me’yordan yuqori bölganda tana haroratini köterişning barça mexanizmlari, jumladan issiqlikni saqlaş va issiqlik hosil bölişini oşiriş işga tuşadi. **Rasm 74-11** da körsatilganidek, belgilangan nuqta köterilgaçdan keyin bir neça soat içida tana harorati ham şu darajaga yaqinlaşadi."
+  },
+  "ch74-f107": {
+   "text": "Hayvonlardagi tajribalar ayrim pirogenlar gipotalamusga yuborilganda gipotalamusdagi haroratni boşqaruvçi markazga bevosita va darhol ta’sir qilib, uning belgilangan nuqtasini oşirişi mumkinligini körsatgan. Boşqa pirogenlar bilvosita ta’sir qiladi va ta’siri namoyon bölişidan oldin bir neça soatlik yaşirin davr talab qilişi mumkin. Bu köplab bakterial pirogenlarga, ayniqsa gramm-manfiy bakteriyalarning _endotoksinlariga_ taalluqli.",
+   "lead": "Pirogenlarning isitma keltirib çiqariş mexanizmi — sitokinlarning roli."
+  },
+  "ch74-f108": {
+   "text": "Töqimalarda yoki qonda bakteriyalar yoki bakteriyalarning parçalaniş mahsulotlari bölganda, 34-bobda muhokama qilinganidek, ular _qon leykotsitlari, töqima makrofaglari_ va _yirik donador killer limfotsitlar tomonidan fagotsitlanadi_. Bu hujayralarning barçasi bakterial mahsulotlarni hazm qiladi va söngra sitokinlarni — tuğma va adaptiv immun javoblarida iştirok etadigan turli xil peptid signal molekulalarini ajratadi. Isitma keltirib çiqarişda bu sitokinlarning eng muhimlaridan biri _leykotsitar pirogen_ yoki _endogen pirogen_ deb ham ataladigan _interleykin-1 (IL-1)_ dir. IL-1 makrofaglardan tana suyuqliklariga ajraladi va gipotalamusga yetib borgaç, deyarli darhol isitma hosil qiluvçi jarayonlarni faollaştiradi va ba’zan tana haroratini atigi 8–10 daqiqada sezilarli darajada oşiradi. Qon leykotsitlari, töqima makrofaglari va killer limfotsitlar bilan birgalikda ta’sir qiladigan bakteriyalarning _gramming atigi ön milliondan bir qismiça endotoksin lipopolisaxaridi_ isitmaga sabab bölişi mumkin. Lipopolisaxaridga javoban isitma keltirib çiqariş uçun hosil böladigan IL-1 miqdori atigi bir neça nanogramm."
+  },
+  "ch74-f109": {
+   "text": "Bir neça tajriba IL-1 isitmani avval prostaglandinlardan biri, asosan prostaglandin E2 yoki unga öxşaş moddaning hosil bölişini qözğatiş orqali keltirib çiqarişini körsatgan; bu modda gipotalamusda ta’sir qilib, isitma reaksiyasini yuzaga keltiradi. Prostaglandinlar hosil bölişi dorilar bilan blokadalanganda isitma yo töliq yöqoladi yoki heç bölmaganda kamayadi. Aslida aspirinning isitmani tuşiriş usuli şu bilan tuşuntirilişi mumkin, çunki aspirin araxidon kislotasidan prostaglandinlar hosil bölişiga tösqinlik qiladi. Aspirin kabi isitmani tuşiradigan dorilar _antipiretiklar_ deb ataladi."
+  },
+  "ch74-f110": {
+   "text": "Neyroxirurg gipotalamus sohasida operatsiya qilganda deyarli har doim kuçli isitma yuz beradi; kamdan-kam hollarda qarama-qarşi ta’sir — gipotermiya yuz beradi. Bu ham tana haroratini boşqarişdagi gipotalamus mexanizmlarining kuçini, ham gipotalamus buzilişlari haroratni boşqariş belgilangan nuqtasini qança oson özgartirişini körsatadi. Köpinça uzoq davom etadigan yuqori haroratga sabab böladigan yana bir holat — gipotalamusning miya ösmasi tomonidan ezilişi.",
+   "lead": "Miya şikastlanişlari keltirib çiqaradigan isitma."
+  },
+  "ch74-f111": {
+   "text": "Gipotalamusdagi haroratni boşqariş markazining belgilangan nuqtasi (töqima yemirilişi, pirogen moddalar yoki suvsizlaniş natijasida) me’yoriy darajadan me’yordan yuqori darajaga birdan özgarganda, tana harorati yangi belgilangan nuqtaga yetişi uçun odatda bir neça soat talab qilinadi.",
+   "lead": "Qaltiroq (ett uvişi)."
+  },
+  "ch74-f112": {
+   "text": "**Rasm 74-11** harorat belgilangan nuqtasini birdan 39,4°C (103°F) darajasigaça köterişning ta’sirini körsatadi. Endi qon harorati gipotalamus harorat boşqaruvçisining belgilangan nuqtasidan past bölgani uçun tana haroratini köteradigan odatiy javoblar yuz beradi. Bu davrda odam tana harorati allaqaçon me’yordan yuqori bölsa ham qaltiroqni his qiladi va özini juda sovuq qotgandek sezadi. Bundan taşqari, vazokonstriksiya tufayli teri sovuq böladi va odam titraydi. Qaltiroq tana harorati 39,4°C (103°F) gipotalamus belgilangan nuqtasiga yetgunça davom etişi mumkin. Şundan keyin odam endi qaltiroq his qilmaydi, balki na sovuqni, na issiqni sezadi. Gipotalamus harorat boşqaruvçisining belgilangan nuqtasi yuqori bölişiga sabab bölayotgan omil mavjud ekan, tana harorati ozmi-köpmi me’yoriy tarzda, ammo yuqori harorat belgilangan nuqtasi darajasida boşqariladi."
+  },
+  "ch74-f114": {
+   "text": "Agar yuqori haroratga sabab bölayotgan omil bartaraf etilsa, gipotalamus harorat boşqaruvçisining belgilangan nuqtasi pastroq qiymatgaça — **Rasm 74-11** da körsatilganidek, ehtimol hatto me’yoriy darajagaça pasayadi. Bu holda tana harorati hali 39,4°C (103°F), ammo gipotalamus haroratni 37°C (98,6°F) da boşqarişga intiladi. Bu holat oldingi gipotalamus–preoptik sohaning haddan taşqari qizişiga öxşaydi: kuçli terlaş va hamma joyda vazodilatatsiya tufayli terining birdan qizişi yuz beradi. Isitmali holatdagi bu keskin özgariş “krizis” yoki, aniqroği, “qizariş” deb ataladi. Antibiotiklar paydo bölişidan oldingi davrlarda krizis doimo xavotir bilan kutilgan, çunki u yuz bergaç, şifokor bemorning harorati tez orada tuşa boşlaydi, deb hisoblagan.",
+   "lead": "Krizis yoki “qizariş”."
+  },
+  "ch74-f115": {
+   "text": "Odam çiday oladigan havo haroratining yuqori çegarasi köp jihatdan havoning quruq yoki namligiga boğliq. Agar havo quruq bölsa va tanadan tez buğlanişni ta’minlaş uçun yetarli konvektiv havo oqimlari bölsa, odam bir neça soat davomida 54°C (130°F) havo haroratiga çiday oladi. Aksinça, agar havo 100% namlangan bölsa yoki tana suvda bölsa, atrof-muhit harorati taxminan 34,4°C (94°F) dan oşgan zahoti tana harorati köterila boşlaydi. Agar odam oğir jismoniy iş bajarayotgan bölsa, undan yuqorida issiqlik urişi ehtimoli bölgan kritik _atrof-muhit harorati_ 29–32°C (85–90°F) gaça past bölişi mumkin."
+  },
+  "ch74-f116": {
+   "text": "Tana harorati kritik haroratdan oşib, 40,5–42,2°C (105–108°F) oraliğiga yetganda _issiqlik urişi_ rivojlanişi ehtimoli bor. Simptomlariga boş aylaniş, ba’zan qusiş bilan kuzatiladigan qorin sohasidagi noqulaylik, ba’zan alahlaş va agar tana harorati tez orada pasaytirilmasa, oxir-oqibat huşdan ketiş kiradi. Bu simptomlar köpinça ter bilan suyuqlik va elektrolitlarning haddan taşqari yöqotilişi natijasida yuzaga keladigan ma’lum darajadagi _qon aylaniş şoki_ bilan oğirlaşadi."
+  },
+  "ch74-f117": {
+   "text": "Giperpireksiya tana töqimalariga, ayniqsa miyaga ham juda kuçli zarar yetkazadi va köplab ta’sirlarga sabab böladi. Haqiqatan ham, juda yuqori tana haroratining hatto bir neça daqiqasi ba’zan ölimga olib kelişi mumkin. Şu sababli ayrim mutaxassislar issiqlik urişini zudlik bilan bemorni sovuq suvli vannaga solib davolaşni tavsiya qiladi. Sovuq suvli vanna köpinça nazoratsiz titraşga sabab bölib, issiqlik hosil böliş tezligini sezilarli oşirgani uçun ayrim hollarda muskul relaksanti yuborilişi mumkin. Boşqalar esa terini nam gubka yoki purkaş bilan sovutiş va nam teri ustidan salqin havo puflaş tana yadrosi haroratini tez pasaytiriş uçun samaraliroq va amaliyroq bölişi mumkinligini taklif qilgan."
+  },
+  "ch74-f118": {
+   "text": "Giperpireksiyadan ölgan odamda patologik topilmalar — butun tanada, ammo ayniqsa miyada mahalliy qon quyilişlar va hujayralarning parenximatoz degeneratsiyasi. Neyron hujayralari yemirilgaç, ular heç qaçon tiklanmaydi. Bundan taşqari, jigar, buyraklar va boşqa a’zolarning şikastlanişi köpinça şunça oğir bölişi mumkinki, bu a’zolardan birining yoki bir neçtasining yetişmovçiligi oxir-oqibat ölimga sabab böladi, ammo ba’zan bu issiqlik urişidan bir neça kun ötgaçgina yuz beradi.",
+   "lead": "Yuqori haroratning zararli ta’sirlari."
+  },
+  "ch74-f119": {
+   "text": "Odamlarni haddan taşqari issiqqa moslaştiriş juda muhim bölişi mumkin. Moslaşuvni talab qiladigan odamlarga tropiklarda xizmat qilayotgan askarlar va harorat tana haroratiga, namlik esa 100% ga yaqinlaşadigan Janubiy Afrikadagi 3 km (2 milya) çuqurlikdagi oltin konlarida işlaydigan konçilar misol bölişi mumkin. Har kuni bir neça soat davomida ança oğir iş bajarib issiqqa duç keladigan odamda 1–3 hafta içida issiq va nam şaroitga çidamlilik ortadi.",
+   "lead": "Issiqqa moslaşuv."
+  },
+  "ch74-f120": {
+   "text": "Bu moslaşuv jarayonida yuz beradigan eng muhim fiziologik özgarişlar qatoriga terlaşning maksimal tezligining taxminan ikki barobar ortişi, plazma hajmining ortişi va ter hamda siydik bilan tuz yöqotilişining deyarli nolgaça kamayişi kiradi; oxirgi ikki ta’sir buyrak usti bezlari tomonidan aldosteron sekretsiyasining ortişi natijasidir."
+  },
+  "ch74-f121": {
+   "text": "Zudlik bilan davolanmasa, 20–30 daqiqa davomida muzli suvga duç kelgan odam odatda yurakning töxtaşi yoki yurak fibrillyatsiyasi tufayli öladi. Bu vaqtga kelib tananing içki harorati taxminan 25°C (77°F) gaça tuşgan böladi. Agar taşqi issiqlik qöllab tez isitilsa, odamning hayotini köpinça saqlab qoliş mumkin."
+  },
+  "ch74-f122": {
+   "text": "**Rasm 74-10** da qayd etilganidek, tana harorati taxminan 29,4°C (85°F) dan pastga tuşgaç, gipotalamusning haroratni boşqariş qobiliyati yöqoladi; tana harorati taxminan 34,4°C (94°F) dan pastga tuşganda ham bu qobiliyat keskin buziladi. Haroratni boşqarişning bu susayişining bir sababi şuki, tana haroratining har 5,6°C (10°F) ga pasayişida har bir hujayrada kimyoviy issiqlik hosil böliş tezligi deyarli ikki barobar kamayadi. Bundan taşqari, uyquçanlik (keyinçalik koma) rivojlanadi, bu markaziy nerv tizimining issiqlikni boşqariş mexanizmlari faolligini susaytiradi va titraşga tösqinlik qiladi.",
+   "lead": "Past haroratlarda haroratni boşqarişning yöqolişi."
+  },
+  "ch74-f123": {
+   "text": "Tana juda past haroratga duç kelganda yuza sohalar muzlab qolişi mumkin; bu hodisa _sovuq urişi_ deb ataladi. Sovuq urişi ayniqsa quloq yumşoqlarida, qöl va oyoq barmoqlarida yuz beradi. Agar muzlaş hujayralarda köp miqdorda muz kristallari hosil bölişiga sabab bölgan darajada bölsa, odatda doimiy qon aylaniş buzilişi va mahalliy töqima şikastlanişi kabi doimiy zarar qoladi. Erigaçdan keyin köpinça gangrena rivojlanadi va sovuq urgan sohalarni jarrohlik yöli bilan olib taşlaşga töğri keladi.",
+   "lead": "Sovuq urişi."
+  },
+  "ch74-f124": {
+   "text": "Töqimalar harorati deyarli muzlaş nuqtasigaça tuşganda tomir devoridagi silliq muskullar sovuq tufayli falajlanadi va birdan vazodilatatsiya yuz beradi; bu köpinça terining qizarişi bilan namoyon böladi. Bu mexanizm teriga iliq qon yetkazib beriş orqali sovuq urişining oldini olişga yordam beradi. Bu mexanizm odamlarda doimo sovuqda yaşaydigan köpçilik hayvonlarga qaraganda ança kam rivojlangan.",
+   "lead": "Sovuq keltirib çiqaradigan vazodilatatsiya — muzlaşga yaqin haroratlarda sovuq urişidan oxirgi himoya."
+  },
+  "ch74-f125": {
+   "text": "Odamning haroratini pasaytiriş oson: avval gipotalamus harorat boşqaruvçisining reaktivligini susaytiriş uçun kuçli tinçlantiruvçi dori yuboriladi, söngra harorat tuşgunça odam muz yoki sovutuvçi adyollar bilan sovutiladi. Keyin tanaga doimiy ravişda salqin suv yoki spirt sepiş orqali haroratni bir neça kundan bir haftagaça yoki undan köp vaqt 32°C (90°F) dan past saqlab turiş mumkin. Bunday sun’iy sovutiş yurak jarrohligida yurakni bir vaqtning özida köp daqiqalarga sun’iy töxtatiş uçun qöllanilgan. Bu darajada sovutiş töqimalarni şikastlamaydi, ammo yurakni sekinlaştiradi va hujayra metabolizmini keskin susaytiradi, şuning uçun organizm hujayralari jarrohlik amaliyoti davomida qon oqimisiz 30 daqiqadan 1 soatdan köproq vaqtgaça yaşab qola oladi.",
+   "lead": "Sun’iy gipotermiya."
+  }
+ },
+ "figures": {
+  "gh14-fig-74-01": "Tana “yadrosi” haroratining taxminiy me’yoriy oraliği. (DuBois EF: Fever. Springfield, IL: Charles C. Thomas, 1948 asosida özgartirilgan.)",
+  "gh14-fig-74-02": "Teri qon aylanişi.",
+  "gh14-fig-74-03": "Atrof-muhit harorati özgarişlarining issiqlikning tana yadrosidan teri yuzasiga ötkazilişiga ta’siri (°F da). (Benzinger TH: Heat and Temperature Fundamentals of Medical Physiology. New York: Dowden, Hutchinson & Ross, 1980 asosida özgartirilgan.)",
+  "gh14-fig-74-04": "Organizmdan issiqlik yöqotiliş mexanizmlari.",
+  "gh14-fig-74-05": "Atsetilxolin ajratadigan simpatik nerv bilan innervatsiyalangan ter bezi. Bez qismida oqsilsiz birlamçi sekret hosil böladi, ammo elektrolitlarning köp qismi yölda reabsorbsiyalanadi va suyultirilgan, suvli sekret qoladi.",
+  "gh14-fig-74-06": "Quruq şaroitda bir neça soat davom etadigan yuqori va past atmosfera haroratlarining tananing içki yadro haroratiga ta’siri (°F da). E’tibor bering: atmosfera harorati keng özgarişiga qaramay tananing içki harorati barqaror saqlanadi.",
+  "gh14-fig-74-07": "Gipotalamus haroratining organizmdan buğlaniş orqali issiqlik yöqotilişiga va asosan muskul faolligi hamda titraş keltirib çiqaradigan issiqlik hosil bölişiga ta’siri (°C da). Bu rasm issiqlik yöqotişning ortişi boşlanadigan va issiqlik hosil bölişi minimal barqaror darajaga yetadigan juda kritik harorat darajasini körsatadi.",
+  "gh14-fig-74-08": "Boş içidagi harorat özgarişlarining organizmdan buğlaniş orqali issiqlik yöqotiş tezligiga ta’siri (°C da). E’tibor bering: teri harorati terlaş boşlanadigan belgilangan nuqta darajasini belgilaydi. (Dr. T.H. Benzinger ruxsati bilan.)",
+  "gh14-fig-74-09": "Boş içidagi harorat özgarişlarining organizmda issiqlik hosil böliş tezligiga ta’siri (°C da). E’tibor bering: teri harorati titraş boşlanadigan belgilangan nuqta darajasini belgilaydi. (Dr. T.H. Benzinger ruxsati bilan.)",
+  "gh14-fig-74-10": "Turli şaroitlarda tana harorati. (DuBois EF: Fever. Springfield, IL: Charles C. Thomas, 1948 asosida özgartirilgan.)",
+  "gh14-fig-74-11": "Gipotalamus harorat boşqaruvçisining belgilangan nuqtasini özgartiriş ta’sirlari."
+ }
+}

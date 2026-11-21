@@ -3,6 +3,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { nowIso } from './http.js';
+import { normalizeSearchText } from '../public/js/search-text.js';
 
 const readJson = (p) => JSON.parse(fs.readFileSync(p, 'utf8'));
 
@@ -132,7 +133,10 @@ export class ContentStore {
     const now = nowIso();
     const files = fs.existsSync(qdir) ? fs.readdirSync(qdir).filter((f) => f.endsWith('.json')) : [];
     const ins = this.db.prepare(`INSERT INTO questions (id, version, topic_id, lesson_id, stem, options, answer_option_id, explanation, difficulty, source_ref, status, origin)
-      VALUES (?,?,?,?,?,?,?,?,?,?,?,?) ON CONFLICT(id, version) DO NOTHING`);
+      VALUES (?,?,?,?,?,?,?,?,?,?,?,?) ON CONFLICT(id, version) DO UPDATE SET
+        stem = excluded.stem, options = excluded.options, explanation = excluded.explanation, origin = excluded.origin
+      WHERE questions.stem <> excluded.stem OR questions.options <> excluded.options
+        OR questions.explanation <> excluded.explanation OR questions.origin IS NOT excluded.origin`);
     let n = 0;
     for (const f of files) {
       const data = readJson(path.join(qdir, f));
@@ -160,11 +164,14 @@ export class ContentStore {
   // ------------------------------------------------------------------ search index
   ensureIndex() {
     const key = 'search_index_version';
-    const want = `${this.contentVersion}:${this.lessonIndex.size}:${fs.statSync(path.join(this.dir, 'topics.json')).mtimeMs}:${this.translationStamp}`;
+    const want = `alphabet-2:${this.contentVersion}:${this.lessonIndex.size}:${fs.statSync(path.join(this.dir, 'topics.json')).mtimeMs}:${this.translationStamp}`;
     const have = this.db.prepare('SELECT value FROM meta WHERE key=?').get(key);
     if (have && have.value === want) return;
     const stmt = this.db.prepare('INSERT INTO search_chunks (chunk_id, kind, topic_id, lesson_id, block_id, lang, locator, raw, title, body) VALUES (?,?,?,?,?,?,?,?,?,?)');
-    const ins = { run: (cid, kind, tid, lid, bid, lang, loc, title, body) => stmt.run(cid, kind, tid, lid, bid, lang, loc, body, normSearch(title), normSearch(body)) };
+    const ins = { run: (cid, kind, tid, lid, bid, lang, loc, title, body) => {
+      const locator = JSON.stringify({ ...JSON.parse(loc), displayTitle: title });
+      stmt.run(cid, kind, tid, lid, bid, lang, locator, body, normSearch(title), normSearch(body));
+    } };
     this.db.exec('BEGIN');
     try {
       this.db.exec('DELETE FROM search_chunks');
@@ -241,14 +248,12 @@ export class ContentStore {
 }
 
 export function normSearch(s) {
-  return String(s || '').replace(/[‘’ʻʼ`']/g, '').normalize('NFKC');
+  return normalizeSearchText(s);
 }
 
 // FTS query from free text: keep word tokens, OR them, prefix match.
 export function ftsQuery(text, max = 12) {
-  const norm = String(text || '').toLowerCase()
-    .replace(/[‘’ʻʼ`']/g, '')
-    .normalize('NFKC');
+  const norm = normSearch(text);
   const stop = new Set(['va', 'bu', 'nima', 'qanday', 'uchun', 'bilan', 'ham', 'the', 'and', 'of', 'is', 'a', 'in', 'to', 'nega', 'qaysi', 'mi', 'da', 'ni', 'bir', 'shu', 'haqida', 'tushuntir', 'tushuntiring', 'menga']);
   const toks = [...new Set((norm.match(/[\p{L}\p{N}]{2,}/gu) || []).filter((w) => !stop.has(w)))].slice(0, max);
   if (!toks.length) return null;

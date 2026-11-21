@@ -1,0 +1,491 @@
+{
+ "lessonId": "ch81",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 81,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "manual",
+ "translator": "Claude (DrStudy sessiyasi)",
+ "model": null,
+ "createdAt": "2026-11-20T15:28:07.612Z",
+ "updatedAt": "2026-11-20T15:28:07.620Z",
+ "coverage": {
+  "translated": 152,
+  "total": 152
+ },
+ "note": "Kitob matnining töliq özbekça tarjimasi (qisqartirilmagan). Ekspert tekşiruvidan ötmagan.",
+ "blocks": {
+  "ch81-f0": {
+   "text": "Erkak reproduktiv funksiyalarini uçta asosiy bölimga ajratiş mumkin: (1) spermatozoidlar hosil bölişi — spermatogenez; (2) erkak jinsiy aktining bajarilişi; va (3) erkak reproduktiv funksiyalarining turli gormonlar tomonidan boşqarilişi. Bu reproduktiv funksiyalar bilan erkak jinsiy gormonlarining qöşimça jinsiy a’zolar, hujayra metabolizmi, ösiş va organizmning boşqa funksiyalariga ta’sirlari ham boğliq."
+  },
+  "ch81-f1": {
+   "text": "**Rasm 81-1A** da erkak reproduktiv tizimining turli qismlari, **Rasm 81-1B** da esa uruğdon va uning ortiğining batafsilroq tuzilişi körsatilgan. Uruğdon spermatozoidlar hosil böladigan, har birining uzunligi örtaça yarim metrdan köp bölgan 900 tagaça buralgan _uruğ kanalçalaridan_ iborat. Söngra spermatozoidlar uzunligi taxminan 6 metr bölgan yana bir buralgan nay — _uruğdon ortiğiga_ (epididimisga) tuşadi. Uruğdon ortiği _uruğ çiqaruv yöliga_ (vas deferens) ötadi; u _prostata bezi_ tanasiga kirişidan bevosita oldin _uruğ çiqaruv yöli ampulasiga_ kengayadi."
+  },
+  "ch81-f3": {
+   "text": "Prostataning har ikki tomonida bittadan joylaşgan ikkita _uruğ pufakçasi_ ampulaning prostata uçiga oçiladi va ampula hamda uruğ pufakçalarining tarkibi prostata bezi tanasi orqali ötib, _içki siydik çiqaruv kanaliga_ oçiladigan _uruğ otuvçi yölga_ ötadi. _Prostata yöllari_ ham prostata bezidan uruğ otuvçi yölga, u yerdan esa siydik çiqaruv kanalining prostata qismiga oçiladi."
+  },
+  "ch81-f4": {
+   "text": "Nihoyat, _siydik çiqaruv kanali_ (uretra) uruğdondan taşqariga oxirgi boğlovçi halqadir. Siydik çiqaruv kanali uning butun uzunligi bö’ylab joylaşgan köp sonli mayda _uretra bezlaridan_ va bundan ham köproq siydik çiqaruv kanalining boşlanişi yaqinida joylaşgan ikki tomonlama _bulbouretral bezlardan_ (_Kauper bezlari_) keladigan şilliq bilan ta’minlanadi."
+  },
+  "ch81-f5": {
+   "text": "SPERMATOGENEZ"
+  },
+  "ch81-f6": {
+   "text": "Embrion şakllanayotganda _birlamçi jinsiy hujayralar_ uruğdonlarga migratsiya qiladi va _uruğ kanalçalari_ içki yuzalarida ikki-uç qavat bölib joylaşadigan _spermatogoniyalar_ deb ataladigan yetilmagan jinsiy hujayralarga aylanadi (kanalçaning kesimi **Rasm 81-2A** da körsatilgan). Baloğat davrida spermatogoniyalar mitotik bölina boşlaydi va **Rasm 81-2**_B_ da körsatilganidek, spermatozoidlar hosil qiliş uçun aniq rivojlaniş bosqiçlari orqali doimiy proliferatsiyalanadi va differensiallanadi."
+  },
+  "ch81-f8": {
+   "text": "SPERMATOGENEZ BOSQIÇLARI"
+  },
+  "ch81-f9": {
+   "text": "Spermatogenez faol jinsiy hayot davomida gipofiz oldingi bölagi gonadotrop gormonlarining qözğatişi natijasida uruğ kanalçalarida yuz beradi. Spermatogenez erkaklarda örtaça 13 yoşda boşlanadi va qolgan hayotning köp qismi davomida davom etadi, ammo keksalikda keskin kamayadi."
+  },
+  "ch81-f10": {
+   "text": "Spermatogenezning birinçi bosqiçida spermatogoniyalar _Sertoli hujayralari_ orasidan uruğ kanalçasining markaziy bösliğiga qarab migratsiya qiladi. Sertoli hujayralari yirik bölib, rivojlanayotgan spermatogoniyalarni kanalçaning markaziy bösliğigaça örab turadigan keng sitoplazmatik qobiqlarga ega."
+  },
+  "ch81-f11": {
+   "text": "Sertoli hujayralari qavatiga tösiqdan ötgan spermatogoniyalar asta-sekin özgarib, kattalaşib, yirik _birlamçi spermatotsitlarni_ hosil qiladi (**Rasm 81-3**). Bu birlamçi spermatotsitlarning har biri öz navbatida meyotik bölinib, ikkita _ikkilamçi spermatotsitni_ hosil qiladi. Yana bir neça kundan keyin bu ikkilamçi spermatotsitlar ham bölinib, _spermatidlarni_ hosil qiladi; ular oxir-oqibat özgarib, _spermatozoidlarga_ aylanadi.",
+   "lead": "Meyoz."
+  },
+  "ch81-f13": {
+   "text": "Spermatotsit bosqiçidan spermatid bosqiçiga ötiş paytida spermatotsitning 46 ta xromosomasi (23 juft xromosoma) bölinadi va şunday qilib 23 ta xromosoma bir spermatidga, qolgan 23 tasi esa ikkinçi spermatidga ötadi. Xromosoma genlari ham bölinadi, şuning uçun kelajakdagi homilaning genetik xususiyatlarining faqat yarmi otadan, qolgan yarmi esa onadan keladigan oositdan olinadi."
+  },
+  "ch81-f14": {
+   "text": "Spermatogoniyalardan spermatozoidlargaça spermatogenezning butun davri taxminan 74 kun davom etadi."
+  },
+  "ch81-f15": {
+   "text": "Har bir spermatogoniyada 23 juft xromosomadan biri har bir kelajakdagi naslning jinsini belgilaydigan genetik axborotni taşiydi. Bu juft _ayol xromosomasi_ deb ataladigan bitta X xromosoma va _erkak xromosomasi_ — bitta Y xromosomadan iborat. Meyotik bölinişda erkak Y xromosomasi keyinçalik _erkak spermatozoidiga_ aylanadigan bir spermatidga, ayol X xromosomasi esa _ayol spermatozoidiga_ aylanadigan boşqa spermatidga ötadi. Kelajakdagi naslning jinsi tuxum hujayrani bu ikki turdagi spermatozoidlardan qaysi biri uruğlantirişi bilan belgilanadi. Bu jarayon 83-bobda batafsilroq muhokama qilinadi.",
+   "lead": "Jinsiy xromosomalar."
+  },
+  "ch81-f16": {
+   "text": "Spermatidlar ilk bor hosil bölganda ular hali ham epitelioid hujayralarning odatiy xususiyatlariga ega, ammo tez orada differensiallanib, uzayib, spermatozoidlarga aylana boşlaydi. **Rasm 81-4** da körsatilganidek, har bir spermatozoid _boş_ va _dumdan_ iborat. Boş hujayraning ziçlaşgan yadrosidan iborat bölib, uning yuzasi atrofida faqat yupqa sitoplazma va hujayra membranasi qatlami bor. Boşning oldingi uçdan ikki qismi taşqarisida asosan Golji apparatidan hosil bölgan _akrosoma_ deb ataladigan qalin qalpoqça bor. Akrosomada odatiy hujayra lizosomalarida uçraydiganlarga öxşaş bir neça ferment, jumladan _gialuronidaza_ (töqimalarning proteoglikan iplarini hazm qila oladi) va kuçli _proteolitik fermentlar_ (oqsillarni hazm qila oladi) bor. Bu fermentlar spermatozoidning tuxum hujayraga kirib, uni uruğlantirişiga imkon berişda muhim rol öynaydi.",
+   "lead": "Spermatozoidlarning hosil bölişi."
+  },
+  "ch81-f18": {
+   "text": "Spermatozoidning _xivçin_ deb ataladigan dumi uçta asosiy tarkibiy qismga ega: (1) birgalikda _aksonema_ deb ataladigan 11 ta mikronayçadan tuzilgan markaziy skelet; aksonemaning tuzilişi 2-bobda tasvirlangan boşqa turdagi hujayralar yuzalaridagi kipriklarnikiga öxşaydi; (2) aksonemani qoplab turgan yupqa hujayra membranasi; va (3) dumning proksimal qismida aksonemani örab turgan, _dum tanasi_ deb ataladigan mitoxondriyalar töplami."
+  },
+  "ch81-f19": {
+   "text": "Dumning oldinga-orqaga harakati (xivçin harakati) spermatozoidning harakatçanligini ta’minlaydi. Bu harakat aksonemani taşkil etuvçi oldingi va orqa nayçalar orasidagi ritmik uzunasiga sirpaniş harakati natijasidir. Bu jarayon uçun energiya dum tanasidagi mitoxondriyalar tomonidan sintezlanadigan adenozintrifosfat şaklida ta’minlanadi."
+  },
+  "ch81-f20": {
+   "text": "Me’yoriy spermatozoidlar suyuq muhitda daqiqasiga 1–4 mm tezlikda harakatlanadi, bu ularga tuxum hujayrani izlab ayol jinsiy yöllari bö’ylab harakatlaniş imkonini beradi."
+  },
+  "ch81-f21": {
+   "text": "Spermatogenezni qözğatadigan gormonal omillar"
+  },
+  "ch81-f22": {
+   "text": "Gormonlarning köpayişdagi roli keyinroq batafsil muhokama qilinadi; hozirça şuni qayd etamizki, spermatogenezda bir neça gormon muhim rol öynaydi. Bu rollarning ayrimlari quyidagilar: 1. Uruğdonning interstitsiyasida joylaşgan _Leydig hujayralari_ (qarang: **Rasm 81-2**) ajratadigan _testosteron_ spermatozoid hosil bölişining birinçi bosqiçi bölgan uruğdon jinsiy hujayralarining ösişi va bölinişi uçun zarur. 2. Gipofiz oldingi bölagi ajratadigan _lyuteinlovçi gormon_ Leydig hujayralarini testosteron ajratişga qözğatadi. 3. Gipofiz oldingi bölagi ajratadigan _follikulani qözğatuvçi gormon_ _Sertoli hujayralarini_ qözğatadi; bu qözğalişsiz spermatidlarning spermatozoidlarga aylanişi (spermiogenez jarayoni) yuz bermaydi. 4. Follikulani qözğatuvçi gormon bilan qözğatilganda Sertoli hujayralari tomonidan testosterondan hosil qilinadigan _estrogenlar_ ham ehtimol spermiogenez uçun zarur. 5. _Ösiş gormoni_ (şuningdek organizmning köpçilik boşqa gormonlari) uruğdonlarning asosiy metabolik funksiyalarini boşqariş uçun zarur. Ösiş gormoni ayniqsa spermatogoniyalarning erta bölinişini kuçaytiradi; u bölmaganda, masalan, gipofizar pakanalarda spermatogenez keskin yetişmaydi yoki umuman bölmaydi va natijada bepuştlik yuzaga keladi."
+  },
+  "ch81-f23": {
+   "text": "Spermatozoidlarning uruğdon ortiğida yetilişi"
+  },
+  "ch81-f24": {
+   "text": "Uruğ kanalçalarida hosil bölgaçdan keyin spermatozoidlar _uruğdon ortiği_ ning 6 metrli kanalçasidan ötiş uçun bir neça kun talab qiladi. Uruğ kanalçalaridan va uruğdon ortiğining boşlanğiç qismlaridan olingan spermatozoidlar harakatsiz bölib, tuxum hujayrani uruğlantira olmaydi. Biroq spermatozoidlar uruğdon ortiğida 18–24 soat bölgaçdan keyin _harakatlaniş qobiliyatiga_ ega böladi, garçi uruğdon ortiği suyuqligidagi bir neça tormozlovçi oqsil eyakulyatsiyagaça yakuniy harakatçanlikka yöl qöymasa ham."
+  },
+  "ch81-f25": {
+   "text": "Katta yoşli odamning ikki uruğdoni kuniga 120 milliongaça spermatozoid hosil qiladi. Bu spermatozoidlarning köp qismi uruğdon ortiğida, oz qismi esa uruğ çiqaruv yölida saqlanadi. Ular uruğlantiriş qobiliyatini saqlagan holda kamida bir oy saqlanişi mumkin. Bu vaqt davomida ular yöllar sekretlaridagi köplab tormozlovçi moddalar tomonidan çuqur bostirilgan, nofaol holatda saqlanadi. Aksinça, jinsiy faollik va eyakulyatsiyalar yuqori darajada bölganda ular bir neça kundan ortiq saqlanmasligi mumkin.",
+   "lead": "Spermatozoidlarning uruğdonlarda saqlanişi."
+  },
+  "ch81-f26": {
+   "text": "Eyakulyatsiyadan keyin spermatozoidlar harakatçan va tuxum hujayrani uruğlantirişga qodir böladi; bu jarayon _yetiliş_ deb ataladi. Sertoli hujayralari va uruğdon ortiği epiteliysi spermatozoidlar bilan birga otiladigan maxsus ozuqaviy suyuqlik ajratadi. Bu suyuqlikda spermatozoidlar yetilişi uçun zarur bölgan gormonlar (ham testosteron, ham estrogenlar), fermentlar va maxsus ozuqa moddalari bor."
+  },
+  "ch81-f27": {
+   "text": "Me’yoriy harakatçan, uruğlantirişga qodir spermatozoidlar suyuq muhitda daqiqasiga 1–4 mm tezlikda xivçin yordamida harakatlana oladi. Spermatozoidlarning faolligi otilgan sperma kabi neytral va biroz işqoriy muhitda keskin ortadi, ammo kuçsiz nordon muhitda keskin susayadi. Kuçli nordon muhit spermatozoidlarning tez nobud bölişiga sabab bölişi mumkin.",
+   "lead": "Yetuk spermatozoid fiziologiyasi."
+  },
+  "ch81-f28": {
+   "text": "Harorat ortişi bilan spermatozoidlarning faolligi keskin ortadi, ammo metabolizm tezligi ham ortadi, bu esa spermatozoid hayotining sezilarli qisqarişiga sabab böladi. Spermatozoidlar uruğdonlarning jinsiy yöllarida bostirilgan holatda köp haftalar yaşay olsa-da, otilgan spermatozoidlarning ayol jinsiy yöllaridagi yaşaş davomiyligi atigi 1–2 kun."
+  },
+  "ch81-f29": {
+   "text": "URUĞ PUFAKÇALARINING FUNKSIYASI"
+  },
+  "ch81-f30": {
+   "text": "Har bir uruğ pufakçasi köp miqdorda _fruktoza, limon kislotasi_ va boşqa ozuqa moddalari, şuningdek köp miqdorda _prostaglandinlar_ va _fibrinogen_ tutuvçi şilliqsimon material ajratadigan sekretor epiteliy bilan qoplangan, egri-bugri, bölmalarga ajralgan nay. Emissiya va eyakulyatsiya jarayonida uruğ çiqaruv yöli spermatozoidlarni çiqargandan keyin tez orada har bir uruğ pufakçasi öz tarkibini uruğ otuvçi yölga çiqaradi. Bu ta’sir otilgan sperma hajmini keskin oşiradi va uruğ suyuqligidagi fruktoza hamda boşqa moddalar spermatozoidlardan biri tuxum hujayrani uruğlantirgunça otilgan spermatozoidlar uçun sezilarli ozuqaviy ahamiyatga ega."
+  },
+  "ch81-f31": {
+   "text": "Prostaglandinlar uruğlanişga ikki yöl bilan yordam beradi, deb hisoblanadi: (1) ayolning baçadon böyni şilliği bilan reaksiyaga kirişib, uni spermatozoidlar harakatiga köproq moslaştiriş va (2) ehtimol baçadon va baçadon naylarida otilgan spermatozoidlarni tuxumdonlar tomon harakatlantiradigan teskari peristaltik qisqarişlarga sabab böliş (ayrim spermatozoidlar 5 daqiqa içida baçadon naylarining yuqori uçlariga yetib boradi)."
+  },
+  "ch81-f32": {
+   "text": "PROSTATA BEZINING FUNKSIYASI"
+  },
+  "ch81-f33": {
+   "text": "Prostata bezi kalsiy, sitrat ioni, fosfat ioni, iviş fermenti va profibrinolizin tutuvçi suyuq, sutsimon suyuqlik ajratadi. Emissiya paytida prostata bezi kapsulasi uruğ çiqaruv yöli qisqarişlari bilan bir vaqtda qisqaradi, şuning uçun prostata bezining suyuq, sutsimon suyuqligi sperma hajmini yanada oşiradi. Prostata suyuqligining biroz işqoriy xususiyati tuxum hujayraning muvaffaqiyatli uruğlanişi uçun juda muhim bölişi mumkin, çunki uruğ çiqaruv yöli suyuqligi limon kislotasi va spermatozoidlarning metabolik yakuniy mahsulotlari tufayli nisbatan nordon va natijada spermatozoidlarning uruğlantiriş qobiliyatini tormozlaşga yordam beradi. Bundan taşqari, ayolning qin sekretlari nordon (pH 3,5–4,0). Spermatozoidlar atrofdagi suyuqliklarning pH i taxminan 6,0–6,5 gaça köterilgunça optimal harakatçan bölmaydi. Natijada biroz işqoriy prostata suyuqligi eyakulyatsiya paytida boşqa uruğ suyuqliklarining nordonligini neytrallaşga yordam beradi va şu bilan spermatozoidlarning harakatçanligi va uruğlantiriş qobiliyatini kuçaytiradi, deb hisoblanadi."
+  },
+  "ch81-f34": {
+   "text": "Erkak jinsiy akti paytida otiladigan sperma uruğ çiqaruv yölidan suyuqlik va spermatozoidlar (jamining ≈10% i), uruğ pufakçalaridan suyuqlik (deyarli 60%), prostata bezidan suyuqlik (≈30%) va şilliq bezlardan, ayniqsa bulbouretral bezlardan oz miqdordagi suyuqlikdan iborat. Şunday qilib, spermaning asosiy qismi oxirgi bölib otiladigan va spermatozoidlarni uruğ otuvçi yöl va siydik çiqaruv kanali orqali yuvib çiqariş vazifasini bajaradigan uruğ pufakçasi suyuqligidir."
+  },
+  "ch81-f35": {
+   "text": "Aralaş spermaning örtaça pH i taxminan 7,5 bölib, işqoriy prostata suyuqligi spermaning boşqa qismlarining kuçsiz nordonligini ortiği bilan neytrallagan. Prostata suyuqligi spermaga sutsimon köriniş beradi, uruğ pufakçalari va şilliq bezlar suyuqligi esa spermaga şilliqsimon konsistensiya beradi. Bundan taşqari, prostata suyuqligidagi iviş fermenti uruğ pufakçasi suyuqligidagi fibrinogenni spermani baçadon böyni joylaşgan qinning çuqurroq sohalarida uşlab turadigan kuçsiz fibrin laxtasini hosil qilişga majbur qiladi. Söngra laxta keyingi 15–30 daqiqa davomida prostata profibrinolizinidan hosil bölgan fibrinolizin tomonidan lizis tufayli eriydi. Eyakulyatsiyadan keyingi dastlabki daqiqalarda spermatozoidlar nisbatan harakatsiz qoladi, ehtimol laxtaning yopişqoqligi tufayli. Laxta erigan sari spermatozoidlar bir vaqtning özida yuqori darajada harakatçan böladi."
+  },
+  "ch81-f36": {
+   "text": "Spermatozoidlar erkak jinsiy yöllarida köp haftalar yaşay olsa-da, ular sperma tarkibida otilgaç, tana haroratida ularning maksimal umri atigi 24–48 soat. Biroq past haroratlarda spermani bir neça hafta saqlaş mumkin, −100°C dan past haroratda muzlatilganda esa spermatozoidlar yillab saqlangan."
+  },
+  "ch81-f37": {
+   "text": "Tuxum hujayrani uruğlantiriş uçun spermatozoidlarning “kapasitatsiyasi” zarur"
+  },
+  "ch81-f38": {
+   "text": "Spermatozoidlar uruğdon ortiğini tark etganda “yetuk” deyilsa-da, ularning faolligi jinsiy yöllar epiteliysi ajratadigan köplab tormozlovçi omillar tomonidan çeklanadi. Şuning uçun ular sperma tarkibida birinçi marta çiqarilganda tuxum hujayrani uruğlantira olmaydi. Biroq ayol jinsiy yöllari suyuqliklari bilan tegişganda spermatozoidlarni uruğlanişning yakuniy jarayonlari uçun faollaştiradigan köplab özgarişlar yuz beradi. Bu birgalikdagi özgarişlar _spermatozoidlarning kapasitatsiyasi_ deb ataladi va odatda 1 soatdan 10 soatgaça vaqt talab qiladi. Quyidagi özgarişlar yuz beradi, deb hisoblanadi: 1. Baçadon va baçadon nayi suyuqliklari erkak jinsiy yöllarida spermatozoid faolligini bostiradigan turli tormozlovçi omillarni yuvib ketadi. 2. Spermatozoidlar erkak jinsiy yöllari suyuqligida bölgan paytda ular doimiy ravişda uruğ kanalçalaridan keladigan, köp miqdorda xolesterin tutuvçi köplab suzib yuruvçi pufakçalar ta’sirida böladi. Bu xolesterin doimiy ravişda spermatozoid akrosomasini qoplab turgan hujayra membranasiga qöşilib, bu membranani mustahkamlaydi va uning fermentlari ajralişiga yöl qöymaydi. Eyakulyatsiyadan keyin qinga tuşgan spermatozoidlar xolesterin pufakçalaridan uzoqlaşib, yuqoriga baçadon bösliğiga suzib ketadi va keyingi bir neça soat davomida boşqa ortiqça xolesterinning köp qismini asta-sekin yöqotadi. Bunda spermatozoid boşidagi membrana (akrosoma) ança kuçsizlanadi. 3. Spermatozoid membranasi kalsiy ionlariga ham ança ötkazuvçan böladi, şuning uçun endi kalsiy spermatozoidga köp miqdorda kiradi va xivçin faolligini özgartirib, unga avvalgi kuçsiz tölqinsimon harakatdan farqli ravişda kuçli qamçisimon harakat beradi. Bundan taşqari, kalsiy ionlari akrosomaning oldingi qirrasini qoplab turgan hujayra membranasida özgarişlarga sabab bölib, spermatozoid tuxum hujayrani örab turgan granulyoza hujayralari massasiga, ayniqsa tuxum hujayraning yaltiroq qobiğiga (zona pellucida) kirib boriş paytida akrosomaga öz fermentlarini tez va oson ajratiş imkonini beradi. Şunday qilib, kapasitatsiya jarayonida köplab özgarişlar yuz beradi. Bu özgarişlarsiz spermatozoid uruğlantiriş uçun tuxum hujayra içiga yöl topa olmaydi."
+  },
+  "ch81-f39": {
+   "text": "Akrosoma fermentlari, “akrosoma reaksiyasi” va tuxum hujayraga kirib boriş"
+  },
+  "ch81-f40": {
+   "text": "Spermatozoid akrosomasida köp miqdorda _gialuronidaza_ va _proteolitik fermentlar_ saqlanadi. Gialuronidaza tuxumdon granulyoza hujayralarini birga uşlab turadigan hujayralararo sementdagi gialuron kislotasi polimerlarini depolimerlaydi. Proteolitik fermentlar tuxum hujayraga hali yopişib turgan töqima hujayralarining tuzilma elementlaridagi oqsillarni hazm qiladi."
+  },
+  "ch81-f41": {
+   "text": "Tuxum hujayra tuxumdon follikulasidan baçadon nayiga çiqarilganda u hali ham özi bilan granulyoza hujayralarining köp qavatlarini olib yuradi. Spermatozoid tuxum hujayrani uruğlantirişidan oldin bu granulyoza hujayralari qavatlarini eritişi, söngra tuxum hujayraning qalin qobiği — _yaltiroq qobiq_ (zona pellucida) orqali kirib borişi kerak. Bu kirib borişga erişiş uçun akrosomada saqlangan fermentlar ajrala boşlaydi. Bu fermentlar orasidagi gialuronidaza ayniqsa granulyoza hujayralari orasida spermatozoid tuxum hujayraga yetib borişi uçun yöllar oçişda muhim."
+  },
+  "ch81-f42": {
+   "text": "Spermatozoid tuxum hujayraning yaltiroq qobiğiga yetib borganda spermatozoidning oldingi membranasi yaltiroq qobiqdagi retseptor oqsillar bilan öziga xos ravişda boğlanadi. Söngra butun akrosoma tez eriydi va barça akrosoma fermentlari ajraladi. Bir neça daqiqa içida bu fermentlar spermatozoid boşining yaltiroq qobiq orqali tuxum hujayra içiga ötişi uçun kirib boriş yölini oçadi. Yana 30 daqiqa içida spermatozoid boşi va oositning hujayra membranalari bir-biri bilan qöşilib, yagona hujayrani hosil qiladi. Bir vaqtning özida spermatozoid va oositning genetik materiali birlaşib, ona va otadan teng miqdorda xromosomalar va genlarni tutuvçi butunlay yangi hujayra genomini hosil qiladi. Bu _uruğlaniş_ jarayoni; söngra 83-bobda muhokama qilinganidek, embrion rivojlana boşlaydi."
+  },
+  "ch81-f43": {
+   "text": "Spermatozoidlar şunça köp bölişiga qaramay, nega oositga faqat bittasi kiradi? Sababi töliq ma’lum emas, ammo birinçi spermatozoid tuxum hujayraning yaltiroq qobiğiga kirib borgaçdan bir neça daqiqa içida kalsiy ionlari oosit membranasi orqali içkariga diffuziyalanadi va köplab kortikal donalarning oositdan perivitellin bösliqqa ekzotsitoz orqali ajralişiga sabab böladi. Bu donalarda yaltiroq qobiqning barça qismlariga singib, qöşimça spermatozoidlarning boğlanişiga yöl qöymaydigan va hatto boğlana boşlagan spermatozoidlarni ham ajralib tuşişiga sabab böladigan moddalar bor. Şunday qilib, uruğlaniş paytida oositga deyarli heç qaçon bittadan köp spermatozoid kirmaydi.",
+   "lead": "Nega oositga faqat bitta spermatozoid kiradi?"
+  },
+  "ch81-f44": {
+   "text": "Uruğ kanalçalari epiteliysi bir neça kasallik tufayli yemirilişi mumkin. Masalan, _parotit_ (tepki) natijasida uruğdonlarning ikki tomonlama _orxiti_ (yalliğlanişi) kasallangan ayrim erkaklarda bepuştlikka sabab böladi. Bundan taşqari, ayrim öğil gödaklar jinsiy yöllardagi torayişlar yoki boşqa anomaliyalar natijasida degeneratsiyalangan kanalça epiteliysi bilan tuğiladi. Nihoyat, bepuştlikning yana bir, odatda vaqtinçalik sababi — _uruğdonlarning haddan taşqari harorati_."
+  },
+  "ch81-f45": {
+   "text": "Uruğdonlar haroratining ortişi spermatogoniyalardan taşqari uruğ kanalçalarining köpçilik hujayralarining degeneratsiyasiga sabab bölib, spermatogenezga tösqinlik qilişi mumkin. Köpinça uruğdonlar osilib turgan yorğoqda joylaşişining sababi bu bezlar haroratini tananing içki haroratidan past saqlaş, deb aytilgan, garçi odatda içki haroratdan atigi taxminan 2°C past bölsa ham. Sovuq kunlarda yorğoq reflekslari yorğoq muskulaturasini qisqartirib, bu 2°C farqni saqlaş uçun uruğdonlarni tanaga yaqinlaştiradi. Şunday qilib, yorğoq uruğdonlar uçun sovutiş mexanizmi (ammo _boşqariladigan_ sovutiş) vazifasini bajaradi; usiz issiq havoda spermatogenez yetişmasligi mumkin.",
+   "lead": "Haroratning spermatogenezga ta’siri."
+  },
+  "ch81-f46": {
+   "text": "Kriptorxizm uruğdonning homila tuğiliş paytida yoki unga yaqin vaqtda qorin bösliğidan yorğoqqa tuşmasligini anglatadi. Erkak homila rivojlanişi davomida uruğdonlar qorin bösliğidagi jinsiy qirralardan hosil böladi. Biroq bola tuğilişidan taxminan 3 hafta — 1 oy oldin uruğdonlar me’yorda çov kanallari orqali yorğoqqa tuşadi. Ba’zan bu tuşiş yuz bermaydi yoki töliq yuz bermaydi va natijada bir yoki ikkala uruğdon qorin bösliğida, çov kanalida yoki tuşiş yöli bö’ylab boşqa joyda qoladi.",
+   "lead": "Kriptorxizm."
+  },
+  "ch81-f47": {
+   "text": "Butun umr davomida qorin bösliğida qolgan uruğdon spermatozoid hosil qila olmaydi. Kanalça epiteliysi degeneratsiyaga uçraydi va faqat uruğdonning interstitsial tuzilmalari qoladi. Hatto qorin bösliğidagi yorğoqdagiga qaraganda bir neça daraja yuqori harorat ham kanalça epiteliysining bu degeneratsiyasiga va natijada bepuştlikka sabab böliş uçun yetarli, deb da’vo qilingan, garçi bu ta’sir aniq bölmasa ham. Şunga qaramay, şu sababli uruğdonlari tuşmagan öğil bolalarda katta yoşdagi jinsiy hayot boşlanişidan oldin kriptorxid uruğdonlarni qorin bösliğidan yorğoqqa köçiriş operatsiyalari ötkazilişi mumkin."
+  },
+  "ch81-f48": {
+   "text": "Homila uruğdonlari tomonidan testosteron sekretsiyasi uruğdonlarning qorin bösliğidan yorğoqqa tuşişiga sabab böladigan me’yoriy qözğatuvçidir. Şuning uçun kriptorxizmning köp, balki köpçilik hollari yetarli testosteron ajrata olmaydigan anormal hosil bölgan uruğdonlar tufayli yuzaga keladi. Bu bemorlarda kriptorxizm uçun jarrohlik operatsiyasi muvaffaqiyatli bölişi ehtimoli kam."
+  },
+  "ch81-f49": {
+   "text": "Har bir jinsiy aloqada otiladigan spermaning odatiy miqdori örtaça taxminan 3,5 millilitr va spermaning har millilitrida örtaça taxminan 120 million spermatozoid bor, garçi hatto “me’yoriy” erkaklarda bu miqdor 35 milliondan 200 milliongaça farq qilişi mumkin bölsa ham. Bu har bir eyakulyatning bir neça millilitrida odatda örtaça jami taxminan 400 million spermatozoid borligini anglatadi. Har millilitrdagi spermatozoidlar soni taxminan 20 milliondan kamayganda odam bepuşt bölişi ehtimoli bor. Şunday qilib, tuxum hujayrani uruğlantiriş uçun faqat bitta spermatozoid zarur bölsa-da, tuşunilmagan sabablarga köra faqat bitta spermatozoid tuxum hujayrani uruğlantirişi uçun eyakulyatda odatda juda köp sonli spermatozoidlar bölişi kerak.",
+   "lead": "Spermatozoidlar sonining fertillikka ta’siri."
+  },
+  "ch81-f50": {
+   "text": "Ba’zan erkakda spermatozoidlar soni me’yoriy bölsa ham, u bepuşt böladi. Bunday holat yuz berganda ba’zan spermatozoidlarning yarmigaça jismoniy jihatdan anormal ekani — **Rasm 81-5** da körsatilganidek, ikki boşli, anormal şakldagi boşli yoki anormal dumli ekani aniqlanadi. Boşqa hollarda spermatozoidlar tuzilma jihatidan me’yoriy körinadi, ammo tuşunilmagan sabablarga köra ular yo butunlay harakatsiz, yo nisbatan harakatsiz böladi. Spermatozoidlarning köpçiligi morfologik jihatdan anormal yoki harakatsiz bölganda, qolgan spermatozoidlar me’yoriy körinsa ham, odam bepuşt bölişi ehtimoli bor.",
+   "lead": "Spermatozoidlar morfologiyasi va harakatçanligining fertillikka ta’siri."
+  },
+  "ch81-f52": {
+   "text": "ERKAK JINSIY AKTI"
+  },
+  "ch81-f53": {
+   "text": "ERKAK JINSIY AKTINI BAJARIŞNING NERV QÖZĞATUVÇISI"
+  },
+  "ch81-f54": {
+   "text": "Erkak jinsiy aktini boşlaş uçun sezgi nerv signallarining eng muhim manbai — _jinsiy olat boşçasi_. Boşçada markaziy nerv tizimiga _jinsiy seziş_ deb ataladigan maxsus seziş modalligini uzatadigan ayniqsa sezgir sezgi oxirgi a’zolar tizimi bor. Jinsiy aloqaning boşçaga sirpanuvçi massaj ta’siri sezgi oxirgi a’zolarini qözğatadi va jinsiy signallar öz navbatida uyat nervi orqali, söngra dumğaza çigali orqali orqa miyaning dumğaza qismiga va nihoyat orqa miya bö’ylab yuqoriga, miyaga ötadi."
+  },
+  "ch81-f55": {
+   "text": "Jinsiy aktni qözğatişga yordam beriş uçun impulslar orqa miyaga jinsiy olatga tutaş sohalardan ham kirişi mumkin. Masalan, anal epiteliy, yorğoq va umuman oraliq tuzilmalarini qözğatiş orqa miyaga jinsiy sezgini kuçaytiradigan signallar yuborişi mumkin. Jinsiy sezgilar hatto içki tuzilmalarda, masalan, siydik çiqaruv kanali, siydik pufagi, prostata, uruğ pufakçalari, uruğdonlar va uruğ çiqaruv yöli sohalarida ham paydo bölişi mumkin. Haqiqatan ham, “jinsiy mayl”ning sabablaridan biri — jinsiy a’zolarning sekretlar bilan tölişi. Bu jinsiy a’zolarning yengil infeksiyasi va yalliğlanişi ba’zan jinsiy istakni qözğatişi mumkin, kantaridin kabi ayrim “afrodiziak” dorilar esa siydik pufagi va siydik çiqaruv kanali şilliq qavatini ta’sirlab, yalliğlaniş va tomirlarda qon dimlanişini keltirib çiqaradi."
+  },
+  "ch81-f56": {
+   "text": "Tegişli ruhiy qözğatuvçilar odamning jinsiy aktni bajariş qobiliyatini keskin kuçaytirişi mumkin. Şunçaki jinsiy fikrlar haqida öylaş yoki hatto jinsiy aloqa amalga oşirilayotganini tuşda köriş ham eyakulyatsiya bilan yakunlanadigan erkak aktini boşlab berişi mumkin. Haqiqatan ham, köpinça “höl tuşlar” deb ataladigan tuş paytidagi _tungi pollyutsiyalar_ köplab erkaklarda jinsiy hayotning ayrim bosqiçlarida, ayniqsa ösmirlik yillarida uçraydi.",
+   "lead": "Erkak jinsiy qözğalişining ruhiy elementi."
+  },
+  "ch81-f57": {
+   "text": "Ruhiy omillar odatda erkak jinsiy aktida muhim rol öynasa va uni boşlab berişi yoki tormozlaşi mumkin bölsa-da, uni bajariş uçun miya funksiyasi ehtimol zarur emas, çunki orqa miyasi bel sohasidan yuqorida kesilgan ayrim hayvonlarda va ba’zan odamlarda tegişli genital qözğatiş eyakulyatsiyaga sabab bölişi mumkin. Erkak jinsiy akti orqa miyaning dumğaza va bel qismlarida integratsiyalangan tuğma reflektor mexanizmlar natijasi bölib, bu mexanizmlar yo miyadan keladigan ruhiy qözğatiş, yo jinsiy a’zolardan keladigan haqiqiy jinsiy qözğatiş bilan boşlanişi mumkin, ammo odatda bu ikkalasining birikmasi böladi.",
+   "lead": "Erkak jinsiy aktining orqa miyada integratsiyalanişi."
+  },
+  "ch81-f58": {
+   "text": "ERKAK JINSIY AKTINING BOSQIÇLARI"
+  },
+  "ch81-f59": {
+   "text": "Jinsiy olat ereksiyasi erkak jinsiy qözğalişining birinçi ta’siri bölib, ereksiya darajasi ruhiy yoki jismoniy qözğaliş darajasiga mutanosib. Ereksiya orqa miyaning dumğaza qismidan çanoq nervlari orqali jinsiy olatga ötadigan parasimpatik impulslar tufayli yuzaga keladi. Bu parasimpatik nerv tolalari köpçilik boşqa parasimpatik tolalardan farqli ravişda atsetilxolindan taşqari _azot oksidi_ va/yoki _vazoaktiv içak peptidini_ ham ajratadi, deb hisoblanadi. Azot oksidi _guanilatsiklaza_ fermentini faollaştirib, _siklik guanozinmonofosfat_ (sGMF) hosil bölişini oşiradi. Siklik GMF ayniqsa jinsiy olat arteriyalarini hamda **Rasm 81-6** da körsatilgan jinsiy olat tanasidagi _ğorsimon tanalar_ va _ğovak tananing_ _ereksiyalovçi töqimasidagi_ silliq muskul tolalarining trabekulyar törini böşaştiradi. Tomir silliq muskullari böşaşgan sari jinsiy olatga qon oqimi ortadi, bu esa tomir endotelial hujayralaridan azot oksidi ajralişiga va yanada vazodilatatsiyaga sabab böladi.",
+   "lead": "Jinsiy olat ereksiyasi — parasimpatik nervlarning roli."
+  },
+  "ch81-f61": {
+   "text": "Jinsiy olatning ereksiyalovçi töqimasi me’yorda nisbatan qonsiz bölgan, ammo arterial qon ularga bosim ostida tez oqib kirganda, venoz çiqiş esa qisman töşilganda keskin kengayadigan yirik ğorsimon sinusoidlardan iborat. Bundan taşqari, ereksiyalovçi tanalar, ayniqsa ikkita ğorsimon tana mustahkam fibroz qobiqlar bilan örab olingan; şuning uçun sinusoidlar içidagi yuqori bosim ereksiyalovçi töqimaning şunça şişişiga sabab böladiki, jinsiy olat qattiq va uzun böladi; bu _ereksiya_ hodisasi."
+  },
+  "ch81-f62": {
+   "text": "Jinsiy qözğaliş paytida parasimpatik impulslar ereksiyani kuçaytirişdan taşqari uretra bezlari va bulbouretral bezlarni şilliq ajratişga majbur qiladi. Bu şilliq jinsiy aloqa paytida namlanişga yordam beriş uçun siydik çiqaruv kanali orqali oqadi. Biroq jinsiy aloqadagi namlanişning köp qismini erkak a’zolari emas, balki ayol jinsiy a’zolari ta’minlaydi. Qoniqarli namlanişsiz erkak jinsiy akti kamdan-kam muvaffaqiyatli böladi, çunki namlanmagan jinsiy aloqa jinsiy sezgilarni qözğatiş örniga tormozlaydigan işqalaniş, oğriqli sezgilarga sabab böladi.",
+   "lead": "Namlaniş parasimpatik funksiya."
+  },
+  "ch81-f63": {
+   "text": "Emissiya va eyakulyatsiya erkak jinsiy aktining avj nuqtasi. Jinsiy qözğatuvçi juda kuçli bölganda orqa miyaning reflektor markazlari T12–L2 darajasida orqa miyadan çiqib, eyakulyatsiyaning darakçisi — _emissiyani_ boşlaş uçun gipogastral va çanoq simpatik nerv çigallari orqali jinsiy a’zolarga ötadigan _simpatik impulslarni_ çiqara boşlaydi.",
+   "lead": "Emissiya va eyakulyatsiya simpatik nervlarning funksiyasi."
+  },
+  "ch81-f64": {
+   "text": "Emissiya spermatozoidlarni içki siydik çiqaruv kanaliga çiqarib yuboriş uçun uruğ çiqaruv yöli va ampulaning qisqarişi bilan boşlanadi. Söngra prostata bezi muskul qavatining qisqarişi, keyin uruğ pufakçalarining qisqarişi prostata va uruğ suyuqligini ham siydik çiqaruv kanaliga çiqarib, spermatozoidlarni oldinga itaradi. Bu barça suyuqliklar içki siydik çiqaruv kanalida bulbouretral bezlar allaqaçon ajratgan şilliq bilan aralaşib, spermani hosil qiladi. Şu nuqtagaça bölgan jarayon _emissiya_ deb ataladi."
+  },
+  "ch81-f65": {
+   "text": "Içki siydik çiqaruv kanalining sperma bilan tölişi uyat nervlari orqali orqa miyaning dumğaza sohalariga uzatiladigan sezgi signallarini keltirib çiqaradi va içki jinsiy a’zolarda birdan tölganlik hissini beradi. Bundan taşqari, bu sezgi signallari içki jinsiy a’zolarning ritmik qisqarişini yanada qözğatadi va jinsiy olat ereksiyalovçi töqimasi asoslarini siqadigan quymuç-ğorsimon va piyozsimon-ğovak muskullarning qisqarişiga sabab böladi. Bu ta’sirlar birgalikda jinsiy olatning ereksiyalovçi töqimasida, jinsiy yöllarda va siydik çiqaruv kanalida bosimning ritmik tölqinsimon ortişiga sabab bölib, spermani siydik çiqaruv kanalidan taşqariga “otadi”. Bu yakuniy jarayon _eyakulyatsiya_ deb ataladi. Bir vaqtning özida çanoq muskullari va hatto tana gövdasining ayrim muskullarining ritmik qisqarişlari çanoq va jinsiy olatning itariluvçi harakatlariga sabab böladi, bu ham spermani qinning eng çuqur joylariga va ehtimol hatto ozgina baçadon böyniga yetkazişga yordam beradi."
+  },
+  "ch81-f66": {
+   "text": "Emissiya va eyakulyatsiyaning bu butun davri _erkak orgazmi_ deb ataladi. U tugagaç, erkak jinsiy qözğalişi 1–2 daqiqa içida deyarli töliq yöqoladi va ereksiya töxtaydi; bu jarayon _rezolyutsiya_ deb ataladi."
+  },
+  "ch81-f67": {
+   "text": "TESTOSTERON VA BOŞQA ERKAK JINSIY GORMONLARI"
+  },
+  "ch81-f68": {
+   "text": "ERKAK JINSIY GORMONLARINING SEKRETSIYASI, METABOLIZMI VA KIMYOSI"
+  },
+  "ch81-f69": {
+   "text": "Uruğdonlar birgalikda _androgenlar_ deb ataladigan bir neça erkak jinsiy gormonlarini, jumladan _testosteron, digidrotestosteron_ va _androstendionni_ ajratadi. Testosteron boşqalaridan şunça köp miqdorda böladiki, uni uruğdonlarning asosiy gormoni deb hisoblaş mumkin, garçi testosteronning köp qismi oxir-oqibat nişon töqimalarda faolroq gormon — digidrotestosteronga aylansa ham.",
+   "lead": "Uruğdonlardagi Leydig interstitsial hujayralari tomonidan testosteron sekretsiyasi."
+  },
+  "ch81-f70": {
+   "text": "Testosteron **Rasm 81-7** da körsatilganidek, uruğ kanalçalari orasidagi oraliqlarda joylaşgan va katta yoşdagi uruğdonlar massasining taxminan 20% ini taşkil etadigan _Leydig interstitsial hujayralari_ tomonidan hosil qilinadi. Bolalik davrida uruğdonlar deyarli testosteron ajratmaydigan paytda Leydig hujayralari uruğdonlarda deyarli bölmaydi, ammo ular yangi tuğilgan öğil gödakda hayotning dastlabki bir neça oyida va baloğatdan keyin katta yoşli erkakda köp böladi; bu ikkala davrda ham uruğdonlar köp miqdorda testosteron ajratadi. Bundan taşqari, Leydig interstitsial hujayralaridan ösmalar rivojlanganda juda köp miqdorda testosteron ajraladi. Uruğdonlarning jinsiy epiteliysi rentgen nurlari bilan davolaş yoki haddan taşqari issiqlik bilan yemirilganda kamroq oson yemiriladigan Leydig hujayralari köpinça testosteron işlab çiqarişda davom etadi."
+  },
+  "ch81-f72": {
+   "text": "“Androgen” atamasi testosteronni ham öz içiga olgan holda maskulinizatsiyalovçi ta’sirga ega har qanday steroid gormonni anglatadi; u uruğdonlardan taşqari organizmning boşqa joylarida işlab çiqariladigan erkak jinsiy gormonlarini ham öz içiga oladi. Masalan, buyrak usti bezlari kamida beşta androgen ajratadi, garçi bu barça androgenlarning umumiy maskulinizatsiyalovçi faolligi me’yorda şunça kiçik (katta yoşli erkakda umumiy faollikning <5% i) bölsa-da, hatto ayollarda ham ular qov va qöltiq osti tuklarining ösişidan taşqari sezilarli erkaklarga xos belgilarga sabab bölmaydi. Biroq buyrak usti bezining androgen işlab çiqaruvçi hujayralari ösmasi paydo bölganda androgen gormonlar miqdori hatto ayollarda ham erkaklarning barça odatiy ikkilamçi jinsiy belgilarini yuzaga keltiriş uçun yetarliça köp bölişi mumkin. Bu ta’sirlar 78-bobda adrenogenital sindrom munosabati bilan tasvirlangan.",
+   "lead": "Organizmning boşqa joylarida androgenlar sekretsiyasi."
+  },
+  "ch81-f73": {
+   "text": "Kamdan-kam hollarda tuxumdondagi embrional qirra hujayralaridan ayollarda ortiqça miqdorda androgenlar işlab çiqaradigan ösma rivojlanişi mumkin; şunday ösmalardan biri — _arrenoblastoma_. Me’yoriy tuxumdon ham juda oz miqdorda androgenlar işlab çiqaradi, ammo ular ahamiyatli emas."
+  },
+  "ch81-f74": {
+   "text": "**Rasm 81-8** dagi _testosteron_ va _digidrotestosteron_ formulalaridan körinib turganidek, barça androgenlar steroid birikmalar. Uruğdonlarda ham, buyrak usti bezlarida ham androgenlar yo xolesterindan, yo bevosita atsetil-koferment A dan sintezlanişi mumkin.",
+   "lead": "Androgenlar steroidlardir."
+  },
+  "ch81-f76": {
+   "text": "Uruğdonlar tomonidan ajralgaçdan keyin testosteronning taxminan 97% i yo plazma albumini bilan böş, yo _jinsiy gormonlarni boğlovçi globulin_ deb ataladigan beta globulin bilan mahkamroq boğlanadi va bu holatlarda qonda 30 daqiqadan bir neça soatgaça aylanadi. Bu vaqtga kelib testosteron yo töqimalarga ötadi, yo keyinçalik çiqariladigan nofaol mahsulotlarga parçalanadi.",
+   "lead": "Testosteron metabolizmi."
+  },
+  "ch81-f77": {
+   "text": "Töqimalarga birikadigan testosteronning köp qismi töqima hujayralari içida, ayniqsa katta yoşdagi prostata bezi va erkak homilaning taşqi jinsiy a’zolari kabi ayrim nişon a’zolarda _digidrotestosteronga_ aylanadi. Testosteronning hammasi emas, ammo ayrim ta’sirlari bu aylanişga boğliq. Hujayra içi funksiyalari bobning keyingi qismida muhokama qilinadi."
+  },
+  "ch81-f78": {
+   "text": "Töqimalarga birikmagan testosteron asosan jigar tomonidan tez _androsteron_ va _degidroepiandrosteronga_ aylanadi va bir vaqtning özida glyukuronidlar yoki sulfatlar sifatida (ayniqsa glyukuronidlar) konyugatsiyalanadi. Bu moddalar yo jigar öti orqali içakka, yo buyraklar orqali siydikka çiqariladi.",
+   "lead": "Testosteronning parçalanişi va çiqarilişi."
+  },
+  "ch81-f79": {
+   "text": "Erkaklarda testosterondan taşqari oz miqdorda estrogenlar hosil böladi (homilador bölmagan ayoldagining taxminan beşdan bir qismi) va erkak siydigidan ança miqdorda estrogenlar ajratib oliş mumkin. Erkaklarda estrogenlarning aniq manbai noaniq, ammo quyidagi ma’lumotlar ma’lum: 1. Uruğ kanalçalari suyuqligida estrogenlar konsentratsiyasi ança yuqori va ehtimol spermiogenezda muhim rol öynaydi. Bu estrogen Sertoli hujayralari tomonidan testosteronni estradiolga aylantiriş orqali hosil qilinadi, deb hisoblanadi. 2. Ança köp miqdordagi estrogenlar organizmning boşqa töqimalarida, ayniqsa jigarda testosteron va androstandioldan hosil böladi; bu ehtimol erkakdagi umumiy estrogen işlab çiqarilişining 80% igaçasini taşkil etadi.",
+   "lead": "Erkaklarda estrogen işlab çiqarilişi."
+  },
+  "ch81-f80": {
+   "text": "TESTOSTERONNING FUNKSIYALARI"
+  },
+  "ch81-f81": {
+   "text": "Umuman olganda, testosteron erkak tanasining ajralib turadigan xususiyatlari uçun javobgar. Hatto homila davrida ham uruğdonlar yöldoşdan ajraladigan xorionik gonadotropin bilan qözğatilib, homila rivojlanişining butun davri davomida va tuğilgaçdan keyin 10 yoki undan köp hafta davomida örtaça miqdorda testosteron işlab çiqaradi; şundan keyin bolalik davrida taxminan 10–13 yoşgaça testosteron deyarli işlab çiqarilmaydi. Söngra baloğat boşlanişida gipofiz oldingi bölagi gonadotrop gormonlari ta’sirida testosteron işlab çiqarilişi tez ortadi va **Rasm 81-9** da körsatilganidek, qolgan hayotning köp qismi davomida davom etib, 50–60 yoşdan keyin biroz kamayadi. Biroq ayrim tadqiqotlar köpçilik soğlom erkaklarda yoş ötişi bilan plazmadagi testosteron darajasi me’yoriy oraliqda qolişi mumkinligini körsatadi; 60 yoşdan oşgan erkaklarning atigi taxminan 10–20% i va 80 yoşdan oşgan erkaklarning 50% ida testosteron darajasi 3 ng/ml dan (klinik jihatdan odatda <300 ng/dl yoki <10,4 nmol/l sifatida ifodalanadi) past — “past” böladi. Söngi yillarda testosteronning keç boşlanadigan kamayişi va semizlik hamda 2-tip qandli diabet kabi metabolik buzilişlar örtasida aniq boğliqlik borligi ayon bölgan."
+  },
+  "ch81-f82": {
+   "text": "Homila rivojlanişi davrida testosteronning funksiyalari"
+  },
+  "ch81-f83": {
+   "text": "Testosteron erkak homila uruğdonlari tomonidan embrional hayotning taxminan yettinçi haftasida işlab çiqarila boşlaydi. Haqiqatan ham, ayol va erkak jinsiy xromosomalari orasidagi asosiy funksional farqlardan biri şundaki, erkak xromosomasida _uruğdonni belgilovçi omil_ (_SRY oqsili_ deb ham ataladi) deb ataladigan oqsilni kodlaydigan _Y jinsni belgilovçi soha (SRY) geni_ bor. SRY oqsili jinsiy qirra hujayralarining oxir-oqibat uruğdonlarga aylanib, testosteron ajratadigan hujayralarga differensiallanişiga sabab böladigan genlar faollaşiş kaskadini boşlab beradi, ayol xromosomasi esa bu qirraning estrogenlar ajratadigan hujayralarga differensiallanişiga sabab böladi."
+  },
+  "ch81-f84": {
+   "text": "Homilador hayvonlarga köp miqdorda erkak jinsiy gormoni yuboriş homila urğoçi bölsa ham erkak jinsiy a’zolarining rivojlanişiga sabab böladi. Bundan taşqari, erkak homilada uruğdonlarni erta olib taşlaş ayol jinsiy a’zolarining rivojlanişiga sabab böladi."
+  },
+  "ch81-f85": {
+   "text": "Şunday qilib, homila uruğdonlari ajratadigan testosteron erkak tanasi xususiyatlarining, jumladan klitor va qin örniga jinsiy olat va yorğoq hosil bölişining rivojlanişi uçun javobgar. U prostata bezi, uruğ pufakçalari va erkak jinsiy yöllari hosil bölişiga ham sabab böladi va bir vaqtning özida ayol jinsiy a’zolari hosil bölişini bostiradi."
+  },
+  "ch81-f86": {
+   "text": "Uruğdonlar odatda homiladorlikning oxirgi 2–3 oyida, uruğdonlar ança miqdorda testosteron ajrata boşlaganda yorğoqqa tuşadi. Agar öğil bola uruğdonlari tuşmagan, ammo boşqa jihatdan me’yoriy holda tuğilsa, çov kanallari uruğdonlarning ötişi uçun yetarliça katta bölsa, testosteron yuboriş odatda uruğdonlarning odatiy tarzda tuşişiga sabab böladi.",
+   "lead": "Testosteronning uruğdonlarni tuşiriş ta’siri."
+  },
+  "ch81-f87": {
+   "text": "Yangi tuğilgan bola uruğdonlarining Leydig hujayralarini testosteron işlab çiqarişga qözğatadigan gonadotrop gormonlarni yuboriş ham uruğdonlarning tuşişiga sabab bölişi mumkin. Şunday qilib, uruğdonlarning tuşişi uçun qözğatuvçi — testosteron; bu yana testosteron homila davrida erkak jinsiy rivojlanişi uçun muhim gormon ekanini körsatadi."
+  },
+  "ch81-f88": {
+   "text": "Testosteronning katta yoşdagi birlamçi va ikkilamçi jinsiy belgilar rivojlanişiga ta’siri"
+  },
+  "ch81-f89": {
+   "text": "Baloğatdan keyin testosteron sekretsiyasining ortib borişi 20 yoşgaça jinsiy olat, yorğoq va uruğdonlarning taxminan sakkiz barobar kattalaşişiga sabab böladi. Bundan taşqari, testosteron baloğatda boşlanib, yetuklikda tugaydigan erkak ikkilamçi jinsiy belgilarining rivojlanişiga sabab böladi. Bu ikkilamçi jinsiy belgilar jinsiy a’zolardan taşqari erkakni ayoldan quyidagiça ajratib turadi."
+  },
+  "ch81-f90": {
+   "text": "Testosteron tuklarning (1) qov ustida, (2) qorinning oq çiziği bö’ylab yuqoriga, ba’zan kindikkaça va undan yuqoriga, (3) yuzda, (4) odatda kökrakda va (5) kamroq hollarda tananing orqa kabi boşqa sohalarida ösişiga sabab böladi. U tananing köpçilik boşqa qismlaridagi tuklarni ham qalinroq qiladi.",
+   "lead": "Tana tuklarining taqsimlanişiga ta’siri."
+  },
+  "ch81-f91": {
+   "text": "Testosteron boşning tepa qismida soç ösişini kamaytiradi; funksional uruğdonlari bölmagan erkak kal bölmaydi. Biroq köplab viril erkaklar heç qaçon kal bölmaydi, çunki kallik ikki omil natijasidir: birinçidan, kallik rivojlanişi uçun _genetik asos_ va ikkinçidan, bu genetik asos ustiga qöşiladigan _köp miqdordagi androgen gormonlar_. Tegişli genetik asosga ega ayolda uzoq davom etadigan androgen ösma rivojlanganda u ham erkak kabi kal böladi.",
+   "lead": "Erkak tipidagi kallik."
+  },
+  "ch81-f92": {
+   "text": "Uruğdonlar ajratadigan yoki organizmga yuborilgan testosteron hiqildoq şilliq qavatining gipertrofiyasi va hiqildoqning kattalaşişiga sabab böladi. Bu ta’sirlar avval nisbatan nomuvofiq, “sinuvçi” ovozni yuzaga keltiradi va u asta-sekin odatiy katta yoşdagi erkak ovoziga aylanadi.",
+   "lead": "Ovozga ta’siri."
+  },
+  "ch81-f93": {
+   "text": "Testosteron butun tana terisining qalinligini va teri osti töqimalarining dağalligini oşiradi. Testosteron organizmning ayrim yoki ehtimol barça yoğ bezlari sekretsiyasi tezligini ham oşiradi. Ayniqsa yuzdagi yoğ bezlarining ortiqça sekretsiyasi muhim bölib, u _husnbuzarga_ olib kelişi mumkin. Şuning uçun husnbuzar tana ortgan testosteronga ilk bor duç kelayotgan erkak ösmirlik davrining eng köp uçraydigan xususiyatlaridan biri. Bir neça yillik testosteron sekretsiyasidan keyin teri odatda testosteronga moslaşadi va husnbuzarni yengib ötadi.",
+   "lead": "Testosteron teri qalinligini oşiradi va husnbuzar rivojlanişiga hissa qöşişi mumkin."
+  },
+  "ch81-f94": {
+   "text": "Erkaklarning eng muhim xususiyatlaridan biri — baloğatdan keyin muskulaturaning ortib boruvçi rivojlanişi; muskul massasi ayoldagidan örtaça taxminan 50% köp böladi. Muskul massasining bu ortişi tananing muskuldan taşqari qismlarida ham oqsilning ortişi bilan boğliq. Terining köplab özgarişlari terida oqsillar töplanişi tufayli va ovozdagi özgarişlar ham qisman testosteronning bu oqsil anabolik funksiyasi natijasidir.",
+   "lead": "Testosteron oqsil hosil bölişini va muskullar rivojlanişini oşiradi."
+  },
+  "ch81-f95": {
+   "text": "Testosteron va boşqa androgenlar organizm muskulaturasiga katta ta’sir körsatgani uçun sintetik androgenlar sportçilar tomonidan muskul işini yaxşilaş uçun keng qöllaniladi. 85-bobda sport fiziologiyasi munosabati bilan muhokama qilinganidek, ortiqça androgenlarning uzoq muddatli zararli ta’sirlari tufayli bu amaliyot keskin qoralanişi kerak. Testosteron yoki sintetik androgenlar ba’zan keksalikda muskul kuçi va tetiklikni yaxşilaş uçun “yoşlik gormoni” sifatida ham qöllaniladi, ammo natijalari şubhali. Ayrim tadqiqotlar keksa erkaklarda testosteron bilan örinbosar terapiya nojöya yurak-qon tomir hodisalari xavfini oşirişi mumkinligini körsatadi."
+  },
+  "ch81-f96": {
+   "text": "Baloğatda (yoki testosteronni uzoq muddat yuborişdan keyin) aylanib yurgan testosteronning keskin ortişidan keyin suyaklar ança qalinlaşadi va ança qöşimça kalsiy tuzlarini töplaydi. Şunday qilib, testosteron suyak matriksining umumiy miqdorini oşiradi va kalsiy uşlanişiga sabab böladi. Suyak matriksining ortişi testosteronning umumiy oqsil anabolik funksiyasi va ortgan oqsilga javoban kalsiy tuzlarining töplanişi natijasi, deb hisoblanadi.",
+   "lead": "Testosteron suyak matriksini köpaytiradi va kalsiy uşlanişiga sabab böladi."
+  },
+  "ch81-f97": {
+   "text": "Testosteron çanoqqa öziga xos ta’sir körsatadi: (1) çanoqdan çiqiş teşigini toraytiradi, (2) uni uzaytiradi, (3) ayol çanoğining keng tuxumsimon şakli örniga voronkasimon şaklni hosil qiladi va (4) yuk köteriş uçun butun çanoqning mustahkamligini keskin oşiradi. Testosteron bölmaganda erkak çanoği ayolnikiga öxşaş çanoq bölib rivojlanadi."
+  },
+  "ch81-f98": {
+   "text": "Testosteron suyaklarning ölçami va mustahkamligini oşiriş qobiliyati tufayli ba’zan keksa erkaklarda osteoporozni davolaş uçun qöllaniladi."
+  },
+  "ch81-f99": {
+   "text": "Hali ösayotgan bolada köp miqdorda testosteron (yoki boşqa har qanday androgen) anormal ajralganda suyak ösiş tezligi keskin ortadi va umumiy tana böyining keskin ösişiga sabab böladi. Biroq testosteron uzun suyaklarning epifizlarining suyak diafizlari bilan erta yoşda qöşilişiga ham sabab böladi. Şuning uçun ösişning tezligiga qaramay, epifizlarning bu erta qöşilişi odamning, agar testosteron umuman ajralmaganda erişişi mumkin bölgan böyga yetişiga tösqinlik qiladi. Hatto me’yoriy erkaklarda ham yakuniy katta yoşdagi böy baloğatdan oldin biçilgan erkaklarnikidan biroz past."
+  },
+  "ch81-f100": {
+   "text": "Köp miqdorda testosteron yuboriş bazal metabolizm tezligini 15% gaça oşirişi mumkin. Bundan taşqari, ösmirlik va erta katta yoşda uruğdonlar ajratadigan testosteronning odatiy miqdori ham metabolizm tezligini uruğdonlar faol bölmaganda bölişi mumkin bölgan qiymatdan taxminan 5–10% ga oşiradi. Metabolizm tezligining bu ortişi ehtimol testosteronning oqsil anabolizmiga ta’sirining bilvosita natijasi bölib, oqsillar — ayniqsa fermentlar miqdorining ortişi barça hujayralar faolligini oşiradi.",
+   "lead": "Testosteron bazal metabolizm tezligini oşiradi."
+  },
+  "ch81-f101": {
+   "text": "Biçilgan katta yoşli odamga me’yoriy miqdorda testosteron yuborilganda bir kub millimetr qondagi eritrotsitlar soni 15–20% ga ortadi. Bundan taşqari, örtaça erkakda bir kub millimetrda örtaça ayolga qaraganda taxminan 700 000 ta köp eritrotsit bor. Testosteron va gematokrit ortişi örtasidagi kuçli boğliqlikka qaramay, testosteron eritropoetin darajasini bevosita oşirmaydiganga yoki eritrotsitlar işlab çiqarilişiga bevosita ta’sir qilmaydiganga öxşaydi. Testosteronning eritrotsitlar işlab çiqarilişini oşiriş ta’siri testosteron yuborilgandan keyin yuz beradigan metabolizm tezligining ortişi tufayli heç bölmaganda qisman bilvosita bölişi mumkin.",
+   "lead": "Testosteron eritrotsitlarni köpaytiradi."
+  },
+  "ch81-f102": {
+   "text": "78-bobda qayd etilganidek, köplab steroid gormonlar buyraklarning distal kanalçalarida natriy reabsorbsiyasini oşirişi mumkin. Testosteron ham şunday ta’sirga ega, ammo buyrak usti bezi mineralokortikoidlariga nisbatan faqat kiçik darajada. Şunga qaramay, baloğatdan keyin erkakning qon va hujayradan taşqari suyuqlik hajmlari tana vazniga nisbatan 5–10% gaça ortadi.",
+   "lead": "Elektrolit va suv muvozanatiga ta’siri."
+  },
+  "ch81-f103": {
+   "text": "TESTOSTERON TA’SIRINING ASOSIY HUJAYRA IÇI MEXANIZMI"
+  },
+  "ch81-f104": {
+   "text": "Testosteronning köpçilik ta’sirlari asosan nişon hujayralarda oqsil hosil böliş tezligining ortişi natijasidir. Masalan, prostata bezida testosteron ajralgaçdan keyin bir neça daqiqa içida prostata hujayralariga kiradi. Söngra u köpinça hujayra içi fermenti — 5α-reduktaza ta’sirida sitoplazmatik “retseptor oqsil” bilan boğlanadigan _digidrotestosteronga_ aylanadi. Bu birikma hujayra yadrosiga ötadi va u yerda yadro oqsili bilan boğlanib, DNK-RNK transkripsiyasini yuzaga keltiradi. 30 daqiqa içida RNK-polimeraza faollaşadi va prostata hujayralarida RNK konsentratsiyasi orta boşlaydi, söngra hujayra oqsilining asta-sekin ortişi kuzatiladi. Bir neça kundan keyin prostata bezida DNK miqdori ham ortadi va bir vaqtning özida prostata hujayralari soni ham ortadi."
+  },
+  "ch81-f105": {
+   "text": "Testosteron organizmning deyarli hamma joyida oqsillar işlab çiqarilişini qözğatadi, garçi u birlamçi va ikkilamçi erkak jinsiy belgilarining rivojlanişi uçun javobgar bölgan “nişon” a’zolar yoki töqimalardagi oqsillarga köproq öziga xos ta’sir körsatsa ham."
+  },
+  "ch81-f106": {
+   "text": "Ayrim tadqiqotlar testosteron boşqa steroid gormonlar kabi yangi oqsillar sintezini talab qilmaydigan ayrim tez, _genomsiz ta’sirlarni_ ham körsatişi mumkinligini körsatadi. Biroq testosteronning bu genomsiz ta’sirlarining fiziologik roli hali aniqlanmagan."
+  },
+  "ch81-f107": {
+   "text": "ERKAK JINSIY FUNKSIYALARINING GIPOTALAMUS VA GIPOFIZ OLDINGI BÖLAGI GORMONLARI TOMONIDAN BOŞQARILIŞI"
+  },
+  "ch81-f108": {
+   "text": "Ham erkakda, ham ayolda jinsiy funksiyalarni boşqarişning katta qismi gipotalamus tomonidan _gonadotropin-rilizing gormon_ (GnRG) sekretsiyasi bilan boşlanadi (**Rasm 81-10**). Bu gormon gipofiz oldingi bölagini _gonadotrop gormonlar_ deb ataladigan ikki boşqa gormonni ajratişga qözğatadi: (1) _lyuteinlovçi gormon_ (LG) va (2) _follikulani qözğatuvçi gormon_ (FQG). Öz navbatida LG uruğdonlar tomonidan testosteron sekretsiyasining asosiy qözğatuvçisi, FQG esa asosan spermatogenezni qözğatadi."
+  },
+  "ch81-f110": {
+   "text": "Gonadotropin-rilizing gormon lyuteinlovçi gormon va follikulani qözğatuvçi gormon sekretsiyasini oşiradi"
+  },
+  "ch81-f111": {
+   "text": "GnRG hujayra tanalari _gipotalamusning yoysimon yadrolarida_ joylaşgan neyronlar tomonidan ajraladigan 10 ta aminokislotali peptid. Bu neyronlarning uçlari asosan gipotalamusning örta börtiğida tugaydi va u yerda GnRG ni gipotalamo-gipofizar portal tomirlar tizimiga ajratadi. Söngra GnRG gipofizar portal qon bilan gipofiz oldingi bölagiga taşiladi va ikki gonadotropin — LG va FQG ajralişini qözğatadi."
+  },
+  "ch81-f112": {
+   "text": "GnRG har 1–3 soatda bir marta, har safar bir neça daqiqa davomida vaqti-vaqti bilan ajraladi. Bu gormon qözğatuvçisining intensivligi ikki yöl bilan belgilanadi: (1) bu sekretsiya sikllarining çastotasi va (2) har bir siklda ajraladigan GnRG miqdori."
+  },
+  "ch81-f113": {
+   "text": "Gipofiz oldingi bölagi tomonidan LG sekretsiyasi ham davriy bölib, LG GnRG ning impulsli ajralişiga ança aniq mos keladi. Aksinça, FQG sekretsiyasi GnRG sekretsiyasining har bir tebranişi bilan faqat ozgina ortadi va kamayadi; buning örniga u GnRG dagi uzoqroq muddatli özgarişlarga javoban köp soatlar davomida sekinroq özgaradi. GnRG sekretsiyasi va LG sekretsiyasi orasidagi ança yaqinroq boğliqlik tufayli GnRG _LG-rilizing gormon_ sifatida ham keng ma’lum."
+  },
+  "ch81-f114": {
+   "text": "Gonadotrop gormonlar: lyuteinlovçi gormon va follikulani qözğatuvçi gormon"
+  },
+  "ch81-f115": {
+   "text": "Ikkala gonadotrop gormon — LG va FQG gipofiz oldingi bölagidagi _gonadotroplar_ deb ataladigan bir xil hujayralar tomonidan ajraladi. Gipotalamusdan GnRG sekretsiyasi bölmaganda gipofizdagi gonadotroplar deyarli LG yoki FQG ajratmaydi."
+  },
+  "ch81-f116": {
+   "text": "LG va FQG — _glikoproteinlar_. Ular uruğdonlardagi nişon töqimalarga öz ta’sirlarini asosan _siklik adenozinmonofosfat ikkilamçi xabarçi tizimini faollaştiriş_ orqali körsatadi, u esa öz navbatida tegişli nişon hujayralardagi muayyan ferment tizimlarini faollaştiradi."
+  },
+  "ch81-f117": {
+   "text": "_Testosteron_ uruğdonlardagi _Leydig interstitsial hujayralari_ tomonidan ajraladi, ammo faqat ular gipofiz oldingi bölagidan keladigan LG bilan qözğatilganda. Bundan taşqari, ajraladigan testosteron miqdori mavjud LG miqdoriga taxminan töğri mutanosib ravişda ortadi.",
+   "lead": "Testosteron işlab çiqarilişining lyuteinlovçi gormon tomonidan boşqarilişi."
+  },
+  "ch81-f118": {
+   "text": "Yetuk Leydig hujayralari me’yorda bolaning uruğdonlarida tuğilgaçdan keyin bir neça hafta uçraydi, ammo söngra taxminan 10 yoşgaça yöqoladi. Biroq bolaga istalgan yoşda tozalangan LG yuboriş yoki baloğatda LG sekretsiyasi fibroblastlarga öxşaş uruğdon interstitsial hujayralarining funksional Leydig hujayralariga aylanişiga sabab böladi."
+  },
+  "ch81-f119": {
+   "text": "LG ga javoban uruğdonlar ajratadigan testosteron gipofiz oldingi bölagi tomonidan LG sekretsiyasini tormozlaydigan teskari ta’sirga ega (qarang: **Rasm 81-10**). Bu tormozlanişning köp qismi ehtimol testosteronning GnRG sekretsiyasini kamaytiriş uçun gipotalamusga bevosita ta’siri natijasidir. Bu ta’sir öz navbatida gipofiz oldingi bölagi tomonidan LG va FQG sekretsiyasining mos ravişda kamayişiga sabab böladi, LG ning kamayişi esa uruğdonlar tomonidan testosteron sekretsiyasini kamaytiradi. Şunday qilib, testosteron sekretsiyasi haddan taşqari ortganda gipotalamus va gipofiz oldingi bölagi orqali işlaydigan bu avtomatik manfiy teskari aloqa ta’siri testosteron sekretsiyasini kerakli işçi darajagaça kamaytiradi. Aksinça, testosteron juda kam bölganda gipotalamus köp miqdorda GnRG ajratadi, bu esa gipofiz oldingi bölagi tomonidan LG va FQG sekretsiyasining mos ravişda ortişiga va natijada uruğdonlar tomonidan testosteron sekretsiyasining ortişiga olib keladi.",
+   "lead": "Testosteron tomonidan gipofiz oldingi bölagining lyuteinlovçi va follikulani qözğatuvçi gormonlar sekretsiyasining tormozlanişi — testosteron sekretsiyasining manfiy teskari aloqa nazorati."
+  },
+  "ch81-f120": {
+   "text": "Spermatogenezning follikulani qözğatuvçi gormon va testosteron tomonidan boşqarilişi"
+  },
+  "ch81-f121": {
+   "text": "FQG uruğ kanalçalaridagi Sertoli hujayralariga birikkan maxsus FQG retseptorlari bilan boğlanadi, bu Sertoli hujayralarining ösişiga va turli spermatogen moddalarni ajratişiga sabab böladi. Bir vaqtning özida interstitsial bösliqlardagi Leydig hujayralaridan uruğ kanalçalariga diffuziyalanadigan testosteron (va digidrotestosteron) ham spermatogenezga kuçli trofik ta’sir körsatadi. Şunday qilib, spermatogenezni boşlaş uçun ham FQG, ham testosteron zarur."
+  },
+  "ch81-f122": {
+   "text": "Uruğ kanalçalari spermatozoid işlab çiqarmaganda gipofiz oldingi bölagi tomonidan FQG sekretsiyasi keskin ortadi. Aksinça, spermatogenez juda tez keçganda gipofiz tomonidan FQG sekretsiyasi kamayadi. Gipofiz oldingi bölagiga bu manfiy teskari aloqa ta’sirining sababi Sertoli hujayralari tomonidan _inhibin_ deb ataladigan yana bir gormonning sekretsiyasi, deb hisoblanadi (qarang: **Rasm 81-10**). Bu gormon FQG sekretsiyasini tormozlaş uçun gipofiz oldingi bölagiga kuçli bevosita ta’sir körsatadi.",
+   "lead": "Inhibinning uruğ kanalçalari faolligini manfiy teskari aloqa orqali boşqarişdagi roli."
+  },
+  "ch81-f123": {
+   "text": "Inhibin LG va FQG kabi glikoprotein bölib, molekulyar massasi 10 000 dan 30 000 gaça. U kultivatsiya qilingan Sertoli hujayralaridan ajratib olingan. Uning gipofiz oldingi bölagiga kuçli tormozlovçi ta’siri testosteron sekretsiyasini boşqarişning manfiy teskari aloqa mexanizmi bilan bir vaqtda va unga parallel ravişda işlaydigan spermatogenezni boşqarişning muhim manfiy teskari aloqa mexanizmini ta’minlaydi."
+  },
+  "ch81-f124": {
+   "text": "Homiladorlik paytida yöldoş ajratadigan odam xorionik gonadotropini homila uruğdonlari tomonidan testosteron sekretsiyasini qözğatadi"
+  },
+  "ch81-f125": {
+   "text": "Homiladorlik paytida yöldoş _odam xorionik gonadotropini_ (oXG) gormonini ajratadi va u ona va homila organizmida aylanadi. Bu gormon jinsiy a’zolarga LG bilan deyarli bir xil ta’sir körsatadi."
+  },
+  "ch81-f126": {
+   "text": "Homiladorlik paytida, agar homila öğil bölsa, yöldoşdan keladigan oXG homila uruğdonlarining testosteron ajratişiga sabab böladi. Yuqorida qayd etilganidek, bu testosteron erkak jinsiy a’zolari hosil bölişini ta’minlaş uçun hal qiluvçi ahamiyatga ega. oXG va uning homiladorlik paytidagi funksiyalarini 83-bobda batafsilroq muhokama qilamiz."
+  },
+  "ch81-f127": {
+   "text": "Baloğat va uning boşlanişining boşqarilişi"
+  },
+  "ch81-f128": {
+   "text": "Baloğat boşlanişining sababi uzoq vaqt sir bölib kelgan, ammo hozir _bolalik davrida gipotalamus sezilarli miqdorda GnRG ajratmasligi_ aniqlangan. Buning sabablaridan biri şuki, bolalik davrida har qanday jinsiy steroid gormonlarning eng kiçik sekretsiyasi ham gipotalamus tomonidan GnRG sekretsiyasiga kuçli tormozlovçi ta’sir körsatadi. Şunga qaramay, hali töliq tuşunilmagan sabablarga köra baloğat davrida gipotalamusning GnRG sekretsiyasi bolalikdagi tormozlanişni yengib ötadi va katta yoşdagi jinsiy hayot boşlanadi."
+  },
+  "ch81-f129": {
+   "text": "Baloğatdan keyin erkak gipofizi qolgan butun umr davomida gonadotrop gormonlar işlab çiqaradi va odatda heç bölmaganda ma’lum spermatogenez ölimgaça davom etadi. Biroq köplab erkaklarda 50-yillarning oxiri yoki 60-yillarda, ayniqsa ular çekadigan yoki semiz bölib, gipertenziya, ateroskleroz va 2-tip qandli diabet kabi yurak-qon tomir va metabolik buzilişlarga ega bölsa, jinsiy funksiyalarning sekin pasayişi kuzatila boşlaydi. Jinsiy funksiyaning pasayişida sezilarli farqlar bor: soğlom erkaklar 80 va 90 yoşlargaça virilligini saqlaydi.",
+   "lead": "Erkakning katta yoşdagi jinsiy hayoti va erkak klimakteriysi."
+  },
+  "ch81-f130": {
+   "text": "Jinsiy funksiyaning sekin, asta-sekin pasayişi **Rasm 81-9** da körsatilganidek, qisman testosteron sekretsiyasining kamayişi bilan ham boğliq. Erkak jinsiy funksiyasining pasayişi _erkak klimakteriysi_ deb ataladi."
+  },
+  "ch81-f132": {
+   "text": "Prostata bezi butun bolalik davomida nisbatan kiçik bölib qoladi va baloğatda testosteron ta’sirida ösa boşlaydi. Bu bez 20 yoşga kelib deyarli doimiy ölçamga yetadi va taxminan 50 yoşgaça şu ölçamda qoladi. Bu vaqtda ayrim erkaklarda u uruğdonlar tomonidan testosteron işlab çiqarilişining kamayişi bilan birga involyutsiyaga uçray boşlaydi."
+  },
+  "ch81-f133": {
+   "text": "Köplab keksa erkaklarda prostatada köpinça xavfsiz prostata fibroadenomasi rivojlanadi va siydik yöli töşilişiga sabab bölişi mumkin. Bu gipertrofiya testosteron tufayli emas, balki prostata töqimasining anormal ortiqça ösişi tufayli yuzaga keladi."
+  },
+  "ch81-f134": {
+   "text": "Prostata bezi saratoni boşqa muammo bölib, barça erkaklar ölimining taxminan 2–3% ini taşkil etadi. Prostata bezi saratoni paydo bölgaç, saraton hujayralari odatda testosteron bilan tezroq ösişga qözğatiladi va testosteron hosil bölmasligi uçun ikkala uruğdonni olib taşlaş bilan tormozlanadi. Prostata saratonini odatda estrogenlar yuboriş bilan tormozlaş mumkin. Hatto prostata saratoni organizmning deyarli barça suyaklariga metastaz bergan ayrim bemorlarni ham uruğdonlarni olib taşlaş, estrogen terapiyasi yoki ikkalasi bilan bir neça oydan bir neça yilgaça muvaffaqiyatli davolaş mumkin; bu terapiya boşlangaçdan keyin metastazlar odatda kiçrayadi va suyaklar qisman tiklanadi. Bu davolaş saratonni töxtatmaydi, ammo uni sekinlaştiradi va ba’zan suyaklardagi kuçli oğriqni keskin kamaytiradi."
+  },
+  "ch81-f135": {
+   "text": "Erkak homilaning uruğdonlari homila davrida funksional bölmaganda homilada erkak jinsiy belgilarining heç biri rivojlanmaydi. Buning örniga ayol a’zolari hosil böladi. Buning sababi şuki, homilaning asosiy genetik xususiyati — erkak yoki ayol bölişidan qat’i nazar — jinsiy gormonlar bölmaganda ayol jinsiy a’zolarini hosil qiliş. Biroq testosteron mavjudligida ayol jinsiy a’zolari hosil bölişi bostiriladi va buning örniga erkak a’zolari yuzaga keladi."
+  },
+  "ch81-f136": {
+   "text": "Öğil bola baloğatdan oldin uruğdonlarini yöqotganda evnuxizm holati yuzaga keladi; bunda u butun umr davomida infantil jinsiy a’zolar va boşqa infantil jinsiy belgilarga ega bölib qoladi. Katta yoşli evnuxning böyi me’yoriy erkaknikidan biroz baland, çunki suyak epifizlari sekin qöşiladi, garçi suyaklar ança ingiçka va muskullar me’yoriy erkaknikiga qaraganda ança kuçsiz bölsa ham. Ovoz bolalarnikiga öxşaydi, boşda soç tökilmaydi va yuzda hamda boşqa joylarda erkaklarga xos me’yoriy tuklar taqsimlanişi yuz bermaydi."
+  },
+  "ch81-f137": {
+   "text": "Erkak baloğatdan keyin biçilganda uning ayrim erkak ikkilamçi jinsiy belgilari bolanikiga qaytadi, boşqalari esa katta yoşdagi erkaklarga xos bölib qoladi. Jinsiy a’zolar ölçami biroz kiçrayadi, ammo bolalik holatigaça emas, ovoz bas sifatidan faqat ozgina özgaradi. Biroq erkaklarga xos tuklar hosil bölişi, erkaklarga xos qalin suyaklar va viril erkakning muskulaturasi yöqoladi."
+  },
+  "ch81-f138": {
+   "text": "Bundan taşqari, biçilgan katta yoşli erkakda, agar avval jinsiy faoliyat bilan şuğullangan bölsa, jinsiy istak kamayadi, ammo yöqolmaydi. Ereksiya avvalgidek, garçi kamroq osonlik bilan bölsa ham, yuz berişi mumkin, ammo eyakulyatsiya kamdan-kam yuz beradi, asosan sperma hosil qiluvçi a’zolar degeneratsiyaga uçragani va testosteron boşqaradigan ruhiy istak yöqolgani uçun."
+  },
+  "ch81-f139": {
+   "text": "Gipogonadizmning ayrim hollari gipotalamusning me’yoriy miqdorda GnRG ajrata olmaslikdek genetik nuqsoni tufayli yuzaga keladi. Bu holat köpinça gipotalamusning ovqatlaniş markazining bir vaqtdagi buzilişi bilan boğliq bölib, odamning haddan taşqari köp ovqat yeyişiga sabab böladi. Natijada evnuxizm bilan birga semizlik yuzaga keladi. Bu holatdagi bemor **Rasm 81-11** da körsatilgan; bu holat _adipozogenital sindrom, Frölix sindromi_ yoki _gipotalamik evnuxizm_ deb ataladi."
+  },
+  "ch81-f141": {
+   "text": "Uruğdonlarda kamdan-kam hollarda _Leydig interstitsial hujayralari ösmalari_ rivojlanadi. Bu ösmalar ba’zan testosteronning me’yoriy miqdoridan 100 barobargaça köp miqdorini işlab çiqaradi. Bunday ösmalar yoş bolalarda rivojlanganda ular muskulatura va suyaklarning tez ösişiga, ammo epifizlarning erta qöşilişiga ham sabab böladi, şuning uçun yakuniy katta yoşdagi böy aslida aks holda erişilişi mumkin bölganidan ança past böladi. Bunday interstitsial hujayra ösmalari erkak jinsiy a’zolari, barça skelet muskullari va boşqa erkak jinsiy belgilarining haddan taşqari rivojlanişiga ham sabab böladi. Katta yoşli erkakda kiçik interstitsial hujayra ösmalarini aniqlaş qiyin, çunki erkaklarga xos belgilar allaqaçon mavjud."
+  },
+  "ch81-f142": {
+   "text": "Leydig interstitsial hujayralari ösmalaridan ança köp uçraydigani — _jinsiy epiteliy ösmalari_. Jinsiy hujayralar deyarli har qanday turdagi hujayraga differensiallanişga qodir bölgani uçun bu ösmalarning köpi bir xil ösma massasida birga uçraydigan köp xil töqimalarni, masalan, yöldoş töqimasi, soç, tiş, suyak, teri va hokazolarni öz içiga oladi; bunday ösma _teratoma_ deb ataladi. Bu ösmalar köpinça kam gormon ajratadi, ammo ösmada sezilarli miqdorda yöldoş töqimasi rivojlansa, u LG nikiga öxşaş funksiyalarga ega köp miqdorda oXG ajratişi mumkin. Bundan taşqari, bu ösmalar ba’zan estrogen gormonlarni ajratadi va _ginekomastiya_ (kökrak bezlarining ortiqça ösişi) deb ataladigan holatga sabab böladi."
+  },
+  "ch81-f143": {
+   "text": "“Impotensiya” deb ham ataladigan _erektil disfunksiya_ erkakning qoniqarli jinsiy aloqa uçun yetarli qattiqlikdagi ereksiyani hosil qila olmasligi yoki saqlay olmasligi bilan tavsiflanadi. Prostata operatsiyasi natijasida parasimpatik nervlarning şikastlanişi kabi nevrologik muammolar, testosteronning yetarli bölmagan darajalari va ayrim _dorilar_ (masalan, _nikotin, alkogol_ va _antidepressantlar_) ham erektil disfunksiyaga hissa qöşişi mumkin."
+  },
+  "ch81-f144": {
+   "text": "40 yoşdan oşgan erkaklarda erektil disfunksiya köpinça asosiy tomir kasalligi tufayli yuzaga keladi. Yuqorida muhokama qilinganidek, jinsiy olat ereksiyasi uçun yetarli qon oqimi va azot oksidi hosil bölişi zarur. Nazorat qilinmaydigan _gipertenziya, diabet_ va _ateroskleroz_ natijasida yuzaga kelişi mumkin bölgan tomir kasalligi organizm qon tomirlarining, jumladan jinsiy olat tomirlarining kengayiş qobiliyatini kamaytiradi. Vazodilatatsiyaning bu buzilişining bir qismi azot oksidi ajralişining kamayişi bilan boğliq."
+  },
+  "ch81-f145": {
+   "text": "Tomir kasalligi keltirib çiqaradigan erektil disfunksiyani köpinça sildenafil (Viagra), vardenafil (Levitra) yoki tadalafil (Cialis) kabi _fosfodiesteraza-5_ (FDE-5) _ingibitorlari_ bilan muvaffaqiyatli davolaş mumkin. Bu dorilar siklik GMF ni tez parçalaydigan _fosfodiesteraza-5_ fermentini tormozlaş orqali ereksiyalovçi töqimada siklik GMF darajasini oşiradi. Şunday qilib, siklik GMF parçalanişini tormozlaş orqali FDE-5 ingibitorlari siklik GMF ning ereksiyaga sabab böliş ta’sirini kuçaytiradi va uzaytiradi."
+  },
+  "ch81-f146": {
+   "text": "Epifiz (pineal bez) mavjudligi ma’lum bölgan paytdan beri unga köplab funksiyalar, jumladan (1) jinsiy faollikni kuçaytiriş, (2) infeksiyadan himoya qiliş, (3) uyquni kuçaytiriş, (4) kayfiyatni yaxşilaş va (5) umrni uzaytiriş (10–25% gaça) kabi funksiyalar nisbat berilgan. Qiyosiy anatomiyadan ma’lumki, epifiz ayrim quyi hayvonlarda boşning orqa tomonida yuqorida joylaşgan uçinçi közning rudimentar qoldiğidir. Köplab fiziologlar bu bez funksiyasiz qoldiq degan fikr bilan kifoyalanib kelgan, boşqalari esa köp yillar davomida u jinsiy faoliyat va köpayişni boşqarişda muhim rol öynaydi, deb da’vo qilib kelgan."
+  },
+  "ch81-f147": {
+   "text": "Endi köp yillik tadqiqotlardan keyin epifiz haqiqatan ham jinsiy va reproduktiv funksiyada boşqaruvçi rol öynaydiganga öxşaydi. Yilning ma’lum fasllarida bola tuğadigan va epifizi olib taşlangan yoki epifizga boradigan nerv zanjirlari kesilgan hayvonlarda faslga boğliq fertillikning me’yoriy davrlari yöqoladi. Bu hayvonlar uçun bunday faslga boğliq fertillik muhim, çunki u naslning yaşab qoliş ehtimoli eng yuqori bölgan yil vaqtida, odatda bahorda yoki yoz boşida tuğilişiga imkon beradi. Bu ta’sir mexanizmi töliq aniq emas, ammo quyidagiça bölib körinadi."
+  },
+  "ch81-f148": {
+   "text": "Birinçidan, epifiz har kuni közlar köradigan yoruğlik miqdori yoki yoruğlikning “vaqt namunasi” bilan boşqariladi. Masalan, xomyakda har kuni 13 soatdan köp _qoronğilik_ epifizni faollaştiradi, bundan kam qoronğilik esa uni faollaştirmaydi; faollaşiş va faollaşmaslik örtasida kritik muvozanat bor. Nerv yöli yoruğlik signallarining közlardan gipotalamusning supraxiazmatik yadrosiga, söngra epifizga ötişini öz içiga oladi va epifiz sekretsiyasini faollaştiradi."
+  },
+  "ch81-f149": {
+   "text": "Ikkinçidan, epifiz _melatonin_ va bir neça boşqa öxşaş moddalarni ajratadi. Melatonin yoki boşqa moddalardan biri qon orqali yoki uçinçi qorinça suyuqligi orqali gipofiz oldingi bölagiga ötib, gonadotrop gormonlar sekretsiyasini _kamaytiradi_, deb hisoblanadi."
+  },
+  "ch81-f150": {
+   "text": "Şunday qilib, epifiz sekretsiyasi mavjudligida ayrim hayvon turlarida gonadotrop gormonlar sekretsiyasi bostiriladi va jinsiy bezlar tormozlanadi, hatto qisman involyutsiyaga uçraydi; ehtimol bu qoronğilik ortib boradigan erta qiş oylarida yuz beradi. Biroq taxminan 4 oylik disfunksiyadan keyin gonadotrop gormonlar sekretsiyasi epifizning tormozlovçi ta’sirini yengib ötadi va jinsiy bezlar yana funksional bölib, bahorgi töliq faollikka tayyor böladi."
+  },
+  "ch81-f151": {
+   "text": "Epifiz odamlarda köpayişni boşqariş uçun öxşaş funksiyaga egami? Bu savolga javob noma’lum. Biroq ba’zan epifiz sohasida ösmalar uçraydi. Bu ösmalarning ayrimlari epifiz gormonlarini ortiqça miqdorda ajratadi, boşqalari esa atrofdagi töqima ösmalari bölib, epifizni ezib yemiradi. Ikkala turdagi ösmalar ham köpinça gipogonad yoki gipergonad funksiya bilan boğliq, şuning uçun ehtimol epifiz odamlarda jinsiy mayl va köpayişni boşqarişda heç bölmaganda ma’lum rol öynaydi."
+  }
+ },
+ "figures": {
+  "gh14-fig-81-01": "A — erkak reproduktiv tizimi. B — uruğdonning içki tuzilişi va uruğdonning uruğdon ortiği bilan boğliqligi. (A — Bloom V, Fawcett DW: Textbook of Histology, 10th ed. Philadelphia: WB Saunders, 1975 asosida özgartirilgan. B — Guyton AC: Anatomy and Physiology. Philadelphia: Saunders College Publishing, 1985 asosida özgartirilgan.)",
+  "gh14-fig-81-02": "A — uruğ kanalçasining kesimi. B — spermatogoniyalardan spermatozoidlar rivojlanişi bosqiçlari.",
+  "gh14-fig-81-03": "Spermatogenez paytidagi hujayra bölinişlari. Embrional rivojlaniş davomida birlamçi jinsiy hujayralar uruğdonga migratsiya qiladi va u yerda spermatogoniyalarga aylanadi. Baloğat davrida (odatda tuğilgaçdan 12–14 yil ötib) spermatogoniyalar mitoz orqali tez proliferatsiyalanadi. Ayrimlari meyozni boşlab, birlamçi spermatotsitlarga aylanadi va I meyotik bölinişdan ötib, ikkilamçi spermatotsitlarga aylanadi. II meyotik bölinişni tugatgaçdan keyin ikkilamçi spermatotsitlar spermatidlarni hosil qiladi, ular esa differensiallanib, spermatozoidlarni hosil qiladi.",
+  "gh14-fig-81-04": "Odam spermatozoidining tuzilişi.",
+  "gh14-fig-81-05": "Anormal, uruğlantirişga qodir bölmagan spermatozoidlar, öngda me’yoriy spermatozoid bilan taqqoslangan.",
+  "gh14-fig-81-06": "Jinsiy olatning ereksiyalovçi töqimasi.",
+  "gh14-fig-81-07": "Uruğ kanalçalari orasidagi oraliqlarda joylaşgan, testosteron ajratadigan hujayralar — Leydig interstitsial hujayralari.",
+  "gh14-fig-81-08": "Testosteron va digidrotestosteron.",
+  "gh14-fig-81-09": "Turli yoşlarda plazmadagi örtaça testosteron konsentratsiyasi (qizil çiziq) va spermatozoid işlab çiqarilişi (kök çiziq) bilan aks ettirilgan erkak jinsiy funksiyasining turli bosqiçlari. (Griffin JF, Wilson JD: The testis. In: Bondy PK, Rosenberg LE [eds]: Metabolic Control and Disease, 8th ed. Philadelphia: WB Saunders, 1980 asosida özgartirilgan.)",
+  "gh14-fig-81-10": "Erkaklarda gipotalamus-gipofiz-uruğdon öqining teskari aloqa orqali boşqarilişi. Qözğatuvçi ta’sirlar plyus belgilari, manfiy teskari aloqa tormozlovçi ta’sirlari esa minus belgilari bilan körsatilgan. MNT — markaziy nerv tizimi; FQG — follikulani qözğatuvçi gormon; GnRG — gonadotropin-rilizing gormon; LG — lyuteinlovçi gormon.",
+  "gh14-fig-81-11": "Ösmir öğil boladagi adipozogenital sindrom. Semizlik va bolalarnikiga öxşaş jinsiy a’zolarga e’tibor bering. (Dr. Leonard Posey ruxsati bilan.)"
+ }
+}

@@ -1,0 +1,363 @@
+# Guyton & Hall, 14-nashr, 4-bob — to‘liq o‘zbekcha tarjima.
+# Format: har bir blok "@@ <bid>" qatoridan boshlanadi; "LEAD: ..." ixtiyoriy qator — xatboshi boshidagi qalin sarlavha.
+# Tarjimon: Claude (DrStudy sessiyasi), 2026-11-17. Holat: ekspert tekshiruvi kerak.
+
+@@ ch04-f0
+**Rasm 4-1** da _hujayradan taşqari suyuqlik_ va _hujayra içi suyuqligidagi_ muhim elektrolitlar hamda boşqa moddalarning taxminiy konsentratsiyalari keltirilgan. E’tibor bering: hujayradan taşqari suyuqlikda _natriy_ köp, _kaliy_ esa oz miqdorda böladi. Hujayra içi suyuqligida buning aksi kuzatiladi. Şuningdek, hujayradan taşqari suyuqlikda _xlorid_ ionlari köp, hujayra içi suyuqligida esa bu ionlar juda kam. Biroq hujayra içi suyuqligida _fosfatlar_ va _oqsillar_ konsentratsiyasi hujayradan taşqari suyuqlikdagiga qaraganda ança yuqori. Bu farqlar hujayra hayoti uçun öta muhim. Uşbu bobning maqsadi — bu farqlar hujayra membranasining transport mexanizmlari orqali qanday yuzaga kelişini tuşuntiriş.
+
+@@ ch04-f2
+Hujayra membranasi — transport oqsillari joylaşgan lipid qöş qavat
+
+@@ ch04-f3
+Organizmdagi har bir hujayraning taşqi yuzasini qoplab turuvçi membrananing tuzilişi 2-bobda muhokama qilingan va **Rasm 2-3** hamda **Rasm 4-2** da tasvirlangan. Bu membrana deyarli butunlay _lipid qöş qavatdan_ iborat bölib, lipid içida köplab oqsil molekulalari joylaşgan; ularning köpçiligi membranani butunlay teşib ötadi.
+
+@@ ch04-f5
+Lipid qöş qavat hujayradan taşqari suyuqlik bilan ham, hujayra içi suyuqligi bilan ham aralaşmaydi. Şuning uçun u hujayradan taşqari va hujayra içi suyuqlik bölinmalari örtasida suv molekulalari va suvda eriydigan moddalarning harakatlanişiga tösiq böladi. Biroq **Rasm 4-2** dagi eng çapdagi strelka körsatganidek, lipidda eriydigan moddalar lipid moddasi orqali bevosita diffuziyalanişi mumkin.
+
+@@ ch04-f6
+Membrana oqsil molekulalari lipid qöş qavatning yaxlitligini buzib, hujayra membranasi orqali muqobil yöl hosil qiladi. Membranani teşib ötuvçi bu oqsillarning köpçiligi _transport oqsillari_ vazifasini bajara oladi. Ayrim oqsillarda molekula böylab butunlay ötuvçi suvli böşliqlar böladi va ular suvning, şuningdek, tanlangan ionlar yoki molekulalarning erkin harakatlanişiga imkon beradi; bunday oqsillar _kanal oqsillari_ deb ataladi. _Taşuvçi oqsillar_ deb ataladigan boşqa oqsillar esa taşilişi lozim bölgan molekula yoki ionlar bilan boğlanadi, söngra oqsil molekulalaridagi konformatsion özgarişlar bu moddalarni oqsil oraliqlari orqali membrananing narigi tomoniga ötkazadi. Kanal oqsillari ham, taşuvçi oqsillar ham odatda membranadan ötişiga ruxsat beriladigan molekula yoki ion turlariga nisbatan tanlab ta’sir qiladi.
+
+@@ ch04-f7
+LEAD: “Diffuziya” va “faol transport”.
+Hujayra membranasi orqali transport — xoh bevosita lipid qöş qavat orqali, xoh oqsillar orqali bölsin — ikki asosiy jarayondan biri yordamida amalga oşadi: _diffuziya_ yoki _faol transport_.
+
+@@ ch04-f8
+Bu asosiy mexanizmlarning köplab turlari mavjud bölsa-da, _diffuziya_ deganda moddalarning molekulama-molekula tartibsiz harakati tuşuniladi; bu harakat membranadagi molekulalararo böşliqlar orqali yoki taşuvçi oqsil bilan birikkan holda sodir böladi. Diffuziyani yuzaga keltiruvçi energiya — moddaning odatiy kinetik harakati energiyasi.
+
+@@ ch04-f9
+Aksinça, _faol transport_ deganda ionlar yoki boşqa moddalarning taşuvçi oqsil bilan birikkan holda membrana orqali şunday harakatlanişi tuşuniladiki, bunda taşuvçi oqsil moddani energiya gradiyentiga qarşi — masalan, past konsentratsiyali holatdan yuqori konsentratsiyali holatga — harakatlantiradi. Bu harakat uçun kinetik energiyadan taşqari qöşimça energiya manbai zarur. Bu ikki jarayonning asosiy fizikasi va fizik kimyosi bobning keyingi qismida batafsilroq tuşuntiriladi.
+
+@@ ch04-f10
+Diffuziya
+
+@@ ch04-f11
+Organizm suyuqliklaridagi barça molekulalar va ionlar, jumladan suv molekulalari va erigan moddalar, doimiy harakatda böladi va har bir zarraça öz yöli bilan harakatlanadi. Bu zarraçalarning harakati fiziklar “issiqlik” deb ataydigan narsaning özi — harakat qança kuçli bölsa, harorat şunça yuqori böladi — va bu harakat absolyut nol haroratdan boşqa holatda heç qaçon töxtamaydi. Harakatlanayotgan A molekula harakatsiz B molekulaga yaqinlaşganda A molekulaning elektrostatik va boşqa yadro kuçlari B molekulani itaradi va A molekula harakat energiyasining bir qismini B molekulaga beradi. Natijada B molekula kinetik harakat energiyasiga ega böladi, A molekula esa kinetik energiyasining bir qismini yöqotib, sekinlaşadi. **Rasm 4-3** da körsatilganidek, eritmadagi bitta molekula boşqa molekulalar orasida — avval bir yönalişda, keyin boşqasida, söng yana boşqasida va hokazo — har sekundda minglab marta tartibsiz urilib, sakrab yuradi. Molekulalarning suyuqlik yoki gazlarda bir-biri orasida bunday uzluksiz harakatlanişi _diffuziya_ deb ataladi.
+
+@@ ch04-f13
+Ionlar ham butun molekulalar kabi diffuziyalanadi, hatto muallaq kolloid zarraçalar ham şunga öxşaş tarzda diffuziyalanadi; faqat kolloidlar ölçami katta bölgani sababli molekulyar moddalarga qaraganda ança sekin diffuziyalanadi.
+
+@@ ch04-f14
+Hujayra membranasi orqali diffuziya
+
+@@ ch04-f15
+Hujayra membranasi orqali diffuziya ikki turga bölinadi: _oddiy diffuziya_ va _yengillaştirilgan diffuziya_. Oddiy diffuziyada molekulalar yoki ionlarning kinetik harakati membranadagi teşik yoki molekulalararo böşliqlar orqali, membranadagi taşuvçi oqsillar bilan özaro ta’sirlaşmasdan sodir böladi. Diffuziya tezligi mavjud modda miqdori, kinetik harakat tezligi hamda membranadagi molekula yoki ionlar öta oladigan teşiklarning soni va ölçami bilan belgilanadi.
+
+@@ ch04-f16
+Yengillaştirilgan diffuziya uçun taşuvçi oqsil bilan özaro ta’sir zarur. Taşuvçi oqsil molekula yoki ionlar bilan kimyoviy boğlanib, ularni şu holatda membrana orqali ötkazib qöyadi va şu yöl bilan ularning membranadan ötişiga yordam beradi.
+
+@@ ch04-f17
+Oddiy diffuziya hujayra membranasi orqali ikki yöl bilan sodir bölişi mumkin: (1) agar diffuziyalanayotgan modda lipidda eruvçan bölsa, lipid qöş qavat oraliqlari orqali; (2) **Rasm 4-2** ning çap qismida körsatilganidek, ayrim yirik transport oqsillarini butunlay teşib ötuvçi suvli kanallar orqali.
+
+@@ ch04-f18
+LEAD: Lipidda eriydigan moddalarning lipid qöş qavat orqali diffuziyasi.
+Moddaning _lipidda eruvçanligi_ uning lipid qöş qavat orqali qançalik tez diffuziyalanişini belgilovçi muhim omil hisoblanadi. Masalan, kislorod, azot, karbonat angidrid va spirtlarning lipidda eruvçanligi yuqori; bu moddalarning barçasi bevosita lipid qöş qavatda erib, hujayra membranasi orqali xuddi suvda eriydigan moddalar suvli eritmada diffuziyalangani kabi diffuziyalanişi mumkin. Bu moddalarning har birining membrana orqali diffuziya tezligi uning lipidda eruvçanligiga töğri proporsional. Şu yöl bilan ayniqsa katta miqdorda kislorod taşilişi mumkin; şuning uçun kislorod hujayra içiga xuddi hujayra membranasi umuman yöqdek yetkazib beriladi.
+
+@@ ch04-f19
+LEAD: Suv va lipidda erimaydigan boşqa molekulalarning oqsil kanallari orqali diffuziyasi.
+Suv membrana lipidlarida deyarli erimasa-da, membranani butunlay teşib ötuvçi oqsil molekulalaridagi kanallar orqali oson ötadi. Organizmdagi köplab hujayra membranalarida suvning membrana orqali tez ötişiga tanlab imkon beruvçi _akvaporinlar_ deb ataladigan oqsil “teşiklar” (poralar) bor. Akvaporinlar yuqori darajada ixtisoslaşgan bölib, sutemizuvçilarning turli hujayralarida ularning kamida 13 xil turi uçraydi.
+
+@@ ch04-f20
+Suv molekulalarining köpçilik hujayra membranalari orqali diffuziyalaniş tezligi hayratlanarli darajada yuqori. Masalan, har sekundda eritrotsit membranasi orqali har bir yönalişda diffuziyalanadigan suvning umumiy miqdori eritrotsitning öz hajmidan taxminan 100 marta köp.
+
+@@ ch04-f21
+Lipidda erimaydigan boşqa molekulalar ham, agar suvda eruvçan va yetarliça kiçik bölsa, oqsil teşik-kanallari orqali suv molekulalari kabi öta oladi. Biroq ularning ölçami kattalaşgani sari ötiş qobiliyati keskin kamayadi. Masalan, moçevina molekulasining diametri suv molekulasinikidan atigi 20% katta, lekin uning hujayra membranasi teşiklari orqali ötişi suvnikiga qaraganda taxminan 1000 marta kam. Şunga qaramay, suvning hayratlanarli darajadagi ötiş tezligini hisobga olsak, moçevinaning bu darajadagi ötişi ham uning membrana orqali bir neça daqiqa içida tez taşilişini ta’minlaydi.
+
+@@ ch04-f22
+Oqsil teşiklari va kanallari orqali diffuziya — kanallarning tanlab ötkazuvçanligi va “darvozalanişi”
+
+@@ ch04-f23
+Oqsil teşiklari va kanallarining kompyuterda qayta tiklangan uç ölçamli tasvirlari hujayradan taşqari suyuqlikdan hujayra içi suyuqligigaça butunlay çözilgan naysimon yöllar mavjudligini körsatgan. Şuning uçun moddalar oddiy diffuziya yöli bilan bevosita şu teşik va kanallar böylab membrananing bir tomonidan ikkinçi tomoniga öta oladi.
+
+@@ ch04-f24
+Teşiklar (poralar) hujayra membranasining integral oqsillaridan taşkil topgan bölib, membrana orqali ötuvçi oçiq nayçalar hosil qiladi va doimo oçiq turadi. Biroq teşikning diametri va undagi elektr zaryadlar tanlovçanlikni ta’minlaydi, ya’ni faqat ma’lum molekulalarning ötişiga imkon beradi. Masalan, _akvaporinlar_ suvning hujayra membranalari orqali tez ötişiga imkon beradi, ammo boşqa molekulalarni ötkazmaydi. Akvaporinlarning teşigi tor bölib, suv molekulalari membrana orqali bir qator bölib, birin-ketin diffuziyalanadi. Teşik har qanday gidratlangan ionning ötişi uçun juda tor. 28- va 76-boblarda muhokama qilinganidek, hujayra membranalaridagi ayrim akvaporinlar (masalan, akvaporin-2) ziçligi özgarmas emas, balki turli fiziologik şaroitlarda özgarib turadi.
+
+@@ ch04-f25
+Oqsil kanallari ikki muhim xususiyati bilan ajralib turadi: (1) ular köpinça muayyan moddalarga nisbatan _tanlab ötkazuvçan_ böladi; (2) köplab kanallar elektr signallari _(potensialga boğliq kanallar)_ yoki kanal oqsillari bilan boğlanadigan kimyoviy moddalar _(ligandga boğliq kanallar)_ tomonidan boşqariladigan _darvozalar_ yordamida oçilişi yoki yopilişi mumkin. Şunday qilib, ion kanallari egiluvçan dinamik tuzilmalar bölib, nozik konformatsion özgarişlar ularning darvozalanişi va ion tanlovçanligiga ta’sir qiladi.
+
+@@ ch04-f26
+LEAD: Oqsil kanallarining tanlab ötkazuvçanligi.
+Köplab oqsil kanallari bir yoki bir neçta muayyan ion yoki molekulalarni taşişda yuqori darajada tanlovçan. Bu tanlovçanlik kanalning öziga xos xususiyatlari — masalan, uning diametri, şakli hamda içki yuzalari böylab joylaşgan elektr zaryadlar va kimyoviy boğlarning tabiati bilan boğliq.
+
+@@ ch04-f27
+_Kaliy kanallari_ kaliy ionlarini hujayra membranasi orqali natriy ionlariga qaraganda taxminan 1000 marta osonroq ötkazadi. Bunday yuqori tanlovçanlikni faqat ionlarning molekulyar diametrlari bilan töliq tuşuntirib bölmaydi, çunki kaliy ionlari natriy ionlaridan biroz kattaroq. Rentgen-kristallografiya yordamida kaliy kanallari markaziy teşikni örab turuvçi törtta bir xil oqsil subbirligidan iborat _tetramer tuzilişga_ ega ekani aniqlangan (**Rasm 4-4**). Kanal teşigining yuqori qismida tor _tanlovçi filtr_ hosil qiluvçi _teşik halqalari_ (pore loops) joylaşgan. Tanlovçi filtr devorlarini _karbonil kislorodlari_ qoplab turadi. Gidratlangan kaliy ionlari tanlovçi filtrga kirganda karbonil kislorodlari bilan özaro ta’sirlaşadi va özlariga boğlangan suv molekulalarining köp qismini yöqotadi; natijada degidratlangan kaliy ionlari kanaldan öta oladi. Biroq karbonil kislorodlari bir-biridan juda uzoqda joylaşgani sababli kiçikroq natriy ionlari bilan yaqindan özaro ta’sirlaşa olmaydi; şu tufayli tanlovçi filtr natriy ionlarining teşikdan ötişiga samarali tösqinlik qiladi.
+
+@@ ch04-f29
+Turli ion kanallaridagi turliça tanlovçi filtrlar kanallarning kationlar yoki anionlarga yoxud kanalga kiradigan natriy (Na+), kaliy (K+) va kalsiy (Ca2+) kabi muayyan ionlarga nisbatan öziga xosligini katta darajada belgilaydi, deb hisoblanadi.
+
+@@ ch04-f30
+Eng muhim oqsil kanallaridan biri — _natriy kanali_ — diametri atigi 0,3–0,5 nanometr bölsa-da, natriy kanallarining atrofdagi suyuqliklardagi raqobatlaşuvçi boşqa ionlar orasidan natriy ionlarini ajratib oliş qobiliyati hujayraning me’yoriy işlaşi uçun hal qiluvçi ahamiyatga ega.
+
+@@ ch04-f31
+**Rasm 4-5** ning yuqori qismida körsatilganidek, natriy kanali oçiq teşigining eng tor qismi — _tanlovçi filtr_ — _kuçli manfiy zaryadlangan_ aminokislota qoldiqlari bilan qoplangan. Bu kuçli manfiy zaryadlar kiçik _degidratlangan_ natriy ionlarini ularni gidratlab turgan suv molekulalaridan ajratib, kanallar içiga tortib olişi mumkin, garçi ionlar kanallardan ötişi uçun töliq degidratlanişi şart bölmasa ham. Kanalga kirgaç, natriy ionlari diffuziyaning odatiy qonunlariga muvofiq har ikki yönalişda diffuziyalanadi. Şunday qilib, natriy kanali natriy ionlarini ötkazişda yuqori darajada tanlovçan.
+
+@@ ch04-f33
+LEAD: Oqsil kanallarining darvozalanişi.
+Oqsil kanallarining darvozalanişi kanallarning ionlarni ötkazuvçanligini boşqariş vositasidir. Bu mexanizm **Rasm 4-5** ning har ikki qismida natriy va kaliy ionlarining tanlab darvozalanişi misolida körsatilgan. Darvozalarning ayrimlari transport oqsil molekulasining darvozasimon ösimtalari bölib, ular kanal oğzini yopişi yoki oqsil molekulasi şaklining konformatsion özgarişi natijasida oğizdan kötarilib, uni oçişi mumkin, deb taxmin qilinadi.
+
+@@ ch04-f34
+Darvozalarning oçilişi va yopilişi ikki asosiy yöl bilan boşqariladi: 1. _Potensialga boğliq darvozalaniş._ Potensialga boğliq darvozalanişda darvozaning molekulyar konformatsiyasi yoki uning kimyoviy boğlari hujayra membranasidagi elektr potensialiga javob beradi. Masalan, **Rasm 4-5** ning yuqori qismida hujayra membranasi içki tomonidagi kuçli manfiy zaryad taşqi natriy darvozalarini mahkam yopiq holda uşlab turişi mumkin. Aksinça, membrananing içki tomoni manfiy zaryadini yöqotganda bu darvozalar tösatdan oçiladi va natriyning natriy teşiklari orqali içkariga ötişiga imkon beradi. Bu jarayon nervlarda nerv signallarini ta’minlovçi harakat potensiallarini yuzaga keltirişning asosiy mexanizmidir. **Rasm 4-5** ning pastki qismida kaliy darvozalari kaliy kanallarining hujayra içidagi uçlarida joylaşgan va ular hujayra membranasining içki tomoni musbat zaryadlanganda oçiladi. Bu darvozalarning oçilişi qisman harakat potensialini yakunlaşga javobgar; bu jarayon 5-bobda muhokama qilinadi. 2. _Kimyoviy (ligandga boğliq) darvozalaniş._ Ayrim oqsil kanallarining darvozalari kimyoviy modda (ligand) oqsil bilan boğlanganda oçiladi; bu boğlaniş oqsil molekulasida darvozani oçuvçi yoki yopuvçi konformatsion yoki kimyoviy boğlaniş özgarişini keltirib çiqaradi. Kimyoviy darvozalanişning eng muhim misollaridan biri — neyromediator atsetilxolinning ligandga boğliq ion kanali vazifasini bajaruvçi _atsetilxolin retseptoriga_ ta’siri. Atsetilxolin bu kanal darvozasini oçadi va diametri taxminan 0,65 nanometr bölgan, manfiy zaryadlangan teşik hosil qiladi; bu teşik zaryadsiz molekulalar yoki şu diametrdan kiçik musbat ionlarning ötişiga imkon beradi. Bu darvoza nerv signallarining bir nerv hujayrasidan boşqasiga (qarang: 46-bob) hamda nerv hujayralaridan muskul hujayralariga uzatilib, muskul qisqarişini yuzaga keltirişida (qarang: 7-bob) nihoyatda muhim.
+
+@@ ch04-f35
+LEAD: Darvozali kanallarning oçiq va yopiq holatlari.
+**Rasm 4-6A** da membranada taxminan 25 millivoltlik potensial gradiyenti bölganda bitta natriy kanali orqali oqayotgan elektr tokining ikkita yozuvi körsatilgan. E’tibor bering: kanal tokni “hammasi yoki heç narsa” tamoyili böyiça ötkazadi. Ya’ni kanal darvozasi keskin oçiladi, söng keskin yopiladi; har bir oçiq holat millisekundning bir uluşidan bir neça millisekundgaça davom etadi, bu esa oqsil darvozalari oçilib-yopilişi paytida özgarişlar qançalik tez sodir bölişini körsatadi. Bir potensial qiymatida kanal butun vaqt yoki deyarli butun vaqt davomida yopiq qolişi mumkin, boşqa potensialda esa butun vaqt yoki vaqtning köp qismida oçiq turişi mumkin. Oraliq potensiallarda esa, rasmda körsatilganidek, darvozalar vaqti-vaqti bilan keskin oçilib-yopilib turadi va natijada örtaça tok minimal va maksimal qiymatlar oraliğida böladi.
+
+@@ ch04-f37
+LEAD: Bitta kanal orqali ion tokini yozib olişning patç-klamp usuli.
+Bitta oqsil kanali orqali ion tokini yozib olişning patç-klamp usuli **Rasm 4-6B** da tasvirlangan. Uçining diametri atigi 1 yoki 2 mikrometr bölgan mikropipetka hujayra membranasining taşqi yuzasiga tiraladi. Söngra membranani pipetka uçiga tortiş uçun pipetka içida söriş hosil qilinadi; natijada pipetka çetlari hujayra membranasiga tegib turgan joyda germetik birikma hosil böladi. Natijada pipetka uçida kiçkina membrana “bölagi” (patç) hosil böladi va u orqali ötayotgan elektr tokini yozib oliş mumkin böladi.
+
+@@ ch04-f38
+Boşqa usulda esa, **Rasm 4-6B** ning pastki öng qismida körsatilganidek, pipetka uçidagi kiçik hujayra membranasi bölagi hujayradan uzib olinadi. Söngra germetik yopişgan bölakli pipetka erkin eritmaga tuşiriladi; bu mikropipetka içidagi va taşqi eritmadagi ionlar konsentratsiyalarini istalgança özgartiriş imkonini beradi. Şuningdek, membrananing ikki tomoni orasidagi kuçlanişni muayyan qiymatda örnatiş, ya’ni “qisib qöyiş” (clamp) mumkin.
+
+@@ ch04-f39
+Bunday bölaklarni şunçalik kiçik qiliş mumkin böldiki, örganilayotgan membrana bölagida faqat bitta kanal oqsili böladi. Turli ionlar konsentratsiyalarini, şuningdek, membranadagi kuçlanişni özgartirib, bitta kanalning transport xususiyatlarini va darvozalaniş xossalarini aniqlaş mumkin.
+
+@@ ch04-f40
+Yengillaştirilgan diffuziya uçun membrana taşuvçi oqsillari zarur
+
+@@ ch04-f41
+Yengillaştirilgan diffuziya _taşuvçi vositasidagi diffuziya_ deb ham ataladi, çunki şu yöl bilan taşiladigan modda membrana orqali muayyan taşuvçi oqsil yordamida diffuziyalanadi. Ya’ni taşuvçi moddaning narigi tomonga diffuziyalanişini _yengillaştiradi_.
+
+@@ ch04-f42
+Yengillaştirilgan diffuziya oddiy diffuziyadan quyidagi muhim jihati bilan farq qiladi. Oçiq kanal orqali oddiy diffuziya tezligi diffuziyalanayotgan modda konsentratsiyasiga mutanosib ravişda ortib boradi, yengillaştirilgan diffuziyada esa diffuziyalanayotgan modda konsentratsiyasi ortgani sari diffuziya tezligi Vmax deb ataladigan maksimal qiymatga yaqinlaşadi. Oddiy va yengillaştirilgan diffuziya örtasidagi bu farq **Rasm 4-7** da körsatilgan. Rasmdan körinib turibdiki, diffuziyalanayotgan modda konsentratsiyasi ortgani sari oddiy diffuziya tezligi mutanosib ravişda ösişda davom etadi, yengillaştirilgan diffuziyada esa diffuziya tezligi Vmax darajasidan yuqoriga kötarila olmaydi.
+
+@@ ch04-f44
+Yengillaştirilgan diffuziya tezligini nima çeklaydi? Ehtimoliy javob **Rasm 4-8** da tasvirlangan mexanizmdir. Bu rasmda muayyan molekulani qisman ötkaza oladigan darajada katta teşikka ega taşuvçi oqsil körsatilgan. Unda, şuningdek, oqsil-taşuvçining içki qismidagi boğlovçi retseptor ham körsatilgan. Taşilişi kerak bölgan molekula teşikka kiradi va boğlanadi. Söngra sekundning bir uluşi içida taşuvçi oqsilda konformatsion yoki kimyoviy özgariş yuz beradi va teşik endi membrananing qarama-qarşi tomoniga oçiladi. Retseptorning boğlaş kuçi zaif bölgani uçun birikkan molekulaning issiqlik harakati uning ajralib çiqişiga va membrananing qarama-qarşi tomonida böşatilişiga sabab böladi. Bu mexanizm orqali molekulalarni taşiş tezligi heç qaçon taşuvçi oqsil molekulasining ikki holati örtasida u yoqdan-bu yoqqa özgariş tezligidan yuqori böla olmaydi. Biroq alohida e’tibor bering: bu mexanizm taşilayotgan molekulaning membrana orqali har ikki yönalişda harakatlanişiga, ya’ni diffuziyalanişiga imkon beradi.
+
+@@ ch04-f46
+Hujayra membranalaridan yengillaştirilgan diffuziya yöli bilan ötadigan köplab moddalar orasida _glyukoza_ va _aminokislotalarning_ köpçiligi bor. Glyukozaga kelsak, turli töqimalarda glyukoza molekulalarini taşuvçi membrana oqsillari oilasining (_GLUT_ deb ataladi) kamida 14 vakili aniqlangan. Bu GLUT oqsillarining ayrimlari tuzilişi glyukozaga öxşaş boşqa monosaxaridlarni, jumladan galaktoza va fruktozani ham taşiydi. Ulardan biri — glyukoza taşuvçisi 4 (GLUT4) insulin ta’sirida faollaşadi; insulin insulinga sezgir töqimalarda glyukozaning yengillaştirilgan diffuziya tezligini 10–20 baravargaça oşirişi mumkin. 79-bobda muhokama qilinganidek, bu insulinning organizmda glyukoza sarfini boşqarişining asosiy mexanizmidir.
+
+@@ ch04-f47
+Diffuziyaning sof tezligiga ta’sir qiluvçi omillar
+
+@@ ch04-f48
+Körinib turibdiki, köplab moddalar hujayra membranasi orqali diffuziyalana oladi. Odatda moddaning kerakli yönalişdagi _sof_ diffuziya tezligi muhim ahamiyatga ega. Bu sof tezlik bir neçta omil bilan belgilanadi.
+
+@@ ch04-f49
+LEAD: Sof diffuziya tezligi membranadagi konsentratsiyalar farqiga proporsional.
+**Rasm 4-9A** da taşqi tomonida moddaning konsentratsiyasi yuqori, içki tomonida esa past bölgan hujayra membranasi körsatilgan. Moddaning _içkariga_ diffuziyalaniş tezligi molekulalarning _taşqaridagi_ konsentratsiyasiga proporsional, çunki aynan şu konsentratsiya har sekundda membrananing taşqi yuzasiga qança molekula urilişini belgilaydi. Aksinça, molekulalarning _taşqariga_ diffuziyalaniş tezligi ularning membrana _içidagi_ konsentratsiyasiga proporsional. Şuning uçun hujayra içiga sof diffuziya tezligi taşqaridagi konsentratsiya _minus_ içkaridagi konsentratsiyaga proporsional böladi:
+
+@@ ch04-f51
+bu yerda Co — hujayra taşqarisidagi konsentratsiya, Ci — hujayra içidagi konsentratsiya.
+
+@@ ch04-f52
+LEAD: Membrananing elektr potensiali va ionlar diffuziyasi — “Nernst potensiali”.
+Agar **Rasm 4-9B** da körsatilganidek, membranaga elektr potensiali qöyilsa, harakatni yuzaga keltiruvçi konsentratsiyalar farqi bölmasa ham, ionlarning elektr zaryadlari ularni membrana orqali harakatlantiradi. Masalan, **Rasm 4-9B** ning çap qismida _manfiy_ ionlar konsentratsiyasi membrananing har ikki tomonida bir xil, biroq membrananing öng tomoniga musbat, çap tomoniga esa manfiy zaryad berilgan va natijada membrana böylab elektr gradiyenti hosil bölgan. Musbat zaryad manfiy ionlarni tortadi, manfiy zaryad esa ularni itaradi. Şuning uçun sof diffuziya çapdan öngga sodir böladi. Ma’lum vaqtdan söng köp miqdordagi manfiy ionlar öngga ötadi va **Rasm 4-9B** ning öng qismida körsatilgan holat yuzaga keladi: ionlarning konsentratsiyalar farqi elektr potensiallar farqiga qarama-qarşi yönalişda hosil böladi. Endi konsentratsiyalar farqi ionlarni çapga, elektr farqi esa öngga harakatlantirişga intiladi. Konsentratsiyalar farqi yetarliça oşganda bu ikki ta’sir bir-birini muvozanatlaydi. Tananing me’yoriy haroratida (98,6°F; 37°C) Na+ ionlari kabi _bir valentli_ ionlarning ma’lum konsentratsiyalar farqini muvozanatlaydigan elektr farqini _Nernst tenglamasi_ deb ataladigan quyidagi formula yordamida aniqlaş mumkin: bu yerda EYuK — membrananing 1-tomoni va 2-tomoni orasidagi elektr yurituvçi kuç (kuçlaniş), C1 — 1-tomondagi konsentratsiya, C2 — 2-tomondagi konsentratsiya. Bu tenglama nerv impulslarining uzatilişini tuşunişda nihoyatda muhim bölib, 5-bobda muhokama qilinadi.
+
+@@ ch04-f53
+LEAD: Membranadagi bosimlar farqining ta’siri.
+Ba’zan diffuziya ötkazuvçi membrananing ikki tomoni örtasida sezilarli bosimlar farqi yuzaga keladi. Bunday bosimlar farqi, masalan, organizmning barça töqimalaridagi qon kapillyarlari membranalarida kuzatiladi. Köplab kapillyarlarda bosim içkarida taşqaridagiga qaraganda taxminan 20 mm sim. ust. yuqori.
+
+@@ ch04-f54
+Bosim aslida ma’lum bir onda yuza birligiga urilayotgan turli molekulalarning barça kuçlari yiğindisini anglatadi. Şuning uçun membrananing bir tomonida ikkinçi tomoniga qaraganda bosim yuqori bölişi membrananing şu tomonidagi kanallarga urilayotgan molekulalarning barça kuçlari yiğindisi ikkinçi tomondagidan katta ekanini bildiradi. Köp hollarda bu holat bir tomonda sekundiga membranaga urilayotgan molekulalar sonining ikkinçi tomondagidan köpligi bilan boğliq. Natijada molekulalarni yuqori bosimli tomondan past bosimli tomonga sof harakatlantiriş uçun köproq energiya mavjud böladi. Bu ta’sir **Rasm 4-9C** da körsatilgan: unda porşen teşikning bir tomonida yuqori bosim hosil qiladi, natijada şu tomondan teşikka köproq molekula uriladi va demak, köproq molekula ikkinçi tomonga diffuziyalanadi.
+
+@@ ch04-f55
+Tanlab ötkazuvçan membranalar orqali osmos — suvning “sof diffuziyasi”
+
+@@ ch04-f56
+Hujayra membranasi orqali diffuziyalanadigan moddalar orasida eng köp miqdordagisi — suv. Odatda eritrotsit membranasi orqali har bir yönalişda sekundiga _hujayraning öz hajmidan taxminan 100 marta köp_ suv diffuziyalanadi. Şunga qaramay, me’yorda ikki yönalişda diffuziyalanadigan suv miqdori şu qadar aniq muvozanatlaşganki, suvning sof harakati nolga teng böladi. Şuning uçun hujayra hajmi özgarmay qoladi. Biroq ma’lum şaroitlarda membrana böylab _suv konsentratsiyasida farq_ yuzaga kelişi mumkin. Suv konsentratsiyasidagi bunday farq paydo bölganda hujayra membranasi orqali suvning sof harakati sodir böladi va suv harakatining yönalişiga qarab hujayra şişadi yoki bujmayadi. Suv konsentratsiyasidagi farq tufayli suvning bunday sof harakatlaniş jarayoni _osmos_ deb ataladi.
+
+@@ ch04-f57
+Osmosni tuşuntiriş uçun **Rasm 4-10** da körsatilgan şaroitni körib çiqaylik: hujayra membranasining bir tomonida toza suv, ikkinçi tomonida natriy xlorid eritmasi bor. Suv molekulalari hujayra membranasidan oson ötadi, natriy va xlorid ionlari esa qiyinçilik bilan ötadi. Şuning uçun natriy xlorid eritmasi aslida membranadan ötuvçi suv molekulalari va ötmaydigan natriy hamda xlorid ionlarining aralaşmasidir; bunday membrana suvga nisbatan _tanlab ötkazuvçan_, natriy va xlorid ionlariga nisbatan esa ança kam ötkazuvçan deyiladi. Biroq natriy va xlorid ionlari mavjud bölgan membrana tomonida ular suv molekulalarining bir qismini siqib çiqargan va şu sababli suv molekulalari konsentratsiyasini toza suvnikidan pastga tuşirgan. Natijada **Rasm 4-10** dagi misolda toza suv joylaşgan çap tomondagi kanallarga suv konsentratsiyasi kamaygan öng tomondagiga qaraganda köproq suv molekulasi uriladi. Şunday qilib, suvning sof harakati çapdan öngga sodir böladi — ya’ni toza suvdan natriy xlorid eritmasiga _osmos_ yuz beradi.
+
+@@ ch04-f59
+Agar **Rasm 4-10** da natriy xlorid eritmasiga bosim berilsa, suvning bu eritmaga osmosi sekinlaşadi, töxtaydi yoki hatto teskari yönalişga özgaradi. Osmosni töxtatiş uçun zarur bölgan bosim natriy xlorid eritmasining _osmotik bosimi_ deb ataladi.
+
+@@ ch04-f60
+Osmosga qarşi ta’sir körsatuvçi bosimlar farqi tamoyili **Rasm 4-11** da körsatilgan: unda tanlab ötkazuvçan membrana ikki suyuqlik ustunini ajratib turadi; ulardan birida toza suv, ikkinçisida esa suv va membranadan ötmaydigan biror erigan moddaning eritmasi bor. Suvning B bölinmadan A bölinmaga osmosi suyuqlik ustunlari sathlarining bir-biridan tobora uzoqlaşişiga olib keladi va oxir-oqibat membrananing ikki tomoni örtasida osmotik ta’sirga qarşi tura oladigan darajada katta bosimlar farqi hosil böladi. Şu nuqtada membranadagi bosimlar farqi diffuziyalanmaydigan erigan moddani saqlovçi eritmaning osmotik bosimiga teng böladi.
+
+@@ ch04-f62
+LEAD: Osmotik bosimni belgilaşda osmotik zarraçalar sonining (molyar konsentratsiyaning) ahamiyati.
+Eritmadagi zarraçalar — molekulalar böladimi yoki ionlarmi — hosil qiladigan osmotik bosim zarraçalarning massasi bilan emas, balki suyuqlikning hajm birligidagi zarraçalar soni bilan belgilanadi. Buning sababi şundaki, eritmadagi har bir zarraça massasidan qat’i nazar, örtaça hisobda membranaga bir xil bosim beradi. Ya’ni kiçik zarraçalarga qaraganda massasi (m) katta bölgan yirik zarraçalar sekinroq tezlik (v) bilan harakatlanadi. Kiçik zarraçalar esa şunday yuqoriroq tezliklarda harakatlanadiki, quyidagi tenglama bilan aniqlanadigan örtaça kinetik energiyalari (k) har bir kiçik zarraça uçun ham, har bir yirik zarraça uçun ham bir xil böladi. Demak, eritmaning osmotik bosimini belgilovçi omil — eritmaning erigan modda massasi böyiça emas, balki zarraçalar soni böyiça ifodalangan konsentratsiyasi (agar modda dissotsiatsiyalanmaydigan molekula bölsa, bu uning _molyar konsentratsiyasi_ bilan bir xil).
+
+@@ ch04-f63
+LEAD: Osmolyallik — osmol.
+Eritma konsentratsiyasini zarraçalar soni bilan ifodalaş uçun gramm örniga _osmol_ deb ataladigan birlik qöllaniladi.
+
+@@ ch04-f64
+Bir osmol — osmotik faol erigan moddaning 1 gramm-molekulyar massasi. Şunday qilib, 180 gramm glyukoza, ya’ni glyukozaning 1 gramm-molekulyar massasi, 1 osmol glyukozaga teng, çunki glyukoza ionlarga dissotsiatsiyalanmaydi. Agar erigan modda ikki ionga dissotsiatsiyalansa, uning 1 gramm-molekulyar massasi 2 osmolga teng böladi, çunki endi osmotik faol zarraçalar soni dissotsiatsiyalanmagan moddadagiga qaraganda ikki baravar köp. Şuning uçun töliq dissotsiatsiyalanganda natriy xloridning 1 gramm-molekulyar massasi, ya’ni 58,5 gramm, 2 osmolga teng.
+
+@@ ch04-f65
+Şunday qilib, _har bir kilogramm suvda 1 osmol erigan modda_ bölgan eritmaning _osmolyalligi kilogrammiga 1 osmol_ deyiladi, kilogrammiga 1/1000 osmol erigan modda bölgan eritmaning osmolyalligi esa kilogrammiga 1 milliosmol böladi. Hujayradan taşqari va hujayra içi suyuqliklarining me’yoriy osmolyalligi taxminan _kilogramm suvga 300 milliosmol_ ni taşkil qiladi.
+
+@@ ch04-f66
+LEAD: Osmolyallik va osmotik bosim örtasidagi boğliqlik.
+Tananing me’yoriy haroratida, ya’ni 37°C (98,6°F) da, litriga 1 osmol konsentratsiya eritmada 19 300 mm sim. ust. osmotik bosim hosil qiladi. Xuddi şunday, litriga _1 milliosmol_ konsentratsiya _19,3 mm sim. ust._ osmotik bosimga teng. Bu qiymatni organizm suyuqliklarining 300 milliosmollik konsentratsiyasiga köpaytirsak, organizm suyuqliklarining hisoblangan umumiy osmotik bosimi 5790 mm sim. ust. ni taşkil qiladi. Biroq uning ölçangan qiymati örtaça atigi taxminan 5500 mm sim. ust. ga teng. Bu farqning sababi şundaki, organizm suyuqliklaridagi köplab ionlar, masalan natriy va xlorid ionlari, bir-biriga kuçli tortiladi; natijada ular suyuqliklarda butunlay erkin harakatlana olmaydi va özlarining töliq osmotik bosim salohiyatini yuzaga çiqara olmaydi. Şuning uçun örtaça hisobda organizm suyuqliklarining haqiqiy osmotik bosimi hisoblangan qiymatning taxminan 0,93 qismiga teng.
+
+@@ ch04-f67
+LEAD: Osmolyarlik atamasi.
+_Osmolyarlik_ — kilogramm suvga töğri keladigan osmollar bilan emas, balki _litr eritmaga töğri keladigan osmollar_ bilan ifodalangan osmolyar konsentratsiya. Qat’iy aytganda, osmotik bosimni kilogramm suvga töğri keladigan osmollar (osmolyallik) belgilasa-da, organizm suyuqliklari kabi suyultirilgan eritmalar uçun osmolyarlik va osmolyallik örtasidagi miqdoriy farq 1% dan kam. Osmolyarlikni ölçaş osmolyallikni ölçaşdan ança qulay bölgani uçun fiziologik tadqiqotlarda odatda osmolyarlik ölçanadi.
+
+@@ ch04-f68
+Moddalarning membranalar orqali faol transporti
+
+@@ ch04-f69
+Ba’zan hujayradan taşqari suyuqlikda moddaning konsentratsiyasi past bölsa ham, hujayra içi suyuqligida uning yuqori konsentratsiyasi talab qilinadi. Masalan, kaliy ionlari uçun şunday. Aksinça, boşqa ionlarning hujayradan taşqari suyuqlikdagi konsentratsiyasi yuqori bölsa ham, ularning hujayra içidagi konsentratsiyasini juda past darajada uşlab turiş muhim. Bu ayniqsa natriy ionlariga taalluqli. Bu ikki holatning heç biri oddiy diffuziya orqali yuzaga kela olmaydi, çunki oddiy diffuziya oxir-oqibat membrananing ikki tomonidagi konsentratsiyalarni tenglaştiradi. Buning örniga qandaydir energiya manbai kaliy ionlarining hujayra içiga va natriy ionlarining hujayradan taşqariga ortiqça harakatlanişini ta’minlaşi kerak. Hujayra membranasi molekula yoki ionlarni konsentratsiya gradiyentiga qarşi (yoki elektr yoxud bosim gradiyentiga qarşi) “yuqoriga” harakatlantirsa, bu jarayon _faol transport_ deb ataladi.
+
+@@ ch04-f70
+Heç bölmaganda ayrim hujayra membranalari orqali faol taşiladigan moddalarga natriy, kaliy, kalsiy, temir, vodorod, xlorid, yodid va urat ionlari, bir neça xil qandlar hamda aminokislotalarning köpçiligi misol böladi.
+
+@@ ch04-f71
+LEAD: Birlamçi faol transport va ikkilamçi faol transport.
+Faol transport taşişni ta’minlaş uçun sarflanadigan energiya manbaiga köra ikki turga bölinadi: _birlamçi faol transport_ va _ikkilamçi faol transport_. Birlamçi faol transportda energiya bevosita adenozintrifosfat (ATF) yoki boşqa biror yuqori energiyali fosfat birikmasining parçalanişidan olinadi. Ikkilamçi faol transportda esa energiya ikkilamçi tarzda — hujayra membranasining ikki tomoni örtasidagi boşqa molekulyar yoki ion moddalarning ion konsentratsiyalari farqi şaklida töplangan energiyadan olinadi; bu farq dastlab birlamçi faol transport orqali hosil qilingan. Har ikki holatda ham transport, xuddi yengillaştirilgan diffuziyadagi kabi, hujayra membranasini teşib ötuvçi _taşuvçi oqsillarga_ boğliq. Biroq faol transportda taşuvçi oqsil yengillaştirilgan diffuziyadagi taşuvçidan farqli işlaydi, çunki u taşilayotgan moddaga uni elektrokimyoviy gradiyentga qarşi harakatlantiriş uçun energiya bera oladi. Quyidagi bölimlarda birlamçi va ikkilamçi faol transportning ayrim misollari ularning işlaş tamoyillari batafsilroq tuşuntirilgan holda keltiriladi.
+
+@@ ch04-f72
+Birlamçi faol transport
+
+@@ ch04-f73
+Natriy-kaliy nasosi natriy ionlarini hujayradan taşqariga, kaliy ionlarini esa hujayra içiga taşiydi
+
+@@ ch04-f74
+Birlamçi faol transport orqali taşiladigan moddalar qatoriga natriy, kaliy, kalsiy, vodorod, xlorid va yana bir neçta boşqa ionlar kiradi. Eng batafsil örganilgan faol transport mexanizmi — _natriy-kaliy_ (Na+-K+) nasosi; bu taşuvçi barça hujayralarda natriy ionlarini hujayra membranasi orqali taşqariga çiqaradi va bir vaqtning özida kaliy ionlarini taşqaridan içkariga haydaydi. Bu nasos hujayra membranasining ikki tomonidagi natriy va kaliy konsentratsiyalari farqini saqlab turiş, şuningdek, hujayra içida manfiy elektr kuçlanişini hosil qiliş uçun javobgar. Darhaqiqat, 5-bobda körsatilganidek, bu nasos nerv faoliyatining ham asosi bölib, nerv signallarining butun nerv tizimi böylab uzatilişini ta’minlaydi.
+
+@@ ch04-f75
+**Rasm 4-12** da Na+-K+ nasosining asosiy fizik tarkibiy qismlari körsatilgan. _Taşuvçi oqsil_ ikki alohida globulyar oqsildan iborat kompleks: molekulyar massasi taxminan 100 000 bölgan kattaroq α subbirlik va molekulyar massasi taxminan 55 000 bölgan kiçikroq β subbirlik. Kiçikroq oqsilning vazifasi noma’lum bölsa-da (u oqsil kompleksini lipid membranada mustahkamlab turişi mumkinligidan taşqari), kattaroq oqsil nasosning işlaşi uçun muhim bölgan uçta öziga xos xususiyatga ega: 1. Oqsilning hujayra içiga börtib çiqqan qismida uçta _natriy ionlarini boğlovçi joy_ bor.
+
+@@ ch04-f77
+2. Uning taşqi tomonida ikkita _kaliy ionlarini boğlovçi joy_ bor. 3. Bu oqsilning natriy boğlovçi joylar yaqinidagi içki qismi adenozintrifosfataza (ATFaza) faolligiga ega. Taşuvçi oqsilning taşqi tomoniga ikkita kaliy ioni, içki tomoniga esa uçta natriy ioni boğlanganda oqsilning ATFaza funksiyasi faollaşadi. ATFaza funksiyasining faollaşuvi bitta ATF molekulasining parçalanişiga olib keladi: u adenozindifosfatga (ADF) ajraladi va yuqori energiyali fosfat boği energiyasi ajralib çiqadi. Ajralib çiqqan bu energiya taşuvçi oqsil molekulasida kimyoviy va konformatsion özgarişga sabab bölib, uçta natriy ionini taşqariga, ikkita kaliy ionini esa içkariga çiqaradi, deb hisoblanadi.
+
+@@ ch04-f78
+Boşqa fermentlar kabi Na+-K+ ATFaza nasosi ham teskari yönalişda işlaşi mumkin. Agar tajribada Na+ va K+ ning elektrokimyoviy gradiyentlari ulardagi töplangan energiya ATF gidrolizining kimyoviy energiyasidan ortiq böladigan darajada oşirilsa, bu ionlar öz konsentratsiya gradiyentlari böylab harakatlanadi va Na+-K+ nasosi ADF hamda fosfatdan ATF sintez qiladi. Demak, Na+-K+ nasosining fosforlangan şakli öz fosfatini ADF ga berib ATF hosil qilişi yoki bu energiyadan konformatsiyasini özgartiriş va Na+ ni hujayradan taşqariga, K+ ni hujayra içiga haydaş uçun foydalanişi mumkin. Ferment reaksiyasining yönalişini ATF, ADF va fosfatning nisbiy konsentratsiyalari, şuningdek, Na+ va K+ ning elektrokimyoviy gradiyentlari belgilaydi. Ayrim hujayralarda, masalan, elektr jihatdan faol nerv hujayralarida, hujayraning energiyaga bölgan ehtiyojining 60–70% i Na+ ni hujayradan taşqariga va K+ ni hujayra içiga haydaşga sarflanişi mumkin.
+
+@@ ch04-f79
+LEAD: Na+-K+ nasosi hujayra hajmini boşqarişda muhim.
+Na+-K+ nasosining eng muhim vazifalaridan biri — hujayra hajmini boşqariş. Bu nasos işlamasa, organizmdagi hujayralarning köpçiligi yorilib ketgunça şişib boradi.
+
+@@ ch04-f80
+Hajmni boşqariş mexanizmi quyidagiça. Hujayra içida hujayradan çiqib keta olmaydigan köplab oqsillar va boşqa organik molekulalar bor. Bu oqsillar va boşqa organik molekulalarning köpçiligi manfiy zaryadlangan, şuning uçun köp miqdordagi kaliy, natriy va boşqa musbat ionlarni öziga tortadi. Bu molekulalar va ionlarning barçasi suvning hujayra içiga osmosini keltirib çiqaradi. Bu jarayon çeklanmasa, hujayra yorilib ketgunça çeksiz şişib boradi. Bunday oqibatning oldini oluvçi me’yoriy mexanizm — Na+-K+ nasosi. Yana bir bor e’tibor bering: bu mexanizm hujayra içiga haydalgan har ikkita K+ ioniga hujayradan taşqariga uçta Na+ ionini çiqaradi. Bundan taşqari, membrana natriy ionlarini kaliy ionlariga qaraganda ança kam ötkazadi va natriy ionlari taşqariga çiqqaç, u yerda qolişga kuçli moyil böladi. Şunday qilib, bu jarayon ionlarning hujayradan sof yöqotilişini anglatadi va bu suvning hujayradan taşqariga osmosini ham boşlab beradi.
+
+@@ ch04-f81
+Agar hujayra biror sababga köra şişa boşlasa, Na+-K+ nasosi avtomatik ravişda faollaşadi va yanada köproq ionni taşqariga çiqarib, ular bilan birga suvni ham olib çiqadi. Şuning uçun Na+-K+ nasosi hujayraning me’yoriy hajmini saqlaşda doimiy nazorat vazifasini bajaradi.
+
+@@ ch04-f82
+LEAD: Na+-K+ nasosining elektrogen tabiati.
+Na+-K+ nasosi içkariga ötkaziladigan har ikkita K+ ioniga taşqariga uçta Na+ ionini çiqarişi nasosning har bir siklida hujayra içidan taşqariga sof hisobda bitta musbat zaryad köçirilişini anglatadi. Bu hujayra taşqarisida musbatlik hosil qiladi, hujayra içida esa musbat ionlar tanqisligiga, ya’ni içki tomonda manfiylikka olib keladi. Şuning uçun Na+-K+ nasosi hujayra membranasida elektr potensiali hosil qilgani sababli _elektrogen_ deyiladi. 5-bobda muhokama qilinganidek, bu elektr potensiali nerv va muskul tolalarida nerv va muskul signallarini uzatiş uçun asosiy şartdir.
+
+@@ ch04-f83
+Kalsiy ionlarining birlamçi faol transporti
+
+@@ ch04-f84
+Yana bir muhim birlamçi faol transport mexanizmi — _kalsiy nasosi_. Organizmdagi deyarli barça hujayralarning hujayra içi sitozolida kalsiy ionlari me’yorda juda past konsentratsiyada — hujayradan taşqari suyuqlikdagiga qaraganda taxminan 10 000 marta kam konsentratsiyada saqlanadi. Bu darajani saqlab turiş asosan ikkita birlamçi faol transport kalsiy nasosi orqali amalga oşadi. Ulardan biri hujayra membranasida joylaşgan bölib, kalsiyni hujayradan taşqariga haydaydi. Ikkinçisi esa kalsiy ionlarini hujayraning bir yoki bir neçta hujayra içi pufakçali organoidlariga — masalan, muskul hujayralaridagi sarkoplazmatik törga va barça hujayralardagi mitoxondriyalarga haydaydi. Bu holatlarning har birida taşuvçi oqsil membranani teşib ötadi va natriy taşuvçi oqsilning ATFazasi kabi ATF ni parçalaş qobiliyatiga ega ATFaza fermenti vazifasini bajaradi. Farqi şundaki, bu oqsilda natriy uçun emas, balki kalsiy uçun yuqori darajada öziga xos boğlovçi joy bor.
+
+@@ ch04-f85
+Vodorod ionlarining birlamçi faol transporti
+
+@@ ch04-f86
+Vodorod ionlarining birlamçi faol transporti organizmning ikki joyida ayniqsa muhim: (1) me’daning me’da bezlarida; (2) buyraklarning distal kanalçalarining oxirgi qismlari va pöstloq yiğuvçi nayçalarida.
+
+@@ ch04-f87
+Me’da bezlarida çuqur joylaşgan _qoplovçi (parietal) hujayralar_ organizmning boşqa har qanday qismiga qaraganda vodorod ionlarini taşişning eng kuçli birlamçi faol mexanizmiga ega. Bu mexanizm me’da hazm şiralarida xlorid kislota sekretsiyasining asosidir. Me’da bezi qoplovçi hujayralarining sekretor uçlarida vodorod ionlari konsentratsiyasi millionlab marta oşiriladi, söngra ular xlorid ionlari bilan birga me’daga çiqarilib, xlorid kislota hosil qiladi.
+
+@@ ch04-f88
+Buyrak kanalçalarida distal kanalçalarning oxirgi qismlari va pöstloq yiğuvçi nayçalarida joylaşgan maxsus _oraliq (interkalyar) hujayralar_ ham vodorod ionlarini birlamçi faol transport yöli bilan taşiydi. Bu holatda organizm suyuqliklaridan ortiqça vodorod ionlarini çiqarib yuboriş maqsadida qondan buyrak kanalçalari suyuqligiga köp miqdorda vodorod ionlari sekretsiya qilinadi. Vodorod ionlari buyrak kanalçalari suyuqligiga taxminan 900 baravarlik konsentratsiya gradiyentiga qarşi sekretsiya qilinişi mumkin. Biroq 31-bobda muhokama qilinganidek, bu vodorod ionlarining köpçiligi siydik bilan çiqarilişidan oldin kanalça suyuqligidagi bufer moddalar bilan birikadi.
+
+@@ ch04-f89
+Birlamçi faol transportning energetikasi
+
+@@ ch04-f90
+Moddani membrana orqali faol taşiş uçun zarur bölgan energiya miqdori transport davomida modda qançalik konsentratsiyalanişi bilan belgilanadi. Moddani 10 baravar konsentratsiyalaş uçun zarur bölgan energiyaga nisbatan uni 100 baravar konsentratsiyalaş ikki baravar köp energiya talab qiladi, 1000 baravar konsentratsiyalaş esa uç baravar köp energiya talab qiladi. Boşqaça aytganda, zarur energiya moddaning konsentratsiyalaniş darajasining _logarifmiga_ proporsional bölib, quyidagi formula bilan ifodalanadi:
+
+@@ ch04-f91
+Şunday qilib, kaloriyalarda ifodalaganda, moddaning 1 osmolini 10 baravar konsentratsiyalaş uçun taxminan 1400 kaloriya energiya kerak bölsa, uni 100 baravar konsentratsiyalaş uçun 2800 kaloriya talab qilinadi. Körinib turibdiki, moddalarni hujayralarda konsentratsiyalaş yoki ularni konsentratsiya gradiyentiga qarşi hujayralardan çiqariş uçun sarflanadigan energiya juda katta bölişi mumkin. Ayrim hujayralar, masalan, buyrak kanalçalarini qoplovçi hujayralar va köplab bez hujayralari faqat şu maqsadga öz energiyasining 90% igaça qismini sarflaydi.
+
+@@ ch04-f92
+Ikkilamçi faol transport — kotransport va kontrtransport
+
+@@ ch04-f93
+Natriy ionlari birlamçi faol transport orqali hujayradan taşqariga çiqarilganda, odatda hujayra membranasi böylab natriy ionlarining katta konsentratsiya gradiyenti hosil böladi: hujayra taşqarisida konsentratsiya yuqori, içkarida esa past. Bu gradiyent öziga xos energiya zaxirasidir, çunki hujayra membranasi taşqarisidagi ortiqça natriy doimo içkariga diffuziyalanişga intiladi. Tegişli şaroitlarda natriyning bu diffuziya energiyasi boşqa moddalarni ham natriy bilan birga hujayra membranasi orqali tortib ötkazişi mumkin. _Kotransport_ deb ataladigan bu hodisa _ikkilamçi faol transportning_ bir şaklidir.
+
+@@ ch04-f94
+Natriy boşqa moddani özi bilan birga tortib ötkazişi uçun biriktiruvçi mexanizm zarur; bunga hujayra membranasidagi yana bir taşuvçi oqsil yordamida erişiladi. Bu holda taşuvçi ham natriy ioni, ham u bilan birga taşiladigan modda uçun birikiş nuqtasi vazifasini bajaradi. Ikkalasi ham birikkaç, natriy ionining energiya gradiyenti natriy ioni va boşqa moddaning birgalikda hujayra içiga taşilişiga sabab böladi.
+
+@@ ch04-f95
+_Kontrtransportda_ ham natriy ionlari katta konsentratsiya gradiyenti tufayli yana hujayra içiga diffuziyalanişga intiladi. Biroq bu safar taşiladigan modda hujayra içida bölib, taşqariga taşiladi. Şuning uçun natriy ioni taşuvçi oqsilning membrana taşqi yuzasiga çiqib turgan qismiga, kontrtransport qilinadigan modda esa taşuvçi oqsilning içki ösimtasiga boğlanadi. Ikkalasi ham boğlangaç, konformatsion özgariş yuz beradi va natriy ionining içkariga harakatlanişi natijasida ajralib çiqqan energiya boşqa moddaning taşqariga harakatlanişiga sabab böladi.
+
+@@ ch04-f96
+Glyukoza va aminokislotalarning natriy ionlari bilan kotransporti
+
+@@ ch04-f97
+**Rasm 4-13** da körsatilganidek, glyukoza va köplab aminokislotalar köpçilik hujayralarga katta konsentratsiya gradiyentlariga qarşi taşiladi; bu jarayonning mexanizmi butunlay kotransportga asoslangan. E’tibor bering: taşuvçi oqsilning taşqi tomonida ikkita boğlovçi joy bor — biri natriy uçun, ikkinçisi glyukoza uçun. Şuningdek, natriy ionlari konsentratsiyasi taşqarida yuqori, içkarida esa past bölib, bu transport uçun energiya beradi. Transport oqsilining öziga xos xususiyati şundaki, natriyning içkariga ötişiga imkon beruvçi konformatsion özgariş glyukoza molekulasi ham birikmagunça sodir bölmaydi. Ikkalasi ham birikkanda konformatsion özgariş yuz beradi va natriy hamda glyukoza bir vaqtda hujayra içiga taşiladi. Şu sababli bu taşuvçi _natriy-glyukoza kotransporteri_ deb ataladi. 28- va 66-boblarda muhokama qilinganidek, natriy-glyukoza kotransporterlari glyukozani buyrak va içak epiteliy hujayralari orqali taşişda ayniqsa muhim.
+
+@@ ch04-f99
+_Aminokislotalarning natriy bilan kotransporti_ glyukozaniki kabi sodir böladi, faqat bunda boşqa transport oqsillari töplamidan foydalaniladi. Kamida beşta _aminokislota transport oqsili_ aniqlangan; ularning har biri muayyan molekulyar xususiyatlarga ega aminokislotalarning bir guruhini taşiş uçun javobgar.
+
+@@ ch04-f100
+Glyukoza va aminokislotalarning natriy bilan kotransporti ayniqsa içak yöli epiteliy hujayralari va buyrak kanalçalari orqali sodir bölib, bu moddalarning qonga sörilişiga yordam beradi. Bu jarayon keyingi boblarda muhokama qilinadi.
+
+@@ ch04-f101
+Heç bölmaganda ayrim hujayralardagi boşqa muhim kotransport mexanizmlariga kaliy, xlorid, bikarbonat, fosfat, yod, temir va urat ionlarining kotransporti kiradi.
+
+@@ ch04-f102
+Kalsiy va vodorod ionlarining natriy bilan kontrtransporti
+
+@@ ch04-f103
+Ikkita ayniqsa muhim kontrtransporter (ya’ni birlamçi ionga qarama-qarşi yönalişda taşuvçi) — _natriy-kalsiy kontrtransporti_ va _natriy-vodorod kontrtransporti_ (**Rasm 4-14**).
+
+@@ ch04-f105
+Natriy-kalsiy kontrtransporti barça yoki deyarli barça hujayra membranalari orqali sodir böladi: bunda natriy ionlari içkariga, kalsiy ionlari esa taşqariga harakatlanadi; ikkalasi ham kontrtransport tartibida bitta transport oqsiliga boğlanadi. Bu mexanizm ayrim hujayralarda sodir böladigan kalsiyning birlamçi faol transportiga qöşimça ravişda işlaydi.
+
+@@ ch04-f106
+Natriy-vodorod kontrtransporti bir qança töqimalarda sodir böladi. Ayniqsa muhim misol — buyraklarning _proksimal kanalçalari_: bu yerda natriy ionlari kanalça böşliğidan kanalça hujayrasi içiga ötadi, vodorod ionlari esa kanalça böşliğiga kontrtransport qilinadi. Vodorod ionlarini konsentratsiyalaş mexanizmi sifatida kontrtransport buyrak kanalçalarining distalroq qismlarida sodir böladigan vodorod ionlarining birlamçi faol transportidek kuçli emas, biroq u nihoyatda _köp miqdordagi vodorod ionlarini_ taşiy oladi; şu sababli, 31-bobda batafsil muhokama qilinganidek, organizm suyuqliklarida vodorod ionlarini boşqarişda asosiy örin tutadi.
+
+@@ ch04-f107
+Hujayra qatlamlari orqali faol transport
+
+@@ ch04-f108
+Organizmning köp joylarida moddalar şunçaki hujayra membranasi orqali emas, balki butun hujayra qatlami orqali taşilişi kerak. Bunday transport quyidagilar orqali sodir böladi: (1) içak epiteliysi; (2) buyrak kanalçalari epiteliysi; (3) barça ekzokrin bezlar epiteliysi; (4) öt pufagi epiteliysi; (5) boş miya tomirli çigalining membranasi va boşqa membranalar.
+
+@@ ch04-f109
+Moddaning hujayra qatlami orqali taşilişining asosiy mexanizmi quyidagiça: (1) qatlamdagi taşuvçi hujayralarning _bir tomonidagi_ hujayra membranasi orqali _faol transport_; söngra (2) hujayraning _qarama-qarşi tomonidagi_ membrana orqali _oddiy diffuziya_ yoki _yengillaştirilgan diffuziya_.
+
+@@ ch04-f110
+**Rasm 4-15** da natriy ionlarining içaklar, öt pufagi va buyrak kanalçalari epiteliy qatlami orqali taşiliş mexanizmi körsatilgan. Rasmdan körinadiki, epiteliy hujayralari lyuminal qutbida birikmalar yordamida bir-biriga ziç tutaşgan. Hujayralarning lyuminal yuzasidagi çötkasimon hoşiya natriy ionlarini ham, suvni ham ötkazadi. Şuning uçun natriy va suv böşliqdan hujayra içiga oson diffuziyalanadi. Söngra hujayralarning bazal va lateral membranalarida natriy ionlari atrofdagi biriktiruvçi töqima va qon tomirlarining hujayradan taşqari suyuqligiga faol taşiladi. Bu jarayon şu membranalar böylab natriy ionlarining yuqori konsentratsiya gradiyentini hosil qiladi, bu esa öz navbatida suvning osmosini keltirib çiqaradi. Şunday qilib, epiteliy hujayralarining bazolateral tomonlarida natriy ionlarining faol transporti nafaqat natriy ionlarining, balki suvning ham taşilişiga olib keladi.
+
+@@ ch04-f112
+Deyarli barça oziq moddalar, ionlar va boşqa moddalar aynan şu mexanizmlar orqali içakdan qonga söriladi. Xuddi şu moddalar buyrak kanalçalari tomonidan koptokça filtratidan ham şu mexanizmlar yordamida qayta söriladi.
+
+@@ ch04-f113
+Uşbu bobda muhokama qilingan turli transport turlarining köplab misollari darslikning butun davomida keltiriladi.
+
+@@ fig:gh14-fig-04-01
+Hujayradan taşqari va hujayra içi suyuqliklarining kimyoviy tarkibi. Söroq belgilari hujayra içi suyuqligi uçun aniq qiymatlar noma’lumligini bildiradi. Qizil çiziq hujayra membranasini körsatadi.
+
+@@ fig:gh14-fig-04-02
+Hujayra membranasi orqali transport yöllari va transportning asosiy mexanizmlari.
+
+@@ fig:gh14-fig-04-03
+Suyuqlik molekulasining sekundning mingdan bir uluşi davomidagi diffuziyasi.
+
+@@ fig:gh14-fig-04-04
+Kaliy kanalining tuzilişi. Kanal törtta subbirlikdan iborat (ulardan faqat ikkitasi körsatilgan), har birida ikkitadan transmembrana spiral bor. Teşik halqalaridan tor tanlovçi filtr hosil böladi; tanlovçi filtr devorlarini karbonil kislorodlari qoplab, degidratlangan kaliy ionlarini vaqtinça boğlovçi joylarni hosil qiladi. Kaliy ionlarining karbonil kislorodlari bilan özaro ta’siri ularning boğlangan suv molekulalarini yöqotişiga sabab böladi va degidratlangan kaliy ionlarining teşikdan ötişiga imkon beradi.
+
+@@ fig:gh14-fig-04-05
+Natriy va kaliy ionlarining oqsil kanallari orqali taşilişi. Şuningdek, kanallarni qöriqlovçi “darvozalar”ni oçiş yoki yopiş uçun oqsil molekulalaridagi konformatsion özgarişlar ham körsatilgan.
+
+@@ fig:gh14-fig-04-06
+A — bitta potensialga boğliq natriy kanali orqali ötayotgan tokning yozuvi; kanal oçilişi va yopilişining “hammasi yoki heç narsa” tamoyilini namoyiş etadi. B — bitta oqsil kanali orqali ötayotgan tokni yozib olişning patç-klamp usuli. Çapda yozuv tirik hujayra membranasining “bölagi”dan olinmoqda. Öngda yozuv hujayradan uzib olingan membrana bölagidan olinmoqda.
+
+@@ fig:gh14-fig-04-07
+Modda konsentratsiyasining oddiy diffuziya va yengillaştirilgan diffuziya yöli bilan membrana orqali diffuziya tezligiga ta’siri. Grafikdan körinadiki, yengillaştirilgan diffuziya Vmax deb ataladigan maksimal tezlikka yaqinlaşadi.
+
+@@ fig:gh14-fig-04-08
+Yengillaştirilgan diffuziyaning taxminiy mexanizmi.
+
+@@ fig:gh14-fig-04-09
+Konsentratsiyalar farqi (A), manfiy ionlarga ta’sir qiluvçi elektr potensiallar farqi (B) va bosimlar farqining (C) molekula va ionlarning hujayra membranasi orqali diffuziyasini yuzaga keltirişdagi ta’siri. Co — hujayra taşqarisidagi konsentratsiya; Ci — hujayra içidagi konsentratsiya; P1 — 1-bosim; P2 — 2-bosim.
+
+@@ fig:gh14-fig-04-10
+Membrananing bir tomoniga natriy xlorid eritmasi, ikkinçi tomoniga suv qöyilganda hujayra membranasida yuz beradigan osmos.
+
+@@ fig:gh14-fig-04-11
+Yarim ötkazuvçan membranadagi osmos natijasida hosil böladigan osmotik bosimning namoyişi.
+
+@@ fig:gh14-fig-04-12
+Natriy-kaliy nasosining taxminiy mexanizmi. ADF — adenozindifosfat; ATF — adenozintrifosfat; Pi — fosfat ioni.
+
+@@ fig:gh14-fig-04-13
+Glyukozaning natriy bilan kotransportining taxminiy mexanizmi.
+
+@@ fig:gh14-fig-04-14
+Kalsiy va vodorod ionlarining natriy bilan kontrtransporti.
+
+@@ fig:gh14-fig-04-15
+Hujayralar qatlami orqali faol transportning asosiy mexanizmi.
+

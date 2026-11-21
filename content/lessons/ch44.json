@@ -2,9 +2,9 @@
  "id": "ch44",
  "topicId": "08",
  "order": 1,
- "titleUz": "Aviatsiya, baland tog' va kosmos fiziologiyasi",
+ "titleUz": "Aviatsiya, baland toğ va kosmos fiziologiyasi",
  "titleOriginal": "Aviation, High Altitude, and Space Physiology",
- "subtitle": "*Aviation, High Altitude, and Space Physiology* — VIII bo'lim, PDF 527–534",
+ "subtitle": "*Aviation, High Altitude, and Space Physiology* — VIII bo‘lim, PDF 527–534",
  "contentVersion": "2026-11-14.1",
  "status": "in_review",
  "translationStatus": "machine_assisted",
@@ -174,16 +174,16 @@
   }
  ],
  "objectives": [
-  "Balandlik va gazlar (Jadval 44-1, o’tkir ta’sir; qavs ichida akklimatizatsiyalangan)",
-  "O’tkir gipoksiya (akklimatizatsiyalanmagan, havo bilan)",
+  "Balandlik va gazlar (Jadval 44-1, o‘tkir ta’sir; qavs ichida akklimatizatsiyalangan)",
+  "O‘tkir gipoksiya (akklimatizatsiyalanmagan, havo bilan)",
   "Akklimatizatsiya",
-  "HIF: gipoksiyaga javobning \"bosh kaliti\"",
-  "Balandlikda tug’ilganlarning tabiiy akklimatizatsiyasi",
-  "O’tkir tog' kasalligi",
-  "Surunkali tog' kasalligi",
+  "HIF: gipoksiyaga javobning “bosh kaliti”",
+  "Balandlikda tug‘ilganlarning tabiiy akklimatizatsiyasi",
+  "O‘tkir tog‘ kasalligi",
+  "Surunkali tog‘ kasalligi",
   "Tezlanish kuchlari",
   "Chiziqli tezlanish (kosmos)",
-  "Germetik kemada \"sun’iy iqlim\"",
+  "Germetik kemada “sun’iy iqlim”",
   "Vaznsizlik (mikrogravitatsiya)"
  ],
  "blocks": {
@@ -191,7 +191,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Asosiy g’oya",
+    "text": "Asosiy ğoya",
     "id": "ch44-s-0-asosiy-goya",
     "bid": "ch44-u0"
    },
@@ -200,19 +200,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Balandlikdagi barcha gipoksiya muammolarining sababi **barometrik bosim pasayishi**. Unga mutanosib ravishda PO₂ ham tushadi (doim ~21%).",
+      "text": "Balandlikdagi barça gipoksiya muammolarining sababi **barometrik bosim pasayişi**. Unga mutanosib ravişda PO₂ ham tuşadi (doim ~21%).",
       "depth": 0
      },
      {
-      "text": "Alveolada **suv bug’i (47 mm Hg)** va CO₂ O₂ ni yanada suyultiradi.",
+      "text": "Alveolada **suv buği (47 mm Hg)** va CO₂ O₂ ni yanada suyultiradi.",
       "depth": 0
      },
      {
-      "text": "Organizm **akklimatizatsiya** bilan moslashadi: ventilyatsiya, eritrotsitlar, diffuziya, kapillyarlar, hujayra darajasi. Bu jarayonni **HIF** boshqaradi.",
+      "text": "Organizm **akklimatizatsiya** bilan moslaşadi: ventilyatsiya, eritrotsitlar, diffuziya, kapillyarlar, hujayra darajasi. Bu jarayonni **HIF** boşqaradi.",
       "depth": 0
      },
      {
-      "text": "Aviatsiya va kosmosda yana uchta muammo bor: tezlanish (G) kuchlari, sun’iy atmosfera va vaznsizlik.",
+      "text": "Aviatsiya va kosmosda yana uçta muammo bor: tezlaniş (G) kuçlari, sun’iy atmosfera va vaznsizlik.",
       "depth": 0
      }
     ],
@@ -221,7 +221,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Balandlik va gazlar (Jadval 44-1, o’tkir ta’sir; qavs ichida akklimatizatsiyalangan)",
+    "text": "Balandlik va gazlar (Jadval 44-1, ötkir ta’sir; qavs içida akklimatizatsiyalangan)",
     "id": "ch44-s-2-balandlik-va-gazlar-jadval-44-1-otkir-tasir-qavs-ichida-akkl",
     "bid": "ch44-u2"
    },
@@ -308,7 +308,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Everest cho’qqisi (29 028 fut) hisob-kitobi:**",
+    "text": "**Everest çöqqisi (29 028 fut) hisob-kitobi:**",
     "bid": "ch44-u5"
    },
    {
@@ -320,7 +320,7 @@
       "depth": 0
      },
      {
-      "text": "Suv bug’i 47 ni ayirsak, 206 qoladi.",
+      "text": "Suv buği 47 ni ayirsak, 206 qoladi.",
       "depth": 0
      },
      {
@@ -328,7 +328,7 @@
       "depth": 0
      },
      {
-      "text": "Undan 1/5 qismi O₂ bo’lsa, 40 bo’lar edi. Qonga yutilishni hisobga olsak, PAO₂ ≈ **35 mm Hg**.",
+      "text": "Undan 1/5 qismi O₂ bölsa, 40 bölar edi. Qonga yutilişni hisobga olsak, PAO₂ ≈ **35 mm Hg**.",
       "depth": 0
      }
     ],
@@ -336,7 +336,7 @@
    },
    {
     "type": "paragraph",
-    "text": "Bu holatda havo bilan faqat eng yaxshi akklimatizatsiyalanganlar zo’rg’a omon qoladi.",
+    "text": "Bu holatda havo bilan faqat eng yaxşi akklimatizatsiyalanganlar zörğa omon qoladi.",
     "bid": "ch44-u7"
    },
    {
@@ -349,11 +349,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Havo bilan: **10 000 fut**gacha ≥90%, 20 000 futda <70%.",
+      "text": "Havo bilan: **10 000 fut**gaça ≥90%, 20 000 futda <70%.",
       "depth": 0
      },
      {
-      "text": "Toza O₂ bilan: **39 000 fut**gacha >90%, 47 000 futda ~50%.",
+      "text": "Toza O₂ bilan: **39 000 fut**gaça >90%, 47 000 futda ~50%.",
       "depth": 0
      }
     ],
@@ -361,7 +361,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**\"Shift\" (ceiling, germetik bo’lmagan samolyotda qisqa muddat):** akklimatizatsiyalanmagan odam saturatsiya ~50% gacha hushini saqlaydi. Shu sababli chegara havo bilan **~23 000 fut**, toza O₂ bilan **~47 000 fut**.",
+    "text": "**“Shift” (ceiling, germetik bölmagan samolyotda qisqa muddat):** akklimatizatsiyalanmagan odam saturatsiya ~50% gaça huşini saqlaydi. Şu sababli çegara havo bilan **~23 000 fut**, toza O₂ bilan **~47 000 fut**.",
     "bid": "ch44-u10"
    },
    {
@@ -372,7 +372,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "O’tkir gipoksiya (akklimatizatsiyalanmagan, havo bilan)",
+    "text": "Ötkir gipoksiya (akklimatizatsiyalanmagan, havo bilan)",
     "id": "ch44-s-12-otkir-gipoksiya-akklimatizatsiyalanmagan-havo-bilan",
     "bid": "ch44-u12"
    },
@@ -385,7 +385,7 @@
     "rows": [
      [
       "~12 000 fut",
-      "uyquchanlik, holsizlik, aqliy va mushak charchog’i, ba’zan bosh og’rig’i, ko’ngil aynishi, eyforiya"
+      "uyquchanlik, holsizlik, aqliy va mushak charchog‘i, ba’zan bosh og‘rig‘i, ko‘ngil aynishi, eyforiya"
      ],
      [
       ">18 000 fut",
@@ -393,14 +393,14 @@
      ],
      [
       ">23 000 fut",
-      "koma, keyin tez orada o’lim"
+      "koma, keyin tez orada o‘lim"
      ]
     ],
     "bid": "ch44-u13"
    },
    {
     "type": "paragraph",
-    "text": "**Aqliy qobiliyat** (fikrlash, xotira, nozik harakatlar) pasayadi. 15 000 futda 1 soatdan keyin ~50%, 18 soatdan keyin ~20%.",
+    "text": "**Aqliy qobiliyat** (fikrlaş, xotira, nozik harakatlar) pasayadi. 15 000 futda 1 soatdan keyin ~50%, 18 soatdan keyin ~20%.",
     "bid": "ch44-u14"
    },
    {
@@ -412,7 +412,7 @@
    },
    {
     "type": "paragraph",
-    "text": "Besh mexanizm: ventilyatsiya ↑, eritrotsitlar ↑, diffuziya sig’imi ↑, periferik kapillyarlar ↑, hujayralarning O₂ dan foydalanishi ↑.",
+    "text": "Beş mexanizm: ventilyatsiya ↑, eritrotsitlar ↑, diffuziya siğimi ↑, periferik kapillyarlar ↑, hujayralarning O₂ dan foydalanişi ↑.",
     "bid": "ch44-u16"
    },
    {
@@ -424,19 +424,19 @@
       "depth": 0
      },
      {
-      "text": "Darhol arterial xemoretseptorlar uni **1,65 marta** oshiradi. Bu bir necha ming fut balandroq ko’tarilish imkonini beradi.",
+      "text": "Darhol arterial xemoretseptorlar uni **1,65 marta** oşiradi. Bu bir neça ming fut balandroq kötariliş imkonini beradi.",
       "depth": 1
      },
      {
-      "text": "Lekin CO₂ yo’qotilishi (PCO₂ ↓, pH ↑) nafas markazini tormozlaydi.",
+      "text": "Lekin CO₂ yöqotilişi (PCO₂ ↓, pH ↑) nafas markazini tormozlaydi.",
       "depth": 1
      },
      {
-      "text": "**2–5 kun** ichida tormozlanish yo’qoladi va ventilyatsiya **~5 marta** ortadi. Sababi: likvor va miya to’qimasida HCO₃⁻ kamayadi, xemosezgir neyronlar atrofida pH tushadi.",
+      "text": "**2–5 kun** içida tormozlaniş yöqoladi va ventilyatsiya **~5 marta** ortadi. Sababi: likvor va miya töqimasida HCO₃⁻ kamayadi, xemosezgir neyronlar atrofida pH tuşadi.",
       "depth": 1
      },
      {
-      "text": "Buyrak respirator alkalozni kompensatsiya qiladi: H⁺ sekretsiyasini kamaytiradi, HCO₃⁻ chiqarishni oshiradi (31-bob).",
+      "text": "Buyrak respirator alkalozni kompensatsiya qiladi: H⁺ sekretsiyasini kamaytiradi, HCO₃⁻ çiqarişni oşiradi (31-bob).",
       "depth": 1
      },
      {
@@ -444,11 +444,11 @@
       "depth": 0
      },
      {
-      "text": "Gipoksiya eritropoezni rag’batlantiradi (33-bob).",
+      "text": "Gipoksiya eritropoezni rağbatlantiradi (33-bob).",
       "depth": 1
      },
      {
-      "text": "Haftalar ichida gematokrit 40–45% dan **~60%** gacha, Hb 15 dan **~20 g/dl** gacha ko’tariladi.",
+      "text": "Haftalar içida gematokrit 40–45% dan **~60%** gaça, Hb 15 dan **~20 g/dl** gaça kötariladi.",
       "depth": 1
      },
      {
@@ -456,39 +456,39 @@
       "depth": 1
      },
      {
-      "text": "**Diffuziya sig’imi** (normal 21 ml/min/mm Hg) jismoniy ishdagidek **~3 marta** ortadi. Sabablari:",
+      "text": "**Diffuziya siğimi** (normal 21 ml/min/mm Hg) jismoniy işdagidek **~3 marta** ortadi. Sabablari:",
       "depth": 0
      },
      {
-      "text": "o’pka kapillyar qon hajmi ortadi;",
+      "text": "öpka kapillyar qon hajmi ortadi;",
       "depth": 1
      },
      {
-      "text": "o’pka havo hajmi ortadi;",
+      "text": "öpka havo hajmi ortadi;",
       "depth": 1
      },
      {
-      "text": "o’pka arterial bosimi ortib, ayniqsa yuqori qismlarda ko’proq kapillyarlarni to’ldiradi.",
+      "text": "öpka arterial bosimi ortib, ayniqsa yuqori qismlarda köproq kapillyarlarni töldiradi.",
       "depth": 1
      },
      {
-      "text": "**Qon aylanishi:**",
+      "text": "**Qon aylanişi:**",
       "depth": 0
      },
      {
-      "text": "Yurak minutlik hajmi darhol ~**30%** ortadi. Haftalar ichida gematokrit ko’tarilishi bilan normaga qaytadi.",
+      "text": "Yurak minutlik hajmi darhol ~**30%** ortadi. Haftalar içida gematokrit kötarilişi bilan normaga qaytadi.",
       "depth": 1
      },
      {
-      "text": "**Angiogenez** (yangi kapillyarlar) kuzatiladi, ayniqsa balandlikda tug’ilganlarda.",
+      "text": "**Angiogenez** (yangi kapillyarlar) kuzatiladi, ayniqsa balandlikda tuğilganlarda.",
       "depth": 1
      },
      {
-      "text": "O’ng qorincha mushagida kapillyar zichligi gipoksiya va o’pka gipertenziyasi yuki tufayli keskin ortadi.",
+      "text": "Öng qorinça muşagida kapillyar ziçligi gipoksiya va öpka gipertenziyasi yuki tufayli keskin ortadi.",
       "depth": 1
      },
      {
-      "text": "**Hujayra darajasi:** 13 000–17 000 futda yashovchi hayvonlarda mitoxondriya va oksidlanish fermentlari biroz ko’proq. Odamlarda ham shunday deb taxmin qilinadi.",
+      "text": "**Hujayra darajasi:** 13 000–17 000 futda yaşovçi hayvonlarda mitoxondriya va oksidlaniş fermentlari biroz köproq. Odamlarda ham şunday deb taxmin qilinadi.",
       "depth": 0
      }
     ],
@@ -497,7 +497,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "HIF: gipoksiyaga javobning \"bosh kaliti\"",
+    "text": "HIF: gipoksiyaga javobning “boş kaliti”",
     "id": "ch44-s-18-hif-gipoksiyaga-javobning-bosh-kaliti",
     "bid": "ch44-u18"
    },
@@ -506,11 +506,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "DNK bilan bog’lanuvchi transkripsiya omillari; chuvalchangdan odamgacha uchraydi.",
+      "text": "DNK bilan boğlanuvçi transkripsiya omillari; çuvalçangdan odamgaça uçraydi.",
       "depth": 0
      },
      {
-      "text": "**HIF-1 boshqaradigan genlar:**",
+      "text": "**HIF-1 boşqaradigan genlar:**",
       "depth": 0
      },
      {
@@ -522,7 +522,7 @@
       "depth": 1
      },
      {
-      "text": "energiyadan foydalanishdagi mitoxondrial genlar;",
+      "text": "energiyadan foydalanişdagi mitoxondrial genlar;",
       "depth": 1
      },
      {
@@ -530,19 +530,19 @@
       "depth": 1
      },
      {
-      "text": "**NO** mavjudligini oshiruvchi genlar (o’pka vazodilatatsiyasi).",
+      "text": "**NO** mavjudligini oşiruvçi genlar (öpka vazodilatatsiyasi).",
       "depth": 1
      },
      {
-      "text": "**Boshqaruvi:**",
+      "text": "**Boşqaruvi:**",
       "depth": 0
      },
      {
-      "text": "O₂ yetarli bo’lsa, HIF subbirliklarini **HIF gidroksilazalar** faolsizlantiradi.",
+      "text": "O₂ yetarli bölsa, HIF subbirliklarini **HIF gidroksilazalar** faolsizlantiradi.",
       "depth": 1
      },
      {
-      "text": "Gipoksiyada gidroksilazalar ishlamaydi va faol HIF kompleksi hosil bo’ladi.",
+      "text": "Gipoksiyada gidroksilazalar işlamaydi va faol HIF kompleksi hosil böladi.",
       "depth": 1
      }
     ],
@@ -551,7 +551,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Balandlikda tug’ilganlarning tabiiy akklimatizatsiyasi",
+    "text": "Balandlikda tuğilganlarning tabiiy akklimatizatsiyasi",
     "id": "ch44-s-20-balandlikda-tugilganlarning-tabiiy-akklimatizatsiyasi",
     "bid": "ch44-u20"
    },
@@ -560,19 +560,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "And va Himoloy tog’larida ko’p odam 13 000 futdan yuqorida yashaydi. Peru Andida bir guruh **17 500 fut**da yashab, **19 000 fut**da konda ishlaydi.",
+      "text": "And va Himoloy toğlarida köp odam 13 000 futdan yuqorida yaşaydi. Peru Andida bir guruh **17 500 fut**da yaşab, **19 000 fut**da konda işlaydi.",
       "depth": 0
      },
      {
-      "text": "Ular 10 yildan ortiq balandlikda yashagan pasttekislik odamlaridan ham har jihatdan ustun.",
+      "text": "Ular 10 yildan ortiq balandlikda yaşagan pasttekislik odamlaridan ham har jihatdan ustun.",
       "depth": 0
      },
      {
-      "text": "**Moslashuv go’daklikdan boshlanadi:**",
+      "text": "**Moslaşuv gödaklikdan boşlanadi:**",
       "depth": 0
      },
      {
-      "text": "ko’krak qafasi katta, tana biroz kichik, ya’ni ventilyatsiya sig’imi / tana massasi nisbati yuqori;",
+      "text": "kökrak qafasi katta, tana biroz kiçik, ya’ni ventilyatsiya siğimi / tana massasi nisbati yuqori;",
       "depth": 1
      },
      {
@@ -584,11 +584,11 @@
       "depth": 0
      },
      {
-      "text": "15 000 futda yashovchilarning arterial PO₂ si atigi **40**, lekin Hb ko’pligi tufayli arterial O₂ miqdori dengiz sathidagilarnikidan **ko’p**.",
+      "text": "15 000 futda yaşovçilarning arterial PO₂ si atigi **40**, lekin Hb köpligi tufayli arterial O₂ miqdori dengiz sathidagilarnikidan **köp**.",
       "depth": 1
      },
      {
-      "text": "Venoz PO₂ pasttekislik odamlarinikidan atigi 15 mm Hg past. Demak O₂ to’qimaga juda samarali yetkaziladi.",
+      "text": "Venoz PO₂ pasttekislik odamlarinikidan atigi 15 mm Hg past. Demak O₂ töqimaga juda samarali yetkaziladi.",
       "depth": 1
      }
     ],
@@ -601,7 +601,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Ish qobiliyati, 17 000 futda (Jadval 44-2):**",
+    "text": "**Iş qobiliyati, 17 000 futda (Jadval 44-2):**",
     "bid": "ch44-u23"
    },
    {
@@ -633,19 +633,19 @@
    },
    {
     "type": "paragraph",
-    "text": "Ish qobiliyati maksimal O₂ iste’molining kamayishiga to’g’ri proporsional pasayadi. Yurak va skelet mushaklari ikkalasi ham ta’sirlanadi.",
+    "text": "Iş qobiliyati maksimal O₂ iste’molining kamayişiga töğri proporsional pasayadi. Yurak va skelet muşaklari ikkalasi ham ta’sirlanadi.",
     "bid": "ch44-u26"
    },
    {
     "type": "heading",
     "level": 2,
-    "text": "O’tkir tog' kasalligi",
+    "text": "Ötkir toğ kasalligi",
     "id": "ch44-s-27-otkir-tog-kasalligi",
     "bid": "ch44-u27"
    },
    {
     "type": "paragraph",
-    "text": "Tez ko’tarilganlarning oz qismida bir necha soatdan ~2 kungacha boshlanadi. O₂ berilmasa yoki pastga tushirilmasa, o’limga olib kelishi mumkin.",
+    "text": "Tez kötarilganlarning oz qismida bir neça soatdan ~2 kungaça boşlanadi. O₂ berilmasa yoki pastga tuşirilmasa, ölimga olib kelişi mumkin.",
     "bid": "ch44-u28"
    },
    {
@@ -653,35 +653,35 @@
     "ordered": true,
     "items": [
      {
-      "text": "**O’tkir miya shishi:**",
+      "text": "**Ötkir miya şişi:**",
       "depth": 0
      },
      {
-      "text": "Gipoksiya miya tomirlarini kengaytiradi, kapillyar bosimi ortadi va suyuqlik sizib chiqadi.",
+      "text": "Gipoksiya miya tomirlarini kengaytiradi, kapillyar bosimi ortadi va suyuqlik sizib çiqadi.",
       "depth": 1
      },
      {
-      "text": "VEGF va yallig’lanish sitokinlari endoteliy o’tkazuvchanligini oshirishi mumkin.",
+      "text": "VEGF va yalliğlaniş sitokinlari endoteliy ötkazuvçanligini oşirişi mumkin.",
       "depth": 1
      },
      {
-      "text": "Natija: kuchli dezoriyentatsiya.",
+      "text": "Natija: kuçli dezoriyentatsiya.",
       "depth": 1
      },
      {
-      "text": "**O’tkir o’pka shishi:**",
+      "text": "**Ötkir öpka şişi:**",
       "depth": 0
      },
      {
-      "text": "Mexanizmi aniq emas, gipoteza shunday: gipoksik vazokonstriksiya **notekis** bo’ladi va qon kamroq toraygan tomirlarga ko’proq yo’naltiriladi. U yerda kapillyar bosimi juda ortib, mahalliy shish paydo bo’ladi va tarqaladi.",
+      "text": "Mexanizmi aniq emas, gipoteza şunday: gipoksik vazokonstriksiya **notekis** böladi va qon kamroq toraygan tomirlarga köproq yönaltiriladi. U yerda kapillyar bosimi juda ortib, mahalliy şiş paydo böladi va tarqaladi.",
       "depth": 1
      },
      {
-      "text": "Kimyoviy omillar ham o’tkazuvchanlikni oshirishi mumkin.",
+      "text": "Kimyoviy omillar ham ötkazuvçanlikni oşirişi mumkin.",
       "depth": 1
      },
      {
-      "text": "**O₂ berilsa, odatda soatlar ichida tuzaladi.**",
+      "text": "**O₂ berilsa, odatda soatlar içida tuzaladi.**",
       "depth": 1
      }
     ],
@@ -690,7 +690,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Surunkali tog' kasalligi",
+    "text": "Surunkali toğ kasalligi",
     "id": "ch44-s-30-surunkali-tog-kasalligi",
     "bid": "ch44-u30"
    },
@@ -708,23 +708,23 @@
       "depth": 0
      },
      {
-      "text": "O’pka arterial bosimi akklimatizatsiyadagidan ham yuqori.",
+      "text": "Öpka arterial bosimi akklimatizatsiyadagidan ham yuqori.",
       "depth": 0
      },
      {
-      "text": "O’ng yurak keskin kattalashadi.",
+      "text": "Öng yurak keskin kattalaşadi.",
       "depth": 0
      },
      {
-      "text": "Periferik arterial bosim pasaya boshlaydi.",
+      "text": "Periferik arterial bosim pasaya boşlaydi.",
       "depth": 0
      },
      {
-      "text": "Dimlanishli yurak yetishmovchiligi rivojlanadi.",
+      "text": "Dimlanişli yurak yetişmovçiligi rivojlanadi.",
       "depth": 0
      },
      {
-      "text": "Pastga tushirilmasa, ko’pincha o’lim.",
+      "text": "Pastga tuşirilmasa, köpinça ölim.",
       "depth": 0
      }
     ],
@@ -740,15 +740,15 @@
     "ordered": true,
     "items": [
      {
-      "text": "Qon **yopishqoqligi** bir necha marta ortib, to’qima qon oqimi va O₂ yetkazish kamayadi.",
+      "text": "Qon **yopişqoqligi** bir neça marta ortib, töqima qon oqimi va O₂ yetkaziş kamayadi.",
       "depth": 0
      },
      {
-      "text": "**Hamma** alveolalar gipoksik bo’lgani uchun barcha arteriolalar torayadi (39-bob). O’pka gipertenziyasi va o’ng yurak yetishmovchiligi rivojlanadi.",
+      "text": "**Hamma** alveolalar gipoksik bölgani uçun barça arteriolalar torayadi (39-bob). Öpka gipertenziyasi va öng yurak yetişmovçiligi rivojlanadi.",
       "depth": 0
      },
      {
-      "text": "Arteriola spazmi qonni alveolyar bo’lmagan tomirlarga yo’naltiradi va **shunt** ortadi.",
+      "text": "Arteriola spazmi qonni alveolyar bölmagan tomirlarga yönaltiradi va **shunt** ortadi.",
       "depth": 0
      }
     ],
@@ -756,24 +756,24 @@
    },
    {
     "type": "paragraph",
-    "text": "Pastga tushirilgach, ko’pchilik kunlar yoki haftalar ichida tuzaladi.",
+    "text": "Pastga tuşirilgaç, köpçilik kunlar yoki haftalar içida tuzaladi.",
     "bid": "ch44-u35"
    },
    {
     "type": "heading",
     "level": 2,
-    "text": "Tezlanish kuchlari",
+    "text": "Tezlaniş kuçlari",
     "id": "ch44-s-36-tezlanish-kuchlari",
     "bid": "ch44-u36"
    },
    {
     "type": "paragraph",
-    "text": "**Markazdan qochma kuch:** **f = mv²/r**. Tezlikning kvadratiga proporsional va burilish radiusiga teskari proporsional.",
+    "text": "**Markazdan qoçma kuç:** **f = mv²/r**. Tezlikning kvadratiga proporsional va buriliş radiusiga teskari proporsional.",
     "bid": "ch44-u37"
    },
    {
     "type": "paragraph",
-    "text": "**\"G\":**",
+    "text": "**“G”:**",
     "bid": "ch44-u38"
    },
    {
@@ -781,15 +781,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Oddiy o’tirganda **+1 G**.",
+      "text": "Oddiy ötirganda **+1 G**.",
       "depth": 0
      },
      {
-      "text": "Sho’ng’ishdan chiqishda o’rindiqqa vaznning 5 baravari bosim tushsa, **+5 G**.",
+      "text": "Şönğişdan çiqişda örindiqqa vaznning 5 baravari bosim tuşsa, **+5 G**.",
       "depth": 0
      },
      {
-      "text": "Tashqi aylanishda kamar bilan ushlansa, manfiy G (**−1 G** va hokazo).",
+      "text": "Taşqi aylanişda kamar bilan uşlansa, manfiy G (**−1 G** va hokazo).",
       "depth": 0
      }
     ],
@@ -805,19 +805,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "+5 G da tik turgan odamning oyoq venalarida bosim **~450**, o’tirganda **~300 mm Hg**. Pastki tomirlar kengayib, qon to’planadi; yurakka qaytish va yurak minutlik hajmi kamayadi.",
+      "text": "+5 G da tik turgan odamning oyoq venalarida bosim **~450**, ötirganda **~300 mm Hg**. Pastki tomirlar kengayib, qon töplanadi; yurakka qaytiş va yurak minutlik hajmi kamayadi.",
       "depth": 0
      },
      {
-      "text": "**+3,3 G** (o’tirgan, rasm 44-3): tananing yuqori qismida sistolik va diastolik bosim dastlabki soniyalarda **<22 mm Hg** gacha tushadi. 10–15 s ichida **baroretseptorlar** bosimni ~**55/20** gacha tiklaydi.",
+      "text": "**+3,3 G** (ötirgan, rasm 44-3): tananing yuqori qismida sistolik va diastolik bosim dastlabki soniyalarda **<22 mm Hg** gaça tuşadi. 10–15 s içida **baroretseptorlar** bosimni ~**55/20** gaça tiklaydi.",
       "depth": 0
      },
      {
-      "text": "**>4–6 G**: bir necha soniyada ko’rish yo’qoladi (**\"blackout\"**), keyin hush. Davom etsa, o’lim.",
+      "text": "**>4–6 G**: bir neça soniyada köriş yöqoladi (**“blackout”**), keyin huş. Davom etsa, ölim.",
       "depth": 0
      },
      {
-      "text": "**Umurtqalar:** o’tirgan holatda ~**20 G** da sinadi.",
+      "text": "**Umurtqalar:** ötirgan holatda ~**20 G** da sinadi.",
       "depth": 0
      }
     ],
@@ -838,19 +838,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "**−4/−5 G** gacha doimiy zararsiz, lekin boshda kuchli giperemiya. Ba’zan miya shishi tufayli 15–20 daqiqa psixotik buzilishlar.",
+      "text": "**−4/−5 G** gaça doimiy zararsiz, lekin boşda kuçli giperemiya. Ba’zan miya şişi tufayli 15–20 daqiqa psixotik buzilişlar.",
       "depth": 0
      },
      {
-      "text": "**−20 G** da miyada qon bosimi **300–400 mm Hg**, bosh yuzasidagi va miyadagi mayda tomirlar yorilishi mumkin.",
+      "text": "**−20 G** da miyada qon bosimi **300–400 mm Hg**, boş yuzasidagi va miyadagi mayda tomirlar yorilişi mumkin.",
       "depth": 0
      },
      {
-      "text": "Kalla ichidagi tomirlar kam yoriladi, chunki **likvor** ham boshga suriladi va tashqaridan \"yostiq\" bo’ladi.",
+      "text": "Kalla içidagi tomirlar kam yoriladi, çunki **likvor** ham boşga suriladi va taşqaridan “yostiq” böladi.",
       "depth": 1
      },
      {
-      "text": "Ko’zlar himoyalanmagan: kuchli giperemiya va vaqtincha ko’rlik (**\"redout\"**).",
+      "text": "Közlar himoyalanmagan: kuçli giperemiya va vaqtinça körlik (**“redout”**).",
       "depth": 0
      }
     ],
@@ -866,15 +866,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Qorin mushaklarini kuchli taranglash va oldinga egilish, qorinda qon to’planishini kamaytiradi.",
+      "text": "Qorin muşaklarini kuçli taranglaş va oldinga egiliş, qorinda qon töplanişini kamaytiradi.",
       "depth": 0
      },
      {
-      "text": "**Anti-G kostyumlar**: G ortishi bilan oyoq va qoringa bosim beruvchi puflanadigan xaltalar.",
+      "text": "**Anti-G kostyumlar**: G ortişi bilan oyoq va qoringa bosim beruvçi puflanadigan xaltalar.",
       "depth": 0
      },
      {
-      "text": "Suvga cho’mish nazariy jihatdan yordam beradi, lekin o’pkadagi havo yurak, o’pka va diafragmani siljitadi. Xavfsizlik chegarasi baribir **<10 G**.",
+      "text": "Suvga çömiş nazariy jihatdan yordam beradi, lekin öpkadagi havo yurak, öpka va diafragmani siljitadi. Xavfsizlik çegarasi baribir **<10 G**.",
       "depth": 0
      }
     ],
@@ -883,7 +883,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Chiziqli tezlanish (kosmos)",
+    "text": "Çiziqli tezlaniş (kosmos)",
     "id": "ch44-s-47-chiziqli-tezlanish-kosmos",
     "bid": "ch44-u47"
    },
@@ -892,15 +892,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Kosmik kemada markazdan qochma kuch ahamiyatsiz, lekin uchish va qo’nish tezlanishi juda katta.",
+      "text": "Kosmik kemada markazdan qoçma kuç ahamiyatsiz, lekin uçiş va qöniş tezlanişi juda katta.",
       "depth": 0
      },
      {
-      "text": "**Uchish (uch bosqichli raketa):** 1-bosqich **9 G** gacha, 2-bosqich **8 G** gacha. Tik turib bunga chidab bo’lmaydi, **yarim yotgan, tezlanish o’qiga ko’ndalang** holatda bir necha daqiqa oson chidaladi. Shuning uchun astronavtlar yotiq o’rindiqda o’tiradi.",
+      "text": "**Uçiş (uç bosqiçli raketa):** 1-bosqiç **9 G** gaça, 2-bosqiç **8 G** gaça. Tik turib bunga çidab bölmaydi, **yarim yotgan, tezlaniş öqiga köndalang** holatda bir neça daqiqa oson çidaladi. Şuning uçun astronavtlar yotiq örindiqda ötiradi.",
       "depth": 0
      },
      {
-      "text": "**Sekinlashish:** Mach 1 dan xavfsiz to’xtash uchun ~**0,12 milya**, Mach 100 dan ~**10 000 milya** kerak. Energiya tezlikning kvadratiga proporsional, ya’ni ~10 000 marta ko’p.",
+      "text": "**Sekinlaşiş:** Maç 1 dan xavfsiz töxtaş uçun ~**0,12 milya**, Maç 100 dan ~**10 000 milya** kerak. Energiya tezlikning kvadratiga proporsional, ya’ni ~10 000 marta köp.",
       "depth": 0
      }
     ],
@@ -908,7 +908,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Parashyut:**",
+    "text": "**Paraşyut:**",
     "bid": "ch44-u49"
    },
    {
@@ -916,23 +916,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "Havo qarshiligi bo’lmasa, tezlik har soniyada 32 fut/s ga ortadi.",
+      "text": "Havo qarşiligi bölmasa, tezlik har soniyada 32 fut/s ga ortadi.",
       "depth": 0
      },
      {
-      "text": "~12 s dan keyin **so’nggi tezlik** 109–119 milya/soat (175 fut/s) ga yetadi.",
+      "text": "~12 s dan keyin **sönggi tezlik** 109–119 milya/soat (175 fut/s) ga yetadi.",
       "depth": 0
      },
      {
-      "text": "Shu tezlikda ochilsa, stroplarga **1200 funtgacha** zarba tushadi.",
+      "text": "Şu tezlikda oçilsa, stroplarga **1200 funtgaça** zarba tuşadi.",
       "depth": 0
      },
      {
-      "text": "Parashyut tezlikni ~**1/9** gacha (~20 fut/s) kamaytiradi, zarba kuchi **1/81**. Bu ~6 futdan parashyutsiz sakrashga teng.",
+      "text": "Paraşyut tezlikni ~**1/9** gaça (~20 fut/s) kamaytiradi, zarba kuçi **1/81**. Bu ~6 futdan paraşyutsiz sakraşga teng.",
       "depth": 0
      },
      {
-      "text": "Oyoqlar tik bo’lsa, chanoq, umurtqa yoki oyoq sinadi. O’rgatilgan parashyutchi **tizzalarini bukib, mushaklarini tarang** tutib qo’nadi.",
+      "text": "Oyoqlar tik bölsa, çanoq, umurtqa yoki oyoq sinadi. Örgatilgan paraşyutçi **tizzalarini bukib, muşaklarini tarang** tutib qönadi.",
       "depth": 0
      }
     ],
@@ -941,7 +941,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Germetik kemada \"sun’iy iqlim\"",
+    "text": "Germetik kemada “sun’iy iqlim”",
     "id": "ch44-s-51-germetik-kemada-suniy-iqlim",
     "bid": "ch44-u51"
    },
@@ -950,7 +950,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Avvalgi missiyalarda **~260 mm Hg toza O₂** ishlatilgan. Hozir oddiy havoga o’xshash aralashma: N₂ O₂ dan **4 marta** ko’p, umumiy bosim **760 mm Hg**.",
+      "text": "Avvalgi missiyalarda **~260 mm Hg toza O₂** işlatilgan. Hozir oddiy havoga öxşaş aralaşma: N₂ O₂ dan **4 marta** köp, umumiy bosim **760 mm Hg**.",
       "depth": 0
      },
      {
@@ -958,15 +958,15 @@
       "depth": 0
      },
      {
-      "text": "yong’in va portlash xavfini keskin kamaytiradi;",
+      "text": "yonğin va portlaş xavfini keskin kamaytiradi;",
       "depth": 1
      },
      {
-      "text": "toza O₂ da shilliq tiqinlar ortida O₂ tez so’rilib hosil bo’ladigan **mahalliy atelektaz**ning oldini oladi.",
+      "text": "toza O₂ da şilliq tiqinlar ortida O₂ tez sörilib hosil böladigan **mahalliy atelektaz**ning oldini oladi.",
       "depth": 1
      },
      {
-      "text": "Bir necha oydan uzoq parvozlarda O₂ ni qayta ishlash kerak: suv **elektrolizi** yoki **suvo’tlar fotosintezi**. To’liq qoniqarli tizim hali yaratilmagan.",
+      "text": "Bir neça oydan uzoq parvozlarda O₂ ni qayta işlaş kerak: suv **elektrolizi** yoki **suvötlar fotosintezi**. Töliq qoniqarli tizim hali yaratilmagan.",
       "depth": 0
      }
     ],
@@ -984,23 +984,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Sababi:** gravitatsiya yo’qolmaydi, lekin kema va odamga bir xil tezlanish bilan ta’sir qiladi. Shuning uchun odam hech bir devorga tortilmaydi.",
+      "text": "**Sababi:** gravitatsiya yöqolmaydi, lekin kema va odamga bir xil tezlaniş bilan ta’sir qiladi. Şuning uçun odam heç bir devorga tortilmaydi.",
       "depth": 0
      },
      {
-      "text": "**Uch asosiy muammo:**",
+      "text": "**Uç asosiy muammo:**",
       "depth": 0
      },
      {
-      "text": "**Harakat kasalligi:** astronavtlarning ~**50%** ida birinchi 2–5 kunda ko’ngil aynishi va qusish. Muvozanat markazlariga notanish harakat signallari keladi, gravitatsiya signallari esa yo’q.",
+      "text": "**Harakat kasalligi:** astronavtlarning ~**50%** ida birinçi 2–5 kunda köngil aynişi va qusiş. Muvozanat markazlariga notaniş harakat signallari keladi, gravitatsiya signallari esa yöq.",
       "depth": 1
      },
      {
-      "text": "**Suyuqlik siljishi:** normal gidrostatik bosim yo’q.",
+      "text": "**Suyuqlik siljişi:** normal gidrostatik bosim yöq.",
       "depth": 1
      },
      {
-      "text": "**Jismoniy faollik kamayishi:** gravitatsiyaga qarshi kuch kerak emas.",
+      "text": "**Jismoniy faollik kamayişi:** gravitatsiyaga qarşi kuç kerak emas.",
       "depth": 1
      },
      {
@@ -1016,7 +1016,7 @@
       "depth": 1
      },
      {
-      "text": "mushak kuchi va ish qobiliyati ↓;",
+      "text": "muşak kuçi va iş qobiliyati ↓;",
       "depth": 1
      },
      {
@@ -1024,15 +1024,15 @@
       "depth": 1
      },
      {
-      "text": "suyaklardan Ca²⁺ va fosfat yo’qoladi, suyak massasi ↓.",
+      "text": "suyaklardan Ca²⁺ va fosfat yöqoladi, suyak massasi ↓.",
       "depth": 1
      },
      {
-      "text": "Bular uzoq yotoq rejimidagiga o’xshaydi, shuning uchun mashqlar dasturi bajariladi.",
+      "text": "Bular uzoq yotoq rejimidagiga öxşaydi, şuning uçun maşqlar dasturi bajariladi.",
       "depth": 0
      },
      {
-      "text": "Qaytgandan keyin dastlabki kunlarda ish qobiliyati past. Qon hajmi kamaygani va bosim boshqaruvi susaygani uchun **tik turganda hushdan ketish** bo’ladi.",
+      "text": "Qaytgandan keyin dastlabki kunlarda iş qobiliyati past. Qon hajmi kamaygani va bosim boşqaruvi susaygani uçun **tik turganda huşdan ketiş** böladi.",
       "depth": 0
      }
     ],
@@ -1040,7 +1040,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Uzoq parvozlarda \"dekonditsionlanish\":**",
+    "text": "**Uzoq parvozlarda “dekonditsionlaniş”:**",
     "bid": "ch44-u55"
    },
    {
@@ -1048,23 +1048,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "Mashqlarga qaramay suyak massasining oyiga **~1%** i yo’qoladi; yurak va skelet mushaklari atrofiyaga uchraydi.",
+      "text": "Maşqlarga qaramay suyak massasining oyiga **~1%** i yöqoladi; yurak va skelet muşaklari atrofiyaga uçraydi.",
       "depth": 0
      },
      {
-      "text": "**Yurak-qon tomir dekonditsionlanishi:** ish qobiliyati ↓, qon hajmi ↓, baroretseptor reflekslari buzilgan, **ortostatik chidamlilik** ↓.",
+      "text": "**Yurak-qon tomir dekonditsionlanişi:** iş qobiliyati ↓, qon hajmi ↓, baroretseptor reflekslari buzilgan, **ortostatik çidamlilik** ↓.",
       "depth": 0
      },
      {
-      "text": "4–6 oylik parvozdan keyin suyaklar sinishga moyil; tiklanish bir necha hafta.",
+      "text": "4–6 oylik parvozdan keyin suyaklar sinişga moyil; tiklaniş bir neça hafta.",
       "depth": 0
      },
      {
-      "text": "Mars kabi uzoq missiyalar va favqulodda qo’nishda jiddiy xavf.",
+      "text": "Mars kabi uzoq missiyalar va favqulodda qönişda jiddiy xavf.",
       "depth": 0
      },
      {
-      "text": "**Qarshi choralar:** mashqlardan tashqari **qisqa yelkali sentrifugada** vaqti-vaqti bilan **\"sun’iy gravitatsiya\"** (masalan, kuniga 1 soat, 2–3 G).",
+      "text": "**Qarşi çoralar:** maşqlardan taşqari **qisqa yelkali sentrifugada** vaqti-vaqti bilan **“sun’iy gravitatsiya”** (masalan, kuniga 1 soat, 2–3 G).",
       "depth": 0
      }
     ],
@@ -1082,19 +1082,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "**10 000 fut**gacha saturatsiya ≥90%; undan yuqorida tez tushadi.",
+      "text": "**10 000 fut**gaça saturatsiya ≥90%; undan yuqorida tez tuşadi.",
       "depth": 0
      },
      {
-      "text": "**O’tkir tog' kasalligi** (miya va o’pka shishi): davo **O₂ yoki pastga tushish**.",
+      "text": "**Ötkir toğ kasalligi** (miya va öpka şişi): davo **O₂ yoki pastga tuşiş**.",
       "depth": 0
      },
      {
-      "text": "**Surunkali tog' kasalligi**: polisitemiya, o’pka gipertenziyasi, o’ng yurak yetishmovchiligi.",
+      "text": "**Surunkali toğ kasalligi**: polisitemiya, öpka gipertenziyasi, öng yurak yetişmovçiligi.",
       "depth": 0
      },
      {
-      "text": "**Akklimatizatsiyada** buyrak kompensatsiyasi (HCO₃⁻ chiqarish) ventilyatsiyani 5 marta oshirishga imkon beradi.",
+      "text": "**Akklimatizatsiyada** buyrak kompensatsiyasi (HCO₃⁻ çiqariş) ventilyatsiyani 5 marta oşirişga imkon beradi.",
       "depth": 0
      },
      {
@@ -1102,7 +1102,7 @@
       "depth": 0
      },
      {
-      "text": "**Vaznsizlik**: ortostatik gipotenziya, osteoporoz, mushak atrofiyasi.",
+      "text": "**Vaznsizlik**: ortostatik gipotenziya, osteoporoz, muşak atrofiyasi.",
       "depth": 0
      }
     ],
@@ -1111,7 +1111,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Bog’liqlik",
+    "text": "Boğliqlik",
     "id": "ch44-s-59-bogliqlik",
     "bid": "ch44-u59"
    },
@@ -1128,15 +1128,15 @@
       "depth": 0
      },
      {
-      "text": "**39-bob:** gipoksik vazokonstriksiya, o’pka shishi.",
+      "text": "**39-bob:** gipoksik vazokonstriksiya, öpka şişi.",
       "depth": 0
      },
      {
-      "text": "**40-bob:** diffuziya sig’imi, alveolyar gazlar.",
+      "text": "**40-bob:** diffuziya siğimi, alveolyar gazlar.",
       "depth": 0
      },
      {
-      "text": "**41-bob:** dissotsiatsiya egri chizig’i, BPG.",
+      "text": "**41-bob:** dissotsiatsiya egri çiziği, BPG.",
       "depth": 0
      },
      {
@@ -1152,7 +1152,7 @@
       "depth": 0
      },
      {
-      "text": "**45-bob:** yuqori bosim, sho’ng’ish.",
+      "text": "**45-bob:** yuqori bosim, şönğiş.",
       "depth": 0
      },
      {
@@ -1765,9 +1765,9 @@
  "glossary": [
   {
    "id": "ch44-t-barometrik-bosim-pasayishi",
-   "termUz": "barometrik bosim pasayishi",
+   "termUz": "barometrik bosim pasayişi",
    "original": null,
-   "contextUz": "Balandlikdagi barcha gipoksiya muammolarining sababi barometrik bosim pasayishi.",
+   "contextUz": "Balandlikdagi barça gipoksiya muammolarining sababi barometrik bosim pasayişi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -1775,9 +1775,9 @@
   },
   {
    "id": "ch44-t-suv-bugi-47-mm-hg",
-   "termUz": "suv bug’i (47 mm Hg)",
+   "termUz": "suv buği (47 mm Hg)",
    "original": null,
-   "contextUz": "Alveolada suv bug’i (47 mm Hg) va CO₂ O₂ ni yanada suyultiradi.",
+   "contextUz": "Alveolada suv buği (47 mm Hg) va CO₂ O₂ ni yanada suyultiradi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -1787,7 +1787,7 @@
    "id": "ch44-t-akklimatizatsiya",
    "termUz": "akklimatizatsiya",
    "original": null,
-   "contextUz": "Organizm akklimatizatsiya bilan moslashadi: ventilyatsiya, eritrotsitlar, diffuziya, kapillyarlar, hujayra darajasi.",
+   "contextUz": "Organizm akklimatizatsiya bilan moslaşadi: ventilyatsiya, eritrotsitlar, diffuziya, kapillyarlar, hujayra darajasi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -1797,7 +1797,7 @@
    "id": "ch44-t-hif",
    "termUz": "HIF",
    "original": null,
-   "contextUz": "Bu jarayonni HIF boshqaradi.",
+   "contextUz": "Bu jarayonni HIF boşqaradi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -1805,9 +1805,9 @@
   },
   {
    "id": "ch44-t-everest-choqqisi-29-028-fut-hisob-kitobi",
-   "termUz": "Everest cho’qqisi (29 028 fut) hisob-kitobi",
+   "termUz": "Everest çöqqisi (29 028 fut) hisob-kitobi",
    "original": null,
-   "contextUz": "Everest cho’qqisi (29 028 fut) hisob-kitobi:",
+   "contextUz": "Everest çöqqisi (29 028 fut) hisob-kitobi:",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -1817,7 +1817,7 @@
    "id": "ch44-t-35-mm-hg",
    "termUz": "35 mm Hg",
    "original": null,
-   "contextUz": "Qonga yutilishni hisobga olsak, PAO₂ ≈ 35 mm Hg.",
+   "contextUz": "Qonga yutilişni hisobga olsak, PAO₂ ≈ 35 mm Hg.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -1837,7 +1837,7 @@
    "id": "ch44-t-10-000-fut",
    "termUz": "10 000 fut",
    "original": null,
-   "contextUz": "Havo bilan: 10 000 futgacha ≥90%, 20 000 futda <70%.",
+   "contextUz": "Havo bilan: 10 000 futgaça ≥90%, 20 000 futda <70%.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -1847,7 +1847,7 @@
    "id": "ch44-t-39-000-fut",
    "termUz": "39 000 fut",
    "original": null,
-   "contextUz": "Toza O₂ bilan: 39 000 futgacha >90%, 47 000 futda ~50%.",
+   "contextUz": "Toza O₂ bilan: 39 000 futgaça >90%, 47 000 futda ~50%.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -1855,9 +1855,9 @@
   },
   {
    "id": "ch44-t-shift-ceiling-germetik-bolmagan-samolyotda-qisqa-muddat",
-   "termUz": "\"Shift\" (ceiling, germetik bo’lmagan samolyotda qisqa muddat)",
+   "termUz": "“Shift” (ceiling, germetik bölmagan samolyotda qisqa muddat)",
    "original": null,
-   "contextUz": "\"Shift\" (ceiling, germetik bo’lmagan samolyotda qisqa muddat): akklimatizatsiyalanmagan odam saturatsiya ~50% gacha hushini saqlaydi.",
+   "contextUz": "“Shift” (ceiling, germetik bölmagan samolyotda qisqa muddat): akklimatizatsiyalanmagan odam saturatsiya ~50% gaça huşini saqlaydi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -1867,7 +1867,7 @@
    "id": "ch44-t-23-000-fut",
    "termUz": "~23 000 fut",
    "original": null,
-   "contextUz": "Shu sababli chegara havo bilan ~23 000 fut, toza O₂ bilan ~47 000 fut.",
+   "contextUz": "Şu sababli çegara havo bilan ~23 000 fut, toza O₂ bilan ~47 000 fut.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -1877,7 +1877,7 @@
    "id": "ch44-t-47-000-fut",
    "termUz": "~47 000 fut",
    "original": null,
-   "contextUz": "Shu sababli chegara havo bilan ~23 000 fut, toza O₂ bilan ~47 000 fut.",
+   "contextUz": "Şu sababli çegara havo bilan ~23 000 fut, toza O₂ bilan ~47 000 fut.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -1887,7 +1887,7 @@
    "id": "ch44-t-aqliy-qobiliyat",
    "termUz": "Aqliy qobiliyat",
    "original": "fikrlash, xotira, nozik harakatlar",
-   "contextUz": "Aqliy qobiliyat (fikrlash, xotira, nozik harakatlar) pasayadi.",
+   "contextUz": "Aqliy qobiliyat (fikrlaş, xotira, nozik harakatlar) pasayadi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -1897,7 +1897,7 @@
    "id": "ch44-t-ventilyatsiya",
    "termUz": "Ventilyatsiya",
    "original": null,
-   "contextUz": "Ventilyatsiya: Darhol arterial xemoretseptorlar uni 1,65 marta oshiradi.",
+   "contextUz": "Ventilyatsiya: Darhol arterial xemoretseptorlar uni 1,65 marta oşiradi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -1907,7 +1907,7 @@
    "id": "ch44-t-1-65-marta",
    "termUz": "1,65 marta",
    "original": null,
-   "contextUz": "Ventilyatsiya: Darhol arterial xemoretseptorlar uni 1,65 marta oshiradi.",
+   "contextUz": "Ventilyatsiya: Darhol arterial xemoretseptorlar uni 1,65 marta oşiradi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -1917,7 +1917,7 @@
    "id": "ch44-t-2-5-kun",
    "termUz": "2–5 kun",
    "original": null,
-   "contextUz": "2–5 kun ichida tormozlanish yo’qoladi va ventilyatsiya ~5 marta ortadi.",
+   "contextUz": "2–5 kun içida tormozlaniş yöqoladi va ventilyatsiya ~5 marta ortadi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -1927,7 +1927,7 @@
    "id": "ch44-t-5-marta",
    "termUz": "~5 marta",
    "original": null,
-   "contextUz": "2–5 kun ichida tormozlanish yo’qoladi va ventilyatsiya ~5 marta ortadi.",
+   "contextUz": "2–5 kun içida tormozlaniş yöqoladi va ventilyatsiya ~5 marta ortadi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -1937,7 +1937,7 @@
    "id": "ch44-t-eritrotsitlar",
    "termUz": "Eritrotsitlar",
    "original": null,
-   "contextUz": "Eritrotsitlar: Gipoksiya eritropoezni rag’batlantiradi (33-bob).",
+   "contextUz": "Eritrotsitlar: Gipoksiya eritropoezni rağbatlantiradi (33-bob).",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -1947,7 +1947,7 @@
    "id": "ch44-t-60",
    "termUz": "~60%",
    "original": null,
-   "contextUz": "Haftalar ichida gematokrit 40–45% dan ~60% gacha, Hb 15 dan ~20 g/dl gacha ko’tariladi.",
+   "contextUz": "Haftalar içida gematokrit 40–45% dan ~60% gaça, Hb 15 dan ~20 g/dl gaça kötariladi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -1957,7 +1957,7 @@
    "id": "ch44-t-20-g-dl",
    "termUz": "~20 g/dl",
    "original": null,
-   "contextUz": "Haftalar ichida gematokrit 40–45% dan ~60% gacha, Hb 15 dan ~20 g/dl gacha ko’tariladi.",
+   "contextUz": "Haftalar içida gematokrit 40–45% dan ~60% gaça, Hb 15 dan ~20 g/dl gaça kötariladi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -1985,9 +1985,9 @@
   },
   {
    "id": "ch44-t-diffuziya-sigimi",
-   "termUz": "Diffuziya sig’imi",
+   "termUz": "Diffuziya siğimi",
    "original": "normal 21 ml/min/mm Hg",
-   "contextUz": "Diffuziya sig’imi (normal 21 ml/min/mm Hg) jismoniy ishdagidek ~3 marta ortadi.",
+   "contextUz": "Diffuziya siğimi (normal 21 ml/min/mm Hg) jismoniy işdagidek ~3 marta ortadi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -1997,7 +1997,7 @@
    "id": "ch44-t-3-marta",
    "termUz": "~3 marta",
    "original": null,
-   "contextUz": "Diffuziya sig’imi (normal 21 ml/min/mm Hg) jismoniy ishdagidek ~3 marta ortadi.",
+   "contextUz": "Diffuziya siğimi (normal 21 ml/min/mm Hg) jismoniy işdagidek ~3 marta ortadi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2005,9 +2005,9 @@
   },
   {
    "id": "ch44-t-qon-aylanishi",
-   "termUz": "Qon aylanishi",
+   "termUz": "Qon aylanişi",
    "original": null,
-   "contextUz": "Qon aylanishi: Yurak minutlik hajmi darhol ~30% ortadi.",
+   "contextUz": "Qon aylanişi: Yurak minutlik hajmi darhol ~30% ortadi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2017,7 +2017,7 @@
    "id": "ch44-t-30",
    "termUz": "30%",
    "original": null,
-   "contextUz": "Qon aylanishi: Yurak minutlik hajmi darhol ~30% ortadi.",
+   "contextUz": "Qon aylanişi: Yurak minutlik hajmi darhol ~30% ortadi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2027,7 +2027,7 @@
    "id": "ch44-t-angiogenez",
    "termUz": "Angiogenez",
    "original": "yangi kapillyarlar",
-   "contextUz": "Angiogenez (yangi kapillyarlar) kuzatiladi, ayniqsa balandlikda tug’ilganlarda.",
+   "contextUz": "Angiogenez (yangi kapillyarlar) kuzatiladi, ayniqsa balandlikda tuğilganlarda.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2037,7 +2037,7 @@
    "id": "ch44-t-hujayra-darajasi",
    "termUz": "Hujayra darajasi",
    "original": null,
-   "contextUz": "Hujayra darajasi: 13 000–17 000 futda yashovchi hayvonlarda mitoxondriya va oksidlanish fermentlari biroz ko’proq.",
+   "contextUz": "Hujayra darajasi: 13 000–17 000 futda yaşovçi hayvonlarda mitoxondriya va oksidlaniş fermentlari biroz köproq.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2045,9 +2045,9 @@
   },
   {
    "id": "ch44-t-hif-1-boshqaradigan-genlar",
-   "termUz": "HIF-1 boshqaradigan genlar",
+   "termUz": "HIF-1 boşqaradigan genlar",
    "original": null,
-   "contextUz": "HIF-1 boshqaradigan genlar: VEGF (angiogenez); eritropoetin; energiyadan foydalanishdagi mitoxondrial genlar; anaerob glikoliz fermentlari; NO mavjudligini oshiruvchi genlar (o’pka vazodilatatsiyasi).",
+   "contextUz": "HIF-1 boşqaradigan genlar: VEGF (angiogenez); eritropoetin; energiyadan foydalanişdagi mitoxondrial genlar; anaerob glikoliz fermentlari; NO mavjudligini oşiruvçi genlar (öpka vazodilatatsiyasi).",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2057,7 +2057,7 @@
    "id": "ch44-t-vegf",
    "termUz": "VEGF",
    "original": "angiogenez",
-   "contextUz": "HIF-1 boshqaradigan genlar: VEGF (angiogenez); eritropoetin; energiyadan foydalanishdagi mitoxondrial genlar; anaerob glikoliz fermentlari; NO mavjudligini oshiruvchi genlar (o’pka vazodilatatsiyasi).",
+   "contextUz": "HIF-1 boşqaradigan genlar: VEGF (angiogenez); eritropoetin; energiyadan foydalanişdagi mitoxondrial genlar; anaerob glikoliz fermentlari; NO mavjudligini oşiruvçi genlar (öpka vazodilatatsiyasi).",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2067,7 +2067,7 @@
    "id": "ch44-t-eritropoetin",
    "termUz": "eritropoetin",
    "original": null,
-   "contextUz": "HIF-1 boshqaradigan genlar: VEGF (angiogenez); eritropoetin; energiyadan foydalanishdagi mitoxondrial genlar; anaerob glikoliz fermentlari; NO mavjudligini oshiruvchi genlar (o’pka vazodilatatsiyasi).",
+   "contextUz": "HIF-1 boşqaradigan genlar: VEGF (angiogenez); eritropoetin; energiyadan foydalanişdagi mitoxondrial genlar; anaerob glikoliz fermentlari; NO mavjudligini oşiruvçi genlar (öpka vazodilatatsiyasi).",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2077,7 +2077,7 @@
    "id": "ch44-t-no",
    "termUz": "NO",
    "original": null,
-   "contextUz": "HIF-1 boshqaradigan genlar: VEGF (angiogenez); eritropoetin; energiyadan foydalanishdagi mitoxondrial genlar; anaerob glikoliz fermentlari; NO mavjudligini oshiruvchi genlar (o’pka vazodilatatsiyasi).",
+   "contextUz": "HIF-1 boşqaradigan genlar: VEGF (angiogenez); eritropoetin; energiyadan foydalanişdagi mitoxondrial genlar; anaerob glikoliz fermentlari; NO mavjudligini oşiruvçi genlar (öpka vazodilatatsiyasi).",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2085,9 +2085,9 @@
   },
   {
    "id": "ch44-t-boshqaruvi",
-   "termUz": "Boshqaruvi",
+   "termUz": "Boşqaruvi",
    "original": null,
-   "contextUz": "Boshqaruvi: O₂ yetarli bo’lsa, HIF subbirliklarini HIF gidroksilazalar faolsizlantiradi.",
+   "contextUz": "Boşqaruvi: O₂ yetarli bölsa, HIF subbirliklarini HIF gidroksilazalar faolsizlantiradi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2097,7 +2097,7 @@
    "id": "ch44-t-hif-gidroksilazalar",
    "termUz": "HIF gidroksilazalar",
    "original": null,
-   "contextUz": "Boshqaruvi: O₂ yetarli bo’lsa, HIF subbirliklarini HIF gidroksilazalar faolsizlantiradi.",
+   "contextUz": "Boşqaruvi: O₂ yetarli bölsa, HIF subbirliklarini HIF gidroksilazalar faolsizlantiradi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2107,7 +2107,7 @@
    "id": "ch44-t-17-500-fut",
    "termUz": "17 500 fut",
    "original": null,
-   "contextUz": "Peru Andida bir guruh 17 500 futda yashab, 19 000 futda konda ishlaydi.",
+   "contextUz": "Peru Andida bir guruh 17 500 futda yaşab, 19 000 futda konda işlaydi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2117,7 +2117,7 @@
    "id": "ch44-t-19-000-fut",
    "termUz": "19 000 fut",
    "original": null,
-   "contextUz": "Peru Andida bir guruh 17 500 futda yashab, 19 000 futda konda ishlaydi.",
+   "contextUz": "Peru Andida bir guruh 17 500 futda yaşab, 19 000 futda konda işlaydi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2125,9 +2125,9 @@
   },
   {
    "id": "ch44-t-moslashuv-godaklikdan-boshlanadi",
-   "termUz": "Moslashuv go’daklikdan boshlanadi",
+   "termUz": "Moslaşuv gödaklikdan boşlanadi",
    "original": null,
-   "contextUz": "Moslashuv go’daklikdan boshlanadi: ko’krak qafasi katta, tana biroz kichik, ya’ni ventilyatsiya sig’imi / tana massasi nisbati yuqori; yuragi katta.",
+   "contextUz": "Moslaşuv gödaklikdan boşlanadi: kökrak qafasi katta, tana biroz kiçik, ya’ni ventilyatsiya siğimi / tana massasi nisbati yuqori; yuragi katta.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2137,7 +2137,7 @@
    "id": "ch44-t-qon-rasm-44-2",
    "termUz": "Qon (rasm 44-2)",
    "original": null,
-   "contextUz": "Qon (rasm 44-2): 15 000 futda yashovchilarning arterial PO₂ si atigi 40, lekin Hb ko’pligi tufayli arterial O₂ miqdori dengiz sathidagilarnikidan ko’p.",
+   "contextUz": "Qon (rasm 44-2): 15 000 futda yaşovçilarning arterial PO₂ si atigi 40, lekin Hb köpligi tufayli arterial O₂ miqdori dengiz sathidagilarnikidan köp.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2145,9 +2145,9 @@
   },
   {
    "id": "ch44-t-kop",
-   "termUz": "ko’p",
+   "termUz": "köp",
    "original": null,
-   "contextUz": "Qon (rasm 44-2): 15 000 futda yashovchilarning arterial PO₂ si atigi 40, lekin Hb ko’pligi tufayli arterial O₂ miqdori dengiz sathidagilarnikidan ko’p.",
+   "contextUz": "Qon (rasm 44-2): 15 000 futda yaşovçilarning arterial PO₂ si atigi 40, lekin Hb köpligi tufayli arterial O₂ miqdori dengiz sathidagilarnikidan köp.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2155,9 +2155,9 @@
   },
   {
    "id": "ch44-t-ish-qobiliyati-17-000-futda-jadval-44-2",
-   "termUz": "Ish qobiliyati, 17 000 futda (Jadval 44-2)",
+   "termUz": "Iş qobiliyati, 17 000 futda (Jadval 44-2)",
    "original": null,
-   "contextUz": "Ish qobiliyati, 17 000 futda (Jadval 44-2):",
+   "contextUz": "Iş qobiliyati, 17 000 futda (Jadval 44-2):",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2165,9 +2165,9 @@
   },
   {
    "id": "ch44-t-otkir-miya-shishi",
-   "termUz": "O’tkir miya shishi",
+   "termUz": "Ötkir miya şişi",
    "original": null,
-   "contextUz": "O’tkir miya shishi: Gipoksiya miya tomirlarini kengaytiradi, kapillyar bosimi ortadi va suyuqlik sizib chiqadi.",
+   "contextUz": "Ötkir miya şişi: Gipoksiya miya tomirlarini kengaytiradi, kapillyar bosimi ortadi va suyuqlik sizib çiqadi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2175,9 +2175,9 @@
   },
   {
    "id": "ch44-t-otkir-opka-shishi",
-   "termUz": "O’tkir o’pka shishi",
+   "termUz": "Ötkir öpka şişi",
    "original": null,
-   "contextUz": "O’tkir o’pka shishi: Mexanizmi aniq emas, gipoteza shunday: gipoksik vazokonstriksiya notekis bo’ladi va qon kamroq toraygan tomirlarga ko’proq yo’naltiriladi.",
+   "contextUz": "Ötkir öpka şişi: Mexanizmi aniq emas, gipoteza şunday: gipoksik vazokonstriksiya notekis böladi va qon kamroq toraygan tomirlarga köproq yönaltiriladi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2187,7 +2187,7 @@
    "id": "ch44-t-notekis",
    "termUz": "notekis",
    "original": null,
-   "contextUz": "O’tkir o’pka shishi: Mexanizmi aniq emas, gipoteza shunday: gipoksik vazokonstriksiya notekis bo’ladi va qon kamroq toraygan tomirlarga ko’proq yo’naltiriladi.",
+   "contextUz": "Ötkir öpka şişi: Mexanizmi aniq emas, gipoteza şunday: gipoksik vazokonstriksiya notekis böladi va qon kamroq toraygan tomirlarga köproq yönaltiriladi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2195,9 +2195,9 @@
   },
   {
    "id": "ch44-t-o-berilsa-odatda-soatlar-ichida-tuzaladi",
-   "termUz": "O₂ berilsa, odatda soatlar ichida tuzaladi.",
+   "termUz": "O₂ berilsa, odatda soatlar içida tuzaladi.",
    "original": null,
-   "contextUz": "O₂ berilsa, odatda soatlar ichida tuzaladi.",
+   "contextUz": "O₂ berilsa, odatda soatlar içida tuzaladi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2225,9 +2225,9 @@
   },
   {
    "id": "ch44-t-yopishqoqligi",
-   "termUz": "yopishqoqligi",
+   "termUz": "yopişqoqligi",
    "original": null,
-   "contextUz": "Qon yopishqoqligi bir necha marta ortib, to’qima qon oqimi va O₂ yetkazish kamayadi.",
+   "contextUz": "Qon yopişqoqligi bir neça marta ortib, töqima qon oqimi va O₂ yetkaziş kamayadi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2237,7 +2237,7 @@
    "id": "ch44-t-hamma",
    "termUz": "Hamma",
    "original": null,
-   "contextUz": "Hamma alveolalar gipoksik bo’lgani uchun barcha arteriolalar torayadi (39-bob).",
+   "contextUz": "Hamma alveolalar gipoksik bölgani uçun barça arteriolalar torayadi (39-bob).",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2247,7 +2247,7 @@
    "id": "ch44-t-shunt",
    "termUz": "shunt",
    "original": null,
-   "contextUz": "Arteriola spazmi qonni alveolyar bo’lmagan tomirlarga yo’naltiradi va shunt ortadi.",
+   "contextUz": "Arteriola spazmi qonni alveolyar bölmagan tomirlarga yönaltiradi va shunt ortadi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2255,9 +2255,9 @@
   },
   {
    "id": "ch44-t-markazdan-qochma-kuch",
-   "termUz": "Markazdan qochma kuch",
+   "termUz": "Markazdan qoçma kuç",
    "original": null,
-   "contextUz": "Markazdan qochma kuch: f = mv²/r.",
+   "contextUz": "Markazdan qoçma kuç: f = mv²/r.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2267,7 +2267,7 @@
    "id": "ch44-t-f-mv-r",
    "termUz": "f = mv²/r",
    "original": null,
-   "contextUz": "Markazdan qochma kuch: f = mv²/r.",
+   "contextUz": "Markazdan qoçma kuç: f = mv²/r.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2275,9 +2275,9 @@
   },
   {
    "id": "ch44-t-g",
-   "termUz": "\"G\"",
+   "termUz": "“G”",
    "original": null,
-   "contextUz": "\"G\":",
+   "contextUz": "“G”:",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2287,7 +2287,7 @@
    "id": "ch44-t-1-g",
    "termUz": "+1 G",
    "original": null,
-   "contextUz": "Oddiy o’tirganda +1 G.",
+   "contextUz": "Oddiy ötirganda +1 G.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2297,7 +2297,7 @@
    "id": "ch44-t-5-g",
    "termUz": "+5 G",
    "original": null,
-   "contextUz": "Sho’ng’ishdan chiqishda o’rindiqqa vaznning 5 baravari bosim tushsa, +5 G.",
+   "contextUz": "Şönğişdan çiqişda örindiqqa vaznning 5 baravari bosim tuşsa, +5 G.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2307,7 +2307,7 @@
    "id": "ch44-t-1-g",
    "termUz": "−1 G",
    "original": null,
-   "contextUz": "Tashqi aylanishda kamar bilan ushlansa, manfiy G (−1 G va hokazo).",
+   "contextUz": "Taşqi aylanişda kamar bilan uşlansa, manfiy G (−1 G va hokazo).",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2327,7 +2327,7 @@
    "id": "ch44-t-450",
    "termUz": "~450",
    "original": null,
-   "contextUz": "+5 G da tik turgan odamning oyoq venalarida bosim ~450, o’tirganda ~300 mm Hg.",
+   "contextUz": "+5 G da tik turgan odamning oyoq venalarida bosim ~450, ötirganda ~300 mm Hg.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2337,7 +2337,7 @@
    "id": "ch44-t-300-mm-hg",
    "termUz": "~300 mm Hg",
    "original": null,
-   "contextUz": "+5 G da tik turgan odamning oyoq venalarida bosim ~450, o’tirganda ~300 mm Hg.",
+   "contextUz": "+5 G da tik turgan odamning oyoq venalarida bosim ~450, ötirganda ~300 mm Hg.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2346,8 +2346,8 @@
   {
    "id": "ch44-t-3-3-g",
    "termUz": "+3,3 G",
-   "original": "o’tirgan, rasm 44-3",
-   "contextUz": "+3,3 G (o’tirgan, rasm 44-3): tananing yuqori qismida sistolik va diastolik bosim dastlabki soniyalarda <22 mm Hg gacha tushadi.",
+   "original": "o‘tirgan, rasm 44-3",
+   "contextUz": "+3,3 G (ötirgan, rasm 44-3): tananing yuqori qismida sistolik va diastolik bosim dastlabki soniyalarda <22 mm Hg gaça tuşadi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2357,7 +2357,7 @@
    "id": "ch44-t-22-mm-hg",
    "termUz": "<22 mm Hg",
    "original": null,
-   "contextUz": "+3,3 G (o’tirgan, rasm 44-3): tananing yuqori qismida sistolik va diastolik bosim dastlabki soniyalarda <22 mm Hg gacha tushadi.",
+   "contextUz": "+3,3 G (ötirgan, rasm 44-3): tananing yuqori qismida sistolik va diastolik bosim dastlabki soniyalarda <22 mm Hg gaça tuşadi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2367,7 +2367,7 @@
    "id": "ch44-t-baroretseptorlar",
    "termUz": "baroretseptorlar",
    "original": null,
-   "contextUz": "10–15 s ichida baroretseptorlar bosimni ~55/20 gacha tiklaydi.",
+   "contextUz": "10–15 s içida baroretseptorlar bosimni ~55/20 gaça tiklaydi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2377,7 +2377,7 @@
    "id": "ch44-t-55-20",
    "termUz": "55/20",
    "original": null,
-   "contextUz": "10–15 s ichida baroretseptorlar bosimni ~55/20 gacha tiklaydi.",
+   "contextUz": "10–15 s içida baroretseptorlar bosimni ~55/20 gaça tiklaydi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2387,7 +2387,7 @@
    "id": "ch44-t-4-6-g",
    "termUz": ">4–6 G",
    "original": null,
-   "contextUz": ">4–6 G: bir necha soniyada ko’rish yo’qoladi (\"blackout\"), keyin hush.",
+   "contextUz": ">4–6 G: bir neça soniyada köriş yöqoladi (“blackout”), keyin huş.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2395,9 +2395,9 @@
   },
   {
    "id": "ch44-t-blackout",
-   "termUz": "\"blackout\"",
+   "termUz": "“blackout”",
    "original": null,
-   "contextUz": ">4–6 G: bir necha soniyada ko’rish yo’qoladi (\"blackout\"), keyin hush.",
+   "contextUz": ">4–6 G: bir neça soniyada köriş yöqoladi (“blackout”), keyin huş.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2407,7 +2407,7 @@
    "id": "ch44-t-umurtqalar",
    "termUz": "Umurtqalar",
    "original": null,
-   "contextUz": "Umurtqalar: o’tirgan holatda ~20 G da sinadi.",
+   "contextUz": "Umurtqalar: ötirgan holatda ~20 G da sinadi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2417,7 +2417,7 @@
    "id": "ch44-t-20-g",
    "termUz": "20 G",
    "original": null,
-   "contextUz": "Umurtqalar: o’tirgan holatda ~20 G da sinadi.",
+   "contextUz": "Umurtqalar: ötirgan holatda ~20 G da sinadi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2437,7 +2437,7 @@
    "id": "ch44-t-4-5-g",
    "termUz": "−4/−5 G",
    "original": null,
-   "contextUz": "−4/−5 G gacha doimiy zararsiz, lekin boshda kuchli giperemiya.",
+   "contextUz": "−4/−5 G gaça doimiy zararsiz, lekin boşda kuçli giperemiya.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2447,7 +2447,7 @@
    "id": "ch44-t-20-g",
    "termUz": "−20 G",
    "original": null,
-   "contextUz": "−20 G da miyada qon bosimi 300–400 mm Hg, bosh yuzasidagi va miyadagi mayda tomirlar yorilishi mumkin.",
+   "contextUz": "−20 G da miyada qon bosimi 300–400 mm Hg, boş yuzasidagi va miyadagi mayda tomirlar yorilişi mumkin.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2457,7 +2457,7 @@
    "id": "ch44-t-300-400-mm-hg",
    "termUz": "300–400 mm Hg",
    "original": null,
-   "contextUz": "−20 G da miyada qon bosimi 300–400 mm Hg, bosh yuzasidagi va miyadagi mayda tomirlar yorilishi mumkin.",
+   "contextUz": "−20 G da miyada qon bosimi 300–400 mm Hg, boş yuzasidagi va miyadagi mayda tomirlar yorilişi mumkin.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2467,7 +2467,7 @@
    "id": "ch44-t-likvor",
    "termUz": "likvor",
    "original": null,
-   "contextUz": "Kalla ichidagi tomirlar kam yoriladi, chunki likvor ham boshga suriladi va tashqaridan \"yostiq\" bo’ladi.",
+   "contextUz": "Kalla içidagi tomirlar kam yoriladi, çunki likvor ham boşga suriladi va taşqaridan “yostiq” böladi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2475,9 +2475,9 @@
   },
   {
    "id": "ch44-t-redout",
-   "termUz": "\"redout\"",
+   "termUz": "“redout”",
    "original": null,
-   "contextUz": "Ko’zlar himoyalanmagan: kuchli giperemiya va vaqtincha ko’rlik (\"redout\").",
+   "contextUz": "Közlar himoyalanmagan: kuçli giperemiya va vaqtinça körlik (“redout”).",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2497,7 +2497,7 @@
    "id": "ch44-t-anti-g-kostyumlar",
    "termUz": "Anti-G kostyumlar",
    "original": null,
-   "contextUz": "Anti-G kostyumlar: G ortishi bilan oyoq va qoringa bosim beruvchi puflanadigan xaltalar.",
+   "contextUz": "Anti-G kostyumlar: G ortişi bilan oyoq va qoringa bosim beruvçi puflanadigan xaltalar.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2507,7 +2507,7 @@
    "id": "ch44-t-10-g",
    "termUz": "<10 G",
    "original": null,
-   "contextUz": "Xavfsizlik chegarasi baribir <10 G.",
+   "contextUz": "Xavfsizlik çegarasi baribir <10 G.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2515,9 +2515,9 @@
   },
   {
    "id": "ch44-t-uchish-uch-bosqichli-raketa",
-   "termUz": "Uchish (uch bosqichli raketa)",
+   "termUz": "Uçiş (uç bosqiçli raketa)",
    "original": null,
-   "contextUz": "Uchish (uch bosqichli raketa): 1-bosqich 9 G gacha, 2-bosqich 8 G gacha.",
+   "contextUz": "Uçiş (uç bosqiçli raketa): 1-bosqiç 9 G gaça, 2-bosqiç 8 G gaça.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2527,7 +2527,7 @@
    "id": "ch44-t-9-g",
    "termUz": "9 G",
    "original": null,
-   "contextUz": "Uchish (uch bosqichli raketa): 1-bosqich 9 G gacha, 2-bosqich 8 G gacha.",
+   "contextUz": "Uçiş (uç bosqiçli raketa): 1-bosqiç 9 G gaça, 2-bosqiç 8 G gaça.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2537,7 +2537,7 @@
    "id": "ch44-t-8-g",
    "termUz": "8 G",
    "original": null,
-   "contextUz": "Uchish (uch bosqichli raketa): 1-bosqich 9 G gacha, 2-bosqich 8 G gacha.",
+   "contextUz": "Uçiş (uç bosqiçli raketa): 1-bosqiç 9 G gaça, 2-bosqiç 8 G gaça.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2545,9 +2545,9 @@
   },
   {
    "id": "ch44-t-yarim-yotgan-tezlanish-oqiga-kondalang",
-   "termUz": "yarim yotgan, tezlanish o’qiga ko’ndalang",
+   "termUz": "yarim yotgan, tezlaniş öqiga köndalang",
    "original": null,
-   "contextUz": "Tik turib bunga chidab bo’lmaydi, yarim yotgan, tezlanish o’qiga ko’ndalang holatda bir necha daqiqa oson chidaladi.",
+   "contextUz": "Tik turib bunga çidab bölmaydi, yarim yotgan, tezlaniş öqiga köndalang holatda bir neça daqiqa oson çidaladi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2555,9 +2555,9 @@
   },
   {
    "id": "ch44-t-sekinlashish",
-   "termUz": "Sekinlashish",
+   "termUz": "Sekinlaşiş",
    "original": null,
-   "contextUz": "Sekinlashish: Mach 1 dan xavfsiz to’xtash uchun ~0,12 milya, Mach 100 dan ~10 000 milya kerak.",
+   "contextUz": "Sekinlaşiş: Maç 1 dan xavfsiz töxtaş uçun ~0,12 milya, Maç 100 dan ~10 000 milya kerak.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2567,7 +2567,7 @@
    "id": "ch44-t-0-12-milya",
    "termUz": "0,12 milya",
    "original": null,
-   "contextUz": "Sekinlashish: Mach 1 dan xavfsiz to’xtash uchun ~0,12 milya, Mach 100 dan ~10 000 milya kerak.",
+   "contextUz": "Sekinlaşiş: Maç 1 dan xavfsiz töxtaş uçun ~0,12 milya, Maç 100 dan ~10 000 milya kerak.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2577,7 +2577,7 @@
    "id": "ch44-t-10-000-milya",
    "termUz": "10 000 milya",
    "original": null,
-   "contextUz": "Sekinlashish: Mach 1 dan xavfsiz to’xtash uchun ~0,12 milya, Mach 100 dan ~10 000 milya kerak.",
+   "contextUz": "Sekinlaşiş: Maç 1 dan xavfsiz töxtaş uçun ~0,12 milya, Maç 100 dan ~10 000 milya kerak.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2585,9 +2585,9 @@
   },
   {
    "id": "ch44-t-parashyut",
-   "termUz": "Parashyut",
+   "termUz": "Paraşyut",
    "original": null,
-   "contextUz": "Parashyut:",
+   "contextUz": "Paraşyut:",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2595,9 +2595,9 @@
   },
   {
    "id": "ch44-t-songgi-tezlik",
-   "termUz": "so’nggi tezlik",
+   "termUz": "sönggi tezlik",
    "original": null,
-   "contextUz": "~12 s dan keyin so’nggi tezlik 109–119 milya/soat (175 fut/s) ga yetadi.",
+   "contextUz": "~12 s dan keyin sönggi tezlik 109–119 milya/soat (175 fut/s) ga yetadi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2605,9 +2605,9 @@
   },
   {
    "id": "ch44-t-1200-funtgacha",
-   "termUz": "1200 funtgacha",
+   "termUz": "1200 funtgaça",
    "original": null,
-   "contextUz": "Shu tezlikda ochilsa, stroplarga 1200 funtgacha zarba tushadi.",
+   "contextUz": "Şu tezlikda oçilsa, stroplarga 1200 funtgaça zarba tuşadi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2617,7 +2617,7 @@
    "id": "ch44-t-1-9",
    "termUz": "1/9",
    "original": null,
-   "contextUz": "Parashyut tezlikni ~1/9 gacha (~20 fut/s) kamaytiradi, zarba kuchi 1/81.",
+   "contextUz": "Paraşyut tezlikni ~1/9 gaça (~20 fut/s) kamaytiradi, zarba kuçi 1/81.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2627,7 +2627,7 @@
    "id": "ch44-t-1-81",
    "termUz": "1/81",
    "original": null,
-   "contextUz": "Parashyut tezlikni ~1/9 gacha (~20 fut/s) kamaytiradi, zarba kuchi 1/81.",
+   "contextUz": "Paraşyut tezlikni ~1/9 gaça (~20 fut/s) kamaytiradi, zarba kuçi 1/81.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2635,9 +2635,9 @@
   },
   {
    "id": "ch44-t-tizzalarini-bukib-mushaklarini-tarang",
-   "termUz": "tizzalarini bukib, mushaklarini tarang",
+   "termUz": "tizzalarini bukib, muşaklarini tarang",
    "original": null,
-   "contextUz": "O’rgatilgan parashyutchi tizzalarini bukib, mushaklarini tarang tutib qo’nadi.",
+   "contextUz": "Örgatilgan paraşyutçi tizzalarini bukib, muşaklarini tarang tutib qönadi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2647,7 +2647,7 @@
    "id": "ch44-t-260-mm-hg-toza-o",
    "termUz": "~260 mm Hg toza O₂",
    "original": null,
-   "contextUz": "Avvalgi missiyalarda ~260 mm Hg toza O₂ ishlatilgan.",
+   "contextUz": "Avvalgi missiyalarda ~260 mm Hg toza O₂ işlatilgan.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2657,7 +2657,7 @@
    "id": "ch44-t-4-marta",
    "termUz": "4 marta",
    "original": null,
-   "contextUz": "Hozir oddiy havoga o’xshash aralashma: N₂ O₂ dan 4 marta ko’p, umumiy bosim 760 mm Hg.",
+   "contextUz": "Hozir oddiy havoga öxşaş aralaşma: N₂ O₂ dan 4 marta köp, umumiy bosim 760 mm Hg.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2667,7 +2667,7 @@
    "id": "ch44-t-760-mm-hg",
    "termUz": "760 mm Hg",
    "original": null,
-   "contextUz": "Hozir oddiy havoga o’xshash aralashma: N₂ O₂ dan 4 marta ko’p, umumiy bosim 760 mm Hg.",
+   "contextUz": "Hozir oddiy havoga öxşaş aralaşma: N₂ O₂ dan 4 marta köp, umumiy bosim 760 mm Hg.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2677,7 +2677,7 @@
    "id": "ch44-t-azotning-foydalari",
    "termUz": "Azotning foydalari",
    "original": null,
-   "contextUz": "Azotning foydalari: yong’in va portlash xavfini keskin kamaytiradi; toza O₂ da shilliq tiqinlar ortida O₂ tez so’rilib hosil bo’ladigan mahalliy atelektazning oldini oladi.",
+   "contextUz": "Azotning foydalari: yonğin va portlaş xavfini keskin kamaytiradi; toza O₂ da şilliq tiqinlar ortida O₂ tez sörilib hosil böladigan mahalliy atelektazning oldini oladi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2687,7 +2687,7 @@
    "id": "ch44-t-mahalliy-atelektaz",
    "termUz": "mahalliy atelektaz",
    "original": null,
-   "contextUz": "Azotning foydalari: yong’in va portlash xavfini keskin kamaytiradi; toza O₂ da shilliq tiqinlar ortida O₂ tez so’rilib hosil bo’ladigan mahalliy atelektazning oldini oladi.",
+   "contextUz": "Azotning foydalari: yonğin va portlaş xavfini keskin kamaytiradi; toza O₂ da şilliq tiqinlar ortida O₂ tez sörilib hosil böladigan mahalliy atelektazning oldini oladi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2697,7 +2697,7 @@
    "id": "ch44-t-elektrolizi",
    "termUz": "elektrolizi",
    "original": null,
-   "contextUz": "Bir necha oydan uzoq parvozlarda O₂ ni qayta ishlash kerak: suv elektrolizi yoki suvo’tlar fotosintezi.",
+   "contextUz": "Bir neça oydan uzoq parvozlarda O₂ ni qayta işlaş kerak: suv elektrolizi yoki suvötlar fotosintezi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2705,9 +2705,9 @@
   },
   {
    "id": "ch44-t-suvotlar-fotosintezi",
-   "termUz": "suvo’tlar fotosintezi",
+   "termUz": "suvötlar fotosintezi",
    "original": null,
-   "contextUz": "Bir necha oydan uzoq parvozlarda O₂ ni qayta ishlash kerak: suv elektrolizi yoki suvo’tlar fotosintezi.",
+   "contextUz": "Bir neça oydan uzoq parvozlarda O₂ ni qayta işlaş kerak: suv elektrolizi yoki suvötlar fotosintezi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2717,7 +2717,7 @@
    "id": "ch44-t-sababi",
    "termUz": "Sababi",
    "original": null,
-   "contextUz": "Sababi: gravitatsiya yo’qolmaydi, lekin kema va odamga bir xil tezlanish bilan ta’sir qiladi.",
+   "contextUz": "Sababi: gravitatsiya yöqolmaydi, lekin kema va odamga bir xil tezlaniş bilan ta’sir qiladi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2725,9 +2725,9 @@
   },
   {
    "id": "ch44-t-uch-asosiy-muammo",
-   "termUz": "Uch asosiy muammo",
+   "termUz": "Uç asosiy muammo",
    "original": null,
-   "contextUz": "Uch asosiy muammo: Harakat kasalligi: astronavtlarning ~50% ida birinchi 2–5 kunda ko’ngil aynishi va qusish.",
+   "contextUz": "Uç asosiy muammo: Harakat kasalligi: astronavtlarning ~50% ida birinçi 2–5 kunda köngil aynişi va qusiş.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2737,7 +2737,7 @@
    "id": "ch44-t-harakat-kasalligi",
    "termUz": "Harakat kasalligi",
    "original": null,
-   "contextUz": "Uch asosiy muammo: Harakat kasalligi: astronavtlarning ~50% ida birinchi 2–5 kunda ko’ngil aynishi va qusish.",
+   "contextUz": "Uç asosiy muammo: Harakat kasalligi: astronavtlarning ~50% ida birinçi 2–5 kunda köngil aynişi va qusiş.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2747,7 +2747,7 @@
    "id": "ch44-t-50",
    "termUz": "50%",
    "original": null,
-   "contextUz": "Uch asosiy muammo: Harakat kasalligi: astronavtlarning ~50% ida birinchi 2–5 kunda ko’ngil aynishi va qusish.",
+   "contextUz": "Uç asosiy muammo: Harakat kasalligi: astronavtlarning ~50% ida birinçi 2–5 kunda köngil aynişi va qusiş.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2755,9 +2755,9 @@
   },
   {
    "id": "ch44-t-suyuqlik-siljishi",
-   "termUz": "Suyuqlik siljishi",
+   "termUz": "Suyuqlik siljişi",
    "original": null,
-   "contextUz": "Suyuqlik siljishi: normal gidrostatik bosim yo’q.",
+   "contextUz": "Suyuqlik siljişi: normal gidrostatik bosim yöq.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2765,9 +2765,9 @@
   },
   {
    "id": "ch44-t-jismoniy-faollik-kamayishi",
-   "termUz": "Jismoniy faollik kamayishi",
+   "termUz": "Jismoniy faollik kamayişi",
    "original": null,
-   "contextUz": "Jismoniy faollik kamayishi: gravitatsiyaga qarshi kuch kerak emas.",
+   "contextUz": "Jismoniy faollik kamayişi: gravitatsiyaga qarşi kuç kerak emas.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2777,7 +2777,7 @@
    "id": "ch44-t-uzoq-parvoz-tasiri",
    "termUz": "Uzoq parvoz ta’siri",
    "original": null,
-   "contextUz": "Uzoq parvoz ta’siri: qon hajmi ↓; eritrotsit massasi ↓; mushak kuchi va ish qobiliyati ↓; maksimal yurak minutlik hajmi ↓; suyaklardan Ca²⁺ va fosfat yo’qoladi, suyak massasi ↓.",
+   "contextUz": "Uzoq parvoz ta’siri: qon hajmi ↓; eritrotsit massasi ↓; muşak kuçi va iş qobiliyati ↓; maksimal yurak minutlik hajmi ↓; suyaklardan Ca²⁺ va fosfat yöqoladi, suyak massasi ↓.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2785,9 +2785,9 @@
   },
   {
    "id": "ch44-t-tik-turganda-hushdan-ketish",
-   "termUz": "tik turganda hushdan ketish",
+   "termUz": "tik turganda huşdan ketiş",
    "original": null,
-   "contextUz": "Qon hajmi kamaygani va bosim boshqaruvi susaygani uchun tik turganda hushdan ketish bo’ladi.",
+   "contextUz": "Qon hajmi kamaygani va bosim boşqaruvi susaygani uçun tik turganda huşdan ketiş böladi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2795,9 +2795,9 @@
   },
   {
    "id": "ch44-t-uzoq-parvozlarda-dekonditsionlanish",
-   "termUz": "Uzoq parvozlarda \"dekonditsionlanish\"",
+   "termUz": "Uzoq parvozlarda “dekonditsionlaniş”",
    "original": null,
-   "contextUz": "Uzoq parvozlarda \"dekonditsionlanish\":",
+   "contextUz": "Uzoq parvozlarda “dekonditsionlaniş”:",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2807,7 +2807,7 @@
    "id": "ch44-t-1",
    "termUz": "~1%",
    "original": null,
-   "contextUz": "Mashqlarga qaramay suyak massasining oyiga ~1% i yo’qoladi; yurak va skelet mushaklari atrofiyaga uchraydi.",
+   "contextUz": "Maşqlarga qaramay suyak massasining oyiga ~1% i yöqoladi; yurak va skelet muşaklari atrofiyaga uçraydi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2815,9 +2815,9 @@
   },
   {
    "id": "ch44-t-yurak-qon-tomir-dekonditsionlanishi",
-   "termUz": "Yurak-qon tomir dekonditsionlanishi",
+   "termUz": "Yurak-qon tomir dekonditsionlanişi",
    "original": null,
-   "contextUz": "Yurak-qon tomir dekonditsionlanishi: ish qobiliyati ↓, qon hajmi ↓, baroretseptor reflekslari buzilgan, ortostatik chidamlilik ↓.",
+   "contextUz": "Yurak-qon tomir dekonditsionlanişi: iş qobiliyati ↓, qon hajmi ↓, baroretseptor reflekslari buzilgan, ortostatik çidamlilik ↓.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2825,9 +2825,9 @@
   },
   {
    "id": "ch44-t-ortostatik-chidamlilik",
-   "termUz": "ortostatik chidamlilik",
+   "termUz": "ortostatik çidamlilik",
    "original": null,
-   "contextUz": "Yurak-qon tomir dekonditsionlanishi: ish qobiliyati ↓, qon hajmi ↓, baroretseptor reflekslari buzilgan, ortostatik chidamlilik ↓.",
+   "contextUz": "Yurak-qon tomir dekonditsionlanişi: iş qobiliyati ↓, qon hajmi ↓, baroretseptor reflekslari buzilgan, ortostatik çidamlilik ↓.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2835,9 +2835,9 @@
   },
   {
    "id": "ch44-t-qarshi-choralar",
-   "termUz": "Qarshi choralar",
+   "termUz": "Qarşi çoralar",
    "original": null,
-   "contextUz": "Qarshi choralar: mashqlardan tashqari qisqa yelkali sentrifugada vaqti-vaqti bilan \"sun’iy gravitatsiya\" (masalan, kuniga 1 soat, 2–3 G).",
+   "contextUz": "Qarşi çoralar: maşqlardan taşqari qisqa yelkali sentrifugada vaqti-vaqti bilan “sun’iy gravitatsiya” (masalan, kuniga 1 soat, 2–3 G).",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2847,7 +2847,7 @@
    "id": "ch44-t-qisqa-yelkali-sentrifugada",
    "termUz": "qisqa yelkali sentrifugada",
    "original": null,
-   "contextUz": "Qarshi choralar: mashqlardan tashqari qisqa yelkali sentrifugada vaqti-vaqti bilan \"sun’iy gravitatsiya\" (masalan, kuniga 1 soat, 2–3 G).",
+   "contextUz": "Qarşi çoralar: maşqlardan taşqari qisqa yelkali sentrifugada vaqti-vaqti bilan “sun’iy gravitatsiya” (masalan, kuniga 1 soat, 2–3 G).",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2855,9 +2855,9 @@
   },
   {
    "id": "ch44-t-suniy-gravitatsiya",
-   "termUz": "\"sun’iy gravitatsiya\"",
+   "termUz": "“sun’iy gravitatsiya”",
    "original": "masalan, kuniga 1 soat, 2–3 G",
-   "contextUz": "Qarshi choralar: mashqlardan tashqari qisqa yelkali sentrifugada vaqti-vaqti bilan \"sun’iy gravitatsiya\" (masalan, kuniga 1 soat, 2–3 G).",
+   "contextUz": "Qarşi çoralar: maşqlardan taşqari qisqa yelkali sentrifugada vaqti-vaqti bilan “sun’iy gravitatsiya” (masalan, kuniga 1 soat, 2–3 G).",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2865,9 +2865,9 @@
   },
   {
    "id": "ch44-t-otkir-tog-kasalligi",
-   "termUz": "O’tkir tog' kasalligi",
-   "original": "miya va o’pka shishi",
-   "contextUz": "O’tkir tog' kasalligi (miya va o’pka shishi): davo O₂ yoki pastga tushish.",
+   "termUz": "Ötkir toğ kasalligi",
+   "original": "miya va o‘pka shishi",
+   "contextUz": "Ötkir toğ kasalligi (miya va öpka şişi): davo O₂ yoki pastga tuşiş.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2875,9 +2875,9 @@
   },
   {
    "id": "ch44-t-o-yoki-pastga-tushish",
-   "termUz": "O₂ yoki pastga tushish",
+   "termUz": "O₂ yoki pastga tuşiş",
    "original": null,
-   "contextUz": "O’tkir tog' kasalligi (miya va o’pka shishi): davo O₂ yoki pastga tushish.",
+   "contextUz": "Ötkir toğ kasalligi (miya va öpka şişi): davo O₂ yoki pastga tuşiş.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2885,9 +2885,9 @@
   },
   {
    "id": "ch44-t-surunkali-tog-kasalligi",
-   "termUz": "Surunkali tog' kasalligi",
+   "termUz": "Surunkali toğ kasalligi",
    "original": null,
-   "contextUz": "Surunkali tog' kasalligi: polisitemiya, o’pka gipertenziyasi, o’ng yurak yetishmovchiligi.",
+   "contextUz": "Surunkali toğ kasalligi: polisitemiya, öpka gipertenziyasi, öng yurak yetişmovçiligi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2897,7 +2897,7 @@
    "id": "ch44-t-akklimatizatsiyada",
    "termUz": "Akklimatizatsiyada",
    "original": null,
-   "contextUz": "Akklimatizatsiyada buyrak kompensatsiyasi (HCO₃⁻ chiqarish) ventilyatsiyani 5 marta oshirishga imkon beradi.",
+   "contextUz": "Akklimatizatsiyada buyrak kompensatsiyasi (HCO₃⁻ çiqariş) ventilyatsiyani 5 marta oşirişga imkon beradi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",
@@ -2917,7 +2917,7 @@
    "id": "ch44-t-vaznsizlik",
    "termUz": "Vaznsizlik",
    "original": null,
-   "contextUz": "Vaznsizlik: ortostatik gipotenziya, osteoporoz, mushak atrofiyasi.",
+   "contextUz": "Vaznsizlik: ortostatik gipotenziya, osteoporoz, muşak atrofiyasi.",
    "lessonId": "ch44",
    "topicId": "08",
    "source": "summaryUz",

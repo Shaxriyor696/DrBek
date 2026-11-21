@@ -1,0 +1,274 @@
+{
+ "lessonId": "ch08",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 8,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "manual",
+ "translator": "Claude (DrStudy sessiyasi)",
+ "model": null,
+ "createdAt": "2026-11-18T06:07:22.224Z",
+ "updatedAt": "2026-11-18T06:07:22.225Z",
+ "coverage": {
+  "translated": 80,
+  "total": 80
+ },
+ "note": "Kitob matnining töliq özbekça tarjimasi (qisqartirilmagan). Ekspert tekşiruvidan ötmagan.",
+ "blocks": {
+  "ch08-f0": {
+   "text": "Silliq muskulning qisqarişi"
+  },
+  "ch08-f1": {
+   "text": "Silliq muskul odatda diametri 1–5 mikrometr va uzunligi atigi 20–500 mikrometr bölgan mayda tolalardan taşkil topgan. Skelet muskul tolalari esa, aksinça, diametri böyiça 30 martagaça katta va yuzlab marta uzun. Skelet muskulidagi qisqarişning köplab tamoyillari silliq muskul uçun ham amal qiladi. Eng muhimi, silliq muskulda ham skelet muskulidagi kabi miozin va aktin filamentlari örtasidagi aslida bir xil tortişiş kuçlari qisqarişni yuzaga keltiradi, ammo silliq muskul tolalarining içki fizik tuzilişi boşqaça."
+  },
+  "ch08-f2": {
+   "text": "Silliq muskul turlari"
+  },
+  "ch08-f3": {
+   "text": "Har bir a’zoning silliq muskuli boşqa köpçilik a’zolarnikidan bir neça jihatdan farq qiladi: (1) fizik ölçamlari; (2) tutamlar yoki qatlamlar şaklida tuzilişi; (3) turli xil stimullarga javobi; (4) innervatsiya xususiyatlari; (5) funksiyasi. Şunga qaramay, soddalik uçun silliq muskulni umuman olganda **Rasm 8-1** da körsatilgan ikkita asosiy turga ajratiş mumkin: _köp birlikli silliq muskul_ va _unitar_ (yoki _bir birlikli_) _silliq muskul._"
+  },
+  "ch08-f5": {
+   "text": "Köp birlikli silliq muskul alohida, bir-biridan ajralgan silliq muskul tolalaridan taşkil topgan. Har bir tola boşqalaridan mustaqil işlaydi va köpinça skelet muskul tolalaridagi kabi bitta nerv uçi bilan innervatsiyalanadi. Bundan taşqari, bu tolalarning taşqi yuzalari, skelet muskul tolalarinikiga öxşab, bazal membranasimon moddaning yupqa qatlami bilan qoplangan; bu qatlam ingiçka kollagen va glikoproteindan iborat aralaşma bölib, alohida tolalarni bir-biridan ajratib (izolyatsiyalab) turişga yordam beradi.",
+   "lead": "Köp birlikli silliq muskul."
+  },
+  "ch08-f6": {
+   "text": "Köp birlikli silliq muskul tolalarining muhim xususiyatlari şundaki, har bir tola boşqalaridan mustaqil qisqara oladi va ular asosan nerv signallari orqali boşqariladi. Unitar silliq muskulning boşqaruvi esa, aksinça, katta qismi nervdan taşqari stimullar orqali amalga oşadi. Köp birlikli silliq muskulga misol sifatida közning kiprikli muskuli, köz rangdor pardasining muskuli va simpatik nerv tizimi tomonidan qözğatilganda tuklarning tikka turişiga sabab böladigan tuk kötaruvçi muskullarni keltiriş mumkin."
+  },
+  "ch08-f7": {
+   "text": "Unitar silliq muskul _sinsitial silliq muskul_ yoki _visseral silliq muskul_ deb ham ataladi. _Unitar_ atamasi yakka muskul tolalarini anglatmaydi. Aksinça, u yagona birlik sifatida birgalikda qisqaradigan yuzlab-minglab silliq muskul tolalari massasini bildiradi. Tolalar odatda qatlamlar yoki tutamlar şaklida joylaşgan bölib, ularning hujayra membranalari köplab nuqtalarda bir-biriga yopişgan, şuning uçun bir muskul tolasida hosil bölgan kuç keyingisiga uzatilişi mumkin. Bundan taşqari, hujayra membranalari köplab _tirqişli birikmalar_ (gap junctions) orqali tutaşgan; ular orqali ionlar bir muskul hujayrasidan ikkinçisiga erkin oqib öta oladi, natijada harakat potensiallari yoki harakat potensialisiz ion oqimi bir toladan keyingisiga ötib, muskul tolalarining birgalikda qisqarişiga sabab böladi. Bu turdagi silliq muskul tolalar orasidagi sinsitial özaro boğlanişlari tufayli _sinsitial silliq muskul_ deb ham ataladi. U tanadagi köpçilik içki a’zolar (visseral a’zolar) — jumladan oşqozon-içak yöli, öt yöllari, siydik yöllari, baçadon va köplab qon tomirlari devorlarida uçragani uçun _visseral silliq muskul_ deb ham ataladi.",
+   "lead": "Unitar silliq muskul."
+  },
+  "ch08-f8": {
+   "text": "Silliq muskuldagi qisqariş mexanizmi"
+  },
+  "ch08-f9": {
+   "text": "Silliq muskul qisqarişining kimyoviy asosi"
+  },
+  "ch08-f10": {
+   "text": "Silliq muskulda kimyoviy xususiyatlari skelet muskulidagi aktin va miozin filamentlarinikiga öxşaş _aktin_ va _miozin filamentlari_ mavjud. Unda skelet muskuli qisqarişini boşqariş uçun zarur bölgan troponin kompleksi yöq, şuning uçun qisqarişni boşqariş mexanizmi boşqaça. Bu masala uşbu bobda keyinroq batafsilroq muhokama qilinadi."
+  },
+  "ch08-f11": {
+   "text": "Kimyoviy tadqiqotlar silliq muskuldan olingan aktin va miozin filamentlari bir-biri bilan skelet muskulidagi kabi deyarli bir xil tarzda özaro ta’sirlaşişini körsatgan. Bundan taşqari, qisqariş jarayoni kalsiy ionlari tomonidan faollaştiriladi va qisqariş uçun energiya beriş maqsadida adenozintrifosfat (ATF) adenozindifosfatga (ADF) parçalanadi."
+  },
+  "ch08-f12": {
+   "text": "Biroq silliq muskulning fizik tuzilişi bilan skelet muskulinikida, şuningdek qözğaliş-qisqariş boğlanişida, qisqariş jarayonining kalsiy ionlari tomonidan boşqarilişida, qisqariş davomiyligida va qisqariş uçun zarur bölgan energiya miqdorida jiddiy farqlar mavjud."
+  },
+  "ch08-f13": {
+   "text": "Silliq muskul qisqarişining fizik asosi"
+  },
+  "ch08-f14": {
+   "text": "Silliq muskulda aktin va miozin filamentlari skelet muskulidagi kabi köndalang-tarğil tartibda joylaşmagan. Buning örniga elektron mikroskopiya usullari **Rasm 8-2** da körsatilgan fizik tuzilişni taxmin qiladi: unda köplab aktin filamentlarining _ziç tanaçalarga_ birikkani tasvirlangan. Bu tanaçalarning ba’zilari hujayra membranasiga birikkan, boşqalari esa hujayra içida tarqalgan. Qöşni hujayralarning membranadagi ba’zi ziç tanaçalari hujayralararo oqsil köprikçalari orqali bir-biri bilan boğlangan. Qisqariş kuçi bir hujayradan keyingisiga asosan şu boğlar orqali uzatiladi."
+  },
+  "ch08-f16": {
+   "text": "Muskul tolasida aktin filamentlari orasida miozin filamentlari joylaşgan. Bu filamentlarning diametri aktin filamentlarinikidan ikki baravardan köproq katta. Elektron mikrofotografiyalarda odatda aktin filamentlari miozin filamentlariga nisbatan 5–10 marta köp uçraydi."
+  },
+  "ch08-f17": {
+   "text": "**Rasm 8-2** ning öng tomonida silliq muskul hujayrasidagi alohida qisqaruvçi birlikning taxminiy tuzilişi körsatilgan: ikkita ziç tanaçadan köplab aktin filamentlari nursimon tarqalgan; bu filamentlarning uçlari ziç tanaçalar örtasida joylaşgan miozin filamentini qoplaydi. Bu qisqaruvçi birlik skelet muskulining qisqaruvçi birligiga öxşaydi, ammo skelet muskuli tuzilişidagi muntazamlikka ega emas. Aslida silliq muskulning ziç tanaçalari skelet muskulidagi Z disklar bilan bir xil vazifani bajaradi."
+  },
+  "ch08-f18": {
+   "text": "Yana bir farq şundaki, miozin filamentlarining köpçiligida “yon qutbli” köndalang köprikçalar böladi: ular şunday joylaşganki, bir tomondagi köprikçalar bir yönalişda, qarama-qarşi tomondagilari esa teskari yönalişda egiladi. Bunday tuziliş miozinga bir tomonda bitta aktin filamentini bir yönalişda tortib, bir vaqtning özida ikkinçi tomonda boşqa aktin filamentini qarama-qarşi yönalişda tortiş imkonini beradi. Bu tuzilişning ahamiyati şundaki, u silliq muskul hujayralariga skelet muskulidagi kabi uzunligining 30% idan kamroğiga çeklanib qolmasdan, uzunligining 80% igaça qisqariş imkonini beradi."
+  },
+  "ch08-f19": {
+   "text": "Silliq muskul qisqarişi bilan skelet muskuli qisqarişining taqqoslanişi"
+  },
+  "ch08-f20": {
+   "text": "Köpçilik skelet muskullari tez qisqarib, tez böşaşsa-da, silliq muskul qisqarişining köp qismi uzoq davom etadigan tonik qisqariş bölib, ba’zan soatlab, hatto kunlab davom etadi. Şuning uçun silliq muskul va skelet muskuli qisqarişining fizik va kimyoviy xususiyatlari farq qilişini kutiş tabiiy. Bu farqlarning ba’zilari keyingi bölimlarda qayd etiladi."
+  },
+  "ch08-f21": {
+   "text": "Silliq muskulda miozin köndalang köprikçalarining sikllaniş tezligi — ya’ni ularning aktinga birikişi, söngra aktindan ajralişi va keyingi sikl uçun qayta birikişi — skelet muskulidagiga qaraganda ança sekin. Uning çastotasi skelet muskulidagining atigi 1/10 dan 1/300 gaça qismini taşkil qiladi. Biroq köndalang köprikçalarning aktin filamentlariga birikkan holda qoladigan _vaqt uluşi_ — qisqariş kuçini belgilovçi asosiy omillardan biri — silliq muskulda ança ortgan, deb hisoblanadi. Sekin sikllanişning mumkin bölgan sababi şuki, köndalang köprikça boşçalarining ATFaza faolligi skelet muskulidagiga qaraganda ança past; şu sababli köndalang köprikça boşçalari harakatini energiya bilan ta’minlovçi ATFning parçalanişi ança kamaygan va sikllaniş tezligi ham mos ravişda sekinlaşgan.",
+   "lead": "Miozin köndalang köprikçalarining sekin sikllanişi."
+  },
+  "ch08-f22": {
+   "text": "Silliq muskulda xuddi şunday qisqariş tarangligini saqlab turiş uçun skelet muskulidagiga nisbatan atigi 1/10 dan 1/300 gaça energiya talab etiladi. Bu ham köndalang köprikçalarning birikiş va ajraliş siklining sekinligi hamda har bir sikl uçun, uning davomiyligidan qat’i nazar, faqat bitta ATF molekulasi talab qilinişi bilan boğliq, deb hisoblanadi.",
+   "lead": "Silliq muskul qisqarişini saqlab turiş uçun energiya sarfining kamligi."
+  },
+  "ch08-f23": {
+   "text": "Silliq muskulning energiyani bunday kam sarflaşi organizmning umumiy energiya tejamkorligi uçun muhim, çunki içaklar, siydik pufagi, öt pufagi va boşqa içki a’zolar köpinça tonik muskul qisqarişini deyarli çeksiz muddat saqlab turadi."
+  },
+  "ch08-f24": {
+   "text": "Tipik silliq muskul töqimasi qözğatilgandan 50–100 millisekund ötgaç qisqara boşlaydi, taxminan 0,5 soniyadan keyin töliq qisqarişga yetadi, söngra yana 1–2 soniya içida qisqariş kuçi pasayadi; şunday qilib, umumiy qisqariş vaqti 1–3 soniyani taşkil qiladi. Bu örtaça skelet muskul tolasining yakka qisqarişidan taxminan 30 marta uzoqroq. Biroq silliq muskulning turlari juda köp bölgani uçun ba’zi turlarda qisqariş 0,2 soniyagaça qisqa yoki 30 soniyagaça uzoq bölişi mumkin.",
+   "lead": "Butun silliq muskul töqimasida qisqariş va böşaşişning sekin boşlanişi."
+  },
+  "ch08-f25": {
+   "text": "Silliq muskul qisqarişining sekin boşlanişi, şuningdek uning uzoq davom etişi köndalang köprikçalarning aktin filamentlariga birikişi va ulardan ajralişining sekinligi bilan boğliq. Bundan taşqari, keyinroq muhokama qilinganidek, kalsiy ionlariga javoban qisqarişning boşlanişi skelet muskulidagiga qaraganda ança sekin keçadi."
+  },
+  "ch08-f26": {
+   "text": "Silliq muskulda miozin filamentlari nisbatan kam bölişiga va köndalang köprikçalar sikllaniş vaqti sekin bölişiga qaramay, silliq muskul qisqarişining maksimal kuçi köpinça skelet muskulinikidan katta böladi: silliq muskul uçun köndalang kesim yuzasining har 1 sm2 iga 4–6 kg gaça, skelet muskuli uçun esa 3–4 kilogramm. Silliq muskul qisqarişining bunday katta kuçi miozin köndalang köprikçalarining aktin filamentlariga uzoq vaqt birikib turişi natijasidir.",
+   "lead": "Silliq muskulda qisqarişning maksimal kuçi köpinça skelet muskulidagidan katta."
+  },
+  "ch08-f27": {
+   "text": "Silliq muskul töliq qisqarişga erişgandan söng, davom etayotgan qözğaliş miqdorini odatda boşlanğiç darajadan ança pastgaça kamaytiriş mumkin, lekin muskul baribir qisqarişning töliq kuçini saqlab turadi. Bundan taşqari, qisqarişni saqlab turiş uçun sarflanadigan energiya köpinça juda oz böladi — ba’zan skelet muskulining şunga öxşaş uzoq qisqarişi uçun zarur energiyaning atigi 1/300 qismiçalik. Bu mexanizm _qulflaş mexanizmi_ (latç mexanizmi) deb ataladi.",
+   "lead": "“Qulflaş” (latç) mexanizmi silliq muskul qisqarişlarini uzoq vaqt uşlab turişga imkon beradi."
+  },
+  "ch08-f28": {
+   "text": "Qulflaş mexanizmining ahamiyati şundaki, u silliq muskulda uzoq davom etadigan tonik qisqarişni oz energiya sarflagan holda soatlab saqlab tura oladi. Nerv tolalari yoki gormonal manbalardan davomli qözğatuvçi signal juda kam talab etiladi."
+  },
+  "ch08-f29": {
+   "text": "Silliq muskulning, ayniqsa köplab kovak a’zolardagi visseral unitar silliq muskulning yana bir muhim xususiyati — çözilgandan yoki qisqartirilgandan keyin bir neça soniya yoki daqiqa ötib qisqarişning dastlabki _kuçiga_ deyarli qaytiş qobiliyatidir. Masalan, siydik pufagidagi suyuqlik hajmining tösatdan ortişi pufak devoridagi silliq muskulni çözib, pufakdagi bosimni darhol keskin oşiradi. Biroq keyingi taxminan 15–60 soniya davomida, pufak devori çözilganiça qolişiga qaramay, bosim deyarli aynan dastlabki darajaga qaytadi. Söngra hajm yana bir poğona oşirilganda xuddi şu hodisa yana takrorlanadi.",
+   "lead": "Silliq muskulning stress-relaksatsiyasi."
+  },
+  "ch08-f30": {
+   "text": "Aksinça, hajm tösatdan kamaytirilganda bosim avvaliga keskin tuşib ketadi, ammo keyingi bir neça soniya yoki daqiqa içida dastlabki darajagaça yoki unga yaqin darajagaça kötariladi. Bu hodisalar _stress-relaksatsiya_ va _teskari stress-relaksatsiya_ deb ataladi. Ularning ahamiyati şundaki, ular qisqa davrlarni hisobga olmaganda, kovak a’zoga hajmning uzoq davom etadigan katta özgarişlariga qaramay, böşliği içidagi bosimni taxminan bir xil darajada saqlab turiş imkonini beradi."
+  },
+  "ch08-f31": {
+   "text": "Qisqarişning kalsiy ionlari tomonidan boşqarilişi"
+  },
+  "ch08-f32": {
+   "text": "Skelet muskulidagi kabi, silliq muskul qisqarişlarining köpçiligi uçun boşlovçi stimul hujayra içidagi kalsiy ionlari miqdorining ortişidir. Silliq muskulning turli turlarida bu ortiş silliq muskul tolasining nerv orqali qözğatilişi, gormonal stimulyatsiya, tolaning çözilişi yoki hatto tola atrofidagi kimyoviy muhitning özgarişi natijasida yuzaga kelişi mumkin."
+  },
+  "ch08-f33": {
+   "text": "Silliq muskulda skelet muskuli qisqarişini yuzaga keltiriş uçun kalsiy ionlari tomonidan faollaştiriladigan boşqaruvçi oqsil — troponin yöq. Buning örniga, keyingi bölimda tasvirlanganidek, silliq muskul qisqarişi butunlay boşqa mexanizm orqali faollaştiriladi."
+  },
+  "ch08-f34": {
+   "text": "Troponin örniga silliq muskul hujayralarida _kalmodulin_ deb ataladigan boşqa boşqaruvçi oqsil köp miqdorda böladi (**Rasm 8-3**). Bu oqsil troponinga öxşasa-da, qisqarişni boşlaş usuli bilan undan farq qiladi. Kalmodulin qisqarişni miozin köndalang köprikçalarini faollaştiriş orqali boşlaydi. Bu faollaşuv va undan keyingi qisqariş quyidagi ketma-ketlikda yuz beradi: 1. Kalsiyning hujayradan taşqari suyuqlikdan kalsiy kanallari orqali kirişi va/yoki sarkoplazmatik retikulumdan ajralib çiqişi natijasida silliq muskulning sitozol suyuqligidagi kalsiy konsentratsiyasi ortadi. 2. Kalsiy ionlari kalmodulin bilan qaytar boğlanadi. 3. Söngra kalmodulin-kalsiy kompleksi fosforlovçi ferment — _miozin yengil zanjiri kinazasi_ bilan birikib, uni faollaştiradi. 4. Har bir miozin boşçasining _boşqaruvçi zanjir_ deb ataladigan yengil zanjirlaridan biri şu miozin kinazasi ta’sirida fosforlanadi. Bu zanjir fosforlanmagan bölsa, miozin boşçasining aktin filamentiga birikiş-ajraliş sikli yuz bermaydi. Biroq boşqaruvçi zanjir fosforlanganda boşça aktin filamenti bilan qayta-qayta boğlaniş va skelet muskulidagi kabi uzlukli tortişlarning butun sikl jarayonini bosib ötiş qobiliyatiga ega böladi va şu tariqa muskul qisqarişini yuzaga keltiradi.",
+   "lead": "Kalsiy ionlari kalmodulin bilan birikib, miozin kinazasining faollaşuviga va miozin boşçasining fosforlanişiga sabab böladi."
+  },
+  "ch08-f36": {
+   "text": "Qisqarişni yuzaga keltiruvçi kalsiy ionlarining manbai"
+  },
+  "ch08-f37": {
+   "text": "Silliq muskulda ham, skelet muskulidagi kabi, qisqariş jarayoni kalsiy ionlari tomonidan faollaştirilsa-da, kalsiy ionlarining manbai farq qiladi. Muhim farqlardan biri şundaki, skelet muskuli qisqarişi uçun deyarli barça kalsiy ionlarini yetkazib beruvçi sarkoplazmatik retikulum köpçilik silliq muskullarda juda kam rivojlangan. Buning örniga qisqarişni yuzaga keltiruvçi kalsiy ionlarining köp qismi harakat potensiali yoki boşqa stimul paytida hujayradan taşqari suyuqlikdan muskul hujayrasiga kiradi. Ya’ni hujayradan taşqari suyuqlikdagi kalsiy ionlarining konsentratsiyasi 10−3 molyardan yuqori, silliq muskul hujayrasi içida esa 10−7 molyardan past; şu sababli kalsiy kanallari oçilganda kalsiy ionlari hujayradan taşqari suyuqlikdan hujayra içiga tez diffuziyalanadi. Bu diffuziya uçun zarur bölgan vaqt örtaça 200–300 millisekundni taşkil qiladi va qisqariş boşlanişidan oldingi _latent davr_ deb ataladi. Silliq muskulda bu latent davr skelet muskuli qisqarişidagiga qaraganda taxminan 50 marta uzun."
+  },
+  "ch08-f38": {
+   "text": "**Rasm 8-4** da ba’zi yirikroq silliq muskul hujayralarida hujayra membranasi yaqinida joylaşgan bir neçta kam rivojlangan sarkoplazmatik nayçalar körsatilgan. Bu nayçalarning yuzalariga _kaveolalar_ deb ataladigan hujayra membranasining kiçik botiqlari taqalib turadi. Kaveolalar skelet muskulidagi köndalang nayçalar tizimining rudimentar öxşaşi, deb taxmin qilinadi. Harakat potensiali kaveolalarga uzatilganda, xuddi skelet muskulining köndalang nayçalaridagi harakat potensiallari skelet muskulining böylama sarkoplazmatik nayçalaridan kalsiy ionlarini ajratib çiqargani kabi, u ham taqalib turgan sarkoplazmatik nayçalardan kalsiy ionlarining ajralişini qözğatadi, deb hisoblanadi. Umuman olganda, silliq muskul tolasida sarkoplazmatik retikulum qança keng rivojlangan bölsa, u şunça tez qisqaradi.",
+   "lead": "Silliq muskul sarkoplazmatik retikulumining roli."
+  },
+  "ch08-f40": {
+   "text": "Hujayradan taşqari suyuqlikdagi kalsiy ionlari konsentratsiyasining normadan özgarişi skelet muskulining qisqariş kuçiga deyarli ta’sir qilmasa-da, köpçilik silliq muskullar uçun bu boşqaça. Hujayradan taşqari suyuqlikdagi kalsiy ionlari konsentratsiyasi normaning taxminan 1/3 dan 1/10 gaça qismiga kamayganda silliq muskul qisqarişi odatda töxtaydi. Şuning uçun silliq muskulning qisqariş kuçi odatda hujayradan taşqari suyuqlikdagi kalsiy ionlari konsentratsiyasiga kuçli boğliq.",
+   "lead": "Silliq muskul qisqarişi hujayradan taşqari kalsiy ionlari konsentratsiyasiga boğliq."
+  },
+  "ch08-f41": {
+   "text": "Qisqargan silliq muskulni böşaştiriş uçun kalsiy ionlari hujayra içi suyuqliklaridan çiqarilişi kerak. Bunga kalsiy ionlarini silliq muskul tolasidan taşqariga — hujayradan taşqari suyuqlikka yoki, agar mavjud bölsa, sarkoplazmatik retikulumga qaytarib haydaydigan _kalsiy nasosi_ orqali erişiladi (**Rasm 8-5**). Bu nasos ATF talab qiladi va skelet muskulidagi tez işlaydigan sarkoplazmatik retikulum nasosiga qaraganda sekin işlaydi. Şuning uçun silliq muskulning yakka qisqarişi köpinça skelet muskulidagi kabi sekundning yuzdan yoki öndan bir qismlari emas, balki bir neça soniya davom etadi.",
+   "lead": "Silliq muskulning böşaşişi uçun kalsiy nasosi zarur."
+  },
+  "ch08-f43": {
+   "text": "Silliq muskulning böşaşişi kalsiy kanallari yopilganda va kalsiy nasosi kalsiy ionlarini hujayraning sitozol suyuqligidan taşqariga taşiganda yuz beradi. Kalsiy ionlari konsentratsiyasi kritik darajadan pastga tuşganda, yuqorida qayd etilgan jarayonlar miozin boşçasining fosforlanişidan taşqari avtomatik ravişda teskari yönalişda keçadi. Bu holatni teskari tomonga qaytariş uçun silliq muskul hujayrasining sitozolida joylaşgan yana bir ferment — _miozin fosfatazasi_ (qarang: **Rasm 8-5**) kerak bölib, u boşqaruvçi yengil zanjirdan fosfatni ajratib oladi. Şundan söng sikllaniş töxtaydi va qisqariş tugaydi. Demak, muskul qisqarişining böşaşişi uçun zarur bölgan vaqt köp jihatdan hujayradagi faol miozin fosfatazasi miqdori bilan belgilanadi.",
+   "lead": "Miozin fosfatazasi qisqarişning töxtaşida muhim ahamiyatga ega."
+  },
+  "ch08-f44": {
+   "text": "Qulflaş hodisasi silliq muskulda muhim ahamiyatga ega bölgani va u köplab silliq muskulli a’zolarda ortiqça energiya sarflamasdan tonusni uzoq muddat saqlab turiş imkonini bergani uçun uni tuşuntirişga köplab urinişlar qilingan. Taklif etilgan köplab mexanizmlar içida eng soddalaridan biri quyidagiça.",
+   "lead": "Qulflaş hodisasini boşqarişning mumkin bölgan mexanizmi."
+  },
+  "ch08-f45": {
+   "text": "Miozin kinazasi va miozin fosfatazasi fermentlarining ikkalasi ham kuçli faollaşganda miozin boşçalarining sikllaniş çastotasi va qisqariş tezligi yuqori böladi. Söngra fermentlarning faollaşuvi pasaygan sari sikllaniş çastotasi kamayadi, ammo bir vaqtning özida bu fermentlarning nofaollaşuvi miozin boşçalariga sikl davrining tobora kattaroq qismida aktin filamentiga birikkan holda qoliş imkonini beradi. Şuning uçun istalgan vaqtda aktin filamentiga birikkan boşçalar soni köpligiça qoladi. Aktinga birikkan boşçalar soni qisqarişning statik kuçini belgilagani uçun taranglik saqlanib qoladi, ya’ni “qulflanadi”, biroq muskul juda kam energiya sarflaydi, çunki boşça ajralib çiqadigan kamdan-kam holatlarni hisobga olmaganda ATF ADFga parçalanmaydi."
+  },
+  "ch08-f46": {
+   "text": "Silliq muskul qisqarişining nerv va gormonal boşqaruvi"
+  },
+  "ch08-f47": {
+   "text": "Skelet muskul tolalari faqat nerv tizimi tomonidan qözğatilsa-da, silliq muskulni nerv signallari, gormonal stimulyatsiya, muskulning çözilişi va boşqa bir qança yöllar bilan qisqarişga undaş mumkin. Bu farqning asosiy sababi şuki, silliq muskul membranasida qisqariş jarayonini boşlab bera oladigan köplab turdagi retseptor oqsillar mavjud. Yana boşqa retseptor oqsillar esa silliq muskul qisqarişini tormozlaydi — bu ham skelet muskulidan yana bir farqdir. Şu sababli uşbu bölimda avval silliq muskul qisqarişining nerv orqali boşqarilişini, söngra gormonal boşqaruv va boşqaruvning boşqa usullarini muhokama qilamiz."
+  },
+  "ch08-f48": {
+   "text": "Silliq muskulning nerv-muskul birikmalari"
+  },
+  "ch08-f49": {
+   "text": "Silliq muskulda skelet muskul tolalaridagi kabi yuqori darajada tuzilgan nerv-muskul birikmalari uçramaydi. Buning örniga **Rasm 8-6** da körsatilganidek, silliq muskulni innervatsiyalaydigan _vegetativ nerv tolalari_ odatda muskul tolalari qatlami ustida diffuz tarmoqlanadi. Köp hollarda bu tolalar silliq muskul tolalarining hujayra membranalari bilan bevosita tutaşmaydi, balki öz mediator moddasini silliq muskulning matriks qoplamasiga — köpinça muskul hujayralaridan bir neça nanometrdan bir neça mikrometrgaça uzoqlikka ajratadigan _diffuz birikmalar_ hosil qiladi. Söngra mediator modda hujayralargaça diffuziyalanadi. Bundan taşqari, muskul hujayralarining qatlamlari köp bölgan joylarda nerv tolalari köpinça faqat taşqi qatlamni innervatsiyalaydi. Muskul qözğalişi bu taşqi qatlamdan içki qatlamlarga muskul massasida harakat potensialining ötkazilişi yoki mediator moddaning qöşimça diffuziyasi orqali tarqaladi.",
+   "lead": "Silliq muskul nerv-muskul birikmalarining fiziologik anatomiyasi."
+  },
+  "ch08-f51": {
+   "text": "Silliq muskul tolalarini innervatsiyalaydigan aksonlarda skelet muskul tolalaridagi harakatlantiruvçi oxirgi plastinkada uçraydigan tipik tarmoqlangan oyoqçalar bölmaydi. Buning örniga ingiçka oxirgi aksonlarning köpçiligida ularning öqi böylab joylaşgan köplab _varikozlar_ (yöğonlaşmalar) böladi. Bu nuqtalarda aksonlarni örab turgan _Şvann hujayralari_ uzilgan böladi, şuning uçun mediator modda varikozlar devori orqali ajralib çiqa oladi. Varikozlarda skelet muskulining oxirgi plastinkasidagilarga öxşaş, mediator modda saqlovçi pufakçalar böladi. Biroq doim atsetilxolin saqlovçi skelet muskuli birikmalaridagi pufakçalardan farqli ölaroq, vegetativ nerv tolalari uçlaridagi pufakçalarda ba’zi tolalarda atsetilxolin, boşqalarida noradrenalin, ba’zan esa boşqa moddalar ham böladi."
+  },
+  "ch08-f52": {
+   "text": "Ayrim hollarda, ayniqsa köp birlikli silliq muskulda, varikozlar muskul hujayrasi membranasidan atigi 20–30 nanometr masofada joylaşadi — bu skelet muskuli birikmasidagi sinaptik yoriq kengligi bilan bir xil. Bular _kontakt birikmalar_ deb ataladi va skelet muskulining nerv-muskul birikmasiga juda öxşaş tarzda işlaydi. Bunday silliq muskul tolalarining qisqariş tezligi diffuz birikmalar orqali qözğatiladigan tolalarnikiga qaraganda ança yuqori."
+  },
+  "ch08-f53": {
+   "text": "Silliq muskulni innervatsiyalaydigan vegetativ nervlar ajratadigan eng muhim mediator moddalar — _atsetilxolin_ va _noradrenalin_, biroq ular heç qaçon bitta nerv tolasidan ajralmaydi. Atsetilxolin ba’zi a’zolarda silliq muskul tolalari uçun qözğatuvçi, boşqa a’zolarda esa silliq muskul uçun tormozlovçi mediatordir. Atsetilxolin muskul tolasini qözğatganda noradrenalin odatda uni tormozlaydi. Aksinça, atsetilxolin tolani tormozlaganda noradrenalin odatda uni qözğatadi.",
+   "lead": "Silliq muskul nerv-muskul birikmasida ajraladigan qözğatuvçi va tormozlovçi mediator moddalar."
+  },
+  "ch08-f54": {
+   "text": "Nima uçun bu javoblar har xil? Gap şundaki, atsetilxolin ham, noradrenalin ham silliq muskulni avval muskul hujayrasi membranasi yuzasidagi _retseptor oqsil_ bilan boğlaniş orqali qözğatadi yoki tormozlaydi. Retseptor oqsillarning ba’zilari _qözğatuvçi retseptorlar_, boşqalari esa _tormozlovçi retseptorlar_ hisoblanadi. Şunday qilib, retseptor turi silliq muskul tormozlanişi yoki qözğalişini, şuningdek ikki mediatordan — atsetilxolin yoki noradrenalindan qaysi biri qözğaliş yoki tormozlanişni yuzaga keltirişda samarali ekanini belgilaydi. Bu retseptorlar 61-bobda vegetativ nerv tizimining funksiyasi bilan boğliq holda batafsilroq muhokama qilinadi."
+  },
+  "ch08-f55": {
+   "text": "Silliq muskuldagi membrana potensiallari va harakat potensiallari"
+  },
+  "ch08-f56": {
+   "text": "Silliq muskul membrana potensialining miqdoriy kuçlanişi muskulning ayni paytdagi holatiga boğliq. Normal tinç holatda hujayra içidagi potensial odatda taxminan −50 dan −60 millivoltgaça böladi, bu skelet muskulidagiga qaraganda taxminan 30 millivoltga kamroq manfiy.",
+   "lead": "Silliq muskuldagi membrana potensiallari."
+  },
+  "ch08-f57": {
+   "text": "Unitar silliq muskulda (masalan, visseral muskulda) harakat potensiallari skelet muskulidagi kabi yuzaga keladi. Keyingi bölimda muhokama qilinganidek, köp birlikli silliq muskul turlarining köpçiligida ular odatda yuzaga kelmaydi.",
+   "lead": "Unitar silliq muskuldagi harakat potensiallari."
+  },
+  "ch08-f58": {
+   "text": "Visseral silliq muskulning harakat potensiallari ikki şakldan birida namoyon böladi: (1) çöqqisimon (spayk) potensiallar yoki (2) platoli harakat potensiallari."
+  },
+  "ch08-f59": {
+   "text": "Skelet muskulida kuzatiladigan kabi tipik çöqqisimon harakat potensiallari unitar silliq muskulning köpçilik turlarida uçraydi. **Rasm 8-7A** da körsatilganidek, bu turdagi harakat potensialining davomiyligi 10–50 millisekund. Bunday harakat potensiallarini köp yöllar bilan çaqiriş mumkin — masalan, elektr stimulyatsiyasi, gormonlarning silliq muskulga ta’siri, nerv tolalaridan ajraladigan mediator moddalar ta’siri, çöziliş yoki keyinroq muhokama qilinganidek, muskul tolasining özida öz-özidan hosil bölişi natijasida.",
+   "lead": "Çöqqisimon potensiallar."
+  },
+  "ch08-f60": {
+   "text": "**Rasm 8-7C** da platoli silliq muskul harakat potensiali körsatilgan. Bu harakat potensialining boşlanişi tipik çöqqisimon potensialnikiga öxşaydi. Biroq muskul tolasi membranasining tez repolyarizatsiyasi örniga repolyarizatsiya bir neça yuz millisekunddan 1000 millisekundgaça (1 soniyagaça) keçikadi. Platoning ahamiyati şundaki, u siydik yöli, ba’zi şaroitlarda baçadon va qon tomir silliq muskulining ayrim turlari kabi ba’zi silliq muskul turlarida kuzatiladigan uzoq davom etadigan qisqarişni tuşuntirib bera oladi. Şuningdek, 9- va 10-boblarda muhokama qilinganidek, qisqariş davri uzoq bölgan yurak muskul tolalarida ham aynan şu turdagi harakat potensiali kuzatiladi.",
+   "lead": "Platoli harakat potensiallari."
+  },
+  "ch08-f62": {
+   "text": "Silliq muskul hujayrasi membranasida skelet muskulidagiga qaraganda potensialga boğliq kalsiy kanallari ança köp, potensialga boğliq natriy kanallari esa kam. Şuning uçun köpçilik silliq muskullarda natriy harakat potensialini hosil qilişda deyarli iştirok etmaydi. Buning örniga harakat potensialiga asosan kalsiy ionlarining tola içiga oqib kirişi sabab böladi. Bu oqim nerv tolalari va skelet muskul tolalaridagi natriy kanallari kabi öz-özini kuçaytiruvçi (regenerativ) tarzda keçadi. Biroq kalsiy kanallari natriy kanallariga qaraganda bir neça marta sekinroq oçiladi va ança uzoqroq oçiq holda qoladi. Ba’zi silliq muskul tolalaridagi uzoq platoli harakat potensiallari asosan aynan şu xususiyatlar bilan izohlanadi.",
+   "lead": "Kalsiy kanallari silliq muskul harakat potensialini hosil qilişda muhim ahamiyatga ega."
+  },
+  "ch08-f63": {
+   "text": "Harakat potensiali paytida kalsiy ionlarining hujayralarga kirişining yana bir muhim xususiyati şundaki, kalsiy ionlari qisqarişni yuzaga keltiriş uçun silliq muskulning qisqariş mexanizmiga bevosita ta’sir qiladi. Şunday qilib, kalsiy bir vaqtning özida ikki vazifani bajaradi."
+  },
+  "ch08-f64": {
+   "text": "Ba’zi silliq muskullar öz-özini qözğatuvçi böladi — ya’ni harakat potensiallari silliq muskul hujayralarida taşqi stimulsiz paydo böladi. Bu faollik köpinça membrana potensialining asosiy _sekin tölqin ritmi_ bilan boğliq. Içakning visseral silliq muskulidagi tipik sekin tölqin **Rasm 8-7B** da körsatilgan. Sekin tölqin harakat potensiali emas. Ya’ni u muskul tolalarining membranalari böylab asta-sekin tarqaladigan öz-özini kuçaytiruvçi jarayon emas. Aksinça, u muskul massasini taşkil etuvçi silliq muskul tolalarining mahalliy xususiyatidir.",
+   "lead": "Unitar silliq muskuldagi sekin tölqin potensiallari harakat potensiallarining öz-özidan hosil bölişiga olib kelişi mumkin."
+  },
+  "ch08-f65": {
+   "text": "Sekin tölqin ritmining sababi noma’lum. Taxminlardan biriga köra, sekin tölqinlar musbat ionlarning (ehtimol, natriy ionlarining) muskul tolasi membranasi orqali taşqariga haydalişining kuçayişi va susayişi natijasida yuzaga keladi. Ya’ni natriy tez haydalganda membrana potensiali köproq manfiy, natriy nasosi sustroq işlaganda esa kamroq manfiy böladi. Boşqa bir taxminga köra, ion kanallarining ötkazuvçanligi ritmik ravişda ortib-kamayib turadi."
+  },
+  "ch08-f66": {
+   "text": "Sekin tölqinlarning ahamiyati şundaki, ular yetarliça kuçli bölganda harakat potensiallarini boşlab bera oladi. Sekin tölqinlarning özi muskul qisqarişini yuzaga keltira olmaydi. Biroq hujayra membranasi içidagi manfiy sekin tölqin potensialining çöqqisi musbat yönalişda −60 dan taxminan −35 millivoltgaça (köpçilik visseral silliq muskulda harakat potensialini çaqirişning taxminiy bösağasi) kötarilganda harakat potensiali rivojlanadi, muskul massasi böylab tarqaladi va qisqariş yuz beradi. **Rasm 8-7B** da bu ta’sir körsatilgan: sekin tölqinning har bir çöqqisida bitta yoki bir neçta harakat potensiali yuzaga keladi. Harakat potensiallarining bu takroriy ketma-ketliklari silliq muskul massasining ritmik qisqarişini çaqiradi. Şuning uçun sekin tölqinlar _ritm yetakçisi (peysmeyker) tölqinlari_ deb ataladi. 63-bobda bu turdagi peysmeyker faolligi içakning ritmik qisqarişlarini boşqarişini köramiz."
+  },
+  "ch08-f67": {
+   "text": "Visseral (unitar) silliq muskul yetarliça çözilganda odatda öz-özidan harakat potensiallari hosil böladi. Ular quyidagilarning birgalikdagi ta’siri natijasida yuzaga keladi: (1) normal sekin tölqin potensiallari; (2) çöziliş tufayli membrana potensiali umumiy manfiyligining kamayişi. Çözilişga bunday javob içak devoriga haddan taşqari çözilganda avtomatik va ritmik qisqariş imkonini beradi. Masalan, içak içidagi massa bilan haddan taşqari tölganda mahalliy avtomatik qisqarişlar köpinça peristaltik tölqinlarni yuzaga keltiradi; bu tölqinlar içak içidagi massani haddan taşqari tölgan içakdan, odatda orqa çiqaruv teşigi tomon uzoqlaştiradi.",
+   "lead": "Visseral silliq muskulning çöziliş orqali qözğalişi."
+  },
+  "ch08-f68": {
+   "text": "Köp birlikli silliq muskulning harakat potensiallarisiz depolyarizatsiyasi"
+  },
+  "ch08-f69": {
+   "text": "Köp birlikli silliq muskulning (masalan, köz rangdor pardasi muskuli yoki har bir tukning tuk kötaruvçi muskuli) silliq muskul tolalari normal holatda asosan nerv stimullariga javoban qisqaradi. Ba’zi köp birlikli silliq muskullarda nerv uçlari atsetilxolin, boşqalarida esa noradrenalin ajratadi. Ikkala holatda ham mediator moddalar silliq muskul membranasining depolyarizatsiyasiga sabab böladi, bu depolyarizatsiya esa öz navbatida qisqarişni çaqiradi. Harakat potensiallari odatda rivojlanmaydi, çunki tolalar harakat potensialini hosil qiliş uçun juda kiçik. (_Visseral unitar silliq muskulda_ harakat potensiallari çaqirilganda öz-özidan tarqaluvçi harakat potensiali yuzaga kelişi uçun 30–40 ta silliq muskul tolasi bir vaqtda depolyarizatsiyalanişi kerak.) Biroq kiçik silliq muskul hujayralarida harakat potensiali bölmasa ham nerv mediator moddasi keltirib çiqargan mahalliy depolyarizatsiya (_birikma potensiali_ deb ataladi) butun tola böylab “elektrotonik” tarqaladi va muskul qisqarişini yuzaga keltiriş uçun şuning özi kifoya."
+  },
+  "ch08-f70": {
+   "text": "Mahalliy töqima omillari va gormonlar silliq muskulning harakat potensiallarisiz qisqarişiga sabab bölişi mumkin"
+  },
+  "ch08-f71": {
+   "text": "Silliq muskul qisqarişlarining taxminan yarmi, ehtimol, silliq muskulning qisqariş mexanizmiga bevosita ta’sir qiluvçi va harakat potensiallarisiz işlovçi qözğatuvçi omillar tomonidan boşlanadi. Bunda köpinça iştirok etadigan nervga va harakat potensialiga boğliq bölmagan qözğatuvçi omillarning ikki turi — (1) mahalliy töqima kimyoviy omillari va (2) turli gormonlar."
+  },
+  "ch08-f72": {
+   "text": "17-bobda arteriolalar, metaarteriolalar va prekapillyar sfinkterlar qisqarişining boşqarilişini muhokama qilamiz. Bu tomirlarning eng kiçiklari nerv bilan juda kam ta’minlangan yoki umuman ta’minlanmagan. Şunga qaramay, ularning silliq muskuli yuqori darajada qisqaruvçan bölib, atrofdagi interstitsial suyuqlikdagi mahalliy kimyoviy şaroit özgarişlariga va qon bosimi özgarişi tufayli yuzaga keladigan çözilişga tez javob beradi.",
+   "lead": "Silliq muskulning mahalliy töqima kimyoviy omillariga javoban qisqarişi."
+  },
+  "ch08-f73": {
+   "text": "Normal tinç holatda bu mayda qon tomirlarining köpçiligi qisqargan holatda böladi. Biroq töqimaga qöşimça qon oqimi zarur bölganda köplab omillar tomir devorini böşaştirib, qon oqimining ortişiga imkon beradi. Şu yöl bilan kuçli mahalliy teskari aloqa boşqaruv tizimi mahalliy töqima sohasidagi qon oqimini boşqaradi. Ba’zi aniq boşqaruv omillari quyidagilar: 1. Mahalliy töqimalarda kislorod yetişmasligi silliq muskulning böşaşişiga va demak, vazodilatatsiyaga sabab böladi. 2. Karbonat angidridning ortiqçaligi vazodilatatsiyaga sabab böladi. 3. Vodorod ionlari konsentratsiyasining ortişi vazodilatatsiyaga sabab böladi. Adenozin, sut kislotasi, kaliy ionlarining köpayişi, azot oksidi va tana haroratining kötarilişi — bularning barçasi mahalliy vazodilatatsiyaga sabab bölişi mumkin. Qon bosimining pasayişi ham qon tomir silliq muskulining çözilişini kamaytirib, bu mayda qon tomirlarining kengayişiga sabab böladi."
+  },
+  "ch08-f74": {
+   "text": "Qonda aylanib yuruvçi köplab gormonlar silliq muskul qisqarişiga u yoki bu darajada ta’sir qiladi, ba’zilari esa kuçli ta’sir körsatadi. Bu gormonlarning muhimlari qatoriga _noradrenalin, adrenalin, angiotenzin II, endotelin, vazopressin, oksitotsin, serotonin_ va _gistamin_ kiradi.",
+   "lead": "Gormonlarning silliq muskul qisqarişiga ta’siri."
+  },
+  "ch08-f75": {
+   "text": "Agar muskul hujayrasi membranasida tegişli gormon uçun _gormon bilan boşqariladigan qözğatuvçi retseptorlar_ bölsa, gormon silliq muskulning qisqarişiga sabab böladi. Aksinça, agar membranada gormon uçun qözğatuvçi emas, balki _tormozlovçi retseptorlar_ bölsa, gormon tormozlanişga sabab böladi."
+  },
+  "ch08-f76": {
+   "text": "Silliq muskul membranasidagi ba’zi gormon retseptorlari xuddi nerv stimulyatsiyasidan keyingi kabi natriy yoki kalsiy ion kanallarini oçadi va membranani depolyarizatsiyalaydi. Ba’zan natijada harakat potensiallari yuzaga keladi yoki allaqaçon yuzaga kelayotgan harakat potensiallari kuçayişi mumkin. Boşqa hollarda depolyarizatsiya harakat potensiallarisiz yuz beradi va bu depolyarizatsiya kalsiy ionlarining hujayraga kirişiga imkon berib, qisqarişga yordam beradi.",
+   "lead": "Silliq muskulning gormonlar yoki mahalliy töqima omillari tomonidan qözğatilişi yoki tormozlanişi mexanizmlari."
+  },
+  "ch08-f77": {
+   "text": "Tormozlaniş esa, aksinça, gormon (yoki boşqa töqima omili) uşbu musbat ionlarning kirişiga yöl qöymaslik uçun _natriy va kalsiy kanallarini yopganda_ yuz beradi; normal holatda yopiq bölgan kaliy kanallari oçilib, musbat kaliy ionlarining hujayradan taşqariga diffuziyalanişiga imkon berganda ham tormozlaniş yuzaga keladi. Bu ikkala ta’sir ham muskul hujayrasi içidagi manfiylik darajasini oşiradi — bu holat _giperpolyarizatsiya_ deb ataladi va muskul qisqarişini kuçli tormozlaydi."
+  },
+  "ch08-f78": {
+   "text": "Ba’zan silliq muskulning qisqarişi yoki tormozlanişi gormonlar tomonidan membrana potensialida bevosita heç qanday özgariş keltirib çiqarmagan holda boşlanadi. Bunday hollarda gormon heç qanday ion kanalini oçmaydigan, balki muskul tolasida içki özgarişni — masalan, hujayra içidagi sarkoplazmatik retikulumdan kalsiy ionlarining ajralib çiqişini yuzaga keltiradigan membrana retseptorini faollaştirişi mumkin; söngra kalsiy qisqarişni çaqiradi. Qisqarişni tormozlaş uçun boşqa retseptor mexanizmlari hujayra membranasidagi adenilatsiklaza yoki guanilatsiklaza fermentini faollaştirişi ma’lum. Retseptorlarning hujayra içiga çiqib turgan qismlari şu fermentlar bilan boğlangan bölib, siklik adenozinmonofosfat (sAMF) yoki siklik guanozinmonofosfat (sGMF) — ikkilamçi vositaçilar (messenjerlar) deb ataladigan moddalarning hosil bölişiga sabab böladi. sAMF yoki sGMF köplab ta’sirlarga ega; ulardan biri qisqarişni bilvosita tormozlaydigan bir qança fermentlarning fosforlaniş darajasini özgartirişdir. Kalsiy ionlarini sarkoplazmadan sarkoplazmatik retikulumga ötkazuvçi nasos, şuningdek kalsiy ionlarini hujayradan taşqariga çiqaruvçi hujayra membranasi nasosi faollaşadi; bu ta’sirlar sarkoplazmadagi kalsiy ionlari konsentratsiyasini kamaytiradi va şu tariqa qisqarişni tormozlaydi."
+  },
+  "ch08-f79": {
+   "text": "Silliq muskullar turli gormonlar, neyromediatorlar va boşqa moddalarga javoban qisqariş yoki böşaşişni boşlaş usullari böyiça sezilarli darajada xilma-xil. Ba’zi hollarda bitta modda turli joylardagi silliq muskullarda yo böşaşiş, yo qisqarişga sabab bölişi mumkin. Masalan, noradrenalin içakdagi silliq muskul qisqarişini tormozlaydi, ammo qon tomirlaridagi silliq muskul qisqarişini kuçaytiradi."
+  }
+ },
+ "figures": {
+  "gh14-fig-08-01": "Köp birlikli (A) va unitar (B) silliq muskul.",
+  "gh14-fig-08-02": "Silliq muskulning fizik tuzilişi. Yuqori çapdagi tolada ziç tanaçalardan nursimon tarqaluvçi aktin filamentlari körsatilgan. Pastki çapdagi va öngdagi tolalarda miozin filamentlarining aktin filamentlariga munosabati körsatilgan.",
+  "gh14-fig-08-03": "Ca2+ hujayra membranasidagi kalsiy kanallari orqali hujayraga kirganda yoki sarkoplazmatik retikulumdan ajralib çiqqanda hujayra içidagi kalsiy ionlari (Ca2+) konsentratsiyasi ortadi. Ca2+ kalmodulin (CaM) bilan boğlanib, Ca2+-CaM kompleksini hosil qiladi, u esa miozin yengil zanjiri kinazasini (MLCK) faollaştiradi. Faol MLCK miozin yengil zanjirini fosforlaydi; bu miozin boşçasining aktin filamentiga birikişiga va silliq muskulning qisqarişiga olib keladi. ADF — adenozindifosfat; ATF — adenozintrifosfat; P — fosfat.",
+  "gh14-fig-08-04": "Yirik silliq muskul tolasidagi sarkoplazmatik nayçalar: ularning hujayra membranasidagi kaveolalar deb ataladigan botiqlarga munosabati körsatilgan.",
+  "gh14-fig-08-05": "Ca2+ hujayradan taşqariga yoki sarkoplazmatik retikulumga haydalib, kalsiy ionlari (Ca2+) konsentratsiyasi kritik darajadan pastga tuşganda silliq muskul böşaşadi. Şundan söng Ca2+ kalmoduldan (CaM) ajraladi, miozin fosfatazasi esa miozin yengil zanjiridan fosfatni olib taşlaydi; bu miozin boşçasining aktin filamentidan ajralişiga va silliq muskulning böşaşişiga sabab böladi. ADF — adenozindifosfat; ATF — adenozintrifosfat; Na+ — natriy; P — fosfat.",
+  "gh14-fig-08-06": "Silliq muskulning diffuz tarmoqlanuvçi va neyromediatorni köplab varikozlardan ajratuvçi vegetativ nerv tolalari bilan innervatsiyasi. Unitar (visseral) silliq muskul hujayralari tirqişli birikmalar orqali tutaşgan, şuning uçun depolyarizatsiya bir hujayradan ikkinçisiga tez tarqalib, muskul hujayralariga yagona birlik sifatida qisqariş imkonini beradi. Köp birlikli silliq muskulda har bir hujayra unga yaqin joylaşgan vegetativ nerv varikozlaridan ajralgan neyromediator tomonidan mustaqil qözğatiladi.",
+  "gh14-fig-08-07": "A, Taşqi stimul çaqirgan tipik silliq muskul harakat potensiali (çöqqisimon potensial). B, Içak devori silliq muskulida öz-özidan yuzaga keladigan sekin ritmik elektr tölqinlari çaqirgan takroriy çöqqisimon potensiallar. C, Baçadon silliq muskul tolasidan qayd qilingan platoli harakat potensiali."
+ }
+}

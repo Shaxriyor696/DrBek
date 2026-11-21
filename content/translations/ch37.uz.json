@@ -1,0 +1,406 @@
+{
+ "lessonId": "ch37",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 37,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "machine",
+ "translator": "Gemini API",
+ "model": "gemini-3.5-flash-lite",
+ "createdAt": "2026-11-18T10:39:08.534Z",
+ "updatedAt": "2026-11-18T11:42:25.522Z",
+ "coverage": {
+  "translated": 129,
+  "total": 129
+ },
+ "note": "Kitob matnining töliq özbekça tarjimasi (qisqartirilmagan). Ekspert tekşiruvidan ötmagan.",
+ "blocks": {
+  "ch37-f0": {
+   "text": "Gemostaz hodisalari"
+  },
+  "ch37-f1": {
+   "text": "_Gemostaz_ atamasi qon yöqotilişining oldini olişni anglatadi. Tomir kesilganda yoki yorilganda gemostazga bir neçta mexanizm orqali erişiladi: (1) tomirning torayişi; (2) trombotsitar tiqin hosil bölişi; (3) qon ivişi natijasida qon laxtasi hosil bölişi; (4) tomirdagi teşikni butunlay berkitiş uçun oxir-oqibat qon laxtasiga fibroz töqimaning ösib kirişi."
+  },
+  "ch37-f2": {
+   "text": "Tomirning torayişi"
+  },
+  "ch37-f3": {
+   "text": "Qon tomiri kesilgan yoki yorilgan zahoti tomir devorining jarohatlanişi devordagi silliq muskulning qisqarişiga sabab böladi; bu yorilgan tomirdan qon oqimini bir zumda kamaytiradi. Qisqariş quyidagilar natijasida yuzaga keladi: (1) mahalliy miogen spazm; (2) jarohatlangan töqimalar, tomir endoteliysi va qon trombotsitlaridan ajraladigan mahalliy autakoid omillar; (3) asab reflekslari. Asab reflekslari jarohatlangan tomir yoki yaqin atrofdagi töqimalardan boşlanadigan oğriq asab impulslari yoki boşqa sezuvçi impulslar orqali qözğatiladi. Biroq, ehtimol, vazokonstriksiyaning kattaroq qismi tomir devorining bevosita şikastlanişi bilan qözğatiladigan qon tomirlarining mahalliy _miogen qisqarişi_ natijasida yuzaga keladi. Mayda tomirlarda esa vazokonstriksiyaning katta qismi trombotsitlar tomonidan tomir toraytiruvçi modda — _tromboksan A₂_ ning ajratilişi hisobiga röy beradi."
+  },
+  "ch37-f4": {
+   "text": "Tomir qançalik oğir jarohatlansa, tomir spazmi darajasi şunçalik katta böladi. Spazm köp daqiqalar yoki hatto soatlab davom etişi mumkin; şu vaqt davomida trombotsitar tiqin hosil bölişi va qon ivişi jarayonlari amalga oşişi mumkin."
+  },
+  "ch37-f5": {
+   "text": "Trombotsitar tiqinning hosil bölişi"
+  },
+  "ch37-f6": {
+   "text": "Agar qon tomiridagi kesik juda kiçik bölsa — har kuni butun tana böylab köplab juda kiçik tomir teşiklari paydo böladi — kesik köpinça qon laxtasi bilan emas, balki _trombotsitar tiqin_ bilan berkitiladi. Bu jarayonni tuşuniş uçun avval trombotsitlarning özining tabiatini muhokama qilişimiz muhim."
+  },
+  "ch37-f7": {
+   "text": "Fizik va kimyoviy xususiyatlari"
+  },
+  "ch37-f8": {
+   "text": "Trombotsitlar (ular _qon plastinkalari_ deb ham ataladi) diametri 1–4 mikrometr bölgan mayda disklardir. Ular suyak kömigida kömikdagi juda yirik gemopoetik hujayralar — _megakariotsitlardan_ hosil böladi; megakariotsitlar suyak kömigida yoki qonga tuşgandan köp ötmay, ayniqsa kapillyarlar orqali siqilib ötayotganda mayda trombotsitlarga parçalanadi. Qondagi trombotsitlarning me’yoriy konsentratsiyasi 150 000 dan 450 000/μl gaça."
+  },
+  "ch37-f9": {
+   "text": "Trombotsitlarda yadro bölmasa va ular köpaya olmasa-da, ular töliq hujayralarning köplab funksional xususiyatlariga ega. Ularning sitoplazmasida quyidagilar bor: (1) muskul hujayralaridagi oqsillarga öxşaş qisqaruvçi oqsillar — _aktin_ va _miozin molekulalari_, şuningdek trombotsitlarning qisqarişiga sabab böla oladigan yana bir qisqaruvçi oqsil — _trombostenin_; (2) turli fermentlarni sintezlaydigan va ayniqsa köp miqdorda kalsiy ionlarini zaxiralaydigan _endoplazmatik tör_ va _Golji apparati_ qoldiqlari; (3) _adenozintrifosfat_ (ATF) va _adenozindifosfat_ (ADF) hosil qila oladigan mitoxondriyalar va ferment tizimlari; (4) köplab tomir va boşqa mahalliy töqima reaksiyalarini keltirib çiqaruvçi mahalliy gormonlar — _prostaglandinlarni_ sintezlovçi ferment tizimlari; (5) keyinroq qon ivişi munosabati bilan muhokama qilinadigan _fibrin-stabillovçi omil_ deb ataladigan muhim oqsil; (6) tomir endoteliy hujayralari, tomir silliq muskul hujayralari va fibroblastlarning köpayişi va ösişiga sabab böladigan va şu tariqa oxir-oqibat şikastlangan tomir devorlarini tiklaşga yordam beradigan hujayra ösişini ta’minlovçi _ösiş omili_."
+  },
+  "ch37-f10": {
+   "text": "Trombotsit hujayra membranasining yuzasida _glikoproteinlar_ qatlami bölib, u me’yoriy endoteliyga yopişişga tösqinlik qiladi, ammo tomir devorining _şikastlangan_ sohalariga, ayniqsa şikastlangan endoteliy hujayralariga va undan ham köproq tomir devorining çuqur qavatlaridan oçilib qolgan har qanday kollagenga yopişişni ta’minlaydi. Bundan taşqari, trombotsit membranasida köp miqdorda _fosfolipidlar_ bölib, ular keyinroq muhokama qilinganidek, qon ivişi jarayonining köplab bosqiçlarini faollaştiradi."
+  },
+  "ch37-f11": {
+   "text": "Şunday qilib, trombotsit faol tuzilmadir. Uning qondagi yarim yaşaş davri atigi 8–12 kun, şuning uçun bir neça hafta davomida uning funksional jarayonlari tugaydi; söngra u qon aylanişidan asosan töqima makrofaglari tizimi tomonidan çiqarib taşlanadi. Trombotsitlarning yarmidan köpini taloqdagi makrofaglar yöqotadi; taloqda qon ziç trabekulalar töri orqali ötadi."
+  },
+  "ch37-f12": {
+   "text": "Trombotsitar tiqin hosil böliş mexanizmi"
+  },
+  "ch37-f13": {
+   "text": "Tomir teşiklarining trombotsitlar tomonidan berkitilişi trombotsitning bir neçta muhim funksiyalariga asoslanadi. Trombotsitlar şikastlangan tomir yuzasi bilan, ayniqsa tomir devoridagi kollagen tolalari bilan töqnaşganda öz xususiyatlarini tez va keskin özgartiradi (**Rasm 37-1**). Ular şişa boşlaydi, yuzasidan köplab nursimon _psevdopodiyalar_ çiqib turgan notöğri şaklga kiradi, qisqaruvçi oqsillari kuçli qisqarib, köplab faol omillarni tutuvçi granulalarning ajralib çiqişiga sabab böladi; ular yopişqoq bölib qoladi va töqimalardagi kollagenga hamda plazmadan jarohatlangan töqimaga sizib çiqadigan _fon Villebrand omili_ (vWF) deb ataladigan oqsilga yopişadi. _Trombotsit yuzasi glikoproteinlari_ şikastlangan endoteliy ostidagi oçilib qolgan matriksdagi vWF bilan boğlanadi. Söngra trombotsitlar köp miqdorda _ADF_ va _trombotsitlarni faollaştiruvçi omil_ (PAF) ajratadi, ularning fermentlari esa _tromboksan A₂_ hosil qiladi. Tromboksan vazokonstriktor bölib, ADF va PAF bilan birga yaqin atrofdagi trombotsitlarga ta’sir qilib, ularni ham faollaştiradi; bu qöşimça faollaşgan trombotsitlarning yopişqoqligi ularning dastlabki faollaşgan trombotsitlarga yopişişiga sabab böladi."
+  },
+  "ch37-f15": {
+   "text": "Şu sababli qon tomiri devoridagi teşik joyida şikastlangan tomir devori tobora köproq trombotsitlarni ketma-ket faollaştiradi, ular esa yana ham köproq qöşimça trombotsitlarni öziga tortadi va şu tariqa _trombotsitar tiqin_ hosil böladi. Bu tiqin dastlab böş böladi, ammo tomir teşigi kiçik bölsa, odatda qon yöqotilişini töxtatişga muvaffaq böladi. Söngra keyingi qon ivişi jarayonida _fibrin iplari_ hosil böladi. Bu iplar trombotsitlarga mahkam yopişib, mustahkam tiqin hosil qiladi."
+  },
+  "ch37-f16": {
+   "text": "Trombotsitar tiqin hosil qiliş mexanizmi juda mayda qon tomirlarida har kuni köp minglab marta yuzaga keladigan mayda yorilişlarni berkitiş uçun öta muhim. Darhaqiqat, endoteliy hujayralarining özidagi köplab mayda teşiklar köpinça trombotsitlarning endoteliy hujayralari bilan haqiqatan qöşilib ketib, qöşimça endoteliy hujayra membranalarini hosil qilişi orqali berkitiladi. Qonida trombotsitlar kam bölgan odamda har kuni teri ostida (_petexiyalar_ — terida binafşa yoki qizil nuqtalar körinişida böladi) va butun içki töqimalarda tom ma’noda minglab mayda qon quyiliş öçoqlari paydo böladi. Trombotsitlar soni me’yorda bölgan odamlarda bu hodisa kuzatilmaydi.",
+   "lead": "Tomir teşiklarini berkitişda trombotsitar mexanizmning ahamiyati."
+  },
+  "ch37-f17": {
+   "text": "Yorilgan tomirda qonning ivişi"
+  },
+  "ch37-f18": {
+   "text": "Gemostazning uçinçi mexanizmi — qon laxtasining hosil bölişi. Tomir devori oğir jarohatlangan bölsa, laxta 15–20 sekundda, jarohat yengil bölsa, 1–2 daqiqada hosil böla boşlaydi. Iviş jarayonini jarohatlangan tomir devoridan, trombotsitlardan va jarohatlangan tomir devoriga yopişgan qon oqsillaridan ajraladigan faollaştiruvçi moddalar boşlab beradi. Bu jarayonning fizik hodisalari **Rasm 37-2** da körsatilgan; **Jadval 37-1** da eng muhim iviş omillari keltirilgan."
+  },
+  "ch37-f21": {
+   "text": "Agar tomir teşigi unçalik katta bölmasa, tomir yorilgandan keyin 3–6 daqiqa içida tomirning butun teşigi yoki uzilgan uçi laxta bilan töladi. 20–60 daqiqadan söng laxta qisqaradi (retraksiyalanadi) va tomirni yanada mahkamroq berkitadi. Keyinroq muhokama qilinganidek, laxtaning bu retraksiyasida trombotsitlar ham muhim rol öynaydi."
+  },
+  "ch37-f22": {
+   "text": "Qon laxtalarining fibroz taşkillanişi yoki erişi"
+  },
+  "ch37-f23": {
+   "text": "Qon laxtasi hosil bölgaç, u ikki yöldan birini bosib ötişi mumkin: (1) unga _fibroblastlar_ kirib boradi va keyinçalik butun laxta böylab biriktiruvçi töqima hosil qiladi; yoki (2) u eriydi. Tomir devoridagi kiçik teşikda hosil bölgan laxta uçun odatiy yöl — laxta hosil bölgandan keyin bir neça soat içida boşlanadigan fibroblastlar kirib borişi bölib, bunga heç bölmaganda qisman trombotsitlar ajratadigan _ösiş omili_ yordam beradi. Bu jarayon taxminan 1–2 hafta içida laxta töliq fibroz töqimaga aylangunça davom etadi."
+  },
+  "ch37-f24": {
+   "text": "Aksinça, töqimalarga ortiqça qon sizib çiqib, keraksiz joylarda töqima laxtalari hosil bölganda laxtadagi maxsus moddalar odatda faollaşadi. Bobning keyingi qismida muhokama qilinganidek, bu moddalar laxtani eritadigan fermentlar vazifasini bajaradi."
+  },
+  "ch37-f25": {
+   "text": "Qon ivişi mexanizmi"
+  },
+  "ch37-f26": {
+   "text": "Qonda va töqimalarda qon ivişiga sabab böladigan yoki unga ta’sir qiladigan 50 dan ortiq muhim modda topilgan: ulardan ba’zilari ivişni kuçaytiradi va _prokoagulyantlar_ deb ataladi, boşqalari ivişni tormozlaydi va _antikoagulyantlar_ deb ataladi. Qonning ivişi yoki ivimasligi bu ikki moddalar guruhi örtasidagi muvozanatga boğliq. Qon oqimida me’yorda antikoagulyantlar ustun turadi, şuning uçun qon tomirlarida aylanayotgan qon ivimaydi. Biroq tomir yorilganda töqima şikastlangan sohadagi prokoagulyantlar faollaşib, antikoagulyantlardan ustun keladi va şundan söng laxta hosil böladi."
+  },
+  "ch37-f27": {
+   "text": "Iviş uçta asosiy bosqiçda keçadi: 1. Tomir yorilişi yoki qonning özi şikastlanişiga javoban qonda 12 dan ortiq qon iviş omili iştirok etadigan murakkab kimyoviy reaksiyalar kaskadi yuz beradi. Uning yakuniy natijasi — umumiy nom bilan _protrombin aktivatori_ deb ataladigan faollaşgan moddalar kompleksining hosil bölişi. 2. Protrombin aktivatori protrombinning trombinga aylanişini katalizlaydi. 3. Trombin ferment sifatida ta’sir qilib, fibrinogenni fibrin tolalariga aylantiradi; bu tolalar trombotsitlar, qon hujayralari va plazmani örab olib, laxta hosil qiladi. Avval protrombinning trombinga aylanişidan boşlab qon laxtasining hosil böliş mexanizmini muhokama qilamiz, söngra iviş jarayonining protrombin aktivatori hosil böladigan boşlanğiç bosqiçlariga qaytamiz."
+  },
+  "ch37-f28": {
+   "text": "Protrombinning trombinga aylanişi"
+  },
+  "ch37-f29": {
+   "text": "1. Protrombin aktivatori qon tomirining yorilişi yoki qondagi maxsus moddalarning şikastlanişi natijasida hosil böladi. 2. Protrombin aktivatori yetarli miqdorda ionli kalsiy (Ca2+) iştirokida protrombinning trombinga aylanişiga sabab böladi (**Rasm 37-3** va **Rasm 37-4**). 3. Trombin yana 10–15 sekund içida fibrinogen molekulalarining fibrin tolalariga polimerlanişiga sabab böladi. Şunday qilib, qon ivişida tezlikni çeklovçi omil odatda protrombin aktivatorining hosil bölişi bölib, undan keyingi reaksiyalar emas, çunki bu yakuniy bosqiçlar laxta hosil qiliş uçun odatda tez keçadi."
+  },
+  "ch37-f32": {
+   "text": "Trombotsitlar protrombinning trombinga aylanişida ham muhim rol öynaydi, çunki protrombinning katta qismi avval şikastlangan töqimaga allaqaçon boğlangan trombotsitlardagi protrombin retseptorlariga birikadi."
+  },
+  "ch37-f33": {
+   "text": "Protrombin — molekulyar massasi 68 700 bölgan plazma oqsili, α2-globulin. U me’yoriy plazmada taxminan 15 mg/dl konsentratsiyada böladi. Bu oson kiçikroq birikmalarga parçalanişi mumkin bölgan beqaror oqsil; ulardan biri — molekulyar massasi 33 700, ya’ni protrombinnikining deyarli yarmiga teng bölgan _trombin_.",
+   "lead": "Protrombin va trombin."
+  },
+  "ch37-f34": {
+   "text": "Protrombin jigarda uzluksiz hosil böladi va butun organizmda qon ivişi uçun uzluksiz sarflanadi. Agar jigar protrombin hosil qila olmasa, taxminan bir kun içida plazmadagi protrombin konsentratsiyasi qonning me’yoriy ivişini ta’minlay olmaydigan darajada pasayib ketadi."
+  },
+  "ch37-f35": {
+   "text": "Protrombinning, şuningdek boşqa bir neçta iviş omillarining me’yoriy faollaşuvi uçun jigarga _K vitamini_ zarur. Şu sababli K vitamini yetişmasligi yoki protrombinning me’yoriy hosil bölişiga tösqinlik qiladigan jigar kasalligi protrombinni şu qadar past darajagaça kamaytirişi mumkinki, natijada qon ketişga moyillik yuzaga keladi."
+  },
+  "ch37-f36": {
+   "text": "Fibrinogenning fibringa aylanişi — laxtaning hosil bölişi"
+  },
+  "ch37-f37": {
+   "text": "Fibrinogen — plazmada 100–700 mg/dl miqdorda böladigan yuqori molekulyar massali oqsil (molekulyar massasi ≈340 000). Fibrinogen jigarda hosil böladi va jigar kasalligi, yuqorida qayd etilgan protrombin konsentratsiyasi kabi, qonda aylanib yuruvçi fibrinogen konsentratsiyasini ham kamaytirişi mumkin.",
+   "lead": "Jigarda hosil böladigan fibrinogen laxta hosil bölişi uçun zarur."
+  },
+  "ch37-f38": {
+   "text": "Molekulasi katta bölgani sababli me’yorda qon tomirlaridan interstitsial suyuqliklarga fibrinogen kam sizib çiqadi; fibrinogen iviş jarayonining zarur omillaridan biri bölgani uçun interstitsial suyuqliklar odatda ivimaydi. Biroq kapillyarlarning ötkazuvçanligi patologik ravişda ortganda fibrinogen töqima suyuqliklariga bu suyuqliklarning plazma va butun qon kabi ivişiga imkon beradigan darajada yetarli miqdorda sizib çiqadi."
+  },
+  "ch37-f39": {
+   "text": "Trombin — kuçsiz proteolitik qobiliyatga ega oqsil _ferment_. U fibrinogenga ta’sir qilib, har bir fibrinogen molekulasidan törtta kiçik molekulyar massali peptidni ajratadi va bitta _fibrin monomeri_ molekulasini hosil qiladi; fibrin monomeri boşqa fibrin monomeri molekulalari bilan avtomatik ravişda polimerlanib, fibrin tolalarini hosil qiliş qobiliyatiga ega. Şu sababli köplab fibrin monomeri molekulalari bir neça sekund içida polimerlanib, qon laxtasining _törini_ taşkil etuvçi _uzun fibrin tolalarini_ hosil qiladi.",
+   "lead": "Trombinning fibrinogenga ta’sir qilib fibrin hosil qilişi."
+  },
+  "ch37-f40": {
+   "text": "Polimerlanişning dastlabki bosqiçlarida fibrin monomeri molekulalari kuçsiz nokovalent vodorod boğlari bilan uşlanib turadi va yangi hosil bölayotgan tolalar özaro çoklanmagan böladi. Şu sababli hosil bölgan laxta zaif bölib, oson parçalanişi mumkin. Biroq keyingi bir neça daqiqa davomida fibrin törini ança mustahkamlaydigan yana bir jarayon yuz beradi. Bu jarayonda me’yoriy plazma globulinlarida oz miqdorda böladigan, şuningdek laxtada tutilib qolgan trombotsitlardan ham ajraladigan _fibrin-stabillovçi omil_ deb ataladigan modda iştirok etadi. Fibrin-stabillovçi omil fibrin tolalariga ta’sir qilişidan oldin faollaşişi kerak. Fibrin hosil bölişiga sabab böladigan öşa trombin fibrin-stabillovçi omilni ham faollaştiradi. Söngra bu faollaşgan modda ferment sifatida işlab, tobora köproq fibrin monomeri molekulalari örtasida _kovalent boğlar_ hosil qiladi, şuningdek qöşni fibrin tolalari örtasida köplab köndalang çoklar hosil qilib, fibrin törining uç ölçamli mustahkamligini juda oşiradi."
+  },
+  "ch37-f41": {
+   "text": "Laxta har tomonga yönalgan va qon hujayralari, trombotsitlar hamda plazmani örab olgan fibrin tolalari töridan iborat (qarang: **Rasm 37-4**). Fibrin tolalari qon tomirlarining şikastlangan yuzalariga ham yopişadi; şu sababli qon laxtasi har qanday tomir teşigiga yopişib, qon yöqotilişining davom etişiga tösqinlik qiladi.",
+   "lead": "Qon laxtasi."
+  },
+  "ch37-f42": {
+   "text": "Laxta hosil bölgandan bir neça daqiqa ötgaç, u qisqara boşlaydi va odatda 20–60 daqiqa içida undagi suyuqlikning katta qismini siqib çiqaradi. Siqib çiqarilgan suyuqlik _zardob_ deb ataladi, çunki undan barça fibrinogen va boşqa iviş omillarining köpçiligi çiqarib olingan; zardob şu jihatdan plazmadan farq qiladi va bu omillar yetişmagani uçun ivimaydi.",
+   "lead": "Laxta retraksiyasi va zardobning siqib çiqarilişi."
+  },
+  "ch37-f43": {
+   "text": "Laxta retraksiyasi yuz berişi uçun trombotsitlar zarur. Şu sababli laxta retraksiyasining bölmasligi aylanib yuruvçi qondagi trombotsitlar soni kam bölişi mumkinligidan dalolat beradi. Qon laxtalaridagi trombotsitlarning elektron mikrofotosuratlari ular fibrin tolalariga turli tolalarni haqiqatan bir-biriga boğlaydigan tarzda birikişini körsatadi. Bundan taşqari, laxtada tutilib qolgan trombotsitlar prokoagulyant moddalarni ajratişda davom etadi; ularning eng muhimlaridan biri — qöşni fibrin tolalari örtasida tobora köproq köndalang boğlar hosil qiluvçi _fibrin-stabillovçi omil_. Bundan taşqari, trombotsitlar özidagi qisqaruvçi oqsillar — trombostenin, aktin va miozin molekulalarini faollaştirib, laxta qisqarişiga bevosita hissa qöşadi; ular fibringa birikkan trombotsit ösimtalarining kuçli qisqarişiga sabab böladi. Bu ta’sir fibrin törini kiçikroq massaga siqişga ham yordam beradi. Qisqarişni trombin va trombotsitlarning mitoxondriyalari, endoplazmatik töri va Golji apparatidagi kalsiy zaxiralaridan ajraladigan kalsiy ionlari faollaştiradi va tezlaştiradi."
+  },
+  "ch37-f44": {
+   "text": "Laxta qisqargan sari yorilgan qon tomirining çetlari bir-biriga tortiladi va bu gemostazga yanada köproq hissa qöşadi."
+  },
+  "ch37-f45": {
+   "text": "Laxta hosil bölişining musbat qayta aloqasi"
+  },
+  "ch37-f46": {
+   "text": "Qon laxtasi hosil böla boşlagaç, u odatda bir neça daqiqa içida atrofdagi qonga tarqaladi — ya’ni laxta köproq ivişni kuçaytiruvçi musbat qayta aloqani işga tuşiradi. Laxtaning bunday kuçayişining eng muhim sabablaridan biri şundaki, trombinning proteolitik ta’siri unga fibrinogendan taşqari boşqa köplab qon iviş omillariga ham ta’sir qiliş imkonini beradi. Masalan, trombin protrombinga bevosita proteolitik ta’sir körsatib, uni yana ham köproq trombinga aylantirişga intiladi va protrombin aktivatori hosil bölişiga mas’ul ayrim qon iviş omillariga ta’sir qiladi. (Keyingi xatboşilarda muhokama qilinadigan bu ta’sirlarga VIII, IX, X, XI va XII omillar ta’sirining tezlaşişi va trombotsitlar agregatsiyasi kiradi.) Trombinning kritik miqdori hosil bölgaç, yana ham köproq qon ivişiga va tobora köproq trombin hosil bölişiga sabab böladigan musbat qayta aloqa yuzaga keladi; şu tariqa qon laxtasi qon sizib çiqişi töxtagunça ösişda davom etadi."
+  },
+  "ch37-f47": {
+   "text": "Ivişning boşlanişi: protrombin aktivatorining hosil bölişi"
+  },
+  "ch37-f48": {
+   "text": "Iviş jarayonini muhokama qilganimizdan söng endi ivişni dastlab boşlab beradigan murakkabroq mexanizmlarni bayon qilamiz. Bu mexanizmlar quyidagilar ta’sirida işga tuşadi: (1) tomir devori va unga tutaş töqimalarning jarohatlanişi; (2) qonning şikastlanişi; yoki (3) qonning şikastlangan endoteliy hujayralari yoki qon tomiridan taşqaridagi kollagen va boşqa töqima elementlari bilan töqnaşuvi. Har bir holatda bu _protrombin aktivatorining_ hosil bölişiga olib keladi, u esa protrombinning trombinga aylanişiga va keyingi barça iviş bosqiçlariga sabab böladi."
+  },
+  "ch37-f49": {
+   "text": "Odatda protrombin aktivatori ikki yöl bilan hosil böladi, deb hisoblanadi, ammo aslida bu ikki yöl doimo bir-biri bilan özaro ta’sirlaşadi: (1) tomir devori va atrofdagi töqimalarning jarohatlanişidan boşlanadigan _taşqi yöl_; (2) qonning özida boşlanadigan _içki yöl_."
+  },
+  "ch37-f50": {
+   "text": "Taşqi yölda ham, içki yölda ham _qon iviş omillari_ deb ataladigan bir qator turli plazma oqsillari asosiy rol öynaydi. Bu oqsillarning aksariyati proteolitik fermentlarning _nofaol_ şakllaridir. Ular faol şakllarga aylantirilganda ularning fermentativ ta’siri iviş jarayonining ketma-ket, kaskadsimon reaksiyalarini keltirib çiqaradi."
+  },
+  "ch37-f51": {
+   "text": "**Jadval 37-1** da keltirilgan iviş omillarining köpçiligi rim raqamlari bilan belgilanadi. Omilning faollaşgan şaklini körsatiş uçun rim raqamidan keyin kiçik “a” harfi qöşiladi, masalan, VIII omilning faollaşgan holatini körsatiş uçun VIIIa omil deb yoziladi."
+  },
+  "ch37-f52": {
+   "text": "Ivişni boşlaşning taşqi yöli"
+  },
+  "ch37-f53": {
+   "text": "Protrombin aktivatori hosil bölişini boşlab beruvçi taşqi yöl qon bilan töqnaşadigan jarohatlangan tomir devori yoki jarohatlangan tomirdan taşqari töqimalardan boşlanadi. Bu holat **Rasm 37-4** va **Rasm 37-5** da körsatilganidek, quyidagi bosqiçlarga olib keladi: 1. _Töqima omilining ajralib çiqişi._ Jarohatlangan töqima _töqima omili_ yoki _töqima tromboplastini_ deb ataladigan bir neçta omillar kompleksini ajratadi. Bu omil asosan töqima membranalaridan ajralgan _fosfolipidlar_ va asosan _proteolitik ferment_ vazifasini bajaruvçi _lipoprotein kompleksidan_ iborat. 2. _X omilning faollaşuvi — VII omil va töqima omilining roli._ Töqima omilining lipoprotein kompleksi qon ivişining VII omili bilan yana kompleks hosil qiladi va kalsiy ionlari iştirokida X omilga fermentativ ta’sir körsatib, _faollaşgan X omilni_ (Xa) hosil qiladi. 3. _Xa ning protrombin aktivatorini hosil qilişdagi ta’siri — V omilning roli._ Faollaşgan X omil darhol töqima omillari tarkibiga kiruvçi töqima fosfolipidlari yoki trombotsitlardan ajralgan qöşimça fosfolipidlar, şuningdek V omil bilan birikib, _protrombin aktivatori_ deb ataladigan kompleksni hosil qiladi. Bir neça sekund içida Ca2+ iştirokida protrombin parçalanib trombin hosil böladi va iviş jarayoni yuqorida tuşuntirilganidek davom etadi. Dastlab protrombin aktivatori kompleksidagi V omil nofaol böladi, ammo iviş boşlanib, trombin hosil böla boşlagaç, trombinning proteolitik ta’siri V omilni faollaştiradi. Söngra bu faollaşuv protrombin faollaşuvining qöşimça kuçli tezlatgiçiga aylanadi. Şunday qilib, yakuniy protrombin aktivatori kompleksida protrombinni parçalab, trombin hosil qiluvçi haqiqiy proteaza faollaşgan X omil hisoblanadi. Faollaşgan V omil bu proteaza faolligini juda tezlaştiradi, trombotsit fosfolipidlari esa jarayonni yanada tezlaştiruvçi taşuvçi vazifasini bajaradi. Ayniqsa, trombinning V omil orqali ta’sir qilib, jarayon boşlangaç uni butunlay tezlaştiradigan _musbat qayta aloqa_ ta’siriga e’tibor bering."
+  },
+  "ch37-f55": {
+   "text": "Ivişni boşlaşning içki yöli"
+  },
+  "ch37-f56": {
+   "text": "Protrombin aktivatori hosil bölişini va demak, ivişni boşlab beruvçi ikkinçi mexanizm _qonning şikastlanişi yoki qonning jarohatlangan qon tomiri devoridagi kollagen bilan töqnaşuvidan boşlanadi_. Söngra jarayon **Rasm 37-6** da körsatilgan kaskadsimon reaksiyalar ketma-ketligi orqali davom etadi. 1. _Qonning şikastlanişi (1) XII omilning faollaşuviga va (2) trombotsit fosfolipidlarining ajralib çiqişiga sabab böladi._ Qonning şikastlanişi yoki qonning tomir devori kollageni bilan töqnaşuvi qondagi ikkita muhim iviş omilini — XII omil va trombotsitlarni özgartiradi. XII omil, masalan, kollagen yoki şişa kabi höllanuvçi yuza bilan töqnaşib bezovtalanganda yangi molekulyar konfiguratsiyaga ega böladi va bu uni _faollaşgan XII omil_ deb ataladigan proteolitik fermentga aylantiradi. Bir vaqtning özida qonning şikastlanişi kollagenga yoki höllanuvçi yuzaga yopişiş (yoki boşqa yöllar bilan şikastlaniş) tufayli trombotsitlarni ham şikastlaydi; bu keyingi iviş reaksiyalarida ham rol öynaydigan _trombotsitlarning 3-omili_ deb ataladigan lipoproteinni tutuvçi trombotsit fosfolipidlarini ajratib çiqaradi. 2. _XI omilning faollaşuvi._ Faollaşgan XII omil XI omilga ham fermentativ ta’sir körsatib, uni faollaştiradi; bu içki yölning ikkinçi bosqiçi. Bu reaksiya uçun _yuqori molekulyar massali kininogen_ ham zarur va uni prekallikrein tezlaştiradi. 3. _IX omilning faollaşgan XI omil tomonidan faollaşuvi._ Söngra faollaşgan XI omil IX omilga fermentativ ta’sir körsatib, uni ham faollaştiradi. 4. _X omilning faollaşuvi — VIII omilning roli._ Faollaşgan IX omil faollaşgan VIII omil hamda şikastlangan trombotsitlardan ajralgan trombotsit fosfolipidlari va III omil bilan birgalikda ta’sir qilib, X omilni faollaştiradi. Ravşanki, VIII omil yoki trombotsitlar yetişmaganda bu bosqiç nuqsonli böladi. VIII omil klassik _gemofiliyasi_ bölgan odamda yetişmaydigan omil bölib, şuning uçun u _antigemofilik omil_ deb ataladi. Trombotsitlar esa _trombotsitopeniya_ deb ataladigan qon ketiş kasalligida yetişmaydigan iviş omilidir. 5. _Faollaşgan X omilning protrombin aktivatorini hosil qilişdagi ta’siri — V omilning roli._ Içki yölning bu bosqiçi taşqi yölning sönggi bosqiçi bilan bir xil. Ya’ni faollaşgan X omil V omil hamda trombotsit yoki töqima fosfolipidlari bilan birikib, _protrombin aktivatori_ deb ataladigan kompleksni hosil qiladi. Protrombin aktivatori öz navbatida bir neça sekund içida protrombinning parçalanib trombin hosil qilişini boşlab beradi va şu bilan yuqorida bayon qilingan yakuniy iviş jarayonini işga tuşiradi."
+  },
+  "ch37-f58": {
+   "text": "Kalsiy ionlarining içki va taşqi yöllardagi roli"
+  },
+  "ch37-f59": {
+   "text": "Içki yölning dastlabki ikki bosqiçidan taşqari, barça qon iviş reaksiyalarini kuçaytiriş yoki tezlaştiriş uçun kalsiy ionlari zarur. Şu sababli kalsiy ionlari bölmaganda qon ikkala yöl bilan ham ivimaydi."
+  },
+  "ch37-f60": {
+   "text": "Tirik organizmda kalsiy ionlari konsentratsiyasi qon ivişi kinetikasiga sezilarli ta’sir qiladigan darajada kamdan-kam pasayadi. Biroq odamdan qon olinganda kalsiy ionlari konsentratsiyasini iviş uçun zarur bölgan bösağa darajasidan pastga tuşiriş orqali uning ivişining oldini oliş mumkin; buning uçun kalsiyni _sitrat ioni_ kabi moddalar bilan reaksiyaga kiritib ionsizlantiriladi yoki _oksalat ioni_ kabi moddalar bilan çöktiriladi."
+  },
+  "ch37-f61": {
+   "text": "Taşqi va içki yöllarning özaro ta’siri — qon ivişi boşlanişining xulosasi"
+  },
+  "ch37-f62": {
+   "text": "Içki va taşqi tizimlar sxemalaridan körinib turibdiki, qon tomirlari yorilgandan keyin iviş ikkala yöl orqali bir vaqtda yuz beradi. Töqima omili taşqi yölni boşlab beradi, XII omil va trombotsitlarning tomir devoridagi kollagen bilan töqnaşuvi esa içki yölni boşlab beradi."
+  },
+  "ch37-f63": {
+   "text": "Taşqi va içki yöllar örtasidagi ayniqsa muhim farq şundaki, _taşqi yöl_ portlaşsimon bölişi mumkin; u boşlangaç, yakuniy laxtagaça yetib boriş tezligi faqat jarohatlangan töqimalardan ajralgan töqima omili miqdori hamda qondagi X, VII va V omillar miqdori bilan çeklanadi. Töqima oğir jarohatlanganda iviş atigi 15 sekundda yuz berişi mumkin. Içki yöl ança sekin keçadi va iviş yuzaga kelişi uçun odatda 1–6 daqiqa talab qilinadi."
+  },
+  "ch37-f64": {
+   "text": "Tomir içidagi antikoagulyantlar me’yoriy tomir tizimida qon ivişining oldini oladi"
+  },
+  "ch37-f65": {
+   "text": "Me’yoriy tomir tizimida ivişning oldini oluvçi, ehtimol, eng muhim omillar quyidagilar: (1) içki iviş tizimining kontakt orqali faollaşuviga tösqinlik qiluvçi endoteliy hujayralari yuzasining _silliqligi_; (2) endoteliydagi _glikokaliks_ qatlami (glikokaliks — endoteliy hujayralari yuzasiga adsorbsiyalangan mukopolisaxarid), u iviş omillari va trombotsitlarni itarib, ivişning faollaşuviga tösqinlik qiladi; (3) endoteliy membranasi bilan boğlangan, trombinni boğlovçi oqsil — _trombomodulin_. Trombinning trombomodulin bilan boğlanişi nafaqat trombinni çetlatib, iviş jarayonini sekinlaştiradi, balki trombomodulin-trombin kompleksi faollaşgan V va VIII omillarni _nofaollaştirib_, antikoagulyant sifatida ta’sir qiluvçi plazma oqsili — _C oqsilni_ ham faollaştiradi.",
+   "lead": "Endoteliy yuzasi omillari."
+  },
+  "ch37-f66": {
+   "text": "Endoteliy devori şikastlanganda uning silliqligi va glikokaliks-trombomodulin qatlami yöqoladi, bu esa XII omilni ham, trombotsitlarni ham faollaştirib, ivişning içki yölini işga tuşiradi. Agar XII omil va trombotsitlar endoteliy ostidagi kollagen bilan töqnaşsa, faollaşuv yanada kuçliroq böladi."
+  },
+  "ch37-f67": {
+   "text": "Intakt endotel hujayralari, şuningdek, trombotsitlar agregatsiyasini va qon ivişining boşlanişini inhibirlovçi _ prostatsiklin _ va _ azot oksidi _ (NO) kabi boşqa moddalarni ham hosil qiladi. Prostatsiklin, şuningdek prostaglandin I2 (PGI2) deb ham ataladi, lipidlarning eikozanoid oilasiga kiradi hamda vazodilatator, şuningdek trombotsitlar agregatsiyasining inhibitori hisoblanadi. 17-bobda muhokama qilinganidek, NO butun tana böylab soğlom qon tomir endotelial hujayralaridan ajralib çiqadigan kuçli vazodilatator bölib, u trombotsitlar agregatsiyasining muhim inhibitoridir. Endotelial hujayralar şikastlanganda ularning prostatsiklin va NO işlab çiqarişi keskin kamayadi."
+  },
+  "ch37-f68": {
+   "text": "Qondagi eng muhim _ antikoagulyantlar _ qondan trombininib olib taşlaydiganlardir. Ularning eng kuçlilari quyidagilardir: (1) iqiş jarayonida hosil böladigan _ fibrin tolalari _; va (2) _ antitrombin III _ yoki _ antitrombin-geparin kofaktori _ deb ataladigan α globulin.",
+   "lead": "Fibrin va antitrombin III ning antitrombin ta’siri."
+  },
+  "ch37-f69": {
+   "text": "Ict hosil bölayotganda protrasmindan hosil böladigan trombine 85% dan 90% gaça qismi ular rivojlanişi bilan fibrin tolalariga yutiladi (adsorbsiyalanadi). Bu adsorbsiya trombinning qolgan qonga tarqalişining oldini olişga yordam beradi va şuning uçun iqişning haddan taşqari tarqalişining oldini oladi."
+  },
+  "ch37-f70": {
+   "text": "Fibrin tolalariga yutilmagan trombin tez orada antitrombin III bilan birikadi. Bu trombinning fibrinogenga ta’sirini yanada bloklaydi va keyinçalik kelgusi 12-20 daqiqa davomida trombinning özini ham nofaollaştiradi."
+  },
+  "ch37-f71": {
+   "text": "Geparin yana bir kuçli antikoagulyant hisoblanadi, lekin uning qondagi konsentratsiyasi odatda past bölgani sababli u faqat maxsus fiziologik şaroitlardagina sezilarli antikoagulyant ta’sir körsatadi. Biroq, geparin tibbiy amaliyotda tomir içidagi iqişning oldini oliş uçun ança yuqori konsentratsiyalarda farmakologik vosita sifatida keng qöllaniladi.",
+   "lead": "Geparin."
+  },
+  "ch37-f72": {
+   "text": "Geparin molekulasi yuqori darajada manfiy zaryadlangan konyugatsiyalangan polisaharid hisoblanadi. Uning özi ozgina antikoagulyant xususiyatlarga ega yoki umuman ega emas, ammo u antitrombin III bilan birlaşganda, antitrombin III ning trombinni bartaraf etiş samaradorligi yuz martadan ming martagaça oşadi va şu tariqa antikoagulyant sifatida işlaydi. Şuning uçun, ortiqça geparin mavjud bölganda, aylanma qondan erkin trombinning antitrombin III orqali olib taşlanişi deyarli bir zumda sodir böladi."
+  },
+  "ch37-f73": {
+   "text": "Geparin va antitrombin III kompleksi trombindan taşqari boşqa bir neçta faollaşgan iqiş omillarini ham olib taşlaydi va bu antikoagulyatsiya samaradorligini yanada oşiradi. Boşqalarga IX dan XII gaça bölgan faollaşgan omillar kiradi."
+  },
+  "ch37-f74": {
+   "text": "Geparin tananing köplab turli xil hujayralari tomonidan işlab çiqariladi, ammo eng katta miqdori butun tana böylab perikapillar biriktiruvçi töqimalarida joylaşgan bazofil _ semiz hujayralar (mast hujayralar) _ tomonidan hosil qilinadi. Bu hujayralar qon aylaniş tizimiga diffuziyalanuvçi oz miqdordagi geparinni doimiy ravişda ajratib çiqaradi. Funktsional jihatdan semiz hujayralarga deyarli bir xil bölgan qonning _ bazofil hujayralari _ plazmaga oz miqdordagi geparinni çiqaradi."
+  },
+  "ch37-f75": {
+   "text": "Semiz hujayralar öpka kapillyarlarini örab turgan töqimalarda va kamroq darajada jigar kapillyarlarida köp miqdorda uçraydi. Nima uçun bu sohalarda köp miqdorda geparin kerak bölişini tuşuniş oson, çunki öpka va jigar kapillyarlari asta-sekin oqadigan vena qonida hosil bölgan köplab embolik ixlarni qabul qiladi; geparinning yetarli darajada işlab çiqarilişi ixlarning keyingi ösişining oldini oladi."
+  },
+  "ch37-f77": {
+   "text": "Plazma oqsillari tarkibida _ plazminogen (profibrinolizin) _ deb ataladigan euglobulin mavjud bölib, u faollaşganda _ plazmin (fibrinolizin) _ deb ataladigan moddaga aylanadi. Plasmin – bu oşqozon osti bezi sekretining eng muhim proteolitik hazm qiluvçi fermenti bölgan tripsinga öxşaş proteolitik ferment. Plasmin fibrin tolalarini va fibrinogen, V omil, VIII omil, prothrombin va XII omil kabi boşqa ba’zi oqsil ixlarni parçalaydi. Şuning uçun, qaçonki plazmin hosil bölsa, u köplab iqiş omillarini yöq qiliş orqali ixning lizisiga sabab bölişi mumkin, şu bilan ba’zida hatto qonning gipokoagulyatsiyasini ham keltirib çiqaradi."
+  },
+  "ch37-f78": {
+   "text": "Ix hosil bölganda, boşqa plazma oqsillari bilan birga ix içida köp miqdordagi plazminogen tutilib qoladi. U faollaştirilmagunça plazminga aylanmaydi yoki ixning lizingini keltirib çiqarmaydi. Şikastlangan töqimalar va qon tomir endoteliysi juda sekinlik bilan _ töqima plazminogen faollaştiruvçisi _ (t-PA) deb ataladigan kuçli faollaştiruvçini çiqaradi; bir neça kun ötgaç, ix qon ketişini töxtatgandan söng, t-PA oxir-oqibat plazminogenni plazmaga aylantiradi, bu öz navbatida qolgan keraksiz qon ixtarini yöq qiladi. Aslida, qon oqimi ixtar bilan tösib qöyilgan köplab kiçik qon tomirlari uşbu mexanizm yordamida qaytadan oçiladi. Şuningc, plazmin tizimining ayniqsa muhim vazifasi – agar ularni tozalaşning boşqa usuli bölmaganida oxir-oqibat berkilib qoladigan millionlab mayda periferik tomirlardan mayda ixlarni olib taşlaşdir.",
+   "lead": "Plasmin hosil qiliş uçun plazminogenning faollaşişi, söngra ix lizisi."
+  },
+  "ch37-f80": {
+   "text": "Haddan taşqari qon ketiş köplab qon iqiş omillaridan birortasining yetişmovçiligidan kelib çiqişi mumkin. Eng köp örganilgan qon ketiş tendentsiyalarining uçta alohida turi bu yerda muhokama qilinadi – (1) K vitamini yetişmovçiligi, (2) gemofiliya va (3) trombotsitopeniya (trombotsitlar yetişmovçiligi) tufayli kelib çiqadigan qon ketişlar."
+  },
+  "ch37-f82": {
+   "text": "Kamdan-kam istisnolar bilan, deyarli barça qon iqiş omillari jigar tomonidan hosil qilinadi. Şuning uçun _ gepatit _, _ sirroz _ va _ ötkir sariq atrofiya _ (toksinlar, infektsiyalar yoki boşqa agentlar keltirib çiqaradigan jigar degeneratsiyasi) kabi jigar kasalliklari ba’zida iqiş tizimini şunçalik susaytirişi mumkinki, bemorda oğir qon ketiş tendentsiyasi rivojlanadi."
+  },
+  "ch37-f83": {
+   "text": "Jigar tomonidan iqiş omillari hosil bölişining pasayişining yana bir sababi K vitamini yetişmovçiligidir. K vitamini beşta muhim iqiş omillarining – _ prothrombin _, _ VII omil _, _ IX omil _, _ X omil _ va _ S oqsilning _ – glutamat qoldiqlariga karboksil guruhini qöşadigan jigar karboksilazasi uçun muhim omil hisoblanadi. Yetuk bölmagan iqiş omillaridagi glutamat qoldiqlariga karboksil guruhi qöşilganda, K vitamini oksidlanadi va nofaol bölib qoladi. Boşqa bir ferment – _ K vitamini epoksid reduktaza kompleksi 1 _ (VKORC1) K vitaminini yana özining faol şakliga qaytarib qaytaradi (tiklaydi). Faol K vitamini bölmaganda, qonda uşbu koagulyatsiya omillarining keyingi yetişmovçiligi jiddiy qon ketiş tendentsiyalariga olib kelişi mumkin."
+  },
+  "ch37-f84": {
+   "text": "K vitamini içak trakti tomonidan bakteriyalar tomonidan doimiy ravişda sintez qilinadi, şuning uçun soğlom odamlarda dietadan K vitaminining yöqligi natijasida K vitamini yetişmovçiligi juda kam uçraydi (çayonlarda, içak bakterial florasini örnatişidan oldin bundan mustasno). Biroq, oşqozon-içak trakti kasalliklari bölgan odamlarda K vitamini yetişmovçiligi köpinça oşqozon-içak traktidan yoğlarning yomon sörilişi natijasida yuzaga keladi, çunki K vitamini yoğda eriydi va odatda yoğlar bilan birga qonga söriladi."
+  },
+  "ch37-f85": {
+   "text": "K vitamini yetişmovçiligining eng keng tarqalgan sabablaridan biri öt yöllarining tıkanması yoki jigar kasalligi natijasida yuzaga keladigan jigar tomonidan oşqozon-içak traktiga safro ajratib çiqarilmasligidir. Safroning yöqligi yoğlarning yetarli darajada hazm bölişi va sörilişining oldini oladi va şuning uçun K vitaminining sörilişini ham susaytiradi. Şunday qilib, jigar kasalligi köpinça K vitaminining yomon sörilişi va kasallangan jigar hujayralari tufayli protrombin va boşqa ba’zi iqiş omillarining kam işlab çiqarilişiga olib keladi. Natijada, jarrohlik amaliyotini bajarişdan oldin jigar kasalligi yoki öt yöllari tiqilib qolgan jarrohlik bemorlariga K vitamini yuboriladi. Odatda, agar K vitamini yetişmovçiligi bölgan bemorga operatsiyadan 4-8 soat oldin berilsa va jigar parenxima hujayralari funktsiyasi böyiça kamida yarim normal bölsa, operatsiya paytida haddan taşqari qon ketişining oldini oliş uçun yetarli iqiş omillari işlab çiqariladi."
+  },
+  "ch37-f86": {
+   "text": "Gemofiliya – bu deyarli faqat erkaklarda uçraydigan qon ketiş kasalligi. Holatlarning 85% ida u _ VIII omilning normadan oğişi yoki yetişmovçiligi _ tufayli yuzaga keladi; gemofiliyaning bu turi _ gemofiliya A _ yoki _ klassik gemofiliya _ deb ataladi. Qöşma Ştatlardagi har 10 000 ta erkakdan taxminan 1 tasida klassik gemofiliya mavjud. _ Gemofiliya B _ bilan oğrigan bemorlarning qolgan 15% ida qon ketiş tendentsiyasi IX omil yetişmovçiligidan kelib çiqadi. Uşbu ikkala omil ham ayol (X) xromosomasi orqali irsiylanadi va ularning irsiylanişida retsessiv hisoblanadi. Şuning uçun ayolda gemofiliya kamdan-kam hollarda uçraydi, çunki uning ikkita X xromosomalaridan kamida bittasida tegişli genlar böladi. Agar uning X xromosomalaridan biri yetişmovçilikka ega bölsa, u _ gemofiliya taşuvçisi _ böladi; uning erkak avlodlari kasallikni meros qilib oliş ehtimoli 50% ni taşkil qiladi va uning ayol avlodlari taşuvçi maqomini meros qilib oliş ehtimoli 50% ni taşkil qiladi."
+  },
+  "ch37-f76": {
+   "text": "PLASMIN CAUSES LYSIS OF BLOOD CLOTS"
+  },
+  "ch37-f79": {
+   "text": "CONDITIONS THAT CAUSE EXCESSIVE BLEEDING IN HUMANS"
+  },
+  "ch37-f81": {
+   "text": "DECREASED PROTHROMBIN, FACTOR VII, FACTOR IX, AND FACTOR X CAUSED BY VITAMIN K DEFICIENCY"
+  },
+  "ch37-f87": {
+   "text": "Garçi ayol taşuvçilar bitta normal allelga ega bölsa va odatda simptomatik gemofiliya rivojlanmasa ham, ba’zilari yengil qon ketiş belgisini boşdan keçirişi mumkin. Şuningdek, normal X xromosomaning bir qismi yoki hammasi yöqolişi (_Tyorner sindromi_ kabi) yoki X xromosomalarning inaktivatsiyasi _(lionizatsiya)_ tufayli ayol taşuvçilarda yengil gemofiliya rivojlanişi mumkin. Ayolda töliq namoyon böluvçi simptomatik gemofiliya A yoki B irsiylanişi uçun u ikkita nuqsonli X xromosomani olişi kerak, ulardan biri uning taşuvçi onasidan, ikkinçisi esa gemofiliyaga çalingan otasidan bölişi şart. Gemofiliya holatlarining aksariyati irsiylanadi, biroq gemofiliya bilan oğrigan bemorlarning qariyb uçdan birida kasallikning oilaviy tarixi yöq, bu esa yangi mutatsiya hodisalaridan kelib çiqadiganga öxşaydi."
+  },
+  "ch37-f88": {
+   "text": "Gemofiliyadagi qon ketiş belgisi genetik yetişmovçilikka qarab turli darajadagi oğirlikka ega bölişi mumkin. Travmadan taşqari qon ketiş odatda yuzaga kelmaydi, ammo ayrim bemorlarda oğir va uzoq davom etuvçi qon ketişni keltirib çiqariş uçun zarur bölgan travma darajasi şunçalik yengil böladiki, uni payqaş qiyin. Masalan, tişni suğurgandan keyin köpinça qon ketiş bir neça kungaça davom etişi mumkin."
+  },
+  "ch37-f89": {
+   "text": "VIII omil ikkita faol komponentga ega: millionlab molekulyar oğirlikka ega katta komponent va molekulyar oğirligi taxminan 230 000 bölgan kiçikroq komponent. Kiçikroq komponent ivişning içki yölida eng muhimi hisoblanadi va klassik gemofiliyani keltirib çiqaradigan VIII omilning aynan şu qismi yetişmovçiligidir. Bir oz boşqaça xususiyatlarga ega bölgan yana bir qon ketiş kasalligi _fon Villebrand kasalligi_ deb atalib, katta komponentning yöqolişi natijasida yuzaga keladi."
+  },
+  "ch37-f90": {
+   "text": "Klassik gemofiliya bilan oğrigan odamda oğir uzoq davom etuvçi qon ketiş kuzatilganda, deyarli yagona haqiqiy samarali terapiya bu tozalangan VIII omil yoki IX omilni yuborişdir. Uşbu ikkala iviş omillari hozirda rekombinant oqsillar sifatida mavjud, garçi ular qimmat bölsa-da va ularning yarimparçalaniş davri nisbatan qisqa; şuning uçun bu mahsulotlar köplab gemofiliya bemorlari uçun, ayniqsa iqtisodiy jihatdan noçor mamlakatlarda osonlikça mavjud emas."
+  },
+  "ch37-f91": {
+   "text": "Trombotsitopeniya sirkulyatsiya qiluvçi qonda trombotsitlar sonining juda kamligini anglatadi. Trombotsitopeniyasi bölgan odamlarda gemofiliya bilan oğrigan bemorlardek qon ketiş tendensiyasi mavjud, faqat gemofiliyadagidek yirik qon tomirlaridan emas, balki qon ketiş odatda köplab mayda venulalar yoki kapilyarlardan sodir böladi. Natijada, butun tana töqimalari böylab mayda nuqtali qon quyilişlar yuzaga keladi. Bunday odamning terisi köplab mayda _petexiyalar_, qizil yoki binafşarang doğlarni namoyon qiladi, bu esa kasallikka _trombotsitopenik purpura_ nomini beradi. Ta’kidlab ötilganidek, trombotsitlar kapilyarlar va boşqa kiçik tomirlardagi mayda uzilişlarni tiklaş uçun ayniqsa muhimdir."
+  },
+  "ch37-f92": {
+   "text": "Normal qiymati 150 000 – 450 000 /μl bölişi bilan soliştirganda, 30 000 /μl dan past bölgan trombotsitlar soni operatsiya yoki jarohatdan keyin ortiqça qon ketiş xavfini oşiradi. Biroq, qondagi trombotsitlar soni 30 000 /μl dan pastga tuşmagunça, öz-özidan qon ketiş odatda sodir bölmaydi. 10 000 /μl gaça past darajalar köpinça ölimga olib keladi."
+  },
+  "ch37-f93": {
+   "text": "Qondagi maxsus trombotsitlar sonini aniqlamasdan ham, ba’zida odamning qon laxtasi qisqarmasa (retraksiyaga uçramasa), trombotsitopeniya mavjudligidan şubha qiliş mumkin. Oldin ta’kidlab ötilganidek, laxta rektraksiyasi odatda laxtaning fibrin töriga tuşib qolgan köp sonli trombotsitlardan bir neçta koagulyatsiya omillarining ajralib çiqişiga boğliq böladi."
+  },
+  "ch37-f94": {
+   "text": "Trombotsitopeniyaning asosiy sabablariga quyidagilar kiradi: (1) infeksiyalar yoki sepsis, oziq moddalar tanqisligi yoki mielodisplastik kasalliklar tufayli suyak kömigida trombotsitlar hosil bölişining kamayişi, bu odatda boşqa hujayralar (qizil qon hujayralari [Eritrotsitlar] va oq qon hujayralari) hosil bölişini ham kamaytiradi; (2) antikorlar tomonidan periferik trombotsitlar parçalanişi; (3) taloqda trombotsitlarning sekvestratsiyasi (töplanişi), ayniqsa portal gipertenziyasi va taloqi haddan taşqari katta bölgan şaxslarda (spleenomegaliya); (4) trombda trombotsitlar iste’moli; va (4) suyuqlikni tiklaş yoki ommaviy quyiş natijasida qonning suyulişi."
+  },
+  "ch37-f95": {
+   "text": "Trombotsitopeniyasi bölgan köpçilik odamlar _idiopatik trombotsitopeniya_ deb nomlanuvçi kasallikka ega, bu noma’lum sababga köra kelib çiqqan trombotsitopeniyani anglatadi. Uşbu odamlarning aksariyatida noma’lum sabablarga köra maxsus antikorlar hosil bölişi va trombotsitlarga qarşi ta’sir qilib ularni yöq qilişi aniqlangan. Köp sonli trombotsitlarni öz içiga olgan _yangi butun qon quyişlarini_ beriş orqali trombotsitopeniyasi bölgan bemorda 1 – 4 kun davomida qon ketişidan xalos bölişga köpinça erişiş mumkin. Şuningdek, _slektomiya_ (taloqni olib taşlaş) foydali bölişi mumkin, bu ba’zida deyarli töliq tuzalişga olib keladi, çunki taloq odatda qondan köp sonli trombotsitlarni olib taşlaydi."
+  },
+  "ch37-f96": {
+   "text": "THROMBOEMBOLIC CONDITIONS"
+  },
+  "ch37-f100": {
+   "text": "FEMORAL VENOUS THROMBOSIS AND MASSIVE PULMONARY EMBOLISM"
+  },
+  "ch37-f101": {
+   "text": "Tananing har qanday tomirida qon oqimi köp soat davomida tösib qöyilganda deyarli har doim iviş sodir bölişi sababli, töşakka yotqizib qöyilgan bemorlarning harakatsizligi, şuningdek tizzalarni yostiqlar bilan kötarib qöyiş amaliyoti köpinça oyoq venalarining birida yoki bir neçtasida qonning turğunligi tufayli bir vaqtning özida bir neça soat davomida tomir içi ivişini keltirib çiqaradi. Keyin laxta asosan sekin harakatlanuvçi venoz qon yönalişi böyiça ösadi, ba’zida oyoq venalarining butun uzunligi böylab va ba’zida hatto umumiy yonboş venasiga hamda pastki kovak venagaça ösib çiqadi. Vaqtning taxminan 10%ida laxtaning katta qismi tomir devoriga birikmalaridan ajralib çiqadi va venoz qon bilan birga yurakning öng yarmi orqali va öpka arteriyalariga oqib ötib, öpka arteriyalarining ommaviy tiqilib qolişiga sabab böladi; bu _ommaviy öpka emboliyasi_ deb ataladi. Agar laxta ikkala öpka arteriyasini bir vaqtning özida okklyuziya qiliş uçun yetarliça katta bölsa, darhol ölim yuz beradi. Agar faqat bitta öpka arteriyasi tiqilib qolsa, ölim yuz bermasligi mumkin yoki öpka tomirlarida laxtaning yanada ösişi tufayli emboliya bir neça soatdan bir neça kun ötgaç ölimga olib kelişi mumkin. Biroq, yana bir bor t-PA terapiyasi hayotni saqlab qolişi mumkin."
+  },
+  "ch37-f102": {
+   "text": "DISSEMINATED INTRAVASCULAR COAGULATION"
+  },
+  "ch37-f103": {
+   "text": "Vaqti-vaqti bilan iviş mexanizmi sirkulyatsiyaning keng tarqalgan sohalarida faollaşib qoladi, bu _tarqalgan tomir içi koagulyatsiyasi_ (DVS) deb ataladigan holatni keltirib çiqaradi. Bu holat köpinça tanada qonga köp miqdorda töqima omilini çiqaradigan jarohatlangan yoki ölayotgan töqimalarning katta miqdori mavjudligi natijasida kelib çiqadi. Köpinça laxtalar kiçik, ammo köp sonli böladi va ular mayda periferik qon tomirlarining katta qismini tiqib qöyadi. Bu jarayon ayniqsa sirkulyatsiya qiluvçi bakteriyalar yoki bakterial toksinlar — ayniqsa _endotoksinlar_ — iviş mexanizmlarini faollaştiradigan keng tarqalgan _septisemiya_ bilan oğrigan bemorlarda sodir böladi. Mayda periferik tomirlarning tiqilib qolişi töqimalarga kislorod va boşqa oziq moddalarning yetkazib berilişini sezilarli darajada kamaytiradi, bu vaziyat sirkulyator şokka olib keladi yoki uni kuçaytiradi. Qisman şu sababga köra _septik şok_ bemorlarning 35% – 50%ida ölimga olib keladi."
+  },
+  "ch37-f104": {
+   "text": "Tarqalgan tomir içi koagulyatsiyasining öziga xos ta’siri şundan iboratki, bemor ba’zida qon keta boşlaydi. Bu qon ketişining sababi şundaki, koagulyatsiya omillarining köp qismi keng tarqalgan iviş orqali olib taşlanadiki, qolgan qonning normal gemostazini ta’minlaş uçun juda kam prokoagulyantlar qoladi."
+  },
+  "ch37-f105": {
+   "text": "ANTICOAGULANTS FOR CLINICAL USE"
+  },
+  "ch37-f106": {
+   "text": "Ba’zi tromboembolik şaroitlarda koagulyatsiya jarayonini keçiktiriş maqsadga muvofiqdir. Uşbu maqsad uçun turli antikoagulyantlar işlab çiqilgan. Klinik jihatdan eng foydalilari _geparin_ va _kumarinlar_ hisoblanadi."
+  },
+  "ch37-f107": {
+   "text": "HEPARIN—INTRAVENOUS ANTICOAGULANT"
+  },
+  "ch37-f108": {
+   "text": "Komersial geparin turli xil hayvon töqimalaridan olinadi va deyarli sof şaklda tayyorlanadi. Nisbatan kiçik miqdorni, tana vaznining taxminan 0,5 – 1 mg/kg miqdorini yuboriş qon iviş vaqtining normal taxminan 6 daqiqadan 30 yoki undan ortiq daqiqagaça oşişiga olib keladi. Qolaversa, iviş vaqtidagi bu özgariş bir zumda sodir böladi, şu bilan bir vaqtning özida tromboembolik holatning yanada rivojlanişining oldini oladi yoki sekinlaştiradi."
+  },
+  "ch37-f109": {
+   "text": "Geparinning ta’siri taxminan 1,5 – 4 soat davom etadi. Yuborilgan geparin qonda _geparinaza_ deb nomlanuvçi ferment tomonidan parçalanadi."
+  },
+  "ch37-f110": {
+   "text": "COUMARINS AS ANTICOAGULANTS"
+  },
+  "ch37-f111": {
+   "text": "_Varfarin_ kabi kumarin bemorga berilganda, jigar tomonidan hosil qilinadigan faol prothrombin va VII, IX va X omillarning miqdori pasaya boşlaydi. Varfarin bu ta’sirni _VKORC1_ fermentini inhibe qiliş orqali keltirib çiqaradi. Avval muhokama qilinganidek, bu ferment vitamin K ning nofaol, oksidlangan şaklini uning faol, qaytarilgan şakliga özgartiradi. VKORC1 ni inhibe qiliş orqali varfarin töqimalarda mavjud bölgan vitamin K ning faol şaklini kamaytiradi. Uşbu kamayiş sodir bölganda, koagulyatsiya omillari endi karboksillanmaydi va biologik jihatdan nofaol böladi. Bir neça kun davomida faol koagulyatsiya omillarining tana zaxiralari parçalanadi va nofaol omillar bilan almaştiriladi. Koagulyatsiya omillari işlab çiqarilişda davom etsa-da, ular keskin kamaygan koagulyant faollikka ega."
+  },
+  "ch37-f112": {
+   "text": "Varfarinning samarali dozasi yuborilgandan söng, qonning koagulyant faolligi 12 soat oxiriga kelib normalning taxminan 50%igaça va 24 soat oxiriga kelib normalning taxminan 20%igaça kamayadi. Boşqaça qilib aytganda, koagulyatsiya jarayoni darhol tösib qöyilmaydi, balki plazmada allaqaçon mavjud bölgan faol prothrombin va boşqa ta’sirlangan koagulyatsiya omillarining parçalanişini kutişi kerak. Kumarin terapiyasi töxtatilgandan keyin odatda 1 – 3 kundan söng normal koagulyatsiya tiklanadi."
+  },
+  "ch37-f113": {
+   "text": "PREVENTION OF BLOOD COAGULATION OUTSIDE THE BODY"
+  },
+  "ch37-f114": {
+   "text": "Tana taşqarisiga olingan va şişa sinov nayçasida saqlanadigan qon odatda 6 daqiqada laxtalansa-da, _silikonlangan idişlarga_ yiğilgan qon köpinça 1 soat yoki undan köproq vaqt davomida laxtalanmaydi. Uşbu keçikişning sababi şundaki, idişlarning yuzasini silikon bilan tayyorlaş içki iviş mexanizmini qözğatuvçi ikkita asosiy omil bölgan trombotsitlar va XII omilning kontakt faollaşuvining oldini oladi. Aksinça, işlov berilmagan şişa idişlar trombotsitlar va XII omilning kontakt faollaşuviga hamda tez laxtalaniş rivojlanişiga imkon beradi."
+  },
+  "ch37-f115": {
+   "text": "_Geparin_ tanadan taşqarida, şuningdek tana içida ham qon ivişining oldini oliş uçun işlatilişi mumkin. Geparin ayniqsa qonni sun’iy yurak-öpka apparati yoki sun’iy buyrak apparati orqali, söngra yana bemorga ötkaziş kerak bölgan jarrohlik amaliyotlarida qöllaniladi."
+  },
+  "ch37-f116": {
+   "text": "Qondagi _kaltsiy ionlari konsentratsiyasini kamaytiradigan_ turli moddalar tana _taşqarisida_ qon ivişining oldini oliş uçun ham işlatilişi mumkin. Masalan, juda oz miqdorda qon namunasi bilan aralaştirilgan eruvçan _oksalat_ birikmasi plazmadan kaltsiy oksalatning çökişiga olib keladi va şu bilan ionli kaltsiy darajasini şunçalik kamaytiradiki, qon ivişi bloklanadi."
+  },
+  "ch37-f117": {
+   "text": "Qon kaltsiyini deionizatsiya qiluvçi har qanday modda ivişining oldini oladi. Manfiy zaryadlangan _tsitrat ioni_ bu maqsad uçun ayniqsa qimmatlidir; u odatda _natriy_, _ammoniy_ yoki _kaliy tsitrati_ şaklida qon bilan aralaştiriladi. Tsitrat ioni qondagi kaltsiy bilan birikib, ionlaşmagan kaltsiy birikmasini hosil qiladi va _ionli_ kaltsiyning yöqligi ivişning oldini oladi. Tsitrat antikoagulyantlari oksalat antikoagulyantlariga nisbatan muhim ustunlikka ega, çunki oksalat tana uçun toksik hisoblanadi, holbuki tsitratning örtaça miqdorini tomir içiga yuboriş mumkin. Yuborilgandan söng, tsitrat ioni jigar tomonidan bir neça daqiqada qondan olib taşlanadi va glyukozaga polimerizatsiyalanadi yoki energiya uçun töğridan-töğri parçalanadi. Natijada, tsitrat yordamida ivimaydigan holatga keltirilgan 500 millilitr qon odatda qabul qiluvçiga oğir oqibatlarsiz bir neça daqiqada quyilişi mumkin. Biroq, agar jigar şikastlangan bölsa yoki köp miqdordagi tsitratlangan qon yoki plazma juda tez (bir neça soniya içida) berilsa, tsitrat ioni yetarliça tez olib taşlanmasligi mumkin va bu şaroitda tsitrat qondagi kaltsiy ionining darajasini keskin pasaytirişi mumkin, bu tetaniya va konvulsiv ölimga olib kelişi mumkin."
+  },
+  "ch37-f118": {
+   "text": "BLOOD COAGULATION TESTS"
+  },
+  "ch37-f119": {
+   "text": "Uçi ötkir piçoq barmoq uçi yoki quloq suprasini teşiş uçun işlatilganda, qon ketiş odatda 1 – 6 daqiqa davom etadi. Bu vaqt köp jihatdan jarohatning çuqurligiga va sinov paytida barmoq yoki quloq suprasidagi giperemiya darajasiga boğliq. Bir neçta iviş omillaridan birortasining yöqligi qon ketiş vaqtini uzaytirişi mumkin, ammo u ayniqsa trombotsitlar yetişmasligidan çöziladi."
+  },
+  "ch37-f120": {
+   "text": "Qon iviş vaqtini aniqlaş uçun köplab usullar işlab çiqilgan. Eng köp qöllaniladigani qonni kimyoviy toza şişa sinov nayçasiga yiğiş va keyin qon laxtalangunga qadar nayçani har 30 sekundda u yoqdan bu yoqqa qaratişdir. Uşbu usul böyiça normal iviş vaqti 6 – 10 daqiqani taşkil qiladi. Iviş vaqtini aniqroq aniqlaş uçun bir neçta sinov nayçalaridan foydalanadigan protseduralar ham işlab çiqilgan."
+  },
+  "ch37-f121": {
+   "text": "Afsuski, iviş vaqti uni ölçaş uçun işlatiladigan usulga qarab sezilarli darajada özgarib turadi, şuning uçun u endi köplab klinikalarda işlatilmaydi. Buning örniga murakkab kimyoviy protseduralardan foydalangan holda iviş omillarining özlari ölçanadi."
+  },
+  "ch37-f122": {
+   "text": "PROTHROMBIN TIME AND INTERNATIONAL NORMALIZED RATIO"
+  },
+  "ch37-f123": {
+   "text": "Protrombin vaqti qondagi protrombin konsentratsiyasini körsatadi. **Rasm 37-7** da protrombin konsentratsiyasining protrombin vaqtiga bölgan munosabati körsatilgan. Protrombin vaqtini aniqlaş usuli quyidagiça."
+  },
+  "ch37-f125": {
+   "text": "Bemordan olingan qon darhol oksalatlanadi, şunda protrombinning birortasi ham trombvinga aylanmaydi. Keyin kaltsiy ioni va töqima omilining katta ortiqça miqdori oksatlangan qon bilan tezda aralaştiriladi. Ortiqça kaltsiy oksalatning ta’sirini yöq qiladi va töqima omili taşqi iviş yöli orqali protrombinni trombinga aylaniş reaksiyasini faollaştiradi. Koagulyatsiya sodir bölişi uçun talab qilinadigan vaqt _protrombin vaqti_ deb ataladi. _Vaqtning qisqaligi_ asosan protrombin konsentratsiyasi bilan belgilanadi. Normal protrombin vaqti taxminan 12 sekundni taşkil qiladi. Har bir laboratoriyada qondagi protrombinni miqdoriy baholaş uçun işlatiladigan usul uçun **Rasm 37-7** da körsatilganidek, protrombin konsentratsiyasini protrombin vaqtiga boğlovçi egri çiziq çiziladi."
+  },
+  "ch37-f126": {
+   "text": "Protrombin vaqti uçun olingan natijalar, hatto töqima omilining faolligi va testni bajariş uçun işlatiladigan analitik tizimda farqlar mavjud bölsa ham, bir xil şaxsda sezilarli darajada özgarişi mumkin. Töqima omili platsenta töqimasi kabi inson töqimalaridan ajratib olinadi va turli partiyalar har xil faollikka ega bölişi mumkin. _Xalqaro normallaştirilgan nisbat_ (INR) protrombin vaqti ölçovlarini standartlaştiriş usuli sifatida işlab çiqilgan. Töqima omilining har bir partiyasi uçun işlab çiqaruvçi standartlaştirilgan namuna bilan töqima omilining faolligini körsatadigan _xalqaro sezgirlik indeksini_ (ISI) belgilaydi. ISI odatda 1,0 va 2,0 orasida özgarib turadi. INR – bu odamning protrombin vaqti (PT) ning ISI darajasiga kötarilgan normal nazorat namunasiga nisbati:"
+  },
+  "ch37-f127": {
+   "text": "Soğlom odamda INR uçun normal diapazon 0,9 – 1,3 ni taşkil qiladi. Yuqori INR darajasi (masalan, 4 yoki 5) qon ketiş xavfi yuqori ekanligini körsatadi, past INR (masalan, 0,5) esa laxta paydo böliş ehtimoli borligini bildiradi. Varfarin terapiyasidan ötayotgan bemorlarda odatda INR 2,0 – 3,0 ni taşkil qiladi."
+  },
+  "ch37-f128": {
+   "text": "Protrombin vaqti va INR testiga öxşaş testlar boşqa qon iviş omillarining miqdorini aniqlaş uçun işlab çiqilgan. Uşbu testlarning har birida kaltsiy ionlarining ortiqça miqdori va _tekşirilayotganidan taşqari_ qolgan barça omillar bir vaqtning özida oksatlangan qonga qöşiladi. Keyin koagulyatsiya uçun talab qilinadigan vaqt protrombin vaqtidagidek aniqlanadi. Agar sinovdan ötkazilayotgan omil yetişmasa, koagulyatsiya vaqti uzayadi. Keyin vaqtning özi omilning konsentratsiyasini miqdoriy aniqlaş uçun işlatilişi mumkin."
+  },
+  "ch37-f97": {
+   "lead": "Tromblar va emboliyalar.",
+   "text": "Qon tomiri içida hosil böladigan patologik qon laxtasi _tromb_ deb ataladi. Laxta hosil bölgaç, uning yonidan oqib ötayotgan qon uni birikkan joyidan uzib ketişi mumkin. Qon oqimi bilan erkin köçib yuradigan bunday laxtalar _embollar_ deb ataladi. Yirik arteriyalarda yoki yurakning çap bölimlarida paydo bölgan embollar periferiyaga oqib borib, miya, buyrak yoki boşqa a’zolardagi arteriya va arteriolalarni berkitişi mumkin. Venoz tizimda yoki yurakning öng bölimlarida paydo bölgan embollar odatda öpkaga borib, öpka arteriyasi emboliyasini keltirib çiqaradi."
+  },
+  "ch37-f98": {
+   "lead": "Tromboembolik holatlarning sabablari.",
+   "text": "Odamlarda tromboembolik holatlarning odatda ikki sababi bor. (1) Arterioskleroz, infeksiya yoki şikastlaniş oqibatida _tomir endoteliysining yuzasi notekis bölib qolsa_, qon ivişi boşlanişi mumkin. (2) Qon tomirlarida oz miqdorda trombin va boşqa prokoagulyantlar doim hosil bölib turadi. Qon bu tomirlar orqali _juda sekin oqsa_, köpinça ivib qoladi."
+  },
+  "ch37-f99": {
+   "lead": "Tomir içidagi qon laxtalarini davolaşda töqima plazminogen aktivatoridan foydalaniş.",
+   "text": "Gen muhandisligi yöli bilan olingan _töqima plazminogen aktivatori_ (t-PA) mavjud. U kateter orqali tromb joylaşgan sohaga yuborilganda plazminogenni plazminga aylantiradi. Plazmin esa tomir içidagi ayrim qon laxtalarini eritişi mumkin. Masalan, koronar arteriya tromb bilan berkilganidan keyingi bir yoki ikki soat içida t-PA qöllansa, köpinça yurakning jiddiy şikastlanişining oldi olinadi."
+  }
+ },
+ "figures": {
+  "gh14-fig-37-01": "Zararlangan qon tomirida trombotsitar tiqinning hosil bölişi. Endotelial şikastlaniş va tomir taşqi hujayradan taşqari matritsasining oçilişi trombotsitlarning yopişişi (adheziyasi) va faollaşişiga yordam beradi, bu esa ularning şaklini özgartiradi va adenozindifosfat (ADF), tromboksan A2 (TXA2) va trombotsitlarni faollaştiruvçi omil (PAF) ajralib çiqişiga sabab böladi. Uşbu trombotsitlar ajratib çiqaradigan omillar gemostatik tiqinni hosil qiliş uçun qöşimça trombotsitlarni jalb qiladi (agregatsiya). Fon Willebrand omili (vWF) subendotelial kollagen va glikoprotein Ib (GpIb) trombotsit retseptori örtasida adheziv köprik vazifasini bajaradi.",
+  "gh14-fig-37-02": "Travmaga uçragan qon tomirida iviş jarayoni. (Seegers WH: Hemostatic Agents. Springfield, IL: Çarles C Thomas, 1948 dan özgartirilib olindi.)",
+  "gh14-fig-37-03": "Protrombinni trombinga aylantiriş va fibrin tolalarini hosil qiliş uçun fibrinogenni polimerizatsiya qiliş sxemasi.",
+  "gh14-fig-37-04": "Qon tomir jarohatidan keyingi koagulyatsiya kaskadi. Qonning tomir devoriga uçraşi endotelial hujayralardan töqima omilini (şuningdek, III omil yoki tromboplastin deb ataladi) çiqarişga, fosfolipid ekspresiyasiga, trombinning faollaşişiga olib keladi, u keyinçalik fibrin hosil qiliş uçun fibrinogen ta’sir qiladi va trombotsitar tiqinni barqarorlaştiradigan törsimon tuzilmani hosil qiliş uçun fibrin polimerizatsiyasiga sabab böladi.",
+  "gh14-fig-37-05": "Qon ivişini boşlaş uçun taşqi yöl.",
+  "gh14-fig-37-06": "Qon ivişini boşlaş uçun içki yöl. HMW, yuqori molekulyar oğirlik.",
+  "gh14-fig-37-07": "Qondagi protrombin konsentratsiyasining protrombin vaqtiga munosabati.",
+  "gh14-tab-37-01": "Qondagi iviş omillari va ularning sinonimlaria"
+ }
+}

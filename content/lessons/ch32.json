@@ -4,7 +4,7 @@
  "order": 8,
  "titleUz": "Diuretiklar va buyrak kasalliklari",
  "titleOriginal": "Diuretics and Kidney Diseases",
- "subtitle": "*Diuretics and Kidney Diseases* — V bo'lim, PDF 405–419",
+ "subtitle": "*Diuretics and Kidney Diseases* — V bo‘lim, PDF 405–419",
  "contentVersion": "2026-11-14.1",
  "status": "in_review",
  "translationStatus": "machine_assisted",
@@ -217,7 +217,7 @@
  ],
  "objectives": [
   "Diuretiklar (Jadval 32-1)",
-  "O’tkir buyrak shikastlanishi (AKI)",
+  "O‘tkir buyrak shikastlanishi (AKI)",
   "Surunkali buyrak kasalligi (CKD)",
   "Kanalchalarning maxsus kasalliklari",
   "Davolash: transplantatsiya va dializ"
@@ -227,18 +227,18 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Asosiy g’oya",
+    "text": "Asosiy ğoya",
     "id": "ch32-s-0-asosiy-goya",
     "bid": "ch32-u0"
    },
    {
     "type": "paragraph",
-    "text": "Ko’pchilik diuretiklar Na⁺ reabsorbsiyasini tormozlaydi (natriurez), kanalchada qolgan Na⁺ esa osmotik ta’sir bilan suvni ushlab, diurezga olib keladi. Ularning ta’siri bir necha kunda so’nadi, chunki ECF hajmi kamayadi va kompensator mexanizmlar ishga tushadi. Shunga qaramay yangi barqaror holat past bosim va past ECF hajmida o’rnatiladi, shu tufayli shish yoki gipertenziya kamayadi.",
+    "text": "Köpçilik diuretiklar Na⁺ reabsorbsiyasini tormozlaydi (natriurez), kanalçada qolgan Na⁺ esa osmotik ta’sir bilan suvni uşlab, diurezga olib keladi. Ularning ta’siri bir neça kunda sönadi, çunki ECF hajmi kamayadi va kompensator mexanizmlar işga tuşadi. Şunga qaramay yangi barqaror holat past bosim va past ECF hajmida örnatiladi, şu tufayli şiş yoki gipertenziya kamayadi.",
     "bid": "ch32-u1"
    },
    {
     "type": "paragraph",
-    "text": "Buyrak kasalliklari ikki turga bo’linadi:",
+    "text": "Buyrak kasalliklari ikki turga bölinadi:",
     "bid": "ch32-u2"
    },
    {
@@ -246,11 +246,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "**o’tkir buyrak shikastlanishi (AKI)**: prerenal, intrarenal, postrenal;",
+      "text": "**ötkir buyrak şikastlanişi (AKI)**: prerenal, intrarenal, postrenal;",
       "depth": 0
      },
      {
-      "text": "**surunkali buyrak kasalligi (CKD)**: nefronlar asta-sekin yo’qoladi va yo’qotish o’z-o’zini kuchaytiruvchi \"yovuz doira\"ga aylanadi.",
+      "text": "**surunkali buyrak kasalligi (CKD)**: nefronlar asta-sekin yöqoladi va yöqotiş öz-özini kuçaytiruvçi “yovuz doira”ga aylanadi.",
       "depth": 0
      }
     ],
@@ -276,36 +276,36 @@
       "**Osmotik** (mannitol; shuningdek mochevina, saxaroza)",
       "kanalcha suyuqligi osmolyarligini oshiradi, suv va moddalar reabsorbsiyasini tormozlaydi",
       "asosan proksimal kanalcha",
-      "qandli diabetda glyukoza (>250 mg/dl) \"osmotik diuretik\" bo’ladi: poliuriya va polidipsiya"
+      "qandli diabetda glyukoza (>250 mg/dl) “osmotik diuretik” bo‘ladi: poliuriya va polidipsiya"
      ],
      [
       "**Qovuzloq diuretiklari** (furosemid, etakrin kislotasi, bumetanid)",
       "NKCC2 (Na⁺-K⁺-2Cl⁻) blokadasi",
-      "qalin ko’tariluvchi tirsak",
-      "eng kuchli guruh. (1) distalga ko’p modda yetadi; (2) **countercurrent mexanizm buziladi**, medulla osmolyarligi tushadi, shuning uchun siydikni na konsentrlash, na suyultirish mumkin. Filtratning 20–30% i siydikka o’tadi, siydik qisqa muddat **25 marta** ko’payadi"
+      "qalin ko‘tariluvchi tirsak",
+      "eng kuchli guruh. (1) distalga ko‘p modda yetadi; (2) **countercurrent mexanizm buziladi**, medulla osmolyarligi tushadi, shuning uchun siydikni na konsentrlash, na suyultirish mumkin. Filtratning 20–30% i siydikka o‘tadi, siydik qisqa muddat **25 marta** ko‘payadi"
      ],
      [
       "**Tiazidlar** (gidroxlorotiazid, xlortalidon)",
       "NCC (Na⁺-Cl⁻) blokadasi",
       "erta distal kanalcha",
-      "filtratning maksimum 5–10% i siydikka o’tadi"
+      "filtratning maksimum 5–10% i siydikka o‘tadi"
      ],
      [
       "**Karboangidraza ingibitorlari** (atsetazolamid)",
-      "H⁺ sekretsiyasi va HCO₃⁻ reabsorbsiyasini tormozlaydi, natijada NHE orqali Na⁺ ham kam so’riladi",
+      "H⁺ sekretsiyasi va HCO₃⁻ reabsorbsiyasini tormozlaydi, natijada NHE orqali Na⁺ ham kam so‘riladi",
       "asosan proksimal kanalcha",
-      "HCO₃⁻ yo’qotiladi: **atsidoz**"
+      "HCO₃⁻ yo‘qotiladi: **atsidoz**"
      ],
      [
       "**Mineralokortikoid retseptor antagonistlari** (spironolakton, eplerenon)",
       "aldosteron bilan retseptor uchun raqobatlashadi: ↓Na⁺ reabsorbsiyasi, ↓K⁺ sekretsiyasi",
-      "yig’uvchi kanalcha",
+      "yig‘uvchi kanalcha",
       "**K⁺ tejovchi**. K⁺ ni hujayradan chiqarishi ham mumkin, giperkaliemiya xavfi"
      ],
      [
       "**Na⁺ kanal blokatorlari** (triamteren, amilorid)",
       "ENaC ni bloklaydi, Na⁺-K⁺ ATPaza faolligi kamayadi, K⁺ sekretsiyasi kamayadi",
-      "yig’uvchi kanalcha",
+      "yig‘uvchi kanalcha",
       "K⁺ tejovchi"
      ]
     ],
@@ -320,15 +320,15 @@
       "depth": 0
      },
      {
-      "text": "Diuretik Na⁺ chiqishini darhol oshiradi va ECF kamayadi.",
+      "text": "Diuretik Na⁺ çiqişini darhol oşiradi va ECF kamayadi.",
       "depth": 1
      },
      {
-      "text": "Bosim pasayadi, GFR kamayadi, renin va Ang II ko’payadi.",
+      "text": "Bosim pasayadi, GFR kamayadi, renin va Ang II köpayadi.",
       "depth": 1
      },
      {
-      "text": "Bir necha kundan keyin Na⁺ chiqishi yana iste’molga tenglashadi, lekin ECF past darajada qoladi.",
+      "text": "Bir neça kundan keyin Na⁺ çiqişi yana iste’molga tenglaşadi, lekin ECF past darajada qoladi.",
       "depth": 1
      }
     ],
@@ -347,7 +347,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "O’tkir buyrak shikastlanishi (AKI)",
+    "text": "Ötkir buyrak şikastlanişi (AKI)",
     "id": "ch32-s-9-otkir-buyrak-shikastlanishi-aki",
     "bid": "ch32-u9"
    },
@@ -356,11 +356,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Funksiya bir necha kunda keskin yo’qoladi. **O’tkir buyrak yetishmovchiligi** uning og’ir shakli bo’lib, dializ talab qiladi. Ba’zan tiklanish mumkin.",
+      "text": "Funksiya bir neça kunda keskin yöqoladi. **Ötkir buyrak yetişmovçiligi** uning oğir şakli bölib, dializ talab qiladi. Ba’zan tiklaniş mumkin.",
       "depth": 0
      },
      {
-      "text": "**Sepsisda** prerenal va intrarenal mexanizmlar birga ishlaydi.",
+      "text": "**Sepsisda** prerenal va intrarenal mexanizmlar birga işlaydi.",
       "depth": 0
      }
     ],
@@ -378,15 +378,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Buyrak qon oqimi (~1100 ml/min, yurak chiqarishining 20–25%) kamayadi, natijada ↓GFR va **oliguriya**, og’ir holatda **anuriya**.",
+      "text": "Buyrak qon oqimi (~1100 ml/min, yurak çiqarişining 20–25%) kamayadi, natijada ↓GFR va **oliguriya**, oğir holatda **anuriya**.",
       "depth": 0
      },
      {
-      "text": "**Nega buyrak ishemiyaga bardoshli?** GFR tushganda filtrlangan NaCl ham kamayadi. Buyrak energiya va O₂ ning asosiy qismini aynan shu NaCl ni reabsorbsiya qilishga sarflaydi, shuning uchun O₂ sarfi ham pasayadi. Qon oqimi **normaning 20–25% idan** past tushmasa va sabab tez tuzatilsa, holat qaytariladi. Undan past bo’lsa hujayralar, ayniqsa kanalcha epiteliysi gipoksiyaga uchraydi.",
+      "text": "**Nega buyrak işemiyaga bardoşli?** GFR tuşganda filtrlangan NaCl ham kamayadi. Buyrak energiya va O₂ ning asosiy qismini aynan şu NaCl ni reabsorbsiya qilişga sarflaydi, şuning uçun O₂ sarfi ham pasayadi. Qon oqimi **normaning 20–25% idan** past tuşmasa va sabab tez tuzatilsa, holat qaytariladi. Undan past bölsa hujayralar, ayniqsa kanalça epiteliysi gipoksiyaga uçraydi.",
       "depth": 0
      },
      {
-      "text": "Bir necha soatdan uzoq davom etsa, **intrarenal AKI ga** o’tadi. Shifoxonada, ayniqsa og’ir jarohatli bemorlarda ko’p uchraydi.",
+      "text": "Bir neça soatdan uzoq davom etsa, **intrarenal AKI ga** ötadi. Şifoxonada, ayniqsa oğir jarohatli bemorlarda köp uçraydi.",
       "depth": 0
      },
      {
@@ -394,19 +394,19 @@
       "depth": 0
      },
      {
-      "text": "tomir ichi hajmining kamayishi: qon ketish (jarohat, operatsiya, tug’ruqdan keyin, me’da-ichak), diareya va qusish, kuyish;",
+      "text": "tomir içi hajmining kamayişi: qon ketiş (jarohat, operatsiya, tuğruqdan keyin, me’da-içak), diareya va qusiş, kuyiş;",
       "depth": 1
      },
      {
-      "text": "yurak yetishmovchiligi: miokard infarkti, klapan shikasti;",
+      "text": "yurak yetişmovçiligi: miokard infarkti, klapan şikasti;",
       "depth": 1
      },
      {
-      "text": "periferik vazodilatatsiya va gipotenziya: anafilaktik shok, anesteziya, sepsis;",
+      "text": "periferik vazodilatatsiya va gipotenziya: anafilaktik şok, anesteziya, sepsis;",
       "depth": 1
      },
      {
-      "text": "buyrak gemodinamikasining birlamchi buzilishi: buyrak arteriyasi stenozi, emboliyasi yoki arteriya va vena trombozi.",
+      "text": "buyrak gemodinamikasining birlamçi buzilişi: buyrak arteriyasi stenozi, emboliyasi yoki arteriya va vena trombozi.",
       "depth": 1
      }
     ],
@@ -429,19 +429,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Kichik tomir va glomerulyar shikast**: vaskulit (tugunchali poliarteriit), xolesterin emboliyasi, malign gipertenziya, **o’tkir glomerulonefrit**.",
+      "text": "**Kiçik tomir va glomerulyar şikast**: vaskulit (tugunçali poliarteriit), xolesterin emboliyasi, malign gipertenziya, **ötkir glomerulonefrit**.",
       "depth": 0
      },
      {
-      "text": "**Kanalcha epiteliysi shikasti**: ishemik yoki toksik o’tkir tubulyar nekroz.",
+      "text": "**Kanalça epiteliysi şikasti**: işemik yoki toksik ötkir tubulyar nekroz.",
       "depth": 0
      },
      {
-      "text": "**Interstitsial shikast**: o’tkir pielonefrit, o’tkir allergik interstitsial nefrit.",
+      "text": "**Interstitsial şikast**: ötkir pielonefrit, ötkir allergik interstitsial nefrit.",
       "depth": 0
      },
      {
-      "text": "Tomir va kanalcha shikastlari bir-biriga ta’sir qiladi.",
+      "text": "Tomir va kanalça şikastlari bir-biriga ta’sir qiladi.",
       "depth": 0
      }
     ],
@@ -455,7 +455,7 @@
    {
     "type": "heading",
     "level": 4,
-    "text": "O’tkir glomerulonefrit",
+    "text": "Ötkir glomerulonefrit",
     "id": "ch32-s-17-otkir-glomerulonefrit",
     "bid": "ch32-u17"
    },
@@ -464,7 +464,7 @@
     "ordered": true,
     "items": [
      {
-      "text": "~95% holatda guruh **A β-gemolitik streptokokk** infeksiyasidan (tomoq, bodomcha bezlari yoki teri) 1–3 hafta o’tib boshlanadi.",
+      "text": "~95% holatda guruh **A β-gemolitik streptokokk** infeksiyasidan (tomoq, bodomça bezlari yoki teri) 1–3 hafta ötib boşlanadi.",
       "depth": 0
      },
      {
@@ -472,15 +472,15 @@
       "depth": 0
      },
      {
-      "text": "Mezangial hujayralar ko’payadi va leykotsitlar to’planadi.",
+      "text": "Mezangial hujayralar köpayadi va leykotsitlar töplanadi.",
       "depth": 0
      },
      {
-      "text": "Glomerullar to’siladi; to’silmaganlari oqsil va eritrotsitlarni o’tkazadi.",
+      "text": "Glomerullar tösiladi; tösilmaganlari oqsil va eritrotsitlarni ötkazadi.",
       "depth": 0
      },
      {
-      "text": "Odatda ~2 haftada so’nadi, haftalar yoki oylar ichida tiklanadi. Kam qismida CKD ga o’tadi.",
+      "text": "Odatda ~2 haftada sönadi, haftalar yoki oylar içida tiklanadi. Kam qismida CKD ga ötadi.",
       "depth": 0
      }
     ],
@@ -489,7 +489,7 @@
    {
     "type": "heading",
     "level": 4,
-    "text": "O’tkir tubulyar nekroz",
+    "text": "Ötkir tubulyar nekroz",
     "id": "ch32-s-19-otkir-tubulyar-nekroz",
     "bid": "ch32-u19"
    },
@@ -498,11 +498,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Ishemik** (shok): epiteliy ko’chib tushadi va kanalchalarni tiqib qo’yadi. Qon oqimi tiklansa ham nefron siydik chiqarmaydi.",
+      "text": "**Işemik** (şok): epiteliy köçib tuşadi va kanalçalarni tiqib qöyadi. Qon oqimi tiklansa ham nefron siydik çiqarmaydi.",
       "depth": 0
      },
      {
-      "text": "**Toksik**: CCl₄, og’ir metallar (simob, qo’rg’oshin), **etilenglikol** (antifriz), insektitsidlar, zaharli qo’ziqorinlar, tetratsiklinlar, **sisplatin**.",
+      "text": "**Toksik**: CCl₄, oğir metallar (simob, qörğoşin), **etilenglikol** (antifriz), insektitsidlar, zaharli qöziqorinlar, tetratsiklinlar, **sisplatin**.",
       "depth": 0
      },
      {
@@ -528,7 +528,7 @@
       "depth": 0
      },
      {
-      "text": "ikki tomonlama ureter yoki buyrak jomi tiqilishi (yirik toshlar, qon laxtalari);",
+      "text": "ikki tomonlama ureter yoki buyrak jomi tiqilişi (yirik toşlar, qon laxtalari);",
       "depth": 1
      },
      {
@@ -540,11 +540,11 @@
       "depth": 1
      },
      {
-      "text": "Toshlar Ca, urat yoki sistindan iborat bo’ladi.",
+      "text": "Toşlar Ca, urat yoki sistindan iborat böladi.",
       "depth": 0
      },
      {
-      "text": "Bir buyrak tiqilsa, ikkinchisi kompensatsiya qiladi. Sabab bir necha soatda bartaraf etilsa, funksiya tiklanadi. Kunlar yoki haftalar davom etsa, qaytmas shikast qoladi.",
+      "text": "Bir buyrak tiqilsa, ikkinçisi kompensatsiya qiladi. Sabab bir neça soatda bartaraf etilsa, funksiya tiklanadi. Kunlar yoki haftalar davom etsa, qaytmas şikast qoladi.",
       "depth": 0
      }
     ],
@@ -562,19 +562,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Suv va tuz ushlanadi: shish va gipertenziya.",
+      "text": "Suv va tuz uşlanadi: şiş va gipertenziya.",
       "depth": 0
      },
      {
-      "text": "**Giperkaliemiya** eng katta xavf: **>8 mEq/L** (normaning ikki baravari) o’limga olib keladi.",
+      "text": "**Giperkaliemiya** eng katta xavf: **>8 mEq/L** (normaning ikki baravari) ölimga olib keladi.",
       "depth": 0
      },
      {
-      "text": "Metabolik atsidoz (u giperkaliemiyani ham kuchaytiradi).",
+      "text": "Metabolik atsidoz (u giperkaliemiyani ham kuçaytiradi).",
       "depth": 0
      },
      {
-      "text": "To’liq anuriyada funksiya tiklanmasa yoki dializ qilinmasa, **8–14 kunda** o’lim.",
+      "text": "Töliq anuriyada funksiya tiklanmasa yoki dializ qilinmasa, **8–14 kunda** ölim.",
       "depth": 0
      }
     ],
@@ -592,15 +592,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Buyrak shikasti yoki funksiya pasayishi **≥3 oy** davom etadi.",
+      "text": "Buyrak şikasti yoki funksiya pasayişi **≥3 oy** davom etadi.",
       "depth": 0
      },
      {
-      "text": "2018-yilda AQSh kattalarining >14% ida (>30 million kishi) CKD bor edi.",
+      "text": "2018-yilda AQŞ kattalarining >14% ida (>30 million kişi) CKD bor edi.",
       "depth": 0
      },
      {
-      "text": "Funksional nefronlar **70–75%** ga kamaygandan keyingina jiddiy simptomlar paydo bo’ladi. Elektrolitlar va hajm nefronlar normaning **20–25%** iga tushguncha deyarli normal saqlanadi.",
+      "text": "Funksional nefronlar **70–75%** ga kamaygandan keyingina jiddiy simptomlar paydo böladi. Elektrolitlar va hajm nefronlar normaning **20–25%** iga tuşgunça deyarli normal saqlanadi.",
       "depth": 0
      },
      {
@@ -620,7 +620,7 @@
       "depth": 1
      },
      {
-      "text": "**immun**: glomerulonefrit, tugunchali poliarteriit, qizil yuguruk (SLE);",
+      "text": "**immun**: glomerulonefrit, tugunçali poliarteriit, qizil yuguruk (SLE);",
       "depth": 1
      },
      {
@@ -628,15 +628,15 @@
       "depth": 1
      },
      {
-      "text": "**kanalchalar**: nefrotoksinlar (analgetiklar, og’ir metallar);",
+      "text": "**kanalçalar**: nefrotoksinlar (analgetiklar, oğir metallar);",
       "depth": 1
      },
      {
-      "text": "**obstruksiya**: toshlar, prostata gipertrofiyasi, uretra torayishi;",
+      "text": "**obstruksiya**: toşlar, prostata gipertrofiyasi, uretra torayişi;",
       "depth": 1
      },
      {
-      "text": "**tug’ma**: polikistoz, gipoplaziya.",
+      "text": "**tuğma**: polikistoz, gipoplaziya.",
       "depth": 1
      }
     ],
@@ -659,23 +659,23 @@
     "ordered": true,
     "items": [
      {
-      "text": "Nefronlar yo’qoladi.",
+      "text": "Nefronlar yöqoladi.",
       "depth": 0
      },
      {
-      "text": "Qolganlari **gipertrofiyalanadi** va vazodilatatsiya bo’ladi: har bir nefronda qon oqimi, GFR va siydik ortadi. Shu tufayli massa normaning 20–25% iga tushganda ham ekskretsiya normal saqlanadi.",
+      "text": "Qolganlari **gipertrofiyalanadi** va vazodilatatsiya böladi: har bir nefronda qon oqimi, GFR va siydik ortadi. Şu tufayli massa normaning 20–25% iga tuşganda ham ekskretsiya normal saqlanadi.",
       "depth": 0
      },
      {
-      "text": "Yillar davomida oshgan bosim va cho’zilish glomerullarda **skleroz** chaqiradi.",
+      "text": "Yillar davomida oşgan bosim va çöziliş glomerullarda **skleroz** çaqiradi.",
       "depth": 0
      },
      {
-      "text": "Yana ko’proq nefron yo’qoladi va jarayon **oxirgi bosqich buyrak kasalligi (ESRD)** ga yetadi: dializ yoki transplantatsiya kerak bo’ladi.",
+      "text": "Yana köproq nefron yöqoladi va jarayon **oxirgi bosqiç buyrak kasalligi (ESRD)** ga yetadi: dializ yoki transplantatsiya kerak böladi.",
       "depth": 0
      },
      {
-      "text": "**Sekinlashtirish**: arterial va glomerulyar bosimni pasaytirish, ayniqsa **ACE ingibitorlari yoki ARB** bilan.",
+      "text": "**Sekinlaştiriş**: arterial va glomerulyar bosimni pasaytiriş, ayniqsa **ACE ingibitorlari yoki ARB** bilan.",
       "depth": 0
      },
      {
@@ -725,11 +725,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Diabet va gipertenziya birga **>70%** ni tashkil qiladi. **Semizlik** ikkalasi uchun ham asosiy xavf omili:",
+      "text": "Diabet va gipertenziya birga **>70%** ni taşkil qiladi. **Semizlik** ikkalasi uçun ham asosiy xavf omili:",
       "depth": 0
      },
      {
-      "text": "2-tur diabet barcha diabetning >90% i;",
+      "text": "2-tur diabet barça diabetning >90% i;",
       "depth": 1
      },
      {
@@ -747,7 +747,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Qon tomir shikasti",
+    "text": "Qon tomir şikasti",
     "id": "ch32-s-34-qon-tomir-shikasti",
     "bid": "ch32-u34"
    },
@@ -756,27 +756,27 @@
     "ordered": false,
     "items": [
      {
-      "text": "Yirik arteriyalar aterosklerozi, **fibromuskulyar giperplaziya**. Ko’pincha bir tomonlama bo’lib, Goldblatt tipidagi gipertenziyaga olib keladi (19-bob).",
+      "text": "Yirik arteriyalar aterosklerozi, **fibromuskulyar giperplaziya**. Köpinça bir tomonlama bölib, Goldblatt tipidagi gipertenziyaga olib keladi (19-bob).",
       "depth": 0
      },
      {
-      "text": "**Benign nefroskleroz**: eng ko’p uchraydigan buyrak kasalligi. 60 yoshdan keyin vafot etganlarning **~70%** ida topiladi.",
+      "text": "**Benign nefroskleroz**: eng köp uçraydigan buyrak kasalligi. 60 yoşdan keyin vafot etganlarning **~70%** ida topiladi.",
       "depth": 0
      },
      {
-      "text": "Mexanizm: interlobulyar arteriyalar va afferent arteriolalar intimasidan plazma sizib chiqadi, mediada fibrinoid cho’kmalar hosil bo’ladi, devor qalinlashadi va tomir bekiladi.",
+      "text": "Mexanizm: interlobulyar arteriyalar va afferent arteriolalar intimasidan plazma sizib çiqadi, mediada fibrinoid çökmalar hosil böladi, devor qalinlaşadi va tomir bekiladi.",
       "depth": 1
      },
      {
-      "text": "Kichik arteriyalar orasida kollaterallar yo’q, shuning uchun har bir bekilgan tomir o’ziga tegishli nefronlarni yo’q qiladi.",
+      "text": "Kiçik arteriyalar orasida kollaterallar yöq, şuning uçun har bir bekilgan tomir öziga tegişli nefronlarni yöq qiladi.",
       "depth": 1
      },
      {
-      "text": "**Glomeruloskleroz va qarish**: 40 yoshdan keyin har 10 yilda nefronlar **~10%** kamayadi (Fig. 32-3). 80 yoshda gipertenziya yoki diabeti yo’q odamda ham RPF va GFR **40–50%** pasayadi.",
+      "text": "**Glomeruloskleroz va qariş**: 40 yoşdan keyin har 10 yilda nefronlar **~10%** kamayadi (Fig. 32-3). 80 yoşda gipertenziya yoki diabeti yöq odamda ham RPF va GFR **40–50%** pasayadi.",
       "depth": 0
      },
      {
-      "text": "Gipertenziya va diabet bu jarayonni kuchaytiradi. **Malign nefroskleroz**da arteriolalarda ko’p fibrinoid to’planadi va og’ir ishemiya rivojlanadi. Qora tanlilarda ko’proq uchraydi.",
+      "text": "Gipertenziya va diabet bu jarayonni kuçaytiradi. **Malign nefroskleroz**da arteriolalarda köp fibrinoid töplanadi va oğir işemiya rivojlanadi. Qora tanlilarda köproq uçraydi.",
       "depth": 0
      }
     ],
@@ -799,11 +799,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Sekin rivojlanadi. Birlamchi yoki o’tkir shakldan keyin, yoki SLE kabi tizimli kasallik bilan ikkilamchi bo’lishi mumkin. Streptokokk sababi kam.",
+      "text": "Sekin rivojlanadi. Birlamçi yoki ötkir şakldan keyin, yoki SLE kabi tizimli kasallik bilan ikkilamçi bölişi mumkin. Streptokokk sababi kam.",
       "depth": 0
      },
      {
-      "text": "**Mexanizm**: immun komplekslar → yallig’lanish → membrana qalinlashadi → fibroz → **K_f kamayadi** → glomerullar fibroz to’qima bilan almashinadi.",
+      "text": "**Mexanizm**: immun komplekslar → yalliğlaniş → membrana qalinlaşadi → fibroz → **K_f kamayadi** → glomerullar fibroz töqima bilan almaşinadi.",
       "depth": 0
      }
     ],
@@ -821,15 +821,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Pielonefrit**: asosan ***E. coli*** (najas bilan ifloslanish) chaqiradi. Ko’pincha pastki yo’llardan ko’tariladi, kamroq qon orqali keladi.",
+      "text": "**Pielonefrit**: asosan ***E. coli*** (najas bilan ifloslaniş) çaqiradi. Köpinça pastki yöllardan kötariladi, kamroq qon orqali keladi.",
       "depth": 0
      },
      {
-      "text": "**Moyil qiluvchi omillar**: qovuqning to’liq bo’shamasligi (qoldiq siydik), obstruksiya. Natijada **sistit**, so’ngra **vezikoureteral reflyuks** orqali bakteriyalar buyrak jomiga chiqadi.",
+      "text": "**Moyil qiluvçi omillar**: qovuqning töliq böşamasligi (qoldiq siydik), obstruksiya. Natijada **sistit**, söngra **vezikoureteral reflyuks** orqali bakteriyalar buyrak jomiga çiqadi.",
       "depth": 0
      },
      {
-      "text": "**Medulladan boshlanadi**, shuning uchun avval **siydikni konsentrlash qobiliyati** buziladi. Uzoq davom etsa butun buyrakni shikastlab, CKD ga olib keladi.",
+      "text": "**Medulladan boşlanadi**, şuning uçun avval **siydikni konsentrlaş qobiliyati** buziladi. Uzoq davom etsa butun buyrakni şikastlab, CKD ga olib keladi.",
       "depth": 0
      }
     ],
@@ -847,7 +847,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Glomerulyar membrana o’tkazuvchanligi oshadi va siydik bilan ko’p oqsil yo’qotiladi.",
+      "text": "Glomerulyar membrana ötkazuvçanligi oşadi va siydik bilan köp oqsil yöqotiladi.",
       "depth": 0
      },
      {
@@ -859,15 +859,15 @@
       "depth": 1
      },
      {
-      "text": "**amiloidoz**: tomir devoriga oqsilsimon modda cho’kadi;",
+      "text": "**amiloidoz**: tomir devoriga oqsilsimon modda çökadi;",
       "depth": 1
      },
      {
-      "text": "**minimal o’zgarishli** shakl: T-hujayra sitokinlari podotsitlarni shikastlaydi. Asosan **2–6 yoshli bolalarda**.",
+      "text": "**minimal özgarişli** şakl: T-hujayra sitokinlari podotsitlarni şikastlaydi. Asosan **2–6 yoşli bolalarda**.",
       "depth": 1
      },
      {
-      "text": "Bolada siydik bilan **40 g/kun** gacha oqsil yo’qotilishi mumkin. Plazma oqsili <2 g/dl, onkotik bosim 28 dan <10 mm Hg ga tushadi va **og’ir shish** rivojlanadi (25, 30-boblar).",
+      "text": "Bolada siydik bilan **40 g/kun** gaça oqsil yöqotilişi mumkin. Plazma oqsili <2 g/dl, onkotik bosim 28 dan <10 mm Hg ga tuşadi va **oğir şiş** rivojlanadi (25, 30-boblar).",
       "depth": 0
      }
     ],
@@ -885,11 +885,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "75–80% nefron yo’qolganda ham suv va elektrolitlar normal chiqariladi. **<5–10%** qolganda o’lim.",
+      "text": "75–80% nefron yöqolganda ham suv va elektrolitlar normal çiqariladi. **<5–10%** qolganda ölim.",
       "depth": 0
      },
      {
-      "text": "**Moddalar adaptatsiyasining uch turi (Fig. 32-5)**:",
+      "text": "**Moddalar adaptatsiyasining uç turi (Fig. 32-5)**:",
       "depth": 0
      }
     ],
@@ -903,14 +903,14 @@
    {
     "type": "table",
     "header": [
-     "Egri chiziq",
+     "Egri çiziq",
      "Moddalar",
      "Holat"
     ],
     "rows": [
      [
       "A",
-      "kreatinin, mochevina (filtrlanadi, kam so’riladi)",
+      "kreatinin, mochevina (filtrlanadi, kam so‘riladi)",
       "plazma konsentratsiyasi GFR kamayishiga ~proporsional oshadi"
      ],
      [
@@ -921,7 +921,7 @@
      [
       "C",
       "Na⁺, Cl⁻",
-      "GFR keskin tushsa ham konsentratsiya deyarli o’zgarmaydi, chunki reabsorbsiya keskin kamayadi"
+      "GFR keskin tushsa ham konsentratsiya deyarli o‘zgarmaydi, chunki reabsorbsiya keskin kamayadi"
      ]
     ],
     "bid": "ch32-u46"
@@ -931,11 +931,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Kreatinin**: GFR yarmiga tushsa, P_Cr ikki baravar oshadi va ekskretsiya ishlab chiqarilishga tenglashadi (Fig. 32-4).",
+      "text": "**Kreatinin**: GFR yarmiga tuşsa, P_Cr ikki baravar oşadi va ekskretsiya işlab çiqarilişga tenglaşadi (Fig. 32-4).",
       "depth": 0
      },
      {
-      "text": "**Jadval 32-6** (75% nefron yo’qolganda):",
+      "text": "**Jadval 32-6** (75% nefron yöqolganda):",
       "depth": 0
      }
     ],
@@ -956,7 +956,7 @@
     "header": [
      "",
      "Normal",
-     "75% yo’qotish"
+     "75% yöqotiş"
     ],
     "rows": [
      [
@@ -992,23 +992,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Izostenuriya (Fig. 32-6)**: har bir nefrondan oqim tez o’tadi.",
+      "text": "**Izostenuriya (Fig. 32-6)**: har bir nefrondan oqim tez ötadi.",
       "depth": 0
      },
      {
-      "text": "Yig’uvchi naychalarda suv yetarli so’rilmaydi va countercurrent mexanizm samarasiz bo’ladi, shuning uchun **konsentrlash** buziladi.",
+      "text": "Yiğuvçi nayçalarda suv yetarli sörilmaydi va countercurrent mexanizm samarasiz böladi, şuning uçun **konsentrlaş** buziladi.",
       "depth": 1
      },
      {
-      "text": "Mochevina yuklamasi yuqori, shuning uchun **suyultirish** ham buziladi.",
+      "text": "Moçevina yuklamasi yuqori, şuning uçun **suyultiriş** ham buziladi.",
       "depth": 1
      },
      {
-      "text": "Siydik solishtirma og’irligi filtratnikiga (~1.010) yaqinlashadi.",
+      "text": "Siydik soliştirma oğirligi filtratnikiga (~1.010) yaqinlaşadi.",
       "depth": 1
      },
      {
-      "text": "Konsentrlash ko’proq buzilgani uchun **≥12 soat suvsiz qoldirib konsentratsiya testi** qilinadi.",
+      "text": "Konsentrlaş köproq buzilgani uçun **≥12 soat suvsiz qoldirib konsentratsiya testi** qilinadi.",
       "depth": 1
      }
     ],
@@ -1031,43 +1031,43 @@
     "ordered": true,
     "items": [
      {
-      "text": "**Shish**: suv va tuz ushlanadi. Funksiya ≤25% ga tushguncha og’ir bo’lmaydi.",
+      "text": "**Şiş**: suv va tuz uşlanadi. Funksiya ≤25% ga tuşgunça oğir bölmaydi.",
       "depth": 0
      },
      {
-      "text": "Ozgina ushlanish ham, ayniqsa ishemik kasallikda renin va Ang II bilan birga, og’ir **gipertenziya** beradi.",
+      "text": "Ozgina uşlaniş ham, ayniqsa işemik kasallikda renin va Ang II bilan birga, oğir **gipertenziya** beradi.",
       "depth": 1
      },
      {
-      "text": "Dializ zarur bo’lgan bosqichda gipertenziya deyarli har doim bor.",
+      "text": "Dializ zarur bölgan bosqiçda gipertenziya deyarli har doim bor.",
       "depth": 1
      },
      {
-      "text": "**Atsidoz**: kuniga 50–80 mmol ortiqcha kislota hosil bo’ladi.",
+      "text": "**Atsidoz**: kuniga 50–80 mmol ortiqça kislota hosil böladi.",
       "depth": 0
      },
      {
-      "text": "Tana suyuqliklari buferlari 500–1000 mmol ni, suyakdagi fosfatlar yana bir necha ming mmol ni buferlaydi.",
+      "text": "Tana suyuqliklari buferlari 500–1000 mmol ni, suyakdagi fosfatlar yana bir neça ming mmol ni buferlaydi.",
       "depth": 1
      },
      {
-      "text": "Ular tugagach pH keskin tushadi; pH <6.8 da koma va o’lim.",
+      "text": "Ular tugagaç pH keskin tuşadi; pH <6.8 da koma va ölim.",
       "depth": 1
      },
      {
-      "text": "**Azotemiya**: oqsilsiz azot birikmalari (mochevina, siydik kislotasi, kreatinin) to’planadi.",
+      "text": "**Azotemiya**: oqsilsiz azot birikmalari (moçevina, siydik kislotasi, kreatinin) töplanadi.",
       "depth": 0
      },
      {
-      "text": "To’liq yetishmovchilikda 1–2 haftada 10 baravargacha oshadi.",
+      "text": "Töliq yetişmovçilikda 1–2 haftada 10 baravargaça oşadi.",
       "depth": 1
      },
      {
-      "text": "CKD da GFR ga proporsional oshadi, shuning uchun mochevina va kreatinin og’irlikni baholash ko’rsatkichi.",
+      "text": "CKD da GFR ga proporsional oşadi, şuning uçun moçevina va kreatinin oğirlikni baholaş körsatkiçi.",
       "depth": 1
      },
      {
-      "text": "Fenollar, sulfatlar, fosfatlar, K⁺ va guanidin asoslari ham to’planadi.",
+      "text": "Fenollar, sulfatlar, fosfatlar, K⁺ va guanidin asoslari ham töplanadi.",
       "depth": 0
      },
      {
@@ -1079,11 +1079,11 @@
       "depth": 0
      },
      {
-      "text": "(a) **1,25-(OH)₂D₃** kam hosil bo’ladi (jigar → buyrak ikki bosqichli faollashuv), ichakda Ca²⁺ so’rilishi kamayadi;",
+      "text": "(a) **1,25-(OH)₂D₃** kam hosil böladi (jigar → buyrak ikki bosqiçli faollaşuv), içakda Ca²⁺ sörilişi kamayadi;",
       "depth": 1
      },
      {
-      "text": "(b) **fosfat ushlanadi**, Ca²⁺ bilan bog’lanadi, ionlangan Ca²⁺ kamayadi va **ikkilamchi giperparatireoz** rivojlanadi; suyakdan Ca²⁺ chiqadi.",
+      "text": "(b) **fosfat uşlanadi**, Ca²⁺ bilan boğlanadi, ionlangan Ca²⁺ kamayadi va **ikkilamçi giperparatireoz** rivojlanadi; suyakdan Ca²⁺ çiqadi.",
       "depth": 1
      }
     ],
@@ -1106,15 +1106,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "O’zaro yovuz doira hosil qiladi: buyrak shikasti bosimni oshiradi, bosim buyrakni yana shikastlaydi.",
+      "text": "Özaro yovuz doira hosil qiladi: buyrak şikasti bosimni oşiradi, bosim buyrakni yana şikastlaydi.",
       "depth": 0
      },
      {
-      "text": "**Na⁺ va suv ekskretsiyasini kamaytiruvchi shikastlar** deyarli doim gipertenziya beradi:",
+      "text": "**Na⁺ va suv ekskretsiyasini kamaytiruvçi şikastlar** deyarli doim gipertenziya beradi:",
       "depth": 0
      },
      {
-      "text": "↑buyrak tomir qarshiligi (buyrak arteriyasi stenozi);",
+      "text": "↑buyrak tomir qarşiligi (buyrak arteriyasi stenozi);",
       "depth": 1
      },
      {
@@ -1122,43 +1122,43 @@
       "depth": 1
      },
      {
-      "text": "ortiqcha Na⁺ reabsorbsiyasi (ortiqcha aldosteron).",
+      "text": "ortiqça Na⁺ reabsorbsiyasi (ortiqça aldosteron).",
       "depth": 1
      },
      {
-      "text": "Gipertenziya rivojlangach, bosim natriurezi ekskretsiyani normaga qaytaradi, ya’ni egri chiziq yuqoriroq bosimga \"qayta sozlanadi\". Bosimdan boshqa belgi bo’lmasligi mumkin.",
+      "text": "Gipertenziya rivojlangaç, bosim natriurezi ekskretsiyani normaga qaytaradi, ya’ni egri çiziq yuqoriroq bosimga “qayta sozlanadi”. Bosimdan boşqa belgi bölmasligi mumkin.",
       "depth": 1
      },
      {
-      "text": "**Dog’simon ishemiya va renin**:",
+      "text": "**Doğsimon işemiya va renin**:",
       "depth": 0
      },
      {
-      "text": "ishemik to’qima renin ajratadi, Ang II normal nefronlarni ham Na⁺ ni ushlashga majbur qiladi va gipertenziya rivojlanadi;",
+      "text": "işemik töqima renin ajratadi, Ang II normal nefronlarni ham Na⁺ ni uşlaşga majbur qiladi va gipertenziya rivojlanadi;",
       "depth": 1
      },
      {
-      "text": "ko’p bemorlarda tuzni keskin cheklash yoki dializ bosimni nazorat qiladi;",
+      "text": "köp bemorlarda tuzni keskin çeklaş yoki dializ bosimni nazorat qiladi;",
       "depth": 1
      },
      {
-      "text": "ba’zilarida faqat ishemik buyrakni olib tashlash yordam beradi (dializ bilan birga).",
+      "text": "ba’zilarida faqat işemik buyrakni olib taşlaş yordam beradi (dializ bilan birga).",
       "depth": 1
      },
      {
-      "text": "**Butun nefronlar yo’qolishi** (masalan, bitta buyrak va ikkinchisining bir qismi):",
+      "text": "**Butun nefronlar yöqolişi** (masalan, bitta buyrak va ikkinçisining bir qismi):",
       "depth": 0
      },
      {
-      "text": "qolgan nefronlar normal va tuz ko’p emas bo’lsa, katta gipertenziya bo’lmasligi mumkin;",
+      "text": "qolgan nefronlar normal va tuz köp emas bölsa, katta gipertenziya bölmasligi mumkin;",
       "depth": 1
      },
      {
-      "text": "**ko’p tuz** iste’mol qilinsa, og’ir gipertenziya rivojlanadi.",
+      "text": "**köp tuz** iste’mol qilinsa, oğir gipertenziya rivojlanadi.",
       "depth": 1
      },
      {
-      "text": "**Davolash**: β-blokerlar, ARB va ACE ingibitorlari, kalsiy kanal blokatorlari (buyrakni kengaytirib GFR ni oshiradi), diuretiklar.",
+      "text": "**Davolaş**: β-blokerlar, ARB va ACE ingibitorlari, kalsiy kanal blokatorlari (buyrakni kengaytirib GFR ni oşiradi), diuretiklar.",
       "depth": 0
      }
     ],
@@ -1167,7 +1167,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Kanalchalarning maxsus kasalliklari",
+    "text": "Kanalçalarning maxsus kasalliklari",
     "id": "ch32-s-58-kanalchalarning-maxsus-kasalliklari",
     "bid": "ch32-u58"
    },
@@ -1186,7 +1186,7 @@
      ],
      [
       "**Aminoatsiduriya**",
-      "umumiy (kam uchraydi) yoki xususiy: **sistinuriya** (sistin toshlari), glitsinuriya, β-aminoizobutirat atsiduriya (aholining ~5% i, klinik ahamiyati yo’q)",
+      "umumiy (kam uchraydi) yoki xususiy: **sistinuriya** (sistin toshlari), glitsinuriya, β-aminoizobutirat atsiduriya (aholining ~5% i, klinik ahamiyati yo‘q)",
       "—"
      ],
      [
@@ -1196,33 +1196,33 @@
      ],
      [
       "**Renal tubulyar atsidoz**",
-      "H⁺ sekretsiyasi yetarli emas, NaHCO₃ yo’qotiladi",
+      "H⁺ sekretsiyasi yetarli emas, NaHCO₃ yo‘qotiladi",
       "metabolik atsidoz"
      ],
      [
       "**Nefrogen qandsiz diabet**",
-      "ADH ga javob yo’q",
-      "suyultirilgan ko’p siydik; suv yetishmasa degidratatsiya"
+      "ADH ga javob yo‘q",
+      "suyultirilgan ko‘p siydik; suv yetishmasa degidratatsiya"
      ],
      [
       "**Fanconi sindromi**",
-      "umumiy reabsorbsiya nuqsoni, asosan proksimal kanalcha: aminokislotalar, glyukoza, fosfat yo’qotiladi; og’ir holatda HCO₃⁻ (atsidoz), K⁺, Ca²⁺ va nefrogen qandsiz diabet ham qo’shiladi",
+      "umumiy reabsorbsiya nuqsoni, asosan proksimal kanalcha: aminokislotalar, glyukoza, fosfat yo‘qotiladi; og‘ir holatda HCO₃⁻ (atsidoz), K⁺, Ca²⁺ va nefrogen qandsiz diabet ham qo‘shiladi",
       "sabablar: irsiy, toksinlar yoki dorilar, ishemiya"
      ],
      [
       "**Bartter sindromi**",
-      "qalin tirsakda NKCC2, apikal K⁺ kanali yoki bazolateral Cl⁻ kanali mutatsiyasi; kamida 5 mutatsiya, ko’pincha autosom-retsessiv",
-      "suv, Na⁺, Cl⁻, K⁺ va Ca²⁺ yo’qotiladi, hajm biroz kamayadi, RAAS faollashadi, aldosteron va distal oqim oshadi. **Gipokaliemiya va metabolik alkaloz**. Davosi: NaCl va K⁺ o’rnini to’ldirish, NSAID, spironolakton"
+      "qalin tirsakda NKCC2, apikal K⁺ kanali yoki bazolateral Cl⁻ kanali mutatsiyasi; kamida 5 mutatsiya, ko‘pincha autosom-retsessiv",
+      "suv, Na⁺, Cl⁻, K⁺ va Ca²⁺ yo‘qotiladi, hajm biroz kamayadi, RAAS faollashadi, aldosteron va distal oqim oshadi. **Gipokaliemiya va metabolik alkaloz**. Davosi: NaCl va K⁺ o‘rnini to‘ldirish, NSAID, spironolakton"
      ],
      [
       "**Gitelman sindromi**",
       "tiazidga sezgir NCC nuqsoni, autosom-retsessiv",
-      "Bartter sindromiga o’xshash, lekin yengilroq"
+      "Bartter sindromiga o‘xshash, lekin yengilroq"
      ],
      [
       "**Liddle sindromi**",
       "**ENaC** faolligi oshgan, autosom-dominant",
-      "Na⁺ va suv ushlanadi, gipertenziya, alkaloz. Birlamchi aldosteronizmga o’xshaydi, lekin **renin va aldosteron past**. Davosi: **amilorid**"
+      "Na⁺ va suv ushlanadi, gipertenziya, alkaloz. Birlamchi aldosteronizmga o‘xshaydi, lekin **renin va aldosteron past**. Davosi: **amilorid**"
      ]
     ],
     "bid": "ch32-u59"
@@ -1230,7 +1230,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Davolash: transplantatsiya va dializ",
+    "text": "Davolaş: transplantatsiya va dializ",
     "id": "ch32-s-60-davolash-transplantatsiya-va-dializ",
     "bid": "ch32-u60"
    },
@@ -1239,11 +1239,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "AQShda >700,000 kishi ESRD terapiyasini oladi: ~19,000 transplantatsiya/yil, >100,000 kishi navbatda, >475,000 kishi dializda.",
+      "text": "AQŞda >700,000 kişi ESRD terapiyasini oladi: ~19,000 transplantatsiya/yil, >100,000 kişi navbatda, >475,000 kişi dializda.",
       "depth": 0
      },
      {
-      "text": "**Transplantatsiya**: deyarli normal gomeostazni tiklaydi; umr uzoqroq, asoratlar kamroq. Immunosupressiya kerak, u infeksiya va ba’zi saraton xavfini oshiradi.",
+      "text": "**Transplantatsiya**: deyarli normal gomeostazni tiklaydi; umr uzoqroq, asoratlar kamroq. Immunosupressiya kerak, u infeksiya va ba’zi saraton xavfini oşiradi.",
       "depth": 0
      },
      {
@@ -1251,23 +1251,23 @@
       "depth": 0
      },
      {
-      "text": "qon yupqa yarim o’tkazgich membrana (selofan) orqali dializ suyuqligiga qarama-qarshi oqimda o’tadi;",
+      "text": "qon yupqa yarim ötkazgiç membrana (selofan) orqali dializ suyuqligiga qarama-qarşi oqimda ötadi;",
       "depth": 1
      },
      {
-      "text": "oqsillardan boshqa moddalar diffuziyalanadi;",
+      "text": "oqsillardan boşqa moddalar diffuziyalanadi;",
       "depth": 1
      },
      {
-      "text": "tezlik to’rt omilga bog’liq: konsentratsiya gradienti, membrana o’tkazuvchanligi, maydon, aloqa vaqti. Oqimni oshirish gradientni saqlaydi.",
+      "text": "tezlik tört omilga boğliq: konsentratsiya gradienti, membrana ötkazuvçanligi, maydon, aloqa vaqti. Oqimni oşiriş gradientni saqlaydi.",
       "depth": 1
      },
      {
-      "text": "apparatdagi qon <500 ml, oqim bir necha yuz ml/min, maydon 0.6–2.5 m²; ivishga qarshi **geparin**;",
+      "text": "apparatdagi qon <500 ml, oqim bir neça yuz ml/min, maydon 0.6–2.5 m²; ivişga qarşi **geparin**;",
       "depth": 1
      },
      {
-      "text": "**gemofiltratsiya**: gidrostatik bosim bilan suv va moddalarning \"bulk flow\" o’tkazilishi.",
+      "text": "**gemofiltratsiya**: gidrostatik bosim bilan suv va moddalarning “bulk flow” ötkazilişi.",
       "depth": 1
      },
      {
@@ -1377,7 +1377,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Fosfat, mochevina, urat, sulfat va kreatinin dializ suyuqligida yo’q, shuning uchun uremik qondan ko’p miqdorda chiqib ketadi.",
+      "text": "Fosfat, moçevina, urat, sulfat va kreatinin dializ suyuqligida yöq, şuning uçun uremik qondan köp miqdorda çiqib ketadi.",
       "depth": 1
      },
      {
@@ -1385,15 +1385,15 @@
       "depth": 0
      },
      {
-      "text": "apparatning mochevina klirensi **100–225 ml/min**, ikki normal buyrakniki ~70 ml/min;",
+      "text": "apparatning moçevina klirensi **100–225 ml/min**, ikki normal buyrakniki ~70 ml/min;",
       "depth": 1
      },
      {
-      "text": "lekin haftada 3 marta, 4–6 soatdan qilinadi, shuning uchun umumiy klirens cheklangan;",
+      "text": "lekin haftada 3 marta, 4–6 soatdan qilinadi, şuning uçun umumiy klirens çeklangan;",
       "depth": 1
      },
      {
-      "text": "eritropoetin kabi endokrin funksiyalarni almashtirmaydi.",
+      "text": "eritropoetin kabi endokrin funksiyalarni almaştirmaydi.",
       "depth": 1
      }
     ],
@@ -1402,7 +1402,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Bog’liqlik",
+    "text": "Boğliqlik",
     "id": "ch32-s-65-bogliqlik",
     "bid": "ch32-u65"
    },
@@ -1415,19 +1415,19 @@
       "depth": 0
      },
      {
-      "text": "**25-bob**: shish, nefrotik sindrom.",
+      "text": "**25-bob**: şiş, nefrotik sindrom.",
       "depth": 0
      },
      {
-      "text": "**26-bob**: vezikoureteral reflyuks, nefronlarning yoshga bog’liq yo’qolishi.",
+      "text": "**26-bob**: vezikoureteral reflyuks, nefronlarning yoşga boğliq yöqolişi.",
       "depth": 0
      },
      {
-      "text": "**27-bob**: K_f va minimal o’zgarishli nefropatiya.",
+      "text": "**27-bob**: K_f va minimal özgarişli nefropatiya.",
       "depth": 0
      },
      {
-      "text": "**28-bob**: transportyorlar va diuretik nishonlari, kreatinin klirensi.",
+      "text": "**28-bob**: transportyorlar va diuretik nişonlari, kreatinin klirensi.",
       "depth": 0
      },
      {
@@ -1465,11 +1465,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "AKI turlarini farqlash: prerenal → intrarenal → postrenal.",
+      "text": "AKI turlarini farqlaş: prerenal → intrarenal → postrenal.",
       "depth": 0
      },
      {
-      "text": "Giperkaliemiya >8 mEq/L o’limga olib keladi.",
+      "text": "Giperkaliemiya >8 mEq/L ölimga olib keladi.",
       "depth": 0
      },
      {
@@ -1477,7 +1477,7 @@
       "depth": 0
      },
      {
-      "text": "Toksik o’tkir tubulyar nekroz: etilenglikol, sisplatin, og’ir metallar.",
+      "text": "Toksik ötkir tubulyar nekroz: etilenglikol, sisplatin, oğir metallar.",
       "depth": 0
      },
      {
@@ -1485,7 +1485,7 @@
       "depth": 0
      },
      {
-      "text": "ACE ingibitorlari va ARB CKD rivojlanishini sekinlashtiradi.",
+      "text": "ACE ingibitorlari va ARB CKD rivojlanişini sekinlaştiradi.",
       "depth": 0
      },
      {
@@ -1497,7 +1497,7 @@
       "depth": 1
      },
      {
-      "text": "osteomalyatsiya va ikkilamchi giperparatireoz;",
+      "text": "osteomalyatsiya va ikkilamçi giperparatireoz;",
       "depth": 1
      },
      {
@@ -1509,7 +1509,7 @@
       "depth": 1
      },
      {
-      "text": "Diuretiklarning nojo’ya ta’sirlari:",
+      "text": "Diuretiklarning nojöya ta’sirlari:",
       "depth": 0
      },
      {
@@ -2488,9 +2488,9 @@
  "glossary": [
   {
    "id": "ch32-t-otkir-buyrak-shikastlanishi-aki",
-   "termUz": "o’tkir buyrak shikastlanishi (AKI)",
+   "termUz": "ötkir buyrak şikastlanişi (AKI)",
    "original": null,
-   "contextUz": "o’tkir buyrak shikastlanishi (AKI): prerenal, intrarenal, postrenal; surunkali buyrak kasalligi (CKD): nefronlar asta-sekin yo’qoladi va yo’qotish o’z-o’zini kuchaytiruvchi \"yovuz doira\"ga aylanadi.",
+   "contextUz": "ötkir buyrak şikastlanişi (AKI): prerenal, intrarenal, postrenal; surunkali buyrak kasalligi (CKD): nefronlar asta-sekin yöqoladi va yöqotiş öz-özini kuçaytiruvçi “yovuz doira”ga aylanadi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2500,7 +2500,7 @@
    "id": "ch32-t-surunkali-buyrak-kasalligi-ckd",
    "termUz": "surunkali buyrak kasalligi (CKD)",
    "original": null,
-   "contextUz": "o’tkir buyrak shikastlanishi (AKI): prerenal, intrarenal, postrenal; surunkali buyrak kasalligi (CKD): nefronlar asta-sekin yo’qoladi va yo’qotish o’z-o’zini kuchaytiruvchi \"yovuz doira\"ga aylanadi.",
+   "contextUz": "ötkir buyrak şikastlanişi (AKI): prerenal, intrarenal, postrenal; surunkali buyrak kasalligi (CKD): nefronlar asta-sekin yöqoladi va yöqotiş öz-özini kuçaytiruvçi “yovuz doira”ga aylanadi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2510,7 +2510,7 @@
    "id": "ch32-t-osmotik",
    "termUz": "Osmotik",
    "original": "mannitol; shuningdek mochevina, saxaroza",
-   "contextUz": "Sinf (misol) Mexanizm Ta’sir joyi Xususiyat Osmotik (mannitol; shuningdek mochevina, saxaroza) kanalcha suyuqligi osmolyarligini oshiradi, suv va moddalar reabsorbsiyasini tormozlaydi asosan proksimal kanalcha qandli diabetda glyukoza (>250 mg/dl) \"osmotik diuretik\" bo’ladi: poliuriya va polidipsiya Qovuzloq diuretiklari (furosemid, etakrin kislotasi, bumetanid) NKCC2 (Na⁺-K⁺-2Cl⁻) blokada",
+   "contextUz": "Sinf (misol) Mexanizm Ta’sir joyi Xususiyat Osmotik (mannitol; şuningdek moçevina, saxaroza) kanalça suyuqligi osmolyarligini oşiradi, suv va moddalar reabsorbsiyasini tormozlaydi asosan proksimal kanalça qandli diabetda glyukoza (>250 mg/dl) “osmotik diuretik” böladi: poliuriya va polidipsiya Qovuzloq diuretiklari (furosemid, etakrin kislotasi, bumetanid) NKCC2 (Na⁺-K⁺-2Cl⁻) blokada",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2520,7 +2520,7 @@
    "id": "ch32-t-qovuzloq-diuretiklari",
    "termUz": "Qovuzloq diuretiklari",
    "original": "furosemid, etakrin kislotasi, bumetanid",
-   "contextUz": "Sinf (misol) Mexanizm Ta’sir joyi Xususiyat Osmotik (mannitol; shuningdek mochevina, saxaroza) kanalcha suyuqligi osmolyarligini oshiradi, suv va moddalar reabsorbsiyasini tormozlaydi asosan proksimal kanalcha qandli diabetda glyukoza (>250 mg/dl) \"osmotik diuretik\" bo’ladi: poliuriya va polidipsiya Qovuzloq diuretiklari (furosemid, etakrin kislotasi, bumetanid) NKCC2 (Na⁺-K⁺-2Cl⁻) blokada",
+   "contextUz": "Sinf (misol) Mexanizm Ta’sir joyi Xususiyat Osmotik (mannitol; şuningdek moçevina, saxaroza) kanalça suyuqligi osmolyarligini oşiradi, suv va moddalar reabsorbsiyasini tormozlaydi asosan proksimal kanalça qandli diabetda glyukoza (>250 mg/dl) “osmotik diuretik” böladi: poliuriya va polidipsiya Qovuzloq diuretiklari (furosemid, etakrin kislotasi, bumetanid) NKCC2 (Na⁺-K⁺-2Cl⁻) blokada",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2530,7 +2530,7 @@
    "id": "ch32-t-countercurrent-mexanizm-buziladi",
    "termUz": "countercurrent mexanizm buziladi",
    "original": null,
-   "contextUz": "(1) distalga ko’p modda yetadi; (2) countercurrent mexanizm buziladi, medulla osmolyarligi tushadi, shuning uchun siydikni na konsentrlash, na suyultirish mumkin.",
+   "contextUz": "(1) distalga köp modda yetadi; (2) countercurrent mexanizm buziladi, medulla osmolyarligi tuşadi, şuning uçun siydikni na konsentrlaş, na suyultiriş mumkin.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2540,7 +2540,7 @@
    "id": "ch32-t-25-marta",
    "termUz": "25 marta",
    "original": null,
-   "contextUz": "Filtratning 20–30% i siydikka o’tadi, siydik qisqa muddat 25 marta ko’payadi Tiazidlar (gidroxlorotiazid, xlortalidon) NCC (Na⁺-Cl⁻) blokadasi erta distal kanalcha filtratning maksimum 5–10% i siydikka o’tadi Karboangidraza ingibitorlari (atsetazolamid) H⁺ sekretsiyasi va HCO₃⁻ reabsorbsiyasini tormozlaydi, natijada NHE orqali Na⁺ ham kam so’riladi asosan proksimal kanalcha HCO₃⁻ yo’qo",
+   "contextUz": "Filtratning 20–30% i siydikka ötadi, siydik qisqa muddat 25 marta köpayadi Tiazidlar (gidroxlorotiazid, xlortalidon) NCC (Na⁺-Cl⁻) blokadasi erta distal kanalça filtratning maksimum 5–10% i siydikka ötadi Karboangidraza ingibitorlari (atsetazolamid) H⁺ sekretsiyasi va HCO₃⁻ reabsorbsiyasini tormozlaydi, natijada NHE orqali Na⁺ ham kam söriladi asosan proksimal kanalça HCO₃⁻ yöqo",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2550,7 +2550,7 @@
    "id": "ch32-t-tiazidlar",
    "termUz": "Tiazidlar",
    "original": "gidroxlorotiazid, xlortalidon",
-   "contextUz": "Filtratning 20–30% i siydikka o’tadi, siydik qisqa muddat 25 marta ko’payadi Tiazidlar (gidroxlorotiazid, xlortalidon) NCC (Na⁺-Cl⁻) blokadasi erta distal kanalcha filtratning maksimum 5–10% i siydikka o’tadi Karboangidraza ingibitorlari (atsetazolamid) H⁺ sekretsiyasi va HCO₃⁻ reabsorbsiyasini tormozlaydi, natijada NHE orqali Na⁺ ham kam so’riladi asosan proksimal kanalcha HCO₃⁻ yo’qo",
+   "contextUz": "Filtratning 20–30% i siydikka ötadi, siydik qisqa muddat 25 marta köpayadi Tiazidlar (gidroxlorotiazid, xlortalidon) NCC (Na⁺-Cl⁻) blokadasi erta distal kanalça filtratning maksimum 5–10% i siydikka ötadi Karboangidraza ingibitorlari (atsetazolamid) H⁺ sekretsiyasi va HCO₃⁻ reabsorbsiyasini tormozlaydi, natijada NHE orqali Na⁺ ham kam söriladi asosan proksimal kanalça HCO₃⁻ yöqo",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2560,7 +2560,7 @@
    "id": "ch32-t-karboangidraza-ingibitorlari",
    "termUz": "Karboangidraza ingibitorlari",
    "original": "atsetazolamid",
-   "contextUz": "Filtratning 20–30% i siydikka o’tadi, siydik qisqa muddat 25 marta ko’payadi Tiazidlar (gidroxlorotiazid, xlortalidon) NCC (Na⁺-Cl⁻) blokadasi erta distal kanalcha filtratning maksimum 5–10% i siydikka o’tadi Karboangidraza ingibitorlari (atsetazolamid) H⁺ sekretsiyasi va HCO₃⁻ reabsorbsiyasini tormozlaydi, natijada NHE orqali Na⁺ ham kam so’riladi asosan proksimal kanalcha HCO₃⁻ yo’qo",
+   "contextUz": "Filtratning 20–30% i siydikka ötadi, siydik qisqa muddat 25 marta köpayadi Tiazidlar (gidroxlorotiazid, xlortalidon) NCC (Na⁺-Cl⁻) blokadasi erta distal kanalça filtratning maksimum 5–10% i siydikka ötadi Karboangidraza ingibitorlari (atsetazolamid) H⁺ sekretsiyasi va HCO₃⁻ reabsorbsiyasini tormozlaydi, natijada NHE orqali Na⁺ ham kam söriladi asosan proksimal kanalça HCO₃⁻ yöqo",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2570,7 +2570,7 @@
    "id": "ch32-t-atsidoz",
    "termUz": "atsidoz",
    "original": null,
-   "contextUz": "Filtratning 20–30% i siydikka o’tadi, siydik qisqa muddat 25 marta ko’payadi Tiazidlar (gidroxlorotiazid, xlortalidon) NCC (Na⁺-Cl⁻) blokadasi erta distal kanalcha filtratning maksimum 5–10% i siydikka o’tadi Karboangidraza ingibitorlari (atsetazolamid) H⁺ sekretsiyasi va HCO₃⁻ reabsorbsiyasini tormozlaydi, natijada NHE orqali Na⁺ ham kam so’riladi asosan proksimal kanalcha HCO₃⁻ yo’qo",
+   "contextUz": "Filtratning 20–30% i siydikka ötadi, siydik qisqa muddat 25 marta köpayadi Tiazidlar (gidroxlorotiazid, xlortalidon) NCC (Na⁺-Cl⁻) blokadasi erta distal kanalça filtratning maksimum 5–10% i siydikka ötadi Karboangidraza ingibitorlari (atsetazolamid) H⁺ sekretsiyasi va HCO₃⁻ reabsorbsiyasini tormozlaydi, natijada NHE orqali Na⁺ ham kam söriladi asosan proksimal kanalça HCO₃⁻ yöqo",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2580,7 +2580,7 @@
    "id": "ch32-t-mineralokortikoid-retseptor-antagonistlari",
    "termUz": "Mineralokortikoid retseptor antagonistlari",
    "original": "spironolakton, eplerenon",
-   "contextUz": "Filtratning 20–30% i siydikka o’tadi, siydik qisqa muddat 25 marta ko’payadi Tiazidlar (gidroxlorotiazid, xlortalidon) NCC (Na⁺-Cl⁻) blokadasi erta distal kanalcha filtratning maksimum 5–10% i siydikka o’tadi Karboangidraza ingibitorlari (atsetazolamid) H⁺ sekretsiyasi va HCO₃⁻ reabsorbsiyasini tormozlaydi, natijada NHE orqali Na⁺ ham kam so’riladi asosan proksimal kanalcha HCO₃⁻ yo’qo",
+   "contextUz": "Filtratning 20–30% i siydikka ötadi, siydik qisqa muddat 25 marta köpayadi Tiazidlar (gidroxlorotiazid, xlortalidon) NCC (Na⁺-Cl⁻) blokadasi erta distal kanalça filtratning maksimum 5–10% i siydikka ötadi Karboangidraza ingibitorlari (atsetazolamid) H⁺ sekretsiyasi va HCO₃⁻ reabsorbsiyasini tormozlaydi, natijada NHE orqali Na⁺ ham kam söriladi asosan proksimal kanalça HCO₃⁻ yöqo",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2588,9 +2588,9 @@
   },
   {
    "id": "ch32-t-k-tejovchi",
-   "termUz": "K⁺ tejovchi",
+   "termUz": "K⁺ tejovçi",
    "original": null,
-   "contextUz": "Filtratning 20–30% i siydikka o’tadi, siydik qisqa muddat 25 marta ko’payadi Tiazidlar (gidroxlorotiazid, xlortalidon) NCC (Na⁺-Cl⁻) blokadasi erta distal kanalcha filtratning maksimum 5–10% i siydikka o’tadi Karboangidraza ingibitorlari (atsetazolamid) H⁺ sekretsiyasi va HCO₃⁻ reabsorbsiyasini tormozlaydi, natijada NHE orqali Na⁺ ham kam so’riladi asosan proksimal kanalcha HCO₃⁻ yo’qo",
+   "contextUz": "Filtratning 20–30% i siydikka ötadi, siydik qisqa muddat 25 marta köpayadi Tiazidlar (gidroxlorotiazid, xlortalidon) NCC (Na⁺-Cl⁻) blokadasi erta distal kanalça filtratning maksimum 5–10% i siydikka ötadi Karboangidraza ingibitorlari (atsetazolamid) H⁺ sekretsiyasi va HCO₃⁻ reabsorbsiyasini tormozlaydi, natijada NHE orqali Na⁺ ham kam söriladi asosan proksimal kanalça HCO₃⁻ yöqo",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2600,7 +2600,7 @@
    "id": "ch32-t-na-kanal-blokatorlari",
    "termUz": "Na⁺ kanal blokatorlari",
    "original": "triamteren, amilorid",
-   "contextUz": "K⁺ ni hujayradan chiqarishi ham mumkin, giperkaliemiya xavfi Na⁺ kanal blokatorlari (triamteren, amilorid) ENaC ni bloklaydi, Na⁺-K⁺ ATPaza faolligi kamayadi, K⁺ sekretsiyasi kamayadi yig’uvchi kanalcha K⁺ tejovchi",
+   "contextUz": "K⁺ ni hujayradan çiqarişi ham mumkin, giperkaliemiya xavfi Na⁺ kanal blokatorlari (triamteren, amilorid) ENaC ni bloklaydi, Na⁺-K⁺ ATPaza faolligi kamayadi, K⁺ sekretsiyasi kamayadi yiğuvçi kanalça K⁺ tejovçi",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2610,7 +2610,7 @@
    "id": "ch32-t-kompensatsiya-fig-32-1",
    "termUz": "Kompensatsiya (Fig. 32-1)",
    "original": null,
-   "contextUz": "Kompensatsiya (Fig. 32-1): Diuretik Na⁺ chiqishini darhol oshiradi va ECF kamayadi.",
+   "contextUz": "Kompensatsiya (Fig. 32-1): Diuretik Na⁺ çiqişini darhol oşiradi va ECF kamayadi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2618,9 +2618,9 @@
   },
   {
    "id": "ch32-t-otkir-buyrak-yetishmovchiligi",
-   "termUz": "O’tkir buyrak yetishmovchiligi",
+   "termUz": "Ötkir buyrak yetişmovçiligi",
    "original": null,
-   "contextUz": "O’tkir buyrak yetishmovchiligi uning og’ir shakli bo’lib, dializ talab qiladi.",
+   "contextUz": "Ötkir buyrak yetişmovçiligi uning oğir şakli bölib, dializ talab qiladi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2630,7 +2630,7 @@
    "id": "ch32-t-sepsisda",
    "termUz": "Sepsisda",
    "original": null,
-   "contextUz": "Sepsisda prerenal va intrarenal mexanizmlar birga ishlaydi.",
+   "contextUz": "Sepsisda prerenal va intrarenal mexanizmlar birga işlaydi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2640,7 +2640,7 @@
    "id": "ch32-t-oliguriya",
    "termUz": "oliguriya",
    "original": null,
-   "contextUz": "Buyrak qon oqimi (~1100 ml/min, yurak chiqarishining 20–25%) kamayadi, natijada ↓GFR va oliguriya, og’ir holatda anuriya.",
+   "contextUz": "Buyrak qon oqimi (~1100 ml/min, yurak çiqarişining 20–25%) kamayadi, natijada ↓GFR va oliguriya, oğir holatda anuriya.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2650,7 +2650,7 @@
    "id": "ch32-t-anuriya",
    "termUz": "anuriya",
    "original": null,
-   "contextUz": "Buyrak qon oqimi (~1100 ml/min, yurak chiqarishining 20–25%) kamayadi, natijada ↓GFR va oliguriya, og’ir holatda anuriya.",
+   "contextUz": "Buyrak qon oqimi (~1100 ml/min, yurak çiqarişining 20–25%) kamayadi, natijada ↓GFR va oliguriya, oğir holatda anuriya.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2658,9 +2658,9 @@
   },
   {
    "id": "ch32-t-nega-buyrak-ishemiyaga-bardoshli",
-   "termUz": "Nega buyrak ishemiyaga bardoshli?",
+   "termUz": "Nega buyrak işemiyaga bardoşli?",
    "original": null,
-   "contextUz": "Nega buyrak ishemiyaga bardoshli? GFR tushganda filtrlangan NaCl ham kamayadi.",
+   "contextUz": "Nega buyrak işemiyaga bardoşli? GFR tuşganda filtrlangan NaCl ham kamayadi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2670,7 +2670,7 @@
    "id": "ch32-t-normaning-20-25-idan",
    "termUz": "normaning 20–25% idan",
    "original": null,
-   "contextUz": "Qon oqimi normaning 20–25% idan past tushmasa va sabab tez tuzatilsa, holat qaytariladi.",
+   "contextUz": "Qon oqimi normaning 20–25% idan past tuşmasa va sabab tez tuzatilsa, holat qaytariladi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2680,7 +2680,7 @@
    "id": "ch32-t-intrarenal-aki-ga",
    "termUz": "intrarenal AKI ga",
    "original": null,
-   "contextUz": "Bir necha soatdan uzoq davom etsa, intrarenal AKI ga o’tadi.",
+   "contextUz": "Bir neça soatdan uzoq davom etsa, intrarenal AKI ga ötadi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2690,7 +2690,7 @@
    "id": "ch32-t-sabablar-jadval-32-2",
    "termUz": "Sabablar (Jadval 32-2)",
    "original": null,
-   "contextUz": "Sabablar (Jadval 32-2): tomir ichi hajmining kamayishi: qon ketish (jarohat, operatsiya, tug’ruqdan keyin, me’da-ichak), diareya va qusish, kuyish; yurak yetishmovchiligi: miokard infarkti, klapan shikasti; periferik vazodilatatsiya va gipotenziya: anafilaktik shok, anesteziya, sepsis; buyrak gemodinamikasining birlamchi buzilishi: buyrak arteriyasi stenozi, emboliyasi yoki arteriya va vena tr",
+   "contextUz": "Sabablar (Jadval 32-2): tomir içi hajmining kamayişi: qon ketiş (jarohat, operatsiya, tuğruqdan keyin, me’da-içak), diareya va qusiş, kuyiş; yurak yetişmovçiligi: miokard infarkti, klapan şikasti; periferik vazodilatatsiya va gipotenziya: anafilaktik şok, anesteziya, sepsis; buyrak gemodinamikasining birlamçi buzilişi: buyrak arteriyasi stenozi, emboliyasi yoki arteriya va vena tr",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2698,9 +2698,9 @@
   },
   {
    "id": "ch32-t-kichik-tomir-va-glomerulyar-shikast",
-   "termUz": "Kichik tomir va glomerulyar shikast",
+   "termUz": "Kiçik tomir va glomerulyar şikast",
    "original": null,
-   "contextUz": "Kichik tomir va glomerulyar shikast: vaskulit (tugunchali poliarteriit), xolesterin emboliyasi, malign gipertenziya, o’tkir glomerulonefrit.",
+   "contextUz": "Kiçik tomir va glomerulyar şikast: vaskulit (tugunçali poliarteriit), xolesterin emboliyasi, malign gipertenziya, ötkir glomerulonefrit.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2708,9 +2708,9 @@
   },
   {
    "id": "ch32-t-otkir-glomerulonefrit",
-   "termUz": "o’tkir glomerulonefrit",
+   "termUz": "ötkir glomerulonefrit",
    "original": null,
-   "contextUz": "Kichik tomir va glomerulyar shikast: vaskulit (tugunchali poliarteriit), xolesterin emboliyasi, malign gipertenziya, o’tkir glomerulonefrit.",
+   "contextUz": "Kiçik tomir va glomerulyar şikast: vaskulit (tugunçali poliarteriit), xolesterin emboliyasi, malign gipertenziya, ötkir glomerulonefrit.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2718,9 +2718,9 @@
   },
   {
    "id": "ch32-t-kanalcha-epiteliysi-shikasti",
-   "termUz": "Kanalcha epiteliysi shikasti",
+   "termUz": "Kanalça epiteliysi şikasti",
    "original": null,
-   "contextUz": "Kanalcha epiteliysi shikasti: ishemik yoki toksik o’tkir tubulyar nekroz.",
+   "contextUz": "Kanalça epiteliysi şikasti: işemik yoki toksik ötkir tubulyar nekroz.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2728,9 +2728,9 @@
   },
   {
    "id": "ch32-t-interstitsial-shikast",
-   "termUz": "Interstitsial shikast",
+   "termUz": "Interstitsial şikast",
    "original": null,
-   "contextUz": "Interstitsial shikast: o’tkir pielonefrit, o’tkir allergik interstitsial nefrit.",
+   "contextUz": "Interstitsial şikast: ötkir pielonefrit, ötkir allergik interstitsial nefrit.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2740,7 +2740,7 @@
    "id": "ch32-t-a-gemolitik-streptokokk",
    "termUz": "A β-gemolitik streptokokk",
    "original": null,
-   "contextUz": "~95% holatda guruh A β-gemolitik streptokokk infeksiyasidan (tomoq, bodomcha bezlari yoki teri) 1–3 hafta o’tib boshlanadi.",
+   "contextUz": "~95% holatda guruh A β-gemolitik streptokokk infeksiyasidan (tomoq, bodomça bezlari yoki teri) 1–3 hafta ötib boşlanadi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2748,9 +2748,9 @@
   },
   {
    "id": "ch32-t-ishemik",
-   "termUz": "Ishemik",
+   "termUz": "Işemik",
    "original": "shok",
-   "contextUz": "Ishemik (shok): epiteliy ko’chib tushadi va kanalchalarni tiqib qo’yadi.",
+   "contextUz": "Işemik (şok): epiteliy köçib tuşadi va kanalçalarni tiqib qöyadi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2760,7 +2760,7 @@
    "id": "ch32-t-toksik",
    "termUz": "Toksik",
    "original": null,
-   "contextUz": "Toksik: CCl₄, og’ir metallar (simob, qo’rg’oshin), etilenglikol (antifriz), insektitsidlar, zaharli qo’ziqorinlar, tetratsiklinlar, sisplatin.",
+   "contextUz": "Toksik: CCl₄, oğir metallar (simob, qörğoşin), etilenglikol (antifriz), insektitsidlar, zaharli qöziqorinlar, tetratsiklinlar, sisplatin.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2770,7 +2770,7 @@
    "id": "ch32-t-etilenglikol",
    "termUz": "etilenglikol",
    "original": "antifriz",
-   "contextUz": "Toksik: CCl₄, og’ir metallar (simob, qo’rg’oshin), etilenglikol (antifriz), insektitsidlar, zaharli qo’ziqorinlar, tetratsiklinlar, sisplatin.",
+   "contextUz": "Toksik: CCl₄, oğir metallar (simob, qörğoşin), etilenglikol (antifriz), insektitsidlar, zaharli qöziqorinlar, tetratsiklinlar, sisplatin.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2780,7 +2780,7 @@
    "id": "ch32-t-sisplatin",
    "termUz": "sisplatin",
    "original": null,
-   "contextUz": "Toksik: CCl₄, og’ir metallar (simob, qo’rg’oshin), etilenglikol (antifriz), insektitsidlar, zaharli qo’ziqorinlar, tetratsiklinlar, sisplatin.",
+   "contextUz": "Toksik: CCl₄, oğir metallar (simob, qörğoşin), etilenglikol (antifriz), insektitsidlar, zaharli qöziqorinlar, tetratsiklinlar, sisplatin.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2800,7 +2800,7 @@
    "id": "ch32-t-giperkaliemiya",
    "termUz": "Giperkaliemiya",
    "original": null,
-   "contextUz": "Giperkaliemiya eng katta xavf: >8 mEq/L (normaning ikki baravari) o’limga olib keladi.",
+   "contextUz": "Giperkaliemiya eng katta xavf: >8 mEq/L (normaning ikki baravari) ölimga olib keladi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2810,7 +2810,7 @@
    "id": "ch32-t-8-meq-l",
    "termUz": ">8 mEq/L",
    "original": "normaning ikki baravari",
-   "contextUz": "Giperkaliemiya eng katta xavf: >8 mEq/L (normaning ikki baravari) o’limga olib keladi.",
+   "contextUz": "Giperkaliemiya eng katta xavf: >8 mEq/L (normaning ikki baravari) ölimga olib keladi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2820,7 +2820,7 @@
    "id": "ch32-t-8-14-kunda",
    "termUz": "8–14 kunda",
    "original": null,
-   "contextUz": "To’liq anuriyada funksiya tiklanmasa yoki dializ qilinmasa, 8–14 kunda o’lim.",
+   "contextUz": "Töliq anuriyada funksiya tiklanmasa yoki dializ qilinmasa, 8–14 kunda ölim.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2830,7 +2830,7 @@
    "id": "ch32-t-3-oy",
    "termUz": "≥3 oy",
    "original": null,
-   "contextUz": "Buyrak shikasti yoki funksiya pasayishi ≥3 oy davom etadi.",
+   "contextUz": "Buyrak şikasti yoki funksiya pasayişi ≥3 oy davom etadi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2840,7 +2840,7 @@
    "id": "ch32-t-70-75",
    "termUz": "70–75%",
    "original": null,
-   "contextUz": "Funksional nefronlar 70–75% ga kamaygandan keyingina jiddiy simptomlar paydo bo’ladi.",
+   "contextUz": "Funksional nefronlar 70–75% ga kamaygandan keyingina jiddiy simptomlar paydo böladi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2850,7 +2850,7 @@
    "id": "ch32-t-20-25",
    "termUz": "20–25%",
    "original": null,
-   "contextUz": "Elektrolitlar va hajm nefronlar normaning 20–25% iga tushguncha deyarli normal saqlanadi.",
+   "contextUz": "Elektrolitlar va hajm nefronlar normaning 20–25% iga tuşgunça deyarli normal saqlanadi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2860,7 +2860,7 @@
    "id": "ch32-t-sabablar-jadval-32-4",
    "termUz": "Sabablar (Jadval 32-4)",
    "original": null,
-   "contextUz": "Sabablar (Jadval 32-4): metabolik: qandli diabet, amiloidoz; gipertenziya; tomirlar: ateroskleroz, nefroskleroz; immun: glomerulonefrit, tugunchali poliarteriit, qizil yuguruk (SLE); infeksiyalar: pielonefrit, sil; kanalchalar: nefrotoksinlar (analgetiklar, og’ir metallar); obstruksiya: toshlar, prostata gipertrofiyasi, uretra torayishi; tug’ma: polikistoz, gipo",
+   "contextUz": "Sabablar (Jadval 32-4): metabolik: qandli diabet, amiloidoz; gipertenziya; tomirlar: ateroskleroz, nefroskleroz; immun: glomerulonefrit, tugunçali poliarteriit, qizil yuguruk (SLE); infeksiyalar: pielonefrit, sil; kanalçalar: nefrotoksinlar (analgetiklar, oğir metallar); obstruksiya: toşlar, prostata gipertrofiyasi, uretra torayişi; tuğma: polikistoz, gipo",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2870,7 +2870,7 @@
    "id": "ch32-t-metabolik",
    "termUz": "metabolik",
    "original": null,
-   "contextUz": "Sabablar (Jadval 32-4): metabolik: qandli diabet, amiloidoz; gipertenziya; tomirlar: ateroskleroz, nefroskleroz; immun: glomerulonefrit, tugunchali poliarteriit, qizil yuguruk (SLE); infeksiyalar: pielonefrit, sil; kanalchalar: nefrotoksinlar (analgetiklar, og’ir metallar); obstruksiya: toshlar, prostata gipertrofiyasi, uretra torayishi; tug’ma: polikistoz, gipo",
+   "contextUz": "Sabablar (Jadval 32-4): metabolik: qandli diabet, amiloidoz; gipertenziya; tomirlar: ateroskleroz, nefroskleroz; immun: glomerulonefrit, tugunçali poliarteriit, qizil yuguruk (SLE); infeksiyalar: pielonefrit, sil; kanalçalar: nefrotoksinlar (analgetiklar, oğir metallar); obstruksiya: toşlar, prostata gipertrofiyasi, uretra torayişi; tuğma: polikistoz, gipo",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2880,7 +2880,7 @@
    "id": "ch32-t-gipertenziya",
    "termUz": "gipertenziya",
    "original": null,
-   "contextUz": "Sabablar (Jadval 32-4): metabolik: qandli diabet, amiloidoz; gipertenziya; tomirlar: ateroskleroz, nefroskleroz; immun: glomerulonefrit, tugunchali poliarteriit, qizil yuguruk (SLE); infeksiyalar: pielonefrit, sil; kanalchalar: nefrotoksinlar (analgetiklar, og’ir metallar); obstruksiya: toshlar, prostata gipertrofiyasi, uretra torayishi; tug’ma: polikistoz, gipo",
+   "contextUz": "Sabablar (Jadval 32-4): metabolik: qandli diabet, amiloidoz; gipertenziya; tomirlar: ateroskleroz, nefroskleroz; immun: glomerulonefrit, tugunçali poliarteriit, qizil yuguruk (SLE); infeksiyalar: pielonefrit, sil; kanalçalar: nefrotoksinlar (analgetiklar, oğir metallar); obstruksiya: toşlar, prostata gipertrofiyasi, uretra torayişi; tuğma: polikistoz, gipo",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2890,7 +2890,7 @@
    "id": "ch32-t-tomirlar",
    "termUz": "tomirlar",
    "original": null,
-   "contextUz": "Sabablar (Jadval 32-4): metabolik: qandli diabet, amiloidoz; gipertenziya; tomirlar: ateroskleroz, nefroskleroz; immun: glomerulonefrit, tugunchali poliarteriit, qizil yuguruk (SLE); infeksiyalar: pielonefrit, sil; kanalchalar: nefrotoksinlar (analgetiklar, og’ir metallar); obstruksiya: toshlar, prostata gipertrofiyasi, uretra torayishi; tug’ma: polikistoz, gipo",
+   "contextUz": "Sabablar (Jadval 32-4): metabolik: qandli diabet, amiloidoz; gipertenziya; tomirlar: ateroskleroz, nefroskleroz; immun: glomerulonefrit, tugunçali poliarteriit, qizil yuguruk (SLE); infeksiyalar: pielonefrit, sil; kanalçalar: nefrotoksinlar (analgetiklar, oğir metallar); obstruksiya: toşlar, prostata gipertrofiyasi, uretra torayişi; tuğma: polikistoz, gipo",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2900,7 +2900,7 @@
    "id": "ch32-t-immun",
    "termUz": "immun",
    "original": null,
-   "contextUz": "Sabablar (Jadval 32-4): metabolik: qandli diabet, amiloidoz; gipertenziya; tomirlar: ateroskleroz, nefroskleroz; immun: glomerulonefrit, tugunchali poliarteriit, qizil yuguruk (SLE); infeksiyalar: pielonefrit, sil; kanalchalar: nefrotoksinlar (analgetiklar, og’ir metallar); obstruksiya: toshlar, prostata gipertrofiyasi, uretra torayishi; tug’ma: polikistoz, gipo",
+   "contextUz": "Sabablar (Jadval 32-4): metabolik: qandli diabet, amiloidoz; gipertenziya; tomirlar: ateroskleroz, nefroskleroz; immun: glomerulonefrit, tugunçali poliarteriit, qizil yuguruk (SLE); infeksiyalar: pielonefrit, sil; kanalçalar: nefrotoksinlar (analgetiklar, oğir metallar); obstruksiya: toşlar, prostata gipertrofiyasi, uretra torayişi; tuğma: polikistoz, gipo",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2910,7 +2910,7 @@
    "id": "ch32-t-infeksiyalar",
    "termUz": "infeksiyalar",
    "original": null,
-   "contextUz": "Sabablar (Jadval 32-4): metabolik: qandli diabet, amiloidoz; gipertenziya; tomirlar: ateroskleroz, nefroskleroz; immun: glomerulonefrit, tugunchali poliarteriit, qizil yuguruk (SLE); infeksiyalar: pielonefrit, sil; kanalchalar: nefrotoksinlar (analgetiklar, og’ir metallar); obstruksiya: toshlar, prostata gipertrofiyasi, uretra torayishi; tug’ma: polikistoz, gipo",
+   "contextUz": "Sabablar (Jadval 32-4): metabolik: qandli diabet, amiloidoz; gipertenziya; tomirlar: ateroskleroz, nefroskleroz; immun: glomerulonefrit, tugunçali poliarteriit, qizil yuguruk (SLE); infeksiyalar: pielonefrit, sil; kanalçalar: nefrotoksinlar (analgetiklar, oğir metallar); obstruksiya: toşlar, prostata gipertrofiyasi, uretra torayişi; tuğma: polikistoz, gipo",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2918,9 +2918,9 @@
   },
   {
    "id": "ch32-t-kanalchalar",
-   "termUz": "kanalchalar",
+   "termUz": "kanalçalar",
    "original": null,
-   "contextUz": "Sabablar (Jadval 32-4): metabolik: qandli diabet, amiloidoz; gipertenziya; tomirlar: ateroskleroz, nefroskleroz; immun: glomerulonefrit, tugunchali poliarteriit, qizil yuguruk (SLE); infeksiyalar: pielonefrit, sil; kanalchalar: nefrotoksinlar (analgetiklar, og’ir metallar); obstruksiya: toshlar, prostata gipertrofiyasi, uretra torayishi; tug’ma: polikistoz, gipo",
+   "contextUz": "Sabablar (Jadval 32-4): metabolik: qandli diabet, amiloidoz; gipertenziya; tomirlar: ateroskleroz, nefroskleroz; immun: glomerulonefrit, tugunçali poliarteriit, qizil yuguruk (SLE); infeksiyalar: pielonefrit, sil; kanalçalar: nefrotoksinlar (analgetiklar, oğir metallar); obstruksiya: toşlar, prostata gipertrofiyasi, uretra torayişi; tuğma: polikistoz, gipo",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2930,7 +2930,7 @@
    "id": "ch32-t-obstruksiya",
    "termUz": "obstruksiya",
    "original": null,
-   "contextUz": "Sabablar (Jadval 32-4): metabolik: qandli diabet, amiloidoz; gipertenziya; tomirlar: ateroskleroz, nefroskleroz; immun: glomerulonefrit, tugunchali poliarteriit, qizil yuguruk (SLE); infeksiyalar: pielonefrit, sil; kanalchalar: nefrotoksinlar (analgetiklar, og’ir metallar); obstruksiya: toshlar, prostata gipertrofiyasi, uretra torayishi; tug’ma: polikistoz, gipo",
+   "contextUz": "Sabablar (Jadval 32-4): metabolik: qandli diabet, amiloidoz; gipertenziya; tomirlar: ateroskleroz, nefroskleroz; immun: glomerulonefrit, tugunçali poliarteriit, qizil yuguruk (SLE); infeksiyalar: pielonefrit, sil; kanalçalar: nefrotoksinlar (analgetiklar, oğir metallar); obstruksiya: toşlar, prostata gipertrofiyasi, uretra torayişi; tuğma: polikistoz, gipo",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2938,9 +2938,9 @@
   },
   {
    "id": "ch32-t-tugma",
-   "termUz": "tug’ma",
+   "termUz": "tuğma",
    "original": null,
-   "contextUz": "Sabablar (Jadval 32-4): metabolik: qandli diabet, amiloidoz; gipertenziya; tomirlar: ateroskleroz, nefroskleroz; immun: glomerulonefrit, tugunchali poliarteriit, qizil yuguruk (SLE); infeksiyalar: pielonefrit, sil; kanalchalar: nefrotoksinlar (analgetiklar, og’ir metallar); obstruksiya: toshlar, prostata gipertrofiyasi, uretra torayishi; tug’ma: polikistoz, gipo",
+   "contextUz": "Sabablar (Jadval 32-4): metabolik: qandli diabet, amiloidoz; gipertenziya; tomirlar: ateroskleroz, nefroskleroz; immun: glomerulonefrit, tugunçali poliarteriit, qizil yuguruk (SLE); infeksiyalar: pielonefrit, sil; kanalçalar: nefrotoksinlar (analgetiklar, oğir metallar); obstruksiya: toşlar, prostata gipertrofiyasi, uretra torayişi; tuğma: polikistoz, gipo",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2950,7 +2950,7 @@
    "id": "ch32-t-gipertrofiyalanadi",
    "termUz": "gipertrofiyalanadi",
    "original": null,
-   "contextUz": "Qolganlari gipertrofiyalanadi va vazodilatatsiya bo’ladi: har bir nefronda qon oqimi, GFR va siydik ortadi.",
+   "contextUz": "Qolganlari gipertrofiyalanadi va vazodilatatsiya böladi: har bir nefronda qon oqimi, GFR va siydik ortadi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2960,7 +2960,7 @@
    "id": "ch32-t-skleroz",
    "termUz": "skleroz",
    "original": null,
-   "contextUz": "Yillar davomida oshgan bosim va cho’zilish glomerullarda skleroz chaqiradi.",
+   "contextUz": "Yillar davomida oşgan bosim va çöziliş glomerullarda skleroz çaqiradi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2968,9 +2968,9 @@
   },
   {
    "id": "ch32-t-oxirgi-bosqich-buyrak-kasalligi-esrd",
-   "termUz": "oxirgi bosqich buyrak kasalligi (ESRD)",
+   "termUz": "oxirgi bosqiç buyrak kasalligi (ESRD)",
    "original": null,
-   "contextUz": "Yana ko’proq nefron yo’qoladi va jarayon oxirgi bosqich buyrak kasalligi (ESRD) ga yetadi: dializ yoki transplantatsiya kerak bo’ladi.",
+   "contextUz": "Yana köproq nefron yöqoladi va jarayon oxirgi bosqiç buyrak kasalligi (ESRD) ga yetadi: dializ yoki transplantatsiya kerak böladi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2978,9 +2978,9 @@
   },
   {
    "id": "ch32-t-sekinlashtirish",
-   "termUz": "Sekinlashtirish",
+   "termUz": "Sekinlaştiriş",
    "original": null,
-   "contextUz": "Sekinlashtirish: arterial va glomerulyar bosimni pasaytirish, ayniqsa ACE ingibitorlari yoki ARB bilan.",
+   "contextUz": "Sekinlaştiriş: arterial va glomerulyar bosimni pasaytiriş, ayniqsa ACE ingibitorlari yoki ARB bilan.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -2990,7 +2990,7 @@
    "id": "ch32-t-ace-ingibitorlari-yoki-arb",
    "termUz": "ACE ingibitorlari yoki ARB",
    "original": null,
-   "contextUz": "Sekinlashtirish: arterial va glomerulyar bosimni pasaytirish, ayniqsa ACE ingibitorlari yoki ARB bilan.",
+   "contextUz": "Sekinlaştiriş: arterial va glomerulyar bosimni pasaytiriş, ayniqsa ACE ingibitorlari yoki ARB bilan.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3010,7 +3010,7 @@
    "id": "ch32-t-70",
    "termUz": ">70%",
    "original": null,
-   "contextUz": "Diabet va gipertenziya birga >70% ni tashkil qiladi.",
+   "contextUz": "Diabet va gipertenziya birga >70% ni taşkil qiladi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3020,7 +3020,7 @@
    "id": "ch32-t-semizlik",
    "termUz": "Semizlik",
    "original": null,
-   "contextUz": "Semizlik ikkalasi uchun ham asosiy xavf omili: 2-tur diabet barcha diabetning >90% i; semizlik gipertenziya xavfining 65–75% ini beradi.",
+   "contextUz": "Semizlik ikkalasi uçun ham asosiy xavf omili: 2-tur diabet barça diabetning >90% i; semizlik gipertenziya xavfining 65–75% ini beradi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3040,7 +3040,7 @@
    "id": "ch32-t-benign-nefroskleroz",
    "termUz": "Benign nefroskleroz",
    "original": null,
-   "contextUz": "Benign nefroskleroz: eng ko’p uchraydigan buyrak kasalligi.",
+   "contextUz": "Benign nefroskleroz: eng köp uçraydigan buyrak kasalligi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3050,7 +3050,7 @@
    "id": "ch32-t-70",
    "termUz": "~70%",
    "original": null,
-   "contextUz": "60 yoshdan keyin vafot etganlarning ~70% ida topiladi.",
+   "contextUz": "60 yoşdan keyin vafot etganlarning ~70% ida topiladi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3058,9 +3058,9 @@
   },
   {
    "id": "ch32-t-glomeruloskleroz-va-qarish",
-   "termUz": "Glomeruloskleroz va qarish",
+   "termUz": "Glomeruloskleroz va qariş",
    "original": null,
-   "contextUz": "Glomeruloskleroz va qarish: 40 yoshdan keyin har 10 yilda nefronlar ~10% kamayadi (Fig.",
+   "contextUz": "Glomeruloskleroz va qariş: 40 yoşdan keyin har 10 yilda nefronlar ~10% kamayadi (Fig.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3070,7 +3070,7 @@
    "id": "ch32-t-10",
    "termUz": "~10%",
    "original": null,
-   "contextUz": "Glomeruloskleroz va qarish: 40 yoshdan keyin har 10 yilda nefronlar ~10% kamayadi (Fig.",
+   "contextUz": "Glomeruloskleroz va qariş: 40 yoşdan keyin har 10 yilda nefronlar ~10% kamayadi (Fig.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3080,7 +3080,7 @@
    "id": "ch32-t-40-50",
    "termUz": "40–50%",
    "original": null,
-   "contextUz": "80 yoshda gipertenziya yoki diabeti yo’q odamda ham RPF va GFR 40–50% pasayadi.",
+   "contextUz": "80 yoşda gipertenziya yoki diabeti yöq odamda ham RPF va GFR 40–50% pasayadi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3090,7 +3090,7 @@
    "id": "ch32-t-malign-nefroskleroz",
    "termUz": "Malign nefroskleroz",
    "original": null,
-   "contextUz": "Malign nefrosklerozda arteriolalarda ko’p fibrinoid to’planadi va og’ir ishemiya rivojlanadi.",
+   "contextUz": "Malign nefrosklerozda arteriolalarda köp fibrinoid töplanadi va oğir işemiya rivojlanadi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3100,7 +3100,7 @@
    "id": "ch32-t-mexanizm",
    "termUz": "Mexanizm",
    "original": null,
-   "contextUz": "Mexanizm: immun komplekslar → yallig’lanish → membrana qalinlashadi → fibroz → K_f kamayadi → glomerullar fibroz to’qima bilan almashinadi.",
+   "contextUz": "Mexanizm: immun komplekslar → yalliğlaniş → membrana qalinlaşadi → fibroz → K_f kamayadi → glomerullar fibroz töqima bilan almaşinadi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3110,7 +3110,7 @@
    "id": "ch32-t-k-f-kamayadi",
    "termUz": "K_f kamayadi",
    "original": null,
-   "contextUz": "Mexanizm: immun komplekslar → yallig’lanish → membrana qalinlashadi → fibroz → K_f kamayadi → glomerullar fibroz to’qima bilan almashinadi.",
+   "contextUz": "Mexanizm: immun komplekslar → yalliğlaniş → membrana qalinlaşadi → fibroz → K_f kamayadi → glomerullar fibroz töqima bilan almaşinadi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3130,7 +3130,7 @@
    "id": "ch32-t-e-coli",
    "termUz": "E. coli",
    "original": null,
-   "contextUz": "Pielonefrit: asosan *E. coli* (najas bilan ifloslanish) chaqiradi.",
+   "contextUz": "Pielonefrit: asosan *E. coli* (najas bilan ifloslaniş) çaqiradi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3138,9 +3138,9 @@
   },
   {
    "id": "ch32-t-moyil-qiluvchi-omillar",
-   "termUz": "Moyil qiluvchi omillar",
+   "termUz": "Moyil qiluvçi omillar",
    "original": null,
-   "contextUz": "Moyil qiluvchi omillar: qovuqning to’liq bo’shamasligi (qoldiq siydik), obstruksiya.",
+   "contextUz": "Moyil qiluvçi omillar: qovuqning töliq böşamasligi (qoldiq siydik), obstruksiya.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3150,7 +3150,7 @@
    "id": "ch32-t-sistit",
    "termUz": "sistit",
    "original": null,
-   "contextUz": "Natijada sistit, so’ngra vezikoureteral reflyuks orqali bakteriyalar buyrak jomiga chiqadi.",
+   "contextUz": "Natijada sistit, söngra vezikoureteral reflyuks orqali bakteriyalar buyrak jomiga çiqadi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3160,7 +3160,7 @@
    "id": "ch32-t-vezikoureteral-reflyuks",
    "termUz": "vezikoureteral reflyuks",
    "original": null,
-   "contextUz": "Natijada sistit, so’ngra vezikoureteral reflyuks orqali bakteriyalar buyrak jomiga chiqadi.",
+   "contextUz": "Natijada sistit, söngra vezikoureteral reflyuks orqali bakteriyalar buyrak jomiga çiqadi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3168,9 +3168,9 @@
   },
   {
    "id": "ch32-t-medulladan-boshlanadi",
-   "termUz": "Medulladan boshlanadi",
+   "termUz": "Medulladan boşlanadi",
    "original": null,
-   "contextUz": "Medulladan boshlanadi, shuning uchun avval siydikni konsentrlash qobiliyati buziladi.",
+   "contextUz": "Medulladan boşlanadi, şuning uçun avval siydikni konsentrlaş qobiliyati buziladi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3178,9 +3178,9 @@
   },
   {
    "id": "ch32-t-siydikni-konsentrlash-qobiliyati",
-   "termUz": "siydikni konsentrlash qobiliyati",
+   "termUz": "siydikni konsentrlaş qobiliyati",
    "original": null,
-   "contextUz": "Medulladan boshlanadi, shuning uchun avval siydikni konsentrlash qobiliyati buziladi.",
+   "contextUz": "Medulladan boşlanadi, şuning uçun avval siydikni konsentrlaş qobiliyati buziladi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3190,7 +3190,7 @@
    "id": "ch32-t-sabablar",
    "termUz": "Sabablar",
    "original": null,
-   "contextUz": "Sabablar: surunkali glomerulonefrit; amiloidoz: tomir devoriga oqsilsimon modda cho’kadi; minimal o’zgarishli shakl: T-hujayra sitokinlari podotsitlarni shikastlaydi.",
+   "contextUz": "Sabablar: surunkali glomerulonefrit; amiloidoz: tomir devoriga oqsilsimon modda çökadi; minimal özgarişli şakl: T-hujayra sitokinlari podotsitlarni şikastlaydi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3200,7 +3200,7 @@
    "id": "ch32-t-amiloidoz",
    "termUz": "amiloidoz",
    "original": null,
-   "contextUz": "Sabablar: surunkali glomerulonefrit; amiloidoz: tomir devoriga oqsilsimon modda cho’kadi; minimal o’zgarishli shakl: T-hujayra sitokinlari podotsitlarni shikastlaydi.",
+   "contextUz": "Sabablar: surunkali glomerulonefrit; amiloidoz: tomir devoriga oqsilsimon modda çökadi; minimal özgarişli şakl: T-hujayra sitokinlari podotsitlarni şikastlaydi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3208,9 +3208,9 @@
   },
   {
    "id": "ch32-t-minimal-ozgarishli",
-   "termUz": "minimal o’zgarishli",
+   "termUz": "minimal özgarişli",
    "original": null,
-   "contextUz": "Sabablar: surunkali glomerulonefrit; amiloidoz: tomir devoriga oqsilsimon modda cho’kadi; minimal o’zgarishli shakl: T-hujayra sitokinlari podotsitlarni shikastlaydi.",
+   "contextUz": "Sabablar: surunkali glomerulonefrit; amiloidoz: tomir devoriga oqsilsimon modda çökadi; minimal özgarişli şakl: T-hujayra sitokinlari podotsitlarni şikastlaydi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3218,9 +3218,9 @@
   },
   {
    "id": "ch32-t-2-6-yoshli-bolalarda",
-   "termUz": "2–6 yoshli bolalarda",
+   "termUz": "2–6 yoşli bolalarda",
    "original": null,
-   "contextUz": "Asosan 2–6 yoshli bolalarda.",
+   "contextUz": "Asosan 2–6 yoşli bolalarda.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3230,7 +3230,7 @@
    "id": "ch32-t-40-g-kun",
    "termUz": "40 g/kun",
    "original": null,
-   "contextUz": "Bolada siydik bilan 40 g/kun gacha oqsil yo’qotilishi mumkin.",
+   "contextUz": "Bolada siydik bilan 40 g/kun gaça oqsil yöqotilişi mumkin.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3238,9 +3238,9 @@
   },
   {
    "id": "ch32-t-ogir-shish",
-   "termUz": "og’ir shish",
+   "termUz": "oğir şiş",
    "original": null,
-   "contextUz": "Plazma oqsili <2 g/dl, onkotik bosim 28 dan <10 mm Hg ga tushadi va og’ir shish rivojlanadi (25, 30-boblar).",
+   "contextUz": "Plazma oqsili <2 g/dl, onkotik bosim 28 dan <10 mm Hg ga tuşadi va oğir şiş rivojlanadi (25, 30-boblar).",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3250,7 +3250,7 @@
    "id": "ch32-t-5-10",
    "termUz": "<5–10%",
    "original": null,
-   "contextUz": "<5–10% qolganda o’lim.",
+   "contextUz": "<5–10% qolganda ölim.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3258,9 +3258,9 @@
   },
   {
    "id": "ch32-t-moddalar-adaptatsiyasining-uch-turi-fig-32-5",
-   "termUz": "Moddalar adaptatsiyasining uch turi (Fig. 32-5)",
+   "termUz": "Moddalar adaptatsiyasining uç turi (Fig. 32-5)",
    "original": null,
-   "contextUz": "Moddalar adaptatsiyasining uch turi (Fig. 32-5):",
+   "contextUz": "Moddalar adaptatsiyasining uç turi (Fig. 32-5):",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3270,7 +3270,7 @@
    "id": "ch32-t-kreatinin",
    "termUz": "Kreatinin",
    "original": null,
-   "contextUz": "Kreatinin: GFR yarmiga tushsa, P_Cr ikki baravar oshadi va ekskretsiya ishlab chiqarilishga tenglashadi (Fig.",
+   "contextUz": "Kreatinin: GFR yarmiga tuşsa, P_Cr ikki baravar oşadi va ekskretsiya işlab çiqarilişga tenglaşadi (Fig.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3279,8 +3279,8 @@
   {
    "id": "ch32-t-jadval-32-6",
    "termUz": "Jadval 32-6",
-   "original": "75% nefron yo’qolganda",
-   "contextUz": "Jadval 32-6 (75% nefron yo’qolganda):",
+   "original": "75% nefron yo‘qolganda",
+   "contextUz": "Jadval 32-6 (75% nefron yöqolganda):",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3290,7 +3290,7 @@
    "id": "ch32-t-izostenuriya-fig-32-6",
    "termUz": "Izostenuriya (Fig. 32-6)",
    "original": null,
-   "contextUz": "Izostenuriya (Fig. 32-6): har bir nefrondan oqim tez o’tadi.",
+   "contextUz": "Izostenuriya (Fig. 32-6): har bir nefrondan oqim tez ötadi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3298,9 +3298,9 @@
   },
   {
    "id": "ch32-t-konsentrlash",
-   "termUz": "konsentrlash",
+   "termUz": "konsentrlaş",
    "original": null,
-   "contextUz": "Yig’uvchi naychalarda suv yetarli so’rilmaydi va countercurrent mexanizm samarasiz bo’ladi, shuning uchun konsentrlash buziladi.",
+   "contextUz": "Yiğuvçi nayçalarda suv yetarli sörilmaydi va countercurrent mexanizm samarasiz böladi, şuning uçun konsentrlaş buziladi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3308,9 +3308,9 @@
   },
   {
    "id": "ch32-t-suyultirish",
-   "termUz": "suyultirish",
+   "termUz": "suyultiriş",
    "original": null,
-   "contextUz": "Mochevina yuklamasi yuqori, shuning uchun suyultirish ham buziladi.",
+   "contextUz": "Moçevina yuklamasi yuqori, şuning uçun suyultiriş ham buziladi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3320,7 +3320,7 @@
    "id": "ch32-t-12-soat-suvsiz-qoldirib-konsentratsiya-testi",
    "termUz": "≥12 soat suvsiz qoldirib konsentratsiya testi",
    "original": null,
-   "contextUz": "Konsentrlash ko’proq buzilgani uchun ≥12 soat suvsiz qoldirib konsentratsiya testi qilinadi.",
+   "contextUz": "Konsentrlaş köproq buzilgani uçun ≥12 soat suvsiz qoldirib konsentratsiya testi qilinadi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3328,9 +3328,9 @@
   },
   {
    "id": "ch32-t-shish",
-   "termUz": "Shish",
+   "termUz": "Şiş",
    "original": null,
-   "contextUz": "Shish: suv va tuz ushlanadi.",
+   "contextUz": "Şiş: suv va tuz uşlanadi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3340,7 +3340,7 @@
    "id": "ch32-t-azotemiya",
    "termUz": "Azotemiya",
    "original": null,
-   "contextUz": "Azotemiya: oqsilsiz azot birikmalari (mochevina, siydik kislotasi, kreatinin) to’planadi.",
+   "contextUz": "Azotemiya: oqsilsiz azot birikmalari (moçevina, siydik kislotasi, kreatinin) töplanadi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3370,7 +3370,7 @@
    "id": "ch32-t-osteomalyatsiya",
    "termUz": "Osteomalyatsiya",
    "original": null,
-   "contextUz": "Osteomalyatsiya: (a) 1,25-(OH)₂D₃ kam hosil bo’ladi (jigar → buyrak ikki bosqichli faollashuv), ichakda Ca²⁺ so’rilishi kamayadi; (b) fosfat ushlanadi, Ca²⁺ bilan bog’lanadi, ionlangan Ca²⁺ kamayadi va ikkilamchi giperparatireoz rivojlanadi; suyakdan Ca²⁺ chiqadi.",
+   "contextUz": "Osteomalyatsiya: (a) 1,25-(OH)₂D₃ kam hosil böladi (jigar → buyrak ikki bosqiçli faollaşuv), içakda Ca²⁺ sörilişi kamayadi; (b) fosfat uşlanadi, Ca²⁺ bilan boğlanadi, ionlangan Ca²⁺ kamayadi va ikkilamçi giperparatireoz rivojlanadi; suyakdan Ca²⁺ çiqadi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3380,7 +3380,7 @@
    "id": "ch32-t-1-25-oh-d",
    "termUz": "1,25-(OH)₂D₃",
    "original": null,
-   "contextUz": "Osteomalyatsiya: (a) 1,25-(OH)₂D₃ kam hosil bo’ladi (jigar → buyrak ikki bosqichli faollashuv), ichakda Ca²⁺ so’rilishi kamayadi; (b) fosfat ushlanadi, Ca²⁺ bilan bog’lanadi, ionlangan Ca²⁺ kamayadi va ikkilamchi giperparatireoz rivojlanadi; suyakdan Ca²⁺ chiqadi.",
+   "contextUz": "Osteomalyatsiya: (a) 1,25-(OH)₂D₃ kam hosil böladi (jigar → buyrak ikki bosqiçli faollaşuv), içakda Ca²⁺ sörilişi kamayadi; (b) fosfat uşlanadi, Ca²⁺ bilan boğlanadi, ionlangan Ca²⁺ kamayadi va ikkilamçi giperparatireoz rivojlanadi; suyakdan Ca²⁺ çiqadi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3388,9 +3388,9 @@
   },
   {
    "id": "ch32-t-fosfat-ushlanadi",
-   "termUz": "fosfat ushlanadi",
+   "termUz": "fosfat uşlanadi",
    "original": null,
-   "contextUz": "Osteomalyatsiya: (a) 1,25-(OH)₂D₃ kam hosil bo’ladi (jigar → buyrak ikki bosqichli faollashuv), ichakda Ca²⁺ so’rilishi kamayadi; (b) fosfat ushlanadi, Ca²⁺ bilan bog’lanadi, ionlangan Ca²⁺ kamayadi va ikkilamchi giperparatireoz rivojlanadi; suyakdan Ca²⁺ chiqadi.",
+   "contextUz": "Osteomalyatsiya: (a) 1,25-(OH)₂D₃ kam hosil böladi (jigar → buyrak ikki bosqiçli faollaşuv), içakda Ca²⁺ sörilişi kamayadi; (b) fosfat uşlanadi, Ca²⁺ bilan boğlanadi, ionlangan Ca²⁺ kamayadi va ikkilamçi giperparatireoz rivojlanadi; suyakdan Ca²⁺ çiqadi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3398,9 +3398,9 @@
   },
   {
    "id": "ch32-t-ikkilamchi-giperparatireoz",
-   "termUz": "ikkilamchi giperparatireoz",
+   "termUz": "ikkilamçi giperparatireoz",
    "original": null,
-   "contextUz": "Osteomalyatsiya: (a) 1,25-(OH)₂D₃ kam hosil bo’ladi (jigar → buyrak ikki bosqichli faollashuv), ichakda Ca²⁺ so’rilishi kamayadi; (b) fosfat ushlanadi, Ca²⁺ bilan bog’lanadi, ionlangan Ca²⁺ kamayadi va ikkilamchi giperparatireoz rivojlanadi; suyakdan Ca²⁺ chiqadi.",
+   "contextUz": "Osteomalyatsiya: (a) 1,25-(OH)₂D₃ kam hosil böladi (jigar → buyrak ikki bosqiçli faollaşuv), içakda Ca²⁺ sörilişi kamayadi; (b) fosfat uşlanadi, Ca²⁺ bilan boğlanadi, ionlangan Ca²⁺ kamayadi va ikkilamçi giperparatireoz rivojlanadi; suyakdan Ca²⁺ çiqadi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3408,9 +3408,9 @@
   },
   {
    "id": "ch32-t-na-va-suv-ekskretsiyasini-kamaytiruvchi-shikastlar",
-   "termUz": "Na⁺ va suv ekskretsiyasini kamaytiruvchi shikastlar",
+   "termUz": "Na⁺ va suv ekskretsiyasini kamaytiruvçi şikastlar",
    "original": null,
-   "contextUz": "Na⁺ va suv ekskretsiyasini kamaytiruvchi shikastlar deyarli doim gipertenziya beradi: ↑buyrak tomir qarshiligi (buyrak arteriyasi stenozi); ↓K_f (surunkali glomerulonefrit); ortiqcha Na⁺ reabsorbsiyasi (ortiqcha aldosteron).",
+   "contextUz": "Na⁺ va suv ekskretsiyasini kamaytiruvçi şikastlar deyarli doim gipertenziya beradi: ↑buyrak tomir qarşiligi (buyrak arteriyasi stenozi); ↓K_f (surunkali glomerulonefrit); ortiqça Na⁺ reabsorbsiyasi (ortiqça aldosteron).",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3418,9 +3418,9 @@
   },
   {
    "id": "ch32-t-dogsimon-ishemiya-va-renin",
-   "termUz": "Dog’simon ishemiya va renin",
+   "termUz": "Doğsimon işemiya va renin",
    "original": null,
-   "contextUz": "Dog’simon ishemiya va renin: ishemik to’qima renin ajratadi, Ang II normal nefronlarni ham Na⁺ ni ushlashga majbur qiladi va gipertenziya rivojlanadi; ko’p bemorlarda tuzni keskin cheklash yoki dializ bosimni nazorat qiladi; ba’zilarida faqat ishemik buyrakni olib tashlash yordam beradi (dializ bilan birga).",
+   "contextUz": "Doğsimon işemiya va renin: işemik töqima renin ajratadi, Ang II normal nefronlarni ham Na⁺ ni uşlaşga majbur qiladi va gipertenziya rivojlanadi; köp bemorlarda tuzni keskin çeklaş yoki dializ bosimni nazorat qiladi; ba’zilarida faqat işemik buyrakni olib taşlaş yordam beradi (dializ bilan birga).",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3428,9 +3428,9 @@
   },
   {
    "id": "ch32-t-butun-nefronlar-yoqolishi",
-   "termUz": "Butun nefronlar yo’qolishi",
+   "termUz": "Butun nefronlar yöqolişi",
    "original": "masalan, bitta buyrak va ikkinchisining bir qismi",
-   "contextUz": "Butun nefronlar yo’qolishi (masalan, bitta buyrak va ikkinchisining bir qismi): qolgan nefronlar normal va tuz ko’p emas bo’lsa, katta gipertenziya bo’lmasligi mumkin; ko’p tuz iste’mol qilinsa, og’ir gipertenziya rivojlanadi.",
+   "contextUz": "Butun nefronlar yöqolişi (masalan, bitta buyrak va ikkinçisining bir qismi): qolgan nefronlar normal va tuz köp emas bölsa, katta gipertenziya bölmasligi mumkin; köp tuz iste’mol qilinsa, oğir gipertenziya rivojlanadi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3438,9 +3438,9 @@
   },
   {
    "id": "ch32-t-kop-tuz",
-   "termUz": "ko’p tuz",
+   "termUz": "köp tuz",
    "original": null,
-   "contextUz": "Butun nefronlar yo’qolishi (masalan, bitta buyrak va ikkinchisining bir qismi): qolgan nefronlar normal va tuz ko’p emas bo’lsa, katta gipertenziya bo’lmasligi mumkin; ko’p tuz iste’mol qilinsa, og’ir gipertenziya rivojlanadi.",
+   "contextUz": "Butun nefronlar yöqolişi (masalan, bitta buyrak va ikkinçisining bir qismi): qolgan nefronlar normal va tuz köp emas bölsa, katta gipertenziya bölmasligi mumkin; köp tuz iste’mol qilinsa, oğir gipertenziya rivojlanadi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3448,9 +3448,9 @@
   },
   {
    "id": "ch32-t-davolash",
-   "termUz": "Davolash",
+   "termUz": "Davolaş",
    "original": null,
-   "contextUz": "Davolash: β-blokerlar, ARB va ACE ingibitorlari, kalsiy kanal blokatorlari (buyrakni kengaytirib GFR ni oshiradi), diuretiklar.",
+   "contextUz": "Davolaş: β-blokerlar, ARB va ACE ingibitorlari, kalsiy kanal blokatorlari (buyrakni kengaytirib GFR ni oşiradi), diuretiklar.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3460,7 +3460,7 @@
    "id": "ch32-t-renal-glyukozuriya",
    "termUz": "Renal glyukozuriya",
    "original": null,
-   "contextUz": "Kasallik Nuqson Natija Renal glyukozuriya glyukoza transportyori yetishmaydi, qondagi glyukoza normal xavfsiz holat; diabet tashxisidan oldin istisno qilinishi kerak Aminoatsiduriya umumiy (kam uchraydi) yoki xususiy: sistinuriya (sistin toshlari), glitsinuriya, β-aminoizobutirat atsiduriya (aholining ~5% i, klinik ahamiyati yo’q) — Renal gipofosfatemiya fosfat reabsorbsiyasi yetis",
+   "contextUz": "Kasallik Nuqson Natija Renal glyukozuriya glyukoza transportyori yetişmaydi, qondagi glyukoza normal xavfsiz holat; diabet taşxisidan oldin istisno qilinişi kerak Aminoatsiduriya umumiy (kam uçraydi) yoki xususiy: sistinuriya (sistin toşlari), glitsinuriya, β-aminoizobutirat atsiduriya (aholining ~5% i, klinik ahamiyati yöq) — Renal gipofosfatemiya fosfat reabsorbsiyasi yetis",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3470,7 +3470,7 @@
    "id": "ch32-t-aminoatsiduriya",
    "termUz": "Aminoatsiduriya",
    "original": null,
-   "contextUz": "Kasallik Nuqson Natija Renal glyukozuriya glyukoza transportyori yetishmaydi, qondagi glyukoza normal xavfsiz holat; diabet tashxisidan oldin istisno qilinishi kerak Aminoatsiduriya umumiy (kam uchraydi) yoki xususiy: sistinuriya (sistin toshlari), glitsinuriya, β-aminoizobutirat atsiduriya (aholining ~5% i, klinik ahamiyati yo’q) — Renal gipofosfatemiya fosfat reabsorbsiyasi yetis",
+   "contextUz": "Kasallik Nuqson Natija Renal glyukozuriya glyukoza transportyori yetişmaydi, qondagi glyukoza normal xavfsiz holat; diabet taşxisidan oldin istisno qilinişi kerak Aminoatsiduriya umumiy (kam uçraydi) yoki xususiy: sistinuriya (sistin toşlari), glitsinuriya, β-aminoizobutirat atsiduriya (aholining ~5% i, klinik ahamiyati yöq) — Renal gipofosfatemiya fosfat reabsorbsiyasi yetis",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3480,7 +3480,7 @@
    "id": "ch32-t-sistinuriya",
    "termUz": "sistinuriya",
    "original": "sistin toshlari",
-   "contextUz": "Kasallik Nuqson Natija Renal glyukozuriya glyukoza transportyori yetishmaydi, qondagi glyukoza normal xavfsiz holat; diabet tashxisidan oldin istisno qilinishi kerak Aminoatsiduriya umumiy (kam uchraydi) yoki xususiy: sistinuriya (sistin toshlari), glitsinuriya, β-aminoizobutirat atsiduriya (aholining ~5% i, klinik ahamiyati yo’q) — Renal gipofosfatemiya fosfat reabsorbsiyasi yetis",
+   "contextUz": "Kasallik Nuqson Natija Renal glyukozuriya glyukoza transportyori yetişmaydi, qondagi glyukoza normal xavfsiz holat; diabet taşxisidan oldin istisno qilinişi kerak Aminoatsiduriya umumiy (kam uçraydi) yoki xususiy: sistinuriya (sistin toşlari), glitsinuriya, β-aminoizobutirat atsiduriya (aholining ~5% i, klinik ahamiyati yöq) — Renal gipofosfatemiya fosfat reabsorbsiyasi yetis",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3490,7 +3490,7 @@
    "id": "ch32-t-renal-gipofosfatemiya",
    "termUz": "Renal gipofosfatemiya",
    "original": null,
-   "contextUz": "Kasallik Nuqson Natija Renal glyukozuriya glyukoza transportyori yetishmaydi, qondagi glyukoza normal xavfsiz holat; diabet tashxisidan oldin istisno qilinishi kerak Aminoatsiduriya umumiy (kam uchraydi) yoki xususiy: sistinuriya (sistin toshlari), glitsinuriya, β-aminoizobutirat atsiduriya (aholining ~5% i, klinik ahamiyati yo’q) — Renal gipofosfatemiya fosfat reabsorbsiyasi yetis",
+   "contextUz": "Kasallik Nuqson Natija Renal glyukozuriya glyukoza transportyori yetişmaydi, qondagi glyukoza normal xavfsiz holat; diabet taşxisidan oldin istisno qilinişi kerak Aminoatsiduriya umumiy (kam uçraydi) yoki xususiy: sistinuriya (sistin toşlari), glitsinuriya, β-aminoizobutirat atsiduriya (aholining ~5% i, klinik ahamiyati yöq) — Renal gipofosfatemiya fosfat reabsorbsiyasi yetis",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3498,9 +3498,9 @@
   },
   {
    "id": "ch32-t-d-vitaminiga-chidamli-raxit",
-   "termUz": "D vitaminiga chidamli raxit",
+   "termUz": "D vitaminiga çidamli raxit",
    "original": null,
-   "contextUz": "Kasallik Nuqson Natija Renal glyukozuriya glyukoza transportyori yetishmaydi, qondagi glyukoza normal xavfsiz holat; diabet tashxisidan oldin istisno qilinishi kerak Aminoatsiduriya umumiy (kam uchraydi) yoki xususiy: sistinuriya (sistin toshlari), glitsinuriya, β-aminoizobutirat atsiduriya (aholining ~5% i, klinik ahamiyati yo’q) — Renal gipofosfatemiya fosfat reabsorbsiyasi yetis",
+   "contextUz": "Kasallik Nuqson Natija Renal glyukozuriya glyukoza transportyori yetişmaydi, qondagi glyukoza normal xavfsiz holat; diabet taşxisidan oldin istisno qilinişi kerak Aminoatsiduriya umumiy (kam uçraydi) yoki xususiy: sistinuriya (sistin toşlari), glitsinuriya, β-aminoizobutirat atsiduriya (aholining ~5% i, klinik ahamiyati yöq) — Renal gipofosfatemiya fosfat reabsorbsiyasi yetis",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3510,7 +3510,7 @@
    "id": "ch32-t-renal-tubulyar-atsidoz",
    "termUz": "Renal tubulyar atsidoz",
    "original": null,
-   "contextUz": "Kasallik Nuqson Natija Renal glyukozuriya glyukoza transportyori yetishmaydi, qondagi glyukoza normal xavfsiz holat; diabet tashxisidan oldin istisno qilinishi kerak Aminoatsiduriya umumiy (kam uchraydi) yoki xususiy: sistinuriya (sistin toshlari), glitsinuriya, β-aminoizobutirat atsiduriya (aholining ~5% i, klinik ahamiyati yo’q) — Renal gipofosfatemiya fosfat reabsorbsiyasi yetis",
+   "contextUz": "Kasallik Nuqson Natija Renal glyukozuriya glyukoza transportyori yetişmaydi, qondagi glyukoza normal xavfsiz holat; diabet taşxisidan oldin istisno qilinişi kerak Aminoatsiduriya umumiy (kam uçraydi) yoki xususiy: sistinuriya (sistin toşlari), glitsinuriya, β-aminoizobutirat atsiduriya (aholining ~5% i, klinik ahamiyati yöq) — Renal gipofosfatemiya fosfat reabsorbsiyasi yetis",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3520,7 +3520,7 @@
    "id": "ch32-t-nefrogen-qandsiz-diabet",
    "termUz": "Nefrogen qandsiz diabet",
    "original": null,
-   "contextUz": "Kasallik Nuqson Natija Renal glyukozuriya glyukoza transportyori yetishmaydi, qondagi glyukoza normal xavfsiz holat; diabet tashxisidan oldin istisno qilinishi kerak Aminoatsiduriya umumiy (kam uchraydi) yoki xususiy: sistinuriya (sistin toshlari), glitsinuriya, β-aminoizobutirat atsiduriya (aholining ~5% i, klinik ahamiyati yo’q) — Renal gipofosfatemiya fosfat reabsorbsiyasi yetis",
+   "contextUz": "Kasallik Nuqson Natija Renal glyukozuriya glyukoza transportyori yetişmaydi, qondagi glyukoza normal xavfsiz holat; diabet taşxisidan oldin istisno qilinişi kerak Aminoatsiduriya umumiy (kam uçraydi) yoki xususiy: sistinuriya (sistin toşlari), glitsinuriya, β-aminoizobutirat atsiduriya (aholining ~5% i, klinik ahamiyati yöq) — Renal gipofosfatemiya fosfat reabsorbsiyasi yetis",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3530,7 +3530,7 @@
    "id": "ch32-t-fanconi-sindromi",
    "termUz": "Fanconi sindromi",
    "original": null,
-   "contextUz": "Kasallik Nuqson Natija Renal glyukozuriya glyukoza transportyori yetishmaydi, qondagi glyukoza normal xavfsiz holat; diabet tashxisidan oldin istisno qilinishi kerak Aminoatsiduriya umumiy (kam uchraydi) yoki xususiy: sistinuriya (sistin toshlari), glitsinuriya, β-aminoizobutirat atsiduriya (aholining ~5% i, klinik ahamiyati yo’q) — Renal gipofosfatemiya fosfat reabsorbsiyasi yetis",
+   "contextUz": "Kasallik Nuqson Natija Renal glyukozuriya glyukoza transportyori yetişmaydi, qondagi glyukoza normal xavfsiz holat; diabet taşxisidan oldin istisno qilinişi kerak Aminoatsiduriya umumiy (kam uçraydi) yoki xususiy: sistinuriya (sistin toşlari), glitsinuriya, β-aminoizobutirat atsiduriya (aholining ~5% i, klinik ahamiyati yöq) — Renal gipofosfatemiya fosfat reabsorbsiyasi yetis",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3540,7 +3540,7 @@
    "id": "ch32-t-bartter-sindromi",
    "termUz": "Bartter sindromi",
    "original": null,
-   "contextUz": "Kasallik Nuqson Natija Renal glyukozuriya glyukoza transportyori yetishmaydi, qondagi glyukoza normal xavfsiz holat; diabet tashxisidan oldin istisno qilinishi kerak Aminoatsiduriya umumiy (kam uchraydi) yoki xususiy: sistinuriya (sistin toshlari), glitsinuriya, β-aminoizobutirat atsiduriya (aholining ~5% i, klinik ahamiyati yo’q) — Renal gipofosfatemiya fosfat reabsorbsiyasi yetis",
+   "contextUz": "Kasallik Nuqson Natija Renal glyukozuriya glyukoza transportyori yetişmaydi, qondagi glyukoza normal xavfsiz holat; diabet taşxisidan oldin istisno qilinişi kerak Aminoatsiduriya umumiy (kam uçraydi) yoki xususiy: sistinuriya (sistin toşlari), glitsinuriya, β-aminoizobutirat atsiduriya (aholining ~5% i, klinik ahamiyati yöq) — Renal gipofosfatemiya fosfat reabsorbsiyasi yetis",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3560,7 +3560,7 @@
    "id": "ch32-t-gitelman-sindromi",
    "termUz": "Gitelman sindromi",
    "original": null,
-   "contextUz": "Davosi: NaCl va K⁺ o’rnini to’ldirish, NSAID, spironolakton Gitelman sindromi tiazidga sezgir NCC nuqsoni, autosom-retsessiv Bartter sindromiga o’xshash, lekin yengilroq Liddle sindromi ENaC faolligi oshgan, autosom-dominant Na⁺ va suv ushlanadi, gipertenziya, alkaloz.",
+   "contextUz": "Davosi: NaCl va K⁺ örnini töldiriş, NSAID, spironolakton Gitelman sindromi tiazidga sezgir NCC nuqsoni, autosom-retsessiv Bartter sindromiga öxşaş, lekin yengilroq Liddle sindromi ENaC faolligi oşgan, autosom-dominant Na⁺ va suv uşlanadi, gipertenziya, alkaloz.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3570,7 +3570,7 @@
    "id": "ch32-t-liddle-sindromi",
    "termUz": "Liddle sindromi",
    "original": null,
-   "contextUz": "Davosi: NaCl va K⁺ o’rnini to’ldirish, NSAID, spironolakton Gitelman sindromi tiazidga sezgir NCC nuqsoni, autosom-retsessiv Bartter sindromiga o’xshash, lekin yengilroq Liddle sindromi ENaC faolligi oshgan, autosom-dominant Na⁺ va suv ushlanadi, gipertenziya, alkaloz.",
+   "contextUz": "Davosi: NaCl va K⁺ örnini töldiriş, NSAID, spironolakton Gitelman sindromi tiazidga sezgir NCC nuqsoni, autosom-retsessiv Bartter sindromiga öxşaş, lekin yengilroq Liddle sindromi ENaC faolligi oşgan, autosom-dominant Na⁺ va suv uşlanadi, gipertenziya, alkaloz.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3580,7 +3580,7 @@
    "id": "ch32-t-enac",
    "termUz": "ENaC",
    "original": null,
-   "contextUz": "Davosi: NaCl va K⁺ o’rnini to’ldirish, NSAID, spironolakton Gitelman sindromi tiazidga sezgir NCC nuqsoni, autosom-retsessiv Bartter sindromiga o’xshash, lekin yengilroq Liddle sindromi ENaC faolligi oshgan, autosom-dominant Na⁺ va suv ushlanadi, gipertenziya, alkaloz.",
+   "contextUz": "Davosi: NaCl va K⁺ örnini töldiriş, NSAID, spironolakton Gitelman sindromi tiazidga sezgir NCC nuqsoni, autosom-retsessiv Bartter sindromiga öxşaş, lekin yengilroq Liddle sindromi ENaC faolligi oşgan, autosom-dominant Na⁺ va suv uşlanadi, gipertenziya, alkaloz.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3590,7 +3590,7 @@
    "id": "ch32-t-renin-va-aldosteron-past",
    "termUz": "renin va aldosteron past",
    "original": null,
-   "contextUz": "Birlamchi aldosteronizmga o’xshaydi, lekin renin va aldosteron past.",
+   "contextUz": "Birlamçi aldosteronizmga öxşaydi, lekin renin va aldosteron past.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3620,7 +3620,7 @@
    "id": "ch32-t-dializ-tamoyili",
    "termUz": "Dializ tamoyili",
    "original": null,
-   "contextUz": "Dializ tamoyili: qon yupqa yarim o’tkazgich membrana (selofan) orqali dializ suyuqligiga qarama-qarshi oqimda o’tadi; oqsillardan boshqa moddalar diffuziyalanadi; tezlik to’rt omilga bog’liq: konsentratsiya gradienti, membrana o’tkazuvchanligi, maydon, aloqa vaqti.",
+   "contextUz": "Dializ tamoyili: qon yupqa yarim ötkazgiç membrana (selofan) orqali dializ suyuqligiga qarama-qarşi oqimda ötadi; oqsillardan boşqa moddalar diffuziyalanadi; tezlik tört omilga boğliq: konsentratsiya gradienti, membrana ötkazuvçanligi, maydon, aloqa vaqti.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3630,7 +3630,7 @@
    "id": "ch32-t-geparin",
    "termUz": "geparin",
    "original": null,
-   "contextUz": "5 m²; ivishga qarshi geparin; gemofiltratsiya: gidrostatik bosim bilan suv va moddalarning \"bulk flow\" o’tkazilishi.",
+   "contextUz": "5 m²; ivişga qarşi geparin; gemofiltratsiya: gidrostatik bosim bilan suv va moddalarning “bulk flow” ötkazilişi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3640,7 +3640,7 @@
    "id": "ch32-t-gemofiltratsiya",
    "termUz": "gemofiltratsiya",
    "original": null,
-   "contextUz": "5 m²; ivishga qarshi geparin; gemofiltratsiya: gidrostatik bosim bilan suv va moddalarning \"bulk flow\" o’tkazilishi.",
+   "contextUz": "5 m²; ivişga qarşi geparin; gemofiltratsiya: gidrostatik bosim bilan suv va moddalarning “bulk flow” ötkazilişi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3660,7 +3660,7 @@
    "id": "ch32-t-samaradorlik",
    "termUz": "Samaradorlik",
    "original": null,
-   "contextUz": "Samaradorlik: apparatning mochevina klirensi 100–225 ml/min, ikki normal buyrakniki ~70 ml/min; lekin haftada 3 marta, 4–6 soatdan qilinadi, shuning uchun umumiy klirens cheklangan; eritropoetin kabi endokrin funksiyalarni almashtirmaydi.",
+   "contextUz": "Samaradorlik: apparatning moçevina klirensi 100–225 ml/min, ikki normal buyrakniki ~70 ml/min; lekin haftada 3 marta, 4–6 soatdan qilinadi, şuning uçun umumiy klirens çeklangan; eritropoetin kabi endokrin funksiyalarni almaştirmaydi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",
@@ -3670,7 +3670,7 @@
    "id": "ch32-t-100-225-ml-min",
    "termUz": "100–225 ml/min",
    "original": null,
-   "contextUz": "Samaradorlik: apparatning mochevina klirensi 100–225 ml/min, ikki normal buyrakniki ~70 ml/min; lekin haftada 3 marta, 4–6 soatdan qilinadi, shuning uchun umumiy klirens cheklangan; eritropoetin kabi endokrin funksiyalarni almashtirmaydi.",
+   "contextUz": "Samaradorlik: apparatning moçevina klirensi 100–225 ml/min, ikki normal buyrakniki ~70 ml/min; lekin haftada 3 marta, 4–6 soatdan qilinadi, şuning uçun umumiy klirens çeklangan; eritropoetin kabi endokrin funksiyalarni almaştirmaydi.",
    "lessonId": "ch32",
    "topicId": "05",
    "source": "summaryUz",

@@ -2,9 +2,9 @@
  "id": "ch07",
  "topicId": "02",
  "order": 4,
- "titleUz": "Skelet muskulining qo’zg’alishi: nerv-muskul uzatilishi va qo’zg’alish-qisqarish bog’lanishi",
+ "titleUz": "Skelet muskulining qözğalişi: nerv-muskul uzatilişi va qözğaliş-qisqariş boğlanişi",
  "titleOriginal": "Excitation of Skeletal Muscle: Neuromuscular Transmission and Excitation-Contraction Coupling",
- "subtitle": "*Excitation of Skeletal Muscle: Neuromuscular Transmission and Excitation-Contraction Coupling* · II bo'lim · PDF 92–99 (kitob 87–94)",
+ "subtitle": "*Excitation of Skeletal Muscle: Neuromuscular Transmission and Excitation-Contraction Coupling* · II bölim · PDF 92–99 (kitob 87–94)",
  "contentVersion": "2026-11-14.1",
  "status": "in_review",
  "translationStatus": "machine_assisted",
@@ -138,7 +138,7 @@
   "Dorilar",
   "Miasteniya gravis",
   "Muskul AP si",
-  "Qo’zg’alish-qisqarish bog’lanishi",
+  "Qo‘zg‘alish-qisqarish bog‘lanishi",
   "Xavfli gipertermiya"
  ],
  "blocks": {
@@ -146,13 +146,13 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Asosiy g’oya",
+    "text": "Asosiy ğoya",
     "id": "ch07-s-0-asosiy-goya",
     "bid": "ch07-u0"
    },
    {
     "type": "paragraph",
-    "text": "Orqa miya oldingi shoxidagi yirik motoneyronning AP si **nerv-muskul birikmasi**da atsetilxolin (ACh) chiqarilishi orqali muskul tolasida AP ga aylanadi. Bu AP **T-naychalar** orqali tola ichiga kiradi va dihidropiridin–rianodin reseptorlari orqali SR dan Ca²⁺ chiqaradi — **qo’zg’alish-qisqarish bog’lanishi**.",
+    "text": "Orqa miya oldingi şoxidagi yirik motoneyronning AP si **nerv-muskul birikmasi**da atsetilxolin (ACh) çiqarilişi orqali muskul tolasida AP ga aylanadi. Bu AP **T-nayçalar** orqali tola içiga kiradi va dihidropiridin–rianodin reseptorlari orqali SR dan Ca²⁺ çiqaradi — **qözğaliş-qisqariş boğlanişi**.",
     "bid": "ch07-u1"
    },
    {
@@ -171,19 +171,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Har nerv tolasi 3 dan bir necha yuzgacha muskul tolasini innervatsiya qiladi; birikma tola o’rtasida; ~2% dan tashqari har tolada bitta.",
+      "text": "Har nerv tolasi 3 dan bir neça yuzgaça muskul tolasini innervatsiya qiladi; birikma tola örtasida; ~2% dan taşqari har tolada bitta.",
       "depth": 0
      },
      {
-      "text": "**Motor oxirgi plastinka** — muskul yuzasiga botgan nerv terminallari, Shvann hujayralari bilan qoplangan.",
+      "text": "**Motor oxirgi plastinka** — muskul yuzasiga botgan nerv terminallari, Şvann hujayralari bilan qoplangan.",
       "depth": 0
      },
      {
-      "text": "**Sinaptik ariqcha**, **sinaptik yoriq** 20–30 nm; tubida **subneyral burmalar** (yuzani oshiradi).",
+      "text": "**Sinaptik ariqça**, **sinaptik yoriq** 20–30 nm; tubida **subneyral burmalar** (yuzani oşiradi).",
       "depth": 0
      },
      {
-      "text": "Terminalda mitoxondriyalar (ATP — ACh sintezi uchun); bitta plastinkada ~300 000 sinaptik pufakcha. Yoriqda **atsetilxolinesteraza** — ACh ni bir necha ms da parchalaydi.",
+      "text": "Terminalda mitoxondriyalar (ATP — ACh sintezi uçun); bitta plastinkada ~300 000 sinaptik pufakça. Yoriqda **atsetilxolinesteraza** — ACh ni bir neça ms da parçalaydi.",
       "depth": 0
      }
     ],
@@ -210,15 +210,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Har impulsda ~125 pufakcha bo’shaydi.",
+      "text": "Har impulsda ~125 pufakça böşaydi.",
       "depth": 0
      },
      {
-      "text": "Nerv membranasining ichki yuzasida **zich chiziqlar**; ularning ikki tomonida **kuchlanishga bog’liq Ca²⁺ kanallari**. AP → Ca²⁺ kiradi → (taxminan) Ca²⁺-kalmodulin bog’liq proteinkinaza → **sinapsin**larni fosforlaydi → pufakchalar sitoskeletdan bo’shab **faol zonaga** borib, ekzotsitoz bilan bo’shaydi.",
+      "text": "Nerv membranasining içki yuzasida **ziç çiziqlar**; ularning ikki tomonida **kuçlanişga boğliq Ca²⁺ kanallari**. AP → Ca²⁺ kiradi → (taxminan) Ca²⁺-kalmodulin boğliq proteinkinaza → **sinapsin**larni fosforlaydi → pufakçalar sitoskeletdan böşab **faol zonaga** borib, ekzotsitoz bilan böşaydi.",
       "depth": 0
      },
      {
-      "text": "Bosqichlar (p.95): (1) ~40 nm pufakchalar motoneyron tanasidagi Goljida hosil bo’lib akson bo’ylab oqim bilan keladi; (2) ACh terminal sitozolida sintezlanib pufakchalarga to’planadi (~10 000 molekula/pufakcha); (3) AP terminal ichida Ca²⁺ ni ~100 baravar oshiradi → pufakcha birlashish tezligi ~10 000 baravar ortadi; (4) bir necha ms da ACh esteraza bilan **atsetat + xolin**ga parchalanadi, xolin qayta so’rilib ishlatiladi (butun ketma-ketlik 5–10 ms). Zaxira bir necha ming impulsga yetadi; yangi pufakchalar **klatrinli qoplangan chuqurchalar** orqali ~20 s da hosil bo’ladi.",
+      "text": "Bosqiçlar (p.95): (1) ~40 nm pufakçalar motoneyron tanasidagi Goljida hosil bölib akson böylab oqim bilan keladi; (2) ACh terminal sitozolida sintezlanib pufakçalarga töplanadi (~10 000 molekula/pufakça); (3) AP terminal içida Ca²⁺ ni ~100 baravar oşiradi → pufakça birlaşiş tezligi ~10 000 baravar ortadi; (4) bir neça ms da ACh esteraza bilan **atsetat + xolin**ga parçalanadi, xolin qayta sörilib işlatiladi (butun ketma-ketlik 5–10 ms). Zaxira bir neça ming impulsga yetadi; yangi pufakçalar **klatrinli qoplangan çuqurçalar** orqali ~20 s da hosil böladi.",
       "depth": 0
      }
     ],
@@ -245,23 +245,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "**ACh reseptori** — MW ~275 000; homilada 2α, β, δ, γ; kattalarda γ o’rniga **ε**. Ikki ACh ikki α subbirlikka bog’langanda kanal ochiladi: diametri ~0,65 nm, Na⁺, K⁺, Ca²⁺ o’tadi; og’zidagi manfiy zaryadlar Cl⁻ ni o’tkazmaydi. Bitta kanal 1 ms da 15 000–30 000 Na⁺ o’tkazadi.",
+      "text": "**ACh reseptori** — MW ~275 000; homilada 2α, β, δ, γ; kattalarda γ örniga **ε**. Ikki ACh ikki α subbirlikka boğlanganda kanal oçiladi: diametri ~0,65 nm, Na⁺, K⁺, Ca²⁺ ötadi; oğzidagi manfiy zaryadlar Cl⁻ ni ötkazmaydi. Bitta kanal 1 ms da 15 000–30 000 Na⁺ ötkazadi.",
       "depth": 0
      },
      {
-      "text": "Asosan Na⁺ kiradi: ECF da Na⁺ ko’p va ichki −80...−90 mV Na⁺ ni tortib K⁺ chiqishiga to’sqinlik qiladi.",
+      "text": "Asosan Na⁺ kiradi: ECF da Na⁺ köp va içki −80...−90 mV Na⁺ ni tortib K⁺ çiqişiga tösqinlik qiladi.",
       "depth": 0
      },
      {
-      "text": "**Oxirgi plastinka potensiali (EPP)**: +50–75 mV mahalliy siljish; 20–30 mV dan ortiq ko’tarilish odatda AP ni boshlash uchun yetarli (Fig. 7-4).",
+      "text": "**Oxirgi plastinka potensiali (EPP)**: +50–75 mV mahalliy siljiş; 20–30 mV dan ortiq kötariliş odatda AP ni boşlaş uçun yetarli (Fig. 7-4).",
       "depth": 0
      },
      {
-      "text": "EPP zaiflashuvi: **kurare** (ACh bilan reseptor uchun raqobat), **botulin toksini** (ACh chiqishini kamaytiradi).",
+      "text": "EPP zaiflaşuvi: **kurare** (ACh bilan reseptor uçun raqobat), **botulin toksini** (ACh çiqişini kamaytiradi).",
       "depth": 0
      },
      {
-      "text": "**Xavfsizlik omili**: EPP kerakligidan ~3 baravar katta. >100 Hz da bir necha daqiqa qo’zg’atilsa pufakchalar tugaydi — **birikma charchoqi** (amalda faqat eng og’ir ishda).",
+      "text": "**Xavfsizlik omili**: EPP kerakligidan ~3 baravar katta. >100 Hz da bir neça daqiqa qözğatilsa pufakçalar tugaydi — **birikma çarçoqi** (amalda faqat eng oğir işda).",
       "depth": 0
      }
     ],
@@ -293,11 +293,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "**ACh ga o’xshash** (esteraza parchalamaydi yoki sekin): metaxolin, karbaxol, **nikotin** → uzoq depolyarizatsiya, spazm.",
+      "text": "**ACh ga öxşaş** (esteraza parçalamaydi yoki sekin): metaxolin, karbaxol, **nikotin** → uzoq depolyarizatsiya, spazm.",
       "depth": 0
      },
      {
-      "text": "**Antixolinesterazalar**: **neostigmin**, **fizostigmin** (bir necha soat), **diizopropil-ftorfosfat** (nerv gazi, haftalab) → ACh to’planadi, spazm, laringospazm bilan o’lim.",
+      "text": "**Antixolinesterazalar**: **neostigmin**, **fizostigmin** (bir neça soat), **diizopropil-ftorfosfat** (nerv gazi, haftalab) → ACh töplanadi, spazm, laringospazm bilan ölim.",
       "depth": 0
      },
      {
@@ -320,7 +320,7 @@
    },
    {
     "type": "paragraph",
-    "text": "~1/20 000 kishida. ACh reseptorlariga qarshi **autoantitelolar** → EPP Na⁺ kanallarini ochishga yetmaydi → zaiflik; og’ir holda nafas muskullari tufayli o’lim. **Neostigmin** bir necha soatga yaxshilaydi.",
+    "text": "~1/20 000 kişida. ACh reseptorlariga qarşi **autoantitelolar** → EPP Na⁺ kanallarini oçişga yetmaydi → zaiflik; oğir holda nafas muskullari tufayli ölim. **Neostigmin** bir neça soatga yaxşilaydi.",
     "bid": "ch07-u15"
    },
    {
@@ -339,7 +339,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Tinchlik potensiali −80...−90 mV (neyrondan 10–20 mV manfiyroq).",
+      "text": "Tinçlik potensiali −80...−90 mV (neyrondan 10–20 mV manfiyroq).",
       "depth": 0
      },
      {
@@ -347,7 +347,7 @@
       "depth": 0
      },
      {
-      "text": "O’tkazish tezligi 3–5 m/s (yirik miyelinli nervning ~1/13 qismi).",
+      "text": "Ötkaziş tezligi 3–5 m/s (yirik miyelinli nervning ~1/13 qismi).",
       "depth": 0
      }
     ],
@@ -356,7 +356,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Qo’zg’alish-qisqarish bog’lanishi (p.96–98, Fig. 7-5 – 7-7)",
+    "text": "Qözğaliş-qisqariş boğlanişi (p.96–98, Fig. 7-5 – 7-7)",
     "pdfPages": [
      96,
      98
@@ -369,23 +369,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "**T-naychalar** — hujayra membranasining ichki davomlari, tashqi suyuqlikka ochiq; tolani ko’ndalang kesib o’tadi va tarmoqlanadi. Qurbaqada sarkomerga 1 ta (Z diskda), sutemizuvchilar yuragida ham shunday; sutemizuvchilar skelet muskulida sarkomerga 2 ta (A–I chegarasida).",
+      "text": "**T-nayçalar** — hujayra membranasining içki davomlari, taşqi suyuqlikka oçiq; tolani köndalang kesib ötadi va tarmoqlanadi. Qurbaqada sarkomerga 1 ta (Z diskda), sutemizuvçilar yuragida ham şunday; sutemizuvçilar skelet muskulida sarkomerga 2 ta (A–I çegarasida).",
       "depth": 0
      },
      {
-      "text": "**SR**: T-naychaga tegib turgan **terminal sisternalar** + miofibrillalarni o’rab olgan bo’ylama naychalar.",
+      "text": "**SR**: T-nayçaga tegib turgan **terminal sisternalar** + miofibrillalarni örab olgan böylama nayçalar.",
       "depth": 0
      },
      {
-      "text": "T-naycha AP → kuchlanish sensori **dihidropiridin (DHP) reseptorlari** → SR dagi **rianodin reseptori (RyR)** Ca²⁺ chiqarish kanallari ochiladi (bir necha ms) → Ca²⁺ sarkoplazmaga.",
+      "text": "T-nayça AP → kuçlaniş sensori **dihidropiridin (DHP) reseptorlari** → SR dagi **rianodin reseptori (RyR)** Ca²⁺ çiqariş kanallari oçiladi (bir neça ms) → Ca²⁺ sarkoplazmaga.",
       "depth": 0
      },
      {
-      "text": "**SERCA** (SR Ca²⁺-ATPaza) Ca²⁺ ni ~10 000 baravar konsentratsiyalaydi; ichkarida **kalsekvestrin** (bir molekula 40 tagacha Ca²⁺).",
+      "text": "**SERCA** (SR Ca²⁺-ATPaza) Ca²⁺ ni ~10 000 baravar konsentratsiyalaydi; içkarida **kalsekvestrin** (bir molekula 40 tagaça Ca²⁺).",
       "depth": 0
      },
      {
-      "text": "**Ca²⁺ impulsi**: tinchlikda <10⁻⁷ M (qisqarishga yetmaydi); qo’zg’alishda 2 × 10⁻⁴ M gacha (~500 baravar, maksimal qisqarish uchun kerakligidan ~10 baravar ko’p). Skelet muskulida ~1/20 s; yurakda ~1/3 s (uzun AP). Uzoq qisqarish uchun qator AP lar kerak.",
+      "text": "**Ca²⁺ impulsi**: tinçlikda <10⁻⁷ M (qisqarişga yetmaydi); qözğalişda 2 × 10⁻⁴ M gaça (~500 baravar, maksimal qisqariş uçun kerakligidan ~10 baravar köp). Skelet muskulida ~1/20 s; yurakda ~1/3 s (uzun AP). Uzoq qisqariş uçun qator AP lar kerak.",
       "depth": 0
      }
     ],
@@ -421,19 +421,19 @@
    },
    {
     "type": "paragraph",
-    "text": "Moyil odamlarda **galotan, izofluran** yoki **suksinilxolin** qo’zg’atadi; kamida 6 mutatsiya, ayniqsa RyR va DHP reseptorlari genlarida → SR dan nazoratsiz Ca²⁺ chiqishi → kuchli qisqarish, metabolizm keskin oshadi, issiqlik, hujayra atsidozi, energiya tugashi. Belgilar: mushak rigidligi, yuqori isitma, taxikardiya; og’ir holda **rabdomioliz** va **giperkaliyemiya**. Davo: tez sovutish va **dantrolen** (RyR antagonisti).",
+    "text": "Moyil odamlarda **galotan, izofluran** yoki **suksinilxolin** qözğatadi; kamida 6 mutatsiya, ayniqsa RyR va DHP reseptorlari genlarida → SR dan nazoratsiz Ca²⁺ çiqişi → kuçli qisqariş, metabolizm keskin oşadi, issiqlik, hujayra atsidozi, energiya tugaşi. Belgilar: muşak rigidligi, yuqori isitma, taxikardiya; oğir holda **rabdomioliz** va **giperkaliyemiya**. Davo: tez sovutiş va **dantrolen** (RyR antagonisti).",
     "bid": "ch07-u24"
    },
    {
     "type": "heading",
     "level": 2,
-    "text": "Bog’liqlik",
+    "text": "Boğliqlik",
     "id": "ch07-s-25-bogliqlik",
     "bid": "ch07-u25"
    },
    {
     "type": "paragraph",
-    "text": "AP → 5-bob; aktin-miozin mexanizmi → 6-bob; yurakda Ca²⁺ ning T-naychalardan ham kirishi → 9-bob; MNS sinapslari va charchoqi → 46-bob; avtonom mediatorlar → 61-bob.",
+    "text": "AP → 5-bob; aktin-miozin mexanizmi → 6-bob; yurakda Ca²⁺ ning T-nayçalardan ham kirişi → 9-bob; MNS sinapslari va çarçoqi → 46-bob; avtonom mediatorlar → 61-bob.",
     "bid": "ch07-u26"
    }
   ],
@@ -787,7 +787,7 @@
    "id": "ch07-t-nerv-muskul-birikmasi",
    "termUz": "nerv-muskul birikmasi",
    "original": null,
-   "contextUz": "Orqa miya oldingi shoxidagi yirik motoneyronning AP si nerv-muskul birikmasida atsetilxolin (ACh) chiqarilishi orqali muskul tolasida AP ga aylanadi.",
+   "contextUz": "Orqa miya oldingi şoxidagi yirik motoneyronning AP si nerv-muskul birikmasida atsetilxolin (ACh) çiqarilişi orqali muskul tolasida AP ga aylanadi.",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -795,9 +795,9 @@
   },
   {
    "id": "ch07-t-t-naychalar",
-   "termUz": "T-naychalar",
+   "termUz": "T-nayçalar",
    "original": null,
-   "contextUz": "Bu AP T-naychalar orqali tola ichiga kiradi va dihidropiridin–rianodin reseptorlari orqali SR dan Ca²⁺ chiqaradi — qo’zg’alish-qisqarish bog’lanishi.",
+   "contextUz": "Bu AP T-nayçalar orqali tola içiga kiradi va dihidropiridin–rianodin reseptorlari orqali SR dan Ca²⁺ çiqaradi — qözğaliş-qisqariş boğlanişi.",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -805,9 +805,9 @@
   },
   {
    "id": "ch07-t-qozgalish-qisqarish-boglanishi",
-   "termUz": "qo’zg’alish-qisqarish bog’lanishi",
+   "termUz": "qözğaliş-qisqariş boğlanişi",
    "original": null,
-   "contextUz": "Bu AP T-naychalar orqali tola ichiga kiradi va dihidropiridin–rianodin reseptorlari orqali SR dan Ca²⁺ chiqaradi — qo’zg’alish-qisqarish bog’lanishi.",
+   "contextUz": "Bu AP T-nayçalar orqali tola içiga kiradi va dihidropiridin–rianodin reseptorlari orqali SR dan Ca²⁺ çiqaradi — qözğaliş-qisqariş boğlanişi.",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -817,7 +817,7 @@
    "id": "ch07-t-motor-oxirgi-plastinka",
    "termUz": "Motor oxirgi plastinka",
    "original": null,
-   "contextUz": "Motor oxirgi plastinka — muskul yuzasiga botgan nerv terminallari, Shvann hujayralari bilan qoplangan.",
+   "contextUz": "Motor oxirgi plastinka — muskul yuzasiga botgan nerv terminallari, Şvann hujayralari bilan qoplangan.",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -825,9 +825,9 @@
   },
   {
    "id": "ch07-t-sinaptik-ariqcha",
-   "termUz": "Sinaptik ariqcha",
+   "termUz": "Sinaptik ariqça",
    "original": null,
-   "contextUz": "Sinaptik ariqcha, sinaptik yoriq 20–30 nm; tubida subneyral burmalar (yuzani oshiradi).",
+   "contextUz": "Sinaptik ariqça, sinaptik yoriq 20–30 nm; tubida subneyral burmalar (yuzani oşiradi).",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -837,7 +837,7 @@
    "id": "ch07-t-sinaptik-yoriq",
    "termUz": "sinaptik yoriq",
    "original": null,
-   "contextUz": "Sinaptik ariqcha, sinaptik yoriq 20–30 nm; tubida subneyral burmalar (yuzani oshiradi).",
+   "contextUz": "Sinaptik ariqça, sinaptik yoriq 20–30 nm; tubida subneyral burmalar (yuzani oşiradi).",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -847,7 +847,7 @@
    "id": "ch07-t-subneyral-burmalar",
    "termUz": "subneyral burmalar",
    "original": "yuzani oshiradi",
-   "contextUz": "Sinaptik ariqcha, sinaptik yoriq 20–30 nm; tubida subneyral burmalar (yuzani oshiradi).",
+   "contextUz": "Sinaptik ariqça, sinaptik yoriq 20–30 nm; tubida subneyral burmalar (yuzani oşiradi).",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -857,7 +857,7 @@
    "id": "ch07-t-atsetilxolinesteraza",
    "termUz": "atsetilxolinesteraza",
    "original": null,
-   "contextUz": "Yoriqda atsetilxolinesteraza — ACh ni bir necha ms da parchalaydi.",
+   "contextUz": "Yoriqda atsetilxolinesteraza — ACh ni bir neça ms da parçalaydi.",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -865,9 +865,9 @@
   },
   {
    "id": "ch07-t-zich-chiziqlar",
-   "termUz": "zich chiziqlar",
+   "termUz": "ziç çiziqlar",
    "original": null,
-   "contextUz": "Nerv membranasining ichki yuzasida zich chiziqlar; ularning ikki tomonida kuchlanishga bog’liq Ca²⁺ kanallari.",
+   "contextUz": "Nerv membranasining içki yuzasida ziç çiziqlar; ularning ikki tomonida kuçlanişga boğliq Ca²⁺ kanallari.",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -875,9 +875,9 @@
   },
   {
    "id": "ch07-t-kuchlanishga-bogliq-ca-kanallari",
-   "termUz": "kuchlanishga bog’liq Ca²⁺ kanallari",
+   "termUz": "kuçlanişga boğliq Ca²⁺ kanallari",
    "original": null,
-   "contextUz": "Nerv membranasining ichki yuzasida zich chiziqlar; ularning ikki tomonida kuchlanishga bog’liq Ca²⁺ kanallari.",
+   "contextUz": "Nerv membranasining içki yuzasida ziç çiziqlar; ularning ikki tomonida kuçlanişga boğliq Ca²⁺ kanallari.",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -887,7 +887,7 @@
    "id": "ch07-t-sinapsin",
    "termUz": "sinapsin",
    "original": null,
-   "contextUz": "AP → Ca²⁺ kiradi → (taxminan) Ca²⁺-kalmodulin bog’liq proteinkinaza → sinapsinlarni fosforlaydi → pufakchalar sitoskeletdan bo’shab faol zonaga borib, ekzotsitoz bilan bo’shaydi.",
+   "contextUz": "AP → Ca²⁺ kiradi → (taxminan) Ca²⁺-kalmodulin boğliq proteinkinaza → sinapsinlarni fosforlaydi → pufakçalar sitoskeletdan böşab faol zonaga borib, ekzotsitoz bilan böşaydi.",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -897,7 +897,7 @@
    "id": "ch07-t-faol-zonaga",
    "termUz": "faol zonaga",
    "original": null,
-   "contextUz": "AP → Ca²⁺ kiradi → (taxminan) Ca²⁺-kalmodulin bog’liq proteinkinaza → sinapsinlarni fosforlaydi → pufakchalar sitoskeletdan bo’shab faol zonaga borib, ekzotsitoz bilan bo’shaydi.",
+   "contextUz": "AP → Ca²⁺ kiradi → (taxminan) Ca²⁺-kalmodulin boğliq proteinkinaza → sinapsinlarni fosforlaydi → pufakçalar sitoskeletdan böşab faol zonaga borib, ekzotsitoz bilan böşaydi.",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -907,7 +907,7 @@
    "id": "ch07-t-atsetat-xolin",
    "termUz": "atsetat + xolin",
    "original": null,
-   "contextUz": "95): (1) ~40 nm pufakchalar motoneyron tanasidagi Goljida hosil bo’lib akson bo’ylab oqim bilan keladi; (2) ACh terminal sitozolida sintezlanib pufakchalarga to’planadi (~10 000 molekula/pufakcha); (3) AP terminal ichida Ca²⁺ ni ~100 baravar oshiradi → pufakcha birlashish tezligi ~10 000 baravar ortadi; (4) bir necha ms da ACh esteraza bilan atsetat + xolinga parchalanadi, xolin qayta so’rilib",
+   "contextUz": "95): (1) ~40 nm pufakçalar motoneyron tanasidagi Goljida hosil bölib akson böylab oqim bilan keladi; (2) ACh terminal sitozolida sintezlanib pufakçalarga töplanadi (~10 000 molekula/pufakça); (3) AP terminal içida Ca²⁺ ni ~100 baravar oşiradi → pufakça birlaşiş tezligi ~10 000 baravar ortadi; (4) bir neça ms da ACh esteraza bilan atsetat + xolinga parçalanadi, xolin qayta sörilib",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -915,9 +915,9 @@
   },
   {
    "id": "ch07-t-klatrinli-qoplangan-chuqurchalar",
-   "termUz": "klatrinli qoplangan chuqurchalar",
+   "termUz": "klatrinli qoplangan çuqurçalar",
    "original": null,
-   "contextUz": "Zaxira bir necha ming impulsga yetadi; yangi pufakchalar klatrinli qoplangan chuqurchalar orqali ~20 s da hosil bo’ladi.",
+   "contextUz": "Zaxira bir neça ming impulsga yetadi; yangi pufakçalar klatrinli qoplangan çuqurçalar orqali ~20 s da hosil böladi.",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -927,7 +927,7 @@
    "id": "ch07-t-ach-reseptori",
    "termUz": "ACh reseptori",
    "original": null,
-   "contextUz": "ACh reseptori — MW ~275 000; homilada 2α, β, δ, γ; kattalarda γ o’rniga ε.",
+   "contextUz": "ACh reseptori — MW ~275 000; homilada 2α, β, δ, γ; kattalarda γ örniga ε.",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -937,7 +937,7 @@
    "id": "ch07-t-oxirgi-plastinka-potensiali-epp",
    "termUz": "Oxirgi plastinka potensiali (EPP)",
    "original": null,
-   "contextUz": "Oxirgi plastinka potensiali (EPP): +50–75 mV mahalliy siljish; 20–30 mV dan ortiq ko’tarilish odatda AP ni boshlash uchun yetarli (Fig.",
+   "contextUz": "Oxirgi plastinka potensiali (EPP): +50–75 mV mahalliy siljiş; 20–30 mV dan ortiq kötariliş odatda AP ni boşlaş uçun yetarli (Fig.",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -947,7 +947,7 @@
    "id": "ch07-t-kurare",
    "termUz": "kurare",
    "original": "ACh bilan reseptor uchun raqobat",
-   "contextUz": "EPP zaiflashuvi: kurare (ACh bilan reseptor uchun raqobat), botulin toksini (ACh chiqishini kamaytiradi).",
+   "contextUz": "EPP zaiflaşuvi: kurare (ACh bilan reseptor uçun raqobat), botulin toksini (ACh çiqişini kamaytiradi).",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -957,7 +957,7 @@
    "id": "ch07-t-botulin-toksini",
    "termUz": "botulin toksini",
    "original": "ACh chiqishini kamaytiradi",
-   "contextUz": "EPP zaiflashuvi: kurare (ACh bilan reseptor uchun raqobat), botulin toksini (ACh chiqishini kamaytiradi).",
+   "contextUz": "EPP zaiflaşuvi: kurare (ACh bilan reseptor uçun raqobat), botulin toksini (ACh çiqişini kamaytiradi).",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -975,9 +975,9 @@
   },
   {
    "id": "ch07-t-birikma-charchoqi",
-   "termUz": "birikma charchoqi",
-   "original": "amalda faqat eng og’ir ishda",
-   "contextUz": ">100 Hz da bir necha daqiqa qo’zg’atilsa pufakchalar tugaydi — birikma charchoqi (amalda faqat eng og’ir ishda).",
+   "termUz": "birikma çarçoqi",
+   "original": "amalda faqat eng og‘ir ishda",
+   "contextUz": ">100 Hz da bir neça daqiqa qözğatilsa pufakçalar tugaydi — birikma çarçoqi (amalda faqat eng oğir işda).",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -985,9 +985,9 @@
   },
   {
    "id": "ch07-t-ach-ga-oxshash",
-   "termUz": "ACh ga o’xshash",
+   "termUz": "ACh ga öxşaş",
    "original": "esteraza parchalamaydi yoki sekin",
-   "contextUz": "ACh ga o’xshash (esteraza parchalamaydi yoki sekin): metaxolin, karbaxol, nikotin → uzoq depolyarizatsiya, spazm.",
+   "contextUz": "ACh ga öxşaş (esteraza parçalamaydi yoki sekin): metaxolin, karbaxol, nikotin → uzoq depolyarizatsiya, spazm.",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -997,7 +997,7 @@
    "id": "ch07-t-nikotin",
    "termUz": "nikotin",
    "original": null,
-   "contextUz": "ACh ga o’xshash (esteraza parchalamaydi yoki sekin): metaxolin, karbaxol, nikotin → uzoq depolyarizatsiya, spazm.",
+   "contextUz": "ACh ga öxşaş (esteraza parçalamaydi yoki sekin): metaxolin, karbaxol, nikotin → uzoq depolyarizatsiya, spazm.",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -1007,7 +1007,7 @@
    "id": "ch07-t-antixolinesterazalar",
    "termUz": "Antixolinesterazalar",
    "original": null,
-   "contextUz": "Antixolinesterazalar: neostigmin, fizostigmin (bir necha soat), diizopropil-ftorfosfat (nerv gazi, haftalab) → ACh to’planadi, spazm, laringospazm bilan o’lim.",
+   "contextUz": "Antixolinesterazalar: neostigmin, fizostigmin (bir neça soat), diizopropil-ftorfosfat (nerv gazi, haftalab) → ACh töplanadi, spazm, laringospazm bilan ölim.",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -1017,7 +1017,7 @@
    "id": "ch07-t-neostigmin",
    "termUz": "neostigmin",
    "original": null,
-   "contextUz": "Antixolinesterazalar: neostigmin, fizostigmin (bir necha soat), diizopropil-ftorfosfat (nerv gazi, haftalab) → ACh to’planadi, spazm, laringospazm bilan o’lim.",
+   "contextUz": "Antixolinesterazalar: neostigmin, fizostigmin (bir neça soat), diizopropil-ftorfosfat (nerv gazi, haftalab) → ACh töplanadi, spazm, laringospazm bilan ölim.",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -1027,7 +1027,7 @@
    "id": "ch07-t-fizostigmin",
    "termUz": "fizostigmin",
    "original": "bir necha soat",
-   "contextUz": "Antixolinesterazalar: neostigmin, fizostigmin (bir necha soat), diizopropil-ftorfosfat (nerv gazi, haftalab) → ACh to’planadi, spazm, laringospazm bilan o’lim.",
+   "contextUz": "Antixolinesterazalar: neostigmin, fizostigmin (bir neça soat), diizopropil-ftorfosfat (nerv gazi, haftalab) → ACh töplanadi, spazm, laringospazm bilan ölim.",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -1037,7 +1037,7 @@
    "id": "ch07-t-diizopropil-ftorfosfat",
    "termUz": "diizopropil-ftorfosfat",
    "original": "nerv gazi, haftalab",
-   "contextUz": "Antixolinesterazalar: neostigmin, fizostigmin (bir necha soat), diizopropil-ftorfosfat (nerv gazi, haftalab) → ACh to’planadi, spazm, laringospazm bilan o’lim.",
+   "contextUz": "Antixolinesterazalar: neostigmin, fizostigmin (bir neça soat), diizopropil-ftorfosfat (nerv gazi, haftalab) → ACh töplanadi, spazm, laringospazm bilan ölim.",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -1067,7 +1067,7 @@
    "id": "ch07-t-autoantitelolar",
    "termUz": "autoantitelolar",
    "original": null,
-   "contextUz": "ACh reseptorlariga qarshi autoantitelolar → EPP Na⁺ kanallarini ochishga yetmaydi → zaiflik; og’ir holda nafas muskullari tufayli o’lim.",
+   "contextUz": "ACh reseptorlariga qarşi autoantitelolar → EPP Na⁺ kanallarini oçişga yetmaydi → zaiflik; oğir holda nafas muskullari tufayli ölim.",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -1077,7 +1077,7 @@
    "id": "ch07-t-sr",
    "termUz": "SR",
    "original": null,
-   "contextUz": "SR: T-naychaga tegib turgan terminal sisternalar + miofibrillalarni o’rab olgan bo’ylama naychalar.",
+   "contextUz": "SR: T-nayçaga tegib turgan terminal sisternalar + miofibrillalarni örab olgan böylama nayçalar.",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -1087,7 +1087,7 @@
    "id": "ch07-t-terminal-sisternalar",
    "termUz": "terminal sisternalar",
    "original": null,
-   "contextUz": "SR: T-naychaga tegib turgan terminal sisternalar + miofibrillalarni o’rab olgan bo’ylama naychalar.",
+   "contextUz": "SR: T-nayçaga tegib turgan terminal sisternalar + miofibrillalarni örab olgan böylama nayçalar.",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -1097,7 +1097,7 @@
    "id": "ch07-t-dihidropiridin-dhp-reseptorlari",
    "termUz": "dihidropiridin (DHP) reseptorlari",
    "original": null,
-   "contextUz": "T-naycha AP → kuchlanish sensori dihidropiridin (DHP) reseptorlari → SR dagi rianodin reseptori (RyR) Ca²⁺ chiqarish kanallari ochiladi (bir necha ms) → Ca²⁺ sarkoplazmaga.",
+   "contextUz": "T-nayça AP → kuçlaniş sensori dihidropiridin (DHP) reseptorlari → SR dagi rianodin reseptori (RyR) Ca²⁺ çiqariş kanallari oçiladi (bir neça ms) → Ca²⁺ sarkoplazmaga.",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -1107,7 +1107,7 @@
    "id": "ch07-t-rianodin-reseptori-ryr",
    "termUz": "rianodin reseptori (RyR)",
    "original": null,
-   "contextUz": "T-naycha AP → kuchlanish sensori dihidropiridin (DHP) reseptorlari → SR dagi rianodin reseptori (RyR) Ca²⁺ chiqarish kanallari ochiladi (bir necha ms) → Ca²⁺ sarkoplazmaga.",
+   "contextUz": "T-nayça AP → kuçlaniş sensori dihidropiridin (DHP) reseptorlari → SR dagi rianodin reseptori (RyR) Ca²⁺ çiqariş kanallari oçiladi (bir neça ms) → Ca²⁺ sarkoplazmaga.",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -1117,7 +1117,7 @@
    "id": "ch07-t-serca",
    "termUz": "SERCA",
    "original": "SR Ca²⁺-ATPaza",
-   "contextUz": "SERCA (SR Ca²⁺-ATPaza) Ca²⁺ ni ~10 000 baravar konsentratsiyalaydi; ichkarida kalsekvestrin (bir molekula 40 tagacha Ca²⁺).",
+   "contextUz": "SERCA (SR Ca²⁺-ATPaza) Ca²⁺ ni ~10 000 baravar konsentratsiyalaydi; içkarida kalsekvestrin (bir molekula 40 tagaça Ca²⁺).",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -1127,7 +1127,7 @@
    "id": "ch07-t-kalsekvestrin",
    "termUz": "kalsekvestrin",
    "original": "bir molekula 40 tagacha Ca²⁺",
-   "contextUz": "SERCA (SR Ca²⁺-ATPaza) Ca²⁺ ni ~10 000 baravar konsentratsiyalaydi; ichkarida kalsekvestrin (bir molekula 40 tagacha Ca²⁺).",
+   "contextUz": "SERCA (SR Ca²⁺-ATPaza) Ca²⁺ ni ~10 000 baravar konsentratsiyalaydi; içkarida kalsekvestrin (bir molekula 40 tagaça Ca²⁺).",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -1137,7 +1137,7 @@
    "id": "ch07-t-ca-impulsi",
    "termUz": "Ca²⁺ impulsi",
    "original": null,
-   "contextUz": "Ca²⁺ impulsi: tinchlikda <10⁻⁷ M (qisqarishga yetmaydi); qo’zg’alishda 2 × 10⁻⁴ M gacha (~500 baravar, maksimal qisqarish uchun kerakligidan ~10 baravar ko’p).",
+   "contextUz": "Ca²⁺ impulsi: tinçlikda <10⁻⁷ M (qisqarişga yetmaydi); qözğalişda 2 × 10⁻⁴ M gaça (~500 baravar, maksimal qisqariş uçun kerakligidan ~10 baravar köp).",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -1147,7 +1147,7 @@
    "id": "ch07-t-galotan-izofluran",
    "termUz": "galotan, izofluran",
    "original": null,
-   "contextUz": "Moyil odamlarda galotan, izofluran yoki suksinilxolin qo’zg’atadi; kamida 6 mutatsiya, ayniqsa RyR va DHP reseptorlari genlarida → SR dan nazoratsiz Ca²⁺ chiqishi → kuchli qisqarish, metabolizm keskin oshadi, issiqlik, hujayra atsidozi, energiya tugashi.",
+   "contextUz": "Moyil odamlarda galotan, izofluran yoki suksinilxolin qözğatadi; kamida 6 mutatsiya, ayniqsa RyR va DHP reseptorlari genlarida → SR dan nazoratsiz Ca²⁺ çiqişi → kuçli qisqariş, metabolizm keskin oşadi, issiqlik, hujayra atsidozi, energiya tugaşi.",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -1157,7 +1157,7 @@
    "id": "ch07-t-suksinilxolin",
    "termUz": "suksinilxolin",
    "original": null,
-   "contextUz": "Moyil odamlarda galotan, izofluran yoki suksinilxolin qo’zg’atadi; kamida 6 mutatsiya, ayniqsa RyR va DHP reseptorlari genlarida → SR dan nazoratsiz Ca²⁺ chiqishi → kuchli qisqarish, metabolizm keskin oshadi, issiqlik, hujayra atsidozi, energiya tugashi.",
+   "contextUz": "Moyil odamlarda galotan, izofluran yoki suksinilxolin qözğatadi; kamida 6 mutatsiya, ayniqsa RyR va DHP reseptorlari genlarida → SR dan nazoratsiz Ca²⁺ çiqişi → kuçli qisqariş, metabolizm keskin oşadi, issiqlik, hujayra atsidozi, energiya tugaşi.",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -1167,7 +1167,7 @@
    "id": "ch07-t-rabdomioliz",
    "termUz": "rabdomioliz",
    "original": null,
-   "contextUz": "Belgilar: mushak rigidligi, yuqori isitma, taxikardiya; og’ir holda rabdomioliz va giperkaliyemiya.",
+   "contextUz": "Belgilar: muşak rigidligi, yuqori isitma, taxikardiya; oğir holda rabdomioliz va giperkaliyemiya.",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -1177,7 +1177,7 @@
    "id": "ch07-t-giperkaliyemiya",
    "termUz": "giperkaliyemiya",
    "original": null,
-   "contextUz": "Belgilar: mushak rigidligi, yuqori isitma, taxikardiya; og’ir holda rabdomioliz va giperkaliyemiya.",
+   "contextUz": "Belgilar: muşak rigidligi, yuqori isitma, taxikardiya; oğir holda rabdomioliz va giperkaliyemiya.",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",
@@ -1187,7 +1187,7 @@
    "id": "ch07-t-dantrolen",
    "termUz": "dantrolen",
    "original": "RyR antagonisti",
-   "contextUz": "Davo: tez sovutish va dantrolen (RyR antagonisti).",
+   "contextUz": "Davo: tez sovutiş va dantrolen (RyR antagonisti).",
    "lessonId": "ch07",
    "topicId": "02",
    "source": "summaryUz",

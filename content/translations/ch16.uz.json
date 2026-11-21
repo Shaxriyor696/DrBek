@@ -1,0 +1,390 @@
+{
+ "lessonId": "ch16",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 16,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "manual",
+ "translator": "Claude (DrStudy sessiyasi)",
+ "model": null,
+ "createdAt": "2026-11-18T06:10:38.449Z",
+ "updatedAt": "2026-11-18T06:10:38.449Z",
+ "coverage": {
+  "translated": 119,
+  "total": 119
+ },
+ "note": "Kitob matnining töliq özbekça tarjimasi (qisqartirilmagan). Ekspert tekşiruvidan ötmagan.",
+ "blocks": {
+  "ch16-f0": {
+   "text": "Mikrotsirkulyatsiyaning eng asosiy vazifalari — _töqimalarga oziq moddalarni yetkaziş_ va _hujayra çiqindilarini olib ketiş_. Kiçik arteriolalar har bir töqimaga keladigan qon oqimini boşqaradi, töqimalardagi mahalliy şaroit esa, öz navbatida, arteriolalarning diametrini boşqaradi. Şunday qilib, 17-bobda muhokama qilinganidek, köpçilik hollarda har bir töqima öz qon oqimini özining ehtiyojlariga muvofiq boşqaradi."
+  },
+  "ch16-f1": {
+   "text": "Kapillyarlarning devori yupqa bölib, bir qavatli, ötkazuvçanligi juda yuqori endotelial hujayralardan tuzilgan. Şu sababli suv, hujayra uçun oziq moddalar va hujayra çiqindilari töqimalar bilan aylanayotgan qon örtasida tez va oson almaşinadi."
+  },
+  "ch16-f2": {
+   "text": "Butun tananing periferik qon aylanişida taxminan 10 milliard kapillyar bor; ularning umumiy yuzasi 500–700 kvadrat metr (futbol maydoni yuzasining taxminan sakkizdan bir qismi) deb baholanadi. Tanadagi biror funksional hujayraning kapillyardan 20–30 mikrometrdan uzoqroqda joylaşişi kamdan-kam uçraydi."
+  },
+  "ch16-f3": {
+   "text": "Mikrotsirkulyatsiya va kapillyar tizimning tuzilişi"
+  },
+  "ch16-f4": {
+   "text": "Har bir a’zoning mikrotsirkulyatsiyasi şu a’zoning öziga xos ehtiyojlariga xizmat qiladigan tarzda taşkil topgan. Umuman olganda, a’zoga kiruvçi har bir oziqlantiruvçi arteriya olti-sakkiz marta tarmoqlanadi va şundan keyingina arteriyalar _arteriolalar_ deb ataladigan darajada kiçrayadi; arteriolalarning içki diametri odatda atigi 10–15 mikrometr böladi. Söngra arteriolalar yana ikki-beş marta tarmoqlanadi va uçlarida diametri 5–9 mikrometrga yetadi; ana şu joyda ular kapillyarlarni qon bilan ta’minlaydi."
+  },
+  "ch16-f5": {
+   "text": "Arteriolalar muskulga juda boy bölib, ularning diametri köp marta özgarişi mumkin. Metarteriolalarda (terminal arteriolalarda) uzluksiz muskul qavati yöq, biroq **Rasm 16-1** da körsatilganidek, silliq muskul tolalari tomirni oraliq nuqtalarda halqa şaklida örab turadi."
+  },
+  "ch16-f7": {
+   "text": "Har bir haqiqiy kapillyar metarterioladan boşlanadigan joyda kapillyarni odatda bitta silliq muskul tolasi örab turadi. Bu tuzilma _prekapillyar sfinkter_ deb ataladi. Bu sfinkter kapillyarga kiriş joyini oçişi va yopişi mumkin."
+  },
+  "ch16-f8": {
+   "text": "Venulalar arteriolalardan kattaroq bölib, muskul qavati ança kuçsiz. Şunga qaramay, venulalardagi bosim arteriolalardagiga qaraganda ança past, şuning uçun muskuli kuçsiz bölsa ham, venulalar sezilarli darajada qisqarişi mumkin."
+  },
+  "ch16-f9": {
+   "text": "Kapillyar törining bu tipik tuzilişi tananing hamma qismlarida uçramaydi, garçi öxşaş tuziliş ham xuddi şu maqsadlarga xizmat qilişi mumkin. Eng muhimi, metarteriolalar va prekapillyar sfinkterlar özlari xizmat qiladigan töqimalar bilan yaqin aloqada böladi. Şu sababli töqimalardagi mahalliy şaroit — masalan, oziq moddalar, moddalar almaşinuvining oxirgi mahsulotlari va vodorod ionlarining konsentratsiyasi — tomirlarga bevosita ta’sir körsatib, har bir kiçik töqima sohasida mahalliy qon oqimini boşqarişi mumkin."
+  },
+  "ch16-f10": {
+   "text": "**Rasm 16-2** da tananing köpçilik a’zolarida, ayniqsa muskullar va biriktiruvçi töqimada uçraydigan kapillyar devoridagi tipik endotelial hujayralarning ultramikroskopik tuzilişi körsatilgan. E’tibor bering: devor bir qavatli endotelial hujayralardan iborat bölib, kapillyarning taşqi tomonidan yupqa bazal membrana bilan öralgan. Kapillyar devorining umumiy qalinligi atigi 0,5 mikrometr atrofida. Kapillyarning içki diametri 4–9 mikrometr bölib, eritrotsitlar va boşqa qon hujayralari undan zörğa siqilib öta oladi.",
+   "lead": "Kapillyar devorining tuzilişi."
+  },
+  "ch16-f12": {
+   "text": "**Rasm 16-2** da kapillyarning içki böşliğini taşqi muhit bilan boğlovçi ikkita kiçik yöl körsatilgan. Ulardan biri — _hujayralararo tirqiş_; bu rasmning yuqori qismida, qöşni endotelial hujayralar orasida joylaşgan ingiçka, egri-bugri kanal. Har bir tirqiş vaqti-vaqti bilan endotelial hujayralarni bir-biriga boğlab turuvçi oqsil birikmalaridan iborat kalta qirralar bilan bölinib turadi, biroq bu qirralar orasida suyuqlik tirqiş orqali erkin sizib öta oladi. Tirqiş odatda bir xil kenglikka ega bölib, uning kengligi taxminan 6–7 nanometr (60–70 angstrem [Å]); bu albumin oqsili molekulasining diametridan biroz kiçik.",
+   "lead": "Kapillyar membranasidagi teşiklar (poralar)."
+  },
+  "ch16-f13": {
+   "text": "Hujayralararo tirqişlar faqat endotelial hujayralarning çetlarida joylaşgani sababli, ular odatda kapillyar devori umumiy yuzasining 1/1000 qismidan oşmaydi. Şunga qaramay, suv molekulalari, şuningdek, suvda eriydigan köpçilik ionlar va kiçik erigan moddalarning issiqlik harakati şu qadar tezki, bu moddalarning barçasi ana şu _tirqişsimon poralar_ — hujayralararo tirqişlar orqali kapillyarning içki va taşqi tomonlari örtasida oson diffuziyalanadi."
+  },
+  "ch16-f14": {
+   "text": "Endotelial hujayralarda _kaveolalar_ (kiçik ğorçalar) deb ham ataladigan köplab mayda _plazmolemmal pufakçalar_ bor. Bu plazmolemmal pufakçalar _xolesterin_ va _sfingolipidlar_ molekulalari bilan boğlangan, _kaveolinlar_ deb ataladigan oqsillarning oligomerlaridan hosil böladi. Kaveolalarning aniq vazifalari hali töliq aniqlanmagan bölsa-da, ular _endotsitoz_ (hujayraning taşqaridagi moddani yutib oliş jarayoni) va makromolekulalarning endotelial hujayralar içi orqali _transtsitozida_ iştirok etadi, deb hisoblanadi. Hujayra yuzasidagi kaveolalar plazma oqsillarini saqlovçi plazma yoki hujayradan taşqari suyuqlikning kiçik uluşlarini yutib oladiganga öxşaydi. Söngra bu pufakçalar endotelial hujayra böylab sekin harakatlanişi mumkin. **Rasm 16-2** da körsatilganidek, bu pufakçalarning ba’zilari özaro qöşilib, endotelial hujayrani butunlay kesib ötuvçi _pufakçali kanallar_ hosil qilişi mumkin."
+  },
+  "ch16-f15": {
+   "text": "Ba’zi a’zolar kapillyarlaridagi poralar şu a’zolarning öziga xos ehtiyojlarini qondiriş uçun maxsus xususiyatlarga ega. Bu xususiyatlarning ayrimlari quyidagilar: 1. _Boş miyada_ kapillyar endotelial hujayralari orasidagi birikmalar asosan _ziç birikmalar_ bölib, ular miya töqimalariga faqat suv, kislorod va karbonat angidrid kabi juda kiçik molekulalarning kirişi yoki çiqişiga imkon beradi. 2. _Jigarda_ kapillyar endotelial hujayralari orasidagi tirqişlar deyarli butunlay oçiq, şuning uçun plazmada erigan deyarli barça moddalar, jumladan plazma oqsillari ham qondan jigar töqimalariga öta oladi. 3. _Me’da-içak kapillyar membranalarining_ poralari kattaligi jihatidan muskullar va jigar kapillyarlari poralari örtasida turadi.",
+   "lead": "Ayrim a’zolar kapillyarlaridagi poralarning maxsus turlari."
+  },
+  "ch16-f16": {
+   "text": "4. _Buyrakning koptokça (glomerulyar) kapillyarlarida_ endotelial hujayralarning örta qismini butunlay teşib ötuvçi, _fenestralar_ deb ataladigan köplab kiçik oval “darçalar” bor; şu tufayli juda köp miqdordagi kiçik molekulali va ionli moddalar (lekin plazma oqsillarining yirik molekulalari emas) endotelial hujayralar orasidagi tirqişlardan ötişga hojat qolmasdan koptokçalar orqali filtrlanişi mumkin."
+  },
+  "ch16-f17": {
+   "text": "Kapillyarlarda qon oqimi — vazomotsiya"
+  },
+  "ch16-f18": {
+   "text": "Odatda qon kapillyarlar orqali uzluksiz oqmaydi. Aksinça, u vaqti-vaqti bilan, har bir neça soniya yoki daqiqada töxtab-qayta boşlanib oqadi. Bu uzlukli oqimning sababi _vazomotsiya_ deb ataladigan hodisa bölib, u metarteriolalar va prekapillyar sfinkterlarning (ba’zan esa hatto juda kiçik arteriolalarning ham) vaqti-vaqti bilan qisqarişini anglatadi."
+  },
+  "ch16-f19": {
+   "text": "Hozirgaça aniqlangan omillar orasida metarteriolalar va prekapillyar sfinkterlarning oçiliş-yopiliş darajasiga eng kuçli ta’sir qiluvçi omil — töqimalardagi _kislorod_ konsentratsiyasi. Töqimaning kislorod sarfi yuqori bölganda — natijada töqimadagi kislorod konsentratsiyasi me’yordan pasayganda — kapillyar qon oqimining uzlukli davrlari tez-tez takrorlanadi va har bir oqim davri uzoqroq davom etadi; şu tariqa kapillyar qoni töqimalarga köproq kislorod (şuningdek, boşqa oziq moddalarni ham) yetkazib bera oladi. Bu ta’sir mahalliy töqima qon oqimini boşqaruvçi boşqa köplab omillar bilan birga 17-bobda muhokama qilinadi.",
+   "lead": "Vazomotsiyaning boşqarilişi."
+  },
+  "ch16-f20": {
+   "text": "Har bir kapillyar orqali qon oqimi uzlukli bölişiga qaramay, töqimalarda kapillyarlar şu qadar köpki, ularning umumiy faoliyati örtaçalaşib ketadi. Ya’ni har bir töqimaning kapillyar töri orqali _örtaça qon oqimi tezligi_, kapillyarlar içida _örtaça kapillyar bosim_ va kapillyarlar qoni bilan atrofdagi interstitsial suyuqlik örtasida _moddalar almaşinuvining örtaça tezligi_ mavjud. Uşbu bobning qolgan qismida biz şu örtaça körsatkiçlar bilan şuğullanamiz, biroq şuni yodda tutiş kerakki, bu örtaça funksiyalar aslida milliardlab alohida kapillyarlarning funksiyalari bölib, ularning har biri töqimalardagi mahalliy şaroitga javoban uzlukli işlaydi.",
+   "lead": "Kapillyar tizimning örtaça faoliyati."
+  },
+  "ch16-f21": {
+   "text": "Qon va interstitsial suyuqlik örtasida suv, oziq moddalar va boşqa moddalar almaşinuvi"
+  },
+  "ch16-f22": {
+   "text": "**Rasm 16-3** da körsatilganidek, qon kapillyar böşliği böylab oqar ekan, juda köp sonli suv molekulalari va erigan zarraçalar kapillyar devori orqali u yoqdan-bu yoqqa diffuziyalanib, interstitsial suyuqlik bilan plazmaning uzluksiz aralaşib turişini ta’minlaydi. Elektrolitlar, oziq moddalar va moddalar almaşinuvining çiqindi mahsulotlari kapillyar membranasi orqali oson diffuziyalanadi. Plazma va interstitsial suyuqlikdagi erigan tarkibiy qismlar orasida kapillyar membranasidan oson ötmaydiganlari faqat oqsillardir.",
+   "lead": "Kapillyar membranasi orqali diffuziya — plazma va interstitsial suyuqlik örtasida moddalar almaşinuvining eng muhim yöli."
+  },
+  "ch16-f24": {
+   "text": "Agar modda lipidlarda erisa, u poralardan ötmasdan, kapillyar hujayra membranalari orqali bevosita diffuziyalanişi mumkin. Bunday moddalarga _kislorod_ va _karbonat angidrid_ kiradi. Bu moddalar kapillyar membranasining barça sohalari orqali öta olgani uçun ularning kapillyar membranasi orqali taşiliş tezligi faqat poralar orqali öta oladigan, lipidlarda erimaydigan moddalar, masalan, natriy ionlari va glyukozaning taşiliş tezligidan köp marta yuqori.",
+   "lead": "Lipidlarda eriydigan moddalar kapillyar endoteliysi hujayra membranalari orqali bevosita diffuziyalanadi."
+  },
+  "ch16-f25": {
+   "text": "Töqimalarga zarur bölgan köplab moddalar suvda eriydi, lekin endotelial hujayralarning lipid membranalaridan öta olmaydi; ularga _suv molekulalari_, _natriy ionlari, xlorid ionlari_ va _glyukoza_ kiradi. Endotelial hujayralar orasidagi hujayralararo tirqişlar kapillyarlar yuzasining atigi 1/1000 qismini taşkil etsa-da, tirqişlardagi molekulalarning issiqlik harakati tezligi şu qadar kattaki, hatto şu kiçik yuza ham suv va suvda eriydigan moddalarning bu tirqişsimon poralar orqali juda kuçli diffuziyasi uçun yetarli. Bu moddalar qançalik tez diffuziyalanişi haqida tasavvur beriş uçun aytiş mumkinki, _suv molekulalarining kapillyar membranasi orqali diffuziyalaniş tezligi plazmaning özi kapillyar böylab çiziqli oqiş tezligidan taxminan 80 marta katta_. Ya’ni plazma kapillyarning butun uzunligini bosib ötgunga qadar plazma suvi interstitsial suyuqlik suvi bilan 80 marta almaşinadi.",
+   "lead": "Suvda eriydigan, lipidlarda erimaydigan moddalar kapillyar membranasidagi hujayralararo poralar orqali diffuziyalanadi."
+  },
+  "ch16-f26": {
+   "text": "Kapillyar hujayralararo tirqişsimon poralarining kengligi — 6–7 nanometr — suv molekulasi diametridan taxminan 20 marta katta; suv molekulasi esa odatda kapillyar poralaridan ötadigan eng kiçik molekula hisoblanadi. Plazma oqsillari molekulalarining diametri esa poralar kengligidan biroz kattaroq. Natriy ionlari, xlorid ionlari, glyukoza va moçevina kabi boşqa moddalarning diametri oraliq qiymatga ega. Şu sababli kapillyar poralarining turli moddalar uçun ötkazuvçanligi ularning molekula diametriga qarab farq qiladi.",
+   "lead": "Molekula ölçamining poralardan ötişga ta’siri."
+  },
+  "ch16-f27": {
+   "text": "**Jadval 16-1** da skelet muskuli kapillyar poralarining turli moddalar uçun nisbiy ötkazuvçanligi keltirilgan; masalan, glyukoza molekulalari uçun ötkazuvçanlik suv molekulalari uçun ötkazuvçanlikning 0,6 qismiga teng, albumin molekulalari uçun esa juda kam — suv molekulalari uçun ötkazuvçanlikning atigi 1/1000 qismi."
+  },
+  "ch16-f29": {
+   "text": "Şu örinda bir ogohlantiriş beriş kerak. Turli töqimalardagi kapillyarlar ötkazuvçanligi jihatidan bir-biridan juda katta farq qiladi. Masalan, jigar kapillyar sinusoidlarining membranalari şu qadar ötkazuvçanki, hatto plazma oqsillari ham bu devorlardan deyarli suv va boşqa moddalar kabi oson ötadi. Şuningdek, buyrak koptokça membranasining suv va elektrolitlar uçun ötkazuvçanligi muskul kapillyarlarinikidan taxminan 500 marta yuqori, biroq plazma oqsillari uçun bu töğri emas. Bu oqsillar uçun kapillyar ötkazuvçanligi boşqa töqima va a’zolardagi kabi juda past. Kitobning keyingi qismlarida bu turli a’zolarni örganganimizda, nima uçun ba’zi töqimalar boşqalariga qaraganda yuqoriroq kapillyar ötkazuvçanlikni talab qilişi tuşunarli böladi. Masalan, jigar qon bilan jigar parenximatoz hujayralari örtasida juda köp miqdordagi oziq moddalarni taşişi uçun, buyraklar esa siydik hosil qiliş maqsadida katta hajmdagi suyuqlikni filtrlaşi uçun kapillyar ötkazuvçanligi yuqoriroq bölişi zarur."
+  },
+  "ch16-f30": {
+   "text": "Biror moddaning kapillyar membranasining ikki tomonidagi konsentratsiyalari orasidagi farq qançalik katta bölsa, şu moddaning membrana orqali bir yönalişdagi sof harakati şunçalik köp böladi. Masalan, kapillyar qonidagi kislorod konsentratsiyasi odatda interstitsial suyuqlikdagidan yuqori. Şu sababli me’yorda katta miqdordagi kislorod qondan töqimalar tomon harakatlanadi. Aksinça, karbonat angidrid konsentratsiyasi töqimalarda qondagiga qaraganda yuqori; bu ortiqça karbonat angidridning qonga ötişiga va töqimalardan olib ketilişiga sabab böladi.",
+   "lead": "Kapillyar membranasi orqali diffuziya membrananing ikki tomonidagi konsentratsiyalar farqiga proporsional."
+  },
+  "ch16-f31": {
+   "text": "Oziqlaniş uçun muhim bölgan köpçilik moddalarning kapillyar membranalari orqali diffuziyalaniş tezligi şu qadar yuqoriki, konsentratsiyalardagi ozgina farq ham plazma va interstitsial suyuqlik örtasida yetarliça, hatto ortiği bilan taşilişni ta’minlaydi. Masalan, kapillyarning bevosita taşqarisidagi interstitsial suyuqlikda kislorod konsentratsiyasi qon plazmasidagidan atigi bir neça foiz past, biroq şu kiçik farq ham töqima metabolizmi uçun zarur bölgan barça kislorodni ta’minlaş uçun qondan interstitsial böşliqlarga yetarli miqdorda kislorod ötişiga sabab böladi — tananing juda faol holatlarida bu köpinça daqiqasiga bir neça litr kislorodga yetadi."
+  },
+  "ch16-f32": {
+   "text": "Interstitsiy va interstitsial suyuqlik"
+  },
+  "ch16-f33": {
+   "text": "Tana umumiy hajmining taxminan oltidan bir qismini hujayralar orasidagi böşliqlar taşkil etadi; ular birgalikda _interstitsiy_ deb ataladi. Bu böşliqlardagi suyuqlik _interstitsial suyuqlik_ deb ataladi."
+  },
+  "ch16-f34": {
+   "text": "Interstitsiyning tuzilişi **Rasm 16-4** da körsatilgan. Unda ikki asosiy turdagi qattiq tuzilmalar bor: (1) _kollagen tolalar tutamlari_ va (2) _proteoglikan iplar_. Kollagen tolalar tutamlari interstitsiyda uzoq masofalarga çöziladi. Ular juda mustahkam bölib, töqimalarning çözilişga çidamliligini asosan şular ta’minlaydi. Proteoglikan iplar esa juda ingiçka, öralgan yoki buralgan molekulalar bölib, taxminan 98% _gialuron kislota_ va 2% oqsildan iborat. Bu molekulalar şu qadar ingiçkaki, ularni yoruğlik mikroskopida körib bölmaydi, hatto elektron mikroskopda ham körsatiş qiyin. Şunga qaramay, ular juda mayda törsimon iplardan iborat qatlam hosil qiladi; buni “çötka uyumi” deb ataş juda örinli."
+  },
+  "ch16-f36": {
+   "text": "Interstitsiydagi suyuqlik kapillyarlardan filtratsiya va diffuziya yöli bilan hosil böladi. Uning tarkibi plazmanikiga deyarli öxşaş, faqat oqsillar konsentratsiyasi ança past, çunki oqsillar kapillyar poralari orqali taşqariga oson ötmaydi. Interstitsial suyuqlik asosan proteoglikan iplar orasidagi mayda böşliqlarda uşlanib turadi. Proteoglikan iplar va ular orasida uşlanib qolgan suyuqlikning bu birikmasi _gel_ xususiyatlariga ega, şuning uçun u _töqima geli_ deb ataladi.",
+   "lead": "Interstitsiydagi gel."
+  },
+  "ch16-f37": {
+   "text": "Proteoglikan iplar köp bölgani uçun suyuqlik töqima geli orqali _oson oqib öta olmaydi_. Buning örniga _suyuqlik asosan gel orqali diffuziyalanadi_; ya’ni u köp sonli molekulalarning birgalikdagi harakati orqali emas, balki kinetik issiqlik harakati tufayli bir joydan ikkinçi joyga molekulama-molekula köçadi."
+  },
+  "ch16-f38": {
+   "text": "Gel orqali diffuziya erkin suyuqlik orqali diffuziya tezligining taxminan 95–99% iga teng tezlikda boradi. Kapillyarlar va töqima hujayralari orasidagi qisqa masofalarda bu diffuziya interstitsiy orqali nafaqat suv molekulalarining, balki elektrolitlar, kiçik molekulyar massali oziq moddalar, hujayra çiqindilari, kislorod va karbonat angidrid kabi moddalarning ham tez taşilişini ta’minlaydi."
+  },
+  "ch16-f39": {
+   "text": "Me’yorda interstitsiydagi suyuqlikning deyarli hammasi töqima geli içida uşlanib tursa-da, ba’zan kiçik _erkin suyuqlik oqimçalari_ va _kiçik erkin suyuqlik pufakçalari_ ham uçraydi; bu proteoglikan molekulalaridan xoli va şu sababli erkin oqa oladigan suyuqlikni anglatadi. Aylanayotgan qonga böyoq yuborilganda uning interstitsiy böylab kiçik oqimçalar şaklida, odatda kollagen tolalar yoki hujayralar yuzasi böylab oqib ötayotganini köpinça köriş mumkin.",
+   "lead": "Interstitsiydagi erkin suyuqlik."
+  },
+  "ch16-f40": {
+   "text": "Köpçilik _me’yoriy_ töqimalarda erkin suyuqlik miqdori juda oz, odatda 1% dan kam. Aksinça, töqimalarda _şiş (edema) rivojlanganda, erkin suyuqlikning bu kiçik böşliqçalari va oqimçalari juda kuçli kengayadi_; oxir-oqibat şiş suyuqligining yarmi yoki undan köproği proteoglikan iplarga boğliq bölmagan, erkin oqadigan suyuqlikka aylanadi."
+  },
+  "ch16-f41": {
+   "text": "Kapillyarlar orqali suyuqlik filtratsiyasi"
+  },
+  "ch16-f42": {
+   "text": "Kapillyarlardagi gidrostatik bosim suyuqlik va unda erigan moddalarni kapillyar poralari orqali interstitsial böşliqlarga siqib çiqarişga intiladi. Aksinça, plazma oqsillari hosil qiladigan osmotik bosim (_kolloid osmotik bosim_ deb ataladi) suyuqlikni osmos yöli bilan interstitsial böşliqlardan qonga harakatlantirişga intiladi. Plazma oqsillarining bu osmotik bosimi me’yorda qondan interstitsial böşliqlarga suyuqlik hajmining sezilarli darajada yöqolişiga yöl qöymaydi."
+  },
+  "ch16-f43": {
+   "text": "_Limfa tizimi_ ham muhim ahamiyatga ega: u qondan interstitsial böşliqlarga sizib çiqqan ortiqça oqsil va suyuqlikning oz miqdorini qon aylanişiga qaytaradi. Uşbu bobning qolgan qismida kapillyar filtratsiyasi va limfa oqimini boşqaruvçi mexanizmlar plazma va interstitsial suyuqlik hajmlarini boşqariş uçun qanday birgalikda işlaşini muhokama qilamiz."
+  },
+  "ch16-f44": {
+   "text": "**Rasm 16-5** da suyuqlik qondan interstitsial suyuqlikka yoki teskari yönalişda harakatlanişini belgilovçi törtta asosiy kuç körsatilgan. Bu kuçlar ularning ahamiyatini birinçi bölib körsatib bergan fiziolog Ernest Starling şarafiga _Starling kuçlari_ deb atalgan: 1. _Kapillyar gidrostatik bosimi_ (Pc) — suyuqlikni kapillyar membranasi orqali _taşqariga_ siqib çiqarişga intiladi. 2. _Interstitsial suyuqlik gidrostatik bosimi_ (Pif) — Pif musbat bölganda suyuqlikni kapillyar membranasi orqali _içkariga_, manfiy bölganda esa taşqariga siqişga intiladi.",
+   "lead": "Gidrostatik va kolloid osmotik kuçlar suyuqlikning kapillyar membranasi orqali harakatini belgilaydi."
+  },
+  "ch16-f46": {
+   "text": "3. Kapillyar _plazmasining kolloid osmotik bosimi_ (Πp) — suyuqlikni osmos yöli bilan kapillyar membranasi orqali _içkariga_ tortişga intiladi. 4. _Interstitsial suyuqlikning kolloid osmotik bosimi_ (Πif) — suyuqlikni osmos yöli bilan kapillyar membranasi orqali _taşqariga_ tortişga intiladi. Agar bu kuçlarning yiğindisi — _sof filtratsiya bosimi_ — musbat bölsa, kapillyarlar orqali sof _suyuqlik filtratsiyasi_ sodir böladi. Agar Starling kuçlarining yiğindisi manfiy bölsa, interstitsial böşliqlardan kapillyarlarga sof _suyuqlik absorbsiyasi_ sodir böladi. Sof filtratsiya bosimi (NFP) quyidagiça hisoblanadi:"
+  },
+  "ch16-f47": {
+   "text": "Keyinroq muhokama qilinganidek, me’yoriy şaroitda NFP biroz musbat böladi; natijada köpçilik a’zolarda suyuqlik kapillyarlardan interstitsial böşliqqa sof filtratsiyalanadi. Töqimadagi suyuqlik filtratsiyasi tezligi, şuningdek, har bir kapillyardagi poralar soni va kattaligiga, hamda qon oqayotgan kapillyarlar soniga ham boğliq. Bu omillar odatda birgalikda _kapillyar filtratsiya koeffitsiyenti_ (Kf) sifatida ifodalanadi. Demak, Kf kapillyar membranalarining ma’lum NFP da suvni filtrlaş qobiliyatining ölçovi bölib, odatda NFP ning har bir mm Hg iga ml/min sifatida ifodalanadi."
+  },
+  "ch16-f48": {
+   "text": "Demak, kapillyar suyuqlik filtratsiyasi tezligi quyidagiça aniqlanadi:"
+  },
+  "ch16-f49": {
+   "text": "Keyingi bölimlarda kapillyar suyuqlik filtratsiyasi tezligini belgilovçi kuçlarning har birini muhokama qilamiz."
+  },
+  "ch16-f50": {
+   "text": "Kapillyar gidrostatik bosimi"
+  },
+  "ch16-f51": {
+   "text": "Kapillyar gidrostatik bosimini baholaş uçun turli usullar qöllanilgan: (1) _kapillyarlarni mikropipetka bilan bevosita kanyulyatsiya qiliş_ — bu usul skelet muskuli va içak kabi ba’zi töqimalarda örtaça kapillyar bosimini taxminan 25 mm Hg ga teng deb körsatadi; (2) _kapillyar bosimini bilvosita funksional ölçaş_ — bu usul şu töqimalarda kapillyar bosimini örtaça taxminan 17 mm Hg ga teng deb körsatadi."
+  },
+  "ch16-f52": {
+   "text": "Kapillyardagi bosimni kanyulyatsiya yöli bilan ölçaş uçun mikroskopik şişa pipetka bevosita kapillyarga kiritiladi va bosim tegişli mikromanometr tizimi yordamida ölçanadi. Bu usul yordamida kapillyar bosimlari hayvonlarning oçilgan töqimalarida va odamda tirnoq asosidagi eponixiyning yirik kapillyar halqalarida ölçangan. Bu ölçovlar kapillyarlarning arterial uçlarida 30–40 mm Hg, venoz uçlarida 10–15 mm Hg va örta qismida taxminan 25 mm Hg bosimni körsatgan.",
+   "lead": "Kapillyar bosimini mikropipetka usulida ölçaş."
+  },
+  "ch16-f53": {
+   "text": "Ba’zi kapillyarlarda, masalan, buyraklarning _koptokça kapillyarlarida_, mikropipetka usulida ölçangan bosim ança yuqori bölib, örtaça taxminan 60 mm Hg ni taşkil etadi. Buyraklarning _peritubulyar kapillyarlarida_ esa, aksinça, gidrostatik bosim örtaça atigi 13 mm Hg atrofida. Şunday qilib, turli töqimalarda kapillyar gidrostatik bosimlari muayyan töqima va fiziologik holatga qarab juda özgaruvçan böladi."
+  },
+  "ch16-f54": {
+   "text": "Interstitsial suyuqlik gidrostatik bosimi"
+  },
+  "ch16-f55": {
+   "text": "Interstitsial suyuqlik gidrostatik bosimini ölçaşning bir neçta usuli bor; qöllanilgan usul va bosim ölçangan töqimaga qarab ularning har biri biroz farqli qiymatlar beradi. Ğovak teri osti töqimasida turli usullar bilan ölçangan interstitsial suyuqlik bosimi odatda atmosfera bosimidan bir neça millimetr simob ustuni past böladi; ya’ni bu qiymatlar _manfiy interstitsial suyuqlik bosimi_ deb ataladi. Buyraklar kabi kapsula bilan öralgan boşqa töqimalarda esa interstitsial bosim odatda _musbat_ (ya’ni atmosfera bosimidan yuqori) böladi. Eng köp qöllanilgan usullar quyidagilar: (1) töqimalarga kiritilgan mikropipetka yordamida bosimni ölçaş; (2) implantatsiya qilingan teşikli kapsulalar orqali bosimni ölçaş; (3) töqimaga kiritilgan paxta pilik orqali bosimni ölçaş. Bu turli usullar hatto bir xil töqimalarda ham interstitsial gidrostatik bosim uçun turliça qiymatlar beradi."
+  },
+  "ch16-f56": {
+   "text": "Kapillyar bosimini ölçaş uçun işlatiladigan mikropipetkaning xuddi şu turi ba’zi töqimalarda interstitsial suyuqlik bosimini ölçaş uçun ham qöllanilişi mumkin. Mikropipetka uçining diametri taxminan 1 mikrometr, ammo bu ham interstitsiydagi proteoglikan iplar orasidagi böşliqlar ölçamidan 20 yoki undan köp marta katta. Şu sababli ölçanadigan bosim, ehtimol, erkin suyuqlik çöntagidagi bosimdir.",
+   "lead": "Interstitsial suyuqlik bosimini mikropipetkalar yordamida ölçaş."
+  },
+  "ch16-f57": {
+   "text": "Mikropipetka usulida ölçangan bosimlar teri kabi _ğovak_ töqimalarda −2 dan +2 mm Hg gaça böladi, biroq köp hollarda ular örtaça atmosfera bosimidan biroz past böladi."
+  },
+  "ch16-f58": {
+   "text": "Me’yoriy _ğovak_ teri osti töqimasida diametri 2 santimetr bölgan kapsulalar yordamida ölçangan interstitsial erkin suyuqlik bosimi örtaça taxminan −6 mm Hg ni taşkil etadi, biroq kiçikroq kapsulalar işlatilganda qiymatlar mikropipetka bilan ölçangan −2 mm Hg dan unçalik farq qilmaydi.",
+   "lead": "Interstitsial erkin suyuqlik bosimini implantatsiya qilingan teşikli kovak kapsulalarda ölçaş."
+  },
+  "ch16-f59": {
+   "text": "Tananing ba’zi töqimalari ziç qobiqlar bilan öralgan: masalan, boş miya atrofidagi kalla gumbazi, buyrak atrofidagi mustahkam fibroz kapsula, muskullar atrofidagi fibroz ğiloflar va köz atrofidagi sklera. Bu töqimalarning köpçiligida, ölçaş usulidan qat’i nazar, interstitsial suyuqlik bosimi musbat böladi. Biroq bu interstitsial suyuqlik bosimlari deyarli har doim töqimalarga taşqaridan ularning qobiqlari körsatadigan bosimdan past bölib qoladi. Masalan, yonboşlab yotgan hayvonda boş miyani örab turgan orqa miya suyuqligi bosimi örtaça taxminan +10 mm Hg, _miya interstitsial suyuqligi bosimi_ esa örtaça taxminan +4 dan +6 mm Hg gaça. Buyraklarda buyrakni örab turgan kapsula bosimi örtaça taxminan +13 mm Hg, qayd etilgan _buyrak interstitsial suyuqligi bosimi_ esa örtaça taxminan +6 mm Hg. Şunday qilib, teriga ta’sir qiluvçi bosim atmosfera bosimi ekanini va u nol bosim deb qabul qilinişini yodda tutsak, quyidagi umumiy qoidani şakllantiriş mumkin: me’yoriy interstitsial suyuqlik bosimi odatda har bir töqimani örab turgan bosimga nisbatan bir neça millimetr simob ustuni manfiy böladi.",
+   "lead": "Ziç öralgan töqimalardagi interstitsial suyuqlik bosimi."
+  },
+  "ch16-f60": {
+   "text": "Tananing köpçilik tabiiy böşliqlarida, ya’ni erkin suyuqlik atrofdagi interstitsial suyuqliklar bilan dinamik muvozanatda bölgan joylarda ölçangan bosimlar manfiy bölib çiqqan. Bu böşliqlarning ayrimlari va ulardagi bosim qiymatlari quyidagiça: • Plevra içi böşliği: −8 mm Hg • Böğimlarning sinovial böşliqlari: −4 dan −6 mm Hg gaça • Epidural böşliq: −4 dan −6 mm Hg gaça"
+  },
+  "ch16-f61": {
+   "text": "Yuqorida keltirilgan turli usullar interstitsial suyuqlik bosimi uçun biroz farqli qiymatlar bersa-da, köpçilik fiziologlar me’yoriy şaroitda _ğovak_ teri osti töqimasida interstitsial suyuqlik bosimi atmosfera bosimidan biroz past bölib, örtaça taxminan −3 mm Hg ni taşkil etadi, deb hisoblaydi.",
+   "lead": "Xulosa: ğovak teri osti töqimasida interstitsial suyuqlik bosimi odatda atmosfera bosimidan past."
+  },
+  "ch16-f62": {
+   "text": "Limfa tizimi bobning keyingi qismida muhokama qilinadi, biroq avval bu tizimning interstitsial suyuqlik bosimini belgilaşdagi asosiy rolini tuşunib olişimiz kerak. Limfa tizimi öziga xos “tozalovçi” tizim bölib, töqima böşliqlaridan ortiqça suyuqlik, ortiqça oqsil molekulalari, hujayra qoldiqlari va boşqa moddalarni olib çiqib ketadi. Me’yorda suyuqlik terminal limfa kapillyarlariga kirganda limfa tomirlarining devorlari bir neça soniya davomida avtomatik ravişda qisqaradi va suyuqlikni qon aylanişiga haydaydi. Ana şu umumiy jarayon interstitsial böşliqlardagi suyuqlik uçun ölçangan kiçik manfiy bosimni hosil qiladi.",
+   "lead": "Limfa tizimining nasos faoliyati — manfiy interstitsial suyuqlik bosimining asosiy sababi."
+  },
+  "ch16-f63": {
+   "text": "Plazmaning kolloid osmotik bosimi"
+  },
+  "ch16-f64": {
+   "text": "4-bobda muhokama qilinganidek, osmotik bosimni faqat yarim ötkazgiç membrana poralaridan öta olmaydigan molekulalar yoki ionlar hosil qiladi. Plazma va interstitsial suyuqliklardagi erigan tarkibiy qismlar orasida kapillyar poralaridan oson ötmaydiganlari faqat oqsillar bölgani uçun kapillyar membranasining ikki tomonidagi osmotik bosimlarni aynan plazma va interstitsial suyuqlik oqsillari belgilaydi. Bu osmotik bosimni hujayra membranasida yuzaga keladigan osmotik bosimdan farqlaş uçun u _kolloid osmotik bosim_ yoki _onkotik bosim_ deb ataladi. _Kolloid osmotik bosim_ atamasi oqsil eritmasi aslida haqiqiy molekulyar eritma bölsa ham, kolloid eritmaga öxşaşligidan kelib çiqqan.",
+   "lead": "Plazma oqsillari kolloid osmotik bosimni hosil qiladi."
+  },
+  "ch16-f65": {
+   "text": "Me’yoriy odam plazmasining kolloid osmotik bosimi örtaça taxminan 28 mm Hg ni taşkil etadi; bu bosimning 19 mm ini erigan oqsilning molekulyar ta’sirlari, 9 mm ini esa _Donnan effekti_ — ya’ni plazma oqsillariga boğlangan natriy, kaliy va boşqa kationlar hosil qiladigan qöşimça osmotik bosim — yuzaga keltiradi.",
+   "lead": "Plazma kolloid osmotik bosimining me’yoriy qiymatlari."
+  },
+  "ch16-f66": {
+   "text": "Plazma oqsillari albumin, globulinlar va fibrinogendan iborat aralaşma bölib, ularning örtaça molekulyar massasi mos ravişda 69 000, 140 000 va 400 000 ga teng. Demak, 1 gramm globulinda 1 gramm albumindagiga qaraganda atigi yarim miqdorda, 1 gramm fibrinogenda esa atigi oltidan bir miqdorda molekula böladi. 4-bobdagi osmotik bosim haqidagi muhokamadan eslaş kerakki, osmotik bosim suyuqlikda erigan molekulalarning massasi bilan emas, balki _molekulalar soni_ bilan belgilanadi. Quyidagi jadvalda me’yoriy plazmadagi turli oqsillarning nisbiy massa konsentratsiyalari (g/dl) va ularning plazmaning umumiy kolloid osmotik bosimiga (Πp) qöşadigan hissasi keltirilgan. Bu qiymatlarga plazma oqsillariga boğlangan ionlarning Donnan effekti ham kiritilgan:",
+   "lead": "Turli plazma oqsillarining kolloid osmotik bosimga ta’siri."
+  },
+  "ch16-f67": {
+   "text": "Şunday qilib, plazmaning umumiy kolloid osmotik bosimining taxminan 80% i albuminga, 20% i globulinlarga töğri keladi, fibrinogenning hissasi esa deyarli yöq. Şu sababli kapillyar va töqima suyuqligi dinamikasi nuqtayi nazaridan asosan albumin muhim ahamiyatga ega."
+  },
+  "ch16-f68": {
+   "text": "Interstitsial suyuqlikning kolloid osmotik bosimi"
+  },
+  "ch16-f69": {
+   "text": "Odatdagi kapillyar porasining ölçami plazma oqsillari molekulalarining ölçamidan kiçik bölsa-da, bu barça poralar uçun töğri emas. Şu sababli plazma oqsillarining oz miqdori poralar orqali va kiçik pufakçalarda transtsitoz yöli bilan interstitsial böşliqlarga sizib çiqadi."
+  },
+  "ch16-f70": {
+   "text": "Tanadagi jami 12 litr interstitsial suyuqlikdagi oqsilning umumiy miqdori plazmadagi oqsilning umumiy miqdoridan biroz köproq, biroq bu hajm plazma hajmidan tört marta katta bölgani uçun köpçilik töqimalar interstitsial suyuqligida oqsilning örtaça _konsentratsiyasi_ odatda plazmadagining atigi 40% ini, ya’ni taxminan 3 g/dl ni taşkil etadi. Miqdoriy jihatdan, oqsillarning şu konsentratsiyasida interstitsial suyuqlikning örtaça kolloid osmotik bosimi taxminan 8 mm Hg ga teng."
+  },
+  "ch16-f71": {
+   "text": "Kapillyar membranasi orqali suyuqlik hajmi almaşinuvi"
+  },
+  "ch16-f72": {
+   "text": "Suyuqlikning kapillyar membranasi orqali harakatiga ta’sir qiluvçi turli omillar muhokama qilindi; endi kapillyar tizim plazma va interstitsial suyuqlik örtasida suyuqlik hajmining me’yoriy taqsimotini qanday saqlab turişini köriş uçun bu omillarning barçasini birlaştirişimiz mumkin."
+  },
+  "ch16-f73": {
+   "text": "Kapillyarlarning arterial uçlaridagi örtaça kapillyar bosim venoz uçlaridagidan 15–25 mm Hg yuqori. Şu farq tufayli suyuqlik kapillyarlarning arterial uçlarida taşqariga filtrlanadi, venoz uçlarida esa yana kapillyarlarga qayta söriladi (qarang: **Rasm 16-3**). Şunday qilib, oz miqdordagi suyuqlik amalda töqimalar orqali kapillyarlarning arterial uçlaridan venoz uçlariga “oqadi”. Bu oqimning dinamikasi quyidagiça."
+  },
+  "ch16-f74": {
+   "text": "Kapillyarning _arterial uçida_ ta’sir qiluvçi va kapillyar membranasi orqali harakatga sabab böladigan taxminiy örtaça kuçlar quyida körsatilgan:",
+   "lead": "Kapillyarning arterial uçida filtratsiyani yuzaga keltiruvçi kuçlar tahlili."
+  },
+  "ch16-f75": {
+   "text": "Şunday qilib, kapillyarning arterial uçidagi kuçlar yiğindisi 13 mm Hg ga teng sof _filtratsiya bosimini_ körsatadi; bu bosim suyuqlikni kapillyar poralari orqali taşqariga harakatlantirişga intiladi. Ana şu 13 mm Hg filtratsiya bosimi tufayli qon har safar kapillyarlardan ötganda oqayotgan qon plazmasining örtaça taxminan 1/200 qismi kapillyarlarning arterial uçlaridan interstitsial böşliqlarga filtrlanadi."
+  },
+  "ch16-f76": {
+   "text": "Kapillyarning venoz uçidagi past qon bosimi kuçlar muvozanatini quyidagiça absorbsiya foydasiga özgartiradi:",
+   "lead": "Kapillyarning venoz uçidagi reabsorbsiya tahlili."
+  },
+  "ch16-f77": {
+   "text": "Şunday qilib, kapillyarlarning venoz uçlarida 7 mm Hg ga teng _sof reabsorbsiya bosimi_ mavjud. Bu reabsorbsiya bosimi kapillyarlarning arterial uçlaridagi filtratsiya bosimidan ança past, biroq yodda tutingki, venoz kapillyarlar arterial kapillyarlarga qaraganda soni jihatidan köproq va ötkazuvçanroq. Şu sababli suyuqlikning içkariga harakatlanişi uçun kamroq reabsorbsiya bosimi kifoya qiladi."
+  },
+  "ch16-f78": {
+   "text": "Reabsorbsiya bosimi kapillyarlarning arterial uçlaridan filtrlangan suyuqlikning taxminan öndan töqqiz qismini venoz uçlarda qayta sörilişiga olib keladi. Qolgan öndan bir qismi limfa tomirlariga oqib ötadi va aylanayotgan qonga qaytadi."
+  },
+  "ch16-f79": {
+   "text": "Kapillyar almaşinuvidagi Starling muvozanati"
+  },
+  "ch16-f80": {
+   "text": "Ernest Starling bundan bir asrdan köproq vaqt oldin me’yoriy şaroitda köpçilik kapillyarlarda muvozanatga yaqin holat mavjudligini körsatib bergan. Ya’ni kapillyarlarning arterial uçlaridan taşqariga filtrlanayotgan suyuqlik miqdori absorbsiya yöli bilan qon aylanişiga qaytarilayotgan suyuqlik miqdoriga deyarli aynan teng. Yuzaga keladigan kiçik nomuvozanat oxir-oqibat limfa tomirlari orqali qon aylanişiga qaytariladigan suyuqlikni taşkil etadi."
+  },
+  "ch16-f81": {
+   "text": "Quyidagi jadvalda Starling muvozanatining tamoyillari körsatilgan. Bu jadval uçun kapillyarning butun uzunligi böyiça örtaça _funksional_ kapillyar bosimini hisoblaş maqsadida arterial va venoz kapillyarlardagi bosimlar örtaçalaştirilgan. Bu örtaça funksional kapillyar bosimi hisob-kitoblarga köra 17,3 mm Hg ga teng."
+  },
+  "ch16-f82": {
+   "text": "Şunday qilib, butun kapillyar qon aylanişi uçun taşqariga yönalgan umumiy kuçlar (28,3 mm Hg) va içkariga yönalgan umumiy kuç (28,0 mm Hg) örtasida muvozanatga yaqin holat mavjudligini köramiz. Kuçlarning bu kiçik nomuvozanati — 0,3 mm Hg — suyuqlikning interstitsial böşliqlarga filtratsiyasi reabsorbsiyadan biroz köproq bölişiga sabab böladi. Filtratsiyaning bu kiçik ortiqçaligi _sof filtratsiya_ deb ataladi va aynan şu suyuqlik limfa tomirlari orqali qon aylanişiga qaytarilişi kerak. _Butun tanada_, buyraklarni hisobga olmaganda, sof filtratsiyaning me’yoriy tezligi atigi taxminan 2 ml/min."
+  },
+  "ch16-f83": {
+   "text": "Kapillyar filtratsiya koeffitsiyenti"
+  },
+  "ch16-f84": {
+   "text": "Oldingi misolda kapillyar membranalaridagi kuçlarning örtaça 0,3 mm Hg lik sof nomuvozanati butun tanada 2 ml/min sof suyuqlik filtratsiyasiga sabab böladi. Sof suyuqlik filtratsiyasi tezligini har bir mm Hg nomuvozanat uçun ifodalasak, butun tana uçun har bir mm Hg ga 6,67 ml/min sof filtratsiya tezligi kelib çiqadi. Bu qiymat butun tananing _kapillyar filtratsiya koeffitsiyenti_ deb ataladi."
+  },
+  "ch16-f85": {
+   "text": "Filtratsiya koeffitsiyentini tananing alohida qismlari uçun ham 100 gramm töqimaga, har bir mm Hg ga daqiqasiga filtratsiya tezligi sifatida ifodalaş mumkin. Şu asosda örtaça töqimaning kapillyar filtratsiya koeffitsiyenti taxminan 100 g töqimaga har bir mm Hg uçun 0,01 ml/min ni taşkil etadi. Biroq turli töqimalardagi kapillyar tizimlarning ötkazuvçanligi va yuzasi bir-biridan juda katta farq qilgani uçun bu koeffitsiyent turli töqimalarda 100 martadan köproq farq qiladi. U boş miya va muskulda juda kiçik, teri osti töqimasida örtaça kattalikda, içakda katta, jigar va buyrak koptokçasida esa juda katta, çunki bu yerda kapillyarlar yuzasi katta, poralar esa köp yoki keng oçiq. Xuddi şunday, oqsillarning kapillyar membranalari orqali ötişi ham juda katta farq qiladi. Oqsil konsentratsiyasi muskullarning interstitsial suyuqligida taxminan 1,5 g/dl, teri osti töqimasida 2 g/dl, içakda 4 g/dl, jigarda esa 6 g/dl."
+  },
+  "ch16-f86": {
+   "text": "Agar örtaça kapillyar bosim örtaça 17 mm Hg qiymatidan sezilarli darajada oşsa, suyuqlikni töqima böşliqlariga filtrlaşga intiluvçi sof kuç ham ortadi. Masalan, örtaça kapillyar bosimning 20 mm Hg ga oşişi sof filtratsiya bosimini 0,3 dan 20,3 mm Hg gaça oşiradi; natijada suyuqlikning interstitsial böşliqlarga sof filtratsiyasi me’yordagidan 68 marta köpayadi. Bu böşliqlarda ortiqça suyuqlik töplanişining oldini oliş uçun limfa tizimiga me’yordagidan 68 marta köp suyuqlik oqib ötişi kerak bölardi; bu esa limfa tomirlari olib keta oladigan miqdordan 2–5 marta köp. Natijada suyuqlik interstitsial böşliqlarda töplana boşlaydi va şiş yuzaga keladi.",
+   "lead": "Kapillyar membranasidagi kuçlar muvozanatining patologik buzilişi ta’siri."
+  },
+  "ch16-f87": {
+   "text": "Aksinça, agar kapillyar bosim juda pasayib ketsa, sof filtratsiya örniga suyuqlikning kapillyarlarga sof reabsorbsiyasi sodir böladi va qon hajmi interstitsial suyuqlik hajmi hisobiga ortadi. Kapillyar membranasidagi nomuvozanatning bu ta’sirlari şişning turli xillari rivojlanişi bilan boğliq holda 25-bobda muhokama qilinadi."
+  },
+  "ch16-f88": {
+   "text": "Limfa tizimi"
+  },
+  "ch16-f89": {
+   "text": "Limfa tizimi suyuqlikning interstitsial böşliqlardan qonga oqib ötişi uçun qöşimça yöl hisoblanadi. Eng muhimi, limfa tomirlari töqima böşliqlaridan oqsillar va yirik zarraçalarni olib keta oladi; bularning heç birini bevosita qon kapillyarlariga söriliş yöli bilan çiqarib bölmaydi. Oqsillarning interstitsial böşliqlardan qonga bunday qaytarilişi hayotiy muhim funksiya bölib, usiz biz taxminan 24 soat içida halok bölardik."
+  },
+  "ch16-f90": {
+   "text": "Tananing limfa yöllari"
+  },
+  "ch16-f91": {
+   "text": "Tananing deyarli barça töqimalarida ortiqça suyuqlikni bevosita interstitsial böşliqlardan olib çiqib ketuvçi maxsus limfa yöllari mavjud. Istisnolar qatoriga terining yuza qismlari, markaziy nerv tizimi, muskullarning endomiziyi va suyaklar kiradi. Biroq hatto bu töqimalarda ham _prelimfatik yöllar_ deb ataladigan mayda interstitsial kanallar bor; interstitsial suyuqlik ular orqali oqib ötadi va oxir-oqibat limfa tomirlariga yoki, boş miya holatida, orqa miya suyuqligiga, söngra bevosita qonga qaytadi."
+  },
+  "ch16-f92": {
+   "text": "Tananing pastki qismidan keluvçi deyarli barça limfa tomirlari oxir-oqibat _kökrak limfa yöliga_ quyiladi; u esa, **Rasm 16-6** da körsatilganidek, _çap_ içki böyinturuq venasi va çap ömrov osti venasining qöşiliş joyida venoz qon tizimiga quyiladi."
+  },
+  "ch16-f94": {
+   "text": "Boşning çap tomoni, çap qöl va kökrak sohasining ayrim qismlaridan keladigan limfa ham venalarga quyilişidan oldin kökrak limfa yöliga kiradi."
+  },
+  "ch16-f95": {
+   "text": "Böyin va boşning öng tomoni, öng qöl va kökrak qafasi öng qismining ayrim sohalaridan keladigan limfa _öng limfa yöliga_ (kökrak limfa yölidan ança kiçik) kiradi; u _öng_ ömrov osti venasi va içki böyinturuq venasining qöşiliş joyida venoz qon tizimiga quyiladi."
+  },
+  "ch16-f96": {
+   "text": "_Qon kapillyarlarining arterial uçlaridan_ filtrlanadigan suyuqlikning katta qismi hujayralar orasidan oqib ötadi va oxir-oqibat _qon kapillyarlarining venoz uçlariga_ qayta söriladi, biroq örtaça hisobda suyuqlikning taxminan öndan bir qismi buning örniga _limfa kapillyarlariga_ kiradi va qonga venoz kapillyarlar orqali emas, balki limfa tizimi orqali qaytadi. Bu limfaning umumiy miqdori me’yorda kuniga atigi 2–3 L ni taşkil etadi.",
+   "lead": "Terminal limfa kapillyarlari va ularning ötkazuvçanligi."
+  },
+  "ch16-f97": {
+   "text": "Limfa tomirlari orqali qon aylanişiga qaytadigan suyuqlik nihoyatda muhim, çunki oqsillar kabi yuqori molekulyar massali moddalar töqimalardan boşqa heç qanday yöl bilan sörila olmaydi, holbuki ular limfa kapillyarlariga deyarli tösiqsiz kira oladi. Bu mexanizmning sababi limfa kapillyarlarining **Rasm 16-7** da körsatilgan maxsus tuzilişidir. Bu rasmda limfa kapillyari endotelial hujayralarining atrofdagi biriktiruvçi töqimaga _langar iplar_ yordamida birikkani körsatilgan. Qöşni endotelial hujayralarning tutaşgan joylarida bir endotelial hujayraning çeti qöşni hujayraning çetini şunday qoplab turadiki, bu qoplovçi çet içkariga erkin qayrila oladi va şu tariqa limfa kapillyarining içiga qarab oçiladigan mayda klapan hosil qiladi. Interstitsial suyuqlik undagi muallaq zarraçalar bilan birga klapanni itarib oçişi va bevosita limfa kapillyariga oqib kirişi mumkin. Biroq bu suyuqlik kapillyarga kirgandan keyin undan çiqib ketişi qiyin, çunki har qanday teskari oqim klapan qopqoğini yopib qöyadi. Şunday qilib, limfa tomirlarida terminal limfa kapillyarlarining eng uçlarida ham, şuningdek, yirikroq tomirlari böylab ular qon aylanişiga quyiladigan joygaça ham klapanlar mavjud."
+  },
+  "ch16-f99": {
+   "text": "Limfaning hosil bölişi"
+  },
+  "ch16-f100": {
+   "text": "Limfa limfa tomirlariga oqib kiradigan interstitsial suyuqlikdan hosil böladi. Şu sababli terminal limfa tomirlariga endigina kirgan limfaning tarkibi interstitsial suyuqlikniki bilan deyarli bir xil böladi."
+  },
+  "ch16-f101": {
+   "text": "Köpçilik töqimalar interstitsial suyuqligida oqsil konsentratsiyasi örtaça taxminan 2 g/dl, bu töqimalardan oqib çiqadigan limfadagi oqsil konsentratsiyasi ham şu qiymatga yaqin. Jigarda hosil böladigan limfada oqsil konsentratsiyasi 6 g/dl gaça, içaklarda hosil böladigan limfada esa 3–4 g/dl gaça yetadi. Me’yorda butun limfaning taxminan uçdan ikki qismi jigar va içaklardan hosil bölgani uçun tananing barça sohalaridan kelgan limfa aralaşmasi bölgan kökrak limfa yöli limfasida oqsil konsentratsiyasi odatda 3–5 g/dl böladi."
+  },
+  "ch16-f102": {
+   "text": "66-bobda muhokama qilinganidek, limfa tizimi me’da-içak yölidan oziq moddalar sörilişining ham asosiy yöllaridan biri bölib, ayniqsa ovqatdagi deyarli barça yoğlar şu yöl bilan söriladi. Yoğli ovqatdan keyin kökrak limfa yöli limfasida ba’zan 1–2% gaça yoğ böladi."
+  },
+  "ch16-f103": {
+   "text": "Nihoyat, hatto bakteriyalar kabi yirik zarraçalar ham limfa kapillyarlarining endotelial hujayralari orasidan siqilib ötib, şu yöl bilan limfaga kirişi mumkin. 34-bobda muhokama qilinganidek, limfa limfa tugunlaridan ötayotganda bu zarraçalar deyarli butunlay uşlab qolinadi va yöq qilinadi."
+  },
+  "ch16-f104": {
+   "text": "Tinç holatdagi odamning _kökrak limfa yöli_ orqali soatiga taxminan 100 ml limfa oqadi, boşqa yöllar orqali esa har soatda yana taxminan 20 ml limfa qon aylanişiga quyiladi; şunday qilib, limfa oqimi umumiy hisobda taxminan 120 ml/soat yoki kuniga 2–3 L ni taşkil etadi."
+  },
+  "ch16-f105": {
+   "text": "**Rasm 16-8** da hayvonlarda ölçangan interstitsial suyuqlik gidrostatik bosimining turli darajalari limfa oqimiga qanday ta’sir qilişi körsatilgan. E’tibor bering: interstitsial suyuqlik bosimi me’yoriy qiymat bölgan −6 mm Hg dan manfiyroq bölganda limfa oqimi juda oz böladi. Söngra bosim 0 mm Hg gaça (atmosfera bosimigaça) kötarilganda oqim 20 martadan köproq ortadi. Şu sababli, agar limfa tomirlari me’yorida işlayotgan bölsa, interstitsial suyuqlik bosimini oşiruvçi har qanday omil limfa oqimini ham oşiradi. Bunday omillarga quyidagilar kiradi: • Kapillyar gidrostatik bosimining oşişi • Plazma kolloid osmotik bosimining pasayişi • Interstitsial suyuqlik kolloid osmotik bosimining oşişi • Kapillyarlar ötkazuvçanligining oşişi. Bu omillarning barçasi suyuqlikning interstitsiyga sof harakatlanişiga yordam beradi va şu tariqa bir vaqtning özida interstitsial suyuqlik hajmini, interstitsial suyuqlik bosimini va limfa oqimini oşiradi.",
+   "lead": "Interstitsial suyuqlik bosimining limfa oqimiga ta’siri."
+  },
+  "ch16-f107": {
+   "text": "Biroq **Rasm 16-8** da e’tibor bering: interstitsial suyuqlik gidrostatik bosimi atmosfera bosimidan 1 yoki 2 mm Hg yuqori bölganda (>0 mm Hg), bundan ham yuqori bosimlarda limfa oqimi boşqa oşmaydi. Buning sababi şundaki, ortib borayotgan töqima bosimi nafaqat suyuqlikning limfa kapillyarlariga kirişini oşiradi, balki yirikroq limfa tomirlarining taşqi yuzasini ham siqib, limfa oqimiga tösqinlik qiladi. Yuqori bosimlarda bu ikki omil bir-birini muvozanatlaydi, şuning uçun limfa oqimi maksimal tezlikka yetadi. Bu maksimal oqim tezligi **Rasm 16-8** dagi yuqori plato bilan körsatilgan."
+  },
+  "ch16-f108": {
+   "text": "Barça limfa yöllarida klapanlar mavjud. **Rasm 16-9** da limfa kapillyarlari quyiladigan yiğuvçi limfa tomirlarining tipik klapanlari körsatilgan.",
+   "lead": "Limfa nasosi limfa oqimini kuçaytiradi."
+  },
+  "ch16-f110": {
+   "text": "Hayvonlar va odamlarda oçilgan limfa tomirlarining videoyozuvlari şuni körsatdiki, yiğuvçi limfa tomiri yoki yirikroq limfa tomiri suyuqlik bilan çözilganda tomir devoridagi silliq muskul avtomatik ravişda qisqaradi. Bundan taşqari, limfa tomirining ketma-ket joylaşgan klapanlar orasidagi har bir segmenti alohida avtomatik nasos sifatida işlaydi. Ya’ni segmentning ozgina tölişi ham uning qisqarişiga sabab böladi va suyuqlik keyingi klapan orqali keyingi limfa segmentiga haydaladi. Bu suyuqlik navbatdagi segmentni töldiradi va bir neça soniyadan keyin u ham qisqaradi; bu jarayon limfa tomiri böylab suyuqlik oxir-oqibat qon aylanişiga quyilgunça davom etadi. Kökrak limfa yöli kabi juda yirik limfa tomirida bu limfa nasosi 50–100 mm Hg gaça bosim hosil qila oladi."
+  },
+  "ch16-f111": {
+   "text": "Limfa tomiri devorlarining içki sabablarga köra vaqti-vaqti bilan qisqarişi tufayli yuzaga keladigan nasos ta’siridan taşqari, limfa tomirini vaqti-vaqti bilan siquvçi har qanday taşqi omil ham nasos ta’sirini keltirib çiqarişi mumkin. Ahamiyatiga köra tartiblanganda bunday omillar quyidagilar: • Atrofdagi skelet muskullarining qisqarişi • Tana qismlarining harakati • Limfa tomirlari yonidagi arteriyalarning pulsatsiyasi • Töqimalarning tanadan taşqaridagi narsalar tomonidan siqilişi. Jismoniy maşq paytida limfa nasosi juda faollaşadi va köpinça limfa oqimini 10–30 marta oşiradi. Aksinça, tinç holat davrlarida limfa oqimi sust (deyarli nolga teng) böladi.",
+   "lead": "Limfa tomirlarining taşqaridan vaqti-vaqti bilan siqilişi tufayli yuzaga keladigan nasos ta’siri."
+  },
+  "ch16-f112": {
+   "text": "Yirikroq limfa tomirlarining nasos faoliyatidan taşqari, terminal limfa kapillyari ham limfani haydaş qobiliyatiga ega. Bobning avvalgi qismida tuşuntirilganidek, limfa kapillyarlari devoridagi langar iplar atrofdagi töqima hujayralariga mahkam yopişgan. Şu sababli har safar töqimaga ortiqça suyuqlik kirib, töqimaning şişişiga sabab bölganda, langar iplar limfa kapillyari devorini tortadi va suyuqlik endotelial hujayralar orasidagi tutaşuvlar orqali terminal limfa kapillyariga oqib kiradi. Söngra töqima siqilganda kapillyar içidagi bosim ortadi va endotelial hujayralarning bir-birini qoplab turgan çetlarini klapanlar kabi yopib qöyadi. Şu tufayli bosim limfani hujayralar orasidagi tutaşuvlar orqali orqaga emas, balki oldinga — yiğuvçi limfa tomiriga suradi.",
+   "lead": "Limfa kapillyari nasosi."
+  },
+  "ch16-f113": {
+   "text": "Limfa kapillyarlarining endotelial hujayralarida bir neçta qisqaruvçi aktomiozin iplari ham böladi. Ba’zi hayvon töqimalarida (masalan, körşapalak qanotida) bu iplar köplab kiçik qon tomirlari va yirikroq limfa tomirlari qisqargani kabi ritmik tarzda limfa kapillyarlarining ritmik qisqarişini keltirib çiqarişi kuzatilgan. Şu sababli limfa nasos faoliyatining heç bölmaganda bir qismi yirikroq muskulli limfa tomirlarining qisqarişi bilan bir qatorda limfa kapillyarlari endotelial hujayralarining qisqarişi natijasida ham yuzaga kelişi ehtimoli katta."
+  },
+  "ch16-f114": {
+   "text": "Yuqoridagi muhokamadan körinib turibdiki, limfa oqimini belgilovçi ikki asosiy omil — (1) interstitsial suyuqlik bosimi va (2) limfa nasosining faolligi. Şu sababli taxminan şunday deyiş mumkin: _limfa oqimi tezligi interstitsial suyuqlik bosimi bilan limfa nasosi faolligining köpaytmasi bilan belgilanadi_.",
+   "lead": "Limfa oqimini belgilovçi omillar xulosasi."
+  },
+  "ch16-f115": {
+   "text": "Limfa tizimi interstitsial suyuqlikdagi oqsil konsentratsiyasi, suyuqlik hajmi va bosimini boşqarişda asosiy rol öynaydi"
+  },
+  "ch16-f116": {
+   "text": "Limfa tizimi ortiqça oqsillar va ortiqça suyuqlik hajmini töqima böşliqlaridan qon aylanişiga qaytaruvçi “toşib ketiş” mexanizmi sifatida işlaşi allaqaçon aniq. Şu sababli limfa tizimi quyidagilarni boşqarişda ham markaziy rol öynaydi: (1) interstitsial suyuqliklardagi oqsillar konsentratsiyasi; (2) interstitsial suyuqlik hajmi; (3) interstitsial suyuqlik bosimi. Quyida bu omillarning özaro ta’siri qanday keçişi tuşuntiriladi. 1. Yodda tutingki, oqsillarning oz miqdori qon kapillyarlaridan interstitsiyga uzluksiz sizib çiqib turadi. Sizib çiqqan oqsillarning faqat juda oz qismi, agar umuman bölsa, qon kapillyarlarining venoz uçlari orqali qon aylanişiga qaytadi. Şu sababli bu oqsillar interstitsial suyuqlikda töplanişga moyil böladi, bu esa öz navbatida interstitsial suyuqliklarning kolloid osmotik bosimini oşiradi. 2. Interstitsial suyuqlikdagi kolloid osmotik bosimning ortişi qon kapillyarlari membranalaridagi kuçlar muvozanatini suyuqlikning interstitsiyga filtratsiyasi foydasiga siljitadi. Natijada, amalda, suyuqlik oqsillar tomonidan osmotik yöl bilan kapillyar devori orqali taşqariga — interstitsiyga köçiriladi va şu tariqa interstitsial suyuqlik hajmi ham, interstitsial suyuqlik bosimi ham ortadi. 3. Interstitsial suyuqlik bosimining ortişi limfa oqimi tezligini keskin oşiradi; limfa esa böşliqlarda töplangan ortiqça interstitsial suyuqlik hajmi va ortiqça oqsilni olib ketadi. Şunday qilib, interstitsial suyuqlikdagi oqsil konsentratsiyasi ma’lum darajaga yetib, interstitsial suyuqlik hajmi va bosimini mos ravişda oşirgaç, oqsil va suyuqlikning limfa tizimi orqali qaytarilişi ularning qon kapillyarlaridan interstitsiyga sizib çiqiş tezligini muvozanatlaş uçun yetarli darajada kuçayadi. Şu sababli bu omillarning barçasining miqdoriy qiymatlari barqaror holatga yetadi va qandaydir omil oqsillar hamda suyuqlikning qon kapillyarlaridan sizib çiqiş tezligini özgartirmagunça şu barqaror darajalarda muvozanatda saqlanib turadi."
+  },
+  "ch16-f117": {
+   "text": "Manfiy interstitsial suyuqlik bosimining tana töqimalarini bir-biriga tutaştirib turişdagi ahamiyati"
+  },
+  "ch16-f118": {
+   "text": "An’anaviy ravişda tananing turli töqimalari bir-biri bilan butunlay biriktiruvçi töqima tolalari yordamida tutaşib turadi, deb hisoblangan. Biroq tananing köp joylarida, ayniqsa töqimalar bir-biri ustida sirpanadigan joylarda (masalan, qöl kafti orqasi yoki yuz ustida sirpanuvçi teri) biriktiruvçi töqima tolalari juda kuçsiz yoki hatto umuman yöq. Şunga qaramay, hatto bu joylarda ham töqimalarni manfiy interstitsial suyuqlik bosimi bir-biriga tutaştirib turadi; bu bosim aslida qisman vakuumdir. Töqimalar manfiy bosimini yöqotganda böşliqlarda suyuqlik töplanadi va _şiş_ (edema) deb ataladigan holat yuzaga keladi. Bu holat 25-bobda muhokama qilinadi."
+  }
+ },
+ "figures": {
+  "gh14-fig-16-01": "Mikrotsirkulyatsiyaning tarkibiy qismlari.",
+  "gh14-fig-16-02": "Kapillyar devorining tuzilişi. Ayniqsa qöşni endotelial hujayralar tutaşgan joydagi hujayralararo tirqişga e’tibor bering. Suvda eriydigan moddalarning köpçiligi kapillyar membranasi orqali şu tirqişlar böylab diffuziyalanadi, deb hisoblanadi. Kaveolalar deb ataladigan kiçik membrana botiqlari makromolekulalarni hujayra membranasi orqali taşişda iştirok etadi, deb taxmin qilinadi. Kaveolalarda kaveolinlar bor; bular xolesterin bilan özaro ta’sirlaşib, polimerlanadigan va kaveolalarni hosil qiladigan oqsillardir.",
+  "gh14-fig-16-03": "Suyuqlik molekulalari va erigan moddalarning kapillyar bilan interstitsial suyuqlik böşliqlari örtasida diffuziyasi.",
+  "gh14-fig-16-04": "Interstitsiyning tuzilişi. Proteoglikan iplar kollagen tolalar tutamlari orasidagi böşliqlarning hamma joyida uçraydi. Ba’zan erkin suyuqlik pufakçalari va oqimçalar şaklidagi oz miqdordagi erkin suyuqlik ham uçraydi.",
+  "gh14-fig-16-05": "Kapillyar membranasida ta’sir qiluvçi va suyuqlikni membrana poralari orqali taşqariga yoki içkariga harakatlantirişga intiluvçi suyuqlik bosimi va kolloid osmotik bosim kuçlari.",
+  "gh14-fig-16-06": "Limfa tizimi.",
+  "gh14-fig-16-07": "Yuqori molekulyar massali moddalarning limfaga ötişiga imkon beruvçi limfa kapillyarlarining maxsus tuzilişi.",
+  "gh14-fig-16-08": "It oyoğida interstitsial suyuqlik bosimi va limfa oqimi örtasidagi boğliqlik. E’tibor bering: interstitsial bosim (Pif) atmosfera bosimidan (0 mm Hg) biroz yuqoriga kötarilganda limfa oqimi maksimal darajaga yetadi. (Dr. Harry Gibson va Dr. Aubrey Taylor ruxsati bilan.)",
+  "gh14-fig-16-09": "Limfa kapillyarlari va yiğuvçi limfa tomirining tuzilişi; limfa klapanlari ham körsatilgan.",
+  "gh14-tab-16-01": "Skelet muskuli kapillyar poralarining turli ölçamdagi molekulalar uçun nisbiy ötkazuvçanligi"
+ }
+}

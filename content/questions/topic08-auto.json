@@ -1,0 +1,765 @@
+{
+ "origin": "Claude (DrStudy sessiyasi) — kitobning özbekça izohlari (Guyton & Hall, 14-naşr) asosida, 2026-11-17. Ekspert tekşiruvi kerak.",
+ "questions": [
+  {
+   "id": "q08-c44-01",
+   "version": 1,
+   "topicId": "08",
+   "lessonId": "ch44",
+   "stem": "Balandlikdagi gipoksiyaning asosiy sababi nima?",
+   "options": [
+    {
+     "id": "q08-c44-01-a",
+     "text": "Havo haroratining pasayişi"
+    },
+    {
+     "id": "q08-c44-01-b",
+     "text": "Havoda CO₂ ning köpayişi"
+    },
+    {
+     "id": "q08-c44-01-c",
+     "text": "Havodagi O₂ foizining 21% dan kamayişi"
+    },
+    {
+     "id": "q08-c44-01-d",
+     "text": "Barometrik bosimning pasayişi va unga mutanosib PO₂ tuşişi"
+    }
+   ],
+   "answerOptionId": "q08-c44-01-d",
+   "explanation": "O₂ uluşi balandlikda ham ~21% qoladi; barometrik bosim pasaygani uçun PO₂ tuşadi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch44",
+    "topicId": "08",
+    "blockId": "ch44-u1",
+    "printedPage": 522,
+    "pdfPage": 527,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q08-c44-02",
+   "version": 1,
+   "topicId": "08",
+   "lessonId": "ch44",
+   "stem": "Everest çöqqisida (barometrik bosim 253 mm Hg) akklimatizatsiyalangan odamda alveolyar PO₂ taxminan qança?",
+   "options": [
+    {
+     "id": "q08-c44-02-a",
+     "text": "~104 mm Hg"
+    },
+    {
+     "id": "q08-c44-02-b",
+     "text": "~10 mm Hg"
+    },
+    {
+     "id": "q08-c44-02-c",
+     "text": "~35 mm Hg"
+    },
+    {
+     "id": "q08-c44-02-d",
+     "text": "~53 mm Hg"
+    }
+   ],
+   "answerOptionId": "q08-c44-02-c",
+   "explanation": "253 − 47 (suv buği) − 7 (CO₂) = 199; 1/5 qismi ~40, yutilişni hisobga olsak PAO₂ ≈ 35 mm Hg.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch44",
+    "topicId": "08",
+    "blockId": "ch44-u6",
+    "printedPage": 522,
+    "pdfPage": 527,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q08-c44-03",
+   "version": 1,
+   "topicId": "08",
+   "lessonId": "ch44",
+   "stem": "Akklimatizatsiyalanmagan odam germetik bölmagan samolyotda havo bilan nafas olganda qisqa muddatli \"shift\" (ceiling) taxminan qança?",
+   "options": [
+    {
+     "id": "q08-c44-03-a",
+     "text": "~60 000 fut"
+    },
+    {
+     "id": "q08-c44-03-b",
+     "text": "~23 000 fut"
+    },
+    {
+     "id": "q08-c44-03-c",
+     "text": "~47 000 fut"
+    },
+    {
+     "id": "q08-c44-03-d",
+     "text": "~10 000 fut"
+    }
+   ],
+   "answerOptionId": "q08-c44-03-b",
+   "explanation": "Saturatsiya ~50% gaça huş saqlanadi: havo bilan çegara ~23 000 fut, toza O₂ bilan ~47 000 fut.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch44",
+    "topicId": "08",
+    "blockId": "ch44-u10",
+    "printedPage": 522,
+    "pdfPage": 527,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q08-c44-04",
+   "version": 1,
+   "topicId": "08",
+   "lessonId": "ch44",
+   "stem": "23 000 futdan yuqorida akklimatizatsiyalanmagan odamda nima kuzatiladi?",
+   "options": [
+    {
+     "id": "q08-c44-04-a",
+     "text": "Eyforiya va uyquçanlik"
+    },
+    {
+     "id": "q08-c44-04-b",
+     "text": "Heç qanday belgi bölmaydi"
+    },
+    {
+     "id": "q08-c44-04-c",
+     "text": "Faqat yengil boş oğriği"
+    },
+    {
+     "id": "q08-c44-04-d",
+     "text": "Koma, keyin tez orada ölim"
+    }
+   ],
+   "answerOptionId": "q08-c44-04-d",
+   "explanation": "~12 000 futda uyquçanlik, holsizlik; >18 000 futda tutqanoq; >23 000 futda koma va ölim.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch44",
+    "topicId": "08",
+    "blockId": "ch44-u13",
+    "printedPage": 522,
+    "pdfPage": 527,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q08-c44-05",
+   "version": 1,
+   "topicId": "08",
+   "lessonId": "ch44",
+   "stem": "Quyidagilardan qaysi biri balandlikka akklimatizatsiya mexanizmi EMAS?",
+   "options": [
+    {
+     "id": "q08-c44-05-a",
+     "text": "Periferik kapillyarlar sonining ortişi"
+    },
+    {
+     "id": "q08-c44-05-b",
+     "text": "Ventilyatsiyaning ortişi"
+    },
+    {
+     "id": "q08-c44-05-c",
+     "text": "Gemoglobinning O₂ ga moyilligining yöqolişi"
+    },
+    {
+     "id": "q08-c44-05-d",
+     "text": "Eritrotsitlar sonining ortişi"
+    }
+   ],
+   "answerOptionId": "q08-c44-05-c",
+   "explanation": "Beşta mexanizm: ventilyatsiya, eritrotsitlar, diffuziya siğimi, kapillyarlar va hujayralarning O₂ dan foydalanişi ortadi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch44",
+    "topicId": "08",
+    "blockId": "ch44-u16",
+    "printedPage": 522,
+    "pdfPage": 527,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q08-c44-06",
+   "version": 1,
+   "topicId": "08",
+   "lessonId": "ch44",
+   "stem": "Balandlikda ventilyatsiya 2–5 kun içida ~5 marta ortişining sababi nima?",
+   "options": [
+    {
+     "id": "q08-c44-06-a",
+     "text": "Gemoglobin miqdori darhol ikki baravar oşadi"
+    },
+    {
+     "id": "q08-c44-06-b",
+     "text": "Periferik xemoretseptorlar öladi"
+    },
+    {
+     "id": "q08-c44-06-c",
+     "text": "Nafas muşaklari gipertrofiyalanadi"
+    },
+    {
+     "id": "q08-c44-06-d",
+     "text": "Likvor va miya töqimasida HCO₃⁻ kamayib, xemosezgir neyronlar atrofida pH tuşadi"
+    }
+   ],
+   "answerOptionId": "q08-c44-06-d",
+   "explanation": "Dastlab CO₂ yöqotilişi nafas markazini tormozlaydi; 2–5 kunda bu tormozlaniş yöqoladi va ventilyatsiya ~5 marta ortadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch44",
+    "topicId": "08",
+    "blockId": "ch44-u17",
+    "printedPage": 522,
+    "pdfPage": 527,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q08-c44-07",
+   "version": 1,
+   "topicId": "08",
+   "lessonId": "ch44",
+   "stem": "Balandlikka akklimatizatsiyada gematokrit taxminan qançagaça kötarilişi mumkin?",
+   "options": [
+    {
+     "id": "q08-c44-07-a",
+     "text": "~90% gaça"
+    },
+    {
+     "id": "q08-c44-07-b",
+     "text": "~60% gaça"
+    },
+    {
+     "id": "q08-c44-07-c",
+     "text": "Özgarmaydi"
+    },
+    {
+     "id": "q08-c44-07-d",
+     "text": "~45% gaça"
+    }
+   ],
+   "answerOptionId": "q08-c44-07-b",
+   "explanation": "Haftalar içida gematokrit 40–45% dan ~60% gaça, Hb 15 dan ~20 g/dl gaça kötariladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch44",
+    "topicId": "08",
+    "blockId": "ch44-u17",
+    "printedPage": 522,
+    "pdfPage": 527,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q08-c44-08",
+   "version": 1,
+   "topicId": "08",
+   "lessonId": "ch44",
+   "stem": "Gipoksiyada qaysi transkripsiya omili VEGF va eritropoetin genlarini faollaştiradi?",
+   "options": [
+    {
+     "id": "q08-c44-08-a",
+     "text": "HIF-1"
+    },
+    {
+     "id": "q08-c44-08-b",
+     "text": "NF-κB"
+    },
+    {
+     "id": "q08-c44-08-c",
+     "text": "CREB"
+    },
+    {
+     "id": "q08-c44-08-d",
+     "text": "p53"
+    }
+   ],
+   "answerOptionId": "q08-c44-08-a",
+   "explanation": "O₂ yetarli bölganda HIF gidroksilazalar tomonidan faolsizlantiriladi; gipoksiyada faol HIF kompleksi hosil böladi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch44",
+    "topicId": "08",
+    "blockId": "ch44-u19",
+    "printedPage": 522,
+    "pdfPage": 527,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q08-c44-09",
+   "version": 1,
+   "topicId": "08",
+   "lessonId": "ch44",
+   "stem": "17 000 futda 2 oy akklimatizatsiyalangan pasttekislik odamining iş qobiliyati normaning taxminan qança qismi?",
+   "options": [
+    {
+     "id": "q08-c44-09-a",
+     "text": "~100%"
+    },
+    {
+     "id": "q08-c44-09-b",
+     "text": "~87%"
+    },
+    {
+     "id": "q08-c44-09-c",
+     "text": "~68%"
+    },
+    {
+     "id": "q08-c44-09-d",
+     "text": "~50%"
+    }
+   ],
+   "answerOptionId": "q08-c44-09-c",
+   "explanation": "Akklimatizatsiyalanmagan — 50%, 2 oy akklimatizatsiya — 68%, mahalliy aholi — 87%.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch44",
+    "topicId": "08",
+    "blockId": "ch44-u25",
+    "printedPage": 522,
+    "pdfPage": 527,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q08-c44-10",
+   "version": 1,
+   "topicId": "08",
+   "lessonId": "ch44",
+   "stem": "Ötkir toğ kasalligida miya şişi qanday mexanizm bilan rivojlanadi?",
+   "options": [
+    {
+     "id": "q08-c44-10-a",
+     "text": "Likvor işlab çiqarilişi töxtaydi"
+    },
+    {
+     "id": "q08-c44-10-b",
+     "text": "Miyada CO₂ töplanib, tomirlar torayadi"
+    },
+    {
+     "id": "q08-c44-10-c",
+     "text": "Gipoksiya miya tomirlarini kengaytiradi, kapillyar bosimi ortib suyuqlik sizib çiqadi"
+    },
+    {
+     "id": "q08-c44-10-d",
+     "text": "Qon bosimi keskin pasayadi"
+    }
+   ],
+   "answerOptionId": "q08-c44-10-c",
+   "explanation": "Bunga VEGF va yalliğlaniş sitokinlari ham endoteliy ötkazuvçanligini oşirib hissa qöşişi mumkin.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch44",
+    "topicId": "08",
+    "blockId": "ch44-u29",
+    "printedPage": 522,
+    "pdfPage": 527,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q08-c45-01",
+   "version": 1,
+   "topicId": "08",
+   "lessonId": "ch45",
+   "stem": "Dengiz suvining qança çuqurligi qöşimça 1 atm bosim beradi?",
+   "options": [
+    {
+     "id": "q08-c45-01-a",
+     "text": "10 fut (3 m)"
+    },
+    {
+     "id": "q08-c45-01-b",
+     "text": "33 fut (10,1 m)"
+    },
+    {
+     "id": "q08-c45-01-c",
+     "text": "1 fut (0,3 m)"
+    },
+    {
+     "id": "q08-c45-01-d",
+     "text": "100 fut (30,5 m)"
+    }
+   ],
+   "answerOptionId": "q08-c45-01-b",
+   "explanation": "Har 33 fut (10,1 m) 1 atm qöşadi: 33 futda 2 atm, 100 futda 4 atm.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch45",
+    "topicId": "08",
+    "blockId": "ch45-u5",
+    "printedPage": 530,
+    "pdfPage": 535,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q08-c45-02",
+   "version": 1,
+   "topicId": "08",
+   "lessonId": "ch45",
+   "stem": "Boyl qonuniga köra dengiz sathidagi 1 l havo 33 fut çuqurlikda qanday hajmga ega böladi?",
+   "options": [
+    {
+     "id": "q08-c45-02-a",
+     "text": "2 l"
+    },
+    {
+     "id": "q08-c45-02-b",
+     "text": "1 l"
+    },
+    {
+     "id": "q08-c45-02-c",
+     "text": "½ l"
+    },
+    {
+     "id": "q08-c45-02-d",
+     "text": "¼ l"
+    }
+   ],
+   "answerOptionId": "q08-c45-02-c",
+   "explanation": "Gaz hajmi bosimga teskari proporsional: 33 futda (2 atm) ½ l, 100 futda (4 atm) ¼ l.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch45",
+    "topicId": "08",
+    "blockId": "ch45-u7",
+    "printedPage": 530,
+    "pdfPage": 535,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q08-c45-03",
+   "version": 1,
+   "topicId": "08",
+   "lessonId": "ch45",
+   "stem": "Azot narkozining mexanizmi nima?",
+   "options": [
+    {
+     "id": "q08-c45-03-a",
+     "text": "Azot gemoglobin bilan boğlanadi"
+    },
+    {
+     "id": "q08-c45-03-b",
+     "text": "Azot nafas markazini qözğatadi"
+    },
+    {
+     "id": "q08-c45-03-c",
+     "text": "Azot qonda pufakçalar hosil qiladi"
+    },
+    {
+     "id": "q08-c45-03-d",
+     "text": "Azot neyron membranalari yoğlarida eriydi va qözğaluvçanlikni kamaytiradi"
+    }
+   ],
+   "answerOptionId": "q08-c45-03-d",
+   "explanation": "Azot boşqa gaz anestetiklar kabi ta’sir qiladi; belgilari alkogol mastligiga öxşaydi (\"çuqurlik zavqi\").",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch45",
+    "topicId": "08",
+    "blockId": "ch45-u11",
+    "printedPage": 530,
+    "pdfPage": 535,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q08-c45-04",
+   "version": 1,
+   "topicId": "08",
+   "lessonId": "ch45",
+   "stem": "Azot narkozining yengil belgilari taxminan qaysi çuqurlikda boşlanadi?",
+   "options": [
+    {
+     "id": "q08-c45-04-a",
+     "text": "~33 fut"
+    },
+    {
+     "id": "q08-c45-04-b",
+     "text": "~1000 fut"
+    },
+    {
+     "id": "q08-c45-04-c",
+     "text": "~120 fut"
+    },
+    {
+     "id": "q08-c45-04-d",
+     "text": "~10 fut"
+    }
+   ],
+   "answerOptionId": "q08-c45-04-c",
+   "explanation": "~120 futda yengil narkoz; 150–200 futda uyquçanlik; 200–250 futda kuç keskin kamayadi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch45",
+    "topicId": "08",
+    "blockId": "ch45-u10",
+    "printedPage": 530,
+    "pdfPage": 535,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q08-c45-05",
+   "version": 1,
+   "topicId": "08",
+   "lessonId": "ch45",
+   "stem": "4 atm bosimdagi toza O₂ bilan nafas olinganda 30–60 daqiqa içida qanday xavfli holat yuz beradi?",
+   "options": [
+    {
+     "id": "q08-c45-05-a",
+     "text": "Dekompressiya kasalligi"
+    },
+    {
+     "id": "q08-c45-05-b",
+     "text": "Miya tutqanoqlari, keyin koma"
+    },
+    {
+     "id": "q08-c45-05-c",
+     "text": "Azot narkozi"
+    },
+    {
+     "id": "q08-c45-05-d",
+     "text": "Gipoksiya"
+    }
+   ],
+   "answerOptionId": "q08-c45-05-b",
+   "explanation": "O₂ toksikligi: tutqanoq köpinça ogohlantirişsiz boşlanadi; jismoniy iş sezgirlikni oşiradi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch45",
+    "topicId": "08",
+    "blockId": "ch45-u16",
+    "printedPage": 530,
+    "pdfPage": 535,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q08-c45-06",
+   "version": 1,
+   "topicId": "08",
+   "lessonId": "ch45",
+   "stem": "O₂ toksikligining asosiy mexanizmi nima?",
+   "options": [
+    {
+     "id": "q08-c45-06-a",
+     "text": "O₂ gemoglobinni parçalaydi"
+    },
+    {
+     "id": "q08-c45-06-b",
+     "text": "Erkin radikallar (superoksid, H₂O₂) membrana lipidlari va fermentlarni oksidlaydi"
+    },
+    {
+     "id": "q08-c45-06-c",
+     "text": "O₂ qonda pufakça hosil qiladi"
+    },
+    {
+     "id": "q08-c45-06-d",
+     "text": "O₂ azot bilan zaharli birikma hosil qiladi"
+    }
+   ],
+   "answerOptionId": "q08-c45-06-b",
+   "explanation": "Yuqori PO₂ da radikallar fermentlar quvvatidan oşib ketadi; lipidlarga boy nerv töqimasi eng sezgir.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch45",
+    "topicId": "08",
+    "blockId": "ch45-u17",
+    "printedPage": 530,
+    "pdfPage": 535,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q08-c45-07",
+   "version": 1,
+   "topicId": "08",
+   "lessonId": "ch45",
+   "stem": "1 atm toza O₂ bilan uzoq nafas olinganda ~12 soatdan keyin qaysi a’zo zararlanadi?",
+   "options": [
+    {
+     "id": "q08-c45-07-a",
+     "text": "Jigar"
+    },
+    {
+     "id": "q08-c45-07-b",
+     "text": "Miya"
+    },
+    {
+     "id": "q08-c45-07-c",
+     "text": "Öpka (dimlaniş, şiş, atelektaz)"
+    },
+    {
+     "id": "q08-c45-07-d",
+     "text": "Buyrak"
+    }
+   ],
+   "answerOptionId": "q08-c45-07-c",
+   "explanation": "Öpka havo böşliqlari yuqori PO₂ ga bevosita duç keladi; boşqa töqimalarga O₂ Hb buferi tufayli normal bosimda yetadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch45",
+    "topicId": "08",
+    "blockId": "ch45-u20",
+    "printedPage": 530,
+    "pdfPage": 535,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q08-c45-08",
+   "version": 1,
+   "topicId": "08",
+   "lessonId": "ch45",
+   "stem": "Şönğin uskunasida CO₂ töplanib alveolyar PCO₂ 80 mm Hg dan oşsa nima böladi?",
+   "options": [
+    {
+     "id": "q08-c45-08-a",
+     "text": "Ventilyatsiya çeksiz oşib, holat kompensatsiyalanadi"
+    },
+    {
+     "id": "q08-c45-08-b",
+     "text": "Faqat azot narkozi kuçayadi"
+    },
+    {
+     "id": "q08-c45-08-c",
+     "text": "Heç qanday özgariş bölmaydi"
+    },
+    {
+     "id": "q08-c45-08-d",
+     "text": "Nafas markazi tormozlanadi — nafas yetişmovçiligi, atsidoz, narkoz"
+    }
+   ],
+   "answerOptionId": "q08-c45-08-d",
+   "explanation": "80 mm Hg gaça minutlik hajm 8–11 marta ortib kompensatsiya qiladi; undan yuqorida nafas markazi qözğaliş örniga tormozlanadi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch45",
+    "topicId": "08",
+    "blockId": "ch45-u22",
+    "printedPage": 530,
+    "pdfPage": 535,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q08-c45-09",
+   "version": 1,
+   "topicId": "08",
+   "lessonId": "ch45",
+   "stem": "Azot tanada qaysi muhitda suvdagidan 5 marta yaxşi eriydi?",
+   "options": [
+    {
+     "id": "q08-c45-09-a",
+     "text": "Qon plazmasida"
+    },
+    {
+     "id": "q08-c45-09-b",
+     "text": "Likvorda"
+    },
+    {
+     "id": "q08-c45-09-c",
+     "text": "Yoğda"
+    },
+    {
+     "id": "q08-c45-09-d",
+     "text": "Suyakda"
+    }
+   ],
+   "answerOptionId": "q08-c45-09-c",
+   "explanation": "Dengiz sathida tanada ~1 l N₂ erigan, köproği yoğda; şuning uçun yoğ töqimasi töyinişi soatlab davom etadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch45",
+    "topicId": "08",
+    "blockId": "ch45-u25",
+    "printedPage": 530,
+    "pdfPage": 535,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q08-c45-10",
+   "version": 1,
+   "topicId": "08",
+   "lessonId": "ch45",
+   "stem": "Dekompressiya kasalligida pufakçalar nima sababdan hosil böladi?",
+   "options": [
+    {
+     "id": "q08-c45-10-a",
+     "text": "CO₂ qonda töplanib pufakça beradi"
+    },
+    {
+     "id": "q08-c45-10-b",
+     "text": "Suv buği bosimi keskin oşadi"
+    },
+    {
+     "id": "q08-c45-10-c",
+     "text": "Tez kötarilganda töqimalardagi umumiy gaz bosimi taşqi bosimdan oşib, erigan azot pufakça hosil qiladi"
+    },
+    {
+     "id": "q08-c45-10-d",
+     "text": "O₂ töqimalarda pufakça hosil qiladi"
+    }
+   ],
+   "answerOptionId": "q08-c45-10-c",
+   "explanation": "Çuqurlikdan tösatdan çiqilganda töqimadagi gaz bosimi (~4065 mm Hg, 97% N₂) taşqi 760 mm Hg dan ança yuqori böladi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch45",
+    "topicId": "08",
+    "blockId": "ch45-u32",
+    "printedPage": 530,
+    "pdfPage": 535,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  }
+ ]
+}

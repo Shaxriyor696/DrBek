@@ -2,9 +2,9 @@
  "id": "ch43",
  "topicId": "07",
  "order": 6,
- "titleUz": "Nafas yetishmovchiligi: patofiziologiya, diagnostika, kislorod terapiyasi",
+ "titleUz": "Nafas yetişmovçiligi: patofiziologiya, diagnostika, kislorod terapiyasi",
  "titleOriginal": "Respiratory Insufficiency—Pathophysiology, Diagnosis, Oxygen Therapy",
- "subtitle": "*Respiratory Insufficiency—Pathophysiology, Diagnosis, Oxygen Therapy* — VII bo'lim, PDF 518–526",
+ "subtitle": "*Respiratory Insufficiency—Pathophysiology, Diagnosis, Oxygen Therapy* — VII bo‘lim, PDF 518–526",
  "contentVersion": "2026-11-14.1",
  "status": "in_review",
  "translationStatus": "machine_assisted",
@@ -224,7 +224,7 @@
  ],
  "objectives": [
   "Diagnostik usullar",
-  "Surunkali o’pka emfizemasi",
+  "Surunkali o‘pka emfizemasi",
   "Pnevmoniya",
   "Atelektaz (alveolalar kollapsi)",
   "Astma",
@@ -240,13 +240,13 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Asosiy g’oya",
+    "text": "Asosiy ğoya",
     "id": "ch43-s-0-asosiy-goya",
     "bid": "ch43-u0"
    },
    {
     "type": "paragraph",
-    "text": "\"Nafas yetishmovchiligi\" degan tashxisning o’zi yetarli emas, chunki sabablari turlicha:",
+    "text": "“Nafas yetişmovçiligi” degan taşxisning özi yetarli emas, çunki sabablari turliça:",
     "bid": "ch43-u1"
    },
    {
@@ -254,19 +254,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "ventilyatsiya yetishmasligi;",
+      "text": "ventilyatsiya yetişmasligi;",
       "depth": 0
      },
      {
-      "text": "membrana orqali diffuziya buzilishi;",
+      "text": "membrana orqali diffuziya buzilişi;",
       "depth": 0
      },
      {
-      "text": "gazlarning qonda tashilishi buzilishi;",
+      "text": "gazlarning qonda taşilişi buzilişi;",
       "depth": 0
      },
      {
-      "text": "to’qimaning O₂ dan foydalana olmasligi.",
+      "text": "töqimaning O₂ dan foydalana olmasligi.",
       "depth": 0
      }
     ],
@@ -274,7 +274,7 @@
    },
    {
     "type": "paragraph",
-    "text": "Har bir sababning davosi boshqacha. Bob quyidagilarni ko’rib chiqadi: diagnostik usullar (qon gazlari, maksimal nafas chiqarish oqimi, FEV₁/FVC), asosiy kasalliklar (emfizema, pnevmoniya, atelektaz, astma, sil), gipoksiya turlari va O₂ terapiyasi qachon foyda berishi, sianoz, giperkapniya, hansirash va sun’iy nafas.",
+    "text": "Har bir sababning davosi boşqaça. Bob quyidagilarni körib çiqadi: diagnostik usullar (qon gazlari, maksimal nafas çiqariş oqimi, FEV₁/FVC), asosiy kasalliklar (emfizema, pnevmoniya, atelektaz, astma, sil), gipoksiya turlari va O₂ terapiyasi qaçon foyda berişi, sianoz, giperkapniya, hansiraş va sun’iy nafas.",
     "bid": "ch43-u3"
    },
    {
@@ -293,27 +293,27 @@
    },
    {
     "type": "paragraph",
-    "text": "Bir necha tomchi qondan bir daqiqa ichida o’lchanadi, ko’pincha uchala o’lchov bitta apparatda bajariladi:",
+    "text": "Bir neça tomçi qondan bir daqiqa içida ölçanadi, köpinça uçala ölçov bitta apparatda bajariladi:",
     "bid": "ch43-u6"
    },
    {
     "type": "table",
     "header": [
-     "O’lchov",
+     "Ölçov",
      "Usul"
     ],
     "rows": [
      [
       "**pH**",
-      "miniatyura **shisha elektrod**; kuchlanish pH ni bevosita ko’rsatadi"
+      "miniatyura **shisha elektrod**; kuchlanish pH ni bevosita ko‘rsatadi"
      ],
      [
       "**PCO₂**",
-      "shisha elektrod yupqa plastik membrana bilan o’ralgan, oraliqda ma’lum konsentratsiyali NaHCO₃ eritmasi. Qondan CO₂ eritmaga diffuziyalanadi. pH o’lchanadi va **Genderson-Gasselbax tenglamasi** (pH = 6,1 + log HCO₃⁻/CO₂) bilan CO₂ hisoblanadi"
+      "shisha elektrod yupqa plastik membrana bilan o‘ralgan, oraliqda ma’lum konsentratsiyali NaHCO₃ eritmasi. Qondan CO₂ eritmaga diffuziyalanadi. pH o‘lchanadi va **Genderson-Gasselbax tenglamasi** (pH = 6,1 + log HCO₃⁻/CO₂) bilan CO₂ hisoblanadi"
      ],
      [
       "**PO₂**",
-      "**polyarografiya**: ~1 mm² li manfiy platina elektrod, eritmaga nisbatan −0,6 V dan ko’p farq. O₂ elektrodda cho’kadi, tok O₂ konsentratsiyasiga proporsional. Oqsillar elektrodni \"zaharlamasligi\" uchun plastik membrana ajratib turadi"
+      "**polyarografiya**: ~1 mm² li manfiy platina elektrod, eritmaga nisbatan −0,6 V dan ko‘p farq. O₂ elektrodda cho‘kadi, tok O₂ konsentratsiyasiga proporsional. Oqsillar elektrodni “zaharlamasligi” uchun plastik membrana ajratib turadi"
      ]
     ],
     "bid": "ch43-u7"
@@ -321,7 +321,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Maksimal nafas chiqarish oqimi",
+    "text": "Maksimal nafas çiqariş oqimi",
     "id": "ch43-s-8-maksimal-nafas-chiqarish-oqimi",
     "bid": "ch43-u8"
    },
@@ -330,27 +330,27 @@
     "ordered": false,
     "items": [
      {
-      "text": "Kuchli nafas chiqarishda oqim ma’lum maksimumga yetadi va kuch qo’shilsa ham oshmaydi.",
+      "text": "Kuçli nafas çiqarişda oqim ma’lum maksimumga yetadi va kuç qöşilsa ham oşmaydi.",
       "depth": 0
      },
      {
-      "text": "**Sababi:** ko’krakdan berilgan bosim alveolalarni ham, **bronxiolalarni ham** siqadi. Kuch ortsa, alveolyar bosim ortadi, lekin bronxiola kollapsi va qarshilik ham teng darajada ortadi.",
+      "text": "**Sababi:** kökrakdan berilgan bosim alveolalarni ham, **bronxiolalarni ham** siqadi. Kuç ortsa, alveolyar bosim ortadi, lekin bronxiola kollapsi va qarşilik ham teng darajada ortadi.",
       "depth": 0
      },
      {
-      "text": "**Hajmga bog’liqligi:**",
+      "text": "**Hajmga boğliqligi:**",
       "depth": 0
      },
      {
-      "text": "Katta o’pka hajmida bronxlarni tashqaridan elastik tortish ochiq ushlaydi.",
+      "text": "Katta öpka hajmida bronxlarni taşqaridan elastik tortiş oçiq uşlaydi.",
       "depth": 1
      },
      {
-      "text": "Hajm kichrayganda ular oson yopiladi va maksimal oqim pasayadi.",
+      "text": "Hajm kiçrayganda ular oson yopiladi va maksimal oqim pasayadi.",
       "depth": 1
      },
      {
-      "text": "Sog’lom odamda maksimal oqim **>400 l/min**.",
+      "text": "Soğlom odamda maksimal oqim **>400 l/min**.",
       "depth": 1
      }
     ],
@@ -358,7 +358,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Oqim-hajm egri chizig’i anomaliyalari (rasm 43-2):**",
+    "text": "**Oqim-hajm egri çiziği anomaliyalari (rasm 43-2):**",
     "bid": "ch43-u10"
    },
    {
@@ -370,8 +370,8 @@
     "type": "table",
     "header": [
      "",
-     "Siqilgan (restriktiv) o’pka",
-     "Havo yo’li obstruksiyasi"
+     "Siqilgan (restriktiv) öpka",
+     "Havo yöli obstruksiyasi"
     ],
     "rows": [
      [
@@ -386,12 +386,12 @@
      ],
      [
       "Maksimal oqim",
-      "normaga yetmaydi (o’pka to’liq kengaymaydi)",
+      "normaga yetmaydi (o‘pka to‘liq kengaymaydi)",
       "keskin ↓"
      ],
      [
       "Sabablar",
-      "o’pka fibrozi (**sil, silikoz**), ko’krak qafasi deformatsiyasi (**kifoz, skolioz, fibroz plevrit**)",
+      "o‘pka fibrozi (**sil, silikoz**), ko‘krak qafasi deformatsiyasi (**kifoz, skolioz, fibroz plevrit**)",
       "**astma**, emfizemaning ayrim bosqichlari"
      ]
     ],
@@ -399,7 +399,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Obstruksiyada nafas chiqarish nafas olishdan qiyin bo’lishining sababi:**",
+    "text": "**Obstruksiyada nafas çiqariş nafas olişdan qiyin bölişining sababi:**",
     "bid": "ch43-u13"
    },
    {
@@ -407,11 +407,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Nafas chiqarish uchun zarur musbat ko’krak bosimi havo yo’llarini yopadi.",
+      "text": "Nafas çiqariş uçun zarur musbat kökrak bosimi havo yöllarini yopadi.",
       "depth": 0
      },
      {
-      "text": "Nafas olishdagi manfiy plevral bosim esa ularni ochib tortadi.",
+      "text": "Nafas olişdagi manfiy plevral bosim esa ularni oçib tortadi.",
       "depth": 0
      },
      {
@@ -424,7 +424,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Majburiy tiriklik sig’imi (FVC) va FEV₁",
+    "text": "Majburiy tiriklik siğimi (FVC) va FEV₁",
     "id": "ch43-s-15-majburiy-tiriklik-sigimi-fvc-va-fev",
     "bid": "ch43-u15"
    },
@@ -433,15 +433,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Bajarilishi:** maksimal nafas olib (TLC gacha), spirometrga iloji boricha tez va to’liq nafas chiqariladi.",
+      "text": "**Bajarilişi:** maksimal nafas olib (TLC gaça), spirometrga iloji boriça tez va töliq nafas çiqariladi.",
       "depth": 0
      },
      {
-      "text": "**FEV₁** birinchi soniyada chiqarilgan hajm.",
+      "text": "**FEV₁** birinçi soniyada çiqarilgan hajm.",
       "depth": 0
      },
      {
-      "text": "**FEV₁/FVC%:** | Holat | Qiymat | |---|---| | Normal | **80%** | | Qisman obstruksiya | **47%** (FVC esa deyarli o’zgarmagan) | | Og’ir obstruksiya (o’tkir astma) | **<20%** |",
+      "text": "**FEV₁/FVC%:** | Holat | Qiymat | |---|---| | Normal | **80%** | | Qisman obstruksiya | **47%** (FVC esa deyarli özgarmagan) | | Oğir obstruksiya (ötkir astma) | **<20%** |",
       "depth": 0
      }
     ],
@@ -450,13 +450,13 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Surunkali o’pka emfizemasi",
+    "text": "Surunkali öpka emfizemasi",
     "id": "ch43-s-17-surunkali-opka-emfizemasi",
     "bid": "ch43-u17"
    },
    {
     "type": "paragraph",
-    "text": "\"Emfizema\" so’zma-so’z \"o’pkada ortiqcha havo\" degani. Amalda ko’p yillik **chekish** natijasida yuzaga keladigan murakkab obstruktiv va destruktiv jarayon tushuniladi.",
+    "text": "“Emfizema” sözma-söz “öpkada ortiqça havo” degani. Amalda köp yillik **çekiş** natijasida yuzaga keladigan murakkab obstruktiv va destruktiv jarayon tuşuniladi.",
     "bid": "ch43-u18"
    },
    {
@@ -469,27 +469,27 @@
     "ordered": true,
     "items": [
      {
-      "text": "**Surunkali infeksiya:** tutun va boshqa ta’sirlovchilar himoya mexanizmlarini buzadi.",
+      "text": "**Surunkali infeksiya:** tutun va boşqa ta’sirlovçilar himoya mexanizmlarini buzadi.",
       "depth": 0
      },
      {
-      "text": "**Nikotin** kipriklarni qisman falajlaydi, shilliq oson chiqmaydi.",
+      "text": "**Nikotin** kipriklarni qisman falajlaydi, şilliq oson çiqmaydi.",
       "depth": 1
      },
      {
-      "text": "Shilliq ajralishi ortadi.",
+      "text": "Şilliq ajralişi ortadi.",
       "depth": 1
      },
      {
-      "text": "**Alveolyar makrofaglar** tormozlanadi va infeksiyaga qarshi kurash susayadi.",
+      "text": "**Alveolyar makrofaglar** tormozlanadi va infeksiyaga qarşi kuraş susayadi.",
       "depth": 1
      },
      {
-      "text": "Infeksiya, ortiqcha shilliq va bronxiola epiteliysining yallig’lanish shishi ko’plab mayda havo yo’llarida **surunkali obstruksiya** hosil qiladi.",
+      "text": "Infeksiya, ortiqça şilliq va bronxiola epiteliysining yalliğlaniş şişi köplab mayda havo yöllarida **surunkali obstruksiya** hosil qiladi.",
       "depth": 0
      },
      {
-      "text": "Nafas chiqarish ayniqsa qiyinlashadi, havo alveolalarda tutilib, ularni haddan tashqari cho’zadi. Infeksiya bilan birga alveola devorlarining **50–80%** i yemiriladi.",
+      "text": "Nafas çiqariş ayniqsa qiyinlaşadi, havo alveolalarda tutilib, ularni haddan taşqari çözadi. Infeksiya bilan birga alveola devorlarining **50–80%** i yemiriladi.",
       "depth": 0
      }
     ],
@@ -505,11 +505,11 @@
     "ordered": true,
     "items": [
      {
-      "text": "**Bronxiola obstruksiyasi:** havo yo’li qarshiligi va nafas ishi keskin ortadi, ayniqsa nafas chiqarishda (tashqi siqilish bronxiolalarni ham siqadi).",
+      "text": "**Bronxiola obstruksiyasi:** havo yöli qarşiligi va nafas işi keskin ortadi, ayniqsa nafas çiqarişda (taşqi siqiliş bronxiolalarni ham siqadi).",
       "depth": 0
      },
      {
-      "text": "**Alveola devorlari yo’qolishi:** diffuziya sig’imi keskin kamayadi. Qonni oksigenlash va CO₂ ni chiqarish qobiliyati pasayadi.",
+      "text": "**Alveola devorlari yöqolişi:** diffuziya siğimi keskin kamayadi. Qonni oksigenlaş va CO₂ ni çiqariş qobiliyati pasayadi.",
       "depth": 0
      },
      {
@@ -521,15 +521,15 @@
       "depth": 1
      },
      {
-      "text": "boshqalarida **juda yuqori** (fiziologik o’lik bo’shliq, ventilyatsiya isrof).",
+      "text": "boşqalarida **juda yuqori** (fiziologik ölik böşliq, ventilyatsiya isrof).",
       "depth": 1
      },
      {
-      "text": "Ikkalasi bitta o’pkada uchraydi.",
+      "text": "Ikkalasi bitta öpkada uçraydi.",
       "depth": 1
      },
      {
-      "text": "**Kapillyarlar kamayishi:** o’pka tomir qarshiligi ortadi, **o’pka gipertenziyasi**, o’ng yurakka yuk va ko’pincha **o’ng yurak yetishmovchiligi**.",
+      "text": "**Kapillyarlar kamayişi:** öpka tomir qarşiligi ortadi, **öpka gipertenziyasi**, öng yurakka yuk va köpinça **öng yurak yetişmovçiligi**.",
       "depth": 0
      }
     ],
@@ -537,7 +537,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Kechishi:** ko’p yillar davomida sekin rivojlanadi. Ko’p alveolalar gipoventilyatsiyasi va devorlar yo’qolishi **gipoksiya va giperkapniya** beradi. Yillab davom etadigan og’ir havo tanqisligi bilan kechadi va oxir-oqibat o’limga olib keladi; matn bu holatni \"chekish uchun yuqori bahu\" deb ataydi.",
+    "text": "**Keçişi:** köp yillar davomida sekin rivojlanadi. Köp alveolalar gipoventilyatsiyasi va devorlar yöqolişi **gipoksiya va giperkapniya** beradi. Yillab davom etadigan oğir havo tanqisligi bilan keçadi va oxir-oqibat ölimga olib keladi; matn bu holatni “çekiş uçun yuqori bahu” deb ataydi.",
     "bid": "ch43-u23"
    },
    {
@@ -552,11 +552,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Ta’rif:** alveolalarning bir qismi yoki hammasi suyuqlik va qon hujayralari bilan to’lgan har qanday yallig’lanish holati.",
+      "text": "**Ta’rif:** alveolalarning bir qismi yoki hammasi suyuqlik va qon hujayralari bilan tölgan har qanday yalliğlaniş holati.",
       "depth": 0
      },
      {
-      "text": "**Bakterial pnevmoniya**ning eng ko’p qo’zg’atuvchisi **pnevmokokk**.",
+      "text": "**Bakterial pnevmoniya**ning eng köp qözğatuvçisi **pnevmokokk**.",
       "depth": 0
      },
      {
@@ -564,11 +564,11 @@
       "depth": 0
      },
      {
-      "text": "Alveolada infeksiya boshlanadi.",
+      "text": "Alveolada infeksiya boşlanadi.",
       "depth": 1
      },
      {
-      "text": "Membrana yallig’lanib, juda g’ovak bo’ladi; suyuqlik, eritrotsit va leykotsitlar alveolaga chiqadi.",
+      "text": "Membrana yalliğlanib, juda ğovak böladi; suyuqlik, eritrotsit va leykotsitlar alveolaga çiqadi.",
       "depth": 1
      },
      {
@@ -576,27 +576,27 @@
       "depth": 1
      },
      {
-      "text": "Butun bo’laklar, hatto butun o’pka **\"konsolidatsiya\"**ga uchraydi, ya’ni suyuqlik va hujayra qoldiqlari bilan to’ladi.",
+      "text": "Butun bölaklar, hatto butun öpka **“konsolidatsiya”**ga uçraydi, ya’ni suyuqlik va hujayra qoldiqlari bilan töladi.",
       "depth": 1
      },
      {
-      "text": "**Gaz almashinuviga ta’siri:** (1) respirator membrana yuzasi kamayadi; (2) **V̇A/Q̇ kamayadi**. Natija: **gipoksemiya va giperkapniya**.",
+      "text": "**Gaz almaşinuviga ta’siri:** (1) respirator membrana yuzasi kamayadi; (2) **V̇A/Q̇ kamayadi**. Natija: **gipoksemiya va giperkapniya**.",
       "depth": 0
      },
      {
-      "text": "**Rasm 43-6 (bir o’pka zararlangan):**",
+      "text": "**Rasm 43-6 (bir öpka zararlangan):**",
       "depth": 0
      },
      {
-      "text": "O’pka arteriyasi qoni 60% to’yingan.",
+      "text": "Öpka arteriyasi qoni 60% töyingan.",
       "depth": 1
      },
      {
-      "text": "Aeratsiyalangan o’pkadan qaytgan qon 97%, zararlangan o’pkadan 60%.",
+      "text": "Aeratsiyalangan öpkadan qaytgan qon 97%, zararlangan öpkadan 60%.",
       "depth": 1
      },
      {
-      "text": "Aortada ½ × 97 + ½ × 60, ya’ni **o’rtacha ~78%**: normadan ancha past.",
+      "text": "Aortada ½ × 97 + ½ × 60, ya’ni **örtaça ~78%**: normadan ança past.",
       "depth": 1
      }
     ],
@@ -616,7 +616,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Sabablar:** (1) havo yo’lining to’liq obstruksiyasi; (2) **surfaktant yetishmasligi**.",
+    "text": "**Sabablar:** (1) havo yölining töliq obstruksiyasi; (2) **surfaktant yetişmasligi**.",
     "bid": "ch43-u28"
    },
    {
@@ -631,19 +631,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Ko’p mayda bronxlar shilliq bilan to’siladi yoki katta bronx katta shilliq tiqini, yot jism yoki o’sma bilan yopiladi.",
+      "text": "Köp mayda bronxlar şilliq bilan tösiladi yoki katta bronx katta şilliq tiqini, yot jism yoki ösma bilan yopiladi.",
       "depth": 0
      },
      {
-      "text": "To’siq ortidagi havo daqiqalar yoki soatlar ichida kapillyar qoni tomonidan so’riladi.",
+      "text": "Tösiq ortidagi havo daqiqalar yoki soatlar içida kapillyar qoni tomonidan söriladi.",
       "depth": 0
      },
      {
-      "text": "O’pka to’qimasi yumshoq bo’lsa, alveolalar shunchaki yopiladi.",
+      "text": "Öpka töqimasi yumşoq bölsa, alveolalar şunçaki yopiladi.",
       "depth": 1
      },
      {
-      "text": "O’pka fibroz tufayli qattiq bo’lsa, alveolada **juda manfiy bosim** hosil bo’ladi. U kapillyarlardan suyuqlik tortib, alveolalar **shish suyuqligi** bilan to’ladi. Butun o’pka atelektazida (**massiv kollaps**) deyarli doim shunday bo’ladi.",
+      "text": "Öpka fibroz tufayli qattiq bölsa, alveolada **juda manfiy bosim** hosil böladi. U kapillyarlardan suyuqlik tortib, alveolalar **şiş suyuqligi** bilan töladi. Butun öpka atelektazida (**massiv kollaps**) deyarli doim şunday böladi.",
       "depth": 1
      }
     ],
@@ -668,19 +668,19 @@
       "depth": 0
      },
      {
-      "text": "Gipoksiya qo’shimcha **gipoksik vazokonstriksiya** chaqiradi (39-bob).",
+      "text": "Gipoksiya qöşimça **gipoksik vazokonstriksiya** çaqiradi (39-bob).",
       "depth": 0
      },
      {
-      "text": "Natijada qonning **5/6** qismi aeratsiyalangan o’pkadan, faqat **1/6** qismi kollapsga uchragan o’pkadan o’tadi.",
+      "text": "Natijada qonning **5/6** qismi aeratsiyalangan öpkadan, faqat **1/6** qismi kollapsga uçragan öpkadan ötadi.",
       "depth": 0
      },
      {
-      "text": "Aortada 5/6 × 97 + 1/6 × 60 ≈ **91%**, ya’ni butun bir o’pka ventilyatsiyasi yo’qolgan bo’lsa ham desaturatsiya yengil.",
+      "text": "Aortada 5/6 × 97 + 1/6 × 60 ≈ **91%**, ya’ni butun bir öpka ventilyatsiyasi yöqolgan bölsa ham desaturatsiya yengil.",
       "depth": 0
      },
      {
-      "text": "**Pnevmoniya bilan solishtirish:** pnevmoniyada qon oqimi normal qolgani uchun aorta saturatsiyasi 78% gacha tushadi. Atelektazda vazokonstriksiya qonni sog’lom o’pkaga yo’naltirgani uchun 91%.",
+      "text": "**Pnevmoniya bilan soliştiriş:** pnevmoniyada qon oqimi normal qolgani uçun aorta saturatsiyasi 78% gaça tuşadi. Atelektazda vazokonstriksiya qonni soğlom öpkaga yönaltirgani uçun 91%.",
       "depth": 0
      }
     ],
@@ -689,7 +689,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Surfaktant yetishmasligi",
+    "text": "Surfaktant yetişmasligi",
     "id": "ch43-s-34-surfaktant-yetishmasligi",
     "bid": "ch43-u34"
    },
@@ -702,7 +702,7 @@
       "depth": 0
      },
      {
-      "text": "**Gialin membrana kasalligi** (yangi tug’ilganlarning respirator distress sindromi), ko’pincha chala tug’ilganlarda: surfaktant keskin kam, sirt tarangligi bir necha marta yuqori. O’pka kollapsga yoki suyuqlik bilan to’lishga moyil bo’ladi. Katta qismlar atelektazga uchrasa, chaqaloq bo’g’ilib o’lishi mumkin.",
+      "text": "**Gialin membrana kasalligi** (yangi tuğilganlarning respirator distress sindromi), köpinça çala tuğilganlarda: surfaktant keskin kam, sirt tarangligi bir neça marta yuqori. Öpka kollapsga yoki suyuqlik bilan tölişga moyil böladi. Katta qismlar atelektazga uçrasa, çaqaloq böğilib ölişi mumkin.",
       "depth": 0
      }
     ],
@@ -720,31 +720,31 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Ta’rif:** bronxiola silliq mushaklarining spastik qisqarishi; bronxiolalar qisman yopiladi va nafas juda qiyinlashadi.",
+      "text": "**Ta’rif:** bronxiola silliq muşaklarining spastik qisqarişi; bronxiolalar qisman yopiladi va nafas juda qiyinlaşadi.",
       "depth": 0
      },
      {
-      "text": "**Tarqalishi:**",
+      "text": "**Tarqalişi:**",
       "depth": 0
      },
      {
-      "text": "AQShda aholining **7–8%** i (ba’zi guruhlarda, masalan ispan bo’lmagan qora tanlilarda ko’proq).",
+      "text": "AQŞda aholining **7–8%** i (ba’zi guruhlarda, masalan ispan bölmagan qora tanlilarda köproq).",
       "depth": 1
      },
      {
-      "text": "Dunyoda JSST bahosi **>235 million**, ba’zi baholar **339 million** gacha.",
+      "text": "Dunyoda JSST bahosi **>235 million**, ba’zi baholar **339 million** gaça.",
       "depth": 1
      },
      {
-      "text": "**Sababi:** havodagi yot moddalarga bronxiolalarning qisqarish **gipersezuvchanligi**.",
+      "text": "**Sababi:** havodagi yot moddalarga bronxiolalarning qisqariş **gipersezuvçanligi**.",
       "depth": 0
      },
      {
-      "text": "**30 yoshgacha** bemorlarning ~**70%** ida allergik, ayniqsa o’simlik changiga.",
+      "text": "**30 yoşgaça** bemorlarning ~**70%** ida allergik, ayniqsa ösimlik çangiga.",
       "depth": 1
      },
      {
-      "text": "Keksalarda deyarli doim **noallergik ta’sirlovchilar** (masalan smog).",
+      "text": "Keksalarda deyarli doim **noallergik ta’sirlovçilar** (masalan smog).",
       "depth": 1
      }
     ],
@@ -760,15 +760,15 @@
     "ordered": true,
     "items": [
      {
-      "text": "Allergik odam ko’p **IgE** hosil qiladi (35-bob). Bu antitanalar bronxiola va mayda bronxlar yonidagi o’pka interstitsiyasidagi **mast hujayralar**ga yopishgan.",
+      "text": "Allergik odam köp **IgE** hosil qiladi (35-bob). Bu antitanalar bronxiola va mayda bronxlar yonidagi öpka interstitsiyasidagi **mast hujayralar**ga yopişgan.",
       "depth": 0
      },
      {
-      "text": "Sezgir chang nafas bilan kiradi va mast hujayralardagi IgE bilan reaksiyaga kirishadi.",
+      "text": "Sezgir çang nafas bilan kiradi va mast hujayralardagi IgE bilan reaksiyaga kirişadi.",
       "depth": 0
      },
      {
-      "text": "Mast hujayralar quyidagilarni chiqaradi: **gistamin**, **anafilaksiyaning sekin ta’sir qiluvchi moddasi (leykotrienlar)**, **eozinofil xemotaktik omili**, **bradikinin**.",
+      "text": "Mast hujayralar quyidagilarni çiqaradi: **gistamin**, **anafilaksiyaning sekin ta’sir qiluvçi moddasi (leykotrienlar)**, **eozinofil xemotaktik omili**, **bradikinin**.",
       "depth": 0
      },
      {
@@ -776,15 +776,15 @@
       "depth": 0
      },
      {
-      "text": "mayda bronxiolalar devorida **mahalliy shish** va bo’shliqqa **quyuq shilliq** ajralishi;",
+      "text": "mayda bronxiolalar devorida **mahalliy şiş** va böşliqqa **quyuq şilliq** ajralişi;",
       "depth": 1
      },
      {
-      "text": "**bronxiola silliq mushagi spazmi**.",
+      "text": "**bronxiola silliq muşagi spazmi**.",
       "depth": 1
      },
      {
-      "text": "Havo yo’li qarshiligi keskin ortadi.",
+      "text": "Havo yöli qarşiligi keskin ortadi.",
       "depth": 0
      }
     ],
@@ -792,17 +792,17 @@
    },
    {
     "type": "paragraph",
-    "text": "**Nafas chiqarish qiyin bo’lishining sababi:** nafas chiqarish kuchi bronxiolalarni tashqaridan siqadi. Ular allaqachon qisman yopiq bo’lgani uchun obstruksiya ayniqsa og’irlashadi. Bemor ko’pincha yetarlicha nafas oladi, lekin chiqara olmaydi.",
+    "text": "**Nafas çiqariş qiyin bölişining sababi:** nafas çiqariş kuçi bronxiolalarni taşqaridan siqadi. Ular allaqaçon qisman yopiq bölgani uçun obstruksiya ayniqsa oğirlaşadi. Bemor köpinça yetarliça nafas oladi, lekin çiqara olmaydi.",
     "bid": "ch43-u40"
    },
    {
     "type": "paragraph",
-    "text": "**Klinik o’lchovlar:** maksimal nafas chiqarish tezligi keskin kamaygan; vaqt bo’yicha nafas chiqarish hajmi (FEV₁) kamaygan; hansirash (\"havo tanqisligi\").",
+    "text": "**Klinik ölçovlar:** maksimal nafas çiqariş tezligi keskin kamaygan; vaqt böyiça nafas çiqariş hajmi (FEV₁) kamaygan; hansiraş (“havo tanqisligi”).",
     "bid": "ch43-u41"
    },
    {
     "type": "paragraph",
-    "text": "**O’tkir xurujda** FRC va RV keskin ortadi. **Yillar davomida** ko’krak qafasi doimiy kengayadi (**\"bochkasimon ko’krak\"**), FRC va RV doimiy ortgan holda qoladi.",
+    "text": "**Ötkir xurujda** FRC va RV keskin ortadi. **Yillar davomida** kökrak qafasi doimiy kengayadi (**“boçkasimon kökrak”**), FRC va RV doimiy ortgan holda qoladi.",
     "bid": "ch43-u42"
    },
    {
@@ -817,31 +817,31 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Mexanizm:** sil tayoqchasi o’ziga xos to’qima reaksiyasini chaqiradi:",
+      "text": "**Mexanizm:** sil tayoqçasi öziga xos töqima reaksiyasini çaqiradi:",
       "depth": 0
      },
      {
-      "text": "infeksiyalangan to’qimaga makrofaglar kiradi;",
+      "text": "infeksiyalangan töqimaga makrofaglar kiradi;",
       "depth": 1
      },
      {
-      "text": "o’choq fibroz to’qima bilan **\"devor bilan o’raladi\"** va **tuberkula** hosil bo’ladi (34-bob). Bu himoya jarayoni, tarqalishni cheklaydi.",
+      "text": "öçoq fibroz töqima bilan **“devor bilan öraladi”** va **tuberkula** hosil böladi (34-bob). Bu himoya jarayoni, tarqalişni çeklaydi.",
       "depth": 1
      },
      {
-      "text": "Davolanmagan bemorlarning ~**3%** ida o’rash muvaffaqiyatsiz bo’ladi. Tayoqchalar butun o’pkaga tarqalib, to’qimani kuchli yemiradi va katta **abssess bo’shliqlari (kavernalar)** hosil qiladi.",
+      "text": "Davolanmagan bemorlarning ~**3%** ida öraş muvaffaqiyatsiz böladi. Tayoqçalar butun öpkaga tarqalib, töqimani kuçli yemiradi va katta **abssess böşliqlari (kavernalar)** hosil qiladi.",
       "depth": 0
      },
      {
-      "text": "**Kech bosqichda** ko’p fibroz sohalar va funksional to’qima kamayishi kuzatiladi. Oqibatlari:",
+      "text": "**Keç bosqiçda** köp fibroz sohalar va funksional töqima kamayişi kuzatiladi. Oqibatlari:",
       "depth": 0
      },
      {
-      "text": "Nafas mushaklari ishi ortadi; tiriklik sig’imi va nafas sig’imi kamayadi (restriktiv).",
+      "text": "Nafas muşaklari işi ortadi; tiriklik siğimi va nafas siğimi kamayadi (restriktiv).",
       "depth": 1
      },
      {
-      "text": "Membrana yuzasi kamayadi va qalinligi ortadi, diffuziya sig’imi pasayadi.",
+      "text": "Membrana yuzasi kamayadi va qalinligi ortadi, diffuziya siğimi pasayadi.",
       "depth": 1
      },
      {
@@ -870,39 +870,39 @@
     "ordered": true,
     "items": [
      {
-      "text": "**O’pkada qonning yetarli oksigenlanmasligi (tashqi sabablar):**",
+      "text": "**Öpkada qonning yetarli oksigenlanmasligi (taşqi sabablar):**",
       "depth": 0
      },
      {
-      "text": "a. atmosferada O₂ yetishmasligi;",
+      "text": "a. atmosferada O₂ yetişmasligi;",
       "depth": 1
      },
      {
-      "text": "b. gipoventilyatsiya (nerv-mushak kasalliklari).",
+      "text": "b. gipoventilyatsiya (nerv-muşak kasalliklari).",
       "depth": 1
      },
      {
-      "text": "**O’pka kasalligi:**",
+      "text": "**Öpka kasalligi:**",
       "depth": 0
      },
      {
-      "text": "a. havo yo’li qarshiligi ortishi yoki kompliansi kamayishi tufayli gipoventilyatsiya;",
+      "text": "a. havo yöli qarşiligi ortişi yoki kompliansi kamayişi tufayli gipoventilyatsiya;",
       "depth": 1
      },
      {
-      "text": "b. V̇A/Q̇ buzilishi (fiziologik o’lik bo’shliq yoki shunt ortishi);",
+      "text": "b. V̇A/Q̇ buzilişi (fiziologik ölik böşliq yoki shunt ortişi);",
       "depth": 1
      },
      {
-      "text": "c. respirator membrana diffuziyasining kamayishi.",
+      "text": "c. respirator membrana diffuziyasining kamayişi.",
       "depth": 1
      },
      {
-      "text": "**Venoz-arterial (o’ngdan chapga) yurak shuntlari.**",
+      "text": "**Venoz-arterial (öngdan çapga) yurak şuntlari.**",
       "depth": 0
      },
      {
-      "text": "**To’qimalarga O₂ ning qon bilan yetarli tashilmasligi:**",
+      "text": "**Töqimalarga O₂ ning qon bilan yetarli taşilmasligi:**",
       "depth": 0
      },
      {
@@ -910,27 +910,27 @@
       "depth": 1
      },
      {
-      "text": "b. umumiy qon aylanish yetishmovchiligi;",
+      "text": "b. umumiy qon aylaniş yetişmovçiligi;",
       "depth": 1
      },
      {
-      "text": "c. mahalliy qon aylanish yetishmovchiligi (periferik, miya, koronar tomirlar);",
+      "text": "c. mahalliy qon aylaniş yetişmovçiligi (periferik, miya, koronar tomirlar);",
       "depth": 1
      },
      {
-      "text": "d. to’qima shishi.",
+      "text": "d. töqima şişi.",
       "depth": 1
      },
      {
-      "text": "**To’qimaning O₂ dan foydalana olmasligi:**",
+      "text": "**Töqimaning O₂ dan foydalana olmasligi:**",
       "depth": 0
      },
      {
-      "text": "a. hujayra oksidlanish fermentlarining zaharlanishi;",
+      "text": "a. hujayra oksidlaniş fermentlarining zaharlanişi;",
       "depth": 1
      },
      {
-      "text": "b. toksiklik, vitamin yetishmovchiligi va boshqalar tufayli metabolik quvvat pasayishi.",
+      "text": "b. toksiklik, vitamin yetişmovçiligi va boşqalar tufayli metabolik quvvat pasayişi.",
       "depth": 1
      }
     ],
@@ -938,7 +938,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**To’qimaning O₂ dan foydalana olmasligi:**",
+    "text": "**Töqimaning O₂ dan foydalana olmasligi:**",
     "bid": "ch43-u48"
    },
    {
@@ -946,15 +946,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Klassik misol **sianid bilan zaharlanish**: sianid **sitoxrom oksidaza**ni bloklaydi. O₂ yetarli bo’lsa ham to’qima undan foydalana olmaydi.",
+      "text": "Klassik misol **sianid bilan zaharlaniş**: sianid **sitoxrom oksidaza**ni bloklaydi. O₂ yetarli bölsa ham töqima undan foydalana olmaydi.",
       "depth": 0
      },
      {
-      "text": "Oksidlanish fermentlari yetishmasligi ham shunday ta’sir qiladi.",
+      "text": "Oksidlaniş fermentlari yetişmasligi ham şunday ta’sir qiladi.",
       "depth": 0
      },
      {
-      "text": "**Beriberi** (B vitamini yetishmovchiligi): to’qima O₂ dan foydalanishi va CO₂ hosil qilishining bir necha bosqichi buziladi.",
+      "text": "**Beriberi** (B vitamini yetişmovçiligi): töqima O₂ dan foydalanişi va CO₂ hosil qilişining bir neça bosqiçi buziladi.",
       "depth": 0
      }
     ],
@@ -962,7 +962,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Gipoksiyaning ta’siri:** og’ir bo’lsa, butun tanada hujayra o’limi. Yengilroq bo’lsa: (1) aqliy faoliyat susayadi, komagacha borishi mumkin; (2) mushaklarning ish qobiliyati pasayadi (44-bob).",
+    "text": "**Gipoksiyaning ta’siri:** oğir bölsa, butun tanada hujayra ölimi. Yengilroq bölsa: (1) aqliy faoliyat susayadi, komagaça borişi mumkin; (2) muşaklarning iş qobiliyati pasayadi (44-bob).",
     "bid": "ch43-u50"
    },
    {
@@ -974,7 +974,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Berish usullari:** (1) bemorning boshi O₂ bilan boyitilgan havoli **\"chodir\"**ga qo’yiladi; (2) **niqob** orqali toza yoki yuqori konsentratsiyali O₂; (3) **burun ichi naychasi**.",
+    "text": "**Beriş usullari:** (1) bemorning boşi O₂ bilan boyitilgan havoli **“çodir”**ga qöyiladi; (2) **niqob** orqali toza yoki yuqori konsentratsiyali O₂; (3) **burun içi nayçasi**.",
     "bid": "ch43-u52"
    },
    {
@@ -986,23 +986,23 @@
     "rows": [
      [
       "**Atmosfera gipoksiyasi**",
-      "**100% samarali**: nafas olinadigan gazdagi O₂ kamligini to’liq tuzatadi"
+      "**100% samarali**: nafas olinadigan gazdagi O₂ kamligini to‘liq tuzatadi"
      ],
      [
       "**Gipoventilyatsiya**",
-      "juda foydali: 100% O₂ bilan har nafasda alveolaga **5 marta** ko’p O₂ kiradi. Lekin **ortiqcha CO₂ ga foyda yo’q**"
+      "juda foydali: 100% O₂ bilan har nafasda alveolaga **5 marta** ko‘p O₂ kiradi. Lekin **ortiqcha CO₂ ga foyda yo‘q**"
      ],
      [
       "**Diffuziya buzilishi**",
-      "juda foydali: alveolyar PO₂ ~100 dan **600 mm Hg** gacha ko’tariladi, diffuziya gradiyenti 60 dan **560 mm Hg** gacha (>800%) ortadi. O’pka shishida (rasm 43-8) qon O₂ ni **3–4 marta** tezroq oladi"
+      "juda foydali: alveolyar PO₂ ~100 dan **600 mm Hg** gacha ko‘tariladi, diffuziya gradiyenti 60 dan **560 mm Hg** gacha (>800%) ortadi. O‘pka shishida (rasm 43-8) qon O₂ ni **3–4 marta** tezroq oladi"
      ],
      [
       "**Anemiya, anomal Hb, qon aylanish yetishmovchiligi, fiziologik shunt**",
-      "kam foyda: alveolada O₂ normal, muammo tashishda. Biroq erigan holda **7–30%** qo’shimcha O₂ tashilishi mumkin, bu hayot va o’lim o’rtasidagi farq bo’lishi mumkin"
+      "kam foyda: alveolada O₂ normal, muammo tashishda. Biroq erigan holda **7–30%** qo‘shimcha O₂ tashilishi mumkin, bu hayot va o‘lim o‘rtasidagi farq bo‘lishi mumkin"
      ],
      [
-      "**To’qima O₂ dan foydalana olmasligi** (sianid va boshqalar)",
-      "**foyda yo’q**: O₂ yetkaziladi, lekin fermentlar ishlatolmaydi"
+      "**To‘qima O₂ dan foydalana olmasligi** (sianid va boshqalar)",
+      "**foyda yo‘q**: O₂ yetkaziladi, lekin fermentlar ishlatolmaydi"
      ]
     ],
     "bid": "ch43-u53"
@@ -1024,19 +1024,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Ta’rif:** terining ko’karishi. Teri tomirlarida, ayniqsa kapillyarlarda, ko’p **deoksigenlangan gemoglobin** bo’ladi. U to’q ko’k-binafsha rang beradi.",
+      "text": "**Ta’rif:** terining kökarişi. Teri tomirlarida, ayniqsa kapillyarlarda, köp **deoksigenlangan gemoglobin** böladi. U töq kök-binafşa rang beradi.",
       "depth": 0
      },
      {
-      "text": "**Chegara:** arterial qonda **>5 g/100 ml** deoksigenlangan Hb.",
+      "text": "**Çegara:** arterial qonda **>5 g/100 ml** deoksigenlangan Hb.",
       "depth": 0
      },
      {
-      "text": "**Anemiyada** deyarli hech qachon bo’lmaydi: 100 ml qonda 5 g deoksigenlanadigan Hb yo’q.",
+      "text": "**Anemiyada** deyarli heç qaçon bölmaydi: 100 ml qonda 5 g deoksigenlanadigan Hb yöq.",
       "depth": 0
      },
      {
-      "text": "**Polisitemiya vera**da tez-tez uchraydi: Hb juda ko’p, hatto normal sharoitda ham.",
+      "text": "**Polisitemiya vera**da tez-tez uçraydi: Hb juda köp, hatto normal şaroitda ham.",
       "depth": 0
      }
     ],
@@ -1045,13 +1045,13 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Giperkapniya (organizm suyuqliklarida ortiqcha CO₂)",
+    "text": "Giperkapniya (organizm suyuqliklarida ortiqça CO₂)",
     "id": "ch43-s-57-giperkapniya-organizm-suyuqliklarida-ortiqcha-co",
     "bid": "ch43-u57"
    },
    {
     "type": "paragraph",
-    "text": "**Gipoksiya bilan birga qachon keladi:**",
+    "text": "**Gipoksiya bilan birga qaçon keladi:**",
     "bid": "ch43-u58"
    },
    {
@@ -1063,11 +1063,11 @@
     "rows": [
      [
       "Havoda O₂ kam, Hb kam, fermentlar zaharlanishi",
-      "**yo’q** (faqat O₂ mavjudligi yoki ishlatilishi buzilgan)"
+      "**yo‘q** (faqat O₂ mavjudligi yoki ishlatilishi buzilgan)"
      ],
      [
-      "Diffuziya buzilishi (membrana yoki to’qima)",
-      "odatda **jiddiy emas**: CO₂ 20 marta tez diffuziyalanadi. Giperkapniya boshlansa, ventilyatsiyani qo’zg’atib uni tuzatadi (lekin gipoksiyani tuzatmaydi)"
+      "Diffuziya buzilishi (membrana yoki to‘qima)",
+      "odatda **jiddiy emas**: CO₂ 20 marta tez diffuziyalanadi. Giperkapniya boshlansa, ventilyatsiyani qo‘zg‘atib uni tuzatadi (lekin gipoksiyani tuzatmaydi)"
      ],
      [
       "**Gipoventilyatsiya**",
@@ -1075,7 +1075,7 @@
      ],
      [
       "**Qon aylanish yetishmovchiligi**",
-      "to’qima giperkapniyasi bor, lekin gipoksiyadan kam: qonning CO₂ tashish sig’imi O₂ nikidan **3 martadan** ko’p"
+      "to‘qima giperkapniyasi bor, lekin gipoksiyadan kam: qonning CO₂ tashish sig‘imi O₂ nikidan **3 martadan** ko‘p"
      ]
     ],
     "bid": "ch43-u59"
@@ -1094,7 +1094,7 @@
     "rows": [
      [
       "60–75 mm Hg",
-      "odam maksimal tez va chuqur nafas oladi, **og’ir hansirash**"
+      "odam maksimal tez va chuqur nafas oladi, **og‘ir hansirash**"
      ],
      [
       "80–100 mm Hg",
@@ -1102,20 +1102,20 @@
      ],
      [
       "120–150 mm Hg",
-      "**anesteziya va o’lim**"
+      "**anesteziya va o‘lim**"
      ]
     ],
     "bid": "ch43-u61"
    },
    {
     "type": "paragraph",
-    "text": "**Ayovsiz doira:** yuqori PCO₂ endi nafasni qo’zg’atmaydi, aksincha **tormozlaydi**. CO₂ ortadi, nafas kamayadi, yana CO₂ ortadi va tez nafas o’limiga olib keladi.",
+    "text": "**Ayovsiz doira:** yuqori PCO₂ endi nafasni qözğatmaydi, aksinça **tormozlaydi**. CO₂ ortadi, nafas kamayadi, yana CO₂ ortadi va tez nafas ölimiga olib keladi.",
     "bid": "ch43-u62"
    },
    {
     "type": "heading",
     "level": 2,
-    "text": "Hansirash (dispnoe)",
+    "text": "Hansiraş (dispnoe)",
     "id": "ch43-s-63-hansirash-dispnoe",
     "bid": "ch43-u63"
    },
@@ -1124,19 +1124,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Ta’rif:** havoga ehtiyojni qondirish uchun yetarlicha ventilyatsiya qila olmaslik bilan bog’liq ruhiy azob, \"havo tanqisligi\".",
+      "text": "**Ta’rif:** havoga ehtiyojni qondiriş uçun yetarliça ventilyatsiya qila olmaslik bilan boğliq ruhiy azob, “havo tanqisligi”.",
       "depth": 0
      },
      {
-      "text": "**Uch omil:**",
+      "text": "**Uç omil:**",
       "depth": 0
      },
      {
-      "text": "**Nafas gazlari anomaliyasi**, ayniqsa **giperkapniya**; gipoksiya ancha kamroq.",
+      "text": "**Nafas gazlari anomaliyasi**, ayniqsa **giperkapniya**; gipoksiya ança kamroq.",
       "depth": 1
      },
      {
-      "text": "**Nafas mushaklarining ishi:** gazlar normal bo’lsa ham, buning uchun kuchli nafas olish kerak bo’lsa, hansirash seziladi.",
+      "text": "**Nafas muşaklarining işi:** gazlar normal bölsa ham, buning uçun kuçli nafas oliş kerak bölsa, hansiraş seziladi.",
       "depth": 1
      },
      {
@@ -1144,11 +1144,11 @@
       "depth": 1
      },
      {
-      "text": "Ko’pchilik 1–2 daqiqa nafasni ushlagach og’ir hansirash sezadi. Mashq qilganlar nafas olish istagini >10 daqiqa bosa oladi (42-bob).",
+      "text": "Köpçilik 1–2 daqiqa nafasni uşlagaç oğir hansiraş sezadi. Maşq qilganlar nafas oliş istagini >10 daqiqa bosa oladi (42-bob).",
       "depth": 0
      },
      {
-      "text": "**Neyrogen (emotsional) dispnoe:** nafas funksiyalari va gazlar normal. Nafas haqida o’ylashning o’zi biroz chuqurroq nafas olishga undaydi. Kichik yoki gavjum xonaga kirganda havo yetmasligidan qo’rqadigan odamlarda kuchayadi.",
+      "text": "**Neyrogen (emotsional) dispnoe:** nafas funksiyalari va gazlar normal. Nafas haqida öylaşning özi biroz çuqurroq nafas olişga undaydi. Kiçik yoki gavjum xonaga kirganda havo yetmasligidan qörqadigan odamlarda kuçayadi.",
       "depth": 0
      }
     ],
@@ -1173,15 +1173,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Tuzilishi:** O₂ yoki havo ballon; vaqti-vaqti bilan **musbat bosim** (ba’zi apparatlarda manfiy ham) beruvchi mexanizm; yuz niqobi yoki **endotraxeal naycha** ulagichi.",
+      "text": "**Tuzilişi:** O₂ yoki havo ballon; vaqti-vaqti bilan **musbat bosim** (ba’zi apparatlarda manfiy ham) beruvçi mexanizm; yuz niqobi yoki **endotraxeal nayça** ulagiçi.",
       "depth": 0
      },
      {
-      "text": "Musbat bosim davrida havo o’pkaga haydaladi, qolgan davrda o’pkadan passiv chiqadi.",
+      "text": "Musbat bosim davrida havo öpkaga haydaladi, qolgan davrda öpkadan passiv çiqadi.",
       "depth": 0
      },
      {
-      "text": "Eski apparatlar ortiqcha bosim bilan o’pkani shikastlagan. Hozir bosim chegarasi sozlanadi: normal o’pkada **12–15 sm H₂O**, komplians past o’pkada yuqoriroq.",
+      "text": "Eski apparatlar ortiqça bosim bilan öpkani şikastlagan. Hozir bosim çegarasi sozlanadi: normal öpkada **12–15 sm H₂O**, komplians past öpkada yuqoriroq.",
       "depth": 0
      }
     ],
@@ -1190,7 +1190,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Bak respiratori (\"temir o’pka\")",
+    "text": "Bak respiratori (“temir öpka”)",
     "id": "ch43-s-68-bak-respiratori-temir-opka",
     "bid": "ch43-u68"
    },
@@ -1199,19 +1199,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Bemor tanasi bakda, boshi havo o’tkazmaydigan yumshoq yoqa orqali tashqarida.",
+      "text": "Bemor tanasi bakda, boşi havo ötkazmaydigan yumşoq yoqa orqali taşqarida.",
       "depth": 0
      },
      {
-      "text": "Motorli **charm diafragma** bak ichidagi bosimni o’zgartiradi:",
+      "text": "Motorli **çarm diafragma** bak içidagi bosimni özgartiradi:",
       "depth": 0
      },
      {
-      "text": "ichkariga harakatlanganda **musbat bosim**, nafas chiqarish (0 dan +5 sm H₂O);",
+      "text": "içkariga harakatlanganda **musbat bosim**, nafas çiqariş (0 dan +5 sm H₂O);",
       "depth": 1
      },
      {
-      "text": "tashqariga harakatlanganda **manfiy bosim**, nafas olish (−10 dan −20 sm H₂O).",
+      "text": "taşqariga harakatlanganda **manfiy bosim**, nafas oliş (−10 dan −20 sm H₂O).",
       "depth": 1
      },
      {
@@ -1224,7 +1224,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Venoz qaytishga ta’siri",
+    "text": "Venoz qaytişga ta’siri",
     "id": "ch43-s-70-venoz-qaytishga-tasiri",
     "bid": "ch43-u70"
    },
@@ -1233,15 +1233,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Ikkala usulda ham o’pka ichidagi bosim tanadagi boshqa joylardan yuqori bo’ladi. Periferik venalardan ko’krak va yurakka qon oqishi qiyinlashadi.",
+      "text": "Ikkala usulda ham öpka içidagi bosim tanadagi boşqa joylardan yuqori böladi. Periferik venalardan kökrak va yurakka qon oqişi qiyinlaşadi.",
       "depth": 0
      },
      {
-      "text": "Ortiqcha bosim **yurak minutlik hajmini** kamaytiradi, ba’zan o’lim darajasigacha.",
+      "text": "Ortiqça bosim **yurak minutlik hajmini** kamaytiradi, ba’zan ölim darajasigaça.",
       "depth": 0
      },
      {
-      "text": "O’pkada **>30 mm Hg** musbat bosim bir necha daqiqadan ortiq davom etsa, venoz qaytish yetarli bo’lmagani sababli o’limga olib kelishi mumkin.",
+      "text": "Öpkada **>30 mm Hg** musbat bosim bir neça daqiqadan ortiq davom etsa, venoz qaytiş yetarli bölmagani sababli ölimga olib kelişi mumkin.",
       "depth": 0
      }
     ],
@@ -1259,35 +1259,35 @@
     "ordered": false,
     "items": [
      {
-      "text": "**FEV₁/FVC <80%**: obstruksiya (astma, SOO’K). **TLC va RV kamaygan**: restriksiya (fibroz, kifoskolioz).",
+      "text": "**FEV₁/FVC <80%**: obstruksiya (astma, SOÖK). **TLC va RV kamaygan**: restriksiya (fibroz, kifoskolioz).",
       "depth": 0
      },
      {
-      "text": "**Emfizema**: shunt va o’lik bo’shliq birga; o’pka gipertenziyasi va o’ng yurak yetishmovchiligi.",
+      "text": "**Emfizema**: shunt va ölik böşliq birga; öpka gipertenziyasi va öng yurak yetişmovçiligi.",
       "depth": 0
      },
      {
-      "text": "**Pnevmoniya** (saturatsiya ~78%) va **atelektaz** (~91%) farqi gipoksik vazokonstriksiyaga bog’liq.",
+      "text": "**Pnevmoniya** (saturatsiya ~78%) va **atelektaz** (~91%) farqi gipoksik vazokonstriksiyaga boğliq.",
       "depth": 0
      },
      {
-      "text": "**Astmada** nafas chiqarish qiyin; asosiy mediatorlar leykotrienlar.",
+      "text": "**Astmada** nafas çiqariş qiyin; asosiy mediatorlar leykotrienlar.",
       "depth": 0
      },
      {
-      "text": "**Gipoventilyatsiyada O₂ berish**: gipoksiyani tuzatadi, giperkapniyani tuzatmaydi.",
+      "text": "**Gipoventilyatsiyada O₂ beriş**: gipoksiyani tuzatadi, giperkapniyani tuzatmaydi.",
       "depth": 0
      },
      {
-      "text": "**Sianid zaharlanishi**da O₂ befoyda.",
+      "text": "**Sianid zaharlanişi**da O₂ befoyda.",
       "depth": 0
      },
      {
-      "text": "**Anemiyada sianoz yo’q**, polisitemiyada bor.",
+      "text": "**Anemiyada sianoz yöq**, polisitemiyada bor.",
       "depth": 0
      },
      {
-      "text": "**PCO₂ >120 mm Hg**: CO₂ narkozi va o’lim.",
+      "text": "**PCO₂ >120 mm Hg**: CO₂ narkozi va ölim.",
       "depth": 0
      },
      {
@@ -1300,7 +1300,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Bog’liqlik",
+    "text": "Boğliqlik",
     "id": "ch43-s-74-bogliqlik",
     "bid": "ch43-u74"
    },
@@ -1309,7 +1309,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "**31-bob:** Genderson-Gasselbax, kislota-ishqor.",
+      "text": "**31-bob:** Genderson-Gasselbax, kislota-işqor.",
       "depth": 0
      },
      {
@@ -1321,23 +1321,23 @@
       "depth": 0
      },
      {
-      "text": "**38-bob:** spirometriya, surfaktant, havo yo’li qarshiligi.",
+      "text": "**38-bob:** spirometriya, surfaktant, havo yöli qarşiligi.",
       "depth": 0
      },
      {
-      "text": "**39-bob:** gipoksik vazokonstriksiya, o’pka shishi.",
+      "text": "**39-bob:** gipoksik vazokonstriksiya, öpka şişi.",
       "depth": 0
      },
      {
-      "text": "**40-bob:** diffuziya, V/Q, shunt va o’lik bo’shliq.",
+      "text": "**40-bob:** diffuziya, V/Q, shunt va ölik böşliq.",
       "depth": 0
      },
      {
-      "text": "**41-bob:** gemoglobin, CO va O₂ tashilishi.",
+      "text": "**41-bob:** gemoglobin, CO va O₂ taşilişi.",
       "depth": 0
      },
      {
-      "text": "**42-bob:** nafas boshqaruvi, CO₂ ta’siri.",
+      "text": "**42-bob:** nafas boşqaruvi, CO₂ ta’siri.",
       "depth": 0
      },
      {
@@ -1349,11 +1349,11 @@
       "depth": 0
      },
      {
-      "text": "**21-bob:** venoz qaytish.",
+      "text": "**21-bob:** venoz qaytiş.",
       "depth": 0
      },
      {
-      "text": "**84-bob:** chaqaloq RDS.",
+      "text": "**84-bob:** çaqaloq RDS.",
       "depth": 0
      }
     ],
@@ -1940,7 +1940,7 @@
    "id": "ch43-t-ph",
    "termUz": "pH",
    "original": null,
-   "contextUz": "O’lchov Usul pH miniatyura shisha elektrod; kuchlanish pH ni bevosita ko’rsatadi PCO₂ shisha elektrod yupqa plastik membrana bilan o’ralgan, oraliqda ma’lum konsentratsiyali NaHCO₃ eritmasi.",
+   "contextUz": "Ölçov Usul pH miniatyura şişa elektrod; kuçlaniş pH ni bevosita körsatadi PCO₂ şişa elektrod yupqa plastik membrana bilan öralgan, oraliqda ma’lum konsentratsiyali NaHCO₃ eritmasi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -1948,9 +1948,9 @@
   },
   {
    "id": "ch43-t-shisha-elektrod",
-   "termUz": "shisha elektrod",
+   "termUz": "şişa elektrod",
    "original": null,
-   "contextUz": "O’lchov Usul pH miniatyura shisha elektrod; kuchlanish pH ni bevosita ko’rsatadi PCO₂ shisha elektrod yupqa plastik membrana bilan o’ralgan, oraliqda ma’lum konsentratsiyali NaHCO₃ eritmasi.",
+   "contextUz": "Ölçov Usul pH miniatyura şişa elektrod; kuçlaniş pH ni bevosita körsatadi PCO₂ şişa elektrod yupqa plastik membrana bilan öralgan, oraliqda ma’lum konsentratsiyali NaHCO₃ eritmasi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -1960,7 +1960,7 @@
    "id": "ch43-t-pco",
    "termUz": "PCO₂",
    "original": null,
-   "contextUz": "O’lchov Usul pH miniatyura shisha elektrod; kuchlanish pH ni bevosita ko’rsatadi PCO₂ shisha elektrod yupqa plastik membrana bilan o’ralgan, oraliqda ma’lum konsentratsiyali NaHCO₃ eritmasi.",
+   "contextUz": "Ölçov Usul pH miniatyura şişa elektrod; kuçlaniş pH ni bevosita körsatadi PCO₂ şişa elektrod yupqa plastik membrana bilan öralgan, oraliqda ma’lum konsentratsiyali NaHCO₃ eritmasi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -1970,7 +1970,7 @@
    "id": "ch43-t-genderson-gasselbax-tenglamasi",
    "termUz": "Genderson-Gasselbax tenglamasi",
    "original": "pH = 6,1 + log HCO₃⁻/CO₂",
-   "contextUz": "pH o’lchanadi va Genderson-Gasselbax tenglamasi (pH = 6,1 + log HCO₃⁻/CO₂) bilan CO₂ hisoblanadi PO₂ polyarografiya: ~1 mm² li manfiy platina elektrod, eritmaga nisbatan −0,6 V dan ko’p farq.",
+   "contextUz": "pH ölçanadi va Genderson-Gasselbax tenglamasi (pH = 6,1 + log HCO₃⁻/CO₂) bilan CO₂ hisoblanadi PO₂ polyarografiya: ~1 mm² li manfiy platina elektrod, eritmaga nisbatan −0,6 V dan köp farq.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -1980,7 +1980,7 @@
    "id": "ch43-t-po",
    "termUz": "PO₂",
    "original": null,
-   "contextUz": "pH o’lchanadi va Genderson-Gasselbax tenglamasi (pH = 6,1 + log HCO₃⁻/CO₂) bilan CO₂ hisoblanadi PO₂ polyarografiya: ~1 mm² li manfiy platina elektrod, eritmaga nisbatan −0,6 V dan ko’p farq.",
+   "contextUz": "pH ölçanadi va Genderson-Gasselbax tenglamasi (pH = 6,1 + log HCO₃⁻/CO₂) bilan CO₂ hisoblanadi PO₂ polyarografiya: ~1 mm² li manfiy platina elektrod, eritmaga nisbatan −0,6 V dan köp farq.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -1990,7 +1990,7 @@
    "id": "ch43-t-polyarografiya",
    "termUz": "polyarografiya",
    "original": null,
-   "contextUz": "pH o’lchanadi va Genderson-Gasselbax tenglamasi (pH = 6,1 + log HCO₃⁻/CO₂) bilan CO₂ hisoblanadi PO₂ polyarografiya: ~1 mm² li manfiy platina elektrod, eritmaga nisbatan −0,6 V dan ko’p farq.",
+   "contextUz": "pH ölçanadi va Genderson-Gasselbax tenglamasi (pH = 6,1 + log HCO₃⁻/CO₂) bilan CO₂ hisoblanadi PO₂ polyarografiya: ~1 mm² li manfiy platina elektrod, eritmaga nisbatan −0,6 V dan köp farq.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2000,7 +2000,7 @@
    "id": "ch43-t-sababi",
    "termUz": "Sababi",
    "original": null,
-   "contextUz": "Sababi: ko’krakdan berilgan bosim alveolalarni ham, bronxiolalarni ham siqadi.",
+   "contextUz": "Sababi: kökrakdan berilgan bosim alveolalarni ham, bronxiolalarni ham siqadi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2010,7 +2010,7 @@
    "id": "ch43-t-bronxiolalarni-ham",
    "termUz": "bronxiolalarni ham",
    "original": null,
-   "contextUz": "Sababi: ko’krakdan berilgan bosim alveolalarni ham, bronxiolalarni ham siqadi.",
+   "contextUz": "Sababi: kökrakdan berilgan bosim alveolalarni ham, bronxiolalarni ham siqadi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2018,9 +2018,9 @@
   },
   {
    "id": "ch43-t-hajmga-bogliqligi",
-   "termUz": "Hajmga bog’liqligi",
+   "termUz": "Hajmga boğliqligi",
    "original": null,
-   "contextUz": "Hajmga bog’liqligi: Katta o’pka hajmida bronxlarni tashqaridan elastik tortish ochiq ushlaydi.",
+   "contextUz": "Hajmga boğliqligi: Katta öpka hajmida bronxlarni taşqaridan elastik tortiş oçiq uşlaydi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2030,7 +2030,7 @@
    "id": "ch43-t-400-l-min",
    "termUz": ">400 l/min",
    "original": null,
-   "contextUz": "Sog’lom odamda maksimal oqim >400 l/min.",
+   "contextUz": "Soğlom odamda maksimal oqim >400 l/min.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2038,9 +2038,9 @@
   },
   {
    "id": "ch43-t-oqim-hajm-egri-chizigi-anomaliyalari-rasm-43-2",
-   "termUz": "Oqim-hajm egri chizig’i anomaliyalari (rasm 43-2)",
+   "termUz": "Oqim-hajm egri çiziği anomaliyalari (rasm 43-2)",
    "original": null,
-   "contextUz": "Oqim-hajm egri chizig’i anomaliyalari (rasm 43-2):",
+   "contextUz": "Oqim-hajm egri çiziği anomaliyalari (rasm 43-2):",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2050,7 +2050,7 @@
    "id": "ch43-t-sil-silikoz",
    "termUz": "sil, silikoz",
    "original": null,
-   "contextUz": "Siqilgan (restriktiv) o’pka Havo yo’li obstruksiyasi TLC ↓ ↑ RV ↓ ↑ Maksimal oqim normaga yetmaydi (o’pka to’liq kengaymaydi) keskin ↓ Sabablar o’pka fibrozi (sil, silikoz), ko’krak qafasi deformatsiyasi (kifoz, skolioz, fibroz plevrit) astma, emfizemaning ayrim bosqichlari",
+   "contextUz": "Siqilgan (restriktiv) öpka Havo yöli obstruksiyasi TLC ↓ ↑ RV ↓ ↑ Maksimal oqim normaga yetmaydi (öpka töliq kengaymaydi) keskin ↓ Sabablar öpka fibrozi (sil, silikoz), kökrak qafasi deformatsiyasi (kifoz, skolioz, fibroz plevrit) astma, emfizemaning ayrim bosqiçlari",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2060,7 +2060,7 @@
    "id": "ch43-t-kifoz-skolioz-fibroz-plevrit",
    "termUz": "kifoz, skolioz, fibroz plevrit",
    "original": null,
-   "contextUz": "Siqilgan (restriktiv) o’pka Havo yo’li obstruksiyasi TLC ↓ ↑ RV ↓ ↑ Maksimal oqim normaga yetmaydi (o’pka to’liq kengaymaydi) keskin ↓ Sabablar o’pka fibrozi (sil, silikoz), ko’krak qafasi deformatsiyasi (kifoz, skolioz, fibroz plevrit) astma, emfizemaning ayrim bosqichlari",
+   "contextUz": "Siqilgan (restriktiv) öpka Havo yöli obstruksiyasi TLC ↓ ↑ RV ↓ ↑ Maksimal oqim normaga yetmaydi (öpka töliq kengaymaydi) keskin ↓ Sabablar öpka fibrozi (sil, silikoz), kökrak qafasi deformatsiyasi (kifoz, skolioz, fibroz plevrit) astma, emfizemaning ayrim bosqiçlari",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2070,7 +2070,7 @@
    "id": "ch43-t-astma",
    "termUz": "astma",
    "original": null,
-   "contextUz": "Siqilgan (restriktiv) o’pka Havo yo’li obstruksiyasi TLC ↓ ↑ RV ↓ ↑ Maksimal oqim normaga yetmaydi (o’pka to’liq kengaymaydi) keskin ↓ Sabablar o’pka fibrozi (sil, silikoz), ko’krak qafasi deformatsiyasi (kifoz, skolioz, fibroz plevrit) astma, emfizemaning ayrim bosqichlari",
+   "contextUz": "Siqilgan (restriktiv) öpka Havo yöli obstruksiyasi TLC ↓ ↑ RV ↓ ↑ Maksimal oqim normaga yetmaydi (öpka töliq kengaymaydi) keskin ↓ Sabablar öpka fibrozi (sil, silikoz), kökrak qafasi deformatsiyasi (kifoz, skolioz, fibroz plevrit) astma, emfizemaning ayrim bosqiçlari",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2078,9 +2078,9 @@
   },
   {
    "id": "ch43-t-obstruksiyada-nafas-chiqarish-nafas-olishdan-qiyin-bolishini",
-   "termUz": "Obstruksiyada nafas chiqarish nafas olishdan qiyin bo’lishining sababi",
+   "termUz": "Obstruksiyada nafas çiqariş nafas olişdan qiyin bölişining sababi",
    "original": null,
-   "contextUz": "Obstruksiyada nafas chiqarish nafas olishdan qiyin bo’lishining sababi:",
+   "contextUz": "Obstruksiyada nafas çiqariş nafas olişdan qiyin bölişining sababi:",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2098,9 +2098,9 @@
   },
   {
    "id": "ch43-t-bajarilishi",
-   "termUz": "Bajarilishi",
+   "termUz": "Bajarilişi",
    "original": null,
-   "contextUz": "Bajarilishi: maksimal nafas olib (TLC gacha), spirometrga iloji boricha tez va to’liq nafas chiqariladi.",
+   "contextUz": "Bajarilişi: maksimal nafas olib (TLC gaça), spirometrga iloji boriça tez va töliq nafas çiqariladi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2110,7 +2110,7 @@
    "id": "ch43-t-fev",
    "termUz": "FEV₁",
    "original": null,
-   "contextUz": "FEV₁ birinchi soniyada chiqarilgan hajm.",
+   "contextUz": "FEV₁ birinçi soniyada çiqarilgan hajm.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2120,7 +2120,7 @@
    "id": "ch43-t-fev-fvc",
    "termUz": "FEV₁/FVC%",
    "original": null,
-   "contextUz": "FEV₁/FVC%: | Holat | Qiymat | |---|---| | Normal | 80% | | Qisman obstruksiya | 47% (FVC esa deyarli o’zgarmagan) | | Og’ir obstruksiya (o’tkir astma) | <20% |",
+   "contextUz": "FEV₁/FVC%: | Holat | Qiymat | |---|---| | Normal | 80% | | Qisman obstruksiya | 47% (FVC esa deyarli özgarmagan) | | Oğir obstruksiya (ötkir astma) | <20% |",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2130,7 +2130,7 @@
    "id": "ch43-t-80",
    "termUz": "80%",
    "original": null,
-   "contextUz": "FEV₁/FVC%: | Holat | Qiymat | |---|---| | Normal | 80% | | Qisman obstruksiya | 47% (FVC esa deyarli o’zgarmagan) | | Og’ir obstruksiya (o’tkir astma) | <20% |",
+   "contextUz": "FEV₁/FVC%: | Holat | Qiymat | |---|---| | Normal | 80% | | Qisman obstruksiya | 47% (FVC esa deyarli özgarmagan) | | Oğir obstruksiya (ötkir astma) | <20% |",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2139,8 +2139,8 @@
   {
    "id": "ch43-t-47",
    "termUz": "47%",
-   "original": "FVC esa deyarli o’zgarmagan",
-   "contextUz": "FEV₁/FVC%: | Holat | Qiymat | |---|---| | Normal | 80% | | Qisman obstruksiya | 47% (FVC esa deyarli o’zgarmagan) | | Og’ir obstruksiya (o’tkir astma) | <20% |",
+   "original": "FVC esa deyarli o‘zgarmagan",
+   "contextUz": "FEV₁/FVC%: | Holat | Qiymat | |---|---| | Normal | 80% | | Qisman obstruksiya | 47% (FVC esa deyarli özgarmagan) | | Oğir obstruksiya (ötkir astma) | <20% |",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2150,7 +2150,7 @@
    "id": "ch43-t-20",
    "termUz": "<20%",
    "original": null,
-   "contextUz": "FEV₁/FVC%: | Holat | Qiymat | |---|---| | Normal | 80% | | Qisman obstruksiya | 47% (FVC esa deyarli o’zgarmagan) | | Og’ir obstruksiya (o’tkir astma) | <20% |",
+   "contextUz": "FEV₁/FVC%: | Holat | Qiymat | |---|---| | Normal | 80% | | Qisman obstruksiya | 47% (FVC esa deyarli özgarmagan) | | Oğir obstruksiya (ötkir astma) | <20% |",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2158,9 +2158,9 @@
   },
   {
    "id": "ch43-t-chekish",
-   "termUz": "chekish",
+   "termUz": "çekiş",
    "original": null,
-   "contextUz": "Amalda ko’p yillik chekish natijasida yuzaga keladigan murakkab obstruktiv va destruktiv jarayon tushuniladi.",
+   "contextUz": "Amalda köp yillik çekiş natijasida yuzaga keladigan murakkab obstruktiv va destruktiv jarayon tuşuniladi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2180,7 +2180,7 @@
    "id": "ch43-t-surunkali-infeksiya",
    "termUz": "Surunkali infeksiya",
    "original": null,
-   "contextUz": "Surunkali infeksiya: tutun va boshqa ta’sirlovchilar himoya mexanizmlarini buzadi.",
+   "contextUz": "Surunkali infeksiya: tutun va boşqa ta’sirlovçilar himoya mexanizmlarini buzadi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2190,7 +2190,7 @@
    "id": "ch43-t-nikotin",
    "termUz": "Nikotin",
    "original": null,
-   "contextUz": "Nikotin kipriklarni qisman falajlaydi, shilliq oson chiqmaydi.",
+   "contextUz": "Nikotin kipriklarni qisman falajlaydi, şilliq oson çiqmaydi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2200,7 +2200,7 @@
    "id": "ch43-t-alveolyar-makrofaglar",
    "termUz": "Alveolyar makrofaglar",
    "original": null,
-   "contextUz": "Alveolyar makrofaglar tormozlanadi va infeksiyaga qarshi kurash susayadi.",
+   "contextUz": "Alveolyar makrofaglar tormozlanadi va infeksiyaga qarşi kuraş susayadi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2210,7 +2210,7 @@
    "id": "ch43-t-surunkali-obstruksiya",
    "termUz": "surunkali obstruksiya",
    "original": null,
-   "contextUz": "Infeksiya, ortiqcha shilliq va bronxiola epiteliysining yallig’lanish shishi ko’plab mayda havo yo’llarida surunkali obstruksiya hosil qiladi.",
+   "contextUz": "Infeksiya, ortiqça şilliq va bronxiola epiteliysining yalliğlaniş şişi köplab mayda havo yöllarida surunkali obstruksiya hosil qiladi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2240,7 +2240,7 @@
    "id": "ch43-t-bronxiola-obstruksiyasi",
    "termUz": "Bronxiola obstruksiyasi",
    "original": null,
-   "contextUz": "Bronxiola obstruksiyasi: havo yo’li qarshiligi va nafas ishi keskin ortadi, ayniqsa nafas chiqarishda (tashqi siqilish bronxiolalarni ham siqadi).",
+   "contextUz": "Bronxiola obstruksiyasi: havo yöli qarşiligi va nafas işi keskin ortadi, ayniqsa nafas çiqarişda (taşqi siqiliş bronxiolalarni ham siqadi).",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2248,9 +2248,9 @@
   },
   {
    "id": "ch43-t-alveola-devorlari-yoqolishi",
-   "termUz": "Alveola devorlari yo’qolishi",
+   "termUz": "Alveola devorlari yöqolişi",
    "original": null,
-   "contextUz": "Alveola devorlari yo’qolishi: diffuziya sig’imi keskin kamayadi.",
+   "contextUz": "Alveola devorlari yöqolişi: diffuziya siğimi keskin kamayadi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2260,7 +2260,7 @@
    "id": "ch43-t-notekis-obstruksiya",
    "termUz": "Notekis obstruksiya",
    "original": null,
-   "contextUz": "Notekis obstruksiya: ba’zi qismlarda V̇A/Q̇ juda past (fiziologik shunt, qon yomon aeratsiyalanadi); boshqalarida juda yuqori (fiziologik o’lik bo’shliq, ventilyatsiya isrof).",
+   "contextUz": "Notekis obstruksiya: ba’zi qismlarda V̇A/Q̇ juda past (fiziologik shunt, qon yomon aeratsiyalanadi); boşqalarida juda yuqori (fiziologik ölik böşliq, ventilyatsiya isrof).",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2270,7 +2270,7 @@
    "id": "ch43-t-v-a-q-juda-past",
    "termUz": "V̇A/Q̇ juda past",
    "original": "fiziologik shunt, qon yomon aeratsiyalanadi",
-   "contextUz": "Notekis obstruksiya: ba’zi qismlarda V̇A/Q̇ juda past (fiziologik shunt, qon yomon aeratsiyalanadi); boshqalarida juda yuqori (fiziologik o’lik bo’shliq, ventilyatsiya isrof).",
+   "contextUz": "Notekis obstruksiya: ba’zi qismlarda V̇A/Q̇ juda past (fiziologik shunt, qon yomon aeratsiyalanadi); boşqalarida juda yuqori (fiziologik ölik böşliq, ventilyatsiya isrof).",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2279,8 +2279,8 @@
   {
    "id": "ch43-t-juda-yuqori",
    "termUz": "juda yuqori",
-   "original": "fiziologik o’lik bo’shliq, ventilyatsiya isrof",
-   "contextUz": "Notekis obstruksiya: ba’zi qismlarda V̇A/Q̇ juda past (fiziologik shunt, qon yomon aeratsiyalanadi); boshqalarida juda yuqori (fiziologik o’lik bo’shliq, ventilyatsiya isrof).",
+   "original": "fiziologik o‘lik bo‘shliq, ventilyatsiya isrof",
+   "contextUz": "Notekis obstruksiya: ba’zi qismlarda V̇A/Q̇ juda past (fiziologik shunt, qon yomon aeratsiyalanadi); boşqalarida juda yuqori (fiziologik ölik böşliq, ventilyatsiya isrof).",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2288,9 +2288,9 @@
   },
   {
    "id": "ch43-t-kapillyarlar-kamayishi",
-   "termUz": "Kapillyarlar kamayishi",
+   "termUz": "Kapillyarlar kamayişi",
    "original": null,
-   "contextUz": "Kapillyarlar kamayishi: o’pka tomir qarshiligi ortadi, o’pka gipertenziyasi, o’ng yurakka yuk va ko’pincha o’ng yurak yetishmovchiligi.",
+   "contextUz": "Kapillyarlar kamayişi: öpka tomir qarşiligi ortadi, öpka gipertenziyasi, öng yurakka yuk va köpinça öng yurak yetişmovçiligi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2298,9 +2298,9 @@
   },
   {
    "id": "ch43-t-opka-gipertenziyasi",
-   "termUz": "o’pka gipertenziyasi",
+   "termUz": "öpka gipertenziyasi",
    "original": null,
-   "contextUz": "Kapillyarlar kamayishi: o’pka tomir qarshiligi ortadi, o’pka gipertenziyasi, o’ng yurakka yuk va ko’pincha o’ng yurak yetishmovchiligi.",
+   "contextUz": "Kapillyarlar kamayişi: öpka tomir qarşiligi ortadi, öpka gipertenziyasi, öng yurakka yuk va köpinça öng yurak yetişmovçiligi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2308,9 +2308,9 @@
   },
   {
    "id": "ch43-t-ong-yurak-yetishmovchiligi",
-   "termUz": "o’ng yurak yetishmovchiligi",
+   "termUz": "öng yurak yetişmovçiligi",
    "original": null,
-   "contextUz": "Kapillyarlar kamayishi: o’pka tomir qarshiligi ortadi, o’pka gipertenziyasi, o’ng yurakka yuk va ko’pincha o’ng yurak yetishmovchiligi.",
+   "contextUz": "Kapillyarlar kamayişi: öpka tomir qarşiligi ortadi, öpka gipertenziyasi, öng yurakka yuk va köpinça öng yurak yetişmovçiligi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2318,9 +2318,9 @@
   },
   {
    "id": "ch43-t-kechishi",
-   "termUz": "Kechishi",
+   "termUz": "Keçişi",
    "original": null,
-   "contextUz": "Kechishi: ko’p yillar davomida sekin rivojlanadi.",
+   "contextUz": "Keçişi: köp yillar davomida sekin rivojlanadi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2330,7 +2330,7 @@
    "id": "ch43-t-gipoksiya-va-giperkapniya",
    "termUz": "gipoksiya va giperkapniya",
    "original": null,
-   "contextUz": "Ko’p alveolalar gipoventilyatsiyasi va devorlar yo’qolishi gipoksiya va giperkapniya beradi.",
+   "contextUz": "Köp alveolalar gipoventilyatsiyasi va devorlar yöqolişi gipoksiya va giperkapniya beradi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2340,7 +2340,7 @@
    "id": "ch43-t-tarif",
    "termUz": "Ta’rif",
    "original": null,
-   "contextUz": "Ta’rif: alveolalarning bir qismi yoki hammasi suyuqlik va qon hujayralari bilan to’lgan har qanday yallig’lanish holati.",
+   "contextUz": "Ta’rif: alveolalarning bir qismi yoki hammasi suyuqlik va qon hujayralari bilan tölgan har qanday yalliğlaniş holati.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2350,7 +2350,7 @@
    "id": "ch43-t-bakterial-pnevmoniya",
    "termUz": "Bakterial pnevmoniya",
    "original": null,
-   "contextUz": "Bakterial pnevmoniyaning eng ko’p qo’zg’atuvchisi pnevmokokk.",
+   "contextUz": "Bakterial pnevmoniyaning eng köp qözğatuvçisi pnevmokokk.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2360,7 +2360,7 @@
    "id": "ch43-t-pnevmokokk",
    "termUz": "pnevmokokk",
    "original": null,
-   "contextUz": "Bakterial pnevmoniyaning eng ko’p qo’zg’atuvchisi pnevmokokk.",
+   "contextUz": "Bakterial pnevmoniyaning eng köp qözğatuvçisi pnevmokokk.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2370,7 +2370,7 @@
    "id": "ch43-t-mexanizm",
    "termUz": "Mexanizm",
    "original": null,
-   "contextUz": "Mexanizm: Alveolada infeksiya boshlanadi.",
+   "contextUz": "Mexanizm: Alveolada infeksiya boşlanadi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2378,9 +2378,9 @@
   },
   {
    "id": "ch43-t-konsolidatsiya",
-   "termUz": "\"konsolidatsiya\"",
+   "termUz": "“konsolidatsiya”",
    "original": null,
-   "contextUz": "Butun bo’laklar, hatto butun o’pka \"konsolidatsiya\"ga uchraydi, ya’ni suyuqlik va hujayra qoldiqlari bilan to’ladi.",
+   "contextUz": "Butun bölaklar, hatto butun öpka “konsolidatsiya”ga uçraydi, ya’ni suyuqlik va hujayra qoldiqlari bilan töladi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2388,9 +2388,9 @@
   },
   {
    "id": "ch43-t-gaz-almashinuviga-tasiri",
-   "termUz": "Gaz almashinuviga ta’siri",
+   "termUz": "Gaz almaşinuviga ta’siri",
    "original": null,
-   "contextUz": "Gaz almashinuviga ta’siri: (1) respirator membrana yuzasi kamayadi; (2) V̇A/Q̇ kamayadi.",
+   "contextUz": "Gaz almaşinuviga ta’siri: (1) respirator membrana yuzasi kamayadi; (2) V̇A/Q̇ kamayadi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2400,7 +2400,7 @@
    "id": "ch43-t-v-a-q-kamayadi",
    "termUz": "V̇A/Q̇ kamayadi",
    "original": null,
-   "contextUz": "Gaz almashinuviga ta’siri: (1) respirator membrana yuzasi kamayadi; (2) V̇A/Q̇ kamayadi.",
+   "contextUz": "Gaz almaşinuviga ta’siri: (1) respirator membrana yuzasi kamayadi; (2) V̇A/Q̇ kamayadi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2418,9 +2418,9 @@
   },
   {
    "id": "ch43-t-rasm-43-6-bir-opka-zararlangan",
-   "termUz": "Rasm 43-6 (bir o’pka zararlangan)",
+   "termUz": "Rasm 43-6 (bir öpka zararlangan)",
    "original": null,
-   "contextUz": "Rasm 43-6 (bir o’pka zararlangan): O’pka arteriyasi qoni 60% to’yingan.",
+   "contextUz": "Rasm 43-6 (bir öpka zararlangan): Öpka arteriyasi qoni 60% töyingan.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2428,9 +2428,9 @@
   },
   {
    "id": "ch43-t-ortacha-78",
-   "termUz": "o’rtacha ~78%",
+   "termUz": "örtaça ~78%",
    "original": null,
-   "contextUz": "Aortada ½ × 97 + ½ × 60, ya’ni o’rtacha ~78%: normadan ancha past.",
+   "contextUz": "Aortada ½ × 97 + ½ × 60, ya’ni örtaça ~78%: normadan ança past.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2440,7 +2440,7 @@
    "id": "ch43-t-sabablar",
    "termUz": "Sabablar",
    "original": null,
-   "contextUz": "Sabablar: (1) havo yo’lining to’liq obstruksiyasi; (2) surfaktant yetishmasligi.",
+   "contextUz": "Sabablar: (1) havo yölining töliq obstruksiyasi; (2) surfaktant yetişmasligi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2448,9 +2448,9 @@
   },
   {
    "id": "ch43-t-surfaktant-yetishmasligi",
-   "termUz": "surfaktant yetishmasligi",
+   "termUz": "surfaktant yetişmasligi",
    "original": null,
-   "contextUz": "Sabablar: (1) havo yo’lining to’liq obstruksiyasi; (2) surfaktant yetishmasligi.",
+   "contextUz": "Sabablar: (1) havo yölining töliq obstruksiyasi; (2) surfaktant yetişmasligi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2460,7 +2460,7 @@
    "id": "ch43-t-juda-manfiy-bosim",
    "termUz": "juda manfiy bosim",
    "original": null,
-   "contextUz": "O’pka fibroz tufayli qattiq bo’lsa, alveolada juda manfiy bosim hosil bo’ladi.",
+   "contextUz": "Öpka fibroz tufayli qattiq bölsa, alveolada juda manfiy bosim hosil böladi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2468,9 +2468,9 @@
   },
   {
    "id": "ch43-t-shish-suyuqligi",
-   "termUz": "shish suyuqligi",
+   "termUz": "şiş suyuqligi",
    "original": null,
-   "contextUz": "U kapillyarlardan suyuqlik tortib, alveolalar shish suyuqligi bilan to’ladi.",
+   "contextUz": "U kapillyarlardan suyuqlik tortib, alveolalar şiş suyuqligi bilan töladi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2480,7 +2480,7 @@
    "id": "ch43-t-massiv-kollaps",
    "termUz": "massiv kollaps",
    "original": null,
-   "contextUz": "Butun o’pka atelektazida (massiv kollaps) deyarli doim shunday bo’ladi.",
+   "contextUz": "Butun öpka atelektazida (massiv kollaps) deyarli doim şunday böladi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2500,7 +2500,7 @@
    "id": "ch43-t-gipoksik-vazokonstriksiya",
    "termUz": "gipoksik vazokonstriksiya",
    "original": null,
-   "contextUz": "Gipoksiya qo’shimcha gipoksik vazokonstriksiya chaqiradi (39-bob).",
+   "contextUz": "Gipoksiya qöşimça gipoksik vazokonstriksiya çaqiradi (39-bob).",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2510,7 +2510,7 @@
    "id": "ch43-t-5-6",
    "termUz": "5/6",
    "original": null,
-   "contextUz": "Natijada qonning 5/6 qismi aeratsiyalangan o’pkadan, faqat 1/6 qismi kollapsga uchragan o’pkadan o’tadi.",
+   "contextUz": "Natijada qonning 5/6 qismi aeratsiyalangan öpkadan, faqat 1/6 qismi kollapsga uçragan öpkadan ötadi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2520,7 +2520,7 @@
    "id": "ch43-t-1-6",
    "termUz": "1/6",
    "original": null,
-   "contextUz": "Natijada qonning 5/6 qismi aeratsiyalangan o’pkadan, faqat 1/6 qismi kollapsga uchragan o’pkadan o’tadi.",
+   "contextUz": "Natijada qonning 5/6 qismi aeratsiyalangan öpkadan, faqat 1/6 qismi kollapsga uçragan öpkadan ötadi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2530,7 +2530,7 @@
    "id": "ch43-t-91",
    "termUz": "91%",
    "original": null,
-   "contextUz": "Aortada 5/6 × 97 + 1/6 × 60 ≈ 91%, ya’ni butun bir o’pka ventilyatsiyasi yo’qolgan bo’lsa ham desaturatsiya yengil.",
+   "contextUz": "Aortada 5/6 × 97 + 1/6 × 60 ≈ 91%, ya’ni butun bir öpka ventilyatsiyasi yöqolgan bölsa ham desaturatsiya yengil.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2538,9 +2538,9 @@
   },
   {
    "id": "ch43-t-pnevmoniya-bilan-solishtirish",
-   "termUz": "Pnevmoniya bilan solishtirish",
+   "termUz": "Pnevmoniya bilan soliştiriş",
    "original": null,
-   "contextUz": "Pnevmoniya bilan solishtirish: pnevmoniyada qon oqimi normal qolgani uchun aorta saturatsiyasi 78% gacha tushadi.",
+   "contextUz": "Pnevmoniya bilan soliştiriş: pnevmoniyada qon oqimi normal qolgani uçun aorta saturatsiyasi 78% gaça tuşadi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2559,8 +2559,8 @@
   {
    "id": "ch43-t-gialin-membrana-kasalligi",
    "termUz": "Gialin membrana kasalligi",
-   "original": "yangi tug’ilganlarning respirator distress sindromi",
-   "contextUz": "Gialin membrana kasalligi (yangi tug’ilganlarning respirator distress sindromi), ko’pincha chala tug’ilganlarda: surfaktant keskin kam, sirt tarangligi bir necha marta yuqori.",
+   "original": "yangi tug‘ilganlarning respirator distress sindromi",
+   "contextUz": "Gialin membrana kasalligi (yangi tuğilganlarning respirator distress sindromi), köpinça çala tuğilganlarda: surfaktant keskin kam, sirt tarangligi bir neça marta yuqori.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2568,9 +2568,9 @@
   },
   {
    "id": "ch43-t-tarqalishi",
-   "termUz": "Tarqalishi",
+   "termUz": "Tarqalişi",
    "original": null,
-   "contextUz": "Tarqalishi: AQShda aholining 7–8% i (ba’zi guruhlarda, masalan ispan bo’lmagan qora tanlilarda ko’proq).",
+   "contextUz": "Tarqalişi: AQŞda aholining 7–8% i (ba’zi guruhlarda, masalan ispan bölmagan qora tanlilarda köproq).",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2580,7 +2580,7 @@
    "id": "ch43-t-7-8",
    "termUz": "7–8%",
    "original": null,
-   "contextUz": "Tarqalishi: AQShda aholining 7–8% i (ba’zi guruhlarda, masalan ispan bo’lmagan qora tanlilarda ko’proq).",
+   "contextUz": "Tarqalişi: AQŞda aholining 7–8% i (ba’zi guruhlarda, masalan ispan bölmagan qora tanlilarda köproq).",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2590,7 +2590,7 @@
    "id": "ch43-t-235-million",
    "termUz": ">235 million",
    "original": null,
-   "contextUz": "Dunyoda JSST bahosi >235 million, ba’zi baholar 339 million gacha.",
+   "contextUz": "Dunyoda JSST bahosi >235 million, ba’zi baholar 339 million gaça.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2600,7 +2600,7 @@
    "id": "ch43-t-339-million",
    "termUz": "339 million",
    "original": null,
-   "contextUz": "Dunyoda JSST bahosi >235 million, ba’zi baholar 339 million gacha.",
+   "contextUz": "Dunyoda JSST bahosi >235 million, ba’zi baholar 339 million gaça.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2608,9 +2608,9 @@
   },
   {
    "id": "ch43-t-gipersezuvchanligi",
-   "termUz": "gipersezuvchanligi",
+   "termUz": "gipersezuvçanligi",
    "original": null,
-   "contextUz": "Sababi: havodagi yot moddalarga bronxiolalarning qisqarish gipersezuvchanligi.",
+   "contextUz": "Sababi: havodagi yot moddalarga bronxiolalarning qisqariş gipersezuvçanligi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2618,9 +2618,9 @@
   },
   {
    "id": "ch43-t-30-yoshgacha",
-   "termUz": "30 yoshgacha",
+   "termUz": "30 yoşgaça",
    "original": null,
-   "contextUz": "30 yoshgacha bemorlarning ~70% ida allergik, ayniqsa o’simlik changiga.",
+   "contextUz": "30 yoşgaça bemorlarning ~70% ida allergik, ayniqsa ösimlik çangiga.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2630,7 +2630,7 @@
    "id": "ch43-t-70",
    "termUz": "70%",
    "original": null,
-   "contextUz": "30 yoshgacha bemorlarning ~70% ida allergik, ayniqsa o’simlik changiga.",
+   "contextUz": "30 yoşgaça bemorlarning ~70% ida allergik, ayniqsa ösimlik çangiga.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2638,9 +2638,9 @@
   },
   {
    "id": "ch43-t-noallergik-tasirlovchilar",
-   "termUz": "noallergik ta’sirlovchilar",
+   "termUz": "noallergik ta’sirlovçilar",
    "original": "masalan smog",
-   "contextUz": "Keksalarda deyarli doim noallergik ta’sirlovchilar (masalan smog).",
+   "contextUz": "Keksalarda deyarli doim noallergik ta’sirlovçilar (masalan smog).",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2660,7 +2660,7 @@
    "id": "ch43-t-ige",
    "termUz": "IgE",
    "original": null,
-   "contextUz": "Allergik odam ko’p IgE hosil qiladi (35-bob).",
+   "contextUz": "Allergik odam köp IgE hosil qiladi (35-bob).",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2670,7 +2670,7 @@
    "id": "ch43-t-mast-hujayralar",
    "termUz": "mast hujayralar",
    "original": null,
-   "contextUz": "Bu antitanalar bronxiola va mayda bronxlar yonidagi o’pka interstitsiyasidagi mast hujayralarga yopishgan.",
+   "contextUz": "Bu antitanalar bronxiola va mayda bronxlar yonidagi öpka interstitsiyasidagi mast hujayralarga yopişgan.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2680,7 +2680,7 @@
    "id": "ch43-t-gistamin",
    "termUz": "gistamin",
    "original": null,
-   "contextUz": "Mast hujayralar quyidagilarni chiqaradi: gistamin, anafilaksiyaning sekin ta’sir qiluvchi moddasi (leykotrienlar), eozinofil xemotaktik omili, bradikinin.",
+   "contextUz": "Mast hujayralar quyidagilarni çiqaradi: gistamin, anafilaksiyaning sekin ta’sir qiluvçi moddasi (leykotrienlar), eozinofil xemotaktik omili, bradikinin.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2688,9 +2688,9 @@
   },
   {
    "id": "ch43-t-anafilaksiyaning-sekin-tasir-qiluvchi-moddasi-leykotrienlar",
-   "termUz": "anafilaksiyaning sekin ta’sir qiluvchi moddasi (leykotrienlar)",
+   "termUz": "anafilaksiyaning sekin ta’sir qiluvçi moddasi (leykotrienlar)",
    "original": null,
-   "contextUz": "Mast hujayralar quyidagilarni chiqaradi: gistamin, anafilaksiyaning sekin ta’sir qiluvchi moddasi (leykotrienlar), eozinofil xemotaktik omili, bradikinin.",
+   "contextUz": "Mast hujayralar quyidagilarni çiqaradi: gistamin, anafilaksiyaning sekin ta’sir qiluvçi moddasi (leykotrienlar), eozinofil xemotaktik omili, bradikinin.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2700,7 +2700,7 @@
    "id": "ch43-t-eozinofil-xemotaktik-omili",
    "termUz": "eozinofil xemotaktik omili",
    "original": null,
-   "contextUz": "Mast hujayralar quyidagilarni chiqaradi: gistamin, anafilaksiyaning sekin ta’sir qiluvchi moddasi (leykotrienlar), eozinofil xemotaktik omili, bradikinin.",
+   "contextUz": "Mast hujayralar quyidagilarni çiqaradi: gistamin, anafilaksiyaning sekin ta’sir qiluvçi moddasi (leykotrienlar), eozinofil xemotaktik omili, bradikinin.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2710,7 +2710,7 @@
    "id": "ch43-t-bradikinin",
    "termUz": "bradikinin",
    "original": null,
-   "contextUz": "Mast hujayralar quyidagilarni chiqaradi: gistamin, anafilaksiyaning sekin ta’sir qiluvchi moddasi (leykotrienlar), eozinofil xemotaktik omili, bradikinin.",
+   "contextUz": "Mast hujayralar quyidagilarni çiqaradi: gistamin, anafilaksiyaning sekin ta’sir qiluvçi moddasi (leykotrienlar), eozinofil xemotaktik omili, bradikinin.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2718,9 +2718,9 @@
   },
   {
    "id": "ch43-t-mahalliy-shish",
-   "termUz": "mahalliy shish",
+   "termUz": "mahalliy şiş",
    "original": null,
-   "contextUz": "Ularning, ayniqsa leykotrienlarning, birgalikdagi ta’siri: mayda bronxiolalar devorida mahalliy shish va bo’shliqqa quyuq shilliq ajralishi; bronxiola silliq mushagi spazmi.",
+   "contextUz": "Ularning, ayniqsa leykotrienlarning, birgalikdagi ta’siri: mayda bronxiolalar devorida mahalliy şiş va böşliqqa quyuq şilliq ajralişi; bronxiola silliq muşagi spazmi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2728,9 +2728,9 @@
   },
   {
    "id": "ch43-t-quyuq-shilliq",
-   "termUz": "quyuq shilliq",
+   "termUz": "quyuq şilliq",
    "original": null,
-   "contextUz": "Ularning, ayniqsa leykotrienlarning, birgalikdagi ta’siri: mayda bronxiolalar devorida mahalliy shish va bo’shliqqa quyuq shilliq ajralishi; bronxiola silliq mushagi spazmi.",
+   "contextUz": "Ularning, ayniqsa leykotrienlarning, birgalikdagi ta’siri: mayda bronxiolalar devorida mahalliy şiş va böşliqqa quyuq şilliq ajralişi; bronxiola silliq muşagi spazmi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2738,9 +2738,9 @@
   },
   {
    "id": "ch43-t-bronxiola-silliq-mushagi-spazmi",
-   "termUz": "bronxiola silliq mushagi spazmi",
+   "termUz": "bronxiola silliq muşagi spazmi",
    "original": null,
-   "contextUz": "Ularning, ayniqsa leykotrienlarning, birgalikdagi ta’siri: mayda bronxiolalar devorida mahalliy shish va bo’shliqqa quyuq shilliq ajralishi; bronxiola silliq mushagi spazmi.",
+   "contextUz": "Ularning, ayniqsa leykotrienlarning, birgalikdagi ta’siri: mayda bronxiolalar devorida mahalliy şiş va böşliqqa quyuq şilliq ajralişi; bronxiola silliq muşagi spazmi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2748,9 +2748,9 @@
   },
   {
    "id": "ch43-t-nafas-chiqarish-qiyin-bolishining-sababi",
-   "termUz": "Nafas chiqarish qiyin bo’lishining sababi",
+   "termUz": "Nafas çiqariş qiyin bölişining sababi",
    "original": null,
-   "contextUz": "Nafas chiqarish qiyin bo’lishining sababi: nafas chiqarish kuchi bronxiolalarni tashqaridan siqadi.",
+   "contextUz": "Nafas çiqariş qiyin bölişining sababi: nafas çiqariş kuçi bronxiolalarni taşqaridan siqadi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2758,9 +2758,9 @@
   },
   {
    "id": "ch43-t-klinik-olchovlar",
-   "termUz": "Klinik o’lchovlar",
+   "termUz": "Klinik ölçovlar",
    "original": null,
-   "contextUz": "Klinik o’lchovlar: maksimal nafas chiqarish tezligi keskin kamaygan; vaqt bo’yicha nafas chiqarish hajmi (FEV₁) kamaygan; hansirash (\"havo tanqisligi\").",
+   "contextUz": "Klinik ölçovlar: maksimal nafas çiqariş tezligi keskin kamaygan; vaqt böyiça nafas çiqariş hajmi (FEV₁) kamaygan; hansiraş (“havo tanqisligi”).",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2768,9 +2768,9 @@
   },
   {
    "id": "ch43-t-otkir-xurujda",
-   "termUz": "O’tkir xurujda",
+   "termUz": "Ötkir xurujda",
    "original": null,
-   "contextUz": "O’tkir xurujda FRC va RV keskin ortadi.",
+   "contextUz": "Ötkir xurujda FRC va RV keskin ortadi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2780,7 +2780,7 @@
    "id": "ch43-t-yillar-davomida",
    "termUz": "Yillar davomida",
    "original": null,
-   "contextUz": "Yillar davomida ko’krak qafasi doimiy kengayadi (\"bochkasimon ko’krak\"), FRC va RV doimiy ortgan holda qoladi.",
+   "contextUz": "Yillar davomida kökrak qafasi doimiy kengayadi (“boçkasimon kökrak”), FRC va RV doimiy ortgan holda qoladi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2788,9 +2788,9 @@
   },
   {
    "id": "ch43-t-bochkasimon-kokrak",
-   "termUz": "\"bochkasimon ko’krak\"",
+   "termUz": "“boçkasimon kökrak”",
    "original": null,
-   "contextUz": "Yillar davomida ko’krak qafasi doimiy kengayadi (\"bochkasimon ko’krak\"), FRC va RV doimiy ortgan holda qoladi.",
+   "contextUz": "Yillar davomida kökrak qafasi doimiy kengayadi (“boçkasimon kökrak”), FRC va RV doimiy ortgan holda qoladi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2798,9 +2798,9 @@
   },
   {
    "id": "ch43-t-devor-bilan-oraladi",
-   "termUz": "\"devor bilan o’raladi\"",
+   "termUz": "“devor bilan öraladi”",
    "original": null,
-   "contextUz": "Mexanizm: sil tayoqchasi o’ziga xos to’qima reaksiyasini chaqiradi: infeksiyalangan to’qimaga makrofaglar kiradi; o’choq fibroz to’qima bilan \"devor bilan o’raladi\" va tuberkula hosil bo’ladi (34-bob).",
+   "contextUz": "Mexanizm: sil tayoqçasi öziga xos töqima reaksiyasini çaqiradi: infeksiyalangan töqimaga makrofaglar kiradi; öçoq fibroz töqima bilan “devor bilan öraladi” va tuberkula hosil böladi (34-bob).",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2810,7 +2810,7 @@
    "id": "ch43-t-tuberkula",
    "termUz": "tuberkula",
    "original": null,
-   "contextUz": "Mexanizm: sil tayoqchasi o’ziga xos to’qima reaksiyasini chaqiradi: infeksiyalangan to’qimaga makrofaglar kiradi; o’choq fibroz to’qima bilan \"devor bilan o’raladi\" va tuberkula hosil bo’ladi (34-bob).",
+   "contextUz": "Mexanizm: sil tayoqçasi öziga xos töqima reaksiyasini çaqiradi: infeksiyalangan töqimaga makrofaglar kiradi; öçoq fibroz töqima bilan “devor bilan öraladi” va tuberkula hosil böladi (34-bob).",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2820,7 +2820,7 @@
    "id": "ch43-t-3",
    "termUz": "3%",
    "original": null,
-   "contextUz": "Davolanmagan bemorlarning ~3% ida o’rash muvaffaqiyatsiz bo’ladi.",
+   "contextUz": "Davolanmagan bemorlarning ~3% ida öraş muvaffaqiyatsiz böladi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2828,9 +2828,9 @@
   },
   {
    "id": "ch43-t-abssess-boshliqlari-kavernalar",
-   "termUz": "abssess bo’shliqlari (kavernalar)",
+   "termUz": "abssess böşliqlari (kavernalar)",
    "original": null,
-   "contextUz": "Tayoqchalar butun o’pkaga tarqalib, to’qimani kuchli yemiradi va katta abssess bo’shliqlari (kavernalar) hosil qiladi.",
+   "contextUz": "Tayoqçalar butun öpkaga tarqalib, töqimani kuçli yemiradi va katta abssess böşliqlari (kavernalar) hosil qiladi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2838,9 +2838,9 @@
   },
   {
    "id": "ch43-t-kech-bosqichda",
-   "termUz": "Kech bosqichda",
+   "termUz": "Keç bosqiçda",
    "original": null,
-   "contextUz": "Kech bosqichda ko’p fibroz sohalar va funksional to’qima kamayishi kuzatiladi.",
+   "contextUz": "Keç bosqiçda köp fibroz sohalar va funksional töqima kamayişi kuzatiladi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2848,9 +2848,9 @@
   },
   {
    "id": "ch43-t-opkada-qonning-yetarli-oksigenlanmasligi-tashqi-sabablar",
-   "termUz": "O’pkada qonning yetarli oksigenlanmasligi (tashqi sabablar)",
+   "termUz": "Öpkada qonning yetarli oksigenlanmasligi (taşqi sabablar)",
    "original": null,
-   "contextUz": "O’pkada qonning yetarli oksigenlanmasligi (tashqi sabablar): a.",
+   "contextUz": "Öpkada qonning yetarli oksigenlanmasligi (taşqi sabablar): a.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2858,9 +2858,9 @@
   },
   {
    "id": "ch43-t-opka-kasalligi",
-   "termUz": "O’pka kasalligi",
+   "termUz": "Öpka kasalligi",
    "original": null,
-   "contextUz": "O’pka kasalligi: a.",
+   "contextUz": "Öpka kasalligi: a.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2868,9 +2868,9 @@
   },
   {
    "id": "ch43-t-venoz-arterial-ongdan-chapga-yurak-shuntlari",
-   "termUz": "Venoz-arterial (o’ngdan chapga) yurak shuntlari.",
+   "termUz": "Venoz-arterial (öngdan çapga) yurak şuntlari.",
    "original": null,
-   "contextUz": "Venoz-arterial (o’ngdan chapga) yurak shuntlari. To’qimalarga O₂ ning qon bilan yetarli tashilmasligi: a.",
+   "contextUz": "Venoz-arterial (öngdan çapga) yurak şuntlari. Töqimalarga O₂ ning qon bilan yetarli taşilmasligi: a.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2878,9 +2878,9 @@
   },
   {
    "id": "ch43-t-toqimalarga-o-ning-qon-bilan-yetarli-tashilmasligi",
-   "termUz": "To’qimalarga O₂ ning qon bilan yetarli tashilmasligi",
+   "termUz": "Töqimalarga O₂ ning qon bilan yetarli taşilmasligi",
    "original": null,
-   "contextUz": " To’qimalarga O₂ ning qon bilan yetarli tashilmasligi: a.",
+   "contextUz": " Töqimalarga O₂ ning qon bilan yetarli taşilmasligi: a.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2888,9 +2888,9 @@
   },
   {
    "id": "ch43-t-toqimaning-o-dan-foydalana-olmasligi",
-   "termUz": "To’qimaning O₂ dan foydalana olmasligi",
+   "termUz": "Töqimaning O₂ dan foydalana olmasligi",
    "original": null,
-   "contextUz": "To’qimaning O₂ dan foydalana olmasligi: a.",
+   "contextUz": "Töqimaning O₂ dan foydalana olmasligi: a.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2898,9 +2898,9 @@
   },
   {
    "id": "ch43-t-sianid-bilan-zaharlanish",
-   "termUz": "sianid bilan zaharlanish",
+   "termUz": "sianid bilan zaharlaniş",
    "original": null,
-   "contextUz": "Klassik misol sianid bilan zaharlanish: sianid sitoxrom oksidazani bloklaydi.",
+   "contextUz": "Klassik misol sianid bilan zaharlaniş: sianid sitoxrom oksidazani bloklaydi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2910,7 +2910,7 @@
    "id": "ch43-t-sitoxrom-oksidaza",
    "termUz": "sitoxrom oksidaza",
    "original": null,
-   "contextUz": "Klassik misol sianid bilan zaharlanish: sianid sitoxrom oksidazani bloklaydi.",
+   "contextUz": "Klassik misol sianid bilan zaharlaniş: sianid sitoxrom oksidazani bloklaydi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2920,7 +2920,7 @@
    "id": "ch43-t-beriberi",
    "termUz": "Beriberi",
    "original": "B vitamini yetishmovchiligi",
-   "contextUz": "Beriberi (B vitamini yetishmovchiligi): to’qima O₂ dan foydalanishi va CO₂ hosil qilishining bir necha bosqichi buziladi.",
+   "contextUz": "Beriberi (B vitamini yetişmovçiligi): töqima O₂ dan foydalanişi va CO₂ hosil qilişining bir neça bosqiçi buziladi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2930,7 +2930,7 @@
    "id": "ch43-t-gipoksiyaning-tasiri",
    "termUz": "Gipoksiyaning ta’siri",
    "original": null,
-   "contextUz": "Gipoksiyaning ta’siri: og’ir bo’lsa, butun tanada hujayra o’limi.",
+   "contextUz": "Gipoksiyaning ta’siri: oğir bölsa, butun tanada hujayra ölimi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2938,9 +2938,9 @@
   },
   {
    "id": "ch43-t-berish-usullari",
-   "termUz": "Berish usullari",
+   "termUz": "Beriş usullari",
    "original": null,
-   "contextUz": "Berish usullari: (1) bemorning boshi O₂ bilan boyitilgan havoli \"chodir\"ga qo’yiladi; (2) niqob orqali toza yoki yuqori konsentratsiyali O₂; (3) burun ichi naychasi.",
+   "contextUz": "Beriş usullari: (1) bemorning boşi O₂ bilan boyitilgan havoli “çodir”ga qöyiladi; (2) niqob orqali toza yoki yuqori konsentratsiyali O₂; (3) burun içi nayçasi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2948,9 +2948,9 @@
   },
   {
    "id": "ch43-t-chodir",
-   "termUz": "\"chodir\"",
+   "termUz": "“çodir”",
    "original": null,
-   "contextUz": "Berish usullari: (1) bemorning boshi O₂ bilan boyitilgan havoli \"chodir\"ga qo’yiladi; (2) niqob orqali toza yoki yuqori konsentratsiyali O₂; (3) burun ichi naychasi.",
+   "contextUz": "Beriş usullari: (1) bemorning boşi O₂ bilan boyitilgan havoli “çodir”ga qöyiladi; (2) niqob orqali toza yoki yuqori konsentratsiyali O₂; (3) burun içi nayçasi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2960,7 +2960,7 @@
    "id": "ch43-t-niqob",
    "termUz": "niqob",
    "original": null,
-   "contextUz": "Berish usullari: (1) bemorning boshi O₂ bilan boyitilgan havoli \"chodir\"ga qo’yiladi; (2) niqob orqali toza yoki yuqori konsentratsiyali O₂; (3) burun ichi naychasi.",
+   "contextUz": "Beriş usullari: (1) bemorning boşi O₂ bilan boyitilgan havoli “çodir”ga qöyiladi; (2) niqob orqali toza yoki yuqori konsentratsiyali O₂; (3) burun içi nayçasi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2968,9 +2968,9 @@
   },
   {
    "id": "ch43-t-burun-ichi-naychasi",
-   "termUz": "burun ichi naychasi",
+   "termUz": "burun içi nayçasi",
    "original": null,
-   "contextUz": "Berish usullari: (1) bemorning boshi O₂ bilan boyitilgan havoli \"chodir\"ga qo’yiladi; (2) niqob orqali toza yoki yuqori konsentratsiyali O₂; (3) burun ichi naychasi.",
+   "contextUz": "Beriş usullari: (1) bemorning boşi O₂ bilan boyitilgan havoli “çodir”ga qöyiladi; (2) niqob orqali toza yoki yuqori konsentratsiyali O₂; (3) burun içi nayçasi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2980,7 +2980,7 @@
    "id": "ch43-t-atmosfera-gipoksiyasi",
    "termUz": "Atmosfera gipoksiyasi",
    "original": null,
-   "contextUz": "Gipoksiya turi O₂ terapiyasining samarasi Atmosfera gipoksiyasi 100% samarali: nafas olinadigan gazdagi O₂ kamligini to’liq tuzatadi Gipoventilyatsiya juda foydali: 100% O₂ bilan har nafasda alveolaga 5 marta ko’p O₂ kiradi.",
+   "contextUz": "Gipoksiya turi O₂ terapiyasining samarasi Atmosfera gipoksiyasi 100% samarali: nafas olinadigan gazdagi O₂ kamligini töliq tuzatadi Gipoventilyatsiya juda foydali: 100% O₂ bilan har nafasda alveolaga 5 marta köp O₂ kiradi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -2990,7 +2990,7 @@
    "id": "ch43-t-100-samarali",
    "termUz": "100% samarali",
    "original": null,
-   "contextUz": "Gipoksiya turi O₂ terapiyasining samarasi Atmosfera gipoksiyasi 100% samarali: nafas olinadigan gazdagi O₂ kamligini to’liq tuzatadi Gipoventilyatsiya juda foydali: 100% O₂ bilan har nafasda alveolaga 5 marta ko’p O₂ kiradi.",
+   "contextUz": "Gipoksiya turi O₂ terapiyasining samarasi Atmosfera gipoksiyasi 100% samarali: nafas olinadigan gazdagi O₂ kamligini töliq tuzatadi Gipoventilyatsiya juda foydali: 100% O₂ bilan har nafasda alveolaga 5 marta köp O₂ kiradi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3000,7 +3000,7 @@
    "id": "ch43-t-gipoventilyatsiya",
    "termUz": "Gipoventilyatsiya",
    "original": null,
-   "contextUz": "Gipoksiya turi O₂ terapiyasining samarasi Atmosfera gipoksiyasi 100% samarali: nafas olinadigan gazdagi O₂ kamligini to’liq tuzatadi Gipoventilyatsiya juda foydali: 100% O₂ bilan har nafasda alveolaga 5 marta ko’p O₂ kiradi.",
+   "contextUz": "Gipoksiya turi O₂ terapiyasining samarasi Atmosfera gipoksiyasi 100% samarali: nafas olinadigan gazdagi O₂ kamligini töliq tuzatadi Gipoventilyatsiya juda foydali: 100% O₂ bilan har nafasda alveolaga 5 marta köp O₂ kiradi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3010,7 +3010,7 @@
    "id": "ch43-t-5-marta",
    "termUz": "5 marta",
    "original": null,
-   "contextUz": "Gipoksiya turi O₂ terapiyasining samarasi Atmosfera gipoksiyasi 100% samarali: nafas olinadigan gazdagi O₂ kamligini to’liq tuzatadi Gipoventilyatsiya juda foydali: 100% O₂ bilan har nafasda alveolaga 5 marta ko’p O₂ kiradi.",
+   "contextUz": "Gipoksiya turi O₂ terapiyasining samarasi Atmosfera gipoksiyasi 100% samarali: nafas olinadigan gazdagi O₂ kamligini töliq tuzatadi Gipoventilyatsiya juda foydali: 100% O₂ bilan har nafasda alveolaga 5 marta köp O₂ kiradi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3018,9 +3018,9 @@
   },
   {
    "id": "ch43-t-ortiqcha-co-ga-foyda-yoq",
-   "termUz": "ortiqcha CO₂ ga foyda yo’q",
+   "termUz": "ortiqça CO₂ ga foyda yöq",
    "original": null,
-   "contextUz": "Lekin ortiqcha CO₂ ga foyda yo’q Diffuziya buzilishi juda foydali: alveolyar PO₂ ~100 dan 600 mm Hg gacha ko’tariladi, diffuziya gradiyenti 60 dan 560 mm Hg gacha (>800%) ortadi.",
+   "contextUz": "Lekin ortiqça CO₂ ga foyda yöq Diffuziya buzilişi juda foydali: alveolyar PO₂ ~100 dan 600 mm Hg gaça kötariladi, diffuziya gradiyenti 60 dan 560 mm Hg gaça (>800%) ortadi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3028,9 +3028,9 @@
   },
   {
    "id": "ch43-t-diffuziya-buzilishi",
-   "termUz": "Diffuziya buzilishi",
+   "termUz": "Diffuziya buzilişi",
    "original": null,
-   "contextUz": "Lekin ortiqcha CO₂ ga foyda yo’q Diffuziya buzilishi juda foydali: alveolyar PO₂ ~100 dan 600 mm Hg gacha ko’tariladi, diffuziya gradiyenti 60 dan 560 mm Hg gacha (>800%) ortadi.",
+   "contextUz": "Lekin ortiqça CO₂ ga foyda yöq Diffuziya buzilişi juda foydali: alveolyar PO₂ ~100 dan 600 mm Hg gaça kötariladi, diffuziya gradiyenti 60 dan 560 mm Hg gaça (>800%) ortadi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3040,7 +3040,7 @@
    "id": "ch43-t-600-mm-hg",
    "termUz": "600 mm Hg",
    "original": null,
-   "contextUz": "Lekin ortiqcha CO₂ ga foyda yo’q Diffuziya buzilishi juda foydali: alveolyar PO₂ ~100 dan 600 mm Hg gacha ko’tariladi, diffuziya gradiyenti 60 dan 560 mm Hg gacha (>800%) ortadi.",
+   "contextUz": "Lekin ortiqça CO₂ ga foyda yöq Diffuziya buzilişi juda foydali: alveolyar PO₂ ~100 dan 600 mm Hg gaça kötariladi, diffuziya gradiyenti 60 dan 560 mm Hg gaça (>800%) ortadi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3050,7 +3050,7 @@
    "id": "ch43-t-560-mm-hg",
    "termUz": "560 mm Hg",
    "original": null,
-   "contextUz": "Lekin ortiqcha CO₂ ga foyda yo’q Diffuziya buzilishi juda foydali: alveolyar PO₂ ~100 dan 600 mm Hg gacha ko’tariladi, diffuziya gradiyenti 60 dan 560 mm Hg gacha (>800%) ortadi.",
+   "contextUz": "Lekin ortiqça CO₂ ga foyda yöq Diffuziya buzilişi juda foydali: alveolyar PO₂ ~100 dan 600 mm Hg gaça kötariladi, diffuziya gradiyenti 60 dan 560 mm Hg gaça (>800%) ortadi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3060,7 +3060,7 @@
    "id": "ch43-t-3-4-marta",
    "termUz": "3–4 marta",
    "original": null,
-   "contextUz": "O’pka shishida (rasm 43-8) qon O₂ ni 3–4 marta tezroq oladi Anemiya, anomal Hb, qon aylanish yetishmovchiligi, fiziologik shunt kam foyda: alveolada O₂ normal, muammo tashishda.",
+   "contextUz": "Öpka şişida (rasm 43-8) qon O₂ ni 3–4 marta tezroq oladi Anemiya, anomal Hb, qon aylaniş yetişmovçiligi, fiziologik shunt kam foyda: alveolada O₂ normal, muammo taşişda.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3068,9 +3068,9 @@
   },
   {
    "id": "ch43-t-anemiya-anomal-hb-qon-aylanish-yetishmovchiligi-fiziologik-s",
-   "termUz": "Anemiya, anomal Hb, qon aylanish yetishmovchiligi, fiziologik shunt",
+   "termUz": "Anemiya, anomal Hb, qon aylaniş yetişmovçiligi, fiziologik shunt",
    "original": null,
-   "contextUz": "O’pka shishida (rasm 43-8) qon O₂ ni 3–4 marta tezroq oladi Anemiya, anomal Hb, qon aylanish yetishmovchiligi, fiziologik shunt kam foyda: alveolada O₂ normal, muammo tashishda.",
+   "contextUz": "Öpka şişida (rasm 43-8) qon O₂ ni 3–4 marta tezroq oladi Anemiya, anomal Hb, qon aylaniş yetişmovçiligi, fiziologik shunt kam foyda: alveolada O₂ normal, muammo taşişda.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3080,7 +3080,7 @@
    "id": "ch43-t-7-30",
    "termUz": "7–30%",
    "original": null,
-   "contextUz": "Biroq erigan holda 7–30% qo’shimcha O₂ tashilishi mumkin, bu hayot va o’lim o’rtasidagi farq bo’lishi mumkin To’qima O₂ dan foydalana olmasligi (sianid va boshqalar) foyda yo’q: O₂ yetkaziladi, lekin fermentlar ishlatolmaydi",
+   "contextUz": "Biroq erigan holda 7–30% qöşimça O₂ taşilişi mumkin, bu hayot va ölim örtasidagi farq bölişi mumkin Töqima O₂ dan foydalana olmasligi (sianid va boşqalar) foyda yöq: O₂ yetkaziladi, lekin fermentlar işlatolmaydi",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3088,9 +3088,9 @@
   },
   {
    "id": "ch43-t-toqima-o-dan-foydalana-olmasligi",
-   "termUz": "To’qima O₂ dan foydalana olmasligi",
+   "termUz": "Töqima O₂ dan foydalana olmasligi",
    "original": "sianid va boshqalar",
-   "contextUz": "Biroq erigan holda 7–30% qo’shimcha O₂ tashilishi mumkin, bu hayot va o’lim o’rtasidagi farq bo’lishi mumkin To’qima O₂ dan foydalana olmasligi (sianid va boshqalar) foyda yo’q: O₂ yetkaziladi, lekin fermentlar ishlatolmaydi",
+   "contextUz": "Biroq erigan holda 7–30% qöşimça O₂ taşilişi mumkin, bu hayot va ölim örtasidagi farq bölişi mumkin Töqima O₂ dan foydalana olmasligi (sianid va boşqalar) foyda yöq: O₂ yetkaziladi, lekin fermentlar işlatolmaydi",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3098,9 +3098,9 @@
   },
   {
    "id": "ch43-t-foyda-yoq",
-   "termUz": "foyda yo’q",
+   "termUz": "foyda yöq",
    "original": null,
-   "contextUz": "Biroq erigan holda 7–30% qo’shimcha O₂ tashilishi mumkin, bu hayot va o’lim o’rtasidagi farq bo’lishi mumkin To’qima O₂ dan foydalana olmasligi (sianid va boshqalar) foyda yo’q: O₂ yetkaziladi, lekin fermentlar ishlatolmaydi",
+   "contextUz": "Biroq erigan holda 7–30% qöşimça O₂ taşilişi mumkin, bu hayot va ölim örtasidagi farq bölişi mumkin Töqima O₂ dan foydalana olmasligi (sianid va boşqalar) foyda yöq: O₂ yetkaziladi, lekin fermentlar işlatolmaydi",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3110,7 +3110,7 @@
    "id": "ch43-t-deoksigenlangan-gemoglobin",
    "termUz": "deoksigenlangan gemoglobin",
    "original": null,
-   "contextUz": "Teri tomirlarida, ayniqsa kapillyarlarda, ko’p deoksigenlangan gemoglobin bo’ladi.",
+   "contextUz": "Teri tomirlarida, ayniqsa kapillyarlarda, köp deoksigenlangan gemoglobin böladi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3118,9 +3118,9 @@
   },
   {
    "id": "ch43-t-chegara",
-   "termUz": "Chegara",
+   "termUz": "Çegara",
    "original": null,
-   "contextUz": "Chegara: arterial qonda >5 g/100 ml deoksigenlangan Hb.",
+   "contextUz": "Çegara: arterial qonda >5 g/100 ml deoksigenlangan Hb.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3130,7 +3130,7 @@
    "id": "ch43-t-5-g-100-ml",
    "termUz": ">5 g/100 ml",
    "original": null,
-   "contextUz": "Chegara: arterial qonda >5 g/100 ml deoksigenlangan Hb.",
+   "contextUz": "Çegara: arterial qonda >5 g/100 ml deoksigenlangan Hb.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3140,7 +3140,7 @@
    "id": "ch43-t-anemiyada",
    "termUz": "Anemiyada",
    "original": null,
-   "contextUz": "Anemiyada deyarli hech qachon bo’lmaydi: 100 ml qonda 5 g deoksigenlanadigan Hb yo’q.",
+   "contextUz": "Anemiyada deyarli heç qaçon bölmaydi: 100 ml qonda 5 g deoksigenlanadigan Hb yöq.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3150,7 +3150,7 @@
    "id": "ch43-t-polisitemiya-vera",
    "termUz": "Polisitemiya vera",
    "original": null,
-   "contextUz": "Polisitemiya verada tez-tez uchraydi: Hb juda ko’p, hatto normal sharoitda ham.",
+   "contextUz": "Polisitemiya verada tez-tez uçraydi: Hb juda köp, hatto normal şaroitda ham.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3158,9 +3158,9 @@
   },
   {
    "id": "ch43-t-gipoksiya-bilan-birga-qachon-keladi",
-   "termUz": "Gipoksiya bilan birga qachon keladi",
+   "termUz": "Gipoksiya bilan birga qaçon keladi",
    "original": null,
-   "contextUz": "Gipoksiya bilan birga qachon keladi:",
+   "contextUz": "Gipoksiya bilan birga qaçon keladi:",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3168,9 +3168,9 @@
   },
   {
    "id": "ch43-t-yoq",
-   "termUz": "yo’q",
+   "termUz": "yöq",
    "original": "faqat O₂ mavjudligi yoki ishlatilishi buzilgan",
-   "contextUz": "Gipoksiya sababi Giperkapniya Havoda O₂ kam, Hb kam, fermentlar zaharlanishi yo’q (faqat O₂ mavjudligi yoki ishlatilishi buzilgan) Diffuziya buzilishi (membrana yoki to’qima) odatda jiddiy emas: CO₂ 20 marta tez diffuziyalanadi.",
+   "contextUz": "Gipoksiya sababi Giperkapniya Havoda O₂ kam, Hb kam, fermentlar zaharlanişi yöq (faqat O₂ mavjudligi yoki işlatilişi buzilgan) Diffuziya buzilişi (membrana yoki töqima) odatda jiddiy emas: CO₂ 20 marta tez diffuziyalanadi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3180,7 +3180,7 @@
    "id": "ch43-t-jiddiy-emas",
    "termUz": "jiddiy emas",
    "original": null,
-   "contextUz": "Gipoksiya sababi Giperkapniya Havoda O₂ kam, Hb kam, fermentlar zaharlanishi yo’q (faqat O₂ mavjudligi yoki ishlatilishi buzilgan) Diffuziya buzilishi (membrana yoki to’qima) odatda jiddiy emas: CO₂ 20 marta tez diffuziyalanadi.",
+   "contextUz": "Gipoksiya sababi Giperkapniya Havoda O₂ kam, Hb kam, fermentlar zaharlanişi yöq (faqat O₂ mavjudligi yoki işlatilişi buzilgan) Diffuziya buzilişi (membrana yoki töqima) odatda jiddiy emas: CO₂ 20 marta tez diffuziyalanadi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3190,7 +3190,7 @@
    "id": "ch43-t-ha",
    "termUz": "ha",
    "original": null,
-   "contextUz": "Giperkapniya boshlansa, ventilyatsiyani qo’zg’atib uni tuzatadi (lekin gipoksiyani tuzatmaydi) Gipoventilyatsiya ha: CO₂ almashinuvi O₂ niki kabi buziladi Qon aylanish yetishmovchiligi to’qima giperkapniyasi bor, lekin gipoksiyadan kam: qonning CO₂ tashish sig’imi O₂ nikidan 3 martadan ko’p",
+   "contextUz": "Giperkapniya boşlansa, ventilyatsiyani qözğatib uni tuzatadi (lekin gipoksiyani tuzatmaydi) Gipoventilyatsiya ha: CO₂ almaşinuvi O₂ niki kabi buziladi Qon aylaniş yetişmovçiligi töqima giperkapniyasi bor, lekin gipoksiyadan kam: qonning CO₂ taşiş siğimi O₂ nikidan 3 martadan köp",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3198,9 +3198,9 @@
   },
   {
    "id": "ch43-t-qon-aylanish-yetishmovchiligi",
-   "termUz": "Qon aylanish yetishmovchiligi",
+   "termUz": "Qon aylaniş yetişmovçiligi",
    "original": null,
-   "contextUz": "Giperkapniya boshlansa, ventilyatsiyani qo’zg’atib uni tuzatadi (lekin gipoksiyani tuzatmaydi) Gipoventilyatsiya ha: CO₂ almashinuvi O₂ niki kabi buziladi Qon aylanish yetishmovchiligi to’qima giperkapniyasi bor, lekin gipoksiyadan kam: qonning CO₂ tashish sig’imi O₂ nikidan 3 martadan ko’p",
+   "contextUz": "Giperkapniya boşlansa, ventilyatsiyani qözğatib uni tuzatadi (lekin gipoksiyani tuzatmaydi) Gipoventilyatsiya ha: CO₂ almaşinuvi O₂ niki kabi buziladi Qon aylaniş yetişmovçiligi töqima giperkapniyasi bor, lekin gipoksiyadan kam: qonning CO₂ taşiş siğimi O₂ nikidan 3 martadan köp",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3210,7 +3210,7 @@
    "id": "ch43-t-3-martadan",
    "termUz": "3 martadan",
    "original": null,
-   "contextUz": "Giperkapniya boshlansa, ventilyatsiyani qo’zg’atib uni tuzatadi (lekin gipoksiyani tuzatmaydi) Gipoventilyatsiya ha: CO₂ almashinuvi O₂ niki kabi buziladi Qon aylanish yetishmovchiligi to’qima giperkapniyasi bor, lekin gipoksiyadan kam: qonning CO₂ tashish sig’imi O₂ nikidan 3 martadan ko’p",
+   "contextUz": "Giperkapniya boşlansa, ventilyatsiyani qözğatib uni tuzatadi (lekin gipoksiyani tuzatmaydi) Gipoventilyatsiya ha: CO₂ almaşinuvi O₂ niki kabi buziladi Qon aylaniş yetişmovçiligi töqima giperkapniyasi bor, lekin gipoksiyadan kam: qonning CO₂ taşiş siğimi O₂ nikidan 3 martadan köp",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3228,9 +3228,9 @@
   },
   {
    "id": "ch43-t-ogir-hansirash",
-   "termUz": "og’ir hansirash",
+   "termUz": "oğir hansiraş",
    "original": null,
-   "contextUz": "Alveolyar PCO₂ Holat 60–75 mm Hg odam maksimal tez va chuqur nafas oladi, og’ir hansirash 80–100 mm Hg letargiya, yarim koma 120–150 mm Hg anesteziya va o’lim",
+   "contextUz": "Alveolyar PCO₂ Holat 60–75 mm Hg odam maksimal tez va çuqur nafas oladi, oğir hansiraş 80–100 mm Hg letargiya, yarim koma 120–150 mm Hg anesteziya va ölim",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3240,7 +3240,7 @@
    "id": "ch43-t-letargiya",
    "termUz": "letargiya",
    "original": null,
-   "contextUz": "Alveolyar PCO₂ Holat 60–75 mm Hg odam maksimal tez va chuqur nafas oladi, og’ir hansirash 80–100 mm Hg letargiya, yarim koma 120–150 mm Hg anesteziya va o’lim",
+   "contextUz": "Alveolyar PCO₂ Holat 60–75 mm Hg odam maksimal tez va çuqur nafas oladi, oğir hansiraş 80–100 mm Hg letargiya, yarim koma 120–150 mm Hg anesteziya va ölim",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3248,9 +3248,9 @@
   },
   {
    "id": "ch43-t-anesteziya-va-olim",
-   "termUz": "anesteziya va o’lim",
+   "termUz": "anesteziya va ölim",
    "original": null,
-   "contextUz": "Alveolyar PCO₂ Holat 60–75 mm Hg odam maksimal tez va chuqur nafas oladi, og’ir hansirash 80–100 mm Hg letargiya, yarim koma 120–150 mm Hg anesteziya va o’lim",
+   "contextUz": "Alveolyar PCO₂ Holat 60–75 mm Hg odam maksimal tez va çuqur nafas oladi, oğir hansiraş 80–100 mm Hg letargiya, yarim koma 120–150 mm Hg anesteziya va ölim",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3260,7 +3260,7 @@
    "id": "ch43-t-ayovsiz-doira",
    "termUz": "Ayovsiz doira",
    "original": null,
-   "contextUz": "Ayovsiz doira: yuqori PCO₂ endi nafasni qo’zg’atmaydi, aksincha tormozlaydi.",
+   "contextUz": "Ayovsiz doira: yuqori PCO₂ endi nafasni qözğatmaydi, aksinça tormozlaydi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3270,7 +3270,7 @@
    "id": "ch43-t-tormozlaydi",
    "termUz": "tormozlaydi",
    "original": null,
-   "contextUz": "Ayovsiz doira: yuqori PCO₂ endi nafasni qo’zg’atmaydi, aksincha tormozlaydi.",
+   "contextUz": "Ayovsiz doira: yuqori PCO₂ endi nafasni qözğatmaydi, aksinça tormozlaydi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3278,9 +3278,9 @@
   },
   {
    "id": "ch43-t-uch-omil",
-   "termUz": "Uch omil",
+   "termUz": "Uç omil",
    "original": null,
-   "contextUz": "Uch omil: Nafas gazlari anomaliyasi, ayniqsa giperkapniya; gipoksiya ancha kamroq.",
+   "contextUz": "Uç omil: Nafas gazlari anomaliyasi, ayniqsa giperkapniya; gipoksiya ança kamroq.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3290,7 +3290,7 @@
    "id": "ch43-t-nafas-gazlari-anomaliyasi",
    "termUz": "Nafas gazlari anomaliyasi",
    "original": null,
-   "contextUz": "Uch omil: Nafas gazlari anomaliyasi, ayniqsa giperkapniya; gipoksiya ancha kamroq.",
+   "contextUz": "Uç omil: Nafas gazlari anomaliyasi, ayniqsa giperkapniya; gipoksiya ança kamroq.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3300,7 +3300,7 @@
    "id": "ch43-t-giperkapniya",
    "termUz": "giperkapniya",
    "original": null,
-   "contextUz": "Uch omil: Nafas gazlari anomaliyasi, ayniqsa giperkapniya; gipoksiya ancha kamroq.",
+   "contextUz": "Uç omil: Nafas gazlari anomaliyasi, ayniqsa giperkapniya; gipoksiya ança kamroq.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3308,9 +3308,9 @@
   },
   {
    "id": "ch43-t-nafas-mushaklarining-ishi",
-   "termUz": "Nafas mushaklarining ishi",
+   "termUz": "Nafas muşaklarining işi",
    "original": null,
-   "contextUz": "Nafas mushaklarining ishi: gazlar normal bo’lsa ham, buning uchun kuchli nafas olish kerak bo’lsa, hansirash seziladi.",
+   "contextUz": "Nafas muşaklarining işi: gazlar normal bölsa ham, buning uçun kuçli nafas oliş kerak bölsa, hansiraş seziladi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3320,7 +3320,7 @@
    "id": "ch43-t-ruhiy-holat",
    "termUz": "Ruhiy holat.",
    "original": null,
-   "contextUz": "Ruhiy holat. Ko’pchilik 1–2 daqiqa nafasni ushlagach og’ir hansirash sezadi.",
+   "contextUz": "Ruhiy holat. Köpçilik 1–2 daqiqa nafasni uşlagaç oğir hansiraş sezadi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3338,9 +3338,9 @@
   },
   {
    "id": "ch43-t-tuzilishi",
-   "termUz": "Tuzilishi",
+   "termUz": "Tuzilişi",
    "original": null,
-   "contextUz": "Tuzilishi: O₂ yoki havo ballon; vaqti-vaqti bilan musbat bosim (ba’zi apparatlarda manfiy ham) beruvchi mexanizm; yuz niqobi yoki endotraxeal naycha ulagichi.",
+   "contextUz": "Tuzilişi: O₂ yoki havo ballon; vaqti-vaqti bilan musbat bosim (ba’zi apparatlarda manfiy ham) beruvçi mexanizm; yuz niqobi yoki endotraxeal nayça ulagiçi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3350,7 +3350,7 @@
    "id": "ch43-t-musbat-bosim",
    "termUz": "musbat bosim",
    "original": "ba’zi apparatlarda manfiy ham",
-   "contextUz": "Tuzilishi: O₂ yoki havo ballon; vaqti-vaqti bilan musbat bosim (ba’zi apparatlarda manfiy ham) beruvchi mexanizm; yuz niqobi yoki endotraxeal naycha ulagichi.",
+   "contextUz": "Tuzilişi: O₂ yoki havo ballon; vaqti-vaqti bilan musbat bosim (ba’zi apparatlarda manfiy ham) beruvçi mexanizm; yuz niqobi yoki endotraxeal nayça ulagiçi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3358,9 +3358,9 @@
   },
   {
    "id": "ch43-t-endotraxeal-naycha",
-   "termUz": "endotraxeal naycha",
+   "termUz": "endotraxeal nayça",
    "original": null,
-   "contextUz": "Tuzilishi: O₂ yoki havo ballon; vaqti-vaqti bilan musbat bosim (ba’zi apparatlarda manfiy ham) beruvchi mexanizm; yuz niqobi yoki endotraxeal naycha ulagichi.",
+   "contextUz": "Tuzilişi: O₂ yoki havo ballon; vaqti-vaqti bilan musbat bosim (ba’zi apparatlarda manfiy ham) beruvçi mexanizm; yuz niqobi yoki endotraxeal nayça ulagiçi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3370,7 +3370,7 @@
    "id": "ch43-t-12-15-sm-h-o",
    "termUz": "12–15 sm H₂O",
    "original": null,
-   "contextUz": "Hozir bosim chegarasi sozlanadi: normal o’pkada 12–15 sm H₂O, komplians past o’pkada yuqoriroq.",
+   "contextUz": "Hozir bosim çegarasi sozlanadi: normal öpkada 12–15 sm H₂O, komplians past öpkada yuqoriroq.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3378,9 +3378,9 @@
   },
   {
    "id": "ch43-t-charm-diafragma",
-   "termUz": "charm diafragma",
+   "termUz": "çarm diafragma",
    "original": null,
-   "contextUz": "Motorli charm diafragma bak ichidagi bosimni o’zgartiradi: ichkariga harakatlanganda musbat bosim, nafas chiqarish (0 dan +5 sm H₂O); tashqariga harakatlanganda manfiy bosim, nafas olish (−10 dan −20 sm H₂O).",
+   "contextUz": "Motorli çarm diafragma bak içidagi bosimni özgartiradi: içkariga harakatlanganda musbat bosim, nafas çiqariş (0 dan +5 sm H₂O); taşqariga harakatlanganda manfiy bosim, nafas oliş (−10 dan −20 sm H₂O).",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3390,7 +3390,7 @@
    "id": "ch43-t-manfiy-bosim",
    "termUz": "manfiy bosim",
    "original": null,
-   "contextUz": "Motorli charm diafragma bak ichidagi bosimni o’zgartiradi: ichkariga harakatlanganda musbat bosim, nafas chiqarish (0 dan +5 sm H₂O); tashqariga harakatlanganda manfiy bosim, nafas olish (−10 dan −20 sm H₂O).",
+   "contextUz": "Motorli çarm diafragma bak içidagi bosimni özgartiradi: içkariga harakatlanganda musbat bosim, nafas çiqariş (0 dan +5 sm H₂O); taşqariga harakatlanganda manfiy bosim, nafas oliş (−10 dan −20 sm H₂O).",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3410,7 +3410,7 @@
    "id": "ch43-t-yurak-minutlik-hajmini",
    "termUz": "yurak minutlik hajmini",
    "original": null,
-   "contextUz": "Ortiqcha bosim yurak minutlik hajmini kamaytiradi, ba’zan o’lim darajasigacha.",
+   "contextUz": "Ortiqça bosim yurak minutlik hajmini kamaytiradi, ba’zan ölim darajasigaça.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3420,7 +3420,7 @@
    "id": "ch43-t-30-mm-hg",
    "termUz": ">30 mm Hg",
    "original": null,
-   "contextUz": "O’pkada >30 mm Hg musbat bosim bir necha daqiqadan ortiq davom etsa, venoz qaytish yetarli bo’lmagani sababli o’limga olib kelishi mumkin.",
+   "contextUz": "Öpkada >30 mm Hg musbat bosim bir neça daqiqadan ortiq davom etsa, venoz qaytiş yetarli bölmagani sababli ölimga olib kelişi mumkin.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3430,7 +3430,7 @@
    "id": "ch43-t-fev-fvc-80",
    "termUz": "FEV₁/FVC <80%",
    "original": null,
-   "contextUz": "FEV₁/FVC <80%: obstruksiya (astma, SOO’K).",
+   "contextUz": "FEV₁/FVC <80%: obstruksiya (astma, SOÖK).",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3450,7 +3450,7 @@
    "id": "ch43-t-emfizema",
    "termUz": "Emfizema",
    "original": null,
-   "contextUz": "Emfizema: shunt va o’lik bo’shliq birga; o’pka gipertenziyasi va o’ng yurak yetishmovchiligi.",
+   "contextUz": "Emfizema: shunt va ölik böşliq birga; öpka gipertenziyasi va öng yurak yetişmovçiligi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3460,7 +3460,7 @@
    "id": "ch43-t-pnevmoniya",
    "termUz": "Pnevmoniya",
    "original": "saturatsiya ~78%",
-   "contextUz": "Pnevmoniya (saturatsiya ~78%) va atelektaz (~91%) farqi gipoksik vazokonstriksiyaga bog’liq.",
+   "contextUz": "Pnevmoniya (saturatsiya ~78%) va atelektaz (~91%) farqi gipoksik vazokonstriksiyaga boğliq.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3470,7 +3470,7 @@
    "id": "ch43-t-atelektaz",
    "termUz": "atelektaz",
    "original": "~91%",
-   "contextUz": "Pnevmoniya (saturatsiya ~78%) va atelektaz (~91%) farqi gipoksik vazokonstriksiyaga bog’liq.",
+   "contextUz": "Pnevmoniya (saturatsiya ~78%) va atelektaz (~91%) farqi gipoksik vazokonstriksiyaga boğliq.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3480,7 +3480,7 @@
    "id": "ch43-t-astmada",
    "termUz": "Astmada",
    "original": null,
-   "contextUz": "Astmada nafas chiqarish qiyin; asosiy mediatorlar leykotrienlar.",
+   "contextUz": "Astmada nafas çiqariş qiyin; asosiy mediatorlar leykotrienlar.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3488,9 +3488,9 @@
   },
   {
    "id": "ch43-t-gipoventilyatsiyada-o-berish",
-   "termUz": "Gipoventilyatsiyada O₂ berish",
+   "termUz": "Gipoventilyatsiyada O₂ beriş",
    "original": null,
-   "contextUz": "Gipoventilyatsiyada O₂ berish: gipoksiyani tuzatadi, giperkapniyani tuzatmaydi.",
+   "contextUz": "Gipoventilyatsiyada O₂ beriş: gipoksiyani tuzatadi, giperkapniyani tuzatmaydi.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3498,9 +3498,9 @@
   },
   {
    "id": "ch43-t-sianid-zaharlanishi",
-   "termUz": "Sianid zaharlanishi",
+   "termUz": "Sianid zaharlanişi",
    "original": null,
-   "contextUz": "Sianid zaharlanishida O₂ befoyda.",
+   "contextUz": "Sianid zaharlanişida O₂ befoyda.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3508,9 +3508,9 @@
   },
   {
    "id": "ch43-t-anemiyada-sianoz-yoq",
-   "termUz": "Anemiyada sianoz yo’q",
+   "termUz": "Anemiyada sianoz yöq",
    "original": null,
-   "contextUz": "Anemiyada sianoz yo’q, polisitemiyada bor.",
+   "contextUz": "Anemiyada sianoz yöq, polisitemiyada bor.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",
@@ -3520,7 +3520,7 @@
    "id": "ch43-t-pco-120-mm-hg",
    "termUz": "PCO₂ >120 mm Hg",
    "original": null,
-   "contextUz": "PCO₂ >120 mm Hg: CO₂ narkozi va o’lim.",
+   "contextUz": "PCO₂ >120 mm Hg: CO₂ narkozi va ölim.",
    "lessonId": "ch43",
    "topicId": "07",
    "source": "summaryUz",

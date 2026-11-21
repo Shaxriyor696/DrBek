@@ -1,0 +1,221 @@
+{
+ "lessonId": "ch11",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 11,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "manual",
+ "translator": "Claude (DrStudy sessiyasi)",
+ "model": null,
+ "createdAt": "2026-11-18T06:09:40.868Z",
+ "updatedAt": "2026-11-18T06:09:40.869Z",
+ "coverage": {
+  "translated": 70,
+  "total": 70
+ },
+ "note": "Kitob matnining töliq özbekça tarjimasi (qisqartirilmagan). Ekspert tekşiruvidan ötmagan.",
+ "blocks": {
+  "ch11-f0": {
+   "text": "Yurak impulsi yurak böylab ötganda elektr toki yurakdan uni örab turgan qöşni töqimalarga ham tarqaladi. Tokning kiçik bir qismi tana yuzasigaça yetib boradi. Agar elektrodlar terining yurakka nisbatan qarama-qarşi tomonlariga qöyilsa, şu tok hosil qiladigan elektr potensiallarini qayd qiliş mumkin; bu yozuv _elektrokardiogramma_ (EKG) deb ataladi. Yurakning ikki qisqarişiga mos normal EKG **Rasm 11-1** da körsatilgan."
+  },
+  "ch11-f2": {
+   "text": "Normal elektrokardiogrammaning tölqin şakllari"
+  },
+  "ch11-f3": {
+   "text": "Normal EKG (qarang: **Rasm 11-1**) P tişçasi, QRS kompleksi va T tişçasidan iborat. QRS kompleksi köpinça, ammo har doim emas, uçta alohida tişçadan — Q, R va S tişçalaridan taşkil topadi."
+  },
+  "ch11-f4": {
+   "text": "_P tişçasi_ bölmaçalar qisqarişi boşlanişidan oldin ular depolyarizatsiyalanganda hosil böladigan elektr potensiallari tufayli yuzaga keladi. _QRS kompleksi_ qorinçalar qisqarişidan oldin ular depolyarizatsiyalanganda, ya’ni depolyarizatsiya tölqini qorinçalar böylab tarqalganda hosil böladigan potensiallar tufayli yuzaga keladi. Şuning uçun P tişçasi ham, QRS kompleksining tarkibiy qismlari ham _depolyarizatsiya tölqinlari_ hisoblanadi."
+  },
+  "ch11-f5": {
+   "text": "_T tişçasi_ qorinçalar depolyarizatsiyadan tiklanayotganda hosil böladigan potensiallar tufayli yuzaga keladi. Bu jarayon qorinça muskulida odatda depolyarizatsiyadan 0,25–0,35 soniya ötgaç keçadi. T tişçasi _repolyarizatsiya tölqini_ deb ataladi."
+  },
+  "ch11-f6": {
+   "text": "Şunday qilib, EKG depolyarizatsiya va repolyarizatsiya tölqinlaridan taşkil topgan. Depolyarizatsiya va repolyarizatsiya tamoyillari 5-bobda muhokama qilingan. Elektrokardiografiyada depolyarizatsiya tölqinlari bilan repolyarizatsiya tölqinlari örtasidagi farq şu qadar muhimki, uni yanada aniqlaştiriş zarur."
+  },
+  "ch11-f7": {
+   "text": "Yurakning depolyarizatsiya tölqinlari va repolyarizatsiya tölqinlari"
+  },
+  "ch11-f8": {
+   "text": "**Rasm 11-2** da yurakning bitta muskul tolasi depolyarizatsiya va repolyarizatsiyaning tört bosqiçida körsatilgan; qizil rang depolyarizatsiyani bildiradi. Depolyarizatsiya paytida tola içidagi normal manfiy potensial teskarisiga özgaradi: içkarisi biroz musbat, taşqarisi esa manfiy bölib qoladi."
+  },
+  "ch11-f10": {
+   "text": "**Rasm 11-2A** da içkaridagi qizil musbat zaryadlar va taşqaridagi qizil manfiy zaryadlar bilan körsatilgan depolyarizatsiya çapdan öngga tarqalmoqda. Tolaning birinçi yarmi allaqaçon depolyarizatsiyalangan, qolgan yarmi esa hali qutblangan holatda. Şuning uçun tola taşqarisidagi çap elektrod manfiylik sohasida, öng elektrod esa musbatlik sohasida joylaşgan bölib, bu ölçov asbobining musbat qayd etişiga sabab böladi. Muskul tolasining öng tomonida yuqori tezlikda qayd qiluvçi asbob yozib olgan ikki elektrod orasidagi potensial özgarişlari körsatilgan. E’tibor bering: **Rasm 11-2A** da depolyarizatsiya tolaning yarmiga yetganda öngdagi yozuv maksimal musbat qiymatgaça kötarilgan."
+  },
+  "ch11-f11": {
+   "text": "**Rasm 11-2B** da depolyarizatsiya butun muskul tolasiga tarqalgan va öngdagi yozuv nol izoliniyaga qaytgan, çunki endi ikkala elektrod ham bir xil manfiylik sohalarida joylaşgan. Tugallangan tölqin depolyarizatsiya tölqinidir, çunki u depolyarizatsiyaning muskul tolasi membranasi böylab tarqalişi natijasida yuzaga keladi."
+  },
+  "ch11-f12": {
+   "text": "**Rasm 11-2C** da öşa muskul tolasining yarmigaça repolyarizatsiyalangani körsatilgan: tola taşqarisiga musbatlik qaytmoqda. Bu nuqtada çap elektrod musbatlik sohasida, öng elektrod esa manfiylik sohasida joylaşgan. Bu qutblaniş **Rasm 11-2A** dagi qutblanişga qarama-qarşi. Natijada öngda körsatilganidek, yozuv manfiy böladi."
+  },
+  "ch11-f13": {
+   "text": "**Rasm 11-2D** da muskul tolasi töliq repolyarizatsiyalangan va endi ikkala elektrod ham musbatlik sohalarida joylaşgan, şuning uçun ular orasida potensiallar farqi qayd qilinmaydi. Şunday qilib, öngdagi yozuvda potensial yana nolga qaytadi. Bu tugallangan manfiy tölqin repolyarizatsiya tölqinidir, çunki u repolyarizatsiyaning muskul tolasi membranasi böylab tarqalişi natijasida yuzaga keladi."
+  },
+  "ch11-f14": {
+   "text": "10-bobda muhokama qilingan qorinça muskulining monofazali harakat potensiali odatda 0,25 dan 0,35 soniyagaça davom etadi. **Rasm 11-3** ning yuqori qismida qorinçaning bitta muskul tolasi içiga kiritilgan mikroelektrod yordamida qayd qilingan monofazali harakat potensiali körsatilgan. Bu harakat potensialining keskin kötarilişi depolyarizatsiya, potensialning izoliniyaga qaytişi esa repolyarizatsiya tufayli yuzaga keladi.",
+   "lead": "Qorinça muskulining monofazali harakat potensiali bilan standart elektrokardiogrammadagi QRS va T tişçalarining boğliqligi."
+  },
+  "ch11-f16": {
+   "text": "**Rasm 11-3** ning pastki yarmida aynan şu qorinçadan bir vaqtda yozib olingan EKG körsatilgan. E’tibor bering: QRS tişçalari monofazali harakat potensialining boşida, T tişçasi esa oxirida paydo böladi. Ayniqsa şunga e’tibor beringki, _qorinça muskuli töliq qutblangan yoki töliq depolyarizatsiyalangan holatda EKGda heç qanday potensial qayd qilinmaydi_. Faqat muskul qisman qutblangan va qisman depolyarizatsiyalangan holatdagina tok qorinçalarning bir qismidan boşqa qismiga oqadi va şu sababli tok tana yuzasiga ham oqib, EKGni hosil qiladi."
+  },
+  "ch11-f17": {
+   "text": "Bölmaçalar va qorinçalar qisqarişining elektrokardiogramma tölqinlari bilan boğliqligi"
+  },
+  "ch11-f18": {
+   "text": "Muskul qisqarişi yuz berişidan oldin qisqarişning kimyoviy jarayonlarini boşlaş uçun depolyarizatsiya muskul böylab tarqalişi kerak. Yana **Rasm 11-1** ga murojaat qiling: P tişçasi bölmaçalar qisqarişining boşida, QRS tişçalar kompleksi esa qorinçalar qisqarişining boşida yuzaga keladi. Qorinçalar repolyarizatsiya yuz bergunga qadar, ya’ni T tişçasi tugagunga qadar qisqargan holatda qoladi."
+  },
+  "ch11-f19": {
+   "text": "Bölmaçalar P tişçasi tugaganidan taxminan 0,15–0,20 soniya ötgaç repolyarizatsiyalanadi; bu taxminan EKGda QRS kompleksi qayd qilinayotgan vaqtga töğri keladi. Şu sababli _bölmaça T tişçasi_ deb ataladigan bölmaçalar repolyarizatsiya tölqini odatda ança katta QRS kompleksi bilan berkilib qoladi. Şuning uçun EKGda bölmaça T tişçasi kamdan-kam körinadi."
+  },
+  "ch11-f20": {
+   "text": "Qorinçalar repolyarizatsiya tölqini normal EKGdagi T tişçasidir. Odatda qorinça muskulining ba’zi tolalari depolyarizatsiya tölqini (QRS kompleksi) boşlanganidan taxminan 0,20 soniya ötgaç repolyarizatsiyalana boşlaydi, ammo köplab boşqa tolalarda bu 0,35 soniyagaça çöziladi. Şunday qilib, qorinçalar repolyarizatsiyasi jarayoni uzoq — taxminan 0,15 soniya davom etadi. Şu sababli normal EKGdagi T tişçasi çözilgan tölqin böladi, ammo uning voltaji QRS kompleksining voltajidan ança past, bu qisman uning uzoq davom etişi bilan boğliq."
+  },
+  "ch11-f21": {
+   "text": "Elektrokardiogrammani kalibrlaş va tasvirlaş"
+  },
+  "ch11-f22": {
+   "text": "EKGning barça yozuvlari tasvir törida tegişli kalibrlaş çiziqlari bilan amalga oşiriladi. Ilgari EKG elektron usulda yozib olinib, qoğozga çop etilardi; hozirda EKG odatda raqamli şaklda tasvirlanadi. **Rasm 11-1** da körsatilganidek, gorizontal kalibrlaş çiziqlari şunday joylaşganki, standart EKGda yuqoriga yoki pastga 10 ta kiçik bölinma 1 millivoltga töğri keladi; musbatlik yuqoriga, manfiylik esa pastga yönalgan."
+  },
+  "ch11-f23": {
+   "text": "EKGdagi vertikal çiziqlar — vaqtni kalibrlaş çiziqlari. Tipik EKG soniyasiga 25 millimetr tezlikda yoziladi, ba’zan esa yuqoriroq tezliklar ham qöllaniladi. Şuning uçun gorizontal yönalişdagi har 25 millimetr 1 soniyaga, töq vertikal çiziqlar bilan belgilangan har bir 5 millimetrlik bölak esa 0,20 soniyaga töğri keladi. 0,20 soniyalik oraliqlar öz navbatida ingiçka çiziqlar bilan beşta kiçikroq oraliqqa bölingan, ularning har biri 0,04 soniyaga teng."
+  },
+  "ch11-f24": {
+   "text": "Normal EKGdagi tişçalarning qayd qilinadigan voltajlari elektrodlarning tana yuzasiga qanday qöyilganiga va elektrodlarning yurakka qançalik yaqinligiga boğliq. Bitta elektrod bevosita qorinçalar ustiga, ikkinçisi esa tananing yurakdan uzoq boşqa joyiga qöyilganda QRS kompleksining voltaji 3–4 millivoltgaça yetişi mumkin. Hatto bu voltaj ham bevosita yurak muskuli membranasida qayd qilinadigan 110 millivoltlik monofazali harakat potensialiga nisbatan kiçik. EKG ikki qoldagi yoki bir qöl va bir oyoqdagi elektrodlardan yozib olinganda QRS kompleksining voltaji R tişçasi çöqqisidan S tişçasi tubigaça odatda 1,0–1,5 millivolt, P tişçasining voltaji 0,1–0,3 millivolt, T tişçasining voltaji esa 0,2–0,3 millivolt böladi.",
+   "lead": "Elektrokardiogrammadagi normal voltajlar."
+  },
+  "ch11-f25": {
+   "text": "P tişçasi boşlanişidan QRS kompleksi boşlanişigaça bölgan vaqt bölmaçalarning elektr qözğalişi boşlanişi bilan qorinçalar qözğalişi boşlanişi orasidagi intervaldir. Bu davr _P-Q intervali_ deb ataladi. Normal P-Q intervali taxminan 0,16 soniya. (Köpinça bu interval _P-R intervali_ deb ataladi, çunki Q tişçasi bölmasligi mumkin.) Yurak qisqarişlari tezlaşganda P-R intervali qisqaradi, çunki bunda simpatik faollik ortadi yoki parasimpatik faollik kamayadi va bu atrioventrikulyar tugun orqali ötkaziş tezligini oşiradi. Aksinça, yurak qisqarişlari sekinlaşganda parasimpatik tonusning ortişi yoki simpatik faollikning susayişi tufayli atrioventrikulyar tugun orqali ötkaziş sekinlaşadi va natijada P-R intervali uzayadi.",
+   "lead": "P-Q yoki P-R intervali."
+  },
+  "ch11-f26": {
+   "text": "Qorinçaning qisqarişi deyarli Q tişçasi (agar Q tişçasi bölmasa, R tişçasi) boşlanişidan T tişçasi oxirigaça davom etadi. Bu interval _Q-T intervali_ deb ataladi va odatda taxminan 0,35 soniyani taşkil qiladi.",
+   "lead": "Q-T intervali."
+  },
+  "ch11-f27": {
+   "text": "Yurak uriş çastotasini EKG böyiça oson aniqlaş mumkin, çunki yurak uriş çastotasi ketma-ket ikki yurak qisqarişi orasidagi vaqt oraliğiga (R-R intervaliga) teskari kattalikdir. Agar vaqt kalibrlaş çiziqlari böyiça aniqlangan ikki qisqariş orasidagi interval 1 soniya bölsa, yurak uriş çastotasi daqiqasiga 60 marta böladi. Kattalarda ketma-ket ikki QRS kompleksi orasidagi normal interval taxminan 0,83 soniya, bu esa daqiqasiga 60/0,83 marta, ya’ni daqiqasiga 72 marta yurak urişiga töğri keladi.",
+   "lead": "Elektrokardiogramma böyiça yurak qisqarişlari çastotasini aniqlaş."
+  },
+  "ch11-f28": {
+   "text": "Yurak sikli davomida yurak atrofida tokning oqişi"
+  },
+  "ch11-f29": {
+   "text": "Qisman depolyarizatsiyalangan sinsitial yurak muskuli massasidan elektr potensiallarini qayd qiliş"
+  },
+  "ch11-f30": {
+   "text": "**Rasm 11-4** da eng markaziy nuqtasidan qözğatilgan sinsitial yurak muskuli massasi körsatilgan. Qözğatişdan oldin muskul hujayralarining barça taşqi yuzalari musbat, içki qismlari esa manfiy bölgan. 5-bobda membrana potensiallarini muhokama qilişda keltirilgan sabablarga köra, yurak sinsitiysining biror sohasi depolyarizatsiyalanişi bilanoq manfiy zaryadlar depolyarizatsiyalangan muskul tolalarining taşqi tomoniga sizib çiqadi va **Rasm 11-4** da minus belgilari bilan körsatilganidek, yuzaning bu qismini elektromanfiy qiladi. Yurakning hali qutblangan qolgan yuzasi plyus belgilari bilan körsatilgan. Şuning uçun rasmning öng tomonida körsatilganidek, manfiy qutbi depolyarizatsiya sohasiga, musbat qutbi esa hali qutblangan sohalardan biriga ulangan ölçov asbobi musbat qayd etadi."
+  },
+  "ch11-f32": {
+   "text": "**Rasm 11-4** da elektrodlarning yana ikki xil joylaşuvi va asbob körsatkiçlari ham körsatilgan. Bu joylaşuvlar va körsatkiçlarni diqqat bilan örganiş kerak, öquvçi esa tegişli asbob körsatkiçlarining sabablarini tuşuntira olişi lozim. Depolyarizatsiya yurak böylab barça yönalişlarga tarqalgani uçun rasmda körsatilgan potensiallar farqi atigi sekundning bir neça mingdan bir qismi davomida saqlanadi va haqiqiy voltajni ölçaş faqat yuqori tezlikda qayd qiluvçi apparat yordamida amalga oşirilişi mumkin."
+  },
+  "ch11-f33": {
+   "text": "Kökrak qafasida yurak atrofida elektr toklarining oqişi"
+  },
+  "ch11-f34": {
+   "text": "**Rasm 11-5** da kökrak qafasi içida joylaşgan qorinçalar muskuli körsatilgan. Hatto asosan havo bilan tölgan öpkalar ham elektr tokini ajablanarli darajada ötkazadi, yurakni örab turgan boşqa töqimalardagi suyuqliklar esa elektr tokini yanada osonroq ötkazadi. Şuning uçun yurak aslida ötkazuvçi muhitda muallaq turadi. Qorinçalarning bir qismi depolyarizatsiyalanib, qolgan qismiga nisbatan elektromanfiy bölib qolganda, rasmda körsatilganidek, elektr toki depolyarizatsiyalangan sohadan qutblangan sohaga katta aylanma yöllar böylab oqadi."
+  },
+  "ch11-f36": {
+   "text": "10-bobdagi Purkinye tizimi muhokamasidan esda tutiş kerakki, yurak impulsi qorinçalarda avval tösiqqa yetib keladi va undan köp ötmay **Rasm 11-5** da qizil sohalar va manfiy belgilar bilan körsatilganidek, qorinçalarning qolgan qismining içki yuzalariga tarqaladi. Bu jarayon qorinçalarning içki tomonida elektromanfiylikni, qorinçalarning taşqi devorlarida esa elektromusbatlikni yuzaga keltiradi; bunda elektr toki rasmda egri strelkalar bilan körsatilganidek, qorinçalarni örab turgan suyuqliklar orqali ellipssimon yöllar böylab oqadi. Agar tok oqimining barça çiziqlari (ellipssimon çiziqlar) algebraik örtaça qilib olinsa, _tokning örtaça oqimi manfiylik yurak asosi tomonga, musbatlik esa yurak çöqqisi tomonga yönalgan holda keçadi_."
+  },
+  "ch11-f37": {
+   "text": "Depolyarizatsiya jarayonining qolgan qismining katta qismida ham tok şu yönalişda oqişda davom etadi, depolyarizatsiya esa endokard yuzasidan taşqariga qarab qorinçalar muskul massasi böylab tarqaladi. Söngra depolyarizatsiya qorinçalar böylab öz yölini tugatişidan bevosita oldin tok oqimining örtaça yönalişi taxminan 0,01 soniyaga teskarisiga özgaradi va qorinçalar çöqqisidan asosga tomon oqadi, çunki yurakning eng oxirgi depolyarizatsiyalanadigan qismi qorinçalarning yurak asosiga yaqin taşqi devorlaridir."
+  },
+  "ch11-f38": {
+   "text": "_Şunday qilib, normal yurak qorinçalarida depolyarizatsiyaning deyarli butun sikli davomida, eng oxiridan taşqari, tok manfiydan musbatga asosan yurak asosidan çöqqisi tomonga oqadi_. Agar ölçov asbobi **Rasm 11-5** da körsatilganidek, tana yuzasidagi elektrodlarga ulansa, asosga yaqinroq elektrod manfiy, çöqqiga yaqinroq elektrod esa musbat böladi va qayd qiluvçi asbob EKGda musbat yozuvni körsatadi."
+  },
+  "ch11-f39": {
+   "text": "Elektrokardiografik ulanişlar"
+  },
+  "ch11-f40": {
+   "text": "Uçta standart bipolyar oyoq-qöl ulanişi"
+  },
+  "ch11-f41": {
+   "text": "**Rasm 11-6** da bemorning oyoq-qöllari bilan elektrokardiograf örtasidagi elektr ulanişlar körsatilgan; ular"
+  },
+  "ch11-f43": {
+   "text": "EKGni _standart bipolyar oyoq-qöl ulanişlari_ deb ataladigan ulanişlardan qayd qiliş uçun işlatiladi. _Bipolyar_ atamasi EKG yurakning turli tomonlarida — bu holda oyoq-qöllarda — joylaşgan ikki elektroddan qayd qilinişini bildiradi. Demak, ulaniş tanadan çiquvçi yagona sim emas, balki tana bilan elektrokardiograf örtasida yopiq zanjir hosil qiluvçi ikki sim va ularning elektrodlari birikmasidir. Sxemada har bir holatda elektrokardiograf elektr ölçov asbobi sifatida tasvirlangan, garçi haqiqiy elektrokardiograf elektron displeyga ega yuqori tezlikli kompyuterlaştirilgan tizim bölsa-da."
+  },
+  "ch11-f44": {
+   "text": "I oyoq-qöl ulanişini qayd qilişda elektrokardiografning manfiy qutbi öng qölga, musbat qutbi esa çap qölga ulanadi. Şuning uçun öng qöl kökrak qafasiga tutaşgan nuqta çap qöl tutaşgan nuqtaga nisbatan elektromanfiy bölganda elektrokardiograf musbat qayd etadi, ya’ni EKGda nol voltaj çiziğidan yuqorida. Aksinça bölganda elektrokardiograf çiziqdan pastda qayd etadi.",
+   "lead": "I ulaniş."
+  },
+  "ch11-f45": {
+   "text": "II oyoq-qöl ulanişini qayd qiliş uçun elektrokardiografning manfiy qutbi öng qölga, musbat qutbi esa çap oyoqqa ulanadi. Şuning uçun öng qöl çap oyoqqa nisbatan manfiy bölganda elektrokardiograf musbat qayd etadi.",
+   "lead": "II ulaniş."
+  },
+  "ch11-f46": {
+   "text": "III oyoq-qöl ulanişini qayd qiliş uçun elektrokardiografning manfiy qutbi çap qölga, musbat qutbi esa çap oyoqqa ulanadi. Bu ulaniş çap qöl çap oyoqqa nisbatan manfiy bölganda elektrokardiograf musbat qayd etişini anglatadi.",
+   "lead": "III ulaniş."
+  },
+  "ch11-f47": {
+   "text": "**Rasm 11-6** da yurak sohasi atrofida _Eyntxoven uçburçagi_ deb ataladigan uçburçak çizilgan. Bu uçburçak ikki qöl va çap oyoq yurakni örab turgan uçburçakning uçlarini hosil qilişini körsatadi. Uçburçakning yuqori qismidagi ikki uçi ikki qöl yurak atrofidagi suyuqliklar bilan elektr jihatdan tutaşadigan nuqtalarni, pastki uçi esa çap oyoq suyuqliklar bilan tutaşadigan nuqtani bildiradi.",
+   "lead": "Eyntxoven uçburçagi."
+  },
+  "ch11-f48": {
+   "text": "Eyntxoven qonuniga köra, agar EKG uçta oyoq-qöl ulanişida bir vaqtda qayd qilinsa, I va III ulanişlarda qayd qilingan potensiallar yiğindisi II ulanişdagi potensialga teng böladi:",
+   "lead": "Eyntxoven qonuni."
+  },
+  "ch11-f49": {
+   "text": "Boşqaça aytganda, agar istalgan paytda uçta bipolyar oyoq-qöl elektrokardiografik ulanişlaridan istalgan ikkitasining elektr potensiallari ma’lum bölsa, uçinçisini dastlabki ikkitasini şunçaki qöşiş orqali aniqlaş mumkin. Biroq e’tibor bering: bu qöşişni bajarişda turli ulanişlarning musbat va manfiy işoralariga rioya qiliş kerak."
+  },
+  "ch11-f50": {
+   "text": "Masalan, **Rasm 11-6** da körsatilganidek, ayni paytda öng qöl tanadagi örtaça potensialga nisbatan −0,2 millivolt (manfiy),"
+  },
+  "ch11-f51": {
+   "text": "çap qöl +0,3 millivolt (musbat), çap oyoq esa +1,0 millivolt (musbat) bölsin, deb faraz qilaylik. Rasmdagi ölçov asboblariga qarab, I ulaniş +0,5 millivoltlik musbat potensialni qayd qilişini köriş mumkin, çunki bu öng qöldagi −0,2 millivolt bilan çap qöldagi +0,3 millivolt örtasidagi farqdir. Xuddi şunday, III ulaniş +0,7 millivoltlik, II ulaniş esa +1,2 millivoltlik musbat potensialni qayd qiladi, çunki bular tegişli oyoq-qöl juftlari örtasidagi ayni paytdagi potensiallar farqidir."
+  },
+  "ch11-f52": {
+   "text": "Endi e’tibor bering: I va III ulanişlardagi voltajlar yiğindisi II ulanişdagi voltajga teng, ya’ni 0,5 qöşuv 0,7 teng 1,2. Matematik jihatdan Eyntxoven qonuni deb ataladigan bu tamoyil uçta “standart” bipolyar EKG qayd qilinayotgan istalgan paytda örinli böladi."
+  },
+  "ch11-f53": {
+   "text": "**Rasm 11-7** da I, II va III ulanişlardagi EKG yozuvlari körsatilgan. Bu uç ulanişdagi EKGlar bir-biriga öxşaşligi aniq körinib turibdi, çunki ularning hammasida musbat P tişçalari va musbat T tişçalari qayd qilingan, har bir EKGda QRS kompleksining asosiy qismi ham musbat. Uçala EKG tahlil qilinganda, sinçkovlik bilan ölçaş va qutblarga töğri rioya qiliş orqali istalgan paytda I va III ulanişlardagi potensiallar yiğindisi II ulanişdagi potensialga teng ekanini körsatiş mumkin; bu Eyntxoven qonunining töğriligini tasdiqlaydi.",
+   "lead": "Uçta standart bipolyar oyoq-qöl ulanişidan qayd qilingan normal elektrokardiogrammalar."
+  },
+  "ch11-f55": {
+   "text": "Barça bipolyar oyoq-qöl ulanişlaridagi yozuvlar bir-biriga öxşaş bölgani uçun turli yurak aritmiyalarini taşxislaşda qaysi ulaniş qayd qilinişi unçalik muhim emas, çunki aritmiyalar taşxisi asosan yurak siklining turli tişçalari örtasidagi vaqt munosabatlariga asoslanadi. Biroq qorinça yoki bölmaça muskulining yoxud Purkinye ötkazuvçi tizimining şikastlanişini taşxislaş kerak bölganda qaysi ulanişlar qayd qilinişi juda muhim, çunki yurak muskuli qisqarişi yoki yurak impulsi ötkazilişidagi buzilişlar ba’zi ulanişlarda EKG şaklini keskin özgartiradi, boşqalariga esa ta’sir qilmasligi mumkin. Bu ikki turdagi holatlar — kardiomiopatiyalar va yurak aritmiyalarining elektrokardiografik talqini 12- va 13-boblarda alohida muhokama qilinadi."
+  },
+  "ch11-f56": {
+   "text": "Köpinça EKG bitta elektrodni kökrak qafasining old yuzasiga bevosita yurak ustiga, **Rasm 11-8** da körsatilgan nuqtalardan biriga qöyib qayd qilinadi. Bu elektrod elektrokardiografning musbat qutbiga ulanadi, _indifferent elektrod_ yoki _Vilsonning markaziy terminali_ deb ataladigan manfiy elektrod esa rasmda körsatilganidek, bir xil elektr qarşiliklar orqali bir vaqtning özida öng qöl, çap qöl va çap oyoqqa ulanadi. Odatda kökrak qafasining old devoridan oltita standart kökrak ulanişi navbatma-navbat qayd qilinadi; bunda kökrak elektrodi sxemada körsatilgan oltita nuqtaga ketma-ket qöyiladi. Turli yozuvlar V1, V2, V3, V4, V5 va V6 ulanişlar deb ataladi."
+  },
+  "ch11-f58": {
+   "text": "**Rasm 11-9** da soğlom yurakning şu oltita standart kökrak ulanişidan qayd qilingan EKGlari tasvirlangan. Yurak yuzalari kökrak devoriga yaqin joylaşgani uçun har bir kökrak ulanişi asosan bevosita elektrod ostida joylaşgan yurak muskulining elektr potensialini qayd qiladi. Şuning uçun qorinçalardagi, ayniqsa qorinçalarning old devoridagi nisbatan juda kiçik buzilişlar ham alohida kökrak ulanişlaridan qayd qilingan EKGlarda sezilarli özgarişlarga sabab bölişi mumkin."
+  },
+  "ch11-f60": {
+   "text": "V1 va V2 ulanişlarda normal yurakning QRS yozuvlari asosan manfiy böladi, çunki **Rasm 11-8** da körsatilganidek, bu ulanişlardagi kökrak elektrodi yurak çöqqisidan köra yurak asosiga yaqinroq joylaşgan, qorinçalar depolyarizatsiyasi jarayonining katta qismida esa elektromanfiylik yurak asosi tomonga yönalgan böladi. Aksinça, V4, V5 va V6 ulanişlarda QRS komplekslari asosan musbat, çunki bu ulanişlardagi kökrak elektrodi depolyarizatsiyaning katta qismida elektromusbatlik yönalgan yurak çöqqisiga yaqinroq joylaşgan."
+  },
+  "ch11-f61": {
+   "text": "Kuçaytirilgan oyoq-qöl ulanişlari"
+  },
+  "ch11-f62": {
+   "text": "Keng qöllaniladigan yana bir ulanişlar tizimi — _kuçaytirilgan oyoq-qöl ulanişlari_. Bunday qayd qilişda oyoq-qöllardan ikkitasi elektr qarşiliklar orqali elektrokardiografning manfiy qutbiga, uçinçisi esa musbat qutbiga ulanadi. Musbat qutb öng qölda bölganda ulaniş aVR, çap qölda bölganda aVL, çap oyoqda bölganda esa aVF ulaniş deb ataladi."
+  },
+  "ch11-f63": {
+   "text": "Kuçaytirilgan oyoq-qöl ulanişlarining normal yozuvlari **Rasm 11-10** da körsatilgan. Ularning hammasi standart oyoq-qöl ulanişlari yozuvlariga öxşaydi, faqat aVR ulanişdagi yozuv teskari (inversiyalangan) böladi. (Nima uçun bunday inversiya yuz beradi? Bu savolga javob topiş uçun elektrokardiografga ulaniş qutblarini örganib çiqing.)"
+  },
+  "ch11-f65": {
+   "text": "Ulanişlar odatda **Rasm 11-11** dagidek uç guruhda tasvirlanadi: standart bipolyar oyoq-qöl ulanişlari (I, II, III), söngra kuçaytirilgan ulanişlar (aVR, aVL va aVF) va undan keyin prekardial (kökrak) ulanişlari (V1–V6)."
+  },
+  "ch11-f66": {
+   "text": "Standart EKG yurakdagi elektr hodisalarini qisqa vaqt davomida, odatda bemor tinç holatda bölganda baholaş imkonini beradi. Yurak ritmining kamdan-kam uçraydigan, ammo muhim buzilişlari bilan keçadigan holatlarda EKGni uzoqroq vaqt davomida tekşiriş foydali bölişi mumkin; bu ötkinçi bölgan va standart tinç holatdagi EKGda ötkazib yuborilişi mumkin bölgan özgaruvçan yurak elektr hodisalarini baholaşga imkon beradi. Bemor odatdagi kundalik faoliyati davomida yurib yurgan paytda yurakdagi elektr hodisalarini baholaş uçun EKGni uzaytirib qayd qiliş _ambulator elektrokardiografiya_ deb ataladi."
+  },
+  "ch11-f67": {
+   "text": "Ambulator elektrokardiografik monitoring odatda bemorda ötkinçi aritmiyalar yoki yurakning boşqa ötkinçi buzilişlari tufayli yuzaga keladi, deb taxmin qilinadigan belgilar kuzatilganda qöllaniladi. Bu belgilar kökrakdagi oğriq, sinkope (huşdan ketiş) yoki huşdan ketiş arafasidagi holat, boş aylanişi va yurakning notekis urişi (yurak öynaşi, palpitatsiya) bölişi mumkin. Jiddiy ötkinçi aritmiyalar yoki yurakning boşqa holatlarini taşxislaş uçun zarur bölgan hal qiluvçi ma’lumot — aynan belgi yuzaga kelayotgan paytda yozib olingan EKG. Bu qurilmalar bölmaçalar fibrillyatsiyasi kabi belgisiz keçadigan yurak aritmiyalarini aniqlaş uçun ham işlatilişi mumkin; bunday aritmiyalar embol hosil bölişi xavfini oşirişi, bu esa öz navbatida insultlarga sabab bölişi mumkin. Aritmiyalar çastotasining kunlik özgaruvçanligi katta bölgani uçun ularni aniqlaş köpinça kun böyi ambulator elektrokardiografik monitoringni talab qiladi."
+  },
+  "ch11-f68": {
+   "text": "Ambulator elektrokardiografik qayd qiluvçi qurilmalarning bir neça toifasi mavjud. Uzluksiz qayd qiluvçi qurilmalar (Xolter monitorlari) odatda 24–48 soat davomida şu vaqt oraliğida yuz berişi ehtimoli bölgan belgilar bilan elektrokardiografik hodisalar örtasidagi boğliqlikni tekşiriş uçun qöllaniladi. Davriy qayd qiluvçi qurilmalar kamdan-kam yuz beradigan hodisalarni aniqlaş maqsadida qisqa davriy yozuvlarni oliş uçun uzoqroq muddat (haftalardan oylargaça) qöllaniladi; bu yozuvlarni odatda bemor belgilarni sezganda özi işga tuşiradi. Ba’zi hollarda katta qoğoz qisqiçi ölçamidagi, _implantatsiya qilinadigan halqali (loop) qayd qiluvçi qurilma_ deb ataladigan kiçik moslama yurakning elektr faolligini 2–3 yilgaça uzluksiz kuzatib boriş uçun kökrak sohasida teri ostiga joylaştiriladi. Qurilmani yurak uriş çastotasi oldindan belgilangan darajadan pastga tuşganda yoki undan oşganda yozuvni boşlaşga dasturlaş mumkin, şuningdek boş aylanişi kabi belgi paydo bölganda bemor uni qölda işga tuşirişi mumkin. Qattiq jismli raqamli texnologiyalarning takomillaşuvi va mikroprotsessorlar bilan jihozlangan qayd qiluvçi qurilmalar endi raqamli elektrokardiografik ma’lumotlarni telefon liniyalari orqali uzluksiz yoki davriy uzatiş imkonini beradi, murakkab dasturiy tizimlar esa ma’lumotlarni olinişi bilanoq tezkor onlayn kompyuter tahlilini ta’minlaydi. Uyda yurak ritmini kuzatiş uçun yangi kiyiladigan qurilmalar, jumladan soatlar yoki qölda uşlanadigan elektrokardiografik monitoring qurilmalari ham işlab çiqilmoqda."
+  }
+ },
+ "figures": {
+  "gh14-fig-11-01": "Normal elektrokardiogramma.",
+  "gh14-fig-11-02": "Yurak muskul tolasidan depolyarizatsiya tölqinini (A va B) va repolyarizatsiya tölqinini (C va D) qayd qiliş.",
+  "gh14-fig-11-03": "Yuqorida: normal yurak faoliyati paytida qorinça muskul tolasining monofazali harakat potensiali — tez depolyarizatsiya, söngra plato bosqiçida sekin, oxiriga kelib esa tez keçadigan repolyarizatsiya körsatilgan. Pastda: bir vaqtda qayd qilingan elektrokardiogramma.",
+  "gh14-fig-11-04": "Markazidan depolyarizatsiyalangan yurak muskuli massasi yuzasida yuzaga keladigan lahzalik potensiallar.",
+  "gh14-fig-11-05": "Qisman depolyarizatsiyalangan qorinçalar atrofida kökrak qafasida tokning oqişi. A va B — elektrodlar.",
+  "gh14-fig-11-06": "Standart elektrokardiografik ulanişlarni qayd qiliş uçun elektrodlarning an’anaviy joylaşuvi. Kökrak qafasi ustiga Eyntxoven uçburçagi tuşirilgan.",
+  "gh14-fig-11-07": "Uçta standart elektrokardiografik ulanişdan (I–III) qayd qilingan normal elektrokardiogrammalar.",
+  "gh14-fig-11-08": "Kökrak ulanişlarini qayd qiliş uçun tananing elektrokardiograf bilan ulanişi. LA — çap qöl; RA — öng qöl.",
+  "gh14-fig-11-09": "Oltita standart kökrak ulanişidan qayd qilingan normal elektrokardiogrammalar.",
+  "gh14-fig-11-10": "Uçta kuçaytirilgan unipolyar oyoq-qöl ulanişidan qayd qilingan normal elektrokardiogrammalar.",
+  "gh14-fig-11-11": "Normal 12 ulanişli elektrokardiogramma."
+ }
+}

@@ -1,0 +1,290 @@
+{
+ "lessonId": "ch44",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 44,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "manual",
+ "translator": "Claude (DrStudy sessiyasi)",
+ "model": null,
+ "createdAt": "2026-11-18T13:37:52.950Z",
+ "updatedAt": "2026-11-18T13:37:52.951Z",
+ "coverage": {
+  "translated": 86,
+  "total": 86
+ },
+ "note": "Kitob matnining töliq özbekça tarjimasi (qisqartirilmagan). Ekspert tekşiruvidan ötmagan.",
+ "blocks": {
+  "ch44-f0": {
+   "text": "Inson aviatsiya, toğ alpinizmi va kosmosni zabt etişda tobora yuqoriroq balandliklarga köterilgani sari balandlik va past gaz bosimlarining inson organizmiga ta’sirini tuşuniş borgan sari muhim bölib bormoqda. Bu bobda şu muammolar, şuningdek tezlanuvçi kuçlar, vaznsizlik va baland balandliklarda hamda kosmik parvozda organizm gomeostazi uçun yuzaga keladigan boşqa sinovlar körib çiqiladi."
+  },
+  "ch44-f1": {
+   "text": "Past kislorod bosimining organizmga ta’siri"
+  },
+  "ch44-f2": {
+   "text": "**Jadval 44-1** da turli balandliklardagi taxminiy _barometrik_ va _kislorod bosimlari_ keltirilgan. Unda dengiz sathida barometrik bosim 760 mm sim. ust., 10 000 fut balandlikda atigi 523 mm sim. ust., 50 000 futda esa 87 mm sim. ust. ekani körsatilgan. Barometrik bosimning bu pasayişi baland toğ fiziologiyasidagi barça gipoksiya muammolarining asosiy sababi, çunki barometrik bosim pasaygani sari atmosferadagi kislorod parsial bosimi (Po₂) ham mutanosib ravişda pasayadi va doimo umumiy barometrik bosimning 21% idan biroz kam bölib qoladi. Dengiz sathida Po₂ taxminan 159 mm sim. ust., 50 000 futda esa atigi 18 mm sim. ust.",
+   "lead": "Turli balandliklardagi barometrik bosim."
+  },
+  "ch44-f4": {
+   "text": "Turli balandliklarda alveolyar Po₂"
+  },
+  "ch44-f5": {
+   "text": "Hatto baland balandliklarda ham karbonat angidrid (CO₂) öpka qonidan alveolalarga uzluksiz ajralib turadi. Bundan taşqari, nafas yuzalaridan nafas bilan olingan havoga suv buğlanadi. Bu ikki gaz alveolalardagi O₂ ni suyultiradi va şu bilan O₂ konsentratsiyasini kamaytiradi. Tana harorati me’yoriy bölar ekan, balandlikdan qat’i nazar alveolalardagi suv buği bosimi 47 mm sim. ust. bölib qoladi.",
+   "lead": "Karbonat angidrid va suv buği alveolyar kislorodni kamaytiradi."
+  },
+  "ch44-f6": {
+   "text": "CO₂ ga kelsak, juda baland balandliklarda alveolalardagi CO₂ parsial bosimi (Pco₂) dengiz sathidagi 40 mm sim. ust. qiymatidan pastroq qiymatlarga tuşadi. Ventilyatsiyani taxminan 5 baravar oşiradigan _akklimatizatsiyalangan_ odamda nafasning kuçayişi tufayli Pco₂ taxminan 7 mm sim. ust. gaça tuşadi."
+  },
+  "ch44-f7": {
+   "text": "Endi bu ikki gaz bosimlari alveolyar O₂ ga qanday ta’sir qilişini köraylik. Masalan, barometrik bosim dengiz sathidagi me’yoriy"
+  },
+  "ch44-f8": {
+   "text": "760 mm sim. ust. dan 253 mm sim. ust. gaça tuşdi deb faraz qilaylik. Bu 29 028 futlik Everest çöqqisida odatda ölçanadigan qiymat. Uning 47 mm sim. ust. i suv buği bölişi kerak, şunda boşqa barça gazlar uçun atigi 206 mm sim. ust. qoladi. _Akklimatizatsiyalangan_ odamda bu 206 mm sim. ust. ning 7 mm sim. ust. i CO₂ bölişi kerak, şunda atigi 199 mm sim. ust. qoladi. Agar organizm O₂ dan foydalanmaganda, bu 199 mm sim. ust. ning beşdan biri O₂, beşdan törti azot bölardi, ya’ni alveolalardagi Po₂ 40 mm sim. ust. bölardi. Biroq alveolalarda qolgan bu O₂ ning bir qismi uzluksiz qonga sörilib turadi, natijada alveolalarda taxminan 35 mm sim. ust. O₂ bosimi qoladi. Everest çöqqisida havo bilan nafas olganda faqat eng yaxşi akklimatizatsiyalangan odamlar zörğa omon qola oladi. Biroq keyingi mulohazalarda köradiganimizdek, odam sof O₂ bilan nafas olganda ta’sir butunlay boşqaça böladi."
+  },
+  "ch44-f9": {
+   "text": "**Jadval 44-1** ning beşinçi ustunida havo bilan nafas olganda turli balandliklarda _akklimatizatsiyalanmagan_ va _akklimatizatsiyalangan_ odam alveolalaridagi taxminiy Po₂ qiymatlari körsatilgan. Dengiz sathida alveolyar Po₂ 104 mm sim. ust. 20 000 fut balandlikda u akklimatizatsiyalanmagan odamda taxminan 40 mm sim. ust. gaça tuşadi, akklimatizatsiyalangan odamda esa atigi 53 mm sim. ust. gaça tuşadi. Bu ikkisi orasidagi farqning sababi şuki, keyinroq muhokama qilamizki, akklimatizatsiyalangan odamda alveolyar ventilyatsiya akklimatizatsiyalanmagan odamdagiga qaraganda ança köp ortadi.",
+   "lead": "Turli balandliklarda alveolyar Po₂."
+  },
+  "ch44-f10": {
+   "text": "**Rasm 44-1** da odam havo bilan va O₂ bilan nafas olganda turli balandliklarda arterial qonning O₂ bilan töyinişi körsatilgan. Taxminan 10 000 fut balandlikkaça, hatto havo bilan nafas olganda ham, arterial qonning O₂ bilan töyinişi kamida 90% bölib qoladi. 10 000 futdan yuqorida esa rasmdagi kök egri çiziqda körsatilganidek, arterial qonning O₂ bilan töyinişi tez pasayadi va 20 000 futda 70% dan biroz kam, undan ham yuqoriroq balandliklarda esa ança kam böladi.",
+   "lead": "Turli balandliklarda gemoglobinning kislorod bilan töyinişi."
+  },
+  "ch44-f12": {
+   "text": "Sof kislorod bilan nafas olişning turli balandliklarda alveolyar Po₂ ga ta’siri"
+  },
+  "ch44-f13": {
+   "text": "Odam havo örniga sof O₂ bilan nafas olganda alveolalarda avval azot egallagan joyning köp qismini O₂ egallaydi. 30 000 futda uçuvçining alveolyar Po₂ si havo bilan nafas olgandagi 18 mm sim. ust. örniga 139 mm sim. ust. gaça yetişi mumkin (qarang: **Jadval 44-1**)."
+  },
+  "ch44-f14": {
+   "text": "**Rasm 44-1** dagi qizil egri çiziq odam sof O₂ bilan nafas olganda turli balandliklarda arterial qon gemoglobinining O₂ bilan töyinişini körsatadi. E’tibor bering: uçuvçi taxminan 39 000 futgaça köterilgunça töyiniş 90% dan yuqori bölib qoladi, söngra taxminan 47 000 futda tez taxminan 50% gaça pasayadi."
+  },
+  "ch44-f15": {
+   "text": "**Rasm 44-1** dagi arterial qonning O₂ bilan töyinişiga oid ikki egri çiziqni taqqoslaganda germetik bölmagan samolyotda sof O₂ bilan nafas olayotgan uçuvçi havo bilan nafas olayotgan uçuvçiga qaraganda ança yuqori balandliklarga köterila olişi körinadi. Masalan, O₂ bilan nafas olganda 47 000 futdagi arterial töyiniş taxminan 50% ni taşkil etadi va bu havo bilan nafas olganda 23 000 futdagi arterial qonning O₂ bilan töyinişiga teng. Bundan taşqari, akklimatizatsiyalanmagan odam odatda arterial qonning O₂ bilan töyinişi 50% gaça tuşgunça huşini saqlay olgani uçun germetik bölmagan samolyotda qisqa muddatli parvozda uçuvçi uçun “şift” havo bilan nafas olganda taxminan 23 000 fut, sof O₂ bilan nafas olganda esa taxminan 47 000 fut böladi — bunda O₂ beradigan uskuna benuqson işlaşi şart.",
+   "lead": "Germetik bölmagan samolyotda havo bilan va kislorod bilan nafas olgandagi “şift”."
+  },
+  "ch44-f16": {
+   "text": "Gipoksiyaning ötkir ta’sirlari"
+  },
+  "ch44-f17": {
+   "text": "Havo bilan nafas olayotgan akklimatizatsiyalanmagan odamda taxminan 12 000 fut balandlikdan boşlab gipoksiyaning ayrim muhim ötkir ta’sirlari kuzatiladi: uyquçanlik, holsizlik, aqliy va muşak çarçoği, ba’zan boş oğriği, goho köngil aynişi va ba’zan eyforiya. 18 000 futdan yuqorida bu ta’sirlar muşaklarning tortişişi yoki tutqanoqlar bosqiçiga ötadi, 23 000 futdan yuqorida esa akklimatizatsiyalanmagan odamda koma bilan, undan keyin tez orada ölim bilan yakunlanadi."
+  },
+  "ch44-f18": {
+   "text": "Gipoksiyaning eng muhim ta’sirlaridan biri aqliy qobiliyatning pasayişidir. Bu fikrlaş, xotira va aniq harakatlarni bajarişni yomonlaştiradi. Masalan, akklimatizatsiyalanmagan uçuvçi 15 000 futda 1 soat qolsa, aqliy qobiliyati odatda me’yorning taxminan 50% igaça pasayadi, bu balandlikda 18 soatdan keyin esa me’yorning taxminan 20% igaça tuşadi."
+  },
+  "ch44-f19": {
+   "text": "Past Po₂ ga akklimatizatsiya"
+  },
+  "ch44-f20": {
+   "text": "Baland joylarda kunlar, haftalar yoki yillar davomida qolgan odam past Po₂ ga borgan sari köproq _akklimatizatsiyalanadi_, şuning uçun u organizmga kamroq zararli ta’sir körsatadi. Akklimatizatsiyadan keyin odam gipoksiya ta’sirlarisiz ança oğirroq iş bajarişi yoki yanada yuqoriroq balandliklarga köterilişi mumkin böladi."
+  },
+  "ch44-f21": {
+   "text": "Akklimatizatsiyaning asosiy yöllari quyidagilar: (1) öpka ventilyatsiyasining keskin ortişi; (2) eritrotsitlar sonining ortişi; (3) öpka diffuziya qobiliyatining ortişi; (4) periferik töqimalarda tomirlar sonining ortişi; va (5) past Po₂ ga qaramay töqima hujayralarining O₂ dan foydalaniş qobiliyatining ortişi."
+  },
+  "ch44-f22": {
+   "text": "Past Po₂ ga birdan duç keliş arterial xemoretseptorlarni qözğatadi va bu qözğaliş alveolyar ventilyatsiyani maksimal taxminan 1,65 baravargaça oşiradi. Şuning uçun baland balandlikka moslaşuv soniyalar içida yuz beradi va buning özi odamga ventilyatsiya ortmagandagiga qaraganda bir neça ming fut yuqoriroq köterilişga imkon beradi. Agar odam juda baland balandlikda bir neça kun qolsa, xemoretseptorlar ventilyatsiyani yanada, taxminan 5 baravargaça oşiradi.",
+   "lead": "Öpka ventilyatsiyasining ortişi — arterial xemoretseptorlarning roli."
+  },
+  "ch44-f23": {
+   "text": "Baland balandlikka köterilganda öpka ventilyatsiyasining darhol ortişi köp miqdorda CO₂ ni çiqarib yuboradi, Pco₂ ni pasaytiradi va tana suyuqliklarining pH ini oşiradi. Bu özgarişlar miya stvolidagi nafas markazini _tormozlaydi_ va şu bilan _past Po₂ ning uyqu arteriyasi va aorta tanaçalaridagi periferik arterial xemoretseptorlar orqali nafasni qözğatiş ta’siriga qarşilik qiladi_. Biroq bu tormozlaniş keyingi 2–5 kun davomida yöqolib boradi va nafas markaziga gipoksiya tufayli periferik xemoretseptorlardan keladigan qözğatuvçi ta’sirga töliq kuç bilan javob beriş imkonini beradi. Natijada ventilyatsiya me’yordan taxminan 5 baravar ortadi."
+  },
+  "ch44-f24": {
+   "text": "Bu tormozlanişning yöqolib borişiga asosan orqa miya suyuqligida, şuningdek miya töqimalarida bikarbonat ioni konsentratsiyasining kamayişi sabab böladi, deb hisoblanadi. Bu kamayiş öz navbatida nafas markazining xemosezgir neyronlarini örab turgan suyuqliklarda pH ni pasaytiradi va şu bilan markazning nafasni qözğatuvçi faolligini oşiradi."
+  },
+  "ch44-f25": {
+   "text": "Bikarbonat konsentratsiyasining asta-sekin kamayişining muhim mexanizmi — 31-bobda muhokama qilinganidek, buyraklar tomonidan respirator alkalozning kompensatsiyalanişi. Buyraklar Pco₂ ning pasayişiga vodorod ioni sekretsiyasini kamaytirib va bikarbonat ekskretsiyasini oşirib javob beradi. Respirator alkalozning bu metabolik kompensatsiyasi plazma va orqa miya suyuqligidagi bikarbonat konsentratsiyasi hamda pH ni asta-sekin me’yorga yaqinlaştiradi va past vodorod ioni konsentratsiyasining nafasga tormozlovçi ta’sirining bir qismini bartaraf etadi. Şunday qilib, buyraklar alkalozni kompensatsiyalagandan keyin nafas markazlari gipoksiya tufayli periferik xemoretseptorlardan keladigan qözğatuvçi ta’sirga ança sezgirroq böladi."
+  },
+  "ch44-f26": {
+   "text": "33-bobda muhokama qilinganidek, gipoksiya eritrotsitlar işlab çiqarilişini kuçaytiradigan asosiy qözğatuvçidir. Odatda odam haftalab past O₂ ta’sirida qolganda gematokrit me’yoriy 40–45% dan örtaça taxminan 60% gaça sekin köteriladi, butun qondagi gemoglobin konsentratsiyasi esa me’yoriy 15 g/dl dan örtaça taxminan 20 g/dl gaça ortadi.",
+   "lead": "Akklimatizatsiya vaqtida eritrotsitlar va gemoglobin konsentratsiyasining ortişi."
+  },
+  "ch44-f27": {
+   "text": "Bundan taşqari, qon hajmi ham köpinça 20–30% ga ortadi. Bu ortiş qondagi gemoglobin konsentratsiyasining ortişiga köpaytirilganda organizmdagi umumiy gemoglobin miqdori 50% va undan köproq ortadi."
+  },
+  "ch44-f28": {
+   "text": "O₂ ning öpka membranasi orqali me’yoriy diffuziya qobiliyati daqiqasiga taxminan 21 ml/mm sim. ust. ni taşkil etadi va bu diffuziya qobiliyati jismoniy maşq vaqtida 3 baravargaça ortişi mumkin. Baland balandliklarda ham diffuziya qobiliyati xuddi şunday ortadi.",
+   "lead": "Akklimatizatsiyadan keyin diffuziya qobiliyatining ortişi."
+  },
+  "ch44-f29": {
+   "text": "Ortişning bir qismi öpka kapillyarlaridagi qon hajmining ortişi natijasidir. Bu kapillyarlarni kengaytiradi va O₂ qonga diffuziyalanişi mumkin bölgan yuzani kattalaştiradi. Bu ortişning yana bir qismi öpkadagi havo hajmining ortişi natijasida bölib, u alveola-kapillyar çegara yuzasini yanada kengaytiradi. Yakuniy qismi esa öpka arteriyasidagi qon bosimining ortişi natijasidir. U qonni me’yordagidan köproq alveolyar kapillyarlarga, ayniqsa odatdagi şaroitda yomon perfuziyalanadigan öpkaning yuqori qismlariga majburan haydaydi."
+  },
+  "ch44-f30": {
+   "text": "Odam baland balandlikka köterilgandan keyin yurak haydaş hajmi köpinça darhol 30% gaça ortadi, ammo keyin _haftalar davomida qon gematokriti ortgani sari_ yana me’yorga qaytadi, şuning uçun periferik töqimalarga taşiladigan O₂ miqdori taxminan me’yoriy bölib qoladi.",
+   "lead": "Akklimatizatsiya vaqtida periferik qon aylaniş tizimidagi özgarişlar — töqimalarda kapillyarlar sonining ortişi."
+  },
+  "ch44-f31": {
+   "text": "Yana bir qon aylaniş moslaşuvi öpkadan taşqari töqimalarda _sistem qon aylaniş kapillyarlari sonining ortişi_ bölib, u _angiogenez_ deb ataladi. Bu moslaşuv ayniqsa baland toğlarda tuğilib, ösgan hayvonlarda kuzatiladi, hayotining keyingi davrida baland balandlik ta’siriga uçragan hayvonlarda esa kamroq ifodalangan."
+  },
+  "ch44-f32": {
+   "text": "Surunkali gipoksiya ta’siridagi faol töqimalarda kapillyarlar sonining ortişi ayniqsa yaqqol böladi. Masalan, gipoksiya va baland toğdagi öpka gipertenziyasi tufayli öng qorinçaga tuşadigan ortiqça yukning birgalikdagi ta’siri natijasida öng qorinça muşagida kapillyarlar ziçligi keskin ortadi."
+  },
+  "ch44-f33": {
+   "text": "13 000–17 000 fut balandliklarda tabiiy yaşaydigan hayvonlarda hujayra mitoxondriyalari va hujayra oksidlaniş fermentlari tizimlari dengiz sathida yaşovçilarga qaraganda biroz köproq. Şuning uçun baland toğga akklimatizatsiyalangan odamlarning töqima hujayralari ham dengiz sathida yaşovçilarga qaraganda O₂ dan samaraliroq foydalana oladi, deb taxmin qilinadi.",
+   "lead": "Hujayra akklimatizatsiyasi."
+  },
+  "ch44-f34": {
+   "text": "Gipoksiya bilan induksiyalanadigan omillar — organizmning gipoksiyaga javobidagi “boş kalit”"
+  },
+  "ch44-f35": {
+   "text": "_Gipoksiya bilan induksiyalanadigan omillar_ (HIF) — kislorod mavjudligining kamayişiga javob beradigan va töqimalarga kislorodni yetarli yetkaziş hamda energiya almaşinuvi uçun zarur oqsillarni kodlaydigan bir qator genlarni faollaştiradigan DNK bilan boğlanuvçi transkripsiya omillari. HIF lar primitiv çuvalçanglardan tortib odamgaça deyarli barça kislorod bilan nafas oluvçi turlarda uçraydi. HIF lar, ayniqsa HIF-1 tomonidan boşqariladigan ayrim genlar quyidagilar: • Angiogenezni qözğatadigan tomir endoteliy ösiş omili bilan boğliq genlar • Eritrotsitlar işlab çiqarilişini qözğatadigan eritropoetin genlari • Energiyadan foydalanişda iştirok etadigan mitoxondrial genlar"
+  },
+  "ch44-f36": {
+   "text": "• Anaerob metabolizmda iştirok etadigan glikoliz fermentlari genlari • Öpka tomirlarini kengaytiradigan azot oksidining mavjudligini oşiradigan genlar. Kislorod yetarli bölganda turli genlarni faollaştiriş uçun zarur bölgan HIF subbirliklari öziga xos HIF gidroksilazalari tomonidan kamaytiriladi va nofaol holga keltiriladi. Gipoksiyada HIF gidroksilazalarining özi nofaol böladi va bu transkripsion faol HIF kompleksi hosil bölişiga imkon beradi. Şunday qilib, HIF lar organizmga gipoksiyaga tegişliça javob beriş imkonini beradigan “boş kalit” vazifasini bajaradi."
+  },
+  "ch44-f37": {
+   "text": "Baland toğlarda yaşaydigan mahalliy aholining tabiiy akklimatizatsiyasi"
+  },
+  "ch44-f38": {
+   "text": "And va Himolay toğlaridagi köplab mahalliy aholi 13 000 futdan yuqori balandliklarda yaşaydi. Peru Andlaridagi bir guruh odamlar 17 500 fut balandlikda yaşaydi va 19 000 fut balandlikdagi konda işlaydi. Bu mahalliy aholining köpçiligi şu baland joylarda tuğiladi va butun umrini şu yerda ötkazadi. Ular akklimatizatsiyaning barça jihatlari böyiça hatto eng yaxşi akklimatizatsiyalangan pasttekislik aholisidan ham ustun turadi, garçi pasttekislikliklar baland toğda 10 yil va undan köproq yaşagan bölsa ham. Mahalliy aholining akklimatizatsiyasi gödaklikdan boşlanadi. Ayniqsa kökrak qafasi ölçami ança katta, tana ölçami esa biroz kiçikroq böladi, bu ventilyatsiya qobiliyatining tana massasiga yuqori nisbatini ta’minlaydi. Tuğilganidan boşlab qöşimça haydaş hajmini haydaydigan mahalliy aholining yuragi ham pasttekislik aholisining yuragidan ança katta böladi."
+  },
+  "ch44-f39": {
+   "text": "Bu mahalliy aholida qon orqali töqimalarga O₂ yetkazilişi ham ança yengillaşgan. Masalan, **Rasm 44-2** da dengiz sathida yaşaydigan mahalliy aholi va 15 000 futda yaşaydigan ularning tengdoşlari uçun O₂-gemoglobin dissotsiatsiya egri çiziqlari körsatilgan. E’tibor bering: baland toğdagi mahalliy aholining arterial Po₂ si atigi 40 mm sim. ust., ammo gemoglobin miqdori köproq bölgani uçun ularning arterial qonidagi O₂ miqdori pastroq balandlikdagi mahalliy aholining qonidagidan köp. Şuningdek e’tibor bering: arterial Po₂ juda past bölişiga qaramay, baland toğ aholisining venoz Po₂ si pasttekislik aholisining venoz Po₂ sidan atigi 15 mm sim. ust. kam. Bu tabiiy akklimatizatsiyalangan baland toğ aholisida töqimalarga O₂ taşilişi juda samarali ekanini körsatadi."
+  },
+  "ch44-f41": {
+   "text": "Baland toğda iş qobiliyatining pasayişi va akklimatizatsiyaning ijobiy ta’siri"
+  },
+  "ch44-f42": {
+   "text": "Gipoksiya keltirib çiqaradigan aqliy susayişdan taşqari, gipoksiya holatida barça muşaklarning — skelet muşaklari kabi yurak muşagining ham iş qobiliyati keskin pasayadi. Umuman olganda, iş qobiliyati organizm erişa oladigan O₂ ni maksimal qabul qiliş tezligining pasayişiga töğri mutanosib ravişda kamayadi."
+  },
+  "ch44-f43": {
+   "text": "Iş qobiliyatini oşirişda akklimatizatsiyaning ahamiyati haqida tasavvur beriş uçun **Jadval 44-2** da körsatilgan 17 000 fut balandlikdagi akklimatizatsiyalanmagan va akklimatizatsiyalangan odamlarning me’yorga nisbatan foizlarda ifodalangan iş qobiliyatlari orasidagi katta farqlarni körib çiqing. Şunday qilib, tabiiy akklimatizatsiyalangan mahalliy odamlar hatto baland toğda ham dengiz sathidagi pasttekislik aholisinikiga deyarli teng kunlik iş unumiga erişa oladi, ammo hatto yaxşi akklimatizatsiyalangan pasttekislik aholisi ham bu natijaga deyarli heç qaçon erişa olmaydi."
+  },
+  "ch44-f45": {
+   "text": "Ötkir toğ kasalligi va baland toğdagi öpka şişi"
+  },
+  "ch44-f46": {
+   "text": "Baland toğlarga tez köterilgan odamlarning oz qismi ötkir kasallanadi va ularga O₂ berilmasa yoki tezda past balandlikka tuşirilmasa, ölişi mumkin. Kasallik köterilgandan keyin bir neça soatdan taxminan 2 kungaça bölgan vaqt içida boşlanadi. Köpinça ikki hodisa kuzatiladi: 1. _Ötkir miya şişi._ Bu şiş gipoksiya keltirib çiqaradigan miya qon tomirlarining mahalliy kengayişi natijasida yuzaga keladi, deb hisoblanadi. Arteriolalarning kengayişi kapillyarlarga qon oqimini oşiradi va şu bilan kapillyar bosimni köteradi, bu esa öz navbatida suyuqlikning miya töqimalariga sizib çiqişiga sabab böladi. Tomir endoteliy ösiş omili va yalliğlaniş sitokinlari kabi kimyoviy omillar ham endoteliy hujayralarining ötkazuvçanligini oşirib, şişga hissa qöşişi mumkin. Söngra miya şişi kuçli mökalaniş va miya faoliyati buzilişi bilan boğliq boşqa ta’sirlarga olib kelişi mumkin."
+  },
+  "ch44-f47": {
+   "text": "2. _Ötkir öpka şişi._ Ötkir öpka şişining sababi hali aniq emas, ammo uni quyidagiça tuşuntiriş mumkin. Kuçli gipoksiya öpka arteriolalarining kuçli torayişiga sabab böladi, ammo torayiş öpkaning ayrim qismlarida boşqa qismlariga qaraganda ança kuçli böladi. Şuning uçun öpka qon oqimining tobora köp qismi tobora kamayib borayotgan, hali torayişmagan öpka tomirlari orqali ötişga majbur böladi. Taxmin qilinişiça, natijada öpkaning şu sohalarida kapillyar bosim ayniqsa yuqori böladi va mahalliy şiş yuzaga keladi. Jarayonning öpkaning tobora köp sohalariga tarqalişi öpka şişining yoyilişiga va öldiruvçi bölişi mumkin bölgan öpka faoliyatining oğir buzilişiga olib keladi. Odamga O₂ bilan nafas oldiriş odatda jarayonni bir neça soat içida orqaga qaytaradi. Miyada kapillyarlar ötkazuvçanligini oşiradi deb taxmin qilingan xuddi şu kimyoviy omillar öpka kapillyarlari ötkazuvçanligining ortişiga va öpkada şiş hosil bölişiga ham hissa qöşişi mumkin."
+  },
+  "ch44-f48": {
+   "text": "Surunkali toğ kasalligi"
+  },
+  "ch44-f49": {
+   "text": "Ba’zan baland toğda juda uzoq qolgan odamda _surunkali toğ kasalligi_ rivojlanadi va unda quyidagi ta’sirlar kuzatiladi: 1. Eritrotsitlar massasi va gematokrit juda yuqori böladi. 2. Öpka arteriyasidagi bosim akklimatizatsiya vaqtida kuzatiladigan me’yoriy köterilişdan ham köproq köteriladi. 3. Yurakning öng tomoni keskin kattalaşadi. 4. Periferik arterial bosim tuşa boşlaydi. 5. Dimlanişli yurak yetişmovçiligi rivojlanadi. 6. Odam pastroq balandlikka tuşirilmasa, köpinça ölim yuz beradi. Bu hodisalar ketma-ketligining ehtimol uçta asosiy sababi bor: 1. Eritrotsitlar massasi şunçalik köpayadiki, qon qovuşqoqligi bir neça baravar ortadi. Bu ortgan qovuşqoqlik töqimalardagi qon oqimini _kamaytirişga_ intiladi, şuning uçun O₂ yetkazilişi ham kamaya boşlaydi. 2. Öpka gipoksiyasi tufayli öpka arteriolalari torayadi. 39-bobda tuşuntirilganidek, bu torayiş me’yorda qon oqimini O₂ si past alveolalardan O₂ si yuqori alveolalarga yönaltiriş uçun işlaydigan gipoksik tomir toraytiruvçi ta’sir natijasidir. Biroq endi _barça_ alveolalar O₂ si past holatda bölgani uçun barça arteriolalar torayadi, öpka arteriyasidagi bosim haddan taşqari köteriladi va yurakning öng tomoni yetişmovçiligi rivojlanadi. 3. Alveolyar arteriolalar spazmi qon oqimining köp qismini alveolalardan taşqaridagi öpka tomirlari orqali yönaltiradi. Bu qon yomon oksigenatsiyalanadigan öpka şunt oqimining ortiqçaligiga sabab böladi va muammoni yanada oğirlaştiradi. Bu holatdagi odamlarning köpçiligi pastroq balandlikka tuşirilganda bir neça kun yoki hafta içida tuzaladi."
+  },
+  "ch44-f50": {
+   "text": "",
+   "lead": "Aviatsiya va kosmos fiziologiyasida tezlanuvçi kuçlarning organizmga ta’siri"
+  },
+  "ch44-f51": {
+   "text": "Samolyot yoki kosmik kemada harakat tezligi va yönalişi tez özgargani uçun parvoz vaqtida organizmga bir neça turdagi tezlanuvçi kuçlar ta’sir qiladi. Parvoz boşida oddiy çiziqli tezlaniş, parvoz oxirida sekinlaşiş, apparat har safar burilganda esa markazdan qoçma tezlaniş yuzaga keladi."
+  },
+  "ch44-f52": {
+   "text": "Samolyot burilganda markazdan qoçma tezlaniş kuçi quyidagi boğliqlik bilan aniqlanadi:"
+  },
+  "ch44-f53": {
+   "text": "bu yerda _f_ — markazdan qoçma tezlaniş kuçi, _m_ — jism massasi, _v_ — harakat tezligi, _r_ — burilişning egrilik radiusi. Bu formuladan körinib turibdiki, tezlik ortgani sari _markazdan qoçma tezlaniş kuçi tezlikning kvadratiga mutanosib ravişda ortadi_. Şuningdek, tezlaniş kuçi _burilişning keskinligiga (radius qança kiçik bölsa) töğri mutanosib_ ekani ham aniq."
+  },
+  "ch44-f54": {
+   "text": "Uçuvçi şunçaki örindiqda öltirganda uning örindiqqa bosiş kuçi tortiş kuçi natijasida bölib, odamning vazniga teng böladi. Bu kuçning jadalligi +1 G deyiladi, çunki u tortiş kuçiga teng. Agar şönğişdan çiqiş vaqtida odamning örindiqqa bosiş kuçi me’yoriy vaznidan 5 baravar ortsa, örindiqqa ta’sir qiluvçi kuç +5 G ga teng böladi.",
+   "lead": "Tezlaniş kuçini ölçaş — “G”."
+  },
+  "ch44-f55": {
+   "text": "Agar samolyot taşqi sirtmoq (outside loop) bajarsa va odamni xavfsizlik kamari uşlab tursa, organizmga _manfiy G_ ta’sir qiladi. Agar odamni xavfsizlik kamari uşlab turgan kuç tana vazniga teng bölsa, manfiy kuç −1 G böladi."
+  },
+  "ch44-f56": {
+   "text": "Markazdan qoçma tezlanişning eng muhim ta’siri qon aylaniş tizimiga böladi, çunki qon harakatçan va markazdan qoçma kuçlar ta’sirida siljişi mumkin.",
+   "lead": "Qon aylaniş tizimiga ta’siri."
+  },
+  "ch44-f57": {
+   "text": "Uçuvçiga _musbat G_ ta’sir qilganda qon tananing eng pastki qismiga qarab markazdan qoçma kuç bilan siljiydi. Şunday qilib, markazdan qoçma tezlaniş kuçi +5 G bölsa va odam harakatsiz tik turgan bölsa, oyoq panjasi venalaridagi bosim keskin ortadi (≈450 mm sim. ust. gaça). Öltirgan holatda bosim deyarli 300 mm sim. ust. ga yetadi. Bundan taşqari, tananing pastki qismidagi tomirlarda bosim ortgani sari bu tomirlar passiv kengayadi va tananing yuqori qismidagi qonning katta qismi pastki tomirlarga siljiydi. Yurakka qon qaytmasa, u qonni hayday olmagani uçun tananing pastki qismida şu tarzda qança köp qon “töplansa”, yurak haydaş hajmi uçun şunça kam qon qoladi."
+  },
+  "ch44-f58": {
+   "text": "**Rasm 44-3** da öltirgan odamga +3,3 G markazdan qoçma tezlaniş kuçi birdan ta’sir qilganda tananing yuqori qismidagi sistolik va diastolik arterial bosimlarning (mos ravişda yuqori va pastki egri çiziqlar) özgarişlari körsatilgan. E’tibor bering: tezlaniş boşlangandan keyingi dastlabki bir neça soniyada bu ikkala bosim 22 mm sim. ust. dan pastga tuşadi, ammo keyingi 10–15 soniya içida sistolik bosim taxminan 55 mm sim. ust. gaça, diastolik bosim esa 20 mm sim. ust. gaça tiklanadi. Bu ikkilamçi tiklaniş asosan baroretseptor reflekslarining faollaşişi bilan boğliq."
+  },
+  "ch44-f60": {
+   "text": "4–6 G dan ortiq tezlaniş bir neça soniya içida körişning “qorayişiga” (blackout), qisqa vaqtdan keyin esa huşdan ketişga sabab böladi. Agar bunday kuçli tezlaniş davom etsa, odam nobud böladi."
+  },
+  "ch44-f61": {
+   "text": "Juda katta tezlaniş kuçlari hatto soniyaning bir qismi davomida ham umurtqalarni sindirişi mumkin. Örtaça odam öltirgan holatda umurtqa siniği yuz bergunça çiday oladigan musbat tezlaniş darajasi taxminan 20 G.",
+   "lead": "Umurtqalarga ta’siri."
+  },
+  "ch44-f62": {
+   "text": "Manfiy G ning organizmga ötkir ta’siri musbat G ta’siriga qaraganda kamroq keskin, ammo ehtimol uzoq muddatda köproq zararli. Uçuvçi odatda −4 dan −5 G gaça bölgan manfiy tezlaniş kuçlari bilan taşqi sirtmoqlarni doimiy zarar körmasdan bajara oladi, garçi bu boşda kuçli qisqa muddatli giperemiyaga sabab bölsa ham. Ba’zan miya şişi natijasida 15–20 daqiqa davom etadigan psixotik buzilişlar yuzaga keladi.",
+   "lead": "Manfiy G."
+  },
+  "ch44-f63": {
+   "text": "Ba’zan manfiy G kuçlari şunçalik katta (masalan, −20 G) va qonning boşga qarab siljişi şunçalik kuçli böladiki, miyadagi qon bosimi 300–400 mm sim. ust. ga yetadi va ba’zan boş yuzasidagi hamda miyadagi mayda tomirlarning yirtilişiga sabab böladi. Biroq kalla suyagi içidagi tomirlar kutilganidan kamroq yirtiladi. Buning sababi quyidagiça. Qon kalla tomirlariga qarab siljiyotgan bir vaqtda orqa miya suyuqligi ham boşga qarab siljiydi va orqa miya suyuqligining keskin ortgan bosimi miyaning taşqi tomonida yumşatuvçi bufer vazifasini bajarib, miya içi tomirlarining yirtilişiga yöl qöymaydi."
+  },
+  "ch44-f64": {
+   "text": "Közlar kalla suyagi bilan himoyalanmagani uçun kuçli manfiy G vaqtida ularda kuçli giperemiya yuzaga keladi. Natijada közlar köpinça vaqtinça körmay qoladi — bu holat _“qizariş”_ (redout) deb ataladi."
+  },
+  "ch44-f65": {
+   "text": "Musbat G vaqtida yuzaga kelişi mumkin bölgan qon aylaniş kollapsidan uçuvçilarni himoyalaş uçun maxsus usullar va qurilmalar işlab çiqilgan. Birinçidan, agar uçuvçi qorin muşaklarini juda qattiq taranglab, qorinni siqiş uçun oldinga engaşsa, qorin böşliğidagi yirik tomirlarda qon töplanişining bir qismining oldini oliş va körişning qorayişini keçiktiriş mumkin. Bundan taşqari, maxsus",
+   "lead": "Organizmni markazdan qoçma tezlaniş kuçlaridan himoyalaş."
+  },
+  "ch44-f66": {
+   "text": "“anti-G” kostyumlari işlab çiqilgan. Ular qorinning pastki qismi va oyoqlarda qon töplanişining oldini oladi. Ularning eng oddiysi G kuçi ortgani sari siquvçi xaltalarni havo bilan töldirib, oyoqlar va qoringa musbat bosim beradi."
+  },
+  "ch44-f67": {
+   "text": "Nazariy jihatdan, suvli idişga yoki suvli kostyumga botirilgan uçuvçida G kuçlarining qon aylanişiga ta’siri kam bölişi mumkin, çunki markazdan qoçma tezlaniş vaqtida tananing taşqi tomoniga bosadigan suvda hosil böladigan bosimlar tanada ta’sir qiluvçi kuçlarni deyarli aniq muvozanatlaydi. Biroq öpkadagi havo suvga botirilganiga qaramay yurak, öpka töqimalari va diafragmaning jiddiy ğayritabiiy holatlarga siljişiga imkon beradi. Şuning uçun bu usul qöllanilgan taqdirda ham xavfsizlik çegarasi deyarli aniq 10 G dan kam bölib qolardi."
+  },
+  "ch44-f68": {
+   "text": "Samolyotdan farqli ravişda kosmik kema tez buriliş qila olmaydi, şuning uçun kosmik kema ğayritabiiy aylanma harakatlarga tuşib qolgan hollardan taşqari markazdan qoçma tezlaniş kam ahamiyatga ega. Biroq start vaqtidagi tezlaniş va qöniş vaqtidagi sekinlaşiş juda katta bölişi mumkin. Ikkalasi ham _çiziqli tezlaniş_ turlari bölib, biri musbat, ikkinçisi manfiy.",
+   "lead": "Kosmik sayohatdagi tezlaniş kuçlari."
+  },
+  "ch44-f69": {
+   "text": "**Rasm 44-4** da uç bosqiçli kosmik kemaning starti vaqtidagi tezlanişning taxminiy profili körsatilgan. Unda birinçi bosqiç tezlatkiçi 9 G gaça, ikkinçi bosqiç tezlatkiçi esa 8 G gaça tezlaniş berişi körsatilgan. Tik turgan holatda inson tanasi bunday tezlanişga bardoş bera olmasdi, ammo _tezlaniş öqiga köndalang_ yarim yotgan holatda tezlaniş kuçlari bir neça daqiqa davom etişiga qaramay, bunday tezlanişga osongina bardoş beriş mumkin. Şundan astronavtlar foydalanadigan yotqiziladigan örindiqlarning sababi tuşunarli böladi."
+  },
+  "ch44-f71": {
+   "text": "Kosmik kema atmosferaga qaytib kirayotganda sekinlaşiş vaqtida ham muammolar yuzaga keladi. Max 1 tezligida (tovuş tezligi va tez uçadigan samolyotlar tezligi) harakatlanayotgan odamni taxminan 0,12 milya masofada xavfsiz sekinlaştiriş mumkin, Max 100 tezligida (sayyoralararo kosmik sayohatda mumkin bölgan tezlik) harakatlanayotgan odamni xavfsiz sekinlaştiriş uçun esa taxminan 10 000 milya masofa kerak böladi. Bu farqning asosiy sababi şuki, sekinlaşiş vaqtida yöqotiliş kerak bölgan energiyaning umumiy miqdori tezlikning _kvadratiga_ mutanosib. Buning özi Max 1 va Max 100 dan sekinlaşiş uçun zarur masofani taxminan 10 000 baravar oşiradi. Şuning uçun yuqori tezlikdan sekinlaşiş past tezlikdan sekinlaşişga qaraganda ança sekinroq amalga oşirilişi kerak."
+  },
+  "ch44-f72": {
+   "text": "Parasyutçi uçuvçi samolyotdan çiqqanda tuşiş tezligi dastlab aniq 0 fut/s böladi. Biroq tortiş kuçining tezlaştiruvçi ta’siri tufayli 1 soniya içida tuşiş tezligi 32 fut/s ga (havo qarşiligi bölmasa), 2 soniyada 64 fut/s ga yetadi va hokazo. Tuşiş tezligi ortgani sari tuşişni sekinlaştirişga intiladigan havo qarşiligi ham ortadi. Nihoyat havo qarşiligining sekinlaştiruvçi kuçi tortiş kuçining tezlaştiruvçi kuçini aniq muvozanatlaydi, şuning uçun taxminan 12 soniya tuşgandan keyin odam soatiga 109–119 milya (175 fut/s) yakuniy tezlikda tuşadi. Agar parasyutçi parasyutni oçişdan oldin yakuniy tezlikka allaqaçon yetgan bölsa, parasyut stroplariga 1200 funtgaça “oçiliş zarbasi yuki” tuşişi mumkin.",
+   "lead": "Parasyut bilan sakraşdagi sekinlaştiruvçi kuçlar."
+  },
+  "ch44-f73": {
+   "text": "Odatiy ölçamdagi parasyut parasyutçining tuşişini yakuniy tezlikning taxminan töqqizdan bir qismigaça sekinlaştiradi. Boşqaça aytganda, yerga tuşiş tezligi taxminan 20 fut/s, yerga uriliş kuçi esa parasyutsiz uriliş kuçining 1/81 qismiga teng böladi. Şunday bölsa ham, parasyutçi yerga tuşişga töğri örgatilmagan bölsa, uriliş kuçi tanaga jiddiy zarar yetkaziş uçun yetarli darajada katta. Aslida yerga uriliş kuçi parasyutsiz taxminan 6 fut balandlikdan sakraganda sezilişi mumkin bölgan kuç bilan deyarli bir xil. Oldindan ogohlantirilmagan bölsa, parasyutçi sezgilari tufayli aldanib, yerga töğri çözilgan oyoqlar bilan tuşadi. Bu holatda yerga tuşiş tana skelet öqi böylab juda katta sekinlaştiruvçi kuçlarni keltirib çiqaradi va çanoq, umurtqalar yoki oyoq siniğiga olib keladi. Şuning uçun örgatilgan parasyutçi yerga tuşiş zarbasini yumşatiş uçun tizzalarini bukib, ammo muşaklarini taranglab tuşadi."
+  },
+  "ch44-f74": {
+   "text": "",
+   "lead": "Germetik kosmik kemadagi “sun’iy iqlim”"
+  },
+  "ch44-f75": {
+   "text": "Kosmosda atmosfera bölmagani uçun kosmik kemada sun’iy atmosfera va iqlim yaratiliş kerak. Eng muhimi, bögilişning oldini oliş uçun O₂ konsentratsiyasi yetarli darajada yuqori, CO₂ konsentratsiyasi esa yetarli darajada past bölib qolişi kerak. Ayrim avvalgi kosmik parvozlarda taxminan 260 mm sim. ust. bosimdagi sof O₂ dan iborat kapsula atmosferasi işlatilgan, ammo hozirgi kosmik sayohatlarda oddiy havodagi gazlarga deyarli teng gazlar — O₂ dan 4 baravar köp azot va umumiy bosimi 760 mm sim. ust. bölgan aralaşma qöllaniladi. Aralaşmada azotning bölişi yonğin va portlaş ehtimolini ança kamaytiradi. U, şuningdek, sof O₂ bilan nafas olganda köpinça yuzaga keladigan öpkaning mahalliy atelektaz öçoqlari rivojlanişidan ham himoya qiladi, çunki mayda bronxlar şilliq tiqinlari bilan vaqtinça berkilganda O₂ tez sörilib ketadi."
+  },
+  "ch44-f76": {
+   "text": "Bir neça oydan uzoq davom etadigan kosmik sayohat uçun yetarli O₂ zaxirasini olib yuriş amaliy jihatdan imkonsiz. Şu sababli bir xil O₂ dan qayta-qayta foydalaniş uçun qayta işlaş usullari taklif qilingan. Ayrim qayta işlaş jarayonlari O₂ ajratiş uçun suvni elektroliz qiliş kabi sof fizik usullarga asoslangan. Boşqalari biologik usullarga, masalan, köp xlorofill saqlaydigan suvötlaridan fotosintez jarayoni orqali CO₂ dan O₂ ajratiş uçun foydalanişga asoslangan. Qayta işlaşning töliq qoniqarli tizimi hali yaratilmagan."
+  },
+  "ch44-f77": {
+   "text": "",
+   "lead": "Kosmosdagi vaznsizlik (mikrogravitatsiya)"
+  },
+  "ch44-f78": {
+   "text": "Orbitada aylanayotgan sun’iy yöldoşdagi yoki dvigateli işlamayotgan kosmik kemadagi odam _vaznsizlikni_, ya’ni ba’zan _mikrogravitatsiya_ deb ataladigan G kuçi deyarli nolga teng holatni boşdan keçiradi. Ya’ni odam kosmik kemaning tubiga, yonlariga yoki yuqorisiga tortilmaydi, balki uning bölmalari içida şunçaki suzib yuradi. Bu vaznsizlikning sababi tortiş kuçining tanani tortmasligi emas, çunki yaqin atrofdagi har qanday osmon jismining tortiş kuçi baribir ta’sir qiladi. Biroq tortiş kuçi kosmik kemaga ham, odamga ham bir vaqtda ta’sir qiladi, şuning uçun ikkalasi ham aynan bir xil tezlaniş kuçlari bilan va bir xil yönalişda tortiladi. Şu sababli odam kosmik kemaning biror aniq devoriga tortilmaydi."
+  },
+  "ch44-f79": {
+   "text": "Vaznsizlik davri juda uzoq bölmasa, uning fiziologik muammolari unçalik ahamiyatli emasligi aniqlangan. Yuzaga keladigan muammolarning köpçiligi vaznsizlikning uçta ta’siri bilan boğliq: (1) sayohatning dastlabki bir neça kunida harakat kasalligi (kinetoz); (2) tortiş kuçi me’yoriy gidrostatik bosimlarni hosil qilmagani uçun organizm içida suyuqliklarning siljişi; va (3) tortiş kuçiga qarşi turiş uçun muşak qisqarişi kuçi talab qilinmagani sababli jismoniy faollikning kamayişi.",
+   "lead": "Vaznsizlikning (mikrogravitatsiyaning) fiziologik muammolari."
+  },
+  "ch44-f80": {
+   "text": "Kosmik sayohatning dastlabki 2–5 kunida astronavtlarning deyarli 50% i köngil aynişi va ba’zan qusiş bilan keçadigan harakat kasalligini boşdan keçiradi. Bu harakat kasalligi ehtimol miyaning muvozanat markazlariga notaniş tartibdagi harakat signallarining kelişi va bir vaqtning özida tortiş kuçi signallarining yöqligi natijasida yuzaga keladi."
+  },
+  "ch44-f81": {
+   "text": "Kosmosda uzoq qolişning kuzatilgan ta’sirlari quyidagilar: (1) qon hajmining kamayişi; (2) eritrotsitlar massasining kamayişi; (3) muşak kuçi va iş qobiliyatining pasayişi; (4) yurakning maksimal haydaş hajmining kamayişi; va (5) suyaklardan kalsiy va fosfatning yöqotilişi hamda suyak massasining kamayişi. Bu ta’sirlarning köpçiligi uzoq vaqt töşakda yotgan odamlarda ham kuzatiladi. Şu sababli uzoq muddatli kosmik missiyalar davomida astronavtlar jismoniy maşq dasturlarini bajaradi."
+  },
+  "ch44-f82": {
+   "text": "Maşq dasturi kamroq jadal bölgan avvalgi kosmik laboratoriya ekspeditsiyalarida astronavtlar Yerga qaytgandan keyingi dastlabki bir neça kunda iş qobiliyatining keskin pasayişini boşdan keçirgan. Ular tortiş kuçiga qaytgandan keyingi taxminan birinçi kun davomida örnidan turganda qon hajmi kamaygani va arterial bosimni boşqaruvçi mexanizmlarning javobi susaygani sababli huşdan ketişga moyil bölgan (va hozir ham ma’lum darajada şunday)."
+  },
+  "ch44-f83": {
+   "text": "Juda uzoq kosmik parvozlarda va mikrogravitatsiyaga uzoq duç kelişda parvoz davomidagi jadal jismoniy maşqlarga qaramay yurak-qon tomir tizimi, skelet muşaklari va suyaklarda asta-sekin “detrenirovka” ta’sirlari yuzaga keladi. Bir neça oy davom etgan kosmik parvozlardagi astronavtlarni tekşiriş ular maşq qilişni davom ettirgan bölsalar ham, har oyda suyak massasining 1,0% igaça yöqotişi mumkinligini körsatgan. Mikrogravitatsiya muhitida uzoq qolişda yurak va skelet muşaklarining sezilarli atrofiyasi ham yuz beradi.",
+   "lead": "Vaznsizlikka uzoq duç kelişda yurak-qon tomir tizimi, muşaklar va suyaklarning “detrenirovkasi”."
+  },
+  "ch44-f84": {
+   "text": "Eng jiddiy ta’sirlardan biri yurak-qon tomir tizimining “detrenirovkasi” bölib, unga iş qobiliyatining pasayişi, qon hajmining kamayişi, baroretseptor reflekslarining buzilişi va ortostatik çidamlilikning pasayişi kiradi. Bu özgarişlar astronavtning Yerning töliq tortiş kuçiga qaytgandan keyin tik turiş yoki oddiy kundalik işlarni bajariş qobiliyatini keskin çeklaydi."
+  },
+  "ch44-f85": {
+   "text": "4–6 oy davom etgan kosmik parvozlardan qaytgan astronavtlar suyak sinişlariga ham moyil böladi va parvozdan oldingi yurak-qon tomir, suyak va muşak holatiga qaytişi uçun bir neça hafta kerak bölişi mumkin. Mars kabi boşqa sayyoralarni inson tomonidan tadqiq qilişga tayyorgarlik doirasida kosmik parvozlar uzoqlaşib borgani sari uzoq muddatli mikrogravitatsiya ta’sirlari astronavtlar qöngandan keyin, ayniqsa favqulodda qöniş holatida, ular uçun juda jiddiy xavf tuğdirişi mumkin. Şuning uçun jismoniy maşqlardan taşqari bu özgarişlarning oldini oladigan yoki ularni samaraliroq susaytiradigan qarşi çoralarni işlab çiqişga katta ilmiy kuç sarflanmoqda. Sinovdan ötkazilayotgan şunday qarşi çoralardan biri vaqti-vaqti bilan “sun’iy tortiş kuçi” qöllaşdir: astronavtlar 2–3 G gaça kuç hosil qiladigan maxsus işlangan qisqa yelkali sentrifugalarda öltirgan holda qisqa muddat (masalan, har kuni 1 soat) markazdan qoçma tezlanişga duç keladi."
+  }
+ },
+ "figures": {
+  "gh14-fig-44-01": "Havo yoki sof kislorod bilan nafas olganda baland balandlikning arterial qonning kislorod bilan töyinişiga ta’siri.",
+  "gh14-fig-44-02": "Baland toğ aholisi (qizil egri çiziq) va dengiz sathi aholisi (kök egri çiziq) qoni uçun kislorod-gemoglobin dissotsiatsiya egri çiziqlari: ularning tabiiy yaşaş muhitida qayd etilgan tegişli arterial va venoz Po₂ darajalari hamda kislorod miqdorlari körsatilgan. (Pan American Health Organization. Oxygen-dissociation curves for bloods of high-altitude and sea-level residents. Life at high altitudes. Washington, DC: Pan American Health Organization Scientific Publication No. 140, 1966 ma’lumotlari asosida.)",
+  "gh14-fig-44-03": "Öltirgan odamga yuqoridan pastga yönalgan 3,3 G tezlaniş kuçi birdan va uzluksiz ta’sir qilgandan keyin sistolik (egri çiziqning yuqori qismi) va diastolik (egri çiziqning pastki qismi) arterial bosimlarning özgarişlari. (Martin EE, Henry JP: Effects of time and temperature upon tolerance to positive acceleration. J Aviation Med 22:382, 1951 ma’lumotlari asosida.)",
+  "gh14-fig-44-04": "Kosmik kema starti vaqtidagi tezlaniş kuçlari.",
+  "gh14-tab-44-01": "Past atmosfera bosimining ötkir ta’sirining alveolyar gaz konsentratsiyalari va arterial qonning kislorod bilan töyinişiga ta’siri",
+  "gh14-tab-44-02": "Iş qobiliyatlaridagi farqlar"
+ }
+}

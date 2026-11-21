@@ -1,0 +1,1221 @@
+{
+ "origin": "Claude (DrStudy sessiyasi) — kitobning özbekça izohlari (Guyton & Hall, 14-naşr) asosida, 2026-11-17. Ekspert tekşiruvi kerak.",
+ "questions": [
+  {
+   "id": "q13-c68-01",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch68",
+   "stem": "1 mol (180 g) glyukoza töliq oksidlanganda qança erkin energiya ajraladi?",
+   "options": [
+    {
+     "id": "q13-c68-01-a",
+     "text": "7300 kal"
+    },
+    {
+     "id": "q13-c68-01-b",
+     "text": "12 000 kal"
+    },
+    {
+     "id": "q13-c68-01-c",
+     "text": "686 000 kal"
+    },
+    {
+     "id": "q13-c68-01-d",
+     "text": "4 100 000 kal"
+    }
+   ],
+   "answerOptionId": "q13-c68-01-c",
+   "explanation": "1 mol glyukoza töliq oksidlanganda 686 000 kal ajraladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch68",
+    "topicId": "13",
+    "blockId": "ch68-u3",
+    "printedPage": 792,
+    "pdfPage": 797,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c68-02",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch68",
+   "stem": "ATP dagi har bir yuqori energiyali boğ tana şaroitida taxminan qança energiya beradi?",
+   "options": [
+    {
+     "id": "q13-c68-02-a",
+     "text": "~100 kal/mol"
+    },
+    {
+     "id": "q13-c68-02-b",
+     "text": "~1 000 000 kal/mol"
+    },
+    {
+     "id": "q13-c68-02-c",
+     "text": "~686 000 kal/mol"
+    },
+    {
+     "id": "q13-c68-02-d",
+     "text": "~12 000 kal/mol"
+    }
+   ],
+   "answerOptionId": "q13-c68-02-d",
+   "explanation": "Standart şaroitda ~7300, tana şaroitida ~12 000 kal/mol.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch68",
+    "topicId": "13",
+    "blockId": "ch68-u5",
+    "printedPage": 792,
+    "pdfPage": 797,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c68-03",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch68",
+   "stem": "Uglevodlarni töqimalarga taşişning yakuniy umumiy yöli qaysi monosaxarid?",
+   "options": [
+    {
+     "id": "q13-c68-03-a",
+     "text": "Galaktoza"
+    },
+    {
+     "id": "q13-c68-03-b",
+     "text": "Fruktoza"
+    },
+    {
+     "id": "q13-c68-03-c",
+     "text": "Riboza"
+    },
+    {
+     "id": "q13-c68-03-d",
+     "text": "Glyukoza"
+    }
+   ],
+   "answerOptionId": "q13-c68-03-d",
+   "explanation": "Fruktoza va galaktozaning köpi jigarda glyukozaga aylanadi; jigar qonga deyarli faqat glyukoza çiqaradi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch68",
+    "topicId": "13",
+    "blockId": "ch68-u7",
+    "printedPage": 792,
+    "pdfPage": 797,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c68-04",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch68",
+   "stem": "Tanada işlatiladigan uglevodlarning qança qismi ATP hosil qiliş uçun sarflanadi?",
+   "options": [
+    {
+     "id": "q13-c68-04-a",
+     "text": "Deyarli heç biri"
+    },
+    {
+     "id": "q13-c68-04-b",
+     "text": "~50%"
+    },
+    {
+     "id": "q13-c68-04-c",
+     "text": "90% yoki köproği"
+    },
+    {
+     "id": "q13-c68-04-d",
+     "text": "~10%"
+    }
+   ],
+   "answerOptionId": "q13-c68-04-c",
+   "explanation": "Uglevodlarning 90% yoki köproği ATP hosil qilişga ketadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch68",
+    "topicId": "13",
+    "blockId": "ch68-u5",
+    "printedPage": 792,
+    "pdfPage": 797,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c68-05",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch68",
+   "stem": "Nima uçun jigar qonga deyarli faqat glyukoza çiqaradi?",
+   "options": [
+    {
+     "id": "q13-c68-05-a",
+     "text": "Jigarda köp glyukoza fosfataza bor va monosaxaridlar özaro aylana oladi"
+    },
+    {
+     "id": "q13-c68-05-b",
+     "text": "Galaktoza jigar hujayralariga kira olmaydi"
+    },
+    {
+     "id": "q13-c68-05-c",
+     "text": "Glyukoza jigarda hosil bölmaydi"
+    },
+    {
+     "id": "q13-c68-05-d",
+     "text": "Jigar fruktozani töliq yöq qiladi"
+    }
+   ],
+   "answerOptionId": "q13-c68-05-a",
+   "explanation": "Jigarda monosaxaridlar özaro aylanadi va glyukoza fosfataza tufayli glyukoza qonga çiqariladi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch68",
+    "topicId": "13",
+    "blockId": "ch68-u7",
+    "printedPage": 792,
+    "pdfPage": 797,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c69-01",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch69",
+   "stem": "Ovqatdagi yoğlar içakdan asosan qanday yöl bilan söriladi?",
+   "options": [
+    {
+     "id": "q13-c69-01-a",
+     "text": "Limfa orqali, xilomikronlar şaklida"
+    },
+    {
+     "id": "q13-c69-01-b",
+     "text": "Oşqozon devoridan qonga"
+    },
+    {
+     "id": "q13-c69-01-c",
+     "text": "Erkin yoğ kislotalari holida jigar arteriyasi orqali"
+    },
+    {
+     "id": "q13-c69-01-d",
+     "text": "Töğridan-töğri darvoza venasi orqali"
+    }
+   ],
+   "answerOptionId": "q13-c69-01-a",
+   "explanation": "Deyarli barça yoğlar içak limfasiga xilomikronlar şaklida söriladi (qisqa zanjirli yoğ kislotalari bundan mustasno).",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch69",
+    "topicId": "13",
+    "blockId": "ch69-u7",
+    "printedPage": 802,
+    "pdfPage": 807,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c69-02",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch69",
+   "stem": "Xilomikronlarni limfa tomir devoriga yopişişdan saqlovçi apolipoprotein qaysi?",
+   "options": [
+    {
+     "id": "q13-c69-02-a",
+     "text": "Albumin"
+    },
+    {
+     "id": "q13-c69-02-b",
+     "text": "Apo E"
+    },
+    {
+     "id": "q13-c69-02-c",
+     "text": "Apo B"
+    },
+    {
+     "id": "q13-c69-02-d",
+     "text": "Apo A"
+    }
+   ],
+   "answerOptionId": "q13-c69-02-c",
+   "explanation": "Xilomikron sirtiga adsorbsiyalangan apo B suspenziyani barqaror qiladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch69",
+    "topicId": "13",
+    "blockId": "ch69-u7",
+    "printedPage": 802,
+    "pdfPage": 807,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c69-03",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch69",
+   "stem": "Xilomikronlarning qondagi yarim yaşaş davri qança?",
+   "options": [
+    {
+     "id": "q13-c69-03-a",
+     "text": "1 hafta"
+    },
+    {
+     "id": "q13-c69-03-b",
+     "text": "10 daqiqadan kam emas, 12 soat"
+    },
+    {
+     "id": "q13-c69-03-c",
+     "text": "1 kun"
+    },
+    {
+     "id": "q13-c69-03-d",
+     "text": "1 soatdan kam"
+    }
+   ],
+   "answerOptionId": "q13-c69-03-d",
+   "explanation": "Yoğli ovqatdan keyin plazma loyqalanadi, lekin bir neça soatda tiniqlaşadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch69",
+    "topicId": "13",
+    "blockId": "ch69-u9",
+    "printedPage": 802,
+    "pdfPage": 807,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c69-04",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch69",
+   "stem": "Odam triglitseridlarida eng köp uçraydigan yoğ kislotalari qaysilar?",
+   "options": [
+    {
+     "id": "q13-c69-04-a",
+     "text": "Sirka, çumoli va moy kislotalari"
+    },
+    {
+     "id": "q13-c69-04-b",
+     "text": "Araxidon va linolen kislotalari"
+    },
+    {
+     "id": "q13-c69-04-c",
+     "text": "Limon va sut kislotalari"
+    },
+    {
+     "id": "q13-c69-04-d",
+     "text": "Stearin, olein va palmitin kislotalari"
+    }
+   ],
+   "answerOptionId": "q13-c69-04-d",
+   "explanation": "Stearin (18C, töyingan), olein (18C, bitta qöş boğ), palmitin (16C, töyingan).",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch69",
+    "topicId": "13",
+    "blockId": "ch69-u4",
+    "printedPage": 802,
+    "pdfPage": 807,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c69-05",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch69",
+   "stem": "Xolesterolning lipidlarga kiritilişining sababi nima?",
+   "options": [
+    {
+     "id": "q13-c69-05-a",
+     "text": "U energiya beruvçi asosiy modda"
+    },
+    {
+     "id": "q13-c69-05-b",
+     "text": "U glitserin hosilasi"
+    },
+    {
+     "id": "q13-c69-05-c",
+     "text": "Steroid yadrosi yoğ kislotalari bölaklaridan sintezlanadi va lipidlarga xos xossalarga ega"
+    },
+    {
+     "id": "q13-c69-05-d",
+     "text": "Unda uçta yoğ kislotasi bor"
+    }
+   ],
+   "answerOptionId": "q13-c69-05-c",
+   "explanation": "Xolesterolda yoğ kislotasi yöq, lekin steroid yadrosi yoğ kislotalari bölaklaridan hosil böladi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch69",
+    "topicId": "13",
+    "blockId": "ch69-u2",
+    "printedPage": 802,
+    "pdfPage": 807,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c70-01",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch70",
+   "stem": "Ortiqça aminokislotalarning azoti tanadan qanday şaklda çiqariladi?",
+   "options": [
+    {
+     "id": "q13-c70-01-a",
+     "text": "Ammiak gazi"
+    },
+    {
+     "id": "q13-c70-01-b",
+     "text": "Kreatin"
+    },
+    {
+     "id": "q13-c70-01-c",
+     "text": "Siydik kislotasi"
+    },
+    {
+     "id": "q13-c70-01-d",
+     "text": "Moçevina"
+    }
+   ],
+   "answerOptionId": "q13-c70-01-d",
+   "explanation": "Hujayralar tölgaç ortiqça aminokislotalar jigarda dezaminlanadi va azot moçevina körinişida çiqariladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch70",
+    "topicId": "13",
+    "blockId": "ch70-u1",
+    "printedPage": 814,
+    "pdfPage": 819,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c70-02",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch70",
+   "stem": "Qondagi aminokislotalarning normal miqdori qança?",
+   "options": [
+    {
+     "id": "q13-c70-02-a",
+     "text": "300–500 mg/dl"
+    },
+    {
+     "id": "q13-c70-02-b",
+     "text": "7 g/dl"
+    },
+    {
+     "id": "q13-c70-02-c",
+     "text": "1–2 mg/dl"
+    },
+    {
+     "id": "q13-c70-02-d",
+     "text": "35–65 mg/dl"
+    }
+   ],
+   "answerOptionId": "q13-c70-02-d",
+   "explanation": "Qonda 35–65 mg/dl aminokislota bor, har biriga örtaça ~2 mg/dl.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch70",
+    "topicId": "13",
+    "blockId": "ch70-u5",
+    "printedPage": 814,
+    "pdfPage": 819,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c70-03",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch70",
+   "stem": "Aminokislotalar hujayraga qanday kiradi?",
+   "options": [
+    {
+     "id": "q13-c70-03-a",
+     "text": "Oddiy diffuziya bilan teşiklardan"
+    },
+    {
+     "id": "q13-c70-03-b",
+     "text": "Faqat taşuvçilar orqali (yengillaşgan yoki faol transport)"
+    },
+    {
+     "id": "q13-c70-03-c",
+     "text": "Osmos bilan"
+    },
+    {
+     "id": "q13-c70-03-d",
+     "text": "Pinotsitoz bilan"
+    }
+   ],
+   "answerOptionId": "q13-c70-03-b",
+   "explanation": "Molekulalar teşiklardan diffuziya qiliş uçun juda katta, şuning uçun faqat taşuvçilar orqali ötadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch70",
+    "topicId": "13",
+    "blockId": "ch70-u5",
+    "printedPage": 814,
+    "pdfPage": 819,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c70-04",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch70",
+   "stem": "Tana quruq moddasining qança qismini oqsillar taşkil qiladi?",
+   "options": [
+    {
+     "id": "q13-c70-04-a",
+     "text": "~1/4 qismi"
+    },
+    {
+     "id": "q13-c70-04-b",
+     "text": "~3/4 qismi"
+    },
+    {
+     "id": "q13-c70-04-c",
+     "text": "~1/2 qismi"
+    },
+    {
+     "id": "q13-c70-04-d",
+     "text": "~1/10 qismi"
+    }
+   ],
+   "answerOptionId": "q13-c70-04-b",
+   "explanation": "Oqsillar — struktura oqsillari, fermentlar, nukleoproteinlar, taşuvçilar va qisqaruvçi oqsillar.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch70",
+    "topicId": "13",
+    "blockId": "ch70-u1",
+    "printedPage": 814,
+    "pdfPage": 819,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c71-01",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch71",
+   "stem": "Jigarning funksional birligi nima?",
+   "options": [
+    {
+     "id": "q13-c71-01-a",
+     "text": "Alveola"
+    },
+    {
+     "id": "q13-c71-01-b",
+     "text": "Jigar bölakçasi (lobule)"
+    },
+    {
+     "id": "q13-c71-01-c",
+     "text": "Atsinus"
+    },
+    {
+     "id": "q13-c71-01-d",
+     "text": "Nefron"
+    }
+   ],
+   "answerOptionId": "q13-c71-01-b",
+   "explanation": "Jigarda 50 000–100 000 bölakça bor; har biri markaziy vena atrofida qurilgan.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch71",
+    "topicId": "13",
+    "blockId": "ch71-u3",
+    "printedPage": 820,
+    "pdfPage": 825,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c71-02",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch71",
+   "stem": "Jigar sinusoidlarida bakteriyalarni fagotsitoz qiladigan hujayralar qaysilar?",
+   "options": [
+    {
+     "id": "q13-c71-02-a",
+     "text": "Endotelial hujayralar"
+    },
+    {
+     "id": "q13-c71-02-b",
+     "text": "Kupffer hujayralari"
+    },
+    {
+     "id": "q13-c71-02-c",
+     "text": "Ito hujayralari"
+    },
+    {
+     "id": "q13-c71-02-d",
+     "text": "Gepatotsitlar"
+    }
+   ],
+   "answerOptionId": "q13-c71-02-b",
+   "explanation": "Kupffer hujayralari — sinusoidlarni qoplaydigan rezident makrofaglar.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch71",
+    "topicId": "13",
+    "blockId": "ch71-u3",
+    "printedPage": 820,
+    "pdfPage": 825,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c71-03",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch71",
+   "stem": "Jigarga keladigan qonning eng köp qismi qayerdan keladi?",
+   "options": [
+    {
+     "id": "q13-c71-03-a",
+     "text": "Taloq arteriyasidan"
+    },
+    {
+     "id": "q13-c71-03-b",
+     "text": "Darvoza venasidan (~1050 ml/min)"
+    },
+    {
+     "id": "q13-c71-03-c",
+     "text": "Jigar arteriyasidan (~1050 ml/min)"
+    },
+    {
+     "id": "q13-c71-03-d",
+     "text": "Pastki kovak venadan"
+    }
+   ],
+   "answerOptionId": "q13-c71-03-b",
+   "explanation": "Darvoza venadan ~1050 ml/min, jigar arteriyasidan ~300 ml/min.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch71",
+    "topicId": "13",
+    "blockId": "ch71-u5",
+    "printedPage": 820,
+    "pdfPage": 825,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c71-04",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch71",
+   "stem": "Quyidagilardan qaysi biri jigar funksiyasi EMAS?",
+   "options": [
+    {
+     "id": "q13-c71-04-a",
+     "text": "Öt hosil qiliş"
+    },
+    {
+     "id": "q13-c71-04-b",
+     "text": "Vitamin va temirni saqlaş"
+    },
+    {
+     "id": "q13-c71-04-c",
+     "text": "Eritropoetin işlab çiqarişning asosiy manbai böliş"
+    },
+    {
+     "id": "q13-c71-04-d",
+     "text": "Iviş omillarini hosil qiliş"
+    }
+   ],
+   "answerOptionId": "q13-c71-04-c",
+   "explanation": "Eritropoetinning asosiy manbai buyrak; jigar öt, iviş omillari hosil qiladi, vitamin va temir saqlaydi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch71",
+    "topicId": "13",
+    "blockId": "ch71-u1",
+    "printedPage": 820,
+    "pdfPage": 825,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c71-05",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch71",
+   "stem": "Disse böşliqlari nima?",
+   "options": [
+    {
+     "id": "q13-c71-05-a",
+     "text": "Sinusoid endoteliysi va jigar hujayralari orasidagi tor perisinusoidal böşliqlar"
+    },
+    {
+     "id": "q13-c71-05-b",
+     "text": "Markaziy venalar"
+    },
+    {
+     "id": "q13-c71-05-c",
+     "text": "Portal triadalar"
+    },
+    {
+     "id": "q13-c71-05-d",
+     "text": "Öt kapillyarlari"
+    }
+   ],
+   "answerOptionId": "q13-c71-05-a",
+   "explanation": "Endoteliydagi katta teşiklar tufayli plazma moddalari va oqsillar bu böşliqlarga erkin ötadi; ortiqça suyuqlik limfa orqali olinadi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch71",
+    "topicId": "13",
+    "blockId": "ch71-u3",
+    "printedPage": 820,
+    "pdfPage": 825,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c72-01",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch72",
+   "stem": "1 g yoğ organizmda qança foydali energiya beradi?",
+   "options": [
+    {
+     "id": "q13-c72-01-a",
+     "text": "9 Kal"
+    },
+    {
+     "id": "q13-c72-01-b",
+     "text": "7 Kal"
+    },
+    {
+     "id": "q13-c72-01-c",
+     "text": "4 Kal"
+    },
+    {
+     "id": "q13-c72-01-d",
+     "text": "12 Kal"
+    }
+   ],
+   "answerOptionId": "q13-c72-01-a",
+   "explanation": "Fiziologik energiya: uglevod 4, yoğ 9, oqsil 4 Kal/g.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch72",
+    "topicId": "13",
+    "blockId": "ch72-u3",
+    "printedPage": 826,
+    "pdfPage": 831,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c72-02",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch72",
+   "stem": "Kvaşiorkor qaysi ovqatlaniş bilan boğliq?",
+   "options": [
+    {
+     "id": "q13-c72-02-a",
+     "text": "Ortiqça göşt iste’mol qiliş"
+    },
+    {
+     "id": "q13-c72-02-b",
+     "text": "Yoğning ortiqça iste’moli"
+    },
+    {
+     "id": "q13-c72-02-c",
+     "text": "Asosan makkajöxori iste’mol qiliş (triptofan va lizin yetişmovçiligi)"
+    },
+    {
+     "id": "q13-c72-02-d",
+     "text": "Faqat sabzavot iste’mol qiliş"
+    }
+   ],
+   "answerOptionId": "q13-c72-02-c",
+   "explanation": "Makkajöxori oqsilida triptofan va lizin kam; dukkaklilar ularga boy va makkajöxorini töldiradi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch72",
+    "topicId": "13",
+    "blockId": "ch72-u5",
+    "printedPage": 826,
+    "pdfPage": 831,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c72-03",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch72",
+   "stem": "Gipotalamusning qaysi yadrosidagi neyronlar (POMC va AGRP/NPY) iştahani boşqaradi?",
+   "options": [
+    {
+     "id": "q13-c72-03-a",
+     "text": "Supraoptik yadro"
+    },
+    {
+     "id": "q13-c72-03-b",
+     "text": "Arkuat yadro"
+    },
+    {
+     "id": "q13-c72-03-c",
+     "text": "Paraventrikulyar yadro"
+    },
+    {
+     "id": "q13-c72-03-d",
+     "text": "Suprakiazmatik yadro"
+    }
+   ],
+   "answerOptionId": "q13-c72-03-b",
+   "explanation": "Arkuat yadro neyronlari içak gormonlari, leptin, insulin va ozuqa moddalaridan signal oladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch72",
+    "topicId": "13",
+    "blockId": "ch72-u1",
+    "printedPage": 826,
+    "pdfPage": 831,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c72-04",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch72",
+   "stem": "Kuniga qança tana oqsili parçalanadi?",
+   "options": [
+    {
+     "id": "q13-c72-04-a",
+     "text": "200–300 g"
+    },
+    {
+     "id": "q13-c72-04-b",
+     "text": "Umuman parçalanmaydi"
+    },
+    {
+     "id": "q13-c72-04-c",
+     "text": "1–2 g"
+    },
+    {
+     "id": "q13-c72-04-d",
+     "text": "20–30 g"
+    }
+   ],
+   "answerOptionId": "q13-c72-04-d",
+   "explanation": "Şuning uçun yangi oqsil kerak; uglevod va yoğ oqsilni tejaydi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch72",
+    "topicId": "13",
+    "blockId": "ch72-u5",
+    "printedPage": 826,
+    "pdfPage": 831,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c73-01",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch73",
+   "stem": "Hujayraning \"energiya valyutasi\" nima?",
+   "options": [
+    {
+     "id": "q13-c73-01-a",
+     "text": "NADH"
+    },
+    {
+     "id": "q13-c73-01-b",
+     "text": "Fosfokreatin"
+    },
+    {
+     "id": "q13-c73-01-c",
+     "text": "Glyukoza"
+    },
+    {
+     "id": "q13-c73-01-d",
+     "text": "ATP"
+    }
+   ],
+   "answerOptionId": "q13-c73-01-d",
+   "explanation": "Ozuqa energiyasi hujayra funksiyalariga deyarli faqat ATP (yoki GTP) orqali yetkaziladi; fosfokreatin uning buferi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch73",
+    "topicId": "13",
+    "blockId": "ch73-u1",
+    "printedPage": 842,
+    "pdfPage": 847,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c73-02",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch73",
+   "stem": "Hujayradagi energiya ajraliş tezligini asosan nima boşqaradi?",
+   "options": [
+    {
+     "id": "q13-c73-02-a",
+     "text": "ADP konsentratsiyasi (hujayra faolligi)"
+    },
+    {
+     "id": "q13-c73-02-b",
+     "text": "Harorat"
+    },
+    {
+     "id": "q13-c73-02-c",
+     "text": "Kislorod miqdori"
+    },
+    {
+     "id": "q13-c73-02-d",
+     "text": "Glyukoza konsentratsiyasi"
+    }
+   ],
+   "answerOptionId": "q13-c73-02-a",
+   "explanation": "Hujayra faol bölsa ADP köpayadi va energiya ajralişi tezlaşadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch73",
+    "topicId": "13",
+    "blockId": "ch73-u1",
+    "printedPage": 842,
+    "pdfPage": 847,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c73-03",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch73",
+   "stem": "Maksimal muşak qisqarişi davrlarida ATP sarfi tinç holatdagidan kamida neça baravar köp?",
+   "options": [
+    {
+     "id": "q13-c73-03-a",
+     "text": "1000 baravar"
+    },
+    {
+     "id": "q13-c73-03-b",
+     "text": "10 baravar"
+    },
+    {
+     "id": "q13-c73-03-c",
+     "text": "150 baravar"
+    },
+    {
+     "id": "q13-c73-03-d",
+     "text": "2 baravar"
+    }
+   ],
+   "answerOptionId": "q13-c73-03-c",
+   "explanation": "Miozin ATP ni ADP ga parçalaydi; maksimal qisqarişda sarf kamida 150 baravar oşadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch73",
+    "topicId": "13",
+    "blockId": "ch73-u3",
+    "printedPage": 842,
+    "pdfPage": 847,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c73-04",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch73",
+   "stem": "Nima uçun metabolizm tezligi issiqlik ajralişi bilan ifodalanadi?",
+   "options": [
+    {
+     "id": "q13-c73-04-a",
+     "text": "Tanada ajralgan energiyaning deyarli hammasi oxir-oqibat issiqlikka aylanadi"
+    },
+    {
+     "id": "q13-c73-04-b",
+     "text": "Muşaklar faqat issiqlik hosil qiladi"
+    },
+    {
+     "id": "q13-c73-04-c",
+     "text": "Issiqlik ATP dan köproq energiya saqlaydi"
+    },
+    {
+     "id": "q13-c73-04-d",
+     "text": "Faqat issiqlikni ölçaş mumkin"
+    }
+   ],
+   "answerOptionId": "q13-c73-04-a",
+   "explanation": "Hatto mexanik iş va sintez energiyasi ham oxir-oqibat issiqlik bölib ajraladi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch73",
+    "topicId": "13",
+    "blockId": "ch73-u1",
+    "printedPage": 842,
+    "pdfPage": 847,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c74-01",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch74",
+   "stem": "Tana haroratini boşqaruvçi asosiy markaz qayerda joylaşgan?",
+   "options": [
+    {
+     "id": "q13-c74-01-a",
+     "text": "Orqa miyada"
+    },
+    {
+     "id": "q13-c74-01-b",
+     "text": "Miyaçada"
+    },
+    {
+     "id": "q13-c74-01-c",
+     "text": "Gipotalamusda"
+    },
+    {
+     "id": "q13-c74-01-d",
+     "text": "Uzunçoq miyada"
+    }
+   ],
+   "answerOptionId": "q13-c74-01-c",
+   "explanation": "Oldingi gipotalamus-preoptik soha sezadi, orqa gipotalamus integratsiya qiladi; belgilangan nuqta ~37,1°C.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch74",
+    "topicId": "13",
+    "blockId": "ch74-u1",
+    "printedPage": 849,
+    "pdfPage": 854,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c74-02",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch74",
+   "stem": "Töğri içakda ölçangan harorat oğizdagidan qançaga yuqori?",
+   "options": [
+    {
+     "id": "q13-c74-02-a",
+     "text": "~0,1°C pastroq"
+    },
+    {
+     "id": "q13-c74-02-b",
+     "text": "~0,6°C (1°F)"
+    },
+    {
+     "id": "q13-c74-02-c",
+     "text": "Teng"
+    },
+    {
+     "id": "q13-c74-02-d",
+     "text": "~2°C"
+    }
+   ],
+   "answerOptionId": "q13-c74-02-b",
+   "explanation": "Örtaça oğizda 36,7–37,0°C, töğri içakda ~0,6°C yuqori.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch74",
+    "topicId": "13",
+    "blockId": "ch74-u3",
+    "printedPage": 849,
+    "pdfPage": 854,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c74-03",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch74",
+   "stem": "Teri osti yoği issiqlikni boşqa töqimalarga nisbatan qanday ötkazadi?",
+   "options": [
+    {
+     "id": "q13-c74-03-a",
+     "text": "Umuman ötkazmaydi"
+    },
+    {
+     "id": "q13-c74-03-b",
+     "text": "Teng ötkazadi"
+    },
+    {
+     "id": "q13-c74-03-c",
+     "text": "3 baravar yomon"
+    },
+    {
+     "id": "q13-c74-03-d",
+     "text": "3 baravar yaxşi"
+    }
+   ],
+   "answerOptionId": "q13-c74-03-c",
+   "explanation": "Teri osti yoği issiqlik izolyatori — u teri harorati muhitga yaqinlaşsa ham yadro haroratini saqlaydi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch74",
+    "topicId": "13",
+    "blockId": "ch74-u8",
+    "printedPage": 849,
+    "pdfPage": 854,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c74-04",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch74",
+   "stem": "Isitma qanday mexanizm bilan yuzaga keladi?",
+   "options": [
+    {
+     "id": "q13-c74-04-a",
+     "text": "Pirogenlar gipotalamusdagi belgilangan nuqtani kötaradi"
+    },
+    {
+     "id": "q13-c74-04-b",
+     "text": "Teri tomirlari kengayib issiqlik yöqotiladi"
+    },
+    {
+     "id": "q13-c74-04-c",
+     "text": "Metabolizm butunlay töxtaydi"
+    },
+    {
+     "id": "q13-c74-04-d",
+     "text": "Ter ajralişi kuçayadi"
+    }
+   ],
+   "answerOptionId": "q13-c74-04-a",
+   "explanation": "Isitma — pirogenlar ta’sirida gipotalamus belgilangan nuqtasining kötarilişi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch74",
+    "topicId": "13",
+    "blockId": "ch74-u1",
+    "printedPage": 849,
+    "pdfPage": 854,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q13-c74-05",
+   "version": 1,
+   "topicId": "13",
+   "lessonId": "ch74",
+   "stem": "Qaysi gormon issiqlik hosil bölişini asosan oşiradi?",
+   "options": [
+    {
+     "id": "q13-c74-05-a",
+     "text": "Tiroksin"
+    },
+    {
+     "id": "q13-c74-05-b",
+     "text": "Glyukagon"
+    },
+    {
+     "id": "q13-c74-05-c",
+     "text": "Insulin"
+    },
+    {
+     "id": "q13-c74-05-d",
+     "text": "Aldosteron"
+    }
+   ],
+   "answerOptionId": "q13-c74-05-a",
+   "explanation": "Issiqlik hosil bölişini bazal metabolizm, muşak faolligi, tiroksin, adrenalin/noradrenalin va hazm oşiradi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch74",
+    "topicId": "13",
+    "blockId": "ch74-u5",
+    "printedPage": 849,
+    "pdfPage": 854,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  }
+ ]
+}

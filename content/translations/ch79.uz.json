@@ -1,0 +1,553 @@
+{
+ "lessonId": "ch79",
+ "lang": "uz",
+ "bookId": "guyton-hall-14",
+ "chapter": 79,
+ "sourceContentVersion": "2026-11-14.1",
+ "status": "needs_review",
+ "method": "manual",
+ "translator": "Claude (DrStudy sessiyasi)",
+ "model": null,
+ "createdAt": "2026-11-20T15:14:48.204Z",
+ "updatedAt": "2026-11-20T15:14:48.204Z",
+ "coverage": {
+  "translated": 173,
+  "total": 173
+ },
+ "note": "Kitob matnining töliq özbekça tarjimasi (qisqartirilmagan). Ekspert tekşiruvidan ötmagan.",
+ "blocks": {
+  "ch79-f0": {
+   "text": "Meda osti bezi hazm funksiyalaridan taşqari glyukoza, lipidlar va oqsillar metabolizmini me’yoriy boşqariş uçun hal qiluvçi ahamiyatga ega bölgan ikkita asosiy gormon — _insulin_ va _glyukagonni_ ajratadi. Meda osti bezi _amilin, somatostatin_ va _meda osti bezi polipeptidi_ kabi boşqa gormonlarni ham ajratsa-da, ularning funksiyalari unça yaxşi aniqlanmagan. Bu bobning asosiy maqsadi — insulin va glyukagonning fiziologik rollarini hamda bu gormonlarning anormal sekretsiyasi yoki faolligi tufayli yuzaga keladigan kasalliklar, ayniqsa _qandli diabet_ patofiziologiyasini muhokama qiliş."
+  },
+  "ch79-f1": {
+   "text": "**Rasm 79-1** da körsatilganidek, meda osti bezi ikki asosiy turdagi töqimadan iborat: (1) ön ikki barmoqli içakka hazm şiralarini ajratadigan _atsinuslar_ va (2) insulin va glyukagonni bevosita qonga ajratadigan _Langergans orolçalari_. Meda osti bezining hazm sekretlari 65-bobda muhokama qilingan."
+  },
+  "ch79-f3": {
+   "text": "Odam meda osti bezida 1–2 million Langergans orolçasi bor. Har bir orolçaning diametri atigi taxminan 0,3 millimetr bölib, u hujayralari gormonlarini ajratadigan mayda kapillyarlar atrofida taşkil topgan. Orolçalarda morfologik va böyaliş xususiyatlari bilan bir-biridan farqlanadigan uçta asosiy turdagi hujayralar — _alfa, beta_ va _delta_ hujayralar bor."
+  },
+  "ch79-f4": {
+   "text": "Orolçalar barça hujayralarining taxminan 60% ini taşkil etadigan beta hujayralar asosan har bir orolçaning örtasida joylaşgan bölib, _insulin_ va köpinça insulin bilan parallel ajraladigan, ammo funksiyasi yaxşi tuşunilmagan gormon — _amilinni_ ajratadi. Jami hujayralarning taxminan 25% ini taşkil etadigan alfa hujayralar _glyukagon_, taxminan 10% ini taşkil etadigan delta hujayralar esa _somatostatin_ ajratadi. Bundan taşqari, orolçalarda kamida yana bir turdagi hujayra — _PP hujayra_ oz miqdorda bölib, u _meda osti bezi polipeptidi_ deb ataladigan gormonni ajratadi."
+  },
+  "ch79-f5": {
+   "text": "Langergans orolçalaridagi bu hujayra turlari orasidagi ziç özaro boğliqlik hujayralararo aloqani va ayrim gormonlar sekretsiyasining boşqa gormonlar tomonidan bevosita boşqarilişini ta’minlaydi. Masalan, insulin glyukagon sekretsiyasini, amilin insulin sekretsiyasini, somatostatin esa ham insulin, ham glyukagon sekretsiyasini tormozlaydi."
+  },
+  "ch79-f6": {
+   "text": "INSULIN VA UNING METABOLIK TA’SIRLARI"
+  },
+  "ch79-f7": {
+   "text": "Insulin birinçi marta 1922-yilda Banting va Best tomonidan meda osti bezidan ajratib olingan va deyarli bir keçada qandli diabetning oğir şakllari bilan oğrigan bemorlarni soğliğining tez yomonlaşişi va erta ölimdan qutqargan. Tarixan insulin “qondagi qand” bilan boğlanib kelgan va haqiqatan ham insulin ugleovodlar metabolizmiga kuçli ta’sir körsatadi. Biroq atsidoz va arterioskleroz kabi holatlarga sabab böladigan yoğ metabolizmi buzilişlari ham qandli diabetli bemorlarda kasallanuvçanlik va ölimning muhim sabablaridir. Uzoq vaqt davolanmagan diabetli bemorlarda oqsil sintezlaş qobiliyati pasayadi, bu esa töqimalarning ozib ketişiga va köplab hujayra funksiyalarining buzilişiga olib keladi. Şuning uçun insulin yoğ va oqsil metabolizmiga ugleovodlar metabolizmiga ta’siriça deyarli kuçli ta’sir körsatişi aniq."
+  },
+  "ch79-f8": {
+   "text": "INSULIN ENERGIYA MOLLIGI BILAN BOĞLIQ GORMON"
+  },
+  "ch79-f9": {
+   "text": "Keyingi bir neça sahifada insulinni muhokama qilar ekanmiz, insulin sekretsiyasi energiya molligi bilan boğliq ekani ayon böladi. Ya’ni odamning ratsionida energiya beradigan ovqatlar, ayniqsa ortiqça miqdorda ugleovodlar juda köp bölganda insulin sekretsiyasi ortadi. Öz navbatida insulin ortiqça energiyani zaxiralaşda muhim rol öynaydi. Ortiqça ugleovodlar holatida u ularni asosan jigar va muskullarda glikogen sifatida zaxiralanişiga sabab böladi. Bundan taşqari, glikogen sifatida zaxiralanişi mumkin bölmagan barça ortiqça ugleovodlar insulin ta’sirida yoğlarga aylanadi va yoğ töqimasida zaxiralanadi. Oqsillar holatida insulin hujayralar tomonidan aminokislotalarni qabul qiliş va ularni oqsilga aylantirişni bevosita kuçaytiradi. Bundan taşqari, u hujayralarda allaqaçon mavjud bölgan oqsillarning parçalanişini tormozlaydi."
+  },
+  "ch79-f10": {
+   "text": "INSULINNING KIMYOSI VA SINTEZI"
+  },
+  "ch79-f11": {
+   "text": "Molekulyar massasi 5808 bölgan odam insulini **Rasm 79-2** da körsatilgan, bir-biri bilan disulfid boğlar orqali tutaşgan ikkita aminokislota zanjiridan iborat. Ikki aminokislota zanjiri ajratilganda insulinning funksional faolligi yöqoladi."
+  },
+  "ch79-f13": {
+   "text": "Insulin beta hujayralarda 3-bobda tuşuntirilganidek, oqsil sintezining odatiy hujayra mexanizmi orqali sintezlanadi: endoplazmatik retikulumga birikkan ribosomalar tomonidan insulin RNK sining translyatsiyasi bilan boşlanib, _preproinsulin_ hosil böladi. Bu dastlabki preproinsulinning molekulyar massasi taxminan 11 500, ammo söngra u endoplazmatik retikulumda parçalanib, molekulyar massasi taxminan 9000 bölgan va A, B va C peptid zanjirlaridan iborat _proinsulinni_ hosil qiladi. Proinsulinning köp qismi Golji apparatida yanada parçalanib, disulfid boğlar bilan tutaşgan A va B zanjirlardan iborat insulinni hamda _boğlovçi_"
+  },
+  "ch79-f14": {
+   "text": "_peptid_ (C peptid) deb ataladigan C zanjir peptidini hosil qiladi. Insulin va C peptid sekretor donalarga joylanadi va ekvimolyar miqdorda ajraladi. Yakuniy ajraladigan mahsulotning taxminan 5–10% i hali ham proinsulin şaklida böladi."
+  },
+  "ch79-f15": {
+   "text": "Proinsulin va C peptid deyarli insulin faolligiga ega emas. Biroq C peptid membrana tuzilmasiga, ehtimol G oqsil bilan boğliq membrana retseptoriga boğlanadi va kamida ikkita ferment tizimi — natriy-kaliy adenozintrifosfataza va endotelial azot oksidi sintazasining faollaşişini yuzaga keltiradi. Bu ikkala ferment köplab fiziologik funksiyalarga ega bölsa-da, C peptidning bu fermentlarni boşqarişdagi ahamiyati hali noaniq."
+  },
+  "ch79-f16": {
+   "text": "Insulin bilan davolanayotgan diabetli bemorlarda C peptid darajasini radioimmunologik tahlil bilan ölçab, ular hali qança miqdorda öz tabiiy insulinini işlab çiqarayotganini aniqlaş mumkin. Insulin işlab çiqara olmaydigan 1-tip diabetli bemorlarda odatda C peptid darajasi ham keskin pasaygan böladi."
+  },
+  "ch79-f17": {
+   "text": "Insulin qonga ajralganda u deyarli töliq boğlanmagan şaklda aylanadi. Uning plazmadagi yarim yemiriliş davri örtaça atigi taxminan 6 daqiqa bölgani uçun u asosan 10–15 daqiqa içida qon aylanişidan tozalanadi. Nişon hujayralardagi retseptorlar bilan birikadigan qismidan taşqari, insulin asosan jigarda, kamroq darajada buyraklar va muskullarda, ozgina esa köpçilik boşqa töqimalarda _insulinaza_ fermenti tomonidan parçalanadi. Plazmadan bu tez çiqariliş muhim, çunki ba’zan insulinning boşqaruv funksiyalarini tez öçiriş ularni yoqiş kabi muhim."
+  },
+  "ch79-f18": {
+   "text": "INSULIN TOMONIDAN NIŞON HUJAYRA RETSEPTORLARINING FAOLLAŞIŞI VA NATIJADAGI HUJAYRA TA’SIRLARI"
+  },
+  "ch79-f19": {
+   "text": "Nişon hujayralarga ta’sirini boşlaş uçun insulin avval molekulyar massasi taxminan 300 000 bölgan membrana retseptor oqsili bilan boğlanib, uni faollaştirişi kerak (**Rasm 79-3**)."
+  },
+  "ch79-f21": {
+   "text": "Insulin retseptori disulfid boğlar bilan birga uşlab turiladigan tört subbirlikning birikmasi: töliq hujayra membranasidan taşqarida joylaşgan _ikkita alfa subbirlik_ va membranani kesib ötib, hujayra sitoplazmasiga çiqib turadigan _ikkita beta subbirlik_. Insulin hujayra taşqarisidagi alfa subbirliklar bilan boğlanadi, ammo beta subbirliklar bilan boğlanişlar tufayli beta subbirliklarning hujayra içiga çiqib turgan qismlari autofosforillanadi. Şunday qilib, insulin retseptori 75-bobda muhokama qilingan _ferment bilan boğliq retseptorga_ misoldir. Retseptor beta subbirliklarining autofosforillanişi mahalliy _tirozinkinazani_ faollaştiradi, u esa öz navbatida köplab boşqa hujayra içi fermentlarining, jumladan _insulin retseptori substratlari (IRS)_ deb ataladigan guruhning fosforillanişiga sabab böladi. Turli töqimalarda IRS ning turli turlari (masalan, IRS-1, IRS-2 va IRS-3) ekspressiya qilinadi. Yakuniy ta’sir — bu fermentlarning ayrimlarini faollaştiriş va boşqalarini nofaollaştiriş. Şu yöl bilan insulin ugleovodlar, yoğlar va oqsillar metabolizmiga kerakli ta’sirlarni yuzaga keltiriş uçun hujayra içi metabolik mexanizmlarini yönaltiradi. Insulin qözğatişining asosiy yakuniy ta’sirlari quyidagilar: 1. Insulin membrana retseptorlari bilan boğlangaçdan keyin bir neça soniya içida organizm hujayralarining taxminan 80% ining membranalari glyukozani qabul qilişni keskin oşiradi. Bu ta’sir ayniqsa muskul hujayralari va yoğ hujayralariga taalluqli, ammo _miyaning köpçilik neyronlariga taalluqli emas_. Hujayralarga taşilgan qöşimça glyukoza darhol fosforillanadi va ugleovodlarning barça odatiy metabolik funksiyalari uçun substratga aylanadi. Glyukoza taşilişining ortişi köplab hujayra içi pufakçalarining hujayra membranalariga köçirilişi natijasi deb hisoblanadi; bu pufakçalar köplab glyukoza taşuvçi oqsil molekulalarini taşiydi, ular hujayra membranasi bilan birikib, glyukozaning hujayralarga qabul qilinişini yengillaştiradi. Insulin endi mavjud bölmaganda bu pufakçalar taxminan 3–5 daqiqa içida hujayra membranasidan ajraladi va zarurat bölganda qayta-qayta işlatiliş uçun hujayra içiga qaytadi. 2. Hujayra membranasi köplab aminokislotalar, kaliy ionlari va fosfat ionlari uçun ötkazuvçanroq böladi, bu moddalarning hujayraga taşilişini oşiradi. 3. Keyingi 10–15 daqiqa davomida köplab boşqa hujayra içi metabolik fermentlarning faollik darajasini özgartiradigan sekinroq ta’sirlar yuz beradi. Bu ta’sirlar asosan fermentlarning fosforillaniş holatlari özgarişi natijasidir. 4. Ança sekinroq ta’sirlar soatlab va hatto bir neça kun davomida davom etadi. Ular ribosomalarda yangi oqsillar hosil qiliş uçun matritsa RNK lar translyatsiyasi tezligining özgarişi va undan ham sekinroq ta’sirlar — hujayra yadrosida DNK transkripsiyasi tezligining özgarişi natijasidir. Şu yöl bilan insulin öz metabolik ta’sirlarining ayrimlariga erişiş uçun hujayraning ferment mexanizmlarining köp qismini qayta tuzadi."
+  },
+  "ch79-f22": {
+   "text": "INSULINNING UGLEOVODLAR METABOLIZMIGA TA’SIRI"
+  },
+  "ch79-f23": {
+   "text": "Ugleovodlarga boy ovqat iste’mol qilingandan keyin darhol qonga sörilgan glyukoza insulinning tez sekretsiyasiga sabab böladi; bu bobning keyingi qismida batafsil muhokama qilinadi. Öz navbatida insulin organizmning deyarli barça töqimalari, ammo ayniqsa muskullar, yoğ töqimasi va jigar tomonidan glyukozaning tez qabul qilinişi, zaxiralanişi va işlatilişiga sabab böladi."
+  },
+  "ch79-f24": {
+   "text": "Insulin muskullar tomonidan glyukozani qabul qiliş va metabolizlaşni kuçaytiradi"
+  },
+  "ch79-f25": {
+   "text": "Kunning köp qismida muskul töqimasi energiya uçun glyukozaga emas, balki yoğ kislotalariga tayanadi. Yoğ kislotalariga bu boğliqlikning asosiy sababi şuki, me’yoriy _tinç holatdagi muskul membranasi_ muskul tolasi insulin bilan qözğatilgan hollardan taşqari glyukozani faqat ozgina ötkazadi; ovqatlaniş oraliqlarida ajraladigan insulin miqdori glyukozaning muskul hujayralariga sezilarli miqdorda kirişini ta’minlaş uçun juda kam."
+  },
+  "ch79-f26": {
+   "text": "Biroq ikki holatda muskullar köp miqdorda glyukoza işlatadi. Ulardan biri — örtaça yoki oğir jismoniy yuklama paytida. Glyukozadan bunday foydalaniş köp miqdorda insulin talab qilmaydi, çunki muskul qisqarişi _glyukoza taşuvçisi 4 (GLUT 4)_ ning hujayra içi saqlaş depolaridan hujayra membranasiga köçirilişini oşiradi, bu esa öz navbatida glyukozaning hujayraga diffuziyasini yengillaştiradi."
+  },
+  "ch79-f27": {
+   "text": "Muskullar tomonidan köp miqdorda glyukozadan foydalanişning ikkinçi holati — ovqatdan keyingi bir neça soat. Bu vaqtda qondagi glyukoza konsentratsiyasi yuqori va meda osti bezi köp miqdorda insulin ajratadi. Qöşimça insulin glyukozaning muskul hujayralariga tez taşilişiga sabab böladi, bu esa keyinroq muhokama qilinganidek, muskul hujayrasining bu davrda yoğ kislotalaridan köra glyukozani afzal işlatişiga olib keladi."
+  },
+  "ch79-f28": {
+   "text": "Agar ovqatdan keyin muskullar işlamasa, ammo glyukoza muskul hujayralariga köp miqdorda taşilsa, glyukozaning köp qismi energiya uçun işlatilmasdan, 2–3% konsentratsiya çegarasigaça muskul glikogeni şaklida zaxiralanadi. Glikogen keyinçalik muskul tomonidan energiya uçun işlatilişi mumkin. Glikogen ayniqsa muskullar tomonidan qisqa muddatli haddan taşqari energiya sarfi davrlarida va hatto kislorod bölmaganda ham yuz berişi mumkin bölgan glikogenning sut kislotasigaça glikolitik parçalanişi orqali bir neça daqiqalik anaerob energiya çaqnaşlarini ta’minlaş uçun foydali.",
+   "lead": "Muskulda glikogenning zaxiralanişi."
+  },
+  "ch79-f29": {
+   "text": "Insulinning glyukozaning muskul hujayrasi membranasi orqali taşilişini yengillaştiriş miqdoriy ta’siri"
+  },
+  "ch79-f30": {
+   "text": "Insulinning glyukozaning muskul hujayrasi membranasi orqali taşilişini yengillaştiriş miqdoriy ta’siri **Rasm 79-4** da körsatilgan tajriba natijalari bilan namoyon böladi. “Nazorat” deb belgilangan pastki egri çiziq hujayra içida ölçangan erkin glyukoza konsentratsiyasini körsatadi: hujayradan taşqari glyukoza konsentratsiyasi 750 mg/100 ml gaça ortganiga qaramay, glyukoza konsentratsiyasi deyarli nol bölib qolgan. Aksinça, “insulin” deb belgilangan egri çiziq insulin qöşilganda hujayra içidagi glyukoza konsentratsiyasi 400 mg/100 ml gaça köterilganini körsatadi. Demak, insulin glyukozaning tinç holatdagi muskul hujayrasiga taşiliş tezligini kamida 15 barobar oşira olişi aniq."
+  },
+  "ch79-f32": {
+   "text": "Insulin jigar tomonidan glyukozani qabul qiliş, zaxiralaş va işlatişni kuçaytiradi"
+  },
+  "ch79-f33": {
+   "text": "Insulinning eng muhim ta’sirlaridan biri — ovqatdan keyin sörilgan glyukozaning köp qismini jigarda glikogen şaklida tez zaxiralanişiga sabab böliş. Söngra ovqatlaniş oraliqlarida, ovqat mavjud bölmaganda va qondagi glyukoza konsentratsiyasi pasaya boşlaganda insulin sekretsiyasi tez kamayadi va jigar glikogeni yana glyukozaga parçalanadi; u glyukoza konsentratsiyasining haddan taşqari pasayib ketmasligi uçun qonga qaytariladi."
+  },
+  "ch79-f34": {
+   "text": "Insulinning jigarda glyukozani qabul qiliş va zaxiralaşga sabab böliş mexanizmi deyarli bir vaqtda yuz beradigan bir neça bosqiçni öz içiga oladi: 1. Insulin jigar glikogenini glyukozaga parçalaydigan asosiy ferment — _jigar fosforilazasini nofaollaştiradi_. Bu nofaollaştiriş jigar hujayralarida zaxiralangan glikogenning parçalanişiga tösqinlik qiladi. 2. Insulin jigar hujayralariga diffuziyalangan glyukozaning dastlabki fosforillanişiga sabab böladigan fermentlardan biri — _glyukokinaza_"
+  },
+  "ch79-f35": {
+   "text": "_fermenti faolligini oşiriş_ orqali jigar hujayralari tomonidan qondan _glyukozani qabul qilişni kuçaytiradi_. Fosforillangaç, glyukoza jigar hujayralari içida _vaqtinça_ uşlanib qoladi, çunki fosforillangan glyukoza hujayra membranasi orqali qaytib diffuziyalana olmaydi. 3. Insulin glikogen sintezini kuçaytiradigan fermentlar, ayniqsa _glikogensintaza_ faolligini oşiradi. U monosaxarid birliklarini polimerlab, glikogen molekulalarini hosil qilişga javobgar. Bu barça ta’sirlarning yakuniy natijasi — jigardagi glikogen miqdorining ortişi. Glikogen jigar massasining jami taxminan 5–6% igaça ortişi mumkin, bu butun jigarda deyarli 100 gramm zaxiralangan glikogenga teng."
+  },
+  "ch79-f36": {
+   "text": "Ovqatlaniş oraliqlarida qondagi glyukoza darajasi past darajaga tuşa boşlaganda jigarning glyukozani yana aylanib yurgan qonga çiqarişiga sabab böladigan bir neça hodisa yuz beradi: 1. Qondagi glyukozaning kamayişi meda osti bezining insulin sekretsiyasini kamaytirişiga sabab böladi. 2. Söngra insulinning yetişmasligi yuqorida sanab ötilgan glikogen zaxiralanişiga oid barça ta’sirlarni teskari tomonga özgartiradi, jigarda glikogenning keyingi sintezini amalda töxtatadi va jigar tomonidan qondan glyukozaning keyingi qabul qilinişiga tösqinlik qiladi. 3. Insulin yetişmasligi (keyinroq muhokama qilinadigan glyukagonning ortişi bilan birga) glikogenning _glyukozafosfatga_ parçalanişiga sabab böladigan _fosforilaza_ fermentini faollaştiradi. 4. Insulin tomonidan tormozlangan _glyukozafosfataza_ fermenti endi insulin yetişmasligi tufayli faollaşadi va fosfat radikalining glyukozadan ajralişiga sabab bölib, erkin glyukozaning qonga qaytib diffuziyalanişiga imkon beradi. Şunday qilib, jigar ovqatdan keyin glyukoza ortiqça bölganda uni qondan oladi va ovqatlaniş oraliqlarida qondagi glyukoza konsentratsiyasi pasayganda uni qonga qaytaradi. Odatda ovqatdagi glyukozaning taxminan 60% i şu yöl bilan jigarda zaxiralanadi va keyinroq qaytariladi.",
+   "lead": "Ovqatlaniş oraliqlarida jigardan glyukoza ajraladi."
+  },
+  "ch79-f37": {
+   "text": "Jigar hujayralariga kirayotgan glyukoza miqdori glikogen sifatida zaxiralanişi yoki mahalliy gepatotsit metabolizmi uçun işlatilişi mumkin bölganidan köp bölganda _insulin bu ortiqça glyukozaning hammasini yoğ kislotalariga aylantirişni kuçaytiradi_. Bu yoğ kislotalari keyinçalik juda past ziçlikdagi lipoproteinlar tarkibida triglitseridlar sifatida joylanadi, qon bilan yoğ töqimasiga taşiladi va yoğ sifatida töplanadi.",
+   "lead": "Insulin ortiqça glyukozaning yoğ kislotalariga aylanişini kuçaytiradi va jigarda glyukoneogenezni tormozlaydi."
+  },
+  "ch79-f38": {
+   "text": "Insulin asosan glyukoneogenez uçun zarur jigar fermentlarining miqdori va faolligini kamaytiriş orqali _glyukoneogenezni ham tormozlaydi_. Biroq ta’sirning bir qismi insulinning muskul va jigardan taşqari boşqa töqimalardan aminokislotalar ajralişini va natijada glyukoneogenez uçun zarur bölgan bu öncilarning mavjudligini kamaytiradigan ta’siri bilan boğliq. Bu hodisa insulinning oqsil metabolizmiga ta’siri munosabati bilan batafsilroq muhokama qilinadi."
+  },
+  "ch79-f39": {
+   "text": "Insulinning miya tomonidan glyukozani qabul qiliş va işlatişga ta’sir qilmasligi"
+  },
+  "ch79-f40": {
+   "text": "Miya organizmning köpçilik boşqa töqimalaridan şunisi bilan farq qiladiki, insulin glyukozani qabul qiliş yoki işlatişga kam ta’sir qiladi. Aksinça, _miya hujayralarining köpçiligi glyukozani ötkazadi va glyukozadan insulin vositaçiligisiz foydalana oladi_."
+  },
+  "ch79-f41": {
+   "text": "Miya hujayralari organizmning köpçilik boşqa hujayralaridan yana şunisi bilan farq qiladiki, ular me’yorda energiya uçun faqat glyukozadan foydalanadi va yoğlar kabi boşqa energiya substratlaridan faqat qiyinçilik bilan foydalana oladi. Şuning uçun qondagi glyukoza darajasining doimo kritik darajadan yuqori saqlanişi zarur va bu qondagi glyukozani boşqariş tizimining eng muhim funksiyalaridan biri. Qondagi glyukoza darajasi juda past — 20–50 mg/100 ml oraliğiga tuşganda huşdan ketiş, tutqanoqlar va hatto komaga olib keladigan zörayib boruvçi nerv qözğaluvçanligi bilan tavsiflanadigan _gipoglikemik şok_ simptomlari rivojlanadi."
+  },
+  "ch79-f42": {
+   "text": "Insulinning boşqa hujayralarda ugleovodlar metabolizmiga ta’siri"
+  },
+  "ch79-f43": {
+   "text": "Insulin organizmning köpçilik boşqa hujayralariga (yuqorida qayd etilganidek, miyaning köpçilik hujayralaridan taşqari) glyukoza taşilişini va ular tomonidan glyukozadan foydalanişni muskul hujayralaridagi kabi oşiradi. Glyukozaning yoğ hujayralariga taşilişi asosan yoğ molekulasining glitserin qismi uçun substrat bilan ta’minlaydi. Şuning uçun bu bilvosita yöl bilan insulin bu hujayralarda yoğ töplanişini kuçaytiradi."
+  },
+  "ch79-f44": {
+   "text": "INSULINNING YOĞ METABOLIZMIGA TA’SIRI"
+  },
+  "ch79-f45": {
+   "text": "Insulinning yoğ metabolizmiga ta’sirlari uning ugleovodlar metabolizmiga ötkir ta’sirlariça yaqqol körinmasa-da, uzoq muddatda xuddi şunday muhim. Ayniqsa _insulin yetişmovçiligining_ köpinça yurak xurujlari, miya insultlari va boşqa tomir hodisalariga olib keladigan haddan taşqari aterosklerozga sabab böladigan uzoq muddatli ta’siri yaqqol. Biroq avval insulinning yoğ metabolizmiga ötkir ta’sirlarini muhokama qilaylik."
+  },
+  "ch79-f46": {
+   "text": "Insulin yoğ sintezi va zaxiralanişini kuçaytiradi"
+  },
+  "ch79-f47": {
+   "text": "Insulin yoğ töqimasida yoğ zaxiralanişiga olib keladigan bir neça ta’sirga ega. Birinçidan, insulin organizmning köpçilik töqimalari tomonidan glyukozadan foydalanişni oşiradi, bu avtomatik ravişda yoğdan foydalanişni kamaytiradi va şu bilan yoğni tejovçi vazifasini bajaradi. Biroq insulin yoğ kislotalari sintezini ham kuçaytiradi, ayniqsa darhol energiya uçun işlatilişi mumkin bölganidan köp ugleovod iste’mol qilinganda; şu bilan yoğ sintezi uçun substrat ta’minlanadi. Bu sintezning deyarli hammasi jigar hujayralarida yuz beradi, söngra yoğ kislotalari jigardan qon lipoproteinlari orqali zaxiralaş uçun yoğ hujayralariga taşiladi. Jigarda yoğ kislotalari sintezining ortişiga quyidagi omillar olib keladi: 1. _Insulin glyukozaning jigar hujayralariga taşilişini oşiradi._ Jigardagi glikogen konsentratsiyasi 5–6% ga yetgaçdan keyin keyingi glikogen sintezi tormozlanadi. Söngra jigar hujayralariga kiradigan barça qöşimça glyukoza yoğ hosil qiliş uçun mavjud böladi. Glyukoza avval glikolitik yölda piruvatgaça parçalanadi, piruvat esa keyinçalik yoğ kislotalari sintezlanadigan substrat — atsetil-koferment A ga (atsetil-KoA) aylanadi. 2. _Ortiqça miqdordagi glyukoza energiya uçun işlatilganda limon kislota siklida ortiqça sitrat va izositrat ionlari hosil böladi._ Söngra bu ionlar yoğ kislotalari sintezining birinçi bosqiçi — atsetil-KoA ni karboksillab _malonil-KoA_ hosil qiliş uçun zarur ferment — _atsetil-KoA-karboksilazani_ bevosita faollaştiradi. 3. _Söngra yoğ kislotalarining köp qismi jigar içida sintezlanadi va zaxira yoğning odatiy şakli — triglitseridlarni hosil qiliş uçun işlatiladi._ Ular jigar hujayralaridan qonga lipoproteinlar tarkibida ajraladi. Insulin yoğ töqimasi kapillyarlari devoridagi _lipoproteinlipazani_ faollaştiradi; u triglitseridlarni yana yoğ kislotalariga parçalaydi — bu ularning yoğ hujayralariga sörilişi uçun zarur şart bölib, u yerda ular yana triglitseridlarga aylanadi va zaxiralanadi."
+  },
+  "ch79-f48": {
+   "text": "Insulin yoğ hujayralarida yoğ zaxiralanişi uçun zarur bölgan yana ikkita muhim ta’sirga ega: 1. _Insulin gormonga sezgir lipaza ta’sirini tormozlaydi._ Lipaza — yoğ hujayralarida allaqaçon zaxiralangan triglitseridlarning gidrolizini yuzaga keltiradigan ferment. Şuning uçun yoğ kislotalarining yoğ töqimasidan aylanib yurgan qonga ajralişi tormozlanadi. 2. _Insulin glyukozaning hujayra membranalari orqali yoğ hujayralariga taşilişini_ muskul hujayralariga taşilişini kuçaytirgani kabi _kuçaytiradi_. Bu glyukozaning bir qismi söngra juda oz miqdorda yoğ kislotalarini sintezlaş uçun işlatiladi, ammo muhimroği, u köp miqdorda α-glitserofosfat ham hosil qiladi. Bu modda yoğ hujayralarida yoğning zaxira şakli — triglitseridlarni hosil qiliş uçun yoğ kislotalari bilan birikadigan _glitserinni_ ta’minlaydi. Şuning uçun insulin mavjud bölmaganda hatto jigardan lipoproteinlar tarkibida taşiladigan köp miqdordagi yoğ kislotalarining zaxiralanişi ham deyarli blokadalanadi.",
+   "lead": "Insulinning yoğ hujayralarida yoğ zaxiralanişidagi roli."
+  },
+  "ch79-f49": {
+   "text": "Insulin yetişmovçiligi energiya uçun yoğdan foydalanişni oşiradi"
+  },
+  "ch79-f50": {
+   "text": "Insulin bölmaganda yoğ parçalanişi va undan energiya uçun foydalanişning barça jihatlari keskin kuçayadi. Bu kuçayiş hatto me’yorda ham insulin sekretsiyasi minimal bölgan ovqatlaniş oraliqlarida yuz beradi, ammo insulin sekretsiyasi deyarli nol bölgan qandli diabetli odamlarda haddan taşqari darajaga yetadi."
+  },
+  "ch79-f51": {
+   "text": "Insulin bölmaganda insulinning yuqorida qayd etilgan yoğ zaxiralanişiga olib keladigan barça ta’sirlari teskari tomonga özgaradi. Eng muhim ta’sir şuki, yoğ hujayralaridagi _gormonga sezgir lipaza_ fermenti kuçli faollaşadi. Bu faollaşiş zaxiralangan triglitseridlarning gidroliziga sabab bölib, aylanib yurgan qonga köp miqdorda yoğ kislotalari va glitserin ajratadi. Natijada plazmadagi erkin yoğ kislotalari konsentratsiyasi bir neça daqiqa içida köterila boşlaydi. Söngra bu erkin yoğ kislotalari miyadan taşqari organizmning deyarli barça töqimalari işlatadigan asosiy energiya substratiga aylanadi.",
+   "lead": "Insulin yetişmovçiligi zaxira yoğning lipolizi va erkin yoğ kislotalarining ajralişiga sabab böladi."
+  },
+  "ch79-f52": {
+   "text": "**Rasm 79-5** insulin yetişmasligining plazmadagi erkin yoğ kislotalari, glyukoza va atsetosirka kislotasi konsentratsiyalariga ta’sirini körsatadi. E’tibor bering: meda osti bezi olib taşlangaçdan deyarli darhol plazmadagi erkin yoğ kislotalari konsentratsiyasi hatto glyukoza konsentratsiyasidan ham tezroq köterila boşlaydi."
+  },
+  "ch79-f54": {
+   "text": "Insulin yetişmovçiligi bilan boğliq plazmadagi ortiqça yoğ kislotalari jigarda yoğ kislotalarining bir qismining yoğ metabolizmining ikki asosiy mahsuloti — fosfolipidlar va xolesteringa aylanişini ham kuçaytiradi. Bu ikki modda bir vaqtning özida jigarda hosil bölgan ortiqça triglitseridlar bilan birga söngra lipoproteinlar tarkibida qonga çiqariladi. Ba’zan insulin bölmaganda plazma lipoproteinlari uç barobargaça ortadi va plazma lipidlarining umumiy konsentratsiyasi me’yoriy 0,6% örniga bir neça foizni taşkil etadi. Lipidlarning bu yuqori konsentratsiyasi, ayniqsa xolesterinning yuqori konsentratsiyasi oğir diabetli odamlarda ateroskleroz rivojlanişini kuçaytiradi.",
+   "lead": "Insulin yetişmovçiligi plazmada xolesterin va fosfolipidlar konsentratsiyasini oşiradi."
+  },
+  "ch79-f55": {
+   "text": "Insulin yetişmovçiligi jigar hujayralarida ortiqça miqdorda _atsetosirka kislotasi_ hosil bölişiga ham sabab böladi. Insulin bölmaganda, ammo jigar hujayralarida ortiqça yoğ kislotalari bölganda yoğ kislotalarini mitoxondriyalarga taşiydigan karnitin taşiş mexanizmi tobora faollaşadi. Söngra mitoxondriyalarda yoğ kislotalarining beta-oksidlanişi tez keçib, haddan taşqari köp atsetil-KoA ajraladi. Bu ortiqça atsetil-KoA ning katta qismi söngra kondensatsiyalanib, atsetosirka kislotasini hosil qiladi va u aylanib yurgan qonga çiqariladi. Bu atsetosirka kislotasining köp qismi periferik hujayralarga ötadi va u yerda yana atsetil-KoA ga aylanib, odatiy tarzda energiya uçun işlatiladi.",
+   "lead": "Insulin yetişmovçiligida yoğlardan ortiqça foydalaniş ketoz va atsidozga sabab böladi."
+  },
+  "ch79-f56": {
+   "text": "Bir vaqtning özida insulin bölmasligi periferik töqimalarda atsetosirka kislotasidan foydalanişni ham susaytiradi. Şunday qilib, jigardan şunça köp atsetosirka kislotasi ajraladiki, uning hammasini töqimalar metabolizlay olmaydi. **Rasm 79-5** da körsatilganidek, insulin sekretsiyasi töxtagaçdan keyingi kunlarda atsetosirka kislotasi konsentratsiyasi ortadi va ba’zan 10 mEkv/l va undan köp konsentratsiyaga yetadi; bu tana suyuqliklarining oğir atsidoz holati."
+  },
+  "ch79-f57": {
+   "text": "69-bobda tuşuntirilganidek, atsetosirka kislotasining bir qismi β-gidroksimoy kislotasi va _atsetonga_ ham aylanadi. Bu ikki modda atsetosirka kislotasi bilan birga _keton tanalari_ deb ataladi va ularning tana suyuqliklarida köp miqdorda bölişi _ketoz_ deb ataladi. Keyinroq oğir diabetda atsetosirka kislotasi va β-gidroksimoy kislotasi ölimga olib kelişi mumkin bölgan oğir _atsidoz_ va _komaga_ sabab bölişi mumkinligini köramiz."
+  },
+  "ch79-f58": {
+   "text": "INSULINNING OQSIL METABOLIZMI VA ÖSIŞGA TA’SIRI"
+  },
+  "ch79-f59": {
+   "text": "Insulin oqsil sintezi va zaxiralanişini kuçaytiradi"
+  },
+  "ch79-f60": {
+   "text": "Oqsillar, ugleovodlar va yoğlar ovqatdan keyingi bir neça soat davomida, aylanib yurgan qonda ortiqça miqdorda ozuqa moddalari mavjud bölganda töqimalarda zaxiralanadi; bu zaxiralaş yuz berişi uçun insulin zarur. Insulinning oqsil zaxiralanişiga sabab böliş usuli glyukoza va yoğ zaxiralaş mexanizmlariça yaxşi tuşunilmagan. Mana ayrim faktlar: 1. _Insulin köplab aminokislotalarning hujayralarga taşilişini qözğatadi._ Eng kuçli taşiladigan aminokislotalar qatoriga _valin, leysin, izoleysin, tirozin_ va _fenilalanin_ kiradi. Şunday qilib, insulin aminokislotalarning hujayralarga qabul qilinişini oşiriş qobiliyatini ösiş gormoni bilan bölişadi. Biroq ta’sir qilinadigan aminokislotalar şart emas bir xil bölsa. 2. _Insulin matritsa RNK translyatsiyasini oşiradi_ va şu bilan yangi oqsillar hosil böladi. Insulin ribosoma mexanizmini “yoqadi” va insulin bölmaganda ribosomalar işlaşdan töxtaydi, xuddi insulin “yoqiş-öçiriş” mexanizmi orqali işlagandek. 3. Uzoqroq davr davomida _insulin hujayra yadrolarida tanlangan DNK genetik ketma-ketliklari transkripsiyasi tezligini ham oşiradi_ va şu bilan köproq RNK hosil böladi va oqsil sintezi yanada ortadi — ayniqsa ugleovodlar, yoğlar va oqsillarni zaxiralaş uçun köplab fermentlar hosil bölişi kuçayadi."
+  },
+  "ch79-f61": {
+   "text": "4. _Insulin oqsillar katabolizmini tormozlaydi_ va şu bilan hujayralardan, ayniqsa muskul hujayralaridan aminokislotalar ajraliş tezligini kamaytiradi. Ehtimol, bu insulinning hujayra lizosomalari tomonidan oqsillarning me’yoriy parçalanişini kamaytiriş qobiliyati natijasidir. 5. _Jigarda insulin glyukoneogenezni kuçaytiradigan fermentlar faolligini kamaytiriş orqali glyukoneogenez tezligini pasaytiradi._ Glyukoneogenez orqali glyukoza sintezi uçun eng köp işlatiladigan substratlar plazma aminokislotalari bölgani uçun glyukoneogenezning bu bostirilişi organizmning oqsil zaxiralaridagi aminokislotalarni tejaydi. Xulosa qilib aytganda, insulin oqsil hosil bölişini kuçaytiradi va oqsillarning parçalanişiga tösqinlik qiladi."
+  },
+  "ch79-f62": {
+   "text": "Insulin yetişmovçiligi oqsil kamayişiga va plazmada aminokislotalarning ortişiga sabab böladi"
+  },
+  "ch79-f63": {
+   "text": "Insulin mavjud bölmaganda deyarli barça oqsil zaxiralanişi töxtaydi. Oqsillar katabolizmi ortadi, oqsil sintezi töxtaydi va plazmaga köp miqdorda aminokislotalar tuşadi. Plazmadagi aminokislotalar konsentratsiyasi sezilarli ortadi va ortiqça aminokislotalarning köp qismi yo bevosita energiya uçun, yo glyukoneogenez uçun substrat sifatida işlatiladi. Aminokislotalarning bu parçalanişi siydik bilan moçevina çiqarilişining ortişiga ham olib keladi. Natijada yuzaga keladigan oqsil yöqotiliş oğir qandli diabetning barça ta’sirlari içida eng jiddiylaridan biri. U kuçli holsizlik va a’zolarning köplab funksiyalari buzilişiga olib kelişi mumkin."
+  },
+  "ch79-f64": {
+   "text": "Insulin va ösiş gormoni ösişni ta’minlaş uçun sinergik özaro ta’sirlaşadi"
+  },
+  "ch79-f65": {
+   "text": "Insulin oqsillar sintezi uçun zarur bölgani uçun u hayvonning ösişi uçun ösiş gormoniça zarur. **Rasm 79-6** da körsatilganidek, meda osti bezi va gipofizi olib taşlangan, örinbosar terapiya olmagan kalamuş deyarli ösmaydi. Bundan taşqari, ösiş gormoni yoki insulinni alohida-alohida yuboriş deyarli ösişga sabab bölmaydi. Biroq bu gormonlarning birgalikdagi qöllanilişi keskin ösişga sabab böladi. Şunday qilib, ikki gormon ösişni ta’minlaş uçun sinergik ta’sir qiladiganga öxşaydi va ularning har biri boşqasidan alohida öziga xos funksiyani bajaradi. Ehtimol, ikkala gormonga ehtiyojning kiçik bir qismi har bir gormonning ösiş uçun zarur bölgan aminokislotalarning turli töplamini hujayralarga qabul qilinişini kuçaytirişi bilan boğliq."
+  },
+  "ch79-f67": {
+   "text": "INSULIN SEKRETSIYASI MEXANIZMLARI"
+  },
+  "ch79-f68": {
+   "text": "**Rasm 79-7** da insulin sekretsiyasining asosiy boşqaruvçisi bölgan qondagi glyukoza konsentratsiyasining ortişiga javoban meda osti bezi beta hujayralari tomonidan insulin sekretsiyasining asosiy hujayra mexanizmlari körsatilgan. Beta hujayralarda fiziologik oraliqda qondagi konsentratsiyaga mutanosib tezlikda glyukoza kirişiga imkon beradigan köp sonli _glyukoza taşuvçilari_ bor. Hujayralar içiga kirgaç, glyukoza _glyukokinaza_ tomonidan glyukoza-6-fosfatgaça fosforillanadi. Bu fosforillaniş beta hujayrada glyukoza metabolizmining tezlikni çeklovçi bosqiçi bölib körinadi va glyukozani seziş hamda ajraladigan insulin miqdorini qondagi glyukoza darajasiga moslaştirişning asosiy mexanizmi hisoblanadi."
+  },
+  "ch79-f70": {
+   "text": "Söngra glyukoza-6-fosfat oksidlanib, hujayraning _ATF ga sezgir kaliy kanallarini_ tormozlaydigan adenozintrifosfat (ATF) hosil qiladi. Kaliy kanallarining yopilişi hujayra membranasini depolyarizatsiyalaydi va şu bilan membrana kuçlanişi özgarişlariga sezgir bölgan _kuçlaniş bilan boşqariladigan kalsiy kanallarini_ oçadi. Bu ta’sir kalsiy kirişini yuzaga keltiradi, kalsiy esa membranaga yaqinlaşgan insulin tutuvçi pufakçalarning hujayra membranasi bilan qöşilişini va insulinning _ekzotsitoz_ orqali hujayradan taşqari suyuqlikka ajralişini qözğatadi."
+  },
+  "ch79-f71": {
+   "text": "Ayrim aminokislotalar kabi boşqa ozuqa moddalari ham beta hujayralar tomonidan metabolizlanib, hujayra içidagi ATF darajasini oşirişi va insulin sekretsiyasini qözğatişi mumkin. Glyukagon, glyukagonsimon peptid-1 (GSP-1), glyukozaga boğliq insulinotrop peptid (meda ingibitor peptidi) va atsetilxolin kabi ayrim gormonlar boşqa signal yöllari orqali hujayra içidagi kalsiy darajasini oşiradi va glyukoza ta’sirini kuçaytiradi, garçi glyukoza bölmaganda insulin sekretsiyasiga katta ta’sir körsatmasa ham. Somatostatin va norepinefrin (α-adrenergik retseptorlarni faollaştiriş orqali) kabi boşqa gormonlar insulin ekzotsitozini tormozlaydi."
+  },
+  "ch79-f72": {
+   "text": "Sulfonilmoçevina dorilari ATF ga sezgir kaliy kanallariga boğlanib, ularning faolligini blokadalaş orqali insulin sekretsiyasini qözğatadi. Bu mexanizm insulin sekretsiyasini işga tuşiradigan depolyarizatsiyalovçi ta’sirga olib keladi va keyinroq muhokama qilinganidek, bu dorilarni 2-tip diabetli bemorlarda insulin sekretsiyasini qözğatişda foydali qiladi. **Jadval 79-1** da insulin sekretsiyasini oşirişi yoki kamaytirişi mumkin bölgan ayrim omillar umumlaştirilgan."
+  },
+  "ch79-f73": {
+   "text": "INSULIN SEKRETSIYASINING BOŞQARILIŞI"
+  },
+  "ch79-f74": {
+   "text": "Bir paytlar insulin sekretsiyasi deyarli töliq qondagi glyukoza konsentratsiyasi bilan boşqariladi, deb hisoblangan. Biroq insulinning oqsil va yoğ metabolizmidagi metabolik funksiyalari haqida köproq ma’lumot olingan sari qondagi aminokislotalar va boşqa omillar ham insulin sekretsiyasini boşqarişda muhim rol öynaşi ayon bölgan (qarang: **Jadval 79-1**)."
+  },
+  "ch79-f75": {
+   "text": "Qondagi glyukozaning me’yoriy _nahorgi_ (oç qoringa) darajasi 80–90 mg/100 ml bölganda insulin sekretsiyasi tezligi minimal — taxminan 25 ng/daqiqa/kg tana vazni atrofida bölib, bu daraja faqat ozgina fiziologik faollikka ega. Agar qondagi glyukoza konsentratsiyasi birdan me’yordan ikki-uç barobar yuqori darajaga köterilsa va keyin şu yuqori darajada saqlansa, **Rasm 79-8** dagi plazma insulin konsentratsiyasi özgarişlarida körsatilganidek, insulin sekretsiyasi ikki bosqiçda keskin ortadi. 1. Qondagi glyukoza ötkir köterilgaçdan keyin 3–5 daqiqa içida plazmadagi insulin konsentratsiyasi deyarli 10 barobar ortadi. Bu ortiş Langergans orolçalari beta hujayralaridan oldindan hosil bölgan insulinning darhol çiqarib yuborilişi natijasidir. Biroq dastlabki yuqori sekretsiya tezligi saqlanmaydi; buning örniga insulin konsentratsiyasi yana 5–10 daqiqada me’yorga qarab taxminan yarmigaça pasayadi. 2. Taxminan 15-daqiqadan boşlab insulin sekretsiyasi ikkinçi marta ortadi va 2–3 soatda yangi platoga yetadi; bu safar odatda sekretsiya tezligi dastlabki fazadagidan ham yuqori böladi. Bu sekretsiya oldindan hosil bölgan insulinning qöşimça ajralişi va hujayralardan yangi insulinni sintezlaydigan va ajratadigan ferment tizimining faollaşişi natijasidir.",
+   "lead": "Qondagi glyukozaning ortişi insulin sekretsiyasini qözğatadi."
+  },
+  "ch79-f77": {
+   "text": "**Rasm 79-9** da körsatilganidek, qondagi glyukoza konsentratsiyasi 100 mg/100 ml dan oşganda insulin sekretsiyasi tez ortadi va qondagi glyukoza konsentratsiyasi 400–600 mg/100 ml bölganda bazal darajadan taxminan 10–25 barobar yuqori çöqqiga yetadi. Şunday qilib, glyukoza qözğatuvçisi paytida insulin sekretsiyasining ortişi ham tezligi, ham erişiladigan yuqori sekretsiya darajasi jihatidan keskin. Bundan taşqari, insulin sekretsiyasining öçişi ham deyarli xuddi şunday tez — qondagi glyukoza konsentratsiyasi nahorgi darajaga qaytgaçdan keyin 3–5 daqiqa içida yuz beradi.",
+   "lead": "Qondagi glyukoza konsentratsiyasi va insulin sekretsiyasi tezligi örtasidagi teskari aloqa."
+  },
+  "ch79-f79": {
+   "text": "Insulin sekretsiyasining qondagi glyukoza konsentratsiyasi ortişiga bu javobi qondagi glyukoza konsentratsiyasini boşqarişning juda muhim teskari aloqa mexanizmini ta’minlaydi. Ya’ni qondagi glyukozaning har qanday ortişi insulin sekretsiyasini oşiradi, insulin esa öz navbatida glyukozaning jigar, muskul va boşqa hujayralarga taşiliş tezligini oşiradi va şu bilan qondagi glyukoza konsentratsiyasini me’yoriy qiymatga qaytaradi."
+  },
+  "ch79-f80": {
+   "text": "Ayrim aminokislotalar insulin sekretsiyasini qözğatişda qondagi ortiqça glyukozaga öxşaş ta’sirga ega. Bu aminokislotalarning eng kuçlilari — _arginin_ va _lizin_. Bu ta’sir glyukozaning insulin sekretsiyasini qözğatişidan quyidagiça farq qiladi: qondagi glyukoza ortmagan holda yuborilgan aminokislotalar insulin sekretsiyasini faqat ozgina oşiradi. Biroq qondagi glyukoza konsentratsiyasi ortgan paytda yuborilganda ortiqça aminokislotalar mavjudligida glyukoza keltirib çiqaradigan insulin sekretsiyasi ikki barobargaça ortişi mumkin. Şunday qilib, _aminokislotalar insulin sekretsiyasi uçun glyukoza qözğatuvçisini kuçli potensirlaydi_.",
+   "lead": "Aminokislotalar."
+  },
+  "ch79-f81": {
+   "text": "Aminokislotalar tomonidan insulin sekretsiyasining qözğatilişi muhim, çunki insulin öz navbatida aminokislotalarning töqima hujayralariga taşilişini, şuningdek hujayra içida oqsil hosil bölişini kuçaytiradi. Ya’ni insulin ortiqça aminokislotalardan töğri foydalaniş uçun ugleovodlardan foydalaniş uçun qança muhim bölsa, xuddi şunça muhim."
+  },
+  "ch79-f82": {
+   "text": "Bir neça muhim oşqozon-içak gormonlarining aralaşmasi — _gastrin_, _sekretin_, _xolesistokinin_, _glyukagonsimon peptid-1 (GSP-1)_ va _glyukozaga boğliq insulinotrop peptid (GIP)_ insulin sekretsiyasining örtaça ortişiga sabab bölişi mumkin. Bu gormonlardan ikkitasi — GSP-1 va GIP eng kuçlisi bölib körinadi va köpinça _inkretinlar_ deb ataladi, çunki ular plazmadagi glyukoza ortişiga javoban meda osti bezi beta hujayralaridan insulin ajraliş tezligini kuçaytiradi. Ular Langergans orolçalarining alfa hujayralaridan glyukagon sekretsiyasini ham tormozlaydi.",
+   "lead": "Oşqozon-içak gormonlari."
+  },
+  "ch79-f83": {
+   "text": "Bu gormonlar odam ovqat yegaçdan keyin oşqozon-içak yölida ajraladi. Söngra ular ovqatdan sörilişi kerak bölgan glyukoza va aminokislotalarga tayyorgarlik sifatida qonda insulinning “oldindan” ortişiga sabab böladi. Bu oşqozon-içak gormonlari odatda aminokislotalar kabi qondagi glyukoza ortişiga insulin javobining sezgirligini oşiradi va qondagi glyukoza darajasi köterilganda insulin sekretsiyasi tezligini deyarli ikki barobar oşiradi. Bobning keyingi qismida muhokama qilinganidek, qandli diabetni davolaş uçun inkretinlar ta’sirini taqlid qiladigan yoki kuçaytiradigan bir neça dori işlab çiqilgan."
+  },
+  "ch79-f84": {
+   "text": "Insulin sekretsiyasini bevosita oşiradigan yoki insulin sekretsiyasi uçun glyukoza qözğatuvçisini potensirlaydigan boşqa gormonlarga _glyukagon, ösiş gormoni, kortizol_ va kamroq darajada _progesteron_ va _estrogen_ kiradi. Bu gormonlar qözğatuvçi ta’sirlarining ahamiyati şundaki, ulardan istalgan birining köp miqdorda uzoq muddat ajralişi ba’zan Langergans orolçalari beta hujayralarining holdan toyişiga va natijada qandli diabet rivojlaniş xavfining ortişiga olib kelişi mumkin. Haqiqatan ham, bu gormonlarning ayrimlarini yuqori farmakologik qöllab-quvvatlovçi dozalarda oladigan odamlarda diabet köpinça uçraydi. Diabet ayniqsa gigantlarda yoki ösiş gormoni ajratuvçi ösmalari bölgan akromegaliyali odamlarda, şuningdek buyrak usti bezlari ortiqça glyukokortikoidlar ajratadigan odamlarda köp uçraydi.",
+   "lead": "Boşqa gormonlar va vegetativ nerv tizimi."
+  },
+  "ch79-f85": {
+   "text": "Meda osti bezi orolçalari simpatik va parasimpatik nervlar bilan boy innervatsiyalangan. Meda osti beziga boradigan parasimpatik nervlarni qözğatiş giperglikemik holatlarda insulin sekretsiyasini oşirişi mumkin, simpatik nervlarni qözğatiş esa gipoglikemiya paytida glyukagon sekretsiyasini oşirişi va insulin sekretsiyasini kamaytirişi mumkin. Glyukoza konsentratsiyalari gipotalamus va miya stvolining maxsus neyronlari, şuningdek jigar kabi periferik joylardagi glyukozaga sezgir hujayralar tomonidan aniqlanadi, deb hisoblanadi."
+  },
+  "ch79-f86": {
+   "text": "INSULINNING (VA BOŞQA GORMONLARNING) UGLEOVOD VA LIPID METABOLIZMI ÖRTASIDA “ALMAŞTIRIŞDAGI” ROLI"
+  },
+  "ch79-f87": {
+   "text": "Yuqoridagi muhokamalardan insulin energiya uçun ugleovodlardan foydalanişni kuçaytirişi va yoğlardan foydalanişni susaytirişi aniq bölsa kerak. Aksinça, insulin yetişmasligi miya töqimasidan taşqari asosan glyukoza örniga yoğdan foydalanişga sabab böladi. Bundan taşqari, bu almaştiriş mexanizmini boşqaradigan signal asosan qondagi glyukoza konsentratsiyasidir. Glyukoza konsentratsiyasi past bölganda insulin sekretsiyasi bostiriladi va miyadan taşqari hamma joyda energiya uçun deyarli faqat yoğ işlatiladi. Glyukoza konsentratsiyasi yuqori bölganda insulin sekretsiyasi qözğatiladi va yoğ örniga ugleovod işlatiladi. Qondagi ortiqça glyukoza jigar glikogeni, jigar yoği va muskul glikogeni şaklida zaxiralanadi. Şuning uçun insulinning organizmdagi eng muhim funksional rollaridan biri — har bir lahzada hujayralar energiya uçun bu ikki ozuqa moddasidan qaysi birini işlatişini boşqariş."
+  },
+  "ch79-f88": {
+   "text": "Bu almaştiriş mexanizmida kamida yana tört ma’lum gormon muhim rol öynaydi — gipofiz oldingi bölagidan _ösiş gormoni_, buyrak usti bezi pöstloğidan _kortizol_, buyrak usti bezi mağiz qavatidan _epinefrin_ va meda osti bezi Langergans orolçalarining alfa hujayralaridan _glyukagon_. Glyukagon bobning keyingi bölimida muhokama qilinadi. Ösiş gormoni ham, kortizol ham gipoglikemiyaga javoban ajraladi va ikkalasi ham hujayralar tomonidan glyukozadan foydalanişni tormozlab, yoğdan foydalanişni kuçaytiradi. Biroq bu ikkala gormonning ta’sirlari sekin rivojlanadi va maksimal namoyon bölişi uçun odatda köp soat talab qiladi."
+  },
+  "ch79-f89": {
+   "text": "Epinefrin ayniqsa simpatik nerv tizimi qözğalgan stress davrlarida plazmadagi glyukoza konsentratsiyasini oşirişda muhim. Biroq epinefrin boşqa gormonlardan şunisi bilan farq qiladiki, u bir vaqtning özida plazmadagi yoğ kislotalari konsentratsiyasini ham oşiradi. Bu ta’sirlarning sabablari quyidagiça: (1) epinefrin jigarda glikogenolizni keltirib çiqaradigan kuçli ta’sirga ega va şu bilan bir neça daqiqa içida qonga köp miqdorda glyukoza ajratadi va (2) u yoğ hujayralariga bevosita lipolitik ta’sir ham körsatadi, çunki yoğ töqimasining gormonga sezgir lipazasini faollaştiradi va şu bilan qondagi yoğ kislotalari konsentratsiyasini ham keskin oşiradi. Miqdoriy jihatdan yoğ kislotalarining ortişi qondagi glyukozaning ortişidan ança katta. Şuning uçun epinefrin ayniqsa jismoniy yuklama, qon aylaniş şoki va xavotir kabi stress holatlarida yoğdan foydalanişni oşiradi."
+  },
+  "ch79-f90": {
+   "text": "GLYUKAGON VA UNING FUNKSIYALARI"
+  },
+  "ch79-f91": {
+   "text": "Qondagi glyukoza konsentratsiyasi pasayganda Langergans orolçalarining _alfa hujayralari_ ajratadigan gormon — glyukagon insulinnikiga diametral qarama-qarşi bölgan bir neça funksiyaga ega. Bu funksiyalarning eng muhimi — qondagi glyukoza konsentratsiyasini oşiriş; bu ta’sir insulinnikiga qarama-qarşi."
+  },
+  "ch79-f92": {
+   "text": "Insulin kabi glyukagon ham yirik polipeptid. Uning molekulyar massasi 3485 bölib, 29 ta aminokislota zanjiridan iborat. Hayvonga tozalangan glyukagon yuborilganda kuçli _giperglikemik_ ta’sir yuz beradi. Atigi 1 mkg/kg glyukagon qondagi glyukoza konsentratsiyasini taxminan 20 daqiqada 100 ml qonga taxminan 20 mg ga (25% ortiş) köterişi mumkin. Şu sababli glyukagon _giperglikemik gormon_ deb ham ataladi."
+  },
+  "ch79-f93": {
+   "text": "GLYUKOZA METABOLIZMIGA TA’SIRLARI"
+  },
+  "ch79-f94": {
+   "text": "Glyukagonning glyukoza metabolizmiga asosiy ta’sirlari: (1) jigar glikogenining parçalanişi _(glikogenoliz)_ va (2) jigarda _glyukoneogenezning_ ortişi. Bu ikkala ta’sir organizmning boşqa a’zolari uçun glyukoza mavjudligini keskin oşiradi."
+  },
+  "ch79-f95": {
+   "text": "Glyukagon glikogenoliz va qondagi glyukoza konsentratsiyasining ortişiga sabab böladi"
+  },
+  "ch79-f96": {
+   "text": "Glyukagonning eng yaqqol ta’siri — jigarda glikogenolizni yuzaga keltiriş qobiliyati; bu esa öz navbatida bir neça daqiqa içida qondagi glyukoza konsentratsiyasini oşiradi. U bu funksiyani quyidagi murakkab hodisalar kaskadi orqali bajaradi: 1. Glyukagon jigar hujayrasi membranasidagi _adenilatsiklazani_ faollaştiradi, 2. Bu _siklik adenozinmonofosfat_ hosil bölişiga sabab böladi, 3. U _proteinkinaza boşqaruvçi oqsilini_ faollaştiradi, 4. U _proteinkinazani_ faollaştiradi, 5. U _fosforilaza b kinazani_ faollaştiradi, 6. U _fosforilaza b_ ni _fosforilaza a_ ga aylantiradi, 7. U glikogenning glyukoza-1-fosfatgaça parçalanişini kuçaytiradi, 8. U söngra defosforillanadi va glyukoza jigar hujayralaridan ajraladi."
+  },
+  "ch79-f97": {
+   "text": "Bu hodisalar ketma-ketligi bir neça sababga köra juda muhim. Birinçidan, u siklik adenozinmonofosfatning (sAMF) barça _ikkilamçi xabarçi_ funksiyalari orasida eng puxta örganilganlaridan biri. Ikkinçidan, u _har bir keyingi mahsulot oldingisidan köproq miqdorda hosil böladigan_ kaskad tizimini namoyon qiladi. Şuning uçun u kuçli _kuçaytiruvçi_ mexanizmni ifodalaydi. Kuçaytirişning bu turi organizmda köplab, balki köpçilik hujayra metabolik tizimlarini boşqariş uçun keng qöllaniladi va köpinça javobni million barobargaça kuçaytiradi. Bu mexanizm _atigi bir neça mikrogramm glyukagon qondagi glyukoza darajasini bir neça daqiqa içida ikki barobar yoki undan ham köp oşirişi mumkinligini_ tuşuntiradi."
+  },
+  "ch79-f98": {
+   "text": "Glyukagonni taxminan 4 soat davomida infuziya qiliş jigarda şunday kuçli glikogenolizga sabab bölişi mumkinki, jigarning barça glikogen zaxiralari tugaydi."
+  },
+  "ch79-f99": {
+   "text": "Glyukagon glyukoneogenezni oşiradi"
+  },
+  "ch79-f100": {
+   "text": "Glyukagon ta’sirida jigardagi barça glikogen tugagaçdan keyin ham bu gormonning infuziyasini davom ettiriş giperglikemiyaning davom etişiga sabab böladi. Bu giperglikemiya glyukagonning jigar hujayralari tomonidan aminokislotalarni qabul qiliş tezligini oşiriş va söngra köplab aminokislotalarni glyukoneogenez orqali glyukozaga aylantiriş ta’siri natijasidir. Bu ta’sirga aminokislotalar taşilişi va glyukoneogenez uçun zarur köplab fermentlarni faollaştiriş, ayniqsa glyukoneogenezning tezlikni çeklovçi bosqiçi — piruvatni fosfoyenolpiruvatga aylantiradigan ferment tizimini faollaştiriş orqali erişiladi."
+  },
+  "ch79-f101": {
+   "text": "Glyukagonning boşqa ta’sirlari"
+  },
+  "ch79-f102": {
+   "text": "Glyukagonning köpçilik boşqa ta’sirlari faqat uning konsentratsiyasi qonda me’yorda uçraydigan maksimumdan ança yuqori köterilganda yuz beradi. Ehtimol, eng muhim ta’sir şuki, _glyukagon yoğ hujayralari lipazasini faollaştiradi_ va organizmning energiya tizimlari uçun köproq yoğ kislotalarini mavjud qiladi. Glyukagon jigarda triglitseridlarning zaxiralanişini ham tormozlaydi, bu jigarning qondan yoğ kislotalarini olişiga tösqinlik qiladi; bu ham organizmning boşqa töqimalari uçun qöşimça yoğ kislotalarini mavjud qilişga yordam beradi."
+  },
+  "ch79-f103": {
+   "text": "Yuqori konsentratsiyadagi glyukagon yana (1) yurak kuçini oşiradi; (2) ayrim töqimalarda, ayniqsa buyraklarda qon oqimini oşiradi; (3) öt sekretsiyasini kuçaytiradi; va (4) meda kislotasi sekretsiyasini tormozlaydi. Glyukagonning bu ta’sirlari organizmning me’yoriy funksiyasida uning glyukozaga ta’sirlariga qaraganda ehtimol ança kam ahamiyatga ega."
+  },
+  "ch79-f104": {
+   "text": "GLYUKAGON SEKRETSIYASINING BOŞQARILIŞI"
+  },
+  "ch79-f105": {
+   "text": "Qondagi glyukoza konsentratsiyasi glyukagon sekretsiyasini boşqaradigan eng kuçli omil. Biroq alohida e’tibor bering: _qondagi glyukoza konsentratsiyasining glyukagon sekretsiyasiga ta’siri glyukozaning insulin sekretsiyasiga ta’siriga aynan qarama-qarşi yönalişda_.",
+   "lead": "Qondagi glyukozaning ortişi glyukagon sekretsiyasini tormozlaydi."
+  },
+  "ch79-f106": {
+   "text": "Bu **Rasm 79-10** da namoyon bölgan: qondagi glyukoza konsentratsiyasining 100 ml qonda taxminan 90 mg bölgan me’yoriy nahorgi darajasidan gipoglikemik darajalargaça _pasayişi_ plazmadagi glyukagon konsentratsiyasini bir neça barobar oşirişi mumkin. Aksinça, qondagi glyukozaning giperglikemik darajalargaça ortişi plazmadagi glyukagon konsentratsiyasini kamaytiradi. Şunday qilib, gipoglikemiyada glyukagon köp miqdorda ajraladi; söngra u jigardan glyukoza çiqarilişini keskin oşiradi va şu bilan gipoglikemiyani tuzatişdek muhim funksiyani bajaradi."
+  },
+  "ch79-f108": {
+   "text": "Oqsil tutuvçi ovqatdan keyin qonda uçraydigan kabi aminokislotalarning yuqori konsentratsiyalari (ayniqsa _alanin_ va _arginin_ aminokislotalari) glyukagon sekretsiyasini _qözğatadi_. Bu aminokislotalarning insulin sekretsiyasini qözğatişdagi ta’siri bilan bir xil. Demak, bu holatda glyukagon va insulin javoblari qarama-qarşi emas. Aminokislotalarning glyukagon sekretsiyasini qözğatişining ahamiyati şundaki, glyukagon söngra aminokislotalarning glyukozaga tez aylanişini kuçaytiradi va şu bilan töqimalar uçun yanada köproq glyukozani mavjud qiladi.",
+   "lead": "Qonda aminokislotalarning ortişi glyukagon sekretsiyasini qözğatadi."
+  },
+  "ch79-f109": {
+   "text": "Holdan toydiruvçi jismoniy yuklama paytida qondagi glyukagon konsentratsiyasi köpinça tört-beş barobar ortadi. Bu ortişning sababi yaxşi tuşunilmagan, çunki qondagi glyukoza konsentratsiyasi şart emas pasaysa. Glyukagonning foydali ta’siri — qondagi glyukozaning pasayişiga yöl qöymaslik.",
+   "lead": "Jismoniy yuklama glyukagon sekretsiyasini qözğatadi."
+  },
+  "ch79-f110": {
+   "text": "Jismoniy yuklama paytida glyukagon sekretsiyasini oşirişi mumkin bölgan omillardan biri — aylanib yurgan aminokislotalarning ortişi. Langergans orolçalarining β-adrenergik qözğalişi kabi boşqa omillar ham rol öynaşi mumkin."
+  },
+  "ch79-f111": {
+   "text": "Langergans orolçalarining _delta hujayralari_ aylanib yurgan qonda atigi 3 daqiqalik juda qisqa yarim yemiriliş davriga ega bölgan 14 ta aminokislotali polipeptid — _somatostatin_ gormonini ajratadi. Ovqat iste’moli bilan boğliq deyarli barça omillar somatostatin sekretsiyasini qözğatadi. Bu omillarga (1) qondagi glyukozaning ortişi, (2) aminokislotalarning ortişi, (3) yoğ kislotalarining ortişi va (4) ovqat iste’moliga javoban oşqozon-içak yölining yuqori qismidan ajraladigan bir neça oşqozon-içak gormonlari konsentratsiyasining ortişi kiradi."
+  },
+  "ch79-f112": {
+   "text": "Öz navbatida somatostatin quyidagi köplab tormozlovçi ta’sirlarga ega: 1. Somatostatin Langergans orolçalarining özida mahalliy ta’sir qilib, ham insulin, ham glyukagon sekretsiyasini susaytiradi. 2. Somatostatin meda, ön ikki barmoqli içak va öt pufagi motorikasini kamaytiradi. 3. Somatostatin oşqozon-içak yölida ham sekretsiyani, ham sörilişni kamaytiradi. Bu barça ma’lumotlarni birlaştirib, somatostatinning asosiy roli ozuqa moddalarining qonga özlaştiriliş davrini uzaytiriş, degan fikr bildirilgan. Bir vaqtning özida somatostatinning insulin va glyukagon sekretsiyasini susaytiriş ta’siri sörilgan ozuqa moddalaridan töqimalar foydalanişini kamaytiradi, şu bilan ovqatning tez sarflanişining oldini oladi va uni uzoqroq davr davomida mavjud qiladi."
+  },
+  "ch79-f113": {
+   "text": "Somatostatin gipotalamusda ajraladigan va gipofiz oldingi bölagi tomonidan ösiş gormoni sekretsiyasini bostiradigan _ösiş gormonini tormozlovçi gormon_ bilan ham bir xil kimyoviy moddadir."
+  },
+  "ch79-f114": {
+   "text": "QONDAGI GLYUKOZANI BOŞQARIŞNING XULOSASI"
+  },
+  "ch79-f115": {
+   "text": "Me’yorda qondagi glyukoza konsentratsiyasi tor oraliqda nazorat qilinadi: odatda nahorgi odamda har kuni ertalab nonuştadan oldin 100 ml qonda 80–90 mg. Bu konsentratsiya ovqatdan keyingi dastlabki bir soat atrofida 120–140 mg/100 ml gaça ortadi, ammo qondagi glyukozani boşqariş teskari aloqa tizimlari glyukoza konsentratsiyasini tezda nazorat darajasiga qaytaradi; bu odatda ugleovodlarning oxirgi sörilişidan keyin 2 soat içida yuz beradi. Aksinça, oçlik holatida jigarning glyukoneogenez funksiyasi qondagi glyukozaning nahorgi darajasini saqlaş uçun zarur glyukozani ta’minlaydi."
+  },
+  "ch79-f116": {
+   "text": "Bu yuqori darajadagi nazoratga erişiş mexanizmlari uşbu bobda bayon qilindi va ularni quyidagiça umumlaştiriş mumkin: 1. _Jigar qondagi glyukozaning muhim bufer tizimi vazifasini bajaradi._ Ya’ni ovqatdan keyin qondagi glyukoza yuqori konsentratsiyagaça köterilib, insulin sekretsiyasi ham ortganda içakdan sörilgan glyukozaning uçdan ikki qismigaça jigarda glikogen sifatida tez zaxiralanadi. Söngra keyingi soatlarda qondagi glyukoza konsentratsiyasi va insulin sekretsiyasi pasayganda jigar glyukozani yana qonga çiqaradi. Şu yöl bilan jigar qondagi glyukoza konsentratsiyasi tebranişlarini aks holdagining taxminan uçdan bir qismigaça kamaytiradi. Haqiqatan ham, oğir jigar kasalligi bölgan bemorlarda qondagi glyukoza konsentratsiyasini tor oraliqda saqlaş deyarli imkonsiz böladi. 2. _Insulin ham, glyukagon ham qondagi glyukozaning me’yoriy konsentratsiyasini saqlaş uçun muhim teskari aloqa nazorat tizimlari sifatida işlaydi._ Glyukoza konsentratsiyasi haddan taşqari köterilganda insulin sekretsiyasining ortişi qondagi glyukoza konsentratsiyasining me’yorga qarab pasayişiga sabab böladi. Aksinça, qondagi glyukozaning pasayişi glyukagon sekretsiyasini qözğatadi; glyukagon esa glyukozani me’yorga qarab oşiriş uçun qarama-qarşi yönalişda ta’sir qiladi. Köpçilik me’yoriy şaroitlarda insulin teskari aloqa mexanizmi glyukagon mexanizmidan muhimroq, ammo oçlik yoki jismoniy yuklama va boşqa stressli vaziyatlarda glyukozadan haddan taşqari foydalaniş hollarida glyukagon mexanizmi ham qimmatli böladi. 3. Oğir gipoglikemiyada past glyukozaning gipotalamusga bevosita ta’siri simpatik nerv tizimini ham qözğatadi. Buyrak usti bezlari ajratadigan epinefrin jigardan glyukoza ajralişini yanada oşiradi, bu ham oğir gipoglikemiyadan himoya qilişga yordam beradi. 4. Nihoyat, soatlar va kunlar davomida uzoq davom etgan gipoglikemiyaga javoban ham ösiş gormoni, ham kortizol ajraladi. Ularning ikkalasi ham organizmning köpçilik hujayralari tomonidan glyukozadan foydalaniş tezligini kamaytiradi va buning örniga yoğdan köproq foydalanişga ötkazadi. Bu jarayon ham qondagi glyukoza konsentratsiyasini me’yorga qaytarişga yordam beradi."
+  },
+  "ch79-f117": {
+   "text": "“Nega qondagi glyukoza konsentratsiyasini doimiy saqlaş bunça muhim, ayniqsa köpçilik töqimalar glyukoza bölmaganda energiya uçun yoğlar va oqsillardan foydalanişga ötişi mumkin bölsa?” degan savol tuğilişi mumkin. Javob şuki, glyukoza me’yorda _miya, tör parda_ va _jinsiy bezlarning jinsiy epiteliysi_ tomonidan ularni zarur energiya bilan optimal ta’minlaş uçun yetarli miqdorda işlatilişi mumkin bölgan yagona ozuqa moddasi. Şuning uçun qondagi glyukoza konsentratsiyasini bu zarur ozuqani ta’minlaş uçun yetarli darajada saqlaş muhim.",
+   "lead": "Qondagi glyukozani boşqarişning ahamiyati."
+  },
+  "ch79-f118": {
+   "text": "Hazm oraliği davrida glyukoneogenez orqali hosil böladigan glyukozaning köp qismi miyadagi metabolizm uçun işlatiladi. Haqiqatan ham, bu vaqtda meda osti bezining insulin ajratmasligi muhim; aks holda mavjud kam glyukoza zaxiralari hammasi muskullar va boşqa periferik töqimalarga ketib, miyani ozuqa manbaisiz qoldirardi."
+  },
+  "ch79-f119": {
+   "text": "Qondagi glyukoza konsentratsiyasining haddan taşqari köterilmasligi ham bir neça sababga köra muhim: 1. Glyukoza hujayradan taşqari suyuqlikda katta osmotik bosim hosil qilişi mumkin va glyukoza konsentratsiyasining haddan taşqari qiymatlarga köterilişi hujayralarning sezilarli suvsizlanişiga sabab bölişi mumkin. 2. Qondagi glyukoza konsentratsiyasining haddan taşqari yuqori darajasi glyukozaning siydik bilan yöqotilişiga sabab böladi. 3. Siydik bilan glyukoza yöqotiliş buyraklar tomonidan osmotik diurezga ham sabab böladi, bu organizmni suyuqlik va elektrolitlardan mahrum qilişi mumkin. 4. Qondagi glyukozaning uzoq muddat ortişi köplab töqimalarga, ayniqsa qon tomirlariga zarar yetkazişi mumkin. Nazorat qilinmaydigan qandli diabet bilan boğliq tomirlar şikastlanişi yurak xuruji, insult, buyrak kasalligining söngi bosqiçi va körlik xavfining ortişiga olib keladi."
+  },
+  "ch79-f120": {
+   "text": "Qandli diabet — insulin sekretsiyasining yetişmasligi yoki töqimalarning insulinga sezgirligi pasayişi tufayli yuzaga keladigan ugleovodlar, yoğlar va oqsillar metabolizmi buzilişi sindromi. Qandli diabetning ikkita umumiy turi bor: 1. _Insulinga boğliq qandli diabet_ deb ham ataladigan _1-tip diabet_"
+  },
+  "ch79-f121": {
+   "text": "insulin sekretsiyasining yetişmasligi tufayli yuzaga keladi. 2. _Insulinga boğliq bölmagan qandli_"
+  },
+  "ch79-f122": {
+   "text": "_diabet_ deb ham ataladigan _2-tip diabet_ dastlab nişon töqimalarning insulinning metabolik ta’siriga sezgirligi pasayişi tufayli yuzaga keladi. Insulinga sezgirlikning bu pasayişi köpinça _insulinga rezistentlik_ deb ataladi. Qandli diabetning ikkala turida ham barça asosiy ozuqa moddalarining metabolizmi özgaradi. Insulin yetişmovçiligi yoki insulinga rezistentlikning glyukoza metabolizmiga asosiy ta’siri — miyadan taşqari organizmning köpçilik hujayralari tomonidan glyukozani samarali qabul qiliş va undan foydalanişga tösqinlik qiliş. Natijada qondagi glyukoza konsentratsiyasi ortadi, hujayralar tomonidan glyukozadan foydalaniş tobora kamayadi, yoğlar va oqsillardan foydalaniş esa ortadi."
+  },
+  "ch79-f123": {
+   "text": "Meda osti bezi beta hujayralarining şikastlanişi yoki insulin işlab çiqarilişini buzadigan kasalliklar 1-tip diabetga olib kelişi mumkin. 1-tip diabetli köplab bemorlarda beta hujayralarning yemirilişida _virusli infeksiyalar_ yoki _autoimmun buzilişlar_ iştirok etişi mumkin, garçi irsiyat ham beta hujayralarning bu şikastlovçi omillar tomonidan yemirilişiga moyilligini belgilaşda katta rol öynasa-da. Ayrim hollarda odamlarda virusli infeksiyalar yoki autoimmun buzilişlarsiz ham beta hujayralar degeneratsiyasiga irsiy moyillik bölişi mumkin."
+  },
+  "ch79-f124": {
+   "text": "AQŞda 1-tip diabet odatda taxminan 14 yoşda boşlanadi va şu sababli köpinça _yuvenil qandli diabet_ deb ataladi. Biroq 1-tip diabet meda osti bezi beta hujayralarining yemirilişiga olib keladigan buzilişlardan keyin istalgan yoşda, jumladan katta yoşda ham yuzaga kelişi mumkin. 1-tip diabet bir neça kun yoki hafta davomida keskin rivojlanişi mumkin va uçta asosiy oqibatga ega: (1) qondagi glyukoza darajasining ortişi, (2) energiya uçun va jigar tomonidan xolesterin hosil qiliş uçun yoğlardan foydalanişning ortişi va (3) organizm oqsillarining kamayişi. Qandli diabetli odamlarning taxminan 5–10% ida kasallikning 1-tip şakli bor."
+  },
+  "ch79-f125": {
+   "text": "Insulin yetişmasligi glyukozadan periferik foydalaniş samaradorligini pasaytiradi va glyukoza işlab çiqarilişini kuçaytiradi, natijada plazmadagi glyukoza 300–1200 mg/100 ml gaça köteriladi. Söngra plazmadagi glyukozaning ortişi butun organizmda köplab salbiy ta’sirlarga ega.",
+   "lead": "Qandli diabetda qondagi glyukoza konsentratsiyasi yuqori darajalargaça köteriladi."
+  },
+  "ch79-f126": {
+   "text": "Qondagi glyukozaning yuqori darajasi buyrak kanalçalariga reabsorbsiyalanişi mumkin bölganidan köp glyukoza filtrlanişiga sabab böladi va 28-bobda tuşuntirilganidek, ortiqça glyukoza siydikka tökiladi. Bu tökiliş me’yorda qondagi glyukoza konsentratsiyasi taxminan 200 mg/100 ml dan oşganda yuz beradi; bu daraja siydikda glyukoza paydo bölişi uçun qondagi “bösağa” deb ataladi. Qondagi glyukoza darajasi 300–500 mg/100 ml gaça — oğir davolanmagan diabetli odamlarda odatiy qiymatlarga köterilganda har kuni siydik bilan 100 va undan köp gramm glyukoza yöqotilişi mumkin.",
+   "lead": "Qondagi glyukozaning ortişi siydik bilan glyukoza yöqotilişiga sabab böladi."
+  },
+  "ch79-f127": {
+   "text": "Qondagi glyukozaning haddan taşqari yuqori darajalari (oğir davolanmagan diabetda ba’zan me’yordan 8–10 barobar yuqori) butun organizmda hujayralarning kuçli suvsizlanişiga sabab bölişi mumkin. Bu suvsizlaniş qisman glyukoza hujayra membranasi teşikçalari orqali oson diffuziyalanmagani va hujayradan taşqari suyuqliklarda osmotik bosimning ortişi suvning hujayralardan osmotik çiqişiga sabab bölgani uçun yuz beradi.",
+   "lead": "Qondagi glyukozaning ortişi suvsizlanişga sabab böladi."
+  },
+  "ch79-f128": {
+   "text": "Ortiqça glyukozaning hujayralarni bevosita suvsizlantiruvçi ta’siridan taşqari siydik bilan glyukoza yöqotiliş _osmotik diurezga_ sabab böladi — ya’ni buyrak kanalçalaridagi glyukozaning osmotik ta’siri kanalçalarda suyuqlik reabsorbsiyasini keskin kamaytiradi. Umumiy ta’sir — siydik bilan suyuqlikning ommaviy yöqotilişi bölib, u hujayradan taşqari suyuqlikning suvsizlanişiga sabab böladi, bu esa öz navbatida hujayra içi suyuqligining kompensator suvsizlanişiga olib keladi. Şunday qilib, _poliuriya_ (siydikning ortiqça çiqarilişi), _hujayra içi va hujayradan taşqari suvsizlaniş_ va _çanqoqning kuçayişi_ diabetning klassik simptomlaridir."
+  },
+  "ch79-f129": {
+   "text": "Qandli diabetda qondagi glyukoza uzoq vaqt yomon nazorat qilinganda butun organizmdagi köplab töqimalarda qon tomirlari anormal işlay boşlaydi va töqimalarning yetarli qon bilan ta’minlanmasligiga olib keladigan tuzilma özgarişlariga uçraydi. Bu holat öz navbatida yurak xuruji, insult, buyrak kasalligining söngi bosqiçi, retinopatiya va körlik, şuningdek qöl-oyoqlarning işemiyasi va gangrenasi xavfining ortişiga olib keladi.",
+   "lead": "Surunkali yuqori glyukoza konsentratsiyasi töqimalar şikastlanişiga sabab böladi."
+  },
+  "ch79-f130": {
+   "text": "Surunkali yuqori glyukoza konsentratsiyasi köplab boşqa töqimalarga ham zarar yetkazadi. Masalan, periferik nervlarning anormal funksiyasi — _periferik neyropatiya_ va _vegetativ nerv tizimi disfunksiyasi_ surunkali, nazorat qilinmaydigan qandli diabetning köp uçraydigan asoratlaridir. Bu buzilişlar yurak-qon tomir reflekslarining buzilişi, siydik pufagi nazoratining buzilişi, qöl-oyoqlarda sezgining pasayişi va periferik nerv şikastlanişining boşqa simptomlariga olib kelişi mumkin."
+  },
+  "ch79-f131": {
+   "text": "Diabetda töqima şikastlanişiga sabab böladigan aniq mexanizmlar yaxşi tuşunilmagan, ammo ehtimol yuqori glyukoza konsentratsiyalari va boşqa metabolik buzilişlarning endotelial va tomir silliq muskul hujayralari, şuningdek boşqa töqimalar oqsillariga köplab ta’sirlarini öz içiga oladi. Bundan taşqari, diabetli bemorlarda köpinça buyrak şikastlanişiga ikkilamçi _gipertenziya_ va lipid metabolizmi buzilişiga ikkilamçi _ateroskleroz_ rivojlanadi va ular glyukoza darajasining ortişi keltirib çiqaradigan töqima zararini kuçaytiradi."
+  },
+  "ch79-f132": {
+   "text": "Diabetda ugleovod metabolizmidan yoğ metabolizmiga ötiş atsetosirka kislotasi va β-gidroksimoy kislotasi kabi keto kislotalarning plazmaga töqima hujayralari tomonidan qabul qilinib oksidlanişi mumkin bölganidan tezroq ajralişini oşiradi. Natijada ortiqça keto kislotalar tufayli _metabolik atsidoz_ rivojlanadi va u suvsizlaniş bilan birga oğir atsidozga sabab bölişi mumkin. Agar bemor zudlik bilan köp miqdorda insulin bilan davolanmasa, bu holat tezda _diabetik koma_ va ölimga olib keladi.",
+   "lead": "Qandli diabet yoğlardan foydalanişning ortişi va metabolik atsidozga sabab böladi."
+  },
+  "ch79-f133": {
+   "text": "31-bobda muhokama qilinganidek, metabolik atsidozda yuz beradigan barça odatiy fiziologik kompensatsiyalar diabetik atsidozda ham yuz beradi. Ularga karbonat angidridning köproq çiqarilişiga sabab böladigan _tez va çuqur nafas oliş_ kiradi; bu mexanizm atsidozni bufer qiladi, ammo hujayradan taşqari suyuqlikdagi bikarbonat zaxiralarini ham kamaytiradi. Buyraklar bikarbonat çiqarilişini kamaytiriş va hujayradan taşqari suyuqlikka qayta qöşiladigan yangi bikarbonat hosil qiliş orqali kompensatsiya qiladi."
+  },
+  "ch79-f134": {
+   "text": "Haddan taşqari atsidoz faqat nazorat qilinmaydigan diabetning eng oğir hollarida yuz bersa-da, qon pH i taxminan 7,0 dan pastga tuşganda bir neça soat içida _atsidotik koma_ va ölim yuz berişi mumkin. Oğir diabetik atsidoz natijasida qon elektrolitlaridagi umumiy özgarişlar **Rasm 79-11** da körsatilgan."
+  },
+  "ch79-f136": {
+   "text": "Jigarda uzoq vaqt davomida yoğdan ortiqça foydalaniş aylanib yurgan qonda köp miqdorda xolesterin bölişiga va arteriyalar devorlarida xolesterin töplanişining ortişiga sabab böladi. Bu holat yuqorida muhokama qilinganidek, oğir _arterioskleroz_ va boşqa tomir şikastlanişlariga olib keladi."
+  },
+  "ch79-f137": {
+   "text": "Energiya uçun glyukozadan foydalana olmaslik oqsillar va yoğdan foydalanişning ortişiga va ularning zaxiralanişining kamayişiga olib keladi. Şuning uçun oğir davolanmagan qandli diabetli odam köp miqdorda ovqat yeyişiga _(polifagiya)_ qaramay vaznini tez yöqotadi va _asteniyani_ (energiya yetişmasligini) boşdan keçiradi. Davolanmasa, bu metabolik buzilişlar bir neça hafta içida organizm töqimalarining oğir ozib ketişiga va ölimga olib kelişi mumkin.",
+   "lead": "Diabet organizm oqsillarining kamayişiga sabab böladi."
+  },
+  "ch79-f138": {
+   "text": "1-tip qandli diabetni samarali davolaş bemorda ugleovod, yoğ va oqsil metabolizmi iloji boriça me’yoriy bölişi uçun yetarli miqdorda insulin yuborişni talab qiladi. Insulin bir neça şaklda mavjud. “Oddiy” insulinning ta’sir davomiyligi 3 dan 8 soatgaça, insulinning boşqa şakllari (rux yoki turli oqsil hosilalari bilan çöktirilgan) esa yuborilgan joydan sekin sörilib, ta’siri 10–48 soatgaça davom etadi. Odatda oğir 1-tip diabetli bemorga kun davomida umumiy ugleovod metabolizmini oşiriş uçun har kuni uzoq ta’sir qiluvçi insulinlardan birining bitta dozasi beriladi. Söngra kun davomida qondagi glyukoza darajasi haddan taşqari köterilişga moyil bölgan paytlarda, masalan, ovqatlaniş vaqtlarida qöşimça miqdorda oddiy insulin beriladi. Şunday qilib, har bir bemor individual davolaş tartibi bilan ta’minlanadi.",
+   "lead": "1-tip diabetni davolaş."
+  },
+  "ch79-f139": {
+   "text": "Ilgari davolaşda işlatiladigan insulin hayvonlarning meda osti bezlaridan olingan. Biroq rekombinant DNK usuli bilan işlab çiqarilgan odam insulini keng qöllanila boşlandi, çunki ayrim bemorlarda hayvon insulinga qarşi immunitet va sensibilizatsiya rivojlanib, uning samaradorligini çeklaydi."
+  },
+  "ch79-f140": {
+   "text": "2-tip diabet 1-tip diabetdan ança köp uçraydi va qandli diabetning barça hollarining taxminan 90–95% ini taşkil etadi. Köp hollarda 2-tip diabet 30 yoşdan keyin, köpinça 50 va 60 yoş oraliğida boşlanadi va kasallik asta-sekin rivojlanadi. Şuning uçun bu sindrom köpinça _katta yoşda boşlanadigan diabet_ deb ataladi. Biroq söngi yillarda 2-tip diabet bilan oğrigan yoşroq odamlar, ayrimlari 20 yoşdan kiçik bölganlar soni barqaror ösib bormoqda. Bu tendensiya asosan bolalar va kattalarda _2-tip diabetning eng muhim xavf omili_ — _semizlik_ tarqalişining ortişi bilan boğliqga öxşaydi."
+  },
+  "ch79-f141": {
+   "text": "2-tip diabet 1-tip diabetdan farqli ravişda plazmada insulin konsentratsiyasining _ortişi_ bilan boğliq. _Giperinsulinemiya_ meda osti bezi beta hujayralarining _insulinga rezistentlikka_, ya’ni nişon töqimalarning insulinning metabolik ta’sirlariga sezgirligi pasayişiga kompensator javobi sifatida yuzaga keladi. Insulinga sezgirlikning pasayişi ugleovodlardan foydalaniş va ularni zaxiralaşni buzadi, qondagi glyukozani köteradi va insulin sekretsiyasining kompensator ortişini qözğatadi.",
+   "lead": "Semizlik, insulinga rezistentlik va “metabolik sindrom” odatda 2-tip diabet rivojlanişidan oldin keladi."
+  },
+  "ch79-f142": {
+   "text": "Insulinga rezistentlik va glyukoza metabolizmi buzilişining rivojlanişi odatda asta-sekin keçadigan jarayon bölib, ortiqça vazn ortişi va semizlikdan boşlanadi. Ayrim tadqiqotlar semiz odamlarda, ayniqsa skelet muskuli, jigar va yoğ töqimasida oriq odamlarga qaraganda insulin retseptorlari kamroq ekanini körsatadi. Biroq insulinga rezistentlikning köp qismi retseptor faollaşişini köplab hujayra ta’sirlari bilan boğlaydigan signal yöllarining buzilişi tufayli yuzaga keladiganga öxşaydi. Insulin signalizatsiyasining buzilişi ortiqça vazn ortişi natijasida skelet muskuli va jigar kabi töqimalarda lipidlar töplanişining toksik ta’sirlari bilan ziç boğliq bölişi mumkin."
+  },
+  "ch79-f143": {
+   "text": "Insulinga rezistentlik köpinça _“metabolik sindrom”_ deb ataladigan buzilişlar kaskadining bir qismi. Metabolik sindromning ayrim xususiyatlariga (1) semizlik, ayniqsa qorin yoğining töplanişi; (2) insulinga rezistentlik; (3) nahorgi giperglikemiya; (4) qonda triglitseridlarning ortişi va yuqori ziçlikdagi lipoprotein-xolesterinning kamayişi kabi lipid buzilişlari; va (5) gipertenziya kiradi. Metabolik sindromning barça xususiyatlari qorin bösliğida içki a’zolar atrofida ortiqça yoğ töqimasi töplanişi bilan ziç boğliq."
+  },
+  "ch79-f144": {
+   "text": "Insulinga rezistentlikning metabolik sindromning ayrim tarkibiy qismlariga hissa qöşişdagi roli noaniq, garçi insulinga rezistentlik qondagi glyukoza konsentratsiyasi ortişining birlamçi sababi ekani aniq bölsa ham. Metabolik sindromning asosiy salbiy oqibati — yurak-qon tomir kasalliklari, jumladan ateroskleroz va organizmdagi turli a’zolarning şikastlanişi. Sindrom bilan boğliq bir neça metabolik buziliş yurak-qon tomir kasalliklari xavfini oşiradi, insulinga rezistentlik esa 2-tip qandli diabet rivojlanişiga moyillik tuğdiradi, u ham yurak-qon tomir kasalliklarining asosiy sababi."
+  },
+  "ch79-f145": {
+   "text": "2-tip diabetli bemorlarning köpçiligi ortiqça vaznli yoki sezilarli visseral yoğ töplangan bölsa-da, kuçli insulinga rezistentlik va 2-tip diabet periferik töqimalarda insulin signalizatsiyasini buzadigan boşqa ortirilgan yoki genetik holatlar natijasida ham yuzaga kelişi mumkin (**Jadval 79-2**).",
+   "lead": "Insulinga rezistentlik va 2-tip diabetga sabab bölişi mumkin bölgan boşqa omillar."
+  },
+  "ch79-f146": {
+   "text": "Masalan, _polikistoz tuxumdonlar sindromi_ (PKTS) tuxumdonlarda androgen işlab çiqarilişining keskin ortişi va insulinga rezistentlik bilan boğliq. PKTS ayollardagi eng köp uçraydigan endokrin buzilişlardan biri bölib, reproduktiv davrda barça ayollarning taxminan 6% iga ta’sir qiladi. PKTS patogenezi noaniq bölsa-da, zararlangan ayollarning taxminan 80% ida insulinga rezistentlik va giperinsulinemiya aniqlanadi. Uzoq muddatli oqibatlarga qandli diabet xavfining ortişi, qondagi lipidlarning ortişi va yurak-qon tomir kasalliklari kiradi."
+  },
+  "ch79-f147": {
+   "text": "_Glyukokortikoidlarning ortiqça hosil bölişi (Kuşing sindromi)_ yoki _ösiş gormonining ortiqça hosil bölişi (akromegaliya)_ ham turli töqimalarning insulinning metabolik ta’sirlariga sezgirligini pasaytiradi va qandli diabet rivojlanişiga olib kelişi mumkin. Semizlik va insulinga rezistentlikning genetik sabablari, agar yetarliça oğir bölsa, 2-tip diabetga va metabolik sindromning köplab boşqa xususiyatlariga, jumladan yurak-qon tomir kasalliklariga ham olib kelişi mumkin."
+  },
+  "ch79-f148": {
+   "text": "Uzoq davom etadigan va kuçli insulinga rezistentlikda hatto insulinning ortgan darajalari ham glyukozani me’yoriy boşqarişni saqlaş uçun yetarli bölmaydi. Natijada kasallikning dastlabki bosqiçlarida ugleovodlar iste’mol qilingandan keyin örtaça giperglikemiya yuz beradi.",
+   "lead": "Uzoq davom etadigan insulinga rezistentlikda 2-tip diabetning rivojlanişi."
+  },
+  "ch79-f149": {
+   "text": "2-tip diabetning keyingi bosqiçlarida meda osti bezi beta hujayralari “holdan toyadi” yoki şikastlanadi va ayniqsa odam ugleovodlarga boy ovqat yegaçdan keyin oğirroq giperglikemiyaning oldini oliş uçun yetarli insulin işlab çiqara olmaydi."
+  },
+  "ch79-f150": {
+   "text": "Ayrim semiz odamlarda yaqqol insulinga rezistentlik va ovqatdan keyin qondagi glyukozaning me’yordan köp ortişiga qaramay klinik jihatdan ahamiyatli qandli diabet rivojlanmasligi mumkin; aftidan, bu odamlarda meda osti bezi glyukoza metabolizmining oğir buzilişlarining oldini oliş uçun yetarli insulin işlab çiqaradi. Biroq boşqa semiz odamlarda meda osti bezi köp miqdorda insulin ajratişdan asta-sekin holdan toyadi yoki meda osti bezida lipidlar töplanişi bilan boğliq omillar tomonidan şikastlanadi va töliq rivojlangan qandli diabet yuzaga keladi. Ayrim tadqiqotlar odamning meda osti bezi 2-tip diabetdagi glyukoza metabolizmining oğir buzilişlaridan saqlaniş uçun zarur bölgan yuqori insulin işlab çiqarişni köp yillar davomida saqlay olişini belgilaşda genetik omillar muhim rol öynaşini körsatadi."
+  },
+  "ch79-f151": {
+   "text": "Köp hollarda 2-tip diabetni, heç bölmaganda dastlabki bosqiçlarda, jismoniy faollikni oşiriş, kaloriyani çeklaş va vaznni kamaytirişga qaratilgan turmuş tarzi özgarişlari bilan samarali davolaş mumkin va ekzogen insulin yuboriş talab qilinmaydi. _Tiazolidindionlar_ kabi insulinga sezgirlikni oşiradigan dorilar, _metformin_ kabi jigarda glyukoza işlab çiqarilişini bostiradigan dorilar yoki _sulfonilmoçevinalar_ kabi meda osti bezidan qöşimça insulin ajralişiga sabab böladigan dorilar ham qöllanilişi mumkin. Biroq 2-tip diabetning keyingi bosqiçlarida plazmadagi glyukoza darajasini nazorat qiliş uçun odatda insulin yuboriş talab qilinadi.",
+   "lead": "2-tip diabetni turmuş tarzini özgartiriş, insulinga sezgirlikni oşiriş va insulin sekretsiyasini kuçaytiriş orqali davolaş."
+  },
+  "ch79-f152": {
+   "text": "2-tip diabetni davolaş uçun GSP-1 ta’sirini taqlid qiladigan _inkretin_ dorilar işlab çiqilgan. Bu dorilar insulin sekretsiyasini kuçaytiradi va boşqa diabetga qarşi dorilar bilan birga qöllaş uçun möljallangan. Yana bir davolaş yöndaşuvi — GSP-1 va GIP ni nofaollaştiradigan _dipeptidilpeptidaza 4 (DPP-4)_ fermentini tormozlaş. DPP-4 ta’sirlarini blokadalaş orqali GSP-1 va GIP ning inkretin ta’sirlarini uzaytiriş mumkin, bu insulin sekretsiyasining ortişiga va qondagi glyukoza darajasining yaxşiroq nazorat qilinişiga olib keladi."
+  },
+  "ch79-f153": {
+   "text": "28-bobda muhokama qilinganidek, buyrak koptokçalari kapillyarlarida filtrlangan glyukozaning taxminan 90% i proksimal kanalçalarda natriy-glyukoza kotransportyori 2 (SGLT2) tomonidan reabsorbsiyalanadi. 2-tip diabetni SGLT2 ni tormozlaş orqali davolaş uçun _gliflozinlar_ deb ataladigan bir neça dori işlab çiqilgan. Bu _SGLT2 ingibitorlari_ buyraklarda glyukoza reabsorbsiyasini keskin kamaytiradi, köp miqdorda glyukozaning siydik bilan çiqarilişiga va qondagi glyukoza konsentratsiyasining pasayişiga sabab böladi. SGLT2 ingibitorlari köpinça insulinga sezgirlikni oşiradigan yoki insulin sekretsiyasini qözğatadigan boşqa dorilar bilan birga qöllaniladi va klinik sinovlarda diabetli bemorlarda yurak-qon tomir va buyrak kasalliklaridan sezilarli himoya ta’minlaşi körsatilgan.",
+   "lead": "2-tip diabetni natriy-glyukoza transportyori 2 (SGLT2) ni tormozlaş orqali davolaş."
+  },
+  "ch79-f154": {
+   "text": "Glyukoza çiqarilişini oşirişdan taşqari SGLT2 ingibitorlari buyrak kanalçalarida qolgan glyukozaning osmotik ta’siri tufayli yaqqol diurezga ham sabab böladi. Diurez köpinça gipertenziyadan aziyat çekadigan 2-tip diabetli bemorlarda qon bosimining ozgina pasayişi uçun foydali bölişi mumkin, ammo allaqaçon boşqa diuretiklar va gipotenziv dorilar qabul qilayotgan bemorlarda suvsizlaniş va gipotenziya xavfini ham oşirişi mumkin."
+  },
+  "ch79-f155": {
+   "text": "Oğir semizlik va 2-tip diabetdan aziyat çekadigan köp odamlarda parhez, jismoniy maşqlar va farmakoterapiyaga qaratilgan davolaş rejimlari yoğ miqdori va qondagi glyukozaning yetarli kamayişini ta’minlamaydi. Bunday hollarda yoğ massasini kamaytiriş va qondagi glyukozani yaxşiroq nazorat qilişga erişiş uçun turli _bariatrik jarrohlik_ amaliyotlari qöllanilişi mumkin. Eng keng qöllaniladigan ikki amaliyot — _meda şuntlaş operatsiyasi_ va _vertikal yeng gastrektomiyasi_ (72-bobda muhokama qilingan) köpinça _“metabolik_",
+   "lead": "2-tip diabetni jarrohlik yöli bilan davolaş."
+  },
+  "ch79-f156": {
+   "text": "_jarrohlik”_ deb ataladi, çunki bu operatsiyalarni boşdan keçirgan köplab bemorlarda diabetning töliq remissiyasi kuzatiladi va ularga endi diabetga qarşi dorilar kerak bölmaydi. Qondagi glyukoza, lipidlar va qon bosimining yaxşilanişi köpinça operatsiyadan keyin bir neça kun yoki hafta içida yuz beradi, bu yurak-qon tomir va metabolik foydalarning mexanizmlari vazn yöqotiş va yoğ miqdorining kamayişidan kengroq bölişi mumkinligini körsatadi. Biroq bu jarrohlik amaliyotlarining ijobiy metabolik ta’sirlariga hissa qöşadigan fiziologik omillar hali noaniq."
+  },
+  "ch79-f157": {
+   "text": "**Jadval 79-3** da 1-tip va 2-tip qandli diabetning ayrim klinik xususiyatlari taqqoslangan. Diabet taşxisining odatiy usullari siydik va qonning turli kimyoviy tahlillariga asoslanadi."
+  },
+  "ch79-f158": {
+   "text": "Siydik bilan çiqariladigan glyukoza miqdorini aniqlaş uçun oddiy klinik testlar yoki murakkabroq miqdoriy laboratoriya tahlillari qöllanilişi mumkin. Umuman olganda, diabet bölmagan odam aniqlanmaydigan miqdorda glyukoza çiqaradi, diabetli odam esa kasallikning oğirligi va ugleovodlar iste’moliga mutanosib ravişda kamdan köpgaça miqdorda glyukoza yöqotadi.",
+   "lead": "Siydikdagi glyukoza."
+  },
+  "ch79-f159": {
+   "text": "Erta tongda nahorgi qondagi glyukoza konsentratsiyasi me’yorda 80–90 mg/100 ml, 115 mg/100 ml esa me’yorning yuqori çegarasi hisoblanadi. Naharga qondagi glyukozaning bu qiymatdan yuqori darajasi köpinça qandli diabetdan yoki heç bölmaganda yaqqol insulinga rezistentlik va _prediabetdan_ dalolat beradi.",
+   "lead": "Naharga qondagi glyukoza va insulin konsentratsiyalari."
+  },
+  "ch79-f160": {
+   "text": "1-tip diabetli odamlarda plazmadagi insulin darajasi nahorda va hatto ovqatdan keyin ham juda past yoki aniqlanmaydi. 2-tip diabetli odamlarda plazmadagi insulin konsentratsiyasi me’yordan bir neça barobar yuqori bölişi mumkin va odatda glyukozaga tolerantlik testi paytida standart glyukoza yuklamasi qabul qilingandan keyin köproq ortadi (keyingi bölimga qarang)."
+  },
+  "ch79-f161": {
+   "text": "Qondagi glyukoza darajasi uzoq vaqt yuqori bölganda glyukoza eritrotsitlardagi gemoglobinga birikib, köpinça _gemoglobin A1c_ (HbA1c) deb ataladigan _glikirlangan gemoglobinni_ hosil qiladi. Giperglikemiya qança uzoq davom etsa, gemoglobin bilan şunça köp glyukoza boğlanadi va gemoglobin glikirlangaç, hujayraning butun umri davomida şu holatda qoladi. Şuning uçun eritrotsitda HbA1c töplanişi hujayra hayot sikli davomida duç kelgan örtaça glyukoza konsentratsiyasini aks ettiradi. Eritrotsitlarning örtaça umri taxminan 120 kun bölgani va alohida hujayralarning umri turliça bölgani uçun HbA1c testi asosan oldingi uç oydagi qondagi glyukozaning örtaça konsentratsiyasini baholaş uçun qöllaniladi va qandli diabet uçun taşxis testi yoki diabetli odamlarda glikemik nazoratni baholaş testi bölib xizmat qilişi mumkin.",
+   "lead": "Glikirlangan gemoglobin."
+  },
+  "ch79-f162": {
+   "text": "**Rasm 79-12** dagi “glyukozaga tolerantlik egri çiziği” deb ataladigan pastki egri çiziqda körsatilganidek, me’yoriy nahorgi odam tana vaznining har kilogrammiga 1 gramm glyukoza iste’mol qilganda qondagi glyukoza darajasi taxminan 90 mg/100 ml dan 120–140 mg/100 ml gaça köteriladi va taxminan 2 soatda me’yordan pastgaça qaytib tuşadi.",
+   "lead": "Glyukozaga tolerantlik testi."
+  },
+  "ch79-f164": {
+   "text": "Diabetli odamda nahorgi qondagi glyukoza konsentratsiyasi deyarli har doim 115 mg/100 ml dan yuqori va köpinça 140 mg/100 ml dan yuqori. Bundan taşqari, glyukozaga tolerantlik testi natijalari deyarli har doim anormal. Glyukoza iste’mol qilingandan keyin bu odamlarda **Rasm 79-12** dagi yuqori egri çiziqda körsatilganidek, qondagi glyukoza darajasi me’yordagidan ança köp köteriladi va glyukoza darajasi faqat 4–6 soatdan keyin nazorat qiymatiga qaytadi; bundan taşqari, u nazorat darajasidan _pastga_ tuşmaydi. Bu egri çiziqning sekin pasayişi va nazorat darajasidan pastga tuşmasligi yo (1) glyukoza iste’molidan keyin insulin sekretsiyasining me’yoriy ortişi yuz bermasligini, yoki (2) odamning insulinga sezgirligi pasayganini körsatadi. Qandli diabet taşxisini odatda şunday egri çiziq asosida qöyiş mumkin, 1-tip va 2-tip diabetni esa plazmadagi insulinni ölçaş orqali bir-biridan farqlaş mumkin: 1-tip diabetda plazmadagi insulin past yoki aniqlanmaydi, 2-tip diabetda esa ortgan."
+  },
+  "ch79-f165": {
+   "text": "69-bobda qayd etilganidek, qondagi oz miqdordagi atsetosirka kislotasi (u oğir diabetda keskin ortadi) atsetonga aylanadi. Aseton uçuvçan bölib, nafas bilan çiqariladigan havoga buğlanadi. Natijada köpinça 1-tip qandli diabet taşxisini şunçaki bemorning nafasida aseton hidini sezib qöyiş mumkin. Bundan taşqari, siydikda keto kislotalarni kimyoviy usullar bilan aniqlaş mumkin va ularning miqdorini aniqlaş diabetning oğirligini belgilaşga yordam beradi. Biroq 2-tip diabetning dastlabki bosqiçlarida keto kislotalar odatda ortiqça miqdorda hosil bölmaydi. Ammo insulinga rezistentlik kuçayib, energiya uçun yoğlardan foydalaniş keskin ortganda 2-tip diabetli odamlarda ham keto kislotalar hosil böladi.",
+   "lead": "Nafasda aseton hidi."
+  },
+  "ch79-f166": {
+   "text": "Asosan diabetli bemorlarda gipertenziya hamda aylanib yurgan xolesterin va boşqa lipidlarning yuqori darajasi tufayli ateroskleroz, arterioskleroz, oğir yurak işemik kasalligi, surunkali buyrak kasalligi va köplab mikrotsirkulyator şikastlanişlar diabet bölmagan odamlarga qaraganda ança oson rivojlanadi. Haqiqatan ham, butun bolalik davomida diabeti yomon nazorat qilingan odamlar erta katta yoşda yurak kasalligidan ölişi ehtimoli bor.",
+   "lead": "Davolaşning arterioskleroz va surunkali buyrak kasalligi bilan boğliqligi."
+  },
+  "ch79-f167": {
+   "text": "Diabetni davolaşning dastlabki davrlarida insulinga ehtiyojni kamaytiriş uçun ratsionda ugleovodlarni keskin kamaytirişga moyillik bölgan. Bu yöndaşuv qondagi glyukozaning juda yuqori darajaga yetişiga yöl qöymagan va siydik bilan glyukoza yöqotilişini susaytirgan, ammo yoğ metabolizmining köplab buzilişlarining oldini olmagan. Şuning uçun hozirgi tendensiya — bemorga ugleovodlarni metabolizlaş uçun yetarli insulin yuborgan holda deyarli me’yoriy ugleovodli ratsionni iste’mol qilişga ruxsat beriş. Bu yöndaşuv yoğ metabolizmi tezligini kamaytiradi va qondagi xolesterinning yuqori darajasini pasaytiradi."
+  },
+  "ch79-f168": {
+   "text": "Ateroskleroz, infeksiyaga moyillikning ortişi, diabetik retinopatiya, katarakta, gipertenziya va surunkali buyrak kasalligi kabi diabet asoratlari qondagi lipidlar va glyukoza darajasi bilan ziç boğliq bölgani uçun köpçilik şifokorlar bu buzilişlarning oldini olişga yordam beriş uçun lipidlarni pasaytiruvçi dorilarni ham buyuradi."
+  },
+  "ch79-f169": {
+   "text": "Insulinning ortiqça işlab çiqarilişi diabetga qaraganda ança kam uçrasa-da, u ba’zan Langergans orolçasi adenomasi natijasi bölişi mumkin. Bu adenomalarning taxminan 10–15% i xavfli bölib, ba’zan Langergans orolçalaridan metastazlar butun organizm bö’ylab tarqalib, ham birlamçi, ham metastatik saraton tomonidan insulinning ulkan miqdorda işlab çiqarilişiga sabab böladi. Haqiqatan ham, bu bemorlarning ayrimlariga gipoglikemiyaning oldini oliş uçun har 24 soatda 1000 grammdan köp glyukoza kerak bölgan."
+  },
+  "ch79-f170": {
+   "text": "Yuqorida ta’kidlanganidek, markaziy nerv tizimi me’yorda deyarli barça energiyasini glyukoza metabolizmidan oladi va glyukozadan bu tarzda foydalaniş uçun insulin zarur emas. Biroq insulinning yuqori darajalari qondagi glyukozaning past darajalargaça tuşişiga sabab bölsa, markaziy nerv tizimining metabolizmi susayadi. Natijada insulin ajratuvçi ösmalari bölgan bemorlarda yoki özlariga haddan taşqari köp insulin yuboradigan diabetli bemorlarda _insulin şoki_ deb ataladigan sindrom quyidagiça yuzaga kelişi mumkin.",
+   "lead": "Insulin şoki va gipoglikemiya."
+  },
+  "ch79-f171": {
+   "text": "Qondagi glyukoza darajasi 50–70 mg/100 ml oraliğiga tuşganda markaziy nerv tizimi odatda qözğaluvçan böladi, çunki gipoglikemiyaning bu darajasi neyronlar faolligini sezgirlaştiradi. Ba’zan gallyutsinatsiyalarning turli şakllari yuzaga keladi, ammo köpinça bemor şunçaki haddan taşqari asabiylikni boşdan keçiradi, butun tanasi titraydi va terga botadi. Qondagi glyukoza darajasi 20–50 mg/100 ml gaça tuşganda klonik tutqanoqlar va huşni yöqotiş ehtimoli bor. Glyukoza darajasi yanada pasayganda tutqanoqlar töxtaydi va faqat koma holati qoladi. Haqiqatan ham, oddiy klinik kuzatuv bilan ba’zan insulin yetişmasligi keltirib çiqaradigan atsidoz natijasidagi diabetik koma va ortiqça insulin keltirib çiqaradigan gipoglikemiya tufayli koma örtasida farqlaş qiyin. Diabetik komadagi odamlarda kuzatiladigan nafasdagi aseton hidi va tez, çuqur nafas gipoglikemik komadagi odamlarda bölmaydi."
+  },
+  "ch79-f172": {
+   "text": "Gipoglikemik şok yoki komadagi bemorni töğri davolaş — zudlik bilan vena içiga köp miqdorda glyukoza yuboriş. Bu davolaş odatda bemorni bir daqiqa yoki undan köp vaqt içida şokdan çiqaradi. Bundan taşqari, glyukagon (yoki kamroq samarali bölgan epinefrin) yuboriş jigarda glikogenolizga sabab bölib, qondagi glyukoza darajasini juda tez oşirişi mumkin. Agar davolaş zudlik bilan ötkazilmasa, köpinça markaziy nerv tizimi neyronlarining doimiy şikastlanişi yuz beradi."
+  }
+ },
+ "figures": {
+  "gh14-fig-79-01": "Meda osti bezidagi Langergans orolçasining fiziologik anatomiyasi.",
+  "gh14-fig-79-02": "Odam proinsulin molekulasining sxemasi; u meda osti bezi beta hujayralarining Golji apparatida parçalanib, boğlovçi peptid (C peptid) va disulfid boğlar bilan tutaşgan A va B zanjirlardan iborat insulinni hosil qiladi. C peptid va insulin donalarga joylanadi va oz miqdordagi proinsulin bilan birga ekvimolyar miqdorda ajraladi.",
+  "gh14-fig-79-03": "Insulin retseptorining sxemasi. Insulin öz retseptorining α subbirligiga boğlanadi, bu β subbirlikning autofosforillanişiga, u esa öz navbatida tirozinkinaza faolligiga sabab böladi. Retseptor tirozinkinaza faolligi glyukoza, yoğ va oqsil metabolizmiga ta’sirlarni ta’minlaydigan fermentlar, jumladan insulin retseptori substratlari faolligini oşiradigan yoki kamaytiradigan hujayra fosforillaniş kaskadini boşlab beradi. Masalan, glyukoza taşuvçilari glyukozaning hujayraga kirişiga yordam beriş uçun hujayra membranasiga köçiriladi.",
+  "gh14-fig-79-04": "Insulinning muskul hujayralari içida glyukoza konsentratsiyasini oşiriş ta’siri. E’tibor bering: insulin bölmaganda (nazorat) hujayradan taşqari glyukoza konsentratsiyasi yuqori bölişiga qaramay hujayra içidagi glyukoza konsentratsiyasi nolga yaqin qoladi. (Eisenstein AB: The Bioçemical Aspects of Hormone Action. Boston: Little, Brown, 1964 ma’lumotlari asosida.)",
+  "gh14-fig-79-05": "Meda osti bezini olib taşlaşning qondagi glyukoza, plazmadagi erkin yoğ kislotalari va atsetosirka kislotasining taxminiy konsentratsiyalariga ta’siri.",
+  "gh14-fig-79-06": "Ösiş gormoni, insulin hamda ösiş gormoni va insulin birgalikda meda osti bezi va gipofizi olib taşlangan kalamuşning ösişiga ta’siri.",
+  "gh14-fig-79-07": "Meda osti bezi beta hujayralari tomonidan insulin sekretsiyasining glyukoza bilan qözğatilişining asosiy mexanizmlari. GLUT — glyukoza taşuvçisi.",
+  "gh14-fig-79-08": "Qondagi glyukozaning me’yordan ikki-uç barobargaça birdan ortişidan keyin plazmadagi insulin konsentratsiyasining ortişi. Insulin konsentratsiyasining dastlabki tez köterilişiga, söngra 15–20 daqiqadan keyin boşlanadigan keçikkan, ammo yuqoriroq va davomli ortişiga e’tibor bering.",
+  "gh14-fig-79-09": "Plazmadagi glyukozaning turli darajalarida taxminiy insulin sekretsiyasi.",
+  "gh14-fig-79-10": "Qondagi glyukozaning turli darajalarida plazmadagi glyukagonning taxminiy konsentratsiyasi.",
+  "gh14-fig-79-11": "Diabetik komada qon tarkibiy qismlarining özgarişlari: me’yoriy qiymatlar (kök ustunlar) va diabetik koma qiymatlari (qizil ustunlar).",
+  "gh14-fig-79-12": "Me’yoriy odam va diabetli odamdagi glyukozaga tolerantlik egri çiziği."
+ }
+}

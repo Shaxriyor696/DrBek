@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Builds the static web preview ("demo") of DrBek: the same SPA as the real app,
+// Builds the static web preview ("demo") of iMedu: the same SPA as the real app,
 // but API calls are answered in the browser (public/js/demo-api.js) from JSON
 // snapshots of the real API plus the student's state in localStorage.
 //
@@ -125,7 +125,7 @@ for f in os.listdir(src):
   const stamp = (d) => { for (const e of fs.readdirSync(d, { withFileTypes: true })) { const f = path.join(d, e.name); if (e.isDirectory()) stamp(f); else if (f.endsWith('.js')) fs.writeFileSync(f, fs.readFileSync(f, 'utf8').replace(/(from\s*|import\(\s*)(['"`])(\.{1,2}\/[^'"`]+?\.js)\2/g, `$1$2$3?v=${V}$2`)); } };
   stamp(path.join(OUT, 'js'));
   mk(path.join(OUT, 'assets')); copy(path.join(ROOT, 'public', 'assets'), path.join(OUT, 'assets'));
-  for (const big of ['drbek-mono-512.png', 'drbek-mono-192.png']) rm(path.join(OUT, 'assets', big));
+  for (const big of ['imedu-mono-512.png', 'imedu-mono-192.png']) rm(path.join(OUT, 'assets', big));
   fs.writeFileSync(path.join(OUT, 'app.css'), fs.readFileSync(path.join(ROOT, 'public', 'styles.css'), 'utf8').replace(/url\(\/assets\//g, 'url(assets/'));
   // Artifact-style page fragment (the host adds the document skeleton); also works as a plain file.
   write('index.html', `<!doctype html>
@@ -133,8 +133,8 @@ for f in os.listdir(src):
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="claude:viewport-fit-sides" content="cover">
-<title>DrBek — fiziologiya</title>
-<link rel="icon" type="image/png" href="assets/drbek-mono-64.png">
+<title>iMedu — fiziologiya</title>
+<link rel="icon" type="image/png" href="assets/imedu-mono-64.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap">
 <link rel="stylesheet" href="app.css?v=${V}">

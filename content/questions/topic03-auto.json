@@ -1,0 +1,803 @@
+{
+ "origin": "Claude (DrStudy sessiyasi) — kitobning özbekça izohlari (Guyton & Hall, 14-naşr) asosida, 2026-11-17. Ekspert tekşiruvi kerak.",
+ "questions": [
+  {
+   "id": "q03-c09-01",
+   "version": 1,
+   "topicId": "03",
+   "lessonId": "ch09",
+   "stem": "Nima uçun bölmaçalar qorinçalardan oldin qisqaradi?",
+   "options": [
+    {
+     "id": "q03-c09-01-a",
+     "text": "Bölmaça va qorinça sinsitiylari orasidagi fibroz töqima AP ni ötkazmaydi, impuls faqat A-V tutami orqali ötadi"
+    },
+    {
+     "id": "q03-c09-01-b",
+     "text": "Bölmaça muskuli qorinça muskulidan qalinroq"
+    },
+    {
+     "id": "q03-c09-01-c",
+     "text": "Bölmaçalarda AP plato fazasiz ötadi"
+    },
+    {
+     "id": "q03-c09-01-d",
+     "text": "Qorinçalarda tirqişli birikmalar yöq"
+    }
+   ],
+   "answerOptionId": "q03-c09-01-a",
+   "explanation": "Yurakda ikki sinsitiy bor; ular orasidagi fibroz tösiq impulsni faqat A-V tutami orqali ötkazadi va şu tufayli keçikiş hosil böladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch09",
+    "topicId": "03",
+    "blockId": "ch09-u3",
+    "printedPage": 104,
+    "pdfPage": 109,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q03-c09-02",
+   "version": 1,
+   "topicId": "03",
+   "lessonId": "ch09",
+   "stem": "Qorinçaning zarb hajmi me’yorda taxminan qança?",
+   "options": [
+    {
+     "id": "q03-c09-02-a",
+     "text": "~70 ml"
+    },
+    {
+     "id": "q03-c09-02-b",
+     "text": "~40 ml"
+    },
+    {
+     "id": "q03-c09-02-c",
+     "text": "~180 ml"
+    },
+    {
+     "id": "q03-c09-02-d",
+     "text": "~120 ml"
+    }
+   ],
+   "answerOptionId": "q03-c09-02-a",
+   "explanation": "EDV 110–120 ml, ESV 40–50 ml, demak zarb hajmi ~70 ml, otiş fraksiyasi ~60%.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch09",
+    "topicId": "03",
+    "blockId": "ch09-u16",
+    "printedPage": 104,
+    "pdfPage": 109,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q03-c09-03",
+   "version": 1,
+   "topicId": "03",
+   "lessonId": "ch09",
+   "stem": "Qorinça tölişiga bölmaça qisqarişi qança qöşimça hissa qöşadi?",
+   "options": [
+    {
+     "id": "q03-c09-03-a",
+     "text": "~20%"
+    },
+    {
+     "id": "q03-c09-03-b",
+     "text": "~80%"
+    },
+    {
+     "id": "q03-c09-03-c",
+     "text": "~50%"
+    },
+    {
+     "id": "q03-c09-03-d",
+     "text": "~5%"
+    }
+   ],
+   "answerOptionId": "q03-c09-03-a",
+   "explanation": "Qonning ~80% bölmaça qisqarişidan oldin passiv oqadi; bölmaça qisqarişi qöşimça ~20% beradi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch09",
+    "topicId": "03",
+    "blockId": "ch09-u16",
+    "printedPage": 104,
+    "pdfPage": 109,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q03-c09-04",
+   "version": 1,
+   "topicId": "03",
+   "lessonId": "ch09",
+   "stem": "Papillyar muskullar va pay iplarining vazifasi nima?",
+   "options": [
+    {
+     "id": "q03-c09-04-a",
+     "text": "Qonni bölmaçadan qorinçaga haydaydi"
+    },
+    {
+     "id": "q03-c09-04-b",
+     "text": "A-V klapanlarni faol yopadi"
+    },
+    {
+     "id": "q03-c09-04-c",
+     "text": "Yarimoysimon klapanlarni oçadi"
+    },
+    {
+     "id": "q03-c09-04-d",
+     "text": "Klapan tavaqalarining bölmaçaga haddan taşqari qabariqlanişini oldini oladi"
+    }
+   ],
+   "answerOptionId": "q03-c09-04-d",
+   "explanation": "Ular klapanni yopişga yordam bermaydi; faqat tavaqalarning bölmaçaga ağdarilişiga yöl qöymaydi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch09",
+    "topicId": "03",
+    "blockId": "ch09-u19",
+    "printedPage": 104,
+    "pdfPage": 109,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q03-c09-05",
+   "version": 1,
+   "topicId": "03",
+   "lessonId": "ch09",
+   "stem": "Frank–Starling mexanizmining mohiyati nima?",
+   "options": [
+    {
+     "id": "q03-c09-05-a",
+     "text": "Arterial bosim oşsa yurak çiqişi kamayadi"
+    },
+    {
+     "id": "q03-c09-05-b",
+     "text": "Simpatik nerv yurak çastotasini oşiradi"
+    },
+    {
+     "id": "q03-c09-05-c",
+     "text": "Qorinça tölişda qança köp çözilsa, şunça kuçli qisqaradi"
+    },
+    {
+     "id": "q03-c09-05-d",
+     "text": "Vagus yurak qisqariş kuçini kamaytiradi"
+    }
+   ],
+   "answerOptionId": "q03-c09-05-c",
+   "explanation": "Fiziologik çegarada yurak venalardan qaytgan barça qonni haydaydi; sababi aktin-miozin ustma-ustligining optimallaşuvi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch09",
+    "topicId": "03",
+    "blockId": "ch09-u32",
+    "printedPage": 104,
+    "pdfPage": 109,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q03-c11-01",
+   "version": 1,
+   "topicId": "03",
+   "lessonId": "ch11",
+   "stem": "EKG dagi T tölqini nimani aks ettiradi?",
+   "options": [
+    {
+     "id": "q03-c11-01-a",
+     "text": "A-V tugundagi keçikişni"
+    },
+    {
+     "id": "q03-c11-01-b",
+     "text": "Qorinçalar depolyarizatsiyasini"
+    },
+    {
+     "id": "q03-c11-01-c",
+     "text": "Qorinçalar repolyarizatsiyasini"
+    },
+    {
+     "id": "q03-c11-01-d",
+     "text": "Bölmaçalar depolyarizatsiyasini"
+    }
+   ],
+   "answerOptionId": "q03-c11-01-c",
+   "explanation": "P — bölmaçalar depolyarizatsiyasi, QRS — qorinçalar depolyarizatsiyasi, T — qorinçalar repolyarizatsiyasi.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch11",
+    "topicId": "03",
+    "blockId": "ch11-u3",
+    "printedPage": 125,
+    "pdfPage": 130,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q03-c11-02",
+   "version": 1,
+   "topicId": "03",
+   "lessonId": "ch11",
+   "stem": "Nima uçun bölmaçalarning repolyarizatsiya tölqini odatda EKG da körinmaydi?",
+   "options": [
+    {
+     "id": "q03-c11-02-a",
+     "text": "Bölmaçalar umuman repolyarizatsiyalanmaydi"
+    },
+    {
+     "id": "q03-c11-02-b",
+     "text": "U QRS kompleksi bilan bir vaqtga töğri keladi va uning ostida yaşirinadi"
+    },
+    {
+     "id": "q03-c11-02-c",
+     "text": "Uning voltaji manfiy bölgani uçun yozilmaydi"
+    },
+    {
+     "id": "q03-c11-02-d",
+     "text": "U T tölqini bilan qöşilib ketadi"
+    }
+   ],
+   "answerOptionId": "q03-c11-02-b",
+   "explanation": "Bölmaçalar P dan 0,15–0,20 s keyin repolyarizatsiyalanadi — aynan QRS paytida, şuning uçun körinmaydi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch11",
+    "topicId": "03",
+    "blockId": "ch11-u3",
+    "printedPage": 125,
+    "pdfPage": 130,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q03-c11-03",
+   "version": 1,
+   "topicId": "03",
+   "lessonId": "ch11",
+   "stem": "II standart ulanişda elektrodlar qanday joylaşadi?",
+   "options": [
+    {
+     "id": "q03-c11-03-a",
+     "text": "Manfiy — çap oyoqda, musbat — öng qölda"
+    },
+    {
+     "id": "q03-c11-03-b",
+     "text": "Manfiy — öng qölda, musbat — çap qölda"
+    },
+    {
+     "id": "q03-c11-03-c",
+     "text": "Manfiy — çap qölda, musbat — çap oyoqda"
+    },
+    {
+     "id": "q03-c11-03-d",
+     "text": "Manfiy — öng qölda, musbat — çap oyoqda"
+    }
+   ],
+   "answerOptionId": "q03-c11-03-d",
+   "explanation": "I: öng qöl (−) → çap qöl (+); II: öng qöl (−) → çap oyoq (+); III: çap qöl (−) → çap oyoq (+).",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch11",
+    "topicId": "03",
+    "blockId": "ch11-u14",
+    "printedPage": 125,
+    "pdfPage": 130,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q03-c12-01",
+   "version": 1,
+   "topicId": "03",
+   "lessonId": "ch12",
+   "stem": "Geksagonal tizimda aVF ulanişining öqi neça gradusda?",
+   "options": [
+    {
+     "id": "q03-c12-01-a",
+     "text": "0°"
+    },
+    {
+     "id": "q03-c12-01-b",
+     "text": "+60°"
+    },
+    {
+     "id": "q03-c12-01-c",
+     "text": "−30°"
+    },
+    {
+     "id": "q03-c12-01-d",
+     "text": "+90°"
+    }
+   ],
+   "answerOptionId": "q03-c12-01-d",
+   "explanation": "I = 0°, II = +60°, III = +120°, aVF = +90°, aVL = −30°, aVR = +210°.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch12",
+    "topicId": "03",
+    "blockId": "ch12-u3",
+    "printedPage": 132,
+    "pdfPage": 137,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q03-c12-02",
+   "version": 1,
+   "topicId": "03",
+   "lessonId": "ch12",
+   "stem": "Qorinçalarning normal örtaça elektr öqi taxminan qança?",
+   "options": [
+    {
+     "id": "q03-c12-02-a",
+     "text": "+59°"
+    },
+    {
+     "id": "q03-c12-02-b",
+     "text": "−30°"
+    },
+    {
+     "id": "q03-c12-02-c",
+     "text": "+180°"
+    },
+    {
+     "id": "q03-c12-02-d",
+     "text": "+120°"
+    }
+   ],
+   "answerOptionId": "q03-c12-02-a",
+   "explanation": "Örtaça QRS vektori normal holatda ≈ +59°; normal diapazon ~20° dan 100° gaça.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch12",
+    "topicId": "03",
+    "blockId": "ch12-u20",
+    "printedPage": 132,
+    "pdfPage": 137,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q03-c12-03",
+   "version": 1,
+   "topicId": "03",
+   "lessonId": "ch12",
+   "stem": "Çap qorinça gipertrofiyasida elektr öqi qaysi tomonga oğadi?",
+   "options": [
+    {
+     "id": "q03-c12-03-a",
+     "text": "Öngga"
+    },
+    {
+     "id": "q03-c12-03-b",
+     "text": "Özgarmaydi"
+    },
+    {
+     "id": "q03-c12-03-c",
+     "text": "Çapga (gipertrofiyalangan tomonga)"
+    },
+    {
+     "id": "q03-c12-03-d",
+     "text": "Faqat pastga (+90°)"
+    }
+   ],
+   "answerOptionId": "q03-c12-03-c",
+   "explanation": "Gipertrofiyada köproq muskul böladi va depolyarizatsiya uzoqroq davom etadi, şuning uçun öq gipertrofiyalangan tomonga oğadi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch12",
+    "topicId": "03",
+    "blockId": "ch12-u24",
+    "printedPage": 132,
+    "pdfPage": 137,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q03-c12-04",
+   "version": 1,
+   "topicId": "03",
+   "lessonId": "ch12",
+   "stem": "QRS kompleksi 0,12 s dan uzun bölsa, bu köpinça nimani bildiradi?",
+   "options": [
+    {
+     "id": "q03-c12-04-a",
+     "text": "Perikard suyuqligini"
+    },
+    {
+     "id": "q03-c12-04-b",
+     "text": "Faqat öpka emfizemasini"
+    },
+    {
+     "id": "q03-c12-04-c",
+     "text": "Normal holatni"
+    },
+    {
+     "id": "q03-c12-04-d",
+     "text": "Ötkazuvçi tizimdagi patologik blokadani"
+    }
+   ],
+   "answerOptionId": "q03-c12-04-d",
+   "explanation": "Normal QRS 0,06–0,08 s; >0,12 s deyarli albatta ötkazuvçi tizimdagi patologik blokada belgisi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch12",
+    "topicId": "03",
+    "blockId": "ch12-u33",
+    "printedPage": 132,
+    "pdfPage": 137,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q03-c12-05",
+   "version": 1,
+   "topicId": "03",
+   "lessonId": "ch12",
+   "stem": "Şikastlaniş potensialini ölçaşda nol daraja sifatida qaysi nuqta olinadi?",
+   "options": [
+    {
+     "id": "q03-c12-05-a",
+     "text": "T tölqini oxiri"
+    },
+    {
+     "id": "q03-c12-05-b",
+     "text": "R çöqqisi"
+    },
+    {
+     "id": "q03-c12-05-c",
+     "text": "J nuqta (QRS oxiri)"
+    },
+    {
+     "id": "q03-c12-05-d",
+     "text": "P tölqini çöqqisi"
+    }
+   ],
+   "answerOptionId": "q03-c12-05-c",
+   "explanation": "J nuqtada butun qorinça depolyarizatsiyalangan, şikastlaniş toki ham yöq — şuning uçun bu daraja nol deb olinadi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch12",
+    "topicId": "03",
+    "blockId": "ch12-u35",
+    "printedPage": 132,
+    "pdfPage": 137,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q03-c12-06",
+   "version": 1,
+   "topicId": "03",
+   "lessonId": "ch12",
+   "stem": "Eski (1 yildan ortiq) miokard infarktining tipik EKG belgisi qaysi?",
+   "options": [
+    {
+     "id": "q03-c12-06-a",
+     "text": "Qisqargan P-R intervali"
+    },
+    {
+     "id": "q03-c12-06-b",
+     "text": "Baland, uçli T tölqinlari"
+    },
+    {
+     "id": "q03-c12-06-c",
+     "text": "Q tölqinlari"
+    },
+    {
+     "id": "q03-c12-06-d",
+     "text": "Delta tölqini"
+    }
+   ],
+   "answerOptionId": "q03-c12-06-c",
+   "explanation": "Infarktdan ~1 yil keyin şikastlaniş potensiali yöqoladi, lekin muskul yöqolgan joyga mos ulanişlarda Q tölqinlari qoladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch12",
+    "topicId": "03",
+    "blockId": "ch12-u39",
+    "printedPage": 132,
+    "pdfPage": 137,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q03-c13-01",
+   "version": 1,
+   "topicId": "03",
+   "lessonId": "ch13",
+   "stem": "Isitmada tana harorati har 1°C ga oşganda yurak çastotasi taxminan qançaga oşadi?",
+   "options": [
+    {
+     "id": "q03-c13-01-a",
+     "text": "~18 zarba/min"
+    },
+    {
+     "id": "q03-c13-01-b",
+     "text": "~10 zarba/min"
+    },
+    {
+     "id": "q03-c13-01-c",
+     "text": "~40 zarba/min"
+    },
+    {
+     "id": "q03-c13-01-d",
+     "text": "~5 zarba/min"
+    }
+   ],
+   "answerOptionId": "q03-c13-01-a",
+   "explanation": "Har 1°F uçun ~10, ya’ni har 1°C uçun ~18 zarba/min — taxminan 40,5°C gaça.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch13",
+    "topicId": "03",
+    "blockId": "ch13-u3",
+    "printedPage": 146,
+    "pdfPage": 151,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q03-c13-02",
+   "version": 1,
+   "topicId": "03",
+   "lessonId": "ch13",
+   "stem": "Mobitz I (Wenckebaç) turidagi II daraja A-V blok qanday namoyon böladi?",
+   "options": [
+    {
+     "id": "q03-c13-02-a",
+     "text": "P-R özgarmaydi, QRS 2:1 nisbatda tuşib qoladi"
+    },
+    {
+     "id": "q03-c13-02-b",
+     "text": "Bölmaçalar va qorinçalar butunlay mustaqil işlaydi"
+    },
+    {
+     "id": "q03-c13-02-c",
+     "text": "P tölqini butunlay yöqoladi"
+    },
+    {
+     "id": "q03-c13-02-d",
+     "text": "P-R asta-sekin uzayadi, keyin bitta QRS tuşib qoladi"
+    }
+   ],
+   "answerOptionId": "q03-c13-02-d",
+   "explanation": "Wenckebaç’da P-R oraliği asta-sekin uzayib, keyin QRS tuşib qoladi; muammo A-V tugunda va köpinça xavfsiz.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch13",
+    "topicId": "03",
+    "blockId": "ch13-u5",
+    "printedPage": 146,
+    "pdfPage": 151,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q03-c13-03",
+   "version": 1,
+   "topicId": "03",
+   "lessonId": "ch13",
+   "stem": "Stokes-Adams sindromida bemor nima sababdan huşdan ketadi?",
+   "options": [
+    {
+     "id": "q03-c13-03-a",
+     "text": "Bölmaçalar fibrillyatsiyasi tufayli"
+    },
+    {
+     "id": "q03-c13-03-b",
+     "text": "Töliq blokda qorinçalar 5–30 s işga tuşmaydi, miya esa qon oqimisiz faqat 4–7 s çidaydi"
+    },
+    {
+     "id": "q03-c13-03-c",
+     "text": "Vagus yurakni butunlay töxtatgani uçun"
+    },
+    {
+     "id": "q03-c13-03-d",
+     "text": "Qon bosimi keskin oşgani uçun"
+    }
+   ],
+   "answerOptionId": "q03-c13-03-b",
+   "explanation": "Blokdan keyin qorinçalar \"overdrive suppression\" tufayli 5–30 s keçikib işga tuşadi; miya 4–7 s dan ortiq qon oqimisiz çidamaydi.",
+   "difficulty": "hard",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch13",
+    "topicId": "03",
+    "blockId": "ch13-u5",
+    "printedPage": 146,
+    "pdfPage": 151,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q03-c13-04",
+   "version": 1,
+   "topicId": "03",
+   "lessonId": "ch13",
+   "stem": "Uzun QT sindromida qanday xavfli aritmiya rivojlanişi mumkin?",
+   "options": [
+    {
+     "id": "q03-c13-04-a",
+     "text": "Torsades de pointes"
+    },
+    {
+     "id": "q03-c13-04-b",
+     "text": "Bölmaça titraşi"
+    },
+    {
+     "id": "q03-c13-04-c",
+     "text": "I daraja A-V blok"
+    },
+    {
+     "id": "q03-c13-04-d",
+     "text": "Sinus bradikardiyasi"
+    }
+   ],
+   "answerOptionId": "q03-c13-04-a",
+   "explanation": "Repolyarizatsiya keçikişi torsades de pointes’ga olib keladi, u qorinça fibrillyatsiyasiga ötişi mumkin.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch13",
+    "topicId": "03",
+    "blockId": "ch13-u9",
+    "printedPage": 146,
+    "pdfPage": 151,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q03-c13-05",
+   "version": 1,
+   "topicId": "03",
+   "lessonId": "ch13",
+   "stem": "Qaysi aritmiya 1–3 daqiqa içida ölimga olib kelişi mumkin?",
+   "options": [
+    {
+     "id": "q03-c13-05-a",
+     "text": "Qorinça fibrillyatsiyasi"
+    },
+    {
+     "id": "q03-c13-05-b",
+     "text": "Bölmaça fibrillyatsiyasi"
+    },
+    {
+     "id": "q03-c13-05-c",
+     "text": "Sinus aritmiyasi"
+    },
+    {
+     "id": "q03-c13-05-d",
+     "text": "I daraja A-V blok"
+    }
+   ],
+   "answerOptionId": "q03-c13-05-a",
+   "explanation": "Qorinça fibrillyatsiyasida yurak nasos sifatida işlamaydi; darhol defibrillyatsiya va CPR kerak.",
+   "difficulty": "easy",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch13",
+    "topicId": "03",
+    "blockId": "ch13-u16",
+    "printedPage": 146,
+    "pdfPage": 151,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q03-c13-06",
+   "version": 1,
+   "topicId": "03",
+   "lessonId": "ch13",
+   "stem": "Bölmaça fibrillyatsiyasining asosiy xavfi nima?",
+   "options": [
+    {
+     "id": "q03-c13-06-a",
+     "text": "Qon bosimining keskin oşişi"
+    },
+    {
+     "id": "q03-c13-06-b",
+     "text": "Qorinçalarning darhol töxtaşi"
+    },
+    {
+     "id": "q03-c13-06-c",
+     "text": "Yurak çiqişining 90% ga kamayişi"
+    },
+    {
+     "id": "q03-c13-06-d",
+     "text": "Bölmaça quloqçasida tromb hosil bölib, insultga olib kelişi"
+    }
+   ],
+   "answerOptionId": "q03-c13-06-d",
+   "explanation": "Nasos samaradorligi faqat 20–30% kamayadi, lekin quloqçada tromb hosil bölişi insult xavfini tuğdiradi — şuning uçun antikoagulyantlar beriladi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch13",
+    "topicId": "03",
+    "blockId": "ch13-u18",
+    "printedPage": 146,
+    "pdfPage": 151,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  },
+  {
+   "id": "q03-c13-07",
+   "version": 1,
+   "topicId": "03",
+   "lessonId": "ch13",
+   "stem": "EKG da \"arra tişi\" şaklidagi tölqinlar qaysi aritmiyaga xos?",
+   "options": [
+    {
+     "id": "q03-c13-07-a",
+     "text": "Qorinça ekstrasistolasi"
+    },
+    {
+     "id": "q03-c13-07-b",
+     "text": "Sinus taxikardiyasi"
+    },
+    {
+     "id": "q03-c13-07-c",
+     "text": "Bölmaça titraşi (flutter)"
+    },
+    {
+     "id": "q03-c13-07-d",
+     "text": "Qorinça fibrillyatsiyasi"
+    }
+   ],
+   "answerOptionId": "q03-c13-07-c",
+   "explanation": "Bölmaça titraşida bitta katta aylanma tölqin 200–350/min çastotada hosil bölib, \"arra tişi\" şaklidagi P tölqinlarini beradi.",
+   "difficulty": "medium",
+   "source": {
+    "bookId": "guyton-hall-14",
+    "lessonId": "ch13",
+    "topicId": "03",
+    "blockId": "ch13-u20",
+    "printedPage": 146,
+    "pdfPage": 151,
+    "basis": "summary_uz"
+   },
+   "status": "needs_review"
+  }
+ ]
+}

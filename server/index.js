@@ -1,4 +1,4 @@
-// DrBek server entry point.
+// iMedu server entry point.
 import http from 'node:http';
 import fs from 'node:fs';
 import path from 'node:path';
@@ -41,8 +41,11 @@ export function makeConfig(env = process.env) {
     geminiThinking: ['minimal', 'low', 'medium', 'high'].includes(env.GEMINI_THINKING) ? env.GEMINI_THINKING : 'low',
     geminiVoiceModel: env.GEMINI_VOICE_MODEL || 'gemini-3-flash-preview,gemini-3.1-flash-lite',
     geminiModel: env.GEMINI_MODEL || 'gemini-3-flash-preview,gemini-3.5-flash-lite,gemini-3.1-flash-lite',
-    // AI_PROVIDER=gemini|anthropic; unset → Gemini when only its key is present, otherwise Claude.
-    aiProvider: ['gemini', 'anthropic'].includes(env.AI_PROVIDER) ? env.AI_PROVIDER : (env.GEMINI_API_KEY && !env.ANTHROPIC_API_KEY ? 'gemini' : 'anthropic'),
+    grokApiKey: env.XAI_API_KEY || '',
+    grokModel: env.GROK_MODEL || 'grok-4.7',
+    // AI_PROVIDER=gemini|grok|anthropic; unset → Claude if its key is set, else Gemini, else Grok.
+    aiProvider: ['gemini', 'grok', 'anthropic'].includes(env.AI_PROVIDER) ? env.AI_PROVIDER
+      : env.ANTHROPIC_API_KEY ? 'anthropic' : env.GEMINI_API_KEY ? 'gemini' : env.XAI_API_KEY ? 'grok' : 'anthropic',
     aiEffort: ['low', 'medium', 'high'].includes(env.AI_EFFORT) ? env.AI_EFFORT : 'medium',
     aiFallbacks: env.AI_FALLBACKS !== 'off',
     aiDailyLimit: parseInt(env.AI_DAILY_LIMIT || '50', 10),
@@ -96,8 +99,8 @@ export function createApp(config) {
         if (!['GET', 'HEAD'].includes(req.method)) {
           const origin = req.headers.origin;
           const host = req.headers.host;
-          if (origin && new URL(origin).host !== host) return sendJson(res, 403, { code: 'bad_origin', message: 'So’rov manbasi ruxsat etilmagan.', requestId });
-          if (req.headers['x-requested-with'] !== 'drstudy') return sendJson(res, 403, { code: 'csrf', message: 'So’rov rad etildi.', requestId });
+          if (origin && new URL(origin).host !== host) return sendJson(res, 403, { code: 'bad_origin', message: 'Sörov manbasi ruxsat etilmagan.', requestId });
+          if (req.headers['x-requested-with'] !== 'drstudy') return sendJson(res, 403, { code: 'csrf', message: 'Sörov rad etildi.', requestId });
         }
         const m = router.match(req.method, pathname);
         if (!m) return sendJson(res, 404, { code: 'not_found', message: 'API manzili topilmadi.', requestId });
@@ -131,7 +134,7 @@ export function createApp(config) {
       if (pathname !== '/' && serveFile(req, res, pub, pathname, { cache: pathname.startsWith('/assets/') ? 'public, max-age=604800' : 'no-cache' })) return undefined;
       if (SPA_ROUTES.test(pathname)) return serveFile(req, res, pub, 'index.html', { cache: 'no-cache' });
       res.writeHead(404, { 'content-type': 'text/html; charset=utf-8' });
-      return res.end('<!doctype html><meta charset="utf-8"><title>Topilmadi</title><p>Sahifa topilmadi. <a href="/dashboard">Bosh sahifaga qaytish</a></p>');
+      return res.end('<!doctype html><meta charset="utf-8"><title>Topilmadi</title><p>Sahifa topilmadi. <a href="/dashboard">Boş sahifaga qaytiş</a></p>');
     } catch (err) {
       if (res.headersSent) { try { res.end(); } catch { /* ignore */ } return undefined; }
       return sendError(res, err, requestId);
@@ -145,6 +148,6 @@ if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.me
   const config = makeConfig();
   const { server, content } = createApp(config);
   server.listen(config.port, () => {
-    console.log(`DrBek: ${config.publicUrl}  (content ${content.contentVersion}, access=${config.contentAccess}, AI=${config.aiProvider === 'gemini' ? (config.geminiApiKey ? config.geminiModel : 'ulanmagan') : (config.anthropicApiKey ? config.aiModel : 'ulanmagan')}, PDF=${config.bookPdfPath ? 'ulangan' : 'ulanmagan'})`);
+    console.log(`iMedu: ${config.publicUrl}  (content ${content.contentVersion}, access=${config.contentAccess}, AI=${({ gemini: config.geminiApiKey && config.geminiModel, grok: config.grokApiKey && `grok: ${config.grokModel}`, anthropic: config.anthropicApiKey && config.aiModel })[config.aiProvider] || 'ulanmagan'}, PDF=${config.bookPdfPath ? 'ulangan' : 'ulanmagan'})`);
   });
 }

@@ -72,6 +72,12 @@ test('full Uzbek translation is served aligned to book blocks', async () => {
   assert.ok(l.data.figures[0].captionUz);
   const s = await c.get('/api/search?q=giperpolyarizatsiya&type=text');
   assert.ok(s.data.results.some((r) => r.type === 'translation'));
+  assert.match(tr.blocks['ch10-f0'].text, /[öğşç]/u);
+  const search = async (q) => (await c.get(`/api/search?topic=03&type=text&q=${encodeURIComponent(q)}`)).data.results;
+  const oldSpelling = await search('qo‘zg‘alish');
+  const newSpelling = await search('qözğaliş');
+  assert.ok(newSpelling.some((r) => r.type === 'translation'));
+  assert.deepEqual(newSpelling.map((r) => r.id), oldSpelling.map((r) => r.id));
 });
 
 test('progress, heartbeat dedupe, analytics', async () => {
@@ -164,4 +170,13 @@ test('AI without key: streams sources and an honest "not connected" status', asy
   const sources = JSON.parse(/event: sources\ndata: (.*)/.exec(text)[1]).sources;
   assert.ok(sources.length > 0);
   assert.ok(sources.every((s) => s.lessonId === null || /^ch\d{2}$/.test(s.lessonId)));
+
+  // bulk delete: only the caller's own threads go; unknown ids are ignored
+  const more = [];
+  for (const l of ['ch11', 'ch12']) more.push((await c.post('/api/chat/threads', { lessonId: l })).data.thread.id);
+  const d = await c.post('/api/chat/threads/delete', { ids: [th.id, more[0], 'th_not_mine'] });
+  assert.equal(d.data.deleted, 2);
+  assert.deepEqual((await c.get('/api/chat/threads')).data.threads.map((t) => t.id), [more[1]]);
+  assert.equal((await c.post('/api/chat/threads/delete', { ids: [] })).status, 422);
 });
+

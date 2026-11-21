@@ -6,16 +6,17 @@ import { E, ApiError, id, nowIso, v } from './http.js';
 import { ftsQuery, ftsQueryAll, plainText } from './content.js';
 import { rateLimit } from './auth.js';
 import { geminiStream, extractCitations, GEMINI_AUDIO_TYPES } from './gemini.js';
+import { grokStream } from './grok.js';
 import { SYSTEM, SYSTEM_GEMINI, TRANSCRIBE_PROMPT, plainAnswer, geminiPrompt } from './ai-core.js';
 
 const ACTIONS = {
-  explain: 'Shu joyni sodda tushuntirib ber.',
-  simplify: 'Buni soddaroq qilib, oddiy so’zlar bilan tushuntir.',
-  example: 'Manbaga mos o’quv misoli keltir (manbada bo’lmagan klinik holat to’qima).',
-  compare: 'Ikki tushunchani manbaga tayanib taqqosla.',
-  term: 'Bu atamani tushuntir: ma’nosi, inglizcha nomi va dars kontekstidagi o’rni.',
-  find: 'Kitobdagi tegishli joyni top va qisqacha nima deyilganini ayt.',
-  quiz: 'Menga o’zimni tekshirish uchun manbaga asoslangan 3 ta qisqa savol ber (javoblarini oxirida alohida yoz).',
+  explain: 'Şu joyni sodda tuşuntirib ber.',
+  simplify: 'Buni soddaroq qilib, oddiy sözlar bilan tuşuntir.',
+  example: 'Manbaga mos öquv misoli keltir (manbada bölmagan klinik holat töqima).',
+  compare: 'Ikki tuşunçani manbaga tayanib taqqosla.',
+  term: 'Bu atamani tuşuntir: ma’nosi, inglizça nomi va dars kontekstidagi örni.',
+  find: 'Kitobdagi tegişli joyni top va qisqaça nima deyilganini ayt.',
+  quiz: 'Menga özimni tekşiriş uçun manbaga asoslangan 3 ta qisqa savol ber (javoblarini oxirida alohida yoz).',
 };
 
 export function aiRoutes(router, { db, content, config }) {
@@ -33,15 +34,18 @@ export function aiRoutes(router, { db, content, config }) {
   const threadOut = (t) => ({ id: t.id, topicId: t.topic_id, lessonId: t.lesson_id, title: t.title, createdAt: t.created_at, updatedAt: t.updated_at, lessonTitle: t.lesson_id ? content.lessonIndex.get(t.lesson_id)?.titleUz : null, topicTitle: t.topic_id ? content.topics.find((x) => x.id === t.topic_id)?.title : null });
   const msgOut = (m) => ({ id: m.id, role: m.role, content: m.content, context: m.context ? JSON.parse(m.context) : null, citations: m.citations ? JSON.parse(m.citations) : [], status: m.status, createdAt: m.created_at });
 
-  const gemini = config.aiProvider === 'gemini';
-  const available = gemini ? !!config.geminiApiKey : !!config.anthropicApiKey;
-  router.get('/api/chat/status', () => ({ body: { available, provider: config.aiProvider, model: available ? (gemini ? config.geminiModel : config.aiModel) : null, voice: gemini && available, dailyLimit: config.aiDailyLimit } }));
+  const provider = config.aiProvider;
+  const KEY = { gemini: ['geminiApiKey', 'GEMINI_API_KEY', 'geminiModel'], grok: ['grokApiKey', 'XAI_API_KEY', 'grokModel'], anthropic: ['anthropicApiKey', 'ANTHROPIC_API_KEY', 'aiModel'] }[provider];
+  const available = !!config[KEY[0]];
+  // voice questions are transcribed by Gemini whatever answers the chat (Grok/Claude take no audio here)
+  const voice = !!config.geminiApiKey;
+  router.get('/api/chat/status', () => ({ body: { available, provider, model: available ? config[KEY[2]] : null, voice, dailyLimit: config.aiDailyLimit } }));
 
   // Voice question → text. The text goes back into the input box so the student can
   // check it before sending; retrieval then works on text as usual.
   router.post('/api/chat/transcribe', async ({ user, body }) => {
     if (!user) throw E.unauth();
-    if (!gemini || !config.geminiApiKey) throw new ApiError(503, 'voice_unavailable', 'Ovozli savol uchun serverda GEMINI_API_KEY sozlanmagan.');
+    if (!voice) throw new ApiError(503, 'voice_unavailable', 'Ovozli savol uçun serverda GEMINI_API_KEY sozlanmagan.');
     const d = v(body, { mimeType: { type: 'string', required: true, oneOf: GEMINI_AUDIO_TYPES }, audio: { type: 'string', required: true, max: 4 * 1024 * 1024, re: /^[A-Za-z0-9+/=]+$/ } });
     rateLimit(db, `ai-min:${user.id}`, config.aiPerMinute, 60);
     const ac = new AbortController();
@@ -52,7 +56,7 @@ export function aiRoutes(router, { db, content, config }) {
       return { body: { text: r.text.trim().slice(0, 2000) } };
     } catch (e) {
       console.error('[ai:transcribe]', e.status || '', e.message);
-      throw new ApiError(502, 'voice_failed', ac.signal.aborted ? 'Ovozni matnga aylantirish juda uzoq davom etdi. Qayta urinib ko’ring.' : 'Ovozni matnga aylantirib bo’lmadi. Qayta urinib ko’ring yoki savolni yozing.');
+      throw new ApiError(502, 'voice_failed', ac.signal.aborted ? 'Ovozni matnga aylantiriş juda uzoq davom etdi. Qayta urinib köring.' : 'Ovozni matnga aylantirib bölmadi. Qayta urinib köring yoki savolni yozing.');
     } finally { clearTimeout(timer); }
   });
 
@@ -63,7 +67,7 @@ export function aiRoutes(router, { db, content, config }) {
   router.post('/api/chat/threads', ({ user, body }) => {
     if (!user) throw E.unauth();
     const d = v(body, { topicId: { type: 'string', re: /^\d{2}$/ }, lessonId: { type: 'string', re: /^ch\d{2}$/ }, title: { type: 'string', max: 120 } });
-    if (d.lessonId && !content.lessonIndex.has(d.lessonId)) throw E.notFound('Bo’lim');
+    if (d.lessonId && !content.lessonIndex.has(d.lessonId)) throw E.notFound('Bölim');
     if (d.topicId && !content.topics.some((t) => t.id === d.topicId)) throw E.notFound('Mavzu');
     const topicId = d.lessonId ? content.lessonIndex.get(d.lessonId).topicId : d.topicId || null;
     const tid = id('ct_'); const now = nowIso();
@@ -75,6 +79,17 @@ export function aiRoutes(router, { db, content, config }) {
     if (!user) throw E.unauth();
     const t = own(user, params.id);
     return { body: { thread: threadOut(t), messages: db.prepare('SELECT * FROM chat_messages WHERE thread_id=? ORDER BY created_at').all(t.id).map(msgOut) } };
+  });
+  // bulk delete: { ids: [...] } — only the caller's own threads are removed
+  router.post('/api/chat/threads/delete', ({ user, body }) => {
+    if (!user) throw E.unauth();
+    const ids = Array.isArray(body?.ids) ? [...new Set(body.ids.filter((x) => typeof x === 'string'))].slice(0, 500) : null;
+    if (!ids?.length) throw E.invalid({ ids: 'Kamida bitta suhbat tanlang.' });
+    const st = db.prepare('DELETE FROM chat_threads WHERE id=? AND user_id=?');
+    let deleted = 0;
+    db.exec('BEGIN');
+    try { for (const x of ids) deleted += st.run(x, user.id).changes; db.exec('COMMIT'); } catch (e) { db.exec('ROLLBACK'); throw e; }
+    return { body: { ok: true, deleted } };
   });
   router.delete('/api/chat/threads/:id', ({ user, params }) => {
     if (!user) throw E.unauth();
@@ -103,7 +118,7 @@ export function aiRoutes(router, { db, content, config }) {
       const pdfPage = loc.pdfPage || (loc.pdfPages ? loc.pdfPages[0] : null);
       return {
         sourceId: r.chunk_id, n: i + 1, kind: r.kind, lang: r.lang, lessonId: r.lesson_id, topicId: r.topic_id, blockId: r.block_id,
-        title: `${lesson ? `${lesson.titleUz} — ` : ''}${plainText(r.title)}`,
+        title: `${lesson ? `${lesson.titleUz} — ` : ''}${plainText(loc.displayTitle || r.title)}`,
         text: plainText(r.raw).slice(0, 2200),
         bookEditionId: lesson?.source.bookId || null, chapter: lesson?.source.chapter || null,
         pdfPage, pdfPages: loc.pdfPages || null,
@@ -125,7 +140,7 @@ export function aiRoutes(router, { db, content, config }) {
     rateLimit(db, `ai-min:${user.id}`, config.aiPerMinute, 60);
     const day = new Date().toISOString().slice(0, 10);
     const used = db.prepare(`SELECT COUNT(*) n FROM chat_messages m JOIN chat_threads t ON t.id=m.thread_id WHERE t.user_id=? AND m.role='user' AND m.created_at >= ?`).get(user.id, day).n;
-    if (used >= config.aiDailyLimit) throw new ApiError(429, 'quota_exceeded', `Bugungi AI so’rovlar limiti (${config.aiDailyLimit}) tugadi. Ertaga qayta urinib ko’ring.`);
+    if (used >= config.aiDailyLimit) throw new ApiError(429, 'quota_exceeded', `Bugungi AI sörovlar limiti (${config.aiDailyLimit}) tugadi. Ertaga qayta urinib köring.`);
     const lessonId = d.lessonId || t.lesson_id;
     const topicId = lessonId ? content.lessonIndex.get(lessonId)?.topicId : t.topic_id;
     const ctx = { lessonId: lessonId || null, topicId: topicId || null, blockId: d.blockId || null, selection: d.selection || null, action: d.action || null, lessonTitle: lessonId ? content.lessonIndex.get(lessonId)?.titleUz : null };
@@ -149,14 +164,14 @@ export function aiRoutes(router, { db, content, config }) {
     db.prepare('INSERT INTO telemetry (id, user_id, type, target, at) VALUES (?,?,?,?,?)').run(id('ev_'), user.id, 'ai_question_sent', t.id, nowIso());
 
     if (!sources.length) {
-      const msg = 'Ulangan manbalarda bu savolga yetarli ma’lumot topilmadi. Savolni boshqacha so’z bilan yozing yoki tegishli darsni oching.';
+      const msg = 'Ulangan manbalarda bu savolga yetarli ma’lumot topilmadi. Savolni boşqaça söz bilan yozing yoki tegişli darsni oçing.';
       save(msg, 'no_source', []);
       send('done', { messageId: amid, status: 'no_source', content: msg, citations: [] });
       return res.end();
     }
-    const client = gemini ? (config.geminiApiKey ? 'gemini' : null) : await getClient();
+    const client = provider === 'anthropic' ? await getClient() : (available ? provider : null);
     if (!client) {
-      const msg = `AI xizmati hali ulanmagan (serverda ${gemini ? 'GEMINI_API_KEY' : 'ANTHROPIC_API_KEY'} sozlanmagan). Quyida savolingizga mos topilgan manba parchalari ko’rsatildi — ular kitobdan olingan, AI javobi emas.`;
+      const msg = `AI xizmati hali ulanmagan (serverda ${KEY[1]} sozlanmagan). Quyida savolingizga mos topilgan manba parçalari körsatildi — ular kitobdan olingan, AI javobi emas.`;
       save(msg, 'unavailable', []);
       send('done', { messageId: amid, status: 'unavailable', content: msg, citations: [] });
       return res.end();
@@ -171,7 +186,8 @@ export function aiRoutes(router, { db, content, config }) {
       `Savol: ${question}`,
     ].filter(Boolean).join('\n');
 
-    if (client === 'gemini') {
+    // Gemini and Grok: numbered sources in the prompt, [n] markers turned into citations
+    if (client === 'gemini' || client === 'grok') {
       const prompt = geminiPrompt({ hist, sources, ctxText });
       const ac = new AbortController();
       let idle = setTimeout(() => ac.abort(new Error('timeout')), 30000);
@@ -179,16 +195,17 @@ export function aiRoutes(router, { db, content, config }) {
       let raw = '';
       try {
         const bump = () => { clearTimeout(idle); idle = setTimeout(() => ac.abort(new Error('timeout')), 30000); };
-        const out = await geminiStream(config, { system: SYSTEM_GEMINI, input: prompt, maxTokens: 4096, thinking: config.geminiThinking, signal: ac.signal, onActivity: bump }, (chunk) => {
+        const stream = client === 'grok' ? grokStream : geminiStream;
+        const out = await stream(config, { system: SYSTEM_GEMINI, input: prompt, maxTokens: 4096, thinking: config.geminiThinking, signal: ac.signal, onActivity: bump }, (chunk) => {
           bump();
           raw += chunk;
           send('delta', { text: chunk });
         });
         clearTimeout(idle);
-        // Word-style apostrophe in Uzbek words, whatever the model typed (o'z → o’z, ta'sir → ta’sir)
+        // Word-style apostrophe in Uzbek words, whatever the model typed (o'z → o‘z, ta'sir → ta’sir)
         const { text: answer, citations } = extractCitations(plainAnswer(out.text), sources);
         if (!answer.trim()) {
-          const msg = 'Bu so’rovga javob berib bo’lmadi. Savolni o’quv mazmuniga yo’naltirib qayta yozing.';
+          const msg = 'Bu sörovga javob berib bölmadi. Savolni öquv mazmuniga yönaltirib qayta yozing.';
           save(msg, 'refused', []);
           send('done', { messageId: amid, status: 'refused', content: msg, citations: [] });
         } else {
@@ -199,10 +216,10 @@ export function aiRoutes(router, { db, content, config }) {
         clearTimeout(idle);
         const reason = ac.signal.aborted ? String(ac.signal.reason?.message || 'aborted') : 'error';
         const status = reason === 'client_closed' ? 'stopped' : reason === 'timeout' ? 'timeout' : 'error';
-        if (status !== 'stopped') console.error('[ai:gemini]', e.status || '', e.message);
+        if (status !== 'stopped') console.error(`[ai:${client}]`, e.status || '', e.message);
         const partial = extractCitations(plainAnswer(raw), sources);
         save(partial.text, status, partial.citations);
-        if (!res.writableEnded) send('error', { messageId: amid, status, partial: partial.text, message: status === 'timeout' ? 'AI 30 soniya javob bermadi. Qayta urinib ko’ring.' : e.status === 429 ? 'Bepul AI limiti vaqtincha tugadi. Bir daqiqadan so’ng qayta urinib ko’ring.' : status === 'error' ? 'AI xizmatida xato. Birozdan so’ng qayta urinib ko’ring.' : 'To’xtatildi.' });
+        if (!res.writableEnded) send('error', { messageId: amid, status, partial: partial.text, message: status === 'timeout' ? 'AI 30 soniya javob bermadi. Qayta urinib köring.' : e.status === 429 ? 'Bepul AI limiti vaqtinça tugadi. Bir daqiqadan söng qayta urinib köring.' : status === 'error' ? 'AI xizmatida xato. Birozdan söng qayta urinib köring.' : 'Töxtatildi.' });
       }
       if (!res.writableEnded) res.end();
       return;
@@ -213,7 +230,7 @@ export function aiRoutes(router, { db, content, config }) {
       content: [
         ...sources.map((s) => ({
           type: 'search_result', source: s.sourceId,
-          title: `${s.title}${s.pdfPage ? ` (Guyton & Hall 14-nashr, PDF s.${s.pdfPage})` : ''}`,
+          title: `${s.title}${s.pdfPage ? ` (Guyton & Hall 14-naşr, PDF s.${s.pdfPage})` : ''}`,
           content: [{ type: 'text', text: s.text || s.title }],
           citations: { enabled: true },
         })),
@@ -255,7 +272,7 @@ export function aiRoutes(router, { db, content, config }) {
       const final = await stream.finalMessage();
       clearTimeout(idle);
       if (final.stop_reason === 'refusal') {
-        const msg = text || 'Bu so’rovga javob berib bo’lmaydi. Savolni o’quv mazmuniga yo’naltirib qayta yozing.';
+        const msg = text || 'Bu sörovga javob berib bölmaydi. Savolni öquv mazmuniga yönaltirib qayta yozing.';
         save(msg, 'refused', citations);
         send('done', { messageId: amid, status: 'refused', content: msg, citations });
       } else {
@@ -269,7 +286,7 @@ export function aiRoutes(router, { db, content, config }) {
       const status = reason === 'client_closed' ? 'stopped' : reason === 'timeout' ? 'timeout' : 'error';
       if (status !== 'stopped') console.error('[ai]', e.status || '', e.message);
       save(text || '', status, citations);
-      if (!res.writableEnded) send('error', { messageId: amid, status, partial: text, message: status === 'timeout' ? 'AI 30 soniya javob bermadi. Qayta urinib ko’ring.' : status === 'error' ? 'AI xizmatida xato. Birozdan so’ng qayta urinib ko’ring.' : 'To’xtatildi.' });
+      if (!res.writableEnded) send('error', { messageId: amid, status, partial: text, message: status === 'timeout' ? 'AI 30 soniya javob bermadi. Qayta urinib köring.' : status === 'error' ? 'AI xizmatida xato. Birozdan söng qayta urinib köring.' : 'Töxtatildi.' });
     }
     if (!res.writableEnded) res.end();
   }, { raw: true });

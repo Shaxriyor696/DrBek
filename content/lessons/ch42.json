@@ -2,9 +2,9 @@
  "id": "ch42",
  "topicId": "07",
  "order": 5,
- "titleUz": "Nafasning boshqarilishi",
+ "titleUz": "Nafasning boşqarilişi",
  "titleOriginal": "Regulation of Respiration",
- "subtitle": "*Regulation of Respiration* — VII bo'lim, PDF 508–517",
+ "subtitle": "*Regulation of Respiration* — VII bo‘lim, PDF 508–517",
  "contentVersion": "2026-11-14.1",
  "status": "in_review",
  "translationStatus": "machine_assisted",
@@ -229,13 +229,13 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Asosiy g’oya",
+    "text": "Asosiy ğoya",
     "id": "ch42-s-0-asosiy-goya",
     "bid": "ch42-u0"
    },
    {
     "type": "paragraph",
-    "text": "Nerv tizimi alveolyar ventilyatsiyani tana ehtiyojiga shunchalik aniq moslaydiki, og’ir jismoniy ishda ham arterial PO₂ va PCO₂ deyarli o’zgarmaydi.",
+    "text": "Nerv tizimi alveolyar ventilyatsiyani tana ehtiyojiga şunçalik aniq moslaydiki, oğir jismoniy işda ham arterial PO₂ va PCO₂ deyarli özgarmaydi.",
     "bid": "ch42-u1"
    },
    {
@@ -243,7 +243,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Ritm** uzunchoq miya va ko’prikdagi **nafas markazi**da hosil bo’ladi.",
+      "text": "**Ritm** uzunçoq miya va köprikdagi **nafas markazi**da hosil böladi.",
       "depth": 0
      },
      {
@@ -251,19 +251,19 @@
       "depth": 0
      },
      {
-      "text": "**CO₂ va H⁺** markaziy xemosezgir sohaga bevosita (H⁺ orqali) ta’sir qiladi. Bu asosiy boshqaruvchi.",
+      "text": "**CO₂ va H⁺** markaziy xemosezgir sohaga bevosita (H⁺ orqali) ta’sir qiladi. Bu asosiy boşqaruvçi.",
       "depth": 1
      },
      {
-      "text": "**O₂** deyarli faqat **periferik xemoretseptorlar** (karotid va aortal tanachalar) orqali ta’sir qiladi.",
+      "text": "**O₂** deyarli faqat **periferik xemoretseptorlar** (karotid va aortal tanaçalar) orqali ta’sir qiladi.",
       "depth": 1
      },
      {
-      "text": "Evolyutsiya **CO₂** ni asosiy boshqaruvchi qilib tanlagan. Sababi: gemoglobin buferi tufayli O₂ yetkazilishi keng ventilyatsiya diapazonida normal qoladi, PCO₂ esa ventilyatsiyaga teskari proporsional o’zgaradi.",
+      "text": "Evolyutsiya **CO₂** ni asosiy boşqaruvçi qilib tanlagan. Sababi: gemoglobin buferi tufayli O₂ yetkazilişi keng ventilyatsiya diapazonida normal qoladi, PCO₂ esa ventilyatsiyaga teskari proporsional özgaradi.",
       "depth": 0
      },
      {
-      "text": "**Jismoniy ishda** asosiy stimul kimyoviy emas, **neyrogen**.",
+      "text": "**Jismoniy işda** asosiy stimul kimyoviy emas, **neyrogen**.",
       "depth": 0
      }
     ],
@@ -286,22 +286,22 @@
     "rows": [
      [
       "**Dorsal nafas guruhi**",
-      "uzunchoq miyaning dorsal qismi, asosan **yolg’iz yo’l yadrosi (NTS)** va yondosh retikulyar modda",
+      "uzunchoq miyaning dorsal qismi, asosan **yolg‘iz yo‘l yadrosi (NTS)** va yondosh retikulyar modda",
       "**nafas olish va asosiy ritm**"
      ],
      [
       "**Ventral nafas guruhi**",
       "ventrolateral uzunchoq miya: **ikki ma’noli yadro** (n. ambiguus, rostral) va **retroambiguus** (kaudal); dorsal guruhdan ~5 mm oldinda va yonda",
-      "**nafas olish va chiqarish**; kuchaytirish (\"overdrive\") mexanizmi"
+      "**nafas olish va chiqarish**; kuchaytirish (“overdrive”) mexanizmi"
      ],
      [
       "**Pnevmotaksik markaz**",
-      "ko’prikning yuqori qismi, dorsal; **parabraxial yadro**",
+      "ko‘prikning yuqori qismi, dorsal; **parabraxial yadro**",
       "nafas olishni cheklaydi, tezlik va chuqurlikni boshqaradi"
      ],
      [
       "Apneystik markaz",
-      "rasmda \"?\" bilan ko’rsatilgan",
+      "rasmda “?” bilan ko‘rsatilgan",
       "matnda batafsil berilmagan"
      ]
     ],
@@ -324,7 +324,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "NTS **adashgan nerv** va **til-halqum nervi**ning sezuvchi tugash joyi. U quyidagilardan signal oladi:",
+      "text": "NTS **adaşgan nerv** va **til-halqum nervi**ning sezuvçi tugaş joyi. U quyidagilardan signal oladi:",
       "depth": 0
      },
      {
@@ -336,47 +336,47 @@
       "depth": 1
      },
      {
-      "text": "jigar, me’da osti bezi va oshqozon-ichak yo’lining turli qismlaridagi retseptorlar;",
+      "text": "jigar, me’da osti bezi va oşqozon-içak yölining turli qismlaridagi retseptorlar;",
       "depth": 1
      },
      {
-      "text": "o’pkadagi bir necha turdagi retseptorlar.",
+      "text": "öpkadagi bir neça turdagi retseptorlar.",
       "depth": 1
      },
      {
-      "text": "**Ritm generatori:** barcha periferik nervlar kesilsa va miya stvoli uzunchoq miyadan yuqori va pastda kesilsa ham, bu guruh takroriy nafas olish impulslarini chiqarishda davom etadi.",
+      "text": "**Ritm generatori:** barça periferik nervlar kesilsa va miya stvoli uzunçoq miyadan yuqori va pastda kesilsa ham, bu guruh takroriy nafas oliş impulslarini çiqarişda davom etadi.",
       "depth": 0
      },
      {
-      "text": "Aniq sababi noma’lum. Ehtimol, bir guruh neyron ikkinchisini qo’zg’atadi, u esa birinchisini tormozlaydi va jarayon takrorlanadi. Bunday tarmoq butunlay uzunchoq miya ichida joylashgan.",
+      "text": "Aniq sababi noma’lum. Ehtimol, bir guruh neyron ikkinçisini qözğatadi, u esa birinçisini tormozlaydi va jarayon takrorlanadi. Bunday tarmoq butunlay uzunçoq miya içida joylaşgan.",
       "depth": 1
      },
      {
-      "text": "**Nafas olishning \"ramp\" (qiyalik) signali:**",
+      "text": "**Nafas olişning “ramp” (qiyalik) signali:**",
       "depth": 0
      },
      {
-      "text": "Signal kuchsiz boshlanib, ~**2 s** davomida tekis kuchayadi, keyin keskin to’xtaydi.",
+      "text": "Signal kuçsiz boşlanib, ~**2 s** davomida tekis kuçayadi, keyin keskin töxtaydi.",
       "depth": 1
      },
      {
-      "text": "Keyingi ~**3 s** diafragma qo’zg’almaydi va elastik qaytish nafas chiqarishni ta’minlaydi.",
+      "text": "Keyingi ~**3 s** diafragma qözğalmaydi va elastik qaytiş nafas çiqarişni ta’minlaydi.",
       "depth": 1
      },
      {
-      "text": "Afzalligi: o’pka hajmi keskin \"hiqillash\" bilan emas, tekis ortadi.",
+      "text": "Afzalligi: öpka hajmi keskin “hiqillaş” bilan emas, tekis ortadi.",
       "depth": 1
      },
      {
-      "text": "**Ikki narsa boshqariladi:**",
+      "text": "**Ikki narsa boşqariladi:**",
       "depth": 1
      },
      {
-      "text": "**Ko’tarilish tezligi**: og’ir nafasda ramp tez ko’tariladi va o’pka tez to’ladi.",
+      "text": "**Kötariliş tezligi**: oğir nafasda ramp tez kötariladi va öpka tez töladi.",
       "depth": 2
      },
      {
-      "text": "**To’xtash nuqtasi**: odatda nafas tezligi shu bilan boshqariladi. Ramp erta to’xtasa, nafas olish qisqaradi, nafas chiqarish ham qisqaradi va chastota ortadi.",
+      "text": "**Töxtaş nuqtasi**: odatda nafas tezligi şu bilan boşqariladi. Ramp erta töxtasa, nafas oliş qisqaradi, nafas çiqariş ham qisqaradi va çastota ortadi.",
       "depth": 2
      }
     ],
@@ -394,23 +394,23 @@
     "ordered": false,
     "items": [
      {
-      "text": "Ramp signalining **\"o’chish nuqtasi\"**ni boshqaradi.",
+      "text": "Ramp signalining **“öçiş nuqtasi”**ni boşqaradi.",
       "depth": 0
      },
      {
-      "text": "Kuchli signal: nafas olish **0,5 s** gacha qisqaradi, o’pka kam to’ladi.",
+      "text": "Kuçli signal: nafas oliş **0,5 s** gaça qisqaradi, öpka kam töladi.",
       "depth": 1
      },
      {
-      "text": "Kuchsiz signal: nafas olish **≥5 s** davom etadi, o’pka ko’p to’ladi.",
+      "text": "Kuçsiz signal: nafas oliş **≥5 s** davom etadi, öpka köp töladi.",
       "depth": 1
      },
      {
-      "text": "Asosiy vazifasi nafas olishni cheklash. Ikkilamchi natijasi: chastota ortadi.",
+      "text": "Asosiy vazifasi nafas olişni çeklaş. Ikkilamçi natijasi: çastota ortadi.",
       "depth": 0
      },
      {
-      "text": "Kuchli signalda **30–40/min**, kuchsizda **3–5/min**.",
+      "text": "Kuçli signalda **30–40/min**, kuçsizda **3–5/min**.",
       "depth": 1
      }
     ],
@@ -428,19 +428,19 @@
     "ordered": true,
     "items": [
      {
-      "text": "Tinch nafasda **deyarli nofaol**. Tinch nafas faqat dorsal guruhning diafragmaga yuborgan signallari bilan bo’ladi, nafas chiqarish passiv.",
+      "text": "Tinç nafasda **deyarli nofaol**. Tinç nafas faqat dorsal guruhning diafragmaga yuborgan signallari bilan böladi, nafas çiqariş passiv.",
       "depth": 0
      },
      {
-      "text": "Asosiy ritm hosil qilishda qatnashmaydi.",
+      "text": "Asosiy ritm hosil qilişda qatnaşmaydi.",
       "depth": 0
      },
      {
-      "text": "Ventilyatsiya ehtiyoji ortganda dorsal sohadan signallar ventral guruhga \"toshib o’tadi\".",
+      "text": "Ventilyatsiya ehtiyoji ortganda dorsal sohadan signallar ventral guruhga “toşib ötadi”.",
       "depth": 0
      },
      {
-      "text": "Ba’zi neyronlari nafas olishni, boshqalari nafas chiqarishni chaqiradi. Og’ir nafas chiqarishda **qorin mushaklari**ga kuchli signal beradi.",
+      "text": "Ba’zi neyronlari nafas olişni, boşqalari nafas çiqarişni çaqiradi. Oğir nafas çiqarişda **qorin muşaklari**ga kuçli signal beradi.",
       "depth": 0
      }
     ],
@@ -448,13 +448,13 @@
    },
    {
     "type": "paragraph",
-    "text": "Og’ir jismoniy ishda kuchaytirgich vazifasini bajaradi.",
+    "text": "Oğir jismoniy işda kuçaytirgiç vazifasini bajaradi.",
     "bid": "ch42-u12"
    },
    {
     "type": "heading",
     "level": 3,
-    "text": "Hering-Breuer cho’zilish refleksi",
+    "text": "Hering-Breuer çöziliş refleksi",
     "id": "ch42-s-13-hering-breuer-chozilish-refleksi",
     "bid": "ch42-u13"
    },
@@ -463,15 +463,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Bronx va bronxiolalar devorining mushak qismida **cho’zilish retseptorlari** bor. Ular adashgan nerv orqali dorsal guruhga signal yuboradi.",
+      "text": "Bronx va bronxiolalar devorining muşak qismida **çöziliş retseptorlari** bor. Ular adaşgan nerv orqali dorsal guruhga signal yuboradi.",
       "depth": 0
      },
      {
-      "text": "O’pka haddan tashqari kengayganda ramp \"o’chiriladi\" va nafas olish to’xtaydi. Chastota ortadi (pnevmotaksik signal kabi).",
+      "text": "Öpka haddan taşqari kengayganda ramp “öçiriladi” va nafas oliş töxtaydi. Çastota ortadi (pnevmotaksik signal kabi).",
       "depth": 0
      },
      {
-      "text": "**Odamda** faqat nafas hajmi normadan **3 marta** ortganda (**>~1,5 l**) ishga tushadi. Demak asosan **ortiqcha kengayishdan himoya**, normal boshqaruvda muhim emas.",
+      "text": "**Odamda** faqat nafas hajmi normadan **3 marta** ortganda (**>~1,5 l**) işga tuşadi. Demak asosan **ortiqça kengayişdan himoya**, normal boşqaruvda muhim emas.",
       "depth": 0
      }
     ],
@@ -480,13 +480,13 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Kimyoviy boshqaruv",
+    "text": "Kimyoviy boşqaruv",
     "id": "ch42-s-15-kimyoviy-boshqaruv",
     "bid": "ch42-u15"
    },
    {
     "type": "paragraph",
-    "text": "Nafasning yakuniy maqsadi to’qimalarda O₂, CO₂ va H⁺ ning to’g’ri konsentratsiyasini saqlash.",
+    "text": "Nafasning yakuniy maqsadi töqimalarda O₂, CO₂ va H⁺ ning töğri konsentratsiyasini saqlaş.",
     "bid": "ch42-u16"
    },
    {
@@ -494,11 +494,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "**CO₂ va H⁺ ortiqchasi** asosan nafas markaziga bevosita ta’sir qilib, nafas olish va chiqarish signallarini kuchaytiradi.",
+      "text": "**CO₂ va H⁺ ortiqçasi** asosan nafas markaziga bevosita ta’sir qilib, nafas oliş va çiqariş signallarini kuçaytiradi.",
       "depth": 0
      },
      {
-      "text": "**O₂** markazga katta bevosita ta’sir qilmaydi; deyarli butunlay periferik xemoretseptorlar orqali ishlaydi.",
+      "text": "**O₂** markazga katta bevosita ta’sir qilmaydi; deyarli butunlay periferik xemoretseptorlar orqali işlaydi.",
       "depth": 0
      }
     ],
@@ -516,35 +516,35 @@
     "ordered": false,
     "items": [
      {
-      "text": "Uzunchoq miya **ventral yuzasidan atigi 0,2 mm** chuqurlikda, ikki tomonda joylashgan.",
+      "text": "Uzunçoq miya **ventral yuzasidan atigi 0,2 mm** çuqurlikda, ikki tomonda joylaşgan.",
       "depth": 0
      },
      {
-      "text": "Uchta asosiy guruhning o’zi CO₂ yoki H⁺ ga bevosita sezgir emas deb hisoblanadi. Xemosezgir soha ularni qo’zg’atadi.",
+      "text": "Uçta asosiy guruhning özi CO₂ yoki H⁺ ga bevosita sezgir emas deb hisoblanadi. Xemosezgir soha ularni qözğatadi.",
       "depth": 0
      },
      {
-      "text": "**H⁺ asosiy (ehtimol yagona) bevosita stimul.** Biroq H⁺ **gematoensefalik to’siq**dan yomon o’tadi.",
+      "text": "**H⁺ asosiy (ehtimol yagona) bevosita stimul.** Biroq H⁺ **gematoensefalik tösiq**dan yomon ötadi.",
       "depth": 0
      },
      {
-      "text": "**CO₂ bilvosita, lekin kuchli ta’sir qiladi:**",
+      "text": "**CO₂ bilvosita, lekin kuçli ta’sir qiladi:**",
       "depth": 0
      },
      {
-      "text": "CO₂ to’siqdan \"to’siq yo’qdek\" o’tadi.",
+      "text": "CO₂ tösiqdan “tösiq yöqdek” ötadi.",
       "depth": 1
      },
      {
-      "text": "Uzunchoq miya interstitsial suyuqligida va **orqa miya suyuqligi**da CO₂ + H₂O → H₂CO₃ → **H⁺** + HCO₃⁻.",
+      "text": "Uzunçoq miya interstitsial suyuqligida va **orqa miya suyuqligi**da CO₂ + H₂O → H₂CO₃ → **H⁺** + HCO₃⁻.",
       "depth": 1
      },
      {
-      "text": "H⁺ neyronlarni qo’zg’atadi.",
+      "text": "H⁺ neyronlarni qözğatadi.",
       "depth": 1
      },
      {
-      "text": "**Paradoks:** qon CO₂ si ortganda xemosezgir sohaga qon H⁺ i ortgandagidan **ko’proq** H⁺ yetib keladi.",
+      "text": "**Paradoks:** qon CO₂ si ortganda xemosezgir sohaga qon H⁺ i ortgandagidan **köproq** H⁺ yetib keladi.",
       "depth": 1
      }
     ],
@@ -552,7 +552,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**CO₂ ta’sirining 1–2 kunda susayishi:**",
+    "text": "**CO₂ ta’sirining 1–2 kunda susayişi:**",
     "bid": "ch42-u20"
    },
    {
@@ -560,7 +560,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Ta’sir dastlabki soatlarda kuchli, keyin 1–2 kun ichida dastlabki ta’sirning **~1/5** qismigacha kamayadi.",
+      "text": "Ta’sir dastlabki soatlarda kuçli, keyin 1–2 kun içida dastlabki ta’sirning **~1/5** qismigaça kamayadi.",
       "depth": 0
      },
      {
@@ -568,15 +568,15 @@
       "depth": 0
      },
      {
-      "text": "Buyrak qondagi HCO₃⁻ ni oshiradi, u H⁺ ni bog’laydi.",
+      "text": "Buyrak qondagi HCO₃⁻ ni oşiradi, u H⁺ ni boğlaydi.",
       "depth": 1
      },
      {
-      "text": "Muhimrog’i: HCO₃⁻ soatlar davomida sekin gematoensefalik va qon-likvor to’siqlaridan o’tib, nafas neyronlari yonidagi H⁺ ni bevosita bog’laydi.",
+      "text": "Muhimroği: HCO₃⁻ soatlar davomida sekin gematoensefalik va qon-likvor tösiqlaridan ötib, nafas neyronlari yonidagi H⁺ ni bevosita boğlaydi.",
       "depth": 1
      },
      {
-      "text": "**Xulosa:** CO₂ o’zgarishi kuchli **o’tkir**, lekin **surunkali** holatda kuchsiz ta’sirga ega.",
+      "text": "**Xulosa:** CO₂ özgarişi kuçli **ötkir**, lekin **surunkali** holatda kuçsiz ta’sirga ega.",
       "depth": 0
      }
     ],
@@ -597,11 +597,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "PCO₂ ning **35–75 mm Hg** oralig’ida ventilyatsiya keskin ortadi (~10 marta gacha).",
+      "text": "PCO₂ ning **35–75 mm Hg** oraliğida ventilyatsiya keskin ortadi (~10 marta gaça).",
       "depth": 0
      },
      {
-      "text": "pH ning normal oralig’idagi (7,3–7,5) o’zgarishi ventilyatsiyaga bundan **<10%** ta’sir qiladi.",
+      "text": "pH ning normal oraliğidagi (7,3–7,5) özgarişi ventilyatsiyaga bundan **<10%** ta’sir qiladi.",
       "depth": 0
      }
     ],
@@ -609,7 +609,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**O₂ ning markazga bevosita ta’siri yo’q.** Gemoglobin-O₂ buferi o’pka PO₂ si **60 dan 1000 mm Hg** gacha o’zgarganda ham to’qimaga normal O₂ yetkazadi. Shuning uchun ventilyatsiya normaning yarmidan 20 baravarigacha o’zgarsa ham O₂ yetkazish yetarli bo’ladi.",
+    "text": "**O₂ ning markazga bevosita ta’siri yöq.** Gemoglobin-O₂ buferi öpka PO₂ si **60 dan 1000 mm Hg** gaça özgarganda ham töqimaga normal O₂ yetkazadi. Şuning uçun ventilyatsiya normaning yarmidan 20 baravarigaça özgarsa ham O₂ yetkaziş yetarli böladi.",
     "bid": "ch42-u25"
    },
    {
@@ -621,30 +621,30 @@
    },
    {
     "type": "paragraph",
-    "text": "**Joylashuvi:**",
+    "text": "**Joylaşuvi:**",
     "bid": "ch42-u27"
    },
    {
     "type": "table",
     "header": [
      "",
-     "Karotid tanachalar",
-     "Aortal tanachalar"
+     "Karotid tanaçalar",
+     "Aortal tanaçalar"
     ],
     "rows": [
      [
       "Joyi",
       "umumiy uyqu arteriyasi bifurkatsiyasi, ikki tomonda",
-      "aorta ravog’i bo’ylab"
+      "aorta ravog‘i bo‘ylab"
      ],
      [
-      "Afferent yo’l",
+      "Afferent yo‘l",
       "**Hering nervi**, keyin **til-halqum nervi**, keyin dorsal guruh",
       "**adashgan nerv**, keyin dorsal guruh"
      ],
      [
       "Ahamiyati",
-      "xemoretseptorlarning **ko’pchiligi**",
+      "xemoretseptorlarning **ko‘pchiligi**",
       "oz"
      ]
     ],
@@ -652,7 +652,7 @@
    },
    {
     "type": "paragraph",
-    "text": "Ko’krak va qorin bo’shlig’idagi boshqa arteriyalar yonida juda oz miqdorda ham bor.",
+    "text": "Kökrak va qorin böşliğidagi boşqa arteriyalar yonida juda oz miqdorda ham bor.",
     "bid": "ch42-u29"
    },
    {
@@ -660,7 +660,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Qon ta’minoti:** har bir tanacha qo’shni arterial tanadan maxsus mayda arteriya oladi. Daqiqasiga o’z og’irligidan **20 marta** ko’p qon oqadi. Shuning uchun undan O₂ deyarli olinmaydi va tanacha doimo **arterial** PO₂ ni sezadi.",
+      "text": "**Qon ta’minoti:** har bir tanaça qöşni arterial tanadan maxsus mayda arteriya oladi. Daqiqasiga öz oğirligidan **20 marta** köp qon oqadi. Şuning uçun undan O₂ deyarli olinmaydi va tanaça doimo **arterial** PO₂ ni sezadi.",
       "depth": 0
      },
      {
@@ -668,11 +668,11 @@
       "depth": 0
      },
      {
-      "text": "Arterial O₂ normadan pasaysa, tanachalar kuchli qo’zg’aladi.",
+      "text": "Arterial O₂ normadan pasaysa, tanaçalar kuçli qözğaladi.",
       "depth": 1
      },
      {
-      "text": "Impuls chastotasi ayniqsa **PO₂ 60 dan 30 mm Hg** gacha bo’lgan oraliqda sezgir. Bu gemoglobin saturatsiyasi tez tushadigan qism.",
+      "text": "Impuls çastotasi ayniqsa **PO₂ 60 dan 30 mm Hg** gaça bölgan oraliqda sezgir. Bu gemoglobin saturatsiyasi tez tuşadigan qism.",
       "depth": 1
      }
     ],
@@ -693,7 +693,7 @@
     "ordered": true,
     "items": [
      {
-      "text": "PO₂ ~60 mm Hg dan pastga tushadi va **O₂ ga sezgir K⁺ kanallari** yopiladi (mexanizmi hali aniq emas).",
+      "text": "PO₂ ~60 mm Hg dan pastga tuşadi va **O₂ ga sezgir K⁺ kanallari** yopiladi (mexanizmi hali aniq emas).",
       "depth": 0
      },
      {
@@ -701,15 +701,15 @@
       "depth": 0
      },
      {
-      "text": "**Potensialga bog’liq Ca²⁺ kanallari** ochiladi, sitozolda Ca²⁺ ortadi.",
+      "text": "**Potensialga boğliq Ca²⁺ kanallari** oçiladi, sitozolda Ca²⁺ ortadi.",
       "depth": 0
      },
      {
-      "text": "Neyromediator ajraladi. Ilgari dofamin yoki ACh deb taxmin qilingan; yangi ma’lumotlarga ko’ra asosiysi **ATP**.",
+      "text": "Neyromediator ajraladi. Ilgari dofamin yoki ACh deb taxmin qilingan; yangi ma’lumotlarga köra asosiysi **ATP**.",
       "depth": 0
      },
      {
-      "text": "Afferent tolalar qo’zg’aladi, MNS ga signal boradi va nafas kuchayadi.",
+      "text": "Afferent tolalar qözğaladi, MNS ga signal boradi va nafas kuçayadi.",
       "depth": 0
      }
     ],
@@ -725,11 +725,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Periferik retseptorlar CO₂ va H⁺ ga ham sezgir, lekin markaziy ta’sir **~7 marta** kuchliroq.",
+      "text": "Periferik retseptorlar CO₂ va H⁺ ga ham sezgir, lekin markaziy ta’sir **~7 marta** kuçliroq.",
       "depth": 0
      },
      {
-      "text": "Periferik javob **~5 marta tezroq**. Shuning uchun jismoniy ish boshida CO₂ ga javob tezligini oshirishda muhim bo’lishi mumkin.",
+      "text": "Periferik javob **~5 marta tezroq**. Şuning uçun jismoniy iş boşida CO₂ ga javob tezligini oşirişda muhim bölişi mumkin.",
       "depth": 0
      }
     ],
@@ -754,7 +754,7 @@
     "rows": [
      [
       ">100 mm Hg",
-      "deyarli o’zgarmaydi"
+      "deyarli o‘zgarmaydi"
      ],
      [
       "60 mm Hg",
@@ -769,7 +769,7 @@
    },
    {
     "type": "paragraph",
-    "text": "PO₂ **60–80 mm Hg** dan yuqori bo’lganda gipoksiya ta’siri kam. Shuning uchun dengiz sathidagi sog’lom odamda ventilyatsiyani asosan **PCO₂ va H⁺** boshqaradi.",
+    "text": "PO₂ **60–80 mm Hg** dan yuqori bölganda gipoksiya ta’siri kam. Şuning uçun dengiz sathidagi soğlom odamda ventilyatsiyani asosan **PCO₂ va H⁺** boşqaradi.",
     "bid": "ch42-u39"
    },
    {
@@ -784,15 +784,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Toqqa **sekin** (kunlar davomida) chiqqan alpinist chuqurroq nafas oladi va ancha past O₂ ga chidaydi.",
+      "text": "Toqqa **sekin** (kunlar davomida) çiqqan alpinist çuqurroq nafas oladi va ança past O₂ ga çidaydi.",
       "depth": 0
      },
      {
-      "text": "**Sababi:** 2–3 kun ichida nafas markazi PCO₂ va H⁺ ga sezgirligining **~80%** ini yo’qotadi. Odatda ortiqcha CO₂ chiqib ketishi ventilyatsiya ortishini tormozlar edi; endi bu bo’lmaydi va past O₂ ventilyatsiyani ancha yuqori darajaga olib chiqadi.",
+      "text": "**Sababi:** 2–3 kun içida nafas markazi PCO₂ va H⁺ ga sezgirligining **~80%** ini yöqotadi. Odatda ortiqça CO₂ çiqib ketişi ventilyatsiya ortişini tormozlar edi; endi bu bölmaydi va past O₂ ventilyatsiyani ança yuqori darajaga olib çiqadi.",
       "depth": 0
      },
      {
-      "text": "**Natija:** o’tkir gipoksiyada ventilyatsiya ~**70%** ortadi, 2–3 kundan keyin **400–500%** ortadi (44-bob).",
+      "text": "**Natija:** ötkir gipoksiyada ventilyatsiya ~**70%** ortadi, 2–3 kundan keyin **400–500%** ortadi (44-bob).",
       "depth": 0
      }
     ],
@@ -810,15 +810,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Har xil PO₂ (40, 50, 60, 100 mm Hg) va pH (7,4 va 7,3) uchun ventilyatsiyaning alveolyar PCO₂ ga bog’liqligini ko’rsatuvchi egri chiziqlar oilasi.",
+      "text": "Har xil PO₂ (40, 50, 60, 100 mm Hg) va pH (7,4 va 7,3) uçun ventilyatsiyaning alveolyar PCO₂ ga boğliqligini körsatuvçi egri çiziqlar oilasi.",
       "depth": 0
      },
      {
-      "text": "PO₂ pasaysa, egri chiziq tikroq bo’ladi. pH pasaysa, egri chiziq chapga siljiydi; pH ortsa, o’ngga.",
+      "text": "PO₂ pasaysa, egri çiziq tikroq böladi. pH pasaysa, egri çiziq çapga siljiydi; pH ortsa, öngga.",
       "depth": 0
      },
      {
-      "text": "Bu diagramma bilan har qanday kombinatsiyadagi alveolyar ventilyatsiyani taxmin qilish mumkin.",
+      "text": "Bu diagramma bilan har qanday kombinatsiyadagi alveolyar ventilyatsiyani taxmin qiliş mumkin.",
       "depth": 0
      }
     ],
@@ -832,7 +832,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Jismoniy ishda nafas boshqaruvi",
+    "text": "Jismoniy işda nafas boşqaruvi",
     "id": "ch42-s-45-jismoniy-ishda-nafas-boshqaruvi",
     "bid": "ch42-u45"
    },
@@ -841,15 +841,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "Og’ir ishda O₂ iste’moli va CO₂ hosil bo’lishi **20 martagacha** ortadi. Sportchida alveolyar ventilyatsiya deyarli ayni shunday ortadi. Arterial **PO₂, PCO₂ va pH deyarli normal** qoladi, demak ular stimul bo’la olmaydi.",
+      "text": "Oğir işda O₂ iste’moli va CO₂ hosil bölişi **20 martagaça** ortadi. Sportçida alveolyar ventilyatsiya deyarli ayni şunday ortadi. Arterial **PO₂, PCO₂ va pH deyarli normal** qoladi, demak ular stimul böla olmaydi.",
       "depth": 0
      },
      {
-      "text": "**Asosiy mexanizm, neyrogen:** miya mushaklarga motor impulslar yuborganda, kollateral impulslarni miya stvolidagi nafas markaziga ham yuboradi. Bu ishda vazomotor markaz qo’zg’alishiga o’xshaydi (arterial bosim ortadi).",
+      "text": "**Asosiy mexanizm, neyrogen:** miya muşaklarga motor impulslar yuborganda, kollateral impulslarni miya stvolidagi nafas markaziga ham yuboradi. Bu işda vazomotor markaz qözğalişiga öxşaydi (arterial bosim ortadi).",
       "depth": 0
      },
      {
-      "text": "Ventilyatsiya ortishining katta qismi ish boshlanishi bilan **darhol**, qon kimyosi o’zgarishidan oldin boshlanadi.",
+      "text": "Ventilyatsiya ortişining katta qismi iş boşlanişi bilan **darhol**, qon kimyosi özgarişidan oldin boşlanadi.",
       "depth": 0
      }
     ],
@@ -857,7 +857,7 @@
    },
    {
     "type": "paragraph",
-    "text": "**Kimyoviy va nerv omillarining o’zaro ta’siri (rasm 42-10):**",
+    "text": "**Kimyoviy va nerv omillarining özaro ta’siri (rasm 42-10):**",
     "bid": "ch42-u47"
    },
    {
@@ -870,15 +870,15 @@
     "ordered": true,
     "items": [
      {
-      "text": "Ish boshida ventilyatsiya deyarli bir zumda ortadi, PCO₂ esa avval **normadan pastga** tushadi. Bu miyaning **\"oldindan\" (anticipatory)** stimulyatsiyasi.",
+      "text": "Iş boşida ventilyatsiya deyarli bir zumda ortadi, PCO₂ esa avval **normadan pastga** tuşadi. Bu miyaning **“oldindan” (anticipatory)** stimulyatsiyasi.",
       "depth": 0
      },
      {
-      "text": "**30–40 s** dan keyin mushaklardan chiqqan CO₂ ventilyatsiyaga tenglashadi va PCO₂ normaga qaytadi.",
+      "text": "**30–40 s** dan keyin muşaklardan çiqqan CO₂ ventilyatsiyaga tenglaşadi va PCO₂ normaga qaytadi.",
       "depth": 0
      },
      {
-      "text": "Nerv signali haddan tashqari kuchli yoki kuchsiz bo’lsa, kimyoviy omillar yakuniy sozlashni bajaradi.",
+      "text": "Nerv signali haddan taşqari kuçli yoki kuçsiz bölsa, kimyoviy omillar yakuniy sozlaşni bajaradi.",
       "depth": 0
      }
     ],
@@ -899,11 +899,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "Neyrogen omil ventilyatsiya-PCO₂ egri chizig’ini **~20 marta** yuqoriga siljitadi. Ventilyatsiya CO₂ chiqarilishiga deyarli teng bo’ladi va PCO₂ ~40 da qoladi (tinch holatda ham, ishda ham).",
+      "text": "Neyrogen omil ventilyatsiya-PCO₂ egri çiziğini **~20 marta** yuqoriga siljitadi. Ventilyatsiya CO₂ çiqarilişiga deyarli teng böladi va PCO₂ ~40 da qoladi (tinç holatda ham, işda ham).",
       "depth": 0
      },
      {
-      "text": "Ish paytida PCO₂ 40 dan oshsa, qo’shimcha stimulyatsiya qiladi; pastga tushsa, tormozlaydi.",
+      "text": "Iş paytida PCO₂ 40 dan oşsa, qöşimça stimulyatsiya qiladi; pastga tuşsa, tormozlaydi.",
       "depth": 0
      }
     ],
@@ -911,13 +911,13 @@
    },
    {
     "type": "paragraph",
-    "text": "**Qisman o’rganilgan javob:** takroriy mashqlar bilan miya PCO₂ ni normal ushlash uchun to’g’ri signal berishni yaxshiroq o’rganadi. Faqat bosh miya po’stlog’ini bloklovchi tajribalar bu o’rganilgan javobni ham bloklaydi, demak po’stloq ishtirok etadi.",
+    "text": "**Qisman örganilgan javob:** takroriy maşqlar bilan miya PCO₂ ni normal uşlaş uçun töğri signal berişni yaxşiroq örganadi. Faqat boş miya pöstloğini bloklovçi tajribalar bu örganilgan javobni ham bloklaydi, demak pöstloq iştirok etadi.",
     "bid": "ch42-u53"
    },
    {
     "type": "heading",
     "level": 2,
-    "text": "Nafasga ta’sir qiluvchi boshqa omillar",
+    "text": "Nafasga ta’sir qiluvçi boşqa omillar",
     "id": "ch42-s-54-nafasga-tasir-qiluvchi-boshqa-omillar",
     "bid": "ch42-u54"
    },
@@ -926,35 +926,35 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Havo yo’li irritant retseptorlari** (traxeya, bronx va bronxiolalar epiteliysida): yo’tal va aksirishni chaqiradi; astma va emfizemada bronx torayishiga sabab bo’lishi mumkin.",
+      "text": "**Havo yöli irritant retseptorlari** (traxeya, bronx va bronxiolalar epiteliysida): yötal va aksirişni çaqiradi; astma va emfizemada bronx torayişiga sabab bölişi mumkin.",
       "depth": 0
      },
      {
-      "text": "**J retseptorlar** (alveola devorida, kapillyarlar yonida, \"juxtacapillary\"): o’pka kapillyarlari qonga to’lganda yoki o’pka shishida (dimlanishli yurak yetishmovchiligi) qo’zg’aladi. Vazifasi aniq emas, ehtimol **hansirash (dispnoe)** hissini beradi.",
+      "text": "**J retseptorlar** (alveola devorida, kapillyarlar yonida, “juxtacapillary”): öpka kapillyarlari qonga tölganda yoki öpka şişida (dimlanişli yurak yetişmovçiligi) qözğaladi. Vazifasi aniq emas, ehtimol **hansiraş (dispnoe)** hissini beradi.",
       "depth": 0
      },
      {
-      "text": "**Miya shishi:** miya chayqalishidan keyin shishgan to’qima miya arteriyalarini kalla suyagiga siqib, qon ta’minotini qisman to’sadi. Nafas markazi tormozlanadi yoki to’xtaydi.",
+      "text": "**Miya şişi:** miya çayqalişidan keyin şişgan töqima miya arteriyalarini kalla suyagiga siqib, qon ta’minotini qisman tösadi. Nafas markazi tormozlanadi yoki töxtaydi.",
       "depth": 0
      },
      {
-      "text": "**Davo:** vena ichiga **gipertonik eritma** (masalan, konsentrlangan **mannitol**). Miyadan suyuqlikni osmotik tortib, kalla ichi bosimini kamaytiradi. Ba’zan bir necha daqiqada nafas tiklanadi.",
+      "text": "**Davo:** vena içiga **gipertonik eritma** (masalan, konsentrlangan **mannitol**). Miyadan suyuqlikni osmotik tortib, kalla içi bosimini kamaytiradi. Ba’zan bir neça daqiqada nafas tiklanadi.",
       "depth": 1
      },
      {
-      "text": "**Anestetik va narkotiklar dozasini oshirib yuborish:** nafas depressiyasi va to’xtashining eng ko’p sababi.",
+      "text": "**Anestetik va narkotiklar dozasini oşirib yuboriş:** nafas depressiyasi va töxtaşining eng köp sababi.",
       "depth": 0
      },
      {
-      "text": "**Natriy pentobarbital** nafas markazini ko’p boshqa anestetiklardan (masalan, galotan) kuchliroq tormozlaydi.",
+      "text": "**Natriy pentobarbital** nafas markazini köp boşqa anestetiklardan (masalan, galotan) kuçliroq tormozlaydi.",
       "depth": 1
      },
      {
-      "text": "**Morfin** nafas markazini kuchli tormozlaydi, lekin po’stloqni kam anesteziyalaydi, shuning uchun faqat qo’shimcha sifatida ishlatiladi.",
+      "text": "**Morfin** nafas markazini kuçli tormozlaydi, lekin pöstloqni kam anesteziyalaydi, şuning uçun faqat qöşimça sifatida işlatiladi.",
       "depth": 1
      },
      {
-      "text": "**Opioidlar** dunyo bo’yicha dori overdozasi o’limlarining katta qismiga sabab. AQShda 2017 yilda ~**70 000** kishi overdozadan o’lgan, asosan nafas to’xtashidan.",
+      "text": "**Opioidlar** dunyo böyiça dori overdozasi ölimlarining katta qismiga sabab. AQŞda 2017 yilda ~**70 000** kişi overdozadan ölgan, asosan nafas töxtaşidan.",
       "depth": 1
      }
     ],
@@ -963,7 +963,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Davriy nafas: Cheyne-Stokes",
+    "text": "Davriy nafas: Çeyne-Stokes",
     "id": "ch42-s-56-davriy-nafas-cheyne-stokes",
     "bid": "ch42-u56"
    },
@@ -972,7 +972,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "Nafas har **40–60 s** da sekin kuchayib va susayib turadi (rasm 42-12).",
+      "text": "Nafas har **40–60 s** da sekin kuçayib va susayib turadi (rasm 42-12).",
       "depth": 0
      },
      {
@@ -980,39 +980,39 @@
       "depth": 0
      },
      {
-      "text": "Odam ortiqcha nafas oladi, o’pka qonida CO₂ kamayadi, O₂ ortadi.",
+      "text": "Odam ortiqça nafas oladi, öpka qonida CO₂ kamayadi, O₂ ortadi.",
       "depth": 1
      },
      {
-      "text": "Bu qon miyaga yetguncha bir necha soniya o’tadi va odam shu vaqt davomida ortiqcha nafas olishda davom etadi.",
+      "text": "Bu qon miyaga yetgunça bir neça soniya ötadi va odam şu vaqt davomida ortiqça nafas olişda davom etadi.",
       "depth": 1
      },
      {
-      "text": "Qon miyaga yetganda markaz **haddan tashqari** tormozlanadi va teskari tsikl boshlanadi: CO₂ to’planadi, O₂ kamayadi.",
+      "text": "Qon miyaga yetganda markaz **haddan taşqari** tormozlanadi va teskari tsikl boşlanadi: CO₂ töplanadi, O₂ kamayadi.",
       "depth": 1
      },
      {
-      "text": "Miya yana kechikib javob beradi.",
+      "text": "Miya yana keçikib javob beradi.",
       "depth": 1
      },
      {
-      "text": "Bu mexanizm hammada bor, lekin normalda kuchli **so’ndiriladi** (damped). Qon va nafas markazi suyuqliklarida erigan va bog’langan CO₂ va O₂ zaxirasi katta, o’pka bir necha soniyada yetarlicha o’zgarish hosil qila olmaydi.",
+      "text": "Bu mexanizm hammada bor, lekin normalda kuçli **söndiriladi** (damped). Qon va nafas markazi suyuqliklarida erigan va boğlangan CO₂ va O₂ zaxirasi katta, öpka bir neça soniyada yetarliça özgariş hosil qila olmaydi.",
       "depth": 0
      },
      {
-      "text": "**So’ndirish yengiladigan ikki holat:**",
+      "text": "**Söndiriş yengiladigan ikki holat:**",
       "depth": 0
      },
      {
-      "text": "**O’pkadan miyaga qon tashilishi uzoq kechikadi.** Og’ir **yurak yetishmovchiligi**da qon sekin oqadi. Surunkali yetishmovchilikda oylab vaqti-vaqti bilan kuzatilishi mumkin.",
+      "text": "**Öpkadan miyaga qon taşilişi uzoq keçikadi.** Oğir **yurak yetişmovçiligi**da qon sekin oqadi. Surunkali yetişmovçilikda oylab vaqti-vaqti bilan kuzatilişi mumkin.",
       "depth": 1
      },
      {
-      "text": "**Teskari aloqa kuchayishi ortadi.** PCO₂ 3 mm Hg ga ortganda ventilyatsiya normal 2–3 marta o’rniga **10–20 marta** ortadi. Bu asosan **nafas markazi shikastlanishi**da bo’ladi. Shikast nafasni bir necha soniyaga butunlay o’chiradi, keyin to’plangan CO₂ uni katta kuch bilan qayta yoqadi. Ko’pincha **miya faoliyati buzilishidan o’limning darakchisi**.",
+      "text": "**Teskari aloqa kuçayişi ortadi.** PCO₂ 3 mm Hg ga ortganda ventilyatsiya normal 2–3 marta örniga **10–20 marta** ortadi. Bu asosan **nafas markazi şikastlanişi**da böladi. Şikast nafasni bir neça soniyaga butunlay öçiradi, keyin töplangan CO₂ uni katta kuç bilan qayta yoqadi. Köpinça **miya faoliyati buzilişidan ölimning darakçisi**.",
       "depth": 1
      },
      {
-      "text": "Nafas chuqurligi o’pka qonidagi emas, **miyadagi** PCO₂ ga mos keladi. O’pka qoni PCO₂ si miyanikidan oldin o’zgaradi.",
+      "text": "Nafas çuqurligi öpka qonidagi emas, **miyadagi** PCO₂ ga mos keladi. Öpka qoni PCO₂ si miyanikidan oldin özgaradi.",
       "depth": 0
      }
     ],
@@ -1035,11 +1035,11 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Apnoe** spontan nafasning yo’qligi. Oddiy uyquda ham vaqti-vaqti bilan bo’ladi.",
+      "text": "**Apnoe** spontan nafasning yöqligi. Oddiy uyquda ham vaqti-vaqti bilan böladi.",
       "depth": 0
      },
      {
-      "text": "Uyqu apnoesida epizodlar **≥10 s** davom etadi va kechasiga **300–500 marta** takrorlanadi.",
+      "text": "Uyqu apnoesida epizodlar **≥10 s** davom etadi va keçasiga **300–500 marta** takrorlanadi.",
       "depth": 0
      }
     ],
@@ -1048,7 +1048,7 @@
    {
     "type": "heading",
     "level": 3,
-    "text": "Obstruktiv uyqu apnoesi (eng ko’p uchraydi)",
+    "text": "Obstruktiv uyqu apnoesi (eng köp uçraydi)",
     "id": "ch42-s-61-obstruktiv-uyqu-apnoesi-eng-kop-uchraydi",
     "bid": "ch42-u61"
    },
@@ -1057,7 +1057,7 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Mexanizm:** halqum mushaklari uyquda bo’shashadi. Odatda yo’l yetarlicha ochiq qoladi, lekin tor yo’li bor odamlarda halqum **butunlay yopiladi**.",
+      "text": "**Mexanizm:** halqum muşaklari uyquda böşaşadi. Odatda yöl yetarliça oçiq qoladi, lekin tor yöli bor odamlarda halqum **butunlay yopiladi**.",
       "depth": 0
      },
      {
@@ -1065,31 +1065,31 @@
       "depth": 0
      },
      {
-      "text": "Uxlagandan keyin tez orada baland xurrak va qiyin nafas boshlanadi.",
+      "text": "Uxlagandan keyin tez orada baland xurrak va qiyin nafas boşlanadi.",
       "depth": 1
      },
      {
-      "text": "Xurrak kuchayadi, keyin uzoq jim davr (apnoe) keladi.",
+      "text": "Xurrak kuçayadi, keyin uzoq jim davr (apnoe) keladi.",
       "depth": 1
      },
      {
-      "text": "PO₂ pasayadi, PCO₂ ortadi va nafasni kuchli qo’zg’atadi.",
+      "text": "PO₂ pasayadi, PCO₂ ortadi va nafasni kuçli qözğatadi.",
       "depth": 1
      },
      {
-      "text": "To’satdan nafas olishga urinish baland pishqirish va hansirash bilan keladi, keyin yana xurrak va apnoe.",
+      "text": "Tösatdan nafas olişga uriniş baland pişqiriş va hansiraş bilan keladi, keyin yana xurrak va apnoe.",
       "depth": 1
      },
      {
-      "text": "Kechasiga yuzlab marta takrorlanib, uyqu bo’linadi va notinch bo’ladi.",
+      "text": "Keçasiga yuzlab marta takrorlanib, uyqu bölinadi va notinç böladi.",
       "depth": 1
      },
      {
-      "text": "**Oqibatlari:** kunduzgi uyquchanlik, simpatik faollik ortishi, yurak urishi tezlashishi, **o’pka va tizimli gipertenziya**, yurak-qon tomir kasalliklari xavfining keskin ortishi.",
+      "text": "**Oqibatlari:** kunduzgi uyquçanlik, simpatik faollik ortişi, yurak urişi tezlaşişi, **öpka va tizimli gipertenziya**, yurak-qon tomir kasalliklari xavfining keskin ortişi.",
       "depth": 0
      },
      {
-      "text": "**Kimlarda:** odatda keksa, semiz odamlarda. Halqum yumshoq to’qimalarida yog' to’planadi yoki bo’yindagi yog' massasi halqumni siqadi. Kamroq: burun obstruksiyasi, juda katta til, kattalashgan bodomcha bezlar, tanglayning ayrim shakllari.",
+      "text": "**Kimlarda:** odatda keksa, semiz odamlarda. Halqum yumşoq töqimalarida yoğ töplanadi yoki böyindagi yoğ massasi halqumni siqadi. Kamroq: burun obstruksiyasi, juda katta til, kattalaşgan bodomça bezlar, tanglayning ayrim şakllari.",
       "depth": 0
      },
      {
@@ -1097,7 +1097,7 @@
       "depth": 0
      },
      {
-      "text": "**Jarrohlik**: tomoq orqasidagi ortiqcha yog’ni olib tashlash (**uvulopalatofaringoplastika**), bodomcha yoki adenoidlarni olib tashlash, yoki **traxeostomiya**.",
+      "text": "**Jarrohlik**: tomoq orqasidagi ortiqça yoğni olib taşlaş (**uvulopalatofaringoplastika**), bodomça yoki adenoidlarni olib taşlaş, yoki **traxeostomiya**.",
       "depth": 1
      },
      {
@@ -1119,15 +1119,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "MNS ning nafas mushaklariga signali vaqtincha to’xtaydi.",
+      "text": "MNS ning nafas muşaklariga signali vaqtinça töxtaydi.",
       "depth": 0
      },
      {
-      "text": "**Sabablar:** nafas markazlarining shikastlanishi yoki nerv-mushak apparati anomaliyalari. Ko’pincha sababi noma’lum; insult markazlarning CO₂ va H⁺ ga javobini susaytirishi mumkin.",
+      "text": "**Sabablar:** nafas markazlarining şikastlanişi yoki nerv-muşak apparati anomaliyalari. Köpinça sababi noma’lum; insult markazlarning CO₂ va H⁺ ga javobini susaytirişi mumkin.",
       "depth": 0
      },
      {
-      "text": "**Klinika:** uyg’oq holatda ham ventilyatsiya kamaygan bo’lishi mumkin, lekin ixtiyoriy nafas normal. Uyquda yomonlashadi: PO₂ pasayib, PCO₂ kritik darajaga yetgunga qadar apnoe davom etadi. Obstruktiv turga o’xshash klinik belgilar.",
+      "text": "**Klinika:** uyğoq holatda ham ventilyatsiya kamaygan bölişi mumkin, lekin ixtiyoriy nafas normal. Uyquda yomonlaşadi: PO₂ pasayib, PCO₂ kritik darajaga yetgunga qadar apnoe davom etadi. Obstruktiv turga öxşaş klinik belgilar.",
       "depth": 0
      },
      {
@@ -1135,7 +1135,7 @@
       "depth": 0
      },
      {
-      "text": "**Davo:** nafas markazini qo’zg’atuvchi dorilar ba’zan yordam beradi, lekin odatda kechasi **CPAP** kerak.",
+      "text": "**Davo:** nafas markazini qözğatuvçi dorilar ba’zan yordam beradi, lekin odatda keçasi **CPAP** kerak.",
       "depth": 0
      }
     ],
@@ -1143,13 +1143,13 @@
    },
    {
     "type": "paragraph",
-    "text": "**Tarqalishi:** aralash tur ~**15%**, sof markaziy **<1%**. Eng ko’p sabab yuqori havo yo’llari obstruksiyasi.",
+    "text": "**Tarqalişi:** aralaş tur ~**15%**, sof markaziy **<1%**. Eng köp sabab yuqori havo yöllari obstruksiyasi.",
     "bid": "ch42-u65"
    },
    {
     "type": "heading",
     "level": 2,
-    "text": "Ixtiyoriy nafas boshqaruvi",
+    "text": "Ixtiyoriy nafas boşqaruvi",
     "id": "ch42-s-66-ixtiyoriy-nafas-boshqaruvi",
     "bid": "ch42-u66"
    },
@@ -1158,19 +1158,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "Nafasni qisqa vaqt ixtiyoriy boshqarish mumkin. Giper- yoki gipoventilyatsiya PCO₂, pH va PO₂ ni jiddiy buzishi mumkin.",
+      "text": "Nafasni qisqa vaqt ixtiyoriy boşqariş mumkin. Giper- yoki gipoventilyatsiya PCO₂, pH va PO₂ ni jiddiy buzişi mumkin.",
       "depth": 0
      },
      {
-      "text": "**Nafasni ushlash rekordi** (tinch holat, oldindan toza O₂ bilan giperventilyatsiyasiz): **11 min 54 s**.",
+      "text": "**Nafasni uşlaş rekordi** (tinç holat, oldindan toza O₂ bilan giperventilyatsiyasiz): **11 min 54 s**.",
       "depth": 0
      },
      {
-      "text": "Toza O₂ bilan giperventilyatsiya va CO₂ ni ko’p chiqarib tashlashdan keyin suv ostida **>24 minut** nafas ushlangan.",
+      "text": "Toza O₂ bilan giperventilyatsiya va CO₂ ni köp çiqarib taşlaşdan keyin suv ostida **>24 minut** nafas uşlangan.",
       "depth": 0
      },
      {
-      "text": "Elita apnoe sportchilari O₂ saturatsiyasi **~50%** ga tushguncha nafas olish istagini bosa oladi; davomiylikni hushdan ketish cheklaydi.",
+      "text": "Elita apnoe sportçilari O₂ saturatsiyasi **~50%** ga tuşgunça nafas oliş istagini bosa oladi; davomiylikni huşdan ketiş çeklaydi.",
       "depth": 0
      }
     ],
@@ -1188,19 +1188,19 @@
     "ordered": false,
     "items": [
      {
-      "text": "**Surunkali giperkapniya** (masalan SOO’K): CO₂ ga sezgirlik susayadi (HCO₃⁻ moslashuvi), nafas stimuli ko’proq **gipoksiyaga** tayanadi. Bu xulosa bob mexanizmidan kelib chiqadi; amaliy ta’sirlari 43-bobda.",
+      "text": "**Surunkali giperkapniya** (masalan SOÖK): CO₂ ga sezgirlik susayadi (HCO₃⁻ moslaşuvi), nafas stimuli köproq **gipoksiyaga** tayanadi. Bu xulosa bob mexanizmidan kelib çiqadi; amaliy ta’sirlari 43-bobda.",
       "depth": 0
      },
      {
-      "text": "**Opioid overdozasi**: nafas markazi depressiyasi, o’limning asosiy sababi.",
+      "text": "**Opioid overdozasi**: nafas markazi depressiyasi, ölimning asosiy sababi.",
       "depth": 0
      },
      {
-      "text": "**CO zaharlanishi**da PO₂ normal, shuning uchun periferik xemoretseptorlar qo’zg’almaydi (41-bob).",
+      "text": "**CO zaharlanişi**da PO₂ normal, şuning uçun periferik xemoretseptorlar qözğalmaydi (41-bob).",
       "depth": 0
      },
      {
-      "text": "**Cheyne-Stokes**: og’ir yurak yetishmovchiligi yoki miya shikasti (yomon prognoz).",
+      "text": "**Çeyne-Stokes**: oğir yurak yetişmovçiligi yoki miya şikasti (yomon prognoz).",
       "depth": 0
      },
      {
@@ -1208,11 +1208,11 @@
       "depth": 0
      },
      {
-      "text": "**Miya shishi**da nafas to’xtashi: mannitol.",
+      "text": "**Miya şişi**da nafas töxtaşi: mannitol.",
       "depth": 0
      },
      {
-      "text": "**Akklimatizatsiya**: sekin ko’tarilish ventilyatsiyani 4–5 marta oshiradi.",
+      "text": "**Akklimatizatsiya**: sekin kötariliş ventilyatsiyani 4–5 marta oşiradi.",
       "depth": 0
      }
     ],
@@ -1221,7 +1221,7 @@
    {
     "type": "heading",
     "level": 2,
-    "text": "Bog’liqlik",
+    "text": "Boğliqlik",
     "id": "ch42-s-70-bogliqlik",
     "bid": "ch42-u70"
    },
@@ -1230,15 +1230,15 @@
     "ordered": false,
     "items": [
      {
-      "text": "**31-bob:** kislota-ishqor, buyrak HCO₃⁻ kompensatsiyasi.",
+      "text": "**31-bob:** kislota-işqor, buyrak HCO₃⁻ kompensatsiyasi.",
       "depth": 0
      },
      {
-      "text": "**38-bob:** nafas mushaklari, yo’tal va aksirish.",
+      "text": "**38-bob:** nafas muşaklari, yötal va aksiriş.",
       "depth": 0
      },
      {
-      "text": "**41-bob:** gemoglobin buferi, CO₂ tashilishi.",
+      "text": "**41-bob:** gemoglobin buferi, CO₂ taşilişi.",
       "depth": 0
      },
      {
@@ -1246,11 +1246,11 @@
       "depth": 0
      },
      {
-      "text": "**45-bob:** sho’ng’ish.",
+      "text": "**45-bob:** şönğiş.",
       "depth": 0
      },
      {
-      "text": "**43-bob:** SOO’K, giperkapniya.",
+      "text": "**43-bob:** SOÖK, giperkapniya.",
       "depth": 0
      },
      {
@@ -1258,7 +1258,7 @@
       "depth": 0
      },
      {
-      "text": "**22-bob:** yurak yetishmovchiligi.",
+      "text": "**22-bob:** yurak yetişmovçiligi.",
       "depth": 0
      },
      {
@@ -1266,7 +1266,7 @@
       "depth": 0
      },
      {
-      "text": "**85-bob:** jismoniy ishda nafas.",
+      "text": "**85-bob:** jismoniy işda nafas.",
       "depth": 0
      }
     ],
@@ -1879,7 +1879,7 @@
    "id": "ch42-t-ritm",
    "termUz": "Ritm",
    "original": null,
-   "contextUz": "Ritm uzunchoq miya va ko’prikdagi nafas markazida hosil bo’ladi.",
+   "contextUz": "Ritm uzunçoq miya va köprikdagi nafas markazida hosil böladi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -1889,7 +1889,7 @@
    "id": "ch42-t-nafas-markazi",
    "termUz": "nafas markazi",
    "original": null,
-   "contextUz": "Ritm uzunchoq miya va ko’prikdagi nafas markazida hosil bo’ladi.",
+   "contextUz": "Ritm uzunçoq miya va köprikdagi nafas markazida hosil böladi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -1919,7 +1919,7 @@
    "id": "ch42-t-o",
    "termUz": "O₂",
    "original": null,
-   "contextUz": "O₂ deyarli faqat periferik xemoretseptorlar (karotid va aortal tanachalar) orqali ta’sir qiladi.",
+   "contextUz": "O₂ deyarli faqat periferik xemoretseptorlar (karotid va aortal tanaçalar) orqali ta’sir qiladi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -1929,7 +1929,7 @@
    "id": "ch42-t-periferik-xemoretseptorlar",
    "termUz": "periferik xemoretseptorlar",
    "original": "karotid va aortal tanachalar",
-   "contextUz": "O₂ deyarli faqat periferik xemoretseptorlar (karotid va aortal tanachalar) orqali ta’sir qiladi.",
+   "contextUz": "O₂ deyarli faqat periferik xemoretseptorlar (karotid va aortal tanaçalar) orqali ta’sir qiladi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -1939,7 +1939,7 @@
    "id": "ch42-t-co",
    "termUz": "CO₂",
    "original": null,
-   "contextUz": "Evolyutsiya CO₂ ni asosiy boshqaruvchi qilib tanlagan.",
+   "contextUz": "Evolyutsiya CO₂ ni asosiy boşqaruvçi qilib tanlagan.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -1947,9 +1947,9 @@
   },
   {
    "id": "ch42-t-jismoniy-ishda",
-   "termUz": "Jismoniy ishda",
+   "termUz": "Jismoniy işda",
    "original": null,
-   "contextUz": "Jismoniy ishda asosiy stimul kimyoviy emas, neyrogen.",
+   "contextUz": "Jismoniy işda asosiy stimul kimyoviy emas, neyrogen.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -1959,7 +1959,7 @@
    "id": "ch42-t-neyrogen",
    "termUz": "neyrogen",
    "original": null,
-   "contextUz": "Jismoniy ishda asosiy stimul kimyoviy emas, neyrogen.",
+   "contextUz": "Jismoniy işda asosiy stimul kimyoviy emas, neyrogen.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -1969,7 +1969,7 @@
    "id": "ch42-t-dorsal-nafas-guruhi",
    "termUz": "Dorsal nafas guruhi",
    "original": null,
-   "contextUz": "Guruh Joyi Vazifasi Dorsal nafas guruhi uzunchoq miyaning dorsal qismi, asosan yolg’iz yo’l yadrosi (NTS) va yondosh retikulyar modda nafas olish va asosiy ritm Ventral nafas guruhi ventrolateral uzunchoq miya: ikki ma’noli yadro (n.",
+   "contextUz": "Guruh Joyi Vazifasi Dorsal nafas guruhi uzunçoq miyaning dorsal qismi, asosan yolğiz yöl yadrosi (NTS) va yondoş retikulyar modda nafas oliş va asosiy ritm Ventral nafas guruhi ventrolateral uzunçoq miya: ikki ma’noli yadro (n.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -1977,9 +1977,9 @@
   },
   {
    "id": "ch42-t-yolgiz-yol-yadrosi-nts",
-   "termUz": "yolg’iz yo’l yadrosi (NTS)",
+   "termUz": "yolğiz yöl yadrosi (NTS)",
    "original": null,
-   "contextUz": "Guruh Joyi Vazifasi Dorsal nafas guruhi uzunchoq miyaning dorsal qismi, asosan yolg’iz yo’l yadrosi (NTS) va yondosh retikulyar modda nafas olish va asosiy ritm Ventral nafas guruhi ventrolateral uzunchoq miya: ikki ma’noli yadro (n.",
+   "contextUz": "Guruh Joyi Vazifasi Dorsal nafas guruhi uzunçoq miyaning dorsal qismi, asosan yolğiz yöl yadrosi (NTS) va yondoş retikulyar modda nafas oliş va asosiy ritm Ventral nafas guruhi ventrolateral uzunçoq miya: ikki ma’noli yadro (n.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -1987,9 +1987,9 @@
   },
   {
    "id": "ch42-t-nafas-olish-va-asosiy-ritm",
-   "termUz": "nafas olish va asosiy ritm",
+   "termUz": "nafas oliş va asosiy ritm",
    "original": null,
-   "contextUz": "Guruh Joyi Vazifasi Dorsal nafas guruhi uzunchoq miyaning dorsal qismi, asosan yolg’iz yo’l yadrosi (NTS) va yondosh retikulyar modda nafas olish va asosiy ritm Ventral nafas guruhi ventrolateral uzunchoq miya: ikki ma’noli yadro (n.",
+   "contextUz": "Guruh Joyi Vazifasi Dorsal nafas guruhi uzunçoq miyaning dorsal qismi, asosan yolğiz yöl yadrosi (NTS) va yondoş retikulyar modda nafas oliş va asosiy ritm Ventral nafas guruhi ventrolateral uzunçoq miya: ikki ma’noli yadro (n.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -1999,7 +1999,7 @@
    "id": "ch42-t-ventral-nafas-guruhi",
    "termUz": "Ventral nafas guruhi",
    "original": null,
-   "contextUz": "Guruh Joyi Vazifasi Dorsal nafas guruhi uzunchoq miyaning dorsal qismi, asosan yolg’iz yo’l yadrosi (NTS) va yondosh retikulyar modda nafas olish va asosiy ritm Ventral nafas guruhi ventrolateral uzunchoq miya: ikki ma’noli yadro (n.",
+   "contextUz": "Guruh Joyi Vazifasi Dorsal nafas guruhi uzunçoq miyaning dorsal qismi, asosan yolğiz yöl yadrosi (NTS) va yondoş retikulyar modda nafas oliş va asosiy ritm Ventral nafas guruhi ventrolateral uzunçoq miya: ikki ma’noli yadro (n.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2009,7 +2009,7 @@
    "id": "ch42-t-ikki-manoli-yadro",
    "termUz": "ikki ma’noli yadro",
    "original": "n. ambiguus, rostral",
-   "contextUz": "Guruh Joyi Vazifasi Dorsal nafas guruhi uzunchoq miyaning dorsal qismi, asosan yolg’iz yo’l yadrosi (NTS) va yondosh retikulyar modda nafas olish va asosiy ritm Ventral nafas guruhi ventrolateral uzunchoq miya: ikki ma’noli yadro (n. ambiguus, rostral) va retroambiguus (kaudal); dorsal guruhdan ~5 mm oldinda va yonda nafas olish va chiqarish; kuchaytirish (\"overdrive\") ",
+   "contextUz": "Guruh Joyi Vazifasi Dorsal nafas guruhi uzunçoq miyaning dorsal qismi, asosan yolğiz yöl yadrosi (NTS) va yondoş retikulyar modda nafas oliş va asosiy ritm Ventral nafas guruhi ventrolateral uzunçoq miya: ikki ma’noli yadro (n. ambiguus, rostral) va retroambiguus (kaudal); dorsal guruhdan ~5 mm oldinda va yonda nafas oliş va çiqariş; kuçaytiriş (“overdrive”) ",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2019,7 +2019,7 @@
    "id": "ch42-t-retroambiguus",
    "termUz": "retroambiguus",
    "original": "kaudal",
-   "contextUz": "ambiguus, rostral) va retroambiguus (kaudal); dorsal guruhdan ~5 mm oldinda va yonda nafas olish va chiqarish; kuchaytirish (\"overdrive\") mexanizmi Pnevmotaksik markaz ko’prikning yuqori qismi, dorsal; parabraxial yadro nafas olishni cheklaydi, tezlik va chuqurlikni boshqaradi Apneystik markaz rasmda \"?\" bilan ko’rsatilgan matnda batafsil berilmagan",
+   "contextUz": "ambiguus, rostral) va retroambiguus (kaudal); dorsal guruhdan ~5 mm oldinda va yonda nafas oliş va çiqariş; kuçaytiriş (“overdrive”) mexanizmi Pnevmotaksik markaz köprikning yuqori qismi, dorsal; parabraxial yadro nafas olişni çeklaydi, tezlik va çuqurlikni boşqaradi Apneystik markaz rasmda “?” bilan körsatilgan matnda batafsil berilmagan",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2027,9 +2027,9 @@
   },
   {
    "id": "ch42-t-nafas-olish-va-chiqarish",
-   "termUz": "nafas olish va chiqarish",
+   "termUz": "nafas oliş va çiqariş",
    "original": null,
-   "contextUz": "ambiguus, rostral) va retroambiguus (kaudal); dorsal guruhdan ~5 mm oldinda va yonda nafas olish va chiqarish; kuchaytirish (\"overdrive\") mexanizmi Pnevmotaksik markaz ko’prikning yuqori qismi, dorsal; parabraxial yadro nafas olishni cheklaydi, tezlik va chuqurlikni boshqaradi Apneystik markaz rasmda \"?\" bilan ko’rsatilgan matnda batafsil berilmagan",
+   "contextUz": "ambiguus, rostral) va retroambiguus (kaudal); dorsal guruhdan ~5 mm oldinda va yonda nafas oliş va çiqariş; kuçaytiriş (“overdrive”) mexanizmi Pnevmotaksik markaz köprikning yuqori qismi, dorsal; parabraxial yadro nafas olişni çeklaydi, tezlik va çuqurlikni boşqaradi Apneystik markaz rasmda “?” bilan körsatilgan matnda batafsil berilmagan",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2039,7 +2039,7 @@
    "id": "ch42-t-pnevmotaksik-markaz",
    "termUz": "Pnevmotaksik markaz",
    "original": null,
-   "contextUz": "ambiguus, rostral) va retroambiguus (kaudal); dorsal guruhdan ~5 mm oldinda va yonda nafas olish va chiqarish; kuchaytirish (\"overdrive\") mexanizmi Pnevmotaksik markaz ko’prikning yuqori qismi, dorsal; parabraxial yadro nafas olishni cheklaydi, tezlik va chuqurlikni boshqaradi Apneystik markaz rasmda \"?\" bilan ko’rsatilgan matnda batafsil berilmagan",
+   "contextUz": "ambiguus, rostral) va retroambiguus (kaudal); dorsal guruhdan ~5 mm oldinda va yonda nafas oliş va çiqariş; kuçaytiriş (“overdrive”) mexanizmi Pnevmotaksik markaz köprikning yuqori qismi, dorsal; parabraxial yadro nafas olişni çeklaydi, tezlik va çuqurlikni boşqaradi Apneystik markaz rasmda “?” bilan körsatilgan matnda batafsil berilmagan",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2049,7 +2049,7 @@
    "id": "ch42-t-parabraxial-yadro",
    "termUz": "parabraxial yadro",
    "original": null,
-   "contextUz": "ambiguus, rostral) va retroambiguus (kaudal); dorsal guruhdan ~5 mm oldinda va yonda nafas olish va chiqarish; kuchaytirish (\"overdrive\") mexanizmi Pnevmotaksik markaz ko’prikning yuqori qismi, dorsal; parabraxial yadro nafas olishni cheklaydi, tezlik va chuqurlikni boshqaradi Apneystik markaz rasmda \"?\" bilan ko’rsatilgan matnda batafsil berilmagan",
+   "contextUz": "ambiguus, rostral) va retroambiguus (kaudal); dorsal guruhdan ~5 mm oldinda va yonda nafas oliş va çiqariş; kuçaytiriş (“overdrive”) mexanizmi Pnevmotaksik markaz köprikning yuqori qismi, dorsal; parabraxial yadro nafas olişni çeklaydi, tezlik va çuqurlikni boşqaradi Apneystik markaz rasmda “?” bilan körsatilgan matnda batafsil berilmagan",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2057,9 +2057,9 @@
   },
   {
    "id": "ch42-t-adashgan-nerv",
-   "termUz": "adashgan nerv",
+   "termUz": "adaşgan nerv",
    "original": null,
-   "contextUz": "NTS adashgan nerv va til-halqum nervining sezuvchi tugash joyi.",
+   "contextUz": "NTS adaşgan nerv va til-halqum nervining sezuvçi tugaş joyi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2069,7 +2069,7 @@
    "id": "ch42-t-til-halqum-nervi",
    "termUz": "til-halqum nervi",
    "original": null,
-   "contextUz": "NTS adashgan nerv va til-halqum nervining sezuvchi tugash joyi.",
+   "contextUz": "NTS adaşgan nerv va til-halqum nervining sezuvçi tugaş joyi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2079,7 +2079,7 @@
    "id": "ch42-t-ritm-generatori",
    "termUz": "Ritm generatori",
    "original": null,
-   "contextUz": "Ritm generatori: barcha periferik nervlar kesilsa va miya stvoli uzunchoq miyadan yuqori va pastda kesilsa ham, bu guruh takroriy nafas olish impulslarini chiqarishda davom etadi.",
+   "contextUz": "Ritm generatori: barça periferik nervlar kesilsa va miya stvoli uzunçoq miyadan yuqori va pastda kesilsa ham, bu guruh takroriy nafas oliş impulslarini çiqarişda davom etadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2087,9 +2087,9 @@
   },
   {
    "id": "ch42-t-nafas-olishning-ramp-qiyalik-signali",
-   "termUz": "Nafas olishning \"ramp\" (qiyalik) signali",
+   "termUz": "Nafas olişning “ramp” (qiyalik) signali",
    "original": null,
-   "contextUz": "Nafas olishning \"ramp\" (qiyalik) signali: Signal kuchsiz boshlanib, ~2 s davomida tekis kuchayadi, keyin keskin to’xtaydi.",
+   "contextUz": "Nafas olişning “ramp” (qiyalik) signali: Signal kuçsiz boşlanib, ~2 s davomida tekis kuçayadi, keyin keskin töxtaydi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2099,7 +2099,7 @@
    "id": "ch42-t-2-s",
    "termUz": "2 s",
    "original": null,
-   "contextUz": "Nafas olishning \"ramp\" (qiyalik) signali: Signal kuchsiz boshlanib, ~2 s davomida tekis kuchayadi, keyin keskin to’xtaydi.",
+   "contextUz": "Nafas olişning “ramp” (qiyalik) signali: Signal kuçsiz boşlanib, ~2 s davomida tekis kuçayadi, keyin keskin töxtaydi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2109,7 +2109,7 @@
    "id": "ch42-t-3-s",
    "termUz": "3 s",
    "original": null,
-   "contextUz": "Keyingi ~3 s diafragma qo’zg’almaydi va elastik qaytish nafas chiqarishni ta’minlaydi.",
+   "contextUz": "Keyingi ~3 s diafragma qözğalmaydi va elastik qaytiş nafas çiqarişni ta’minlaydi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2117,9 +2117,9 @@
   },
   {
    "id": "ch42-t-ikki-narsa-boshqariladi",
-   "termUz": "Ikki narsa boshqariladi",
+   "termUz": "Ikki narsa boşqariladi",
    "original": null,
-   "contextUz": "Ikki narsa boshqariladi: Ko’tarilish tezligi: og’ir nafasda ramp tez ko’tariladi va o’pka tez to’ladi.",
+   "contextUz": "Ikki narsa boşqariladi: Kötariliş tezligi: oğir nafasda ramp tez kötariladi va öpka tez töladi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2127,9 +2127,9 @@
   },
   {
    "id": "ch42-t-kotarilish-tezligi",
-   "termUz": "Ko’tarilish tezligi",
+   "termUz": "Kötariliş tezligi",
    "original": null,
-   "contextUz": "Ikki narsa boshqariladi: Ko’tarilish tezligi: og’ir nafasda ramp tez ko’tariladi va o’pka tez to’ladi.",
+   "contextUz": "Ikki narsa boşqariladi: Kötariliş tezligi: oğir nafasda ramp tez kötariladi va öpka tez töladi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2137,9 +2137,9 @@
   },
   {
    "id": "ch42-t-toxtash-nuqtasi",
-   "termUz": "To’xtash nuqtasi",
+   "termUz": "Töxtaş nuqtasi",
    "original": null,
-   "contextUz": "To’xtash nuqtasi: odatda nafas tezligi shu bilan boshqariladi.",
+   "contextUz": "Töxtaş nuqtasi: odatda nafas tezligi şu bilan boşqariladi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2147,9 +2147,9 @@
   },
   {
    "id": "ch42-t-ochish-nuqtasi",
-   "termUz": "\"o’chish nuqtasi\"",
+   "termUz": "“öçiş nuqtasi”",
    "original": null,
-   "contextUz": "Ramp signalining \"o’chish nuqtasi\"ni boshqaradi.",
+   "contextUz": "Ramp signalining “öçiş nuqtasi”ni boşqaradi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2159,7 +2159,7 @@
    "id": "ch42-t-0-5-s",
    "termUz": "0,5 s",
    "original": null,
-   "contextUz": "Kuchli signal: nafas olish 0,5 s gacha qisqaradi, o’pka kam to’ladi.",
+   "contextUz": "Kuçli signal: nafas oliş 0,5 s gaça qisqaradi, öpka kam töladi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2169,7 +2169,7 @@
    "id": "ch42-t-5-s",
    "termUz": "≥5 s",
    "original": null,
-   "contextUz": "Kuchsiz signal: nafas olish ≥5 s davom etadi, o’pka ko’p to’ladi.",
+   "contextUz": "Kuçsiz signal: nafas oliş ≥5 s davom etadi, öpka köp töladi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2179,7 +2179,7 @@
    "id": "ch42-t-30-40-min",
    "termUz": "30–40/min",
    "original": null,
-   "contextUz": "Kuchli signalda 30–40/min, kuchsizda 3–5/min.",
+   "contextUz": "Kuçli signalda 30–40/min, kuçsizda 3–5/min.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2189,7 +2189,7 @@
    "id": "ch42-t-3-5-min",
    "termUz": "3–5/min",
    "original": null,
-   "contextUz": "Kuchli signalda 30–40/min, kuchsizda 3–5/min.",
+   "contextUz": "Kuçli signalda 30–40/min, kuçsizda 3–5/min.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2199,7 +2199,7 @@
    "id": "ch42-t-deyarli-nofaol",
    "termUz": "deyarli nofaol",
    "original": null,
-   "contextUz": "Tinch nafasda deyarli nofaol.",
+   "contextUz": "Tinç nafasda deyarli nofaol.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2207,9 +2207,9 @@
   },
   {
    "id": "ch42-t-qorin-mushaklari",
-   "termUz": "qorin mushaklari",
+   "termUz": "qorin muşaklari",
    "original": null,
-   "contextUz": "Og’ir nafas chiqarishda qorin mushaklariga kuchli signal beradi.",
+   "contextUz": "Oğir nafas çiqarişda qorin muşaklariga kuçli signal beradi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2217,9 +2217,9 @@
   },
   {
    "id": "ch42-t-chozilish-retseptorlari",
-   "termUz": "cho’zilish retseptorlari",
+   "termUz": "çöziliş retseptorlari",
    "original": null,
-   "contextUz": "Bronx va bronxiolalar devorining mushak qismida cho’zilish retseptorlari bor.",
+   "contextUz": "Bronx va bronxiolalar devorining muşak qismida çöziliş retseptorlari bor.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2229,7 +2229,7 @@
    "id": "ch42-t-odamda",
    "termUz": "Odamda",
    "original": null,
-   "contextUz": "Odamda faqat nafas hajmi normadan 3 marta ortganda (>~1,5 l) ishga tushadi.",
+   "contextUz": "Odamda faqat nafas hajmi normadan 3 marta ortganda (>~1,5 l) işga tuşadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2239,7 +2239,7 @@
    "id": "ch42-t-3-marta",
    "termUz": "3 marta",
    "original": null,
-   "contextUz": "Odamda faqat nafas hajmi normadan 3 marta ortganda (>~1,5 l) ishga tushadi.",
+   "contextUz": "Odamda faqat nafas hajmi normadan 3 marta ortganda (>~1,5 l) işga tuşadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2249,7 +2249,7 @@
    "id": "ch42-t-1-5-l",
    "termUz": ">~1,5 l",
    "original": null,
-   "contextUz": "Odamda faqat nafas hajmi normadan 3 marta ortganda (>~1,5 l) ishga tushadi.",
+   "contextUz": "Odamda faqat nafas hajmi normadan 3 marta ortganda (>~1,5 l) işga tuşadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2257,9 +2257,9 @@
   },
   {
    "id": "ch42-t-ortiqcha-kengayishdan-himoya",
-   "termUz": "ortiqcha kengayishdan himoya",
+   "termUz": "ortiqça kengayişdan himoya",
    "original": null,
-   "contextUz": "Demak asosan ortiqcha kengayishdan himoya, normal boshqaruvda muhim emas.",
+   "contextUz": "Demak asosan ortiqça kengayişdan himoya, normal boşqaruvda muhim emas.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2267,9 +2267,9 @@
   },
   {
    "id": "ch42-t-co-va-h-ortiqchasi",
-   "termUz": "CO₂ va H⁺ ortiqchasi",
+   "termUz": "CO₂ va H⁺ ortiqçasi",
    "original": null,
-   "contextUz": "CO₂ va H⁺ ortiqchasi asosan nafas markaziga bevosita ta’sir qilib, nafas olish va chiqarish signallarini kuchaytiradi.",
+   "contextUz": "CO₂ va H⁺ ortiqçasi asosan nafas markaziga bevosita ta’sir qilib, nafas oliş va çiqariş signallarini kuçaytiradi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2279,7 +2279,7 @@
    "id": "ch42-t-ventral-yuzasidan-atigi-0-2-mm",
    "termUz": "ventral yuzasidan atigi 0,2 mm",
    "original": null,
-   "contextUz": "Uzunchoq miya ventral yuzasidan atigi 0,2 mm chuqurlikda, ikki tomonda joylashgan.",
+   "contextUz": "Uzunçoq miya ventral yuzasidan atigi 0,2 mm çuqurlikda, ikki tomonda joylaşgan.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2289,7 +2289,7 @@
    "id": "ch42-t-h-asosiy-ehtimol-yagona-bevosita-stimul",
    "termUz": "H⁺ asosiy (ehtimol yagona) bevosita stimul.",
    "original": null,
-   "contextUz": "H⁺ asosiy (ehtimol yagona) bevosita stimul. Biroq H⁺ gematoensefalik to’siqdan yomon o’tadi.",
+   "contextUz": "H⁺ asosiy (ehtimol yagona) bevosita stimul. Biroq H⁺ gematoensefalik tösiqdan yomon ötadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2297,9 +2297,9 @@
   },
   {
    "id": "ch42-t-gematoensefalik-tosiq",
-   "termUz": "gematoensefalik to’siq",
+   "termUz": "gematoensefalik tösiq",
    "original": null,
-   "contextUz": " Biroq H⁺ gematoensefalik to’siqdan yomon o’tadi.",
+   "contextUz": " Biroq H⁺ gematoensefalik tösiqdan yomon ötadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2307,9 +2307,9 @@
   },
   {
    "id": "ch42-t-co-bilvosita-lekin-kuchli-tasir-qiladi",
-   "termUz": "CO₂ bilvosita, lekin kuchli ta’sir qiladi",
+   "termUz": "CO₂ bilvosita, lekin kuçli ta’sir qiladi",
    "original": null,
-   "contextUz": "CO₂ bilvosita, lekin kuchli ta’sir qiladi: CO₂ to’siqdan \"to’siq yo’qdek\" o’tadi.",
+   "contextUz": "CO₂ bilvosita, lekin kuçli ta’sir qiladi: CO₂ tösiqdan “tösiq yöqdek” ötadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2319,7 +2319,7 @@
    "id": "ch42-t-orqa-miya-suyuqligi",
    "termUz": "orqa miya suyuqligi",
    "original": null,
-   "contextUz": "Uzunchoq miya interstitsial suyuqligida va orqa miya suyuqligida CO₂ + H₂O → H₂CO₃ → H⁺ + HCO₃⁻.",
+   "contextUz": "Uzunçoq miya interstitsial suyuqligida va orqa miya suyuqligida CO₂ + H₂O → H₂CO₃ → H⁺ + HCO₃⁻.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2329,7 +2329,7 @@
    "id": "ch42-t-h",
    "termUz": "H⁺",
    "original": null,
-   "contextUz": "Uzunchoq miya interstitsial suyuqligida va orqa miya suyuqligida CO₂ + H₂O → H₂CO₃ → H⁺ + HCO₃⁻.",
+   "contextUz": "Uzunçoq miya interstitsial suyuqligida va orqa miya suyuqligida CO₂ + H₂O → H₂CO₃ → H⁺ + HCO₃⁻.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2339,7 +2339,7 @@
    "id": "ch42-t-paradoks",
    "termUz": "Paradoks",
    "original": null,
-   "contextUz": "Paradoks: qon CO₂ si ortganda xemosezgir sohaga qon H⁺ i ortgandagidan ko’proq H⁺ yetib keladi.",
+   "contextUz": "Paradoks: qon CO₂ si ortganda xemosezgir sohaga qon H⁺ i ortgandagidan köproq H⁺ yetib keladi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2347,9 +2347,9 @@
   },
   {
    "id": "ch42-t-koproq",
-   "termUz": "ko’proq",
+   "termUz": "köproq",
    "original": null,
-   "contextUz": "Paradoks: qon CO₂ si ortganda xemosezgir sohaga qon H⁺ i ortgandagidan ko’proq H⁺ yetib keladi.",
+   "contextUz": "Paradoks: qon CO₂ si ortganda xemosezgir sohaga qon H⁺ i ortgandagidan köproq H⁺ yetib keladi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2357,9 +2357,9 @@
   },
   {
    "id": "ch42-t-co-tasirining-1-2-kunda-susayishi",
-   "termUz": "CO₂ ta’sirining 1–2 kunda susayishi",
+   "termUz": "CO₂ ta’sirining 1–2 kunda susayişi",
    "original": null,
-   "contextUz": "CO₂ ta’sirining 1–2 kunda susayishi:",
+   "contextUz": "CO₂ ta’sirining 1–2 kunda susayişi:",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2369,7 +2369,7 @@
    "id": "ch42-t-1-5",
    "termUz": "~1/5",
    "original": null,
-   "contextUz": "Ta’sir dastlabki soatlarda kuchli, keyin 1–2 kun ichida dastlabki ta’sirning ~1/5 qismigacha kamayadi.",
+   "contextUz": "Ta’sir dastlabki soatlarda kuçli, keyin 1–2 kun içida dastlabki ta’sirning ~1/5 qismigaça kamayadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2379,7 +2379,7 @@
    "id": "ch42-t-sabablar",
    "termUz": "Sabablar",
    "original": null,
-   "contextUz": "Sabablar: Buyrak qondagi HCO₃⁻ ni oshiradi, u H⁺ ni bog’laydi.",
+   "contextUz": "Sabablar: Buyrak qondagi HCO₃⁻ ni oşiradi, u H⁺ ni boğlaydi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2389,7 +2389,7 @@
    "id": "ch42-t-xulosa",
    "termUz": "Xulosa",
    "original": null,
-   "contextUz": "Xulosa: CO₂ o’zgarishi kuchli o’tkir, lekin surunkali holatda kuchsiz ta’sirga ega.",
+   "contextUz": "Xulosa: CO₂ özgarişi kuçli ötkir, lekin surunkali holatda kuçsiz ta’sirga ega.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2397,9 +2397,9 @@
   },
   {
    "id": "ch42-t-otkir",
-   "termUz": "o’tkir",
+   "termUz": "ötkir",
    "original": null,
-   "contextUz": "Xulosa: CO₂ o’zgarishi kuchli o’tkir, lekin surunkali holatda kuchsiz ta’sirga ega.",
+   "contextUz": "Xulosa: CO₂ özgarişi kuçli ötkir, lekin surunkali holatda kuçsiz ta’sirga ega.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2409,7 +2409,7 @@
    "id": "ch42-t-surunkali",
    "termUz": "surunkali",
    "original": null,
-   "contextUz": "Xulosa: CO₂ o’zgarishi kuchli o’tkir, lekin surunkali holatda kuchsiz ta’sirga ega.",
+   "contextUz": "Xulosa: CO₂ özgarişi kuçli ötkir, lekin surunkali holatda kuçsiz ta’sirga ega.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2429,7 +2429,7 @@
    "id": "ch42-t-35-75-mm-hg",
    "termUz": "35–75 mm Hg",
    "original": null,
-   "contextUz": "PCO₂ ning 35–75 mm Hg oralig’ida ventilyatsiya keskin ortadi (~10 marta gacha).",
+   "contextUz": "PCO₂ ning 35–75 mm Hg oraliğida ventilyatsiya keskin ortadi (~10 marta gaça).",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2439,7 +2439,7 @@
    "id": "ch42-t-10",
    "termUz": "<10%",
    "original": null,
-   "contextUz": "pH ning normal oralig’idagi (7,3–7,5) o’zgarishi ventilyatsiyaga bundan <10% ta’sir qiladi.",
+   "contextUz": "pH ning normal oraliğidagi (7,3–7,5) özgarişi ventilyatsiyaga bundan <10% ta’sir qiladi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2447,9 +2447,9 @@
   },
   {
    "id": "ch42-t-o-ning-markazga-bevosita-tasiri-yoq",
-   "termUz": "O₂ ning markazga bevosita ta’siri yo’q.",
+   "termUz": "O₂ ning markazga bevosita ta’siri yöq.",
    "original": null,
-   "contextUz": "O₂ ning markazga bevosita ta’siri yo’q. Gemoglobin-O₂ buferi o’pka PO₂ si 60 dan 1000 mm Hg gacha o’zgarganda ham to’qimaga normal O₂ yetkazadi.",
+   "contextUz": "O₂ ning markazga bevosita ta’siri yöq. Gemoglobin-O₂ buferi öpka PO₂ si 60 dan 1000 mm Hg gaça özgarganda ham töqimaga normal O₂ yetkazadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2459,7 +2459,7 @@
    "id": "ch42-t-60-dan-1000-mm-hg",
    "termUz": "60 dan 1000 mm Hg",
    "original": null,
-   "contextUz": " Gemoglobin-O₂ buferi o’pka PO₂ si 60 dan 1000 mm Hg gacha o’zgarganda ham to’qimaga normal O₂ yetkazadi.",
+   "contextUz": " Gemoglobin-O₂ buferi öpka PO₂ si 60 dan 1000 mm Hg gaça özgarganda ham töqimaga normal O₂ yetkazadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2467,9 +2467,9 @@
   },
   {
    "id": "ch42-t-joylashuvi",
-   "termUz": "Joylashuvi",
+   "termUz": "Joylaşuvi",
    "original": null,
-   "contextUz": "Joylashuvi:",
+   "contextUz": "Joylaşuvi:",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2479,7 +2479,7 @@
    "id": "ch42-t-hering-nervi",
    "termUz": "Hering nervi",
    "original": null,
-   "contextUz": "Karotid tanachalar Aortal tanachalar Joyi umumiy uyqu arteriyasi bifurkatsiyasi, ikki tomonda aorta ravog’i bo’ylab Afferent yo’l Hering nervi, keyin til-halqum nervi, keyin dorsal guruh adashgan nerv, keyin dorsal guruh Ahamiyati xemoretseptorlarning ko’pchiligi oz",
+   "contextUz": "Karotid tanaçalar Aortal tanaçalar Joyi umumiy uyqu arteriyasi bifurkatsiyasi, ikki tomonda aorta ravoği böylab Afferent yöl Hering nervi, keyin til-halqum nervi, keyin dorsal guruh adaşgan nerv, keyin dorsal guruh Ahamiyati xemoretseptorlarning köpçiligi oz",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2487,9 +2487,9 @@
   },
   {
    "id": "ch42-t-kopchiligi",
-   "termUz": "ko’pchiligi",
+   "termUz": "köpçiligi",
    "original": null,
-   "contextUz": "Karotid tanachalar Aortal tanachalar Joyi umumiy uyqu arteriyasi bifurkatsiyasi, ikki tomonda aorta ravog’i bo’ylab Afferent yo’l Hering nervi, keyin til-halqum nervi, keyin dorsal guruh adashgan nerv, keyin dorsal guruh Ahamiyati xemoretseptorlarning ko’pchiligi oz",
+   "contextUz": "Karotid tanaçalar Aortal tanaçalar Joyi umumiy uyqu arteriyasi bifurkatsiyasi, ikki tomonda aorta ravoği böylab Afferent yöl Hering nervi, keyin til-halqum nervi, keyin dorsal guruh adaşgan nerv, keyin dorsal guruh Ahamiyati xemoretseptorlarning köpçiligi oz",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2499,7 +2499,7 @@
    "id": "ch42-t-qon-taminoti",
    "termUz": "Qon ta’minoti",
    "original": null,
-   "contextUz": "Qon ta’minoti: har bir tanacha qo’shni arterial tanadan maxsus mayda arteriya oladi.",
+   "contextUz": "Qon ta’minoti: har bir tanaça qöşni arterial tanadan maxsus mayda arteriya oladi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2509,7 +2509,7 @@
    "id": "ch42-t-20-marta",
    "termUz": "20 marta",
    "original": null,
-   "contextUz": "Daqiqasiga o’z og’irligidan 20 marta ko’p qon oqadi.",
+   "contextUz": "Daqiqasiga öz oğirligidan 20 marta köp qon oqadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2519,7 +2519,7 @@
    "id": "ch42-t-arterial",
    "termUz": "arterial",
    "original": null,
-   "contextUz": "Shuning uchun undan O₂ deyarli olinmaydi va tanacha doimo arterial PO₂ ni sezadi.",
+   "contextUz": "Şuning uçun undan O₂ deyarli olinmaydi va tanaça doimo arterial PO₂ ni sezadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2529,7 +2529,7 @@
    "id": "ch42-t-past-po-ga-javob",
    "termUz": "Past PO₂ ga javob",
    "original": null,
-   "contextUz": "Past PO₂ ga javob: Arterial O₂ normadan pasaysa, tanachalar kuchli qo’zg’aladi.",
+   "contextUz": "Past PO₂ ga javob: Arterial O₂ normadan pasaysa, tanaçalar kuçli qözğaladi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2539,7 +2539,7 @@
    "id": "ch42-t-po-60-dan-30-mm-hg",
    "termUz": "PO₂ 60 dan 30 mm Hg",
    "original": null,
-   "contextUz": "Impuls chastotasi ayniqsa PO₂ 60 dan 30 mm Hg gacha bo’lgan oraliqda sezgir.",
+   "contextUz": "Impuls çastotasi ayniqsa PO₂ 60 dan 30 mm Hg gaça bölgan oraliqda sezgir.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2559,7 +2559,7 @@
    "id": "ch42-t-o-ga-sezgir-k-kanallari",
    "termUz": "O₂ ga sezgir K⁺ kanallari",
    "original": null,
-   "contextUz": "PO₂ ~60 mm Hg dan pastga tushadi va O₂ ga sezgir K⁺ kanallari yopiladi (mexanizmi hali aniq emas).",
+   "contextUz": "PO₂ ~60 mm Hg dan pastga tuşadi va O₂ ga sezgir K⁺ kanallari yopiladi (mexanizmi hali aniq emas).",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2567,9 +2567,9 @@
   },
   {
    "id": "ch42-t-potensialga-bogliq-ca-kanallari",
-   "termUz": "Potensialga bog’liq Ca²⁺ kanallari",
+   "termUz": "Potensialga boğliq Ca²⁺ kanallari",
    "original": null,
-   "contextUz": "Potensialga bog’liq Ca²⁺ kanallari ochiladi, sitozolda Ca²⁺ ortadi.",
+   "contextUz": "Potensialga boğliq Ca²⁺ kanallari oçiladi, sitozolda Ca²⁺ ortadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2579,7 +2579,7 @@
    "id": "ch42-t-atp",
    "termUz": "ATP",
    "original": null,
-   "contextUz": "Ilgari dofamin yoki ACh deb taxmin qilingan; yangi ma’lumotlarga ko’ra asosiysi ATP.",
+   "contextUz": "Ilgari dofamin yoki ACh deb taxmin qilingan; yangi ma’lumotlarga köra asosiysi ATP.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2599,7 +2599,7 @@
    "id": "ch42-t-7-marta",
    "termUz": "~7 marta",
    "original": null,
-   "contextUz": "Periferik retseptorlar CO₂ va H⁺ ga ham sezgir, lekin markaziy ta’sir ~7 marta kuchliroq.",
+   "contextUz": "Periferik retseptorlar CO₂ va H⁺ ga ham sezgir, lekin markaziy ta’sir ~7 marta kuçliroq.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2619,7 +2619,7 @@
    "id": "ch42-t-2-marta",
    "termUz": "2 marta",
    "original": null,
-   "contextUz": "Arterial PO₂ Ventilyatsiya >100 mm Hg deyarli o’zgarmaydi 60 mm Hg ~2 marta juda past (~20 mm Hg) 5–6 martagacha",
+   "contextUz": "Arterial PO₂ Ventilyatsiya >100 mm Hg deyarli özgarmaydi 60 mm Hg ~2 marta juda past (~20 mm Hg) 5–6 martagaça",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2627,9 +2627,9 @@
   },
   {
    "id": "ch42-t-5-6-martagacha",
-   "termUz": "5–6 martagacha",
+   "termUz": "5–6 martagaça",
    "original": null,
-   "contextUz": "Arterial PO₂ Ventilyatsiya >100 mm Hg deyarli o’zgarmaydi 60 mm Hg ~2 marta juda past (~20 mm Hg) 5–6 martagacha",
+   "contextUz": "Arterial PO₂ Ventilyatsiya >100 mm Hg deyarli özgarmaydi 60 mm Hg ~2 marta juda past (~20 mm Hg) 5–6 martagaça",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2639,7 +2639,7 @@
    "id": "ch42-t-60-80-mm-hg",
    "termUz": "60–80 mm Hg",
    "original": null,
-   "contextUz": "PO₂ 60–80 mm Hg dan yuqori bo’lganda gipoksiya ta’siri kam.",
+   "contextUz": "PO₂ 60–80 mm Hg dan yuqori bölganda gipoksiya ta’siri kam.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2649,7 +2649,7 @@
    "id": "ch42-t-pco-va-h",
    "termUz": "PCO₂ va H⁺",
    "original": null,
-   "contextUz": "Shuning uchun dengiz sathidagi sog’lom odamda ventilyatsiyani asosan PCO₂ va H⁺ boshqaradi.",
+   "contextUz": "Şuning uçun dengiz sathidagi soğlom odamda ventilyatsiyani asosan PCO₂ va H⁺ boşqaradi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2659,7 +2659,7 @@
    "id": "ch42-t-sekin",
    "termUz": "sekin",
    "original": "kunlar davomida",
-   "contextUz": "Toqqa sekin (kunlar davomida) chiqqan alpinist chuqurroq nafas oladi va ancha past O₂ ga chidaydi.",
+   "contextUz": "Toqqa sekin (kunlar davomida) çiqqan alpinist çuqurroq nafas oladi va ança past O₂ ga çidaydi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2669,7 +2669,7 @@
    "id": "ch42-t-sababi",
    "termUz": "Sababi",
    "original": null,
-   "contextUz": "Sababi: 2–3 kun ichida nafas markazi PCO₂ va H⁺ ga sezgirligining ~80% ini yo’qotadi.",
+   "contextUz": "Sababi: 2–3 kun içida nafas markazi PCO₂ va H⁺ ga sezgirligining ~80% ini yöqotadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2679,7 +2679,7 @@
    "id": "ch42-t-80",
    "termUz": "~80%",
    "original": null,
-   "contextUz": "Sababi: 2–3 kun ichida nafas markazi PCO₂ va H⁺ ga sezgirligining ~80% ini yo’qotadi.",
+   "contextUz": "Sababi: 2–3 kun içida nafas markazi PCO₂ va H⁺ ga sezgirligining ~80% ini yöqotadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2689,7 +2689,7 @@
    "id": "ch42-t-natija",
    "termUz": "Natija",
    "original": null,
-   "contextUz": "Natija: o’tkir gipoksiyada ventilyatsiya ~70% ortadi, 2–3 kundan keyin 400–500% ortadi (44-bob).",
+   "contextUz": "Natija: ötkir gipoksiyada ventilyatsiya ~70% ortadi, 2–3 kundan keyin 400–500% ortadi (44-bob).",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2699,7 +2699,7 @@
    "id": "ch42-t-70",
    "termUz": "70%",
    "original": null,
-   "contextUz": "Natija: o’tkir gipoksiyada ventilyatsiya ~70% ortadi, 2–3 kundan keyin 400–500% ortadi (44-bob).",
+   "contextUz": "Natija: ötkir gipoksiyada ventilyatsiya ~70% ortadi, 2–3 kundan keyin 400–500% ortadi (44-bob).",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2709,7 +2709,7 @@
    "id": "ch42-t-400-500",
    "termUz": "400–500%",
    "original": null,
-   "contextUz": "Natija: o’tkir gipoksiyada ventilyatsiya ~70% ortadi, 2–3 kundan keyin 400–500% ortadi (44-bob).",
+   "contextUz": "Natija: ötkir gipoksiyada ventilyatsiya ~70% ortadi, 2–3 kundan keyin 400–500% ortadi (44-bob).",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2717,9 +2717,9 @@
   },
   {
    "id": "ch42-t-20-martagacha",
-   "termUz": "20 martagacha",
+   "termUz": "20 martagaça",
    "original": null,
-   "contextUz": "Og’ir ishda O₂ iste’moli va CO₂ hosil bo’lishi 20 martagacha ortadi.",
+   "contextUz": "Oğir işda O₂ iste’moli va CO₂ hosil bölişi 20 martagaça ortadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2729,7 +2729,7 @@
    "id": "ch42-t-po-pco-va-ph-deyarli-normal",
    "termUz": "PO₂, PCO₂ va pH deyarli normal",
    "original": null,
-   "contextUz": "Arterial PO₂, PCO₂ va pH deyarli normal qoladi, demak ular stimul bo’la olmaydi.",
+   "contextUz": "Arterial PO₂, PCO₂ va pH deyarli normal qoladi, demak ular stimul böla olmaydi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2739,7 +2739,7 @@
    "id": "ch42-t-asosiy-mexanizm-neyrogen",
    "termUz": "Asosiy mexanizm, neyrogen",
    "original": null,
-   "contextUz": "Asosiy mexanizm, neyrogen: miya mushaklarga motor impulslar yuborganda, kollateral impulslarni miya stvolidagi nafas markaziga ham yuboradi.",
+   "contextUz": "Asosiy mexanizm, neyrogen: miya muşaklarga motor impulslar yuborganda, kollateral impulslarni miya stvolidagi nafas markaziga ham yuboradi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2749,7 +2749,7 @@
    "id": "ch42-t-darhol",
    "termUz": "darhol",
    "original": null,
-   "contextUz": "Ventilyatsiya ortishining katta qismi ish boshlanishi bilan darhol, qon kimyosi o’zgarishidan oldin boshlanadi.",
+   "contextUz": "Ventilyatsiya ortişining katta qismi iş boşlanişi bilan darhol, qon kimyosi özgarişidan oldin boşlanadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2757,9 +2757,9 @@
   },
   {
    "id": "ch42-t-kimyoviy-va-nerv-omillarining-ozaro-tasiri-rasm-42-10",
-   "termUz": "Kimyoviy va nerv omillarining o’zaro ta’siri (rasm 42-10)",
+   "termUz": "Kimyoviy va nerv omillarining özaro ta’siri (rasm 42-10)",
    "original": null,
-   "contextUz": "Kimyoviy va nerv omillarining o’zaro ta’siri (rasm 42-10):",
+   "contextUz": "Kimyoviy va nerv omillarining özaro ta’siri (rasm 42-10):",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2769,7 +2769,7 @@
    "id": "ch42-t-normadan-pastga",
    "termUz": "normadan pastga",
    "original": null,
-   "contextUz": "Ish boshida ventilyatsiya deyarli bir zumda ortadi, PCO₂ esa avval normadan pastga tushadi.",
+   "contextUz": "Iş boşida ventilyatsiya deyarli bir zumda ortadi, PCO₂ esa avval normadan pastga tuşadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2777,9 +2777,9 @@
   },
   {
    "id": "ch42-t-oldindan-anticipatory",
-   "termUz": "\"oldindan\" (anticipatory)",
+   "termUz": "“oldindan” (anticipatory)",
    "original": null,
-   "contextUz": "Bu miyaning \"oldindan\" (anticipatory) stimulyatsiyasi.",
+   "contextUz": "Bu miyaning “oldindan” (anticipatory) stimulyatsiyasi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2789,7 +2789,7 @@
    "id": "ch42-t-30-40-s",
    "termUz": "30–40 s",
    "original": null,
-   "contextUz": "30–40 s dan keyin mushaklardan chiqqan CO₂ ventilyatsiyaga tenglashadi va PCO₂ normaga qaytadi.",
+   "contextUz": "30–40 s dan keyin muşaklardan çiqqan CO₂ ventilyatsiyaga tenglaşadi va PCO₂ normaga qaytadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2809,7 +2809,7 @@
    "id": "ch42-t-20-marta",
    "termUz": "~20 marta",
    "original": null,
-   "contextUz": "Neyrogen omil ventilyatsiya-PCO₂ egri chizig’ini ~20 marta yuqoriga siljitadi.",
+   "contextUz": "Neyrogen omil ventilyatsiya-PCO₂ egri çiziğini ~20 marta yuqoriga siljitadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2817,9 +2817,9 @@
   },
   {
    "id": "ch42-t-qisman-organilgan-javob",
-   "termUz": "Qisman o’rganilgan javob",
+   "termUz": "Qisman örganilgan javob",
    "original": null,
-   "contextUz": "Qisman o’rganilgan javob: takroriy mashqlar bilan miya PCO₂ ni normal ushlash uchun to’g’ri signal berishni yaxshiroq o’rganadi.",
+   "contextUz": "Qisman örganilgan javob: takroriy maşqlar bilan miya PCO₂ ni normal uşlaş uçun töğri signal berişni yaxşiroq örganadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2827,9 +2827,9 @@
   },
   {
    "id": "ch42-t-havo-yoli-irritant-retseptorlari",
-   "termUz": "Havo yo’li irritant retseptorlari",
+   "termUz": "Havo yöli irritant retseptorlari",
    "original": "traxeya, bronx va bronxiolalar epiteliysida",
-   "contextUz": "Havo yo’li irritant retseptorlari (traxeya, bronx va bronxiolalar epiteliysida): yo’tal va aksirishni chaqiradi; astma va emfizemada bronx torayishiga sabab bo’lishi mumkin.",
+   "contextUz": "Havo yöli irritant retseptorlari (traxeya, bronx va bronxiolalar epiteliysida): yötal va aksirişni çaqiradi; astma va emfizemada bronx torayişiga sabab bölişi mumkin.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2838,8 +2838,8 @@
   {
    "id": "ch42-t-j-retseptorlar",
    "termUz": "J retseptorlar",
-   "original": "alveola devorida, kapillyarlar yonida, \"juxtacapillary\"",
-   "contextUz": "J retseptorlar (alveola devorida, kapillyarlar yonida, \"juxtacapillary\"): o’pka kapillyarlari qonga to’lganda yoki o’pka shishida (dimlanishli yurak yetishmovchiligi) qo’zg’aladi.",
+   "original": "alveola devorida, kapillyarlar yonida, “juxtacapillary”",
+   "contextUz": "J retseptorlar (alveola devorida, kapillyarlar yonida, “juxtacapillary”): öpka kapillyarlari qonga tölganda yoki öpka şişida (dimlanişli yurak yetişmovçiligi) qözğaladi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2847,9 +2847,9 @@
   },
   {
    "id": "ch42-t-hansirash-dispnoe",
-   "termUz": "hansirash (dispnoe)",
+   "termUz": "hansiraş (dispnoe)",
    "original": null,
-   "contextUz": "Vazifasi aniq emas, ehtimol hansirash (dispnoe) hissini beradi.",
+   "contextUz": "Vazifasi aniq emas, ehtimol hansiraş (dispnoe) hissini beradi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2857,9 +2857,9 @@
   },
   {
    "id": "ch42-t-miya-shishi",
-   "termUz": "Miya shishi",
+   "termUz": "Miya şişi",
    "original": null,
-   "contextUz": "Miya shishi: miya chayqalishidan keyin shishgan to’qima miya arteriyalarini kalla suyagiga siqib, qon ta’minotini qisman to’sadi.",
+   "contextUz": "Miya şişi: miya çayqalişidan keyin şişgan töqima miya arteriyalarini kalla suyagiga siqib, qon ta’minotini qisman tösadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2869,7 +2869,7 @@
    "id": "ch42-t-davo",
    "termUz": "Davo",
    "original": null,
-   "contextUz": "Davo: vena ichiga gipertonik eritma (masalan, konsentrlangan mannitol).",
+   "contextUz": "Davo: vena içiga gipertonik eritma (masalan, konsentrlangan mannitol).",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2879,7 +2879,7 @@
    "id": "ch42-t-gipertonik-eritma",
    "termUz": "gipertonik eritma",
    "original": "masalan, konsentrlangan **mannitol**",
-   "contextUz": "Davo: vena ichiga gipertonik eritma (masalan, konsentrlangan mannitol).",
+   "contextUz": "Davo: vena içiga gipertonik eritma (masalan, konsentrlangan mannitol).",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2887,9 +2887,9 @@
   },
   {
    "id": "ch42-t-anestetik-va-narkotiklar-dozasini-oshirib-yuborish",
-   "termUz": "Anestetik va narkotiklar dozasini oshirib yuborish",
+   "termUz": "Anestetik va narkotiklar dozasini oşirib yuboriş",
    "original": null,
-   "contextUz": "Anestetik va narkotiklar dozasini oshirib yuborish: nafas depressiyasi va to’xtashining eng ko’p sababi.",
+   "contextUz": "Anestetik va narkotiklar dozasini oşirib yuboriş: nafas depressiyasi va töxtaşining eng köp sababi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2899,7 +2899,7 @@
    "id": "ch42-t-natriy-pentobarbital",
    "termUz": "Natriy pentobarbital",
    "original": null,
-   "contextUz": "Natriy pentobarbital nafas markazini ko’p boshqa anestetiklardan (masalan, galotan) kuchliroq tormozlaydi.",
+   "contextUz": "Natriy pentobarbital nafas markazini köp boşqa anestetiklardan (masalan, galotan) kuçliroq tormozlaydi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2909,7 +2909,7 @@
    "id": "ch42-t-morfin",
    "termUz": "Morfin",
    "original": null,
-   "contextUz": "Morfin nafas markazini kuchli tormozlaydi, lekin po’stloqni kam anesteziyalaydi, shuning uchun faqat qo’shimcha sifatida ishlatiladi.",
+   "contextUz": "Morfin nafas markazini kuçli tormozlaydi, lekin pöstloqni kam anesteziyalaydi, şuning uçun faqat qöşimça sifatida işlatiladi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2919,7 +2919,7 @@
    "id": "ch42-t-opioidlar",
    "termUz": "Opioidlar",
    "original": null,
-   "contextUz": "Opioidlar dunyo bo’yicha dori overdozasi o’limlarining katta qismiga sabab.",
+   "contextUz": "Opioidlar dunyo böyiça dori overdozasi ölimlarining katta qismiga sabab.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2929,7 +2929,7 @@
    "id": "ch42-t-40-60-s",
    "termUz": "40–60 s",
    "original": null,
-   "contextUz": "Nafas har 40–60 s da sekin kuchayib va susayib turadi (rasm 42-12).",
+   "contextUz": "Nafas har 40–60 s da sekin kuçayib va susayib turadi (rasm 42-12).",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2939,7 +2939,7 @@
    "id": "ch42-t-mexanizm",
    "termUz": "Mexanizm",
    "original": null,
-   "contextUz": "Mexanizm: Odam ortiqcha nafas oladi, o’pka qonida CO₂ kamayadi, O₂ ortadi.",
+   "contextUz": "Mexanizm: Odam ortiqça nafas oladi, öpka qonida CO₂ kamayadi, O₂ ortadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2947,9 +2947,9 @@
   },
   {
    "id": "ch42-t-haddan-tashqari",
-   "termUz": "haddan tashqari",
+   "termUz": "haddan taşqari",
    "original": null,
-   "contextUz": "Qon miyaga yetganda markaz haddan tashqari tormozlanadi va teskari tsikl boshlanadi: CO₂ to’planadi, O₂ kamayadi.",
+   "contextUz": "Qon miyaga yetganda markaz haddan taşqari tormozlanadi va teskari tsikl boşlanadi: CO₂ töplanadi, O₂ kamayadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2957,9 +2957,9 @@
   },
   {
    "id": "ch42-t-sondiriladi",
-   "termUz": "so’ndiriladi",
+   "termUz": "söndiriladi",
    "original": "damped",
-   "contextUz": "Bu mexanizm hammada bor, lekin normalda kuchli so’ndiriladi (damped).",
+   "contextUz": "Bu mexanizm hammada bor, lekin normalda kuçli söndiriladi (damped).",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2967,9 +2967,9 @@
   },
   {
    "id": "ch42-t-sondirish-yengiladigan-ikki-holat",
-   "termUz": "So’ndirish yengiladigan ikki holat",
+   "termUz": "Söndiriş yengiladigan ikki holat",
    "original": null,
-   "contextUz": "So’ndirish yengiladigan ikki holat: O’pkadan miyaga qon tashilishi uzoq kechikadi.",
+   "contextUz": "Söndiriş yengiladigan ikki holat: Öpkadan miyaga qon taşilişi uzoq keçikadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2977,9 +2977,9 @@
   },
   {
    "id": "ch42-t-opkadan-miyaga-qon-tashilishi-uzoq-kechikadi",
-   "termUz": "O’pkadan miyaga qon tashilishi uzoq kechikadi.",
+   "termUz": "Öpkadan miyaga qon taşilişi uzoq keçikadi.",
    "original": null,
-   "contextUz": "So’ndirish yengiladigan ikki holat: O’pkadan miyaga qon tashilishi uzoq kechikadi. Og’ir yurak yetishmovchiligida qon sekin oqadi.",
+   "contextUz": "Söndiriş yengiladigan ikki holat: Öpkadan miyaga qon taşilişi uzoq keçikadi. Oğir yurak yetişmovçiligida qon sekin oqadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2987,9 +2987,9 @@
   },
   {
    "id": "ch42-t-yurak-yetishmovchiligi",
-   "termUz": "yurak yetishmovchiligi",
+   "termUz": "yurak yetişmovçiligi",
    "original": null,
-   "contextUz": " Og’ir yurak yetishmovchiligida qon sekin oqadi.",
+   "contextUz": " Oğir yurak yetişmovçiligida qon sekin oqadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -2997,9 +2997,9 @@
   },
   {
    "id": "ch42-t-teskari-aloqa-kuchayishi-ortadi",
-   "termUz": "Teskari aloqa kuchayishi ortadi.",
+   "termUz": "Teskari aloqa kuçayişi ortadi.",
    "original": null,
-   "contextUz": "Teskari aloqa kuchayishi ortadi. PCO₂ 3 mm Hg ga ortganda ventilyatsiya normal 2–3 marta o’rniga 10–20 marta ortadi.",
+   "contextUz": "Teskari aloqa kuçayişi ortadi. PCO₂ 3 mm Hg ga ortganda ventilyatsiya normal 2–3 marta örniga 10–20 marta ortadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -3009,7 +3009,7 @@
    "id": "ch42-t-10-20-marta",
    "termUz": "10–20 marta",
    "original": null,
-   "contextUz": " PCO₂ 3 mm Hg ga ortganda ventilyatsiya normal 2–3 marta o’rniga 10–20 marta ortadi.",
+   "contextUz": " PCO₂ 3 mm Hg ga ortganda ventilyatsiya normal 2–3 marta örniga 10–20 marta ortadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -3017,9 +3017,9 @@
   },
   {
    "id": "ch42-t-nafas-markazi-shikastlanishi",
-   "termUz": "nafas markazi shikastlanishi",
+   "termUz": "nafas markazi şikastlanişi",
    "original": null,
-   "contextUz": "Bu asosan nafas markazi shikastlanishida bo’ladi.",
+   "contextUz": "Bu asosan nafas markazi şikastlanişida böladi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -3027,9 +3027,9 @@
   },
   {
    "id": "ch42-t-miya-faoliyati-buzilishidan-olimning-darakchisi",
-   "termUz": "miya faoliyati buzilishidan o’limning darakchisi",
+   "termUz": "miya faoliyati buzilişidan ölimning darakçisi",
    "original": null,
-   "contextUz": "Ko’pincha miya faoliyati buzilishidan o’limning darakchisi.",
+   "contextUz": "Köpinça miya faoliyati buzilişidan ölimning darakçisi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -3039,7 +3039,7 @@
    "id": "ch42-t-miyadagi",
    "termUz": "miyadagi",
    "original": null,
-   "contextUz": "Nafas chuqurligi o’pka qonidagi emas, miyadagi PCO₂ ga mos keladi.",
+   "contextUz": "Nafas çuqurligi öpka qonidagi emas, miyadagi PCO₂ ga mos keladi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -3049,7 +3049,7 @@
    "id": "ch42-t-apnoe",
    "termUz": "Apnoe",
    "original": null,
-   "contextUz": "Apnoe spontan nafasning yo’qligi.",
+   "contextUz": "Apnoe spontan nafasning yöqligi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -3059,7 +3059,7 @@
    "id": "ch42-t-10-s",
    "termUz": "≥10 s",
    "original": null,
-   "contextUz": "Uyqu apnoesida epizodlar ≥10 s davom etadi va kechasiga 300–500 marta takrorlanadi.",
+   "contextUz": "Uyqu apnoesida epizodlar ≥10 s davom etadi va keçasiga 300–500 marta takrorlanadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -3069,7 +3069,7 @@
    "id": "ch42-t-300-500-marta",
    "termUz": "300–500 marta",
    "original": null,
-   "contextUz": "Uyqu apnoesida epizodlar ≥10 s davom etadi va kechasiga 300–500 marta takrorlanadi.",
+   "contextUz": "Uyqu apnoesida epizodlar ≥10 s davom etadi va keçasiga 300–500 marta takrorlanadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -3079,7 +3079,7 @@
    "id": "ch42-t-butunlay-yopiladi",
    "termUz": "butunlay yopiladi",
    "original": null,
-   "contextUz": "Odatda yo’l yetarlicha ochiq qoladi, lekin tor yo’li bor odamlarda halqum butunlay yopiladi.",
+   "contextUz": "Odatda yöl yetarliça oçiq qoladi, lekin tor yöli bor odamlarda halqum butunlay yopiladi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -3089,7 +3089,7 @@
    "id": "ch42-t-klinika",
    "termUz": "Klinika",
    "original": null,
-   "contextUz": "Klinika: Uxlagandan keyin tez orada baland xurrak va qiyin nafas boshlanadi.",
+   "contextUz": "Klinika: Uxlagandan keyin tez orada baland xurrak va qiyin nafas boşlanadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -3099,7 +3099,7 @@
    "id": "ch42-t-oqibatlari",
    "termUz": "Oqibatlari",
    "original": null,
-   "contextUz": "Oqibatlari: kunduzgi uyquchanlik, simpatik faollik ortishi, yurak urishi tezlashishi, o’pka va tizimli gipertenziya, yurak-qon tomir kasalliklari xavfining keskin ortishi.",
+   "contextUz": "Oqibatlari: kunduzgi uyquçanlik, simpatik faollik ortişi, yurak urişi tezlaşişi, öpka va tizimli gipertenziya, yurak-qon tomir kasalliklari xavfining keskin ortişi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -3107,9 +3107,9 @@
   },
   {
    "id": "ch42-t-opka-va-tizimli-gipertenziya",
-   "termUz": "o’pka va tizimli gipertenziya",
+   "termUz": "öpka va tizimli gipertenziya",
    "original": null,
-   "contextUz": "Oqibatlari: kunduzgi uyquchanlik, simpatik faollik ortishi, yurak urishi tezlashishi, o’pka va tizimli gipertenziya, yurak-qon tomir kasalliklari xavfining keskin ortishi.",
+   "contextUz": "Oqibatlari: kunduzgi uyquçanlik, simpatik faollik ortişi, yurak urişi tezlaşişi, öpka va tizimli gipertenziya, yurak-qon tomir kasalliklari xavfining keskin ortişi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -3129,7 +3129,7 @@
    "id": "ch42-t-jarrohlik",
    "termUz": "Jarrohlik",
    "original": null,
-   "contextUz": "Davo: Jarrohlik: tomoq orqasidagi ortiqcha yog’ni olib tashlash (uvulopalatofaringoplastika), bodomcha yoki adenoidlarni olib tashlash, yoki traxeostomiya.",
+   "contextUz": "Davo: Jarrohlik: tomoq orqasidagi ortiqça yoğni olib taşlaş (uvulopalatofaringoplastika), bodomça yoki adenoidlarni olib taşlaş, yoki traxeostomiya.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -3139,7 +3139,7 @@
    "id": "ch42-t-uvulopalatofaringoplastika",
    "termUz": "uvulopalatofaringoplastika",
    "original": null,
-   "contextUz": "Davo: Jarrohlik: tomoq orqasidagi ortiqcha yog’ni olib tashlash (uvulopalatofaringoplastika), bodomcha yoki adenoidlarni olib tashlash, yoki traxeostomiya.",
+   "contextUz": "Davo: Jarrohlik: tomoq orqasidagi ortiqça yoğni olib taşlaş (uvulopalatofaringoplastika), bodomça yoki adenoidlarni olib taşlaş, yoki traxeostomiya.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -3149,7 +3149,7 @@
    "id": "ch42-t-traxeostomiya",
    "termUz": "traxeostomiya",
    "original": null,
-   "contextUz": "Davo: Jarrohlik: tomoq orqasidagi ortiqcha yog’ni olib tashlash (uvulopalatofaringoplastika), bodomcha yoki adenoidlarni olib tashlash, yoki traxeostomiya.",
+   "contextUz": "Davo: Jarrohlik: tomoq orqasidagi ortiqça yoğni olib taşlaş (uvulopalatofaringoplastika), bodomça yoki adenoidlarni olib taşlaş, yoki traxeostomiya.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -3177,9 +3177,9 @@
   },
   {
    "id": "ch42-t-tarqalishi",
-   "termUz": "Tarqalishi",
+   "termUz": "Tarqalişi",
    "original": null,
-   "contextUz": "Tarqalishi: aralash tur ~15%, sof markaziy <1%.",
+   "contextUz": "Tarqalişi: aralaş tur ~15%, sof markaziy <1%.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -3189,7 +3189,7 @@
    "id": "ch42-t-15",
    "termUz": "15%",
    "original": null,
-   "contextUz": "Tarqalishi: aralash tur ~15%, sof markaziy <1%.",
+   "contextUz": "Tarqalişi: aralaş tur ~15%, sof markaziy <1%.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -3199,7 +3199,7 @@
    "id": "ch42-t-1",
    "termUz": "<1%",
    "original": null,
-   "contextUz": "Tarqalishi: aralash tur ~15%, sof markaziy <1%.",
+   "contextUz": "Tarqalişi: aralaş tur ~15%, sof markaziy <1%.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -3207,9 +3207,9 @@
   },
   {
    "id": "ch42-t-nafasni-ushlash-rekordi",
-   "termUz": "Nafasni ushlash rekordi",
+   "termUz": "Nafasni uşlaş rekordi",
    "original": "tinch holat, oldindan toza O₂ bilan giperventilyatsiyasiz",
-   "contextUz": "Nafasni ushlash rekordi (tinch holat, oldindan toza O₂ bilan giperventilyatsiyasiz): 11 min 54 s.",
+   "contextUz": "Nafasni uşlaş rekordi (tinç holat, oldindan toza O₂ bilan giperventilyatsiyasiz): 11 min 54 s.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -3219,7 +3219,7 @@
    "id": "ch42-t-11-min-54-s",
    "termUz": "11 min 54 s",
    "original": null,
-   "contextUz": "Nafasni ushlash rekordi (tinch holat, oldindan toza O₂ bilan giperventilyatsiyasiz): 11 min 54 s.",
+   "contextUz": "Nafasni uşlaş rekordi (tinç holat, oldindan toza O₂ bilan giperventilyatsiyasiz): 11 min 54 s.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -3229,7 +3229,7 @@
    "id": "ch42-t-24-minut",
    "termUz": ">24 minut",
    "original": null,
-   "contextUz": "Toza O₂ bilan giperventilyatsiya va CO₂ ni ko’p chiqarib tashlashdan keyin suv ostida >24 minut nafas ushlangan.",
+   "contextUz": "Toza O₂ bilan giperventilyatsiya va CO₂ ni köp çiqarib taşlaşdan keyin suv ostida >24 minut nafas uşlangan.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -3239,7 +3239,7 @@
    "id": "ch42-t-50",
    "termUz": "~50%",
    "original": null,
-   "contextUz": "Elita apnoe sportchilari O₂ saturatsiyasi ~50% ga tushguncha nafas olish istagini bosa oladi; davomiylikni hushdan ketish cheklaydi.",
+   "contextUz": "Elita apnoe sportçilari O₂ saturatsiyasi ~50% ga tuşgunça nafas oliş istagini bosa oladi; davomiylikni huşdan ketiş çeklaydi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -3248,8 +3248,8 @@
   {
    "id": "ch42-t-surunkali-giperkapniya",
    "termUz": "Surunkali giperkapniya",
-   "original": "masalan SOO’K",
-   "contextUz": "Surunkali giperkapniya (masalan SOO’K): CO₂ ga sezgirlik susayadi (HCO₃⁻ moslashuvi), nafas stimuli ko’proq gipoksiyaga tayanadi.",
+   "original": "masalan SOO‘K",
+   "contextUz": "Surunkali giperkapniya (masalan SOÖK): CO₂ ga sezgirlik susayadi (HCO₃⁻ moslaşuvi), nafas stimuli köproq gipoksiyaga tayanadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -3259,7 +3259,7 @@
    "id": "ch42-t-gipoksiyaga",
    "termUz": "gipoksiyaga",
    "original": null,
-   "contextUz": "Surunkali giperkapniya (masalan SOO’K): CO₂ ga sezgirlik susayadi (HCO₃⁻ moslashuvi), nafas stimuli ko’proq gipoksiyaga tayanadi.",
+   "contextUz": "Surunkali giperkapniya (masalan SOÖK): CO₂ ga sezgirlik susayadi (HCO₃⁻ moslaşuvi), nafas stimuli köproq gipoksiyaga tayanadi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -3269,7 +3269,7 @@
    "id": "ch42-t-opioid-overdozasi",
    "termUz": "Opioid overdozasi",
    "original": null,
-   "contextUz": "Opioid overdozasi: nafas markazi depressiyasi, o’limning asosiy sababi.",
+   "contextUz": "Opioid overdozasi: nafas markazi depressiyasi, ölimning asosiy sababi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -3277,9 +3277,9 @@
   },
   {
    "id": "ch42-t-co-zaharlanishi",
-   "termUz": "CO zaharlanishi",
+   "termUz": "CO zaharlanişi",
    "original": null,
-   "contextUz": "CO zaharlanishida PO₂ normal, shuning uchun periferik xemoretseptorlar qo’zg’almaydi (41-bob).",
+   "contextUz": "CO zaharlanişida PO₂ normal, şuning uçun periferik xemoretseptorlar qözğalmaydi (41-bob).",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -3287,9 +3287,9 @@
   },
   {
    "id": "ch42-t-cheyne-stokes",
-   "termUz": "Cheyne-Stokes",
+   "termUz": "Çeyne-Stokes",
    "original": null,
-   "contextUz": "Cheyne-Stokes: og’ir yurak yetishmovchiligi yoki miya shikasti (yomon prognoz).",
+   "contextUz": "Çeyne-Stokes: oğir yurak yetişmovçiligi yoki miya şikasti (yomon prognoz).",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",
@@ -3309,7 +3309,7 @@
    "id": "ch42-t-akklimatizatsiya",
    "termUz": "Akklimatizatsiya",
    "original": null,
-   "contextUz": "Akklimatizatsiya: sekin ko’tarilish ventilyatsiyani 4–5 marta oshiradi.",
+   "contextUz": "Akklimatizatsiya: sekin kötariliş ventilyatsiyani 4–5 marta oşiradi.",
    "lessonId": "ch42",
    "topicId": "07",
    "source": "summaryUz",

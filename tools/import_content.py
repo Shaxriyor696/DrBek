@@ -731,7 +731,7 @@ def main():
                 "pdfPages": [ch["pdfStart"], ch["pdfEnd"]],
                 "printedPages": [ch["pdfStart"] - PAGE_OFFSET, ch["pdfEnd"] - PAGE_OFFSET],
                 "outline": [dict(o, printedPage=str(o["pdfPage"] - PAGE_OFFSET), id=f"{sid}-h-{slug(o['title'])}") for o in outline],
-                "objectives": [re.sub(r"\s*\(p\..*?\)\s*$", "", b["text"]).strip() for b in simple if b["type"] == "heading" and b["level"] == 2 and not re.match(r"^(Asosiy g|Bog'liqlik|Bog’liqlik|Klinik)", b["text"])],
+                "objectives": [re.sub(r"\s*\(p\..*?\)\s*$", "", b["text"]).strip() for b in simple if b["type"] == "heading" and b["level"] == 2 and not re.match(r"^(Asosiy g|Bog'liqlik|Bog’liqlik|Bog‘liqlik|Klinik)", b["text"])],
                 "blocks": {"simple": simple, "full": full},
                 "glossary": terms,
                 "bookDefinitions": book_defs,
@@ -802,3 +802,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+    # o‘ g‘ / tutuq / “ ” — Uzbek fields typed as in Word (see tools/uz_typography.py)
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    import uz_typography
+    _out = sys.argv[sys.argv.index("--out") + 1] if "--out" in sys.argv else "content"
+    uz_typography.run(os.path.abspath(_out))
+    import subprocess
+    subprocess.run(["node", os.path.join(os.path.dirname(__file__), "rewrite-uz-content.mjs"), _out], check=True)
