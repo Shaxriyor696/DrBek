@@ -980,8 +980,10 @@ main.content:focus, main.content:focus-visible { outline: none; }
    fills the whole hero card (no cut-out, no mask) and a left gradient keeps text legible. */
 .hero-dark { background: #04303F; }
 .hero-dark img {
-  top: 0; bottom: 0; left: auto; right: 0; width: auto; height: 100%; max-width: 100%;
-  object-fit: contain; object-position: right center;
+  /* always fill the full card height; a taller card crops the (plain) left side of
+     the banner instead of leaving empty bands above/below the artwork */
+  top: 0; bottom: 0; left: auto; right: 0; width: auto; height: 100%; max-width: none;
+  object-fit: fill;
   -webkit-mask-image: linear-gradient(90deg, transparent 0, #000 12%); mask-image: linear-gradient(90deg, transparent 0, #000 12%);
   filter: none;
 }

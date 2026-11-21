@@ -1,6 +1,6 @@
-import { h, icon, mount, fmtMin } from '../ui.js?v=mwqdavav';
-import { get } from '../api.js?v=mwqdavav';
-import { ringBox, kpi, bar } from './home.js?v=mwqdavav';
+import { h, icon, mount, fmtMin } from '../ui.js?v=mwqdgmla';
+import { get } from '../api.js?v=mwqdgmla';
+import { ringBox, kpi, bar } from './home.js?v=mwqdgmla';
 
 const RANGES = [['day', 'Kunlik'], ['week', 'Haftalik'], ['month', 'Oylik']];
 const MON = ['yan', 'fev', 'mar', 'apr', 'may', 'iyun', 'iyul', 'avg', 'sen', 'okt', 'noy', 'dek'];

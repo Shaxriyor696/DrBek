@@ -1,7 +1,7 @@
-import { h, icon, mount, toast, emptyBox, promptBox, confirmBox, fmtDate, inline } from '../ui.js?v=mwqdavav';
-import { get, post, patch, del } from '../api.js?v=mwqdavav';
-import { openFigure } from '../common.js?v=mwqdavav';
-import { setDirty } from '../main.js?v=mwqdavav';
+import { h, icon, mount, toast, emptyBox, promptBox, confirmBox, fmtDate, inline } from '../ui.js?v=mwqdgmla';
+import { get, post, patch, del } from '../api.js?v=mwqdgmla';
+import { openFigure } from '../common.js?v=mwqdgmla';
+import { setDirty } from '../main.js?v=mwqdgmla';
 
 const TABS = [['topic', 'Mavzular'], ['lesson', 'Bölimlar'], ['notes', 'Qaydlar'], ['ai_answer', 'AI javoblari'], ['figure', 'Rasmlar'], ['selection', 'Parçalar']];
 const KIND = { topic: ['layers', 'Asosiy mavzu', ''], lesson: ['folder', 'Içki bölim', 'violet'], figure: ['image', 'Kitob rasmi', ''], selection: ['file', 'Parça', 'violet'], ai_answer: ['sparkles', 'AI javobi', 'violet'], book: ['book', 'Kitob', ''] };
