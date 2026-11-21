@@ -1,11 +1,11 @@
-import { h, icon, mount, toast, emptyBox, promptBox, confirmBox, fmtDate, inline } from '../ui.js?v=mwnipjbv';
-import { get, post, patch, del } from '../api.js?v=mwnipjbv';
-import { openFigure } from '../common.js?v=mwnipjbv';
-import { setDirty } from '../main.js?v=mwnipjbv';
+import { h, icon, mount, toast, emptyBox, promptBox, confirmBox, fmtDate, inline } from '../ui.js?v=mwqdavav';
+import { get, post, patch, del } from '../api.js?v=mwqdavav';
+import { openFigure } from '../common.js?v=mwqdavav';
+import { setDirty } from '../main.js?v=mwqdavav';
 
 const TABS = [['topic', 'Mavzular'], ['lesson', 'Bölimlar'], ['notes', 'Qaydlar'], ['ai_answer', 'AI javoblari'], ['figure', 'Rasmlar'], ['selection', 'Parçalar']];
 const KIND = { topic: ['layers', 'Asosiy mavzu', ''], lesson: ['folder', 'Içki bölim', 'violet'], figure: ['image', 'Kitob rasmi', ''], selection: ['file', 'Parça', 'violet'], ai_answer: ['sparkles', 'AI javobi', 'violet'], book: ['book', 'Kitob', ''] };
-const wide = (u) => String(u || '').replace(/\.webp$/, '_wide.webp');
+const wide = (u) => String(u || '').replace(/\.webp$/, '_wide.webp?v=3');
 
 export async function saved({ el, state, query }) {
   let tab = TABS.some(([k]) => k === query.type) ? query.type : 'topic';
@@ -36,7 +36,7 @@ export async function saved({ el, state, query }) {
     const [ic, kl, kc] = KIND[b.targetType] || KIND.topic;
     const tp = tpOf(b);
     const link = hrefOf(b);
-    const img = h('img', { src: tp ? wide(tp.cardImage) : 'assets/topics/topic_03_wide.webp', alt: '', loading: 'lazy' });
+    const img = h('img', { src: tp ? wide(tp.cardImage) : 'assets/topics/topic_03_wide.webp?v=3', alt: '', loading: 'lazy' });
     if (b.targetType === 'figure') get(`/api/figures/${encodeURIComponent(b.targetId)}`).then((r) => { if (r.figure.url) img.src = r.figure.url; }).catch(() => {});
     const open = b.targetType === 'figure' ? h('button', { type: 'button', class: 'btn primary small', onclick: () => openFigure(b.targetId) }, icon('arrowRight', 'sm'), 'Oçiş')
       : link ? h('a', { class: 'btn primary small', href: link }, icon('arrowRight', 'sm'), 'Oçiş') : null;
@@ -59,7 +59,7 @@ export async function saved({ el, state, query }) {
   function noteCard(n) {
     const tp = n.topicId ? topicById.get(n.topicId) : null;
     return h('article', { class: 'card scard' },
-      h('div', { class: 'img' }, h('img', { src: tp ? wide(tp.cardImage) : 'assets/topics/topic_03_wide.webp', alt: '' }), h('span', { class: 'pill kind violet' }, icon('note', 'sm'), 'Şaxsiy qayd')),
+      h('div', { class: 'img' }, h('img', { src: tp ? wide(tp.cardImage) : 'assets/topics/topic_03_wide.webp?v=3', alt: '' }), h('span', { class: 'pill kind violet' }, icon('note', 'sm'), 'Şaxsiy qayd')),
       h('div', { class: 'body' },
         tp ? h('span', { class: 'small muted' }, `${tp.id} ${tp.title}`) : null,
         h('div', { class: 't' }, n.lessonTitle || 'Qayd'),

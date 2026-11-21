@@ -1,6 +1,6 @@
-import { h, icon, mount, toast, rid, emptyBox, confirmBox, fmtDate, inline, ring } from '../ui.js?v=mwnipjbv';
-import { get, post, put } from '../api.js?v=mwnipjbv';
-import { setDirty } from '../main.js?v=mwnipjbv';
+import { h, icon, mount, toast, rid, emptyBox, confirmBox, fmtDate, inline, ring } from '../ui.js?v=mwqdavav';
+import { get, post, put } from '../api.js?v=mwqdavav';
+import { setDirty } from '../main.js?v=mwqdavav';
 
 const pct = (a) => (a.percent === null || a.percent === undefined ? '—' : `${a.percent}%`);
 
@@ -183,13 +183,13 @@ export async function results({ el, params, navigate }) {
   const recs = (recLessons.length ? recLessons : d.items.slice(0, 2)).map((x) => {
     const sec = tp?.sections.find((s) => s.id === x.lessonId);
     return h('a', { class: 'rec', href: `/topics/${x.source?.topicId || topicId}/sections/${x.lessonId}` },
-      h('img', { src: tp ? tp.topic.cardImage.replace(/\.webp$/, '_wide.webp') : 'assets/topics/topic_03_wide.webp', alt: '' }),
+      h('img', { src: tp ? tp.topic.cardImage.replace(/\.webp$/, '_wide.webp?v=3') : 'assets/topics/topic_03_wide.webp?v=3', alt: '' }),
       h('div', {}, h('b', { style: { fontSize: '17px', display: 'block' } }, x.lessonTitle), h('span', { class: 'small muted' }, `${tp ? `${tp.topic.id} ${tp.topic.title} · ` : ''}${sec ? `${String(sec.order).padStart(2, '0')}-bölim` : ''}`)), icon('right'));
   });
   mount(el,
     h('div', { style: { marginBottom: '16px' } }, h('h1', { style: { margin: 0 } }, 'Natijangiz va keyingi qadam'), h('p', { class: 'sub', style: { margin: '4px 0 0' } }, `${A.scopeTitle} · ${A.mode === 'exam' ? 'Imtihon' : 'Maşq'} natijasi${A.isBest ? ' · eng yaxşi natija' : ''}`)),
     h('section', { class: 'res-hero' },
-      h('div', { class: 'art' }, h('img', { src: tp?.topic.cardImage || 'assets/topics/topic_03.webp', alt: '' })),
+      h('div', { class: 'art' }, h('img', { src: `${tp?.topic.cardImage || 'assets/topics/topic_03.webp'}?v=3`, alt: '' })),
       h('div', {}, (() => { const r = h('div', { class: 'ring-wrap', style: { width: '190px', height: '190px' } }, ring(p, 190, `${p}% töğri`), h('div', { class: 'ring-label' }, h('span', { style: { fontSize: '44px' } }, `${p}%`, h('small', {}, 'töğri javoblar')))); return r; })()),
       h('ul', {},
         h('li', {}, h('span', { class: 'dot-ic ok' }, icon('check')), h('span', {}, h('b', {}, c), ' ta töğri')),

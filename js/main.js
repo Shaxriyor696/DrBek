@@ -1,7 +1,7 @@
 // App shell + client router.
-import { h, icon, mount, toast, confirmBox, skeleton, errorBox } from './ui.js?v=mwnipjbv';
-import { get, post } from './api.js?v=mwnipjbv';
-import { mascot } from './mascot.js?v=mwnipjbv';
+import { h, icon, mount, toast, confirmBox, skeleton, errorBox } from './ui.js?v=mwqdavav';
+import { get, post } from './api.js?v=mwqdavav';
+import { mascot } from './mascot.js?v=mwqdavav';
 
 export const state = { me: null, lastPosition: null, dirty: null, cleanup: null };
 
@@ -72,7 +72,7 @@ const ROUTES = [
 
 const pageCache = {};
 async function loadPage(name) {
-  if (!pageCache[name]) pageCache[name] = await import(`./pages/${name}.js?v=mwnipjbv`);
+  if (!pageCache[name]) pageCache[name] = await import(`./pages/${name}.js?v=mwqdavav`);
   return pageCache[name];
 }
 
@@ -122,7 +122,7 @@ function shell(route) {
         h('span', { class: 'pc-text' }, icon('right', 'sm')))));
   const searchInput = h('input', { type: 'search', name: 'q', placeholder: 'Mavzu yoki bölim qidiriş', 'aria-label': 'Qidiruv', value: route.fn === 'search' ? new URLSearchParams(loc.search).get('q') || '' : '' });
   const topbar = h('header', { class: 'topbar' },
-    h('button', { class: 'icon-btn menu-btn', type: 'button', 'aria-label': 'Menyuni oçiş', 'aria-controls': 'sidebar', onclick: () => toggleSidebar(true) }, icon('menu')),
+    h('button', { class: 'icon-btn menu-btn', type: 'button', 'aria-label': 'Menyuni oçiş yoki yopiş', title: 'Menyuni oçiş / yopiş', 'aria-controls': 'sidebar', onclick: onMenuBtn }, icon('menu')),
     h('form', { class: 'search', role: 'search', onsubmit: (e) => { e.preventDefault(); const q = searchInput.value.trim(); if (q) navigate(`/search?q=${encodeURIComponent(q)}`); } }, icon('search'), searchInput),
     h('div', { class: 'top-actions' },
       h('a', { class: 'icon-btn bell', href: '/analytics', title: 'Eslatmalar va natijalar', 'aria-label': 'Eslatmalar' }, icon('bell')),
@@ -136,8 +136,23 @@ function shell(route) {
   const back = h('div', { class: 'drawer-back hidden', id: 'sb-back', onclick: () => toggleSidebar(false) });
   // floating AI mascot; hidden where the AI is already open (assistant, lesson side panel), where the page has its own (analytics) or would distract (tests, admin)
   const fab = ['assistant', 'reader', 'admin', 'analytics'].includes(route.page) || route.fn === 'attempt' ? null : mascot(() => navigate('/assistant'));
-  const app = h('div', { class: 'app' }, sidebar, back, h('div', { class: 'main' }, topbar, h('div', { style: { padding: '0 28px' }, class: 'verify-wrap' }, verify), main), bottom, fab);
+  const app = h('div', { class: `app${sbPref() ? ` sb-${sbPref()}` : ''}` }, sidebar, back, h('div', { class: 'main' }, topbar, h('div', { style: { padding: '0 28px' }, class: 'verify-wrap' }, verify), main), bottom, fab);
   return { app, main };
+}
+// Desktop: the menu button collapses the sidebar to an icon rail (or expands the rail on
+// mid-size screens, where the rail is the default). The choice is remembered per browser.
+const sbPref = () => { try { return localStorage.getItem('ds:sidebar') || ''; } catch { return ''; } };
+function onMenuBtn() {
+  const w = window.innerWidth;
+  if (w <= 720) { toggleSidebar(true); return; }
+  const app = document.querySelector('.app');
+  if (!app) return;
+  const wide = w > 1100;
+  const cls = wide ? 'sb-collapsed' : 'sb-expanded';
+  const on = !app.classList.contains(cls);
+  app.classList.remove('sb-collapsed', 'sb-expanded');
+  if (on) app.classList.add(cls);
+  try { localStorage.setItem('ds:sidebar', on ? cls.slice(3) : ''); } catch { /* private mode */ }
 }
 function toggleSidebar(open) {
   document.getElementById('sidebar')?.classList.toggle('open', open);

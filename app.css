@@ -935,7 +935,6 @@ main.content:focus, main.content:focus-visible { outline: none; }
   transition: transform .15s ease, box-shadow .15s ease;
 }
 .btn.hero-btn:hover { transform: translateY(-1px); box-shadow: 0 16px 30px -10px var(--acc), inset 0 1px 0 rgba(255,255,255,.35); }
-.btn.hero-btn svg { fill: currentColor; }
 @media (max-width: 1100px) { .hero-dark h2, .hero-dark h1 { font-size: 34px; } }
 @media (max-width: 720px) {
   .hero-dark { padding: 186px 20px 22px; }
@@ -955,3 +954,43 @@ main.content:focus, main.content:focus-visible { outline: none; }
 .t-hero.hero-dark .icon-btn { background: rgba(255,255,255,.12); border: 1px solid rgba(255,255,255,.22); color: #fff; backdrop-filter: blur(6px); }
 .t-hero.hero-dark .icon-btn:hover { background: rgba(255,255,255,.2); }
 @media (max-width: 720px) { .t-hero.hero-dark { padding: 196px 20px 22px; } .t-hero.hero-dark .txt { max-width: 100%; } .t-hero.hero-dark h1 { font-size: 36px; } .t-hero.hero-dark .lead { font-size: 16px; } }
+
+/* ---------- Collapsible desktop sidebar (menu button in the top bar) ---------- */
+.menu-btn { display: inline-grid; }
+.app { transition: grid-template-columns .2s ease; }
+@media (min-width: 1101px) {
+  .app.sb-collapsed { --sidebar: 76px; }
+  .app.sb-collapsed .sidebar { padding: 14px 10px; }
+  .app.sb-collapsed .sidebar .brand img.word, .app.sb-collapsed .nav a span, .app.sb-collapsed .profile-chip .pc-text { display: none; }
+  .app.sb-collapsed .nav a { justify-content: center; padding: 11px; }
+  .app.sb-collapsed .brand { justify-content: center; padding: 4px 0 20px; }
+  .app.sb-collapsed .profile-chip { justify-content: center; padding: 8px; border: 0; background: transparent; }
+}
+@media (min-width: 721px) and (max-width: 1100px) {
+  .app.sb-expanded { --sidebar: 232px; }
+  .app.sb-expanded .sidebar { padding: 22px 16px; }
+  .app.sb-expanded .sidebar .brand img.word, .app.sb-expanded .nav a span, .app.sb-expanded .profile-chip .pc-text { display: initial; }
+  .app.sb-expanded .nav a { justify-content: flex-start; padding: 12px 14px; }
+  .app.sb-expanded .brand { justify-content: flex-start; padding: 2px 6px 26px; }
+  .app.sb-expanded .profile-chip { justify-content: flex-start; padding: 10px; border: 1px solid #E3ECEB; background: var(--card); }
+}
+
+/* ---------- Full-bleed topic banners (topic_NN_banner.webp, 3:1, dark teal) ----------
+   The banner already has its own dark background with the artwork on the right, so it
+   fills the whole hero card (no cut-out, no mask) and a left gradient keeps text legible. */
+.hero-dark { background: #04303F; }
+.hero-dark img {
+  top: 0; bottom: 0; left: auto; right: 0; width: auto; height: 100%; max-width: 100%;
+  object-fit: contain; object-position: right center;
+  -webkit-mask-image: linear-gradient(90deg, transparent 0, #000 12%); mask-image: linear-gradient(90deg, transparent 0, #000 12%);
+  filter: none;
+}
+.hero-dark:hover img { transform: scale(1.02); transform-origin: right center; }
+.hero-dark::after { background: linear-gradient(90deg, rgba(4,48,63,.95) 0%, rgba(4,48,63,.6) 34%, rgba(4,48,63,0) 52%); }
+@media (max-width: 720px) {
+  .hero-dark img { top: 0; bottom: auto; left: 0; right: 0; transform: none; width: 100%; height: 190px; max-width: none;
+    object-fit: cover; object-position: 72% center; -webkit-mask-image: none; mask-image: none; }
+  .hero-dark:hover img { transform: none; }
+  .hero-dark::after { background: linear-gradient(180deg, transparent 0, transparent 130px, #04303F 190px, #04303F 100%); }
+}
+.tcard .img, .topic-card .img { background: #04303F; }

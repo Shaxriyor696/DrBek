@@ -1,7 +1,7 @@
-import { h, icon, mount, toast, confirmBox, fmtDate } from '../ui.js?v=mwnipjbv';
-import { get, post, del } from '../api.js?v=mwnipjbv';
-import { createChat } from '../chat.js?v=mwnipjbv';
-import { openFigure } from '../common.js?v=mwnipjbv';
+import { h, icon, mount, toast, confirmBox, fmtDate } from '../ui.js?v=mwqdavav';
+import { get, post, del } from '../api.js?v=mwqdavav';
+import { createChat } from '../chat.js?v=mwqdavav';
+import { openFigure } from '../common.js?v=mwqdavav';
 
 const TOPIC_IC = { '03': 'heart', '04': 'heart', '07': 'cloud' };
 

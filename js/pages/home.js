@@ -1,8 +1,8 @@
-import { h, icon, mount, ring, fmtMin } from '../ui.js?v=mwnipjbv';
-import { get } from '../api.js?v=mwnipjbv';
-import { topicCard } from './topics.js?v=mwnipjbv';
-import { state } from '../main.js?v=mwnipjbv';
-import { themeVars } from '../topic-theme.js?v=mwnipjbv';
+import { h, icon, mount, ring, fmtMin } from '../ui.js?v=mwqdavav';
+import { get } from '../api.js?v=mwqdavav';
+import { topicCard } from './topics.js?v=mwqdavav';
+import { state } from '../main.js?v=mwqdavav';
+import { themeVars } from '../topic-theme.js?v=mwqdavav';
 
 const WD = ['Du', 'Se', 'Ç', 'Pa', 'Ju', 'Şa', 'Ya'];
 const greeting = () => { const hr = new Date().getHours(); return hr < 5 ? 'Xayrli tun' : hr < 11 ? 'Xayrli tong' : hr < 18 ? 'Xayrli kun' : 'Xayrli keç'; };
@@ -25,7 +25,7 @@ export async function dashboard({ el }) {
   const s = d.stats;
   const c = d.continue && !d.continue.archived ? d.continue : null;
   const heroTopic = c ? c.topicId : '03';
-  const heroImg = (c?.cardImage || 'assets/topics/topic_03.webp').replace(/\.webp$/, '_hero.webp?v=2');
+  const heroImg = (c?.cardImage || 'assets/topics/topic_03.webp').replace(/\.webp$/, '_banner.webp?v=3');
   const contCard = h('section', { class: 'cont-card hero-dark', style: themeVars(heroTopic) },
     h('img', { src: heroImg, alt: '' }),
     h('div', { class: 'txt' },

@@ -25,4 +25,7 @@ export function topicTheme(id) {
 }
 
 // CSS custom properties for a hero element: style: themeVars(topicId)
-export const themeVars = (id) => { const t = topicTheme(id); return { '--hb1': t.bg1, '--hb2': t.bg2, '--acc': t.acc, '--acc-ink': t.ink }; };
+// The hero button / accent is the same brand teal on every topic (only the banner art differs).
+export const HERO_ACCENT = '#2FD3C1';
+export const HERO_ACCENT_INK = '#16233B';
+export const themeVars = (id) => { const t = topicTheme(id); return { '--hb1': t.bg1, '--hb2': t.bg2, '--acc': HERO_ACCENT, '--acc-ink': HERO_ACCENT_INK }; };

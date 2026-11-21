@@ -1,6 +1,6 @@
-import { h, icon, mount, fmtMin } from '../ui.js?v=mwnipjbv';
-import { get } from '../api.js?v=mwnipjbv';
-import { ringBox, kpi, bar } from './home.js?v=mwnipjbv';
+import { h, icon, mount, fmtMin } from '../ui.js?v=mwqdavav';
+import { get } from '../api.js?v=mwqdavav';
+import { ringBox, kpi, bar } from './home.js?v=mwqdavav';
 
 const RANGES = [['day', 'Kunlik'], ['week', 'Haftalik'], ['month', 'Oylik']];
 const MON = ['yan', 'fev', 'mar', 'apr', 'may', 'iyun', 'iyul', 'avg', 'sen', 'okt', 'noy', 'dek'];
@@ -183,7 +183,7 @@ export async function analytics({ el, query }) {
             const pct = t.lessons ? Math.round((t.read / t.lessons) * 100) : 0;
             return h('a', { class: 'tp-row', role: 'listitem', href: `/topics/${t.id}`, 'aria-label': `${t.id} ${t.title}: ${t.read} / ${t.lessons} bölim, test ${t.quizAccuracy === null ? 'yöq' : `${t.quizAccuracy}%`}` },
               h('span', { class: 'tp-n' }, t.id),
-              t.cardImage ? h('img', { class: 'tp-img', src: t.cardImage, alt: '', loading: 'lazy' }) : null,
+              t.cardImage ? h('img', { class: 'tp-img', src: `${t.cardImage}?v=3`, alt: '', loading: 'lazy' }) : null,
               h('div', { class: 'tp-main' }, h('b', {}, t.title), h('div', { class: 'tp-prog' }, bar(pct), h('span', { class: 'xs muted' }, `${t.read}/${t.lessons} bölim`))),
               h('span', { class: `score ${scoreCls(t.quizAccuracy)}` }, t.quizAccuracy === null ? '—' : `${t.quizAccuracy}%`),
               icon('right', 'sm'));

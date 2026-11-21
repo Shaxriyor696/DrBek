@@ -1,11 +1,11 @@
-import { h, icon, mount, emptyBox } from '../ui.js?v=mwnipjbv';
-import { get } from '../api.js?v=mwnipjbv';
-import { bookmarkButton } from '../common.js?v=mwnipjbv';
-import { loc } from '../main.js?v=mwnipjbv';
-import { normalizeSearchText as norm } from '../search-text.js?v=mwnipjbv';
-import { themeVars } from '../topic-theme.js?v=mwnipjbv';
+import { h, icon, mount, emptyBox } from '../ui.js?v=mwqdavav';
+import { get } from '../api.js?v=mwqdavav';
+import { bookmarkButton } from '../common.js?v=mwqdavav';
+import { loc } from '../main.js?v=mwqdavav';
+import { normalizeSearchText as norm } from '../search-text.js?v=mwqdavav';
+import { themeVars } from '../topic-theme.js?v=mwqdavav';
 
-export const wide = (u) => String(u || '').replace(/\.webp$/, '_wide.webp');
+export const wide = (u) => String(u || '').replace(/\.webp$/, '_wide.webp?v=3');
 
 // Home-page card: wide 3D cover, number | title, bookmark, chevron, small progress.
 export function topicCard(tp) {
@@ -108,7 +108,7 @@ export async function topic({ el, params, setTitle }) {
     h('div', { class: 'topic-layout' },
       h('div', { class: 'stack', style: { gap: '18px' } },
         h('section', { class: 't-hero hero-dark', style: themeVars(t.id) },
-          h('img', { src: t.cardImage.replace(/\.webp$/, '_hero.webp?v=2'), alt: '' }),
+          h('img', { src: t.cardImage.replace(/\.webp$/, '_banner.webp?v=3'), alt: '' }),
           h('div', { class: 'txt' },
             h('span', { class: 'eyebrow' }, `Asosiy mavzu: Fiziologiya · ${t.bookUnit.unit}-qism`),
             h('h1', {}, t.title),
