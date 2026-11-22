@@ -3,8 +3,8 @@
 // tools/build-demo.mjs); the student's own state (progress, reading time, saved items,
 // notes, tests, chats) lives in localStorage. The AI goes through the AI Worker when
 // window.DS_AI_URL is set (see aiAnswer); otherwise only matching book passages are shown.
-import { ApiErr } from './api.js?v=mwsbaqve';
-import { normalizeSearchText as norm } from './search-text.js?v=mwsbaqve';
+import { ApiErr } from './api.js?v=mwsc1ev8';
+import { normalizeSearchText as norm } from './search-text.js?v=mwsc1ev8';
 
 const KEY = 'ds-demo-state-v1';
 const TZ_DEF = 'Asia/Tashkent';
@@ -78,10 +78,13 @@ function secByDay(tz) {
 }
 
 async function topicsData() { return load('demo/data/topics.json'); }
+// fetch all 15 topic files at once (load() caches the promise), so the loops below don't wait on them one by one
+const prefetchTopics = (t) => Promise.all(t.topics.map((tp) => load(`demo/data/topic-${tp.id}.json`)));
 async function lessonIndex() {
   const t = await topicsData();
   if (!lessonIndex.m) {
     const m = new Map();
+    await prefetchTopics(t);
     for (const tp of t.topics) { const d = await load(`demo/data/topic-${tp.id}.json`); for (const s of d.sections) m.set(s.id, { topicId: tp.id, titleUz: s.titleUz, visible: s.visible !== false }); }
     lessonIndex.m = m;
   }
@@ -127,6 +130,7 @@ async function analytics(range = 'week') {
   const idx = await lessonIndex(); const d = done();
   const T = await topicsData();
   const topics = [];
+  await prefetchTopics(T);
   for (const t of T.topics) {
     const det = await load(`demo/data/topic-${t.id}.json`);
     const vis = det.sections.filter((x) => x.visible !== false);
@@ -265,6 +269,7 @@ on('POST', '/api/demo/reset', () => { S = blank(); persist(); return { ok: true 
 on('GET', '/api/topics', async () => {
   needUser();
   const T = clone(await topicsData()); const d = done(); const sv = savedSet('topic');
+  await prefetchTopics(T);
   for (const t of T.topics) {
     const det = await load(`demo/data/topic-${t.id}.json`);
     const vis = det.sections.filter((x) => x.visible !== false);

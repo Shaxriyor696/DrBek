@@ -6,7 +6,7 @@ export class ApiErr extends Error {
   }
 }
 
-const demo = () => (typeof window !== 'undefined' && window.DS_DEMO ? import('./demo-api.js?v=mwsbaqve') : null);
+const demo = () => (typeof window !== 'undefined' && window.DS_DEMO ? import('./demo-api.js?v=mwsc1ev8') : null);
 
 export async function api(path, { method = 'GET', body, signal } = {}) {
   const d = demo();

@@ -1,6 +1,6 @@
 // Shared client helpers: bookmark toggling, figure lightbox, status badges.
-import { h, icon, inline, toast } from './ui.js?v=mwsbaqve';
-import { get, post, del } from './api.js?v=mwsbaqve';
+import { h, icon, inline, toast } from './ui.js?v=mwsc1ev8';
+import { get, post, del } from './api.js?v=mwsc1ev8';
 
 // Toggle a bookmark. POST is idempotent (returns the existing one), so removal = POST then DELETE.
 export async function toggleBookmark(btn, { targetType, targetId, title, snippet, meta }, saved) {

@@ -1,7 +1,7 @@
 // App shell + client router.
-import { h, icon, mount, toast, confirmBox, skeleton, errorBox } from './ui.js?v=mwsbaqve';
-import { get, post } from './api.js?v=mwsbaqve';
-import { mascot } from './mascot.js?v=mwsbaqve';
+import { h, icon, mount, toast, confirmBox, skeleton, errorBox } from './ui.js?v=mwsc1ev8';
+import { get, post } from './api.js?v=mwsc1ev8';
+import { mascot } from './mascot.js?v=mwsc1ev8';
 
 export const state = { me: null, lastPosition: null, dirty: null, cleanup: null };
 
@@ -72,7 +72,7 @@ const ROUTES = [
 
 const pageCache = {};
 async function loadPage(name) {
-  if (!pageCache[name]) pageCache[name] = await import(`./pages/${name}.js?v=mwsbaqve`);
+  if (!pageCache[name]) pageCache[name] = await import(`./pages/${name}.js?v=mwsc1ev8`);
   return pageCache[name];
 }
 
