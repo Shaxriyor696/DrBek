@@ -11,10 +11,11 @@ export function ringBox(percent, size, big, small, label) {
   return h('div', { class: 'ring-wrap', style: { width: `${size}px`, height: `${size}px` } }, ring(percent, size, label),
     h('div', { class: 'ring-label' }, h('span', {}, big, h('small', {}, small))));
 }
-// KPI tile with a 3D icon (public/assets/nav), shared by the dashboard and the results page
+// KPI tile with a small line icon, shared by the dashboard and the results page
+const KPI_IC = { topics: 'grid', library: 'layers', practice: 'target', analytics: 'clock' };
 export function kpi({ img, value, label, foot, tone = '' }) {
   return h('div', { class: `kpi ${tone}` },
-    h('img', { class: 'kpi-ic', src: `/assets/nav/${img}.webp`, alt: '', width: 56, height: 56 }),
+    h('span', { class: 'kpi-ic', 'aria-hidden': 'true' }, icon(KPI_IC[img] || 'chart')),
     h('div', { class: 'kpi-body' }, h('div', { class: 'kpi-val' }, value), h('div', { class: 'kpi-lbl' }, label), foot));
 }
 export const bar = (pct, cls = '') => h('div', { class: `kpi-bar ${cls}`, role: 'progressbar', 'aria-valuemin': 0, 'aria-valuemax': 100, 'aria-valuenow': pct }, h('i', { style: { width: `${Math.max(pct, pct > 0 ? 4 : 0)}%` } }));
@@ -26,14 +27,15 @@ export async function dashboard({ el }) {
   const c = d.continue && !d.continue.archived ? d.continue : null;
   const heroTopic = c ? c.topicId : '03';
   const heroImg = (c?.cardImage || '/assets/topics/topic_03.webp').replace(/\.webp$/, '_banner.webp?v=3');
+  const lessonHref = c ? `/topics/${c.topicId}/sections/${c.lessonId}${c.lastBlock ? `#${c.lastBlock}` : ''}` : '/topics';
   const contCard = h('section', { class: 'cont-card hero-dark', style: themeVars(heroTopic) },
     h('img', { src: heroImg, alt: '' }),
     h('div', { class: 'txt' },
-      h('span', { class: 'eyebrow' }, c ? 'Davom eting:' : 'Şu yerdan boşlang:'),
-      h('h2', {}, c ? c.topicTitle : 'Yurak'),
-      h('span', { class: 'sub' }, c ? c.lessonTitle : 'Yurakning ritmik qözğalişi — töliq özbekça tarjima bilan'),
-      c ? h('div', { class: 'hero-prog' }, h('div', { class: 'track', role: 'progressbar', 'aria-valuenow': c.read, 'aria-valuemin': 0, 'aria-valuemax': c.total, 'aria-label': 'Mavzu progressi' }, h('span', { style: { width: `${c.total ? Math.max(4, (c.read / c.total) * 100) : 0}%` } })), h('b', {}, `${c.read}/${c.total} bölim`)) : null,
-      h('a', { class: 'btn hero-btn', href: c ? `/topics/${c.topicId}/sections/${c.lessonId}${c.lastBlock ? `#${c.lastBlock}` : ''}` : '/topics/03/sections/ch10?tab=uzfull' }, icon('play'), c ? 'Davom etiş' : 'Öqişni boşlaş')));
+      c ? h('span', { class: 'eyebrow' }, `Öqişni davom ettiring · ${c.topicTitle}`) : null,
+      h('h2', {}, c ? c.lessonTitle : 'Birinçi mavzuni tanlang'),
+      c ? null : h('span', { class: 'sub' }, `15 ta mavzu · ${s.lessonsTotal} ta bölim`),
+      c ? h('div', { class: 'hero-prog' }, h('b', {}, `${c.read}/${c.total} bölim`), h('div', { class: 'track', role: 'progressbar', 'aria-valuenow': c.read, 'aria-valuemin': 0, 'aria-valuemax': c.total, 'aria-label': 'Mavzu progressi' }, h('span', { style: { width: `${c.total ? Math.max(4, (c.read / c.total) * 100) : 0}%` } }))) : null,
+      h('a', { class: 'btn hero-btn', href: lessonHref }, c ? 'Davom etiş' : 'Mavzularni köriş', icon('arrowRight'))));
   const left = Math.max(0, Math.ceil(s.dailyGoal - s.todayMinutes));
   // last 7 days as mini bars (today solid); older API responses without `week` just skip it
   const week = s.week || [];
@@ -48,6 +50,18 @@ export async function dashboard({ el }) {
       week.map((x, i) => h('div', { class: `mw-col${i === week.length - 1 ? ' now' : ''}`, title: `${x.day}: ${Math.round(x.minutes)} daqiqa` },
         h('div', { class: 'mw-track' }, h('i', { style: { height: `${x.minutes > 0 ? Math.max(8, (x.minutes / wmax) * 100) : 0}%` } })),
         h('span', {}, WD[(new Date(`${x.day}T12:00:00Z`).getUTCDay() + 6) % 7])))) : null);
+  // phone layout: a slim goal card and a "next step" list instead of the ring / coverage / KPI tiles
+  const gp = Math.min(100, Math.round(s.goalPercent || 0));
+  const mGoal = h('section', { class: 'card m-goal m-only' },
+    h('div', { class: 'row between' }, h('b', {}, 'Bugungi maqsad'), h('b', {}, `${Math.round(s.todayMinutes)} / ${s.dailyGoal} daq`)),
+    h('div', { class: 'progress', role: 'progressbar', 'aria-valuenow': gp, 'aria-valuemin': 0, 'aria-valuemax': 100, 'aria-label': 'Bugungi maqsad' }, h('span', { style: { width: `${gp ? Math.max(gp, 3) : 0}%` } })),
+    h('span', { class: 'small muted' }, left > 0 ? `${left} daqiqa qoldi · ${gp}%` : 'Bugungi maqsad bajarildi'));
+  const step = (ic, title, sub, href) => h('a', { class: 'step-row', href }, h('span', { class: 'step-ic' }, icon(ic)), h('span', { class: 'grow' }, h('b', {}, title), h('span', {}, sub)), icon('right'));
+  const steps = h('section', { class: 'm-only m-steps' },
+    h('h2', {}, 'Keyingi qadam'),
+    step('test', 'Mavzudan test', c ? `${c.topicTitle} · test` : 'Avval mavzu tanlang', c ? `/practice?topic=${c.topicId}` : '/practice'),
+    step('chart', 'Natijalar', 'Öqiş ritmi va faollik', '/analytics'),
+    step('refresh', 'Takrorlaş', `${rq.items.length} ta bölim`, rq.items[0] ? `/topics/${rq.items[0].topicId}/sections/${rq.items[0].lessonId}` : '/analytics'));
   const covPct = Math.round((s.topicsRead / 15) * 100);
   const lessPct = s.lessonsTotal ? Math.round((s.lessonsRead / s.lessonsTotal) * 100) : 0;
   const cov = h('section', { class: 'card pad dcov' },
@@ -68,10 +82,12 @@ export async function dashboard({ el }) {
       h('span', { class: `badge ${it.reason === 'low_score' ? 'warn' : ''}` }, it.reason === 'low_score' ? `Oxirgi test: ${it.percent}%` : 'Siz belgilagansiz'))))) : null;
   mount(el,
     h('div', { class: 'title-row', style: { marginBottom: '14px' } },
-      h('div', {}, h('p', { class: 'hello' }, `${greeting()}${state.me?.profile?.name ? `, ${state.me.profile.name.split(' ')[0]}` : ''}!`), h('h1', {}, 'Fiziologiyani tizimli örganing'), h('p', { class: 'sub' }, '15 asosiy mavzu · kitob asosida · AI yordamçi bilan.')),
+      h('p', { class: 'm-hello m-only' }, `Salom${state.me?.profile?.name ? `, ${state.me.profile.name.split(' ')[0]}` : ''}`),
+      h('div', { class: 'd-only' }, h('p', { class: 'hello' }, `${greeting()}${state.me?.profile?.name ? `, ${state.me.profile.name.split(' ')[0]}` : ''}!`), h('h1', {}, 'Fiziologiyani tizimli örganing'), h('p', { class: 'sub' }, '15 asosiy mavzu · kitob asosida · AI yordamçi bilan.')),
       t.access === 'review_preview' ? h('span', { class: 'preview-chip', title: 'Darslar kitobga asoslangan; özbekça matnlar Claude yordamida tayyorlangan va ekspert tekşiruvini kutmoqda.' }, icon('info', 'sm'), 'Oldindan köriş rejimi') : null),
     d.sample ? h('div', { class: 'banner info', style: { margin: '0 0 14px' } }, icon('info', 'sm'), h('span', {}, 'Web köriniş: grafiklar uçun 1 haftalik namuna faoliyat qöşilgan. ', h('a', { href: '/settings' }, 'Tozalaş'))) : null,
-    h('div', { class: 'dash-hero' }, contCard, goal, cov),
+    h('div', { class: 'dash-hero' }, contCard, mGoal, goal, cov),
+    steps,
     h('div', { class: 'kpi-row dash-kpis' },
       kpi({ img: 'topics', value: `${s.topicsRead} / 15`, label: 'mavzu öqilgan', foot: bar(covPct) }),
       kpi({ img: 'library', value: `${s.lessonsRead} / ${s.lessonsTotal}`, label: 'bölim öqilgan', foot: bar(lessPct, 'blue') }),

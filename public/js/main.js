@@ -33,17 +33,17 @@ function setUrl(to, replace) {
 }
 
 const NAV = [
-  { href: '/dashboard', label: 'Boş sahifa', icon: 'home', match: /^\/dashboard/, img: 'home' },
-  { href: '/topics', label: '15 ta mavzu', icon: 'layers', match: /^\/topics/, img: 'topics' },
-  { href: '/library', label: 'Kutubxona', icon: 'book', match: /^\/library/, img: 'library' },
-  { href: '/practice', label: 'Testlar', icon: 'test', match: /^\/practice/, img: 'practice' },
-  { href: '/saved', label: 'Saqlanganlar', icon: 'bookmark', match: /^\/saved/, img: 'saved' },
-  { href: '/analytics', label: 'Natijalar', icon: 'chart', match: /^\/analytics/, img: 'analytics' },
-  { href: '/assistant', label: 'AI yordamçi', icon: 'sparkles', match: /^\/assistant/, img: 'assistant' },
+  { href: '/dashboard', label: 'Boş sahifa', short: 'Asosiy', icon: 'home', match: /^\/dashboard/ },
+  { href: '/topics', label: 'Mavzular', short: 'Mavzular', icon: 'book', match: /^\/topics/ },
+  { href: '/practice', label: 'Testlar', short: 'Testlar', icon: 'test', match: /^\/practice/ },
+  { href: '/saved', label: 'Saqlanganlar', short: 'Saqlangan', icon: 'bookmark', match: /^\/saved/ },
+  { href: '/assistant', label: 'AI yordamçi', short: 'AI', icon: 'sparkles', match: /^\/assistant/ },
+  { href: '/library', label: 'Kutubxona', icon: 'library', match: /^\/library/, sep: true },
+  { href: '/analytics', label: 'Natijalar', icon: 'chart', match: /^\/analytics/ },
 ];
-const BOTTOM = [NAV[0], NAV[1], NAV[3], NAV[4], NAV[6]];
-// 3D menu icons (public/assets/nav); the line icon stays as a fallback
-const navIcon = (n) => (n.img ? h('img', { class: 'nav-ic', src: `/assets/nav/${n.img}.webp`, alt: '', width: 32, height: 32 }) : icon(n.icon));
+const BOTTOM = NAV.slice(0, 5);
+// simple line icons (same set in the sidebar, bottom bar and the mobile menu sheet)
+const navIcon = (n) => icon(n.icon, 'nav-ic');
 
 const ROUTES = [
   { re: /^\/login$/, page: 'auth', fn: 'login', public: true, bare: true },
@@ -114,7 +114,7 @@ function shell(route) {
     h('a', { class: 'brand', href: '/dashboard', 'aria-label': 'iMedu boş sahifa' },
       h('img', { class: 'mono', src: '/assets/imedu-mono-64.png', alt: '' }),
       h('img', { class: 'word', src: '/assets/imedu-wordmark.png?v=2', alt: 'iMedu' })),
-    h('nav', { class: 'nav' }, NAV.map((n) => h('a', { href: n.href, 'aria-current': n.match.test(path) ? 'page' : null, title: n.label }, navIcon(n), h('span', {}, n.label)))),
+    h('nav', { class: 'nav' }, NAV.map((n) => [n.sep ? h('hr', { class: 'nav-sep' }) : null, h('a', { href: n.href, 'aria-current': n.match.test(path) ? 'page' : null, title: n.label }, navIcon(n), h('span', {}, n.label))])),
     h('div', { class: 'side-foot stack' },
       me?.roles?.some((r) => ['admin', 'editor', 'reviewer'].includes(r)) ? h('nav', { class: 'nav' }, h('a', { href: '/admin', 'aria-current': path.startsWith('/admin') ? 'page' : null, title: 'Kontent boşqaruvi' }, icon('shield'), h('span', {}, 'Kontent boşqaruvi'))) : null,
       h('a', { class: 'profile-chip', href: '/settings', title: 'Profil va sozlamalar' }, h('span', { class: 'avatar' }, initials),
@@ -122,17 +122,22 @@ function shell(route) {
         h('span', { class: 'pc-text' }, icon('right', 'sm')))));
   const searchInput = h('input', { type: 'search', name: 'q', placeholder: 'Mavzu yoki bölim qidiriş', 'aria-label': 'Qidiruv', value: route.fn === 'search' ? new URLSearchParams(loc.search).get('q') || '' : '' });
   const topbar = h('header', { class: 'topbar' },
+    h('a', { class: 'm-brand', href: '/dashboard', 'aria-label': 'iMedu boş sahifa' },
+      h('img', { class: 'mono', src: '/assets/imedu-mono-64.png', alt: '' }),
+      h('img', { class: 'word', src: '/assets/imedu-wordmark.png?v=2', alt: 'iMedu' })),
     h('button', { class: 'icon-btn menu-btn', type: 'button', 'aria-label': 'Menyuni oçiş yoki yopiş', title: 'Menyuni oçiş / yopiş', 'aria-controls': 'sidebar', onclick: onMenuBtn }, icon('menu')),
     h('form', { class: 'search', role: 'search', onsubmit: (e) => { e.preventDefault(); const q = searchInput.value.trim(); if (q) navigate(`/search?q=${encodeURIComponent(q)}`); } }, icon('search'), searchInput),
     h('div', { class: 'top-actions' },
+      h('a', { class: 'icon-btn m-search', href: '/search', title: 'Qidiruv', 'aria-label': 'Qidiruv' }, icon('search')),
+      h('button', { class: 'icon-btn m-menu', type: 'button', 'aria-label': 'Menyu', 'aria-haspopup': 'dialog', onclick: () => menuSheet(initials) }, icon('menu')),
       h('a', { class: 'icon-btn bell', href: '/analytics', title: 'Eslatmalar va natijalar', 'aria-label': 'Eslatmalar' }, icon('bell')),
       h('span', { class: 'lang-btn', title: 'Interfeys tili: özbekça' }, 'UZ', icon('chevDown', 'sm')),
-      h('a', { class: 'user-btn', href: '/settings', title: 'Profil', 'aria-label': 'Profil va sozlamalar' }, icon('user'))));
+      h('a', { class: 'user-btn', href: '/settings', title: 'Profil', 'aria-label': 'Profil va sozlamalar' }, h('span', { class: 'ini' }, initials))));
   const main = h('main', { class: 'content', id: 'main', tabindex: '-1' });
   const verify = me && !me.emailVerified ? h('div', { class: 'banner info', style: { margin: '0 0 14px' } }, icon('info', 'sm'),
     h('span', { class: 'grow' }, 'Email manzilingiz hali tasdiqlanmagan. Poçtangizdagi havolani oçing.'),
     h('button', { class: 'btn small', type: 'button', onclick: async (e) => { e.target.disabled = true; try { await post('/api/auth/resend-verification'); toast('Tasdiqlaş xati qayta yuborildi.'); } catch (err) { toast(err.message); } } }, 'Qayta yuboriş')) : null;
-  const bottom = h('nav', { class: 'bottom-nav', 'aria-label': 'Pastki menyu' }, BOTTOM.map((n) => h('a', { href: n.href, 'aria-current': n.match.test(path) ? 'page' : null }, navIcon(n), n.label.replace('15 ta mavzu', 'Mavzular').replace('AI yordamçi', 'AI'))));
+  const bottom = h('nav', { class: 'bottom-nav', 'aria-label': 'Pastki menyu' }, BOTTOM.map((n) => h('a', { href: n.href, 'aria-current': n.match.test(path) ? 'page' : null }, navIcon(n), h('span', {}, n.short))));
   const back = h('div', { class: 'drawer-back hidden', id: 'sb-back', onclick: () => toggleSidebar(false) });
   // floating AI mascot; hidden where the AI is already open (assistant, lesson side panel), where the page has its own (analytics) or would distract (tests, admin)
   const fab = ['assistant', 'reader', 'admin', 'analytics'].includes(route.page) || route.fn === 'attempt' ? null : mascot(() => navigate('/assistant'));
@@ -142,6 +147,33 @@ function shell(route) {
 // Desktop: the menu button collapses the sidebar to an icon rail (or expands the rail on
 // mid-size screens, where the rail is the default). The choice is remembered per browser.
 const sbPref = () => { try { return localStorage.getItem('ds:sidebar') || ''; } catch { return ''; } };
+// Mobile menu: a bottom sheet with every page (the sidebar is hidden on phones)
+function menuSheet() {
+  if (document.querySelector('.sheet-back')) return;
+  const prev = document.activeElement;
+  const items = [...NAV, { href: '/settings', label: 'Profil' }, { href: '/settings', label: 'Sozlamalar' }];
+  // lock the page behind the sheet so it doesn't scroll or jump while the menu is open
+  const y = window.scrollY;
+  const body = document.body.style;
+  Object.assign(body, { position: 'fixed', top: `-${y}px`, left: '0', right: '0', width: '100%' });
+  const unlock = (toTop) => { Object.assign(body, { position: '', top: '', left: '', right: '', width: '' }); window.scrollTo(0, toTop ? 0 : y); };
+  const close = (navigated) => {
+    back.classList.remove('on'); document.removeEventListener('keydown', onKey);
+    if (navigated) { back.remove(); unlock(true); return; } // a new page renders: start it at the top
+    setTimeout(() => { back.remove(); unlock(false); prev?.focus?.({ preventScroll: true }); }, 220);
+  };
+  const onKey = (e) => { if (e.key === 'Escape') close(); };
+  const sheet = h('div', { class: 'sheet', role: 'dialog', 'aria-modal': 'true', 'aria-labelledby': 'sheet-title' },
+    h('div', { class: 'sheet-grip', 'aria-hidden': 'true' }),
+    h('div', { class: 'sheet-head' }, h('h2', { id: 'sheet-title' }, 'Menyu'), h('button', { class: 'sheet-x', type: 'button', 'aria-label': 'Yopiş', onclick: () => close() }, icon('x'))),
+    h('nav', { class: 'sheet-list' }, items.map((n) => h('a', { href: n.href, 'aria-current': n.match?.test(loc.path) ? 'page' : null, onclick: () => close(true) }, h('span', { class: 'grow' }, n.label), icon('right')))));
+  const back = h('div', { class: 'sheet-back', onclick: (e) => { if (e.target === back) close(); } }, sheet);
+  document.body.appendChild(back);
+  document.addEventListener('keydown', onKey);
+  requestAnimationFrame(() => back.classList.add('on'));
+  sheet.querySelector('.sheet-x').focus({ preventScroll: true });
+}
+
 function onMenuBtn() {
   const w = window.innerWidth;
   if (w <= 720) { toggleSidebar(true); return; }

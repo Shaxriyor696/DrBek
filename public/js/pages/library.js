@@ -87,7 +87,11 @@ export async function search({ el, query, navigate }) {
   const q = (query.q || '').trim();
   const type = query.type || '';
   const page = +query.page || 1;
-  if (!q) { mount(el, h('h1', {}, 'Qidiruv'), emptyBox('search', 'Qidiruv sözini kiriting', 'Yuqoridagi qidiruv maydonidan foydalaning.')); return; }
+  // in-page search bar (phones hide the top-bar field): back arrow + input
+  const inp = h('input', { type: 'search', name: 'q', value: q, placeholder: 'Mavzu yoki bölimni qidiriş', 'aria-label': 'Qidiruv', enterkeyhint: 'search' });
+  const bar = h('form', { class: 'page-search', role: 'search', onsubmit: (e) => { e.preventDefault(); const v = inp.value.trim(); if (v) navigate(`/search?q=${encodeURIComponent(v)}`); } },
+    h('button', { type: 'button', class: 'ps-back', 'aria-label': 'Orqaga', onclick: () => history.back() }, icon('left')), inp);
+  if (!q) { mount(el, bar, emptyBox('search', 'Qidiruv sözini kiriting', 'Mavzu, bölim yoki atama nomini yozing.')); setTimeout(() => inp.focus(), 50); return; }
   const r = await get(`/api/search?q=${encodeURIComponent(q)}${type ? `&type=${type}` : ''}&page=${page}`);
   const go = (p) => navigate(`/search?${new URLSearchParams({ q, ...(p.type ?? type ? { type: p.type ?? type } : {}), ...(p.page ? { page: p.page } : {}) })}`);
   const link = (x) => {
@@ -96,7 +100,7 @@ export async function search({ el, query, navigate }) {
     if (x.lessonId) return h('a', { href: `/topics/${x.topicId}/sections/${x.lessonId}?tab=${x.lang === 'en' ? 'full' : 'simple'}${x.blockId ? `#${x.blockId}` : ''}`, style: { fontWeight: 800 } }, x.title);
     return h('b', {}, x.title);
   };
-  mount(el, h('h1', {}, `“${q}” böyiça natijalar`), h('p', { class: 'muted small' }, `${r.total} ta natija`),
+  mount(el, bar, h('h1', {}, `“${q}” böyiça natijalar`), h('p', { class: 'muted small' }, `${r.total} ta natija`),
     h('div', { class: 'row', style: { flexWrap: 'wrap', marginBottom: '14px' } }, TYPES.map(([k, l]) => h('button', { type: 'button', class: 'chip', 'aria-pressed': String(k === type), onclick: () => go({ type: k }) }, l))),
     r.results.length ? h('div', { class: 'stack' }, r.results.map((x) => h('article', { class: 'card pad', style: { padding: '14px' } },
       h('div', { class: 'row', style: { gap: '6px', marginBottom: '4px', flexWrap: 'wrap' } }, h('span', { class: 'badge' }, x.badge || x.type), x.lang === 'en' ? h('span', { class: 'badge gray' }, 'EN') : null, x.lessonTitle ? h('span', { class: 'xs muted' }, x.lessonTitle) : null),

@@ -24,25 +24,24 @@ export function topicCard(tp) {
 
 // Catalog card: cover, number + title + bookmark, description, "Mavzuni ochish".
 function catalogCard(tp) {
-  const label = { read: 'Öqilgan', started: 'Davom etiş', not_started: 'Mavzuni oçiş', no_material: 'Mavzuni oçiş' }[tp.state] || 'Mavzuni oçiş';
-  return h('article', { class: 'card tcard cat', id: `topic-${tp.id}` },
-    h('div', { class: 'img' }, h('img', { src: wide(tp.cardImage), alt: '', loading: 'lazy' })),
-    h('div', { class: 'row1' },
+  // Compact horizontal card: square thumbnail | number, title, progress | bookmark.
+  const total = tp.lessonsTotal || 0;
+  const pct = total ? Math.round(((tp.lessonsRead || 0) / total) * 100) : 0;
+  return h('article', { class: 'card tcard cat hz', id: `topic-${tp.id}`, title: tp.description || '' },
+    h('div', { class: 'img' }, h('img', { src: tp.cardImage, alt: '', loading: 'lazy' })),
+    h('div', { class: 'hz-body' },
       h('span', { class: 'num' }, tp.id),
       h('a', { class: 'ttl', href: `/topics/${tp.id}` }, tp.title),
-      bookmarkButton({ targetType: 'topic', targetId: tp.id, title: `${tp.id} ${tp.title}` }, tp.saved, 'bm')),
-    h('p', { class: 'desc' }, tp.description),
-    h('div', { class: 'act' },
-      tp.lessonsRead ? h('div', { class: 'row', style: { gap: '8px', marginBottom: '10px' } },
-        h('div', { class: 'progress grow', style: { height: '6px' } }, h('span', { style: { width: `${Math.round((tp.lessonsRead / tp.lessonsTotal) * 100)}%` } })),
-        h('span', { class: 'xs muted' }, `${tp.lessonsRead}/${tp.lessonsTotal} bölim`)) : null,
-      h('a', { class: `btn ${tp.state === 'read' ? 'soft' : 'primary'}`, href: `/topics/${tp.id}`, tabindex: '-1' }, icon(tp.state === 'read' ? 'checkCircle' : 'book'), label)));
+      h('div', { class: 'hz-prog' },
+        h('div', { class: 'progress grow', role: 'progressbar', 'aria-valuenow': pct, 'aria-valuemin': 0, 'aria-valuemax': 100, 'aria-label': `${tp.title} progressi` }, h('span', { style: { width: `${pct}%` } })),
+        h('span', { class: 'xs muted' }, `${tp.lessonsRead || 0}/${total} bölim`))),
+    bookmarkButton({ targetType: 'topic', targetId: tp.id, title: `${tp.id} ${tp.title}` }, tp.saved, 'bm'));
 }
 
 export async function catalog({ el }) {
   const { topics, access } = await get('/api/topics');
   let q = ''; let filter = 'all';
-  const grid = h('div', { class: 'grid g4' });
+  const grid = h('div', { class: 'grid g3 topic-grid' });
   const count = h('span', { class: 'small muted', 'aria-live': 'polite' });
   const draw = () => {
     const list = topics.filter((t) => (filter === 'all' || t.state === filter || (filter === 'saved' && t.saved)) && (!q || norm(`${t.id} ${t.title} ${t.description}`).includes(norm(q))));
