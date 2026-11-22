@@ -1,6 +1,6 @@
-import { h, icon, mount, toast } from '../ui.js?v=mwqeam7z';
-import { patch, post } from '../api.js?v=mwqeam7z';
-import { loadMe, logout, navigate } from '../main.js?v=mwqeam7z';
+import { h, icon, mount, toast } from '../ui.js?v=mwsbaqve';
+import { patch, post } from '../api.js?v=mwsbaqve';
+import { loadMe, logout, navigate } from '../main.js?v=mwsbaqve';
 
 const DIRS = ['Davolaş işi', 'Pediatriya', 'Stomatologiya', 'Tibbiy profilaktika', 'Farmatsiya', 'Hamşiralik işi', 'Boşqa'];
 const TZS = ['Asia/Tashkent', 'Asia/Samarkand', 'Asia/Almaty', 'Asia/Bishkek', 'Asia/Dushanbe', 'Europe/Moscow', 'Europe/Istanbul', 'UTC'];

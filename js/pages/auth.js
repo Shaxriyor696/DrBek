@@ -1,6 +1,6 @@
-import { h, icon, mount, toast } from '../ui.js?v=mwqeam7z';
-import { post, patch } from '../api.js?v=mwqeam7z';
-import { loadMe, state } from '../main.js?v=mwqeam7z';
+import { h, icon, mount, toast } from '../ui.js?v=mwsbaqve';
+import { post, patch } from '../api.js?v=mwsbaqve';
+import { loadMe, state } from '../main.js?v=mwsbaqve';
 
 function layout(title, sub, form, which) {
   return h('div', { class: 'auth' },
@@ -14,6 +14,10 @@ function layout(title, sub, form, which) {
         h('div', {}, h('span', { class: 'ic' }, icon('sparkles')), 'AI yordamida örganiş')),
       h('img', { class: 'art', src: 'assets/topics/topic_03.webp', alt: '' })),
     h('main', { class: 'auth-form', id: 'main' },
+      h('header', { class: 'auth-m-head', 'aria-hidden': 'true' },
+        h('div', { class: 'amh-brand' }, h('img', { src: 'assets/imedu-mono-64.png', alt: '', width: 34, height: 34 }), h('img', { class: 'amh-word', src: 'assets/imedu-wordmark.png?v=2', alt: '' })),
+        h('p', {}, 'Şifokorlik sari', h('br'), 'işonçli qadam'),
+        h('img', { class: 'amh-art', src: 'assets/topics/topic_03.webp', alt: '' })),
       h('div', { class: 'box stack' },
         which ? h('nav', { class: 'seg full', 'aria-label': 'Kiriş yoki röyxatdan ötiş' }, h('a', { href: '/login', 'aria-current': which === 'login' ? 'page' : null }, 'Kiriş'), h('a', { href: '/register', 'aria-current': which === 'register' ? 'page' : null }, 'Röyxatdan ötiş'))
           : h('div', { class: 'row', style: { gap: '0' } }, h('img', { src: 'assets/imedu-mono-64.png', alt: '', width: 40, height: 40 }), h('img', { src: 'assets/imedu-wordmark.png?v=2', alt: 'iMedu', style: { height: '24px', width: 'auto', marginLeft: '10px' } })),
