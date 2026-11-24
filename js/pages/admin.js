@@ -1,6 +1,6 @@
-import { h, icon, mount, toast, modal } from '../ui.js?v=mwsc1ev8';
-import { get, post } from '../api.js?v=mwsc1ev8';
-import { statusBadge, openFigure, figLabel } from '../common.js?v=mwsc1ev8';
+import { h, icon, mount, toast, modal } from '../ui.js?v=mwv0pg5k';
+import { get, post } from '../api.js?v=mwv0pg5k';
+import { statusBadge, openFigure, figLabel } from '../common.js?v=mwv0pg5k';
 
 export async function admin({ el, state }) {
   const d = await get('/api/admin/overview');

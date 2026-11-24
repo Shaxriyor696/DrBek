@@ -1,9 +1,9 @@
-import { h, icon, mount, emptyBox } from '../ui.js?v=mwsc1ev8';
-import { get } from '../api.js?v=mwsc1ev8';
-import { bookmarkButton } from '../common.js?v=mwsc1ev8';
-import { loc } from '../main.js?v=mwsc1ev8';
-import { normalizeSearchText as norm } from '../search-text.js?v=mwsc1ev8';
-import { themeVars } from '../topic-theme.js?v=mwsc1ev8';
+import { h, icon, mount, emptyBox } from '../ui.js?v=mwv0pg5k';
+import { get } from '../api.js?v=mwv0pg5k';
+import { bookmarkButton } from '../common.js?v=mwv0pg5k';
+import { loc } from '../main.js?v=mwv0pg5k';
+import { normalizeSearchText as norm } from '../search-text.js?v=mwv0pg5k';
+import { themeVars } from '../topic-theme.js?v=mwv0pg5k';
 
 export const wide = (u) => String(u || '').replace(/\.webp$/, '_wide.webp?v=3');
 
@@ -83,7 +83,7 @@ export async function topic({ el, params, setTitle }) {
     const state = s.progress.completed ? h('span', { class: 'state done' }, icon('checkCircle', 'sm'), 'Öqilgan')
       : cur || s.progress.opened ? h('span', { class: 'state go' }, icon('book', 'sm'), 'Davom etiş')
         : h('span', { class: 'state todo' }, 'Öqilmagan');
-    const meta = [`${s.id.replace('ch', '')}-bob`, `kitob ${s.printedPages[0]}–${s.printedPages[1]}-bet`, `~${s.estMinutes} daq`, `${s.counts.figuresIncluded} rasm`];
+    const meta = [`${s.id.replace('ch', '')}-bölim`, s.own ? 'yangilangan matn' : `kitob ${s.printedPages[0]}–${s.printedPages[1]}-bet`, `~${s.estMinutes} daq`, `${s.counts.figuresIncluded} rasm`];
     if (s.translation) meta.push(`ma’lumot (UZ) ${Math.round((s.translation.translated / s.translation.total) * 100)}%`);
     if (s.lastQuiz) meta.push(`test: ${s.lastQuiz.percent}%`);
     const inner = [h('span', { class: 'n' }, String(i + 1).padStart(2, '0')),

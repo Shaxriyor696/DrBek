@@ -320,6 +320,10 @@ figure.fig .fig-missing { padding: 30px; text-align: center; color: var(--text-2
 .book-fig { margin: 1.2em 0; background: #fff; border: 1px solid var(--border); border-radius: 14px; padding: 10px; }
 .book-fig .fig-btn { display: block; width: 100%; border: 0; background: #fff; padding: 0; cursor: zoom-in; border-radius: 10px; }
 .book-fig img { display: block; max-width: 100%; max-height: 520px; width: auto; height: auto; margin: 0 auto; }
+/* iMedu's own figures: large, readable on laptops; tall diagrams may use most of the screen height */
+.book-fig.own img { max-height: none; width: 100%; }
+/* tall own figures: width-limited (text stays readable), the page scrolls */
+.book-fig.own.tall img { width: min(100%, 640px); }
 .book-fig figcaption { font-size: 14px; line-height: 1.5; color: var(--text-2); margin-top: 8px; }
 .lightbox .lb-stage img { max-width: 100%; }
 .badge.ok { background: var(--ok-bg); color: var(--ok); }

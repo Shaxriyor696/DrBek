@@ -3,8 +3,8 @@
 // tools/build-demo.mjs); the student's own state (progress, reading time, saved items,
 // notes, tests, chats) lives in localStorage. The AI goes through the AI Worker when
 // window.DS_AI_URL is set (see aiAnswer); otherwise only matching book passages are shown.
-import { ApiErr } from './api.js?v=mwsc1ev8';
-import { normalizeSearchText as norm } from './search-text.js?v=mwsc1ev8';
+import { ApiErr } from './api.js?v=mwv0pg5k';
+import { normalizeSearchText as norm } from './search-text.js?v=mwv0pg5k';
 
 const KEY = 'ds-demo-state-v1';
 const TZ_DEF = 'Asia/Tashkent';
@@ -96,7 +96,7 @@ const pct = (c, t) => (t ? Math.round((c / t) * 1000) / 10 : null);
 const submittedAttempts = () => st().attempts.filter((a) => a.status === 'submitted');
 
 async function figurePack(imageId) {
-  const m = /^gh14-(?:fig|tab)-(\d{2})-/.exec(imageId || '');
+  const m = /^(?:gh14-(?:fig|tab)-|r-ch)(\d{2})-/.exec(imageId || '');
   if (!m) return {};
   try { return await load(`demo/media/ch${m[1]}.json`); } catch { return {}; }
 }
