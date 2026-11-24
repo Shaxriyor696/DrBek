@@ -87,9 +87,11 @@ const dist = (t) => Math.hypot(t[0].clientX - t[1].clientX, t[0].clientY - t[1].
 
 export function figureBlock(f, onOpen) {
   if (!f) return null;
-  return h('figure', { class: 'book-fig', id: `fig-${f.imageId}` },
+  const own = f.bookEditionId === 'imedu';
+  const tall = own && f.dimensions && f.dimensions[1] > 1.3 * f.dimensions[0];
+  return h('figure', { class: own ? (tall ? 'book-fig own tall' : 'book-fig own') : 'book-fig', id: `fig-${f.imageId}` },
     h('button', { type: 'button', class: 'fig-btn', onclick: () => onOpen(f), 'aria-label': `${figLabel(f)} — kattalaştiriş` },
       f.url ? h('img', { src: f.url, alt: f.altTextUz || f.originalCaption || figLabel(f), loading: 'lazy', width: f.dimensions?.[0], height: f.dimensions?.[1] }) : h('div', { class: 'empty small' }, icon('image'), 'Rasm kesib olinmagan — kitob sahifasini oçing')),
     h('figcaption', {}, h('b', {}, `${figLabel(f)}. `), f.captionUz ? inline(f.captionUz) : (f.originalCaption || '').replace(/^(Figure|Table)\s*\d+-\d+\.?\s*/, ''),
-      h('span', { class: 'xs muted', style: { display: 'block' } }, `Kitob, ${f.printedPageLabel ?? '—'}-bet · `, f.reviewStatus === 'approved' ? 'tasdiqlangan' : 'tekşirilişi kerak')));
+      h('span', { class: 'xs muted', style: { display: 'block' } }, f.bookEditionId === 'imedu' ? 'iMedu rasmi · ' : `Kitob, ${f.printedPageLabel ?? '—'}-bet · `, f.reviewStatus === 'approved' ? 'tasdiqlangan' : 'tekşirilişi kerak')));
 }

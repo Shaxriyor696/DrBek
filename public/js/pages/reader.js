@@ -5,7 +5,9 @@ import { createChat } from '../chat.js';
 import { setDirty, loc, replaceUrlQuiet } from '../main.js';
 import { normalizeSearchText as n } from '../search-text.js';
 
-const TABS = [['simple', 'Umumiy ma’lumot'], ['uzfull', 'Ma’lumot (UZ)'], ['full', 'Ma’lumot (EN)'], ['terms', 'Atamalar'], ['source', 'Manba']];
+const BOOK_TABS = [['simple', 'Umumiy ma’lumot'], ['uzfull', 'Ma’lumot (UZ)'], ['full', 'Ma’lumot (EN)'], ['terms', 'Atamalar'], ['source', 'Manba']];
+// iMedu's own rewritten lessons: no book text, the full Uzbek text lives in blocks.full
+const OWN_TABS = [['simple', 'Qisqa xulosa'], ['full', 'Töliq matn'], ['terms', 'Atamalar'], ['source', 'Manba']];
 
 export async function reader({ el, params, query, state, navigate, setTitle }) {
   let data;
@@ -18,6 +20,8 @@ export async function reader({ el, params, query, state, navigate, setTitle }) {
     throw err;
   }
   const L = data.lesson;
+  const OWN = !!L.own;
+  const TABS = OWN ? OWN_TABS : BOOK_TABS;
   if (L.topicId !== params.topicId || L.id !== params.sectionId) {
     replaceUrlQuiet(`/topics/${L.topicId}/sections/${L.id}${loc.search}${loc.anchor}`);
   }
@@ -36,6 +40,7 @@ export async function reader({ el, params, query, state, navigate, setTitle }) {
     return openFigure(tab === 'uzfull' && figure ? uzFigure(figure) : figure || fid, { onSave: saveFigure, onNote: noteFromFigure });
   };
   let tab = TABS.some(([k]) => k === query.tab) ? query.tab : (data.progress.lastTab || 'simple');
+  if (!TABS.some(([k]) => k === tab)) tab = OWN && tab === 'uzfull' ? 'full' : 'simple';
   let completed = !!data.progress.completed;
   const sessionId = rid();
   const cleanups = [];
@@ -90,14 +95,34 @@ export async function reader({ el, params, query, state, navigate, setTitle }) {
     };
     draw();
     return h('div', { class: 'stack' },
-      h('p', { class: 'small muted' }, 'Atamalar özbekça izohdan avtomatik ajratilgan (qalin yozilgan sözlar) va tekşirilişi kerak. Pastda kitobdagi asl ta’rif jumlalari keltirilgan.'),
+      h('p', { class: 'small muted' }, OWN ? 'Bölimdagi asosiy atamalar: özbekça nomi, qavs içida inglizça nomi va qisqa ta’rifi.' : 'Atamalar özbekça izohdan avtomatik ajratilgan (qalin yozilgan sözlar) va tekşirilişi kerak. Pastda kitobdagi asl ta’rif jumlalari keltirilgan.'),
       h('input', { type: 'search', placeholder: 'Atama qidiriş', 'aria-label': 'Atama qidiriş', oninput: (e) => { q = e.target.value.trim(); draw(); } }),
       list,
       L.bookDefinitions?.length ? h('section', {}, h('h2', {}, 'Kitobdagi ta’riflar (EN)'), h('ul', {}, L.bookDefinitions.map((d) => h('li', { class: 'small' }, `${d.text}. `, h('a', { href: `/source-pdf/${L.source.bookId}#page=${d.pdfPage}`, target: '_blank', rel: 'noopener', class: 'xs' }, `${d.printedPage}-bet`))))) : null,
       L.keyNumbers?.length ? h('section', {}, h('h2', {}, 'Muhim raqamlar (EN)'), h('ul', {}, L.keyNumbers.map((d) => h('li', { class: 'small' }, `${d.text}. `, h('span', { class: 'xs muted' }, `${d.printedPage}-bet`))))) : null);
   }
 
+  function ownSourceView() {
+    return h('div', { class: 'stack' },
+      h('section', { class: 'card pad' },
+        h('h2', { style: { marginTop: 0 } }, 'iMedu darsligi'),
+        h('p', { class: 'small' }, 'Bu bölim matni fiziologiya darsliklari asosida iMedu jamoasi tomonidan özbek tilida öz sözlari bilan yozilgan. Kitob matni ham, kitob rasmlari ham ko‘çirilmagan.'),
+        h('ul', { class: 'small' },
+          h('li', {}, `Foydalanilgan manbalar: ${L.source.sources || '—'}.`),
+          h('li', {}, 'Raqamlar va me’yorlar bir neça manba bilan soliştirib tekşirilgan; manbalar orasidagi farqlar alohida qayd etilgan.'),
+          h('li', {}, 'Rasmlar iMedu uçun yangidan çizilgan.'))),
+      h('section', { class: 'card pad' },
+        h('h3', { style: { marginTop: 0 } }, 'Holat'),
+        h('div', { class: 'row', style: { flexWrap: 'wrap' } }, statusBadge(data.status), h('span', { class: 'xs muted' }, `Kontent versiyasi ${L.contentVersion}`))),
+      h('section', {},
+        h('h2', {}, `Bölimdagi rasmlar (${data.figures.length})`),
+        h('div', { class: 'grid g3' }, data.figures.map((f) => h('button', { type: 'button', class: 'card', style: { padding: '8px', cursor: 'zoom-in', textAlign: 'left' }, onclick: () => onFigure(f.imageId) },
+          f.url ? h('img', { src: f.url, alt: '', loading: 'lazy', style: { width: '100%', height: '140px', objectFit: 'contain', background: '#fff' } }) : h('div', { class: 'empty small', style: { height: '140px' } }, icon('image')),
+          h('div', { class: 'xs', style: { marginTop: '6px' } }, h('b', {}, figLabel(f))))))));
+  }
+
   function sourceView() {
+    if (OWN) return ownSourceView();
     const b = data.book;
     const pdf = (p) => `/source-pdf/${b.id}#page=${p}`;
     return h('div', { class: 'stack' },
@@ -128,7 +153,7 @@ export async function reader({ el, params, query, state, navigate, setTitle }) {
     tabBtns.forEach((b) => b.setAttribute('aria-selected', String(b.dataset.tab === tab)));
     if (tab === 'simple') {
       mount(prose,
-        h('div', { class: 'callout small', style: { marginBottom: '1em' } }, icon('info', 'sm'), ` Bu — kitob bobi böyiça umumiy ma’lumot (qisqartirilgan). Kitobdagidek töliq matn uçun ${TR ? '“Ma’lumot (UZ)”' : '“Ma’lumot (EN)”'} bölimini oçing.`),
+        h('div', { class: 'callout small', style: { marginBottom: '1em' } }, icon('info', 'sm'), OWN ? ' Bu — bölimning qisqa xulosasi. Batafsil matn uçun “Töliq matn” bölimini oçing.' : ` Bu — kitob bobi böyiça umumiy ma’lumot (qisqartirilgan). Kitobdagidek töliq matn uçun ${TR ? '“Ma’lumot (UZ)”' : '“Ma’lumot (EN)”'} bölimini oçing.`),
         L.objectives?.length ? h('div', { class: 'card pad', style: { marginBottom: '1em', background: '#F7FBFA' } }, h('b', {}, 'Bu darsda:'), h('ul', { style: { margin: '6px 0 0' } }, L.objectives.slice(0, 8).map((o) => h('li', { class: 'small' }, inline(o))))) : null,
         L.blocks.simple.map(blockEl));
     } else if (tab === 'uzfull') {
@@ -143,7 +168,7 @@ export async function reader({ el, params, query, state, navigate, setTitle }) {
           L.blocks.full.map(trBlock));
       }
     } else if (tab === 'full') {
-      mount(prose, h('div', { class: 'callout small', style: { marginBottom: '1em' } }, icon('book', 'sm'), ' Guyton & Hall, 14-naşr — kitobning töliq asl inglizça matni. Rasm havolalarini bosib kitob rasmini köring.'), L.blocks.full.map(blockEl));
+      mount(prose, OWN ? null : h('div', { class: 'callout small', style: { marginBottom: '1em' } }, icon('book', 'sm'), ' Guyton & Hall, 14-naşr — kitobning töliq asl inglizça matni. Rasm havolalarini bosib kitob rasmini köring.'), L.blocks.full.map(blockEl));
     } else if (tab === 'terms') mount(prose, termsView());
     else mount(prose, sourceView());
     drawOutline();
@@ -370,10 +395,10 @@ export async function reader({ el, params, query, state, navigate, setTitle }) {
     h('nav', { class: 'crumbs', 'aria-label': 'Yöl' }, h('a', { href: '/dashboard', 'aria-label': 'Boş sahifa' }, icon('home', 'sm')), h('span', {}, '/'), h('a', { href: '/topics' }, '15 ta mavzu'), h('span', {}, '/'), h('a', { href: `/topics/${L.topicId}` }, `${L.topicId} ${data.topic.title}`), h('span', {}, '/'), h('b', { style: { color: 'var(--text)' } }, L.titleUz)),
     h('div', { class: 'reader-head' },
       h('h1', {}, L.titleUz),
-      h('span', { class: 'pill' }, icon('book', 'sm'), `${L.source.chapter}-bob · kitob ${L.printedPages[0]}–${L.printedPages[1]}-bet · ~${L.estMinutes} daq`)));
+      h('span', { class: 'pill' }, icon('book', 'sm'), OWN ? `${L.source.chapter}-bölim · ~${L.estMinutes} daq` : `${L.source.chapter}-bob · kitob ${L.printedPages[0]}–${L.printedPages[1]}-bet · ~${L.estMinutes} daq`)));
   const header = h('header', { class: 'stack', style: { gap: '10px', marginBottom: '12px' } },
     h('div', { class: 'row between', style: { flexWrap: 'wrap', gap: '8px' } },
-      h('span', { class: 'small muted' }, L.titleOriginal),
+      OWN ? null : h('span', { class: 'small muted' }, L.titleOriginal),
       h('div', { class: 'reader-tools' },
         h('button', { type: 'button', class: 'icon-btn toc-btn', 'aria-label': 'Bölimlar röyxati', onclick: () => { toc.classList.add('open'); back.classList.remove('hidden'); } }, icon('list')),
         h('button', { type: 'button', class: 'icon-btn', 'aria-label': 'Matnni kiçiklaştiriş', onclick: () => setFont(-1) }, h('span', { style: { fontWeight: 800, fontSize: '13px' } }, 'A−')),

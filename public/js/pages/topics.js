@@ -83,7 +83,7 @@ export async function topic({ el, params, setTitle }) {
     const state = s.progress.completed ? h('span', { class: 'state done' }, icon('checkCircle', 'sm'), 'Öqilgan')
       : cur || s.progress.opened ? h('span', { class: 'state go' }, icon('book', 'sm'), 'Davom etiş')
         : h('span', { class: 'state todo' }, 'Öqilmagan');
-    const meta = [`${s.id.replace('ch', '')}-bob`, `kitob ${s.printedPages[0]}–${s.printedPages[1]}-bet`, `~${s.estMinutes} daq`, `${s.counts.figuresIncluded} rasm`];
+    const meta = [`${s.id.replace('ch', '')}-bölim`, s.own ? 'yangilangan matn' : `kitob ${s.printedPages[0]}–${s.printedPages[1]}-bet`, `~${s.estMinutes} daq`, `${s.counts.figuresIncluded} rasm`];
     if (s.translation) meta.push(`ma’lumot (UZ) ${Math.round((s.translation.translated / s.translation.total) * 100)}%`);
     if (s.lastQuiz) meta.push(`test: ${s.lastQuiz.percent}%`);
     const inner = [h('span', { class: 'n' }, String(i + 1).padStart(2, '0')),

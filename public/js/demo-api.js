@@ -96,7 +96,7 @@ const pct = (c, t) => (t ? Math.round((c / t) * 1000) / 10 : null);
 const submittedAttempts = () => st().attempts.filter((a) => a.status === 'submitted');
 
 async function figurePack(imageId) {
-  const m = /^gh14-(?:fig|tab)-(\d{2})-/.exec(imageId || '');
+  const m = /^(?:gh14-(?:fig|tab)-|r-ch)(\d{2})-/.exec(imageId || '');
   if (!m) return {};
   try { return await load(`demo/media/ch${m[1]}.json`); } catch { return {}; }
 }

@@ -97,7 +97,7 @@ for f in os.listdir(src):
 `, imgDir, tmpImg]);
   const packs = {};
   for (const f of fs.readdirSync(tmpImg)) {
-    const m = /^gh14-(?:fig|tab)-(\d{2})-/.exec(f); if (!m) continue;
+    const m = /^(?:gh14-(?:fig|tab)-|r-ch)(\d{2})-/.exec(f); if (!m) continue;
     const ch = `ch${m[1]}`;
     (packs[ch] ||= {})[f.replace(/\.webp$/, '')] = `data:image/webp;base64,${fs.readFileSync(path.join(tmpImg, f)).toString('base64')}`;
   }
